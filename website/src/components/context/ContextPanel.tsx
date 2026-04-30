@@ -26,7 +26,7 @@ interface ContextPanelProps {
 }
 
 function makeEid(name: string): string {
-  return name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-');
+  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
 }
 
 /** Exclude sentence-fragment false positives from entity extraction */

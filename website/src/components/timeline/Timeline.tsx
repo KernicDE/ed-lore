@@ -36,13 +36,13 @@ const BUFFER = 5;
 
 function wikiLinkToHtml(text: string, baseUrl: string): string {
   return text.replace(/\[\[([^\]]+)\]\]/g, (_match, name) => {
-    const eid = name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-');
+    const eid = name.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
     return `<a href="${baseUrl}/entity/${eid}/" class="wiki-link">${name}</a>`;
   });
 }
 
 function makeEntityId(name: string): string {
-  return name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-');
+  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
 }
 
 function TagList({ items, color, baseUrl }: { items: string[]; color: string; baseUrl: string }) {
