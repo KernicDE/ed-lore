@@ -4,29 +4,30 @@ title: Corporate Battle Erupts in Tavgi System
 slug: corporate_battle_erupts_in_tavgi_system
 date: '3309-04-06'
 source: API
-entities:
-- Philippa Barlow-Lyons provided
-- Zachary Hudson
-groups:
-- ACT
-- Thargoid
+entities: []
+groups: []
 locations:
 - Enterprise
 - Mars
-- Mars to the Tavgi
-- Thargoid
+- Tavgi
 topics:
-- alien contact
 - corporate expansion
 - crime
-- espionage
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+modern_impact: "Barlow-Lyons's aggressive stance — 'board the Orchestral Falcon – by force, if necessary' — shows corporate escalation. Torval's counter — 'Caine-Massey is using its CEO's death to excuse a deliberate strike against my company' — frames the conflict as commercial warfare. Hudson and Patreus's statements escalate the superpower dimension. The mention that 'majority of superpower naval forces deployed to the Thargoid front line' explains the proxy nature of the conflict."
+persons:
+- Philippa Barlow-Lyons
+- Zemina Torval
+- Zachary Hudson
+- Denton Patreus
+player_impact: "Federal and Imperial naval auxiliaries are called to report to Gordon Enterprise and the Orchestral Falcon respectively."
+summary: "The Caine-Massey/Torval Mining conflict escalates into open combat in the Tavgi system, with both superpowers' naval forces placed on alert."
 legacy_weight: 5
 significance: high
+related_uuids:
+- dc0a3b52-41d2-52f6-9311-d5e5ebe0eff6
+- 5cfb0d52-1732-5f48-a502-fc7d1aa11dfa
+- d3fb0003-ded4-528c-904b-9140da2aac02
 ---
 
 *Pilots’ Federation ALERT*

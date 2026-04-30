@@ -4,26 +4,26 @@ title: Alliance Urges Restraint Between Superpowers
 slug: alliance_urges_restraint_between_superpowers
 date: '3309-04-18'
 source: API
-entities:
-- Mahon agreed
+entities: []
 groups:
-- ACT
 - Alliance
-- Thargoid
-locations:
-- Dozens of independent
-- Many
-- Thargoid
+locations: []
 topics:
-- alien contact
-- corporate expansion
 - diplomacy
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+modern_impact: "Sterling's summary — 'their clash has led to bullish rhetoric from members of both Congress and the Senate' — captures the political climate. Kaine's practical concern — 'Military distractions between the Empire and Federation would place more responsibility on the Alliance for protecting independent systems from Thargoid invasion' — is self-interested but valid. The 'dozens of independent systems' supporting the Alliance's request shows broad concern."
+persons:
+- Edmund Mahon
+- Nakato Kaine
+- Conrad Sterling
+player_impact: "Not specifically mentioned — this is a diplomatic report."
+summary: "The Alliance and independent systems call for de-escalation between the Empire and Federation after the Tavgi and Pichch conflicts, with Mahon sending diplomatic envoys."
 legacy_weight: 5
 significance: high
+related_uuids:
+- d7c1ae35-aa55-50f5-af5a-90479b0a0037
+- 8c47b45e-0c93-55aa-96ca-ca5fb68c3582
+- e5597169-2e45-54d8-ac5a-f1955561c832
 ---
 
 Allied and independent leaders have called upon the Empire and the Federation to discourage faction hostilities following conflict in Tavgi.

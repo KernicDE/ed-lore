@@ -4,27 +4,27 @@ title: Convoy Tragedy Halts Superpower Conflict
 slug: convoy_tragedy_halts_superpower_conflict
 date: '3309-04-27'
 source: API
-entities:
-- Arissa Lavigny-Duval made
-groups:
-- ACT
-- Thargoid
+entities: []
+groups: []
 locations:
 - Maelstrom
-- Pichch is a Federal
-- Thargoid
+- Pichch
 topics:
-- alien contact
 - humanitarian
-- safety
-- ship
-- succession
 - war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+arc_id: null
+modern_impact: "Troy's reporting — 'an entire convoy carrying anti-xeno weaponry was destroyed by Imperial-aligned ships, which mistakenly identified them as local Federal resupply vessels' — is the catalytic event. Arissa's command — 'Undermining human resistance against the Thargoid invasion cannot be tolerated' — shows Imperial priority. Hudson's parallel statement frames the conflict as irresponsible given the Thargoid threat. Both leaders' intervention from the top shows the conflict's seriousness."
+persons:
+- Arissa Lavigny-Duval
+- Zachary Hudson
+- Karleen Troy
+player_impact: "Both factions agreed to honor commitments to supporters, with rewards at Tiptree Port."
+summary: "An accidental destruction of an anti-xeno supply convoy by Imperial forces in Pichch forces both superpowers to order an immediate ceasefire."
 legacy_weight: 5
 significance: high
+related_uuids:
+- d3fb0003-ded4-528c-904b-9140da2aac02
+- 8c47b45e-0c93-55aa-96ca-ca5fb68c3582
 ---
 
 *Pilots’ Federation ALERT*

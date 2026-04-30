@@ -4,23 +4,29 @@ title: The Mystery of the Mars Assassin
 slug: the_mystery_of_the_mars_assassin
 date: '3309-04-25'
 source: API
-entities:
-- Johann Fleischer
-- Viola Trask
-groups:
-- ACT
+entities: []
+groups: []
 locations:
 - Alpha Caeli
 - Trask
 topics:
-- corporate expansion
-- espionage
 - investigation
 - scandal
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: "Trask's revelation — 'no evidence that Rayne was hired by Torval Mining Ltd... The Imperial-issue weapon... was a deliberate choice to foster the impression that the assassination was ordered by elements within the Empire' — is a significant twist. Her observation that 'the evidence implicating an Imperial Intelligence agent was too good to be true' shows FIA competence. Barlow-Lyons's reluctant withdrawal — 'grief may have gotten the better of me' — is a rare corporate admission."
+persons:
+- Viola Trask
+- Kieran Rayne
+- Philippa Barlow-Lyons
+- Johann Fleischer
+- Zemina Torval
+player_impact: "Not specifically mentioned — this is an investigative report."
+summary: "The FIA reveals the assassin is a freelance mercenary named Kieran Rayne with no Imperial connections, and Caine-Massey withdraws its accusation against Torval."
 legacy_weight: 2
 significance: low
+related_uuids:
+- dc0a3b52-41d2-52f6-9311-d5e5ebe0eff6
+- d7c1ae35-aa55-50f5-af5a-90479b0a0037
+- 5cfb0d52-1732-5f48-a502-fc7d1aa11dfa
 ---
 
 The suspected ‘Imperial assassin’ who shot Caine-Massey CEO Johann Fleischer has been cleared of any connection to the Empire.

@@ -4,32 +4,32 @@ title: Salvation-Utopia Link Raises Concerns
 slug: salvation_utopia_link_raises_concerns
 date: '3309-04-11'
 source: API
-entities:
-- Maximo Fonseca
+entities: []
 groups:
-- ACT
-- Aegis
-- Alliance
-- Azimuth
+- Azimuth Biotech
 - Federal Times
 - Salvation
 - Utopia
 locations:
-- Aegis
-- Azimuth
 - Guardian
 topics:
-- engineering
 - investigation
-- medicine
 - research
-- war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+modern_impact: "Lafosse's speculation — 'did Salvation modify Antal's system for his own private use... Or maybe Azimuth and Utopia were secretly working together all this time' — is conspiracy theorizing. Nassry's counter — 'the few inventions that have been examined... contain no molecular markers of Guardian origin' — is scientific rebuttal. Fonseca's measured approach — 'Our findings will determine whether a formal investigation into Salvation's current status is warranted' — is bureaucratic caution."
+persons:
+- Maximo Fonseca
+- Flint Lafosse
+- Harlow Nassry
+- Pranav Antal
+player_impact: "Not specifically mentioned — this is a scientific and investigative report."
+summary: "Questions arise about a possible connection between Salvation's Nemesis Failsafe and Utopia's Sim-Archive, with Fonseca arranging a visit to investigate."
 legacy_weight: 5
 significance: high
+related_uuids:
+- e159e9da-bdef-5639-9acd-252e0a4cfb09
+- 6f7afccb-b157-55b6-9874-901f66de4876
 ---
 
 Similarities between the Nemesis Failsafe and Utopia’s Sim-Archive have led to questions being asked about a possible connection.
