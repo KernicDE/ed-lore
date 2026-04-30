@@ -4,7 +4,7 @@ name: Jerome Archer
 type: person
 first_seen_date: '3307-03-24'
 last_seen_date: '3311-07-17'
-mention_count: 36
+mention_count: 37
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 36
 
 First mentioned: **3307-03-24**  
 Last mentioned: **3311-07-17**  
-Total mentions: **36**
+Total mentions: **37**
 
 ## Related
 

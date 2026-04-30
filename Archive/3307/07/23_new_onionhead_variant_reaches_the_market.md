@@ -4,24 +4,44 @@ title: New Onionhead Variant Reaches the Market
 slug: new_onionhead_variant_reaches_the_market
 date: '3307-07-23'
 source: API
-entities:
+arc_id: onionhead-conflict
+persons:
 - Adalyn Cross
+- Sinclair Faraldo
+- Archon Delaine
 groups:
 - Kumo Crew
 - Pilots Federation
-- Sirius Corp
 - Sirius Corporation
+- Coalition for Legalisation
+- Vox Galactica
 locations:
+- Alici
+- Baraswar
+- Kishpakho
+- Nastrond
+- Nocori
 - Sirius
+- Gateway
+- Pegasi Sector PN-T c3-14
+- Kumo City
+technologies:
+- Onionhead gamma strain
+- Helix drug
+- Engineered seeds
 topics:
 - corporate expansion
 - narcotics
-- ship
-- trade
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+player_impact: The new drug is now available in approximately 10% of industrial anarchy markets.
+summary: Onionhead gamma strain (helix) enters the market in selected industrial anarchy systems. Journalist Adalyn Cross reports it is marketed for medicinal use but remains illegal outside anarchy jurisdictions. Concerns arise about Sirius Corporation potentially ferrying shipments via its freight network, which the company denies.
+modern_impact: The rapid distribution of onionhead gamma strain demonstrates the Kumo Crew's sophisticated logistics capabilities and raises ongoing questions about Sirius Corporation's possible involvement in illicit trade.
+related_uuids:
+- b1886f93-ecbf-50e3-83c6-743f46436d7b
+- 3517ce1e-1d0e-57c9-ada1-bcdf88b77d23
+- ea0496c2-a753-54ad-b6de-0c3d9bf29edf
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

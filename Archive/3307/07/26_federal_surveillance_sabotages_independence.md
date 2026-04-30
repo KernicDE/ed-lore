@@ -4,18 +4,38 @@ title: Federal Surveillance Sabotages Independence
 slug: federal_surveillance_sabotages_independence
 date: '3307-07-26'
 source: API
-entities:
-- Jerome Archer defended
+arc_id: federal-politics
+persons:
+- Bethany Blake
+- Jerome Archer
+- Zachary Hudson
+- Felicia Winters
+- Bai Zheng
 groups:
 - NMLA
+- Proactive Detection Bureau
+- Federal Intelligence Agency
+- Advocacy
+- Federal Congress
+locations:
+- Federal Congress
+- Sol
+- Federal Accord
+technologies:
+- Proactive Detection Bureau surveillance system
+- Dark-comms network
 topics:
 - crime
 - independence
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
-legacy_weight: 5
-significance: high
+player_impact: None directly; this is a surveillance policy report.
+summary: The Proactive Detection Bureau uses intercepted communications to prevent further factions from leaving the Federation. Advocacy reports the FIA targets pro-independence individuals via private messages. Deputy Director Bethany Blake confirms this is within legal remit. Congressman Bai Zheng remarks the PDB is 'incapable of locating the NMLA, but fantastic at finding enemies among our own people'.
+modern_impact: The PDB's use against secessionists rather than terrorists confirms civil liberties advocates' worst fears, demonstrating how emergency surveillance powers expand to target domestic political opposition.
+related_uuids:
+- ef028c66-1901-5fef-af9f-2c741a9066b6
+- e962c6b8-fd3d-59c4-847f-27923ec53502
+- d78b9f69-dd13-5d3c-8970-3f9237691ebe
+legacy_weight: 4
+significance: medium
 ---
 
 Communications intercepted by [[The]] Proactive Detection Bureau are being used to prevent [[Further]] factions from leaving the Federation.

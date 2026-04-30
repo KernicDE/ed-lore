@@ -4,13 +4,13 @@ name: Stillman Hub
 type: location
 first_seen_date: '3307-07-15'
 last_seen_date: '3308-04-21'
-mention_count: 3
+mention_count: 5
 related_entities:
 - hip-22550
-- marlinist
-- capitol
-- alliance
-- imperial-senate
+- marlinist-colonies
+- nmla
+- pilots-federation
+- marlinism-reformation-party
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3307-07-15**  
 Last mentioned: **3308-04-21**  
-Total mentions: **3**
+Total mentions: **5**
 
 ## Related
 
-- [[HIP 22550]] (3 co-mentions)
-- [[Marlinist]] (2 co-mentions)
-- [[Capitol]] (2 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Imperial Senate]] (1 co-mentions)
+- [[HIP 22550]] (5 co-mentions)
+- [[Marlinist Colonies]] (3 co-mentions)
+- [[NMLA]] (3 co-mentions)
+- [[Pilots Federation]] (3 co-mentions)
+- [[Marlinism Reformation Party]] (3 co-mentions)
 
 ## Biography
 

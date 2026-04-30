@@ -8,8 +8,8 @@ mention_count: 88
 related_entities:
 - marlinist
 - alliance
-- achenar
 - marlinist-colonies
+- achenar
 - mudhrid
 ---
 
@@ -23,10 +23,10 @@ Total mentions: **88**
 
 ## Related
 
-- [[Marlinist]] (33 co-mentions)
+- [[Marlinist]] (31 co-mentions)
 - [[Alliance]] (27 co-mentions)
+- [[Marlinist Colonies]] (23 co-mentions)
 - [[Achenar]] (21 co-mentions)
-- [[Marlinist Colonies]] (21 co-mentions)
 - [[Mudhrid]] (16 co-mentions)
 
 ## Biography

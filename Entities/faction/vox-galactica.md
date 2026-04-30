@@ -4,13 +4,13 @@ name: Vox Galactica
 type: faction
 first_seen_date: '3307-04-13'
 last_seen_date: '3308-09-20'
-mention_count: 14
+mention_count: 16
 related_entities:
-- jupiter-division
 - pilots-federation
+- jupiter-division
+- kumo-crew
+- sol
 - chukchan
-- core-dynamics
-- hip-54530
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3307-04-13**  
 Last mentioned: **3308-09-20**  
-Total mentions: **14**
+Total mentions: **16**
 
 ## Related
 
+- [[Pilots Federation]] (4 co-mentions)
 - [[Jupiter Division]] (3 co-mentions)
-- [[Pilots Federation]] (3 co-mentions)
+- [[Kumo Crew]] (3 co-mentions)
+- [[Sol]] (2 co-mentions)
 - [[Chukchan]] (2 co-mentions)
-- [[Core Dynamics]] (2 co-mentions)
-- [[HIP 54530]] (2 co-mentions)
 
 ## Biography
 

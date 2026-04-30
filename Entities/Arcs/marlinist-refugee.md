@@ -2,15 +2,15 @@
 id: marlinist-refugee
 name: Marlinist Refugee
 first_seen_date: '3307-04-09'
-last_seen_date: '3307-07-15'
-mention_count: 5
+last_seen_date: '3307-07-22'
+mention_count: 6
 significance: medium
 key_entities:
 - marlinist-colonies
 - nmla
-- marlinist-parliament
 - marlinism-reformation-party
-- alliance
+- marlinist-parliament
+- free-marlinist-movement
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ key_entities:
 # Marlinist Refugee
 
 First seen: **3307-04-09**  
-Last seen: **3307-07-15**  
-Articles: **5**
+Last seen: **3307-07-22**  
+Articles: **6**
 
 ## Key Figures
 
-- [[Marlinist Colonies]] (5 mentions)
-- [[NMLA]] (5 mentions)
+- [[Marlinist Colonies]] (6 mentions)
+- [[NMLA]] (6 mentions)
+- [[Marlinism Reformation Party]] (5 mentions)
 - [[Marlinist Parliament]] (4 mentions)
-- [[Marlinism Reformation Party]] (4 mentions)
-- [[Alliance]] (3 mentions)
+- [[Free Marlinist Movement]] (4 mentions)
 
 ## Description
 

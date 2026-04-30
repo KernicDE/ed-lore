@@ -4,19 +4,34 @@ title: Initiative to Outfit Far God Megaships
 slug: initiative_to_outfit_far_god_megaships
 date: '3307-07-22'
 source: API
+arc_id: formidine-rift
+persons:
+- Leonard Yates
 groups:
 - Pilots Federation
+- Pleiades Concordat
+- Order of the Far God
 locations:
-- Moore Hub in the Panjabell
+- The Panjabell
+- Moore Hub
+- Agassiz Settlement
+technologies:
+- Auto fabricators
+- Emergency power cells
+- Insulating membrane
+- Testament megaship
+- Perdition megaship
+- Sacrosanct megaship
 topics:
 - alien contact
-- ship
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 4
-significance: high
+player_impact: Pilots delivered auto fabricators, emergency power cells and insulating membrane to Moore Hub in the Panjabell system.
+summary: The Pleiades Concordat requests deliveries to support the Far God cult in outfitting missionary megaships. The Testament will spread the faith while the Perdition and Sacrosanct will carry worshippers on a pilgrimage into deep space. Bounties are offered to protect deliveries from anti-xeno extremists.
+modern_impact: The Far God megaship initiative transforms the cult from a hidden sect into an organised religion with mobile temples, increasing their visibility and vulnerability in the galaxy.
+related_uuids:
+- 1810c569-1a21-571d-b879-76241b063c19
+- 743d51d9-9d90-5bd9-88b7-792f100d596f
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

@@ -4,7 +4,7 @@ name: Marlinist
 type: faction
 first_seen_date: '3307-01-01'
 last_seen_date: '3309-03-06'
-mention_count: 53
+mention_count: 51
 related_entities:
 - nmla
 - alliance
@@ -19,13 +19,13 @@ related_entities:
 
 First mentioned: **3307-01-01**  
 Last mentioned: **3309-03-06**  
-Total mentions: **53**
+Total mentions: **51**
 
 ## Related
 
-- [[NMLA]] (33 co-mentions)
+- [[NMLA]] (31 co-mentions)
 - [[Alliance]] (22 co-mentions)
-- [[Achenar]] (12 co-mentions)
+- [[Achenar]] (11 co-mentions)
 - [[Sirius Corporation]] (6 co-mentions)
 - [[Neo-Marlinist Liberation Army]] (6 co-mentions)
 

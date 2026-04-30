@@ -4,7 +4,7 @@ name: Aaron Whyte
 type: person
 first_seen_date: '3307-04-01'
 last_seen_date: '3307-12-29'
-mention_count: 12
+mention_count: 14
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 12
 
 First mentioned: **3307-04-01**  
 Last mentioned: **3307-12-29**  
-Total mentions: **12**
+Total mentions: **14**
 
 ## Related
 

@@ -4,7 +4,7 @@ name: Aden Tanner
 type: person
 first_seen_date: '3307-05-21'
 last_seen_date: '3311-01-16'
-mention_count: 39
+mention_count: 40
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 39
 
 First mentioned: **3307-05-21**  
 Last mentioned: **3311-01-16**  
-Total mentions: **39**
+Total mentions: **40**
 
 ## Related
 

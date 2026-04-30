@@ -4,13 +4,13 @@ name: Delphi
 type: location
 first_seen_date: '3305-07-04'
 last_seen_date: '3309-12-15'
-mention_count: 19
+mention_count: 20
 related_entities:
 - aegis
 - pilots-federation
-- maia
-- merope
 - hip-16538
+- hip-30944
+- maia
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3305-07-04**  
 Last mentioned: **3309-12-15**  
-Total mentions: **19**
+Total mentions: **20**
 
 ## Related
 
-- [[Aegis]] (12 co-mentions)
+- [[Aegis]] (13 co-mentions)
 - [[Pilots Federation]] (11 co-mentions)
+- [[HIP 16538]] (5 co-mentions)
+- [[HIP 30944]] (5 co-mentions)
 - [[Maia]] (5 co-mentions)
-- [[Merope]] (5 co-mentions)
-- [[HIP 16538]] (4 co-mentions)
 
 ## Biography
 

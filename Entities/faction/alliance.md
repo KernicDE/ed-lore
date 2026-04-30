@@ -10,7 +10,7 @@ related_entities:
 - aegis
 - alioth
 - pilots-federation
-- nmla
+- federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **408**
 - [[Aegis]] (62 co-mentions)
 - [[Alioth]] (43 co-mentions)
 - [[Pilots Federation]] (35 co-mentions)
-- [[NMLA]] (27 co-mentions)
+- [[Federation]] (28 co-mentions)
 
 ## Biography
 

@@ -3,14 +3,14 @@ id: fortress-liberty-megaship
 name: Fortress Liberty megaship
 type: location
 first_seen_date: '3307-07-01'
-last_seen_date: '3307-07-01'
-mention_count: 1
+last_seen_date: '3307-07-30'
+mention_count: 2
 related_entities:
-- pilots-federation
+- federal-congress
 - azaladshu-free
-- neche-inc
 - coalition-of-uteran
-- lp-726-6-free
+- gluscap-labour
+- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Fortress Liberty megaship
 
 First mentioned: **3307-07-01**  
-Last mentioned: **3307-07-01**  
-Total mentions: **1**
+Last mentioned: **3307-07-30**  
+Total mentions: **2**
 
 ## Related
 
+- [[Federal Congress]] (3 co-mentions)
+- [[Azaladshu Free]] (2 co-mentions)
+- [[Coalition of Uteran]] (2 co-mentions)
+- [[Gluscap Labour]] (2 co-mentions)
 - [[Pilots Federation]] (1 co-mentions)
-- [[Azaladshu Free]] (1 co-mentions)
-- [[Neche Inc]] (1 co-mentions)
-- [[Coalition of Uteran]] (1 co-mentions)
-- [[Lp 726-6 Free]] (1 co-mentions)
 
 ## Biography
 

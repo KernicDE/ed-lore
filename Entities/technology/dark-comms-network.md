@@ -3,8 +3,8 @@ id: dark-comms-network
 name: Dark-comms network
 type: technology
 first_seen_date: '3307-04-23'
-last_seen_date: '3307-07-21'
-mention_count: 3
+last_seen_date: '3307-07-26'
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
@@ -12,8 +12,8 @@ mention_count: 3
 # Dark-comms network
 
 First mentioned: **3307-04-23**  
-Last mentioned: **3307-07-21**  
-Total mentions: **3**
+Last mentioned: **3307-07-26**  
+Total mentions: **4**
 
 ## Related
 

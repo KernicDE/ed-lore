@@ -3,12 +3,14 @@ id: alexandria-megaship
 name: Alexandria megaship
 type: location
 first_seen_date: '3307-04-22'
-last_seen_date: '3307-04-29'
-mention_count: 2
+last_seen_date: '3307-07-27'
+mention_count: 3
 related_entities:
 - aegis
-- pilots-federation
 - delphi
+- pilots-federation
+- alliance
+- empire
 ---
 
 <!-- AUTO-GENERATED -->
@@ -16,14 +18,16 @@ related_entities:
 # Alexandria megaship
 
 First mentioned: **3307-04-22**  
-Last mentioned: **3307-04-29**  
-Total mentions: **2**
+Last mentioned: **3307-07-27**  
+Total mentions: **3**
 
 ## Related
 
-- [[Aegis]] (2 co-mentions)
+- [[Aegis]] (3 co-mentions)
+- [[Delphi]] (3 co-mentions)
 - [[Pilots Federation]] (2 co-mentions)
-- [[Delphi]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Empire]] (1 co-mentions)
 
 ## Biography
 

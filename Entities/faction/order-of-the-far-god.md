@@ -4,13 +4,13 @@ name: Order of the Far God
 type: faction
 first_seen_date: '3307-07-19'
 last_seen_date: '3309-03-30'
-mention_count: 4
+mention_count: 6
 related_entities:
-- hip-22460
-- wallglass-investigations-agency
 - pleiades-concordat
-- federal-intelligence-agency
-- etain
+- the-panjabell
+- agassiz-settlement
+- hip-22460
+- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3307-07-19**  
 Last mentioned: **3309-03-30**  
-Total mentions: **4**
+Total mentions: **6**
 
 ## Related
 
+- [[Pleiades Concordat]] (3 co-mentions)
+- [[The Panjabell]] (3 co-mentions)
+- [[Agassiz Settlement]] (3 co-mentions)
 - [[HIP 22460]] (3 co-mentions)
-- [[Wallglass Investigations Agency]] (1 co-mentions)
-- [[Pleiades Concordat]] (1 co-mentions)
-- [[Federal Intelligence Agency]] (1 co-mentions)
-- [[Etain]] (1 co-mentions)
+- [[Pilots Federation]] (2 co-mentions)
 
 ## Biography
 

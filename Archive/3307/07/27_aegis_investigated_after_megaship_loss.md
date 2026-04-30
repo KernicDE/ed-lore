@@ -4,22 +4,40 @@ title: Aegis Investigated After Megaship Loss
 slug: aegis_investigated_after_megaship_loss
 date: '3307-07-27'
 source: API
-entities:
+arc_id: thargoid-contact
+persons:
 - Alba Tesreau
+- Jacob Morales
+- Alexei Keel
+- Aden Tanner
 groups:
 - Aegis
 - Alliance
+- Empire
+- Federation
+- Vox Galactica
 locations:
-- Aegis
+- HIP 16538
+- HIP 30944
+- Delphi
+- Sol
+- Alexandria megaship
+technologies:
+- Alexandria megaship
+- Guardian artefacts
+- Tritium
 topics:
 - alien contact
 - investigation
-- ship
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 4
+player_impact: None directly; this is an investigative report on Aegis.
+summary: The superpowers jointly suspend Aegis operations and authorise an inquiry into the Alexandria's disappearance. Professor Alba Tesreau and other senior members are forced to resign. Journalist Alexei Keel reports that some suspect 'Salvation' may be leading an Aegis splinter group composed of rogue agents and stolen resources.
+modern_impact: Aegis's suspension creates a vacuum in anti-xeno defence that Salvation eagerly fills. The inquiry's focus on competence rather than conspiracy misses the larger question of whether Aegis's approach was ever viable against the Thargoid threat.
+related_uuids:
+- 94863186-a8f1-51f0-8ed0-e8f06ab768bb
+- 0280176e-9e15-5141-b169-ddb5450c516b
+- e6ce2055-4e35-5281-9a66-2922d5d92fc4
+legacy_weight: 5
 significance: high
 ---
 

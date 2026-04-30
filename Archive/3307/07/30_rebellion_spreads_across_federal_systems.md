@@ -4,15 +4,39 @@ title: Rebellion Spreads Across Federal Systems
 slug: rebellion_spreads_across_federal_systems
 date: '3307-07-30'
 source: API
-entities:
-- Mishra
+arc_id: federal-politics
+persons:
 - Sonal Mishra
+- Zachary Hudson
+- Felicia Winters
+groups:
+- New Kuwembaa Labour
+- Coalition of Uteran
+- Gluscap Labour
+- Azaladshu Free
+- Federal Congress
+- Proactive Detection Bureau
+locations:
+- Kuwembaa
+- Federal Congress
+- Sol
+- Fortress Liberty megaship
+technologies:
+- Fortress Liberty megaship
+- Proactive Detection Bureau surveillance system
 topics:
-- festival
-- ship
-modern_impact: Community celebration bringing pilots together.
-legacy_weight: 1
-significance: low
+- independence
+- war
+player_impact: None directly; this is a political rebellion report.
+summary: New Kuwembaa Labour secedes from the Federation, affecting five systems. Governor Sonal Mishra cites draconian surveillance laws. President Hudson orders her to abide by constitutional law and redirects the Fortress Liberty megaship to Kuwembaa. Political commentators believe up to 28 further systems could become independent if three other democratic factions follow suit.
+modern_impact: The second wave of secession transforms isolated incidents into a systemic crisis, with the potential for nearly 30 systems to leave the Federation. Hudson's military response risks escalating the crisis into civil war.
+related_uuids:
+- ef028c66-1901-5fef-af9f-2c741a9066b6
+- e962c6b8-fd3d-59c4-847f-27923ec53502
+- d78b9f69-dd13-5d3c-8970-3f9237691ebe
+- e4cda542-a808-5a96-88dc-7794f1fd7e41
+legacy_weight: 5
+significance: high
 ---
 
 New Kuwembaa Labour, [[Which]] controls [[Five]] systems, has triggered a second wave of secession by severing ties [[With the]] Federation.

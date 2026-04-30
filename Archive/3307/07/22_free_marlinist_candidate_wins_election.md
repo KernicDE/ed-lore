@@ -4,23 +4,41 @@ title: Free Marlinist Candidate Wins Election
 slug: free_marlinist_candidate_wins_election
 date: '3307-07-22'
 source: API
+arc_id: marlinist-refugee
+persons:
+- Kayode Tau
+- Verity Dexter
+- Aaron Whyte
+- Jenna Fairfax
 groups:
-- Marlinist
+- Marlinist Colonies
 - NMLA
 - Pilots Federation
+- Free Marlinist Movement
+- Marlinism Reformation Party
+- Marlinist Consulate
 locations:
-- Marlinist
+- Hyades Sector RO-P b6-6
+- Tilman Point
+- Hyades Sector RO-P b6-2
+- HIP 22550
+- Stillman Hub
+technologies:
+- Anomalous bulk scan data
+- Unusual encrypted files
 topics:
 - cyberattack
 - diplomacy
-- festival
 - independence
 - war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
-legacy_weight: 5
-significance: high
+player_impact: Pilots who supported Kayode Tau collected rewards from Tilman Point in the Hyades Sector RO-P b6-6 system.
+summary: Kayode Tau of the Free Marlinist Movement is elected prime consul of the Marlinist Consulate, defeating Verity Dexter. Tau pledges to preserve the colonies' independence and assist efforts to eliminate the NMLA. Minister Whyte protests the result while First Minister Fairfax calls for it to be respected.
+modern_impact: Tau's election represents a rejection of the NMLA's political wing by Marlinist voters, establishing a diplomatically independent Marlinist Consulate that becomes a legitimate interlocutor with the superpowers.
+related_uuids:
+- d3cdfef9-79b2-5007-9569-61a2ea0ec0fa
+- e93a8c38-8df7-5084-9ec2-c2d18fe537a4
+legacy_weight: 4
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

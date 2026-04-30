@@ -4,7 +4,7 @@ name: Jacob Morales
 type: person
 first_seen_date: '3307-05-21'
 last_seen_date: '3308-01-31'
-mention_count: 5
+mention_count: 6
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 5
 
 First mentioned: **3307-05-21**  
 Last mentioned: **3308-01-31**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 

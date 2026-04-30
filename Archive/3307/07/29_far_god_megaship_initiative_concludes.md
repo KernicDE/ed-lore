@@ -4,20 +4,34 @@ title: Far God Megaship Initiative Concludes
 slug: far_god_megaship_initiative_concludes
 date: '3307-07-29'
 source: API
+arc_id: formidine-rift
+persons:
+- Leonard Yates
 groups:
 - Pilots Federation
+- Pleiades Concordat
+- Order of the Far God
 locations:
-- Moore Hub in the Panjabell
+- The Panjabell
+- Moore Hub
+- Agassiz Settlement
+technologies:
+- Auto fabricators
+- Emergency power cells
+- Insulating membrane
+- Testament megaship
+- Perdition megaship
+- Sacrosanct megaship
 topics:
 - alien contact
-- ship
-- trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
-significance: high
+player_impact: Pilots who delivered commodities collected rewards from Moore Hub in the Panjabell system.
+summary: The Pleiades Concordat's initiative concludes successfully. The Testament will serve as a missionary vessel while the Perdition and Sacrosanct embark on a pilgrimage into deep space. New convert Leonard Yates (Eighty-Ninth Adherent of the Sixtieth Chapter) expresses gratitude for galactic community support.
+modern_impact: The successful outfitting of three Far God megaships launches the cult's most ambitious expansion, carrying thousands of believers into the void and establishing a mobile religious presence that will eventually intersect with the Thargoid conflict.
+related_uuids:
+- 17484479-d6b8-5d39-9727-040203c5448c
+- 1810c569-1a21-571d-b879-76241b063c19
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*
