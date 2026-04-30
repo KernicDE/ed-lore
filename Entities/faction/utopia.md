@@ -9,8 +9,8 @@ related_entities:
 - sirius-corporation
 - alliance
 - aegis
-- act
 - salvation
+- kumo-crew
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **51**
 - [[Sirius Corporation]] (12 co-mentions)
 - [[Alliance]] (11 co-mentions)
 - [[Aegis]] (10 co-mentions)
-- [[ACT]] (6 co-mentions)
 - [[Salvation]] (6 co-mentions)
+- [[Kumo Crew]] (5 co-mentions)
 
 ## Biography
 

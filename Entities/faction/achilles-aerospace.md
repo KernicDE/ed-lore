@@ -23,7 +23,7 @@ Total mentions: **7**
 
 ## Related
 
-- [[ACT]] (5 co-mentions)
+- [[ACT]] (4 co-mentions)
 - [[Sirius Corporation]] (4 co-mentions)
 - [[Thargoid]] (2 co-mentions)
 - [[Titan]] (2 co-mentions)

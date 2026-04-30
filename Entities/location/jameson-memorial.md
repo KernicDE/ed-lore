@@ -10,7 +10,7 @@ related_entities:
 - corrigendum
 - interstellar-press
 - jameson-memorial-review
-- sol
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **7**
 - [[Corrigendum]] (2 co-mentions)
 - [[Interstellar Press]] (2 co-mentions)
 - [[Jameson Memorial Review]] (2 co-mentions)
-- [[Sol]] (2 co-mentions)
+- [[Aegis]] (2 co-mentions)
 
 ## Biography
 

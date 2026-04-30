@@ -5,10 +5,7 @@ slug: sirius_stock_price_fluctuates_after_unhinged_trading_patterns
 date: '3310-09-03'
 source: API
 groups:
-- ACT
 - Achilles Aerospace
-- Money Matters
-- Sirius Corp
 - Sirius Corporation
 - Utopia
 locations:
@@ -16,9 +13,14 @@ locations:
 topics:
 - corporate expansion
 - research
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: "Unwin's analysis — 'Achilles is riding a wave of momentum following the release of the SCO Frame Shift Drive... risks dislodging Sirius's monopoly on FSD technology for the first time in over a decade' — explains why Li is so desperate. The 'unhinged' descriptor becomes part of Li's corporate persona. Pranav Antal's rejection of Sirius links foreshadows the Utopia-Sirius tension that will persist."
+persons:
+- Roberta Unwin
+- Li Yong-Rui
+- Maxine Patro
+- Pranav Antal
+player_impact: "Not specifically mentioned — this is a financial news article."
+summary: "Sirius Corporation's stock price drops 3.9% amid aggressive but unsuccessful attempts by Li Yong-Rui to acquire Achilles Aerospace and pressure Utopia into stronger links."
 legacy_weight: 2
 significance: low
 ---

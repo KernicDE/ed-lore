@@ -9,8 +9,8 @@ related_entities:
 - act
 - thargoid
 - federal-times
-- zachary-hudson
 - jerome-archer
+- zachary-hudson
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **32**
 
 ## Related
 
-- [[ACT]] (24 co-mentions)
-- [[Thargoid]] (21 co-mentions)
-- [[Federal Times]] (10 co-mentions)
-- [[Zachary Hudson]] (9 co-mentions)
+- [[ACT]] (23 co-mentions)
+- [[Thargoid]] (20 co-mentions)
+- [[Federal Times]] (9 co-mentions)
 - [[Jerome Archer]] (9 co-mentions)
+- [[Zachary Hudson]] (8 co-mentions)
 
 ## Biography
 

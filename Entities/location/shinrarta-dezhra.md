@@ -7,10 +7,10 @@ last_seen_date: '3310-11-25'
 mention_count: 6
 related_entities:
 - pilots-federation
-- inra
 - aegis
 - jameson-memorial
-- act
+- azimuth
+- sirius-corporation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **6**
 ## Related
 
 - [[Pilots Federation]] (3 co-mentions)
-- [[INRA]] (3 co-mentions)
 - [[Aegis]] (3 co-mentions)
 - [[Jameson Memorial]] (3 co-mentions)
-- [[ACT]] (2 co-mentions)
+- [[Azimuth]] (2 co-mentions)
+- [[Sirius Corporation]] (2 co-mentions)
 
 ## Biography
 

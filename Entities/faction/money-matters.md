@@ -3,8 +3,8 @@ id: money-matters
 name: Money Matters
 type: faction
 first_seen_date: '3301-10-15'
-last_seen_date: '3310-09-03'
-mention_count: 3
+last_seen_date: '3301-11-16'
+mention_count: 2
 related_entities:
 - sirius-corporation
 - almagest
@@ -18,12 +18,12 @@ related_entities:
 # Money Matters
 
 First mentioned: **3301-10-15**  
-Last mentioned: **3310-09-03**  
-Total mentions: **3**
+Last mentioned: **3301-11-16**  
+Total mentions: **2**
 
 ## Related
 
-- [[Sirius Corporation]] (2 co-mentions)
+- [[Sirius Corporation]] (1 co-mentions)
 - [[Almagest]] (1 co-mentions)
 - [[Ceos]] (1 co-mentions)
 - [[HIP 8396]] (1 co-mentions)

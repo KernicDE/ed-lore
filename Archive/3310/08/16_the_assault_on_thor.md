@@ -4,23 +4,25 @@ title: The Assault on Thor
 slug: the_assault_on_thor
 date: '3310-08-16'
 source: API
-groups:
-- Thargoid
-locations:
-- Guardian
-- Thargoid
-- Titan
+groups: []
+locations: []
 topics:
 - alien contact
-- humanitarian
-- ship
 - war
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "The article's brevity and urgency — 'Titan Thor is under siege. This is an urgent call to all independent pilots' — reflects the moment's gravity. The specific modules listed show the evolution of anti-xeno technology. The call for 'all independent pilots' underscores how reliant Aegis is on the independent Commander community for major operations."
+persons: []
+technologies:
+- Thargoid Pulse Neutraliser
+- Caustic Sink Launcher
+- Guardian Nanite Torpedo Pylon
+player_impact: "Pilots are urgently called to aid in the defeat of Titan Thor, with rewards for all participants able to contribute to ending the Titan threat."
+summary: "An urgent call to all pilots to participate in the final assault on Titan Thor, the sixth Thargoid mothership, with key modules available at Rescue Megaships."
 legacy_weight: 5
 significance: high
+related_uuids:
+- eb80ced6-9bee-5efe-822d-6962ae7c718d
+- 061171d4-beaf-56a2-84d7-a36c8a49376e
 ---
 
 *Pilots’ Federation Alert* 

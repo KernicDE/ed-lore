@@ -3,8 +3,8 @@ id: professor-palin
 name: Professor Palin
 type: location
 first_seen_date: '3303-01-16'
-last_seen_date: '3310-08-06'
-mention_count: 31
+last_seen_date: '3310-03-18'
+mention_count: 30
 related_entities:
 - thargoid
 - ishmael-palin
@@ -18,16 +18,16 @@ related_entities:
 # Professor Palin
 
 First mentioned: **3303-01-16**  
-Last mentioned: **3310-08-06**  
-Total mentions: **31**
+Last mentioned: **3310-03-18**  
+Total mentions: **30**
 
 ## Related
 
-- [[Thargoid]] (23 co-mentions)
-- [[Ishmael Palin]] (22 co-mentions)
-- [[ACT]] (20 co-mentions)
-- [[Aegis]] (18 co-mentions)
-- [[Ram Tah]] (13 co-mentions)
+- [[Thargoid]] (22 co-mentions)
+- [[Ishmael Palin]] (21 co-mentions)
+- [[ACT]] (19 co-mentions)
+- [[Aegis]] (17 co-mentions)
+- [[Ram Tah]] (12 co-mentions)
 
 ## Biography
 

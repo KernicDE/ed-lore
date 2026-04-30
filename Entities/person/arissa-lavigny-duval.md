@@ -9,8 +9,8 @@ related_entities:
 - act
 - capitol
 - alliance
-- imperial-herald
 - imperial-palace
+- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (19 co-mentions)
+- [[ACT]] (18 co-mentions)
 - [[Capitol]] (14 co-mentions)
 - [[Alliance]] (13 co-mentions)
-- [[Imperial Herald]] (13 co-mentions)
 - [[Imperial Palace]] (12 co-mentions)
+- [[Imperial Herald]] (12 co-mentions)
 
 ## Biography
 

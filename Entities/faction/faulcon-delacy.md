@@ -23,7 +23,7 @@ Total mentions: **5**
 
 ## Related
 
-- [[ACT]] (3 co-mentions)
+- [[ACT]] (2 co-mentions)
 - [[Achilles Aerospace]] (2 co-mentions)
 - [[Sirius Corporation]] (1 co-mentions)
 - [[Namin Tirel]] (1 co-mentions)

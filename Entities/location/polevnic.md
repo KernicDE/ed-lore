@@ -4,11 +4,11 @@ name: Polevnic
 type: location
 first_seen_date: '3304-12-28'
 last_seen_date: '3310-08-15'
-mention_count: 2
+mention_count: 3
 related_entities:
 - utopia
-- katrien-rook-claims
 - sirius-corporation
+- katrien-rook-claims
 ---
 
 <!-- AUTO-GENERATED -->
@@ -17,13 +17,13 @@ related_entities:
 
 First mentioned: **3304-12-28**  
 Last mentioned: **3310-08-15**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Utopia]] (2 co-mentions)
+- [[Utopia]] (3 co-mentions)
+- [[Sirius Corporation]] (2 co-mentions)
 - [[Katrien Rook claims]] (1 co-mentions)
-- [[Sirius Corporation]] (1 co-mentions)
 
 ## Biography
 

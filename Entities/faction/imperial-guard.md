@@ -10,7 +10,7 @@ related_entities:
 - achenar
 - arissa-lavigny-duval
 - imperial-palace
-- act
+- imperial-naval-infantry
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **14**
 
 - [[Capitol]] (8 co-mentions)
 - [[Achenar]] (6 co-mentions)
-- [[Arissa-Lavigny Duval]] (6 co-mentions)
+- [[Arissa-Lavigny Duval]] (5 co-mentions)
 - [[Imperial Palace]] (5 co-mentions)
-- [[ACT]] (4 co-mentions)
+- [[Imperial Naval Infantry]] (3 co-mentions)
 
 ## Biography
 

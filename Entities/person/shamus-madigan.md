@@ -3,14 +3,14 @@ id: shamus-madigan
 name: Shamus Madigan
 type: person
 first_seen_date: '3308-09-05'
-last_seen_date: '3310-08-01'
-mention_count: 7
+last_seen_date: '3309-12-07'
+mention_count: 6
 related_entities:
 - act
 - thargoid
 - aegis
 - olympus-village
-- titan
+- jeong-hui-shin
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Shamus Madigan
 
 First mentioned: **3308-09-05**  
-Last mentioned: **3310-08-01**  
-Total mentions: **7**
+Last mentioned: **3309-12-07**  
+Total mentions: **6**
 
 ## Related
 
-- [[ACT]] (7 co-mentions)
-- [[Thargoid]] (7 co-mentions)
-- [[Aegis]] (5 co-mentions)
+- [[ACT]] (6 co-mentions)
+- [[Thargoid]] (6 co-mentions)
+- [[Aegis]] (4 co-mentions)
 - [[Olympus Village]] (3 co-mentions)
-- [[Titan]] (2 co-mentions)
+- [[Jeong-Hui Shin]] (1 co-mentions)
 
 ## Biography
 

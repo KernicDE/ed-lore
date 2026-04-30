@@ -5,36 +5,28 @@ slug: shinrarta_dezhra_defence_fleet_prevails
 date: '3310-09-24'
 source: API
 groups:
-- ACT
 - Aegis
 - Azimuth
-- INRA
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Aegis
-- Azimuth
 - Jameson Memorial
-- Providing an update on behalf of the
 - Shinrarta Dezhra
-- Sirius
-- Thargoid
-- Titan
-- Work has commenced on bringing all
 topics:
 - alien contact
-- construction
-- corporate expansion
 - humanitarian
-- ship
-- trade
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: thargoid-titan-war
+modern_impact: "Baljak's statement — 'It's a miracle Jameson Memorial lasted until reinforcements could arrive' — confirms the symbolic importance of saving the megamarket. His admission that 'We lost a lot of good people' contrasts with the corporate framing from Sirius and Azimuth. Tesreau's gratitude while noting Aegis was 'directed AX efforts on the frontline' reveals the tension between responding to emergencies and pursuing strategic objectives."
+persons:
+- Florian Baljak
+- Alba Tesreau
+player_impact: "Pilots successfully repelled the Thargoid invasion fleet from Shinrarta Dezhra, with thousands of Commanders participating. Rewards collected from Rescue Ship Cornwallis in V886 Centauri."
+summary: "The Thargoid invasion fleet in Shinrarta Dezhra is successfully repelled, with acting starport commander Florian Baljak praising the thousands of Commanders who drove the aliens back."
 legacy_weight: 5
 significance: high
+related_uuids:
+- f04f8454-a964-5a70-94a4-24f7e93c8419
+- f0a9e140-b8a7-51a6-b1e2-18448dc1b29f
 ---
 
 The Thargoid invasion fleet that ambushed the Shinrarta Dezhra system last week has been successfully repelled.

@@ -2,8 +2,8 @@
 id: salvation-azimuth
 name: Salvation Azimuth
 first_seen_date: '3308-01-05'
-last_seen_date: '3310-09-24'
-mention_count: 125
+last_seen_date: '3309-12-21'
+mention_count: 123
 significance: medium
 key_entities:
 - thargoid
@@ -18,16 +18,16 @@ key_entities:
 # Salvation Azimuth
 
 First seen: **3308-01-05**  
-Last seen: **3310-09-24**  
-Articles: **125**
+Last seen: **3309-12-21**  
+Articles: **123**
 
 ## Key Figures
 
-- [[Thargoid]] (114 mentions)
-- [[ACT]] (110 mentions)
+- [[Thargoid]] (112 mentions)
+- [[ACT]] (108 mentions)
 - [[Salvation]] (94 mentions)
-- [[Azimuth]] (92 mentions)
-- [[Aegis]] (60 mentions)
+- [[Azimuth]] (90 mentions)
+- [[Aegis]] (58 mentions)
 
 ## Description
 

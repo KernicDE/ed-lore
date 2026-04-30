@@ -4,32 +4,31 @@ title: Emperor Arissa Ambushed in Cubeo System
 slug: emperor_arissa_ambushed_in_cubeo_system
 date: '3310-08-02'
 source: API
-entities:
-- Arissa
-- Arissa Ambushed
-- Denton Patreus labelled
+entities: []
 groups:
-- ACT
-- Aegis
 - Imperial Guard
-- Imperial Herald
-- Thargoid
 locations:
 - Achenar
-- Aegis
-- Thargoid
+- Cubeo
 topics:
-- alien contact
 - festival
-- humanitarian
-- ship
 - succession
-- war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+- politics
+arc_id: null
+modern_impact: "The ambush on Arissa — 'a mission in which no participant expected to survive' — signals a new level of audacity from anti-Imperial forces. Patreus's statement that 'the Empire's traditional foes have nurtured their true ambitions in the shadow of the Thargoid conflict' frames domestic terrorism as exploiting wartime distraction. Aisling's condemnation as 'a regrettable act by the lost or desperate' shows her softer political positioning compared to Patreus's militarism."
+persons:
+- Arissa Lavigny-Duval
+- Denton Patreus
+- Aisling Duval
+- Colm Tornquist
+player_impact: "Not specifically mentioned — this is an Imperial Guard operation."
+summary: "Emperor Arissa Lavigny-Duval survives an ambush on her convoy in Cubeo during a harvest festival, with Denton Patreus proposing increased security and the Kumo Crew later linked to the attack."
+related_uuids:
+- eb7117e9-c478-530e-b12c-38fa277d62ac
 legacy_weight: 5
 significance: high
+related_uuids:
+- eb7117e9-c478-530e-b12c-38fa277d62ac
 ---
 
 Emperor Arissa has survived an assault on her convoy in the Cubeo system. Imperial Guard pilots fought off the perpetrators in a brief but intense firefight.

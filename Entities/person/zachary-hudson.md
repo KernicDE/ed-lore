@@ -3,14 +3,14 @@ id: zachary-hudson
 name: Zachary Hudson
 type: person
 first_seen_date: '3301-05-29'
-last_seen_date: '3310-08-29'
-mention_count: 49
+last_seen_date: '3309-11-06'
+mention_count: 48
 related_entities:
-- alliance
 - federal-navy
+- alliance
 - mars
-- shadow-president
 - sol
+- shadow-president
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Zachary Hudson
 
 First mentioned: **3301-05-29**  
-Last mentioned: **3310-08-29**  
-Total mentions: **49**
+Last mentioned: **3309-11-06**  
+Total mentions: **48**
 
 ## Related
 
-- [[Alliance]] (12 co-mentions)
 - [[Federal Navy]] (11 co-mentions)
+- [[Alliance]] (11 co-mentions)
 - [[Mars]] (9 co-mentions)
-- [[Shadow President]] (9 co-mentions)
 - [[Sol]] (8 co-mentions)
+- [[Shadow President]] (8 co-mentions)
 
 ## Biography
 

@@ -5,7 +5,6 @@ slug: type_8_released_lakon_spaceways_offer_sco_optimised_freighter
 date: '3310-08-07'
 source: API
 groups:
-- ACT
 - Faulcon DeLacy
 - Lakon Spaceways
 topics:
@@ -13,7 +12,13 @@ topics:
 - corporate expansion
 - ship
 - trade
-modern_impact: New ship releases expand pilot capabilities and reshape the ship market.
+modern_impact: "Lakon's competitive framing — 'with a much lower level of risk than our competitors can currently offer' — directly targets Faulcon DeLacy's Python Mk II. The mention that the Type-8 is 'the largest medium-class vessel available' is a specific market positioning. SCO drive compatibility is now a standard feature expected in new ship releases, showing how Achilles' technology has reshaped the entire shipbuilding industry."
+persons: []
+technologies:
+- SCO frame shift drive
+- Type-8
+player_impact: "The Type-8 freighter is now available for purchase from Lakon Spaceways. Early reviews confirm it effectively minimises SCO drive downsides."
+summary: "Lakon Spaceways releases the Type-8, a medium-class freighter optimised for SCO frame shift drive travel, boasting larger cargo capacity and greater resilience than competitors."
 legacy_weight: 2
 significance: low
 ---

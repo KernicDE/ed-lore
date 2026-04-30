@@ -7,8 +7,8 @@ last_seen_date: '3310-08-29'
 mention_count: 14
 related_entities:
 - alliance
-- act
 - sirius-corporation
+- act
 - edmund-mahon
 - thargoid
 ---
@@ -24,9 +24,9 @@ Total mentions: **14**
 ## Related
 
 - [[Alliance]] (10 co-mentions)
-- [[ACT]] (4 co-mentions)
 - [[Sirius Corporation]] (4 co-mentions)
-- [[Edmund Mahon]] (3 co-mentions)
+- [[ACT]] (3 co-mentions)
+- [[Edmund Mahon]] (2 co-mentions)
 - [[Thargoid]] (2 co-mentions)
 
 ## Biography

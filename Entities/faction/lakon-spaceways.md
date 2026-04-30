@@ -8,7 +8,6 @@ mention_count: 5
 related_entities:
 - alioth
 - engineers
-- act
 - faulcon-delacy
 - alioth-independents
 ---
@@ -25,7 +24,6 @@ Total mentions: **5**
 
 - [[Alioth]] (2 co-mentions)
 - [[Engineers]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
 - [[Faulcon DeLacy]] (1 co-mentions)
 - [[Alioth Independents]] (1 co-mentions)
 

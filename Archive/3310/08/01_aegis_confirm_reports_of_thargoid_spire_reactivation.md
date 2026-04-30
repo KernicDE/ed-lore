@@ -4,24 +4,25 @@ title: Aegis Confirm Reports of Thargoid Spire Reactivation
 slug: aegis_confirm_reports_of_thargoid_spire_reactivation
 date: '3310-08-01'
 source: API
-entities:
-- Shamus Madigan
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
 - Col 285 Sector
-- Thargoid
-- Titan
 topics:
 - alien contact
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Madigan's observation that 'the Thargoids have developed a method of cleansing the spires of our sabotage compounds' shows the aliens adapting to human tactics. Seo Jin-ae's analysis linking fleet relocations to spire reactivation demonstrates her unique insight into Thargoid behaviour. The two specific systems named provide concrete targets for future operations."
+persons:
+- Shamus Madigan
+- Seo Jin-ae
+player_impact: "Pilots engaged with Thargoid forces around Titan Thor and reported the unexpected spire reactivation activity."
+summary: "Aegis confirms reports of two previously dormant Thargoid spire sites reactivating near Titan Thor, with Seo Jin-ae linking the activity to Thargoid fleet relocations."
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1bf4b73a-e6f2-5ceb-b275-287db06e8a68
+- 061171d4-beaf-56a2-84d7-a36c8a49376e
 ---
 
 Pilots engaged with Thargoid forces around Titan Thor have reported unexpected activity from previously dormant Spire sites.

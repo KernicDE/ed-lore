@@ -24,8 +24,8 @@ Total mentions: **21**
 ## Related
 
 - [[Azimuth]] (20 co-mentions)
-- [[Thargoid]] (20 co-mentions)
-- [[ACT]] (19 co-mentions)
+- [[Thargoid]] (19 co-mentions)
+- [[ACT]] (18 co-mentions)
 - [[Salvation]] (14 co-mentions)
 - [[HIP 22460]] (12 co-mentions)
 

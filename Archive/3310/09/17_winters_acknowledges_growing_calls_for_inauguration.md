@@ -11,11 +11,18 @@ locations:
 - Sol
 topics:
 - humanitarian
-- war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+- politics
+arc_id: null
+modern_impact: "Winters' statement — 'Nothing can ever repair the hole left in my heart following the tragedy on Rhea 3' — humanises a political figure rarely shown with vulnerability. The revelation that 'six members of Winter's family' died in New Greenacre explains the depth of her grief. Her pledge to 'step back from personally directing the recovery' sets up the October 31 inauguration."
+persons:
+- Felicia Winters
+- Ewan Klein
+player_impact: "Pilots contributed to Rhea 3 relief and recovery efforts during Winters' extended leave, preparing the planet for the new President-elect's eventual inauguration."
+summary: "President-elect Felicia Winters acknowledges growing discontent in Federal Congress over her delayed inauguration following the Rhea 3 earthquakes, and announces she will step back from direct recovery efforts to prepare for taking office."
 legacy_weight: 3
 significance: medium
+related_uuids:
+- c4c940a5-e4ef-5179-9d1e-224d3b06a86a
 ---
 
 President-elect Felicia Winters has discussed the growing discontent within Federal Congress over her delayed inauguration.
