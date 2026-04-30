@@ -1,0 +1,37 @@
+---
+uuid: 16fc73a3-70e2-5e55-9d43-8f9f4582e10c
+title: Blood on the Senate Floor
+slug: blood_on_the_senate_floor
+date: '3305-01-25'
+source: GitHub
+entities:
+- Arissa Lavigny-Duval entered
+groups:
+- Imperial Guard
+- Imperial Senate
+- Nova Imperium
+locations:
+- Capitol
+topics:
+- succession
+arc_id: nova-imperium
+modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
+  creates a schism in Imperial politics.
+legacy_weight: 4
+significance: high
+---
+
+Blood on the Senate Floor
+
+
+Kaeso Mordanticus, the captured leader of isolationist group Nova Imperium, has been brought before the Imperial Senate, with unexpected results. 
+
+Political journalist Cassia Carvalho was at the scene: 
+
+“Imperator Mordanticus was led into Senate House in shackles but still defiant. All rose as Emperor Arissa Lavigny-Duval entered, attended by Senator Denton Patreus. The Emperor and Patreus approached Mordanticus silently, whereupon Patreus executed the Imperator with his personal sidearm.” 
+
+“Suddenly, the Imperial Guard opened fire, gunning down senators Pal Vespasian and Eloise Winterstone, and others who had supported the isolationist cause.” 
+
+“Once the initial shock had subsided, the Emperor stood over the Imperator’s body. In a clear voice she announced: ‘There is no Nova Imperium. There is only the Empire.’”  
+
+“I have since heard reports of mass arrests and further public executions across Capitol. The rumour is that Patreus placed agents among Nova Imperium strongholds, which are now being eliminated from within. This may be the start of an Empire-wide purge.”

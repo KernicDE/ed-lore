@@ -1,0 +1,41 @@
+---
+uuid: 782581af-3169-5d69-bae8-6418c16cbb47
+title: Corporations Clash in Guardian Space
+slug: corporations_clash_in_guardian_space
+date: '3305-05-23'
+source: GitHub
+locations:
+- Segnen Exchange vessels in the
+- Synuefe
+topics:
+- corporate expansion
+- research
+- scandal
+- ship
+- trade
+- xenoarchaeology
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
+---
+
+Corporations Clash in Guardian Space
+
+
+A successful appeal by Zende Partners for Guardian commodities has led to the appointment of a technology broker at The Prospect, where Guardian modules are now available. The initiative has seen a marked increase in violence in the Synuefe EN-H d11-96 system, however, recently established as a hub of Guardian technological research. 
+
+Freya Taine, CEO of Zende Partners, made this announcement: 
+
+“Shortly after our company deployed a megaship transport service connecting Zende and Guardian space, our convoys came under attack. We have evidence to suggest that Segnen Exchange is responsible for this flagrant attempt to undermine our efforts.” 
+
+“I call upon the galactic community to assist Zende Partners in removing this threat to our operation. Our plans to begin production of an Advanced Multi-cannon can proceed once Segnen Exchange’s disruptions have been dealt with.” 
+
+Cedrik Stone, CEO of Segnen Exchange, submitted this statement in response to the accusations: 
+
+“Zende Partners apparently intends to control the trade of Guardian commodities in Synuefe EN-H d11-96, which is perhaps why there is violent resistance to their operation. My company would only ever respond to threats with an appropriate level of self-defence.” 
+
+“In order to reestablish peace and protect our research into new Guardian-human technology, we ask independent pilots to support Segnen Exchange vessels in the system. Securing a permanent presence will allow my company to complete work on an Advanced Dumbfire Launcher on schedule.” 
+
+“Our newly established outpost, Indigo Dock, will serve as our base of operations in these efforts.” 
+
+The two factions have set out campaigns in Synuefe EN-H d11-96, to take place between the 23rd and 29th of May 3305.

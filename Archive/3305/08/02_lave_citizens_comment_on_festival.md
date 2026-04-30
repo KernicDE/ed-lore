@@ -1,0 +1,37 @@
+---
+uuid: dc3245e0-532c-5d04-aaa2-099fe3fcdb91
+title: Lave Citizens Comment on Festival
+slug: lave_citizens_comment_on_festival
+date: '3305-08-02'
+source: GitHub
+entities:
+- Allen Stroud
+groups:
+- Alliance
+locations:
+- Lave
+- Lave Radio in control of the
+- Lave has been an Alliance
+topics:
+- festival
+- war
+arc_id: alliance-expansion
+modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+legacy_weight: 3
+significance: medium
+---
+
+Lave Citizens Comment on Festival
+
+
+As the first week of the Alliance Festival of Culture draws to a close, Lave residents have shared mixed feelings about the decision to stage the opening ceremony in their home system. 
+
+“Clearly this was a political gesture from Edmund Mahon,” said Grady Chen, an independent journalist speaking at Lave Station. “An independent faction rules Lave now. There was military conflict here just last year. Yet we have Alliance leaders trying to garner support despite losing control of the system. It’s blatant propaganda.” 
+
+Sarai Messemer, a financial consultant, offered a different opinion when interviewed in The Orange Sidewinder. “Lave has been an Alliance system for decades. We lived by the Alliance’s ethos for a couple of generations, y’know? Sure, we’ve got Lave Radio in control of the system now but that doesn’t change who we are, or what makes us Lavians.” 
+
+A spokesperson for Lave Radio, Dr Allen Stroud, provided the following statement. 
+
+"It was quite a surprise that the organisers decided to open the festival in Lave, but I guess they see things the same way we do. We're all just trying to get along and there's much to celebrate about the Alliance, regardless of whether your system is a current or former member.”  
+
+“I’m looking forward to Lave welcoming as many visitors as possible. Come for the festival, the brandy, the radio station or one of our many other attractions, and we’d be delighted to host you.”

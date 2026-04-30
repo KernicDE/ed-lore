@@ -1,0 +1,33 @@
+---
+uuid: d9a989d3-07b0-515c-a659-2a5deb621e57
+title: In the Shadow of the Blight
+slug: in_the_shadow_of_the_blight
+date: '3305-10-26'
+source: GitHub
+locations:
+- People across the core
+- With staple foodstuffs scarce in many
+topics:
+- ship
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
+significance: low
+---
+
+In the Shadow of the Blight
+
+
+People across the core systems are adapting to food shortages caused by the blight, as the threat of widespread starvation increases. 
+
+Vox Galactica journalist Adalyn Cross has been following the situation: 
+
+“With staple foodstuffs scarce in many systems, long-forgotten brands have been resurrected, as freeze-dried and preserved goods return to favour. Restaurant menus are being reduced, and new recipes have been devised by innovative chefs – many of whom refuse to reveal their ingredients.” 
+
+“On certain worlds, alternative crops are being imported, with the extra costs offset by increased taxes. Private companies such as Rackham Capital Investments and Silva Holdings Inc have also donated enormous sums to foodstuff shipments, which has been hugely appreciated by the general public. 
+
+“In a curious development, one direct beneficiary of the blight has been the fishing industry. Pescatarian diets are on the rise, with many celebrities declaring a newfound passion for seafood dishes in the absence of fresh fruit and vegetables.” 
+
+Despite this, billions now rely on food cartridges and ration packs that offer only basic nutrition. Welfare charities are shipping aid to wherever it is most needed, but admit that their resources have been stretched to breaking point. 
+
+“With the mutated blight proving so effective at destroying cropland,” said Cross, “Mason Chu’s warning that we may be facing a galaxy-wide scourge looks more likely to become a bitter reality.”
