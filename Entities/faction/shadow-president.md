@@ -3,8 +3,8 @@ id: shadow-president
 name: Shadow President
 type: faction
 first_seen_date: '3308-01-21'
-last_seen_date: '3310-11-07'
-mention_count: 34
+last_seen_date: '3310-10-31'
+mention_count: 33
 related_entities:
 - act
 - thargoid
@@ -18,13 +18,13 @@ related_entities:
 # Shadow President
 
 First mentioned: **3308-01-21**  
-Last mentioned: **3310-11-07**  
-Total mentions: **34**
+Last mentioned: **3310-10-31**  
+Total mentions: **33**
 
 ## Related
 
-- [[ACT]] (26 co-mentions)
-- [[Thargoid]] (22 co-mentions)
+- [[ACT]] (25 co-mentions)
+- [[Thargoid]] (21 co-mentions)
 - [[Zachary Hudson]] (10 co-mentions)
 - [[Federal Times]] (10 co-mentions)
 - [[Jerome Archer]] (10 co-mentions)

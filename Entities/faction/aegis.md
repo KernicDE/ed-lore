@@ -9,8 +9,8 @@ related_entities:
 - thargoid
 - act
 - alliance
-- titan
 - alba-tesreau
+- titan
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **307**
 
 ## Related
 
-- [[Thargoid]] (150 co-mentions)
-- [[ACT]] (133 co-mentions)
+- [[Thargoid]] (147 co-mentions)
+- [[ACT]] (131 co-mentions)
 - [[Alliance]] (89 co-mentions)
-- [[Titan]] (56 co-mentions)
-- [[Alba Tesreau]] (55 co-mentions)
+- [[Alba Tesreau]] (54 co-mentions)
+- [[Titan]] (54 co-mentions)
 
 ## Biography
 

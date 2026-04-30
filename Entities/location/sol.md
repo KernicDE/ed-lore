@@ -27,7 +27,7 @@ Total mentions: **140**
 - [[ACT]] (23 co-mentions)
 - [[Aegis]] (21 co-mentions)
 - [[Federal Times]] (21 co-mentions)
-- [[Thargoid]] (21 co-mentions)
+- [[Thargoid]] (20 co-mentions)
 
 ## Biography
 

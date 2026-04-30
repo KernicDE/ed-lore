@@ -2,18 +2,18 @@
 id: aden-tanner
 name: Aden Tanner
 type: person
-first_seen_date: '3310-12-05'
+first_seen_date: '3310-11-28'
 last_seen_date: '3311-01-16'
-mention_count: 4
+mention_count: 5
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Aden Tanner
 
-First mentioned: **3310-12-05**  
+First mentioned: **3310-11-28**  
 Last mentioned: **3311-01-16**  
-Total mentions: **4**
+Total mentions: **5**
 
 ## Related
 

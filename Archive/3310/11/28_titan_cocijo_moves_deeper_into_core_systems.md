@@ -6,25 +6,26 @@ date: '3310-11-28'
 source: API
 groups:
 - Aegis
-- Thargoid
 locations:
-- Aegis
 - Col 285 Sector
 - Col 285 Sector BA-P c6-18
 - Sol
-- Thargoid
-- Thargoid controlled
-- Titan
 topics:
 - alien contact
 - humanitarian
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Tanner's warning — 'Our first priority is to minimise casualties wherever it arrives – we saw the devastating effect of a Titan beachhead in the first days of the invasion' — directly references the devastation that unfolds on December 5th. The evacuation order for Sol's 22 billion inhabitants begins the largest civilian movement in human history until the post-war colonisation wave."
+persons:
+- Aden Tanner
+player_impact: "Pilots in AX defensive forces scrambled to prepare for Cocijo's arrival. Evacuation efforts began in Sol based on Aegis trajectory predictions."
+summary: "The last remaining Thargoid Titan, Cocijo, unexpectedly leaves Col 285 Sector BA-P c6-18 and heads deep into human territory toward the core systems, triggering evacuation efforts in Sol."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5040d867-0b8b-5258-b6fd-b58753e6a24d
+- 5245e25e-8ce0-5df7-b232-de05945dbcd2
+- 35b353b0-98d7-556b-8f74-142428546856
 ---
 
 The last remaining Thargoid Titan, Cocijo, has unexpectedly left the Col 285 Sector BA-P c6-18 system.

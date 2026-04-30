@@ -26,7 +26,7 @@ Total mentions: **51**
 - [[Sirius Corporation]] (12 co-mentions)
 - [[Alliance]] (11 co-mentions)
 - [[Aegis]] (10 co-mentions)
-- [[ACT]] (7 co-mentions)
+- [[ACT]] (6 co-mentions)
 - [[Salvation]] (6 co-mentions)
 
 ## Biography

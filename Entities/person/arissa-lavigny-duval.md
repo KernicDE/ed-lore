@@ -23,10 +23,10 @@ Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (20 co-mentions)
+- [[ACT]] (19 co-mentions)
 - [[Capitol]] (14 co-mentions)
-- [[Alliance]] (14 co-mentions)
-- [[Imperial Herald]] (14 co-mentions)
+- [[Alliance]] (13 co-mentions)
+- [[Imperial Herald]] (13 co-mentions)
 - [[Imperial Palace]] (12 co-mentions)
 
 ## Biography

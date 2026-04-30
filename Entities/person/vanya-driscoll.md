@@ -1,19 +1,19 @@
 ---
-id: archon-delaine
-name: Archon Delaine
+id: vanya-driscoll
+name: Vanya Driscoll
 type: person
 first_seen_date: '3310-11-07'
-last_seen_date: '3311-06-26'
-mention_count: 3
+last_seen_date: '3310-11-07'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Archon Delaine
+# Vanya Driscoll
 
 First mentioned: **3310-11-07**  
-Last mentioned: **3311-06-26**  
-Total mentions: **3**
+Last mentioned: **3310-11-07**  
+Total mentions: **1**
 
 ## Related
 

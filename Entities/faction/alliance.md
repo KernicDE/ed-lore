@@ -23,8 +23,8 @@ Total mentions: **448**
 
 ## Related
 
-- [[ACT]] (122 co-mentions)
-- [[Thargoid]] (120 co-mentions)
+- [[ACT]] (121 co-mentions)
+- [[Thargoid]] (119 co-mentions)
 - [[Aegis]] (89 co-mentions)
 - [[Sirius Corporation]] (75 co-mentions)
 - [[Pilots Federation]] (48 co-mentions)

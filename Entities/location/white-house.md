@@ -8,9 +8,9 @@ mention_count: 12
 related_entities:
 - mars
 - zachary-hudson
-- shadow-president
 - sol
 - alliance
+- imperial-palace
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **12**
 
 - [[Mars]] (7 co-mentions)
 - [[Zachary Hudson]] (5 co-mentions)
-- [[Shadow President]] (5 co-mentions)
 - [[Sol]] (4 co-mentions)
 - [[Alliance]] (4 co-mentions)
+- [[Imperial Palace]] (4 co-mentions)
 
 ## Biography
 

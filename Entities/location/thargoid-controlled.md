@@ -7,10 +7,10 @@ last_seen_date: '3308-08-27'
 mention_count: 1
 related_entities:
 - thargoid
-- aegis
 - alba-tesreau-published
 - federal-navy
 - hip-22460
+- pleiades-nebula
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **1**
 
 ## Related
 
-- [[Thargoid]] (3 co-mentions)
-- [[Aegis]] (2 co-mentions)
+- [[Thargoid]] (2 co-mentions)
 - [[Alba Tesreau published]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
 - [[HIP 22460]] (1 co-mentions)
+- [[Pleiades Nebula]] (1 co-mentions)
 
 ## Biography
 

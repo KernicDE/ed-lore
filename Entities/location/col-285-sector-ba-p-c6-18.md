@@ -7,10 +7,7 @@ last_seen_date: '3310-11-28'
 mention_count: 1
 related_entities:
 - aegis
-- thargoid
 - sol
-- thargoid-controlled
-- titan
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +21,7 @@ Total mentions: **1**
 ## Related
 
 - [[Aegis]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
 - [[Sol]] (1 co-mentions)
-- [[Thargoid-controlled]] (1 co-mentions)
-- [[Titan]] (1 co-mentions)
 
 ## Biography
 
