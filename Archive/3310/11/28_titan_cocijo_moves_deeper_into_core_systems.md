@@ -1,0 +1,36 @@
+---
+uuid: 5577d259-b0ea-5583-bd87-af53e524c4db
+title: Titan Cocijo Moves Deeper into Core Systems
+slug: titan_cocijo_moves_deeper_into_core_systems
+date: '3310-11-28'
+source: API
+groups:
+- Aegis
+- Thargoid
+locations:
+- Aegis
+- Col 285 Sector
+- Col 285 Sector BA-P c6-18
+- Sol
+- Thargoid
+- Thargoid controlled
+- Titan
+topics:
+- alien contact
+- humanitarian
+- ship
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+The last remaining Thargoid Titan, Cocijo, has unexpectedly left the Col 285 Sector BA-P c6-18 system.
+Reports from human AX forces fighting through surrounding systems to expose the Titan say it has reverted to the transient signal source detected prior to the Titan’s arrival on the edges of human space. Travelling at phenomenal speeds, Cocijo appears to be heading further into the core systems.
+A general alert has been raised in all populated systems. Aden Tanner, special military advisor to Aegis, gave the following statement via all newsfeeds:
+“Aegis sensors have confirmed that Cocijo is on a path deep into human territory. Rather than seek to escape from the war, the final Titan intends to bring the fight to our heartlands.”
+“Precautionary evacuation efforts have begun in Sol, based on our earliest predictions of Cocijo’s trajectory. But all civilians must be prepared to evacuate their homes at short notice. Our first priority is to minimise casualties wherever it arrives – we saw the devastating effect of a Titan beachhead in the first days of the invasion and must do our best to avoid any repeat of this.”
+Thargoid controlled systems appear to be completely empty, amid fears that the remaining Thargoid fleet has set a course in pursuit of the Titan. AX defensive forces are scrambling to prepare for Cocijo’s arrival, though Allied, Federal and Imperial fleet admirals have all stated that a plan exists for this very scenario.
+Rescue megaships are awaiting orders but are expected to move from their current locations to aid in the predicted evacuation efforts.

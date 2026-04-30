@@ -1,0 +1,46 @@
+---
+uuid: f04f8454-a964-5a70-94a4-24f7e93c8419
+title: Thargoid Fleet Invades Shinrarta Dezhra
+slug: thargoid_fleet_invades_shinrarta_dezhra
+date: '3310-09-19'
+source: API
+groups:
+- ACT
+- Aegis
+- Azimuth
+- INRA
+- Sirius Corp
+- Sirius Corporation
+- Thargoid
+locations:
+- Aegis
+- Azimuth
+- Jameson Memorial
+- Musashi
+- Shinrarta Dezhra
+- Sirius
+- Sol
+- Spirit of Laelaps
+- Thargoid
+- Titan
+topics:
+- alien contact
+- corporate expansion
+- humanitarian
+- ship
+- trade
+- war
+arc_id: salvation-azimuth
+modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
+  military response to alien threats.
+legacy_weight: 5
+significance: high
+---
+
+*Pilots’ Federation Alert*
+A Thargoid invasion fleet has emerged in the Shinrarta Dezhra system, catching AX forces behind front lines by surprise.
+The massive alien force quickly struck ports in the system. Jameson Memorial remains online but damaged, with local AX forces rallying to protect the famous megamarket. An urgent call for aid by local governors has been made.
+Aegis has agreed to remain focused on frontline against the final two Thargoid Titans, while Sirius Corporation establishes supply lines to Shinrarta Dezhra. Azimuth Corporation has offered to provide further incentives for pilots heading to the region. The Corporation’s Megaships, Spirit of Laelaps and Musashi, have moved to a nearby system, V886 Centauri, to lend further support.
+The Pilots’ Federation has granted a temporary permit to all Commanders to access the system for two weeks. Early reports indicate that the Pilots’ Federation has taken notably high casualties, with hundreds of Commanders active in the region lost during the initial heavy fighting.
+Pilots looking to assist the AX efforts should first sign up to the defence fleet by visiting Rescue Ship Cornwallis in the V886 Centauri system before progressing into Shinrarta Dezhra.
+With Jameson Memorial unavailable for regular trade, two other megamarkets remain available: I Sola Prospect in Brestla, and Attilius Orbital in CD-43 11917.
