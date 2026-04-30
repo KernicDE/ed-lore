@@ -4,20 +4,21 @@ title: 'Mining Campaign Success for Zemina Torval '
 slug: mining_campaign_success_for_zemina_torval
 date: '3307-08-26'
 source: API
-entities:
-- Zemina Torval provided
 groups:
 - Mastopolos Mining
-- Pilots Federation
 - Wreaken Construction
-locations:
-- Gift in the EGM 559
+- Torval-Mastopolos Mining
+persons:
+- Zemina Torval
+- Constantia Torval
+- Emmerich Koenig
 topics:
-- construction
 - corporate expansion
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: Torval-Mastopolos Mining outperforms Wreaken Construction in the LTT 198 resource
+  campaign, securing permanent corporate control and a new starport construction contract.
+player_impact: Top contributors received experimental mining lasers and permanent LTT
+  198 permits.
+modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low
 ---

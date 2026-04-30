@@ -4,16 +4,18 @@ title: Saud Kruger Seeks New Holiday Worlds
 slug: saud_kruger_seeks_new_holiday_worlds
 date: '3307-09-23'
 source: API
-entities:
-- Stanislav Kruger announced
 groups:
-- Pilots Federation
+- Saud Kruger
+persons:
+- Stanislav Kruger
 topics:
-- construction
 - corporate expansion
 - exploration
-- ship
-modern_impact: Ship review and release information for the pilot community.
+summary: Saud Kruger launches a campaign to identify new Earth-like worlds for Astrogator
+  Tours holiday cruises, offering rewards for exploration data and imagery.
+player_impact: Pilots delivered exploration data and images of Earth-like worlds to
+  Youll Port in the Vistaenis system.
+modern_impact: Tourism initiatives continue to drive exploration of uncharted systems.
 legacy_weight: 2
 significance: low
 ---

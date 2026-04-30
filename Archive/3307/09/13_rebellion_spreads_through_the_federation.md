@@ -4,15 +4,19 @@ title: Rebellion Spreads Through the Federation
 slug: rebellion_spreads_through_the_federation
 date: '3307-09-13'
 source: API
-entities:
-- Winters continues
 groups:
-- Federal Times
+- Federation
+persons:
+- Felicia Winters
+- Jerome Archer
+- Sofia Trevino
 topics:
-- festival
 - independence
 - terrorism
 arc_id: federal-politics
+summary: Seven additional Federal factions sever ties with the superpower over the
+  Proactive Detection Bureau, bringing the total number of seceded factions to fifteen.
+player_impact: None
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium

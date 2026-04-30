@@ -5,18 +5,21 @@ slug: an_heir_for_hadrian_duval
 date: '3307-09-21'
 source: API
 groups:
-- Imperial Herald
-- NMLA
 - Nova Imperium
-locations:
-- Achenar
-- Paresa
+persons:
+- Astrid Minerva-Duval
+- Hadrian Augustus Duval
+- Aisling Duval
+- Arissa Lavigny-Duval
+- Hengist Duval
 topics:
 - succession
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
-legacy_weight: 5
+summary: Lady Astrid Minerva-Duval confirms she is expecting a child with Hadrian
+  Augustus Duval, potentially strengthening his claim to the Imperial throne.
+player_impact: None
+modern_impact: Hadrian Duval's unofficial claim to the Imperial throne remains a factor
+  in Imperial succession politics.
+legacy_weight: 4
 significance: high
 ---
 

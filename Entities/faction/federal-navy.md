@@ -4,7 +4,7 @@ name: Federal Navy
 type: faction
 first_seen_date: '3301-02-13'
 last_seen_date: '3312-02-20'
-mention_count: 131
+mention_count: 130
 related_entities:
 - imperial-navy
 - alliance
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-13**  
 Last mentioned: **3312-02-20**  
-Total mentions: **131**
+Total mentions: **130**
 
 ## Related
 

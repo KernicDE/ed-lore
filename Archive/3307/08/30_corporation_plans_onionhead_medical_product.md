@@ -7,14 +7,19 @@ source: API
 groups:
 - Alliance
 - Kumo Crew
+- Neomedical Industries
+persons:
+- Olwyn Kendrick
 topics:
-- construction
 - corporate expansion
 - crime
-- medicine
 - narcotics
 - research
-modern_impact: Infrastructure project with long-term benefits.
+summary: Neomedical Industries announces plans to mass-produce Onionhead gamma strain
+  as a legitimate medicine, following IHO validation of its therapeutic properties.
+player_impact: None
+modern_impact: The medical applications of onionhead gamma strain remain under clinical
+  study, with pharmaceutical companies competing for market control.
 legacy_weight: 2
 significance: low
 ---

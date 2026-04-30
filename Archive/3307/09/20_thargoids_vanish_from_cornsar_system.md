@@ -6,17 +6,17 @@ date: '3307-09-20'
 source: API
 groups:
 - Aegis
-- Pilots Federation
-locations:
-- Aegis
-- Mars
+persons:
+- Noah Sharrow
 topics:
 - alien contact
-- construction
 - humanitarian
-- ship
 - war
 arc_id: thargoid-contact
+summary: Thargoid vessels attacking Cornsar unexpectedly withdraw after four days of
+  combat, leaving behind damaged starports and crashed alien vessels.
+player_impact: Independent pilots defended Cornsar from Thargoid assault and evacuated
+  survivors from damaged stations.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5

@@ -4,7 +4,7 @@ name: Federal Times
 type: faction
 first_seen_date: '3301-08-02'
 last_seen_date: '3311-09-22'
-mention_count: 112
+mention_count: 110
 related_entities:
 - sol
 - alliance
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-08-02**  
 Last mentioned: **3311-09-22**  
-Total mentions: **112**
+Total mentions: **110**
 
 ## Related
 

@@ -4,16 +4,23 @@ title: Superpowers Respond to New Onionhead
 slug: superpowers_respond_to_new_onionhead
 date: '3307-08-03'
 source: API
-entities:
-- Angela Corcoran addressed
 groups:
 - Alliance
+persons:
+- Jasmina Halsey
+- Aisling Duval
+- Angela Corcoran
+- Archon Delaine
 topics:
 - diplomacy
-- medicine
 - narcotics
-- trade
-modern_impact: Trade initiative affecting commodity markets.
+summary: The Alliance, Empire, and Federation clarify their official positions on
+  Onionhead gamma strain, with the Federation and Empire maintaining bans while the
+  Alliance defers to local authorities.
+player_impact: Independent pilots could purchase Onionhead gamma strain in select
+  anarchy systems.
+modern_impact: The legal status of onionhead variants remains a point of contention
+  between superpowers and local jurisdictions.
 legacy_weight: 2
 significance: low
 ---

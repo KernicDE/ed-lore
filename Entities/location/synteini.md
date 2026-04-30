@@ -4,7 +4,7 @@ name: Synteini
 type: location
 first_seen_date: '3301-03-01'
 last_seen_date: '3310-01-11'
-mention_count: 8
+mention_count: 7
 related_entities:
 - barham
 - zemina-torval
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-03-01**  
 Last mentioned: **3310-01-11**  
-Total mentions: **8**
+Total mentions: **7**
 
 ## Related
 

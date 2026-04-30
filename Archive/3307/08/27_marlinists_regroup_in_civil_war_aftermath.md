@@ -8,14 +8,20 @@ groups:
 - Alliance
 - Marlinist
 - NMLA
-locations:
-- Marlinist
+persons:
+- Octavia Volkov
+- Kayode Tau
+- Jenna Fairfax
+- Aisling Duval
+- Amrita Ross
 topics:
-- construction
 - diplomacy
-- ship
 - war
 arc_id: nmla-terrorism
+summary: Octavia Volkov is elected First Minister of the Marlinist Colonies following
+  the civil war. The colonies consolidate control over all eight original systems and
+  establish formal diplomatic channels.
+player_impact: None
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

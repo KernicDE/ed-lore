@@ -4,15 +4,22 @@ title: Yuri Grom Targeted by Federal Strike
 slug: yuri_grom_targeted_by_federal_strike
 date: '3307-09-30'
 source: API
-entities:
-- Zachary Hudson gave
 groups:
-- Pilots Federation
+- Federation
+- EG Union
+persons:
+- Yuri Grom
+- Zachary Hudson
+- Simion Petrescu
 topics:
 - diplomacy
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+arc_id: federal-politics
+summary: The Delta Pavonis political conference erupts into conflict as undercover Federal
+  agents attempt to apprehend Yuri Grom, who escapes and declares war on the Federation.
+player_impact: Pilots fought for either EG Union or Delta Pavonis Galactic Interstellar
+  in the ensuing conflict.
+modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 2
 significance: low
 ---

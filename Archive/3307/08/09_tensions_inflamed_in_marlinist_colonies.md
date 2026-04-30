@@ -9,15 +9,20 @@ groups:
 - Imperial Senate
 - Marlinist
 - NMLA
-locations:
-- Marlinist
+persons:
+- Jenna Fairfax
+- Aaron Whyte
+- Octavia Volkov
+- Amrita Ross
+- Kayode Tau
 topics:
-- construction
-- festival
-- medicine
-- ship
 - terrorism
 arc_id: nmla-terrorism
+summary: Political rifts and public protests erupt across the Marlinist Colonies following
+  NMLA starport bombings, with Parliament descending into heated accusations between
+  ministers.
+player_impact: Pilots continued evacuation and humanitarian aid efforts in the colony
+  systems.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

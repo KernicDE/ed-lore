@@ -8,16 +8,22 @@ groups:
 - Alliance
 - Marlinist
 - NMLA
-- Pilots Federation
-locations:
-- Marlinist
+persons:
+- Octavia Volkov
+- Kayode Tau
+- Amrita Ross
+- Jenna Fairfax
+- Aaron Whyte
 topics:
-- construction
 - investigation
-- ship
 - terrorism
 - war
 arc_id: nmla-terrorism
+summary: The Exiled Marlinist Assembly of Baltah'Sine defeats the Marlinism Reformation
+  Party, eliminating the NMLA's political wing. Aaron Whyte is confirmed dead and
+  a snap election is called.
+player_impact: Independent pilots were instrumental in defeating the NMLA-aligned
+  faction.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

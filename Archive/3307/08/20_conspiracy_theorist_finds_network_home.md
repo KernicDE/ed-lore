@@ -6,20 +6,21 @@ date: '3307-08-20'
 source: API
 groups:
 - Utopia
-locations:
-- Colonia
-- Neche and Wasat
+persons:
+- Flint 'Firemaker' Lafosse
+- Kit Fowler
 topics:
-- alien contact
 - crime
 - engineering
-- piracy
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
-significance: high
+summary: Independent journalist Flint 'Firemaker' Lafosse begins broadcasting Kit
+  Fowler's conspiracy show End Times on the Rewired network, linking Black Flight
+  crimes to Thargoid cover-ups.
+player_impact: Pilots investigated Hyford's Cache and related mystery sites following
+  Fowler's theories.
+modern_impact: Conspiracy theories surrounding Black Flight and Thargoid cover-ups
+  continue to circulate in independent media.
+legacy_weight: 3
+significance: medium
 ---
 
 [[Independent]] journalist Flint ‘Firemaker’ Lafosse has announced that [[The]] Rewired network will broadcast Kit Fowler’s conspiracy-laden show End Times.

@@ -6,22 +6,20 @@ date: '3307-09-16'
 source: API
 groups:
 - Aegis
-- Pilots Federation
-locations:
-- Aegis
-- Mars
-- 'Pilots Federation ALERT*
-
-  The Cornsar'
-- The
+persons:
+- Salvation
+- Noah Sharrow
 topics:
 - alien contact
-- construction
 - humanitarian
 - investigation
-- ship
 - war
 arc_id: thargoid-contact
+summary: Thargoid forces attack the Cornsar system, validating Salvation's prediction.
+  Over ten thousand casualties result from direct assaults on Chadwick Port and Ito
+  Market stations.
+player_impact: Independent pilots and local security forces fought Thargoid vessels
+  and rescued civilians from damaged starports.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5

@@ -4,22 +4,21 @@ title: 'Mahon: Sirius Treaty Would Save Aegis'
 slug: mahon_sirius_treaty_would_save_aegis
 date: '3307-09-07'
 source: API
-entities:
-- Edmund Mahon
-- Paul Baumann
 groups:
 - Aegis
 - Alliance
-locations:
-- Aegis
-- Sirius
+persons:
+- Edmund Mahon
+- Paul Baumann
 topics:
 - alien contact
-- crime
 - diplomacy
-- independence
 - investigation
 arc_id: thargoid-contact
+summary: Prime Minister Edmund Mahon expresses regret that the Sirius Treaty failed
+  at the Galactic Summit, arguing it would have provided Aegis the resources to avoid
+  a public inquiry.
+player_impact: None
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5

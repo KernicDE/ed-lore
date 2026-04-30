@@ -4,17 +4,24 @@ title: A Fractured Federation
 slug: a_fractured_federation
 date: '3307-08-23'
 source: API
-entities:
-- Felicia Winters
 groups:
-- Federal Times
+- Federation
+persons:
+- Felicia Winters
+- Jerome Archer
 topics:
 - crime
 - independence
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+arc_id: federal-politics
+summary: Shadow President Felicia Winters warns that further Federal secessions could
+  severely damage the Federation, while Vice President Jerome Archer defends the Proactive
+  Detection Bureau.
+player_impact: None
+modern_impact: Federal political developments shape superpower relations and civil
+  liberties debates.
+legacy_weight: 3
+significance: medium
 ---
 
 [[Shadow President]] [[Felicia Winters]] has claimed that [[Further]] systems declaring [[Independence]] could severely damage [[The]] Federation.

@@ -2,32 +2,28 @@
 id: paul-baumann
 name: Paul Baumann
 type: person
-first_seen_date: '3307-08-11'
+first_seen_date: '3307-11-29'
 last_seen_date: '3307-11-29'
-mention_count: 4
+mention_count: 1
 related_entities:
 - aegis
-- alba-tesreau
-- edmund-mahon
-- alliance
 - federal-navy
+- recent-events-in-the-t-tauri
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Paul Baumann
 
-First mentioned: **3307-08-11**  
+First mentioned: **3307-11-29**  
 Last mentioned: **3307-11-29**  
-Total mentions: **4**
+Total mentions: **1**
 
 ## Related
 
-- [[Aegis]] (4 co-mentions)
-- [[Alba Tesreau]] (2 co-mentions)
-- [[Edmund Mahon]] (1 co-mentions)
-- [[Alliance]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
+- [[Recent events in the T Tauri]] (1 co-mentions)
 
 ## Biography
 

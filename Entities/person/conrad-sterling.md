@@ -4,7 +4,7 @@ name: Conrad Sterling
 type: person
 first_seen_date: '3307-06-02'
 last_seen_date: '3311-12-19'
-mention_count: 21
+mention_count: 22
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 21
 
 First mentioned: **3307-06-02**  
 Last mentioned: **3311-12-19**  
-Total mentions: **21**
+Total mentions: **22**
 
 ## Related
 

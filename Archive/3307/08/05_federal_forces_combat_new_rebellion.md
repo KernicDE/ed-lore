@@ -4,22 +4,26 @@ title: Federal Forces Combat New Rebellion
 slug: federal_forces_combat_new_rebellion
 date: '3307-08-05'
 source: API
-entities:
-- Sonal Mishra
-- Zachary Hudson made
 groups:
-- Pilots Federation
-locations:
-- These control a combined total of 28
+- Federation
+persons:
+- Zachary Hudson
+- Sonal Mishra
 topics:
 - crime
-- festival
 - independence
-- ship
 - war
-modern_impact: Community celebration bringing pilots together.
-legacy_weight: 1
-significance: low
+arc_id: federal-politics
+summary: The Federation fights to prevent New Kuwembaa Labour from seceding over opposition
+  to the Proactive Detection Bureau, while three additional Federal factions prepare
+  to declare independence.
+player_impact: Federal auxiliaries and pro-independence pilots fought on opposing sides
+  in the Kuwembaa system conflict, handing in combat bonds at Gagnan Port or Fortress
+  Liberty.
+modern_impact: Federal political developments shape superpower relations and civil liberties
+  debates.
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

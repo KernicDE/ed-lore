@@ -8,8 +8,8 @@ mention_count: 274
 related_entities:
 - alliance
 - maelstrom
-- pilots-federation
 - pleiades-nebula
+- pilots-federation
 - sirius-corporation
 ---
 
@@ -25,8 +25,8 @@ Total mentions: **274**
 
 - [[Alliance]] (62 co-mentions)
 - [[Maelstrom]] (29 co-mentions)
-- [[Pilots Federation]] (28 co-mentions)
 - [[Pleiades Nebula]] (26 co-mentions)
+- [[Pilots Federation]] (26 co-mentions)
 - [[Sirius Corporation]] (21 co-mentions)
 
 ## Biography

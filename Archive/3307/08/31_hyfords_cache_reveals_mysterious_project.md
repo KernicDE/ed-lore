@@ -4,20 +4,20 @@ title: Hyford’s Cache Reveals Mysterious Project
 slug: hyfords_cache_reveals_mysterious_project
 date: '3307-08-31'
 source: API
-entities:
-- Hyford
-- Hyford spoke
 groups:
-- Pilots Federation
-locations:
-- Colonia
-- Neche and Wasat
+- Wallglass Investigations Agency
+persons:
+- Hyford
+- Erik Gunnarson
+- Kit Fowler
 topics:
 - investigation
-- ship
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+summary: A data cache left by Commander Hyford at a crash site in Colonia reactivates,
+  revealing clues about mysterious deliveries to a nameless organization in the Pleiades.
+player_impact: Pilots investigated the data cache and followed leads to the HIP 26176
+  system.
+modern_impact: The mysteries surrounding Black Flight and secret Pleiades operations
+  remain unresolved.
 legacy_weight: 3
 significance: medium
 ---

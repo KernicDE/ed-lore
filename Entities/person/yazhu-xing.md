@@ -2,18 +2,18 @@
 id: yazhu-xing
 name: Yazhu Xing
 type: person
-first_seen_date: '3308-10-03'
+first_seen_date: '3307-08-11'
 last_seen_date: '3308-10-03'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Yazhu Xing
 
-First mentioned: **3308-10-03**  
+First mentioned: **3307-08-11**  
 Last mentioned: **3308-10-03**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

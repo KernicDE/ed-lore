@@ -4,21 +4,23 @@ title: Onionhead Legality Sparks Debate
 slug: onionhead_legality_sparks_debate
 date: '3307-08-13'
 source: API
-entities:
-- Leatrix
 groups:
 - Alliance
 - Kumo Crew
-locations:
-- Achenar
-- Nastrond and Nocori
-- Open-minded people in independent
-- Sol
+persons:
+- Zander Lachance
+- Leatrix
+- Zachary Rackham
+- Sir Randolph Plaskett
 topics:
 - narcotics
-- trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+summary: The Kumo Crew's introduction of Onionhead gamma strain reignites galactic
+  debate over the psychedelic drug's legality, with newsfeeds across all superpowers
+  weighing in.
+player_impact: Pilots could legally purchase Onionhead gamma strain in selected anarchy
+  systems.
+modern_impact: The legal status of onionhead variants remains a point of contention
+  between superpowers and local jurisdictions.
 legacy_weight: 2
 significance: low
 ---

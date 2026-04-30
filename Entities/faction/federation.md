@@ -4,7 +4,7 @@ name: Federation
 type: faction
 first_seen_date: '3307-06-24'
 last_seen_date: '3311-11-27'
-mention_count: 30
+mention_count: 37
 related_entities:
 - alliance
 - empire
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3307-06-24**  
 Last mentioned: **3311-11-27**  
-Total mentions: **30**
+Total mentions: **37**
 
 ## Related
 

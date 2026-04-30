@@ -8,16 +8,21 @@ groups:
 - Alliance
 - Marlinist
 - NMLA
-locations:
-- Marlinist
+persons:
+- Jenna Fairfax
+- Amrita Ross
+- Milo Castile
+- Kayode Tau
 topics:
 - humanitarian
 - investigation
-- medicine
-- scandal
-- ship
 - terrorism
 arc_id: nmla-terrorism
+summary: NMLA starport bombings in the Marlinist Colonies kill over 35,000 civilians.
+  First Minister Jenna Fairfax is confirmed dead, and Acting First Minister Amrita
+  Ross assumes leadership amid political chaos.
+player_impact: Pilots provided evacuation and supply support to Stillman Hub and
+  Tilman Point stations.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

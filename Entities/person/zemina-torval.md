@@ -4,7 +4,7 @@ name: Zemina Torval
 type: person
 first_seen_date: '3301-03-01'
 last_seen_date: '3307-10-01'
-mention_count: 13
+mention_count: 12
 related_entities:
 - mastopolos-mining
 - capitol
@@ -19,11 +19,11 @@ related_entities:
 
 First mentioned: **3301-03-01**  
 Last mentioned: **3307-10-01**  
-Total mentions: **13**
+Total mentions: **12**
 
 ## Related
 
-- [[Mastopolos Mining]] (4 co-mentions)
+- [[Mastopolos Mining]] (3 co-mentions)
 - [[Capitol]] (2 co-mentions)
 - [[Merope]] (2 co-mentions)
 - [[Barham]] (1 co-mentions)

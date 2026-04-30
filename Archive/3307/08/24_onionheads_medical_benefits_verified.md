@@ -4,17 +4,21 @@ title: Onionhead’s Medical Benefits Verified
 slug: onionheads_medical_benefits_verified
 date: '3307-08-24'
 source: API
-entities:
-- Nisha Devi
 groups:
 - Kumo Crew
+- Interstellar Health Organisation
+- Vandermeer Corporation
+persons:
+- Nisha Devi
+- Ronan Roscoe
 topics:
-- corporate expansion
-- humanitarian
-- medicine
 - narcotics
 - research
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: The Interstellar Health Organisation validates claims that Onionhead gamma
+  strain has medicinal properties for psychological and musculoskeletal conditions.
+player_impact: None
+modern_impact: The medical applications of onionhead gamma strain remain under clinical
+  study, with pharmaceutical companies competing for market control.
 legacy_weight: 2
 significance: low
 ---

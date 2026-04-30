@@ -4,24 +4,25 @@ title: Empire Marks Anniversary of NMLA Attacks
 slug: empire_marks_anniversary_of_nmla_attacks
 date: '3307-09-10'
 source: API
-entities:
-- Edmund Mahon
-- Zachary Hudson
 groups:
 - Marlinist
 - NMLA
-- Neo-Marlinist Liberation Army
-locations:
-- Cemiess
-- LHS 4031 and Rabh
-- Marlinist
+persons:
+- Aisling Duval
+- Zachary Hudson
+- Edmund Mahon
+- Hadrian Augustus Duval
+- Octavia Volkov
+- Harold Duval
 topics:
-- construction
-- festival
 - humanitarian
 - terrorism
 - war
 arc_id: nmla-terrorism
+summary: The Empire declares a day of mourning for the first anniversary of the NMLA's
+  Imperial starport bombings, which killed over 60,000 people and marked the beginning
+  of the terror campaign.
+player_impact: None
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

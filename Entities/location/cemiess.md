@@ -4,7 +4,7 @@ name: Cemiess
 type: location
 first_seen_date: '3301-02-21'
 last_seen_date: '3308-09-29'
-mention_count: 25
+mention_count: 24
 related_entities:
 - mackenzie-relay
 - achenar
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-21**  
 Last mentioned: **3308-09-29**  
-Total mentions: **25**
+Total mentions: **24**
 
 ## Related
 

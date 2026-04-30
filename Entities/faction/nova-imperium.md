@@ -23,11 +23,11 @@ Total mentions: **32**
 
 ## Related
 
-- [[Paresa]] (24 co-mentions)
-- [[NMLA]] (14 co-mentions)
-- [[Imperial Herald]] (8 co-mentions)
+- [[Paresa]] (23 co-mentions)
+- [[NMLA]] (13 co-mentions)
+- [[Imperial Herald]] (7 co-mentions)
 - [[Alliance]] (7 co-mentions)
-- [[Achenar]] (6 co-mentions)
+- [[Achenar]] (5 co-mentions)
 
 ## Biography
 

@@ -8,13 +8,19 @@ groups:
 - Alliance
 - Marlinist
 - NMLA
-- Pilots Federation
-locations:
-- Marlinist
+persons:
+- Amrita Ross
+- Octavia Volkov
+- Aaron Whyte
+- Kayode Tau
 topics:
-- ship
 - war
 arc_id: nmla-terrorism
+summary: Civil war erupts in the Hyades Sector RO-P b6-2 system as the Exiled Marlinist
+  Assembly of Baltah'Sine declares war on the Marlinism Reformation Party, the NMLA's
+  political wing.
+player_impact: Independent pilots fought for either the anti-NMLA forces or the Marlinism
+  Reformation Party.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

@@ -6,11 +6,11 @@ first_seen_date: '3301-08-03'
 last_seen_date: '3309-11-23'
 mention_count: 12
 related_entities:
+- torval-mastopolos-mining
 - zemina-torval
-- imperial-herald
-- pilots-federation
 - imperial-senate
 - wreaken-construction
+- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **12**
 
 ## Related
 
-- [[Zemina Torval]] (4 co-mentions)
-- [[Imperial Herald]] (4 co-mentions)
-- [[Pilots Federation]] (4 co-mentions)
+- [[Torval-Mastopolos Mining]] (4 co-mentions)
+- [[Zemina Torval]] (3 co-mentions)
 - [[Imperial Senate]] (3 co-mentions)
 - [[Wreaken Construction]] (3 co-mentions)
+- [[Imperial Herald]] (2 co-mentions)
 
 ## Biography
 

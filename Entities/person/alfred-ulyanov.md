@@ -3,8 +3,8 @@ id: alfred-ulyanov
 name: Alfred Ulyanov
 type: person
 first_seen_date: '3304-06-16'
-last_seen_date: '3307-08-06'
-mention_count: 11
+last_seen_date: '3304-12-01'
+mention_count: 10
 related_entities:
 - alliance
 - aegis
@@ -18,8 +18,8 @@ related_entities:
 # Alfred Ulyanov
 
 First mentioned: **3304-06-16**  
-Last mentioned: **3307-08-06**  
-Total mentions: **11**
+Last mentioned: **3304-12-01**  
+Total mentions: **10**
 
 ## Related
 

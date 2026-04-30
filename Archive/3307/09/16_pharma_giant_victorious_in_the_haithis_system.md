@@ -7,13 +7,19 @@ source: API
 groups:
 - Alliance
 - Kumo Crew
-- Pilots Federation
+- Neomedical Industries
+persons:
+- Olwyn Kendrick
 topics:
 - corporate expansion
-- medicine
 - narcotics
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: Haithis Purple Dynamic Group defeats the Kumo Council assault, securing Neomedical
+  Industries' ability to mass-produce Onionhead gamma strain for medicinal use.
+player_impact: Pilots defended Haithis Purple Dynamic Group ships against Kumo Crew
+  pirate assaults.
+modern_impact: The medical applications of onionhead gamma strain remain under clinical
+  study, with pharmaceutical companies competing for market control.
 legacy_weight: 2
 significance: low
 ---

@@ -5,15 +5,17 @@ slug: saud_kruger_receives_exploration_data
 date: '3307-09-30'
 source: API
 groups:
-- Pilots Federation
-locations:
-- Youll Port in the Vistaenis
+- Saud Kruger
+persons:
+- Stanislav Kruger
 topics:
-- construction
 - corporate expansion
 - exploration
-- ship
-modern_impact: Ship review and release information for the pilot community.
+summary: Saud Kruger successfully collects enormous amounts of Earth-like world exploration
+  data for Astrogator Tours, with tourist beacons planned for promising destinations.
+player_impact: Contributing pilots received payment at Youll Port and will be credited
+  on tourist beacons in suitable systems.
+modern_impact: Tourism initiatives continue to drive exploration of uncharted systems.
 legacy_weight: 2
 significance: low
 ---

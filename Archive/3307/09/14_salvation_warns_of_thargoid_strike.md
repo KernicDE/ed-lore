@@ -6,19 +6,18 @@ date: '3307-09-14'
 source: API
 groups:
 - Aegis
-locations:
-- Aegis
-- Authorities in the Cornsar
-- Cornsar
-- I believe a Thargoid invasion of the
-- Mars
+persons:
+- Salvation
+- Carter Armstrong
+- Noah Sharrow
 topics:
 - alien contact
 - investigation
-- ship
-- sport
 - war
 arc_id: thargoid-contact
+summary: The anonymous figure Salvation claims Thargoid forces will attack the Cornsar
+  system, but Aegis dismisses the warning due to lack of evidence.
+player_impact: None
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5

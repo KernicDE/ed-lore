@@ -3,8 +3,8 @@ id: alba-tesreau
 name: Alba Tesreau
 type: person
 first_seen_date: '3303-08-05'
-last_seen_date: '3307-08-17'
-mention_count: 19
+last_seen_date: '3306-01-13'
+mention_count: 17
 related_entities:
 - aegis
 - alliance
@@ -18,12 +18,12 @@ related_entities:
 # Alba Tesreau
 
 First mentioned: **3303-08-05**  
-Last mentioned: **3307-08-17**  
-Total mentions: **19**
+Last mentioned: **3306-01-13**  
+Total mentions: **17**
 
 ## Related
 
-- [[Aegis]] (19 co-mentions)
+- [[Aegis]] (17 co-mentions)
 - [[Alliance]] (5 co-mentions)
 - [[Pleiades Nebula]] (4 co-mentions)
 - [[Ram Tah]] (4 co-mentions)

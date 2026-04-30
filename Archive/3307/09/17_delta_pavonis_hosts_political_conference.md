@@ -5,15 +5,22 @@ slug: delta_pavonis_hosts_political_conference
 date: '3307-09-17'
 source: API
 groups:
-- Federal Navy
-locations:
-- Delphi
+- Federation
+- EG Union
+persons:
+- Yuri Grom
+- Delphine Dumont
+- Simion Petrescu
 topics:
 - diplomacy
 - independence
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+arc_id: federal-politics
+summary: The Federation and dictator Yuri Grom hold a diplomatic conference in Delta
+  Pavonis to determine the system's allegiance, marking the first official engagement
+  between the two.
+player_impact: None
+modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 2
 significance: low
 ---

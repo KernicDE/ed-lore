@@ -4,13 +4,13 @@ name: Paresa
 type: location
 first_seen_date: '3305-01-05'
 last_seen_date: '3309-06-05'
-mention_count: 30
+mention_count: 29
 related_entities:
 - nova-imperium
 - imperial-herald
 - nmla
 - imperial-navy
-- achenar
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3305-01-05**  
 Last mentioned: **3309-06-05**  
-Total mentions: **30**
+Total mentions: **29**
 
 ## Related
 
-- [[Nova Imperium]] (24 co-mentions)
-- [[Imperial Herald]] (12 co-mentions)
-- [[NMLA]] (12 co-mentions)
+- [[Nova Imperium]] (23 co-mentions)
+- [[Imperial Herald]] (11 co-mentions)
+- [[NMLA]] (11 co-mentions)
 - [[Imperial Navy]] (6 co-mentions)
-- [[Achenar]] (6 co-mentions)
+- [[Alliance]] (5 co-mentions)
 
 ## Biography
 

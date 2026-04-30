@@ -10,7 +10,7 @@ related_entities:
 - alliance
 - achenar
 - sirius-corporation
-- neo-marlinist-liberation-army
+- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **51**
 - [[Alliance]] (22 co-mentions)
 - [[Achenar]] (11 co-mentions)
 - [[Sirius Corporation]] (6 co-mentions)
-- [[Neo-Marlinist Liberation Army]] (6 co-mentions)
+- [[Imperial Herald]] (5 co-mentions)
 
 ## Biography
 

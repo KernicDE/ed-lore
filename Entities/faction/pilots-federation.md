@@ -4,13 +4,13 @@ name: Pilots Federation
 type: faction
 first_seen_date: '3301-03-27'
 last_seen_date: '3312-02-10'
-mention_count: 176
+mention_count: 161
 related_entities:
 - alliance
 - aegis
-- kumo-crew
 - delphi
 - sirius-corporation
+- chukchan
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-03-27**  
 Last mentioned: **3312-02-10**  
-Total mentions: **176**
+Total mentions: **161**
 
 ## Related
 
-- [[Alliance]] (35 co-mentions)
-- [[Aegis]] (28 co-mentions)
-- [[Kumo Crew]] (11 co-mentions)
+- [[Alliance]] (30 co-mentions)
+- [[Aegis]] (26 co-mentions)
 - [[Delphi]] (11 co-mentions)
 - [[Sirius Corporation]] (9 co-mentions)
+- [[Chukchan]] (8 co-mentions)
 
 ## Biography
 

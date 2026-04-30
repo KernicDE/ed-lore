@@ -7,14 +7,19 @@ source: API
 groups:
 - Marlinist
 - NMLA
-- Neo-Marlinist Liberation Army
-locations:
-- Marlinist
+persons:
+- Milo Castile
+- Jean-Christophe Lyon
+- Theta Seven
 topics:
-- construction
 - terrorism
 - war
 arc_id: nmla-terrorism
+summary: ACT reports major progress against the NMLA, raiding dozens of cells and
+  arresting thousands of paramilitary activists following intelligence from the Marlinist
+  civil war.
+player_impact: Pilots who supported the anti-NMLA faction indirectly contributed to
+  intelligence that enabled these raids.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

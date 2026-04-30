@@ -4,21 +4,24 @@ title: Victory Against Federation for Independent Factions
 slug: victory_against_federation_for_independent_factions
 date: '3307-08-12'
 source: API
-entities:
-- Hudson that he
-- Sonal Mishra
 groups:
-- Pilots Federation
-locations:
-- The conflict in the Kuwembaa
-- The rebelling
+- Federation
+persons:
+- Sonal Mishra
+- Zachary Hudson
 topics:
 - independence
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+arc_id: federal-politics
+summary: New Kuwembaa Labour successfully secedes from the Federation, inspiring three
+  additional factions to sever ties and shut down Proactive Detection Bureau links
+  across 28 systems.
+player_impact: Pilots who supported New Kuwembaa Labour secured its independence from
+  Federal control.
+modern_impact: Federal political developments shape superpower relations and civil
+  liberties debates.
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

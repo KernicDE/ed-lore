@@ -7,10 +7,7 @@ last_seen_date: '3307-08-26'
 mention_count: 5
 related_entities:
 - mastopolos-mining
-- pilots-federation
-- imperial-herald
-- synteini
-- this-permit-locked
+- torval-mastopolos-mining
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +21,7 @@ Total mentions: **5**
 ## Related
 
 - [[Mastopolos Mining]] (3 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
-- [[Imperial Herald]] (1 co-mentions)
-- [[Synteini]] (1 co-mentions)
-- [[This permit-locked]] (1 co-mentions)
+- [[Torval-Mastopolos Mining]] (3 co-mentions)
 
 ## Biography
 

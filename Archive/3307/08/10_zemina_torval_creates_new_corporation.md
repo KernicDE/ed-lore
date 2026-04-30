@@ -4,18 +4,20 @@ title: Zemina Torval Creates New Corporation
 slug: zemina_torval_creates_new_corporation
 date: '3307-08-10'
 source: API
-entities:
-- Gabriella Mastopolos
-- Torval confirmed her plans
 groups:
-- Imperial Herald
 - Imperial Senate
 - Mastopolos Mining
+- Torval-Mastopolos Mining
+persons:
+- Zemina Torval
+- Gabriella Mastopolos
+- Marlon Royce
 topics:
 - corporate expansion
-arc_id: formidine-rift
-modern_impact: The Formidine Rift mystery captivates explorers and reveals hidden
-  history.
+summary: Senator Zemina Torval establishes Torval-Mastopolos Mining, an autonomous
+  offshoot of Mastopolos Mining, signaling a potential rift with CEO Gabriella Mastopolos.
+player_impact: None
+modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 3
 significance: medium
 ---

@@ -5,17 +5,20 @@ slug: rival_corporations_compete_in_ltt_198
 date: '3307-08-16'
 source: API
 groups:
-- Imperial Herald
 - Mastopolos Mining
 - Wreaken Construction
-locations:
-- Synteini
-- This permit-locked
+- Torval-Mastopolos Mining
+persons:
+- Zemina Torval
+- Constantia Torval
+- Marlon Royce
+- Emmerich Koenig
 topics:
-- construction
 - corporate expansion
-- ship
-modern_impact: Ship review and release information for the pilot community.
+summary: Torval-Mastopolos Mining and Wreaken Construction both establish headquarters
+  in the LTT 198 system, escalating their long-standing corporate rivalry.
+player_impact: None
+modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low
 ---

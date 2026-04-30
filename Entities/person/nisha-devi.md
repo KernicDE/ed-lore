@@ -5,8 +5,6 @@ type: person
 first_seen_date: '3307-08-24'
 last_seen_date: '3307-08-24'
 mention_count: 1
-related_entities:
-- kumo-crew
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Kumo Crew]] (1 co-mentions)
 
 ## Biography
 

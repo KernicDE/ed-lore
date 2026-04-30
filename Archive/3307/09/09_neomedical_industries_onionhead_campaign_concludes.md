@@ -7,20 +7,19 @@ source: API
 groups:
 - Alliance
 - Kumo Crew
-- Pilots Federation
-locations:
-- Alliance
-- Crippen Port in the Haithis
-- Their megaship remains in the Haithis
+- Neomedical Industries
+persons:
+- Olwyn Kendrick
 topics:
-- construction
 - corporate expansion
-- medicine
 - narcotics
 - piracy
-- ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
+summary: Neomedical Industries receives sufficient materials to produce Onionhead gamma
+  strain as a medical treatment, despite Kumo Crew pirate attacks.
+player_impact: Pilots delivered H.E. suits, polymers, and robotics to Crippen Port
+  and fought off pirate attacks.
+modern_impact: The medical applications of onionhead gamma strain remain under clinical
+  study, with pharmaceutical companies competing for market control.
 legacy_weight: 2
 significance: low
 ---
