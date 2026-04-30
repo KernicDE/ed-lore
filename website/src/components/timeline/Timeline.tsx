@@ -168,8 +168,8 @@ export default function Timeline({
               >
                 <div className="timeline-date">{art.date}</div>
                 <div className="timeline-title">{art.title}</div>
-                {!isSelected && (
-                  <div className="timeline-preview">{art.body_preview}</div>
+                {!isSelected && art.summary && (
+                  <div className="timeline-preview">{art.summary}</div>
                 )}
                 <div className="timeline-meta">
                   {art.arc_id && (
@@ -182,10 +182,11 @@ export default function Timeline({
 
                 {isSelected && (
                   <div className="detail-view">
-                    {/* Summary */}
+                    {/* Summary Box */}
                     {art.summary && (
-                      <div style={{ fontSize: 15, color: 'var(--text-primary)', marginBottom: 12, lineHeight: 1.5, fontWeight: 500 }}>
-                        {art.summary}
+                      <div className="detail-summary">
+                        <div className="detail-summary-label">Summary</div>
+                        <div className="detail-summary-text">{art.summary}</div>
                       </div>
                     )}
 
@@ -197,23 +198,26 @@ export default function Timeline({
                       }}
                     />
 
-                    {/* Player Impact */}
-                    {art.player_impact && (
-                      <div style={{ marginTop: 16, padding: 12, background: 'rgba(0,191,255,0.05)', borderLeft: '2px solid var(--elite-blue-dim)' }}>
-                        <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--elite-blue)', letterSpacing: 1, textTransform: 'uppercase', marginBottom: 6 }}>
-                          Pilot Impact
-                        </div>
-                        <div style={{ fontSize: 14, color: 'var(--text-secondary)' }}>
-                          {art.player_impact}
-                        </div>
-                      </div>
-                    )}
-
-                    {/* Modern Impact */}
-                    {art.modern_impact && (
-                      <div className="detail-impact">
-                        <div className="detail-impact-label">Future Impact Analysis</div>
-                        <div className="detail-impact-text">{art.modern_impact}</div>
+                    {/* Analysis Box */}
+                    {(art.player_impact || art.modern_impact) && (
+                      <div className="detail-analysis">
+                        <div className="detail-analysis-label">Analysis</div>
+                        {art.player_impact && (
+                          <div className="detail-analysis-section">
+                            <div className="detail-analysis-section-label" style={{ color: 'var(--elite-blue)' }}>
+                              Player Impact
+                            </div>
+                            <div className="detail-analysis-section-text">{art.player_impact}</div>
+                          </div>
+                        )}
+                        {art.modern_impact && (
+                          <div className="detail-analysis-section">
+                            <div className="detail-analysis-section-label" style={{ color: 'var(--elite-orange)' }}>
+                              Future Impact
+                            </div>
+                            <div className="detail-analysis-section-text">{art.modern_impact}</div>
+                          </div>
+                        )}
                       </div>
                     )}
 

@@ -10,6 +10,8 @@ interface Article {
   date: string;
   arc_id: string | null;
   significance: string;
+  summary: string;
+  player_impact: string;
   modern_impact: string;
   body_full: string;
   body_preview: string;

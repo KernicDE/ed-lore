@@ -90,10 +90,36 @@ const sigColors: Record<string, string> = {
           <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/?article=${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
             {art.title}
           </a>
-          <div style="font-size: 12px; color: var(--text-secondary); margin-top: 2px;" set:html={art.body_preview.replace(/\[\[([^\]]+)\]\]/g, (m, name) => { const eid = name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-'); const base = (import.meta.env.BASE_URL || '').replace(/\/$/, ''); return `<a href="${base}/entity/${eid}/" class="wiki-link">${name}</a>`; })} />
-          {art.modern_impact && (
-            <div style="margin-top: 6px; padding: 6px 10px; background: 'rgba(255,140,0,0.05)'; border-left: 2px solid var(--elite-orange-dim); font-size: 11px; color: var(--text-secondary); font-style: italic;">
-              {art.modern_impact}
+          {art.summary && (
+            <div style="margin-top: 4px; font-size: 12px; color: var(--text-secondary); line-height: 1.4;">
+              {art.summary}
+            </div>
+          )}
+          {(art.player_impact || art.modern_impact) && (
+            <div style="margin-top: 8px; padding: 8px 10px; background: var(--bg-elevated); border: 1px solid var(--border-glow);">
+              <div style="font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; padding-bottom: 6px; border-bottom: 1px solid var(--border-default);">
+                Analysis
+              </div>
+              {art.player_impact && (
+                <div style="margin-bottom: 8px;">
+                  <div style="font-family: var(--font-mono); font-size: 10px; color: var(--elite-blue); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 3px;">
+                    Player Impact
+                  </div>
+                  <div style="font-size: 11px; color: var(--text-secondary); line-height: 1.4;">
+                    {art.player_impact}
+                  </div>
+                </div>
+              )}
+              {art.modern_impact && (
+                <div>
+                  <div style="font-family: var(--font-mono); font-size: 10px; color: var(--elite-orange); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 3px;">
+                    Future Impact
+                  </div>
+                  <div style="font-size: 11px; color: var(--text-secondary); line-height: 1.4;">
+                    {art.modern_impact}
+                  </div>
+                </div>
+              )}
             </div>
           )}
         </div>
