@@ -1,0 +1,31 @@
+---
+uuid: 6b7c8d9e-0f1a-2b3c-4d5e-6f7a8b9c0d1e
+title: Two Dead in Tragic Accident
+slug: two_dead_in_tragic_accident
+date: '3301-08-11'
+source: GitHub
+entities:
+  - Elaine Boyd
+  - Arnold Lowe
+groups:
+  - Transport Safety Authority
+  - Federal Times
+locations:
+  - Artemis
+  - Laphria Shipyard
+  - Mars
+topics:
+  - accident
+  - investigation
+arc_id: federal-politics
+modern_impact: Accident kills transport safety officials; possible connection to Starship One investigation.
+legacy_weight: 2
+---
+
+Two Dead in Tragic Accident
+
+Two people died in a crash when a personal transport collided with a Lakon Type-9 Heavy transport vessel. The small ship, a type used to run between orbital facilities, was destroyed in the impact. The small vessel was ferrying two transport safety officials to the Laphria Shipyard in the Artemis system.
+
+The Transport Safety Authority issued the following statement from their headquarters on Mars: "This type of accident is always a terrible tragedy for those involved and the Laphrian authorities have promised full disclosure and co-operation with our investigation."
+
+Elaine Boyd from the Federal Times asked for the identities of the dead and was told that they wouldn't be disclosed until the next of kin had been identified. She pressed further asking if one of the dead men was Arnold Lowe, a senior investigator in the Starship One disappearance. She was told 'no comment' and no further questions were taken.
