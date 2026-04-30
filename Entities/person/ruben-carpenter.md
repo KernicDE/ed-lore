@@ -3,14 +3,8 @@ id: ruben-carpenter
 name: Ruben Carpenter
 type: person
 first_seen_date: '3308-03-23'
-last_seen_date: '3308-03-31'
-mention_count: 3
-related_entities:
-- heart-of-taurus
-- synuefe
-- act
-- salvation
-- thargoid
+last_seen_date: '3308-04-07'
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +12,11 @@ related_entities:
 # Ruben Carpenter
 
 First mentioned: **3308-03-23**  
-Last mentioned: **3308-03-31**  
-Total mentions: **3**
+Last mentioned: **3308-04-07**  
+Total mentions: **4**
 
 ## Related
 
-- [[Heart of Taurus]] (3 co-mentions)
-- [[Synuefe]] (3 co-mentions)
-- [[ACT]] (2 co-mentions)
-- [[Salvation]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
 
 ## Biography
 

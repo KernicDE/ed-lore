@@ -3,8 +3,8 @@ id: geras
 name: Geras
 type: location
 first_seen_date: '3304-11-08'
-last_seen_date: '3304-11-10'
-mention_count: 2
+last_seen_date: '3308-05-12'
+mention_count: 3
 related_entities:
 - authorities-in-the-geras
 - arissa-lavigny-duval
@@ -18,8 +18,8 @@ related_entities:
 # Geras
 
 First mentioned: **3304-11-08**  
-Last mentioned: **3304-11-10**  
-Total mentions: **2**
+Last mentioned: **3308-05-12**  
+Total mentions: **3**
 
 ## Related
 

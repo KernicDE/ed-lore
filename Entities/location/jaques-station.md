@@ -7,10 +7,10 @@ last_seen_date: '3308-03-10'
 mention_count: 47
 related_entities:
 - eol-prou
-- jaques-station-in-the-colonia
 - eol-prou-rs-t-d3-94
 - brewer-corporation
 - colonia-council
+- jaques-station-in-the-colonia
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **47**
 ## Related
 
 - [[Eol Prou]] (13 co-mentions)
-- [[Jaques Station in the Colonia]] (12 co-mentions)
 - [[Eol Prou RS-T d3-94]] (11 co-mentions)
 - [[Brewer Corporation]] (11 co-mentions)
 - [[Colonia Council]] (10 co-mentions)
+- [[Jaques Station in the Colonia]] (5 co-mentions)
 
 ## Biography
 

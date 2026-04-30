@@ -4,13 +4,13 @@ name: Jupiter
 type: location
 first_seen_date: '3304-07-07'
 last_seen_date: '3309-10-13'
-mention_count: 38
+mention_count: 37
 related_entities:
 - core-dynamics
 - alliance
 - federal-times
-- jupiter-rochester
-- pilots-federation
+- mars
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3304-07-07**  
 Last mentioned: **3309-10-13**  
-Total mentions: **38**
+Total mentions: **37**
 
 ## Related
 
 - [[Core Dynamics]] (28 co-mentions)
 - [[Alliance]] (13 co-mentions)
-- [[Federal Times]] (9 co-mentions)
-- [[Jupiter Rochester]] (8 co-mentions)
-- [[Pilots Federation]] (6 co-mentions)
+- [[Federal Times]] (8 co-mentions)
+- [[Mars]] (4 co-mentions)
+- [[Sol]] (4 co-mentions)
 
 ## Biography
 

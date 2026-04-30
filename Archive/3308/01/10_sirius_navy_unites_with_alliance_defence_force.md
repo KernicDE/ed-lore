@@ -4,28 +4,30 @@ title: Sirius Navy Unites with Alliance Defence Force
 slug: sirius_navy_unites_with_alliance_defence_force
 date: '3308-01-10'
 source: API
-entities:
+arc_id: thargoid-titan-war
+persons:
 - Edmund Mahon
+entities: []
 groups:
-- ACT
 - Alliance
 - Imperial Navy
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Many member
 - Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: Sirius Corporation officer Admiral Nikolas Glass joins the Alliance Council of Admirals.
+player_impact: Not specifically mentioned — this is a military organizational report.
+modern_impact: "\"Not only is this the first time that a seventh position has been created, it's also the first to come from outside the Alliance.\" Sirius Corporation's integration into the Alliance military hierarchy represents an unprecedented corporate intrusion into superpower defence."
+related_uuids:
+- 09f64120-be71-5938-ba2b-11b5bcb63641
+- 2802af31-31af-56d3-820a-8de1dabfd0b8
+- 09bf0b89-95eb-572c-97eb-a94634287f81
 legacy_weight: 4
 significance: high
 ---
+
 
 A new member has been appointed to [[The]] Council of Admirals to represent [[Sirius Corporation]] [[As the]] [[Alliance]]’s strategic defence partner.
 Political correspondent Vanya Driscoll reported for The Alliance Tribune:

@@ -4,13 +4,13 @@ name: Aegis
 type: faction
 first_seen_date: '3303-08-05'
 last_seen_date: '3311-06-18'
-mention_count: 299
+mention_count: 275
 related_entities:
-- thargoid
-- act
 - alliance
+- maelstrom
+- pleiades-nebula
+- pilots-federation
 - alba-tesreau
-- azimuth
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3303-08-05**  
 Last mentioned: **3311-06-18**  
-Total mentions: **299**
+Total mentions: **275**
 
 ## Related
 
-- [[Thargoid]] (103 co-mentions)
-- [[ACT]] (96 co-mentions)
-- [[Alliance]] (78 co-mentions)
-- [[Alba Tesreau]] (50 co-mentions)
-- [[Azimuth]] (48 co-mentions)
+- [[Alliance]] (63 co-mentions)
+- [[Maelstrom]] (29 co-mentions)
+- [[Pleiades Nebula]] (26 co-mentions)
+- [[Pilots Federation]] (25 co-mentions)
+- [[Alba Tesreau]] (24 co-mentions)
 
 ## Biography
 

@@ -2,11 +2,17 @@
 uuid: eec09e5e-cb5a-590e-b38c-88e65e11dd5b
 title: New Marlinist Systems Request Emergency Food Supplies
 slug: new_marlinist_systems_request_emergency_food_supplies
-date: '3307-01-14'
+date: 3307-01-14
 source: API
+arc_id: null
+persons:
+- Further
+- Jenna Fairfax
+- Our
+- This
+- Universal Cartographics
 groups:
 - Marlinist
-- Pilots Federation
 - Sirius Corp
 - Sirius Corporation
 - Universal Cartographics
@@ -19,11 +25,16 @@ topics:
 - corporate expansion
 - exploration
 - humanitarian
-- ship
-- trade
-arc_id: marlinist-refugee
-modern_impact: The Marlinist refugee crisis forces the Federation and Alliance to
-  confront humanitarian obligations while managing security risks.
+player_impact: Pilots followed these developments through GalNet reports.
+summary: "*Pilots Federation ALERT* The newly settled Marlinist Colonies have asked for urgent deliveries of foodstuffs."
+modern_impact: "\"The starport attacks were as sickening and terrifying to us as to the rest of the galaxy.\" The Marlinist refugee crisis and NMLA terrorism forced the galaxy to confront the consequences of Imperial political repression and republican ideology."
+related_uuids:
+- efe5135a-eeba-5808-80b4-0cf451868bf9
+- b552d00d-8b03-578d-a47d-aa396f38dedf
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- fc197df5-b778-5964-a004-448689eba981
+- f359d9c3-aa3c-5d56-bf91-97754c4357a9
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 legacy_weight: 4
 significance: high
 ---

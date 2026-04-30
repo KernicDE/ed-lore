@@ -4,27 +4,24 @@ title: Colonia Bridge Project Launches Phase Three
 slug: colonia_bridge_project_launches_phase_three
 date: '3308-01-06'
 source: API
+arc_id: null
 groups:
 - Brewer Corporation
-- Bridge
-- Colonia Bridge
 locations:
 - Colonia
 - Jaques Station
-- Jaques Station in the Colonia
-- Macdonald Settlement in the Alcor
+- Macdonald Settlement
 topics:
-- construction
 - corporate expansion
 - engineering
-- ship
 - war
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+summary: Brewer Corporation launches phase three of the Colonia Bridge project to construct new starports.
+player_impact: Pilots were asked to deliver ceramic composites, computer components, and thermal cooling units to Jaques Station and Macdonald Settlement.
+modern_impact: "\"Phase three aims to enhance the Colonia Bridge by building permanent starports in key locations along the route.\" Brewer Corporation's infrastructure expansion solidifies Colonia as a permanent settlement and opens new economic frontiers."
 legacy_weight: 3
 significance: medium
 ---
+
 
 *Pilots’ Federation ALERT*
 [[Brewer Corporation]] intends to improve [[The]] travel corridor between the [[Alcor and Colonia]] systems by constructing [[Several]] new starports.

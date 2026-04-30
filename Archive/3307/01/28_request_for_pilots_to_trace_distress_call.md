@@ -2,20 +2,30 @@
 uuid: 5ab60843-a176-5062-b38a-a80db12574c9
 title: Request for Pilots to Trace Distress Call
 slug: request_for_pilots_to_trace_distress_call
-date: '3307-01-28'
+date: 3307-01-28
 source: API
-entities:
+arc_id: null
+persons:
 - Elsa Solomon
-- Solomon gave more details
-groups:
-- Pilots Federation
+- Its
+- This
+- Vessel
+- Which
+groups: []
 locations:
-- Sol
+  - Sol
 topics:
-- construction
-- exploration
-- ship
-modern_impact: Ship review and release information for the pilot community.
+  - exploration
+player_impact: Pilots followed these developments through GalNet reports.
+summary: "*Pilots Federation ALERT* An Independent Vessel has detected a fragment of a mysterious message coming from an unexplored region of space."
+modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+related_uuids:
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- f359d9c3-aa3c-5d56-bf91-97754c4357a9
+- f289a62c-f4fe-5c65-8563-7f318ee935ba
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+- aa81f947-721e-52c8-a91e-906bf41c62b8
 legacy_weight: 2
 significance: low
 ---

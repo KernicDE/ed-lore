@@ -5,18 +5,13 @@ slug: aegis_confirms_seo_jin_ae_hiatus_from_advisory_role
 date: '3311-06-03'
 source: API
 groups:
-- ACT
 - Aegis
-- October
+- October Consortium
 - Salvation
-- Thargoid
 locations:
-- Aegis
 - Earth
 - HIP 22460
 - Sol
-- Thargoid
-- Titan
 topics:
 - alien contact
 - espionage

@@ -4,27 +4,29 @@ title: Alliance-Sirius Pact Enters Approval Stage
 slug: alliance_sirius_pact_enters_approval_stage
 date: '3308-06-08'
 source: API
+arc_id: null
+persons:
+- Edmund Mahon
+- Nakato Kaine
 groups:
-- ACT
 - Alliance
 - Salvation
 - Sirius Corp
-- Sirius Corporation
-- Thargoid
 locations:
 - Coalsack
 - Sirius
-- Thargoid
 - Witch Head
 - Witch Head Nebula
 topics:
 - alien contact
 - corporate expansion
-- ship
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Pilots observed the political debate over the Alliance-Sirius strategic defence pact as it moved toward an Assembly vote.
+summary: The Alliance-Sirius Corporation anti-xeno defence pact enters its final approval stage before an Assembly vote.
+modern_impact: "Prime Minister Mahon's gamble on the Sirius pact illustrates how wartime pressure can reshape interstellar alliances, even when critics like Councillor Kaine warn of corporate overreach."
+related_uuids:
+- 0cb46392-4967-5330-90e6-b26b90ef78fb
+- 2f1fe842-e7f1-5ba8-9b46-fe6146047472
 legacy_weight: 5
 significance: high
 ---

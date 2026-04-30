@@ -4,16 +4,26 @@ title: Red Family Kingpin Eludes the FIA
 slug: red_family_kingpin_eludes_the_fia
 date: '3308-07-11'
 source: API
+arc_id: null
+persons:
+- Oberon Church
+- Ethan Takahashi
 groups:
-- ACT
+- Federal Intelligence Agency
 - Federal Times
+- Red Family
+locations: []
 topics:
 - crime
 - espionage
 - narcotics
-arc_id: formidine-rift
-modern_impact: The Formidine Rift mystery captivates explorers and reveals hidden
-  history.
+player_impact: No direct pilot action requested; article reports on the FIA's ongoing manhunt for Oberon Church.
+summary: Red Family kingpin Oberon Church evades capture despite the FIA's successful raids against his narcotics syndicate.
+modern_impact: "Ethan Takahashi's observation that Church 'has lived up to his self-styled image as the man of smoke' illustrates how even the Proactive Detection Bureau's surveillance could not immediately dismantle well-entrenched criminal networks."
+related_uuids:
+- bbc309bf-14a0-5e8f-97eb-ee99cf16abe7
+- 2a2d4398-fbc8-577c-a521-33ce19f4a8db
+- f187baed-de66-5f1a-8713-699d8eac4cbd
 legacy_weight: 3
 significance: medium
 ---

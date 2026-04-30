@@ -2,16 +2,29 @@
 uuid: 8c30a23e-d29a-5753-ac4d-3b70d734dec3
 title: Alliance Election Delayed due to Galactic Summit
 slug: alliance_election_delayed_due_to_galactic_summit
-date: '3307-02-01'
+date: 3307-02-01
 source: API
+arc_id: null
+persons:
+- Edmund Mahon
+- This
+- With
 groups:
-- Alliance
+  - Alliance
+locations: []
 topics:
 - diplomacy
-- ship
 - succession
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: The Alliance Assembly has agreed to delay electing a new prime minister to avoid clashing With the forthcoming Galactic Summit.
+modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+related_uuids:
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- b5e2b232-ff58-51a8-9ddc-1424c9e9acc2
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- c0aab9ee-c770-5579-864d-bfe676a694a2
+- 282055d5-c3b9-5772-855e-9acd24d78c43
 legacy_weight: 3
 significance: medium
 ---

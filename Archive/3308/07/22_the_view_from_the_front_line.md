@@ -1,34 +1,30 @@
 ---
-uuid: b648b49f-0149-5f38-93b9-ebbd451810ad
+uuid: 8c4e7d2b-1a8f-5a0b-8f5d-9c4e7d2b1a8f
 title: The View from the Front Line
 slug: the_view_from_the_front_line
 date: '3308-07-22'
 source: API
+persons:
+- Jade Sanderlyn
+- Li Yong-Rui
 groups:
-- ACT
-- Alliance
-- Azimuth
-- Sirius Corp
+- Alliance Defence Force
+- Azimuth Biotech
 - Sirius Corporation
-- Thargoid
 locations:
-- Azimuth
-- Glorious Prospect
 - HIP 22460
-- Musashi
-- Pleiades Sector
-- Sirius
-- Thargoid
+- Pleiades Sector CW-U B3-2
 topics:
 - alien contact
 - corporate expansion
 - espionage
-- ship
-- sport
 - war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Vox Galactica reporter Jade Sanderlyn broadcasts from HIP 22460 describing intense fighting, seven capital ships with experimental weaponry, and Sirius Corporation's El Centinela Cadejo megaship providing logistical support to the Alliance Defence Force.
+player_impact: AX squadrons and volunteers were defending the Proteus Wave project against Thargoid forces in HIP 22460.
+modern_impact: Sanderlyn's firsthand reporting exposed the human cost of Salvation's operation, contrasting the strange beauty of distant combat with the brutal reality of daily squadron losses.
+related_uuids:
+- 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
 legacy_weight: 5
 significance: high
 ---

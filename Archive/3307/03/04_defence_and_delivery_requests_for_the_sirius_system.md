@@ -1,13 +1,21 @@
 ---
 uuid: fc197df5-b778-5964-a004-448689eba981
-title: 'Defence and Delivery Requests for the Sirius System '
+title: Defence and Delivery Requests for the Sirius System 
 slug: defence_and_delivery_requests_for_the_sirius_system
-date: '3307-03-04'
+date: 3307-03-04
 source: API
+arc_id: null
+persons:
+- Its
+- Li Yong-Rui
+- Our
+- Run
+- The Sirius
+- This
+- With
 groups:
 - Alliance
 - Core Dynamics
-- Pilots Federation
 - Sirius Corp
 - Sirius Corporation
 locations:
@@ -17,10 +25,17 @@ topics:
 - corporate expansion
 - crime
 - diplomacy
-- ship
-- trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Pilots followed these developments through GalNet reports.
+summary: "*Pilots Federation ALERT* The Empire is aiding Sirius Corporation by offering bounty hunting and trade opportunities to support the Galactic Summit."
+modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+related_uuids:
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 8ea60378-45bb-5e97-80fc-103b0cdd5b4e
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- 29fb3d22-b316-514e-95ed-4f188b9ed8f7
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- aa81f947-721e-52c8-a91e-906bf41c62b8
 legacy_weight: 2
 significance: low
 ---

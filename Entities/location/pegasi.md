@@ -4,13 +4,13 @@ name: Pegasi
 type: location
 first_seen_date: '3308-04-26'
 last_seen_date: '3310-10-25'
-mention_count: 9
+mention_count: 8
 related_entities:
-- act
 - kumo-crew
-- trask
 - alliance
-- october
+- hip-10792
+- turner-research-group
+- california-nebula
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-04-26**  
 Last mentioned: **3310-10-25**  
-Total mentions: **9**
+Total mentions: **8**
 
 ## Related
 
-- [[ACT]] (8 co-mentions)
-- [[Kumo Crew]] (8 co-mentions)
-- [[Trask]] (6 co-mentions)
+- [[Kumo Crew]] (7 co-mentions)
 - [[Alliance]] (4 co-mentions)
-- [[October]] (2 co-mentions)
+- [[HIP 10792]] (2 co-mentions)
+- [[Turner Research Group]] (2 co-mentions)
+- [[California Nebula]] (2 co-mentions)
 
 ## Biography
 

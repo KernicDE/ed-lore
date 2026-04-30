@@ -2,15 +2,15 @@
 id: jaques-station
 name: Jaques Station
 first_seen_date: '3302-05-05'
-last_seen_date: '3308-03-10'
-mention_count: 77
+last_seen_date: '3307-11-26'
+mention_count: 69
 significance: medium
 key_entities:
 - colonia-council
-- brewer-corporation
 - pilots-federation
-- bridge
-- colonia-bridge
+- brewer-corporation
+- fuel-rats
+- alexei-de-la-vega
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ key_entities:
 # Jaques Station
 
 First seen: **3302-05-05**  
-Last seen: **3308-03-10**  
-Articles: **77**
+Last seen: **3307-11-26**  
+Articles: **69**
 
 ## Key Figures
 
 - [[Colonia Council]] (21 mentions)
-- [[Brewer Corporation]] (15 mentions)
 - [[Pilots Federation]] (11 mentions)
-- [[Bridge]] (8 mentions)
-- [[Colonia Bridge]] (8 mentions)
+- [[Brewer Corporation]] (7 mentions)
+- [[Fuel Rats]] (4 mentions)
+- [[Alexei de la Vega]] (4 mentions)
 
 ## Description
 

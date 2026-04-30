@@ -1,24 +1,30 @@
 ---
 uuid: 83d655f9-5cb4-5fb1-baa5-f5c64bb30cbf
-title: 'Hudson Refutes ‘Dictatorship’ Concerns '
+title: Hudson Refutes ‘Dictatorship’ Concerns 
 slug: hudson_refutes_dictatorship_concerns
 date: '3308-03-04'
 source: API
-entities:
-- Hudson also called
+arc_id: federal-politics
+persons:
 - Zachary Hudson
-groups:
-- Shadow President
+entities: []
+groups: []
 locations:
 - Mars
 - White House
-topics:
-- ship
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+topics: []
+summary: President Hudson defends his term-limit proposal against accusations of authoritarianism.
+player_impact: Not specifically mentioned — this is a political report.
+modern_impact: "\"President Hudson has made a public broadcast regarding his proposal to remove the single-term limit of the Federal presidency.\" Hudson's rhetorical defense fails to address the fundamental constitutional precedent his proposal would shatter."
+related_uuids:
+- 2802af31-31af-56d3-820a-8de1dabfd0b8
+- 49fe8f11-bf29-5aad-a01a-3c8dc80d60df
+- 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
+- a593babc-119b-5679-9171-3c1520208d98
 legacy_weight: 3
 significance: medium
 ---
+
 
 [[President Zachary Hudson]] has made a public broadcast regarding his proposal to remove [[The]] single-term limit of the Federal presidency.
 Speaking from the [[White House]] on [[Mars]], he directly addressed the anxiety that citizens have expressed about the Hudson Contravention:

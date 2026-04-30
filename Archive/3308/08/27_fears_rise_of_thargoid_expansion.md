@@ -1,29 +1,27 @@
 ---
-uuid: ac92b027-9c2d-582d-af18-eac48e474be8
+uuid: 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
 title: Fears Rise of Thargoid Expansion
 slug: fears_rise_of_thargoid_expansion
 date: '3308-08-27'
 source: API
-entities:
-- Alba Tesreau published
+persons:
+- Alba Tesreau
+- Maxton Price
 groups:
 - Federal Navy
-- Thargoid
 locations:
 - HIP 22460
-- Pleiades Nebula
-- Synuefe
-- Synuefe SA-C b33-2 and several other
-- Thargoid
-- Thargoid-controlled
+- HR 1490
+- Synuefe SA-C b33-2
+- V0402 Aurigae
 topics:
 - alien contact
-- research
-- ship
+- exploration
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+summary: Thargoid hyperdiction incidents increase at greater distances from HIP 22460, with Admiral Maxton Price confirming the aliens are using the system as a base to expand into surrounding sectors while Professor Tesreau suggests they may be reclaiming territory.
+player_impact: Civilian traffic was advised to exercise extreme caution while travelling within the Pleiades region due to increased Thargoid attacks.
+modern_impact: The expansion of Thargoid activity beyond the Pleiades confirmed that HIP 22460 had transformed from a battlefield into a beachhead, fundamentally altering the strategic geography of the Second Thargoid War.
 legacy_weight: 5
 significance: high
 ---

@@ -4,18 +4,23 @@ title: Marlinists Reject Emperor’s Offer
 slug: marlinists_reject_emperors_offer
 date: '3308-04-08'
 source: API
-entities:
+arc_id: null
+persons:
 - Arissa Lavigny-Duval
+- Octavia Volkov
 groups:
-- ACT
 - Marlinist
+locations: []
 topics:
 - humanitarian
 - succession
 - terrorism
-arc_id: marlinist-refugee
-modern_impact: The Marlinist refugee crisis forces the Federation and Alliance to
-  confront humanitarian obligations while managing security risks.
+player_impact: Not specifically mentioned — this is a political report.
+summary: The Marlinist Colonies vote to remain independent from the Empire rather than accept protectorate status.
+modern_impact: "\"Our people have given us a clear mandate: the colonies stand alone.\" The rejection of Imperial protectorate status cemented the Marlinist Colonies as an independent republican democracy, marking a pivotal moment in post-NMLA galactic political restructuring."
+related_uuids:
+- c8ab379b-af61-5fb9-8a8e-ca754524ddb7
+- 449ee55c-8f28-5145-acc4-604f8d8b9b68
 legacy_weight: 4
 significance: high
 ---

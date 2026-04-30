@@ -4,13 +4,13 @@ name: Trask
 type: location
 first_seen_date: '3308-02-16'
 last_seen_date: '3309-04-25'
-mention_count: 11
+mention_count: 4
 related_entities:
-- act
-- kumo-crew
-- pegasi
+- imperial-guard
+- nmla
+- capitol
+- imperial-palace
 - alliance
-- onionhead
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-02-16**  
 Last mentioned: **3309-04-25**  
-Total mentions: **11**
+Total mentions: **4**
 
 ## Related
 
-- [[ACT]] (10 co-mentions)
-- [[Kumo Crew]] (7 co-mentions)
-- [[Pegasi]] (6 co-mentions)
-- [[Alliance]] (2 co-mentions)
-- [[Onionhead]] (2 co-mentions)
+- [[Imperial Guard]] (1 co-mentions)
+- [[NMLA]] (1 co-mentions)
+- [[Capitol]] (1 co-mentions)
+- [[Imperial Palace]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
 
 ## Biography
 

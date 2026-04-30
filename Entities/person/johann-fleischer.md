@@ -2,30 +2,21 @@
 id: johann-fleischer
 name: Johann Fleischer
 type: person
-first_seen_date: '3309-04-25'
+first_seen_date: '3309-03-31'
 last_seen_date: '3309-04-25'
-mention_count: 1
-related_entities:
-- viola-trask
-- act
-- alpha-caeli
-- trask
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Johann Fleischer
 
-First mentioned: **3309-04-25**  
+First mentioned: **3309-03-31**  
 Last mentioned: **3309-04-25**  
-Total mentions: **1**
+Total mentions: **4**
 
 ## Related
 
-- [[Viola Trask]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
-- [[Alpha Caeli]] (1 co-mentions)
-- [[Trask]] (1 co-mentions)
 
 ## Biography
 

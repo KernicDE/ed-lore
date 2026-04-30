@@ -7,7 +7,6 @@ last_seen_date: '3307-02-18'
 mention_count: 1
 related_entities:
 - alliance
-- pilots-federation
 - sirius-corporation
 - aerial
 - star
@@ -24,7 +23,6 @@ Total mentions: **1**
 ## Related
 
 - [[Alliance]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 - [[Sirius Corporation]] (1 co-mentions)
 - [[Aerial]] (1 co-mentions)
 - [[Star]] (1 co-mentions)

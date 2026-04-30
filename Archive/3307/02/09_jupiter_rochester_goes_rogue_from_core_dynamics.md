@@ -2,20 +2,34 @@
 uuid: 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 title: Jupiter Rochester Goes Rogue from Core Dynamics
 slug: jupiter_rochester_goes_rogue_from_core_dynamics
-date: '3307-02-09'
+date: 3307-02-09
 source: API
-entities:
+arc_id: federal-politics
+persons:
+- Every
 - Isolde Rochester
+- Jupiter
+- Jupiter Rochester
+- Rochester
+- This
+- With
 groups:
-- Core Dynamics
+  - Core Dynamics
 locations:
 - In the permit-locked HIP 54530
 - Jupiter
 topics:
-- corporate expansion
-- ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
+  - corporate expansion
+player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
+summary: Several departments loyal to The Core Dynamics CEO have seceded to form an Independent corporate republic called Jupiter Division.
+modern_impact: "\"For many years, I helped Core Dynamics become one of the galaxy's strongest companies.\" Rochester's attempted corporate coup highlighted the dangers of unchecked corporate power within the Federation and led to significant reforms."
+related_uuids:
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- e25e2c83-7be4-5236-9a1a-93321f277b40
+- a09f593c-1af4-5727-863d-002a1ebb2aca
 legacy_weight: 2
 significance: low
 ---

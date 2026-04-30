@@ -4,16 +4,23 @@ title: An Interview with Zachary Rackham
 slug: an_interview_with_zachary_rackham
 date: '3308-05-04'
 source: API
-groups:
-- ACT
+arc_id: federal-politics
+persons:
+- Zachary Rackham
+- Bryanna Blanco
+groups: []
 locations:
 - Sol
 topics:
-- construction
 - corporate expansion
 - piracy
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+player_impact: Not specifically mentioned — this is a media interview.
+summary: Zachary Rackham discusses his business empire, role in Beta Hydri, and hints at a presidential run in an interview with Sol Today.
+modern_impact: "\"I'm deeply flattered by calls to stand as an Independent candidate. But really, an ordinary guy like me as president?\" Rackham's carefully cultivated 'everyman' persona masked a calculated political ascent, using media interviews to normalise the idea of a corporate trillionaire with a piratical past seeking the Federation's highest office."
+related_uuids:
+- 7751461f-fff8-5e46-b710-f494c50ab069
+- efe02149-f490-5339-979d-49b157ba2caf
+- 627f595b-b85f-5e9d-9d4c-9499a93c4487
 legacy_weight: 3
 significance: medium
 ---

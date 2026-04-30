@@ -7,8 +7,10 @@ last_seen_date: '3308-05-19'
 mention_count: 1
 related_entities:
 - federal-times
-- edmondson-high-in-the-beta-hydri
+- beta-hydri
 - sol
+- edmondson-high
+- los-pioneros
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,8 +24,10 @@ Total mentions: **1**
 ## Related
 
 - [[Federal Times]] (1 co-mentions)
-- [[Edmondson High in the Beta Hydri]] (1 co-mentions)
+- [[Beta Hydri]] (1 co-mentions)
 - [[Sol]] (1 co-mentions)
+- [[Edmondson High]] (1 co-mentions)
+- [[Los Pioneros]] (1 co-mentions)
 
 ## Biography
 

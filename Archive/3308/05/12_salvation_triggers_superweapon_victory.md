@@ -4,22 +4,32 @@ title: Salvation Triggers Superweapon Victory
 slug: salvation_triggers_superweapon_victory
 date: '3308-05-12'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Jade Sanderlyn
+- Morag Halloran
 groups:
-- ACT
 - Salvation
-- Thargoid
 locations:
-- Guardian
-- Novas and Sosong
-- Sturckow Orbital in the Lesheima
-- Thargoid
+- Didio
+- Novas
+- Sosong
+- Ch'anjie
+- Plymouth Howl
+- Lesheima
+- Sturckow Orbital
+- Zlota
 topics:
 - alien contact
 - war
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Independent pilots defended the Didio, Novas, and Sosong systems and can redeem combat bonds at designated locations.
+summary: Salvation's anti-xeno superweapons completely repel Thargoid forces from Didio, Novas, and Sosong.
+modern_impact: "\"It seems that the Thargoids have no defence against the Guardian-derived superweapon, which generates an electromagnetic pulse to disrupt their biomechanical technology.\" The simultaneous deployment of three superweapons validated Salvation's claims of military superiority over both Aegis and conventional superpower navies, cementing Azimuth's position as humanity's primary anti-xeno defence."
+related_uuids:
+- 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
+- e05cf902-3b9a-5936-af7b-8d010eb0685c
+- 4327a70e-44c4-5919-924d-7a097f1226db
 legacy_weight: 5
 significance: high
 ---

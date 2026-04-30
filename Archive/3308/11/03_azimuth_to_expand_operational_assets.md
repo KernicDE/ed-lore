@@ -4,34 +4,38 @@ title: Azimuth to Expand Operational Assets
 slug: azimuth_to_expand_operational_assets
 date: '3308-11-03'
 source: API
-entities:
-- Torben Rademaker announced
+arc_id: salvation-azimuth
+persons:
+- Torben Rademaker
 groups:
-- ACT
 - Azimuth
 - Salvation
-- Thargoid
 locations:
-- Azimuth
 - Bright Sentinel
 - Glorious Prospect
-- Guardian
 - HIP 22460
 - Heart of Taurus
 - Musashi
-- Thargoid
-- Thargoid-tainted
 topics:
 - alien contact
 - corporate expansion
 - festival
 - research
-- ship
 - war
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Independent pilots were asked to both deliver commodities and engage
+  hostile forces.
+summary: Azimuth Biotech has announced a campaign in the Wandrama system to expand
+  its military and surface facility capacity.
+modern_impact: '"After a period of reflection, it is time for Azimuth to once again
+  step forward and assume a position of support for ..." Azimuth''s legacy of ethically
+  compromised research remains a cautionary tale in xenological studies.'
+related_uuids:
+- 0c37c634-123c-5ee7-9616-d3f4b4263c90
+- 005ebf22-d1c0-50cd-ae57-373efc6bdcde
+- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+- eb62c669-b525-5753-b3cb-faf6452a8088
+- 4e1477c4-93b5-5496-a2b9-86e95c248866
 legacy_weight: 5
 significance: high
 ---

@@ -14,7 +14,6 @@ topics:
 - corporate expansion
 - independence
 - investigation
-- trade
 - politics
 arc_id: null
 modern_impact: "Kaine's framing — 'The purpose of this campaign was to demonstrate the core principles of the Alliance: independence, self-sufficiency and mutual support' — positions the failure as a learning moment. Yong-Rui's counter — 'Kaine's rogue operation in Tionisla only demonstrates how partisan some of us have become' — frames her as a partisan obstacle. The cancellation of ship discounts is a tangible consequence of the failure."

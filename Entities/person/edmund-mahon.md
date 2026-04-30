@@ -4,13 +4,13 @@ name: Edmund Mahon
 type: person
 first_seen_date: '3301-03-11'
 last_seen_date: '3308-09-07'
-mention_count: 38
+mention_count: 29
 related_entities:
 - alliance
-- alioth
-- sirius-corporation
 - zachary-hudson
-- act
+- alioth
+- gibson-kincaid
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-03-11**  
 Last mentioned: **3308-09-07**  
-Total mentions: **38**
+Total mentions: **29**
 
 ## Related
 
-- [[Alliance]] (36 co-mentions)
-- [[Alioth]] (8 co-mentions)
-- [[Sirius Corporation]] (8 co-mentions)
-- [[Zachary Hudson]] (7 co-mentions)
-- [[ACT]] (7 co-mentions)
+- [[Alliance]] (28 co-mentions)
+- [[Zachary Hudson]] (6 co-mentions)
+- [[Alioth]] (5 co-mentions)
+- [[Gibson Kincaid]] (4 co-mentions)
+- [[Aegis]] (4 co-mentions)
 
 ## Biography
 

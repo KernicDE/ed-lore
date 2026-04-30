@@ -2,32 +2,32 @@
 id: wallglass-investigations-agency
 name: Wallglass Investigations Agency
 type: faction
-first_seen_date: '3309-08-28'
-last_seen_date: '3309-09-22'
+first_seen_date: '3309-03-09'
+last_seen_date: '3309-09-18'
 mention_count: 4
 related_entities:
-- federal-times
 - wallglass
-- act
-- sol
-- zeta-trianguli-australis
+- kumo-crew
+- sirius-corporation
+- california-nebula
+- federal-times
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Wallglass Investigations Agency
 
-First mentioned: **3309-08-28**  
-Last mentioned: **3309-09-22**  
+First mentioned: **3309-03-09**  
+Last mentioned: **3309-09-18**  
 Total mentions: **4**
 
 ## Related
 
-- [[Federal Times]] (4 co-mentions)
-- [[Wallglass]] (4 co-mentions)
-- [[ACT]] (2 co-mentions)
-- [[Sol]] (1 co-mentions)
-- [[Zeta Trianguli Australis]] (1 co-mentions)
+- [[Wallglass]] (3 co-mentions)
+- [[Kumo Crew]] (1 co-mentions)
+- [[Sirius Corporation]] (1 co-mentions)
+- [[California Nebula]] (1 co-mentions)
+- [[Federal Times]] (1 co-mentions)
 
 ## Biography
 

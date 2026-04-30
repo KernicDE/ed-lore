@@ -23,6 +23,8 @@ technologies:
 - Thargoid Titan wreckage
 player_impact: "Not specifically mentioned — this is a scientific forum report."
 summary: "Aegis scientists at the Xenological Science Symposium on Procyon discuss how Thargoid Titan wreckage could accelerate multiple scientific fields, with Professor Shamus Madigan highlighting thermodynamic efficiency breakthroughs."
+related_uuids:
+- 52a6914e-4835-530a-a009-016a4e55435d
 legacy_weight: 5
 significance: high
 ---

@@ -2,32 +2,32 @@
 id: hudson-fails
 name: Hudson fails
 type: person
-first_seen_date: '3308-01-21'
+first_seen_date: '3308-08-22'
 last_seen_date: '3308-08-22'
-mention_count: 2
+mention_count: 1
 related_entities:
+- felicia-winters-provided
 - zachary-hudson
 - act
-- shadow-president
-- thargoid
-- aegis
+- federal-navy
+- federal-times
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Hudson fails
 
-First mentioned: **3308-01-21**  
+First mentioned: **3308-08-22**  
 Last mentioned: **3308-08-22**  
-Total mentions: **2**
+Total mentions: **1**
 
 ## Related
 
-- [[Zachary Hudson]] (2 co-mentions)
-- [[ACT]] (2 co-mentions)
-- [[Shadow President]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
-- [[Aegis]] (1 co-mentions)
+- [[Felicia Winters provided]] (1 co-mentions)
+- [[Zachary Hudson]] (1 co-mentions)
+- [[ACT]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Federal Times]] (1 co-mentions)
 
 ## Biography
 

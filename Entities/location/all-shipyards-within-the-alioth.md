@@ -8,7 +8,6 @@ mention_count: 1
 related_entities:
 - alliance
 - core-dynamics
-- pilots-federation
 - alioth
 - jupiter
 ---
@@ -25,7 +24,6 @@ Total mentions: **1**
 
 - [[Alliance]] (1 co-mentions)
 - [[Core Dynamics]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 - [[Alioth]] (1 co-mentions)
 - [[Jupiter]] (1 co-mentions)
 

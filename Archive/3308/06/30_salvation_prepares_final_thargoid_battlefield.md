@@ -1,41 +1,35 @@
 ---
 uuid: 0f01426c-a180-522b-9e1c-2226d9be75e7
-title: Salvation Prepares ‘Final Thargoid Battlefield’
+title: Salvation Prepares 'Final Thargoid Battlefield'
 slug: salvation_prepares_final_thargoid_battlefield
 date: '3308-06-30'
 source: API
+persons:
+- Morag Halloran
+- Salvation
 groups:
-- ACT
-- Alliance
-- Azimuth
+- Alliance Defence Force
+- Azimuth Biotech
 - Federal Navy
 - Imperial Navy
-- Salvation
-- Thargoid
 locations:
-- Azimuth
 - Bright Sentinel
-- 'Federation ALERT*
-
-  The HIP 22460'
 - Glorious Prospect
-- Guardian
-- HIP 22460
 - Heart of Taurus
+- HIP 22460
 - Musashi
-- Pleiades Sector
 - Pleiades Sector CW-U B3-2
-- Thargoid
 topics:
 - alien contact
-- construction
 - corporate expansion
-- ship
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Salvation announces the Proteus Wave construction in HIP 22460, declaring it will be the final battlefield to eradicate Thargoids from the galaxy, with superpower navies and Azimuth megaships mobilising for the operation.
+player_impact: Pilots were called to support the Proteus Wave construction by delivering resources to the Heart of Taurus in HIP 22460.
+modern_impact: Salvation's declaration that HIP 22460 would be the 'final battlefield' represented the apotheosis of his messianic rhetoric, framing an experimental superweapon as humanity's only hope while superpower navies committed their full forces to his corporate operation.
+related_uuids:
+- 6d163a8d-7539-5b90-955d-f084b5d63e52
 legacy_weight: 5
 significance: high
 ---

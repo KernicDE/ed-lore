@@ -1,27 +1,30 @@
 ---
-uuid: 41c28d5a-04ff-5c6b-ad15-8942c10d1cef
+uuid: 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
 title: Superweapon Construction Completed
 slug: superweapon_construction_completed
 date: '3308-07-29'
 source: API
-groups:
-- ACT
-- Azimuth
+persons:
+- Morag Halloran
 - Salvation
-- Thargoid
+groups:
+- Alliance
+- Azimuth Biotech
+- Empire
+- Federation
 locations:
-- Azimuth
 - HIP 22460
-- Musashi
-- Pleiades Sector
-- Thargoid
+- Pleiades Sector CW-U B3-2
 topics:
 - alien contact
 - research
-- ship
+- war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Salvation announces the Proteus Wave core mechanism is fully assembled in HIP 22460, with calibration tests beginning within a Thargoid structure to amplify the weapon's disruptive frequencies.
+player_impact: Volunteers were urgently needed to defend the Proteus Wave from Thargoid forces in HIP 22460. Thargoid combat bonds could be redeemed at the Musashi megaship in Pleiades Sector CW-U B3-2.
+modern_impact: The completion announcement marked the final countdown to the Proteus Wave activation, with Salvation explicitly framing the weapon as the culmination of decades of xenological research and cross-species interface theory.
+related_uuids:
+- 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
 legacy_weight: 5
 significance: high
 ---

@@ -4,28 +4,37 @@ title: Taurus Mining Ventures Calls for Support
 slug: taurus_mining_ventures_calls_for_support
 date: '3308-03-31'
 source: API
-entities:
+arc_id: salvation-azimuth
+persons:
 - Ruben Carpenter
+entities: []
 groups:
 - Salvation
-- Thargoid
 locations:
-- Heart of Taurus
-- It now seeks shipments of the
 - Synuefe
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - exploration
 - research
-- ship
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Taurus Mining Ventures requests pilot assistance for mining operations linked to Salvation's research.
+player_impact: Pilots were requested to assist with mining and delivery operations for Taurus Mining Ventures in Synuefe.
+modern_impact: "\"Taurus Mining Ventures has requested help with a mining and delivery operation in the Synuefe CE-R c21-6 system.\" The call for pilot support confirms Salvation's network continues recruiting independent contractors for its Guardian research program."
+related_uuids:
+- abc2fd5a-4eb4-5e36-ba45-d821adf6847e
+- f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
+- f9b7776c-60b4-5566-b2ab-bd4835dac0fc
+- 967aa94a-f950-5777-8fca-15696a250f64
+- 7f67c12a-9831-57d7-bb70-4905b0d58356
+- 549878b8-2793-57d2-a635-57263e082205
+- ec3ee958-bfe7-5236-941e-08b7ac6f4784
+- 634f0a2d-c94e-5c0e-9501-a506ebbde34b
+- 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
+- 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 legacy_weight: 5
 significance: high
 ---
+
 
 *Pilots’ Federation ALERT*
 Taurus Mining Ventures has requested help [[With]] a mining and delivery operation in [[The]] [[Synuefe]] CE-R c21-6 system.

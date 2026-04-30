@@ -9,8 +9,8 @@ related_entities:
 - sol
 - aegis
 - federal-times
-- act
 - leesti
+- golconda
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **13**
 - [[Sol]] (7 co-mentions)
 - [[Aegis]] (4 co-mentions)
 - [[Federal Times]] (3 co-mentions)
-- [[ACT]] (3 co-mentions)
 - [[Leesti]] (2 co-mentions)
+- [[Golconda]] (2 co-mentions)
 
 ## Biography
 

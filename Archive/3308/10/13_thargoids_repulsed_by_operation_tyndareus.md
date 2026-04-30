@@ -4,25 +4,34 @@ title: Thargoids Repulsed by Operation Tyndareus
 slug: thargoids_repulsed_by_operation_tyndareus
 date: '3308-10-13'
 source: API
+arc_id: thargoid-titan-war
+persons:
+- Edmund Mahon
+- Nakato Kaine
+- Nikolas Glass
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
 - Sirius
-- Thargoid
-- The aliens withdrew from the
 topics:
 - alien contact
 - corporate expansion
 - engineering
-- ship
 - war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+player_impact: Independent pilots were called upon to destroy Thargoid vessels and
+  claim combat bonds.
+summary: Allied forces have successfully defended the Andecavi system from Thargoid
+  vessels.
+modern_impact: '"Operation Tyndareus is officially a triumph! Alliance Defence Force
+  and Sirius Navy crews have fought side by side to..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- 56d06164-e5b6-59b9-ae17-1ddf24d0faf6
+- 9d88d95b-e2d8-5107-bb42-666da4ea00bf
+- 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
+- 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
+- 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 legacy_weight: 5
 significance: high
 ---

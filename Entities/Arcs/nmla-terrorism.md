@@ -1,33 +1,33 @@
 ---
 id: nmla-terrorism
 name: Nmla Terrorism
-first_seen_date: '3307-01-19'
-last_seen_date: '3309-08-25'
-mention_count: 91
+first_seen_date: '3307-03-11'
+last_seen_date: '3308-07-06'
+mention_count: 87
 significance: medium
 key_entities:
 - nmla
 - marlinist
 - alliance
-- act
-- pilots-federation
+- nova-imperium
+- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Nmla Terrorism
 
-First seen: **3307-01-19**  
-Last seen: **3309-08-25**  
-Articles: **91**
+First seen: **3307-03-11**  
+Last seen: **3308-07-06**  
+Articles: **87**
 
 ## Key Figures
 
-- [[NMLA]] (89 mentions)
-- [[Marlinist]] (55 mentions)
-- [[Alliance]] (29 mentions)
-- [[ACT]] (18 mentions)
-- [[Pilots Federation]] (17 mentions)
+- [[NMLA]] (86 mentions)
+- [[Marlinist]] (54 mentions)
+- [[Alliance]] (28 mentions)
+- [[Nova Imperium]] (15 mentions)
+- [[Imperial Herald]] (13 mentions)
 
 ## Description
 

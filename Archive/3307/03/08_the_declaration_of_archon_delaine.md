@@ -2,22 +2,37 @@
 uuid: cade76e4-0a9d-5ef5-bce5-c552c1703f49
 title: The Declaration of Archon Delaine
 slug: the_declaration_of_archon_delaine
-date: '3307-03-08'
+date: 3307-03-08
 source: API
+arc_id: null
+persons:
+- Aisling Duval
+- Every
+- Shadow President
+- The Sirius
+- This
+- With
 groups:
 - Kumo Crew
 - Sirius Corp
 - Sirius Corporation
 locations:
-- Sirius
+  - Sirius
 topics:
-- construction
 - corporate expansion
 - crime
 - diplomacy
 - piracy
-- ship
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Pilots followed these developments through GalNet reports.
+summary: At The Galactic Summit, the infamous pirate leader Archon Delaine has demanded to be accepted As the legitimate leader of a political power.
+modern_impact: "\"Most of you see me as a common criminal, rather than the rightful ruler of multiple systems.\" Delaine's appearance at the Galactic Summit challenged conventional diplomatic norms and raised questions about recognizing non-state actors in interstellar politics."
+related_uuids:
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- 29fb3d22-b316-514e-95ed-4f188b9ed8f7
+- fc197df5-b778-5964-a004-448689eba981
 legacy_weight: 2
 significance: low
 ---

@@ -9,8 +9,8 @@ related_entities:
 - nova-imperium
 - imperial-herald
 - nmla
-- alliance
 - imperial-navy
+- achenar
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **29**
 
 ## Related
 
-- [[Nova Imperium]] (25 co-mentions)
+- [[Nova Imperium]] (23 co-mentions)
 - [[Imperial Herald]] (12 co-mentions)
 - [[NMLA]] (12 co-mentions)
-- [[Alliance]] (7 co-mentions)
 - [[Imperial Navy]] (6 co-mentions)
+- [[Achenar]] (6 co-mentions)
 
 ## Biography
 

@@ -3,8 +3,8 @@ id: zacariah-nemo
 name: Zacariah Nemo
 type: location
 first_seen_date: '3308-12-06'
-last_seen_date: '3309-01-26'
-mention_count: 4
+last_seen_date: '3308-12-29'
+mention_count: 3
 related_entities:
 - engineers
 - thargoid
@@ -18,15 +18,15 @@ related_entities:
 # Zacariah Nemo
 
 First mentioned: **3308-12-06**  
-Last mentioned: **3309-01-26**  
-Total mentions: **4**
+Last mentioned: **3308-12-29**  
+Total mentions: **3**
 
 ## Related
 
-- [[Engineers]] (4 co-mentions)
-- [[Thargoid]] (4 co-mentions)
-- [[Liz Ryder]] (4 co-mentions)
-- [[ACT]] (3 co-mentions)
+- [[Engineers]] (3 co-mentions)
+- [[Thargoid]] (3 co-mentions)
+- [[Liz Ryder]] (3 co-mentions)
+- [[ACT]] (2 co-mentions)
 - [[Aegis]] (2 co-mentions)
 
 ## Biography

@@ -4,32 +4,25 @@ title: Reorte System Remains Allied
 slug: reorte_system_remains_allied
 date: '3308-03-31'
 source: API
+arc_id: null
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
 - Reorte
-- Reorte Mining Coalition means the
-- Reorte will remain an Allied
 - Sirius
-- Thargoid
 topics:
 - alien contact
-- construction
 - corporate expansion
 - engineering
-- medicine
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: The Reorte Pro-Alliance League's victory ensures Reorte remains within the Alliance.
+player_impact: Pilots who supported the Reorte Pro-Alliance League secured the system's continued Alliance membership.
+modern_impact: "\"The Reorte Pro-Alliance League's success over the Reorte Mining Coalition means the system will stay in the Alliance.\" Reorte's decision to remain Allied validates the Alliance's intervention but leaves the Sirius pact controversy unresolved."
 legacy_weight: 5
 significance: high
 ---
+
 
 *Pilots’ Federation ALERT*
 [[The Reorte]] Pro-[[Alliance]] League’s success over [[The]] [[Reorte Mining Coalition means the]] system will stay in the Alliance.

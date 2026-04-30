@@ -2,13 +2,26 @@
 uuid: e47fe3bc-bc50-5a54-8c32-16cf25bacd31
 title: Anonymous Source Refers to Distress Call Location
 slug: anonymous_source_refers_to_distress_call_location
-date: '3307-01-28'
+date: 3307-01-28
 source: API
-groups:
-- Pilots Federation
+arc_id: null
+persons:
+- Its
+- This
+groups: []
+locations: []
 topics:
-- cyberattack
-modern_impact: GalNet community report documenting current events in the galaxy.
+  - cyberattack
+player_impact: Pilots followed these developments through GalNet reports.
+summary: "*Pilots Federation ALERT* An encrypted message seems to provide planetary coordinates related to The mysterious signal from ‘Serene Harbour’."
+modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+related_uuids:
+- 5ab60843-a176-5062-b38a-a80db12574c9
+- fc197df5-b778-5964-a004-448689eba981
+- f359d9c3-aa3c-5d56-bf91-97754c4357a9
+- f289a62c-f4fe-5c65-8563-7f318ee935ba
+- f1fd8447-7d57-5af5-9889-be0bfb2788bb
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
 legacy_weight: 2
 significance: low
 ---

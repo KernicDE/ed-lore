@@ -1,36 +1,31 @@
 ---
-uuid: c896dd55-b9b3-5552-9038-07a79049f0bb
+uuid: 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
 title: The Silent Aftermath
 slug: the_silent_aftermath
 date: '3308-08-11'
 source: API
+persons:
+- Alba Tesreau
+- Ernesto Rios
 groups:
-- ACT
-- Alliance
-- Azimuth
-- Salvation
-- Sirius Corp
+- Alliance Defence Force
+- Azimuth Biotech
+- Federal Navy
+- Imperial Navy
 - Sirius Corporation
-- Thargoid
 locations:
-- Azimuth
-- Glorious Prospect
 - HIP 22460
-- Musashi
-- Pleiades Sector
 - Pleiades Sector CW-U B3-2
-- Sirius
-- Thargoid
-- The Thargoid victory in the HIP 22460
 topics:
 - alien contact
-- corporate expansion
-- medicine
-- ship
+- humanitarian
 - war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Two days after the HIP 22460 massacre, authorities maintain silence while Azimuth's surviving megaships accept survivors and medical personnel refuse press access to witnesses.
+player_impact: Survivors from HIP 22460 reached the Glorious Prospect, Musashi, and El Centinela Cadejo megaships in Pleiades Sector CW-U B3-2.
+modern_impact: The authorities' deliberate information blackout after HIP 22460 allowed Azimuth and the superpowers to control the narrative, delaying public reckoning with the scale of the disaster and Salvation's responsibility.
+related_uuids:
+- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
 legacy_weight: 5
 significance: high
 ---

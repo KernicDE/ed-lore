@@ -2,32 +2,32 @@
 id: maelstrom
 name: Maelstrom
 type: location
-first_seen_date: '3308-11-30'
+first_seen_date: '3309-01-20'
 last_seen_date: '3310-04-24'
-mention_count: 50
+mention_count: 34
 related_entities:
-- thargoid
-- act
 - aegis
+- azimuth-biotech
 - alliance
-- azimuth
+- federal-navy
+- universal-cartographics
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Maelstrom
 
-First mentioned: **3308-11-30**  
+First mentioned: **3309-01-20**  
 Last mentioned: **3310-04-24**  
-Total mentions: **50**
+Total mentions: **34**
 
 ## Related
 
-- [[Thargoid]] (45 co-mentions)
-- [[ACT]] (41 co-mentions)
-- [[Aegis]] (37 co-mentions)
-- [[Alliance]] (10 co-mentions)
-- [[Azimuth]] (8 co-mentions)
+- [[Aegis]] (29 co-mentions)
+- [[Azimuth Biotech]] (4 co-mentions)
+- [[Alliance]] (3 co-mentions)
+- [[Federal Navy]] (3 co-mentions)
+- [[Universal Cartographics]] (3 co-mentions)
 
 ## Biography
 

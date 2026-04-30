@@ -4,35 +4,31 @@ title: Azimuth A Historical Perspective (Part Three)
 slug: azimuth_a_historical_perspective_part_three
 date: '3308-06-28'
 source: API
-groups:
-- ACT
-- Aegis
-- Azimuth
-- Azimuth Biochemicals
+persons:
 - Salvation
-- Thargoid
-locations:
+groups:
 - Aegis
-- Azimuth
+- Azimuth Biochemicals
+- Taurus Mining Ventures
+locations:
 - Cornsar
-- Guardian
-- Hesperus
 - T Tauri
-- Thargoid
-- Thargoid presence from an entire star
-- Thargoid vessels did swarm into the
+- Trapezium Sector YU-X c1-2
 topics:
 - alien contact
 - bioweapon
 - corporate expansion
 - investigation
 - research
-- ship
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Part three covers Salvation's emergence in April 3307, his recruitment of pilots through Taurus Mining Ventures, the Cornsar incident where his prototype superweapon repelled a Thargoid fleet, and his rise as a rival to Aegis.
+player_impact: Pilots were recruited by Salvation to investigate Azimuth's work and transport equipment to Cornsar for his prototype superweapon. Some pilots supported Aegis through a counter-initiative.
+modern_impact: The Cornsar incident revealed Salvation's willingness to use populated systems as testing grounds for experimental weapons, raising the disturbing possibility that he deliberately attracted Thargoids to validate his superweapon technology.
+related_uuids:
+- 0beee1ec-da7a-57db-a67c-3a1f20eb4828
+- 8ff66371-3861-5214-b69f-432b6c200e2b
 legacy_weight: 5
 significance: high
 ---

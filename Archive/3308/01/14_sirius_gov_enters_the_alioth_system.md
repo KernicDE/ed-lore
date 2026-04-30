@@ -4,30 +4,33 @@ title: Sirius Gov Enters the Alioth System
 slug: sirius_gov_enters_the_alioth_system
 date: '3308-01-14'
 source: API
-entities:
+arc_id: thargoid-titan-war
+persons:
 - Edmund Mahon
+entities: []
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
 - Sirius Gov
-- Thargoid
 locations:
 - Alioth
 - Allied
 - Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: Sirius Corporation establishes a permanent presence in the Alioth system as part of its Alliance defence pact.
+player_impact: Not specifically mentioned — this is a diplomatic report.
+modern_impact: "\"Prime Minister Edmund Mahon has invited Sirius Corporation to establish a permanent presence within the Alliance.\" Sirius Corporation's foothold in Alioth deepens corporate influence over Alliance governance and defence policy."
+related_uuids:
+- 09f64120-be71-5938-ba2b-11b5bcb63641
+- 8b4db844-0c83-569c-8e7b-cce5db8c006a
+- 2802af31-31af-56d3-820a-8de1dabfd0b8
+- 09bf0b89-95eb-572c-97eb-a94634287f81
 legacy_weight: 4
 significance: high
 ---
+
 
 Prime Minister [[Edmund Mahon]] has invited [[Sirius Corporation]] to establish a permanent presence within [[The]] [[Alliance]].
 The Alliance Tribune’s political correspondent Vanya Driscoll reported:

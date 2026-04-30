@@ -4,13 +4,22 @@ title: Rackham Achieves Trillionaire Status
 slug: rackham_achieves_trillionaire_status
 date: '3308-05-09'
 source: API
+arc_id: null
+persons:
+- Zachary Rackham
+- Susannah Haynes
+- Bryanna Blanco
 groups:
-- ACT
 - Federal Times
+locations: []
 topics:
-- construction
 - corporate expansion
-modern_impact: Infrastructure project with long-term benefits.
+player_impact: Not specifically mentioned — this is a financial report.
+summary: Zachary Rackham's personal fortune surpasses one trillion credits following the acquisition of Kavanagh Spaceframes Ltd.
+modern_impact: "\"Analysts estimate that the total value of Mr Rackham's estate is now approximately 1,012,000,000,000 credits.\" Rackham's ascent to trillionaire status provided the financial and media momentum that would fuel his unprecedented presidential campaign, transforming corporate wealth directly into political capital."
+related_uuids:
+- d48a2172-4d32-5501-b760-eb75a11fb324
+- bd2b27e6-fa70-57c1-b2cc-96b787b5dbac
 legacy_weight: 2
 significance: low
 ---

@@ -4,27 +4,29 @@ title: Sirius Vows to Defend Alliance
 slug: sirius_vows_to_defend_alliance
 date: '3308-04-25'
 source: API
+arc_id: thargoid-titan-war
+persons:
+- Nikolas Glass
+- Rachel Ziegler
 groups:
-- ACT
 - Alliance
 - Salvation
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Allied
-- Novas and Sosong
+- Didio
+- Novas
+- Sosong
 - Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - diplomacy
-- safety
-- ship
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Independent pilots rushed to aid the Didio, Novas, and Sosong systems.
+summary: Sirius Corporation claims the Thargoid incursions prove the necessity of its strategic defence pact with the Alliance.
+modern_impact: "\"This unexpected onslaught only underlines the Alliance's need for military support.\" Sirius Corporation's framing of the Thargoid invasion as justification for the defence pact revealed a mutually reinforcing dynamic: alien threat created political opportunity for corporate military integration into Allied defences."
+related_uuids:
+- 71ef5edb-acbd-5323-bdfa-880cbbf2c504
+- 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
 legacy_weight: 5
 significance: high
 ---

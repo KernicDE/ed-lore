@@ -4,8 +4,7 @@ title: Coordinated Raids Hit Outposts Across Core Systems
 slug: coordinated_raids_hit_outposts_across_core_systems
 date: 3312-04-23
 source: API
-groups:
-- ACT
+groups: []
 locations:
 - Several military ports across the core
 topics:

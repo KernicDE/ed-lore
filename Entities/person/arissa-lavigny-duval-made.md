@@ -3,8 +3,8 @@ id: arissa-lavigny-duval-made
 name: Arissa Lavigny-Duval made
 type: person
 first_seen_date: '3304-04-21'
-last_seen_date: '3309-04-27'
-mention_count: 2
+last_seen_date: '3304-04-21'
+mention_count: 1
 related_entities:
 - cartesius
 - john-jameson
@@ -18,8 +18,8 @@ related_entities:
 # Arissa Lavigny-Duval made
 
 First mentioned: **3304-04-21**  
-Last mentioned: **3309-04-27**  
-Total mentions: **2**
+Last mentioned: **3304-04-21**  
+Total mentions: **1**
 
 ## Related
 

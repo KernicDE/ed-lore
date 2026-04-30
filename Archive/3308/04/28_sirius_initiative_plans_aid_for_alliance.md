@@ -4,28 +4,29 @@ title: Sirius Initiative Plans Aid for Alliance
 slug: sirius_initiative_plans_aid_for_alliance
 date: '3308-04-28'
 source: API
+arc_id: thargoid-titan-war
+persons:
+- Nikolas Glass
+- Li Yong-Rui
 groups:
-- ACT
 - Alliance
 - Salvation
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
 - Didio
 - Leesti
 - Rhea
 - Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - humanitarian
-- medicine
-- ship
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Pilots delivered basic medicines, evacuation shelters, and food cartridges to the Chariot of Rhea in Leesti.
+summary: Sirius Corporation organises humanitarian support for the Didio system under Thargoid attack.
+modern_impact: "\"By replenishing key supplies during this time of great crisis, Sirius Corporation has again shown its dedication to the Alliance's military efforts.\" The humanitarian campaign served dual purposes: alleviating civilian suffering in Didio while generating political capital for the ratification of the controversial Sirius-Alliance defence pact."
+related_uuids:
+- b391da8e-90b1-55d8-88e0-8ad93ae52300
+- c7e53bc9-4059-5953-ad0d-64ebf255c495
 legacy_weight: 5
 significance: high
 ---

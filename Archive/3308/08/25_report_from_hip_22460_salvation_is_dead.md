@@ -1,33 +1,30 @@
 ---
-uuid: 95ae8cda-f860-5bc3-8d07-81ef6842e829
-title: 'Report from HIP 22460: ‘Salvation is Dead’'
+uuid: 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+title: 'Report from HIP 22460: Salvation is Dead'
 slug: report_from_hip_22460_salvation_is_dead
 date: '3308-08-25'
 source: API
-groups:
-- ACT
-- Azimuth
-- Bridge
+persons:
+- Caleb Wycherley
+- Morag Halloran
 - Salvation
-- Thargoid
+groups:
+- Azimuth Biotech
 locations:
-- Azimuth
 - Bright Sentinel
 - HIP 22460
-- Musashi
 - T Tauri
-- Thargoid
 topics:
 - alien contact
-- cyberattack
-- humanitarian
-- medicine
-- ship
-- sport
+- crime
 - war
+- xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: An independent rescue team confirms that Salvation, identified as Dr Caleb Wycherley, was killed aboard the Bright Sentinel in HIP 22460, found dead in his command chair surrounded by shattered cybernetic implants.
+player_impact: Not specifically mentioned — this is an investigative report.
+modern_impact: The confirmation of Salvation's death ended the era of the anonymous saviour, reducing Azimuth's figurehead to a broken old man whose cybernetic enhancements had failed to save him from his own weapon's catastrophic backfire.
+related_uuids:
+- 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
 legacy_weight: 5
 significance: high
 ---

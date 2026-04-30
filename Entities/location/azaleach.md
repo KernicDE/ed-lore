@@ -8,9 +8,8 @@ mention_count: 3
 related_entities:
 - federal-times
 - sirius-corporation
-- naylor
-- rory-webster
 - mars
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +24,8 @@ Total mentions: **3**
 
 - [[Federal Times]] (2 co-mentions)
 - [[Sirius Corporation]] (1 co-mentions)
-- [[Naylor]] (1 co-mentions)
-- [[Rory Webster]] (1 co-mentions)
 - [[Mars]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
 
 ## Biography
 

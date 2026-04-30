@@ -5,12 +5,6 @@ type: person
 first_seen_date: '3309-06-16'
 last_seen_date: '3309-08-03'
 mention_count: 4
-related_entities:
-- act
-- imperial-navy
-- federal-navy
-- thargoid
-- alfred-ulyanov
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +17,6 @@ Total mentions: **4**
 
 ## Related
 
-- [[ACT]] (3 co-mentions)
-- [[Imperial Navy]] (3 co-mentions)
-- [[Federal Navy]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
-- [[Alfred Ulyanov]] (1 co-mentions)
 
 ## Biography
 

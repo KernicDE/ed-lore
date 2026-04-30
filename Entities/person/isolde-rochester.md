@@ -2,32 +2,30 @@
 id: isolde-rochester
 name: Isolde Rochester
 type: person
-first_seen_date: '3307-02-09'
+first_seen_date: '3310-10-31'
 last_seen_date: '3310-10-31'
-mention_count: 3
+mention_count: 1
 related_entities:
-- core-dynamics
-- jupiter
-- in-the-permit-locked-hip-54530
-- jupiter-rochester
-- hip-54530
+- mars
+- olympus-village
+- rhea
+- white-house
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Isolde Rochester
 
-First mentioned: **3307-02-09**  
+First mentioned: **3310-10-31**  
 Last mentioned: **3310-10-31**  
-Total mentions: **3**
+Total mentions: **1**
 
 ## Related
 
-- [[Core Dynamics]] (2 co-mentions)
-- [[Jupiter]] (2 co-mentions)
-- [[In the permit-locked HIP 54530]] (1 co-mentions)
-- [[Jupiter Rochester]] (1 co-mentions)
-- [[HIP 54530]] (1 co-mentions)
+- [[Mars]] (1 co-mentions)
+- [[Olympus Village]] (1 co-mentions)
+- [[Rhea]] (1 co-mentions)
+- [[White House]] (1 co-mentions)
 
 ## Biography
 

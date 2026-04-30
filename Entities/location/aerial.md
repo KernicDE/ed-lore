@@ -7,7 +7,6 @@ last_seen_date: '3307-02-25'
 mention_count: 2
 related_entities:
 - alliance
-- pilots-federation
 - sirius-corporation
 - star
 - i-assure-you-that-the-sirius
@@ -24,7 +23,6 @@ Total mentions: **2**
 ## Related
 
 - [[Alliance]] (2 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
 - [[Sirius Corporation]] (2 co-mentions)
 - [[Star]] (2 co-mentions)
 - [[I assure you that the Sirius]] (1 co-mentions)

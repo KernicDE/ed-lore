@@ -1,30 +1,40 @@
 ---
 uuid: a351c94a-19a1-5e95-9429-f0bb7cbaf1d8
-title: Azimuth’s Plan Elicits Further Reactions
+title: Azimuth's Plan Elicits Further Reactions
 slug: azimuths_plan_elicits_further_reactions
 date: '3308-07-15'
 source: API
+persons:
+- Archon Delaine
+- Hadrian Duval
+- Jasmina Halsey
+- Octavia Volkov
+- Yuri Grom
+- Zemina Torval
 groups:
-- ACT
 - Alliance
-- Azimuth
+- Azimuth Biotech
+- Empire
+- Federation
 - Imperial Senate
-- Marlinist
-- Salvation
-- Thargoid
+- Kumo Crew
+- Marlinist Colonies
 locations:
-- Azimuth
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - diplomacy
+- politics
+- war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
-legacy_weight: 5
-significance: high
+summary: Prominent political figures including Archon Delaine, Yuri Grom, Zemina Torval, Hadrian Duval, Octavia Volkov, and Jasmina Halsey offer contrasting perspectives on Salvation's Proteus Wave operation in HIP 22460.
+player_impact: Not specifically mentioned — this is a political opinion piece.
+modern_impact: The divergent reactions revealed how Azimuth's operation had become a Rorschach test for galactic political identities, with each leader projecting their own ideological framework onto the same military campaign.
+related_uuids:
+- 0f01426c-a180-522b-9e1c-2226d9be75e7
+legacy_weight: 4
+significance: medium
 ---
 
 Prominent figures on the political stage have commented on Salvation’s anti-xeno operation in the HIP 22460 system. Key points from each are collated below.

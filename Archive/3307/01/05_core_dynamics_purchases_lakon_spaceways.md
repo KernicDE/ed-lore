@@ -2,20 +2,30 @@
 uuid: 0f5eb161-235f-5b88-9f2d-03c7d6374c08
 title: Core Dynamics Purchases Lakon Spaceways
 slug: core_dynamics_purchases_lakon_spaceways
-date: '3307-01-05'
+date: 3307-01-05
 source: API
-entities:
+arc_id: federal-politics
+persons:
 - Jupiter Rochester
+- Our
+- This
 groups:
 - Alliance
 - Core Dynamics
 locations:
-- Jupiter
+  - Jupiter
 topics:
-- construction
-- corporate expansion
-- ship
-modern_impact: Ship review and release information for the pilot community.
+  - corporate expansion
+player_impact: The corporate takeover generated significant market and political interest among pilots.
+summary: The shipbuilding company Lakon Spaceways has officially accepted a bid for ownership from Federal corporation Core Dynamics.
+modern_impact: "\"We welcome becoming closer partners with the Alliance.\" The Lakon Spaceways takeover saga demonstrated the Alliance's determination to maintain domestic shipbuilding independence against Federal corporate encroachment."
+related_uuids:
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
+- 31ca43b5-5307-50b4-bbd0-948f5ba63d94
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- e25e2c83-7be4-5236-9a1a-93321f277b40
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
 legacy_weight: 2
 significance: low
 ---

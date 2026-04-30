@@ -4,34 +4,39 @@ title: Leaders Respond to Azimuth Initiative
 slug: leaders_respond_to_azimuth_initiative
 date: '3308-07-01'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Arissa Lavigny-Duval
+- Aisling Duval
+- Edmund Mahon
+- Nakato Kaine
+- Zachary Hudson
+- Felicia Winters
+- Li Yong-Rui
+- Pranav Antal
 groups:
-- ACT
 - Alliance
 - Azimuth
 - Federal Navy
 - Salvation
-- Shadow President
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 - Utopia
 locations:
-- Allied
-- Azimuth
-- Guardian
 - HIP 22460
 - Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - exploration
-- safety
 - succession
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: No direct pilot action requested; political leaders outlined their positions on Azimuth's upcoming anti-xeno campaign.
+summary: Political leaders across the superpowers share divided opinions on supporting Azimuth Biotech's Proteus Wave project in HIP 22460.
+modern_impact: "As Princess Aisling Duval warned, Salvation proved to be 'a master of self-promotion and public manipulation,' a prescient observation that underscores how political figures across all superpowers were swayed by Azimuth's promises despite widespread ethical concerns."
+related_uuids:
+- 751f72f0-bd12-5009-92e8-97b94eb2066f
+- a351c94a-19a1-5e95-9429-f0bb7cbaf1d8
+- 1c3d154f-c7fd-533d-b700-1ce942b570c2
 legacy_weight: 5
 significance: high
 ---

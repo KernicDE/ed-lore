@@ -7,10 +7,10 @@ last_seen_date: '3309-05-16'
 mention_count: 27
 related_entities:
 - alliance
-- thargoid
-- act
 - aegis
-- salvation
+- dg-canum-venaticorum
+- empire
+- federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **27**
 ## Related
 
 - [[Alliance]] (16 co-mentions)
-- [[Thargoid]] (11 co-mentions)
-- [[ACT]] (10 co-mentions)
-- [[Aegis]] (10 co-mentions)
-- [[Salvation]] (10 co-mentions)
+- [[Aegis]] (9 co-mentions)
+- [[DG Canum Venaticorum]] (6 co-mentions)
+- [[Empire]] (6 co-mentions)
+- [[Federation]] (6 co-mentions)
 
 ## Biography
 

@@ -1,29 +1,31 @@
 ---
-uuid: edb0e7ff-862e-5ed5-b8e4-43b5aef0c8f6
-title: Azimuth Condemns ‘Alien-Loving’ Resistance
+uuid: 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
+title: Azimuth Condemns 'Alien-Loving' Resistance
 slug: azimuth_condemns_alien_loving_resistance
 date: '3308-07-25'
 source: API
+persons:
+- Torben Rademaker
 groups:
-- ACT
 - Alliance
-- Azimuth
-- Salvation
-- Thargoid
+- Azimuth Biotech
+- Empire
+- Federation
 locations:
-- Azimuth
-- HIP 22460
+- Hind Mine
 - Merope
+- Qarato
 - T Tauri
-- Thargoid
 topics:
 - alien contact
-- construction
 - corporate expansion
-- festival
+- war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Azimuth Biotech director Torben Rademaker condemns Operation Wych Hunt protestors as alien-loving traitors after Azimuth assets are expelled from Merope and Qarato and Hind Mine is attacked.
+player_impact: Azimuth Biotech petitioned authorities for action and requested independent pilots loyal to Salvation's cause to defend their operations from saboteurs.
+modern_impact: Rademaker's rhetoric framing anti-Azimuth protestors as alien-loving traitors established the propaganda template that would be used to silence dissent throughout the Proteus Wave campaign.
+related_uuids:
+- d506983a-04e6-5b65-8223-92c8cf470399
 legacy_weight: 5
 significance: high
 ---

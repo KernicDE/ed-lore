@@ -4,23 +4,29 @@ title: The Supercruise Factor
 slug: the_supercruise_factor
 date: '3308-12-19'
 source: API
+arc_id: null
+persons:
+- Bris Dekker
 groups:
-- ACT
 - Federal Times
-- Thargoid
-locations:
-- Guardian
-- Maelstrom
-- Thargoid
 topics:
 - alien contact
 - engineering
 - research
-- ship
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
+summary: Thargoid vessels are interdicting human ships travelling through systems
+  that have been occupied by their fleets.
+modern_impact: '"Being intercepted by the Thargoids mid-way through an interstellar
+  journey is certainly a disturbing experience, but ..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- 005ebf22-d1c0-50cd-ae57-373efc6bdcde
+- ef95716b-a065-5b83-9407-94ebb3ad437c
+- bd5a1074-4db4-556d-bd6d-4207d963ce10
+- a70b7065-3c14-503b-b348-7130e57293d4
+- 4d3d1411-525f-5642-bd6d-5d318f185635
 legacy_weight: 4
 significance: high
 ---

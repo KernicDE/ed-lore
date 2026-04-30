@@ -5,18 +5,18 @@ slug: bounties_placed_on_criminal_faction
 date: '3308-03-17'
 source: API
 groups:
-- ACT
 - Federal Security Service
 topics:
 - crime
 - festival
 - piracy
-- ship
-- trade
-modern_impact: Community celebration bringing pilots together.
+summary: Federal authorities offer bounties for the destruction of a pirate gang in the Gliese 868 system.
+player_impact: Pilots were asked to hunt down a notorious pirate gang in the Gliese 868 system.
+modern_impact: "\"Federal authorities have requested help in hunting down a notorious pirate gang in the Gliese 868 system.\" The bounty campaign illustrates the ongoing reliance on independent pilots for routine law enforcement."
 legacy_weight: 1
 significance: low
 ---
+
 
 *Pilots’ Federation ALERT*
 Federal authorities have requested help in hunting down a notorious pirate gang in [[The]] Gliese 868 system.

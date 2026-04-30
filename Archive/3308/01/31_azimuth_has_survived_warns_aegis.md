@@ -4,32 +4,41 @@ title: ‘Azimuth has Survived’ Warns Aegis
 slug: azimuth_has_survived_warns_aegis
 date: '3308-01-31'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Carter Armstrong
+- Jacob Morales
 groups:
-- ACT
 - Aegis
-- Azimuth
 - Azimuth Biochemicals
-- Thargoid
 locations:
-- Aegis
-- Azimuth
 - Guardian
 - HIP 22460
-- Thargoid
 - Wregoe
 topics:
 - alien contact
 - bioweapon
 - humanitarian
 - research
-- ship
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Data from the Alexandria reveals Azimuth Biochemicals orchestrated the megaship's destruction.
+player_impact: Not specifically mentioned — this is an investigative report.
+modern_impact: "\"The wreckage of the Alexandria was recently found in the Wregoe TC-X B29-0 system.\" Recovered data proves Azimuth Biochemicals orchestrated the Alexandria's destruction, confirming the century-old corporation's return as a galactic threat."
+related_uuids:
+- abc2fd5a-4eb4-5e36-ba45-d821adf6847e
+- f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
+- f9b7776c-60b4-5566-b2ab-bd4835dac0fc
+- 967aa94a-f950-5777-8fca-15696a250f64
+- 549878b8-2793-57d2-a635-57263e082205
+- ec3ee958-bfe7-5236-941e-08b7ac6f4784
+- 634f0a2d-c94e-5c0e-9501-a506ebbde34b
+- 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
+- 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
+- 8f436007-f00f-535c-af52-d16273c91cc0
 legacy_weight: 5
 significance: high
 ---
+
 
 Information recovered from [[The]] Alexandria has prompted [[Aegis]] to insist that it was not responsible for the loss of the megaship’s crew and cargo.
 The wreckage of the Alexandria was recently [[Located]] in the [[Wregoe TC-X B29-0]] system. There were no survivors, but fragments of the commanding officer’s log were [[Found]].

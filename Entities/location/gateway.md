@@ -4,13 +4,13 @@ name: Gateway
 type: location
 first_seen_date: '3308-01-28'
 last_seen_date: '3312-04-28'
-mention_count: 10
+mention_count: 9
 related_entities:
-- act
-- thargoid
 - aegis
 - brewer-corporation
-- bridge
+- canonn
+- sirius-corporation
+- maelstrom
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-01-28**  
 Last mentioned: **3312-04-28**  
-Total mentions: **10**
+Total mentions: **9**
 
 ## Related
 
-- [[ACT]] (5 co-mentions)
-- [[Thargoid]] (5 co-mentions)
 - [[Aegis]] (5 co-mentions)
 - [[Brewer Corporation]] (2 co-mentions)
-- [[Bridge]] (2 co-mentions)
+- [[Canonn]] (2 co-mentions)
+- [[Sirius Corporation]] (2 co-mentions)
+- [[Maelstrom]] (2 co-mentions)
 
 ## Biography
 

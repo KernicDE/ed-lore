@@ -5,9 +5,7 @@ slug: mahon_gains_advantage_in_alliance_trade_boom
 date: '3311-06-05'
 source: API
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Sirius

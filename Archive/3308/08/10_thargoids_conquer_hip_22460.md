@@ -1,34 +1,29 @@
 ---
-uuid: 5dac2429-cbe4-5b27-95da-d6d5fe91f4eb
+uuid: 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
 title: Thargoids Conquer HIP 22460
 slug: thargoids_conquer_hip_22460
 date: '3308-08-10'
 source: API
+persons:
+- Jade Sanderlyn
+- Salvation
 groups:
-- ACT
-- Alliance
-- Azimuth
-- Engineers
+- Alliance Defence Force
+- Azimuth Biotech
 - Federal Navy
 - Imperial Navy
-- Salvation
-- Thargoid
 locations:
-- Azimuth
-- Bright Sentinel
 - HIP 22460
-- Heart of Taurus
-- Suddenly all
-- Thargoid
 topics:
 - alien contact
-- corporate expansion
-- engineering
-- ship
 - war
+- xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: The Proteus Wave fails catastrophically as Thargoid forces overwhelm the coalition fleet in HIP 22460, destroying human ships after a second energy pulse renders them powerless.
+player_impact: Pilots in HIP 22460 found themselves without power following the second energy pulse and were rapidly targeted by hostile Thargoid vessels.
+modern_impact: The fall of HIP 22460 shattered the myth of Salvation's invincibility, exposing the Proteus Wave as a fatally flawed weapon that had provoked a more devastating Thargoid counter-attack than anything seen before.
+related_uuids:
+- 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
 legacy_weight: 5
 significance: high
 ---

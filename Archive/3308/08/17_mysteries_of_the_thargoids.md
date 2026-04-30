@@ -1,30 +1,26 @@
 ---
-uuid: 02c79e14-bd50-5a4a-b85d-2e25fa40eba1
+uuid: 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
 title: Mysteries of the Thargoids
 slug: mysteries_of_the_thargoids
 date: '3308-08-17'
 source: API
-entities:
+persons:
 - Ishmael Palin
 groups:
-- ACT
-- Thargoid
+- Aegis
 locations:
-- Guardian
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
-- espionage
 - research
-- ship
 - war
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
-significance: high
+arc_id: null
+summary: Professor Ishmael Palin publishes an article emphasising how little humanity truly understands about Thargoid civilisation, society, and objectives, and warns that the Proteus Wave has likely earned humanity the Thargoids' full attention.
+player_impact: Not specifically mentioned — this is a scientific article.
+modern_impact: Palin's sober assessment served as a critical counter-narrative to Azimuth's dehumanisation of Thargoids, reminding the galaxy that they were an intelligent species of enormous complexity whose motivations remained almost entirely unknown.
+legacy_weight: 4
+significance: medium
 ---
 
 Professor Ishmael Palin, the foremost authority on the Thargoids, has authored a short article for the scientific journal The Empirical.

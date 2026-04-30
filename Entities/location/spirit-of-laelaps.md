@@ -7,10 +7,10 @@ last_seen_date: '3310-09-19'
 mention_count: 2
 related_entities:
 - sirius-corporation
-- klaus-peter-sonnek
-- act
-- thargoid
 - rhea
+- aegis
+- azimuth
+- jameson-memorial
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **2**
 ## Related
 
 - [[Sirius Corporation]] (2 co-mentions)
-- [[Klaus-Peter Sonnek]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
 - [[Rhea]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
+- [[Azimuth]] (1 co-mentions)
+- [[Jameson Memorial]] (1 co-mentions)
 
 ## Biography
 

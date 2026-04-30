@@ -4,25 +4,24 @@ title: Guardian Artefact Initiative Enters Second Phase
 slug: guardian_artefact_initiative_enters_second_phase
 date: '3308-07-12'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Morag Halloran
 groups:
-- ACT
 - Azimuth
-- Thargoid
 locations:
-- Azimuth
-- Bright Sentinel
-- Guardian
 - HIP 22460
-- Passage through the HIP 22460
-- Thargoid
+- Bright Sentinel
 topics:
 - alien contact
-- ship
-- trade
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Pilots were asked to continue delivering Guardian artefacts to the Bright Sentinel for a second week.
+summary: Azimuth Biotech extends its Guardian artefact delivery campaign as the Proteus Wave requires increasing quantities of Guardian technology.
+modern_impact: "Halloran's warning that 'passage through the HIP 22460 system has become hazardous' underscored the escalating danger pilots faced while supporting Azimuth's superweapon construction."
+related_uuids:
+- e8461472-4c75-5456-9164-cf415d0cad55
+- 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
+- bc635a7c-22bf-5a79-b6bb-781f8b67a199
 legacy_weight: 5
 significance: high
 ---

@@ -4,18 +4,28 @@ title: Pirate Rebels Coup Attempt Fails
 slug: pirate_rebels_coup_attempt_fails
 date: '3308-05-16'
 source: API
+arc_id: null
+persons:
+- Karleen Troy
+- Vidar Trask
+- Archon Delaine
+- Callan Salamanca
+- Kay Volantyne
 groups:
-- ACT
 - Kumo Crew
 locations:
 - Pegasi
-- Trask
+- HIP 10792
 topics:
 - crime
 - independence
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Not specifically mentioned — this is a syndicate report.
+summary: Vidar Trask's coup attempt against Archon Delaine fails, with surviving rebels retreating to HIP 10792.
+modern_impact: "\"What is surprising, however, is how close he initially came to dethroning Archon Delaine.\" The failed coup exposed deep structural vulnerabilities within the Kumo Crew, revealing that even Delaine's most trusted advisors could mobilise substantial mercenary forces against him when personal ambition overrode criminal loyalty."
+related_uuids:
+- 076567e6-5d23-58d8-b1f4-87c5d0297b2f
+- d18d8d7a-356e-5188-a79b-3b4464628cd5
 legacy_weight: 2
 significance: low
 ---

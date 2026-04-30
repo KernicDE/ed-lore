@@ -6,11 +6,11 @@ first_seen_date: '3308-11-28'
 last_seen_date: '3308-11-28'
 mention_count: 1
 related_entities:
-- ishmael-palin-gave
-- leroux
 - alliance
 - federal-navy
 - imperial-navy
+- hip-22460
+- hyades
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **1**
 
 ## Related
 
-- [[Ishmael Palin gave]] (1 co-mentions)
-- [[Leroux]] (1 co-mentions)
 - [[Alliance]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
 - [[Imperial Navy]] (1 co-mentions)
+- [[HIP 22460]] (1 co-mentions)
+- [[Hyades]] (1 co-mentions)
 
 ## Biography
 

@@ -2,32 +2,32 @@
 id: lorcan-scordato
 name: Lorcan Scordato
 type: person
-first_seen_date: '3307-03-29'
+first_seen_date: '3307-04-09'
 last_seen_date: '3307-07-15'
-mention_count: 5
+mention_count: 4
 related_entities:
 - marlinist
 - nmla
 - alliance
+- visits-marlinist-colonies
 - imperial-herald
-- anders-blaine-reported-that
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Lorcan Scordato
 
-First mentioned: **3307-03-29**  
+First mentioned: **3307-04-09**  
 Last mentioned: **3307-07-15**  
-Total mentions: **5**
+Total mentions: **4**
 
 ## Related
 
-- [[Marlinist]] (5 co-mentions)
-- [[NMLA]] (5 co-mentions)
-- [[Alliance]] (3 co-mentions)
-- [[Imperial Herald]] (2 co-mentions)
-- [[Anders Blaine reported that]] (1 co-mentions)
+- [[Marlinist]] (4 co-mentions)
+- [[NMLA]] (4 co-mentions)
+- [[Alliance]] (2 co-mentions)
+- [[Visits Marlinist Colonies]] (1 co-mentions)
+- [[Imperial Herald]] (1 co-mentions)
 
 ## Biography
 

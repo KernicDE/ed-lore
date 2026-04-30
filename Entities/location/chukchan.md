@@ -23,7 +23,7 @@ Total mentions: **8**
 
 ## Related
 
-- [[Alliance]] (6 co-mentions)
+- [[Alliance]] (5 co-mentions)
 - [[Pilots Federation]] (5 co-mentions)
 - [[HIP 64011 and HIP 65201]] (1 co-mentions)
 - [[This caused onboard power]] (1 co-mentions)

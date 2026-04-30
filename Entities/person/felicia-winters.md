@@ -4,13 +4,13 @@ name: Felicia Winters
 type: person
 first_seen_date: '3301-07-29'
 last_seen_date: '3312-02-20'
-mention_count: 24
+mention_count: 15
 related_entities:
-- shadow-president
 - sol
 - zachary-hudson
 - mars
 - alliance
+- federal-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-07-29**  
 Last mentioned: **3312-02-20**  
-Total mentions: **24**
+Total mentions: **15**
 
 ## Related
 
-- [[Shadow President]] (7 co-mentions)
-- [[Sol]] (6 co-mentions)
-- [[Zachary Hudson]] (6 co-mentions)
-- [[Mars]] (5 co-mentions)
-- [[Alliance]] (5 co-mentions)
+- [[Sol]] (5 co-mentions)
+- [[Zachary Hudson]] (4 co-mentions)
+- [[Mars]] (3 co-mentions)
+- [[Alliance]] (3 co-mentions)
+- [[Federal Navy]] (3 co-mentions)
 
 ## Biography
 

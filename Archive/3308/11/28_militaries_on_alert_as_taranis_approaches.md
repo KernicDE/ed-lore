@@ -4,29 +4,39 @@ title: Militaries on Alert as Taranis Approaches
 slug: militaries_on_alert_as_taranis_approaches
 date: '3308-11-28'
 source: API
-entities:
-- Ishmael Palin gave
-- Leroux
+arc_id: null
+persons:
+- Ishmael Palin
+- Maxton Price
+- Rachel Ziegler
+- Remy Leroux
 groups:
 - Alliance
 - Federal Navy
 - Imperial Navy
-- Thargoid
 locations:
 - HIP 22460
 - Hyades
 - Hyades Sector
 - Hyades Sector FB-N b7-6
-- Thargoid
 - The Hyades Sector FB-N b7-6
 topics:
 - alien contact
 - research
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
+summary: The Hyades Sector FB-N b7-6 system has been identified as the location where
+  the rogue signal source named Taranis will finally arrive.
+modern_impact: '"Data correlated from many long-range scans proves that the anomaly’s
+  velocity is reducing steadily. At its present ra..." Taranis heralded a new phase
+  of total war that humanity was ill-prepared to resist.'
+related_uuids:
+- 1a784d38-9247-5277-a7e4-b217104780a2
+- cbe79040-1b75-50b1-9aad-bc544ff2b6be
+- 1bc4f61f-b1a2-5e7a-ba56-41659e56ebcb
+- 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
+- 5553d91a-6dbd-5e36-a90d-041502ba09c2
 legacy_weight: 4
 significance: high
 ---

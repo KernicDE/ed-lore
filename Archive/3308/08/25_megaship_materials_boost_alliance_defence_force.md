@@ -1,29 +1,29 @@
 ---
-uuid: 1678fa94-d3b9-5a9e-b13e-15335a42269e
+uuid: 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
 title: Megaship Materials Boost Alliance Defence Force
 slug: megaship_materials_boost_alliance_defence_force
 date: '3308-08-25'
 source: API
+persons:
+- Delfina Dominguez
+- Nikolas Glass
 groups:
-- Alliance
-- Sirius Corp
+- Alliance Defence Force
+- Council of Admirals
 - Sirius Corporation
-- Thargoid
 locations:
 - Leesti
-- Rhea
-- Sirius
-- Thargoid
-- These will be placed in key
 topics:
 - alien contact
 - corporate expansion
-- ship
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
-legacy_weight: 5
-significance: high
+- engineering
+- war
+arc_id: null
+summary: Sirius Corporation concludes a resource-gathering campaign in Leesti to outfit two sentry megaships with experimental AX weaponry for the Alliance Defence Force, expected operational by September 15th.
+player_impact: Pilots delivered energy grid assemblies, magnetic emitter coils, power transfer buses, and titanium to the Chariot of Rhea in Leesti.
+modern_impact: The megaship initiative demonstrated how the HIP 22460 disaster accelerated the Alliance's military dependence on Sirius Corporation, with corporate logistics directly shaping Allied defence architecture.
+legacy_weight: 4
+significance: medium
 ---
 
 *Pilots’ Federation ALERT*

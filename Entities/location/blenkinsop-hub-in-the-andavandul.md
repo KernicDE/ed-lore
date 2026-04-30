@@ -5,11 +5,6 @@ type: location
 first_seen_date: '3308-10-20'
 last_seen_date: '3308-10-20'
 mention_count: 1
-related_entities:
-- act
-- shadow-president
-- thargoid
-- thargoids-have-placed-entire
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,10 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (1 co-mentions)
-- [[Shadow President]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
-- [[Thargoids have placed entire]] (1 co-mentions)
 
 ## Biography
 

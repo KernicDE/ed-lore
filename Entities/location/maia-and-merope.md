@@ -3,13 +3,13 @@ id: maia-and-merope
 name: Maia and Merope
 type: location
 first_seen_date: '3307-12-09'
-last_seen_date: '3308-06-28'
-mention_count: 5
+last_seen_date: '3307-12-15'
+mention_count: 3
 related_entities:
 - delphi
 - maia
 - merope
-- aegis
+- coalsack
 - alliance
 ---
 
@@ -18,16 +18,16 @@ related_entities:
 # Maia and Merope
 
 First mentioned: **3307-12-09**  
-Last mentioned: **3308-06-28**  
-Total mentions: **5**
+Last mentioned: **3307-12-15**  
+Total mentions: **3**
 
 ## Related
 
-- [[Delphi]] (5 co-mentions)
-- [[Maia]] (5 co-mentions)
-- [[Merope]] (5 co-mentions)
-- [[Aegis]] (3 co-mentions)
-- [[Alliance]] (2 co-mentions)
+- [[Delphi]] (3 co-mentions)
+- [[Maia]] (3 co-mentions)
+- [[Merope]] (3 co-mentions)
+- [[Coalsack]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
 
 ## Biography
 

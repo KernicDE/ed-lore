@@ -2,19 +2,32 @@
 uuid: b552d00d-8b03-578d-a47d-aa396f38dedf
 title: Marlinists Reject Accusations of Terrorist Links
 slug: marlinists_reject_accusations_of_terrorist_links
-date: '3307-03-23'
+date: 3307-03-23
 source: API
+arc_id: nmla-terrorism
+persons:
+- Far
+- Jenna Fairfax
+- Neo-Marlinist Liberation Army
+- Our
+- This
 groups:
 - Marlinist
 - NMLA
 - Neo-Marlinist Liberation Army
 locations:
-- Marlinist
-topics:
-- construction
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+  - Marlinist
+topics: []
+player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
+summary: The Marlinist Parliament has refuted widespread allegations of supporting or concealing members of the NMLA paramilitary group.
+modern_impact: "\"The starport attacks were as sickening and terrifying to us as to the rest of the galaxy.\" The Marlinist refugee crisis and NMLA terrorism forced the galaxy to confront the consequences of Imperial political repression and republican ideology."
+related_uuids:
+- f359d9c3-aa3c-5d56-bf91-97754c4357a9
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+- 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
+- 67932c1d-fed0-5cc2-b9a2-8aededff61c3
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
 legacy_weight: 5
 significance: high
 ---

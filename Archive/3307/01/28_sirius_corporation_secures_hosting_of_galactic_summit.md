@@ -2,11 +2,16 @@
 uuid: 6549866d-5636-5f2d-96ad-fd6536f024a4
 title: Sirius Corporation Secures Hosting of Galactic Summit
 slug: sirius_corporation_secures_hosting_of_galactic_summit
-date: '3307-01-28'
+date: 3307-01-28
 source: API
+arc_id: null
+persons:
+- Its
+- Li Yong-Rui
+- This
+- Which
 groups:
 - Alliance
-- Pilots Federation
 - Sirius Corp
 - Sirius Corporation
 - Utopia
@@ -18,7 +23,16 @@ topics:
 - cyberattack
 - diplomacy
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: "*Pilots Federation ALERT* Sirius Corporation has received more data than Utopia and will therefore host The Galactic Summit."
+modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+related_uuids:
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 88d977ef-239d-5da9-8e26-e9df458c49d2
+- 5783e898-65a7-5db9-9681-366b1eb91056
+- 5140542a-1be3-56a9-a558-8224ef317bf7
+- fc197df5-b778-5964-a004-448689eba981
+- 9243011a-ed83-592c-9dcd-6cefc68679cf
 legacy_weight: 2
 significance: low
 ---

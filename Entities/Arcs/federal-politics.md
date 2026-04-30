@@ -3,13 +3,13 @@ id: federal-politics
 name: Federal Politics
 first_seen_date: '3301-02-15'
 last_seen_date: '3310-10-31'
-mention_count: 51
+mention_count: 63
 significance: medium
 key_entities:
-- zachary-hudson
-- felicia-winters
 - federal-times
-- shadow-president
+- core-dynamics
+- felicia-winters
+- zachary-hudson
 - alliance
 ---
 
@@ -19,15 +19,15 @@ key_entities:
 
 First seen: **3301-02-15**  
 Last seen: **3310-10-31**  
-Articles: **51**
+Articles: **63**
 
 ## Key Figures
 
-- [[Zachary Hudson]] (13 mentions)
-- [[Felicia Winters]] (13 mentions)
-- [[Federal Times]] (13 mentions)
-- [[Shadow President]] (8 mentions)
-- [[Alliance]] (5 mentions)
+- [[Federal Times]] (20 mentions)
+- [[Core Dynamics]] (13 mentions)
+- [[Felicia Winters]] (9 mentions)
+- [[Zachary Hudson]] (8 mentions)
+- [[Alliance]] (8 mentions)
 
 ## Description
 

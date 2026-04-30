@@ -3,14 +3,14 @@ id: zemina-torval
 name: Zemina Torval
 type: person
 first_seen_date: '3301-03-01'
-last_seen_date: '3309-04-04'
-mention_count: 16
+last_seen_date: '3307-10-01'
+mention_count: 13
 related_entities:
 - mastopolos-mining
-- imperial-senate
 - capitol
 - merope
-- aegis
+- barham
+- synteini
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Zemina Torval
 
 First mentioned: **3301-03-01**  
-Last mentioned: **3309-04-04**  
-Total mentions: **16**
+Last mentioned: **3307-10-01**  
+Total mentions: **13**
 
 ## Related
 
 - [[Mastopolos Mining]] (4 co-mentions)
-- [[Imperial Senate]] (2 co-mentions)
 - [[Capitol]] (2 co-mentions)
 - [[Merope]] (2 co-mentions)
-- [[Aegis]] (2 co-mentions)
+- [[Barham]] (1 co-mentions)
+- [[Synteini]] (1 co-mentions)
 
 ## Biography
 

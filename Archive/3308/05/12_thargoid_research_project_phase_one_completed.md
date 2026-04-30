@@ -4,27 +4,26 @@ title: Thargoid Research Project Phase One Completed
 slug: thargoid_research_project_phase_one_completed
 date: '3308-05-12'
 source: API
-entities:
+arc_id: thargoid-titan-war
+persons:
 - Ishmael Palin
-- Palin
-- Palin made
 groups:
 - Alliance
-- Thargoid
 locations:
 - Abel Laboratory
 - Arque
-- Professor Palin
-- Thargoid
+- Morten-Marte
+- James Sneddon
 topics:
 - alien contact
-- construction
 - research
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots who delivered meta-alloys can collect payments and corrosion resistant cargo racks at James Sneddon in Morten-Marte.
+summary: Professor Ishmael Palin completes the first phase of his Thargoid research project after receiving meta-alloy shipments.
+modern_impact: "\"I am planning the second phase of this project, which has the combined assistance of the Alliance, Empire and Federation.\" Palin's tri-superpower research collaboration represented a rare moment of scientific unity that stood in stark contrast to the fractured military response coordinated around Salvation's unilateral weapon programme."
+related_uuids:
+- 4312e312-ef1b-50a1-ba00-2e1f441ce9e3
+- faf4aecd-7600-5383-85d0-03fae5460273
 legacy_weight: 5
 significance: high
 ---

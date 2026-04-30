@@ -4,22 +4,28 @@ title: Support Required for New Marlinist Starports
 slug: support_required_for_new_marlinist_starports
 date: '3308-04-14'
 source: API
-entities:
-- Arissa
+arc_id: null
+persons:
+- Arissa Lavigny-Duval
+- Octavia Volkov
 groups:
-- ACT
 - Marlinist
 - Universal Cartographics
+locations:
+- HIP 22550
+- Stillman Hub
+- Capitol
 topics:
-- construction
 - exploration
 - independence
-- ship
 - succession
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots were asked to deliver construction materials to Stillman Hub in HIP 22550.
+summary: The Marlinist Colonies launch an initiative to construct up to six new orbital stations.
+modern_impact: "\"To celebrate and consolidate our independence, we have launched an initiative to construct up to six new orbital stations.\" The starport construction initiative represented a tangible step toward Octavia Volkov's vision of a Marlinist Republic, symbolising the colonies' transition from refugee camps to a sovereign interstellar society."
+related_uuids:
+- 63e625ea-c34e-5fca-8183-81928f3e7f7d
+- 7757e707-c843-5bb4-badf-0130b626ceb1
 legacy_weight: 5
 significance: high
 ---

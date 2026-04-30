@@ -4,25 +4,22 @@ title: A Retrospective of 3308 (Part Two)
 slug: a_retrospective_of_3308_part_two
 date: '3308-12-30'
 source: API
-entities:
+arc_id: salvation-azimuth
+persons:
+- Archon Delaine
 - Caleb Wycherley
+- Sima Kalhana
+- Zachary Rackham
 groups:
-- ACT
 - Alliance
 - Azimuth
 - Azimuth Biochemicals
 - Kumo Crew
 - Salvation
-- Thargoid
 locations:
-- Azimuth
 - Earth
 - Golconda
-- Guardian
 - HIP 22460
-- HIP 22460 was the
-- Novas and Sosong
-- Thargoid
 topics:
 - alien contact
 - bioweapon
@@ -31,12 +28,21 @@ topics:
 - independence
 - piracy
 - research
-- ship
 - war
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Independent pilots were tasked with delivering commodities to support
+  the operation.
+summary: Sima Kalhana continues her review of the most significant historical events
+  that occurred during the past year.
+modern_impact: '"In May 3308, the Thargoid invasions of the Didio, Novas and Sosong
+  systems were completely repelled by the use of Sal..." Looking back, the events
+  of 3308 set the stage for the protracted conflict that followed.'
+related_uuids:
+- bd5a1074-4db4-556d-bd6d-4207d963ce10
+- 4e1477c4-93b5-5496-a2b9-86e95c248866
+- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+- 0c37c634-123c-5ee7-9616-d3f4b4263c90
+- 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 legacy_weight: 5
 significance: high
 ---

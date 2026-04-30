@@ -4,12 +4,12 @@ name: Achenar
 type: location
 first_seen_date: '3301-04-20'
 last_seen_date: '3311-04-01'
-mention_count: 76
+mention_count: 75
 related_entities:
 - alliance
 - capitol
-- sol
 - nmla
+- sol
 - marlinist
 ---
 
@@ -19,14 +19,14 @@ related_entities:
 
 First mentioned: **3301-04-20**  
 Last mentioned: **3311-04-01**  
-Total mentions: **76**
+Total mentions: **75**
 
 ## Related
 
-- [[Alliance]] (23 co-mentions)
+- [[Alliance]] (21 co-mentions)
 - [[Capitol]] (20 co-mentions)
-- [[Sol]] (18 co-mentions)
 - [[NMLA]] (18 co-mentions)
+- [[Sol]] (17 co-mentions)
 - [[Marlinist]] (15 co-mentions)
 
 ## Biography

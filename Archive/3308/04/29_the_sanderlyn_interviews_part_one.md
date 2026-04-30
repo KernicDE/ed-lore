@@ -4,26 +4,26 @@ title: The Sanderlyn Interviews (Part One)
 slug: the_sanderlyn_interviews_part_one
 date: '3308-04-29'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Jade Sanderlyn
+- Henry Paul Atherton
 groups:
-- ACT
 - Imperial Navy
 - Salvation
-- Thargoid
 locations:
-- Every invaded
-- Thargoid
-- Thargoids from entire
-- What are your objectives in the
+- Novas
 topics:
 - alien contact
-- construction
-- safety
-- ship
 - succession
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: The full interview is available to pilots arriving at the INV Succession in the Novas system.
+summary: Vox Galactica's Jade Sanderlyn interviews Imperial Navy Admiral Henry Paul Atherton about the Thargoid invasion of Novas.
+modern_impact: "\"Jade, dear: they are the same thing. The cost of war is human lives, and the Thargoids extract a heavy toll.\" Atherton's conflation of Salvation's 'victory' with civilian safety reveals the moral calculus adopted by superpower military leaders, who increasingly justified Azimuth's unaccountable methods as necessary for survival."
+related_uuids:
+- e05cf902-3b9a-5936-af7b-8d010eb0685c
+- b99fe71e-7d59-5dc5-92cf-b91316361608
+- 4c108f5b-4d53-53ef-8e79-33a278395e0e
 legacy_weight: 5
 significance: high
 ---

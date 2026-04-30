@@ -4,13 +4,13 @@ name: Pleiades Sector CW-U B3-2
 type: location
 first_seen_date: '3308-06-30'
 last_seen_date: '3308-08-11'
-mention_count: 2
+mention_count: 6
 related_entities:
-- act
-- alliance
-- azimuth
-- salvation
-- thargoid
+- azimuth-biotech
+- hip-22460
+- alliance-defence-force
+- glorious-prospect
+- federal-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-06-30**  
 Last mentioned: **3308-08-11**  
-Total mentions: **2**
+Total mentions: **6**
 
 ## Related
 
-- [[ACT]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
-- [[Azimuth]] (2 co-mentions)
-- [[Salvation]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
+- [[Azimuth Biotech]] (6 co-mentions)
+- [[HIP 22460]] (6 co-mentions)
+- [[Alliance Defence Force]] (3 co-mentions)
+- [[Glorious Prospect]] (3 co-mentions)
+- [[Federal Navy]] (2 co-mentions)
 
 ## Biography
 

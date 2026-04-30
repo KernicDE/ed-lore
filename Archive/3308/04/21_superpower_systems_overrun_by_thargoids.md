@@ -4,32 +4,33 @@ title: Superpower Systems Overrun by Thargoids
 slug: superpower_systems_overrun_by_thargoids
 date: '3308-04-21'
 source: API
-entities:
+arc_id: thargoid-titan-war
+persons:
 - Imogen le Ray
+- Henry Paul Atherton
+- Maxton Price
+- Rachel Ziegler
 groups:
-- ACT
 - Aegis
 - Alliance
 - Federal Navy
 - Imperial Navy
 - Salvation
-- Thargoid
 locations:
-- Aegis
-- Local security services in all three
-- Novas and Sosong
+- Didio
+- Novas
+- Sosong
 - Sol
-- Thargoid
 topics:
 - alien contact
-- construction
 - corporate expansion
-- ship
-- sport
 - succession
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Independent pilots were called to defend Didio, Novas, and Sosong from Thargoid fleets.
+summary: Thargoid fleets invade the Didio, Novas, and Sosong systems, placing over ten billion lives at risk.
+modern_impact: "\"With Aegis now officially disbanded, its fleet is being temporarily operated by Frontline Solutions.\" The simultaneous invasion of superpower core systems exposed the catastrophic vulnerability of human space after Aegis's dissolution, forcing a desperate reliance on Salvation's unproven superweapons and mercenary logistics."
+related_uuids:
+- 3f6b7847-131b-5ba8-ac81-0d61d8b5bff4
+- 8097c00d-2e15-5445-b408-e3b80f412aac
 legacy_weight: 5
 significance: high
 ---

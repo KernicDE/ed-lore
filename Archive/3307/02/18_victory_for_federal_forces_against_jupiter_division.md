@@ -2,20 +2,36 @@
 uuid: e25e2c83-7be4-5236-9a1a-93321f277b40
 title: Victory for Federal Forces Against Jupiter Division
 slug: victory_for_federal_forces_against_jupiter_division
-date: '3307-02-18'
+date: 3307-02-18
 source: API
+arc_id: federal-politics
+persons:
+- Further
+- Jupiter
+- Jupiter Rochester
+- Tach
+- This
+- Which
+- With
 groups:
-- Core Dynamics
-- Pilots Federation
+  - Core Dynamics
 locations:
 - Forge megaship in the HIP 55014
 - HIP 54530
 - Jupiter
 topics:
 - corporate expansion
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
+summary: "*Pilots Federation ALERT* Jupiter Division, The breakaway faction from Core Dynamics, has been defeated in the HIP 54530 system."
+modern_impact: "\"For many years, I helped Core Dynamics become one of the galaxy's strongest companies.\" Rochester's attempted corporate coup highlighted the dangers of unchecked corporate power within the Federation and led to significant reforms."
+related_uuids:
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
+- 31ca43b5-5307-50b4-bbd0-948f5ba63d94
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- aa81f947-721e-52c8-a91e-906bf41c62b8
 legacy_weight: 2
 significance: low
 ---

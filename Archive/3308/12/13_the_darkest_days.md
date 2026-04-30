@@ -4,22 +4,27 @@ title: The Darkest Days
 slug: the_darkest_days
 date: '3308-12-13'
 source: API
-groups:
-- ACT
-- Thargoid
+arc_id: null
 locations:
-- Maelstrom
 - Sol
-- Thargoid
 topics:
 - alien contact
 - research
-- ship
 - succession
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
+summary: Newsfeeds have published their reactions as the Thargoid Maelstroms launch
+  fleets to overpower multiple inhabited systems.
+modern_impact: "\"Be in no doubt: we are in a war for survival! Dark days are upon\
+  \ us. No more ridiculous ideas of peace with the alien...\" This perspective highlights\
+  \ the broader stakes and continues to shape contemporary debates."
+related_uuids:
+- 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
+- 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
+- 5553d91a-6dbd-5e36-a90d-041502ba09c2
+- f052748e-b6ee-52c8-9657-75e06d0e3612
+- eb62c669-b525-5753-b3cb-faf6452a8088
 legacy_weight: 5
 significance: high
 ---

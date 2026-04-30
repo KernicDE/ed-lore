@@ -2,11 +2,16 @@
 uuid: 81935802-cfe1-5060-bd5a-d55783730845
 title: Demands for Empire to Solve Terrorist Problem
 slug: demands_for_empire_to_solve_terrorist_problem
-date: '3307-03-29'
+date: 3307-03-29
 source: API
-entities:
-- Anders Blaine reported that
+arc_id: nmla-terrorism
+persons:
+- Achenar
+- Dawes Hub
+- Further
 - Lorcan Scordato
+- Our
+- With
 groups:
 - Alliance
 - Imperial Herald
@@ -18,14 +23,19 @@ locations:
 - Marlinist
 - The entire
 topics:
-- construction
 - scandal
-- ship
 - succession
 - war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
+summary: The fear of Further starport bombings has placed internal and external pressure on the Empire to address the threat posed by the NMLA.
+modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+related_uuids:
+- b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+- ba0ab37a-3135-52b4-a668-22e5ef0700b6
+- 9e1f1fba-df6f-5280-8095-86f30ca2d79c
+- 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 legacy_weight: 5
 significance: high
 ---

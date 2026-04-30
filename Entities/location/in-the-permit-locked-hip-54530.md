@@ -6,7 +6,6 @@ first_seen_date: '3307-02-09'
 last_seen_date: '3307-02-09'
 mention_count: 1
 related_entities:
-- isolde-rochester
 - core-dynamics
 - jupiter
 ---
@@ -21,7 +20,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Isolde Rochester]] (1 co-mentions)
 - [[Core Dynamics]] (1 co-mentions)
 - [[Jupiter]] (1 co-mentions)
 

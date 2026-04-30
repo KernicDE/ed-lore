@@ -4,8 +4,7 @@ title: Unidentified Mercenary Group Linked to Fabrication Facility Break-In
 slug: unidentified_mercenary_group_linked_to_fabrication_facility_break_in
 date: 3312-04-14
 source: API
-groups:
-- ACT
+groups: []
 topics:
 - crime
 - investigation

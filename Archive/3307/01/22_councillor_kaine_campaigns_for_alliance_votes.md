@@ -2,12 +2,17 @@
 uuid: d20fa8ea-2d3c-5f29-b5b5-970c29ded72e
 title: Councillor Kaine Campaigns for Alliance Votes
 slug: councillor_kaine_campaigns_for_alliance_votes
-date: '3307-01-22'
+date: 3307-01-22
 source: API
-entities:
-- Mahon clearly thinks that
+arc_id: null
+persons:
+- Edmund Mahon
+- Leesti
+- Our
+- Which
+- With
 groups:
-- Alliance
+  - Alliance
 locations:
 - Councillor Nakato Kaine is visiting key
 - Leesti
@@ -16,12 +21,17 @@ locations:
 topics:
 - alien contact
 - corporate expansion
-- sport
-- trade
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots followed these developments through GalNet reports.
+summary: Councillor Nakato Kaine is visiting key systems across The Alliance as part of her bid to be elected As the next prime minister.
+modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+related_uuids:
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- c0aab9ee-c770-5579-864d-bfe676a694a2
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- aa81f947-721e-52c8-a91e-906bf41c62b8
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- 86eb9c0f-fa6b-5089-b6ae-d233a1e64339
 legacy_weight: 4
 significance: high
 ---

@@ -4,13 +4,13 @@ name: Alliance
 type: faction
 first_seen_date: '3301-02-19'
 last_seen_date: '3312-02-20'
-mention_count: 438
+mention_count: 417
 related_entities:
-- act
-- thargoid
-- aegis
 - sirius-corporation
+- aegis
+- alioth
 - pilots-federation
+- marlinist
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-02-19**  
 Last mentioned: **3312-02-20**  
-Total mentions: **438**
+Total mentions: **417**
 
 ## Related
 
-- [[ACT]] (105 co-mentions)
-- [[Thargoid]] (102 co-mentions)
-- [[Aegis]] (78 co-mentions)
-- [[Sirius Corporation]] (74 co-mentions)
-- [[Pilots Federation]] (48 co-mentions)
+- [[Sirius Corporation]] (66 co-mentions)
+- [[Aegis]] (63 co-mentions)
+- [[Alioth]] (44 co-mentions)
+- [[Pilots Federation]] (38 co-mentions)
+- [[Marlinist]] (36 co-mentions)
 
 ## Biography
 

@@ -4,29 +4,37 @@ title: Superpowers Employ Pilots to Hunt Thargoids
 slug: superpowers_employ_pilots_to_hunt_thargoids
 date: '3308-04-28'
 source: API
-entities:
+arc_id: salvation-azimuth
+persons:
 - Jade Sanderlyn
+- Morag Halloran
+- Henry Paul Atherton
+- Maxton Price
+- Rachel Ziegler
 groups:
-- ACT
 - Alliance
 - Federal Navy
 - Imperial Navy
 - Salvation
-- Thargoid
 locations:
-- Novas and Sosong
-- Plymouth Howl in the Ch'anjie
-- Sturckow Orbital in the Lesheima
-- Thargoid
+- Didio
+- Novas
+- Sosong
+- Ch'anjie
+- Plymouth Howl
+- Lesheima
+- Sturckow Orbital
+- Zlota
 topics:
 - alien contact
-- construction
-- ship
 - succession
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Independent pilots were offered bounties for destroying Thargoid vessels in Didio, Novas, and Sosong.
+summary: The superpowers offer bounties on Thargoid vessels while Salvation constructs anti-xeno superweapons.
+modern_impact: "\"Salvation has started construction of three anti-xeno superweapons to expunge the latest Thargoid infestation.\" The joint superpower bounty programme represented an unprecedented level of military coordination around Salvation's timeline, effectively deputising independent pilots as holding forces for Azimuth Biotech's weapon development."
+related_uuids:
+- 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
+- 8097c00d-2e15-5445-b408-e3b80f412aac
 legacy_weight: 5
 significance: high
 ---

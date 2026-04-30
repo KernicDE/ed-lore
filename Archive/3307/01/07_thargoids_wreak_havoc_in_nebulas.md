@@ -2,22 +2,29 @@
 uuid: c7939068-054a-5a28-8e17-efdfaad7b44a
 title: Thargoids Wreak Havoc in Nebulas
 slug: thargoids_wreak_havoc_in_nebulas
-date: '3307-01-07'
+date: 3307-01-07
 source: API
+arc_id: null
+persons:
+- Coalsack
+- This
+- Witch Head
 groups:
-- Aegis
+  - Aegis
 locations:
-- Aegis
 - Coalsack
 - Witch Head
 - Witch Head Nebula
 topics:
-- alien contact
-- construction
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+  - alien contact
+player_impact: Anti-xeno pilots responded to Aegis appeals to defend stations from Thargoid incursions.
+summary: Starports in The Coalsack and Witch Head Nebulas have been damaged during full-scale Thargoid incursions.
+modern_impact: "\"Despite the heroic efforts of many pilots, the alien ships have resisted being driven from the Witch Head Nebula.\" These early 3307 incursions foreshadowed the escalating Thargoid threat that would eventually overwhelm traditional defense strategies."
+related_uuids:
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- 99fd4baa-7978-5f90-bf43-9926feb1c42e
+- 29fb3d22-b316-514e-95ed-4f188b9ed8f7
+- 12cb1fa8-abf9-5608-adb7-15ce6660e828
 legacy_weight: 5
 significance: high
 ---

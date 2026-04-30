@@ -4,23 +4,29 @@ title: Xeno-Peace Project Gathers Support
 slug: xeno_peace_project_gathers_support
 date: '3308-10-27'
 source: API
-entities:
-- Chase
+arc_id: null
+persons:
 - Dalton Chase
+- Polly French
 groups:
-- ACT
 - Federal Congress
-- Thargoid
-locations:
-- Thargoid
 topics:
 - alien contact
 - diplomacy
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Independent pilots were tasked with delivering commodities to support
+  the operation.
+summary: Deliveries to the Andavandul system have enabled the Thargoid Advocacy Project
+  to begin preparations for a diplomatic mission.
+modern_impact: '"War with the Thargoids represents multiple failures. A failure to
+  imagine coexistence with another intelligent specie..." The failure of civilian-led
+  diplomacy underscores the dangers of underestimating Thargoid hostility.'
+related_uuids:
+- ff9426a9-0b2c-55d7-8741-dd9fbd4364ff
+- b6b43833-9bdc-552c-b2f9-cd90f35ea2de
+- 9d88d95b-e2d8-5107-bb42-666da4ea00bf
+- 17c9f162-826a-5492-8ff7-a04cd0d9cdfc
+- 1791622e-98ed-5b34-a3e3-34ef90719997
 legacy_weight: 5
 significance: high
 ---

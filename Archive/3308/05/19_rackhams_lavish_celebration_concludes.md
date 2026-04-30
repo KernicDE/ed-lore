@@ -4,19 +4,29 @@ title: Rackham’s Lavish Celebration Concludes
 slug: rackhams_lavish_celebration_concludes
 date: '3308-05-19'
 source: API
+arc_id: null
+persons:
+- Zachary Rackham
+- Bryanna Blanco
+- Anya Blackriver
+- Neive McFarlane
 groups:
 - Federal Times
 locations:
 - Altair
-- Edmondson High in the Beta Hydri
+- Beta Hydri
 - Sol
+- Edmondson High
+- Los Pioneros
 topics:
-- construction
 - corporate expansion
 - piracy
-- treasure hunt
-- war
-modern_impact: Community-driven treasure hunt engaging independent pilots.
+player_impact: Pilots who delivered rare goods can collect payment at Edmondson High in Beta Hydri.
+summary: Zachary Rackham's week-long trillionaire celebration concludes, attended by politicians, media figures, and corporate leaders.
+modern_impact: "\"How many of these tried to convince Rackham that running for president was a mistake, and how many offered their support in hopes of future rewards?\" Bryanna Blanco's cynical assessment captured the transactional nature of Rackham's political debut, where corporate spectacle served as a vetting ground for Federal power brokers."
+related_uuids:
+- 540e9121-ef75-51a4-8bb1-80a67a387f47
+- 627f595b-b85f-5e9d-9d4c-9499a93c4487
 legacy_weight: 1
 significance: low
 ---

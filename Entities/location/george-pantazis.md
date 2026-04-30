@@ -7,8 +7,10 @@ last_seen_date: '3308-05-12'
 mention_count: 1
 related_entities:
 - federal-times
-- thargoid
 - beta-hydri
+- upaniklis
+- geras
+- uszaa
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,8 +24,10 @@ Total mentions: **1**
 ## Related
 
 - [[Federal Times]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
 - [[Beta Hydri]] (1 co-mentions)
+- [[Upaniklis]] (1 co-mentions)
+- [[Geras]] (1 co-mentions)
+- [[Uszaa]] (1 co-mentions)
 
 ## Biography
 

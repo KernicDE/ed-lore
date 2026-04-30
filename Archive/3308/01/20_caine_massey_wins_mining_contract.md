@@ -4,18 +4,19 @@ title: Caine-Massey Wins Mining Contract
 slug: caine_massey_wins_mining_contract
 date: '3308-01-20'
 source: API
-groups:
-- ACT
+groups: []
 locations:
 - Dulos
 topics:
 - corporate expansion
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+summary: Caine-Massey retains its mining contract in the Dulos system after a competitive campaign against Torval Mining.
+player_impact: Pilots supported Caine-Massey by delivering mined materials to secure the Dulos contract.
+modern_impact: "\"The Caine-Massey corporation has beaten Torval Mining Ltd to retain a mining contract in the Dulos system.\" Caine-Massey's victory preserves Federal corporate dominance in a region contested by Imperial interests."
 legacy_weight: 2
 significance: low
 ---
+
 
 *Pilots’ Federation ALERT*
 [[The]] Caine-Massey corporation has beaten Torval Mining Ltd to retain a mining contract in the [[Dulos]] system.

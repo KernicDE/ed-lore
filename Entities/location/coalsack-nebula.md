@@ -4,13 +4,13 @@ name: Coalsack Nebula
 type: location
 first_seen_date: '3308-04-13'
 last_seen_date: '3308-11-15'
-mention_count: 4
+mention_count: 5
 related_entities:
-- alliance
-- thargoid
-- coalsack
-- act
 - sirius-corporation
+- alliance
+- witch-head-nebula
+- kandulas-truth
+- siniang
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-04-13**  
 Last mentioned: **3308-11-15**  
-Total mentions: **4**
+Total mentions: **5**
 
 ## Related
 
-- [[Alliance]] (4 co-mentions)
-- [[Thargoid]] (4 co-mentions)
-- [[Coalsack]] (4 co-mentions)
-- [[ACT]] (3 co-mentions)
-- [[Sirius Corporation]] (3 co-mentions)
+- [[Sirius Corporation]] (4 co-mentions)
+- [[Alliance]] (3 co-mentions)
+- [[Witch Head Nebula]] (2 co-mentions)
+- [[Kandula's Truth]] (1 co-mentions)
+- [[Siniang]] (1 co-mentions)
 
 ## Biography
 

@@ -4,18 +4,22 @@ title: Taurus Mining Ventures Operation Concludes
 slug: taurus_mining_ventures_operation_concludes
 date: '3308-04-07'
 source: API
-groups:
-- ACT
+arc_id: null
+persons:
+- Ruben Carpenter
+groups: []
 locations:
 - Heart of Taurus
-- Samples that were provided from other
 - Synuefe
 topics:
 - corporate expansion
 - research
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Pilots were asked to mine and deliver ores to the Synuefe system.
+summary: Taurus Mining Ventures concludes a successful mining and research operation in the Synuefe system.
+modern_impact: "\"To all the pilots who assisted in this endeavour: thank you! Your hard work is greatly appreciated.\" The Taurus Mining Ventures operation in Synuefe later proved to be a cover for Azimuth Biotech's secret Guardian research, contextualising seemingly innocuous corporate initiatives within the broader anti-xeno arms race."
+related_uuids:
+- 3f6b7847-131b-5ba8-ac81-0d61d8b5bff4
 legacy_weight: 2
 significance: low
 ---

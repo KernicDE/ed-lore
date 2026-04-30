@@ -4,18 +4,28 @@ title: Archon Delaine Seeks to Destroy Pirate Rebels
 slug: archon_delaine_seeks_to_destroy_pirate_rebels
 date: '3308-05-19'
 source: API
+arc_id: null
+persons:
+- Archon Delaine
+- Vidar Trask
+- Kay Volantyne
+- Callan Salamanca
 groups:
-- ACT
 - Kumo Crew
 locations:
-- Trask
+- HIP 10792
+- Crimson Exchange
 topics:
 - crime
 - independence
 - piracy
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Independent pilots supporting the Kumo Council can collect rewards from Crimson Exchange in HIP 10792.
+summary: Archon Delaine declares open warfare on the Trask Death Corsairs in the HIP 10792 system.
+modern_impact: "\"Trask has betrayed all of us, and for that I want him crushed!\" Delaine's violent response to the failed coup illustrated the brutal enforcement mechanisms that maintain power within pirate syndicates, where betrayal is met not with negotiation but with extermination."
+related_uuids:
+- 3a22fa67-8900-5bbd-92cc-fe01fce10268
+- fe369dea-273f-5ea5-be3d-af3dffd0d690
 legacy_weight: 2
 significance: low
 ---

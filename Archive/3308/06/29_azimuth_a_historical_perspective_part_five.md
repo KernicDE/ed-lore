@@ -1,42 +1,43 @@
 ---
-uuid: 9ee37bcd-f42f-5081-b852-7c2d11818a40
-title: Azimuth A Historical Perspective (Part Five)
+uuid: 6a7c7b71-6c5c-5c0b-8a5b-3b9f1c0e4b8d
+title: 'Azimuth: A Historical Perspective (Part Five)'
 slug: azimuth_a_historical_perspective_part_five
 date: '3308-06-29'
 source: API
-entities:
+persons:
 - Alba Tesreau
 - Caleb Wycherley
-- Tesreau later revealed that
+- Salvation
 groups:
-- ACT
 - Aegis
 - Alliance
-- Azimuth
-- Azimuth Biochemicals
+- Azimuth Biotech
+- Empire
+- Federation
 - INRA
-- Intergalactic Naval Reserve Arm
-- Salvation
-- Thargoid
+- Taurus Mining Ventures
 locations:
-- Aegis
-- Azimuth
 - DG Canum Venaticorum
-- Guardian
-- Novas and Sosong
-- Thargoid
+- Didio
+- Novas
+- Sosong
 topics:
 - alien contact
 - bioweapon
-- construction
 - corporate expansion
+- investigation
 - research
-- ship
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Part five concludes with the Didio-Novas-Sosong invasions, the INRA base discovery in DG Canum Venaticorum revealing Caleb Wycherley's identity as the Witch, Project Seraph survivor D-2's testimony, and Azimuth Biotech's public resurrection.
+player_impact: Pilots supported the defence of Didio, Novas and Sosong during the simultaneous Thargoid invasions and contributed to superweapon construction.
+modern_impact: The series concluded by exposing how Azimuth's 200-year xenological weapons project had successfully infiltrated superpower military structures, making the corporation indispensable precisely because it had engineered the crises it claimed to solve.
+related_uuids:
+- 0beee1ec-da7a-57db-a67c-3a1f20eb4828
+- 8ff66371-3861-5214-b69f-432b6c200e2b
+- 7f805447-27c2-5fd5-8353-f45f651f911e
+- ec4294f3-fcc8-5a3b-932a-ed2dc3319144
 legacy_weight: 5
 significance: high
 ---

@@ -10,7 +10,7 @@ related_entities:
 - sol
 - alliance
 - imperial-palace
-- zachary-hudson
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **12**
 - [[Sol]] (4 co-mentions)
 - [[Alliance]] (4 co-mentions)
 - [[Imperial Palace]] (4 co-mentions)
-- [[Zachary Hudson]] (3 co-mentions)
+- [[Aegis]] (3 co-mentions)
 
 ## Biography
 

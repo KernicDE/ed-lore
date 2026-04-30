@@ -1,34 +1,35 @@
 ---
 uuid: d506983a-04e6-5b65-8223-92c8cf470399
-title: ‘Operation Wych Hunt’ Opposes Azimuth Biotech
+title: "'Operation Wych Hunt' Opposes Azimuth Biotech"
 slug: operation_wych_hunt_opposes_azimuth_biotech
 date: '3308-06-30'
 source: API
-entities:
+persons:
 - Alba Tesreau
 - Caleb Wycherley
+- Salvation
 groups:
-- ACT
 - Aegis
 - Alliance
-- Azimuth
+- Azimuth Biotech
+- Empire
+- Federation
 - INRA
-- Salvation
-- Thargoid
-locations:
-- Aegis
-- Azimuth
-- Thargoid
+- Pilots Federation
+locations: []
 topics:
 - alien contact
 - bioweapon
 - crime
-- festival
-- research
-- ship
+- investigation
+- war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: A coalition of independent Commanders launches 'Operation Wych Hunt' to destabilise Azimuth Biotech, protesting Salvation's identity as Caleb Wycherley and his involvement in the mycoid bioweapon, Project Seraph, and the Alexandria destruction.
+player_impact: Independent Commanders organised civil actions and combat strikes under 'Operation Wych Hunt' to undermine Azimuth Biotech's presence in multiple systems.
+modern_impact: Operation Wych Hunt represented the first organised pilot resistance to Salvation, exposing how Azimuth's atrocities had generated a grassroots counter-movement even as superpowers doubled down on their alliance with the corporation.
+related_uuids:
+- 6a3fd658-33a2-5409-8ade-90b666edefc5
+- 6d163a8d-7539-5b90-955d-f084b5d63e52
 legacy_weight: 5
 significance: high
 ---

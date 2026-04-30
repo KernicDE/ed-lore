@@ -2,32 +2,32 @@
 id: novas-and-sosong
 name: Novas and Sosong
 type: location
-first_seen_date: '3308-04-21'
-last_seen_date: '3308-12-30'
-mention_count: 8
+first_seen_date: '3308-06-29'
+last_seen_date: '3308-06-29'
+mention_count: 1
 related_entities:
-- salvation
-- thargoid
+- alba-tesreau
+- caleb-wycherley
+- tesreau-later-revealed-that
 - act
-- alliance
-- federal-navy
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Novas and Sosong
 
-First mentioned: **3308-04-21**  
-Last mentioned: **3308-12-30**  
-Total mentions: **8**
+First mentioned: **3308-06-29**  
+Last mentioned: **3308-06-29**  
+Total mentions: **1**
 
 ## Related
 
-- [[Salvation]] (8 co-mentions)
-- [[Thargoid]] (8 co-mentions)
-- [[ACT]] (7 co-mentions)
-- [[Alliance]] (7 co-mentions)
-- [[Federal Navy]] (3 co-mentions)
+- [[Alba Tesreau]] (1 co-mentions)
+- [[Caleb Wycherley]] (1 co-mentions)
+- [[Tesreau later revealed that]] (1 co-mentions)
+- [[ACT]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
 
 ## Biography
 

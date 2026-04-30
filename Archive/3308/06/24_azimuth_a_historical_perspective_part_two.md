@@ -4,39 +4,37 @@ title: 'Azimuth: A Historical Perspective (Part Two)'
 slug: azimuth_a_historical_perspective_part_two
 date: '3308-06-24'
 source: API
+persons:
+- Aden Tanner
+- Salvation
 groups:
-- ACT
 - Aegis
 - Alliance
+- Empire
+- Federation
+- Frontline Solutions
 - INRA
 - NMLA
-- Salvation
-- Thargoid
+- Taurus Mining Ventures
 locations:
-- Aegis
-- Alexandria from
-- Guardian
-- NMLA
-- Sirius
-- Sol
+- Hind Mine
 - T Tauri
-- Thargoid
 topics:
 - alien contact
-- construction
 - corporate expansion
 - diplomacy
 - espionage
 - investigation
 - research
-- ship
-- sport
 - terrorism
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Part two traces Aegis from its 3303 creation through the Alexandria disaster, Admiral Tanner's rogue assault on Hind Mine, and its dissolution following the Baumann Report.
+player_impact: Not specifically mentioned — this is a historical retrospective.
+modern_impact: The retrospective exposed how Aegis's collapse was engineered by Azimuth through the Alexandria sabotage and Salvation's provocations, revealing that the superpowers' primary anti-xeno agency was dismantled to clear the field for a corporate replacement.
+related_uuids:
+- 0beee1ec-da7a-57db-a67c-3a1f20eb4828
 legacy_weight: 5
 significance: high
 ---

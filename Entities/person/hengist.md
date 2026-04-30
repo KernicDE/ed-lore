@@ -3,14 +3,14 @@ id: hengist
 name: Hengist
 type: person
 first_seen_date: '3301-03-12'
-last_seen_date: '3308-10-21'
-mention_count: 6
+last_seen_date: '3307-10-25'
+mention_count: 5
 related_entities:
-- paresa
 - imperial-senate
 - capitol
-- imperial-herald
 - nmla
+- nova-imperium
+- paresa
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Hengist
 
 First mentioned: **3301-03-12**  
-Last mentioned: **3308-10-21**  
-Total mentions: **6**
+Last mentioned: **3307-10-25**  
+Total mentions: **5**
 
 ## Related
 
-- [[Paresa]] (3 co-mentions)
 - [[Imperial Senate]] (2 co-mentions)
 - [[Capitol]] (2 co-mentions)
-- [[Imperial Herald]] (2 co-mentions)
 - [[NMLA]] (2 co-mentions)
+- [[Nova Imperium]] (2 co-mentions)
+- [[Paresa]] (2 co-mentions)
 
 ## Biography
 

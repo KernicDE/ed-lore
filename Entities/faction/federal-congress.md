@@ -8,9 +8,9 @@ mention_count: 31
 related_entities:
 - alliance
 - sol
-- thargoid
 - federal-navy
 - imperial-senate
+- mars
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **31**
 
 - [[Alliance]] (13 co-mentions)
 - [[Sol]] (7 co-mentions)
-- [[Thargoid]] (7 co-mentions)
 - [[Federal Navy]] (6 co-mentions)
 - [[Imperial Senate]] (6 co-mentions)
+- [[Mars]] (4 co-mentions)
 
 ## Biography
 

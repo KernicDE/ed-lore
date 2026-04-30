@@ -4,35 +4,40 @@ title: Ram Tah’s Revelations Halt Court Martial
 slug: ram_tahs_revelations_halt_court_martial
 date: '3308-01-05'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Ram Tah
+- Admiral Tanner
 groups:
-- ACT
 - Aegis
-- Azimuth
 - Azimuth Biochemicals
 - Federal Navy
 - Salvation
-- Thargoid
 locations:
-- Aegis
-- Azimuth
-- Guardian
 - Musashi
-- Ram Tah
-- Thargoid
 topics:
 - alien contact
 - bioweapon
 - crime
 - research
-- safety
-- ship
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Ram Tah's testimony about Salvation's Guardian-based superweapon suspends Admiral Tanner's court martial.
+player_impact: Not specifically mentioned — this is a military justice report.
+modern_impact: "\"These generate a powerful electromagnetic pulse at frequencies which disrupt the Thargoids' bio-mechanical technology.\" Ram Tah's testimony confirms Salvation's superweapon is reverse-engineered from Guardian technology, linking it to Azimuth's centuries-old research."
+related_uuids:
+- f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
+- f9b7776c-60b4-5566-b2ab-bd4835dac0fc
+- 7f67c12a-9831-57d7-bb70-4905b0d58356
+- 549878b8-2793-57d2-a635-57263e082205
+- ec3ee958-bfe7-5236-941e-08b7ac6f4784
+- 634f0a2d-c94e-5c0e-9501-a506ebbde34b
+- 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
+- 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
+- 8f436007-f00f-535c-af52-d16273c91cc0
 legacy_weight: 5
 significance: high
 ---
+
 
 [[The]] military trial of Admiral Aden Tanner has been [[Suspended]] following evidence provided by [[Ram Tah]] as a witness for the defence.
 The [[Federal Navy]] tribunal was called to consider multiple charges – including mutiny – held against Tanner, the chief military liaison to [[Aegis]]. While commanding the [[Musashi]] megaship, he attempted to gain access to Hind Mine station and locate evidence regarding [[Salvation]]’s anti-xeno superweapon.

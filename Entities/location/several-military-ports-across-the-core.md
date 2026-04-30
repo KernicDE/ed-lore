@@ -5,8 +5,6 @@ type: location
 first_seen_date: '3312-04-23'
 last_seen_date: '3312-04-23'
 mention_count: 1
-related_entities:
-- act
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (1 co-mentions)
 
 ## Biography
 

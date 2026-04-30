@@ -4,13 +4,13 @@ name: Federal Times
 type: faction
 first_seen_date: '3301-08-02'
 last_seen_date: '3311-09-22'
-mention_count: 119
+mention_count: 114
 related_entities:
-- act
 - sol
 - alliance
+- imperial-herald
+- federal-security-service
 - aegis
-- thargoid
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-08-02**  
 Last mentioned: **3311-09-22**  
-Total mentions: **119**
+Total mentions: **114**
 
 ## Related
 
-- [[ACT]] (22 co-mentions)
 - [[Sol]] (19 co-mentions)
-- [[Alliance]] (15 co-mentions)
-- [[Aegis]] (12 co-mentions)
-- [[Thargoid]] (12 co-mentions)
+- [[Alliance]] (13 co-mentions)
+- [[Imperial Herald]] (11 co-mentions)
+- [[Federal Security Service]] (10 co-mentions)
+- [[Aegis]] (10 co-mentions)
 
 ## Biography
 

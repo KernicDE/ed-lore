@@ -2,15 +2,25 @@
 uuid: 6efd63d0-0d68-594f-8e75-b0c5df826485
 title: Anti-NMLA Intelligence Unit Formed
 slug: anti_nmla_intelligence_unit_formed
-date: '3307-03-17'
+date: 3307-03-17
 source: API
-entities:
+arc_id: nmla-terrorism
+persons:
+- Alioth
+- Eotienses
+- Gateway
+- Imperial Internal Security Service
+- Kamadhenu
+- Lave
 - Tanya Ramirez
+- The Achenar
+- This
+- Which
+- With
 groups:
 - Alliance
 - Imperial Internal Security Service
 - NMLA
-- Pilots Federation
 locations:
 - Achenar
 - Alioth
@@ -20,12 +30,18 @@ locations:
 - Rhea and Sol
 - Sol
 topics:
-- construction
 - diplomacy
 - terrorism
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
+summary: The Alliance, Empire and Federation have created a centralised agency dedicated to investigating and eliminating the NMLA paramilitary group.
+modern_impact: "\"This atrocity is nothing less than a declaration of war.\" The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates."
+related_uuids:
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- be3889fc-d42f-5494-b1d1-fdd9dcb4223f
+- ba0ab37a-3135-52b4-a668-22e5ef0700b6
+- 07928c21-6ee3-5dbb-b1b5-aa7b041eba5e
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 legacy_weight: 5
 significance: high
 ---

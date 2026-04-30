@@ -4,27 +4,24 @@ title: Materials Delivered for Colonia Bridge Starports
 slug: materials_delivered_for_colonia_bridge_starports
 date: '3308-01-13'
 source: API
+arc_id: null
 groups:
 - Brewer Corporation
-- Bridge
-- Colonia Bridge
 locations:
 - Colonia
 - Jaques Station
-- Jaques Station in the Colonia
-- Macdonald Settlement in the Alcor
+- Macdonald Settlement
 topics:
-- construction
 - corporate expansion
 - engineering
-- ship
 - war
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+summary: Successful material deliveries enable construction of six new starports along the Colonia Bridge route.
+player_impact: Pilots successfully delivered materials enabling construction of new Colonia Bridge starports.
+modern_impact: "\"Once again, we owe a great deal to the pilots who brought us so many vital resources.\" Pilot contributions have permanently reshaped the 22,000-light-year corridor to Colonia, enabling deep-space commerce."
 legacy_weight: 3
 significance: medium
 ---
+
 
 *Pilots’ Federation ALERT*
 [[The]] third phase of [[Brewer Corporation]]’s [[Colonia Bridge]] project has proven successful, [[According to]] a recent announcement.

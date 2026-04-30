@@ -4,28 +4,25 @@ title: Final Week for Colonia Bridge Project
 slug: final_week_for_colonia_bridge_project
 date: '3308-03-03'
 source: API
+arc_id: null
 groups:
 - Brewer Corporation
-- Bridge
-- Colonia Bridge
 locations:
 - Colonia
 - Jaques Station
-- Jaques Station in the Colonia
-- Macdonald Settlement in the Alcor
+- Macdonald Settlement
 topics:
-- construction
 - corporate expansion
 - engineering
 - exploration
-- ship
 - war
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+summary: The final week of deliveries for the Colonia Bridge starport project begins.
+player_impact: Pilots were urged to make final deliveries to complete the Colonia Bridge starports.
+modern_impact: "\"Delivery campaigns in the Alcor and Colonia systems will complete the six starports along the Colonia Bridge.\" The project's conclusion represents a milestone in community-funded deep-space infrastructure."
 legacy_weight: 3
 significance: medium
 ---
+
 
 *Pilots’ Federation ALERT*
 Delivery campaigns in [[The]] [[Alcor and Colonia]] systems will complete the six starports along the [[Colonia Bridge]].

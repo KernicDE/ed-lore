@@ -1,35 +1,29 @@
 ---
-uuid: f63f12d4-93f4-5bdc-8c63-26f107fba702
+uuid: 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
 title: Proteus Wave Approaches Completion
 slug: proteus_wave_approaches_completion
 date: '3308-07-21'
 source: API
-groups:
-- ACT
-- Azimuth
-- Federal Navy
-- Imperial Navy
+persons:
 - Salvation
-- Thargoid
+groups:
+- Alliance
+- Azimuth Biotech
+- Empire
+- Federation
 locations:
-- Azimuth
-- Bright Sentinel
-- Guardian
 - HIP 22460
-- Musashi
-- Pleiades Sector
-- Thargoid
-- Thargoid presence in the HIP 22460
-- Thargoids out of the core
 topics:
 - alien contact
 - engineering
-- ship
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Salvation announces the Proteus Wave core mechanism will be fully constructed in one week, with new Federal and Imperial capital ships arriving in HIP 22460 to defend against escalating Thargoid forces.
+player_impact: Not specifically mentioned — this is a strategic announcement.
+modern_impact: Salvation's claim that the Proteus Wave would drive the Thargoids out of the core systems forever set impossibly high expectations, making the eventual catastrophic failure all the more devastating for human morale.
+related_uuids:
+- 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
 legacy_weight: 5
 significance: high
 ---

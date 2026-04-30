@@ -2,22 +2,36 @@
 uuid: 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 title: New Federal Vice President Selected
 slug: new_federal_vice_president_selected
-date: '3307-03-24'
+date: 3307-03-24
 source: API
-entities:
+arc_id: nmla-terrorism
+persons:
+- Brad Mitchell
+- Jerome Archer
+- Our
+- President Zachary Hudson
+- Run
 - Selected
+- This
+- With
 - Zachary Hudson
 groups:
 - Federal Navy
 - NMLA
 locations:
-- Sol
+  - Sol
 topics:
-- construction
-- terrorism
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+  - terrorism
+player_impact: Pilots followed these developments through GalNet reports.
+summary: President Zachary Hudson has announced that The new vice president of the Federation is Jerome Archer, replacing the deceased Brad Mitchell.
+modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+related_uuids:
+- be3889fc-d42f-5494-b1d1-fdd9dcb4223f
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 67932c1d-fed0-5cc2-b9a2-8aededff61c3
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 legacy_weight: 5
 significance: high
 ---

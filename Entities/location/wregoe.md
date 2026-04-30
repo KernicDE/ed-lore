@@ -4,13 +4,13 @@ name: Wregoe
 type: location
 first_seen_date: '3308-01-22'
 last_seen_date: '3309-08-31'
-mention_count: 8
+mention_count: 7
 related_entities:
-- act
-- thargoid
 - aegis
-- azimuth
 - azimuth-biochemicals
+- holloway-bioscience-institute
+- wregoe-tc-x-b29-0
+- hip-22460
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-01-22**  
 Last mentioned: **3309-08-31**  
-Total mentions: **8**
+Total mentions: **7**
 
 ## Related
 
-- [[ACT]] (8 co-mentions)
-- [[Thargoid]] (8 co-mentions)
-- [[Aegis]] (7 co-mentions)
-- [[Azimuth]] (4 co-mentions)
+- [[Aegis]] (4 co-mentions)
 - [[Azimuth Biochemicals]] (3 co-mentions)
+- [[Holloway Bioscience Institute]] (3 co-mentions)
+- [[Wregoe TC-X B29-0]] (2 co-mentions)
+- [[HIP 22460]] (1 co-mentions)
 
 ## Biography
 

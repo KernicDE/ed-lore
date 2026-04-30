@@ -4,18 +4,26 @@ title: Criminals Crushed by Federal Campaign
 slug: criminals_crushed_by_federal_campaign
 date: '3308-07-21'
 source: API
-entities:
+arc_id: null
+persons:
 - Faisal Sacranie
-- Jerome Archer gave
+- Jerome Archer
+- Oberon Church
+entities: []
 groups:
-- ACT
+- Federal Intelligence Agency
 - Federal Times
-locations:
-- Jupiter
+locations: []
 topics:
 - crime
 - espionage
-modern_impact: GalNet community report documenting current events in the galaxy.
+player_impact: Independent pilots helped eliminate Red Family felons and collect bounty vouchers at Bosch Station.
+summary: The FIA confirms the capture of Oberon Church and the effective destruction of the Red Family crime syndicate in Andowatye.
+modern_impact: "Vice President Jerome Archer's claim that 'the Proactive Detection Bureau's ability to unearth enemies of the Federation remains unparalleled' politicized the victory as validation for mass surveillance policies he championed."
+related_uuids:
+- bbc309bf-14a0-5e8f-97eb-ee99cf16abe7
+- 2a2d4398-fbc8-577c-a521-33ce19f4a8db
+- 91f01606-6754-57ec-afc2-a9ef962abe98
 legacy_weight: 2
 significance: low
 ---

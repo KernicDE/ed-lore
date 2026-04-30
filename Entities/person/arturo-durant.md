@@ -3,12 +3,8 @@ id: arturo-durant
 name: Arturo Durant
 type: person
 first_seen_date: '3308-05-02'
-last_seen_date: '3308-05-02'
-mention_count: 1
-related_entities:
-- imperial-herald
-- marlinist
-- thargoid
+last_seen_date: '3309-03-06'
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
@@ -16,14 +12,11 @@ related_entities:
 # Arturo Durant
 
 First mentioned: **3308-05-02**  
-Last mentioned: **3308-05-02**  
-Total mentions: **1**
+Last mentioned: **3309-03-06**  
+Total mentions: **2**
 
 ## Related
 
-- [[Imperial Herald]] (1 co-mentions)
-- [[Marlinist]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
 
 ## Biography
 

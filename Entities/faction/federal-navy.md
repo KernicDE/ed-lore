@@ -4,13 +4,13 @@ name: Federal Navy
 type: faction
 first_seen_date: '3301-02-13'
 last_seen_date: '3312-02-20'
-mention_count: 131
+mention_count: 132
 related_entities:
-- thargoid
-- act
-- alliance
 - imperial-navy
-- salvation
+- alliance
+- aegis
+- hip-22460
+- core-dynamics
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-02-13**  
 Last mentioned: **3312-02-20**  
-Total mentions: **131**
+Total mentions: **132**
 
 ## Related
 
-- [[Thargoid]] (37 co-mentions)
-- [[ACT]] (36 co-mentions)
-- [[Alliance]] (27 co-mentions)
-- [[Imperial Navy]] (23 co-mentions)
-- [[Salvation]] (21 co-mentions)
+- [[Imperial Navy]] (24 co-mentions)
+- [[Alliance]] (22 co-mentions)
+- [[Aegis]] (19 co-mentions)
+- [[HIP 22460]] (18 co-mentions)
+- [[Core Dynamics]] (15 co-mentions)
 
 ## Biography
 

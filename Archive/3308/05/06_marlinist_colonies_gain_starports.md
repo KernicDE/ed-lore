@@ -4,24 +4,27 @@ title: Marlinist Colonies Gain Starports
 slug: marlinist_colonies_gain_starports
 date: '3308-05-06'
 source: API
+arc_id: null
+persons: []
 groups:
 - Alliance
 - Marlinist
-- Sirius Corp
 - Sirius Corporation
 locations:
-- Hyades
-- Hyades Sector
-- Sirius
+- Hyades Sector SU-C a14-1
+- Hyades Sector LX-T c3-30
+- Fairfax Legacy
+- Ackwada Monument
 topics:
-- construction
 - corporate expansion
 - diplomacy
 - humanitarian
-- ship
-arc_id: marlinist-refugee
-modern_impact: The Marlinist refugee crisis forces the Federation and Alliance to
-  confront humanitarian obligations while managing security risks.
+player_impact: Not specifically mentioned — this is an infrastructure report.
+summary: Two new starports become operational in the Marlinist Colonies following last month's delivery initiative.
+modern_impact: "\"The Marlinist Parliament welcomed the new starports, stating that they 'will lay strong foundations for increased commerce with the interstellar community'.\" The rapid addition of orbital infrastructure demonstrated the colonies' successful transformation from emergency refugee settlements into a functioning interstellar polity capable of sustained economic development."
+related_uuids:
+- 83fbe8c3-9336-5b74-9642-fe0db6fd785b
+- 63e625ea-c34e-5fca-8183-81928f3e7f7d
 legacy_weight: 4
 significance: high
 ---

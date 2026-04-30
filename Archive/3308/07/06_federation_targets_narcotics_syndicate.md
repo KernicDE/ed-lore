@@ -4,21 +4,27 @@ title: Federation Targets Narcotics Syndicate
 slug: federation_targets_narcotics_syndicate
 date: '3308-07-06'
 source: API
+arc_id: nmla-terrorism
+persons:
+- Bethany Blake
+- Oberon Church
 groups:
-- ACT
+- Federal Intelligence Agency
 - Federal Times
 - NMLA
-locations:
-- NMLA
+- Red Family
+locations: []
 topics:
 - crime
 - espionage
 - narcotics
-- ship
 - terrorism
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: No direct pilot action requested; article reports on an FIA crackdown against the Red Family syndicate.
+summary: The Federal Intelligence Agency launches a multi-system crackdown against the Red Family narcotics syndicate using Proactive Detection Bureau intelligence.
+modern_impact: "Deputy Director Bethany Blake stated that 'the Proactive Detection Bureau monitors all communications within the Federation,' a chilling admission that reveals how surveillance infrastructure established to combat the NMLA was rapidly repurposed for conventional law enforcement."
+related_uuids:
+- 2a2d4398-fbc8-577c-a521-33ce19f4a8db
+- f187baed-de66-5f1a-8713-699d8eac4cbd
 legacy_weight: 5
 significance: high
 ---

@@ -3,8 +3,8 @@ id: lori-jameson
 name: Lori Jameson
 type: location
 first_seen_date: '3304-06-16'
-last_seen_date: '3308-11-11'
-mention_count: 4
+last_seen_date: '3306-12-17'
+mention_count: 3
 related_entities:
 - alliance
 - tanya-ramirez
@@ -18,8 +18,8 @@ related_entities:
 # Lori Jameson
 
 First mentioned: **3304-06-16**  
-Last mentioned: **3308-11-11**  
-Total mentions: **4**
+Last mentioned: **3306-12-17**  
+Total mentions: **3**
 
 ## Related
 

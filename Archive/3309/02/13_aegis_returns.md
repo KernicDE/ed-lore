@@ -16,7 +16,6 @@ persons:
 - Petra Olmanova
 groups:
 - Aegis
-- Affiliated Counter-Terrorism unit
 - Alliance
 - Empire
 - Federation

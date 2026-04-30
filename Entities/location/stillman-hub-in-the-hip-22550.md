@@ -7,7 +7,6 @@ last_seen_date: '3307-01-14'
 mention_count: 1
 related_entities:
 - marlinist
-- pilots-federation
 - sirius-corporation
 - universal-cartographics
 - as-this
@@ -24,7 +23,6 @@ Total mentions: **1**
 ## Related
 
 - [[Marlinist]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 - [[Sirius Corporation]] (1 co-mentions)
 - [[Universal Cartographics]] (1 co-mentions)
 - [[As this]] (1 co-mentions)

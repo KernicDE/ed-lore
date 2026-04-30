@@ -4,28 +4,24 @@ title: Colonia Bridge Project Enters Final Phase
 slug: colonia_bridge_project_enters_final_phase
 date: '3308-02-10'
 source: API
+arc_id: null
 groups:
-- ACT
 - Brewer Corporation
-- Bridge
-- Colonia Bridge
 - Universal Cartographics
 locations:
 - Colonia
 - Jaques Station
-- Jaques Station in the Colonia
 topics:
-- construction
 - corporate expansion
 - exploration
-- trade
 - war
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+summary: The Colonia Bridge project enters its final phase with deliveries requested for new starport services.
+player_impact: Pilots were requested to deliver goods to Alcor and Colonia for new starport services.
+modern_impact: "\"Deliveries have been requested in the Alcor and Colonia systems to implement services to the Colonia Bridge starports.\" The project's final phase demonstrates how sustained pilot collaboration can build permanent infrastructure across interstellar distances."
 legacy_weight: 3
 significance: medium
 ---
+
 
 *Pilots’ Federation ALERT*
 Deliveries have been requested in [[The]] [[Alcor and Colonia]] systems to implement services to the [[Colonia Bridge]] starports.

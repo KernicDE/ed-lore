@@ -1,33 +1,30 @@
 ---
 uuid: 09bf0b89-95eb-572c-97eb-a94634287f81
-title: 'Sirius Corporation Ejected from Reorte '
+title: Sirius Corporation Ejected from Reorte 
 slug: sirius_corporation_ejected_from_reorte
 date: '3308-02-03'
 source: API
+arc_id: null
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
 - Alioth
 - Leesti
 - Reorte
 - Rhea
 - Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
-- ship
 - war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+summary: The Reorte Mining Coalition succeeds in forcing Sirius Corporation to withdraw from the Reorte system.
+player_impact: Pilots fought for the Reorte Mining Coalition to drive Sirius Corporation from the system.
+modern_impact: "\"The Reorte Mining Coalition has succeeded in forcing Sirius Corporation to withdraw from the Reorte system.\" Reorte's expulsion of Sirius Corporation sets a precedent for Alliance systems rejecting unwanted corporate partnerships."
 legacy_weight: 5
 significance: high
 ---
+
 
 *Pilots’ Federation ALERT*
 [[The Reorte]] Mining Coalition has succeeded in forcing [[Sirius Corporation]] to withdraw from [[The]] [[Reorte]] system.

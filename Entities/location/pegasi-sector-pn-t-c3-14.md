@@ -6,11 +6,9 @@ first_seen_date: '3308-05-24'
 last_seen_date: '3308-05-24'
 mention_count: 1
 related_entities:
-- act
 - kumo-crew
-- october
 - onionhead
-- pegasi
+- kumo-city
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +21,9 @@ Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (1 co-mentions)
 - [[Kumo Crew]] (1 co-mentions)
-- [[October]] (1 co-mentions)
 - [[Onionhead]] (1 co-mentions)
-- [[Pegasi]] (1 co-mentions)
+- [[Kumo City]] (1 co-mentions)
 
 ## Biography
 

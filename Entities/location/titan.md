@@ -3,14 +3,14 @@ id: titan
 name: Titan
 type: location
 first_seen_date: '3303-04-17'
-last_seen_date: '3311-06-03'
-mention_count: 25
+last_seen_date: '3303-12-21'
+mention_count: 5
 related_entities:
+- taygeta
 - aegis
-- thargoid
-- act
-- maelstrom
-- alba-tesreau
+- oracle
+- sol
+- tionisla
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Titan
 
 First mentioned: **3303-04-17**  
-Last mentioned: **3311-06-03**  
-Total mentions: **25**
+Last mentioned: **3303-12-21**  
+Total mentions: **5**
 
 ## Related
 
-- [[Aegis]] (22 co-mentions)
-- [[Thargoid]] (20 co-mentions)
-- [[ACT]] (19 co-mentions)
-- [[Maelstrom]] (8 co-mentions)
-- [[Alba Tesreau]] (7 co-mentions)
+- [[Taygeta]] (4 co-mentions)
+- [[Aegis]] (3 co-mentions)
+- [[Oracle]] (2 co-mentions)
+- [[Sol]] (1 co-mentions)
+- [[Tionisla]] (1 co-mentions)
 
 ## Biography
 

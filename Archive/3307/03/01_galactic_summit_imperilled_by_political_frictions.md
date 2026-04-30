@@ -2,11 +2,17 @@
 uuid: 5140542a-1be3-56a9-a558-8224ef317bf7
 title: Galactic Summit Imperilled by Political Frictions
 slug: galactic_summit_imperilled_by_political_frictions
-date: '3307-03-01'
+date: 3307-03-01
 source: API
-entities:
-- Hudson easily dealt
-- Mahon exaggerating
+arc_id: null
+persons:
+- Achenar
+- Felicia Winters
+- Its
+- Sol
+- This
+- Which
+- With
 groups:
 - Alliance
 - Federal Times
@@ -23,13 +29,19 @@ topics:
 - corporate expansion
 - diplomacy
 - humanitarian
-- ship
 - succession
 - terrorism
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: Delegates at The diplomatic conference have clashed over long-standing political issues, With some threatening to abandon the event.
+modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+related_uuids:
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- aa81f947-721e-52c8-a91e-906bf41c62b8
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
+- 9243011a-ed83-592c-9dcd-6cefc68679cf
 legacy_weight: 5
 significance: high
 ---

@@ -1,33 +1,33 @@
 ---
 id: marlinist-refugee
 name: Marlinist Refugee
-first_seen_date: '3307-01-01'
-last_seen_date: '3308-05-06'
-mention_count: 8
+first_seen_date: '3307-06-15'
+last_seen_date: '3307-06-15'
+mention_count: 1
 significance: medium
 key_entities:
-- marlinist
+- li-yong-rui
 - alliance
+- kumo-crew
+- marlinist
 - sirius-corporation
-- act
-- federal-congress
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Marlinist Refugee
 
-First seen: **3307-01-01**  
-Last seen: **3308-05-06**  
-Articles: **8**
+First seen: **3307-06-15**  
+Last seen: **3307-06-15**  
+Articles: **1**
 
 ## Key Figures
 
-- [[Marlinist]] (8 mentions)
-- [[Alliance]] (5 mentions)
-- [[Sirius Corporation]] (4 mentions)
-- [[ACT]] (3 mentions)
-- [[Federal Congress]] (1 mentions)
+- [[Li Yong-Rui]] (1 mentions)
+- [[Alliance]] (1 mentions)
+- [[Kumo Crew]] (1 mentions)
+- [[Marlinist]] (1 mentions)
+- [[Sirius Corporation]] (1 mentions)
 
 ## Description
 

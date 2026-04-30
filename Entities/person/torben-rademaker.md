@@ -2,32 +2,21 @@
 id: torben-rademaker
 name: Torben Rademaker
 type: person
-first_seen_date: '3309-01-03'
-last_seen_date: '3309-04-28'
-mention_count: 2
-related_entities:
-- act
-- aegis
-- azimuth
-- salvation
-- thargoid
+first_seen_date: '3308-07-25'
+last_seen_date: '3310-10-21'
+mention_count: 23
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Torben Rademaker
 
-First mentioned: **3309-01-03**  
-Last mentioned: **3309-04-28**  
-Total mentions: **2**
+First mentioned: **3308-07-25**  
+Last mentioned: **3310-10-21**  
+Total mentions: **23**
 
 ## Related
 
-- [[ACT]] (2 co-mentions)
-- [[Aegis]] (2 co-mentions)
-- [[Azimuth]] (2 co-mentions)
-- [[Salvation]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
 
 ## Biography
 

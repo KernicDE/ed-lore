@@ -4,30 +4,30 @@ title: Sirius Defends Alliance Territory
 slug: sirius_defends_alliance_territory
 date: '3308-04-13'
 source: API
+arc_id: thargoid-titan-war
+persons:
+- Nikolas Glass
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Coalsack
 - Coalsack Nebula
-- Coalsack Sector
-- Kandula's Truth in the Siniang
-- Li Chyou Winds in the Onoros
+- Kandula's Truth
+- Siniang
+- Li Chyou Winds
+- Onoros
 - Sirius
-- Thargoid
-- Witch Head
 - Witch Head Nebula
 topics:
 - alien contact
 - corporate expansion
 - engineering
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots were invited to use Sirius megaships as bases for anti-xeno operations.
+summary: Sirius Corporation deploys megaships to the Coalsack and Witch Head Nebulas to provide anti-xeno support for the Alliance.
+modern_impact: "\"The Coalsack Nebula and Witch Head Nebula regions are where Alliance interests are most at risk from Thargoid attack.\" Sirius Corporation's deployment demonstrated its military capabilities during the trial period of the Alliance strategic defence pact, foreshadowing the deepening corporate-military entanglement in Allied space."
+related_uuids:
+- b391da8e-90b1-55d8-88e0-8ad93ae52300
+- 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
 legacy_weight: 5
 significance: high
 ---

@@ -3,14 +3,14 @@ id: intergalactic-naval-reserve-arm
 name: Intergalactic Naval Reserve Arm
 type: faction
 first_seen_date: '3304-04-28'
-last_seen_date: '3308-06-29'
-mention_count: 3
+last_seen_date: '3308-05-30'
+mention_count: 2
 related_entities:
 - inra
+- nestor-cartesius
+- oskar-kincaid
 - alliance
-- alba-tesreau
-- act
-- aegis
+- iiss
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Intergalactic Naval Reserve Arm
 
 First mentioned: **3304-04-28**  
-Last mentioned: **3308-06-29**  
-Total mentions: **3**
+Last mentioned: **3308-05-30**  
+Total mentions: **2**
 
 ## Related
 
-- [[INRA]] (3 co-mentions)
-- [[Alliance]] (2 co-mentions)
-- [[Alba Tesreau]] (2 co-mentions)
-- [[ACT]] (2 co-mentions)
-- [[Aegis]] (2 co-mentions)
+- [[INRA]] (2 co-mentions)
+- [[Nestor Cartesius]] (1 co-mentions)
+- [[Oskar Kincaid]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[IISS]] (1 co-mentions)
 
 ## Biography
 

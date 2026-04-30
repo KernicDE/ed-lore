@@ -4,24 +4,33 @@ title: Thargoids Raid Nebula Colony
 slug: thargoids_raid_nebula_colony
 date: '3308-10-27'
 source: API
+arc_id: null
+persons:
+- Harrison Gladstone
 groups:
-- ACT
 - Alliance
 - Kumo Crew
-- Thargoid
 locations:
 - California Nebula
 - California Sector
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - research
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
+summary: The human enclave within the California Nebula has reported multiple attacks
+  from Thargoid forces.
+modern_impact: '"We’re accustomed to the Thargoid encounters in the California nebula,
+  but this time their aggression caught everyone ..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- 005ebf22-d1c0-50cd-ae57-373efc6bdcde
+- f2680020-36ae-554f-ae92-3a367a9f1d23
+- d8b14f7a-0b22-5f2d-a164-45b74638e864
+- bd5a1074-4db4-556d-bd6d-4207d963ce10
+- 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
 legacy_weight: 5
 significance: high
 ---

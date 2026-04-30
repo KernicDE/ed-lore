@@ -4,34 +4,38 @@ title: Superpowers Commit to Salvation
 slug: superpowers_commit_to_salvation
 date: '3308-08-02'
 source: API
-entities:
-- Tesreau remains
+persons:
+- Alba Tesreau
+- Arissa Lavigny-Duval
+- Edmund Mahon
+- Torben Rademaker
+- Zachary Hudson
 groups:
 - Alliance
-- Azimuth
+- Azimuth Biotech
+- Empire
+- Federation
 - Imperial Senate
-- Salvation
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
 - Achenar
-- Azimuth
+- Eta Cassiopeiae
 - HIP 22460
-- Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - crime
+- politics
 - research
 - scandal
-- ship
 - succession
 - war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: The leaders of the Alliance, Empire and Federation publicly confirm their support for Azimuth Biotech's Proteus Wave operation in HIP 22460, dismissing accusations of criminality while deploying capital ships to defend the project.
+player_impact: Not specifically mentioned — this is a political report.
+modern_impact: The superpowers' unified endorsement of Salvation cemented Azimuth's position as a legitimate military contractor, with Emperor Arissa's promise of a post-victory review serving as the only fig leaf of accountability.
+related_uuids:
+- 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
 legacy_weight: 5
 significance: high
 ---

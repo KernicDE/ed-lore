@@ -4,13 +4,13 @@ name: Jasmina Halsey
 type: person
 first_seen_date: '3301-04-07'
 last_seen_date: '3307-07-12'
-mention_count: 14
+mention_count: 9
 related_entities:
 - federal-navy
 - alliance
-- federal-times
-- mars
-- felicia-winters
+- halsey-addresses-accusations
+- hudsons-campaign
+- halsey-welcomes-any-opportunity
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-04-07**  
 Last mentioned: **3307-07-12**  
-Total mentions: **14**
+Total mentions: **9**
 
 ## Related
 
-- [[Federal Navy]] (5 co-mentions)
-- [[Alliance]] (5 co-mentions)
-- [[Federal Times]] (4 co-mentions)
-- [[Mars]] (3 co-mentions)
-- [[Felicia Winters]] (2 co-mentions)
+- [[Federal Navy]] (3 co-mentions)
+- [[Alliance]] (2 co-mentions)
+- [[Halsey Addresses Accusations]] (1 co-mentions)
+- [[Hudson's campaign]] (1 co-mentions)
+- [[Halsey welcomes any opportunity]] (1 co-mentions)
 
 ## Biography
 

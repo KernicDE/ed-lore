@@ -4,28 +4,25 @@ title: Reorte Resists Sirius Corporation
 slug: reorte_resists_sirius_corporation
 date: '3308-01-24'
 source: API
+arc_id: null
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Many Allied
+- Allied
 - Reorte
 - Rhea
 - Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: The Reorte Mining Coalition challenges Sirius Corporation's presence in the Reorte system.
+player_impact: Not specifically mentioned — this is a political report.
+modern_impact: "\"The presence of Sirius Corporation in the Reorte system at the Alliance's invitation has been challenged by the controlling faction.\" Local resistance in Reorte exposes the tension between Alliance foreign policy and system-level sovereignty."
 legacy_weight: 4
 significance: high
 ---
+
 
 [[The]] presence of [[Sirius Corporation]] in [[The Reorte]] system at the [[Alliance]]’s invitation has been challenged by the controlling faction.
 In [[Its]] new role as a strategic defence partner, Sirius Corporation recently established itself in [[Several]] Alliance systems. But its megaship in [[Reorte]], Chariot of [[Rhea]], has [[Found]] itself blockaded by system security and refused permission to offload cargo or personnel.

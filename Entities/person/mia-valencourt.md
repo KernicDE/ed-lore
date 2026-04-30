@@ -3,8 +3,8 @@ id: mia-valencourt
 name: Mia Valencourt
 type: person
 first_seen_date: '3304-06-03'
-last_seen_date: '3308-10-03'
-mention_count: 2
+last_seen_date: '3304-06-03'
+mention_count: 1
 related_entities:
 - alba-tesreau
 - aegis
@@ -18,13 +18,13 @@ related_entities:
 # Mia Valencourt
 
 First mentioned: **3304-06-03**  
-Last mentioned: **3308-10-03**  
-Total mentions: **2**
+Last mentioned: **3304-06-03**  
+Total mentions: **1**
 
 ## Related
 
-- [[Alba Tesreau]] (2 co-mentions)
-- [[Aegis]] (2 co-mentions)
+- [[Alba Tesreau]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
 - [[Pilots Federation]] (1 co-mentions)
 - [[Pleiades Nebula]] (1 co-mentions)
 - [[Socho]] (1 co-mentions)

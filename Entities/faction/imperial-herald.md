@@ -9,8 +9,8 @@ related_entities:
 - alliance
 - achenar
 - aegis
-- nmla
 - paresa
+- nmla
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **79**
 
 ## Related
 
-- [[Alliance]] (18 co-mentions)
+- [[Alliance]] (17 co-mentions)
 - [[Achenar]] (14 co-mentions)
-- [[Aegis]] (14 co-mentions)
-- [[NMLA]] (14 co-mentions)
+- [[Aegis]] (13 co-mentions)
 - [[Paresa]] (12 co-mentions)
+- [[NMLA]] (12 co-mentions)
 
 ## Biography
 

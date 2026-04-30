@@ -4,29 +4,33 @@ title: Taranis Unleashes Thargoid Invasion Fleets
 slug: taranis_unleashes_thargoid_invasion_fleets
 date: '3308-11-29'
 source: API
-entities:
-- Palin
+arc_id: null
+persons:
+- Ishmael Palin
+- Rachel Ziegler
 - Remy Leroux
 groups:
-- ACT
 - Alliance
 - Federal Navy
-- Thargoid
 locations:
 - Hyades
 - Hyades Sector
 - Hyades Sector FB-N b7-6
-- Multiple inhabited
-- Professor Palin
-- Several
-- Thargoid
 topics:
 - alien contact
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
+summary: The Taranis anomaly has arrived in Hyades Sector FB-N b7-6, triggering a
+  ferocious wave of Thargoid attacks in the region.
+modern_impact: '"not a single object but a colossal swirling maelstrom of some kind"
+  Taranis heralded a new phase of total war that humanity was ill-prepared to resist.'
+related_uuids:
+- d8b14f7a-0b22-5f2d-a164-45b74638e864
+- f052748e-b6ee-52c8-9657-75e06d0e3612
+- d9c25fb2-563a-5af4-ac33-6f60c406b5a5
+- cbe79040-1b75-50b1-9aad-bc544ff2b6be
+- b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 legacy_weight: 5
 significance: high
 ---

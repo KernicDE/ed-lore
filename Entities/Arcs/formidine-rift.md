@@ -2,8 +2,8 @@
 id: formidine-rift
 name: Formidine Rift
 first_seen_date: '3305-08-22'
-last_seen_date: '3308-07-11'
-mention_count: 7
+last_seen_date: '3307-10-28'
+mention_count: 6
 significance: medium
 key_entities:
 - mastopolos-mining
@@ -18,8 +18,8 @@ key_entities:
 # Formidine Rift
 
 First seen: **3305-08-22**  
-Last seen: **3308-07-11**  
-Articles: **7**
+Last seen: **3307-10-28**  
+Articles: **6**
 
 ## Key Figures
 

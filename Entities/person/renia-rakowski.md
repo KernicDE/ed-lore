@@ -2,32 +2,21 @@
 id: renia-rakowski
 name: Renia Rakowski
 type: person
-first_seen_date: '3309-08-17'
+first_seen_date: '3309-08-14'
 last_seen_date: '3309-08-17'
-mention_count: 1
-related_entities:
-- jeong-hui-shin-gave
-- act
-- aegis
-- azimuth
-- azimuth-biochemicals
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Renia Rakowski
 
-First mentioned: **3309-08-17**  
+First mentioned: **3309-08-14**  
 Last mentioned: **3309-08-17**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Jeong-Hui Shin gave]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
-- [[Aegis]] (1 co-mentions)
-- [[Azimuth]] (1 co-mentions)
-- [[Azimuth Biochemicals]] (1 co-mentions)
 
 ## Biography
 

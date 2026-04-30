@@ -4,19 +4,22 @@ title: Thargoid Warpath May Threaten Marlinists
 slug: thargoid_warpath_may_threaten_marlinists
 date: '3308-05-02'
 source: API
-entities:
+arc_id: thargoid-titan-war
+persons:
 - Arturo Durant
+- Octavia Volkov
 groups:
 - Imperial Herald
 - Marlinist
-- Thargoid
-locations:
-- Thargoid
+locations: []
 topics:
 - alien contact
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Not specifically mentioned — this is a political report.
+summary: Senator Arturo Durant argues the Marlinist Colonies should have accepted Imperial protectorate status for protection against the Thargoids.
+modern_impact: "\"The proximity of the Thargoids is an ever-present concern, and it's true that we do lack a dedicated navy.\" The Senate debate over Marlinist vulnerability exposed how Thargoid advances were being weaponised in political arguments, with Imperial senators using alien threat to argue for reabsorption of the breakaway colonies."
+related_uuids:
+- c8ab379b-af61-5fb9-8a8e-ca754524ddb7
+- 591b8cea-0c09-5ade-925e-ef43b8011c1e
 legacy_weight: 4
 significance: high
 ---

@@ -4,25 +4,33 @@ title: Winters Condemns Oppression of Thargoid Cult
 slug: winters_condemns_oppression_of_thargoid_cult
 date: '3308-10-10'
 source: API
-entities:
-- Felicia Winters delivered
+arc_id: null
+persons:
+- Alfred Ulyanov
+- Felicia Winters
+- President Hudson
 groups:
-- ACT
 - Federal Navy
 - Federal Times
-- Shadow President
-- Thargoid
 locations:
 - Sol
-- Thargoid
 topics:
 - alien contact
 - espionage
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
+summary: The Popontia conflict and the mass arrest of Far God cultists have received
+  civil and political criticism across the Federation.
+modern_impact: '"It is logical that any organisation supporting the Thargoids should
+  come under scrutiny. But this does not justify th..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- f052748e-b6ee-52c8-9657-75e06d0e3612
+- d8b14f7a-0b22-5f2d-a164-45b74638e864
+- cbe79040-1b75-50b1-9aad-bc544ff2b6be
+- ae551de7-6ccc-55b7-a142-8e77ac721dce
+- 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 legacy_weight: 5
 significance: high
 ---

@@ -2,32 +2,32 @@
 id: dg-canum-venaticorum
 name: DG Canum Venaticorum
 type: location
-first_seen_date: '3308-06-14'
+first_seen_date: '3308-05-30'
 last_seen_date: '3308-06-29'
-mention_count: 2
+mention_count: 6
 related_entities:
-- act
+- inra
 - aegis
-- alliance
-- azimuth
 - azimuth-biochemicals
+- alliance
+- empire
 ---
 
 <!-- AUTO-GENERATED -->
 
 # DG Canum Venaticorum
 
-First mentioned: **3308-06-14**  
+First mentioned: **3308-05-30**  
 Last mentioned: **3308-06-29**  
-Total mentions: **2**
+Total mentions: **6**
 
 ## Related
 
-- [[ACT]] (2 co-mentions)
-- [[Aegis]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
-- [[Azimuth]] (2 co-mentions)
-- [[Azimuth Biochemicals]] (2 co-mentions)
+- [[INRA]] (6 co-mentions)
+- [[Aegis]] (5 co-mentions)
+- [[Azimuth Biochemicals]] (4 co-mentions)
+- [[Alliance]] (4 co-mentions)
+- [[Empire]] (4 co-mentions)
 
 ## Biography
 

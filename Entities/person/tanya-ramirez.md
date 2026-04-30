@@ -4,13 +4,13 @@ name: Tanya Ramirez
 type: person
 first_seen_date: '3304-05-24'
 last_seen_date: '3307-11-08'
-mention_count: 9
+mention_count: 7
 related_entities:
-- imperial-internal-security-service
-- nmla
 - inra
-- pilots-federation
 - alliance
+- imperial-internal-security-service
+- marlinist
+- nmla
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3304-05-24**  
 Last mentioned: **3307-11-08**  
-Total mentions: **9**
+Total mentions: **7**
 
 ## Related
 
-- [[Imperial Internal Security Service]] (4 co-mentions)
-- [[NMLA]] (4 co-mentions)
 - [[INRA]] (3 co-mentions)
-- [[Pilots Federation]] (3 co-mentions)
-- [[Alliance]] (3 co-mentions)
+- [[Alliance]] (2 co-mentions)
+- [[Imperial Internal Security Service]] (2 co-mentions)
+- [[Marlinist]] (2 co-mentions)
+- [[NMLA]] (2 co-mentions)
 
 ## Biography
 

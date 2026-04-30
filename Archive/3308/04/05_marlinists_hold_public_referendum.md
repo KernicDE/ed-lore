@@ -4,22 +4,23 @@ title: Marlinists Hold Public Referendum
 slug: marlinists_hold_public_referendum
 date: '3308-04-05'
 source: API
-entities:
-- Arissa
+arc_id: nmla-terrorism
+persons:
+- Arissa Lavigny-Duval
+- Octavia Volkov
 groups:
-- ACT
 - Marlinist
 - NMLA
-locations:
-- NMLA
+locations: []
 topics:
-- construction
 - humanitarian
 - succession
-- trade
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: Not specifically mentioned — this is a political report.
+summary: The Marlinist Colonies hold a public referendum on whether to accept Emperor Arissa's offer to become an Imperial protectorate.
+modern_impact: "\"Whatever the outcome, First Minister Octavia Volkov's swift decision to put this issue to a referendum is a splendid example of Marlinism in action.\" The referendum underscores the lasting political fallout from the NMLA's campaign and the Empire's struggle to reintegrate Marlinist refugees."
+related_uuids:
+- 591b8cea-0c09-5ade-925e-ef43b8011c1e
+- 449ee55c-8f28-5145-acc4-604f8d8b9b68
 legacy_weight: 5
 significance: high
 ---

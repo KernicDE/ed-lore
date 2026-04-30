@@ -30,7 +30,8 @@ modern_impact: "Bryanna Blanco described his promises as \"populist nonsense fro
   merger of corporate wealth and political power in the Federation, where an
   unapologetic ex-pirate could leverage celebrity and business interests to mount
   a credible challenge to the two-party establishment."
-related_uuids: []
+related_uuids:
+- 4142a139-3275-5ad3-8392-26cd6e4b9594
 legacy_weight: 3
 significance: medium
 ---

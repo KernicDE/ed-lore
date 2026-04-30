@@ -4,20 +4,20 @@ title: Corporations Compete for Mining Contract
 slug: corporations_compete_for_mining_contract
 date: '3308-01-13'
 source: API
-groups:
-- ACT
+groups: []
 locations:
 - Dulos
-- Smith Port in the Dulos
+- Smith Port
 topics:
 - corporate expansion
-- ship
-- trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+summary: Caine-Massey and Torval Mining Ltd compete for a decade-long mining contract in the Dulos system.
+player_impact: Pilots were called upon to deliver bromellite, samarium, and gallite to competing locations in the Dulos system.
+modern_impact: "\"The corporate distributors within the region have agreed that whichever candidate is able to provide the greatest amount of materials will be awarded the contract.\" The Dulos mining dispute demonstrates how megacorps weaponize pilot logistics to settle corporate rivalries."
 legacy_weight: 2
 significance: low
 ---
+
 
 *Pilots’ Federation ALERT*
 Caine-Massey and Torval Mining Ltd are running rival campaigns to deliver mined commodities to [[The]] [[Dulos]] system.

@@ -6,8 +6,8 @@ first_seen_date: '3308-09-30'
 last_seen_date: '3312-04-28'
 mention_count: 5
 related_entities:
-- act
 - mars
+- act
 - engineers
 - universal-cartographics
 - federation-alertfull-spectrum
@@ -23,8 +23,8 @@ Total mentions: **5**
 
 ## Related
 
-- [[ACT]] (3 co-mentions)
 - [[Mars]] (2 co-mentions)
+- [[ACT]] (1 co-mentions)
 - [[Engineers]] (1 co-mentions)
 - [[Universal Cartographics]] (1 co-mentions)
 - [[Federation ALERT*

@@ -1,38 +1,26 @@
 ---
-uuid: de7b4f38-c24a-586a-9b4c-3c43dff0681a
+uuid: 0f4b8c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
 title: Palin and Ram Tah Seek Unclassified Relics
 slug: palin_and_ram_tah_seek_unclassified_relics
 date: '3308-08-19'
 source: API
-entities:
-- Ishmael Palin explained
-- Palin
-- Palin may furnish us
-groups:
-- ACT
-- Engineers
-- Thargoid
-locations:
-- Abel Laboratory
-- Guardian
-- Guardian and Thargoid
-- HIP 22460
-- Meene
-- Professor Palin
+persons:
+- Ishmael Palin
 - Ram Tah
-- Ram Tah at Phoenix Base in the Meene
-- Thargoid
+groups:
+- Pilots Federation
+locations:
+- HIP 22460
 topics:
 - alien contact
-- engineering
 - research
-- safety
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+summary: Professors Ishmael Palin and Ram Tah request deliveries of newly discovered unclassified relics that emit both Guardian and Thargoid energy signatures due to molecular realignment of their crystalline structure.
+player_impact: Pilots were asked to deliver unclassified relics to support Palin and Ram Tah's research into the hybrid energy signatures.
+modern_impact: The discovery of artefacts exhibiting both Guardian and Thargoid signatures challenged the assumption that the two technologies were fundamentally incompatible, opening new avenues for understanding the ancient inter-species conflict.
 legacy_weight: 4
-significance: high
+significance: medium
 ---
 
 *Pilots’ Federation ALERT*

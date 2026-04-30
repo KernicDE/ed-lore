@@ -2,10 +2,20 @@
 uuid: 86eb9c0f-fa6b-5089-b6ae-d233a1e64339
 title: Empire and Marlinists Prepare for Galactic Summit
 slug: empire_and_marlinists_prepare_for_galactic_summit
-date: '3307-02-12'
+date: 3307-02-12
 source: API
-entities:
+arc_id: null
+persons:
+- Aisling Duval
+- Chancellor Anders Blaine
 - Denton Patreus will be
+- Emperor Arissa Lavigny-Duval
+- Its
+- Jenna Fairfax
+- Our
+- Which
+- With
+- Zemina Torval
 groups:
 - Marlinist
 - Sirius Corp
@@ -17,7 +27,16 @@ topics:
 - corporate expansion
 - diplomacy
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: Delegations have been formed by The Empire and the Marlinist Colonies to take part in the forthcoming diplomatic conference.
+modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+related_uuids:
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 5140542a-1be3-56a9-a558-8224ef317bf7
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- fc197df5-b778-5964-a004-448689eba981
 legacy_weight: 2
 significance: low
 ---

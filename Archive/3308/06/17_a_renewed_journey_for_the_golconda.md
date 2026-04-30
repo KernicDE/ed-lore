@@ -4,18 +4,20 @@ title: 'A Renewed Journey for the Golconda '
 slug: a_renewed_journey_for_the_golconda
 date: '3308-06-17'
 source: API
-groups:
-- ACT
+persons:
+- Javi Alvarado
+- Jonathon Forester
+groups: []
 locations:
-- Golconda
+- Upaniklis
+- Forester's Choice
 topics:
 - engineering
 - exploration
-- ship
-- trade
 arc_id: golconda
-modern_impact: The Golconda generation ship's journey continues to fascinate as a
-  story of human endurance.
+summary: The generation ship Golconda departs Upaniklis with sixty percent of its former population resuming their ancestral voyage after Artificers Clan megaship upgrades, with Commander Javi Alvarado invited to join the crew.
+player_impact: Not specifically mentioned — this is a cultural report.
+modern_impact: The Golconda's departure represented a rare moment of continuity in galactic history, where a pre-hyperdrive generation ship was retrofitted for the modern era and its people chose exploration over settlement, preserving a unique cultural identity.
 legacy_weight: 3
 significance: medium
 ---

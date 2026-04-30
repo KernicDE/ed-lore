@@ -1,29 +1,30 @@
 ---
-uuid: bc635a7c-22bf-5a79-b6bb-781f8b67a199
+uuid: 1a8f5a0b-8f5d-4c3e-7d2b-1a8f5a0b8f5d
 title: Guardian Artefact Campaign Concludes
 slug: guardian_artefact_campaign_concludes
 date: '3308-07-26'
 source: API
-groups:
-- ACT
-- Azimuth
+persons:
+- Morag Halloran
 - Salvation
-- Thargoid
+groups:
+- Alliance
+- Azimuth Biotech
+- Empire
+- Federation
 locations:
-- Azimuth
 - Bright Sentinel
-- Guardian
 - HIP 22460
-- Thargoid
-- The Thargoids appear frenzied by the
 topics:
 - alien contact
-- ship
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: The third phase of Guardian artefact deliveries for the Proteus Wave concludes successfully, with Commodore Morag Halloran announcing the core mechanism is days away from full assembly on HIP 22460 10b.
+player_impact: Pilots delivered Guardian artefacts to the Bright Sentinel in HIP 22460 over three weeks. Contributors could collect rewards from the Bright Sentinel.
+modern_impact: The successful conclusion of the artefact drive marked the point of no return for the Proteus Wave, with decades of Guardian archaeology stripped to feed a single weapon system.
+related_uuids:
+- 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
 legacy_weight: 5
 significance: high
 ---

@@ -2,18 +2,18 @@
 id: ernesto-rios
 name: Ernesto Rios
 type: person
-first_seen_date: '3309-10-23'
+first_seen_date: '3308-08-11'
 last_seen_date: '3312-02-03'
-mention_count: 3
+mention_count: 10
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Ernesto Rios
 
-First mentioned: **3309-10-23**  
+First mentioned: **3308-08-11**  
 Last mentioned: **3312-02-03**  
-Total mentions: **3**
+Total mentions: **10**
 
 ## Related
 

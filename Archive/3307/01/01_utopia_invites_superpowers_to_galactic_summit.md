@@ -2,8 +2,14 @@
 uuid: 7300ba47-f515-5c11-ad6e-0e0a48dfcfe7
 title: Utopia Invites Superpowers to Galactic Summit
 slug: utopia_invites_superpowers_to_galactic_summit
-date: '3307-01-01'
+date: 3307-01-01
 source: API
+arc_id: null
+persons:
+- Federal Congress
+- Imperial Senate
+- This
+- With
 groups:
 - Alliance
 - Federal Congress
@@ -11,17 +17,23 @@ groups:
 - Marlinist
 - Utopia
 locations:
-- Marlinist
+  - Marlinist
 topics:
 - alien contact
 - diplomacy
 - humanitarian
 - terrorism
-- trade
 - war
-arc_id: marlinist-refugee
-modern_impact: The Marlinist refugee crisis forces the Federation and Alliance to
-  confront humanitarian obligations while managing security risks.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: Simguru Pranav Antal, leader of The Utopia commune, has proposed hosting a diplomatic conference for the governments of All three superpowers.
+modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+related_uuids:
+- 5783e898-65a7-5db9-9681-366b1eb91056
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- 5140542a-1be3-56a9-a558-8224ef317bf7
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- be3889fc-d42f-5494-b1d1-fdd9dcb4223f
 legacy_weight: 4
 significance: high
 ---

@@ -1,36 +1,34 @@
 ---
-uuid: 7252228c-45f3-51ab-96b8-0ecfdccd2daa
+uuid: 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
 title: Thargoid Salvage Operation Requires Resources
 slug: thargoid_salvage_operation_requires_resources
 date: '3308-07-28'
 source: API
+persons:
+- Torben Rademaker
 groups:
-- ACT
 - Alliance
-- Azimuth
-- Thargoid
+- Azimuth Biotech
+- Empire
+- Federation
 locations:
-- Azimuth
 - Glorious Prospect
-- Guardian
 - HIP 22460
-- Pleiades Sector
-- Thargoid
+- Pleiades Sector CW-U B3-2
 topics:
 - alien contact
 - corporate expansion
 - engineering
-- espionage
 - research
-- ship
-- trade
 - war
-- xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
-legacy_weight: 5
-significance: high
+summary: Azimuth Biotech requests commodities for its post-Proteus Wave Thargoid salvage operation, with Director Torben Rademaker outlining plans to collect non-human material from HIP 22460 for military intelligence.
+player_impact: Pilots were asked to deliver HN shock mounts, micro controllers, and radiation baffles to the Glorious Prospect in Pleiades Sector CW-U B3-2.
+modern_impact: The salvage operation revealed Azimuth's long-term strategy to use the Proteus Wave not merely to defeat Thargoids but to capture their technology, establishing a post-war monopoly on xeno-military research.
+related_uuids:
+- 0f01426c-a180-522b-9e1c-2226d9be75e7
+legacy_weight: 4
+significance: medium
 ---
 
 *Pilots’ Federation ALERT*

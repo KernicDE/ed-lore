@@ -3,14 +3,14 @@ id: shamus-madigan
 name: Shamus Madigan
 type: person
 first_seen_date: '3308-09-05'
-last_seen_date: '3309-05-16'
-mention_count: 4
+last_seen_date: '3308-09-05'
+mention_count: 1
 related_entities:
+- jeong-hui-shin
 - act
 - thargoid
-- olympus-village
-- aegis
-- jeong-hui-shin
+- hip-22460
+- holloway-bioscience-institute
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Shamus Madigan
 
 First mentioned: **3308-09-05**  
-Last mentioned: **3309-05-16**  
-Total mentions: **4**
+Last mentioned: **3308-09-05**  
+Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (4 co-mentions)
-- [[Thargoid]] (4 co-mentions)
-- [[Olympus Village]] (3 co-mentions)
-- [[Aegis]] (2 co-mentions)
 - [[Jeong-Hui Shin]] (1 co-mentions)
+- [[ACT]] (1 co-mentions)
+- [[Thargoid]] (1 co-mentions)
+- [[HIP 22460]] (1 co-mentions)
+- [[Holloway Bioscience Institute]] (1 co-mentions)
 
 ## Biography
 

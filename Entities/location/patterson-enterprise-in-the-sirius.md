@@ -8,7 +8,6 @@ mention_count: 1
 related_entities:
 - alliance
 - core-dynamics
-- pilots-federation
 - sirius-corporation
 ---
 
@@ -24,7 +23,6 @@ Total mentions: **1**
 
 - [[Alliance]] (1 co-mentions)
 - [[Core Dynamics]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 - [[Sirius Corporation]] (1 co-mentions)
 
 ## Biography

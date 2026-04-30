@@ -2,32 +2,32 @@
 id: hyades
 name: Hyades
 type: location
-first_seen_date: '3308-05-06'
+first_seen_date: '3308-11-17'
 last_seen_date: '3309-12-07'
-mention_count: 13
+mention_count: 11
 related_entities:
-- thargoid
-- act
 - alliance
+- federal-navy
+- imperial-navy
 - hip-22460
-- aegis
+- hyades-sector-fb-n-b7-6
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Hyades
 
-First mentioned: **3308-05-06**  
+First mentioned: **3308-11-17**  
 Last mentioned: **3309-12-07**  
-Total mentions: **13**
+Total mentions: **11**
 
 ## Related
 
-- [[Thargoid]] (10 co-mentions)
-- [[ACT]] (7 co-mentions)
-- [[Alliance]] (3 co-mentions)
-- [[HIP 22460]] (3 co-mentions)
-- [[Aegis]] (3 co-mentions)
+- [[Alliance]] (2 co-mentions)
+- [[Federal Navy]] (2 co-mentions)
+- [[Imperial Navy]] (2 co-mentions)
+- [[HIP 22460]] (2 co-mentions)
+- [[Hyades Sector FB-N b7-6]] (2 co-mentions)
 
 ## Biography
 

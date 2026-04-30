@@ -10,7 +10,7 @@ related_entities:
 - capitol
 - achenar
 - nmla
-- act
+- federal-congress
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **43**
 - [[Capitol]] (9 co-mentions)
 - [[Achenar]] (9 co-mentions)
 - [[NMLA]] (9 co-mentions)
-- [[ACT]] (8 co-mentions)
+- [[Federal Congress]] (6 co-mentions)
 
 ## Biography
 

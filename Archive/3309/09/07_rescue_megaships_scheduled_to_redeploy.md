@@ -17,6 +17,9 @@ persons:
 - Skylar Anderson
 player_impact: "Pilots should note rescue megaship redeployment schedules; stored ships/modules will be transported safely to new locations."
 summary: "Eleven rescue megaships coordinating evacuation efforts will redeploy closer to active conflict areas, with temporary suspension of missions during transit."
+related_uuids:
+- 28b10ac3-f6fd-5d10-bcbe-f2763a0345b5
+- a39bacde-3f03-579e-a87c-1f549b9287b1
 legacy_weight: 5
 significance: high
 ---

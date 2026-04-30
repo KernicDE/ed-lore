@@ -18,6 +18,9 @@ persons:
 - Florian Baljak
 player_impact: "Pilots flocked to the defensive campaign in Shinrarta Dezhra. Over 1,600 licensed Commanders and Rescue Rangers were lost during the attack."
 summary: "Jameson Memorial starport in Shinrarta Dezhra is fully operational again after a Thargoid incursion, with starport commander Florian Baljak praising the pilot response."
+related_uuids:
+- f04f8454-a964-5a70-94a4-24f7e93c8419
+- 93065842-8454-5efa-aad2-95b0b0d6e0ac
 legacy_weight: 5
 significance: high
 ---

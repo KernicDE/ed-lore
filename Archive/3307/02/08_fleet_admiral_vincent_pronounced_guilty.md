@@ -2,23 +2,39 @@
 uuid: fefdabb9-36ba-57a2-8321-e9764f0b713c
 title: Fleet Admiral Vincent Pronounced Guilty
 slug: fleet_admiral_vincent_pronounced_guilty
-date: '3307-02-08'
+date: 3307-02-08
 source: API
-entities:
+arc_id: federal-politics
+persons:
+- Found
 - Jasmina Halsey
+- Jupiter
 - Jupiter Rochester
+- President Jasmina Halsey
+- Rochester
+- This
+- With
+- Zachary Hudson
 groups:
 - Core Dynamics
 - Federal Navy
 - Federal Times
 locations:
-- Jupiter
+  - Jupiter
 topics:
 - corporate expansion
 - crime
 - piracy
-- ship
-modern_impact: Ship review and release information for the pilot community.
+player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
+summary: A Federal High Court jury has Found Fleet Admiral Lucas Vincent guilty of conspiracy to commit murder and treason.
+modern_impact: "\"This is a bittersweet moment for me.\" The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence."
+related_uuids:
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
+- 31ca43b5-5307-50b4-bbd0-948f5ba63d94
+- e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
 legacy_weight: 2
 significance: low
 ---

@@ -1,28 +1,26 @@
 ---
-uuid: 7aaf4cac-767f-5e4b-b085-e5bc94a6c913
+uuid: 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
 title: Far God Cult Praises Alien Victory
 slug: far_god_cult_praises_alien_victory
 date: '3308-08-16'
 source: API
-entities:
+persons:
 - Jameelah Griffin
 groups:
-- ACT
-- Thargoid
+- Far God Cult
+- Galactic Interfaith Commune
 locations:
-- Authorities in several of those
-- Despite its unusual belief
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
-- ship
+- religion
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
-significance: high
+arc_id: null
+summary: The Far God cult celebrates the Thargoid victory in HIP 22460 as divine fulfilment, sparking outrage and calls for arrest while Dr Jameelah Griffin urges tolerance and notes the cult's lawful status and surge in recruitment.
+player_impact: Not specifically mentioned — this is a social report.
+modern_impact: The cult's joyous reaction to mass death highlighted how the Thargoid war had fractured human solidarity, with some viewing extinction as inevitable and even desirable, undermining collective resistance.
+legacy_weight: 3
+significance: medium
 ---
 
 A breakaway sect of the Thargoid-worshipping fringe religion is apparently celebrating the massacre of human forces in the HIP 22460 system.

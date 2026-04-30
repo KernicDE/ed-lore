@@ -2,19 +2,32 @@
 uuid: 5f349bc3-af0e-583e-b090-ab6a8824c69e
 title: Enhanced Missile Rack Initiative Concludes
 slug: enhanced_missile_rack_initiative_concludes
-date: '3307-02-12'
+date: 3307-02-12
 source: API
-groups:
-- Pilots Federation
+arc_id: null
+persons:
+- Engineers
+- Liz Ryder
+- October
+- This
+- With
+groups: []
 locations:
 - Eurybia
 - Liz Ryder
 topics:
 - engineering
-- ship
-- trade
 - war
-modern_impact: Engineering developments offer pilots new ship customisation options.
+player_impact: Pilots delivered mined materials to make a unique engineered module widely available.
+summary: "*Pilots Federation ALERT* Deliveries of mined materials have allowed The engineer Liz Ryder to make a One-off modified ship module widely available."
+modern_impact: "\"Many Engineers think we could do more to serve the galactic community.\" This initiative represented a significant step toward making engineered modules more accessible to the broader pilot community."
+related_uuids:
+- 890159f6-2e76-55aa-8cf1-62268d0d60d7
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- fc197df5-b778-5964-a004-448689eba981
+- f289a62c-f4fe-5c65-8563-7f318ee935ba
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- e25e2c83-7be4-5236-9a1a-93321f277b40
 legacy_weight: 2
 significance: low
 ---

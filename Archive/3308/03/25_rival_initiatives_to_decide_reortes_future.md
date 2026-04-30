@@ -4,35 +4,27 @@ title: Rival Initiatives to Decide Reorte’s Future
 slug: rival_initiatives_to_decide_reortes_future
 date: '3308-03-25'
 source: API
+arc_id: null
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
 - Alioth
-- Another faction in the
 - Reorte
 - Sirius
-- Thargoid
-- The
 topics:
 - alien contact
-- construction
 - corporate expansion
 - engineering
 - festival
 - independence
-- medicine
-- ship
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: Rival delivery campaigns determine whether Reorte remains in the Alliance or seeks independence.
+player_impact: Pilots were asked to deliver goods to either the Reorte Mining Coalition or the Reorte Pro-Alliance League.
+modern_impact: "\"Deliveries to the Reorte Mining Coalition or the Reorte Pro-Alliance League will help determine the system's status.\" The competitive delivery campaign places Reorte's political future directly in the hands of independent pilots."
 legacy_weight: 4
 significance: high
 ---
+
 
 *Pilots’ Federation ALERT*
 Deliveries to [[The Reorte]] Mining Coalition or [[The]] [[Reorte]] Pro-[[Alliance]] League will help determine the system’s status.

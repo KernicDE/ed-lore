@@ -8,9 +8,9 @@ mention_count: 20
 related_entities:
 - mars
 - federal-times
-- thargoid
-- act
 - federal-security-service
+- federal-navy
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **20**
 
 - [[Mars]] (7 co-mentions)
 - [[Federal Times]] (5 co-mentions)
-- [[Thargoid]] (5 co-mentions)
-- [[ACT]] (5 co-mentions)
 - [[Federal Security Service]] (3 co-mentions)
+- [[Federal Navy]] (3 co-mentions)
+- [[Alliance]] (3 co-mentions)
 
 ## Biography
 

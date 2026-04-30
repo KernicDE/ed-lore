@@ -25,13 +25,6 @@ player_impact: "Not specifically mentioned."
 summary: "Vox Galactica publishes an in-depth report on the economic impact of the Thargoid war, featuring contrasting perspectives from Jerome Archer, Zemina Torval, and Edmund Mahon."
 legacy_weight: 5
 significance: high
-- Zemina Torval
-- Edmund Mahon
-- Vanya Driscoll
-player_impact: "Not specifically mentioned."
-summary: "Vox Galactica publishes an in-depth report on the economic impact of the Thargoid war, featuring contrasting perspectives from Jerome Archer, Zemina Torval, and Edmund Mahon."
-legacy_weight: 5
-significance: high
 ---
 
 Vox Galactica has released an in-depth piece about the economic impact of the Thargoid war on the galaxy’s superpowers.

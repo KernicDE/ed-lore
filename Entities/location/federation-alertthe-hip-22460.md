@@ -5,14 +5,14 @@ name: 'Federation ALERT*
   The HIP 22460'
 type: location
 first_seen_date: '3308-06-30'
-last_seen_date: '3308-07-08'
-mention_count: 2
+last_seen_date: '3308-06-30'
+mention_count: 1
 related_entities:
 - act
 - alliance
 - azimuth
-- salvation
-- thargoid
+- federal-navy
+- imperial-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -21,16 +21,16 @@ related_entities:
 The HIP 22460
 
 First mentioned: **3308-06-30**  
-Last mentioned: **3308-07-08**  
-Total mentions: **2**
+Last mentioned: **3308-06-30**  
+Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
-- [[Azimuth]] (2 co-mentions)
-- [[Salvation]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
+- [[ACT]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Azimuth]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Imperial Navy]] (1 co-mentions)
 
 ## Biography
 

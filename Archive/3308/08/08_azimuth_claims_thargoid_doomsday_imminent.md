@@ -1,33 +1,29 @@
 ---
-uuid: b8b1752e-3808-5805-a594-5fb18505ae4e
-title: Azimuth Claims ‘Thargoid Doomsday’ Imminent
+uuid: 1a8f5a0b-8f5d-4c3e-7d2b-1a8f5a0b8f5d
+title: Azimuth Claims Thargoid Doomsday Imminent
 slug: azimuth_claims_thargoid_doomsday_imminent
 date: '3308-08-08'
 source: API
-groups:
-- ACT
-- Alliance
-- Azimuth
+persons:
+- Morag Halloran
 - Salvation
-- Thargoid
+groups:
+- Alliance
+- Azimuth Biotech
+- Empire
+- Federation
 locations:
-- Azimuth
-- Bright Sentinel
-- Guardian
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
-- construction
-- independence
-- research
-- safety
-- ship
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Salvation announces the Proteus Wave is fully active and calibrated, predicting that detonation will cause catastrophic disruption to all Thargoid vessels in HIP 22460 and drive the aliens out of the core systems permanently.
+player_impact: Pilots were urgently called to defend the Proteus Wave site in HIP 22460 during the critical final hours before activation.
+modern_impact: Salvation's declaration that tomorrow would be the Thargoids' doomsday represented the peak of his messianic rhetoric, setting up a binary outcome that would either validate his god complex or expose his hubris to the entire galaxy.
+related_uuids:
+- 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
 legacy_weight: 5
 significance: high
 ---

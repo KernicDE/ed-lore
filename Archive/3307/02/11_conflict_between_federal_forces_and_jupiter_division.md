@@ -2,19 +2,35 @@
 uuid: c1469916-3aca-5e3b-8dc5-76baf74b7e68
 title: Conflict Between Federal Forces and Jupiter Division
 slug: conflict_between_federal_forces_and_jupiter_division
-date: '3307-02-11'
+date: 3307-02-11
 source: API
-groups:
-- Core Dynamics
-- Pilots Federation
-locations:
+arc_id: federal-politics
+persons:
+- Its
 - Jupiter
+- Jupiter Rochester
+- Rochester
+- This
+- Which
+- With
+groups:
+  - Core Dynamics
+locations:
+  - Jupiter
 topics:
 - corporate expansion
 - crime
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
+summary: "*Pilots Federation ALERT* Jupiter Division ships have engaged in battle With rival Federal vessels in The HIP 54530 system."
+modern_impact: "\"For many years, I helped Core Dynamics become one of the galaxy's strongest companies.\" Rochester's attempted corporate coup highlighted the dangers of unchecked corporate power within the Federation and led to significant reforms."
+related_uuids:
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- e25e2c83-7be4-5236-9a1a-93321f277b40
+- a3c076ad-3a02-5e61-98b0-a3cd15189a48
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
+- 31ca43b5-5307-50b4-bbd0-948f5ba63d94
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
 legacy_weight: 2
 significance: low
 ---

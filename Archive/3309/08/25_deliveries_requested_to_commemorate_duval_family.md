@@ -9,7 +9,7 @@ groups:
 - Imperial Herald
 locations: []
 topics:
-- construction
+- politics
 - succession
 arc_id: null
 modern_impact: "Otto's framing — 'whose thousand-year reign has brought peace and prosperity to trillions' — is pure dynastic propaganda. Vestergaard's reporting reveals Otto's background as 'the son of Prince Baylor Duval, one of Emperor Hesketh's brothers' and notes his branch 'survivors of the mass assassinations perpetrated by the NMLA.' The mixed palace reaction — 'delusions of grandeur' vs. 'opportunist' vs. 'simple gesture in good faith' — shows Imperial politics."

@@ -1,41 +1,33 @@
 ---
-uuid: 4532b03c-7c25-52f3-af5f-9ac74b054a34
+uuid: 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
 title: Azimuth Divides Media Opinion
 slug: azimuth_divides_media_opinion
 date: '3308-08-05'
 source: API
-groups:
-- Alliance
-- Azimuth
-- Salvation
-- Sirius Corp
-- Sirius Corporation
-- Thargoid
-locations:
-- Achenar
-- Azimuth
-- Coalsack
-- Coalsack Nebula
-- Guardian
-- HIP 22460
-- Its success in the HIP 22460
+persons:
+- Aisling Duval
 - Ram Tah
-- Sirius
-- Sol
-- Thargoid
+- Salvation
+groups:
+- Azimuth Biotech
+- Sirius Corporation
+locations:
+- Coalsack Nebula
+- HIP 22460
 topics:
 - alien contact
-- construction
 - corporate expansion
+- politics
 - research
-- trade
 - war
-- xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
-legacy_weight: 5
-significance: high
+summary: Editorial pieces from across the core systems reveal sharply divided media opinion on Azimuth Biotech and Salvation, ranging from Imperial fears of Federal aggression to concerns about corporate influence and Princess Aisling's warnings of manipulation.
+player_impact: Not specifically mentioned — this is a media analysis piece.
+modern_impact: The media divide exposed how Salvation had become a political prism, with each faction interpreting his actions through their own ideological lens rather than objective assessment of Azimuth's crimes.
+related_uuids:
+- 45b84dea-4293-588d-963a-38ee1b061eb5
+legacy_weight: 4
+significance: medium
 ---
 
 Editorial pieces published by newsfeeds across the core systems illustrate a range of viewpoints on current events in HIP 22460.

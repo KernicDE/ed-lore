@@ -6,8 +6,6 @@ first_seen_date: '3308-11-23'
 last_seen_date: '3308-11-23'
 mention_count: 1
 related_entities:
-- act
-- thargoid
 - hyades
 ---
 
@@ -21,8 +19,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
 - [[Hyades]] (1 co-mentions)
 
 ## Biography

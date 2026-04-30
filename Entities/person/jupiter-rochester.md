@@ -4,13 +4,13 @@ name: Jupiter Rochester
 type: person
 first_seen_date: '3306-12-01'
 last_seen_date: '3307-12-28'
-mention_count: 8
+mention_count: 3
 related_entities:
 - core-dynamics
 - jupiter
 - alliance
-- sol
-- federal-navy
+- owen-mckenna
+- hip-54530-and-several-neighbouring
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3306-12-01**  
 Last mentioned: **3307-12-28**  
-Total mentions: **8**
+Total mentions: **3**
 
 ## Related
 
-- [[Core Dynamics]] (8 co-mentions)
-- [[Jupiter]] (8 co-mentions)
-- [[Alliance]] (4 co-mentions)
-- [[Sol]] (2 co-mentions)
-- [[Federal Navy]] (2 co-mentions)
+- [[Core Dynamics]] (3 co-mentions)
+- [[Jupiter]] (3 co-mentions)
+- [[Alliance]] (2 co-mentions)
+- [[Owen McKenna]] (1 co-mentions)
+- [[HIP 54530 and several neighbouring]] (1 co-mentions)
 
 ## Biography
 

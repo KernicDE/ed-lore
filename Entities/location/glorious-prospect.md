@@ -4,12 +4,12 @@ name: Glorious Prospect
 type: location
 first_seen_date: '3308-06-30'
 last_seen_date: '3309-01-26'
-mention_count: 13
+mention_count: 10
 related_entities:
-- azimuth
-- act
-- thargoid
+- azimuth-biotech
 - hip-22460
+- azimuth
+- bright-sentinel
 - musashi
 ---
 
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-06-30**  
 Last mentioned: **3309-01-26**  
-Total mentions: **13**
+Total mentions: **10**
 
 ## Related
 
-- [[Azimuth]] (13 co-mentions)
-- [[ACT]] (12 co-mentions)
-- [[Thargoid]] (10 co-mentions)
-- [[HIP 22460]] (7 co-mentions)
-- [[Musashi]] (7 co-mentions)
+- [[Azimuth Biotech]] (5 co-mentions)
+- [[HIP 22460]] (5 co-mentions)
+- [[Azimuth]] (5 co-mentions)
+- [[Bright Sentinel]] (3 co-mentions)
+- [[Musashi]] (3 co-mentions)
 
 ## Biography
 

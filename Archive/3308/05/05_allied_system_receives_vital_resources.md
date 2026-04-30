@@ -4,30 +4,30 @@ title: Allied System Receives Vital Resources
 slug: allied_system_receives_vital_resources
 date: '3308-05-05'
 source: API
+arc_id: thargoid-titan-war
+persons:
+- Nikolas Glass
 groups:
-- ACT
 - Alliance
 - Salvation
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Chariot of Rhea in the Leesti
+- Didio
 - Leesti
-- Novas and Sosong
+- Novas
+- Sosong
+- Chariot of Rhea
 - Rhea
-- Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
-- medicine
-- ship
-- trade
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Pilots transported shipments of basic medicines, evacuation shelters, and food cartridges to the Chariot of Rhea in Leesti.
+summary: Sirius Corporation delivers vital supplies to sustain the Didio system during the ongoing Thargoid assault.
+modern_impact: "\"By replenishing key supplies during this time of great crisis, Sirius Corporation has again shown its dedication to the Alliance's military efforts.\" The logistics operation reinforced Sirius Corporation's strategic indispensability to the Alliance during active Thargoid engagements, strengthening the political case for formalising the defence pact."
+related_uuids:
+- 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
+- b391da8e-90b1-55d8-88e0-8ad93ae52300
 legacy_weight: 5
 significance: high
 ---

@@ -4,18 +4,26 @@ title: Archon Delaine Faces Pirate Rebellion
 slug: archon_delaine_faces_pirate_rebellion
 date: '3308-05-11'
 source: API
+arc_id: null
+persons:
+- Archon Delaine
+- Vidar Trask
+- Kay Volantyne
+- Callan Salamanca
 groups:
-- ACT
 - Kumo Crew
 locations:
 - Pegasi
-- Trask
 topics:
 - independence
 - piracy
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Not specifically mentioned — this is a syndicate report.
+summary: A coordinated coup attempt led by Arch-Corsair Vidar Trask threatens to overthrow Archon Delaine's control of the Kumo Crew.
+modern_impact: "\"Trask has betrayed all of us, and for that I want him crushed!\" Delaine's violent reaction to Trask's coup attempt revealed the fragility of the Kumo Crew's centralised criminal hierarchy, where long-term loyalty could rapidly dissolve into open warfare when succession appeared uncertain."
+related_uuids:
+- e91e4d21-6ee5-52cb-939b-1ddb5a21bbb2
+- 3a22fa67-8900-5bbd-92cc-fe01fce10268
 legacy_weight: 2
 significance: low
 ---

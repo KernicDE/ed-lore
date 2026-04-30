@@ -4,13 +4,13 @@ name: California Nebula
 type: location
 first_seen_date: '3302-06-07'
 last_seen_date: '3309-03-09'
-mention_count: 23
+mention_count: 24
 related_entities:
 - alliance
 - kumo-crew
-- act
-- thargoid
 - coalsack
+- pilots-federation
+- eol-prou
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3302-06-07**  
 Last mentioned: **3309-03-09**  
-Total mentions: **23**
+Total mentions: **24**
 
 ## Related
 
 - [[Alliance]] (18 co-mentions)
 - [[Kumo Crew]] (9 co-mentions)
-- [[ACT]] (6 co-mentions)
-- [[Thargoid]] (6 co-mentions)
 - [[Coalsack]] (4 co-mentions)
+- [[Pilots Federation]] (3 co-mentions)
+- [[Eol Prou]] (3 co-mentions)
 
 ## Biography
 

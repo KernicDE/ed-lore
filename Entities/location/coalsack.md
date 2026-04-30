@@ -4,13 +4,13 @@ name: Coalsack
 type: location
 first_seen_date: '3307-01-07'
 last_seen_date: '3308-11-15'
-mention_count: 21
+mention_count: 17
 related_entities:
 - alliance
-- sirius-corporation
-- witch-head
 - aegis
+- witch-head
 - witch-head-nebula
+- sirius-corporation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3307-01-07**  
 Last mentioned: **3308-11-15**  
-Total mentions: **21**
+Total mentions: **17**
 
 ## Related
 
-- [[Alliance]] (13 co-mentions)
-- [[Sirius Corporation]] (9 co-mentions)
-- [[Witch Head]] (8 co-mentions)
+- [[Alliance]] (9 co-mentions)
 - [[Aegis]] (6 co-mentions)
-- [[Witch Head Nebula]] (6 co-mentions)
+- [[Witch Head]] (6 co-mentions)
+- [[Witch Head Nebula]] (5 co-mentions)
+- [[Sirius Corporation]] (5 co-mentions)
 
 ## Biography
 

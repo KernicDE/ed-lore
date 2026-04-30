@@ -10,7 +10,7 @@ related_entities:
 - sirius-corporation
 - lave
 - achenar
-- edmund-mahon
+- eotienses
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **60**
 - [[Sirius Corporation]] (12 co-mentions)
 - [[Lave]] (9 co-mentions)
 - [[Achenar]] (9 co-mentions)
-- [[Edmund Mahon]] (8 co-mentions)
+- [[Eotienses]] (8 co-mentions)
 
 ## Biography
 

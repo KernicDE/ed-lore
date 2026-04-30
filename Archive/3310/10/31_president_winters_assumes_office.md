@@ -28,6 +28,8 @@ persons:
 - Pierre-Marc Pelletier
 player_impact: "Not specifically mentioned — this is an inauguration article."
 summary: "Felicia Winters is formally sworn in as President of the Federation, pledging to redirect funding from corporations to public services and ordering the shutdown of the Proactive Detection Bureau."
+related_uuids:
+- 00be4816-785d-537c-9e05-ba4677220927
 legacy_weight: 3
 significance: medium
 ---

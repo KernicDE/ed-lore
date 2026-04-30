@@ -4,22 +4,25 @@ title: New Maelstroms Increase Thargoid Conquests
 slug: new_maelstroms_increase_thargoid_conquests
 date: '3308-12-01'
 source: API
-groups:
-- ACT
-- Thargoid
+arc_id: null
 locations:
-- A total of 16
 - HIP 8887
-- Maelstrom
-- Thargoid
 topics:
 - alien contact
-- construction
 - humanitarian
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
+summary: Two more rogue signal sources have reached human space, wreaking similar
+  destruction to the Taranis Maelstrom.
+modern_impact: '"Two more rogue signal sources have reached human space, wreaking
+  similar destruction to the Taranis Maelstrom." The relentless expansion of Thargoid
+  forces redefined the scale of the Second Thargoid War.'
+related_uuids:
+- ef95716b-a065-5b83-9407-94ebb3ad437c
+- ef8aa0ef-a1a2-533c-9ce4-1f6693797d4b
+- 68d67987-f586-5c3e-b52e-608926db50ba
+- 4d3d1411-525f-5642-bd6d-5d318f185635
+- 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 legacy_weight: 4
 significance: high
 ---

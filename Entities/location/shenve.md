@@ -6,11 +6,10 @@ first_seen_date: '3309-02-16'
 last_seen_date: '3309-02-16'
 mention_count: 1
 related_entities:
-- maximo-fonseca
-- act
 - alliance
-- thargoid
-- chloe-sedesi
+- alliance-expeditionary-pact
+- witch-head-nebula
+- onoros
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +22,10 @@ Total mentions: **1**
 
 ## Related
 
-- [[Maximo Fonseca]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
 - [[Alliance]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
-- [[Chloe Sedesi]] (1 co-mentions)
+- [[Alliance Expeditionary Pact]] (1 co-mentions)
+- [[Witch Head Nebula]] (1 co-mentions)
+- [[Onoros]] (1 co-mentions)
 
 ## Biography
 

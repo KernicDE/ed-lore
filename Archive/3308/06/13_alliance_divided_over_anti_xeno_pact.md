@@ -4,29 +4,28 @@ title: Alliance Divided over Anti-Xeno Pact
 slug: alliance_divided_over_anti_xeno_pact
 date: '3308-06-13'
 source: API
-entities:
+persons:
 - Edmund Mahon
+- Nakato Kaine
+- Vanya Driscoll
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Coalsack
+- Coalsack Nebula
 - Reorte
 - Sirius
-- Thargoid
-- Witch Head
+- Witch Head Nebula
 topics:
 - alien contact
 - corporate expansion
 - independence
-- ship
+- politics
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+summary: The Alliance Assembly is deadlocked over ratifying the strategic defence pact with Sirius Corporation, with Prime Minister Edmund Mahon advocating for military strength while Councillor Nakato Kaine warns against corporate infiltration.
+player_impact: Not specifically mentioned — this is a political report.
+modern_impact: The Assembly deadlock exposed the fundamental tension within the Alliance between security pragmatism and anti-corporate sovereignty, a divide that would define Allied politics throughout the Titan War.
 legacy_weight: 5
 significance: high
 ---

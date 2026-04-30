@@ -4,19 +4,23 @@ title: Marlinist Refugees Migrate from Alliance
 slug: marlinist_refugees_migrate_from_alliance
 date: '3308-04-27'
 source: API
+arc_id: null
+persons:
+- Elijah Beck
+- Octavia Volkov
 groups:
-- ACT
 - Alliance
 - Marlinist
-locations:
-- Political refugees from Imperial
+locations: []
 topics:
 - diplomacy
 - humanitarian
-- ship
-arc_id: marlinist-refugee
-modern_impact: The Marlinist refugee crisis forces the Federation and Alliance to
-  confront humanitarian obligations while managing security risks.
+player_impact: Not specifically mentioned — this is a diplomatic report.
+summary: Over two million Marlinist refugees in Alliance space are repatriated to the Marlinist Colonies.
+modern_impact: "\"Thanks to the Alliance's generosity, any Marlinists currently within their territory can now take advantage of free transportation to a colony system of their choice.\" The refugee repatriation agreement resolved a lingering humanitarian legacy of the NMLA crisis while strengthening the Marlinist Colonies' demographic and political foundation."
+related_uuids:
+- 591b8cea-0c09-5ade-925e-ef43b8011c1e
+- 7757e707-c843-5bb4-badf-0130b626ceb1
 legacy_weight: 4
 significance: high
 ---

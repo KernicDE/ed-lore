@@ -2,28 +2,32 @@
 id: homeland
 name: Homeland
 type: location
-first_seen_date: '3311-09-08'
+first_seen_date: '3308-04-15'
 last_seen_date: '3311-09-08'
-mention_count: 1
+mention_count: 4
 related_entities:
+- federal-times
+- beta-hydri
 - rackham-capital-investments
-- hip-87621
-- lake-rackham
+- rackhams-spire
+- liberal-party
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Homeland
 
-First mentioned: **3311-09-08**  
+First mentioned: **3308-04-15**  
 Last mentioned: **3311-09-08**  
-Total mentions: **1**
+Total mentions: **4**
 
 ## Related
 
-- [[Rackham Capital Investments]] (1 co-mentions)
-- [[HIP 87621]] (1 co-mentions)
-- [[Lake Rackham]] (1 co-mentions)
+- [[Federal Times]] (2 co-mentions)
+- [[Beta Hydri]] (2 co-mentions)
+- [[Rackham Capital Investments]] (2 co-mentions)
+- [[Rackham's Spire]] (1 co-mentions)
+- [[Liberal Party]] (1 co-mentions)
 
 ## Biography
 

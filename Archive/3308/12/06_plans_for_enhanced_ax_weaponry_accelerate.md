@@ -4,24 +4,30 @@ title: Plans for Enhanced AX Weaponry Accelerate
 slug: plans_for_enhanced_ax_weaponry_accelerate
 date: '3308-12-06'
 source: API
+arc_id: null
+persons:
+- Liz Ryder
+- Zacariah Nemo
 groups:
-- ACT
 - Aegis
 - Engineers
 - Imperial Herald
-- Thargoid
-locations:
-- Aegis
-- Liz Ryder
-- Thargoid
-- Zacariah Nemo
 topics:
 - alien contact
 - engineering
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Independent pilots were called upon to destroy Thargoid vessels and
+  claim combat bonds.
+summary: Two leading engineers have revealed designs to improve the stock anti-xeno
+  weaponry available to pilots.
+modern_impact: '"Zac and I share a passion for weapon upgrades, and have often used
+  this project as a way to unwind after a long week’..." Upgrading AX weaponry remains
+  a critical priority for independent pilots on the front lines.'
+related_uuids:
+- 4d3d1411-525f-5642-bd6d-5d318f185635
+- ef95716b-a065-5b83-9407-94ebb3ad437c
+- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+- f2680020-36ae-554f-ae92-3a367a9f1d23
+- cbe79040-1b75-50b1-9aad-bc544ff2b6be
 legacy_weight: 4
 significance: high
 ---

@@ -2,21 +2,35 @@
 uuid: 4e4f34c5-f585-58c6-983a-ec7b9135f20d
 title: Jasmina Halsey Provides Testimony about Starship One
 slug: jasmina_halsey_provides_testimony_about_starship_one
-date: '3307-01-27'
+date: 3307-01-27
 source: API
-entities:
+arc_id: federal-politics
+persons:
+- Azaleach
 - Jasmina Halsey
+- Our
+- President Jasmina Halsey
+- This
+- Vessel
+- With
 groups:
 - Alliance
 - Federal Times
 locations:
-- Azaleach
+  - Azaleach
 topics:
 - crime
 - humanitarian
-- medicine
-- ship
-modern_impact: Ship review and release information for the pilot community.
+player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
+summary: Former President Jasmina Halsey has taken The witness stand during the trial of Fleet Admiral Lucas Vincent at the Federal High Court.
+modern_impact: "\"This is a bittersweet moment for me.\" The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence."
+related_uuids:
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- 16fe8923-2773-584e-a012-9b5cda8fab5b
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- 29fa900d-a3ad-5a63-bdae-88a4acceaf60
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
 legacy_weight: 2
 significance: low
 ---

@@ -2,14 +2,14 @@
 id: duamta
 name: Duamta
 type: location
-first_seen_date: '3309-03-02'
+first_seen_date: '3309-02-23'
 last_seen_date: '3310-10-18'
-mention_count: 3
+mention_count: 4
 related_entities:
 - aegis
-- maximo-fonseca
-- act
-- thargoid
+- alliance
+- empire
+- federation
 - gateway
 ---
 
@@ -17,16 +17,16 @@ related_entities:
 
 # Duamta
 
-First mentioned: **3309-03-02**  
+First mentioned: **3309-02-23**  
 Last mentioned: **3310-10-18**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
-- [[Aegis]] (2 co-mentions)
-- [[Maximo Fonseca]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
+- [[Aegis]] (3 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Empire]] (1 co-mentions)
+- [[Federation]] (1 co-mentions)
 - [[Gateway]] (1 co-mentions)
 
 ## Biography

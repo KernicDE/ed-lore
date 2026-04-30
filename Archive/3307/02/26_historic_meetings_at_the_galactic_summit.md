@@ -2,11 +2,26 @@
 uuid: 3a299742-113f-5b36-98e2-a791ed35ae34
 title: Historic Meetings at the Galactic Summit
 slug: historic_meetings_at_the_galactic_summit
-date: '3307-02-26'
+date: 3307-02-26
 source: API
-entities:
+arc_id: federal-politics
+persons:
+- Aisling Duval
 - Anders Blaine
-- Denton Patreus refusing
+- Chancellor Anders Blaine
+- Edmund Mahon
+- Far
+- Felicia Winters
+- Jasmina Halsey
+- Jenna Fairfax
+- Jupiter Rochester
+- Mars
+- President Zachary Hudson
+- Rochester
+- Shadow President
+- The Sirius
+- This
+- With
 - Zachary Hudson
 groups:
 - Alliance
@@ -20,8 +35,16 @@ topics:
 - crime
 - diplomacy
 - war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: Alliance, Empire and Federation leaders have held their first ever face-to-face discussions at The diplomatic conference in The Sirius system.
+modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+related_uuids:
+- 29fa900d-a3ad-5a63-bdae-88a4acceaf60
+- b8c3e024-5c4a-5723-913f-4f56345477a8
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
 legacy_weight: 3
 significance: medium
 ---

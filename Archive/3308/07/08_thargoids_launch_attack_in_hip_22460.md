@@ -4,31 +4,27 @@ title: Thargoids Launch Attack in HIP 22460
 slug: thargoids_launch_attack_in_hip_22460
 date: '3308-07-08'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Morag Halloran
 groups:
-- ACT
 - Alliance
 - Azimuth
 - Salvation
-- Thargoid
 locations:
-- Azimuth
-- Bright Sentinel
-- 'Federation ALERT*
-
-  The HIP 22460'
-- Guardian
 - HIP 22460
-- Thargoid
+- Bright Sentinel
 topics:
 - alien contact
-- construction
-- ship
-- trade
 - war
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Independent pilots and AX squadrons were urgently requested to join counter-offensives and protect supply routes.
+summary: Thargoid forces invade HIP 22460 in response to the concentration of Guardian artefacts aboard the Bright Sentinel.
+modern_impact: "Commodore Halloran's warning that Thargoids 'are now swarming throughout HIP 22460' marked the beginning of a battle that would ultimately expose Salvation's hubris and cost thousands of lives."
+related_uuids:
+- 057ab23f-37c2-5666-a9ad-0f2e7344b006
+- f21fb651-0ba8-5e86-bbbf-62f93558c998
+- f63f12d4-93f4-5bdc-8c63-26f107fba702
 legacy_weight: 5
 significance: high
 ---

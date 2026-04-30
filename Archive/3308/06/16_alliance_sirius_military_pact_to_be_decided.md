@@ -4,33 +4,26 @@ title: Alliance-Sirius Military Pact to be Decided
 slug: alliance_sirius_military_pact_to_be_decided
 date: '3308-06-16'
 source: API
-groups:
-- ACT
-- Alliance
-- Engineers
-- Sirius Corp
-- Sirius Corporation
-- Thargoid
-locations:
+persons:
 - Bill Turner
-- 'Federation ALERT*
-
-  The Di Jian'
 - Marco Qwent
-- Sirius
-- Sol
-- Thargoid
-- The
+- Uma Laszlo
+groups:
+- Alliance
+- Sirius Corporation
+- Sol's Salutis Aeternum
+locations:
+- Di Jian
 topics:
 - alien contact
 - corporate expansion
 - engineering
-- ship
-- trade
+- politics
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+summary: The Alliance Assembly prepares to vote on the Sirius Corporation defence pact, with competing delivery campaigns in Di Jian attempting to sway undecided councillors through resource packages for the Alliance Defence Force.
+player_impact: Pilots were asked to deliver computer components, reinforced mounting plates, and synthetic reagents to competing campaigns in Di Jian. Contributors received pre-engineered AX missile launchers or Alliance Chieftains as rewards.
+modern_impact: The competing campaigns illustrated how corporate and political interests used pilot labour as leverage in parliamentary negotiations, foreshadowing the increasingly transactional nature of Allied military policy during the Thargoid war.
 legacy_weight: 5
 significance: high
 ---

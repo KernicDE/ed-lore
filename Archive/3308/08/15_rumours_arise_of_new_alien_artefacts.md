@@ -1,30 +1,26 @@
 ---
-uuid: 90f47201-f1b3-537a-8c1f-fc6e092fa724
+uuid: 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
 title: Rumours Arise of New Alien Artefacts
 slug: rumours_arise_of_new_alien_artefacts
 date: '3308-08-15'
 source: API
-entities:
-- Kralone
-- Marcus Mercer via
+persons:
+- Marcus Mercer
 groups:
-- ACT
-- Aegis
-- Thargoid
+- Pilots Federation
 locations:
-- Aegis
-- Guardian
-- Sol
-- Thargoid
+- HIP 22460
 topics:
 - alien contact
-- ship
+- exploration
+- trade
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 4
-significance: high
+arc_id: null
+summary: Commander Marcus Mercer posts an account of encountering a previously unknown glowing non-human object obtained by a fellow pilot, sparking rumours of new alien artefacts distinct from Guardian and Thargoid relics.
+player_impact: Not specifically mentioned — this is an anecdotal report.
+modern_impact: Mercer's account hinted at the existence of a third category of alien technology beyond the known Guardian and Thargoid artefacts, foreshadowing later discoveries that would expand humanity's understanding of non-human civilisations.
+legacy_weight: 3
+significance: low
 ---
 
 *Pilots’ Federation ALERT*

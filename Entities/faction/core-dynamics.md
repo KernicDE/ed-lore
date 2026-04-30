@@ -9,8 +9,8 @@ related_entities:
 - jupiter
 - federal-navy
 - alliance
-- pilots-federation
 - federal-times
+- sirius-corporation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **60**
 - [[Jupiter]] (28 co-mentions)
 - [[Federal Navy]] (15 co-mentions)
 - [[Alliance]] (15 co-mentions)
-- [[Pilots Federation]] (10 co-mentions)
 - [[Federal Times]] (9 co-mentions)
+- [[Sirius Corporation]] (8 co-mentions)
 
 ## Biography
 

@@ -4,13 +4,13 @@ name: Li Yong-Rui
 type: person
 first_seen_date: '3301-08-01'
 last_seen_date: '3307-06-15'
-mention_count: 4
+mention_count: 2
 related_entities:
 - sirius-corporation
 - alliance
-- pilots-federation
-- federal-congress
-- imperial-senate
+- kumo-crew
+- marlinist
+- coalsack
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-08-01**  
 Last mentioned: **3307-06-15**  
-Total mentions: **4**
+Total mentions: **2**
 
 ## Related
 
-- [[Sirius Corporation]] (4 co-mentions)
-- [[Alliance]] (3 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
-- [[Federal Congress]] (1 co-mentions)
-- [[Imperial Senate]] (1 co-mentions)
+- [[Sirius Corporation]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Kumo Crew]] (1 co-mentions)
+- [[Marlinist]] (1 co-mentions)
+- [[Coalsack]] (1 co-mentions)
 
 ## Biography
 

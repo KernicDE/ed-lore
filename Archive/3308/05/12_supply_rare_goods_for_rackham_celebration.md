@@ -4,21 +4,29 @@ title: Supply Rare Goods for Rackham Celebration
 slug: supply_rare_goods_for_rackham_celebration
 date: '3308-05-12'
 source: API
+arc_id: null
+persons:
+- Zachary Rackham
+- Bryanna Blanco
 groups:
 - Federal Times
-- Thargoid
 locations:
 - Beta Hydri
 - George Pantazis
-- Thargoid
+- Upaniklis
+- Geras
+- Uszaa
+- Anduliga
+- Edmondson High
 topics:
-- alien contact
 - diplomacy
 - festival
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots were asked to deliver rare goods to Edmondson High in Beta Hydri for Rackham's trillionaire celebration.
+summary: Zachary Rackham hosts a week-long trillionaire celebration in Beta Hydri, requesting rare goods from pilots.
+modern_impact: "\"The guest list for this party includes politicians, media magnates, publicity gurus, and many others who would prove useful if you were running a presidential campaign.\" Rackham's lavish party functioned as a thinly veiled political fundraising and networking event, using pilot-delivered luxury goods to court the power brokers necessary for a Federal presidential bid."
+related_uuids:
+- 627f595b-b85f-5e9d-9d4c-9499a93c4487
+- bd2b27e6-fa70-57c1-b2cc-96b787b5dbac
 legacy_weight: 5
 significance: high
 ---

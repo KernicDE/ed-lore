@@ -2,9 +2,19 @@
 uuid: b8c3e024-5c4a-5723-913f-4f56345477a8
 title: Hudson and Winters Confirmed for Galactic Summit
 slug: hudson_and_winters_confirmed_for_galactic_summit
-date: '3307-02-22'
+date: 3307-02-22
 source: API
-entities:
+arc_id: null
+persons:
+- Brad Mitchell
+- Felicia Winters
+- Isolde Rochester
+- Jupiter
+- Jupiter Rochester
+- President Zachary Hudson
+- Rochester
+- Shadow President
+- The Sirius
 - Zachary Hudson
 groups:
 - Federal Times
@@ -19,9 +29,16 @@ topics:
 - diplomacy
 - humanitarian
 - scandal
-arc_id: marlinist-refugee
-modern_impact: The Marlinist refugee crisis forces the Federation and Alliance to
-  confront humanitarian obligations while managing security risks.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: President Zachary Hudson and Shadow President Felicia Winters will both attend The diplomatic conference in The Sirius system.
+modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+related_uuids:
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 29fa900d-a3ad-5a63-bdae-88a4acceaf60
+- e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
 legacy_weight: 4
 significance: high
 ---

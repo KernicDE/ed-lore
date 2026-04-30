@@ -2,32 +2,24 @@
 id: jerome-archer
 name: Jerome Archer
 type: person
-first_seen_date: '3307-03-30'
-last_seen_date: '3309-06-26'
-mention_count: 8
+first_seen_date: '3307-04-06'
+last_seen_date: '3307-04-06'
+mention_count: 1
 related_entities:
-- shadow-president
-- felicia-winters
-- sol
-- act
-- federal-times
+- nmla
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Jerome Archer
 
-First mentioned: **3307-03-30**  
-Last mentioned: **3309-06-26**  
-Total mentions: **8**
+First mentioned: **3307-04-06**  
+Last mentioned: **3307-04-06**  
+Total mentions: **1**
 
 ## Related
 
-- [[Shadow President]] (6 co-mentions)
-- [[Felicia Winters]] (4 co-mentions)
-- [[Sol]] (3 co-mentions)
-- [[ACT]] (3 co-mentions)
-- [[Federal Times]] (2 co-mentions)
+- [[NMLA]] (1 co-mentions)
 
 ## Biography
 

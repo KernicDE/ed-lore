@@ -2,14 +2,23 @@
 uuid: b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
 title: Nine Starports Hit by Terrorist Bombings
 slug: nine_starports_hit_by_terrorist_bombings
-date: '3307-03-11'
+date: 3307-03-11
 source: API
+arc_id: nmla-terrorism
+persons:
+- Achenar
+- Alioth
+- Each
+- Further
+- Sol
+- Suspended
+- The Sirius
+- With
 groups:
 - Alliance
 - Federal Navy
 - Imperial Navy
 - NMLA
-- Pilots Federation
 locations:
 - Achenar
 - Alioth
@@ -32,14 +41,19 @@ locations:
 - This has triggered automated
 topics:
 - alien contact
-- construction
 - diplomacy
 - humanitarian
 - terrorism
-- trade
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
+summary: "*Pilots Federation ALERT* Explosions have struck starports across The Alliance, Empire and Federation In a coordinated bombing attack by the NMLA."
+modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+related_uuids:
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- ba0ab37a-3135-52b4-a668-22e5ef0700b6
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- 81935802-cfe1-5060-bd5a-d55783730845
+- 6efd63d0-0d68-594f-8e75-b0c5df826485
+- 9e1f1fba-df6f-5280-8095-86f30ca2d79c
 legacy_weight: 5
 significance: high
 ---

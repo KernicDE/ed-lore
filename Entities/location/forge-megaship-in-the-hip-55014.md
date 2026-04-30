@@ -7,7 +7,6 @@ last_seen_date: '3307-02-18'
 mention_count: 1
 related_entities:
 - core-dynamics
-- pilots-federation
 - hip-54530
 - jupiter
 ---
@@ -23,7 +22,6 @@ Total mentions: **1**
 ## Related
 
 - [[Core Dynamics]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 - [[HIP 54530]] (1 co-mentions)
 - [[Jupiter]] (1 co-mentions)
 

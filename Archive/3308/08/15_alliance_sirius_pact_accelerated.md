@@ -1,30 +1,29 @@
 ---
-uuid: bb0a8874-54a5-529d-91a6-691c8859ac57
+uuid: 1a8f5a0b-8f5d-4c3e-7d2b-1a8f5a0b8f5d
 title: Alliance-Sirius Pact Accelerated
 slug: alliance_sirius_pact_accelerated
 date: '3308-08-15'
 source: API
-entities:
+persons:
 - Edmund Mahon
-- Li Yong-Rui have issued
+- Li Yong-Rui
+- Nikolas Glass
 groups:
-- ACT
-- Alliance
-- Sirius Corp
+- Alliance Assembly
+- Alliance Defence Force
+- Council of Admirals
 - Sirius Corporation
-- Thargoid
 locations:
-- Allied
 - HIP 22460
-- Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+- war
+arc_id: null
+summary: Prime Minister Edmund Mahon and Sirius Corporation CEO Li Yong-Rui accelerate the strategic defence pact after the HIP 22460 disaster, appointing Admiral Nikolas Glass to coordinate all anti-xeno operations for the Alliance Defence Force.
+player_impact: Not specifically mentioned — this is a policy announcement.
+modern_impact: The accelerated pact formalised the Alliance's military dependence on Sirius Corporation, using the HIP 22460 catastrophe as justification for deeper corporate integration into Allied defence infrastructure.
 legacy_weight: 5
 significance: high
 ---

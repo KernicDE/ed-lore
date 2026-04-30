@@ -7,10 +7,10 @@ last_seen_date: '3307-01-28'
 mention_count: 2
 related_entities:
 - alliance
-- pilots-federation
 - sirius-corporation
 - utopia
-- li-yong-rui
+- federal-congress
+- imperial-senate
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **2**
 ## Related
 
 - [[Alliance]] (2 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
 - [[Sirius Corporation]] (2 co-mentions)
 - [[Utopia]] (2 co-mentions)
-- [[Li Yong-Rui]] (1 co-mentions)
+- [[Federal Congress]] (1 co-mentions)
+- [[Imperial Senate]] (1 co-mentions)
 
 ## Biography
 

@@ -3,8 +3,8 @@ id: anders-blaine
 name: Anders Blaine
 type: person
 first_seen_date: '3301-07-14'
-last_seen_date: '3307-02-26'
-mention_count: 10
+last_seen_date: '3302-07-02'
+mention_count: 9
 related_entities:
 - imperial-herald
 - facece
@@ -18,8 +18,8 @@ related_entities:
 # Anders Blaine
 
 First mentioned: **3301-07-14**  
-Last mentioned: **3307-02-26**  
-Total mentions: **10**
+Last mentioned: **3302-07-02**  
+Total mentions: **9**
 
 ## Related
 

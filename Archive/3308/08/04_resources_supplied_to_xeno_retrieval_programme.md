@@ -1,37 +1,31 @@
 ---
-uuid: fc61ac94-0fd3-59ea-8fb4-140ec7aa7040
-title: Resources Supplied to Xeno-Retrieval Programme
+uuid: 0f4b8c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+title: Resources Supplied to Xeno Retrieval Programme
 slug: resources_supplied_to_xeno_retrieval_programme
 date: '3308-08-04'
 source: API
+persons:
+- Maxim Lagunov
+- Torben Rademaker
 groups:
-- ACT
-- Azimuth
-- Thargoid
+- Azimuth Biotech
 locations:
-- Azimuth
-- Bright Sentinel
 - Glorious Prospect
-- Guardian
 - HIP 22460
-- Heart of Taurus
-- Musashi
-- Pleiades Sector
-- Proteus Wave in the HIP 22460
-- Thargoid
+- Pleiades Sector CW-U B3-2
 topics:
 - alien contact
-- engineering
+- corporate expansion
 - research
-- ship
-- trade
 - war
-- xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
-legacy_weight: 5
-significance: high
+summary: A delivery campaign to the Glorious Prospect in Pleiades Sector CW-U B3-2 provides vital commodities enabling Azimuth Biotech to analyse salvaged Thargoid wreckages following the Proteus Wave activation in HIP 22460.
+player_impact: Pilots delivered HN shock mounts, micro controllers, neofabric insulation, and radiation baffles to the Glorious Prospect.
+modern_impact: The successful supply campaign demonstrated Azimuth's post-victory corporate strategy in motion, using pilot labour to establish a xenological research infrastructure before the Proteus Wave had even fired.
+related_uuids:
+- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+legacy_weight: 4
+significance: medium
 ---
 
 *Pilots’ Federation ALERT*

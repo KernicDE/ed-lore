@@ -2,18 +2,34 @@
 uuid: a09f593c-1af4-5727-863d-002a1ebb2aca
 title: Core Dynamics Insider Discusses Lakon Takeover
 slug: core_dynamics_insider_discusses_lakon_takeover
-date: '3307-01-13'
+date: 3307-01-13
 source: API
-groups:
-- Core Dynamics
-locations:
+arc_id: null
+persons:
+- Further
+- Its
 - Jupiter
+- Jupiter Rochester
+- Rochester
+- This
+- With
+groups:
+  - Core Dynamics
+locations:
+  - Jupiter
 topics:
-- construction
 - corporate expansion
 - investigation
-- ship
-modern_impact: Ship review and release information for the pilot community.
+player_impact: The corporate takeover generated significant market and political interest among pilots.
+summary: An anonymous source within The shipbuilding corporation Core Dynamics has revealed details behind Its hostile takeover of Lakon Spaceways.
+modern_impact: "\"We welcome becoming closer partners with the Alliance.\" The Lakon Spaceways takeover saga demonstrated the Alliance's determination to maintain domestic shipbuilding independence against Federal corporate encroachment."
+related_uuids:
+- a3c076ad-3a02-5e61-98b0-a3cd15189a48
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
+- c1469916-3aca-5e3b-8dc5-76baf74b7e68
+- aa81f947-721e-52c8-a91e-906bf41c62b8
+- 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 legacy_weight: 2
 significance: low
 ---

@@ -6,11 +6,9 @@ first_seen_date: '3307-03-25'
 last_seen_date: '3307-03-25'
 mention_count: 1
 related_entities:
-- tanya-ramirez
 - imperial-internal-security-service
 - marlinist
 - nmla
-- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +21,9 @@ Total mentions: **1**
 
 ## Related
 
-- [[Tanya Ramirez]] (1 co-mentions)
 - [[Imperial Internal Security Service]] (1 co-mentions)
 - [[Marlinist]] (1 co-mentions)
 - [[NMLA]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 

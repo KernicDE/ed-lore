@@ -4,21 +4,29 @@ title: Duvals Gather to Celebrate New Year
 slug: duvals_gather_to_celebrate_new_year
 date: '3308-01-01'
 source: API
+arc_id: nova-imperium
+persons:
+- Aisling Duval
+- Hadrian Duval
+- Hector Duval
+- Solomon Helios
 locations:
 - Sol
 topics:
 - festival
-- ship
 - succession
 - terrorism
-- trade
 - war
-arc_id: nova-imperium
-modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
-  creates a schism in Imperial politics.
+summary: Princess Aisling Duval hosts a New Year celebration introducing Hadrian Duval and his family to Imperial society.
+player_impact: Not specifically mentioned — this is a society report.
+modern_impact: "\"Many dignitaries insisted on having their image recorded beside the 'future Emperor'.\" The public debut of Hector Duval cements Hadrian Duval's integration into Imperial high society and fuels succession speculation."
+related_uuids:
+- 0ef8061c-5c04-5669-a7d7-9792dcd75c8f
+- 80b1c2fe-dde6-5b97-a195-c6f2bcad8ce5
 legacy_weight: 4
 significance: high
 ---
+
 
 Princess [[Aisling Duval]] marked [[The]] start of 3308 by introducing her cousin Hadrian Duval, his wife and their newborn son to Imperial high society.
 Entertainment journalist Solomon Helios broadcast a report on the event:

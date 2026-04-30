@@ -2,32 +2,32 @@
 id: bridge
 name: Bridge
 type: faction
-first_seen_date: '3308-01-06'
-last_seen_date: '3309-07-03'
-mention_count: 10
+first_seen_date: '3308-08-25'
+last_seen_date: '3308-08-25'
+mention_count: 1
 related_entities:
-- brewer-corporation
-- colonia-bridge
-- jaques-station
-- jaques-station-in-the-colonia
 - act
+- azimuth
+- salvation
+- thargoid
+- bright-sentinel
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Bridge
 
-First mentioned: **3308-01-06**  
-Last mentioned: **3309-07-03**  
-Total mentions: **10**
+First mentioned: **3308-08-25**  
+Last mentioned: **3308-08-25**  
+Total mentions: **1**
 
 ## Related
 
-- [[Brewer Corporation]] (8 co-mentions)
-- [[Colonia Bridge]] (8 co-mentions)
-- [[Jaques Station]] (7 co-mentions)
-- [[Jaques Station in the Colonia]] (7 co-mentions)
-- [[ACT]] (5 co-mentions)
+- [[ACT]] (1 co-mentions)
+- [[Azimuth]] (1 co-mentions)
+- [[Salvation]] (1 co-mentions)
+- [[Thargoid]] (1 co-mentions)
+- [[Bright Sentinel]] (1 co-mentions)
 
 ## Biography
 

@@ -4,26 +4,34 @@ title: Empire Dismisses Calls for Aegis Return
 slug: empire_dismisses_calls_for_aegis_return
 date: '3308-10-31'
 source: API
-entities:
-- Caspian Leopold initiated
+arc_id: thargoid-titan-war
+persons:
+- Anders Blaine
+- Caspian Leopold
+- Denton Patreus
 groups:
-- ACT
 - Aegis
 - Alliance
 - Imperial Navy
 - Imperial Senate
-- Thargoid
-locations:
-- Aegis
-- Thargoid
 topics:
 - alien contact
 - research
 - succession
 - war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
+summary: The Imperial Senate has debated contributing to anti-xeno activities such
+  as Aegis or a unified superpower fleet.
+modern_impact: '"One would never criticise Her Majesty’s priority to defend the Empire
+  above all else. Nevertheless, we face an advers..." This call for collaboration
+  continues to resonate in discussions about superpower unity against the Thargoids.'
+related_uuids:
+- 5bbb630c-39e4-5ed7-8420-ea931beb11f2
+- f2680020-36ae-554f-ae92-3a367a9f1d23
+- 9d88d95b-e2d8-5107-bb42-666da4ea00bf
+- 56d06164-e5b6-59b9-ae17-1ddf24d0faf6
+- 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 legacy_weight: 5
 significance: high
 ---

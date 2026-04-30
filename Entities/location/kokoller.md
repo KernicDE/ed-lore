@@ -6,8 +6,6 @@ first_seen_date: '3309-07-06'
 last_seen_date: '3309-07-06'
 mention_count: 1
 related_entities:
-- paul-dyson-provided
-- act
 - federal-navy
 ---
 
@@ -21,8 +19,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Paul Dyson provided]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
 
 ## Biography

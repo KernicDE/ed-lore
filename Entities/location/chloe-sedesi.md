@@ -3,13 +3,13 @@ id: chloe-sedesi
 name: Chloe Sedesi
 type: location
 first_seen_date: '3305-08-06'
-last_seen_date: '3309-02-16'
-mention_count: 3
+last_seen_date: '3305-08-08'
+mention_count: 2
 related_entities:
 - witch-head-nebula
-- alliance
 - alba-tesreau
 - aegis
+- alliance
 - six-ports-now-occupy
 ---
 
@@ -18,15 +18,15 @@ related_entities:
 # Chloe Sedesi
 
 First mentioned: **3305-08-06**  
-Last mentioned: **3309-02-16**  
-Total mentions: **3**
+Last mentioned: **3305-08-08**  
+Total mentions: **2**
 
 ## Related
 
-- [[Witch Head Nebula]] (3 co-mentions)
-- [[Alliance]] (2 co-mentions)
+- [[Witch Head Nebula]] (2 co-mentions)
 - [[Alba Tesreau]] (1 co-mentions)
 - [[Aegis]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
 - [[Six ports now occupy]] (1 co-mentions)
 
 ## Biography

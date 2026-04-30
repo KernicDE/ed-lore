@@ -3,10 +3,14 @@ id: novas
 name: Novas
 type: location
 first_seen_date: '3302-11-03'
-last_seen_date: '3302-11-03'
-mention_count: 1
+last_seen_date: '3308-06-29'
+mention_count: 10
 related_entities:
-- security-forces-in-the-novas
+- salvation
+- didio
+- sosong
+- alliance
+- imperial-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -14,12 +18,16 @@ related_entities:
 # Novas
 
 First mentioned: **3302-11-03**  
-Last mentioned: **3302-11-03**  
-Total mentions: **1**
+Last mentioned: **3308-06-29**  
+Total mentions: **10**
 
 ## Related
 
-- [[Security forces in the Novas]] (1 co-mentions)
+- [[Salvation]] (8 co-mentions)
+- [[Didio]] (7 co-mentions)
+- [[Sosong]] (7 co-mentions)
+- [[Alliance]] (6 co-mentions)
+- [[Imperial Navy]] (5 co-mentions)
 
 ## Biography
 

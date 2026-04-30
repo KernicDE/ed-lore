@@ -4,27 +4,22 @@ title: Brewer Corp Augments Starport Services
 slug: brewer_corp_augments_starport_services
 date: '3308-02-24'
 source: API
+arc_id: null
 groups:
-- ACT
 - Brewer Corporation
-- Bridge
-- Colonia Bridge
 locations:
 - Colonia
 - Jaques Station
-- Jaques Station in the Colonia
 topics:
-- construction
 - corporate expansion
 - humanitarian
-- ship
-- trade
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+summary: Brewer Corporation seeks deliveries to add facilities to Colonia Bridge starports.
+player_impact: Pilots were asked to deliver commodities to add facilities to Colonia Bridge starports.
+modern_impact: "\"Further deliveries to Alcor and Colonia are required to add new facilities to the Colonia Bridge starports.\" The ongoing community-driven construction shows how pilot contributions directly shape the galactic transportation network."
 legacy_weight: 3
 significance: medium
 ---
+
 
 *Pilots’ Federation ALERT*
 [[Further]] deliveries to [[Alcor and Colonia]] are required to add new facilities to [[The]] [[Colonia Bridge]] starports.

@@ -5,7 +5,7 @@ slug: powerplay_standings_january_3311
 date: '3311-01-22'
 source: API
 groups:
-- ACT
+
 locations: []
 topics:
 - research

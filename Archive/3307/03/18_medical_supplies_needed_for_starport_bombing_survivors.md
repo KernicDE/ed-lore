@@ -2,12 +2,24 @@
 uuid: ba0ab37a-3135-52b4-a668-22e5ef0700b6
 title: Medical Supplies Needed for Starport Bombing Survivors
 slug: medical_supplies_needed_for_starport_bombing_survivors
-date: '3307-03-18'
+date: 3307-03-18
 source: API
+arc_id: nmla-terrorism
+persons:
+- Alioth
+- Duamta
+- Each
+- Eotienses
+- Further
+- Gateway
+- Kamadhenu
+- Lave
+- Nearby
+- The Achenar
+- With
 groups:
 - Alliance
 - NMLA
-- Pilots Federation
 locations:
 - Achenar
 - Alioth
@@ -23,16 +35,20 @@ locations:
 - Nanomam and Rhea
 - Sol
 topics:
-- construction
 - corporate expansion
 - humanitarian
-- medicine
-- ship
 - terrorism
 - war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: Pilots followed these developments through GalNet reports.
+summary: "*Pilots Federation ALERT* Safeguard Interstellar requires deliveries of medicines to treat casualties from The NMLA’s recent terrorist attack."
+modern_impact: "\"This atrocity is nothing less than a declaration of war.\" The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates."
+related_uuids:
+- 07928c21-6ee3-5dbb-b1b5-aa7b041eba5e
+- 6efd63d0-0d68-594f-8e75-b0c5df826485
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- be3889fc-d42f-5494-b1d1-fdd9dcb4223f
+- b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
 legacy_weight: 5
 significance: high
 ---

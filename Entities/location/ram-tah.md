@@ -4,13 +4,13 @@ name: Ram Tah
 type: location
 first_seen_date: '3303-01-16'
 last_seen_date: '3312-04-26'
-mention_count: 59
+mention_count: 43
 related_entities:
-- aegis
-- thargoid
 - meene
+- aegis
 - sirius-corporation
-- ishmael-palin
+- synuefe
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3303-01-16**  
 Last mentioned: **3312-04-26**  
-Total mentions: **59**
+Total mentions: **43**
 
 ## Related
 
-- [[Aegis]] (22 co-mentions)
-- [[Thargoid]] (18 co-mentions)
-- [[Meene]] (17 co-mentions)
-- [[Sirius Corporation]] (14 co-mentions)
-- [[Ishmael Palin]] (12 co-mentions)
+- [[Meene]] (16 co-mentions)
+- [[Aegis]] (14 co-mentions)
+- [[Sirius Corporation]] (12 co-mentions)
+- [[Synuefe]] (9 co-mentions)
+- [[Alliance]] (6 co-mentions)
 
 ## Biography
 

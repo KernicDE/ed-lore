@@ -1,0 +1,23 @@
+---
+id: edwin-espinosa
+name: Edwin Espinosa
+type: person
+first_seen_date: '3309-03-21'
+last_seen_date: '3309-03-28'
+mention_count: 2
+---
+
+<!-- AUTO-GENERATED -->
+
+# Edwin Espinosa
+
+First mentioned: **3309-03-21**  
+Last mentioned: **3309-03-28**  
+Total mentions: **2**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

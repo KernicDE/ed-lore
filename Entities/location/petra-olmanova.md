@@ -3,14 +3,14 @@ id: petra-olmanova
 name: Petra Olmanova
 type: location
 first_seen_date: '3304-08-29'
-last_seen_date: '3309-02-20'
-mention_count: 3
+last_seen_date: '3304-08-29'
+mention_count: 1
 related_entities:
-- aegis
-- thargoid
-- maelstrom
 - colonia-council
 - etienne-dorn
+- etienne-dorn-in-the-los
+- mars
+- marsha-hicks
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Petra Olmanova
 
 First mentioned: **3304-08-29**  
-Last mentioned: **3309-02-20**  
-Total mentions: **3**
+Last mentioned: **3304-08-29**  
+Total mentions: **1**
 
 ## Related
 
-- [[Aegis]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
-- [[Maelstrom]] (2 co-mentions)
 - [[Colonia Council]] (1 co-mentions)
 - [[Etienne Dorn]] (1 co-mentions)
+- [[Etienne Dorn in the Los]] (1 co-mentions)
+- [[Mars]] (1 co-mentions)
+- [[Marsha Hicks]] (1 co-mentions)
 
 ## Biography
 

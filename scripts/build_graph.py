@@ -194,7 +194,7 @@ def build() -> dict[str, Any]:
 
         # Normalise groups
         clean_groups = []
-        for g in fm.get("groups", []):
+        for g in fm.get("groups") or []:
             c = normalize_entity(g) or g
             if c and c not in seen:
                 clean_groups.append(c)
@@ -210,7 +210,7 @@ def build() -> dict[str, Any]:
         # Normalise locations
         clean_locations = []
         seen_locs = set()
-        for loc in fm.get("locations", []):
+        for loc in fm.get("locations") or []:
             c = normalize_location(loc)
             if c and c not in seen_locs:
                 clean_locations.append(c)
@@ -224,7 +224,7 @@ def build() -> dict[str, Any]:
                     d["last_seen"] = date
 
         # Normalise persons
-        for p in fm.get("persons", []):
+        for p in fm.get("persons") or []:
             c = normalize_entity(p) or p
             if c:
                 d = person_mentions[c]
@@ -236,7 +236,7 @@ def build() -> dict[str, Any]:
                     d["last_seen"] = date
 
         # Normalise technologies
-        for t in fm.get("technologies", []):
+        for t in fm.get("technologies") or []:
             c = normalize_entity(t) or t
             if c:
                 d = technology_mentions[c]
@@ -265,14 +265,14 @@ def build() -> dict[str, Any]:
             "entities": clean_entities,
             "groups": clean_groups,
             "locations": clean_locations,
-            "topics": fm.get("topics", []),
+            "topics": fm.get("topics") or [],
             "arc_id": arc_id,
             "arc_chapter": fm.get("arc_chapter"),
             "summary": fm.get("summary", ""),
             "player_impact": fm.get("player_impact", ""),
             "modern_impact": fm.get("modern_impact", ""),
-            "persons": fm.get("persons", []),
-            "technologies": fm.get("technologies", []),
+            "persons": fm.get("persons") or [],
+            "technologies": fm.get("technologies") or [],
             "legacy_weight": fm.get("legacy_weight", 2),
             "significance": fm.get("significance", "low"),
             "body_full": body,

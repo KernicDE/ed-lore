@@ -2,18 +2,18 @@
 id: nassim-qadir
 name: Nassim Qadir
 type: person
-first_seen_date: '3309-11-03'
+first_seen_date: '3309-01-05'
 last_seen_date: '3309-11-03'
-mention_count: 1
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Nassim Qadir
 
-First mentioned: **3309-11-03**  
+First mentioned: **3309-01-05**  
 Last mentioned: **3309-11-03**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 

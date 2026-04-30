@@ -4,31 +4,20 @@ title: 'Azimuth: A Historical Perspective (Part One)'
 slug: azimuth_a_historical_perspective_part_one
 date: '3308-06-23'
 source: API
-entities:
+persons:
 - Carver
-groups:
-- ACT
-- Alliance
-- Azimuth
-- Azimuth Biochemicals
-- October
 - Salvation
-- Sirius Corp
+groups:
+- Azimuth Biochemicals
+- Pharmasapien
+- Scriveners Clan
 - Sirius Corporation
-- Thargoid
 locations:
-- Adamastor
-- Adamastor arrived in the Chukchan
-- Azimuth
 - Chukchan
-- Coalsack
 - Coalsack Nebula
-- Guardian
-- Hesperus
-- Musca
-- Musca Dark Region
-- Sirius
-- Thargoid
+- HIP 69200
+- Musca Dark Region PJ-P b6-1
+- Perseus Dark Region KC-V c2-2
 - Trapezium Sector YU-X c1-2
 topics:
 - alien contact
@@ -38,14 +27,12 @@ topics:
 - exploration
 - investigation
 - research
-- safety
-- ship
-- sport
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Part one of a historical overview tracing Azimuth Biochemicals from the 3111 Thargoid first contact in the Musca Dark Region through the discovery of the Adamastor and Hesperus megaships to Salvation's emergence in 3307.
+player_impact: Not specifically mentioned — this is a historical retrospective.
+modern_impact: This retrospective established Azimuth's centuries-long pattern of covert xenological weapons research, from the first Thargoid contact in 3111 to the Proteus discovery, revealing how Salvation's campaign was the culmination of a 200-year corporate military project.
 legacy_weight: 5
 significance: high
 ---

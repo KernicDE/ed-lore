@@ -4,13 +4,13 @@ name: Luyten's Star
 type: location
 first_seen_date: '3301-02-14'
 last_seen_date: '3310-12-18'
-mention_count: 3
+mention_count: 4
 related_entities:
 - sol
 - aegis
 - core-dynamics
-- alpha-centauri
-- barnards-star
+- azimuth
+- salvation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-02-14**  
 Last mentioned: **3310-12-18**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
 - [[Sol]] (3 co-mentions)
-- [[Aegis]] (2 co-mentions)
+- [[Aegis]] (3 co-mentions)
 - [[Core Dynamics]] (1 co-mentions)
-- [[Alpha Centauri]] (1 co-mentions)
-- [[Barnard's Star]] (1 co-mentions)
+- [[Azimuth]] (1 co-mentions)
+- [[Salvation]] (1 co-mentions)
 
 ## Biography
 

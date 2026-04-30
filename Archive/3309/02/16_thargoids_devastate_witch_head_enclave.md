@@ -31,7 +31,9 @@ modern_impact: "Chloe Sedesi transmitted: \"...emergency SOS from the Shenve sys
   testimony captures the unprecedented scale of the Titan War's frontier assaults,
   where even remote nebula colonies faced total annihilation far from core system
   rescue services."
-related_uuids: []
+related_uuids:
+- 201a0a31-f461-5ded-a815-a7b9c289c352
+- 40d9b854-2973-5053-a42d-6955f8876544
 legacy_weight: 5
 significance: high
 ---

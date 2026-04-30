@@ -4,27 +4,38 @@ title: Superpowers Discuss Unified Anti-Xeno Fleet
 slug: superpowers_discuss_unified_anti_xeno_fleet
 date: '3308-10-28'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Alba Tesreau
+- Conrad Sterling
+- Juno Rochester
+- Maxton Price
+- Rachel Ziegler
 groups:
-- ACT
 - Aegis
 - Alliance
 - Federal Navy
 - Imperial Navy
 - Salvation
-- Thargoid
 locations:
-- Aegis
-- Federal or independent
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
-- ship
 - succession
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
+summary: Ambassadors of all three superpowers have held emergency talks following
+  the California nebula attacks, with a united military fleet the primary topic.
+modern_impact: '"The public demand to address the evolving Thargoid threat has led
+  to key military personnel suggesting that the Allie..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
+- 005ebf22-d1c0-50cd-ae57-373efc6bdcde
+- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+- eb62c669-b525-5753-b3cb-faf6452a8088
+- bd5a1074-4db4-556d-bd6d-4207d963ce10
 legacy_weight: 5
 significance: high
 ---

@@ -2,17 +2,29 @@
 uuid: b5e2b232-ff58-51a8-9ddc-1424c9e9acc2
 title: Alliance Protests Triggered by Cancelled Election
 slug: alliance_protests_triggered_by_cancelled_election
-date: '3307-02-23'
+date: 3307-02-23
 source: API
-entities:
+arc_id: null
+persons:
 - Edmund Mahon
+- This
+- With
 groups:
-- Alliance
+  - Alliance
+locations: []
 topics:
 - diplomacy
 - festival
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+player_impact: Pilots followed these developments through GalNet reports.
+summary: The postponement of the election for a new prime minister has led to widespread public disorder across Alliance systems.
+modern_impact: "\"It is outrageous that the prime minister is using this as an excuse to extend his term in office.\" The election delay and subsequent protests revealed growing tensions within the Alliance between superpower ambitions and member system sovereignty."
+related_uuids:
+- 8c30a23e-d29a-5753-ac4d-3b70d734dec3
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- c0aab9ee-c770-5579-864d-bfe676a694a2
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 282055d5-c3b9-5772-855e-9acd24d78c43
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
 legacy_weight: 3
 significance: medium
 ---

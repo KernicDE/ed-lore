@@ -4,26 +4,33 @@ title: Operation Tyndareus Reacts to Thargoid Fleet
 slug: operation_tyndareus_reacts_to_thargoid_fleet
 date: '3308-10-06'
 source: API
+arc_id: thargoid-titan-war
+persons:
+- Nikolas Glass
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
 - Sirius
-- Thargoid
 - The Andecavi
 topics:
 - alien contact
-- construction
 - corporate expansion
 - engineering
-- ship
 - war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+player_impact: Independent pilots were called upon to destroy Thargoid vessels and
+  claim combat bonds.
+summary: The Alliance has deployed a reactionary task force to defend the Andecavi
+  system from the Thargoids.
+modern_impact: '"The Thargoids have encroached upon Allied territory, providing an
+  opportunity for Operation Tyndareus to put this new..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- f2680020-36ae-554f-ae92-3a367a9f1d23
+- 9d88d95b-e2d8-5107-bb42-666da4ea00bf
+- 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
+- 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
+- 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 legacy_weight: 5
 significance: high
 ---

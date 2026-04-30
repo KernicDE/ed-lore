@@ -3,14 +3,14 @@ id: alba-tesreau
 name: Alba Tesreau
 type: person
 first_seen_date: '3303-08-05'
-last_seen_date: '3309-09-28'
-mention_count: 54
+last_seen_date: '3308-09-28'
+mention_count: 25
 related_entities:
 - aegis
-- thargoid
-- act
 - alliance
-- azimuth
+- pleiades-nebula
+- pilots-federation
+- ram-tah
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Alba Tesreau
 
 First mentioned: **3303-08-05**  
-Last mentioned: **3309-09-28**  
-Total mentions: **54**
+Last mentioned: **3308-09-28**  
+Total mentions: **25**
 
 ## Related
 
-- [[Aegis]] (50 co-mentions)
-- [[Thargoid]] (30 co-mentions)
-- [[ACT]] (27 co-mentions)
-- [[Alliance]] (19 co-mentions)
-- [[Azimuth]] (12 co-mentions)
+- [[Aegis]] (24 co-mentions)
+- [[Alliance]] (7 co-mentions)
+- [[Pleiades Nebula]] (5 co-mentions)
+- [[Pilots Federation]] (5 co-mentions)
+- [[Ram Tah]] (5 co-mentions)
 
 ## Biography
 

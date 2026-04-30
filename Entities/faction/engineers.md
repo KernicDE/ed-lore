@@ -4,13 +4,13 @@ name: Engineers
 type: faction
 first_seen_date: '3308-06-01'
 last_seen_date: '3310-07-30'
-mention_count: 13
+mention_count: 10
 related_entities:
-- act
-- thargoid
 - aegis
-- liz-ryder
-- zacariah-nemo
+- alioth
+- alliance
+- kumo-crew
+- onionhead
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-06-01**  
 Last mentioned: **3310-07-30**  
-Total mentions: **13**
+Total mentions: **10**
 
 ## Related
 
-- [[ACT]] (9 co-mentions)
-- [[Thargoid]] (8 co-mentions)
 - [[Aegis]] (4 co-mentions)
-- [[Liz Ryder]] (4 co-mentions)
-- [[Zacariah Nemo]] (4 co-mentions)
+- [[Alioth]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Kumo Crew]] (1 co-mentions)
+- [[Onionhead]] (1 co-mentions)
 
 ## Biography
 

@@ -4,13 +4,13 @@ name: Pilots Federation
 type: faction
 first_seen_date: '3301-03-27'
 last_seen_date: '3312-02-10'
-mention_count: 180
+mention_count: 157
 related_entities:
 - alliance
 - aegis
+- kumo-crew
 - nmla
 - sirius-corporation
-- marlinist
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-03-27**  
 Last mentioned: **3312-02-10**  
-Total mentions: **180**
+Total mentions: **157**
 
 ## Related
 
-- [[Alliance]] (48 co-mentions)
+- [[Alliance]] (38 co-mentions)
 - [[Aegis]] (25 co-mentions)
-- [[NMLA]] (17 co-mentions)
-- [[Sirius Corporation]] (16 co-mentions)
-- [[Marlinist]] (13 co-mentions)
+- [[Kumo Crew]] (11 co-mentions)
+- [[NMLA]] (10 co-mentions)
+- [[Sirius Corporation]] (9 co-mentions)
 
 ## Biography
 

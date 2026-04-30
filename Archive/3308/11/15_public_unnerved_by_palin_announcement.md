@@ -4,28 +4,31 @@ title: Public Unnerved by Palin Announcement
 slug: public_unnerved_by_palin_announcement
 date: '3308-11-15'
 source: API
-entities:
-- Palin
-groups:
-- ACT
-- Thargoid
+arc_id: null
+persons:
+- Casey Kilpatrick
+- Ishmael Palin
 locations:
-- Colleagues across multiple
 - Lave
-- Professor Palin
-- Protests in
-- Thargoid
 - Zaonce
 topics:
 - alien contact
 - festival
 - research
-- safety
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Independent pilots were encouraged to collect and submit genetic data
+  samples.
+summary: The announcement that the rogue signal sources heading towards the core systems
+  are Thargoid in origin has caused unease within the general public.
+modern_impact: '"Colleagues across multiple systems have confirmed that the impending
+  arrival of the rogue signal sources – termed ‘st..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- bd5a1074-4db4-556d-bd6d-4207d963ce10
+- eb62c669-b525-5753-b3cb-faf6452a8088
+- d8b14f7a-0b22-5f2d-a164-45b74638e864
+- ae551de7-6ccc-55b7-a142-8e77ac721dce
+- 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
 legacy_weight: 5
 significance: high
 ---

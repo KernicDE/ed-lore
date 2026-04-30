@@ -2,8 +2,21 @@
 uuid: 0ed40d37-c7a2-5252-9105-e141bc1020d5
 title: Galactic Summit Cancelled – NMLA Attacks Superpowers
 slug: galactic_summit_cancelled_nmla_attacks_superpowers
-date: '3307-03-11'
+date: 3307-03-11
 source: API
+arc_id: nmla-terrorism
+persons:
+- Achenar
+- Alioth
+- Each
+- Enterprise
+- Neo-Marlinist
+- Our
+- Sol
+- The Sirius
+- This
+- Which
+- With
 groups:
 - Alliance
 - Core Dynamics
@@ -21,17 +34,21 @@ locations:
 - Temporary permits for the Sirius
 - The conference in the Sirius
 topics:
-- construction
 - corporate expansion
 - diplomacy
 - humanitarian
-- ship
 - terrorism
-- trade
 - war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: Pilots may be called upon to support ACT intelligence operations.
+summary: The conference in [[The Sirius]] system has ended prematurely after terrorist bombings against nine starports across the Alliance, Empire and Federation.
+modern_impact: "\"This atrocity is nothing less than a declaration of war.\" The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates."
+related_uuids:
+- b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 6efd63d0-0d68-594f-8e75-b0c5df826485
+- 5140542a-1be3-56a9-a558-8224ef317bf7
+- 29fb3d22-b316-514e-95ed-4f188b9ed8f7
 legacy_weight: 5
 significance: high
 ---

@@ -1,37 +1,31 @@
 ---
-uuid: 213d7d9f-60b3-5c23-9485-64cef59fff16
-title: 'Retrial Requested for Admiral Tanner '
+uuid: 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
+title: Retrial Requested for Admiral Tanner
 slug: retrial_requested_for_admiral_tanner
 date: '3308-08-26'
 source: API
+persons:
+- Aden Tanner
+- Tayo Maikori
 groups:
-- ACT
 - Aegis
-- Azimuth
+- Azimuth Biotech
 - Federal Navy
-- Federal Times
-- Salvation
-- Thargoid
 locations:
-- Aegis
-- Azimuth
 - Cornsar
-- Guardian
-- HIP 22460
-- Musashi
-- Ram Tah
-- Thargoid
+- Hind Mine
+- T Tauri
 topics:
 - alien contact
-- construction
 - crime
 - investigation
-- research
-- ship
-- xenoarchaeology
+- war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: The Federal Attorney's Office calls for Admiral Aden Tanner's conviction to be reviewed in light of HIP 22460, where events validated his accusation that Salvation deliberately attracted Thargoids to test his superweapon.
+player_impact: Not specifically mentioned — this is a legal report.
+modern_impact: Tanner's posthumous vindication exposed the injustice of his court martial, demonstrating how the military establishment had punished the one officer who correctly identified Salvation's provocation tactics while rewarding those who supported Azimuth.
+related_uuids:
+- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
 legacy_weight: 5
 significance: high
 ---

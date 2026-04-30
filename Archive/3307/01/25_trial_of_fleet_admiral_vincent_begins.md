@@ -2,13 +2,20 @@
 uuid: 16fe8923-2773-584e-a012-9b5cda8fab5b
 title: Trial of Fleet Admiral Vincent Begins
 slug: trial_of_fleet_admiral_vincent_begins
-date: '3307-01-25'
+date: 3307-01-25
 source: API
-entities:
+arc_id: federal-politics
+persons:
+- Azaleach
+- Felicia Winters
+- Mars
 - Naylor
 - Rory Webster
+- This
+- Vessel
+- With
 groups:
-- Federal Times
+  - Federal Times
 locations:
 - Azaleach
 - Mars
@@ -17,8 +24,16 @@ topics:
 - engineering
 - piracy
 - scandal
-- ship
-modern_impact: Engineering developments offer pilots new ship customisation options.
+player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
+summary: The Federal High Court on Mars has opened the trial of Fleet Admiral Lucas Vincent, who is charged With conspiracy to commit murder and treason.
+modern_impact: "\"This is a bittersweet moment for me.\" The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence."
+related_uuids:
+- c917c581-7cd2-54eb-a0cd-ff49b24b1f92
+- 4e4f34c5-f585-58c6-983a-ec7b9135f20d
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- 29fa900d-a3ad-5a63-bdae-88a4acceaf60
+- ef475ada-e268-55e0-8ada-ae250caa5c86
 legacy_weight: 2
 significance: low
 ---

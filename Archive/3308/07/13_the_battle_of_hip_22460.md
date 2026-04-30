@@ -4,28 +4,30 @@ title: The Battle of HIP 22460
 slug: the_battle_of_hip_22460
 date: '3308-07-13'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Jade Sanderlyn
+- Joy Senne
 groups:
-- ACT
 - Azimuth
 - Salvation
-- Thargoid
 locations:
-- Azimuth
-- Bright Sentinel
-- Guardian
 - HIP 22460
-- Thargoid
+- Bright Sentinel
 topics:
 - alien contact
 - crime
 - diplomacy
 - research
-- ship
 - war
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: Independent pilots and AX squadrons fought alongside naval forces to hold the line against Thargoid attacks.
+summary: Vox Galactica reports from the front lines as coalition forces battle Thargoid swarms while Salvation's superweapon nears completion.
+modern_impact: "Jade Sanderlyn's observation that 'many brave pilots have lost their lives to the aliens' firepower' captured the grim reality of a campaign built on Salvation's unverified promises of total victory."
+related_uuids:
+- af81ef25-3735-51f4-bd67-5d52721e0376
+- b648b49f-0149-5f38-93b9-ebbd451810ad
+- f63f12d4-93f4-5bdc-8c63-26f107fba702
 legacy_weight: 5
 significance: high
 ---

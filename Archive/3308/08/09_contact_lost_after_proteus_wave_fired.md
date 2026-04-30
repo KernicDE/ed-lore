@@ -1,31 +1,30 @@
 ---
-uuid: 33b86898-9d96-5e9f-9e8a-e369998c5f2b
+uuid: 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
 title: Contact Lost after Proteus Wave Fired
 slug: contact_lost_after_proteus_wave_fired
 date: '3308-08-09'
 source: API
+persons:
+- Salvation
 groups:
-- ACT
-- Alliance
-- Azimuth
+- Alliance Defence Force
+- Azimuth Biotech
 - Federal Navy
 - Imperial Navy
-- Salvation
-- Thargoid
 locations:
-- Azimuth
 - Bright Sentinel
-- Guardian
-- HIP 22460
 - Heart of Taurus
-- Thargoid
+- HIP 22460
 topics:
 - alien contact
-- ship
+- war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Communication with all ships in HIP 22460 terminates after the Proteus Wave's activation, as a second unknown energy pulse disables the Bright Sentinel and Thargoid vessels regain function, leaving thousands stranded.
+player_impact: Non-military ships were advised to avoid entering the HIP 22460 system. Independent pilots reported Thargoids resuming attacks on all human ships.
+modern_impact: The communications blackout was the first sign that Salvation's superweapon had catastrophically backfired, with the second energy pulse suggesting either Thargoid countermeasures or a fatal design flaw that Azimuth had not anticipated.
+related_uuids:
+- 1a8f5a0b-8f5d-4c3e-7d2b-1a8f5a0b8f5d
 legacy_weight: 5
 significance: high
 ---

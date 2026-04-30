@@ -3,8 +3,8 @@ id: pleiades-nebula
 name: Pleiades Nebula
 type: location
 first_seen_date: '3301-10-22'
-last_seen_date: '3308-08-27'
-mention_count: 56
+last_seen_date: '3307-05-13'
+mention_count: 55
 related_entities:
 - aegis
 - maia
@@ -18,8 +18,8 @@ related_entities:
 # Pleiades Nebula
 
 First mentioned: **3301-10-22**  
-Last mentioned: **3308-08-27**  
-Total mentions: **56**
+Last mentioned: **3307-05-13**  
+Total mentions: **55**
 
 ## Related
 

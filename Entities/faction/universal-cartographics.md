@@ -6,11 +6,11 @@ first_seen_date: '3301-02-18'
 last_seen_date: '3311-02-19'
 mention_count: 34
 related_entities:
-- act
 - brewer-corporation
-- pilots-federation
 - sirius-corporation
+- pilots-federation
 - canonn
+- explorers-association
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **34**
 
 ## Related
 
-- [[ACT]] (8 co-mentions)
 - [[Brewer Corporation]] (7 co-mentions)
-- [[Pilots Federation]] (5 co-mentions)
 - [[Sirius Corporation]] (4 co-mentions)
+- [[Pilots Federation]] (4 co-mentions)
 - [[Canonn]] (4 co-mentions)
+- [[Explorer's Association]] (3 co-mentions)
 
 ## Biography
 

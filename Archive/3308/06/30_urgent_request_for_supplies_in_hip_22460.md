@@ -4,27 +4,26 @@ title: Urgent Request for Supplies in HIP 22460
 slug: urgent_request_for_supplies_in_hip_22460
 date: '3308-06-30'
 source: API
+persons:
+- Morag Halloran
 groups:
-- ACT
 - Alliance
-- Azimuth
-- Salvation
-- Thargoid
+- Azimuth Biotech
+- Empire
+- Federation
 locations:
-- Azimuth
 - Bright Sentinel
-- HIP 22460
 - Heart of Taurus
-- Thargoid
+- HIP 22460
 topics:
 - alien contact
-- medicine
-- ship
-- trade
 - war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Azimuth Biotech requests medical and military commodity deliveries to the Heart of Taurus in HIP 22460 to support Proteus Wave construction and defend against anticipated Thargoid fleets.
+player_impact: Pilots were asked to deliver advanced medicines, basic medicines, and reactive armour to the Heart of Taurus in HIP 22460. Generous payment and ship liveries were offered as rewards.
+modern_impact: The supply request demonstrated how Azimuth Biotech had transformed independent pilots into a logistical corps for its superweapon project, using cosmetic rewards to build brand loyalty among Commanders dedicated to Salvation's cause.
+related_uuids:
+- 0f01426c-a180-522b-9e1c-2226d9be75e7
 legacy_weight: 5
 significance: high
 ---

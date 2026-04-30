@@ -2,14 +2,25 @@
 uuid: 471b8e46-16ce-5791-b60b-9362e740c2a6
 title: Galactic Summit Begins with Defence Request
 slug: galactic_summit_begins_with_defence_request
-date: '3307-02-25'
+date: 3307-02-25
 source: API
-entities:
+arc_id: null
+persons:
+- Aisling Duval
 - Edmund Mahon
+- Enterprise
+- Its
+- Li Yong-Rui
+- Our
+- President Zachary Hudson
+- Run
+- The Sirius
+- This
+- Which
+- With
 - Zachary Hudson
 groups:
 - Core Dynamics
-- Pilots Federation
 - Sirius Corp
 - Sirius Corporation
 locations:
@@ -18,10 +29,17 @@ locations:
 topics:
 - corporate expansion
 - diplomacy
-- safety
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: "*Pilots Federation ALERT* The Federation is working With Sirius Corporation to offer bounty hunting opportunities to protect the diplomatic conference."
+modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+related_uuids:
+- fc197df5-b778-5964-a004-448689eba981
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
+- 86eb9c0f-fa6b-5089-b6ae-d233a1e64339
+- 29fb3d22-b316-514e-95ed-4f188b9ed8f7
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
 legacy_weight: 1
 significance: low
 ---

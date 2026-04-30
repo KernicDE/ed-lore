@@ -3,13 +3,13 @@ id: adamastor
 name: Adamastor
 type: location
 first_seen_date: '3308-02-07'
-last_seen_date: '3308-06-23'
-mention_count: 2
+last_seen_date: '3308-02-07'
+mention_count: 1
 related_entities:
-- act
+- aegis
 - alliance
-- azimuth
 - azimuth-biochemicals
+- imperial-navy
 - salvation
 ---
 
@@ -18,16 +18,16 @@ related_entities:
 # Adamastor
 
 First mentioned: **3308-02-07**  
-Last mentioned: **3308-06-23**  
-Total mentions: **2**
+Last mentioned: **3308-02-07**  
+Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
-- [[Azimuth]] (2 co-mentions)
-- [[Azimuth Biochemicals]] (2 co-mentions)
-- [[Salvation]] (2 co-mentions)
+- [[Aegis]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Azimuth Biochemicals]] (1 co-mentions)
+- [[Imperial Navy]] (1 co-mentions)
+- [[Salvation]] (1 co-mentions)
 
 ## Biography
 

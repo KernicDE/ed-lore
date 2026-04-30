@@ -4,28 +4,33 @@ title: Further FSS Scanner Upgrade Released
 slug: further_fss_scanner_upgrade_released
 date: '3308-11-11'
 source: API
-entities:
-- Palin
+arc_id: null
+persons:
+- Ishmael Palin
+- Lori Jameson
+- Ram Tah
 groups:
 - Canonn
-- Canonn Interstellar Research Group
-- Thargoid
 - Universal Cartographics
-locations:
-- Lori Jameson
-- Professor Palin
-- Ram Tah
-- Thargoid
 topics:
 - alien contact
 - engineering
 - exploration
 - research
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
+summary: A version of the FSS scanning software used to track the Thargoid anomalies
+  has been made available to the Pilots’ Federation.
+modern_impact: '"We’re pleased with the update and are happy to share it with Commanders,
+  who have provided much of the data used by t..." This perspective highlights the
+  broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- a70b7065-3c14-503b-b348-7130e57293d4
+- 005ebf22-d1c0-50cd-ae57-373efc6bdcde
+- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+- f2680020-36ae-554f-ae92-3a367a9f1d23
+- eb62c669-b525-5753-b3cb-faf6452a8088
 legacy_weight: 5
 significance: high
 ---

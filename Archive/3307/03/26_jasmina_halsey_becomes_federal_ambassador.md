@@ -2,22 +2,36 @@
 uuid: 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
 title: Jasmina Halsey Becomes Federal Ambassador
 slug: jasmina_halsey_becomes_federal_ambassador
-date: '3307-03-26'
+date: 3307-03-26
 source: API
-entities:
+arc_id: null
+persons:
+- Each
 - Felicia Winters
 - Jasmina Halsey
-groups:
-- Alliance
-locations:
 - Mars
+- President Jasmina Halsey
+- Rochester
+- Shadow President
+- This
+- With
+groups:
+  - Alliance
+locations:
+  - Mars
 topics:
-- construction
 - diplomacy
-- ship
 - war
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+player_impact: Pilots followed these developments through GalNet reports.
+summary: Former President Jasmina Halsey has joined The Federal Diplomatic Corps to become an ambassador to the Alliance.
+modern_impact: "\"Being at the conference reminded me that the political arena is where I belong.\" Halsey's return to Federal service as an ambassador marked a remarkable political rehabilitation after years in exile following the Starship One disaster."
+related_uuids:
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 29fa900d-a3ad-5a63-bdae-88a4acceaf60
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- cbba1081-6b9a-57ca-b2b8-0e41007ed228
+- 4e4f34c5-f585-58c6-983a-ec7b9135f20d
+- f289a62c-f4fe-5c65-8563-7f318ee935ba
 legacy_weight: 3
 significance: medium
 ---

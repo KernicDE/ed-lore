@@ -2,18 +2,31 @@
 uuid: 1bb8c64c-6562-592e-b832-e5574e3ceab1
 title: Empire Denies Existence of Secret Prison
 slug: empire_denies_existence_of_secret_prison
-date: '3307-02-03'
+date: 3307-02-03
 source: API
-entities:
+arc_id: null
+persons:
 - Andee-X-
-- Karl Nerva told
-groups:
 - Imperial Internal Security Service
-- Pilots Federation
+- Its
+- Located
+- This
+groups:
+  - Imperial Internal Security Service
+locations: []
 topics:
 - investigation
 - terrorism
-modern_impact: GalNet community report documenting current events in the galaxy.
+player_impact: Pilots followed these developments through GalNet reports.
+summary: "*Pilots Federation ALERT* An Imperial Intelligence detention facility discovered in The R CRA Sector AF-A d42 system has been repudiated by the Empire."
+modern_impact: "\"There is no such place as 'Serene Harbour'.\" The Empire's denial of Serene Harbour foreshadowed revelations about Imperial Intelligence's brutal treatment of political prisoners and NMLA suspects."
+related_uuids:
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+- 67932c1d-fed0-5cc2-b9a2-8aededff61c3
+- f359d9c3-aa3c-5d56-bf91-97754c4357a9
+- 6efd63d0-0d68-594f-8e75-b0c5df826485
+- 5140542a-1be3-56a9-a558-8224ef317bf7
+- 12cb1fa8-abf9-5608-adb7-15ce6660e828
 legacy_weight: 2
 significance: low
 ---

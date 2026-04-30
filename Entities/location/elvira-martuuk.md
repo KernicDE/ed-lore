@@ -9,8 +9,7 @@ related_entities:
 - aegis
 - khun
 - federal-times
-- alba-tesreau-made
-- act
+- maelstrom
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +25,7 @@ Total mentions: **3**
 - [[Aegis]] (3 co-mentions)
 - [[Khun]] (2 co-mentions)
 - [[Federal Times]] (1 co-mentions)
-- [[Alba Tesreau made]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
+- [[Maelstrom]] (1 co-mentions)
 
 ## Biography
 

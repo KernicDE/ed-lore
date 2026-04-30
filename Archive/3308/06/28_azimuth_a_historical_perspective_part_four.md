@@ -4,41 +4,40 @@ title: 'Azimuth: A Historical Perspective (Part Four)'
 slug: azimuth_a_historical_perspective_part_four
 date: '3308-06-28'
 source: API
-groups:
-- ACT
-- Aegis
-- Alliance
-- Azimuth
-- Azimuth Biochemicals
+persons:
+- Aden Tanner
+- Morag Halloran
+- Ram Tah
 - Salvation
-- Thargoid
-locations:
+groups:
 - Aegis
-- Azimuth
+- Alliance Defence Force
+- Azimuth Biochemicals
+- Taurus Mining Ventures
+locations:
 - Cornsar
 - Delphi
-- Guardian
-- HIP 22460
+- Hind Mine
 - Maia
-- Maia and Merope
 - Merope
-- Musashi
-- Ram Tah
 - T Tauri
-- Thargoid
-- Thargoid presence from the Cornsar
-- Wregoe
+- Wregoe TC-X b29-0
 topics:
 - alien contact
 - bioweapon
+- corporate expansion
 - investigation
 - research
-- ship
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Part four traces the escalating rivalry between Aegis and Salvation, Admiral Tanner's failed assault on Hind Mine and court martial, the simultaneous invasions of Delphi, Maia and Merope, and the discovery of Alexandria debris revealing Azimuth's survival.
+player_impact: Pilots supported Taurus Mining Ventures in defending Hind Mine against Tanner's assault and participated in operations during the Delphi, Maia and Merope invasions.
+modern_impact: The official authorisation of superpower naval crews to defect to Salvation's forces marked the point at which state militaries formally subordinated themselves to a corporate mercenary structure, dissolving the boundary between public and private warfare.
+related_uuids:
+- 0beee1ec-da7a-57db-a67c-3a1f20eb4828
+- 8ff66371-3861-5214-b69f-432b6c200e2b
+- 7f805447-27c2-5fd5-8353-f45f651f911e
 legacy_weight: 5
 significance: high
 ---

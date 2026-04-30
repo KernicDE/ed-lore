@@ -8,9 +8,9 @@ mention_count: 24
 related_entities:
 - alliance
 - sirius-corporation
-- act
-- thargoid
 - lave
+- alioth
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **24**
 
 ## Related
 
-- [[Alliance]] (14 co-mentions)
+- [[Alliance]] (13 co-mentions)
 - [[Sirius Corporation]] (6 co-mentions)
-- [[ACT]] (5 co-mentions)
-- [[Thargoid]] (5 co-mentions)
 - [[Lave]] (4 co-mentions)
+- [[Alioth]] (4 co-mentions)
+- [[Sol]] (3 co-mentions)
 
 ## Biography
 

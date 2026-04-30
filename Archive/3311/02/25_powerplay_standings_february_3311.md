@@ -4,8 +4,7 @@ title: 'Powerplay Standings: February 3311'
 slug: powerplay_standings_february_3311
 date: '3311-02-25'
 source: API
-groups:
-- ACT
+groups: []
 locations: []
 topics:
 - research

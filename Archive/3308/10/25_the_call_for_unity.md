@@ -4,28 +4,37 @@ title: The Call for Unity
 slug: the_call_for_unity
 date: '3308-10-25'
 source: API
+arc_id: thargoid-titan-war
+persons:
+- Angela Corcoran
+- General Falkenrath
+- Heimar Borichev
+- President Hudson
 groups:
-- ACT
 - Aegis
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Aegis
-- But many independent
 - HIP 22460
-- Newsfeeds across the core
 - Sirius
 - Sol
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - diplomacy
 - war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
+summary: Newsfeeds across the core systems have reflected the increasing public demand
+  for full-scale military cooperation against the Thargoids.
+modern_impact: '"Removing the Far God cult from Federal space was a way of distracting
+  the people from President Hudson’s failures. Th..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- f2680020-36ae-554f-ae92-3a367a9f1d23
+- 56d06164-e5b6-59b9-ae17-1ddf24d0faf6
+- f052748e-b6ee-52c8-9657-75e06d0e3612
+- 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
+- 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 legacy_weight: 5
 significance: high
 ---

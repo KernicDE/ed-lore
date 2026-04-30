@@ -4,23 +4,23 @@ title: Taurus Prepares Mining Operation
 slug: taurus_prepares_mining_operation
 date: '3308-03-28'
 source: API
-entities:
-- Carpenter
+persons:
 - Ruben Carpenter
-groups:
-- ACT
+entities: []
+groups: []
 locations:
-- Heart of Taurus
 - Synuefe
 topics:
 - corporate expansion
 - research
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+summary: Taurus Mining Ventures announces a new mining initiative in the Synuefe CE-R c21-6 system.
+player_impact: Pilots were invited to support Taurus Mining Ventures' new mining initiative in Synuefe.
+modern_impact: "\"Plans for a new mining initiative by Taurus Mining Ventures in the Synuefe CE-R c21-6 system have been announced.\" The Synuefe mining operation appears designed to extract resources for Salvation's Guardian-derivative research."
 legacy_weight: 2
 significance: low
 ---
+
 
 *Pilots’ Federation ALERT*
 Plans for a new mining initiative by Taurus Mining Ventures in [[The]] [[Synuefe]] CE-R c21-6 system have been announced.

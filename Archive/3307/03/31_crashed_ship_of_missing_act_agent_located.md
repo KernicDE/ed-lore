@@ -2,27 +2,42 @@
 uuid: bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 title: Crashed Ship of Missing ACT Agent Located
 slug: crashed_ship_of_missing_act_agent_located
-date: '3307-03-31'
+date: 3307-03-31
 source: API
-entities:
+arc_id: nmla-terrorism
+persons:
+- Every
+- Found
+- Imperial Internal Security Service
+- Its
 - Located
+- Mudhrid
+- Our
+- The Achenar
 - TheRealFlame
+- This
+- Vessel
+- With
 groups:
 - Imperial Internal Security Service
 - Marlinist
 - NMLA
-- Pilots Federation
 locations:
 - Achenar
 - Marlinist
 topics:
-- construction
 - investigation
-- ship
 - war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: Pilots followed these developments through GalNet reports.
+summary: "*Pilots Federation ALERT* The Vessel of Captain Niamh Seutonia, who vanished on an anti-NMLA mission, has been Found With Its crew dead."
+modern_impact: "\"We owe a debt to every pilot who joined our efforts to find the Valkyrie.\" The discovery of the Valkyrie's wreckage provided crucial evidence linking the Mudhrid system to the NMLA bombings, advancing ACT's investigation."
+related_uuids:
+- f359d9c3-aa3c-5d56-bf91-97754c4357a9
+- 67932c1d-fed0-5cc2-b9a2-8aededff61c3
+- 6efd63d0-0d68-594f-8e75-b0c5df826485
+- 53d46995-be97-58ec-bca6-43387e9ea9c9
+- 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
 legacy_weight: 5
 significance: high
 ---

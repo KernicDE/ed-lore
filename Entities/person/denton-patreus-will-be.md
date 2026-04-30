@@ -5,9 +5,6 @@ type: person
 first_seen_date: '3307-02-12'
 last_seen_date: '3307-02-12'
 mention_count: 1
-related_entities:
-- marlinist
-- sirius-corporation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,8 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Marlinist]] (1 co-mentions)
-- [[Sirius Corporation]] (1 co-mentions)
 
 ## Biography
 

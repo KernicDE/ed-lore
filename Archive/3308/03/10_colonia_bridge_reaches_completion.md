@@ -4,31 +4,27 @@ title: Colonia Bridge Reaches Completion
 slug: colonia_bridge_reaches_completion
 date: '3308-03-10'
 source: API
+arc_id: null
 groups:
 - Brewer Corporation
-- Bridge
 - Canonn
-- Colonia Bridge
 - Universal Cartographics
 locations:
 - Colonia
 - Gateway
 - Jaques Station
-- Jaques Station in the Colonia
 topics:
-- construction
 - corporate expansion
 - engineering
 - exploration
 - humanitarian
-- ship
-- trade
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+summary: The Colonia Bridge project concludes successfully with all starport services installed.
+player_impact: Pilots who contributed received rewards and naming invitations for the new starports.
+modern_impact: "\"Brewer Corporation's project to improve travel between the core systems and Colonia region has successfully concluded.\" The completed Colonia Bridge permanently reduces the logistical barriers to deep-space settlement and exploration."
 legacy_weight: 3
 significance: medium
 ---
+
 
 *Pilots’ Federation ALERT*
 [[Brewer Corporation]]’s project to improve travel between [[The]] core systems and Colonia region has successfully concluded.

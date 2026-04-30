@@ -1,36 +1,34 @@
 ---
-uuid: 77d08b93-d779-599d-9f2a-b4e7733d91a8
-title: Tesreau Highlights Azimuth’s ‘Inhumanity’
+uuid: 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
+title: Tesreau Highlights Azimuth's Inhumanity
 slug: tesreau_highlights_azimuths_inhumanity
 date: '3308-07-27'
 source: API
-entities:
+persons:
 - Alba Tesreau
+- Torben Rademaker
 groups:
-- ACT
-- Aegis
 - Alliance
-- Azimuth
-- Salvation
-- Thargoid
+- Azimuth Biotech
+- Black Flight
+- Empire
+- Federation
 locations:
-- Aegis
-- Azimuth
-- Bright Sentinel
 - Fort Asch
-- Guardian
 - HIP 22460
-- Thargoid
+- Overlook
 topics:
 - alien contact
 - crime
 - research
-- ship
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Professor Alba Tesreau publishes a counter-statement exposing Azimuth's inhumanity, linking HIP 22460 to Project Seraph's Fort Asch experiments, Black Flight's Overlook megaship, and the Alexandria sabotage.
+player_impact: Not specifically mentioned — this is a political statement.
+modern_impact: Tesreau's detailed expose connected Azimuth's historical atrocities to its present operations, providing the most comprehensive public indictment of Salvation's organisation before the Proteus Wave activation.
+related_uuids:
+- 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
 legacy_weight: 5
 significance: high
 ---

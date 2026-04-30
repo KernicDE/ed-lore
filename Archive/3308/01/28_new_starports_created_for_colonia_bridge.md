@@ -4,25 +4,22 @@ title: New Starports Created for Colonia Bridge
 slug: new_starports_created_for_colonia_bridge
 date: '3308-01-28'
 source: API
+arc_id: null
 groups:
-- ACT
 - Brewer Corporation
-- Bridge
 - Canonn
-- Colonia Bridge
 locations:
 - Colonia
 - Gateway
 topics:
-- construction
 - corporate expansion
-- trade
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+summary: Six new starports are completed along the Colonia Bridge travel corridor.
+player_impact: Pilots who contributed to the project received engineered frame shift drives and naming rights.
+modern_impact: "\"The infrastructures of six starports have been completed along the travel corridor between Colonia and the core systems.\" The completion of these starports transforms deep-space exploration into a viable commercial route."
 legacy_weight: 3
 significance: medium
 ---
+
 
 *Pilots’ Federation ALERT*
 [[The]] infrastructures of six starports have been completed along the travel corridor between Colonia and the core systems.

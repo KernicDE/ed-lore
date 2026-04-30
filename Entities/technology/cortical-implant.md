@@ -1,19 +1,19 @@
 ---
 id: cortical-implant
-name: Cortical implant
+name: cortical implant
 type: technology
-first_seen_date: '3310-10-18'
-last_seen_date: '3310-10-24'
-mention_count: 3
+first_seen_date: '3308-06-10'
+last_seen_date: '3311-06-03'
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Cortical implant
+# cortical implant
 
-First mentioned: **3310-10-18**  
-Last mentioned: **3310-10-24**  
-Total mentions: **3**
+First mentioned: **3308-06-10**  
+Last mentioned: **3311-06-03**  
+Total mentions: **2**
 
 ## Related
 

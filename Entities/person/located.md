@@ -2,32 +2,21 @@
 id: located
 name: Located
 type: person
-first_seen_date: '3307-03-31'
+first_seen_date: '3307-01-07'
 last_seen_date: '3307-03-31'
-mention_count: 1
-related_entities:
-- therealflame
-- imperial-internal-security-service
-- marlinist
-- nmla
-- pilots-federation
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Located
 
-First mentioned: **3307-03-31**  
+First mentioned: **3307-01-07**  
 Last mentioned: **3307-03-31**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[TheRealFlame]] (1 co-mentions)
-- [[Imperial Internal Security Service]] (1 co-mentions)
-- [[Marlinist]] (1 co-mentions)
-- [[NMLA]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 

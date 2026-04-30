@@ -1,29 +1,26 @@
 ---
-uuid: 4a1970bd-317f-518d-95da-22551e7e7907
+uuid: 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
 title: A Day of Remembrance for HIP 22460
 slug: a_day_of_remembrance_for_hip_22460
 date: '3308-08-22'
 source: API
-entities:
-- Felicia Winters provided
-- Hudson fails
+persons:
+- Felicia Winters
 - Zachary Hudson
 groups:
-- ACT
 - Federal Navy
-- Federal Times
-- Salvation
-- Shadow President
-- Thargoid
 locations:
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
+- politics
 - war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: President Zachary Hudson declares a Federal day of remembrance for the over fifty thousand naval personnel lost in the Battle of HIP 22460, while Shadow President Felicia Winters criticises the commitment of Federal resources to Salvation's failed project.
+player_impact: Not specifically mentioned — this is a commemorative announcement.
+modern_impact: Hudson's framing of the disaster as purely Thargoid aggression, countered by Winters' accusation of Federal complicity, defined the partisan debate over responsibility for the HIP 22460 catastrophe.
+related_uuids:
+- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
 legacy_weight: 5
 significance: high
 ---

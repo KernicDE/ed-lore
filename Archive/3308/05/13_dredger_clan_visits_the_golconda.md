@@ -4,20 +4,24 @@ title: Dredger Clan Visits the Golconda
 slug: dredger_clan_visits_the_golconda
 date: '3308-05-13'
 source: API
-entities:
-- Javi Alvarado  gave
-groups:
-- ACT
+arc_id: null
+persons:
+- Javi Alvarado
+groups: []
 locations:
-- Dredger
+- Upaniklis
 - Golconda
 - Sol
+- Forester's Choice
 topics:
-- ship
-- trade
-arc_id: golconda
-modern_impact: The Golconda generation ship's journey continues to fascinate as a
-  story of human endurance.
+- exploration
+- first contact
+player_impact: Commander Javi Alvarado reported on the Artificers Clan dredger's arrival after making trade runs to Forester's Choice.
+summary: The Artificers Clan dredger enters the Upaniklis system and begins examining the abandoned generation ship Golconda.
+modern_impact: "\"Anyway, when the Artificers first appeared, the Golcondans asked me to find out what they wanted.\" The sudden arrival of the enigmatic Artificers Clan introduced an unpredictable variable into the Golcondans' settled existence, setting in motion events that would eventually return the ancient generation ship to the stars."
+related_uuids:
+- ff5722b5-1a96-552d-8cd6-8038d85d2c4b
+- 29d5b601-f009-53a2-872a-6e2947837243
 legacy_weight: 3
 significance: medium
 ---

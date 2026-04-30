@@ -2,12 +2,15 @@
 uuid: 23c15505-2dad-55eb-a304-7e964af5198c
 title: Xenological Samples Required by Colonia Scientists
 slug: xenological_samples_required_by_colonia_scientists
-date: '3307-01-07'
+date: 3307-01-07
 source: API
-entities:
-- Roy Casimir outlined
-groups:
-- Pilots Federation
+arc_id: null
+persons:
+- Located
+- Our
+- This
+- Which
+groups: []
 locations:
 - Colonia
 - Holloway Bioscience Institute
@@ -15,9 +18,16 @@ locations:
 topics:
 - alien contact
 - research
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots delivered tissue samples from space-dwelling organisms to Colonia researchers.
+summary: "*Pilots Federation ALERT* The Holloway Bioscience Institute in Colonia is offering high payouts for delivering samples from space-dwelling lifeforms."
+modern_impact: "\"There is still a huge amount to learn about the fascinating structures that grow within the vacuum of space.\" Colonia's xenobiological research continues to expand humanity's understanding of space-dwelling lifeforms in the far reaches of the galaxy."
+related_uuids:
+- efe5135a-eeba-5808-80b4-0cf451868bf9
+- d36d7bc8-5f5c-550c-a0e6-7390f777470e
+- bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
+- aa81f947-721e-52c8-a91e-906bf41c62b8
+- 471b8e46-16ce-5791-b60b-9362e740c2a6
+- 0ed40d37-c7a2-5252-9105-e141bc1020d5
 legacy_weight: 4
 significance: high
 ---

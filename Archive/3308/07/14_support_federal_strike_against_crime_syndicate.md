@@ -4,16 +4,25 @@ title: Support Federal Strike Against Crime Syndicate
 slug: support_federal_strike_against_crime_syndicate
 date: '3308-07-14'
 source: API
-entities:
+arc_id: null
+persons:
 - Faisal Sacranie
+- Oberon Church
+entities: []
 groups:
-- ACT
+- Federal Intelligence Agency
+locations:
+- Andowatye
 topics:
 - crime
 - espionage
 - narcotics
-- ship
-modern_impact: Ship review and release information for the pilot community.
+player_impact: Independent pilots were hired as auxiliaries to hunt down Red Family ships and collect bounties in Andowatye.
+summary: The FIA authorizes bounties on Red Family ships in Andowatye as the hunt for kingpin Oberon Church intensifies.
+modern_impact: "Executive Agent Sacranie's statement that 'we have a duty to all Federal citizens to prevent this from happening' framed the operation as a populist law enforcement victory, though it relied heavily on the controversial Proactive Detection Bureau."
+related_uuids:
+- bbc309bf-14a0-5e8f-97eb-ee99cf16abe7
+- f187baed-de66-5f1a-8713-699d8eac4cbd
 legacy_weight: 2
 significance: low
 ---

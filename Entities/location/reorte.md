@@ -8,9 +8,9 @@ mention_count: 14
 related_entities:
 - alliance
 - sirius-corporation
-- act
-- thargoid
 - alioth
+- rhea
+- leesti
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **14**
 
 - [[Alliance]] (13 co-mentions)
 - [[Sirius Corporation]] (12 co-mentions)
-- [[ACT]] (11 co-mentions)
-- [[Thargoid]] (7 co-mentions)
 - [[Alioth]] (6 co-mentions)
+- [[Rhea]] (3 co-mentions)
+- [[Leesti]] (2 co-mentions)
 
 ## Biography
 

@@ -7,10 +7,10 @@ last_seen_date: '3310-01-04'
 mention_count: 37
 related_entities:
 - capitol
-- arissa-lavigny-duval
 - alliance
 - imperial-herald
 - achenar
+- imperial-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **37**
 ## Related
 
 - [[Capitol]] (19 co-mentions)
-- [[Arissa-Lavigny Duval]] (11 co-mentions)
 - [[Alliance]] (11 co-mentions)
 - [[Imperial Herald]] (9 co-mentions)
 - [[Achenar]] (7 co-mentions)
+- [[Imperial Navy]] (6 co-mentions)
 
 ## Biography
 

@@ -4,19 +4,27 @@ title: Corrs Toy Emporium Calls for Help
 slug: corrs_toy_emporium_calls_for_help
 date: '3308-12-15'
 source: API
-groups:
-- ACT
-- Thargoid
-locations:
-- Thargoid
+arc_id: null
+persons:
+- Sandra Corrs
 topics:
 - alien contact
 - corporate expansion
 - festival
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
+summary: Sandra Corrs, CEO of the largest manufacturer of children’s toys in the core
+  systems, has requested help this holiday season.
+modern_impact: '"We typically use a fleet of transports provided by our partner company,
+  Dolph’s Routes, to deliver presents to good c..." This perspective highlights the
+  broader stakes and continues to shape contemporary debates.'
+related_uuids:
+- bd5a1074-4db4-556d-bd6d-4207d963ce10
+- f2680020-36ae-554f-ae92-3a367a9f1d23
+- d13f9e74-42b1-59d1-a7d0-33adf8d04246
+- 9d88d95b-e2d8-5107-bb42-666da4ea00bf
+- 6e669118-5e61-5609-b8cd-b443a5464632
 legacy_weight: 5
 significance: high
 ---

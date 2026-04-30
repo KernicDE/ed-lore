@@ -4,13 +4,13 @@ name: Bright Sentinel
 type: location
 first_seen_date: '3308-06-30'
 last_seen_date: '3309-12-11'
-mention_count: 23
+mention_count: 18
 related_entities:
-- azimuth
-- act
 - hip-22460
+- azimuth
 - salvation
-- thargoid
+- azimuth-biotech
+- heart-of-taurus
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-06-30**  
 Last mentioned: **3309-12-11**  
-Total mentions: **23**
+Total mentions: **18**
 
 ## Related
 
-- [[Azimuth]] (23 co-mentions)
-- [[ACT]] (21 co-mentions)
-- [[HIP 22460]] (21 co-mentions)
-- [[Salvation]] (20 co-mentions)
-- [[Thargoid]] (19 co-mentions)
+- [[HIP 22460]] (16 co-mentions)
+- [[Azimuth]] (11 co-mentions)
+- [[Salvation]] (10 co-mentions)
+- [[Azimuth Biotech]] (7 co-mentions)
+- [[Heart of Taurus]] (5 co-mentions)
 
 ## Biography
 

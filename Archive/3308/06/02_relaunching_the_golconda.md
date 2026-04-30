@@ -4,22 +4,25 @@ title: Relaunching the Golconda
 slug: relaunching_the_golconda
 date: '3308-06-02'
 source: API
-groups:
-- ACT
+arc_id: null
+persons:
+- Captain Jonathon Forester
+groups: []
 locations:
 - Earth
 - Golconda
+- Upaniklis
 topics:
 - corporate expansion
 - diplomacy
-- medicine
 - piracy
-- ship
-- trade
 - war
-arc_id: golconda
-modern_impact: The Golconda generation ship's journey continues to fascinate as a
-  story of human endurance.
+player_impact: Pilots delivered tritium, medical equipment, and power generators to Fozard Port in Upaniklis and defended traders from pirates.
+summary: The ancient generation ship Golconda is retrofitted and prepares to resume its voyage with community support.
+modern_impact: "The Golconda's return to the stars symbolises humanity's enduring pioneer spirit: 'It will be fitting if they can help us start a new chapter among the stars.' This community-driven restoration of a 22nd-century vessel highlights how pilot initiatives can rewrite the fate of isolated societies."
+related_uuids:
+- c31240e4-e464-5f71-a1d7-dddc35a7e146
+- 7f00ad08-050b-5a1e-b30c-f03501029ae3
 legacy_weight: 3
 significance: medium
 ---

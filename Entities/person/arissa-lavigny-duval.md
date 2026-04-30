@@ -6,11 +6,11 @@ first_seen_date: '3303-02-03'
 last_seen_date: '3303-02-03'
 mention_count: 1
 related_entities:
-- act
 - capitol
 - alliance
-- nmla
 - imperial-palace
+- imperial-senate
+- achenar
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (17 co-mentions)
-- [[Capitol]] (14 co-mentions)
-- [[Alliance]] (12 co-mentions)
-- [[NMLA]] (12 co-mentions)
-- [[Imperial Palace]] (11 co-mentions)
+- [[Capitol]] (6 co-mentions)
+- [[Alliance]] (6 co-mentions)
+- [[Imperial Palace]] (5 co-mentions)
+- [[Imperial Senate]] (4 co-mentions)
+- [[Achenar]] (4 co-mentions)
 
 ## Biography
 

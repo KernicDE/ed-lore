@@ -2,11 +2,20 @@
 uuid: 29fa900d-a3ad-5a63-bdae-88a4acceaf60
 title: Jasmina Halsey Returns to the Federation
 slug: jasmina_halsey_returns_to_the_federation
-date: '3307-01-20'
+date: 3307-01-20
 source: API
-entities:
+arc_id: federal-politics
+persons:
+- Edmund Mahon
 - Felicia Winters
 - Jasmina Halsey
+- Mars
+- Olympus Village
+- President Jasmina Halsey
+- President Zachary Hudson
+- Shadow President
+- This
+- Which
 - Zachary Hudson
 groups:
 - Alliance
@@ -14,10 +23,17 @@ groups:
 locations:
 - Mars
 - Olympus Village
-topics:
-- ship
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+topics: []
+player_impact: Pilots followed these developments through GalNet reports.
+summary: Former President Jasmina Halsey has arrived on Mars to stand as a witness in The upcoming trial of Fleet Admiral Lucas Vincent.
+modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+related_uuids:
+- 3a299742-113f-5b36-98e2-a791ed35ae34
+- 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
+- fefdabb9-36ba-57a2-8321-e9764f0b713c
+- ef475ada-e268-55e0-8ada-ae250caa5c86
+- c917c581-7cd2-54eb-a0cd-ff49b24b1f92
+- 4e4f34c5-f585-58c6-983a-ec7b9135f20d
 legacy_weight: 3
 significance: medium
 ---

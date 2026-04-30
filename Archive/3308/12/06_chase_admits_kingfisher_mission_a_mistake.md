@@ -4,24 +4,35 @@ title: Chase Admits Kingfisher Mission ‘A Mistake’
 slug: chase_admits_kingfisher_mission_a_mistake
 date: '3308-12-06'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Dalton Chase
+- Lana Berkovich
+- Timothy Culver
 groups:
-- ACT
 - Federal Navy
 - Salvation
-- Thargoid
 locations:
 - HIP 22460
 - Mars
 - Olympus Village
-- Thargoid
 topics:
 - alien contact
 - diplomacy
 - investigation
-- ship
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
+summary: Congressman Dalton Chase has made a public statement regretting his involvement
+  with the Thargoid Advocacy Project.
+modern_impact: '"The tragic fate that befell the Kingfisher has affected me deeply.
+  I now recognise that sourcing the means for those ..." The failure of civilian-led
+  diplomacy underscores the dangers of underestimating Thargoid hostility.'
+related_uuids:
+- cbe79040-1b75-50b1-9aad-bc544ff2b6be
+- 4e1477c4-93b5-5496-a2b9-86e95c248866
+- 17c9f162-826a-5492-8ff7-a04cd0d9cdfc
+- f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+- eb62c669-b525-5753-b3cb-faf6452a8088
 legacy_weight: 5
 significance: high
 ---

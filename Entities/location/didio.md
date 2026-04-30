@@ -2,32 +2,32 @@
 id: didio
 name: Didio
 type: location
-first_seen_date: '3308-04-28'
-last_seen_date: '3308-05-01'
-mention_count: 2
+first_seen_date: '3308-04-21'
+last_seen_date: '3308-06-29'
+mention_count: 9
 related_entities:
-- act
 - alliance
 - salvation
-- thargoid
-- sirius-corporation
+- novas
+- sosong
+- federal-navy
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Didio
 
-First mentioned: **3308-04-28**  
-Last mentioned: **3308-05-01**  
-Total mentions: **2**
+First mentioned: **3308-04-21**  
+Last mentioned: **3308-06-29**  
+Total mentions: **9**
 
 ## Related
 
-- [[ACT]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
-- [[Salvation]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
-- [[Sirius Corporation]] (1 co-mentions)
+- [[Alliance]] (8 co-mentions)
+- [[Salvation]] (8 co-mentions)
+- [[Novas]] (7 co-mentions)
+- [[Sosong]] (7 co-mentions)
+- [[Federal Navy]] (3 co-mentions)
 
 ## Biography
 

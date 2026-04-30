@@ -5,7 +5,6 @@ slug: criminal_forces_crushed_in_gliese_868
 date: '3308-03-25'
 source: API
 groups:
-- ACT
 - Federal Navy
 - Federal Security Service
 - Federal Times
@@ -13,12 +12,13 @@ topics:
 - crime
 - festival
 - piracy
-- ship
-- trade
-modern_impact: Community celebration bringing pilots together.
+summary: Federal authorities and independent pilots destroy a notorious pirate gang in Gliese 868.
+player_impact: Commanders worked alongside Federal authorities to destroy criminal ships in Gliese 868.
+modern_impact: "\"Commanders have worked alongside Federal authorities to destroy criminal ships in the Gliese 868 system.\" The Gliese 868 operation demonstrates the seamless integration of independent pilots into Federal law enforcement."
 legacy_weight: 1
 significance: low
 ---
+
 
 *Pilots’ Federation ALERT*
 Commanders have worked alongside Federal authorities to destroy criminal ships in [[The]] Gliese 868 system.

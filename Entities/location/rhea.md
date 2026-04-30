@@ -4,12 +4,12 @@ name: Rhea
 type: location
 first_seen_date: '3302-01-04'
 last_seen_date: '3311-05-15'
-mention_count: 17
+mention_count: 16
 related_entities:
-- act
 - sirius-corporation
-- thargoid
 - alliance
+- sol
+- reorte
 - leesti
 ---
 
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3302-01-04**  
 Last mentioned: **3311-05-15**  
-Total mentions: **17**
+Total mentions: **16**
 
 ## Related
 
-- [[ACT]] (7 co-mentions)
-- [[Sirius Corporation]] (7 co-mentions)
-- [[Thargoid]] (7 co-mentions)
-- [[Alliance]] (6 co-mentions)
-- [[Leesti]] (4 co-mentions)
+- [[Sirius Corporation]] (6 co-mentions)
+- [[Alliance]] (5 co-mentions)
+- [[Sol]] (3 co-mentions)
+- [[Reorte]] (3 co-mentions)
+- [[Leesti]] (3 co-mentions)
 
 ## Biography
 

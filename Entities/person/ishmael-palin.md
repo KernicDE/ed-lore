@@ -3,14 +3,14 @@ id: ishmael-palin
 name: Ishmael Palin
 type: person
 first_seen_date: '3301-09-13'
-last_seen_date: '3309-05-09'
-mention_count: 56
+last_seen_date: '3305-07-30'
+mention_count: 40
 related_entities:
 - maia
+- obsidian-orbital
+- canonn
+- canonn-interstellar-research-group
 - professor-palin
-- thargoid
-- ram-tah
-- act
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Ishmael Palin
 
 First mentioned: **3301-09-13**  
-Last mentioned: **3309-05-09**  
-Total mentions: **56**
+Last mentioned: **3305-07-30**  
+Total mentions: **40**
 
 ## Related
 
 - [[Maia]] (21 co-mentions)
-- [[Professor Palin]] (15 co-mentions)
-- [[Thargoid]] (15 co-mentions)
-- [[Ram Tah]] (12 co-mentions)
-- [[ACT]] (11 co-mentions)
+- [[Obsidian Orbital]] (9 co-mentions)
+- [[Canonn]] (8 co-mentions)
+- [[Canonn Interstellar Research Group]] (8 co-mentions)
+- [[Professor Palin]] (6 co-mentions)
 
 ## Biography
 
