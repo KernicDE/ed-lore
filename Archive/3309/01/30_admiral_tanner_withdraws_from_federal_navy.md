@@ -4,21 +4,27 @@ title: Admiral Tanner Withdraws from Federal Navy
 slug: admiral_tanner_withdraws_from_federal_navy
 date: '3309-01-30'
 source: API
+entities: []
+persons:
+- Aden Tanner
+- Zachary Hudson
+- Tayo Maikori
 groups:
-- ACT
 - Federal Navy
 - Federal Times
-- Salvation
-- Thargoid
 locations:
 - T Tauri
-- Thargoid
 topics:
 - alien contact
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: thargoid-titan-war
+player_impact: Not specifically mentioned — this is a political report.
+summary: Admiral Aden Tanner resigns from the Federal Navy weeks after his presidential pardon, citing bureaucratic restrictions that prevent him from effectively combating the Thargoid threat.
+modern_impact: "\"The Federal Navy was once my home, but my disillusionment has grown over recent years. Politics and commercial influences hold this great institution back from safeguarding the Federation to its fullest capability.\" Tanner's resignation signals a broader crisis of confidence in traditional military structures during the war, as experienced commanders sought operational freedom outside bureaucratic constraints."
+related_uuids:
+- 0ca28871-b558-5ac6-82c4-49ddeb281015
+- 8b0086f9-372c-5557-906d-f1d12dcbc7de
+- 918087f0-e635-591b-bc74-a1742da82b05
 legacy_weight: 5
 significance: high
 ---

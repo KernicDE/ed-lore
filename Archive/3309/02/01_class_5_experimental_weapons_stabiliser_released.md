@@ -4,22 +4,26 @@ title: Class 5 Experimental Weapons Stabiliser Released
 slug: class_5_experimental_weapons_stabiliser_released
 date: '3309-02-01'
 source: API
-entities:
-- Torben Rademaker issued
+entities: []
+persons:
+- Torben Rademaker
 groups:
-- Aegis
-- Azimuth
+- Azimuth Biotech
 locations:
-- Aegis
-- Azimuth
 - LHS 1163
 topics:
 - alien contact
 - corporate expansion
-- ship
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: null
+player_impact: Not specifically mentioned — this is a corporate expansion report.
+summary: Azimuth Biotech commercially launches a class 5 experimental weapons stabiliser
+  that allows large ships to mount six AX weapons.
+modern_impact: "CEO Torben Rademaker claimed: \"Our proprietary technology has bypassed
+  the inherent design flaws of Aegis's AX weaponry.\" This highlights how Azimuth
+  Biotech leveraged the Thargoid war to dominate the military-industrial market,
+  positioning itself as humanity's primary anti-xeno defence contractor and sidelining
+  the once-collaborative Aegis model with corporate competition."
+related_uuids: []
 legacy_weight: 5
 significance: high
 ---

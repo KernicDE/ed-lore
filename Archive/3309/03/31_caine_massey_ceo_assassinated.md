@@ -4,21 +4,32 @@ title: Caine-Massey CEO Assassinated
 slug: caine_massey_ceo_assassinated
 date: '3309-03-31'
 source: API
-entities:
-- Assassinated
-- Viola Trask provided
+entities: []
+groups:
+- Caine-Massey
+- Federal Commerce Authority
+- Federal Intelligence Agency
 locations:
 - Mars
 - Olympus Village
-- Trask
 topics:
 - corporate expansion
 - diplomacy
 - espionage
 - investigation
-modern_impact: GalNet community report documenting current events in the galaxy.
+arc_id: null
+modern_impact: "Trask's statement — 'These particular models are known to be utilised by undercover Imperial agents' — immediately implicates the Empire and escalates inter-superpower tensions. The assassination of a major corporate CEO using Imperial-linked equipment signals a dangerous escalation in corporate-political warfare."
+persons:
+- Johann Fleischer
+- Philippa Barlow-Lyons
+- Viola Trask
+player_impact: "Not specifically mentioned."
+summary: "Caine-Massey CEO Johann Fleischer is assassinated at a Federal Commerce Authority seminar on Mars using a modified Manticore Executioner rifle linked to Imperial agents."
 legacy_weight: 2
 significance: low
+related_uuids:
+- dc0a3b52-41d2-52f6-9311-d5e5ebe0eff6
+- d7c1ae35-aa55-50f5-af5a-90479b0a0037
 ---
 
 Johann Fleischer, the recently appointed head of the mining corporation Caine-Massey, has been shot and killed on Mars.

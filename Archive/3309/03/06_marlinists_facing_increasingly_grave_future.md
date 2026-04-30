@@ -5,26 +5,20 @@ slug: marlinists_facing_increasingly_grave_future
 date: '3309-03-06'
 source: API
 groups:
-- ACT
-- Aegis
 - Marlinist
-- Thargoid
 locations:
-- Aegis
-- Many of the original eight colony
 - Sirius
-- Thargoid
 topics:
-- alien contact
-- construction
-- corporate expansion
 - independence
 - succession
-- terrorism
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+modern_impact: "The Marlin Standard's editorial — 'our people exploited by the opportunism of neighbouring factions' — is a lament of independence. Durant's dismissive remark — 'They voted to reject the Emperor's offer... so now they must pay the price' — is characteristic Imperial schadenfreude. The 'viral commenter' defending the colonists shows public sympathy. Volkov's admission — 'Without a dedicated military... our future prospects look increasingly grave' — is stark. Rios's broader observation about independent systems 'banding together' provides context."
+persons:
+- Arturo Durant
+- Octavia Volkov
+- Ernesto Rios
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "The Marlinist Colonies struggle with corporate exploitation and Thargoid vulnerability, with Parliament signaling willingness to contribute to Aegis but lacking military capacity."
 legacy_weight: 5
 significance: high
 ---

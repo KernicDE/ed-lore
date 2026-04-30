@@ -4,26 +4,31 @@ title: Winters Announces Election Manifesto
 slug: winters_announces_election_manifesto
 date: '3309-03-28'
 source: API
-entities:
-- Jerome Archer
-groups:
-- ACT
-- Shadow President
-- Thargoid
+entities: []
+groups: []
 locations:
-- By supporting
 - Rhea
 - Sol
-- Thargoid
 topics:
-- alien contact
 - humanitarian
-- ship
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+- politics
+arc_id: null
+modern_impact: "Winters's centerpiece promise — 'dismantling the Proactive Detection Bureau on day one' — is a clear policy differentiator. Her security framing — 'extend naval and humanitarian assistance to independent systems near our borders' — combines idealism with pragmatism. The contrasting media responses — Federal Free Press's praise vs. Sol Today's dismissal — show partisan coverage. The Republican nomination narrowing to Archer vs. Berkovich provides election context."
+persons:
+- Felicia Winters
+- Jerome Archer
+- Lana Berkovich
+- Edwin Espinosa
+- Thandeka Qwabe
+- Isolde Rochester
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "Felicia Winters launches the Liberal Party campaign, promising to dismantle the PDB on day one while maintaining military spending and extending aid to independent systems facing Thargoid aggression."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 28a5e43d-25bf-5107-946b-7479f5024525
+- 8c7d0f3d-d4f3-548d-9c4a-8bcad0485c4f
+- 50a631e1-fbcd-5297-84e9-1d2ed145b4d3
 ---
 
 The Liberal Party has published a detailed political manifesto in advance of the Federation’s presidential election in June.

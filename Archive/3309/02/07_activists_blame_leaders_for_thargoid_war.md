@@ -4,25 +4,34 @@ title: Activists Blame Leaders for Thargoid War
 slug: activists_blame_leaders_for_thargoid_war
 date: '3309-02-07'
 source: API
+entities: []
+persons:
+- Conrad Sterling
+- Timothy Culver
+- Joy Senne
+- Dalton Chase
+- Heimar Borichev
 groups:
-- ACT
 - Alliance
 - Imperial Internal Security Service
-- Thargoid
+- Allied Interpol
+- Proactive Detection Bureau
 locations:
 - Maelstrom
-- Thargoid
 topics:
 - alien contact
-- corporate expansion
 - corruption
-- diplomacy
-- festival
-- piracy
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: thargoid-titan-war
+player_impact: Not specifically mentioned — this is a political report.
+summary: "Anti-authoritarian protests surge across the superpowers as activists blame
+  government leaders for allowing the Thargoid war to escalate."
+modern_impact: "Heimar Borichev claimed: \"Institutional corruption requires radical
+  solutions.\" This illustrates how the Thargoid war fuelled widespread distrust in
+  establishment institutions, with activists viewing the conflict as a product of
+  corporate-military profiteering rather than purely alien aggression."
+related_uuids: []
 legacy_weight: 5
 significance: high
 ---

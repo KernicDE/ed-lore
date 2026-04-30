@@ -4,32 +4,34 @@ title: Thargoids Devastate Witch Head Enclave
 slug: thargoids_devastate_witch_head_enclave
 date: '3309-02-16'
 source: API
-entities:
+entities: []
+persons:
+- Chloe Sedesi
+- Warren Lamar
 - Maximo Fonseca
 groups:
-- ACT
 - Alliance
-- Thargoid
+- Alliance Expeditionary Pact
 locations:
-- Chloe Sedesi
-- 'Federation ALERT*
-
-  Populated'
-- SOS from the Shenve
-- Shenve
-- Thargoid
-- Witch Head
 - Witch Head Nebula
+- Shenve
+- Onoros
 topics:
 - alien contact
-- construction
 - engineering
 - humanitarian
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+player_impact: "Pilots were desperately requested to provide immediate reinforcements
+  and support to the Alliance Expeditionary Pact in the Witch Head Enclave."
+summary: "Thargoid fleets overrun populated systems in the Witch Head Nebula, destroying
+  starports and leaving tens of thousands of casualties."
+modern_impact: "Chloe Sedesi transmitted: \"...emergency SOS from the Shenve system.
+  The Thargoids... full-scale invasion. They've hit us hard.\" This harrowing
+  testimony captures the unprecedented scale of the Titan War's frontier assaults,
+  where even remote nebula colonies faced total annihilation far from core system
+  rescue services."
+related_uuids: []
 legacy_weight: 5
 significance: high
 ---

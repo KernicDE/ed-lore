@@ -4,17 +4,33 @@ title: Rackham Reveals Presidential Manifesto
 slug: rackham_reveals_presidential_manifesto
 date: '3309-02-27'
 source: API
-entities:
+entities: []
+persons:
+- Zachary Rackham
 - Felicia Winters
 - Jerome Archer
 - Zachary Hudson
+- Bryanna Blanco
+- Isolde Rochester
 groups:
-- Shadow President
+- Rackham Capital Investments
+- Liberal Party
+- Republican Party
+locations:
+- Homeland
 topics:
 - corporate expansion
-- piracy
+- politics
 arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+player_impact: Not specifically mentioned — this is a political report.
+summary: "Trillionaire Zachary Rackham launches his independent campaign for Federal
+  president with a populist tax-cutting manifesto."
+modern_impact: "Bryanna Blanco described his promises as \"populist nonsense from a
+  former pirate turned politician.\" Rackham's candidacy exemplifies the increasing
+  merger of corporate wealth and political power in the Federation, where an
+  unapologetic ex-pirate could leverage celebrity and business interests to mount
+  a credible challenge to the two-party establishment."
+related_uuids: []
 legacy_weight: 3
 significance: medium
 ---

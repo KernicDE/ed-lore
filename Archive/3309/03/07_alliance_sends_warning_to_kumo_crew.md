@@ -4,28 +4,28 @@ title: Alliance Sends Warning to Kumo Crew
 slug: alliance_sends_warning_to_kumo_crew
 date: '3309-03-07'
 source: API
-entities:
-- Edmund Mahon delivered
+entities: []
 groups:
-- ACT
 - Alliance
 - Kumo Crew
-- Thargoid
 locations:
 - California Nebula
-- Thargoid
 topics:
-- alien contact
 - corruption
 - crime
-- espionage
 - investigation
-- ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: "Trager's detailed findings — 'using bribery and coercion to pave the way for their takeover' and 'overthrowing local authorities under the pretence of emergency security measures' — exposes the Kumo Crew's strategy. Mahon's direct message — 'The Alliance is watching you' — is a clear threat. The framing as 'a brazen act of aggression against Allied factions' elevates the conflict to international incident."
+persons:
+- Edmund Mahon
+- Jed Trager
+- Archon Delaine
+player_impact: "Not specifically mentioned — this is a diplomatic and political report."
+summary: "The Alliance formally condemns the Kumo Crew's attempted takeover of California Nebula systems under the guise of anti-xeno defense, with Mahon warning Archon Delaine."
 legacy_weight: 5
 significance: high
+related_uuids:
+- a4e56a0c-8ed6-5ea0-8470-d26ed7eb10ac
 ---
 
 Recent activities by the Kumo Crew syndicate in the California Nebula have been formally condemned by the Alliance.

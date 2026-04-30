@@ -4,26 +4,38 @@ title: Princess Aisling ‘Understood Risk of Speaking Out’
 slug: princess_aisling_understood_risk_of_speaking_out
 date: '3309-02-17'
 source: API
-entities:
+entities: []
+persons:
+- Aisling Duval
 - Alba Tesreau
-- Fonseca
+- Dr Fonseca
+- Hadrian Augustus Duval
+- Gudrun Vestergaard
+- Arissa Lavigny-Duval
 groups:
 - Aegis
-- Alliance
 - Imperial Herald
-- NMLA
-- Thargoid
-locations:
-- Aegis
-- NMLA
-- Thargoid
+- Alliance
+locations: []
 topics:
 - alien contact
-- succession
 - war
+- politics
+- diplomacy
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+player_impact: Not specifically mentioned — this is a political report.
+summary: "Princess Aisling Duval assumes oversight of the Empire's contributions to
+  Aegis and defends her decision to defy the Emperor's isolationist decree."
+modern_impact: "Aisling Duval stated: \"Loathe though I was to defy the Emperor's decree,
+  every instinct told me that the Aegis initiative can develop methods of protecting
+  the Empire from enormous losses in this war.\" This reveals the delicate political
+  calculus within the Imperial court, where Aisling gambled her standing to push
+  for collective defence—a move that could either elevate her popularity or provoke
+  the Emperor's wrath."
+related_uuids:
+- 9baa5b63-76a6-59a5-b2f2-2b3abca36d3c
+- df6e411a-1cfc-5b1f-be65-3e9644b00824
+- 201a0a31-f461-5ded-a815-a7b9c289c352
 legacy_weight: 5
 significance: high
 ---

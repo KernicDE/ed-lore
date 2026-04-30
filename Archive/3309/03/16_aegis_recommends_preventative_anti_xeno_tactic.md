@@ -5,23 +5,22 @@ slug: aegis_recommends_preventative_anti_xeno_tactic
 date: '3309-03-16'
 source: API
 groups:
-- ACT
 - Aegis
-- Pilots Federation
-- Thargoid
-locations:
-- Aegis
-- Thargoid
+locations: []
 topics:
 - alien contact
 - research
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Varga's strategic insight — 'The effort required to repel an invasion fleet is far higher than dissuading that fleet from entering a system in the first place' — is a military axiom. The theory that Thargoids take a 'path of least resistance' approach is actionable intelligence. The specific identification of Orthrus vessels as 'key to prepping systems for invasion' and that 'invading Thargoid vessels know exactly where to emerge from hyperspace' provides tactical targets."
+persons:
+- Emil Varga
+player_impact: "Combat bonds payouts on Orthrus vessels have been increased."
+summary: "Aegis proposes a preventative defense strategy — protecting systems at threat of invasion rather than only fighting fleets that have already arrived — with Orthrus ships identified as key to invasion preparation."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2e7e258a-5974-5a34-b102-93d10a22c438
 ---
 
 *Pilots Federation Alert*

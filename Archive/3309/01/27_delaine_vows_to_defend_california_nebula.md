@@ -4,27 +4,31 @@ title: Delaine Vows to Defend California Nebula
 slug: delaine_vows_to_defend_california_nebula
 date: '3309-01-27'
 source: API
+entities: []
+persons:
+- Archon Delaine
+- Harrison Gladstone
 groups:
-- ACT
-- Alliance
 - Kumo Crew
-- October
-- Thargoid
+- Alliance
+- Turner Research Group
 locations:
 - California Nebula
-- Maelstrom
 - Pegasi
-- Thargoid
+- Mictlan
 topics:
 - alien contact
 - piracy
 - research
-- ship
-- sport
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+player_impact: Not specifically mentioned — this is a territorial defense report.
+summary: Archon Delaine mobilizes the Kumo Crew to defend the California Nebula from Thargoid invasions, drawing skepticism from the Turner Research Group.
+modern_impact: "\"Already the war has reached the California Nebula. But are any superpower navies racing to its defence? Of course not – the Alliance considers this colony expendable.\" Delaine's rhetorical positioning of pirates as protectors of neglected colonies challenged the narrative that only superpowers could organize effective anti-xeno resistance, foreshadowing broader non-state actor involvement in the war."
+related_uuids:
+- 40d9b854-2973-5053-a42d-6955f8876544
+- bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
+- 09d4b9af-ccaf-5d95-8847-50360aaf1af2
 legacy_weight: 5
 significance: high
 ---

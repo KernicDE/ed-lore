@@ -4,24 +4,27 @@ title: Experimental Weapon Stabiliser Initiative Begins
 slug: experimental_weapon_stabiliser_initiative_begins
 date: '3309-01-19'
 source: API
+entities: []
+persons: []
 groups:
-- ACT
-- Azimuth
-- Thargoid
+- Azimuth Biotech
+- Operation Wych-Hunt
 locations:
-- Azimuth
 - Glorious Prospect
 - HIP 22460
-- Proteus Wave operation in the HIP 22460
-- Thargoid
+- LHS 1163
 topics:
 - alien contact
 - corporate expansion
-- ship
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: thargoid-titan-war
+player_impact: Pilots were asked to deliver meta-alloys, insulating membranes, HN shock mounts, and beryllium to the Glorious Prospect megaship in LHS 1163.
+summary: Azimuth Biotech launches a material delivery initiative in LHS 1163 to mass-produce its experimental weapon stabiliser for anti-xeno combat.
+modern_impact: "\"This proprietary invention redistributes the physical stresses that AX weapons place upon a ship's infrastructure. The class 3 and class 5 variants allow ships to be outfitted with one or two additional AX weapons respectively.\" This initiative marked Azimuth's first major community-driven manufacturing campaign in the post-Salvation era, leveraging independent pilots to scale production of a commercially proprietary war material."
+related_uuids:
+- 8b0086f9-372c-5557-906d-f1d12dcbc7de
+- 55837bae-0f7a-5bc8-9a95-4fb792abd6c0
+- c8748b5c-ead9-5303-92b2-5cb20d64e511
 legacy_weight: 5
 significance: high
 ---

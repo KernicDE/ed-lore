@@ -4,35 +4,36 @@ title: 'Mahon: ‘Alliance Will Support Aegis’'
 slug: mahon_alliance_will_support_aegis
 date: '3309-02-06'
 source: API
-entities:
+entities: []
+persons:
+- Edmund Mahon
 - Angela Corcoran
-- Corcoran will act as
-- Edmund Mahon made
 - Maximo Fonseca
+- Li Yong-Rui
+- Emil Varga
 groups:
-- ACT
 - Aegis
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Aegis
-- Alliance
-- Allied
 - Gateway
-- Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
-- espionage
+- diplomacy
 - research
-- ship
-- succession
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+player_impact: Not specifically mentioned — this is a political report.
+summary: "The Alliance Assembly votes to commit ships, resources and personnel to Aegis
+  if the tri-superpower agency is reformed."
+modern_impact: "Edmund Mahon stated: \"The Alliance will therefore commit ships, resources
+  and personnel to a collaborative anti-xeno agency.\" This underscores the Alliance's
+  traditional commitment to multilateralism, even as corporate interests like Sirius
+  Corporation sought to monopolise the anti-xeno role for profit."
+related_uuids:
+- df6e411a-1cfc-5b1f-be65-3e9644b00824
+- 201a0a31-f461-5ded-a815-a7b9c289c352
+- 69df1032-f6ec-58b2-9b05-cbcb3c243462
 legacy_weight: 4
 significance: high
 ---

@@ -6,24 +6,27 @@ date: '3309-03-20'
 source: API
 groups:
 - Aegis
-- Azimuth
+- Azimuth Biotech
 - Salvation
-- Thargoid
 locations:
-- Aegis
-- Azimuth
 - Bright Sentinel
-- Thargoid
 topics:
 - alien contact
-- engineering
-- medicine
 - research
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+modern_impact: "Fowler's broadcast — 'Some say that a black ops teams have either kidnapped or assassinated her. Maybe it's Azimuth. Maybe it's a dead man's switch group belonging to Salvation' — is pure speculation but entertaining. The 'hacktivist from the Collective' intercepting comms about 'Bright Sentinel' and 'Nemesis protocol' provides breadcrumbs. Qadir's clinical dismissal — 'Aegis's amateurish efforts... resulted in some form of dissociative disorder' — is transparent deflection."
+persons:
+- Seo Jin-ae
+- Kit Fowler
+- Nassim Qadir
+player_impact: "Not specifically mentioned — this is a rumor and investigation report."
+summary: "Rumors suggest Seo Jin-ae has been kidnapped or assassinated; Aegis is investigating, while Azimuth claims she has 'dissociative disorder and paranoid delusions.'"
 legacy_weight: 5
 significance: high
+related_uuids:
+- 9c22f6d3-8ed2-5e7d-ac67-1775f25d79bf
+- 647ad1d2-a58f-5e9b-94ad-d7f1b1ffd668
+- e159e9da-bdef-5639-9acd-252e0a4cfb09
 ---
 
 An anonymous source has leaked information regarding Seo Jin-ae suggesting that she may be in serious jeopardy.

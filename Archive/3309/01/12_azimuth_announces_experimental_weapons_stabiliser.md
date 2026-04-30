@@ -4,28 +4,29 @@ title: Azimuth Announces Experimental Weapons Stabiliser
 slug: azimuth_announces_experimental_weapons_stabiliser
 date: '3309-01-12'
 source: API
-entities:
-- Torben Rademaker delivered
+entities: []
+persons:
+- Torben Rademaker
+- Aden Tanner
 groups:
-- ACT
-- Aegis
-- Azimuth
-- Thargoid
+- Azimuth Biotech
 locations:
-- Aegis
-- Azimuth
 - Musashi
 - TZ Arietis
-- Thargoid
+- Hind Mine
 topics:
 - alien contact
 - corporate expansion
-- crime
-- ship
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: thargoid-titan-war
+player_impact: Not specifically mentioned — this is a corporate announcement report.
+summary: Azimuth Biotech unveils its experimental weapons stabiliser at the TZ Arietis Weapon Expo and condemns Admiral Tanner's recent presidential pardon.
+modern_impact: "\"Azimuth's experimental weapons stabiliser is designed to redistribute the physical stresses that experimental modules place upon a ship's structural integrity.\" The unveiling of this module marks Azimuth's first major commercial success in the post-Salvation era, cementing its role as a primary arms supplier during the Second Thargoid War despite its controversial legacy."
+related_uuids:
+- 918087f0-e635-591b-bc74-a1742da82b05
+- af414e75-9512-5bdb-a09c-4a4728a99030
+- 55837bae-0f7a-5bc8-9a95-4fb792abd6c0
+- c8748b5c-ead9-5303-92b2-5cb20d64e511
 legacy_weight: 5
 significance: high
 ---

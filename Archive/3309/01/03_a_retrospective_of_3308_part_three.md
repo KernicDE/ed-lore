@@ -4,30 +4,28 @@ title: A Retrospective of 3308 (Part Three)
 slug: a_retrospective_of_3308_part_three
 date: '3309-01-03'
 source: API
-entities:
-- Alba Tesreau continued
-groups:
-- Aegis
-- Azimuth
-- October
-- Salvation
-- Thargoid
+entities: []
+persons:
+- Sima Kalhana
+- Alba Tesreau
+- Seo Jin-ae
+- Dalton Chase
+groups: []
 locations:
-- Aegis
-- Azimuth
 - HIP 22460
-- Hyades
-- Hyades Sector
-- Maelstrom
-- Thargoid
-- Thargoids to invade and conquer
+- Hyades Sector FB-N b7-6
 topics:
 - alien contact
-- ship
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: null
+player_impact: Not specifically mentioned — this is a retrospective report.
+summary: Historian Sima Kalhana concludes her retrospective of 3308 by detailing the aftermath of the Battle of HIP 22460, the arrival of the Maelstroms, and the beginning of the Second Thargoid War.
+modern_impact: "\"By the end of 3308, Thargoid forces were raging across the core systems, causing millions of casualties and displacing millions more from their homes.\" This retrospective establishes the scale of devastation that set the stage for the Second Thargoid War and contextualizes how the collapse of Aegis and Salvation's death left humanity unprepared for the Maelstrom onslaught."
+related_uuids:
+- 005ebf22-d1c0-50cd-ae57-373efc6bdcde
+- 918087f0-e635-591b-bc74-a1742da82b05
+- 35ed6f3a-9ca1-5e6c-babf-fed3121e14d2
+- 09d4b9af-ccaf-5d95-8847-50360aaf1af2
 legacy_weight: 5
 significance: high
 ---

@@ -4,29 +4,33 @@ title: Princess Aisling Echoes Aegis Reformation Calls
 slug: princess_aisling_echoes_aegis_reformation_calls
 date: '3309-01-16'
 source: API
-entities:
-- Arissa
+entities: []
+persons:
+- Aisling Duval
 - Arissa Lavigny-Duval
+- Hadrian Duval
+- Hector Duval
+- Gudrun Vestergaard
 groups:
-- ACT
 - Aegis
 - Alliance
 - Imperial Herald
-- Thargoid
 locations:
-- Aegis
-- How many
 - Imperial Palace
-- Thargoid
 topics:
 - alien contact
-- corporate expansion
-- ship
+- politics
 - succession
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+player_impact: Not specifically mentioned — this is a political report.
+summary: Princess Aisling Duval publicly urges Emperor Arissa Lavigny-Duval to join the Alliance and Federation in reforming Aegis to combat the Thargoid threat.
+modern_impact: "\"Emperor Arissa, I implore you: work with the Alliance and Federation to reform Aegis.\" Aisling's public appeal challenged centuries of Imperial isolationist policy and became the catalyst for the eventual reformation of Aegis, demonstrating her growing political influence beyond charitable causes."
+related_uuids:
+- 70502ec6-81e6-5614-bdae-f03fcf03dd64
+- f920072c-9b3c-53d1-9078-e6102cdc56a0
+- 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
+- 69df1032-f6ec-58b2-9b05-cbcb3c243462
 legacy_weight: 5
 significance: high
 ---

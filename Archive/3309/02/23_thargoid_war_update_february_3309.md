@@ -4,29 +4,27 @@ title: 'Thargoid War Update: February 3309'
 slug: thargoid_war_update_february_3309
 date: '3309-02-23'
 source: API
-groups:
-- ACT
-- Aegis
-- Alliance
-- Azimuth
-- Salvation
-- Thargoid
+entities: []
+persons:
+- Jade Sanderlyn
+groups: []
 locations:
-- Aegis
-- Azimuth
-- But compared to the 634
-- Maelstrom
-- Professor Palin
-- Thargoid
-- Witch Head
 - Witch Head Nebula
+- California Nebula
 topics:
 - alien contact
-- ship
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: null
+player_impact: Not specifically mentioned — this is an overview report.
+summary: "Vox Galactica provides an overview of Thargoid war developments in February
+  3309, noting 634 overrun systems versus 61 liberated."
+modern_impact: "Jade Sanderlyn reported: \"Fierce fighting has also broken out in the
+  California and Witch Head Nebulas. It's been speculated that the Thargoids seek
+  to secure the barnacle sites seeded in those regions millennia ago.\" This
+  observation highlights a terrifying strategic implication: the Thargoids may view
+  colonised space as ancestral territory, reframing the war not as simple aggression
+  but as a reclamation campaign that threatens every human system."
+related_uuids: []
 legacy_weight: 5
 significance: high
 ---

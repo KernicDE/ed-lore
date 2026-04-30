@@ -4,31 +4,31 @@ title: Ammonia World Survey Concludes
 slug: ammonia_world_survey_concludes
 date: '3309-03-16'
 source: API
-entities:
-- Lone WolfPack
-- T'Verez
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
 - Universal Cartographics
 locations:
-- Aegis
-- Each
 - Maelstrom
-- Thargoid
 topics:
 - alien contact
-- construction
 - exploration
 - research
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Gillespie's praise — 'This is the kind of task for which independent Commanders are absolutely unmatched in dedication and expertise' — acknowledges player contributions. Anderson's strategic detail — 'concealed sensor buoys... will alert Aegis to the presence of Thargoid vessels or Maelstrom manifestations' — shows the surveillance plan. The named commanders (aRadish, Lone WolfPack, T'Verez) are a nice touch of community recognition."
+persons:
+- Tom Gillespie
+- Skylar Anderson
+- Commander aRadish
+- Commander Lone WolfPack
+- Commander T'Verez
+player_impact: "Pilots who contributed exploration data can receive payment at Angus Manwaring starport in Eta Cassiopeiae. A x3 multiplier on exploration data profits has commenced."
+summary: "The ammonia world survey concludes successfully, with Aegis planning to monitor ammonia-world systems using concealed sensor buoys for Thargoid activity."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 06496fae-10e3-51d0-8cf1-f693daaf81d0
+- 2e7e258a-5974-5a34-b102-93d10a22c438
 ---
 
 *Pilots’ Federation ALERT*

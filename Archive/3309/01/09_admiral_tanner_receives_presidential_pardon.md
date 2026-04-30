@@ -4,31 +4,30 @@ title: Admiral Tanner Receives Presidential Pardon
 slug: admiral_tanner_receives_presidential_pardon
 date: '3309-01-09'
 source: API
-entities:
-- Hudson quashes
+entities: []
+persons:
+- Aden Tanner
+- Zachary Hudson
+- Tayo Maikori
 groups:
-- ACT
-- Aegis
-- Azimuth
 - Federal Navy
-- Salvation
-- Thargoid
 locations:
-- Aegis
-- Azimuth
 - HIP 22460
 - Musashi
-- Thargoid
-- Thargoids into populated
+- Hind Mine
 topics:
 - alien contact
-- construction
 - crime
 - espionage
-- ship
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+- war
+arc_id: thargoid-titan-war
+player_impact: Not specifically mentioned — this is a political report.
+summary: President Zachary Hudson grants Admiral Aden Tanner a full presidential pardon, overturning his court martial and reinstating him into the Federal Navy.
+modern_impact: "\"President Hudson therefore believes that Tanner's in-depth experience in combating Thargoid forces is too valuable to disregard, considering the current situation.\" This pardon represents a major reversal of Federal policy, validating Tanner's unauthorized actions against Azimuth and restoring a key anti-xeno strategist to military relevance."
+related_uuids:
+- b639bbd6-4ffb-5d89-a8f6-8ac3f81ab73c
+- 8b0086f9-372c-5557-906d-f1d12dcbc7de
+- 918087f0-e635-591b-bc74-a1742da82b05
 legacy_weight: 5
 significance: high
 ---

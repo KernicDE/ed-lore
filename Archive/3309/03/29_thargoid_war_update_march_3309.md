@@ -1,32 +1,36 @@
 ---
 uuid: 2e7e258a-5974-5a34-b102-93d10a22c438
-title: 'Thargoid War Update: March 3309'
+title: "Thargoid War Update: March 3309"
 slug: thargoid_war_update_march_3309
 date: '3309-03-29'
 source: API
-entities:
-- FrankXJR have achieved fame
-- Night Furry
-- Oghmios-TTT
+entities: []
 groups:
-- ACT
 - Aegis
 - Alliance
-- Thargoid
+- Empire
+- Federation
 locations:
-- Aegis
 - Maelstrom
-- Thargoid
 topics:
 - alien contact
 - research
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Sanderlyn's grim assessment — 'we are still losing more than we save' — underscores the desperate state of the war. Her observation that 'the chances of destroying them are virtually zero' highlights how humanity remained fundamentally outmatched until the Titan counter-offensive later in 3309."
+persons:
+- Jade Sanderlyn
+- Aden Tanner
+- FrankXJR
+- Night Furry
+- Oghmios-TTT
+player_impact: "Independent pilots and squadrons are asked to wage the front line against the Thargoids, destroying Thargoid vessels and retaking occupied systems."
+summary: "Vox Galactica reports little change in Thargoid tactics as the war grinds on, with Aegis's caustic sink launcher now available but the Maelstrom cores remaining impenetrable."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 8693b44d-82f2-5b39-b670-b648bd6dd9e0
+- f9e27cfb-6dfc-5440-a368-372c38d9b1a1
 ---
 
 Vox Galactica correspondent Jade Sanderlyn reports on the latest developments regarding the war against the Thargoids.

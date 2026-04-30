@@ -4,28 +4,30 @@ title: Caustic Sink Launcher Aids Maelstrom Exploration
 slug: caustic_sink_launcher_aids_maelstrom_exploration
 date: '3309-03-02'
 source: API
-entities:
-- Maximo Fonseca
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
 - Duamta
 - Gateway
 - Maelstrom
-- Thargoid
 topics:
 - alien contact
 - research
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Fonseca's explanation — 'The Thargoids have developed powerful defences to prevent their enemies reaching the heart of the Maelstroms. The dangerously caustic gas clouds are an effective deterrent' — frames the module's purpose. The mention that 'the acquisition and study of tissue samples and caustic shards should increase' shows scientific follow-up. The next priority — 'the massive energy surges that prevent access to the inner region' — sets up future developments."
+persons:
+- Maximo Fonseca
+- Alba Tesreau
+player_impact: "Pilots delivered advanced catalysers, heatsink interlinks, palladium, and tissue samples to the Duamta system."
+summary: "Aegis begins production of the caustic sink launcher, enabling longer survival in Maelstrom caustic clouds; next priority is the energy surge at Maelstrom centers."
 legacy_weight: 5
 significance: high
+related_uuids:
+- f9e27cfb-6dfc-5440-a368-372c38d9b1a1
+- 2e7e258a-5974-5a34-b102-93d10a22c438
+- 34a4da27-729e-5925-83be-c352b3d06b68
 ---
 
 *Pilots’ Federation ALERT*

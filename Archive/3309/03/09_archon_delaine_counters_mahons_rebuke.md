@@ -6,21 +6,28 @@ date: '3309-03-09'
 source: API
 groups:
 - Kumo Crew
-- Sirius Corp
 - Sirius Corporation
-- Wallglass
+- Wallglass Investigations Agency
 locations:
 - California Nebula
 - Sirius
 topics:
-- construction
 - corporate expansion
 - crime
 - piracy
-- war
-modern_impact: Anti-piracy operation protecting trade routes.
+modern_impact: "Delaine's cryptic response — 'The Kumo Crew migrated into the nebula with help from some mutual friends of ours... people you now consider allies' — is a bombshell. Lafosse's investigative journalism — connecting Kavanagh Spaceframes (now Rackham Spaceframes), Sirius Corporation subsidiaries, and the Kumo Crew's station construction — weaves a conspiracy. The implication that 'the trillionaire and the pirates working together' foreshadows the Calico Zack scandal."
+persons:
+- Archon Delaine
+- Edmund Mahon
+- Flint Lafosse
+- Li Yong-Rui
+- Zachary Rackham
+player_impact: "Not specifically mentioned — this is a political and media report."
+summary: "Archon Delaine rejects Mahon's accusations, hinting at Sirius Corporation and Rackham Capital Investments connections to his operations in the California Nebula."
 legacy_weight: 2
 significance: low
+related_uuids:
+- d6063fe1-a6b1-595d-b957-5243e1ce6784
 ---
 
 Archon Delaine has rejected Prime Minister Mahon’s warning over an alleged attempt to gain control of systems in the California Nebula.

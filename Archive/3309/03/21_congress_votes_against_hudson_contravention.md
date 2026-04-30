@@ -4,18 +4,29 @@ title: Congress Votes Against Hudson Contravention
 slug: congress_votes_against_hudson_contravention
 date: '3309-03-21'
 source: API
-entities:
-- Felicia Winters
-- Jerome Archer
-groups:
-- Shadow President
+entities: []
+groups: []
 topics:
-- ship
-- war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+- politics
+arc_id: null
+modern_impact: "Hudson's gracious acceptance — 'The Federation's democratic principles are paramount, and so I accept the decision of this chamber' — contrasts with his earlier push. His warning about 'disruption caused by a shift in leadership' is self-serving. The observation that 'Hudson will remain a powerful political figure with a loyal supporter base' is prescient. The Republican field narrowing to Archer vs. Berkovich sets up the nomination. Rackham being 'viewed as a serious threat' among independents is significant."
+persons:
+- Zachary Hudson
+- Jerome Archer
+- Lana Berkovich
+- Edwin Espinosa
+- Thandeka Qwabe
+- Felicia Winters
+- Isolde Rochester
+- Zachary Rackham
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "Congress narrowly defeats the Hudson Contravention, confirming Hudson's administration will end after the election; Archer and Berkovich emerge as Republican frontrunners, while Winters launches her campaign."
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 28a5e43d-25bf-5107-946b-7479f5024525
+- 080ff564-4ac3-5dea-b112-6e90b9ae198e
+- 50a631e1-fbcd-5297-84e9-1d2ed145b4d3
 ---
 
 President Zachary Hudson’s motion to allow him to serve a second term of office has been defeated by congressional vote.
