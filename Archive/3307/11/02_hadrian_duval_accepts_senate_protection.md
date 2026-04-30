@@ -7,15 +7,17 @@ source: API
 groups:
 - NMLA
 - Nova Imperium
-locations:
-- Paresa
+persons:
+- Hadrian Augustus Duval
+- Astrid Minerva-Duval
+- Leo Magnus
 topics:
-- construction
 - diplomacy
 - investigation
-- ship
-- war
 arc_id: nmla-terrorism
+summary: Hadrian Duval accepts the Imperial Senate's offer of protection, renaming Nova
+  Imperium to Nova Paresa and endorsing Praetor Leo Magnus as its new leader.
+player_impact: None
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

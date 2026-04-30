@@ -3,8 +3,8 @@ id: tanya-ramirez
 name: Tanya Ramirez
 type: person
 first_seen_date: '3304-05-24'
-last_seen_date: '3307-11-08'
-mention_count: 6
+last_seen_date: '3304-06-28'
+mention_count: 5
 related_entities:
 - inra
 - pilots-federation
@@ -18,8 +18,8 @@ related_entities:
 # Tanya Ramirez
 
 First mentioned: **3304-05-24**  
-Last mentioned: **3307-11-08**  
-Total mentions: **6**
+Last mentioned: **3304-06-28**  
+Total mentions: **5**
 
 ## Related
 

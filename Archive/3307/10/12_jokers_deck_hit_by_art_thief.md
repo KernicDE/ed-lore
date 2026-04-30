@@ -4,11 +4,19 @@ title: Jokers’ Deck Hit by Art Thief
 slug: jokers_deck_hit_by_art_thief
 date: '3307-10-12'
 source: API
+groups:
+- Wallglass Investigations Agency
+persons:
+- Francesca Wolfe
+- Erik Gunnarson
+- Lexi October
 topics:
 - crime
 - investigation
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: The secretive gambling circle Jokers' Deck is raided by the Winking Cat,
+  who steals an ancient Joker playing card and replaces it with a winking cat graphic.
+player_impact: None
+modern_impact: The Winking Cat remains the galaxy's most legendary and elusive art thief.
 legacy_weight: 2
 significance: low
 ---

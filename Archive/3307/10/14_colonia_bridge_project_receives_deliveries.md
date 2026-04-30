@@ -6,17 +6,13 @@ date: '3307-10-14'
 source: API
 groups:
 - Brewer Corporation
-- Pilots Federation
-locations:
-- Alcor and Colonia
-- Colonia
-- Jaques Station
-- Jaques Station in the Colonia
 topics:
-- construction
 - corporate expansion
-- ship
 arc_id: jaques-station
+summary: Brewer Corporation receives sufficient materials to construct 30 dockable megaships
+  for the Colonia Bridge route, with phase two planning already underway.
+player_impact: Contributing pilots received payment at Macdonald Settlement and Jaques
+  Station, plus temporary discounts on Drake-class Carriers.
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
 legacy_weight: 3

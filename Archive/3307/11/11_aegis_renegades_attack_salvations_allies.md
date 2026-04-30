@@ -6,16 +6,21 @@ date: '3307-11-11'
 source: API
 groups:
 - Aegis
-locations:
-- Aegis
-- T Tauri
+- Taurus Mining Ventures
+persons:
+- Aden Tanner
+- Patience Middleton
+- Salvation
 topics:
 - alien contact
-- corporate expansion
 - investigation
-- ship
 - war
 arc_id: thargoid-contact
+summary: Admiral Aden Tanner's rogue Aegis Defense force initiates conflict with Taurus
+  Mining Ventures in the T Tauri system to obtain evidence of Salvation's anti-xeno weapon
+  from Hind Mine asteroid base.
+player_impact: Independent pilots fought alongside either Admiral Tanner's renegade Aegis
+  forces or Taurus Mining Ventures.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5

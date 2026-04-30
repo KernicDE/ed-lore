@@ -6,14 +6,13 @@ date: '3307-10-29'
 source: API
 groups:
 - Brewer Corporation
-- Pilots Federation
-locations:
-- Colonia
 topics:
 - corporate expansion
-- ship
-- war
 arc_id: jaques-station
+summary: Thirty dockable megaships are placed between the core systems and Colonia,
+  completing the first phase of the Colonia Bridge project.
+player_impact: Contributing pilots were among the top ten from Alcor and Colonia who
+  suggested names for the new megaships.
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
 legacy_weight: 3

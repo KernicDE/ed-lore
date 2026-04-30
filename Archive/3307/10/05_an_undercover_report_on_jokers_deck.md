@@ -4,17 +4,29 @@ title: 'An Undercover Report on Jokers’ Deck '
 slug: an_undercover_report_on_jokers_deck
 date: '3307-10-05'
 source: API
-entities:
-- Leatrix talking earnestly
 groups:
-- Alliance
+- Wallglass Investigations Agency
+- Kumo Crew
+- October Consortium
+persons:
+- Francesca Wolfe
+- Lexi October
+- Erik Gunnarson
+- Leatrix
+- Scorpio DeVorrow
+- Rochester
+- Trask
+- Volantyne
+- Zachary Rackham
+- Xiona
 topics:
-- humanitarian
 - investigation
-- sport
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 1
+summary: Francesca Wolfe of Wallglass Investigations provides an undercover report
+  from inside the Jokers' Deck gambling circle before disappearing.
+player_impact: None
+modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery
+  in galactic high society.
+legacy_weight: 2
 significance: low
 ---
 

@@ -3,8 +3,8 @@ id: pleiades-concordat
 name: Pleiades Concordat
 type: faction
 first_seen_date: '3307-07-19'
-last_seen_date: '3307-07-29'
-mention_count: 3
+last_seen_date: '3307-11-16'
+mention_count: 4
 related_entities:
 - order-of-the-far-god
 - the-panjabell
@@ -18,8 +18,8 @@ related_entities:
 # Pleiades Concordat
 
 First mentioned: **3307-07-19**  
-Last mentioned: **3307-07-29**  
-Total mentions: **3**
+Last mentioned: **3307-11-16**  
+Total mentions: **4**
 
 ## Related
 

@@ -7,14 +7,16 @@ source: API
 groups:
 - Marlinist
 - NMLA
-locations:
-- Marlinist
+persons:
+- Milo Castile
+- Theta Seven
 topics:
-- cyberattack
-- engineering
 - terrorism
-- war
 arc_id: nmla-terrorism
+summary: ACT acquires an encrypted message that may reveal Theta Seven's location and
+  requests assistance from the galactic community in decoding it.
+player_impact: Pilots could submit decoded versions of the encrypted message to ACT
+  for a substantial reward.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

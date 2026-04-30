@@ -4,12 +4,12 @@ name: Neo-Marlinist Liberation Army
 type: faction
 first_seen_date: '3307-03-11'
 last_seen_date: '3307-12-28'
-mention_count: 7
+mention_count: 6
 related_entities:
 - nmla
-- achenar
 - marlinist-colonies
 - alliance
+- achenar
 - marlinist
 ---
 
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3307-03-11**  
 Last mentioned: **3307-12-28**  
-Total mentions: **7**
+Total mentions: **6**
 
 ## Related
 
-- [[NMLA]] (6 co-mentions)
-- [[Achenar]] (5 co-mentions)
+- [[NMLA]] (5 co-mentions)
 - [[Marlinist Colonies]] (5 co-mentions)
 - [[Alliance]] (4 co-mentions)
-- [[Marlinist]] (4 co-mentions)
+- [[Achenar]] (4 co-mentions)
+- [[Marlinist]] (3 co-mentions)
 
 ## Biography
 

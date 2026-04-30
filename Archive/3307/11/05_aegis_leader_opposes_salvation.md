@@ -6,17 +6,19 @@ date: '3307-11-05'
 source: API
 groups:
 - Aegis
-- Federal Navy
-locations:
-- Aegis
-- T Tauri
-- Thargoids from the Cornsar
+- Taurus Mining Ventures
+persons:
+- Aden Tanner
+- Patience Middleton
+- Salvation
 topics:
 - alien contact
-- corporate expansion
 - investigation
-- ship
 arc_id: thargoid-contact
+summary: Admiral Aden Tanner relocates the Aegis Defense megaship Musashi to the T
+  Tauri system to challenge Taurus Mining Ventures and demand access to Hind Mine asteroid
+  base, believing it contains evidence of Salvation's provocations against the Thargoids.
+player_impact: None
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 4

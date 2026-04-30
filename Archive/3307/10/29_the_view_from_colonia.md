@@ -6,23 +6,20 @@ date: '3307-10-29'
 source: API
 groups:
 - Colonia Council
-locations:
-- Beagle Point
-- Colonia
 - Holloway Bioscience Institute
-- Jaques Station
-- Sol
+persons:
+- Lishan Abara
 topics:
-- construction
 - corporate expansion
 - engineering
 - exploration
 - humanitarian
 - research
-- ship
-- trade
-- war
 arc_id: jaques-station
+summary: Vox Galactica's culture correspondent provides an overview of the Colonia region,
+  its history since Jaques Station's mis-jump, and its growing economy and scientific
+  community.
+player_impact: None
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
 legacy_weight: 3

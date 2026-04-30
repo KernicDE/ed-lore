@@ -4,7 +4,7 @@ name: Mudhrid
 type: location
 first_seen_date: '3307-04-01'
 last_seen_date: '3307-12-31'
-mention_count: 16
+mention_count: 14
 related_entities:
 - nmla
 - neo-marlinist-order-of-mudhrid
@@ -19,11 +19,11 @@ related_entities:
 
 First mentioned: **3307-04-01**  
 Last mentioned: **3307-12-31**  
-Total mentions: **16**
+Total mentions: **14**
 
 ## Related
 
-- [[NMLA]] (16 co-mentions)
+- [[NMLA]] (14 co-mentions)
 - [[Neo-Marlinist Order of Mudhrid]] (9 co-mentions)
 - [[Marlinist Colonies]] (6 co-mentions)
 - [[Nova Imperium]] (5 co-mentions)

@@ -6,14 +6,20 @@ date: '3307-11-16'
 source: API
 groups:
 - NMLA
-locations:
-- Panjabell
+- Far God cult
+- Pleiades Concordat
+persons:
+- Therion Cygni
+- Milo Castile
+- Theta Seven
 topics:
-- engineering
 - investigation
-- ship
 - terrorism
 arc_id: nmla-terrorism
+summary: A decoded message reveals Theta Seven infiltrated the Far God cult and may
+  be hiding aboard one of three megaships in the Panjabell system.
+player_impact: Commander Therion Cygni cracked the cipher key and submitted the decoded
+  message to ACT.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

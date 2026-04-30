@@ -4,10 +4,19 @@ title: Scriveners Clan Resists Orion University
 slug: scriveners_clan_resists_orion_university
 date: '3307-10-22'
 source: API
+groups:
+- Orion University
+- Scriveners Clan
+persons:
+- Casey Kilpatrick
 topics:
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+- exploration
+summary: The Scriveners Clan refuses to allow Orion University to take possession of
+  their dredger, sealing airlocks and electrifying the hull to resist boarding attempts.
+player_impact: None
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
+legacy_weight: 2
 significance: low
 ---
 

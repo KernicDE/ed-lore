@@ -8,16 +8,18 @@ groups:
 - Marlinist
 - NMLA
 - Nova Imperium
-- Pilots Federation
-locations:
-- Marlinist
-- Paresa
+persons:
+- Leo Magnus
+- Hadrian Augustus Duval
+- Astrid Minerva-Duval
 topics:
-- construction
 - diplomacy
 - investigation
-- medicine
 arc_id: nmla-terrorism
+summary: NMLA bombs strike Dyson City starport in Paresa, killing over 15,000 people.
+  Hadrian Duval's family survives thanks to a last-minute evacuation ordered by Praetor
+  Leo Magnus.
+player_impact: Independent pilots assisted with rescuing survivors from Dyson City starport.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

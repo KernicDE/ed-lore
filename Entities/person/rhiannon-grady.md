@@ -4,7 +4,7 @@ name: Rhiannon Grady
 type: person
 first_seen_date: '3307-05-14'
 last_seen_date: '3308-09-21'
-mention_count: 2
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 2
 
 First mentioned: **3307-05-14**  
 Last mentioned: **3308-09-21**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

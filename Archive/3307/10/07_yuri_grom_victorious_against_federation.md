@@ -5,14 +5,21 @@ slug: yuri_grom_victorious_against_federation
 date: '3307-10-07'
 source: API
 groups:
-- Pilots Federation
-locations:
-- Delta Pavonis
+- EG Union
+- Federation
+persons:
+- Yuri Grom
+- Karleen Troy
 topics:
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+arc_id: federal-politics
+summary: EG Union defeats Delta Pavonis Galactic Interstellar in the Delta Pavonis
+  system conflict, with Yuri Grom claiming the Federal megaship Freedom's Foundation
+  as spoils of war.
+player_impact: Pilots who supported Yuri Grom collected rewards from the Indomitable
+  megaship.
+modern_impact: Federal political developments shape superpower relations.
+legacy_weight: 2
 significance: low
 ---
 

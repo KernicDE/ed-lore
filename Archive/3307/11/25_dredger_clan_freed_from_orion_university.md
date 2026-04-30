@@ -6,12 +6,19 @@ date: '3307-11-25'
 source: API
 groups:
 - Alliance
-locations:
-- HIP 43670
+- Orion University
+- Scriveners Clan
+persons:
+- Leland Pettigrew
 topics:
-- cyberattack
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- diplomacy
+- humanitarian
+summary: The Scriveners Clan dredger is fully repaired and freed from Orion University's
+  override codes, allowing the nomadic tribe to resume independent travel.
+player_impact: Pilots delivered emergency power cells to Oramus Terminal or scientific
+  data to Shaara Gateway in the HIP 43670 system.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
 ---

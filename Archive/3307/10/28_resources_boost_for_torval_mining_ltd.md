@@ -6,16 +6,19 @@ date: '3307-10-28'
 source: API
 groups:
 - Mastopolos Mining
-- Pilots Federation
+- Torval Mining Ltd
+persons:
+- Zemina Torval
+- Constantia Torval
 topics:
-- construction
 - corporate expansion
-- ship
-arc_id: formidine-rift
-modern_impact: The Formidine Rift mystery captivates explorers and reveals hidden
-  history.
-legacy_weight: 3
-significance: medium
+summary: Vital materials are delivered to Torval Mining Ltd's megaship in EGM 559,
+  ensuring the new corporation meets its first-year targets.
+player_impact: Pilots delivered geological equipment, microbial furnaces, and mineral
+  extractors to the Pride of Bitterwood megaship.
+modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
+legacy_weight: 2
+significance: low
 ---
 
 *[[Pilots Federation]] ALERT*

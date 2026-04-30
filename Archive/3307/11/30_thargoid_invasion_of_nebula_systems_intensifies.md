@@ -8,18 +8,19 @@ groups:
 - Aegis
 - Alliance
 - Imperial Navy
-locations:
-- Aegis
-- Coalsack
-- Witch Head
-- Witch Head Nebula
+persons:
+- Ernesto Rios
+- Salvation
 topics:
 - alien contact
-- construction
 - investigation
-- ship
 - war
 arc_id: thargoid-contact
+summary: Thargoid attacks intensify across the California, Coalsack, Pleiades, and Witch
+  Head Nebulas, with anti-xeno squadrons struggling to repel unusually difficult waves
+  of reinforcements.
+player_impact: Independent pilots and anti-xeno squadrons fought to defend starports
+  and push back Thargoid fleets across multiple nebula systems.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5

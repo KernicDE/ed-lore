@@ -1,19 +1,19 @@
 ---
-id: lexi-october
-name: Lexi October
+id: xiona
+name: Xiona
 type: person
 first_seen_date: '3307-10-05'
-last_seen_date: '3312-04-16'
-mention_count: 11
+last_seen_date: '3307-10-05'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Lexi October
+# Xiona
 
 First mentioned: **3307-10-05**  
-Last mentioned: **3312-04-16**  
-Total mentions: **11**
+Last mentioned: **3307-10-05**  
+Total mentions: **1**
 
 ## Related
 

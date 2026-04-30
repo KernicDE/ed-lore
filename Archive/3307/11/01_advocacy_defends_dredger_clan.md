@@ -4,16 +4,23 @@ title: Advocacy Defends Dredger Clan
 slug: advocacy_defends_dredger_clan
 date: '3307-11-01'
 source: API
-entities:
+groups:
+- Advocacy
+- Orion University
+- Scriveners Clan
+persons:
+- Rhiannon Grady
 - Elizabeth Perez
-locations:
-- Golconda
-- Oochost PC-C c29-0
 topics:
-- safety
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+- diplomacy
+- humanitarian
+summary: The civil rights organisation Advocacy defends the Scriveners Clan's legal
+  ownership of their dredger, arguing that remote-community protection laws prevent
+  forced displacement.
+player_impact: None
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
+legacy_weight: 2
 significance: low
 ---
 

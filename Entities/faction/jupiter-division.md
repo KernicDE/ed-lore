@@ -4,7 +4,7 @@ name: Jupiter Division
 type: faction
 first_seen_date: '3307-04-13'
 last_seen_date: '3307-12-28'
-mention_count: 6
+mention_count: 8
 related_entities:
 - core-dynamics
 - tsao-tach
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3307-04-13**  
 Last mentioned: **3307-12-28**  
-Total mentions: **6**
+Total mentions: **8**
 
 ## Related
 

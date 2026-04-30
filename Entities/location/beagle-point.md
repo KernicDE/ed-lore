@@ -4,7 +4,7 @@ name: Beagle Point
 type: location
 first_seen_date: '3305-01-04'
 last_seen_date: '3312-03-19'
-mention_count: 8
+mention_count: 7
 related_entities:
 - sagittarius-a
 - explorers-anchorage
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3305-01-04**  
 Last mentioned: **3312-03-19**  
-Total mentions: **8**
+Total mentions: **7**
 
 ## Related
 

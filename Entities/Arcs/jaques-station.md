@@ -7,10 +7,10 @@ mention_count: 66
 significance: medium
 key_entities:
 - colonia-council
-- pilots-federation
 - brewer-corporation
 - fuel-rats
 - alexei-de-la-vega
+- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Articles: **66**
 ## Key Figures
 
 - [[Colonia Council]] (21 mentions)
-- [[Pilots Federation]] (8 mentions)
 - [[Brewer Corporation]] (7 mentions)
 - [[Fuel Rats]] (4 mentions)
 - [[Alexei de la Vega]] (4 mentions)
+- [[Pilots Federation]] (2 mentions)
 
 ## Description
 

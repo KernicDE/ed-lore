@@ -7,16 +7,14 @@ source: API
 groups:
 - Brewer Corporation
 - Colonia Council
-- Pilots Federation
-locations:
-- Colonia
-- Jaques Station
-- Jaques Station in the Colonia
 topics:
 - corporate expansion
-- ship
-- trade
 arc_id: jaques-station
+summary: Brewer Corporation launches delivery campaigns in Alcor and Colonia to build
+  the Colonia Bridge, a chain of up to 30 dockable megaships connecting the core systems
+  to Colonia.
+player_impact: Pilots delivered ceramic composites, computer components, and thermal
+  cooling units to Macdonald Settlement and Jaques Station.
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
 legacy_weight: 3

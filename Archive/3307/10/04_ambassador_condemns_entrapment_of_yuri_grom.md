@@ -4,20 +4,24 @@ title: Ambassador Condemns Entrapment of Yuri Grom
 slug: ambassador_condemns_entrapment_of_yuri_grom
 date: '3307-10-04'
 source: API
-entities:
-- Zachary Hudson being praised
 groups:
 - Alliance
-- Federal Times
-locations:
-- Delphi
-- Federal
-- Yuri Grom in the Delta Pavonis
+- Federation
+- EG Union
+persons:
+- Zachary Hudson
+- Yuri Grom
+- Delphine Dumont
 topics:
 - diplomacy
 - independence
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+arc_id: federal-politics
+summary: The Federal Diplomatic Corps officially denounces President Hudson's attempt
+  to capture Yuri Grom in Delta Pavonis, with Ambassador Delphine Dumont offering personal
+  apologies.
+player_impact: None
+modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 2
 significance: low
 ---

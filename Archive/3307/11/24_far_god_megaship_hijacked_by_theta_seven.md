@@ -7,14 +7,17 @@ source: API
 groups:
 - Marlinist
 - NMLA
-locations:
-- Also in the
-- Marlinist
+- Far God cult
+- Epsilon Fornacis Empire Group
+persons:
+- Milo Castile
+- Theta Seven
 topics:
-- construction
-- ship
 - terrorism
 arc_id: nmla-terrorism
+summary: Theta Seven hijacks the Far God cult megaship Sacrosanct and redirects it to
+  the Mudhrid system, where the NMLA is regrouping forces with the Steel Majesty.
+player_impact: None
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

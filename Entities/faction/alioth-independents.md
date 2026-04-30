@@ -2,9 +2,9 @@
 id: alioth-independents
 name: Alioth Independents
 type: faction
-first_seen_date: '3311-10-13'
+first_seen_date: '3307-11-24'
 last_seen_date: '3311-10-13'
-mention_count: 1
+mention_count: 2
 related_entities:
 - lakon-spaceways
 ---
@@ -13,9 +13,9 @@ related_entities:
 
 # Alioth Independents
 
-First mentioned: **3311-10-13**  
+First mentioned: **3307-11-24**  
 Last mentioned: **3311-10-13**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

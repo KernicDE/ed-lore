@@ -3,8 +3,8 @@ id: the-panjabell
 name: The Panjabell
 type: location
 first_seen_date: '3307-07-19'
-last_seen_date: '3307-11-24'
-mention_count: 4
+last_seen_date: '3307-07-29'
+mention_count: 3
 related_entities:
 - order-of-the-far-god
 - pleiades-concordat
@@ -18,8 +18,8 @@ related_entities:
 # The Panjabell
 
 First mentioned: **3307-07-19**  
-Last mentioned: **3307-11-24**  
-Total mentions: **4**
+Last mentioned: **3307-07-29**  
+Total mentions: **3**
 
 ## Related
 

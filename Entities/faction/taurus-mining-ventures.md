@@ -4,7 +4,7 @@ name: Taurus Mining Ventures
 type: faction
 first_seen_date: '3307-05-07'
 last_seen_date: '3308-06-29'
-mention_count: 11
+mention_count: 15
 related_entities:
 - aegis
 - pilots-federation
@@ -19,11 +19,11 @@ related_entities:
 
 First mentioned: **3307-05-07**  
 Last mentioned: **3308-06-29**  
-Total mentions: **11**
+Total mentions: **15**
 
 ## Related
 
-- [[Aegis]] (7 co-mentions)
+- [[Aegis]] (11 co-mentions)
 - [[Pilots Federation]] (4 co-mentions)
 - [[Azimuth Biochemicals]] (4 co-mentions)
 - [[T Tauri]] (4 co-mentions)

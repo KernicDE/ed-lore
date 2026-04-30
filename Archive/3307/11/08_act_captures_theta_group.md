@@ -4,19 +4,19 @@ title: ACT Captures Theta Group
 slug: act_captures_theta_group
 date: '3307-11-08'
 source: API
-entities:
-- Tanya Ramirez
 groups:
 - Marlinist
 - NMLA
-locations:
-- Marlinist
+persons:
+- Tanya Ramirez
+- Theta Seven
 topics:
-- alien contact
-- construction
-- engineering
 - terrorism
 arc_id: nmla-terrorism
+summary: ACT arrests the NMLA's bomb-making engineers, Theta Group, but their leader
+  Theta Seven remains at large. The group is responsible for 17 starport bombings with
+  nearly 800,000 deaths.
+player_impact: None
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

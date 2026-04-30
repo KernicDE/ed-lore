@@ -4,7 +4,7 @@ name: Imperial Herald
 type: faction
 first_seen_date: '3301-05-06'
 last_seen_date: '3311-03-13'
-mention_count: 75
+mention_count: 73
 related_entities:
 - alliance
 - achenar
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-05-06**  
 Last mentioned: **3311-03-13**  
-Total mentions: **75**
+Total mentions: **73**
 
 ## Related
 

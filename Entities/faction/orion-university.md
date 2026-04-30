@@ -2,32 +2,32 @@
 id: orion-university
 name: Orion University
 type: faction
-first_seen_date: '3307-12-03'
+first_seen_date: '3307-10-13'
 last_seen_date: '3312-04-21'
-mention_count: 5
+mention_count: 14
 related_entities:
 - scriveners-clan
+- alliance
+- advocacy
+- canonn-interstellar-research-group
 - vox-galactica
-- oochost-pc-c-c29-0
-- eg-union
-- mastopolos-mining
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Orion University
 
-First mentioned: **3307-12-03**  
+First mentioned: **3307-10-13**  
 Last mentioned: **3312-04-21**  
-Total mentions: **5**
+Total mentions: **14**
 
 ## Related
 
-- [[Scriveners Clan]] (2 co-mentions)
+- [[Scriveners Clan]] (11 co-mentions)
+- [[Alliance]] (2 co-mentions)
+- [[Advocacy]] (1 co-mentions)
+- [[Canonn Interstellar Research Group]] (1 co-mentions)
 - [[Vox Galactica]] (1 co-mentions)
-- [[Oochost PC-C c29-0]] (1 co-mentions)
-- [[EG Union]] (1 co-mentions)
-- [[Mastopolos Mining]] (1 co-mentions)
 
 ## Biography
 

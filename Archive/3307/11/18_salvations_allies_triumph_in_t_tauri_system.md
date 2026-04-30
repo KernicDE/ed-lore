@@ -6,13 +6,19 @@ date: '3307-11-18'
 source: API
 groups:
 - Aegis
-locations:
-- Aegis
+- Taurus Mining Ventures
+persons:
+- Aden Tanner
+- Patience Middleton
+- Salvation
 topics:
 - alien contact
-- ship
 - war
 arc_id: thargoid-contact
+summary: Taurus Mining Ventures defeats Admiral Aden Tanner's rogue Aegis Defense force
+  in the T Tauri system and gains control of the Musashi megaship.
+player_impact: Independent pilots who supported either side collected rewards from Hind
+  Mine or the Musashi.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5

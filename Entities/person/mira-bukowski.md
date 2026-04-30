@@ -2,18 +2,18 @@
 id: mira-bukowski
 name: Mira Bukowski
 type: person
-first_seen_date: '3307-12-10'
+first_seen_date: '3307-11-22'
 last_seen_date: '3312-04-28'
-mention_count: 3
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Mira Bukowski
 
-First mentioned: **3307-12-10**  
+First mentioned: **3307-11-22**  
 Last mentioned: **3312-04-28**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 

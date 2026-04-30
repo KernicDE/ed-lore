@@ -7,16 +7,19 @@ source: API
 groups:
 - Marlinist
 - NMLA
-- Neo-Marlinist Liberation Army
 - Nova Imperium
-locations:
-- Achenar
-- Marlinist
-- Paresa
+persons:
+- Hadrian Augustus Duval
+- Astrid Minerva-Duval
+- Leo Magnus
+- Theta Seven
 topics:
-- construction
 - humanitarian
 arc_id: nmla-terrorism
+summary: The NMLA claims responsibility for the Dyson City bombing and declares its
+  intent to exterminate the entire Duval bloodline. ACT reveals Theta Group has split
+  in two.
+player_impact: Pilots continued rescue operations for survivors of the Dyson City bombing.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

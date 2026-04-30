@@ -7,9 +7,9 @@ last_seen_date: '3303-02-03'
 mention_count: 1
 related_entities:
 - capitol
-- imperial-senate
 - imperial-palace
 - alliance
+- imperial-senate
 - achenar
 ---
 
@@ -24,9 +24,9 @@ Total mentions: **1**
 ## Related
 
 - [[Capitol]] (6 co-mentions)
-- [[Imperial Senate]] (4 co-mentions)
 - [[Imperial Palace]] (4 co-mentions)
 - [[Alliance]] (4 co-mentions)
+- [[Imperial Senate]] (3 co-mentions)
 - [[Achenar]] (3 co-mentions)
 
 ## Biography

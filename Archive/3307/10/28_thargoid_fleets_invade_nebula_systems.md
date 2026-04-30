@@ -6,21 +6,21 @@ date: '3307-10-28'
 source: API
 groups:
 - Aegis
-- Pilots Federation
-locations:
-- Aegis
-- Coalsack
-- Merope
-- Witch Head
-- Witch Head Nebula
+- Taurus Mining Ventures
+persons:
+- Aden Tanner
+- Salvation
 topics:
 - alien contact
-- construction
 - investigation
-- ship
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
+summary: Large Thargoid fleets attack multiple systems in the Pleiades, Witch Head,
+  California, and Coalsack Nebulas. Aegis is unable to assist due to the operational
+  shutdown from the public inquiry.
+player_impact: Independent pilots and anti-xeno squadrons defended invaded systems and
+  evacuated survivors from damaged starports.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5

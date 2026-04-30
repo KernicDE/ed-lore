@@ -8,9 +8,9 @@ mention_count: 27
 related_entities:
 - jaques-station
 - eol-prou
-- jaques-station-in-the-colonia
 - pleiades-nebula
 - diana-vancleef
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **27**
 
 ## Related
 
-- [[Jaques Station]] (10 co-mentions)
+- [[Jaques Station]] (8 co-mentions)
 - [[Eol Prou]] (3 co-mentions)
-- [[Jaques Station in the Colonia]] (2 co-mentions)
 - [[Pleiades Nebula]] (2 co-mentions)
 - [[Diana VanCleef]] (2 co-mentions)
+- [[Alliance]] (2 co-mentions)
 
 ## Biography
 

@@ -8,14 +8,17 @@ groups:
 - Alliance
 - Marlinist
 - NMLA
-locations:
-- Marlinist
-- Some Alliance
+persons:
+- Kayode Tau
+- Elijah Beck
 topics:
 - diplomacy
 - humanitarian
-- ship
 arc_id: nmla-terrorism
+summary: The Marlinist Colonies offer to accept political refugees currently dispersed
+  across Alliance territory, with Prime Consul Kayode Tau negotiating transportation
+  arrangements.
+player_impact: None
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

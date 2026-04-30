@@ -2,12 +2,12 @@
 id: torval-mining-ltd
 name: Torval Mining Ltd
 type: faction
-first_seen_date: '3307-12-31'
+first_seen_date: '3307-10-08'
 last_seen_date: '3307-12-31'
-mention_count: 1
+mention_count: 4
 related_entities:
-- eg-union
 - mastopolos-mining
+- eg-union
 - imperial-senate
 - nmla
 - orion-university
@@ -17,14 +17,14 @@ related_entities:
 
 # Torval Mining Ltd
 
-First mentioned: **3307-12-31**  
+First mentioned: **3307-10-08**  
 Last mentioned: **3307-12-31**  
-Total mentions: **1**
+Total mentions: **4**
 
 ## Related
 
+- [[Mastopolos Mining]] (4 co-mentions)
 - [[EG Union]] (1 co-mentions)
-- [[Mastopolos Mining]] (1 co-mentions)
 - [[Imperial Senate]] (1 co-mentions)
 - [[NMLA]] (1 co-mentions)
 - [[Orion University]] (1 co-mentions)

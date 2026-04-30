@@ -5,13 +5,20 @@ slug: no_progress_with_dredger_deadlock
 date: '3307-11-09'
 source: API
 groups:
-- Canonn
 - Canonn Interstellar Research Group
+- Orion University
+- Scriveners Clan
+persons:
+- Casey Kilpatrick
 topics:
 - research
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+summary: The Scriveners Clan continues to resist Orion University's attempts to take
+  possession of their dredger, with Canonn Interstellar Research Group offering to purchase
+  the vessel and share the Knowledge Core.
+player_impact: None
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
+legacy_weight: 2
 significance: low
 ---
 

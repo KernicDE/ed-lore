@@ -4,7 +4,7 @@ name: Wallglass Investigations Agency
 type: faction
 first_seen_date: '3307-04-02'
 last_seen_date: '3309-09-18'
-mention_count: 16
+mention_count: 20
 related_entities:
 - pilots-federation
 - perseus-dark-region-kc-v-c2-2
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3307-04-02**  
 Last mentioned: **3309-09-18**  
-Total mentions: **16**
+Total mentions: **20**
 
 ## Related
 

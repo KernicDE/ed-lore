@@ -4,14 +4,19 @@ title: Orion University Searches for Dredger
 slug: orion_university_searches_for_dredger
 date: '3307-10-14'
 source: API
-entities:
-- Leland Pettigrew told
 groups:
-- Pilots Federation
+- Orion University
+- Scriveners Clan
+persons:
+- Leland Pettigrew
 topics:
-- construction
-- war
-modern_impact: Infrastructure project with long-term benefits.
+- exploration
+summary: Orion University offers rewards to pilots who can locate the Scriveners Clan
+  dredger, which it claims as legal property.
+player_impact: Pilots docked at Ring Mine station in the 2MASS J03291977+3124572 system
+  to sign up for the search operation.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
 ---

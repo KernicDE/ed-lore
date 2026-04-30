@@ -4,19 +4,22 @@ title: Neo-Marlinist Forces Gather in Mudhrid
 slug: neo_marlinist_forces_gather_in_mudhrid
 date: '3307-11-19'
 source: API
-entities:
-- Tanya Ramirez gave
 groups:
 - Marlinist
 - NMLA
-locations:
-- Marlinist
-- Mudhrid
+- Neo-Marlinist Order of Mudhrid
+- Epsilon Fornacis Empire Group
+persons:
+- Corentin Delacroix
+- Arastin Delacroix
+- Tanya Ramirez
 topics:
-- ship
 - terrorism
 - war
 arc_id: nmla-terrorism
+summary: The NMLA-controlled Steel Majesty arrives in the Mudhrid system, where the
+  Neo-Marlinist Order reclaims the vessel and threatens to execute hostages if attacked.
+player_impact: None
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

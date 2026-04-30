@@ -4,15 +4,21 @@ title: Federal Terrorist Network Exposed
 slug: federal_terrorist_network_exposed
 date: '3307-10-13'
 source: API
-entities:
-- Jerome Archer claimed that this
-locations:
-- Jupiter
+groups:
+- Federation
+- Federal Intelligence Agency
+- Jupiter Division
+persons:
+- Bethany Blake
+- Jerome Archer
+- Felicia Winters
 topics:
-- corporate expansion
 - investigation
 - terrorism
 arc_id: federal-politics
+summary: The Proactive Detection Bureau helps the FIA identify and arrest over a thousand
+  armed extremists from Jupiter's Wrath, a corporatist terrorist network.
+player_impact: None
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium

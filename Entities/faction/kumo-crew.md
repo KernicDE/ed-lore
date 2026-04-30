@@ -4,7 +4,7 @@ name: Kumo Crew
 type: faction
 first_seen_date: '3301-05-14'
 last_seen_date: '3310-08-22'
-mention_count: 67
+mention_count: 68
 related_entities:
 - alliance
 - california-nebula
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-05-14**  
 Last mentioned: **3310-08-22**  
-Total mentions: **67**
+Total mentions: **68**
 
 ## Related
 

@@ -4,23 +4,23 @@ title: Demands for Federal Rebellion Decline
 slug: demands_for_federal_rebellion_decline
 date: '3307-11-03'
 source: API
-entities:
-- Winters continues
 groups:
-- Federal Times
-- NMLA
-locations:
-- Congress foresaw nearly forty
-- Jupiter
+- Federation
+persons:
+- Sofia Trevino
+- Felicia Winters
 topics:
 - diplomacy
 - independence
 - terrorism
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
-legacy_weight: 5
-significance: high
+arc_id: federal-politics
+summary: Recent polls suggest the likelihood of further Federal secessions is waning,
+  partly due to the Proactive Detection Bureau's role in preventing Jupiter's Wrath
+  terrorist attacks.
+player_impact: None
+modern_impact: Federal political developments shape superpower relations.
+legacy_weight: 3
+significance: medium
 ---
 
 [[Many]] factions have seceded from [[The]] Federation in recent months, but recent polls suggest the likelihood of [[Further]] withdrawals is waning.

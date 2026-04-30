@@ -7,10 +7,10 @@ last_seen_date: '3309-11-23'
 mention_count: 12
 related_entities:
 - torval-mastopolos-mining
-- zemina-torval
+- torval-mining-ltd
 - imperial-senate
 - wreaken-construction
-- imperial-herald
+- zemina-torval
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **12**
 
 ## Related
 
-- [[Torval-Mastopolos Mining]] (4 co-mentions)
-- [[Zemina Torval]] (3 co-mentions)
+- [[Torval-Mastopolos Mining]] (5 co-mentions)
+- [[Torval Mining Ltd]] (4 co-mentions)
 - [[Imperial Senate]] (3 co-mentions)
 - [[Wreaken Construction]] (3 co-mentions)
-- [[Imperial Herald]] (2 co-mentions)
+- [[Zemina Torval]] (2 co-mentions)
 
 ## Biography
 

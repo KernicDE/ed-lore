@@ -5,17 +5,23 @@ slug: federal_agents_crush_jupiter_division_extremists
 date: '3307-10-20'
 source: API
 groups:
-- Federal Times
-locations:
-- Jupiter
+- Federation
+- Federal Intelligence Agency
+- Jupiter Division
+persons:
+- Bethany Blake
+- Bai Zheng
 topics:
-- corporate expansion
 - crime
 - terrorism
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+arc_id: federal-politics
+summary: The Federal Intelligence Agency arrests the organisers of Jupiter's Wrath,
+  a pro-corporatist terrorist group planning attacks on Federal politicians.
+player_impact: None
+modern_impact: Federal political developments shape superpower relations.
+legacy_weight: 3
+significance: medium
 ---
 
 A pro-corporatist group planning a series of terror attacks has been shut down by [[The]] Federal Intelligence Agency.

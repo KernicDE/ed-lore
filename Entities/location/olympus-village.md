@@ -4,7 +4,7 @@ name: Olympus Village
 type: location
 first_seen_date: '3304-07-27'
 last_seen_date: '3311-04-30'
-mention_count: 20
+mention_count: 19
 related_entities:
 - mars
 - federal-times
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3304-07-27**  
 Last mentioned: **3311-04-30**  
-Total mentions: **20**
+Total mentions: **19**
 
 ## Related
 

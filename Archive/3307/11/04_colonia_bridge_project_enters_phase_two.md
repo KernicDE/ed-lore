@@ -6,19 +6,17 @@ date: '3307-11-04'
 source: API
 groups:
 - Brewer Corporation
-- Pilots Federation
-locations:
-- Colonia
-- Jaques Station
-- Jaques Station in the Colonia
-- Macdonald Settlement in the Alcor
 topics:
 - corporate expansion
 - engineering
 - exploration
-- ship
-- war
 arc_id: jaques-station
+summary: Brewer Corporation launches phase two of the Colonia Bridge project, requesting
+  additional deliveries to construct more megaships along the full route between the
+  core systems and Colonia.
+player_impact: Pilots delivered ceramic composites, computer components, and thermal
+  cooling units to Macdonald Settlement and Jaques Station. Top contributors received
+  engineered Frame Shift Drives.
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
 legacy_weight: 3

@@ -4,7 +4,7 @@ name: Delphi
 type: location
 first_seen_date: '3305-07-04'
 last_seen_date: '3309-12-15'
-mention_count: 18
+mention_count: 17
 related_entities:
 - aegis
 - pilots-federation
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3305-07-04**  
 Last mentioned: **3309-12-15**  
-Total mentions: **18**
+Total mentions: **17**
 
 ## Related
 

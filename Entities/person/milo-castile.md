@@ -4,7 +4,7 @@ name: Milo Castile
 type: person
 first_seen_date: '3307-08-02'
 last_seen_date: '3308-04-12'
-mention_count: 6
+mention_count: 10
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 6
 
 First mentioned: **3307-08-02**  
 Last mentioned: **3308-04-12**  
-Total mentions: **6**
+Total mentions: **10**
 
 ## Related
 

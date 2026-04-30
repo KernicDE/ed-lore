@@ -4,7 +4,7 @@ name: Kayode Tau
 type: person
 first_seen_date: '3307-07-13'
 last_seen_date: '3308-04-21'
-mention_count: 11
+mention_count: 12
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 11
 
 First mentioned: **3307-07-13**  
 Last mentioned: **3308-04-21**  
-Total mentions: **11**
+Total mentions: **12**
 
 ## Related
 

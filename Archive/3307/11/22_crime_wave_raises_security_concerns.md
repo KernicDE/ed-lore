@@ -4,14 +4,19 @@ title: Crime Wave Raises Security Concerns
 slug: crime_wave_raises_security_concerns
 date: '3307-11-22'
 source: API
-entities:
+groups:
+- Wallglass Investigations Agency
+- Achilles Corporation
+persons:
+- Mira Bukowski
 - Olban Hensard Duval
 topics:
-- corporate expansion
 - crime
 - investigation
-- succession
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: The Winking Cat triggers widespread alarm with a spree of high-profile thefts,
+  including a portrait of Emperor Olban Hensard Duval and a prototype security robot.
+player_impact: None
+modern_impact: The Winking Cat remains the galaxy's most legendary and elusive art thief.
 legacy_weight: 2
 significance: low
 ---

@@ -4,13 +4,13 @@ name: Witch Head Nebula
 type: location
 first_seen_date: '3302-06-27'
 last_seen_date: '3309-02-23'
-mention_count: 20
+mention_count: 18
 related_entities:
 - alliance
 - aegis
 - pilots-federation
+- alba-tesreau
 - coalsack
-- witch-head
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3302-06-27**  
 Last mentioned: **3309-02-23**  
-Total mentions: **20**
+Total mentions: **18**
 
 ## Related
 
-- [[Alliance]] (13 co-mentions)
-- [[Aegis]] (10 co-mentions)
-- [[Pilots Federation]] (6 co-mentions)
-- [[Coalsack]] (5 co-mentions)
-- [[Witch Head]] (4 co-mentions)
+- [[Alliance]] (12 co-mentions)
+- [[Aegis]] (8 co-mentions)
+- [[Pilots Federation]] (5 co-mentions)
+- [[Alba Tesreau]] (3 co-mentions)
+- [[Coalsack]] (3 co-mentions)
 
 ## Biography
 

@@ -6,15 +6,19 @@ date: '3307-11-18'
 source: API
 groups:
 - Alliance
-locations:
-- 'Federation ALERT*
-
-  The HIP 43670'
+- Orion University
+- Scriveners Clan
+persons:
+- Leland Pettigrew
 topics:
-- cyberattack
 - research
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: Competing delivery initiatives in the HIP 43670 system aim to benefit the
+  Scriveners Clan, with Orion University offering scientific data and independent supporters
+  gathering emergency power supplies for repairs.
+player_impact: Pilots delivered either scientific data to Shaara Gateway or emergency
+  power cells to Oramus Terminal.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
 ---

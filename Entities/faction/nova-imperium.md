@@ -10,7 +10,7 @@ related_entities:
 - nmla
 - imperial-herald
 - alliance
-- achenar
+- mudhrid
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **32**
 
 ## Related
 
-- [[Paresa]] (23 co-mentions)
+- [[Paresa]] (19 co-mentions)
 - [[NMLA]] (13 co-mentions)
 - [[Imperial Herald]] (7 co-mentions)
 - [[Alliance]] (7 co-mentions)
-- [[Achenar]] (5 co-mentions)
+- [[Mudhrid]] (5 co-mentions)
 
 ## Biography
 

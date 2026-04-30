@@ -4,7 +4,7 @@ name: Alioth
 type: location
 first_seen_date: '3301-02-22'
 last_seen_date: '3311-09-29'
-mention_count: 60
+mention_count: 59
 related_entities:
 - alliance
 - sirius-corporation
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-22**  
 Last mentioned: **3311-09-29**  
-Total mentions: **60**
+Total mentions: **59**
 
 ## Related
 

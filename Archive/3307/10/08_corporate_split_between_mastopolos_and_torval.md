@@ -5,17 +5,21 @@ slug: corporate_split_between_mastopolos_and_torval
 date: '3307-10-08'
 source: API
 groups:
-- Imperial Herald
 - Mastopolos Mining
+- Torval Mining Ltd
+persons:
+- Zemina Torval
+- Gabriella Mastopolos
+- Constantia Torval
+- Anton Lagorio
 topics:
-- construction
 - corporate expansion
-- ship
-arc_id: formidine-rift
-modern_impact: The Formidine Rift mystery captivates explorers and reveals hidden
-  history.
-legacy_weight: 3
-significance: medium
+summary: Torval-Mastopolos Mining officially rebrands as Torval Mining Ltd, becoming
+  fully independent from Mastopolos Mining with Zemina Torval as CEO.
+player_impact: None
+modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
+legacy_weight: 2
+significance: low
 ---
 
 Senator [[Zemina Torval]]’s company Torval-[[Mastopolos Mining]] has become fully [[Independent]] from [[Its]] parent corporation.

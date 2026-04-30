@@ -6,16 +6,17 @@ date: '3307-10-21'
 source: API
 groups:
 - Mastopolos Mining
-- Pilots Federation
-locations:
-- EGM 559
-- Most are currently in the LTT 198
-- Pride of Bitterwood in the EGM 559
+- Torval Mining Ltd
+persons:
+- Zemina Torval
+- Constantia Torval
 topics:
 - corporate expansion
-- ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
+summary: Torval Mining Ltd requests deliveries of geological equipment, microbial furnaces,
+  and mineral extractors to the Pride of Bitterwood megaship in the EGM 559 system.
+player_impact: Pilots delivered commodities to the Pride of Bitterwood megaship in EGM
+  559.
+modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low
 ---

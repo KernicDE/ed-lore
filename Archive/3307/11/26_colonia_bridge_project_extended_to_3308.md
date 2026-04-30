@@ -6,14 +6,15 @@ date: '3307-11-26'
 source: API
 groups:
 - Brewer Corporation
-locations:
-- Colonia
 topics:
-- construction
 - corporate expansion
 - engineering
-- ship
 arc_id: jaques-station
+summary: Brewer Corporation completes phase two of the Colonia Bridge with 56 megaships
+  and announces phase three will begin in January 3308, adding starports and improving
+  tritium refuelling capacity.
+player_impact: Pilots who contributed to the Colonia Bridge project collected rewards
+  and will be eligible for engineered frame shift drives in phase three.
 modern_impact: Colonia continues to grow as a deep-space settlement, offering new
   opportunities for exploration and colonisation.
 legacy_weight: 3
