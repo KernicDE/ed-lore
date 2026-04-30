@@ -5,28 +5,27 @@ slug: thargoid_war_update_june_3309
 date: '3309-06-30'
 source: API
 groups:
-- ACT
 - Aegis
-- Alliance
-- Azimuth
-- Salvation
-- Thargoid
-locations:
-- Aegis
-- Azimuth
-- Thargoid
-- Titan
+- Azimuth Biotech
+locations: []
 topics:
 - alien contact
-- corporate expansion
 - research
-- ship
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: thargoid-titan-war
+modern_impact: "Sanderlyn's framing of the Dedicant — 'Theories abound as to its fate, ranging from a simple engine malfunction to the Far God rescuing its loyal worshippers. Even in wartime, it seems everyone loves a mystery' — is characteristically engaging. Her observation that 'Azimuth's results suggest that some retain faith in Salvation's legacy' notes continued corporate loyalty. The closing — 'There is hope that the tide is slowly turning' — provides narrative momentum."
+persons:
+- Jade Sanderlyn
+player_impact: "Pilots continue anti-xeno operations and are recovering systems from Thargoid control."
+summary: "Sanderlyn's monthly update covers the pulse wave scanner release, the Aegis-Azimuth sample competition, the Dedicant disappearance, and cautious optimism about territorial gains."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 514110ce-a03f-5dec-9403-eb1e16bf5695
+- d550b561-0a99-5e53-b940-ea281f0112b6
+- 35bd6845-b4e7-5c2f-a62c-12969561f402
+- da13374d-1993-57dc-8fdc-0f0d82f6b1e1
+- 28c59782-1b59-5571-b624-f6741ded3aea
 ---
 
 The latest report on the ongoing struggle against the Thargoids from Vox Galactica reporter Jade Sanderlyn.

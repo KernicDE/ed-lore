@@ -4,24 +4,23 @@ title: Mining Initiative Begins in Kokoller
 slug: mining_initiative_begins_in_kokoller
 date: '3309-06-29'
 source: API
-entities:
-- Paul Dyson
+entities: []
 groups:
-- ACT
 - Federal Navy
-locations:
-- Utley Hub in the Kokoller
+locations: []
 topics:
-- alien contact
 - corporate expansion
-- ship
-- trade
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+modern_impact: "Dyson's rhetoric — 'maximising profits is our moral duty' — is corporate sophistry. His framing — 'while our brave military personnel risk their lives to keep us safe' — wraps self-interest in patriotism. The campaign's stated purpose — 'sustaining stocks of raw materials' for the war effort — is the same justification used in the July 06 conclusion."
+persons:
+- Paul Dyson
+player_impact: "Pilots are invited to bring shipments of bertrandite, coltan and praseodymium to Utley Hub in the Kokoller system."
+summary: "Kokoller Limited launches a mining campaign to procure raw materials for the local economy, framing profit maximization as a moral duty during wartime."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2463d645-c924-59e3-95ae-502d99f8b646
 ---
 
 *Pilots’ Federation ALERT*

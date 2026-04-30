@@ -4,25 +4,23 @@ title: An Audience with the Preceptor
 slug: an_audience_with_the_preceptor
 date: '3309-06-23'
 source: API
-groups:
-- ACT
-- Aegis
-- Alliance
-- Thargoid
+groups: []
 locations:
-- Aegis
-- Alliance-governed Mullag
-- Thargoid
-- Titan
+- Mullag
 topics:
-- alien contact
-- espionage
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- investigation
+- religion
+arc_id: null
+modern_impact: "Seo Jin-ae's frustration — 'They wanted me to share divine commandments from the Titans, and kept asking when the Far God would arrive to cleanse the galaxy' — shows the cult's obsession. Her reference to being rescued by them 'a few months ago' provides continuity. The crucial intelligence about 'secret doors' and how 'the crew of that ship rigged the thing with traps' explains the Dedicant's disappearance far better than the FIA's official narrative."
+persons:
+- Seo Jin-ae
+player_impact: "Not specifically mentioned — this is an investigative and diplomatic report."
+summary: "Far God cultists contact Seo Jin-ae ('the Preceptor') about the Dedicant, revealing that the ship's interiors contain hidden compartments and traps that may explain the FIA's loss of control."
 legacy_weight: 4
 significance: high
+related_uuids:
+- 35bd6845-b4e7-5c2f-a62c-12969561f402
+- 28c59782-1b59-5571-b624-f6741ded3aea
 ---
 
 The Order of the Far God has reached out to Seo Jin-ae, offering information on the possible fate of the Dedicant.

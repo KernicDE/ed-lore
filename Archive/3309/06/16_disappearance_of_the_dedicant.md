@@ -4,26 +4,28 @@ title: Disappearance of the Dedicant
 slug: disappearance_of_the_dedicant
 date: '3309-06-16'
 source: API
-entities:
-- Alfred Ulyanov
-- Jalen Locke
+entities: []
 groups:
-- ACT
 - Federal Navy
-- Thargoid
 locations:
 - Mullag
-- Thargoid
 topics:
-- alien contact
 - crime
-- espionage
-- ship
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+- investigation
+arc_id: null
+modern_impact: "Locke's assumption — 'the cultists somehow overpowered our people and absconded with the megaship' — is immediately suspect. Ulyanov's expert counter — 'their nature remains essentially fatalistic. This makes it hard to imagine them taking on armed FIA agents in combat' — undermines the official narrative. His suggestion of 'a third party was involved' or 'the Dedicant's original owners found a way to divert its course' opens multiple possibilities."
+persons:
+- Jalen Locke
+- Alfred Ulyanov
+player_impact: "Not specifically mentioned — this is a breaking news report."
+summary: "The Dedicant megaship disappears after making an unscheduled hyperspace jump from Popontia, with thousands of Far God cultists and FIA agents aboard; both Federal and Allied search parties find no trace."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 406eddf5-4b92-54a5-835e-3e61f3113e59
+- a7de5a95-faa3-5048-a678-8834417d5796
+- da13374d-1993-57dc-8fdc-0f0d82f6b1e1
+- 28c59782-1b59-5571-b624-f6741ded3aea
 ---
 
 The Dedicant has disappeared from Popontia, just a few hours after thousands of Far God cultists boarded the megaship with a Federal escort.

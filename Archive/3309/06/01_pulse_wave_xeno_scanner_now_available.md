@@ -4,28 +4,28 @@ title: Pulse Wave Xeno Scanner Now Available
 slug: pulse_wave_xeno_scanner_now_available
 date: '3309-06-01'
 source: API
-entities:
-- Alba Tesreau
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
 - Professor Palin
-- Thargoid
-- Titan
 topics:
 - alien contact
 - humanitarian
 - research
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Tesreau's framing — 'the greatest scientific opportunity in a generation' — positions the Titans as objects of study, not just threats. Her belief that 'understanding the Thargoid species... is the only path to ending the war' reflects her scientific philosophy. The tri-superpower technician collaboration shows Aegis's unifying role."
+persons:
+- Alba Tesreau
+player_impact: "Pilots delivered ceramic composites, polymers, gallium and indium to the Rabh system."
+summary: "Aegis begins manufacturing the pulse wave xeno scanner after a successful resource campaign, enabling data collection on Thargoid Titans."
 legacy_weight: 5
 significance: high
+related_uuids:
+- d550b561-0a99-5e53-b940-ea281f0112b6
+- c9005155-18e5-5738-b25e-f178f4d372b2
+- 54f3bb2e-703a-599b-8843-5dc902858042
 ---
 
 *Pilots’ Federation ALERT*

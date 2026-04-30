@@ -5,25 +5,25 @@ slug: aegis_and_azimuth_compete_for_titan_samples
 date: '3309-06-15'
 source: API
 groups:
-- ACT
 - Aegis
-- Azimuth
-- Thargoid
+- Azimuth Biotech
 locations:
-- Aegis
-- Azimuth
 - Maelstrom
-- Thargoid
-- Titan
 topics:
-- alien contact
 - research
-- ship
+- war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+modern_impact: "Banerjee's description of the mission — 'passing through the Maelstroms' caustic clouds and energy barriers, avoiding Thargoid patrols, and escaping with tissue samples intact' — captures the danger. The contrast between Aegis's scientific approach and Azimuth's 'cutting-edge military countermeasures' framing shows their different philosophies. The mention that samples are 'acquired from minor flaws in the Titan's highly protective outer layers' is a technical detail."
+persons:
+- Leon Banerjee
+player_impact: "Pilots can deliver Titan tissue samples to Wiberg Station (Aegis) or Stebler City (Azimuth)."
+summary: "Aegis and Azimuth Biotech launch rival campaigns to collect Titan tissue samples, with Aegis promising research advancements and Azimuth promising military countermeasures."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 514110ce-a03f-5dec-9403-eb1e16bf5695
+- 5ba8ae23-2d03-588c-b6d4-a1407d3d22a2
+- c9005155-18e5-5738-b25e-f178f4d372b2
 ---
 
 *Pilots’ Federation ALERT*

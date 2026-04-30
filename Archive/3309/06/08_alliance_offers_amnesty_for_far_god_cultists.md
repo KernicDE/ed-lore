@@ -5,23 +5,27 @@ slug: alliance_offers_amnesty_for_far_god_cultists
 date: '3309-06-08'
 source: API
 groups:
-- ACT
 - Alliance
 - Federal Congress
-- October
-- Thargoid
 locations:
 - Popontia
-- Thargoid
 topics:
-- alien contact
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+- humanitarian
+- religion
+arc_id: null
+modern_impact: "Mahon's framing — 'The Alliance upholds the principles of religious tolerance' — is a direct contrast to Federation policy. His practical proposal — 'deports all Far God worshippers to Alliance space' — frames humanitarianism within existing legal frameworks. Driscoll's analysis — 'Mahon is grasping a high-profile opportunity to distinguish the libertarian Alliance from an increasingly authoritarian Federation' — is astute political commentary."
+persons:
+- Edmund Mahon
+- Vanya Driscoll
+player_impact: "Not specifically mentioned — this is a political and diplomatic report."
+summary: "The Alliance proposes that the Federation deport imprisoned Far God cultists to Allied space rather than imprison them, offering religious tolerance as a political differentiator."
 legacy_weight: 5
 significance: high
+related_uuids:
+- a7de5a95-faa3-5048-a678-8834417d5796
+- 35bd6845-b4e7-5c2f-a62c-12969561f402
+- da13374d-1993-57dc-8fdc-0f0d82f6b1e1
 ---
 
 The Alliance Assembly has submitted an appeal for clemency to Federal Congress for followers of the Order of the Far God.

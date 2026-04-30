@@ -4,24 +4,27 @@ title: Presidential Candidates Hold Live Debate
 slug: presidential_candidates_hold_live_debate
 date: '3309-06-26'
 source: API
-entities:
-- Felicia Winters
-- Jerome Archer
-groups:
-- ACT
-- Shadow President
+entities: []
+groups: []
 topics:
-- corporate expansion
 - investigation
 - piracy
-- safety
-- ship
-- trade
-- treasure hunt
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+- politics
+arc_id: null
+modern_impact: "The debate is a masterclass in political theater. Rackham's jab — 'Lost any megaships recently, Jerome?' — directly references the Dedicant. Winters's counter — 'the Dedicant situation is a direct result of your party's repressive policies on religious expression' — frames the crisis as policy failure. Rackham's zero-tax proposal — 'What our people need... is to pay zero civil taxes' — is absurd populism. Winters's pirate accusation — 'selling off the treasure you stole during your pirate days' — foreshadows the Calico Zack scandal."
+persons:
+- Jerome Archer
+- Felicia Winters
+- Zachary Rackham
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "The three Federal presidential candidates clash in a live debate, with personal attacks overshadowing policy discussion and commentators criticizing the tone."
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 35bd6845-b4e7-5c2f-a62c-12969561f402
+- da13374d-1993-57dc-8fdc-0f0d82f6b1e1
+- d5819466-08f7-501e-b3cf-cbf9bd4494c1
+- 2bb62465-0b86-5863-b66c-78972defe368
 ---
 
 Vice President Jerome Archer, Shadow President Felicia Winters, and entrepreneur Zachary Rackham have exchanged political views in a live debate.
