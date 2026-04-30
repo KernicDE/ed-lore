@@ -4,22 +4,25 @@ title: Dedicant Quest Yields Results
 slug: dedicant_quest_yields_results
 date: '3309-07-27'
 source: API
-entities:
-- Jalen Locke
+entities: []
 groups:
 - Federal Navy
 - Imperial Navy
-locations:
-- Olurung and Kwakimo
+locations: []
 topics:
-- engineering
-- espionage
 - humanitarian
-- ship
-- sport
-modern_impact: Engineering developments offer pilots new ship customisation options.
+- investigation
+modern_impact: "The decrypted message — 'PRISONERS INITIATED DEDICANT HYPERDRIVE' — is the key revelation. Locke's theory that 'the prisoners managed to regain control of their former vessel, using various modifications made to its internal systems' suggests sophisticated planning. The FIA's intent to 'retake the megaship by force if necessary' shows their priority is recapture, not rescue."
+persons:
+- Jalen Locke
+- Amir Rafiq
+player_impact: "Pilots helped track down fragments of the Dedicant's distress call across multiple systems."
+summary: "Combined decryption efforts reveal the Dedicant's original transmission: Far God prisoners escaped, initiated hyperdrive, and all personnel remain aboard; location unknown."
 legacy_weight: 1
 significance: low
+related_uuids:
+- 17779c04-b8c0-50fd-9c17-f5a7c91a05dd
+- ba9e2357-84b5-5ac9-aaf3-d2fa18dc5171
 ---
 
 *Pilots’ Federation ALERT*

@@ -4,27 +4,28 @@ title: Presidential Candidates Outline Manifestos
 slug: presidential_candidates_outline_manifestos
 date: '3309-07-17'
 source: API
-entities:
-- Felicia Winters
+entities: []
 groups:
-- ACT
 - Federal Navy
-- Shadow President
-- Thargoid
-locations:
-- Thargoid
+locations: []
 topics:
-- alien contact
-- corporate expansion
-- espionage
 - humanitarian
-- trade
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Archer's boast about the PDB — 'which prove I am a man of my word' — is chilling given its surveillance implications. Winters's counter — 'Mr Archer's obsession with police-state programmes can only push the Federation further toward an authoritarian dystopia' — is prescient. Rackham's dismissal — 'Is anyone else as bored of these two windbags as I am?' — is classic populist theater. The election delay due to refugee re-registration is a significant procedural detail."
+persons:
+- Jerome Archer
+- Felicia Winters
+- Zachary Rackham
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "The three Federal presidential candidates outline their manifestos in a second debate, with Archer prioritizing security, Winters advocating corporate taxation, and Rackham offering populist slogans."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2bb62465-0b86-5863-b66c-78972defe368
+- eb9dd208-a971-5c34-9298-f210626a15d5
+- e1f8912f-da0e-5d58-8e5d-3f2427694698
 ---
 
 The three candidates in the Federal presidential election have taken part in a second live debate to discuss policies.

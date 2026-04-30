@@ -4,20 +4,20 @@ title: Kokoller Mining Initiative Concludes
 slug: kokoller_mining_initiative_concludes
 date: '3309-07-06'
 source: API
-entities:
-- Paul Dyson provided
+entities: []
 groups:
-- ACT
 - Federal Navy
 locations:
 - Kokoller
 topics:
-- alien contact
 - corporate expansion
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+modern_impact: "Dyson's promise — 'the profits raised from refining and distributing these resources will go to a very worthy cause. Those credits are in good hands' — is vague and potentially suspicious. The framing 'ostensibly to manufacture supplies for the Federal Navy's anti-xeno war efforts' hints at corporate opportunism. The campaign's success shows pilots' willingness to contribute to war efforts."
+persons:
+- Paul Dyson
+player_impact: "Pilots delivered bertrandite, coltan and praseodymium to Utley Hub in the Kokoller system."
+summary: "Kokoller Limited's mining campaign concludes successfully, with materials ostensibly for Federal Navy anti-xeno war efforts."
 legacy_weight: 5
 significance: high
 ---

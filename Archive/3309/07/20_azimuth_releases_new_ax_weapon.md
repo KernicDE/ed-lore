@@ -4,32 +4,29 @@ title: Azimuth Releases New AX Weapon
 slug: azimuth_releases_new_ax_weapon
 date: '3309-07-20'
 source: API
-entities:
-- Torben Rademaker confirmed
+entities: []
 groups:
-- Aegis
-- Azimuth
-- Thargoid
+- Azimuth Biotech
 locations:
-- Aegis
-- Azimuth
 - Harma
 - Holloway Bioscience Institute
 - Musashi
-- Thargoid
 - Xi Wangda
 topics:
-- alien contact
 - corporate expansion
-- crime
-- humanitarian
 - research
-- ship
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+modern_impact: "Rademaker's confidence — 'my company has proved that its ingenuity and experience in developing anti-xeno weaponry cannot be surpassed' — is typical corporate bluster. The Empirical's observation about Holloway's expertise — 'If Azimuth were to forge closer ties with the institute, the resulting xenological research capabilities might even surpass those of Aegis' — is significant for the scientific rivalry."
+persons:
+- Torben Rademaker
+- Aanya Gupta
+player_impact: "Pilots who delivered rare goods to Musashi and bounty vouchers from Cartier City are reimbursed."
+summary: "Azimuth's convention succeeds and the new Overcharged Gimballed AX Multi-Cannon with Auto Loader is released, with speculation about Holloway Bioscience Institute collaboration."
 legacy_weight: 5
 significance: high
+related_uuids:
+- ee968e3a-66d9-5f52-a8b6-0043786fe8e2
+- 582f415f-4da7-5803-abee-6edac568efc6
 ---
 
 *Pilots’ Federation ALERT*

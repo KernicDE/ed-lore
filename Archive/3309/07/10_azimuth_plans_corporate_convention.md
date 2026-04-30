@@ -4,30 +4,29 @@ title: Azimuth Plans Corporate Convention
 slug: azimuth_plans_corporate_convention
 date: '3309-07-10'
 source: API
-entities:
-- Torben Rademaker provided
+entities: []
 groups:
-- ACT
-- Aegis
-- Azimuth
-- Thargoid
+- Azimuth Biotech
 locations:
-- Aegis
-- Azimuth
 - HIP 22460
 - Holloway Bioscience Institute
-- Thargoid
 topics:
-- alien contact
 - corporate expansion
 - research
-- ship
 - war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+modern_impact: "Rademaker's framing — 'Aegis's questionable policy of providing utility modules over increased firepower' — is competitive sniping. Royce's analysis — 'the convention precedes the announcement of a weapon schematic redesign' — is insightful. The mention of 'Operation Wych Hunt disruption' and the use of 'private couriers to transport guests' shows Azimuth's paranoia. The attendance of Herculean Machines, Space Lanes Cargo, and Holloway Bioscience Institute signals potential alliances."
+persons:
+- Torben Rademaker
+- Marlon Royce
+- Aanya Gupta
+player_impact: "Not specifically mentioned — this is a corporate announcement."
+summary: "Azimuth Biotech plans an invitation-only business convention to seek partnerships, with speculation about a new weapon schematic and concerns about corporate secrecy."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 582f415f-4da7-5803-abee-6edac568efc6
+- 3e1f7df6-c97e-5254-9465-9e693f6a19c6
 ---
 
 Azimuth Biotech has announced an invitation-only event for prospective business partners and military liaisons.

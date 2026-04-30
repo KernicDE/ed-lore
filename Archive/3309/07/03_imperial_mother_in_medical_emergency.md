@@ -4,24 +4,32 @@ title: Imperial Mother in Medical Emergency
 slug: imperial_mother_in_medical_emergency
 date: '3309-07-03'
 source: API
-entities:
-- Arissa Lavigny-Duval
-- Hengist Duval brought
-groups:
-- Bridge
+entities: []
+groups: []
 locations:
 - Imperial Palace
 topics:
-- construction
-- medicine
-- safety
-- ship
 - succession
-arc_id: salome-conspiracy
-modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
-  and Federal politics.
+- politics
+arc_id: null
+modern_impact: "Vestergaard's historical context — Prince Aristide's 'mysterious accident' in 3250, the revelation that Arissa was sired by Hengist, Hadrian's 'apparent attempt to rebuild bridges' — weaves together decades of Imperial family drama. The detail that Florence 'has typically sought to avoid the spotlight' contrasts with her central role in family unity."
+persons:
+- Florence Lavigny
+- Arissa Lavigny-Duval
+- Gudrun Vestergaard
+- Aisling Duval
+- Otto Lombardo-Duval
+- Guinevere Lavigny
+- Hadrian Augustus Duval
+- Aristide de Lavigny
+- Hengist Duval
+player_impact: "Not specifically mentioned — this is a family and medical report."
+summary: "Lady Florence Lavigny suffers a sudden illness, prompting Emperor Arissa to cancel all appointments; family members including Hadrian send well-wishes in an apparent reconciliation gesture."
 legacy_weight: 4
 significance: high
+related_uuids:
+- 4ec40970-7c63-505e-90e4-e160ba979920
+- 318132ea-ac2a-587f-9bd5-a112b7be85d0
 ---
 
 Lady Florence Lavigny, the mother of Emperor Arissa Lavigny-Duval, has been placed under medical supervision following a sudden illness.
