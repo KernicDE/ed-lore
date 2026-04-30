@@ -1,0 +1,38 @@
+---
+uuid: 4e860725-eb68-5f84-82ea-7b7e629bd964
+title: Terrorists Identified Among Marlinist Refugees
+slug: terrorists_identified_among_marlinist_refugees
+date: '3306-11-18'
+source: GitHub
+groups:
+- Federal Security Service
+topics:
+- crime
+- festival
+- humanitarian
+- terrorism
+- trade
+- war
+modern_impact: Community celebration bringing pilots together.
+legacy_weight: 1
+significance: low
+---
+
+Terrorists Identified Among Marlinist Refugees
+
+
+A screening process for Marlinist asylum-seekers arriving in the Federation has located several members of the NMLA terrorist group. 
+
+Vice President Brad Mitchell personally initiated a Federal Security Service operation to uncover any Neo-Marlinist extremists concealed among the refugee population. 
+
+The Vice President delivered this report to Congress: 
+
+“After standard ID scans flagged up some potential suspects, FSS officers employed more vigorous checks and interview techniques. They found nine individuals who were active members of the NMLA.” 
+
+“The terrorists have been transported to secure facilities for further interrogation, after which they will be handed over to Imperial authorities. Our security services remain vigilant against this danger that the Liberal Party has invited into our communities.” 
+
+ Vox Galactica featured a statement by Marlinist community leader Dr Jenna Fairfax: 
+
+“I am horrified to learn of NMLA hiding among us. These killers do not represent the principles of Marlinism, and we are happy to cooperate in expelling them.” 
+
+In related news, protestors on several Federal worlds have warned of increased crime, terrorism and economic damage unless all refugees are sent back to the Empire. Counter-protests have called for the Marlinists to be welcomed as fellow believers in democratic government.

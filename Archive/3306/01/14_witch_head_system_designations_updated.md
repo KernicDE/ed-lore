@@ -1,0 +1,33 @@
+---
+uuid: e92a5cd2-aa4d-5877-a93a-4f713d672b63
+title: Witch Head System Designations Updated
+slug: witch_head_system_designations_updated
+date: '3306-01-14'
+source: GitHub
+groups:
+- Universal Cartographics
+locations:
+- Wisanye
+- Witch Head Sector FB-X c1-7
+topics:
+- alien contact
+- exploration
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 4
+significance: high
+---
+
+Witch Head System Designations Updated
+
+
+Universal Cartographics has updated the names of fifteen systems in the Witch Head enclave. 
+
+Cynthia Sideris, chair of Universal Cartographics, elaborated on the development: 
+
+“Last year’s colonisation efforts resulted in a number of new settlements in the region, and providing systems with less unwieldy appellations is of great benefit to explorers. For example, ‘the Wisanye system’ rolls off the tongue much more agreeably than ‘the Witch Head Sector FB-X c1-7 system’.” 
+
+“We are confident that these more personable memorable terms will be welcomed by the Witch Head community.” 
+
+The Witch Head enclave is currently experiencing a number of Thargoid incursions, prompting local factions to call for assistance.

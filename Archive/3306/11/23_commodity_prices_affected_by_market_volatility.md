@@ -1,0 +1,33 @@
+---
+uuid: de79a88f-0652-58a2-964b-4603cd0bc2ca
+title: Commodity Prices Affected by Market Volatility
+slug: commodity_prices_affected_by_market_volatility
+date: '3306-11-23'
+source: GitHub
+entities:
+- Ophelia Kaufmann
+groups:
+- Pilots Federation
+topics:
+- trade
+modern_impact: Trade initiative affecting commodity markets.
+legacy_weight: 2
+significance: low
+---
+
+Commodity Prices Affected by Market Volatility
+
+
+*Pilots Federation ALERT* 
+
+Volatile trading markets have caused widespread price changes on several commodities, with a focus on the mining sector. 
+
+Alongside general market instability, unprecedented stock levels for a range of mined materials such as painite – once the gold standard of many systems – mean they now have uncertain futures. 
+
+Many financial experts predicted this correction to the markets, and saw it as an inevitable change. Others see this as a direct result of escalating tensions between the Empire and the Federation, with a few dismissing it as a minor anomaly and that prices will rapidly return to normal. 
+
+Professor Ophelia Kaufmann, head of economics at Orion Independent University, observed: 
+
+“There is certainly historical precedent for volatile markets during periods of political instability. Whatever the real cause or outlook in the short term, commodity values have become far more susceptible to market forces.” 
+
+“This is a notoriously difficult field in which to make predictions, but it is likely that prices for some lower-value goods may increase. The only certainty is of further fluctuations, but their severity will largely depend on how the precarious situation between superpowers is resolved.”

@@ -1,0 +1,36 @@
+---
+uuid: 5538c315-738f-5e38-a86e-8041eec8c984
+title: Federal System Resists Imperial Takeover
+slug: federal_system_resists_imperial_takeover
+date: '3306-11-12'
+source: GitHub
+groups:
+- Pilots Federation
+locations:
+- The LTT 1935
+topics:
+- investigation
+- sport
+- terrorism
+- war
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 1
+significance: low
+---
+
+Federal System Resists Imperial Takeover
+
+
+*Pilots Federation ALERT* 
+
+The Federation has successfully maintained control of the LTT 1935 system, following a battle against local Imperial forces. The conflict was caused by an Imperial investigation that traced deliveries of bomb-making materials from this system to an NMLA workshop.  
+
+Colonel Ernest Harris of the LTT 1935 Confederacy stated:  
+
+“The LTT 1935 system remains part of the Federation, now that we have defended against the Empire’s attempt to take control. Our citizens have been saved from the indignities of Imperial interrogation.” 
+
+“In gratitude to the Federal auxiliaries and independent pilots who helped support our freedom, rewards are now available at Wolf Port .” 
+
+There was also a message from Captain Axel Cyprian of the L.Y.S Corp: 
+
+“This is a serious setback in our war against the NMLA terrorists, who the Federation seem eager to protect. Nevertheless, for all those courageous pilots who flew on our behalf, we can offer generous payments from Strength of Purpose.”

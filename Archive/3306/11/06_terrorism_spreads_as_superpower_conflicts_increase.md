@@ -1,0 +1,39 @@
+---
+uuid: 5b6c21df-96dd-53ef-bc3f-c12ea9c4838e
+title: Terrorism Spreads as Superpower Conflicts Increase
+slug: terrorism_spreads_as_superpower_conflicts_increase
+date: '3306-11-06'
+source: GitHub
+groups:
+- Federal Times
+- IISS
+- Imperial Herald
+topics:
+- construction
+- diplomacy
+- humanitarian
+- succession
+- terrorism
+- war
+arc_id: federal-politics
+modern_impact: Federal political developments shape superpower relations.
+legacy_weight: 3
+significance: medium
+---
+
+Terrorism Spreads as Superpower Conflicts Increase
+
+
+Neo-Marlinist extremists are continuing their campaign of terror, while the Empire and Federation clash over issues caused by Marlinist refugees. 
+
+The Imperial Herald has featured updates on terrorist activity across the Empire: 
+
+“The NMLA has claimed responsibility for over fifty bomb attacks during the last three weeks. These mostly targeted local authority buildings and security forces, killing hundreds. Hit squads have also assassinated several high-profile individuals connected to the Duvals, including the Emperor’s relative Baron Cesare Lavigny.” 
+
+“Senior IISS leaders have admitted to being unprepared for how organised and well-equipped the paramilitary group is. Critics suggest that the mass arrest of Marlinists may have radicalised many people who were already sympathetic to the republican ideology.”  
+
+The Federal Times has focused on the tensions between superpowers: 
+
+“With diplomatic channels closing down, the possibility that the confrontation in LTT 1935 might escalate into all-out war cannot be ignored. There is added pressure from the exodus of millions of Marlinists, whose beliefs align with the Federation’s democratic principles.” 
+
+“President Hudson is still suffering from reduced congressional support, and many have said that it feels like Felicia Winters is running the show. But although her humanitarian efforts undoubtedly saved many refugees’ lives, the acceptance of Imperial outcasts into Federal society remains in question.”

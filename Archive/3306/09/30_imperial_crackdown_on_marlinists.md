@@ -1,0 +1,42 @@
+---
+uuid: 079b4589-32a5-5f8b-aa63-4f0f5f719a87
+title: Imperial Crackdown on Marlinists
+slug: imperial_crackdown_on_marlinists
+date: '3306-09-30'
+source: GitHub
+entities:
+- Denton Patreus
+- Patreus received applause
+groups:
+- Imperial Internal Security Service
+- Imperial Senate
+locations:
+- Beatis
+topics:
+- alien contact
+- construction
+- terrorism
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+Imperial Crackdown on Marlinists
+
+
+Senator Denton Patreus has mobilised Imperial military forces in response to terrorist acts committed by the Neo-Marlinist Liberation Army (NMLA). 
+
+The Empire has declared martial law and a lockdown in Ackwada, Beatis Chana and Nahuatl, where the republican ideals of Marlinism are known to be popular. Imperial Army troops have replaced local security forces, and potential NMLA sympathisers are being arrested for interrogation. 
+
+Senator Patreus received applause in the Imperial Senate when he vowed: 
+
+“There will be justice for the murder of Prince Harold Duval and justice for those citizens who perished in flames. The Marlinists will pay dearly for these atrocities!” 
+
+In related news, the Imperial Internal Security Service issued a report regarding the NMLA’s recent attacks on starports: 
+
+“Forensic results confirm that much of the station damage was caused by Thargoid caustic enzymes. Fragments indicate that the bombs were of advanced design but definitely man-made, not Thargoid in origin. Their payloads were identical in composition to enzyme missile rack warheads.” 
+
+“Our deduction is that the portable explosives were smuggled onto all four starports, then remotely detonated as one coordinated strike. We are interviewing station personnel and analysing recent traffic to identify any patterns.”

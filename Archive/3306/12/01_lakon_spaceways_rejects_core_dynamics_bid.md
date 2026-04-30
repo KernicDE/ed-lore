@@ -1,0 +1,38 @@
+---
+uuid: 8d7be9df-71af-5fef-a0df-fd7728c0586d
+title: Lakon Spaceways Rejects Core Dynamics Bid
+slug: lakon_spaceways_rejects_core_dynamics_bid
+date: '3306-12-01'
+source: GitHub
+entities:
+- Jupiter Rochester
+groups:
+- Alliance
+- Core Dynamics
+locations:
+- Jupiter
+topics:
+- construction
+- corporate expansion
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
+---
+
+Lakon Spaceways Rejects Core Dynamics Bid
+
+
+A proposal by the Federal corporation Core Dynamics to purchase the construction company Lakon Spaceways has been officially rejected. 
+
+Naomi Landseer, chairperson of Lakon’s board of directors, made this statement: 
+
+“We thank Mr Rochester and his team for their approach. However, I can confirm that Lakon Spaceways will remain an independent company.” 
+
+Business reporter Irfan Karim analysed the situation more closely for The Alliance Tribune: 
+
+“This decision has surprised many analysts, considering the persistent rumours that Lakon is in far greater difficulty than financial statements would suggest. Although its shipbuilding partnership with the Alliance proved highly lucrative, insiders believe that the firm has overstretched itself in terms of resources and manpower.” 
+
+“There have also been public comments from high-profile shareholders in Lakon, who are pressuring the board to accept ownership by Core Dynamics. Some complain of falling dividends, while others accuse Ms Landseer of focusing exclusively on Alliance contracts.” 
+
+A spokesperson for Core Dynamics confirmed that the offer to purchase Lakon Spaceways has not yet been withdrawn, and that CEO Jupiter Rochester is looking at all available options.
