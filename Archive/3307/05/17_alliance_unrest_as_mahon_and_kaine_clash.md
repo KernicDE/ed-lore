@@ -4,23 +4,33 @@ title: Alliance Unrest as Mahon and Kaine Clash
 slug: alliance_unrest_as_mahon_and_kaine_clash
 date: '3307-05-17'
 source: API
-entities:
+arc_id: alliance-expansion
+persons:
 - Edmund Mahon
+- Nakato Kaine
 groups:
 - Aegis
 - Alliance
+- Alliance Tribune
+- Alliance Assembly
 locations:
-- Aegis
 - Zaonce
+- Alkaid
+- Industry
+- New Caledonia
+technologies: []
 topics:
 - alien contact
 - diplomacy
-- festival
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: None directly; this is an election campaign report.
+summary: Prime Minister Edmund Mahon and Councillor Nakato Kaine escalate their Alliance election campaigns amid civil unrest. Mahon defends his record on prosperity at a business conference on Industry in Zaonce, while Kaine criticises Alliance spending on Aegis and Lakon at a protest march on New Caledonia in Alkaid.
+modern_impact: The election highlights deep divisions within the Alliance over expansionism vs. domestic focus, with Kaine's anti-expansion platform gaining traction despite Mahon's re-election.
+related_uuids:
+- 3bb67076-8b96-50e9-8b63-a7f0e82a437e
+- 5cd90cb7-e73b-553f-bdcf-cb7b311cc0df
+- 09b011a1-77a8-5a75-a0c4-c60509f2f440
 legacy_weight: 4
-significance: high
+significance: medium
 ---
 
 [[The]] front-runner candidates in the [[Alliance]] election have stepped up their campaigns, amid widespread political and civil unrest.

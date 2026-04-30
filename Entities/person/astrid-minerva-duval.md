@@ -4,7 +4,7 @@ name: Astrid Minerva-Duval
 type: person
 first_seen_date: '3307-04-05'
 last_seen_date: '3307-12-02'
-mention_count: 3
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 3
 
 First mentioned: **3307-04-05**  
 Last mentioned: **3307-12-02**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 

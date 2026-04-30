@@ -3,14 +3,14 @@ id: alliance-expansion
 name: Alliance Expansion
 first_seen_date: '3301-03-11'
 last_seen_date: '3307-06-25'
-mention_count: 41
+mention_count: 45
 significance: medium
 key_entities:
 - alliance
 - edmund-mahon
-- gibson-kincaid
 - pilots-federation
-- zachary-hudson
+- gibson-kincaid
+- alliance-assembly
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ key_entities:
 
 First seen: **3301-03-11**  
 Last seen: **3307-06-25**  
-Articles: **41**
+Articles: **45**
 
 ## Key Figures
 
-- [[Alliance]] (41 mentions)
-- [[Edmund Mahon]] (15 mentions)
+- [[Alliance]] (43 mentions)
+- [[Edmund Mahon]] (12 mentions)
+- [[Pilots Federation]] (7 mentions)
 - [[Gibson Kincaid]] (6 mentions)
-- [[Pilots Federation]] (5 mentions)
-- [[Zachary Hudson]] (3 mentions)
+- [[Alliance Assembly]] (5 mentions)
 
 ## Description
 

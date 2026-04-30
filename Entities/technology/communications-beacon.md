@@ -3,8 +3,8 @@ id: communications-beacon
 name: Communications beacon
 type: technology
 first_seen_date: '3307-04-08'
-last_seen_date: '3307-04-27'
-mention_count: 3
+last_seen_date: '3307-06-11'
+mention_count: 5
 ---
 
 <!-- AUTO-GENERATED -->
@@ -12,8 +12,8 @@ mention_count: 3
 # Communications beacon
 
 First mentioned: **3307-04-08**  
-Last mentioned: **3307-04-27**  
-Total mentions: **3**
+Last mentioned: **3307-06-11**  
+Total mentions: **5**
 
 ## Related
 

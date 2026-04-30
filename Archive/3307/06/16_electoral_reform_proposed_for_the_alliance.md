@@ -4,18 +4,28 @@ title: Electoral Reform Proposed for the Alliance
 slug: electoral_reform_proposed_for_the_alliance
 date: '3307-06-16'
 source: API
-entities:
+arc_id: alliance-expansion
+persons:
 - Edmund Mahon
+- Nakato Kaine
+- Vanya Driscoll
 groups:
 - Alliance
-- Marlinist
+- Alliance Tribune
+- Alliance Assembly
+- Marlinist Colonies
 locations:
 - Alliance
-- Marlinist
+- Marlinist Colonies
+technologies: []
 topics:
-- crime
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+- diplomacy
+player_impact: None directly; this is a political reform proposal.
+summary: Councillor Nakato Kaine proposes replacing the Alliance's electoral college system with direct public voting for prime minister. The proposal is rejected by most of the Assembly, though some acknowledge potential merit. Kaine stops short of alleging fraud in Mahon's re-election.
+modern_impact: Kaine's electoral reform proposal, though unsuccessful, keeps the issue of democratic accountability alive in Alliance politics and foreshadows future debates about the Assembly's power concentration.
+related_uuids:
+- 09b011a1-77a8-5a75-a0c4-c60509f2f440
+- 3bb67076-8b96-50e9-8b63-a7f0e82a437e
 legacy_weight: 3
 significance: medium
 ---

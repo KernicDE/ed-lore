@@ -1,20 +1,36 @@
 ---
 uuid: be0ab3b9-00aa-579f-b1cc-df4dd1f85d1e
-title: Corporatists Stalled by Jupiter Division’s Defeat
+title: Corporatists Stalled by Jupiter Division's Defeat
 slug: corporatists_stalled_by_jupiter_divisions_defeat
 date: '3307-06-21'
 source: API
+arc_id: federal-politics
+persons:
+- Jupiter Rochester
+- Conrad Sterling
+- Owen McKenna
 groups:
 - Core Dynamics
+- Jupiter Division
+- Vox Galactica
+- Silver Legal Group
 locations:
-- Jupiter
+- Ts'ao Tach
 - Mars
-- Tach
+- HIP 54530
+- Victory's Forge megaship
+technologies:
+- Victory's Forge megaship
 topics:
 - corporate expansion
 - humanitarian
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+player_impact: None directly; this is a political analysis piece.
+summary: Political journalist Conrad Sterling reports that Jupiter Division's defeat has dealt a severe blow to the corporatist movement. Many companies withdrew support before the conflict ended. With Rochester imprisoned and Jupiter Division dissolved, replacement figureheads are unlikely to preserve the movement.
+modern_impact: While the corporatist movement stalls, the underlying grievances about government corruption and corporate influence that fuelled it remain, creating conditions for future political radicalisation in the Federation.
+related_uuids:
+- 61ab8647-32a4-5463-b38b-57ed9790e137
+- ee5b7c0a-d673-55fa-b1af-b0e73f400736
+- e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
 legacy_weight: 3
 significance: medium
 ---

@@ -4,21 +4,32 @@ title: Nova Imperium Triumphs Over Federation
 slug: nova_imperium_triumphs_over_federation
 date: '3307-05-13'
 source: API
+arc_id: nmla-terrorism
+persons:
+- Hadrian Duval
+- Catherine Carlisle
 groups:
-- NMLA
 - Nova Imperium
+- League of Mandu
 - Pilots Federation
+- Federal Diplomatic Corps
 locations:
 - Paresa
-- Shield in the Paresa
+- Dyson City
+- Harmony's Shield
+technologies: []
 topics:
 - diplomacy
 - scandal
 - terrorism
 - war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: Pilots who fought for Nova Imperium collected rewards at Dyson City; those who fought for the League of Mandu collected rewards at Harmony's Shield.
+summary: Nova Imperium defeats the Federal-backed League of Mandu in the Paresa system. Hadrian Duval claims victory honours those who resisted Federation invasion. Ambassador Catherine Carlisle of the Federal Diplomatic Corps admits Federal intermediaries acted hastily and will depart.
+modern_impact: Nova Imperium's victory vindicates Hadrian Duval against false NMLA allegations and reinforces his political position, while the Federal retreat damages Hudson's credibility on anti-terrorism policy.
+related_uuids:
+- 11814d8f-62f6-5b65-ab80-4c77ae8a5d6d
+- dc3b5280-3154-5bb9-aa0a-34efca0a2b71
+- b11ce1f8-7cec-53e0-8472-ac95e77d789f
 legacy_weight: 5
 significance: high
 ---

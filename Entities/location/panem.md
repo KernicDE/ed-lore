@@ -10,7 +10,7 @@ related_entities:
 - tanmark
 - kappa-fornacis-farmers-union
 - lugh
-- himari-grey
+- kumo-crew
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **14**
 
 ## Related
 
-- [[Kappa Fornacis]] (8 co-mentions)
+- [[Kappa Fornacis]] (9 co-mentions)
 - [[Tanmark]] (3 co-mentions)
 - [[Kappa Fornacis Farmers Union]] (2 co-mentions)
 - [[Lugh]] (2 co-mentions)
-- [[Himari Grey]] (2 co-mentions)
+- [[Kumo Crew]] (2 co-mentions)
 
 ## Biography
 

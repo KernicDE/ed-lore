@@ -3,8 +3,8 @@ id: dublin-citadel-in-the-gateway
 name: Dublin Citadel in the Gateway
 type: location
 first_seen_date: '3307-03-11'
-last_seen_date: '3307-05-20'
-mention_count: 2
+last_seen_date: '3307-03-11'
+mention_count: 1
 related_entities:
 - alliance
 - federal-navy
@@ -18,12 +18,12 @@ related_entities:
 # Dublin Citadel in the Gateway
 
 First mentioned: **3307-03-11**  
-Last mentioned: **3307-05-20**  
-Total mentions: **2**
+Last mentioned: **3307-03-11**  
+Total mentions: **1**
 
 ## Related
 
-- [[Alliance]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
 - [[Imperial Navy]] (1 co-mentions)
 - [[NMLA]] (1 co-mentions)

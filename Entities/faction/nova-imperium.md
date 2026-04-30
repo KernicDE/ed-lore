@@ -24,7 +24,7 @@ Total mentions: **32**
 ## Related
 
 - [[Paresa]] (24 co-mentions)
-- [[NMLA]] (15 co-mentions)
+- [[NMLA]] (14 co-mentions)
 - [[Imperial Herald]] (8 co-mentions)
 - [[Alliance]] (7 co-mentions)
 - [[Achenar]] (6 co-mentions)

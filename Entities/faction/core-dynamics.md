@@ -23,7 +23,7 @@ Total mentions: **60**
 
 ## Related
 
-- [[Jupiter]] (26 co-mentions)
+- [[Jupiter]] (22 co-mentions)
 - [[Federal Navy]] (15 co-mentions)
 - [[Alliance]] (15 co-mentions)
 - [[Federal Times]] (9 co-mentions)

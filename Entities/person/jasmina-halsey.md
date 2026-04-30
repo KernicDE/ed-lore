@@ -3,8 +3,8 @@ id: jasmina-halsey
 name: Jasmina Halsey
 type: person
 first_seen_date: '3301-04-07'
-last_seen_date: '3307-07-12'
-mention_count: 9
+last_seen_date: '3306-09-12'
+mention_count: 8
 related_entities:
 - federal-navy
 - alliance
@@ -18,8 +18,8 @@ related_entities:
 # Jasmina Halsey
 
 First mentioned: **3301-04-07**  
-Last mentioned: **3307-07-12**  
-Total mentions: **9**
+Last mentioned: **3306-09-12**  
+Total mentions: **8**
 
 ## Related
 

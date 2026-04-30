@@ -3,8 +3,8 @@ id: dredger-class-bulk-cruiser
 name: Dredger-class bulk cruiser
 type: technology
 first_seen_date: '3307-04-12'
-last_seen_date: '3307-04-27'
-mention_count: 2
+last_seen_date: '3307-07-15'
+mention_count: 7
 ---
 
 <!-- AUTO-GENERATED -->
@@ -12,8 +12,8 @@ mention_count: 2
 # Dredger-class bulk cruiser
 
 First mentioned: **3307-04-12**  
-Last mentioned: **3307-04-27**  
-Total mentions: **2**
+Last mentioned: **3307-07-15**  
+Total mentions: **7**
 
 ## Related
 

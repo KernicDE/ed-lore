@@ -2,30 +2,32 @@
 id: stillman-hub
 name: Stillman Hub
 type: location
-first_seen_date: '3308-04-14'
+first_seen_date: '3307-07-15'
 last_seen_date: '3308-04-21'
-mention_count: 2
+mention_count: 3
 related_entities:
-- marlinist
 - hip-22550
+- marlinist
 - capitol
-- universal-cartographics
+- alliance
+- imperial-senate
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Stillman Hub
 
-First mentioned: **3308-04-14**  
+First mentioned: **3307-07-15**  
 Last mentioned: **3308-04-21**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
+- [[HIP 22550]] (3 co-mentions)
 - [[Marlinist]] (2 co-mentions)
-- [[HIP 22550]] (2 co-mentions)
 - [[Capitol]] (2 co-mentions)
-- [[Universal Cartographics]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Imperial Senate]] (1 co-mentions)
 
 ## Biography
 

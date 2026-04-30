@@ -4,7 +4,7 @@ name: Rhea
 type: location
 first_seen_date: '3302-01-04'
 last_seen_date: '3311-05-15'
-mention_count: 17
+mention_count: 18
 related_entities:
 - sirius-corporation
 - alliance
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3302-01-04**  
 Last mentioned: **3311-05-15**  
-Total mentions: **17**
+Total mentions: **18**
 
 ## Related
 

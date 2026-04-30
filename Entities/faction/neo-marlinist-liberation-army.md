@@ -6,11 +6,11 @@ first_seen_date: '3307-03-11'
 last_seen_date: '3307-12-28'
 mention_count: 9
 related_entities:
-- marlinist
 - nmla
-- alliance
+- marlinist
 - achenar
-- core-dynamics
+- marlinist-colonies
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **9**
 
 ## Related
 
-- [[Marlinist]] (8 co-mentions)
 - [[NMLA]] (8 co-mentions)
+- [[Marlinist]] (6 co-mentions)
+- [[Achenar]] (5 co-mentions)
+- [[Marlinist Colonies]] (5 co-mentions)
 - [[Alliance]] (4 co-mentions)
-- [[Achenar]] (4 co-mentions)
-- [[Core Dynamics]] (2 co-mentions)
 
 ## Biography
 

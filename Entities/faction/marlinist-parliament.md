@@ -3,14 +3,14 @@ id: marlinist-parliament
 name: Marlinist Parliament
 type: faction
 first_seen_date: '3307-04-09'
-last_seen_date: '3307-04-16'
-mention_count: 2
+last_seen_date: '3307-07-13'
+mention_count: 6
 related_entities:
 - marlinist-colonies
 - nmla
+- marlinism-reformation-party
+- imperial-senate
 - hyades-sector-ro-p-b6-2
-- imperial-herald
-- neo-marlinist-order-of-mudhrid
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Marlinist Parliament
 
 First mentioned: **3307-04-09**  
-Last mentioned: **3307-04-16**  
-Total mentions: **2**
+Last mentioned: **3307-07-13**  
+Total mentions: **6**
 
 ## Related
 
-- [[Marlinist Colonies]] (4 co-mentions)
-- [[NMLA]] (2 co-mentions)
-- [[Hyades Sector RO-P b6-2]] (2 co-mentions)
-- [[Imperial Herald]] (1 co-mentions)
-- [[Neo-Marlinist Order of Mudhrid]] (1 co-mentions)
+- [[Marlinist Colonies]] (12 co-mentions)
+- [[NMLA]] (6 co-mentions)
+- [[Marlinism Reformation Party]] (5 co-mentions)
+- [[Imperial Senate]] (5 co-mentions)
+- [[Hyades Sector RO-P b6-2]] (3 co-mentions)
 
 ## Biography
 

@@ -4,22 +4,30 @@ title: The Fall of The Oracle
 slug: the_fall_of_the_oracle
 date: '3307-05-24'
 source: API
+arc_id: thargoid-contact
+persons: []
+groups:
+- Sirius Inc
+- Pilots Federation
+- Engineers
 locations:
 - Delphi
-- Oracle
-- Sirius
-- The Oracle starport in the Delphi
-- This led to a cascading
+- Delphi 5 a
+- The Oracle
+technologies:
+- Caustic enzyme
+- Alignment thruster
 topics:
 - alien contact
-- construction
 - engineering
 - humanitarian
-- safety
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Independent pilots risked their lives to rescue thousands of trapped civilians from the falling and damaged starport.
+summary: The Oracle starport in the Delphi system begins tumbling out of orbit after Thargoid attack causes cascading systems failure. Independent pilots evacuate thousands of civilians while engineers patch alignment systems. The station is stabilised with hours to spare.
+modern_impact: The Oracle incident reveals a Thargoid tactic of disabling station alignment thrusters, causing orbital decay. This vulnerability leads to unilateral efforts to reinforce starports against similar attacks.
+related_uuids:
+- b6aa5197-46b1-54fe-8245-71ca6fe9fd40
+- 3ed695e3-4334-5111-bc87-ca2a91079e93
 legacy_weight: 5
 significance: high
 ---

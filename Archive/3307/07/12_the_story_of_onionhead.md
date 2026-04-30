@@ -4,26 +4,43 @@ title: The Story of Onionhead
 slug: the_story_of_onionhead
 date: '3307-07-12'
 source: API
-entities:
+arc_id: onionhead-conflict
+persons:
 - Himari Grey
 - Jasmina Halsey
+- Fleet Admiral Vincent
+- Zachary Hudson
+- Aisling Duval
 groups:
 - Kumo Crew
+- Vox Galactica
+- Interstellar Health Organisation
+- Federal Intelligence Agency
 locations:
 - Kappa Fornacis
 - Panem
-- Panem in the Kappa Fornacis
-- Production soon shifted to the Tanmark
 - Tanmark
+- Scythe of Panem
+technologies:
+- Onionhead alpha strain
+- Onionhead beta strain
+- Onionhead Lucan strain
+- Onionhead gamma strain
+- Helix drug
+- Engineered seeds
 topics:
-- engineering
 - narcotics
 - research
 - terrorism
-- war
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 2
-significance: low
+player_impact: None directly; this is a historical analysis piece.
+summary: Dr Himari Grey traces the history of onionhead from its origins on Panem in Kappa Fornacis through its banning by President Halsey in 3300, Fleet Admiral Vincent's unauthorised crop bombing, the Scythe of Panem terrorist revenge, and subsequent strains developed by genetic engineers in Tanmark and elsewhere.
+modern_impact: The article contextualises the helix/onionhead gamma strain controversy within a decades-long history of political conflict over narcotics, revealing how onionhead has repeatedly intersected with terrorism, military insubordination, and corporate criminality.
+related_uuids:
+- 36c0ba02-5f13-5ac2-920b-5b3b99dca219
+- b1886f93-ecbf-50e3-83c6-743f46436d7b
+- 3517ce1e-1d0e-57c9-ada1-bcdf88b77d23
+legacy_weight: 3
+significance: medium
 ---
 
 A new product being manufactured by [[The]] [[Kumo Crew]] could be a version of [[Onionhead]], the controversial recreational drug.

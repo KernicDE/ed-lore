@@ -4,13 +4,13 @@ name: Pegasi Sector PN-T c3-14
 type: location
 first_seen_date: '3307-04-15'
 last_seen_date: '3308-05-24'
-mention_count: 4
+mention_count: 9
 related_entities:
 - kumo-crew
-- kumo-council
 - pilots-federation
 - harma
-- hip-18390
+- kumo-city
+- kumo-council
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3307-04-15**  
 Last mentioned: **3308-05-24**  
-Total mentions: **4**
+Total mentions: **9**
 
 ## Related
 
-- [[Kumo Crew]] (4 co-mentions)
-- [[Kumo Council]] (3 co-mentions)
-- [[Pilots Federation]] (3 co-mentions)
-- [[Harma]] (3 co-mentions)
-- [[HIP 18390]] (3 co-mentions)
+- [[Kumo Crew]] (8 co-mentions)
+- [[Pilots Federation]] (7 co-mentions)
+- [[Harma]] (6 co-mentions)
+- [[Kumo City]] (6 co-mentions)
+- [[Kumo Council]] (5 co-mentions)
 
 ## Biography
 

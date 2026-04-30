@@ -4,22 +4,38 @@ title: Federation Battles Independents in the Azaladshu System
 slug: federation_battles_independents_in_the_azaladshu_system
 date: '3307-07-01'
 source: API
-entities:
-- Felicia Winters faced criticism
+arc_id: federal-politics
+persons:
+- Constanza Noguera
+- Zachary Hudson
+- Felicia Winters
 groups:
 - Pilots Federation
+- Azaladshu Free
+- Neche Inc
+- Coalition of Uteran
+- Lp 726-6 Free
+- Gluscap Labour
+- Federal Congress
 locations:
-- Federal
-- Fortress Liberty in the
-- LHS 277 and LTT 3919 into independent
+- Azaladshu
+- LFT 824
+- LHS 277
+- LTT 3919
+- Fortress Liberty megaship
+technologies:
+- Fortress Liberty megaship
 topics:
 - crime
 - independence
-- ship
 - war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
-legacy_weight: 3
+player_impact: Pilots were invited to support either Azaladshu Free or Neche Inc in the conflict over Federal secession.
+summary: Conflict erupts between Azaladshu Free and Neche Inc as multiple Federal systems declare independence. Mayor Constanza Noguera calls for supporters to defend sovereignty. President Hudson orders Neche Inc to engage the secessionists, deploying the Fortress Liberty megaship. Shadow President Winters faces criticism for the rebellion occurring in her sphere of influence.
+modern_impact: The Azaladshu conflict becomes the first battle in the Federal secession crisis, with the outcome determining whether other factions will risk declaring independence.
+related_uuids:
+- ef028c66-1901-5fef-af9f-2c741a9066b6
+- e962c6b8-fd3d-59c4-847f-27923ec53502
+legacy_weight: 4
 significance: medium
 ---
 

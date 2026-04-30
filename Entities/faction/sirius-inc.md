@@ -2,32 +2,32 @@
 id: sirius-inc
 name: Sirius Inc
 type: faction
-first_seen_date: '3308-09-12'
+first_seen_date: '3307-05-24'
 last_seen_date: '3308-09-12'
-mention_count: 1
+mention_count: 2
 related_entities:
-- si-terraforming
-- tekkeitjal-public-corporation
 - pilots-federation
-- 42-n-persei
-- chun-pindit
+- engineers
+- delphi
+- delphi-5-a
+- the-oracle
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Sirius Inc
 
-First mentioned: **3308-09-12**  
+First mentioned: **3307-05-24**  
 Last mentioned: **3308-09-12**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[SI Terraforming]] (1 co-mentions)
-- [[Tekkeitjal Public Corporation]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
-- [[42 n Persei]] (1 co-mentions)
-- [[Chun Pindit]] (1 co-mentions)
+- [[Pilots Federation]] (2 co-mentions)
+- [[Engineers]] (1 co-mentions)
+- [[Delphi]] (1 co-mentions)
+- [[Delphi 5 a]] (1 co-mentions)
+- [[The Oracle]] (1 co-mentions)
 
 ## Biography
 

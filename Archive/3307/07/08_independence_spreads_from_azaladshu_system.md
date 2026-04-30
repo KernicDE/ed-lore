@@ -4,22 +4,39 @@ title: 'Independence Spreads from Azaladshu System '
 slug: independence_spreads_from_azaladshu_system
 date: '3307-07-08'
 source: API
-entities:
-- Felicia Winters responded
-- Zachary Hudson being criticised
+arc_id: federal-politics
+persons:
+- Constanza Noguera
+- Zachary Hudson
+- Felicia Winters
 groups:
 - Pilots Federation
+- Azaladshu Free
+- Neche Inc
+- Coalition of Uteran
+- Lp 726-6 Free
+- Gluscap Labour
+- Federal Congress
 locations:
-- LHS 277 and LTT 3919
+- Azaladshu
+- LFT 824
+- LHS 277
+- LTT 3919
+- Eratosthenes Ring
+technologies:
+- Fortress Liberty megaship
 topics:
-- festival
 - independence
 - scandal
 - war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
-legacy_weight: 3
-significance: medium
+player_impact: Pilots who supported Azaladshu Free collected rewards at Eratosthenes Ring station.
+summary: Azaladshu Free defeats Neche Inc and retains independence from the Federation. The victory inspires Coalition of Uteran, Lp 726-6 Free and Gluscap Labour to secede, affecting all their controlled systems. President Hudson faces criticism for failing to contain the rebellion while Winters denies orchestrating the secessions.
+modern_impact: The Azaladshu victory triggers a wave of secession across Federal space, with ten systems and a billion people becoming independent. The PDB's inability to prevent the rebellion undermines its justification for mass surveillance.
+related_uuids:
+- ef028c66-1901-5fef-af9f-2c741a9066b6
+- 222858de-4cad-5e93-8606-bf343116ee8d
+legacy_weight: 5
+significance: high
 ---
 
 *[[Pilots Federation]] ALERT*

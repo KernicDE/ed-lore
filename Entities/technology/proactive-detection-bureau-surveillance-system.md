@@ -3,8 +3,8 @@ id: proactive-detection-bureau-surveillance-system
 name: Proactive Detection Bureau surveillance system
 type: technology
 first_seen_date: '3307-04-13'
-last_seen_date: '3307-04-29'
-mention_count: 3
+last_seen_date: '3307-07-21'
+mention_count: 7
 ---
 
 <!-- AUTO-GENERATED -->
@@ -12,8 +12,8 @@ mention_count: 3
 # Proactive Detection Bureau surveillance system
 
 First mentioned: **3307-04-13**  
-Last mentioned: **3307-04-29**  
-Total mentions: **3**
+Last mentioned: **3307-07-21**  
+Total mentions: **7**
 
 ## Related
 

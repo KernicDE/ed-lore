@@ -4,19 +4,30 @@ title: 'Detailed Surface Scanner Campaign Reaches Target '
 slug: detailed_surface_scanner_campaign_reaches_target
 date: '3307-06-24'
 source: API
+arc_id: alliance-expansion
+persons:
+- Sinclair Faraldo
 groups:
 - Pilots Federation
-- Sirius Corp
 - Sirius Corporation
+- Sirius Atmospherics
 locations:
+- Luyten's Star
+- Ashby City
 - Sirius
-- Star
+technologies:
+- Engineered Detailed Surface Scanner V1
+- CMM composites
+- Muon imager
+- Synthetic reagent
 topics:
 - corporate expansion
 - engineering
-- ship
-- trade
-modern_impact: Engineering developments offer pilots new ship customisation options.
+player_impact: Pilots who delivered CMM composites, muon imagers and synthetic reagents collected payment from Ashby City in the Luyten's Star system.
+summary: Sirius Corporation's campaign to mass-produce the Engineered Detailed Surface Scanner V1 reaches its target. Marketing director Sinclair Faraldo confirms mass production has begun and the module will be available from human technology brokers soon.
+modern_impact: The successful commercialisation of the enhanced scanner demonstrates Sirius Corporation's ability to leverage pilot community support for product development, reinforcing its economic dominance.
+related_uuids:
+- 278dd762-650c-5266-9ecc-2e9f2a05e6bc
 legacy_weight: 2
 significance: low
 ---

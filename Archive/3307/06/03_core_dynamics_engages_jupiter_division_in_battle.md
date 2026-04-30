@@ -4,19 +4,34 @@ title: Core Dynamics Engages Jupiter Division in Battle
 slug: core_dynamics_engages_jupiter_division_in_battle
 date: '3307-06-03'
 source: API
+arc_id: federal-politics
+persons:
+- Owen McKenna
+- Jupiter Rochester
+- Blanca Carbonell
 groups:
 - Core Dynamics
+- Jupiter Division
 - Pilots Federation
+- Silver Legal Group
 locations:
-- Jupiter
+- Ts'ao Tach
+- Victory's Forge megaship
+- Iron Wings of Justice megaship
+technologies:
+- Victory's Forge megaship
+- Iron Wings of Justice megaship
 topics:
-- construction
 - corporate expansion
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+player_impact: Pilots were invited to support either Core Dynamics/Silver Legal Group or Jupiter Division in the Ts'ao Tach system.
+summary: Core Dynamics and its ally the Silver Legal Group battle Jupiter Division in the Ts'ao Tach system. CEO Owen McKenna vows to wipe out Rochester's 'deranged cult' while Jupiter Division VP Blanca Carbonell calls for supporters to defend corporate rule.
+modern_impact: The second Jupiter Division conflict becomes a decisive test of the corporatist movement's viability without its imprisoned founder, with political commentators predicting it will determine whether corporate rule remains a viable political alternative.
+related_uuids:
+- 61ab8647-32a4-5463-b38b-57ed9790e137
+- e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

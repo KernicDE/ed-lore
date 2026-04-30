@@ -1,21 +1,38 @@
 ---
 uuid: b11ce1f8-7cec-53e0-8472-ac95e77d789f
-title: Hadrian Duval Allegations Declared ‘Inconclusive’
+title: Hadrian Duval Allegations Declared 'Inconclusive'
 slug: hadrian_duval_allegations_declared_inconclusive
 date: '3307-05-21'
 source: API
+arc_id: nmla-terrorism
+persons:
+- Hadrian Duval
+- Mara Klatt
+- Arastin Delacroix
+- Astrid Minerva-Duval
+- Leo Magnus
+- Niamh Seutonia
 groups:
-- IISS
-- NMLA
 - Nova Imperium
+- NMLA
+- Neo-Marlinist Order of Mudhrid
+- Federal Diplomatic Corps
+- IISS
 locations:
 - Paresa
+- Mudhrid
+technologies: []
 topics:
-- construction
 - diplomacy
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+- scandal
+player_impact: None directly; this is an investigation outcome report.
+summary: ACT declares evidence linking Hadrian Duval to the NMLA cannot be authenticated. Inspector Mara Klatt reports the data from Landgrave Delacroix is inconclusive and likely faked. Leo Magnus is seconded to ACT to replace the deceased Captain Niamh Seutonia.
+modern_impact: The inconclusive ruling clears Hadrian Duval's name but leaves lingering suspicion. It demonstrates ACT's integrity while revealing the NMLA's sophisticated disinformation capabilities.
+related_uuids:
+- 10f8cc7f-6af8-5ae4-b744-d3e73a0b8835
+- a63b78b8-8be0-504c-85a7-d986a0f0465a
+- 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
+- afdf0fab-5a79-5806-b284-6484d24275e1
 legacy_weight: 5
 significance: high
 ---

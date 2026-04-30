@@ -3,8 +3,8 @@ id: guardian-totem
 name: Guardian totem
 type: technology
 first_seen_date: '3307-04-22'
-last_seen_date: '3307-04-29'
-mention_count: 2
+last_seen_date: '3307-06-24'
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
@@ -12,8 +12,8 @@ mention_count: 2
 # Guardian totem
 
 First mentioned: **3307-04-22**  
-Last mentioned: **3307-04-29**  
-Total mentions: **2**
+Last mentioned: **3307-06-24**  
+Total mentions: **3**
 
 ## Related
 

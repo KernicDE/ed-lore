@@ -4,22 +4,33 @@ title: Alliance Election Candidates Announce Community Drives
 slug: alliance_election_candidates_announce_community_drives
 date: '3307-05-20'
 source: API
-entities:
+arc_id: alliance-expansion
+persons:
 - Edmund Mahon
+- Nakato Kaine
 groups:
 - Alliance
 - Pilots Federation
 locations:
-- Alliance-controlled
-- Brett High in the Tionisla
-- Dublin Citadel in the Gateway
+- Gateway
 - Tionisla
+- Dublin Citadel
+- Brett High
+technologies:
+- Ceramic composites
+- Polymers
+- Superconductors
+- Copper
+- Micro-controllers
 topics:
-- construction
-- ship
-- trade
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+- corporate expansion
+player_impact: Pilots delivered ceramic composites, polymers and superconductors to Dublin Citadel in Gateway (Mahon) or copper, micro-controllers and polymers to Brett High in Tionisla (Kaine).
+summary: Prime Minister Mahon and Councillor Kaine launch rival delivery initiatives in Alliance space. Mahon focuses on industrial materials for expansion while Kaine aims to boost local manufacturing and trade. The winner will run a second campaign the following week.
+modern_impact: The community drives set the policy direction for the re-elected Mahon administration, with his expansion-focused agenda winning public support over Kaine's local trade emphasis.
+related_uuids:
+- 3bb67076-8b96-50e9-8b63-a7f0e82a437e
+- 931d72fb-9b88-566c-a2c3-8b536ea52a59
+- 09b011a1-77a8-5a75-a0c4-c60509f2f440
 legacy_weight: 3
 significance: medium
 ---

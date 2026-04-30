@@ -2,30 +2,32 @@
 id: dyson-city
 name: Dyson City
 type: location
-first_seen_date: '3307-12-02'
+first_seen_date: '3307-05-06'
 last_seen_date: '3307-12-09'
-mention_count: 2
+mention_count: 4
 related_entities:
-- imperial-herald
-- nova-paresa
 - paresa
-- imperial-palace
+- nova-imperium
+- league-of-mandu
+- pilots-federation
+- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Dyson City
 
-First mentioned: **3307-12-02**  
+First mentioned: **3307-05-06**  
 Last mentioned: **3307-12-09**  
-Total mentions: **2**
+Total mentions: **4**
 
 ## Related
 
+- [[Paresa]] (4 co-mentions)
+- [[Nova Imperium]] (2 co-mentions)
+- [[League of Mandu]] (2 co-mentions)
+- [[Pilots Federation]] (2 co-mentions)
 - [[Imperial Herald]] (2 co-mentions)
-- [[Nova Paresa]] (2 co-mentions)
-- [[Paresa]] (2 co-mentions)
-- [[Imperial Palace]] (1 co-mentions)
 
 ## Biography
 

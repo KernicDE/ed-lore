@@ -4,13 +4,13 @@ name: California Nebula
 type: location
 first_seen_date: '3302-06-07'
 last_seen_date: '3309-03-09'
-mention_count: 24
+mention_count: 25
 related_entities:
 - alliance
 - kumo-crew
 - coalsack-nebula
-- kumo-council
 - pilots-federation
+- hip-18390
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3302-06-07**  
 Last mentioned: **3309-03-09**  
-Total mentions: **24**
+Total mentions: **25**
 
 ## Related
 
 - [[Alliance]] (18 co-mentions)
-- [[Kumo Crew]] (9 co-mentions)
-- [[Coalsack Nebula]] (4 co-mentions)
-- [[Kumo Council]] (3 co-mentions)
-- [[Pilots Federation]] (3 co-mentions)
+- [[Kumo Crew]] (10 co-mentions)
+- [[Coalsack Nebula]] (5 co-mentions)
+- [[Pilots Federation]] (4 co-mentions)
+- [[HIP 18390]] (4 co-mentions)
 
 ## Biography
 

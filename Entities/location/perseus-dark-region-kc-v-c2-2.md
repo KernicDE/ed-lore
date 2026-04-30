@@ -4,13 +4,13 @@ name: Perseus Dark Region KC-V c2-2
 type: location
 first_seen_date: '3307-04-12'
 last_seen_date: '3308-06-23'
-mention_count: 3
+mention_count: 7
 related_entities:
-- wallglass-investigations-agency
-- scriveners-clan
 - azimuth-biochemicals
 - chukchan
-- pharmasapien
+- wallglass-investigations-agency
+- scriveners-clan
+- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3307-04-12**  
 Last mentioned: **3308-06-23**  
-Total mentions: **3**
+Total mentions: **7**
 
 ## Related
 
-- [[Wallglass Investigations Agency]] (2 co-mentions)
-- [[Scriveners Clan]] (2 co-mentions)
-- [[Azimuth Biochemicals]] (2 co-mentions)
-- [[Chukchan]] (2 co-mentions)
-- [[Pharmasapien]] (1 co-mentions)
+- [[Azimuth Biochemicals]] (6 co-mentions)
+- [[Chukchan]] (6 co-mentions)
+- [[Wallglass Investigations Agency]] (4 co-mentions)
+- [[Scriveners Clan]] (4 co-mentions)
+- [[Pilots Federation]] (4 co-mentions)
 
 ## Biography
 

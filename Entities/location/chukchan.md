@@ -4,13 +4,13 @@ name: Chukchan
 type: location
 first_seen_date: '3306-10-29'
 last_seen_date: '3308-06-23'
-mention_count: 9
+mention_count: 12
 related_entities:
 - pilots-federation
-- alliance
 - azimuth-biochemicals
-- pharmasapien
-- chukchan-5-b
+- perseus-dark-region-kc-v-c2-2
+- alliance
+- scriveners-clan
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3306-10-29**  
 Last mentioned: **3308-06-23**  
-Total mentions: **9**
+Total mentions: **12**
 
 ## Related
 
-- [[Pilots Federation]] (5 co-mentions)
+- [[Pilots Federation]] (8 co-mentions)
+- [[Azimuth Biochemicals]] (7 co-mentions)
+- [[Perseus Dark Region KC-V c2-2]] (6 co-mentions)
 - [[Alliance]] (4 co-mentions)
-- [[Azimuth Biochemicals]] (3 co-mentions)
-- [[Pharmasapien]] (2 co-mentions)
-- [[Chukchan 5 b]] (2 co-mentions)
+- [[Scriveners Clan]] (4 co-mentions)
 
 ## Biography
 

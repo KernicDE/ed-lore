@@ -4,7 +4,7 @@ name: Zachary Hudson
 type: person
 first_seen_date: '3301-05-29'
 last_seen_date: '3307-09-10'
-mention_count: 31
+mention_count: 30
 related_entities:
 - federal-navy
 - edmund-mahon
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-05-29**  
 Last mentioned: **3307-09-10**  
-Total mentions: **31**
+Total mentions: **30**
 
 ## Related
 

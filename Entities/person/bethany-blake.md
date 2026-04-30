@@ -4,7 +4,7 @@ name: Bethany Blake
 type: person
 first_seen_date: '3307-04-06'
 last_seen_date: '3308-09-12'
-mention_count: 4
+mention_count: 7
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 4
 
 First mentioned: **3307-04-06**  
 Last mentioned: **3308-09-12**  
-Total mentions: **4**
+Total mentions: **7**
 
 ## Related
 

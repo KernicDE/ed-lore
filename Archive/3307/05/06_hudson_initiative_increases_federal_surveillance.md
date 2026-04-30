@@ -4,18 +4,34 @@ title: 'Hudson Initiative Increases Federal Surveillance '
 slug: hudson_initiative_increases_federal_surveillance
 date: '3307-05-06'
 source: API
-entities:
+arc_id: federal-politics
+persons:
+- Zachary Hudson
 - Felicia Winters
-- Zachary Hudson hailed this show
 groups:
 - Pilots Federation
+- Proactive Detection Bureau
+locations:
+- Nanomam
+- Rhea
+- Gresley Dock
+- Ito Orbital
+technologies:
+- Anomalous bulk scan data
+- Exceptional scrambled emission data
+- Specialised legacy firmware
+- Unusual encrypted files
+- Proactive Detection Bureau surveillance system
 topics:
 - cyberattack
 - terrorism
-- war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
-legacy_weight: 3
+player_impact: Pilots delivered data to either Gresley Dock in Nanomam (supporting Hudson) or Ito Orbital in Rhea (supporting Winters). Those who supported Hudson helped expand PDB surveillance.
+summary: President Hudson's data delivery campaign outperforms Shadow President Winters' competing privacy-protection initiative. The Proactive Detection Bureau dramatically expands its surveillance range, which Hudson interprets as a public mandate for continued monitoring.
+modern_impact: Hudson's victory in the data campaign cements the PDB's expansion and begins shifting the political balance, reducing stability in Winters-aligned systems while boosting security in Hudson's sphere of influence.
+related_uuids:
+- f75a0955-badc-5c1c-894f-410860377f39
+- caeee234-63d4-5e15-951d-0e83ac79930a
+legacy_weight: 4
 significance: medium
 ---
 

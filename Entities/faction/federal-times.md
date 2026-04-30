@@ -8,9 +8,9 @@ mention_count: 112
 related_entities:
 - sol
 - alliance
+- mars
 - federal-security-service
 - aegis
-- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **112**
 
 ## Related
 
-- [[Sol]] (19 co-mentions)
+- [[Sol]] (20 co-mentions)
 - [[Alliance]] (12 co-mentions)
+- [[Mars]] (10 co-mentions)
 - [[Federal Security Service]] (10 co-mentions)
 - [[Aegis]] (10 co-mentions)
-- [[Imperial Herald]] (10 co-mentions)
 
 ## Biography
 

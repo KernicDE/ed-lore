@@ -2,18 +2,18 @@
 id: kayode-tau
 name: Kayode Tau
 type: person
-first_seen_date: '3308-04-12'
+first_seen_date: '3307-07-13'
 last_seen_date: '3308-04-21'
-mention_count: 2
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Kayode Tau
 
-First mentioned: **3308-04-12**  
+First mentioned: **3307-07-13**  
 Last mentioned: **3308-04-21**  
-Total mentions: **2**
+Total mentions: **4**
 
 ## Related
 

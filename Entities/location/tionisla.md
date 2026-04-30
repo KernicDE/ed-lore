@@ -4,13 +4,13 @@ name: Tionisla
 type: location
 first_seen_date: '3302-08-05'
 last_seen_date: '3310-08-29'
-mention_count: 14
+mention_count: 17
 related_entities:
 - alliance
 - sirius-corporation
-- sol
-- titan
-- the-zurara-had-been-adrift-in-the
+- pilots-federation
+- gateway
+- dublin-citadel
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3302-08-05**  
 Last mentioned: **3310-08-29**  
-Total mentions: **14**
+Total mentions: **17**
 
 ## Related
 
-- [[Alliance]] (10 co-mentions)
-- [[Sirius Corporation]] (4 co-mentions)
-- [[Sol]] (1 co-mentions)
-- [[Titan]] (1 co-mentions)
-- [[The Zurara had been adrift in the]] (1 co-mentions)
+- [[Alliance]] (13 co-mentions)
+- [[Sirius Corporation]] (5 co-mentions)
+- [[Pilots Federation]] (4 co-mentions)
+- [[Gateway]] (4 co-mentions)
+- [[Dublin Citadel]] (4 co-mentions)
 
 ## Biography
 

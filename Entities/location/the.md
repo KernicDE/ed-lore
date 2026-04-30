@@ -4,7 +4,7 @@ name: The
 type: location
 first_seen_date: '3301-03-17'
 last_seen_date: '3307-09-16'
-mention_count: 13
+mention_count: 12
 related_entities:
 - alliance
 - aegis
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-03-17**  
 Last mentioned: **3307-09-16**  
-Total mentions: **13**
+Total mentions: **12**
 
 ## Related
 

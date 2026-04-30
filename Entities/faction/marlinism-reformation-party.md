@@ -3,14 +3,14 @@ id: marlinism-reformation-party
 name: Marlinism Reformation Party
 type: faction
 first_seen_date: '3307-04-16'
-last_seen_date: '3307-04-20'
-mention_count: 2
+last_seen_date: '3307-07-15'
+mention_count: 8
 related_entities:
 - marlinist-colonies
-- neo-marlinist-order-of-mudhrid
+- imperial-senate
+- nmla
+- marlinist-parliament
 - alliance
-- federal-congress
-- hyades-sector-ro-p-b6-2
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Marlinism Reformation Party
 
 First mentioned: **3307-04-16**  
-Last mentioned: **3307-04-20**  
-Total mentions: **2**
+Last mentioned: **3307-07-15**  
+Total mentions: **8**
 
 ## Related
 
-- [[Marlinist Colonies]] (4 co-mentions)
-- [[Neo-Marlinist Order of Mudhrid]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
-- [[Federal Congress]] (2 co-mentions)
-- [[Hyades Sector RO-P b6-2]] (2 co-mentions)
+- [[Marlinist Colonies]] (15 co-mentions)
+- [[Imperial Senate]] (8 co-mentions)
+- [[NMLA]] (7 co-mentions)
+- [[Marlinist Parliament]] (5 co-mentions)
+- [[Alliance]] (5 co-mentions)
 
 ## Biography
 

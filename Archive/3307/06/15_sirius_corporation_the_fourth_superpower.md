@@ -4,31 +4,38 @@ title: 'Sirius Corporation: The Fourth Superpower?'
 slug: sirius_corporation_the_fourth_superpower
 date: '3307-06-15'
 source: API
-entities:
+arc_id: federal-politics
+persons:
 - Li Yong-Rui
+- Archon Delaine
+- Marlon Royce
 groups:
 - Alliance
 - Kumo Crew
-- Marlinist
-- Sirius Corp
+- Marlinist Colonies
 - Sirius Corporation
+- Vox Galactica
+- Sirius Atmospherics
 locations:
-- Coalsack
-- Galactic Summit in the Sirius
-- Marlinist
 - Sirius
+- Coalsack Nebula
+- Marlinist Colonies
+- Galactic Summit
+technologies:
+- Engineered Detailed Surface Scanner V1
 topics:
 - alien contact
-- construction
 - corporate expansion
 - diplomacy
 - humanitarian
 - piracy
-- ship
-- war
-arc_id: marlinist-refugee
-modern_impact: The Marlinist refugee crisis forces the Federation and Alliance to
-  confront humanitarian obligations while managing security risks.
+player_impact: None directly; this is a business analysis piece.
+summary: Business analyst Marlon Royce examines Sirius Corporation's growing political influence, from resettling Marlinist refugees and hosting the Galactic Summit to secret deals with the Kumo Crew and terraforming the Coalsack Nebula. The article questions whether the megacorp aims to become a de facto fourth superpower.
+modern_impact: The analysis foreshadows Sirius Corporation's later confirmed role as a major behind-the-scenes power broker, with its influence extending into piracy, diplomacy, and anti-xeno research.
+related_uuids:
+- 808a1c32-013a-58f3-bf85-f48036f3d4f1
+- 677866b5-92cb-5c16-8297-0a3a97a4afa8
+- 278dd762-650c-5266-9ecc-2e9f2a05e6bc
 legacy_weight: 4
 significance: high
 ---

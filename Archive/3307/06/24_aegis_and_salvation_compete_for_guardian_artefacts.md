@@ -1,27 +1,48 @@
 ---
 uuid: e6ce2055-4e35-5281-9a66-2922d5d92fc4
-title: Aegis and ‘Salvation’ Compete for Guardian Artefacts
+title: Aegis and 'Salvation' Compete for Guardian Artefacts
 slug: aegis_and_salvation_compete_for_guardian_artefacts
 date: '3307-06-24'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Alba Tesreau
+- Patience Middleton
 groups:
 - Aegis
 - Alliance
 - Pilots Federation
+- Taurus Mining Ventures
+- Empire
+- Federation
 locations:
-- Aegis
-- Delphi
 - PMD2009 48
+- Trapezium Sector YU-X c1-2
+- Delphi
+- Glorious Prospect megaship
+- Archimedes megaship
+technologies:
+- Guardian artefacts
+- Proteus Anaconda
+- Guardian casket
+- Guardian orb
+- Guardian relic
+- Guardian tablet
+- Guardian totem
+- Guardian urn
 topics:
 - alien contact
 - crime
 - research
-- ship
 - war
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots delivered Guardian artefacts to either the Glorious Prospect (Salvation/Taurus Mining Ventures) or the Archimedes (Aegis) in the PMD2009 48 system.
+summary: Aegis and Taurus Mining Ventures launch rival Guardian artefact collection campaigns in PMD2009 48. Salvation claims exclusive rights to the Proteus battlefield site. The superpowers warn that modules from Taurus Mining Ventures will be marked 'hot'. Professor Tesreau states Aegis must replace artefacts lost with the Alexandria.
+modern_impact: The competition for Guardian artefacts exposes the growing rift between Aegis and Salvation, with the superpowers' hostility toward Salvation suggesting they perceive him as a threat to their control over anti-xeno research.
+related_uuids:
+- 4da5a9ac-6162-519f-92ef-a7ad55d5e8cf
+- 94863186-a8f1-51f0-8ed0-e8f06ab768bb
+- 0280176e-9e15-5141-b169-ddb5450c516b
 legacy_weight: 5
 significance: high
 ---

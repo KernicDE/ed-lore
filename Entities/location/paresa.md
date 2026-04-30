@@ -7,8 +7,8 @@ last_seen_date: '3309-06-05'
 mention_count: 30
 related_entities:
 - nova-imperium
-- nmla
 - imperial-herald
+- nmla
 - imperial-navy
 - achenar
 ---
@@ -24,8 +24,8 @@ Total mentions: **30**
 ## Related
 
 - [[Nova Imperium]] (24 co-mentions)
-- [[NMLA]] (13 co-mentions)
 - [[Imperial Herald]] (12 co-mentions)
+- [[NMLA]] (12 co-mentions)
 - [[Imperial Navy]] (6 co-mentions)
 - [[Achenar]] (6 co-mentions)
 

@@ -3,8 +3,8 @@ id: ceramic-composites
 name: Ceramic composites
 type: technology
 first_seen_date: '3307-04-15'
-last_seen_date: '3307-04-22'
-mention_count: 2
+last_seen_date: '3307-06-25'
+mention_count: 6
 ---
 
 <!-- AUTO-GENERATED -->
@@ -12,8 +12,8 @@ mention_count: 2
 # Ceramic composites
 
 First mentioned: **3307-04-15**  
-Last mentioned: **3307-04-22**  
-Total mentions: **2**
+Last mentioned: **3307-06-25**  
+Total mentions: **6**
 
 ## Related
 

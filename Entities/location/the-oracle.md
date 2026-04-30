@@ -2,32 +2,32 @@
 id: the-oracle
 name: The Oracle
 type: location
-first_seen_date: '3307-12-14'
+first_seen_date: '3307-05-24'
 last_seen_date: '3307-12-14'
-mention_count: 1
+mention_count: 2
 related_entities:
-- taurus-mining-ventures
-- vox-galactica
 - delphi
-- maia
-- merope
+- sirius-inc
+- pilots-federation
+- engineers
+- delphi-5-a
 ---
 
 <!-- AUTO-GENERATED -->
 
 # The Oracle
 
-First mentioned: **3307-12-14**  
+First mentioned: **3307-05-24**  
 Last mentioned: **3307-12-14**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Taurus Mining Ventures]] (1 co-mentions)
-- [[Vox Galactica]] (1 co-mentions)
-- [[Delphi]] (1 co-mentions)
-- [[Maia]] (1 co-mentions)
-- [[Merope]] (1 co-mentions)
+- [[Delphi]] (2 co-mentions)
+- [[Sirius Inc]] (1 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
+- [[Engineers]] (1 co-mentions)
+- [[Delphi 5 a]] (1 co-mentions)
 
 ## Biography
 

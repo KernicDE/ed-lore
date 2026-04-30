@@ -1,0 +1,34 @@
+---
+id: alliance-interpol
+name: Alliance Interpol
+type: faction
+first_seen_date: '3307-06-14'
+last_seen_date: '3307-06-14'
+mention_count: 1
+related_entities:
+- marlinist-colonies
+- alliance
+- imperial-internal-security-service
+- nmla
+- neo-marlinist-liberation-army
+---
+
+<!-- AUTO-GENERATED -->
+
+# Alliance Interpol
+
+First mentioned: **3307-06-14**  
+Last mentioned: **3307-06-14**  
+Total mentions: **1**
+
+## Related
+
+- [[Marlinist Colonies]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Imperial Internal Security Service]] (1 co-mentions)
+- [[NMLA]] (1 co-mentions)
+- [[Neo-Marlinist Liberation Army]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

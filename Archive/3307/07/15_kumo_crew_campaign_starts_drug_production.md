@@ -4,23 +4,44 @@ title: Kumo Crew Campaign Starts Drug Production
 slug: kumo_crew_campaign_starts_drug_production
 date: '3307-07-15'
 source: API
-entities:
+arc_id: kumo-crew-rise
+persons:
 - Zachary Hudson
+- Aisling Duval
+- Archon Delaine
+- Kay Volantyne
 groups:
 - Kumo Crew
+- Kumo Council
 - Pilots Federation
+- Blue Viper Club
+- Interstellar Health Organisation
+- Pegasi Sentinel
 locations:
-- Every
-- Pegasi Sector
+- Pegasi Sector PN-T c3-14
+- Kumo City
+- Harma
+technologies:
+- Helix drug
+- Onionhead gamma strain
+- Agronomic treatment
+- Liquid oxygen
+- Performance enhancers
+- Dredger-class bulk cruiser
 topics:
 - narcotics
 - piracy
-- ship
-- trade
+
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+player_impact: Pilots delivered agronomic treatment, liquid oxygen and performance enhancers to Kumo City and fought to protect haulage vessels from pirate ships.
+summary: The Kumo Crew procures enough materials to mass-produce helix, confirmed by the IHO as a new variant of onionhead. President Hudson, Princess Aisling and other leaders express outrage. Archon Delaine defends the drug as bringing happiness and income to his people.
+modern_impact: The open production of onionhead gamma strain establishes the Kumo Crew as a major narcotics manufacturer and deepens the syndicate's ties to the Blue Viper Club, creating a distribution network that spans anarchic systems across the galaxy.
+related_uuids:
+- 36c0ba02-5f13-5ac2-920b-5b3b99dca219
+- 99a40044-3a86-5461-91a1-da2156ab2f0b
+- ea0496c2-a753-54ad-b6de-0c3d9bf29edf
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

@@ -4,21 +4,31 @@ title: Aegis Megaship Prepares to Escape Thargoids
 slug: aegis_megaship_prepares_to_escape_thargoids
 date: '3307-06-01'
 source: API
+arc_id: thargoid-contact
+persons:
+- Jacob Morales
 groups:
 - Aegis
 - Pilots Federation
 locations:
-- Aegis
-- Delphi
 - HIP 16538
+- Delphi
+- HIP 30944
+technologies:
+- Alexandria megaship
+- Guardian artefacts
+- Tritium
 topics:
 - alien contact
-- medicine
-- ship
+- research
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots docked at the Alexandria were advised to depart before the megaship's hyperspace jump.
+summary: The Alexandria megaship prepares to jump from HIP 16538 to HIP 30944, a low-population system, to reduce Thargoid pursuit risk. Captain Jacob Morales announces all independent ships will be undocked before the jump on June 3rd.
+modern_impact: The Alexandria's desperate escape plan reflects Aegis's deteriorating situation. The forced undocking of civilian vessels foreshadows the megaship's eventual disappearance in hyperspace.
+related_uuids:
+- 3ed695e3-4334-5111-bc87-ca2a91079e93
+- c8970a7c-f1b9-57df-aaac-b318e5078cab
+- 94863186-a8f1-51f0-8ed0-e8f06ab768bb
 legacy_weight: 4
 significance: high
 ---

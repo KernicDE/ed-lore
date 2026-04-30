@@ -4,23 +4,35 @@ title: Dredger Clan Arrives at Kumo City
 slug: dredger_clan_arrives_at_kumo_city
 date: '3307-07-02'
 source: API
+arc_id: kumo-crew-rise
+persons:
+- Francesca Wolfe
+- Archon Delaine
+- Kay Volantyne
 groups:
-- Alliance
 - Kumo Crew
 - Pilots Federation
+- Blue Viper Club
+- Wallglass Investigations Agency
 locations:
-- Pegasi Sector
+- Pegasi Sector PN-T c3-14
+- Kumo City
+- Harma
+technologies:
+- Dredger-class bulk cruiser
 topics:
-- construction
 - crime
 - investigation
 - narcotics
 - piracy
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+player_impact: Pilots in Pegasi Sector PN-T c3-14 were warned to keep safe distance from the dredger.
+summary: A Blue Viper Club dredger enters the Pegasi Sector PN-T c3-14 system and takes position near Kumo City. Francesca Wolfe reports the clan's unsavoury reputation for drug running and raiding. Unmarked personnel shuttles travel between the dredger and Kumo City, suggesting a potential alliance with the Kumo Crew.
+modern_impact: The Blue Viper Club's arrival at Kumo City introduces a new criminal element to the Kumo Crew's operations and becomes the source of the helix drug that enters galactic markets later in the month.
+related_uuids:
+- 36c0ba02-5f13-5ac2-920b-5b3b99dca219
+- b1886f93-ecbf-50e3-83c6-743f46436d7b
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*
