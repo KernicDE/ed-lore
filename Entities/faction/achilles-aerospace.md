@@ -8,9 +8,9 @@ mention_count: 7
 related_entities:
 - sirius-corporation
 - faulcon-delacy
-- act
-- thargoid
-- titan
+- ethgreze
+- utopia
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **7**
 
 - [[Sirius Corporation]] (4 co-mentions)
 - [[Faulcon DeLacy]] (2 co-mentions)
-- [[ACT]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
-- [[Titan]] (1 co-mentions)
+- [[Ethgreze]] (1 co-mentions)
+- [[Utopia]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
 
 ## Biography
 

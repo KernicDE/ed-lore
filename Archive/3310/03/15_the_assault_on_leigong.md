@@ -4,23 +4,24 @@ title: The Assault on Leigong
 slug: the_assault_on_leigong
 date: '3310-03-15'
 source: API
-groups:
-- Thargoid
-locations:
-- Guardian
-- Thargoid
-- Titan
+groups: []
+locations: []
 topics:
 - alien contact
-- humanitarian
-- ship
 - war
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Standard Titan assault alert. The destruction of Leigong would follow Taranis as the second Titan to fall, continuing the systematic dismantling of the Thargoid mothership fleet."
+persons: []
+technologies:
+- Thargoid Pulse Neutraliser
+- Caustic Sink Launcher
+- Guardian Nanite Torpedo Pylon
+player_impact: "Pilots are urgently called to aid in the defeat of Titan Leigong, the second Thargoid mothership."
+summary: "An urgent call to all pilots to participate in the final assault on Titan Leigong, the second Thargoid mothership."
 legacy_weight: 5
 significance: high
+related_uuids:
+- fe1eb907-2d83-51c4-bb42-d7b1da795fee
 ---
 
 *Pilots’ Federation Alert*

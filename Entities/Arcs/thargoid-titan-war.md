@@ -6,8 +6,8 @@ last_seen_date: '3310-12-18'
 mention_count: 80
 significance: medium
 key_entities:
-- thargoid
 - aegis
+- thargoid
 - act
 - alliance
 - sirius-corporation
@@ -23,9 +23,9 @@ Articles: **80**
 
 ## Key Figures
 
-- [[Thargoid]] (49 mentions)
 - [[Aegis]] (46 mentions)
-- [[ACT]] (36 mentions)
+- [[Thargoid]] (46 mentions)
+- [[ACT]] (34 mentions)
 - [[Alliance]] (19 mentions)
 - [[Sirius Corporation]] (10 mentions)
 

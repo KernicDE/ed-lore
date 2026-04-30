@@ -4,22 +4,23 @@ title: Titan Taranis destruction yields extensive data for research projects
 slug: titan_taranis_destruction_yields_extensive_data_for_research_projects
 date: '3310-03-12'
 source: API
-groups:
-- ACT
-- Thargoid
-locations:
-- Thargoid
-- Titan
+groups: []
+locations: []
 topics:
 - alien contact
-- corporate expansion
 - research
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Banerjee's summary captures the scientific community's anxiety — 'the common anxiety amongst the scientific community is still how little we truly understand about the Titans.' His questions — 'What answers does the caustic remnant of Taranis contain? What might have survived the destruction?' — frame the wreckage as both a research opportunity and a potential hazard. The article establishes the Taranis wreckage as a key resource for future research."
+persons:
+- Leon Banerjee
+player_impact: "Not specifically mentioned — this is a research analysis piece."
+summary: "Science correspondent Leon Banerjee reports on the scientific community's eagerness to study the wreckage of Titan Taranis, acknowledging how little is still understood about Titans."
 legacy_weight: 5
 significance: high
+related_uuids:
+- a6a397be-81d6-555b-8b7d-3c6dcd935713
+- 5393b651-7dc3-5304-81d2-8e5d46c21ad0
 ---
 
 The recent destruction of Titan Taranis has yielded a significant amount of data that scientists across the galaxy have begun interrogating.

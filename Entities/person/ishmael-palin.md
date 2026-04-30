@@ -3,11 +3,11 @@ id: ishmael-palin
 name: Ishmael Palin
 type: person
 first_seen_date: '3301-09-13'
-last_seen_date: '3310-03-18'
-mention_count: 63
+last_seen_date: '3310-02-15'
+mention_count: 62
 related_entities:
-- thargoid
 - maia
+- thargoid
 - professor-palin
 - act
 - ram-tah
@@ -18,16 +18,16 @@ related_entities:
 # Ishmael Palin
 
 First mentioned: **3301-09-13**  
-Last mentioned: **3310-03-18**  
-Total mentions: **63**
+Last mentioned: **3310-02-15**  
+Total mentions: **62**
 
 ## Related
 
-- [[Thargoid]] (22 co-mentions)
 - [[Maia]] (21 co-mentions)
-- [[Professor Palin]] (21 co-mentions)
-- [[ACT]] (17 co-mentions)
-- [[Ram Tah]] (16 co-mentions)
+- [[Thargoid]] (21 co-mentions)
+- [[Professor Palin]] (20 co-mentions)
+- [[ACT]] (16 co-mentions)
+- [[Ram Tah]] (15 co-mentions)
 
 ## Biography
 
