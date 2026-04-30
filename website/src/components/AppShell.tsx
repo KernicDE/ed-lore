@@ -43,15 +43,19 @@ interface AppShellProps {
   arcs: Record<string, Arc>;
 }
 
-// Estimate visible articles from scroll position (sync with Timeline logic)
 const ITEM_HEIGHT = 96;
-const BUFFER = 8;
+const BUFFER = 5;
 
 export default function AppShell({ articles, entities, arcs }: AppShellProps) {
-  const [currentDate, setCurrentDate] = useState('3301-01-01');
+  const [currentDate, setCurrentDate] = useState('3312-12-31');
   const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
   const [scrollTop, setScrollTop] = useState(0);
   const [viewportHeight, setViewportHeight] = useState(800);
+
+  // Newest first (descending)
+  const sortedArticles = useMemo(() => {
+    return [...articles].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+  }, [articles]);
 
   const handleCenterDateChange = useCallback((date: string) => {
     setCurrentDate(date);
@@ -69,20 +73,20 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
   // Compute visible articles for context panel
   const visibleArticles = useMemo(() => {
     const startIdx = Math.max(0, Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER);
-    const endIdx = Math.min(articles.length, Math.ceil((scrollTop + viewportHeight) / ITEM_HEIGHT) + BUFFER);
-    return articles.slice(startIdx, endIdx).map((a) => ({
+    const endIdx = Math.min(sortedArticles.length, Math.ceil((scrollTop + viewportHeight) / ITEM_HEIGHT) + BUFFER);
+    return sortedArticles.slice(startIdx, endIdx).map((a) => ({
       arc_id: a.arc_id,
       entities: a.entities,
       groups: a.groups,
       locations: a.locations,
       topics: a.topics,
     }));
-  }, [scrollTop, viewportHeight, articles]);
+  }, [scrollTop, viewportHeight, sortedArticles]);
 
   return (
     <div className="main-layout">
       <Timeline
-        articles={articles}
+        articles={sortedArticles}
         onCenterDateChange={handleCenterDateChange}
         onArticleSelect={handleArticleSelect}
         selectedArticle={selectedArticle}

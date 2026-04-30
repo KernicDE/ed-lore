@@ -26,7 +26,14 @@ interface TimelineProps {
 }
 
 const ITEM_HEIGHT = 96;
-const BUFFER = 8;
+const BUFFER = 5;
+
+function wikiLinkToHtml(text: string, baseUrl: string): string {
+  return text.replace(/\[\[([^\]]+)\]\]/g, (_match, name) => {
+    const eid = name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-');
+    return `<a href="${baseUrl}entity/${eid}/" class="wiki-link">${name}</a>`;
+  });
+}
 
 export default function Timeline({
   articles,
@@ -38,6 +45,8 @@ export default function Timeline({
   const containerRef = useRef<HTMLDivElement>(null);
   const [scrollTop, setScrollTop] = useState(0);
   const [viewportHeight, setViewportHeight] = useState(800);
+
+  const baseUrl = import.meta.env.BASE_URL || '/';
 
   useEffect(() => {
     const el = containerRef.current;
@@ -57,65 +66,46 @@ export default function Timeline({
       el.removeEventListener('scroll', update);
       ro.disconnect();
     };
-  }, []);
-
-  // Compute visible range
-  const startIdx = Math.max(0, Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER);
-  const endIdx = Math.min(
-    articles.length,
-    Math.ceil((scrollTop + viewportHeight) / ITEM_HEIGHT) + BUFFER
-  );
+  }, [onScrollUpdate]);
 
   // Track center date for time-lock
   useEffect(() => {
     const centerIdx = Math.floor((scrollTop + viewportHeight / 2) / ITEM_HEIGHT);
-    const art = articles[Math.min(centerIdx, articles.length - 1)];
+    const art = articles[Math.min(Math.max(0, centerIdx), articles.length - 1)];
     if (art) onCenterDateChange(art.date);
   }, [scrollTop, viewportHeight, articles, onCenterDateChange]);
 
-  // Group by year for sticky headers
-  const yearGroups = useMemo(() => {
-    const groups: { year: string; startIdx: number }[] = [];
-    let lastYear = '';
-    articles.forEach((art, i) => {
-      const year = art.date?.split('-')[0] ?? 'Unknown';
-      if (year !== lastYear) {
-        groups.push({ year, startIdx: i });
-        lastYear = year;
-      }
-    });
-    return groups;
-  }, [articles]);
+  // Virtualisation with spacers (normal flow, no absolute positioning)
+  const startIdx = Math.max(0, Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER);
+  const endIdx = Math.min(articles.length, Math.ceil((scrollTop + viewportHeight) / ITEM_HEIGHT) + BUFFER);
+
+  const topSpacerHeight = startIdx * ITEM_HEIGHT;
+  const bottomSpacerHeight = (articles.length - endIdx) * ITEM_HEIGHT;
 
   const handleItemClick = useCallback((art: Article) => {
     onArticleSelect(selectedArticle?.uuid === art.uuid ? null : art);
   }, [onArticleSelect, selectedArticle]);
 
-  const totalHeight = articles.length * ITEM_HEIGHT;
+  // Group by year for sticky headers among visible items
+  const visibleArticles = articles.slice(startIdx, endIdx);
+  const yearHeaders = useMemo(() => {
+    const headers: { year: string; index: number }[] = [];
+    let lastYear = '';
+    visibleArticles.forEach((art, i) => {
+      const year = art.date?.split('-')[0] ?? 'Unknown';
+      if (year !== lastYear) {
+        headers.push({ year, index: startIdx + i });
+        lastYear = year;
+      }
+    });
+    return headers;
+  }, [visibleArticles, startIdx]);
 
   return (
     <div ref={containerRef} className="timeline-pane">
-      {/* Sticky year headers rendered as absolute overlays */}
-      {yearGroups.map((g, i) => {
-        const nextStart = yearGroups[i + 1]?.startIdx ?? articles.length;
-        const groupTop = g.startIdx * ITEM_HEIGHT;
-        const groupBottom = nextStart * ITEM_HEIGHT;
-        const visible = scrollTop >= groupTop && scrollTop < groupBottom;
-        if (!visible) return null;
-        return (
-          <div
-            key={g.year}
-            className="timeline-year-header"
-            style={{ position: 'sticky', top: 0 }}
-          >
-            {g.year}
-          </div>
-        );
-      })}
-
-      <div style={{ height: totalHeight, position: 'relative' }}>
-        {articles.slice(startIdx, endIdx).map((art, i) => {
-          const idx = startIdx + i;
+      <div style={{ paddingTop: topSpacerHeight, paddingBottom: bottomSpacerHeight }}>
+        {visibleArticles.map((art, i) => {
+          const globalIdx = startIdx + i;
           const isSelected = selectedArticle?.uuid === art.uuid;
           const sigClass =
             art.significance === 'high'
@@ -124,63 +114,69 @@ export default function Timeline({
               ? 'medium-significance'
               : '';
 
-          return (
-            <div
-              key={art.uuid}
-              className={`timeline-item ${sigClass} ${isSelected ? 'active' : ''}`}
-              style={{
-                position: 'absolute',
-                top: idx * ITEM_HEIGHT,
-                left: 0,
-                right: 0,
-                height: isSelected ? 'auto' : ITEM_HEIGHT,
-                minHeight: ITEM_HEIGHT,
-              }}
-              onClick={() => handleItemClick(art)}
-            >
-              <div className="timeline-date">{art.date}</div>
-              <div className="timeline-title">{art.title}</div>
-              {!isSelected && (
-                <div className="timeline-preview">{art.body_preview}</div>
-              )}
-              <div className="timeline-meta">
-                {art.arc_id && (
-                  <span className="timeline-badge arc">{art.arc_id.replace(/-/g, ' ')}</span>
-                )}
-                {art.topics.slice(0, 2).map((t) => (
-                  <span key={t} className="timeline-badge topic">{t}</span>
-                ))}
-              </div>
+          const showYearHeader = yearHeaders.some((h) => h.index === globalIdx);
 
-              {isSelected && (
-                <div className="detail-view">
-                  <div className="detail-body">{art.body_full}</div>
-                  {art.modern_impact && (
-                    <div className="detail-impact">
-                      <div className="detail-impact-label">Future Impact Analysis</div>
-                      <div className="detail-impact-text">{art.modern_impact}</div>
-                    </div>
-                  )}
-                  {art.entities.length > 0 && (
-                    <div style={{ marginTop: 12, display: 'flex', gap: 6, flexWrap: 'wrap' }}>
-                      {art.entities.slice(0, 6).map((e) => (
-                        <span
-                          key={e}
-                          style={{
-                            fontFamily: 'var(--font-mono)',
-                            fontSize: 10,
-                            color: 'var(--elite-blue)',
-                            border: '1px solid var(--elite-blue-dim)',
-                            padding: '2px 8px',
-                          }}
-                        >
-                          {e}
-                        </span>
-                      ))}
-                    </div>
-                  )}
+          return (
+            <div key={art.uuid}>
+              {showYearHeader && (
+                <div className="timeline-year-header">
+                  {art.date?.split('-')[0] || 'Unknown'}
                 </div>
               )}
+              <div
+                className={`timeline-item ${sigClass} ${isSelected ? 'active' : ''}`}
+                style={{ minHeight: ITEM_HEIGHT }}
+                onClick={() => handleItemClick(art)}
+              >
+                <div className="timeline-date">{art.date}</div>
+                <div className="timeline-title">{art.title}</div>
+                {!isSelected && (
+                  <div className="timeline-preview">{art.body_preview}</div>
+                )}
+                <div className="timeline-meta">
+                  {art.arc_id && (
+                    <span className="timeline-badge arc">{art.arc_id.replace(/-/g, ' ')}</span>
+                  )}
+                  {art.topics.slice(0, 2).map((t) => (
+                    <span key={t} className="timeline-badge topic">{t}</span>
+                  ))}
+                </div>
+
+                {isSelected && (
+                  <div className="detail-view">
+                    <div
+                      className="detail-body"
+                      dangerouslySetInnerHTML={{
+                        __html: wikiLinkToHtml(art.body_full, baseUrl),
+                      }}
+                    />
+                    {art.modern_impact && (
+                      <div className="detail-impact">
+                        <div className="detail-impact-label">Future Impact Analysis</div>
+                        <div className="detail-impact-text">{art.modern_impact}</div>
+                      </div>
+                    )}
+                    {art.entities.length > 0 && (
+                      <div style={{ marginTop: 12, display: 'flex', gap: 6, flexWrap: 'wrap' }}>
+                        {art.entities.slice(0, 6).map((e) => (
+                          <span
+                            key={e}
+                            style={{
+                              fontFamily: 'var(--font-mono)',
+                              fontSize: 10,
+                              color: 'var(--elite-blue)',
+                              border: '1px solid var(--elite-blue-dim)',
+                              padding: '2px 8px',
+                            }}
+                          >
+                            {e}
+                          </span>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )}
+              </div>
             </div>
           );
         })}

@@ -553,6 +553,19 @@ html, body {
   font-style: italic;
 }
 
+/* ── Wiki Links ─────────────────────────────────────────────────────────── */
+.wiki-link {
+  color: var(--elite-blue);
+  text-decoration: none;
+  border-bottom: 1px dotted var(--elite-blue-dim);
+  transition: all 0.15s;
+}
+
+.wiki-link:hover {
+  color: var(--elite-blue-glow);
+  border-bottom-color: var(--elite-blue);
+}
+
 /* ── Responsive ─────────────────────────────────────────────────────────── */
 @media (max-width: 900px) {
   .context-pane {

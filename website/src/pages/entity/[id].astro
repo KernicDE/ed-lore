@@ -91,7 +91,7 @@ const typeLabels: Record<string, string> = {
           <a href={`${import.meta.env.BASE_URL}#${art.date}-${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
             {art.title}
           </a>
-          <div style="font-size: 12px; color: var(--text-secondary); margin-top: 2px;">{art.body_preview}</div>
+          <div style="font-size: 12px; color: var(--text-secondary); margin-top: 2px;" set:html={art.body_preview.replace(/\[\[([^\]]+)\]\]/g, (m, name) => { const eid = name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-'); return `<a href="${import.meta.env.BASE_URL}entity/${eid}/" class="wiki-link">${name}</a>`; })} />
         </div>
       ))}
     </div>
