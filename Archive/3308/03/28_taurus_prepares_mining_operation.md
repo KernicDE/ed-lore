@@ -1,0 +1,31 @@
+---
+uuid: d97a03c8-3cbd-5fdf-849d-06c5706a9602
+title: Taurus Prepares Mining Operation
+slug: taurus_prepares_mining_operation
+date: '3308-03-28'
+source: API
+entities:
+- Carpenter
+- Ruben Carpenter
+groups:
+- ACT
+locations:
+- Heart of Taurus
+- Synuefe
+topics:
+- corporate expansion
+- research
+- ship
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
+---
+
+*Pilots’ Federation ALERT*
+Plans for a new mining initiative by Taurus Mining Ventures in the Synuefe CE-R c21-6 system have been announced.
+The corporation’s megaship Heart of Taurus has been conducting scientific studies on ‘unusual radioactive signatures’ within the system. The next phase of this work is to identify mineable resources to learn more about the radiation’s effects.
+Dr Ruben Carpenter, head of the Taurus Mining Ventures research division, provided an update:
+“The source of the radiation found in Synuefe CE-R c21-6 has not yet been unidentified. But our team has theorised that naturally occurring ores in the system may have altered properties. If we are correct, that ore may have high commercial value once processed into usable metals and minerals.”
+A public statement was delivered by Commodore Morag Halloran:
+“It is paramount that we maintain positive relations with the community of independent pilots. Therefore, Taurus Mining Ventures will subcontract the forthcoming operation to members of the Pilots’ Federation. The company will be pleased to offer suitable rewards for mining these irradiated materials, details of which will be specified by Dr Carpenter in the next few days.”

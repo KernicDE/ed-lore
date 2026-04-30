@@ -1,0 +1,27 @@
+---
+uuid: e082f073-3f28-5763-bae5-097ba714529e
+title: Torval Mining Challenges Caine-Massey
+slug: torval_mining_challenges_caine_massey
+date: '3308-01-11'
+source: API
+entities:
+- Zemina Torval
+groups:
+- ACT
+locations:
+- Dulos
+topics:
+- corporate expansion
+- war
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
+---
+
+The company owned by Senator Zemina Torval is attempting to acquire a mining contract previously awarded to the Caine-Massey corporation.
+The agreement affects multiple corporations on the fringes of Federal space around the Dulos system, who for the last decade have purchased mined ore and other raw materials directly from Caine-Massey. With the contract up for renewal, Torval Mining Ltd has made an official bid.
+An announcement was made by Constantia Torval, the company’s operations director and daughter of Zemina Torval:
+“We have enjoyed enormous success in a short space of time by providing services to the Empire. This is an opportunity to reach a broader customer base, and convince them that they too can benefit from Torval Mining’s expertise.”
+Johann Fleischer, the vice president of Caine-Massey, remarked:
+“Our corporation is proud of its origins within the Federation, and we have supplied these systems with resources for many years. This is a surreptitious attempt by an Imperial senator to boost her own standing by hijacking Federal business.”
+The Federal Commerce Authority has responded to Caine-Massey’s request for intervention. An initial review found that, while it recognises the aggression of the Torval Mining claims, there is no exclusivity clause in place that prevents the companies in question from holding talks with an Imperial supplier now Caine-Massey’s contract term is expiring.

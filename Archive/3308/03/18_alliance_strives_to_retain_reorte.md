@@ -1,0 +1,36 @@
+---
+uuid: 8bfd21dd-5f52-5456-beb3-e58a5292f4dc
+title: Alliance Strives to Retain Reorte
+slug: alliance_strives_to_retain_reorte
+date: '3308-03-18'
+source: API
+groups:
+- ACT
+- Alliance
+- Sirius Corp
+- Sirius Corporation
+- Thargoid
+locations:
+- Alioth
+- Reorte
+- Reorte to remain an Allied
+- Sirius
+- Thargoid
+topics:
+- alien contact
+- corporate expansion
+- independence
+- ship
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 4
+significance: high
+---
+
+The megaship Trobairitz has arrived in the Reorte system to support the efforts of the Reorte Pro-Alliance League.
+In recent weeks, the Reorte system has forced the expulsion of Sirius Corporation and refused to accept the strategic defence pact. Since then, there have been proposals from its controlling faction to renounce Allied membership and declare independence. But this has galvanised others to campaign for Reorte to remain in the Alliance.
+Louisa Leblanc, chief administrator of the Reorte Pro-Alliance League, gave a statement to The Alliance Tribune:
+“The proposed partnership with Sirius Corporation Is restricted to increasing defences against the Thargoids. We do not believe this will be disruptive enough to justify losing all the myriad benefits of membership in the Alliance.”
+“The Reorte Pro-Alliance League is pleased to be supported by the Alioth Independents faction. A megaship, the Trobairitz, has been supplied to us and will serve as the centre of our campaign for Reorte to remain an Allied system.”
+Sirius Corporation has officially stated that this situation is an internal matter for the Alliance. Sources within the Alioth Independents suggest that Sirius Corporation delegates has been briefed on the situation.

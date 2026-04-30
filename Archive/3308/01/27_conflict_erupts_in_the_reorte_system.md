@@ -1,0 +1,39 @@
+---
+uuid: 8d828da1-f7f7-54e3-be37-f50cc54a3c82
+title: Conflict Erupts in the Reorte System
+slug: conflict_erupts_in_the_reorte_system
+date: '3308-01-27'
+source: API
+entities:
+- Edmund Mahon
+groups:
+- ACT
+- Alliance
+- Sirius Corp
+- Sirius Corporation
+locations:
+- Alioth
+- But the
+- Reorte
+- Rhea
+- Sirius
+topics:
+- corporate expansion
+- ship
+- war
+arc_id: alliance-expansion
+modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+legacy_weight: 3
+significance: medium
+---
+
+*Pilots’ Federation ALERT*
+The Reorte Mining Coalition has declared its intent to remove the Sirius Corporation presence from its home system.
+The megaship Chariot of Rhea arrived in Reorte as part of Sirius Corporation’s new role as the Alliance’s strategic defence partner. But the system’s controlling faction ordered it to withdraw. The megaship’s non-compliance has resulted in skirmishes targeting Sirius forces.
+Fergus Cassidy, CEO of the Reorte Mining Coalition, announced:
+“We fully support Councillor Kaine’s position that Sirius Corporation is operating illegally under Alliance law. Therefore, we will defend our territory from this aggressive foreign entity.”
+A response was broadcast by Captain Delfina Dominguez of the Sirius Navy, who commands the Chariot of Rhea:
+“Our presence is authorised by the military contract between Sirius Corporation and the Alliance Defence Force. If local forces continue to attack, we will have no option but to defend our assets.”
+The fighting is not believed to have reached surface level and is expected to remain a ship-based conflict.
+To rally support from independent pilots, both factions are offering access to permit-locked systems. Reorte Mining Coalition will sponsor distribution of an Alioth system permit, while Sirius Corporation will authorise a permit to the Sirius system.
+Prime Minister Edmund Mahon has ordered the Reorte Mining Coalition to cease hostilities immediately. However, Councillor Ainsley Niven  – who represents Reorte in the Assembly and is a political supporter of Nakato Kaine – claims that the faction has the right to protect its territory, since it was not invited to ratify the defence pact.

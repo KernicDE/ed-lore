@@ -1,0 +1,40 @@
+---
+uuid: 5bbb630c-39e4-5ed7-8420-ea931beb11f2
+title: The Voice of the Empire
+slug: the_voice_of_the_empire
+date: '3308-12-20'
+source: API
+entities:
+- Anders Blaine addressed
+- Arissa Lavigny-Duval herself
+groups:
+- Imperial Herald
+- Imperial Navy
+- Thargoid
+locations:
+- Capitol
+- Imperial Palace
+- Maelstrom
+- Thargoid
+topics:
+- alien contact
+- construction
+- festival
+- ship
+- succession
+- war
+arc_id: thargoid-titan-war
+modern_impact: The Thargoid Titan war represents the most devastating alien conflict
+  in human history, reshaping the galactic military landscape.
+legacy_weight: 5
+significance: high
+---
+
+On the Empire’s homeworld Capitol, fears over imminent Thargoid invasion sparked a public gathering outside the Imperial Palace.
+Cassia Carvalho, political journalist for The Imperial Herald, reported from the scene:
+“The arrival of the Thargoid Maelstroms has triggered protests on many Allied, Federal and independent worlds. The Empire is rarely troubled by such disruption, so the spontaneous march by tens of thousands of citizens through Capitol’s streets caught the media and security services by surprise.”
+“Chancellor Anders Blaine addressed the crowd, his image projected above us all. He spoke of the Imperial Navy’s swift response to the Thargoid threat, making assurances that our systems were protected and we were all safe.”
+“But this wasn’t enough to quell the increasingly strident demands that more should be done. I saw anger, frustration and fear etched into those shouting faces. The newsfeed images of burning and broken starports, of Thargoid vessels laying waste to ordinary people’s homes, were all too clear in everyone’s minds.”
+“I genuinely wasn’t sure which way this impromptu demonstration would go. Might the crowd’s strong emotions even transmute into violence? And then a new voice rang out across the square: the unmistakable tones of Emperor Arissa Lavigny-Duval herself, standing tall as she slowly descended the palace steps toward us.”
+“‘Remember this: we are Imperials,’ she told her people, her commanding voice amplified for all to hear. The crowd parted in silence as she neared, allowing her to stride amongst us. ‘We possess the strongest civilisation, the grandest achievements, and the most courageous hearts. We shall meet anything that dares to threaten us, human or alien, and we will defeat it. Our Empire will endure!”
+“By the end of her address, which lasted some ten minutes, emotions had indeed been transmuted – into exultant, cheering jubilation. Our Emperor had stood with us in person, reminded us all of our heritage and our duty. The Thargoids will undoubtedly come. But in that moment we were determined to face them together.”

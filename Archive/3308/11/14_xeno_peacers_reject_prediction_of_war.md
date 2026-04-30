@@ -1,0 +1,38 @@
+---
+uuid: 17c9f162-826a-5492-8ff7-a04cd0d9cdfc
+title: Xeno-Peacers Reject Prediction of War
+slug: xeno_peacers_reject_prediction_of_war
+date: '3308-11-14'
+source: API
+entities:
+- Alba Tesreau
+- Ishmael Palin
+groups:
+- ACT
+- Salvation
+- Thargoid
+locations:
+- HIP 22460
+- Ram Tah
+- Thargoid
+topics:
+- alien contact
+- diplomacy
+- research
+- ship
+- war
+arc_id: salvation-azimuth
+modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
+  military response to alien threats.
+legacy_weight: 5
+significance: high
+---
+
+A claim that the rogue signal sources form part of a potential Thargoid offensive has been disputed by many in the pro-peace movement.
+A joint statement by respected xenologists Professor Alba Tesreau, Professor Ishmael Palin and Ram Tah concluded that the approaching anomalies are a reaction to events in HIP 22460, and may have dire consequences for humanity. The eight signal sources are projected to arrive in the core systems within weeks.
+Advocates for the Thargoid Advocacy Project and similar xeno-peace groups have rejected the idea that increased hostilities with the Thargoids is inevitable. As community liaison Bernadette Wells  said on the Joy Senne ICE-cast:
+“Despite this ominous claim from three respected scientists, they have offered no hard evidence to support the assumption that the anomalies are hostile. I’m sorry, I know Seo Jin-ae has suffered enormously as part of Salvation’s unrelenting obsession with the Thargoids, but I don’t think we should be using her vague instincts to inform official policy regarding this alien species.”
+Heimar Borichev, deputy editor of The Sovereign newsfeed, claimed:
+“With all the talk of the superpowers forming a grand fleet, why are we not demanding they form a grand diplomatic effort? Many in the Assembly, Congress and Senate agree with this sentiment, but are too scared to risk their careers. We need a concerted campaign, pressuring elected officials to stop listening to the vultures who stand to benefit from continued conflict with the Thargoids.”
+Congressman Dalton Chase is one of the few politicians to openly agree with this argument. In an interview with the Federal Free Press, he said:
+“The Kingfisher megaship was established to lead a mission of peace with the Thargoids. But imagine how much greater our chances of success would be with official support. I call upon my colleagues in the Federation, and like-minded leaders everywhere, to promote peaceful coexistence as a valid strategy.”

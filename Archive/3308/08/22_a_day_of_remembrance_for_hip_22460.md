@@ -1,0 +1,37 @@
+---
+uuid: 4a1970bd-317f-518d-95da-22551e7e7907
+title: A Day of Remembrance for HIP 22460
+slug: a_day_of_remembrance_for_hip_22460
+date: '3308-08-22'
+source: API
+entities:
+- Felicia Winters provided
+- Hudson fails
+- Zachary Hudson
+groups:
+- ACT
+- Federal Navy
+- Federal Times
+- Salvation
+- Shadow President
+- Thargoid
+locations:
+- HIP 22460
+- Thargoid
+topics:
+- alien contact
+- war
+arc_id: salvation-azimuth
+modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
+  military response to alien threats.
+legacy_weight: 5
+significance: high
+---
+
+President Zachary Hudson has announced that today is a Federal day of remembrance for those lost in HIP 22460 on August 9th.
+In a public address, the president formally acknowledged the recent tragedy:
+“The Battle of HIP 22460 is a dark day in our interstellar nation’s history. The crews of the FNS Bombardier, FNS Fortitude and FNS Varian Scott gave their lives with dignity and honour, as did many other courageous individuals. They will never be forgotten for as long as the Federation endures.”
+“We recognise this massacre of defenceless crew for what it was: the latest example of unrelenting hostility by our Thargoid enemy. Another event which leads me to believe no peace can be brokered with that species. I promise, under no uncertain terms, that the loss of over fifty thousand naval personnel will be avenged.”
+Shadow President Felicia Winters provided a statement to The Federal Times:
+“I wholeheartedly support the creation of this day of remembrance. But we are not entirely blameless in causing the disaster. If not for an ill-considered commitment of Federal Navy resources to Salvation’s banner, this misguided project might never have been realised.”
+“I might add that President Hudson fails to explain precisely how we will enact revenge upon the Thargoids. Now that we appear to lack further superweapon technology, our conventional forces will be severely challenged if the conflict escalates.”

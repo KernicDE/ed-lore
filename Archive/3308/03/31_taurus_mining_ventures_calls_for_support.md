@@ -1,0 +1,36 @@
+---
+uuid: 8f436007-f00f-535c-af52-d16273c91cc0
+title: Taurus Mining Ventures Calls for Support
+slug: taurus_mining_ventures_calls_for_support
+date: '3308-03-31'
+source: API
+entities:
+- Ruben Carpenter
+groups:
+- Salvation
+- Thargoid
+locations:
+- Heart of Taurus
+- It now seeks shipments of the
+- Synuefe
+- Thargoid
+topics:
+- alien contact
+- corporate expansion
+- exploration
+- research
+- ship
+arc_id: salvation-azimuth
+modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
+  military response to alien threats.
+legacy_weight: 5
+significance: high
+---
+
+*Pilots’ Federation ALERT*
+Taurus Mining Ventures has requested help with a mining and delivery operation in the Synuefe CE-R c21-6 system.
+In recent weeks, the mining corporation has performed research on what it claims are atypical radiation signatures detected within Synuefe CE-R c21-6. It now seeks shipments of the system’s native ores to explore commercially valuable applications of any molecular changes caused by this radiation.
+Dr Ruben Carpenter, head of the company’s research division, outlined the initiative:
+“I’m very excited to offer pilots this opportunity to support our scientific studies, which will hopefully prove lucrative for all involved. We require coltan, lithium hydroxide and methanol monohydrate crystal to be mined from locations within Synuefe CE-R c21-6 and delivered to the Heart of Taurus megaship.”
+“We will also pay for shipments of the same ores that have been mined from other systems. These will allow us to compare samples, in order to refine our commercial processes.”
+Taurus Mining Ventures is known for its close association with the anonymous anti-xeno specialist known as Salvation. However, there is no indication that this mining operation is connected to Salvation’s efforts to combat the Thargoids.

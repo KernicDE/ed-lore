@@ -1,0 +1,34 @@
+---
+uuid: 964ef3eb-9cc2-5f09-8038-9afcaeca1c08
+title: Aisling Requests Rare Items to Fund Charity
+slug: aisling_requests_rare_items_to_fund_charity
+date: '3308-09-22'
+source: API
+groups:
+- Thargoid
+locations:
+- Cemiess
+- HIP 22460
+- Mackenzie Relay
+- Thargoid
+topics:
+- alien contact
+- construction
+- humanitarian
+- ship
+- trade
+- war
+arc_id: thargoid-titan-war
+modern_impact: The Thargoid Titan war represents the most devastating alien conflict
+  in human history, reshaping the galactic military landscape.
+legacy_weight: 5
+significance: high
+---
+
+*Pilots’ Federation ALERT*
+A fundraiser hosted by Princess Aisling aims to finance a support network for Imperial citizens affected by Thargoid aggression.
+The Citizens’ Relief Trust has been established in the Cemiess system, prompted by the loss of thousands of military personnel during the Battle of HIP 22460. She announced:
+“While the Empire is focused on increasing its military strength, we must not forget the human cost of ongoing conflict with the Thargoids. Those who died in battle will be honoured by assisting the families and dependants left to mourn them. The Citizens’ Relief Trust plans to establish support centres to ensure their financial and emotional needs are met.”
+“To raise funding, I have requested deliveries of Eshu Umbrellas, Xihe Biomorphic Companions and Chateau De Aegaeon. These luxury commodities will be auctioned or sold at a special gala I plan to host for Imperial nobility, with all proceeds used to establish this network. Wine and fish is also requested to serve to our distinguished guests.” 
+“Although we cannot help those bereaved families who live beyond the Empire’s borders, I hope that the Citizens’ Relief Trust inspires the creation of similar charities elsewhere.”
+Pilots are asked to make their deliveries to Mackenzie Relay starport in the Cemiess system, with planned rewards including luxury vessel paint jobs. At special request from Princess Aisling, Lavigny’s Legion has been tasked with accepting shipments and protecting those who are transporting these valuable cargos. Combat bonds will be reimbursed for all wanted ships that are destroyed in the system.

@@ -1,0 +1,38 @@
+---
+uuid: 4327a70e-44c4-5919-924d-7a097f1226db
+title: 'Salvation: ‘War’s End Within Reach’'
+slug: salvation_wars_end_within_reach
+date: '3308-05-23'
+source: API
+groups:
+- Alliance
+- Federal Navy
+- Imperial Navy
+- Salvation
+- Thargoid
+locations:
+- Guardian
+- Novas and Sosong
+- Thargoid
+topics:
+- alien contact
+- construction
+- engineering
+- research
+- ship
+- war
+- xenoarchaeology
+arc_id: salvation-azimuth
+modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
+  military response to alien threats.
+legacy_weight: 5
+significance: high
+---
+
+The anonymous scientist Salvation has made a statement following his latest success against the Thargoids.
+The message was broadcast across all public channels:
+“This is Salvation. The deployment of my anti-xeno superweapons in the Didio, Novas and Sosong systems was highly effective, just as I anticipated. Billions of lives were undoubtedly saved as a result.”
+“Due to support from the Alliance, Empire and Federation, we have made a major breakthrough in utilising Guardian-based technology. Construction of the next generation of superweapons has already begun. These will allow us to deliver a truly overwhelming strike against the Thargoid species.”
+“The end of the war is finally within reach. Those who hold faith in my work will be vindicated, and humanity can at last close the chapter on this existential threat.”
+Commodore Morag Halloran confirmed that Taurus Mining Ventures, Salvation’s partner organisation, had received a boost in resources from all three superpowers. This included seconded naval personnel, megaship supplies and advanced engineering equipment.
+The Alliance Defence Force, Federal Navy and Imperial Navy have stated they are now fully committed to working with Salvation on anti-xeno operations. Representatives from the Assembly, Congress and Senate expressed confidence that there would soon be decisive developments in the conflict with the Thargoids.
