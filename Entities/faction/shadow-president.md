@@ -9,8 +9,8 @@ related_entities:
 - act
 - thargoid
 - zachary-hudson
-- federal-times
 - jerome-archer
+- federal-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **32**
 
 ## Related
 
-- [[ACT]] (22 co-mentions)
+- [[ACT]] (21 co-mentions)
 - [[Thargoid]] (19 co-mentions)
 - [[Zachary Hudson]] (8 co-mentions)
-- [[Federal Times]] (8 co-mentions)
 - [[Jerome Archer]] (8 co-mentions)
+- [[Federal Navy]] (8 co-mentions)
 
 ## Biography
 

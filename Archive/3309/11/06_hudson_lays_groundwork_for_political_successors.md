@@ -4,25 +4,26 @@ title: Hudson Lays Groundwork for Political Successors
 slug: hudson_lays_groundwork_for_political_successors
 date: '3309-11-06'
 source: API
-entities:
-- Neive McFarlane
-- Zachary Hudson
+entities: []
 groups:
-- ACT
 - Federal Navy
 locations:
 - Sol
 topics:
-- corporate expansion
-- crime
-- cyberattack
-- espionage
-- research
-- war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+- politics
+arc_id: null
+modern_impact: "The Federal Free Press editorial systematically dismantles each initiative: McFarlane's conflict of interest on the media regulator, the tax trap for Winters, military-grade surveillance through the PDB-Navy merger, and Berkovich's control over think tank reports. This shows how Hudson is trying to lock in Republican advantages before leaving office."
+persons:
+- Zachary Hudson
+- Felicia Winters
+- Neive McFarlane
+- Lana Berkovich
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "Outgoing President Hudson pushes pro-Republican legislation including media regulation, corporate tax rebates, PDB-Navy merger, and a political think tank before Winters takes office."
 legacy_weight: 3
 significance: medium
+related_uuids:
+- afd314d2-447b-56f8-9a7f-809b8027d52c
 ---
 
 President Zachary Hudson has announced a raft of legislation he intends to push during his last few months in office.

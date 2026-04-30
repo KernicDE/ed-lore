@@ -4,31 +4,28 @@ title: Kaine Launches Alliance Resource Drive
 slug: kaine_launches_alliance_resource_drive
 date: '3309-11-30'
 source: API
-entities:
-- Edmund Mahon
+entities: []
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Sirius
-- Thargoid
 - Tionisla
 topics:
-- alien contact
 - corporate expansion
-- festival
 - investigation
-- research
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Kaine's accusation — 'Li Yong-Rui never intended to honour his anti-xeno commitments' — is a direct attack on Sirius's integrity. Her claim of 'Sirius negotiating favourable contracts with Allied tech and military corporations' suggests corruption. Mahon's non-committal response — 'A formal inquiry... is ongoing' — shows his political caution."
+persons:
+- Nakato Kaine
+- Edmund Mahon
+player_impact: "Pilots are asked to deliver hazardous environment suits, micro controllers and titanium to Brett High in Tionisla."
+summary: "Nakato Kaine launches a Tionisla delivery campaign to prove Alliance self-sufficiency, attacking Sirius's failure to honour commitments and alleging unfair market leverage."
 legacy_weight: 4
 significance: high
+related_uuids:
+- 159caa3b-1d4d-531b-ac16-f40c17d6f332
+- 87bfa62f-1991-5f20-88d3-0bd0d7d797bc
 ---
 
 *Pilots’ Federation ALERT*

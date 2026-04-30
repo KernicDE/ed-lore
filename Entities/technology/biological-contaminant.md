@@ -2,18 +2,18 @@
 id: biological-contaminant
 name: biological contaminant
 type: technology
-first_seen_date: '3309-12-07'
+first_seen_date: '3309-11-10'
 last_seen_date: '3309-12-07'
-mention_count: 1
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # biological contaminant
 
-First mentioned: **3309-12-07**  
+First mentioned: **3309-11-10**  
 Last mentioned: **3309-12-07**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 

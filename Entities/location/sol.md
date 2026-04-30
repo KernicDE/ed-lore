@@ -7,8 +7,8 @@ last_seen_date: '3311-12-18'
 mention_count: 139
 related_entities:
 - alliance
-- act
 - federal-times
+- act
 - aegis
 - mars
 ---
@@ -24,8 +24,8 @@ Total mentions: **139**
 ## Related
 
 - [[Alliance]] (27 co-mentions)
-- [[ACT]] (22 co-mentions)
 - [[Federal Times]] (21 co-mentions)
+- [[ACT]] (21 co-mentions)
 - [[Aegis]] (20 co-mentions)
 - [[Mars]] (19 co-mentions)
 

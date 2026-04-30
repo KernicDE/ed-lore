@@ -4,17 +4,17 @@ title: Torval Mining Campaign Marks Ownership Change
 slug: torval_mining_campaign_marks_ownership_change
 date: '3309-11-16'
 source: API
-entities:
-- Zemina Torval
-groups:
-- ACT
-- Imperial Herald
+entities: []
+groups: []
 topics:
-- construction
 - corporate expansion
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: "Lagorio's analysis — 'Whereas Zemina Torval's policy was to manage as much as possible in-house, her daughter seems keen to build corporate relationships with subsidiaries' — highlights a generational shift in business strategy. The 132-year-old senator's 'twilight of her corporate and political careers' is noted, but with the caveat that 'it is never wise to underestimate Zemina Torval's willpower.'"
+persons:
+- Zemina Torval
+- Constantia Torval
+- Anton Lagorio
+player_impact: "Pilots can deliver mined lithium hydroxide, painite, praseodymium and tritium to Curbeam Hub in LHS 3872 for generous payments."
+summary: "Constantia Torval takes over as CEO of Torval Mining Ltd from her mother Zemina, launching a mining campaign and announcing a new subcontracting policy."
 legacy_weight: 2
 significance: low
 ---

@@ -4,38 +4,35 @@ title: 'Azimuth Biotech: ‘We Can Serve Alliance’'
 slug: azimuth_biotech_we_can_serve_alliance
 date: '3309-11-24'
 source: API
-entities:
-- Mahon personally
-- Torben Rademaker offered
+entities: []
 groups:
-- ACT
-- Aegis
 - Alliance
 - Azimuth
 - Salvation
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Aegis
-- Allied
-- Azimuth
-- Guardian
 - HIP 22460
 - Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - research
-- sport
 - war
-- xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+modern_impact: "Rademaker's characterisation of Sirius as 'a household goods manufacturer with delusions of grandeur' and Aegis as 'a loosely connected gang of publicity-seekers' is scorched-earth rhetoric. Banerjee's analysis — 'Azimuth's ability to weaponise Guardian artefacts died along with Salvation, leaving the corporation struggling for relevancy' — is devastating. The division between Dressler ('seriously considered') and Niven ('mass uprisings') shows the political toxicity of Azimuth."
+persons:
+- Torben Rademaker
+- Hildegard Dressler
+- Ainsley Niven
+- Leon Banerjee
+- Edmund Mahon
+player_impact: "Not specifically mentioned — this is a corporate/political report."
+summary: "Azimuth Biotech offers to replace Sirius as the Alliance's anti-xeno partner, with Rademaker attacking Sirius and Aegis while councillors are divided on the proposal."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 159caa3b-1d4d-531b-ac16-f40c17d6f332
+- 52e15d2f-c860-504f-a2e4-4e54c31cb388
 ---
 
 Azimuth Biotech has suggested that it can replace Sirius Corporation as the Alliance’s anti-xeno military partner.

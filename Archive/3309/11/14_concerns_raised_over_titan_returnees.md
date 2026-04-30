@@ -4,32 +4,28 @@ title: Concerns Raised over Titan Returnees
 slug: concerns_raised_over_titan_returnees
 date: '3309-11-14'
 source: API
-entities:
-- Caspian Leopold
-- Zoe Terentia
+entities: []
 groups:
-- ACT
 - Aegis
 - Azimuth
-- Imperial Herald
-- Thargoid
 locations:
-- Aegis
-- Azimuth
 - Kamadhenu
-- Thargoid
-- The life support
-- Titan
 topics:
-- alien contact
 - humanitarian
 - medicine
-- research
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: null
+modern_impact: "Terentia's extreme recommendation — 'euthanasia should be considered to prevent any chance of contamination' — is contrasted with Colombera's calm analysis of 'natural immunological responses.' Leopold's personal condemnation of Azimuth — 'I will not countenance letting those butchers anywhere near our people' — is strong language for a senator. The Senate's formal rejection of Azimuth's offer shows institutional wariness."
+persons:
+- Zoe Terentia
+- Ivano Colombera
+- Caspian Leopold
+player_impact: "Not specifically mentioned — this is a medical report."
+summary: "Kamadhenu Medipure claims Titan returnees show physiological changes and recommends euthanasia, while Imperial Science Academy and Senate reject the alarmism and Azimuth's testing offer."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 916a026b-27fa-5994-8669-056f089c2c3c
+- 0d85d087-4cc7-5282-8b29-50acf157672b
 ---
 
 People who were recovered from the Thargoids have been flagged as potential biohazards by an Imperial medical institute.

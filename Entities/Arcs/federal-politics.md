@@ -3,14 +3,14 @@ id: federal-politics
 name: Federal Politics
 first_seen_date: '3301-02-15'
 last_seen_date: '3310-10-31'
-mention_count: 53
+mention_count: 51
 significance: medium
 key_entities:
 - zachary-hudson
-- federal-times
 - felicia-winters
+- federal-times
 - shadow-president
-- federal-navy
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ key_entities:
 
 First seen: **3301-02-15**  
 Last seen: **3310-10-31**  
-Articles: **53**
+Articles: **51**
 
 ## Key Figures
 
-- [[Zachary Hudson]] (14 mentions)
-- [[Federal Times]] (14 mentions)
+- [[Zachary Hudson]] (13 mentions)
 - [[Felicia Winters]] (13 mentions)
-- [[Shadow President]] (9 mentions)
-- [[Federal Navy]] (7 mentions)
+- [[Federal Times]] (13 mentions)
+- [[Shadow President]] (8 mentions)
+- [[Alliance]] (5 mentions)
 
 ## Description
 

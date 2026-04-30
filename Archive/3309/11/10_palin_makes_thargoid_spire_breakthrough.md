@@ -4,28 +4,28 @@ title: Palin Makes Thargoid Spire Breakthrough
 slug: palin_makes_thargoid_spire_breakthrough
 date: '3309-11-10'
 source: API
-entities:
-- Ishmael Palin
-- Maximo Fonseca
-- Palin
+entities: []
 groups:
 - Aegis
-- Alliance
-- Thargoid
-locations:
-- Aegis
-- Professor Palin
-- Thargoid
-- Titan
+locations: []
 topics:
 - alien contact
 - research
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Palin's theory — 'these surface sites have been established to harvest resources which sustain the Thargoid motherships in some way' — frames spires as supply chains. His suggestion that 'their supplies of some vital enzymes or fuels are running low' implies the Thargoids are logistically strained. Fonseca's caution — 'still in the experimental phase' — tempers expectations. The honouring of specific CMDRs is a rare direct player acknowledgment."
+persons:
+- Ishmael Palin
+- Maximo Fonseca
+technologies:
+- biological contaminant
+- Thargoid spire compounds
+player_impact: "Pilots delivered samples from Titans and Thargoid spire sites to Palin in the Arque system."
+summary: "Palin discovers genetic commonalities between spire compounds and Titan hull fragments, synthesising a biological contaminant to disrupt spire processing chains."
 legacy_weight: 4
 significance: high
+related_uuids:
+- cdd43b12-45f6-5545-9f6b-132396f9adc2
+- 81865303-e582-5bfe-9456-f4a6edde499c
 ---
 
 Analysis of objects and refinery compounds obtained from Thargoid spire sites has revealed a crucial connection to the Titans.

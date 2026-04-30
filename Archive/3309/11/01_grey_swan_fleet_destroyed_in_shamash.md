@@ -4,12 +4,16 @@ title: Grey Swan Fleet Destroyed in Shamash
 slug: grey_swan_fleet_destroyed_in_shamash
 date: '3309-11-01'
 source: API
-groups:
-- ACT
+groups: []
 topics:
 - research
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- mystery
+modern_impact: "Chaudhary's comparison to Thetis — 'The horror which unfolded in Shamash bears strong similarities to the fate of the generation ship Thetis' — connects this to a 3303 mystery. The 'whispering' signal that compels violence is a recurring horror trope in Elite Dangerous lore. The unresolved questions — 'We do not know where the signal was transmitted, how it interacts with the human mind or whether we'll encounter it again' — leave a lingering threat."
+persons:
+- Ulrich Maurer
+- Jaya Chaudhary
+player_impact: "Pilots participated in eliminating the Grey Swan fleet. Payments available at Khonsu Gleam."
+summary: "The Grey Swan fleet in Shamash is destroyed after an anomalous signal triggered violent mania in crew members, with parallels drawn to the generation ship Thetis."
 legacy_weight: 1
 significance: low
 ---

@@ -23,8 +23,8 @@ Total mentions: **96**
 
 ## Related
 
-- [[Thargoid]] (86 co-mentions)
-- [[ACT]] (82 co-mentions)
+- [[Thargoid]] (85 co-mentions)
+- [[ACT]] (81 co-mentions)
 - [[Azimuth]] (61 co-mentions)
 - [[HIP 22460]] (53 co-mentions)
 - [[Alliance]] (44 co-mentions)

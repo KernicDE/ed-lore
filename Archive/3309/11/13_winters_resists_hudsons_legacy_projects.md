@@ -5,19 +5,24 @@ slug: winters_resists_hudsons_legacy_projects
 date: '3309-11-13'
 source: API
 groups:
-- ACT
 - Core Dynamics
 - Federal Navy
-- Federal Times
 - Shadow President
 topics:
-- corporate expansion
-- espionage
-- war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+- politics
+arc_id: null
+modern_impact: "Winters's framing — 'these pro-Republican measures are being pushed through because of Jerome Archer's poor electoral performance' — is direct political accusation. Her guarantee to dismantle the PDB is a core campaign promise. McKenna's concern about military spending cuts during wartime reflects defence industry anxiety. The clash between fiscal responsibility and military readiness is a key tension."
+persons:
+- Felicia Winters
+- Jerome Archer
+- Zachary Hudson
+- Owen McKenna
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "President-elect Winters vows to block Hudson's legacy legislation and close the PDB, while Core Dynamics' CEO warns about military spending cuts."
 legacy_weight: 3
 significance: medium
+related_uuids:
+- e5392a7f-a684-583b-9b7d-b7e58a5f8deb
 ---
 
 President-elect Felicia Winters has vowed to defeat new legislation proposed by outgoing President Zachary Hudson.

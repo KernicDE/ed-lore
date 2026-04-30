@@ -23,11 +23,11 @@ Total mentions: **92**
 
 ## Related
 
-- [[Thargoid]] (79 co-mentions)
-- [[ACT]] (78 co-mentions)
+- [[Thargoid]] (76 co-mentions)
+- [[ACT]] (75 co-mentions)
 - [[Salvation]] (61 co-mentions)
 - [[HIP 22460]] (50 co-mentions)
-- [[Aegis]] (49 co-mentions)
+- [[Aegis]] (48 co-mentions)
 
 ## Biography
 

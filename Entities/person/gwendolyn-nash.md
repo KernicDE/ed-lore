@@ -1,17 +1,15 @@
 ---
-id: lhs-3872
-name: LHS 3872
-type: location
+id: gwendolyn-nash
+name: Gwendolyn Nash
+type: person
 first_seen_date: '3309-11-23'
 last_seen_date: '3309-11-23'
 mention_count: 1
-related_entities:
-- mastopolos-mining
 ---
 
 <!-- AUTO-GENERATED -->
 
-# LHS 3872
+# Gwendolyn Nash
 
 First mentioned: **3309-11-23**  
 Last mentioned: **3309-11-23**  
@@ -19,7 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Mastopolos Mining]] (1 co-mentions)
 
 ## Biography
 

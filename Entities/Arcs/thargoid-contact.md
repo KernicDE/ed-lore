@@ -2,15 +2,15 @@
 id: thargoid-contact
 name: Thargoid Contact
 first_seen_date: '3302-01-15'
-last_seen_date: '3309-11-30'
-mention_count: 444
+last_seen_date: '3309-10-31'
+mention_count: 441
 significance: medium
 key_entities:
 - aegis
 - alliance
 - thargoid
 - act
-- sirius-corporation
+- alba-tesreau
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ key_entities:
 # Thargoid Contact
 
 First seen: **3302-01-15**  
-Last seen: **3309-11-30**  
-Articles: **444**
+Last seen: **3309-10-31**  
+Articles: **441**
 
 ## Key Figures
 
-- [[Aegis]] (181 mentions)
-- [[Alliance]] (122 mentions)
-- [[Thargoid]] (121 mentions)
-- [[ACT]] (115 mentions)
-- [[Sirius Corporation]] (38 mentions)
+- [[Aegis]] (179 mentions)
+- [[Alliance]] (119 mentions)
+- [[Thargoid]] (118 mentions)
+- [[ACT]] (113 mentions)
+- [[Alba Tesreau]] (36 mentions)
 
 ## Description
 

@@ -4,26 +4,30 @@ title: 'Thargoid War Update: November 3309'
 slug: thargoid_war_update_november_3309
 date: '3309-11-28'
 source: API
-entities:
-- Palin
-groups:
-- ACT
-- Thargoid
-locations:
-- Professor Palin
-- Thargoid
-- Titan
+entities: []
+groups: []
+locations: []
 topics:
 - alien contact
 - bioweapon
 - humanitarian
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Sanderlyn's note that 'New invasions are rare, and Thargoid vessels are being driven out of occupied systems' signals a turning point. Her observation about Palin's contaminant — 'Many pilots are signing up... despite the inevitability that some volunteers will not return' — honours the sacrifice. The connection between Winters's election victory and her plan to 'send home all returnees' links political change to humanitarian policy."
+persons:
+- Jade Sanderlyn
+- Ishmael Palin
+- Felicia Winters
+technologies:
+- biological contaminant
+player_impact: "Pilots are signing up to deliver Palin's contaminant to Thargoid spire sites despite the danger."
+summary: "Sanderlyn's monthly war update covers Titan resistance, Palin's spire breakthrough, the quarantine debate, and Winters's plan to send returnees home."
 legacy_weight: 5
 significance: high
+related_uuids:
+- a6ae28ee-ebef-5d50-8f49-597b189a1fab
+- 916a026b-27fa-5994-8669-056f089c2c3c
+- 0d85d087-4cc7-5282-8b29-50acf157672b
 ---
 
 Renowned war correspondent Jade Sanderlyn provides her regular summary of the latest news regarding the Thargoid conflict.

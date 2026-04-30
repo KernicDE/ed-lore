@@ -4,13 +4,13 @@ name: Titan
 type: location
 first_seen_date: '3303-04-17'
 last_seen_date: '3311-06-03'
-mention_count: 34
+mention_count: 29
 related_entities:
 - aegis
 - thargoid
 - act
 - maelstrom
-- alliance
+- alba-tesreau
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3303-04-17**  
 Last mentioned: **3311-06-03**  
-Total mentions: **34**
+Total mentions: **29**
 
 ## Related
 
-- [[Aegis]] (30 co-mentions)
-- [[Thargoid]] (29 co-mentions)
-- [[ACT]] (27 co-mentions)
+- [[Aegis]] (26 co-mentions)
+- [[Thargoid]] (24 co-mentions)
+- [[ACT]] (23 co-mentions)
 - [[Maelstrom]] (9 co-mentions)
-- [[Alliance]] (9 co-mentions)
+- [[Alba Tesreau]] (8 co-mentions)
 
 ## Biography
 

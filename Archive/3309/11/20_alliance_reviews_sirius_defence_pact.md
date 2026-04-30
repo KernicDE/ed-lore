@@ -4,33 +4,29 @@ title: Alliance Reviews Sirius Defence Pact
 slug: alliance_reviews_sirius_defence_pact
 date: '3309-11-20'
 source: API
-entities:
-- Mahon faces political pressure
+entities: []
 groups:
-- ACT
-- Aegis
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Aegis
 - Sirius
-- Thargoid
-- Titan
 topics:
-- alien contact
 - corporate expansion
-- engineering
-- humanitarian
 - investigation
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Kaine's litany of failures — 'capital ships promised... remain on the drawing board', 'Sirius Navy isn't even engaging' — is a comprehensive indictment. Glass's defence — 'Sirius technicians have retrofitted many ageing ADF ships' — is underwhelming. The Old Worlds Gazette's observation that 'Operation Tyndareus... was over a year ago' underscores the pact's declining returns. Mahon's political pressure to 'abandon his commitment to Sirius' frames the personal cost."
+persons:
+- Nakato Kaine
+- Nikolas Glass
+- Edmund Mahon
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "The Alliance Assembly approves a formal evaluation of the Sirius defence pact, with Kaine attacking Sirius's failures and Glass defending their behind-the-scenes work."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 52e15d2f-c860-504f-a2e4-4e54c31cb388
+- d9d11a81-06c0-59f1-af71-a3c4c5194f5c
 ---
 
 The Alliance Assembly has approved a formal evaluation of its strategic defence pact with Sirius Corporation.

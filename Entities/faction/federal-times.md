@@ -4,7 +4,7 @@ name: Federal Times
 type: faction
 first_seen_date: '3301-08-02'
 last_seen_date: '3311-09-22'
-mention_count: 122
+mention_count: 121
 related_entities:
 - act
 - sol
@@ -19,11 +19,11 @@ related_entities:
 
 First mentioned: **3301-08-02**  
 Last mentioned: **3311-09-22**  
-Total mentions: **122**
+Total mentions: **121**
 
 ## Related
 
-- [[ACT]] (25 co-mentions)
+- [[ACT]] (24 co-mentions)
 - [[Sol]] (21 co-mentions)
 - [[Alliance]] (15 co-mentions)
 - [[Thargoid]] (14 co-mentions)
