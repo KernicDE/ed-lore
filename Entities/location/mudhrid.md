@@ -2,32 +2,32 @@
 id: mudhrid
 name: Mudhrid
 type: location
-first_seen_date: '3307-11-17'
+first_seen_date: '3307-04-01'
 last_seen_date: '3307-12-31'
-mention_count: 9
+mention_count: 15
 related_entities:
 - nmla
 - neo-marlinist-order-of-mudhrid
-- far-god-cult
-- marlinist
+- marlinist-colonies
 - epsilon-fornacis-empire-group
+- nova-imperium
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Mudhrid
 
-First mentioned: **3307-11-17**  
+First mentioned: **3307-04-01**  
 Last mentioned: **3307-12-31**  
-Total mentions: **9**
+Total mentions: **15**
 
 ## Related
 
-- [[NMLA]] (9 co-mentions)
-- [[Neo-Marlinist Order of Mudhrid]] (3 co-mentions)
-- [[Far God cult]] (3 co-mentions)
-- [[Marlinist]] (2 co-mentions)
-- [[Epsilon Fornacis Empire Group]] (2 co-mentions)
+- [[NMLA]] (15 co-mentions)
+- [[Neo-Marlinist Order of Mudhrid]] (8 co-mentions)
+- [[Marlinist Colonies]] (6 co-mentions)
+- [[Epsilon Fornacis Empire Group]] (4 co-mentions)
+- [[Nova Imperium]] (4 co-mentions)
 
 ## Biography
 

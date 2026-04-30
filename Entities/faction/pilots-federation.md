@@ -23,7 +23,7 @@ Total mentions: **173**
 
 ## Related
 
-- [[Alliance]] (38 co-mentions)
+- [[Alliance]] (36 co-mentions)
 - [[Aegis]] (26 co-mentions)
 - [[Kumo Crew]] (11 co-mentions)
 - [[NMLA]] (10 co-mentions)

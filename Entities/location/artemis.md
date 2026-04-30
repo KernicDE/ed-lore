@@ -4,7 +4,7 @@ name: Artemis
 type: location
 first_seen_date: '3303-12-02'
 last_seen_date: '3312-03-03'
-mention_count: 3
+mention_count: 2
 related_entities:
 - alba-tesreau
 - aegis
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3303-12-02**  
 Last mentioned: **3312-03-03**  
-Total mentions: **3**
+Total mentions: **2**
 
 ## Related
 

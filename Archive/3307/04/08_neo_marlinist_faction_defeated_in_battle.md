@@ -4,23 +4,32 @@ title: Neo-Marlinist Faction Defeated in Battle
 slug: neo_marlinist_faction_defeated_in_battle
 date: '3307-04-08'
 source: API
+arc_id: nmla-terrorism
+persons:
+- Arastin Delacroix
+- Mara Klatt
+- Denton Patreus
 groups:
-- Alliance
-- Marlinist
+- Epsilon Fornacis Empire Group
+- Neo-Marlinist Order of Mudhrid
 - NMLA
 - Pilots Federation
-locations:
-- Marlinist
-- 'Pilots Federation ALERT*
 
-  The Mudhrid'
+locations:
+- Mudhrid
+- Payne-Scott City
+technologies:
+- Steel Majesty megaship
 topics:
-- construction
 - independence
 - war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: Pilots supported the Epsilon Fornacis Empire Group in defeating the Neo-Marlinist Order of Mudhrid and received rewards at Payne-Scott City.
+summary: The Neo-Marlinist Order of Mudhrid is defeated in the Mudhrid system by Imperial forces. Landgrave Delacroix evades capture and flees aboard the Steel Majesty. ACT Inspector Mara Klatt declares it a victory and reveals insights into the NMLA's modus operandi of recruiting disenfranchised leaders.
+modern_impact: The defeat of the Neo-Marlinist Order of Mudhrid triggers the refugee crisis as survivors flee to the Marlinist Colonies, leading to the conditional amnesty deal that produces key intelligence on NMLA leadership.
+related_uuids:
+- 4f51bc7e-be8a-5c71-9a1f-574542707362
+- df6ae4ee-fca4-532d-af01-2d2e609c7b15
+- 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
 legacy_weight: 5
 significance: high
 ---

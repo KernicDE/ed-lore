@@ -1,9 +1,9 @@
 ---
 id: salvation-azimuth
 name: Salvation Azimuth
-first_seen_date: '3308-01-05'
+first_seen_date: '3307-04-08'
 last_seen_date: '3309-12-21'
-mention_count: 98
+mention_count: 101
 significance: medium
 key_entities:
 - salvation
@@ -17,9 +17,9 @@ key_entities:
 
 # Salvation Azimuth
 
-First seen: **3308-01-05**  
+First seen: **3307-04-08**  
 Last seen: **3309-12-21**  
-Articles: **98**
+Articles: **101**
 
 ## Key Figures
 

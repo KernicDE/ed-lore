@@ -4,7 +4,7 @@ name: Denton Patreus
 type: person
 first_seen_date: '3301-02-27'
 last_seen_date: '3307-11-25'
-mention_count: 22
+mention_count: 21
 related_entities:
 - denton
 - emperors-dawn
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-27**  
 Last mentioned: **3307-11-25**  
-Total mentions: **22**
+Total mentions: **21**
 
 ## Related
 

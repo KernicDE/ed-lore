@@ -2,32 +2,32 @@
 id: scriveners-clan
 name: Scriveners Clan
 type: faction
-first_seen_date: '3307-12-03'
+first_seen_date: '3307-04-27'
 last_seen_date: '3308-06-23'
-mention_count: 3
+mention_count: 4
 related_entities:
+- azimuth-biochemicals
+- perseus-dark-region-kc-v-c2-2
+- chukchan
 - orion-university
-- vox-galactica
-- oochost-pc-c-c29-0
-- eg-union
-- mastopolos-mining
+- wallglass-investigations-agency
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Scriveners Clan
 
-First mentioned: **3307-12-03**  
+First mentioned: **3307-04-27**  
 Last mentioned: **3308-06-23**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
+- [[Azimuth Biochemicals]] (2 co-mentions)
+- [[Perseus Dark Region KC-V c2-2]] (2 co-mentions)
+- [[Chukchan]] (2 co-mentions)
 - [[Orion University]] (2 co-mentions)
-- [[Vox Galactica]] (1 co-mentions)
-- [[Oochost PC-C c29-0]] (1 co-mentions)
-- [[EG Union]] (1 co-mentions)
-- [[Mastopolos Mining]] (1 co-mentions)
+- [[Wallglass Investigations Agency]] (1 co-mentions)
 
 ## Biography
 

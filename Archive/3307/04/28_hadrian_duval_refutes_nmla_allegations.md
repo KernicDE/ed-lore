@@ -4,25 +4,36 @@ title: Hadrian Duval Refutes NMLA Allegations
 slug: hadrian_duval_refutes_nmla_allegations
 date: '3307-04-28'
 source: API
-entities:
-- Zemina Torval told
+arc_id: nmla-terrorism
+persons:
+- Hadrian Duval
+- Aisling Duval
+- Zemina Torval
+- Arastin Delacroix
 groups:
-- Alliance
-- Marlinist
-- NMLA
 - Nova Imperium
+- NMLA
+- Neo-Marlinist Order of Mudhrid
+
+- Alliance
+- Empire
+- Imperial Senate
 locations:
-- Marlinist
 - Paresa
+- Marlinist Colonies
+- Mudhrid
+technologies: []
 topics:
 - diplomacy
-- independence
 - scandal
-- ship
 - terrorism
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: None directly; this is a political response to allegations.
+summary: ACT confirms receiving evidence from Landgrave Delacroix alleging Hadrian Duval is the NMLA mastermind. Hadrian vehemently denies the claims, citing Nova Imperium's opposite political stance and its combat against terrorists at Mudhrid. Princess Aisling supports him while Senator Zemina Torval demands punishment.
+modern_impact: The allegations, though ultimately proven false, strain Imperial unity and temporarily isolate Nova Imperium. They demonstrate how effectively the NMLA uses disinformation to sow discord among its enemies even as its own network faces dismantlement.
+related_uuids:
+- 10f8cc7f-6af8-5ae4-b744-d3e73a0b8835
+- 5fa79497-ad45-5053-8949-3f794e8192c6
+- 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
 legacy_weight: 5
 significance: high
 ---

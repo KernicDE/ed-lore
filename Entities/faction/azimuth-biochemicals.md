@@ -2,9 +2,9 @@
 id: azimuth-biochemicals
 name: Azimuth Biochemicals
 type: faction
-first_seen_date: '3307-12-29'
+first_seen_date: '3307-04-08'
 last_seen_date: '3311-01-10'
-mention_count: 17
+mention_count: 19
 related_entities:
 - aegis
 - alliance
@@ -17,9 +17,9 @@ related_entities:
 
 # Azimuth Biochemicals
 
-First mentioned: **3307-12-29**  
+First mentioned: **3307-04-08**  
 Last mentioned: **3311-01-10**  
-Total mentions: **17**
+Total mentions: **19**
 
 ## Related
 

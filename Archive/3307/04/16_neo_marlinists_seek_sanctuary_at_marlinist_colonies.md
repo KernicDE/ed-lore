@@ -4,24 +4,40 @@ title: Neo-Marlinists Seek Sanctuary at Marlinist Colonies
 slug: neo_marlinists_seek_sanctuary_at_marlinist_colonies
 date: '3307-04-16'
 source: API
-entities:
-- Winters reminded Congress that
+arc_id: marlinist-refugee
+persons:
+- Arastin Delacroix
+- Aaron Whyte
+- Denton Patreus
+- Felicia Winters
+- Jenna Fairfax
+- Amrita Ross
+- Tamsin Taylor
 groups:
-- Alliance
-- Marlinist
+- Neo-Marlinist Order of Mudhrid
+- Marlinism Reformation Party
+- Marlinist Colonies
+- Marlinist Parliament
 - NMLA
+- Alliance
+- Federal Congress
 locations:
-- Marlinist
+- Hyades Sector RO-P b6-2
+- Mudhrid
+- Marlinist Colonies
+technologies:
+- Steel Majesty megaship
 topics:
-- construction
 - crime
 - humanitarian
-- investigation
-- ship
 - war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: None directly; this is a political refugee crisis.
+summary: Survivors of the defeated Neo-Marlinist Order of Mudhrid arrive in the Marlinist Colonies aboard the Steel Majesty, requesting asylum. All three superpowers demand their arrest, but Minister Aaron Whyte cites the Marlinist Charter's right to asylum. The Marlinist Parliament declares an emergency.
+modern_impact: The asylum crisis tests the Marlinist Colonies' sovereignty and sets the stage for the conditional amnesty deal that provides ACT with critical intelligence about NMLA leadership.
+related_uuids:
+- 298e9fd1-c89d-5a54-9760-656167b99d88
+- 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
+- 0fd60cb8-7807-5ad7-bb0b-23b66aeb6ab2
 legacy_weight: 5
 significance: high
 ---

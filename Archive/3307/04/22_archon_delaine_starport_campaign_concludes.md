@@ -4,26 +4,41 @@ title: Archon Delaine Starport Campaign Concludes
 slug: archon_delaine_starport_campaign_concludes
 date: '3307-04-22'
 source: API
+arc_id: kumo-crew-rise
+persons:
+- Archon Delaine
 groups:
 - Kumo Crew
+- Kumo Council
 - Pilots Federation
+- The Razor Whips
+- Kavanagh Spaceframes Ltd
+- Pegasi Sentinel
 locations:
-- California Nebula
-- Coalsack
-- Colonia
-- Eol Prou
-- Gabriel Enterprise in the Harma
 - Harma
+- Pegasi Sector PN-T c3-14
+- HIP 18390
+- HIP 10792
+- HIP 62154
+- Eol Prou PC-K c9-91
+- California Nebula
 - Sothis
+- Coalsack Nebula
+- Colonia
+technologies:
+- Orbis starport
+- Ceramic composites
+- Semiconductors
+- Polymers
+- Water purifiers
 topics:
-- construction
-- crime
-- ship
-- trade
-- war
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+- corporate expansion
+player_impact: Pilots who delivered construction materials and protected shipments collected rewards from Gabriel Enterprise in the Harma system.
+summary: The Kumo Crew's starport construction campaign concludes successfully. Five new Orbis stations will open across the galaxy including locations near the California Nebula, Sothis, Coalsack Nebula, and Colonia. Archon Delaine threatens "creative reprisals" against those who interfered.
+modern_impact: The successful expansion establishes Kumo Crew presence in strategically significant regions, particularly the Coalsack Nebula where Thargoid activity would soon intensify, giving the pirates unique positioning.
+related_uuids:
+- 808a1c32-013a-58f3-bf85-f48036f3d4f1
+- 677866b5-92cb-5c16-8297-0a3a97a4afa8
 legacy_weight: 3
 significance: medium
 ---

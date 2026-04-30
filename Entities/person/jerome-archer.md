@@ -2,24 +2,21 @@
 id: jerome-archer
 name: Jerome Archer
 type: person
-first_seen_date: '3307-04-06'
-last_seen_date: '3307-04-06'
-mention_count: 1
-related_entities:
-- nmla
+first_seen_date: '3307-03-24'
+last_seen_date: '3311-07-17'
+mention_count: 36
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Jerome Archer
 
-First mentioned: **3307-04-06**  
-Last mentioned: **3307-04-06**  
-Total mentions: **1**
+First mentioned: **3307-03-24**  
+Last mentioned: **3311-07-17**  
+Total mentions: **36**
 
 ## Related
 
-- [[NMLA]] (1 co-mentions)
 
 ## Biography
 

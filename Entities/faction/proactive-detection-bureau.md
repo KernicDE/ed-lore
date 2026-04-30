@@ -2,32 +2,32 @@
 id: proactive-detection-bureau
 name: Proactive Detection Bureau
 type: faction
-first_seen_date: '3307-12-29'
+first_seen_date: '3307-04-06'
 last_seen_date: '3309-02-07'
-mention_count: 4
+mention_count: 9
 related_entities:
-- alliance
-- hip-22460
+- sol
+- federal-congress
+- federal-intelligence-agency
 - nmla
-- neo-marlinist-order-of-mudhrid
-- aegis
+- advocacy
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Proactive Detection Bureau
 
-First mentioned: **3307-12-29**  
+First mentioned: **3307-04-06**  
 Last mentioned: **3309-02-07**  
-Total mentions: **4**
+Total mentions: **9**
 
 ## Related
 
-- [[Alliance]] (2 co-mentions)
-- [[HIP 22460]] (2 co-mentions)
-- [[NMLA]] (1 co-mentions)
-- [[Neo-Marlinist Order of Mudhrid]] (1 co-mentions)
-- [[Aegis]] (1 co-mentions)
+- [[Sol]] (4 co-mentions)
+- [[Federal Congress]] (4 co-mentions)
+- [[Federal Intelligence Agency]] (3 co-mentions)
+- [[NMLA]] (3 co-mentions)
+- [[Advocacy]] (3 co-mentions)
 
 ## Biography
 

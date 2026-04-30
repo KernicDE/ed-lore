@@ -9,8 +9,8 @@ related_entities:
 - sirius-corporation
 - ceos
 - kumo-crew
+- kumo-council
 - pilots-federation
-- california-nebula
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **8**
 - [[Sirius Corporation]] (4 co-mentions)
 - [[Ceos]] (3 co-mentions)
 - [[Kumo Crew]] (3 co-mentions)
+- [[Kumo Council]] (3 co-mentions)
 - [[Pilots Federation]] (3 co-mentions)
-- [[California Nebula]] (3 co-mentions)
 
 ## Biography
 

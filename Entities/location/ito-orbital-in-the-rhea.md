@@ -3,8 +3,8 @@ id: ito-orbital-in-the-rhea
 name: Ito Orbital in the Rhea
 type: location
 first_seen_date: '3307-03-11'
-last_seen_date: '3307-04-29'
-mention_count: 2
+last_seen_date: '3307-03-11'
+mention_count: 1
 related_entities:
 - alliance
 - federal-navy
@@ -18,8 +18,8 @@ related_entities:
 # Ito Orbital in the Rhea
 
 First mentioned: **3307-03-11**  
-Last mentioned: **3307-04-29**  
-Total mentions: **2**
+Last mentioned: **3307-03-11**  
+Total mentions: **1**
 
 ## Related
 

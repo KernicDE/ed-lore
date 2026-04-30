@@ -10,7 +10,7 @@ related_entities:
 - achenar
 - aegis
 - paresa
-- capitol
+- nmla
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **78**
 - [[Achenar]] (14 co-mentions)
 - [[Aegis]] (13 co-mentions)
 - [[Paresa]] (12 co-mentions)
-- [[Capitol]] (11 co-mentions)
+- [[NMLA]] (12 co-mentions)
 
 ## Biography
 

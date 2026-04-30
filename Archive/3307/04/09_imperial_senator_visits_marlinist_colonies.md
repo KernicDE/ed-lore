@@ -4,24 +4,33 @@ title: Imperial Senator Visits Marlinist Colonies
 slug: imperial_senator_visits_marlinist_colonies
 date: '3307-04-09'
 source: API
-entities:
+arc_id: marlinist-refugee
+persons:
 - Lorcan Scordato
-- Visits Marlinist Colonies
+- Aaron Whyte
+- Jenna Fairfax
+- Amrita Ross
+- Tamsin Taylor
 groups:
 - Imperial Herald
-- Marlinist
+- Marlinist Colonies
+- Marlinist Parliament
 - NMLA
 locations:
-- Marlinist
+- Marlinist Colonies
+- Hyades Sector RO-P b6-2
+technologies: []
 topics:
 - humanitarian
 - terrorism
-- war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
-legacy_weight: 5
-significance: high
+player_impact: None directly; this is a diplomatic fact-finding mission.
+summary: Senator Lorcan Scordato visits the Marlinist Colonies on a fact-finding mission, reporting that the communities are well-organised but precarious. He notes widespread condemnation of the NMLA among Marlinists and suggests the colonies are closer to allies than enemies in the war on terror.
+modern_impact: Scordato's visit establishes the diplomatic foundation for the conditional amnesty agreement with Neo-Marlinist refugees and demonstrates the Empire's willingness to engage diplomatically with former enemies.
+related_uuids:
+- df6ae4ee-fca4-532d-af01-2d2e609c7b15
+- 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
+legacy_weight: 4
+significance: medium
 ---
 
 Senator [[Lorcan Scordato]] has visited [[The]] [[Marlinist]] Colonies on a fact-finding mission as part of the Empire’s anti-terrorism operations.

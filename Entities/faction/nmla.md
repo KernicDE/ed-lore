@@ -9,8 +9,8 @@ related_entities:
 - marlinist
 - alliance
 - achenar
+- mudhrid
 - nova-imperium
-- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **89**
 
 ## Related
 
-- [[Marlinist]] (48 co-mentions)
-- [[Alliance]] (29 co-mentions)
-- [[Achenar]] (17 co-mentions)
-- [[Nova Imperium]] (14 co-mentions)
-- [[Imperial Herald]] (11 co-mentions)
+- [[Marlinist]] (41 co-mentions)
+- [[Alliance]] (27 co-mentions)
+- [[Achenar]] (18 co-mentions)
+- [[Mudhrid]] (15 co-mentions)
+- [[Nova Imperium]] (15 co-mentions)
 
 ## Biography
 

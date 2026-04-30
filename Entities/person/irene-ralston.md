@@ -3,13 +3,8 @@ id: irene-ralston
 name: Irene Ralston
 type: person
 first_seen_date: '3307-04-13'
-last_seen_date: '3307-04-13'
-mention_count: 1
-related_entities:
-- federal-times
-- jupiter
-- olympus-village
-- sol
+last_seen_date: '3311-04-30'
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
@@ -17,15 +12,11 @@ related_entities:
 # Irene Ralston
 
 First mentioned: **3307-04-13**  
-Last mentioned: **3307-04-13**  
-Total mentions: **1**
+Last mentioned: **3311-04-30**  
+Total mentions: **2**
 
 ## Related
 
-- [[Federal Times]] (1 co-mentions)
-- [[Jupiter]] (1 co-mentions)
-- [[Olympus Village]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
 
 ## Biography
 

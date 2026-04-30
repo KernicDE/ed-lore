@@ -4,20 +4,30 @@ title: The Adamastor Enigma
 slug: the_adamastor_enigma
 date: '3307-04-19'
 source: API
+arc_id: salvation-azimuth
+persons:
+- Rex Trevelyan
 groups:
 - Pilots Federation
+- Vox Galactica
 locations:
 - Chukchan
-- Not long after arriving in the Chukchan
+- Chukchan 5 b
+technologies:
+- Adamastor derelict megaship
+- Communications beacon
+- Decryption key
 topics:
 - cyberattack
 - investigation
-- ship
-- sport
-arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding
-  of the Thargoid conflict and superpower accountability.
-legacy_weight: 4
+- research
+player_impact: Pilots who visited the Adamastor received anonymous contact from "Salvation" providing a decryption key to decode the signal, revealing it as an SOS from the Hesperus.
+summary: Independent pilots report receiving anonymous instructions from a figure calling himself "Salvation," who provides a decryption key for the Adamastor's mysterious signal. The decoded transmission proves to be an automatic SOS from the Adamastor's sister ship, the Hesperus, launching a galaxy-wide search.
+modern_impact: This article marks the public emergence of "Salvation," the shadowy manipulator who would become a central figure in the Thargoid conflict, eventually revealing himself as a proxy for Azimuth Biotech's resurgence.
+related_uuids:
+- 2c8fcc05-f40b-5f58-89f3-c2a46b86faf0
+- 29d5b1ad-189d-542d-b21b-ab8e21422a28
+legacy_weight: 5
 significance: high
 ---
 

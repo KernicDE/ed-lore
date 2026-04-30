@@ -4,27 +4,32 @@ title: The Wedding of Hadrian Duval
 slug: the_wedding_of_hadrian_duval
 date: '3307-04-05'
 source: API
-entities:
-- Arissa
-- Minerva
+arc_id: nmla-terrorism
+persons:
+- Hadrian Duval
+- Astrid Minerva-Duval
+- Aisling Duval
+- Leo Magnus
 groups:
-- IISS
-- Imperial Herald
-- Marlinist
 - Nova Imperium
+- Imperial Herald
+- IISS
+- NMLA
 locations:
+- Paresa
 - Achenar
 - Imperial Palace
-- Marlinist
-- Paresa
+- Mudhrid
+technologies: []
 topics:
-- ship
 - succession
 - terrorism
-- war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: None directly; the wedding was a closed ceremony with media coverage.
+summary: Imperator Hadrian Augustus Duval of Nova Imperium marries his consort Astrid Minerva in a closed ceremony attended by Princess Aisling Duval. The Imperial Palace and Senate send congratulations while Nova Imperium forces assist in the conflict against Neo-Marlinists.
+modern_impact: The wedding becomes deeply suspect when allegations emerge later that month that Astrid Minerva is an NMLA agent who converted Hadrian to Neo-Marlinism, making this event a potential pivot point in the NMLA conspiracy.
+related_uuids:
+- 10f8cc7f-6af8-5ae4-b744-d3e73a0b8835
+- a63b78b8-8be0-504c-85a7-d986a0f0465a
 legacy_weight: 5
 significance: high
 ---

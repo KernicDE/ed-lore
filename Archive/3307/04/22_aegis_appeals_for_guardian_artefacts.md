@@ -4,25 +4,33 @@ title: Aegis Appeals For Guardian Artefacts
 slug: aegis_appeals_for_guardian_artefacts
 date: '3307-04-22'
 source: API
-entities:
+arc_id: thargoid-contact
+persons:
 - Alba Tesreau
+- Ram Tah
 groups:
 - Aegis
 - Pilots Federation
 locations:
-- Aegis
 - Delphi
-- Ram Tah
+- Alexandria megaship
+technologies:
+- Guardian casket
+- Guardian orb
+- Guardian relic
+- Guardian tablet
+- Guardian totem
+- Guardian urn
+- Anti-xeno weaponry
 topics:
 - alien contact
-- diplomacy
 - research
-- ship
-- sport
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+player_impact: Pilots were asked to deliver Guardian artefacts to Aegis Research at the Alexandria megaship in the Delphi system.
+summary: Aegis launches an appeal for Guardian artefacts to support a new anti-xeno research programme. Professor Alba Tesreau requests caskets, orbs, relics, tablets, totems and urns from ancient ruins, hoping to develop more effective Thargoid defences and secure continued funding for Aegis.
+modern_impact: Aegis's research programme ultimately fails to produce breakthroughs in time, contributing to the organisation's eventual dissolution and replacement by Azimuth Biotech's more aggressive anti-xeno approach.
+related_uuids:
+- ec7731ca-7661-51be-9477-25ca9e673110
 legacy_weight: 4
 significance: high
 ---

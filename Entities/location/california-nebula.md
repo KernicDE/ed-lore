@@ -8,9 +8,9 @@ mention_count: 24
 related_entities:
 - alliance
 - kumo-crew
-- coalsack
+- coalsack-nebula
+- kumo-council
 - pilots-federation
-- eol-prou
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **24**
 
 - [[Alliance]] (18 co-mentions)
 - [[Kumo Crew]] (9 co-mentions)
-- [[Coalsack]] (4 co-mentions)
+- [[Coalsack Nebula]] (4 co-mentions)
+- [[Kumo Council]] (3 co-mentions)
 - [[Pilots Federation]] (3 co-mentions)
-- [[Eol Prou]] (3 co-mentions)
 
 ## Biography
 

@@ -4,19 +4,33 @@ title: Neo-Marlinists Expose Hadrian Duval as NMLA Leader
 slug: neo_marlinists_expose_hadrian_duval_as_nmla_leader
 date: '3307-04-26'
 source: API
+arc_id: nmla-terrorism
+persons:
+- Hadrian Duval
+- Astrid Minerva-Duval
+- Arastin Delacroix
+- Flint Lafosse
 groups:
-- Marlinist
-- NMLA
 - Nova Imperium
+- NMLA
+- Neo-Marlinist Order of Mudhrid
+
 locations:
-- Marlinist
+- Marlinist Colonies
+- Paresa
+- Mudhrid
+technologies: []
 topics:
 - succession
 - terrorism
 - war
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: None directly; this is an intelligence leak and allegation.
+summary: Independent journalist Flint 'Firemaker' Lafosse publishes classified ACT information allegedly from Neo-Marlinist survivors claiming that Hadrian Duval is the NMLA mastermind. The leak alleges Astrid Minerva converted him to Neo-Marlinism and that the October assassination attempt on his life was staged.
+modern_impact: Although later disproven, the allegations create a severe crisis of confidence in the Imperial Family, strain relations between Nova Imperium and the Empire, and demonstrate the NMLA's skill at disinformation and psychological warfare.
+related_uuids:
+- 5fa79497-ad45-5053-8949-3f794e8192c6
+- a63b78b8-8be0-504c-85a7-d986a0f0465a
+- 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
 legacy_weight: 5
 significance: high
 ---

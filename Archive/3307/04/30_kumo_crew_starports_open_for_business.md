@@ -4,32 +4,40 @@ title: Kumo Crew Starports Open for Business
 slug: kumo_crew_starports_open_for_business
 date: '3307-04-30'
 source: API
+arc_id: kumo-crew-rise
+persons:
+- Archon Delaine
+- Kay Volantyne
 groups:
 - Kumo Crew
+- Kumo Council
 - Pilots Federation
-- Sirius Corp
 - Sirius Corporation
+- Pegasi Sentinel
 locations:
-- California Freeport in the HIP 18390
-- California Nebula
-- Coalsack
-- Colonia
-- Crimson Exchange in the HIP 10792
-- Eol Prou
-- Fort Xeno in the HIP 62154
+- Pegasi Sector PN-T c3-14
+- HIP 18390
+- HIP 10792
+- HIP 62154
+- Eol Prou PC-K c9-91
 - Harma
-- Sirius
+- California Nebula
 - Sothis
+- Coalsack Nebula
+- Colonia
+technologies:
+- Orbis starport
+- Black market
 topics:
-- alien contact
-- construction
 - corporate expansion
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 4
-significance: high
+player_impact: The new starports provide full services to pilots, though security agencies warn they may harbour black markets.
+summary: Five new Kumo Crew starports become fully operational across the galaxy. Arch-Corsair Kay Volantyne claims they encourage legitimate trade, though neighbouring systems fear black market activity. Subsidiaries of Sirius Corporation appear in all five systems, fuelling speculation about financial ties to the syndicate.
+modern_impact: The Sirius Corporation connection hints at the later confirmed financial backing that enables the Kumo Crew's expansion. The starports in the Coalsack Nebula prove strategically significant as Thargoid activity intensifies in the region.
+related_uuids:
+- 808a1c32-013a-58f3-bf85-f48036f3d4f1
+- 44e6e7f1-98b2-57df-811b-cb9e3a1fc528
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

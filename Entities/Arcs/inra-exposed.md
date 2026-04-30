@@ -3,7 +3,7 @@ id: inra-exposed
 name: Inra Exposed
 first_seen_date: '3304-04-21'
 last_seen_date: '3307-06-11'
-mention_count: 16
+mention_count: 14
 significance: medium
 key_entities:
 - inra
@@ -19,13 +19,13 @@ key_entities:
 
 First seen: **3304-04-21**  
 Last seen: **3307-06-11**  
-Articles: **16**
+Articles: **14**
 
 ## Key Figures
 
 - [[INRA]] (11 mentions)
 - [[Alliance]] (9 mentions)
-- [[Pilots Federation]] (7 mentions)
+- [[Pilots Federation]] (6 mentions)
 - [[Nestor Cartesius]] (3 mentions)
 - [[Imperial Internal Security Service]] (3 mentions)
 

@@ -1,33 +1,33 @@
 ---
 id: marlinist-refugee
 name: Marlinist Refugee
-first_seen_date: '3307-06-15'
+first_seen_date: '3307-04-09'
 last_seen_date: '3307-06-15'
-mention_count: 1
+mention_count: 3
 significance: medium
 key_entities:
-- li-yong-rui
+- marlinist-colonies
+- marlinist-parliament
+- nmla
 - alliance
-- kumo-crew
-- marlinist
-- sirius-corporation
+- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Marlinist Refugee
 
-First seen: **3307-06-15**  
+First seen: **3307-04-09**  
 Last seen: **3307-06-15**  
-Articles: **1**
+Articles: **3**
 
 ## Key Figures
 
-- [[Li Yong-Rui]] (1 mentions)
-- [[Alliance]] (1 mentions)
-- [[Kumo Crew]] (1 mentions)
-- [[Marlinist]] (1 mentions)
-- [[Sirius Corporation]] (1 mentions)
+- [[Marlinist Colonies]] (2 mentions)
+- [[Marlinist Parliament]] (2 mentions)
+- [[NMLA]] (2 mentions)
+- [[Alliance]] (2 mentions)
+- [[Imperial Herald]] (1 mentions)
 
 ## Description
 

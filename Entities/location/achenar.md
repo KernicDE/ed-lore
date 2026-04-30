@@ -8,8 +8,8 @@ mention_count: 75
 related_entities:
 - alliance
 - capitol
-- sol
 - nmla
+- sol
 - imperial-herald
 ---
 
@@ -25,8 +25,8 @@ Total mentions: **75**
 
 - [[Alliance]] (21 co-mentions)
 - [[Capitol]] (20 co-mentions)
+- [[NMLA]] (18 co-mentions)
 - [[Sol]] (17 co-mentions)
-- [[NMLA]] (17 co-mentions)
 - [[Imperial Herald]] (14 co-mentions)
 
 ## Biography

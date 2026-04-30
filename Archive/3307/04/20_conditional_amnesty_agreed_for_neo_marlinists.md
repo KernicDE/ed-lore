@@ -4,23 +4,36 @@ title: Conditional Amnesty Agreed for Neo-Marlinists
 slug: conditional_amnesty_agreed_for_neo_marlinists
 date: '3307-04-20'
 source: API
-entities:
+arc_id: nmla-terrorism
+persons:
 - Lorcan Scordato
-- Scordato
+- Arastin Delacroix
+- Aaron Whyte
+- Anders Blaine
 groups:
+- Neo-Marlinist Order of Mudhrid
+- Marlinism Reformation Party
+- Marlinist Colonies
+
 - Alliance
-- Marlinist
-- NMLA
+- Federal Congress
+- Imperial Senate
 locations:
 - Hyades Sector RO-P b6-2
-- Marlinist
+- Marlinist Colonies
+technologies:
+- Steel Majesty megaship
 topics:
 - humanitarian
-- ship
 - succession
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+player_impact: None directly; this is a diplomatic resolution.
+summary: Senator Lorcan Scordato negotiates a conditional amnesty for the Neo-Marlinist Order of Mudhrid. In exchange for revealing NMLA leadership identities, Landgrave Delacroix and his inner circle receive life imprisonment while the Steel Majesty's population undergoes security vetting. Chancellor Blaine approves the creative solution.
+modern_impact: The amnesty deal provides ACT with crucial intelligence on NMLA leadership, but the information also leads to the shocking — and ultimately false — allegation that Hadrian Duval is the NMLA mastermind.
+related_uuids:
+- df6ae4ee-fca4-532d-af01-2d2e609c7b15
+- 298e9fd1-c89d-5a54-9760-656167b99d88
+- 10f8cc7f-6af8-5ae4-b744-d3e73a0b8835
+- 0fd60cb8-7807-5ad7-bb0b-23b66aeb6ab2
 legacy_weight: 5
 significance: high
 ---

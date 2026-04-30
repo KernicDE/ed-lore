@@ -4,12 +4,12 @@ name: Imperial Senate
 type: faction
 first_seen_date: '3301-02-28'
 last_seen_date: '3310-01-11'
-mention_count: 43
+mention_count: 45
 related_entities:
-- capitol
-- achenar
 - alliance
 - nmla
+- capitol
+- achenar
 - federal-congress
 ---
 
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-02-28**  
 Last mentioned: **3310-01-11**  
-Total mentions: **43**
+Total mentions: **45**
 
 ## Related
 
+- [[Alliance]] (11 co-mentions)
+- [[NMLA]] (10 co-mentions)
 - [[Capitol]] (9 co-mentions)
 - [[Achenar]] (9 co-mentions)
-- [[Alliance]] (9 co-mentions)
-- [[NMLA]] (9 co-mentions)
-- [[Federal Congress]] (7 co-mentions)
+- [[Federal Congress]] (8 co-mentions)
 
 ## Biography
 

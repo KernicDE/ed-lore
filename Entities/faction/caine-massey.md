@@ -1,31 +1,33 @@
 ---
 id: caine-massey
-name: Caine-Massey
+name: Caine Massey
 type: faction
-first_seen_date: '3309-03-31'
-last_seen_date: '3309-03-31'
+first_seen_date: '3307-04-13'
+last_seen_date: '3307-04-13'
 mention_count: 1
 related_entities:
-- federal-commerce-authority
-- federal-intelligence-agency
-- mars
 - olympus-village
+- federal-times
+- proactive-detection-bureau
+- jupiter-division
+- vox-galactica
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Caine-Massey
+# Caine Massey
 
-First mentioned: **3309-03-31**  
-Last mentioned: **3309-03-31**  
+First mentioned: **3307-04-13**  
+Last mentioned: **3307-04-13**  
 Total mentions: **1**
 
 ## Related
 
-- [[Federal Commerce Authority]] (1 co-mentions)
-- [[Federal Intelligence Agency]] (1 co-mentions)
-- [[Mars]] (1 co-mentions)
-- [[Olympus Village]] (1 co-mentions)
+- [[Olympus Village]] (2 co-mentions)
+- [[Federal Times]] (1 co-mentions)
+- [[Proactive Detection Bureau]] (1 co-mentions)
+- [[Jupiter Division]] (1 co-mentions)
+- [[Vox Galactica]] (1 co-mentions)
 
 ## Biography
 

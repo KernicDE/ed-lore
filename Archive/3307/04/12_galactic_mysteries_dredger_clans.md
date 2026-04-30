@@ -4,16 +4,28 @@ title: 'Galactic Mysteries: Dredger Clans'
 slug: galactic_mysteries_dredger_clans
 date: '3307-04-12'
 source: API
+arc_id: formidine-rift
+persons:
+- Erik Gunnarson
+- Francesca Wolfe
 groups:
-- Alliance
+- Wallglass Investigations Agency
 locations:
-- Improved hyperdrives and fuel-scooping
+- Perseus Dark Region KC-V c2-2
+technologies:
+- Dredger-class bulk cruiser
+- Hyperdrive
+- Fuel scoop
 topics:
 - investigation
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+player_impact: Explorers may encounter Dredger Clans while travelling through the galaxy's fringes.
+summary: Erik Gunnarson of Wallglass Investigations discusses the nomadic Dredger Clans — tribes living in converted bulk cruisers that roam deep space, scavenging and occasionally raiding. He mentions the Phagos clan's terrifying reputation and rumours of a rarely seen clan resurfacing.
+modern_impact: The article foreshadows the discovery of the Scriveners Clan alongside the Hesperus, revealing that dredgers are more than folklore — they are living, evolving societies with their own cultures and agendas.
+related_uuids:
+- 218ec85d-706e-5e3d-bb5b-9a63e443707c
+- 29d5b1ad-189d-542d-b21b-ab8e21422a28
+legacy_weight: 3
+significance: medium
 ---
 
 Erik Gunnarson of [[The]] [[Wallglass Investigations Agency]] discusses the nomadic tribes that wander the galaxy in converted [[Dredger]] megaships.

@@ -2,32 +2,32 @@
 id: advocacy
 name: Advocacy
 type: faction
-first_seen_date: '3308-09-21'
+first_seen_date: '3307-04-13'
 last_seen_date: '3308-09-26'
-mention_count: 2
+mention_count: 5
 related_entities:
+- proactive-detection-bureau
+- sol
+- federal-congress
 - hip-22460
-- azimuth-biotech
-- federal-navy-criminal-court
-- order-of-the-far-god
-- federal-navy-intelligence-office
+- federal-times
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Advocacy
 
-First mentioned: **3308-09-21**  
+First mentioned: **3307-04-13**  
 Last mentioned: **3308-09-26**  
-Total mentions: **2**
+Total mentions: **5**
 
 ## Related
 
+- [[Proactive Detection Bureau]] (3 co-mentions)
+- [[Sol]] (3 co-mentions)
+- [[Federal Congress]] (3 co-mentions)
 - [[HIP 22460]] (2 co-mentions)
-- [[Azimuth Biotech]] (1 co-mentions)
-- [[Federal Navy Criminal Court]] (1 co-mentions)
-- [[Order of the Far God]] (1 co-mentions)
-- [[Federal Navy Intelligence Office]] (1 co-mentions)
+- [[Federal Times]] (1 co-mentions)
 
 ## Biography
 
