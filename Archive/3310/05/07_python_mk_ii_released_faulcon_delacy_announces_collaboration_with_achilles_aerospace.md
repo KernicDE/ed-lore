@@ -6,20 +6,27 @@ slug: python_mk_ii_released_faulcon_delacy_announces_collaboration_with_achilles
 date: '3310-05-07'
 source: API
 groups:
-- ACT
 - Achilles Aerospace
 - Faulcon DeLacy
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Sirius
 topics:
 - corporate expansion
 - ship
-- war
-modern_impact: New ship releases expand pilot capabilities and reshape the ship market.
+modern_impact: "The collaboration between Faulcon DeLacy and Achilles Aerospace — 'designed from the ground up to better handle their new Frame Shift Drive' — is a strategic alliance that bypasses Sirius Corporation's traditional FSD monopoly. Sirius's refusal to comment on the announcement speaks volumes about the competitive threat. The tagline 'Built for Supercruise Overcharge' markets the ship as purpose-built for the new technology rather than retrofitted."
+persons: []
+technologies:
+- Python Mk II
+- Supercruise Overcharge
+- Frame Shift Drive
+player_impact: "The Python Mk II is now available, designed from the ground up to better handle Achilles' new Frame Shift Drive with improved heat management, handling, fuel consumption, and acceleration."
+summary: "Faulcon DeLacy releases the Python Mk II, the first ship built entirely around Achilles' SCO Frame Shift Drive, featuring improved heat management and breaking speed records."
 legacy_weight: 2
 significance: low
+related_uuids:
+- 4ab77eb5-7fc8-5438-87c3-663a6647a261
+- c07b4796-ed9d-5a28-9d36-26ee710a7e32
 ---
 
 The first ever ship built entirely around Achilles’ new Frame Shift Drive has released today, the Python Mk II. Marketing materials are pushing the tagline: “Built for Supercruise Overcharge”.

@@ -6,11 +6,11 @@ first_seen_date: '3310-03-21'
 last_seen_date: '3310-10-31'
 mention_count: 7
 related_entities:
-- act
 - sirius-corporation
-- thargoid
+- act
 - titan
 - faulcon-delacy
+- thargoid
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **7**
 
 ## Related
 
-- [[ACT]] (4 co-mentions)
 - [[Sirius Corporation]] (4 co-mentions)
-- [[Thargoid]] (2 co-mentions)
+- [[ACT]] (2 co-mentions)
 - [[Titan]] (2 co-mentions)
 - [[Faulcon DeLacy]] (2 co-mentions)
+- [[Thargoid]] (1 co-mentions)
 
 ## Biography
 

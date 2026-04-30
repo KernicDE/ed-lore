@@ -6,11 +6,10 @@ first_seen_date: '3310-05-07'
 last_seen_date: '3311-04-24'
 mention_count: 5
 related_entities:
-- act
 - achilles-aerospace
 - sirius-corporation
-- namin-tirel
-- thargoid
+- lakon-spaceways
+- zorgon-peterson
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +22,10 @@ Total mentions: **5**
 
 ## Related
 
-- [[ACT]] (2 co-mentions)
 - [[Achilles Aerospace]] (2 co-mentions)
 - [[Sirius Corporation]] (1 co-mentions)
-- [[Namin Tirel]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
+- [[Lakon Spaceways]] (1 co-mentions)
+- [[Zorgon Peterson]] (1 co-mentions)
 
 ## Biography
 

@@ -4,23 +4,24 @@ title: The Assault on Hadad
 slug: the_assault_on_hadad
 date: '3310-05-24'
 source: API
-groups:
-- Thargoid
-locations:
-- Guardian
-- Thargoid
-- Titan
+groups: []
+locations: []
 topics:
 - alien contact
-- humanitarian
-- ship
 - war
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "The same three-module formula repeats across Titan assaults, confirming the standardisation of anti-xeno warfare. The destruction of Hadad — the fourth Titan — continues the steady progression of the war, with each Titan falling in sequence."
+persons: []
+technologies:
+- Thargoid Pulse Neutraliser
+- Caustic Sink Launcher
+- Guardian Nanite Torpedo Pylon
+player_impact: "Pilots are urgently called to aid in the defeat of Titan Hadad, the fourth Thargoid mothership."
+summary: "An urgent call to all pilots to participate in the final assault on Titan Hadad, the fourth Thargoid mothership."
 legacy_weight: 5
 significance: high
+related_uuids:
+- e752b7ff-7a83-53ee-9818-01d485040466
 ---
 
 *Pilots’ Federation Alert*

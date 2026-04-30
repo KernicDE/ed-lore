@@ -4,17 +4,25 @@ title: Ship manufacturers must “rise to the challenge” of Supercruise Overch
 slug: ship_manufacturers_must_rise_to_the_challenge_of_supercruise_overcharge
 date: '3310-05-03'
 source: API
-groups:
-- ACT
+groups: []
 topics:
 - construction
 - engineering
 - research
 - ship
-- war
-modern_impact: Engineering developments offer pilots new ship customisation options.
+modern_impact: "Jackson's observation that 'every manufacturer is realising all at once that there are some crucial things about ship construction that they've all taken for granted' captures a paradigm shift in ship design. His statement 'I haven't seen such a single-minded focus from ship manufacturers for a long time' and 'They're all clawing to be first to market' frames the SCO drive as a disruptive innovation forcing industry-wide adaptation. His closing — 'Achilles have changed the game in the industry for good' — acknowledges the permanent nature of the shift."
+persons:
+- Stent Jackson
+technologies:
+- Supercruise Overcharge
+- Frame Shift Drive
+player_impact: "Not specifically mentioned — this is an analysis piece on industry response to SCO technology."
+summary: "Ship engineering consultant Stent Jackson discusses how manufacturers are scrambling to design ships that can withstand the immense mechanical and thermal stress of Achilles' new Supercruise Overcharge technology."
 legacy_weight: 2
 significance: low
+related_uuids:
+- fd10a1c4-394e-54c7-8968-b01b1cd22993
+- c07b4796-ed9d-5a28-9d36-26ee710a7e32
 ---
 
 Users of the Supercruise Overcharge function of Achilles’ new Frame Shift Drives have reported that the module puts ships under immense mechanical and thermal stress, often causing severe hull damage. Ship manufacturers throughout the galaxy are now diverting research towards overcoming this issue.

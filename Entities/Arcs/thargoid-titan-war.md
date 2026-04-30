@@ -23,7 +23,7 @@ Articles: **79**
 
 ## Key Figures
 
-- [[Thargoid]] (53 mentions)
+- [[Thargoid]] (52 mentions)
 - [[Aegis]] (45 mentions)
 - [[ACT]] (37 mentions)
 - [[Alliance]] (19 mentions)
