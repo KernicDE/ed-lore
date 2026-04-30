@@ -1,0 +1,16 @@
+---
+uuid: 653b8775-4e6e-5a6e-a001-6bf4f039d552
+title: Trailblazer Fleet Withdrawn, Dodec Starport Revealed
+slug: trailblazer_fleet_withdrawn_dodec_starport_revealed
+ed_date: '3311-11-11'
+lang: en
+source: API
+---
+
+Brewer Corporation has labelled the withdrawal of its Trailblazer megaship fleet as a ‘vote of confidence’ in the self-sustainability of thousands of new colonies.
+The Trailblazer vessels were originally deployed to provide logistical support and essential resources to independent colonisation initiatives at the edge of inhabited space and are now being refit for deployment for other purposes.
+“The success of the Trailblazer fleet will leave its mark in the history books of human colonisation,” Mark Rennik, Chief Operating Officer for Brewer Corporation commented.
+“And now, once the crews have taken a well-deserved rest and the internals are refit, they will continue to serve the Brewer Corporation in other duties.”
+To reinforce the message, Rennik also announced the availability of the newly commissioned Dodec starports for colonisation efforts, which can be built at any available Tier 3 port locations.
+“We’re excited to bring back the classic Dodec design. We recognised that the demand for smaller starports meant colonisation efforts needed more choice, and the Dodec is the perfect solution,” claimed Rennik.
+Dodec starports permits will be available for premium purchase at usual Brewer facilities.

@@ -1,0 +1,15 @@
+---
+uuid: 5f694caa-fbd0-5412-9b82-3cf18d160381
+title: The Winking Cat’s Treasure Hunt
+slug: the_winking_cats_treasure_hunt
+ed_date: '3307-12-23'
+lang: en
+source: API
+---
+
+*Pilots’ Federation ALERT*
+Erik Gunnarson of the Wallglass Investigations Agency provides an overview of the Winking Cat’s latest escapade.
+“The meaning of the message scrawled on the back of the Jokers’ Deck ceremonial playing card has become clear. This time, the galaxy’s most infamous larcenist is actually giving away treasure rather than stealing it.”
+“Three mysterious riddles were somehow inserted into the GalNet feed over the last week. Commanders have reported that clues within these riddles led them to three concealed caches, each in a different system.”
+“According to the dates specified by the Winking Cat, these three caches will only be operational for a two-week period, ending on the 30th of December. We can then deduce that caches four, five and six will activate today, and likewise remain available for the next two weeks.”
+“This is not the first philanthropic gesture from the Winking Cat. The long-lost painting Penance Street reappeared in 3305 alongside the thief’s signature graphic of a cheeky feline face, but this is a more generous giveaway. Some even see it as a redistribution of wealth, noting that the Winking Cat only ever targets corporations, governments or super-rich individuals.”

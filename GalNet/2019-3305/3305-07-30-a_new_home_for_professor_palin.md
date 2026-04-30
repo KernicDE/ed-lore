@@ -1,0 +1,22 @@
+---
+uuid: 45396224-a215-5ad4-8ebf-6d8150f53be8
+title: A New Home for Professor Palin
+slug: a_new_home_for_professor_palin
+ed_date: '3305-07-30'
+lang: en
+source: GitHub
+---
+
+* A New Home for Professor Palin
+
+/30 Jul 3305/
+
+Professor Ishmael Palin has established a permanent base of operations in the Arque system. 
+
+Aegis Research confirmed the news with a statement from Professor Alba Tesreau: 
+
+“Having fled the Maia system, Professor Palin and his staff have installed their equipment at the planetary port Abel Laboratory on Arque 4 E.” 
+
+“All of the engineering services previously offered by Professor Palin are now available at his new location. His study of meta-alloys and other Thargoid-related materials has also resumed.” 
+
+“The megaship Carson’s Spring, which facilitated an emergency evacuation of the Palin Research Centre, has left the Arque system to resume other duties.”

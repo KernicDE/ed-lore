@@ -1,0 +1,24 @@
+---
+uuid: b1d3cc6d-1f0c-5fe1-b2c4-58b3b944f2d6
+title: Prince Harold Duval Assassinated
+slug: prince_harold_duval_assassinated
+ed_date: '3306-09-14'
+lang: en
+source: GitHub
+---
+
+* Prince Harold Duval Assassinated
+
+/14 Sep 3306/
+
+Prince Harold Duval is dead after a targeted assassination attempt by the Neo-Marlinist Liberation Army. 
+
+The Empire has imposed a media blackout on these events, and no official statement has been made. However, independent journalist Gwendolyn Nash published this on-the-scene report for Vox Galactica: 
+
+“From interviewing multiple sources, we gather that a single assassin managed to infiltrate Harold Duval’s personal transport. He was killed by shipboard guards but not before shooting the Prince at close range.” 
+
+“The NMLA claimed responsibility for this attack in its latest propaganda broadcast, which referred to the Duval family as ‘imperialist parasites’. The extremist group also demanded that ‘Marlinists everywhere must rise up and demand a democratic Republic’.” 
+
+“Harold Duval was famously declared unfit for the throne by Emperor Hengist, and has been out of the public eye ever since. He rarely left Capitol but was making an unpublicised journey to visit his daughter Aisling Duval, presumably in response to the recent terrorist attack in the Cemiess system.” 
+
+“It remains unknown how the NMLA knew of the Prince’s itinerary, or managed to breach security on his ship.”

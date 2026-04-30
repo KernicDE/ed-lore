@@ -1,0 +1,20 @@
+---
+uuid: d1123f46-0a01-52ba-bfd8-f94aa6a749f6
+title: Galactic News  Speculation over MetaDrive Technology
+slug: galactic_news_speculation_over_metadrive_technology
+ed_date: '3303-02-17'
+lang: en
+source: GitHub
+---
+
+* Galactic News: Speculation over MetaDrive Technology
+
+/17 Feb 3303/
+
+Audit records from MetaDrive Inc., acquired by the Sirius Corporation last year, have been leaked into public data silos by persons unknown. 
+
+While the majority of the data is unremarkable, one record mentions 'wake suppression', prompting some commentators to speculate on a possible connection to MetaDrive's work on hyperdrive systems. 
+
+A spokesperson for the Sirius Corporation responded by saying: 
+
+"We do not typically comment on leaks of this nature, but we can certainly allay any fears that the Sirius Corporation is conducting experimental hyperdrive research. The document in question simply refers to research into sleep-management technology for long-haul travel."

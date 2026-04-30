@@ -1,0 +1,18 @@
+---
+uuid: d94ecb15-0ec2-5d1d-a0cf-f8fe10e9fada
+title: Rebels Declare War on the Federation in 78 Ursae Majoris
+slug: rebels_declare_war_on_the_federation_in_78_ursae_majoris
+ed_date: '3301-03-17'
+lang: en
+source: GitHub
+---
+
+* Rebels Declare War on the Federation in 78 Ursae Majoris
+
+/17 Mar 3301/
+
+The system of 78 Ursae Majoris, home to over 10 billion people, has erupted into civil war today. The conflict started just hours after news broke that the frontier system was planning to announce its intention to secede from the Federation.  
+
+We spoke to local resident and farmer, Gryph Jones, who woke up this morning to find he now lives near one of the heaviest focal points of the conflict. He had this to say on the matter: 
+
+"Pah! The Federation! Now, I won't say I support this war, the revolutionaries are monsters and criminals, but the inability of the local Federal government to keep things under control is exactly why those folks are so unpopular here! The Feds are too busy playing with Lughnatics and Onionheads half a galaxy to focus on places like this - maybe both sides will kill each other off, I can't help but think we'd be better off for it.”

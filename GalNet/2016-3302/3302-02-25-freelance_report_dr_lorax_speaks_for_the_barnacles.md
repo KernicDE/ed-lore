@@ -1,0 +1,22 @@
+---
+uuid: 79707cce-a1a3-51f5-8c52-7946628254f1
+title: Freelance Report  Dr Lorax Speaks for the Barnacles
+slug: freelance_report_dr_lorax_speaks_for_the_barnacles
+ed_date: '3302-02-25'
+lang: en
+source: GitHub
+---
+
+* Freelance Report: Dr Lorax Speaks for the Barnacles
+
+/25 Feb 3302/
+
+Doctor Elana Lorax, a leading contributor in the field of xeno biology, has released a statement to the media: 
+
+"Before we reached for the stars we destroyed countless species on our homeworld. Similarly, the colonization of Tau Ceti, Delta Pavonis, Achenar and many other systems resulted in the mass extinction of native life."  
+
+"But humanity has yet to learn its lesson. The cry for meta-alloys is not unlike the lust for beaver-pelt top hats in ancient times. Thousands of barnacles have been destroyed, and for what? Defunct stations can be replaced. If the barnacles are destroyed for their meta-alloys we will lose their secrets forever." 
+
+Doctor Lorax continued: "With a little patience we could unlock the secrets of the barnacle. Xeno biologists and chemists could learn to synthesize meta-alloys, given time. Unfortunately it seems humanity is going to destroy another unique lifeform for short-term, and short-sighted, gain." 
+
+Commander Corrigendum

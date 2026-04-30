@@ -1,0 +1,16 @@
+---
+uuid: 88762111-9b1e-5467-90ce-7c1efe5c7315
+title: Gatekeeper Megaships Established
+slug: gatekeeper_megaships_established
+ed_date: '3307-11-24'
+lang: en
+source: API
+---
+
+Factions responsible for the distribution of conditional access permits have deployed so-called Gatekeeper megaships to neighbouring systems.
+The agreement between 14 factions intends to allow permit distribution procedures to continue regardless of the political status of the associated systems. Though the reason for system access restrictions varies between the factions, preventing any disruption to interstellar trade was a key factor in the talks.
+A spokesperson for Alioth Independents, one of the factions involved, offered the following: 
+“It is rare that so many participants from across the core systems are able to reach an agreement so easily. These megaships will ensure that the flow of traffic within our respective borders remains appropriately controlled, providing support for the permit offices in those systems.”
+“Only a few short years ago, the system of Tiliala saw disruption in assigning permits to eligible visitors due to political disturbances. The Panjabell system experienced this problem again within recent months. These lessons have inspired us to prevent further repetitions in the future.”
+“I would like to thank each faction representative for their contributions to maintaining consistency in our methods for the ease of pilots, recognising the valuable contributions they make to the galactic economy.”
+Permit distribution to eligible recipients will still be carried out remotely.

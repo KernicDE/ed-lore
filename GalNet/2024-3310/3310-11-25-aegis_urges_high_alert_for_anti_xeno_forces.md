@@ -1,0 +1,15 @@
+---
+uuid: 5040d867-0b8b-5258-b6fd-b58753e6a24d
+title: Aegis Urges High Alert for Anti-Xeno Forces
+slug: aegis_urges_high_alert_for_anti_xeno_forces
+ed_date: '3310-11-25'
+lang: en
+source: API
+---
+
+Professor Alba Tesreau, Head of Aegis, has issued a warning for all anti-xeno fleets to remain on high alert.
+The warning comes as human forces continue to push towards the last remaining Thargoid Titan, Cocijo. While victory over the Thargoid invasion force seems likely at this stage, Tesreau has urged defensive fleets not to become complacent.
+“We have seen repeatedly that the Thargoid fleets are capable of surprising us when their defeat seems inevitable. The Proteus Wave incident in HIP 22460 is a perfect example of this – our confidence was such that Salvation’s celebratory speech was broadcast across the core systems only moments before he was killed by a Thargoid counterattack, along with thousands of military personnel.”
+“Seo Jin-ae has - rather publicly - insisted that her recent medical emergency was the result of the Thargoids seeking to learn about her and, by extension, humanity as a whole. Should this prove true, we must assume that the Thargoids have new information to identify human targets, orchestrate attacks and more. In recent days, Seo stated that the Thargoid hive mind has altered its ‘tone’ in a way which has previously led to a change in Thargoid tactics.”
+“With this in mind, I implore AX defensive forces protecting our ports and worlds from Thargoid assault to stay vigilant. Shinrarta Dezhra’s recent invasion proved the Thargoid fleet can still push behind the war’s front line.”
+Aegis has received criticism over its perceived failure to protect Seo Jin-ae from Thargoid interception. Most notably, Imperial Fleet Admiral Denton Patreus commented that Seo should be ‘closely watched’ following her medical incident.

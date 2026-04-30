@@ -1,0 +1,26 @@
+---
+uuid: dd174227-c27d-5a6e-a0d6-55aa0614bc98
+title: 78 Ursae Majoris Reacts to President’s Intended Visit
+slug: 78_ursae_majoris_reacts_to_presidents_intended_visit
+ed_date: '3301-05-09'
+lang: en
+source: GitHub
+---
+
+* 78 Ursae Majoris Reacts to President’s Intended Visit
+
+/09 May 3301/
+
+Following the rather strange announcement that President Halsey will soon be visiting the ex-Federal system of 78 Ursae Majoris, GalNet reached out to local leaders and residents to get their thoughts. 
+
+“I think it’s excellent that President Halsey is finally showing some interest in what’s happening in the region. It’s a shame she won’t be swinging by Townshend, I’m sure my constituents have plenty they want to say to her about the years of neglect the system suffered under Federal rule.” 
+
+Andrew Bailey, Mayor of Townshend Hub – Alioth Independents 
+
+“The people of 78 Ursae Majoris have made their feelings about the years of neglect very clear. That is now behind us. I say if President Halsey wishes to make amends, then it is very decent of her to come here and do so in person. Let bygones be bygones. We in the 78 Ursae Majoris for Equality Party are looking forward to the President’s visit, and we hope that it will prove to be a productive experience for the residents of Seddon Gateway.” 
+
+Mary Silverstein, Seddon Gateway - Chair of 78 Ursae Majoris for Equality Party 
+
+“I thought the Lughnatics murdered Halsey? She’s coming ’ere, you say? Why? I thought we were pretty clear, !*#@ the Feds, we don’t want ’em. Well... ’ere’s ’oping no one gets any bright ideas about finishing ’er off, this place was just finally startin’ ta sort itself out.” 
+
+Gryph Jones, 78 Ursae Majoris B 3 - Farmer

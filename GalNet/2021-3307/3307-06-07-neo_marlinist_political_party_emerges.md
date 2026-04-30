@@ -1,0 +1,16 @@
+---
+uuid: 1e7e97c1-ff96-521a-b5cb-9b12f172ab76
+title: Neo-Marlinist Political Party Emerges
+slug: neo_marlinist_political_party_emerges
+ed_date: '3307-06-07'
+lang: en
+source: API
+---
+
+Minister Aaron Whyte, leader of the Marlinism Reformation Party, has confirmed that it aims to politically represent the Neo-Marlinist fringe.
+At a meeting of the Marlinist Parliament, Minister Whyte declared:
+“Not all of the Neo-Marlinist community seek a violent uprising to end the Duval family’s thousand-year dictatorship. We can help replace desperate acts of rebellion with meaningful dialogue and public pressure.”
+Several newsfeeds observed that Whyte was attempting to rebrand Neo-Marlinism as being closer to the mainstream ideals of Marlinism. However, the possibility that the faction may now act as the political wing of the NMLA has caused widespread alarm.
+In related news, a recent election in the Hyades Sector RO-P b6-2 system saw voters remove the Marlinism Reformation Party from power, after it granted asylum to survivors from the Neo-Marlinist Order of Mudhrid.
+The system’s new leader, Minister Octavia Volkov of the Exiled Marlinist Assembly of Baltah'Sine, announced:
+“My party believes in following Marlin Duval’s example by building independent democracies, rather than reforming the Empire. However, three of our colony systems have already fallen under the control of foreign factions. We urgently need support to keep the dream of a Marlinist Republic alive.”

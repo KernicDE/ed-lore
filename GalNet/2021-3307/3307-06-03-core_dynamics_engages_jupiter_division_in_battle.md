@@ -1,0 +1,18 @@
+---
+uuid: ee5b7c0a-d673-55fa-b1af-b0e73f400736
+title: Core Dynamics Engages Jupiter Division in Battle
+slug: core_dynamics_engages_jupiter_division_in_battle
+ed_date: '3307-06-03'
+lang: en
+source: API
+---
+
+*Pilots Federation ALERT*
+The corporate faction Jupiter Division is fighting for survival against the Silver Legal Group in the Ts'ao Tach system.
+Jupiter Division was formed by rogue Core Dynamics departments loyal to ex-CEO Jupiter Rochester. Although it was defeated in February, a growing corporatist movement within the Federation has helped rebuild its strength.
+A call to arms was made by Owen McKenna, the new CEO of Core Dynamics:
+“Rochester’s deranged cult must be wiped out once and for all. We are supporting our ally, the Silver Legal Group, to destroy Jupiter Division’s fleet and allow us to retake our stolen resources.”
+Vice-Executive Blanca Carbonell, a senior leader of Jupiter Division, broadcast this message:
+“To all those seeking a better Federation – stand up and make your voice heard! Only direct corporate rule can end government corruption. Jupiter Division must survive to lead that change!”
+Two megaships, Victory’s Forge and Iron Wings of Justice, are once again serving as the centres of operation for Jupiter Division and the Silver Legal Group. 
+Political commentators believe that this second conflict will be a decisive one, determining whether or not Jupiter Division can survive without its founder.

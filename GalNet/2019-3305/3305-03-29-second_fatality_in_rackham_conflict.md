@@ -1,0 +1,22 @@
+---
+uuid: f826de33-b5c1-5d57-a10d-35f02a19751d
+title: Second Fatality in Rackham Conflict
+slug: second_fatality_in_rackham_conflict
+ed_date: '3305-03-29'
+lang: en
+source: GitHub
+---
+
+* Second Fatality in Rackham Conflict
+
+/29 Mar 3305/
+
+The head of personnel at Rackham Capital Investments has died in an accident, becoming the second senior-level employee to have died in recent weeks. 
+
+Journalist Bryanna Blanco commented in The Federal Times: 
+
+“Senior executive Derrin O’Shea was killed when his personal limousine malfunctioned and crashed. The incident has not been ruled as suspicious. O’Shea’s position was filled within hours by a supporter of Taja Gavaris, however. Gavaris herself inherited the CFO role in a similar fashion following her predecessor’s recent death.” 
+
+“With two close allies gone, CEO Zachary Rackham must feel under threat. This corporate power struggle increasingly resembles two pirate captains fighting to become overall leader.” 
+
+“The authorities have again declined to begin a formal investigations into Gavaris and Rackham, claiming a lack of evidence. How many more casualties must occur before this conflict is taken seriously?”

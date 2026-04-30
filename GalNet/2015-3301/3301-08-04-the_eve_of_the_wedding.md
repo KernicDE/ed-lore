@@ -1,0 +1,20 @@
+---
+uuid: 4924b50c-a75f-5788-bdba-6183fc5ce6f2
+title: The Eve of the Wedding
+slug: the_eve_of_the_wedding
+ed_date: '3301-08-04'
+lang: en
+source: GitHub
+---
+
+* The Eve of the Wedding
+
+/04 Aug 3301/
+
+The Eve of the Wedding 
+ 
+The atmosphere here on Capitol is electric. The whole city is abuzz with what some commentators have declared ‘The Wedding of the Century’. Street parties are in full swing in every Imperial system , but none compare to the grand events underway here at the birthplace of the Empire, especially within the Fragrant City as it is now known. 
+
+Dignitaries from every major population centre in the Empire have arrived over the past week, and now it is the turn of the foreign dignitaries to arrive with much fanfare. Shadow President Winters is representing the Federation, her business-like attire contrasting with the bright colours of the welcoming officials. 
+
+Notable by his absence was Federal President Zachary Hudson. While the Secretary of External Affairs will represent the Federation at the wedding , many have interpreted President Hudson’s absence as a slight – one that may well colour Federal and Imperial relations in the future.

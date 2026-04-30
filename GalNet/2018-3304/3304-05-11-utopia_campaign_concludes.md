@@ -1,0 +1,20 @@
+---
+uuid: d20c7f2c-2229-5299-9a85-fd34ea293dbf
+title: Utopia Campaign Concludes
+slug: utopia_campaign_concludes
+ed_date: '3304-05-11'
+lang: en
+source: GitHub
+---
+
+* Utopia Campaign Concludes
+
+/11 May 3304/
+
+The Utopia campaign to construct a military installation in its home system has now concluded. Many traders delivered a huge quantity of construction material to Bobko City, which will be used to build defences for the Sim-Archive. Other independent pilots protected the operation by eliminating pirate vessels. 
+
+Utopia’s spokesperson, Dr Leigh Constantinides, expressed her gratitude: 
+
+“On behalf of Utopia, I would like to thank everyone who worked so hard to support this project. We hope that this will safeguard the Sim-Archive for the benefit of all our descendants.” 
+
+Pilots who contributed to the initiative can now collect their rewards from Bobko City in the Narri system.

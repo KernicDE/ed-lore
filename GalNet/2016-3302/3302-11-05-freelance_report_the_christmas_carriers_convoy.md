@@ -1,0 +1,24 @@
+---
+uuid: d5c22e7b-2793-5899-8010-03da70b5c789
+title: Freelance Report  The Christmas Carriers Convoy
+slug: freelance_report_the_christmas_carriers_convoy
+ed_date: '3302-11-05'
+lang: en
+source: GitHub
+---
+
+* Freelance Report: The Christmas Carriers Convoy
+
+/05 Nov 3302/
+
+The Colonia Citizens Network has invited the galactic community to support Colonia by delivering much-needed food and equipment to the region and by transporting new settlers, as part of what is set to be one of the largest freight convoys in human history. 
+
+The Christmas Carriers Convoy will depart on the 2nd of December 3302, stopping at each outpost on the so-called Colonia highway, and arrive in Colonia in the first week of January. So far, nearly 150 pilots have signed up. 
+
+The Earth Defense Fleet, the 9th Legion, the Iridium Wing, SEPP and the Prismatic Imperium have all pledged pilots to protect the freighters for the duration of the trip. 
+
+Dalilah William, a citizen of Colonia Hub, said: 
+
+"We need more of the essentials that those in the core systems take for granted, which is why we're calling on traders and haulers to join the Christmas Carriers Convoy, and appealing to combat pilots to protect them." 
+
+Souvarine

@@ -1,0 +1,22 @@
+---
+uuid: 1dc55212-1311-5a49-95bc-084ad66ef884
+title: Cartel Leader Exposes New Narcotic Menace
+slug: cartel_leader_exposes_new_narcotic_menace
+ed_date: '3305-07-11'
+lang: en
+source: GitHub
+---
+
+* Cartel Leader Exposes New Narcotic Menace
+
+/11 Jul 3305/
+
+Jan Sandoval, a founder of the Red Family cartel, has revealed why she surrendered to the Federal Intelligence Agency. 
+
+According to Executive Agent Viola Trask, Sandoval has provided proof that the Red Family has developed a new designer narcotic, genetically engineered to be far more addictive than all other substances traded on the black market. 
+
+“It’s clear that such a narcotic would ruin billions of lives throughout Federal space,” said Trask. “Sandoval sees herself as a businesswoman, not a mass murderer. Such an operation is incompatible with her principles.” 
+
+“Sandoval also explained that she failed to prevent cartel kingpin Oberon Church from manufacturing the new product, leaving her with no choice but to request help from the proper authorities. For this, I commend her.” 
+
+“Using additional details contained within this testimony, FIA field agents are already engaged in disrupting Red Family operations. We are confident that we can finally bring down this notorious criminal empire.”

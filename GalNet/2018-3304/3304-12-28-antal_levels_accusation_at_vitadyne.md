@@ -1,0 +1,22 @@
+---
+uuid: 79d31e82-72c0-55c6-a4aa-acb8830314f8
+title: Antal Levels Accusation at Vitadyne
+slug: antal_levels_accusation_at_vitadyne
+ed_date: '3304-12-28'
+lang: en
+source: GitHub
+---
+
+* Antal Levels Accusation at Vitadyne
+
+/28 Dec 3304/
+
+Simguru Pranav Antal, leader of Utopia, has made a statement regarding the new nanomedicines developed by Vitadyne Labs: 
+
+“The nanomedicines that Professor Katrien Rook claims to have created were in fact developed in Utopia, and have been in use for decades.” 
+
+“Several months ago, a medical transport disappeared after departing from the Polevnic system. Our assumption is that the ship was attacked and its cargo stolen. Evidently, Professor Rook acquired Utopian technology and is now passing it off as her own creation.” 
+
+“These nanomedicines were never intended for use outside of Utopia. Such sophisticated materials can only be controlled by Utopian engineers. We demand that our property be returned to us immediately.” 
+
+There has been no response from Vitadyne Labs. The Interstellar Health Organisation has said that it will investigate Pranav Antal’s accusation.

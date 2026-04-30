@@ -1,0 +1,24 @@
+---
+uuid: 38a4203b-497e-5c23-9b87-f09bc128c5a6
+title: Starport Saved from Destruction
+slug: starport_saved_from_destruction
+ed_date: '3305-04-04'
+lang: en
+source: GitHub
+---
+
+* Starport Saved from Destruction
+
+/04 Apr 3305/
+
+The Children of Tothos cult has been prevented from detonating a nuclear weapon intended to destroy Archambault Terminal. 
+
+Crime correspondent for the Federal Times, Ethan Takahashi, delivered this special report: 
+
+“Terror struck the starport when cult leader Barnabas Cole announced the final ceremony to summon their deity, Tothos, by sacrificing millions of people.” 
+
+“As Cole prepared to activate the Lucifer Device he was shot dead by one of his followers, who subsequently revealed herself as Senior Agent Rochelle Karim. Other Federal Intelligence Agency operatives moved to arrest Cole’s acolytes and secure the control deck.” 
+
+“We’ve since learned that Karim’s unit was posing as Tothos worshippers eager to join the cult. They had staged the death of a team member to receive access to the starport.” 
+
+“The Lucifer Device has now been disarmed and secured, while station services are returning to normal.”

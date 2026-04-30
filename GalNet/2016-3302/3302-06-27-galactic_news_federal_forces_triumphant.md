@@ -1,0 +1,18 @@
+---
+uuid: 09bf3dd7-15ce-52b5-86e7-9196197b072c
+title: Galactic News  Federal Forces Triumphant
+slug: galactic_news_federal_forces_triumphant
+ed_date: '3302-06-27'
+lang: en
+source: GitHub
+---
+
+* Galactic News: Federal Forces Triumphant
+
+/27 Jun 3302/
+
+Following three days of conflict, the Independents of Daramo have confirmed that the Federation has successfully resisted the Imperial offensive in the Daramo system. In the wake of the victory, Admiral Yorke of the Federal Navy extended his gratitude to the many pilots who supported the Federation, and added: 
+
+"Hopefully this episode will remind our enemies that they cannot simply take whatever they want. It was not so long ago that the Empire was nothing more than a gaggle of clueless colonists on Achenar 6d, while the Federation controlled over a thousand systems. The Empire should remember where it came from." 
+
+Territorial disputes between the Federation and the Empire are not uncommon, but the strength of Admiral Yorke's words, and in particular the use of "enemies", will no doubt trigger considerable debate on the current state Federation-Empire relationship.

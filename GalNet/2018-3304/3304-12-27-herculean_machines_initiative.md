@@ -1,0 +1,24 @@
+---
+uuid: 33ed0f71-7b49-5f6f-89eb-57bf7adef8d2
+title: Herculean Machines Initiative
+slug: herculean_machines_initiative
+ed_date: '3304-12-27'
+lang: en
+source: GitHub
+---
+
+* Herculean Machines Initiative
+
+/27 Dec 3304/
+
+The Federal Navy has requested a large shipment of Duradrive personal computers from manufacturer Herculean Machines. 
+
+Maddox Hurd, the company’s CEO, made this announcement: 
+
+“It’s a testament to the Duradrive’s reliability that the Federal Navy wants to make it standard issue, and we are proud to supply them.” 
+
+“Fulfilling this order on time requires additional materials, however, so we urgently need deliveries of consumer technology, hardware diagnostic sensors and computer components to Boltzmann Hub in the Blatrimpe system.” 
+
+“The campaign is being coordinated by our partner, the Blatrimpe Allied Co Commodities, which has placed a kill order on all wanted ships to keep traders safe. I haven’t ruled out the possibility that our rivals might recruit agitators to disrupt this operation – who knows what Scorpio DeVorrow is up to these days?” 
+
+The initiative begins on the 27th of December 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

@@ -1,0 +1,22 @@
+---
+uuid: 546fef3e-8f58-58a7-ad5f-5c7bae7f1045
+title: The Biggest Party of 3304
+slug: the_biggest_party_of_3304
+ed_date: '3304-04-27'
+lang: en
+source: GitHub
+---
+
+* The Biggest Party of 3304
+
+/27 Apr 3304/
+
+The Vadimo Patrons of Law, an Imperial organisation based in Vadimo, has announced plans to host an elaborate soirée in the Vadimo system. 
+
+A spokesperson for the organisation elaborated on the nature of the event: 
+
+“Let’s be honest, things aren’t great at the moment. We’ve got aggressive aliens on the doorstep and no one seems entirely sure what to do about it. So we thought – why not throw a big party? Give the people of Vadimo a chance to forget about their worries for a night. We want this to be the best party the system has ever seen. Or at least the best one of 3304.” 
+
+To ensure that the event is a success, Vadimo Patrons of Law has placed an open order for a range of commodities, and has promised to reward pilots who deliver these goods to Sikorsky Station. The organisation has also placed a kill order on all ships on its wanted list, to guarantee that those delivering commodities to Sikorsky Station can do so safely. 
+
+The campaign begins on the 26th of April 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

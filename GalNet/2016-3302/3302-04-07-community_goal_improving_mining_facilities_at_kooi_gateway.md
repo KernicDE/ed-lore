@@ -1,0 +1,22 @@
+---
+uuid: 17cf84da-8b3f-5aa3-bb53-59b1b6ab8682
+title: Community Goal  Improving Mining Facilities at Kooi Gateway
+slug: community_goal_improving_mining_facilities_at_kooi_gateway
+ed_date: '3302-04-07'
+lang: en
+source: GitHub
+---
+
+* Community Goal: Improving Mining Facilities at Kooi Gateway
+
+/07 Apr 3302/
+
+The Canary Mining Corporation has announced plans to improve mining in the HIP 93377 system by asking independent pilots to deliver mineral extractors to Kooi Gateway, for the development of improved material-processing facilities at the station. 
+
+ A spokesperson for the corporation made the following statement: 
+
+"The new equipment will allow us to efficiently collect, process and store larger quantities of minerals and metals than ever before, as well as offer a wider range of equipment to independent miners working in the system." 
+
+The organisation has promised to reward those who deliver the much-needed equipment to Kooi Gateway in the HIP 93377 system. 
+
+The campaign begins on the 7th of April 3302 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

@@ -1,0 +1,24 @@
+---
+uuid: 662535a6-f967-55f6-bd3e-2d774afb341a
+title: Mars Tribune Linked to Spy Robots
+slug: mars_tribune_linked_to_spy_robots
+ed_date: '3304-10-20'
+lang: en
+source: GitHub
+---
+
+* Mars Tribune Linked to Spy Robots
+
+/20 Oct 3304/
+
+The Federal Security Service has targeted The Mars Tribune as part of its investigation into robots carrying concealed surveillance programs. 
+
+Lieutenant Inspector Ramesh Thorne made this statement: 
+
+“The personal robots of former congressman Morgan Unwin and actor Tomas Turai were found to contain surveillance programs. In recent weeks, both were the subject of incriminating articles published exclusively in The Mars Tribune.” 
+
+“Public-relations guru Anya Blackriver, also the owner of a ‘spy’ robot, was recently exposed by the Tribune for concealing various scandals on behalf of her celebrity clients. In fact, all the owners of affected robots live in the Sol system, which is the focus of the Tribune’s journalism.” 
+
+“We are therefore interviewing Tribune staff to establish if they used these robots to gather private data in order to obtain material for exclusive stories.” 
+
+Legal representatives of the Cordova Group, the conglomerate that owns The Mars Tribune, have challenged the FSS for making ‘libellous and baseless accusations’.

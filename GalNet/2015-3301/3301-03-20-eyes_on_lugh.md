@@ -1,0 +1,20 @@
+---
+uuid: 4c97bd81-a4e4-5a5b-89bf-7dc824c2ce92
+title: Eyes on Lugh
+slug: eyes_on_lugh
+ed_date: '3301-03-20'
+lang: en
+source: GitHub
+---
+
+* Eyes on Lugh
+
+/20 Mar 3301/
+
+Federal forces continue to dominate the skies of Lugh. The Crimson State Group’s air defences have been all but shredded, with the majority of their fleet now adopting a defensive position around Balandin Gateway and Knight Dock. 
+
+Thanks to the actions of a crack troop of Federal Marines, Seega Port was secured with only a handful of soldiers being lost in the process. Federation forces are now working hard to secure Read Gateway for use as a staging post, from which they plan to launch a series of attacks against Crimson State starports. 
+
+Despite millions of lives having already been lost in the conflict, rumours from Lugh suggest that the Crimson State Group is preparing a desperate last-minute attempt to stop the Federation from crushing the native uprising.  
+
+However, in a sign that the local population may be losing faith in the CSG’s ability to secure the system, hundreds of refugee ships have started to flee from Lugh 6 in a bid to escape the Federation’s wrath.

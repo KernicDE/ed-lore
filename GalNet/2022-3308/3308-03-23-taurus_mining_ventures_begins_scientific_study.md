@@ -1,0 +1,16 @@
+---
+uuid: 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
+title: Taurus Mining Ventures Begins Scientific Study
+slug: taurus_mining_ventures_begins_scientific_study
+ed_date: '3308-03-23'
+lang: en
+source: API
+---
+
+The megaships Musashi and Heart of Taurus have entered the Synuefe CE-R c21-6 system to perform a mining-related research operation.
+Taurus Mining Ventures is an independent mining corporation closely associated with Salvation. It has acted as his intermediary in recent months, directly supporting his efforts to combat the Thargoids.
+Dr Ruben Carpenter, head of the company’s research division, provided a statement:
+“We have recorded some unusual radioactive signatures in the Synuefe CE-R c21-6 system. This has had a transformative effect on the molecular structure of certain naturally occurring substances.”
+“Our objective is to perform a detailed analysis of these irradiated materials and determine if they have value as mineable resources. Customised laboratories have been set up aboard both megaships, and work is already underway.”
+The Empirical, an independent journal aimed at the scientific community, commented:
+“As yet, the detection of atypical radiation signatures within CE-R c21-6 has not been verified by secondary sources. Our editorial team has reached out to Taurus Mining Ventures for clarification.”

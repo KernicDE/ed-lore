@@ -1,0 +1,20 @@
+---
+uuid: b274a44b-643a-5cdf-94ae-5b664521d5fd
+title: Simbad Regime Campaign Concludes
+slug: simbad_regime_campaign_concludes
+ed_date: '3304-01-26'
+lang: en
+source: GitHub
+---
+
+* Simbad Regime Campaign Concludes
+
+/26 Jan 3304/
+
+A spokesperson for the Simbad Regime has announced that its appeal for construction materials has been enthusiastically received by the galactic community. This has resulted in a massive influx of deliveries to Parmitano Terminal, the organisation’s base of operations. 
+
+The spokesperson went on to say: 
+
+“The Simbad Regime would like to thank all the Commanders who supported this project, and to invite the galactic community to visit our new base, once it is complete.” 
+
+Pilots who contributed to the initiative can now collect their rewards from Parmitano Terminal in the Nu Tauri system.

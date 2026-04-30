@@ -1,0 +1,18 @@
+---
+uuid: 8bdbc53a-3502-5e7e-8220-9ae0435a8bfe
+title: Increased Security on Capitol
+slug: increased_security_on_capitol
+ed_date: '3301-10-09'
+lang: en
+source: GitHub
+---
+
+* Increased Security on Capitol
+
+/09 Oct 3301/
+
+With Emperor's Dawn threatening to sabotage the Imperial coronation ceremony, and the Emperor's assassination still casting a pall over the city, security for the ceremony has been drastically increased. Naval infantry, local police and Imperial Guard units are already patrolling the streets of Capitol and conducting security checks. One Navy contact revealed that this was likely to be one of the largest deployments of Naval troops in decades. 
+
+The population has responded positively to the increased security measures, with many locals claiming they would accept any level of protection to prevent another occurrence like the murder of the Emperor. 
+
+The security extends beyond Capitol's surface, and in contrast to the Emperor's funeral, only invited guests or those with the appropriate permits will be allowed to enter the Achenar system. This has upset some offworld citizens who wanted to witness the procession first hand, but like the people of Capitol they have demonstrated understanding.

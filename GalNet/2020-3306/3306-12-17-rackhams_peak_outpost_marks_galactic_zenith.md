@@ -1,0 +1,16 @@
+---
+uuid: 09a1615f-e58a-5a91-9d2e-71b9a4edfbe2
+title: 'Rackham’s Peak Outpost Marks Galactic Zenith '
+slug: rackhams_peak_outpost_marks_galactic_zenith
+ed_date: '3306-12-17'
+lang: en
+source: API
+---
+
+*Pilots Federation ALERT*
+Multi-billionaire Zachary Rackham’s new orbital outpost at the galactic zenith is now operational.
+Rackham’s Peak is situated in the HIP 58832 system, one of the highest practical locations above the galactic plane. Its construction was funded by Rackham Capital Investments, in conjunction with Universal Cartographics and other scientific research companies.
+Traders have been welcomed, although the increased distances between stars at the galaxy’s fringes mean that vessels with a high jump range are recommended. Rackham’s Peak is currently offering high prices for deliveries of beer, liquor, wine, Bast Snake Gin, Centauri Mega Gin, Chateau De Aegaeon, Eranin Pearl Whisky, Gerasian Gueuze Beer, Harma Silver Sea Rum, Indi Bourbon, Kongga Ale, Lavian Brandy, Leestian Evil Juice, Saxon Wine, Thrutis Cream and Wuthielo Ku Froth.
+Mr Rackham officiated at the outpost’s opening ceremony, which was followed by an extravagant press party for media representatives and attending celebrities. He gave this statement:
+“The top of the galaxy is now open for business! Rackham’s Peak is a free port where everyone is welcome, a place where explorers and entrepreneurs can enjoy drinks while overlooking the entire Milky Way. Aim high, Commanders!”
+In related news, Rackham Capital Investments has agreed to pay a repairs bill from Universal Cartographics for the outpost’s sensor array control systems, which suffered fluid-related damage during the party.

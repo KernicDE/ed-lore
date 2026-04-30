@@ -1,0 +1,16 @@
+---
+uuid: fba3c0e5-795f-56f8-bad3-8e119c36de4a
+title: Thargoid Research Project Phase One Completed
+slug: thargoid_research_project_phase_one_completed
+ed_date: '3308-05-12'
+lang: en
+source: API
+---
+
+*Pilots’ Federation ALERT*
+Professor Ishmael Palin has received multiple shipments of Thargoid meta-alloys for xenological study.
+From Abel Laboratory, his workshop in the Arque system, Professor Palin made the following announcement:
+“I am deeply grateful to all those who collected meta-alloys from barnacle sites. Analysing these samples will help us learn more about the biomechanical technology currently employed by the Thargoid fleets.”
+“I am planning the second phase of this project, which has the combined assistance of the Alliance, Empire and Federation. Despite the horror of the recent attacks, we must seize every chance to increase our scientific knowledge.”
+Professor Palin has authorised payment for all pilots who took part in the initiative. This includes awarding class 4A, 5A and 6A corrosion resistant cargo racks to those who made the greatest contributions. 
+The rewards can be collected at the starport James Sneddon in the Morten-Marte system. In addition, the Federal Reclamation Co will continue to offer high prices for Thargoid tissue samples sold via the station’s market.

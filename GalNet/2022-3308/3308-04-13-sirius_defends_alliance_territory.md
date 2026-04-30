@@ -1,0 +1,16 @@
+---
+uuid: 71ef5edb-acbd-5323-bdfa-880cbbf2c504
+title: Sirius Defends Alliance Territory
+slug: sirius_defends_alliance_territory
+ed_date: '3308-04-13'
+lang: en
+source: API
+---
+
+*Pilots’ Federation ALERT*
+Sirius Corporation megaships will soon arrive in the Coalsack and Witch Head Nebulas to provide anti-xeno support.
+The three vessels are intended as a demonstration of Sirius Corporation’s military capabilities, prior to the strategic defence pact being ratified by the Alliance Assembly.
+A public statement was provided by Admiral Nikolas Glass, the Sirius Navy representative on the Alliance Council of Admirals:
+“The Coalsack Nebula and Witch Head Nebula regions are where Alliance interests are most at risk from Thargoid attack. From tomorrow, our megaships will serve as bases from which anti-xeno operations can be conducted.”
+“All ships in the area are invited to make use of the Song of Mecchi in the Coalsack Sector Vu-O B6-6 system, the Kandula's Truth in the Siniang system, and the Li Chyou Winds in the Onoros system.”
+“As a further gesture of our dedication to protecting the Alliance, these megaships will offer a unique pre-engineered heat sink module. We trust that this will prove especially useful to those brave pilots who face the Thargoids in combat.”

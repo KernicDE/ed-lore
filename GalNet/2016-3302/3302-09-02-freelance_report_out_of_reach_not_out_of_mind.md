@@ -1,0 +1,22 @@
+---
+uuid: 74f9ab0c-74c1-55ff-a5e7-6c1facb340dd
+title: Freelance Report  Out of Reach, Not Out of Mind
+slug: freelance_report_out_of_reach_not_out_of_mind
+ed_date: '3302-09-02'
+lang: en
+source: GitHub
+---
+
+* Freelance Report: Out of Reach, Not Out of Mind
+
+/02 Sep 3302/
+
+Following recent reports of a possible alien wreck in the Pleiades, the Canonn Interstellar Research Group has released further information about the Unknown Probe. 
+
+Shortly after planetary data was found in the Probe's tight-beam transmission, a message was sent to the Canonn from a pilot by the name of Commander Wace. It read: "The headerless octal number - it is distance compared to Merope!" 
+
+A list of data followed, obtained by monitoring the Unknown Probe in different systems. The octal number was shown to steadily decrease as Commander Wace neared the permit-locked Col 70 Sector. 
+
+In an impressive display of field mathematics, Commander Wace pin-pointed the Col 70 Sector FY-N C21-3 system as the Probe's 'zero point'. Unfortunately, the Canonn is prevented from further investigation of the system by the permit lock of the Col 70 Sector. 
+
+Commander Han Zen

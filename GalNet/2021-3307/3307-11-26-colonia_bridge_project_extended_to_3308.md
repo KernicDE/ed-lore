@@ -1,0 +1,16 @@
+---
+uuid: 3526e0a2-8066-57b9-9a91-4acfc80d23e9
+title: Colonia Bridge Project Extended to 3308
+slug: colonia_bridge_project_extended_to_3308
+ed_date: '3307-11-26'
+lang: en
+source: API
+---
+
+*Pilots’ Federation ALERT*
+The second phase of the Colonia Bridge project is complete, with Brewer Corporation confirming details for phase three.
+An additional 26 megaships have taken up stationary positions in systems between Alcor and Colonia. Along with the existing 30 megaships, these will provide convenient rest, refuel and repair facilities to those travelling to and from the distant Colonia region.
+A press release from Brewer Corporation addressed the next steps:
+“The galactic community has made enormous contributions to establishing the Colonia Bridge. Encouraged by this, we have revised our plans and increased investment in the project.”
+“The next phase is scheduled to commence on the 6th of January 3308, and will add starports to key locations along the route. These will provide further services and opportunities to pilots, as well as forming permanent micro-communities between the core systems and Colonia.”
+“Phase three will also address the availability of tritium, to improve refuelling capacity for owners of our Drake-class fleet carriers. To incentivise the delivery of vital materials, we will be offering the same engineered frame shift drives that proved so popular during phase two.”

@@ -1,0 +1,22 @@
+---
+uuid: acf7c88b-56f9-5317-ba83-b2ed5098a228
+title: Mystery of Missing Crew Sparks Rumours
+slug: mystery_of_missing_crew_sparks_rumours
+ed_date: '3305-01-19'
+lang: en
+source: GitHub
+---
+
+* Mystery of Missing Crew Sparks Rumours
+
+/19 Jan 3305/
+
+The disappearance of famous actor Consuela Knight and the crew of her luxury yacht has sparked a flood of rumours. 
+
+Independent reporter Flint ‘Firemaker’ Lafosse discussed the mystery on the Rewired news feed: 
+
+“The scientists say this might be an anomaly that only affects organic tissue. But that doesn’t explain the discovery of Consuela Knight’s half-eaten meal, does it?”  
+
+“Others think it could be a new Thargoid weapon that disintegrates humans while leaving ships intact. Or maybe the cultists were right, and the Far God has started snacking on individuals before it arrives to eat the whole universe.” 
+
+“For all we know, this has been happening to ships for years. Maybe it usually gets hushed up, which is harder to do when a big-name celebrity vanishes. Which of us might be next? Think about that next time you jump into hyperspace…”

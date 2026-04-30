@@ -1,0 +1,26 @@
+---
+uuid: db332136-804c-58df-89f9-2ab0eef65d11
+title: Connection to Sirius Corp Uncovered
+slug: connection_to_sirius_corp_uncovered
+ed_date: '3304-11-16'
+lang: en
+source: GitHub
+---
+
+* Connection to Sirius Corp Uncovered
+
+/16 Nov 3304/
+
+A link has been established between the mercenary group recently intercepted in the Meene system and the Sirius Corporation. 
+
+Security Chief Harper Vargas of the Meene Defence Force said: 
+
+“With the vital assistance of the galactic community, we were able to apprehend several of the mercenaries. Interrogations revealed that a number of them were in fact junior officers in Sirius Corp’s private fleet.” 
+
+“Other mercenaries confirmed that the attack was funded and organised by these individuals, which raises the question of why Sirius should be involved with this criminal enterprise.” 
+
+The engineer Ram Tah, who operates from Phoenix Base in the Meene system, commented: 
+
+“Did Sirius really think it could obtain my research by force? Or was this an attempt to scare me into accepting Li Yong-Rui’s offer?” 
+
+A spokesperson for the Sirius Corporation refuted any allegations of criminal activity, and insisted there would be a full inquiry.

@@ -1,0 +1,28 @@
+---
+uuid: dc4fc106-846e-575a-b6f4-a6d08e353ec1
+title: Rockforth Corporation Sales Spike
+slug: rockforth_corporation_sales_spike
+ed_date: '3305-09-27'
+lang: en
+source: GitHub
+---
+
+* Rockforth Corporation Sales Spike
+
+/27 Sep 3305/
+
+Share prices in the Rockforth Corporation have risen following the success of its latest fertiliser.  
+
+With key agricultural systems reporting crop failures over the past few weeks, the mega-corporation has capitalised on farmers’ demands for new treatments. Sales of Rockforth’s fertiliser have beaten expectations, with multiple systems importing large quantities of stock. 
+
+Rockforth marketing director Rex Whitlock provided this statement: 
+
+“I believe that our long-standing dedication to quality has played no small part in the success of this product. Since its inception, the Rockforth Corporation has represented the cutting edge of agricultural technology.”   
+
+“Hard-working farmers facing this challenge require our support, and we have pledged to meet their needs. I am confident that the EX7 fertiliser will help to mitigate any further losses.” 
+
+Meanwhile, Dr Genevieve Kane of the Interstellar Association for Agriculture has repeated calls for distribution restrictions.  
+
+“Our compliance department has been in regular communication with Rockforth representatives, but we have yet to receive the requested documentation.”  
+
+“Sometimes these matters take longer than expected, of course. Until the request has been fulfilled, however, we again urge caution in the trade of Rockforth’s latest commodity.”

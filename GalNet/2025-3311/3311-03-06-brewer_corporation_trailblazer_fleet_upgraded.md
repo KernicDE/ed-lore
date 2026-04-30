@@ -1,0 +1,15 @@
+---
+uuid: e8bdc445-58aa-5aca-b3ab-9f1705da44d3
+title: Brewer Corporation Trailblazer Fleet Upgraded
+slug: brewer_corporation_trailblazer_fleet_upgraded
+ed_date: '3311-03-06'
+lang: en
+source: API
+---
+
+The campaign to update Brewer Corporation’s Trailblazer fleet has concluded in the Minerva system.
+Thanks to the efforts of independent pilots ferrying shipments to Minerva, a total of 5 additional Trailblazer megaships will be placed in strategic locations on the fringes of the core systems, providing a hub of tradable materials and services for early colonies.
+Brewer COO Mark Rennik remarked on the campaign’s success:
+“Once again, we have received widespread support and confirmation of our efforts, which is both humbling and inspiring. It is obvious that there is great appetite for breaching the latest frontier to establish new colonies, further expanding humanity’s sphere of influence in our section of the galaxy.”
+The Trailblazer megaships are expected to be deployed in the coming weeks. 
+Participants can now collect their rewards from the initiative.

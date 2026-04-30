@@ -1,0 +1,14 @@
+---
+uuid: 1a9ea3a2-4fff-584f-a67b-69d3588bfa7d
+title: Aegis Investigated After Megaship Loss
+slug: aegis_investigated_after_megaship_loss
+ed_date: '3307-07-27'
+lang: en
+source: API
+---
+
+The superpowers have partly suspended Aegis and authorised an inquiry into the Alexandria megaship, which disappeared in hyperspace.
+Freelance journalist Alexei Keel reported on this development for Vox Galactica:
+“Public opinion regarding Aegis has always been chequered, but its founding governments insisted that it played a vital defensive role against the Thargoids. The tragic loss of the Alexandria, carrying thousands of crewmembers and valuable Guardian artefacts, has now raised questions about the organisation’s competence.”
+“The Alliance, Empire and Federation have jointly ordered an independent inquiry to determine the facts about the Alexandria. Many Aegis operations were shut down, and detailed investigations have begun. Professor Alba Tesreau and other senior members have already been forced to resign.”
+“Part of the reason for such scrutiny is the emergence of the anonymous ‘Salvation’, who many view as running an alternative anti-xeno effort. Some security agencies suspect him to be the leader of an Aegis splinter group, composed of rogue agents and stolen resources.”

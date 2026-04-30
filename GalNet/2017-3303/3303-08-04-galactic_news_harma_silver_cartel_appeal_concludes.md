@@ -1,0 +1,22 @@
+---
+uuid: e0e036bb-ed6c-57b0-8632-2b1d2ca524fc
+title: Galactic News  Harma Silver Cartel Appeal Concludes
+slug: galactic_news_harma_silver_cartel_appeal_concludes
+ed_date: '3303-08-04'
+lang: en
+source: GitHub
+---
+
+* Galactic News: Harma Silver Cartel Appeal Concludes
+
+/04 Aug 3303/
+
+A spokesperson for the Harma Silver Cartel has announced that its appeal for rare alcohols has reached a successful conclusion. Hundreds of pilots supported the campaign by delivering rare alcohols and eliminating agitators so traders could reach Gabriel Enterprise safely. 
+
+The campaign’s success has already had a positive impact on Harma, as evidenced by the hundreds of pilots celebrating in bars throughout the system. 
+
+As the initiative drew to a close, the Cartel released a brief statement: 
+
+“To the galaxy’s independent pilots, we say this: the finest rum is waiting for you in Harma.” 
+
+Pilots who supported the campaign can now collect their rewards from Gabriel Enterprise in the Harma system.

@@ -1,0 +1,17 @@
+---
+uuid: 06496fae-10e3-51d0-8cf1-f693daaf81d0
+title: Explorers Needed for Ammonia World Survey
+slug: explorers_needed_for_ammonia_world_survey
+ed_date: '3309-03-02'
+lang: en
+source: API
+---
+
+*Pilots’ Federation ALERT*
+Universal Cartographics has announced a two-week initiative to locate planets with ammonia atmospheres.
+The survey was outlined by Cynthia Sideris, chairperson of Universal Cartographics:
+“Aegis has urgently requested an update to our database of terrestrial planets with ammonia atmospheres. It is no coincidence that each Maelstrom is located in a system containing such worlds, given that Thargoid biochemistry is ammonia-based.”
+“We are therefore liaising with Aegis to chart as many ammonia worlds as possible. As well as contributing to xenological research, our intent is to identify potential staging grounds for Thargoid fleets and arrival points for additional Maelstroms.”
+“Over the next two weeks, pilots can obtain increased payouts for delivering cartographic survey data to Angus Manwaring starport in the Eta Cassiopeiae system. Only ammonia world data will be recognised for the purpose of the survey campaign, however, with detailed surface scans particularly appreciated.”
+As an incentive for participation, general cartographic data payouts will be multiplied for a further period if the initiative is successful. The multiplier will depend on the campaign tier achieved.
+The most recent survey of this kind took place in 3306, when Sirius Atmospherics claimed to be developing a method of terraforming ammonia worlds for human habitation. Dr Maximilian North has since stated that the project is on hold following “practical obstacles impacting our ecosphere conversion theories”.

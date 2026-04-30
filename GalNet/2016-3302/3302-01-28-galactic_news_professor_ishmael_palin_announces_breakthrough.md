@@ -1,0 +1,22 @@
+---
+uuid: 06fd195c-2843-548f-8152-7f60d7c4e12b
+title: Galactic News  Professor Ishmael Palin Announces Breakthrough
+slug: galactic_news_professor_ishmael_palin_announces_breakthrough
+ed_date: '3302-01-28'
+lang: en
+source: GitHub
+---
+
+* Galactic News: Professor Ishmael Palin Announces Breakthrough
+
+/28 Jan 3302/
+
+Professor Ishmael Palin has announced that his request for meta-alloys has been enthusiastically received by the galactic community, resulting in a massive influx of deliveries to his research base at Obsidian Orbital. In a statement, the Professor expressed his satisfaction at the response, and also shared news of a dramatic breakthrough in his research into the Unknown Artefacts: 
+
+"For much of the past week I have been investigating the ongoing technical issues at Obsidian Orbital, and I can now confirm what many of us have long suspected: the Unknown Artefacts are most definitely the cause." 
+
+"Apparently the objects have the ability to repair themselves – to re-grow, even – by extracting the necessary non-organic materials from their immediate environment. It really is quite remarkable. That's why they harm ships and other machinery – if they are damaged when they're scooped up, they use the metals in a ship's hull, or a starport's superstructure, to repair themselves. Even minor damage will trigger the self-repair mechanism." 
+
+"What is still not clear is if the meta-alloys can be used to counter this harmful process. That is what my team and I will be investigating over the coming weeks, using the research sample provided by the galactic community. As soon as we have something concrete to share with the public, we will do so." 
+
+This remarkable announcement represents a significant development in UA research, but it leaves the wider questions of the objects' origin and purpose unanswered.

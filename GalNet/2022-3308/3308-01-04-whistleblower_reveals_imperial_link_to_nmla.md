@@ -1,0 +1,15 @@
+---
+uuid: 00d01961-877a-52b8-a4ce-337aaa44ae3f
+title: Whistleblower Reveals Imperial Link to NMLA
+slug: whistleblower_reveals_imperial_link_to_nmla
+ed_date: '3308-01-04'
+lang: en
+source: API
+---
+
+A potential connection between the NMLA’s dark-comms network and Imperial Intelligence has been made public by one of ACT’s co-leaders.
+Captain Saskia Landau sent a personal statement to all major media outlets:
+“The majority of my career has been with the Imperial Internal Security Service, but I was seconded for a year to a classified project run by Imperial Intelligence. To coordinate their operations, they use a sophisticated communications system known as the Omega Grid. This is designed to avoid detection or interception by enemies of the Empire.”
+“I have reviewed ACT’s research into the NMLA’s dark-comms network and can verify its similarity to Omega Grid technology. Since this is exclusively under Imperial Intelligence’s control, it suggests that an individual or group within the organisation was making it available to the NMLA.”
+“I’m aware that revealing this information publicly may end my career or even endanger my life. Nevertheless, I have shared my findings with ACT’s leadership, and call upon the Imperial Senate to open an independent investigation into this evidence.”
+As yet there has been no response from Imperial Intelligence or the Senate. However, several agents of the IISS have anonymously spoken to reporters from The Imperial Herald, verifying that the Omega Grid system does exist and has been in use for many years.

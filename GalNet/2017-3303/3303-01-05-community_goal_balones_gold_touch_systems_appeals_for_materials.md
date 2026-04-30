@@ -1,0 +1,24 @@
+---
+uuid: 10afaa7d-925e-5db8-9adb-b56704c55a5e
+title: Community Goal  Balones Gold Touch Systems Appeals for Materials
+slug: community_goal_balones_gold_touch_systems_appeals_for_materials
+ed_date: '3303-01-05'
+lang: en
+source: GitHub
+---
+
+* Community Goal: Balones Gold Touch Systems Appeals for Materials
+
+/05 Jan 3303/
+
+Balones Gold Touch Systems has placed an open order for materials for use in a forthcoming project. A bulletin from the organisation confirms that pilots who deliver mined osmium, praseodymium and methanol monohydrate crystals to Tiedemann Dock in the Balones system will be generously rewarded. 
+
+A spokesperson for the organisation elaborated on the nature of the project: 
+
+"The purpose of this programme is to develop a number of advanced deep-space probes – ones that will reveal more about what lies beyond the borders of our galaxy." 
+
+"We at Balones Gold Touch Systems believe galactic civilisation is on the cusp of a paradigm shift. The alien shipwrecks and the Synuefe ruins leave no room for doubt: we are not alone in the universe." 
+
+"Knowledge is the currency of the future. Not money. Not weapons. Knowledge. And how best to acquire this knowledge? With the instruments that Balones Gold Touch Systems is developing." 
+
+The campaign begins on the 5th of January 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

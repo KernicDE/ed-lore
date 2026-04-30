@@ -1,0 +1,15 @@
+---
+uuid: 8c3f779b-645d-53f0-84b7-e12527dc0144
+title: 'Mahon: Sirius Treaty Would Save Aegis'
+slug: mahon_sirius_treaty_would_save_aegis
+ed_date: '3307-09-07'
+lang: en
+source: API
+---
+
+Prime Minister Edmund Mahon has commented on the Aegis inquiry and his failed proposal to unify anti-xeno operations.
+As part of an interview with The Alliance Tribune, he said:
+“The greatest regret of my career is that I was unable to formalise the Sirius Treaty at the Galactic Summit. This would have revolutionised Aegis by providing the commitment and resources it deserves, sparing it the indignity of a public inquiry.”
+“The Nine Martyrs attacks prevented that historic occasion, of course, but the Sirius Treaty itself remains viable. I’d be happy to ratify it on behalf of the Alliance if we can convince the other signatories that defending humanity from the Thargoid threat should be our utmost priority.”
+Investigators continue to gather information regarding Aegis’s operations. There have been further resignations of key staff, and financial records are being independently audited.
+Dr Paul Baumann, chair of the board of inquiry, confirmed that charges of criminal negligence could be brought against key figures within Aegis given sufficient evidence. However, there is uncertainty as to which court would deal with legal proceedings for a tri-superpower organisation.

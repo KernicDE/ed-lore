@@ -1,0 +1,20 @@
+---
+uuid: b997725a-f24c-5d2e-b616-3a6e13903719
+title: Freelance Report  Allitnil Shatters Fuel Economy Records
+slug: freelance_report_allitnil_shatters_fuel_economy_records
+ed_date: '3302-12-23'
+lang: en
+source: GitHub
+---
+
+* Freelance Report: Allitnil Shatters Fuel-Economy Records
+
+/23 Dec 3302/
+
+A new record has been set by Commander Allitnil, who successfully travelled from Sol to Jaques Station in Colonia without making any stops...or equipping a fuel scoop. 
+
+The impressive feat took nine days, 5,489 hyperspace jumps and 383 tonnes of hydrogen fuel. Although Commander Allitnil travelled mostly in economic mode, providing regular updates and efficiency calculations, many doubted the trip was possible. But it soon became clear that the amazing efficiency of Allitnil's Anaconda would get him to Jaques with plenty of fuel to spare. 
+
+Rumours have surfaced that Commander Allitnil's next challenge might involve travelling from Sol to Beagle Point, but nothing has yet been confirmed. 
+
+Alexbrentnall

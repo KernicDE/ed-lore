@@ -1,0 +1,24 @@
+---
+uuid: 0a236a04-4b1c-5607-91bf-5706cf1daa78
+title: Robot Exposes Corporate Fraud
+slug: robot_exposes_corporate_fraud
+ed_date: '3304-09-20'
+lang: en
+source: GitHub
+---
+
+* Robot Exposes Corporate Fraud
+
+/20 Sep 3304/
+
+Business magnate Lloyd Hardacre has been arrested for corporate fraud after his personal administrative robot revealed incriminating evidence. 
+
+The incident occurred at Burnell Station during the annual general meeting of Copernicus Shipping Ltd, an interplanetary haulage firm founded by Mr Hardacre.  
+
+One witness, a company shareholder, told reporters: 
+
+“Halfway through Hardacre’s financial presentation, we saw off-the-books logs that were very obviously illegal. Hardacre ordered the robot to stop, but it continued projecting data from its internal drives. Eventually he ran from the hall in panic.” 
+
+Lieutenant Inspector Ramesh Thorne of the Federal Security Service made this statement: 
+
+“We have placed Mr Hardacre in custody while we verify multiple instances of fraud and misuse of company funds. We are also investigating how his personal admin robot managed to obtain such information, and why it chose to make the data public at this time.”

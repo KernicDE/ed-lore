@@ -1,0 +1,15 @@
+---
+uuid: 34e4a763-0bef-5ea7-a31c-23b00dada4b5
+title: New Maelstroms Increase Thargoid Conquests
+slug: new_maelstroms_increase_thargoid_conquests
+ed_date: '3308-12-01'
+lang: en
+source: API
+---
+
+*Pilots’ Federation ALERT*
+Two more rogue signal sources have reached human space, wreaking similar destruction to the Taranis Maelstrom.
+The Indra anomaly arrived in the HIP 20567 system, with the Leigong anomaly slowing to a halt in HIP 8887. The Maelstroms, as these entities have been classified, both manifested as enormous gaseous clouds. These are known to be extremely hazardous to any ship venturing too close, but the nature of what lies within remains unknown.
+As with Taranis, each new Maelstrom pre-empted staggering numbers of Thargoid vessels flooding nearby populated systems. Recent reports indicate that the alien fleets have completely dominated 9 systems in proximity to HIP 20567 and none close to HIP 8887. Starports, settlements and outposts have all been devastated or abandoned, with the total number of casualties unknown but feared considerable.
+A total of 16 systems are currently facing active Thargoid invasions and are transmitting emergency calls for assistance. Rescue megaships have been designated as the gateway destination for refugees. The superpowers have also positioned anti-xeno capital ships to defend Allied, Federal and Imperial territories that have been invaded.
+Public media channels have expressed grave concerns about the remaining rogue signal sources, which are en route to the core systems. It is expected that these will establish five more Maelstroms, each generating a new wave of Thargoid forces. With the combined death toll rapidly climbing, civil and military authorities alike are scrambling to implement a suitable response.

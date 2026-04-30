@@ -1,0 +1,22 @@
+---
+uuid: c480985d-96e0-5c3a-a305-91da4a6ffbbe
+title: Kumo Crew to Target Lavigny Duval
+slug: kumo_crew_to_target_lavigny_duval
+ed_date: '3301-09-11'
+lang: en
+source: GitHub
+---
+
+* Kumo Crew to Target Lavigny-Duval
+
+/11 Sep 3301/
+
+Kumo Crew to Target Lavigny-Duval 
+ 
+Systems under the sway of Arissa Lavigny-Duval have begun expressing discontent at the current political situation in the Empire, and the Kumo Crew is taking the opportunity to cause trouble of their own. 
+
+Leaked military intelligence indicates that hundreds of Kumo Crew fleets will soon descend on Imperial territory in an effort to cultivate further civil unrest. The plan is apparently to force Duval into admitting the foolishness of the Pegasi War by bringing it as close to home as possible. 
+
+Operation Uranus saw the Kumo Crew pirates target worlds under the influence of Senator Denton Patreus, but this is the first time they have been bold enough to strike farther afield. Only time will tell what impact this will have on the Imperial power players. 
+
+Commander Mikalus

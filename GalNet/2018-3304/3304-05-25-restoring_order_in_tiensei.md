@@ -1,0 +1,18 @@
+---
+uuid: f2f08953-c75f-5cd0-9fcf-bc5644c16a6a
+title: Restoring Order in T’iensei
+slug: restoring_order_in_tiensei
+ed_date: '3304-05-25'
+lang: en
+source: GitHub
+---
+
+* Restoring Order in T’iensei
+
+/25 May 3304/
+
+Authorities in the T’iensei system have reported a sharp increase in the number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
+
+To counter this threat, the Autocracy of T’iensei has placed a kill order on all ships on its wanted list, and has promised to reward pilots who deliver bounty vouchers to Dzhanibekov Port. 
+
+The campaign begins on 24th of May 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

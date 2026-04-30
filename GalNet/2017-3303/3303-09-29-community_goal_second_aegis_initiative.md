@@ -1,0 +1,22 @@
+---
+uuid: e74d8914-c369-51e4-b454-1a8ffa294f7b
+title: Community Goal  Second Aegis Initiative
+slug: community_goal_second_aegis_initiative
+ed_date: '3303-09-29'
+lang: en
+source: GitHub
+---
+
+* Community Goal: Second Aegis Initiative
+
+/29 Sep 3303/
+
+Last week, Aegis started developing weapons and technologies to address the rising Thargoid threat. While some were dismayed to see Aegis shift to a military focus, the general consensus was that the move was necessary. 
+
+Following news that Aegis is to embark on a second development initiative, Aegis' military liaison Admiral Aden Tanner released the following statement: 
+
+"The Thargoids represent a very real threat, and their hostility demands that we take appropriate action. As with our previous initiative, our intention is to collaborate with some of the galaxy's foremost engineers to develop efficient anti-Thargoid technologies." 
+
+In support of this aim, Aegis's corporate partners Wolf 397 Independents have pledged to reward pilots who deliver tantalum, Thargoid Cyclops tissue samples and CMM Composites to Chelbin Service Station in the Wolf 397 system. 
+
+The campaign begins on the 28th of September and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

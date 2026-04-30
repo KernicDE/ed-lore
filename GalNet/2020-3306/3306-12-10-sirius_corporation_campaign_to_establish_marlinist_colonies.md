@@ -1,0 +1,19 @@
+---
+uuid: 32ae371b-e2e7-5253-931c-bc9683a45090
+title: Sirius Corporation Campaign to Establish Marlinist Colonies
+slug: sirius_corporation_campaign_to_establish_marlinist_colonies
+ed_date: '3306-12-10'
+lang: en
+source: API
+---
+
+*Pilots Federation ALERT*
+Commodities are requested to create new settlements for Marlinist refugees who fled from the Empire to the Federation.
+Sirius Corporation has offered to resolve the current standoff between superpowers by establishing colonies where the refugees can live independently.
+Li Yong-Rui, CEO of Sirius Corporation, summarised his proposal:
+“It is clear that the Marlinists cannot return to the Empire, and are a destabilising presence within the Federation. We offer an alternative by constructing permanent habitats for their population. These will be self-governed and may freely trade with the galactic community.”
+“Sirius cannot stand by while the risk of interstellar war increases. I sincerely hope this leads to a more stable and profitable period for us all.”
+After intense debate, both Congress and the Senate accepted the proposal, with the proviso that any refugees identified as NMLA members will be returned to the Empire.
+Dr Jenna Fairfax, a Marlinist community leader, also offered her approval:
+“We were forced to abandon our entire lives because of our political beliefs. This at least gives us a chance to have homes again.”
+Traders are asked to deliver atmospheric processors, auto-fabricators, structural regulators and water purifiers to Ellis Gateway in the Bd+05 1146 system. From there, the Omega Merchant Command will distribute resources for the colonisation of up to ten uninhabited systems.

@@ -1,0 +1,22 @@
+---
+uuid: e1421cb3-0c7c-57f0-a55b-7a93b5f624f2
+title: Thargoid Sensor Disruption Neutralised
+slug: thargoid_sensor_disruption_neutralised
+ed_date: '3304-11-29'
+lang: en
+source: GitHub
+---
+
+* Thargoid-Sensor Disruption Neutralised
+
+/29 Nov 3304/
+
+Aegis has announced a breakthrough that has effectively neutralised the disruptive effects of Thargoid Sensors on starports. 
+
+Henrik de Lacerda, a senior engineer at Aegis Research, told the media: 
+
+“As we know, Thargoid Sensors can cripple starports for weeks or months at a time, but recent advancements in our study of meta-alloys have resulted in an effective cure for what was once called ‘the technological plague’.” 
+
+“New procedures in the application of meta-alloys mean that extremely small quantities are now sufficient to shield systems from disruption.” 
+
+“Following this breakthrough, we have made arrangements to ship meta-alloys to all affected stations, to restore them to functionality. It will not be long before every starport in known space is immune to Thargoid Sensor–related interference.”

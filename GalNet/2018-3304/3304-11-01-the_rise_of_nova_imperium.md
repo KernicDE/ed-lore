@@ -1,0 +1,24 @@
+---
+uuid: 979524b2-97e2-53d0-9ad2-1000b7712f1e
+title: The Rise of Nova Imperium
+slug: the_rise_of_nova_imperium
+ed_date: '3304-11-01'
+lang: en
+source: GitHub
+---
+
+* The Rise of Nova Imperium
+
+/01 Nov 3304/
+
+A radical group called Nova Imperium is gaining influence throughout the Empire. 
+
+Imperial Herald journalist Cassia Carvalho highlighted the situation: 
+
+“Nova Imperium claims that to survive the Thargoid conflict, the Empire must sever contact with all other systems and concentrate on protecting itself. In recent months, the organisation has become a genuine political force.” 
+
+“The group’s leader is known only as the Imperator. Dressed in an Imperial Navy uniform, he is a charismatic presence who speaks of ‘a return to the honour of the old days’ and ‘the glory of Achenar’.” 
+
+“Many traditionalist citizens, unhappy with recent cross-superpower cooperation, have embraced the Imperator’s rhetoric. On several worlds, Nova Imperium’s followers hold rallies with a distinctly martial feel.”  
+
+“So far there has been little response from Imperial authorities, but it is clear that Nova Imperium will soon become impossible to ignore.”

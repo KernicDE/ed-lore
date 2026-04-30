@@ -1,0 +1,18 @@
+---
+uuid: fb893320-5889-549c-b812-e3662c87a633
+title: Galactic News  Empire Calls in Reinforcements
+slug: galactic_news_empire_calls_in_reinforcements
+ed_date: '3302-02-02'
+lang: en
+source: GitHub
+---
+
+* Galactic News: Empire Calls in Reinforcements
+
+/02 Feb 3302/
+
+Two weeks ago, the Imperial Internal Security Service discovered 'shadow' cells belonging to the insurgent organisation Emperor's Dawn in the Dakshmandi, Ipilyaqa and Ch'i Lin systems. Military fleets were swiftly despatched to the pertinent systems to destroy the last remaining vestiges of Emperor's Dawn. But recent reports indicate that the campaign may not be going quite as well as the Empire hoped. An Imperial pilot stationed in Dakshmandi spoke briefly with a correspondent from the Imperial Herald: 
+
+"The insurgents may be resilient, but their days are numbered. There's nowhere to run, nowhere to hide. It might take a little longer than planned, but Emperor's Dawn is going down, I can promise you that." 
+
+The Empire is understood to have sent reinforcements to the Dakshmandi, Ipilyaqa and Ch'i Lin systems to support its forces.

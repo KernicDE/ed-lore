@@ -1,0 +1,20 @@
+---
+uuid: 929bdeda-78ab-5b2a-b4c7-331270eb2fa4
+title: Galactic News  Federation Blockades Maia A 3 a
+slug: galactic_news_federation_blockades_maia_a_3_a
+ed_date: '3302-10-27'
+lang: en
+source: GitHub
+---
+
+* Galactic News: Federation Blockades Maia A 3 a
+
+/27 Oct 3302/
+
+Independent reports from the Maia system indicate that a Farragut-class Battlecruiser has taken up position over Maia A 3 a, not far from the personal research base of Professor Ishmael Palin. The Federal vessel is apparently redirecting pilots who stray too close to the site. 
+
+The news comes only a day after Professor Palin announced a breakthrough in his research into meta-alloys. 
+
+The purpose of the deployment is not immediately apparent, but rival political powers have been quick to condemn the act. Alliance Prime Minister Edmund Mahon described it as "an egregious act of oppression" while Emperor Arissa Lavigny-Duval said, "The Federation has an obligation to immediately curtail any restriction of Professor Palin's personal freedoms." 
+
+Attempts to contact Professor Palin have been unsuccessful.

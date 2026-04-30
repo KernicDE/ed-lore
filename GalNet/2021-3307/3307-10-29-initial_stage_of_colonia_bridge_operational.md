@@ -1,0 +1,15 @@
+---
+uuid: 55221925-a927-5ecb-acfb-f82d85c25a2a
+title: Initial Stage of Colonia Bridge Operational
+slug: initial_stage_of_colonia_bridge_operational
+ed_date: '3307-10-29'
+lang: en
+source: API
+---
+
+*Pilots Federation ALERT*
+Thirty megaships have been placed between the core systems and the Colonia region to serve as stationary ports.
+Twenty-five dockable megaships were sent out from the Alcor system toward Colonia, taking position in systems approximately 400 to 500 light years apart. Five further megaships have been established from the direction of the Colonia system.
+Each vessel serves as a permanent way station for travellers and businesses, designed to improve the journey to and from Colonia. A variety of services are provided, including tritium refuelling for Drake-class fleet carriers.
+The Colonia Bridge is the product of Brewer Corporation, which ran a highly successful deliveries campaign to collect resources. The megacorp has confirmed that phase two of this project will commence next week.
+During the creation of the Colonia Bridge, the crew aboard the stationary megaship Memories of Oresrati in the Snake Sector OD-S b4-2 system reported an unusual incident. A distorted transmission that could have been an SOS was detected on long-range sensors. Although they were unable to triangulate its source, the signal strength suggested a point of origin within 50 light years.
