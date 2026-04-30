@@ -4,23 +4,25 @@ title: Restoring Order in Fousang
 slug: restoring_order_in_fousang
 date: '3304-06-29'
 source: GitHub
-entities:
+summary: Criminal organisations are exploiting the Thargoid threat to increase raids on civilian traffic in the Fousang system. Wing Commander Horatio Montange reports stretched security resources. The Blue Creative Company issues a kill order on wanted ships and offers rewards for bounty vouchers delivered to Akers Orbital.
+player_impact: Independent pilots can deliver bounty vouchers to Akers Orbital in the Fousang system. The campaign runs for one week.
+persons:
 - Horatio Montange
+groups:
+- Blue Creative Company
+- Fousang security
 locations:
-- Security forces in the Fousang
+- Fousang
+- Akers Orbital
 topics:
-- alien contact
 - crime
-- ship
-- trade
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
-significance: high
+modern_impact: The Fousang situation illustrates how criminals exploit the Thargoid conflict to expand operations, requiring supplemental security from independent pilots.
+legacy_weight: 2
+significance: low
+related_uuids:
+- db044a6e-332e-5023-8f20-a1c27974d897
 ---
-
 Restoring Order in Fousang
 
 

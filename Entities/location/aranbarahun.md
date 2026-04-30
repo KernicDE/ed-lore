@@ -2,9 +2,9 @@
 id: aranbarahun
 name: Aranbarahun
 type: location
-first_seen_date: '3304-08-03'
+first_seen_date: '3304-06-30'
 last_seen_date: '3304-08-12'
-mention_count: 4
+mention_count: 5
 related_entities:
 - aranbarahun-purple-creative
 - barnes-terminal
@@ -17,9 +17,9 @@ related_entities:
 
 # Aranbarahun
 
-First mentioned: **3304-08-03**  
+First mentioned: **3304-06-30**  
 Last mentioned: **3304-08-12**  
-Total mentions: **4**
+Total mentions: **5**
 
 ## Related
 

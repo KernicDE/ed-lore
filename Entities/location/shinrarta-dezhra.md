@@ -4,10 +4,10 @@ name: Shinrarta Dezhra
 type: location
 first_seen_date: '3302-07-29'
 last_seen_date: '3310-11-25'
-mention_count: 5
+mention_count: 6
 related_entities:
-- aegis
 - jameson-memorial
+- aegis
 - pilots-federation
 - azimuth
 - sirius-corporation
@@ -19,12 +19,12 @@ related_entities:
 
 First mentioned: **3302-07-29**  
 Last mentioned: **3310-11-25**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 
+- [[Jameson Memorial]] (4 co-mentions)
 - [[Aegis]] (3 co-mentions)
-- [[Jameson Memorial]] (3 co-mentions)
 - [[Pilots Federation]] (2 co-mentions)
 - [[Azimuth]] (2 co-mentions)
 - [[Sirius Corporation]] (2 co-mentions)

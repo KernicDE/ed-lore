@@ -5,8 +5,6 @@ type: person
 first_seen_date: '3304-06-29'
 last_seen_date: '3304-06-29'
 mention_count: 1
-related_entities:
-- security-forces-in-the-fousang
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Security forces in the Fousang]] (1 co-mentions)
 
 ## Biography
 

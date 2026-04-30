@@ -4,31 +4,45 @@ title: Week in Review
 slug: week_in_review
 date: '3304-06-17'
 source: GitHub
-entities:
+summary: Weekly summary covering Aisling Duval's anti-slavery campaign merging with Universal Liberty to form Unchain, Lori Jameson's denunciation of the League of Reparation, journalist Flint Lafosse's theory about unsolved League murders, Dr Alfred Ulyanov's article on the Far God cult, Senator Caspian Leopold's refugee centre initiative, and the conclusion of the Lave Radio Network vs Lave Jet Family rivalry.
+player_impact: None
+persons:
+- Aisling Duval
+- Jarl Toredo
+- Lori Jameson
+- John Jameson
+- Flint Lafosse
+- Kay Kilbride
 - Alfred Ulyanov
 - Caspian Leopold
-- Leopold
+- Solomon Helios
 groups:
-- Alliance
+- Universal Liberty
+- Unchain
+- League of Reparation
+- Lave Radio Network
+- Lave Jet Family
 locations:
 - Lave
-- Lori Jameson
+- Niflhel
+- Biruni Port
 topics:
 - alien contact
 - construction
 - humanitarian
-- safety
-- ship
 - slavery
 - terrorism
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- culture
+modern_impact: This week encapsulates the galaxy's diverse crises from terrorism to romance, reflecting the complexity of 3304.
 legacy_weight: 5
 significance: high
+related_uuids:
+- ce94f1f2-4133-5950-b698-c7b6ccd86417
+- 14beec24-add3-5877-809a-e2f9373aed1a
+- a8af82d9-4b8f-5aed-9130-b8e3726e78fe
+- adb3246b-42c1-5f18-b56b-56f0ef4b8d24
+- 56c88c16-33ab-537f-90cc-8a20a25aeb54
 ---
-
 Week in Review
 
 

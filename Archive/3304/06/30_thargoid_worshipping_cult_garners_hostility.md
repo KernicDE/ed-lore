@@ -4,22 +4,24 @@ title: Thargoid Worshipping Cult Garners Hostility
 slug: thargoid_worshipping_cult_garners_hostility
 date: '3304-06-30'
 source: GitHub
-groups:
-- Alliance
+summary: The Far God cult, a fringe religion worshipping Thargoids, faces widespread mistrust and hostility. Hive-chapels have appeared on several independent worlds and some Federation and Alliance systems. Security forces report numerous arrests for misdemeanours against the sect. Anti-xeno campaigner Juanita Bishop demands the cult be expelled. Councillor Quinn Damico of Aranbarahun defends the cult's right to freedom of religion while warning criminal acts against them may be prosecuted.
+player_impact: None
+persons:
+- Juanita Bishop
+- Quinn Damico
+groups: []
 locations:
-- Federation and Alliance
+- Aranbarahun
 topics:
 - alien contact
-- crime
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+modern_impact: The hostility toward the Far God cult foreshadows broader societal tensions around alien contact, as some view any sympathy toward Thargoids as treasonous.
 legacy_weight: 5
 significance: high
+related_uuids:
+- adb3246b-42c1-5f18-b56b-56f0ef4b8d24
+- d33c2337-8ce6-5941-ade9-90a742c87559
 ---
-
 [[Thargoid]]-Worshipping Cult Garners Hostility
 
 

@@ -4,22 +4,25 @@ title: Refugee Initiative Complete
 slug: refugee_initiative_complete
 date: '3304-06-22'
 source: GitHub
-entities:
+summary: Senator Caspian Leopold announces the successful conclusion of his commodity appeal for constructing a rehabilitation centre for war-affected civilians. Hundreds of pilots delivered commodities to Biruni Port in the Niflhel system and protected traders. Construction will now begin on the rehabilitation centre.
+player_impact: Contributing pilots can collect rewards from Biruni Port in the Niflhel system.
+persons:
 - Caspian Leopold
-- Leopold hopes that this
-- Leopold made
+groups:
+- Niflhel Corp
 locations:
 - Niflhel
+- Biruni Port
 topics:
 - construction
 - humanitarian
-- trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: The completed initiative demonstrates how community-driven humanitarian campaigns can deliver tangible relief infrastructure amid galactic conflict.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 56c88c16-33ab-537f-90cc-8a20a25aeb54
+- bb14dd59-b241-5db1-8759-dff2555f5ee3
 ---
-
 Refugee Initiative Complete
 
 

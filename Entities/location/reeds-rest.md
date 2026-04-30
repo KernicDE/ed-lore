@@ -2,32 +2,32 @@
 id: reeds-rest
 name: Reed's Rest
 type: location
-first_seen_date: '3307-12-14'
+first_seen_date: '3304-06-22'
 last_seen_date: '3307-12-14'
-mention_count: 1
+mention_count: 3
 related_entities:
-- taurus-mining-ventures
-- vox-galactica
-- delphi
-- maia
 - merope
+- aegis
+- bhal
+- armstrong-enterprise
+- nauni
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Reed's Rest
 
-First mentioned: **3307-12-14**  
+First mentioned: **3304-06-22**  
 Last mentioned: **3307-12-14**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Taurus Mining Ventures]] (1 co-mentions)
-- [[Vox Galactica]] (1 co-mentions)
-- [[Delphi]] (1 co-mentions)
-- [[Maia]] (1 co-mentions)
-- [[Merope]] (1 co-mentions)
+- [[Merope]] (3 co-mentions)
+- [[Aegis]] (2 co-mentions)
+- [[Bhal]] (2 co-mentions)
+- [[Armstrong Enterprise]] (2 co-mentions)
+- [[Nauni]] (2 co-mentions)
 
 ## Biography
 

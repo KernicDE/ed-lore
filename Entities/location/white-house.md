@@ -4,13 +4,13 @@ name: White House
 type: location
 first_seen_date: '3301-09-29'
 last_seen_date: '3310-11-07'
-mention_count: 12
+mention_count: 13
 related_entities:
 - mars
+- imperial-palace
 - sol
 - alliance
-- imperial-palace
-- aegis
+- capitol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-09-29**  
 Last mentioned: **3310-11-07**  
-Total mentions: **12**
+Total mentions: **13**
 
 ## Related
 
 - [[Mars]] (7 co-mentions)
-- [[Sol]] (4 co-mentions)
-- [[Alliance]] (4 co-mentions)
-- [[Imperial Palace]] (4 co-mentions)
-- [[Aegis]] (3 co-mentions)
+- [[Imperial Palace]] (5 co-mentions)
+- [[Sol]] (3 co-mentions)
+- [[Alliance]] (3 co-mentions)
+- [[Capitol]] (3 co-mentions)
 
 ## Biography
 

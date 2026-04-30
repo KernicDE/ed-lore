@@ -3,14 +3,14 @@ id: alba-tesreau
 name: Alba Tesreau
 type: person
 first_seen_date: '3303-08-05'
-last_seen_date: '3304-06-03'
-mention_count: 11
+last_seen_date: '3304-05-31'
+mention_count: 10
 related_entities:
 - aegis
 - ram-tah
-- socho
 - alliance
-- pleiades-nebula
+- oracle
+- taygeta
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Alba Tesreau
 
 First mentioned: **3303-08-05**  
-Last mentioned: **3304-06-03**  
-Total mentions: **11**
+Last mentioned: **3304-05-31**  
+Total mentions: **10**
 
 ## Related
 
-- [[Aegis]] (11 co-mentions)
+- [[Aegis]] (10 co-mentions)
 - [[Ram Tah]] (3 co-mentions)
-- [[Socho]] (3 co-mentions)
 - [[Alliance]] (2 co-mentions)
-- [[Pleiades Nebula]] (2 co-mentions)
+- [[Oracle]] (2 co-mentions)
+- [[Taygeta]] (2 co-mentions)
 
 ## Biography
 

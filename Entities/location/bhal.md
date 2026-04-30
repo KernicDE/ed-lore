@@ -4,13 +4,13 @@ name: Bhal
 type: location
 first_seen_date: '3304-06-22'
 last_seen_date: '3304-06-24'
-mention_count: 2
+mention_count: 3
 related_entities:
 - aegis
-- caspian-leopold
-- alliance
-- beaufoy-vision-in-the-nauni
-- colonia-hub
+- armstrong-enterprise
+- nauni
+- beaufoy-vision
+- merope
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3304-06-22**  
 Last mentioned: **3304-06-24**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Aegis]] (2 co-mentions)
-- [[Caspian Leopold]] (1 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Beaufoy Vision in the Nauni]] (1 co-mentions)
-- [[Colonia Hub]] (1 co-mentions)
+- [[Aegis]] (3 co-mentions)
+- [[Armstrong Enterprise]] (2 co-mentions)
+- [[Nauni]] (2 co-mentions)
+- [[Beaufoy Vision]] (2 co-mentions)
+- [[Merope]] (2 co-mentions)
 
 ## Biography
 

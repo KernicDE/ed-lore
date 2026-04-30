@@ -4,7 +4,7 @@ name: Federal Times
 type: faction
 first_seen_date: '3301-08-02'
 last_seen_date: '3311-09-22'
-mention_count: 107
+mention_count: 105
 related_entities:
 - sol
 - federal-intelligence-agency
@@ -19,11 +19,11 @@ related_entities:
 
 First mentioned: **3301-08-02**  
 Last mentioned: **3311-09-22**  
-Total mentions: **107**
+Total mentions: **105**
 
 ## Related
 
-- [[Sol]] (20 co-mentions)
+- [[Sol]] (19 co-mentions)
 - [[Federal Intelligence Agency]] (13 co-mentions)
 - [[Mars]] (12 co-mentions)
 - [[Alliance]] (11 co-mentions)

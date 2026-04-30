@@ -23,7 +23,7 @@ Total mentions: **7**
 
 ## Related
 
-- [[Shinrarta Dezhra]] (3 co-mentions)
+- [[Shinrarta Dezhra]] (4 co-mentions)
 - [[Corrigendum]] (2 co-mentions)
 - [[Interstellar Press]] (2 co-mentions)
 - [[Jameson Memorial Review]] (2 co-mentions)

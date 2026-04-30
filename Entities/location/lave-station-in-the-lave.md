@@ -2,32 +2,32 @@
 id: lave-station-in-the-lave
 name: Lave Station in the Lave
 type: location
-first_seen_date: '3304-06-08'
+first_seen_date: '3307-03-11'
 last_seen_date: '3307-03-11'
-mention_count: 2
+mention_count: 1
 related_entities:
-- lave
-- diso
 - alliance
 - federal-navy
 - imperial-navy
+- nmla
+- achenar
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Lave Station in the Lave
 
-First mentioned: **3304-06-08**  
+First mentioned: **3307-03-11**  
 Last mentioned: **3307-03-11**  
-Total mentions: **2**
+Total mentions: **1**
 
 ## Related
 
-- [[Lave]] (2 co-mentions)
-- [[Diso]] (1 co-mentions)
 - [[Alliance]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
 - [[Imperial Navy]] (1 co-mentions)
+- [[NMLA]] (1 co-mentions)
+- [[Achenar]] (1 co-mentions)
 
 ## Biography
 

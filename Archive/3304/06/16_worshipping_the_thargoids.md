@@ -4,20 +4,23 @@ title: Worshipping the Thargoids
 slug: worshipping_the_thargoids
 date: '3304-06-16'
 source: GitHub
-entities:
+summary: Dr Alfred Ulyanov, a leading expert in exotheology, publishes an article on a fringe religion that worships Thargoids as divine messengers of an entity called the Far God. The sect uses hive-chapels adorned with black coral-like substances and Thargoid-inspired altars, with members wearing hooded robes. Ulyanov describes the congregation as intense but unhealthy, noting their identification with a hostile species over humanity.
+player_impact: None
+persons:
 - Alfred Ulyanov
+- Gethin Okonkwo
+groups: []
+locations: []
 topics:
 - alien contact
-- research
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+modern_impact: The Far God cult becomes one of the most notable and controversial religious movements in the galaxy, drawing both academic interest and public hostility.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 0b892435-583e-531a-b389-963788fe5e3a
+- e6e941fd-9a63-5ae3-b88b-2b1fe818f1ff
 ---
-
 Worshipping [[The]] Thargoids
 
 

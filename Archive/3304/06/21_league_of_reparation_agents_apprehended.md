@@ -4,18 +4,29 @@ title: League of Reparation Agents Apprehended
 slug: league_of_reparation_agents_apprehended
 date: '3304-06-21'
 source: GitHub
+summary: Chief Inspector Kay Kilbride foils a League of Reparation assassination attempt on Dinah Law, a descendant of INRA employee Trystan Law. The terrorists were apprehended after taskforce agents were placed at Law's home in anticipation of the attack. Kilbride confirms the captives are being interrogated to identify Nexus, the League's coordinator, expressing confidence this marks the beginning of the end for the terrorist organisation.
+player_impact: None
+persons:
+- Kay Kilbride
+- Dinah Law
+- Trystan Law
+- Nexus
 groups:
-- Alliance
+- Alliance Interpol
+- League of Reparation
 - INRA
+locations: []
 topics:
 - terrorism
-arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding
-  of the Thargoid conflict and superpower accountability.
+- investigation
+modern_impact: The successful sting operation provides the taskforce with captured agents, offering the first real hope of dismantling the League of Reparation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- a8af82d9-4b8f-5aed-9130-b8e3726e78fe
+- c72faf52-e498-54ec-a63c-7c94a9be38e9
+- b0b4efc4-0023-5a96-a506-5bcfb8772ddf
 ---
-
 League of Reparation Agents Apprehended
 
 

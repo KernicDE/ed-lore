@@ -2,18 +2,18 @@
 id: jordan-rochester
 name: Jordan Rochester
 type: person
-first_seen_date: '3304-07-01'
+first_seen_date: '3304-06-07'
 last_seen_date: '3306-11-20'
-mention_count: 23
+mention_count: 28
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Jordan Rochester
 
-First mentioned: **3304-07-01**  
+First mentioned: **3304-06-07**  
 Last mentioned: **3306-11-20**  
-Total mentions: **23**
+Total mentions: **28**
 
 ## Related
 

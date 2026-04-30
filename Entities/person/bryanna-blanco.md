@@ -2,18 +2,18 @@
 id: bryanna-blanco
 name: Bryanna Blanco
 type: person
-first_seen_date: '3304-08-17'
+first_seen_date: '3304-06-20'
 last_seen_date: '3311-09-22'
-mention_count: 20
+mention_count: 21
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Bryanna Blanco
 
-First mentioned: **3304-08-17**  
+First mentioned: **3304-06-20**  
 Last mentioned: **3311-09-22**  
-Total mentions: **20**
+Total mentions: **21**
 
 ## Related
 

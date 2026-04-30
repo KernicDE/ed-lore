@@ -4,24 +4,24 @@ title: Aegis Reduces Tech Broker Requirements
 slug: aegis_reduces_tech_broker_requirements
 date: '3304-06-29'
 source: GitHub
+summary: Aegis announces technology brokers will reduce their requirements for producing anti-Thargoid items. Senior Engineer Henrik de Lacerda explains that Aegis has supplied brokers with additional funding, resources and manufacturing equipment, meaning pilots need fewer commodities and materials to obtain advanced weaponry and hardware.
+player_impact: All registered technology brokers now require fewer commodities and materials for their designs.
+persons:
+- Henrik de Lacerda
 groups:
 - Aegis
-locations:
-- Aegis
+- Aegis Research
+locations: []
 topics:
 - alien contact
 - engineering
-- research
-- ship
-- trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Lowering tech-broker barriers democratises access to anti-xeno equipment, enabling more pilots to participate effectively in the Thargoid war.
 legacy_weight: 5
 significance: high
+related_uuids:
+- db044a6e-332e-5023-8f20-a1c27974d897
+- d33c2337-8ce6-5941-ade9-90a742c87559
 ---
-
 [[Aegis]] Reduces Tech-Broker Requirements
 
 

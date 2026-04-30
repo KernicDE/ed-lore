@@ -2,32 +2,32 @@
 id: rewired
 name: Rewired
 type: faction
-first_seen_date: '3304-07-06'
+first_seen_date: '3304-06-15'
 last_seen_date: '3304-07-08'
-mention_count: 2
+mention_count: 3
 related_entities:
-- alliance
 - inra
+- alliance-interpol
+- league-of-reparation
+- alliance
 - imperial-herald
-- bonespire-publishing
-- didiomanja-emperors-grace
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Rewired
 
-First mentioned: **3304-07-06**  
+First mentioned: **3304-06-15**  
 Last mentioned: **3304-07-08**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
+- [[INRA]] (2 co-mentions)
+- [[Alliance Interpol]] (1 co-mentions)
+- [[League of Reparation]] (1 co-mentions)
 - [[Alliance]] (1 co-mentions)
-- [[INRA]] (1 co-mentions)
 - [[Imperial Herald]] (1 co-mentions)
-- [[Bonespire Publishing]] (1 co-mentions)
-- [[Didiomanja Emperor's Grace]] (1 co-mentions)
 
 ## Biography
 

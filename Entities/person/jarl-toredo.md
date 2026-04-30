@@ -2,18 +2,18 @@
 id: jarl-toredo
 name: Jarl Toredo
 type: person
-first_seen_date: '3304-08-03'
+first_seen_date: '3304-06-14'
 last_seen_date: '3304-08-30'
-mention_count: 7
+mention_count: 9
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Jarl Toredo
 
-First mentioned: **3304-08-03**  
+First mentioned: **3304-06-14**  
 Last mentioned: **3304-08-30**  
-Total mentions: **7**
+Total mentions: **9**
 
 ## Related
 

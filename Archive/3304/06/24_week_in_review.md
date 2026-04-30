@@ -4,38 +4,62 @@ title: Week in Review
 slug: week_in_review
 date: '3304-06-24'
 source: GitHub
-entities:
+summary: Weekly summary covering Thargoids being repelled from core systems to Bhal, three starports restored to full functionality, Aisling Duval's engagement to Jordan Rochester, the foiled League of Reparation assassination attempt on Dinah Law, Zachary Rackham's Colonia shipyard donation, Aegis's military installation plans in the Pleiades, and Caspian Leopold's completed refugee centre initiative.
+player_impact: None
+persons:
+- Aden Tanner
+- Aisling Duval
+- Jordan Rochester
+- Kay Kilbride
+- Dinah Law
+- Zachary Rackham
 - Caspian Leopold
+- Carter Armstrong
+- Lilith Galloway
 groups:
 - Aegis
-- Alliance
+- Aegis Core
+- Aegis Research
+- Alliance Interpol
+- League of Reparation
+- Rackham Capital Investments
+- Niflhel Corp
 locations:
-- Aegis
-- Beaufoy Vision in the Nauni
 - Bhal
+- Armstrong Enterprise
+- Nauni
+- Beaufoy Vision
+- Merope
+- Reed's Rest
 - Colonia
 - Colonia Hub
-- Imperial Palace
-- Merope
-- Reed's Rest in the Merope
+- Pleiades Sector IR-W d1-55
+- The Oracle
 - Socho
+- Niflhel
+- Biruni Port
+- Emerald
+- Imperial Palace
 - White House
 topics:
 - alien contact
 - construction
-- crime
-- research
-- ship
 - terrorism
-- trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- diplomacy
+- exploration
+- humanitarian
+modern_impact: This week spans military victories against Thargoids, infrastructure recovery, a landmark engagement, and humanitarian efforts, reflecting the galaxy's multifaceted struggles and triumphs.
 legacy_weight: 5
 significance: high
+related_uuids:
+- db044a6e-332e-5023-8f20-a1c27974d897
+- 34982e5c-4fd7-5b67-b8c5-d8a11abae5e5
+- 46407e8e-50ca-56ba-88b8-54b530cb06c5
+- 1f133226-e32f-5511-9bbd-bffc26348cb3
+- 37a69743-987e-5990-848f-308a9738a453
+- 518459bd-b04c-5043-bae8-6aa576f868e5
+- 041680e0-ca6d-5681-8657-65ba736abcde
 ---
-
 Week in Review
 
 

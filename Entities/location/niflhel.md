@@ -2,32 +2,32 @@
 id: niflhel
 name: Niflhel
 type: location
-first_seen_date: '3304-06-22'
+first_seen_date: '3304-06-15'
 last_seen_date: '3304-11-03'
-mention_count: 3
+mention_count: 6
 related_entities:
-- niflhel-guardians-of-tradition
-- caspian-leopold
-- leopold-hopes-that-this
-- leopold-made
 - biruni-port
+- niflhel-corp
+- league-of-reparation
+- niflhel-guardians-of-tradition
+- universal-liberty
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Niflhel
 
-First mentioned: **3304-06-22**  
+First mentioned: **3304-06-15**  
 Last mentioned: **3304-11-03**  
-Total mentions: **3**
+Total mentions: **6**
 
 ## Related
 
+- [[Biruni Port]] (5 co-mentions)
+- [[Niflhel Corp]] (3 co-mentions)
+- [[League of Reparation]] (2 co-mentions)
 - [[Niflhel Guardians Of Tradition]] (2 co-mentions)
-- [[Caspian Leopold]] (1 co-mentions)
-- [[Leopold hopes that this]] (1 co-mentions)
-- [[Leopold made]] (1 co-mentions)
-- [[Biruni Port]] (1 co-mentions)
+- [[Universal Liberty]] (1 co-mentions)
 
 ## Biography
 

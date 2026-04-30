@@ -9,8 +9,8 @@ related_entities:
 - alliance
 - alioth
 - sol
-- nmla
-- achenar
+- diso
+- lave-radio-network
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **35**
 
 ## Related
 
-- [[Alliance]] (17 co-mentions)
+- [[Alliance]] (16 co-mentions)
 - [[Alioth]] (9 co-mentions)
 - [[Sol]] (7 co-mentions)
-- [[NMLA]] (6 co-mentions)
-- [[Achenar]] (6 co-mentions)
+- [[Diso]] (7 co-mentions)
+- [[Lave Radio Network]] (6 co-mentions)
 
 ## Biography
 

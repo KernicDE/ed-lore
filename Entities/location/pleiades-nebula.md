@@ -10,7 +10,7 @@ related_entities:
 - maia
 - alliance
 - merope
-- obsidian-orbital
+- pleiades-sector-ir-w-d1-55
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **55**
 - [[Maia]] (11 co-mentions)
 - [[Alliance]] (9 co-mentions)
 - [[Merope]] (7 co-mentions)
-- [[Obsidian Orbital]] (6 co-mentions)
+- [[Pleiades Sector IR-W d1-55]] (7 co-mentions)
 
 ## Biography
 

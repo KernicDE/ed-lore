@@ -4,13 +4,13 @@ name: Pleiades Sector IR-W d1-55
 type: location
 first_seen_date: '3303-09-22'
 last_seen_date: '3304-08-19'
-mention_count: 12
+mention_count: 17
 related_entities:
 - aegis
-- oracle
 - pleiades-nebula
-- donars-oak
-- liz-ryder
+- the-oracle
+- oracle
+- socho
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3303-09-22**  
 Last mentioned: **3304-08-19**  
-Total mentions: **12**
+Total mentions: **17**
 
 ## Related
 
-- [[Aegis]] (8 co-mentions)
-- [[Oracle]] (7 co-mentions)
-- [[Pleiades Nebula]] (4 co-mentions)
-- [[Donar's Oak]] (3 co-mentions)
-- [[Liz Ryder]] (2 co-mentions)
+- [[Aegis]] (13 co-mentions)
+- [[Pleiades Nebula]] (7 co-mentions)
+- [[The Oracle]] (7 co-mentions)
+- [[Oracle]] (5 co-mentions)
+- [[Socho]] (4 co-mentions)
 
 ## Biography
 

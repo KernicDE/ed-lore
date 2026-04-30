@@ -4,27 +4,32 @@ title: Galaxy Reacts to Federal Imperial Betrothal
 slug: galaxy_reacts_to_federal_imperial_betrothal
 date: '3304-06-28'
 source: GitHub
-entities:
+summary: Reactions to Princess Aisling Duval's engagement to Ambassador Jordan Rochester range across the political spectrum. The Imperial Palace offers congratulations but Emperor Arissa Lavigny-Duval remains silent amid rumours she did not consent. Senator Zemina Torval calls it reckless political theatre. Senator Caspian Leopold expresses delight. President Zachary Hudson says nothing, but Congressman Isolde Rochester supports the union for trade and defence cooperation. Prime Minister Edmund Mahon offers cordial but cautious congratulations.
+player_impact: None
+persons:
+- Aisling Duval
+- Jordan Rochester
+- Arissa Lavigny-Duval
+- Zemina Torval
 - Caspian Leopold
-- Edmund Mahon
 - Zachary Hudson
-- Zemina Torval offered
-groups:
-- Alliance
+- Isolde Rochester
+- Edmund Mahon
+groups: []
 locations:
 - Capitol
 - Imperial Palace
-- Reactions from independent
+- White House
 topics:
-- ship
+- diplomacy
 - succession
-- trade
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
-legacy_weight: 3
-significance: medium
+modern_impact: The mixed reactions expose deep divisions within both superpowers about the unprecedented cross-border engagement, foreshadowing potential political fallout.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 46407e8e-50ca-56ba-88b8-54b530cb06c5
+- 0b892435-583e-531a-b389-963788fe5e3a
 ---
-
 Galaxy Reacts to Federal-Imperial Betrothal
 
 

@@ -2,9 +2,9 @@
 id: tir-technology-services
 name: Tir Technology Services
 type: faction
-first_seen_date: '3304-07-06'
+first_seen_date: '3304-06-29'
 last_seen_date: '3304-07-06'
-mention_count: 1
+mention_count: 2
 related_entities:
 - tir
 - boldens-enterprise
@@ -14,14 +14,14 @@ related_entities:
 
 # Tir Technology Services
 
-First mentioned: **3304-07-06**  
+First mentioned: **3304-06-29**  
 Last mentioned: **3304-07-06**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Tir]] (1 co-mentions)
-- [[Bolden's Enterprise]] (1 co-mentions)
+- [[Tir]] (2 co-mentions)
+- [[Bolden's Enterprise]] (2 co-mentions)
 
 ## Biography
 

@@ -3,14 +3,14 @@ id: caspian-leopold
 name: Caspian Leopold
 type: person
 first_seen_date: '3304-05-26'
-last_seen_date: '3304-06-28'
-mention_count: 7
+last_seen_date: '3304-05-27'
+mention_count: 2
 related_entities:
-- alliance
 - sol
-- leopold
-- imperial-palace
 - prism
+- alliance
+- pilots-federation
+- in-the-core
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Caspian Leopold
 
 First mentioned: **3304-05-26**  
-Last mentioned: **3304-06-28**  
-Total mentions: **7**
+Last mentioned: **3304-05-27**  
+Total mentions: **2**
 
 ## Related
 
-- [[Alliance]] (4 co-mentions)
 - [[Sol]] (2 co-mentions)
-- [[Leopold]] (2 co-mentions)
-- [[Imperial Palace]] (2 co-mentions)
 - [[Prism]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
+- [[In the core]] (1 co-mentions)
 
 ## Biography
 

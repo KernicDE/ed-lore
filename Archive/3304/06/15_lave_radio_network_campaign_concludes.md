@@ -4,15 +4,24 @@ title: Lave Radio Network Campaign Concludes
 slug: lave_radio_network_campaign_concludes
 date: '3304-06-15'
 source: GitHub
+summary: The Lave Radio Network announces its campaign reached a successful conclusion. Scores of pilots delivered commodities to Lave Station, allowing the network to broadcast its annual conference across the galaxy. The rival Lave Jet Family campaign was unable to destabilise the initiative.
+player_impact: Contributing pilots can collect rewards from Lave Station in the Lave system.
+persons: []
+groups:
+- Lave Radio Network
+- Lave Jet Family
 locations:
 - Lave
+- Lave Station
+- Diso
 topics:
-- diplomacy
-- trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+- culture
+modern_impact: The duplicate campaign conclusion confirms the Lave Radio Network's victory in the factional rivalry.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e6ca6d67-712e-548b-81a9-9f0126f95678
+- f4fd2b58-2c3c-5d7b-9fc2-c69ca53e4aa7
 ---
 
 [[Lave]] Radio Network Campaign Concludes

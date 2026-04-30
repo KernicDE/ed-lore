@@ -4,23 +4,28 @@ title: Investor Funds Colonia Shipyards
 slug: investor_funds_colonia_shipyards
 date: '3304-06-20'
 source: GitHub
+summary: Billionaire Zachary Rackham, known as 'Calico Zack', donates funds to build new shipyards throughout the Colonia region. Rackham describes the gesture as celebrating his explorer youth. Financial journalist Bryanna Blanco of The Federal Times notes the donation's curious timing before a company-wide audit, suggesting tax implications.
+player_impact: Every planetary port in Colonia except Colonia Hub will soon offer full pilot support services.
+persons:
+- Zachary Rackham
+- Bryanna Blanco
 groups:
-- Federal Times
+- Rackham Capital Investments
+- The Federal Times
 locations:
 - Colonia
 - Colonia Hub
 topics:
 - construction
 - exploration
-- piracy
-- ship
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+- economy
+modern_impact: Rackham's investment accelerates Colonia's development, transforming it from an outpost into a self-sufficient deep-space civilisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- b9edd54e-62ab-5968-a48b-6f88d7ecfd0c
+- 759a2c78-e41b-5489-b5c2-eba09b2981be
 ---
-
 Investor Funds Colonia Shipyards
 
 

@@ -4,23 +4,27 @@ title: Success for Pleiades Restoration Project
 slug: success_for_pleiades_restoration_project
 date: '3304-06-08'
 source: GitHub
+summary: The campaign to repair starports in the Pleiades Nebula receives huge quantities of construction materials. Senior engineer Lilith Galloway of Aegis Research thanks contributors and confirms the materials will restore stations damaged by Thargoids.
+player_impact: Contributing pilots can collect rewards from The Oracle in the Pleiades Sector IR-W d1-55 system.
+persons:
+- Lilith Galloway
 groups:
 - Aegis
+- Aegis Research
 locations:
-- Aegis
-- Oracle
 - Pleiades Nebula
+- Pleiades Sector IR-W d1-55
+- The Oracle
 topics:
 - alien contact
 - construction
-- engineering
-- research
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The successful restoration project demonstrates the resilience of Pleiades communities and the effectiveness of community-driven infrastructure repair.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 821bc511-52d4-5398-9e65-8af2754fc939
+- f0f6f3b5-820c-54b2-add3-229e4f9f610e
 ---
 
 Success for Pleiades Restoration Project

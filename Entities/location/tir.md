@@ -2,9 +2,9 @@
 id: tir
 name: Tir
 type: location
-first_seen_date: '3304-07-06'
+first_seen_date: '3304-06-29'
 last_seen_date: '3304-08-29'
-mention_count: 3
+mention_count: 4
 related_entities:
 - tir-technology-services
 - boldens-enterprise
@@ -17,14 +17,14 @@ related_entities:
 
 # Tir
 
-First mentioned: **3304-07-06**  
+First mentioned: **3304-06-29**  
 Last mentioned: **3304-08-29**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
-- [[Tir Technology Services]] (1 co-mentions)
-- [[Bolden's Enterprise]] (1 co-mentions)
+- [[Tir Technology Services]] (2 co-mentions)
+- [[Bolden's Enterprise]] (2 co-mentions)
 - [[Alliance]] (1 co-mentions)
 - [[INRA]] (1 co-mentions)
 - [[Rewired]] (1 co-mentions)

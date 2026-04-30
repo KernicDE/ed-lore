@@ -4,13 +4,13 @@ name: Imperial Herald
 type: faction
 first_seen_date: '3301-05-06'
 last_seen_date: '3311-03-13'
-mention_count: 75
+mention_count: 76
 related_entities:
 - alliance
 - capitol
 - achenar
 - aegis
-- nova-imperium
+- imperial-palace
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-05-06**  
 Last mentioned: **3311-03-13**  
-Total mentions: **75**
+Total mentions: **76**
 
 ## Related
 
@@ -27,7 +27,7 @@ Total mentions: **75**
 - [[Capitol]] (16 co-mentions)
 - [[Achenar]] (13 co-mentions)
 - [[Aegis]] (13 co-mentions)
-- [[Nova Imperium]] (12 co-mentions)
+- [[Imperial Palace]] (12 co-mentions)
 
 ## Biography
 

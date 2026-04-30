@@ -4,32 +4,53 @@ title: Week in Review
 slug: week_in_review
 date: '3304-06-03'
 source: GitHub
-entities:
-- Alba Tesreau
+summary: Weekly summary covering the Socho system being overtaken by the Socho Gold Raiders, Aegis's Eagle Eye success in repelling Thargoids, five ships destroyed by the League of Reparation with the discovery of the 'Nexus' coordinator, two starport repair campaigns in the Pleiades, the Los Chupacabras music festival, and the Autocracy of T'iensei clearing criminals.
+player_impact: None
+persons:
 - Mia Valencourt
+- Alba Tesreau
+- Aden Tanner
+- Niamh Seutonia
+- Lilith Galloway
+- Carter Armstrong
 groups:
 - Aegis
+- Aegis Core
+- Aegis Research
+- Socho Gold Raiders
 - Pilots Federation
+- League of Reparation
+- Los Chupacabras
+- Autocracy of T'iensei
 locations:
-- Aegis
-- Pleiades Nebula
 - Socho
-- The
-- The Socho
+- Pleiades Nebula
+- Lwalama
+- Lalande 4141
+- LFT 926
+- Meredith City
+- T'iensei
+- Dzhanibekov Port
+- Pleiades Sector IR-W d1-55
+- The Oracle
+- Dantec Enterprise
 topics:
 - alien contact
 - construction
 - crime
-- festival
-- ship
 - terrorism
-- trade
+- culture
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: This week spans criminal occupation of Aegis headquarters, Thargoid warfare, terrorism revelations, and community festivals, illustrating the breadth of galactic affairs.
 legacy_weight: 5
 significance: high
+related_uuids:
+- dff51116-7d37-5ba1-8622-b8ce6b22e9d9
+- e1242f6c-1a65-52aa-b73b-90d58f8d4086
+- 821bc511-52d4-5398-9e65-8af2754fc939
+- acc81378-94b0-5b7e-a64c-346f7e0501f8
+- 56423215-1d94-5955-9b5b-942c39132b7b
+- 6c73a7e2-e5c8-54ae-a8be-12b073c86722
 ---
 
 Week in Review

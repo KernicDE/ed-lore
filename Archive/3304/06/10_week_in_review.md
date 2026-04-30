@@ -4,29 +4,62 @@ title: Week in Review
 slug: week_in_review
 date: '3304-06-10'
 source: GitHub
-entities:
+summary: Weekly summary covering the murder of INRA descendant Luca Hem by the League of Reparation, Aisling Duval hosting Jordan Rochester and Caspian Leopold's subsequent visit, the Lave Radio Network vs Lave Jet Family rivalry, successful conclusions of two starport repair initiatives, and the theft of the Youscape artwork from Garden City Gallery.
+player_impact: None
+persons:
 - Tanya Ramirez
+- Luca Hem
+- Amaro Hem
+- John Jameson
+- Aisling Duval
+- Jordan Rochester
+- Caspian Leopold
+- Juno Rochester
+- Solomon Helios
+- Lilith Galloway
+- Carter Armstrong
+- Femi Abram
+- Barclay Uxor
+- Kay Kilbride
 groups:
 - INRA
+- League of Reparation
+- Lave Radio Network
+- Lave Jet Family
+- Aegis
+- Aegis Core
+- Aegis Research
+- Garden City security
 locations:
-- Alioth
-- Diso
+- Aeternitas
+- Houtman City
 - Lave
-- Oracle
+- Lave Station
+- Diso
+- Alioth
+- Turner's World
+- Garden City Gallery
 - Socho
-- World in the Alioth
+- Dantec Enterprise
+- Pleiades Sector IR-W d1-55
+- The Oracle
 topics:
 - alien contact
 - construction
 - crime
-- diplomacy
 - terrorism
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- diplomacy
+- culture
+modern_impact: This week spans terrorism, political romance, factional rivalry, and art theft, reflecting the diverse challenges and intrigues of galactic society.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 3422afa3-30f2-5ba6-a072-d7dde266572f
+- e85ec76a-3c48-5c22-a108-5efade3f5bd8
+- f4fd2b58-2c3c-5d7b-9fc2-c69ca53e4aa7
+- deffacb5-c533-5803-ba9d-6655443be666
+- e9563810-0611-5080-9952-cdd072acdc90
+- 9fd16cfc-fc44-55ca-9deb-4b0129f50261
 ---
 
 Week in Review
