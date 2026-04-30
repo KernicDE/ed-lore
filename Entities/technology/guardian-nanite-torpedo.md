@@ -2,18 +2,18 @@
 id: guardian-nanite-torpedo
 name: Guardian nanite torpedo
 type: technology
-first_seen_date: '3310-10-25'
+first_seen_date: '3310-02-15'
 last_seen_date: '3310-10-25'
-mention_count: 1
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Guardian nanite torpedo
 
-First mentioned: **3310-10-25**  
+First mentioned: **3310-02-15**  
 Last mentioned: **3310-10-25**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 

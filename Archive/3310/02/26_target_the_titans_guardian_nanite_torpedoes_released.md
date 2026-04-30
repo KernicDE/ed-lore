@@ -5,27 +5,27 @@ slug: target_the_titans_guardian_nanite_torpedoes_released
 date: '3310-02-26'
 source: API
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
-- Clement Orbital in the YZ Ceti
-- Guardian
-- Thargoid
-- Titan
+- YZ Ceti
 topics:
-- alien contact
-- diplomacy
 - humanitarian
-- ship
 - war
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Tesreau's moral calculus — 'those remaining may not survive these attacks. We are forced to accept that their sacrifice will result in fewer deaths than if the Titans are allowed to remain operational' — is one of the most ethically fraught decisions in the war. Tanner's tactical explanation — 'A sufficiently large payload of Guardian nanites should paralyse these vents. The mothership will be forced to discharge the colossal heat it generates by exposing its inner regions to space' — reveals the precise mechanics of Titan destruction. His closing — 'This could prove to be the most important victory in humanity's history… or our most devastating defeat' — frames the moment."
+persons:
+- Alba Tesreau
+- Aden Tanner
+technologies:
+- Guardian nanite torpedo
+player_impact: "Pilots are called to participate in concerted attacks against Thargoid Titans using Guardian nanite torpedoes available at rescue megaships."
+summary: "Aegis announces mass-produced Guardian nanite torpedoes are ready and prepares concerted Titan attacks, with Tanner explaining the thermal vent targeting strategy and Tesreau acknowledging the cost to remaining captives."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 1d16de43-7abf-5dee-bbee-3f23768c50f9
+- fe6922f3-5994-565f-b634-f4d5d6a020a8
+- fe1eb907-2d83-51c4-bb42-d7b1da795fee
 ---
 
 *Pilots’ Federation ALERT*

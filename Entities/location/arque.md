@@ -4,13 +4,13 @@ name: Arque
 type: location
 first_seen_date: '3305-07-30'
 last_seen_date: '3310-02-08'
-mention_count: 3
+mention_count: 4
 related_entities:
-- ishmael-palin
 - aegis
+- ishmael-palin
 - abel-laboratory
 - professor-palin
-- alliance
+- maelstrom
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3305-07-30**  
 Last mentioned: **3310-02-08**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
+- [[Aegis]] (3 co-mentions)
 - [[Ishmael Palin]] (2 co-mentions)
-- [[Aegis]] (2 co-mentions)
 - [[Abel Laboratory]] (2 co-mentions)
 - [[Professor Palin]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
+- [[Maelstrom]] (2 co-mentions)
 
 ## Biography
 

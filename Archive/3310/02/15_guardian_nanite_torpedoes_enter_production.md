@@ -4,33 +4,31 @@ title: Guardian Nanite Torpedoes Enter Production
 slug: guardian_nanite_torpedoes_enter_production
 date: '3310-02-15'
 source: API
-entities:
-- Ishmael Palin
-- Palin
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
-- Clement Orbital in the YZ Ceti
-- Guardian
-- Maelstrom
-- Professor Palin
-- Ram Tah
-- Thargoid
-- Titan
+- YZ Ceti
 topics:
-- alien contact
 - engineering
-- ship
 - war
-- xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "The article reveals the full scientific basis of the Guardian nanite torpedo — 'exposure to certain electromagnetic frequencies caused Guardian relics to open and activate clusters of microscopic nanites' that 'react aggressively against Thargoid biotechnology by disrupting it on the molecular level.' The critical insight that 'these nanites are unaffected by the anti-Guardian field generated within Maelstroms' explains why this weapon is revolutionary. The torpedo's design — Guardian-hybrid engineering with Thargoid spire armour — is a triple-technology fusion."
+persons:
+- Ishmael Palin
+- Ram Tah
+technologies:
+- Guardian nanite torpedo
+- Guardian relics
+- nanites
+player_impact: "Pilots are asked to deliver neofabric insulation, ion distributors and energy grid assemblies to Clement Orbital in the YZ Ceti system for mass production."
+summary: "Aegis reveals Ram Tah's Guardian nanite torpedo technology and begins mass production, with Palin constructing a Thargoid-spire-armoured warhead that can function within Maelstrom anti-Guardian fields."
 legacy_weight: 5
 significance: high
+related_uuids:
+- dc080e97-cc4c-55c0-a84e-b80d6fba5d83
+- 0a469ac3-4989-5634-92f3-699ab9b25e7c
+- 9bdb2c40-9c94-5f9d-b389-9b317fdb7e3d
 ---
 
 *Pilots’ Federation ALERT*

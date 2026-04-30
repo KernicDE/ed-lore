@@ -4,33 +4,29 @@ title: Harvest Thargoid Materials for Anti-Titan Project
 slug: harvest_thargoid_materials_for_anti_titan_project
 date: '3310-02-01'
 source: API
-entities:
-- Ishmael Palin
-- Palin
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
-- Austen Town Station in the Arque
-- Guardian
+- Arque
 - Maelstrom
-- Professor Palin
-- Ram Tah
-- Thargoid
-- Titan
 topics:
 - alien contact
 - engineering
 - research
-- ship
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Tanner's comment — 'what little I've seen made me feel something very rare these days: hope' — provides emotional context for the scientific breakthrough. Palin's description of developing 'a resistant armour using the organic compounds produced by Thargoid spire sites' to protect against Maelstrom electromagnetic fields reveals the hybrid nature of the solution — using Thargoid materials to fight Thargoids. The classified nature of the weapon details builds suspense."
+persons:
+- Ishmael Palin
+- Ram Tah
+- Aden Tanner
+player_impact: "Pilots are requested to deliver Thargoid spire site materials (coral sap, impure spire minerals, semi-refined spire minerals) to Austen Town Station in the Arque system."
+summary: "Aegis urgently requests Thargoid spire site materials for Professor Palin and Ram Tah's classified anti-Titan weapon research, with Palin developing resistant armour using organic compounds from the spires."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 0a469ac3-4989-5634-92f3-699ab9b25e7c
+- 1d16de43-7abf-5dee-bbee-3f23768c50f9
 ---
 
 *Pilots’ Federation ALERT*

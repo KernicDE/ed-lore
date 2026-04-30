@@ -3,8 +3,8 @@ id: clement-orbital-in-the-yz-ceti
 name: Clement Orbital in the YZ Ceti
 type: location
 first_seen_date: '3309-05-02'
-last_seen_date: '3310-02-26'
-mention_count: 4
+last_seen_date: '3309-05-09'
+mention_count: 2
 related_entities:
 - act
 - aegis
@@ -18,16 +18,16 @@ related_entities:
 # Clement Orbital in the YZ Ceti
 
 First mentioned: **3309-05-02**  
-Last mentioned: **3310-02-26**  
-Total mentions: **4**
+Last mentioned: **3309-05-09**  
+Total mentions: **2**
 
 ## Related
 
-- [[ACT]] (4 co-mentions)
-- [[Aegis]] (4 co-mentions)
-- [[Thargoid]] (4 co-mentions)
-- [[Maelstrom]] (3 co-mentions)
-- [[Professor Palin]] (3 co-mentions)
+- [[ACT]] (2 co-mentions)
+- [[Aegis]] (2 co-mentions)
+- [[Thargoid]] (2 co-mentions)
+- [[Maelstrom]] (2 co-mentions)
+- [[Professor Palin]] (2 co-mentions)
 
 ## Biography
 

@@ -23,7 +23,7 @@ Total mentions: **131**
 
 ## Related
 
-- [[ACT]] (40 co-mentions)
+- [[ACT]] (39 co-mentions)
 - [[Thargoid]] (37 co-mentions)
 - [[Alliance]] (27 co-mentions)
 - [[Imperial Navy]] (23 co-mentions)

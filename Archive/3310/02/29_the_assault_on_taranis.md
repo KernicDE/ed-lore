@@ -6,23 +6,26 @@ date: '3310-02-29'
 source: API
 groups:
 - Aegis
-- Thargoid
-locations:
-- Aegis
-- Guardian
-- Ram Tah
-- Thargoid
-- Titan
+locations: []
 topics:
 - alien contact
-- ship
 - war
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "The removal of material requirements for key modules — 'A recent surge of financial support has allowed Aegis to remove the material requirements' — shows how community funding directly impacts military logistics. The reference to 'Ram Tah's Guardian Nanite Torpedo technology being deployed to great effect against Taranis' confirms the weapon is already proving effective. This is the first Titan assault using the new technology."
+persons:
+- Ram Tah
+technologies:
+- Thargoid Pulse Neutraliser
+- Caustic Sink Launcher
+- Guardian Nanite Torpedo
+player_impact: "Pilots are urgently called to aid in the defeat of Titan Taranis, the first Titan to face this new assault. Aegis has removed material requirements for key modules due to surge funding."
+summary: "An urgent call to all pilots to participate in the assault on Titan Taranis, with Aegis removing material requirements for Thargoid Pulse Neutralisers and Caustic Sink Launchers thanks to surge funding."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 9bdb2c40-9c94-5f9d-b389-9b317fdb7e3d
+- 82ecec16-67af-51b8-b568-f3f99e028da2
+- fe1eb907-2d83-51c4-bb42-d7b1da795fee
 ---
 
 Titan Taranis is under siege, taking major damage, and close to presenting a major turning point in the war against the Thargoids. This is an urgent call to all independent pilots to aid in the complete defeat of a Titan.
