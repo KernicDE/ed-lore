@@ -153,6 +153,12 @@ def build() -> dict[str, Any]:
     group_mentions: dict[str, dict[str, Any]] = defaultdict(
         lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
     )
+    person_mentions: dict[str, dict[str, Any]] = defaultdict(
+        lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
+    )
+    technology_mentions: dict[str, dict[str, Any]] = defaultdict(
+        lambda: {"mentions": 0, "articles": [], "first_seen": None, "last_seen": None}
+    )
 
     article_paths = list(ARCHIVE_DIR.rglob("*.md"))
     print(f"Processing {len(article_paths)} articles...")
@@ -210,6 +216,30 @@ def build() -> dict[str, Any]:
                 clean_locations.append(c)
                 seen_locs.add(c)
                 d = location_mentions[c]
+                d["mentions"] += 1
+                d["articles"].append(uuid)
+                if not d["first_seen"] or date < d["first_seen"]:
+                    d["first_seen"] = date
+                if not d["last_seen"] or date > d["last_seen"]:
+                    d["last_seen"] = date
+
+        # Normalise persons
+        for p in fm.get("persons", []):
+            c = normalize_entity(p) or p
+            if c:
+                d = person_mentions[c]
+                d["mentions"] += 1
+                d["articles"].append(uuid)
+                if not d["first_seen"] or date < d["first_seen"]:
+                    d["first_seen"] = date
+                if not d["last_seen"] or date > d["last_seen"]:
+                    d["last_seen"] = date
+
+        # Normalise technologies
+        for t in fm.get("technologies", []):
+            c = normalize_entity(t) or t
+            if c:
+                d = technology_mentions[c]
                 d["mentions"] += 1
                 d["articles"].append(uuid)
                 if not d["first_seen"] or date < d["first_seen"]:
@@ -283,6 +313,26 @@ def build() -> dict[str, Any]:
         if eid not in graph["entities"]:
             graph["entities"][eid] = {
                 "id": eid, "name": name, "type": "location",
+                "first_seen_date": data["first_seen"], "last_seen_date": data["last_seen"],
+                "mention_count": data["mentions"], "article_uuids": data["articles"],
+                "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],
+            }
+
+    for name, data in person_mentions.items():
+        eid = make_entity_id(name)
+        if eid not in graph["entities"]:
+            graph["entities"][eid] = {
+                "id": eid, "name": name, "type": "person",
+                "first_seen_date": data["first_seen"], "last_seen_date": data["last_seen"],
+                "mention_count": data["mentions"], "article_uuids": data["articles"],
+                "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],
+            }
+
+    for name, data in technology_mentions.items():
+        eid = make_entity_id(name)
+        if eid not in graph["entities"]:
+            graph["entities"][eid] = {
+                "id": eid, "name": name, "type": "technology",
                 "first_seen_date": data["first_seen"], "last_seen_date": data["last_seen"],
                 "mention_count": data["mentions"], "article_uuids": data["articles"],
                 "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],

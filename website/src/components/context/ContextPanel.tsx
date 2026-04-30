@@ -163,6 +163,7 @@ export default function ContextPanel({
     person: 'P',
     faction: 'F',
     location: 'L',
+    technology: 'T',
   };
 
   return (

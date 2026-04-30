@@ -1,0 +1,23 @@
+---
+id: cobra-mk-v
+name: Cobra Mk V
+type: technology
+first_seen_date: '3311-04-24'
+last_seen_date: '3311-04-24'
+mention_count: 1
+---
+
+<!-- AUTO-GENERATED -->
+
+# Cobra Mk V
+
+First mentioned: **3311-04-24**  
+Last mentioned: **3311-04-24**  
+Total mentions: **1**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

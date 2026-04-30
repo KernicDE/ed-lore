@@ -1,6 +1,6 @@
 ---
-id: frank-raddix
-name: Frank Raddix
+id: terri-tora
+name: Terri Tora
 type: person
 first_seen_date: '3311-09-02'
 last_seen_date: '3311-09-25'
@@ -9,7 +9,7 @@ mention_count: 2
 
 <!-- AUTO-GENERATED -->
 
-# Frank Raddix
+# Terri Tora
 
 First mentioned: **3311-09-02**  
 Last mentioned: **3311-09-25**  

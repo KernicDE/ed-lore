@@ -12,7 +12,7 @@ const { id } = Astro.params;
 const entity = graphData.entities[id];
 
 const entityArticles = graphData.articles.filter((a) => {
-  const allNames = [...a.entities, ...a.groups, ...a.locations];
+  const allNames = [...a.entities, ...a.groups, ...a.locations, ...(a.persons || []), ...(a.technologies || [])];
   return allNames.some((n) => n.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-') === id);
 });
 
@@ -25,6 +25,7 @@ const typeLabels: Record<string, string> = {
   person: 'Person',
   faction: 'Faction / Organisation',
   location: 'System / Location',
+  technology: 'Technology / Ship',
 };
 ---
 
@@ -42,7 +43,7 @@ const typeLabels: Record<string, string> = {
     <div class="holo-panel">
       <div style="display: flex; align-items: center; gap: 16px; margin-bottom: 16px;">
         <div class={`entity-icon ${entity?.type || 'person'}`} style="width: 48px; height: 48px; font-size: 18px;">
-          {entity?.type === 'person' ? 'P' : entity?.type === 'faction' ? 'F' : 'L'}
+          {entity?.type === 'person' ? 'P' : entity?.type === 'faction' ? 'F' : entity?.type === 'technology' ? 'T' : 'L'}
         </div>
         <div>
           <h1 style="margin: 0; font-family: var(--font-hud); font-size: 24px; color: var(--elite-orange);">
@@ -69,7 +70,7 @@ const typeLabels: Record<string, string> = {
           {related.map((rel) => (
             <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/entity/${rel.id}/`} class="entity-card" style="text-decoration: none;">
               <div class={`entity-icon ${rel.type || 'person'}`}>
-                {rel.type === 'person' ? 'P' : rel.type === 'faction' ? 'F' : 'L'}
+                {rel.type === 'person' ? 'P' : rel.type === 'faction' ? 'F' : rel.type === 'technology' ? 'T' : 'L'}
               </div>
               <div>
                 <div class="entity-name">{rel.name}</div>

@@ -41,25 +41,43 @@ function wikiLinkToHtml(text: string, baseUrl: string): string {
   });
 }
 
-function TagList({ items, color }: { items: string[]; color: string }) {
+function makeEntityId(name: string): string {
+  return name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-');
+}
+
+function TagList({ items, color, baseUrl }: { items: string[]; color: string; baseUrl: string }) {
   if (!items.length) return null;
   return (
     <div style={{ display: 'flex', gap: 6, flexWrap: 'wrap', marginTop: 8 }}>
-      {items.map((item) => (
-        <span
-          key={item}
-          style={{
-            fontFamily: 'var(--font-mono)',
-            fontSize: 11,
-            color,
-            border: `1px solid ${color}`,
-            padding: '2px 8px',
-            opacity: 0.8,
-          }}
-        >
-          {item}
-        </span>
-      ))}
+      {items.map((item) => {
+        const eid = makeEntityId(item);
+        return (
+          <a
+            key={item}
+            href={`${baseUrl}/entity/${eid}/`}
+            style={{
+              fontFamily: 'var(--font-mono)',
+              fontSize: 11,
+              color,
+              border: `1px solid ${color}`,
+              padding: '2px 8px',
+              opacity: 0.8,
+              textDecoration: 'none',
+              transition: 'all 0.15s',
+            }}
+            onMouseEnter={(e) => {
+              (e.currentTarget as HTMLElement).style.opacity = '1';
+              (e.currentTarget as HTMLElement).style.background = color.replace(')', ', 0.15)').replace('rgb', 'rgba');
+            }}
+            onMouseLeave={(e) => {
+              (e.currentTarget as HTMLElement).style.opacity = '0.8';
+              (e.currentTarget as HTMLElement).style.background = 'transparent';
+            }}
+          >
+            {item}
+          </a>
+        );
+      })}
     </div>
   );
 }
@@ -222,10 +240,10 @@ export default function Timeline({
                     )}
 
                     {/* Tags */}
-                    <TagList items={art.persons || []} color="var(--elite-blue)" />
-                    <TagList items={art.groups || []} color="var(--elite-orange)" />
-                    <TagList items={art.technologies || []} color="var(--elite-green)" />
-                    <TagList items={art.entities || []} color="var(--elite-yellow)" />
+                    <TagList items={art.persons || []} color="var(--elite-blue)" baseUrl={baseUrl} />
+                    <TagList items={art.groups || []} color="var(--elite-orange)" baseUrl={baseUrl} />
+                    <TagList items={art.technologies || []} color="var(--elite-green)" baseUrl={baseUrl} />
+                    <TagList items={art.entities || []} color="var(--elite-yellow)" baseUrl={baseUrl} />
                   </div>
                 )}
               </div>
