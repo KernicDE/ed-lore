@@ -11,6 +11,8 @@ locations:
 - Sol
 topics:
 - politics
+- espionage
+- crime
 arc_id: null
 modern_impact: "The Federal Free Press editorial systematically dismantles each initiative: McFarlane's conflict of interest on the media regulator, the tax trap for Winters, military-grade surveillance through the PDB-Navy merger, and Berkovich's control over think tank reports. This shows how Hudson is trying to lock in Republican advantages before leaving office."
 persons:

@@ -10,6 +10,7 @@ groups:
 - Shadow President
 topics:
 - politics
+- espionage
 arc_id: null
 modern_impact: "Winters's framing — 'these pro-Republican measures are being pushed through because of Jerome Archer's poor electoral performance' — is direct political accusation. Her guarantee to dismantle the PDB is a core campaign promise. McKenna's concern about military spending cuts during wartime reflects defence industry anxiety. The clash between fiscal responsibility and military readiness is a key tension."
 persons:

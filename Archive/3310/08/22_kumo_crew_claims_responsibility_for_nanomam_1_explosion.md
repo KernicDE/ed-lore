@@ -14,6 +14,7 @@ topics:
 - succession
 - terrorism
 - politics
+- espionage
 arc_id: null
 modern_impact: "Delaine's statement — 'All the surveillance technology in the galaxy could not prevent the Kumo Crew from reaching Jerome Archer's personal vehicle' — is a direct challenge to the Federation's security state. His reference to Arissa's ambush links two separate attacks into a coordinated campaign. The closing observation about 'post-Thargoid invasion uncertainty' with cooled economic climate and population movements frames the attack as symptomatic of broader galactic instability."
 persons:

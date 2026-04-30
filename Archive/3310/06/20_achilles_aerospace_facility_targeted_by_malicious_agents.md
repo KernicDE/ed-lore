@@ -12,6 +12,7 @@ topics:
 - crime
 - engineering
 - ship
+- espionage
 modern_impact: "The attack's sophistication — 'incredibly sophisticated technology' to forge passes, unidentified perpetrators 'not identifiable in any active database' — suggests a well-resourced adversary. Achilles' pivot to praising 'the security robots produced by their Robotics division' is a masterclass in corporate spin, turning a security breach into a product advertisement. The reassurance that manufacturing was unaffected is strategically important given the SCO drive's market significance."
 persons: []
 technologies:

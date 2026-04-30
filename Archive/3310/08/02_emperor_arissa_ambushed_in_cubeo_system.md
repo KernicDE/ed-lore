@@ -14,6 +14,7 @@ topics:
 - festival
 - succession
 - politics
+- terrorism
 arc_id: null
 modern_impact: "The ambush on Arissa — 'a mission in which no participant expected to survive' — signals a new level of audacity from anti-Imperial forces. Patreus's statement that 'the Empire's traditional foes have nurtured their true ambitions in the shadow of the Thargoid conflict' frames domestic terrorism as exploiting wartime distraction. Aisling's condemnation as 'a regrettable act by the lost or desperate' shows her softer political positioning compared to Patreus's militarism."
 persons:

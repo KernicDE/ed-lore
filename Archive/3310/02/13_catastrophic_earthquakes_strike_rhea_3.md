@@ -11,6 +11,7 @@ locations:
 topics:
 - humanitarian
 - politics
+- terrorism
 arc_id: null
 modern_impact: "Kennelly's comparison — 'The only disaster on this scale that we've seen in Rhea was when NMLA terrorists bombed Ito Orbital' — contextualises the devastation. The unverified reports that 'contact has been lost with members of her family' adds personal stakes to Winters' response. Rochester's statement — 'Our focus right now should be on aiding those affected by this tragedy' — shows political restraint. The Empirical journal's observation about terraformed planets underscores the unpredictability of planetary engineering."
 persons:
