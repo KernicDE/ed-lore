@@ -1,0 +1,23 @@
+---
+uuid: 111617dc-8948-5bee-803f-c4e0687be612
+title: 'No Progress with Dredger Deadlock '
+slug: no_progress_with_dredger_deadlock
+date: '3307-11-09'
+source: API
+groups:
+- Canonn
+- Canonn Interstellar Research Group
+topics:
+- research
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
+significance: low
+---
+
+The nomadic Scriveners Clan continues to resist Orion University’s attempts to take possession of their dredger.
+Freelance reporter Casey Kilpatrick published an update from the Oochost PC-C c29-0 system:
+“Orion University’s claim that the vessel is their property has been countered by Advocacy’s reminder of laws preventing cultural contamination. So the question now is: who actually owns the dredger? Is it the families that have lived there for generations, or the organisation which originally built it?”
+“Various solutions have been proposed to resolve this stand-off. These include an offer from Canonn Interstellar Research Group to purchase the dredger from Orion University, gift it to the Scriveners Clan then publicly share the contents of their mysterious Knowledge Core.”
+“However, two centuries of isolation have instilled this academia-focused society with a pathological need to protect its research. They are no more likely to cooperate than a deeply religious nation asked to hand over its most holy artefact.”
+“Orion’s megaship Scientia Aeterna is still transmitting requests to communicate. I have even seen one of its secondary craft narrowly avoid being consumed by the dredger’s maw while searching for an access point. But the Scriveners are locked down tight, and this siege situation shows no sign of ending.”

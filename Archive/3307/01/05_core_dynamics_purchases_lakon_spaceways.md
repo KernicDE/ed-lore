@@ -1,0 +1,30 @@
+---
+uuid: 0f5eb161-235f-5b88-9f2d-03c7d6374c08
+title: Core Dynamics Purchases Lakon Spaceways
+slug: core_dynamics_purchases_lakon_spaceways
+date: '3307-01-05'
+source: API
+entities:
+- Jupiter Rochester
+groups:
+- Alliance
+- Core Dynamics
+locations:
+- Jupiter
+topics:
+- construction
+- corporate expansion
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
+---
+
+The shipbuilding company Lakon Spaceways has officially accepted a bid for ownership from Federal corporation Core Dynamics.
+The proposal from Core Dynamics CEO Jupiter Rochester was ratified following a majority vote by Lakon’s board of directors, many of whom were recently appointed following resignations demanded by shareholders.
+Trent Delaney, the new chairperson, confirmed the merger in a public statement:
+“We are overjoyed that Lakon Spaceways will join the Core Dynamics family, thereby overturning the mistakes of the previous management and setting us on course for a bright future.”
+“The transfer of ownership will take another two months to formalise. In that time, it will be business as usual for the manufacture and sale of our ships.”
+The Federal Commerce Authority has approved the corporate takeover. However, the Independent Commission for Market Equality is still investigating reports of irregularities.
+The Council of Admirals has expressed concerns that a military supplier for the Alliance Defence Force should be owned by a Federal defence contractor. Admiral Rachel Ziegler informed the Assembly:
+“Regardless of our cordial relationship with the Federation, security issues will inevitably arise if the Alliance Chieftain and her sister ships are constructed by a foreign power. The ADF is already woefully underfunded, and this places extra strain on our ability to defend our interests.”

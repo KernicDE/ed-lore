@@ -1,0 +1,30 @@
+---
+uuid: b11ce1f8-7cec-53e0-8472-ac95e77d789f
+title: Hadrian Duval Allegations Declared ‘Inconclusive’
+slug: hadrian_duval_allegations_declared_inconclusive
+date: '3307-05-21'
+source: API
+groups:
+- IISS
+- NMLA
+- Nova Imperium
+locations:
+- Paresa
+topics:
+- construction
+- diplomacy
+arc_id: nmla-terrorism
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
+legacy_weight: 5
+significance: high
+---
+
+Evidence that Imperator Hadrian Augustus Duval masterminded the NMLA terror campaign cannot be authenticated, according to ACT.
+Inspector Mara Klatt, one of ACT’s joint leaders, delivered this report:
+“We have rigorously analysed data provided by the Landgrave of Mudhrid that contains detailed instructions from Hadrian Duval. The content undoubtedly arranges the starport bombings, but its source is inconclusive. It now seems highly plausible that his identity was faked by the NMLA.”
+Hadrian Duval made an announcement via the Paresa News Network:
+“There can no longer be any doubt that the NMLA planted a false trail in order to incriminate us. They aim to slay every Duval and demolish Imperial traditions, a goal that the Federation is clearly happy to support.”
+“Lady Astrid and I are deeply grateful to the Nova Navy, and all the other pilots who helped to defend our honour.”
+The Federal Diplomatic Corps confirmed that the League of Mandu, which was defeated by Nova Imperium, will withdraw from the Paresa system but made no reference to ACT’s report.
+Praetor Leo Magnus, head of security for Nova Imperium and a former IISS officer, has been seconded to ACT. He will serve as a replacement for the deceased Captain Niamh Seutonia.

@@ -1,0 +1,33 @@
+---
+uuid: 5cd90cb7-e73b-553f-bdcf-cb7b311cc0df
+title: Alliance Election Candidates Announce Community Drives
+slug: alliance_election_candidates_announce_community_drives
+date: '3307-05-20'
+source: API
+entities:
+- Edmund Mahon
+groups:
+- Alliance
+- Pilots Federation
+locations:
+- Alliance-controlled
+- Brett High in the Tionisla
+- Dublin Citadel in the Gateway
+- Tionisla
+topics:
+- construction
+- ship
+- trade
+arc_id: alliance-expansion
+modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+legacy_weight: 3
+significance: medium
+---
+
+*Pilots Federation ALERT*
+Prime Minister Edmund Mahon and Councillor Nakato Kaine have launched rival delivery initiatives in Alliance space.
+The two leading candidates for Alliance prime minister are attempting to gather public support, although the actual election will be determined by votes within the Assembly on the 27th of May.
+Every opinion poll suggests that Mahon’s victory is all but confirmed, which will grant him a second six-year term. However, the outcomes of these community drives will directly affect the successful candidate’s policies once in office.
+Prime Minister Mahon is focusing on increasing industrial materials to aid expansion. He has requested that shipments of ceramic composites, polymers and superconductors are delivered to Dublin Citadel in the Gateway system.
+Councillor Kaine aims to support local manufacturers in order to boost trade. She has asked for supplies of copper, micro-controllers and polymers to be delivered to Brett High in the Tionisla system.
+Whoever is most successful will run a second campaign the following week. Mahon will launch a tritium mining initiative, leading to the construction of new Alliance starports. Kaine will use void opal mining to help stimulate trade, increasing the availability of rare goods in Alliance-controlled systems.
