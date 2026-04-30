@@ -23,11 +23,11 @@ Total mentions: **50**
 
 ## Related
 
-- [[Thargoid]] (47 co-mentions)
-- [[ACT]] (43 co-mentions)
+- [[Thargoid]] (46 co-mentions)
+- [[ACT]] (42 co-mentions)
 - [[Aegis]] (37 co-mentions)
-- [[Alliance]] (11 co-mentions)
-- [[Titan]] (10 co-mentions)
+- [[Alliance]] (10 co-mentions)
+- [[Titan]] (9 co-mentions)
 
 ## Biography
 

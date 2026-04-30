@@ -6,24 +6,24 @@ date: '3309-12-01'
 source: API
 groups:
 - Aegis
-- Thargoid
 locations:
-- Aegis
 - HIP 22460
 - Hyades
 - Hyades Sector
-- Thargoid
-- The star
-- Titan
 topics:
 - alien contact
-- construction
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Tanner's warning — 'Those who fought in the HIP 22460 campaign and witnessed the Proteus Wave event will testify to the dangers of assuming the war is won' — references a major past event. The mention of starport repairs in Hupang, Swahku and HR1737 shows the human cost of reclamation."
+persons:
+- Aden Tanner
+player_impact: "Pilots pushed Thargoids out of all systems in Titan Taranis's area of control. Systems like Hupang, Swahku and HR1737 initiated repairs to abandoned starports."
+summary: "Human forces surround Titan Taranis's system, having pushed Thargoids out of all controlled systems. Tanner urges continued vigilance, warning against complacency."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 81865303-e582-5bfe-9456-f4a6edde499c
+- 14d322c7-81ac-5a46-a77a-ad62d203ef84
 ---
 
 The star system Hyades Sector FB-N B7-6, which contains Thargoid Titan Taranis, has been surrounded by human forces.

@@ -23,10 +23,10 @@ Articles: **83**
 
 ## Key Figures
 
-- [[Aegis]] (49 mentions)
-- [[Thargoid]] (42 mentions)
-- [[ACT]] (32 mentions)
-- [[Alliance]] (18 mentions)
+- [[Aegis]] (50 mentions)
+- [[Thargoid]] (39 mentions)
+- [[ACT]] (30 mentions)
+- [[Alliance]] (17 mentions)
 - [[Sirius Corporation]] (10 mentions)
 
 ## Description

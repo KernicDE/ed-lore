@@ -9,8 +9,8 @@ related_entities:
 - alliance
 - sirius-corporation
 - edmund-mahon
-- act
 - sol
+- titan
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **14**
 - [[Alliance]] (10 co-mentions)
 - [[Sirius Corporation]] (4 co-mentions)
 - [[Edmund Mahon]] (2 co-mentions)
-- [[ACT]] (2 co-mentions)
 - [[Sol]] (1 co-mentions)
+- [[Titan]] (1 co-mentions)
 
 ## Biography
 

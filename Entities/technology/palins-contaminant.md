@@ -1,6 +1,6 @@
 ---
-id: thargoid-pulse-neutraliser
-name: Thargoid pulse neutraliser
+id: palins-contaminant
+name: Palin's contaminant
 type: technology
 first_seen_date: '3309-12-29'
 last_seen_date: '3309-12-29'
@@ -9,7 +9,7 @@ mention_count: 1
 
 <!-- AUTO-GENERATED -->
 
-# Thargoid pulse neutraliser
+# Palin's contaminant
 
 First mentioned: **3309-12-29**  
 Last mentioned: **3309-12-29**  

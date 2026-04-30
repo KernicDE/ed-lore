@@ -10,7 +10,7 @@ related_entities:
 - act
 - alliance
 - hip-22460
-- professor-palin
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **13**
 
 ## Related
 
-- [[Thargoid]] (12 co-mentions)
-- [[ACT]] (8 co-mentions)
+- [[Thargoid]] (10 co-mentions)
+- [[ACT]] (7 co-mentions)
 - [[Alliance]] (3 co-mentions)
 - [[HIP 22460]] (3 co-mentions)
-- [[Professor Palin]] (3 co-mentions)
+- [[Aegis]] (3 co-mentions)
 
 ## Biography
 

@@ -4,34 +4,29 @@ title: Alliance Lifts Quarantine for Thargoid Abductees
 slug: alliance_lifts_quarantine_for_thargoid_abductees
 date: '3309-12-18'
 source: API
-entities:
-- Mahon knows that this will be
+entities: []
 groups:
-- ACT
 - Alliance
 - Azimuth
-- Thargoid
 locations:
-- Azimuth
-- Federation and independent
 - Kamadhenu
 - Sirius
-- Thargoid
-- Those who hail from an Allied
-- Titan
 topics:
-- alien contact
-- corporate expansion
-- crime
 - humanitarian
 - medicine
-- ship
-- war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+- politics
+arc_id: null
+modern_impact: "Mahon's call — 'We must not treat these unfortunates as criminals or laboratory specimens. During this dark time of war, let our humanity shine through' — frames the Alliance as morally superior. Driscoll's analysis — 'asking the other superpowers to follow suit frames the Alliance as a more humanitarian society than its counterparts' — confirms the political calculation. Azimuth's offer for 'cutting-edge xenological detection procedures' is a commercial opportunity disguised as science."
+persons:
+- Edmund Mahon
+- Vanya Driscoll
+player_impact: "Not specifically mentioned — this is a policy announcement."
+summary: "The Alliance ends quarantine for Thargoid abductees, with Mahon calling on other superpowers to follow suit, while medical institutes and Azimuth Biotech oppose the decision."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 1ed16e6f-a390-561a-9714-cbce1ac815a3
+- 023030b3-b87d-5220-9488-e82e00d7f4c4
 ---
 
 The Alliance has ended medical isolation for all citizens who were rescued from the Titans after being abducted by Thargoid vessels.

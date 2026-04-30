@@ -5,27 +5,34 @@ slug: utopia_shares_update_on_nemesis_failsafe
 date: '3309-12-11'
 source: API
 groups:
-- ACT
 - Aegis
 - Azimuth
 - Salvation
 - Utopia
 locations:
-- Aegis
-- Azimuth
 - Bright Sentinel
-- Guardian
 - HIP 22460
 topics:
 - alien contact
 - research
-- ship
-- xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+modern_impact: "Antal's request to meet Seo Jin-ae — 'Her unique experience with Salvation's methods and independent research into his character may help me resolve some remaining questions' — elevates her expertise. Banerjee's reporting on exoneurologist scepticism — 'few believe that a living mind could be converted into electromagnetic pulses' — provides scientific context. Rademaker's dismissal — 'inappropriate and disrespectful to the memory of our founder' — shows Azimuth's corporate denial."
+persons:
+- Pranav Antal
+- Seo Jin-ae
+- Leon Banerjee
+- Torben Rademaker
+- Caleb Wycherley
+technologies:
+- Nemesis Failsafe
+- Sim-Archive technology
+- Guardian energy particles
+player_impact: "Not specifically mentioned — this is a scientific/political report."
+summary: "Pranav Antal discusses Utopia's analysis of Salvation's Nemesis Failsafe schematics, inviting Seo Jin-ae to collaborate while dismissing claims of Utopia's involvement."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 436efa16-375d-5dec-9bd0-bd524ecc6727
 ---
 
 Simguru Pranav Antal has discussed Utopia’s analysis of the designs for a Guardian-based device allegedly constructed by Salvation.

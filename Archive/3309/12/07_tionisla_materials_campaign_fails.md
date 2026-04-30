@@ -5,25 +5,24 @@ slug: tionisla_materials_campaign_fails
 date: '3309-12-07'
 source: API
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Sirius
 - Tionisla
 topics:
-- alien contact
 - corporate expansion
-- engineering
 - independence
 - investigation
-- ship
 - trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Kaine's framing — 'The purpose of this campaign was to demonstrate the core principles of the Alliance: independence, self-sufficiency and mutual support' — positions the failure as a learning moment. Yong-Rui's counter — 'Kaine's rogue operation in Tionisla only demonstrates how partisan some of us have become' — frames her as a partisan obstacle. The cancellation of ship discounts is a tangible consequence of the failure."
+persons:
+- Nakato Kaine
+- Li Yong-Rui
+player_impact: "Pilots who earned bounty vouchers protecting traders can collect rewards from Brett High. The intended discount on Alliance Challenger, Chieftain and Crusader has been cancelled."
+summary: "Nakato Kaine's Tionisla delivery campaign fails to reach its target, with Yong-Rui blaming Assembly obstruction and Kaine reaffirming Alliance self-sufficiency principles."
 legacy_weight: 5
 significance: high
 ---

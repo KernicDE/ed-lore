@@ -4,17 +4,20 @@ title: Help Harksing’s Gifts Reach Recipients
 slug: help_harksings_gifts_reach_recipients
 date: '3309-12-15'
 source: API
-groups:
-- ACT
+groups: []
 locations:
 - Delphi
 topics:
-- construction
-- corruption
-- diplomacy
-- ship
-- sport
-modern_impact: Ship review and release information for the pilot community.
+- culture
+modern_impact: "Abara's profile captures Harksing's character — 'Such boyish enthusiasm, coupled with the odd nature of his creations, has made him a local celebrity.' The description of his gifts — from 'chin-mounted palate-cleansing robot' to 'Furry Yuri teddy bear' to 'Filial Pursuit card game' — shows his whimsical nature. The Tau Ceti Journal's cynical take contrasts with the general view of him as 'joyful and philanthropic.'"
+persons:
+- Harald Harksing
+- Lishan Abara
+- Giles Cappelleo
+- Delphine Dumont
+- Otto Lombardo-Duval
+player_impact: "Not specifically mentioned — this is a cultural report."
+summary: "Eccentric inventor Harald Harksing's gift-delivery database is corrupted, preventing his latest batch of custom inventions from reaching their celebrity recipients."
 legacy_weight: 1
 significance: low
 ---

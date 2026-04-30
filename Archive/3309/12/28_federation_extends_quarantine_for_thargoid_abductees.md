@@ -4,27 +4,26 @@ title: Federation Extends Quarantine for Thargoid Abductees
 slug: federation_extends_quarantine_for_thargoid_abductees
 date: '3309-12-28'
 source: API
-entities:
-- Edmund Mahon
-- Zachary Hudson discussed
-groups:
-- ACT
-- Alliance
-- Thargoid
-locations:
-- Thargoid
-- Titan
+entities: []
+groups: []
+locations: []
 topics:
-- alien contact
-- diplomacy
 - humanitarian
 - medicine
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Hudson's justification — 'When at war with such an implacable enemy as the Thargoids, we simply cannot afford to take any risks' — contrasts with Winters's humanitarian approach. Winters's detailed plan — 'mandatory medical checks' to 'allay fears and minimise any social ostracism' — shows policy nuance. The direct policy clash between outgoing and incoming presidents is notable."
+persons:
+- Edmund Mahon
+- Zachary Hudson
+- Felicia Winters
+player_impact: "Not specifically mentioned — this is a policy announcement."
+summary: "The Federation extends quarantine for Thargoid abductees, with Hudson citing security concerns while Winters promises to bring them home once she takes office."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 0d85d087-4cc7-5282-8b29-50acf157672b
+- 023030b3-b87d-5220-9488-e82e00d7f4c4
 ---
 
 Federal citizens who were captured by Thargoids then rescued from the Titans will not yet be permitted to leave secure medical facilities.

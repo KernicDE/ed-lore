@@ -1,18 +1,18 @@
 ---
-id: leon-banerjee
-name: Leon Banerjee
-type: person
+id: nemesis-failsafe
+name: Nemesis Failsafe
+type: technology
 first_seen_date: '3309-12-11'
-last_seen_date: '3310-03-12'
+last_seen_date: '3309-12-21'
 mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Leon Banerjee
+# Nemesis Failsafe
 
 First mentioned: **3309-12-11**  
-Last mentioned: **3310-03-12**  
+Last mentioned: **3309-12-21**  
 Total mentions: **2**
 
 ## Related

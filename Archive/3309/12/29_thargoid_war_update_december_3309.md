@@ -5,26 +5,29 @@ slug: thargoid_war_update_december_3309
 date: '3309-12-29'
 source: API
 groups:
-- ACT
 - Aegis
-- Alliance
-- Thargoid
 locations:
-- Aegis
-- Hundreds of
 - Maelstrom
-- Many fallen
-- Thargoid
-- Titan
 topics:
 - alien contact
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Sanderlyn's summary — 'death toll over a billion. Billions more were forced to flee' — quantifies the devastation. Her mention of 'the pulse wave xeno scanner, Thargoid pulse neutraliser and sub-surface extraction missile' catalogues key technological advances. The hopeful closing — 'there is real hope that this most terrible period of history may have some end in sight' — frames 3310 as potentially transformative."
+persons:
+- Jade Sanderlyn
+technologies:
+- pulse wave xeno scanner
+- Thargoid pulse neutraliser
+- sub-surface extraction missile
+- Palin's contaminant
+player_impact: "Pilots destroyed countless Thargoid vessels, recovered fallen systems, and liberated hundreds of thousands of abducted people from Titans."
+summary: "Jade Sanderlyn's year-end reflection on the Thargoid war, covering the Maelstrom arrivals, Titan revelations, technological breakthroughs, spire site victories, and the liberation of abductees."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4c62dc4e-abaf-5f13-9212-5370f5d1668f
+- 81865303-e582-5bfe-9456-f4a6edde499c
+- 0d85d087-4cc7-5282-8b29-50acf157672b
 ---
 
 As the year draws to a close, Jade Sanderlyn reflects on humanity’s ongoing conflict against the Thargoids in a summary for Vox Galactica.
