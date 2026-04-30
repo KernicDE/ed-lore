@@ -4,7 +4,7 @@ name: ACT
 type: faction
 first_seen_date: '3308-01-03'
 last_seen_date: '3312-04-23'
-mention_count: 357
+mention_count: 356
 related_entities:
 - thargoid
 - aegis
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3308-01-03**  
 Last mentioned: **3312-04-23**  
-Total mentions: **357**
+Total mentions: **356**
 
 ## Related
 

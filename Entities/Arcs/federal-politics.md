@@ -3,7 +3,7 @@ id: federal-politics
 name: Federal Politics
 first_seen_date: '3301-02-15'
 last_seen_date: '3310-10-31'
-mention_count: 56
+mention_count: 55
 significance: medium
 key_entities:
 - federal-times
@@ -19,7 +19,7 @@ key_entities:
 
 First seen: **3301-02-15**  
 Last seen: **3310-10-31**  
-Articles: **56**
+Articles: **55**
 
 ## Key Figures
 

@@ -6,11 +6,19 @@ date: '3310-06-13'
 source: API
 topics:
 - piracy
-- war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+- politics
+arc_id: null
+modern_impact: "Archer's pivot from thanking pilots to attacking Winters — 'A President-elect who, I remind you, seems uninterested in the security of her citizens' — reveals his political opportunism. His specific claim that Winters wants to 'shut down resources like the PDB' references a policy difference. The call for 'Zachary Hudson another term as President' is a direct challenge to the electoral process and constitutional norms. This article shows how Archer weaponises security incidents for political gain."
+persons:
+- Jerome Archer
+- Felicia Winters
+- Zachary Hudson
+player_impact: "Pilots who helped defend De Caminha station from pirates can collect their rewards."
+summary: "Jerome Archer thanks pilots for securing De Caminha station, then pivots to political attacks on Felicia Winters' absence and calls for Hudson to remain in office."
 legacy_weight: 3
 significance: medium
+related_uuids:
+- bfd168d0-925f-5aba-b333-bfaf88c06f1a
 ---
 
 The pirates attacking De Caminha have been eliminated, and supplies have been provided to prevent further attacks.

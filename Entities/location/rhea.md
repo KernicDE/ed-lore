@@ -7,8 +7,8 @@ last_seen_date: '3311-05-15'
 mention_count: 17
 related_entities:
 - act
-- thargoid
 - sirius-corporation
+- thargoid
 - alliance
 - leesti
 ---
@@ -24,8 +24,8 @@ Total mentions: **17**
 ## Related
 
 - [[ACT]] (9 co-mentions)
-- [[Thargoid]] (8 co-mentions)
 - [[Sirius Corporation]] (7 co-mentions)
+- [[Thargoid]] (7 co-mentions)
 - [[Alliance]] (6 co-mentions)
 - [[Leesti]] (4 co-mentions)
 

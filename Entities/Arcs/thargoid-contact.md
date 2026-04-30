@@ -2,8 +2,8 @@
 id: thargoid-contact
 name: Thargoid Contact
 first_seen_date: '3302-01-15'
-last_seen_date: '3310-06-06'
-mention_count: 457
+last_seen_date: '3310-05-09'
+mention_count: 456
 significance: medium
 key_entities:
 - aegis
@@ -18,13 +18,13 @@ key_entities:
 # Thargoid Contact
 
 First seen: **3302-01-15**  
-Last seen: **3310-06-06**  
-Articles: **457**
+Last seen: **3310-05-09**  
+Articles: **456**
 
 ## Key Figures
 
 - [[Aegis]] (187 mentions)
-- [[Thargoid]] (132 mentions)
+- [[Thargoid]] (131 mentions)
 - [[Alliance]] (126 mentions)
 - [[ACT]] (126 mentions)
 - [[Sirius Corporation]] (41 mentions)

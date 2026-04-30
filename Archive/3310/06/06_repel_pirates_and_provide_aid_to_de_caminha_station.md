@@ -4,25 +4,26 @@ title: Repel Pirates and Provide Aid to De Caminha Station
 slug: repel_pirates_and_provide_aid_to_de_caminha_station
 date: '3310-06-06'
 source: API
-groups:
-- Pilots Federation
-- Thargoid
+groups: []
 locations:
 - Earth
 - Rhea
-- Thargoid
 topics:
-- alien contact
 - crime
-- diplomacy
-- medicine
 - piracy
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Archer's statement — 'The good work that the Federation is doing in the fight against the Thargoids is noble, and valuable, but it takes its toll' — frames the piracy as a direct consequence of wartime resource allocation. His call for aid to 'the Earth Defence Fleet stationed in De Caminha' is notable for invoking Earth specifically. The article establishes Archer's political positioning as a law-and-order figure concerned with domestic security."
+persons:
+- Jerome Archer
+- Felicia Winters
+- Zachary Hudson
+player_impact: "Pilots are urged to hunt down pirates attacking De Caminha station and supply the Earth Defence Fleet with medicines and equipment to prevent further attacks."
+summary: "Vice President Jerome Archer calls on pilots to defend De Caminha station from pirates and provide medical supplies, blaming the attacks on Federation resources being stretched thin by the Thargoid war."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5b0f61e4-1ce6-57f8-84e2-0bea662358b9
 ---
 
 *PILOTS FEDERATION ALERT*
