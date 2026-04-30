@@ -5,31 +5,29 @@ slug: thargoid_war_update_september_3309
 date: '3309-09-27'
 source: API
 groups:
-- ACT
 - Aegis
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Aegis
-- Federation preventing the loss of new
 - Maelstrom
-- Sirius
-- Thargoid
-- The number of Thargoid-controlled
-- This is where civilians from conquered
-- Titan
 topics:
 - alien contact
-- corporate expansion
 - research
-- ship
-- sport
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- war
+- humanitarian
+arc_id: thargoid-titan-war
+modern_impact: "Sanderlyn's framing — 'the stomach-churning truth: the Thargoids are keeping people they abduct alive' — captures public horror. Her question — 'For what purpose? We scarcely dare imagine' — maintains suspense. The observation that Thargoid-controlled systems 'have reduced significantly' and 'what seemed like a near-hopeless task... has become a shining example of human courage' provides narrative arc."
+persons:
+- Jade Sanderlyn
+- Seo Jin-ae
+player_impact: "Pilots detected human life-signs beneath Titan hulls using upgraded scanners and continue to fight Thargoid forces."
+summary: "Sanderlyn's monthly update covers the Aegis leak, Seo Jin-ae's visions, the scanner upgrade, Sirius's missile contribution, and the improving military situation."
 legacy_weight: 4
 significance: high
+related_uuids:
+- 28b10ac3-f6fd-5d10-bcbe-f2763a0345b5
+- e39b646c-4c31-5ee2-bd4d-22313518474f
+- a39bacde-3f03-579e-a87c-1f549b9287b1
+- 5649a799-45d3-5ef0-9a83-2819bdb0dbf7
 ---
 
 The race is on to develop technology which can recover humans from Thargoid Titans, reports Vox Galactica journalist Jade Sanderlyn.

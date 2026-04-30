@@ -5,28 +5,26 @@ slug: aegis_resolves_to_free_abductees_from_titans
 date: '3309-09-25'
 source: API
 groups:
-- ACT
 - Aegis
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Aegis
 - Sirius
-- Thargoid
-- Titan
 topics:
-- alien contact
-- corporate expansion
-- engineering
 - humanitarian
-- research
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- war
+arc_id: thargoid-titan-war
+modern_impact: "Colombera's explanation — 'a blueprint that repurposes sub-surface displacement missiles... originally designed to extract mineral deposits from within asteroids' — shows the creative engineering. Tanner's caution — 'these missiles are intended for minerals not people, and Thargoid technology is poorly understood' — is appropriately measured. The decision to proceed despite risks reflects the moral urgency."
+persons:
+- Ivano Colombera
+- Aden Tanner
+- Li Yong-Rui
+player_impact: "Not specifically mentioned — this is a research and development report."
+summary: "Aegis confirms human life-signs on all Titans and accelerates development of modified sub-surface extraction missiles based on Sirius Corporation blueprints."
 legacy_weight: 4
 significance: high
+related_uuids:
+- e39b646c-4c31-5ee2-bd4d-22313518474f
+- 5649a799-45d3-5ef0-9a83-2819bdb0dbf7
 ---
 
 With human life-signs now confirmed beneath the hulls of the Thargoid Titans, the urgency to mount a rescue mission has intensified. 

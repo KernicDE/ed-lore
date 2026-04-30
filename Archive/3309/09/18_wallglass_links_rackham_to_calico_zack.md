@@ -5,8 +5,6 @@ slug: wallglass_links_rackham_to_calico_zack
 date: '3309-09-18'
 source: API
 groups:
-- ACT
-- Federal Times
 - Wallglass
 - Wallglass Investigations Agency
 locations:
@@ -16,11 +14,21 @@ topics:
 - crime
 - investigation
 - piracy
-- research
-- sport
-modern_impact: Anti-piracy operation protecting trade routes.
+modern_impact: "Blanco's triumphant statement — 'This vindicates my many years investigating Rackham's criminal activities' — is personal. The detail about 'Defries learned of Zachary Rackham's alter-ego over sixteen years ago' establishes a long conspiracy. Rackham's denial — 'being associated with a mythical figure... an aura of danger that was useful in boardroom meetings' — is classic corporate spin. The withdrawal of Plaskett and Oyekan signals reputational collapse."
+persons:
+- Bryanna Blanco
+- Zachary Rackham
+- Patricia Chen
+- Sura Oyekan
+- Randolph Plaskett
+- Angelo Defries
+player_impact: "Independent pilots assisted Wallglass in unearthing a message archive in the Zeta Trianguli Australis system."
+summary: "Wallglass confirms Zachary Rackham was the pirate lord 'Calico Zack', with evidence from Angelo Defries's archive causing high-profile supporters to withdraw."
 legacy_weight: 1
 significance: low
+related_uuids:
+- e1f8912f-da0e-5d58-8e5d-3f2427694698
+- cb40c3a7-eccc-518d-a1a7-a93cde2dad4e
 ---
 
 The Federal Times has published evidence that trillionaire and presidential candidate Zachary Rackham was once the pirate lord ‘Calico Zack’.

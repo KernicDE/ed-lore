@@ -4,22 +4,28 @@ title: Rackham Withdraws from Presidential Election
 slug: rackham_withdraws_from_presidential_election
 date: '3309-09-22'
 source: API
-groups:
-- ACT
-- Federal Times
-- October
-- Wallglass
-- Wallglass Investigations Agency
+groups: []
 topics:
-- corporate expansion
 - crime
 - investigation
 - piracy
-- sport
-- war
-modern_impact: Anti-piracy operation protecting trade routes.
+- politics
+modern_impact: "Blackriver's spin — 'His amused tolerance of the nickname Calico Zack... is not an admission of any true link' — is transparent deflection. Turk's resignation as running mate is a clear signal of political toxicity. Archer's statement — 'Nobody with even a hint of criminality deserves a position of such significant power' — is rich with irony given his later actions. Winters's dismissal — 'stands aside to let the grown-ups do their work' — is characteristically direct."
+persons:
+- Zachary Rackham
+- Bryanna Blanco
+- Anya Blackriver
+- Harlan Turk
+- Patricia Chen
+- Jerome Archer
+- Felicia Winters
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "Zachary Rackham withdraws from the presidential election after Wallglass evidence links him to 'Calico Zack', with his running mate resigning and political rivals welcoming the news."
 legacy_weight: 1
 significance: low
+related_uuids:
+- e1f8912f-da0e-5d58-8e5d-3f2427694698
+- 3ac43a4d-c6c1-51d2-904b-b0dbed304d35
 ---
 
 Zachary Rackham has officially ended his election campaign, following the discovery of evidence that supported claims of his criminal past.

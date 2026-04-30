@@ -4,36 +4,32 @@ title: Aegis Releases Upgraded Xeno Scanner
 slug: aegis_releases_upgraded_xeno_scanner
 date: '3309-09-14'
 source: API
-entities:
-- Alba Tesreau
+entities: []
 groups:
-- ACT
 - Aegis
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Aegis
-- Aegis hosted a campaign in the Rabh
 - Maelstrom
-- Muller Terminal in the Rabh
+- Muller Terminal
 - Sirius
-- Thargoid
-- Titan
 topics:
-- alien contact
 - corporate expansion
-- engineering
-- exploration
 - humanitarian
-- ship
-- trade
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Tesreau's statement — 'this could be the most important technological breakthrough in the war' — frames the scanner's significance. Tanner's detailed tactical warning — 'caustic sink launchers... Thargoid pulse neutralisers... ever-present risk of attack' — prepares pilots. His closing — 'Every human identified is a potential life saved' — provides moral motivation."
+persons:
+- Alba Tesreau
+- Aden Tanner
+- Li Yong-Rui
+player_impact: "Pilots delivered neofabric insulation, polymers and thallium to the Rabh system. Bounty vouchers for wanted ships can be redeemed at Muller Terminal."
+summary: "Aegis releases the upgraded pulse wave xeno scanner that detects human life signs on Thargoid Titans, with Tanner warning pilots about the dangers of close approach."
 legacy_weight: 5
 significance: high
+related_uuids:
+- b8701838-de3d-517f-9806-05d86c3e7554
+- 64ed46f6-a96e-55e7-932d-2ee1649bd780
+- a39bacde-3f03-579e-a87c-1f549b9287b1
 ---
 
 *Pilots’ Federation ALERT*

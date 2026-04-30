@@ -5,23 +5,18 @@ slug: rescue_megaships_scheduled_to_redeploy
 date: '3309-09-07'
 source: API
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
-- Shortening the distance between
 - Sol
-- Thargoid
 topics:
-- alien contact
 - humanitarian
-- research
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Anderson's statement — 'Shortening the distance between systems which require humanitarian support and the megaships responsible for coordinating that support is important' — reflects military confidence. The detailed schedule shows operational planning. The reassurance that 'ships or modules stored on the rescue megaships will be transported safely' addresses player concerns."
+persons:
+- Skylar Anderson
+player_impact: "Pilots should note rescue megaship redeployment schedules; stored ships/modules will be transported safely to new locations."
+summary: "Eleven rescue megaships coordinating evacuation efforts will redeploy closer to active conflict areas, with temporary suspension of missions during transit."
 legacy_weight: 5
 significance: high
 ---

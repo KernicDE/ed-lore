@@ -4,33 +4,28 @@ title: Deliver Resources for Extraction Missile Manufacture
 slug: deliver_resources_for_extraction_missile_manufacture
 date: '3309-09-28'
 source: API
-entities:
-- Alba Tesreau
+entities: []
 groups:
-- ACT
 - Aegis
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
 locations:
-- Aegis
 - Gateway
+- Springer Gateway
 - Sirius
-- Springer Gateway in the Senlu
-- Thargoid
-- Titan
 topics:
-- alien contact
-- corporate expansion
-- engineering
 - humanitarian
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Tesreau's admission — 'We could spend the next few months in a testing cycle... but lives are at risk' — shows the tension between safety and urgency. Aisling's personal message — 'My heart goes out to the families and friends of the millions unaccounted for' — is genuinely empathetic. Her framing — 'if this war has proved anything, it's that we can rise to any challenge when we work together' — is inspirational."
+persons:
+- Alba Tesreau
+- Aisling Duval
+player_impact: "Pilots were asked to deliver CMM composites, neofabric insulation and osmium to Springer Gateway in the Senlu system."
+summary: "Aegis requests materials for mass production of sub-surface extraction missiles to rescue humans from Titans, with Aisling Duval urging families to hold onto hope."
 legacy_weight: 5
 significance: high
+related_uuids:
+- a39bacde-3f03-579e-a87c-1f549b9287b1
 ---
 
 *Pilots’ Federation ALERT*

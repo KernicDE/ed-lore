@@ -4,16 +4,22 @@ title: 'Materials Received to Construct Duval Statues '
 slug: materials_received_to_construct_duval_statues
 date: '3309-09-01'
 source: API
-entities:
-- Arissa Lavigny-Duval
+entities: []
 locations:
 - Capitol
 topics:
-- ship
 - succession
-arc_id: salome-conspiracy
-modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
-  and Federal politics.
+- politics
+- culture
+arc_id: null
+modern_impact: "Lombardo-Duval's framing — 'commemorating past Emperors and other noble holders of the Duval name' — positions the project as dynastic propaganda. The pairing of Arissa with Florence Lavigny (her mother) and the reference to 'Emperor Hengist' (her father) creates a family narrative. The project being 'the brainchild' of a minor family member shows how even peripheral Duvals leverage the name."
+persons:
+- Arissa Lavigny-Duval
+- Otto Lombardo-Duval
+- Florence Lavigny
+- Hengist Duval
+player_impact: "Pilots mined or transported gold, jadeite and platinum to Kummer Acropolis in Laedla."
+summary: "Archduke Otto Lombardo-Duval's campaign to construct Duval family statues concludes, with the first statues of Arissa and Florence Lavigny planned for Capitol and Topaz."
 legacy_weight: 4
 significance: high
 ---
