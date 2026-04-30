@@ -4,13 +4,13 @@ name: Shadow President
 type: faction
 first_seen_date: '3308-01-21'
 last_seen_date: '3310-08-29'
-mention_count: 32
+mention_count: 31
 related_entities:
 - act
 - thargoid
-- zachary-hudson
-- jerome-archer
 - federal-navy
+- zachary-hudson
+- felicia-winters
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3308-01-21**  
 Last mentioned: **3310-08-29**  
-Total mentions: **32**
+Total mentions: **31**
 
 ## Related
 
-- [[ACT]] (21 co-mentions)
-- [[Thargoid]] (19 co-mentions)
-- [[Zachary Hudson]] (8 co-mentions)
-- [[Jerome Archer]] (8 co-mentions)
+- [[ACT]] (19 co-mentions)
+- [[Thargoid]] (16 co-mentions)
 - [[Federal Navy]] (8 co-mentions)
+- [[Zachary Hudson]] (7 co-mentions)
+- [[Felicia Winters]] (7 co-mentions)
 
 ## Biography
 

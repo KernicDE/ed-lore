@@ -4,30 +4,30 @@ title: First Captives Freed from Thargoid Titans
 slug: first_captives_freed_from_thargoid_titans
 date: '3309-10-10'
 source: API
-entities:
-- Himari Grey
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
-locations:
-- Aegis
-- Thargoid
-- Titan
+locations: []
 topics:
 - alien contact
-- engineering
 - humanitarian
 - medicine
-- research
-- ship
-- sport
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Grey's detailed observations — 'suspended within a chemically complex gel, not unlike amniotic fluid' and 'like an extended dream' — provide the first eyewitness account of captivity. Her note that 'The capsules are clearly designed to sustain oxygen-breathing life forms indefinitely' raises the question of Thargoid intent. The psychological trauma described — 'state of shock or showed signs of psychological trauma' — humanises the experience."
+persons:
+- Himari Grey
+technologies:
+- pulse wave xeno scanner
+- sub-surface extraction missiles
+- bio-storage capsules
+player_impact: "Pilots used extraction missiles to rescue captives from Thargoid Titans."
+summary: "The first humans rescued from Thargoid Titans arrive and survive extraction, with Dr Grey observing their physical and psychological state."
 legacy_weight: 5
 significance: high
+related_uuids:
+- fe77f573-4833-58b0-aa08-7f2b2103c21a
+- e9caae85-48b1-549d-8e2f-04f042789e3f
 ---
 
 The first humans rescued from the Thargoid motherships have started to arrive, almost all of whom have so far survived extraction.

@@ -4,17 +4,24 @@ title: The Future of the Throne
 slug: the_future_of_the_throne
 date: '3309-10-02'
 source: API
-entities:
-- Arissa Lavigny-Duval
-- Courcelle
+entities: []
 groups:
-- Imperial Herald
 - Imperial Senate
 topics:
 - succession
-arc_id: nova-imperium
-modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
-  creates a schism in Imperial politics.
+- politics
+arc_id: null
+modern_impact: "Courcelle's challenge — 'The continuation of the Duval bloodline has formed the linchpin of our society for over a thousand years' — frames succession as a constitutional crisis. Vestergaard's analysis that 'every Emperor of the last thousand years has had one or more children' and 'there has never been any indication that Arissa has a partner' makes the issue deeply personal. Blaine's defence — 'Her Majesty has sacrificed much for the Empire' — shows the court's loyalty."
+persons:
+- Arissa Lavigny-Duval
+- Lysandra Courcelle
+- Anders Blaine
+- Gudrun Vestergaard
+- Aisling Duval
+- Hadrian Duval
+- Otto Lombardo-Duval
+player_impact: "Not specifically mentioned."
+summary: "Senator Lysandra Courcelle raises concerns about Emperor Arissa's lack of heirs, sparking debate about Imperial succession."
 legacy_weight: 4
 significance: high
 ---

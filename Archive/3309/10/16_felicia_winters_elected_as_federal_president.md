@@ -4,37 +4,34 @@ title: Felicia Winters Elected as Federal President
 slug: felicia_winters_elected_as_federal_president
 date: '3309-10-16'
 source: API
-entities:
-- Alba Tesreau
-- Edmund Mahon
-- Jerome Archer formally conceded
-- Li Yong-Rui
-- Winters will remain committed
-- Zachary Hudson will remain
-groups:
-- Aegis
-- Alliance
-- Marlinist
-- Shadow President
-- Sirius Corp
-- Sirius Corporation
-- Thargoid
+entities: []
+groups: []
 locations:
-- Aegis
 - Mars
 - Olympus Village
-- Sirius
-- Thargoid
 topics:
-- alien contact
-- corporate expansion
-- ship
-- war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+- politics
+arc_id: null
+modern_impact: "Winters's victory speech — 'create optimism where there was fear, give shelter those who are vulnerable' — defines her agenda. Archer's gracious concession — 'I look forward to taking on the role of shadow president' — establishes the opposition dynamic. The Empire's 'No formal acknowledgement' while Aisling 'joined Professor Alba Tesreau' shows the nuanced Imperial response — official coldness but personal engagement through Aegis."
+persons:
+- Felicia Winters
+- Jerome Archer
+- Zachary Hudson
+- Isolde Rochester
+- Antonia Madison
+- Jasmina Halsey
+- Edmund Mahon
+- Octavia Volkov
+- Li Yong-Rui
+- Aisling Duval
+- Alba Tesreau
+player_impact: "Not specifically mentioned."
+summary: "Felicia Winters wins the 3309 Federal presidential election with a 4% majority over Jerome Archer, with congratulations from allies and a cautious response from the Empire."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 8727788d-05be-5b7c-b1a5-0a876fe6c062
+- 9de434cf-a33f-52bd-ac07-84c6aa5ef7ad
 ---
 
 The Federation has voted to elect Felicia Winters as its next president, with a four per cent vote majority over her rival Jerome Archer.

@@ -10,7 +10,7 @@ related_entities:
 - act
 - aegis
 - alliance
-- titan
+- azimuth
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **50**
 
 ## Related
 
-- [[Thargoid]] (46 co-mentions)
-- [[ACT]] (42 co-mentions)
+- [[Thargoid]] (45 co-mentions)
+- [[ACT]] (41 co-mentions)
 - [[Aegis]] (37 co-mentions)
 - [[Alliance]] (10 co-mentions)
-- [[Titan]] (9 co-mentions)
+- [[Azimuth]] (8 co-mentions)
 
 ## Biography
 

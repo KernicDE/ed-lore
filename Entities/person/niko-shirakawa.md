@@ -1,19 +1,19 @@
 ---
-id: sofia-trevino
-name: Sofia Trevino
+id: niko-shirakawa
+name: Niko Shirakawa
 type: person
 first_seen_date: '3309-10-12'
-last_seen_date: '3311-01-09'
-mention_count: 5
+last_seen_date: '3309-10-12'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Sofia Trevino
+# Niko Shirakawa
 
 First mentioned: **3309-10-12**  
-Last mentioned: **3311-01-09**  
-Total mentions: **5**
+Last mentioned: **3309-10-12**  
+Total mentions: **1**
 
 ## Related
 

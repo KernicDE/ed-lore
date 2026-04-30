@@ -6,10 +6,10 @@ first_seen_date: '3305-07-22'
 last_seen_date: '3309-10-31'
 mention_count: 6
 related_entities:
-- ishmael-palin
 - professor-palin
-- thargoid
+- ishmael-palin
 - aegis
+- thargoid
 - maia
 ---
 
@@ -23,10 +23,10 @@ Total mentions: **6**
 
 ## Related
 
-- [[Ishmael Palin]] (5 co-mentions)
 - [[Professor Palin]] (5 co-mentions)
-- [[Thargoid]] (4 co-mentions)
+- [[Ishmael Palin]] (4 co-mentions)
 - [[Aegis]] (3 co-mentions)
+- [[Thargoid]] (3 co-mentions)
 - [[Maia]] (2 co-mentions)
 
 ## Biography

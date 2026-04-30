@@ -1,0 +1,23 @@
+---
+id: bio-storage-capsules
+name: bio-storage capsules
+type: technology
+first_seen_date: '3309-10-05'
+last_seen_date: '3309-10-10'
+mention_count: 2
+---
+
+<!-- AUTO-GENERATED -->
+
+# bio-storage capsules
+
+First mentioned: **3309-10-05**  
+Last mentioned: **3309-10-10**  
+Total mentions: **2**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

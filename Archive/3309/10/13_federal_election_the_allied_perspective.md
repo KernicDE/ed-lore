@@ -4,28 +4,26 @@ title: 'Federal Election: The Allied Perspective'
 slug: federal_election_the_allied_perspective
 date: '3309-10-13'
 source: API
-entities:
-- Edmund Mahon delivered
+entities: []
 groups:
-- ACT
-- Aegis
 - Alliance
-- Thargoid
 locations:
-- Aegis
 - Jupiter
-- Thargoid
-- The latest voting polls from Federal
 topics:
-- alien contact
 - diplomacy
-- piracy
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Kaine's critique — 'the Starship One conspiracy, Jupiter Division's attempted coup, the secession crisis triggered by the Proactive Detection Bureau's operation' — is a comprehensive indictment of Hudson's presidency. Her admiration for Federal democracy — 'Federal democracy is now empowering every individual to elect their leaders' — is a pointed contrast with Alliance elitism. Driscoll's observation about 'a friendlier Federation' and rescinding 'isolationist decree' frames the economic opportunity."
+persons:
+- Edmund Mahon
+- Nakato Kaine
+- Vanya Driscoll
+player_impact: "Not specifically mentioned."
+summary: "Allied leaders observe the Federal election, with Mahon expecting stability, Kaine criticising Hudson's authoritarianism, and Driscoll noting private preferences for Winters."
 legacy_weight: 4
 significance: high
+related_uuids:
+- ba96abf1-456d-5b32-aa72-2a4b52ee1484
 ---
 
 The Alliance is observing the Federal president election, but expects little will change in relationships between the two superpowers.

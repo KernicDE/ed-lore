@@ -2,18 +2,18 @@
 id: conrad-sterling
 name: Conrad Sterling
 type: person
-first_seen_date: '3310-10-21'
+first_seen_date: '3309-10-05'
 last_seen_date: '3311-12-19'
-mention_count: 10
+mention_count: 11
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Conrad Sterling
 
-First mentioned: **3310-10-21**  
+First mentioned: **3309-10-05**  
 Last mentioned: **3311-12-19**  
-Total mentions: **10**
+Total mentions: **11**
 
 ## Related
 

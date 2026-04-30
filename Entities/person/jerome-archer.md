@@ -3,14 +3,14 @@ id: jerome-archer
 name: Jerome Archer
 type: person
 first_seen_date: '3307-03-30'
-last_seen_date: '3309-10-12'
-mention_count: 10
+last_seen_date: '3309-06-26'
+mention_count: 8
 related_entities:
 - shadow-president
-- sol
 - felicia-winters
+- sol
 - act
-- thargoid
+- federal-times
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Jerome Archer
 
 First mentioned: **3307-03-30**  
-Last mentioned: **3309-10-12**  
-Total mentions: **10**
+Last mentioned: **3309-06-26**  
+Total mentions: **8**
 
 ## Related
 
-- [[Shadow President]] (8 co-mentions)
-- [[Sol]] (5 co-mentions)
-- [[Felicia Winters]] (5 co-mentions)
-- [[ACT]] (5 co-mentions)
-- [[Thargoid]] (4 co-mentions)
+- [[Shadow President]] (6 co-mentions)
+- [[Felicia Winters]] (4 co-mentions)
+- [[Sol]] (3 co-mentions)
+- [[ACT]] (3 co-mentions)
+- [[Federal Times]] (2 co-mentions)
 
 ## Biography
 

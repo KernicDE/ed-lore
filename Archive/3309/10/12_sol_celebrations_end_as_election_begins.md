@@ -4,31 +4,29 @@ title: Sol Celebrations End as Election Begins
 slug: sol_celebrations_end_as_election_begins
 date: '3309-10-12'
 source: API
-entities:
-- Felicia Winters
-- Hudson will remain
-- Jerome Archer
+entities: []
 groups:
-- ACT
-- Federal Times
-- October
 - Shadow President
-- Thargoid
 locations:
-- All temporary
 - Sol
-- Thargoid
 topics:
-- alien contact
-- construction
-- humanitarian
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Trevino's analysis — 'one of the closest-run elections in the Federation's history, reflecting the polarisation that has taken place' — captures the political divide. Her framing of Archer — 'his flagship creation, the Proactive Detection Bureau, remains highly divisive' — shows the central policy battle. The note that 'Hudson will remain in office as caretaker president until the official inauguration' establishes the transition timeline."
+persons:
+- Jerome Archer
+- Niko Shirakawa
+- Felicia Winters
+- Isolde Rochester
+- Sofia Trevino
+- Zachary Hudson
+player_impact: "Pilots who supplied rare goods can collect payment from Li Qing Jao starport."
+summary: "Federal voting begins after Sol celebrations conclude, with profiles of both candidates and their running mates."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 8727788d-05be-5b7c-b1a5-0a876fe6c062
+- ba96abf1-456d-5b32-aa72-2a4b52ee1484
 ---
 
 *Pilots’ Federation ALERT*

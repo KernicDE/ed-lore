@@ -1,7 +1,7 @@
 ---
-id: mackenzie-coates
-name: Mackenzie Coates
-type: person
+id: shamash
+name: Shamash
+type: location
 first_seen_date: '3309-10-26'
 last_seen_date: '3309-10-27'
 mention_count: 2
@@ -9,7 +9,7 @@ mention_count: 2
 
 <!-- AUTO-GENERATED -->
 
-# Mackenzie Coates
+# Shamash
 
 First mentioned: **3309-10-26**  
 Last mentioned: **3309-10-27**  

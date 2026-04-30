@@ -4,7 +4,7 @@ name: Alliance
 type: faction
 first_seen_date: '3301-02-19'
 last_seen_date: '3312-02-20'
-mention_count: 440
+mention_count: 438
 related_entities:
 - act
 - thargoid
@@ -19,14 +19,14 @@ related_entities:
 
 First mentioned: **3301-02-19**  
 Last mentioned: **3312-02-20**  
-Total mentions: **440**
+Total mentions: **438**
 
 ## Related
 
-- [[ACT]] (107 co-mentions)
-- [[Thargoid]] (105 co-mentions)
-- [[Aegis]] (81 co-mentions)
-- [[Sirius Corporation]] (75 co-mentions)
+- [[ACT]] (105 co-mentions)
+- [[Thargoid]] (102 co-mentions)
+- [[Aegis]] (78 co-mentions)
+- [[Sirius Corporation]] (74 co-mentions)
 - [[Pilots Federation]] (48 co-mentions)
 
 ## Biography

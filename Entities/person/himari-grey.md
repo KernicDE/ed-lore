@@ -3,8 +3,8 @@ id: himari-grey
 name: Himari Grey
 type: person
 first_seen_date: '3307-07-12'
-last_seen_date: '3309-10-10'
-mention_count: 3
+last_seen_date: '3307-07-20'
+mention_count: 2
 related_entities:
 - kumo-crew
 - panem
@@ -18,8 +18,8 @@ related_entities:
 # Himari Grey
 
 First mentioned: **3307-07-12**  
-Last mentioned: **3309-10-10**  
-Total mentions: **3**
+Last mentioned: **3307-07-20**  
+Total mentions: **2**
 
 ## Related
 

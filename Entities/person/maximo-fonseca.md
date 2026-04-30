@@ -3,14 +3,14 @@ id: maximo-fonseca
 name: Maximo Fonseca
 type: person
 first_seen_date: '3309-02-06'
-last_seen_date: '3309-10-31'
-mention_count: 9
+last_seen_date: '3309-09-07'
+mention_count: 8
 related_entities:
 - act
 - aegis
 - thargoid
 - alliance
-- gateway
+- maelstrom
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Maximo Fonseca
 
 First mentioned: **3309-02-06**  
-Last mentioned: **3309-10-31**  
-Total mentions: **9**
+Last mentioned: **3309-09-07**  
+Total mentions: **8**
 
 ## Related
 
-- [[ACT]] (8 co-mentions)
-- [[Aegis]] (8 co-mentions)
-- [[Thargoid]] (7 co-mentions)
+- [[ACT]] (7 co-mentions)
+- [[Aegis]] (7 co-mentions)
+- [[Thargoid]] (6 co-mentions)
 - [[Alliance]] (4 co-mentions)
-- [[Gateway]] (3 co-mentions)
+- [[Maelstrom]] (3 co-mentions)
 
 ## Biography
 

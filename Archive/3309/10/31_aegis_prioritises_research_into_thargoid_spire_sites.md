@@ -4,29 +4,31 @@ title: Aegis Prioritises Research into Thargoid Spire Sites
 slug: aegis_prioritises_research_into_thargoid_spire_sites
 date: '3309-10-31'
 source: API
-entities:
-- Ishmael Palin
-- Maximo Fonseca
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
 - Abel Laboratory
-- Aegis
 - Gateway
-- Thargoid
 topics:
 - alien contact
-- construction
 - research
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Fonseca's xenopolis theory — 'Some believe that each site is an alien city' — contrasts with his war-footing interpretation. Palin's industrial theory — 'the equivalent of our extraction factories... producing or refining vast quantities of mineral substances to supply the Thargoid war machine' — will prove influential. The 'Banshee' drone designation is a new enemy type. Palin's direct appeal to pilots for samples shows community involvement."
+persons:
+- Ishmael Palin
+- Maximo Fonseca
+technologies:
+- Thargoid spire sites
+- Banshee drone
+player_impact: "Pilots can deliver compounds extracted from Thargoid spire sites to Abel Laboratory or Baird Gateway in the Arque system."
+summary: "Aegis prioritises research into rapidly evolving Thargoid spire sites, with Fonseca theorising about their purpose and Palin requesting samples."
 legacy_weight: 5
 significance: high
+related_uuids:
+- b1f7f15b-c712-5ac1-98a3-80fad085dcb1
+- c9064e45-771f-5630-b3f6-b1bf74220a33
 ---
 
 The rapid evolution of Thargoid barnacle matrix sites into colossal spires has sparked intense scientific scrutiny and concern as to their purpose.

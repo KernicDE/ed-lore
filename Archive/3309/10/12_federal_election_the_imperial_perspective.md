@@ -4,32 +4,25 @@ title: 'Federal Election: The Imperial Perspective'
 slug: federal_election_the_imperial_perspective
 date: '3309-10-12'
 source: API
-entities:
-- Denton Patreus remarked
-groups:
-- ACT
-- Aegis
-- Imperial Herald
-- Marlinist
-- Neo-Marlinist Liberation Army
-- Thargoid
+entities: []
+groups: []
 locations:
 - Achenar
-- Aegis
-- Thargoid
-- Voting within Federal
 topics:
-- alien contact
-- research
-- ship
-- succession
-- trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Patreus's preference for Archer — 'I expect Archer will have those same aggressive tendencies... Winters is clearly the more cunning and deceitful candidate' — reveals Imperial strategic thinking. Aisling's call to 'break the cycle of hostility between Empire and Federation' and her reference to ACT's success against the NMLA shows her cooperative instincts. Carvalho's economic analysis — 'some captains of industry anticipate a new era of trade with a friendlier Federation' — frames the commercial stakes."
+persons:
+- Denton Patreus
+- Aisling Duval
+- Cassia Carvalho
+- Arissa Lavigny-Duval
+player_impact: "Not specifically mentioned."
+summary: "Imperial leaders react to the Federal election, with Patreus preferring Archer's predictability and Aisling hoping for inter-superpower cooperation."
 legacy_weight: 5
 significance: high
+related_uuids:
+- ba96abf1-456d-5b32-aa72-2a4b52ee1484
 ---
 
 As the Federation readies itself for a new president, the Empire is preparing for potential changes to its relationship with its historical rival.

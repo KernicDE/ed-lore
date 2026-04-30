@@ -1,18 +1,18 @@
 ---
-id: pulse-wave-xeno-scanner
-name: pulse wave xeno scanner
+id: sub-surface-extraction-missiles
+name: sub-surface extraction missiles
 type: technology
 first_seen_date: '3309-10-05'
-last_seen_date: '3309-12-29'
+last_seen_date: '3309-10-30'
 mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
-# pulse wave xeno scanner
+# sub-surface extraction missiles
 
 First mentioned: **3309-10-05**  
-Last mentioned: **3309-12-29**  
+Last mentioned: **3309-10-30**  
 Total mentions: **3**
 
 ## Related

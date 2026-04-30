@@ -5,25 +5,28 @@ slug: thargoid_war_update_october_3309
 date: '3309-10-30'
 source: API
 groups:
-- ACT
 - Aegis
-- Thargoid
-locations:
-- Aegis
-- Scores of once-inhabited
-- Thargoid
-- Titan
+locations: []
 topics:
 - alien contact
 - humanitarian
 - medicine
 - research
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- war
+arc_id: thargoid-titan-war
+modern_impact: "Sanderlyn's relief — 'Much to my relief, the scheme is working' — reflects public sentiment. Her observation that 'abductees are permitted to communicate with their friends and families - most of whom never expected to hear from them again' is emotionally resonant. The note that 'the Thargoids occupy only a third of the territory previously conquered' quantifies the turning tide. Her closing — 'the mood among anti-xeno forces is that the tide has turned in humanity's favour' — is a rare moment of optimism."
+persons:
+- Jade Sanderlyn
+technologies:
+- sub-surface extraction missiles
+player_impact: "Pilots rescued many thousands from Titans and fought to liberate occupied systems."
+summary: "Sanderlyn's monthly war update covers the successful rescue of Titan captives, the emergence of spire sites, and the improving military situation."
 legacy_weight: 4
 significance: high
+related_uuids:
+- fe77f573-4833-58b0-aa08-7f2b2103c21a
+- fc4c02ff-559f-5e50-a60f-5ae836bfa836
+- 21e18c70-7087-5260-b54f-3ed8f18c7a9e
 ---
 
 Vox Galactica’s Jade Sanderlyn discusses the successful recovery of people from the Titans and developments at the new Thargoid spire sites.

@@ -9,8 +9,8 @@ related_entities:
 - act
 - thargoid
 - aegis
-- maximo-fonseca
 - brewer-corporation
+- bridge
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **10**
 
 ## Related
 
-- [[ACT]] (7 co-mentions)
-- [[Thargoid]] (7 co-mentions)
+- [[ACT]] (5 co-mentions)
+- [[Thargoid]] (5 co-mentions)
 - [[Aegis]] (5 co-mentions)
-- [[Maximo Fonseca]] (3 co-mentions)
 - [[Brewer Corporation]] (2 co-mentions)
+- [[Bridge]] (2 co-mentions)
 
 ## Biography
 

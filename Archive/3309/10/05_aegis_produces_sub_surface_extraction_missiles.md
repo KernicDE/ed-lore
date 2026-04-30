@@ -5,26 +5,30 @@ slug: aegis_produces_sub_surface_extraction_missiles
 date: '3309-10-05'
 source: API
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
 - Gateway
 - Maelstrom
-- Thargoid
-- Titan
 topics:
 - alien contact
 - humanitarian
 - medicine
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Tanner's description of the extraction process — 'penetrate far enough into the outer hull to jettison the pod-like structures containing captives' — reveals the mechanics. His warning that 'These are perhaps the most dangerous rescue missions ever attempted' underscores the risk. The first wave already making 'initial forays into the Maelstroms' shows rapid deployment."
+persons:
+- Aden Tanner
+technologies:
+- sub-surface extraction missiles
+- pulse wave xeno scanner
+- bio-storage capsules
+player_impact: "Pilots transported CMM composites, neofabric insulation and osmium to Springer Gateway. Bounty vouchers redeemed for wanted ships destroyed."
+summary: "Aegis deploys sub-surface extraction missiles to rescue captives from Thargoid Titans, with Tanner explaining the dangerous extraction process."
 legacy_weight: 5
 significance: high
+related_uuids:
+- fc4c02ff-559f-5e50-a60f-5ae836bfa836
+- c9064e45-771f-5630-b3f6-b1bf74220a33
 ---
 
 *Pilots’ Federation ALERT*

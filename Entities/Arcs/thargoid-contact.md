@@ -2,15 +2,15 @@
 id: thargoid-contact
 name: Thargoid Contact
 first_seen_date: '3302-01-15'
-last_seen_date: '3309-10-31'
-mention_count: 441
+last_seen_date: '3309-09-28'
+mention_count: 431
 significance: medium
 key_entities:
 - aegis
 - alliance
 - thargoid
 - act
-- alba-tesreau
+- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ key_entities:
 # Thargoid Contact
 
 First seen: **3302-01-15**  
-Last seen: **3309-10-31**  
-Articles: **441**
+Last seen: **3309-09-28**  
+Articles: **431**
 
 ## Key Figures
 
-- [[Aegis]] (179 mentions)
-- [[Alliance]] (119 mentions)
-- [[Thargoid]] (118 mentions)
-- [[ACT]] (113 mentions)
-- [[Alba Tesreau]] (36 mentions)
+- [[Aegis]] (172 mentions)
+- [[Alliance]] (117 mentions)
+- [[Thargoid]] (108 mentions)
+- [[ACT]] (103 mentions)
+- [[Pilots Federation]] (36 mentions)
 
 ## Description
 

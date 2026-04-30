@@ -4,29 +4,26 @@ title: Winters Outlines Her Future Presidency
 slug: winters_outlines_her_future_presidency
 date: '3309-10-19'
 source: API
-groups:
-- ACT
-- Aegis
-- Federal Times
-- Thargoid
+groups: []
 locations:
-- Aegis
-- Many
 - Sol
-- Thargoid
 topics:
-- alien contact
-- corporate expansion
 - crime
 - espionage
 - humanitarian
-- trade
-- war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+- politics
+arc_id: null
+modern_impact: "Winters's pledge to 'dismantle this monstrosity, ending the surveillance of private communications' is her signature policy. Her framing — 'We are not the Empire – we serve our people rather than rule over them' — contrasts with Imperial governance. Sol Today's hostile editorial — 'the Federation will rot from within... freeloaders and criminals get a free pass' — previews the Republican opposition narrative."
+persons:
+- Felicia Winters
+- Jerome Archer
+- Zachary Hudson
+player_impact: "Not specifically mentioned — this is a policy interview."
+summary: "President-elect Winters discusses her priorities: dismantling the PDB, shifting from military to social spending, and continuing Aegis support for the Thargoid war."
 legacy_weight: 5
 significance: high
+related_uuids:
+- ba96abf1-456d-5b32-aa72-2a4b52ee1484
 ---
 
 President-elect Felicia Winters has discussed her election victory and other topics during an interview with The Federal Times.

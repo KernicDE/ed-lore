@@ -4,29 +4,26 @@ title: Titan Survivors Kept in Quarantine
 slug: titan_survivors_kept_in_quarantine
 date: '3309-10-23'
 source: API
-entities:
-- Alba Tesreau
+entities: []
 groups:
-- ACT
 - Aegis
-- Alliance
-- Thargoid
-locations:
-- Aegis
-- Thargoid
-- Titan
+locations: []
 topics:
-- alien contact
-- diplomacy
 - humanitarian
 - medicine
-- research
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- war
+arc_id: thargoid-titan-war
+modern_impact: "Tesreau's reassurance — 'otherwise they appear to be unharmed' — contrasts with government caution. Rios's observation about 'widespread concern that whatever the Thargoids had planned for their human captives was set in motion before rescue efforts began' captures public paranoia. The mention of barnacle matrix sites 'undergone enormous growth' with 'towering spires' foreshadows the spire site emergence."
+persons:
+- Alba Tesreau
+- Ernesto Rios
+player_impact: "Pilots are using sub-surface extraction missiles to rescue captives from Titans."
+summary: "Thousands of rescued Titan captives remain in strict quarantine across all superpowers, with Tesreau reporting positive medical outcomes but governments maintaining caution."
 legacy_weight: 4
 significance: high
+related_uuids:
+- fc4c02ff-559f-5e50-a60f-5ae836bfa836
+- fe77f573-4833-58b0-aa08-7f2b2103c21a
 ---
 
 Thousands of people rescued from captivity within the Thargoid motherships remain isolated under strict medical and security protocols.

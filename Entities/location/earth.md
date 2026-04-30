@@ -7,10 +7,10 @@ last_seen_date: '3311-06-03'
 mention_count: 13
 related_entities:
 - sol
-- act
 - aegis
 - federal-times
-- thargoid
+- act
+- leesti
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **13**
 ## Related
 
 - [[Sol]] (7 co-mentions)
-- [[ACT]] (4 co-mentions)
 - [[Aegis]] (4 co-mentions)
 - [[Federal Times]] (3 co-mentions)
-- [[Thargoid]] (3 co-mentions)
+- [[ACT]] (3 co-mentions)
+- [[Leesti]] (2 co-mentions)
 
 ## Biography
 

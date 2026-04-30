@@ -7,10 +7,10 @@ last_seen_date: '3311-04-30'
 mention_count: 20
 related_entities:
 - mars
-- thargoid
 - federal-times
+- thargoid
 - act
-- alliance
+- federal-security-service
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **20**
 ## Related
 
 - [[Mars]] (7 co-mentions)
-- [[Thargoid]] (6 co-mentions)
 - [[Federal Times]] (5 co-mentions)
+- [[Thargoid]] (5 co-mentions)
 - [[ACT]] (5 co-mentions)
-- [[Alliance]] (4 co-mentions)
+- [[Federal Security Service]] (3 co-mentions)
 
 ## Biography
 

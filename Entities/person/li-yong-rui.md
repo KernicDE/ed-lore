@@ -3,14 +3,14 @@ id: li-yong-rui
 name: Li Yong-Rui
 type: person
 first_seen_date: '3301-08-01'
-last_seen_date: '3309-10-16'
-mention_count: 5
+last_seen_date: '3307-06-15'
+mention_count: 4
 related_entities:
 - sirius-corporation
 - alliance
 - pilots-federation
-- marlinist
 - federal-congress
+- imperial-senate
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Li Yong-Rui
 
 First mentioned: **3301-08-01**  
-Last mentioned: **3309-10-16**  
-Total mentions: **5**
+Last mentioned: **3307-06-15**  
+Total mentions: **4**
 
 ## Related
 
-- [[Sirius Corporation]] (5 co-mentions)
-- [[Alliance]] (4 co-mentions)
+- [[Sirius Corporation]] (4 co-mentions)
+- [[Alliance]] (3 co-mentions)
 - [[Pilots Federation]] (2 co-mentions)
-- [[Marlinist]] (2 co-mentions)
 - [[Federal Congress]] (1 co-mentions)
+- [[Imperial Senate]] (1 co-mentions)
 
 ## Biography
 

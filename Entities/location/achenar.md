@@ -27,7 +27,7 @@ Total mentions: **76**
 - [[Capitol]] (20 co-mentions)
 - [[Sol]] (18 co-mentions)
 - [[NMLA]] (18 co-mentions)
-- [[Marlinist]] (16 co-mentions)
+- [[Marlinist]] (15 co-mentions)
 
 ## Biography
 

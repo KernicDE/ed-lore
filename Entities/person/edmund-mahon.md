@@ -3,12 +3,12 @@ id: edmund-mahon
 name: Edmund Mahon
 type: person
 first_seen_date: '3301-03-11'
-last_seen_date: '3309-10-16'
-mention_count: 39
+last_seen_date: '3308-09-07'
+mention_count: 38
 related_entities:
 - alliance
-- sirius-corporation
 - alioth
+- sirius-corporation
 - zachary-hudson
 - act
 ---
@@ -18,14 +18,14 @@ related_entities:
 # Edmund Mahon
 
 First mentioned: **3301-03-11**  
-Last mentioned: **3309-10-16**  
-Total mentions: **39**
+Last mentioned: **3308-09-07**  
+Total mentions: **38**
 
 ## Related
 
-- [[Alliance]] (37 co-mentions)
-- [[Sirius Corporation]] (9 co-mentions)
+- [[Alliance]] (36 co-mentions)
 - [[Alioth]] (8 co-mentions)
+- [[Sirius Corporation]] (8 co-mentions)
 - [[Zachary Hudson]] (7 co-mentions)
 - [[ACT]] (7 co-mentions)
 
