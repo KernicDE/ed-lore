@@ -1,0 +1,31 @@
+---
+uuid: d4e5f6a7-b8c9-0d1e-2f3a-4b5c6d7e8f91
+title: Agent Susan Monroe Part of VP's Protection Detail
+slug: agent_susan_monroe_part_of_vps_protection_detail
+date: '3301-08-29'
+source: GitHub
+entities:
+  - Agent Susan Monroe
+  - Elaine Boyd
+  - Vice President Nigel Smeaton
+groups:
+  - Federal Times
+  - Federal Security Service
+locations:
+  - Federal systems
+topics:
+  - investigation
+arc_id: federal-politics
+modern_impact: Monroe was part of VP Smeaton's protection detail, deepening the conspiracy.
+legacy_weight: 2
+---
+
+Agent Susan Monroe Part of VP's Protection Detail
+
+The Federal Times today revealed the latest article in their ongoing investigation into the apparent suicide of their reporter Elaine Boyd.
+
+They revealed that Agent Susan Monroe, who Boyd was accused of murdering, was part of Vice President Nigel Smeaton's protection detail at the time of his death. It already seemed obvious to many that Agent Monroe was the source of the reporter's information, but now there is greater likelihood that she provided it willingly.
+
+Officials from the Federal Security Service insist that Agent Monroe was an unwilling participant and they had evidence to link the agent's death to the reporter.
+
+The Chief Editor of the Federal Times responded by claiming this was 'nonsense' and that he would not rest until the truth was revealed.
