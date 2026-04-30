@@ -1,0 +1,37 @@
+---
+uuid: 14620d01-c71e-5e20-872c-717ce63048fe
+title: The Emperor Denounces Emperor's Dawn
+slug: the_emperor_denounces_emperors_dawn
+date: '3301-10-21'
+source: GitHub
+entities:
+- Emperor Arissa Lavigny-Duval
+- Senator Denton Patreus
+groups:
+- Emperor's Dawn
+- Imperial Navy
+locations:
+- Capitol
+- Achenar
+- Imperial Palace
+topics:
+- terrorism
+- decree
+- war
+arc_id: imperial-succession
+arc_chapter: Arissa's first decree
+modern_impact: 'Emperor Arissa''s first decree: denounce Emperor''s Dawn as ''an enemy
+  of the Empire'' and endorse Patreus''s campaign. She praises his ''sound judgement''
+  and declares the operation to destroy Emperor''s Dawn will continue under his guidance.'
+legacy_weight: 5
+significance: high
+---
+
+The Emperor Denounces Emperor's Dawn
+
+
+To date, the Empire's campaign against the insurgent organisation Emperor's Dawn has fallen largely under the jurisdiction of Senator Denton Patreus, but now that the question of the succession has been answered, the Empire is in a position to give Emperor's Dawn its full attention. Emperor Arissa Lavigny-Duval has issued a frank statement in which she denounces Emperor's Dawn as "an enemy of the Empire", and promises to give Senator Patreus her full support: 
+
+"Emperor's Dawn has gone to great lengths to present itself as being aligned with the Empire's values and ideals, but make no mistake – this organisation is an enemy of the Empire. Senator Patreus has demonstrated sound judgement in his management of the campaign, and I have every faith in his ability to remove this threat to our civilisation. The operation to destroy Emperor's Dawn will continue under his guidance." 
+
+The statement constitutes the Emperor's first decree as ruler of the Empire, and reflects a clear commitment to Imperial security.

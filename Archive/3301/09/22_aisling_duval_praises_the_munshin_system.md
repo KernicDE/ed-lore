@@ -1,0 +1,38 @@
+---
+uuid: 133991fb-0db1-5e9b-9033-af471d5210cc
+title: Aisling Duval Praises the Munshin System
+slug: aisling_duval_praises_the_munshin_system
+date: '3301-09-22'
+source: GitHub
+entities:
+  - Aisling Duval
+  - Commander Quade
+groups:
+  - Libertas Cooperative
+locations:
+  - Munshin
+  - Ocrinox's Orbiter
+  - Pegasi Sector
+topics:
+  - refugees
+  - humanitarian
+  - praise
+arc_id: aisling-reform-movement
+arc_chapter: "Aisling praises Munshin"
+modern_impact: >
+  Aisling praises the Munshin system and Libertas Cooperative for refugee relief efforts. Critics accuse her of overlooking Imperial Navy pilots fighting in the Pegasi Pirate War.
+legacy_weight: 2
+---
+
+Aisling Duval Praises the Munshin System
+
+
+Aisling Duval Praises the Munshin System 
+ 
+Princess Aisling Duval has issued a statement praising the efforts of relief workers in the Munshin system. 
+
+"War is a plague on our galactic society, and like all disease it most affects the poor, the hungry, and the downtrodden. It is therefore with great pride that I look to the Munshin system. There one sees true examples of Imperial citizenship, and true heroes. Any person can fire a laser, but only a true Imperial can see the humanity in another person. I extend my gratitude to the people of the Munshin system, and to the Libertas Cooperative, who are working so hard for the victims of the Pegasi Pirate War. The tireless commanders ferrying medicines to Ocrinox's Orbiter are likewise to be commended." 
+
+The princesses’ critics immediately accused her of overlooking the pilots fighting in the Pegasi Pirate War, saying: "Every day, brave men and women of the Imperial Navy are killed in this war. Where is Princess Aisling's support for their families?" 
+
+Commander Quade

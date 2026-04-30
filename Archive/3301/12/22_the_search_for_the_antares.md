@@ -1,0 +1,35 @@
+---
+uuid: f4f7d1e8-7ffd-5dfa-9e62-10cbf4410949
+title: The Search for the Antares
+slug: the_search_for_the_antares
+date: '3301-12-22'
+source: GitHub
+entities:
+- Li Yong-Rui
+groups:
+- Sirius Corporation
+topics:
+- exploration
+- mystery
+- search
+arc_id: antares-mystery
+arc_chapter: Search for Antares begins
+modern_impact: Sirius Corporation launches a search for the remains of the Antares,
+  an innovative passenger liner that disappeared during its maiden voyage in 3251.
+  Hundreds of independent pilots participate, scouring the galaxy for wreckage.
+legacy_weight: 3
+significance: medium
+---
+
+The Search for the Antares
+
+
+3251 is remembered chiefly for the disappearance of the Antares, a technologically revolutionary passenger liner designed and built by the Sirius Corporation. The ship was supposed to usher in a new age in interplanetary travel, but the loss of the vessel during its maiden voyage tarnished the reputation of the Sirius Corporation and stalled the company's plans to develop further superfast liners. 
+
+The exact reason for the ship's disappearance has never been established, but a fragmentary status report, transmitted by the Antares moments before contact was lost, indicated that a component failure took place during the ship's first hyperspace jump. The failure resulted in a simultaneous explosion and mis-jump, leading many to assume that the ship had been destroyed. But no wreckage from the vessel has ever been found, and its precise fate remains unknown. 
+
+It seems, however, that the Sirius Corporation is not ready to close the file on the Antares. Today, Li Yong-Rui, CEO of the company's governmental division, announced that the organisation intends to launch an official search for the ship: 
+
+"Since the Antares was lost 50 years ago, there have been great advances in scanning technology, and we believe it may now be possible to find the remains of the ship. We are inviting every pilot in the galaxy to deliver wreckage components to our research base at Davy Dock in the Procyon system. Once we have accumulated enough material, we will subject the debris to comprehensive analysis to determine its origin. With luck, not only will we find the remains of the Antares, we will be able to determine her fate." 
+
+The search begins today.

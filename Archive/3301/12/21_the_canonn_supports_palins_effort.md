@@ -1,0 +1,40 @@
+---
+uuid: f078dbe6-f827-5d17-bfd0-2bf7b1be7c97
+title: The Canonn Supports Palin's Effort
+slug: the_canonn_supports_palins_effort
+date: '3301-12-21'
+source: GitHub
+entities:
+- Professor Ishmael Palin
+- Dr. Arcanonn
+groups:
+- Canonn Interstellar Research Group
+locations:
+- Nganji
+- Christian Dock
+topics:
+- research
+- unknown artefacts
+- support
+arc_id: unknown-artefacts
+arc_chapter: Canonn supports Palin
+modern_impact: The Canonn Interstellar Research Group publicly supports Professor
+  Palin's independent research into anomalous extraterrestrial objects. Despite Palin
+  declining to join the Canonn, the organisation respects his scientific approach
+  and offers logistical support.
+legacy_weight: 3
+significance: medium
+---
+
+The Canonn Supports Palin's Effort
+
+
+Professor Ishmael Palin has requested help in establishing a new research base on Maia B1BA in order to safely study the unknown artefacts. Dr Arcanonn, head of the Canonn Interstellar Research Group, has issued a statement regarding this endeavour: 
+
+"I cannot argue with the logic of establishing a research facility out in the Pleiades, next door to Merope, and I urge all Commanders to deliver as many Evacuation Shelters as they can to Nelson Works in Dahan to ensure this facility is completed." 
+
+"With the Canonn throwing its resources at this initiative, I will be contacting the professor personally to request laboratory space for my researchers so that we, too, can be involved once the base is established." 
+
+"Research into the UAs is not a side project for humanity - it is vital. Make sure you're one of those making a difference." 
+
+Commander Lord Zoltan

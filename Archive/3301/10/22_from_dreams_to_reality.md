@@ -1,0 +1,41 @@
+---
+uuid: 1bd962a4-bfa3-585d-b8e2-da4332eec95a
+title: From Dreams to Reality
+slug: from_dreams_to_reality
+date: '3301-10-22'
+source: GitHub
+groups:
+- Explorer's Association
+- Brewer Corporation
+- Pacap Limited
+- Universal Cartographics
+locations:
+- Pleiades Nebula
+- Kaushpoos
+- Neville Horizons
+topics:
+- construction
+- exploration
+- starport
+arc_id: pleiades-expansion
+arc_chapter: Starport construction begins
+modern_impact: The Explorer's Association, with support from Brewer Corporation, Pacap
+  Limited, and Universal Cartographics, begins construction of a starport in the Pleiades
+  Nebula. Pilots deliver metals to Neville Horizons in Kaushpoos. The station would
+  serve as a resupply point and sanctuary in deep space.
+legacy_weight: 3
+significance: medium
+---
+
+From Dreams to Reality
+
+
+For the past few months, a development group founded by the Explorer's Association has been working on plans to build a starport in the Pleiades Nebula. Now, it appears the plans are about to become reality. A spokesperson from the Explorer's Association made the following statement: 
+
+"A starport in the Pleiades Nebula would be of tremendous value to pilots, serving as a reliable resupply point and sanctuary in the depths of space. But breaking into deep space is always costly, not to mention potentially dangerous. Fortunately we have received generous support from the Brewer Corporation, Pacap Limited and Universal Cartographics, and are now in a position to begin construction. The first phase of the project involves collecting the necessary materials to create the starport superstructure, and to this end we are willing to offer generous premiums to pilots delivering metals to Neville Horizons, our base of operations. I encourage all those with an interest in exploration to join this exciting project, and contribute to the next phase of humankind's expansion." 
+
+One of the pilots involved in the programme was quoted as saying: 
+
+"Hopefully, getting a station farther out into uninhabited space will be the first step towards human expansion out into the wider reaches of the galaxy." 
+
+Pilots who wish to contribute to the campaign should deliver metals to Neville Horizons in the Kaushpoos system.

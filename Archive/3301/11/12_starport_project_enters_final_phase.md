@@ -1,0 +1,36 @@
+---
+uuid: b29f211a-08fa-5a2c-8e90-569dd4a2f459
+title: Starport Project Enters Final Phase
+slug: starport_project_enters_final_phase
+date: '3301-11-12'
+source: GitHub
+groups:
+- Explorer's Association
+- Brewer Corporation
+- Pacap Limited
+- Universal Cartographics
+locations:
+- Pleiades Nebula
+- Kaushpoos
+- Neville Horizons
+topics:
+- construction
+- exploration
+- starport
+arc_id: pleiades-expansion
+arc_chapter: Final construction phase
+modern_impact: The Pleiades Nebula starport project enters its final phase. With sufficient
+  metals collected, construction of the superstructure begins. The Explorer's Association
+  thanks all contributing pilots and anticipates the station's completion.
+legacy_weight: 3
+significance: medium
+---
+
+Starport Project Enters Final Phase
+
+
+Two weeks ago, the Explorers' Association began work on a new Ocellus starport in the Pleiades Nebula. The project received financial support from the Brewer Corporation and Universal Cartographics, which offered generous premiums to traders providing essential materials for the construction. Now, with the bulk of the work complete, the Explorer's Association has announced a third and final appeal for resources: 
+
+"Thanks to the hard work and dedication of the galactic community, the new Ocellus starport is almost complete, and we are a hair's breadth from gaining an important foothold in the Pleiades Nebula. All that's needed now is one final push. If you are in a position to help, we implore you to do so. This is your last chance to be a part of this historic project." 
+
+Pilots who want to contribute to the campaign are invited to deliver Computer Components to Neville Horizons in the Kaushpoos system.

@@ -1,0 +1,28 @@
+---
+uuid: 9ce9e97d-9a09-539f-9b5b-65d8bd445181
+title: Mavia Kain Announces Galactic Games
+slug: mavia_kain_announces_galactic_games
+date: '3301-11-06'
+source: GitHub
+entities:
+- Mavia Kain
+topics:
+- sport
+- competition
+modern_impact: Mavia Kain announces the Galactic Games, a new competitive event for
+  pilots across the galaxy. The games will feature racing, combat, and exploration
+  challenges. Independent pilots are invited to register.
+legacy_weight: 1
+significance: low
+---
+
+Mavia Kain Announces Galactic Games
+
+
+Mavia Kain, High Inquisitor of the Imperial Inquisition, has formally announced the upcoming Galactic Games for Charity. The games will take place between the 13th and 15th of November 3301 in support of the Princess Margaret Cancer Foundation. A general amnesty will be declared in the Brestla system over the weekend. 
+
+The headline event is the Galactic 'Top Gun' Championship, in which pilots from across the galaxy will compete for a prize of 200 million credits. Commanders wishing to participate are invited to visit Roed Oodergaard Port in the Brestla system between 18.00 on Friday the 13th of November and 06.00 on Saturday the 14th of November. The final will be held on Sunday at 20.00. 
+
+The weekend will culminate with the first ever 'Elite Hunger Games', in which 24 commanders will compete in a no-holds-barred fight to the death in Mk III Vipers. 
+
+Commander djtruthsayer

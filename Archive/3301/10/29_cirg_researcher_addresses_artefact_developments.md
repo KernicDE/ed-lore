@@ -1,0 +1,47 @@
+---
+uuid: 88512401-265f-577d-9b19-c9577db5f324
+title: CIRG Researcher Addresses Artefact Developments
+slug: cirg_researcher_addresses_artefact_developments
+date: '3301-10-29'
+source: GitHub
+entities:
+- Dr. Arcanonn
+groups:
+- Canonn Interstellar Research Group
+locations:
+- Maia
+- Varati
+- Warkushanui
+- 49 Arietis
+topics:
+- unknown artefacts
+- research
+- technical malfunction
+arc_id: unknown-artefacts
+arc_chapter: Canonn addresses UA-station link
+modern_impact: Dr. Arcanonn of the Canonn confirms the correlation between unknown
+  artefacts and station malfunctions. The Canonn calls for caution in transporting
+  UAs near populated stations. The objects' ability to interfere with technology poses
+  a growing threat to starport operations.
+legacy_weight: 4
+significance: high
+---
+
+CIRG Researcher Addresses Artefact Developments
+
+
+The Voice of Varati recently interviewed the lead researcher at the Canonn Interstellar Research Group, Commander RedWizzard: 
+
+"We know that the UA's Morse-transmission behaviour is evolving. It's almost as if somebody is pushing buttons to trigger different behaviours. It's very strange. 
+
+"We've also observed that they're spreading at an alarming rate over a huge volume of space. We learned a while ago that UAs seem to align themselves towards Merope in the Pleiades, and there is evidence that the systems containing UAs form a 'shell' around Merope at distances between 135 and 150 light years. Current estimates place the potential number of UAs in this region at thousands – possibly even tens of thousands." 
+
+"This undeniable explosion in numbers is worrying, and we don't yet know its significance. But rest assured that we're working hard, and we hope to have some conclusions soon." 
+
+RedWizzard also commented on the return of Professor Ishmael Palin to active UA research: 
+
+"It's great to see him back in the game, and we wish him the best of luck. We also hope he might have some insight into this 'shell' phenomenon. Why this pattern? Why so many UAs? And where are they coming from?" 
+
+"Our research is open to all, including Professor Palin. We hope he will reciprocate our openness." 
+
+Commander Lord Zoltan

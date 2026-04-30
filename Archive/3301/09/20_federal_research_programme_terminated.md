@@ -1,0 +1,42 @@
+---
+uuid: ddd18d21-0b9c-53db-a8e0-d3969750145c
+title: Federal Research Programme Terminated
+slug: federal_research_programme_terminated
+date: '3301-09-20'
+source: GitHub
+entities:
+  - Professor Ishmael Palin
+  - Aoishe Quaid
+groups:
+  - Homeland Scientific Council
+locations:
+  - Fort Harrison
+  - Tanmark
+  - HIP 102128
+topics:
+  - research
+  - unknown artefacts
+  - censorship
+arc_id: unknown-artefacts
+arc_chapter: "Palin's programme cancelled"
+modern_impact: >
+  Professor Palin's research into anomalous extraterrestrial objects is terminated after one week. Governor Quaid ordered the halt, but sources suggest she was pressured. The objects are described as quasi-organic and capable of broadcasting location data across vast distances.
+legacy_weight: 5
+---
+
+Federal Research Programme Terminated
+
+
+Federal Research Programme Terminated 
+ 
+Reports have begun circulating that the Federal research programme established last week to study the so-called ‘anomalous extraterrestrial objects’ (or AEOs) has been terminated. This news comes only a week after the inauguration of the project. 
+
+According to a source at Fort Harrison, where the programme was based, study of the objects was brought to an abrupt halt by the station governor, Aoishe Quaid. Apparently, Quaid ordered the head of the project, Professor Ishmael Palin, to immediately cease his research. The reason for Quaid’s decision is not known, although it is not believed to have been informed by concerns over public safety. 
+
+A second source from Fort Harrison, who asked not to be named, had the following to say: 
+
+“Frankly, I don’t think it was Quaid’s decision at all – I think she was pressured into shutting the programme down. She was enthusiastic about the project and had a lot of respect for Professor Palin, so this change of direction just doesn’t make sense. The question is, who forced her to cancel the research, and why?” 
+
+The objects under study were described as quasi-organic in nature and capable of broadcasting location data across vast distances. Their discovery was widely considered the scientific find of the decade, and the cancellation of the project will no doubt provoke a strong response from the scientific community. 
+
+Professor Palin declined to comment on the Governor Quaid’s decision.
