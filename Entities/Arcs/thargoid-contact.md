@@ -23,9 +23,9 @@ Articles: **313**
 
 ## Key Figures
 
-- [[Aegis]] (128 mentions)
-- [[Alliance]] (72 mentions)
-- [[Pilots Federation]] (37 mentions)
+- [[Aegis]] (127 mentions)
+- [[Alliance]] (69 mentions)
+- [[Pilots Federation]] (40 mentions)
 - [[Alba Tesreau]] (23 mentions)
 - [[Sirius Corporation]] (14 mentions)
 

@@ -25,7 +25,7 @@ Total mentions: **29**
 
 - [[Nova Imperium]] (23 co-mentions)
 - [[Imperial Herald]] (12 co-mentions)
-- [[NMLA]] (12 co-mentions)
+- [[NMLA]] (11 co-mentions)
 - [[Imperial Navy]] (6 co-mentions)
 - [[Achenar]] (6 co-mentions)
 

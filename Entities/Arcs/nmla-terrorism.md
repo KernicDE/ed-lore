@@ -3,7 +3,7 @@ id: nmla-terrorism
 name: Nmla Terrorism
 first_seen_date: '3307-03-11'
 last_seen_date: '3308-07-06'
-mention_count: 87
+mention_count: 86
 significance: medium
 key_entities:
 - nmla
@@ -19,15 +19,15 @@ key_entities:
 
 First seen: **3307-03-11**  
 Last seen: **3308-07-06**  
-Articles: **87**
+Articles: **86**
 
 ## Key Figures
 
-- [[NMLA]] (86 mentions)
-- [[Marlinist]] (54 mentions)
-- [[Alliance]] (28 mentions)
+- [[NMLA]] (84 mentions)
+- [[Marlinist]] (49 mentions)
+- [[Alliance]] (27 mentions)
 - [[Nova Imperium]] (15 mentions)
-- [[Imperial Herald]] (13 mentions)
+- [[Imperial Herald]] (12 mentions)
 
 ## Description
 

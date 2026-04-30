@@ -10,6 +10,7 @@ key_entities:
 - aegis
 - noodlz05
 - freya-taine-made
+- scriveners-clan
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,6 +27,7 @@ Articles: **18**
 - [[Aegis]] (2 mentions)
 - [[Noodlz05]] (1 mentions)
 - [[Freya Taine made]] (1 mentions)
+- [[Scriveners Clan]] (1 mentions)
 
 ## Description
 

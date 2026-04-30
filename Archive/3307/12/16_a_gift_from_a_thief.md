@@ -4,11 +4,22 @@ title: A Gift From a Thief
 slug: a_gift_from_a_thief
 date: '3307-12-16'
 source: API
+persons:
+- Erik Gunnarson
+- Wolfe
+- Oscar Goldsun
+groups:
+- Pilots Federation
+locations:
+- none specified
 topics:
-- corporate expansion
 - crime
 - investigation
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: Detective Erik Gunnarson reveals the Winking Cat thief has sent a cryptic
+  message hinting at an upcoming 'hunt' scheduled over the next three weeks.
+player_impact: Not specifically mentioned — this is a detective report.
+modern_impact: The Winking Cat's cryptic message escalates one of the galaxy's most
+  elaborate criminal games, blurring the line between thief and entertainer.
 legacy_weight: 2
 significance: low
 ---

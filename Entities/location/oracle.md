@@ -3,8 +3,8 @@ id: oracle
 name: Oracle
 type: location
 first_seen_date: '3303-07-15'
-last_seen_date: '3307-12-14'
-mention_count: 17
+last_seen_date: '3307-05-24'
+mention_count: 16
 related_entities:
 - aegis
 - pleiades-sector-ir-w-d1-55
@@ -18,8 +18,8 @@ related_entities:
 # Oracle
 
 First mentioned: **3303-07-15**  
-Last mentioned: **3307-12-14**  
-Total mentions: **17**
+Last mentioned: **3307-05-24**  
+Total mentions: **16**
 
 ## Related
 

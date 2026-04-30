@@ -4,26 +4,38 @@ title: 'Thargoids Repulsed from Three Systems '
 slug: thargoids_repulsed_from_three_systems
 date: '3307-12-14'
 source: API
+persons:
+- Morag Halloran
+groups:
+- Taurus Mining Ventures
+- Vox Galactica
 locations:
 - Delphi
 - Maia
-- Maia and Merope
 - Merope
-- Oak and The Oracle in the Delphi
+- Qarato
+- Cornsar
+- Donar's Oak
+- The Oracle
 - Obsidian Orbital
-- Obsidian Orbital in the Maia
-- Oracle
-- Rest in the Merope
+- Reed's Rest
 topics:
 - alien contact
-- construction
 - humanitarian
-- ship
+- war
 arc_id: thargoid-contact
+summary: Salvation's anti-xeno superweapons successfully repel Thargoid vessels from
+  Delphi, Maia and Merope during Operation Tri-hammer, with pilots now asked to help
+  repair damaged starports.
+player_impact: Pilots helped transport experimental equipment for Operation Tri-hammer.
+  Now requested to help repair and rescue at Donar's Oak, The Oracle, Obsidian Orbital
+  and Reed's Rest.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 2b4db5ae-e575-5f03-bb79-4a02d667f70a
 ---
 
 *Pilots’ Federation ALERT*

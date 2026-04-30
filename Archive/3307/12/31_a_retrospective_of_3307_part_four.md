@@ -4,34 +4,53 @@ title: A Retrospective of 3307 (Part Four)
 slug: a_retrospective_of_3307_part_four
 date: '3307-12-31'
 source: API
+persons:
+- Sima Kalhana
+- Yuri Grom
+- Zemina Torval
+- Constantia Torval
+- Hadrian Duval
+- Lady Astrid
+- Hector Duval
+- Admiral Tanner
+- Theta Seven
 groups:
+- EG Union
+- Mastopolos Mining
+- Torval Mining Ltd
+- Imperial Senate
+- NMLA
+- Orion University
+- Scriveners Clan
 - Aegis
 - Brewer Corporation
-- Imperial Senate
-- Mastopolos Mining
-- NMLA
 locations:
-- Aegis
-- Colonia
 - Delta Pavonis
-- Thargoid vessels swarming into nebula
+- Colonia
+- Alcor
+- Mudhrid
 topics:
 - alien contact
-- construction
 - corporate expansion
 - diplomacy
 - festival
 - humanitarian
 - independence
-- ship
 - succession
 - terrorism
 - war
 arc_id: nmla-terrorism
+summary: Historian Sima Kalhana concludes her 3307 review, covering the Yuri Grom
+  honey trap, Torval family rift, Colonia Bridge, NMLA's final stand, and Salvation's
+  superweapons.
+player_impact: Not specifically mentioned — this is a historical retrospective.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 92fccdb6-99a8-591c-ac7c-cd2853326e55
+- 205ec4c6-df7a-581e-8c72-20928345d6ce
 ---
 
 [[The]] last [[In a]] series that reviews the events of the past year, by noted historian Sima Kalhana.

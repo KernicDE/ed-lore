@@ -27,7 +27,7 @@ Total mentions: **2**
 - [[HIP 22460]] (2 co-mentions)
 - [[Federal Intelligence Agency]] (1 co-mentions)
 - [[Proactive Detection Bureau]] (1 co-mentions)
-- [[Far God Cult]] (1 co-mentions)
+- [[Far God cult]] (1 co-mentions)
 
 ## Biography
 

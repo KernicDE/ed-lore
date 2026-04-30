@@ -1,26 +1,32 @@
 ---
 uuid: 2b4db5ae-e575-5f03-bb79-4a02d667f70a
-title: Support Salvation’s Counterstrike Against the Thargoids
+title: Support Salvation's Counterstrike Against the Thargoids
 slug: support_salvations_counterstrike_against_the_thargoids
 date: '3307-12-09'
 source: API
+persons:
+- Morag Halloran
 groups:
-- Alliance
+- Pilots Federation
+- Alliance Defence Force
 locations:
-- Bright Sentinel in the Maia
-- Coalsack
 - Delphi
-- Glorious Prospect in the Merope
-- Heart of Taurus in the Qarato
 - Maia
-- Maia and Merope
 - Merope
-- Musashi in the Delphi
-- The Thargoids have invaded three key
+- Qarato
+- Coalsack Nebula
 topics:
 - alien contact
-- ship
+- war
+technologies:
+- Salvation's superweapons
 arc_id: thargoid-contact
+summary: Salvation requests urgent deliveries of classified experimental equipment
+  to three megaships in Delphi, Maia and Merope to deploy anti-xeno superweapons against
+  Thargoid invasions.
+player_impact: Pilots were asked to collect experimental equipment from Heart of Taurus
+  in Qarato and deliver to Musashi in Delphi, Bright Sentinel in Maia, and Glorious
+  Prospect in Merope.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 4

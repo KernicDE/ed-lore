@@ -4,24 +4,38 @@ title: 'Salvation Recruits Naval Crews '
 slug: salvation_recruits_naval_crews
 date: '3307-12-17'
 source: API
-entities:
+persons:
+- Morag Halloran
 - Glynn
 groups:
-- Alliance
+- Alliance Defence Force
+- Council of Admirals
+- Federal Navy
+- Imperial Navy
+- Sirius Navy
+- Taurus Mining Ventures
+- Alliance Assembly
 - Federal Congress
 - Imperial Senate
 locations:
-- Coalsack
+- Coalsack Nebula
+- Hind Mine
+- Cornsar
 - Sirius
 topics:
 - alien contact
-- ship
 - war
 arc_id: thargoid-contact
+summary: Commodore Morag Halloran reveals that hundreds of naval officers from all
+  three superpowers and Sirius have resigned to join Salvation's anti-xeno crusade.
+player_impact: Not specifically mentioned — this is a media statement.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 19a5e7dc-fe91-55f1-8994-2b45fde10372
+- 2b4db5ae-e575-5f03-bb79-4a02d667f70a
 ---
 
 [[The]] recent counterstrike against the Thargoids has revealed that [[Salvation]] is being unofficially supported by trained military personnel.

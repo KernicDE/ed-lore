@@ -1,33 +1,33 @@
 ---
 id: far-god-cult
-name: Far God Cult
+name: Far God cult
 type: faction
-first_seen_date: '3308-08-16'
-last_seen_date: '3308-08-16'
-mention_count: 1
+first_seen_date: '3307-12-02'
+last_seen_date: '3308-09-23'
+mention_count: 5
 related_entities:
-- hip-22460
-- galactic-interfaith-commune
-- federal-intelligence-agency
-- proactive-detection-bureau
-- true-chapters
+- nmla
+- mudhrid
+- steel-majesty
+- theta-group
+- sacrosanct
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Far God Cult
+# Far God cult
 
-First mentioned: **3308-08-16**  
-Last mentioned: **3308-08-16**  
-Total mentions: **1**
+First mentioned: **3307-12-02**  
+Last mentioned: **3308-09-23**  
+Total mentions: **5**
 
 ## Related
 
-- [[HIP 22460]] (2 co-mentions)
-- [[Galactic Interfaith Commune]] (1 co-mentions)
-- [[Federal Intelligence Agency]] (1 co-mentions)
-- [[Proactive Detection Bureau]] (1 co-mentions)
-- [[True Chapters]] (1 co-mentions)
+- [[NMLA]] (3 co-mentions)
+- [[Mudhrid]] (3 co-mentions)
+- [[Steel Majesty]] (2 co-mentions)
+- [[Theta Group]] (2 co-mentions)
+- [[Sacrosanct]] (2 co-mentions)
 
 ## Biography
 

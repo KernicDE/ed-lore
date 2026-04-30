@@ -4,12 +4,26 @@ title: 'GalNet: Apology for Unauthorised Broadcasts'
 slug: galnet_apology_for_unauthorised_broadcasts
 date: '3307-12-27'
 source: API
+persons: []
+groups:
+- GalNet
+- Pilots Federation
+- Wallglass Investigations Agency
+locations:
+- none specified
 topics:
 - crime
-- treasure hunt
-modern_impact: Community-driven treasure hunt engaging independent pilots.
+summary: GalNet apologises for a second batch of unauthorised Winking Cat riddles
+  transmitted on December 24th-26th, confirming security protocols have been reinforced.
+player_impact: Not specifically mentioned — this is an editorial apology.
+modern_impact: The repeated GalNet security breaches demonstrate the Winking Cat's
+  technical capabilities and the vulnerability of even the galaxy's most trusted news
+  network.
 legacy_weight: 1
 significance: low
+related_uuids:
+- f49000db-9fef-53ec-88aa-0940641d669e
+- 5f694caa-fbd0-5412-9b82-3cf18d160381
 ---
 
 *Pilots’ Federation ALERT*

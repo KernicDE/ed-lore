@@ -2,32 +2,32 @@
 id: taurus-mining-ventures
 name: Taurus Mining Ventures
 type: faction
-first_seen_date: '3308-06-20'
+first_seen_date: '3307-12-14'
 last_seen_date: '3308-06-29'
-mention_count: 5
+mention_count: 7
 related_entities:
+- cornsar
 - aegis
+- hind-mine
 - inra
 - t-tauri
-- azimuth-biotech
-- trapezium-sector-yu-x-c1-2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Taurus Mining Ventures
 
-First mentioned: **3308-06-20**  
+First mentioned: **3307-12-14**  
 Last mentioned: **3308-06-29**  
-Total mentions: **5**
+Total mentions: **7**
 
 ## Related
 
+- [[Cornsar]] (4 co-mentions)
 - [[Aegis]] (4 co-mentions)
+- [[Hind Mine]] (3 co-mentions)
 - [[INRA]] (3 co-mentions)
 - [[T Tauri]] (3 co-mentions)
-- [[Azimuth Biotech]] (2 co-mentions)
-- [[Trapezium Sector YU-X c1-2]] (2 co-mentions)
 
 ## Biography
 

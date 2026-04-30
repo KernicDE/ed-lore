@@ -4,9 +4,24 @@ title: 'GalNet: Unauthorised Messages'
 slug: galnet_unauthorised_messages
 date: '3307-12-21'
 source: API
-modern_impact: GalNet community report documenting current events in the galaxy.
+persons: []
+groups:
+- GalNet
+- Pilots Federation
+locations:
+- none specified
+topics:
+- crime
+summary: GalNet apologises for unauthorised articles transmitted on December 17th,
+  18th and 19th, stating their technical teams are investigating the breach.
+player_impact: Not specifically mentioned — this is an editorial apology.
+modern_impact: The unauthorised GalNet transmissions reveal a serious breach in the
+  galaxy's primary news network, raising questions about information security.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 13ed3482-5466-59b9-9863-a673b30f254d
+- 8b44331c-0f2b-5627-b328-c78cdecf4b68
 ---
 
 *Pilots’ Federation ALERT*

@@ -2,32 +2,32 @@
 id: scriveners-clan
 name: Scriveners Clan
 type: faction
-first_seen_date: '3308-06-23'
+first_seen_date: '3307-12-03'
 last_seen_date: '3308-06-23'
-mention_count: 1
+mention_count: 3
 related_entities:
-- azimuth-biochemicals
-- pharmasapien
-- sirius-corporation
-- chukchan
-- coalsack-nebula
+- orion-university
+- vox-galactica
+- oochost-pc-c-c29-0
+- eg-union
+- mastopolos-mining
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Scriveners Clan
 
-First mentioned: **3308-06-23**  
+First mentioned: **3307-12-03**  
 Last mentioned: **3308-06-23**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Azimuth Biochemicals]] (1 co-mentions)
-- [[Pharmasapien]] (1 co-mentions)
-- [[Sirius Corporation]] (1 co-mentions)
-- [[Chukchan]] (1 co-mentions)
-- [[Coalsack Nebula]] (1 co-mentions)
+- [[Orion University]] (2 co-mentions)
+- [[Vox Galactica]] (1 co-mentions)
+- [[Oochost PC-C c29-0]] (1 co-mentions)
+- [[EG Union]] (1 co-mentions)
+- [[Mastopolos Mining]] (1 co-mentions)
 
 ## Biography
 

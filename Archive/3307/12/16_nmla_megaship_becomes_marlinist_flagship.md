@@ -4,25 +4,35 @@ title: NMLA Megaship Becomes Marlinist Flagship
 slug: nmla_megaship_becomes_marlinist_flagship
 date: '3307-12-16'
 source: API
-entities:
+persons:
 - Jenna Fairfax
+- Aaron Whyte
+- Octavia Volkov
+- Theta Seven
 groups:
-- Marlinist
+- Epsilon Fornacis Empire Group
+- Marlinist Consulate
+- Free Marlinists of Carinae
+- Neo-Marlinist Order of Mudhrid
 - NMLA
+- Marlin Standard
 locations:
-- Marlinist
+- Mudhrid
+- HIP 22550
 topics:
 - diplomacy
 - humanitarian
-- safety
-- ship
-- terrorism
 - war
 arc_id: nmla-terrorism
+summary: The Steel Majesty megaship is transferred from Mudhrid to HIP 22550, renamed
+  Fairfax Vision, and becomes the Marlinist Colonies' diplomatic flagship.
+player_impact: Not specifically mentioned — this is a political and diplomatic report.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 548f6761-2537-5801-8f58-7eccec59205a
 ---
 
 [[The]] megaship Steel Majesty has travelled from [[Mudhrid]] to the HIP 22550 system and been renamed as Fairfax Vision.

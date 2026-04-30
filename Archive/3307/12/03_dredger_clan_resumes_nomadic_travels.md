@@ -4,11 +4,22 @@ title: Dredger Clan Resumes Nomadic Travels
 slug: dredger_clan_resumes_nomadic_travels
 date: '3307-12-03'
 source: API
+persons:
+- Casey Kilpatrick
+groups:
+- Scriveners Clan
+- Orion University
+- Vox Galactica
+locations:
+- Oochost PC-C c29-0
 topics:
 - research
-- ship
 - xenoarchaeology
 arc_id: guardian-ancients
+summary: The Scriveners Clan Dredger departs from Oochost PC-C c29-0 to resume nomadic
+  travels, with Orion University abandoning its ownership claims over the ancient vessel.
+player_impact: Pilots helped the Scriveners Clan bypass Orion University's override
+  codes to resume their travels.
 modern_impact: Guardian site research expands scientific understanding of ancient
   alien civilisations and their technology.
 legacy_weight: 4

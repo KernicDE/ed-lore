@@ -4,19 +4,28 @@ title: Battle of Mudhrid Ends in NMLA Defeat
 slug: battle_of_mudhrid_ends_in_nmla_defeat
 date: '3307-12-02'
 source: API
+persons:
+- Saskia Landau
+- Milo Castile
+- Theta Seven
 groups:
-- Alliance
-- Marlinist
+- Epsilon Fornacis Empire Group
+- Neo-Marlinist Order of Mudhrid
 - NMLA
+- Far God cult
 locations:
-- Marlinist
+- Mudhrid
+- Payne-Scott City
+- Steel Majesty
 topics:
-- construction
-- humanitarian
-- ship
 - terrorism
 - war
 arc_id: nmla-terrorism
+summary: The Epsilon Fornacis Empire Group defeats the Neo-Marlinist Order of Mudhrid,
+  with ACT commandos led by Milo Castile retaking the Steel Majesty megaship and preventing
+  Theta Seven's escape.
+player_impact: Pilots aided the Imperial faction in defeating NMLA-supporting forces
+  in the Mudhrid system. Rewards available from Payne-Scott City and Steel Majesty.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

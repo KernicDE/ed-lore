@@ -7,10 +7,10 @@ last_seen_date: '3307-12-31'
 mention_count: 2
 related_entities:
 - pilots-federation
-- aegis
-- brewer-corporation
-- imperial-senate
+- eg-union
 - mastopolos-mining
+- torval-mining-ltd
+- imperial-senate
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **2**
 ## Related
 
 - [[Pilots Federation]] (1 co-mentions)
-- [[Aegis]] (1 co-mentions)
-- [[Brewer Corporation]] (1 co-mentions)
-- [[Imperial Senate]] (1 co-mentions)
+- [[EG Union]] (1 co-mentions)
 - [[Mastopolos Mining]] (1 co-mentions)
+- [[Torval Mining Ltd]] (1 co-mentions)
+- [[Imperial Senate]] (1 co-mentions)
 
 ## Biography
 

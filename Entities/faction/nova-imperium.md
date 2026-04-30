@@ -9,8 +9,8 @@ related_entities:
 - paresa
 - nmla
 - imperial-herald
-- marlinist
 - alliance
+- marlinist
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **32**
 - [[Paresa]] (23 co-mentions)
 - [[NMLA]] (14 co-mentions)
 - [[Imperial Herald]] (8 co-mentions)
-- [[Marlinist]] (8 co-mentions)
 - [[Alliance]] (7 co-mentions)
+- [[Marlinist]] (7 co-mentions)
 
 ## Biography
 

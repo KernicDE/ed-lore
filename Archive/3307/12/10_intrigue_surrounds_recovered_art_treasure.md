@@ -4,11 +4,23 @@ title: Intrigue Surrounds Recovered Art Treasure
 slug: intrigue_surrounds_recovered_art_treasure
 date: '3307-12-10'
 source: API
+persons:
+- Mira Bukowski
+- Elias Metaxas
+- Zoe Okeke
+- Zachary Rackham
+groups:
+- FIA
+- Vox Galactica
+locations:
+- none specified
 topics:
 - crime
-- sport
-- treasure hunt
-modern_impact: Community-driven treasure hunt engaging independent pilots.
+summary: Evidence suggests the Winking Cat has sold stolen artworks to private collectors
+  including Elias Metaxas, raising questions about the thief's motives and future plans.
+player_impact: Not specifically mentioned — this is a news analysis piece.
+modern_impact: The revelation that stolen Winking Cat treasures have entered private
+  collections adds a new dimension to one of the galaxy's most elusive criminal mysteries.
 legacy_weight: 1
 significance: low
 ---

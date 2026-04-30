@@ -22,7 +22,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[Far God Cult]] (1 co-mentions)
+- [[Far God cult]] (1 co-mentions)
 - [[Orion University]] (1 co-mentions)
 - [[Pilots Federation]] (1 co-mentions)
 - [[Sol]] (1 co-mentions)

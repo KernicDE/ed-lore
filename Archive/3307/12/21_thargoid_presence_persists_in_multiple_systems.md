@@ -4,19 +4,33 @@ title: Thargoid Presence Persists in Multiple Systems
 slug: thargoid_presence_persists_in_multiple_systems
 date: '3307-12-21'
 source: API
+persons:
+- Ernesto Rios
+groups:
+- Vox Galactica
+- Pilots Federation
 locations:
-- Coalsack
-- In some
-- Witch Head
+- Coalsack Nebula
+- Pleiades
+- Witch Head Nebula
+- Shenve
+- Pleiades Sector IH-V c2-5
+- Coalsack Sector VU-O b6-6
 topics:
 - alien contact
-- ship
 - war
 arc_id: thargoid-contact
+summary: Thargoid vessels continue to appear in over two dozen populated systems near
+  nebulas, with organised pilot task forces achieving mixed success against the invaders.
+player_impact: Independent pilots and anti-xeno squadrons have been hunting and destroying
+  Thargoid invaders in affected systems.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 19a5e7dc-fe91-55f1-8994-2b45fde10372
+- 81538fce-b754-58bd-9a39-a3532cc682d7
 ---
 
 *Pilots’ Federation ALERT*

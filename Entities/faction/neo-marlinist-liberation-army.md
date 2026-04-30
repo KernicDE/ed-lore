@@ -23,8 +23,8 @@ Total mentions: **9**
 
 ## Related
 
-- [[Marlinist]] (9 co-mentions)
-- [[NMLA]] (9 co-mentions)
+- [[Marlinist]] (8 co-mentions)
+- [[NMLA]] (8 co-mentions)
 - [[Alliance]] (4 co-mentions)
 - [[Achenar]] (4 co-mentions)
 - [[Core Dynamics]] (2 co-mentions)

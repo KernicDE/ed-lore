@@ -2,18 +2,18 @@
 id: admiral-tanner
 name: Admiral Tanner
 type: person
-first_seen_date: '3308-01-05'
+first_seen_date: '3307-12-31'
 last_seen_date: '3308-01-05'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Admiral Tanner
 
-First mentioned: **3308-01-05**  
+First mentioned: **3307-12-31**  
 Last mentioned: **3308-01-05**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

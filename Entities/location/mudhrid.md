@@ -3,14 +3,14 @@ id: mudhrid
 name: Mudhrid
 type: location
 first_seen_date: '3307-11-17'
-last_seen_date: '3307-12-20'
-mention_count: 4
+last_seen_date: '3307-12-31'
+mention_count: 9
 related_entities:
 - nmla
+- neo-marlinist-order-of-mudhrid
+- far-god-cult
 - marlinist
-- tanya-ramirez-gave
-- ramirez
-- liz-ryder
+- epsilon-fornacis-empire-group
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Mudhrid
 
 First mentioned: **3307-11-17**  
-Last mentioned: **3307-12-20**  
-Total mentions: **4**
+Last mentioned: **3307-12-31**  
+Total mentions: **9**
 
 ## Related
 
-- [[NMLA]] (4 co-mentions)
-- [[Marlinist]] (3 co-mentions)
-- [[Tanya Ramirez gave]] (1 co-mentions)
-- [[Ramirez]] (1 co-mentions)
-- [[Liz Ryder]] (1 co-mentions)
+- [[NMLA]] (9 co-mentions)
+- [[Neo-Marlinist Order of Mudhrid]] (3 co-mentions)
+- [[Far God cult]] (3 co-mentions)
+- [[Marlinist]] (2 co-mentions)
+- [[Epsilon Fornacis Empire Group]] (2 co-mentions)
 
 ## Biography
 

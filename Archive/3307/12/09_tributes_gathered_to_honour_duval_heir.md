@@ -4,20 +4,34 @@ title: Tributes Gathered to Honour Duval Heir
 slug: tributes_gathered_to_honour_duval_heir
 date: '3307-12-09'
 source: API
+persons:
+- Hadrian Duval
+- Leo Magnus
+- Cassia Carvalho
+- Hector Mordanticus Duval
+- Hengist Duval
+- Arissa Lavigny-Duval
+- Aisling Duval
 groups:
+- Nova Paresa
 - Imperial Herald
-- NMLA
 locations:
 - Paresa
+- Dyson City
 topics:
-- construction
-- independence
 - succession
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+arc_id: nova-imperium
+summary: Praetor Leo Magnus thanks pilots for delivering commodities to celebrate
+  the birth of Hadrian Duval's son Hector Mordanticus Duval, while journalist Cassia
+  Carvalho analyses the child's potential impact on Imperial succession.
+player_impact: Pilots delivered Chateau De Aegaeon, HR 7221 Wheat, Indi Bourbon and
+  Yaso Kondi Leaf to Dyson City. Payment now available from Dyson City starport.
+modern_impact: The birth of Hector Mordanticus Duval strengthens Hadrian Duval's claim
+  to Imperial legitimacy and reshapes Imperial succession politics for generations.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 0ef8061c-5c04-5669-a7d7-9792dcd75c8f
 ---
 
 *Pilots’ Federation ALERT*

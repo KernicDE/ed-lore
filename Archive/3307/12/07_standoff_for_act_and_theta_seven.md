@@ -4,17 +4,29 @@ title: Standoff for ACT and Theta Seven
 slug: standoff_for_act_and_theta_seven
 date: '3307-12-07'
 source: API
-entities:
+persons:
+- Theta Seven
+- Redmond O'Hara
 - Ramirez
+- Klatt
+- Milo Castile
 groups:
 - NMLA
+- Far God cult
+- Vox Galactica
+- Theta Group
 locations:
 - Mudhrid
+- Sacrosanct
+- Steel Majesty
 topics:
-- alien contact
-- ship
 - terrorism
+- war
 arc_id: nmla-terrorism
+summary: ACT faces a tense standoff with Theta Seven, who holds thousands of Far God
+  cultists hostage aboard the Sacrosanct megaship in the Mudhrid system.
+player_impact: Not specifically mentioned — this is a field report on the ongoing
+  standoff.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

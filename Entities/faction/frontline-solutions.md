@@ -2,32 +2,32 @@
 id: frontline-solutions
 name: Frontline Solutions
 type: faction
-first_seen_date: '3308-06-24'
+first_seen_date: '3307-12-26'
 last_seen_date: '3308-06-24'
-mention_count: 1
+mention_count: 2
 related_entities:
+- none-specified
 - aegis
 - alliance
 - empire
 - federation
-- inra
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Frontline Solutions
 
-First mentioned: **3308-06-24**  
+First mentioned: **3307-12-26**  
 Last mentioned: **3308-06-24**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
+- [[none specified]] (1 co-mentions)
 - [[Aegis]] (1 co-mentions)
 - [[Alliance]] (1 co-mentions)
 - [[Empire]] (1 co-mentions)
 - [[Federation]] (1 co-mentions)
-- [[INRA]] (1 co-mentions)
 
 ## Biography
 

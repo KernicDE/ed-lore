@@ -4,23 +4,29 @@ title: 'New Phase for Alliance-Sirius Partnership '
 slug: new_phase_for_alliance_sirius_partnership
 date: '3307-12-22'
 source: API
-entities:
-- Edmund Mahon suggesting
-- Li Yong-Rui himself
+persons:
+- Edmund Mahon
+- Li Yong-Rui
+- Nakato Kaine
+- Vanya Driscoll
 groups:
-- Aegis
-- Alliance
-- Sirius Corp
+- Alliance Assembly
 - Sirius Corporation
+- Sirius Atmospherics
+- Alliance Defence Force
+- Alliance Tribune
 locations:
-- Aegis
 - Alioth
-- Coalsack
-- Sirius
+- Coalsack Nebula
 topics:
 - alien contact
 - corporate expansion
+- diplomacy
 arc_id: thargoid-contact
+summary: The Alliance Assembly invites Sirius Corporation to collaborate on enhancing
+  Thargoid protection for member systems, with CEO Li Yong-Rui travelling to Alioth
+  for high-level discussions.
+player_impact: Not specifically mentioned — this is a political report.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 4

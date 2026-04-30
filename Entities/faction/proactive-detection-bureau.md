@@ -2,32 +2,32 @@
 id: proactive-detection-bureau
 name: Proactive Detection Bureau
 type: faction
-first_seen_date: '3308-09-06'
+first_seen_date: '3307-12-29'
 last_seen_date: '3309-02-07'
-mention_count: 3
+mention_count: 4
 related_entities:
+- alliance
 - hip-22460
-- thargoid-advocacy-project
-- the-sovereign
-- federal-intelligence-agency
-- far-god-cult
+- nmla
+- neo-marlinist-order-of-mudhrid
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Proactive Detection Bureau
 
-First mentioned: **3308-09-06**  
+First mentioned: **3307-12-29**  
 Last mentioned: **3309-02-07**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
+- [[Alliance]] (2 co-mentions)
 - [[HIP 22460]] (2 co-mentions)
-- [[Thargoid Advocacy Project]] (1 co-mentions)
-- [[The Sovereign]] (1 co-mentions)
-- [[Federal Intelligence Agency]] (1 co-mentions)
-- [[Far God Cult]] (1 co-mentions)
+- [[NMLA]] (1 co-mentions)
+- [[Neo-Marlinist Order of Mudhrid]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
 
 ## Biography
 

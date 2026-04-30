@@ -3,8 +3,8 @@ id: jupiter-rochester
 name: Jupiter Rochester
 type: person
 first_seen_date: '3306-12-01'
-last_seen_date: '3307-12-28'
-mention_count: 3
+last_seen_date: '3307-06-02'
+mention_count: 2
 related_entities:
 - core-dynamics
 - jupiter
@@ -18,14 +18,14 @@ related_entities:
 # Jupiter Rochester
 
 First mentioned: **3306-12-01**  
-Last mentioned: **3307-12-28**  
-Total mentions: **3**
+Last mentioned: **3307-06-02**  
+Total mentions: **2**
 
 ## Related
 
-- [[Core Dynamics]] (3 co-mentions)
-- [[Jupiter]] (3 co-mentions)
-- [[Alliance]] (2 co-mentions)
+- [[Core Dynamics]] (2 co-mentions)
+- [[Jupiter]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
 - [[Owen McKenna]] (1 co-mentions)
 - [[HIP 54530 and several neighbouring]] (1 co-mentions)
 

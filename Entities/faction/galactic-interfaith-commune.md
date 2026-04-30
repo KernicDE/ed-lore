@@ -24,7 +24,7 @@ Total mentions: **2**
 ## Related
 
 - [[HIP 22460]] (2 co-mentions)
-- [[Far God Cult]] (1 co-mentions)
+- [[Far God cult]] (1 co-mentions)
 - [[Order of the Far God]] (1 co-mentions)
 - [[Federal Navy Intelligence Office]] (1 co-mentions)
 - [[Advocacy]] (1 co-mentions)

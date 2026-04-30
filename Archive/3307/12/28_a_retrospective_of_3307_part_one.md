@@ -4,36 +4,41 @@ title: A Retrospective of 3307 (Part One)
 slug: a_retrospective_of_3307_part_one
 date: '3307-12-28'
 source: API
-entities:
+persons:
+- Sima Kalhana
+- Pranav Antal
+- Li Yong-Rui
+- Fleet Admiral Vincent
 - Jupiter Rochester
+- Archon Delaine
+- Theta Seven
 groups:
-- Alliance
-- Core Dynamics
-- Marlinist
-- NMLA
 - Neo-Marlinist Liberation Army
-- Sirius Corp
+- Marlinist Colonies
 - Sirius Corporation
+- Core Dynamics
+- Jupiter Division
+- Lakon Spaceways
+- Alliance
+- Empire
+- Federation
+- Affiliated Counter-Terrorism Unit
 locations:
-- Achenar
-- Alioth
-- Federation and independent
-- Jupiter
-- Marlinist
 - Sirius
+- Alioth
+- Achenar
 - Sol
-- The Sirius
 topics:
 - alien contact
-- construction
 - corporate expansion
 - diplomacy
 - humanitarian
-- piracy
-- ship
 - terrorism
 - war
 arc_id: nmla-terrorism
+summary: Historian Sima Kalhana reviews the first quarter of 3307, covering the NMLA's
+  rise, the Galactic Summit, the Nine Martyrs bombings, and the formation of ACT.
+player_impact: Not specifically mentioned — this is a historical retrospective.
 modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
   the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5

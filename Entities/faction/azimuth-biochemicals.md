@@ -2,14 +2,14 @@
 id: azimuth-biochemicals
 name: Azimuth Biochemicals
 type: faction
-first_seen_date: '3308-01-05'
+first_seen_date: '3307-12-29'
 last_seen_date: '3311-01-10'
-mention_count: 16
+mention_count: 17
 related_entities:
 - aegis
+- alliance
 - salvation
 - hip-22460
-- alliance
 - inra
 ---
 
@@ -17,16 +17,16 @@ related_entities:
 
 # Azimuth Biochemicals
 
-First mentioned: **3308-01-05**  
+First mentioned: **3307-12-29**  
 Last mentioned: **3311-01-10**  
-Total mentions: **16**
+Total mentions: **17**
 
 ## Related
 
-- [[Aegis]] (11 co-mentions)
+- [[Aegis]] (12 co-mentions)
+- [[Alliance]] (6 co-mentions)
 - [[Salvation]] (6 co-mentions)
 - [[HIP 22460]] (6 co-mentions)
-- [[Alliance]] (5 co-mentions)
 - [[INRA]] (5 co-mentions)
 
 ## Biography

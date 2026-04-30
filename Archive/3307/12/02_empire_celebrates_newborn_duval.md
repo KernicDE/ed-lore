@@ -4,16 +4,30 @@ title: Empire Celebrates Newborn Duval
 slug: empire_celebrates_newborn_duval
 date: '3307-12-02'
 source: API
+persons:
+- Hadrian Augustus Duval
+- Astrid Minerva-Duval
+- Hector Mordanticus Duval
+- Hector Jansen
+- Kaeso Mordanticus
+- Aisling Duval
+- Anders Blaine
+- Leo Magnus
 groups:
 - Imperial Herald
+- Nova Paresa
 locations:
 - Imperial Palace
 - Paresa
+- Dyson City
 topics:
-- ship
 - succession
-- trade
 arc_id: nova-imperium
+summary: Hadrian Duval's wife Astrid gives birth to a son named Hector Mordanticus
+  Duval, prompting celebrations across the Empire and a commodity gathering initiative
+  in Paresa.
+player_impact: Pilots were asked to deliver Chateau De Aegaeon, HR 7221 Wheat, Indi
+  Bourbon and Yaso Kondi Leaf to Dyson City in the Paresa system.
 modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
   creates a schism in Imperial politics.
 legacy_weight: 4
