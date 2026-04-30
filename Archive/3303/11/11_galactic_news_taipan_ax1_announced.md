@@ -1,0 +1,31 @@
+---
+uuid: e5da505f-ad84-5070-bb3f-1e1c6379abc6
+title: Galactic News  Taipan AX1 Announced
+slug: galactic_news_taipan_ax1_announced
+date: '3303-11-11'
+source: GitHub
+groups:
+- Aegis
+locations:
+- Aegis
+topics:
+- alien contact
+- engineering
+- ship
+arc_id: thargoid-contact
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
+legacy_weight: 4
+significance: high
+---
+
+Galactic News: Taipan AX1 Announced
+
+
+A spokesperson for Faulcon DeLacy has announced that the manufacturer has teamed up with Aegis to produce a new version of its popular fighter, the Taipan. The spokesperson confirmed that the development was a direct response to the rising Thargoid threat. 
+
+Barr Winters, a Faulcon DeLacy engineer who worked on the new Taipan, elaborated on the ship’s specifications: 
+
+“The new Taipan has been equipped with two AX multi-cannons, replacing the default utility mount and small hardpoints. These cannons are slightly punchier than standard, which we hope will make the ship particularly effective against Thargoid vessels.” 
+
+The new Taipan, which will be known as the AX1, is not to be confused with the existing Aegis Taipan variant. The ship will be available from the 13th of November 3303.

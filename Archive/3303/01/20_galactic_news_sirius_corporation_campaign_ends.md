@@ -1,0 +1,38 @@
+---
+uuid: 4a6785b4-2814-5bdd-aede-fcc93b522b79
+title: Galactic News  Sirius Corporation Campaign Ends
+slug: galactic_news_sirius_corporation_campaign_ends
+date: '3303-01-20'
+source: GitHub
+groups:
+- Sirius Corp
+- Sirius Corporation
+- Sirius Gov
+locations:
+- Cormack Hub in the Procyon
+- Procyon
+- Sirius
+topics:
+- construction
+- corporate expansion
+- medicine
+- research
+- war
+arc_id: unknown-artefacts
+modern_impact: Infrastructure project with long-term benefits.
+legacy_weight: 2
+significance: low
+---
+
+Galactic News: Sirius Corporation Campaign Ends
+
+
+A spokesperson for the Sirius Corporation has announced that its appeal for microresources has been enthusiastically received by the galactic community. Hundreds of pilots responded to the corporation's appeal by delivering unknown fragments, untypical shield scans and aberrant shield pattern analysis to Cormack Hub in the Procyon system. 
+
+As the campaign drew to a close, Li-Yong Rui, CEO of Sirius Gov, released a statement: 
+
+"While irresponsible fortune hunters continue to destabilise the galaxy's starports by selling Unknown Artefacts on the black market, the galaxy's superpowers stand idly by, mired in bureaucracy and paralysed by indecision. Well, we say: no more." 
+
+"I will do everything in my power to put an end to the technological plague and restore the galaxy's starports to functionality. The effort to conquer this epidemic starts now." 
+
+Pilots who contributed to the initiative can now collect their rewards from Cormack Hub in the Procyon system.

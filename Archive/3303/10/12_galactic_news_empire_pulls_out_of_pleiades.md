@@ -1,0 +1,39 @@
+---
+uuid: bdf5ce78-6134-5670-9b10-1460ef336aed
+title: Galactic News  Empire Pulls Out of Pleiades
+slug: galactic_news_empire_pulls_out_of_pleiades
+date: '3303-10-12'
+source: GitHub
+groups:
+- Aegis
+- Imperial Herald
+locations:
+- Aegis
+- Merope
+- Pleiades Nebula
+topics:
+- alien contact
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
+  landscape and driving the creation of anti-xeno defence forces.
+legacy_weight: 5
+significance: high
+---
+
+Galactic News: Empire Pulls Out of Pleiades
+
+
+In the wake of reports that the Federation has withdrawn from the Pleiades Nebula, authorities in the region have confirmed that the Empire has followed suit. The development, predicted by many, appears to signal the end of the Federal-Imperial cold war. 
+
+The inter-superpower conflict began with the deployment of a Federal fleet to the Merope system, shortly followed by the positioning of several Majestic-class Interdictors. It was evident to observers that these manoeuvres were intended to control the region’s meta-alloys. 
+
+A number of proxy conflicts took place over the following months, but it quickly became clear that the superpowers were locked in a stalemate, with neither side willing to either up the ante or withdraw. 
+
+As the conflict wore on, public opinion was perhaps best expressed by The Imperial Herald’s political correspondent Daxton Sung, who noted that: 
+
+“Neither the Empire nor the Federation has demonstrated it can prevent the other from extracting meta-alloys, which is supposedly what this conflict is all about. Frankly, the situation is farcical.” 
+
+The catalyst for the Federal withdrawal appears to have been the rising Thargoid threat, coupled with creation of the tri-superpower organisation Aegis. 
+
+Neither the Empire nor the Federation has commented on the withdrawal of its fleets.

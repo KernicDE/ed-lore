@@ -1,0 +1,37 @@
+---
+uuid: 341201c3-8615-56ca-8f14-8701e0e08de3
+title: Community Goal   Setting up the Candy Shop
+slug: community_goal_setting_up_the_candy_shop
+date: '3303-09-29'
+source: GitHub
+entities:
+- Raijiin
+locations:
+- Irusan
+topics:
+- construction
+- corporate expansion
+- crime
+- research
+- ship
+- trade
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
+---
+
+Community Goal:  Setting up the Candy Shop
+
+
+The Candy Crew Guild, an independent corporate organisation based in the Irusan system, has announced plans to establish a capital shipyard and a scientific research vessel in its home system. It has placed an open order for various commodities for use in the construction. 
+
+Commander Raijiin, head of the organisation, elaborated on the nature of the campaign. 
+
+“We need quantities of palladium, titanium and robotics, and we encourage all able and willing pilots to assist us.” 
+
+“We are expecting the initiative to attract agitators, but security in the system has been increased and many of our own wings are patrolling the trade lanes, to ensure no crime goes unpunished.” 
+
+The Candy Crew Guild has promised to reward pilots who deliver the requested commodities to Bella Port in the Irusan system. 
+
+The campaign begins on the 28th of September 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
