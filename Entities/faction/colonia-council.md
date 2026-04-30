@@ -8,9 +8,9 @@ mention_count: 27
 related_entities:
 - jaques-station
 - eol-prou
+- randgnid
+- templar-barracks
 - pleiades-nebula
-- diana-vancleef
-- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **27**
 
 - [[Jaques Station]] (8 co-mentions)
 - [[Eol Prou]] (3 co-mentions)
+- [[Randgnid]] (3 co-mentions)
+- [[Templar Barracks]] (3 co-mentions)
 - [[Pleiades Nebula]] (2 co-mentions)
-- [[Diana VanCleef]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
 
 ## Biography
 

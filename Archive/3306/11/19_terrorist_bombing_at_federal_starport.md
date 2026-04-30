@@ -7,20 +7,23 @@ source: GitHub
 groups:
 - Federal Security Service
 - Pilots Federation
-locations:
+- NMLA
+persons:
 - Liz Ryder
 topics:
-- alien contact
-- construction
-- engineering
-- humanitarian
 - terrorism
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: The NMLA bombs Kepler Orbital starport, killing the nine captured NMLA members
+  held there and destroying the facility with caustic enzyme explosives designed by Liz
+  Ryder.
+player_impact: Pilots assisted with repairs and rescued survivors from the damaged Kepler
+  Orbital starport.
+modern_impact: The bombing demonstrates the NMLA's reach into Federal space and their willingness
+  to sacrifice their own to prevent interrogation, escalating galactic terrorism concerns.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4e860725-eb68-5f84-82ea-7b7e629bd964
+- 5c5b50af-0f81-5898-b860-948182133436
 ---
 
 Terrorist Bombing at Federal Starport

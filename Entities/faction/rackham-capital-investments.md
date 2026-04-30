@@ -2,32 +2,32 @@
 id: rackham-capital-investments
 name: Rackham Capital Investments
 type: faction
-first_seen_date: '3307-12-25'
+first_seen_date: '3304-08-17'
 last_seen_date: '3311-09-08'
-mention_count: 3
+mention_count: 18
 related_entities:
-- homeland
-- none-specified
-- liberal-party
-- republican-party
-- hip-87621
+- federal-times
+- supratech
+- herculean-machines
+- mars
+- the-collective
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Rackham Capital Investments
 
-First mentioned: **3307-12-25**  
+First mentioned: **3304-08-17**  
 Last mentioned: **3311-09-08**  
-Total mentions: **3**
+Total mentions: **18**
 
 ## Related
 
-- [[Homeland]] (2 co-mentions)
-- [[none specified]] (1 co-mentions)
-- [[Liberal Party]] (1 co-mentions)
-- [[Republican Party]] (1 co-mentions)
-- [[HIP 87621]] (1 co-mentions)
+- [[Federal Times]] (8 co-mentions)
+- [[Supratech]] (4 co-mentions)
+- [[Herculean Machines]] (4 co-mentions)
+- [[Mars]] (2 co-mentions)
+- [[The Collective]] (2 co-mentions)
 
 ## Biography
 

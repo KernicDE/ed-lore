@@ -1,5 +1,5 @@
 ---
-uuid: 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
+uuid: 90f47201-f1b3-537a-8c1f-fc6e092fa724
 title: Rumours Arise of New Alien Artefacts
 slug: rumours_arise_of_new_alien_artefacts
 date: '3308-08-15'

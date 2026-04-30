@@ -6,22 +6,23 @@ date: '3306-11-12'
 source: GitHub
 groups:
 - Alliance
-- Pilots Federation
-locations:
-- Chukchan
+persons:
+- Morag Halloran
 topics:
-- alien contact
-- construction
-- engineering
 - exploration
 - research
-- ship
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 4
-significance: high
+- war
+summary: The Alliance launches a campaign to construct outposts in the Coalsack Nebula
+  to exploit meta-alloy sources discovered by the abandoned megaship Adamastor.
+player_impact: Pilots delivered power generators, robotics, structural regulators, and
+  building fabricators to the Spirit of Nysa megaship, and fought Thargoids in designated
+  systems.
+modern_impact: The Coalsack Nebula remains a key region for meta-alloy extraction and
+  Alliance expansion.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 1d006eb4-9159-5609-8a8f-bffcce9793b8
 ---
 
 [[Alliance]] Launches [[Coalsack Nebula]] Campaign

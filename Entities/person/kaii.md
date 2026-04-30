@@ -3,8 +3,8 @@ id: kaii
 name: Kaii
 type: person
 first_seen_date: '3302-04-08'
-last_seen_date: '3305-03-07'
-mention_count: 3
+last_seen_date: '3302-05-26'
+mention_count: 2
 related_entities:
 - erimus
 - kahina-tijani-loren
@@ -18,8 +18,8 @@ related_entities:
 # Kaii
 
 First mentioned: **3302-04-08**  
-Last mentioned: **3305-03-07**  
-Total mentions: **3**
+Last mentioned: **3302-05-26**  
+Total mentions: **2**
 
 ## Related
 

@@ -4,19 +4,29 @@ title: Further Arrests of Far God Cultists
 slug: further_arrests_of_far_god_cultists
 date: '3304-08-10'
 source: GitHub
-entities:
-- Jameelah Griffin
+summary: The FIA apprehends further Far God cult members to determine if they communicate with Thargoids. Public opinion is divided, with some viewing the arrests as religious persecution and others as justified. Dr Jameelah Griffin of the Galactic Interfaith Commune strongly opposes the hostility. Juanita Bishop celebrates the arrests. Senior Agent Micah Whitefield defends the operation as a legal security matter during wartime, suspending civil liberties and expanding the investigation to all connected individuals.
+player_impact: None
+persons:
 - Micah Whitefield
+- Jameelah Griffin
+- Juanita Bishop
+groups:
+- Federal Intelligence Agency
+- Far God cult
+- Galactic Interfaith Commune
+locations: []
 topics:
 - alien contact
 - investigation
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+modern_impact: The FIA's expanded arrests and suspension of civil liberties for Far God adherents establishes a dangerous precedent for religious persecution under the guise of wartime security.
 legacy_weight: 5
 significance: high
+related_uuids:
+- dab1d8e0-8ac9-5fea-a7c9-ad5f57b5f541
+- 0f10ac31-615c-5f1b-a802-a954ef4214a1
+- d9093b90-7659-5e5b-ac01-e545fe66530b
+- d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
 [[Further]] Arrests of [[Far]] God Cultists

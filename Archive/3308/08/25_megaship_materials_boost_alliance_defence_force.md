@@ -1,5 +1,5 @@
 ---
-uuid: 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
+uuid: 1678fa94-d3b9-5a9e-b13e-15335a42269e
 title: Megaship Materials Boost Alliance Defence Force
 slug: megaship_materials_boost_alliance_defence_force
 date: '3308-08-25'

@@ -1,5 +1,5 @@
 ---
-uuid: 1a8f5a0b-8f5d-4c3e-7d2b-1a8f5a0b8f5d
+uuid: bb0a8874-54a5-529d-91a6-691c8859ac57
 title: Alliance-Sirius Pact Accelerated
 slug: alliance_sirius_pact_accelerated
 date: '3308-08-15'

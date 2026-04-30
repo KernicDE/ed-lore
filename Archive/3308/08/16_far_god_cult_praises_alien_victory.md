@@ -1,5 +1,5 @@
 ---
-uuid: 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+uuid: 7aaf4cac-767f-5e4b-b085-e5bc94a6c913
 title: Far God Cult Praises Alien Victory
 slug: far_god_cult_praises_alien_victory
 date: '3308-08-16'

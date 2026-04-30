@@ -4,27 +4,24 @@ title: Coalsack Nebula Project Gathers Ammonia Worlds Data
 slug: coalsack_nebula_project_gathers_ammonia_worlds_data
 date: '3306-12-10'
 source: API
-entities:
-- Maximilian North announced
 groups:
-- Aegis
 - Alliance
-- Pilots Federation
-- Sirius Corp
 - Sirius Corporation
-locations:
-- Aegis
-- Sirius
+- Sirius Atmospherics
+persons:
+- Maximilian North
+- Morag Halloran
 topics:
-- alien contact
 - corporate expansion
 - exploration
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
-significance: high
+summary: Explorers successfully catalogue ammonia worlds in the Coalsack Nebula for
+  Sirius Atmospherics' terraforming project, in partnership with the Alliance.
+player_impact: Contributing pilots collected payouts at Betancourt Base in the Musca Dark
+  Region PJ-P b6-1 system.
+modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand human
+  habitation into previously hostile environments.
+legacy_weight: 2
+significance: low
 ---
 
 *[[Pilots Federation]] ALERT*

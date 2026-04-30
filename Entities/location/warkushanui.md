@@ -3,8 +3,8 @@ id: warkushanui
 name: Warkushanui
 type: location
 first_seen_date: '3301-10-16'
-last_seen_date: '3302-05-20'
-mention_count: 13
+last_seen_date: '3304-08-26'
+mention_count: 15
 related_entities:
 - gurragchaa-gateway
 - 64-arietis
@@ -18,8 +18,8 @@ related_entities:
 # Warkushanui
 
 First mentioned: **3301-10-16**  
-Last mentioned: **3302-05-20**  
-Total mentions: **13**
+Last mentioned: **3304-08-26**  
+Total mentions: **15**
 
 ## Related
 

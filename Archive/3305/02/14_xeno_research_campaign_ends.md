@@ -4,21 +4,26 @@ title: Xeno Research Campaign Ends
 slug: xeno_research_campaign_ends
 date: '3305-02-14'
 source: GitHub
-entities:
-- Roy Casimir told
-locations:
+persons:
+- Roy Casimir
+groups:
 - Holloway Bioscience Institute
+- Nahuaru Crimson Bridge Int
+locations:
+- Nahuaru
 topics:
 - alien contact
 - construction
 - exploration
 - research
-- war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
-significance: high
+summary: The Holloway Bioscience Institute's campaign to build a xenological research centre concludes successfully, with sufficient materials and exploration data gathered to study new lifeforms identified via the Codex.
+player_impact: Contributing pilots could collect rewards from Williams Vision in the Nahuaru system.
+modern_impact: The completed research facility advanced xenological science beyond the Thargoid-centric focus of Aegis, enabling systematic study of the diverse lifeforms being catalogued across the galaxy.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 6b44f898-99f1-5588-ae34-f12f252d6033
 ---
 
 Xeno-Research Campaign Ends
@@ -26,10 +31,10 @@ Xeno-Research Campaign Ends
 
 A campaign from [[The]] [[Holloway Bioscience Institute]] to build a xenological research centre has concluded successfully.  
 
-Chief researcher Dr [[Roy [[Casimir]] told]] the media: 
+Chief researcher Dr [[Roy Casimir]] told the media: 
 
-“Thanks to Nahuaru Crimson [[Bridge]] Int we now have sufficient materials to build a planetary outpost where [[Our]] scientists can study lifeforms identified by the galactic community.” 
+"Thanks to Nahuaru Crimson Bridge Int we now have sufficient materials to build a planetary outpost where [[Our]] scientists can study lifeforms identified by the galactic community." 
 
-“We are also grateful for the exploration data provided by [[Many]] pilots, [[Which]] will help us create a new research catalogue.” 
+"We are also grateful for the exploration data provided by [[Many]] pilots, [[Which]] will help us create a new research catalogue." 
 
 Pilots who took part in the campaign can now collect their rewards from Williams Vision in the Nahuaru system.

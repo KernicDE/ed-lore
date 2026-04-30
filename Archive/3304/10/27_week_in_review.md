@@ -4,18 +4,31 @@ title: Week in Review
 slug: week_in_review
 date: '3304-10-27'
 source: GitHub
-entities:
+summary: Weekly summary covering the Alliance Assembly's decision to create the Office of the Alliance President without executive powers, Sirius Corporation's public offer to Ram Tah, the identification of The Collective as a hacktivist group behind digital crimes including the Rackham hack, the Cordova Group's complaint against the FSS investigation, Senator Caspian Leopold's Thargoid aid appeal, and the Palin Institute's successful Thargoid materials appeal.
+player_impact: None
+persons:
 - Caspian Leopold
-- Cora Shaw thanked those
+- Cora Shaw
+- Gibson Kincaid
+- Edmund Mahon
+- Li Yong-Rui
+- Ram Tah
+- Zachary Rackham
+- Kingsley Cordova
+- Ramesh Thorne
 groups:
 - Alliance
 - Federal Security Service
-- Sirius Corp
 - Sirius Corporation
+- The Collective
+- Cordova Group
+- Mars Tribune
+- Palin Institute
 locations:
 - Mars
-- Ram Tah
-- Sirius
+- Meene
+- Phoenix Base
+- Maia
 topics:
 - alien contact
 - corporate expansion
@@ -25,13 +38,18 @@ topics:
 - investigation
 - research
 - scandal
-- war
+- politics
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: This week sees significant political restructuring in the Alliance, corporate manoeuvring around Guardian technology, and the emergence of a new cybercriminal force, reshaping power dynamics across multiple sectors.
 legacy_weight: 5
 significance: high
+related_uuids:
+- a950b069-65d4-569a-b55c-6ce84123e10e
+- 256a38de-bd91-53d1-b3ed-666cbce98417
+- 7ec3f1fb-8e73-5084-86f2-d3f916349ede
+- 42ef6025-276f-5d89-b735-6c4cb293e6fb
+- dd466372-2852-583f-9211-6abb50186a05
+- fb63c2c1-0ae1-571e-b259-64552a8d4ba3
 ---
 
 Week in Review

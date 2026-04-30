@@ -2,18 +2,18 @@
 id: harlan-turk
 name: Harlan Turk
 type: person
-first_seen_date: '3309-05-01'
+first_seen_date: '3305-11-15'
 last_seen_date: '3309-09-22'
-mention_count: 3
+mention_count: 6
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Harlan Turk
 
-First mentioned: **3309-05-01**  
+First mentioned: **3305-11-15**  
 Last mentioned: **3309-09-22**  
-Total mentions: **3**
+Total mentions: **6**
 
 ## Related
 

@@ -4,17 +4,22 @@ title: Distant Worlds Megaship and Station Operational
 slug: distant_worlds_megaship_and_station_operational
 date: '3305-07-03'
 source: GitHub
+persons:
+- Erimus Kamzel
 locations:
 - Sagittarius A*
 - Stuemeae FG-Y d7561
 topics:
 - exploration
 - research
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: The Distant Worlds II expedition launches the DSSV Distant Worlds megaship and
+  Event Horizon relay station in the Stuemeae FG-Y d7561 system near Sagittarius A*. The
+  station will gather scientific data on the supermassive black hole.
+player_impact: None
+modern_impact: The Distant Worlds infrastructure enables sustained deep-space research at
+  the galactic core and supports future expeditions.
+legacy_weight: 3
+significance: medium
 ---
 
 [[Distant Worlds]] Megaship and Station Operational

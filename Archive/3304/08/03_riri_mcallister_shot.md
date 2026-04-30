@@ -4,20 +4,33 @@ title: Riri McAllister Shot
 slug: riri_mcallister_shot
 date: '3304-08-03'
 source: GitHub
+summary: Former rear admiral Riri McAllister is shot during her trial at the Alliance Chamber of Justice on Turner's World in the Alioth system. Deputy Inspector Mara Klatt reports that Polly Cartesius, daughter of Senator Nestor Cartesius murdered by the League of Reparation, fired a concealed laser firearm from the visitors' gallery. McAllister is in intensive care. Polly Cartesius is extradited to the IISS and taken to Capitol for trial for attempted murder.
+player_impact: None
+persons:
+- Riri McAllister
+- Mara Klatt
+- Polly Cartesius
+- Nestor Cartesius
+- Niamh Seutonia
 groups:
 - Alliance
-- IISS
+- Imperial Internal Security Service
+- League of Reparation
 locations:
 - Alioth
+- Turner's World
 - Capitol
 - Imperial Palace
-- World in the Alioth
+- Hall of Martyrs
 topics:
-- medicine
+- crime
 - terrorism
-modern_impact: GalNet community report documenting current events in the galaxy.
+- politics
+modern_impact: The courtroom shooting of McAllister transforms the League of Reparation trial into an international incident, while Polly Cartesius's act of vengeance highlights the human cost of terrorist campaigns.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 633140ee-0862-53e1-adcf-f1eed4d5eb67
 ---
 
 Riri McAllister Shot

@@ -4,21 +4,20 @@ title: Alliance Shelters New Marlinist Refugees
 slug: alliance_shelters_new_marlinist_refugees
 date: '3306-12-24'
 source: API
-entities:
-- Edmund Mahon publicly welcomed
 groups:
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-locations:
-- Imperial citizens arriving at Alliance
-- Sirius
+persons:
+- Edmund Mahon
+- Nakato Kaine
 topics:
-- corporate expansion
 - humanitarian
-- ship
 - terrorism
 arc_id: alliance-expansion
+summary: Tens of thousands of Marlinist refugees claim sanctuary in Alliance space,
+  with Prime Minister Edmund Mahon welcoming them while Councillor Nakato Kaine warns
+  of resource limits.
+player_impact: None
 modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
 legacy_weight: 3
 significance: medium

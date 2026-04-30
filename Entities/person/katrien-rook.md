@@ -2,32 +2,21 @@
 id: katrien-rook
 name: Katrien Rook
 type: person
-first_seen_date: '3304-12-22'
+first_seen_date: '3304-12-06'
 last_seen_date: '3306-06-09'
-mention_count: 4
-related_entities:
-- utopia
-- alliance
-- alliance-and-independent
-- rook
-- rook-clarified-that
+mention_count: 15
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Katrien Rook
 
-First mentioned: **3304-12-22**  
+First mentioned: **3304-12-06**  
 Last mentioned: **3306-06-09**  
-Total mentions: **4**
+Total mentions: **15**
 
 ## Related
 
-- [[Utopia]] (2 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Alliance and independent]] (1 co-mentions)
-- [[Rook]] (1 co-mentions)
-- [[Rook clarified that]] (1 co-mentions)
 
 ## Biography
 

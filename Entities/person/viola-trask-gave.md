@@ -3,8 +3,8 @@ id: viola-trask-gave
 name: Viola Trask gave
 type: person
 first_seen_date: '3305-06-29'
-last_seen_date: '3305-07-05'
-mention_count: 2
+last_seen_date: '3305-06-29'
+mention_count: 1
 related_entities:
 - olympus-village
 ---
@@ -14,12 +14,12 @@ related_entities:
 # Viola Trask gave
 
 First mentioned: **3305-06-29**  
-Last mentioned: **3305-07-05**  
-Total mentions: **2**
+Last mentioned: **3305-06-29**  
+Total mentions: **1**
 
 ## Related
 
-- [[Olympus Village]] (2 co-mentions)
+- [[Olympus Village]] (1 co-mentions)
 
 ## Biography
 

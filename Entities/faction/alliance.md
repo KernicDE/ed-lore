@@ -4,13 +4,13 @@ name: Alliance
 type: faction
 first_seen_date: '3301-02-19'
 last_seen_date: '3312-02-20'
-mention_count: 407
+mention_count: 398
 related_entities:
 - sirius-corporation
 - aegis
 - alioth
-- pilots-federation
 - federation
+- empire
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-02-19**  
 Last mentioned: **3312-02-20**  
-Total mentions: **407**
+Total mentions: **398**
 
 ## Related
 
 - [[Sirius Corporation]] (65 co-mentions)
 - [[Aegis]] (62 co-mentions)
-- [[Alioth]] (43 co-mentions)
-- [[Pilots Federation]] (30 co-mentions)
-- [[Federation]] (29 co-mentions)
+- [[Alioth]] (44 co-mentions)
+- [[Federation]] (33 co-mentions)
+- [[Empire]] (29 co-mentions)
 
 ## Biography
 

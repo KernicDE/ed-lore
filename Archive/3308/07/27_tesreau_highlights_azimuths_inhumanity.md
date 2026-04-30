@@ -1,5 +1,5 @@
 ---
-uuid: 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
+uuid: 77d08b93-d779-599d-9f2a-b4e7733d91a8
 title: Tesreau Highlights Azimuth's Inhumanity
 slug: tesreau_highlights_azimuths_inhumanity
 date: '3308-07-27'

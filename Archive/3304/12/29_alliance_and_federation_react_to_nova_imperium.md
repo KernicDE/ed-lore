@@ -4,21 +4,30 @@ title: Alliance and Federation React to Nova Imperium
 slug: alliance_and_federation_react_to_nova_imperium
 date: '3304-12-29'
 source: GitHub
-entities:
-- Edmund Mahon told
+summary: Alliance Prime Minister Edmund Mahon states that Imperial civil unrest is an internal matter but expresses concern if it affects inter-superpower cooperation. Federal President Zachary Hudson warns that if Nova Imperium comes to power and ceases Aegis contributions, the Federation would be forced to intervene to safeguard humanity against the Thargoid threat. Independent sources confirm increased Federal Navy resupplies and fleet manoeuvres near Imperial borders.
+player_impact: None
+persons:
+- Edmund Mahon
+- Zachary Hudson
 groups:
 - Aegis
 - Alliance
+- Federation
 - Federal Navy
-locations:
-- Aegis
+- Nova Imperium
 topics:
+- politics
 - alien contact
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- war
+modern_impact: The superpowers' reactions to Nova Imperium raise the stakes of the Imperial succession crisis, with the Federation explicitly threatening military intervention if Aegis cooperation is jeopardised.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 51a193be-ce8c-5649-b154-05d219b0f646
+- 31f767a5-94dc-53cf-ba91-407794f301dc
+- e9ba1e32-22ee-5764-816f-cb9a399539ab
+- ffb9ecd2-59b8-5d12-932c-344d2f9e0b14
+- ee4ca040-662c-5763-b220-4db105a7fd77
 ---
 
 [[Alliance]] and Federation React to [[Nova Imperium]]

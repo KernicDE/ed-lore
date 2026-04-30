@@ -4,16 +4,20 @@ title: Sap Core Legion Initiative Concludes
 slug: sap_core_legion_initiative_concludes
 date: '3305-09-05'
 source: GitHub
-entities:
-- Macklin Fox offered these words
+groups:
+- Sap Core Legion
+persons:
+- Macklin Fox
 locations:
 - Heike
 topics:
-- construction
 - medicine
-- trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+- construction
+summary: A commodity drive by the Sap Core Legion successfully constructs Swords Rest Medical
+  Facility in the Heike system, providing off-world medical access.
+player_impact: Contributing pilots can collect rewards from Braun Enterprise in Heike.
+modern_impact: The medical facility expands healthcare infrastructure in the Heike system
+  and serves as a model for community-driven construction.
 legacy_weight: 2
 significance: low
 ---

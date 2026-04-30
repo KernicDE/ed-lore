@@ -4,15 +4,23 @@ title: Isolde Rochester becomes Shadow Vice President
 slug: isolde_rochester_becomes_shadow_vice_president
 date: '3304-12-26'
 source: GitHub
-entities:
+summary: Federal Shadow President Felicia Winters appoints Isolde Rochester as deputy leader of the Federation's Liberal Party. Rochester, matriarch of the powerful Rochester family which includes the CEO of Core Dynamics and two Federal Navy officers, accepts after a decade in Congress. Former deputy Edgar Santiago abruptly retired to purchase a luxury starship.
+player_impact: None
+persons:
 - Felicia Winters
+- Isolde Rochester
+- Edgar Santiago
+- Jordan Rochester
+- Aisling Duval
 groups:
+- Federation
+- Liberal Party
 - Core Dynamics
 - Federal Navy
+locations: []
 topics:
-- corporate expansion
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- politics
+modern_impact: The appointment of Isolde Rochester strengthens the Rochester family's influence in Federal politics and signals the Liberal Party's consolidation of power under Shadow President Winters.
 legacy_weight: 1
 significance: low
 ---

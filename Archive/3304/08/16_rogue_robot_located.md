@@ -4,13 +4,25 @@ title: Rogue Robot Located
 slug: rogue_robot_located
 date: '3304-08-16'
 source: GitHub
+summary: The MacArthur Mining Ltd DG090 robot that went out of control in the Beta Hydri system is located and disabled. Security Chief Sara Kulkarni reports sensor drones detected it surfacing in the Blue Peaks mountain range, where it was homing in on mineral ores. Federal Navy gunships partially destroyed it from the air. Director Chen Emerson confirms the robot had been placed in incorrect standby mode, with its comms array disrupted by local signals.
+player_impact: None
+persons:
+- Sara Kulkarni
+- Chen Emerson
 groups:
+- MacArthur Mining Ltd
 - Federal Navy
+locations:
+- Beta Hydri
+- Homeland
+- Blue Peaks
 topics:
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- safety
+modern_impact: The robot's destruction resolves the immediate threat but leaves questions about MacArthur Mining's quality control and the potential for similar incidents with automated industrial equipment.
 legacy_weight: 1
 significance: low
+related_uuids:
+- a47511e4-11cb-57b4-b384-567a1452d38b
 ---
 
 Rogue Robot [[Located]]

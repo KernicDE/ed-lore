@@ -6,10 +6,9 @@ first_seen_date: '3304-08-18'
 last_seen_date: '3304-08-18'
 mention_count: 1
 related_entities:
-- alfred-ulyanov
-- micah-whitefield-gave
-- siobhan-vogel
-- research-materials-and-computer
+- federal-intelligence-agency
+- interstellar-association-of-universities
+- far-god-cult
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,10 +21,9 @@ Total mentions: **1**
 
 ## Related
 
-- [[Alfred Ulyanov]] (1 co-mentions)
-- [[Micah Whitefield gave]] (1 co-mentions)
-- [[Siobhan Vogel]] (1 co-mentions)
-- [[Research materials and computer]] (1 co-mentions)
+- [[Federal Intelligence Agency]] (1 co-mentions)
+- [[Interstellar Association of Universities]] (1 co-mentions)
+- [[Far God cult]] (1 co-mentions)
 
 ## Biography
 

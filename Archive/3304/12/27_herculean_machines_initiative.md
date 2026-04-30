@@ -4,16 +4,20 @@ title: Herculean Machines Initiative
 slug: herculean_machines_initiative
 date: '3304-12-27'
 source: GitHub
+summary: The Federal Navy requests a large shipment of Duradrive personal computers from Herculean Machines. CEO Maddox Hurd announces an urgent need for consumer technology, hardware diagnostic sensors, and computer components to be delivered to Boltzmann Hub in the Blatrimpe system. The Blatrimpe Allied Co Commodities coordinates the campaign and protects traders from wanted ships.
+player_impact: Independent pilots can deliver commodities to Boltzmann Hub in the Blatrimpe system to help fulfil the Federal Navy order and earn rewards.
+persons:
+- Maddox Hurd
 groups:
 - Federal Navy
+- Herculean Machines
+- Blatrimpe Allied Co Commodities
 locations:
-- Boltzmann Hub in the Blatrimpe
+- Blatrimpe
 topics:
 - corporate expansion
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The Federal Navy's standardisation on Duradrive computers signals a significant government contract for Herculean Machines and may influence personal computing procurement across Federal agencies.
 legacy_weight: 2
 significance: low
 ---

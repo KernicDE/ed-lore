@@ -1,5 +1,5 @@
 ---
-uuid: 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+uuid: 7252228c-45f3-51ab-96b8-0ecfdccd2daa
 title: Thargoid Salvage Operation Requires Resources
 slug: thargoid_salvage_operation_requires_resources
 date: '3308-07-28'

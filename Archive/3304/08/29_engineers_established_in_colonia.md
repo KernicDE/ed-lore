@@ -4,26 +4,32 @@ title: Engineers Established in Colonia
 slug: engineers_established_in_colonia
 date: '3304-08-29'
 source: GitHub
+summary: The Colonia Council announces four engineers have established bases in the Colonia region to provide services to independent pilots. Councillor Giselle Kingspear introduces Mel Brandon in Luchtaine (laser armaments, shields, engines, FSD), Etienne Dorn in the Los system (sensors, scanners, high-energy weapons), Petra Olmanova in the Asura system (armour, countermeasures, explosives), and Marsha Hicks in the Tir system (ballistic weapons, fuel scoops, refineries, limpets).
+player_impact: Pilots can now visit these four engineers in the Colonia region for ship upgrades.
+persons:
+- Giselle Kingspear
+- Mel Brandon
+- Etienne Dorn
+- Petra Olmanova
+- Marsha Hicks
 groups:
 - Colonia Council
+- Kraken Shield Specialists
 locations:
 - Colonia
-- Etienne Dorn
-- Etienne Dorn in the Los
-- Mars
-- Marsha Hicks
-- Mel Brandon
-- Petra Olmanova
-- Petra Olmanova is in the Asura
+- Luchtaine
+- Los
+- Asura
 - Tir
 topics:
 - engineering
 - ship
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: The establishment of four engineers in Colonia represents a major milestone in the settlement's development, providing essential ship customisation services and reducing the need for pilots to return to the core systems.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 249a170f-066b-542f-9e3d-757e4e249409
+- 46b722c9-bfdf-5a23-acbf-4a2b7bb177fa
 ---
 
 [[Engineers]] Established in Colonia

@@ -4,9 +4,22 @@ title: New Mining Tools Released
 slug: new_mining_tools_released
 date: '3304-12-20'
 source: GitHub
+summary: The Industrial Mining Guild announces new asteroid-mining equipment expected to increase ore and mineral availability. New tools include abrasion blasters for surface deposits, sub-surface displacement missiles for deeper deposits, and seismic charges for cracking rare asteroids open. Existing tools like scanners and prospector limpets have also been upgraded.
+player_impact: Independent pilots gain access to new mining tools including abrasion blasters, sub-surface displacement missiles, and seismic charges, along with upgraded scanners and prospector limpets.
+persons: []
+groups:
+- Industrial Mining Guild
+locations: []
 topics:
 - engineering
-modern_impact: Engineering developments offer pilots new ship customisation options.
+- mining
+- trade
+technologies:
+- abrasion blaster
+- sub-surface displacement missile
+- seismic charge
+- prospector limpet
+modern_impact: New mining tools revolutionise asteroid extraction, making surface, subsurface, and core mining viable for independent pilots and increasing mineral availability across galactic markets.
 legacy_weight: 1
 significance: low
 ---

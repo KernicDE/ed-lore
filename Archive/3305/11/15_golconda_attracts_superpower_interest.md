@@ -6,16 +6,29 @@ date: '3305-11-15'
 source: GitHub
 groups:
 - Federal Congress
+- Empire
+persons:
+- Ava Cornelius
+- Harlan Turk
 locations:
-- A recent trade appeal in the Upaniklis
+- Upaniklis
 - Sol
 topics:
-- corporate expansion
+- diplomacy
 - ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+- corporate expansion
+summary: The Empire and Federation both deploy megaships to Upaniklis with competing proposals
+  for the Golconda crew. The Empire offers a planetary settlement under Imperial protection,
+  while the Federation offers an orbital outpost to preserve their spacefaring traditions.
+player_impact: None
+modern_impact: The superpower competition over the Golconda reflects broader rivalries and
+  raises questions about the colonists' right to self-determination.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 8166c06a-f366-5f9c-84ac-846f243da58c
+- 42b2a824-dda6-5beb-ae9d-99f1e5690520
+- 0b425e04-a017-5e75-b8a3-f9326947de40
 ---
 
 [[Golconda]] Attracts Superpower Interest

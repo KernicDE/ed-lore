@@ -3,8 +3,8 @@ id: micah-whitefield-gave
 name: Micah Whitefield gave
 type: person
 first_seen_date: '3304-08-18'
-last_seen_date: '3304-09-08'
-mention_count: 2
+last_seen_date: '3304-08-18'
+mention_count: 1
 related_entities:
 - alfred-ulyanov
 - siobhan-vogel
@@ -17,8 +17,8 @@ related_entities:
 # Micah Whitefield gave
 
 First mentioned: **3304-08-18**  
-Last mentioned: **3304-09-08**  
-Total mentions: **2**
+Last mentioned: **3304-08-18**  
+Total mentions: **1**
 
 ## Related
 

@@ -7,21 +7,30 @@ source: GitHub
 groups:
 - Aegis
 - Alliance
+- Empire
+- Federation
+persons:
+- Alba Tesreau
 locations:
-- Aegis
 - Pleiades Nebula
 - Witch Head Nebula
 topics:
-- construction
 - exploration
-- research
-- ship
-- trade
-arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity
-  in the Pleiades region.
-legacy_weight: 3
-significance: medium
+- alien contact
+- construction
+summary: Aegis confirms the Witch Head Nebula contains sufficient barnacle sites to replace
+  depleted Pleiades sources. All three superpowers dispatch advance teams to establish megaships
+  and Ocellus starports.
+player_impact: Pilots can participate in superpower initiatives via mission boards to support
+  Witch Head colonisation.
+modern_impact: The discovery of alternative meta-alloy sources triggers a colonial rush to
+  the Witch Head Nebula, setting the stage for Thargoid conflict.
+legacy_weight: 5
+significance: high
+related_uuids:
+- b941d20c-fea4-57f4-ac5e-a6a6662a89d5
+- 969713a8-6dbf-548c-9ce4-4d33ba1f321a
+- 40eaaec9-0df7-56f2-b5ca-61180338dd12
 ---
 
 Alternative Source of Meta-Alloys Identified

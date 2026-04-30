@@ -4,11 +4,26 @@ title: Herculean Machines Dominates Expo
 slug: herculean_machines_dominates_expo
 date: '3304-10-05'
 source: GitHub
+summary: Technology journalist Harlow Nassry reports from the Rackham Ultratech Expo where Herculean Machines' Duradrive personal computer outperformed Supratech's rival Torc. The Torc's holographic systems malfunctioned causing nausea, while the Duradrive functioned perfectly. Billionaire Zachary Rackham tested a Duradrive by jumping on it and authorised preliminary funding for the device.
+player_impact: None
+persons:
+- Harlow Nassry
+- Maddox Hurd
+- Scorpio DeVorrow
+- Zachary Rackham
+groups:
+- Herculean Machines
+- Supratech
+- Rackham Capital Investments
+locations: []
 topics:
 - corporate expansion
-modern_impact: GalNet community report documenting current events in the galaxy.
+- technology
+modern_impact: Herculean Machines' dominant expo performance secures corporate funding and positions the Duradrive as the leading personal computer on the market, while Supratech's failure damages its competitive standing.
 legacy_weight: 2
 significance: low
+related_uuids:
+- c17fab22-f463-50ce-95d0-9714ea431386
 ---
 
 Herculean Machines Dominates Expo

@@ -4,18 +4,20 @@ title: Far God Campaign Concludes
 slug: far_god_campaign_concludes
 date: '3304-09-07'
 source: GitHub
-entities:
+summary: The LHS 2541 Alliance Combine announces the successful conclusion of its appeal for Thargoid materials on behalf of the Far God sect. Hundreds of pilots delivered commodities to Wheelock Ring in the Zavijah system and protected traders from agitators. Chancellor Reegan Tanner thanks contributors and firmly denies rumours that the sect experiments on willing test subjects.
+player_impact: Contributing pilots can collect rewards from Wheelock Ring in the Zavijah system.
+persons:
 - Reegan Tanner
 groups:
-- Alliance
+- LHS 2541 Alliance Combine
+- Far God cult
+locations:
+- Zavijah
+- Wheelock Ring
 topics:
-- alien contact
-- safety
+- religion
 - trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The successful campaign demonstrates the galactic community's support for religious freedom even for controversial faiths, while the Far God sect's acquisition of Thargoid materials raises both theological and security questions.
 legacy_weight: 5
 significance: high
 ---

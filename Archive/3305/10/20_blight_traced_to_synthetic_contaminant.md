@@ -4,19 +4,27 @@ title: Blight Traced to Synthetic Contaminant
 slug: blight_traced_to_synthetic_contaminant
 date: '3305-10-20'
 source: GitHub
+groups:
+- Rockforth Corporation
+- Federal Intelligence Agency
+persons:
+- Gino Borstein
+- Adalyn Cross
 topics:
-- construction
-- corporate expansion
 - investigation
-- research
-- safety
-- sport
 - terrorism
-- trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
-legacy_weight: 1
-significance: low
+summary: A tri-superpower taskforce confirms the EX7 fertiliser was deliberately contaminated
+  with a synthetic compound designed to introduce an aggressive plant-destroying pathogen.
+  The investigation uncovers several leads.
+player_impact: None
+modern_impact: The confirmation of deliberate sabotage shifts the crisis from agricultural
+  accident to interstellar terrorism, triggering cargo checks at starports.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 52de8894-6950-5b13-aa2a-ec35620347ce
+- ea972479-e7e8-54c6-b663-01d825310994
+- 0be157b9-6a3b-51ba-96df-79add197e050
 ---
 
 Blight Traced to Synthetic Contaminant

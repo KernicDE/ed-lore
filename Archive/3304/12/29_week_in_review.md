@@ -4,31 +4,47 @@ title: Week in Review
 slug: week_in_review
 date: '3304-12-29'
 source: GitHub
-entities:
-- Edmund Mahon
+summary: Weekly summary covering Isolde Rochester's appointment as Shadow Vice President, Imperial senators demanding Hadrian Duval's recognition with Chancellor Blaine's dismissal, Pranav Antal's accusation that Vitadyne stole Utopian nanomedicine technology, superpower reactions to Nova Imperium, the Federal Navy's Duradrive order from Herculean Machines, and the conclusion of Senator Leatrix's festive campaigns.
+player_impact: None
+persons:
 - Felicia Winters
-- Leatrix
-- Rochester
+- Isolde Rochester
+- Hadrian Augustus Duval
+- Anders Blaine
+- Pranav Antal
+- Katrien Rook
+- Edmund Mahon
 - Zachary Hudson
+- Maddox Hurd
+- Simone Leatrix
 groups:
 - Aegis
 - Alliance
 - Core Dynamics
 - Federal Navy
 - Utopia
-locations:
-- Aegis
+- Nova Imperium
+- Vitadyne Labs
+- Herculean Machines
+- Cemiess Imperial Society
+locations: []
 topics:
 - corporate expansion
 - medicine
 - scandal
-- ship
 - succession
 - trade
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+- politics
+modern_impact: This week sees Federal political consolidation, Imperial succession demands reaching the Senate floor, and an international dispute over nanomedicine origins, with superpower tensions rising over Nova Imperium's potential impact on Aegis.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 71380724-9d28-5323-b4f9-da0fd87a0f93
+- ee4ca040-662c-5763-b220-4db105a7fd77
+- 79d31e82-72c0-55c6-a4aa-acb8830314f8
+- bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
+- 33ed0f71-7b49-5f6f-89eb-57bf7adef8d2
+- 770bbc53-d363-5422-91d6-1cb7c812168e
 ---
 
 Week in Review

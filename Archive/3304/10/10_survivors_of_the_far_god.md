@@ -4,18 +4,26 @@ title: Survivors of the Far God
 slug: survivors_of_the_far_god
 date: '3304-10-10'
 source: GitHub
-entities:
+summary: Journalist Gethin Okonkwo shares details from his three-month undercover experience with the Far God cult, where he was known as Third Witness of the Tenth Chapter. He describes the seductive tranquillity of surrendering identity and expresses relief that believers are returning to hive-chapels after persecution. He notes hundreds died and several chapters remain missing. Okonkwo plans to collaborate with Dr Alfred Ulyanov on a definitive account of the religion.
+player_impact: None
+persons:
+- Gethin Okonkwo
 - Alfred Ulyanov
+groups:
+- Far God cult
+- Church of Eternal Void
+locations: []
 topics:
+- religion
 - alien contact
-- research
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- investigation
+modern_impact: Okonkwo's insider account humanises Far God worshippers and documents the devastating impact of anti-cult persecution, while his collaboration with Ulyanov promises the most comprehensive study of the sect to date.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 5e694d79-d97e-5e91-9248-447ca20344f8
+- c43681c3-28b8-51de-aac4-acbaba9a390c
+- 852906f2-b606-50ea-b4f4-d3bd4af8e4d3
 ---
 
 Survivors of [[The]] [[Far]] God

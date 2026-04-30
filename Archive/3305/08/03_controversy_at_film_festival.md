@@ -6,16 +6,19 @@ date: '3305-08-03'
 source: GitHub
 groups:
 - Alliance
+persons:
+- Corinne Macintyre
 locations:
-- George Lucas station
 - Leesti
-- The Leesti
 topics:
-- crime
 - festival
-- war
-modern_impact: Community celebration bringing pilots together.
-legacy_weight: 1
+summary: The Alliance Festival of Culture's second week features a film festival at George
+  Lucas station in Leesti. The historical drama 'Unity' sparks debate by portraying Alliance
+  founders Mic Turner and Meredith Argent as faking their romance for political gain.
+player_impact: None
+modern_impact: The controversy demonstrates how historical reinterpretation can challenge
+  foundational myths and provoke cultural discourse within the Alliance.
+legacy_weight: 2
 significance: low
 ---
 

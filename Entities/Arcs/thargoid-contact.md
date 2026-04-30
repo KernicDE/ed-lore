@@ -3,14 +3,14 @@ id: thargoid-contact
 name: Thargoid Contact
 first_seen_date: '3302-01-15'
 last_seen_date: '3309-08-14'
-mention_count: 303
+mention_count: 231
 significance: medium
 key_entities:
 - aegis
 - alliance
 - pilots-federation
 - alba-tesreau
-- sirius-corporation
+- federal-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ key_entities:
 
 First seen: **3302-01-15**  
 Last seen: **3309-08-14**  
-Articles: **303**
+Articles: **231**
 
 ## Key Figures
 
-- [[Aegis]] (124 mentions)
-- [[Alliance]] (65 mentions)
-- [[Pilots Federation]] (34 mentions)
-- [[Alba Tesreau]] (17 mentions)
-- [[Sirius Corporation]] (13 mentions)
+- [[Aegis]] (106 mentions)
+- [[Alliance]] (38 mentions)
+- [[Pilots Federation]] (24 mentions)
+- [[Alba Tesreau]] (11 mentions)
+- [[Federal Navy]] (8 mentions)
 
 ## Description
 

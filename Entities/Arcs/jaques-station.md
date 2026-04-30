@@ -3,7 +3,7 @@ id: jaques-station
 name: Jaques Station
 first_seen_date: '3302-05-05'
 last_seen_date: '3307-11-26'
-mention_count: 66
+mention_count: 61
 significance: medium
 key_entities:
 - colonia-council
@@ -19,11 +19,11 @@ key_entities:
 
 First seen: **3302-05-05**  
 Last seen: **3307-11-26**  
-Articles: **66**
+Articles: **61**
 
 ## Key Figures
 
-- [[Colonia Council]] (21 mentions)
+- [[Colonia Council]] (17 mentions)
 - [[Brewer Corporation]] (7 mentions)
 - [[Fuel Rats]] (4 mentions)
 - [[Alexei de la Vega]] (4 mentions)

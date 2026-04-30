@@ -5,20 +5,27 @@ slug: emperor_decides_hadrian_duvals_status
 date: '3306-11-16'
 source: GitHub
 groups:
-- Alliance
-- Imperial Herald
 - Nova Imperium
-locations:
-- Paresa
+persons:
+- Aisling Duval
+- Hadrian Augustus Duval
+- Arissa Lavigny-Duval
+- Anders Blaine
+- Cassia Carvalho
 topics:
-- crime
 - diplomacy
 - succession
 arc_id: nova-imperium
+summary: Emperor Arissa Lavigny-Duval denies Hadrian Duval the title of prince but offers
+  royal pardons, ratifying the Treaty of Paresa which removes Nova Imperium's outlaw status.
+player_impact: None
 modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
   creates a schism in Imperial politics.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7ce9b237-f40e-53f1-b0e7-84eb59eb3647
+- 80b1c2fe-dde6-5b97-a195-c6f2bcad8ce5
 ---
 
 Emperor Decides Hadrian Duval’s Status

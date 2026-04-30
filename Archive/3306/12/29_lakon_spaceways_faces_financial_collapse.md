@@ -7,15 +7,20 @@ source: API
 groups:
 - Alliance
 - Core Dynamics
-locations:
-- Jupiter
+- Lakon Spaceways
+persons:
+- Trent Delaney
+- Jupiter Rochester
 topics:
 - corporate expansion
 - crime
 - investigation
-- ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
+summary: Lakon Spaceways share prices drop to unprecedented lows amid a hostile takeover
+  by Core Dynamics, with the Independent Commission for Market Equality reporting irregularities
+  in share ownership transfers.
+player_impact: None
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape
+  the galactic aerospace market.
 legacy_weight: 2
 significance: low
 ---

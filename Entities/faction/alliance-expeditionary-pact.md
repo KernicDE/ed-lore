@@ -2,30 +2,32 @@
 id: alliance-expeditionary-pact
 name: Alliance Expeditionary Pact
 type: faction
-first_seen_date: '3309-02-16'
+first_seen_date: '3306-10-15'
 last_seen_date: '3309-02-16'
-mention_count: 1
+mention_count: 3
 related_entities:
 - alliance
 - witch-head-nebula
-- shenve
 - onoros
+- pilots-federation
+- shenve
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Alliance Expeditionary Pact
 
-First mentioned: **3309-02-16**  
+First mentioned: **3306-10-15**  
 Last mentioned: **3309-02-16**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
-- [[Witch Head Nebula]] (1 co-mentions)
-- [[Shenve]] (1 co-mentions)
-- [[Onoros]] (1 co-mentions)
+- [[Alliance]] (3 co-mentions)
+- [[Witch Head Nebula]] (3 co-mentions)
+- [[Onoros]] (3 co-mentions)
+- [[Pilots Federation]] (2 co-mentions)
+- [[Shenve]] (2 co-mentions)
 
 ## Biography
 

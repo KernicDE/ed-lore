@@ -4,17 +4,29 @@ title: An Heir to the Imperial Throne
 slug: an_heir_to_the_imperial_throne
 date: '3304-12-27'
 source: GitHub
-entities:
-- Eloise Winterstone proclaimed
+summary: Imperial senators supporting Nova Imperium demand that Emperor Arissa Lavigny-Duval acknowledge Hadrian Augustus Duval. Senator Eloise Winterstone argues that official recognition would secure the Duval bloodline's future. Chancellor Anders Blaine dismisses Nova Imperium as a fringe organisation. Cassia Carvalho writes that accepting Hadrian as heir may be a reasonable compromise amid growing civil war fears.
+player_impact: None
+persons:
+- Eloise Winterstone
+- Arissa Lavigny-Duval
+- Hadrian Augustus Duval
+- Anders Blaine
+- Cassia Carvalho
 groups:
+- Nova Imperium
 - Imperial Herald
 topics:
-- scandal
 - succession
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- politics
+modern_impact: The Senate's formal demand for Hadrian Duval's recognition escalates the succession crisis, with Chancellor Blaine's dismissal and the Emperor's silence fuelling accusations of weakness.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 51a193be-ce8c-5649-b154-05d219b0f646
+- 31f767a5-94dc-53cf-ba91-407794f301dc
+- e9ba1e32-22ee-5764-816f-cb9a399539ab
+- ffb9ecd2-59b8-5d12-932c-344d2f9e0b14
+- bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
 ---
 
 An Heir to [[The]] Imperial Throne?

@@ -6,27 +6,28 @@ date: '3306-09-12'
 source: GitHub
 groups:
 - Imperial Internal Security Service
+- NMLA
 locations:
 - Cemiess
-- Garrido Market in the LHS 4031
-- Mackenzie Relay
-- Mackenzie Relay in the Cemiess
-- Muller Terminal in the Rabh
-- This was registered by internal sensor
-- Tsiolkovsky Terminal in the Gabjaujis
+- Gabjaujis
+- LHS 4031
+- Rabh
 topics:
-- alien contact
-- construction
-- corporate expansion
-- humanitarian
-- investigation
-- ship
 - terrorism
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- investigation
+- alien contact
+summary: The IISS confirms the NMLA starport bombings used customised explosives incorporating
+  Thargoid technology and caustic enzymes. The damage resembled Thargoid weaponry, triggering
+  automatic emergency broadcasts.
+player_impact: Rescue operations continue at the four attacked starports.
+modern_impact: The revelation that NMLA has access to Thargoid-derived explosives raises
+  concerns about xenological weapons proliferation.
 legacy_weight: 5
 significance: high
+related_uuids:
+- ad6ca765-d65c-5e07-8b69-f72363fbb33a
+- b1d3cc6d-1f0c-5fe1-b2c4-58b3b944f2d6
+- 079b4589-32a5-5f8b-aa63-4f0f5f719a87
 ---
 
 Terror Attacks Used [[Thargoid]]-Derived Explosives

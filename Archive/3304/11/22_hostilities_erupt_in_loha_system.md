@@ -4,12 +4,22 @@ title: Hostilities Erupt in Loha System
 slug: hostilities_erupt_in_loha_system
 date: '3304-11-22'
 source: GitHub
+summary: A long-standing rivalry between Loha Holdings and the New Loha Party in the Loha system erupts into full-scale conflict. Loha Holdings accuses its rivals of hijacking transport ships and murdering crews, while the New Loha Party claims this is a false flag operation. Freelance reporter Karleen Troy reports that both factions appeal to independent combat pilots for support.
+player_impact: Independent combat pilots can support either Loha Holdings or the New Loha Party and earn substantial rewards.
+persons:
+- Karleen Troy
+groups:
+- Loha Holdings
+- New Loha Party
+locations:
+- Loha
 topics:
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The Loha conflict demonstrates how accusations of piracy and false flag operations rapidly escalate local disputes into system-wide warfare requiring independent pilot intervention.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 1d1717b5-b0bc-5c82-b40a-1405948417df
 ---
 
 Hostilities Erupt in [[Loha]] System

@@ -7,12 +7,18 @@ source: GitHub
 groups:
 - Alliance
 - Core Dynamics
-- Pilots Federation
+- Lakon Spaceways
+persons:
+- Naomi Landseer
 topics:
-- construction
 - corporate expansion
-- ship
-modern_impact: Ship review and release information for the pilot community.
+summary: Lakon Spaceways announces temporary 30% discounts on several vessel types to
+  increase short-term profits and reassure shareholders amid takeover pressure from Core
+  Dynamics.
+player_impact: Pilots could purchase discounted Lakon vessels until the 30th of December
+  3306.
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape
+  the galactic aerospace market.
 legacy_weight: 2
 significance: low
 ---

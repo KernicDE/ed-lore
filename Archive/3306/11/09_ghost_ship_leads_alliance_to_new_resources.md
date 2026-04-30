@@ -8,23 +8,20 @@ entities:
 - Edmund Mahon
 groups:
 - Alliance
-locations:
-- Chukchan
-- Sirius
-- Witch Head Nebula
+persons:
+- Edmund Mahon
 topics:
-- alien contact
 - corporate expansion
 - exploration
 - research
-- ship
-- sport
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 4
-significance: high
+summary: The abandoned megaship Adamastor reveals meta-alloy sources in the Coalsack
+  Nebula, prompting the Alliance to launch an expedition with corporate partners including
+  Sirius Atmospherics.
+player_impact: Independent pilots discovered Thargoid barnacle sites in the Coalsack Nebula.
+modern_impact: The Coalsack Nebula remains a key region for meta-alloy extraction and
+  Alliance expansion.
+legacy_weight: 3
+significance: medium
 ---
 
 ‘Ghost Ship’ Leads [[Alliance]] to New Resources

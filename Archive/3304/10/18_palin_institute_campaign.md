@@ -4,20 +4,20 @@ title: Palin Institute Campaign
 slug: palin_institute_campaign
 date: '3304-10-18'
 source: GitHub
-entities:
+summary: The Palin Institute announces an accelerated xenobiological research programme to analyse Thargoid motives behind their aggression. Director Professor Cora Shaw states the Institute's stock of xenobiological samples is severely depleted. The Ryder Revolutionary Party places an open order for Thargoid materials to be delivered to Obsidian Orbital in the Maia system, with a kill order protecting contributors.
+player_impact: Independent pilots can deliver Thargoid materials to Obsidian Orbital in the Maia system and earn rewards. The campaign runs for one week.
+persons:
 - Cora Shaw
+groups:
+- Palin Institute
+- Ryder Revolutionary Party
 locations:
 - Maia
 - Obsidian Orbital
 topics:
 - alien contact
-- independence
 - research
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Palin Institute's Thargoid research programme represents a major scientific effort to understand alien motivations, with potential implications for defence strategy and diplomatic approaches.
 legacy_weight: 5
 significance: high
 ---

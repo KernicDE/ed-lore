@@ -4,23 +4,32 @@ title: Connection to Sirius Corp Uncovered
 slug: connection_to_sirius_corp_uncovered
 date: '3304-11-16'
 source: GitHub
+summary: Interrogations of captured mercenaries from the Meene incursion reveal that several were junior officers in Sirius Corporation's private fleet. Security Chief Harper Vargas states the attack was funded and organised by these individuals. Ram Tah questions whether Sirius was attempting to obtain his research by force or scare him into accepting Li Yong-Rui's offer. Sirius Corporation denies all allegations and promises a full inquiry.
+player_impact: None
+persons:
+- Harper Vargas
+- Ram Tah
+- Li Yong-Rui
 groups:
-- Sirius Corp
 - Sirius Corporation
+- Meene Defence Force
 locations:
 - Meene
-- Phoenix Base in the Meene
-- Ram Tah
-- Sirius
+- Phoenix Base
 topics:
 - corporate expansion
 - crime
-- engineering
 - investigation
-- research
-modern_impact: Engineering developments offer pilots new ship customisation options.
+- xenoarchaeology
+modern_impact: The direct link between Sirius Corporation officers and the mercenary raid exposes potential corporate espionage at the highest levels, damaging Sirius's reputation and raising questions about corporate ethics in advanced technology research.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 0df0d175-26b5-54ca-a01f-15bcd364aca3
+- 3d84c337-f252-5c4f-9fb4-58cf64f82dfe
+- bffb48c0-bcf9-5023-862b-75f80c238686
+- 30995800-a980-5b52-889e-1809f4bc9cee
+- 5ce245a3-6cab-529d-81eb-e7015b0bbe28
 ---
 
 Connection to Sirius Corp Uncovered

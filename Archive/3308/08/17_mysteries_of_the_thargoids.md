@@ -1,5 +1,5 @@
 ---
-uuid: 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
+uuid: 02c79e14-bd50-5a4a-b85d-2e25fa40eba1
 title: Mysteries of the Thargoids
 slug: mysteries_of_the_thargoids
 date: '3308-08-17'

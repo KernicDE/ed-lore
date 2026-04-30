@@ -1,5 +1,5 @@
 ---
-uuid: 1a8f5a0b-8f5d-4c3e-7d2b-1a8f5a0b8f5d
+uuid: 70a0500f-c445-5bc3-b002-a154f8dd54ad
 title: A New Chapter for Azimuth
 slug: a_new_chapter_for_azimuth
 date: '3308-08-30'

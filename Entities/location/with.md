@@ -3,8 +3,8 @@ id: with
 name: With
 type: location
 first_seen_date: '3304-08-24'
-last_seen_date: '3305-07-18'
-mention_count: 3
+last_seen_date: '3304-08-26'
+mention_count: 2
 related_entities:
 - recent-reports-from-the-betel
 - alliance
@@ -18,8 +18,8 @@ related_entities:
 # With
 
 First mentioned: **3304-08-24**  
-Last mentioned: **3305-07-18**  
-Total mentions: **3**
+Last mentioned: **3304-08-26**  
+Total mentions: **2**
 
 ## Related
 

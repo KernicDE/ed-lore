@@ -5,20 +5,19 @@ slug: rackhams_peak_outpost_marks_galactic_zenith
 date: '3306-12-17'
 source: API
 groups:
-- Pilots Federation
 - Universal Cartographics
-locations:
-- Bast
-- Harma
-- Leesti
-- Peak is situated in the HIP 58832
+- Rackham Capital Investments
+persons:
+- Zachary Rackham
 topics:
-- construction
 - exploration
 - research
-- ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
+summary: Zachary Rackham's orbital outpost at the galactic zenith in HIP 58832 becomes
+  operational, offering high prices for rare beverages and astronomical research opportunities.
+player_impact: Traders delivered beer, liquor, wine, and other beverages to Rackham's
+  Peak for high profits.
+modern_impact: Rackham's Peak outpost remains a unique scientific and tourism destination
+  at the galactic zenith.
 legacy_weight: 2
 significance: low
 ---

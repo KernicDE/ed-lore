@@ -6,17 +6,22 @@ date: '3306-01-14'
 source: GitHub
 groups:
 - Universal Cartographics
+persons:
+- Cynthia Sideris
 locations:
 - Wisanye
 - Witch Head Sector FB-X c1-7
 topics:
-- alien contact
 - exploration
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 4
-significance: high
+summary: Universal Cartographics updates the names of fifteen systems in the Witch Head
+  Enclave to make them more memorable and explorer-friendly.
+player_impact: None
+modern_impact: The renaming effort makes the Witch Head Enclave more accessible to explorers
+  and traders, even as Thargoid incursions continue.
+legacy_weight: 2
+significance: low
+related_uuids:
+- b94afdd9-d5e9-54ed-8237-7dd25c981332
 ---
 
 [[Witch Head]] System Designations Updated

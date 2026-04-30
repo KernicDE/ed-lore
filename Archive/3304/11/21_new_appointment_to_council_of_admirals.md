@@ -4,14 +4,26 @@ title: New Appointment to Council of Admirals
 slug: new_appointment_to_council_of_admirals
 date: '3304-11-21'
 source: GitHub
+summary: Admiral Frederick Yamamoto is appointed as the sixth member of the Alliance Council of Admirals, filling a vacancy left when Riri McAllister was exposed as coordinator of terrorist group the League of Reparation. Fleet Admiral Hayley Sorokin conducts the induction, praising Yamamoto's experience commanding the Alliance Defence Force in Zaonce. Journalist Vanya Driscoll notes Yamamoto is a close friend of President Gibson Kincaid.
+player_impact: None
+persons:
+- Frederick Yamamoto
+- Hayley Sorokin
+- Riri McAllister
+- Vanya Driscoll
+- Gibson Kincaid
 groups:
 - Alliance
+- Alliance Council of Admirals
+- Alliance Defence Force
+- League of Reparation
 locations:
-- Lave
 - Zaonce
+- Lave
 topics:
+- politics
 - terrorism
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Yamamoto's appointment strengthens the Alliance military leadership but raises questions about political favouritism given his close relationship with President Kincaid.
 legacy_weight: 2
 significance: low
 ---

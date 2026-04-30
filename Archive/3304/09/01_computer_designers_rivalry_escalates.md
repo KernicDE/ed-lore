@@ -4,13 +4,25 @@ title: Computer Designers’ Rivalry Escalates
 slug: computer_designers_rivalry_escalates
 date: '3304-09-01'
 source: GitHub
+summary: Maddox Hurd of Herculean Machines publicly dismisses rival Supratech's forthcoming Torc wearable computer as a 'ridiculous idea,' betting a million credits it will malfunction. Supratech CEO Scorpio DeVorrow responds by calling Hurd a man of 'limited imagination' and touting the Torc as revolutionary. Both prototypes will be unveiled at the Rackham Ultratech Expo on October 3rd.
+player_impact: None
+persons:
+- Maddox Hurd
+- Scorpio DeVorrow
+groups:
+- Herculean Machines
+- Supratech
+locations: []
 topics:
 - corporate expansion
-- exploration
-- independence
-modern_impact: Notable exploration achievement.
+- technology
+modern_impact: The escalating public rivalry between Herculean Machines and Supratech generates significant media attention and consumer interest, setting the stage for a competitive product launch at the Rackham Ultratech Expo.
 legacy_weight: 2
 significance: low
+related_uuids:
+- a3e39e45-ff53-5d20-8eab-14ecd7b2b96a
+- a0727980-09f7-5908-b180-38abb526af92
+- a8ef52ae-0f17-58b6-97bd-b4bcf29500b3
 ---
 
 Computer Designers’ Rivalry Escalates

@@ -2,32 +2,32 @@
 id: homeland
 name: Homeland
 type: location
-first_seen_date: '3308-04-15'
+first_seen_date: '3304-08-11'
 last_seen_date: '3311-09-08'
-mention_count: 4
+mention_count: 7
 related_entities:
-- federal-times
 - beta-hydri
+- macarthur-mining-ltd
+- federal-times
 - rackham-capital-investments
-- rackhams-spire
-- liberal-party
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Homeland
 
-First mentioned: **3308-04-15**  
+First mentioned: **3304-08-11**  
 Last mentioned: **3311-09-08**  
-Total mentions: **4**
+Total mentions: **7**
 
 ## Related
 
+- [[Beta Hydri]] (5 co-mentions)
+- [[MacArthur Mining Ltd]] (3 co-mentions)
 - [[Federal Times]] (2 co-mentions)
-- [[Beta Hydri]] (2 co-mentions)
 - [[Rackham Capital Investments]] (2 co-mentions)
-- [[Rackham's Spire]] (1 co-mentions)
-- [[Liberal Party]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
 
 ## Biography
 

@@ -4,19 +4,28 @@ title: Kincaid Wins Election
 slug: kincaid_wins_election
 date: '3304-10-17'
 source: GitHub
-entities:
-- Edmund Mahon gave
-- Kincaid
-- Kincaid addressed his followers
+summary: Gibson Kincaid wins the Alliance presidential election with a small majority, defeating Elijah Beck. Fazia Silva, the third candidate, was recently found dead and remains under Interpol investigation. Kincaid vows to lead citizens into a glorious future. Prime Minister Edmund Mahon announces the Assembly will extend debate on executive powers by one week before a parliamentary vote.
+player_impact: None
+persons:
+- Gibson Kincaid
+- Elijah Beck
+- Fazia Silva
+- Edmund Mahon
 groups:
 - Alliance
+- Alliance Assembly
+- Alliance Interpol
+locations: []
 topics:
-- investigation
-- sport
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+- politics
+modern_impact: Kincaid's re-election preserves his push for executive powers, but the narrow margin and unresolved Silva murder case cast a shadow over his mandate and the Alliance's democratic health.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- be94dc0c-3832-5f14-b864-cc7ad2ee3e53
+- 46a4e0b4-2083-57ba-8f88-c4c2cca39367
+- a950b069-65d4-569a-b55c-6ce84123e10e
+- 386cbd85-5543-5119-8766-37eb9cb4855c
 ---
 
 [[Kincaid]] Wins Election

@@ -1,5 +1,5 @@
 ---
-uuid: 1a8f5a0b-8f5d-4c3e-7d2b-1a8f5a0b8f5d
+uuid: bc635a7c-22bf-5a79-b6bb-781f8b67a199
 title: Guardian Artefact Campaign Concludes
 slug: guardian_artefact_campaign_concludes
 date: '3308-07-26'

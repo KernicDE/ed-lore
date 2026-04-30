@@ -4,21 +4,29 @@ title: Juanita Bishop runs for Congress
 slug: juanita_bishop_runs_for_congress
 date: '3304-08-31'
 source: GitHub
-entities:
+summary: Anti-cult campaigner Juanita Bishop announces her candidacy for Federal Congress as an independent candidate, capitalising on her strong following from vocal condemnation of the Far God cult. At a rally, she promises to rid the Federation of Thargoid spies. Dr Jameelah Griffin of the Galactic Interfaith Commune accuses Bishop of building her powerbase on fear and paranoia, and notes that Far God chapters continue to vanish without trace.
+player_impact: None
+persons:
+- Juanita Bishop
 - Jameelah Griffin
+- Micah Whitefield
 groups:
 - Federal Congress
+- Galactic Interfaith Commune
+- Far God cult
+locations: []
 topics:
 - alien contact
-- construction
-- festival
-- ship
-- sport
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+- politics
+modern_impact: Bishop's congressional campaign represents the politicisation of anti-xeno sentiment, transforming religious persecution into an electoral platform and raising concerns about the erosion of civil liberties in the Federation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- dab1d8e0-8ac9-5fea-a7c9-ad5f57b5f541
+- f12c2ec4-bbcc-55f0-87ac-1594fe3eb363
+- d9093b90-7659-5e5b-ac01-e545fe66530b
+- 334fc5ad-8484-5b75-8418-d393f7045533
 ---
 
 Juanita Bishop runs for Congress

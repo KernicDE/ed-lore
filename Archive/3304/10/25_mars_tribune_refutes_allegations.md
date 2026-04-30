@@ -4,8 +4,15 @@ title: Mars Tribune Refutes Allegations
 slug: mars_tribune_refutes_allegations
 date: '3304-10-25'
 source: GitHub
+summary: The Cordova Group files a formal complaint as the FSS continues investigating The Mars Tribune for illegally obtaining private information. The FSS has established that dozens of public figures' robots contained hidden surveillance programs, potentially sourcing several Tribune exclusives. Owner Kingsley Cordova defends the publication's integrity and warns that the robots could broadcast sensitive data about their owners.
+player_impact: None
+persons:
+- Kingsley Cordova
+- Ramesh Thorne
 groups:
 - Federal Security Service
+- Mars Tribune
+- Cordova Group
 locations:
 - Mars
 - Sol
@@ -13,9 +20,13 @@ topics:
 - crime
 - investigation
 - scandal
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Cordova's defiant response and thinly veiled threat to expose robot owners' secrets escalates tensions between the media conglomerate and Federal law enforcement, raising the stakes for both sides.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 4cfd8020-b7f7-51bd-b184-d44dc244bf8b
+- 662535a6-f967-55f6-bd3e-2d774afb341a
+- c5cb5bec-f7cd-563c-9c57-d8f5ede49843
 ---
 
 [[Mars]] Tribune Refutes Allegations

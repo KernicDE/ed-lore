@@ -4,17 +4,24 @@ title: Bishop’s Congressional Bid Collapses
 slug: bishops_congressional_bid_collapses
 date: '3304-10-04'
 source: GitHub
+summary: Juanita Bishop fails to be elected to Federal Congress after her protest movement against the Far God cult loses support. Political analyst Vaughan Niven attributes the collapse to Gethin Okonkwo's investigation finding no connection between the Far God sect and Thargoids. Congress members have taken a stand against Bishop for cultivating civil unrest and violating religious freedom principles.
+player_impact: None
+persons:
+- Juanita Bishop
+- Vaughan Niven
+- Gethin Okonkwo
 groups:
 - Federal Congress
+locations: []
 topics:
-- alien contact
-- festival
+- politics
+- religion
 - investigation
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Bishop's failed congressional bid marks a turning point in public attitudes toward the Far God cult, with Federal institutions rejecting anti-xeno extremism in favour of religious freedom and evidence-based discourse.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 56ff2068-8d59-5275-8750-5490229a8326
 ---
 
 Bishop’s Congressional Bid Collapses

@@ -4,15 +4,25 @@ title: The Battle for Betel
 slug: the_battle_for_betel
 date: '3304-08-24'
 source: GitHub
+summary: An ongoing feud between the Silver Creative Network and Betel Free escalates into violence in the Betel system. General Hollis of Betel security states they lack ships for effective intervention. Both organisations issue calls for support from independent pilots, offering generous rewards.
+player_impact: Independent pilots can fight for either faction in the Betel system. The campaign runs for one week.
+persons:
+- General Hollis
+groups:
+- Silver Creative Network
+- Betel Free
+- Betel security
 locations:
-- Recent reports from the Betel
-- With
+- Betel
+- Carrier Enterprise
 topics:
-- ship
+- crime
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The Betel conflict demonstrates how factional violence can overwhelm local security forces, requiring mercenary intervention to restore or shift control.
 legacy_weight: 1
 significance: low
+related_uuids:
+- c7705338-10b5-5847-b164-e3152f04e929
 ---
 
 [[The]] Battle for [[Betel]]

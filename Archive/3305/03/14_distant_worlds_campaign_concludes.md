@@ -4,19 +4,27 @@ title: Distant Worlds Campaign Concludes
 slug: distant_worlds_campaign_concludes
 date: '3305-03-14'
 source: GitHub
-entities:
+persons:
 - Michael Darkmoor
+groups:
+- Deep Space Surveys
+- Rock Rats
 locations:
-- Beagle Point
+- Stuemeae FG-Y d7561
 - Explorer's Anchorage
 - Sagittarius A*
+- Beagle Point
 topics:
 - exploration
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+- research
+summary: The Distant Worlds II resource-gathering campaign concludes successfully, with Explorer's Anchorage established as a scientific installation to study the supermassive black hole at Sagittarius A*.
+player_impact: Contributing pilots could collect rewards from Explorer's Anchorage in Stuemeae FG-Y d7561.
+modern_impact: The campaign's completion marked a milestone in deep-space infrastructure, creating humanity's first research station in the Galactic Centre and enabling unprecedented study of extreme gravitational phenomena.
+legacy_weight: 4
+significance: high
+related_uuids:
+- a66cd191-14e4-5cfc-9d8b-38d780f58137
+- 432f9416-f1fb-55a0-89b9-82607b354d65
 ---
 
 [[Distant Worlds]] Campaign Concludes
@@ -28,7 +36,7 @@ Contributors delivered huge amounts of materials to the [[Stuemeae FG-Y d7561]] 
 
 Commander [[Michael Darkmoor]] of the Rock Rats stated: 
 
-“The newly built astrophysics station will enable us to observe high-detail changes to the gravimetric field surrounding Sagittarius A*. We hope to better understand the deeper relationships between extreme gravity and multi-dimensional space.” 
+"The newly built astrophysics station will enable us to observe high-detail changes to the gravimetric field surrounding Sagittarius A*. We hope to better understand the deeper relationships between extreme gravity and multi-dimensional space." 
 
 The Distant Worlds II exploration fleet will continue [[Its]] journey across the galaxy, towards [[Beagle Point]]. 
 

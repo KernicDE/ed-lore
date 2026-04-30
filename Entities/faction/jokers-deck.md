@@ -1,31 +1,33 @@
 ---
 id: jokers-deck
-name: Joker's Deck
+name: Jokers' Deck
 type: faction
-first_seen_date: '3312-03-03'
-last_seen_date: '3312-03-03'
-mention_count: 1
+first_seen_date: '3305-02-23'
+last_seen_date: '3305-03-09'
+mention_count: 3
 related_entities:
-- october-consortium
-- supratech
-- artemis
-- hip-87621
+- diso
+- ambrose-foundation
+- the-rewired
+- wallglass-investigations-agency
+- vox-galactica
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Joker's Deck
+# Jokers' Deck
 
-First mentioned: **3312-03-03**  
-Last mentioned: **3312-03-03**  
-Total mentions: **1**
+First mentioned: **3305-02-23**  
+Last mentioned: **3305-03-09**  
+Total mentions: **3**
 
 ## Related
 
-- [[October Consortium]] (1 co-mentions)
-- [[Supratech]] (1 co-mentions)
-- [[Artemis]] (1 co-mentions)
-- [[HIP 87621]] (1 co-mentions)
+- [[Diso]] (2 co-mentions)
+- [[Ambrose Foundation]] (2 co-mentions)
+- [[The Rewired]] (1 co-mentions)
+- [[Wallglass Investigations Agency]] (1 co-mentions)
+- [[Vox Galactica]] (1 co-mentions)
 
 ## Biography
 

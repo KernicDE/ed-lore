@@ -6,14 +6,21 @@ date: '3305-12-18'
 source: GitHub
 groups:
 - Alliance
+persons:
+- Edmund Mahon
+locations:
+- Reorte
 topics:
 - festival
-- trade
-- war
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
-legacy_weight: 3
-significance: medium
+summary: End-of-year celebrations conclude successfully in the Reorte system. Independent
+  pilots ensured supplies for over a billion attendees while maintaining security.
+player_impact: Pilots who took part can obtain rewards from Davies High in Reorte.
+modern_impact: The successful conclusion of the Alliance's year-end festivities reinforces
+  inter-system cooperation.
+legacy_weight: 2
+significance: low
+related_uuids:
+- aa62308a-5bb5-5176-b568-17e5602b7db7
 ---
 
 [[Reorte]] Year’s End Festivities Conclude

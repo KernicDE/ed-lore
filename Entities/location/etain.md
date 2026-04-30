@@ -2,32 +2,32 @@
 id: etain
 name: Etain
 type: location
-first_seen_date: '3307-07-19'
+first_seen_date: '3304-11-28'
 last_seen_date: '3307-07-19'
-mention_count: 1
+mention_count: 5
 related_entities:
-- wallglass-investigations-agency
-- order-of-the-far-god
-- pleiades-concordat
-- federal-intelligence-agency
-- the-panjabell
+- far-god-cult
+- achilles-corporation
+- aegis
+- sirius-corporation
+- meene
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Etain
 
-First mentioned: **3307-07-19**  
+First mentioned: **3304-11-28**  
 Last mentioned: **3307-07-19**  
-Total mentions: **1**
+Total mentions: **5**
 
 ## Related
 
-- [[Wallglass Investigations Agency]] (1 co-mentions)
-- [[Order of the Far God]] (1 co-mentions)
-- [[Pleiades Concordat]] (1 co-mentions)
-- [[Federal Intelligence Agency]] (1 co-mentions)
-- [[The Panjabell]] (1 co-mentions)
+- [[Far God cult]] (2 co-mentions)
+- [[Achilles Corporation]] (2 co-mentions)
+- [[Aegis]] (1 co-mentions)
+- [[Sirius Corporation]] (1 co-mentions)
+- [[Meene]] (1 co-mentions)
 
 ## Biography
 

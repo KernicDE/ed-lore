@@ -23,9 +23,9 @@ Total mentions: **55**
 
 ## Related
 
-- [[Aegis]] (26 co-mentions)
+- [[Aegis]] (27 co-mentions)
 - [[Maia]] (11 co-mentions)
-- [[Alliance]] (8 co-mentions)
+- [[Alliance]] (9 co-mentions)
 - [[Merope]] (7 co-mentions)
 - [[Obsidian Orbital]] (6 co-mentions)
 

@@ -4,17 +4,29 @@ title: Blight Pathogen Cured
 slug: blight_pathogen_cured
 date: '3305-10-31'
 source: GitHub
-entities:
+groups:
+- Interstellar Association for Agriculture
+persons:
 - Genevieve Kane
 locations:
 - Diso
-- Planetside farming communities in both
-- Watson Station in the Orerve
+- Orerve
 topics:
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- medicine
+- humanitarian
+summary: The agronomic treatment proves effective against the blight pathogen. Farming communities
+  in Diso and Orerve begin recovering. Mass production of the treatment begins for galaxy-wide
+  distribution.
+player_impact: Pilots who contributed can collect rewards from Shifnalport in Diso and Watson
+  Station in Orerve.
+modern_impact: The successful cure of the blight pathogen averts mass starvation and demonstrates
+  the power of interstellar scientific collaboration.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 35c77875-ffa6-5438-a24c-646a7350dccd
+- ca2d40ce-2068-58cb-be1d-1939ef1aa2b1
+- 91dea8da-3921-5a99-811c-41fdd8ec779f
 ---
 
 Blight Pathogen Cured

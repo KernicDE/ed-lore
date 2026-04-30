@@ -2,32 +2,32 @@
 id: geras
 name: Geras
 type: location
-first_seen_date: '3304-11-08'
+first_seen_date: '3304-11-01'
 last_seen_date: '3308-05-12'
-mention_count: 3
+mention_count: 5
 related_entities:
-- authorities-in-the-geras
-- arissa-lavigny-duval
+- geras-first
+- ndozins-state-inc
 - federal-security-service
 - sirius-corporation
-- mars
+- nova-imperium
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Geras
 
-First mentioned: **3304-11-08**  
+First mentioned: **3304-11-01**  
 Last mentioned: **3308-05-12**  
-Total mentions: **3**
+Total mentions: **5**
 
 ## Related
 
-- [[Authorities in the Geras]] (1 co-mentions)
-- [[Arissa-Lavigny Duval]] (1 co-mentions)
-- [[Federal Security Service]] (1 co-mentions)
-- [[Sirius Corporation]] (1 co-mentions)
-- [[Mars]] (1 co-mentions)
+- [[Geras First]] (3 co-mentions)
+- [[Ndozins State Inc]] (3 co-mentions)
+- [[Federal Security Service]] (2 co-mentions)
+- [[Sirius Corporation]] (2 co-mentions)
+- [[Nova Imperium]] (2 co-mentions)
 
 ## Biography
 

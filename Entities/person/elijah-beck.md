@@ -2,18 +2,18 @@
 id: elijah-beck
 name: Elijah Beck
 type: person
-first_seen_date: '3307-10-26'
+first_seen_date: '3304-09-13'
 last_seen_date: '3308-04-27'
-mention_count: 2
+mention_count: 16
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Elijah Beck
 
-First mentioned: **3307-10-26**  
+First mentioned: **3304-09-13**  
 Last mentioned: **3308-04-27**  
-Total mentions: **2**
+Total mentions: **16**
 
 ## Related
 

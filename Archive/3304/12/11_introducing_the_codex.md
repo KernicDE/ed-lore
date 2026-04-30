@@ -4,16 +4,17 @@ title: Introducing the Codex
 slug: introducing_the_codex
 date: '3304-12-11'
 source: GitHub
+summary: The Pilots Federation and Universal Cartographics jointly release the Codex, a networked database system automatically uploaded to all registered vessels. The Codex includes a Commander section for ship data and personal achievements, a Knowledge Base on prominent organisations and individuals, and a Discoveries section for deep-space exploration findings.
+player_impact: The Codex is automatically available on all Pilots Federation registered vessels, providing Commanders with a centralised database for tracking achievements, knowledge, and exploration discoveries.
+persons: []
 groups:
 - Pilots Federation
 - Universal Cartographics
-locations:
-- A new networked database
+locations: []
 topics:
 - exploration
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+- technology
+modern_impact: The Codex becomes an essential tool for pilots, revolutionising how Commanders track personal achievements, access galactic knowledge, and share exploration discoveries.
 legacy_weight: 2
 significance: low
 ---

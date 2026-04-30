@@ -9,8 +9,8 @@ related_entities:
 - mackenzie-relay
 - achenar
 - imperial-internal-security-service
+- nmla
 - prism
-- emperors-dawn
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **24**
 
 ## Related
 
-- [[Mackenzie Relay]] (13 co-mentions)
-- [[Achenar]] (7 co-mentions)
+- [[Mackenzie Relay]] (11 co-mentions)
+- [[Achenar]] (5 co-mentions)
 - [[Imperial Internal Security Service]] (5 co-mentions)
+- [[NMLA]] (5 co-mentions)
 - [[Prism]] (3 co-mentions)
-- [[Emperor's Dawn]] (3 co-mentions)
 
 ## Biography
 

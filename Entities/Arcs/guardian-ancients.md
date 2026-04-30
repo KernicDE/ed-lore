@@ -3,13 +3,13 @@ id: guardian-ancients
 name: Guardian Ancients
 first_seen_date: '3303-01-23'
 last_seen_date: '3307-12-03'
-mention_count: 18
+mention_count: 13
 significance: medium
 key_entities:
-- sirius-corporation
-- aegis
+- zende-partners
 - noodlz05
-- freya-taine-made
+- aegis
+- segnen-exchange
 - scriveners-clan
 ---
 
@@ -19,14 +19,14 @@ key_entities:
 
 First seen: **3303-01-23**  
 Last seen: **3307-12-03**  
-Articles: **18**
+Articles: **13**
 
 ## Key Figures
 
-- [[Sirius Corporation]] (4 mentions)
-- [[Aegis]] (2 mentions)
+- [[Zende Partners]] (2 mentions)
 - [[Noodlz05]] (1 mentions)
-- [[Freya Taine made]] (1 mentions)
+- [[Aegis]] (1 mentions)
+- [[Segnen Exchange]] (1 mentions)
 - [[Scriveners Clan]] (1 mentions)
 
 ## Description

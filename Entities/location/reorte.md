@@ -2,9 +2,9 @@
 id: reorte
 name: Reorte
 type: location
-first_seen_date: '3305-12-12'
+first_seen_date: '3305-10-16'
 last_seen_date: '3311-12-02'
-mention_count: 14
+mention_count: 16
 related_entities:
 - alliance
 - sirius-corporation
@@ -17,13 +17,13 @@ related_entities:
 
 # Reorte
 
-First mentioned: **3305-12-12**  
+First mentioned: **3305-10-16**  
 Last mentioned: **3311-12-02**  
-Total mentions: **14**
+Total mentions: **16**
 
 ## Related
 
-- [[Alliance]] (13 co-mentions)
+- [[Alliance]] (14 co-mentions)
 - [[Sirius Corporation]] (12 co-mentions)
 - [[Alioth]] (6 co-mentions)
 - [[Rhea]] (3 co-mentions)

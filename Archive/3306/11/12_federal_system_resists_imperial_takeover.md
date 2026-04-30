@@ -5,17 +5,24 @@ slug: federal_system_resists_imperial_takeover
 date: '3306-11-12'
 source: GitHub
 groups:
-- Pilots Federation
-locations:
-- The LTT 1935
+- LTT 1935 Confederacy
+- L.Y.S Corp
+persons:
+- Ernest Harris
+- Axel Cyprian
 topics:
 - investigation
-- sport
 - terrorism
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 1
-significance: low
+summary: The Federation successfully maintains control of the LTT 1935 system after a
+  battle against Imperial forces investigating NMLA bomb-making material deliveries.
+player_impact: Federal auxiliaries and independent pilots defended LTT 1935 from Imperial
+  occupation.
+modern_impact: Federal political developments shape superpower relations.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- c567d3a4-1255-56d4-806c-18850b5c46aa
 ---
 
 Federal System Resists Imperial Takeover

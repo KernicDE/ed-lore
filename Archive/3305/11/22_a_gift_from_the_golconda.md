@@ -4,14 +4,28 @@ title: A Gift from the Golconda
 slug: a_gift_from_the_golconda
 date: '3305-11-22'
 source: GitHub
-entities:
+groups:
+- Upaniklis Vision Incorporated
+persons:
 - Elizabeth Perez
+- Giles Cappelleo
+locations:
+- Upaniklis
 topics:
 - research
 - ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+summary: The Golconda inhabitants offer a case of their traditional spirit Apa Vietii to
+  the Upaniklis system as a token of gratitude. The beverage, distilled for centuries, receives
+  praise from gourmet critic Giles Cappelleo.
+player_impact: None
+modern_impact: The gift of Apa Vietii marks the beginning of cultural exchange between the
+  Golconda and the wider galaxy, while raising commercial interest in the unique spirit.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 8166c06a-f366-5f9c-84ac-846f243da58c
+- 42b2a824-dda6-5beb-ae9d-99f1e5690520
+- 0b425e04-a017-5e75-b8a3-f9326947de40
 ---
 
 A Gift from [[The]] [[Golconda]]

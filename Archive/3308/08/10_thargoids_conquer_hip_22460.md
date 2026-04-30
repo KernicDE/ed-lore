@@ -1,5 +1,5 @@
 ---
-uuid: 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+uuid: 5dac2429-cbe4-5b27-95da-d6d5fe91f4eb
 title: Thargoids Conquer HIP 22460
 slug: thargoids_conquer_hip_22460
 date: '3308-08-10'

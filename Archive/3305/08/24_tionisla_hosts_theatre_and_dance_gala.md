@@ -6,12 +6,19 @@ date: '3305-08-24'
 source: GitHub
 groups:
 - Alliance
+persons:
+- Bryony Lindholm
 locations:
-- Alioth
 - Tionisla
+- Alioth
 topics:
 - festival
-modern_impact: Community celebration bringing pilots together.
+summary: The Alliance Festival of Culture's fifth week features theatre and dance performances
+  in Tionisla. A highlight is the ballet 'Bones of Dreams' performed by skeletal robot dancers
+  made from scrap salvaged from the Tionisla orbital graveyard.
+player_impact: None
+modern_impact: The theatre gala demonstrates the Alliance's embrace of avant-garde art and
+  its ability to find beauty in unconventional materials.
 legacy_weight: 1
 significance: low
 ---

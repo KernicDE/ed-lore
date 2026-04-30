@@ -4,7 +4,7 @@ name: Canonn
 type: faction
 first_seen_date: '3301-05-04'
 last_seen_date: '3308-11-11'
-mention_count: 57
+mention_count: 54
 related_entities:
 - canonn-interstellar-research-group
 - arcanonn
@@ -19,11 +19,11 @@ related_entities:
 
 First mentioned: **3301-05-04**  
 Last mentioned: **3308-11-11**  
-Total mentions: **57**
+Total mentions: **54**
 
 ## Related
 
-- [[Canonn Interstellar Research Group]] (40 co-mentions)
+- [[Canonn Interstellar Research Group]] (37 co-mentions)
 - [[Arcanonn]] (23 co-mentions)
 - [[Merope]] (13 co-mentions)
 - [[Varati]] (11 co-mentions)

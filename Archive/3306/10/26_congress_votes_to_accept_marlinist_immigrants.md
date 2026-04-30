@@ -4,22 +4,27 @@ title: Congress Votes to Accept Marlinist Immigrants
 slug: congress_votes_to_accept_marlinist_immigrants
 date: '3306-10-26'
 source: GitHub
-entities:
-- Felicia Winters
-- Winters told
-- Zachary Hudson
 groups:
 - Federal Times
-locations:
-- Sol
+persons:
+- Felicia Winters
+- Zachary Hudson
 topics:
 - humanitarian
-- piracy
-- ship
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
-legacy_weight: 3
-significance: medium
+- politics
+summary: Congress votes to grant sanctuary to Marlinist refugees, overriding President
+  Hudson's position. Shadow President Winters' proposal receives majority support. Newsfeeds
+  note Hudson's authority is undermined by his silence on Vincent.
+player_impact: None
+modern_impact: The congressional vote marks a major political victory for Winters and the
+  Liberal Party, shifting Federal refugee policy.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 34fdadf1-c07a-58ef-8a59-52f33cb9eebf
+- 20fdf55d-94b0-55c6-9c70-4c26b0dbc494
+- ab9fd6d4-7ecb-566c-b306-7812dfdd30e4
+- 5d9ab4ba-65c3-50f9-9c27-cfbc9bd2f078
 ---
 
 Congress Votes to Accept [[Marlinist]] Immigrants

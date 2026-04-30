@@ -4,21 +4,26 @@ title: Colonia Hydroponics Initiative
 slug: colonia_hydroponics_initiative
 date: '3304-08-17'
 source: GitHub
-entities:
+summary: Colonia authorities decide to build a state-of-the-art hydroponics facility due to research projecting possible food shortages. Scientific adviser Professor Diana VanCleef states the facility will provide reliable sustainable food for the region. The Colonia Research Division asks pilots to deliver mined resources to Templar Barracks in the Randgnid system.
+player_impact: Independent pilots can deliver mined resources to Templar Barracks in the Randgnid system and earn rewards. The campaign runs for one week.
+persons:
 - Diana VanCleef
+- Giselle Kingspear
 groups:
 - Colonia Council
+- Colonia Research Division
 locations:
 - Colonia
-- Templar Barracks in the Randgnid
+- Randgnid
+- Templar Barracks
 topics:
 - construction
 - research
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: The hydroponics facility represents a critical investment in Colonia's food security and self-sufficiency, supporting continued growth of the deep-space settlement.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 249a170f-066b-542f-9e3d-757e4e249409
 ---
 
 Colonia Hydroponics Initiative

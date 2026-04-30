@@ -2,32 +2,32 @@
 id: alliance-salvage-guild
 name: Alliance Salvage Guild
 type: faction
-first_seen_date: '3307-04-08'
+first_seen_date: '3306-10-29'
 last_seen_date: '3307-04-08'
-mention_count: 1
+mention_count: 2
 related_entities:
 - pilots-federation
-- azimuth-biochemicals
-- pharmasapien
 - chukchan
-- chukchan-5-b
+- alliance
+- hip-61595
+- hip-64011
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Alliance Salvage Guild
 
-First mentioned: **3307-04-08**  
+First mentioned: **3306-10-29**  
 Last mentioned: **3307-04-08**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Pilots Federation]] (1 co-mentions)
-- [[Azimuth Biochemicals]] (1 co-mentions)
-- [[Pharmasapien]] (1 co-mentions)
-- [[Chukchan]] (1 co-mentions)
-- [[Chukchan 5 b]] (1 co-mentions)
+- [[Pilots Federation]] (2 co-mentions)
+- [[Chukchan]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[HIP 61595]] (1 co-mentions)
+- [[HIP 64011]] (1 co-mentions)
 
 ## Biography
 

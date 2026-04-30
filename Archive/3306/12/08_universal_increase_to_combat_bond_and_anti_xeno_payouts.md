@@ -4,23 +4,22 @@ title: Universal Increase to Combat Bond and Anti-Xeno Payouts
 slug: universal_increase_to_combat_bond_and_anti_xeno_payouts
 date: '3306-12-08'
 source: API
-entities:
-- Ophelia Kaufmann
 groups:
 - Alliance
-- Pilots Federation
+persons:
+- Ophelia Kaufmann
 topics:
 - alien contact
-- construction
-- ship
-- terrorism
-- trade
 - war
-arc_id: thargoid-contact
+summary: Combat bonds and anti-xeno bond payouts are increased across Alliance, Federal,
+  Imperial, and independent space due to financial instability, political tensions, and
+  heightened Thargoid activity.
+player_impact: Pilots received increased payouts for combat bonds and Thargoid kills
+  across all jurisdictions.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
-legacy_weight: 5
-significance: high
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

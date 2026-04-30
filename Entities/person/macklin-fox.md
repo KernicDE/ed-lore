@@ -3,10 +3,8 @@ id: macklin-fox
 name: Macklin Fox
 type: person
 first_seen_date: '3305-08-29'
-last_seen_date: '3305-08-29'
-mention_count: 1
-related_entities:
-- braun-enterprise-in-the-heike
+last_seen_date: '3305-09-05'
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
@@ -14,12 +12,11 @@ related_entities:
 # Macklin Fox
 
 First mentioned: **3305-08-29**  
-Last mentioned: **3305-08-29**  
-Total mentions: **1**
+Last mentioned: **3305-09-05**  
+Total mentions: **2**
 
 ## Related
 
-- [[Braun Enterprise in the Heike]] (1 co-mentions)
 
 ## Biography
 

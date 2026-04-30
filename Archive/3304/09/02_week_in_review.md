@@ -4,41 +4,48 @@ title: Week in Review
 slug: week_in_review
 date: '3304-09-02'
 source: GitHub
-entities:
-- Arissa
+summary: Weekly summary covering the appearance of Thargoid Hydra vessels in the Pleiades Nebula and core systems, Aegis Core's relocation from Socho to Sol due to criminal occupation, Ram Tah's detection of unusual energy signatures in multiple sectors, four new engineers establishing bases in Colonia, the unremarked passing of Aisling Duval's wedding date to Jordan Rochester, Maddox Hurd's dismissal of Supratech, Gibson Kincaid's push for executive powers, Juanita Bishop's congressional campaign against the Far God cult, and the Far God sect's request for Thargoid materials.
+player_impact: None
+persons:
 - Edmund Mahon
 - Gibson Kincaid
-- Hudson are thought
-- Scorpio DeVorrow
 - Zachary Hudson
+- Scorpio DeVorrow
+- Ram Tah
+- Aisling Duval
+- Jordan Rochester
+- Juanita Bishop
+- Aden Tanner
 groups:
 - Aegis
 - Alliance
 - Colonia Council
 - Federal Congress
+- Herculean Machines
+- Supratech
 locations:
-- Aegis
-- Betel
-- Colonia
 - Pleiades Nebula
-- Ram Tah
 - Socho
 - Sol
-- Synuefe
+- Colonia
+- Betel
+- Synuefe EN-H
 topics:
 - alien contact
 - corporate expansion
 - crime
 - engineering
 - investigation
-- ship
+- politics
 - succession
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+modern_impact: This week sees Thargoid military escalation with the Hydra variant, institutional responses to criminal threats, and rising political tensions around both the Alliance presidency and anti-xeno extremism.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 335e624b-d8a1-5e75-b0a9-bd888c9b9e2e
+- 493f0e6e-d257-5536-bc17-df5c97d32d7c
 ---
 
 Week in Review

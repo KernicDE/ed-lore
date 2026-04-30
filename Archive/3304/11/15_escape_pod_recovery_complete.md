@@ -4,14 +4,25 @@ title: Escape Pod Recovery Complete
 slug: escape_pod_recovery_complete
 date: '3304-11-15'
 source: GitHub
+summary: The HIP 29241 Green Party announces the successful conclusion of its escape pod recovery operation in the Meene system. Hundreds of pilots delivered pods to Felice Dock and protected contributing ships. Security Chief Harper Vargas confirms key mercenary figures have been recovered and interrogations are underway.
+player_impact: Contributing pilots can collect rewards from Felice Dock in the Meene system.
+persons:
+- Harper Vargas
+groups:
+- HIP 29241 Green Party
+- Meene Defence Force
 locations:
 - Meene
+- Felice Dock
 topics:
-- ship
+- investigation
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The successful recovery and interrogation of mercenaries provides critical intelligence about the organisation behind the attack on Phoenix Base, advancing the investigation into corporate espionage.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 3d84c337-f252-5c4f-9fb4-58cf64f82dfe
+- db332136-804c-58df-89f9-2ab0eef65d11
 ---
 
 Escape Pod Recovery Complete

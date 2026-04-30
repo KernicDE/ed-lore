@@ -4,16 +4,21 @@ title: Olelbis Holdings Appeal
 slug: olelbis_holdings_appeal
 date: '3304-11-15'
 source: GitHub
+summary: Olelbis Holdings announces an elaborate social function at Polyakov Orbital in the Olelbis system. The faction places an open order for Deuringas Truffles, Mokojing Beast Feast, and Mulachi Giant Fungus, and pledges rewards for pilots who deliver these commodities. A kill order on wanted ships protects traders.
+player_impact: Independent pilots can deliver rare commodities to Polyakov Orbital in the Olelbis system and earn rewards. The campaign runs for one week.
+persons: []
+groups:
+- Olelbis Holdings
 locations:
 - Olelbis
-- Polyakov Orbital in the Olelbis
+- Polyakov Orbital
 topics:
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Olelbis Holdings demonstrates how local factions use community events and trade initiatives to strengthen their economic base and reward loyal pilots.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 4272c1e0-2c23-5970-8096-14298490fef1
 ---
 
 [[Olelbis]] Holdings Appeal

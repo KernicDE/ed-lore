@@ -4,13 +4,13 @@ name: Imperial Internal Security Service
 type: faction
 first_seen_date: '3301-08-28'
 last_seen_date: '3312-02-10'
-mention_count: 41
+mention_count: 43
 related_entities:
-- iiss
 - alliance
 - nmla
-- pilots-federation
+- iiss
 - cemiess
+- emperors-dawn
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-08-28**  
 Last mentioned: **3312-02-10**  
-Total mentions: **41**
+Total mentions: **43**
 
 ## Related
 
-- [[IISS]] (11 co-mentions)
-- [[Alliance]] (10 co-mentions)
-- [[NMLA]] (8 co-mentions)
-- [[Pilots Federation]] (6 co-mentions)
+- [[Alliance]] (11 co-mentions)
+- [[NMLA]] (11 co-mentions)
+- [[IISS]] (6 co-mentions)
 - [[Cemiess]] (5 co-mentions)
+- [[Emperor's Dawn]] (5 co-mentions)
 
 ## Biography
 

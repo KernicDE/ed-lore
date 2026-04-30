@@ -6,11 +6,11 @@ first_seen_date: '3305-07-22'
 last_seen_date: '3309-10-31'
 mention_count: 5
 related_entities:
-- aegis
 - arque
-- ishmael-palin
+- aegis
 - maia
-- professor-palin
+- alliance
+- morten-marte
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **5**
 
 ## Related
 
+- [[Arque]] (4 co-mentions)
 - [[Aegis]] (3 co-mentions)
-- [[Arque]] (3 co-mentions)
-- [[Ishmael Palin]] (2 co-mentions)
 - [[Maia]] (2 co-mentions)
-- [[Professor Palin]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Morten-Marte]] (1 co-mentions)
 
 ## Biography
 

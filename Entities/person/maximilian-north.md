@@ -3,12 +3,8 @@ id: maximilian-north
 name: Maximilian North
 type: person
 first_seen_date: '3306-12-03'
-last_seen_date: '3306-12-03'
-mention_count: 1
-related_entities:
-- alliance
-- pilots-federation
-- sirius-corporation
+last_seen_date: '3309-03-02'
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
@@ -16,14 +12,11 @@ related_entities:
 # Maximilian North
 
 First mentioned: **3306-12-03**  
-Last mentioned: **3306-12-03**  
-Total mentions: **1**
+Last mentioned: **3309-03-02**  
+Total mentions: **4**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
-- [[Sirius Corporation]] (1 co-mentions)
 
 ## Biography
 

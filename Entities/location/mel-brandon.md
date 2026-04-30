@@ -3,8 +3,8 @@ id: mel-brandon
 name: Mel Brandon
 type: location
 first_seen_date: '3304-08-29'
-last_seen_date: '3306-12-17'
-mention_count: 2
+last_seen_date: '3304-08-29'
+mention_count: 1
 related_entities:
 - colonia-council
 - etienne-dorn
@@ -18,8 +18,8 @@ related_entities:
 # Mel Brandon
 
 First mentioned: **3304-08-29**  
-Last mentioned: **3306-12-17**  
-Total mentions: **2**
+Last mentioned: **3304-08-29**  
+Total mentions: **1**
 
 ## Related
 

@@ -1,5 +1,5 @@
 ---
-uuid: 0f4b8c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+uuid: de7b4f38-c24a-586a-9b4c-3c43dff0681a
 title: Palin and Ram Tah Seek Unclassified Relics
 slug: palin_and_ram_tah_seek_unclassified_relics
 date: '3308-08-19'

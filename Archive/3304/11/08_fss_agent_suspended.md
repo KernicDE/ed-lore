@@ -4,21 +4,28 @@ title: FSS Agent Suspended
 slug: fss_agent_suspended
 date: '3304-11-08'
 source: GitHub
-entities:
-- Suspended
+summary: Lieutenant Inspector Ramesh Thorne, leading the investigation into The Mars Tribune, is suspended from the Federal Security Service less than an hour after making a public appeal for information about surveillance-programmed admin robots. Thorne offered immunity to whistle-blowers. Federal Times chief editor Lena Ravenhill reacts with outrage, suggesting corrupt FSS officials are protecting the Tribune.
+player_impact: None
+persons:
+- Ramesh Thorne
+- Lena Ravenhill
 groups:
 - Federal Security Service
 - Federal Times
+- Mars Tribune
 locations:
 - Mars
 topics:
 - investigation
-- safety
 - scandal
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Thorne's suspension exposes potential corruption within the FSS and galvanises media organisations to take a stand against surveillance abuses and corrupt journalism.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 142a166a-07ef-56ac-989c-e35eaa8946e9
+- d72ade11-9eb6-5dc4-a86d-07b7b98fffe5
+- c5cb5bec-f7cd-563c-9c57-d8f5ede49843
+- 974273ae-d811-56a4-91c7-d562bba2149a
 ---
 
 FSS Agent [[Suspended]]

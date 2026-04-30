@@ -4,26 +4,48 @@ title: Week in Review
 slug: week_in_review
 date: '3304-09-22'
 source: GitHub
+summary: Weekly summary covering Vanya Driscoll's analysis of Alliance presidential candidates, Lloyd Hardacre's arrest after his robot exposed corporate fraud, Gethin Okonkwo's revelation of three months undercover in the Far God cult, the competing commodity appeals from Supratech and Herculean Machines, and the conclusion of the Libertas Cooperative's manatee megaship initiative.
+player_impact: None
+persons:
+- Vanya Driscoll
+- Gibson Kincaid
+- Lloyd Hardacre
+- Ramesh Thorne
+- Gethin Okonkwo
+- Maddox Hurd
+- Scorpio DeVorrow
+- Selena Conley
 groups:
 - Alliance
 - Federal Security Service
 - Libertas Cooperative
+- Supratech
+- Herculean Machines
+- Copernicus Shipping Ltd
+- Far God cult
 locations:
-- Land enrichment
+- Munshin
 - Ocrinox's Orbiter
+- Fedmich
+- Anima
 topics:
 - alien contact
 - construction
 - corporate expansion
 - crime
 - research
-- ship
+- politics
 - trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+modern_impact: This week spans political power struggles, corporate fraud exposed by technology, religious persecution debunked by journalism, and competitive product development, showing how multiple sectors intersect in galactic society.
 legacy_weight: 4
 significance: high
+related_uuids:
+- cfa10717-dba3-54f8-aaff-4b19fc4778d0
+- 0a236a04-4b1c-5607-91bf-5706cf1daa78
+- ee173dbc-3ffb-5704-85cf-8afc6f5094be
+- 40649b8e-7efb-524e-910e-755101cfd020
+- 01d52c81-19d8-57db-8338-9343341748c1
 ---
 
 Week in Review

@@ -4,15 +4,22 @@ title: Aranbarahun Campaign Concludes
 slug: aranbarahun_campaign_concludes
 date: '3304-08-10'
 source: GitHub
+summary: Aranbarahun Purple Creative announces its cargo ship construction campaign has been enthusiastically received. Scores of pilots delivered commodities to Barnes Terminal and eliminated agitators to ensure trader safety.
+player_impact: Contributing pilots can collect rewards from Barnes Terminal in the Aranbarahun system.
+persons: []
+groups:
+- Aranbarahun Purple Creative
+locations:
+- Aranbarahun
+- Barnes Terminal
 topics:
 - construction
-- safety
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The successful campaign demonstrates the efficiency of community-funded infrastructure projects in high-growth systems.
 legacy_weight: 1
 significance: low
+related_uuids:
+- f34b7bf5-b5e4-5225-99e1-c8455243bf42
 ---
 
 [[Aranbarahun]] Campaign Concludes

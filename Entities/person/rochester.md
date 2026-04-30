@@ -2,32 +2,21 @@
 id: rochester
 name: Rochester
 type: person
-first_seen_date: '3304-12-29'
-last_seen_date: '3304-12-29'
-mention_count: 1
-related_entities:
-- edmund-mahon
-- felicia-winters
-- leatrix
-- zachary-hudson
-- aegis
+first_seen_date: '3307-01-13'
+last_seen_date: '3307-10-05'
+mention_count: 12
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Rochester
 
-First mentioned: **3304-12-29**  
-Last mentioned: **3304-12-29**  
-Total mentions: **1**
+First mentioned: **3307-01-13**  
+Last mentioned: **3307-10-05**  
+Total mentions: **12**
 
 ## Related
 
-- [[Edmund Mahon]] (1 co-mentions)
-- [[Felicia Winters]] (1 co-mentions)
-- [[Leatrix]] (1 co-mentions)
-- [[Zachary Hudson]] (1 co-mentions)
-- [[Aegis]] (1 co-mentions)
 
 ## Biography
 

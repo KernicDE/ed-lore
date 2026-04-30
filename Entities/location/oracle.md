@@ -9,8 +9,8 @@ related_entities:
 - aegis
 - pleiades-sector-ir-w-d1-55
 - pleiades-nebula
-- alba-tesreau
 - taygeta
+- alba-tesreau
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **15**
 - [[Aegis]] (9 co-mentions)
 - [[Pleiades Sector IR-W d1-55]] (7 co-mentions)
 - [[Pleiades Nebula]] (6 co-mentions)
-- [[Alba Tesreau]] (3 co-mentions)
 - [[Taygeta]] (3 co-mentions)
+- [[Alba Tesreau]] (2 co-mentions)
 
 ## Biography
 

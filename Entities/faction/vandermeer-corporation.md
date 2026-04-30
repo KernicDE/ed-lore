@@ -2,26 +2,32 @@
 id: vandermeer-corporation
 name: Vandermeer Corporation
 type: faction
-first_seen_date: '3307-08-24'
+first_seen_date: '3304-12-05'
 last_seen_date: '3307-08-24'
-mention_count: 1
+mention_count: 9
 related_entities:
-- kumo-crew
+- neomedical-industries
 - interstellar-health-organisation
+- vitadyne-labs
+- kuma
+- alignak
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Vandermeer Corporation
 
-First mentioned: **3307-08-24**  
+First mentioned: **3304-12-05**  
 Last mentioned: **3307-08-24**  
-Total mentions: **1**
+Total mentions: **9**
 
 ## Related
 
-- [[Kumo Crew]] (1 co-mentions)
-- [[Interstellar Health Organisation]] (1 co-mentions)
+- [[Neomedical Industries]] (6 co-mentions)
+- [[Interstellar Health Organisation]] (4 co-mentions)
+- [[Vitadyne Labs]] (4 co-mentions)
+- [[Kuma]] (3 co-mentions)
+- [[Alignak]] (2 co-mentions)
 
 ## Biography
 

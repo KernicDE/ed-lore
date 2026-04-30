@@ -2,32 +2,32 @@
 id: sirius-atmospherics
 name: Sirius Atmospherics
 type: faction
-first_seen_date: '3307-06-15'
+first_seen_date: '3306-12-03'
 last_seen_date: '3307-12-22'
-mention_count: 4
+mention_count: 7
 related_entities:
 - sirius-corporation
+- alliance
 - marlinist-colonies
 - coalsack-nebula
 - pilots-federation
-- luytens-star
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Sirius Atmospherics
 
-First mentioned: **3307-06-15**  
+First mentioned: **3306-12-03**  
 Last mentioned: **3307-12-22**  
-Total mentions: **4**
+Total mentions: **7**
 
 ## Related
 
-- [[Sirius Corporation]] (4 co-mentions)
+- [[Sirius Corporation]] (7 co-mentions)
+- [[Alliance]] (4 co-mentions)
 - [[Marlinist Colonies]] (2 co-mentions)
 - [[Coalsack Nebula]] (2 co-mentions)
 - [[Pilots Federation]] (2 co-mentions)
-- [[Luyten's Star]] (2 co-mentions)
 
 ## Biography
 

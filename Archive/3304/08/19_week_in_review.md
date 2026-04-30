@@ -4,24 +4,45 @@ title: Week in Review
 slug: week_in_review
 date: '3304-08-19'
 source: GitHub
-entities:
+summary: Weekly summary covering Jarl Toredo's disclosure of a secret romance with Aisling Duval, Dr Ulyanov's arrest, new personal computer designs from Supratech and Herculean Machines, the rogue robot in Beta Hydri being located, Zachary Rackham's lottery win, and the successful conclusion of the Pleiades rescue operation.
+player_impact: None
+persons:
+- Jarl Toredo
+- Aisling Duval
+- Jordan Rochester
 - Alfred Ulyanov
+- Zachary Rackham
+- Marla Poulsen
 groups:
 - Aegis
+- Federal Intelligence Agency
 - Federal Times
+- Supratech
+- Herculean Machines
+- MacArthur Mining Ltd
 locations:
-- Aegis
+- Beta Hydri
+- Pleiades Sector IR-W d1-55
+- Donar's Oak
 topics:
 - alien contact
+- corporate expansion
+- crime
 - humanitarian
-- research
-- ship
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- safety
+- slavery
+- technology
+- war
+modern_impact: This week spans political scandal, religious persecution, corporate innovation, and humanitarian response, reflecting the breadth of galactic affairs.
 legacy_weight: 4
 significance: high
+related_uuids:
+- aed37642-53f2-57d4-9e1f-a49aa8ca8b77
+- 0f10ac31-615c-5f1b-a802-a954ef4214a1
+- 49853107-955f-559c-9f20-c306b8423506
+- c6a3e407-dfac-507b-a8f1-c62c2232e527
+- ed6adddd-c9c1-5fb8-ab02-8185dd679153
+- cb000662-d78f-5013-89e5-b8375bd4b9d8
 ---
 
 Week in Review

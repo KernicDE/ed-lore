@@ -2,32 +2,32 @@
 id: federal-intelligence-agency
 name: Federal Intelligence Agency
 type: faction
-first_seen_date: '3307-04-06'
+first_seen_date: '3304-08-04'
 last_seen_date: '3309-03-31'
-mention_count: 16
+mention_count: 55
 related_entities:
-- proactive-detection-bureau
+- far-god-cult
+- federal-times
 - federal-congress
-- sol
-- nmla
-- advocacy
+- alliance
+- children-of-tothos
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Federal Intelligence Agency
 
-First mentioned: **3307-04-06**  
+First mentioned: **3304-08-04**  
 Last mentioned: **3309-03-31**  
-Total mentions: **16**
+Total mentions: **55**
 
 ## Related
 
-- [[Proactive Detection Bureau]] (6 co-mentions)
-- [[Federal Congress]] (6 co-mentions)
-- [[Sol]] (5 co-mentions)
-- [[NMLA]] (4 co-mentions)
-- [[Advocacy]] (4 co-mentions)
+- [[Far God cult]] (14 co-mentions)
+- [[Federal Times]] (13 co-mentions)
+- [[Federal Congress]] (8 co-mentions)
+- [[Alliance]] (7 co-mentions)
+- [[Children of Tothos]] (7 co-mentions)
 
 ## Biography
 

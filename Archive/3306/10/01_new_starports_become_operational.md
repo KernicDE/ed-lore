@@ -7,22 +7,26 @@ source: GitHub
 groups:
 - Pilots Federation
 locations:
-- Chargaff Installation in the Chakpa
-- Harper Plant in the Fjorgyn
+- Chakpa
+- Fjorgyn
 - Hartsfield
-- Hartsfield Plant in the Potriti
-- Iqbal Hub in the HR 4979
-- Nagata Vision in the Gally Bese
-- Reilly Plant in the Eta Cephei
-- Rorschach Hub in the LHS 4058
-- Stephenson Dock in the Wolf 294
-- Trevithick Vision in the Ninabin
+- Potriti
+- HR 4979
+- Gally Bese
+- Eta Cephei
+- LHS 4058
+- Wolf 294
+- Ninabin
+- Lambda-2 Tucanae
 topics:
 - construction
-- engineering
-- ship
 - trade
-modern_impact: Engineering developments offer pilots new ship customisation options.
+summary: Ten new starports become operational across multiple systems after community
+  construction initiatives, increasing demand for commodities and causing price fluctuations.
+player_impact: Pilots who contributed to construction can now use the new starports. Trading
+  opportunities increased due to commodity fluctuations.
+modern_impact: Community-driven starport construction continues to expand infrastructure
+  across the galaxy.
 legacy_weight: 2
 significance: low
 ---

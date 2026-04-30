@@ -3,11 +3,12 @@ id: vega
 name: Vega
 type: location
 first_seen_date: '3305-04-25'
-last_seen_date: '3305-05-11'
-mention_count: 2
+last_seen_date: '3305-05-31'
+mention_count: 6
 related_entities:
-- bjorn-lennox
-- nearby
+- fort-dixon-security
+- vox-galactica
+- the-rewired
 ---
 
 <!-- AUTO-GENERATED -->
@@ -15,13 +16,14 @@ related_entities:
 # Vega
 
 First mentioned: **3305-04-25**  
-Last mentioned: **3305-05-11**  
-Total mentions: **2**
+Last mentioned: **3305-05-31**  
+Total mentions: **6**
 
 ## Related
 
-- [[Bjorn Lennox]] (1 co-mentions)
-- [[Nearby]] (1 co-mentions)
+- [[Fort Dixon Security]] (5 co-mentions)
+- [[Vox Galactica]] (2 co-mentions)
+- [[The Rewired]] (1 co-mentions)
 
 ## Biography
 

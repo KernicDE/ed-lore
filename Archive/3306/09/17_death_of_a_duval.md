@@ -4,16 +4,32 @@ title: Death of a Duval
 slug: death_of_a_duval
 date: '3306-09-17'
 source: GitHub
+persons:
+- Arissa Lavigny-Duval
+- Aisling Duval
+- Denton Patreus
 locations:
 - Cemiess
-- LHS 4031 and Rabh
+- Gabjaujis
+- LHS 4031
+- Rabh
 topics:
-- construction
-- succession
 - terrorism
-modern_impact: Infrastructure project with long-term benefits.
-legacy_weight: 2
-significance: low
+- succession
+summary: Imperial sources confirm Prince Harold Duval was assassinated by NMLA terrorists
+  while travelling to Cemiess. Emperor Arissa announces a state funeral. Aisling Duval
+  expresses grief and vows to support anti-terrorist efforts. Senator Patreus proposes
+  new counter-terrorism initiatives.
+player_impact: None
+modern_impact: The official confirmation of Harold Duval's assassination triggers Imperial
+  mourning and intensified counter-terrorism measures.
+legacy_weight: 5
+significance: high
+related_uuids:
+- b1d3cc6d-1f0c-5fe1-b2c4-58b3b944f2d6
+- 66aa5796-1028-5707-8ed1-7049881273b8
+- ea29f582-91a6-5340-9840-3d76cc07f494
+- 079b4589-32a5-5f8b-aa63-4f0f5f719a87
 ---
 
 Death of a Duval

@@ -2,30 +2,32 @@
 id: supratech
 name: Supratech
 type: faction
-first_seen_date: '3312-03-03'
+first_seen_date: '3304-08-17'
 last_seen_date: '3312-03-03'
-mention_count: 1
+mention_count: 21
 related_entities:
-- october-consortium
-- jokers-deck
-- artemis
-- hip-87621
+- herculean-machines
+- alliance
+- federal-security-service
+- federal-times
+- federal-intelligence-agency
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Supratech
 
-First mentioned: **3312-03-03**  
+First mentioned: **3304-08-17**  
 Last mentioned: **3312-03-03**  
-Total mentions: **1**
+Total mentions: **21**
 
 ## Related
 
-- [[October Consortium]] (1 co-mentions)
-- [[Joker's Deck]] (1 co-mentions)
-- [[Artemis]] (1 co-mentions)
-- [[HIP 87621]] (1 co-mentions)
+- [[Herculean Machines]] (17 co-mentions)
+- [[Alliance]] (7 co-mentions)
+- [[Federal Security Service]] (5 co-mentions)
+- [[Federal Times]] (4 co-mentions)
+- [[Federal Intelligence Agency]] (4 co-mentions)
 
 ## Biography
 

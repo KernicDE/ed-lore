@@ -5,20 +5,22 @@ slug: commodities_delivered_to_build_marlinist_colonies
 date: '3306-12-17'
 source: API
 groups:
-- Pilots Federation
-- Sirius Corp
 - Sirius Corporation
-locations:
-- Sirius
+persons:
+- Li Yong-Rui
+- Aaron Whyte
 topics:
 - corporate expansion
 - humanitarian
-- ship
-- trade
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: Sirius Corporation successfully gathers materials to construct new independent
+  settlements for Marlinist refugees in eight uninhabited systems, with both superpowers
+  accepting the proposal.
+player_impact: Pilots who delivered commodities collected rewards at Ellis Gateway in
+  the Bd+05 1146 system.
+modern_impact: The Marlinist Colonies remain a significant political settlement between
+  the Empire and Federation.
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

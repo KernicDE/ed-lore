@@ -4,21 +4,29 @@ title: Nova Imperium Demands New Emperor
 slug: nova_imperium_demands_new_emperor
 date: '3304-11-24'
 source: GitHub
+summary: Nova Imperium, led by ex-navy admiral Duke Kaeso Mordanticus, declares its intention to install a new Emperor. Mordanticus criticises Aegis for draining Imperial resources, security forces stretched thin defending non-Imperial systems, and Princess Duval's relationship with a Federal libertine. Cassia Carvalho notes that Mordanticus has articulated unease shared by many citizens about inter-superpower cooperation.
+player_impact: None
+persons:
+- Kaeso Mordanticus
+- Cassia Carvalho
+- Aisling Duval
+- Arissa Lavigny-Duval
 groups:
-- Aegis
+- Nova Imperium
 - Imperial Herald
-locations:
 - Aegis
-- Imperial
+- Imperial Navy
 topics:
-- alien contact
-- ship
 - succession
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+- alien contact
+modern_impact: Nova Imperium's explicit demand for a new Emperor transforms the group from a political movement into a direct constitutional threat, challenging Emperor Arissa Lavigny-Duval's legitimacy and the Empire's foreign policy.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 979524b2-97e2-53d0-9ad2-1000b7712f1e
+- a8a1e1f9-1003-5fec-a6c4-896e1bb496f4
+- e83ed9a3-d349-5a04-a90a-323cf0cec25c
 ---
 
 [[Nova Imperium]] Demands New Emperor

@@ -4,16 +4,29 @@ title: Investors Abandon Herculean Machines
 slug: investors_abandon_herculean_machines
 date: '3304-09-14'
 source: GitHub
+summary: An anonymous source reveals that Maddox Hurd accepted financial contributions from individuals connected to organised-crime networks, such as the Red Family, when establishing Herculean Machines five years ago. Declassified FSS records are shared on the Rewired news channel. Several corporate investors withdraw support. Hurd claims it is a smear campaign orchestrated by Supratech. Journalist Harlow Nassry notes both companies are now compromised and may be unable to unveil designs at the Rackham Ultratech Expo.
+player_impact: None
+persons:
+- Maddox Hurd
+- Scorpio DeVorrow
+- Harlow Nassry
 groups:
 - Federal Security Service
 - Federal Times
+- Herculean Machines
+- Supratech
+- Red Family
+locations: []
 topics:
 - corporate expansion
 - crime
 - investigation
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The revelation of Hurd's criminal connections damages Herculean Machines' credibility and investor confidence, while the mutual weakening of both competitors threatens the upcoming Rackham Ultratech Expo.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 493f0e6e-d257-5536-bc17-df5c97d32d7c
+- a0727980-09f7-5908-b180-38abb526af92
 ---
 
 Investors Abandon Herculean Machines

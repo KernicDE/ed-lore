@@ -1,0 +1,23 @@
+---
+id: gabriel-sanchini
+name: Gabriel Sanchini
+type: person
+first_seen_date: '3304-08-25'
+last_seen_date: '3304-08-25'
+mention_count: 1
+---
+
+<!-- AUTO-GENERATED -->
+
+# Gabriel Sanchini
+
+First mentioned: **3304-08-25**  
+Last mentioned: **3304-08-25**  
+Total mentions: **1**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

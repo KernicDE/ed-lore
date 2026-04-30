@@ -6,14 +6,17 @@ date: '3306-12-22'
 source: API
 groups:
 - Core Dynamics
-locations:
-- Jupiter
+- Lakon Spaceways
+persons:
+- Naomi Landseer
+- Jupiter Rochester
 topics:
-- construction
 - corporate expansion
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: Lakon Spaceways shareholders vote to replace several board members, with the
+  new appointees stating they will reappraise Core Dynamics' takeover bid.
+player_impact: None
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape
+  the galactic aerospace market.
 legacy_weight: 2
 significance: low
 ---

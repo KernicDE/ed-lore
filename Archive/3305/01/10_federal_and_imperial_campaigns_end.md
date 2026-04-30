@@ -4,19 +4,27 @@ title: Federal and Imperial Campaigns End
 slug: federal_and_imperial_campaigns_end
 date: '3305-01-10'
 source: GitHub
+persons:
+- Felix Novantico
 groups:
 - Federal Navy
 - Imperial Navy
-- Nova Imperium
+- League of Zearla
+- Sirsir Co
+locations:
+- Zearla
+- Sirsir
 topics:
-- succession
 - trade
 - war
-arc_id: nova-imperium
-modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
-  creates a schism in Imperial politics.
-legacy_weight: 4
-significance: high
+- politics
+summary: Military supply campaigns for both the Federal and Imperial navies conclude successfully, with retired strategist Marquis Felix Novantico suggesting the Federal resupply reflects concern about a potentially hostile Empire under Hadrian Duval.
+player_impact: Contributing pilots could collect rewards from Payson Hub in Zearla or Mitchell Hangar in Sirsir.
+modern_impact: The parallel naval campaigns underscored how the Nova Imperium crisis was reverberating across superpower relations, with even the Federation preparing for potential shifts in Imperial foreign policy.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- f5d30214-82b2-562f-986e-99bf623a1a78
 ---
 
 Federal and Imperial Campaigns End
@@ -26,12 +34,12 @@ Supply campaigns for [[The]] Federal and Imperial navies have concluded successf
 
 The League of Zearla, acting on behalf of the [[Federal Navy]], stated: 
 
-“[[Many]] thanks to all the pilots who came through for the Federation. You can now collect your rewards at Payson Hub in the Zearla system.” 
+"[[Many]] thanks to all the pilots who came through for the Federation. You can now collect your rewards at Payson Hub in the Zearla system." 
 
 An announcement was also made by the Sirsir Co, [[Which]] coordinated a similar supply campaign for the [[Imperial Navy]]: 
 
-“You have performed a great service for the Empire. Payments have been authorised at Mitchell Hangar in the Sirsir system.” 
+"You have performed a great service for the Empire. Payments have been authorised at Mitchell Hangar in the Sirsir system." 
 
 Marquis Felix Novantico, a retired military strategist, commented: 
 
-“Tensions caused by [[Nova Imperium]] have triggered much activity of [[This]] kind. But for the Federation to do the same suggests concern about a potentially hostile Empire, should Hadrian Duval claim the throne.”
+"Tensions caused by [[Nova Imperium]] have triggered much activity of [[This]] kind. But for the Federation to do the same suggests concern about a potentially hostile Empire, should Hadrian Duval claim the throne."

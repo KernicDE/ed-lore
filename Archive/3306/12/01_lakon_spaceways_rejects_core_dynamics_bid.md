@@ -4,18 +4,21 @@ title: Lakon Spaceways Rejects Core Dynamics Bid
 slug: lakon_spaceways_rejects_core_dynamics_bid
 date: '3306-12-01'
 source: GitHub
-entities:
-- Jupiter Rochester
 groups:
 - Alliance
 - Core Dynamics
-locations:
-- Jupiter
+- Lakon Spaceways
+persons:
+- Naomi Landseer
+- Irfan Karim
+- Jupiter Rochester
 topics:
-- construction
 - corporate expansion
-- ship
-modern_impact: Ship review and release information for the pilot community.
+summary: Lakon Spaceways officially rejects Core Dynamics' purchase proposal, choosing
+  to remain an independent company despite financial difficulties and shareholder pressure.
+player_impact: None
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape
+  the galactic aerospace market.
 legacy_weight: 2
 significance: low
 ---

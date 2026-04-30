@@ -4,18 +4,27 @@ title: Calls to Execute Far God Worshippers
 slug: calls_to_execute_far_god_worshippers
 date: '3304-09-13'
 source: GitHub
+summary: Juanita Bishop calls on Federal Congress to make Thargoid worship a capital crime and execute all Far God cult members. Addressing a rally, she vows to outlaw the cult if elected. Political analyst Vihaan Niven notes that some congressmen align with Bishop to appear tough on Thargoids, while others criticise her inhumane rhetoric and proposal to execute citizens without trial. The FIA continues arresting Far God adherents.
+player_impact: None
+persons:
+- Juanita Bishop
+- Vihaan Niven
 groups:
 - Federal Congress
+- Federal Intelligence Agency
+- Far God cult
+locations: []
 topics:
-- alien contact
 - crime
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+- religion
+modern_impact: Bishop's call for capital punishment of Far God worshippers represents the most extreme anti-xeno rhetoric in Federal politics, triggering a debate about religious freedom versus security that divides Congress.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 85465ae8-96be-5dd6-8991-7f4482177f76
+- ee173dbc-3ffb-5704-85cf-8afc6f5094be
+- d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
 Calls to Execute [[Far]] God Worshippers

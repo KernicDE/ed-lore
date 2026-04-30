@@ -4,14 +4,24 @@ title: The Collective
 slug: the_collective
 date: '3304-10-24'
 source: GitHub
+summary: Technology journalist Harlow Nassry publishes an article in The Federal Times about The Collective, a mysterious criminal group of anti-authority hacktivists. The group, known in hacker communities for years, believes all information should be publicly available. Several recent digital crimes including the Rackham hack are attributed to them. The Collective has no spokespersons or apparent leaders, making investigation difficult.
+player_impact: None
+persons:
+- Harlow Nassry
+- Zachary Rackham
 groups:
 - Federal Times
+- The Collective
+locations: []
 topics:
 - crime
+- cyberattack
 - investigation
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The Collective's emergence as a major hacking force challenges corporate and governmental control of information, with their Robin Hood-style operations earning both condemnation and covert support.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9a686bf9-c1b6-5de4-891b-31a3d4733fca
 ---
 
 [[The]] Collective

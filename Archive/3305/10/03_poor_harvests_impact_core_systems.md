@@ -4,12 +4,25 @@ title: Poor Harvests Impact Core Systems
 slug: poor_harvests_impact_core_systems
 date: '3305-10-03'
 source: GitHub
+groups:
+- Rockforth Corporation
+- Interstellar Association for Agriculture
+persons:
+- Adalyn Cross
+- Rex Whitlock
 topics:
-- corporate expansion
-- independence
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- trade
+summary: Low crop yields in key agricultural systems reach civilian populations, prompting
+  public concerns over food availability. Rockforth Corporation promotes its EX7 fertiliser
+  as a solution.
+player_impact: None
+modern_impact: The initial reports of poor harvests foreshadow the devastating blight crisis
+  that will soon affect hundreds of systems.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 28e68144-597f-5528-89c8-0ca30934520f
+- e518e336-c9d3-597e-b22f-6747bd165cbc
 ---
 
 Poor Harvests Impact Core Systems

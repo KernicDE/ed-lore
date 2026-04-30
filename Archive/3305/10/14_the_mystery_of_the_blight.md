@@ -4,17 +4,27 @@ title: The Mystery of the Blight
 slug: the_mystery_of_the_blight
 date: '3305-10-14'
 source: GitHub
-entities:
+groups:
+- Interstellar Association for Agriculture
+- Vandermeer Corporation
+persons:
 - Genevieve Kane
+- Adalyn Cross
 topics:
-- corporate expansion
-- medicine
 - research
-- scandal
-- trade
-modern_impact: Trade initiative affecting commodity markets.
-legacy_weight: 2
-significance: low
+- investigation
+summary: The IAA confirms mass crop spoilage is caused by a new advanced blight of unknown
+  origin. The Vandermeer Corporation offers research assistance. Speculation ranges from natural
+  mutation to industrial sabotage.
+player_impact: None
+modern_impact: The blight mystery deepens the food crisis as scientists race to identify
+  the pathogen's origin and develop a treatment.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 28e68144-597f-5528-89c8-0ca30934520f
+- e518e336-c9d3-597e-b22f-6747bd165cbc
+- 52de8894-6950-5b13-aa2a-ec35620347ce
 ---
 
 [[The]] Mystery of the Blight

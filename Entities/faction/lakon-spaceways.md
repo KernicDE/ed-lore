@@ -2,32 +2,32 @@
 id: lakon-spaceways
 name: Lakon Spaceways
 type: faction
-first_seen_date: '3307-12-28'
+first_seen_date: '3304-08-25'
 last_seen_date: '3312-01-22'
-mention_count: 6
+mention_count: 16
 related_entities:
-- alioth
-- neo-marlinist-liberation-army
-- marlinist-colonies
-- sirius-corporation
+- alliance
 - core-dynamics
+- alioth
+- warkushanui
+- warkushanui-port
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Lakon Spaceways
 
-First mentioned: **3307-12-28**  
+First mentioned: **3304-08-25**  
 Last mentioned: **3312-01-22**  
-Total mentions: **6**
+Total mentions: **16**
 
 ## Related
 
+- [[Alliance]] (9 co-mentions)
+- [[Core Dynamics]] (8 co-mentions)
 - [[Alioth]] (3 co-mentions)
-- [[Neo-Marlinist Liberation Army]] (1 co-mentions)
-- [[Marlinist Colonies]] (1 co-mentions)
-- [[Sirius Corporation]] (1 co-mentions)
-- [[Core Dynamics]] (1 co-mentions)
+- [[Warkushanui]] (2 co-mentions)
+- [[Warkushanui Port]] (2 co-mentions)
 
 ## Biography
 

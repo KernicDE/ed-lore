@@ -6,11 +6,11 @@ first_seen_date: '3303-09-22'
 last_seen_date: '3303-09-22'
 mention_count: 1
 related_entities:
-- pilots-federation
-- eurybia
 - aegis
 - awyra-flirble-in-the-eurybia
 - maia
+- obsidian-orbital
+- obsidian-orbital-in-the-maia
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **1**
 
 ## Related
 
-- [[Pilots Federation]] (4 co-mentions)
-- [[Eurybia]] (4 co-mentions)
 - [[Aegis]] (3 co-mentions)
 - [[Awyra Flirble in the Eurybia]] (3 co-mentions)
 - [[Maia]] (3 co-mentions)
+- [[Obsidian Orbital]] (3 co-mentions)
+- [[Obsidian Orbital in the Maia]] (3 co-mentions)
 
 ## Biography
 

@@ -6,18 +6,40 @@ date: '3306-09-21'
 source: GitHub
 groups:
 - Pilots Federation
+- Kavanagh Spaceframes Ltd
+- Steel Castle Inc
+persons:
+- Susannah Haynes
+- Dean Bradigan
 locations:
-- Eta Cephei and Ninabin
-- Lambda-2 Tucanae and Potriti
+- Fjorgyn
+- HR 4979
+- Wolf 294
+- Lambda-2 Tucanae
+- Potriti
+- LHS 4058
+- Chakpa
+- Gally Bese
+- Eta Cephei
+- Ninabin
+- Tenche
+- Nagasairu
 topics:
 - construction
-- corporate expansion
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: Both Kavanagh Spaceframes and Steel Castle Inc successfully conclude their initiatives
+  to upgrade refinery outposts into starports across ten systems. New Orbis and Coriolis
+  stations will be operational by October.
+player_impact: Pilots who delivered materials can collect rewards at Blaauw Hub in Tenche
+  and Teng-hui Station in Nagasairu.
+modern_impact: The successful construction expands fleet carrier refuelling infrastructure
+  across multiple systems.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 8d49ee4c-97a2-59e8-aea9-f6b6331d417b
+- 39d388e0-db44-5dec-bdc4-47fb72cb3037
+- 07f4c3e2-ca2b-55cc-9321-3c0cdefa1f74
 ---
 
 Successful Initiatives to Produce New Starports

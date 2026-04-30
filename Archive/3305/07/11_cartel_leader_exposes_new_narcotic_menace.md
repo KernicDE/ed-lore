@@ -4,16 +4,28 @@ title: Cartel Leader Exposes New Narcotic Menace
 slug: cartel_leader_exposes_new_narcotic_menace
 date: '3305-07-11'
 source: GitHub
-entities:
+groups:
+- Federal Intelligence Agency
+- Red Family Cartel
+persons:
 - Viola Trask
+- Jan Sandoval
+- Oberon Church
 topics:
 - crime
-- engineering
 - narcotics
-- trade
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 2
-significance: low
+summary: Red Family co-founder Jan Sandoval reveals the cartel has developed a genetically
+  engineered designer narcotic far more addictive than existing substances. She surrendered
+  to prevent its mass production.
+player_impact: None
+modern_impact: The revelation of the super-narcotic underscores the catastrophic potential
+  of unchecked cartel science and justifies the FIA's aggressive campaign.
+legacy_weight: 4
+significance: high
+related_uuids:
+- ec34ae39-db9f-571a-8f53-059a5d4deb18
+- 5cc87a22-66b8-5398-8bb0-4af0cfef285c
+- 70822119-b954-507b-8900-67a29a9a9f5c
 ---
 
 Cartel Leader Exposes New Narcotic Menace

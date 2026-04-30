@@ -4,16 +4,27 @@ title: Jarl Toredo Resigns from Unchain
 slug: jarl_toredo_resigns_from_unchain
 date: '3304-08-09'
 source: GitHub
-entities:
+summary: Anti-slavery campaigner Jarl Toredo resigns from Unchain, the organisation he co-founded with Princess Aisling Duval. Journalist Reema Falco speculates the recent assassination attempt against Duval may have caused Toredo to regret allying with a volatile political figure, or that there was a falling-out between the two, possibly related to persistent rumours of a romance despite Duval's engagement to Jordan Rochester.
+player_impact: None
+persons:
+- Jarl Toredo
+- Aisling Duval
+- Jordan Rochester
 - Reema Falco
 groups:
+- Unchain
 - Imperial Herald
+locations: []
 topics:
-- corporate expansion
 - slavery
-modern_impact: GalNet community report documenting current events in the galaxy.
+- politics
+modern_impact: Toredo's resignation fuels speculation about the true nature of his relationship with Aisling Duval and raises questions about Unchain's future without one of its founders.
 legacy_weight: 2
 significance: low
+related_uuids:
+- fd47bdc2-dcba-5689-a353-ca9b643ce205
+- aed37642-53f2-57d4-9e1f-a49aa8ca8b77
+- 6ffabb44-eae5-526b-a1c5-4fdd043a1db8
 ---
 
 Jarl Toredo Resigns from Unchain

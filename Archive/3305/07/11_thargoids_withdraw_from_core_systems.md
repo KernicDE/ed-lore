@@ -4,24 +4,29 @@ title: Thargoids Withdraw from Core Systems
 slug: thargoids_withdraw_from_core_systems
 date: '3305-07-11'
 source: GitHub
-entities:
-- Ishmael Palin
 groups:
 - Aegis
+persons:
+- Ishmael Palin
+- Aden Tanner
 locations:
-- Aegis
 - Maia
 - Merope
-- Only the Maia and Merope
 topics:
 - alien contact
-- research
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
+summary: Thargoid forces abruptly withdraw from most human-occupied space, leaving only
+  Maia and Merope with reported activity. Admiral Tanner suggests defensive operations depleted
+  their numbers, while Professor Palin warns against premature celebration.
+player_impact: None
+modern_impact: The mysterious withdrawal creates a temporary lull in the Thargoid conflict
+  but raises questions about alien motivations and future strategy.
+legacy_weight: 4
 significance: high
+related_uuids:
+- 3f90e1bf-967a-5b74-be0f-718b81fcd3fb
+- 1213f0a6-b7d3-54fe-89b0-b56defee53da
+- 969713a8-6dbf-548c-9ce4-4d33ba1f321a
 ---
 
 Thargoids Withdraw from Core Systems

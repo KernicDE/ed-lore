@@ -8,9 +8,9 @@ mention_count: 36
 related_entities:
 - mars
 - federal-times
+- mars-tribune
 - alliance
-- ram-tah
-- sirius-corporation
+- achilles-corporation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **36**
 
 - [[Mars]] (12 co-mentions)
 - [[Federal Times]] (10 co-mentions)
+- [[Mars Tribune]] (9 co-mentions)
 - [[Alliance]] (9 co-mentions)
-- [[Ram Tah]] (5 co-mentions)
-- [[Sirius Corporation]] (5 co-mentions)
+- [[Achilles Corporation]] (8 co-mentions)
 
 ## Biography
 

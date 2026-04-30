@@ -2,26 +2,28 @@
 id: chun-tstar
 name: Chun Tstar
 type: location
-first_seen_date: '3305-03-22'
+first_seen_date: '3305-03-14'
 last_seen_date: '3305-03-22'
-mention_count: 1
+mention_count: 2
 related_entities:
-- rochelle-karim-updated
-- archambault-terminal-in-the-chun-tstar
+- federal-intelligence-agency
+- children-of-tothos
+- archambault-terminal
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Chun Tstar
 
-First mentioned: **3305-03-22**  
+First mentioned: **3305-03-14**  
 Last mentioned: **3305-03-22**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Rochelle Karim updated]] (1 co-mentions)
-- [[Archambault terminal in the Chun Tstar]] (1 co-mentions)
+- [[Federal Intelligence Agency]] (2 co-mentions)
+- [[Children of Tothos]] (2 co-mentions)
+- [[Archambault Terminal]] (2 co-mentions)
 
 ## Biography
 

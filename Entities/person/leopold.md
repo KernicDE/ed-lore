@@ -3,8 +3,8 @@ id: leopold
 name: Leopold
 type: person
 first_seen_date: '3304-06-15'
-last_seen_date: '3304-11-01'
-mention_count: 3
+last_seen_date: '3304-06-17'
+mention_count: 2
 related_entities:
 - caspian-leopold
 - leopold-gave
@@ -18,12 +18,12 @@ related_entities:
 # Leopold
 
 First mentioned: **3304-06-15**  
-Last mentioned: **3304-11-01**  
-Total mentions: **3**
+Last mentioned: **3304-06-17**  
+Total mentions: **2**
 
 ## Related
 
-- [[Caspian Leopold]] (3 co-mentions)
+- [[Caspian Leopold]] (2 co-mentions)
 - [[Leopold gave]] (1 co-mentions)
 - [[Biruni Port in the Niflhel]] (1 co-mentions)
 - [[Alfred Ulyanov]] (1 co-mentions)

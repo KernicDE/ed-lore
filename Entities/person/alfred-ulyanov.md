@@ -3,14 +3,14 @@ id: alfred-ulyanov
 name: Alfred Ulyanov
 type: person
 first_seen_date: '3304-06-16'
-last_seen_date: '3304-12-01'
-mention_count: 10
+last_seen_date: '3304-07-12'
+mention_count: 3
 related_entities:
-- alliance
-- aegis
 - caspian-leopold
 - leopold
+- alliance
 - lave
+- lori-jameson
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Alfred Ulyanov
 
 First mentioned: **3304-06-16**  
-Last mentioned: **3304-12-01**  
-Total mentions: **10**
+Last mentioned: **3304-07-12**  
+Total mentions: **3**
 
 ## Related
 
-- [[Alliance]] (2 co-mentions)
-- [[Aegis]] (2 co-mentions)
 - [[Caspian Leopold]] (1 co-mentions)
 - [[Leopold]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
 - [[Lave]] (1 co-mentions)
+- [[Lori Jameson]] (1 co-mentions)
 
 ## Biography
 

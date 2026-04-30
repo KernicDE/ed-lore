@@ -7,16 +7,17 @@ source: API
 groups:
 - Federal Navy
 - Federal Security Service
-locations:
-- Imperial
+persons:
+- Zachary Hudson
+- Felicia Winters
 topics:
-- alien contact
-- construction
 - humanitarian
-- ship
 - terrorism
 - war
 arc_id: federal-politics
+summary: Hundreds of thousands of Marlinist refugees flee the Empire to the Federation,
+  bringing the superpowers to the brink of conflict as Congress debates their fate.
+player_impact: None
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium

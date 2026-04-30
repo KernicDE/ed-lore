@@ -4,18 +4,26 @@ title: Close Encounters Corps Initiative
 slug: close_encounters_corps_initiative
 date: '3304-10-11'
 source: GitHub
+summary: The Close Encounters Corps announces plans to construct a scientific megaship in the BD-12 1172 system to serve as a base for mapping and exploring planets in the surrounding nebula. Admiral Anton Vern states multiple survey groups have expressed interest. An open order for muon imagers is placed, with deliveries to Crown Prospect in the Kagutsuchi system.
+player_impact: Independent pilots can deliver muon imagers to Crown Prospect in the Kagutsuchi system and earn rewards. The campaign runs for one week.
+persons:
+- Anton Vern
+groups:
+- Close Encounters Corps
 locations:
-- Crown Prospect in the Kagutsuchi
+- BD-12 1172
+- Kagutsuchi
+- Crown Prospect
 topics:
 - construction
 - exploration
 - research
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The scientific megaship project advances deep-space exploration capabilities, enabling systematic mapping of nebula regions that were previously difficult for researchers to access.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 90bdaf38-9c1c-58e0-a371-0f222a188649
 ---
 
 Close Encounters Corps Initiative

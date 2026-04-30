@@ -2,32 +2,32 @@
 id: alliance-assembly
 name: Alliance Assembly
 type: faction
-first_seen_date: '3307-05-10'
+first_seen_date: '3304-09-01'
 last_seen_date: '3308-09-15'
-mention_count: 11
+mention_count: 20
 related_entities:
 - alliance
 - alliance-tribune
+- zaonce
+- council-of-admirals
 - alliance-defence-force
-- sirius-corporation
-- hip-22460
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Alliance Assembly
 
-First mentioned: **3307-05-10**  
+First mentioned: **3304-09-01**  
 Last mentioned: **3308-09-15**  
-Total mentions: **11**
+Total mentions: **20**
 
 ## Related
 
-- [[Alliance]] (6 co-mentions)
-- [[Alliance Tribune]] (6 co-mentions)
+- [[Alliance]] (15 co-mentions)
+- [[Alliance Tribune]] (7 co-mentions)
+- [[Zaonce]] (6 co-mentions)
+- [[Council of Admirals]] (5 co-mentions)
 - [[Alliance Defence Force]] (4 co-mentions)
-- [[Sirius Corporation]] (4 co-mentions)
-- [[HIP 22460]] (4 co-mentions)
 
 ## Biography
 

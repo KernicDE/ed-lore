@@ -4,10 +4,10 @@ name: Capitol
 type: location
 first_seen_date: '3301-03-12'
 last_seen_date: '3311-04-08'
-mention_count: 59
+mention_count: 62
 related_entities:
-- achenar
 - imperial-palace
+- achenar
 - imperial-herald
 - imperial-senate
 - imperial-navy
@@ -19,14 +19,14 @@ related_entities:
 
 First mentioned: **3301-03-12**  
 Last mentioned: **3311-04-08**  
-Total mentions: **59**
+Total mentions: **62**
 
 ## Related
 
-- [[Achenar]] (20 co-mentions)
 - [[Imperial Palace]] (19 co-mentions)
-- [[Imperial Herald]] (11 co-mentions)
-- [[Imperial Senate]] (9 co-mentions)
+- [[Achenar]] (18 co-mentions)
+- [[Imperial Herald]] (16 co-mentions)
+- [[Imperial Senate]] (10 co-mentions)
 - [[Imperial Navy]] (9 co-mentions)
 
 ## Biography

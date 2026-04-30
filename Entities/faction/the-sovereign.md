@@ -2,9 +2,9 @@
 id: the-sovereign
 name: The Sovereign
 type: faction
-first_seen_date: '3308-09-06'
+first_seen_date: '3305-01-10'
 last_seen_date: '3308-09-15'
-mention_count: 3
+mention_count: 7
 related_entities:
 - thargoid-advocacy-project
 - hip-22460
@@ -17,9 +17,9 @@ related_entities:
 
 # The Sovereign
 
-First mentioned: **3308-09-06**  
+First mentioned: **3305-01-10**  
 Last mentioned: **3308-09-15**  
-Total mentions: **3**
+Total mentions: **7**
 
 ## Related
 

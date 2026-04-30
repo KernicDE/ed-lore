@@ -2,30 +2,32 @@
 id: quator
 name: Quator
 type: location
-first_seen_date: '3305-10-28'
+first_seen_date: '3305-10-22'
 last_seen_date: '3305-10-28'
-mention_count: 1
+mention_count: 2
 related_entities:
-- gino-borstein-spoke
-- diso
-- diso-and-orerve
+- scythe-of-panem
+- bruthanvan-co
+- federal-intelligence-agency
 - panem
+- rockforth-corporation
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Quator
 
-First mentioned: **3305-10-28**  
+First mentioned: **3305-10-22**  
 Last mentioned: **3305-10-28**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Gino Borstein spoke]] (1 co-mentions)
-- [[Diso]] (1 co-mentions)
-- [[Diso and Orerve]] (1 co-mentions)
-- [[Panem]] (1 co-mentions)
+- [[Scythe of Panem]] (2 co-mentions)
+- [[Bruthanvan Co]] (2 co-mentions)
+- [[Federal Intelligence Agency]] (2 co-mentions)
+- [[Panem]] (2 co-mentions)
+- [[Rockforth Corporation]] (1 co-mentions)
 
 ## Biography
 

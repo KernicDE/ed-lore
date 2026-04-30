@@ -4,32 +4,44 @@ title: Week in Review
 slug: week_in_review
 date: '3304-11-03'
 source: GitHub
-entities:
+summary: Weekly summary covering the conclusion of the Fazia Silva homicide investigation with no convictions and Tashmira Silva assuming control of her sister's empire, the rise of Nova Imperium as a political force in the Empire, Ram Tah's rejection of Sirius Corporation's offer for Guardian technology, the FSS termination of the Mars Tribune spy robot investigation, the outbreak of war between Geras First and Ndozins State Inc, and Senator Caspian Leopold's completed aid appeal in Niflhel.
+player_impact: None
+persons:
 - Caspian Leopold
+- Ram Tah
+- Tashmira Silva
+- Fazia Silva
 groups:
 - Alliance
 - Federal Security Service
-- Sirius Corp
 - Sirius Corporation
+- Nova Imperium
+- Geras First
+- Ndozins State Inc
+- Niflhel Guardians Of Tradition
 locations:
 - Mars
-- Ram Tah
-- Recent reports from the Geras
-- Sirius
+- Geras
+- Niflhel
+- Meene
 topics:
 - alien contact
 - corporate expansion
 - engineering
 - humanitarian
 - investigation
-- sport
+- politics
 - war
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: This week sees major developments across all three superpowers, from unresolved political assassinations to the rise of isolationist movements and corporate attempts to control advanced technology.
 legacy_weight: 5
 significance: high
+related_uuids:
+- dd466372-2852-583f-9211-6abb50186a05
+- 418bd938-2122-5f9a-a397-98fd9015d198
+- 979524b2-97e2-53d0-9ad2-1000b7712f1e
+- 03f0c663-1539-570c-83d1-603b698b9946
+- 142a166a-07ef-56ac-989c-e35eaa8946e9
 ---
 
 Week in Review

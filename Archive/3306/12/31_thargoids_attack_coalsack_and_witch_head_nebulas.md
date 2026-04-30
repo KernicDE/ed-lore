@@ -7,16 +7,17 @@ source: API
 groups:
 - Aegis
 - Alliance
-- Pilots Federation
-locations:
-- Aegis
-- Witch Head Nebula
+persons:
+- Aden Tanner
 topics:
 - alien contact
-- construction
-- ship
 - war
 arc_id: thargoid-contact
+summary: Large numbers of Thargoid vessels swarm through the Coalsack and Witch Head
+  Nebulas in a coordinated strike, overwhelming local security and threatening newly constructed
+  Alliance starports.
+player_impact: Independent pilots and anti-xeno squadrons were urgently requested to defend
+  systems and prevent Thargoid domination of the nebulas.
 modern_impact: Thargoid activity fundamentally changes the galactic security landscape
   and drives anti-xeno defence efforts.
 legacy_weight: 5

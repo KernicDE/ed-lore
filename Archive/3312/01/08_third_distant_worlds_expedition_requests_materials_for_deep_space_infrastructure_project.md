@@ -4,9 +4,16 @@ title: Third Distant Worlds Expedition Requests Materials for Deep-Space Infrast
 slug: third_distant_worlds_expedition_requests_materials_for_deep_space_infrastructure_project
 date: 3312-01-08
 source: API
+summary: The Distant Worlds working group issues a community appeal for mined and manufactured materials to construct a new deep-space facility beyond established survey routes. Executive Operative Hermine Delarue and quartermaster Timotheus Haddard outline the initial requirements, inviting independent pilots to deliver bromellite, power generators, and thermal cooling units to Surveyor's Reach in Alrai in exchange for rewards including a class 5 pre-engineered cargo rack.
+player_impact: Independent pilots are invited to deliver construction commodities to Surveyor's Reach in Alrai. Contributors receive a class 5 pre-engineered cargo rack as reward. The expedition itself is scheduled to begin on January 18th.
+persons:
+- Hermine Delarue
+- Timotheus Haddard
 groups:
-- ACT
 - Distant Worlds
+- Deep Space Surveys
+locations:
+- Alrai
 topics:
 - construction
 - engineering
@@ -17,6 +24,8 @@ arc_id: distant-worlds-3
 modern_impact: Establishes precedent for community-funded deep-space infrastructure. Future expeditions will likely replicate this crowdfunding model. The resulting station becomes a permanent frontier outpost supporting exploration in the galactic northeast.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 5d594007-84d8-500c-8b57-7ac95e8d6284
 ---
 
 The Distant Worlds working group has issued a call for mined and manufactured materials to support the construction of a new deep-space facility, intended to aid future exploration of remote galactic regions far beyond established survey routes.

@@ -6,23 +6,24 @@ date: '3306-11-17'
 source: GitHub
 groups:
 - Alliance
-- Pilots Federation
-locations:
-- Our efforts to clear the
+persons:
+- Morag Halloran
 topics:
-- alien contact
-- construction
 - corporate expansion
-- investigation
+- exploration
 - research
-- safety
-- ship
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 4
-significance: high
+- war
+summary: The Alliance Coalsack Nebula campaign successfully prepares the region for exploitation,
+  with four new starports constructed and Thargoid presence reduced by independent pilots.
+player_impact: Pilots delivered commodities and fought Thargoids to secure the Coalsack
+  Nebula for Alliance expansion.
+modern_impact: The Coalsack Nebula remains a key region for meta-alloy extraction and
+  Alliance expansion.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- d8ca461e-89b4-56d2-acdf-f3e514f93f92
+- 1d006eb4-9159-5609-8a8f-bffcce9793b8
 ---
 
 [[Coalsack Nebula]] Campaign Completes Initial Stages

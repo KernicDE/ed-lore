@@ -6,14 +6,23 @@ date: '3306-09-11'
 source: GitHub
 groups:
 - Brewer Corporation
+- Kavanagh Spaceframes Ltd
+- Steel Castle Inc
 topics:
 - construction
 - corporate expansion
-- engineering
-- ship
-modern_impact: Engineering developments offer pilots new ship customisation options.
+summary: Brewer Corporation partners with Kavanagh Spaceframes Ltd and Steel Castle Inc
+  to upgrade refinery outposts into starports, improving fleet carrier refuelling access
+  for large ships.
+player_impact: None
+modern_impact: The starport upgrade initiative expands infrastructure to support the growing
+  fleet carrier market.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 39d388e0-db44-5dec-bdc4-47fb72cb3037
+- 205d07b4-f022-5e6b-90ed-5a96149cdd43
+- 07f4c3e2-ca2b-55cc-9321-3c0cdefa1f74
 ---
 
 Starport Upgrade Initiative to Support Fleet Carriers

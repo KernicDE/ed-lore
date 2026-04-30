@@ -6,13 +6,19 @@ date: '3306-12-11'
 source: API
 groups:
 - Universal Cartographics
+- Rackham Capital Investments
+persons:
+- Zachary Rackham
 topics:
 - corporate expansion
 - exploration
 - research
-- ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
+summary: Multi-billionaire Zachary Rackham funds the construction of a permanent outpost
+  in the HIP 58832 system, the farthest point above the galactic plane, for astronomical
+  research.
+player_impact: None
+modern_impact: Rackham's Peak outpost remains a unique scientific and tourism destination
+  at the galactic zenith.
 legacy_weight: 2
 significance: low
 ---

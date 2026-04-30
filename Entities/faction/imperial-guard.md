@@ -25,7 +25,7 @@ Total mentions: **14**
 
 - [[Capitol]] (8 co-mentions)
 - [[Achenar]] (6 co-mentions)
-- [[Imperial Palace]] (5 co-mentions)
+- [[Imperial Palace]] (4 co-mentions)
 - [[Imperial Naval Infantry]] (3 co-mentions)
 - [[Imperial Senate]] (3 co-mentions)
 

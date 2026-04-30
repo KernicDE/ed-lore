@@ -4,15 +4,32 @@ title: Federation Delivers Golconda’s New Home
 slug: federation_delivers_golcondas_new_home
 date: '3305-11-24'
 source: GitHub
-entities:
-- Ava Cornelius sent
+groups:
+- Federation
+- Empire
+persons:
+- Harlan Turk
+- Ava Cornelius
+- Jonathon Forester
+locations:
+- Upaniklis
 topics:
 - construction
 - ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+- diplomacy
+summary: The Federation wins the bid to provide the Golconda population with a permanent
+  home at the orbital outpost Forester's Choice. The colonists accept Federal partner status
+  while retaining autonomy.
+player_impact: Supporters of both campaigns can collect rewards from their respective megaships
+  in Upaniklis.
+modern_impact: The Golconda colonists transition to a modern outpost while preserving their
+  culture, establishing a unique Federal autonomous community.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 0b425e04-a017-5e75-b8a3-f9326947de40
+- 0e74f39b-4db3-53e1-b52e-bcfcae3ca50b
+- 854463fb-b94a-5ead-a7af-4b56d65e1350
 ---
 
 Federation Delivers [[Golconda]]’s New Home

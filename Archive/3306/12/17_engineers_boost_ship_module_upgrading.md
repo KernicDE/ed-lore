@@ -6,23 +6,21 @@ date: '3306-12-17'
 source: API
 groups:
 - Alliance
-- INRA
-- Pilots Federation
-locations:
-- Colonia
-- Liz Ryder
+persons:
 - Lori Jameson
+- Liz Ryder
 - Mel Brandon
-- Shinrarta Dezhra
 topics:
 - engineering
-- ship
-- terrorism
-arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding
-  of the Thargoid conflict and superpower accountability.
-legacy_weight: 4
-significance: high
+summary: Engineers across the galaxy collaborate to offer boosted ship module upgrades
+  until the 7th of January 3307, partly in solidarity with Liz Ryder after the Eurybia
+  incident.
+player_impact: Pilots received increased augmentation for engineered weapons and modules
+  at all workshops during the promotional period.
+modern_impact: The engineer network remains a vital resource for pilots seeking customised
+  ship modifications.
+legacy_weight: 2
+significance: low
 ---
 
 *[[Pilots Federation]] ALERT*

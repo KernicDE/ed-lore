@@ -7,17 +7,27 @@ source: GitHub
 groups:
 - Imperial Internal Security Service
 - Pilots Federation
+- Regulatory State of Ackwada
+- Duduseklis Empire League
 locations:
-- NMLA cells operating within this
+- Ackwada
 topics:
-- crime
-- humanitarian
-- ship
 - terrorism
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+- humanitarian
+summary: The Duduseklis Empire League is overwhelmed by Imperial forces. Several megaships
+  carrying Marlinist refugees are intercepted. Imperial scouts search for smaller escape
+  vessels.
+player_impact: Pilots who supported either side can collect rewards at their respective
+  starports.
+modern_impact: The blockade prevents mass refugee escape and intensifies the Empire's
+  anti-Marlinist crackdown.
+legacy_weight: 4
+significance: high
+related_uuids:
+- cb2a6b3a-734c-5da5-97ad-e5bd1b8c7113
+- faa5ef02-8da5-512b-a56c-8647996a10f9
+- 20fdf55d-94b0-55c6-9c70-4c26b0dbc494
 ---
 
 [[Marlinist]] Faction Blockaded by Empire

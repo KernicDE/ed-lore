@@ -4,12 +4,24 @@ title: Rogue Robot Missing
 slug: rogue_robot_missing
 date: '3304-08-11'
 source: GitHub
+summary: A MacArthur Mining Ltd DG090 mining robot malfunctions and runs amok through a settlement on Homeland in the Beta Hydri system. The robot self-activates, breaks out of its container, uses mining lasers and fusion drills to carve across the landing field, then burrows underground and disappears. Security Chief Sara Kulkarni declares a regional state of emergency. Director Chen Emerson suspects human error placed the unit in incorrect standby mode, triggering a preset program.
+player_impact: None
+persons:
+- Sara Kulkarni
+- Chen Emerson
+groups:
+- MacArthur Mining Ltd
+locations:
+- Beta Hydri
+- Homeland
 topics:
-- investigation
 - safety
-modern_impact: GalNet community report documenting current events in the galaxy.
+- investigation
+modern_impact: The rogue robot incident raises concerns about automation safety protocols and the potential for industrial machinery to cause catastrophic damage when malfunctioning.
 legacy_weight: 1
 significance: low
+related_uuids:
+- c6a3e407-dfac-507b-a8f1-c62c2232e527
 ---
 
 Rogue Robot [[Missing]]

@@ -4,25 +4,45 @@ title: Week in Review
 slug: week_in_review
 date: '3304-10-13'
 source: GitHub
-entities:
+summary: Weekly summary covering Gethin Okonkwo's account of his time with the Far God cult and planned collaboration with Dr Alfred Ulyanov, the FSS discovery of more spy robots causing mass robophobia, Herculean Machines beginning Duradrive production, final campaign pledges from Alliance presidential candidates, Close Encounters Corps' scientific megaship appeal, and Broadcast Cobra's successful megaship construction campaign.
+player_impact: None
+persons:
 - Alfred Ulyanov
+- Gethin Okonkwo
+- Flint Lafosse
+- Maddox Hurd
+- Elijah Beck
+- Gibson Kincaid
+- Anton Vern
+- Alessandra Koa
 groups:
 - Alliance
 - Federal Security Service
+- Achilles Corporation
+- Herculean Machines
+- Close Encounters Corps
+- Broadcast Cobra
 locations:
 - Alioth
 topics:
 - construction
 - corporate expansion
 - exploration
-- humanitarian
 - research
-- ship
-- sport
+- crime
+- investigation
+- religion
 - trade
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: This week spans religious persecution aftermath, surveillance technology crises, corporate product launches, and political campaigning, illustrating the breadth of galactic developments.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 56ff2068-8d59-5275-8750-5490229a8326
+- 4b01bbee-1a74-58eb-ab76-9cdc3693800a
+- c17fab22-f463-50ce-95d0-9714ea431386
+- 46a4e0b4-2083-57ba-8f88-c4c2cca39367
+- 9acbde6e-30e2-5e01-8bb1-bb604ef21cb5
+- c80bfd09-c018-56c8-bf38-ef9b7391d49f
 ---
 
 Week in Review

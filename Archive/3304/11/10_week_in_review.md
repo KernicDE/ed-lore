@@ -4,31 +4,42 @@ title: Week in Review
 slug: week_in_review
 date: '3304-11-10'
 source: GitHub
-entities:
+summary: Weekly summary covering the mercenary incursion against Ram Tah's Phoenix Base in Meene, the FSS suspension of Lieutenant Inspector Ramesh Thorne, Nova Imperium's broadcast message from the Imperator, the disappearance of author Olav Redcourt, and the end of the Geras conflict.
+player_impact: None
+persons:
 - Arissa Lavigny-Duval
+- Ram Tah
+- Harper Vargas
+- Li Yong-Rui
+- Ramesh Thorne
+- Olav Redcourt
+- Donal Varden
 groups:
 - Federal Security Service
-- Sirius Corp
 - Sirius Corporation
+- Nova Imperium
+- Meene Defence Force
 locations:
 - Geras
 - Mars
 - Meene
-- Ram Tah
-- Sirius
+- Phoenix Base
 topics:
 - alien contact
 - corporate expansion
 - engineering
 - investigation
-- ship
 - succession
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: This week's events span corporate espionage, whistle-blower suppression, isolationist political mobilisation, and the conclusion of local conflicts, illustrating the galaxy's multifaceted instability.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 0df0d175-26b5-54ca-a01f-15bcd364aca3
+- c6c25c0b-245e-5a2c-ac07-b80f49ac7246
+- a8a1e1f9-1003-5fec-a6c4-896e1bb496f4
+- 7e6d6a09-c0b5-5c86-b6e1-7dab5e24d303
+- 9dd7aeb3-bfaa-57cd-a120-cba857134b07
 ---
 
 Week in Review

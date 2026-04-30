@@ -4,13 +4,26 @@ title: Superpowers Collaborate to Investigate Blight
 slug: superpowers_collaborate_to_investigate_blight
 date: '3305-10-18'
 source: GitHub
+groups:
+- Rockforth Corporation
+- Federal Intelligence Agency
+persons:
+- Adalyn Cross
+- Rex Whitlock
 topics:
-- corporate expansion
 - investigation
-- sport
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 1
-significance: low
+- terrorism
+summary: A tri-superpower collaborative body forms to trace the blight's source. The Rockforth
+  Corporation cooperates with investigators while defending its EX7 fertiliser's testing record.
+player_impact: None
+modern_impact: The unprecedented superpower collaboration reflects the severity of the blight
+  crisis and the threat to billions of lives.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 52de8894-6950-5b13-aa2a-ec35620347ce
+- 773cec69-3b2a-5dce-abb5-315b8195a303
+- 0be157b9-6a3b-51ba-96df-79add197e050
 ---
 
 Superpowers Collaborate to Investigate Blight

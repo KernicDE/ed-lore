@@ -4,18 +4,19 @@ title: Appeal for Aid Complete
 slug: appeal_for_aid_complete
 date: '3304-11-01'
 source: GitHub
-entities:
+summary: Senator Caspian Leopold announces the successful completion of his aid appeal in association with the Niflhel Guardians Of Tradition. Hundreds of pilots delivered commodities to Biruni Port and protected traders in the Niflhel system, narrowly averting a humanitarian crisis. Refugees at Leopold's rehabilitation centre are assured new homes will be found for them.
+player_impact: Contributing pilots can collect rewards from Biruni Port in the Niflhel system.
+persons:
 - Caspian Leopold
-- Leopold
-- Leopold made
+groups:
+- Niflhel Guardians Of Tradition
 locations:
 - Niflhel
+- Biruni Port
 topics:
 - humanitarian
 - trade
-- war
-- xenoarchaeology
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: The aid initiative demonstrates the galactic community's willingness to respond to humanitarian crises and Senator Leopold's influence in mobilising independent pilots for charitable causes.
 legacy_weight: 2
 significance: low
 ---

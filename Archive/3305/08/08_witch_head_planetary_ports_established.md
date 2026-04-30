@@ -4,28 +4,33 @@ title: Witch Head Planetary Ports Established
 slug: witch_head_planetary_ports_established
 date: '3305-08-08'
 source: GitHub
-entities:
-- Alba Tesreau
 groups:
 - Aegis
 - Alliance
-locations:
-- Aegis
+- Federation
+- Empire
+persons:
+- Alba Tesreau
 - Chloe Sedesi
-- Six ports now occupy
+locations:
 - Witch Head Nebula
+- Witch Head Sector DL-Y d17
 topics:
-- alien contact
 - construction
-- engineering
-- research
-- ship
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- exploration
+- alien contact
+summary: Seven planetary ports are established in the Witch Head Nebula, with Alliance,
+  Federation and Empire each contributing two ports. Cinder Dock hosts Chloe Sedesi's engineering
+  facility. A tech broker and material trader also set up services.
+player_impact: Pilots gain access to engineering, tech broker and material trader services
+  in the Witch Head Enclave.
+modern_impact: The planetary ports solidify humanity's foothold in the Witch Head Nebula
+  and accelerate recovery from Thargoid assaults.
 legacy_weight: 4
 significance: high
+related_uuids:
+- a9a2f232-4d80-5f78-8b1e-f89eb3a27648
+- b94afdd9-d5e9-54ed-8237-7dd25c981332
 ---
 
 [[Witch Head]] Planetary Ports Established

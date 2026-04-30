@@ -23,7 +23,7 @@ Total mentions: **43**
 
 ## Related
 
-- [[Canonn]] (40 co-mentions)
+- [[Canonn]] (37 co-mentions)
 - [[Arcanonn]] (17 co-mentions)
 - [[Merope]] (13 co-mentions)
 - [[Varati]] (11 co-mentions)

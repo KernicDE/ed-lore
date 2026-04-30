@@ -2,18 +2,18 @@
 id: aaron-whyte
 name: Aaron Whyte
 type: person
-first_seen_date: '3307-04-01'
+first_seen_date: '3306-12-17'
 last_seen_date: '3307-12-29'
-mention_count: 18
+mention_count: 20
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Aaron Whyte
 
-First mentioned: **3307-04-01**  
+First mentioned: **3306-12-17**  
 Last mentioned: **3307-12-29**  
-Total mentions: **18**
+Total mentions: **20**
 
 ## Related
 

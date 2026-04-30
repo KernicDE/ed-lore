@@ -2,18 +2,18 @@
 id: corinne-macintyre
 name: Corinne Macintyre
 type: person
-first_seen_date: '3312-01-26'
+first_seen_date: '3305-07-27'
 last_seen_date: '3312-01-26'
-mention_count: 1
+mention_count: 5
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Corinne Macintyre
 
-First mentioned: **3312-01-26**  
+First mentioned: **3305-07-27**  
 Last mentioned: **3312-01-26**  
-Total mentions: **1**
+Total mentions: **5**
 
 ## Related
 

@@ -4,23 +4,28 @@ title: Starship Enterprises Launches Mining Campaign
 slug: starship_enterprises_launches_mining_campaign
 date: '3305-08-22'
 source: GitHub
-entities:
+groups:
+- Starship Enterprises
+- SE Mining
+persons:
 - Lewis Chapman
 locations:
-- Gell-Mann Ring in the LP 339-7
 - LP 339-7
-- There has long been a rift between our
 topics:
 - construction
 - corporate expansion
-- ship
 - trade
-- war
-arc_id: formidine-rift
-modern_impact: The Formidine Rift mystery captivates explorers and reveals hidden
-  history.
-legacy_weight: 3
-significance: medium
+summary: Starship Enterprises launches a mining campaign to construct a specialised installation
+  and asteroid base in LP 339-7. The new starport Miner Prospects will serve as SE Mining's
+  headquarters and benefit the system's outer reaches.
+player_impact: Pilots mine osmium, samarium, uraninite, monazite and platinum for delivery
+  to Gell-Mann Ring in LP 339-7.
+modern_impact: The campaign expands corporate mining operations and provides new trade opportunities
+  in the LP 339-7 system.
+legacy_weight: 2
+significance: low
+related_uuids:
+- a6fb17de-52ed-52df-954e-ddf92b11c74d
 ---
 
 Starship Enterprises Launches Mining Campaign

@@ -6,15 +6,25 @@ date: '3305-09-06'
 source: GitHub
 groups:
 - Alliance
+persons:
+- Edmund Mahon
+- Corinne Macintyre
 locations:
 - Diso
+- Birmingham
 - Leesti
 topics:
 - festival
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
-legacy_weight: 3
-significance: medium
+summary: The Alliance Festival of Culture concludes with a week-long food and drink celebration
+  in Birmingham, Diso. Prime Minister Mahon thanks participants and invites artists across
+  the galaxy to make the Alliance their home.
+player_impact: None
+modern_impact: The festival showcases Alliance cultural diversity and strengthens inter-system
+  cultural ties, though ingredient shortages hint at the coming blight crisis.
+legacy_weight: 2
+significance: low
+related_uuids:
+- 2f3b3b59-46ee-59b4-8f60-035a7e31ee7c
 ---
 
 [[Alliance]] Festival of Culture Celebrates Finale

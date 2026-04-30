@@ -2,21 +2,26 @@
 id: saud-kruger
 name: Saud Kruger
 type: faction
-first_seen_date: '3307-09-23'
+first_seen_date: '3305-01-24'
 last_seen_date: '3307-09-30'
-mention_count: 2
+mention_count: 3
+related_entities:
+- the-sovereign
+- astrogator-tours
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Saud Kruger
 
-First mentioned: **3307-09-23**  
+First mentioned: **3305-01-24**  
 Last mentioned: **3307-09-30**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
+- [[The Sovereign]] (1 co-mentions)
+- [[Astrogator Tours]] (1 co-mentions)
 
 ## Biography
 

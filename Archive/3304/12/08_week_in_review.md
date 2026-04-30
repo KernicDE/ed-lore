@@ -4,24 +4,43 @@ title: Week in Review
 slug: week_in_review
 date: '3304-12-08'
 source: GitHub
-entities:
+summary: Weekly summary covering the merger of Allied Medical Industries and Neosalve Inc. into Neomedical Industries, Vitadyne Labs' announcement of revolutionary nanomedicines, Nova Imperium's revelation of Hadrian Duval as imperial heir, Gethin Okonkwo's comments on Far God outposts in Etain, the Children of Tothos rare commodity appeal in Zlota, and the conclusion of the Achilles Corporation robot replacement initiative.
+player_impact: None
+persons:
 - Gus Weaver
+- Gethin Okonkwo
+- Barnabas Cole
+- Hadrian Augustus Duval
+- Imperator Mordanticus
+- Katrien Rook
 groups:
-- Alliance
+- Neomedical Industries
+- Vitadyne Labs
+- Nova Imperium
+- Children of Tothos
+- Achilles Corporation
+- Allied Medical Industries
+- Neosalve Inc.
 locations:
-- Alliance and independent
-- An obscure cult based in the Zlota
+- Zlota
+- Etain
 topics:
 - corporate expansion
 - medicine
-- narcotics
 - scandal
 - succession
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+- religion
+modern_impact: Multiple significant developments this week reshape corporate, medical, and political landscapes across the galaxy, from pharmaceutical mergers to an imperial succession crisis.
 legacy_weight: 2
 significance: low
+related_uuids:
+- d80a7b9f-9d19-5bb7-b7e5-190a2db517ff
+- 22581b1b-074c-5b9c-97dd-c7889605587e
+- 31f767a5-94dc-53cf-ba91-407794f301dc
+- 852906f2-b606-50ea-b4f4-d3bd4af8e4d3
+- 0f00978d-98ca-5559-886d-b31243d1db3c
+- 8cc43f3f-da2a-5399-af1a-6a0bd65d1bab
 ---
 
 Week in Review

@@ -4,17 +4,27 @@ title: The Golconda Generation
 slug: the_golconda_generation
 date: '3305-11-11'
 source: GitHub
-entities:
+groups:
+- Upaniklis Vision Incorporated
+persons:
 - Elizabeth Perez
-- Perez travelled
+locations:
+- Upaniklis
 topics:
-- corporate expansion
-- engineering
 - research
+- exploration
 - ship
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 2
-significance: low
+summary: Professor Elizabeth Perez studies the Golconda's unique culture, noting their
+  isolationist tendencies, recognisable social structure, and contentment with spacefaring
+  existence. She warns that contact with outsiders could irrevocably damage the society.
+player_impact: None
+modern_impact: The anthropological study raises awareness about the fragility of isolated
+  cultures and the need for careful first contact protocols.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 8166c06a-f366-5f9c-84ac-846f243da58c
+- 42b2a824-dda6-5beb-ae9d-99f1e5690520
 ---
 
 [[The]] [[Golconda]] Generation

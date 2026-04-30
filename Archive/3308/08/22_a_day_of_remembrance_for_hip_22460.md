@@ -1,5 +1,5 @@
 ---
-uuid: 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
+uuid: 4a1970bd-317f-518d-95da-22551e7e7907
 title: A Day of Remembrance for HIP 22460
 slug: a_day_of_remembrance_for_hip_22460
 date: '3308-08-22'

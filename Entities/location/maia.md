@@ -4,7 +4,7 @@ name: Maia
 type: location
 first_seen_date: '3301-10-13'
 last_seen_date: '3308-09-01'
-mention_count: 73
+mention_count: 75
 related_entities:
 - obsidian-orbital
 - merope
@@ -19,13 +19,13 @@ related_entities:
 
 First mentioned: **3301-10-13**  
 Last mentioned: **3308-09-01**  
-Total mentions: **73**
+Total mentions: **75**
 
 ## Related
 
 - [[Obsidian Orbital]] (28 co-mentions)
 - [[Merope]] (22 co-mentions)
-- [[Ishmael Palin]] (21 co-mentions)
+- [[Ishmael Palin]] (17 co-mentions)
 - [[Pleiades Nebula]] (11 co-mentions)
 - [[Aegis]] (11 co-mentions)
 

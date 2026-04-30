@@ -4,31 +4,54 @@ title: Week in Review
 slug: week_in_review
 date: '3304-11-17'
 source: GitHub
+summary: Weekly summary covering the leaked IISS report identifying Nova Imperium's leader as Duke Kaeso Mordanticus, the whistle-blower linking Kingsley Cordova to spy robots, the conclusion of escape pod recovery in Meene revealing Sirius officers among the mercenaries, Olelbis Holdings' commodity appeal, and Olav Redcourt being found alive at a writers' retreat.
+player_impact: None
+persons:
+- Kaeso Mordanticus
+- Kingsley Cordova
+- Harper Vargas
+- Ram Tah
+- Olav Redcourt
+- Ramesh Thorne
+- Lena Ravenhill
 groups:
 - Imperial Internal Security Service
 - Imperial Navy
-- Sirius Corp
 - Sirius Corporation
+- Nova Imperium
+- Achilles Corporation
+- Federal Times
+- Cordova Group
+- Mars Tribune
+- HIP 29241 Green Party
+- Meene Defence Force
+- Olelbis Holdings
 locations:
 - Mars
 - Meene
 - Olelbis
-- Phoenix Base in the Meene
-- Polyakov Orbital in the Olelbis
-- Ram Tah
-- Sirius
+- Phoenix Base
+- Polyakov Orbital
+- Rhea Archipelago
 topics:
 - corporate expansion
 - crime
 - engineering
 - research
 - scandal
-- ship
 - trade
 - war
-modern_impact: Engineering developments offer pilots new ship customisation options.
+- politics
+modern_impact: This week exposes deep corruption across multiple sectors, from corporate blackmail and military infiltration to political radicalisation within the Imperial Navy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e83ed9a3-d349-5a04-a90a-323cf0cec25c
+- d72ade11-9eb6-5dc4-a86d-07b7b98fffe5
+- bffb48c0-bcf9-5023-862b-75f80c238686
+- db332136-804c-58df-89f9-2ab0eef65d11
+- bc6f4b33-4085-5444-b8c0-12196a86640f
+- 4f8a3775-4a85-53e6-b107-a1946b857d3a
 ---
 
 Week in Review

@@ -4,24 +4,28 @@ title: Vitadyne Nanomedicines Reach Galactic Market
 slug: vitadyne_nanomedicines_reach_galactic_market
 date: '3306-06-09'
 source: GitHub
-entities:
-- Katrien Rook
-- Rook
-- Rook clarified that
 groups:
 - Utopia
+- Vitadyne Labs
+- Vandermeer Corporation
+- Interstellar Health Organisation
+persons:
+- Katrien Rook
+- Pranav Antal
+locations:
+- Kuma
 topics:
-- corporate expansion
-- diplomacy
 - medicine
-- narcotics
+- corporate expansion
 - research
-- scandal
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: Vitadyne nanomedicines, derived from Utopian pharmaceuticals, are approved for
+  galactic distribution after a year-long legal battle. The IHO ruled in favour of Vitadyne
+  Labs with distribution handled by the Vandermeer Corporation.
+player_impact: None
+modern_impact: Vitadyne nanomedicines become available across the galaxy, representing
+  a significant advancement in medical technology despite their controversial origins.
+legacy_weight: 3
+significance: medium
 ---
 
 Vitadyne Nanomedicines Reach Galactic Market

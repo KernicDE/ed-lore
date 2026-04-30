@@ -6,7 +6,8 @@ first_seen_date: '3312-01-08'
 last_seen_date: '3312-01-17'
 mention_count: 2
 related_entities:
-- act
+- deep-space-surveys
+- alrai
 - ngc-1981-sector-zu-y-d27
 ---
 
@@ -20,7 +21,8 @@ Total mentions: **2**
 
 ## Related
 
-- [[ACT]] (1 co-mentions)
+- [[Deep Space Surveys]] (2 co-mentions)
+- [[Alrai]] (2 co-mentions)
 - [[NGC 1981 Sector ZU-Y d27]] (1 co-mentions)
 
 ## Biography

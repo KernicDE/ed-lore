@@ -1,5 +1,5 @@
 ---
-uuid: 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
+uuid: edb0e7ff-862e-5ed5-b8e4-43b5aef0c8f6
 title: Azimuth Condemns 'Alien-Loving' Resistance
 slug: azimuth_condemns_alien_loving_resistance
 date: '3308-07-25'

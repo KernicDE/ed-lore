@@ -5,15 +5,26 @@ slug: red_family_operation_concludes
 date: '3305-08-02'
 source: GitHub
 groups:
+- Federal Intelligence Agency
 - Federal Times
+- Red Family Cartel
+persons:
+- Ethan Takahashi
+- Oberon Church
+- Jan Sandoval
 topics:
-- construction
 - crime
 - investigation
 - narcotics
-modern_impact: Infrastructure project with long-term benefits.
-legacy_weight: 2
-significance: low
+summary: The FIA declares its campaign against the Red Family cartel a success. Coordinated
+  strikes destroyed the cartel's super-addictive narcotic before mass production. Kingpin
+  Oberon Church remains at large. Internal investigations continue into Jan Sandoval's death
+  in custody.
+player_impact: None
+modern_impact: The dismantling of the Red Family cartel disrupts the narcotics trade but
+  raises concerns about FIA corruption.
+legacy_weight: 3
+significance: medium
 ---
 
 Red Family Operation Concludes

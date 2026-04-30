@@ -2,32 +2,32 @@
 id: beta-hydri
 name: Beta Hydri
 type: location
-first_seen_date: '3308-04-15'
+first_seen_date: '3304-08-11'
 last_seen_date: '3308-05-19'
-mention_count: 4
+mention_count: 8
 related_entities:
-- federal-times
 - homeland
-- edmondson-high
-- rackhams-spire
-- george-pantazis
+- federal-times
+- macarthur-mining-ltd
+- federal-intelligence-agency
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Beta Hydri
 
-First mentioned: **3308-04-15**  
+First mentioned: **3304-08-11**  
 Last mentioned: **3308-05-19**  
-Total mentions: **4**
+Total mentions: **8**
 
 ## Related
 
-- [[Federal Times]] (4 co-mentions)
-- [[Homeland]] (2 co-mentions)
-- [[Edmondson High]] (2 co-mentions)
-- [[Rackham's Spire]] (1 co-mentions)
-- [[George Pantazis]] (1 co-mentions)
+- [[Homeland]] (5 co-mentions)
+- [[Federal Times]] (5 co-mentions)
+- [[MacArthur Mining Ltd]] (4 co-mentions)
+- [[Federal Intelligence Agency]] (2 co-mentions)
+- [[Aegis]] (2 co-mentions)
 
 ## Biography
 

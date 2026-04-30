@@ -4,15 +4,22 @@ title: Alliance Initiative Concludes
 slug: alliance_initiative_concludes
 date: '3304-08-03'
 source: GitHub
+summary: The Alliance announces the successful conclusion of its appeal for mined resources to construct an Ocellus starport in the MEL 22 Sector GM-V C2-8 system. Huge quantities of raw material were delivered to California Gateway. Alliance official Torvan Dast states the starport will make travel to the California Nebula safer for traders and colonists.
+player_impact: Contributing pilots can collect rewards from California Gateway in the Synuefai EB-R C7-5 system.
+persons:
+- Torvan Dast
 groups:
 - Alliance
 locations:
 - California Nebula
+- Synuefai EB-R C7-5
+- California Gateway
+- MEL 22 Sector GM-V C2-8
 topics:
 - construction
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+- exploration
+modern_impact: The new Ocellus starport expands Alliance presence in the California Nebula, supporting trade routes and colonisation efforts in the frontier region.
 legacy_weight: 2
 significance: low
 ---

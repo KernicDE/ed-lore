@@ -2,9 +2,9 @@
 id: nmla
 name: NMLA
 type: faction
-first_seen_date: '3307-02-04'
+first_seen_date: '3306-09-10'
 last_seen_date: '3308-07-06'
-mention_count: 86
+mention_count: 94
 related_entities:
 - marlinist
 - alliance
@@ -17,9 +17,9 @@ related_entities:
 
 # NMLA
 
-First mentioned: **3307-02-04**  
+First mentioned: **3306-09-10**  
 Last mentioned: **3308-07-06**  
-Total mentions: **86**
+Total mentions: **94**
 
 ## Related
 
@@ -27,7 +27,7 @@ Total mentions: **86**
 - [[Alliance]] (27 co-mentions)
 - [[Marlinist Colonies]] (23 co-mentions)
 - [[Achenar]] (19 co-mentions)
-- [[Imperial Senate]] (15 co-mentions)
+- [[Imperial Senate]] (16 co-mentions)
 
 ## Biography
 

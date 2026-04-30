@@ -4,20 +4,24 @@ title: Manatee Megaship Initiative Concludes
 slug: manatee_megaship_initiative_concludes
 date: '3304-09-20'
 source: GitHub
+summary: The Libertas Cooperative announces the successful conclusion of its commodity appeal for the manatee farming megaship. Land enrichment systems, animal monitors, aquaponic systems, and marine equipment were delivered to Ocrinox's Orbiter. Progenitor Selena Conley thanks pilots and states increased manatee meat production will boost the Munshin system's economy.
+player_impact: Contributing pilots can collect rewards from Ocrinox's Orbiter in the Munshin system.
+persons:
+- Selena Conley
 groups:
 - Libertas Cooperative
+- Munshin Manatee Meat
 locations:
-- Land enrichment
 - Munshin
 - Ocrinox's Orbiter
 topics:
 - construction
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The successful megaship construction enables industrial-scale manatee farming, potentially transforming food production economics in the Munshin system and beyond.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 31ff0234-888c-5bfa-9364-d34905a8c02e
 ---
 
 Manatee Megaship Initiative Concludes

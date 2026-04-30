@@ -4,13 +4,28 @@ title: Appeal for Computing Commodities
 slug: appeal_for_computing_commodities
 date: '3304-09-20'
 source: GitHub
+summary: Rival technology companies Supratech and Herculean Machines both appeal for commodities to support their forthcoming products. Scorpio DeVorrow promotes the Torc with state-of-the-art holographic technology, while Maddox Hurd touts the Duradrive's power and customisability. Supratech requires Conductive Fabrics, Robotics, and Microcontrollers delivered to Roberts Port in the Fedmich system. Herculean Machines requests Consumer Technology, Hardware Diagnostic Sensors, and Computer Components delivered to Cowper Dock in the Anima system.
+player_impact: Independent pilots can deliver commodities to support either Supratech (Roberts Port, Fedmich) or Herculean Machines (Cowper Dock, Anima) and earn rewards. Both campaigns end if either achieves its aims.
+persons:
+- Scorpio DeVorrow
+- Maddox Hurd
+groups:
+- Supratech
+- Herculean Machines
+locations:
+- Fedmich
+- Roberts Port
+- Anima
+- Cowper Dock
 topics:
 - corporate expansion
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+- technology
+modern_impact: The competing appeals turn the personal computer race into a public referendum on design philosophy, with pilot support potentially determining which prototype dominates at the Rackham Ultratech Expo.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e43008b8-1289-5c69-9d20-41b74e0e1ec1
 ---
 
 Appeal for Computing Commodities

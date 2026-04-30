@@ -4,25 +4,32 @@ title: Superpowers React to Latest NMLA Strike
 slug: superpowers_react_to_latest_nmla_strike
 date: '3306-11-20'
 source: GitHub
-entities:
-- Felicia Winters
 groups:
 - Federal Security Service
-locations:
-- Federal embassies in several Imperial
-- Kepler Orbital in the Atropos
+- NMLA
+persons:
+- Felicia Winters
+- Brad Mitchell
+- Imogen Luciana
+- Jordan Rochester
 topics:
-- construction
-- diplomacy
-- festival
-- investigation
-- ship
 - terrorism
+- diplomacy
 - war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
-legacy_weight: 3
-significance: medium
+summary: The Empire and Federation blame each other after the NMLA bombing of Kepler
+  Orbital. Imperial Ambassador Luciana claims the Federation resisted shutting down
+  NMLA bomb factories in LTT 1935, while Vice President Mitchell blames Shadow President
+  Winters for welcoming terrorists. Federal embassies in Imperial systems close amid
+  violent protests.
+player_impact: None
+modern_impact: The NMLA bombing deepens the superpower rift and fuels political blame
+  games on both sides.
+legacy_weight: 4
+significance: high
+related_uuids:
+- fdfcbad6-3839-516e-9fa7-708cee9ad0e3
+- 4e860725-eb68-5f84-82ea-7b7e629bd964
+- 5c5b50af-0f81-5898-b860-948182133436
 ---
 
 Superpowers React to Latest NMLA Strike

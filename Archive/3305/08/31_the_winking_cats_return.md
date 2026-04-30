@@ -6,16 +6,24 @@ date: '3305-08-31'
 source: GitHub
 groups:
 - Alliance
+persons:
+- Daron Warmack
 locations:
 - Alioth
 - Diso
 topics:
 - festival
-- treasure hunt
-- war
-modern_impact: Community-driven treasure hunt engaging independent pilots.
-legacy_weight: 1
+- crime
+summary: The notorious art thief Winking Cat resurfaces during the Alliance Festival of
+  Culture in Alioth, returning the long-lost masterpiece 'Penance Street' by Megan Madigan.
+  The artwork vanished in transit 60 years ago.
+player_impact: None
+modern_impact: The Winking Cat's return of stolen art adds to their mystique and provides
+  a cultural highlight for the festival's final weeks.
+legacy_weight: 2
 significance: low
+related_uuids:
+- 3aff70ec-55de-540f-af20-db881cf820d4
 ---
 
 [[The]] Winking Cat’s Return

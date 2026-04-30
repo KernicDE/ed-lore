@@ -4,13 +4,26 @@ title: Billionaire Wins Lottery
 slug: billionaire_wins_lottery
 date: '3304-08-17'
 source: GitHub
+summary: Billionaire Zachary Rackham, known as 'Calico Zack', is confirmed as the winner of a one billion credit Federal Grand Lottery prize. Rackham claims he will donate the windfall to charity. Financial journalist Bryanna Blanco of The Federal Times suggests the win is suspicious and speculates the money will instead pay Rackham Capital Investments' recent unpaid tax bill.
+player_impact: None
+persons:
+- Zachary Rackham
+- Bryanna Blanco
+- Tori Theopolis
 groups:
 - Federal Times
+- Federal Grand Lottery
+- Rackham Capital Investments
+locations: []
 topics:
-- piracy
-modern_impact: Anti-piracy operation protecting trade routes.
+- crime
+- corporate expansion
+modern_impact: The billionaire's lottery win generates widespread scepticism and fuels rumours about Rackham's financial practices, setting the stage for future scrutiny of his business empire.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9a686bf9-c1b6-5de4-891b-31a3d4733fca
+- 7ec3f1fb-8e73-5084-86f2-d3f916349ede
 ---
 
 Billionaire Wins Lottery

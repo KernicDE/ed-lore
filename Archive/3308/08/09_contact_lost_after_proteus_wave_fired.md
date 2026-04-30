@@ -1,5 +1,5 @@
 ---
-uuid: 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
+uuid: 33b86898-9d96-5e9f-9e8a-e369998c5f2b
 title: Contact Lost after Proteus Wave Fired
 slug: contact_lost_after_proteus_wave_fired
 date: '3308-08-09'

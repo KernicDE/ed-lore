@@ -4,10 +4,19 @@ title: Macrosphere Initiative Ends
 slug: macrosphere_initiative_ends
 date: '3305-03-07'
 source: GitHub
+persons:
+- Taniyah Sharpe
+groups:
+- Macrosphere
+- DS Leonis Industries
+locations:
+- DS Leonis
 topics:
 - corporate expansion
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- technology
+summary: Macrosphere's community drive for components to build the Mech Scanner — a device to detect illegally reprogrammed robots — concludes successfully.
+player_impact: Contributing pilots could collect rewards from Grandin Terminal in the DS Leonis system.
+modern_impact: The Mech Scanner represented an early civilian application of robotics verification technology, though its broader adoption remained limited.
 legacy_weight: 2
 significance: low
 ---
@@ -19,8 +28,8 @@ A components drive for a device to detect illegally reprogrammed robots has conc
 
 Taniyah Sharpe, CEO of technology company Macrosphere, announced: 
 
-“There was a fantastic response to [[Our]] request, [[Which]] [[The]] DS Leonis Industries organised on our behalf. [[Many]] thanks to those who participated.” 
+"There was a fantastic response to [[Our]] request, [[Which]] [[The]] DS Leonis Industries organised on our behalf. [[Many]] thanks to those who participated." 
 
-“Whether you own a personal admin robot or a factory of industrial machines, the Mech Scanner will confirm that they are functioning as intended.” 
+"Whether you own a personal admin robot or a factory of industrial machines, the Mech Scanner will confirm that they are functioning as intended." 
 
 Pilots who took part in the initiative can now collect their rewards from Grandin Terminal in the DS Leonis system.

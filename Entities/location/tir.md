@@ -7,10 +7,10 @@ last_seen_date: '3304-08-29'
 mention_count: 1
 related_entities:
 - colonia-council
-- etienne-dorn
-- etienne-dorn-in-the-los
-- mars
-- marsha-hicks
+- kraken-shield-specialists
+- luchtaine
+- los
+- asura
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **1**
 ## Related
 
 - [[Colonia Council]] (1 co-mentions)
-- [[Etienne Dorn]] (1 co-mentions)
-- [[Etienne Dorn in the Los]] (1 co-mentions)
-- [[Mars]] (1 co-mentions)
-- [[Marsha Hicks]] (1 co-mentions)
+- [[Kraken Shield Specialists]] (1 co-mentions)
+- [[Luchtaine]] (1 co-mentions)
+- [[Los]] (1 co-mentions)
+- [[Asura]] (1 co-mentions)
 
 ## Biography
 

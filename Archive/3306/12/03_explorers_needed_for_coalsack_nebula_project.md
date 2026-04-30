@@ -4,23 +4,22 @@ title: Explorers Needed for Coalsack Nebula Project
 slug: explorers_needed_for_coalsack_nebula_project
 date: '3306-12-03'
 source: GitHub
-entities:
-- Maximilian North
 groups:
 - Alliance
-- Pilots Federation
-- Sirius Corp
 - Sirius Corporation
-locations:
-- Sirius
+- Sirius Atmospherics
+persons:
+- Maximilian North
 topics:
 - corporate expansion
 - exploration
-- independence
 - research
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: Sirius Atmospherics requests exploration data on ammonia worlds from independent
+  pilots for a terraforming project in the Coalsack Nebula, in partnership with the Alliance.
+player_impact: Pilots delivered exploration data focusing on ammonia world composition
+  to Betancourt Base in the Musca Dark Region PJ-P b6-1 system.
+modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand human
+  habitation into previously hostile environments.
 legacy_weight: 2
 significance: low
 ---

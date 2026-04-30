@@ -2,18 +2,18 @@
 id: tahir-west
 name: Tahir West
 type: person
-first_seen_date: '3308-11-01'
+first_seen_date: '3305-06-21'
 last_seen_date: '3308-11-01'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Tahir West
 
-First mentioned: **3308-11-01**  
+First mentioned: **3305-06-21**  
 Last mentioned: **3308-11-01**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

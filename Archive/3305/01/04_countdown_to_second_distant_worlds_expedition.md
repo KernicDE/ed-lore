@@ -4,18 +4,30 @@ title: Countdown to Second Distant Worlds Expedition
 slug: countdown_to_second_distant_worlds_expedition
 date: '3305-01-04'
 source: GitHub
+persons:
+- Leon Banerjee
+- Erimus Kamzel
+- Kaii
+groups:
+- Vox Galactica
+- Deep Space Surveys
 locations:
 - Beagle Point
 - Sagittarius A*
+- Pallaeni
 topics:
-- construction
 - exploration
 - research
-- ship
-arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction opens new frontiers for exploration.
-legacy_weight: 3
-significance: medium
+- construction
+arc_id: distant-worlds-3
+summary: The second Distant Worlds expedition prepares to launch, with nearly four thousand Commanders set to travel over 200,000 light years through the galactic core, including construction of a research starport near Sagittarius A*.
+player_impact: Nearly four thousand Commanders signed up to participate in the expedition.
+modern_impact: Distant Worlds II became the largest coordinated exploration fleet in history, establishing permanent infrastructure in the Galactic Centre and inspiring future generations of deep-space explorers.
+legacy_weight: 5
+significance: high
+related_uuids:
+- 380023e7-03d4-5f9b-957c-e3ce92642a28
+- 18391d47-7d7f-5403-92e1-d6f8153a3112
 ---
 
 Countdown to Second [[Distant Worlds]] Expedition
@@ -25,10 +37,10 @@ Preparations are underway for [[The]] second Distant Worlds expedition, [[Which]
 
 Science correspondent Leon Banerjee provided an overview for the Vox Galactica media outlet: 
 
-“The first Distant Worlds mission, in 3302, was the largest fleet expedition in history, and saw over a thousand ships travel to [[Beagle Point]] and back.” 
+"The first Distant Worlds mission, in 3302, was the largest fleet expedition in history, and saw over a thousand ships travel to [[Beagle Point]] and back." 
 
-“Distant Worlds II has even loftier ambitions, involving an impressive voyage through the heart of the galaxy, mapping unexplored regions and making new scientific discoveries. It will also involve the construction of a starport dedicated to the study of Sagittarius A*.” 
+"Distant Worlds II has even loftier ambitions, involving an impressive voyage through the heart of the galaxy, mapping unexplored regions and making new scientific discoveries. It will also involve the construction of a starport dedicated to the study of Sagittarius A*." 
 
-“Project leaders [[Erimus]] Kamzel and Dr [[Kaii]] report that nearly four thousand courageous Commanders will take part, despite the risks involved, [[In a]] journey of over 200,000 light years.” 
+"Project leaders [[Erimus]] Kamzel and Dr [[Kaii]] report that nearly four thousand courageous Commanders will take part, despite the risks involved, [[In a]] journey of over 200,000 light years." 
 
 Distant Worlds II is scheduled to launch in January 3305, [[With the]] complete round trip lasting approximately three hundred days.

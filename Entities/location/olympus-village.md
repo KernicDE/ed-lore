@@ -9,8 +9,8 @@ related_entities:
 - mars
 - federal-times
 - federal-security-service
-- federal-navy
-- alliance
+- sol
+- federal-intelligence-agency
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **19**
 - [[Mars]] (7 co-mentions)
 - [[Federal Times]] (5 co-mentions)
 - [[Federal Security Service]] (3 co-mentions)
-- [[Federal Navy]] (3 co-mentions)
-- [[Alliance]] (3 co-mentions)
+- [[Sol]] (3 co-mentions)
+- [[Federal Intelligence Agency]] (3 co-mentions)
 
 ## Biography
 

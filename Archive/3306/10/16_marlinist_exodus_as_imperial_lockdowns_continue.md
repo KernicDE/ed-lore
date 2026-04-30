@@ -4,22 +4,35 @@ title: Marlinist Exodus as Imperial Lockdowns Continue
 slug: marlinist_exodus_as_imperial_lockdowns_continue
 date: '3306-10-16'
 source: GitHub
-entities:
-- Jenna Fairfax
 groups:
 - Imperial Navy
+persons:
+- Jenna Fairfax
+- Denton Patreus
 locations:
+- 234 G. Carinae
+- Baltah'Sine
 - Beatis
-- Citizens in several
-- The Empire has locked down more
+- CD-39 3269
+- Chana
+- HIP 39470
+- Mazahuanses
+- Nahuatl
 topics:
 - humanitarian
-- medicine
-- ship
 - terrorism
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: The Empire locks down more systems with prevalent Marlinist beliefs, causing
+  millions to flee. Dr. Jenna Fairfax condemns the persecution. Senator Patreus vows to
+  cleanse the "Neo-Marlinist poison."
+player_impact: None
+modern_impact: The mass exodus of Marlinists becomes a major humanitarian crisis as the
+  Empire expands anti-terrorist lockdowns.
+legacy_weight: 4
+significance: high
+related_uuids:
+- cb2a6b3a-734c-5da5-97ad-e5bd1b8c7113
+- 65171baf-8d7e-55c3-9b89-58d71be9ae4f
+- 20fdf55d-94b0-55c6-9c70-4c26b0dbc494
 ---
 
 [[Marlinist]] Exodus as Imperial Lockdowns Continue

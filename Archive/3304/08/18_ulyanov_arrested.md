@@ -4,22 +4,31 @@ title: Ulyanov Arrested
 slug: ulyanov_arrested
 date: '3304-08-18'
 source: GitHub
-entities:
+summary: Dr Alfred Ulyanov, a leading exotheologian and authority on the Far God cult, is arrested as a suspected Thargoid sympathiser at his home in the Rana system. The FIA removes research materials and computer systems. Professor Siobhan Vogel of the Interstellar Association of Universities files a formal complaint, calling the arrest a dangerous precedent. Senior Agent Micah Whitefield defends the arrest, citing Ulyanov's involvement with the Far God cult. Juanita Bishop claims it proves Thargoid collaborators exist in all walks of life.
+player_impact: None
+persons:
 - Alfred Ulyanov
-- Micah Whitefield gave
+- Micah Whitefield
 - Siobhan Vogel
+- Juanita Bishop
+groups:
+- Federal Intelligence Agency
+- Interstellar Association of Universities
+- Far God cult
 locations:
 - Rana
-- Research materials and computer
 topics:
 - alien contact
-- research
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- investigation
+- religion
+modern_impact: Ulyanov's arrest as an academic researcher sends shockwaves through the scientific community, chilling legitimate study of alien religions and raising alarm about the erosion of academic freedom.
 legacy_weight: 4
 significance: high
+related_uuids:
+- dab1d8e0-8ac9-5fea-a7c9-ad5f57b5f541
+- f12c2ec4-bbcc-55f0-87ac-1594fe3eb363
+- d9093b90-7659-5e5b-ac01-e545fe66530b
+- d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
 [[Ulyanov]] Arrested

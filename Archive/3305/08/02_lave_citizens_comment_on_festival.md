@@ -4,21 +4,26 @@ title: Lave Citizens Comment on Festival
 slug: lave_citizens_comment_on_festival
 date: '3305-08-02'
 source: GitHub
-entities:
-- Allen Stroud
 groups:
 - Alliance
+- Lave Radio
+persons:
+- Allen Stroud
+- Grady Chen
+- Sarai Messemer
 locations:
 - Lave
-- Lave Radio in control of the
-- Lave has been an Alliance
 topics:
 - festival
-- war
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
-legacy_weight: 3
-significance: medium
+- politics
+summary: Lave residents share mixed feelings about hosting the Alliance Festival of Culture's
+  opening ceremony. Some view it as political propaganda, while others embrace their Alliance
+  heritage despite the system's current independence.
+player_impact: None
+modern_impact: The festival highlights the complex political identity of systems that have
+  shifted between Alliance and independent governance.
+legacy_weight: 2
+significance: low
 ---
 
 [[Lave]] Citizens Comment on Festival

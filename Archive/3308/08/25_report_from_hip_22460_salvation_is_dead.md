@@ -1,5 +1,5 @@
 ---
-uuid: 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+uuid: 95ae8cda-f860-5bc3-8d07-81ef6842e829
 title: 'Report from HIP 22460: Salvation is Dead'
 slug: report_from_hip_22460_salvation_is_dead
 date: '3308-08-25'

@@ -4,22 +4,31 @@ title: Obituary  Prince Harold Duval
 slug: obituary_prince_harold_duval
 date: '3306-09-21'
 source: GitHub
-entities:
-- Hengist
 groups:
 - Imperial Herald
+persons:
+- Harold Duval
+- Hengist Duval
+- Aisling Duval
+- Arissa Lavigny-Duval
+- Imogen Gabrielini
 locations:
 - Capitol
 topics:
-- narcotics
-- safety
-- ship
 - succession
 - terrorism
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+summary: The Imperial Herald publishes an obituary recounting Prince Harold Duval's life
+  as the black sheep of the Duval family, his marriage to Imogen Gabrielini, his daughter
+  Aisling, and his eventual recluse lifestyle on Capitol before his assassination.
+player_impact: None
+modern_impact: The obituary highlights the tragedy of a man who renounced power but was
+  still targeted for his name.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- b1d3cc6d-1f0c-5fe1-b2c4-58b3b944f2d6
+- 31b4d802-4b3f-57f3-bc15-35276b2cf0b1
+- ea29f582-91a6-5340-9840-3d76cc07f494
 ---
 
 Obituary: Prince Harold Duval

@@ -6,11 +6,19 @@ date: '3305-08-16'
 source: GitHub
 groups:
 - Alliance
+persons:
+- Leyton Farris
+- Hanna Darrold
 locations:
-- Wells Terminal in the Olgrea
+- Olgrea
 topics:
 - festival
-modern_impact: Community celebration bringing pilots together.
+summary: The Alliance Festival of Culture's fourth week celebrates literature at H.G. Wells
+  Terminal in Olgrea. Local author Hanna Darrold releases the metafictional bestseller 'Chronicles
+  of Olgrea'.
+player_impact: None
+modern_impact: The literary event showcases Alliance support for arts and culture, fostering
+  creative expression across member systems.
 legacy_weight: 1
 significance: low
 ---

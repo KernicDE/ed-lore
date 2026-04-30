@@ -1,5 +1,5 @@
 ---
-uuid: 1a8f5a0b-8f5d-4c3e-7d2b-1a8f5a0b8f5d
+uuid: 9d9d6dfc-c38b-5477-93e7-fad46cf6cdf1
 title: Thargoid Roar Claim Draws Speculation
 slug: thargoid_roar_claim_draws_speculation
 date: '3308-08-23'

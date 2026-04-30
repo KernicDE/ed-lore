@@ -8,22 +8,31 @@ groups:
 - Aegis
 - Alliance
 - Pilots Federation
+- Alliance Expeditionary Pact
+persons:
+- Warren Lamar
 locations:
-- Aegis
-- Bray Landing in the Yuanjia
-- Sixteen
-- Wellington and Shenve
 - Witch Head Nebula
+- Onoros
+- Lembass
+- Haki
+- Wellington
+- Shenve
+- Yuanjia
 topics:
 - alien contact
-- ship
 - war
-- xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
+summary: Thargoids reappear in the Witch Head Nebula, swarming through Onoros, Lembass,
+  Haki, Wellington and Shenve. Captain Warren Lamar calls for independent pilots to help
+  defend the Witch Head Enclave.
+player_impact: Pilots are asked to destroy Thargoid vessels in the Witch Head Enclave.
+  The technology broker at Bray Landing in Yuanjia reduces Guardian weapon resource requirements.
+modern_impact: The Thargoid resurgence in Witch Head threatens the sixteen-system enclave
+  established the previous year.
+legacy_weight: 4
 significance: high
+related_uuids:
+- 17851927-145b-5611-9940-c735d299e940
 ---
 
 Thargoids Return to [[Witch Head Nebula]]

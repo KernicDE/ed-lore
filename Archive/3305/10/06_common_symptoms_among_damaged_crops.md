@@ -4,17 +4,27 @@ title: Common Symptoms Among Damaged Crops
 slug: common_symptoms_among_damaged_crops
 date: '3305-10-06'
 source: GitHub
-entities:
+groups:
+- Interstellar Association for Agriculture
+persons:
 - Genevieve Kane
 - Nadeem Clayton
+locations:
+- Orerve
 topics:
-- exploration
 - investigation
-- medicine
 - research
-modern_impact: Notable exploration achievement.
-legacy_weight: 2
-significance: low
+summary: The IAA identifies common biological markers in diseased crops across multiple
+  systems. Farmers report healthy crops withering within days. Authorities struggle to address
+  citizen concerns amid panic buying.
+player_impact: None
+modern_impact: The identification of common symptoms confirms the blight is a coordinated
+  biological threat rather than isolated crop failures.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 4d8fd141-53f1-5011-b749-c18bd1a057ca
+- 3f952e6a-cef9-5427-8630-5198f66f6906
 ---
 
 Common Symptoms Among Damaged Crops

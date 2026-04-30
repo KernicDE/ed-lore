@@ -2,24 +2,24 @@
 id: heike
 name: Heike
 type: location
-first_seen_date: '3305-09-05'
+first_seen_date: '3305-08-29'
 last_seen_date: '3305-09-05'
-mention_count: 1
+mention_count: 2
 related_entities:
-- macklin-fox-offered-these-words
+- sap-core-legion
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Heike
 
-First mentioned: **3305-09-05**  
+First mentioned: **3305-08-29**  
 Last mentioned: **3305-09-05**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Macklin Fox offered these words]] (1 co-mentions)
+- [[Sap Core Legion]] (2 co-mentions)
 
 ## Biography
 

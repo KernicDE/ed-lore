@@ -4,17 +4,33 @@ title: Mars Tribune Closes
 slug: mars_tribune_closes
 date: '3304-11-22'
 source: GitHub
+summary: The Mars Tribune is permanently closed and owner Kingsley Cordova arrested following the spy robot scandal. Detective Captain Ramesh Thorne, recently reinstated and promoted by the FSS, announces arrests of Cordova, editor Lana Sigrid, and other employees for blackmail and corruption. The Cordova Group is subjected to government audit. The anonymous whistle-blower receives immunity in exchange for removing the surveillance program from all PA912 robots.
+player_impact: None
+persons:
+- Kingsley Cordova
+- Ramesh Thorne
+- Lana Sigrid
+- Lena Ravenhill
 groups:
 - Federal Security Service
 - Federal Times
+- Mars Tribune
+- Cordova Group
+- Achilles Corporation
 locations:
 - Mars
 topics:
-- corporate expansion
 - scandal
-modern_impact: GalNet community report documenting current events in the galaxy.
+- crime
+- corporate expansion
+modern_impact: The closure of the Mars Tribune and arrest of its owner marks a significant victory against corporate blackmail and surveillance abuse, setting a precedent for holding media conglomerates accountable.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 142a166a-07ef-56ac-989c-e35eaa8946e9
+- c6c25c0b-245e-5a2c-ac07-b80f49ac7246
+- d72ade11-9eb6-5dc4-a86d-07b7b98fffe5
+- 974273ae-d811-56a4-91c7-d562bba2149a
 ---
 
 [[Mars]] Tribune Closes

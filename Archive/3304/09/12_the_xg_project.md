@@ -4,16 +4,18 @@ title: The XG Project
 slug: the_xg_project
 date: '3304-09-12'
 source: GitHub
-locations:
+summary: Engineer Ram Tah discusses the XG Project with Vox Galactica, explaining how he combined Guardian technology with human designs to produce the XG fighters. He drew up the original XG1 blueprint before inviting other technicians to refine it. The seventh iteration, the XG7, successfully merged human and Guardian ingenuity, followed by the XG8 Javelin and XG9 Lance. Ram Tah hopes this is the start of a new era of technological development.
+player_impact: None
+persons:
 - Ram Tah
+groups:
+- Vox Galactica
+locations: []
 topics:
-- alien contact
 - engineering
-- ship
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- alien contact
+modern_impact: The XG Project represents a landmark achievement in reverse-engineering Guardian technology, producing viable combat spacecraft that could shift the balance in the Thargoid conflict and inspire broader technological advancement.
 legacy_weight: 4
 significance: high
 ---

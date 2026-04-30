@@ -4,24 +4,28 @@ title: New Thargoid Interceptor Encountered
 slug: new_thargoid_interceptor_encountered
 date: '3304-08-30'
 source: GitHub
+summary: Independent pilots report engaging a previously unseen Thargoid vessel classified as the Hydra, a stronger variant of the Interceptor. Admiral Aden Tanner confirms it is structurally stronger than the Cyclops, Basilisk, or Medusa, and releases a larger swarm of Thargon drones. The Pilots Federation seals off the Cone Sector FN-J B9-0 system, believed to contain high concentrations of Hydra Interceptors. The Canonn Interstellar Research Group's flagship Gnosis plans to attempt a jump into the permit-locked system regardless.
+player_impact: Pilots should exercise extreme caution. The Cone Sector FN-J B9-0 system is permit-locked.
+persons:
+- Aden Tanner
+- Jing-sheng Mendez
 groups:
 - Aegis
-- Canonn
-- Canonn Interstellar Research Group
 - Pilots Federation
+- Canonn Interstellar Research Group
 locations:
-- Aegis
 - Pleiades Nebula
+- Cone Sector FN-J B9-0
 topics:
 - alien contact
-- research
 - ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Hydra Interceptor represents the most powerful Thargoid vessel encountered to date, escalating the xeno threat and prompting emergency permit-locking of a key system.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 8dc2f758-fb8f-5970-a0c1-77e52bb5671f
+- a4948f46-cb29-57d0-95a7-5e3dbbb32cf0
 ---
 
 New [[Thargoid]] Interceptor Encountered

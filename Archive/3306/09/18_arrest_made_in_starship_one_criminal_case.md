@@ -4,20 +4,28 @@ title: Arrest Made in Starship One Criminal Case
 slug: arrest_made_in_starship_one_criminal_case
 date: '3306-09-18'
 source: GitHub
-entities:
-- Felicia Winters told
-- Rory Webster
-- Zachary Hudson
 groups:
 - Federal Navy
+- Federal Attorney's Office
+persons:
+- Rory Webster
+- Zachary Hudson
+- Felicia Winters
+- Milandu Okoro
 topics:
 - crime
-- engineering
-- ship
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
-legacy_weight: 3
-significance: medium
+summary: Chief Technician Rory Webster of the Federal Navy Engineering Corps is arrested
+  for sabotaging Starship One. He is charged with mass murder and attempted treason. President
+  Hudson declines to comment, while Shadow President Winters calls for justice.
+player_impact: None
+modern_impact: The arrest of a Federal Navy engineer for presidential assassination sends
+  shockwaves through Federation politics.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 4cdbf55d-767b-5411-b413-20f72fbe79d6
+- 385e8b96-3821-5f0e-b640-c9d22e29b7a0
+- 767d07a7-f7de-5ae9-80a2-b79abe76c464
 ---
 
 Arrest Made in Starship [[One]] Criminal Case

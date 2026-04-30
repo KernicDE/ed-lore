@@ -4,24 +4,34 @@ title: Imperial Crackdown on Marlinists
 slug: imperial_crackdown_on_marlinists
 date: '3306-09-30'
 source: GitHub
-entities:
-- Denton Patreus
-- Patreus received applause
 groups:
 - Imperial Internal Security Service
 - Imperial Senate
+- NMLA
+persons:
+- Denton Patreus
 locations:
+- Ackwada
 - Beatis
+- Chana
+- Nahuatl
 topics:
-- alien contact
-- construction
 - terrorism
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: Senator Patreus mobilises Imperial military forces in response to NMLA attacks.
+  Martial law is declared in Ackwada, Beatis, Chana and Nahuatl. The IISS confirms the
+  starport bombs used Thargoid caustic enzymes identical to enzyme missile rack warheads.
+player_impact: None
+modern_impact: The crackdown marks the beginning of systematic Imperial persecution of
+  Marlinist populations and the militarisation of counter-terrorism.
 legacy_weight: 5
 significance: high
+related_uuids:
+- ad6ca765-d65c-5e07-8b69-f72363fbb33a
+- f68f89e5-a0a3-5ef1-aaba-45870d4ddd00
+- b1d3cc6d-1f0c-5fe1-b2c4-58b3b944f2d6
+- 31b4d802-4b3f-57f3-bc15-35276b2cf0b1
+- cb2a6b3a-734c-5da5-97ad-e5bd1b8c7113
 ---
 
 Imperial Crackdown on Marlinists

@@ -1,5 +1,5 @@
 ---
-uuid: 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
+uuid: 7cc33ea4-c770-5e4b-8a0e-bd75d0d19c24
 title: Fleets Withdraw from Thargoid-Controlled System
 slug: fleets_withdraw_from_thargoid_controlled_system
 date: '3308-08-12'

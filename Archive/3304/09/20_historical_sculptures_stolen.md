@@ -4,14 +4,20 @@ title: Historical Sculptures Stolen
 slug: historical_sculptures_stolen
 date: '3304-09-20'
 source: GitHub
+summary: A collection of historically significant artworks is stolen from the Imperial Museum of Culture on Eotienses A 3. The New Dawn Collection of sculptures by legendary artist Lal Candromir, dating back nearly a thousand years, is entirely taken. A winking cat graphic is painted on the wall. Captain Madoc Evander of the Imperial Internal Security Service notes a similar theft three months ago in the Alioth system with the same motif, but cannot yet confirm a connection.
+player_impact: None
+persons:
+- Madoc Evander
+- Lal Candromir
 groups:
 - Imperial Internal Security Service
 locations:
-- Alioth
 - Eotienses
+- Alioth
 topics:
 - crime
-modern_impact: GalNet community report documenting current events in the galaxy.
+- culture
+modern_impact: The brazen theft of irreplaceable Imperial cultural heritage shocks the Empire and suggests the emergence of a sophisticated art thief with a distinctive signature, potentially linked to earlier crimes.
 legacy_weight: 2
 significance: low
 ---

@@ -4,15 +4,22 @@ title: In the Shadow of the Blight
 slug: in_the_shadow_of_the_blight
 date: '3305-10-26'
 source: GitHub
-locations:
-- People across the core
-- With staple foodstuffs scarce in many
+persons:
+- Adalyn Cross
 topics:
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+- humanitarian
+summary: Core systems adapt to food shortages caused by the blight. Freeze-dried goods
+  return to favour, restaurants reduce menus, and the fishing industry sees a boom. Welfare
+  charities are stretched to breaking point.
+player_impact: None
+modern_impact: The article documents the societal impact of the blight on daily life, from
+  dietary changes to economic strain on welfare systems.
+legacy_weight: 2
 significance: low
+related_uuids:
+- e518e336-c9d3-597e-b22f-6747bd165cbc
+- b6bad842-f04e-5865-892e-cfeb17f2f5da
+- deca2e98-3214-58c6-a3a2-3cf6ed0dddc6
 ---
 
 In [[The]] Shadow of the Blight

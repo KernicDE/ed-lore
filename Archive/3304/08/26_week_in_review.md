@@ -4,27 +4,57 @@ title: Week in Review
 slug: week_in_review
 date: '3304-08-26'
 source: GitHub
+summary: Weekly summary covering the cancelled Aisling Duval wedding, the Alliance Crusader release, Supratech and Herculean Machines promoting new computer designs, Far God cultists disappearing, the Mars Tribune exposé on Congressman Morgan Unwin, the Betel faction conflict, and the Colonia hydroponics initiative.
+player_impact: None
+persons:
+- Aisling Duval
+- Jordan Rochester
+- Meera Callanach
+- Scorpio DeVorrow
+- Maddox Hurd
+- Micah Whitefield
+- Morgan Unwin
+- General Hollis
+- Diana VanCleef
 groups:
 - Alliance
+- Lakon Spaceways
+- Supratech
+- Herculean Machines
+- Federal Intelligence Agency
+- Mars Tribune
 - Colonia Council
-- Federal Congress
+- Silver Creative Network
+- Betel Free
 locations:
 - Colonia
+- Randgnid
+- Templar Barracks
 - Mars
-- Recent reports from the Betel
-- With
+- Betel
+- Carrier Enterprise
+- Warkushanui
+- Warkushanui Port
 topics:
 - construction
+- corporate expansion
 - crime
 - narcotics
 - ship
 - slavery
 - war
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+- religion
+modern_impact: This week spans political scandal, corporate rivalry, religious persecution, and factional warfare, illustrating the diverse challenges facing galactic civilisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 6ffabb44-eae5-526b-a1c5-4fdd043a1db8
+- d823734f-ec2c-58e6-923d-79a99f6d1619
+- 9b7efc43-c412-55ad-a2b0-3c04798a14bc
+- d9093b90-7659-5e5b-ac01-e545fe66530b
+- 0d1f99bd-b76b-5129-963f-0f95ca92769a
+- 6fbe3058-8050-50a0-b7d3-77484a809829
+- 249a170f-066b-542f-9e3d-757e4e249409
 ---
 
 Week in Review

@@ -4,26 +4,30 @@ title: Sirius Corp Makes Public Offer
 slug: sirius_corp_makes_public_offer
 date: '3304-10-26'
 source: GitHub
+summary: Sirius Corporation publicly offers to collaborate with engineer Ram Tah on Guardian-human technology development. CEO Li Yong-Rui pledges to guarantee Ram Tah's safety and use Sirius manufacturing capabilities to bring Guardian technology to the whole galaxy. Business analysts are divided, with some advising Ram Tah to accept for mass production and others warning Sirius seeks a monopoly. Repairs to Phoenix Base following the recent raid have been completed. Ram Tah has not responded.
+player_impact: None
+persons:
+- Li Yong-Rui
+- Ram Tah
 groups:
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Meene
-- Ram Tah
-- Repairs to his base in the Meene
-- Sirius
+- Phoenix Base
 topics:
 - corporate expansion
 - engineering
 - research
-- safety
-- war
 - xenoarchaeology
-arc_id: guardian-ancients
-modern_impact: Guardian site research expands scientific understanding of ancient
-  alien civilisations and their technology.
+modern_impact: Sirius's public offer places Ram Tah in a difficult position between potential mass distribution of Guardian technology and the risk of corporate monopoly, while the recent raid makes the safety argument particularly salient.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 520de874-db7b-58f1-90f9-0fe647f0c545
+- 03f0c663-1539-570c-83d1-603b698b9946
+- 0df0d175-26b5-54ca-a01f-15bcd364aca3
+- db332136-804c-58df-89f9-2ab0eef65d11
+- 30995800-a980-5b52-889e-1809f4bc9cee
 ---
 
 Sirius Corp Makes Public Offer

@@ -4,15 +4,20 @@ title: Merger Creates Mega Corporation
 slug: merger_creates_mega_corporation
 date: '3304-12-05'
 source: GitHub
+summary: Allied Medical Industries and Neosalve Inc. merge to form Neomedical Industries, one of the largest pharmaceutical companies in the galaxy. The new corporation will supply drugs, equipment, and services to both Alliance and independent systems, overseen by the Interstellar Health Organisation. Only the Vandermeer Corporation, which exclusively serves Federal territory, is of comparable size.
+player_impact: None
+persons: []
 groups:
-- Alliance
-locations:
-- Alliance and independent
+- Allied Medical Industries
+- Neosalve Inc.
+- Neomedical Industries
+- Interstellar Health Organisation
+- Vandermeer Corporation
+locations: []
 topics:
 - corporate expansion
 - medicine
-- narcotics
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The creation of Neomedical Industries reshapes the galactic pharmaceutical market, creating a major competitor to the Vandermeer Corporation and expanding medicine access across Alliance and independent space.
 legacy_weight: 2
 significance: low
 ---

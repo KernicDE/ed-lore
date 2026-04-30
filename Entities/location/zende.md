@@ -2,26 +2,28 @@
 id: zende
 name: Zende
 type: location
-first_seen_date: '3305-05-16'
+first_seen_date: '3305-05-09'
 last_seen_date: '3305-05-16'
-mention_count: 1
+mention_count: 2
 related_entities:
-- freya-taine-made
-- synuefe
+- zende-partners
+- synuefe-en-h-d11-96
+- segnen-exchange
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Zende
 
-First mentioned: **3305-05-16**  
+First mentioned: **3305-05-09**  
 Last mentioned: **3305-05-16**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Freya Taine made]] (1 co-mentions)
-- [[Synuefe]] (1 co-mentions)
+- [[Zende Partners]] (2 co-mentions)
+- [[Synuefe EN-H d11-96]] (2 co-mentions)
+- [[Segnen Exchange]] (1 co-mentions)
 
 ## Biography
 

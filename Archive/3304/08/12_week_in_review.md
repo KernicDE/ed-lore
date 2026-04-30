@@ -4,24 +4,51 @@ title: Week in Review
 slug: week_in_review
 date: '3304-08-12'
 source: GitHub
+summary: Weekly summary covering the disappearance of Riri McAllister's medical transport, Jarl Toredo's resignation from Unchain, further FIA arrests of Far God cultists, the malfunctioning mining robot in Beta Hydri, the Pleiades rescue operation, and the successful conclusion of Aranbarahun Purple Creative's cargo ship campaign.
+player_impact: None
+persons:
+- Riri McAllister
+- Jarl Toredo
+- Aisling Duval
+- Micah Whitefield
+- Sara Kulkarni
+- Chen Emerson
+- Marla Poulsen
+groups:
+- Alliance
+- League of Reparation
+- Unchain
+- Federal Intelligence Agency
+- Far God cult
+- MacArthur Mining Ltd
+- Aegis Research
+- Aranbarahun Purple Creative
 locations:
-- Homeland in the Beta Hydri
+- Beta Hydri
+- Homeland
 - Pleiades Nebula
+- Aranbarahun
+- Barnes Terminal
 topics:
 - alien contact
 - construction
 - crime
 - humanitarian
 - safety
-- ship
 - slavery
 - terrorism
 - trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+modern_impact: This week spans terrorism, political romance, religious persecution, industrial accidents, and humanitarian crises, reflecting the breadth of challenges facing galactic civilisation.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 633140ee-0862-53e1-adcf-f1eed4d5eb67
+- d1aacae5-010b-538a-9be7-f872eece9a07
+- f12c2ec4-bbcc-55f0-87ac-1594fe3eb363
+- a47511e4-11cb-57b4-b384-567a1452d38b
+- 1afd3193-1f8d-51ed-b04a-46317a5e1cae
+- b8029316-f01c-590a-9636-eb301fa8a07b
 ---
 
 Week in Review

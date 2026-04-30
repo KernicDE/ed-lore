@@ -4,16 +4,16 @@ title: Mamba and Krait Phantom Released
 slug: mamba_and_krait_phantom_released
 date: '3304-12-11'
 source: GitHub
+summary: Two new ships marketed toward independent pilots are released. Zorgon Peterson's Mamba is touted as the fastest commercially available starship with heavy weaponry hardpoints. Faulcon DeLacy's Krait Phantom offers multi-role capability with an impressive jump range for explorers.
+player_impact: Independent pilots can now purchase the Mamba and Krait Phantom from shipyards across the galaxy.
+persons: []
+groups:
+- Zorgon Peterson
+- Faulcon DeLacy
+locations: []
 topics:
-- alien contact
-- exploration
 - ship
-- sport
-- trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Mamba and Krait Phantom expand the available ship roster for independent pilots, offering new options for speed-focused combat and versatile exploration.
 legacy_weight: 5
 significance: high
 ---

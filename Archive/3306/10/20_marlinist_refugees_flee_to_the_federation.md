@@ -6,20 +6,36 @@ date: '3306-10-20'
 source: GitHub
 groups:
 - Alliance
+persons:
+- Imogen Luciana
+- Jordan Rochester
+- Edmund Mahon
+- Aisling Duval
 locations:
-- Marlinists have appeared in the Federal
-- Some independent
+- Charunder
+- Ennead
+- HIP 36081
+- LTT 1935
+- LTT 3607
+- Thetis
 topics:
-- crime
 - diplomacy
 - humanitarian
-- ship
 - terrorism
 - war
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
-legacy_weight: 3
-significance: medium
+summary: The Empire demands extradition of Marlinist refugees who fled to Federation space.
+  Federal Ambassador Rochester requests Congress grant them asylum. Prime Minister Mahon
+  confirms Alliance welcome. Some independent systems offer assistance.
+player_impact: None
+modern_impact: The refugee crisis escalates into an inter-superpower diplomatic dispute
+  over extradition and asylum.
+legacy_weight: 4
+significance: high
+related_uuids:
+- faa5ef02-8da5-512b-a56c-8647996a10f9
+- ab9fd6d4-7ecb-566c-b306-7812dfdd30e4
+- 8492d17d-2813-5b47-9b39-485a2ef6ed98
+- 5d9ab4ba-65c3-50f9-9c27-cfbc9bd2f078
 ---
 
 [[Marlinist]] Refugees Flee to [[The]] Federation

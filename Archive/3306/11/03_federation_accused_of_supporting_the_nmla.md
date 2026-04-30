@@ -5,22 +5,19 @@ slug: federation_accused_of_supporting_the_nmla
 date: '3306-11-03'
 source: GitHub
 groups:
-- IISS
 - Imperial Internal Security Service
-locations:
-- Federal
-- LTT 1935 and HIP 36081
+persons:
 - Liz Ryder
+- Jordan Rochester
+- Imogen Luciana
 topics:
-- alien contact
-- construction
-- engineering
 - humanitarian
-- sport
 - terrorism
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: The Empire reveals evidence suggesting the NMLA may be receiving help from
+  Federal elements, while Federal systems struggle with an influx of Marlinist refugees.
+player_impact: None
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 4
 significance: high
 ---

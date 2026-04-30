@@ -6,19 +6,33 @@ date: '3306-10-22'
 source: GitHub
 groups:
 - Pilots Federation
+- Safeguard Interstellar
+- Fionn Liberals
+persons:
+- Noel Beaumont
 locations:
-- Federal
-- Fox Enterprise in the LFT 625
 - LFT 625
+- Charunder
+- Ennead
+- HIP 36081
+- LTT 1935
+- LTT 3607
+- Thetis
 topics:
-- corporate expansion
 - humanitarian
-- medicine
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: Safeguard Interstellar requests deliveries of basic medicines, clothing, food,
+  and evacuation shelters for Marlinist refugees in Federal systems. Bounty vouchers in
+  LFT 625 are also offered.
+player_impact: Pilots can deliver supplies to Fox Enterprise in LFT 625 and collect bounty
+  rewards.
+modern_impact: The Federal charity initiative provides immediate relief but highlights the
+  strain on Federal infrastructure.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 20fdf55d-94b0-55c6-9c70-4c26b0dbc494
+- 8492d17d-2813-5b47-9b39-485a2ef6ed98
+- 66533e5e-84fe-5ef9-ba16-bfd3323fb2e9
 ---
 
 Federal Initiative to Support [[Marlinist]] Refugees

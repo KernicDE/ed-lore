@@ -4,22 +4,27 @@ title: Far God Campaign
 slug: far_god_campaign
 date: '3304-08-31'
 source: GitHub
-entities:
+summary: The Far God sect issues a request for Thargoid materials, approaching LHS 2541 Alliance Combine to facilitate collection. Chancellor Reegan Tanner states the materials will be revered as objects of worship and not used for xenobiological experiments. An open order is placed for various Thargoid materials to be delivered to Wheelock Ring in the Zavijah system, with a kill order on wanted ships to protect traders.
+player_impact: Independent pilots can deliver Thargoid materials to Wheelock Ring in the Zavijah system. The campaign runs for one week.
+persons:
 - Reegan Tanner
 groups:
-- Alliance
+- LHS 2541 Alliance Combine
+- Far God cult
 locations:
-- Wheelock Ring in the Zavijah
+- Zavijah
+- Wheelock Ring
 topics:
 - alien contact
-- ship
 - trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+modern_impact: The Far God campaign for Thargoid materials demonstrates the sect's determination to maintain its religious practices despite persecution, while also raising questions about what the cult intends to do with the collected items.
 legacy_weight: 5
 significance: high
+related_uuids:
+- d9093b90-7659-5e5b-ac01-e545fe66530b
+- e4fb6ad7-f741-5fae-8ab7-908e733f3c83
+- fcdf5858-98a9-5b6b-b18d-09ec75b74c49
 ---
 
 [[Far]] God Campaign

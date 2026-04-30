@@ -4,20 +4,31 @@ title: Initiative to Counter Poor Harvests
 slug: initiative_to_counter_poor_harvests
 date: '3305-10-10'
 source: GitHub
-entities:
+groups:
+- Crimson State Limited
+- Orerve Universal Limited
+- Interstellar Association for Agriculture
+persons:
 - Genevieve Kane
 locations:
 - Diso
-- Orerve Universal Limited in the Orerve
-- Shifnalport in the Diso
-- Watson Station in the Orerve
+- Orerve
 topics:
-- medicine
-- research
 - trade
-modern_impact: Trade initiative affecting commodity markets.
-legacy_weight: 2
-significance: low
+- research
+summary: Coordinated trade initiatives launch in Diso and Orerve to mitigate crop yield
+  losses. The IAA suspects a new form of blight is responsible for rapid crop degeneration.
+  Traders deliver pesticides, synthetic reagents and grain.
+player_impact: Pilots deliver pesticides, synthetic reagents and grain to Shifnalport in
+  Diso and Watson Station in Orerve.
+modern_impact: The early trade initiatives provide temporary relief but prove insufficient
+  against the rapidly spreading blight.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 4d8fd141-53f1-5011-b749-c18bd1a057ca
+- e518e336-c9d3-597e-b22f-6747bd165cbc
+- 52de8894-6950-5b13-aa2a-ec35620347ce
 ---
 
 Initiative to Counter Poor Harvests

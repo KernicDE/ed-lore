@@ -4,20 +4,29 @@ title: Supplies for Marlinist Refugees Successfully Delivered
 slug: supplies_for_marlinist_refugees_successfully_delivered
 date: '3306-10-29'
 source: GitHub
-entities:
+groups:
+- Safeguard Interstellar
+- Fionn Liberals
+persons:
+- Noel Beaumont
 - Jenna Fairfax
 locations:
-- Charunder and Ennead
-- Fox Enterprise in the LFT 625
+- LFT 625
+- Charunder
+- Ennead
+- LTT 3607
 topics:
-- corporate expansion
 - humanitarian
-- medicine
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: Safeguard Interstellar successfully delivers supplies for Marlinist refugees
+  in Federal systems. Dr. Jenna Fairfax thanks contributing pilots.
+player_impact: Contributing pilots can collect rewards at Fox Enterprise in LFT 625.
+modern_impact: The successful delivery ensures short-term refugee survival while they await
+  congressional state support.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- ab9fd6d4-7ecb-566c-b306-7812dfdd30e4
+- 8492d17d-2813-5b47-9b39-485a2ef6ed98
 ---
 
 Supplies for [[Marlinist]] Refugees Successfully Delivered

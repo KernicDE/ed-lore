@@ -4,25 +4,27 @@ title: Enclave Established in Witch Head Nebula
 slug: enclave_established_in_witch_head_nebula
 date: '3305-07-31'
 source: GitHub
-entities:
+persons:
 - Alba Tesreau
+- Aden Tanner
 groups:
 - Aegis
 - Alliance
 locations:
-- Aegis
 - Witch Head Nebula
 topics:
 - alien contact
 - construction
 - research
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: Independent pilots successfully repel Thargoid forces from the Witch Head Nebula, allowing the Alliance, Empire and Federation to establish an official human enclave with shared colonial assets.
+player_impact: Pilots fought Thargoid forces and were later asked to support repair efforts for damaged starports in the region.
+modern_impact: The Witch Head Enclave became humanity's second major foothold in Thargoid territory, securing an alternative source of meta-alloys and demonstrating that coordinated pilot efforts could achieve decisive victories.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 969713a8-6dbf-548c-9ce4-4d33ba1f321a
 ---
 
 Enclave Established in [[Witch Head Nebula]]
@@ -32,12 +34,12 @@ Recent reports from [[The]] [[Witch Head]] Nebula indicate that the [[Thargoid]]
 
 Admiral Aden Tanner, chief military liaison for Aegis, said: 
 
-“Humanity has achieved a decisive victory in the Witch Head Nebula. Significant numbers of Thargoid vessels were destroyed in the conflict, even as [[Many]] independent pilots were lost. [[But the]] sacrifice of these brave souls was not in vain, for the enemy has been forced to withdraw.” 
+"Humanity has achieved a decisive victory in the Witch Head Nebula. Significant numbers of Thargoid vessels were destroyed in the conflict, even as [[Many]] independent pilots were lost. [[But the]] sacrifice of these brave souls was not in vain, for the enemy has been forced to withdraw." 
 
-“While the threat of occasional incursions from Thargoid craft remains, [[Our]] colonial assets have been firmly established in the region.” 
+"While the threat of occasional incursions from Thargoid craft remains, [[Our]] colonial assets have been firmly established in the region." 
 
 Professor [[Alba Tesreau]] of Aegis Research looked to the future: 
 
-“The [[Alliance]], Empire and Federation have declared that the Witch Head Nebula is now an official enclave of humanity – a region that their joint efforts have enabled them to share equally.” 
+"The [[Alliance]], Empire and Federation have declared that the Witch Head Nebula is now an official enclave of humanity – a region that their joint efforts have enabled them to share equally." 
 
-“But the damage inflicted on our new starports must be repaired before we can harvest the barnacle sites in the area. Independent pilots have already given so much, and for that I am humbled and thankful. And yet, we must ask for [[One]] last favour: to support the repair of these starports.”
+"But the damage inflicted on our new starports must be repaired before we can harvest the barnacle sites in the area. Independent pilots have already given so much, and for that I am humbled and thankful. And yet, we must ask for [[One]] last favour: to support the repair of these starports."

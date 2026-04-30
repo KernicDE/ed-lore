@@ -4,17 +4,29 @@ title: Further Migration to Witch Head Nebula
 slug: further_migration_to_witch_head_nebula
 date: '3305-08-06'
 source: GitHub
-locations:
+groups:
+- Pilots Federation
+persons:
 - Chloe Sedesi
+- Ishmael Palin
+- Leon Banerjee
+locations:
 - Witch Head Nebula
+- Witch Head Sector DL-Y d17
 topics:
-- construction
+- exploration
 - engineering
-- research
-- trade
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 2
-significance: low
+summary: Engineer Chloe Sedesi, former apprentice of Professor Ishmael Palin, migrates to
+  the Witch Head Nebula to establish an engineering facility at Cinder Dock. The enclave
+  attracts thousands seeking a fresh start.
+player_impact: Pilots can access engineering services at Cinder Dock similar to those at
+  the Palin Research Centre.
+modern_impact: Sedesi's migration expands engineering services into the Witch Head Enclave,
+  supporting the growing colonist population and anti-xeno efforts.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 298ae736-9888-54ac-ae55-b659be222a8b
 ---
 
 [[Further]] Migration to [[Witch Head Nebula]]

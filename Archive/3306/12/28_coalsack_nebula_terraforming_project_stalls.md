@@ -6,21 +6,23 @@ date: '3306-12-28'
 source: API
 groups:
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-locations:
-- Sirius
+- Sirius Atmospherics
+persons:
+- Maximilian North
+- Flint 'Firemaker' Lafosse
 topics:
-- alien contact
 - corporate expansion
 - exploration
-- investigation
 - research
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 4
-significance: high
+summary: Sirius Atmospherics reports that preliminary terraforming efforts in the Coalsack
+  Nebula are less effective than simulated, though the Alliance confirms increased personnel
+  and equipment deployments to the region.
+player_impact: None
+modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand human
+  habitation into previously hostile environments.
+legacy_weight: 2
+significance: low
 ---
 
 Sirius Atmospherics has delivered an update on [[Its]] experiments to terraform ammonia worlds in [[The]] [[Coalsack Nebula]].

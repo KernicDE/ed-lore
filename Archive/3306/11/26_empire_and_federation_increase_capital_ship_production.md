@@ -4,24 +4,33 @@ title: Empire and Federation Increase Capital Ship Production
 slug: empire_and_federation_increase_capital_ship_production
 date: '3306-11-26'
 source: GitHub
-entities:
-- Zachary Hudson
 groups:
 - Federal Navy
 - Imperial Navy
 - Imperial Senate
 - Pilots Federation
+persons:
+- Zachary Hudson
+- Denton Patreus
 locations:
-- Miyasaka Orbital in the Mandh
-- Schweickart City in the Parutis
+- Parutis
+- Mandh
 topics:
 - construction
 - ship
-- trade
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: Both the Federal and Imperial Navies request commodities for constructing new
+  capital ships. President Hudson advances Farragut-class Battle Cruiser construction,
+  while Senator Patreus announces new Majestic-class Interdictors.
+player_impact: Pilots can deliver building fabricators, microbial furnaces and energy
+  grid assemblies to Schweickart City in Parutis and Miyasaka Orbital in Mandh.
+modern_impact: The capital ship arms race between Empire and Federation escalates military
+  tensions and sets the stage for potential open conflict.
+legacy_weight: 4
+significance: high
+related_uuids:
+- a8b6f811-b9f8-58f0-9df9-821f2cf90668
+- d1d08497-4af0-570f-8be8-dee3c1c8b6fb
 ---
 
 Empire and Federation Increase Capital Ship Production

@@ -1,5 +1,5 @@
 ---
-uuid: 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
+uuid: ac92b027-9c2d-582d-af18-eac48e474be8
 title: Fears Rise of Thargoid Expansion
 slug: fears_rise_of_thargoid_expansion
 date: '3308-08-27'

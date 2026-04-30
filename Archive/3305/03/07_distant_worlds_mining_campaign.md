@@ -4,20 +4,27 @@ title: Distant Worlds Mining Campaign
 slug: distant_worlds_mining_campaign
 date: '3305-03-07'
 source: GitHub
-entities:
+persons:
 - Kaii
+groups:
+- Deep Space Surveys
 locations:
-- Beagle Point
+- Stuemeae FG-Y d7561
 - Explorer's Anchorage
 - Sagittarius A*
+- Beagle Point
 topics:
 - construction
 - exploration
 - research
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: The Distant Worlds II expedition requests bauxite, water and liquid oxygen to build a megaship and scientific installation near Sagittarius A* in the Stuemeae FG-Y d7561 system.
+player_impact: Pilots could deliver construction materials to Explorer's Anchorage and earn bounty vouchers for protecting miners.
+modern_impact: The campaign established the infrastructure for humanity's first permanent scientific presence in the Galactic Centre, enabling long-term study of the supermassive black hole.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 2fe7d0b8-beb9-5bd0-9142-90ec74d15b9e
+- 432f9416-f1fb-55a0-89b9-82607b354d65
 ---
 
 [[Distant Worlds]] Mining Campaign
@@ -29,7 +36,7 @@ The exploration fleet aims to build a megaship and installation in the [[Stuemea
 
 Dr [[Kaii]], Fleet Liaison for Deep Space Surveys, explained: 
 
-“[[This]] installation will be a place for scientists to study the supermassive black hole at Sagittarius A*. Future explorers visiting the station will be well looked after by Deep Space Surveys, to whom we will hand the keys before continuing to [[Beagle Point]].” 
+"[[This]] installation will be a place for scientists to study the supermassive black hole at Sagittarius A*. Future explorers visiting the station will be well looked after by Deep Space Surveys, to whom we will hand the keys before continuing to [[Beagle Point]]." 
 
 Bauxite, water and liquid oxygen should be delivered to [[Explorer's Anchorage]] in the Stuemeae FG-Y d7561 system. To protect contributors, Deep Space Surveys has authorised bounty vouchers for all wanted vessels. 
 

@@ -4,18 +4,24 @@ title: Revelation Halts Starship One Trial
 slug: revelation_halts_starship_one_trial
 date: '3306-10-05'
 source: GitHub
-entities:
-- Rory Webster
 groups:
 - Federal Times
+persons:
+- Rory Webster
+- Ethan Takahashi
 topics:
 - crime
-- engineering
-- safety
-- ship
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 1
-significance: low
+summary: Chief Technician Rory Webster changes his plea to guilty in the Starship One
+  trial, claiming he acted on "orders from the top." The trial is suspended while the
+  FIA takes his testimony.
+player_impact: None
+modern_impact: The confession threatens to expose high-level conspiracy in the Starship
+  One sabotage, with major political implications for the Federation.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 4f96cfbb-f728-56e8-bf9b-47d8cc627884
+- 385e8b96-3821-5f0e-b640-c9d22e29b7a0
 ---
 
 Revelation Halts Starship [[One]] Trial

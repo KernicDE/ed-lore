@@ -4,12 +4,22 @@ title: Famous Author Missing
 slug: famous_author_missing
 date: '3304-11-11'
 source: GitHub
+summary: Author Olav Redcourt, creator of the bestselling Corsair King series, is reported missing by family and colleagues. Police have failed to determine his whereabouts. Redcourt recently terminated his relationship with publisher Bonespire Publishing during a promotional tour. Bonespire suggests he is avoiding a multi-million credit contract violation fine, while literary critic Kayla Shah speculates about obsessed fans.
+player_impact: None
+persons:
+- Olav Redcourt
+- Kayla Shah
+groups:
+- Bonespire Publishing
+locations: []
 topics:
 - investigation
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- culture
+modern_impact: Redcourt's disappearance sparks public fascination and highlights the sometimes dangerous relationship between bestselling authors and their most obsessive readers.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 4f8a3775-4a85-53e6-b107-a1946b857d3a
 ---
 
 Famous Author [[Missing]]

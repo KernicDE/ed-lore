@@ -4,13 +4,13 @@ name: Meene
 type: location
 first_seen_date: '3303-01-23'
 last_seen_date: '3310-07-06'
-mention_count: 22
+mention_count: 24
 related_entities:
-- ram-tah
+- meene-defence-force
+- phoenix-base
 - sirius-corporation
-- aegis
 - mars
-- federal-security-service
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3303-01-23**  
 Last mentioned: **3310-07-06**  
-Total mentions: **22**
+Total mentions: **24**
 
 ## Related
 
-- [[Ram Tah]] (16 co-mentions)
-- [[Sirius Corporation]] (9 co-mentions)
+- [[Meene Defence Force]] (11 co-mentions)
+- [[Phoenix Base]] (11 co-mentions)
+- [[Sirius Corporation]] (11 co-mentions)
+- [[Mars]] (6 co-mentions)
 - [[Aegis]] (6 co-mentions)
-- [[Mars]] (4 co-mentions)
-- [[Federal Security Service]] (3 co-mentions)
 
 ## Biography
 

@@ -7,18 +7,25 @@ source: GitHub
 groups:
 - Imperial Internal Security Service
 - Pilots Federation
+- Regulatory State of Ackwada
+- Duduseklis Empire League
+locations:
+- Ackwada
 topics:
-- crime
-- humanitarian
-- investigation
-- safety
-- ship
-- succession
 - terrorism
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+- humanitarian
+summary: The Empire targets the Duduseklis Empire League in Ackwada, suspecting it of
+  NMLA recruitment. The faction resists, seeking to transport political refugees to safety.
+player_impact: Pilots were asked to assist the Regulatory State of Ackwada in defeating
+  pro-Marlinist forces.
+modern_impact: The Empire begins systematically targeting Marlinist factions, triggering
+  a refugee crisis.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 65171baf-8d7e-55c3-9b89-58d71be9ae4f
+- faa5ef02-8da5-512b-a56c-8647996a10f9
 ---
 
 Military Strike Against [[Marlinist]] Faction

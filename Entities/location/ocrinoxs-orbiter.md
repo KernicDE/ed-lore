@@ -8,7 +8,7 @@ mention_count: 6
 related_entities:
 - munshin
 - libertas-cooperative
-- land-enrichment
+- munshin-manatee-meat
 - quade-munshin-announces-plan
 - pilots-federation
 ---
@@ -23,9 +23,9 @@ Total mentions: **6**
 
 ## Related
 
-- [[Munshin]] (5 co-mentions)
+- [[Munshin]] (6 co-mentions)
 - [[Libertas Cooperative]] (5 co-mentions)
-- [[Land enrichment]] (2 co-mentions)
+- [[Munshin Manatee Meat]] (2 co-mentions)
 - [[Quade Munshin Announces Plan]] (1 co-mentions)
 - [[Pilots Federation]] (1 co-mentions)
 

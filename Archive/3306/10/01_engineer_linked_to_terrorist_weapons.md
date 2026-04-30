@@ -7,20 +7,30 @@ source: GitHub
 groups:
 - Imperial Internal Security Service
 - Pilots Federation
+- Eurybia Blue Mafia
+- Keltim Empire League
+persons:
+- Liz Ryder
+- Ana Westergard
+- Rocco Gandara
 locations:
 - Eurybia
-- Liz Ryder
 topics:
-- construction
-- engineering
-- independence
-- research
-- safety
 - terrorism
 - war
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 1
-significance: low
+- engineering
+summary: The Imperial Internal Security Service links explosives used in terrorist attacks
+  on Imperial starports to engineer Liz Ryder, protected by the Eurybia Blue Mafia.
+  The IISS declares war on the anarchist faction to capture her.
+player_impact: Pilots were asked to support the Keltim Empire League against the Eurybia
+  Blue Mafia.
+modern_impact: Liz Ryder's connection to NMLA explosives becomes a major plot point in
+  the Imperial counter-terrorism campaign.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 6c20fb73-67c1-5125-843a-a36144e66696
+- ac1ee566-f2a3-5093-9d2a-ba2fe98f7346
 ---
 
 Engineer Linked to Terrorist Weapons

@@ -4,19 +4,24 @@ title: Unusual Energy Signatures Detected
 slug: unusual_energy_signatures_detected
 date: '3304-08-29'
 source: GitHub
-locations:
+summary: Engineer Ram Tah identifies three unusual energy signatures originating from the NGC 2451A sector, the IC 2391 sector, and the Synuefe EN-H region. He states they are of a similar nature but their meaning remains a mystery, and encourages independent pilots operating in these regions to investigate.
+player_impact: Pilots can investigate the three sectors for the source of the energy signatures.
+persons:
 - Ram Tah
-- Synuefe
+groups: []
+locations:
+- NGC 2451A sector
+- IC 2391 sector
+- Synuefe EN-H
 topics:
-- engineering
 - exploration
 - investigation
 - research
-- ship
-- war
-modern_impact: Engineering developments offer pilots new ship customisation options.
+modern_impact: Ram Tah's detection of anomalous energy signatures opens a new line of scientific inquiry and may lead to discoveries about unknown phenomena or structures in the galaxy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e783725b-8d86-5738-8724-b2a1ffaf6f73
 ---
 
 Unusual Energy Signatures Detected

@@ -4,26 +4,47 @@ title: Week in Review
 slug: week_in_review
 date: '3304-09-09'
 source: GitHub
-entities:
+summary: Weekly summary covering the Alliance Assembly's agreement to vote on Kincaid's constitutional changes, the fire destroying Supratech's facility, increased FIA arrests of Thargoid sympathisers and missing Far God worshippers, the Gnosis being stranded after Thargoid hyperdiction, the Mars Tribune's exposé of Tomas Turai's affair, and the successful Far God materials campaign.
+player_impact: None
+persons:
 - Reegan Tanner
+- Gibson Kincaid
+- Scorpio DeVorrow
+- Micah Whitefield
+- Mathius Leander
+- Tomas Turai
+- Jupiter Rochester
+- Gethin Okonkwo
+- Alfred Ulyanov
 groups:
 - Alliance
-- Canonn
 - Canonn Interstellar Research Group
+- Supratech
+- Federal Intelligence Agency
+- Mars Tribune
+- Far God cult
 locations:
-- Jupiter
 - Mars
+- Jupiter
+- Outotz ST-I d9-6
+- Zavijah
 topics:
 - alien contact
 - corporate expansion
 - investigation
 - research
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+- religion
+modern_impact: This week sees political, corporate, and existential crises converging across the galaxy, from constitutional challenges to Thargoid attacks and mass disappearances.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 335e624b-d8a1-5e75-b0a9-bd888c9b9e2e
+- a0727980-09f7-5908-b180-38abb526af92
+- 85465ae8-96be-5dd6-8991-7f4482177f76
+- 01ba0e4a-721d-5556-a7c4-445b0742f470
+- bf7e0803-3232-5106-beda-5e9cbfd0234e
+- b280e325-1aa5-5bb7-98d4-e8391cbe9f45
 ---
 
 Week in Review

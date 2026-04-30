@@ -4,22 +4,29 @@ title: Alliance Presidential Gala
 slug: alliance_presidential_gala
 date: '3304-09-07'
 source: GitHub
-entities:
+summary: The Alioth Independents announce a gala event in the Alioth system to officially begin the Alliance presidential election. Chairman Durien Ballas confirms Prime Minister Edmund Mahon and three Council of Admirals members will attend. An open order is placed for Esuseku Caviar, Ceremonial Heike Tea, and Live Hecate Sea Worms to be delivered to Smith Landing in the Amber system.
+player_impact: Independent pilots can deliver exotic commodities to Smith Landing in the Amber system and earn rewards. The campaign runs for one week.
+persons:
 - Edmund Mahon
 - Gibson Kincaid
+- Durien Ballas
 groups:
+- Alioth Independents
 - Alliance
 locations:
 - Alioth
-- Smith Landing in the Amber
+- Amber
+- Smith Landing
 topics:
-- ship
+- festival
 - trade
-- war
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+- politics
+modern_impact: The gala initiative uses community participation to generate enthusiasm for the Alliance presidential election while showcasing the Alliance's cultural and diplomatic institutions.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 335e624b-d8a1-5e75-b0a9-bd888c9b9e2e
+- 85671224-8822-5716-bb08-0e7ac30ff584
 ---
 
 [[Alliance]] Presidential Gala

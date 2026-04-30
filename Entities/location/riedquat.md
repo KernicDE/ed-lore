@@ -6,11 +6,11 @@ first_seen_date: '3305-09-18'
 last_seen_date: '3305-10-22'
 mention_count: 3
 related_entities:
-- genevieve-kane
-- mars
+- rockforth-corporation
+- interstellar-association-for-agriculture
+- lakon-spaceways
+- teveri-progressive-party
 - diso
-- lave
-- kappa-fornacis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **3**
 
 ## Related
 
-- [[Genevieve Kane]] (2 co-mentions)
-- [[Mars]] (1 co-mentions)
+- [[Rockforth Corporation]] (3 co-mentions)
+- [[Interstellar Association for Agriculture]] (2 co-mentions)
+- [[Lakon Spaceways]] (1 co-mentions)
+- [[Teveri Progressive Party]] (1 co-mentions)
 - [[Diso]] (1 co-mentions)
-- [[Lave]] (1 co-mentions)
-- [[Kappa Fornacis]] (1 co-mentions)
 
 ## Biography
 

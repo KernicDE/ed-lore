@@ -2,8 +2,8 @@
 id: salome-conspiracy
 name: Salome Conspiracy
 first_seen_date: '3303-03-02'
-last_seen_date: '3304-12-07'
-mention_count: 7
+last_seen_date: '3303-05-04'
+mention_count: 6
 significance: medium
 key_entities:
 - kahina-tijani-loren
@@ -18,8 +18,8 @@ key_entities:
 # Salome Conspiracy
 
 First seen: **3303-03-02**  
-Last seen: **3304-12-07**  
-Articles: **7**
+Last seen: **3303-05-04**  
+Articles: **6**
 
 ## Key Figures
 

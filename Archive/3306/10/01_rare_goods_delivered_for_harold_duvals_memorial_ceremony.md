@@ -6,19 +6,22 @@ date: '3306-10-01'
 source: GitHub
 groups:
 - Pilots Federation
+persons:
+- Aisling Duval
 locations:
 - Achenar
 - Capitol
-- Imperial Palace
 topics:
-- corporate expansion
-- ship
-- terrorism
-- trade
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+- humanitarian
+summary: Rare goods are delivered for Prince Harold Duval's memorial ceremony at the
+  Imperial Palace on Capitol. Princess Aisling Duval thanks contributors and vows to
+  support anti-terrorist efforts.
+player_impact: Pilots who delivered rare goods can collect rewards at Oterma Station in
+  Baal. Gutamaya ships are discounted for one week.
+modern_impact: The memorial cements public grief and anti-NMLA sentiment, with Aisling
+  Duval positioning herself as a voice against terrorism.
+legacy_weight: 3
+significance: medium
 ---
 
 Rare Goods Delivered for Harold Duval’s Memorial Ceremony

@@ -4,19 +4,30 @@ title: Candidates for Alliance Presidency Announced
 slug: candidates_for_alliance_presidency_announced
 date: '3304-09-14'
 source: GitHub
-entities:
+summary: The Alliance presidential candidates are announced. Journalist Vanya Driscoll profiles Fazia Silva, a successful entrepreneur from the Vamm system who delegates her corporate empire to her sister to focus on boosting trade; and Elijah Beck, an experienced politician from Leesti with over four decades in the Assembly. Incumbent Gibson Kincaid seeks re-election. Polls suggest the three are roughly equal in support, with voting on October 16th.
+player_impact: None
+persons:
 - Gibson Kincaid
+- Fazia Silva
+- Elijah Beck
+- Vanya Driscoll
+- Tashmira Silva
 groups:
 - Alliance
+- Alliance Tribune
 locations:
-- Hailing from the Leesti
+- Vamm
 - Leesti
 topics:
-- corporate expansion
-- trade
-modern_impact: Trade initiative affecting commodity markets.
+- politics
+modern_impact: The announcement of three competitive candidates transforms the Alliance presidential race into a genuine contest of ideas, with voters choosing between status quo, commerce, and executive expansion.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 335e624b-d8a1-5e75-b0a9-bd888c9b9e2e
+- 46a4e0b4-2083-57ba-8f88-c4c2cca39367
+- 4c33cc73-d588-59a5-b80d-fe0c6e76f665
+- a950b069-65d4-569a-b55c-6ce84123e10e
 ---
 
 Candidates for [[Alliance]] Presidency Announced

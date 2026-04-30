@@ -8,7 +8,8 @@ mention_count: 3
 related_entities:
 - utopia
 - sirius-corporation
-- katrien-rook-claims
+- vitadyne-labs
+- interstellar-health-organisation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,7 +24,8 @@ Total mentions: **3**
 
 - [[Utopia]] (3 co-mentions)
 - [[Sirius Corporation]] (2 co-mentions)
-- [[Katrien Rook claims]] (1 co-mentions)
+- [[Vitadyne Labs]] (1 co-mentions)
+- [[Interstellar Health Organisation]] (1 co-mentions)
 
 ## Biography
 

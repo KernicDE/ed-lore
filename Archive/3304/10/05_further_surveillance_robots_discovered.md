@@ -4,17 +4,31 @@ title: Further Surveillance Robots Discovered
 slug: further_surveillance_robots_discovered
 date: '3304-10-05'
 source: GitHub
+summary: "The Federal Security Service discovers five more PA912 administration robots manufactured by Achilles Corporation containing hidden surveillance programs. Lieutenant Inspector Ramesh Thorne leads the investigation. Two owners are identified: Don Zhao, CEO of Kuiper Mining Inc., and Anya Blackriver, a public-relations consultant. Achilles Corporation claims the illegal surveillance has nothing to do with them."
+player_impact: None
+persons:
+- Ramesh Thorne
+- Don Zhao
+- Anya Blackriver
 groups:
 - Federal Security Service
+- Achilles Corporation
+- Kuiper Mining Inc.
 locations:
 - Olympus Village
+- San Francisco
+- Columbus Station
 topics:
-- corporate expansion
 - crime
 - investigation
-modern_impact: GalNet community report documenting current events in the galaxy.
+- corporate expansion
+modern_impact: The discovery of additional spy robots reveals a widespread surveillance network affecting prominent Federal citizens, intensifying scrutiny of Achilles Corporation and raising concerns about corporate accountability.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 4b01bbee-1a74-58eb-ab76-9cdc3693800a
+- 662535a6-f967-55f6-bd3e-2d774afb341a
+- 42ef6025-276f-5d89-b735-6c4cb293e6fb
 ---
 
 [[Further]] Surveillance Robots Discovered

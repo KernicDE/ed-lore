@@ -1,5 +1,5 @@
 ---
-uuid: 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
+uuid: 4532b03c-7c25-52f3-af5f-9ac74b054a34
 title: Azimuth Divides Media Opinion
 slug: azimuth_divides_media_opinion
 date: '3308-08-05'

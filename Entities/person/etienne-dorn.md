@@ -1,0 +1,23 @@
+---
+id: etienne-dorn
+name: Etienne Dorn
+type: person
+first_seen_date: '3304-08-29'
+last_seen_date: '3304-08-29'
+mention_count: 1
+---
+
+<!-- AUTO-GENERATED -->
+
+# Etienne Dorn
+
+First mentioned: **3304-08-29**  
+Last mentioned: **3304-08-29**  
+Total mentions: **1**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

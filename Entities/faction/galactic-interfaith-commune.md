@@ -2,32 +2,32 @@
 id: galactic-interfaith-commune
 name: Galactic Interfaith Commune
 type: faction
-first_seen_date: '3308-08-16'
+first_seen_date: '3304-08-10'
 last_seen_date: '3308-09-26'
-mention_count: 2
+mention_count: 6
 related_entities:
-- hip-22460
 - far-god-cult
-- order-of-the-far-god
-- federal-navy-intelligence-office
-- advocacy
+- federal-intelligence-agency
+- spiritual-freedom-movement
+- hip-22460
+- federal-congress
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Galactic Interfaith Commune
 
-First mentioned: **3308-08-16**  
+First mentioned: **3304-08-10**  
 Last mentioned: **3308-09-26**  
-Total mentions: **2**
+Total mentions: **6**
 
 ## Related
 
+- [[Far God cult]] (5 co-mentions)
+- [[Federal Intelligence Agency]] (3 co-mentions)
+- [[Spiritual Freedom Movement]] (2 co-mentions)
 - [[HIP 22460]] (2 co-mentions)
-- [[Far God cult]] (1 co-mentions)
-- [[Order of the Far God]] (1 co-mentions)
-- [[Federal Navy Intelligence Office]] (1 co-mentions)
-- [[Advocacy]] (1 co-mentions)
+- [[Federal Congress]] (1 co-mentions)
 
 ## Biography
 

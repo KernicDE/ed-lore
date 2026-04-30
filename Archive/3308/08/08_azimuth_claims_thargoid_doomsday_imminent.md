@@ -1,5 +1,5 @@
 ---
-uuid: 1a8f5a0b-8f5d-4c3e-7d2b-1a8f5a0b8f5d
+uuid: b8b1752e-3808-5805-a594-5fb18505ae4e
 title: Azimuth Claims Thargoid Doomsday Imminent
 slug: azimuth_claims_thargoid_doomsday_imminent
 date: '3308-08-08'

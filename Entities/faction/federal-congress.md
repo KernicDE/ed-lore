@@ -10,7 +10,7 @@ related_entities:
 - alliance
 - proactive-detection-bureau
 - federal-navy
-- imperial-senate
+- federal-intelligence-agency
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **40**
 ## Related
 
 - [[Sol]] (19 co-mentions)
-- [[Alliance]] (14 co-mentions)
+- [[Alliance]] (13 co-mentions)
 - [[Proactive Detection Bureau]] (12 co-mentions)
 - [[Federal Navy]] (9 co-mentions)
-- [[Imperial Senate]] (8 co-mentions)
+- [[Federal Intelligence Agency]] (8 co-mentions)
 
 ## Biography
 

@@ -4,20 +4,36 @@ title: The Silence of Aisling Duval
 slug: the_silence_of_aisling_duval
 date: '3304-08-30'
 source: GitHub
-entities:
-- Arissa
-- Hudson breathing sighs
+summary: The date of Princess Aisling Duval's wedding to Jordan Rochester passes without comment from either party. Solomon Helios reports public reactions range from outrage to delight, with Jasmina Halsey calling it a lost opportunity for peace and Zemina Torval calling it the mercy killing of a catastrophically bad idea. Neither the Imperial Palace nor the White House comments. Jarl Toredo has vanished from public sight, and both the Rochester family and Aisling Duval remain silent.
+player_impact: None
+persons:
+- Aisling Duval
+- Jordan Rochester
+- Jarl Toredo
+- Solomon Helios
+- Jasmina Halsey
+- Zemina Torval
+- Arissa Lavigny-Duval
+- Zachary Hudson
+- Isolde Rochester
+groups:
+- Imperial Herald
 locations:
 - Imperial Palace
 - Sol
 - White House
+- Emerald
+- Capitol
 topics:
-- humanitarian
-- ship
-- succession
-modern_impact: Ship review and release information for the pilot community.
+- slavery
+- politics
+modern_impact: The silence from all parties following the cancelled wedding leaves the true nature of the Duval-Rochester relationship an enduring mystery, while political observers speculate on the fallout for cross-superpower diplomacy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 6ffabb44-eae5-526b-a1c5-4fdd043a1db8
+- aed37642-53f2-57d4-9e1f-a49aa8ca8b77
+- d1aacae5-010b-538a-9be7-f872eece9a07
 ---
 
 [[The]] Silence of [[Aisling Duval]]

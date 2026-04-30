@@ -4,20 +4,27 @@ title: Inquiry into Starship One’s Destruction Concludes
 slug: inquiry_into_starship_ones_destruction_concludes
 date: '3306-09-12'
 source: GitHub
-entities:
-- Jasmina Halsey
 groups:
 - Federal Navy
-locations:
-- Frame Shift Drive
+- Federal Attorney's Office
+persons:
+- Jasmina Halsey
+- Milandu Okoro
 topics:
 - crime
-- engineering
 - investigation
-- ship
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 2
-significance: low
+summary: The Federal Attorney's Office concludes that Starship One was destroyed by deliberate
+  sabotage in 3301. A grand jury recommends criminal charges. The report alleges illegal
+  modifications to the Frame Shift Drive system.
+player_impact: None
+modern_impact: The conclusion of the inquiry confirms Starship One was sabotaged, setting
+  up the arrest and trial of those responsible.
+legacy_weight: 4
+significance: high
+related_uuids:
+- fb99f105-a9bf-5623-a84b-403acc65af6a
+- 385e8b96-3821-5f0e-b640-c9d22e29b7a0
+- 767d07a7-f7de-5ae9-80a2-b79abe76c464
 ---
 
 Inquiry into Starship [[One]]’s Destruction Concludes

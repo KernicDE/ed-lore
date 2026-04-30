@@ -7,15 +7,19 @@ source: API
 groups:
 - Alliance
 - Core Dynamics
-- Federal Navy
-- Pilots Federation
-locations:
-- Jupiter
+- Lakon Spaceways
+persons:
+- Jupiter Rochester
+- Irfan Karim
 topics:
-- construction
 - corporate expansion
-- ship
-modern_impact: Ship review and release information for the pilot community.
+summary: Core Dynamics temporarily discounts several vessel types to raise funds for
+  a more aggressive takeover bid of Lakon Spaceways, following the rejection of its initial
+  purchase proposal.
+player_impact: Pilots could purchase discounted Core Dynamics and Federal vessels until
+  the 30th of December 3306.
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape
+  the galactic aerospace market.
 legacy_weight: 2
 significance: low
 ---

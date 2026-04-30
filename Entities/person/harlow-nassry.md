@@ -2,18 +2,18 @@
 id: harlow-nassry
 name: Harlow Nassry
 type: person
-first_seen_date: '3309-04-11'
+first_seen_date: '3304-08-17'
 last_seen_date: '3311-03-13'
-mention_count: 2
+mention_count: 8
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Harlow Nassry
 
-First mentioned: **3309-04-11**  
+First mentioned: **3304-08-17**  
 Last mentioned: **3311-03-13**  
-Total mentions: **2**
+Total mentions: **8**
 
 ## Related
 

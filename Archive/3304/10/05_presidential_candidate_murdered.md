@@ -4,19 +4,32 @@ title: Presidential Candidate Murdered
 slug: presidential_candidate_murdered
 date: '3304-10-05'
 source: GitHub
-entities:
+summary: Alliance presidential candidate Fazia Silva is found dead at Hume Orbital, believed to have been murdered by poison. Inspector Erin Sangster of Alliance Interpol suspects professional assassins. Speculation focuses on political motives related to Silva's proposed financial policy changes or business rivals. Her sister Tashmira Silva assumes control of the corporate empire. Condolences come from Prime Minister Edmund Mahon and rivals Gibson Kincaid and Elijah Beck.
+player_impact: None
+persons:
+- Fazia Silva
+- Erin Sangster
+- Tashmira Silva
 - Edmund Mahon
+- Gibson Kincaid
+- Elijah Beck
 groups:
 - Alliance
+- Alliance Interpol
+locations:
+- Hume Orbital
 topics:
-- corporate expansion
-- medicine
-- ship
-- sport
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+- crime
+- politics
+- investigation
+modern_impact: Silva's assassination shocks Alliance politics, eliminating a major reform candidate and raising fears of foreign interference in democratic processes. The unsolved case becomes a symbol of vulnerability for the Alliance.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 46a4e0b4-2083-57ba-8f88-c4c2cca39367
+- 4c33cc73-d588-59a5-b80d-fe0c6e76f665
+- a950b069-65d4-569a-b55c-6ce84123e10e
+- 386cbd85-5543-5119-8766-37eb9cb4855c
 ---
 
 Presidential Candidate [[Murdered]]

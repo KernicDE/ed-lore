@@ -7,20 +7,28 @@ source: GitHub
 groups:
 - Imperial Internal Security Service
 - Pilots Federation
+- NMLA
+persons:
+- Aisling Duval
 locations:
-- Achenar
 - Cemiess
-- Garrido Market in the LHS 4031
-- Mackenzie Relay
-- Many people in the fringe
-- Muller Terminal in the Rabh
+- Gabjaujis
+- LHS 4031
+- Rabh
 topics:
-- construction
-- succession
 - terrorism
-modern_impact: Infrastructure project with long-term benefits.
-legacy_weight: 2
-significance: low
+summary: The NMLA launches coordinated terrorist attacks on four Imperial starports
+  — Mackenzie Relay in Cemiess, Tsiolkovsky Terminal in Gabjaujis, Garrido Market in LHS
+  4031, and Muller Terminal in Rabh. The IISS identifies the group as Neo-Marlinist extremists.
+player_impact: Pilots are requested to assist with repairing starports and rescuing populations.
+modern_impact: The NMLA escalates from small-scale activities to large coordinated starport
+  bombings, marking a major escalation in Imperial terrorism.
+legacy_weight: 5
+significance: high
+related_uuids:
+- f68f89e5-a0a3-5ef1-aaba-45870d4ddd00
+- b1d3cc6d-1f0c-5fe1-b2c4-58b3b944f2d6
+- 31b4d802-4b3f-57f3-bc15-35276b2cf0b1
 ---
 
 Terrorist Attacks on Imperial Starports

@@ -4,13 +4,24 @@ title: Conflict in Betel Ends
 slug: conflict_in_betel_ends
 date: '3304-08-31'
 source: GitHub
+summary: Authorities confirm the conflict between the Silver Creative Network and Betel Free in the Betel system has ended. Both factions received support from independent combat pilots, but ultimately one faction prevailed. General Hollis of Betel security expresses hope for a period of prolonged peace.
+player_impact: Contributing pilots can collect rewards from Amphipolis in the Betel system.
+persons:
+- General Hollis
+groups:
+- Silver Creative Network
+- Betel Free
+- Betel security
 locations:
-- Authorities in the Betel
+- Betel
+- Amphipolis
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The resolution of the Betel conflict demonstrates how mercenary-supported faction warfare typically concludes with one side achieving dominance, though long-term stability remains uncertain.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 6fbe3058-8050-50a0-b7d3-77484a809829
 ---
 
 Conflict in [[Betel]] Ends

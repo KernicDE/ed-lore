@@ -4,19 +4,27 @@ title: Political Turmoil for President Hudson
 slug: political_turmoil_for_president_hudson
 date: '3306-10-19'
 source: GitHub
-entities:
-- Felicia Winters
+persons:
 - Zachary Hudson
+- Felicia Winters
+- Vihaan Niven
+- Lucas Vincent
 topics:
 - crime
-- festival
-- piracy
 - scandal
-- ship
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
-legacy_weight: 3
-significance: medium
+- politics
+summary: President Hudson's support plummets after Fleet Admiral Vincent is charged with
+  sabotaging Starship One. Over a dozen congressmen resign. Shadow President Winters gains
+  political ground as polls show majority support for the Liberal Party.
+player_impact: None
+modern_impact: The Starship One scandal destabilizes Hudson's presidency and shifts Federal
+  politics toward the Liberal Party.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 4f96cfbb-f728-56e8-bf9b-47d8cc627884
+- 8492d17d-2813-5b47-9b39-485a2ef6ed98
+- 767d07a7-f7de-5ae9-80a2-b79abe76c464
 ---
 
 Political Turmoil for President Hudson

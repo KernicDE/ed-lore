@@ -1,0 +1,34 @@
+---
+id: copernicus-shipping-ltd
+name: Copernicus Shipping Ltd
+type: faction
+first_seen_date: '3304-09-20'
+last_seen_date: '3304-09-28'
+mention_count: 3
+related_entities:
+- federal-security-service
+- achilles-corporation
+- burnell-station
+- alliance
+- libertas-cooperative
+---
+
+<!-- AUTO-GENERATED -->
+
+# Copernicus Shipping Ltd
+
+First mentioned: **3304-09-20**  
+Last mentioned: **3304-09-28**  
+Total mentions: **3**
+
+## Related
+
+- [[Federal Security Service]] (3 co-mentions)
+- [[Achilles Corporation]] (2 co-mentions)
+- [[Burnell Station]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Libertas Cooperative]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

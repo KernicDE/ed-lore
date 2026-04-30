@@ -9,15 +9,15 @@ groups:
 - Federal Navy
 - Imperial Navy
 - Imperial Senate
-- Pilots Federation
-locations:
-- Theta Indi and Zelano
 topics:
-- construction
-- ship
-- trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+summary: The Empire and Federation complete parallel campaigns to construct new capital
+  ships, with five Farragut-class Battle Cruisers and four Majestic-class Interdictors
+  becoming operational.
+player_impact: Pilots delivered building fabricators, microbial furnaces, and energy grid
+  assemblies to shipyards in the Parutis and Mandh systems.
+modern_impact: Superpower military rivalry continues to drive capital ship construction
+  and fleet modernisation.
 legacy_weight: 2
 significance: low
 ---

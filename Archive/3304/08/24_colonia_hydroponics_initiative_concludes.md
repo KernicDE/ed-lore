@@ -4,21 +4,26 @@ title: Colonia Hydroponics Initiative Concludes
 slug: colonia_hydroponics_initiative_concludes
 date: '3304-08-24'
 source: GitHub
-entities:
+summary: The Colonia Council announces the successful conclusion of its hydroponics facility campaign. Professor Diana VanCleef states the facility will provide biofoods and super-grains and contain a dedicated research laboratory for developing new biotech crops.
+player_impact: Contributing pilots can collect rewards from Templar Barracks in the Randgnid system.
+persons:
 - Diana VanCleef
+- Giselle Kingspear
 groups:
 - Colonia Council
+- Colonia Research Division
 locations:
 - Colonia
+- Randgnid
+- Templar Barracks
 topics:
 - construction
 - research
-- war
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: The hydroponics facility secures Colonia's food security, enabling continued population growth and reducing dependence on imported food supplies in the deep-space settlement.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 46b722c9-bfdf-5a23-acbf-4a2b7bb177fa
 ---
 
 Colonia Hydroponics Initiative Concludes

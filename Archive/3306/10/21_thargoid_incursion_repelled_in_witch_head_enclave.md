@@ -7,21 +7,27 @@ source: GitHub
 groups:
 - Alliance
 - Pilots Federation
+- Alliance Expeditionary Pact
+persons:
+- Warren Lamar
 locations:
-- Bray Landing in the Yuanjia
-- Everyone in Onoros and our neighbouring
 - Witch Head Nebula
+- Onoros
+- Yuanjia
 topics:
 - alien contact
-- humanitarian
-- ship
 - war
-- xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
+summary: The galactic community successfully repels a Thargoid attack in the Witch Head
+  Enclave. Most alien vessels are destroyed. Captain Warren Lamar praises the pilots'
+  courage.
+player_impact: Pilots who defended the Enclave can collect rewards at the Golden Stag.
+  Guardian weapon broker discounts continue for one more week.
+modern_impact: The successful defense preserves the Witch Head Enclave but signals ongoing
+  Thargoid threats.
+legacy_weight: 4
 significance: high
+related_uuids:
+- 01baf0c3-9d98-56bd-bb9d-e4feaaddab9a
 ---
 
 [[Thargoid]] Incursion Repelled in [[Witch Head]] Enclave

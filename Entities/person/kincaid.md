@@ -2,32 +2,21 @@
 id: kincaid
 name: Kincaid
 type: person
-first_seen_date: '3304-09-27'
-last_seen_date: '3305-05-18'
-mention_count: 3
-related_entities:
-- alliance
-- edmund-mahon-gave
-- kincaid-addressed-his-followers
-- gibson-kincaid
-- zaonce
+first_seen_date: '3307-01-19'
+last_seen_date: '3307-01-19'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Kincaid
 
-First mentioned: **3304-09-27**  
-Last mentioned: **3305-05-18**  
-Total mentions: **3**
+First mentioned: **3307-01-19**  
+Last mentioned: **3307-01-19**  
+Total mentions: **1**
 
 ## Related
 
-- [[Alliance]] (3 co-mentions)
-- [[Edmund Mahon gave]] (1 co-mentions)
-- [[Kincaid addressed his followers]] (1 co-mentions)
-- [[Gibson Kincaid]] (1 co-mentions)
-- [[Zaonce]] (1 co-mentions)
 
 ## Biography
 

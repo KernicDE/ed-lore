@@ -6,18 +6,32 @@ date: '3306-09-17'
 source: GitHub
 groups:
 - Pilots Federation
+- Kavanagh Spaceframes Ltd
+- Steel Castle Inc
+- Tenche Universal Holdings
+- CQC Holdings
+persons:
+- Susannah Haynes
+- Dean Bradigan
 locations:
-- Blaauw Hub in the Tenche
-- The target
+- Tenche
+- Nagasairu
 topics:
 - construction
-- corporate expansion
-- engineering
-- ship
 - trade
-modern_impact: Engineering developments offer pilots new ship customisation options.
+summary: Kavanagh Spaceframes and Steel Castle Inc request commodity deliveries to convert
+  refinery outposts into starports across ten systems. The projects aim to support fleet
+  carrier owners using large vessels for Tritium transport.
+player_impact: Pilots can deliver building materials to Blaauw Hub in Tenche and Teng-hui
+  Station in Nagasairu.
+modern_impact: Community-driven construction expands starport infrastructure to support
+  the fleet carrier economy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 8d49ee4c-97a2-59e8-aea9-f6b6331d417b
+- 205d07b4-f022-5e6b-90ed-5a96149cdd43
+- 07f4c3e2-ca2b-55cc-9321-3c0cdefa1f74
 ---
 
 Community Support Required for Starport Conversions

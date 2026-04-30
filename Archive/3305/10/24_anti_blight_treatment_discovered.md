@@ -4,18 +4,33 @@ title: Anti Blight Treatment Discovered
 slug: anti_blight_treatment_discovered
 date: '3305-10-24'
 source: GitHub
+groups:
+- Interstellar Association for Agriculture
+- Rockforth Corporation
+- Vandermeer Corporation
+- Neomedical Industries
+persons:
+- Genevieve Kane
 locations:
 - Diso
+- Orerve
 - Leesti
-- Watson Station in the Orerve
 topics:
-- corporate expansion
 - medicine
-- research
 - trade
-modern_impact: Trade initiative affecting commodity markets.
-legacy_weight: 2
-significance: low
+summary: The IAA, Rockforth, Vandermeer and Neomedical develop an agronomic treatment that
+  reverses the blight's effects. Traders are asked to distribute the treatment to Diso and
+  Orerve as priority agricultural centres.
+player_impact: Pilots collect agronomic treatment from various markets and deliver it to
+  Shifnalport in Diso and Watson Station in Orerve.
+modern_impact: The discovery of the anti-blight treatment marks the turning point in the
+  crisis, offering hope for crop recovery across affected systems.
+legacy_weight: 4
+significance: high
+related_uuids:
+- b6bad842-f04e-5865-892e-cfeb17f2f5da
+- d9a989d3-07b0-515c-a659-2a5deb621e57
+- deca2e98-3214-58c6-a3a2-3cf6ed0dddc6
 ---
 
 Anti-Blight Treatment Discovered

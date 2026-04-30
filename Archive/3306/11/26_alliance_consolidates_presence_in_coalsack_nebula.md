@@ -4,26 +4,33 @@ title: Alliance Consolidates Presence in Coalsack Nebula
 slug: alliance_consolidates_presence_in_coalsack_nebula
 date: '3306-11-26'
 source: GitHub
-entities:
-- Rodion Stathos outlined
 groups:
 - Alliance
 - Pilots Federation
+persons:
+- Rodion Stathos
+locations:
+- Coalsack Nebula
+- Musca Dark Region PJ-P b6-1
+- Coalsack Sector VU-0 B6-6
+- Musca Dark Region IM-V C2-24
+- Coalsack Sector KN-S B4-9
 topics:
-- alien contact
-- construction
-- corporate expansion
-- engineering
 - exploration
 - research
-- ship
-- trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
-legacy_weight: 5
+- corporate expansion
+summary: The Alliance opens four new starports in the Coalsack Nebula following their
+  successful campaign. Betancourt Base requests Thargoid commodities for xenobiological
+  research led by Dr. Rodion Stathos, funded by pharmaceutical and bioengineering companies.
+player_impact: Pilots can sell Thargoid commodities at Betancourt Base for generous
+  rewards.
+modern_impact: Alliance presence in the Coalsack Nebula establishes a permanent foothold
+  for Thargoid research and meta-alloy extraction.
+legacy_weight: 4
 significance: high
+related_uuids:
+- 9c8c78b5-e118-5b92-a58c-fd461a0ebad2
+- d8ca461e-89b4-56d2-acdf-f3e514f93f92
 ---
 
 [[Alliance]] Consolidates Presence in [[Coalsack Nebula]]

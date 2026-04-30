@@ -4,28 +4,52 @@ title: Week in Review
 slug: week_in_review
 date: '3304-11-24'
 source: GitHub
+summary: Weekly summary covering Admiral Frederick Yamamoto's appointment to the Alliance Council of Admirals, the closure and arrest of Mars Tribune owner Kingsley Cordova, Sirius Corporation's arrest of rogue officers involved in the Meene raid, Nova Imperium's declaration to install a new Emperor, the eruption of conflict in the Loha system, and the conclusion of Olelbis Holdings' commodity appeal.
+player_impact: None
+persons:
+- Frederick Yamamoto
+- Hayley Sorokin
+- Gibson Kincaid
+- Kingsley Cordova
+- Ramesh Thorne
+- Li Yong-Rui
+- Kaeso Mordanticus
+- Karleen Troy
 groups:
 - Alliance
 - Federal Security Service
-- Sirius Corp
 - Sirius Corporation
+- Nova Imperium
+- Loha Holdings
+- New Loha Party
+- Olelbis Holdings
+- Mars Tribune
+- Cordova Group
+- Meene Defence Force
 locations:
 - Loha
 - Mars
 - Meene
-- Sirius
+- Zaonce
+- Olelbis
 topics:
 - corporate expansion
-- safety
 - scandal
-- ship
 - succession
 - terrorism
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+- politics
+modern_impact: This week sees Alliance military reorganisation, Federal justice against corporate corruption, Sirius damage control, and Nova Imperium's open challenge to Imperial rule.
 legacy_weight: 1
 significance: low
+related_uuids:
+- a0f85f5b-29f4-57f8-8465-c48859534fbb
+- c5cb5bec-f7cd-563c-9c57-d8f5ede49843
+- 30995800-a980-5b52-889e-1809f4bc9cee
+- 022febc0-0bac-50a9-ab0b-92002fcb91eb
+- 51c4c96c-e5de-5772-adb0-4b0d9d2e8c96
+- 4272c1e0-2c23-5970-8096-14298490fef1
 ---
 
 Week in Review

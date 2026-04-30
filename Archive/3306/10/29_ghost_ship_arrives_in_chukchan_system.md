@@ -7,19 +7,25 @@ source: GitHub
 groups:
 - Alliance
 - Pilots Federation
+- Alliance Salvage Guild
 locations:
 - Chukchan
-- HIP 64011 and HIP 65201
-- This caused onboard power
+- HIP 61595
+- HIP 64011
+- HIP 65201
 topics:
 - investigation
-- safety
 - ship
-arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding
-  of the Thargoid conflict and superpower accountability.
+summary: The abandoned megaship Adamastor returns to the Chukchan system after two centuries
+  of sublight travel. The crew is gone, data erased, and the ship shows signs of clandestine
+  operations. The Alliance Salvage Guild investigates.
+player_impact: None
+modern_impact: The Adamastor discovery becomes a key piece of the INRA mystery, revealing
+  historical superpower covert operations.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1d006eb4-9159-5609-8a8f-bffcce9793b8
 ---
 
 ‘Ghost Ship’ Arrives in [[Chukchan]] System

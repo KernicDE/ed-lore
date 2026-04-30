@@ -4,16 +4,27 @@ title: Food Delivery Initiative in the Chamas System
 slug: food_delivery_initiative_in_the_chamas_system
 date: '3305-08-15'
 source: GitHub
+groups:
+- Fortunes Corsairs
+- Chamash Foods
+persons:
+- Silas James
 locations:
-- Denton Dock in the Chamas
-- Many of the
+- Chamas
 topics:
-- construction
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+- construction
+summary: The Fortunes Corsairs organise a food delivery initiative to Chamas to support
+  a fundraising event for a new asteroid base. Eminent chefs prepare a grand feast for system
+  officials.
+player_impact: Pilots deliver fruit, vegetables, fish, grain and synthetic meat to Denton
+  Dock in Chamas.
+modern_impact: The successful food initiative enables construction of the asteroid base,
+  boosting the region's infrastructure and trade potential.
 legacy_weight: 2
 significance: low
+related_uuids:
+- ab601a80-8239-55f2-9f98-6c4dac22e7d1
 ---
 
 Food Delivery Initiative in [[The]] Chamas System

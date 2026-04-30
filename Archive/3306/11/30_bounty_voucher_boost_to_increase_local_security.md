@@ -8,15 +8,19 @@ groups:
 - Alliance
 - Pilots Federation
 topics:
-- construction
 - crime
 - piracy
-- ship
-- trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: Bounty voucher rewards increase across Alliance, Imperial, Federal and Independent
+  space due to reduced local security forces and rising piracy. The increase is applied
+  after claim validation at starport security offices.
+player_impact: Pilots earn increased credits for bounty hunting across all jurisdictions.
+modern_impact: The bounty boost reflects deteriorating local security as superpowers redirect
+  resources toward military buildup.
 legacy_weight: 2
 significance: low
+related_uuids:
+- b83f0960-68dd-5629-8503-06d2c77c81f3
+- a8b6f811-b9f8-58f0-9df9-821f2cf90668
 ---
 
 Bounty Voucher Boost to Increase Local Security

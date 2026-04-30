@@ -4,18 +4,26 @@ title: Distant Worlds Expedition Preparations Conclude Successfully
 slug: distant_worlds_expedition_preparations_conclude_successfully
 date: 3312-01-17
 source: API
+summary: The Distant Worlds construction material appeal concludes successfully, with target quotas for power generators, bertrandite, and thermal cooling units met ahead of schedule. Hermine Delarue confirms the site has been surveyed and deep-range survey systems will be calibrated. Timotheus Haddard praises the coordinated response from haulers and escort wings. Contributing pilots may collect rewards at Surveyor's Reach in Alrai. The Distant Worlds III expedition is set to depart from NGC 1981 Sector ZU-Y d27 on January 18th.
+player_impact: Contributing pilots can collect rewards at Surveyor's Reach in Alrai. The expedition departs from NGC 1981 Sector ZU-Y d27 on January 18th, and all Commanders are invited to join.
+persons:
+- Hermine Delarue
+- Timotheus Haddard
 groups:
 - Distant Worlds
+- Deep Space Surveys
 locations:
+- Alrai
 - NGC 1981 Sector ZU-Y d27
 topics:
 - construction
 - exploration
-- war
 arc_id: distant-worlds-3
 modern_impact: Demonstrates the logistical power of coordinated independent pilot networks. The DSS carrier logistics model may be replicated for future mega-expeditions, setting a new standard for civilian deep-space operations.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- d76e02f3-5b13-56fb-a3c5-6b2fa74ee284
 ---
 
 The Distant Worlds appeal for construction materials has concluded, with the initial infrastructure requested now fully delivered.

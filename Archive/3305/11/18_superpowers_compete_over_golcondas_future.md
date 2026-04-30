@@ -4,21 +4,32 @@ title: Superpowers Compete over Golconda’s Future
 slug: superpowers_compete_over_golcondas_future
 date: '3305-11-18'
 source: GitHub
-entities:
-- Ava Cornelius summarised
+groups:
+- Empire
+- Federation
+persons:
+- Ava Cornelius
+- Harlan Turk
+- Jonathon Forester
 locations:
 - Upaniklis
 topics:
-- alien contact
-- corporate expansion
-- engineering
+- diplomacy
 - ship
-- sport
-- trade
-- war
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 1
-significance: low
+- corporate expansion
+summary: The Empire and Federation launch rival initiatives to provide a new home for the
+  Golconda crew. The ancient vessel can no longer sustain its population. Captain Jonathon
+  Forester insists the population remain together.
+player_impact: Pilots can deliver construction materials to either the Empire's Lucent Embrace
+  or the Federation's Keller's Resolve in Upaniklis.
+modern_impact: The competition highlights superpower rivalry and the colonists' dilemma between
+  planetary settlement and preserving their spacefaring culture.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 77f63b7c-170a-56cf-846f-ba1b81cec78c
+- 0e74f39b-4db3-53e1-b52e-bcfcae3ca50b
+- 1696c0a8-1afb-5885-8972-cd39d9da820e
 ---
 
 Superpowers Compete over [[Golconda]]’s Future

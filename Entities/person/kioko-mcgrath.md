@@ -1,0 +1,23 @@
+---
+id: kioko-mcgrath
+name: Kioko McGrath
+type: person
+first_seen_date: '3305-01-01'
+last_seen_date: '3305-02-14'
+mention_count: 2
+---
+
+<!-- AUTO-GENERATED -->
+
+# Kioko McGrath
+
+First mentioned: **3305-01-01**  
+Last mentioned: **3305-02-14**  
+Total mentions: **2**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

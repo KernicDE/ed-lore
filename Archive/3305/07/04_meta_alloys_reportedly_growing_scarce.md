@@ -4,26 +4,30 @@ title: Meta Alloys Reportedly Growing Scarce
 slug: meta_alloys_reportedly_growing_scarce
 date: '3305-07-04'
 source: GitHub
-entities:
-- Alba Tesreau
 groups:
 - Aegis
+persons:
+- Alba Tesreau
 locations:
-- Aegis
+- Pleiades Nebula
 - Delphi
 - Oracle
-- Pleiades
-- Pleiades Nebula
 topics:
 - alien contact
-- exploration
 - research
 - trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: Aegis Research reports that meta-alloy harvests in the Pleiades Nebula have slowed
+  dramatically as Thargoid barnacle sites become depleted. Aegis asks pilots to provide exploration
+  data to locate alternative sources.
+player_impact: Pilots can hand in survey scans at The Oracle in Delphi between July 4th
+  and 10th.
+modern_impact: The depletion of Pleiades barnacles forces humanity to seek new meta-alloy
+  sources, driving exploration and potential conflict.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 1213f0a6-b7d3-54fe-89b0-b56defee53da
+- 969713a8-6dbf-548c-9ce4-4d33ba1f321a
 ---
 
 Meta-Alloys Reportedly Growing Scarce

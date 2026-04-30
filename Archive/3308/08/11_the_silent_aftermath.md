@@ -1,5 +1,5 @@
 ---
-uuid: 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
+uuid: c896dd55-b9b3-5552-9038-07a79049f0bb
 title: The Silent Aftermath
 slug: the_silent_aftermath
 date: '3308-08-11'

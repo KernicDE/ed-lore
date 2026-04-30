@@ -4,22 +4,23 @@ title: Sirius Corporation Campaign to Establish Marlinist Colonies
 slug: sirius_corporation_campaign_to_establish_marlinist_colonies
 date: '3306-12-10'
 source: API
-entities:
-- Jenna Fairfax
 groups:
-- Pilots Federation
-- Sirius Corp
 - Sirius Corporation
-locations:
-- Sirius
+persons:
+- Jenna Fairfax
+- Li Yong-Rui
 topics:
 - corporate expansion
 - humanitarian
-- trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
-legacy_weight: 2
-significance: low
+summary: Sirius Corporation proposes to establish independent colonies for Marlinist
+  refugees, with both Congress and the Imperial Senate accepting the proposal under the
+  condition that NMLA members be returned to the Empire.
+player_impact: Traders delivered atmospheric processors, auto-fabricators, structural
+  regulators, and water purifiers to Ellis Gateway in the Bd+05 1146 system.
+modern_impact: The Marlinist Colonies remain a significant political settlement between
+  the Empire and Federation.
+legacy_weight: 3
+significance: medium
 ---
 
 *[[Pilots Federation]] ALERT*

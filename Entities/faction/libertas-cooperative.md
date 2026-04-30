@@ -8,9 +8,9 @@ mention_count: 7
 related_entities:
 - munshin
 - ocrinoxs-orbiter
+- munshin-manatee-meat
 - alliance
 - federal-security-service
-- land-enrichment
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **7**
 
 ## Related
 
-- [[Munshin]] (6 co-mentions)
+- [[Munshin]] (7 co-mentions)
 - [[Ocrinox's Orbiter]] (5 co-mentions)
+- [[Munshin Manatee Meat]] (2 co-mentions)
 - [[Alliance]] (2 co-mentions)
 - [[Federal Security Service]] (2 co-mentions)
-- [[Land enrichment]] (2 co-mentions)
 
 ## Biography
 

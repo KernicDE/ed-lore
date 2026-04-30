@@ -2,32 +2,32 @@
 id: interstellar-health-organisation
 name: Interstellar Health Organisation
 type: faction
-first_seen_date: '3307-07-12'
+first_seen_date: '3304-12-05'
 last_seen_date: '3307-08-24'
-mention_count: 4
+mention_count: 17
 related_entities:
+- vitadyne-labs
+- utopia
+- vandermeer-corporation
 - kumo-crew
-- kappa-fornacis
-- panem
-- blue-viper-club
-- pegasi-sector-pn-t-c3-14
+- vox-galactica
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Interstellar Health Organisation
 
-First mentioned: **3307-07-12**  
+First mentioned: **3304-12-05**  
 Last mentioned: **3307-08-24**  
-Total mentions: **4**
+Total mentions: **17**
 
 ## Related
 
+- [[Vitadyne Labs]] (10 co-mentions)
+- [[Utopia]] (6 co-mentions)
+- [[Vandermeer Corporation]] (4 co-mentions)
 - [[Kumo Crew]] (4 co-mentions)
-- [[Kappa Fornacis]] (2 co-mentions)
-- [[Panem]] (2 co-mentions)
-- [[Blue Viper Club]] (2 co-mentions)
-- [[Pegasi Sector PN-T c3-14]] (2 co-mentions)
+- [[Vox Galactica]] (3 co-mentions)
 
 ## Biography
 

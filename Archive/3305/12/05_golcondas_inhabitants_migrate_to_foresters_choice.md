@@ -4,17 +4,26 @@ title: Golconda’s Inhabitants Migrate to Forester’s Choice
 slug: golcondas_inhabitants_migrate_to_foresters_choice
 date: '3305-12-05'
 source: GitHub
-entities:
+groups:
+- Federation
+persons:
 - Elizabeth Perez
+- Jonathon Forester
 locations:
-- Choice in the Upaniklis
+- Upaniklis
 topics:
 - exploration
-- ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+- humanitarian
+summary: The crew of the generation ship Golconda migrate to their new home at Forester's
+  Choice outpost in the Upaniklis system. The Federation arranged transportation from the
+  ancient vessel. The colonists will continue distilling Apa Vietii.
+player_impact: None
+modern_impact: The Golconda colonists successfully integrate into 34th-century humanity
+  while maintaining their unique culture and traditions.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 1696c0a8-1afb-5885-8972-cd39d9da820e
 ---
 
 [[Golconda]]’s Inhabitants Migrate to Forester’s Choice

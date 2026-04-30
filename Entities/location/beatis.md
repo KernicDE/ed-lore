@@ -6,11 +6,11 @@ first_seen_date: '3306-09-30'
 last_seen_date: '3306-10-16'
 mention_count: 2
 related_entities:
-- denton-patreus
-- patreus-received-applause
+- chana
+- nahuatl
 - imperial-internal-security-service
 - imperial-senate
-- jenna-fairfax
+- nmla
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **2**
 
 ## Related
 
-- [[Denton Patreus]] (1 co-mentions)
-- [[Patreus received applause]] (1 co-mentions)
+- [[Chana]] (2 co-mentions)
+- [[Nahuatl]] (2 co-mentions)
 - [[Imperial Internal Security Service]] (1 co-mentions)
 - [[Imperial Senate]] (1 co-mentions)
-- [[Jenna Fairfax]] (1 co-mentions)
+- [[NMLA]] (1 co-mentions)
 
 ## Biography
 

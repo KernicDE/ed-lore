@@ -4,7 +4,7 @@ name: Federal Navy
 type: faction
 first_seen_date: '3301-02-13'
 last_seen_date: '3312-02-20'
-mention_count: 128
+mention_count: 127
 related_entities:
 - imperial-navy
 - alliance
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-02-13**  
 Last mentioned: **3312-02-20**  
-Total mentions: **128**
+Total mentions: **127**
 
 ## Related
 
 - [[Imperial Navy]] (25 co-mentions)
-- [[Alliance]] (22 co-mentions)
+- [[Alliance]] (21 co-mentions)
 - [[Aegis]] (17 co-mentions)
 - [[HIP 22460]] (16 co-mentions)
-- [[Core Dynamics]] (15 co-mentions)
+- [[Core Dynamics]] (14 co-mentions)
 
 ## Biography
 

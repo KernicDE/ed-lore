@@ -7,8 +7,8 @@ last_seen_date: '3312-03-12'
 mention_count: 60
 related_entities:
 - jupiter
-- federal-navy
 - alliance
+- federal-navy
 - federal-times
 - sirius-corporation
 ---
@@ -23,9 +23,9 @@ Total mentions: **60**
 
 ## Related
 
-- [[Jupiter]] (22 co-mentions)
-- [[Federal Navy]] (15 co-mentions)
+- [[Jupiter]] (17 co-mentions)
 - [[Alliance]] (15 co-mentions)
+- [[Federal Navy]] (14 co-mentions)
 - [[Federal Times]] (9 co-mentions)
 - [[Sirius Corporation]] (8 co-mentions)
 

@@ -8,9 +8,9 @@ mention_count: 13
 related_entities:
 - panem
 - tanmark
+- scythe-of-panem
 - kappa-fornacis-farmers-union
-- kumo-crew
-- interstellar-health-organisation
+- federal-intelligence-agency
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **13**
 
 - [[Panem]] (9 co-mentions)
 - [[Tanmark]] (3 co-mentions)
+- [[Scythe of Panem]] (3 co-mentions)
 - [[Kappa Fornacis Farmers Union]] (2 co-mentions)
-- [[Kumo Crew]] (2 co-mentions)
-- [[Interstellar Health Organisation]] (2 co-mentions)
+- [[Federal Intelligence Agency]] (2 co-mentions)
 
 ## Biography
 

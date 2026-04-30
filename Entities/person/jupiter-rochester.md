@@ -2,28 +2,21 @@
 id: jupiter-rochester
 name: Jupiter Rochester
 type: person
-first_seen_date: '3306-12-01'
-last_seen_date: '3306-12-01'
-mention_count: 1
-related_entities:
-- alliance
-- core-dynamics
-- jupiter
+first_seen_date: '3304-09-06'
+last_seen_date: '3307-12-28'
+mention_count: 29
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Jupiter Rochester
 
-First mentioned: **3306-12-01**  
-Last mentioned: **3306-12-01**  
-Total mentions: **1**
+First mentioned: **3304-09-06**  
+Last mentioned: **3307-12-28**  
+Total mentions: **29**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
-- [[Core Dynamics]] (1 co-mentions)
-- [[Jupiter]] (1 co-mentions)
 
 ## Biography
 

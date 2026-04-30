@@ -4,16 +4,29 @@ title: Week in Review
 slug: week_in_review
 date: '3304-09-15'
 source: GitHub
+summary: Weekly summary covering Maddox Hurd's criminal connections causing investor flight from Herculean Machines, the announcement of Alliance presidential candidates Fazia Silva and Elijah Beck, Juanita Bishop's call to execute Far God worshippers, Ram Tah's revelations about the XG Project, the Libertas Cooperative's manatee megaship appeal, and the successful conclusion of the Alioth Independents' gala initiative.
+player_impact: None
+persons:
+- Maddox Hurd
+- Scorpio DeVorrow
+- Fazia Silva
+- Elijah Beck
+- Juanita Bishop
+- Ram Tah
+- Durien Ballas
+- Harlow Nassry
 groups:
 - Alliance
 - Federal Congress
 - Federal Security Service
 - Libertas Cooperative
+- Herculean Machines
+- Supratech
+- Alioth Independents
 locations:
 - Alioth
 - Leesti
 - Munshin
-- Ram Tah
 - Vamm
 topics:
 - alien contact
@@ -22,14 +35,19 @@ topics:
 - crime
 - engineering
 - investigation
-- ship
+- politics
 - trade
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: This week sees corporate scandals, political campaigning, religious extremism, and technological breakthroughs converging to reshape perceptions across multiple sectors of galactic society.
 legacy_weight: 4
 significance: high
+related_uuids:
+- a8ef52ae-0f17-58b6-97bd-b4bcf29500b3
+- 9e863e7e-1a91-597a-b4dc-876cfc1aba3c
+- 2fbb2c64-a06a-556e-be3d-e4b798f1564e
+- 480289fe-b6bf-5762-b6a9-7772ef25226b
+- 31ff0234-888c-5bfa-9364-d34905a8c02e
+- 85671224-8822-5716-bb08-0e7ac30ff584
 ---
 
 Week in Review

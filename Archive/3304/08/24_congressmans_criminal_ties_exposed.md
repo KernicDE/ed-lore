@@ -1,12 +1,20 @@
 ---
 uuid: 0d1f99bd-b76b-5129-963f-0f95ca92769a
-title: Congressman’s Criminal Ties Exposed
+title: "Congressman's Criminal Ties Exposed"
 slug: congressmans_criminal_ties_exposed
 date: '3304-08-24'
 source: GitHub
+summary: The Mars Tribune publishes an exposé revealing Congressman Morgan Unwin's decade-long debt to the Red Family cartel and his use of political influence to traffic drugs to hide his own addiction. Unwin is arrested by the Federal Security Service and faces expulsion from Congress. An investigation into the Red Family's operations in Olympus Village begins. Congress invites Tribune owner Kingsley Cordova to a special event to express gratitude.
+player_impact: None
+persons:
+- Morgan Unwin
+- Kingsley Cordova
+- Karina Washington
 groups:
+- Mars Tribune
 - Federal Congress
 - Federal Security Service
+- Red Family
 locations:
 - Mars
 - Olympus Village
@@ -15,10 +23,12 @@ topics:
 - crime
 - investigation
 - narcotics
-- piracy
-modern_impact: Anti-piracy operation protecting trade routes.
+modern_impact: The exposé demonstrates the vulnerability of democratic institutions to corruption and organised crime, while highlighting the critical role of investigative journalism in uncovering political malfeasance.
 legacy_weight: 2
 significance: low
+related_uuids:
+- d9093b90-7659-5e5b-ac01-e545fe66530b
+- 2d41866c-c7a5-58b1-967c-80c278c83575
 ---
 
 Congressman’s Criminal Ties Exposed

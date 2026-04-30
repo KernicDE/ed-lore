@@ -4,19 +4,28 @@ title: Agricultural Industry Predicts Low Harvest
 slug: agricultural_industry_predicts_low_harvest
 date: '3305-09-13'
 source: GitHub
-entities:
-- Genevieve Kane
 groups:
-- Alliance
+- Interstellar Association for Agriculture
+persons:
+- Genevieve Kane
 locations:
 - Diso
+- Orerve
 topics:
-- festival
 - investigation
 - research
-modern_impact: Community celebration bringing pilots together.
-legacy_weight: 1
-significance: low
+summary: The IAA announces below-average crop yields in key agricultural systems including
+  Diso and Orerve. An investigation is launched to identify causes. Synthetic treatments
+  are proposed to enhance fertility.
+player_impact: None
+modern_impact: The low harvest prediction foreshadows the blight crisis and exposes vulnerabilities
+  in the galactic food supply chain.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 3aff70ec-55de-540f-af20-db881cf820d4
+- 0c7160a3-3572-5dfd-bdb8-6ffc3ad9df4e
+- 4d8fd141-53f1-5011-b749-c18bd1a057ca
 ---
 
 Agricultural Industry Predicts Low Harvest

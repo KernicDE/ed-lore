@@ -5,20 +5,24 @@ slug: federal_and_imperial_forces_engage_in_battle
 date: '3306-11-05'
 source: GitHub
 groups:
-- IISS
 - Imperial Internal Security Service
-- Pilots Federation
-locations:
-- Federation-controlled
-- LTT 1935
+- LTT 1935 Confederacy
+- L.Y.S Corp
+persons:
+- Ernest Harris
+- Axel Cyprian
 topics:
 - investigation
-- ship
 - terrorism
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: The Empire's counter-terrorism operation in the LTT 1935 system triggers armed
+  resistance from Federal forces, as both sides claim the system contains NMLA bomb-making
+  facilities.
+player_impact: Independent pilots fought for either the LTT 1935 Confederacy or the L.Y.S
+  Corp in the system conflict.
+modern_impact: Federal political developments shape superpower relations.
+legacy_weight: 3
+significance: medium
 ---
 
 Federal and Imperial Forces Engage in Battle

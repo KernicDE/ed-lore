@@ -3,8 +3,8 @@ id: aganippe
 name: Aganippe
 type: location
 first_seen_date: '3301-10-08'
-last_seen_date: '3304-12-13'
-mention_count: 4
+last_seen_date: '3301-10-15'
+mention_count: 2
 related_entities:
 - revolutionary-noti-value-party
 - noti
@@ -18,8 +18,8 @@ related_entities:
 # Aganippe
 
 First mentioned: **3301-10-08**  
-Last mentioned: **3304-12-13**  
-Total mentions: **4**
+Last mentioned: **3301-10-15**  
+Total mentions: **2**
 
 ## Related
 

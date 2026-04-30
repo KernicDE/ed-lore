@@ -4,18 +4,20 @@ title: Achilles Corp Initiative Concludes
 slug: achilles_corp_initiative_concludes
 date: '3304-12-06'
 source: GitHub
-entities:
+summary: The Achilles Corporation concludes its goodwill initiative to replace robots destroyed in the spy robot scandal. Chairman Gus Weaver confirms sufficient commodities were acquired to manufacture replacements and reminds customers that the illegal surveillance program was deleted by a coreware update. The Adenets Pro-Alliance Bond organised deliveries and protected traders.
+player_impact: Contributing pilots can collect rewards from Henslow Market in the Adenets system.
+persons:
 - Gus Weaver
 groups:
-- Alliance
+- Achilles Corporation
+- Adenets Pro-Alliance Bond
 locations:
-- Sol
+- Adeness
 topics:
 - corporate expansion
 - scandal
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: The Achilles spy robot scandal continues to influence corporate public relations strategies, with the company attempting to rebuild trust through replacement initiatives and security updates.
 legacy_weight: 2
 significance: low
 ---

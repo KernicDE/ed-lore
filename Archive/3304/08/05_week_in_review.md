@@ -4,30 +4,53 @@ title: Week in Review
 slug: week_in_review
 date: '3304-08-05'
 source: GitHub
+summary: Weekly summary covering the foiled assassination attempt on Aisling Duval, Riri McAllister being shot during her trial, the FIA investigation into the Far God cult, Aranbarahun Purple Creative's cargo ship campaign, Olav Redcourt abandoning his book tour, and the Alliance's successful starport construction initiative.
+player_impact: None
+persons:
+- Aisling Duval
+- Takio Diomedes
+- Jordan Rochester
+- Riri McAllister
+- Mara Klatt
+- Polly Cartesius
+- Micah Whitefield
+- Juanita Bishop
+- Olav Redcourt
+- Torvan Dast
 groups:
 - Alliance
-- IISS
 - Imperial Internal Security Service
+- Federal Intelligence Agency
+- Aranbarahun Purple Creative
+- League of Reparation
+- Far God cult
 locations:
 - Alioth
 - Aranbarahun
-- Barnes Terminal in the Aranbarahun
-- The attempt occurred in the Zhao
-- World in the Alioth
+- Zhao
+- Turner's World
+- Capitol
+- Synuefai EB-R C7-5
+- California Gateway
 topics:
 - alien contact
 - construction
 - investigation
-- medicine
-- ship
+- crime
 - terrorism
 - trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+- religion
+modern_impact: This week spans political violence, terrorism trials, religious persecution, and artistic rebellion, illustrating the volatile intersection of security and civil liberties in the galaxy.
 legacy_weight: 5
 significance: high
+related_uuids:
+- fd47bdc2-dcba-5689-a353-ca9b643ce205
+- 779431c9-8684-5495-ac25-27b84aec0509
+- dab1d8e0-8ac9-5fea-a7c9-ad5f57b5f541
+- f34b7bf5-b5e4-5225-99e1-c8455243bf42
+- 56f4cda2-9705-5b62-a5f5-cfd9aca1188b
+- 400a59da-3feb-50c0-95c2-68ea9c6f4ef2
 ---
 
 Week in Review

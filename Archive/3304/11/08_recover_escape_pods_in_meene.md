@@ -4,16 +4,28 @@ title: Recover Escape Pods in Meene
 slug: recover_escape_pods_in_meene
 date: '3304-11-08'
 source: GitHub
-locations:
-- Felice Dock in the Meene
-- Meene
+summary: Following a skirmish with mercenaries in the Meene system, the Meene Defence Force launches an operation to recover escape pods to interrogate surviving mercenaries and identify who hired them. Security Chief Harper Vargas states the mercenaries were targeting Ram Tah's Phoenix Base. The HIP 29241 Green Party oversees the initiative.
+player_impact: Independent pilots are asked to recover occupied and damaged escape pods and deliver them to Felice Dock in the Meene system. A kill order on wanted ships protects contributors.
+persons:
+- Harper Vargas
 - Ram Tah
+groups:
+- Meene Defence Force
+- HIP 29241 Green Party
+locations:
+- Meene
+- Felice Dock
+- Phoenix Base
 topics:
 - investigation
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- war
+modern_impact: The escape pod recovery operation demonstrates how security forces leverage independent pilots to gather intelligence following corporate-sponsored mercenary attacks.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 0df0d175-26b5-54ca-a01f-15bcd364aca3
+- bffb48c0-bcf9-5023-862b-75f80c238686
+- db332136-804c-58df-89f9-2ab0eef65d11
 ---
 
 Recover Escape Pods in [[Meene]]

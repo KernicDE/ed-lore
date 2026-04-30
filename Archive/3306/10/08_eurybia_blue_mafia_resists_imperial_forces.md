@@ -6,17 +6,29 @@ date: '3306-10-08'
 source: GitHub
 groups:
 - Pilots Federation
-locations:
+- Eurybia Blue Mafia
+- Keltim Empire League
+persons:
 - Liz Ryder
+- Ana Westergard
+- Rocco Gandara
+locations:
+- Eurybia
 topics:
-- construction
-- engineering
-- independence
 - terrorism
 - war
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 2
-significance: low
+- independence
+summary: The Eurybia Blue Mafia successfully fights off Imperial forces attempting to
+  capture engineer Liz Ryder. Both sides offer rewards to supporting pilots.
+player_impact: Pilots who supported either side can collect rewards at their respective
+  starports.
+modern_impact: The anarchist victory defies Imperial authority and keeps Liz Ryder out
+  of custody.
+legacy_weight: 3
+significance: medium
+related_uuids:
+- 00166067-886c-56fa-a0a6-e6bb8ff8bb4c
+- ac1ee566-f2a3-5093-9d2a-ba2fe98f7346
 ---
 
 [[Eurybia]] Blue Mafia Resists Imperial Forces

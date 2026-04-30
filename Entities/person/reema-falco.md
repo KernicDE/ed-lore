@@ -5,8 +5,6 @@ type: person
 first_seen_date: '3304-08-09'
 last_seen_date: '3304-08-09'
 mention_count: 1
-related_entities:
-- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Imperial Herald]] (1 co-mentions)
 
 ## Biography
 

@@ -4,19 +4,30 @@ title: Inhabited Generation Ship Discovered
 slug: inhabited_generation_ship_discovered
 date: '3305-11-08'
 source: GitHub
+groups:
+- Upaniklis Vision Incorporated
+- Interstellar Health Organisation
+persons:
+- Itsuko Harada
+- Ivan Johansen
 locations:
-- Fozard Port in the Upaniklis
+- Upaniklis
 topics:
-- corporate expansion
+- exploration
 - medicine
-- piracy
 - ship
-- trade
-arc_id: formidine-rift
-modern_impact: The Formidine Rift mystery captivates explorers and reveals hidden
-  history.
-legacy_weight: 3
-significance: medium
+summary: An inhabited generation ship, the Golconda, is discovered in the Upaniklis system.
+  The ancient vessel's crew suffers from a virus called "the wasting kiss" and requires
+  medical supplies and maintenance materials.
+player_impact: Pilots are asked to deliver medicines, aluminium, ceramic composites and
+  semiconductors to Fozard Port in Upaniklis. Bounty vouchers are offered to deter pirates.
+modern_impact: The discovery of a living generation ship society becomes one of the most
+  significant anthropological events of the era.
+legacy_weight: 5
+significance: high
+related_uuids:
+- bae2f9c5-e22d-5f51-a8b0-1686c584c9a1
+- 42b2a824-dda6-5beb-ae9d-99f1e5690520
 ---
 
 Inhabited Generation Ship Discovered

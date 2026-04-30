@@ -7,17 +7,20 @@ source: GitHub
 groups:
 - Alliance
 - Core Dynamics
-locations:
-- Jupiter
-- Sol
+- Lakon Spaceways
+persons:
+- Jupiter Rochester
 topics:
-- construction
 - corporate expansion
-- engineering
-- ship
-modern_impact: Engineering developments offer pilots new ship customisation options.
-legacy_weight: 2
-significance: low
+summary: Core Dynamics makes an official bid to acquire Lakon Spaceways, causing concern
+  in the Alliance due to their long partnership. CEO Jupiter Rochester promises Lakon
+  will retain its engineers and facilities. The Alliance Assembly questions the legality
+  of inter-superpower corporate mergers.
+player_impact: None
+modern_impact: Core Dynamics' bid for Lakon Spaceways marks a significant inter-superpower
+  corporate maneuver that could reshape ship manufacturing.
+legacy_weight: 3
+significance: medium
 ---
 
 [[Core Dynamics]] Bids to Purchase [[Lakon Spaceways]]

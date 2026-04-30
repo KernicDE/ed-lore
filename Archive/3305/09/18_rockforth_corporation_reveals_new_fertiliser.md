@@ -4,17 +4,29 @@ title: Rockforth Corporation Reveals New Fertiliser
 slug: rockforth_corporation_reveals_new_fertiliser
 date: '3305-09-18'
 source: GitHub
-entities:
+groups:
+- Rockforth Corporation
+- Interstellar Association for Agriculture
+persons:
 - Genevieve Kane
+- Rex Whitlock
 locations:
-- Mars
 - Riedquat
 topics:
 - corporate expansion
 - trade
-modern_impact: Trade initiative affecting commodity markets.
-legacy_weight: 2
-significance: low
+summary: Rockforth Corporation releases its EX7 fertiliser to address low crop yields.
+  Marketing director Rex Whitlock promotes its synthetic enhancement. The IAA expresses concerns
+  about regulatory compliance and requests distribution restrictions.
+player_impact: None
+modern_impact: The rushed release of EX7 fertiliser, prioritising profit over safety checks,
+  becomes the primary vector for the devastating blight pathogen.
+legacy_weight: 4
+significance: high
+related_uuids:
+- 2f3b3b59-46ee-59b4-8f60-035a7e31ee7c
+- dc4fc106-846e-575a-b6f4-a6d08e353ec1
+- 52de8894-6950-5b13-aa2a-ec35620347ce
 ---
 
 Rockforth Corporation Reveals New Fertiliser

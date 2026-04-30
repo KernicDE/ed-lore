@@ -4,28 +4,48 @@ title: Week in Review
 slug: week_in_review
 date: '3304-10-06'
 source: GitHub
-entities:
+summary: Weekly summary covering Fazia Silva's murder during the Alliance presidential race, Herculean Machines' dominant performance at the Rackham Ultratech Expo, the discovery of more surveillance robots by the FSS, Juanita Bishop's failed congressional bid, Broadcast Cobra's megaship construction appeal, and the successful Oktoberfest supply campaign in Bhagui.
+player_impact: None
+persons:
 - Edmund Mahon
+- Fazia Silva
+- Gibson Kincaid
+- Elijah Beck
+- Zachary Rackham
+- Maddox Hurd
+- Ramesh Thorne
+- Juanita Bishop
+- Alessandra Koa
 groups:
 - Alliance
 - Federal Congress
 - Federal Security Service
+- Herculean Machines
+- Supratech
+- Achilles Corporation
+- Broadcast Cobra
+- Mould Federal Mining Incorporated
 locations:
 - Bhagui
+- Hume Orbital
 topics:
-- alien contact
 - construction
 - corporate expansion
 - festival
 - investigation
-- ship
-- sport
+- crime
+- politics
 - trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: This week sees a seismic political assassination, major corporate competition outcomes, and growing revelations about surveillance technology abuses across the Federation.
 legacy_weight: 4
 significance: high
+related_uuids:
+- be94dc0c-3832-5f14-b864-cc7ad2ee3e53
+- a3e39e45-ff53-5d20-8eab-14ecd7b2b96a
+- 4cfd8020-b7f7-51bd-b184-d44dc244bf8b
+- 5e694d79-d97e-5e91-9248-447ca20344f8
+- af8f68f5-e131-5d4a-84de-c33d74e80132
+- cb43ac64-4aa0-5364-afed-ce8b91a31052
 ---
 
 Week in Review

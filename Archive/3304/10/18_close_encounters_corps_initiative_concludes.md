@@ -4,15 +4,25 @@ title: Close Encounters Corps Initiative Concludes
 slug: close_encounters_corps_initiative_concludes
 date: '3304-10-18'
 source: GitHub
+summary: The Close Encounters Corps announces the successful conclusion of its commodity appeal for scientific megaship construction. A huge number of muon imagers were delivered to Crown Prospect, enabling construction of a vessel to research the nebula surrounding the BD-12 1172 system. Admiral Anton Vern thanks participating pilots.
+player_impact: Contributing pilots can collect rewards from Crown Prospect in the Kagutsuchi system.
+persons:
+- Anton Vern
+groups:
+- Close Encounters Corps
+locations:
+- BD-12 1172
+- Kagutsuchi
+- Crown Prospect
 topics:
 - construction
 - research
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The successful megaship construction advances scientific infrastructure for deep-space nebula research, enabling exploration of previously inaccessible planetary systems.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9acbde6e-30e2-5e01-8bb1-bb604ef21cb5
 ---
 
 Close Encounters Corps Initiative Concludes

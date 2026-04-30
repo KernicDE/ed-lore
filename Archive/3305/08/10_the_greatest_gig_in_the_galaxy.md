@@ -6,10 +6,18 @@ date: '3305-08-10'
 source: GitHub
 groups:
 - Alliance
+persons:
+- Corinne Macintyre
+locations:
+- Phekda
 topics:
 - festival
-- sport
-modern_impact: Community celebration bringing pilots together.
+summary: The Alliance Festival of Culture's third week features a massive music festival
+  in the Phekda system. Legendary singer-songwriter Xiona comes out of retirement for a special
+  one-off performance.
+player_impact: None
+modern_impact: The music festival reinforces the Alliance's cultural identity and demonstrates
+  its ability to host galaxy-spanning entertainment events.
 legacy_weight: 1
 significance: low
 ---
