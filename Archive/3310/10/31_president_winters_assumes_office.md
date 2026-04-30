@@ -6,26 +6,28 @@ date: '3310-10-31'
 source: API
 entities:
 - Isolde Rochester
-- Jerome Archer
-- Winters Assumes Office
-- Winters made
-- Zachary Hudson
-groups:
-- ACT
-- October
-- Shadow President
+groups: []
 locations:
 - Mars
 - Olympus Village
 - Rhea
 - White House
 topics:
-- corporate expansion
 - espionage
-- terrorism
-- war
+- politics
 arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+modern_impact: "Winters' first act — shutting down the Proactive Detection Bureau and proposing revocation of the Domestic Counter-Terrorism Act of 3307 — is a radical privacy reform that reverses Hudson-era surveillance policy. Her pledge to 'redirect funding away from corporations toward improving health, public services and quality of life' defines the Liberal Party agenda that Archer will attack throughout 3311. The appointment of Conn Montgomery as Secretary for Defence links him to the Sol evacuation three months later."
+persons:
+- Felicia Winters
+- Isolde Rochester
+- Jerome Archer
+- Zachary Hudson
+- Kristine Lasky
+- Conn Montgomery
+- Bai Zheng
+- Pierre-Marc Pelletier
+player_impact: "Not specifically mentioned — this is an inauguration article."
+summary: "Felicia Winters is formally sworn in as President of the Federation, pledging to redirect funding from corporations to public services and ordering the shutdown of the Proactive Detection Bureau."
 legacy_weight: 3
 significance: medium
 ---

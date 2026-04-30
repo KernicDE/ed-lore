@@ -4,27 +4,31 @@ title: Torben Rademaker Demands ‘Disconnection’ of Seo Jin-ae
 slug: torben_rademaker_demands_disconnection_of_seo_jin_ae
 date: '3310-10-21'
 source: API
-entities:
-- Torben Rademaker
+entities: []
 groups:
-- ACT
 - Aegis
-- Azimuth
-- Thargoid
-locations:
-- Aegis
-- Azimuth
-- Thargoid
+- Azimuth Biochemicals
+locations: []
 topics:
 - alien contact
-- corporate expansion
 - medicine
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: thargoid-titan-war
+modern_impact: "Rademaker's statement — 'The original whistleblower of this tragic event did everybody a huge favour' — reveals his opportunism. His call to disconnect Seo 'by any means necessary' is a transparent attempt to leverage the crisis for Azimuth's benefit. The Aegis spokesperson's dismissal of his comments as 'characteristically insensitive' shows the depth of institutional hostility between Aegis and Azimuth."
+persons:
+- Torben Rademaker
+- Seo Jin-ae
+- Alba Tesreau
+- Conrad Sterling
+technologies:
+- Cortical implant
+player_impact: "Not specifically mentioned — this is a corporate statement article."
+summary: "Azimuth Biotech CEO Torben Rademaker demands Aegis 'disconnect' Seo Jin-ae from the Thargoid hive mind by any means necessary, claiming her link is a danger humanity cannot permit."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5a1d0dfb-328a-5005-8d29-f370641c3be4
+- f1d3e243-2009-5cfe-99b9-8ed22b563463
 ---
 
 Azimuth Biotech CEO Torben Rademaker has claimed that Seo Jin-ae's current medical situation is ‘dangerous’ for humanity.

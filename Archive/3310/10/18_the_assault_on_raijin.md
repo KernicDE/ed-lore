@@ -4,23 +4,24 @@ title: The Assault on Raijin
 slug: the_assault_on_raijin
 date: '3310-10-18'
 source: API
-groups:
-- Thargoid
+groups: []
 locations:
 - Guardian
-- Thargoid
-- Titan
 topics:
 - alien contact
-- humanitarian
-- ship
 - war
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "This alert codifies the standard anti-Titan loadout (Pulse Neutraliser, Caustic Sink Launchers, Guardian Nanite Torpedo Pylon) that will be referenced in every subsequent Titan assault including Cocijo. The destruction of Raijin leaves only Cocijo, setting up the final act of the war."
+technologies:
+- Thargoid Pulse Neutraliser
+- Caustic Sink Launcher
+- Guardian Nanite Torpedo Pylon
+player_impact: "Pilots were called to aid in the defeat of Titan Raijin, equipped with Thargoid Pulse Neutralisers, Caustic Sink Launchers, and Guardian Nanite Torpedo Pylons available at Rescue Megaships."
+summary: "The Pilots' Federation issues an urgent call for pilots to aid in the defeat of Titan Raijin, the seventh Titan, with key anti-Titan modules available at Rescue Megaships."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 52a6914e-4835-530a-a009-016a4e55435d
 ---
 
 *Pilots’ Federation Alert* 

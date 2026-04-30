@@ -6,11 +6,11 @@ first_seen_date: '3302-07-29'
 last_seen_date: '3310-11-25'
 mention_count: 6
 related_entities:
-- inra
 - pilots-federation
+- inra
 - aegis
-- thargoid
 - jameson-memorial
+- act
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **6**
 
 ## Related
 
-- [[INRA]] (4 co-mentions)
 - [[Pilots Federation]] (3 co-mentions)
+- [[INRA]] (3 co-mentions)
 - [[Aegis]] (3 co-mentions)
-- [[Thargoid]] (3 co-mentions)
 - [[Jameson Memorial]] (3 co-mentions)
+- [[ACT]] (2 co-mentions)
 
 ## Biography
 

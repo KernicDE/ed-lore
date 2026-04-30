@@ -9,8 +9,8 @@ related_entities:
 - sirius-corporation
 - cormack-hub-in-the-procyon
 - the-tour-will-begin-in-the-blatrimpe
-- shamus-madigan
-- act
+- achilles-aerospace
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **5**
 - [[Sirius Corporation]] (3 co-mentions)
 - [[Cormack Hub in the Procyon]] (2 co-mentions)
 - [[The tour will begin in the Blatrimpe]] (1 co-mentions)
-- [[Shamus Madigan]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
+- [[Achilles Aerospace]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
 
 ## Biography
 

@@ -6,22 +6,28 @@ date: '3310-10-24'
 source: API
 groups:
 - Aegis
-- October
-- Thargoid
-locations:
-- Aegis
-- Thargoid
+locations: []
 topics:
 - alien contact
 - medicine
-- research
-- safety
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Seo's description — 'It was like someone plugged an amplifier straight into my brain... The Thargoids had finally noticed my presence and tried to learn what they could about me' — is the most direct evidence of Thargoid intelligence-gathering on individual humans. Her warning that 'They're planning something now' directly foreshadows Cocijo's assault on Sol three weeks later. Colombera's speculation that the implant 'disrupted an attempt to control her like a drone' suggests the Thargoids may have intended worse."
+persons:
+- Seo Jin-ae
+- Ivano Colombera
+technologies:
+- Cortical implant
+- Project Seraph
+player_impact: "Not specifically mentioned — this is a statement release article."
+summary: "Seo Jin-ae wakes from a week-long coma and releases an unauthorised ICE-cast statement revealing that the Thargoids deliberately probed her mind through her cortical implant, learning everything she knows about humanity."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5a1d0dfb-328a-5005-8d29-f370641c3be4
+- d00fdc0c-6bee-596a-b154-a6ca22ff4c55
+- 52a6914e-4835-530a-a009-016a4e55435d
+- 5577d259-b0ea-5583-bd87-af53e524c4db
 ---
 
 Reports that Aegis special advisor Seo Jin-ae has woken from a week-long coma were followed by a statement by Seo, which was sent to all major newsfeeds.

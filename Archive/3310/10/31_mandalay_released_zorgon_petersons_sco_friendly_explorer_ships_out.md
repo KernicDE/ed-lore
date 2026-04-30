@@ -4,24 +4,30 @@ title: 'Mandalay Released: Zorgon Peterson’s SCO-Friendly Explorer Ships Out'
 slug: mandalay_released_zorgon_petersons_sco_friendly_explorer_ships_out
 date: '3310-10-31'
 source: API
-entities:
-- Ships Out
+entities: []
 groups:
 - Achilles Aerospace
-- Engineers
-- Sirius Corp
 - Sirius Corporation
 - Zorgon Peterson
 locations:
 - Sirius
 topics:
-- corporate expansion
-- engineering
 - exploration
 - ship
-modern_impact: New ship releases expand pilot capabilities and reshape the ship market.
+modern_impact: "Kaneda's emphasis on atmospheric handling and SCO drive optimisation positions the Mandalay as the premier medium explorer. The rumour of 'an ongoing disagreement between representatives and Zorgon Peterson management over Achilles' design input' hints at corporate tension between Sirius and Zorgon that may affect future ship development."
+persons:
+- Devin Kaneda
+technologies:
+- Mandalay
+- SCO frame shift drive
+- Python Mk II
+- Type-8
+player_impact: "The first run of Mandalay ships was delivered to shipyards across the core systems and became available for purchase."
+summary: "Zorgon Peterson's Mandalay exploration vessel, optimised for Achilles Aerospace's SCO frame shift drive, is now available for purchase at shipyards across the core systems."
 legacy_weight: 2
 significance: low
+related_uuids:
+- 326805e7-3005-5e8c-976c-a10a6be6070b
 ---
 
 The first run of Mandalay ships has been delivered to shipyards across the core systems and are now available for purchase.

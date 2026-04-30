@@ -23,11 +23,11 @@ Total mentions: **307**
 
 ## Related
 
-- [[Thargoid]] (147 co-mentions)
-- [[ACT]] (131 co-mentions)
+- [[Thargoid]] (142 co-mentions)
+- [[ACT]] (127 co-mentions)
 - [[Alliance]] (89 co-mentions)
 - [[Alba Tesreau]] (54 co-mentions)
-- [[Titan]] (54 co-mentions)
+- [[Titan]] (52 co-mentions)
 
 ## Biography
 

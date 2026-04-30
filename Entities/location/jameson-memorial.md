@@ -6,11 +6,11 @@ first_seen_date: '3301-09-06'
 last_seen_date: '3310-10-02'
 mention_count: 7
 related_entities:
-- inra
-- thargoid
 - shinrarta-dezhra
 - corrigendum
 - interstellar-press
+- jameson-memorial-review
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **7**
 
 ## Related
 
-- [[INRA]] (3 co-mentions)
-- [[Thargoid]] (3 co-mentions)
 - [[Shinrarta Dezhra]] (3 co-mentions)
 - [[Corrigendum]] (2 co-mentions)
 - [[Interstellar Press]] (2 co-mentions)
+- [[Jameson Memorial Review]] (2 co-mentions)
+- [[Sol]] (2 co-mentions)
 
 ## Biography
 

@@ -1,7 +1,7 @@
 ---
-id: frenis
-name: Frenis
-type: location
+id: natasha-moore
+name: Natasha Moore
+type: person
 first_seen_date: '3310-10-29'
 last_seen_date: '3310-10-29'
 mention_count: 1
@@ -9,7 +9,7 @@ mention_count: 1
 
 <!-- AUTO-GENERATED -->
 
-# Frenis
+# Natasha Moore
 
 First mentioned: **3310-10-29**  
 Last mentioned: **3310-10-29**  

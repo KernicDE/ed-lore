@@ -10,7 +10,7 @@ related_entities:
 - kumo-crew
 - trask
 - alliance
-- thargoid
+- october
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **9**
 
 ## Related
 
-- [[ACT]] (9 co-mentions)
+- [[ACT]] (8 co-mentions)
 - [[Kumo Crew]] (8 co-mentions)
 - [[Trask]] (6 co-mentions)
 - [[Alliance]] (4 co-mentions)
-- [[Thargoid]] (3 co-mentions)
+- [[October]] (2 co-mentions)
 
 ## Biography
 

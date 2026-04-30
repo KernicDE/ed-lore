@@ -4,16 +4,19 @@ title: Famed Treasure Hunter Herman Colt Missing
 slug: famed_treasure_hunter_herman_colt_missing
 date: '3310-10-29'
 source: API
-groups:
-- ACT
+groups: []
 locations:
 - Frenis
 topics:
 - exploration
 - piracy
-- trade
 - treasure hunt
-modern_impact: Community-driven treasure hunt engaging independent pilots.
+modern_impact: "Colt's disappearance during a search for Captain Morrigan's hoard (a pirate active 3253-3261) illustrates how the frontier remains dangerous even during the Thargoid war. The article serves as world-building colour, showing that normal life — treasure hunting, piracy, exploration — continues alongside galactic-scale conflict."
+persons:
+- Herman Colt
+- Natasha Moore
+player_impact: "Not specifically mentioned — this is a news report about a missing treasure hunter."
+summary: "Treasure hunter Herman Colt goes missing during an expedition to find Captain Morrigan's final treasure hoard near Frenis, prompting concern from colleague Natasha Moore."
 legacy_weight: 1
 significance: low
 ---

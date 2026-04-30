@@ -4,23 +4,20 @@ title: Jameson Memorial Starport Operational
 slug: jameson_memorial_starport_operational
 date: '3310-10-02'
 source: API
-groups:
-- INRA
-- October
-- Thargoid
+groups: []
 locations:
 - Jameson Memorial
 - Shinrarta Dezhra
-- Thargoid
 topics:
 - alien contact
-- construction
 - humanitarian
-- trade
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Baljak's statement reflects the importance of Jameson Memorial as a symbolic hub for pilots. The loss of over 1,600 Commanders and Rescue Rangers is one of the highest single-battle pilot casualty figures of the war. The 'particularly high' Scout kill count suggests Shinrarta Dezhra was a concentrated defensive success despite the losses."
+persons:
+- Florian Baljak
+player_impact: "Pilots flocked to the defensive campaign in Shinrarta Dezhra. Over 1,600 licensed Commanders and Rescue Rangers were lost during the attack."
+summary: "Jameson Memorial starport in Shinrarta Dezhra is fully operational again after a Thargoid incursion, with starport commander Florian Baljak praising the pilot response."
 legacy_weight: 5
 significance: high
 ---

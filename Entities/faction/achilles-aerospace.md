@@ -23,10 +23,10 @@ Total mentions: **7**
 
 ## Related
 
-- [[ACT]] (6 co-mentions)
+- [[ACT]] (5 co-mentions)
 - [[Sirius Corporation]] (4 co-mentions)
-- [[Thargoid]] (3 co-mentions)
-- [[Titan]] (3 co-mentions)
+- [[Thargoid]] (2 co-mentions)
+- [[Titan]] (2 co-mentions)
 - [[Faulcon DeLacy]] (2 co-mentions)
 
 ## Biography

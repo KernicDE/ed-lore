@@ -1,18 +1,18 @@
 ---
-id: devin-kaneda
-name: Devin Kaneda
-type: person
+id: sco-frame-shift-drive
+name: SCO frame shift drive
+type: technology
 first_seen_date: '3310-10-15'
-last_seen_date: '3311-12-16'
+last_seen_date: '3310-10-31'
 mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Devin Kaneda
+# SCO frame shift drive
 
 First mentioned: **3310-10-15**  
-Last mentioned: **3311-12-16**  
+Last mentioned: **3310-10-31**  
 Total mentions: **3**
 
 ## Related

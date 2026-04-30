@@ -6,8 +6,8 @@ last_seen_date: '3310-10-31'
 mention_count: 58
 significance: medium
 key_entities:
-- zachary-hudson
 - federal-times
+- zachary-hudson
 - felicia-winters
 - shadow-president
 - act
@@ -23,11 +23,11 @@ Articles: **58**
 
 ## Key Figures
 
-- [[Zachary Hudson]] (16 mentions)
 - [[Federal Times]] (16 mentions)
+- [[Zachary Hudson]] (15 mentions)
 - [[Felicia Winters]] (13 mentions)
-- [[Shadow President]] (11 mentions)
-- [[ACT]] (10 mentions)
+- [[Shadow President]] (10 mentions)
+- [[ACT]] (9 mentions)
 
 ## Description
 

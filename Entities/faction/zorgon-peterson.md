@@ -7,10 +7,10 @@ last_seen_date: '3312-04-28'
 mention_count: 11
 related_entities:
 - aiaba
-- act
 - faulcon-delacy
-- ships-out
 - achilles-aerospace
+- sirius-corporation
+- vespucci-city
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **11**
 ## Related
 
 - [[Aiaba]] (3 co-mentions)
-- [[ACT]] (1 co-mentions)
 - [[Faulcon DeLacy]] (1 co-mentions)
-- [[Ships Out]] (1 co-mentions)
 - [[Achilles Aerospace]] (1 co-mentions)
+- [[Sirius Corporation]] (1 co-mentions)
+- [[Vespucci City]] (1 co-mentions)
 
 ## Biography
 

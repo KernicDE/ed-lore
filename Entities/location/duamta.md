@@ -6,10 +6,10 @@ first_seen_date: '3309-03-02'
 last_seen_date: '3310-10-18'
 mention_count: 3
 related_entities:
-- act
 - aegis
-- thargoid
 - maximo-fonseca
+- act
+- thargoid
 - gateway
 ---
 
@@ -23,10 +23,10 @@ Total mentions: **3**
 
 ## Related
 
-- [[ACT]] (2 co-mentions)
 - [[Aegis]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
 - [[Maximo Fonseca]] (1 co-mentions)
+- [[ACT]] (1 co-mentions)
+- [[Thargoid]] (1 co-mentions)
 - [[Gateway]] (1 co-mentions)
 
 ## Biography

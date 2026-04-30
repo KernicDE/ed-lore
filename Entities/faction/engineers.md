@@ -3,8 +3,8 @@ id: engineers
 name: Engineers
 type: faction
 first_seen_date: '3308-06-01'
-last_seen_date: '3310-10-31'
-mention_count: 14
+last_seen_date: '3310-07-30'
+mention_count: 13
 related_entities:
 - act
 - thargoid
@@ -18,8 +18,8 @@ related_entities:
 # Engineers
 
 First mentioned: **3308-06-01**  
-Last mentioned: **3310-10-31**  
-Total mentions: **14**
+Last mentioned: **3310-07-30**  
+Total mentions: **13**
 
 ## Related
 
