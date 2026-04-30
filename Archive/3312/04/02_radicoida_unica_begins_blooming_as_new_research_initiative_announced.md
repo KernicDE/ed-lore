@@ -2,7 +2,7 @@
 uuid: 62d40e14-3815-5039-b952-23d2b03e7b6c
 title: Radicoida Unica Begins Blooming as New Research Initiative Announced
 slug: radicoida_unica_begins_blooming_as_new_research_initiative_announced
-date: '3312-04-02'
+date: 3312-04-02
 source: API
 groups:
 - October Consortium
@@ -13,17 +13,13 @@ topics:
 - corporate expansion
 - research
 arc_id: hip87621-conflict
-modern_impact: The HIP 87621 enclave conflict highlights post-war superpower tensions
-  and territorial disputes.
+modern_impact: Active reproductive phase confirms Radicoida responds to biological proximity, suggesting possible symbiotic or sentient-adjacent behavior. Performance-enhancing seed pods entering controlled collection foreshadow potential black-market trade or tightly regulated corporate distribution of enhancement compounds.
 legacy_weight: 4
 significance: high
 technologies:
 - Radicoida unica
-player_impact: 'New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP
-  87621. Plant entered active reproductive phase. Hazardous surface conditions.'
-summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October
-  Consortium calls for harvesting to support pharmacological research. Exogene Sciences
-  is collection point.
+player_impact: "New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP 87621. Plant entered active reproductive phase. Hazardous surface conditions."
+summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October Consortium calls for harvesting to support pharmacological research. Exogene Sciences is collection point.
 related_uuids:
 - ed385459-5c49-5899-ba5b-c1aaeb45d81b
 - 5a71a938-54b4-516c-a9c2-96aea2e3e6d3

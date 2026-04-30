@@ -2,25 +2,21 @@
 uuid: c4b2450a-e439-5f9f-8772-bbe1373aeeed
 title: Viral Wellness Trend Spreads Beyond Entertainment Circles
 slug: viral_wellness_trend_spreads_beyond_entertainment_circles
-date: '3312-03-17'
+date: 3312-03-17
 source: API
 groups:
 - Orion University
 topics:
 - engineering
 - exploration
-modern_impact: Engineering developments offer pilots new ship customisation options.
+modern_impact: Cross-professional reporting of enhanced wellbeing without clear attribution suggests either a genuine mass behavioral shift or a concealed systemic cause. The trend's organic spread and resistance to commercial co-optation may indicate an underlying biological or environmental factor yet to be identified.
 legacy_weight: 1
 significance: low
-arc_id: wellness-surge
 persons:
 - William Ventura
 - Mara Chen
-player_impact: Social/cultural event with no direct gameplay. Viral wellness trend
-  continues spreading. Monitor for potential commodity or CG implications.
-summary: William 'Big Bill' Ventura's fitness trend evolves into broader cultural
-  movement. Unusually consistent reports of improved wellbeing across professions.
-  No product or organization credited.
+player_impact: Social/cultural event with no direct gameplay. Viral wellness trend continues spreading. Monitor for potential commodity or CG implications.
+summary: William 'Big Bill' Ventura's fitness trend evolves into broader cultural movement. Unusually consistent reports of improved wellbeing across professions. No product or organization credited.
 related_uuids:
 - 0f29b721-3c5c-515b-a61a-62f30189a33c
 - 6510e3ed-786a-569a-8267-c86f32250c9c

@@ -1,9 +1,8 @@
 ---
 uuid: d76e02f3-5b13-56fb-a3c5-6b2fa74ee284
-title: Third Distant Worlds Expedition Requests Materials for Deep-Space Infrastructure
-  Project
+title: Third Distant Worlds Expedition Requests Materials for Deep-Space Infrastructure Project
 slug: third_distant_worlds_expedition_requests_materials_for_deep_space_infrastructure_project
-date: '3312-01-08'
+date: 3312-01-08
 source: API
 groups:
 - ACT
@@ -15,8 +14,7 @@ topics:
 - research
 - trade
 arc_id: distant-worlds-3
-modern_impact: The Distant Worlds 3 expedition pushes the boundaries of deep-space
-  exploration and community coordination.
+modern_impact: Establishes precedent for community-funded deep-space infrastructure. Future expeditions will likely replicate this crowdfunding model. The resulting station becomes a permanent frontier outpost supporting exploration in the galactic northeast.
 legacy_weight: 3
 significance: medium
 ---

@@ -22,7 +22,7 @@ interface ContextPanelProps {
   currentDate: string;
   entities: Record<string, Entity>;
   arcs: Record<string, Arc>;
-  visibleArticles: { arc_id: string | null; entities: string[]; groups: string[]; locations: string[]; topics: string[] }[];
+  visibleArticles: { arc_id: string | null; entities: string[]; groups: string[]; locations: string[]; topics: string[]; persons: string[]; technologies: string[] }[];
 }
 
 function makeEid(name: string): string {
@@ -114,7 +114,15 @@ export default function ContextPanel({
   const keyFigures = useMemo(() => {
     const counts = new Map<string, number>();
     visibleArticles.forEach((a) => {
-      [...a.entities, ...a.groups, ...a.locations].forEach((name) => {
+      // Prefer manually enriched persons/technologies/groups/locations over
+      // rule-based entities which contain sentence fragments
+      [...a.persons, ...a.technologies, ...a.groups, ...a.locations].forEach((name) => {
+        const eid = makeEid(name);
+        counts.set(eid, (counts.get(eid) || 0) + 1);
+      });
+      // Only include rule-based entities if they look like proper nouns (no spaces = likely a name)
+      a.entities.forEach((name) => {
+        if (name.includes(' ')) return; // skip sentence fragments
         const eid = makeEid(name);
         counts.set(eid, (counts.get(eid) || 0) + 1);
       });

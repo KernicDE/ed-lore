@@ -2,7 +2,7 @@
 uuid: 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 title: Coordinated Raids Hit Outposts Across Core Systems
 slug: coordinated_raids_hit_outposts_across_core_systems
-date: '3312-04-23'
+date: 3312-04-23
 source: API
 groups:
 - ACT
@@ -14,18 +14,13 @@ topics:
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Twin-axe malware signature and coordinated military-port raids indicate an organized pirate coalition with technical sophistication matching some military forces. A rogue strategist uniting ships under one banner mirrors the power-coalition dynamics seen in HIP 87621, suggesting decentralized authority structures may become a recurring threat model.
 legacy_weight: 2
 significance: low
-arc_id: pirate-coalition-rise
 persons:
 - Mira Bukowski
-player_impact: New organized pirate threat with twin-axe malware calling card. Coordinated
-  raids on military outposts across core systems. No faction claims responsibility
-  yet.
-summary: Military outposts across the Bubble hit by coordinated raids. Twin-axe malware
-  signature suggests a rogue pirate strategist uniting ships under one banner. Trade
-  associations warn of falling confidence.
+player_impact: New organized pirate threat with twin-axe malware calling card. Coordinated raids on military outposts across core systems. No faction claims responsibility yet.
+summary: Military outposts across the Bubble hit by coordinated raids. Twin-axe malware signature suggests a rogue pirate strategist uniting ships under one banner. Trade associations warn of falling confidence.
 related_uuids:
 - 1bb577e6-52b3-5a63-a983-f1975e27d66b
 - 86dbc944-a8ec-5d85-ab42-44ac9911ac40

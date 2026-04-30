@@ -2,25 +2,20 @@
 uuid: cc95b7d8-d5bd-58ef-9ce4-83d5bfc9abd8
 title: Type-11 Prospector Enters Full Production
 slug: type_11_prospector_enters_full_production
-date: '3312-01-22'
+date: 3312-01-22
 source: API
 groups:
 - Lakon Spaceways
 topics:
 - piracy
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Dedicated mining vessel with fighter bay signals Lakon's response to post-war resource demands. Armed civilian extraction craft may become standard in piracy-prone systems, blurring the line between industrial and combat vessels.
 legacy_weight: 1
 significance: low
-arc_id: ship-release
 technologies:
 - Type-11 Prospector
-player_impact: Type-11 Prospector enters full production at all core shipyards. Dedicated
-  laser mining vessel with higher extraction yields, expanded limpet capacity, and
-  fighter bay.
-summary: Lakon Spaceways' Type-11 Prospector enters full distribution. Designed as
-  dedicated mining vessel with optimized large hardpoint, larger limpet system, and
-  fighter bay for pirate defence.
+player_impact: Type-11 Prospector enters full production at all core shipyards. Dedicated laser mining vessel with higher extraction yields, expanded limpet capacity, and fighter bay.
+summary: Lakon Spaceways' Type-11 Prospector enters full distribution. Designed as dedicated mining vessel with optimized large hardpoint, larger limpet system, and fighter bay for pirate defence.
 related_uuids:
 - 1a0654de-9c87-59e6-8494-a5cbb34758d0
 - 8a3a1cb2-ff2d-5f18-b0aa-b96e491874a4

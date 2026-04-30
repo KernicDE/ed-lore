@@ -1,8 +1,8 @@
 ---
 uuid: ab9f6c81-8fa4-564b-978d-59be79a044dc
-title: 'Coalition Announces Non-Aggression Pact Amid HIP 87621 Hostilities '
+title: Coalition Announces Non-Aggression Pact Amid HIP 87621 Hostilities 
 slug: coalition_announces_non_aggression_pact_amid_hip_87621_hostilities
-date: '3312-02-03'
+date: 3312-02-03
 source: API
 groups:
 - Imperial Navy
@@ -15,19 +15,14 @@ topics:
 - succession
 - war
 arc_id: hip87621-conflict
-modern_impact: The HIP 87621 enclave conflict highlights post-war superpower tensions
-  and territorial disputes.
+modern_impact: Informal power coalition without Federal representation shifts the post-war superpower balance. Exclusion of Pranav Antal and the Federation creates new diplomatic fault lines. This model of independent pilot-led peace agreements may influence how future enclave conflicts are resolved without direct superpower intervention.
 legacy_weight: 4
 significance: high
 persons:
 - Ernesto Rios
 - Pranav Antal
-player_impact: Non-aggression pact in HIP 87621 enclave between Aisling Duval, Yuri
-  Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus forces.
-  Pranav Antal excluded. Fighting subsides but sporadic clashes continue.
-summary: Coalition of major powers announces non-aggression pact in HIP 87621 enclave.
-  Aisling, Grom, Arissa, Kaine, Mahon and Patreus aligned. Antal excluded. Analysts
-  suggest motive is to refocus on core system conflicts.
+player_impact: Non-aggression pact in HIP 87621 enclave between Aisling Duval, Yuri Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus forces. Pranav Antal excluded. Fighting subsides but sporadic clashes continue.
+summary: Coalition of major powers announces non-aggression pact in HIP 87621 enclave. Aisling, Grom, Arissa, Kaine, Mahon and Patreus aligned. Antal excluded. Analysts suggest motive is to refocus on core system conflicts.
 related_uuids:
 - b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
 - 86dbc944-a8ec-5d85-ab42-44ac9911ac40

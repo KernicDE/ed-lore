@@ -19,7 +19,6 @@ topics:
 - engineering
 - exploration
 - ship
-arc_id: ship-release
 modern_impact: New ship releases expand pilot capabilities and reshape the ship market.
 legacy_weight: 2
 significance: low

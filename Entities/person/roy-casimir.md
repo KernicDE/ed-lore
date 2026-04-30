@@ -10,7 +10,7 @@ related_entities:
 - pilots-federation
 - eol-prou
 - jaques-station
-- casimir-noted-that
+- october-consortium
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **4**
 - [[Pilots Federation]] (1 co-mentions)
 - [[Eol Prou]] (1 co-mentions)
 - [[Jaques Station]] (1 co-mentions)
-- [[Casimir noted that]] (1 co-mentions)
+- [[October Consortium]] (1 co-mentions)
 
 ## Biography
 

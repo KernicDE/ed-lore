@@ -2,7 +2,7 @@
 uuid: 86dbc944-a8ec-5d85-ab42-44ac9911ac40
 title: Pirate Activity Surges as Security Forces Redeployed
 slug: pirate_activity_surges_as_security_forces_redeployed
-date: '3312-02-10'
+date: 3312-02-10
 source: API
 groups:
 - Imperial Internal Security Service
@@ -15,16 +15,11 @@ topics:
 - trade
 - war
 arc_id: hip87621-conflict
-modern_impact: The HIP 87621 enclave conflict highlights post-war superpower tensions
-  and territorial disputes.
+modern_impact: Security vacuum created by superpower military concentration demonstrates the fragility of colonial defenses. Pirate groups learn to exploit great-power conflicts for territorial gain, a pattern likely to repeat whenever major forces are drawn into peripheral conflicts.
 legacy_weight: 4
 significance: high
-player_impact: Pirate activity spikes in Imperial and Federal colonies due to security
-  redeployment to HIP 87621. Increased interdictions and miner harassment. Bounty
-  opportunities.
-summary: Sharp rise in pirate activity across Imperial and Federal colonies as security
-  forces redeploy to HIP 87621. Traders and miners report sustained harassment. IISS
-  acknowledges 'temporary pressure' on border systems.
+player_impact: Pirate activity spikes in Imperial and Federal colonies due to security redeployment to HIP 87621. Increased interdictions and miner harassment. Bounty opportunities.
+summary: Sharp rise in pirate activity across Imperial and Federal colonies as security forces redeploy to HIP 87621. Traders and miners report sustained harassment. IISS acknowledges 'temporary pressure' on border systems.
 related_uuids:
 - ab9f6c81-8fa4-564b-978d-59be79a044dc
 - 46b8ec38-ca04-5680-b3a2-01de047bc6c4

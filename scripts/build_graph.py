@@ -165,7 +165,8 @@ def build() -> dict[str, Any]:
         if not fm:
             continue
         body = extract_body(article_path)
-        date = fm.get("date", "")
+        date_raw = fm.get("date", "")
+        date = str(date_raw) if date_raw else ""
         uuid = fm.get("uuid", "")
         arc_id = fm.get("arc_id")
 

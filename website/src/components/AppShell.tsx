@@ -18,6 +18,8 @@ interface Article {
   locations: string[];
   topics: string[];
   legacy_weight: number;
+  persons?: string[];
+  technologies?: string[];
 }
 
 interface Entity {
@@ -122,6 +124,8 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
       groups: a.groups,
       locations: a.locations,
       topics: a.topics,
+      persons: a.persons || [],
+      technologies: a.technologies || [],
     }));
   }, [scrollTop, viewportHeight, sortedArticles]);
 

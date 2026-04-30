@@ -2,7 +2,7 @@
 uuid: 5d594007-84d8-500c-8b57-7ac95e8d6284
 title: Distant Worlds Expedition Preparations Conclude Successfully
 slug: distant_worlds_expedition_preparations_conclude_successfully
-date: '3312-01-17'
+date: 3312-01-17
 source: API
 groups:
 - Distant Worlds
@@ -13,8 +13,7 @@ topics:
 - exploration
 - war
 arc_id: distant-worlds-3
-modern_impact: The Distant Worlds 3 expedition pushes the boundaries of deep-space
-  exploration and community coordination.
+modern_impact: Demonstrates the logistical power of coordinated independent pilot networks. The DSS carrier logistics model may be replicated for future mega-expeditions, setting a new standard for civilian deep-space operations.
 legacy_weight: 3
 significance: medium
 ---

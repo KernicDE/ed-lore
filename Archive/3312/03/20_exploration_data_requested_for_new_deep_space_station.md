@@ -2,7 +2,7 @@
 uuid: 24d79b14-7fcd-5d02-bd05-b1ea1a77b7f0
 title: Exploration Data Requested for New Deep-Space Station
 slug: exploration_data_requested_for_new_deep_space_station
-date: '3312-03-20'
+date: 3312-03-20
 source: API
 groups:
 - Deep Space Surveys
@@ -13,17 +13,13 @@ topics:
 - research
 - war
 arc_id: distant-worlds-3
-modern_impact: The Distant Worlds 3 expedition pushes the boundaries of deep-space
-  exploration and community coordination.
+modern_impact: Community-seeded stellar modelling at frontier stations creates a distributed research architecture. This model of pilot-contributed data seeding permanent research infrastructure may be replicated at other deep-space facilities, accelerating frontier science.
 legacy_weight: 3
 significance: medium
 persons:
 - Hermine Delarue
-player_impact: 'CG active: deliver exploration data to Rainbow''s End in Roefoo ZE-H
-  d10-0 to seed stellar modelling systems. Open until March 27.'
-summary: Distant Worlds 3 logistics fleet completes Rainbow's End deep-space station
-  in Roefoo ZE-H d10-0. Calls for exploration data to seed modelling systems. Station
-  opens March 3312.
+player_impact: "CG active: deliver exploration data to Rainbow's End in Roefoo ZE-H d10-0 to seed stellar modelling systems. Open until March 27."
+summary: Distant Worlds 3 logistics fleet completes Rainbow's End deep-space station in Roefoo ZE-H d10-0. Calls for exploration data to seed modelling systems. Station opens March 3312.
 related_uuids:
 - 1c11d8d0-5fd0-592c-81c0-bc68296fadf
 - 733415a6-cbfd-5926-a7dc-3a7569d14645
