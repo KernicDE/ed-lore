@@ -1,0 +1,43 @@
+---
+uuid: 159caa3b-1d4d-531b-ac16-f40c17d6f332
+title: Alliance Reviews Sirius Defence Pact
+slug: alliance_reviews_sirius_defence_pact
+date: '3309-11-20'
+source: API
+entities:
+- Mahon faces political pressure
+groups:
+- ACT
+- Aegis
+- Alliance
+- Sirius Corp
+- Sirius Corporation
+- Thargoid
+locations:
+- Aegis
+- Sirius
+- Thargoid
+- Titan
+topics:
+- alien contact
+- corporate expansion
+- engineering
+- humanitarian
+- investigation
+- ship
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+The Alliance Assembly has approved a formal evaluation of its strategic defence pact with Sirius Corporation.
+The vote to launch an independent inquiry was led by Councillor Nakato Kaine, who summarised:
+“This partnership has been in effect for nearly two years. What tangible military support have we seen? Sirius Corporation has done little to protect Allied populations from attack or abduction. The capital ships promised to the Alliance Defence Force remain on the drawing board. The Sirius Navy isn’t even engaging the Thargoid fleets on the front line of this war. How much longer must we endure Li Yong-Rui’s empty promises?”
+Admiral Nikolas Glass, the megacorp’s representative on the Council of Admirals, disputed these claims:
+“In truth, an enormous amount of work is taking place behind the scenes. Sirius technicians have retrofitted many ageing ADF ships with modern weaponry and internal systems. We’ve invested significantly in new AX modules, such as the anti-xeno missile rack and pre-engineered heatsink. And our blueprints formed the basis for Aegis’s sub-surface extraction missile, which has helped rescue so many from the Titans.”
+An editorial piece in the Old Worlds Gazette speculated:
+“The strategic defence pact has led to some successes, such as the Operation Tyndareus taskforce that repulsed a Thargoid incursion in Allied territory. But that was over a year ago, and the vision of a Sirius-backed Alliance Navy to rival the Empire or Federation has not materialised.”
+“As displeasure grows in the Assembly, the option to renegotiate the pact has been raised alongside Councillor Kaine’s proposal to terminate it entirely. Prime Minister Mahon faces political pressure to abandon his commitment to Sirius Corporation, especially now that a reformed Aegis is leading anti-xeno technology development.”

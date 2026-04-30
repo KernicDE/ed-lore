@@ -1,0 +1,40 @@
+---
+uuid: 75959975-677e-5ef0-a638-99ecddb6c873
+title: Thargoid Motherships Discovered Within Maelstroms
+slug: thargoid_motherships_discovered_within_maelstroms
+date: '3309-05-16'
+source: API
+entities:
+- Shamus Madigan
+groups:
+- ACT
+- Aegis
+- INRA
+- Thargoid
+locations:
+- Aegis
+- Maelstrom
+- Thargoid
+topics:
+- alien contact
+- construction
+- exploration
+- research
+- ship
+- war
+arc_id: thargoid-titan-war
+modern_impact: The Thargoid Titan war represents the most devastating alien conflict
+  in human history, reshaping the galactic military landscape.
+legacy_weight: 5
+significance: high
+---
+
+*Pilots’ Federation ALERT*
+Exploration of the inner regions of the Maelstroms has revealed the existence of colossal Thargoid constructs.
+Alba Tesreau, head of Aegis, published a summary on behalf of the tri-superpower initiative: 
+“Our pathfinder missions have verified reports by the first manned ships that used the Thargoid pulse neutraliser. We know that the core environments of all eight Maelstroms are consistent in layout and extremely dangerous.”
+“Once past the energy wave, the initial hazard is an asteroid field that must be navigated. We cannot theorise an obvious reason why the asteroids have been gathered here. Thargoid vessels also patrol this region. Some reports indicate a previously unencountered class of Thargoid combat vessel accompanying interceptors and scouts.”
+“Beyond these, at the centre of each Maelstrom, is a gargantuan Thargoid structure. They dwarf any singular man-made creation, even Coriolis starports. I’ve reviewed footage provided by our pilots, and I will admit that the architecture is unsettling. Finding a way to defeat them will be our greatest challenge to date.”
+Professor Shamus Madigan of Orion University, one of Aegis’s xenology specialists, added:
+“Despite initial references to ‘Thargoid motherships’, there is little evidence to confirm exactly what purpose they serve. Based on the expansion of Thargoid invasion forces around each Maelstrom, the leading theory proposes they are fleet control centres, directing expansion efforts into our territory. Individual craft arrive and depart via several access points. Further observation is necessary to determine true nature of these gigantic entities.”
+“The other popular term – ‘hive ship’ – infers that each carries a distinct community ruled by a Thargoid Queen. While INRA scientists theorised the hierarchy of Thargoid society, the existence of such a key figure has never been confirmed. The nature and number of the Thargoids inhabiting these titanic vessels remains open for speculation.”

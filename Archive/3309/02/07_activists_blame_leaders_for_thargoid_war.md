@@ -1,0 +1,36 @@
+---
+uuid: d5e37c1b-cb44-581f-b22b-f30602b799f8
+title: Activists Blame Leaders for Thargoid War
+slug: activists_blame_leaders_for_thargoid_war
+date: '3309-02-07'
+source: API
+groups:
+- ACT
+- Alliance
+- Imperial Internal Security Service
+- Thargoid
+locations:
+- Maelstrom
+- Thargoid
+topics:
+- alien contact
+- corporate expansion
+- corruption
+- diplomacy
+- festival
+- piracy
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+Anti-authoritarian protests have surged in the Alliance, Empire and Federation with governments accused of responsibility for Thargoid hostility.
+Vox Galactica’s political correspondent Conrad Sterling published a special report:
+“The xeno-peace movement, which originally advocated diplomatic relations with the Thargoids, lost a lot of momentum following the arrival of the Maelstroms. But some former members are blaming Allied, Federal and Imperial leaders for allowing the war to escalate, with profits from corporate arms deals seen as the motive.”
+“Timothy Culver, once a spokesperson for the Thargoid Advocacy Project, believes that conflict was always the superpowers’ policy. ‘They knew the Proteus Wave would trigger an aggressive reaction from the Thargoids,’ he claims – without providing evidence, it should be noted. ‘Shareholders in the military/industrial complex always make a fortune during wartime. The blood of billions is on their money-grabbing hands.’”
+“An uncoordinated wave of activism across the core systems has included civil lawsuits, protest marches and occasional clashes with security personnel. There have even been attempted break-ins at administrative complexes and politicians’ homes, where some activists believe proof of conspiracy can be found.”
+“Xeno-peace figureheads, such as ICE-caster Joy Senne, have distanced themselves from these incidents and the general TAP movement in recent weeks. Congressman Dalton Chase has made no further statements on the Kingfisher tragedy, his spokesperson citing a ‘focus on other projects’. Only Heimar Borichev of the Sovereign continues to broach the subject, claiming recently: ‘Institutional corruption requires radical solutions.’”
+“Allied Interpol and the Imperial Internal Security Service claim that the public disorder is under control, while the Proactive Detection Bureau has begun identifying and ‘pre-cautioning’ Federal citizens who express anti-authority sympathies. But as the death toll from the Thargoid war continues to rise, the demands for responsibility seem unlikely to fade.”

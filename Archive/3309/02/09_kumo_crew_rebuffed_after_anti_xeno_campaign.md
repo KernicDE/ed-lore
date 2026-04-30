@@ -1,0 +1,39 @@
+---
+uuid: bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
+title: Kumo Crew Rebuffed after Anti-Xeno Campaign
+slug: kumo_crew_rebuffed_after_anti_xeno_campaign
+date: '3309-02-09'
+source: API
+groups:
+- ACT
+- Alliance
+- Kumo Crew
+- Thargoid
+locations:
+- California Nebula
+- California Sector
+- Pegasi
+- Thargoid
+topics:
+- alien contact
+- crime
+- investigation
+- research
+- ship
+- war
+arc_id: thargoid-titan-war
+modern_impact: The Thargoid Titan war represents the most devastating alien conflict
+  in human history, reshaping the galactic military landscape.
+legacy_weight: 5
+significance: high
+---
+
+*Pilots’ Federation ALERT*
+A successful initiative to hold the California Nebula against Thargoid invasion has succeeded, for now at least.
+Systems recently invaded by Thargoid fleets were protected by a militia organised by the Kumo Council, the criminal syndicate’s ruling authority in the enclave. But an attempt to assume control of the region’s ports has been surprisingly repelled by opponents of Delaine.
+The Pegasi Sentinel reported on the situation:
+“There can be no doubt that Archon Delaine takes the security of the California Nebula seriously. Many lives were saved thanks to his decisive actions. A Kumo Crew anti-xeno militia is already being considered for future Thargoid attacks.”
+“Local residents remain wary of Delaine’s reputation, however. Security forces deployed to local ports have been driven out, with communities apparently unconvinced by claims of ‘emergency security measures’. Turner Research Group has re-established control in locations the Kumo Council had attempted to seize.”
+A related article was also published by The Alliance Tribune:
+“The Assembly received an urgent request for support from the Turner Research Group. They claim that the Kumo Crew’s campaign was an excuse to encroach upon the Alliance’s operations in the California Nebula. Councillors have raised a motion to begin a formal inquiry into the situation.”
+The Mictlan megaship, currently in California Sector HR-W d1-28, is reimbursing Thargoid combat bonds for all pilots who contributed to the initiatives.

@@ -1,0 +1,34 @@
+---
+uuid: f9e27cfb-6dfc-5440-a368-372c38d9b1a1
+title: Aegis Recommends Preventative Anti-Xeno Tactic
+slug: aegis_recommends_preventative_anti_xeno_tactic
+date: '3309-03-16'
+source: API
+groups:
+- ACT
+- Aegis
+- Pilots Federation
+- Thargoid
+locations:
+- Aegis
+- Thargoid
+topics:
+- alien contact
+- research
+- ship
+- war
+arc_id: thargoid-titan-war
+modern_impact: The Thargoid Titan war represents the most devastating alien conflict
+  in human history, reshaping the galactic military landscape.
+legacy_weight: 5
+significance: high
+---
+
+*Pilots Federation Alert*
+An analysis of the ongoing Thargoid war has been released by Aegis and made available to all superpower and independent navies.
+The focus of the report centres on protecting systems at threat of Thargoid invasion. It suggests that anti-xeno forces are primarily fighting Thargoid invasion fleets which have already arrived, understandable due to the immediate risk to civilian life. However, Aegis proposes that increasing defensive efforts for systems at threat of invasion would be a more efficient way of slowing the spread of Thargoid-controlled territory.
+Commodore Emil Varga provided a statement alongside the report’s release:
+“The effort required to repel an invasion fleet is far higher than dissuading that fleet from entering a system in the first place.”
+“We believe that Thargoids have assumed a ‘path of least resistance’ approach to expansion. Thanks to the efforts of our skilled pilots, we have sufficient evidence to show that Thargoids will not deploy a full strength force in locations where advance Thargoid vessels encounter heavy resistance.”
+“The Orthrus vessels, in particular, appear key to prepping systems for invasion. The exact mechanisms in which they do so are yet to be verified, but an Orthrus appears to provide key logistical details about an expansion target. It is clear that invading Thargoid vessels know exactly where to emerge from hyperspace to attack local ports and tactical assets. Destroying Orthrus ships may be key to safeguarding an alerted system.”
+As an incentive to draw combat pilots to systems on alert, combat bonds payouts on Orthrus vessels have been increased.

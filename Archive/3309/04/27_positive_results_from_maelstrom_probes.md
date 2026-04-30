@@ -1,0 +1,39 @@
+---
+uuid: 02aaba5a-5907-5e87-b99c-48c16a11d82c
+title: Positive Results from Maelstrom Probes
+slug: positive_results_from_maelstrom_probes
+date: '3309-04-27'
+source: API
+entities:
+- Alba Tesreau made
+groups:
+- ACT
+- Aegis
+- Thargoid
+locations:
+- Aegis
+- Maelstrom
+- Professor Palin
+- Ram Tah
+- Thargoid
+topics:
+- alien contact
+- exploration
+- research
+- ship
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+Aegis’s prototype Thargoid pulse neutralisers have succeeded in allowing transit through the energy surge at the centre of a Maelstrom.
+Professor Alba Tesreau made the official statement:
+“Several remote-controlled probes outfitted with Thargoid pulse neutralisers were launched into the Taranis Maelstrom. The colossal electromagnetic pulse generated within the clouds should have repulsed them, but feedback confirms the probes were insulated from its effects.”
+“The method used to protect the probes was discovered through research on unclassified relics recovered from Thargoid surface sites. These alien artefacts were vital to the devices’ development. Initial research conducted by Ram Tah and Professor Palin proved that when receiving a modulated electrical charge, the unclassified relics emitted an energy field on similar frequencies to the Maelstrom’s pulse.”
+“Unfortunately, broadcasts from the probes were lost shortly afterwards. It hasn’t been possible to verify what happened to them at this stage. We will repeat this experiment with other Maelstroms, but we believe that only skilled human pilots will be able to uncover what awaits within.”
+Aden Tanner, who is supporting Aegis as a freelance tactical specialist, provided a supplemental report:
+“My team has been conducting secondary tests with the new module installed on a manned vessel. I can confirm that when in combat against Thargoid interceptors, it protects against ship system disruption in a similar way to the existing shutdown field neutraliser. But its weight and power draw are both greater, meaning that the new module is best suited to Maelstrom exploration.”
+Aegis has confirmed that it is working on establishing a production schedule for the Thargoid pulse neutraliser and intends to provide an update in the next few days.

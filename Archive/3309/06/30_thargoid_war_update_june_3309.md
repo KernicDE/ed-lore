@@ -1,0 +1,38 @@
+---
+uuid: 54f3bb2e-703a-599b-8843-5dc902858042
+title: 'Thargoid War Update: June 3309'
+slug: thargoid_war_update_june_3309
+date: '3309-06-30'
+source: API
+groups:
+- ACT
+- Aegis
+- Alliance
+- Azimuth
+- Salvation
+- Thargoid
+locations:
+- Aegis
+- Azimuth
+- Thargoid
+- Titan
+topics:
+- alien contact
+- corporate expansion
+- research
+- ship
+- war
+arc_id: salvation-azimuth
+modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
+  military response to alien threats.
+legacy_weight: 5
+significance: high
+---
+
+The latest report on the ongoing struggle against the Thargoids from Vox Galactica reporter Jade Sanderlyn.
+“As the war reaches its eighth month, Thargoid invasion forces occupy over a thousand systems. Billions of people have been evacuated or lost as a result. Although this ongoing conflict has made little impact on everyday life for the other side of the bubble, it continues to dominate the media.”
+“The beginning of June saw the release of Aegis’s latest development: the pulse wave xeno scanner. This module allows any pilots who dares approach the Titans to gather much-needed data, triggering what The Empirical referred to as a ‘scientific gold rush’. We are a long way from fully comprehending the purpose of these gargantuan constructs, but the tools to do so are at least beginning to arrive.”
+“Unsurprisingly, Azimuth Biotech also declared its interest in the Titans. This led to the corporation competing indirectly with Aegis to collect tissue samples directly from the hull of the Thargoid motherships. Although there was significantly greater support for the tri-superpower agency - no doubt an encouraging sign for Aegis’s Professor Tesreau - Azimuth’s results suggest that some retain faith in Salvation’s legacy.”
+“On the subject of faith, another media talking point was the recent mysterious disappearance of the Dedicant. This Order of the Far God megaship, impounded for months by the FIA, was scheduled to deport tens of thousands of imprisoned adherents from the Federation to the Alliance. But with only a few thousand on board, the ship made a sudden hyperspace jump out of Popontia. Theories abound as to its fate, ranging from a simple engine malfunction to the Far God rescuing its loyal worshippers. Even in wartime, it seems everyone loves a mystery.”
+“On the front lines, of course, there is no time for such distractions. Thargoid Glaives hunt down human ships. Revenants seek to eliminate human trespassers on conquered worlds. Titans launch wave after wave of Thargoid vessels further into the core systems. Here, the focus remains locked onto the deadliest adversary we have ever faced. But the resistance is holding fast, and some traction is being made by anti-xeno forces. Systems are being recovered from alien control. There is hope that the tide is slowly turning.”
+“This is Jade Sanderlyn for Vox Galactica. Stay safe out there.”

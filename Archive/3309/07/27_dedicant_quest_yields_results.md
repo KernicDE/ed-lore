@@ -1,0 +1,42 @@
+---
+uuid: 127507ab-e3c6-57fe-af0d-7e9a339a48e0
+title: Dedicant Quest Yields Results
+slug: dedicant_quest_yields_results
+date: '3309-07-27'
+source: API
+entities:
+- Jalen Locke
+groups:
+- Federal Navy
+- Imperial Navy
+locations:
+- Olurung and Kwakimo
+topics:
+- engineering
+- espionage
+- humanitarian
+- ship
+- sport
+modern_impact: Engineering developments offer pilots new ship customisation options.
+legacy_weight: 1
+significance: low
+---
+
+*Pilots’ Federation ALERT*
+The missing megaship Dedicant is close to being located after fragments of its distress call were tracked down.
+The scrambled messages were discovered on comms beacons in the LP 714-58, Wuniez, Olurung and Kwakimo systems. Combined decryption efforts eventually led to another beacon in the HIP 19912 system, where the Dedicant’s original transmission was revealed:
+FEDERAL ESCORT TEAM ALPHA
+ASSIGNED TO ORDER OF THE FAR GOD MEGASHIP ‘DEDICANT’
+PRISONER TRANSFER MISSION HAS FAILED
+SIGNIFICANT NON-LETHAL DEFENSIVE MEASURES ENCOUNTERED
+MAJORITY OF ORDER OF THE FAR GOD PRISONERS ESCAPED
+PRISONERS INITIATED DEDICANT HYPERDRIVE
+ESCORT TEAMS ALPHA, BRAVO, CHARLIE AND CULTISTS REMAIN ON BOARD
+‘DEDICANT’ CURRENT LOCATION UNKNOWN
+ADVISE TRACING METADATA COORDINATES TO THIS MESSAGE
+REQUEST IMMEDIATE FEDERAL NAVY ASSISTANCE
+Vice Admiral Amir Rafiq of the Imperial Navy provided an update:
+“Imperial Intelligence specialists are currently analysing the comms beacon in HIP 19912 to trace the message to its point of origin.   We have orders not to commence any joint operations with the Federation, but I am authorised to make our findings public.”
+Executive Agent Jalen Locke of the Federal Intelligence Agency told the media:
+“We appreciate the assistance from the Empire  , and from all the independent pilots who helped find this distress call. It has confirmed our theory that the prisoners managed to regain control of their former vessel, using various modifications made to its internal systems.”
+“FIA security teams are standing by to launch a rescue mission as and when the Dedicant’s location is pinpointed. They will retake the megaship by force if necessary and detain   all Far God cultists onboard.”

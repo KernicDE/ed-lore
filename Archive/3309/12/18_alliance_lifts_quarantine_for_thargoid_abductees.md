@@ -1,0 +1,44 @@
+---
+uuid: 0d85d087-4cc7-5282-8b29-50acf157672b
+title: Alliance Lifts Quarantine for Thargoid Abductees
+slug: alliance_lifts_quarantine_for_thargoid_abductees
+date: '3309-12-18'
+source: API
+entities:
+- Mahon knows that this will be
+groups:
+- ACT
+- Alliance
+- Azimuth
+- Thargoid
+locations:
+- Azimuth
+- Federation and independent
+- Kamadhenu
+- Sirius
+- Thargoid
+- Those who hail from an Allied
+- Titan
+topics:
+- alien contact
+- corporate expansion
+- crime
+- humanitarian
+- medicine
+- ship
+- war
+arc_id: salvation-azimuth
+modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
+  military response to alien threats.
+legacy_weight: 5
+significance: high
+---
+
+The Alliance has ended medical isolation for all citizens who were rescued from the Titans after being abducted by Thargoid vessels.
+Prime Minister Edmund Mahon’s official declaration was published by all newsfeeds:
+“The Assembly has agreed that quarantine procedures for everyone recovered from the Titans are no longer necessary. Those who hail from an Allied system are being transported from the secure facilities back to their families and communities. Their long nightmare is over. We are sending our people home.”
+“I call upon the governments of the Empire, Federation and independent systems to follow our lead with their own citizens. We must not treat these unfortunates as criminals or laboratory specimens. During this dark time of war, let our humanity shine through.”
+Some medical institutes such as Kamadhenu Medipure and Vandermeer Corporation opposed the Alliance’s decision, claiming that Imperial and Federal returnees should never be allowed back into the general population.   Azimuth Biotech also repeated its offer to perform “cutting-edge xenological detection procedures on every human extracted from a Thargoid bio-storage capsule.”
+The political dimension was analysed by Vanya Driscoll for The Alliance Tribune:
+“Prime Minister Mahon knows that this will be a popular decision, after many public figures called the extended quarantine ‘inhumane’ and ‘barbaric’. Plus, with his rival Councillor Kaine currently questioning the wisdom of the Mahon-endorsed strategic defence pact with Sirius, the timing of this benevolent act could not be better.”
+“On the wider political stage, asking the other superpowers to follow suit frames the Alliance as a more humanitarian society than its counterparts. This may be a rare occasion when the Empire and Federation are looking to us for moral guidance… or at least, waiting to see if sending home thousands of Thargoid abductees is a mistake.”

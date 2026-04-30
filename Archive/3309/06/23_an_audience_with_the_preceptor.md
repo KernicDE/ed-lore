@@ -1,0 +1,34 @@
+---
+uuid: da13374d-1993-57dc-8fdc-0f0d82f6b1e1
+title: An Audience with the Preceptor
+slug: an_audience_with_the_preceptor
+date: '3309-06-23'
+source: API
+groups:
+- ACT
+- Aegis
+- Alliance
+- Thargoid
+locations:
+- Aegis
+- Alliance-governed Mullag
+- Thargoid
+- Titan
+topics:
+- alien contact
+- espionage
+- ship
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 4
+significance: high
+---
+
+The Order of the Far God has reached out to Seo Jin-ae, offering information on the possible fate of the Dedicant.
+The megaship was due to transport members of the True Chapters sect from the Popontia system to the Alliance-governed Mullag system, but made a hyperspace jump ahead of schedule and disappeared. The Federal Intelligence Agency has interrogated cult members still waiting in Federal prison cells, but reportedly obtained no useful information.
+Days later, Aegis was directly contacted by chapters of the Order within independent space. They volunteered to discuss the Dedicant but only with Seo Jin-ae, whom they refer to as ‘the Preceptor’ for her ability to interpret to the Thargoid hive mind.
+After meeting Far God representatives at a secure location, Seo Jin-ae made a public statement:
+“The meeting wasn’t as productive as the FIA hoped. I asked the cultists for information, but they wouldn’t stop jabbering about their religion. They wanted me to share ‘divine commandments’ from the Titans, and kept asking when the Far God would arrive to cleanse the galaxy. I’ll always be grateful to these people for rescuing me a few months ago, but it’s hard work convincing them I’m not a prophet.”
+“During the brief period I got them talking about the Dedicant, they admitted knowing nothing about a True Chapters scheme to retake the megaship. And they certainly have no clue where it is now. The meeting was mostly a waste of time.”
+“One thing was possibly useful, though. Apparently, the interiors of Far God megaships are remodelled to make them ‘deliberately confusing for heretics’. Corridors like insect tunnels, rooms turned into hive cells – that sort of thing. When I told them the FIA had already examined the ship’s layout while it was in custody, one cultist argued they hadn’t found the ‘secret doors’. They explained how Theta Seven failed to get the hyperdrive working after he gained control of the Sacrosanct, and claimed the crew of that ship rigged the thing with traps. Maybe that’s how the FIA agents lost control of the Dedicant.”

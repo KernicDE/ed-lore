@@ -1,0 +1,31 @@
+---
+uuid: 6d9dec9b-98e1-5167-9d3c-00c436e9d31c
+title: Thargoid Scythes Undertake ‘Human Harvest’
+slug: thargoid_scythes_undertake_human_harvest
+date: '3309-08-09'
+source: API
+groups:
+- ACT
+- Aegis
+- Thargoid
+locations:
+- Aegis
+- Thargoid
+topics:
+- alien contact
+- ship
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+*Pilots’ Federation ALERT*
+A new type of Thargoid vessel is hyperdicting human ships and capturing living passengers.
+Aegis has designated the hunter-class alien ship as a ‘Scythe’. Aden Tanner released an assessment of its capabilities:
+“This Thargoid vessel has been designed not just for combat, but to hyperdict ships and extract human beings from them. Our observations of its tactics suggesting that abduction is its primary purpose.”
+“A Scythe’s initial attack  mirrors that of its Glaive cousin, by attempting to disable frame shift drives and deplete shields. It then launches a unique strike to makes passenger cabins and cargo holds uninhabitable. The resulting escape pods are rapidly drawn onboard onto the Scythe intact.”
+Further observations were made by Vice Admiral Skylar Anderson, the Empire’s military liaison to Aegis:
+"Due to their modus operandi, it now seems likely that the Dedicant’s population was forced to abandon the megaship and subsequently abducted en masse by these vessels.”
+“The Thargoids have been capturing escape pods for years, but now it seems to have become a strategic priority. Perhaps they view ‘harvesting’ us in the same way as obtaining meta-alloys from barnacle sites. We can only imagine what unpleasant intentions they have for living human specimens.”

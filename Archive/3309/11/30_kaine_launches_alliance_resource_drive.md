@@ -1,0 +1,40 @@
+---
+uuid: 52e15d2f-c860-504f-a2e4-4e54c31cb388
+title: Kaine Launches Alliance Resource Drive
+slug: kaine_launches_alliance_resource_drive
+date: '3309-11-30'
+source: API
+entities:
+- Edmund Mahon
+groups:
+- ACT
+- Alliance
+- Sirius Corp
+- Sirius Corporation
+- Thargoid
+locations:
+- Sirius
+- Thargoid
+- Tionisla
+topics:
+- alien contact
+- corporate expansion
+- festival
+- investigation
+- research
+- ship
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 4
+significance: high
+---
+
+*Pilots’ Federation ALERT*
+Councillor Nakato Kaine has requested deliveries to the Tionisla system in protest against the anti-xeno defence pact.
+Pilots are asked to deliver shipments of hazardous environment suits, micro controllers and titanium to Brett High. The Alliance Rapid-reaction Corps, which is hosting the initiative, will protect participants by redeeming bounty vouchers for the destruction of any wanted ships.
+The campaign was personally arranged by Councillor Nakato Kaine, the representative for Tionisla in the Alliance Assembly. Speaking to the Old Worlds Gazette, Kaine stated:
+“I aim to prove that the Alliance’s military fleet is not as dependent upon Sirius Corporation as many believe. This campaign demonstrates our capability to stockpile vital resources for the Alliance Defence Force. And we have plenty of researchers, mechanics and manufacturers ready to develop our own defences against the Thargoids.”
+“It’s clear to me that Li Yong-Rui never intended to honour his anti-xeno commitments. I’ve seen evidence of Sirius negotiating favourable contracts with Allied tech and military corporations. Their special access to the Alliance’s markets, plus the endorsement of our prime minister, have provided them with unfair leverage. The true cost of the pact has yet to be revealed, but you can bet that Allied citizens will pay the price while Sirius’s profits soar.”
+Prime Minister Edmund Mahon has not commented on the Tionisla campaign, other than to confirm: “A formal inquiry into the strategic defence pact is ongoing, and the Assembly will study its findings carefully.”
