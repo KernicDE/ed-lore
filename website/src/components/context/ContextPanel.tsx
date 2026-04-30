@@ -30,11 +30,8 @@ function makeEid(name: string): string {
 }
 
 /** Exclude sentence-fragment false positives from entity extraction */
-function isQualityEntity(name: string, count: number): boolean {
+function isGarbageName(name: string): boolean {
   const lower = name.toLowerCase();
-  // Must have more than 1 mention in the visible window to be relevant
-  if (count < 2) return false;
-  // Block sentence fragments
   const badPrefixes = [
     'a ', 'an ', 'the ', 'his ', 'her ', 'their ', 'our ', 'we ', 'it ',
     'this ', 'that ', 'these ', 'those ', 'authorities', 'spokesperson',
@@ -81,10 +78,14 @@ function isQualityEntity(name: string, count: number): boolean {
     'infrequent ', 'periodic ', 'seasonal ', 'annual ', 'monthly ', 'weekly ',
     'daily ', 'hourly ', 'nightly ', 'weekly ', 'yearly ', 'decadal ',
   ];
-  if (badPrefixes.some(p => lower.startsWith(p))) return false;
-  // Block fragments containing " in the ", " of the ", " to the ", " from the "
-  if (/\b(in|of|to|from|at|on|with|by|for|about|into|onto|upon|within|without|across|along|around|behind|beside|beyond|despite|during|except|inside|outside|through|toward|towards|until|via|regarding|concerning|considering|including|according|following|thanks|due|owing|prior|subsequent|regardless|notwithstanding)\s+the\b/.test(name)) return false;
-  return true;
+  if (badPrefixes.some(p => lower.startsWith(p))) return true;
+  if (/\b(in|of|to|from|at|on|with|by|for|about|into|onto|upon|within|without|across|along|around|behind|beside|beyond|despite|during|except|inside|outside|through|toward|towards|until|via|regarding|concerning|considering|including|according|following|thanks|due|owing|prior|subsequent|regardless|notwithstanding)\s+the\b/.test(name)) return true;
+  return false;
+}
+
+function isQualityEntity(name: string, count: number): boolean {
+  if (count < 2) return false;
+  return !isGarbageName(name);
 }
 
 export default function ContextPanel({
@@ -130,7 +131,7 @@ export default function ContextPanel({
     return Array.from(counts.entries())
       .map(([eid, count]) => ({ ...entities[eid], count }))
       .filter((e) => e && e.id && isUnlocked(e.first_seen_date))
-      .filter((e) => isQualityEntity(e.name, e.count))
+      .filter((e) => !isGarbageName(e.name))
       .sort((a, b) => b.count - a.count)
       .slice(0, 10);
   }, [visibleArticles, entities, currentDate]);
