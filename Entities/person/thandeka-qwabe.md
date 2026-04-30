@@ -1,19 +1,19 @@
 ---
-id: bai-zheng
-name: Bai Zheng
+id: thandeka-qwabe
+name: Thandeka Qwabe
 type: person
 first_seen_date: '3310-07-18'
-last_seen_date: '3310-10-31'
-mention_count: 2
+last_seen_date: '3310-07-18'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Bai Zheng
+# Thandeka Qwabe
 
 First mentioned: **3310-07-18**  
-Last mentioned: **3310-10-31**  
-Total mentions: **2**
+Last mentioned: **3310-07-18**  
+Total mentions: **1**
 
 ## Related
 

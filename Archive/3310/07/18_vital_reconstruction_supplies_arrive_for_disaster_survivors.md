@@ -4,18 +4,30 @@ title: Vital Reconstruction Supplies Arrive for Disaster Survivors
 slug: vital_reconstruction_supplies_arrive_for_disaster_survivors
 date: '3310-07-18'
 source: API
-groups:
-- ACT
+groups: []
 locations:
 - Rhea
 topics:
 - construction
-- medicine
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+- humanitarian
+- politics
+modern_impact: "Winters' statement from 'a newly built medical facility outside the recovering capital city New Greenacre' shows she remains physically embedded in the recovery. The contrasting quotes from Qwabe ('A president should put the Federation as a whole before their own personal situation') and Bai Zheng ('Nobody could be expected to perform their duties while mourning the deaths of so many family members') capture the partisan divide. The framing — 'more human than the last one' — is a pointed reference to Hudson."
+persons:
+- Felicia Winters
+- Thandeka Qwabe
+- Bai Zheng
+player_impact: "Pilots who delivered construction supplies to Ito Orbital in Rhea can collect their rewards."
+summary: "Reconstruction supplies arrive on Rhea 3 as Winters announces planning has resumed for her inauguration, while political opinions on her delay remain divided."
 legacy_weight: 2
 significance: low
+related_uuids:
+- 11f0360c-ab72-5b7e-a309-5d972307d305
+- 00be4816-785d-537c-9e05-ba4677220927
+legacy_weight: 2
+significance: low
+related_uuids:
+- 11f0360c-ab72-5b7e-a309-5d972307d305
+- 00be4816-785d-537c-9e05-ba4677220927
 ---
 
 *Pilots’ Federation ALERT*

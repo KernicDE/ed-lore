@@ -23,8 +23,8 @@ Total mentions: **306**
 
 ## Related
 
-- [[Thargoid]] (135 co-mentions)
-- [[ACT]] (120 co-mentions)
+- [[Thargoid]] (134 co-mentions)
+- [[ACT]] (119 co-mentions)
 - [[Alliance]] (87 co-mentions)
 - [[Alba Tesreau]] (54 co-mentions)
 - [[Azimuth]] (49 co-mentions)

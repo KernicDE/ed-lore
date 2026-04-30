@@ -1,7 +1,7 @@
 ---
-id: sco-frame-shift-drive
-name: SCO Frame Shift Drive
-type: technology
+id: naomi-landseer
+name: Naomi Landseer
+type: person
 first_seen_date: '3310-07-30'
 last_seen_date: '3310-07-30'
 mention_count: 1
@@ -9,7 +9,7 @@ mention_count: 1
 
 <!-- AUTO-GENERATED -->
 
-# SCO Frame Shift Drive
+# Naomi Landseer
 
 First mentioned: **3310-07-30**  
 Last mentioned: **3310-07-30**  
