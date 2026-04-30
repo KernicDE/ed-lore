@@ -24,9 +24,9 @@ Total mentions: **37**
 ## Related
 
 - [[Capitol]] (19 co-mentions)
-- [[Arissa-Lavigny Duval]] (12 co-mentions)
-- [[Alliance]] (12 co-mentions)
-- [[Imperial Herald]] (10 co-mentions)
+- [[Arissa-Lavigny Duval]] (11 co-mentions)
+- [[Alliance]] (11 co-mentions)
+- [[Imperial Herald]] (9 co-mentions)
 - [[Achenar]] (7 co-mentions)
 
 ## Biography

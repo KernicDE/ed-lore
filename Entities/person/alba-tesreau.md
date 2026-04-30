@@ -3,8 +3,8 @@ id: alba-tesreau
 name: Alba Tesreau
 type: person
 first_seen_date: '3303-08-05'
-last_seen_date: '3310-01-18'
-mention_count: 57
+last_seen_date: '3309-10-23'
+mention_count: 56
 related_entities:
 - aegis
 - thargoid
@@ -18,13 +18,13 @@ related_entities:
 # Alba Tesreau
 
 First mentioned: **3303-08-05**  
-Last mentioned: **3310-01-18**  
-Total mentions: **57**
+Last mentioned: **3309-10-23**  
+Total mentions: **56**
 
 ## Related
 
-- [[Aegis]] (53 co-mentions)
-- [[Thargoid]] (33 co-mentions)
+- [[Aegis]] (52 co-mentions)
+- [[Thargoid]] (32 co-mentions)
 - [[ACT]] (28 co-mentions)
 - [[Alliance]] (21 co-mentions)
 - [[Azimuth]] (12 co-mentions)

@@ -4,30 +4,30 @@ title: Guardian Relics Needed for Anti-Titan Research
 slug: guardian_relics_needed_for_anti_titan_research
 date: '3310-01-18'
 source: API
-entities:
-- Alba Tesreau
+entities: []
 groups:
 - Aegis
-- Thargoid
 locations:
-- Aegis
-- Guardian
 - Meene
-- Ram Tah
-- Thargoid
-- Titan
 topics:
-- alien contact
 - engineering
 - research
-- ship
 - war
-- xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Tesreau's statement — 'Having witnessed Ram Tah's laboratory tests only yesterday, I was hugely encouraged that his work could lead to the end of this devastating war' — provides high-level validation of the research. The explanation of Unclassified relics — 'created when these crystalline objects are inserted into an ancient Thargoid surface site' — reveals the hybrid nature of the research. The promise that 'Ram Tah has promised to reveal more details to the public should these prototypes succeed' creates narrative anticipation."
+persons:
+- Alba Tesreau
+- Ram Tah
+technologies:
+- Guardian relics
+- Unclassified relics
+player_impact: "Pilots are asked to deliver Guardian relics and Unclassified relics to Felice Dock in the Meene system."
+summary: "Aegis launches an initiative to collect Guardian relics and Unclassified relics for Ram Tah's classified anti-Titan research, with Tesreau expressing encouragement after witnessing laboratory tests."
 legacy_weight: 5
 significance: high
+related_uuids:
+- a8b2b100-a5eb-5534-9408-5a7e223e6765
+- dc080e97-cc4c-55c0-a84e-b80d6fba5d83
 ---
 
 *Pilots’ Federation ALERT*

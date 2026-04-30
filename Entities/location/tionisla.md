@@ -8,9 +8,9 @@ mention_count: 14
 related_entities:
 - alliance
 - sirius-corporation
-- act
 - edmund-mahon
-- thargoid
+- act
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **14**
 
 - [[Alliance]] (10 co-mentions)
 - [[Sirius Corporation]] (4 co-mentions)
-- [[ACT]] (3 co-mentions)
 - [[Edmund Mahon]] (2 co-mentions)
-- [[Thargoid]] (2 co-mentions)
+- [[ACT]] (2 co-mentions)
+- [[Sol]] (1 co-mentions)
 
 ## Biography
 

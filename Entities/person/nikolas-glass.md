@@ -1,19 +1,19 @@
 ---
-id: nakato-kaine
-name: Nakato Kaine
+id: nikolas-glass
+name: Nikolas Glass
 type: person
 first_seen_date: '3310-01-08'
-last_seen_date: '3311-11-27'
-mention_count: 8
+last_seen_date: '3310-01-08'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Nakato Kaine
+# Nikolas Glass
 
 First mentioned: **3310-01-08**  
-Last mentioned: **3311-11-27**  
-Total mentions: **8**
+Last mentioned: **3310-01-08**  
+Total mentions: **1**
 
 ## Related
 

@@ -23,8 +23,8 @@ Total mentions: **13**
 
 ## Related
 
-- [[ACT]] (10 co-mentions)
-- [[Thargoid]] (9 co-mentions)
+- [[ACT]] (9 co-mentions)
+- [[Thargoid]] (8 co-mentions)
 - [[Aegis]] (4 co-mentions)
 - [[Liz Ryder]] (4 co-mentions)
 - [[Zacariah Nemo]] (4 co-mentions)

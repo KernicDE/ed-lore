@@ -5,18 +5,25 @@ slug: winters_appoints_future_cabinet_members
 date: '3310-01-22'
 source: API
 groups:
-- ACT
 - Federal Navy
-- Federal Times
 topics:
-- construction
-- espionage
-- ship
-- war
-arc_id: federal-politics
-modern_impact: Federal political developments shape superpower relations.
+- politics
+arc_id: null
+modern_impact: "Trevino's analysis highlights Winters' loyalty-based appointments — 'Long-serving figures in the Liberal Party are finally being rewarded with key positions.' Bai Zheng's role overseeing 'the surveillance unit's closure, as per Winters's campaign promise' confirms a major policy shift. Lasky's Cornelius-Lasky Convention experience makes her a natural Secretary of State. Montgomery's challenge — 'navigate demands from a Federal Navy accustomed to Zachary Hudson's generous military budgets' — signals potential defence policy friction. The planned mid-February inauguration sets a timeline."
+persons:
+- Felicia Winters
+- Isolde Rochester
+- Sofia Trevino
+- Bai Zheng
+- Kristine Lasky
+- Pierre-Marc Pelletier
+- Conn Montgomery
+player_impact: "Not specifically mentioned — this is a political announcement."
+summary: "President-elect Felicia Winters announces her cabinet appointments, including Bai Zheng as Secretary for Security to oversee PDB closure, and sets mid-February for her inauguration."
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 744df92b-039d-5070-b188-50ba993da16b
 ---
 
 President-elect Felicia Winters has officially selected new heads for each executive department of the Federal government.

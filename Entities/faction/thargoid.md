@@ -4,7 +4,7 @@ name: Thargoid
 type: faction
 first_seen_date: '3308-01-03'
 last_seen_date: '3311-06-18'
-mention_count: 283
+mention_count: 279
 related_entities:
 - act
 - aegis
@@ -19,13 +19,13 @@ related_entities:
 
 First mentioned: **3308-01-03**  
 Last mentioned: **3311-06-18**  
-Total mentions: **283**
+Total mentions: **279**
 
 ## Related
 
-- [[ACT]] (243 co-mentions)
-- [[Aegis]] (125 co-mentions)
-- [[Alliance]] (115 co-mentions)
+- [[ACT]] (240 co-mentions)
+- [[Aegis]] (122 co-mentions)
+- [[Alliance]] (113 co-mentions)
 - [[Salvation]] (87 co-mentions)
 - [[Azimuth]] (81 co-mentions)
 
