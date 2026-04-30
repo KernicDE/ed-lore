@@ -5,7 +5,8 @@ slug: distant_worlds_3_expedition_enters_the_empyrean_straits
 date: '3312-04-26'
 source: API
 groups:
-- Distant Worlds
+- Deep Space Surveys
+- Distant Worlds 3
 locations:
 - Guardian
 - Ram Tah
@@ -18,6 +19,17 @@ modern_impact: The Distant Worlds 3 expedition pushes the boundaries of deep-spa
   exploration and community coordination.
 legacy_weight: 3
 significance: medium
+persons:
+- Lynda Amanda ter Holt
+- Timotheus Haddard
+player_impact: DW3 fleet departs Beagle Point for Abyss, Acheron and Veils regions.
+  Continued scientific survey programme with carrier logistics support.
+summary: Distant Worlds 3 departs Beagle Point for next phase into the Abyss, Acheron
+  and Veils. Stellar density and spectral distribution surveys ongoing. Carrier fleet
+  sustained by miner contributions.
+related_uuids:
+- 6727df09-c220-537b-ac30-e91181fadd2a
+- 9fa72a0c-5333-5110-90ea-074419826e85
 ---
 
 After having spent a month in the Trojan Belt and Arcadian Stream, the Distant Worlds Expedition has again entered regions with higher stellar density.

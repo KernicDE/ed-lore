@@ -8,10 +8,10 @@ entities:
 - Casimir
 - Felicia Winters
 groups:
-- ACT
-- Alliance
-- October
 - October Consortium
+- Imperial Navy
+- Alliance
+- Federal Navy
 locations:
 - HIP 87621
 - Holloway Bioscience Institute
@@ -26,6 +26,20 @@ modern_impact: The HIP 87621 enclave conflict highlights post-war superpower ten
   and territorial disputes.
 legacy_weight: 4
 significance: high
+persons:
+- Lexi October
+- Felicia Winters
+technologies:
+- Radicoida unica
+player_impact: HIP 87621 conflict officially ends. October Consortium gains full custodianship
+  via October Accords. Federation excluded (lost foothold). Radicoida research to
+  be shared under Accord terms.
+summary: October Accords end HIP 87621 enclave conflict. October Consortium chairs
+  neutrality between Imperial, Alliance and independent powers. Federation not represented.
+  Lexi October secures interview series with Vox Galactica.
+related_uuids:
+- ab9f6c81-8fa4-564b-978d-59be79a044dc
+- 972ec07f-6143-5c9b-ad27-c650ac62ab75
 ---
 
 An agreement has reportedly been reached between October Consortium and a coalition of the remaining Powers within the enclave, ending large-scale hostilities in the region.

@@ -3,8 +3,8 @@ id: act
 name: ACT
 type: faction
 first_seen_date: '3308-01-03'
-last_seen_date: '3312-04-28'
-mention_count: 436
+last_seen_date: '3312-04-23'
+mention_count: 419
 related_entities:
 - thargoid
 - aegis
@@ -18,14 +18,14 @@ related_entities:
 # ACT
 
 First mentioned: **3308-01-03**  
-Last mentioned: **3312-04-28**  
-Total mentions: **436**
+Last mentioned: **3312-04-23**  
+Total mentions: **419**
 
 ## Related
 
 - [[Thargoid]] (279 co-mentions)
 - [[Aegis]] (137 co-mentions)
-- [[Alliance]] (129 co-mentions)
+- [[Alliance]] (127 co-mentions)
 - [[Salvation]] (84 co-mentions)
 - [[Azimuth]] (83 co-mentions)
 

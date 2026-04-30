@@ -23,7 +23,7 @@ Total mentions: **36**
 
 ## Related
 
-- [[Alliance]] (18 co-mentions)
+- [[Alliance]] (17 co-mentions)
 - [[Alioth]] (9 co-mentions)
 - [[Sol]] (7 co-mentions)
 - [[NMLA]] (6 co-mentions)

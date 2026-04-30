@@ -5,15 +5,26 @@ slug: core_dynamics_unveils_kestrel_fighter
 date: '3312-02-24'
 source: API
 groups:
-- ACT
 - Core Dynamics
-- Engineers
 topics:
 - engineering
 - ship
 modern_impact: Engineering developments offer pilots new ship customisation options.
 legacy_weight: 1
 significance: low
+arc_id: ship-release
+technologies:
+- Kestrel
+- Supercharged Frame Shift Drive
+- Mk II Plasma Shock Accelerator
+player_impact: Kestrel early release at Polyakov Station, Duamta. Limited availability
+  initially. Combat trial missions within 15ly. Size 5 thrusters + supercharged FSD
+  on small frame.
+summary: Core Dynamics unveils the Kestrel, a pure combat fighter with speed, agility,
+  and three Mk II large hardpoints. Supercharged FSD is a first for a small craft.
+  Limited release at Duamta.
+related_uuids:
+- 1a0654de-9c87-59e6-8494-a5cbb34758d0
 ---
 
 Core Dynamics has announced the limited release of the Kestrel, a new small combat ship engineered exclusively for high-intensity engagements.

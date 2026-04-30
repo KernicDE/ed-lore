@@ -5,10 +5,7 @@ slug: competing_claims_emerge_over_wellness_surge
 date: '3312-04-21'
 source: API
 groups:
-- ACT
-- Onionhead
-- Sirius Corp
-- Sirius Corporation
+- Orion University
 locations:
 - Sirius
 topics:
@@ -21,6 +18,18 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+arc_id: wellness-surge
+persons:
+- William Ventura
+- Mara Chen
+player_impact: Social/cultural event with no direct gameplay. Viral wellness trend
+  continues spreading. Monitor for potential commodity or CG implications.
+summary: William 'Big Bill' Ventura's fitness trend evolves into broader cultural
+  movement. Unusually consistent reports of improved wellbeing across professions.
+  No product or organization credited.
+related_uuids:
+- 0f29b721-3c5c-515b-a61a-62f30189a33c
+- 6510e3ed-786a-569a-8267-c86f32250c9c
 ---
 
 As reports of improved health and mental performance continue across a number of systems, several institutions have begun attributing the trend to their own initiatives.

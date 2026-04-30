@@ -6,6 +6,8 @@ last_seen_date: '3312-04-26'
 mention_count: 7
 significance: medium
 key_entities:
+- deep-space-surveys
+- distant-worlds-3
 - distant-worlds
 - act
 ---
@@ -20,8 +22,10 @@ Articles: **7**
 
 ## Key Figures
 
-- [[Distant Worlds]] (7 mentions)
-- [[ACT]] (4 mentions)
+- [[Deep Space Surveys]] (5 mentions)
+- [[Distant Worlds 3]] (5 mentions)
+- [[Distant Worlds]] (2 mentions)
+- [[ACT]] (1 mentions)
 
 ## Description
 

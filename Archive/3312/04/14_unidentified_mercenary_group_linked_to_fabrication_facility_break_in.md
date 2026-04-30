@@ -15,6 +15,14 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+arc_id: mercenary-emergence
+player_impact: New mercenary threat with heavily modified ships and unfamiliar insignia.
+  Bounty hunting opportunities likely as authorities investigate.
+summary: Break-in at LHS 1167 fabrication plant by disciplined mercenary group with
+  unknown insignia. Well-equipped ships and coordinated tactics suggest organized
+  new faction.
+related_uuids:
+- 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 ---
 
 Authorities are investigating a break-in at a fabrication plant in the LHS 1167 system, following the theft of hardware and components. 

@@ -5,8 +5,8 @@ slug: exploration_data_initiative_for_rainbows_end_concludes_successfully
 date: '3312-03-27'
 source: API
 groups:
-- ACT
-- Distant Worlds
+- Deep Space Surveys
+- Distant Worlds 3
 topics:
 - construction
 - exploration
@@ -16,6 +16,16 @@ modern_impact: The Distant Worlds 3 expedition pushes the boundaries of deep-spa
   exploration and community coordination.
 legacy_weight: 3
 significance: medium
+persons:
+- Hermine Delarue
+player_impact: Exploration data CG at Rainbow's End concluded. Station now fully operational
+  as deep-space research hub in Mare Somnium.
+summary: Rainbow's End exploration data initiative concludes successfully. Stellar
+  survey targets exceeded. Station in Roefoo ZE-H d10-0 now open as frontier exploration
+  hub.
+related_uuids:
+- 24d79b14-7fcd-5d02-bd05-b1ea1a77b7f0
+- 733415a6-cbfd-5926-a7dc-3a7569d14645
 ---
 
 The exploration initiative supporting the new Rainbow’s End deep-space port has concluded, with commanders delivering a substantial volume of exploration data to the facility.

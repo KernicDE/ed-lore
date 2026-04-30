@@ -5,9 +5,8 @@ slug: ancient_origins_suggested_in_radicoida_unica_study
 date: '3312-04-15'
 source: API
 groups:
-- ACT
-- October
 - October Consortium
+- Holloway Bioscience Institute
 locations:
 - HIP 87621
 topics:
@@ -19,6 +18,16 @@ modern_impact: The HIP 87621 enclave conflict highlights post-war superpower ten
   and territorial disputes.
 legacy_weight: 4
 significance: high
+technologies:
+- Radicoida unica
+player_impact: Revelation that Radicoida unica may have ancient engineered origins.
+  No direct gameplay yet but deepens the mystery of HIP 87621 flora.
+summary: Phylogenetic study of Radicoida unica suggests DNA markers indicating ancient
+  non-natural intervention. October Consortium declines comment. Speculation about
+  deliberate design vs natural evolution.
+related_uuids:
+- 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
+- 62d40e14-3815-5039-b952-23d2b03e7b6c
 ---
 
 New analysis of Radicoida unica has raised fresh questions about the true origins of the enigmatic flora found in HIP 87621.

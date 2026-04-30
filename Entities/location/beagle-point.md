@@ -8,9 +8,9 @@ mention_count: 8
 related_entities:
 - sagittarius-a
 - explorers-anchorage
-- distant-worlds
+- deep-space-surveys
+- distant-worlds-3
 - kaii
-- michael-darkmoor
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **8**
 
 - [[Sagittarius A*]] (5 co-mentions)
 - [[Explorer's Anchorage]] (2 co-mentions)
-- [[Distant Worlds]] (2 co-mentions)
+- [[Deep Space Surveys]] (2 co-mentions)
+- [[Distant Worlds 3]] (2 co-mentions)
 - [[Kaii]] (1 co-mentions)
-- [[Michael Darkmoor]] (1 co-mentions)
 
 ## Biography
 

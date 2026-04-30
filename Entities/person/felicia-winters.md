@@ -10,7 +10,7 @@ related_entities:
 - sol
 - zachary-hudson
 - thargoid
-- act
+- jerome-archer
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **27**
 - [[Sol]] (8 co-mentions)
 - [[Zachary Hudson]] (6 co-mentions)
 - [[Thargoid]] (6 co-mentions)
-- [[ACT]] (6 co-mentions)
+- [[Jerome Archer]] (6 co-mentions)
 
 ## Biography
 

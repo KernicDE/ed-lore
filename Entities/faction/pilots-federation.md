@@ -3,8 +3,8 @@ id: pilots-federation
 name: Pilots Federation
 type: faction
 first_seen_date: '3301-03-27'
-last_seen_date: '3311-05-28'
-mention_count: 179
+last_seen_date: '3312-02-10'
+mention_count: 180
 related_entities:
 - alliance
 - aegis
@@ -18,8 +18,8 @@ related_entities:
 # Pilots Federation
 
 First mentioned: **3301-03-27**  
-Last mentioned: **3311-05-28**  
-Total mentions: **179**
+Last mentioned: **3312-02-10**  
+Total mentions: **180**
 
 ## Related
 

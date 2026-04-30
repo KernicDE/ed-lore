@@ -5,9 +5,9 @@ slug: coalition_announces_non_aggression_pact_amid_hip_87621_hostilities
 date: '3312-02-03'
 source: API
 groups:
-- ACT
-- October
-- October Consortium
+- Imperial Navy
+- Alliance
+- Federal Navy
 locations:
 - HIP 87621
 topics:
@@ -19,6 +19,18 @@ modern_impact: The HIP 87621 enclave conflict highlights post-war superpower ten
   and territorial disputes.
 legacy_weight: 4
 significance: high
+persons:
+- Ernesto Rios
+- Pranav Antal
+player_impact: Non-aggression pact in HIP 87621 enclave between Aisling Duval, Yuri
+  Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus forces.
+  Pranav Antal excluded. Fighting subsides but sporadic clashes continue.
+summary: Coalition of major powers announces non-aggression pact in HIP 87621 enclave.
+  Aisling, Grom, Arissa, Kaine, Mahon and Patreus aligned. Antal excluded. Analysts
+  suggest motive is to refocus on core system conflicts.
+related_uuids:
+- b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
+- 86dbc944-a8ec-5d85-ab42-44ac9911ac40
 ---
 
 The group, comprising of Aisling Duval, Yuri Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus aligned forces, brings together representatives and affiliated factions to agree to an informal non-aggression pact. The agreement is described as intending to guarantee mutual support and reduce further escalation in the enclave. Pranav Antal's forces were notably missing from the announcement, with rumours circulating that Antal has not been included in the Pact following the two-week ceasefire.

@@ -14,6 +14,18 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
+arc_id: ship-release
+technologies:
+- Caspian Explorer
+- Mk II modules
+- Supercharged Frame Shift Drive
+player_impact: Caspian Explorer now available at all core shipyards. Dedicated exploration
+  vessel with extended jump range, orbital glide optimization, and FSD supercharge.
+summary: Zorgon Peterson's Caspian Explorer enters full production. Designed for extreme
+  deep-space exploration with extended jump range and supercharged FSD.
+related_uuids:
+- 5b4b06c3-8a29-548e-924f-3f36a4293edd
+- 24d79b14-7fcd-5d02-bd05-b1ea1a77b7f0
 ---
 
 The Caspian Explorer has received the green light for full distribution, having previously been available via limited release only.

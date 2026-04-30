@@ -5,7 +5,6 @@ slug: zorgon_peterson_presents_lynx_highliner
 date: '3312-04-28'
 source: API
 groups:
-- Engineers
 - Zorgon Peterson
 topics:
 - engineering
@@ -13,6 +12,19 @@ topics:
 modern_impact: Engineering developments offer pilots new ship customisation options.
 legacy_weight: 1
 significance: low
+arc_id: ship-release
+technologies:
+- Lynx Highliner
+- Mk II Class Passenger Cabins
+- Supercharged Frame Shift Drive
+player_impact: New medium passenger liner available at core shipyards. High capacity
+  + 5 hardpoints + supercharged FSD make it ideal for evacuation and bulk passenger
+  missions.
+summary: Zorgon Peterson releases the Lynx Highliner, a dedicated passenger vessel
+  with record capacity, defensive hardpoints, and supercharged FSD. Available immediately
+  at all core shipyards.
+related_uuids:
+- 1bb577e6-52b3-5a63-a983-f1975e27d66b
 ---
 
 Zorgon Peterson has announced the release of the Lynx Highliner, a new medium ship engineered for maximum passenger capacity.

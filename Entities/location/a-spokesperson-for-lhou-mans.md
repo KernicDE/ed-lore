@@ -6,7 +6,7 @@ first_seen_date: '3312-04-28'
 last_seen_date: '3312-04-28'
 mention_count: 1
 related_entities:
-- act
+- lhou-mans-security
 - zorgon-peterson
 - authorities-in-the-lhou-mans
 - enterprise
@@ -23,7 +23,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (1 co-mentions)
+- [[Lhou Mans Security]] (1 co-mentions)
 - [[Zorgon Peterson]] (1 co-mentions)
 - [[Authorities in the Lhou Mans]] (1 co-mentions)
 - [[Enterprise]] (1 co-mentions)

@@ -8,9 +8,8 @@ entities:
 - Casimir noted that
 - Roy Casimir
 groups:
-- ACT
-- October
 - October Consortium
+- Holloway Bioscience Institute
 locations:
 - HIP 87621
 - Holloway Bioscience Institute
@@ -24,6 +23,21 @@ modern_impact: The HIP 87621 enclave conflict highlights post-war superpower ten
   and territorial disputes.
 legacy_weight: 4
 significance: high
+persons:
+- Dr. Roy Casimir
+- Lexi October
+technologies:
+- Radicoida unica
+player_impact: First public study of Radicoida unica released. Plant shows symbiotic
+  potential and seed pods contain performance-enhancing compounds. Data partially
+  redacted by October Consortium. No human trials imminent.
+summary: Dr. Roy Casimir publishes first public Radicoida unica study. Mercurial genetic
+  composition, symbiotic potential with creatures, and performance-enhancing seed
+  pod compounds discovered. Lexi October claims competent oversight.
+related_uuids:
+- 62d40e14-3815-5039-b952-23d2b03e7b6c
+- ed385459-5c49-5899-ba5b-c1aaeb45d81b
+- b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
 ---
 
 The first publicly available study of Radicoida unica has been published following heavy pressure from the exobiological community.

@@ -23,7 +23,7 @@ Total mentions: **10**
 
 ## Related
 
-- [[ACT]] (8 co-mentions)
+- [[ACT]] (7 co-mentions)
 - [[Thargoid]] (7 co-mentions)
 - [[Aegis]] (5 co-mentions)
 - [[Maximo Fonseca]] (3 co-mentions)

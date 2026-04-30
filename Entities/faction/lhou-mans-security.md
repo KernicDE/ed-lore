@@ -1,21 +1,21 @@
 ---
-id: authorities-in-the-lhou-mans
-name: Authorities in the Lhou Mans
-type: location
+id: lhou-mans-security
+name: Lhou Mans Security
+type: faction
 first_seen_date: '3312-04-28'
 last_seen_date: '3312-04-28'
 mention_count: 1
 related_entities:
-- lhou-mans-security
 - zorgon-peterson
 - a-spokesperson-for-lhou-mans
+- authorities-in-the-lhou-mans
 - enterprise
 - gateway
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Authorities in the Lhou Mans
+# Lhou Mans Security
 
 First mentioned: **3312-04-28**  
 Last mentioned: **3312-04-28**  
@@ -23,9 +23,9 @@ Total mentions: **1**
 
 ## Related
 
-- [[Lhou Mans Security]] (1 co-mentions)
 - [[Zorgon Peterson]] (1 co-mentions)
 - [[A spokesperson for Lhou Mans]] (1 co-mentions)
+- [[Authorities in the Lhou Mans]] (1 co-mentions)
 - [[Enterprise]] (1 co-mentions)
 - [[Gateway]] (1 co-mentions)
 

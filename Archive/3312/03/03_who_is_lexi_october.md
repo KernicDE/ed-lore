@@ -5,9 +5,9 @@ slug: who_is_lexi_october
 date: '3312-03-03'
 source: API
 groups:
-- ACT
-- October
 - October Consortium
+- Joker's Deck
+- Supratech
 locations:
 - Artemis
 - HIP 87621
@@ -19,11 +19,28 @@ topics:
 - research
 - ship
 - war
-arc_id: hip87621-conflict
+arc_id: october-consortium-rise
 modern_impact: The HIP 87621 enclave conflict highlights post-war superpower tensions
   and territorial disputes.
 legacy_weight: 4
 significance: high
+persons:
+- Lexi October
+- Marlon Royce
+- Zachary Rackham
+- Scorpio DeVorrow
+technologies:
+- Artemis exploration suit
+- Torc computing system
+player_impact: 'Deep lore article on Lexi October. Reveals her history: rescued Supratech
+  in 3305, hosted Joker''s Deck (Winking Cat theft), and controls HIP 87621/Radicoida
+  via October Accords.'
+summary: 'Vox Galactica profile of Lexi October reveals her rise from tech investor
+  to dominant corporate power. Key milestones: Supratech rescue (3305), Joker''s Deck
+  incident (3307), and current control of HIP 87621 through October Accords.'
+related_uuids:
+- b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
+- 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
 ---
 
 Vox Galactica business analyst Marlon Royce has published a feature piece on October Consortium CEO Lexi October:

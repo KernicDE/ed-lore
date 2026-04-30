@@ -17,6 +17,18 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+arc_id: pirate-coalition-rise
+persons:
+- Mira Bukowski
+player_impact: New organized pirate threat with twin-axe malware calling card. Coordinated
+  raids on military outposts across core systems. No faction claims responsibility
+  yet.
+summary: Military outposts across the Bubble hit by coordinated raids. Twin-axe malware
+  signature suggests a rogue pirate strategist uniting ships under one banner. Trade
+  associations warn of falling confidence.
+related_uuids:
+- 1bb577e6-52b3-5a63-a983-f1975e27d66b
+- 86dbc944-a8ec-5d85-ab42-44ac9911ac40
 ---
 
 Several military ports across the core systems have been targeted in a wave of raids this week, according to Vox Galactica.

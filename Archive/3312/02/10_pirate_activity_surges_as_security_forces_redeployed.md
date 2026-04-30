@@ -5,8 +5,8 @@ slug: pirate_activity_surges_as_security_forces_redeployed
 date: '3312-02-10'
 source: API
 groups:
-- ACT
 - Imperial Internal Security Service
+- Pilots' Federation
 locations:
 - HIP 87621
 topics:
@@ -19,6 +19,15 @@ modern_impact: The HIP 87621 enclave conflict highlights post-war superpower ten
   and territorial disputes.
 legacy_weight: 4
 significance: high
+player_impact: Pirate activity spikes in Imperial and Federal colonies due to security
+  redeployment to HIP 87621. Increased interdictions and miner harassment. Bounty
+  opportunities.
+summary: Sharp rise in pirate activity across Imperial and Federal colonies as security
+  forces redeploy to HIP 87621. Traders and miners report sustained harassment. IISS
+  acknowledges 'temporary pressure' on border systems.
+related_uuids:
+- ab9f6c81-8fa4-564b-978d-59be79a044dc
+- 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 ---
 
 Local authorities across several Imperial and Federal colonies have confirmed a sharp rise in pirate activity, coinciding with the military confrontation surrounding the HIP 87621 enclave.

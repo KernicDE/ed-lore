@@ -5,8 +5,8 @@ slug: exploration_data_requested_for_new_deep_space_station
 date: '3312-03-20'
 source: API
 groups:
-- ACT
-- Distant Worlds
+- Deep Space Surveys
+- Distant Worlds 3
 topics:
 - construction
 - exploration
@@ -17,6 +17,16 @@ modern_impact: The Distant Worlds 3 expedition pushes the boundaries of deep-spa
   exploration and community coordination.
 legacy_weight: 3
 significance: medium
+persons:
+- Hermine Delarue
+player_impact: 'CG active: deliver exploration data to Rainbow''s End in Roefoo ZE-H
+  d10-0 to seed stellar modelling systems. Open until March 27.'
+summary: Distant Worlds 3 logistics fleet completes Rainbow's End deep-space station
+  in Roefoo ZE-H d10-0. Calls for exploration data to seed modelling systems. Station
+  opens March 3312.
+related_uuids:
+- 1c11d8d0-5fd0-592c-81c0-bc68296fadf
+- 733415a6-cbfd-5926-a7dc-3a7569d14645
 ---
 
 The Distant Worlds 3 logistics fleet has completed the first build phase of a new deep-space outpost in the Roefoo ZE-H d10-0 system at the edge of the Mare Somnium region.

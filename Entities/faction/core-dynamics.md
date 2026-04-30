@@ -24,7 +24,7 @@ Total mentions: **60**
 ## Related
 
 - [[Jupiter]] (28 co-mentions)
-- [[Federal Navy]] (16 co-mentions)
+- [[Federal Navy]] (15 co-mentions)
 - [[Alliance]] (15 co-mentions)
 - [[Federal Times]] (10 co-mentions)
 - [[Pilots Federation]] (10 co-mentions)

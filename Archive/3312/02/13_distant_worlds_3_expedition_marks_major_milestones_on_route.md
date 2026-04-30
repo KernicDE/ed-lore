@@ -5,7 +5,8 @@ slug: distant_worlds_3_expedition_marks_major_milestones_on_route
 date: '3312-02-13'
 source: API
 groups:
-- Distant Worlds
+- Deep Space Surveys
+- Distant Worlds 3
 locations:
 - Beagle Point
 - Colonia
@@ -18,6 +19,18 @@ modern_impact: The Distant Worlds 3 expedition pushes the boundaries of deep-spa
   exploration and community coordination.
 legacy_weight: 3
 significance: medium
+persons:
+- Elaine Howard
+- Hermine Delarue
+player_impact: 'DW3 expedition milestones: cleared inhabited space, reached Colonia
+  (WP1), ''Monde de la Mort'' surface insertion, Seldowitch Nebula (WP2), Deep Space
+  Support Array carrier discovery. On course for Beagle Point.'
+summary: Distant Worlds 3 reports major milestones including Colonia regrouping, hazardous
+  surface landing near white dwarf Spoihaae XE-X d2-9, Seldowitch Nebula surveys,
+  and DSSA carrier discovery. Fleet bound for Beagle Point.
+related_uuids:
+- 733415a6-cbfd-5926-a7dc-3a7569d14645
+- 6727df09-c220-537b-ac30-e91181fadd2a
 ---
 
 The Distant Worlds 3 expedition has confirmed a series of key achievements as its diverse fleet continues toward an unexplored region of the galaxy.

@@ -7,8 +7,6 @@ source: API
 entities:
 - Casimir
 groups:
-- ACT
-- October
 - October Consortium
 locations:
 - HIP 87621
@@ -21,6 +19,18 @@ modern_impact: The HIP 87621 enclave conflict highlights post-war superpower ten
   and territorial disputes.
 legacy_weight: 4
 significance: high
+persons:
+- Dr. Roy Casimir
+technologies:
+- Radicoida unica
+player_impact: 'New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP
+  87621. Plant entered active reproductive phase. Hazardous surface conditions.'
+summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October
+  Consortium calls for harvesting to support pharmacological research. Exogene Sciences
+  is collection point.
+related_uuids:
+- ed385459-5c49-5899-ba5b-c1aaeb45d81b
+- 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
 ---
 
 October Consortium has announced that the research initiative to collect Radicoida unica bloom samples was a resounding success.

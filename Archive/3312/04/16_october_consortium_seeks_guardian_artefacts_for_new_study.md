@@ -5,8 +5,6 @@ slug: october_consortium_seeks_guardian_artefacts_for_new_study
 date: '3312-04-16'
 source: API
 groups:
-- ACT
-- October
 - October Consortium
 locations:
 - Guardian
@@ -21,6 +19,16 @@ modern_impact: The HIP 87621 enclave conflict highlights post-war superpower ten
   and territorial disputes.
 legacy_weight: 4
 significance: high
+persons:
+- Lexi October
+- Ram Tah
+player_impact: Guardian artefact CG at Exogene Sciences in HIP 87621. Deliver artefacts
+  to support October Consortium research. Ram Tah offers collaboration.
+summary: October Consortium calls for Guardian artefacts for exobiological research.
+  Ram Tah offers expertise. Lexi October confirms data sharing after initial studies.
+related_uuids:
+- b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
+- 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
 ---
 
 October Consortium has issued a call for help to recover Guardian artefacts from across the galaxy.
