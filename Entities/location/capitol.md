@@ -26,7 +26,7 @@ Total mentions: **58**
 - [[Achenar]] (20 co-mentions)
 - [[Imperial Palace]] (19 co-mentions)
 - [[Arissa-Lavigny Duval]] (14 co-mentions)
-- [[Imperial Herald]] (12 co-mentions)
+- [[Imperial Herald]] (11 co-mentions)
 - [[Imperial Senate]] (9 co-mentions)
 
 ## Biography

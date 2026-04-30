@@ -3,8 +3,8 @@ id: engineers
 name: Engineers
 type: faction
 first_seen_date: '3308-06-01'
-last_seen_date: '3311-12-16'
-mention_count: 18
+last_seen_date: '3310-10-31'
+mention_count: 14
 related_entities:
 - act
 - thargoid
@@ -18,12 +18,12 @@ related_entities:
 # Engineers
 
 First mentioned: **3308-06-01**  
-Last mentioned: **3311-12-16**  
-Total mentions: **18**
+Last mentioned: **3310-10-31**  
+Total mentions: **14**
 
 ## Related
 
-- [[ACT]] (13 co-mentions)
+- [[ACT]] (11 co-mentions)
 - [[Thargoid]] (9 co-mentions)
 - [[Aegis]] (4 co-mentions)
 - [[Liz Ryder]] (4 co-mentions)

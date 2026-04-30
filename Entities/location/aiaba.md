@@ -2,13 +2,12 @@
 id: aiaba
 name: Aiaba
 type: location
-first_seen_date: '3311-07-22'
+first_seen_date: '3311-07-17'
 last_seen_date: '3311-07-24'
-mention_count: 2
+mention_count: 3
 related_entities:
-- act
 - zorgon-peterson
-- the-new-wave-of
+- vespucci-city
 - brewer-corporation
 ---
 
@@ -16,15 +15,14 @@ related_entities:
 
 # Aiaba
 
-First mentioned: **3311-07-22**  
+First mentioned: **3311-07-17**  
 Last mentioned: **3311-07-24**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[ACT]] (2 co-mentions)
-- [[Zorgon Peterson]] (2 co-mentions)
-- [[The new wave of]] (1 co-mentions)
+- [[Zorgon Peterson]] (3 co-mentions)
+- [[Vespucci City]] (1 co-mentions)
 - [[Brewer Corporation]] (1 co-mentions)
 
 ## Biography

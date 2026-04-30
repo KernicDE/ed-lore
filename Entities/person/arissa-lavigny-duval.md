@@ -23,7 +23,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (21 co-mentions)
+- [[ACT]] (20 co-mentions)
 - [[Capitol]] (14 co-mentions)
 - [[Alliance]] (14 co-mentions)
 - [[Imperial Herald]] (14 co-mentions)

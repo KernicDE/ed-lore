@@ -3,8 +3,8 @@ id: kumo-crew
 name: Kumo Crew
 type: faction
 first_seen_date: '3301-05-14'
-last_seen_date: '3311-07-17'
-mention_count: 67
+last_seen_date: '3310-08-22'
+mention_count: 66
 related_entities:
 - alliance
 - act
@@ -18,8 +18,8 @@ related_entities:
 # Kumo Crew
 
 First mentioned: **3301-05-14**  
-Last mentioned: **3311-07-17**  
-Total mentions: **67**
+Last mentioned: **3310-08-22**  
+Total mentions: **66**
 
 ## Related
 

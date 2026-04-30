@@ -7,8 +7,8 @@ last_seen_date: '3311-12-02'
 mention_count: 14
 related_entities:
 - alliance
-- act
 - sirius-corporation
+- act
 - thargoid
 - alioth
 ---
@@ -24,9 +24,9 @@ Total mentions: **14**
 ## Related
 
 - [[Alliance]] (13 co-mentions)
-- [[ACT]] (12 co-mentions)
 - [[Sirius Corporation]] (12 co-mentions)
-- [[Thargoid]] (8 co-mentions)
+- [[ACT]] (11 co-mentions)
+- [[Thargoid]] (7 co-mentions)
 - [[Alioth]] (6 co-mentions)
 
 ## Biography

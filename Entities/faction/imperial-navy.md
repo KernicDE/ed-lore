@@ -24,7 +24,7 @@ Total mentions: **79**
 ## Related
 
 - [[Alliance]] (30 co-mentions)
-- [[ACT]] (30 co-mentions)
+- [[ACT]] (28 co-mentions)
 - [[Thargoid]] (27 co-mentions)
 - [[Federal Navy]] (23 co-mentions)
 - [[Salvation]] (18 co-mentions)

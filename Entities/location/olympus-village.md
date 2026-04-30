@@ -24,7 +24,7 @@ Total mentions: **20**
 ## Related
 
 - [[Mars]] (7 co-mentions)
-- [[Thargoid]] (7 co-mentions)
+- [[Thargoid]] (6 co-mentions)
 - [[ACT]] (6 co-mentions)
 - [[Federal Times]] (5 co-mentions)
 - [[Alliance]] (4 co-mentions)

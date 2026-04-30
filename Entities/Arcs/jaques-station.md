@@ -2,8 +2,8 @@
 id: jaques-station
 name: Jaques Station
 first_seen_date: '3302-05-05'
-last_seen_date: '3311-01-30'
-mention_count: 78
+last_seen_date: '3308-03-10'
+mention_count: 77
 significance: medium
 key_entities:
 - colonia-council
@@ -18,16 +18,16 @@ key_entities:
 # Jaques Station
 
 First seen: **3302-05-05**  
-Last seen: **3311-01-30**  
-Articles: **78**
+Last seen: **3308-03-10**  
+Articles: **77**
 
 ## Key Figures
 
 - [[Colonia Council]] (21 mentions)
-- [[Brewer Corporation]] (16 mentions)
+- [[Brewer Corporation]] (15 mentions)
 - [[Pilots Federation]] (11 mentions)
-- [[Bridge]] (9 mentions)
-- [[Colonia Bridge]] (9 mentions)
+- [[Bridge]] (8 mentions)
+- [[Colonia Bridge]] (8 mentions)
 
 ## Description
 

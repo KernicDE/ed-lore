@@ -3,8 +3,8 @@ id: aegis
 name: Aegis
 type: faction
 first_seen_date: '3303-08-05'
-last_seen_date: '3311-07-03'
-mention_count: 308
+last_seen_date: '3311-06-18'
+mention_count: 307
 related_entities:
 - thargoid
 - act
@@ -18,15 +18,15 @@ related_entities:
 # Aegis
 
 First mentioned: **3303-08-05**  
-Last mentioned: **3311-07-03**  
-Total mentions: **308**
+Last mentioned: **3311-06-18**  
+Total mentions: **307**
 
 ## Related
 
-- [[Thargoid]] (157 co-mentions)
-- [[ACT]] (137 co-mentions)
+- [[Thargoid]] (155 co-mentions)
+- [[ACT]] (135 co-mentions)
 - [[Alliance]] (89 co-mentions)
-- [[Titan]] (63 co-mentions)
+- [[Titan]] (61 co-mentions)
 - [[Alba Tesreau]] (55 co-mentions)
 
 ## Biography

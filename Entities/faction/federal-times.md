@@ -8,8 +8,8 @@ mention_count: 126
 related_entities:
 - act
 - sol
-- thargoid
 - alliance
+- thargoid
 - federal-navy
 ---
 
@@ -23,10 +23,10 @@ Total mentions: **126**
 
 ## Related
 
-- [[ACT]] (32 co-mentions)
+- [[ACT]] (30 co-mentions)
 - [[Sol]] (21 co-mentions)
-- [[Thargoid]] (19 co-mentions)
 - [[Alliance]] (16 co-mentions)
+- [[Thargoid]] (16 co-mentions)
 - [[Federal Navy]] (13 co-mentions)
 
 ## Biography

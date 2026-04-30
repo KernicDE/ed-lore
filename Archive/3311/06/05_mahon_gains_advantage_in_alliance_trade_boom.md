@@ -16,15 +16,28 @@ topics:
 - ship
 - trade
 - war
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+persons:
+- Edmund Mahon
+- Nakato Kaine
+- Irfan Karim
+technologies: []
+player_impact: 'Pilots participated in a two-week trade war by shipping cargo for
+  either Mahon''s or Kaine''s trade bloc. Rewards available at Bowersox Port in Winiama
+  and Fuca Dock in Apura respectively.'
+summary: 'Supporters of Edmund Mahon win an aggressive trade war in Alliance space
+  following Sirius Corporation''s withdrawal from Allied military infrastructure. The
+  trade bloc victory is expected to secure lucrative contracts.'
+modern_impact: 'This trade competition highlighted the economic realignment within
+  the Alliance after the Sirius Strategic Defence Pact''s termination.'
 legacy_weight: 3
 significance: medium
+related_uuids:
+- f343aeeb-2dc6-56ba-8f0f-e1f004053acc
 ---
 
 An aggressive trade war in Alliance space appears to have been won by supporters of Mahon.
 The recent withdrawal of Sirius Corporation from Allied military infrastructure created a significant opportunity for member state companies. The shipment of cargo to key locations has been used as a barometer of success between two trade blocs, formed around Edmund Mahon and Nakato Kaine respectively.
-After two weeks, the trade bloc favouring Mahon has been declared the winner by analysts and pundits. Irfan Karim of the Alliance Tribune noted that the Mahon trade bloc is ‘likely to secure the biggest and most lucrative contracts over the coming weeks.’
+After two weeks, the trade bloc favouring Mahon has been declared the winner by analysts and pundits. Irfan Karim of the Alliance Tribune noted that the Mahon trade bloc is 'likely to secure the biggest and most lucrative contracts over the coming weeks.'
 Participants in the trade war can now collect their rewards:
-Supporters of Edmund Mahon’s trade bloc can find their rewards at Bowersox Port in Winiama.
+Supporters of Edmund Mahon's trade bloc can find their rewards at Bowersox Port in Winiama.
 Supporters of Nakato Kaine's trade bloc can find their rewards at Fuca Dock in Apura.

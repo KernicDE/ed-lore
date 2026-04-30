@@ -3,8 +3,8 @@ id: zemina-torval
 name: Zemina Torval
 type: person
 first_seen_date: '3301-03-01'
-last_seen_date: '3311-07-17'
-mention_count: 19
+last_seen_date: '3310-01-11'
+mention_count: 18
 related_entities:
 - mastopolos-mining
 - imperial-senate
@@ -18,8 +18,8 @@ related_entities:
 # Zemina Torval
 
 First mentioned: **3301-03-01**  
-Last mentioned: **3311-07-17**  
-Total mentions: **19**
+Last mentioned: **3310-01-11**  
+Total mentions: **18**
 
 ## Related
 

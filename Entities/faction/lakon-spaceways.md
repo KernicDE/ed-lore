@@ -6,10 +6,11 @@ first_seen_date: '3310-07-30'
 last_seen_date: '3312-01-22'
 mention_count: 5
 related_entities:
+- alioth
 - engineers
 - act
-- alioth
 - faulcon-delacy
+- alioth-independents
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,10 +23,11 @@ Total mentions: **5**
 
 ## Related
 
-- [[Engineers]] (3 co-mentions)
-- [[ACT]] (3 co-mentions)
 - [[Alioth]] (2 co-mentions)
+- [[Engineers]] (1 co-mentions)
+- [[ACT]] (1 co-mentions)
 - [[Faulcon DeLacy]] (1 co-mentions)
+- [[Alioth Independents]] (1 co-mentions)
 
 ## Biography
 

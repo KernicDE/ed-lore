@@ -3,8 +3,8 @@ id: imperial-herald
 name: Imperial Herald
 type: faction
 first_seen_date: '3301-05-06'
-last_seen_date: '3311-04-01'
-mention_count: 88
+last_seen_date: '3311-03-13'
+mention_count: 87
 related_entities:
 - alliance
 - aegis
@@ -18,14 +18,14 @@ related_entities:
 # Imperial Herald
 
 First mentioned: **3301-05-06**  
-Last mentioned: **3311-04-01**  
-Total mentions: **88**
+Last mentioned: **3311-03-13**  
+Total mentions: **87**
 
 ## Related
 
 - [[Alliance]] (20 co-mentions)
 - [[Aegis]] (19 co-mentions)
-- [[Achenar]] (17 co-mentions)
+- [[Achenar]] (16 co-mentions)
 - [[NMLA]] (14 co-mentions)
 - [[Arissa-Lavigny Duval]] (14 co-mentions)
 

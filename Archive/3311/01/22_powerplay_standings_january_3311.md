@@ -6,18 +6,22 @@ date: '3311-01-22'
 source: API
 groups:
 - ACT
-locations:
-- His latest survey of
-- Li Yong-Rui - 724
-- Yuri Grom - 995
+locations: []
 topics:
 - research
-modern_impact: GalNet community report documenting current events in the galaxy.
+persons:
+- Conrad Sterling
+technologies: []
+player_impact: "Powerplay standings reflected ongoing player-supported expansion and consolidation for the major powers."
+summary: "Vox Galactica published the January 3311 Powerplay standings, with Edmund Mahon leading at 1,403 systems."
+modern_impact: "The January baseline — Mahon at 1,403, Aisling at 1,383 — establishes the pre-war equilibrium that will be disrupted by 3311's cascade of conflicts. Li Yong-Rui's relatively weak position (724 systems) makes his subsequent gains all the more significant, suggesting Sirius Corp's strategic patience in exploiting post-war opportunities."
 legacy_weight: 2
 significance: low
+related_uuids:
+- 1f6bf50d-8281-5bf0-9d85-1e2f6b5e5d57
 ---
 
-This month’s analysis of the influence held by key figures in the core systems has arrived, courtesy of Conrad Sterling of Vox Galactica.
+This month's analysis of the influence held by key figures in the core systems has arrived, courtesy of Conrad Sterling of Vox Galactica.
 His latest survey of system populations suggests the following five powers enjoy the largest sphere of influence:
 Rank 1: Edmund Mahon – 1,403 systems
 Rank 2: Aisling Duval – 1,383 systems

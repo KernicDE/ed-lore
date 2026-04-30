@@ -23,8 +23,8 @@ Total mentions: **16**
 
 ## Related
 
-- [[Azimuth]] (16 co-mentions)
-- [[Thargoid]] (16 co-mentions)
+- [[Azimuth]] (15 co-mentions)
+- [[Thargoid]] (15 co-mentions)
 - [[ACT]] (14 co-mentions)
 - [[Salvation]] (14 co-mentions)
 - [[Aegis]] (12 co-mentions)
