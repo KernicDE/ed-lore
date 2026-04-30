@@ -1,4 +1,4 @@
-import { useState, useCallback, useMemo } from 'react';
+import { useState, useCallback, useMemo, useEffect } from 'react';
 import Timeline from './timeline/Timeline';
 import ContextPanel from './context/ContextPanel';
 
@@ -43,7 +43,7 @@ interface AppShellProps {
   arcs: Record<string, Arc>;
 }
 
-const ITEM_HEIGHT = 96;
+const ITEM_HEIGHT = 100;
 const BUFFER = 5;
 
 export default function AppShell({ articles, entities, arcs }: AppShellProps) {
@@ -51,6 +51,7 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
   const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
   const [scrollTop, setScrollTop] = useState(0);
   const [viewportHeight, setViewportHeight] = useState(800);
+  const [scrollToUuid, setScrollToUuid] = useState<string | null>(null);
 
   // Newest first (descending)
   const sortedArticles = useMemo(() => {
@@ -69,6 +70,18 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
     setScrollTop(st);
     setViewportHeight(vh);
   }, []);
+
+  const handleArticleNavigate = useCallback((uuid: string) => {
+    setScrollToUuid(uuid);
+    // Reset after scroll completes
+    setTimeout(() => setScrollToUuid(null), 1000);
+  }, []);
+
+  // Expose navigate handler to the CommandConsole
+  useEffect(() => {
+    (window as any).__navigateToArticle = handleArticleNavigate;
+    return () => { delete (window as any).__navigateToArticle; };
+  }, [handleArticleNavigate]);
 
   // Compute visible articles for context panel
   const visibleArticles = useMemo(() => {
@@ -91,6 +104,7 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
         onArticleSelect={handleArticleSelect}
         selectedArticle={selectedArticle}
         onScrollUpdate={handleScrollUpdate}
+        scrollToUuid={scrollToUuid}
       />
       <ContextPanel
         currentDate={currentDate}

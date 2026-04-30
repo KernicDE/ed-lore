@@ -23,15 +23,16 @@ interface TimelineProps {
   onArticleSelect: (article: Article | null) => void;
   selectedArticle: Article | null;
   onScrollUpdate?: (scrollTop: number, viewportHeight: number) => void;
+  scrollToUuid?: string | null;
 }
 
-const ITEM_HEIGHT = 96;
+const ITEM_HEIGHT = 100;
 const BUFFER = 5;
 
 function wikiLinkToHtml(text: string, baseUrl: string): string {
   return text.replace(/\[\[([^\]]+)\]\]/g, (_match, name) => {
     const eid = name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-');
-    return `<a href="${baseUrl}entity/${eid}/" class="wiki-link">${name}</a>`;
+    return `<a href="${baseUrl}/entity/${eid}/" class="wiki-link">${name}</a>`;
   });
 }
 
@@ -41,6 +42,7 @@ export default function Timeline({
   onArticleSelect,
   selectedArticle,
   onScrollUpdate,
+  scrollToUuid,
 }: TimelineProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const [scrollTop, setScrollTop] = useState(0);
@@ -68,6 +70,19 @@ export default function Timeline({
     };
   }, [onScrollUpdate]);
 
+  // Handle external scroll-to request
+  useEffect(() => {
+    if (!scrollToUuid || !containerRef.current) return;
+    const idx = articles.findIndex((a) => a.uuid === scrollToUuid);
+    if (idx === -1) return;
+    const el = containerRef.current;
+    const targetScroll = idx * ITEM_HEIGHT;
+    el.scrollTo({ top: targetScroll, behavior: 'smooth' });
+    // Also select the article
+    const art = articles[idx];
+    if (art) onArticleSelect(art);
+  }, [scrollToUuid, articles, onArticleSelect]);
+
   // Track center date for time-lock
   useEffect(() => {
     const centerIdx = Math.floor((scrollTop + viewportHeight / 2) / ITEM_HEIGHT);
@@ -75,7 +90,7 @@ export default function Timeline({
     if (art) onCenterDateChange(art.date);
   }, [scrollTop, viewportHeight, articles, onCenterDateChange]);
 
-  // Virtualisation with spacers (normal flow, no absolute positioning)
+  // Virtualisation with spacers
   const startIdx = Math.max(0, Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER);
   const endIdx = Math.min(articles.length, Math.ceil((scrollTop + viewportHeight) / ITEM_HEIGHT) + BUFFER);
 
@@ -86,7 +101,7 @@ export default function Timeline({
     onArticleSelect(selectedArticle?.uuid === art.uuid ? null : art);
   }, [onArticleSelect, selectedArticle]);
 
-  // Group by year for sticky headers among visible items
+  // Year headers among visible items
   const visibleArticles = articles.slice(startIdx, endIdx);
   const yearHeaders = useMemo(() => {
     const headers: { year: string; index: number }[] = [];
@@ -157,16 +172,16 @@ export default function Timeline({
                       </div>
                     )}
                     {art.entities.length > 0 && (
-                      <div style={{ marginTop: 12, display: 'flex', gap: 6, flexWrap: 'wrap' }}>
+                      <div style={{ marginTop: 14, display: 'flex', gap: 8, flexWrap: 'wrap' }}>
                         {art.entities.slice(0, 6).map((e) => (
                           <span
                             key={e}
                             style={{
                               fontFamily: 'var(--font-mono)',
-                              fontSize: 10,
+                              fontSize: 11,
                               color: 'var(--elite-blue)',
                               border: '1px solid var(--elite-blue-dim)',
-                              padding: '2px 8px',
+                              padding: '3px 10px',
                             }}
                           >
                             {e}

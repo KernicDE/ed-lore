@@ -8,6 +8,7 @@ interface SearchItem {
   date?: string;
   desc?: string;
   path: string;
+  isArticle: boolean;
 }
 
 interface CommandConsoleProps {
@@ -21,10 +22,8 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
   const [query, setQuery] = useState('');
   const [selectedIdx, setSelectedIdx] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
-
   const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
-  // Build search index
   const fuse = useMemo(() => {
     const items: SearchItem[] = [
       ...articles.map((a) => ({
@@ -34,6 +33,7 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
         date: a.date,
         desc: a.body_preview?.slice(0, 120) + '...',
         path: `${baseUrl}/#${a.date}-${a.uuid}`,
+        isArticle: true,
       })),
       ...Object.values(entities).map((e) => ({
         id: e.id,
@@ -41,6 +41,7 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
         type: 'entity' as const,
         desc: `Type: ${e.type}`,
         path: `${baseUrl}/entity/${e.id}/`,
+        isArticle: false,
       })),
       ...Object.values(arcs).map((a) => ({
         id: a.id,
@@ -48,6 +49,7 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
         type: 'arc' as const,
         desc: `${a.id.replace(/-/g, ' ')}`,
         path: `${baseUrl}/arc/${a.id}/`,
+        isArticle: false,
       })),
     ];
     return new Fuse(items, {
@@ -70,6 +72,18 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
     setSelectedIdx(0);
   }, [query]);
 
+  const handleSelect = useCallback((item: SearchItem) => {
+    if (item.isArticle) {
+      const nav = (window as any).__navigateToArticle;
+      if (nav) {
+        nav(item.id);
+        onClose();
+      }
+    } else {
+      window.location.href = item.path;
+    }
+  }, [onClose]);
+
   const handleKeyDown = useCallback(
     (e: KeyboardEvent) => {
       if (e.key === 'Escape') {
@@ -87,12 +101,10 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
       } else if (e.key === 'Enter') {
         e.preventDefault();
         const item = results[selectedIdx];
-        if (item) {
-          window.location.href = item.path;
-        }
+        if (item) handleSelect(item);
       }
     },
-    [results, selectedIdx, onClose]
+    [results, selectedIdx, onClose, handleSelect]
   );
 
   useEffect(() => {
@@ -111,7 +123,7 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
     <div className="search-overlay" onClick={onClose}>
       <div className="search-modal" onClick={(e) => e.stopPropagation()}>
         <div className="search-input-wrap">
-          <span style={{ color: 'var(--elite-blue)', marginRight: 12, fontSize: 16 }}>›</span>
+          <span style={{ color: 'var(--elite-blue)', marginRight: 12, fontSize: 18 }}>›</span>
           <input
             ref={inputRef}
             className="search-input"
@@ -123,16 +135,16 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
         </div>
         <div className="search-results">
           {results.length === 0 && query.trim() && (
-            <div style={{ padding: 20, textAlign: 'center', color: 'var(--text-dim)', fontSize: 13 }}>
+            <div style={{ padding: 24, textAlign: 'center', color: 'var(--text-dim)', fontSize: 15 }}>
               No results found
             </div>
           )}
           {results.map((item, i) => (
-            <a
+            <div
               key={`${item.type}-${item.id}`}
-              href={item.path}
               className={`search-result ${i === selectedIdx ? 'selected' : ''}`}
               onMouseEnter={() => setSelectedIdx(i)}
+              onClick={() => handleSelect(item)}
             >
               <span
                 className="search-result-type"
@@ -144,12 +156,12 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
                 <div className="search-result-title">{item.title}</div>
                 {item.desc && <div className="search-result-desc">{item.desc}</div>}
                 {item.date && (
-                  <div style={{ fontFamily: 'var(--font-mono)', fontSize: 10, color: 'var(--text-dim)', marginTop: 2 }}>
+                  <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)', marginTop: 2 }}>
                     {item.date}
                   </div>
                 )}
               </div>
-            </a>
+            </div>
           ))}
         </div>
       </div>
