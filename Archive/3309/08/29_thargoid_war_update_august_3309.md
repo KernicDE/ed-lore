@@ -4,28 +4,32 @@ title: 'Thargoid War Update: August 3309'
 slug: thargoid_war_update_august_3309
 date: '3309-08-29'
 source: API
-groups:
-- ACT
-- Thargoid
+groups: []
 locations:
 - Guardian
 - HIP 19600
 - Holloway Bioscience Institute
-- Thargoid
-- The number of
-- Titan
 - Wregoe
 topics:
 - alien contact
 - research
-- ship
 - war
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Sanderlyn's observation that 'The number of systems controlled by the Titans' invasion fleets has tumbled' shows military progress. Her description of the Dedicant abductees — 'most of these abductees were members of the Order of the Far God, finally getting their wish to be saved by their angels' — is darkly ironic. The reference to Wregoe as 'only the second of its kind ever recorded' and the non-aggressive Thargoid behavior there is significant."
+persons:
+- Jade Sanderlyn
+player_impact: "Pilots achieved territorial gains against Thargoids and continue anti-xeno operations."
+summary: "Sanderlyn's monthly update covers territorial gains, the Scythe-class hunter revelation, the Dedicant tragedy, and the Wregoe archaeological discovery."
 legacy_weight: 5
 significance: high
+related_uuids:
+- ba9e2357-84b5-5ac9-aaf3-d2fa18dc5171
+- 6d9dec9b-98e1-5167-9d3c-00c436e9d31c
+- 94095149-30bd-5440-b287-8db2535dc42d
+- 147a3c1e-ea2e-582c-8b5c-676b3075f426
+- 4413aa0f-d644-50e2-9ad2-417d0b29bb24
+- f362b55b-941d-566f-aa08-6a1ae59364b9
 ---
 
 Vox Galactica’s Jade Sanderlyn reviews developments in the ongoing war against the Thargoids.

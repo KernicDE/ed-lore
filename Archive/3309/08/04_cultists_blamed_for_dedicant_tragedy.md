@@ -4,28 +4,29 @@ title: Cultists Blamed for Dedicant Tragedy
 slug: cultists_blamed_for_dedicant_tragedy
 date: '3309-08-04'
 source: API
-entities:
-- Alfred Ulyanov
-- Zachary Hudson
+entities: []
 groups:
-- ACT
-- Alliance
 - Federal Times
-- Shadow President
-- Thargoid
-locations:
-- Thargoid
+locations: []
 topics:
-- alien contact
 - crime
-- espionage
 - investigation
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Hudson's framing — 'Hijacking the Dedicant to deliver it to their alien gods is an act of treason and mass murder' — is a political weapon. His order for 'automatic life sentences' is draconian. The three candidates' contrasting responses — Archer's continuation of Hudson's policy, Winters's call for independent review, Rackham's absurd tax proposal — reveal their characters. Ulyanov's expert observation that 'the cultists had no way of communicating with the Thargoids' undermines Hudson's narrative."
+persons:
+- Zachary Hudson
+- Jerome Archer
+- Felicia Winters
+- Zachary Rackham
+- Alfred Ulyanov
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "President Hudson blames the Order of the Far God for the Dedicant tragedy, ordering the PDB to crack down, while presidential candidates stake out competing positions on the cult."
 legacy_weight: 5
 significance: high
+related_uuids:
+- ba9e2357-84b5-5ac9-aaf3-d2fa18dc5171
+- 6d9dec9b-98e1-5167-9d3c-00c436e9d31c
+- 94095149-30bd-5440-b287-8db2535dc42d
 ---
 
 President Zachary Hudson has accused the Order of the Far God of being directly responsible for the fate of the Dedicant megaship.

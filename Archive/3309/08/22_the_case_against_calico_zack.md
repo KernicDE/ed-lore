@@ -5,23 +5,27 @@ slug: the_case_against_calico_zack
 date: '3309-08-22'
 source: API
 groups:
-- ACT
 - Federal Times
 locations:
 - Sol
 topics:
-- corporate expansion
 - crime
-- espionage
 - investigation
 - piracy
-- ship
-- sport
-- trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: "Blanco's narrative — 'He laundered his ill-gotten gains via shell corporations and stock investments, reinventing himself as Federal entrepreneur Zachary Rackham' — is a classic crime story. The detail about 'Rackham Capital Investments is largely run by former pirate comrades turned businessmen' is damning. The rival newsfeed's characterization of Blanco's work as 'mudslinging' and the FIA's statement that 'There has never been any evidence' show institutional protection."
+persons:
+- Bryanna Blanco
+- Zachary Rackham
+- Archon Delaine
+player_impact: "Not specifically mentioned — this is an investigative report."
+summary: "Bryanna Blanco renews her investigation into Zachary Rackham's alleged pirate past as 'Calico Zack', detailing his rise from pirate lord to trillionaire entrepreneur."
 legacy_weight: 1
 significance: low
+related_uuids:
+- eb9dd208-a971-5c34-9298-f210626a15d5
+- e1f8912f-da0e-5d58-8e5d-3f2427694698
+- 3ac43a4d-c6c1-51d2-904b-b0dbed304d35
+- cb40c3a7-eccc-518d-a1a7-a93cde2dad4e
 ---
 
 Financial journalist Bryanna Blanco has renewed her investigation into Zachary Rackham, seeking to invalidate him from the Federal presidential race.

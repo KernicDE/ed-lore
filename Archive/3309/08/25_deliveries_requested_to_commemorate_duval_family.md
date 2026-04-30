@@ -4,22 +4,29 @@ title: Deliveries Requested to Commemorate Duval Family
 slug: deliveries_requested_to_commemorate_duval_family
 date: '3309-08-25'
 source: API
-entities:
-- Arissa
+entities: []
 groups:
 - Imperial Herald
-- NMLA
-locations:
-- NMLA
+locations: []
 topics:
 - construction
-- ship
 - succession
-arc_id: nmla-terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+arc_id: null
+modern_impact: "Otto's framing — 'whose thousand-year reign has brought peace and prosperity to trillions' — is pure dynastic propaganda. Vestergaard's reporting reveals Otto's background as 'the son of Prince Baylor Duval, one of Emperor Hesketh's brothers' and notes his branch 'survivors of the mass assassinations perpetrated by the NMLA.' The mixed palace reaction — 'delusions of grandeur' vs. 'opportunist' vs. 'simple gesture in good faith' — shows Imperial politics."
+persons:
+- Otto Lombardo-Duval
+- Arissa Lavigny-Duval
+- Gudrun Vestergaard
+- Florence Lavigny
+- Baylor Duval
+- Hesketh Duval
+player_impact: "Pilots were asked to deliver gold, jadeite and platinum to Kummer Acropolis in the Laedla system."
+summary: "Archduke Otto Lombardo-Duval requests materials to construct Duval family statues across Imperial worlds, with mixed reactions from the palace."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4ec40970-7c63-505e-90e4-e160ba979920
+- 350a8432-3f6d-5638-adc6-a6e7e4c7d718
 ---
 
 *Pilots’ Federation ALERT*

@@ -4,31 +4,29 @@ title: Distant Thargoid Encounter Raises Questions
 slug: distant_thargoid_encounter_raises_questions
 date: '3309-08-14'
 source: API
-entities:
-- Renia Rakowski  told her story
+entities: []
 groups:
-- ACT
-- Aegis
-- Alliance
-- Thargoid
 - Universal Cartographics
 locations:
-- Aegis
-- As I jumped out of the Wregoe GA-X B3-0
 - Maelstrom
-- Thargoid
-- Titan
 - Wregoe
 topics:
 - alien contact
 - exploration
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: "Rakowski's vivid account — 'black against the black of space, until its outline glowed... it stared back like some giant lidless eye' — is memorable. Her description of the Thargoid turning its back 'like I was some insignificant speck unworthy of attention' is striking. Varga's analysis — 'if the interceptor had been part of the invasion fleets, it would have opened fire immediately' — suggests this may be a different population."
+persons:
+- Renia Rakowski
+- Emil Varga
+player_impact: "Not specifically mentioned — this is an exploration report."
+summary: "Commander Renia Rakowski reports a non-aggressive Thargoid interceptor encounter far from the Maelstroms, raising questions about Thargoid distribution and motives."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4413aa0f-d644-50e2-9ad2-417d0b29bb24
+- 0359229a-57fb-5f46-bb36-52c62d71db1a
+- f362b55b-941d-566f-aa08-6a1ae59364b9
 ---
 
 An independent explorer has reported an unusual incident involving a Thargoid vessel, hundreds of light years away from the ongoing invasion.

@@ -15,9 +15,19 @@ topics:
 - investigation
 - piracy
 - scandal
-modern_impact: Anti-piracy operation protecting trade routes.
+modern_impact: "Rackham's interview — 'I've always been highly amused by these stories... No doubt they've helped boost sales of The Federal Times' — is dismissive. His legal threat is standard. Blanco's response — 'Rackham does have one genuine talent: covering his tracks... I've turned to the professionals' — shows determination. Her closing — 'if I'm proved wrong, then Calico Zack can take his shot at stealing the entire Federation' — is dramatic."
+persons:
+- Zachary Rackham
+- Bryanna Blanco
+player_impact: "Not specifically mentioned — this is a political and media report."
+summary: "Zachary Rackham denies being 'Calico Zack' and threatens legal action against Bryanna Blanco, while Blanco hires Wallglass to find irrefutable proof."
 legacy_weight: 2
 significance: low
+related_uuids:
+- 2bb62465-0b86-5863-b66c-78972defe368
+- e1f8912f-da0e-5d58-8e5d-3f2427694698
+- 3ac43a4d-c6c1-51d2-904b-b0dbed304d35
+- cb40c3a7-eccc-518d-a1a7-a93cde2dad4e
 ---
 
 Presidential candidate Zachary Rackham has denied allegations that he was a notorious pirate lord prior to becoming an entrepreneur.

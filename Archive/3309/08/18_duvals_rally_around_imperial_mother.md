@@ -4,22 +4,31 @@ title: Duvals Rally Around Imperial Mother
 slug: duvals_rally_around_imperial_mother
 date: '3309-08-18'
 source: API
-entities:
-- Arissa
-- Arissa Lavigny-Duval
+entities: []
 groups:
 - Imperial Herald
 locations:
 - Capitol
 - Imperial Palace
 topics:
-- medicine
 - succession
-arc_id: nova-imperium
-modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
-  creates a schism in Imperial politics.
+- politics
+- culture
+arc_id: null
+modern_impact: "Vestergaard's speculation — 'Florence Lavigny has earned the respect of everyone connected to the Imperial Family over the past decade. She alone could heal the rifts between Emperor Arissa, Princess Aisling and Hadrian Duval' — positions Florence as a unifying figure. The observation that 'the details of Lady Lavigny's illness were never made public' and the question 'Are her calls for unity prompted by thoughts of mortality?' adds poignancy."
+persons:
+- Arissa Lavigny-Duval
+- Florence Lavigny
+- Guinevere Lavigny
+- Lucius Lavigny
+- Gudrun Vestergaard
+player_impact: "Not specifically mentioned — this is a family and political report."
+summary: "Lady Florence Lavigny's recovery prompts calls for Imperial Family unity, with speculation that she could heal rifts between Arissa, Aisling, and Hadrian Duval."
 legacy_weight: 4
 significance: high
+related_uuids:
+- 318132ea-ac2a-587f-9bd5-a112b7be85d0
+- 350a8432-3f6d-5638-adc6-a6e7e4c7d718
 ---
 
 Lady Florence Lavigny is recuperating from a serious illness, but the experience has prompted her to call for changes within the Imperial Family.

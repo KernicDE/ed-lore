@@ -4,27 +4,29 @@ title: Aegis Investigates Missing Populations
 slug: aegis_investigates_missing_populations
 date: '3309-08-10'
 source: API
-entities:
-- Alba Tesreau
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
-locations:
-- Aegis
-- Thargoid
+locations: []
 topics:
-- alien contact
-- exploration
 - humanitarian
 - research
-- ship
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Tesreau's careful framing — 'I am very conscious that this statement may be seen as alarmist and speculative' — shows scientific caution. The detail about Zuri Afolayan's data from Safeguard Interstellar gives the claim credibility. Rios's questions — 'Prisoners of war? Food for their young? Fuel for their biomechanical technology?' — capture public anxiety. His closing — 'in this instance I'm praying that is the case' — is a rare moment of personal vulnerability."
+persons:
+- Alba Tesreau
+- Zuri Afolayan
+- Ernesto Rios
+player_impact: "Not specifically mentioned — this is a research report."
+summary: "Aegis analysis reveals tens of millions of people are unaccounted for in Thargoid-occupied systems, suggesting a mass abduction programme."
 legacy_weight: 5
 significance: high
+related_uuids:
+- ba9e2357-84b5-5ac9-aaf3-d2fa18dc5171
+- 6d9dec9b-98e1-5167-9d3c-00c436e9d31c
+- 3cfd5471-48e1-54bb-b80a-1eb9638b9187
+- 0359229a-57fb-5f46-bb36-52c62d71db1a
 ---
 
 An analysis of survivors from recent Thargoid conflicts and invasions has raised the possibility of human abductions on a colossal scale.

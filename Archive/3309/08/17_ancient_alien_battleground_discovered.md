@@ -4,39 +4,36 @@ title: Ancient Alien Battleground Discovered
 slug: ancient_alien_battleground_discovered
 date: '3309-08-17'
 source: API
-entities:
-- Jeong-Hui Shin gave
-- Renia Rakowski
+entities: []
 groups:
-- ACT
-- Aegis
-- Azimuth
 - Azimuth Biochemicals
-- Thargoid
 locations:
-- Aegis
-- Azimuth
 - Guardian
 - Holloway Bioscience Institute
-- Thargoid
 - Trapezium Sector YU-X c1-2
 - Wregoe
-- Wregoe BU-Y b2-0 was one of several
 topics:
 - alien contact
-- bioweapon
 - exploration
 - investigation
 - research
-- ship
-- sport
-- war
 - xenoarchaeology
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: guardian-thargoid-war
+modern_impact: "Shin's theory — 'they are still following million-year-old orders to attack the Guardians. Therefore, from their perspective, humans are an unknown species and not identified as an enemy' — is a remarkable insight. The comparison to the Proteus discovery in the Trapezium Sector two centuries ago provides historical context. The peace advocates' framing — 'an opportunity for non-hostile interactions with the Thargoids' — contrasts with standard military doctrine."
+persons:
+- Jeong-Hui Shin
+- Renia Rakowski
+- Timothy Culver
+- Bernadette Wells
+- Dev Venkatesh
+player_impact: "Commander Renia Rakowski's report in Wregoe GA-X B3-0 led to the discovery; pilots may explore the Wregoe BU-Y b2-0 site."
+summary: "Wreckage from an ancient Guardian-Thargoid battle is found in Wregoe BU-Y b2-0, only the second such site ever recorded, with local Thargoids showing non-aggressive behavior."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 147a3c1e-ea2e-582c-8b5c-676b3075f426
+- 0359229a-57fb-5f46-bb36-52c62d71db1a
+- f362b55b-941d-566f-aa08-6a1ae59364b9
 ---
 
 *Pilots’ Federation ALERT*
