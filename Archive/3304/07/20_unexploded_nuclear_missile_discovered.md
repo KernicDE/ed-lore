@@ -4,16 +4,22 @@ title: Unexploded Nuclear Missile Discovered
 slug: unexploded_nuclear_missile_discovered
 date: '3304-07-20'
 source: GitHub
-entities:
-- Imogen Ryang
+summary: A thermonuclear missile from Earth's Third World War (2044-2055) is discovered beneath the Pacific Ocean off California during undersea habitation construction. Lieutenant Commander Page Patterson of the Federal Navy reports the 45-megaton warhead was disarmed by robotic avatar units. Dr Imogen Ryang, an Earth conflicts historian, notes this discovery is shocking as all nuclear exchanges were thought documented, suggesting it was either a failed US launch or an inbound enemy missile disabled by America's defensive laser grid.
+player_impact: None
+persons:
 - Page Patterson
+- Imogen Ryang
 groups:
 - Federal Navy
+locations:
+- Earth
+- California
+- Pacific Ocean
+- Sol
 topics:
-- construction
-- engineering
-- war
-modern_impact: Engineering developments offer pilots new ship customisation options.
+- history
+- safety
+modern_impact: The discovery of an undocumented nuclear relic from Earth's darkest period serves as a reminder of humanity's capacity for self-destruction and the enduring legacy of pre-spaceflight conflicts.
 legacy_weight: 2
 significance: low
 ---

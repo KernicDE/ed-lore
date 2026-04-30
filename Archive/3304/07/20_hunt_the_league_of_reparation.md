@@ -4,16 +4,30 @@ title: Hunt the League of Reparation
 slug: hunt_the_league_of_reparation
 date: '3304-07-20'
 source: GitHub
+summary: The tri-superpower taskforce launches a campaign to eliminate League of Reparation strongholds in Zibal and Ienpalang. Captain Niamh Seutonia announces that with Nexus (Riri McAllister) in custody, decrypted information revealed the location of two major enclaves. The operation in Zibal is coordinated by Zibal Power Co, while Ienpalang Corporation supports action in Ienpalang.
+player_impact: Independent pilots can support the operation in Zibal or Ienpalang. The campaign runs for one week.
+persons:
+- Niamh Seutonia
+- Riri McAllister
 groups:
-- IISS
+- Imperial Internal Security Service
+- League of Reparation
+- Zibal Power Co
+- Ienpalang Corporation
 locations:
-- League strongholds in two separate
+- Zibal
+- Ienpalang
+- Hire Port
+- Brundage City
 topics:
-- corporate expansion
 - terrorism
-modern_impact: GalNet community report documenting current events in the galaxy.
+- war
+modern_impact: The hunt for League strongholds represents the final phase of dismantling the terrorist organisation, with the galactic community directly supporting anti-terror operations.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 7ba9e81d-43a4-5565-ba4d-31b3ac2c2c95
+- 658df222-9a6d-5eb0-87e6-6fc4621e39c8
 ---
 
 Hunt [[The]] League of Reparation

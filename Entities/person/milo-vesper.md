@@ -2,18 +2,18 @@
 id: milo-vesper
 name: Milo Vesper
 type: person
-first_seen_date: '3304-09-07'
+first_seen_date: '3304-07-06'
 last_seen_date: '3304-09-07'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Milo Vesper
 
-First mentioned: **3304-09-07**  
+First mentioned: **3304-07-06**  
 Last mentioned: **3304-09-07**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

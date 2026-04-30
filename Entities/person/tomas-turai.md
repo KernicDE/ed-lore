@@ -2,18 +2,18 @@
 id: tomas-turai
 name: Tomas Turai
 type: person
-first_seen_date: '3304-09-06'
+first_seen_date: '3304-07-07'
 last_seen_date: '3304-10-20'
-mention_count: 3
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Tomas Turai
 
-First mentioned: **3304-09-06**  
+First mentioned: **3304-07-07**  
 Last mentioned: **3304-10-20**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 

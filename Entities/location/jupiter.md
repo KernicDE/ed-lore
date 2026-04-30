@@ -2,9 +2,9 @@
 id: jupiter
 name: Jupiter
 type: location
-first_seen_date: '3304-07-07'
+first_seen_date: '3304-09-09'
 last_seen_date: '3309-10-13'
-mention_count: 21
+mention_count: 18
 related_entities:
 - core-dynamics
 - alliance
@@ -17,15 +17,15 @@ related_entities:
 
 # Jupiter
 
-First mentioned: **3304-07-07**  
+First mentioned: **3304-09-09**  
 Last mentioned: **3309-10-13**  
-Total mentions: **21**
+Total mentions: **18**
 
 ## Related
 
-- [[Core Dynamics]] (17 co-mentions)
-- [[Alliance]] (8 co-mentions)
-- [[Federal Times]] (5 co-mentions)
+- [[Core Dynamics]] (14 co-mentions)
+- [[Alliance]] (7 co-mentions)
+- [[Federal Times]] (4 co-mentions)
 - [[Federal Navy]] (3 co-mentions)
 - [[HIP 54530]] (3 co-mentions)
 

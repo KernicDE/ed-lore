@@ -4,17 +4,24 @@ title: A Thargoid Fifth Column
 slug: a_thargoid_fifth_column
 date: '3304-07-06'
 source: GitHub
-entities:
-- Alfred Ulyanov responded
+summary: Independent journalist Flint 'Firemaker' Lafosse publishes a theory suggesting Far God cult members may be undercover Thargoid agents, arguing that captured escape pods could have been brainwashed and sent back as spies. Dr Alfred Ulyanov, a leading exotheologian, categorically dismisses the claim, explaining the cult's silence stems from their belief that humanity will soon be dead, and stating nothing in his studies suggests the group is a threat.
+player_impact: None
+persons:
+- Flint Lafosse
+- Alfred Ulyanov
+groups:
+- Rewired
+locations: []
 topics:
 - alien contact
-- crime
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+modern_impact: Lafosse's conspiracy theory fuels growing public paranoia about the Far God cult, contributing to the hostile climate that leads to later violence against the sect.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 166e5c41-db27-50de-a201-b4ba6503642b
+- 5b63a140-f545-5aa1-a7db-556be53ae92b
+- 84b929de-3fba-59cb-853f-7b88bf76a586
 ---
 
 A [[Thargoid]] Fifth Column?

@@ -2,32 +2,32 @@
 id: liberal-party
 name: Liberal Party
 type: faction
-first_seen_date: '3304-12-26'
+first_seen_date: '3304-07-07'
 last_seen_date: '3309-02-27'
-mention_count: 2
+mention_count: 4
 related_entities:
-- federation
 - core-dynamics
-- federal-navy
-- rackham-capital-investments
-- republican-party
+- biggs-colony
+- altair
+- sol
+- mars
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Liberal Party
 
-First mentioned: **3304-12-26**  
+First mentioned: **3304-07-07**  
 Last mentioned: **3309-02-27**  
-Total mentions: **2**
+Total mentions: **4**
 
 ## Related
 
-- [[Federation]] (1 co-mentions)
-- [[Core Dynamics]] (1 co-mentions)
-- [[Federal Navy]] (1 co-mentions)
-- [[Rackham Capital Investments]] (1 co-mentions)
-- [[Republican Party]] (1 co-mentions)
+- [[Core Dynamics]] (3 co-mentions)
+- [[Biggs Colony]] (2 co-mentions)
+- [[Altair]] (2 co-mentions)
+- [[Sol]] (2 co-mentions)
+- [[Mars]] (2 co-mentions)
 
 ## Biography
 

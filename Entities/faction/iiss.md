@@ -4,7 +4,7 @@ name: IISS
 type: faction
 first_seen_date: '3301-08-28'
 last_seen_date: '3307-05-21'
-mention_count: 15
+mention_count: 14
 related_entities:
 - imperial-internal-security-service
 - emperors-dawn
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-08-28**  
 Last mentioned: **3307-05-21**  
-Total mentions: **15**
+Total mentions: **14**
 
 ## Related
 

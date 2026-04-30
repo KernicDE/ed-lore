@@ -3,12 +3,8 @@ id: ramirez
 name: Ramirez
 type: person
 first_seen_date: '3304-07-06'
-last_seen_date: '3304-07-06'
-mention_count: 1
-related_entities:
-- alliance
-- inra
-- lave
+last_seen_date: '3307-12-07'
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
@@ -16,14 +12,11 @@ related_entities:
 # Ramirez
 
 First mentioned: **3304-07-06**  
-Last mentioned: **3304-07-06**  
-Total mentions: **1**
+Last mentioned: **3307-12-07**  
+Total mentions: **3**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
-- [[INRA]] (1 co-mentions)
-- [[Lave]] (1 co-mentions)
 
 ## Biography
 

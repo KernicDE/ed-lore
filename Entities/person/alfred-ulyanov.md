@@ -3,8 +3,8 @@ id: alfred-ulyanov
 name: Alfred Ulyanov
 type: person
 first_seen_date: '3304-06-16'
-last_seen_date: '3304-07-12'
-mention_count: 3
+last_seen_date: '3304-06-17'
+mention_count: 2
 related_entities:
 - caspian-leopold
 - leopold
@@ -18,8 +18,8 @@ related_entities:
 # Alfred Ulyanov
 
 First mentioned: **3304-06-16**  
-Last mentioned: **3304-07-12**  
-Total mentions: **3**
+Last mentioned: **3304-06-17**  
+Total mentions: **2**
 
 ## Related
 

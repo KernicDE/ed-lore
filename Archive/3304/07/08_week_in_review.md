@@ -4,25 +4,50 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-08'
 source: GitHub
+summary: Weekly summary covering League of Reparation raids, the Thargoid fifth column theory, Jordan Rochester's profile, Olav Redcourt's book tour, the Didiomanja Emperor's Grace Academy inauguration, and the conclusion of the Colonia scientific campaign.
+player_impact: None
+persons:
+- Niamh Seutonia
+- Ramirez
+- Flint Lafosse
+- Alfred Ulyanov
+- Cassia Carvalho
+- Jordan Rochester
+- Aisling Duval
+- Olav Redcourt
+- Margaux Hist
+- Alexei de la Vega
 groups:
-- Emperor's Grace
+- Alliance
+- INRA
+- Rewired
 - Imperial Herald
+- Bonespire Publishing
+- Didiomanja Emperor's Grace
+- Emperor's Grace
 locations:
 - Colonia
+- Tir
+- Blatrimpe
+- Procyon
+- Didiomanja
+- Leydenfrost Dock
 topics:
 - alien contact
 - construction
 - research
-- ship
-- sport
-- succession
 - terrorism
-- trade
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- culture
+modern_impact: This week spans terrorism, conspiracy theories, political profiles, and cultural events, reflecting the diverse concerns of galactic society.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 0bb8e10b-68fe-5dc9-bcc2-228056a9ef69
+- 68fc3f55-52fe-5901-b858-c3319b1d557c
+- a987debf-f78b-5533-84b9-48a6a845b2e2
+- 61ada39b-bdd2-5029-a989-f48da75d0d50
+- 0313bbef-6e3f-5e5f-84f8-bdbb81d971f9
+- ce4bd32c-e1cd-55e9-a220-4f15c711f86d
 ---
 
 Week in Review

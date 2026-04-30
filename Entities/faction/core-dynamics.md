@@ -6,11 +6,11 @@ first_seen_date: '3301-02-14'
 last_seen_date: '3312-03-12'
 mention_count: 60
 related_entities:
-- jupiter
 - alliance
 - federal-navy
+- jupiter
 - federal-times
-- sirius-corporation
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **60**
 
 ## Related
 
-- [[Jupiter]] (17 co-mentions)
 - [[Alliance]] (15 co-mentions)
 - [[Federal Navy]] (14 co-mentions)
+- [[Jupiter]] (14 co-mentions)
 - [[Federal Times]] (9 co-mentions)
-- [[Sirius Corporation]] (8 co-mentions)
+- [[Sol]] (8 co-mentions)
 
 ## Biography
 

@@ -4,21 +4,24 @@ title: Colonia Campaign Concludes
 slug: colonia_campaign_concludes
 date: '3304-07-06'
 source: GitHub
-entities:
+summary: The campaign to supply a scientific project in Colonia concludes and construction of a resource management centre begins. Hundreds of independent pilots delivered commodities to Tir Technology Services. Professor Alexei de la Vega states the research centre will monitor population spikes and manage resource allocation throughout the region.
+player_impact: Contributing pilots can collect rewards from Bolden's Enterprise in the Tir system.
+persons:
 - Alexei de la Vega
+groups:
+- Tir Technology Services
 locations:
 - Colonia
-- Enterprise in the Tir
+- Tir
+- Bolden's Enterprise
 topics:
 - construction
 - research
-- trade
-- war
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: The resource management centre strengthens Colonia's infrastructure for sustainable growth, supporting the deep-space settlement's expanding population.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- e783725b-8d86-5738-8724-b2a1ffaf6f73
 ---
 
 Colonia Campaign Concludes

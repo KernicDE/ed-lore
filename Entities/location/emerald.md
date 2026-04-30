@@ -2,32 +2,32 @@
 id: emerald
 name: Emerald
 type: location
-first_seen_date: '3304-08-23'
+first_seen_date: '3304-07-01'
 last_seen_date: '3308-09-29'
-mention_count: 4
+mention_count: 9
 related_entities:
-- imperial-herald
 - imperial-palace
-- capitol
-- citizens-relief-trust
-- lavignys-legion
+- cemiess
+- alliance
+- imperial-navy
+- federal-navy
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Emerald
 
-First mentioned: **3304-08-23**  
+First mentioned: **3304-07-01**  
 Last mentioned: **3308-09-29**  
-Total mentions: **4**
+Total mentions: **9**
 
 ## Related
 
-- [[Imperial Herald]] (2 co-mentions)
-- [[Imperial Palace]] (2 co-mentions)
-- [[Capitol]] (2 co-mentions)
-- [[Citizens' Relief Trust]] (2 co-mentions)
-- [[Lavigny's Legion]] (2 co-mentions)
+- [[Imperial Palace]] (7 co-mentions)
+- [[Cemiess]] (7 co-mentions)
+- [[Alliance]] (4 co-mentions)
+- [[Imperial Navy]] (4 co-mentions)
+- [[Federal Navy]] (4 co-mentions)
 
 ## Biography
 

@@ -3,11 +3,8 @@ id: imogen-ryang
 name: Imogen Ryang
 type: person
 first_seen_date: '3304-07-20'
-last_seen_date: '3304-07-20'
-mention_count: 1
-related_entities:
-- page-patterson
-- federal-navy
+last_seen_date: '3305-02-14'
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
@@ -15,13 +12,11 @@ related_entities:
 # Imogen Ryang
 
 First mentioned: **3304-07-20**  
-Last mentioned: **3304-07-20**  
-Total mentions: **1**
+Last mentioned: **3305-02-14**  
+Total mentions: **3**
 
 ## Related
 
-- [[Page Patterson]] (1 co-mentions)
-- [[Federal Navy]] (1 co-mentions)
 
 ## Biography
 

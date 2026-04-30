@@ -4,19 +4,36 @@ title: A Profile of Jordan Rochester
 slug: a_profile_of_jordan_rochester
 date: '3304-07-07'
 source: GitHub
+summary: Political journalist Cassia Carvalho compiles a profile of Federal Ambassador Jordan Rochester for the Imperial Herald. The Rochester family traces back to Apollo Rochester, the biggest landowner on Biggs Colony in Altair. Family matriarch Isolde Rochester is a Congress member and Liberal Party supporter of Shadow President Felicia Winters. Jordan's siblings include Jupiter Rochester (Core Dynamics executive), Juno (Vice Admiral), Jocasta (Post Captain), and Jonah (the black sheep). At 34, Jordan has overseen several high-level Federal diplomatic negotiations.
+player_impact: None
+persons:
+- Jordan Rochester
+- Cassia Carvalho
+- Isolde Rochester
+- Jupiter Rochester
+- Felicia Winters
+- Tomas Turai
+- Aisling Duval
 groups:
-- Core Dynamics
 - Imperial Herald
+- Core Dynamics
+- Federal Diplomatic Corps
+- Liberal Party
 locations:
-- Biggs Colony in the Altair
-- Jupiter
+- Biggs Colony
+- Altair
+- Sol
+- Mars
+- Olympus Village
 topics:
 - diplomacy
-- sport
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- politics
+modern_impact: The profile establishes the Rochester family's deep political and corporate roots in the Federation, contextualising the significance of Jordan's engagement to an Imperial princess.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 54d3fd1f-f0e9-545c-99f4-94612ad989e6
+- e66042d5-f19b-5b3d-8113-f2c32d2e4c51
 ---
 
 A Profile of Jordan [[Rochester]]

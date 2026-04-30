@@ -8,9 +8,9 @@ mention_count: 25
 related_entities:
 - alliance
 - kumo-crew
+- turner-research-group
 - coalsack-nebula
 - pilots-federation
-- hip-18390
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **25**
 
 - [[Alliance]] (18 co-mentions)
 - [[Kumo Crew]] (10 co-mentions)
+- [[Turner Research Group]] (5 co-mentions)
 - [[Coalsack Nebula]] (5 co-mentions)
 - [[Pilots Federation]] (4 co-mentions)
-- [[HIP 18390]] (4 co-mentions)
 
 ## Biography
 

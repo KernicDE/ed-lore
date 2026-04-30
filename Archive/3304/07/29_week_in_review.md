@@ -4,24 +4,57 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-29'
 source: GitHub
+summary: Weekly summary covering the dismantling of the League of Reparation and Riri McAllister's arrest, the Church of Eternal Void being declared illegal, attacks on the Rochester family, the Andromedaries reboot, and the Alliance's new California Nebula starport initiative.
+player_impact: None
+persons:
+- Niamh Seutonia
+- Mara Klatt
+- Riri McAllister
+- John Jameson
+- Cardinal Hieronymous
+- Juanita Bishop
+- Jameelah Griffin
+- Jordan Rochester
+- Kali Rochester
+- Jupiter Rochester
+- Isolde Rochester
+- Aisling Duval
+- Vienna Langhorne
+- Torvan Dast
 groups:
 - Alliance
+- Alliance Interpol
+- League of Reparation
+- Church of Eternal Void
+- Far God cult
 - Core Dynamics
+- Federal Congress
+- Blackshadow Productions
+- Turner Research Group
 locations:
 - California Nebula
-- Jupiter
+- MEL 22 Sector GM-V C2-8
+- Olympus Village
+- Mars
+- Sol
+- Altair
+- Biggs Colony
 topics:
 - alien contact
 - construction
 - crime
-- ship
 - terrorism
-- xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+- culture
+modern_impact: This week marks the end of the League of Reparation terror campaign, escalating religious persecution, and the beginning of new Alliance expansion, reflecting the galaxy's constant cycle of conflict and growth.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 9553e291-133e-56d0-9087-0003da0eccf5
+- 84b929de-3fba-59cb-853f-7b88bf76a586
+- e66042d5-f19b-5b3d-8113-f2c32d2e4c51
+- 740fb3cb-eeb4-51e1-8c4c-42e96cc0261b
+- e9f5831f-f04e-54c6-b5b1-e0ab2af352d4
 ---
 
 Week in Review

@@ -1,0 +1,34 @@
+---
+id: pacific-ocean
+name: Pacific Ocean
+type: location
+first_seen_date: '3304-07-20'
+last_seen_date: '3304-07-22'
+mention_count: 2
+related_entities:
+- federal-navy
+- earth
+- sol
+- california
+- alliance
+---
+
+<!-- AUTO-GENERATED -->
+
+# Pacific Ocean
+
+First mentioned: **3304-07-20**  
+Last mentioned: **3304-07-22**  
+Total mentions: **2**
+
+## Related
+
+- [[Federal Navy]] (2 co-mentions)
+- [[Earth]] (2 co-mentions)
+- [[Sol]] (2 co-mentions)
+- [[California]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

@@ -4,27 +4,58 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-15'
 source: GitHub
-entities:
+summary: Weekly summary covering Admiral Varma's arrest, the Church of Eternal Void declaring war on the Far God cult, Aisling Duval's wedding date announcement, the search for a billion-credit lottery winner, Cobra Wing's Ebor research outpost initiative, and the Didiomanja Emperor's Grace Academy campaign conclusion.
+player_impact: None
+persons:
+- George Varma
+- Niamh Seutonia
+- Mara Klatt
+- Cardinal Hieronymous
+- Juanita Bishop
+- Aisling Duval
+- Jordan Rochester
+- Zemina Torval
 - Jasmina Halsey
-- Zemina Torval remains
+- Tori Theopolis
+- Mira Tiverion
 groups:
 - Alliance
+- Alliance Council of Admirals
+- Church of Eternal Void
+- Far God cult
+- Federal Navy
+- Imperial Navy
+- Cobra Wing
+- Didiomanja Emperor's Grace
 - Emperor's Grace
+locations:
+- Alioth
+- Donaldson starport
+- Ebor
+- Morris Enterprise
+- Didiomanja
+- Leydenfrost Dock
+- Cemiess
+- Emerald
+- Imperial Palace
 topics:
 - alien contact
 - construction
 - crime
 - research
-- ship
-- sport
-- succession
 - terrorism
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- religion
+- culture
+modern_impact: This week spans terrorism arrests, religious conflict, political weddings, and scientific initiatives, illustrating the breadth of galactic affairs.
 legacy_weight: 5
 significance: high
+related_uuids:
+- b4850d9a-53c4-5d9c-8d8a-b66081d31644
+- 166e5c41-db27-50de-a201-b4ba6503642b
+- 54d3fd1f-f0e9-545c-99f4-94612ad989e6
+- faae8b08-da10-5011-ad10-02b9eb46d0aa
+- 5e8fd2aa-d3c0-5f7b-ace3-fb01158de7e6
+- 9177e211-a080-5a19-b2bd-634273e040c6
 ---
 
 Week in Review

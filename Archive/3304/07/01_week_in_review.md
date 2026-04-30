@@ -4,36 +4,49 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-01'
 source: GitHub
-entities:
-- Alexei de la Vega
-- Caspian Leopold
+summary: Weekly summary covering Chief Inspector Kay Kilbride's murder by the League of Reparation, reactions to Aisling Duval and Jordan Rochester's engagement, Aegis reducing technology broker requirements for anti-Thargoid gear, Thargoid assault on Deciat, hostility toward the Far God cult, Colonia outpost plans, and successful conclusion of the Aegis military facility operation in the Pleiades.
+player_impact: None
+persons:
+- Kay Kilbride
+- Mara Klatt
+- Aisling Duval
+- Jordan Rochester
 - Zemina Torval
+- Caspian Leopold
+- Alexei de la Vega
 groups:
 - Aegis
 - Alliance
+- Alliance Interpol
+- League of Reparation
+- Imperial Navy
+- Federal Navy
 locations:
-- Aegis
 - Colonia
 - Deciat
+- Garay Terminal
 - Imperial Palace
-- Oracle
+- Emerald
+- Cemiess
+- The Oracle
 - Pleiades Nebula
+- Turner's World
+- New Rossyth
 topics:
 - alien contact
 - construction
 - crime
-- festival
 - research
-- ship
-- succession
 - terrorism
-- trade
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: This week spans terrorism, cross-superpower diplomacy, Thargoid warfare, and religious tensions, reflecting the multifaceted crises facing the galaxy.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 0bb8e10b-68fe-5dc9-bcc2-228056a9ef69
+- 54d3fd1f-f0e9-545c-99f4-94612ad989e6
+- 166e5c41-db27-50de-a201-b4ba6503642b
+- ce4bd32c-e1cd-55e9-a220-4f15c711f86d
 ---
 
 Week in Review

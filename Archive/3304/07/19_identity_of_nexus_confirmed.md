@@ -4,15 +4,34 @@ title: Identity of Nexus Confirmed
 slug: identity_of_nexus_confirmed
 date: '3304-07-19'
 source: GitHub
+summary: Deputy Inspector Mara Klatt reveals Rear Admiral Riri McAllister is Nexus, the League of Reparation's central coordinator. McAllister framed Admiral George Varma with false leads. McAllister is arrested and charged with conspiracy to commit terrorism. Varma is released with apologies. Decrypted data reveals two major League enclaves in Imperial and Federal space, and the taskforce prepares an operation to eradicate them.
+player_impact: None
+persons:
+- Mara Klatt
+- Riri McAllister
+- Kay Kilbride
+- George Varma
+- Niamh Seutonia
+- Jed Trager
 groups:
-- Alliance
+- Alliance Interpol
+- Alliance Defence Force
+- League of Reparation
+- Imperial Internal Security Service
+- Federal Intelligence Agency
+locations:
+- Alioth
+- Donaldson starport
 topics:
-- diplomacy
-- piracy
 - terrorism
-modern_impact: Anti-piracy operation protecting trade routes.
+- investigation
+modern_impact: The unmasking of McAllister as Nexus exposes a high-ranking Alliance officer as a terrorist mastermind, shaking confidence in Alliance military leadership.
 legacy_weight: 2
 significance: low
+related_uuids:
+- b4850d9a-53c4-5d9c-8d8a-b66081d31644
+- 0bb8e10b-68fe-5dc9-bcc2-228056a9ef69
+- a5b31ecc-9012-5aaf-bdcb-cc8a7fd50a78
 ---
 
 Identity of Nexus Confirmed

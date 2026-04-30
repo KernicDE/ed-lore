@@ -4,7 +4,7 @@ name: INRA
 type: faction
 first_seen_date: '3304-04-21'
 last_seen_date: '3309-05-16'
-mention_count: 26
+mention_count: 27
 related_entities:
 - alliance
 - aegis
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3304-04-21**  
 Last mentioned: **3309-05-16**  
-Total mentions: **26**
+Total mentions: **27**
 
 ## Related
 

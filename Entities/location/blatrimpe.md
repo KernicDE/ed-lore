@@ -2,28 +2,32 @@
 id: blatrimpe
 name: Blatrimpe
 type: location
-first_seen_date: '3304-12-27'
+first_seen_date: '3304-07-05'
 last_seen_date: '3305-01-03'
-mention_count: 2
+mention_count: 4
 related_entities:
+- bonespire-publishing
+- procyon
 - federal-navy
 - herculean-machines
-- blatrimpe-allied-co-commodities
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Blatrimpe
 
-First mentioned: **3304-12-27**  
+First mentioned: **3304-07-05**  
 Last mentioned: **3305-01-03**  
-Total mentions: **2**
+Total mentions: **4**
 
 ## Related
 
+- [[Bonespire Publishing]] (2 co-mentions)
+- [[Procyon]] (2 co-mentions)
 - [[Federal Navy]] (2 co-mentions)
 - [[Herculean Machines]] (2 co-mentions)
-- [[Blatrimpe Allied Co Commodities]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
 
 ## Biography
 

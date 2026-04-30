@@ -2,32 +2,32 @@
 id: turners-world
 name: Turner's World
 type: location
-first_seen_date: '3304-08-03'
+first_seen_date: '3304-07-01'
 last_seen_date: '3304-08-05'
-mention_count: 2
+mention_count: 4
 related_entities:
 - alliance
-- imperial-internal-security-service
 - league-of-reparation
-- alioth
-- capitol
+- imperial-internal-security-service
+- imperial-palace
+- new-rossyth
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Turner's World
 
-First mentioned: **3304-08-03**  
+First mentioned: **3304-07-01**  
 Last mentioned: **3304-08-05**  
-Total mentions: **2**
+Total mentions: **4**
 
 ## Related
 
-- [[Alliance]] (2 co-mentions)
-- [[Imperial Internal Security Service]] (2 co-mentions)
-- [[League of Reparation]] (2 co-mentions)
-- [[Alioth]] (2 co-mentions)
-- [[Capitol]] (2 co-mentions)
+- [[Alliance]] (4 co-mentions)
+- [[League of Reparation]] (3 co-mentions)
+- [[Imperial Internal Security Service]] (3 co-mentions)
+- [[Imperial Palace]] (2 co-mentions)
+- [[New Rossyth]] (2 co-mentions)
 
 ## Biography
 

@@ -4,27 +4,37 @@ title: Alliance Admiral Detained
 slug: alliance_admiral_detained
 date: '3304-07-13'
 source: GitHub
-entities:
-- Edmund Mahon made
-- Tanya Ramirez during
+summary: Admiral George Varma of the Alliance Council of Admirals is arrested by the League of Reparation taskforce at Donaldson starport in Alioth. Captain Niamh Seutonia and Senior Agent Tanya Ramirez confront him during an admiralty meeting. Seutonia accuses Varma of redirecting Alliance Defence Force cargo to terrorist cells and being Nexus. The arrest creates diplomatic ripples with Federal and Imperial ambassadors summoned before the Alliance Assembly. Council member Jed Trager calls it an egregious transgression. Prime Minister Edmund Mahon states the evidence is considerable and promises a fair trial.
+player_impact: None
+persons:
+- George Varma
+- Niamh Seutonia
+- Tanya Ramirez
+- Jed Trager
+- Edmund Mahon
+- Mara Klatt
 groups:
 - Alliance
+- Alliance Council of Admirals
+- Alliance Defence Force
+- Alliance Assembly
+- Alliance Tribune
 - Imperial Internal Security Service
+- Federal Intelligence Agency
+- League of Reparation
 locations:
 - Alioth
+- Donaldson starport
 topics:
-- construction
-- cyberattack
-- diplomacy
-- festival
-- investigation
-- scandal
-- ship
 - terrorism
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+- investigation
+- politics
+modern_impact: Varma's arrest sends shockwaves through Alliance military and political institutions, while the tri-superpower taskforce's bold action strains inter-power diplomatic relations.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0bb8e10b-68fe-5dc9-bcc2-228056a9ef69
+- 7ba9e81d-43a4-5565-ba4d-31b3ac2c2c95
 ---
 
 [[Alliance]] Admiral Detained

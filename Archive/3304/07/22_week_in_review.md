@@ -4,25 +4,56 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-22'
 source: GitHub
+summary: Weekly summary covering Riri McAllister being unmasked as Nexus and framing Admiral Varma, the hunt for League strongholds in Zibal and Ienpalang, Aisling Duval's interview with Solomon Helios, violence against the Far God cult, discovery of a WWIII nuclear missile in the Pacific, and Cobra Wing's successful Ebor outpost campaign.
+player_impact: None
+persons:
+- Riri McAllister
+- George Varma
+- Mara Klatt
+- Niamh Seutonia
+- Aisling Duval
+- Solomon Helios
+- Cardinal Hieronymous
+- Page Patterson
+- Imogen Ryang
 groups:
 - Alliance
+- Alliance Interpol
+- League of Reparation
+- Church of Eternal Void
+- Far God cult
+- Cobra Wing
+- Federal Navy
 locations:
-- League strongholds in two
+- Alioth
+- Zibal
+- Ienpalang
+- Ebor
+- Morris Enterprise
+- Earth
+- Pacific Ocean
 - Sol
+- Cemiess
+- Emerald
+- Imperial Palace
 topics:
 - alien contact
 - construction
 - research
-- safety
-- ship
 - terrorism
-- trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- crime
+- history
+- religion
+modern_impact: This week spans terrorism revelations, religious violence, political interviews, and historical discoveries, illustrating the breadth of galactic affairs.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 7ba9e81d-43a4-5565-ba4d-31b3ac2c2c95
+- a5b31ecc-9012-5aaf-bdcb-cc8a7fd50a78
+- 6794e4d2-d654-5896-9bca-ec103cd2a5f4
+- 5b63a140-f545-5aa1-a7db-556be53ae92b
+- d5e38d22-4fdf-50d4-9487-5f7c5162d42a
+- dd4a0b64-612b-5b42-9631-72d2dc9f5d9d
 ---
 
 Week in Review

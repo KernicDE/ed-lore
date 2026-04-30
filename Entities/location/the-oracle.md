@@ -2,32 +2,32 @@
 id: the-oracle
 name: The Oracle
 type: location
-first_seen_date: '3307-05-24'
+first_seen_date: '3304-07-01'
 last_seen_date: '3307-12-14'
-mention_count: 2
+mention_count: 3
 related_entities:
 - delphi
-- sirius-inc
-- pilots-federation
-- engineers
-- delphi-5-a
+- aegis
+- alliance
+- alliance-interpol
+- league-of-reparation
 ---
 
 <!-- AUTO-GENERATED -->
 
 # The Oracle
 
-First mentioned: **3307-05-24**  
+First mentioned: **3304-07-01**  
 Last mentioned: **3307-12-14**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
 - [[Delphi]] (2 co-mentions)
-- [[Sirius Inc]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
-- [[Engineers]] (1 co-mentions)
-- [[Delphi 5 a]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Alliance Interpol]] (1 co-mentions)
+- [[League of Reparation]] (1 co-mentions)
 
 ## Biography
 

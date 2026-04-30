@@ -2,32 +2,32 @@
 id: alliance-tribune
 name: Alliance Tribune
 type: faction
-first_seen_date: '3304-09-07'
+first_seen_date: '3304-07-06'
 last_seen_date: '3312-01-26'
-mention_count: 14
+mention_count: 16
 related_entities:
 - alliance
 - alliance-assembly
 - zaonce
-- bank-of-zaonce
 - alliance-defence-force
+- alioth
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Alliance Tribune
 
-First mentioned: **3304-09-07**  
+First mentioned: **3304-07-06**  
 Last mentioned: **3312-01-26**  
-Total mentions: **14**
+Total mentions: **16**
 
 ## Related
 
-- [[Alliance]] (11 co-mentions)
-- [[Alliance Assembly]] (7 co-mentions)
+- [[Alliance]] (13 co-mentions)
+- [[Alliance Assembly]] (8 co-mentions)
 - [[Zaonce]] (5 co-mentions)
-- [[Bank of Zaonce]] (2 co-mentions)
-- [[Alliance Defence Force]] (2 co-mentions)
+- [[Alliance Defence Force]] (4 co-mentions)
+- [[Alioth]] (3 co-mentions)
 
 ## Biography
 

@@ -4,22 +4,34 @@ title: League of Reparation Eliminated
 slug: league_of_reparation_eliminated
 date: '3304-07-28'
 source: GitHub
-entities:
+summary: The tri-superpower taskforce confirms the League of Reparation has been dismantled. Captain Niamh Seutonia announces every member has been arrested or eliminated thanks to galactic community support. Deputy Inspector Mara Klatt reveals Riri McAllister confessed to being the League's original architect, claiming to be a descendant of Commander John Jameson and that her duty was to avenge his death. McAllister is registered as an orphan of unknown lineage, making the claim unverifiable. Alliance Interpol charges her with multiple terrorism-related crimes.
+player_impact: None
+persons:
+- Niamh Seutonia
+- Mara Klatt
+- Riri McAllister
 - John Jameson
+- Kay Kilbride
+- George Varma
+- Nestor Cartesius
 groups:
-- Alliance
-- INRA
+- Alliance Interpol
 - Imperial Internal Security Service
+- Federal Intelligence Agency
+- League of Reparation
+- INRA
+locations: []
 topics:
-- construction
-- crime
-- ship
 - terrorism
-arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding
-  of the Thargoid conflict and superpower accountability.
+- crime
+- investigation
+modern_impact: The League's dismantling closes a dark chapter of INRA-related terrorism, though McAllister's unverifiable claims about Jameson lineage leave lingering questions about her true motivations.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7ba9e81d-43a4-5565-ba4d-31b3ac2c2c95
+- a5b31ecc-9012-5aaf-bdcb-cc8a7fd50a78
+- 658df222-9a6d-5eb0-87e6-6fc4621e39c8
 ---
 
 League of Reparation Eliminated

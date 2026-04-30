@@ -4,18 +4,36 @@ title: Rochester Family Attacked
 slug: rochester_family_attacked
 date: '3304-07-27'
 source: GitHub
+summary: Members of the Rochester family come under personal and political attack following Jordan Rochester's engagement to Aisling Duval. Kali Rochester, Jordan's teenage niece, is physically assaulted by students chanting anti-Imperial slogans at Olympus Village University. Her father Jupiter Rochester, a Core Dynamics executive, faces criticism from shareholders as Core Dynamics stock drops 18 per cent. Congress members demand assurances from Isolde Rochester that the Federation will not relinquish influence to the Empire. Isolde defends the marriage as the start of a new era of cooperation.
+player_impact: None
+persons:
+- Jordan Rochester
+- Kali Rochester
+- Jupiter Rochester
+- Isolde Rochester
+- Aisling Duval
+- Felicia Winters
 groups:
 - Core Dynamics
 - Federal Times
+- Federal Congress
+- Liberal Party
 locations:
-- Jupiter
 - Olympus Village
+- Mars
+- Sol
+- Altair
+- Biggs Colony
 topics:
+- crime
+- politics
 - corporate expansion
-- ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The attacks on the Rochester family demonstrate how cross-superpower political unions can trigger nationalist backlash, affecting both personal safety and corporate interests.
 legacy_weight: 1
 significance: low
+related_uuids:
+- a987debf-f78b-5533-84b9-48a6a845b2e2
+- 54d3fd1f-f0e9-545c-99f4-94612ad989e6
 ---
 
 [[Rochester]] Family Attacked

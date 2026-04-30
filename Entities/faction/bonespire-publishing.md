@@ -2,28 +2,32 @@
 id: bonespire-publishing
 name: Bonespire Publishing
 type: faction
-first_seen_date: '3304-08-02'
+first_seen_date: '3304-07-05'
 last_seen_date: '3304-11-17'
-mention_count: 3
+mention_count: 5
 related_entities:
-- dervish-foss-literary-agency
-- rhea-archipelago
-- skyglow-havens
+- blatrimpe
+- procyon
+- alliance
+- inra
+- rewired
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Bonespire Publishing
 
-First mentioned: **3304-08-02**  
+First mentioned: **3304-07-05**  
 Last mentioned: **3304-11-17**  
-Total mentions: **3**
+Total mentions: **5**
 
 ## Related
 
-- [[Dervish-Foss Literary Agency]] (1 co-mentions)
-- [[Rhea Archipelago]] (1 co-mentions)
-- [[Skyglow Havens]] (1 co-mentions)
+- [[Blatrimpe]] (2 co-mentions)
+- [[Procyon]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[INRA]] (1 co-mentions)
+- [[Rewired]] (1 co-mentions)
 
 ## Biography
 

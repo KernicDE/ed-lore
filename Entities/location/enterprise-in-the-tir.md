@@ -3,8 +3,8 @@ id: enterprise-in-the-tir
 name: Enterprise in the Tir
 type: location
 first_seen_date: '3304-06-29'
-last_seen_date: '3304-07-06'
-mention_count: 2
+last_seen_date: '3304-06-29'
+mention_count: 1
 related_entities:
 - alexei-de-la-vega
 ---
@@ -14,12 +14,12 @@ related_entities:
 # Enterprise in the Tir
 
 First mentioned: **3304-06-29**  
-Last mentioned: **3304-07-06**  
-Total mentions: **2**
+Last mentioned: **3304-06-29**  
+Total mentions: **1**
 
 ## Related
 
-- [[Alexei de la Vega]] (2 co-mentions)
+- [[Alexei de la Vega]] (1 co-mentions)
 
 ## Biography
 

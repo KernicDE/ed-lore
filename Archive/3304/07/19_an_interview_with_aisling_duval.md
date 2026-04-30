@@ -4,17 +4,29 @@ title: An Interview with Aisling Duval
 slug: an_interview_with_aisling_duval
 date: '3304-07-19'
 source: GitHub
-entities:
+summary: Princess Aisling Duval discusses her forthcoming marriage in an exclusive interview with Solomon Helios. She describes meeting Jordan Rochester at diplomatic events, praises his warmth and humour, dismisses Senator Zemina Torval's criticism as prejudice and fear, and frames the marriage as an opportunity for superpower cooperation. Helios reveals he has been invited to the wedding.
+player_impact: None
+persons:
+- Aisling Duval
+- Jordan Rochester
+- Solomon Helios
 - Zemina Torval
+groups:
+- Imperial Herald
 locations:
 - Sol
+- Cemiess
+- Emerald
+- Imperial Palace
 topics:
 - diplomacy
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+- politics
+modern_impact: Duval's interview presents the marriage as a genuine romance with political benefits, directly countering critics who frame it as purely opportunistic.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 54d3fd1f-f0e9-545c-99f4-94612ad989e6
+- a987debf-f78b-5533-84b9-48a6a845b2e2
 ---
 
 An Interview [[With]] [[Aisling Duval]]

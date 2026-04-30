@@ -4,22 +4,33 @@ title: Major Victories against the League of Reparation
 slug: major_victories_against_the_league_of_reparation
 date: '3304-07-06'
 source: GitHub
-entities:
+summary: Captain Niamh Seutonia and Senior Agent Ramirez lead multiple raids against the League of Reparation, interdicting ships and locating hidden outposts in Imperial and Federal systems. Dozens of League members are arrested or eliminated. Seutonia reveals the League had access to top-level comms encryption suggesting support from influential individuals, and that Nexus remains unidentified. Alliance Tribune editor Milo Vesper criticises the taskforce for not focusing on Alliance territory.
+player_impact: None
+persons:
+- Niamh Seutonia
 - Ramirez
+- Milo Vesper
+- Mara Klatt
 groups:
 - Alliance
+- Alliance Defence Force
+- Alliance Tribune
 - INRA
+- Imperial Internal Security Service
+- Federal Intelligence Agency
 locations:
 - Lave
+- Turner's World
+- New Rossyth
 topics:
-- cyberattack
-- ship
 - terrorism
-arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding
-  of the Thargoid conflict and superpower accountability.
+- investigation
+modern_impact: The dismantling of much of the League's network reveals the sophistication of their operation and the lingering threat of INRA-related vengeance across the galaxy.
 legacy_weight: 4
 significance: high
+related_uuids:
+- b4850d9a-53c4-5d9c-8d8a-b66081d31644
+- 7ba9e81d-43a4-5565-ba4d-31b3ac2c2c95
 ---
 
 Major Victories against [[The]] League of Reparation

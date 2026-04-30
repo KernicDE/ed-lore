@@ -4,21 +4,29 @@ title: Fringe Religion Condemns Far God Cult
 slug: fringe_religion_condemns_far_god_cult
 date: '3304-07-12'
 source: GitHub
-entities:
+summary: The Church of Eternal Void, which worships the Guardians, declares war on the Far God cult. Cardinal Hieronymous vows to expunge the cult's poisonous creed. The Church sees a dramatic upswing in support. Juanita Bishop campaigns against the Far God sect. Security forces remind citizens the Far God sect is legally recognised and hostility against members is criminal. Dr Alfred Ulyanov notes the Church is taking advantage of animosity toward the Far God sect to promote itself and validates its existence through the binary theology of Guardians versus Thargoids.
+player_impact: None
+persons:
+- Cardinal Hieronymous
+- Juanita Bishop
 - Alfred Ulyanov
-locations:
-- Security forces in many
+- Quinn Damico
+groups:
+- Church of Eternal Void
+- Far God cult
+- Galactic Interfaith Commune
+locations: []
 topics:
 - alien contact
+- religion
 - crime
-- ship
-- war
-- xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Church of Eternal Void's declaration escalates religious conflict and sets the stage for violent attacks against the Far God cult, raising questions about the limits of religious freedom during wartime.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 68fc3f55-52fe-5901-b858-c3319b1d557c
+- 5b63a140-f545-5aa1-a7db-556be53ae92b
+- 84b929de-3fba-59cb-853f-7b88bf76a586
 ---
 
 Fringe Religion Condemns [[Far]] God Cult

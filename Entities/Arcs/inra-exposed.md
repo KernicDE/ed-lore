@@ -2,15 +2,15 @@
 id: inra-exposed
 name: Inra Exposed
 first_seen_date: '3304-04-21'
-last_seen_date: '3304-07-28'
-mention_count: 10
+last_seen_date: '3304-06-21'
+mention_count: 8
 significance: medium
 key_entities:
 - inra
 - alliance
 - nestor-cartesius
-- imperial-internal-security-service
 - cartesius
+- iiss
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ key_entities:
 # Inra Exposed
 
 First seen: **3304-04-21**  
-Last seen: **3304-07-28**  
-Articles: **10**
+Last seen: **3304-06-21**  
+Articles: **8**
 
 ## Key Figures
 
-- [[INRA]] (10 mentions)
-- [[Alliance]] (7 mentions)
+- [[INRA]] (8 mentions)
+- [[Alliance]] (5 mentions)
 - [[Nestor Cartesius]] (3 mentions)
-- [[Imperial Internal Security Service]] (3 mentions)
 - [[Cartesius]] (2 mentions)
+- [[IISS]] (2 mentions)
 
 ## Description
 

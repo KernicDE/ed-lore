@@ -2,18 +2,18 @@
 id: olav-redcourt
 name: Olav Redcourt
 type: person
-first_seen_date: '3304-08-02'
+first_seen_date: '3304-07-05'
 last_seen_date: '3304-11-17'
-mention_count: 6
+mention_count: 8
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Olav Redcourt
 
-First mentioned: **3304-08-02**  
+First mentioned: **3304-07-05**  
 Last mentioned: **3304-11-17**  
-Total mentions: **6**
+Total mentions: **8**
 
 ## Related
 
