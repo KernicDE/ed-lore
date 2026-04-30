@@ -1,0 +1,27 @@
+---
+uuid: 1a0654de-9c87-59e6-8494-a5cbb34758d0
+title: Kestrel Fighter Trials Deemed a Resounding Success
+slug: kestrel_fighter_trials_deemed_a_resounding_success
+date: '3312-03-12'
+source: API
+groups:
+- Core Dynamics
+- Engineers
+- Federal Navy
+topics:
+- construction
+- corporate expansion
+- engineering
+- ship
+- war
+modern_impact: Engineering developments offer pilots new ship customisation options.
+legacy_weight: 2
+significance: low
+---
+
+Core Dynamics has confirmed the successful conclusion of its Kestrel field trials, with pilots proving its fighter superiority in conflict zones.
+A Core Dynamics press statement described the results as “confirmation that the Kestrel is the best small combat ship available.” Engineers monitoring combat situational data reported that the Kestrel outperformed every other ship encountered, better than they had anticipated.
+CEO Owen McKenna provided this statement:
+“We have a long history of producing high-performance combat ships and always wanted to build a successor to the incomparable Eagle Mk II when the time was right. I’m pleased to announce that the Kestrel is that ship having exceeded all our expectations.”
+With the successful trials now concluded, Core Dynamics predicts that the Kestrel will be adopted by the Federal Navy and independent combat pilots as the small fighter of choice.
+The Kestrel is available for exclusive purchase initially and will transition to standard shipyard inventories at a later date.
