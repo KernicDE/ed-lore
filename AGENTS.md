@@ -212,6 +212,13 @@ The product vision document (`prompt.md`) describes two major deliverables not y
 | List all unique sources | `grep -r "^source:" GalNet/ \| sed 's/.*source: //' \| sort \| uniq -c` |
 | Find article by date | `ls GalNet/YYYY-EDED/EDED-MM-DD-*.md` |
 | Read article | `cat GalNet/<folder>/<file>.md` |
+| Push to GitHub | `git push origin main` (via `gh` auth) |
+
+---
+
+## 11. Git & GitHub
+
+The `gh` CLI is authenticated for user **KernicDE** (`github.com`). Git operations to `https://github.com/KernicDE/ed-lore.git` work via `gh auth setup-git` + HTTPS. Do not rely on SSH keys being present; use `gh` credential helper instead.
 
 ---
 
