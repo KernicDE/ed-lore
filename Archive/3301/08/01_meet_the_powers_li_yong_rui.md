@@ -1,41 +1,35 @@
 ---
-uuid: 0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a
-title: "Meet the Powers – Li Yong-Rui"
+uuid: 49a47621-2251-5f4e-a822-09e716459bdf
+title: Meet the Powers – Li Yong Rui
 slug: meet_the_powers_li_yong_rui
 date: '3301-08-01'
 source: GitHub
 entities:
-  - Li Yong-Rui
-  - Marcus Macmillan
+- Li Yong-Rui
 groups:
-  - Sirius Corporation
-  - Sirius Gov
+- Sirius Corp
+- Sirius Corporation
+- Sirius Gov
 locations:
-  - Lembava
-  - Sirius
+- Sirius
 topics:
-  - profile
-  - corporate
-arc_id: corporate-history
-arc_chapter: "Li Yong-Rui profiled"
-modern_impact: >
-  Li Yong-Rui's profile introduces the CEO of Sirius Corporation as
-  a very different kind of power player. Where Hudson commands armies
-  and Patreus collects debts, Li Yong-Rui manages supply chains and
-  balance sheets. His "corporate neutrality" is both a strength and
-  a vulnerability: it allows Sirius to operate everywhere but also
-  means they have no true allies. The profile hints at the vast
-  intelligence network that Sirius maintains through its commercial
-  operations.
-legacy_weight: 3
+- corporate expansion
+- sport
+- trade
+modern_impact: Trade initiative affecting commodity markets and local economies.
+legacy_weight: 1
+significance: low
 ---
 
 Meet the Powers – Li Yong-Rui
 
-In this seventh article of the series, Marcus Macmillan examines Li Yong-Rui, CEO of Sirius Corporation.
 
-Li Yong-Rui is not a politician in the traditional sense. He does not command armies or deliver speeches to cheering crowds. Instead, he controls one of the largest corporations in human history, with interests in fuel production, drive technology, mining, and even government services.
+Meet the Powers – Li Yong-Rui 
+ 
+Sirius Gov CEO Li Yong-Rui is the focus of this seventh article from political commentator Marcus Macmillan about the movers and shakers in 3301. 
 
-"Power is not always about guns and ships," Li Yong-Rui said in a rare interview. "Sometimes it's about who controls the supply lines."
+In this week’s historical article from Sima Kalhana, she wrote about the founding of the Sirius Corporation. The Li dynasty’s involvement with the Sirius Corporation can be traced back to the company’s founding almost 800 years ago. 
 
-Under his leadership, Sirius Corporation has expanded its influence while maintaining its strict neutrality in conflicts between the superpowers. Some see this as pragmatism; others see it as opportunism.
+By the age of 25, Yong-Rui  had earned doctorates in physics, politics and economics. He was hired by Sirius straight from college. He then quickly made his way up the ranks, and at the tender age of 35, Yong-Rui was made Vice President of Forecasting. 
+
+He has a proven track record in business, but has also demonstrated significant insight in the fuzzier elements and in particular how to provide effective government. With these skills he was considered the ideal candidate for Sirius Corporation’s new Sirius Gov division.

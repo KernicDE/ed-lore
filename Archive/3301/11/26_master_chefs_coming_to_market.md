@@ -5,18 +5,16 @@ slug: master_chefs_coming_to_market
 date: '3301-11-26'
 source: GitHub
 groups:
-- Revolutionary Noti Value Party
+- Federal Times
 locations:
 - Noti
 - Weber Gateway
 topics:
 - genetic experiments
+- independence
 - slavery
-- trade
-arc_chapter: Master Chefs commercialised
-modern_impact: Reports suggest the so-called 'Master Chefs' — genetically modified
-  slaves trained exclusively for cooking — are being prepared for market. The Revolutionary
-  Noti Value Party is linked to their distribution.
+- war
+modern_impact: Independence movement challenging established political authority.
 legacy_weight: 2
 significance: low
 ---

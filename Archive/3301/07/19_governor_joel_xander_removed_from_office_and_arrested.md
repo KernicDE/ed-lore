@@ -1,28 +1,23 @@
 ---
-uuid: 2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a
+uuid: 2d6c0101-e579-567a-b099-e9c8f5ab2dff
 title: Governor Joel Xander Removed from Office and Arrested
 slug: governor_joel_xander_removed_from_office_and_arrested
 date: '3301-07-19'
 source: GitHub
 entities:
-  - Joel Xander
-  - King Justice II
-groups:
-  - Federal Intelligence Agency
-  - Justice Party
-locations:
-  - BD-22 3573
-  - Forrester Station
+- Joel Xander Removed
 topics:
-  - arrest
-  - corruption
-arc_id: federal-politics
-modern_impact: Federal governor arrested in corruption scandal.
-legacy_weight: 2
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
+significance: low
 ---
 
 Governor Joel Xander Removed from Office and Arrested
 
-Joel Xander, the Federal governor of BD-22 3573, has been removed from office and arrested by Federal agents in a surprise raid early this morning. Xander and members of his family have been taken off the planet in an escorted Dropship marked with the insignia of the Federal Intelligence Agency.
 
-While there is no official statement about the allegations against Xander at this time, recent events in BD-22 3573 give reason for speculations about the background of this dramatic arrest.
+Governor Joel Xander Removed from Office and Arrested 
+ 
+Joel Xander, the Federal governor of BD-22 3573 of the Federally aligned Forrester Station, has been removed from office and arrested by Federal agents in a surprise raid early this morning. Xander and members of his family have been taken off the planet in an escorted Dropship marked with the insignia of the Federal Intelligence Agency. 
+
+While there is no official statement about the allegations against Xander at this time, recent events in BD-22 3573 give reason for speculations about the background of this dramatic arrest. It has been suspected for a long time that Xander's friendly relations with local rulers like King Justice II of the Justice Party and Supreme Leader Anxo Lino of BD-22 3573 Flag might some day cause trouble.

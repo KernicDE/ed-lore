@@ -1,25 +1,33 @@
 ---
-uuid: 2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a
+uuid: 860b46da-b458-55f4-b0bc-5fe860b90758
 title: Controlling the Credit Crops
 slug: controlling_the_credit_crops
 date: '3301-06-11'
 source: GitHub
-entities: []
-groups:
-  - Green Party of Diso
+entities:
+- Hudson responded by directing
+- Zemina Torval
+- Zemina Torval appear
 locations:
-  - Diso
-  - Shifnalport
+- Kappa Fornacis
 topics:
-  - agriculture
-  - economics
-arc_id: old-worlds-renaissance
-modern_impact: Diso Ma Corn market stabilises after production increase.
-legacy_weight: 1
+- narcotics
+- trade
+- war
+arc_id: onionhead-conflict
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
+  and local agricultural economies.
+legacy_weight: 3
+significance: medium
 ---
 
 Controlling the Credit Crops
 
-The Green Party of Diso has announced new measures to control the supply of Diso Ma Corn, ensuring stable prices for traders.
 
-"We want to ensure that Diso Ma Corn remains a profitable and sustainable crop for generations to come."
+Controlling the Credit Crops  
+ 
+A little over six months ago, the newly discovered naturally occurring plant known as Onionhead was made illegal throughout all of Federal space. Not long after, in an attempt to stop the spread of Onionhead, the Federation launched a violent campaign against the innocent farmers of Kappa Fornacis, led by the vocal Georgio Algeria. Federal marines invaded the farmers’ fields, and Federal battle cruisers rained fire from the skies. 
+
+The now wealthy farmers managed to create a new strain of Onionhead, and so the spread started, working alone and with others, including the East India Company – an Imperial trade organisation in which Senator Zemina Torval is a major shareholder. 
+
+In an attempt to warn the Imperial Senator away from Kappa Fornacis, President Hudson responded by directing a number of prominent Republican Party supporters to begin permanently establishing themselves in Autahenetsi, to change public opinion as a deterrent to farmers, smugglers and Imperials alike. Although at time of press, neither the East India Company nor Senator Zemina Torval appear to be particularly intimidated by the Federation’s efforts.

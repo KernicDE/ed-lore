@@ -5,22 +5,23 @@ slug: shadow_president_winters_calls_for_investigation
 date: '3301-09-28'
 source: GitHub
 entities:
-  - Felicia Winters
-  - Vice President Nigel Smeaton
+- Felicia Winters
+- Vice President Nigel Smeaton
 groups:
-  - Federal Congress
+- Federal Congress
 locations:
-  - Sol
-  - Mars
+- Sol
+- Mars
 topics:
-  - investigation
-  - conspiracy
-  - murder
+- investigation
+- conspiracy
+- murder
 arc_id: federal-politics
-arc_chapter: "Winters demands truth"
-modern_impact: >
-  Winters calls for an open investigation into Smeaton's murder and the Antares conspiracy, citing her personal friendship with the VP. Her speech receives bipartisan support. Hudson's office has not yet responded.
+arc_chapter: Winters demands truth
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
 legacy_weight: 4
+significance: high
 ---
 
 Shadow President Winters Calls for Investigation

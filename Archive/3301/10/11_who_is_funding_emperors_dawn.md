@@ -5,21 +5,20 @@ slug: who_is_funding_emperors_dawn
 date: '3301-10-11'
 source: GitHub
 groups:
+- D and C Shipping
 - Emperor's Dawn
 - IISS
-- D and C Shipping, Inc.
 topics:
+- corporate expansion
+- ship
+- succession
 - terrorism
-- funding
-- corporate conspiracy
+- war
 arc_id: imperial-succession
-arc_chapter: Tracing the money
-modern_impact: Despite the severed connection to Damon Clarke's D and C Shipping,
-  Emperor's Dawn continues to resist Imperial offensives with significant funding.
-  An anonymous source suspects a corporate benefactor. The IISS says it is 'pursuing
-  all available leads.'
-legacy_weight: 3
-significance: medium
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
+legacy_weight: 4
+significance: high
 ---
 
 Who is Funding Emperor's Dawn?

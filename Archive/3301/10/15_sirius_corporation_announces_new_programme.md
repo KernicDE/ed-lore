@@ -4,26 +4,25 @@ title: Sirius Corporation Announces New Programme
 slug: sirius_corporation_announces_new_programme
 date: '3301-10-15'
 source: GitHub
-entities:
-- Li Yong-Rui
-- Roberta Unwin
 groups:
+- Money Matters
+- Sirius Corp
 - Sirius Corporation
 locations:
-- HIP 8396
 - Almagest
-- Sothis
 - Ceos
+- HIP 8396
 - Robigo
+- Sirius
+- Sirius Corporation expanded into the
+- Sothis
 topics:
 - corporate expansion
-- economics
+- trade
+- war
 arc_id: corporate-history
-arc_chapter: Sirius revitalisation programme
-modern_impact: Sirius Corporation announces plans to revitalise newly acquired systems
-  (HIP 8396, Almagest, Sothis, Ceos, Robigo). Li Yong-Rui promises subsidies for initiatives
-  to revive social and economic health. Economist Roberta Unwin calls this 'speculative
-  expansion' — common but usually on a smaller scale.
+modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape
+  several systems' economies.
 legacy_weight: 3
 significance: medium
 ---

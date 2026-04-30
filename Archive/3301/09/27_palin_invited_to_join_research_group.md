@@ -5,22 +5,22 @@ slug: palin_invited_to_join_research_group
 date: '3301-09-27'
 source: GitHub
 entities:
-  - Professor Ishmael Palin
-  - Commander Lord Zoltan
+- Ishmael Palin
+- Lord Zoltan
+- Palin
 groups:
-  - Canonn Interstellar Research Group
+- Canonn
+- Canonn Interstellar Research Group
 locations:
-  - Varati
-  - Maia
+- Varati
 topics:
-  - research
-  - unknown artefacts
-  - independence
+- research
+- safety
 arc_id: unknown-artefacts
-arc_chapter: "Canonn invites Palin"
-modern_impact: >
-  The Canonn Interstellar Research Group invites Palin to join them after his Federal programme was terminated. The Canonn suspects someone in power knows more about the artefacts than they're saying and wants it kept secret. They offer Palin protection and resources.
-legacy_weight: 4
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
+legacy_weight: 3
+significance: medium
 ---
 
 Palin Invited to Join Research Group

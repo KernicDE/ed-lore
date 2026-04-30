@@ -5,27 +5,29 @@ slug: more_emperors_dawn_bases_found
 date: '3301-10-08'
 source: GitHub
 entities:
-- Senator Denton Patreus
+- Denton Patreus
 groups:
-- Imperial Internal Security Service
 - Emperor's Dawn
-- Imperial Navy
+- IISS
+- Imperial Internal Security Service
 locations:
-- Namarii
-- Tabaldak
+- Denton
 - LTT 874
+- Maausk
+- Namarii
 - Shambhala
+- Surprise
 - Svari
+- Tabaldak
 topics:
+- exploration
+- research
+- succession
 - terrorism
-- intelligence
 - war
 arc_id: imperial-succession
-arc_chapter: More bases discovered
-modern_impact: 'IISS analysis of exploration data reveals five more Emperor''s Dawn
-  bases: Namarii, Tabaldak, LTT 874, Shambhala, and Svari. Patreus declares: ''Let
-  the insurgents prepare for our arrival. They cannot hope to withstand the full might
-  of the Empire.'''
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

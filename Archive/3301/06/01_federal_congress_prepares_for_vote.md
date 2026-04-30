@@ -1,27 +1,34 @@
 ---
-uuid: 7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b
+uuid: afc9a94b-b11c-56b0-8e7a-e5f9b450371b
 title: Federal Congress Prepares for Vote
 slug: federal_congress_prepares_for_vote
 date: '3301-06-01'
 source: GitHub
 entities:
-  - Felicia Winters
-  - Shadow President Hudson
+- Halsey no longer appears
+- Hudson's call
 groups:
-  - Congress
+- Alliance
+- Federal Congress
+- Federal Navy
 locations:
-  - Mars
+- Mars
 topics:
-  - vote preparation
+- crime
 arc_id: federal-politics
-modern_impact: Routine update on Congressional vote preparations.
-legacy_weight: 1
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
+legacy_weight: 4
+significance: high
 ---
 
 Federal Congress Prepares for Vote
 
-Congress is preparing for the upcoming vote of no confidence in Acting President Winters.
 
-Both Winters and Hudson have been lobbying members ahead of the vote, which is expected to be close.
+Members of Congress from across the Federation have made their way to Mars today, in response to Shadow President Hudson's call for a Vote of No Confidence Against the current administration. 
 
-"I am confident that Congress will make the right decision for the Federation," Hudson told reporters.
+For months now, the Shadow President has been involved in an intense lobbying campaign against President Halsey and her administration. The Shadow President has pointed to the loss of dozens of member states to the Alliance, a rampant increase in crime rates, and a defanged Federal Navy as some of the more devastating effects of Jasmina's time in office. 
+
+However, now that President Halsey no longer appears to be a concern, Congress could decide to allow Acting President Winters to assume the office of President in Jasmina's stead. Felicia Winters has always been very popular amongst Congress, even before her ascension to the office of Secretary of State. Now that she's assumed the role of Acting President, it's could be possible that her peers will elect to see what kind of leader Felicia will be. 
+
+Members of Congress will be permitted to cast their vote at any time in the next 12 hours. Last-minute lobbying efforts from both sides are expected to be extremely intense, although pundits believe that Shadow President Zachary Hudson will almost certainly carry the day.

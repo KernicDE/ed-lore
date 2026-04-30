@@ -1,41 +1,31 @@
 ---
-uuid: 5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f
+uuid: b67fe4ff-6cb3-53a3-ad95-f4d910fc1c6d
 title: A Vision of the Future
 slug: a_vision_of_the_future
 date: '3301-06-06'
 source: GitHub
-entities:
-  - Simguru Pranav Antal
 groups:
-  - Utopia
-locations:
-  - Antal
+- Utopia
 topics:
-  - utopianism
-  - technology
-  - society
-arc_id: utopia-emergence
-arc_chapter: "Utopia revealed"
-modern_impact: >
-  The first description of Utopia and its leader Pranav Antal introduces
-  a radical alternative to the superpower model. Antal's "Sim-Archive" —
-  a repository of all human knowledge and experience — represents a
-  transhumanist vision that challenges the very foundations of Imperial,
-  Federal, and Alliance society. The article's framing as "a vision of
-  the future" suggests that Utopia may be more than a fringe commune;
-  it could be a preview of where human civilisation is headed. The
-  superpowers' dismissal of Utopia as irrelevant is shortsighted.
-legacy_weight: 4
+- exploration
+- independence
+- research
+- trade
+- war
+modern_impact: Notable exploration achievement expanding the boundaries of known space.
+legacy_weight: 2
+significance: low
 ---
 
 A Vision of the Future
 
-In the remote system of Antal, a radical experiment in human society is underway.
 
-Utopia, as the commune is known, is the brainchild of Simguru Pranav Antal, a visionary who believes that technology can liberate humanity from the constraints of traditional society.
+For decades, the Utopian compound on Antal was seen as a place where people could visit the future. Technology that was years ahead of its time was openly on display for anyone to see. The secrets uncovered by the Utopian engineers were made freely available for study, regardless of the factional leanings of those who wished to explore their mysteries. 
 
-At the heart of Utopia is the Sim-Archive, a vast repository of all human knowledge and experience. Citizens of Utopia spend their lives contributing to and drawing from the Archive, creating a society where information is the only currency.
+That freedom of information, that willingness to share knowledge and ideas, is what has allowed Utopia to grow into a living network of technological communes that will help lead the galaxy towards a better tomorrow. 
 
-"We are building a future where want, greed, and conflict are obsolete," Antal said in a rare interview. "The superpowers cling to outdated models of control. Utopia shows them what they could be."
+In the last five years, hundreds of thousands of scientists, programmers and engineers have begun their journey into the Utopian lifestyle. Their hard work and dedication has been rewarded with a wealth of new technologies that will revolutionise the galaxy once mass production has been achieved. 
 
-While the superpowers have so far dismissed Utopia as a fringe commune, some analysts believe Antal's vision could prove more influential than anyone expects.
+Of course, mass production is difficult without the right materials to do the job. Utopia estimates its workshops require around 30 million tonnes of assorted metals per month. So far, no single supplier has been able to meet their requirements. As such, Utopia will be offering a range of bonuses each month to any interstellar traders who bring the Utopians a large supply of metal. 
+
+Those interested in offering assistance to the Utopian Project are asked to deliver metals to Lobachevsky Station in Antal.

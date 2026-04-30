@@ -1,22 +1,34 @@
 ---
-uuid: 8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c
+uuid: bfcfa929-e1d9-5fb5-8073-fc8341d2a5fd
 title: Leaked Data Causes Concerns over Latest Imperial Technology
 slug: leaked_data_causes_concerns_over_latest_imperial_technology
 date: '3301-07-12'
 source: GitHub
-entities: []
-groups:
-  - Imperial Navy
+entities:
+- Denzile Dex
+- Dex
 locations:
-  - Imperial systems
+- Prism
 topics:
-  - technology leak
-  - security
-arc_id: misc
-modern_impact: Leaked Imperial tech data raises security concerns.
+- investigation
+- research
+- safety
+- scandal
+modern_impact: Pilot safety initiative with potential regulatory implications for
+  starship design.
 legacy_weight: 1
+significance: low
 ---
 
 Leaked Data Causes Concerns over Latest Imperial Technology
 
-Leaked data regarding new Imperial military technology has caused concern among security analysts. The leak is believed to have originated from a compromised research facility.
+
+Leaked Data Causes Concerns over Latest Imperial Technology 
+ 
+News of technical documents posted anonymously via the shady <Ahem> dark network are spreading virally and causing widespread concern among Imperial Pilots. According to the documents some of the new Imperial modules that have been appearing recently are linked to research carried out by the discredited Professor Denzile Dex and doubts about their safety have been raised. 
+
+Professor Dex has been missing for several years and it is widely believed that his sudden disappearance was connected to the 4EverYoung life-extension technology scandal. Allegations of shortcuts and the withholding of critical data were made following a spate of cases where users of the technology suffered various deforming and debilitating mutations. Dex vanished shortly before he was due to give evidence to the official inquiry investigating the allegations. 
+
+According to the latest story, research seized from Professor Dex at the time of the 4EverYoung scandal formed the basis of the design for a number of the latest Imperial prototypes including the Imperial Hammer and the Prismatic Shield Generators. Anecdotal reports of side effects from the new technology have already begun surfacing and a number of concerned groups have called for an official statement from the Senate about the leak. 
+
+One report claims that the harmonic adjustments in the design of the Prismatic Shield Generator can cause temporary cognitive impairment and even psychosis. Other reports link a form of high-level radiation emitted by the Imperial Hammer with increased rates of sterility and hormonal imbalances. One angry commentator even claimed it had caused him to develop female physical characteristics.

@@ -1,35 +1,27 @@
 ---
 uuid: f6c12601-b292-5356-9311-0ee90c473048
-title: Hudson Questions Halsey's Motives
+title: Hudson Questions Halsey’s Motives
 slug: hudson_questions_halseys_motives
 date: '3301-03-16'
 source: GitHub
-entities:
-  - Shadow President Hudson
-  - President Halsey
 groups:
-  - Federal Navy
-  - The Crimson State Group
+- Federal Navy
 locations:
-  - Lugh
+- Lugh
 topics:
-  - political opposition
-  - war criticism
-  - leadership accountability
-arc_id: federal-politics
-arc_chapter: "Hudson attacks Halsey"
-modern_impact: >
-  Hudson's scathing attack on Halsey's Lugh offensive is a defining moment in Federal
-  opposition politics. By crediting Federal pilots rather than the President for
-  military success, Hudson positions himself as the champion of the armed forces while
-  painting Halsey as an incompetent warmonger. This rhetoric becomes the foundation of
-  his eventual presidential campaign — "strength through military excellence" versus
-  Halsey's "weak leadership."
-legacy_weight: 4
+- war
+arc_id: lugh-independence
+modern_impact: The Lugh independence movement challenges Federal authority and tests
+  the Alliance's non-intervention principles.
+legacy_weight: 3
+significance: medium
 ---
 
-Shadow President Hudson has released a scathing attack on the President's offensive against the Crimson State Group, calling it "nothing more than a petty attempt to show strength at the cost of hundreds of thousands of innocent lives".
+Hudson Questions Halsey’s Motives
 
-He went on to say:
 
-"The fact that our troops are doing well in Lugh is a testament to the excellent training programmes offered by the Federal Navy. It is certainly no thanks to the actions of our supposedly esteemed President, who sent our troops off to war without adequate support or supplies. Indeed, if anyone should take credit for the current success of the Federation's strike teams, it is the loyal Federal pilots who flew in from all over the galaxy to answer the President's premature call to wage war against our own people."
+Shadow President Hudson has released a scathing attack on the President’s offensive against the Crimson State Group, calling it “nothing more than a petty attempt to show strength at the cost of hundreds of thousands of innocent lives”. 
+
+He went on to say: 
+
+“The fact that our troops are doing well in Lugh is a testament to the excellent training programmes offered by the Federal Navy. It is certainly no thanks to the actions of our supposedly esteemed President, who sent our troops off to war without adequate support or supplies. Indeed, if anyone should take credit for the current success of the Federation’s strike teams, it is the loyal Federal pilots who flew in from all over the galaxy to answer the President’s premature call to wage war against our own people.”

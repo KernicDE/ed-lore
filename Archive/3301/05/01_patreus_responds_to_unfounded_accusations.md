@@ -1,36 +1,42 @@
 ---
-uuid: 1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b
-title: Patreus Responds to Unfounded Accusations
+uuid: 7cd9f984-fa18-5712-9bc4-cd7321937486
+title: Patreus Responds to ‘Unfounded’ Accusations
 slug: patreus_responds_to_unfounded_accusations
 date: '3301-05-01'
 source: GitHub
 entities:
-  - Senator Denton Patreus
-  - Princess Arissa Lavigny-Duval
-groups:
-  - Emperor's Grace
-  - Imperial Senate
+- Lavigny wishes
+- Patreus made
 locations:
-  - Capitol
+- Achenar
 topics:
-  - political defence
-  - assassination conspiracy
-arc_id: patreus-campaigns
-modern_impact: >
-  Patreus's statement is a carefully worded denial that raises more questions
-  than it answers. He admits ordering Emperor's Grace to allow Arissa's
-  investigators into HR 706, but denies knowing why they resisted. His claim
-  that he has "no authority to remove foreign dignitaries" from HR 706 is
-  technically true but politically evasive. The timing — just before Arissa's
-  Senate presentation — suggests damage control. Whether Patreus was complicit
-  or merely negligent remains one of 3301's great unanswered questions.
-legacy_weight: 4
+- scandal
+- ship
+- sport
+- succession
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
+significance: low
 ---
 
-Patreus Responds to Unfounded Accusations
+Patreus Responds to ‘Unfounded’ Accusations
 
-Senator Patreus has today issued a statement regarding accusations that have been made against him in relation to the recent attack on the Emperor's life.
 
-"I ordered Emperor's Grace to allow Senator Lavigny's investigators to enter HR 706. I do not know why they initially resisted, nor do I care. What I do know is that I have no authority to remove foreign dignitaries from a system that is not under my direct control."
+After a heated meeting of the Senate held earlier today, Senator Patreus made a rare appearance on ‘Question Everything’ to address the accusations levelled against Emperor’s Grace by Senator Lavigny. 
 
-"I have served the Empire faithfully for decades. I will not allow my reputation to be tarnished by baseless accusations from those who seek to undermine my position."
+“This is outrageous,” the Senator began. 
+
+“Emperor’s Grace has served as the loyal stewards of HR 706 for decades. A fact Senator Lavigny is well aware of.” 
+
+“The very idea that one of my own would dare instigate such an attack without my knowledge is preposterous. It would never happen.” 
+
+“It’s clear what this is actually all about.” 
+
+“If Senator Lavigny wishes to accuse me of something, she had better come up with more evidence than that weak pile of fabricated drek she calls proof.” 
+
+“If the Senator has anything of substance to share, I suggest she present it. I will not allow my men to be martyred for the sake of the Senator’s lust for the throne.”  
+
+“Emperor’s Grace has my full support. They will continue to govern HR 706 in my stead and their leaders will be released from their false imprisonment immediately. These trumped-up charges will not stand.” 
+
+According to security personnel on Achenar, the leadership of Emperor’s Grace has been released into Senator Patreus’s custody, and are currently serving under house arrest in HR 706.

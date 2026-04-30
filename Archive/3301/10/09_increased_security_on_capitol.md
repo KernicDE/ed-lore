@@ -5,23 +5,18 @@ slug: increased_security_on_capitol
 date: '3301-10-09'
 source: GitHub
 groups:
+- Emperor's Dawn
 - Imperial Guard
-- Imperial Naval Infantry
 locations:
-- Capitol
 - Achenar
+- Capitol
 topics:
-- security
-- coronation
-- terrorism
+- succession
 arc_id: imperial-succession
-arc_chapter: Security tightened
-modern_impact: With Emperor's Dawn threatening to sabotage the coronation, security
-  is drastically increased. Naval infantry, police, and Imperial Guard patrol the
-  streets. Only invited guests or permit holders may enter the Achenar system. One
-  of the largest troop deployments in decades.
-legacy_weight: 3
-significance: medium
+modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption
+  stance and military focus shape Imperial policy for years to come.
+legacy_weight: 5
+significance: high
 ---
 
 Increased Security on Capitol

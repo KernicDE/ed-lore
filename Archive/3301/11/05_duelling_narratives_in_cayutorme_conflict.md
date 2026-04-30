@@ -4,21 +4,20 @@ title: Duelling Narratives in Cayutorme Conflict
 slug: duelling_narratives_in_cayutorme_conflict
 date: '3301-11-05'
 source: GitHub
+entities:
+- Corrigendum Duelling Narratives
+- Quade
 groups:
 - Cayutorme Syndicate
-- Imperial Navy
 locations:
 - Cayutorme
 topics:
+- ship
+- succession
 - war
-- crime
-- propaganda
 arc_id: cayutorme-conflict
-arc_chapter: Duelling propaganda
-modern_impact: Both the Cayutorme Syndicate and Imperial forces issue competing narratives
-  about the conflict. The Syndicate portrays itself as freedom fighters defending
-  their home; the Empire labels them criminals and terrorists. Independent pilots
-  must choose sides.
+modern_impact: A significant military engagement testing the Empire's ability to project
+  force against organized criminal syndicates.
 legacy_weight: 3
 significance: medium
 ---

@@ -4,12 +4,14 @@ title: Appeal for Crystalline Spheres Comes to an End
 slug: appeal_for_crystalline_spheres_comes_to_an_end
 date: '3301-12-23'
 source: GitHub
+locations:
+- Snow Moon in the Bento
 topics:
-- commodities
+- festival
+- ship
 - trade
-modern_impact: An appeal for crystalline spheres concludes successfully. The rare
-  commodities have been delivered in sufficient quantities. The requesting faction
-  thanks all participants.
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
 significance: low
 ---

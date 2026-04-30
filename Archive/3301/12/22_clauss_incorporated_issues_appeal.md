@@ -6,13 +6,14 @@ date: '3301-12-22'
 source: GitHub
 groups:
 - Clauss Incorporated
+locations:
+- Clauss Port in the Santa Muerte
 topics:
-- commodities
+- corporate expansion
+- ship
 - trade
-modern_impact: Clauss Incorporated issues an appeal for commodities. The corporation
-  seeks specific goods for its manufacturing operations and offers competitive prices
-  to pilots who deliver them.
-legacy_weight: 1
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
 significance: low
 ---
 

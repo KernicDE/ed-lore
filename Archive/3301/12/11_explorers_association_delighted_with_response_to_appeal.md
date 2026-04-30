@@ -6,17 +6,9 @@ date: '3301-12-11'
 source: GitHub
 groups:
 - Explorer's Association
-locations:
-- Pleiades Nebula
-- Kaushpoos
 topics:
-- construction
 - exploration
-arc_id: pleiades-expansion
-arc_chapter: Pleiades starport nears completion
-modern_impact: The Explorer's Association expresses delight at the response to its
-  appeal for construction materials. The Pleiades Nebula starport is nearing completion
-  thanks to the efforts of hundreds of independent pilots.
+modern_impact: Notable exploration achievement expanding the boundaries of known space.
 legacy_weight: 2
 significance: low
 ---

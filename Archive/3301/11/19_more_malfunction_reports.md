@@ -5,19 +5,22 @@ slug: more_malfunction_reports
 date: '3301-11-19'
 source: GitHub
 locations:
-- Warkushanui
 - 49 Arietis
 - 64 Arietis
+- All starports in the affected
+- Arietis and Varati
+- Gurragchaa Gateway
+- Hinz Hub in the Ngobe
+- Sol
+- Tsunenaga Dock in the Iapodes
+- Varati
+- Warkushanui
 topics:
-- technical malfunction
-- unknown artefacts
-arc_id: unknown-artefacts
-arc_chapter: More malfunction reports
-modern_impact: Additional reports of technical malfunctions come in from Warkushanui,
-  49 Arietis, and 64 Arietis. The pattern of station breakdowns continues to spread.
-  Engineers are unable to identify the root cause.
-legacy_weight: 3
-significance: medium
+- construction
+- war
+modern_impact: Infrastructure project with long-term benefits for the affected region.
+legacy_weight: 2
+significance: low
 ---
 
 More Malfunction Reports

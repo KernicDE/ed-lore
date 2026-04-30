@@ -1,26 +1,26 @@
 ---
-uuid: 9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d
+uuid: 27d242a2-36df-5bca-b701-6caaceb378f5
 title: Upgrade of Parkinson Dock Complete
 slug: upgrade_of_parkinson_dock_complete
 date: '3301-05-16'
 source: GitHub
-entities:
-  - Senator Denton Patreus
-groups:
-  - Eotienses Citizens' Forum
 locations:
-  - Eotienses
-  - Parkinson Dock
+- Eotienses
 topics:
-  - infrastructure
-  - military R&D
-arc_id: patreus-campaigns
-modern_impact: Patreus upgrades Parkinson Dock as military R&D hub.
-legacy_weight: 1
+- construction
+- research
+- ship
+- trade
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 Upgrade of Parkinson Dock Complete
 
-After two weeks of frantic construction, Parkinson Dock is now home to some of the most advanced factories in the entire Empire. The upgrade was completed as part of Senator Patreus's plan to increase economic opportunities for the residents of his home system.
 
-2,267 Commanders helped ship a total of 8,274,504 tonnes of industrial materials to Parkinson Dock.
+After two weeks of frantic construction, which saw close to 70,000 engineers working around the clock to get the project finished in time, Parkinson Dock is now home to some of the most advanced factories in the entire Empire.  
+
+The upgrade was completed as part of Senator Patreus’s plan to increase economic opportunities for the residents of his home system. 2,267 Commanders helped ship a total of 8,274,504 tonnes of industrial materials to Parkinson Dock, all of which were put to good use during the construction effort. 
+
+In particular, the Eotienses Citizens’ Forum would like to honour Viscount Plo Koon, Baron Coiling Dragon, Earl Prawnetto, Earl Morton and Baron Kosmetas for their assistance in refitting Parkinson Dock in preparation for its new role as a dedicated research and development hub for new military technologies.

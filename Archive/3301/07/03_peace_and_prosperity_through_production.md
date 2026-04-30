@@ -1,42 +1,33 @@
 ---
-uuid: 3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b
-title: Peace and Prosperity Through Production
+uuid: 77f7fa0c-282f-5fc0-abd0-2c45fb54ad8c
+title: Peace and Prosperity through Production
 slug: peace_and_prosperity_through_production
 date: '3301-07-03'
 source: GitHub
-entities:
-  - Prime Minister Edmund Mahon
 groups:
-  - Alliance
+- Kumo Crew
+- Utopia
 locations:
-  - Old Worlds
-  - Alioth
+- HIP 116213
 topics:
-  - economic development
-  - production
-  - prosperity
-arc_id: alliance-expansion
-arc_chapter: "Alliance economic boom"
-modern_impact: >
-  Mahon's "Peace and Prosperity Through Production" initiative is the
-  practical counterpart to his philosophical speech. By incentivising
-  industrial production across Alliance systems, he creates economic
-  growth that benefits independent pilots and local populations alike.
-  This production-based diplomacy — "We build, we don't conquer" —
-  is the Alliance's answer to Federal military buildup and Imperial
-  debt extraction. The initiative will strengthen Alliance economic
-  ties and make membership increasingly attractive to border systems.
+- piracy
+- ship
+- trade
+- war
+arc_id: kumo-crew-rise
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
+significance: medium
 ---
 
-Peace and Prosperity Through Production
+Peace and Prosperity through Production
 
-Prime Minister Mahon has announced a new initiative aimed at boosting industrial production across Alliance space.
 
-"Peace and Prosperity Through Production" will see Alliance systems offering bonuses to pilots who deliver raw materials and manufactured goods to designated stations.
+Peace and Prosperity through Production   
+ 
+The Utopians unveiled their plans to fight back against the pirates of the Pegasi sector today, at a meeting held aboard Yolen Hub in HIP 116213. 
 
-"The Alliance has always been about mutual benefit. When our economies grow, everyone wins. This initiative will create jobs, stimulate trade, and strengthen our communities."
+Simguru Pranav Antal was met with wild cheers from the gathered crowds as he spoke about the sector’s recent spate of conflicts with the Kumo Crew, the resultant economic downturn and Utopia’s plans for turning all of that around. 
 
-The initiative has been welcomed by traders and industrialists, who see it as an opportunity to expand their operations.
-
-"Finally, a superpower that understands that prosperity comes from production, not conquest," one trader commented.
+Outside the station’s no-fire zone, followers of the Simguru demonstrated the effectiveness of Utopian technology when a wing of ships equipped with Enforcer Cannons shredded an Anaconda in under a minute. A clear message to anyone who thinks the Utopians will let their communes be pillaged simply because their overall philosophy leans towards peace.

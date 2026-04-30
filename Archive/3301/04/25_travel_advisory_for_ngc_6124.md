@@ -1,23 +1,26 @@
 ---
-uuid: 8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e
+uuid: 8c14b82e-2f2c-5551-97a2-177ecccc2ef9
 title: Travel Advisory for NGC 6124
 slug: travel_advisory_for_ngc_6124
 date: '3301-04-25'
 source: GitHub
-entities: []
-groups: []
 locations:
-  - NGC 6124
+- A Travel Advisory is issued for
+- He reprimands the
+- This
 topics:
-  - travel advisory
-  - exploration
-arc_id: misc
-modern_impact: Routine travel warning for nebula region.
-legacy_weight: 1
+- exploration
+- war
+modern_impact: Notable exploration achievement expanding the boundaries of known space.
+legacy_weight: 2
+significance: low
 ---
 
 Travel Advisory for NGC 6124
 
-The Pilots Federation has issued a travel advisory for the NGC 6124 region, warning pilots of increased pirate activity and hazardous navigation conditions.
 
-Commanders are advised to travel in wings and ensure their ships are properly equipped for long-range operations.
+Warning: A Travel Advisory is issued for system NGC 6124 SECTOR  DW-N C6-10. 
+
+This system should be avoided, but not due to solar storms.  
+
+Explorer Lance 'Spacecat' D. (last name withheld) warped in-system only to find himself inside the corona of the system's 'B' star which is abnormally close to the 'A' star. He only survived the experience thanks to quick reflexes, an auto field maintenance unit and the ruggedness of his scorched type-6, now nicknamed the 'Sundiver'. He reprimands the system's previous explorer (name withheld) for NOT issuing such a travel advisory.

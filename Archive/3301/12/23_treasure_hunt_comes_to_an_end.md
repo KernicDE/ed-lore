@@ -4,13 +4,15 @@ title: Treasure Hunt Comes to an End
 slug: treasure_hunt_comes_to_an_end
 date: '3301-12-23'
 source: GitHub
-entities:
-- Alfred Jeffress
+locations:
+- Competitors were led to multiple
+- Lasswitz Terminal in the Mentor
+- Prism
 topics:
+- ship
 - treasure hunt
-modern_impact: Alfred Jeffress's treasure hunt concludes. The winner is announced
-  and receives the promised share of Jeffress's fortune. The billionaire thanks participants
-  and teases future events.
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
+  across the galaxy.
 legacy_weight: 1
 significance: low
 ---

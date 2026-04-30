@@ -6,17 +6,14 @@ date: '3301-11-04'
 source: GitHub
 groups:
 - Cayutorme Syndicate
+- Kumo Crew
 locations:
 - Cayutorme
 topics:
-- war
-- crime
-- recruitment
+- ship
 arc_id: cayutorme-conflict
-arc_chapter: Syndicate calls for support
-modern_impact: The Cayutorme Syndicate issues an appeal for support, seeking pilots
-  to help defend their system against Imperial forces. The conflict tests the Empire's
-  ability to project force against organised criminal networks.
+modern_impact: A significant military engagement testing the Empire's ability to project
+  force against organized criminal syndicates.
 legacy_weight: 3
 significance: medium
 ---

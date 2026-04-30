@@ -6,13 +6,15 @@ date: '3301-12-31'
 source: GitHub
 groups:
 - Clauss Incorporated
+locations:
+- Frost Dock in the Njambalba
 topics:
-- commodities
+- corporate expansion
+- ship
 - trade
-modern_impact: Clauss Incorporated's appeal concludes successfully. The corporation
-  has received sufficient commodities for its operations and will issue rewards to
-  contributing pilots.
-legacy_weight: 1
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
 significance: low
 ---
 

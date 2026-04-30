@@ -6,22 +6,21 @@ date: '3301-10-26'
 source: GitHub
 groups:
 - Emperor's Dawn
-- Imperial Navy
 locations:
+- LTT 874
 - Namarii
 - Tabaldak
-- LTT 874
+- Tabaldak and LTT 874
 topics:
-- war
+- piracy
+- succession
 - terrorism
-- bounty
+- war
 arc_id: imperial-succession
-arc_chapter: Emperor's Dawn doubles bounties
-modern_impact: After the Empire deals critical blows in Namarii, Tabaldak, and LTT
-  874, Emperor's Dawn doubles payments to privateers. They claim Imperial pilots fight
-  for money, not ideals, and that they can purchase victory just as well as the Empire.
-legacy_weight: 3
-significance: medium
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
+legacy_weight: 4
+significance: high
 ---
 
 Fresh Incentive from Emperor's Dawn

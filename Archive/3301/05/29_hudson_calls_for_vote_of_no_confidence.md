@@ -1,38 +1,31 @@
 ---
-uuid: 7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d
+uuid: e0dda51d-b10d-51a0-b45f-d3b564c37647
 title: Hudson Calls for Vote of No Confidence
 slug: hudson_calls_for_vote_of_no_confidence
 date: '3301-05-29'
 source: GitHub
 entities:
-  - Shadow President Hudson
-  - Felicia Winters
-groups:
-  - Congress
+- Zachary Hudson
 locations:
-  - Mars
+- Mars
 topics:
-  - vote of no confidence
-  - power struggle
+- war
 arc_id: federal-politics
-arc_chapter: "Hudson demands vote"
-modern_impact: >
-  Hudson's formal call for a vote of no confidence transforms political
-  manoeuvring into constitutional procedure. His framing — "The Federation
-  cannot afford to wait while Winters plays at being President" — is
-  aggressive but effective. Winters's dignified response — "I will abide
-  by the decision of Congress" — positions her as a constitutionalist,
-  but also as weak. The vote is scheduled for 48 hours later, setting
-  up the decisive moment in the Federal succession crisis.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
 legacy_weight: 4
+significance: high
 ---
 
 Hudson Calls for Vote of No Confidence
 
-Shadow President Hudson has formally called for a vote of no confidence in Acting President Winters's leadership.
 
-"The Federation cannot afford to wait while Winters plays at being President. We need decisive action, not bureaucratic inertia. I call on Congress to vote on whether Winters should continue in her role, or whether the Federation needs a new leader."
+Shadow President Zachary Hudson has continued his criticism of Halsey’s administration, finally moving to the feared vote of no confidence. In his address to Congress, Shadow President Hudson has made it clear the situation needs a resolution. 
 
-Winters responded calmly: "I have always put the Federation first. If Congress believes I am not the right person to lead during this crisis, I will abide by their decision."
+“These are uncertain times and, with no disrespect to Jasmina’s memory, we need to put an end to this weak administration and bring our beloved Federation back on track. We cannot allow ourselves the luxury of wallowing in this state of horrendous disarray for even a moment longer.” 
 
-The vote is scheduled to take place in 48 hours.
+“Had Jasmina returned, it would have made no difference. She was away trying to raise support from the frontier as she knew this vote of no confidence was coming. I call for it now. Let’s get it out of the way and move on, here on Mars and throughout the Federation.” 
+
+“We are not some Imperial dynasty. We do not allow the whims of our dead to dictate terms to the living.” 
+
+“As such, in her absence, and without any ill intent towards Secretary Winters, I am issuing a call for a vote of no confidence against the current administration.”

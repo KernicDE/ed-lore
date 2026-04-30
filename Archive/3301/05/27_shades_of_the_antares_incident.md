@@ -1,39 +1,34 @@
 ---
-uuid: 4d5e6f7a-8b9c-0d1e-2f3a-4d5e6f7a8b9c
+uuid: 5f87713c-0d41-53c9-886d-7ff0d357bd8b
 title: Shades of the Antares Incident
 slug: shades_of_the_antares_incident
 date: '3301-05-27'
 source: GitHub
 entities:
-  - President Halsey
-  - Vice President Ethan Naylor
-  - Felicia Winters
-groups:
-  - Federal Navy
-locations:
-  - Azaleach
-  - Sol
+- Felicia Winters made
 topics:
-  - disappearance
-  - Antares incident
-  - hyperspace anomaly
-arc_id: federal-politics
-arc_chapter: "Antares comparison"
-modern_impact: >
-  The comparison to the Antares incident — the Federation's worst space
-  disaster where a high-tech vessel vanished without trace — is chilling.
-  The Antares disappeared in 3251, fifty years prior, and was never found.
-  If Spaceflight One suffered a similar hyperspace malfunction, it suggests
-  a fundamental flaw in frame-shift drive technology that has never been
-  resolved. Alternatively, the comparison could be a deliberate narrative
-  planted to explain away something more sinister.
-legacy_weight: 4
+- diplomacy
+- investigation
+- ship
+- terrorism
+arc_id: antares-mystery
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
+  with implications for hyperdrive safety.
+legacy_weight: 3
+significance: medium
 ---
 
 Shades of the Antares Incident
 
-As the search for Spaceflight One enters its second day, comparisons are already being drawn to the infamous Antares incident of 3251.
 
-The Antares, a state-of-the-art Federal vessel, disappeared without trace during a routine hyperspace jump. Despite extensive search efforts, no wreckage was ever found and the 4,000 souls aboard were presumed lost.
+At a press conference held earlier today, Acting Federal President Felicia Winters made a personal appearance to address the rdisappearance of Starship One after failing to re-enter normal space following a routine hyperspace jump. 
 
-"We are exploring all possibilities, including the unfortunate scenario that Spaceflight One may have experienced a catastrophic hyperspace malfunction similar to the Antares," a Federal Navy spokesperson confirmed.
+“The disappearance of Starship One has us all on edge. Tensions are high, and the rumour mills are making all their usual noise about terrorists, aliens, conspiracies and cover-ups. I’m afraid the truth will likely get you all far fewer viewers, but it is the truth that the people of the Federation need to hear from me now.” 
+
+“I’m told the early investigations from telemetry and uplink data suggest an explosive drive failure destroyed Starship One in hyperspace, catapulting all three of her protective Guardian Wing out of hyperspace. Wreckage is likely spread across interstellar space. I’m told there are parallels with the loss of the Highliner Antares way back in 3251 when she was lost with all hands on her maiden voyage.” 
+
+“I know I remember where I was when the Highliner Antares disappeared, and I fear we will always remember where we were the day Starship One was lost.” 
+
+“While we don’t know what caused this incident – yet – we do know that Starship One’s engines experienced an unexpected surge of power just seconds before making its last jump.” 
+
+“The search efforts will continue, of course. Our hearts and hope go out to the friends and families of President Halsey and all those lost yesterday in this terrible incident.”

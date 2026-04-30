@@ -1,38 +1,27 @@
 ---
-uuid: 4b5c6d7e-8f9a-0b1c-2d3e-4f5a6b7c8d9e
+uuid: b6d177c5-999b-5f92-9276-4ab97cb388eb
 title: A Treaty in Tatters
 slug: a_treaty_in_tatters
 date: '3301-08-03'
 source: GitHub
 entities:
-  - President Zachary Hudson
-groups:
-  - Federal Navy
-  - Imperial Navy
-locations:
-  - Federal-Imperial border
+- Andariel A Treaty
 topics:
-  - treaty
-  - diplomatic crisis
-arc_id: federal-politics
-arc_chapter: "Treaty breaks down"
-modern_impact: >
-  The breakdown of a long-standing Federal-Imperial non-aggression
-  treaty is a major escalation in superpower relations. Hudson's
-  refusal to attend the Imperial wedding is framed as the trigger,
-  but the real cause is deeper: Hudson's military buildup and
-  aggressive posture have made the treaty unworkable. The article
-  warns that without the treaty, "incidents" between Federal and
-  Imperial forces could spiral into open war.
-legacy_weight: 4
+- diplomacy
+modern_impact: Diplomatic development with implications for inter-superpower relations.
+legacy_weight: 2
+significance: low
 ---
 
 A Treaty in Tatters
 
-The long-standing non-aggression treaty between the Federation and the Empire has effectively collapsed, according to sources on both sides.
 
-The treaty, which has prevented direct military conflict between the superpowers for decades, began to unravel following President Hudson's refusal to attend the Imperial wedding and his subsequent military deployments along the border.
+A Treaty in Tatters 
+ 
+Legate Andariel, of Aisling’s 13th Legion, has officially ended the ceasefire between the 13th Legion and Winters’ Wolves. Following a number of reports of Winters’ supporters undermining Aisling’s control systems, the Legate made the decision to dissolve the treaty. A press conference was held aboard Smoot Station in Chona, where Andariel explained his position: 
 
-"The treaty is dead," one Imperial diplomat said privately. "Hudson has made it clear that he views the Empire as an enemy, not a rival."
+“It has become apparent that Winters’ Wolves, while claiming to honour the treaty, have done no such thing. I have received many reports of Winters’ supporters, some of them well known Wolves, undermining our control systems. I cannot stand by while Winters undermines all that we have worked for in the name of Aisling Duval – doing so would make the 13th Legion appear weak.” 
 
-The collapse of the treaty raises the spectre of direct superpower conflict for the first time in generations.
+While no names have been disclosed, it is clear that these breaches of the treaty are unacceptable. The treaty was originally signed on July 17th 3301 to allow the 13th to focus on the Imperial offensive against Archon Delaine, with mixed responses from other Aisling factions. With Delaine’s forces all but melting away, it has been speculated that the 13th Legion is using false-flagging tactics to get the treaty removed so they can resume hostilities with Winters. 
+
+Commander Andariel

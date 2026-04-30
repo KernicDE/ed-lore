@@ -1,41 +1,35 @@
 ---
-uuid: 3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b
+uuid: 3682c79f-1dad-579d-8f98-c17c4236215c
 title: Federal President Hudson Looks to the Future
 slug: federal_president_hudson_looks_to_the_future
 date: '3301-06-13'
 source: GitHub
 entities:
-  - President Zachary Hudson
+- Hudson Looks
+- Hudson hinted
 groups:
-  - Federal Navy
+- Core Dynamics
 locations:
-  - Mars
-  - Sol
+- Mars
 topics:
-  - presidential vision
-  - military expansion
-arc_id: federal-politics
-arc_chapter: "Hudson's vision"
-modern_impact: >
-  Hudson's first major policy speech as President outlines a vision of
-  Federal supremacy through military strength. His promise to "expand
-  Federal influence to every corner of the galaxy" is a declaration of
-  intent that will alarm both the Empire and the Alliance. His dismissal
-  of diplomacy — "Talk is cheap. Strength is what matters" — signals
-  a break from centuries of Federal policy that balanced military power
-  with diplomatic engagement. This speech defines the Hudson Doctrine:
-  Federal interests will be advanced by force, not negotiation.
-legacy_weight: 4
+- ship
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
+significance: low
 ---
 
 Federal President Hudson Looks to the Future
 
-President Hudson delivered his first major policy address today, outlining his vision for the Federation's future.
 
-"The Federation was founded on principles of freedom, democracy, and strength. For too long, we have neglected the latter. I intend to restore the Federation to its rightful place as the dominant power in human space."
+Federal President Hudson Looks to the Future 
+ 
+In a speech to business leaders today at the Banqueting Hall in Quenisset on Mars, President Hudson hinted at a raft of new policies to motivate the Federation’s youth. 
 
-Hudson promised increased military spending, expanded naval bases in frontier systems, and a more aggressive posture towards piracy and Imperial expansion.
+“As I said when I was the Shadow President, we are entering dangerous times. The Empire have been expanding recently more than they have for centuries. We have failed our own frontier worlds for decades and it is hardly surprising they are leaving the Federation as they are. We need a stronger military, a military that gets respect from our youth. We need better soldiers, better fighters, better pilots. We need to be more outward-looking.” 
 
-"We will not ask for respect. We will demand it. And we will back up our demands with the full might of the Federal Navy."
+“Our youth has become flabby. Lying inanimate, plugged in to their sims hour after hour, day after day, living in dream worlds that never have existed and never will exist. They need to take part in the real world, and so we will be creating programs to allow them to do just that. Programmes that will excite them, engage them, train them. We will fund these programmes in full, the first of which will be announced to Congress on Tuesday 16th.” 
 
-The speech was met with thunderous applause from military officials and concerned silence from diplomatic corps.
+“The Empire needs to know the Federation is strong. We were strong, and now we will be strong again!” 
+
+Commentators have already been speculating about the introduction of conscription, but this was denied by Hudson himself “I believe in carrot, not stick”. Congress has already agreed to a substantial rise in military spending, and naval shipyards throughout the Federation are at maximum capacity. Cynics have also noted that the Core Dynamics share price is at an all-time high - Core Dynamics has been a backer of Hudson for a long time, and many say this is his payback.

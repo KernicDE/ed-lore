@@ -4,14 +4,20 @@ title: Scientist's Appeal Successful
 slug: scientists_appeal_successful
 date: '3301-12-23'
 source: GitHub
+entities:
+- Ishmael Palin issued
+- Palin
+- Palin announced that
+locations:
+- Maia
 topics:
+- construction
 - research
-- commodities
-modern_impact: A scientist's appeal for research materials concludes successfully.
-  The delivered goods will support ongoing scientific investigations. The researcher
-  thanks contributing pilots.
-legacy_weight: 1
-significance: low
+arc_id: unknown-artefacts
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
+legacy_weight: 4
+significance: high
 ---
 
 Scientist's Appeal Successful

@@ -1,42 +1,33 @@
 ---
-uuid: 0d1e2f3a-4b5c-6d7e-8f9a-0b1c2d3e4f5a
-title: Malfunction or Malice?
+uuid: 62854860-ad7c-5510-8dc4-0a6b5cddc2a1
+title: Malfunction or Malice
 slug: malfunction_or_malice
 date: '3301-05-30'
 source: GitHub
-entities:
-  - President Halsey
-  - Vice President Ethan Naylor
-  - Felicia Winters
-groups:
-  - Federal Navy
-locations:
-  - Azaleach
-  - Sol
 topics:
-  - investigation
-  - sabotage
-  - disappearance
-arc_id: federal-politics
-arc_chapter: "Investigation begins"
-modern_impact: >
-  The official investigation into Spaceflight One's disappearance considers
-  two possibilities: catastrophic mechanical failure or deliberate sabotage.
-  The fact that the ship's transponder was disabled before entering
-  hyperspace strongly suggests the latter. Winters's refusal to speculate
-  publicly is politically prudent but fuels conspiracy theories. The
-  investigation's findings — whatever they may be — will shape Federal
-  politics for years, as the unresolved mystery of Halsey's fate becomes
-  a permanent shadow over Hudson's presidency.
-legacy_weight: 4
+- humanitarian
+- safety
+- ship
+- sport
+- succession
+arc_id: antares-mystery
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
+  with implications for hyperdrive safety.
+legacy_weight: 3
+significance: medium
 ---
 
 Malfunction or Malice?
 
-As the search for Spaceflight One continues, questions are being raised about whether the President's disappearance was caused by mechanical failure or deliberate sabotage.
 
-Federal Navy investigators have confirmed that Spaceflight One's transponder was disabled before the ship entered hyperspace, a fact that has raised suspicions of foul play.
+It has now been 5 days since Starship One lost contact, and the search and rescue teams have yet to find any trace of the missing ship or her crew. 
 
-"We are exploring all possibilities, including the potential that this was a deliberate act," a Navy spokesperson said.
+According to Lieutenant Barringer of the Federal Transport Safety Administration: 
 
-Acting President Winters has refused to comment on the investigation, saying only that "the truth will come out in time."
+“Starship One’s disappearance appears to have been caused by a major malfunction in the Frame Shift Drive’s safety systems. It looks like there was a major power surge, followed by four separate system failures in quick succession according to the data we have, resulting in a catastrophic explosion. We do not believe this explosion would have been survivable by anyone on board.”  
+
+“The FTSA has seen each of these failures in commercial and military hyperdrives in the last few years, but each one has resulted in the drive shutting down and the ship failing to enter hyperspace.  
+
+“There are strong similarities with the loss of the Highliner Antares in 3251, but since then we have many more safety systems designed to prevent such failures. At the moment it looks like this was a terribly unlucky tragic accident. We have not found any evidence of tampering, and all the systems passed their automated pre-flight checks.”  
+
+“Our condolences go out to the loved ones of those lost.”

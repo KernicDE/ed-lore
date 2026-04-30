@@ -5,16 +5,14 @@ slug: sothis_crystalline_gold
 date: '3301-09-25'
 source: GitHub
 locations:
-  - Sothis
-  - Newholm Station
+- Newholm Station
+- Sothis
 topics:
-  - discovery
-  - materials science
-  - metalloid
-arc_id: misc
-modern_impact: >
-  Scientists at Newholm Station discover Sothis Crystalline Gold, a new metalloid produced by exposing gold to submarine gas from thermal vents on Sothis A5 and A6. Applications are unknown but scientists are optimistic.
-legacy_weight: 1
+- exploration
+- research
+modern_impact: Notable exploration achievement expanding the boundaries of known space.
+legacy_weight: 2
+significance: low
 ---
 
 Sothis Crystalline Gold

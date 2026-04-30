@@ -5,25 +5,21 @@ slug: the_canonn_supports_palins_effort
 date: '3301-12-21'
 source: GitHub
 entities:
-- Professor Ishmael Palin
-- Dr. Arcanonn
+- Arcanonn
+- Ishmael Palin
 groups:
+- Canonn
 - Canonn Interstellar Research Group
 locations:
-- Nganji
-- Christian Dock
+- Maia
+- Merope
 topics:
 - research
-- unknown artefacts
-- support
 arc_id: unknown-artefacts
-arc_chapter: Canonn supports Palin
-modern_impact: The Canonn Interstellar Research Group publicly supports Professor
-  Palin's independent research into anomalous extraterrestrial objects. Despite Palin
-  declining to join the Canonn, the organisation respects his scientific approach
-  and offers logistical support.
-legacy_weight: 3
-significance: medium
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
+legacy_weight: 4
+significance: high
 ---
 
 The Canonn Supports Palin's Effort

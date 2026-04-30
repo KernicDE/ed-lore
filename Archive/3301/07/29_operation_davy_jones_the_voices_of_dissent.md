@@ -1,50 +1,40 @@
 ---
-uuid: 7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b
-title: "Operation Davy Jones – The Voices of Dissent"
+uuid: a210772e-cf66-5986-b067-f5664fdac402
+title: Operation Davy Jones   The Voices of Dissent
 slug: operation_davy_jones_the_voices_of_dissent
 date: '3301-07-29'
 source: GitHub
 entities:
-  - Commander Edgar Starwalker
-  - Commander Great Gig
-  - Archon Delaine
+- Edgar Starwalker
+- Great Gig
 groups:
-  - Lavigny's Legion
-  - Velites Squadron
-  - Kumo Crew
+- Kumo Crew
 locations:
-  - Pegasi Sector
-  - Cuchua
-  - Harma
+- Achenar
+- Pegasi Sector
 topics:
-  - dissent
-  - imperial politics
-  - war fatigue
+- corporate expansion
+- war
 arc_id: kumo-crew-rise
-arc_chapter: "Imperial dissent"
-modern_impact: >
-  The voices of dissent reveal cracks in the Imperial united front.
-  Commander Starwalker's concern — "there is corruption right on our
-  doorsteps" — echoes Arissa's anti-corruption platform but questions
-  her priorities. The outrage over Aisling's supporters soliciting
-  Federal help for Operation Davy Jones is particularly damaging:
-  it suggests that even Aisling recognises Imperial forces are
-  insufficient alone. Commander Great Gig's sadness at Imperial
-  Commanders "contacting the Federation for cooperation" captures
-  the wounded pride of an empire that sees itself as superior. These
-  dissenting voices will grow louder as the war drags on without
-  decisive victory.
-legacy_weight: 4
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
+legacy_weight: 3
+significance: medium
 ---
 
 Operation Davy Jones - The Voices of Dissent
 
-The efforts of the Imperial forces engaged in "Operation Davy Jones" have continued this week, with the attackers keeping up the pressure on Archon Delaine's stretched and battered forces. However, while the pilots engaged in the operation remain optimistic after a series of local successes, the campaign has attracted its share of detractors.
 
-"When I talk with my peers about the issues of the day, it isn't far away systems in the back of beyond that we concern ourselves with", Commander Edgar Starwalker, aligned with Arissa Lavigny-Duval, said in a brief interview. "Many of us know there is corruption right on our doorsteps, with dictators and credit-beholden corporations in charge of so many Imperial worlds. I think something should be done to bring about change at home!"
+Operation Davy Jones - The Voices of Dissent 
+ 
+The efforts of the Imperial forces engaged in “Operation Davy Jones” have continued this week, with the attackers keeping up the pressure on Archon Delaine’s stretched and battered forces. However, while the pilots engaged in the operation remain optimistic after a series of local successes, the campaign has attracted its share of detractors. 
 
-While the operation is being carried out by combined Imperial forces of varying allegiance, the core of the fleet is provided by Arissa Lavigny-Duval. As such, concerns about turmoil in the princess' territory have lead some to question the decision to commit large forces to an offensive against the Kumo Crew. More recently, outrage has been sparked by the attempts, initiated by supporters of Aisling Duval, to solicit the help of Federal Commanders in "Operation Davy Jones".
+"When I talk with my peers about the issues of the day, it isn't far away systems in the back of beyond that we concern ourselves with”, Commander Edgar Starwalker, aligned with Arissa Lavigny-Duval, said in a brief interview. “Many of us know there is corruption right on our doorsteps, with dictators and credit-beholden corporations in charge of so many Imperial worlds. I think something should be done to bring about change at home!" 
 
-When asked for comment, Commander Great Gig of Lavigny Legion's Velite Squadron had this to say: "When news travelled that Imperial Commanders were contacting the Federation for cooperation and help, I was saddened. Aren't we the mighty Empire of Achenar? Doesn't our history oppose their political and institutional corruption, their mind control through relentless propaganda and consumerism?"
+While the operation is being carried out by combined Imperial forces of varying allegiance, the core of the fleet is provided by Arissa Lavigny-Duval. As such, concerns about turmoil in the princess’ territory have lead some to question the decision to commit large forces to an offensive against the Kumo Crew. More recently, outrage has been sparked by the attempts, initiated by supporters of Aisling Duval, to solicit the help of Federal Commanders in “Operation Davy Jones”. 
 
-For the past month, the eyes of the galaxy have been on the Pegasi Sector and "Operation Davy Jones". Whether the Imperial forces manage to maintain their resolve in the face of stalwart defence and dissent at home remains to be seen.
+When asked for comment, Commander Great Gig of Lavigny Legion’s Velite Squadron had this to say: "When news travelled that Imperial Commanders were contacting the Federation for cooperation and help, I was saddened. Aren't we the mighty Empire of Achenar? Doesn't our history oppose their political and institutional corruption, their mind control through relentless propaganda and consumerism?" 
+
+For the past month, the eyes of the galaxy have been on the Pegasi Sector and “Operation Davy Jones”. Whether the Imperial forces manage to maintain their resolve in the face of stalwart defence and dissent at home remains to be seen. 
+
+Commander Cadoc

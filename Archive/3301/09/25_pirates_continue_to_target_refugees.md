@@ -5,22 +5,20 @@ slug: pirates_continue_to_target_refugees
 date: '3301-09-25'
 source: GitHub
 groups:
-  - Defence Force of Amitrite
-  - Imperial Navy
-  - Kumo Crew
+- Defence Force of Amitrite
+- Imperial Navy
 locations:
-  - Amitrite
-  - Pegasi Sector
-  - Munshin
+- Amitrite
+- Munshin
 topics:
-  - piracy
-  - refugees
-  - bounty
+- humanitarian
+- piracy
+- war
 arc_id: kumo-crew-rise
-arc_chapter: "Refugee crisis worsens"
-modern_impact: >
-  Pirates continue targeting refugees stopping in Amitrite to refuel en route to Munshin. The Imperial Navy and Defence Force of Amitrite issue bounties on the pirates, encouraging independent pilots to help.
-legacy_weight: 2
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
+legacy_weight: 3
+significance: medium
 ---
 
 Pirates Continue to Target Refugees

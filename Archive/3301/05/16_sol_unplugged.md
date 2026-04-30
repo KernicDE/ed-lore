@@ -1,26 +1,35 @@
 ---
-uuid: 8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c
-title: Sol Unplugged?
+uuid: 6649af89-171b-5512-b58f-1414eb5f61e7
+title: Sol Unplugged
 slug: sol_unplugged
 date: '3301-05-16'
 source: GitHub
-entities: []
 groups:
-  - Reynhardt Intellisys
-  - Utopixx Entertainment
+- Alliance
 locations:
-  - Sol
-  - Mars
+- Federal
+- Sol
 topics:
-  - economics
-  - virtual reality
-arc_id: misc
-modern_impact: VR market declining in Federal systems.
-legacy_weight: 1
+- construction
+- corporate expansion
+- research
+- war
+modern_impact: Infrastructure project with long-term benefits for the affected region.
+legacy_weight: 2
+significance: low
 ---
 
 Sol Unplugged?
 
-For the first time in almost a decade, Utopixx Entertainment has posted an operating loss of almost 5,000,000,000,000 credits. Investors were shocked by the news, which saw Reynhardt Intellisys shares drop by almost 14%.
 
-The losses are partly due to the construction of a completely new line of VR-Streams, but in-sim purchases within Federal markets have fallen below expected levels.
+For the first time in almost a decade, Utopixx Entertainment, the subsidiary of Reynhardt Intellisys responsible for some of the top virtual reality experiences in the galaxy, has posted an operating loss of almost 5,000,000,000,000 credits. 
+
+Investors were shocked by the news, which saw Reynhardt Intellisys shares drop by almost 14%. 
+
+Reynhardt Intellisys has issued the following statement in an attempt to explain the drastic change in profits: 
+
+“Overall, uptake of Utopixx products in Independent, Alliance and Imperial markets remains strong. We continue to see a yearly growth rate of between 1 and 2% per sector, which in many cases means that we are exceeding our targets.” 
+
+“The losses posted for this year are partly due to the construction of a completely new and extremely exciting line of VR-Streams, which includes the latest instalment in the popular CQC franchise.” 
+
+“In-sim purchases within Federal markets have fallen below expected levels, but an analysis of the market suggests that such losses are part of a general downward trend that appears to be affecting a wide range of media companies operating in Federal systems. The cause of this drop-off in purchases remains unclear at this time.”

@@ -4,24 +4,19 @@ title: Sirius Corporation Programme Ends Today
 slug: sirius_corporation_programme_ends_today
 date: '3301-11-18'
 source: GitHub
-entities:
-- Li Yong-Rui
 groups:
+- Sirius Corp
 - Sirius Corporation
 locations:
 - HIP 8396
-- Almagest
-- Sothis
-- Ceos
-- Robigo
+- Sirius
 topics:
 - corporate expansion
-- economics
-arc_id: corporate-history
-arc_chapter: Sirius programme concludes
-modern_impact: Sirius Corporation's revitalisation programme concludes. Li Yong-Rui
-  reports positive outcomes in the affected systems, with improved economic indicators
-  and social stability. The company thanks all independent contractors who participated.
+- humanitarian
+- ship
+- trade
+- war
+modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
 ---

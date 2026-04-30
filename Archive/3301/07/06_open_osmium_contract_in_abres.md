@@ -1,21 +1,31 @@
 ---
-uuid: 1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f
+uuid: 74e16f3f-dfdd-5e10-b831-85813c4f1d1a
 title: Open Osmium Contract in Abres
 slug: open_osmium_contract_in_abres
 date: '3301-07-06'
 source: GitHub
-entities: []
-groups: []
 locations:
-  - Abres
+- Torrance
 topics:
-  - mining
-  - trade
-arc_id: misc
-modern_impact: Routine mining contract in Abres.
-legacy_weight: 1
+- construction
+- investigation
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 Open Osmium Contract in Abres
 
-An open contract for osmium has been announced in the Abres system. Miners and traders are encouraged to participate.
+
+Open Osmium Contract in Abres 
+ 
+The governing authorities for Pangborn Dock in the Abres star system today released an open contract for a staggering quantity of Osmium. 
+
+Osmium is a relatively rare transition metal with outstanding hardness and durability properties. It is often used in specialist alloys for starship construction and other heavy industry. While it is uncommon, analysts claim that there is ample supply in circulation for current civilian and military manufacturing requirements. This has led to speculation that a new player may emerge in ship construction or even that a covert build-up of military ships is being prepared. 
+
+Dale Torrance, the Business Development Spokesperson for Pangborn Dock, refused to speculate on the rumours: 
+
+“Osmium is a material used throughout industry. As the chosen partner in this venture, we are pleased to announce that there will be significant credit bonuses for the successful completion of this contract.”  
+
+He then encouraged miners to investigate the contract for more information.

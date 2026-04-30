@@ -4,21 +4,20 @@ title: Emperor's Dawn Connected to Universal Cartographics Security Breach
 slug: emperors_dawn_connected_to_universal_cartographics_security_breach
 date: '3301-10-12'
 source: GitHub
-entities:
-- Commander Fionn Mac Cumhaill
 groups:
 - Emperor's Dawn
+- IISS
 - Universal Cartographics
 topics:
 - cyberattack
-- sabotage
-- exploration data
+- exploration
+- investigation
+- ship
+- succession
+- war
 arc_id: imperial-succession
-arc_chapter: Cartographics sabotage
-modern_impact: A Universal Cartographics contractor with Emperor's Dawn connections
-  altered a firmware update for discovery and surface scanners, encrypting exploration
-  data. Speculated to be designed to hamstring IISS efforts to locate Emperor's Dawn
-  bases. An arrest warrant has been issued.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

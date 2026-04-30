@@ -20,10 +20,8 @@ topics:
 - arrest
 arc_id: imperial-succession
 arc_chapter: Blaine apologises
-modern_impact: 'Blaine admits Aisling''s accusations are true: his staff conducted
-  a campaign of slander against her without his knowledge. Several staff members arrested
-  by Imperial Guard and IISS. His contrition may salvage his reputation but damages
-  his standing before the vote.'
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 5
 significance: high
 ---

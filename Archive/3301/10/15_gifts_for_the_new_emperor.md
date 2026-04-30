@@ -4,26 +4,18 @@ title: Gifts for the New Emperor
 slug: gifts_for_the_new_emperor
 date: '3301-10-15'
 source: GitHub
-entities:
-- Arissa Lavigny-Duval
 groups:
-- Imperial Palace
+- Imperial Navy
 locations:
-- Capitol
 - Achenar
-- Dawes Hub
+- Capitol
 topics:
-- coronation
+- ship
 - slavery
-- tradition
-arc_id: imperial-succession
-arc_chapter: Gifts for Arissa
-modern_impact: Arissa invites all galactic citizens to deliver coronation gifts —
-  in the form of slaves — to Achenar. Non-Imperial slaves will be reclassified as
-  Imperial slaves. Pilots receive discounts on Imperial ships and access to vessels
-  normally requiring Navy rank. Achenar permit restrictions temporarily lifted.
-legacy_weight: 3
-significance: medium
+- succession
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 Gifts for the New Emperor

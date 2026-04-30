@@ -4,23 +4,19 @@ title: Positive Response to Explorers' Association Request
 slug: positive_response_to_explorers_association_request
 date: '3301-11-04'
 source: GitHub
-groups:
-- Explorer's Association
 locations:
-- Pleiades Nebula
 - Kaushpoos
-- Neville Horizons
 topics:
 - construction
 - exploration
-- trade
+- piracy
+- ship
+- war
 arc_id: pleiades-expansion
-arc_chapter: Metal delivery progresses
-modern_impact: The Explorer's Association reports a positive response to its appeal
-  for metals to build the Pleiades Nebula starport. Hundreds of pilots have delivered
-  materials to Neville Horizons, advancing the construction project.
-legacy_weight: 2
-significance: low
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
+  new frontiers for exploration and potentially first contact.
+legacy_weight: 3
+significance: medium
 ---
 
 Positive Response to Explorers' Association Request

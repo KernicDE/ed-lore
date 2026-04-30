@@ -9,7 +9,7 @@ locations:
 topics:
 - genetic experiments
 - slavery
-modern_impact: GalNet community report documenting current events.
+modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---

@@ -4,20 +4,20 @@ title: Order Restored to Cayutorme
 slug: order_restored_to_cayutorme
 date: '3301-11-11'
 source: GitHub
+entities:
+- Corrigendum Order Restored
+- Quade
 groups:
 - Cayutorme Syndicate
-- Imperial Navy
+- Pilots Federation
 locations:
 - Cayutorme
 topics:
+- ship
 - war
-- crime
-- victory
 arc_id: cayutorme-conflict
-arc_chapter: Cayutorme secured
-modern_impact: Imperial forces restore order to the Cayutorme system, defeating the
-  Cayutorme Syndicate. The criminal organisation's leadership is arrested or killed.
-  The Empire claims a significant victory in its campaign against organised crime.
+modern_impact: A significant military engagement testing the Empire's ability to project
+  force against organized criminal syndicates.
 legacy_weight: 3
 significance: medium
 ---

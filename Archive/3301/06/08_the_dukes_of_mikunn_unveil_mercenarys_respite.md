@@ -1,25 +1,25 @@
 ---
-uuid: 0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e
-title: The Dukes of Mikunn Unveil Mercenary's Respite
+uuid: 8d070294-9468-5b76-bce0-e6183658ed76
+title: The Dukes of Mikunn Unveil Mercenary’s Respite
 slug: the_dukes_of_mikunn_unveil_mercenarys_respite
 date: '3301-06-08'
 source: GitHub
-entities: []
-groups:
-  - Dukes of Mikunn
-locations:
-  - Mikunn
-  - Leesti
-topics:
-  - mercenary
-  - infrastructure
-arc_id: misc
-modern_impact: Dukes of Mikunn establish a mercenary hub.
-legacy_weight: 1
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
-The Dukes of Mikunn Unveil Mercenary's Respite
+The Dukes of Mikunn Unveil Mercenary’s Respite
 
-The Dukes of Mikunn have unveiled a new station, Mercenary's Respite, designed to serve as a hub for independent mercenaries operating in the region.
 
-"We recognise the vital role that independent pilots play in maintaining security. Mercenary's Respite will provide them with the facilities they need to operate effectively."
+The Dukes of Mikunn Unveil Mercenary’s Respite 
+ 
+Thanks to the efforts of the Mercenaries of Mikunn, who were assisted in their endeavour to colonise a previously uninhabited region of space by hundreds of independent commanders, the Dukes of Mikunn are pleased to announce the opening of a new station in the area previously known as COL 285 Sector VG-1 B24-6.  
+
+Over 1 million tonnes of metal were collected in Kwatee last month to help construct “Mercenary’s Respite,” the Duke’s newest Coriolis station. Remoteness from major high-tech hubs and attempts at bureaucratic power plays by the Law Party of HR 7327 are blamed for the delay in opening the Duke’s latest military installation.  
+
+The Law Party’s assistance in constructing the station was initially offered in order to forge a lasting peace with the Dukes as part a cease-fire agreement in regards to HR 7327. Ironically, the Law Party lost an election to the Dukes during the truce, leading to the Dukes gaining control of both HR 7327 and COL 285 Sector VG-1 B24-6.  
+
+B24-6, as the locals call it, has been renamed “Sefrys” in honour of a fallen Mercs commander.  
+
+The Dukes of Mikunn urge all those who may have business with either the Dukes or the Mercs to contact their agents aboard Mercenary's Respite in order to make the appropriate arrangements.

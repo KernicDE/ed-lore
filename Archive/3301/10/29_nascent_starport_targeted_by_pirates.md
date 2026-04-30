@@ -4,21 +4,19 @@ title: Nascent Starport Targeted by Pirates
 slug: nascent_starport_targeted_by_pirates
 date: '3301-10-29'
 source: GitHub
-groups:
-- Explorer's Association
 locations:
-- Pleiades Nebula
 - Kaushpoos
+- Pleiades Nebula
 topics:
-- piracy
 - construction
+- exploration
+- piracy
+- trade
 arc_id: pleiades-expansion
-arc_chapter: Pirates target starport construction
-modern_impact: Pirates attack the construction site of the new Pleiades Nebula starport.
-  The Explorer's Association calls for pilots to protect the supply convoys and construction
-  vessels.
-legacy_weight: 2
-significance: low
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
+  new frontiers for exploration and potentially first contact.
+legacy_weight: 3
+significance: medium
 ---
 
 Nascent Starport Targeted by Pirates

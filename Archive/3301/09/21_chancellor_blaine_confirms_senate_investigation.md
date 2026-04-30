@@ -5,22 +5,14 @@ slug: chancellor_blaine_confirms_senate_investigation
 date: '3301-09-21'
 source: GitHub
 entities:
-  - Chancellor Anders Blaine
-  - Aisling Duval
-groups:
-  - Imperial Senate
-  - IISS
-locations:
-  - Capitol
-  - Achenar
+- Anders Blaine declared that
 topics:
-  - investigation
-  - scandal
-arc_id: imperial-succession
-arc_chapter: "Senate investigation confirmed"
-modern_impact: >
-  Blaine confirms the Senate will investigate Aisling's links to Emperor's Dawn even while in closed session. Aisling says she will comply and has discovered alarming information to share. Damon Clarke's associates were arrested by IISS.
-legacy_weight: 4
+- investigation
+- succession
+- terrorism
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 Chancellor Blaine Confirms Senate Investigation

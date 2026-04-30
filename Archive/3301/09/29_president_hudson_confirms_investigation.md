@@ -5,22 +5,23 @@ slug: president_hudson_confirms_investigation
 date: '3301-09-29'
 source: GitHub
 entities:
-  - President Zachary Hudson
-  - Felicia Winters
+- President Zachary Hudson
+- Felicia Winters
 groups:
-  - Federal Security Service
+- Federal Security Service
 locations:
-  - Sol
-  - Mars
-  - White House
+- Sol
+- Mars
+- White House
 topics:
-  - investigation
-  - conspiracy
+- investigation
+- conspiracy
 arc_id: federal-politics
-arc_chapter: "Hudson relents"
-modern_impact: >
-  Hudson confirms the Federal Security Service will lead an investigation into the Smeaton-Antares conspiracy. Winters responds that while she welcomes the response, Hudson is ignoring the call for an OPEN investigation. The political battle continues.
+arc_chapter: Hudson relents
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
 legacy_weight: 4
+significance: high
 ---
 
 President Hudson Confirms Investigation

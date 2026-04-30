@@ -11,10 +11,11 @@ locations:
 - Noti
 - Weber Gateway
 topics:
+- independence
 - ship
 - trade
 modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+legacy_weight: 2
 significance: low
 ---
 

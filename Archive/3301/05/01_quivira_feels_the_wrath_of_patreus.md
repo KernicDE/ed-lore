@@ -1,41 +1,33 @@
 ---
-uuid: 2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c
+uuid: 3b2828cd-f5eb-53bf-bcc9-6d72fd69cb72
 title: Quivira Feels the Wrath of Patreus
 slug: quivira_feels_the_wrath_of_patreus
 date: '3301-05-01'
 source: GitHub
 entities:
-  - Senator Denton Patreus
-groups:
-  - Quivira Electronics Plc
-  - People's Quivira for Equality Party
+- Patreus by
 locations:
-  - Quivira
-  - Godel Dock
-  - Stapledon Dock
+- Senator Patreus by the
+- Zaonce
 topics:
-  - debt collection
-  - war
-  - regime change
-arc_id: patreus-campaigns
-arc_chapter: "Quivira war begins"
-modern_impact: >
-  The Quivira war is Patreus's most aggressive debt-collection operation yet.
-  Unlike Themiscrya or Kui Hsien, Quivira is a populated system with organised
-  resistance. The initial Imperial assault seizing Godel Dock demonstrates
-  overwhelming force, but the People's Quivira for Equality Party's successful
-  counterattack shows that Quivira will not fall without a prolonged fight.
-  This war will become a rallying point for anti-Imperial sentiment across
-  the galaxy.
-legacy_weight: 4
+- corporate expansion
+- independence
+- ship
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 Quivira Feels the Wrath of Patreus
 
-Turmoil hit the small system of Quivira late last week, as thousands of Imperial pilots descended to deliver the wrath of Senator Denton Patreus on his debtors. In the first two days of the war, tens of thousands of Independent pilots lost their lives while bravely attempting to hold off Imperial forces from taking Godel Dock.
 
-Despite the defenders' best efforts, Imperial ground troops were able to storm the station, seizing control of Quivira's defence systems and effectively bringing an end to the conflict during the early hours of Sunday morning.
+Deep in the heart of the Empire, a handful of nations stand defiantly independent from their neighbours. 
 
-In the face of overwhelming loss, the People's Quivira for Equality Party were forced to retreat to Brendan Gateway to lick their wounds. Once the people's party leadership had successfully regrouped, they launched a counterattack in an attempt to retake Godel Dock. With the help of hundreds of Independent and Federal pilots, the People's Quivira for Equality Party and the Nationalists of Quivira were successful in forcing Quivira Electronics Plc to retreat back to Stapledon Dock.
+One such nation is Quivira. Home to 37.5 million residents, Quivira has managed to maintain its independence by acting as a major supplier of industrial goods to its neighbours.  
 
-War has once again engulfed Quivira. No quarter is being offered, and none is expected. For troops on the ground, the only acceptable outcome is overwhelming victory or a quick and painless death.
+Early last year Quivira suffered from a period of deep recession, during which time it took out a series of bridge loans with Silver Universal Plc . A recent increase in rates left the People’s Quivira for Equality Party unable to pay off their debts, a fact which has caused the system to become the victim of legal action carried out on behalf of Senator Patreus. 
+
+Quivira Electronics Plc, an Imperial corporation, has now been authorised to actively reclaim the debt owed to Senator Patreus by the system’s current leadership. As a first step towards that goal, Quivira Electronics Plc has taken ownership of Stepledon Dock. With the Senator’s blessing, Quivira Electronics is now hiring freelance reclamation agents to help extract the remaining debt. 
+
+In response, the People’s Quivira for Equality Party have set up a defence fund with the Bank of Zaonce, the contents of which will be paid out to any independent pilots who come to Quivira’s aid in its time of need. The defence of Quivira is being organised aboard Godel Dock.

@@ -8,12 +8,8 @@ groups:
 - Gutamaya Shipyards
 topics:
 - ship
-- trade
-- restriction
-modern_impact: Gutamaya Shipyards announces it will reinstate restrictions on Imperial
-  ship sales. The temporary relaxation of restrictions during Arissa's coronation
-  gift appeal is ending. Pilots who wish to purchase Imperial vessels must now meet
-  the usual Navy rank requirements.
+- succession
+modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---

@@ -4,26 +4,20 @@ title: Sirius Corporation Programme Begins Today
 slug: sirius_corporation_programme_begins_today
 date: '3301-11-05'
 source: GitHub
-entities:
-- Li Yong-Rui
 groups:
+- Sirius Corp
 - Sirius Corporation
 locations:
 - HIP 8396
-- Almagest
-- Sothis
-- Ceos
-- Robigo
+- Sirius
 topics:
 - corporate expansion
-- economics
+- trade
 arc_id: corporate-history
-arc_chapter: Sirius programme begins
-modern_impact: Sirius Corporation's revitalisation programme begins in its newly acquired
-  systems. Li Yong-Rui promises subsidies and support for initiatives to revive social
-  and economic health. Independent contractors and pilots are encouraged to participate.
-legacy_weight: 2
-significance: low
+modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape
+  several systems' economies.
+legacy_weight: 3
+significance: medium
 ---
 
 Sirius Corporation Programme Begins Today

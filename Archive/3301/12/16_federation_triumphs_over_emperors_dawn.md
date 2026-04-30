@@ -4,18 +4,18 @@ title: Federation Triumphs over Emperor's Dawn
 slug: federation_triumphs_over_emperors_dawn
 date: '3301-12-16'
 source: GitHub
+entities:
+- Zachary Hudson's response
 groups:
 - Emperor's Dawn
 - Federal Navy
 topics:
-- war
+- succession
 - terrorism
-- victory
+- war
 arc_id: imperial-succession
-arc_chapter: Federation defeats Emperor's Dawn
-modern_impact: Federal forces triumph over Emperor's Dawn in a significant engagement.
-  The insurgent organisation suffers heavy losses. The victory demonstrates inter-superpower
-  cooperation against the terrorist threat, though the Empire leads the overall campaign.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

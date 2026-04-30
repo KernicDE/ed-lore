@@ -4,12 +4,13 @@ title: Fake Gem Scam Discovered
 slug: fake_gem_scam_discovered
 date: '3301-12-17'
 source: GitHub
+locations:
+- Prism
 topics:
 - crime
-- fraud
-modern_impact: A fake gem scam is discovered in a major trade hub. Authorities warn
-  traders to be vigilant when purchasing precious stones. Several suspects have been
-  arrested.
+- trade
+- war
+modern_impact: Trade initiative affecting commodity markets and local economies.
 legacy_weight: 1
 significance: low
 ---

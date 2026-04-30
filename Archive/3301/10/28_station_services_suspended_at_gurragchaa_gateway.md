@@ -5,19 +5,16 @@ slug: station_services_suspended_at_gurragchaa_gateway
 date: '3301-10-28'
 source: GitHub
 locations:
-- Warkushanui
 - Gurragchaa Gateway
+- Warkushanui
 topics:
-- technical malfunction
-- unknown artefacts
-- station closure
-arc_id: unknown-artefacts
-arc_chapter: Gurragchaa services suspended
-modern_impact: Gurragchaa Gateway in Warkushanui suspends all station services due
-  to severe technical malfunctions. The station had been experiencing power outages
-  and system failures correlated with the presence of anomalous extraterrestrial objects.
-legacy_weight: 3
-significance: medium
+- construction
+- ship
+- trade
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 Station Services Suspended at Gurragchaa Gateway

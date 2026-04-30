@@ -7,7 +7,9 @@ source: GitHub
 groups:
 - Buckyball Racing Club
 locations:
+- George Lucas station
 - Jabbah
+- Kessel
 - Leesti
 - Sol
 topics:

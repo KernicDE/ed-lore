@@ -4,13 +4,12 @@ title: Another Jeffress Treasure Hunt
 slug: another_jeffress_treasure_hunt
 date: '3301-12-17'
 source: GitHub
-entities:
-- Alfred Jeffress
 topics:
+- sport
 - treasure hunt
-modern_impact: Alfred Jeffress announces yet another galaxy-wide treasure hunt. The
-  eccentric billionaire continues to engage the pilot community with elaborate riddles
-  and substantial prizes.
+- war
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
+  across the galaxy.
 legacy_weight: 1
 significance: low
 ---

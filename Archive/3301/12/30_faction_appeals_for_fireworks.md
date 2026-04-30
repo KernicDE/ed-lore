@@ -4,11 +4,16 @@ title: Faction Appeals for Fireworks
 slug: faction_appeals_for_fireworks
 date: '3301-12-30'
 source: GitHub
+locations:
+- Achenar
+- Alioth
+- Cherets
 topics:
 - festival
-- commodities
-modern_impact: A faction issues an appeal for fireworks to celebrate the New Year.
-  Pilots are invited to deliver pyrotechnic commodities in exchange for rewards.
+- safety
+- war
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
 significance: low
 ---

@@ -1,26 +1,33 @@
 ---
-uuid: 2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a
+uuid: ec25b521-ab95-54b8-9c06-204d7b69c46e
 title: Pilot Breaks Galactic Record Twice
 slug: pilot_breaks_galactic_record_twice
 date: '3301-05-22'
 source: GitHub
 entities:
-  - CMDR Alot
-  - CMDR Kligg
-groups:
-  - Pilots Federation
+- Alot
+- Alot by
+- Kligg
 locations:
-  - Sagittarius A*
+- Sagittarius A*
 topics:
-  - exploration
-  - record
-arc_id: misc
-modern_impact: CMDR Alot sets new Buckyball Run record.
+- sport
+modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
+significance: low
 ---
 
 Pilot Breaks Galactic Record Twice
 
-The accomplishments of independent pilots participating in the Buckyball Run A* rally race continue to make headlines. Commander Alot has beaten the galactic record for the quickest run twice in less than a month.
 
-Alot's current time to reach Sagittarius A* is an incredible 9 hours 39 minutes. However, Commander Kligg has already taken the lead by a mere 8 minutes.
+The accomplishments of independent pilots participating in the Buckyball Run A* rally race continue to make headlines around civilized space. This 26,000 light year rally race to the supermassive black hole at the centre of our galaxy has so far attracted over 40 fearless competitors. One of these competitors, Commander Alot, has made a name for himself by beating the galactic record for the quickest run twice in less than a month.  
+
+Alot’s current time to reach Sagittarius A*, an incredible 9 hours 39 minutes, was accomplished aboard a Faulcon DeLacy Anaconda named ‘Rhonda’. In comparison, his previous record-breaking attempt was done in 11 hours 46 minutes using a Lakon Spaceways Asp called the ‘Big Bird’.  
+
+When asked for a statement, Alot answered philosophically:  
+
+“Nothing lasts forever. I'm quite sure that in time my record will be beaten. In fact, I've already heard of several skilled pilots planning their next attempts, and I wish them the best of luck.” 
+
+At the time of broadcast, Commander Kligg has already taken the lead, passing Commander Alot by a mere 8 minutes, using an Anaconda named the ‘Rub Tub’. However, Kligg himself speculated in a short statement that it was only a matter of time before Alot climbs back to the first position. 
+
+Léonard Chamberlain - GalNet News Correspondent

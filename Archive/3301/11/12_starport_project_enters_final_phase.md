@@ -5,23 +5,21 @@ slug: starport_project_enters_final_phase
 date: '3301-11-12'
 source: GitHub
 groups:
-- Explorer's Association
 - Brewer Corporation
-- Pacap Limited
+- Explorer's Association
 - Universal Cartographics
 locations:
-- Pleiades Nebula
 - Kaushpoos
 - Neville Horizons
+- Pleiades Nebula
 topics:
 - construction
+- corporate expansion
 - exploration
-- starport
+- trade
 arc_id: pleiades-expansion
-arc_chapter: Final construction phase
-modern_impact: The Pleiades Nebula starport project enters its final phase. With sufficient
-  metals collected, construction of the superstructure begins. The Explorer's Association
-  thanks all contributing pilots and anticipates the station's completion.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
+  new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---

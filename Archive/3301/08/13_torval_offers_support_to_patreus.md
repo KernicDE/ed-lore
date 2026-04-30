@@ -1,49 +1,40 @@
 ---
-uuid: 0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e
+uuid: 4aa8f9d6-81d7-5197-b8b4-7a3127e607b6
 title: Torval Offers Support to Patreus
 slug: torval_offers_support_to_patreus
 date: '3301-08-13'
 source: GitHub
 entities:
-  - Senator Zemina Torval
-  - Senator Denton Patreus
-  - Emperor Hengist Duval
-  - Brendan Paul Darius
+- Patreus about his connection
+- Zemina Torval
 groups:
-  - Mastopolos Mining
-  - Imperial Senate
+- Imperial Naval Infantry
+- Mastopolos Mining
 locations:
-  - Capitol
-  - Achenar
-  - Hall of Martyrs
+- Capitol
+- Denton
 topics:
-  - political alliance
-  - defence
-arc_id: imperial-succession
-arc_chapter: "Torval defends Patreus"
-modern_impact: >
-  Torval's defence of Patreus is the first major political alliance
-  formed in the post-Hengist Empire. Her condemnation of the mob
-  — "these rebels descend into near-barbarism" — and her assertion
-  that "Denton represents what is strong within the Empire" frame
-  Patreus as a victim rather than a suspect. This alliance between
-  the Empire's richest senator and its most powerful military
-  commander creates a bloc that can challenge Arissa's claim to
-  the throne. The fact that Torval spoke at a Mastopolos Mining
-  event suggests corporate backing for the Patreus-Torval axis.
-legacy_weight: 4
+- independence
+- scandal
+- succession
+modern_impact: Independence movement challenging established political authority.
+legacy_weight: 2
+significance: low
 ---
 
 Torval Offers Support to Patreus
 
-Some of the more sordid elements of Imperial media have continued their campaign against Senator Patreus about his connection with Emperor Hengist Duval's killer.
 
-Over the past week Senator Patreus and his followers staying on Capitol have endured abuse from their accusers whenever they appear in public. This escalated into violence today as the Senator visited the Hall of Martyrs for his own viewing of the Emperor's body. When he arrived a mob formed and tried to prevent him entering the vestibule and reacted angrily when Patreus' own guards attempted to force a passage. Imperial Naval infantry on the scene separated the parties and allowed Senator Patreus to enter the Hall.
+Torval Offers Support to Patreus 
+ 
+Some of the more sordid elements of Imperial media have continued their campaign against Senator Patreus about his connection with Emperor Hengist Duval’s killer. 
 
-After the incident Senator Zemina Torval was the first to condemn the behaviour in a statement to guests and press at an event with Mastopolos Mining:
+Over the past week Senator Patreus and his followers staying on Capitol have endured abuse from their accusers whenever they appear in public. This escalated into violence today as the Senator visited the Hall of Martyrs for his own viewing of the Emperor’s body. When he arrived a mob formed and tried to prevent him entering the vestibule and reacted angrily when Patreus’ own guards attempted to force a passage. Imperial Naval infantry on the scene separated the parties and allowed Senator Patreus to enter the Hall. 
 
-"This kind of insolent behaviour does not reflect well upon these groups or our beloved Empire itself. In this time of mourning we should all be mindful of our actions. The Emperor has been dead for only a few days and these rebels descend into near-barbarism. They should be cast out of the Empire."
+After the incident Senator Zemina Torval was the first to condemn the behaviour in a statement to guests and press at an event with Mastopolos Mining: 
 
-When asked about the accusations she scornfully replied:
+“This kind of insolent behaviour does not reflect well upon these groups or our beloved Empire itself. In this time of mourning we should all be mindful of our actions. The Emperor has been dead for only a few days and these rebels descend into near-barbarism. They should be cast out of the Empire.” 
 
-"Denton represents what is strong within the Empire. His loyalty to the Emperor is unquestioned and anyone suggesting otherwise is a fool."
+When asked about the accusations she scornfully replied: 
+
+“Denton represents what is strong within the Empire. His loyalty to the Emperor is unquestioned and anyone suggesting otherwise is a fool.”

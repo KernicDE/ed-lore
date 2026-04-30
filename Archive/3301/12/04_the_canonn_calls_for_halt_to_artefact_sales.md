@@ -17,9 +17,8 @@ topics:
 - safety
 arc_id: unknown-artefacts
 arc_chapter: Canonn calls for sales ban
-modern_impact: Dr. Arcanonn and the Canonn call for a halt to all sales and transport
-  of unknown artefacts. Citing the growing evidence of their destructive effect on
-  station systems, the Canonn urges pilots to stop trading in the objects immediately.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 4
 significance: high
 ---

@@ -18,10 +18,8 @@ topics:
 - independence
 arc_id: unknown-artefacts
 arc_chapter: Palin resumes independent research
-modern_impact: Professor Palin defiantly resumes his research into anomalous extraterrestrial
-  objects at Christian Dock in Nganji, after his Federation-backed programme was terminated.
-  He refuses to speculate on why it was cancelled, stating the objects represent a
-  potentially momentous scientific discovery.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 4
 significance: high
 ---

@@ -5,21 +5,18 @@ slug: prime_minister_mahon_holds_influence_over_1000_systems
 date: '3301-10-12'
 source: GitHub
 entities:
-- Edmund Mahon
-- Commander NOIR1787
+- Mahon Holds Influence over 1
+- NOIR1787
 groups:
 - Alliance
+- Interstellar Press
 locations:
 - Alioth
 topics:
 - trade
-- diplomacy
-- expansion
 arc_id: alliance-expansion
-arc_chapter: Mahon's 1,000th agreement
-modern_impact: Edmund Mahon signs his 1,000th trade agreement — a testament to the
-  Alliance's growing power. Despite having far less territory than the Empire or Federation,
-  Mahon's diplomatic skill has made the Alliance a major galactic power.
+modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence
+  through Mahon's trade agreements.
 legacy_weight: 3
 significance: medium
 ---

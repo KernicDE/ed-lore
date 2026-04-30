@@ -1,48 +1,31 @@
 ---
-uuid: 1e2f3a4b-5c6d-7e8f-9a0b-1c2d3e4f5a6b
+uuid: dcd1dfdf-7dc6-564e-8cc9-bf752c33764a
 title: Zachary Hudson Becomes the New President of the Federation
 slug: zachary_hudson_becomes_the_new_president_of_the_federation
 date: '3301-06-02'
 source: GitHub
-entities:
-  - President Zachary Hudson
-  - President Halsey
-  - Felicia Winters
-groups:
-  - Congress
-  - Federal Navy
 locations:
-  - Mars
-  - Sol
+- Federal government among frontier
+- Mars
 topics:
-  - inauguration
-  - power transition
-  - new administration
+- construction
+- ship
 arc_id: federal-politics
-arc_chapter: "Hudson inaugurated"
-modern_impact: >
-  Zachary Hudson's inauguration as President of the Federation is a seismic
-  political shift. His acceptance speech — "I will not rest until the
-  Federation is once again the dominant power in the galaxy" — signals a
-  dramatic break from Halsey's diplomatic approach. His appointment of
-  Brad Mitchell as Vice President reveals a preference for military men
-  over politicians. The unresolved disappearance of Halsey and Naylor
-  creates a permanent legitimacy question: Hudson is President because
-  his predecessor vanished, not because the people chose him. This will
-  define his entire administration.
-legacy_weight: 5
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
+legacy_weight: 4
+significance: high
 ---
 
 Zachary Hudson Becomes the New President of the Federation
 
-Zachary Hudson was sworn in as the new President of the Federation today, following the Congressional vote that removed Felicia Winters from the acting presidency.
 
-In his inaugural address, Hudson promised a new era of strength and security for the Federation.
+The results are in and Zachary Hudson is the overwhelming choice for the new President of the Federation. 
 
-"My fellow citizens, we face uncertain times. But one thing is certain: the Federation will not falter under my leadership. I will not rest until the Federation is once again the dominant power in the galaxy."
+A record number of attendees appeared in Congress on Mars to take part in yesterday's Vote of No Confidence against the Liberal Administration, with almost every member of Congress appearing in person to cast their vote. 
 
-Hudson also announced that Brad Mitchell, a retired Federal Navy admiral, would serve as his Vice President.
+In the end, a shocking 66% of Congress voted to remove the Liberal Administration from office, a clear indicator that the collected Federal worlds feel a change in leadership style is necessary. Surprisingly, a large number of known Liberal supporters voted to remove their own leadership from power. Most commentators agree that this is a reflection on Halsey’s actions and the current unpopularity of Federal government among frontier systems. Winters needs to build her own supporter base before she can bring power back to the Liberals. 
 
-"Brad Mitchell is a man of action, not words. He will help me restore the Federation to its rightful place at the pinnacle of human civilisation."
+President Hudson will be officially sworn into office later today, after which he is expected to spend the remainder of the week finalising his administration. Most of the previous Shadow Cabinet are expected to be included, although as always some change is inevitable. 
 
-The whereabouts of former President Halsey and Vice President Naylor remain unknown.
+The Federal Republican Association has gained a massive swell of support over the last year. Now that President Hudson is officially in office, we can expect a much more aggressive stance on decision-making coming from Mars once the new administration is fully established.

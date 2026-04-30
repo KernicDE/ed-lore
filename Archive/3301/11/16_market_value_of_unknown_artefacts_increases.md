@@ -5,20 +5,12 @@ slug: market_value_of_unknown_artefacts_increases
 date: '3301-11-16'
 source: GitHub
 groups:
-- Canonn Interstellar Research Group
-locations:
-- Maia
-- Varati
+- Money Matters
 topics:
-- unknown artefacts
 - trade
-- black market
 arc_id: unknown-artefacts
-arc_chapter: UA market value rises
-modern_impact: The market value of unknown artefacts increases significantly on the
-  black market. Despite warnings from the Canonn about their danger, traders continue
-  to transport and sell the objects. The rising prices attract more pilots to the
-  dangerous trade.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---

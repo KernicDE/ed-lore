@@ -1,41 +1,26 @@
 ---
-uuid: 2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c
+uuid: fc7e283c-7f21-59e2-ab99-16941d424548
 title: The Loss of Starship One Linked to Mechanical Failure
 slug: the_loss_of_starship_one_linked_to_mechanical_failure
 date: '3301-06-02'
 source: GitHub
-entities:
-  - President Halsey
-  - Vice President Ethan Naylor
-  - President Zachary Hudson
 groups:
-  - Federal Navy
-locations:
-  - Azaleach
-  - Sol
+- Federal Navy
 topics:
-  - investigation
-  - cover-up
-arc_id: federal-politics
-arc_chapter: "Official explanation"
-modern_impact: >
-  The official finding that mechanical failure caused Spaceflight One's
-  disappearance is suspiciously convenient for Hudson. Announced on the
-  same day as his inauguration, it allows him to claim the crisis is
-  resolved while avoiding questions about sabotage. The "faulty frame-shift
-  drive component" explanation mirrors the Antares incident, suggesting
-  either a genuine technical flaw or a carefully constructed cover story.
-  Many will never believe this explanation, and the "Halsey was murdered"
-  theory will persist for decades.
-legacy_weight: 4
+- research
+- ship
+arc_id: antares-mystery
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
+  with implications for hyperdrive safety.
+legacy_weight: 3
+significance: medium
 ---
 
 The Loss of Starship One Linked to Mechanical Failure
 
-Federal Navy investigators have concluded that the disappearance of Spaceflight One was caused by a catastrophic mechanical failure.
 
-According to the official report, a faulty frame-shift drive component malfunctioned during the ship's jump to Azaleach, causing the vessel to become stranded in hyperspace.
+The Federal Navy has today released its official report into the disappearance of Starship One. As expected, the 600,000 word document provides a detailed analysis of the inner workings of Starship One. 
 
-"This was a tragic accident, not an act of sabotage," the report states. "The component in question had been flagged for replacement but the work had not been completed before the President's departure."
+The report confirms that the abnormal energy signature detected by Guardian Wing Alpha, immediately prior to Starship One’s last known jump, was almost certainly caused by mechanical failure. The report includes an in depth comparison with the failure of the Highliner Antares and concludes there were remarkable similarities in the unusual failure mode, and it is still unclear why the automatic shutdown systems did not operate (most of which were not present on the Antares). The failure began with a power surge in the central power plant – something not especially unusual in a high capacity hydrogen reactor – causing several other core systems to overload.   
 
-President Hudson has ordered a full review of Federal Navy maintenance protocols and promised that "such a tragedy will never happen again."
+Despite going over hours of evidence, including video feeds detailing the last several days of life aboard all four ships of Starflight One, investigators were not able to identify any signs of foul play. In the end, the team has concluded that the cause of Starship One’s loss was a complex multi-stage engine failure.

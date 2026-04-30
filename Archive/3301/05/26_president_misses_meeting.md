@@ -1,36 +1,25 @@
 ---
-uuid: 2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e
+uuid: 25fa737c-97f7-5527-82e8-ad3144d88779
 title: President Misses Meeting
 slug: president_misses_meeting
 date: '3301-05-26'
 source: GitHub
 entities:
-  - President Halsey
-  - Felicia Winters
-groups:
-  - Federal Navy
+- Misses Meeting
 locations:
-  - Tinia
-  - Azaleach
-  - Sol
+- Mars
 topics:
-  - disappearance
-  - emergency
-arc_id: federal-politics
-arc_chapter: "First sign of trouble"
-modern_impact: >
-  The first report of Halsey missing a scheduled meeting on Tinia is the
-  moment the disappearance becomes public. Winters's emergency broadcast
-  confirms that Spaceflight One went dark after an unscheduled detour to
-  Azaleach. The 12-hour delay between the disappearance and public
-  announcement suggests initial attempts to locate the ship failed.
-legacy_weight: 4
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
+significance: low
 ---
 
 President Misses Meeting
 
-President Halsey failed to attend a scheduled meeting with local officials in Tinia today, prompting concerns about the whereabouts of Spaceflight One.
 
-Acting President Winters addressed the nation in an emergency broadcast, confirming that contact with the President's ship had been lost following entry into hyperspace.
+Reports coming in from Saga indicate that the President has missed her scheduled meeting with delegates aboard Zudov Terminal. Maisy Stevenson, the leader of the Saga Republic Party, expressed her concern to GalNet in the following statement: 
 
-"We are doing everything in our power to locate the President and Vice President. The Federal Navy has scrambled search and rescue teams to the last known coordinates."
+“We were expecting Starflight One to arrive a little under 38 hours ago. An escort was sent to meet Starflight One at the prearranged location, but the ship simply didn’t appear. We informed Mars and were told that the President had decided to take a last-minute detour.” 
+
+“I understand the President’s time is precious, but it would have been nice to get a little bit of advance notice. The people of Saga spent a not inconsiderable amount of time and credits preparing to greet the President, and now their hard work appears to have gone to waste. I do hope that the President manages to find time for us in her seemingly busy schedule. I would hate to think that the people of Saga had in some way been snubbed by Halsey.”

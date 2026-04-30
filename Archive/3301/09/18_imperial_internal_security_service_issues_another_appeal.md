@@ -5,23 +5,20 @@ slug: imperial_internal_security_service_issues_another_appeal
 date: '3301-09-18'
 source: GitHub
 entities:
-  - Agent Cope
+- Cope
 groups:
-  - Imperial Internal Security Service
-  - Cemiess Empire Party
-  - Emperor's Dawn
+- IISS
+- Imperial Internal Security Service
 locations:
-  - Cemiess
-  - Mackenzie Relay
+- Cemiess
+- Mackenzie Relay
 topics:
-  - intelligence
-  - exploration data
-  - counter-terrorism
-arc_id: imperial-succession
-arc_chapter: "IISS continues hunt"
-modern_impact: >
-  The IISS's second appeal for exploration data explicitly targets Emperor's Dawn. Agent Cope states the insurgents represent a significant threat and exploration data will be used to locate their bases. This crowdsourced intelligence approach turns the galaxy into a surveillance network.
-legacy_weight: 3
+- exploration
+- succession
+- terrorism
+modern_impact: Notable exploration achievement expanding the boundaries of known space.
+legacy_weight: 2
+significance: low
 ---
 
 Imperial Internal Security Service Issues another Appeal

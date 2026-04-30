@@ -1,24 +1,20 @@
 ---
-uuid: 3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b
+uuid: 9f8a71d4-e5b2-5d70-8887-897ae3a03eb6
 title: Alliance and Sirius Corp Pilots Celebrate Agreement
 slug: alliance_and_sirius_corp_pilots_celebrate_agreement
 date: '3301-07-20'
 source: GitHub
-entities: []
 groups:
-  - Alliance
-  - Sirius Corporation
+- Alliance
+- Sirius Corp
 locations:
-  - Lembava
-  - Alioth
-topics:
-  - celebration
-  - trade
-arc_id: alliance-expansion
-modern_impact: Pilots celebrate Alliance-Sirius trade agreement.
-legacy_weight: 1
+- Sirius
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 Alliance and Sirius Corp Pilots Celebrate Agreement
 
-Alliance and Sirius Corp pilots have celebrated their new trade agreement, with festivities held in several systems.
+
+Alliance and Sirius Corp Pilots Celebrate Agreement

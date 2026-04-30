@@ -23,10 +23,8 @@ topics:
 - gender
 arc_id: imperial-succession
 arc_chapter: Arissa declared Emperor
-modern_impact: The Senate declares Arissa Lavigny-Duval Emperor by clear majority.
-  First female ruler since Marlin Duval in the 23rd century. Title is 'Emperor' not
-  'Empress.' Hengist's repeal of the male-only decree made this possible. Emperor's
-  Dawn vows to prevent the coronation ceremony.
+modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption
+  stance and military focus shape Imperial policy for years to come.
 legacy_weight: 5
 significance: high
 ---

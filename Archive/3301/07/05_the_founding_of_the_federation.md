@@ -1,43 +1,42 @@
 ---
-uuid: 5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d
+uuid: 0044ac89-dd97-5198-9eeb-55ddd5202574
 title: The Founding of the Federation
 slug: the_founding_of_the_federation
 date: '3301-07-05'
 source: GitHub
-entities:
-  - President Zachary Hudson
-groups:
-  - Federal Congress
 locations:
-  - Mars
-  - Sol
-  - Earth
+- Achenar
+- Mars
+- Sol
 topics:
-  - history
-  - federation anniversary
-arc_id: federal-politics
-arc_chapter: "Federal history"
-modern_impact: >
-  Hudson's speech on the Federation's founding — delivered on the
-  anniversary of the Federation's creation in 2242 — reframes Federal
-  history as a narrative of military strength and expansion. His
-  emphasis on "the brave men and women who fought to create the
-  Federation" is a call to arms, not a historical reflection. By
-  linking the founding to current challenges, Hudson justifies his
-  military buildup as a return to Federal roots. The speech's
-  political purpose is clear: to legitimise his presidency by
-  wrapping it in the flag of Federal history.
-legacy_weight: 3
+- corporate expansion
+- exploration
+- ship
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 The Founding of the Federation
 
-President Hudson delivered a speech today commemorating the founding of the Federation in 2242.
 
-"One thousand and fifty-nine years ago, a group of brave men and women came together to create something new. Something that would stand for freedom, democracy, and strength. That something was the Federation."
+The Founding of the Federation 
+ 
+The Founding of the Federation 
 
-Hudson drew parallels between the challenges faced by the Federation's founders and those facing the Federation today.
+In this new series exclusive to GalNet, famed historian Sima Kalhana visits the defining moments of human history since our first brave steps into space and to the star-spanning species we have since become. In this first article, she talks about the founding of the Federation. With a history spanning millennia, it is the oldest of the major factions. 
 
-"They faced war, poverty, and tyranny. We face piracy, Imperial aggression, and internal division. But just as they prevailed, so shall we."
+- 
 
-The speech was broadcast across all Federal systems and was met with mixed reactions — enthusiastic support from military circles, sceptical silence from academic and diplomatic communities.
+In this modern age it’s hard for us to imagine that before the Federation, humanity existed on just a single world, bar a few small colonies on Mars and the Moon. Even stranger to our current experience was the fact that so many disparate tribal groupings, or ‘countries’ existed on one world. 
+
+The Federation arose from the ashes of the Third World War in the mid 21st century. The war caused tremendous devastation across the planet, decimating the population.   
+
+Many different factors changed humanity’s outlook after that. The rise of the corporations, the discovery of the first fossils on Mars, and the explosive exploration triggered by the invention of the hyperdrive by Li Qin Jao and others in the 22nd century, first by unmanned probes, then with manned craft, overtaking the generation ships sent in the previous decades. Despite the huge dangers involved, a massive land-grab followed, fuelled by the voracious corporations. 
+
+It wasn’t until some of the ecological excesses of these early colonists became apparent over a century later that Earth took its first steps, founding the Federation and  becoming the colossal entity it is now, creating some order in what had become an unruly free-for-all. 
+
+ In 2242 the Federation Accord was created outlining certain rights and responsibilities for members, uniting many of the new colonies, by force in some cases. After a short conflict the Taylor Colony in Tau Ceti bacame the first signatory outside the Sol system. The name of the Federation was also changed at this time to the ‘Federation of Star Systems’, but the name didn’t stick and quickly returned to just the Federation. 
+
+From that point the Federation provided a stable framework to facilitate the further expansion of humanity to ever more distant star systems but not all colonies wanted a part of this. A distant early colony, formed by a band of political idealists as far from Earth as they could manage, in the system of Achenar would eventually spark another defining moment for the Federation and indeed humanity as a whole.

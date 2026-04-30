@@ -4,21 +4,27 @@ title: Services Suspended at Gaiman Dock and Weyn Dock
 slug: services_suspended_at_gaiman_dock_and_weyn_dock
 date: '3301-11-25'
 source: GitHub
+groups:
+- Canonn
+- Canonn Interstellar Research Group
 locations:
 - 49 Arietis
+- 64 Arietis
+- Arawere
+- Authorities in the 64 Arietis
 - Gaiman Dock
+- Sol
+- Varati
+- Warkushanui
 - Weyn Dock
 topics:
-- technical malfunction
-- unknown artefacts
-- station closure
-arc_id: unknown-artefacts
-arc_chapter: More stations suspend services
-modern_impact: Station services are suspended at Gaiman Dock and Weyn Dock in 49 Arietis
-  due to severe technical malfunctions. The pattern of station shutdowns linked to
-  unknown artefacts continues to expand.
-legacy_weight: 3
-significance: medium
+- construction
+- research
+- ship
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 Services Suspended at Gaiman Dock and Weyn Dock

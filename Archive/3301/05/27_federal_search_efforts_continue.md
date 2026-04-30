@@ -1,37 +1,40 @@
 ---
-uuid: 3c4d5e6f-7a8b-9c0d-1e2f-3c4d5e6f7a8b
+uuid: b8672130-0141-52f4-9188-4fe0efb5846b
 title: Federal Search Efforts Continue
 slug: federal_search_efforts_continue
 date: '3301-05-27'
 source: GitHub
-entities:
-  - President Halsey
-  - Vice President Ethan Naylor
-  - Felicia Winters
 groups:
-  - Federal Navy
+- Core Dynamics
+- Federal Navy
+- Sirius Corp
+- Sirius Corporation
 locations:
-  - Azaleach
-  - Sol
+- Sirius
 topics:
-  - search and rescue
-  - disappearance
-arc_id: federal-politics
-arc_chapter: "Search continues"
-modern_impact: >
-  The search for Spaceflight One continues with no success. Winters's
-  statement that "we will not rest until we find them" is noble but
-  increasingly hollow as hours turn to days. The lack of wreckage or
-  distress signals points to either a hyperspace anomaly (the Antares
-  theory) or deliberate concealment. The Federal Navy's inability to
-  trace the vessel undermines confidence in their technological supremacy.
-legacy_weight: 3
+- corporate expansion
+- humanitarian
+- ship
+- slavery
+- sport
+arc_id: halsey-presidency
+modern_impact: President Halsey's controversial military orders strain Federal politics
+  and set the stage for her eventual removal.
+legacy_weight: 4
+significance: high
 ---
 
 Federal Search Efforts Continue
 
-Acting President Winters has confirmed that Federal Navy search teams are continuing their efforts to locate Spaceflight One.
 
-"We have ships scouring the space between Tinia and Azaleach, as well as the surrounding systems. The Federal Navy is using every resource at its disposal to find the President and Vice President."
+It has been almost 48 hours since the disappearance of Starship One. Early reports indicated that the ship was lost with all hands, and in this instance GalNet is pleased to announce that the early reports were mistaken. Three ships from Starship One’s Guardian Wing made contact with Navy HQ shortly after the initial disappearance. Unfortunately, they were not able to shed any light on the ultimate fate of Starship One.  
 
-"I want to assure the American people that we will not rest until we find them and bring them home safely."
+Despite thousands of Federal scouts combing the sectors along Starship One's secured route, designated Spaceflight One, no trace of the missing ship has been found. 
+
+Specialist teams from Core Dynamics and the Sirius Corporation are currently attempting to analyse the wake and uplink data captured by the President’s Guardian Wing escorts in the moments before all four ships jumped. Theories involve either a rare misjump or some sort of catastrophic drive failure.  Unfortunately, results so far are inconclusive as to what may have happened to President Halsey and her team. 
+
+One member of the crew of one of the President’s Guardian Wing, who wished to remain nameless, spoke exclusively to GalNet about the last moments before the President’s disappearance. 
+
+“I’ve never seen anything like it. One minute everything was fine. Pre-jump checks? Normal. Engine power? Normal. Our drives were slaved to Starship One, as is normal. The entry to hyperspace seemed normal at first, but then there was a terrible shock wave and our ship started tumbling. We exited hyperspace uncontrolled and in deep space – something I’ve never seen before. Our ship had taken damage. We couldn’t reach Starship One via comms, but managed to make contact with the other two members of the Guardian Wing. We first searched the deep space around our positions, then jumped to the destination point rendezvous as quickly as we could. Nothing. Not even wreckage. ” 
+
+The Federal Navy are requesting that any pilots interested in helping to search along the Starflight One route should sign up for active duty as a member of the search and rescue team aboard Leoniceno Orbital in Azaleach.

@@ -4,15 +4,17 @@ title: Faction Issues Appeal for Onionhead
 slug: faction_issues_appeal_for_onionhead
 date: '3301-11-19'
 source: GitHub
+locations:
+- Kappa Fornacis
 topics:
-- commodities
-- trade
+- corporate expansion
 - narcotics
-modern_impact: A faction issues an appeal for Onionhead, a rare narcotic commodity.
-  The request attracts both legitimate traders and criminal elements. The faction
-  declines to explain why they need the substance.
-legacy_weight: 1
-significance: low
+- trade
+arc_id: onionhead-conflict
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
+  and local agricultural economies.
+legacy_weight: 3
+significance: medium
 ---
 
 Faction Issues Appeal for Onionhead

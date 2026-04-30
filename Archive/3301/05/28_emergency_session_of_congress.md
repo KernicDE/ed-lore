@@ -1,41 +1,31 @@
 ---
-uuid: 5e6f7a8b-9c0d-1e2f-3c4d-5e6f7a8b9c0d
+uuid: 9814b160-c142-5d74-9710-9c895bd4212e
 title: Emergency Session of Congress
 slug: emergency_session_of_congress
 date: '3301-05-28'
 source: GitHub
 entities:
-  - Felicia Winters
-  - Shadow President Hudson
-groups:
-  - Congress
-  - Federal Navy
-locations:
-  - Mars
-  - Sol
+- Hudson today called
+- Winters took
 topics:
-  - emergency session
-  - constitutional crisis
+- narcotics
+- ship
 arc_id: federal-politics
-arc_chapter: "Congress debates"
-modern_impact: >
-  The emergency Congressional session reveals the political fracture lines
-  in the Federation's response to crisis. Hudson's demand for a vote of no
-  confidence is a brazen power grab during an active emergency. Winters's
-  defence — that she is maintaining "stability and continuity" — is legally
-  correct but politically weak. The session establishes the framework for
-  the constitutional crisis that will end with Hudson becoming President.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
 legacy_weight: 4
+significance: high
 ---
 
 Emergency Session of Congress
 
-Congress convened in emergency session today to discuss the ongoing crisis surrounding the disappearance of President Halsey.
 
-Acting President Winters addressed the chamber, outlining the steps being taken to locate Spaceflight One and reassuring members that the Federation remains stable under her leadership.
+Shadow President Hudson today called an Emergency Session of Congress to address concerns surrounding Starship One’s disappearance. 
 
-"My priority is maintaining stability and continuity of government during this difficult time. The Federal Navy is doing everything possible to find the President."
+During the meeting, the Shadow President openly mocked the idea that Starship One’s disappearance could have been caused by simple engine failure. 
 
-However, Shadow President Hudson used the session to demand a formal vote of no confidence in Winters's acting presidency, arguing that the Federation needs strong leadership, not a caretaker.
+“Jasmina and I weren’t close – heck, we hated each other, and that’s the truth of it. But the idea, the very notion, that our best and brightest out there on Starship One would have let that bird fly with a busted engine... No way. Those guys are military. We need to be looking for who did it. We need to nail them NOW. The assassin is busy covering their tracks while we speak. This dithering inaction and woolly thinking is typical of this administration. Let’s face it Halsey had enough enemies like those onionhead guys, numerous frontier systems she has annoyed, and the elephant in the room – the Empire.” 
 
-"We cannot afford to drift while our President is missing. The Federation needs a leader with a mandate, not a placeholder."
+Acting President Winters took a more levelled approach. 
+
+“I appreciate the sheer gamut of emotions my esteemed colleague must be feeling, but at times like these, level heads must prevail. We have found no evidence of foul play as yet.  Our engineers are sifting through copious amounts of data and so far it does look like a very unusual catastrophic failure rather than sabotage.”

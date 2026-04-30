@@ -4,13 +4,11 @@ title: Jeffress's Second Treasure Hunt
 slug: jeffresss_second_treasure_hunt
 date: '3301-10-29'
 source: GitHub
-entities:
-- Alfred Jeffress
 topics:
+- sport
 - treasure hunt
-modern_impact: Eccentric billionaire Alfred Jeffress announces his second galaxy-wide
-  treasure hunt. The prize is another share of his fortune. Pilots across the galaxy
-  prepare to decipher his latest riddles.
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
+  across the galaxy.
 legacy_weight: 1
 significance: low
 ---

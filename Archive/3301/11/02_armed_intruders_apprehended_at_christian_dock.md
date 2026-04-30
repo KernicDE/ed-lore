@@ -4,21 +4,19 @@ title: Armed Intruders Apprehended at Christian Dock
 slug: armed_intruders_apprehended_at_christian_dock
 date: '3301-11-02'
 source: GitHub
-groups:
-- Emperor's Dawn
+entities:
+- Ishmael Palin's research into
+- Palin's research
 locations:
 - Christian Dock
 - Nganji
 topics:
-- terrorism
-- security
+- cyberattack
+- investigation
 - research
-arc_id: imperial-succession
-arc_chapter: Intruders at Palin's research base
-modern_impact: Armed intruders are apprehended at Christian Dock, Professor Palin's
-  independent research base. The suspects are believed to have connections to Emperor's
-  Dawn. The incident raises concerns about the safety of Palin's research into anomalous
-  extraterrestrial objects.
+arc_id: unknown-artefacts
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---

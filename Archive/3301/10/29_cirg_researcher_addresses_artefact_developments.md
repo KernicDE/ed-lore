@@ -5,26 +5,21 @@ slug: cirg_researcher_addresses_artefact_developments
 date: '3301-10-29'
 source: GitHub
 entities:
-- Dr. Arcanonn
+- Ishmael Palin
 groups:
+- Canonn
 - Canonn Interstellar Research Group
 locations:
-- Maia
+- Merope
 - Varati
-- Warkushanui
-- 49 Arietis
 topics:
-- unknown artefacts
 - research
-- technical malfunction
+- war
 arc_id: unknown-artefacts
-arc_chapter: Canonn addresses UA-station link
-modern_impact: Dr. Arcanonn of the Canonn confirms the correlation between unknown
-  artefacts and station malfunctions. The Canonn calls for caution in transporting
-  UAs near populated stations. The objects' ability to interfere with technology poses
-  a growing threat to starport operations.
-legacy_weight: 4
-significance: high
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
+legacy_weight: 3
+significance: medium
 ---
 
 CIRG Researcher Addresses Artefact Developments

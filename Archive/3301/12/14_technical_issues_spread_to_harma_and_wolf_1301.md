@@ -8,15 +8,10 @@ locations:
 - Harma
 - Wolf 1301
 topics:
-- technical malfunction
-- unknown artefacts
-arc_id: unknown-artefacts
-arc_chapter: Malfunctions spread further
-modern_impact: Technical malfunctions linked to unknown artefacts spread to Harma
-  and Wolf 1301. The expanding pattern of station breakdowns raises serious concerns
-  about the safety of transporting UAs through populated systems.
-legacy_weight: 3
-significance: medium
+- construction
+modern_impact: Infrastructure project with long-term benefits for the affected region.
+legacy_weight: 2
+significance: low
 ---
 
 Technical Issues spread to Harma and Wolf 1301

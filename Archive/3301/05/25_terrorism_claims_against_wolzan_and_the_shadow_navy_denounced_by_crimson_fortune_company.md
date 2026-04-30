@@ -1,33 +1,27 @@
 ---
-uuid: 4f5a6b7c-8d9e-0f1a-2b3c-4d5e6f7a8b9c
-title: Terrorism Claims Against Wolzan Denounced by Crimson Fortune Company
+uuid: 224b5274-9084-58c4-bcc5-96d3d962784f
+title: Terrorism Claims Against Wolzan and the Shadow Navy Denounced by Crimson Fortune
+  Company
 slug: terrorism_claims_against_wolzan_and_the_shadow_navy_denounced_by_crimson_fortune_company
 date: '3301-05-25'
 source: GitHub
 entities:
-  - Ellie Blossum
-  - Commander Wolzan
-groups:
-  - Crimson Fortune Company
-  - Shadow Navy
-  - Faveol family
-locations:
-  - Liaedin
-  - Volungu
+- Wolzan
 topics:
-  - corporate statement
-  - border conflict
-arc_id: federal-politics
-modern_impact: Crimson Fortune Company defends Shadow Navy's actions in Liaedin.
-legacy_weight: 1
+- corporate expansion
+- terrorism
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 Terrorism Claims Against Wolzan and the Shadow Navy Denounced by Crimson Fortune Company
 
-Ellie Blossum, The CEO of the Crimson Fortune Company, has today issued a statement regarding the recent unrest in Liaedin.
 
-"As many of you know, the Federation's influence in Liaedin has come under attack in recent months, despite many years of peace between the Blossum and the Faveol families."
+Ellie Blossum, The CEO of the Crimson Fortune Company, has today issued a statement regarding the recent unrest in Liaedin. 
 
-"We believe that this destabilisation effort was a deliberate act of malice, intended to encourage certain unruly members of the Faveol family to attempt to expand beyond the borders of Liaedin, as evidenced by the recent attack on Volungu."
+"As many of you know, the Federation’s influence in Liaedin has come under attack in recent months, despite many years of peace between the Blossum and the Faveol families.” 
 
-"The Crimson Fortune Company would like to thank Commander Wolzan and the Shadow Navy for their efforts to keep the Liaedin system in a fair balance of power."
+“We believe that this destabilisation effort was a deliberate act of malice, intended to encourage certain unruly members of the Faveol family to attempt to expand beyond the borders of Liaedin, as evidenced by the recent attack on Volungu.” 
+
+“The Crimson Fortune Company would like to thank Commander Wolzan and the Shadow Navy for their efforts to keep the Liaedin system in a fair balance of power. We would also like to thank the many Federal pilots who came to our aid during the blockade of Liaedin last weekend. Without your diligence, we are certain that enemies of the Federation would even now be using Liaedin as a staging area for their illegal expansionist agenda.”

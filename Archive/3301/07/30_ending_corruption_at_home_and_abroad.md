@@ -1,32 +1,30 @@
 ---
-uuid: 2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e
+uuid: 81c800a0-c293-5c53-b69d-026625eb2c71
 title: Ending Corruption at Home and Abroad
 slug: ending_corruption_at_home_and_abroad
 date: '3301-07-30'
 source: GitHub
 entities:
-  - Princess Arissa Lavigny-Duval
-groups:
-  - Lavigny's Legion
+- Arissa Lavigny-Duval
+- Corrigendum Ending Corruption
 locations:
-  - Imperial systems
+- Imperial
 topics:
-  - anti-corruption
-  - reform
-arc_id: imperial-succession
-arc_chapter: "Arissa's anti-corruption campaign"
-modern_impact: >
-  Arissa's anti-corruption campaign intensifies as the wedding approaches.
-  By framing her fight against corruption as both a domestic and foreign
-  policy, she positions herself as the reformer the Empire needs. The
-  timing — just before the wedding that will make her heir apparent —
-  suggests she is building a mandate for radical Imperial reform once
-  she ascends to the throne.
+- war
+arc_id: kumo-crew-rise
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
+significance: medium
 ---
 
 Ending Corruption at Home and Abroad
 
-Princess Arissa Lavigny-Duval has announced an expansion of her anti-corruption campaign, targeting both Imperial systems and foreign territories where Imperial citizens have been exploited.
 
-"Corruption is a cancer that eats away at the foundations of our Empire. I will not rest until every corrupt official, every dishonest merchant, and every criminal syndicate has been brought to justice."
+Ending Corruption at Home and Abroad 
+ 
+Concerns have been raised that the ongoing war of liberation in the Pegasi sector, Operation Davy Jones, has left the Empire exposed to invasion and corruption. Addressing these concerns, Senator Arissa Lavigny-Duval had these words for her constituents: 
+
+"With so many of our Imperial fleets engaged in battle, it is understandable that some are anxious about the security of our territory. I want to assure our citizens that local security forces are not impacted – in fact, over half of the Imperial fleet is held in reserve. Over the past weeks, a number of Imperial systems in our home space witnessed corrupt and repressive governments replaced by traditional patronages. Much of the heavy lifting has been done by Imperial reserve fleets. Our continued success in the Pegasi sector will soon liberate our citizens living there. To shirk our duties to our citizens, whether at home or abroad, is unacceptable.” 
+
+Commander Corrigendum

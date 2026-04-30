@@ -5,36 +5,33 @@ slug: the_fight_against_falisci
 date: '3301-02-27'
 source: GitHub
 entities:
-  - Senator Denton Patreus
-  - Commander Shole
-groups:
-  - Citizens of Tradition
+- Denton Patreus
+- Shole
 locations:
-  - Falisci
-  - Dongzi
-  - Ngaiawang
-  - Dornier Terminal
+- Denton
+- Falisci
+- Ngaiawang
 topics:
-  - proxy warfare
-  - anti-piracy
-  - imperial expansion
-arc_id: patreus-campaigns
-arc_chapter: "Falisci invasion begins"
-modern_impact: >
-  Patreus's use of the Citizens of Tradition as a proxy force to expand Imperial
-  control into Falisci establishes a template for his future campaigns. This method
-  — using ostensibly independent militias to achieve Imperial objectives while
-  maintaining political deniability — becomes a hallmark of Patreus's expansionist
-  strategy.
-legacy_weight: 2
+- piracy
+- ship
+- trade
+- war
+arc_id: falisci-conflict
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist
+  policies.
+legacy_weight: 3
+significance: medium
 ---
 
-There's war brewing in the Empire, as despite a stern warning issued in their direction by Senator Denton Patreus, the pirates of Falisci continue to plunder innocent traders as they pass through on the way to ply their wares in Dongzi and Ngaiawang.
+The Fight Against Falisci
 
-Things could soon change however, as reports are coming in that warships belonging to the Citizens of Tradition, a group well known for their support of Senator Patreus, have been spotted amassing on the borders of Falisci.
 
-When pressed for comment, Commander Shole of the Citizens of Tradition had this to say:
+There’s war brewing in the Empire, as despite a stern warning issued in their direction by Senator Denton Patreus, the pirates of Falisci continue to plunder innocent traders as they pass through on the way to ply their wares in Dongzi and Ngaiawang. 
 
-"We've got our orders. No traders are going under on our watch. If those Falisci scumbags so much as think about crossing this border, they're going to wish they hadn't."
+Things could soon change however, as reports are coming in that warships belonging to the Citizens of Tradition, a group well known for their support of Senator Patreus, have been spotted amassing on the borders of Falisci. 
+
+When pressed for comment, Commander Shole of the Citizens of Tradition had this to say: 
+
+“We’ve got our orders. No traders are going under on our watch. If those Falisci scumbags so much as think about crossing this border, they’re going to wish they hadn’t.” 
 
 Imperial Commanders willing to join the fight to defend imperial space should seek out the Citizens of Tradition aboard Dornier Terminal in Ngaiawang.

@@ -12,10 +12,8 @@ topics:
 - manifesto
 arc_id: imperial-succession
 arc_chapter: Emperor's Dawn manifesto
-modern_impact: 'A leaked internal statement reveals Emperor''s Dawn demands: the right
-  to appoint a new Emperor, disbandment of the Senate, and replacement of ''equivocation
-  and leniency'' with ''total martial conviction.'' The Empire is ''irrevocably decadent.''
-  Patreus responds: ''It is an enemy of the Empire, and it will be destroyed.'''
+modern_impact: The assassination of Emperor Hengist Duval triggers the succession
+  crisis and reveals the deep conspiracy within the Empire.
 legacy_weight: 5
 significance: high
 ---

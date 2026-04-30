@@ -1,39 +1,33 @@
 ---
-uuid: 8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e
-title: "Meet the Powers – Denton Patreus"
+uuid: 74f96d5d-43c7-50ef-9f79-9c7047e42d9b
+title: Meet the Powers – Denton Patreus
 slug: meet_the_powers_denton_patreus
 date: '3301-07-31'
 source: GitHub
 entities:
-  - Senator Denton Patreus
-  - Marcus Macmillan
+- Denton Patreus
 groups:
-  - Imperial Senate
+- Imperial Senate
 locations:
-  - Eotienses
-  - Capitol
+- Denton
+- Eotienses
 topics:
-  - profile
-  - military
-arc_id: patreus-campaigns
-arc_chapter: "Patreus profiled"
-modern_impact: >
-  Macmillan's profile of Patreus captures the contradictions of the
-  man: a military hero and financial predator, a loyal Imperial and
-  ambitious power-seeker. His "debt-driven empire" is described as
-  "brilliant and ruthless." The profile notes his popularity among
-  the military and his unpopularity among those he has exploited.
-  This is the portrait of a man who could be Emperor — or could be
-  destroyed by his own ambition.
-legacy_weight: 4
+- succession
+- trade
+modern_impact: Trade initiative affecting commodity markets and local economies.
+legacy_weight: 2
+significance: low
 ---
 
 Meet the Powers – Denton Patreus
 
-In this sixth article of the series, Marcus Macmillan examines Senator Denton Patreus.
 
-Senator Patreus is a study in contrasts. A decorated military commander who has led Imperial forces to victory in numerous campaigns, he is also a shrewd businessman whose financial empire spans dozens of systems. His methods are controversial — loaning money to struggling systems, then reclaiming the debt by force when they cannot pay — but undeniably effective.
+Meet the Powers – Denton Patreus 
+ 
+Senator Denton Patreus is the latest subject in this sixth article from political commentator Marcus Macmillan about the movers and shakers in 3301. 
 
-"Patreus is the most dangerous man in the Empire," one political analyst noted. "Not because he wants to be Emperor, but because he could be if he chose to."
+Senator Patreus is often seen as the muscular aspect of the Imperial Senate. He is one of the more powerful senators (although lagging behind the heavyweights of Senators Lavigny-Duval and Zamina Torval) and enjoys great loyalty from his followers. This is in part due to his record of low taxation funded through aggressive economic and military conquests. 
 
-His supporters see him as a strong leader who gets results. His detractors call him a war profiteer and a predator. The truth, as always, lies somewhere in between.
+While some have accused the Senator of unethical behaviour for his strong-arm tactics, others respond that if governments put themselves into debt then they only have themselves to blame. His shrewd policies have allowed him to assemble deep credit reserves and a formidable fleet, providing him with power beyond what his standing might indicate. 
+
+Hailing from Eotienses, he is a charming and charismatic leader who prefers to govern from his Majestic-class Interdictor called ‘Imperial Freedom’. During the Emperor’s illness, he called for the Imperial throne to pass along lines of popularity rather than blood. Since the Emperor’s recovery he has steadfastly supported Hengist Duval, but many wonder if this attempted break from tradition has limited his popularity in the wider population.

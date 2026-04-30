@@ -5,25 +5,23 @@ slug: the_war_against_emperors_dawn_continues
 date: '3301-10-15'
 source: GitHub
 entities:
-- Senator Denton Patreus
-- Arissa Lavigny-Duval
+- Denton Patreus
 groups:
 - Emperor's Dawn
-- Imperial Navy
 locations:
+- Denton
+- LTT 874
 - Namarii
 - Tabaldak
-- LTT 874
 topics:
-- war
+- succession
 - terrorism
+- war
 arc_id: imperial-succession
-arc_chapter: War continues
-modern_impact: Patreus dispatches fleets to Namarii, Tabaldak, and LTT 874. Empire-aligned
-  factions reward pilots who join the fight. Emperor's Dawn responds by doubling payments
-  to privateers. Speculation that Patreus aims to prevent disruption of Arissa's coronation.
-legacy_weight: 3
-significance: medium
+modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption
+  stance and military focus shape Imperial policy for years to come.
+legacy_weight: 5
+significance: high
 ---
 
 The War against Emperor's Dawn Continues

@@ -5,23 +5,20 @@ slug: shelter_from_the_storm
 date: '3301-09-22'
 source: GitHub
 entities:
-  - Adjudicator Adric Claavis
-  - Commander Gan
+- Adric Claavis
+- Gan Shelter
 groups:
-  - Utopia
-  - Libertas Cooperative
-locations:
-  - Munshin
-  - Pegasi Sector
+- Kumo Crew
+- Utopia
 topics:
-  - refugees
-  - humanitarian
-  - relief
+- humanitarian
+- piracy
+- war
 arc_id: kumo-crew-rise
-arc_chapter: "Utopia joins relief effort"
-modern_impact: >
-  Utopia joins the Munshin refugee relief effort. Adjudicator Claavis states Utopia has asked the Kumo Crew for passage through their space to deliver supplies. Utopia will welcome refugees wishing to begin new lives on Utopian worlds.
-legacy_weight: 2
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
+legacy_weight: 3
+significance: medium
 ---
 
 Shelter from the Storm

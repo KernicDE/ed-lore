@@ -1,40 +1,28 @@
 ---
-uuid: 5a6b7c8d-9e0f-1a2b-3c4d-5e6f7a8b9c0d
-title: For Some, President Halsey's Disappearance is Not Case Closed
+uuid: cd6b06fb-bcc9-5e09-9d74-2728b8bfc2d2
+title: For Some, President Halsey's Disappearance Is Not  Case Closed
 slug: for_some_president_halseys_disappearance_is_not_case_closed
 date: '3301-06-14'
 source: GitHub
-entities:
-  - President Halsey
-  - President Zachary Hudson
-groups:
-  - The Canonn
-locations:
-  - Sol
-  - Azaleach
 topics:
-  - conspiracy
-  - disappearance
+- safety
+- ship
 arc_id: federal-politics
-arc_chapter: "Conspiracy theories persist"
-modern_impact: >
-  The persistence of conspiracy theories about Halsey's disappearance
-  — despite the official finding of mechanical failure — reveals deep
-  public distrust of Hudson's administration. The Canonn's claim that
-  "the artefacts are involved" and their call for an independent
-  investigation suggest that the mystery will never be fully resolved
-  in the public mind. For Hudson, this is a political time bomb: if
-  evidence ever emerges that contradicts the official story, his
-  presidency could be delegitimised overnight.
-legacy_weight: 3
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
+legacy_weight: 4
+significance: high
 ---
 
-For Some, President Halsey's Disappearance is Not Case Closed
+For Some, President Halsey's Disappearance Is Not "Case Closed"
 
-Despite the Federal Navy's official finding that Spaceflight One was lost due to mechanical failure, many citizens and independent investigators continue to question the official narrative.
 
-"The report is too convenient," said one member of The Canonn. "It explains everything and nothing. Where is the wreckage? Where are the bodies?"
+For Some, President Halsey's Disappearance Is Not "Case Closed" 
+ 
+While the Federation considers President Halsey’s disappearance an open and shut case, some groups still doubt the official story. The Knights of the Black, whose members have sworn to defend all human systems against alien aggression, is one such group. 
 
-The Canonn have called for an independent investigation into the disappearance, citing evidence that Unknown Artefacts were present in the Azaleach system at the time of the incident.
+According to the group’s founder, “We aren’t entirely convinced Halsey’s disappearance is the work of an alien species, but we also aren’t convinced that it was an accident. Remember that Felicia Winters insisted, even from the beginning, that Starship One was lost due to mechanical failure. Zachary Hudson seemed awfully convinced of sabotage until he became the President. To me, it seems the Federation is covering up something.” 
 
-"We believe the artefacts are involved. And we will not rest until we find the truth."
+He went on to say, “Such a well-orchestrated strike against any of Humanity’s leaders would be a clear sign of an alien threat, which we take very seriously.” 
+
+Though the Knights aren’t actively searching for Starship One, they claim, “We’re keeping our eyes peeled.”

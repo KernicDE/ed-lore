@@ -1,39 +1,29 @@
 ---
-uuid: 4d5e6f7a-8b9c-0d1e-2f3a-4d5e6f7a8b9c
-title: "Meet the Powers – Zachary Hudson"
+uuid: 41b3581b-5fc7-5b67-afe5-a6a50289096a
+title: Meet the Powers – Zachary Hudson
 slug: meet_the_powers_zachary_hudson
 date: '3301-07-30'
 source: GitHub
-entities:
-  - President Zachary Hudson
-  - Marcus Macmillan
 groups:
-  - Federal Navy
-locations:
-  - Mars
-  - Sol
+- Federal Navy
 topics:
-  - profile
-  - military
-arc_id: federal-politics
-arc_chapter: "Hudson profiled"
-modern_impact: >
-  Macmillan's profile of Hudson paints him as a military man who
-  believes strength is the only language the galaxy understands.
-  His absence from the Imperial wedding — sending Winters instead —
-  is noted as a diplomatic slight that will "colour Federal and
-  Imperial relations in the future." Hudson's worldview is
-  summarised in his own words: "The Federation does not apologise
-  for being strong."
-legacy_weight: 4
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
+significance: low
 ---
 
 Meet the Powers – Zachary Hudson
 
-Continuing this GalNet exclusive series, political commentator Marcus Macmillan writes his opinion of some of the movers and shakers in 3301. In this fifth article he considers Federal President Zachary Hudson.
 
-President Hudson is a military man through and through. He served with distinction in the Federal Navy for decades before entering politics, and his approach to governance reflects that background. He believes in strength, discipline, and decisive action.
+Meet the Powers – Zachary Hudson 
+ 
+Continuing this GalNet exclusive series, political commentator Marcus Macmillan writes his opinion of some of the movers and shakers in 3301. In this fifth article he analyses Federal President Zachary Hudson. 
 
-"The galaxy is not a friendly place," Hudson said in a recent interview. "The Federation does not apologise for being strong. We do what we must to protect our citizens and our interests."
+Republican President Zachary Hudson  became President after the disappearance of President Halsey and a vote of no confidence in the Senate. He has always been supportive of the military, and has recently announced his support for CQC Championship as a training and recruitment tool for the Federal Navy. He is also approving additional funds to begin upgrading and expanding the fleet to counter the threats he sees beyond the Federation’s borders. 
 
-Critics argue that Hudson's militaristic approach risks alienating allies and provoking enemies. Supporters counter that his strength is exactly what the Federation needs in these dangerous times.
+In common with most of his party, Hudson believes it is the government’s duty to be as small a burden on the individual as possible. An extensive programme of tax reduction is already planned for most households within the Federation. This has proved popular, but not for those who relied on government support before his election. 
+
+He is also an advocate of personal freedom at any cost, although that is balanced by the requirement for citizens to be responsible for themselves. 
+
+For fun, the President regularly goes hunting on the many frontier worlds offering holiday activity.

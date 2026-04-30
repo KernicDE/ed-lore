@@ -1,32 +1,40 @@
 ---
-uuid: e9f0a1b2-c3d4-5e6f-7a8b-9c0d1e2f3a4b
+uuid: 1efb4fbf-b8b7-51c7-9732-e45d9d0f10fb
 title: A Brief Look Back
 slug: a_brief_look_back
 date: '3301-08-19'
 source: GitHub
 entities:
-  - Angel Rose
-  - Maugvahnna Rose
-  - Pirate Dread Katherine
-groups:
-  - Judas Syndicate
-locations:
-  - Beta Hydri
-  - Black Mausoleum
+- Angel Rose
 topics:
-  - profile
-  - piracy
-arc_id: misc
-modern_impact: Character profiles of notable independent figures.
-legacy_weight: 1
+- construction
+- corporate expansion
+- crime
+- independence
+- piracy
+- trade
+modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
+legacy_weight: 2
+significance: low
 ---
 
 A Brief Look Back
 
-In this series, we look at some of history's less well-known figures, and examine the part they have played in shaping the galaxy. This week, we revisit a group of individuals whose exploits were covered by a number of media outlets last year.
 
-Angel Rose's career belies her relatively mundane origins, which saw her grow up on a starport under the watchful eye of her mother, Maugvahnna Rose. Angel's rebellious streak was evident from an early age, however, and in a calculated attempt to exasperate her mother, she left home at the earliest opportunity to become a trader. Unfortunately for Angel, things did not pan out exactly as she had hoped, and through a sequence of unfortunate events, the aspiring merchant found herself drawn into a life of crime, ultimately becoming a reluctant (and not entirely successful) assassin.
+A Brief Look Back 
+ 
+In this series, we look at some of history’s less well-known figures, and examine the part they have played in shaping the galaxy. This week, we revisit a group of individuals whose exploits were covered by a number of media outlets last year. 
 
-Maugvahnna Rose was never burdened with an overabundance of maternal spirit. She went on to carve out a career as a starport captain, and played only a small part in the misfortunes that drove her daughter to a life of criminality. At least, that's how Maugvahnna tells it.
+Commander Angel Rose 
 
-Pirate Dread Katherine was kidnapped by pirates when she was just 19, and found herself an unwilling spectator to a campaign of murderous plundering – an experience that gave rise to a profound hatred of any form of machismo, and indeed of men in general. But Katherine's proximity to the pirate life also bred a certain appetite for its dangers and freedoms, and it wasn't long before she became a pirate in her own right. Today, Pirate Dread Katherine is one of the most feared buccaneers in her region of space.
+Angel Rose’s career belies her relatively mundane origins, which saw her grow up on a starport under the watchful eye of her mother, Maugvahnna Rose. Angel’s rebellious streak was evident from an early age, however, and in a calculated attempt to exasperate her mother, she left home at the earliest opportunity to become a trader. 
+
+Unfortunately for Angel, things did not pan out exactly as she had hoped, and through a sequence of unfortunate events, the aspiring merchant found herself drawn into a life of crime, ultimately becoming a reluctant (and not entirely successful) assassin. This in turn led to her entanglement with a group of pirates, resulting in the events that so entertained the viewers of the Underground Channel last year. 
+
+Maugvahnna Rose 
+
+Most of those who know Maugvahnna Rose would describe her as a ruthless social climber, and in most cases they would mean it as a compliment. The daughter of a seamstress and a corporate pen-pusher, Maugvahnna was never going to be content to follow in her parent’s footsteps, and at 23 she married the most powerful man that her limited social network gave her access to. Four years later she gave birth to her only child, Angel, although it fair to say that Maugvahnna was never burdened with an overabundance of maternal spirit. She went on to carve out a career as a starport captain, and played only a small part in the misfortunes that drove her daughter to a life of criminality. At least, that’s how Maugvahnna tells it. 
+
+Pirate Dread Katherine 
+
+With her thick mass of shoulder-length dreadlocks and studded gun-metal jewellery, few would mistake ‘Dread’ Katherine for anything other than what she is – a pirate. Born into a wealthy agricultural family, Katherine was kidnapped by pirates when she was just 19, and found herself an unwilling spectator to a campaign of murderous plundering – an experience that gave rise to a profound hatred of any form of machismo, and indeed of men in general. But Katherine’s proximity to the pirate life also bred a certain appetite for its dangers and freedoms, and it wasn’t long before she became a pirate in her own right. Today, Pirate Dread Katherine is one of the most feared buccaneers in her region of space.

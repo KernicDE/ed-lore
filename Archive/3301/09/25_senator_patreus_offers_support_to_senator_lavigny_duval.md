@@ -5,21 +5,17 @@ slug: senator_patreus_offers_support_to_senator_lavigny_duval
 date: '3301-09-25'
 source: GitHub
 entities:
-  - Senator Denton Patreus
-  - Arissa Lavigny-Duval
-groups:
-  - Imperial Senate
+- Lavigny Duval
+- Lavigny-Duval
+- Patreus offers Support
 locations:
-  - Capitol
-  - Achenar
+- Denton
 topics:
-  - succession
-  - political alliance
-arc_id: imperial-succession
-arc_chapter: "Patreus endorses Arissa"
-modern_impact: >
-  Patreus publicly declares his support for Arissa Lavigny-Duval in the succession vote: 'My vote goes to one whom, but for the cruellest of murders, would already occupy the throne.' His endorsement, combined with Blaine and Torval's support, makes Arissa the clear frontrunner.
-legacy_weight: 5
+- slavery
+- succession
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 Senator Patreus offers Support to Senator Lavigny-Duval

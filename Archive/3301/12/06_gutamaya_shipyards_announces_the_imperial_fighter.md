@@ -6,13 +6,12 @@ date: '3301-12-06'
 source: GitHub
 groups:
 - Gutamaya Shipyards
+- Imperial Herald
 topics:
 - ship
-- military
-modern_impact: Gutamaya Shipyards announces the Imperial Fighter, a new combat vessel
-  for the Imperial Navy. The ship is designed for carrier-based operations and features
-  advanced manoeuvring capabilities.
-legacy_weight: 2
+- succession
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
 significance: low
 ---
 

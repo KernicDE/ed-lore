@@ -1,40 +1,34 @@
 ---
-uuid: 8f9a0b1c-2d3e-4f5a-6b7c-8d9e0f1a2b3c
+uuid: 843112f8-e23a-5b29-afe0-066531b74f80
 title: Hudson Set to Target Traffickers
 slug: hudson_set_to_target_traffickers
 date: '3301-06-09'
 source: GitHub
-entities:
-  - President Zachary Hudson
-groups:
-  - Federal Navy
 locations:
-  - Mars
-  - Federal systems
+- Mars
 topics:
-  - drug policy
-  - military action
-  - trafficking
-arc_id: federal-politics
-arc_chapter: "Hudson's war on drugs"
-modern_impact: >
-  Hudson's first major policy announcement — a military crackdown on
-  drug traffickers — signals his administration's priorities. Unlike
-  Halsey's prohibition-focused approach, Hudson frames the issue as a
-  military threat: "These traffickers are enemy combatants." This
-  militarisation of domestic policy will characterise his entire
-  presidency. The targeting of Onionhead and other narcotics also
-  serves a political purpose: it gives the Federal Navy something to
-  do while Hudson consolidates power.
-legacy_weight: 3
+- crime
+- narcotics
+- trade
+- war
+modern_impact: Trade initiative affecting commodity markets and local economies.
+legacy_weight: 2
+significance: low
 ---
 
 Hudson Set to Target Traffickers
 
-President Hudson has announced a major new initiative to combat drug trafficking throughout Federal space.
 
-"For too long, the Federation has treated drug trafficking as a minor nuisance. I am here to tell you that it is a threat to our very way of life. These traffickers are enemy combatants, and we will treat them as such."
+Hudson Set to Target Traffickers 
+ 
+In the face of President Hudson’s recent rise to power, the value of illicit goods has skyrocketed throughout the galaxy in anticipation of a crackdown on illegal commodities that are traditionally transported via the Federation. Dealers of all stripes have seen their profits soar over the last week, with hundreds of new millionaires being minted off the back of President Hudson’s perceived stance against criminal commodities. 
 
-The initiative will see the Federal Navy deployed to key trafficking routes, with orders to intercept and destroy any vessels suspected of carrying narcotics.
+With the President’s appointment of his new administration now complete, sources close to Hudson have revealed to GalNet that an increase in security spending is very high on his agenda.  
 
-"We will not rest until every drug lab in Federal space has been burned to the ground and every trafficker has been brought to justice."
+“Things are about to get very difficult for traffickers,” one anonymous aide told the Mars Tribune.  
+
+“The President’s ordered a bunch of those new Diamondback Scouts to act as short range interceptors for local security services. They don’t pack much of a punch on their own, but you try and outrun a swarm of angry Diamondbacks followed up by a couple of Viper wings and see how well you do.” 
+
+“’Course if you do outrun them, say hello to the Navy. A month from now, two months top, the war against drugs will be done and dusted. You mark my words.”  
+
+Prices of illegal narcotics had just started to stabilise after a week of frantic black market trading, and this latest news could well send prices spiking up again as dealers across the galaxy try to unload their stash before the expected galaxy-wide lockdown begins.

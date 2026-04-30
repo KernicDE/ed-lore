@@ -1,45 +1,31 @@
 ---
-uuid: 9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d
+uuid: 1a9e9b40-03e9-55ca-8402-9039b5c55901
 title: Federal Vigilantes Defy All Galactic Powers
 slug: federal_vigilantes_defy_all_galactic_powers
 date: '3301-06-22'
 source: GitHub
-entities:
-  - President Zachary Hudson
-groups:
-  - Federal Navy
 locations:
-  - Federal systems
-  - Imperial systems
-  - Alliance systems
+- Kremainn
+- Mbukuravi and Kremainn
 topics:
-  - vigilantism
-  - extremism
-  - inter-superpower tension
-arc_id: federal-politics
-arc_chapter: "Federal extremism"
-modern_impact: >
-  The emergence of Federal vigilante groups operating across superpower
-  borders is a dangerous development. These groups, claiming to act in
-  the Federation's interests without official sanction, threaten to
-  trigger inter-superpower conflicts that Hudson cannot control. His
-  disavowal — "They do not represent the Federation" — is legally
-  necessary but politically weak: the vigilantes are drawn from Federal
-  citizens and often use Federal military equipment. This is the dark
-  side of Hudson's nationalist rhetoric: when you tell citizens that
-  the Federation is under threat, some will take matters into their own
-  hands.
-legacy_weight: 3
+- slavery
+- war
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 Federal Vigilantes Defy All Galactic Powers
 
-Reports are emerging of Federal citizen militias operating outside Federal space, attacking Imperial and Alliance targets without official sanction.
 
-These vigilante groups, which call themselves "Federal Patriots," claim to be defending Federation interests against foreign aggression.
+Federal Vigilantes Defy All Galactic Powers 
+ 
+A long standing Federation leaning vigilante group has announced today that it is declaring itself its own sovereign power, defying all of the great galactic powers in what members of the groups are calling a struggle between "politicians, slavers and warlords."  
 
-"The government is too soft," one vigilante leader said in an encrypted communication. "We're taking the fight to the Empire and the Alliance. They need to know that the Federation is not to be trifled with."
+The Armada will instead be working to create its own system of governance, based upon its own particular rules of law. The Armada will remain headquartered in the Ngaliba system, where it has resided since 2900 as a Federal detachment of a classified inter-factional combat force. Post Commander Tyllerius Adle pulled his force out of the secretive organization in 3200, re-branding his group as "Adle's Armada” in the process. 
 
-President Hudson has disavowed the groups, saying: "These vigilantes do not represent the Federation. We will deal with them as we deal with any criminals."
+In 3301 the Armada still shrouds its self in secrecy and only recruits the finest and cleanest of conscience combative pilots into its ranks.  
 
-However, critics argue that Hudson's nationalist rhetoric has encouraged such extremism.
+The group has been known to spring up in times of need to defend the defenceless against forces that seek to to evil in the Galaxy. Adle's Armada will now be acting as its own power in the universe, with members of the group operating primarily in the Ngaliba, Mbukuravi and Kremainn systems. 
+
+GalNet reached out to members of Congress for comment, but at time of press had received no reply.

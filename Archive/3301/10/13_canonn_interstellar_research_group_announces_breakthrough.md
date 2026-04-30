@@ -19,10 +19,8 @@ topics:
 - research
 arc_id: unknown-artefacts
 arc_chapter: Canonn decodes signal
-modern_impact: The Canonn decodes UA transmissions and discovers they contain schematic
-  diagrams of the ships studying them. Commander Mike Juliett Kilo sees a Vulture
-  on his antique scanner while flying one. The objects are scanning us — gathering
-  intelligence on human technology.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 5
 significance: high
 ---

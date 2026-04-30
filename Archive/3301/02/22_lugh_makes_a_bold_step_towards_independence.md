@@ -4,33 +4,30 @@ title: Lugh Makes a Bold Step Towards Independence
 slug: lugh_makes_a_bold_step_towards_independence
 date: '3301-02-22'
 source: GitHub
-entities:
-  - Éamonn Uí Laoghire
 groups:
-  - The Crimson State Group
-  - Alliance
-  - Federation
+- Alliance
+- Federal Navy
 locations:
-  - Lugh
-  - Alioth
+- Alioth
+- Independence
+- Lugh
+- Since its earliest inception the Lugh
+- The Alioth
 topics:
-  - independence movements
-  - diplomacy
-  - self-determination
-  - alliance-federation relations
+- independence
+- war
 arc_id: lugh-independence
-arc_chapter: "Diplomatic offensive"
-modern_impact: >
-  The Lugh independence crisis becomes one of the defining conflicts of 3301. It tests
-  Alliance-Federation relations, raises fundamental questions about frontier sovereignty,
-  and sets precedents for how the galactic powers respond to secessionist movements.
-  The Crimson State Group's appeal to the Alliance foreshadows later Alliance expansion
-  into disputed territories.
-legacy_weight: 4
+modern_impact: The Lugh independence movement challenges Federal authority and tests
+  the Alliance's non-intervention principles.
+legacy_weight: 3
+significance: medium
 ---
 
-The Alioth system has been at the centre of controversy today after the arrival of Éamonn Uí Laoghire, the leading spokesperson in the current bid for independence of the Lugh system.
+Lugh Makes a Bold Step Towards Independence
 
-While at the time of this report Ambassador Uí Laoghire has not yet been granted an audience with Alliance state officials, he did address the huge throngs of supporters who came out to greet him on the steps of the state residence.
+
+The Alioth system has been at the centre of controversy today after the arrival of Éamonn Uí Laoghire, the leading spokesperson in the current bid for independence of the Lugh system.  
+
+While at the time of this report Ambassador Uí Laoghire has not yet been granted an audience with Alliance state officials, he did address the huge throngs of supporters who came out to greet him on the steps of the state residence. 
 
 "Since its earliest inception the Lugh system was settled by a sovereign people of one lineage and one religion who have made it their spiritual home. Popular support for The Crimson State Group in the last polls was at 87%. The only thing standing in the way of the will of the people is the Federal Navy! I have come here today to request that the Alliance of Independent Systems recognise the legitimacy of a free and democratic Lugh."

@@ -5,24 +5,22 @@ slug: from_dreams_to_reality
 date: '3301-10-22'
 source: GitHub
 groups:
-- Explorer's Association
 - Brewer Corporation
+- Explorer's Association
 - Pacap Limited
 - Universal Cartographics
 locations:
-- Pleiades Nebula
 - Kaushpoos
 - Neville Horizons
+- Pleiades Nebula
 topics:
 - construction
+- corporate expansion
 - exploration
-- starport
+- war
 arc_id: pleiades-expansion
-arc_chapter: Starport construction begins
-modern_impact: The Explorer's Association, with support from Brewer Corporation, Pacap
-  Limited, and Universal Cartographics, begins construction of a starport in the Pleiades
-  Nebula. Pilots deliver metals to Neville Horizons in Kaushpoos. The station would
-  serve as a resupply point and sanctuary in deep space.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
+  new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---

@@ -1,43 +1,29 @@
 ---
-uuid: 4f5a6b7c-8d9e-0f1a-2b3c-4d5e6f7a8b9c
+uuid: 0711174c-3029-589f-8c24-2be413623997
 title: The Savage Side of Imperial Slavery
 slug: the_savage_side_of_imperial_slavery
 date: '3301-06-13'
 source: GitHub
-entities:
-  - Aisling Duval
-  - Senator Zemina Torval
 groups:
-  - Aisling's Angels
-  - Imperial Slavers Association
-locations:
-  - Imperial systems
+- Kumo Crew
 topics:
-  - slavery
-  - reform
-  - cruelty
-arc_id: aisling-reform-movement
-arc_chapter: "Aisling exposes cruelty"
-modern_impact: >
-  Aisling's exposé of Imperial slavery's "savage side" — the unregulated
-  abuse, the broken families, the deaths in "re-education" — is her most
-  powerful anti-slavery statement yet. By framing the issue as a moral
-  crisis rather than a policy debate, she appeals to Imperial citizens'
-  sense of honour and decency. Torval's defensive response — "Slavery is
-  a necessary institution" — sounds increasingly hollow. This article
-  advances Aisling's reform movement from a fringe cause to a mainstream
-  moral challenge to Imperial identity.
-legacy_weight: 4
+- slavery
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 The Savage Side of Imperial Slavery
 
-Aisling Duval has released a shocking report detailing the brutal reality of life for unregulated slaves in the Empire.
 
-The report, compiled by Aisling's Angels over six months of undercover investigation, documents cases of systematic abuse, torture, and murder in illegal slave camps across Imperial space.
+The Savage Side of Imperial Slavery 
+ 
+On the edges of Imperial space, the line between savagery and civilisation blurs on an almost daily basis. Never has this been more apparent than this weekend, during which hundreds of supposedly honourable Imperial commanders crossed the border to smuggle massive quantities of Imperial Slaves to sell in black markets controlled by the Kumo Crew. 
 
-"This is not the Empire I believe in," Aisling said at a press conference. "The Empire I believe in is built on honour, dignity, and compassion. What we have found is a stain on our civilisation."
+Exactly what the Kumo Crew plans to do with the Imperial Slaves is unknown, although given how much the Kumo Crew were paying for them it’s almost certainly not going to be pleasant. 
 
-Senator Torval dismissed the report as "sensationalist nonsense" and reaffirmed her support for the institution of Imperial Slavery.
+Under Imperial law, citizens are not permitted to sell their Imperial Slaves for service to non-Imperial citizens, nor are they allowed to sell Imperial Slaves on worlds outside of Imperial space. Those found breaking the law run the risk of being forced into service themselves, although in reality Imperial frontier security services tend to turn a blind eye to the practice. 
 
-"Imperial Slavery is a necessary institution that provides security for millions. Aisling's report is nothing more than emotional manipulation."
+GalNet reached out to the Imperial Slavers Association and received the following statement: 
+
+“The sale of Imperial Slaves outside of the borders of Imperial space is strictly prohibited by order of the Senate. Any members of the ISA found engaging in such activity will be removed from the guild and reported to the appropriate authorities.”

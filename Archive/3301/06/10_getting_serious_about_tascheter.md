@@ -1,24 +1,30 @@
 ---
-uuid: 1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f
-title: Getting Serious about Taschheter
+uuid: 4b999aae-0e94-540f-a7aa-d1ef91f178de
+title: Getting Serious About Tascheter
 slug: getting_serious_about_tascheter
 date: '3301-06-10'
 source: GitHub
-entities: []
 groups:
-  - Federal Navy
+- Sirius Corp
+- Sirius Corporation
 locations:
-  - Taschheter
+- Sirius
 topics:
-  - security
-  - piracy
-arc_id: federal-politics
-modern_impact: Federal Navy deploys to Taschheter to combat piracy.
-legacy_weight: 1
+- corporate expansion
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
-Getting Serious about Taschheter
+Getting Serious About Tascheter
 
-The Federal Navy has announced a major deployment to the Taschheter system in response to increased pirate activity.
 
-"Pirates have been operating with impunity in Taschheter for too long. That ends now."
+Getting Serious About Tascheter 
+ 
+It’s been a little over a week since Felicia Winters assumed control of the Federal Liberal Party, and it looks as if the Shadow President intends to start her time in office by taking on her ex-employer in a bid to stabilize the Federation’s interests in the Tascheter sector. 
+
+Media agents working on behalf of the Shadow President are currently in the process of spreading information packages throughout the Oduduro system, with the hope being that once residents learn of the Shadow President’s new policies they will realise that their best option is to remain part of the Federation. 
+
+Unfortunately for Shadow President Winters, representatives of the Sirius Corporation have been extremely busy in the neighbouring system of Akkadia. Sirius has strong business connections with several Akkadian organisations, including Akkadia Inc and Akkadia Crimson Allied Organisation, both of which have been extremely receptive to Sirius’s overtures regarding a potential merger. 
+
+Both galactic powers have enjoyed success in swaying the population of their respective target systems, but in the end, only one power will be able to establish themselves as the most influential voice in the Tascheter Sector. While relations between the two groups have remained cordial thus far, everything is expected to change as both sides begin to make their final preparations to see who will successfully stake their claim over the region.

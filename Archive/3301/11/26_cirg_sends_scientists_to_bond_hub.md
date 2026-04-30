@@ -4,18 +4,22 @@ title: CIRG Sends Scientists to Bond Hub
 slug: cirg_sends_scientists_to_bond_hub
 date: '3301-11-26'
 source: GitHub
+entities:
+- D Luffy
 groups:
+- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Bond Hub
+- Merope
+- Varati
 topics:
+- investigation
 - research
-- unknown artefacts
+- ship
 arc_id: unknown-artefacts
-arc_chapter: Canonn investigates Bond Hub
-modern_impact: The Canonn Interstellar Research Group sends scientists to Bond Hub
-  to investigate reports of technical malfunctions. The team will assess whether the
-  issues are connected to unknown artefacts.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---

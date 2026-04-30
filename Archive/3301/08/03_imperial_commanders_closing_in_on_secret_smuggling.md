@@ -1,35 +1,30 @@
 ---
-uuid: 5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f
+uuid: 4d13f85d-d14e-58df-a03e-2c68ee8c632a
 title: Imperial Commanders Closing in on Secret Smuggling
 slug: imperial_commanders_closing_in_on_secret_smuggling
 date: '3301-08-03'
 source: GitHub
-entities:
-  - Princess Arissa Lavigny-Duval
-groups:
-  - Lavigny's Legion
 locations:
-  - Imperial systems
+- When pressed to reveal the
 topics:
-  - smuggling
-  - anti-corruption
-arc_id: imperial-succession
-arc_chapter: "Smuggling crackdown"
-modern_impact: >
-  Arissa's crackdown on smuggling networks demonstrates her commitment
-  to anti-corruption even as the wedding approaches. The discovery
-  of secret smuggling routes operated by Imperial officials shows
-  that corruption is not limited to frontier systems — it reaches
-  into the heart of the Empire. Her willingness to pursue these
-  cases regardless of the suspects' rank reinforces her image as
-  an impartial enforcer of Imperial law.
-legacy_weight: 3
+- crime
+- slavery
+- trade
+- war
+modern_impact: Trade initiative affecting commodity markets and local economies.
+legacy_weight: 2
+significance: low
 ---
 
 Imperial Commanders Closing in on Secret Smuggling
 
-Imperial commanders loyal to Princess Arissa Lavigny-Duval have uncovered a major smuggling operation operating within Imperial space.
 
-The smuggling ring, which has been transporting illegal goods through secret routes for months, is believed to have connections to high-ranking Imperial officials. Princess Arissa has vowed to bring all those involved to justice.
+Imperial Commanders Closing in on Secret Smuggling 
+ 
+Rumour has it that several Imperial Commanders are closing in on a well-known smuggling route between the Torval and Delaine owned systems. Imperial slaves are illegal in Delaine space but sell for a small fortune on the black market. The Empire hates this because it takes what they consider indentured servants and citizens from a life of Imperial service to a life of forced labour. Commanders who use the secretive route have plenty to say about the prospect of impending Imperial intervention, with Commander Infinity+1 saying: 
 
-"No one is above the law," she said in a statement. "Not senators, not patrons, not clients. Corruption will be rooted out wherever it is found."
+"Ain't it funny how we're s’posed to be the bad guys, but the Empire has so many slaves they're practically giving them away!" 
+
+When pressed to reveal the systems he runs between, Infinity stated, "I'm not telling you about my favorite route, but let me just say thank you to the honorable Zemina Torval" 
+
+Profits allegedly run towards 4,000 credits per slave. Only time will tell if the Imperials can break the back of this illegal trade route and round up the smuggling ring, but one thing is certain – until the Empire fixes the problem of Archon Delaine, there will be other runs to take its place.

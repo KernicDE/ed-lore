@@ -1,34 +1,25 @@
 ---
-uuid: 7a8b9c0d-1e2f-3a4b-5c6d-7e8f9a0b1c2d
-title: Ex-Governor Joel Xander Charged with Venality and Abuse of Office
+uuid: da35f68e-36af-5ae3-ba17-6e66eccd5604
+title: Ex Governor Joel Xander Charged with Venality and Abuse of Office
 slug: ex_governor_joel_xander_charged_with_venality_and_abuse_of_office
 date: '3301-07-31'
 source: GitHub
 entities:
-  - Joel Xander
-groups:
-  - Federal Intelligence Agency
-locations:
-  - BD-22 3573
-  - Forrester Station
+- Joel Xander Charged
 topics:
-  - corruption
-  - trial
-arc_id: federal-politics
-arc_chapter: "Xander charged"
-modern_impact: >
-  Xander's formal charging with venality and abuse of office confirms
-  the Federal government's commitment to rooting out corruption — or
-  at least appearing to. The trial will be a test of Hudson's
-  anti-corruption credentials. Whether Xander was genuinely corrupt
-  or simply a political scapegoat remains to be seen.
+- crime
+modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
+significance: low
 ---
 
 Ex-Governor Joel Xander Charged with Venality and Abuse of Office
 
-Former Federal Governor Joel Xander has been formally charged with multiple counts of venality and abuse of office following his arrest last month.
 
-The charges relate to allegations that Xander accepted bribes from local crime syndicates in exchange for favourable treatment. If convicted, he faces a lengthy prison sentence.
+Ex-Governor Joel Xander Charged with Venality and Abuse of Office 
+ 
+Federal prosecutor Kerstin Marling has brought charges against the former Governor of BD-22 3572, Joel Xander, in the Federal court in Rhea. 
 
-The trial is expected to begin within the next few weeks.
+Marling stated that she has evidence that Xander had been receiving financial support from local leaders King Justice II and Supreme Leader Anxo Lino of BD-22 3573 Flag, which has led to a dramatic decrease of Federation popularity in the sector. 
+
+“It is of utmost importance to show to all the poor people who have suffered because of this man's corruption that this was not official Federal policy, but the work of an individual, who will be treated as a criminal for his deeds.”

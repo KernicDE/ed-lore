@@ -4,22 +4,18 @@ title: Sirius Corporation Takes Aim at Pirates
 slug: sirius_corporation_takes_aim_at_pirates
 date: '3301-10-22'
 source: GitHub
-entities:
-- Li Yong-Rui
 groups:
+- Sirius Corp
 - Sirius Corporation
 locations:
 - Robigo
 - Robigo Mines
+- Sirius
 topics:
+- corporate expansion
 - piracy
-- corporate security
-arc_id: corporate-history
-arc_chapter: Sirius anti-piracy operation
-modern_impact: Sirius Corporation issues bounties on pirates threatening Robigo Mines.
-  Li Yong-Rui asserts the company's legal right to protect its assets and moral obligation
-  to defend its people. The outpost is Sirius Corporation property and will not be
-  allowed to come to harm.
+- war
+modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---

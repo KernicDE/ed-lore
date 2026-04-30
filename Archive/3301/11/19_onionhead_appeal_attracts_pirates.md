@@ -4,14 +4,17 @@ title: Onionhead Appeal Attracts Pirates
 slug: onionhead_appeal_attracts_pirates
 date: '3301-11-19'
 source: GitHub
+locations:
+- According to
+- Reports coming in from the Xelabara
 topics:
-- piracy
-- commodities
 - narcotics
-modern_impact: The Onionhead appeal attracts pirates who target the transport ships
-  carrying the valuable narcotic. The faction calls for combat pilots to protect the
-  supply convoys.
-legacy_weight: 1
+- piracy
+- ship
+- trade
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
 significance: low
 ---
 

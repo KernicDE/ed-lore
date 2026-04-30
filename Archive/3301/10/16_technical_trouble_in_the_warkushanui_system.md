@@ -4,6 +4,8 @@ title: Technical Trouble in the Warkushanui System
 slug: technical_trouble_in_the_warkushanui_system
 date: '3301-10-16'
 source: GitHub
+entities:
+- Sam Norris
 locations:
 - Coats Hub
 - Gurragchaa Gateway
@@ -12,7 +14,7 @@ locations:
 topics:
 - construction
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Infrastructure project with long-term benefits for the affected region.
 legacy_weight: 2
 significance: low
 ---

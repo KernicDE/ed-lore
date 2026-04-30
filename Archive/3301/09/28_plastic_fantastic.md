@@ -5,15 +5,17 @@ slug: plastic_fantastic
 date: '3301-09-28'
 source: GitHub
 entities:
-  - Commander Rubbernuke
+- Rubbernuke Plastic Fantastic
 topics:
-  - bobbleheads
-  - toys
-  - safety
-arc_id: misc
-modern_impact: >
-  Bobbleheads return to cockpits after being banned for over a year. Previously implicated in thousands of accidents and even used by pirates for murder. Security services advise pilots to check for explosives, hidden cameras, and illicit drugs.
+- narcotics
+- piracy
+- safety
+- sport
+- war
+modern_impact: Pilot safety initiative with potential regulatory implications for
+  starship design.
 legacy_weight: 1
+significance: low
 ---
 
 Plastic Fantastic

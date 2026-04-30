@@ -1,37 +1,46 @@
 ---
-uuid: 5e6f7a8b-9c0d-1e2f-3c4d-5e6f7a8b9c0d
+uuid: 7b1495a0-0413-5d22-af0c-bc7fcf8090d4
 title: Pegasi Intervention Sparks Debate at Home
 slug: pegasi_intervention_sparks_debate_at_home
 date: '3301-07-30'
 source: GitHub
 entities:
-  - Princess Arissa Lavigny-Duval
-  - Senator Denton Patreus
+- Felicia Winters
 groups:
-  - Lavigny's Legion
-  - Imperial Senate
+- Aisling's Angels
+- Kumo Crew
 locations:
-  - Pegasi Sector
-  - Capitol
+- Kamadhenu
+- Pegasi Sector
+- Sol
 topics:
-  - military intervention
-  - domestic debate
+- corporate expansion
+- diplomacy
+- humanitarian
+- ship
+- war
 arc_id: kumo-crew-rise
-arc_chapter: "Imperial debate over Pegasi"
-modern_impact: >
-  The Pegasi intervention generates significant debate within the Empire.
-  Some senators question the wisdom of committing so many resources to
-  a distant conflict while corruption festers at home. Others argue
-  that the Kumo Crew's enslavement of Imperial citizens demands a
-  forceful response. The debate reveals divisions within the Imperial
-  establishment that will widen after the Emperor's death.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
+significance: medium
 ---
 
 Pegasi Intervention Sparks Debate at Home
 
-The Imperial offensive in the Pegasi Sector has sparked heated debate in the Senate. While many support the action against the Kumo Crew, others question the cost and duration of the campaign.
 
-"We cannot afford to wage endless war on the frontier while our own systems suffer from neglect," one senator argued.
+Pegasi Intervention Sparks Debate at Home 
+ 
+Unaffiliated supporters of Arissa Lavigny-Duval have today voiced concerns at rumours of an escalating intervention in the Pegasi Sector on the part of Lavigny's Legion. 
 
-Supporters counter that the Empire has a duty to protect its citizens from slavery and piracy, wherever they may be.
+Discussion of the the highly publicised plight of Imperial citizens living in volumes of space controlled by Archon Delaine's Kumo Crew dominated newsfeeds and social media throughout Kamadhenu over the weekend. Opinion is split on the humanitarian value of an intervention in a region perceived by some as extremely remote. 
+
+Speaking anonymously one commander said: "I don't understand why the Legion is wasting time with a foreign backwater like the Pegasi Sector. I'd never even heard of it before. We've got our own problems with corrupt Dictatorships and greedy Corporations right here at home. We need to clean up the Empire before we try cleaning up the whole Galaxy!". 
+
+Anger erupted when it was revealed that diplomatic overtures had been made towards the Federation in regards to confronting the Kumo Crew. 
+
+It was later made clear that Lavigny's Legion itself took no part in any talks with envoys of Shadow President Felicia Winters or President Zachary Hudson. A diplomat for Aisling Duval's Aisling's Angels confirmed their own attendance at talks. 
+
+The suggestion that Arissa Lavigny-Duval's supporters might be pulled into joint operations with either Hudson or Winters has resurfaced deeply held anti-Federation sentiment, with reports of at least one commander plotting a course to Sol in a well armed vessel in response to the rumours. 
+
+Commander Edgar Starwalker

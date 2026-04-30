@@ -9,15 +9,9 @@ groups:
 - Imperial Navy
 locations:
 - Cayutorme
-topics:
-- war
-- crime
-- report
 arc_id: cayutorme-conflict
-arc_chapter: Frontline report
-modern_impact: A frontline report from the Cayutorme system describes intense fighting
-  between Imperial forces and the Cayutorme Syndicate. Both sides have suffered casualties.
-  The conflict shows no signs of abating.
+modern_impact: A significant military engagement testing the Empire's ability to project
+  force against organized criminal syndicates.
 legacy_weight: 3
 significance: medium
 ---

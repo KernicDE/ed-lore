@@ -5,16 +5,16 @@ slug: emperors_dawn_appeal_meets_with_mixed_response
 date: '3301-09-30'
 source: GitHub
 groups:
-  - Emperor's Dawn
+- Emperor's Dawn
 topics:
-  - terrorism
-  - recruitment
-  - narcotics
+- narcotics
+- succession
+- war
 arc_id: imperial-succession
-arc_chapter: "Emperor's Dawn recruiting"
-modern_impact: >
-  Emperor's Dawn's appeal for progenitor cells succeeded but their request for narcotics failed. The divided response reflects mixed attitudes toward the organisation — some oppose the Empire, others won't help known terrorists.
-legacy_weight: 2
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
+legacy_weight: 4
+significance: high
 ---
 
 Emperor's Dawn Appeal Meets with Mixed Response

@@ -1,38 +1,26 @@
 ---
-uuid: 9c0d1e2f-3a4b-5c6d-7e8f-9a0b1c2d3e4f
+uuid: 9c2030cc-a2e5-5b66-80d0-bde8bb5bc3b8
 title: A Vote of Congressional Confidence
 slug: a_vote_of_congressional_confidence
 date: '3301-05-30'
 source: GitHub
 entities:
-  - Felicia Winters
-  - Shadow President Hudson
-groups:
-  - Congress
+- Hudson placed
 locations:
-  - Mars
-topics:
-  - vote
-  - constitutional crisis
-arc_id: federal-politics
-arc_chapter: "The vote"
-modern_impact: >
-  The Congressional vote is the formal end of Winters's acting presidency
-  and the beginning of Hudson's ascent. The result — Hudson winning by a
-  significant margin — reflects not just Hudson's political skill but also
-  the failure of Halsey's administration to maintain loyalty. Winters's
-  concession is gracious but politically devastating: she pledges to
-  "support President Hudson in whatever way I can." The crisis has
-  transformed the Federal political landscape in less than a week.
-legacy_weight: 5
+- Eugene
+- Madison
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 A Vote of Congressional Confidence
 
-Congress has voted to remove Felicia Winters from the office of Acting President, paving the way for Shadow President Hudson to assume the role.
 
-The vote, which took place earlier today, saw Hudson win by a significant margin. Winters conceded gracefully:
+There is blood in the water and the politicians have begun hunting their prey. 
 
-"I respect the decision of Congress. My only goal was to serve the Federation during a time of crisis. If Congress believes President Hudson is better suited to that task, then I will support him in whatever way I can."
+Yesterday, Shadow President Hudson placed a motion before Congress asking that they issue a Vote of No Confidence against President Halsey’s administration. The motion was accepted, and the vote has been scheduled to take place on Monday afternoon. 
 
-Hudson thanked Congress for their confidence and promised to "restore strength and stability to the Federation."
+According to historic procedure, if a Vote of No Confidence in the encumbent President succeeds, then the Shadow President gets the chance to form an administration, which in turn is then put to a vote. If this fails, then a full congressional election is triggered. 
+
+The Shadow President succeeding in these circumstances is not unheard of, but pretty rare. The last occasion was when the increasingly unpopular Eugene Cooper was ousted by the charismatic Antonia Madison in 3264 following a mid-term Vote of No Confidence.

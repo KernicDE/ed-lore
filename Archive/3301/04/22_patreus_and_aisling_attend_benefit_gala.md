@@ -1,24 +1,24 @@
 ---
-uuid: 3c4d5e6f-7a8b-9c0d-1e2f-3c4d5e6f7a8b
+uuid: 46ff6ade-8abd-5f62-bd39-32ef61f8883e
 title: Patreus and Aisling Attend Benefit Gala
 slug: patreus_and_aisling_attend_benefit_gala
 date: '3301-04-22'
 source: GitHub
-entities:
-  - Senator Denton Patreus
-  - Aisling Duval
-groups: []
 locations:
-  - Eotienses
+- Capitol
+- Denton
 topics:
-  - social event
-arc_id: misc
-modern_impact: Patreus and Aisling publicly civil at a charity event.
-legacy_weight: 1
+- corporate expansion
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 Patreus and Aisling Attend Benefit Gala
 
-Senator Patreus and Aisling Duval were both in attendance at the annual Eotienses Charity Gala last night. The two were seen exchanging pleasantries during the cocktail hour, though witnesses report that the conversation was brief and somewhat strained.
 
-The gala raised over 50 million credits for various Imperial charitable causes.
+Denton Patreus and Aisling Duval were spotted in attendance at ‘A Dinner to Defeat Dementia’ in Capitol last night. The Empire’s favourite power couple spent several hours mingling with Senators, CEOs and a few of the charity’s lucky patrons, before dazzling the crowd with a rather energetic display on the dance floor. 
+
+Aisling was dressed in an unusually demure, long necked, floor length red gown with flowing sleeves. The Senator was dressed casually in an open necked navy blue shirt with stylish silver trimming along the collar and cuffs.  
+
+The couple were accompanied by Aisling’s new entourage, a dozen young orphans, dubbed Aisling’s ‘Cherubs’ by the attendees. The children delighted the crowd by singing, dancing and reciting several epic works of Imperial poetry.

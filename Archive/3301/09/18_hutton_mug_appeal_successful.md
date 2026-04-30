@@ -1,26 +1,19 @@
 ---
-uuid: f8a9b0c1-d2e3-4f5a-6b7c-8d9e0f1a2b35
+uuid: bcb562fa-eb2b-5f2c-b686-b882a405b132
 title: Hutton Mug Appeal Successful
 slug: hutton_mug_appeal_successful
 date: '3301-09-18'
 source: GitHub
-entities:
-  - Chase Fulbright
-groups:
-  - BlipMagnet
-locations:
-  - Alpha Centauri
-  - Hutton Orbital
-  - Sol
-topics:
-  - merchandise
-arc_id: misc
-modern_impact: Hutton Mug production successful after pilot deliveries.
-legacy_weight: 1
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 Hutton Mug Appeal Successful
 
-A few weeks ago, the novelties manufacturer BlipMagnet announced the release of the Hutton Mug. Thousands of independent pilots made the trek to Hutton Orbital to deliver scrap materials for BlipMagnet's first batch. Following the success of this event, the director of BlipMagnet, Chase Fulbright, released a statement:
 
-"You guys are awesome! I was so psyched by your response to our appeal. The good news is we've got more than enough material for our next run – the bad news is there are a few infrastructure issues we need to address before we can start production."
+Hutton Mug Appeal Successful 
+ 
+A few weeks ago, the novelties manufacturer BlipMagnet announced the release of the Hutton Mug – a commemorative beaker sporting the words “I made it to Hutton Orbital”. The item was designed to appeal to those completing the epic journey to Hutton Orbital, which lies approximately 0.22 light years from the nearest star. The concept proved highly appealing, and thousands of independent pilots made the trek to Hutton Orbital to deliver scrap materials for BlipMagnet’s first batch. Following the success of this event, the director of BlipMagnet, Chase Fulbright, released a statement: 
+
+“You guys are awesome! I was so psyched by your response to our appeal. The good news is we’ve got more than enough material for our next run – the bad news is there are a few infrastructure issues we need to address before we can start production. So I apologise in advance for the wait, but rest assured that your Hutton mugs are coming, and as soon as they’re ready we’ll let you know. Peace out!”

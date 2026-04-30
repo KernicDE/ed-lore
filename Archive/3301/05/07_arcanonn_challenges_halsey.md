@@ -1,44 +1,33 @@
 ---
-uuid: 5c6d7e8f-9a0b-1c2d-3e4f-5a6b7c8d9e0f
+uuid: aec9d33c-4ebd-52fa-a92d-a554a732713c
 title: Arcanonn Challenges Halsey
 slug: arcanonn_challenges_halsey
 date: '3301-05-07'
 source: GitHub
 entities:
-  - Dr. Arcanonn
-  - President Halsey
-  - CMDR Red Wizzard
+- Arcanonn
 groups:
-  - Federal Navy
-locations:
-  - Timocani
-  - He Bo
+- Canonn
 topics:
-  - unknown artefacts
-  - scientific investigation
-  - government secrecy
+- exploration
+- research
+- war
 arc_id: unknown-artefacts
-arc_chapter: "Arcanonn challenges the Federation"
-modern_impact: >
-  Dr. Arcanonn's public challenge to the Federation over Unknown Artefacts
-  marks the beginning of a major xeno-scientific controversy. His accusation
-  that Halsey's government is withholding information — coupled with the
-  artefact's destructive radiation and mysterious origins — creates a
-  narrative of government cover-up that will fuel conspiracy theories for
-  years. The artefacts' connection to He Bo's illness suggests biological
-  warfare potential, raising the stakes from scientific curiosity to
-  existential threat.
-legacy_weight: 4
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
+legacy_weight: 3
+significance: medium
 ---
 
 Arcanonn Challenges Halsey
 
-Research into the recently recovered Unknown Artefact has intensified. Scientists, engineers and Commanders are flocking to assist Dr Arcanonn and his team from all across populated space, political allegiances temporarily forgotten in the search for answers.
 
-Many theories have been hypothesised, among them that the Artefact is some kind of stasis pod, an alien exploration probe or even an exotic frame-shift drive. The object's strange sounds have been picked apart by experts and it has been subjected to a vast array of tests, including exposure to a sample of Hafnium 178 that was 'liberated for science' from yet another Federation convoy.
+Research into the recently recovered Unknown Artefact has intensified. Scientists, engineers and Commanders are flocking to assist Dr Arcanonn and his team from all across populated space, political allegiances temporarily forgotten in the search for answers.  
 
-The mysterious object continues to defy all attempts at analysis and, in a controversial move, Dr Arcanonn has publicly accused the Federal authorities of withholding information regarding the Unknown Artefact.
+Many theories have been hypothesised, among them that the Artefact is some kind of stasis pod, an alien exploration probe or even an exotic frame-shift drive. The object’s strange sounds have been picked apart by experts and it has been subjected to a vast array of tests, including exposure to a sample of Hafnium 178 that was ‘liberated for science’ from yet another Federation convoy. 
 
-He is quoted as saying, "On behalf of all humanity, my team and I demand answers. The potential repercussions of the Artefact's existence are staggering. We still know very little but it is clear that the technology involved is very different to our own."
+The mysterious object continues to defy all attempts at analysis and, in a controversial move, Dr Arcanonn has publicly accused the Federal authorities of withholding information regarding the Unknown Artefact. 
 
-Commander Arcanonn concludes his appeal: "The potential for scientific advancements are huge but so are the dangers. The Federation has to come forward and tell us what they know of this object and its origins. The time for secrecy is over."
+He is quoted as saying, "On behalf of all humanity, my team and I demand answers. The potential repercussions of the Artefact’s existence are staggering. We still know very little but it is clear that the technology involved is very different to our own.” 
+
+Commander Arcanonn concludes his appeal: “The potential for scientific advancements are huge but so are the dangers. The Federation has to come forward and tell us what they know of this object and its origins. The time for secrecy is over."

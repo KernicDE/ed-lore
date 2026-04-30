@@ -1,40 +1,23 @@
 ---
-uuid: 1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f
-title: "Who is Brad Mitchell, the New Federal VP?"
+uuid: cc1264c1-17e7-5557-a315-700f04a2f4d9
+title: Who is Brad Mitchell  The New Federal VP!
 slug: who_is_brad_mitchell_the_new_federal_vp
 date: '3301-06-11'
 source: GitHub
-entities:
-  - Brad Mitchell
-  - President Zachary Hudson
-groups:
-  - Federal Navy
-locations:
-  - Mars
-  - Sol
 topics:
-  - profile
-  - military appointment
-arc_id: federal-politics
-arc_chapter: "Mitchell profiled"
-modern_impact: >
-  Brad Mitchell's profile reveals Hudson's ideal Vice President: a
-  military man with no political baggage, loyal to the chain of command.
-  Mitchell's career — rising from enlisted sailor to admiral through
-  "tactical brilliance and personal courage" — is the archetype Hudson
-  wants all Federal citizens to emulate. His lack of political experience
-  is presented as a virtue: "He doesn't play politics. He gets things
-  done." This appointment cements the military's ascendancy in Federal
-  governance, a trend that will accelerate under Hudson's presidency.
-legacy_weight: 3
+- corporate expansion
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
-Who is Brad Mitchell, the New Federal VP?
+Who is Brad Mitchell? The New Federal VP!
 
-Brad Mitchell, President Hudson's newly appointed Vice President, is a man of few words and many medals.
 
-A career naval officer, Mitchell rose from enlisted sailor to admiral over four decades of service. He is best known for his role in the Federation's counter-piracy campaigns in the early 3290s, where his tactical brilliance and personal courage earned him the Federal Cross.
+Who is Brad Mitchell? The New Federal VP! 
+ 
+After the phenomenal political upheaval of the last week and the handover to the new administration, we take a look at our new Vice President Brad Mitchell. 
 
-"Brad Mitchell is not a politician," Hudson said at the announcement. "He is a soldier. And that is exactly what the Federation needs right now."
+He started as a travelling salesman, a rep for LTT 15449 Dynamic Incorporated, and rapidly climbed the ranks, ending up as President of Sales at Reyan BPS, becoming very wealthy before his move into politics. Brad Mitchell has a good reputation for getting things done, but has made enemies along the way. 
 
-Mitchell's appointment has been welcomed by the military establishment but has raised concerns among civilian lawmakers who worry about the increasing militarisation of the Federal government.
+Having spent much of his early adult life travelling throughout Federal space on behalf of various interstellar corporations, the new VP is well versed in the needs of the Federal frontier systems, and he is well liked in those systems. It is a clear move by Hudson to show he plans to support the frontier on every level, and has been seen as a very positive move by many living along the Federal borders.

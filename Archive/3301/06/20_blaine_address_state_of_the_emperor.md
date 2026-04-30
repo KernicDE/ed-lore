@@ -1,42 +1,32 @@
 ---
-uuid: 7e8f9a0b-1c2d-3e4f-5a6b-7c8d9e0f1a2b
-title: Blaine Addresses State of the Emperor
+uuid: e8386b9b-6418-583a-ac32-ea816fd08e8a
+title: Blaine Address State of the Emperor
 slug: blaine_address_state_of_the_emperor
 date: '3301-06-20'
 source: GitHub
 entities:
-  - Chancellor Anders Blaine
-  - Emperor Hengist Duval
-groups:
-  - Imperial Senate
-locations:
-  - Capitol
-  - Achenar
+- Blaine made
+- Chancellor Blaine made
+- Hengist Duval
 topics:
-  - emperor's health
-  - succession
-arc_id: imperial-succession
-arc_chapter: "Emperor's condition worsens"
-modern_impact: >
-  Blaine's address confirms what many have suspected: Emperor Hengist's
-  condition is terminal, and the succession crisis is entering its
-  final phase. Blaine's refusal to name an heir — "That decision belongs
-  to the Senate" — is a political abdication that opens the field to
-  Arissa, Patreus, and Torval. His plea for "unity and stability" sounds
-  increasingly desperate as Imperial factions prepare for open conflict.
-  The Emperor's death, when it comes, will be the spark that ignites
-  the Imperial civil war.
-legacy_weight: 5
+- sport
+- succession
+modern_impact: Competitive event for the pilot community.
+legacy_weight: 1
+significance: low
 ---
 
-Blaine Addresses State of the Emperor
+Blaine Address State of the Emperor
 
-Chancellor Blaine addressed the Imperial Senate today to provide an update on Emperor Hengist Duval's health.
 
-"I regret to inform you that His Majesty's condition has deteriorated significantly. The Imperial physicians have done everything in their power, but the Emperor's body is failing."
+Blaine Address State of the Emperor 
+ 
+Chancellor Blaine made an appearance before the Senate today in order to provide an update on the Emperor’s health, following the attempt on the Emperor’s life a little over a month ago. 
 
-Blaine refused to speculate on the question of succession, saying only that "the Senate will decide the future of the Empire when the time comes."
+“I am pleased to report that the Emperor is recovering nicely,” the Chancellor began. “There was some small concern that an excessive amount of toxins had been allowed to take root in the Emperor’s body, but His Grace’s physicians have proven themselves more than up to the task of removing them.” 
 
-"I urge all citizens of the Empire to remain calm and to remember that the Empire has survived crises before. We will survive this one."
+“Similarly, praise must go to Princess Lavigny, whose invaluable assistance in tracking down the conspirators led to the restoration of the Emperor’s justice in several dozen systems. A fact which I am sure will be of great comfort to those who were worried that the Duval legacy would be allowed to fall into ruin. Doubtless the Princess’s father would be extremely proud.” 
 
-Political analysts note that Blaine's refusal to name an heir suggests that the succession is far from settled, with multiple factions vying for power.
+“On that note, I am pleased to announce that His Grace, Emperor Hengist Duval, has begun to show signs of returning to good health. The Emperor’s personal physicians have assured me that should His Grace continue to heal at his current rate, the Emperor will almost certainly make a full recovery.” 
+
+“Hail the Emperor, bask in his glory.”

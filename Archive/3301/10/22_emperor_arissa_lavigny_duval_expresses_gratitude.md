@@ -4,23 +4,17 @@ title: Emperor Arissa Lavigny Duval Expresses Gratitude
 slug: emperor_arissa_lavigny_duval_expresses_gratitude
 date: '3301-10-22'
 source: GitHub
-entities:
-- Emperor Arissa Lavigny-Duval
 groups:
-- Imperial Palace
+- Alliance
+- Imperial Navy
 locations:
 - Achenar
 - Dawes Hub
 topics:
-- coronation
-- gratitude
-- tradition
-arc_id: imperial-succession
-arc_chapter: Arissa thanks gift-givers
-modern_impact: Arissa expresses gratitude to pilots who delivered slaves as coronation
-  gifts. She notes that Federation and Alliance pilots participated, filling her with
-  hope for peaceful exchange. Discounts on Imperial ships and access to restricted
-  vessels offered to participants.
+- ship
+- slavery
+- succession
+modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
 ---

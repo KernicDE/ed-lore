@@ -7,16 +7,16 @@ source: GitHub
 groups:
 - Federal Times
 locations:
-- Warkushanui
 - Gurragchaa Gateway
+- Recent reports from the Warkushanui
+- Warkushanui
 topics:
-- technical malfunction
-- unknown artefacts
+- construction
+- exploration
+- war
 arc_id: unknown-artefacts
-arc_chapter: Warkushanui malfunctions worsen
-modern_impact: Technical issues in Warkushanui worsen. Starports experience inexplicable
-  mechanical problems. Commentators note the correlation with increasing numbers of
-  anomalous extraterrestrial objects in the system. Station services may soon be affected.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---

@@ -15,7 +15,8 @@ topics:
 - ship
 - trade
 - war
-modern_impact: Community celebration bringing pilots together.
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
 significance: low
 ---

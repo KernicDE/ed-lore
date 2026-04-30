@@ -4,19 +4,20 @@ title: The Search for the Antares
 slug: the_search_for_the_antares
 date: '3301-12-22'
 source: GitHub
-entities:
-- Li Yong-Rui
 groups:
+- Sirius Corp
 - Sirius Corporation
+locations:
+- Procyon
+- Sirius
 topics:
-- exploration
-- mystery
-- search
+- corporate expansion
+- independence
+- research
+- ship
 arc_id: antares-mystery
-arc_chapter: Search for Antares begins
-modern_impact: Sirius Corporation launches a search for the remains of the Antares,
-  an innovative passenger liner that disappeared during its maiden voyage in 3251.
-  Hundreds of independent pilots participate, scouring the galaxy for wreckage.
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
+  with implications for hyperdrive safety.
 legacy_weight: 3
 significance: medium
 ---

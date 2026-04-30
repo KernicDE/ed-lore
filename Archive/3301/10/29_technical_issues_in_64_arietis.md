@@ -6,16 +6,14 @@ date: '3301-10-29'
 source: GitHub
 locations:
 - 64 Arietis
+- Warkushanui
+- Weyn Dock
 topics:
-- technical malfunction
-- unknown artefacts
-arc_id: unknown-artefacts
-arc_chapter: Malfunctions spread to 64 Arietis
-modern_impact: Technical malfunctions similar to those in Warkushanui and 49 Arietis
-  are reported in 64 Arietis. The pattern of station breakdowns spreading across systems
-  correlates with the distribution of unknown artefacts.
-legacy_weight: 3
-significance: medium
+- construction
+- war
+modern_impact: Infrastructure project with long-term benefits for the affected region.
+legacy_weight: 2
+significance: low
 ---
 
 Technical Issues in 64 Arietis

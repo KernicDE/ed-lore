@@ -1,43 +1,35 @@
 ---
-uuid: 2d3e4f5a-6b7c-8d9e-0f1a-2b3c4d5e6f7a
-title: Mahon Speaks Out on Alliance Values
+uuid: 7d013785-9418-5c04-8446-8e8dca9a7e51
+title: Mahon speaks out on Alliance Values
 slug: mahon_speaks_out_on_alliance_values
 date: '3301-07-02'
 source: GitHub
 entities:
-  - Prime Minister Edmund Mahon
+- Mahon gave
 groups:
-  - Alliance
+- Alliance
 locations:
-  - Alioth
-  - Old Worlds
+- Alioth
 topics:
-  - alliance values
-  - diplomacy
-  - independence
+- sport
 arc_id: alliance-expansion
-arc_chapter: "Mahon's philosophy"
-modern_impact: >
-  Mahon's speech on Alliance values is a direct counter-narrative to
-  Hudson's militarism and Imperial autocracy. His emphasis on "freedom,
-  cooperation, and mutual respect" positions the Alliance as the moral
-  alternative to superpower aggression. The contrast with Hudson's
-  "strength above all" could not be clearer. Mahon's vision of a
-  "galaxy where no single power dominates" is both idealistic and
-  strategically astute: it appeals to independent systems who fear
-  both Federal expansion and Imperial predation. This speech defines
-  the Alliance's identity for the coming decade.
-legacy_weight: 4
+modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence
+  through Mahon's trade agreements.
+legacy_weight: 3
+significance: medium
 ---
 
-Mahon Speaks Out on Alliance Values
+Mahon speaks out on Alliance Values
 
-Prime Minister Edmund Mahon has delivered a major speech defending the Alliance's values in an increasingly polarised galaxy.
 
-"In a galaxy where some preach strength through domination, the Alliance offers a different path. We believe in freedom, cooperation, and mutual respect. We do not seek to conquer. We seek to coexist."
+Mahon speaks out on Alliance Values 
+ 
+Prime Minister Mahon gave a speech today to the assembled graduates of the esteemed Alioth University, the same establishment he graduated from as a student. While his opponents sometimes deride his ‘matter of fact’ presentation, few could argue against the Prime Minister’s passion for the values he holds dear: 
 
-Mahon criticised both the Federation's military expansion under Hudson and the Empire's internal power struggles.
+“The Alliance of Independent Systems is built upon a single defining principle and that is one of freedom. The freedoms we enjoy range from our personal freedoms as inscribed in the Bill of Human Rights to the freedom of societies and even planets within the Alliance. 
 
-"The Federation talks of security while building an army. The Empire talks of honour while its citizens suffer. The Alliance talks of partnership — and we mean it."
+“But we should not accept this grace blindly or assume that its existence continues by mere chance. The birth of the Alliance came from removing the burden of the Federation and the Empire who for centuries fought each other for our resources and we were caught helpless in the middle. 
 
-The speech was well received in Alliance systems and among independent traders, but dismissed by both Federal and Imperial officials.
+“Both of those organisations proudly describe their origins as being freedom from the tyranny of others. And yet now they are the tyranny and it is our duty to oppose them, while also ensuring that we don’t become them.” 
+
+The speech then turned to the minutiae of the Alliance’s democratic process. But pundits were quick to comment that this was a bold statement from the Prime Minister and that perhaps the recent successes in the Old Worlds region show a more robust future for the Alliance in galactic politics.

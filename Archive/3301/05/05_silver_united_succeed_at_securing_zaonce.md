@@ -1,25 +1,33 @@
 ---
-uuid: 2f3a4b5c-6d7e-8f9a-0b1c-2d3e4f5a6b7c
+uuid: 1c9c7836-bdad-5e5d-911a-35fb9c4d5b73
 title: Silver United Succeed at Securing Zaonce
 slug: silver_united_succeed_at_securing_zaonce
 date: '3301-05-05'
 source: GitHub
-entities: []
 groups:
-  - Silver United Solutions
+- Alliance
 locations:
-  - Zaonce
-  - Ridley Scott
+- Lave
+- Sol
+- Zaonce
 topics:
-  - security
-  - corporate success
-arc_id: old-worlds-renaissance
-modern_impact: Silver United establishes control in Zaonce.
-legacy_weight: 1
+- crime
+- diplomacy
+- piracy
+- ship
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 Silver United Succeed at Securing Zaonce
 
-Silver United Solutions has announced the successful securing of Zaonce following a week-long campaign against local criminal elements.
 
-The corporation has thanked all independent pilots who assisted in the operation and has announced that bonus payments will be available for registered participants.
+After months of being terrorised by malicious criminals intent on turning the Old Worlds into some kind of ‘New Caribbean’, residents of the Lave cluster finally banded together this past weekend to crack down on the lawless scum that had been pillaging and plundering their way across the sector. 
+
+Inspired by the recent help freely given to the people of Reorte by the Alliance Elite Diplomatic Corps, Silver United Solutions decided to offer a set of substantial rewards to any pilot brave enough to help remove the criminals known as the Jet Gang from Zaonce.   
+
+The initiative was an overwhelming success. 5,535 pilots were temporarily deputised during the course of the weekend, leading to the Zaonce Jet Gang (and many other local pirate crews) being crushed by the raw power of the makeshift fleet. 
+
+To celebrate their success, Silver United Solutions has organised a special discount on all Faulcon DeLacy ships being sold from Ridley Scott Station, Zaonce. A limited number of Pythons have been made available for the duration of the sale.

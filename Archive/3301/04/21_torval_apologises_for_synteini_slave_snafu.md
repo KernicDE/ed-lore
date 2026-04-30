@@ -1,26 +1,34 @@
 ---
-uuid: 2b3c4d5e-6f7a-8b9c-0d1e-2f3a4b5c6d7e
+uuid: 20fda772-a186-5384-92b6-2e4f186d1b2b
 title: Torval Apologises for Synteini Slave Snafu
 slug: torval_apologises_for_synteini_slave_snafu
 date: '3301-04-21'
 source: GitHub
-entities:
-  - Senator Zemina Torval
-groups:
-  - Imperial Slavers Association
 locations:
-  - Synteini
-  - Lagerkvist Gateway
+- LTT 9810
+- Synteini
 topics:
-  - slavery
-  - apology
-arc_id: aisling-reform-movement
-modern_impact: Routine follow-up to the Great Slaver Showdown.
-legacy_weight: 1
+- investigation
+- ship
+- slavery
+- succession
+- trade
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 Torval Apologises for Synteini Slave Snafu
 
-Senator Torval has today issued an apology to the residents of Synteini, following a logistical error which saw several thousand unprocessed slaves released onto the local market ahead of schedule.
 
-The Imperial Slavers Association has promised to review its processing protocols to ensure that similar mistakes do not happen again in the future.
+Last weekend the Imperial Slavers Association was supposed to make 5 million Imperial Slaves available for a significant discount in the markets aboard Lagerkvist Gateway. Much to the dismay of hundreds of eager Imperial traders, the slaves (and their associated discount) were delayed by members of Princess Lavigny-Duval’s retinue as they attempted to pass through LTT 9810. 
+
+This unfortunate snafu meant that the ISA was unable to make good on Senator Zemina Torval’s promise. Reports from those close to the Senator state that Zemina was furious when she learned that Princess Arissa’s agents had seized her shipment. However, in light of the Silver Allied Network incident, the Senator is said to have since seen the wisdom of the investigators' actions. 
+
+In a statement released earlier today, Senator Torval had this to say: 
+
+“It is with deep embarrassment that I must apologise to all those whose businesses were unfortunately affected by the ongoing investigation into the attack on our beloved Emperor.” 
+
+“I have no doubt that Senator Lavigny’s agents acted with the Emperor’s best interests at heart. As do we all. Indeed I urge those hard working loyalists to come and partake in the fantastic selection of discounted produce we have available for sale in Synteini.”” 
+
+“A fresh shipment of Imperial Slaves is currently being prepared for sale at Lagerkvist Gateway. The sale is now officially underway, as promised, but stock levels will remain low until the new shipment arrives in Synteini later this week.”

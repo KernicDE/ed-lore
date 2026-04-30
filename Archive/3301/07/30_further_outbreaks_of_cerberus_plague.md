@@ -1,31 +1,45 @@
 ---
-uuid: 3c4d5e6f-7a8b-9c0d-1e2f-3c4d5e6f7a8b
+uuid: 39d6a0c1-d39a-5f5c-af44-fe9e3e943e21
 title: Further Outbreaks of Cerberus Plague
 slug: further_outbreaks_of_cerberus_plague
 date: '3301-07-30'
 source: GitHub
-entities:
-  - Carl Simmons
-groups:
-  - Federal Navy
 locations:
-  - Multiple systems
+- Our sources indicate that the following
 topics:
-  - plague
-  - outbreak
+- medicine
 arc_id: cerberus-plague
-arc_chapter: "Plague spreads further"
-modern_impact: >
-  New outbreaks of the Cerberus Plague continue to emerge despite the
-  discovery of the Heike Tea cure. The disease's persistence shows
-  that curing the infected is not enough — prevention and containment
-  remain critical. The Federal Navy's failure to protect medical
-  supply ships from pirates is exacerbating the crisis.
+modern_impact: Marks a significant phase in the fight against a devastating plague
+  that killed over 100,000.
 legacy_weight: 3
+significance: medium
 ---
 
 Further Outbreaks of Cerberus Plague
 
-Despite the discovery of a cure, new outbreaks of the Cerberus Plague have been reported in additional systems. Medical authorities are working to distribute the antidote, but pirate attacks on supply ships are hampering their efforts.
 
-"We need more protection for our medical convoys," said one health official. "Every ship lost means more lives lost."
+Further Outbreaks of Cerberus Plague 
+ 
+While medical teams across the galaxy work to develop the quantities of antidote needed to eliminate the Cerberus Plague, fresh outbreaks of the disease are appearing in other systems. Our sources indicate that the following systems are currently affected by the Cerberus Plague: 
+
+Chongguls 
+
+Xamentii 
+
+G 139-50 
+
+Cantjarisni 
+
+Rajukru 
+
+HIP 10175 
+
+Amahu 
+
+Leerham 
+
+BD-11 4280 
+
+Louguala 
+
+Any independent pilots who wish to help those affected are encouraged to deliver medicines to the systems listed above.

@@ -1,26 +1,28 @@
 ---
-uuid: 9a0b1c2d-3e4f-5a6b-7c8d-9e0f1a2b3c4d
+uuid: b8bb8126-dc7a-5d04-8acd-153c5c83d1de
 title: Further Disturbances in Mourners' Line
 slug: further_disturbances_in_mourners_line
 date: '3301-08-17'
 source: GitHub
-entities:
-  - Senator Denton Patreus
 groups:
-  - Imperial Naval Infantry
-  - Imperial Guard
+- Imperial Guard
+- Imperial Naval Infantry
 locations:
-  - Capitol
-  - Achenar
-  - Hall of Martyrs
+- Denton
 topics:
-  - protest
-  - unrest
-arc_id: imperial-succession
-modern_impact: Protests against Patreus continue at mourning events.
+- festival
+- succession
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
+significance: low
 ---
 
 Further Disturbances in Mourners' Line
 
-Imperial Naval infantry have once again intervened as protesters – who have taken issue with Senator Denton Patreus's connection to Brendan Paul Darius, the Emperor's murderer – attempted to prevent access to some of Senator Patreus's allies late last night. This time the agitators resisted the soldiers' efforts to maintain peace. After several attempts to peacefully resolve the situation, a riot squad was deployed to restore order.
+
+Further Disturbances in Mourners' Line 
+ 
+Imperial Naval infantry have once again intervened as protesters – who have taken issue with Senator Denton Patreus’s connection to Brendan Paul Darius, the Emperor’s murderer – attempted to prevent access to some of Senator Patreus’s allies late last night. This time the agitators resisted the soldiers’ efforts to maintain peace. After several attempts to peacefully resolve the situation, a riot squad was deployed to restore order. 
+
+The action was efficiently completed, but smaller disturbances and protests flared up throughout the night. All were pacified by the troops but many mourners were forced to flee. Calm was eventually restored and an Imperial Guard company has now been stationed to secure the entrance to the Hall of Martyrs. A full regiment of Naval infantry has also been moved into the city.

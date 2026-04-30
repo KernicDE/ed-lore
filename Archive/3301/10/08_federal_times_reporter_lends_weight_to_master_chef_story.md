@@ -6,6 +6,7 @@ date: '3301-10-08'
 source: GitHub
 entities:
 - Lends Weight
+- Marc Garfield
 groups:
 - Federal Times
 - Revolutionary Noti Value Party
@@ -15,9 +16,10 @@ locations:
 - Weber Gateway
 topics:
 - genetic experiments
+- independence
 - slavery
 - trade
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Trade initiative affecting commodity markets and local economies.
 legacy_weight: 2
 significance: low
 ---

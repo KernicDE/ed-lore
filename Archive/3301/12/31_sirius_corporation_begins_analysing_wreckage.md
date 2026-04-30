@@ -4,19 +4,19 @@ title: Sirius Corporation Begins Analysing Wreckage
 slug: sirius_corporation_begins_analysing_wreckage
 date: '3301-12-31'
 source: GitHub
-entities:
-- Li Yong-Rui
 groups:
+- Sirius Corp
 - Sirius Corporation
+- Sirius Gov
+locations:
+- Sirius
 topics:
-- exploration
-- mystery
+- corporate expansion
 - research
+- ship
 arc_id: antares-mystery
-arc_chapter: Analysis begins
-modern_impact: Sirius Corporation receives thousands of tonnes of space-borne debris
-  from the Antares search. Li Yong-Rui announces the beginning of analysis to determine
-  if any wreckage is from the lost ship. The fate of the Antares may soon be known.
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
+  with implications for hyperdrive safety.
 legacy_weight: 3
 significance: medium
 ---

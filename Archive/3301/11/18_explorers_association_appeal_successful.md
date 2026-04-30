@@ -4,21 +4,18 @@ title: Explorers' Association Appeal Successful
 slug: explorers_association_appeal_successful
 date: '3301-11-18'
 source: GitHub
-groups:
-- Explorer's Association
 locations:
-- Pleiades Nebula
 - Kaushpoos
+- Obsidian Orbital
 topics:
 - construction
 - exploration
+- war
 arc_id: pleiades-expansion
-arc_chapter: Metal appeal successful
-modern_impact: The Explorer's Association announces that its appeal for metals to
-  construct the Pleiades Nebula starport was successful. Sufficient materials have
-  been delivered to complete the superstructure.
-legacy_weight: 2
-significance: low
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
+  new frontiers for exploration and potentially first contact.
+legacy_weight: 3
+significance: medium
 ---
 
 Explorers' Association Appeal Successful

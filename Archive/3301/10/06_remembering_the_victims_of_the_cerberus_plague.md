@@ -18,10 +18,8 @@ topics:
 - eradication
 arc_id: cerberus-plague
 arc_chapter: Plague eradicated
-modern_impact: 'The Cerberus Plague is officially extinct. Death toll: over 100,000.
-  Carl Simmons confirms no new outbreaks since early August. A memorial is unveiled
-  at Hart Station. Governor Albrecht dedicates it to ''the many men, women and children
-  whose lives were claimed.'''
+modern_impact: Marks a significant phase in the fight against a devastating plague
+  that killed over 100,000.
 legacy_weight: 4
 significance: high
 ---

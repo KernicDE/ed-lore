@@ -4,14 +4,10 @@ title: Mavia Kain Announces Galactic Games
 slug: mavia_kain_announces_galactic_games
 date: '3301-11-06'
 source: GitHub
-entities:
-- Mavia Kain
 topics:
+- ship
 - sport
-- competition
-modern_impact: Mavia Kain announces the Galactic Games, a new competitive event for
-  pilots across the galaxy. The games will feature racing, combat, and exploration
-  challenges. Independent pilots are invited to register.
+modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---

@@ -4,24 +4,19 @@ title: Pirates Target Pegasi Refugees
 slug: pirates_target_pegasi_refugees
 date: '3301-09-23'
 source: GitHub
-entities:
-  - Commander Quade
 groups:
-  - Defence Force of Amitrite
-  - Kumo Crew
+- Defence Force of Amitrite
 locations:
-  - Amitrite
-  - Pegasi Sector
-  - Munshin
+- Amitrite
 topics:
-  - piracy
-  - refugees
-  - war crimes
+- humanitarian
+- piracy
+- war
 arc_id: kumo-crew-rise
-arc_chapter: "Refugees under attack"
-modern_impact: >
-  Pirates attack refugee transports in Amitrite. The Defence Force of Amitrite warns their forces are stretched too thin and urges refugees to avoid the system. The DFA encourages independent pilots to eliminate the pirates.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
+significance: medium
 ---
 
 Pirates Target Pegasi Refugees

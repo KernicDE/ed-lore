@@ -5,13 +5,12 @@ slug: onionhead_appeal_successful
 date: '3301-11-25'
 source: GitHub
 topics:
-- commodities
-- trade
 - narcotics
-modern_impact: The Onionhead appeal concludes successfully. Sufficient quantities
-  of the narcotic have been delivered. The faction thanks all participating pilots
-  but remains silent on the purpose of the request.
-legacy_weight: 1
+- piracy
+- trade
+- war
+modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
+legacy_weight: 2
 significance: low
 ---
 

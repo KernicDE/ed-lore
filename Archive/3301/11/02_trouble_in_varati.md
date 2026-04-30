@@ -4,20 +4,19 @@ title: Trouble in Varati
 slug: trouble_in_varati
 date: '3301-11-02'
 source: GitHub
-groups:
-- Canonn Interstellar Research Group
 locations:
+- 64 Arietis
+- Bond Hub
+- Bond Hub in the Varati
 - Varati
+- Warkushanui
+- Weyn Dock
 topics:
-- technical malfunction
-- unknown artefacts
-arc_id: unknown-artefacts
-arc_chapter: Varati malfunctions
-modern_impact: Technical malfunctions begin affecting Varati, home of the Canonn Interstellar
-  Research Group. The Canonn's headquarters experiences power fluctuations and communications
-  interference, further linking the issues to proximity to unknown artefacts.
-legacy_weight: 3
-significance: medium
+- construction
+- war
+modern_impact: Infrastructure project with long-term benefits for the affected region.
+legacy_weight: 2
+significance: low
 ---
 
 Trouble in Varati

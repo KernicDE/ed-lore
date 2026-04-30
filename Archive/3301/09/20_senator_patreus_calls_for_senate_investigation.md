@@ -5,23 +5,18 @@ slug: senator_patreus_calls_for_senate_investigation
 date: '3301-09-20'
 source: GitHub
 entities:
-  - Senator Denton Patreus
-  - Aisling Duval
-  - Damon Clarke
+- Denton Patreus prepared
+- Patreus Calls
 groups:
-  - Imperial Senate
+- Imperial Herald
 locations:
-  - Capitol
-  - Achenar
+- Denton
 topics:
-  - investigation
-  - scandal
-  - terrorism
-arc_id: imperial-succession
-arc_chapter: "Patreus demands investigation"
-modern_impact: >
-  Patreus demands a full Senate investigation into Aisling's links to Emperor's Dawn, citing his own experience submitting to investigation after Darius's attack. Damon Clarke remains at large, believed to have fled the Empire.
-legacy_weight: 4
+- investigation
+- succession
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 Senator Patreus Calls for Senate Investigation

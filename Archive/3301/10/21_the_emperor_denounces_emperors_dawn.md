@@ -20,9 +20,8 @@ topics:
 - war
 arc_id: imperial-succession
 arc_chapter: Arissa's first decree
-modern_impact: 'Emperor Arissa''s first decree: denounce Emperor''s Dawn as ''an enemy
-  of the Empire'' and endorse Patreus''s campaign. She praises his ''sound judgement''
-  and declares the operation to destroy Emperor''s Dawn will continue under his guidance.'
+modern_impact: Arissa's first decree commits the Empire to total war against Emperor's
+  Dawn, setting the tone for her reign.
 legacy_weight: 5
 significance: high
 ---

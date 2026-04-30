@@ -5,23 +5,24 @@ slug: aisling_duval_praises_the_munshin_system
 date: '3301-09-22'
 source: GitHub
 entities:
-  - Aisling Duval
-  - Commander Quade
+- Quade Aisling Duval Praises
 groups:
-  - Libertas Cooperative
+- Imperial Navy
+- Libertas Cooperative
 locations:
-  - Munshin
-  - Ocrinox's Orbiter
-  - Pegasi Sector
+- Munshin
+- Ocrinox's Orbiter
 topics:
-  - refugees
-  - humanitarian
-  - praise
-arc_id: aisling-reform-movement
-arc_chapter: "Aisling praises Munshin"
-modern_impact: >
-  Aisling praises the Munshin system and Libertas Cooperative for refugee relief efforts. Critics accuse her of overlooking Imperial Navy pilots fighting in the Pegasi Pirate War.
-legacy_weight: 2
+- humanitarian
+- medicine
+- piracy
+- ship
+- war
+arc_id: kumo-crew-rise
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
+legacy_weight: 3
+significance: medium
 ---
 
 Aisling Duval Praises the Munshin System

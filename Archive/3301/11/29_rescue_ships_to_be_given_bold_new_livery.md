@@ -4,15 +4,15 @@ title: Rescue Ships to be Given Bold New Livery
 slug: rescue_ships_to_be_given_bold_new_livery
 date: '3301-11-29'
 source: GitHub
+entities:
+- Father Cool
 groups:
 - Fuel Rats
+- Pilots Federation
 topics:
-- rescue
 - humanitarian
 - ship
-modern_impact: Rescue ships operated by the Fuel Rats and other humanitarian organisations
-  are to receive a bold new livery. The distinctive paint scheme will make them easily
-  identifiable to pilots in distress.
+modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---

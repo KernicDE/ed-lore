@@ -4,15 +4,19 @@ title: Increased Smuggling Activity in Epsilon Indi
 slug: increased_smuggling_activity_in_epsilon_indi
 date: '3301-11-11'
 source: GitHub
+groups:
+- Federal Times
 locations:
+- Authorities in the Epsilon Indi
 - Epsilon Indi
 topics:
-- smuggling
+- construction
+- corporate expansion
 - crime
-modern_impact: Increased smuggling activity is reported in Epsilon Indi following
-  the Alliance summit conference. The influx of visitors and traders has created opportunities
-  for criminal elements.
-legacy_weight: 1
+- diplomacy
+- independence
+modern_impact: Infrastructure project with long-term benefits for the affected region.
+legacy_weight: 2
 significance: low
 ---
 

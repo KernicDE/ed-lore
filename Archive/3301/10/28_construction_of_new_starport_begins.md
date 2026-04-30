@@ -4,24 +4,15 @@ title: Construction of New Starport Begins
 slug: construction_of_new_starport_begins
 date: '3301-10-28'
 source: GitHub
-groups:
-- Explorer's Association
-- Brewer Corporation
-- Pacap Limited
-- Universal Cartographics
 locations:
-- Pleiades Nebula
 - Kaushpoos
-- Neville Horizons
+- Pleiades Nebula
 topics:
 - construction
 - exploration
-- starport
 arc_id: pleiades-expansion
-arc_chapter: Metal collection phase
-modern_impact: 'Construction of the Pleiades Nebula starport enters its first phase:
-  collecting metals for the superstructure. The Explorer''s Association offers generous
-  premiums to pilots delivering metals to Neville Horizons in Kaushpoos.'
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
+  new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---

@@ -21,10 +21,8 @@ topics:
 - gender
 arc_id: imperial-succession
 arc_chapter: Coronation
-modern_impact: Arissa Lavigny-Duval is crowned Emperor — the first female Emperor.
-  She refused to travel in a closed speeder despite safety concerns. The procession
-  arrived at the palace at exactly midday. Her first speech promises to announce her
-  government and plans to tackle threats in the coming weeks.
+modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption
+  stance and military focus shape Imperial policy for years to come.
 legacy_weight: 5
 significance: high
 ---

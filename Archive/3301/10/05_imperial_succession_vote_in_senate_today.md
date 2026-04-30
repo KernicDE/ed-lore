@@ -19,10 +19,8 @@ topics:
 - vote
 arc_id: imperial-succession
 arc_chapter: Vote day
-modern_impact: The last day of Senate deliberation before the succession vote. Blaine
-  was the strongest candidate but the Emperor's Dawn scandal leaves Arissa and Aisling
-  as the main contenders. With Patreus and Torval backing Arissa, she has the advantage.
-  But the race is too close to call.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 5
 significance: high
 ---

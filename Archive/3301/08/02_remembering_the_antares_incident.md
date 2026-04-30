@@ -1,40 +1,46 @@
 ---
-uuid: 3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d
+uuid: 9cc554e9-9d3a-57d0-9ac7-06b856491881
 title: Remembering the Antares Incident
 slug: remembering_the_antares_incident
 date: '3301-08-02'
 source: GitHub
-entities:
-  - Sima Kalhana
 groups:
-  - Sirius Corporation
-  - Federal Navy
+- Federal Times
+- Sirius Corp
+- Sirius Corporation
 locations:
-  - Sirius
-  - Beta Hydri
+- Sirius
 topics:
-  - history
-  - disaster
-arc_id: corporate-history
-arc_chapter: "Antares remembered"
-modern_impact: >
-  Sima Kalhana's article on the Antares incident connects the 3251
-  disaster to current events: both involve Sirius Corporation
-  technology, both remain unexplained, and both haunt Federal
-  politics. The Antares — a high-tech passenger liner that vanished
-  without trace — shares eerie similarities with Spaceflight One's
-  disappearance. Kalhana notes that Sirius Corporation "has never
-  fully explained the technical failure" and that conspiracy theories
-  persist. This article deepens the mystery surrounding both incidents.
-legacy_weight: 4
+- corporate expansion
+- piracy
+- safety
+- ship
+arc_id: antares-mystery
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
+  with implications for hyperdrive safety.
+legacy_weight: 3
+significance: medium
 ---
 
 Remembering the Antares Incident
 
-In the latest of GalNet's historical series, Sima Kalhana examines the Antares incident of 3251.
 
-The Antares was a state-of-the-art passenger liner equipped with the latest Sirius Corporation frame-shift drive technology. In 3251, it disappeared during a routine jump between Sirius and Beta Hydri. Despite extensive search efforts, no wreckage was ever found, and the 4,000 passengers and crew were presumed lost.
+Remembering the Antares Incident 
+ 
+Continuing GalNet’s exclusive series highlighting key events in human history, historian Sima Kalhana remembers the Antares Incident. 
 
-"The Antares incident remains one of the greatest mysteries in spaceflight history," Kalhana writes. "Sirius Corporation has never fully explained the technical failure that led to the disappearance, and conspiracy theories continue to circulate."
+In last week’s article about the Sirius Corporation, I described the Antares iIncident as one of the corporation’s greatest failures. Until the recent disappearance of Starship One, this was considered the most infamous spacegoing  accident of all time. 
 
-The incident led to significant changes in frame-shift drive safety protocols, though some argue that the underlying technology remains fundamentally unsafe.
+The Highliner Antares was to be the first of a new type of fast, comfortable liner, making a trip in hours rather than the weeks that were common at the time, and offering a previously unseen level of luxury – something we are accustomed to in the top-class liners of today. It was the first ship to use a production version of a new type of hyperdrive, a predecessor to the modern fast hyperdrives.  
+
+The Antares vanished during its maiden voyage in the Sirius system in 3251, with many celebrity guests on board. The event is poignantly remembered in this quote from the Federal Times: 
+
+“Your reporter watched the departure of Antares on her maiden voyage, the monolayer streamers glinting in the harsh light of Sirius as she moved gently away from the orbital habitat and out to launch range. Spacemen talk of a graveyard of lost ships, a place where all who lose their lives in the colossal drive to colonise the galaxy rest in gentle luxury. 
+
+“We can be sure that the great Highliner Antares is now in their company.” 
+
+The exact cause of the accident was never properly determined. The final report indicated that it was most likely caused by the unlucky failure of a single component during the start of the jump, causing a small fire in a key part of the drive that resulted in a massive explosion and consequent misjump at the same time. There were, of course, a great many fanciful explanations, too. 
+
+Since the accident, no confirmed wreckage of the ship has ever been found, although several claims of discovery have been made over the years. Combined with the lack of a definitive cause, this has led to considerable speculation and many conspiracy theories concerning what actually occurred. 
+
+The final safety report into the incident found there were insufficient safety precautions within the internal drive systems. This delayed the commercial introduction of these drives for several years, damaging the Sirius Corporation, and ultimately resulting in the fitting of many additional safety features to these new hyperdrives. It was later speculated that the deaths of those on the Highliner Antares effectively saved the lives of many more in the subsequent decades, as the number of ships that went missing was measurably reduced, and the new drives proved to be much more reliable than the earlier, slower drives they replaced.

@@ -5,17 +5,15 @@ slug: technical_issues_spread_to_maia
 date: '3301-12-21'
 source: GitHub
 locations:
+- Harma
 - Maia
+- Obsidian Orbital
 topics:
-- technical malfunction
-- unknown artefacts
-arc_id: unknown-artefacts
-arc_chapter: Maia affected by malfunctions
-modern_impact: Technical malfunctions linked to unknown artefacts reach Maia, a key
-  research hub for the Canonn. The spread threatens critical scientific facilities
-  and raises the stakes for understanding and containing the objects.
-legacy_weight: 4
-significance: high
+- construction
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
+significance: low
 ---
 
 Technical Issues Spread to Maia

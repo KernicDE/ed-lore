@@ -4,13 +4,14 @@ title: Faction Issues Festive Request
 slug: faction_issues_festive_request
 date: '3301-12-17'
 source: GitHub
+locations:
+- Hel
+- Snow Moon in the Bento
 topics:
 - festival
-- commodities
 - trade
-modern_impact: A faction issues a festive request for seasonal commodities. Pilots
-  are invited to deliver goods in exchange for rewards. The appeal is part of the
-  galactic holiday celebrations.
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
 significance: low
 ---

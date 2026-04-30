@@ -4,22 +4,19 @@ title: Technical Trouble in 49 Arietis
 slug: technical_trouble_in_49_arietis
 date: '3301-10-23'
 source: GitHub
-entities:
-- Blake Fry
 groups:
 - Federal Times
 locations:
 - 49 Arietis
+- Arietis
 - Gaiman Dock
+- Warkushanui
 topics:
-- technical malfunction
-- unknown artefacts
+- construction
+- war
 arc_id: unknown-artefacts
-arc_chapter: Malfunctions spread to 49 Arietis
-modern_impact: 'Starports in 49 Arietis experience similar technical problems to Warkushanui,
-  including power outages and system failures. Pilot Blake Fry connects the breakdowns
-  to the presence of alien pods: ''First they take those alien pods there, and then
-  there''s a complete technical breakdown.'''
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---

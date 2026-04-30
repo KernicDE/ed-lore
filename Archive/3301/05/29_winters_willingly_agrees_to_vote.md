@@ -1,38 +1,26 @@
 ---
-uuid: 8b9c0d1e-2f3a-4b5c-6d7e-8f9a0b1c2d3e
+uuid: c97b8c8b-443c-55ad-a3e0-fad0b356f20d
 title: Winters Willingly Agrees to Vote
 slug: winters_willingly_agrees_to_vote
 date: '3301-05-29'
 source: GitHub
 entities:
-  - Felicia Winters
-  - Shadow President Hudson
-groups:
-  - Congress
-locations:
-  - Mars
+- Felicia Winters held
+- Jasmina Halsey
 topics:
-  - constitutional process
-  - dignity
+- diplomacy
 arc_id: federal-politics
-arc_chapter: "Winters accepts vote"
-modern_impact: >
-  Winters's willing acceptance of the vote is both her greatest strength
-  and her fatal weakness. By agreeing without protest, she demonstrates
-  respect for democratic process — but she also surrenders the initiative
-  to Hudson. Her statement that "the people deserve a say in who leads
-  them" implicitly acknowledges that her acting presidency lacks legitimacy.
-  This is the moment Winters loses the political battle, even before the
-  vote is cast.
-legacy_weight: 3
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
+legacy_weight: 4
+significance: high
 ---
 
 Winters Willingly Agrees to Vote
 
-Acting President Winters has confirmed that she will participate in the vote of no confidence called by Shadow President Hudson.
 
-"I believe in the democratic process. The people deserve a say in who leads them, especially during times of crisis. I will accept whatever decision Congress makes."
+Following Shadow President Zachary Hudson’s call to have Congress issue a Vote of No Confidence against President Jasmina Halsey, Acting President Felicia Winters held a press conference outside Congress to address the Shadow President’s concerns about the future. 
 
-Political analysts note that Winters's willingness to face the vote may actually work in her favour, demonstrating a confidence that Hudson lacks.
+“Let me start by saying how truly saddened I am by the loss of my long time friend, Jasmina. I know that were she here instead of me, she would be deeply disappointed with the fear-mongering being bandied about by members of the opposition. Nevertheless we have to bow to process.” 
 
-"By forcing this vote, Hudson risks looking like a power-hungry opportunist," one pundit noted. "Winters, by contrast, looks like a stateswoman."
+“In order to allow a right and proper number of representatives from the frontier worlds to attend, Congress will meet on Monday to formally vote on the future of the Federation. Should I be chosen to continue to serve, I promise that you will get the kind of president that you deserve.”

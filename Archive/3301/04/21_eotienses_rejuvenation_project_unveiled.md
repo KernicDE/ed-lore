@@ -1,26 +1,27 @@
 ---
-uuid: 4ce471c6-afd4-5570-8422-b2d939bb8d7a
+uuid: cd44ff20-bbeb-5d6e-8b37-ca49aa0dd119
 title: Eotienses Rejuvenation Project Unveiled
 slug: eotienses_rejuvenation_project_unveiled
 date: '3301-04-21'
 source: GitHub
 entities:
-  - Senator Denton Patreus
-groups:
-  - Citizens' Forum
+- Denton Patreus
 locations:
-  - Eotienses
-  - Parkinson Dock
+- Denton
+- Eotienses
 topics:
-  - economic development
-  - infrastructure
-arc_id: patreus-campaigns
-modern_impact: Patreus continues consolidating economic power in Eotienses through infrastructure projects.
-legacy_weight: 1
+- corporate expansion
+- war
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
-In what many pundits are calling a clear attempt to consolidate his position as the most influential arms dealer in the Empire, Senator Denton Patreus has today announced an initiative to rejuvenate Parkinson Dock, in order to promote the development of High Tech goods in Eotienses.
+Eotienses Rejuvenation Project Unveiled
 
-The initiative, which is being overseen by the Citizens' Forum, aims to bring thousands of new jobs to the region. Imperial corporations are already engaged in a hot bidding war over rights to establish a presence on the newly reinvigorated Parkinson Dock, despite rumours that most of the available space has been reserved for businesses with established ties to the Senator.
 
-In order to properly repurpose the facilities aboard Parkinson Dock, the Citizens' Forum has placed several sizable orders of Industrial Materials in the local market. Once those orders are filled, engineers will be able to start work on the rejuvenation process.
+In what many pundits are calling a clear attempt to consolidate his position as the most influential arms dealer in the Empire, Senator Denton Patreus has today announced an initiative to rejuvenate Parkinson Dock, in order to promote the development of High Tech goods in Eotienses. 
+
+The initiative, which is being overseen by the Citizens’ Forum, aims to bring thousands of new jobs to the region. Imperial corporations are already engaged in a hot bidding war over rights to establish a presence on the newly reinvigorated Parkinson Dock, despite rumours that most of the available space has been reserved for businesses with established ties to the Senator.   
+
+In order to properly repurpose the facilities aboard Parkinson Dock, the Citizens’ Forum has placed several sizable orders of Industrial Materials in the local market. Once those orders are filled, engineers will be able to start work on the rejuvenation process.

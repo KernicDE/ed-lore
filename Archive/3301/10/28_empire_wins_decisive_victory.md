@@ -4,22 +4,24 @@ title: Empire Wins Decisive Victory
 slug: empire_wins_decisive_victory
 date: '3301-10-28'
 source: GitHub
+entities:
+- Denton Patreus
 groups:
 - Emperor's Dawn
-- Imperial Navy
 locations:
+- Denton
+- LTT 874
 - Namarii
 - Tabaldak
-- LTT 874
+- Tabaldak and LTT 874
 topics:
-- war
+- ship
+- succession
 - terrorism
-- victory
+- war
 arc_id: imperial-succession
-arc_chapter: Empire secures first three bases
-modern_impact: The Empire wins decisive victories in Namarii, Tabaldak, and LTT 874,
-  securing all three systems from Emperor's Dawn. Senator Patreus announces that the
-  fight against the insurgents will continue until they are completely eradicated.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

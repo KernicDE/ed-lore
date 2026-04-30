@@ -1,28 +1,32 @@
 ---
-uuid: 4f5a6b7c-8d9e-0f1a-2b3c-4d5e6f7a8b9c
+uuid: c3cd09a0-a456-5b4a-904c-ccbb9b8de2b8
 title: Fuel Rat Deep Space Relay Rescue
 slug: fuel_rat_deep_space_relay_rescue
 date: '3301-07-21'
 source: GitHub
-entities:
-  - CMDR Neospike
-  - CMDR Domaq
 groups:
-  - Fuel Rats
+- Fuel Rats
 locations:
-  - Sagittarius A*
+- Sagittarius A*
 topics:
-  - rescue
-  - exploration
-arc_id: misc
-modern_impact: Fuel Rats conduct relay rescue deep in space.
+- humanitarian
+- ship
+modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
+significance: low
 ---
 
 Fuel Rat Deep Space Relay Rescue
 
-The Fuel Rats received a distress call from Cmdr Neospike as he returned from Sagittarius A* when a broken fuel scoop left him stranded over 3,600 light years from civilization.
 
-Several commanders responded to the distress call. Cmdr Domaq quickly arrived on scene and provided an initial refuelling. A relay operation involving several ships and roughly 540 limpet drones then proceeded.
+Fuel Rat Deep Space Relay Rescue 
+ 
+The Fuel Rats received a distress call from Cmdr Neospike as he returned from Sagittarius A* when a broken fuel scoop left him stranded over 3,600 light years from civilization. The Reboot/Repair sequence failed to fix the fuel scoop. 
+
+Several commanders responded to the distress call, including Domaq, Paul_Kavinsky, Rusticolus, Cpt_Shinobi, Surly_badger, and Anuranium. 
+
+Cmdr. Domaq quickly arrived on scene and provided an initial refuelling to ensure the ship could remain powered while the other ships moved into position. 
+
+A relay operation involving several ships and roughly 540 limpet drones then proceeded. Speed was a priority due to the damage Cmdr. Neospike’s ship had undergone leaving all of his systems at less than 5%. 
 
 As of this reporting the Fuel Rat initiative has rescued over 190 stranded pilots.

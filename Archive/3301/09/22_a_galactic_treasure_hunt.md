@@ -4,15 +4,16 @@ title: A Galactic Treasure Hunt
 slug: a_galactic_treasure_hunt
 date: '3301-09-22'
 source: GitHub
-entities:
-  - Alfred Jeffress
 topics:
-  - treasure hunt
-  - philanthropy
-arc_id: misc
-modern_impact: >
-  Eccentric billionaire Alfred Jeffress announces a galaxy-wide treasure hunt with a share of his fortune as the prize. The riddle: 'A vision of the Devil and Orion's hounds will start you on your path.' Hundreds of pilots take to their ships.
+- humanitarian
+- ship
+- sport
+- trade
+- treasure hunt
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
+  across the galaxy.
 legacy_weight: 1
+significance: low
 ---
 
 A Galactic Treasure Hunt

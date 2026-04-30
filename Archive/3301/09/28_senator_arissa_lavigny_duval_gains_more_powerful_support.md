@@ -5,24 +5,22 @@ slug: senator_arissa_lavigny_duval_gains_more_powerful_support
 date: '3301-09-28'
 source: GitHub
 entities:
-  - Arissa Lavigny-Duval
-  - Senator Denton Patreus
-  - Chancellor Anders Blaine
-  - Senator Zemina Torval
+- Anders Blaine
+- Lavigny-Duval already enjoys
 groups:
-  - Imperial Senate
-  - Imperial Herald
+- Emperor's Dawn
+- Imperial Herald
 locations:
-  - Capitol
-  - Achenar
+- Capitol
+- Denton
 topics:
-  - succession
-  - political support
+- succession
+- terrorism
 arc_id: imperial-succession
-arc_chapter: "Arissa's coalition solidifies"
-modern_impact: >
-  Patreus's endorsement, Blaine's support, and Torval's backing create an unstoppable coalition for Arissa. The Imperial Herald's revelations about Aisling's Emperor's Dawn connections have devastated her rating. Arissa is now the unquestioned frontrunner.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 4
+significance: high
 ---
 
 Senator Arissa Lavigny-Duval Gains More Powerful Support

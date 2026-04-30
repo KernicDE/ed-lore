@@ -6,19 +6,24 @@ date: '3301-11-05'
 source: GitHub
 groups:
 - Alliance
+- Emperor's Dawn
 locations:
 - Epsilon Indi
+- London Relay in the Epsilon Indi
+- Pegasi Sector
 topics:
+- corporate expansion
 - diplomacy
-- trade
-- summit
-arc_id: alliance-expansion
-arc_chapter: Epsilon Indi summit
-modern_impact: The Alliance hosts a summit conference in Epsilon Indi, bringing together
-  diplomatic and trade representatives from across Alliance space. The event showcases
-  the Alliance's growing diplomatic influence under Prime Minister Mahon.
-legacy_weight: 2
-significance: low
+- independence
+- investigation
+- succession
+- terrorism
+- war
+arc_id: imperial-succession
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
+legacy_weight: 4
+significance: high
 ---
 
 Epsilon Indi Hosts Summit Conference

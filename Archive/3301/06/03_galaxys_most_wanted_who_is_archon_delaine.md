@@ -1,38 +1,37 @@
 ---
-uuid: 3a4b5c6d-7e8f-9a0b-1c2d-3e4f5a6b7c8d
-title: "Galaxy's Most Wanted: Who is Archon Delaine?"
+uuid: bef2abfe-a325-5747-a81a-6c1c086c9b19
+title: Galaxy's Most Wanted  Who is Archon Delaine
 slug: galaxys_most_wanted_who_is_archon_delaine
 date: '3301-06-03'
 source: GitHub
-entities:
-  - Archon Delaine
 groups:
-  - Kumo Crew
+- Kumo Crew
 locations:
-  - Pegasi Sector
+- The
 topics:
-  - piracy
-  - warlord profile
+- crime
+- narcotics
+- piracy
+- ship
+- war
 arc_id: kumo-crew-rise
-arc_chapter: "Delaine profiled"
-modern_impact: >
-  The first detailed profile of Archon Delaine establishes him as more than
-  a mere pirate — he is a warlord building a nation. His rise to power at
-  age 15, his expansion of the Kumo Crew from a single clan to a sector-
-  wide threat, and his system of "protection tithes" all suggest a
-  sophisticated political mind beneath the brutal exterior. The article's
-  warning that "the Kumo Crew may soon pose a threat to the superpowers
-  themselves" is prophetic. Delaine is not just a criminal; he is a
-  competitor for power on the galactic stage.
-legacy_weight: 4
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
+legacy_weight: 3
+significance: medium
 ---
 
 Galaxy's Most Wanted: Who is Archon Delaine?
 
-Archon Delaine, the self-styled "Warlord of the Pegasi Sector," has become one of the most feared names in the galaxy.
 
-Born into the Kumo Crew, a clan of nomadic pirates, Delaine assumed leadership at the age of 15 after beating his predecessor to death. Under his command, the Kumo Crew has expanded from a single raiding party to a sector-wide organisation controlling dozens of systems.
+Villain, murderer, madman. Titles with which Archon Delaine, the self-styled Pirate King, are all too familiar. 
 
-Delaine's methods are brutal but effective. Systems that pay his protection tithes are spared; those that refuse are razed. So far, no military force has been able to stop his expansion.
+37 years ago, Archon Delaine rose to prominence after brutally beating the Kumo Crew’s previous leader to death with his bare hands. Thus, at the tender age of 15, Archon assumed the role of Pirate Lord and began to cut a bloody swathe across the Pegasi sector.  
 
-"He's not just a pirate," one intelligence analyst noted. "He's building an empire. And if we don't stop him soon, the Kumo Crew may soon pose a threat to the superpowers themselves."
+During the first 20 years of his rule, Archon Delaine faced a constant stream of challenges from upstarts and other crews alike. Each and every challenger was struck down, and as each one fell, the legend of Archon grew ever greater. 
+
+Growing weary of the constant infighting, Archon oversaw a massive restructuring of his ‘family’. He turned them from a loosely affiliated rag-tag assortment of pirate crews into a single-minded killing machine whose only desire is to obey Archon’s every order. Under his leadership, the Kumo Crew has gone from being a feared local drug cartel to one of the most influential criminal syndicates in the galaxy. 
+
+The systems he runs still function – in some cases better than before they were taken. The Kumo Crew rule by fear and are utterly intolerant of those who work against them, but in equal measure have been known to protect and reward those in the systems they have subjugated who have shown loyalty, brutally enforcing their own ruthlessly simple ethos. 
+
+So far, Archon Delaine has only been active in the Pegasi sector, but some reports have begun to surface of Kumo Crew members beginning to move out of the sector.

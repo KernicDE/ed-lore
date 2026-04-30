@@ -5,24 +5,23 @@ slug: aisling_duval_issues_statement
 date: '3301-09-19'
 source: GitHub
 entities:
-  - Aisling Duval
-  - Damon Clarke
+- Aisling Duval
+- Damon Clarke
 groups:
-  - Aisling's Angels
-  - Emperor's Dawn
-  - Imperial Herald
+- Aisling's Angels
+- Emperor's Dawn
+- Imperial Herald
 locations:
-  - Cemiess
-  - Imperial systems
+- Cemiess
 topics:
-  - scandal
-  - denial
-  - terrorism
-arc_id: aisling-reform-movement
-arc_chapter: "Aisling defends herself"
-modern_impact: >
-  Aisling denies knowledge of Damon Clarke's connection to Emperor's Dawn, calling it a bitter surprise. Popularity polls show a dramatic fall for the People's Princess. Clarke's whereabouts are unknown — he has fled.
+- scandal
+- terrorism
+arc_id: imperial-succession
+arc_chapter: Aisling defends herself
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 4
+significance: high
 ---
 
 Aisling Duval Issues Statement

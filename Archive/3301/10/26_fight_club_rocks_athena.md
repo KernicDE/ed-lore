@@ -15,7 +15,7 @@ topics:
 - construction
 - sport
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Infrastructure project with long-term benefits for the affected region.
 legacy_weight: 1
 significance: low
 ---

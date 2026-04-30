@@ -1,41 +1,39 @@
 ---
-uuid: 0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e
+uuid: 44d392dc-09e9-5ca5-887e-c1f5e88dae12
 title: Terror in the Pegasi Sector
 slug: terror_in_the_pegasi_sector
 date: '3301-06-24'
 source: GitHub
-entities:
-  - Archon Delaine
 groups:
-  - Kumo Crew
+- Federal Navy
+- Kumo Crew
 locations:
-  - Pegasi Sector
+- Pegasi Sector
 topics:
-  - terror
-  - piracy
-  - expansion
+- corporate expansion
+- piracy
+- trade
+- war
 arc_id: kumo-crew-rise
-arc_chapter: "Terror spreads"
-modern_impact: >
-  The Kumo Crew's campaign of terror in the Pegasi Sector has reached
-  new heights of brutality. Reports of entire stations being raided,
-  populations enslaved, and resistance fighters executed demonstrate
-  that Delaine's organisation is evolving from a pirate confederation
-  into a terrorist state. The superpowers' continued failure to respond
-  is now a strategic choice, not mere neglect: they are waiting to see
-  if the Kumo Crew implodes from internal conflict before committing
-  forces. But every day of delay allows Delaine to consolidate his power.
-legacy_weight: 4
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
+legacy_weight: 3
+significance: medium
 ---
 
 Terror in the Pegasi Sector
 
-The Pegasi Sector has become a byword for terror, as the Kumo Crew continues its campaign of raids and enslavement.
 
-Independent pilots report that entire stations have been seized by Kumo Crew forces, their populations forced into servitude or sold into slavery.
+Terror in the Pegasi Sector 
+ 
+Archon Delaine and his Kumo Crew have continued their seemingly unstoppable rampage across the Pegasi sector this week, with the Crew managing to establish new strongholds in Arawere, Huaich, LTT 16548 and San Muss. 
 
-"It's hell out there," one trader told GalNet. "You jump into a system and find stations burning, ships drifting dead in space. The Kumo Crew don't negotiate. They take what they want and kill anyone who resists."
+Reports coming in from the sector indicate that the Kumo Crew are now operating in over 160 different systems, with millions of people being forced to pay the pirates for protection, or else risk death or dismemberment for failing to do so.  
 
-The three superpowers have so far declined to commit forces to a counter-offensive, citing more pressing concerns. But pressure is mounting for action.
+Many smaller interstellar corporations have announced that the Pegasi sector is now off limits, a fact which will doubtless lead to more suffering for residents of the region as their economies become affected by the lack of workable trade routes. 
 
-"If we don't stop Delaine now, he'll be at our borders before we know it," one Federal admiral warned privately.
+Almost 20 billion members of the Federation live within territory that has now been claimed by the Kumo Crew. Despite this, the Federation has yet to take an official stance on the Pirate King’s activities. 
+
+GalNet reached out to the Federal Navy for comment and was informed that: 
+
+“The Navy is aware of the situation in the Pegasi sector. The issue will be resolved in due course, but we are unable to divulge any operational details at this time.”

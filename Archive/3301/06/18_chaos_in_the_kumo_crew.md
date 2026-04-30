@@ -1,40 +1,29 @@
 ---
-uuid: 6b7c8d9e-0f1a-2b3c-4d5e-6f7a8b9c0d1e
+uuid: 81248c77-50c2-52b5-a962-0c4da605e8bf
 title: Chaos in the Kumo Crew
 slug: chaos_in_the_kumo_crew
 date: '3301-06-18'
 source: GitHub
-entities:
-  - Archon Delaine
 groups:
-  - Kumo Crew
+- Kumo Crew
 locations:
-  - Pegasi Sector
+- Harma
 topics:
-  - internal conflict
-  - piracy
+- crime
+- piracy
+- war
 arc_id: kumo-crew-rise
-arc_chapter: "Delaine faces dissent"
-modern_impact: >
-  Reports of chaos within the Kumo Crew suggest that Delaine's brutal
-  leadership style is generating internal resistance. The Pegasi Sector
-  has become a warzone as rival factions within the Crew vie for power.
-  This internal conflict is both an opportunity and a danger for the
-  superpowers: a divided Kumo Crew is easier to defeat, but the violence
-  could spill over into neighbouring systems. Delaine's ability to
-  survive this challenge will determine whether the Kumo Crew becomes
-  a lasting power or collapses into infighting.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
+significance: medium
 ---
 
 Chaos in the Kumo Crew
 
-Reports from the Pegasi Sector suggest that the Kumo Crew is descending into internal chaos.
 
-Sources indicate that several subordinate clans have challenged Archon Delaine's authority, leading to open warfare within the organisation.
+Chaos in the Kumo Crew 
+ 
+Leading a piratical group is tough. The Kumo Crew is growing, but not without a struggle. Archon Delaine has always been a strong leader, and keeps the worst excesses of his lieutenants in check. In truth he leads a disparate group of criminal organisations, and recently infighting and infiltration has been rife within the Kumo Crew since Delaine began accepting new members, causing the Kumo to falter in their bid to take over the Pegasi system. 
 
-"Delaine ruled through fear," one captured pirate told interrogators. "But fear only works for so long. Now people are tired of being beaten and exploited."
-
-The fighting has spread across multiple systems in the Pegasi Sector, with independent pilots reporting large-scale naval engagements between Kumo Crew factions.
-
-Whether Delaine can survive the challenge to his authority remains to be seen. But one thing is certain: the Pegasi Sector will not be peaceful for a long time to come.
+Rumours coming from Harma suggest that the Pirate King is furious at the chaotic, incompetent and downright treacherous actions being carried out in his name. So much so that Delaine has dispatched the Kumo Crew enforcers to deal with the matter personally. Those who find themselves blocking the Kumo Crew’s spread throughout the Pegasi sector will pay the price for their defiance.

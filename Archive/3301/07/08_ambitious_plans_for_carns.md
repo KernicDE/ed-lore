@@ -1,21 +1,32 @@
 ---
-uuid: 3e4f5a6b-7c8d-9e0f-1a2b-3c4d5e6f7a8b
+uuid: 4a00c1ed-084e-53ca-9dd4-1205bc96641e
 title: Ambitious Plans for Carns
 slug: ambitious_plans_for_carns
 date: '3301-07-08'
 source: GitHub
-entities: []
-groups: []
-locations:
-  - Carns
-  - Humason Orbital
 topics:
-  - economic development
-arc_id: misc
-modern_impact: Carns plans economic upgrade.
-legacy_weight: 1
+- corporate expansion
+- research
+- ship
+- trade
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
 ---
 
 Ambitious Plans for Carns
 
-The Carns system has announced ambitious plans for economic development, including upgrades to Humason Orbital's industrial facilities.
+
+Ambitious Plans for Carns 
+ 
+The leadership for Humason Orbital in the Carns system responded today to a report released earlier in the week, suggesting that the mining operations in the system would soon become uneconomical. 
+
+Plans were revealed to upgrade the extraction and industrial facilities to support high tech operations. In the press briefing Ramon Lamor, Deputy Communications Officer, commented: 
+
+“We should not see the closure of the mines as a problem, but as an opportunity for this system to become a greater player in the economy of the surrounding region. Our researchers have identified a gap in the high technology market that we can exploit.” 
+
+He then outlined an extensive programme of acquisitions to provide the robotics needed for the new product lines, which would see both the extraction and industrial concerns replaced. When questioned about the effects of this change on existing businesses, he replied: 
+
+“There will obviously be a number of changes with this global shift in focus. However, if we are to thrive in the future then these adjustments must be made. We will provide both financial and logistical support to corporations operating in Carns.” 
+
+At the close of the briefing, he stated that the nature of the local workforce would also need to change and that further information would be revealed within the next few days.

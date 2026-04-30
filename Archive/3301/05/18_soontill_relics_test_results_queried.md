@@ -1,28 +1,30 @@
 ---
-uuid: 0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e
+uuid: 87f11857-f9cc-5e11-81d6-572af86c9c11
 title: Soontill Relics Test Results Queried
 slug: soontill_relics_test_results_queried
 date: '3301-05-18'
 source: GitHub
-entities:
-  - Chief Xeno-Chemist Lyran Betar
-  - Jean Molyneaux
-groups: []
 locations:
-  - Mars
-  - Capitol
+- Capitol
+- Mars
 topics:
-  - alien artefacts
-  - scientific inquiry
-arc_id: unknown-artefacts
-modern_impact: Soontill relics confirmed non-human, possibly tens of thousands of years old.
+- construction
+- research
+- war
+modern_impact: Infrastructure project with long-term benefits for the affected region.
 legacy_weight: 2
+significance: low
 ---
 
 Soontill Relics Test Results Queried
 
-As further alien artefacts claiming to be from Soontill are being sold on the open market, the results of the initial scientific tests have been revealed.
 
-"We were looking for key markers," explains Chief Xeno-Chemist Lyran Betar. "Elemental make up, crystalline structure, anything that indicates it could have originated from human hand."
+As further alien artefacts claiming to be from Soontill are being sold on the open market, the results of the initial scientific tests have been revealed. 
 
-The results? Inconclusive. No known human technology could have created the relics, yet they do not quite align with known Thargoid materials. Isotopic dating indicates they could be tens of thousands of years old.
+“We were looking for key markers,” explains Chief Xeno-Chemist Lyran Betar.  “Elemental make up, crystalline structure, anything that indicates it could have originated from human hand.” 
+
+And the results? Inconclusive. The research team’s results clearly state that no known human technology could have created the relics, yet they do not quite align with known Thargoid materials. Whatever they are, they are indeed very old, with isotopic dating indicating that they could well be tens of thousands of years old. 
+
+Jean Molyneaux, a historian from France, Earth, suggests we look back at our own past to determine the home of these relics.  “Imagine an alien travelling back two thousand years into mankind’s past.  The varied culture, arts and building materials of the Aztecs, Greeks, the Shang dynasty, what have you, the alien could think they were all different species, if that was his way of thinking…” 
+
+The community seems wary of awarding these artefacts any title yet, given the fifty years of false hopes since Soontill was first mentioned by the Thargoids. However, reports indicate that these relics have now arrived at labs on both Mars and Capitol for further testing, and with any luck, we may soon finally agree on what these relics are, or are not.

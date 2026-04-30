@@ -5,20 +5,16 @@ slug: garrison_supplies_found_in_criminal_hands
 date: '3301-10-29'
 source: GitHub
 groups:
-- Cayutorme Syndicate
+- Kumo Crew
 locations:
-- Cayutorme
+- Guathiti
 topics:
-- smuggling
+- crime
+- investigation
 - war
-- criminal
-arc_id: cayutorme-conflict
-arc_chapter: Syndicate acquires military supplies
-modern_impact: Garrison supplies intended for the Empire are found in the hands of
-  the Cayutorme Syndicate. The criminal organisation has acquired significant military
-  hardware, escalating the conflict in the Cayutorme system.
-legacy_weight: 3
-significance: medium
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
 Garrison Supplies Found in Criminal Hands

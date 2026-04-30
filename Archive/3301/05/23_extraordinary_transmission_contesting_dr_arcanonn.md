@@ -1,45 +1,38 @@
 ---
-uuid: 0f1a2b3c-4d5e-6f7a-8b9c-0d1e2f3a4b5c
-title: Extraordinary Transmission Contesting Dr. Arcanonn
+uuid: 6184c3e8-42fc-5280-8501-a409ced15497
+title: Extraordinary Transmission Contesting Dr Arcanonn
 slug: extraordinary_transmission_contesting_dr_arcanonn
 date: '3301-05-23'
 source: GitHub
 entities:
-  - Dr. Arcanonn
+- Arcanonn
 groups:
-  - The Canonn
-locations: []
+- Canonn
+locations:
+- 78 Ursae Majoris
 topics:
-  - propaganda
-  - unknown artefacts
-  - character assassination
-arc_id: unknown-artefacts
-arc_chapter: "Mysterious broadcast"
-modern_impact: >
-  The coordinated radio broadcast attacking Arcanonn — simultaneously
-  transmitted across stations without owners' knowledge — is unprecedented
-  in scale and sophistication. The message's psychological framing
-  ("Don't let yourself be fooled. Open your eyes... Remember!") suggests
-  an organised counter-intelligence operation, possibly Federal or even
-  alien in origin. The broadcaster's anonymity and technical capability
-  hint at a powerful actor with a vested interest in discrediting the
-  Unknown Artefact research. This deepens the mystery surrounding the
-  artefacts and those who seek to control information about them.
-legacy_weight: 3
+- research
+- terrorism
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
 ---
 
-Extraordinary Transmission Contesting Dr. Arcanonn
+Extraordinary Transmission Contesting Dr Arcanonn
 
-After recent terrorist activities in 78 Ursae Majoris, GalNet received multiple reports about a single transmission regarding Dr Arcanonn, that has been broadcast via various radio stations throughout known inhabited space simultaneously without their approval.
 
-GalNet was provided with a recording of the audio message:
+After recent terrorist activities in 78 Ursae Majoris, GalNet received multiple reports about a single transmission regarding Dr Arcanonn, that has been broadcast via various radio stations throughout known inhabited space simultaneously without their approval. 
 
-"It doesn't matter who I am. My message is clear and simple. You have all been deceived by a charismatic individual calling himself a scientist, full of misled ambitions, going by the name of Dr Arcanonn. He is taking advantage of the picture in your head of him being peaceful and reasonable for the greater good, but your support is being utilized and shamefully exploited. But who am I to trust? What do my words of prudence, my voice of sanity matter?"
+GalNet was provided with a recording of the audio message: 
 
-"Just look at his last statement, indirectly acknowledging terrorism, clearly showing that he is willing to do everything to achieve his own goals."
+“It doesn’t matter who I am. My message is clear and simple. You have all been deceived by a charismatic individual calling himself a scientist, full of misled ambitions, going by the name of Dr Arcanonn. He is taking advantage of the picture in your head of him being peaceful and reasonable for the greater good, but your support is being utilized and shamefully exploited. But who am I to trust? What do my words of prudence, my voice of sanity matter?” 
 
-The voice goes on, describing the researcher's various unsafe attempts to solve the artefact's secrets and describing the Doctor's demands for information as a masked attempt to sow the seeds of discord between them. The message closes with a call to stop the group's support:
+“Just look at his last statement, indirectly acknowledging terrorism, clearly showing that he is willing to do everything to achieve his own goals.” 
 
-"Don't let yourself be fooled. Open your eyes and see the clear truth unfolded in front of you. I'm asking for your sanity! Don't let history repeat itself! Remember!"
+The voice goes on, describing the researcher’s various unsafe attempts to solve the artefact’s secrets and describing the Doctor’s demands for information as a masked attempt to sow the seeds of discord between them. The message closes with a call to stop the group’s support: 
 
-It is still unknown how the coordinated transmission was achieved, as it presents a serious effort. The respective station owners are also researching how that broadcast was routed into their programmes and deny any previous knowledge or even support to allow this transmission.
+“Don’t let yourself be fooled. Open your eyes and see the clear truth unfolded in front of you. I’m asking for your sanity! Don’t let history repeat itself! Remember!” 
+
+It is still unknown how the coordinated transmission was achieved, as it presents a serious effort. 
+
+The respective station owners are also researching how that broadcast was routed into their programmes and deny any previous knowledge or even support to allow this transmission.

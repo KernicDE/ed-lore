@@ -1,25 +1,32 @@
 ---
-uuid: 4d5e6f7a-8b9c-0d1e-2f3a-4d5e6f7a8b9c
+uuid: c2694e4f-6082-57fd-a7ce-9ddec5165b3f
 title: Race to Center of Galaxy Starts in Sol
 slug: race_to_center_of_galaxy_starts_in_sol
 date: '3301-04-23'
 source: GitHub
-entities: []
-groups:
-  - Pilots Federation
 locations:
-  - Sol
-  - Sagittarius A*
+- Sagittarius A*
+- Sol
 topics:
-  - exploration
-  - race
-arc_id: misc
-modern_impact: Buckyball Run A* rally begins.
+- sport
+modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
+significance: low
 ---
 
 Race to Center of Galaxy Starts in Sol
 
-The Buckyball Run A* rally race has officially begun, with over 40 fearless competitors setting off from Sol on the 26,000 light year journey to the supermassive black hole at the center of our galaxy, Sagittarius A*.
 
-Competitors are racing to set the fastest time, with the current record standing at just under 12 hours.
+Pilots from all over civilized space are gathering on Galileo station near planet Earth to begin one of the most ambitious organized rally race ever attempted. Called the Buckyball Run A*, this endurance race challenges commanders to reach the supermassive black hole at the center of our galaxy, Sagittarius A*, in the shortest amount of time possible. This contest is the latest iteration of the popular Buckyball Runs, a series of unsanctioned point-to-point rally races across the galaxy. 
+
+According to Mirana Ortilano, a spokesperson for the event, the choice of Sagittarius A* as the finish line is explained by its significance as the center of the Milky Way galaxy. “It’s a pilgrimage for many, for many different reasons. We’re just helping pilots get there faster.” 
+
+The Buckyball Run A* however differs from the previous competitions as this time the challenge will remain permanently open. To elaborate on this difference, Mirana Ortilano adds: “This is the first long distance endurance challenge. Needless to say, the risk and commitment of the pilots are much greater than in previous runs.” 
+
+Although there is no prize to be won, she insists that “there is a tangible benefit. Commanders who run more than one Buckyball are invariably better pilots.The skills earned will stay with a pilot through his or her entire career.” 
+
+The Buckyball Braben Star-to-Shining-Star Memorial Trophy Dash, simply known as the Buckyball Run, is not endorsed by any official organization. Commanders seeking to participate in this contest are asked to register directly with representatives of the Buckyball Run. 
+
+At the time of broadcast, the galactic record holder for the fastest travel from Galileo station to Sgr A* is commander Anuranium, at the helm of a Faulcon DeLacy Anaconda. 
+
+Léonard Chamberlain - Galnet News Correspondent

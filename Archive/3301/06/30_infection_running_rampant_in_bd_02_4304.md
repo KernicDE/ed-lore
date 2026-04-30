@@ -1,40 +1,36 @@
 ---
-uuid: 1c2d3e4f-5a6b-7c8d-9e0f-1a2b3c4d5e6f
-title: Infection Running Rampant in BD-02 4304
+uuid: 1ef93095-9569-5ec7-b8a7-9248e12e01e6
+title: Infection Running Rampant in BD 02 4304
 slug: infection_running_rampant_in_bd_02_4304
 date: '3301-06-30'
 source: GitHub
-entities:
-  - Dr. Arcanonn
-groups:
-  - Federal Navy
 locations:
-  - BD-02 4304
-  - He Bo
+- BD-02 4304
+- Reports are coming in from surrounding
 topics:
-  - plague
-  - disease
-  - medical crisis
-arc_id: unknown-artefacts
-arc_chapter: "Plague spreads"
-modern_impact: >
-  The plague outbreak in BD-02 4304 — with symptoms matching those in
-  He Bo — confirms that the Unknown Artefacts' effects are not limited
-  to ship systems. The disease's rapid spread and resistance to
-  conventional treatment suggest a bio-engineered or alien origin.
-  Arcanonn's involvement in the medical response links the scientific
-  and public health dimensions of the artefact mystery. This outbreak
-  will drive demands for Federal transparency and accelerate the search
-  for a cure.
-legacy_weight: 4
+- medicine
+arc_id: cerberus-plague
+modern_impact: Marks a significant phase in the fight against a devastating plague
+  that killed over 100,000.
+legacy_weight: 3
+significance: medium
 ---
 
 Infection Running Rampant in BD-02 4304
 
-A deadly plague is spreading through the BD-02 4304 system, with medical authorities struggling to contain the outbreak.
 
-The disease, which causes rapid neurological deterioration, has already claimed hundreds of lives. Symptoms match those reported in He Bo several months ago, leading some scientists to speculate that the Unknown Artefacts may be the source.
+Infection Running Rampant in BD-02 4304 
+ 
+Infection Running Rampant in BD-02 4304 
 
-"We are seeing a pattern," said one medical researcher. "Systems that have had contact with the artefacts are experiencing outbreaks of this disease. The correlation is too strong to ignore."
+Hundreds of businesses have closed and thousands of people are quarantined following an outbreak aboard Newton Dock in what could be the most devastating epidemic of the decade. 
 
-Dr. Arcanonn has offered the assistance of his research team in finding a cure, saying: "This is no longer just a scientific curiosity. It is a public health emergency."
+The illness, the origins of which are currently unknown, has made its way across much of the region. Reports are coming in from surrounding systems indicating that the infection might already be spreading. 
+
+Carl Simmons, the Chief Medical Officer of Newton Dock, released the following statement in regards to the spread of this disease: 
+
+“At the risk of causing a panic, it is my duty to report that the outbreak is spreading at an alarming rate. Until we have identified how it managed to reach so many systems in such a short span of time, residents are advised to stay in their homes and travellers are advised to avoid the area.” 
+
+“Early signs of infection include vomiting blood, excessive sweating, sores and waves of intense dizziness. If you suspect you’ve been infected, please report to the local authorities at the earliest available opportunity. They will inform you how to proceed.”  
+
+In total almost 27 million residents now find themselves at risk from either disease, famine or both.

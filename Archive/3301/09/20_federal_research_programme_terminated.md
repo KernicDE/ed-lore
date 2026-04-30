@@ -5,23 +5,19 @@ slug: federal_research_programme_terminated
 date: '3301-09-20'
 source: GitHub
 entities:
-  - Professor Ishmael Palin
-  - Aoishe Quaid
-groups:
-  - Homeland Scientific Council
+- Ishmael Palin
+- Palin
+- Palin declined
 locations:
-  - Fort Harrison
-  - Tanmark
-  - HIP 102128
+- Fort Harrison
 topics:
-  - research
-  - unknown artefacts
-  - censorship
+- research
+- safety
 arc_id: unknown-artefacts
-arc_chapter: "Palin's programme cancelled"
-modern_impact: >
-  Professor Palin's research into anomalous extraterrestrial objects is terminated after one week. Governor Quaid ordered the halt, but sources suggest she was pressured. The objects are described as quasi-organic and capable of broadcasting location data across vast distances.
+modern_impact: Advances understanding of the mysterious alien artefacts and their
+  threat to station infrastructure.
 legacy_weight: 5
+significance: high
 ---
 
 Federal Research Programme Terminated

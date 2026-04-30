@@ -5,34 +5,30 @@ slug: the_importance_of_insurance
 date: '3301-02-22'
 source: GitHub
 entities:
-  - Commander Gui
-  - Commander Sheehy
-groups:
-  - Reorte Chronicle
+- Gui returned home
+- Sheehy
 locations:
-  - Sol
+- Always check your rebuy costs in your
+- Sol
 topics:
-  - pilot advice
-  - financial caution
-  - ship insurance
-  - CMDR culture
-arc_id: misc
-modern_impact: >
-  Timeless pilot wisdom that remains relevant across the decades. The economic
-  realities of CMDR life — from Sidewinder to Anaconda — shape pilot behaviour
-  and risk tolerance. Insurance and rebuy costs remain fundamental concerns for
-  every independent pilot in 3312.
+- ship
+- war
+modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
+significance: low
 ---
 
-It's been said before, but it's worth saying again. Remember to set aside credits for your insurance excess.
+The Importance of Insurance
 
-Only recently Commander Gui returned home to Sol with his newly purchased Anaconda. Having equipped it with all the essentials he departed... straight into an incoming Type 9. Without the 4 million credits to cover the excess for his ship, he was left with no choice but to resort to a budget Sidewinder. His loss for that one incident was 80 million credits.
 
-Though many pilots can turn to creditors to cover some of the costs in case of emergency, 200 thousand credits is not enough to cover the cost of a truly premium vessel.
+It’s been said before, but it's worth saying again. Remember to set aside credits for your insurance excess. 
 
-The moral of the story? Always check your rebuy costs in your systems screen before launching. Don't leave the space port without having the excess.
+Only recently Commander Gui returned home to Sol with his newly purchased Anaconda. Having equipped it with all the essentials he departed... straight in to an incoming Type 9. Without the 4 million credits to cover the excess for his ship, he was left with no choice but to resort to a budget Sidewinder. His loss for that one incident was 80 million credits. 
 
-You've been warned commanders...
+Though many pilots can turn to creditors to cover some of the costs in case of emergency, 200 thousand credits is not enough to cover the cost of a truly premium vessel.  
+
+The moral of the story? Always check your rebuy costs in your systems screen before launching. Don't leave the space port without having the excess.. 
+
+You’ve been warned commanders... 
 
 Commander Sheehy of the Reorte Chronicle

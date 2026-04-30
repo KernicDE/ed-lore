@@ -5,37 +5,32 @@ slug: federal_and_imperial_diplomats_discuss_the_pegasi_sector
 date: '3301-08-24'
 source: GitHub
 entities:
-  - Commander Nyluss
-  - Commander Corrigendum
+- Corrigendum
+- Nyluss
 groups:
-  - Merchant Marines
-  - Lavigny's Legion
+- Kumo Crew
 locations:
-  - Pegasi Sector
-  - Federal systems
-  - Imperial systems
+- Pegasi Sector
 topics:
-  - diplomacy
-  - cooperation
-  - piracy
+- diplomacy
+- humanitarian
+- war
 arc_id: kumo-crew-rise
-arc_chapter: "Federal-Imperial cooperation"
-modern_impact: >
-  The rare meeting between Federal and Imperial commanders over the
-  Pegasi crisis is a significant diplomatic moment. Commander Nyluss
-  calling on Federation pilots to oppose the Kumo Crew's
-  "encroachment upon our worlds" and Commander Corrigendum asking
-  commanders to "give one another a wide berth" show that despite
-  superpower tensions, practical cooperation against piracy is
-  possible. Whether this cooperation can survive the succession
-  crisis and Hudson's aggressive posture remains to be seen.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
+  of protecting civilian populations during pirate wars.
 legacy_weight: 3
+significance: medium
 ---
 
 Federal and Imperial Diplomats Discuss the Pegasi Sector
 
-Historically, areas of mutual interest have resulting in cooperation between the Empire and the Federation. Now it seems that the humanitarian crisis in the Pegasi Sector represents one such mutual interest.
 
-In a meeting between Federation and Imperial commanders, Commander Nyluss of the Merchant Marines offered these words: "We must re-establish liberty in those zones that have become lawless. The Kumo Crew and its vagabond leader will no longer be tolerated in our space. I call upon all Federation pilots. How can you tolerate this encroachment upon our worlds?"
+Federal and Imperial Diplomats Discuss the Pegasi Sector 
+ 
+Historically, areas of mutual interest have resulting in cooperation between the Empire and the Federation. Now it seems that the humanitarian crisis in the Pegasi Sector represents one such mutual interest. 
 
-Commander Corrigendum of Lavigny's Legion added: "We welcome all those who want to oppose the tyranny of Archon Delaine, and ask that Federation and Imperial commanders operating in the Pegasi sector give one another a wide berth as they work toward the common goal of bringing Delaine to justice."
+In a meeting between Federation and Imperial commanders, Commander Nyluss of the Merchant Marines offered these words: "We must re-establish liberty in those zones that have become lawless. The Kumo Crew and its vagabond leader will no longer be tolerated in our space. I call upon all Federation pilots. How can you tolerate this encroachment upon our worlds?” 
+
+Commander Corrigendum of Lavigny’s Legion added: “We welcome all those who want to oppose the tyranny of Archon Delaine, and ask that Federation and Imperial commanders operating in the Pegasi sector give one another a wide berth as they work toward the common goal of bringing Delaine to justice." 
+
+Commander Corrigendum, Lavigny's Legion

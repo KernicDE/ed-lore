@@ -21,9 +21,8 @@ topics:
 - slander
 arc_id: imperial-succession
 arc_chapter: Blaine scandal breaks
-modern_impact: Aisling reveals that some of Chancellor Blaine's past advisors were
-  connected to Emperor's Dawn — and more recently than her own advisor Damon Clarke.
-  Blaine denies all knowledge. The scandal comes just days before the succession vote.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future
+  leadership of the Empire.
 legacy_weight: 5
 significance: high
 ---

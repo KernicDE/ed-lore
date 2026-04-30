@@ -1,39 +1,36 @@
 ---
-uuid: 0b1c2d3e-4f5a-6b7c-8d9e-0f1a2b3c4d5e
+uuid: 0b396735-3acc-5e46-a6c1-dc75e63959d9
 title: Federation Goes All In
 slug: federation_goes_all_in
 date: '3301-06-10'
 source: GitHub
-entities:
-  - President Zachary Hudson
 groups:
-  - Federal Navy
+- Alliance
 locations:
-  - Mars
-  - Federal systems
+- Federal
+- Sol
 topics:
-  - military buildup
-  - expansion
+- war
 arc_id: federal-politics
-arc_chapter: "Hudson's military buildup"
-modern_impact: >
-  Hudson's "all in" strategy — massive military investment, expanded
-  naval bases, and increased recruitment — transforms the Federation
-  into a war machine. The justification is "security in uncertain times,"
-  but the real goal is Federal expansion and dominance. This military
-  buildup will strain Federal finances and alienate frontier systems
-  who see it as militarism rather than protection. It also sets up
-  inevitable confrontation with the Empire and the Alliance as Hudson
-  seeks to project power beyond Federal borders.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy
+  and Vice President Smeaton's murder.
 legacy_weight: 4
+significance: high
 ---
 
 Federation Goes All In
 
-President Hudson has announced a massive expansion of the Federal Navy, including new shipyards, increased recruitment targets, and the construction of additional battlecruisers.
 
-"The galaxy is becoming more dangerous by the day. The Kumo Crew in the Pegasi Sector, the Empire's internal struggles, the mysterious artefacts — all of these represent threats to Federal security. We must be prepared."
+Federation Goes All In 
+ 
+In late 3300, the small Federal system of Dahan found itself being used as a staging area for a prolonged military campaign against the independent nation of Eranin. Eventually, Eranin managed to force back the Federal invasion. Although not before heavy losses were incurred by both sides. 
 
-The plan, dubbed "Operation Fortress," will see defence spending increase by 40% over the next fiscal year. Critics have questioned how the Federation will pay for the expansion, but Hudson dismissed such concerns.
+This week that region once again became a hotbed, though this time of political activity, as both Federal and Alliance campaigners turned out in force in an attempt to exert their influence over the sector. 
 
-"Security is not a luxury. It is a necessity. And I will not let penny-pinching bureaucrats endanger the lives of Federal citizens."
+Mahon supporters flooded the hallways of Dahan Gateway and Whitson Hub, choosing to focus their efforts on systems whose affections for the Federation could be called into question following the events of late last year. President Hudson’s supporters went head to head with the Alliance campaigners to support the Federation’s position aboard Dahan Gateway. With many an impassioned debate taking place between the two groups along the station’s promenade.  
+
+Mahon supporters were successful in convincing many of the system’s residents that life within the Alliance did indeed sound better than having to send a large slice of their income off to Sol for little apparent return. Although in the end, typical Alliance bureaucracy (in the form of a lack of resources) means that Mahon’s supporters will be unable to capitalise on what appeared to be a sure-fire success. 
+
+Therefore the real winner of the week’s campaigning currently looks set to be Shadow President Winters.  
+
+Liberal and Republican Party members have been working around the clock to recruit new supporters in the Federal system of Aulin, with the liberals managing to just about take a lead in what has historically been a republican led state. Contracts are currently being drawn up to allow Shadow President Winters to set up a new command centre aboard Aulin Enterprise, and unless the republican party does something extraordinary to stop it, Friday will see the rise of a new liberal command centre in Aulin.
