@@ -120,11 +120,11 @@ export default function ContextPanel({
       {/* Active Arcs */}
       {activeArcs.length > 0 && (
         <div className="holo-panel blue">
-          <div className="holo-title blue">Active Arcs</div>
+          <div className="holo-title blue">Related Arcs</div>
           {activeArcs.map((arc) => (
             <a
               key={arc.id}
-              href={`${import.meta.env.BASE_URL}arc/${arc.id}/`}
+              href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/arc/${arc.id}/`}
               style={{
                 display: 'block',
                 padding: '8px 0',
@@ -153,7 +153,7 @@ export default function ContextPanel({
             return (
               <a
                 key={fig.id}
-                href={`${import.meta.env.BASE_URL}entity/${fig.id}/`}
+                href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/entity/${fig.id}/`}
                 className={`entity-card ${classified ? 'classified' : ''}`}
                 style={{ textDecoration: 'none' }}
               >

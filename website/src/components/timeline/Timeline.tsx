@@ -46,7 +46,7 @@ export default function Timeline({
   const [scrollTop, setScrollTop] = useState(0);
   const [viewportHeight, setViewportHeight] = useState(800);
 
-  const baseUrl = import.meta.env.BASE_URL || '/';
+  const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
   useEffect(() => {
     const el = containerRef.current;

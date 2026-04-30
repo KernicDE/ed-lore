@@ -22,6 +22,8 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
   const [selectedIdx, setSelectedIdx] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
 
+  const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+
   // Build search index
   const fuse = useMemo(() => {
     const items: SearchItem[] = [
@@ -31,21 +33,21 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
         type: 'article' as const,
         date: a.date,
         desc: a.body_preview?.slice(0, 120) + '...',
-        path: `${import.meta.env.BASE_URL}#${a.date}-${a.uuid}`,
+        path: `${baseUrl}/#${a.date}-${a.uuid}`,
       })),
       ...Object.values(entities).map((e) => ({
         id: e.id,
         title: e.name,
         type: 'entity' as const,
         desc: `Type: ${e.type}`,
-        path: `${import.meta.env.BASE_URL}entity/${e.id}/`,
+        path: `${baseUrl}/entity/${e.id}/`,
       })),
       ...Object.values(arcs).map((a) => ({
         id: a.id,
         title: a.name,
         type: 'arc' as const,
         desc: `${a.id.replace(/-/g, ' ')}`,
-        path: `${import.meta.env.BASE_URL}arc/${a.id}/`,
+        path: `${baseUrl}/arc/${a.id}/`,
       })),
     ];
     return new Fuse(items, {
@@ -53,7 +55,7 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
       threshold: 0.3,
       includeScore: true,
     });
-  }, [articles, entities, arcs]);
+  }, [articles, entities, arcs, baseUrl]);
 
   const results = useMemo(() => {
     if (!query.trim()) return [];

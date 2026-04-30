@@ -31,7 +31,7 @@ const sigColors: Record<string, string> = {
 <BaseLayout title={`${arc?.name || id} — GalNet Chronicle`}>
   <header class="hud-header">
     <div>
-      <a href={`${import.meta.env.BASE_URL}`} style="text-decoration: none;">
+      <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/`} style="text-decoration: none;">
         <span class="hud-title">‹ GalNet Chronicle</span>
       </a>
     </div>
@@ -69,7 +69,7 @@ const sigColors: Record<string, string> = {
         <div class="holo-title">Key Figures</div>
         <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 8px;">
           {keyEntities.map((ent) => (
-            <a href={`${import.meta.env.BASE_URL}entity/${ent.id}/`} class="entity-card" style="text-decoration: none;">
+            <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/entity/${ent.id}/`} class="entity-card" style="text-decoration: none;">
               <div class={`entity-icon ${ent.type || 'person'}`}>
                 {ent.type === 'person' ? 'P' : ent.type === 'faction' ? 'F' : 'L'}
               </div>
@@ -87,10 +87,10 @@ const sigColors: Record<string, string> = {
       {arcArticles.map((art) => (
         <div key={art.uuid} style="padding: 10px 0; border-bottom: 1px solid var(--border-default);">
           <div style="font-family: var(--font-mono); font-size: 11px; color: var(--text-dim);">{art.date}</div>
-          <a href={`${import.meta.env.BASE_URL}#${art.date}-${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
+          <a href={`${(import.meta.env.BASE_URL || '').replace(/\/$/, '')}/#${art.date}-${art.uuid}`} style="font-size: 14px; font-weight: 500; color: var(--text-primary); text-decoration: none;">
             {art.title}
           </a>
-          <div style="font-size: 12px; color: var(--text-secondary); margin-top: 2px;" set:html={art.body_preview.replace(/\[\[([^\]]+)\]\]/g, (m, name) => { const eid = name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-'); return `<a href="${import.meta.env.BASE_URL}entity/${eid}/" class="wiki-link">${name}</a>`; })} />
+          <div style="font-size: 12px; color: var(--text-secondary); margin-top: 2px;" set:html={art.body_preview.replace(/\[\[([^\]]+)\]\]/g, (m, name) => { const eid = name.toLowerCase().replace(/[^\w-]/g, '').replace(/\s+/g, '-'); const base = (import.meta.env.BASE_URL || '').replace(/\/$/, ''); return `<a href="${base}/entity/${eid}/" class="wiki-link">${name}</a>`; })} />
           {art.modern_impact && (
             <div style="margin-top: 6px; padding: 6px 10px; background: 'rgba(255,140,0,0.05)'; border-left: 2px solid var(--elite-orange-dim); font-size: 11px; color: var(--text-secondary); font-style: italic;">
               {art.modern_impact}
