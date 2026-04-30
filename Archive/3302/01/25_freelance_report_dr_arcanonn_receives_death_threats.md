@@ -20,13 +20,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: Dr Arcanonn Receives Death Threats
+Freelance Report: Dr [[Arcanonn Receives Death Threats]]
 
 
-Dr Arcanonn from the Canonn Interstellar Research Group has released a statement to the galactic media: 
+Dr [[Arcanonn]] from [[The]] [[Canonn Interstellar Research Group]] has released a statement to the galactic media: 
 
 "I am now working from a new laboratory, two kilometres underground, at a secret location. My colleagues have forced me to relocate in the interests of my own safety. The death threats began shortly after I urged the galactic community to search for the barnacles. As word reached us of fellow scientists disappearing under mysterious circumstances, we realised the threats were not idle." 
 
-"But the work must go on. I urge you to continue to gather meta-alloys for Professor Palin. He is our best hope to solve the station malfunctions. But stay away from people harbouring the irrational idea that this endeavour will lead to our annihilation." 
+"[[But the]] work must go on. I urge you to continue to gather meta-alloys for [[Professor Palin]]. He is [[Our]] best hope to solve the station malfunctions. But stay away from people harbouring the irrational idea that [[This]] endeavour will lead to our annihilation." 
 
-Commander Lord Zoltan
+Commander [[Lord Zoltan]]

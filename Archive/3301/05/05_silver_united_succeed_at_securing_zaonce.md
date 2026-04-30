@@ -21,13 +21,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Silver United Succeed at Securing Zaonce
+Silver United Succeed at Securing [[Zaonce]]
 
 
-After months of being terrorised by malicious criminals intent on turning the Old Worlds into some kind of ‘New Caribbean’, residents of the Lave cluster finally banded together this past weekend to crack down on the lawless scum that had been pillaging and plundering their way across the sector. 
+After months of being terrorised by malicious criminals intent on turning [[The]] Old Worlds into some kind of ‘New Caribbean’, residents of [[The Lave]] cluster finally banded together [[This]] past weekend to crack down on [[The]] lawless scum that had been pillaging and plundering their way across the sector. 
 
-Inspired by the recent help freely given to the people of Reorte by the Alliance Elite Diplomatic Corps, Silver United Solutions decided to offer a set of substantial rewards to any pilot brave enough to help remove the criminals known as the Jet Gang from Zaonce.   
+Inspired by the recent help freely given to the people of [[Reorte]] by the [[Alliance]] Elite Diplomatic Corps, Silver United Solutions decided to offer a set of substantial rewards to any pilot brave enough to help remove the criminals known [[As the]] Jet Gang from [[Zaonce]].   
 
-The initiative was an overwhelming success. 5,535 pilots were temporarily deputised during the course of the weekend, leading to the Zaonce Jet Gang (and many other local pirate crews) being crushed by the raw power of the makeshift fleet. 
+The initiative was an overwhelming success. 5,535 pilots were temporarily deputised during the course of the weekend, leading to the Zaonce Jet Gang (and [[Many]] [[Other]] local pirate crews) being crushed by the raw power of the makeshift fleet. 
 
-To celebrate their success, Silver United Solutions has organised a special discount on all Faulcon DeLacy ships being sold from Ridley Scott Station, Zaonce. A limited number of Pythons have been made available for the duration of the sale.
+To celebrate their success, Silver United Solutions has organised a special discount on all [[Faulcon DeLacy]] ships being sold from Ridley Scott Station, Zaonce. A limited number of Pythons have been made available for the duration of the sale.

@@ -20,11 +20,11 @@ significance: low
 Secret Research Outpost Attacked
 
 
-A Federal Navy vessel has reported the discovery of an unregistered outpost with all occupants murdered, following a response to an automatic distress signal. 
+A [[Federal Navy]] [[Vessel]] has reported [[The]] discovery of an unregistered outpost [[With]] all occupants [[Murdered]], following a response to an automatic distress signal. 
 
-The incident is being investigated by the Federal Intelligence Agency. Senior Agent Rochelle Karim made the following statement: 
+The incident is being investigated by the Federal Intelligence Agency. Senior Agent [[Rochelle Karim made]] [[The following]] statement: 
 
-“This remote lunar base was designed to prevent detection, and yet it has been located and invaded by unknown forces who chose to gun down its inhabitants. It appears access codes were used to bypass security systems, as there are no signs of forced entry.” 
+“[[This]] remote lunar base was designed to prevent detection, and yet it has been [[Located]] and invaded by unknown forces who chose to gun down [[Its]] inhabitants. It appears access codes were used to bypass security systems, as there are no signs of forced entry.” 
 
 “Initial findings suggest the outpost was dedicated to advanced nuclear research. This may have been a targeted attack in order to steal a power source, a weapon, or valuable data.”  
 

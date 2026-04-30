@@ -18,11 +18,11 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Capital Ships Vulnerable to Thargoid Attack
+Galactic News: Capital Ships Vulnerable to [[Thargoid]] Attack
 
 
-Admiral Aden Tanner, Aegis’s chief military liaison, has addressed reports of capital ships being destroyed by the Thargoids. 
+Admiral Aden Tanner, [[Aegis]]’s chief military liaison, has addressed reports of capital ships being destroyed by [[The]] Thargoids. 
 
-“Although the shutdown field neutraliser developed by Aegis is capable of protecting small ships, we have encountered difficulties adapting the technology to larger spacecraft. Furthermore, the fact that Thargoids tend to target larger vessels with multiple shutdown beams simultaneously makes the task of protecting them more difficult.” 
+“Although the shutdown field neutraliser developed by Aegis is capable of protecting small ships, we have encountered difficulties adapting the technology to larger spacecraft. Furthermore, the fact that Thargoids tend to target larger vessels [[With]] multiple shutdown beams simultaneously makes the task of protecting them more difficult.” 
 
 “The fact that capital-class ships are more vulnerable to Thargoid attack means they are an ineffective way of protecting outposts, planets and shipping lanes. Consequently, for the present, the deployment of capital ships is not considered an effective defence strategy.”

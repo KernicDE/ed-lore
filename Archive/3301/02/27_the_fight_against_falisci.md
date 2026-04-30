@@ -23,15 +23,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-The Fight Against Falisci
+[[The]] Fight Against [[Falisci]]
 
 
-There’s war brewing in the Empire, as despite a stern warning issued in their direction by Senator Denton Patreus, the pirates of Falisci continue to plunder innocent traders as they pass through on the way to ply their wares in Dongzi and Ngaiawang. 
+There’s war brewing in [[The]] Empire, as despite a stern warning issued in their direction by [[Senator [[Denton]] Patreus]], the pirates of [[Falisci]] continue to plunder innocent traders as they pass through on the way to ply their wares in Dongzi and [[Ngaiawang]]. 
 
 Things could soon change however, as reports are coming in that warships belonging to the Citizens of Tradition, a group well known for their support of Senator Patreus, have been spotted amassing on the borders of Falisci. 
 
-When pressed for comment, Commander Shole of the Citizens of Tradition had this to say: 
+When pressed for comment, Commander [[Shole]] of the Citizens of Tradition had [[This]] to say: 
 
-“We’ve got our orders. No traders are going under on our watch. If those Falisci scumbags so much as think about crossing this border, they’re going to wish they hadn’t.” 
+“We’ve got [[Our]] orders. No traders are going under on [[Our]] watch. If those Falisci scumbags so much as think about crossing [[This]] border, they’re going to wish they hadn’t.” 
 
-Imperial Commanders willing to join the fight to defend imperial space should seek out the Citizens of Tradition aboard Dornier Terminal in Ngaiawang.
+Imperial Commanders willing to join the fight to defend imperial space should seek out the Citizens of Tradition aboard Dornier Terminal in [[Ngaiawang]].

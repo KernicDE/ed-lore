@@ -22,12 +22,12 @@ significance: low
 Community Goal: Breakfast at Tranquillity
 
 
-The people of the Leesti system are not the only ones celebrating this week. The Guardians of Tranquillity have announced plans to host a food festival in the Tarach Tor system, prompting criticism from Independent Leesti for Equality, which is coordinating a similar event in Leesti. The Guardians of Tranquillity have strenuously denied that the event is an attempt to upstage Independent Leesti for Equality. 
+[[The people of [[The]] Leesti]] system are not the only ones celebrating [[This]] week. The Guardians of Tranquillity have announced plans to host a food festival in the Tarach Tor system, prompting criticism from [[Independent]] [[Leesti]] for Equality, [[Which]] is coordinating a similar event in Leesti. The Guardians of Tranquillity have strenuously denied that the event is an attempt to upstage Independent Leesti for Equality. 
 
-Guardians of Tranquillity spokesperson General Hunter O'Brien released the following statement: 
+Guardians of Tranquillity spokesperson General Hunter O'Brien released [[The following]] statement: 
 
-"The 'Breakfast at Tranquillity' food festival will showcase the very best regional cuisine, together with libations from Tarach Tor's many fine vineyards and breweries. In addition to these delicacies, we are hoping to be able to offer foods from the Lave sector of space, and have placed an open order for various rare goods." 
+"The 'Breakfast at Tranquillity' food festival will showcase the very best regional cuisine, together [[With]] libations from Tarach Tor's [[Many]] fine vineyards and breweries. In addition to these delicacies, we are hoping to be able to offer foods from [[The Lave]] sector of space, and have placed an open order for various rare goods." 
 
-In support of the event, the Guardians of Tranquillity have promised to reward pilots who deliver Azure Milk, Diso Ma Corn, Lavian Brandy, Uszaian Tree Grubs and Orrerian Vicious Brew to the Tranquillity starport in the Tarach Tor system. 
+In support of the event, the Guardians of Tranquillity have promised to reward pilots who deliver Azure Milk, [[Diso]] Ma Corn, Lavian Brandy, Uszaian Tree Grubs and Orrerian Vicious Brew to the Tranquillity starport in the Tarach Tor system. 
 
-The campaign begins on the 16th of November 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 16th of November 3303 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

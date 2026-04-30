@@ -20,14 +20,14 @@ significance: low
 Admiral Yamamoto Arrested for Murder
 
 
-Admiral Frederick Yamamoto, head of the Alliance fleet in Zaonce, has been charged with the assassination of former presidential candidate Fazia Silva. 
+Admiral Frederick Yamamoto, head of [[The]] [[Alliance]] fleet in [[Zaonce]], has been charged [[With the]] assassination of former presidential candidate Fazia Silva. 
 
 The shocking statement was delivered by Tashmira Silva, who became CEO of Silva Holdings Inc after her sister’s death: 
 
-“When the inquiry into Fazia’s murder closed, I hired the Wallglass Investigations Agency at great expense to uncover the truth. They identified that a professional assassin with a background in the Alliance Defence Force was responsible.” 
+“When the inquiry into Fazia’s murder closed, I hired the [[Wallglass Investigations Agency]] at great expense to uncover the truth. They identified that a professional assassin [[With]] a background in the Alliance Defence Force was responsible.” 
 
-“Unravelling a complex trail of financial evidence and encrypted communications led directly to Admiral Yamamoto. He personally arranged to have Fazia killed during the presidential election campaign, presumably to remove her political threat to his friend Gibson Kincaid.” 
+“Unravelling a complex trail of financial evidence and encrypted communications led directly to Admiral Yamamoto. He personally arranged to have Fazia killed during the presidential election campaign, presumably to remove her political threat to his friend [[Gibson Kincaid]].” 
 
-Alliance Interpol recently verified the Wallglass report and has now detained Yamamoto pending trial. The Zaonce fleet has been placed under the joint command of the Council of Admirals. 
+Alliance Interpol recently verified the [[Wallglass]] report and has now detained Yamamoto pending trial. The Zaonce fleet has been placed under the joint command of the Council of Admirals. 
 
-There has been no comment from President Kincaid.
+There has been no comment from President [[Kincaid]].

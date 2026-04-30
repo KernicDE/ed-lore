@@ -24,10 +24,10 @@ significance: high
 ---
 
 *Pilots’ Federation ALERT*
-The Neo-Marlinist Order of Mudhrid has been defeated by the Epsilon Fornacis Empire Group in the Mudhrid system.
-With the aid of many independent pilots, the Imperial faction outmatched the NMLA-supporting forces who were attempting to rescue their leader Theta Seven.
+[[The]] Neo-[[Marlinist]] Order of [[Mudhrid]] has been defeated by the Epsilon Fornacis Empire Group in the Mudhrid system.
+[[With the]] aid of [[Many]] [[Independent]] pilots, the Imperial faction outmatched the NMLA-supporting forces who were attempting to rescue their leader Theta Seven.
 Captain Saskia Landau provided an update from ACT:
-“Using the fierce fighting as cover, Captain Milo Castile led a commando unit made up of specialists from Alliance, Federal and Imperial security forces to gain access to the Steel Majesty. After freeing and arming the crewmembers that were being held hostage, they overpowered the NMLA troops and retook the megaship.”
-“We have successfully prevented Theta Seven and his followers from rejoining their fellow terrorists. But the Far God cult’s vessel, the Sacrosanct, is still in the system under his control. Until the man responsible for hundreds of thousands of deaths has been captured, our victory over the NMLA remains incomplete.”
-The Epsilon Fornacis Empire Group stated that those who supported its campaign can now receive their rewards from Payne-Scott City starport. 
-The Imperial faction also agreed that independent pilots who fought for the Neo-Marlinist Order of Mudhrid will be permitted to collect payment from the Steel Majesty, which has been transferred to their ownership.
+“Using the fierce fighting as cover, Captain Milo Castile led a commando unit made up of specialists from [[Alliance]], Federal and Imperial security forces to gain [[Access to the]] Steel Majesty. After freeing and arming the crewmembers that were being held hostage, they overpowered the NMLA troops and retook the megaship.”
+“We have successfully prevented Theta Seven and his followers from rejoining their fellow terrorists. [[But the]] [[Far]] God cult’s [[Vessel]], the Sacrosanct, is still in the system under his control. Until the man responsible for [[Hundreds of]] thousands of deaths has been captured, [[Our]] victory over the NMLA remains incomplete.”
+The Epsilon Fornacis Empire Group stated that those who supported [[Its]] campaign can now receive their rewards from Payne-Scott City starport. 
+The Imperial faction also agreed that independent pilots who fought for the Neo-Marlinist Order of Mudhrid will be permitted to collect payment from the Steel Majesty, [[Which]] has been transferred to their ownership.

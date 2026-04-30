@@ -12,11 +12,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Grand Slave Sale in Carns Ends
+Grand Slave Sale in [[Carns]] Ends
 
 
-Grand Slave Sale in Carns Ends  
+Grand Slave Sale in [[Carns]] Ends  
  
-The grand slave sale held on Humason Orbital in the Carns system has ended. Deputy Communications Officer Ramon Lamor declared the sale a success, but refused to comment further, or provide actual numbers. He did confirm that a report analysing the sale and the recent activity for the planned market changes at the station would be presented next week. 
+[[The]] grand slave sale held on Humason Orbital in [[The]] Carns system has ended. Deputy Communications Officer Ramon Lamor declared the sale a success, but refused to comment [[Further]], or provide actual numbers. He did confirm that a report analysing the sale and the recent activity for the planned market changes at the station would be presented next week. 
 
-There have been reports of unrest on the station since the announcement that as of next week, the local economy would be transformed to deal with High Tech goods and services. There was no official comment on these reports at this time.
+There have been reports of unrest on the station since the announcement that as of next week, the local economy would be transformed to deal [[With]] High Tech goods and services. There was no official comment on these reports at [[This]] time.

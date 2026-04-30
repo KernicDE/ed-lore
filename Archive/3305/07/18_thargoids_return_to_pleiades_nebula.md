@@ -27,15 +27,15 @@ legacy_weight: 5
 significance: high
 ---
 
-Thargoids Return to Pleiades Nebula
+Thargoids Return to [[Pleiades Nebula]]
 
 
-The Thargoids have returned to the Pleiades Nebula in large numbers, with several conflicts reported within hours. 
+[[The]] Thargoids have returned to the Pleiades Nebula in large numbers, [[With]] [[Several]] conflicts reported within hours. 
 
-Professor Alba Tesreau gave an update on behalf of Aegis Research: 
+Professor [[Alba Tesreau gave]] an update on behalf of [[Aegis]] Research: 
 
-“The Thargoid forces that recently withdrew from the core systems have resurfaced in the Pleiades Nebula following a brief disappearance. An initial analysis of their movements suggests a subtle change to their tactics. I believe they are seeking to reassert themselves in their original nexus.”    
+“The [[Thargoid]] forces that recently withdrew from the core systems have resurfaced in the Pleiades Nebula following a brief disappearance. An initial analysis of their movements suggests a subtle change to their tactics. I believe they are seeking to reassert themselves in their original nexus.”    
 
-“A considerable number of Thargoid craft have gathered in the Maia system. With the Palin Research Centre facing an imminent attack, the decision was made to evacuate Professor Palin and his staff, thereby protecting a number of vital research projects. All work at Palin Research Centre has been suspended.” 
+“A considerable number of Thargoid craft have gathered in the [[Maia]] system. [[With the]] Palin Research Centre facing an imminent attack, the decision was made to evacuate [[Professor Palin]] and his staff, thereby protecting a number of vital research projects. All work at Palin Research Centre has been [[Suspended]].” 
 
-“Regrettably, however, a transmission from Palin’s megaship, Carson's Spring, indicates that it was assaulted by Thargoid vessels shortly after departure. With system security forces already under pressure, we urge independent pilots to head to Maia and protect Carson’s Spring.”
+“Regrettably, however, a transmission from Palin’s megaship, Carson's Spring, indicates that it was assaulted by Thargoid vessels shortly after departure. With system security forces already [[Under Pressure]], we urge [[Independent]] pilots to head to Maia and protect Carson’s Spring.”

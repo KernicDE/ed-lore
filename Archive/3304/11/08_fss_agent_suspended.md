@@ -21,19 +21,19 @@ legacy_weight: 1
 significance: low
 ---
 
-FSS Agent Suspended
+FSS Agent [[Suspended]]
 
 
-Lieutenant Inspector Ramesh Thorne, who has been leading an investigation into The Mars Tribune, has been suspended from the Federal Security Service. 
+Lieutenant Inspector Ramesh Thorne, who has been leading an investigation into [[The]] [[Mars]] Tribune, has been suspended from the [[Federal Security Service]]. 
 
-A spokesperson for the FSS released the following statement: 
+A spokesperson for the FSS released [[The following]] statement: 
 
 “We have suspended Lieutenant Inspector Thorne from active duty, effective immediately. His investigation is officially terminated.” 
 
 The announcement came less than an hour after Thorne made the following public appeal: 
 
-“We have evidence that the admin robots fitted with surveillance programs are connected to exclusive stories obtained by The Mars Tribune. Since my superiors are unwilling to pursue this, I am appealing to anyone with relevant information to come forward. I can guarantee them immunity from prosecution.” 
+“We have evidence that the admin robots fitted [[With]] surveillance programs are connected to exclusive stories obtained by The Mars Tribune. Since my superiors are unwilling to pursue [[This]], I am appealing to anyone with relevant information to come forward. I can guarantee them immunity from prosecution.” 
 
-Many media including Lena Ravenhill, chief editor of The Federal Times, reacted with outrage to the news: 
+[[Many]] media including Lena Ravenhill, chief editor of The [[Federal Times]], reacted with outrage to the news: 
 
-“It’s clear that someone in the FSS is feeling threatened, and that The Mars Tribune has used spy robots to feed the scandals it thrives on. We are highlighting Ramesh Thorne’s appeal, as are many other newsfeeds taking a stand against corrupt journalism.”
+“It’s clear that someone in the FSS is feeling threatened, and that The Mars Tribune has used spy robots to feed the scandals it thrives on. We are highlighting Ramesh Thorne’s appeal, as are many [[Other]] newsfeeds taking a stand against corrupt journalism.”

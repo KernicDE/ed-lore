@@ -21,10 +21,10 @@ significance: medium
 Galactic News: Colonia Population Boom
 
 
-The latest census data from Colonia indicates that the system has seen a massive influx of immigrants in recent weeks. Although precise details have not been made public, it is understood that many of the region’s new citizens are from the core systems. 
+[[The]] latest census data from Colonia indicates that the system has seen a massive influx of immigrants in recent weeks. Although precise details have not been made public, it is understood that [[Many of the]] region’s new citizens are from the core systems. 
 
-The spike follows the introduction of a migration subsidy from the Colonia Council, which has made it much cheaper for potential immigrants to reach Colonia. Sources close to the Council have confirmed that the move was designed to stimulate economic growth by attracting skilled workers to the region. 
+The spike follows the introduction of a migration subsidy from the [[Colonia Council]], [[Which]] has made it much cheaper for potential immigrants to reach Colonia. Sources close to the Council have confirmed that the move was designed to stimulate economic growth by attracting skilled workers to the region. 
 
-The Colonia colony was founded almost a year ago, and since then it has expanded rapidly. For some, it represents an alternative to the violence and political disharmony they believe has come to characterise life in the core systems. 
+The Colonia colony was founded almost a year ago, and since then it has expanded rapidly. For some, it represents an alternative to the violence and political disharmony they believe has come to characterise life [[In the core]] systems. 
 
-Social and political experts have predicted that as long as the Federal-Imperial conflict persists, the Colonia community will continue to grow.
+Social and political experts have predicted that as long [[As the]] Federal-Imperial conflict persists, the Colonia community will continue to grow.

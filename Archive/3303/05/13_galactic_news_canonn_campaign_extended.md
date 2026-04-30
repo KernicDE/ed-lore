@@ -15,13 +15,13 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: Canonn Campaign Extended
+Galactic News: [[Canonn]] Campaign Extended
 
 
-The appeal from the Canonn Interstellar Research Group for materials for a new research vessel has received an unprecedented level of support. The organisation has therefore decided to extend its original targets. 
+[[The]] appeal from the [[Canonn Interstellar Research Group]] for materials for a new research [[Vessel]] has received an unprecedented level of support. The organisation has therefore decided to extend [[Its]] original targets. 
 
-A spokesperson for the organisation released the following statement: 
+A spokesperson for the organisation released [[The following]] statement: 
 
-“The level of support from the galactic community is truly amazing. We have therefore decided to add new cash tiers to our campaign so we can bolster the ship’s specifications, and amass a quantity of material for the scientific voyages the Gnosis has been designed for.” 
+“The level of support from the galactic community is truly amazing. We have therefore decided to add new cash tiers to [[Our]] campaign so we can bolster the ship’s specifications, and amass a quantity of material for the scientific voyages the Gnosis has been designed for.” 
 
-“This also gives more of the community an opportunity to contribute to this historic campaign.”
+“[[This]] also gives more of the community an opportunity to contribute to this historic campaign.”

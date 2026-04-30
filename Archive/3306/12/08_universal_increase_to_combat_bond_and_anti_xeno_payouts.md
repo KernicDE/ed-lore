@@ -23,11 +23,11 @@ legacy_weight: 5
 significance: high
 ---
 
-*Pilots Federation ALERT*
-The values of combat bonds and anti-xeno bonds have been increased, as factions focus on bolstering defences.
-Financial instability and the current political tensions have led to factions upscaling their rewards for combat bonds, as well as bonds received for destroying Thargoid vessels. 
-These increases to anti-xeno and combat bonds will be in effect across Alliance, Federal, Imperial and independent space. They can be processed as usual at any starport offering the relevant services.
-This follows a turbulent period in many marketplaces that has impacted commodity prices, as well as producing a boost to the value of bounty vouchers.
-The changes were remarked upon by Professor Ophelia Kaufmann, head of economics at Orion Independent University:
-“As anticipated, the ongoing volatility of financial markets has led to further widespread revaluation. With heightened hostility between the Empire and the Federation, coupled with terrorist attacks and a resurgence in Thargoid activity, it is hardly surprising that every faction now places a greater premium on protecting their citizens.”
-“Although some may view the current tranche of changes as inevitable or overdue, there may well be additional revaluing in other fields as a result of competing market forces. The only certainty is of further uncertainty.”
+*[[Pilots Federation]] ALERT*
+[[The]] values of combat bonds and anti-xeno bonds have been increased, as factions focus on bolstering defences.
+Financial instability and the current political tensions have led to factions upscaling their rewards for combat bonds, as well as bonds received for destroying [[Thargoid]] vessels. 
+These increases to anti-xeno and combat bonds will be in effect across [[Alliance]], Federal, Imperial and [[Independent]] space. They can be processed as usual at any starport offering the relevant services.
+[[This]] follows a turbulent period in [[Many]] marketplaces that has impacted commodity prices, as well as producing a boost to the value of bounty vouchers.
+The changes were remarked upon by Professor [[Ophelia Kaufmann]], head of economics at Orion Independent University:
+“As anticipated, the ongoing volatility of financial markets has led to [[Further]] widespread revaluation. [[With]] heightened hostility between the Empire and the Federation, coupled with terrorist attacks and a resurgence in Thargoid activity, it is hardly surprising that [[Every]] faction now places a greater premium on protecting their citizens.”
+“Although some may view the current tranche of changes as inevitable or overdue, there may well be additional revaluing in [[Other]] fields as a result of competing market forces. The only certainty is of further uncertainty.”

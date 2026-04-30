@@ -14,15 +14,15 @@ legacy_weight: 1
 significance: low
 ---
 
-Conflict in Geras
+Conflict in [[Geras]]
 
 
-Recent reports from the Geras system indicate that after a spate of reciprocal attacks, hostilities between Geras First and Ndozins State Inc have escalated into all-out war. 
+[[Recent reports from [[The]] Geras]] system indicate that after a spate of reciprocal attacks, hostilities between Geras First and Ndozins State Inc have escalated into all-out war. 
 
-According to Donal Varden, an independent journalist: 
+[[According to]] Donal Varden, an [[Independent]] journalist: 
 
-“For several months we’ve seen these factions sniping at one another from the shadows, but now the stakes have been raised. It won’t be long before the space lanes of Geras are littered with the burned-out shells of dead ships.” 
+“For [[Several]] months we’ve seen these factions sniping at [[One]] another from the shadows, but now the stakes have been raised. It won’t be long before the space lanes of Geras are littered [[With the]] burned-out shells of dead ships.” 
 
 The warring organisations have issued calls to independent combat pilots for support. Commanders who participate in the conflict will be generously rewarded by their chosen faction. 
 
-Both factions have set out week-long operations to take control of the system, which will begin on the 1st of November 3304.
+Both factions have set out week-long operations to take control of the system, [[Which]] will begin on the 1st of November 3304.

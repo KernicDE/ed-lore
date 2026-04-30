@@ -19,17 +19,17 @@ significance: low
 Rockforth Corporation Sales Spike
 
 
-Share prices in the Rockforth Corporation have risen following the success of its latest fertiliser.  
+Share prices in [[The]] Rockforth Corporation have risen following the success of [[Its]] latest fertiliser.  
 
-With key agricultural systems reporting crop failures over the past few weeks, the mega-corporation has capitalised on farmers’ demands for new treatments. Sales of Rockforth’s fertiliser have beaten expectations, with multiple systems importing large quantities of stock. 
+[[With key agricultural]] systems reporting crop failures over the past few weeks, the mega-corporation has capitalised on farmers’ demands for new treatments. Sales of Rockforth’s fertiliser have beaten expectations, [[With]] multiple systems importing large quantities of stock. 
 
-Rockforth marketing director Rex Whitlock provided this statement: 
+Rockforth marketing director Rex Whitlock provided [[This]] statement: 
 
-“I believe that our long-standing dedication to quality has played no small part in the success of this product. Since its inception, the Rockforth Corporation has represented the cutting edge of agricultural technology.”   
+“I believe that [[Our]] long-standing dedication to quality has played no small part in the success of this product. Since its inception, the Rockforth Corporation has represented the cutting edge of agricultural technology.”   
 
-“Hard-working farmers facing this challenge require our support, and we have pledged to meet their needs. I am confident that the EX7 fertiliser will help to mitigate any further losses.” 
+“Hard-working farmers facing this challenge require our support, and we have pledged to meet their needs. I am confident that the EX7 fertiliser will help to mitigate any [[Further]] losses.” 
 
-Meanwhile, Dr Genevieve Kane of the Interstellar Association for Agriculture has repeated calls for distribution restrictions.  
+Meanwhile, Dr [[Genevieve Kane]] of the Interstellar Association for Agriculture has repeated calls for distribution restrictions.  
 
 “Our compliance department has been in regular communication with Rockforth representatives, but we have yet to receive the requested documentation.”  
 

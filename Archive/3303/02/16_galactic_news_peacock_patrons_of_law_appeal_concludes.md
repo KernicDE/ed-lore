@@ -14,7 +14,7 @@ significance: low
 Galactic News: Peacock Patrons of Law Appeal Concludes
 
 
-A spokesperson for the Peacock Patrons of Law has announced that their appeal for robotics, ion distributors and emergency power cells has been enthusiastically received by the galactic community, resulting in a massive influx of deliveries to Phillips Dock, the organisation's base of operations. 
+A spokesperson for [[The]] Peacock Patrons of Law has announced that their appeal for robotics, ion distributors and emergency power cells has been enthusiastically received by the galactic community, resulting [[In a]] massive influx of deliveries to Phillips Dock, the organisation's base of operations. 
 
 The Peacock Patrons of Law have extended their gratitude to those who supported the campaign. 
 

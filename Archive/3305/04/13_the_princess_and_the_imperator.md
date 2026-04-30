@@ -15,15 +15,15 @@ legacy_weight: 4
 significance: high
 ---
 
-The Princess and the Imperator
+[[The]] Princess and the Imperator
 
 
-News of a meeting between Princess Aisling Duval and Imperator Hadrian Augustus Duval has caused controversy throughout the Empire.  
+News of a meeting between Princess [[Aisling Duval]] and Imperator Hadrian Augustus Duval has caused controversy throughout the Empire.  
 
 Political journalist Cassia Carvalho reviewed the situation: 
 
-“Princess Aisling is surely aware that contacting Hadrian Duval was a politically risky move. Senator Zemina Torval has wasted no time in branding the princess ‘an ideological traitor’ for associating with isolationists.” 
+“Princess Aisling is surely aware that contacting Hadrian Duval was a politically risky move. Senator [[Zemina Torval]] has wasted no time in branding the princess ‘an ideological traitor’ for associating [[With]] isolationists.” 
 
 “Family connections aside, Hadrian’s traditionalist views do not align with Aisling’s progressive approach. But he is young and inexperienced, with policies inherited from the extremist Imperator Mordanticus.” 
 
-“Perhaps Aisling hopes that, by learning to adapt, this long-lost member of the Duval family may yet play a part on the galactic stage.”
+“Perhaps Aisling hopes that, by learning to adapt, [[This]] long-lost member of the Duval family may yet play a part on the galactic stage.”

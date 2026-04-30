@@ -17,10 +17,10 @@ significance: low
 Galactic News: Anti-Piracy Campaign Concludes
 
 
-Authorities in Slink's Eye have announced that the operation to clear the system of pirates has received the enthusiastic support of the galactic community. Hundreds of pilots contributed to the operation, taking to their ships to eliminate the agitators operating in the system, and providing local security forces with deliveries of reactive armour. 
+[[Authorities in]] Slink's Eye have announced that [[The]] operation to clear the system of pirates has received the enthusiastic support of the galactic community. [[Hundreds of]] pilots contributed to the operation, taking to their ships to eliminate the agitators operating in the system, and providing local security forces [[With]] deliveries of reactive armour. 
 
 Jaylon Hart, head of local security, thanked those who supported the initiative. 
 
-"There are some damn good pilots in my team, but we just don't have the resources to counter offensives of this scale. By providing us with combat support and much-needed supplies, the galactic community played an essential role in protecting the people of Slink's Eye. We're hugely grateful to both the public and the Revolutionary Slink's Eye Liberals." 
+"There are some damn good pilots in my team, but we just don't have the resources to counter offensives of [[This]] scale. By providing us with combat support and much-needed supplies, the galactic community played an essential role in protecting the people of Slink's Eye. We're hugely grateful to both the public and the Revolutionary Slink's Eye Liberals." 
 
 Rewards for those who contributed to the operation can now be collected from Kelleam Ring.

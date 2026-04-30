@@ -14,15 +14,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-Community Goal: The Gear of War
+Community Goal: [[The]] Gear of War
 
 
 The Sitakapan Expeditionary Forces have announced plans to fortify their home system of Sitakapa by converting a mining outpost into a military settlement. The move is a response to increasing political and military instability across the galaxy. 
 
 General Ani Leonard of Sitakapan Expeditionary Forces announced: 
 
-"Our galaxy becomes more dangerous every day. Whether it's the Federation sowing unrest in the Pleiades, fringe-terrorism from Salomè and her lackeys or hyperdictions from unknown parties, the risks are greater than they've ever been. And the frontier colonies are most at risk. We must be prepared." 
+"[[Our]] galaxy becomes more dangerous [[Every]] day. Whether it's the Federation sowing unrest in the Pleiades, fringe-terrorism from Salomè and her lackeys or hyperdictions from unknown parties, the risks are greater than they've ever been. And the frontier colonies are most at risk. We must be prepared." 
 
 General Leonard promised that contractors who deliver military-grade weapons and chemicals to Russell Hub will earn a cut of Sitakapa's booming wealth – the result of years of economic development. 
 
-The campaign begins on the 27th of April 3302 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 27th of April 3302 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

@@ -19,13 +19,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-Falisci: Democracy Denied
+[[Falisci]]: Democracy Denied
 
 
-In recent weeks the tiny system of Falisci has become a hotbed of activity. 
+[[In recent weeks [[The]] tiny]] system of [[Falisci]] has become a hotbed of activity. 
 
-First came the war against the Falisci Purple Gang, which saw Senator Patreus and the Citizens of Tradition dominate the region with their superior firepower and overwhelming numbers. By the end of the week long struggle, the Falisci Purple Gang’s leadership was in chains, and its members sold off to work as Imperial Slaves. 
+First came [[The]] war against the Falisci Purple Gang, [[Which]] saw Senator Patreus and the Citizens of Tradition dominate the region [[With]] their superior firepower and overwhelming numbers. By the end of the week long struggle, the Falisci Purple Gang’s leadership was in chains, and [[Its]] members sold off to work as Imperial Slaves. 
 
-Then the Social Falisci Party, backed by a coalition of Federal squadrons, began attempting to exert their influence over the system. Imperial pilots fought back until it became clear that the Federation had grown tired of its futile attempts to overthrow the rightful rulers of the region. 
+Then the Social Falisci Party, backed by a coalition of Federal squadrons, began attempting to exert their influence over the system. Imperial pilots fought back until it became clear that the Federation had grown tired of [[Its]] futile attempts to overthrow the rightful rulers of the region. 
 
-The region may be devastated and its people may be in chains, but the Emperor’s peace has finally come to Falisci.
+The region may be devastated and its people may be in chains, [[But the]] Emperor’s peace has finally come to Falisci.

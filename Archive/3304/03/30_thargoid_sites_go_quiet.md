@@ -20,13 +20,13 @@ legacy_weight: 5
 significance: high
 ---
 
-Thargoid Sites Go Quiet
+[[Thargoid]] Sites Go Quiet
 
 
-Admiral Aden Tanner, Aegis’s chief military liaison, has released a statement concerning the Thargoid structures currently under surveillance in the Pleiades Nebula. 
+Admiral Aden Tanner, [[Aegis]]’s chief military liaison, has released a statement concerning [[The]] Thargoid structures currently under surveillance in the [[Pleiades Nebula]]. 
 
-“Undoubtedly, the most positive outcome of our Eagle Eye initiative is that it has allowed us to determine which locations the Thargoids intend to attack. This has proved invaluable in our ongoing fight against the Thargoids.” 
+“Undoubtedly, the most positive outcome of [[Our]] Eagle Eye initiative is that it has allowed us to determine [[Which]] locations the Thargoids intend to attack. [[This]] has proved invaluable in our ongoing fight against the Thargoids.” 
 
-“It appears, however, that the sites are currently dormant, as no energy-level fluctuations have been detected for several days. Hopefully this means we can look forward to a temporary reprieve from Thargoid attacks.” 
+“It appears, however, that the sites are currently dormant, as no energy-level fluctuations have been detected for [[Several]] days. Hopefully this means we can look forward to a temporary reprieve from Thargoid attacks.” 
 
 “Our military flagships, the Vanguard and the Acropolis, will remain on standby in HIP 21559 and Irandan until needed.”

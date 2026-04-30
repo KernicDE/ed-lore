@@ -25,10 +25,10 @@ legacy_weight: 5
 significance: high
 ---
 
-An investigation into the tri-superpower organisation Aegis is seeking to establish the reasons for its failures.
-Dr Paul Baumann, chair of the independent board of inquiry, outlined its scope:
-“The initial phase is to fully understand the work of Aegis, before examining strategic and operational decisions. Interviews with senior staff have been scheduled, with Admiral Aden Tanner providing details on military activity.”
-“One specific area of attention is the lost megaship Alexandria. We are performing a thorough analysis, including background checks on its crew. Hyperspace physicists are theorising probable causes for its failure to arrive at HIP 30944.”
-“We will be raising issues of culpability, specifically whether the concentration of Guardian artefacts aboard the Alexandria directly led to systems coming under Thargoid attack. Other incidents will be reviewed to identify possible grounds for negligence.”
-Many prominent figures within Aegis have resigned including Professor Alba Tesreau, Director Yazhu Xing and Dr Mia Valencourt. All active projects have been suspended, with routine activities continuing under independent observation.
-Some politicians in all three superpowers have protested against the inquiry, concerned about weakening defences against the Thargoids. Others believe Aegis is not fit for purpose, calling for a more localised approach to anti-xeno operations.
+An investigation into [[The]] tri-superpower organisation [[Aegis]] is seeking to establish the reasons for [[Its]] failures.
+Dr [[Paul Baumann]], chair of the [[Independent]] board of inquiry, outlined its scope:
+“The initial phase is to fully understand the work of Aegis, before examining strategic and operational decisions. Interviews [[With]] senior staff have been scheduled, with Admiral Aden Tanner providing details on military activity.”
+“[[One]] specific area of attention is the lost megaship Alexandria. We are performing a thorough analysis, including background checks on its crew. Hyperspace physicists are theorising probable causes for its failure to arrive at HIP 30944.”
+“We will be raising issues of culpability, specifically whether the concentration of Guardian artefacts aboard the Alexandria directly led to systems coming under [[Thargoid]] attack. [[Other]] incidents will be reviewed to identify possible grounds for negligence.”
+[[Many]] prominent figures within Aegis have resigned including Professor [[Alba Tesreau]], Director Yazhu Xing and Dr [[Mia Valencourt]]. All active projects have been [[Suspended]], with routine activities continuing under independent observation.
+Some politicians in [[All three]] superpowers have protested against the inquiry, concerned about weakening defences against the Thargoids. Others believe Aegis is not fit for purpose, calling for a more localised approach to anti-xeno operations.

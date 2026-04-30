@@ -12,19 +12,19 @@ legacy_weight: 1
 significance: low
 ---
 
-Rogue Robot Missing
+Rogue Robot [[Missing]]
 
 
-A malfunctioning mining robot has run amok through a settlement on Homeland in the Beta Hydri system. 
+A malfunctioning mining robot has [[Run]] amok through a settlement on [[Homeland in [[The]] Beta Hydri]] system. 
 
-The robot in question was a MacArthur Mining Ltd DG090 model, designed to extract and process minerals from asteroids. It was one of ten brand-new robots being loaded onto an orbital cargo shuttle. 
+The robot in question was a MacArthur Mining Ltd DG090 model, designed to extract and process minerals from asteroids. It was [[One]] of ten brand-new robots being loaded onto an orbital cargo shuttle. 
 
-Video feeds show the huge machine self-activating and breaking out of its container. It used its mining lasers, fusion drills and excavator claws to carve a path across the landing field. The robot then burrowed into the ground and disappeared. 
+Video feeds show the huge machine self-activating and breaking out of [[Its]] container. It used its mining lasers, fusion drills and excavator claws to carve a path across the landing field. The robot then burrowed into the ground and disappeared. 
 
-Security Chief Sara Kulkarni gave the following statement to the media: 
+Security Chief Sara Kulkarni gave [[The following]] statement to the media: 
 
-“Sensor drones are performing subterranean scans, but have not yet located the robot. We have therefore declared a regional state of emergency. Should the machine accidentally rupture a water main or pierce an underground power line, the potential for significant damage – even loss of life – is high.” 
+“Sensor drones are performing subterranean scans, but have not yet [[Located]] the robot. We have therefore declared a regional state of emergency. Should the machine accidentally rupture a water main or pierce an underground power line, the potential for significant damage – even loss of life – is high.” 
 
-Director Chen Emerson of MacArthur Mining Ltd made this statement: 
+Director Chen Emerson of MacArthur Mining Ltd made [[This]] statement: 
 
-“We are shocked by this incident, and an urgent inquiry is underway. The DG090 series is highly reliable and has never malfunctioned before. Our theory is that, due to human error, the unit was placed in the incorrect standby mode, and that stray signals from a nearby comms network triggered a preset program. We are supporting all efforts to locate the robot and shut it down.”
+“We are shocked by this incident, and an urgent inquiry is underway. The DG090 series is highly reliable and has never malfunctioned before. [[Our]] theory is that, due to human error, the unit was placed in the incorrect standby mode, and that stray signals from a [[Nearby]] comms network triggered a preset program. We are supporting all efforts to locate the robot and shut it down.”

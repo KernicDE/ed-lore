@@ -23,8 +23,8 @@ Pirate POWs Pack Prisons
 
 Pirate POWs Pack Prisons 
  
-The Pegasi Pirate War stemming from the United Imperial Offensive has taxed the logistical prowess of the Empire. Supplies, ships, and personnel must be transported up to hundreds of light years from their source to the Pegasi Sector. Provisioning the Imperial fleet over such distances is a monumental task in itself, but the steady stream of prisoners of war extradited to Imperial space must also be provisioned, guarded, and accommodated. Many prisoners await judgement by the Pilot’s Federation for their crimes, while others face judgement in Imperial courts. 
+[[The]] [[Pegasi]] Pirate War stemming from [[The]] United Imperial Offensive has taxed the logistical prowess of the Empire. Supplies, ships, and personnel must be transported up to [[Hundreds of]] light years from their source to the [[Pegasi]] Sector. Provisioning the Imperial fleet over such distances is a monumental task in itself, [[But the]] steady stream of prisoners of war extradited to Imperial space must also be provisioned, guarded, and accommodated. [[Many]] prisoners await judgement by the Pilot’s Federation for their crimes, while others face judgement in Imperial courts. 
 
-With many thousands of prisoners now in custody, accommodation is becoming an issue. Prisoners are currently held in hundreds of locations, creating additional logistical problems. Sources within Empire have indicated that a search for a suitable penal station, capable of holding all the prisoners, has begun. 
+[[With]] [[Many]] thousands of prisoners now in custody, accommodation is becoming an issue. Prisoners are currently held in [[Hundreds of]] locations, creating additional logistical problems. Sources within Empire have indicated that a search for a suitable penal station, capable of holding all the prisoners, has begun. 
 
-Commander Corrigendum
+Commander [[Corrigendum]]

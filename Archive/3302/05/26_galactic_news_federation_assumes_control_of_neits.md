@@ -19,10 +19,10 @@ significance: low
 Galactic News: Federation Assumes Control of Neits
 
 
-After a week of intense conflict, Neits Jet Life Ltd confirmed that its forces have successfully neutralised the GR 316 Silver Universal Group in the Neits system.  
+After a week of intense conflict, Neits Jet Life Ltd confirmed that [[Its]] forces have successfully neutralised [[The]] GR 316 Silver Universal Group in the Neits system.  
 
-The fighting began when ships belonging to the Federation-aligned Neits Jet Life Ltd came under fire from the GR 316 Silver Universal Group, an Imperial organisation. As the conflict escalated, both sides called in support from independent combat pilots, but ultimately it was Neits Jet Life Ltd who emerged victorious. 
+The fighting began when ships belonging to the Federation-aligned Neits Jet Life Ltd came under fire from the GR 316 Silver Universal Group, an Imperial organisation. [[As the]] conflict escalated, both sides called in support from [[Independent]] combat pilots, but ultimately it was Neits Jet Life Ltd who emerged victorious. 
 
-With the system now under official Federal control, Admiral Yorke of the Federal Navy released the following statement: 
+[[With the]] system now under official Federal control, Admiral Yorke of the [[Federal Navy]] released [[The following]] statement: 
 
 "The remaining GR 316 Silver Universal Group forces have retreated from Neits, allowing Neits Jet Life Ltd to assume control of the system. Neits will now enjoy all the benefits of being an official Federal enclave, including the protection of the Federal Navy."

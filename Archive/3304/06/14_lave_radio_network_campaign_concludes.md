@@ -15,13 +15,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Lave Radio Network Campaign Concludes
+[[Lave]] Radio Network Campaign Concludes
 
 
-The Lave Radio Network has announced that its campaign has reached a successful conclusion. Scores of pilots supported the initiative by delivering commodities to Lave Station, thereby allowing the network to broadcast its annual conference to the entire galaxy. A rival campaign from the Lave Jet Family was unable to destabilise the Lave Radio initiative, despite also receiving the support of independent pilots. 
+[[The Lave]] Radio Network has announced that [[Its]] campaign has reached a successful conclusion. Scores of pilots supported [[The]] initiative by delivering commodities to Lave Station, thereby allowing the network to broadcast its annual conference to [[The entire]] galaxy. A rival campaign from the Lave Jet Family was unable to destabilise the Lave Radio initiative, despite also receiving the support of [[Independent]] pilots. 
 
-As the campaign drew to a close, one of the organisers released a statement: 
+[[As the]] campaign drew to a close, [[One]] of the organisers released a statement: 
 
-“The signal is spreading. We would like to extend our gratitude to the galactic community for making this possible.” 
+“The signal is spreading. We would like to extend [[Our]] gratitude to the galactic community for making [[This]] possible.” 
 
-Pilots who contributed to the initiative can now collect their rewards from Lave Station in the Lave system.
+Pilots who contributed to the initiative can now collect their rewards from [[Lave Station in the Lave]] system.

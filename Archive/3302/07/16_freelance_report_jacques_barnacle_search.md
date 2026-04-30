@@ -17,12 +17,12 @@ significance: high
 Freelance Report: Jacques Barnacle Search
 
 
-The discovery of Jacques Station has prompted many Commanders to load up on meta-alloys and start the long trek to Eol Prou RS-T d3-94. 
+[[The]] discovery of Jacques Station has prompted [[Many]] Commanders to load up on meta-alloys and start the long trek to [[Eol Prou RS-T d3-94]]. 
 
-One group that has already made it has begun searching the area for barnacles. If the structures are found, they could provide Jacques with the meta-alloys needed to fix the station. 
+[[One]] group that has already made it has begun searching the area for barnacles. If the structures are [[Found]], they could provide Jacques [[With the]] meta-alloys needed to fix the station. 
 
 Some Commanders remain sceptical, arguing that the barnacles are engineered and won't be found in the system, but that hasn't stopped the search from going ahead. For many it is not a question of 'if' barnacles will found it – it is a question of 'when'. One of the searchers said: 
 
-"It makes sense there would be barnacles out here – the system has many of the conditions required. But searching for them is a big job. Any assistance from pilots in the area is welcome." 
+"It makes sense there would be barnacles out here – the system has [[Many of the]] conditions required. But searching for them is a big job. Any assistance from pilots in the area is welcome." 
 
 Commander BluWolve

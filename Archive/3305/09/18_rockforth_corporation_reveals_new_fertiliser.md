@@ -20,16 +20,16 @@ significance: low
 Rockforth Corporation Reveals New Fertiliser
 
 
-A new agricultural fertiliser has been released by the Rockforth Corporation in response to growing concerns over low harvests in several systems. 
+A new agricultural fertiliser has been released by [[The]] Rockforth Corporation in response to growing concerns over low harvests in [[Several]] systems. 
 
-Rex Whitlock, the company’s marketing director, gave this statement to shareholders: 
+Rex Whitlock, the company’s marketing director, gave [[This]] statement to shareholders: 
 
 “We at Rockforth are deeply concerned by the recent reports of poor staple crop yields. We are determined to ensure that the food-supply chains are not impacted.” 
 
-“Our new EX7 fertiliser has been synthetically enhanced to enrich soil, increase macronutrients and promote growth across all types of cropland. We have prioritised its development and are confident that it will help minimise the risk of future food shortages.” 
+“[[Our]] new EX7 fertiliser has been synthetically enhanced to enrich soil, increase macronutrients and promote growth across all types of cropland. We have prioritised [[Its]] development and are confident that it will help minimise the risk of future food shortages.” 
 
-“Distribution of the fertiliser has started at Marshall Dock in the Riedquat system. We encourage traders to take advantage of our introductory prices.” 
+“Distribution of the fertiliser has started at Marshall Dock in the [[Riedquat]] system. We encourage traders to take advantage of our introductory prices.” 
 
-Many farmers have already begun putting the new fertiliser to use, but Dr Genevieve Kane of the Interstellar Association for Agriculture commented: 
+[[Many]] farmers have already begun putting the new fertiliser to use, but Dr [[Genevieve Kane]] of the Interstellar Association for Agriculture commented: 
 
 “There are concerns that, in order to bring this new product to market quickly, Rockforth may not have satisfied all regulatory checks. The IAA has therefore requested tight regulation of the fertiliser’s distribution until full compliance can be verified.”

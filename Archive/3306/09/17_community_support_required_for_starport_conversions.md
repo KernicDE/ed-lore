@@ -23,7 +23,7 @@ significance: low
 Community Support Required for Starport Conversions
 
 
-*Pilots Federation ALERT: For the attention of all Commanders* 
+*[[Pilots Federation]] ALERT: For [[The]] attention of all Commanders* 
 
 Trading commodities required in Nagasairu and Tenche systems. 
 
@@ -31,12 +31,12 @@ Two construction companies have requested materials to convert refinery outposts
 
 Susannah Haynes, CEO of Kavanagh Spaceframes Ltd, stated: 
 
-“With the galactic community’s help, we can upgrade a maximum of five outposts into Orbis starports. Our intermediaries, Tenche Universal Holdings, will accept deliveries of building fabricators, power generators and thermal cooling units at Blaauw Hub in the Tenche system.” 
+“[[With the]] galactic community’s help, we can upgrade a maximum of [[Five]] outposts into Orbis starports. [[Our]] intermediaries, Tenche Universal Holdings, will accept deliveries of building fabricators, power generators and thermal cooling units at [[Blaauw Hub in the Tenche]] system.” 
 
 There were similar requests from Dean Bradigan, director of Steel Castle Inc: 
 
 “For travellers who find the familiar sight of Coriolis stations welcoming, here’s a chance to build up to five more. We ask for shipments of bauxite, gallite and rutile to be delivered to CQC Holdings at Teng-hui Station in the Nagasairu system.” 
 
-The number of starports will depend on the amount of materials delivered. The target systems in order of priority are Fjorgyn, HR 4979, Wolf 294, Lambda-2 Tucanae, Potriti, LHS 4058, Chakpa, Gally Bese, Eta Cephei and Ninabin. If successful, upgrading will be done for the start of October. 
+[[The number of]] starports will depend on the amount of materials delivered. [[The target]] systems in order of priority are Fjorgyn, HR 4979, Wolf 294, Lambda-2 Tucanae, Potriti, LHS 4058, Chakpa, Gally Bese, [[Eta Cephei and Ninabin]]. If successful, upgrading will be done for the start of [[October]]. 
 
-Both initiatives begin on 17th September 3306 and will run for one week. If the final targets for a campaign are met earlier than planned, it will end immediately.
+Both initiatives begin on 17th September 3306 and will [[Run]] for [[One]] week. If the final targets for a campaign are met earlier than planned, it will end immediately.

@@ -18,11 +18,11 @@ legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
-An Imperial Intelligence detention facility discovered in the R CRA Sector AF-A d42 system has been repudiated by the Empire.
-The outpost, named Serene Harbour, was located after its distress call was shared publicly by the Pilots Federation. According to the Commander Andee-X- who first investigated the site, all its occupants were dead as the result of what appeared to be a prisoner breakout.
-Unlike the Imperial Internal Security Service, the Imperial Intelligence organisation has no spokespeople or public channels. However, Senator Karl Nerva told the media:
+*[[Pilots Federation]] ALERT*
+An Imperial Intelligence detention facility discovered in [[The]] R CRA Sector AF-A d42 system has been repudiated by the Empire.
+The outpost, named Serene Harbour, was [[Located]] after [[Its]] distress call was shared publicly by the Pilots Federation. [[According to]] the Commander Andee-X- who first investigated the site, all its occupants were dead [[As the]] result of what appeared to be a prisoner breakout.
+Unlike the [[Imperial Internal Security Service]], the Imperial Intelligence organisation has no spokespeople or public channels. However, Senator [[Karl Nerva told]] the media:
 “The claim that high-security prisoners and terrorists are being tortured for information in an unregistered outpost is categorically false. There is no such place as ‘Serene Harbour’.”
-“We believe that independent pilots have been duped by a Federal ploy to undermine the Empire, using fake locations and logs for theatrical effect. I assure all citizens that Imperial Intelligence operates fully within the law and remains vigilant against all threats.”
+“We believe that [[Independent]] pilots have been duped by a Federal ploy to undermine the Empire, using fake locations and logs for theatrical effect. I assure all citizens that Imperial Intelligence operates fully within the law and remains vigilant against all threats.”
 When asked about Commandant Gabriel De Luca, who was identified by surviving logs at the outpost, Senator Nerva replied:
-“Captain De Luca was indeed an agent of Imperial Intelligence, but died on active duty several years ago. It’s obvious that this respected hero’s identity has been stolen to add credibility to anti-Imperial disinformation.”
+“Captain De Luca was indeed an agent of Imperial Intelligence, but died on active duty [[Several]] years ago. It’s obvious that [[This]] respected hero’s identity has been stolen to add credibility to anti-Imperial disinformation.”

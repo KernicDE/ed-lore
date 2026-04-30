@@ -22,8 +22,8 @@ significance: low
 Galactic News: Festive Appeal Concludes
 
 
-Clauss Incorporated has announced that its festive appeal received the enthusiastic support of the galactic community, with hundreds of pilots taking to their ships to transport personal gifts from Frost Dock in the Njambalba system to Clauss Port in the Santa Muerte system. Nicolas St Clauss, CEO of Clauss Incorporated, released a brief statement: 
+[[Clauss Incorporated]] has announced that [[Its]] festive appeal received [[The]] enthusiastic support of the galactic community, [[With]] [[Hundreds of]] pilots taking to their ships to transport personal gifts from [[Frost Dock in the Njambalba]] system to [[Clauss Port in the Santa Muerte]] system. Nicolas St Clauss, CEO of Clauss Incorporated, released a brief statement: 
 
-"We're delighted with the response. We'd like to thank the galactic community for helping us spread joy through the galaxy." 
+"We're delighted [[With the]] response. We'd like to thank the galactic community for helping us spread joy through the galaxy." 
 
 In addition to offering generous remuneration, Clauss Incorporated has promised to reward those who made the largest contributions with special festive prizes.

@@ -13,9 +13,9 @@ legacy_weight: 1
 significance: low
 ---
 
-Olelbis Holdings Appeal Concludes
+[[Olelbis]] Holdings Appeal Concludes
 
 
-A spokesperson for Olelbis Holdings has announced that its appeal for commodities has reached a successful conclusion. Hundreds of pilots supported the campaign by delivering goods to Polyakov Orbital, and by eliminating agitators in Olelbis, thereby ensuring the safety of traders. 
+A spokesperson for Olelbis Holdings has announced that [[Its]] appeal for commodities has reached a successful conclusion. [[Hundreds of]] pilots supported [[The]] campaign by delivering goods to Polyakov Orbital, and by eliminating agitators in Olelbis, thereby ensuring the safety of traders. 
 
-Pilots who contributed to the initiative can now collect their rewards from Polyakov Orbital in the Olelbis system.
+Pilots who contributed to the initiative can now collect their rewards from [[Polyakov Orbital in the Olelbis]] system.

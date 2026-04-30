@@ -24,15 +24,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Aisling Duval Issues Statement
+[[Aisling Duval]] Issues Statement
 
 
-Aisling Duval Issues Statement 
+[[Aisling Duval]] Issues Statement 
  
-Following yesterday’s revelation of alleged links between Princess Aisling Duval’s office and the Emperor’s Dawn insurgency, Princess Aisling today issued a statement denying any knowledge of the connection. 
+Following yesterday’s revelation of alleged links between Princess Aisling Duval’s office and [[The]] Emperor’s Dawn insurgency, Princess Aisling today issued a statement denying any knowledge of [[The]] connection. 
 
-“It has come as a bitter surprise to me that any of my trusted advisors could have conducted business with the animals that murdered the Emperor. I will immediately undertake my own investigation into the matter, and root out any staff who are not truly loyal to the Empire.” 
+“It has come as a bitter [[Surprise]] to me that any of my trusted advisors could have conducted business [[With the]] animals that [[Murdered]] the Emperor. I will immediately undertake my own investigation into the matter, and root out any staff who are not truly loyal to the Empire.” 
 
-Popularity polls have shown a dramatic fall for the so-called ‘People’s Princess’ as the Imperial Herald revealed more details of the alleged interactions with the terrorist group. 
+Popularity polls have shown a dramatic fall for the so-called ‘People’s Princess’ [[As the]] [[Imperial Herald]] revealed more details of the alleged interactions [[With]] the terrorist group. 
 
-Patron Damon Clarke remains unavailable for comment. A security officer based in Clarke’s home system revealed, anonymously, that Clarke’s whereabouts are unknown.
+Patron [[Damon Clarke]] remains unavailable for comment. A security officer based in Clarke’s home system revealed, anonymously, that Clarke’s whereabouts are unknown.

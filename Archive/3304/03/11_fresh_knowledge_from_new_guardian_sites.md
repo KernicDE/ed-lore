@@ -21,12 +21,12 @@ significance: high
 Fresh Knowledge From New Guardian Sites
 
 
-Following the recent discovery of new Guardian sites, the engineer Ram Tah is seeking help from the galactic community to learn more about the long-lost civilisation. 
+Following [[The]] recent discovery of new Guardian sites, the engineer [[Ram Tah]] is seeking help from the galactic community to learn more about the long-lost civilisation. 
 
-Further details were outlined in his latest announcement: 
+[[Further]] details were outlined in his latest announcement: 
 
-“I have developed a decryption algorithm that will translate the codices at Guardian sites. However, pilots are reminded that accessing Guardian data is only possible when in possession of one of their artefacts.” 
+“I have developed a decryption algorithm that will translate the codices at Guardian sites. However, pilots are reminded that accessing Guardian data is only possible when in possession of [[One]] of their artefacts.” 
 
-Pilots can obtain Ram Tah’s decryption algorithm from any station in the Meene system other than Felice Dock. The artefacts alluded to by Ram Tah can be found at Guardian sites. Commanders are warned to be on alert, as the sites may be defended by Guardian drones. 
+Pilots can obtain Ram Tah’s decryption algorithm from any station in the [[Meene]] system [[Other]] than Felice Dock. The artefacts alluded to by Ram Tah can be [[Found]] at Guardian sites. Commanders are warned to be on alert, [[As the]] sites may be defended by Guardian drones. 
 
-Ram Tah also stated: “I will be more than pleased to reimburse any pilot who successfully returns to the Meene system with a complete series of Guardian logs. There is so much more for us to discover about the Guardians and their history, and this could be a significant turning point in our understanding.”
+Ram Tah also stated: “I will be more than pleased to reimburse any pilot who successfully [[Returns]] to the Meene system [[With]] a complete series of Guardian logs. There is so much more for us to discover about the Guardians and their history, and [[This]] could be a significant turning point in [[Our]] understanding.”

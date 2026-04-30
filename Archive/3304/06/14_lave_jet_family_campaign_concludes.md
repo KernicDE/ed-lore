@@ -15,11 +15,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Lave Jet Family Campaign Concludes
+[[Lave]] Jet Family Campaign Concludes
 
 
-The Lave Jet Family has announced that its campaign to prevent the Lave Radio Network from broadcasting its annual conference has reached a successful conclusion. Scores of pilots supported the initiative by delivering commodities to construct a signal jammer, thereby preventing Lave Radio from transmitting the conference. 
+[[The Lave]] Jet Family has announced that [[Its]] campaign to prevent [[The]] Lave Radio Network from broadcasting its annual conference has reached a successful conclusion. Scores of pilots supported the initiative by delivering commodities to construct a signal jammer, thereby preventing Lave Radio from transmitting the conference. 
 
 The Lave Jet Family has extended its gratitude to those who supported the campaign. 
 
-Pilots who contributed to the initiative can now collect their rewards from Lave Station in the Lave system.
+Pilots who contributed to the initiative can now collect their rewards from [[Lave Station in the Lave]] system.

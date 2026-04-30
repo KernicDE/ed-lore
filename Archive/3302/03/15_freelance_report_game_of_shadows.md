@@ -25,12 +25,12 @@ significance: high
 Freelance Report: Game of Shadows
 
 
-Various media outlets throughout inhabited space received an anonymous communiqué this morning. "The galactic community is in peril," the message began. "They just don't know it yet." 
+Various media outlets throughout inhabited space received an anonymous communiqué [[This]] morning. "[[The]] galactic community is in peril," the message began. "They just don't know it yet." 
 
-The transmission asserts a connection between Core Dynamics, the destruction of the Antares and Starship One, the Emperor's Dawn insurgency, and setbacks in Unknown Artefact research. It also claims that the deaths of Federal Vice-President Nigel Smeaton, Sean Richards, Arnold Lowe, Susan Monroe, Elaine Boyd, Emperor Hengist Duval and the disappearances of former Federal president Jasmina Halsey and Professor Ishmael Palin are similarly connected. 
+The transmission asserts a connection between [[Core Dynamics]], the destruction of the Antares and Starship [[One]], the [[Emperor's Dawn]] insurgency, and setbacks in Unknown Artefact research. It also claims that the deaths of Federal Vice-President [[Nigel Smeaton]], Sean Richards, Arnold Lowe, [[Susan Monroe]], Elaine Boyd, [[Emperor [[Hengist]] Duval]] and the disappearances of former Federal [[President Jasmina Halsey]] and [[Professor Ishmael Palin]] are similarly connected. 
 
-The message concluded: "Many of those who have tried to connect these seemingly disparate events have been silenced, along with their sources. That is why I have chosen to remain anonymous. So far, only pawns have been revealed in this shadowy game. We must discover the king." 
+The message concluded: "[[Many]] of those who have tried to connect these seemingly disparate events have been silenced, along [[With]] their sources. That is why I have chosen to remain anonymous. So [[Far]], only pawns have been revealed in this shadowy game. We must discover the king." 
 
 Neither the Federation nor the Empire has chosen to comment on the transmission. 
 
-Commander Corrigendum
+Commander [[Corrigendum]]

@@ -15,10 +15,10 @@ significance: low
 Galactic News: Kuun-Lan Campaign Concludes
 
 
-A spokesperson for the Kuun-Lan has announced that its appeal for commodities was enthusiastically received by the galactic community, resulting in a massive influx of deliveries to Lomonosov City, the organisation’s base of operations. 
+A spokesperson for [[The]] Kuun-Lan has announced that [[Its]] appeal for commodities was enthusiastically received by the galactic community, resulting [[In a]] massive influx of deliveries to Lomonosov City, the organisation’s base of operations. 
 
-A spokesperson for the group released the following statement: 
+A spokesperson for the group released [[The following]] statement: 
 
-“We are overjoyed that the galactic community has rallied to our cause, and we are immensely grateful to all those who participated.” 
+“We are overjoyed that the galactic community has rallied to [[Our]] cause, and we are immensely grateful to all those who participated.” 
 
 Pilots who contributed to the initiative can now collect their rewards from Lomonosov City in the HIP 104292 system.

@@ -19,12 +19,12 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Alliance Outpost Established in HIP 19072
+Galactic News: [[Alliance]] Outpost Established in [[HIP 19072]]
 
 
-Last month, the Alliance launched an initiative to establish a new outpost on the fringes of inhabited space. The campaign received the support of hundreds of Alliance-aligned pilots who, along with other members of the galactic community, delivered essential materials and components to the Alliance base at Noti Dock. 
+Last month, [[The]] Alliance launched an initiative to establish a new outpost on the fringes of inhabited space. The campaign received the support of [[Hundreds of]] Alliance-aligned pilots who, along [[With]] [[Other]] members of the galactic community, delivered essential materials and components to the Alliance base at [[Noti]] Dock. 
 
-Now, Alliance Prime Minister Edmund Mahon has announced that the new outpost is complete. In a statement, Mahon said: 
+Now, Alliance Prime Minister [[Edmund Mahon]] has announced that the new outpost is complete. [[In a]] statement, Mahon said: 
 
 "It gives me great pleasure to announce the formal opening of the Cooper Research Centre. In addition to functioning as a base for scientific research, the station will bolster the Alliance's reconnaissance and intelligence-gathering capabilities in a strategically valuable region of space." 
 

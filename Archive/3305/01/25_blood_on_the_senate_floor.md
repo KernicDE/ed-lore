@@ -21,17 +21,17 @@ legacy_weight: 4
 significance: high
 ---
 
-Blood on the Senate Floor
+Blood on [[The]] Senate Floor
 
 
-Kaeso Mordanticus, the captured leader of isolationist group Nova Imperium, has been brought before the Imperial Senate, with unexpected results. 
+Kaeso Mordanticus, the captured leader of isolationist group [[Nova Imperium]], has been brought before the [[Imperial Senate]], [[With]] unexpected results. 
 
 Political journalist Cassia Carvalho was at the scene: 
 
-“Imperator Mordanticus was led into Senate House in shackles but still defiant. All rose as Emperor Arissa Lavigny-Duval entered, attended by Senator Denton Patreus. The Emperor and Patreus approached Mordanticus silently, whereupon Patreus executed the Imperator with his personal sidearm.” 
+“Imperator Mordanticus was led into Senate House in shackles but still defiant. All rose as [[Emperor Arissa Lavigny-Duval]] entered, attended by [[Senator [[Denton]] Patreus]]. The Emperor and Patreus approached Mordanticus silently, whereupon Patreus executed the Imperator with his personal sidearm.” 
 
-“Suddenly, the Imperial Guard opened fire, gunning down senators Pal Vespasian and Eloise Winterstone, and others who had supported the isolationist cause.” 
+“Suddenly, the [[Imperial Guard]] opened fire, gunning down senators [[Pal Vespasian]] and Eloise Winterstone, and others who had supported the isolationist cause.” 
 
-“Once the initial shock had subsided, the Emperor stood over the Imperator’s body. In a clear voice she announced: ‘There is no Nova Imperium. There is only the Empire.’”  
+“Once the initial shock had subsided, the Emperor stood over the Imperator’s body. [[In a]] clear voice she announced: ‘There is no Nova Imperium. There is only the Empire.’”  
 
-“I have since heard reports of mass arrests and further public executions across Capitol. The rumour is that Patreus placed agents among Nova Imperium strongholds, which are now being eliminated from within. This may be the start of an Empire-wide purge.”
+“I have since heard reports of mass arrests and [[Further]] public executions across [[Capitol]]. The rumour is that Patreus placed agents among Nova Imperium strongholds, [[Which]] are now being eliminated from within. [[This]] may be the start of an Empire-wide purge.”

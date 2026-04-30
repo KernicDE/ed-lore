@@ -20,11 +20,11 @@ legacy_weight: 5
 significance: high
 ---
 
-Evidence that Imperator Hadrian Augustus Duval masterminded the NMLA terror campaign cannot be authenticated, according to ACT.
-Inspector Mara Klatt, one of ACT’s joint leaders, delivered this report:
-“We have rigorously analysed data provided by the Landgrave of Mudhrid that contains detailed instructions from Hadrian Duval. The content undoubtedly arranges the starport bombings, but its source is inconclusive. It now seems highly plausible that his identity was faked by the NMLA.”
-Hadrian Duval made an announcement via the Paresa News Network:
-“There can no longer be any doubt that the NMLA planted a false trail in order to incriminate us. They aim to slay every Duval and demolish Imperial traditions, a goal that the Federation is clearly happy to support.”
-“Lady Astrid and I are deeply grateful to the Nova Navy, and all the other pilots who helped to defend our honour.”
-The Federal Diplomatic Corps confirmed that the League of Mandu, which was defeated by Nova Imperium, will withdraw from the Paresa system but made no reference to ACT’s report.
-Praetor Leo Magnus, head of security for Nova Imperium and a former IISS officer, has been seconded to ACT. He will serve as a replacement for the deceased Captain Niamh Seutonia.
+Evidence that Imperator Hadrian Augustus Duval masterminded [[The]] NMLA terror campaign cannot be authenticated, [[According to]] ACT.
+Inspector Mara Klatt, [[One]] of ACT’s joint leaders, delivered [[This]] report:
+“We have rigorously analysed data provided by the Landgrave of [[Mudhrid]] that contains detailed instructions from Hadrian Duval. The content undoubtedly arranges the starport bombings, but [[Its]] source is inconclusive. It now seems highly plausible that his identity was faked by the NMLA.”
+Hadrian Duval made an announcement via the [[Paresa]] News Network:
+“There can no longer be any doubt that the NMLA planted a false trail in order to incriminate us. They aim to slay [[Every]] Duval and demolish Imperial traditions, a goal that the Federation is clearly happy to support.”
+“Lady Astrid and I are deeply grateful to the Nova Navy, and all the [[Other]] pilots who helped to defend [[Our]] honour.”
+The Federal Diplomatic Corps confirmed that the League of Mandu, [[Which]] was defeated by [[Nova Imperium]], will withdraw from the Paresa system but made no reference to ACT’s report.
+Praetor Leo Magnus, head of security for Nova Imperium and a former [[IISS]] officer, has been seconded to ACT. He will serve as a replacement for the deceased Captain Niamh Seutonia.

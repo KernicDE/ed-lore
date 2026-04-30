@@ -17,12 +17,12 @@ significance: low
 Galaxy's Most Powerful People: Simguru Pranav Antal
 
 
-As heir to the legacy of Simguru Rishi Antal, the master of transcendental technology, Pranav has a lot to live up to. There are many people who thought that Utopia, along with its various projects and subsidiaries, would inevitably fall apart once Rishi was no longer leading them. Pranav has proved them all wrong. 
+As heir to [[The]] legacy of Simguru Rishi Antal, [[The]] master of transcendental technology, Pranav has a lot to live up to. There are [[Many]] people who thought that [[Utopia]], along [[With]] [[Its]] various projects and subsidiaries, would inevitably fall apart once Rishi was no longer leading them. Pranav has proved them all wrong. 
 
-Pranav, known as Simguru Antal to his followers, not only managed to maintain the original Utopian Commune, he has actually expanded the Utopian Commune Programme to include Polevnic, Neris, Hip 117972 and Hip 1389. Never one to rest on his laurels, Pranav is already planning on expanding Utopia’s reach into another half a dozen systems in the very near future. 
+Pranav, known as Simguru Antal to his followers, not only managed to maintain the original Utopian Commune, he has actually expanded the Utopian Commune Programme to include [[Polevnic]], Neris, Hip 117972 and Hip 1389. Never [[One]] to rest on his laurels, Pranav is already planning on expanding [[Utopia]]’s reach into another half a dozen systems in the very near future. 
 
-“We live in an imperfect world, one constructed from the chaos that is this universe’s random nature,” Simguru Antal told GalNet.  
+“We live in an imperfect world, [[One]] constructed from the chaos that is [[This]] universe’s random nature,” Simguru Antal told GalNet.  
 
-“The struggle of men and women to impose order through innovation and understanding is the key to humanity’s ultimate happiness. The advancement of our species towards that inevitable point of peace and prosperity is not only my love, my passion, it is my very reason for being. It is the reason that all of us are here. To make our dreams, and our passions, become a reality.” 
+“The struggle of men and women to impose order through innovation and understanding is the key to humanity’s ultimate happiness. The advancement of [[Our]] species towards that inevitable point of peace and prosperity is not only my love, my passion, it is my very reason for being. It is the reason that all of us are here. To make [[Our]] dreams, and our passions, become a reality.” 
 
 “If Utopia is to succeed, we must be driven by our righteous desires, not by our base ones. After all, it is only through mastering ourselves that we can hope to master the worlds around us.”

@@ -19,8 +19,8 @@ significance: low
 Restoring Order in Aeternitas
 
 
-Authorities in the Aeternitas system have reported a sharp increase in the number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
+[[Authorities in [[The]] Aeternitas]] system have reported a sharp increase in [[The number of]] criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 
-To counter this threat, Aeternitas Industries has placed a kill order on all wanted ships operating in the Aeternitas system, and has promised to reward pilots who deliver bounty vouchers to Houtman City. 
+To counter [[This]] threat, Aeternitas Industries has placed a kill order on all wanted ships operating in the Aeternitas system, and has promised to reward pilots who deliver bounty vouchers to Houtman City. 
 
-The campaign begins on the 8th of December 3302 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 8th of December 3302 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

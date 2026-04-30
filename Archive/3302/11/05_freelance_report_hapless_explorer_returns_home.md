@@ -17,12 +17,12 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Hapless Explorer Returns Home
+Freelance Report: Hapless Explorer [[Returns Home]]
 
 
-A number of newsfeeds have reported that amateur explorer Commander Lewis has finally returned to human-inhabited space. After following the Distant Worlds Expedition into the void, the unfortunate traveller found himself alone in a damaged Asp Scout some 65,000 light years from civilisation. 
+A number of newsfeeds have reported that amateur explorer Commander [[Lewis]] has finally returned to human-inhabited space. After following [[The]] [[Distant Worlds]] Expedition into the void, the unfortunate traveller [[Found]] himself alone [[In a]] damaged Asp Scout some 65,000 light years from civilisation. 
 
-A freak accident during the return trip resulted in the loss of most of Commander Lewis's food supplies, leaving him with only tea and an assortment of biscuits for the six-month journey home. After being treated for malnutrition and diabetes, Commander Lewis spoke to the media about his ordeal: 
+A freak accident during the return trip resulted in the loss of most of Commander [[Lewis's food supplies]], leaving him [[With]] only tea and an assortment of biscuits for the six-month journey home. After being treated for malnutrition and diabetes, Commander [[Lewis spoke]] to the media about his ordeal: 
 
 "The journey was a nightmare. I kept getting lost, and was haunted by images of long-dead 21st century actors. If it wasn't for my 1,000 friends on social media, I would have gone insane. I don't think I'll ever eat another biscuit." 
 

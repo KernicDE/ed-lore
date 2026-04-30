@@ -16,15 +16,15 @@ significance: low
 Tour of Frontier Systems Set to Begin Shortly
 
 
-Despite a rather sceptical response to the President’s planned tour of Federal frontier systems, particularly the bizarre choice to visit 78 Ursae Majoris (a system which overwhelmingly voted to leave the Federation nearly two months ago), the President’s office has announced that the series of visits with local leaders will go ahead as planned. 
+Despite a rather sceptical response to [[The]] President’s planned tour of [[Federal frontier]] systems, particularly [[The]] bizarre choice to visit [[78 Ursae Majoris]] (a system [[Which]] overwhelmingly voted to leave the Federation nearly two months ago), the President’s office has announced that the series of visits [[With]] local leaders will go ahead as planned. 
 
-The following systems have already been announced as being part of the President’s trip: 
+[[The following]] systems have already been announced as being part of the President’s trip: 
 
 Hip 53688 
 
 Tinia  
 
-78 Ursae Majoris 
+[[78 Ursae Majoris]] 
 
 Su  
 

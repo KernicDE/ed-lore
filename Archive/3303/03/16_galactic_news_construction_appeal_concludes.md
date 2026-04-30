@@ -17,8 +17,8 @@ significance: low
 Galactic News: Construction Appeal Concludes
 
 
-A spokesperson for the Military Militia has extended its gratitude to those who supported its recent appeal for construction materials. In a statement, the spokesperson said: 
+A spokesperson for [[The]] Military Militia has extended [[Its]] gratitude to those who supported its recent appeal for construction materials. [[In a]] statement, the spokesperson said: 
 
 "Thanks to the galactic community, we are now in a position to start work on the Soldiers' Respite installation." 
 
-Pilots who contributed to the initiative can now collect their rewards from Pellegrino Hub in the XI-2 Lupi system.
+Pilots who contributed to the initiative can now collect their rewards from Pellegrino Hub in the [[XI-2 Lupi]] system.

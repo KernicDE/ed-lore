@@ -16,17 +16,17 @@ legacy_weight: 2
 significance: low
 ---
 
-Food Delivery Initiative in the Chamas System
+Food Delivery Initiative in [[The]] Chamas System
 
 
 The Fortunes Corsairs faction has organised an initiative to transport food commodities to the Chamas system. 
 
-A fundraising event has been organised as part of efforts to greenlight the construction of a new asteroid base. Many of the system’s elected officials are expected to attend the grand feast, prepared by the most eminent chefs in Chamas. 
+A fundraising event has been organised as part of efforts to greenlight the construction of a new asteroid base. [[Many of the]] system’s elected officials are expected to attend the grand feast, prepared by the most eminent chefs in Chamas. 
 
 Silas James, representing the Chamash Foods conglomerate, announced: 
 
-"We feel that nothing but the finest foodstuffs from the Inner Orion Spur should be on hand for this momentous occasion. Couriers are invited to play their part in helping the region towards an era of prosperity.” 
+"We feel that nothing [[But the]] finest foodstuffs from the Inner Orion Spur should be on hand for [[This]] momentous occasion. Couriers are invited to play their part in helping the region towards an era of prosperity.” 
 
-A request has been made for independent traders to deliver fruit and vegetables, fish, grain and synthetic meat to Denton Dock in the Chamas system. 
+A request has been made for [[Independent]] traders to deliver fruit and vegetables, fish, grain and synthetic meat to [[Denton Dock in the Chamas]] system. 
 
-The initiative is scheduled to run from the 15th to the 21st August 3305. If the final target is met earlier than planned, the campaign will end immediately.
+The initiative is scheduled to [[Run]] from the 15th to the 21st August 3305. If the final target is met earlier than planned, the campaign will end immediately.

@@ -18,10 +18,10 @@ significance: low
 Galactic News: Order Restored to Mehet
 
 
-Mehet Ltd has announced that its campaign to clear the Mehet system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
+Mehet Ltd has announced that [[Its]] campaign to clear [[The]] Mehet system of agitators has been a success. [[Hundreds of]] pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
 Following the success of the operation, Mehet Ltd released a brief statement to the media: 
 
-"Thanks to the brave Commanders of the Pilots Federation, Mehet is now free from the depredations of criminals and agitators. On behalf of the people of Mehet, we would like to express our gratitude." 
+"Thanks to the brave Commanders of the [[Pilots Federation]], Mehet is now free from the depredations of criminals and agitators. On behalf of the people of Mehet, we would like to express [[Our]] gratitude." 
 
 Rewards for those who contributed to the initiative are now available for collection at Schwann Dock.

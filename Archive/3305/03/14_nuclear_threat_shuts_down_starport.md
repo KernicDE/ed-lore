@@ -16,9 +16,9 @@ significance: low
 Nuclear Threat Shuts Down Starport
 
 
-Archambault terminal in the Chun Tstar system has been overtaken by the Children of Tothos cult, who are threatening to detonate a stolen nuclear weapon. 
+[[Archambault terminal in [[The]] Chun Tstar]] system has been overtaken by the Children of Tothos cult, who are threatening to detonate a stolen nuclear weapon. 
 
-Senior Agent Rochelle Karim gave this statement: 
+Senior Agent [[Rochelle Karim gave]] [[This]] statement: 
 
 “Most services at Archambault terminal have shut down as a result of the control deck’s occupation by Children of Tothos adherents. It’s evident that personnel are obeying the cultists’ orders for fear that they will use the Lucifer Device.” 
 
@@ -26,4 +26,4 @@ Senior Agent Rochelle Karim gave this statement:
 
 The cult’s leader, Barnabas Cole, transmitted a brief message using Archambault terminal’s communications array: 
 
-“At last, we have found the place where our testament’s light will shine. Join us. When the ceremony is complete, you will all see Tothos as we do.”
+“At last, we have [[Found]] the place where [[Our]] testament’s light will shine. Join us. When the ceremony is complete, you will all see Tothos as we do.”

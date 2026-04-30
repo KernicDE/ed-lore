@@ -18,17 +18,17 @@ legacy_weight: 4
 significance: high
 ---
 
-Calls to Execute Far God Worshippers
+Calls to Execute [[Far]] God Worshippers
 
 
-Juanita Bishop has called on Federal Congress to make Thargoid worship a capital crime, and for all members of the Far God cult to be executed. 
+Juanita Bishop has called on [[Federal Congress]] to make [[Thargoid]] worship a capital crime, and for all members of [[The]] Far God cult to be executed. 
 
 Addressing a rally during her congressional campaign, Mrs Bishop stated: 
 
-“I speak for all those who live in fear of Thargoid infiltration. If elected, I will make sure this foul cult is outlawed and all its followers put to death. Congress has a duty to protect families from these alien-loving collaborators.” 
+“I speak for all those who live in fear of Thargoid infiltration. If elected, I will make sure [[This]] foul cult is outlawed and all [[Its]] followers put to death. Congress has a duty to protect families from these alien-loving collaborators.” 
 
-Vihaan Niven, an independent political analyst, commented: 
+Vihaan Niven, an [[Independent]] political analyst, commented: 
 
-“Juanita Bishop’s statement has triggered considerable debate in Congress. Some congressmen have aligned with her, eager to be seen as ‘tough on Thargoids’. But others have criticised Mrs Bishop for her ‘inhumane rhetoric’ and for proposing the execution of Federal citizens without trial.” 
+“Juanita Bishop’s statement has triggered considerable debate in Congress. Some congressmen have aligned [[With]] her, eager to be seen as ‘tough on Thargoids’. But others have criticised Mrs Bishop for her ‘inhumane rhetoric’ and for proposing the execution of Federal citizens without trial.” 
 
-“Meanwhile, the Federal Intelligence Agency continues to arrest adherents of the Far God sect and detain those who have had contact with them. As casualties from the Thargoid conflict mount, it’s hard to see this most unlikely of faiths surviving much longer.”
+“Meanwhile, the Federal Intelligence Agency [[Continues]] to arrest adherents of the Far God sect and detain those who have had contact with them. As casualties from the Thargoid conflict mount, it’s hard to see this most unlikely of faiths surviving much longer.”

@@ -20,15 +20,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Community Goal: New Imperial Base in Pleiades Sector Ab-W B2-4
+Community Goal: New Imperial Base in [[Pleiades Sector AB-W B2-4]]
 
 
-The Merope Expeditionary Fleet has been tasked with constructing a new forward operating base in the Pleiades Sector Ab-W B2-4 system on behalf of the Empire. The new outpost will support the Empire's ongoing operations in the Pleiades Nebula. 
+[[The]] [[Merope]] Expeditionary Fleet has been tasked [[With]] constructing a new forward operating base in the Pleiades Sector Ab-W B2-4 system on behalf of the Empire. The new outpost will support the Empire's ongoing operations in the [[Pleiades Nebula]]. 
 
 A spokesperson for the Merope Expeditionary Fleet released a statement: 
 
-"I realise some might perceive this as an attempt to assert Imperial dominion over the Pleiades Nebula, but establishing a strong military presence in the Pleiades is the only way we can oppose Federal attempts to establish a monopoly on meta-alloys." 
+"I realise some might perceive [[This]] as an attempt to assert Imperial dominion over the Pleiades Nebula, but establishing a strong military presence in the Pleiades is the only way we can oppose Federal attempts to establish a monopoly on meta-alloys." 
 
-In support of this initiative, the Merope Expeditionary Fleet has placed an open order for Power Generators, Tantalum and Auto Fabricators, and has promised to reward pilots who deliver these commodities to its base of operations at Obsidian Orbital in the Maia system. 
+In support of this initiative, the Merope Expeditionary Fleet has placed an open order for Power Generators, Tantalum and Auto Fabricators, and has promised to reward pilots who deliver these commodities to [[Its]] base of operations at [[Obsidian Orbital in the Maia]] system. 
 
-The campaign begins on the 22nd of September 3302 and will run for one week. If final targets are met earlier than planned, the campaign will end immediately.
+The campaign begins on the 22nd of September 3302 and will [[Run]] for [[One]] week. If final targets are met earlier than planned, the campaign will end immediately.

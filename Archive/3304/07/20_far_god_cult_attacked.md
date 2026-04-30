@@ -19,18 +19,18 @@ legacy_weight: 5
 significance: high
 ---
 
-Far God Cult Attacked
+[[Far]] God Cult Attacked
 
 
-There has been a spate of violence against the Thargoid-worshipping Far God cult, resulting in dozens of deaths and hundreds of injuries. 
+There has been a spate of violence against [[The]] [[Thargoid]]-worshipping Far God cult, resulting in [[Dozens of]] deaths and [[Hundreds of]] injuries. 
 
-Since the Church of Eternal Void declared war against the sect, its members have compelled citizens to attack Far God believers in many systems. Several of the sect’s places of worship have been firebombed.  
+Since the Church of Eternal Void declared war against the sect, [[Its]] members have compelled citizens to attack [[Far God believers in many]] systems. [[Several]] of the sect’s places of worship have been firebombed.  
 
 The Far God cultists have offered no resistance to the aggression, and have even refused to leave burning hive-chapels. 
 
 Cardinal Hieronymous, representing the Church of Eternal Void, addressed a large crowd: 
 
-“Our loyal followers are performing the Guardians’ righteous work! Those who serve the Thargoid demons are demons themselves, and we must cast them out with fire and fury.” 
+“[[Our]] loyal followers are performing the Guardians’ righteous work! Those who serve the Thargoid demons are demons themselves, and we must cast them out [[With]] fire and fury.” 
 
 A vocal campaigner against the Far God sect, Juanita Bishop, told the media: 
 

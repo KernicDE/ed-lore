@@ -21,11 +21,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Sirius Corporation Programme Ends Today
+[[Sirius Corporation]] Programme Ends Today
 
 
-Last week, the Sirius Corporation launched an initiative to boost the economy of the HIP 8396 system, which was recently brought under its control. The initiative was underpinned by an open contract for osmium, which contractors were asked to deliver to Stepping Stone Base. The response to the appeal was positive, with hundreds of miners taking to their ships to gather resources for the people of HIP 8396. Li Yong-Rui, the CEO of Sirius Corp., expressed his satisfaction at the response: 
+Last week, [[The Sirius]] Corporation launched an initiative to boost [[The]] economy of the [[HIP 8396]] system, [[Which]] was recently brought under [[Its]] control. The initiative was underpinned by an open contract for osmium, which contractors were asked to deliver to Stepping Stone Base. The response to the appeal was positive, [[With]] [[Hundreds of]] miners taking to their ships to gather resources for the people of HIP 8396. [[Li Yong-Rui]], the CEO of Sirius Corp., expressed his satisfaction at the response: 
 
-"The pilots who contributed to this initiative have performed a great service, and proved that the people of this galaxy are motivated as much by altruism as by the promise of reward. We are all humanitarians at heart." 
+"The pilots who contributed to [[This]] initiative have performed a great service, and proved that the people of this galaxy are motivated as much by altruism as by the promise of reward. We are all humanitarians at heart." 
 
 It is expected that the Sirius Corporation will announce the next initiative in its multi-system revitalisation programme soon.

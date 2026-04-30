@@ -27,14 +27,14 @@ significance: high
 Thargoids Withdraw from Core Systems
 
 
-Reports indicate that the Thargoids have abruptly withdrawn from the majority of human-occupied space.  
+Reports indicate that [[The]] Thargoids have abruptly withdrawn from the majority of human-occupied space.  
 
-Admiral Aden Tanner, chief military liaison for Aegis, announced: 
+Admiral Aden Tanner, chief military liaison for [[Aegis]], announced: 
 
-“Multiple reliable sources have reported a mass departure of Thargoid craft. Their forces vanished from dozens of locations within hours of each other. Only the Maia and Merope systems are still reporting Thargoid activity.” 
+“Multiple reliable sources have reported a mass departure of [[Thargoid]] craft. Their forces vanished from [[Dozens of]] locations within hours of [[Each]] [[Other]]. [[Only the [[Maia]] and Merope]] systems are still reporting Thargoid activity.” 
 
-“Our theory is that the Thargoids have retreated due to our defence operations depleting their numbers. Then again, they may simply be reconsidering their strategy. Either way, Aegis will continue to monitor the situation.” 
+“[[Our]] theory is that the Thargoids have retreated due to our defence operations depleting their numbers. Then again, they may simply be reconsidering their strategy. Either way, Aegis will continue to monitor the situation.” 
 
-In response, Professor Ishmael Palin of the Palin Research Centre offered words of warning: 
+In response, [[Professor Ishmael Palin]] of the Palin Research Centre offered words of warning: 
 
-“Celebrating any kind of victory over the Thargoids would be premature. We have no proof that their withdrawal was a result of human activity, and this action is at odds with their highly territorial nature. Nevertheless, this is still a significant – if mysterious – development.”
+“Celebrating any kind of victory over the Thargoids would be premature. We have no proof that their withdrawal was a result of human activity, and [[This]] action is at odds [[With]] their highly territorial nature. Nevertheless, this is still a significant – if mysterious – development.”

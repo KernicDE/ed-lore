@@ -22,11 +22,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-Alioth Warns Lugh They Stand Alone
+[[Alioth]] Warns [[Lugh]] They Stand Alone
 
 
-Speaking before a gathering of the Alliance Assembly today, Prime Minister Edmund Mahon has issued a warning to the Crimson State Group that it stands alone in its opposition to the Federation’s continued governance of Lugh. 
+Speaking before a gathering of [[The]] [[Alliance]] Assembly today, Prime Minister [[Edmund Mahon]] has issued a warning to [[The]] Crimson State Group that it stands alone in [[Its]] opposition to the Federation’s continued governance of [[Lugh]]. 
 
-“It is not the place of the Alliance to intervene in matters of legitimate Federal governance. No laws have been broken, no rights have been abused and as such no military aid will be forthcoming for the freedom fighters of Lugh. Similarly, until such time as the residents of Lugh have fully seceded from the Federation, any applications to join the Alliance of Independent Systems will be automatically rejected on the grounds that Lugh is not a fully functioning independent state.” 
+“It is not the place of the [[Alliance]] to intervene in matters of legitimate Federal governance. No laws have been broken, no rights have been abused and as such no military aid will be forthcoming for the freedom fighters of Lugh. Similarly, until such time [[As the]] residents of Lugh have fully seceded from the Federation, any applications to join the Alliance of [[Independent]] Systems will be automatically rejected on the grounds that Lugh is not a fully functioning [[Independent]] state.” 
 
-The news will come as quite a blow for Lugh, and the Crimson State Group in particular, who will now need to find allies closer to home if they want to have any hope of winning their fight for independence.
+The news will come as quite a blow for Lugh, and the Crimson State Group in particular, who will now need to find allies closer to home if they want to have any hope of winning their fight for [[Independence]].

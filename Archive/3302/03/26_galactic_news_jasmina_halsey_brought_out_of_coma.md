@@ -15,11 +15,11 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Jasmina Halsey Brought Out of Coma
+Galactic News: [[Jasmina Halsey]] Brought Out of Coma
 
 
-Federal President Zachary Hudson has released a statement confirming that former president Jasmina Halsey has been brought out of her induced coma. 
+Federal [[President Zachary Hudson]] has released a statement confirming that former [[President Jasmina Halsey]] has been brought out of her induced coma. 
 
-"The injuries Jasmina Halsey suffered in the destruction of Starship One were severe, but her escape pod preserved her vital functions. Having repaired her injuries, medical personnel at Leoniceno Orbital revived President Halsey from her coma this morning. I have been told that she is now sleeping peacefully, and is expected to wake in the next few days." 
+"[[The]] injuries Jasmina Halsey suffered in the destruction of Starship [[One]] were severe, but her escape pod preserved her vital functions. Having repaired her injuries, medical personnel at Leoniceno Orbital revived President Halsey from her coma [[This]] morning. I have been told that she is now sleeping peacefully, and is expected to wake in the next few days." 
 
 Reporters were told that Halsey would need at least a week before she is likely to be able to talk to those outside her immediate family.

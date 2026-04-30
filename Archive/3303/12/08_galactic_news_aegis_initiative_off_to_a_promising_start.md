@@ -23,13 +23,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Aegis Initiative off to a Promising Start
+Galactic News: [[Aegis]] Initiative off to a Promising Start
 
 
-Reports from the Taygeta system indicate that Aegis’s new research programme is already bearing fruit. 
+[[Reports from [[The]] Taygeta]] system indicate that Aegis’s new research programme is already bearing fruit. 
 
-Professor Boden Tench, principal researcher at Titan's Daughter, offered the following statement to Universal Scientist: 
+Professor [[Boden Tench]], principal researcher at [[Titan]]'s Daughter, offered [[The following]] statement to Universal Scientist: 
 
-“We’re currently focusing on the Thargoid Probes and Sensors, and we’ve already learned a great deal about the way the Thargoids transmit and store information.” 
+“We’re currently focusing on the [[Thargoid]] Probes and Sensors, and we’ve already learned a great deal about the way the Thargoids transmit and store information.” 
 
-“We’ve also been studying the star maps found inside Thargoid structures. We still don’t know the precise purpose of these maps, but our analysis has revealed some intriguing details about how the Thargoids categorise geographical data. Indeed, it’s entirely possible that their concepts of territory differ dramatically from our own.”
+“We’ve also been studying [[The star]] maps [[Found]] inside Thargoid structures. We still don’t know the precise purpose of these maps, but [[Our]] analysis has revealed some intriguing details about how the Thargoids categorise geographical data. Indeed, it’s entirely possible that their concepts of territory differ dramatically from our own.”

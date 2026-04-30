@@ -16,11 +16,11 @@ significance: low
 Ship Theft Mystery Deepens
 
 
-Mystery continues to surround Gan Romero, the starship technician who single-handedly stole a docked vessel in the Vega system. 
+Mystery [[Continues]] to surround [[Gan]] Romero, [[The]] starship technician who single-handedly stole a docked [[Vessel]] in the [[Vega]] system. 
 
-Romero’s wife, Lara, agreed to an interview with Vox Galactica: 
+Romero’s wife, Lara, agreed to an interview [[With]] Vox Galactica: 
 
-“I haven’t the faintest idea why Gan took that ship, or how he managed it. It’s totally out of character for him. He’s not impulsive or even ambitious really. Always been the practical type, which is why I married him. I can’t believe that he would do anything like this.” 
+“I haven’t the faintest idea why Gan took that ship, or how he managed it. It’s totally out of character for him. He’s not impulsive or even ambitious really. Always been the practical type, [[Which]] is why I married him. I can’t believe that he would do anything like [[This]].” 
 
 “Had he been acting strangely? Well, something was on Gan’s mind…I guess you could say he’s been distracted recently. I’ve caught him staring out into space a few times. And his sleep was disturbed by intense dreams, although he never wanted to talk about them.” 
 

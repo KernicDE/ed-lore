@@ -25,18 +25,18 @@ legacy_weight: 4
 significance: high
 ---
 
-Coalsack Nebula Campaign Completes Initial Stages
+[[Coalsack Nebula]] Campaign Completes Initial Stages
 
 
-*Pilots Federation ALERT* 
+*[[Pilots Federation]] ALERT* 
 
-An Alliance initiative has successfully prepared the Coalsack Nebula for exploitation and reduced the Thargoids’ presence. 
+An [[Alliance]] initiative has successfully prepared [[The]] [[Coalsack]] Nebula for exploitation and reduced the Thargoids’ presence. 
 
-Traders delivered shipments of power generators, robotics, structural regulators and building fabricators, which will be used to help construct several new facilities in the region.  
+Traders delivered shipments of power generators, robotics, structural regulators and building fabricators, [[Which]] will be used to help construct [[Several]] new facilities in the region.  
 
-The quantity of commodities received will result in construction of the following for the 26th of November 3306: 
+The quantity of commodities received will result in construction of [[The following]] for the 26th of November 3306: 
 
-Betancourt Base Starport in the Musca Dark Region PJ-P b6-1 system. 
+Betancourt Base Starport in the [[Musca Dark Region]] PJ-P b6-1 system. 
 
 Additional services: Interstellar factor, human technology broker, encoded material trader, extended range of Multi-purpose ships.  
 
@@ -54,6 +54,6 @@ Additional services: Interstellar factor, improved outfitting options, manufactu
 
 Commodore Morag Halloran of the Alliance Defence Force delivered an update on the security procedures: 
 
-“Our efforts to clear the systems of Thargoid vessels were hugely boosted by independent pilots. Their skills have enabled our transports to travel to the nebula in relative safety.” 
+“[[Our efforts to clear the]] systems of [[Thargoid]] vessels were hugely boosted by [[Independent]] pilots. Their skills have enabled [[Our]] transports to travel to the nebula in relative safety.” 
 
-The Alliance is collaborating with several corporations to investigate the Coalsack Nebula for commercial and scientific sites of interest.
+The Alliance is collaborating [[With]] several corporations to investigate the Coalsack Nebula for commercial and scientific sites of interest.

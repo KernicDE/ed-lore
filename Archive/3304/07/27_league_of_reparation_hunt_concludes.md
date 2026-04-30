@@ -15,10 +15,10 @@ significance: low
 League of Reparation Hunt Concludes
 
 
-The tri-power taskforce whose goal is to eradicate the League of Reparation has announced a successful conclusion to its recent campaign. Scores of pilots supported the taskforce by eliminating League terrorists in the Zibal and Ienpalang systems. 
+[[The]] tri-power taskforce whose goal is to eradicate the League of Reparation has announced a successful conclusion to [[Its]] recent campaign. Scores of pilots supported the taskforce by eliminating League terrorists in the Zibal and Ienpalang systems. 
 
-As the campaign drew to a close, Captain Niamh Seutonia had this to say: 
+[[As the]] campaign drew to a close, Captain Niamh Seutonia had [[This]] to say: 
 
-“The League of Reparation put up a good fight, just what we’ve come to expect from these fanatics, but we prevailed in the end. With the aid of the galactic community, we have now taken a bold step in eradicating this terrorist organisation once and for all.” 
+“The League of Reparation put up a good fight, just what we’ve come to expect from these fanatics, but we prevailed in the end. [[With the]] aid of the galactic community, we have now taken a bold step in eradicating this terrorist organisation once and for all.” 
 
 Pilots who contributed to the initiative in the Zibal system can now collect their rewards from Hire Port. Pilots who contributed to the initiative in the Ienpalang system can now collect their rewards from Brundage City.

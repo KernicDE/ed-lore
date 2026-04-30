@@ -18,10 +18,10 @@ legacy_weight: 1
 significance: low
 ---
 
-Underground Racers Spotted In and Around Sol
+Underground Racers Spotted In and Around [[Sol]]
 
 
-Word has spread that a group of CMDRs piloting Core Dynamics' Eagle Fighters were spotted conducting high speed races near the Sol system. Traders visiting Ashby City in Luyten's Star report that they spotted the pilots engaging in dangerous manoeuvres through the docking slot and around the station. Similar reports came from the Altair System where patrons of the Solo Orbiter Station were met with several colorfully-painted Eagles upon arrival.  
+Word has spread that a group of CMDRs piloting [[Core Dynamics]]' Eagle Fighters were spotted conducting high speed races near [[The]] [[Sol]] system. Traders visiting Ashby City in [[Luyten's Star]] report that they spotted [[The]] pilots engaging in dangerous manoeuvres through the docking slot and around the station. Similar reports came from the [[Altair]] System where patrons of the Solo Orbiter Station were met [[With]] [[Several]] colorfully-painted Eagles upon arrival.  
 
   
 
@@ -29,7 +29,7 @@ Word has spread that a group of CMDRs piloting Core Dynamics' Eagle Fighters wer
 
   
 
-Rumour has it that this underground racing circuit began around the Earth-Moon System in nearby Sol. It seems that for now the Federation are willing to turn a blind eye to these events, as Federal Security Forces have made no attempts to intervene.  
+Rumour has it that [[This]] underground racing circuit began around the [[Earth]]-Moon System in [[Nearby]] Sol. It seems that for now the Federation are willing to turn a blind eye to these events, as Federal Security Forces have made no attempts to intervene.  
 
   
 

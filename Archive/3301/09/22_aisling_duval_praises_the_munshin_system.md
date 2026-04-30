@@ -25,15 +25,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-Aisling Duval Praises the Munshin System
+[[Aisling Duval]] Praises [[The]] [[Munshin]] System
 
 
-Aisling Duval Praises the Munshin System 
+[[Aisling Duval]] Praises [[The]] [[Munshin]] System 
  
 Princess Aisling Duval has issued a statement praising the efforts of relief workers in the Munshin system. 
 
-"War is a plague on our galactic society, and like all disease it most affects the poor, the hungry, and the downtrodden. It is therefore with great pride that I look to the Munshin system. There one sees true examples of Imperial citizenship, and true heroes. Any person can fire a laser, but only a true Imperial can see the humanity in another person. I extend my gratitude to the people of the Munshin system, and to the Libertas Cooperative, who are working so hard for the victims of the Pegasi Pirate War. The tireless commanders ferrying medicines to Ocrinox's Orbiter are likewise to be commended." 
+"War is a plague on [[Our]] galactic society, and like all disease it most affects the poor, the hungry, and the downtrodden. It is therefore [[With]] great pride that I look to the Munshin system. There [[One]] sees true examples of Imperial citizenship, and true heroes. Any person can fire a laser, but only a true Imperial can see the humanity in another person. I extend my gratitude to the people of the Munshin system, and to the [[Libertas Cooperative]], who are working so hard for the victims of the [[Pegasi]] Pirate War. The tireless commanders ferrying medicines to [[Ocrinox's Orbiter]] are likewise to be commended." 
 
-The princesses’ critics immediately accused her of overlooking the pilots fighting in the Pegasi Pirate War, saying: "Every day, brave men and women of the Imperial Navy are killed in this war. Where is Princess Aisling's support for their families?" 
+The princesses’ critics immediately accused her of overlooking the pilots fighting in the [[Pegasi]] Pirate War, saying: "[[Every]] day, brave men and women of the [[Imperial Navy]] are killed in [[This]] war. Where is Princess Aisling's support for their families?" 
 
-Commander Quade
+Commander [[Quade]]

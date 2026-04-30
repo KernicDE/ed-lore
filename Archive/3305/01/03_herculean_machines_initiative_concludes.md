@@ -20,12 +20,12 @@ significance: low
 Herculean Machines Initiative Concludes
 
 
-An initiative run by Herculean Machines, manufacturer of Duradrive personal computers, has now concluded. 
+An initiative [[Run]] by Herculean Machines, manufacturer of Duradrive personal computers, has now concluded. 
 
-Multiple shipments of consumer technology, hardware diagnostic sensors and computer components were delivered to the Blatrimpe system, which will be used to fulfil a large order from the Federal Navy. 
+Multiple shipments of consumer technology, hardware diagnostic sensors and computer components were delivered to [[The]] [[Blatrimpe]] system, [[Which]] will be used to fulfil a large order from the [[Federal Navy]]. 
 
-Maddox Hurd, the company’s CEO, made this statement: 
+Maddox Hurd, the company’s CEO, made [[This]] statement: 
 
-“Once again, I offer my thanks to the galactic community for its support. We’re very pleased to become a supplier to the Federal Navy, and we hope that the Duradrive remains in production for a long, long time.” 
+“Once again, I offer my thanks to the galactic community for [[Its]] support. We’re very pleased to become a supplier to the Federal Navy, and we hope that the Duradrive remains in production for a long, long time.” 
 
-Pilots who took part in the initiative can now collect their rewards from Boltzmann Hub in the Blatrimpe system.
+Pilots who took part in the initiative can now collect their rewards from [[Boltzmann Hub in the Blatrimpe]] system.

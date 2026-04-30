@@ -23,10 +23,10 @@ significance: high
 Thargoids Wreak Havoc in Core Systems
 
 
-It has now been more than two months since the Thargoids began a concentrated assault on the core systems, and in that time they have attacked dozens of starports, resulting in thousands of casualties. 
+It has now been more than two months since [[The]] Thargoids began a concentrated assault on the core systems, and in that time they have attacked [[Dozens of]] starports, resulting in thousands of casualties. 
 
-As authorities in the affected systems continue to appeal for aid, Admiral Aden Tanner, Aegis’s chief military liaison, has offered the following assessment: 
+[[As [[Authorities in the]] affected]] systems continue to appeal for aid, Admiral Aden Tanner, [[Aegis]]’s chief military liaison, has offered [[The following]] assessment: 
 
-“What’s surprising is that the Thargoids aren’t targeting our most important social or military centres, such as the superpowers’ home systems. There’s no doubt that they’re trying to weaken us, but evidently they’re guided by different principles than those that typically govern human martial strategy.” 
+“What’s surprising is that the Thargoids aren’t targeting [[Our]] most [[Important]] social or military centres, such [[As the]] superpowers’ home systems. There’s no doubt that they’re trying to weaken us, but evidently they’re guided by different principles than those that typically govern human martial strategy.” 
 
-“What we can say is this: with capital ships of limited use against Thargoid craft, independent combat pilots remain our best defence against the Thargoids.”
+“What we can say is [[This]]: [[With]] capital ships of limited use against [[Thargoid]] craft, [[Independent]] combat pilots remain our best defence against the Thargoids.”

@@ -17,15 +17,15 @@ legacy_weight: 1
 significance: low
 ---
 
-Cosmic State and Emperor's Grace Develop Joint Technology Company
+Cosmic State and [[Emperor's Grace]] Develop Joint Technology Company
 
 
-Cosmic State and Emperor's Grace Develop Joint Technology Company 
+Cosmic State and [[Emperor's Grace]] Develop Joint Technology Company 
  
-It has been formally announced that an Agreement has been reached between Hammer Arms, biggest independent arms dealer with a seat in Hel, Home of Cosmic State and Emperor's Grace. This is the first ever such agreement made by the fiercely proud and independent Cosmic State with an Imperial faction. Grimnir Allvadderung, CEO of Hammer Arms, kindly invited Admiral Brennus of Emperor's Grace to an evening of carousing and competition. It is reported that vast quantities of mead was consumed by both delegations. This was later followed by an axe throwing contest between Grimnir Allvadderung and Vaarwen Mako Brennus, where Grimnir Allvadderung was declared the winner. 
+It has been formally announced that an Agreement has been reached between Hammer Arms, biggest [[Independent]] arms dealer [[With]] a seat in [[Hel]], Home of Cosmic State and Emperor's Grace. [[This]] is [[The]] first ever such agreement made by [[The]] fiercely proud and [[Independent]] Cosmic State [[With]] an Imperial faction. [[Grimnir Allvadderung]], CEO of Hammer Arms, kindly invited Admiral Brennus of Emperor's Grace to an evening of carousing and competition. It is reported that vast quantities of mead was consumed by both delegations. [[This]] was later followed by an axe throwing contest between [[Grimnir Allvadderung]] and Vaarwen Mako Brennus, where Grimnir Allvadderung was declared the winner. 
 
 As an esteemed friend and ally, Admiral Brennus was presented with a golden axe by Grimnir Allvadderung in what is believed to be proof of a growing friendship between the two leaders. 
 
-On the small matter of the Agreement between Cosmic State and Emperor's Grace no information is being made available at this time other than to declare that Cosmic State and Emperor's Grace agree wholeheartedly in a joint venture regarding research and development of technology and weapons. A joint military exercise of Imperial Naval units and Cosmic State forces in the Hel system was also announced. 
+On [[The small]] matter of the Agreement between Cosmic State and Emperor's Grace no information is being made available at this time [[Other]] than to declare that Cosmic State and Emperor's Grace agree wholeheartedly [[In a]] joint venture regarding research and development of technology and weapons. A joint military exercise of Imperial Naval units and Cosmic State forces in the [[Hel]] system was also announced. 
 
 Phantagor, Cosmic State

@@ -17,14 +17,14 @@ legacy_weight: 3
 significance: medium
 ---
 
-Further Outbreaks of Cerberus Plague
+[[Further]] Outbreaks of Cerberus Plague
 
 
-Further Outbreaks of Cerberus Plague 
+[[Further]] Outbreaks of Cerberus Plague 
  
-While medical teams across the galaxy work to deliver the Cerberus Plague antidote to systems affected by the disease, fresh outbreaks of the pathogen are appearing in other systems. According to recent reports, the following systems are currently affected by the Cerberus Plague: 
+While medical teams across [[The]] galaxy work to deliver [[The]] Cerberus Plague antidote to systems affected by the disease, fresh outbreaks of the pathogen are appearing in [[Other]] systems. [[According to]] recent reports, [[The following]] systems are currently affected by the Cerberus Plague: 
 
-Altair 
+[[Altair]] 
 
 39 Tauri 
 
@@ -50,4 +50,4 @@ Asgaa
 
 Svent 
 
-Any independent pilots who wish to help are encouraged to eliminate the pirates targeting medical supply convoys in the Bast system. The Union of Bast Liberals is currently offering rewards to pilots who destroy these pirates.
+Any [[Independent]] pilots who wish to help are encouraged to eliminate the pirates targeting medical supply convoys in the [[Bast]] system. The Union of [[Bast]] Liberals is currently offering rewards to pilots who destroy these pirates.

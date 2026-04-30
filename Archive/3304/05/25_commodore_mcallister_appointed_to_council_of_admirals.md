@@ -20,15 +20,15 @@ Commodore McAllister Appointed to Council of Admirals
 
 Commodore McAllister Appointed to Council of Admirals 
 
-Commodore Riri McAllister of the Alliance Defence Force has been appointed to the Council of Admirals and promoted to the position of Rear Admiral. 
+Commodore Riri McAllister of [[The]] [[Alliance]] Defence Force has been appointed to the Council of Admirals and promoted to the position of Rear Admiral. 
 
-The Council of Admirals is responsible for military strategy for the entire Alliance, and each of its six members commands a contributing navy. A vacancy was created when Fleet Admiral Tulimaq Buchanan was assassinated by the League of Reparation. 
+The Council of Admirals is responsible for military strategy for [[The entire]] Alliance, and [[Each]] of [[Its]] six members commands a contributing navy. A vacancy was created when Fleet Admiral Tulimaq Buchanan was [[Assassinated]] by the League of Reparation. 
 
-McAllister, who hails from the Lave system and who is now in charge of its navy, is the youngest person ever to be appointed to the Council. She is also the most junior in rank, having bypassed several other candidates from the ADF admiralty, which has caused some controversy. 
+McAllister, who hails from [[The Lave]] system and who is now in charge of its navy, is the youngest person ever to be appointed to the Council. She is also the most junior in rank, having bypassed [[Several]] [[Other]] candidates from the ADF admiralty, [[Which]] has caused some controversy. 
 
 Admiral George Varma defended the appointment: 
 
-“Despite her relative youth, McAllister is one of our most decorated combat veterans and a master strategist. This makes her an excellent choice to help defend the Alliance.” 
+“Despite her relative youth, McAllister is [[One]] of [[Our]] most decorated combat veterans and a master strategist. [[This]] makes her an excellent choice to help defend the Alliance.” 
 
 The newly promoted Rear Admiral McAllister made a characteristically brief statement: 
 

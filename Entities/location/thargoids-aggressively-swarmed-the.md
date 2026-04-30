@@ -1,0 +1,34 @@
+---
+id: thargoids-aggressively-swarmed-the
+name: Thargoids aggressively swarmed the
+type: location
+first_seen_date: '3311-01-16'
+last_seen_date: '3311-01-16'
+mention_count: 1
+related_entities:
+- act
+- aegis
+- thargoid
+- aden-tanner-indicates-that-the
+- after-the-proteus-wave-weapon-in-the
+---
+
+<!-- AUTO-GENERATED -->
+
+# Thargoids aggressively swarmed the
+
+First mentioned: **3311-01-16**  
+Last mentioned: **3311-01-16**  
+Total mentions: **1**
+
+## Related
+
+- [[ACT]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
+- [[Thargoid]] (1 co-mentions)
+- [[Aden Tanner indicates that the]] (1 co-mentions)
+- [[After the Proteus Wave weapon in the]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

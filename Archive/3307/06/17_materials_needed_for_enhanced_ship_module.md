@@ -23,10 +23,10 @@ legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
-Sirius Corporation has requested commodities to make a fully engineered detailed surface scanner commercially available.
-The ship module was produced in limited numbers during a terraforming programme campaign by Sirius Atmospherics in late 3306. It was awarded to pilots who provided data on worlds with ammonia-based atmospheres for its terraforming programme.
+*[[Pilots Federation]] ALERT*
+[[Sirius Corporation]] has requested commodities to make a fully engineered detailed surface scanner commercially available.
+[[The]] ship module was produced in limited numbers during a terraforming programme campaign by Sirius Atmospherics in late 3306. It was awarded to pilots who provided data on worlds [[With]] ammonia-based atmospheres for [[Its]] terraforming programme.
 Sinclair Faraldo, marketing director for Sirius Corporation, provided details:
-“Following a feasibility study, we have determined that this module can be economically mass produced for general sale. Our fully engineered detailed surface scanner has twice probe coverage, allowing planets and moons to be mapped more efficiently.”
-“In order to begin production, we require large quantities of CMM composites, muon imagers and synthetic reagents. We will generously reward pilots who can deliver these to Ashby City in the Luyten’s Star system.”
+“Following a feasibility study, we have determined that [[This]] module can be economically mass produced for general sale. [[Our]] fully engineered detailed surface scanner has twice probe coverage, allowing planets and moons to be mapped more efficiently.”
+“In order to begin production, we require large quantities of CMM composites, muon imagers and synthetic reagents. We will generously reward pilots who can deliver these to Ashby City in the Luyten’s [[Star]] system.”
 The Engineered Detailed Surface Scanner V1 will be available for purchase at all human technology brokers, assuming that sufficient quantities of commodities can be obtained.

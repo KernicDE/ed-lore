@@ -17,11 +17,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Eotienses Rejuvenation Project Unveiled
+[[Eotienses]] Rejuvenation Project Unveiled
 
 
-In what many pundits are calling a clear attempt to consolidate his position as the most influential arms dealer in the Empire, Senator Denton Patreus has today announced an initiative to rejuvenate Parkinson Dock, in order to promote the development of High Tech goods in Eotienses. 
+In what [[Many]] pundits are calling a clear attempt to consolidate his position [[As the]] most influential arms dealer in [[The]] Empire, [[Senator [[Denton]] Patreus]] has today announced an initiative to rejuvenate Parkinson Dock, in order to promote [[The]] development of High Tech goods in [[Eotienses]]. 
 
-The initiative, which is being overseen by the Citizens’ Forum, aims to bring thousands of new jobs to the region. Imperial corporations are already engaged in a hot bidding war over rights to establish a presence on the newly reinvigorated Parkinson Dock, despite rumours that most of the available space has been reserved for businesses with established ties to the Senator.   
+The initiative, [[Which]] is being overseen by the Citizens’ Forum, aims to bring thousands of new jobs to the region. Imperial corporations are already engaged [[In a]] hot bidding war over rights to establish a presence on the newly reinvigorated Parkinson Dock, despite rumours that most of the available space has been reserved for businesses [[With]] established ties to the Senator.   
 
-In order to properly repurpose the facilities aboard Parkinson Dock, the Citizens’ Forum has placed several sizable orders of Industrial Materials in the local market. Once those orders are filled, engineers will be able to start work on the rejuvenation process.
+In order to properly repurpose the facilities aboard Parkinson Dock, the Citizens’ Forum has placed [[Several]] sizable orders of Industrial Materials in the local market. Once those orders are filled, [[Engineers]] will be able to start work on the rejuvenation process.

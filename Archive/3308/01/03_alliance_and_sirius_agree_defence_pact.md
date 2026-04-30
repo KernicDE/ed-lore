@@ -27,10 +27,10 @@ legacy_weight: 4
 significance: high
 ---
 
-Sirius Corporation has signed an agreement to provide the Alliance with ships, materials and personnel to help combat the Thargoids.
+[[Sirius Corporation]] has signed an agreement to provide [[The]] [[Alliance]] [[With]] ships, materials and personnel to help combat the Thargoids.
 The Alliance Assembly and the Council of Admirals held a rare joint vote on the issue of inviting the megacorp to become a strategic defence partner. The motion was debated in private and reportedly passed by a slim majority.
-Prime Minister Edmund Mahon told The Alliance Tribune:
-“The danger posed by the Thargoids is increasing once more, perhaps accelerated by the loss of Aegis and a lack of any binding treaty between the superpowers. It is vital that we make a proactive decision to maintain security for Alliance systems.”
-“Sirius Corporation will work closely with the Alliance Defence Force to reinforce our member vessels, focusing exclusively on anti-xeno operations. In return, new commercial agreements will provide the company with increased access to certain financial endeavours.”
-Councillor Nakato Kaine spoke on behalf of several disapproving members of the Assembly:
-“We are already too entwined with this ruthless corporate giant, so to hand our defences over to them is another blow to the Alliance’s identity. It is also convenient that the details of the pact remain classified under military restrictions. We don’t even know what price we’re paying to hire Sirius to be our guard dog.”
+Prime Minister [[Edmund Mahon told]] The Alliance Tribune:
+“The danger posed by the Thargoids is increasing once more, perhaps accelerated by the loss of [[Aegis]] and a lack of any binding treaty between the superpowers. It is vital that we make a proactive decision to maintain security for Alliance systems.”
+“Sirius Corporation will work closely [[With the]] Alliance Defence Force to reinforce [[Our]] member vessels, focusing exclusively on anti-xeno operations. In return, new commercial agreements will provide the company with increased access to certain financial endeavours.”
+Councillor Nakato Kaine spoke on behalf of [[Several]] disapproving members of the Assembly:
+“We are already too entwined with [[This]] ruthless corporate giant, so to hand our defences over to them is another blow to the Alliance’s identity. It is also convenient that the details of the pact remain classified under military restrictions. We don’t even know what price we’re paying to hire Sirius to be our guard dog.”

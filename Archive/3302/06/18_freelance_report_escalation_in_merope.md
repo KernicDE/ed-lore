@@ -21,12 +21,12 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: Escalation in Merope?
+Freelance Report: Escalation in [[Merope]]?
 
 
-Following reports of unprovoked assaults on Canonn vessels from Farragut Battle Cruisers in the Merope system, Dr Arcanonn of the Canonn Interstellar Research Group has released the following statement: 
+Following reports of unprovoked assaults on [[Canonn]] vessels from Farragut Battle Cruisers in [[The]] Merope system, Dr [[Arcanonn]] of the [[Canonn Interstellar Research Group]] has released [[The following]] statement: 
 
-"This is a regrettable misstep, and I invite the Federation to explain how these battle cruisers can represent anything other than militarised resource denial. The presence of gun emplacements by as-yet unknown parties was already a cause for concern, and this worrying development smacks of gunboat diplomacy." 
+"[[This]] is a regrettable misstep, and I invite the Federation to explain how these battle cruisers can represent anything [[Other]] than militarised resource denial. The presence of gun emplacements by as-yet unknown parties was already a cause for concern, and this worrying development smacks of gunboat diplomacy." 
 
 At least eight Farragut Battle Cruisers are understood to have been sighted in Merope, all identified as Federal. 
 

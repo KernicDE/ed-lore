@@ -16,23 +16,23 @@ legacy_weight: 3
 significance: medium
 ---
 
-Reports of the Cerberus Plague beyond BD-02 4304
+Reports of [[The]] Cerberus Plague beyond [[BD-02 4304]]
 
 
-Reports of the Cerberus Plague beyond BD-02 4304 
+Reports of [[The]] Cerberus Plague beyond [[BD-02 4304]] 
  
-The heroic efforts of the local authorities at Newton Dock in BD-02 4304, combined with independent pilots from far and wide, have slowed the outbreak affecting the local population.  
+The heroic efforts of the local authorities at Newton Dock in BD-02 4304, combined [[With]] [[Independent]] pilots from [[Far]] and wide, have slowed the outbreak affecting the local population.  
 
-Carl Simmons, the Chief Medical Officer of Newton Dock, responded to reports of further infections in the nearby systems: Dajoar, Eleu and 20 Ophiuchi. 
+[[Carl Simmons]], the Chief Medical Officer of Newton Dock, responded to reports of [[Further]] infections in the [[Nearby]] systems: Dajoar, Eleu and 20 Ophiuchi. 
 
-“We can confirm that there have been isolated incidents which we believe are the same infectious agent that we have seen here on Newton Dock. The populations in those systems should not be alarmed and three operations have been initiated to isolate the sick and prevent further outbreak.” 
+“We can confirm that there have been isolated incidents [[Which]] we believe are the same infectious agent that we have seen here on Newton Dock. [[The populations in those]] systems should not be alarmed and three operations have been initiated to isolate the sick and prevent [[Further]] outbreak.” 
 
 When asked how the disease had spread to those systems, he replied: 
 
-“We can’t confirm the vector as yet. Our current belief is that these cases are simply people from here who managed to travel before restrictions were in place. However, as with any outbreak of this magnitude, we are not taking anything for granted.” 
+“We can’t confirm the vector as yet. [[Our]] current belief is that these cases are simply people from here who managed to travel before restrictions were in place. However, as [[With]] any outbreak of [[This]] magnitude, we are not taking anything for granted.” 
 
 He concluded his statement with: 
 
-“Once again we are calling on the resources of the independent pilots in the region to help ensure that these cases do not develop into a full-blown outbreak as seen here on Newton Dock.” 
+“Once again we are calling on the resources of the [[Independent]] pilots in the region to help ensure that these cases do not develop into a full-blown outbreak as seen here on Newton Dock.” 
 
-While he denied that the team were calling the new disease the Cerberus Plague, one technician did confirm that the name was being used unofficially and came from an unusual three-pronged structure at the ‘head’ of the phage-like organism.
+While he denied that the team were calling the new disease the Cerberus Plague, [[One]] technician did confirm that the name was being used unofficially and came from an unusual three-pronged structure at the ‘head’ of the phage-like organism.

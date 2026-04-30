@@ -15,15 +15,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Hunt for Children of Tothos Continues
+Hunt for Children of Tothos [[Continues]]
 
 
-The Federal Intelligence Agency continues to search for the Children of Tothos, a fringe cult that has stolen a nuclear weapon. 
+[[The]] Federal Intelligence Agency continues to search for the Children of Tothos, a fringe cult that has stolen a nuclear weapon. 
 
-Ethan Takahashi, crime correspondent for The Federal Times, reported: 
+Ethan Takahashi, crime correspondent for The [[Federal Times]], reported: 
 
-“The FIA has rooted out additional cultists within the Zlota system. All fervently worship their charismatic leader, Barnabas Cole, but none seem to know his current location or plans.” 
+“The FIA has rooted out additional cultists within the [[Zlota]] system. All fervently worship their charismatic leader, Barnabas Cole, but none seem to know his current location or plans.” 
 
-“The Children of Tothos believe they were chosen by a demonic being that exists ‘in the spaces between the stars’. Cole claims that only he, aided by select adherents, can summon Tothos with an enormous ceremonial sacrifice.” 
+“The Children of Tothos believe they were chosen by a demonic being that exists ‘in the spaces between the stars’. Cole claims that only he, aided by select adherents, can summon Tothos [[With]] an enormous ceremonial sacrifice.” 
 
 “Criminal psychologists fear that Cole’s egotism permits any act that justifies his delusions, including detonation of a nuclear warhead. Since the recently stolen Lucifer Device is both portable and undetectable by security scans, practically any location might be chosen for the cult’s apocalyptic ceremony.”

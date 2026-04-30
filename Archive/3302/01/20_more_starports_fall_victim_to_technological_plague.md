@@ -34,7 +34,7 @@ significance: low
 More Starports Fall Victim to Technological Plague
 
 
-Authorities in Eravate, Almar and Halbangaay have confirmed that theirs are the latest systems to experience mysterious technical issues, bringing the total number of systems affected by what some are calling 'the technological plague' to 22. All services apart from docking and shipyard access have been suspended at Ackerman Market in Eravate, von Bellingshausen Port in Almar and Haack Gateway in Halbangaay. A complete list of affected stations follows. 
+[[Authorities in]] Eravate, Almar and Halbangaay have confirmed that theirs are [[The]] latest systems to experience mysterious technical issues, bringing the total number of systems affected by what some are calling 'the technological plague' to 22. All services apart from docking and shipyard access have been [[Suspended]] at Ackerman Market in Eravate, von Bellingshausen Port in Almar and Haack [[Gateway]] in Halbangaay. A complete list of affected stations follows. 
 
 Starports where services have been suspended: 
 
@@ -44,44 +44,44 @@ von Bellingshausen Port, Almar
 
 Haack Gateway, Halbangaay 
 
-Gabriel Enterprise, Harma 
+Gabriel [[Enterprise]], [[Harma]] 
 
-Gurragchaa Gateway, Warkushanui 
+[[Gurragchaa Gateway]], [[Warkushanui]] 
 
-Gaiman Dock, 49 Arietis 
+[[Gaiman Dock]], [[49 Arietis]] 
 
-Weyn Dock, 64 Arietis 
+[[Weyn Dock]], [[64 Arietis]] 
 
-Korolyov Hub, Arawere 
+Korolyov Hub, [[Arawere]] 
 
-Lobachevsky Outpost, Pic Tok 
+Lobachevsky Outpost, [[Pic Tok]] 
 
-Carter Port, Rhea 
+Carter Port, [[Rhea]] 
 
 Starports experiencing technical issues: 
 
-al-Din Prospect, Alpha Centauri 
+al-Din Prospect, [[Alpha Centauri]] 
 
-Robigo Mines, Robigo 
+[[Robigo Mines]], [[Robigo]] 
 
-Saunders's Dive, Wolf 1301 
+Saunders's Dive, [[Wolf 1301]] 
 
 Alexander Freeport, HIP 18843 
 
-Coats Hub, Warkushanui 
+[[Coats Hub]], Warkushanui 
 
-Bond Hub, Varati 
+[[Bond Hub]], [[Varati]] 
 
 Hinz Hub, Ngobe 
 
 Tsunenaga Dock, Iapodes 
 
-Li Qing Jao, Sol 
+Li Qing Jao, [[Sol]] 
 
-Ray Gateway, Diaguandri 
+Ray Gateway, [[Diaguandri]] 
 
-Vizcaino Enterprise, Nganji 
+Vizcaino Enterprise, [[Nganji]] 
 
-Talos 2, Peregrina 
+Talos 2, [[Peregrina]] 
 
-We will continue to bring you up-to-the-minute reports on this issue.
+We will continue to bring you up-to-the-minute reports on [[This]] issue.

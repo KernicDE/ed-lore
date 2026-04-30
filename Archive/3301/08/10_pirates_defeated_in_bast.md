@@ -19,12 +19,12 @@ legacy_weight: 3
 significance: medium
 ---
 
-Pirates Defeated in Bast
+Pirates Defeated in [[Bast]]
 
 
-Pirates Defeated in Bast 
+Pirates Defeated in [[Bast]] 
  
-Official sources at Hart Station have confirmed that efforts to eliminate pirate vessels targeting medical supply ships in the region have been resoundingly successful. The Union of Bast Liberals, which placed bounties on the pirates, has stated that a total of 1,869 independent pilots helped to thin the bandits’ numbers, thereby allowing the much-need Cerberus antidote to reach systems affected by the disease. Consequently, the Cerberus Plague has been eliminated from the following systems: 
+Official sources at [[Hart Station]] have confirmed that efforts to eliminate pirate vessels targeting medical supply ships in [[The]] region have been resoundingly successful. [[The]] Union of Bast Liberals, [[Which]] placed bounties on the pirates, has stated that a total of 1,869 [[Independent]] pilots helped to thin the bandits’ numbers, thereby allowing the much-need [[Cerberus antidote to reach]] systems affected by the disease. Consequently, the Cerberus Plague has been eliminated from [[The following]] systems: 
 
 Cantjarisni 
 
@@ -40,7 +40,7 @@ BD-11 4280
 
 Louguala 
 
-Altair  
+[[Altair]]  
 
 39 Tauri 
 
@@ -66,4 +66,4 @@ Asgaa
 
 Svent 
 
-A spokesperson from the Union of Bast Liberals said: “There are times when the words ‘thank you’ just don’t seem adequate. These pilots have saved literally thousands of lives, so, on behalf of all those they have helped, we want to offer our sincerest gratitude.”
+A spokesperson from the Union of Bast Liberals said: “There are times when the words ‘thank you’ just don’t seem adequate. These pilots have saved literally thousands of lives, so, on behalf of all those they have helped, we want to offer [[Our]] sincerest gratitude.”

@@ -15,17 +15,17 @@ legacy_weight: 2
 significance: low
 ---
 
-Utopia Condemns Approval of Vitadyne Nanomedicines
+[[Utopia]] Condemns Approval of Vitadyne Nanomedicines
 
 
-The decision of the Interstellar Health Organisation (IHO) to approve Vitadyne Labs’s nanomedicines has been condemned by Utopia. 
+[[The]] decision of the Interstellar Health Organisation (IHO) to approve Vitadyne Labs’s nanomedicines has been condemned by Utopia. 
 
-Simguru Pranav Antal made this statement: 
+Simguru Pranav Antal made [[This]] statement: 
 
-“The IHO has allowed Vitadyne to steal and replicate Utopian nanomedical technology purely for their financial gain. This is why we do not share our advancements with the galaxy.” 
+“The IHO has allowed Vitadyne to steal and replicate Utopian nanomedical technology purely for their financial gain. This is why we do not share [[Our]] advancements [[With the]] galaxy.” 
 
-Independent healthcare analyst Dr Himari Grey commented: 
+[[Independent]] healthcare analyst Dr [[Himari Grey]] commented: 
 
-“Vitadyne sees the Interstellar Health Organisation's decision as a victory, but others in the medical community have expressed reservations. To deny Utopia’s ownership of these nanomedicines means permanently closing the door on any future cooperation with the community. What other potential benefits have been lost?” 
+“Vitadyne sees the Interstellar Health Organisation's decision as a victory, but others in the medical community have expressed reservations. To deny Utopia’s ownership of these nanomedicines means permanently closing the door on any future cooperation [[With]] the community. What [[Other]] potential benefits have been lost?” 
 
 Vitadyne Labs has invited pharmaceutical giants Neomedical Industries and Vandermeer Corporation to bid for a licence to distribute Vitadyne nanomeds in their territories.

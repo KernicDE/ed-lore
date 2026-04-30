@@ -22,13 +22,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Emperor's Dawn Connected to Universal Cartographics Security Breach
+[[Emperor's Dawn]] Connected to [[Universal Cartographics]] Security Breach
 
 
-Exploration activity has been brought to a near standstill after a data-encrypting firmware bug threatened to compromise recently acquired astronomical data. A spokesperson for Universal Cartographics released the following statement: 
+Exploration activity has been brought to a near standstill after a data-encrypting firmware bug threatened to compromise recently acquired astronomical data. A spokesperson for Universal Cartographics released [[The following]] statement: 
 
-"Commanders started noting discrepancies between the exploration records stored in their ship systems and their own personal records. When we investigated, we found that one of our contractors has purposely altered a recent firmware update that was applied to all discovery and surface scanners. We also found that the contractor had a connection to Emperor's Dawn. An arrest warrant has been issued, and our staff worked through the weekend to recover the encrypted data and replace the compromised firmware." 
+"Commanders started noting discrepancies between [[The]] exploration records stored in their ship systems and their own personal records. When we investigated, we [[Found]] that [[One]] of [[Our]] contractors has purposely altered a recent firmware update that was applied to all discovery and surface scanners. We also found that the contractor had a connection to Emperor's Dawn. An arrest warrant has been issued, and our staff worked through the weekend to recover the encrypted data and replace the compromised firmware." 
 
-It has been speculated that the sabotage was designed to hamstring the IISS's efforts to locate Emperor's Dawn bases using exploration data. 
+It has been speculated that the sabotage was designed to hamstring the [[IISS]]'s efforts to locate Emperor's Dawn bases using exploration data. 
 
 Commander Fionn Mac Cumhaill

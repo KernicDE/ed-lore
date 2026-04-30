@@ -20,8 +20,8 @@ significance: medium
 Arek Crimson Vision Corporation Campaign Ends
 
 
-A spokesperson for Arek Crimson Vision Corporation has announced that its appeal for weapons has been enthusiastically received by the galactic community, resulting in a massive influx of deliveries to the organisation’s base of operations. The weapons will now be shipped to the Colonia region. 
+A spokesperson for Arek Crimson Vision Corporation has announced that [[Its]] appeal for weapons has been enthusiastically received by [[The]] galactic community, resulting [[In a]] massive influx of deliveries to the organisation’s base of operations. The weapons will now be shipped to the Colonia region. 
 
-As the campaign drew to a close, a spokesperson for Arek Crimson Vision Corporation issued a statement thanking those who supported the campaign. 
+[[As the]] campaign drew to a close, a spokesperson for Arek Crimson Vision Corporation issued a statement thanking those who supported the campaign. 
 
-Pilots who contributed to the initiative can now collect their rewards from Gold Hub in the Arek system.
+Pilots who contributed to the initiative can now collect their rewards from [[Gold Hub in the Arek]] system.

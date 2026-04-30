@@ -15,9 +15,9 @@ legacy_weight: 1
 significance: low
 ---
 
-Gutamaya Shipyards Reinstates Restrictions
+[[Gutamaya Shipyards]] Reinstates Restrictions
 
 
-Gutamaya Shipyards Reinstates Restrictions 
+[[Gutamaya Shipyards]] Reinstates Restrictions 
  
-Last month, Gutamaya Shipyards temporarily lifted the rank-related restrictions on the Imperial Clipper and Imperial Courier, thereby allowing any independent pilot with an active rank in the Imperial Navy to purchase and fly one of the vessels. Following news of the Emperor’s assassination, however, Gutamaya Shipyards has decided to withdraw this offer, and to reinstate the default restrictions on all their ships.
+Last month, Gutamaya Shipyards temporarily lifted [[The]] rank-related restrictions on [[The]] Imperial Clipper and Imperial Courier, thereby allowing any [[Independent]] pilot [[With]] an active rank in the [[Imperial Navy]] to purchase and fly [[One]] of the vessels. Following news of the Emperor’s assassination, however, Gutamaya Shipyards has decided to withdraw [[This]] offer, and to reinstate the default restrictions on all their ships.

@@ -22,17 +22,17 @@ legacy_weight: 3
 significance: medium
 ---
 
-Freelance Report: Dr Arcanonn Appeals for Help
+Freelance Report: Dr [[Arcanonn Appeals]] for Help
 
 
-The image transmitted by the mysterious Unknown Probes is still a mystery. But while the image occupies his teams, Dr Arcanonn of the Canonn Interstellar Research Group believes there is more to discover about the Probes themselves. The problem is supply. 
+[[The]] image transmitted by the mysterious Unknown Probes is still a mystery. But while the image occupies his teams, Dr [[Arcanonn]] of the [[Canonn Interstellar Research Group]] believes there is more to discover about the Probes themselves. The problem is supply. 
 
-"The only known sources of Unknown Probes are Federal military convoys in the Ross 47, G 99-49, Wolf 294 and Wolf 504 systems." 
+"The only known sources of Unknown Probes are Federal military convoys in the Ross 47, G 99-49, [[Wolf 294 and Wolf 504]] systems." 
 
-"The Federal military apparently knows where the Probes can be found, but they're keeping it a secret, so it's up to us to lift the veil." 
+"The Federal military apparently knows where the Probes can be [[Found]], but they're keeping it a secret, so it's up to us to lift the veil." 
 
-"Since Unknown Artefacts are found in a 135-150 light year shell around Merope, we believe the probes are in a similar region – possibly even the same region. We also think they will be found in anomalous signal sources, the same as the Artefacts." 
+"Since Unknown Artefacts are found [[In a]] 135-150 light year shell around [[Merope]], we believe the probes are in a similar region – possibly even the same region. We also think they will be found in anomalous signal sources, the same [[As the]] Artefacts." 
 
-"So please help science, and break the Federal monopoly on these Probes. It could be the most important thing you ever do." 
+"So please help science, and break the Federal monopoly on these Probes. It could be the most [[Important]] thing you ever do." 
 
-Commander Lord Zoltan
+Commander [[Lord Zoltan]]

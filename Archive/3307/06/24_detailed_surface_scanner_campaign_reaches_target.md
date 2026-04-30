@@ -21,10 +21,10 @@ legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
-Pilots have delivered commodities to enable Sirius Corporation to mass produce a fully engineered detailed surface scanner.
-The enhanced ship module will shortly receive a commercial release, having previously only been available during a terraforming initiative by Sirius Atmospherics in late 3306.
+*[[Pilots Federation]] ALERT*
+Pilots have delivered commodities to enable [[Sirius Corporation]] to mass produce a fully engineered detailed surface scanner.
+[[The]] enhanced ship module will shortly receive a commercial release, having previously only been available during a terraforming initiative by Sirius Atmospherics in late 3306.
 The Engineered Detailed Surface Scanner V1 increases probe coverage to twice the normally achievable range, offering a more efficient mapping of planetary surfaces.
 The project’s success was declared by Sinclair Faraldo, marketing director for Sirius Corporation:
 “We are most grateful to all pilots who brought us shipments of CMM composites, muon imagers and synthetic reagents as requested. Mass production of the enhanced detailed surface scanner has already begun, and it will be available for purchase from human technology brokers very soon.”
-All pilots who took part in this campaign can now collect payment from Sirius Corporation at Ashby City in the Luyten’s Star system.
+All pilots who took part in [[This]] campaign can now collect payment from Sirius Corporation at Ashby City in the Luyten’s [[Star]] system.

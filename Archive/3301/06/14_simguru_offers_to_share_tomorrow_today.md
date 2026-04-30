@@ -23,17 +23,17 @@ Simguru Offers to Share Tomorrow Today
 
 Simguru Offers to Share Tomorrow Today  
  
-Simguru Pranav Antal made an appearance at the original Utopian commune in Antal today, to address rumours that the Utopians had entered negotiations to ally themselves with Shadow President Winters’ supporters.  
+Simguru Pranav Antal made an appearance at [[The]] original Utopian commune in Antal today, to address rumours that [[The]] Utopians had entered negotiations to ally themselves [[With]] [[Shadow President]] Winters’ supporters.  
 
-“It is only right for us to honour what came before us. Sol is the birthplace of our race, the shining jewel of our galaxy. At least, it is now that it has been restored to its former glory.” 
+“It is only right for us to honour what came before us. [[Sol]] is the birthplace of [[Our]] race, the shining jewel of [[Our]] galaxy. At least, it is now that it has been restored to [[Its]] former glory.” 
 
-“In that respect, the Federation is like an elderly relative, full of wisdom and useful life lessons, but ultimately unable to guide its children in finding their truth.” 
+“In that respect, the Federation is like an elderly relative, full of wisdom and useful life lessons, but ultimately unable to guide [[Its]] children in finding their truth.” 
 
-“In Utopia we respect our elders, but we do not allow their love of the past to obstruct our path to the future. Members of the Federation are free to come to Utopia to study, to shape, to share in everything we have to offer. After all, the abundance of Utopia was created for all of mankind, and we wish for nothing but peace with our other selves.” 
+“In [[Utopia]] we respect our elders, but we do not allow their love of the past to obstruct our path to the future. Members of the Federation are free to come to [[Utopia]] to study, to shape, to share in everything we have to offer. After all, the abundance of Utopia was created for all of mankind, and we wish for nothing but peace [[With]] our [[Other]] selves.” 
 
-“An alliance though? No.”  
+“An [[Alliance]] though? No.”  
 
-“While it is our duty to be concerned with the workings of the lower worlds, the Utopians will not allow ourselves to become tangled in the petty politics of those whose only true worry is for their own personal power.” 
+“While it is our duty to be concerned [[With the]] workings of the lower worlds, the Utopians will not allow ourselves to become tangled in the petty politics of those whose only true worry is for their own personal power.” 
 
 “Our goods are for sale, but our integrity is not.” 
 

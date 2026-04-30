@@ -25,12 +25,12 @@ Preparation for 'Bacon Protests' Anniversary Underway
 
 Preparation for 'Bacon Protests' Anniversary Underway 
  
-Today, a spokesperson for the Bacon Cats, a cooperative of independent pilots, addressed plans to host a spectacular celebration to mark the upcoming anniversary of the so-called 'Bacon Protests'. The spokesperson, Julissa Silver, released the following statement: 
+Today, a spokesperson for [[The]] [[Bacon Cats]], a cooperative of [[Independent]] pilots, addressed plans to host a spectacular celebration to mark [[The]] upcoming anniversary of the so-called 'Bacon Protests'. The spokesperson, Julissa Silver, released [[The following]] statement: 
 
-"It's true that we're planning something special. We invite everyone to come together, in a spirit of celebration, to commemorate the repeal of the ill-thought-out and short-lived prohibition laws here in the Carnoeck system. There will be many historic exhibits and displays, but most importantly there will be free bacon and libations for all visitors." 
+"It's true that we're planning something special. We invite everyone to come together, [[In a]] spirit of celebration, to commemorate the repeal of the ill-thought-out and short-lived prohibition laws here in the [[Carnoeck]] system. There will be [[Many]] historic exhibits and displays, but most importantly there will be free bacon and libations for all visitors." 
 
-Import demands in Carnoeck have hit new highs in recent weeks, and demand for goods continues to rise while locals speculate about the nature of the celebrations. One shuttle pilot was quoted as saying: "Beer and liquor are flying out of depots faster than pilots can bring them in! It's going to be one heck of a party." 
+Import demands in [[Carnoeck]] have hit new highs in recent weeks, and demand for goods [[Continues]] to rise while locals speculate about the nature of the celebrations. [[One]] shuttle pilot was quoted as saying: "Beer and liquor are flying out of depots faster than pilots can bring them in! It's going to be [[One]] heck of a party." 
 
-Members of the Bacon Cats have said that the celebrations will be positive and respectful, but some news outlets have raised concerns about the event, predicting astronomical policing costs, and speculating that it could attract pirates and other unwanted elements to the Carnoeck system. 
+Members of the [[Bacon Cats]] have said that the celebrations will be positive and respectful, but some news outlets have raised concerns about the event, predicting astronomical policing costs, and speculating that it could attract pirates and [[Other]] unwanted elements to the Carnoeck system. 
 
 Commander Andius Solon

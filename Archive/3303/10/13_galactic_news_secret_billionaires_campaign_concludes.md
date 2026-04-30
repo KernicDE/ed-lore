@@ -18,10 +18,10 @@ significance: low
 Galactic News: Secret Billionaires’ Campaign Concludes
 
 
-The Secret Billionaires have announced that their campaign to clear the I Carinae system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
+[[The]] Secret Billionaires have announced that their campaign to clear the I Carinae system of agitators has been a success. [[Hundreds of]] pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
-Commander Ranger-One, a member of the Secret Billionaires, issued the following statement: 
+Commander [[Ranger-One]], a member of the Secret Billionaires, issued [[The following]] statement: 
 
-“We would like to thank the galactic community for cleaning up our system. The people of I Carinae can now look forward to a period of peace and stability.” 
+“We would like to thank the galactic community for cleaning up [[Our]] system. The people of I Carinae can now look forward to a period of peace and stability.” 
 
 Pilots who contributed to the initiative can now collect their rewards from Somerset Station in the I Carinae system.

@@ -22,10 +22,10 @@ significance: high
 Galactic News: Federal Outpost Campaign Concludes
 
 
-A Federal spokesperson has announced that the Federation’s appeal for construction materials has received the wholehearted support of the galactic community. Hundreds of pilots contributed to the campaign by delivering construction materials to Blackmount Orbital in HIP 17692, and by eliminating agitators in the system so traders could deliver commodities in safety. 
+A Federal spokesperson has announced that [[The]] Federation’s appeal for construction materials has received the wholehearted support of the galactic community. [[Hundreds of]] pilots contributed to the campaign by delivering construction materials to [[Blackmount Orbital]] in HIP 17692, and by eliminating agitators in the system so traders could deliver commodities in safety. 
 
-In a statement, the spokesperson said: 
+[[In a]] statement, the spokesperson said: 
 
-“This new outpost will give us an excellent vantage point from which to monitor the Thargoids. Those who supported this initiative have our sincere gratitude.” 
+“[[This]] new outpost will give us an excellent vantage point from [[Which]] to monitor the Thargoids. Those who supported this initiative have [[Our]] sincere gratitude.” 
 
-Pilots who contributed to the initiative can now collect their rewards from Blackmount Orbital in the HIP 17692 system.
+Pilots who contributed to the initiative can now collect their rewards from [[Blackmount Orbital in the HIP 17692]] system.

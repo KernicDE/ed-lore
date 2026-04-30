@@ -26,8 +26,8 @@ Peace and Prosperity through Production
 
 Peace and Prosperity through Production   
  
-The Utopians unveiled their plans to fight back against the pirates of the Pegasi sector today, at a meeting held aboard Yolen Hub in HIP 116213. 
+[[The]] Utopians unveiled their plans to fight back against [[The]] pirates of the [[Pegasi]] sector today, at a meeting held aboard Yolen Hub in [[HIP 116213]]. 
 
-Simguru Pranav Antal was met with wild cheers from the gathered crowds as he spoke about the sector’s recent spate of conflicts with the Kumo Crew, the resultant economic downturn and Utopia’s plans for turning all of that around. 
+Simguru Pranav Antal was met [[With]] wild cheers from the gathered crowds as he spoke about the sector’s recent spate of conflicts [[With the]] [[Kumo Crew]], the resultant economic downturn and [[Utopia]]’s plans for turning all of that around. 
 
-Outside the station’s no-fire zone, followers of the Simguru demonstrated the effectiveness of Utopian technology when a wing of ships equipped with Enforcer Cannons shredded an Anaconda in under a minute. A clear message to anyone who thinks the Utopians will let their communes be pillaged simply because their overall philosophy leans towards peace.
+Outside the station’s no-fire zone, followers of the Simguru demonstrated the effectiveness of Utopian technology when a wing of ships equipped [[With]] Enforcer Cannons shredded an Anaconda in under a minute. A clear message to anyone who thinks the Utopians will let their communes be pillaged simply because their overall philosophy leans towards peace.

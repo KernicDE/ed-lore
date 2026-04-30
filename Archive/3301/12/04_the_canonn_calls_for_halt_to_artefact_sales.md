@@ -23,15 +23,15 @@ legacy_weight: 4
 significance: high
 ---
 
-The Canonn Calls for Halt to Artefact Sales
+[[The]] [[Canonn]] Calls for Halt to Artefact Sales
 
 
-The Voice of Varati today received a statement from Dr Arcanonn of the Canonn Interstellar Research Group: 
+The Voice of [[Varati]] today received a statement from Dr [[Arcanonn]] of the [[Canonn Interstellar Research Group]]: 
 
-"As news of further station malfunctions spreads, I urge all those who have been selling Unknown Artefacts to stop doing so immediately, to avoid any further station shutdowns." 
+"As news of [[Further]] station malfunctions spreads, I urge all those who have been selling Unknown Artefacts to stop doing so immediately, to avoid any further station shutdowns." 
 
-"There is a strong positive correlation between the stations experiencing faults and the sale of UAs at those stations. Our own observations at Bond Hub in Varati support this: the artefacts appear to affect stations in the same way they affect ships, with potentially disastrous consequences." 
+"There is a strong positive correlation between the stations experiencing faults and the sale of UAs at those stations. [[Our]] own observations at [[Bond Hub]] in Varati support [[This]]: the artefacts appear to affect stations in the same way they affect ships, [[With]] potentially disastrous consequences." 
 
-"Given these findings, we are deeply troubled by the surge in value of UAs across the black market, which clearly led to this increase in sales. Who caused this increase? Did they know the effect it would have?" 
+"Given these findings, we are deeply troubled by the surge in value of UAs across the black market, [[Which]] clearly led to this increase in sales. Who caused this increase? Did they know the effect it would have?" 
 
-Commander Lord Zoltan
+Commander [[Lord Zoltan]]

@@ -18,17 +18,17 @@ legacy_weight: 4
 significance: high
 ---
 
-Aisling Duval Contacts Hadrian Duval
+[[Aisling Duval]] Contacts Hadrian Duval
 
 
-Princess Aisling Duval has revealed that she recently visited Imperator Hadrian Augustus Duval, leader of the isolationist group Nova Imperium. 
+Princess Aisling Duval has revealed that she recently visited Imperator Hadrian Augustus Duval, leader of [[The]] isolationist group [[Nova Imperium]]. 
 
-The Imperial Herald published her statement: 
+The [[Imperial Herald]] published her statement: 
 
 “For some time, I have regretted my initial dismissal of Hadrian. Had I known that Arissa intended to carry out such a brutal purge of his followers, my approach would have been different.” 
 
-“Although he has been labelled an enemy of the Empire, I found myself unable to ignore this new member of the Duval family, and so requested a meeting in the Paresa system.” 
+“Although he has been labelled an enemy of the Empire, I [[Found]] myself unable to ignore [[This]] new member of the Duval family, and so requested a meeting in the [[Paresa]] system.” 
 
-“Another reason to make contact was to verify his claim to be Emperor Hengist's grandson. All the genetic tests were conclusive – Hadrian is indeed my cousin by blood.” 
+“Another reason to make contact was to verify his claim to be Emperor [[Hengist]]'s grandson. All the genetic tests were conclusive – Hadrian is indeed my cousin by blood.” 
 
 “We have now opened a dialogue to see if there can ever be common ground between us. Perhaps together we can heal divisions within the Empire.”

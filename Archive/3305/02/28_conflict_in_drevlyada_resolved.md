@@ -18,12 +18,12 @@ significance: low
 Conflict in Drevlyada Resolved
 
 
-The battle in the Drevlyada system, which sprang from a long-running rivalry between two military leaders, has now ended. 
+[[The battle in [[The]] Drevlyada]] system, [[Which]] sprang from a long-running rivalry between two military leaders, has now ended. 
 
 Warzone reporter Karleen Troy summarised: 
 
-“The antagonistic relationship between General Kendrick and Marshal Cooper was finally resolved when both were executed by their own lieutenants, who were displeased with the huge loss of life resulting from their leaders’ quarrel.” 
+“The antagonistic relationship between General Kendrick and Marshal Cooper was finally resolved when both were executed by their own lieutenants, who were displeased [[With the]] huge loss of life resulting from their leaders’ quarrel.” 
 
-“Both the Namab Purple Brothers and the Drevlyada League have agreed to honour commitments to members of the galactic community who fought on each side.” 
+“Both the Namab Purple Brothers and the Drevlyada League have agreed to honour commitments to members of the galactic community who fought on [[Each]] side.” 
 
-Independent pilots who took part in the conflict can now collect their rewards from the Drevlyada system. Supporters of Namab Purple Brothers should head to Wheeler Dock, while supporters of the Drevlyada League should travel to Grandin Port.
+[[Independent]] pilots who took part in the conflict can now collect their rewards from the Drevlyada system. Supporters of Namab Purple Brothers should head to Wheeler Dock, while supporters of the Drevlyada League should travel to Grandin Port.

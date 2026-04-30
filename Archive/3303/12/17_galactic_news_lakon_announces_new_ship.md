@@ -19,9 +19,9 @@ significance: high
 Galactic News: Lakon Announces New Ship
 
 
-The Alliance has commissioned Lakon Spaceways to produce a new ship in response to the recent Thargoid attacks in the Pleiades. The vessel, which has been named the Type-10 Defender, represents a comprehensive revision of the Type–9 Heavy. 
+[[The]] [[Alliance]] has commissioned [[Lakon Spaceways]] to produce a new ship in response to the recent [[Thargoid]] attacks in the Pleiades. The [[Vessel]], [[Which]] has been named the Type-10 Defender, represents a comprehensive revision of the Type–9 Heavy. 
 
-Lakon issued the following statement: 
+Lakon issued [[The following]] statement: 
 
 “The Type-10 boasts greater speed, acceleration and manoeuvrability than the Type-9, and also offers a more focused hardpoint loadout. We envisage it being particularly effective in combat situations.” 
 

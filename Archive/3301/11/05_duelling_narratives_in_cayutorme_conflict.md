@@ -22,13 +22,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-Duelling Narratives in Cayutorme Conflict
+Duelling Narratives in [[Cayutorme]] Conflict
 
 
-The deadline for the inspection and disbandment of the mercenary Cayutorme Syndicate fleet has passed, and Imperial Naval vessels have entered the Cayutorme system. Speaking from an undisclosed location, the leader of the Cayutorme Syndicate, Kyle Kurowski, confirmed that his mercenary armada had engaged the Imperial Fleet, but denied reports that independent pilots were fighting for both sides: "Independent pilots are just that – independent. They will not be the tool the Emperor uses to turn us into Imperial citizens. If they stand for freedom, they stand with us." 
+[[The]] deadline for the inspection and disbandment of the mercenary [[Cayutorme Syndicate]] fleet has passed, and Imperial Naval vessels have entered the Cayutorme system. Speaking from an undisclosed location, the leader of the Cayutorme Syndicate, Kyle Kurowski, confirmed that his mercenary armada had engaged the Imperial Fleet, but denied reports that [[Independent]] pilots were fighting for both sides: "Independent pilots are just that – independent. They will not be the tool the Emperor uses to turn us into Imperial citizens. If they stand for freedom, they stand [[With]] us." 
 
 The Imperial war chest has been opened for any independent pilots who want to help the Imperial cause. Admiral Lucius Lavigny, the Emperor's second cousin, stated: 
 
-"We know that Commanders pledged to the Empire will fight to maintain law and order, and we urge other Commanders to do the same. If these miscreants are permitted to continue with their activities, more systems will suffer." 
+"We know that Commanders pledged to the Empire will fight to maintain law and order, and we urge [[Other]] Commanders to do the same. If these miscreants are permitted to continue with their activities, more systems will suffer." 
 
-Commander Quade and Commander Corrigendum
+Commander [[Quade]] and Commander [[Corrigendum]]

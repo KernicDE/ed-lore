@@ -18,25 +18,25 @@ legacy_weight: 2
 significance: low
 ---
 
-The Founding of the Federation
+[[The]] Founding of [[The]] Federation
 
 
 The Founding of the Federation 
  
 The Founding of the Federation 
 
-In this new series exclusive to GalNet, famed historian Sima Kalhana visits the defining moments of human history since our first brave steps into space and to the star-spanning species we have since become. In this first article, she talks about the founding of the Federation. With a history spanning millennia, it is the oldest of the major factions. 
+In [[This]] new series exclusive to GalNet, famed historian Sima Kalhana visits the defining moments of human history since [[Our]] first brave steps into space and to [[The star]]-spanning species we have since become. In [[This]] first article, she talks about the founding of the Federation. [[With]] a history spanning millennia, it is the oldest of the major factions. 
 
 - 
 
-In this modern age it’s hard for us to imagine that before the Federation, humanity existed on just a single world, bar a few small colonies on Mars and the Moon. Even stranger to our current experience was the fact that so many disparate tribal groupings, or ‘countries’ existed on one world. 
+In this modern age it’s hard for us to imagine that before the Federation, humanity existed on just a single world, bar a few small colonies on [[Mars]] and the Moon. Even stranger to [[Our]] current experience was the fact that so [[Many]] disparate tribal groupings, or ‘countries’ existed on [[One]] world. 
 
 The Federation arose from the ashes of the Third World War in the mid 21st century. The war caused tremendous devastation across the planet, decimating the population.   
 
-Many different factors changed humanity’s outlook after that. The rise of the corporations, the discovery of the first fossils on Mars, and the explosive exploration triggered by the invention of the hyperdrive by Li Qin Jao and others in the 22nd century, first by unmanned probes, then with manned craft, overtaking the generation ships sent in the previous decades. Despite the huge dangers involved, a massive land-grab followed, fuelled by the voracious corporations. 
+[[Many]] different factors changed humanity’s outlook after that. The rise of the corporations, the discovery of the first fossils on [[Mars]], and the explosive exploration triggered by the invention of the hyperdrive by Li Qin Jao and others in the 22nd century, first by unmanned probes, then [[With]] manned craft, overtaking the generation ships sent in the previous decades. Despite the huge dangers involved, a massive land-grab followed, fuelled by the voracious corporations. 
 
-It wasn’t until some of the ecological excesses of these early colonists became apparent over a century later that Earth took its first steps, founding the Federation and  becoming the colossal entity it is now, creating some order in what had become an unruly free-for-all. 
+It wasn’t until some of the ecological excesses of these early colonists became apparent over a century later that [[Earth]] took [[Its]] first steps, founding the Federation and  becoming the colossal entity it is now, creating some order in what had become an unruly free-for-all. 
 
- In 2242 the Federation Accord was created outlining certain rights and responsibilities for members, uniting many of the new colonies, by force in some cases. After a short conflict the Taylor Colony in Tau Ceti bacame the first signatory outside the Sol system. The name of the Federation was also changed at this time to the ‘Federation of Star Systems’, but the name didn’t stick and quickly returned to just the Federation. 
+ In 2242 the Federation Accord was created outlining certain rights and responsibilities for members, uniting [[Many of the]] new colonies, by force [[In some]] cases. After a short conflict the Taylor Colony in Tau Ceti bacame the first signatory outside the [[Sol]] system. The name of the Federation was also changed at this time to the ‘Federation of [[Star]] Systems’, [[But the]] name didn’t stick and quickly returned to just the Federation. 
 
-From that point the Federation provided a stable framework to facilitate the further expansion of humanity to ever more distant star systems but not all colonies wanted a part of this. A distant early colony, formed by a band of political idealists as far from Earth as they could manage, in the system of Achenar would eventually spark another defining moment for the Federation and indeed humanity as a whole.
+From that point the Federation provided a stable framework to facilitate the [[Further]] expansion of humanity to ever more distant [[Star]] systems but not all colonies wanted a part of this. A distant early colony, formed by a band of political idealists as [[Far]] from [[Earth]] as they could manage, in the system of [[Achenar]] would eventually spark another defining moment for the Federation and indeed humanity as a whole.

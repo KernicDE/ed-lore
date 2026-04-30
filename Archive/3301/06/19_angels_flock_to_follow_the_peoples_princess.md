@@ -13,15 +13,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Angels Flock to Follow the People’s Princess
+Angels Flock to Follow [[The]] People’s Princess
 
 
-Angels Flock to Follow the People’s Princess 
+Angels Flock to Follow [[The]] People’s Princess 
  
-For months, Aisling’s Angels have been working hard to support their mistress in her quest to bring about meaningful social change in the Empire. As part of their efforts, millions of slaves have been set free, retrained and rehomed in accordance with Aisling’s wishes. 
+For months, Aisling’s Angels have been working hard to support their mistress in her quest to bring about meaningful social change in the Empire. As part of their efforts, millions of slaves have been set free, retrained and rehomed in accordance [[With]] Aisling’s wishes. 
 
-When she lost her bet against Zemina Torval back in April, many within Imperial society thought Aisling’s followers would finally realise that she was backing a lost cause and give up. Instead the opposite happened as thousands of Imperial citizens, their hearts touched by the efforts of the people’s princess, rallied to her cause. This has turned Aisling into one of the most influential celebrities in the Empire today, to the delight of her powerful backers. 
+When she lost her bet against [[Zemina Torval]] back in April, [[Many]] within Imperial society thought Aisling’s followers would finally realise that she was backing a lost cause and give up. Instead the opposite happened as thousands of Imperial citizens, their hearts touched by the efforts of the people’s princess, rallied to her cause. [[This]] has turned Aisling into [[One]] of the most influential celebrities in the Empire today, to the delight of her powerful backers. 
 
-With this new-found support, the people’s princess has found herself once again going up against Senator Zemina Torval, as the two powerful senators clash in a bid to gain influence near the Empire’s core systems. 
+[[With]] [[This]] new-[[Found]] support, the people’s princess has [[Found]] herself once again going up against Senator [[Zemina Torval]], [[As the]] two powerful senators clash [[In a]] bid to gain influence near the Empire’s core systems. 
 
-Early last week, the two camps worked to rally support amongst senior patrons in Caspatsuria. When it became apparent that the Caspatsuria citizens would only be swayed by their wallets, a wise change in direction by the Angels PR team saw a last-minute burst of activity launch across Grovichun’s social media networks. Supporters of both Imperial powers are currently engaged in talks with the respective local authorities in a bid to set up new command centres from which to spread their own particular forms of Imperial life.
+Early last week, the two camps worked to rally support amongst senior patrons in Caspatsuria. When it became apparent that the Caspatsuria citizens would only be swayed by their wallets, a wise change in direction by the Angels PR team saw a last-minute burst of activity launch across Grovichun’s social media networks. Supporters of both Imperial powers are currently engaged in talks [[With the]] respective local [[Authorities in]] a bid to set up new command centres from [[Which]] to spread their own particular forms of Imperial life.

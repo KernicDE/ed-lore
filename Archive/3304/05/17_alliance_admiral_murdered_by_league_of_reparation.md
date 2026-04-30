@@ -22,22 +22,22 @@ legacy_weight: 4
 significance: high
 ---
 
-Alliance Admiral Murdered by League of Reparation
+[[Alliance]] Admiral [[Murdered]] by League of Reparation
 
 
-A member of the Council of Admirals, which commands the Alliance Defence Force, has been murdered. The League of Reparation has claimed responsibility. 
+A member of [[The]] Council of Admirals, [[Which]] commands the Alliance Defence Force, has been murdered. The League of Reparation has claimed responsibility. 
 
-Fleet Admiral Tulimaq Buchanan was travelling to a naval ceremony at Lave Station when his private vessel was attacked and destroyed. The admiral’s personal staff and the ship’s crew were also killed. 
+Fleet Admiral Tulimaq Buchanan was travelling to a naval ceremony at [[Lave]] Station when his private [[Vessel]] was attacked and destroyed. The admiral’s personal staff and the ship’s crew were also killed. 
 
-Moments later, the following message was transmitted to news feeds across the galaxy: 
+Moments later, [[The following]] message was transmitted to news feeds across the galaxy: 
 
-“We do not forget the crimes of the INRA. We do not forgive those who carry their guilt. For Jameson.” 
+“We do not forget the crimes of the [[INRA]]. We do not forgive those who carry their guilt. For Jameson.” 
 
 Chief Inspector Kay Kilbride, a founding member of the tri-superpower taskforce investigating the League, delivered the following statement: 
 
-“We are treating this attack as an act of terrorism from the League of Reparation. Fleet Admiral Buchanan’s family history verifies that one of his forebears was a senior commander in the INRA prior to settling down on Lave over a century ago.” 
+“We are treating [[This]] attack as an act of terrorism from the League of Reparation. Fleet Admiral Buchanan’s family history verifies that [[One]] of his forebears was a senior commander in the INRA prior to settling down on Lave over a century ago.” 
 
-“We are working to identify the attackers, who somehow managed to avoid local security forces. There’s evidence to suggest that the League’s assassins are being aided by sympathetic individuals in positions of influence. Our investigation continues.” 
+“We are working to identify the attackers, who somehow managed to avoid local security forces. There’s evidence to suggest that the League’s assassins are being aided by sympathetic individuals in positions of influence. [[Our]] investigation [[Continues]].” 
 
 The Alliance Assembly released a joint statement: 
 

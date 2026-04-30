@@ -21,17 +21,17 @@ legacy_weight: 2
 significance: low
 ---
 
-Prism Senator Returns to Empire
+[[Prism]] Senator [[Returns]] to Empire
 
 
-After completing her tour of the Sol system and meeting several high ranking officials within the Federation, Senator Kahina Tijani Loren has returned to the Empire. 
+[[After completing her tour of [[The]] Sol]] system and meeting [[Several]] high ranking officials within [[The]] Federation, Senator [[Kahina Tijani Loren]] has returned to the Empire. 
 
-As expected a large flotilla of vessels accompanied Lady Kahina to the boundary of Federation influence, where she rendezvoused with the Imperial Interdictor Lucius. 
+As expected a large flotilla of vessels accompanied Lady Kahina to the boundary of Federation influence, where she rendezvoused [[With the]] Imperial Interdictor Lucius. 
 
-The Sol Herald asked Lady Kahina what she had thought of her first trip to Sol. She was reported as saying that she had found it “Most enlightening” and wanted to express her thanks to all who had helped her “navigate the fiendishly complicated Federation protocols.” 
+The [[Sol]] Herald asked Lady Kahina what she had thought of her first trip to [[Sol]]. She was reported as saying that she had [[Found]] it “Most enlightening” and wanted to express her thanks to all who had helped her “navigate the fiendishly complicated Federation protocols.” 
 
-Lady Kahina was then asked “Do you consider the docking officials at Mars High to be friends or rivals?” 
+Lady Kahina was then asked “Do you consider the docking officials at [[Mars]] High to be friends or rivals?” 
 
-Her reply was greeted with laughter over wide-band comms. “Oh, that’s easy. Neither.” 
+Her reply was greeted [[With]] laughter over wide-band comms. “Oh, that’s easy. Neither.” 
 
-Representatives from Mars High could not be reached for comment.
+Representatives from [[Mars]] High could not be reached for comment.

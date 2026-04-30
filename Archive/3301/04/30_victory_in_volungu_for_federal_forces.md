@@ -15,8 +15,8 @@ significance: low
 Victory in Volungu for Federal Forces
 
 
-The war-torn region of Volungu has been under intense scrutiny over the last few days, as a centuries-old feud between the Faveols and the Blossoms threatened to reignite and engulf the region in a wave of bloodshed. 
+[[The]] war-torn region of Volungu has been under intense scrutiny over [[The]] last few days, as a centuries-old feud between the Faveols and the Blossoms threatened to reignite and engulf the region [[In a]] wave of bloodshed. 
 
-According to sources in the Patron’s Principles’ home system Liaedin, the attack on Volungu was carried out by a group of younger family members. Having never experienced war themselves, and inspired by the recent influx of Imperial combat veterans to the region, the young Faveols foolishly chose to attack their neighbours in a misguided quest for glory. 
+[[According to]] sources in the Patron’s Principles’ home system Liaedin, the attack on Volungu was carried out by a group of younger family members. Having never experienced war themselves, and inspired by the recent influx of Imperial combat veterans to the region, the young Faveols foolishly chose to attack their neighbours [[In a]] misguided quest for glory. 
 
 Federal pilots, eager to maintain the peace, flocked to Volungu in their thousands. Now, just a few days later, the threat from the Patron’s Principles has been neutralised. Their leadership has apologised and an uneasy peace has settled on the system once more.

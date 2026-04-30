@@ -22,15 +22,15 @@ legacy_weight: 5
 significance: high
 ---
 
-Aegis Reduces Tech-Broker Requirements
+[[Aegis]] Reduces Tech-Broker Requirements
 
 
-Aegis has announced that it will allow technology brokers to reduce their requirements for producing items, in order to increase overall combat effectiveness against the Thargoids. 
+Aegis has announced that it will allow technology brokers to reduce their requirements for producing items, in order to increase overall combat effectiveness against [[The]] Thargoids. 
 
-Henrik de Lacerda, a senior engineer at Aegis Research, clarified this development: 
+Henrik de Lacerda, a senior engineer at Aegis Research, clarified [[This]] development: 
 
-“Aegis is aware that the galactic community has worked incredibly hard to oppose the Thargoids in the core systems. To show our appreciation, we are making it easier for independent pilots to obtain advanced weaponry and hardware.” 
+“Aegis is aware that the galactic community has worked incredibly hard to oppose the Thargoids [[In the core]] systems. To show [[Our]] appreciation, we are making it easier for [[Independent]] pilots to obtain advanced weaponry and hardware.” 
 
-“We have contacted all registered technology brokers and supplied them with additional funding, resources and manufacturing equipment. As a result, they now need fewer commodities and materials from those purchasing their designs.” 
+“We have contacted all registered technology brokers and supplied them [[With]] additional funding, resources and manufacturing equipment. As a result, they now need fewer commodities and materials from those purchasing their designs.” 
 
 “Our hope is that by helping pilots to upgrade their ships, we can enhance their survivability and encourage more Commanders to join the fight against the Thargoids.”

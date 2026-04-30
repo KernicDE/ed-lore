@@ -29,12 +29,12 @@ significance: high
 Thargoids Defend Meta-Alloy Sources
 
 
-The Thargoids have emerged in the Witch Head Nebula, just hours after human expansion efforts in the region began. Numerous attacks in the area indicate that Thargoid craft are aggressively defending the region’s barnacle sites. 
+[[The]] Thargoids have emerged in the [[Witch Head Nebula]], just hours after human expansion efforts in the region began. Numerous attacks in the area indicate that [[Thargoid]] craft are aggressively defending the region’s barnacle sites. 
 
-Professor Alba Tesreau of Aegis Research said in an update: 
+Professor [[Alba Tesreau]] of [[Aegis]] Research said in an update: 
 
-“Representative factions of the Alliance, Empire and Federation have entered the Witch Head Nebula to begin colonisation efforts. A number of megaships and Ocellus starports arrived in the area on schedule, only to be met with hostile Thargoid vessels soon afterwards.” 
+“Representative factions of the [[Alliance]], Empire and Federation have entered the [[Witch Head]] Nebula to begin colonisation efforts. A number of megaships and Ocellus starports arrived in the area on schedule, only to be met [[With]] hostile Thargoid vessels soon afterwards.” 
 
-This development, coupled with increased Thargoid activity in the Pleiades Nebula, suggests that the Thargoids are intent on driving humanity out of regions containing barnacle sites. Tesreau was quick to repeat that securing access to a source of meta-alloys is of great importance to humanity. 
+[[This]] development, coupled with increased Thargoid activity in the [[Pleiades Nebula]], suggests that the Thargoids are intent on driving humanity out of regions containing barnacle sites. Tesreau was quick to repeat that securing access to a source of meta-alloys is of great importance to humanity. 
 
-“All three superpowers are urgently requesting help to repel Thargoid forces from the Witch Head Nebula,” said Tesreau. “Without the galactic community’s support, these pioneer factions will be forced to retreat, and vital supplies of meta-alloys will be lost.”
+“[[All three]] superpowers are urgently requesting help to repel [[Thargoid forces from]] the Witch Head Nebula,” said Tesreau. “Without the galactic community’s support, these pioneer factions will be forced to retreat, and vital supplies of meta-alloys will be lost.”

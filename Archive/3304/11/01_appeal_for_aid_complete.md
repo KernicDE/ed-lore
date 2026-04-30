@@ -23,10 +23,10 @@ significance: low
 Appeal for Aid Complete
 
 
-Senator Caspian Leopold has announced that his appeal for aid, in association with the Niflhel Guardians Of Tradition, has been enthusiastically received by the galactic community. Hundreds of pilots supported the initiative by delivering commodities to Biruni Port, and by protecting traders in the Niflhel system. 
+Senator [[Caspian Leopold]] has announced that his appeal for aid, in association [[With the]] [[Niflhel]] Guardians Of Tradition, has been enthusiastically received by [[The]] galactic community. [[Hundreds of]] pilots supported the initiative by delivering commodities to Biruni Port, and by protecting traders in the Niflhel system. 
 
-A spokesperson for Senator Leopold made the following statement: 
+A spokesperson for Senator [[Leopold made]] [[The following]] statement: 
 
-“Thanks to the work of many brave pilots, a humanitarian crisis has been narrowly averted. Senator Leopold has expressed his gratitude to all those who contributed to the campaign, and has assured refugees at his rehabilitation centre that new homes will be found for each and every one of them.” 
+“Thanks to the work of [[Many]] brave pilots, a humanitarian crisis has been narrowly averted. Senator [[Leopold]] has expressed his gratitude to all those who contributed to the campaign, and has assured refugees at his rehabilitation centre that new homes will be [[Found]] for [[Each]] and [[Every]] [[One]] of them.” 
 
-Pilots who contributed to the initiative can now collect their rewards from Biruni Port in the Niflhel system.
+Pilots who contributed to the initiative can now collect their rewards from [[Biruni Port in the Niflhel]] system.

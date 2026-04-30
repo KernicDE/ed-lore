@@ -19,12 +19,12 @@ Nanomed Trials Successful
 
 Clinical trials for new nanomedicines developed by Vitadyne Labs have delivered outstanding results. 
 
-Observers from the Interstellar Health Organisation summarised: 
+Observers from [[The]] Interstellar Health Organisation summarised: 
 
-“Our teams carefully monitored the use of Vitadyne nanomeds on patients for whom conventional treatments were unsuitable. In all cases, the nanomedicines eliminated malignant cells, boosted immune systems and repaired damaged tissue.” 
+“[[Our]] teams carefully monitored the use of Vitadyne nanomeds on patients for whom conventional treatments were unsuitable. In all cases, the nanomedicines eliminated malignant cells, boosted immune systems and repaired damaged tissue.” 
 
-“There is no doubt that this product represents a breakthrough in nanomedicine, with enormous healthcare potential.” 
+“There is no doubt that [[This]] product represents a breakthrough in nanomedicine, [[With]] enormous healthcare potential.” 
 
-Professor Katrien Rook, owner of Vitadyne Labs, told the media: 
+Professor [[Katrien Rook]], owner of Vitadyne Labs, told the media: 
 
-“It’s highly gratifying to have our work validated in this way. I’m grateful to the IHO for its diligence, and I look forward to introducing our nanomedicines to the galaxy.”
+“It’s highly gratifying to have our work validated in this way. I’m grateful to the IHO for [[Its]] diligence, and I look forward to introducing our nanomedicines to the galaxy.”

@@ -16,14 +16,14 @@ legacy_weight: 4
 significance: high
 ---
 
-Lakon Releases Alliance Chieftain
+Lakon Releases [[Alliance]] Chieftain
 
 
-The Alliance has announced a new combat ship, the Alliance Chieftain, which has been specifically designed to counter the aggression of the Thargoids. 
+[[The]] Alliance has announced a new combat ship, the Alliance Chieftain, [[Which]] has been specifically designed to counter the aggression of the Thargoids. 
 
-A press release from Lakon Spaceways, which has developed the ship, stated: 
+A press release from [[Lakon Spaceways]], which has developed the ship, stated: 
 
-“The Chieftain is a highly manoeuvrable vessel for its size and weight, offering an advantage against the renowned agility of Thargoid craft. It boasts six weapon hardpoints and also has three internal military compartments. This makes it very capable in a combat situation, and able to withstand considerable punishment.” 
+“The Chieftain is a highly manoeuvrable [[Vessel]] for [[Its]] size and weight, offering an advantage against the renowned agility of [[Thargoid]] craft. It boasts six weapon hardpoints and also has three internal military compartments. [[This]] makes it very capable [[In a]] combat situation, and able to withstand considerable punishment.” 
 
 “We believe demand will be high.” 
 

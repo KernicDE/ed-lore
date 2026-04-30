@@ -18,8 +18,8 @@ significance: low
 Galactic News: Order Restored in Kaal
 
 
-The Kuk Silver Fortune Company has announced that its campaign to clear the Kaal system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
+[[The]] Kuk Silver Fortune Company has announced that [[Its]] campaign to clear the Kaal system of agitators has been a success. [[Hundreds of]] pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
-Authorities in the Kaal system have extended their gratitude to those who participated in the operation. 
+[[Authorities in the Kaal]] system have extended their gratitude to those who participated in the operation. 
 
 Pilots who contributed to the initiative can now collect their rewards from Vercors Station in the Kaal system.

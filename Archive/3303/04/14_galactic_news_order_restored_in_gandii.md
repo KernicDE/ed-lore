@@ -14,8 +14,8 @@ significance: low
 Galactic News: Order Restored in Gandii
 
 
-After a period of intense conflict, the Gandii Justice Party has defeated the forces of the Hand Gang of Gandii in the Gandii system. 
+After a period of intense conflict, [[The]] Gandii Justice Party has defeated the forces of the Hand Gang of Gandii in the Gandii system. 
 
-Both organisations called in support from independent combat pilots, but ultimately it was the Gandii Justice Party that emerged victorious. 
+Both organisations called in support from [[Independent]] combat pilots, but ultimately it was the Gandii Justice Party that emerged victorious. 
 
 Pilots who participated in the conflict are now free to collect their rewards from Lu Hub in the Gandii system.

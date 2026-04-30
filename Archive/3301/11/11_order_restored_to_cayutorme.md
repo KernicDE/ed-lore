@@ -22,15 +22,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-Order Restored to Cayutorme
+Order Restored to [[Cayutorme]]
 
 
-After several days of fighting between Imperial forces and the mercenaries of the Cayutorme Syndicate, order has been restored to the Cayutorme system. With the mercenary fleet defeated, the leaders of the Cayutorme Syndicate have petitioned for a ceasefire. Kyle Kurowski, the leader of the organisation, has not been seen since hostilities began. 
+After [[Several]] days of fighting between Imperial forces and [[The]] mercenaries of the [[Cayutorme Syndicate]], order has been restored to the Cayutorme system. [[With the]] mercenary fleet defeated, the leaders of the Cayutorme Syndicate have petitioned for a ceasefire. Kyle Kurowski, the leader of the organisation, has not been seen since hostilities began. 
 
 Speaking from Adkins Port, Admiral Lucius Lavigny praised the Commanders who fought for the Empire: 
 
-"This conflict would have lasted much longer without the support of independent Commanders of the Pilots Federation. The Empire thanks them for their efforts." 
+"[[This]] conflict would have lasted much longer without the support of [[Independent]] Commanders of the [[Pilots Federation]]. The Empire thanks them for their efforts." 
 
 Admiral Lavigny also announced that all captured mercenary vessels would be sold at Adkins Port in Cayutorme, at a heavy discount. Value-minded buyers are already gathering. 
 
-Commander Quade and Commander Corrigendum
+Commander [[Quade]] and Commander [[Corrigendum]]

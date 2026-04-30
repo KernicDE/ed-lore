@@ -14,11 +14,11 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: Generation Ship Found
+Galactic News: Generation Ship [[Found]]
 
 
-Before the development of faster-than-light travel, colonising distant star systems depended on vast interstellar arks known as generation ships. There are believed to be more than 70,000 of these ships in the galaxy, the location of many of which is not known. 
+Before [[The]] development of faster-than-light travel, colonising distant [[Star]] systems depended on vast interstellar arks known as generation ships. There are believed to be more than 70,000 of these ships in the galaxy, the location of [[Many]] of [[Which]] is not known. 
 
-But now one of these ‘lost’ ships has been found. A transmission recovered from a listening post in the LHS 1047 system led a pair of independent pilots to the Alaunus system, where the generation ship ‘Lycaor’ was discovered. Tragically, it appears that the ship’s crew was killed by an unidentified pathogen, no doubt many centuries ago. This was confirmed by remotely accessing the ship’s medical logs. 
+But now [[One]] of these ‘lost’ ships has been found. A transmission recovered from a listening post in the LHS 1047 system led a pair of [[Independent]] pilots to the [[Alaunus]] system, where the generation ship ‘Lycaor’ was discovered. Tragically, it appears that the ship’s crew was killed by an unidentified pathogen, no doubt many centuries ago. [[This]] was confirmed by remotely accessing the ship’s medical logs. 
 
-System authorities have urged pilots not to interfere with the vessel, which is still protected by the legislature instated at the time of its launch.
+System authorities have urged pilots not to interfere [[With the]] [[Vessel]], which is still protected by the legislature instated at the time of [[Its]] launch.

@@ -16,9 +16,9 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Restoring Order in Carthage
+Community Goal: Restoring Order in [[Carthage]]
 
 
-Authorities in the Carthage system have reported a sharp increase in the number of criminals operating in the area. To ensure these agitators do not disrupt the Lavigny's Legion campaign, a kill order has been placed on all wanted ships operating in the system. Lavigny's Legion has promised to reward pilots who deliver bounty vouchers to Marker Depot. 
+[[Authorities in [[The]] Carthage]] system have reported a sharp increase in [[The number of]] criminals operating in the area. To ensure these agitators do not disrupt the Lavigny's Legion campaign, a kill order has been placed on all wanted ships operating in the system. Lavigny's Legion has promised to reward pilots who deliver bounty vouchers to Marker Depot. 
 
-The campaign begins on the 21st of July 3302 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 21st of July 3302 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

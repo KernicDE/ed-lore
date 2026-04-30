@@ -24,10 +24,10 @@ significance: high
 Galactic News: Unknown Probe Breakthrough
 
 
-The Canonn Interstellar Research Group has announced that one of its scientists has made a discovery regarding the so-called Unknown Probes. 
+[[The]] [[Canonn Interstellar Research Group]] has announced that [[One]] of [[Its]] scientists has made a discovery regarding the so-called Unknown Probes. 
 
-According to a statement, a pilot by the name of Commander Rizal72 has confirmed that when the mysterious objects are examined with an advanced discovery scanner, they emit an electro-magnetic pulse that temporarily incapacitates the scanning ship. The pulse is followed by a brief burst of sound, similar in nature to the 'chittering' produced by the Unknown Artefacts. 
+[[According to]] a statement, a pilot by the name of Commander [[Rizal72]] has confirmed that when the mysterious objects are examined [[With]] an advanced discovery scanner, they emit an electro-magnetic pulse that temporarily incapacitates the scanning ship. The pulse is followed by a brief burst of sound, similar in nature to the 'chittering' produced by the Unknown Artefacts. 
 
-Following this announcement, Commander Rizal72's colleagues at the Canonn Interstellar Research Group began subjecting recordings of the sound to various tests. They soon discovered that the sound contained an encrypted image, which some have interpreted as a depiction of interstellar bodies. 
+Following [[This]] announcement, Commander [[Rizal72's colleagues]] at the [[Canonn]] Interstellar Research Group began subjecting recordings of the sound to various tests. They soon discovered that the sound contained an encrypted image, [[Which]] some have interpreted as a depiction of interstellar bodies. 
 
 The meaning of the image, and the origin and purpose of the Probes, remains unclear. Clearly, there remains much to discover.

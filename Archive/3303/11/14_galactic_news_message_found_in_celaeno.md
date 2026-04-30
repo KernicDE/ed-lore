@@ -14,9 +14,9 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: Message Found in Celaeno
+Galactic News: Message [[Found]] in [[Celaeno]]
 
 
-A number of news feeds have reported the discovery of an intriguing message in the Celaeno system. The message, which was recovered from a listening post, apparently contains an emergency broadcast from the Aida, a Hogan-class cargo vessel. 
+A number of news feeds have reported [[The]] discovery of an intriguing message in the Celaeno system. The message, [[Which]] was recovered from a listening post, apparently contains an emergency broadcast from the Aida, a Hogan-class cargo [[Vessel]]. 
 
 The precise nature of the message has not been confirmed, and it is not known if security forces in Celaeno have investigated the issue.

@@ -24,10 +24,10 @@ significance: medium
 Colonia Hydroponics Initiative Concludes
 
 
-The Colonia Council has announced that its campaign to build a new hydroponics facility has been warmly received by the galactic community. Large quantities of material were delivered to Templar Barracks over the past week, allowing the initiative to move to the construction phase. 
+[[The]] [[Colonia Council]] has announced that [[Its]] campaign to build a new hydroponics facility has been warmly received by the galactic community. Large quantities of material were delivered to Templar Barracks over the past week, allowing the initiative to move to the construction phase. 
 
-The Council’s scientific adviser, Professor Diana VanCleef, gave the following statement: 
+The Council’s scientific adviser, Professor [[Diana VanCleef]], gave [[The following]] statement: 
 
-“Not only will this new hydroponics facility provide biofoods and super-grains for the populace of Colonia, it will also contain a dedicated research laboratory for a science team to develop new biotech crops.” 
+“Not only will [[This]] new hydroponics facility provide biofoods and super-grains for the populace of Colonia, it will also contain a dedicated research laboratory for a science team to develop new biotech crops.” 
 
-Pilots who contributed to the initiative can now collect their rewards from Templar Barracks in the Randgnid system.
+Pilots who contributed to the initiative can now collect their rewards from [[Templar Barracks in the Randgnid]] system.

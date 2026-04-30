@@ -23,19 +23,19 @@ legacy_weight: 3
 significance: medium
 ---
 
-Federation Continues Debate on War
+Federation [[Continues]] Debate on War
 
 
-Federation Continues Debate on War 
+Federation [[Continues]] Debate on War 
  
-Dissent is growing within Federation congress over the situation in the Pegasi sector. Though many view the Pegasi Pirate War as a chance to let the Empire waste their resources, a growing contingent is becoming frustrated with the Federation’s lack of response. 
+Dissent is growing within Federation congress over [[The]] situation in [[The]] [[Pegasi]] sector. Though [[Many]] view the [[Pegasi]] Pirate War as a chance to let the Empire waste their resources, a growing contingent is becoming frustrated [[With the]] Federation’s lack of response. 
 
-"Tolerating such rampant lawlessness in our sphere of influence makes us look increasingly feckless. If we don’t react with a show of force, it’s an open invitation for every would-be warlord to subjugate Federation space”, Congressman McRand argued in congress today. 
+"Tolerating such rampant lawlessness in [[Our]] sphere of influence makes us look increasingly feckless. If we don’t react [[With]] a show of force, it’s an open invitation for [[Every]] would-be warlord to subjugate Federation space”, Congressman McRand argued in congress today. 
 
-“Involving ourselves in the same war as the Empire is just asking for a security and diplomatic nightmare. Frankly, I trust these Empire pilots little more than I so Archon Delaine”, responded Congresswoman Faye. 
+“Involving ourselves in the same war [[As the]] Empire is just asking for a security and diplomatic nightmare. Frankly, I trust these Empire pilots little more than I so Archon Delaine”, responded Congresswoman Faye. 
 
-Debate continues in congress over taking a more active stance in the war. At last count, over 140 Federation systems and 89 billion citizens were under the control of the Kumo Crew. 
+Debate continues in congress over taking a more active stance in the war. At last count, over 140 Federation systems and 89 billion citizens were under the control of the [[Kumo Crew]]. 
 
-Commander Zonr 
+Commander [[Zonr]] 
 
-Times of Mars | Interstellar Press
+Times of [[Mars]] | [[Interstellar Press]]

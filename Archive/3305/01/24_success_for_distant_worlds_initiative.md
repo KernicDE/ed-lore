@@ -14,15 +14,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Success for Distant Worlds Initiative
+Success for [[Distant Worlds]] Initiative
 
 
-A request for mined materials from the Omega Mining Corporation has concluded. 
+A request for mined materials from [[The]] Omega Mining Corporation has concluded. 
 
-Independent pilots delivered large quantities of Indite, Gallite, Praseodymium and Cobalt which will be used to build an Orbis starport in the Stuemeae FG-Y d7561 system. The starport will serve as a centre for scientific research, gathering data on the supermassive black hole at the galaxy’s centre. 
+[[Independent]] pilots delivered large quantities of Indite, Gallite, Praseodymium and Cobalt [[Which]] will be used to build an Orbis starport in the [[Stuemeae FG-Y d7561]] system. The starport will serve as a centre for scientific research, gathering data on the supermassive black hole at the galaxy’s centre. 
 
-Erimus Kamzel, the Distant Worlds project leader, commented: 
+[[Erimus]] Kamzel, the Distant Worlds project leader, commented: 
 
-“It is with great pride that we announce the successful conclusion to this resource-extraction initiative. The fleet will now continue its journey, and is scheduled to reach the galactic core in several weeks’ time.” 
+“It is [[With]] great pride that we announce the successful conclusion to [[This]] resource-extraction initiative. The fleet will now continue [[Its]] journey, and is scheduled to reach the galactic core in [[Several]] weeks’ time.” 
 
 Contributors to the campaign can now collect their rewards from Omega Mining Operation in the Omega Sector VE-Q b5-15 system.

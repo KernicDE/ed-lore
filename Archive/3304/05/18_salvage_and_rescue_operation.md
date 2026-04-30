@@ -23,14 +23,14 @@ significance: low
 Salvage and Rescue Operation
 
 
-A convoy travelling through the core systems has come under attack from a pirate group, and local authorities are requesting assistance in finding survivors. 
+[[A convoy travelling through [[The]] core]] systems has come under attack from a pirate group, and local authorities are requesting assistance in finding survivors. 
 
-The operation is being coordinated by Security Chief Tal Woźniak of United Carnoeck for Equality, who made this announcement: 
+The operation is being coordinated by Security Chief Tal Woźniak of [[United [[Carnoeck]] for Equality]], who made [[This]] announcement: 
 
-“The convoy came under intense fire from pirates, with many ships damaged or destroyed. We immediately dispatched search-and-rescue teams, but the volume of debris is significant, and we are therefore requesting help from any independent pilots in the area.” 
+“The convoy came under intense fire from pirates, [[With]] [[Many]] ships damaged or destroyed. We immediately dispatched search-and-rescue teams, [[But the]] volume of debris is significant, and we are therefore requesting help from any [[Independent]] pilots in the area.” 
 
-“Our priority is to locate survivors, but we’re also keen to acquire data that might help to bring those responsible to justice.” 
+“[[Our]] priority is to locate survivors, but we’re also keen to acquire data that might help to bring those responsible to justice.” 
 
-Pilots are requested to recover Occupied Escape Pods, Black Boxes and Wreckage Components, and deliver them to Bacon City in the Carnoeck system. 
+Pilots are requested to recover Occupied Escape Pods, Black Boxes and Wreckage Components, and deliver them to [[Bacon City in the Carnoeck]] system. 
 
-The campaign begins on the 17th of May 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 17th of May 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

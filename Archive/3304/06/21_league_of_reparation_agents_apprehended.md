@@ -19,14 +19,14 @@ significance: high
 League of Reparation Agents Apprehended
 
 
-A homicide attempt by terrorist organisation the League of Reparation has been foiled, and the would-be killers taken into custody. 
+A homicide attempt by terrorist organisation [[The]] League of Reparation has been foiled, and the would-be killers taken into custody. 
 
-The arrests were made by Chief Inspector Kay Kilbride of Alliance Interpol, who is part of the united taskforce investigating the League. She released this statement: 
+The arrests were made by Chief Inspector Kay Kilbride of [[Alliance]] Interpol, who is part of the united taskforce investigating the League. She released [[This]] statement: 
 
-“I am pleased to confirm that the latest assassination attempt by the League of Reparation has been prevented, and that we have apprehended several of the group’s members.” 
+“I am pleased to confirm that the latest assassination attempt by the League of Reparation has been prevented, and that we have apprehended [[Several]] of the group’s members.” 
 
-“The operation involved revealing the location of one Dinah Law, a descendant of INRA employee Trystan Law. We anticipated that the League would follow its modus operandi and attempt to eliminate Ms Law, so with her cooperation we placed taskforce agents at her home. Fortunately, there were able to overpower the terrorists.” 
+“The operation involved revealing the location of [[One]] Dinah Law, a descendant of [[INRA]] employee Trystan Law. We anticipated that the League would follow [[Its]] modus operandi and attempt to eliminate Ms Law, so [[With]] her cooperation we placed taskforce agents at her home. Fortunately, there were able to overpower the terrorists.” 
 
-“The captives have been transported to a secure Interpol facility for interrogation. Our primary aim is to establish the identity of Nexus – the entity that provides the organisation’s members with their instructions. I have already conducted preliminary questioning of the prisoners and have acquired some significant facts.” 
+“The captives have been transported to a secure Interpol facility for interrogation. [[Our]] primary aim is to establish the identity of Nexus – the entity that provides the organisation’s members with their instructions. I have already conducted preliminary questioning of the prisoners and have acquired some significant facts.” 
 
 “I’m confident that this is the beginning of the end for the League of Reparation, and that the taskforce’s efforts will soon pay off.”

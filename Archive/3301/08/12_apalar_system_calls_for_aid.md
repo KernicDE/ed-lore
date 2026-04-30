@@ -18,15 +18,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Apalar System Calls for Aid
+[[Apalar]] System Calls for Aid
 
 
-Apalar System Calls for Aid 
+[[Apalar]] System Calls for Aid 
  
-The government of the Apalar system has issued an unusual request, inviting independent pilots to help them elevate their system’s economy. According to Omar Jordan, governor of Svavarsson Terminal, the system is strategically positioned between the territories of several major powers, and is therefore ideally placed to provide these powers with services. The governor said: 
+[[The]] government of [[The]] Apalar system has issued an unusual request, inviting [[Independent]] pilots to help them elevate their system’s economy. [[According to]] Omar Jordan, governor of Svavarsson Terminal, the system is strategically positioned between the territories of [[Several]] major powers, and is therefore ideally placed to provide these powers [[With]] services. The governor said: 
 
-“Our system is bordered by the territories of Archon Delaine, Zachary Hudson, Zemina Torval and Denton Patrius. Surely these individuals can understand the benefit of having an independent high tech system on their doorstep?” 
+“[[Our]] system is bordered by the territories of Archon Delaine, [[Zachary Hudson]], [[Zemina Torval]] and [[Denton]] Patrius. Surely these individuals can understand the benefit of having an [[Independent]] high tech system on their doorstep?” 
 
-Governor Jordan did not directly address the threat posed by Archon Delaine’s forces, which are closer to the Apalar system than those of any other power, but it seems safe to assume that one of the factors behind the appeal is a desire to counter this danger. After all, if Apalar could enhance its economy, it could convince one of the other powers to bring it under their control, thereby reducing the chances of a takeover from Delaine. 
+Governor [[Jordan did not directly address]] the threat posed by Archon Delaine’s forces, [[Which]] are closer to the Apalar system than those of any [[Other]] power, but it seems safe to assume that [[One]] of the factors behind the appeal is a desire to counter [[This]] danger. After all, if Apalar could enhance [[Its]] economy, it could convince [[One]] of the [[Other]] powers to bring it under their control, thereby reducing the chances of a takeover from Delaine. 
 
-Apalar Labour is offering rewards to independent pilots who assist with this effort by delivering industrial materials to Svavarsson Terminal in the Apalar system.
+Apalar Labour is offering rewards to independent pilots who assist [[With]] [[This]] effort by delivering industrial materials to Svavarsson Terminal in the Apalar system.

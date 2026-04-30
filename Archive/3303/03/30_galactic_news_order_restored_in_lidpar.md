@@ -19,8 +19,8 @@ significance: low
 Galactic News: Order Restored in Lidpar
 
 
-The Union of Lidpar Green Party has announced that its campaign to clear the Lidpar system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. The Union of Lidpar Green Party also stated that its appeal for Battle Weapons, Reactive Armour and Advanced Medicines had reached a successful conclusion. 
+[[The]] Union of Lidpar Green Party has announced that [[Its]] campaign to clear the Lidpar system of agitators has been a success. [[Hundreds of]] pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. The Union of Lidpar Green Party also stated that its appeal for Battle Weapons, Reactive Armour and Advanced Medicines had reached a successful conclusion. 
 
-Authorities in the Lidpar system have extended their gratitude to those who participated in the operation. 
+[[Authorities in the Lidpar]] system have extended their gratitude to those who participated in the operation. 
 
-Pilots who contributed to the initiative can now collect their rewards from Carlisle Station in the Lidpar system.
+Pilots who contributed to the initiative can now collect their rewards from [[Carlisle Station in the Lidpar]] system.

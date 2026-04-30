@@ -24,13 +24,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-CIRG Sends Scientists to Bond Hub
+CIRG Sends Scientists to [[Bond Hub]]
 
 
-Mere hours after the Canonn Interstellar Research Group defeated the Labour of Varati in the recent Bond Hub election, more than fifty CIRG scientists arrived at Bond Hub from Thompson Dock. The scientists were accompanied by tonnes of equipment, which has been installed in makeshift labs. Professor D Luffy, lead scientist for the team, explained what was happening: 
+Mere hours after [[The]] [[Canonn Interstellar Research Group]] defeated the Labour of [[Varati]] in the recent Bond Hub election, more than fifty CIRG scientists arrived at Bond Hub from Thompson Dock. The scientists were accompanied by tonnes of equipment, [[Which]] has been installed in makeshift labs. Professor [[D Luffy]], lead scientist for the team, explained what was happening: 
 
-"First, we thank the residents of Bond Hub for calling for this election, voting for us, and allowing us to continue our work on the Unknown Artefacts. We have pledged to investigate the station malfunctions that have dominated the news in recent weeks, and since Bond is also affected we have an opportunity to put it at the heart of our research." 
+"First, we thank the residents of Bond Hub for calling for [[This]] election, voting for us, and allowing us to continue [[Our]] work on the Unknown Artefacts. We have pledged to investigate the station malfunctions that have dominated the news in recent weeks, and since Bond is also affected we have an opportunity to put it at the heart of our research." 
 
-"Our teams have started monitoring the malfunctions side-by-side with UAs brought from the Merope shell, so we can determine the exact nature of the UAs' relationship to these malfunctions." 
+"Our teams have started monitoring the malfunctions side-by-side [[With]] UAs brought from the [[Merope]] shell, so we can determine the exact nature of the UAs' relationship to these malfunctions." 
 
-Commander Lord Zoltan
+Commander [[Lord Zoltan]]

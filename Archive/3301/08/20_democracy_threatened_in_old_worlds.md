@@ -29,12 +29,12 @@ Democracy Threatened in Old Worlds
 
 Democracy Threatened in Old Worlds 
  
-Allegations have surfaced from sources close to the office of Prime Minister Edmund Mahon that unnamed elements within the Pilots Federation are deliberately undermining democratic factions in the Old Worlds. These groups are allegedly scheming to push corporate governments into power to strengthen trade agreements with Alioth. 
+Allegations have surfaced from sources close to [[The]] office of Prime Minister [[Edmund Mahon]] that unnamed elements within [[The]] [[Pilots Federation]] are deliberately undermining democratic factions in the Old Worlds. These groups are allegedly scheming to push corporate governments into power to strengthen trade agreements [[With]] [[Alioth]]. 
 
-The Lave system appears to be the latest victim of these efforts. With support from independent pilots, the incorporated Lave Fortune Organization has become the most influential faction in the system. If they are successful, Lave will become the third system in the cluster – after Leesti and Reorte – to have its democratic government overthrown by a corporation. 
+[[The Lave]] system appears to be the latest victim of these efforts. [[With]] support from [[Independent]] pilots, the incorporated [[Lave]] Fortune Organization has become the most influential faction in the system. If they are successful, [[Lave will become the third]] system in the cluster – after [[Leesti]] and [[Reorte]] – to have [[Its]] democratic government overthrown by a corporation. 
 
-The rise of the Alliance as a galactic power has brought prosperity to the Old Worlds, but commentators fear that its basic principles are being undercut by Edmund Mahon in order to protect trade interests. The Prime Minister’s office has yet to respond to these allegations. 
+The rise of the [[Alliance]] as a galactic power has brought prosperity to the Old Worlds, but commentators fear that [[Its]] basic principles are being undercut by [[Edmund Mahon]] in order to protect trade interests. The Prime Minister’s office has yet to respond to these allegations. 
 
 Commander Kulzar (AKA Léonard Chamberlain) 
 
-Allied News Service | Interstellar Press
+[[Allied]] News Service | [[Interstellar Press]]

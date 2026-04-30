@@ -19,6 +19,6 @@ significance: low
 Blaine Refuses Patreus’s Request
 
 
-Chancellor Blaine made a rare appearance at today’s Senate meeting in order to address remarks made earlier in the week by Senator Denton Patreus. 
+[[Chancellor Blaine made]] a rare appearance at today’s Senate meeting in order to address remarks made earlier in [[The]] week by [[Senator [[Denton]] Patreus]]. 
 
-“It is with regret that I must deny the honourable Senator’s request to access the Emperor’s medical records. As has always been the case, for reasons of national security his Majesty’s medical records are only accessible by the Emperor’s personal physicians. Should his Majesty's condition change in any way, for better or for worse, I will make sure to inform the Senate as soon as possible. Until such an event comes to pass, I will continue to act in the Emperor’s stead, according to his will. As for the question of succession, that will be addressed when the situation calls for it and not before.”
+“It is [[With]] regret that I must deny [[The]] honourable Senator’s request to access the Emperor’s medical records. As has always been the case, for reasons of national security his Majesty’s medical records are only accessible by the Emperor’s personal physicians. Should his Majesty's condition change in any way, for better or for worse, I will make sure to inform the Senate as soon as possible. Until such an event comes to pass, I will continue to act in the Emperor’s stead, [[According to]] his will. As for the question of succession, that will be addressed when the situation calls for it and not before.”

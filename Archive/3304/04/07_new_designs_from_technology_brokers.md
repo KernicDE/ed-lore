@@ -21,10 +21,10 @@ significance: high
 New Designs from Technology Brokers
 
 
-A range of new Guardian-inspired modules are now available from the galaxy’s technology brokers. These modules have been developed by the engineer Ram Tah, following his acquisition of data from Guardian sites. 
+A range of new Guardian-inspired modules are now available from [[The]] galaxy’s technology brokers. These modules have been developed by the engineer [[Ram Tah]], following his acquisition of data from Guardian sites. 
 
 Pilots can now purchase a Guardian power distributor, a Guardian FSD booster and a Guardian shard cannon. The cannon is available in both fixed and turreted versions. 
 
-An independent engineering specialist made this comment: 
+An [[Independent]] engineering specialist made [[This]] comment: 
 
 “These Guardian-human hybrid modules offer additional resilience and firepower – both very welcome to Commanders flying combat missions. By taking advantage of the Guardians’ expertise, we may be able to replicate their success in fighting the Thargoids.”

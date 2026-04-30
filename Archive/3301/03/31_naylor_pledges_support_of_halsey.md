@@ -14,13 +14,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Naylor Pledges Support of Halsey
+[[Naylor]] Pledges Support of Halsey
 
 
-After Shadow President Hudson’s scathing attack on President Halsey earlier this morning, Vice President Naylor has sworn to continue his support of President Halsey. 
+After [[Shadow President]] Hudson’s scathing attack on President [[Halsey earlier [[This]] morning]], Vice President [[Naylor]] has sworn to continue his support of President Halsey. 
 
-“The President has had to make some hard decisions. Is she always right? That’s not for me to say. What I can say is that if I were in her shoes, having to make decisions based on the same information, I would have almost certainly made the same decisions.” 
+“[[The]] President has had to make some hard decisions. Is she always right? That’s not for me to say. What I can say is that if I were in her shoes, having to make decisions based on [[The]] same information, I would have almost certainly made the same decisions.” 
 
-“Loss of life is always regrettable, as is the loss of any member states from our great galactic Federation. However, none of that justifies the vitriol displayed by Shadow President Hudson earlier today.” 
+“Loss of life is always regrettable, as is the loss of any member states from [[Our]] great galactic Federation. However, none of that justifies the vitriol displayed by [[Shadow President]] Hudson earlier today.” 
 
-“We all know Hudson is desperate to get into office, but in the Federation it is the people who choose their leader, and they didn’t choose him. They chose Jasmina Halsey to serve as President, and until the people say otherwise, it is President Halsey I follow.”
+“We all know Hudson is desperate to get into office, but in the Federation it is the people who choose their leader, and they didn’t choose him. They chose [[Jasmina Halsey]] to serve as President, and until the people say otherwise, it is President Halsey I follow.”

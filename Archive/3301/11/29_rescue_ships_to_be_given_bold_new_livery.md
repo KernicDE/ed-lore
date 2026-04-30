@@ -20,8 +20,8 @@ significance: low
 Rescue Ships to be Given Bold New Livery
 
 
-A joint initiative from the Pilots Federation and the Fuel Rats has resulted in a distinctive new colour scheme for search-and-rescue vessels. The livery has been designed to assist with the instant recognition of friendly rescue ships, thereby minimising unintentional attacks and soothing the nerves of those in need of rescue. 
+A joint initiative from [[The]] [[Pilots Federation]] and the [[Fuel Rats]] has resulted [[In a]] distinctive new colour scheme for search-and-rescue vessels. The livery has been designed to assist [[With the]] instant recognition of friendly rescue ships, thereby minimising unintentional attacks and soothing the nerves of those in need of rescue. 
 
-The unique colour scheme was created by a member of the Fuel Rats Mischief, an auxiliary of the celebrated volunteer-run rescue service. The designer, who goes by the name of Commander Father Cool, originally intended the livery to be used by the Fuel Rats, but ultimately the Pilots Federation decided it would be more suitable as a colour scheme for dedicated search-and-rescue vessels. 
+The unique colour scheme was created by a member of the Fuel Rats Mischief, an auxiliary of the celebrated volunteer-[[Run]] rescue service. The designer, who goes by the name of Commander [[Father Cool]], originally intended the livery to be used by the Fuel Rats, but ultimately the Pilots Federation decided it would be more suitable as a colour scheme for dedicated search-and-rescue vessels. 
 
 The new paint scheme will soon be seen on search-and-rescue ships throughout inhabited space.

@@ -16,10 +16,10 @@ significance: low
 Rind Gold Electronics Org Campaign Concludes
 
 
-The Rind Gold Electronics Org Campaign has announced that its campaign has reached a successful conclusion. Large quantities of research materials and mined resources were delivered to Wegner Market over the past week, allowing the Empire to proceed with the construction of a new pilot-training centre. 
+[[The]] Rind Gold Electronics Org Campaign has announced that [[Its]] campaign has reached a successful conclusion. Large quantities of research materials and mined resources were delivered to Wegner Market over the past week, allowing the Empire to proceed [[With the]] construction of a new pilot-training centre. 
 
-A spokesperson for the Rind Gold Electronics Org released the following statement: 
+A spokesperson for the Rind Gold Electronics Org released [[The following]] statement: 
 
-“As the dangers facing humanity become more potent, we must not become overly reliant on technology. Instead we must seek to cultivate the human mind, and unlock its boundless potential.” 
+“[[As the]] dangers facing humanity become more potent, we must not become overly reliant on technology. Instead we must seek to cultivate the human mind, and unlock its boundless potential.” 
 
 Pilots who contributed to the initiative can now collect their rewards from Wegner Market in the Rind system.

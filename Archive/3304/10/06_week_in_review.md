@@ -31,18 +31,18 @@ significance: high
 Week in Review
 
 
-Here are this week’s major stories. 
+Here are [[This]] week’s major stories. 
 
-Fazia Silva, one of the three candidates in the Alliance presidential race, has been found dead. There has been speculation that the murder was a political killing, motivated by Silva’s proposed changes to Alliance financial policy. Condolences have been delivered by Prime Minister Edmund Mahon and both of Ms Silva’s election rivals, Gibson Kincaid and Elijah Beck. 
+Fazia Silva, [[One]] of [[The]] three candidates in the [[Alliance]] presidential race, has been [[Found]] dead. There has been speculation that the murder was a political killing, motivated by Silva’s proposed changes to Alliance financial policy. Condolences have been delivered by Prime Minister [[Edmund Mahon]] and both of Ms Silva’s election rivals, [[Gibson Kincaid]] and Elijah Beck. 
 
-Technology company Herculean Machines dominated the recent Rackham Ultratech Expo, which took place on Wednesday 3rd October. Billionaire Zachary Rackham was delighted with Herculean’s Duradrive, and agreed to authorise preliminary funding for the device. The Torc, a rival product from Supratech, had a less successful showing. 
+Technology company Herculean Machines dominated the recent Rackham Ultratech Expo, [[Which]] took place on Wednesday 3rd [[October]]. Billionaire [[Zachary Rackham]] was delighted [[With]] Herculean’s Duradrive, and agreed to authorise preliminary funding for the device. The Torc, a rival product from Supratech, had a less successful showing. 
 
-In other news, the Federal Security Service has discovered more administration robots fitted with secret surveillance programs. In each case, the robot was a PA912 model, manufactured by the Achilles Corporation. The company has announced that it is cooperating with the FSS investigation. 
+In [[Other]] news, the [[Federal Security Service]] has discovered more administration robots fitted with secret surveillance programs. In [[Each]] case, the robot was a PA912 model, manufactured by the Achilles Corporation. The company has announced that it is cooperating [[With the]] FSS investigation. 
 
-Juanita Bishop has failed to be elected to Federal Congress. Many of Bishop’s followers have abandoned her in the wake of Gethin Okonkwo’s investigation, which found no connection between the Far God sect and the Thargoids, while Congress members have taken a stand against Mrs Bishop for cultivating civil unrest. 
+Juanita Bishop has failed to be elected to [[Federal Congress]]. [[Many]] of Bishop’s followers have abandoned her in the wake of Gethin Okonkwo’s investigation, which found no connection between the [[Far]] God sect and the Thargoids, while Congress members have taken a stand against Mrs Bishop for cultivating civil unrest. 
 
-Meanwhile, media organisation Broadcast Cobra has announced its intention to build a megaship in the HIP 16038 system. The organisation, which specialises in politics and current events, aims to reach a wider audience with the construction of this mobile studio, and has placed an open order for materials to facilitate construction. 
+Meanwhile, media organisation Broadcast Cobra has announced [[Its]] intention to build a megaship in the HIP 16038 system. The organisation, which specialises in politics and current events, aims to reach a wider audience with the construction of this mobile studio, and has placed an open order for materials to facilitate construction. 
 
-Finally, Mould Federal Mining Incorporated has confirmed that its appeal for commodities to supply an Oktoberfest celebration in the Bhagui system has been enthusiastically received by the galactic community. Hundreds of pilots supported the campaign by delivering commodities to Leavitt Port, and by protecting traders in the Bhagui system. 
+Finally, Mould Federal Mining Incorporated has confirmed that its appeal for commodities to supply an Oktoberfest celebration in the [[Bhagui]] system has been enthusiastically received by the galactic community. [[Hundreds of]] pilots supported the campaign by delivering commodities to Leavitt Port, and by protecting traders in the Bhagui system. 
 
 And those are the main stories this week.

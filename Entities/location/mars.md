@@ -1,0 +1,34 @@
+---
+id: mars
+name: Mars
+type: location
+first_seen_date: '3301-02-17'
+last_seen_date: '3311-12-18'
+mention_count: 85
+related_entities:
+- sol
+- alliance
+- federal-security-service
+- zachary-hudson
+- federal-times
+---
+
+<!-- AUTO-GENERATED -->
+
+# Mars
+
+First mentioned: **3301-02-17**  
+Last mentioned: **3311-12-18**  
+Total mentions: **85**
+
+## Related
+
+- [[Sol]] (19 co-mentions)
+- [[Alliance]] (15 co-mentions)
+- [[Federal Security Service]] (12 co-mentions)
+- [[Zachary Hudson]] (10 co-mentions)
+- [[Federal Times]] (9 co-mentions)
+
+## Biography
+
+*[To be enriched]*

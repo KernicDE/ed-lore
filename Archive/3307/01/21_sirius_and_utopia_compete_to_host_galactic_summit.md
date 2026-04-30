@@ -26,11 +26,11 @@ legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
-Rival initiatives to arrange a diplomatic conference have been launched by Sirius Corporation and the Utopia commune.
-The Alliance Assembly, Federal Congress and Imperial Senate have each provisionally agreed to send delegates to the first tri-superpower Galactic Summit in late February. This political gathering will also be attended by representatives from independent systems.
-All parties have specified that their participation depends upon the event being successfully organised in neutral territory, and with sufficient resources and security in place. 
-Sirius Corporation and Utopia have begun to gather supplies to host the conference. Both have requested assistance from the galactic community to provide a broad range of data, which will be vital for planning security operations. Whichever organisation obtains the greatest amount of data will be deemed most suitable.
-The following data sources are of interest to both parties: anomalous bulk scan data, atypical disrupted wake echoes, exceptional scrambled emission data and unusual encrypted files.
-Simguru Pranav Antal has called upon all pilots who support Utopia’s proposal to deliver the data to Tanner Settlement in the Polevnic system.
-CEO Li Yong-Rui has asked all those who believe Sirius Corporation to be a more suitable host to deliver the data to Goldstein Port in the Lembava system.
+*[[Pilots Federation]] ALERT*
+Rival initiatives to arrange a diplomatic conference have been launched by [[Sirius Corporation]] and [[The]] [[Utopia]] commune.
+The [[Alliance]] Assembly, [[Federal Congress]] and [[Imperial Senate]] have [[Each]] provisionally agreed to send delegates to the first tri-superpower Galactic Summit in late February. [[This]] political gathering will also be attended by representatives from [[Independent]] systems.
+All parties have specified that their participation depends upon the event being successfully organised in neutral territory, and [[With]] sufficient resources and security in place. 
+Sirius Corporation and Utopia have begun to gather supplies to host the conference. Both have requested assistance from the galactic community to provide a broad range of data, [[Which]] will be vital for planning security operations. Whichever organisation obtains the greatest amount of data will be deemed most suitable.
+[[The following]] data sources are of interest to both parties: anomalous bulk scan data, atypical disrupted wake echoes, exceptional scrambled emission data and unusual encrypted files.
+Simguru Pranav Antal has called upon all pilots who support Utopia’s proposal to deliver the data to [[Tanner Settlement in the Polevnic]] system.
+CEO [[Li Yong-Rui]] has asked all those who believe Sirius Corporation to be a more suitable host to deliver the data to Goldstein Port in the Lembava system.

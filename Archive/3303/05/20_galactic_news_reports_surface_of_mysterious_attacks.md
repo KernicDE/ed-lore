@@ -16,9 +16,9 @@ significance: low
 Galactic News: Reports Surface of Mysterious Attacks
 
 
-Reports have surfaced of mysterious attacks in the Maia system, where eyewitnesses claim to have found the remains of a number of Federal vessels. 
+Reports have surfaced of mysterious attacks in [[The]] [[Maia]] system, where eyewitnesses claim to have [[Found]] the remains of a number of Federal vessels. 
 
-According to reports, the damage to the ships’ hulls was not consistent with any known form of weaponry. Furthermore, several observers claim to have seen the so-called unknown ships at the wreckage sites. Attempts to intercept the ships were unsuccessful. 
+[[According to]] reports, the damage to the ships’ hulls was not consistent [[With]] any known form of weaponry. Furthermore, [[Several]] observers claim to have seen the so-called unknown ships at the wreckage sites. Attempts to intercept the ships were unsuccessful. 
 
 Chief of Federal Security Admiral Aden Tanner, who is understood to be investigating the mysterious ships, addressed the reports: 
 

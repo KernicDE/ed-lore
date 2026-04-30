@@ -23,8 +23,8 @@ Cold Ice, Warm Trail
 
 Cold Ice, Warm Trail 
  
-Early this morning, an Imperial Navy commando unit uncovered a hidden forward command post for the Kumo Crew invasion force in the Tjakiri system. There was evidence that the site had been occupied as recently as half an hour prior to the raid, as ice was found in a glass in the abandoned command centre. DNA from stray hair follicles was analyzed by a forensics team – the results were a match for Archon Delaine. 
+Early [[This]] morning, an [[Imperial Navy]] commando unit uncovered a hidden forward command post for [[The]] [[Kumo Crew]] invasion force in [[The]] [[Tjakiri]] system. There was evidence that the site had been occupied as recently as half an hour prior to the raid, as ice was [[Found]] [[In a]] glass in the abandoned command centre. DNA from stray hair follicles was analyzed by a forensics team – the results were a match for Archon Delaine. 
 
-"It's frustrating to think that we missed apprehending the most wanted man in the galaxy by mere minutes", commented one of the commandoes, "but every day we come a little closer to getting our man.” 
+"It's frustrating to think that we missed apprehending the most wanted man in the galaxy by mere minutes", commented [[One]] of the commandoes, "but [[Every]] day we come a little closer to getting [[Our]] man.” 
 
-Commander Corrigendum
+Commander [[Corrigendum]]

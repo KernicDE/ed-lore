@@ -21,17 +21,17 @@ legacy_weight: 4
 significance: high
 ---
 
-Nova Imperium Demands New Emperor
+[[Nova Imperium]] Demands New Emperor
 
 
-Isolationist group Nova Imperium has declared its intention to install a new Emperor. 
+Isolationist group Nova Imperium has declared [[Its]] intention to install a new Emperor. 
 
-The group’s leader, recently identified as ex-navy admiral Duke Kaeso Mordanticus and known as the Imperator, said: 
+[[The]] group’s leader, recently identified as ex-navy admiral Duke Kaeso Mordanticus and known [[As the]] Imperator, said: 
 
-“The Empire has been weakened by collaborating with its enemies. Aegis drains our resources to protect foreign systems from the Thargoids, our security forces are stretched thin defending non-Imperial systems, and Princess Duval sullies her honourable name by dallying with a Federal libertine.” 
+“The Empire has been weakened by collaborating [[With]] its enemies. [[Aegis]] drains [[Our]] resources to protect foreign systems from the Thargoids, our security forces are stretched thin defending non-Imperial systems, and Princess Duval sullies her honourable name by dallying with a Federal libertine.” 
 
-“Our people demand stronger leadership. We will achieve this by installing a new Emperor – one who will restore the glory of the Empire!” 
+“Our people demand stronger leadership. We will achieve [[This]] by installing a new Emperor – [[One]] who will restore the glory of the Empire!” 
 
-Political journalist Cassia Carvalho commented in The Imperial Herald: 
+Political journalist Cassia Carvalho commented in The [[Imperial Herald]]: 
 
-“Naturally there has been no response from Arissa Lavigny-Duval. But for many citizens, Mordanticus has articulated their unease about inter-superpower cooperation. With support for Nova Imperium increasing rapidly, a silent minority may now have found a voice.”
+“Naturally there has been no response from Arissa [[Lavigny-Duval]]. But for [[Many]] citizens, Mordanticus has articulated their unease about inter-superpower cooperation. With support for Nova Imperium increasing rapidly, a silent minority may now have [[Found]] a voice.”

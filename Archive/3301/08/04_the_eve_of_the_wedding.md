@@ -13,13 +13,13 @@ legacy_weight: 4
 significance: high
 ---
 
-The Eve of the Wedding
+[[The]] Eve of [[The]] Wedding
 
 
 The Eve of the Wedding 
  
-The atmosphere here on Capitol is electric. The whole city is abuzz with what some commentators have declared ‘The Wedding of the Century’. Street parties are in full swing in every Imperial system , but none compare to the grand events underway here at the birthplace of the Empire, especially within the Fragrant City as it is now known. 
+The atmosphere here on [[Capitol]] is electric. The whole city is abuzz [[With]] what some commentators have declared ‘The Wedding of the Century’. Street parties are in full swing in [[Every]] Imperial system , but none compare to the grand events underway here at the birthplace of the Empire, especially within the Fragrant City as it is now known. 
 
-Dignitaries from every major population centre in the Empire have arrived over the past week, and now it is the turn of the foreign dignitaries to arrive with much fanfare. Shadow President Winters is representing the Federation, her business-like attire contrasting with the bright colours of the welcoming officials. 
+Dignitaries from [[Every]] major population centre in the Empire have arrived over the past week, and now it is the turn of the foreign dignitaries to arrive [[With]] much fanfare. [[Shadow President]] Winters is representing the Federation, her business-like attire contrasting [[With the]] bright colours of the welcoming officials. 
 
-Notable by his absence was Federal President Zachary Hudson. While the Secretary of External Affairs will represent the Federation at the wedding , many have interpreted President Hudson’s absence as a slight – one that may well colour Federal and Imperial relations in the future.
+Notable by his absence was Federal [[President Zachary Hudson]]. While the Secretary of External Affairs will represent the Federation at the wedding , [[Many]] have interpreted President Hudson’s absence as a slight – [[One]] that may well colour Federal and Imperial relations in the future.

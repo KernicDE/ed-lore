@@ -19,14 +19,14 @@ legacy_weight: 2
 significance: low
 ---
 
-Launching the Colonies
+Launching [[The]] Colonies
 
 
-Almost a thousand years ago, a corporate colonisation project from Earth set out on a trip to find a new home among the stars. The colonists settled in the Sirius system, where they became one of the leading suppliers of drive fuel anywhere in the galaxy, and so the Sirius Corporation was born. 
+Almost a thousand years ago, a corporate colonisation project from [[Earth]] set out on a trip to find a new home among [[The]] stars. [[The colonists settled in the Sirius]] system, where they became [[One]] of the leading suppliers of drive fuel anywhere in the galaxy, and so the [[Sirius Corporation]] was born. 
 
-The Sirius Corporation has a long history of colonising worlds beyond the borders of occupied space, which is why the Sirius Corporation is pleased to announce that it will be returning to its roots with the launch of 9 new colonial outposts, all of which should start being deployed within the next 14 days. 
+[[The Sirius]] Corporation has a long history of colonising worlds beyond the borders of occupied space, [[Which]] is why the [[Sirius Corporation]] is pleased to announce that it will be returning to [[Its]] roots [[With the]] launch of 9 new colonial outposts, all of [[Which]] should start being deployed within the next 14 days. 
 
-The 9 systems chosen to act as new homes to Sirius Corporation colonists are: 
+[[The 9]] systems chosen to act as new homes to Sirius Corporation colonists are: 
 
 The Wredguia Colony Cluster 
 
@@ -44,7 +44,7 @@ Sirius Outposts
 
 Gliese 97.2  
 
-HIP 8396  
+[[HIP 8396]]  
 
 Col 285 Sector WA-L b9-3 
 

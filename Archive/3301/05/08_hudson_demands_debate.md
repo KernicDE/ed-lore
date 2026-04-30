@@ -12,10 +12,10 @@ significance: low
 Hudson Demands Debate
 
 
-It looks like the President may not be taking her planned tour after all, following news that Shadow President Hudson has publicly challenged President Halsey to a live policy debate on the popular Federal political stream show ‘Face the People’. 
+It looks like [[The]] President may not be taking her planned tour after all, following news that [[Shadow President]] Hudson has publicly challenged President Halsey to a live policy debate on [[The]] popular Federal political stream show ‘Face the People’. 
 
-So far, the President’s office has declined to offer an official response to Shadow President Hudson’s request.  
+So [[Far]], the President’s office has declined to offer an official response to [[Shadow President]] Hudson’s request.  
 
-The President is now in the unenviable position of having to turn down the Shadow President’s request, which risks making the President appear weak at a time when she needs to appear strong in order to turn public opinion around. The alternative is being forced to cancel her trip, which could potentially lose her whatever support she’s managed to muster among her frontier followers. 
+The President is now in the unenviable position of having to turn down the Shadow President’s request, [[Which]] risks making the President appear weak at a time when she needs to appear strong in order to turn public opinion around. The alternative is being forced to cancel her trip, [[Which]] could potentially lose her whatever support she’s managed to muster among her frontier followers. 
 
 As always, stay tuned to GalNet for more information as it becomes available.

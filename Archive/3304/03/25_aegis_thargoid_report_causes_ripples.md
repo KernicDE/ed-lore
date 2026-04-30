@@ -22,19 +22,19 @@ legacy_weight: 5
 significance: high
 ---
 
-Aegis Thargoid Report Causes Ripples
+[[Aegis]] [[Thargoid]] Report Causes Ripples
 
 
-A recent report from Aegis, outlining the Thargoids’ history and their interactions with the Guardians, has elicited a wide range of responses. 
+A recent report from Aegis, outlining [[The]] Thargoids’ history and their interactions [[With the]] Guardians, has elicited a wide range of responses. 
 
-A brief statement was released by Federal President Zachary Hudson:  
+A brief statement was released by Federal [[President Zachary Hudson]]:  
 
-“It is now clear that there is no reasoning with this alien menace. The Federation remains dedicated to wiping out any threat to our citizens.” 
+“It is now clear that there is no reasoning [[With]] [[This]] alien menace. The Federation remains dedicated to wiping out any threat to [[Our]] citizens.” 
 
-Imperial Admiral Denton Patreus adopted a similar viewpoint:  
+Imperial Admiral [[Denton Patreus]] adopted a similar viewpoint:  
 
 “This new information makes it clear that the Thargoids will reject any diplomatic overtures. We must redouble our efforts to defend ourselves from their antagonism.” 
 
-Meanwhile, Professor Palin observed:  
+Meanwhile, [[Professor Palin]] observed:  
 
-“Aegis’s report forewarns us, and perhaps forearms us, too. We now know that the Guardians developed technologies capable of resisting the Thargoids’ aggression. Therefore, it is not unreasonable to hope that the weaponry being developed by Ram Tah, based on Guardian designs, might help us replicate the Guardians’ success, and defeat the Thargoids.”
+“Aegis’s report forewarns us, and perhaps forearms us, too. We now know that the Guardians developed technologies capable of resisting the Thargoids’ aggression. Therefore, it is not unreasonable to hope that the weaponry being developed by [[Ram Tah]], based on Guardian designs, might help us replicate the Guardians’ success, and defeat the Thargoids.”

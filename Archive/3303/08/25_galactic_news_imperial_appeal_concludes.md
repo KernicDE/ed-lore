@@ -22,8 +22,8 @@ significance: low
 Galactic News: Imperial Appeal Concludes
 
 
-Secoya Emperor's Grace has announced that its appeal for luxury goods has been enthusiastically received by the galactic community. Hundreds of pilots responded to the appeal by delivering commodities to Joy Port for this year’s Sigma Summit, a conference attended by some of the Empire’s most powerful individuals. 
+[[Secoya]] [[Emperor's Grace]] has announced that [[Its]] appeal for luxury goods has been enthusiastically received by [[The]] galactic community. [[Hundreds of]] pilots responded to the appeal by delivering commodities to Joy Port for [[This]] year’s Sigma Summit, a conference attended by some of the Empire’s most powerful individuals. 
 
-Censure of the event failed to deter traders or intimidate this year’s guest of honour, Imperial Senator Zemina Torval, who responded to criticism by saying simply “The Summit is an institution.” 
+Censure of the event failed to deter traders or intimidate this year’s guest of honour, Imperial Senator [[Zemina Torval]], who responded to criticism by saying simply “The Summit is an institution.” 
 
 Pilots who contributed to the initiative can now collect their rewards from Joy Port in the Secoya system.

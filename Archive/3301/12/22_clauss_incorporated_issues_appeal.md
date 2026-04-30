@@ -17,12 +17,12 @@ legacy_weight: 2
 significance: low
 ---
 
-Clauss Incorporated Issues Appeal
+[[Clauss Incorporated]] Issues Appeal
 
 
-The Clauss Incorporated organisation, a galaxy-wide distributor of luxury commodities, has issued a public appeal for Special Gifts. The company CEO, Nicolas St Clauss, has released a statement to the media, which is reprinted in full below: 
+[[The]] Clauss Incorporated organisation, a galaxy-wide distributor of luxury commodities, has issued a public appeal for Special Gifts. The company CEO, Nicolas St Clauss, has released a statement to the media, [[Which]] is reprinted in full below: 
 
-"We at Clauss Incorporated specialise in bringing joy to the people of this vast and wonderful galaxy. But fulfilling the hopes and dreams of so many is a difficult task, and this year we're experiencing increased demand for Special Gifts. So we're asking all you talented pilots to help us by transporting Special Gifts from Frost Dock in the Njambalba system to Clauss Port in the Santa Muerte system. We're willing to offer generous financial incentives to those who help, and we'll even be giving new ships to novice pilots who contribute to our appeal*." 
+"We at Clauss Incorporated specialise in bringing joy to the people of [[This]] vast and wonderful galaxy. But fulfilling the hopes and dreams of so [[Many]] is a difficult task, and this year we're experiencing increased demand for Special Gifts. So we're asking all you talented pilots to help us by transporting Special Gifts from [[Frost Dock in the Njambalba]] system to [[Clauss Port in the Santa Muerte]] system. We're willing to offer generous financial incentives to those who help, and we'll even be giving new ships to novice pilots who contribute to [[Our]] appeal*." 
 
 "Sincerely, 
 

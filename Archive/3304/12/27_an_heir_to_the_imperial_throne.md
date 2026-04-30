@@ -17,19 +17,19 @@ legacy_weight: 2
 significance: low
 ---
 
-An Heir to the Imperial Throne?
+An Heir to [[The]] Imperial Throne?
 
 
-Imperial senators supporting the isolationist group Nova Imperium have demanded that Emperor Arissa Lavigny-Duval acknowledge its figurehead, Hadrian Augustus Duval. 
+Imperial senators supporting the isolationist group [[Nova Imperium]] have demanded that [[Emperor Arissa Lavigny-Duval]] acknowledge [[Its]] figurehead, Hadrian Augustus Duval. 
 
-Senator Eloise Winterstone proclaimed to the Senate: 
+Senator [[Eloise Winterstone proclaimed]] to the Senate: 
 
-“The Imperial family must officially recognise Hadrian Duval as one of its own. Given that the Emperor has no children, such an act would secure the future of the Duval bloodline.” 
+“The Imperial family must officially recognise Hadrian Duval as [[One]] of its own. Given that the Emperor has no children, such an act would secure the future of the Duval bloodline.” 
 
-Chancellor Anders Blaine replied: 
+[[Chancellor Anders Blaine]] replied: 
 
-“Our official position is that Nova Imperium is a fringe organisation with no right to determine policy. We have no more to say on the matter.” 
+“[[Our]] official position is that Nova Imperium is a fringe organisation [[With]] no right to determine policy. We have no more to say on the matter.” 
 
-Political journalist Cassia Carvalho wrote in The Imperial Herald: 
+Political journalist Cassia Carvalho wrote in The [[Imperial Herald]]: 
 
-“With the possibility of civil war increasing, the suggestion that Arissa accept Hengist Duval’s grandson as an heir feels like a reasonable compromise. Her lack of response so far has led to accusations of weakness, with many calling on her to step down and for Hadrian Duval to be instated as sovereign ruler.”
+“[[With the]] possibility of civil war increasing, the suggestion that Arissa accept [[Hengist Duval]]’s grandson as an heir feels like a reasonable compromise. Her lack of response so [[Far]] has led to accusations of weakness, with [[Many]] calling on her to step down and for Hadrian Duval to be instated as sovereign ruler.”

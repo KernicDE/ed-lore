@@ -14,11 +14,11 @@ significance: low
 Freelance Report: CIMA Prepares for Final Sprint
 
 
-Maxim 'VicTic' Kammerer, chief engineer of the Carmack Intergalactic Mining Association, has released a statement concerning the ongoing CIMA prospectors' competition: 
+Maxim 'VicTic' Kammerer, chief engineer of [[The]] Carmack Intergalactic Mining Association, has released a statement concerning the ongoing CIMA prospectors' competition: 
 
-"We are very pleased that, with your help, we have been able to double the amount of known pristine metallic ring locations, most of which are very close to the bubble. Now we need to prepare for the final sprint." 
+"We are very pleased that, [[With]] your help, we have been able to double the amount of known pristine metallic ring locations, most of [[Which]] are very close to the bubble. Now we need to prepare for the final sprint." 
 
-The competition will end on the 3rd of April 3302. Any data on pristine metallic rings should be reported before this date. 
+The competition will end on the 3rd of April 3302. Any data on pristine metallic rings should be reported before [[This]] date. 
 
 Karen Keish 
 

@@ -14,8 +14,8 @@ significance: low
 Galactic News: Tantalum Appeal Comes to an End
 
 
-A spokesperson for the Wyrd Raiders has announced that its campaign for tantalum has been warmly received by the galactic community, resulting in a massive influx of deliveries to Gareth Edwards Park, the organisation's base of operations. In a succinct statement, the spokesperson thanked those who supported the campaign. 
+A spokesperson for [[The]] Wyrd Raiders has announced that [[Its]] campaign for tantalum has been warmly received by the galactic community, resulting [[In a]] massive influx of deliveries to Gareth Edwards Park, the organisation's base of operations. In a succinct statement, the spokesperson thanked those who supported the campaign. 
 
-"We are very grateful to the many independent pilots who helped us fulfil our commercial obligations. The tantalum will now be delivered to our various partners." 
+"We are very grateful to the [[Many]] [[Independent]] pilots who helped us fulfil [[Our]] commercial obligations. The tantalum will now be delivered to our various partners." 
 
-Since the campaign began, rumours have persisted that the tantalum was destined for a group of independent engineers. The Wyrd Raiders declined to comment on the matter, citing a need to maintain their partners' privacy.
+Since the campaign began, rumours have persisted that the tantalum was destined for a group of independent [[Engineers]]. The Wyrd Raiders declined to comment on the matter, citing a need to maintain their partners' privacy.

@@ -14,11 +14,11 @@ significance: low
 Ambrose Foundation Bankrupted Overnight
 
 
-The family-run Ambrose Foundation, a multi-billion credit institution, has lost its entire fortune in a single day. 
+[[The]] family-[[Run]] Ambrose Foundation, a multi-billion credit institution, has lost [[Its]] entire fortune [[In a]] single day. 
 
 Business analyst Marlon Royce reported on Vox Galactica: 
 
-“The Ambrose Foundation combines the wealth of several centuries-old royal and noble houses. It is primarily involved in corporate investment and occasional charity work.” 
+“The Ambrose Foundation combines the wealth of [[Several]] centuries-old royal and noble houses. It is primarily involved in corporate investment and occasional charity work.” 
 
 “All of that changed abruptly when its accountants announced the loss of 100% of all assets, worth nearly three hundred billion credits. Inexplicably, everything the foundation owned has been liquidated and transferred to anonymous accounts at banks scattered throughout the galaxy.” 
 

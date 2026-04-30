@@ -22,19 +22,19 @@ significance: low
 Corporations Clash in Guardian Space
 
 
-A successful appeal by Zende Partners for Guardian commodities has led to the appointment of a technology broker at The Prospect, where Guardian modules are now available. The initiative has seen a marked increase in violence in the Synuefe EN-H d11-96 system, however, recently established as a hub of Guardian technological research. 
+A successful appeal by [[Zende]] Partners for Guardian commodities has led to [[The]] appointment of a technology broker at The Prospect, where Guardian modules are now available. The initiative has seen a marked increase in violence in the [[Synuefe]] EN-H d11-96 system, however, recently established as a hub of Guardian technological research. 
 
-Freya Taine, CEO of Zende Partners, made this announcement: 
+Freya Taine, CEO of Zende Partners, made [[This]] announcement: 
 
-“Shortly after our company deployed a megaship transport service connecting Zende and Guardian space, our convoys came under attack. We have evidence to suggest that Segnen Exchange is responsible for this flagrant attempt to undermine our efforts.” 
+“Shortly after [[Our]] company deployed a megaship transport service connecting Zende and Guardian space, our convoys came under attack. We have evidence to suggest that Segnen Exchange is responsible for this flagrant attempt to undermine our efforts.” 
 
-“I call upon the galactic community to assist Zende Partners in removing this threat to our operation. Our plans to begin production of an Advanced Multi-cannon can proceed once Segnen Exchange’s disruptions have been dealt with.” 
+“I call upon the galactic community to assist Zende Partners in removing this threat to our operation. Our plans to begin production of an Advanced Multi-cannon can proceed once Segnen Exchange’s disruptions have been dealt [[With]].” 
 
 Cedrik Stone, CEO of Segnen Exchange, submitted this statement in response to the accusations: 
 
-“Zende Partners apparently intends to control the trade of Guardian commodities in Synuefe EN-H d11-96, which is perhaps why there is violent resistance to their operation. My company would only ever respond to threats with an appropriate level of self-defence.” 
+“Zende Partners apparently intends to control the trade of Guardian commodities in Synuefe EN-H d11-96, [[Which]] is perhaps why there is violent resistance to their operation. My company would only ever respond to threats with an appropriate level of self-defence.” 
 
-“In order to reestablish peace and protect our research into new Guardian-human technology, we ask independent pilots to support Segnen Exchange vessels in the system. Securing a permanent presence will allow my company to complete work on an Advanced Dumbfire Launcher on schedule.” 
+“In order to reestablish peace and protect our research into new Guardian-human technology, we ask [[Independent]] pilots to support [[Segnen Exchange vessels in the]] system. Securing a permanent presence will allow my company to complete work on an Advanced Dumbfire Launcher on schedule.” 
 
 “Our newly established outpost, Indigo Dock, will serve as our base of operations in these efforts.” 
 

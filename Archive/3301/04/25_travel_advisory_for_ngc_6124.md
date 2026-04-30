@@ -19,8 +19,8 @@ significance: low
 Travel Advisory for NGC 6124
 
 
-Warning: A Travel Advisory is issued for system NGC 6124 SECTOR  DW-N C6-10. 
+Warning: [[A Travel Advisory is issued for]] system NGC 6124 SECTOR  DW-N C6-10. 
 
-This system should be avoided, but not due to solar storms.  
+[[This]] system should be avoided, but not due to solar storms.  
 
-Explorer Lance 'Spacecat' D. (last name withheld) warped in-system only to find himself inside the corona of the system's 'B' star which is abnormally close to the 'A' star. He only survived the experience thanks to quick reflexes, an auto field maintenance unit and the ruggedness of his scorched type-6, now nicknamed the 'Sundiver'. He reprimands the system's previous explorer (name withheld) for NOT issuing such a travel advisory.
+Explorer Lance 'Spacecat' D. (last name withheld) warped in-system only to find himself inside [[The]] corona of [[The]] system's 'B' [[Star]] [[Which]] is abnormally close to the 'A' [[Star]]. He only survived the experience thanks to quick reflexes, an auto field maintenance unit and the ruggedness of his scorched type-6, now nicknamed the 'Sundiver'. [[He reprimands the]] system's previous explorer (name withheld) for NOT issuing such a travel advisory.

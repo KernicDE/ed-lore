@@ -16,16 +16,16 @@ significance: low
 Superpowers Collaborate to Investigate Blight
 
 
-A collaborative body has been formed by the three superpowers to trace the source of the blight that is laying waste to crops on key agricultural worlds. 
+A collaborative body has been formed by [[The]] three superpowers to trace the source of the blight that is laying waste to crops on key agricultural worlds. 
 
-The development was covered by journalist Adalyn Cross for Vox Galactica: 
+The development was covered by journalist [[Adalyn Cross]] for Vox Galactica: 
 
-“We know that the Rockforth fertiliser caused the advanced decay that has affected so many crops, but the specifics remain unclear. Was the corrupted fertiliser the result of an industrial manufacturing error, or perhaps sabotage by a rival company? Is there evidence of a deliberate effort to harm the people of the core systems?” 
+“We know that the Rockforth fertiliser caused the advanced decay that has affected so [[Many]] crops, [[But the]] specifics remain unclear. Was the corrupted fertiliser the result of an industrial manufacturing error, or perhaps sabotage by a rival company? Is there evidence of a deliberate effort to harm the people of the core systems?” 
 
-“With billions of citizens facing food shortages, departments from all three superpowers are collaborating to identify the origin of the blight and halt its progress. The speed with which the blight has spread is frankly stunning.” 
+“[[With]] billions of citizens facing food shortages, departments from [[All three]] superpowers are collaborating to identify the origin of the blight and halt [[Its]] progress. The speed with [[Which]] the blight has spread is frankly stunning.” 
 
-Rex Whitlock, marketing director at Rockforth Corporation, released this statement: 
+Rex Whitlock, marketing director at Rockforth Corporation, released [[This]] statement: 
 
-“This development has come as a shock to everyone at Rockforth. Our EX7 fertiliser passed many rigorous tests and successfully increased crop productivity in controlled experiments, so we have no explanation for its calamitous effects.” 
+“This development has come as a shock to everyone at Rockforth. [[Our]] EX7 fertiliser passed many rigorous tests and successfully increased crop productivity in controlled experiments, so we have no explanation for its calamitous effects.” 
 
-“We would like to reassure customers and shareholders alike that we are cooperating fully with the investigation.”
+“We would like to reassure customers and shareholders alike that we are cooperating fully [[With the]] investigation.”

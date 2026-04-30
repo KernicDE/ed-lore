@@ -18,13 +18,13 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Report from the Front Lines
+Galactic News: Report from [[The]] Front Lines
 
 
-Many independent pilots have already taken to their ships to test the anti-Thargoid weaponry recently developed by Aegis. Meanwhile, Aegis has assembled a team of specialists to analyse the results of these encounters and determine the new weapons’ efficacy. 
+[[Many]] [[Independent]] pilots have already taken to their ships to test the anti-[[Thargoid]] weaponry recently developed by [[Aegis]]. Meanwhile, Aegis has assembled a team of specialists to analyse the results of these encounters and determine the new weapons’ efficacy. 
 
 Admiral Aden Tanner, Aegis’s military liaison, said: 
 
-“The weapons are working as intended, but the Thargoid vessels are highly resilient. Even with specialised weaponry, it appears their ships can be destroyed only through collective efforts.” 
+“The weapons are working as intended, [[But the]] Thargoid vessels are highly resilient. Even [[With]] specialised weaponry, it appears their ships can be destroyed only through collective efforts.” 
 
-“We have received reports of lone pilots, and even small groups, being utterly annihilated by the Thargoids. This tragic news illustrates that although the new weapons are effective, more work must be done if we are to achieve military parity.”
+“We have received reports of lone pilots, and even small groups, being utterly annihilated by the Thargoids. [[This]] tragic news illustrates that although the new weapons are effective, more work must be done if we are to achieve military parity.”

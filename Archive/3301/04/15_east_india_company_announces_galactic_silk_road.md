@@ -18,11 +18,11 @@ significance: low
 East India Company Announces Galactic Silk Road
 
 
-The East India Company, one of the larger pilots’ federation members, recently announced a new initiative they are calling “the Galactic Silk Road”. This is a public trade route available to all, and features seventeen of the most highly profitable stops in civilised space. 
+[[The]] East India Company, [[One]] of [[The]] larger pilots’ federation members, recently announced a new initiative they are calling “the Galactic Silk Road”. [[This]] is a public trade route available to all, and features seventeen of the most highly profitable stops in civilised space. 
 
-Although profitable trade routes are nothing new, the East India Company spokesperson in charge of the route, a CMDR Bunny, announced that the organisation will provide protection to those traders wanting to benefit, and has even gone as far as to say that arrangements have been made with the Federal Navy, Mercs of Mikunn, the Merchant Marines, and other factions, in order to patrol the route and protect traders. 
+Although profitable trade routes are nothing new, the East India Company spokesperson in charge of the route, a CMDR Bunny, announced that the organisation will provide protection to those traders wanting to benefit, and has even gone as [[Far]] as to say that arrangements have been made [[With the]] [[Federal Navy]], Mercs of Mikunn, the Merchant Marines, and [[Other]] factions, in order to patrol the route and protect traders. 
 
-The new route is named after the famous four thousand mile trade route across Earth’s continents of Europe and Asia, first seen over three thousand years ago, where merchants made large profits trading silk cloth, while the wealth helped the emerging cultures along the route to prosper and develop. 
+The new route is named after the famous four thousand mile trade route across [[Earth]]’s continents of Europe and Asia, first seen over three thousand years ago, where merchants made large profits trading silk cloth, while the wealth helped the emerging cultures along the route to prosper and develop. 
 
 The stations involved in the new trade scheme are: 
 
@@ -34,7 +34,7 @@ Lichtenberg City in Scirth
 
 Oren City in Kaliki 
 
-Austin Market in Bommatsuri 
+[[Austin]] Market in Bommatsuri 
 
 Weaver Port in Feng Tanga 
 
@@ -46,13 +46,13 @@ Wachmann Vision in Lileni
 
 Goddard Dock in Xi Wang Mu 
 
-Henson Gateway in Dheneb  
+Henson [[Gateway]] in Dheneb  
 
-Giunta Gateway in HIP 7916 
+Giunta [[Gateway]] in HIP 7916 
 
 Gould Ring in HIP 8830  
 
-Harawi Enterprise in HIP 9753  
+Harawi [[Enterprise]] in HIP 9753  
 
 Naddoddur Hub in HR 827 
 

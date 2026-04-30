@@ -19,14 +19,14 @@ significance: low
 Red Family Operation Concludes
 
 
-The Federal Intelligence Agency has declared that its campaign against the Red Family cartel is drawing to a close. 
+[[The]] Federal Intelligence Agency has declared that [[Its]] campaign against the Red Family cartel is drawing to a close. 
 
-As observed by Ethan Takahashi, crime correspondent for The Federal Times: 
+As observed by Ethan Takahashi, crime correspondent for The [[Federal Times]]: 
 
-“In terms of effective action, this has to be considered a great victory for the FIA. A series of coordinated strikes against the Red Family delivered a mortal blow, and the cartel’s super-addictive narcotic was destroyed before it could be mass-produced.” 
+“In terms of effective action, [[This]] has to be considered a great victory for the FIA. A series of coordinated strikes against the Red Family delivered a mortal blow, and the cartel’s super-addictive narcotic was destroyed before it could be mass-produced.” 
 
-“While kingpin Oberon Church remains at liberty, it is unlikely that he could ever rebuild his empire. Still, losing one of the most wanted criminals in the Federation must be frustrating for the agency.” 
+“While kingpin Oberon Church remains at liberty, it is unlikely that he could ever rebuild his empire. Still, losing [[One]] of the most wanted criminals in the Federation must be frustrating for the agency.” 
 
-Internal investigations continue regarding Jan Sandoval’s death in custody. No conclusive evidence has been uncovered, but many believe that Sandoval could not be reached without the assistance of FIA personnel. 
+Internal investigations continue regarding Jan Sandoval’s death in custody. No conclusive evidence has been uncovered, but [[Many]] believe that Sandoval could not be reached without the assistance of FIA personnel. 
 
 “It is not unreasonable to assume that individuals within the FIA have been bought by Church,” said Takahashi.

@@ -14,7 +14,7 @@ significance: low
 New Mining Tools Released
 
 
-A range of new asteroid-mining equipment is expected to trigger an increase in the availability of ores and minerals. 
+A range of new asteroid-mining equipment is expected to trigger an increase in [[The]] availability of ores and minerals. 
 
 A spokesperson for the Industrial Mining Guild discussed the new tools at an industry symposium: 
 
@@ -22,6 +22,6 @@ A spokesperson for the Industrial Mining Guild discussed the new tools at an ind
 
 “For deeper deposits, sub-surface displacement missiles can penetrate the rock and then be detonated remotely, releasing larger chunks of material.” 
 
-“Finally, there is now a way to access valuable resources deep within certain rare bodies. Seismic charges, when carefully positioned, can crack an asteroid open and free the minerals at its core.” 
+“Finally, there is now a way to access valuable resources deep within certain rare bodies. Seismic charges, when carefully positioned, can crack an asteroid open and free the minerals at [[Its]] core.” 
 
-“Combined with upgrades to existing tools, such as scanners and prospector limpets, we are confident that these new tools will result in a surge in private mining activity.”
+“Combined [[With]] upgrades to existing tools, such as scanners and prospector limpets, we are confident that these new tools will result [[In a]] surge in private mining activity.”

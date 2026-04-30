@@ -11,12 +11,12 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Jasmina Halsey Discharged
+Galactic News: [[Jasmina Halsey]] Discharged
 
 
-It has been two months since former Federal president Jasmina Halsey was admitted to the Clearwater Clinic psychiatric facility on Mars. Halsey's admission followed a period of bizarre behaviour, during which she claimed to have encountered super-intelligent beings in the depths of space. 
+It has been two months since former Federal [[President Jasmina Halsey]] was admitted to [[The]] Clearwater Clinic psychiatric facility on [[Mars]]. Halsey's admission followed a period of bizarre behaviour, during [[Which]] she claimed to have encountered super-intelligent beings in the depths of space. 
 
-Since then, a proportion of the Federal population has been calling for the former president's release, claiming that she was hospitalised not for the good of her health but in order to silence her. This suggestion was dismissed as "patently ridiculous" by Halsey's personal staff, but this did little to deter those campaigning for Halsey's freedom. 
+Since then, a proportion of the Federal population has been calling for the former president's release, claiming that she was hospitalised not for the good of her health but in order to silence her. [[This]] suggestion was dismissed as "patently ridiculous" by Halsey's personal staff, but this did little to deter those campaigning for Halsey's freedom. 
 
 Now it seems the campaigners have got their wish. Today, Jasmina Halsey left the Clearwater Clinic of her own volition, having been deemed ready to return to society by her doctors. 
 

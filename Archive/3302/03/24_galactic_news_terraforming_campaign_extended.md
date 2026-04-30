@@ -14,8 +14,8 @@ significance: low
 Galactic News: Terraforming Campaign Extended
 
 
-The Revolutionary Party of Vennik has made an announcement regarding the terraforming of Vennik 1. A spokesperson confirmed that the organisation plans to extend the campaign for a second week. 
+[[The]] Revolutionary Party of Vennik has made an announcement regarding the terraforming of Vennik 1. A spokesperson confirmed that the organisation plans to extend the campaign for a second week. 
 
-"Due to overly ambitious estimates, it seems the supply of land-enrichment systems in nearby systems is exceeded by our demand. We have therefore decided to keep the contract open for an additional week, at considerable expense, to ensure we receive enough material to complete our terraforming project." 
+"Due to overly ambitious estimates, it seems the supply of land-enrichment systems in [[Nearby]] systems is exceeded by [[Our]] demand. We have therefore decided to keep the contract open for an additional week, at considerable expense, to ensure we receive enough material to complete our terraforming project." 
 
-The campaign will now run until the 31st of March 3302.
+The campaign will now [[Run]] until the 31st of March 3302.

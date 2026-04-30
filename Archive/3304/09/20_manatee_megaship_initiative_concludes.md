@@ -23,10 +23,10 @@ significance: low
 Manatee Megaship Initiative Concludes
 
 
-The Libertas Cooperative has announced that its appeal for commodities has reached a successful conclusion, having received an overwhelming response from the galactic community. Land enrichment systems, animal monitors, aquaponic systems and marine equipment were delivered to Ocrinox's Orbiter over the past week, allowing construction of a megaship where manatees will be farmed. 
+[[The]] [[Libertas Cooperative]] has announced that [[Its]] appeal for commodities has reached a successful conclusion, having received an overwhelming response from the galactic community. [[Land enrichment]] systems, animal monitors, aquaponic systems and marine equipment were delivered to [[Ocrinox's Orbiter]] over the past week, allowing construction of a megaship where manatees will be farmed. 
 
-With the initiative at an end, Progenitor Selena Conley of the Libertas Cooperative issued the following statement: 
+[[With the]] initiative at an end, Progenitor Selena Conley of the Libertas Cooperative issued [[The following]] statement: 
 
-“The people of Munshin, and our partners at Munshin Manatee Meat, extend the warmest of thanks to all pilots who supported our project. Increased production of manatee meat will give a much-needed boost to the Munshin system’s economy.” 
+“The people of [[Munshin]], and [[Our]] partners at Munshin Manatee Meat, extend the warmest of thanks to all pilots who supported our project. Increased production of manatee meat will give a much-needed boost to the Munshin system’s economy.” 
 
 Pilots who contributed to the initiative can now collect their rewards from Ocrinox's Orbiter in the Munshin system.

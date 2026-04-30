@@ -19,16 +19,16 @@ significance: low
 Community Goal: Battle Royale
 
 
-Don Antonaci, leader of the pirate organisation Wolf 359, has called on the galaxy's pirates to assemble for a faceoff against the Hutton Orbital Truckers and their allies. The pirate has proposed an 'anything goes' battle royale in the Wyrd system. 
+Don Antonaci, leader of [[The]] pirate organisation [[Wolf 359]], has called on the galaxy's pirates to assemble for a faceoff against the Hutton Orbital Truckers and their allies. The pirate has proposed an 'anything goes' battle royale in the Wyrd system. 
 
 Minelayers, thermal weapons, torpedo boats, long-range sniper ships – Antonaci is asking participants to bring their most devastating equipment to the ice rings, and to destroy any truckers they encounter. The truckers, meanwhile, have promised to send their finest to oppose Antonaci. 
 
-The two parties have agreed that the pirates will fly Fer-De-Lances, Cobras, Vipers and Eagles, while the truckers will pilot Federal Assault Ships, Gunships, Dropships and Vultures. Pilots on both sides have been authorised to target anyone who piloting a larger vessel. Camera crews, which will be flying yellow haulers, are considered off limits. 
+The two parties have agreed that the pirates will fly Fer-De-Lances, Cobras, Vipers and Eagles, while the truckers will pilot Federal Assault Ships, Gunships, Dropships and Vultures. Pilots on both sides have been authorised to target anyone who piloting a larger [[Vessel]]. Camera crews, [[Which]] will be flying yellow haulers, are considered off limits. 
 
-Antonaci released the following statement: 
+Antonaci released [[The following]] statement: 
 
 "Despite my best efforts, these filthy truckers continue to trawl through space. We want all pilots friendly to the Don to help us teach these truckers a lesson. Bring your finest weapons, modules and upgrades, and show your support." 
 
 The truckers' only response to Antonaci's challenge was: "Bring it on!" 
 
-The campaign begins on the 19th of May 3302 and will run for one week. Pilots who support the operation will be generously reimbursed.
+The campaign begins on the 19th of May 3302 and will [[Run]] for [[One]] week. Pilots who support the operation will be generously reimbursed.

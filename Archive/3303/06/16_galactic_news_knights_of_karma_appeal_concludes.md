@@ -15,10 +15,10 @@ significance: low
 Galactic News: Knights of Karma Appeal Concludes
 
 
-The Knights of Karma have announced that their plan to establish a new mining facility in the Qa’wakana system has been warmly received by the galactic community. The organisation’s targets for materials have been met, and work on the new facility is expected to start soon.  
+[[The]] Knights of Karma have announced that their plan to establish a new mining facility in the Qa’wakana system has been warmly received by the galactic community. The organisation’s targets for materials have been met, and work on the new facility is expected to start soon.  
 
 A spokesman for the Knights of Karma released a statement: 
 
-“This is a landmark day for the people of Qa'wakana. The cost of the construction materials will be recouped from the minerals mined at the new facility, and local markets will be able to realise their full potential. The pilots who assisted us have our everlasting gratitude.” 
+“[[This]] is a landmark day for the people of Qa'wakana. The cost of the construction materials will be recouped from the minerals mined at the new facility, and local markets will be able to realise their full potential. The pilots who assisted us have [[Our]] everlasting gratitude.” 
 
 Pilots who contributed to the campaign can now collect their rewards from Carpini Terminal in the Qa’wakana system.

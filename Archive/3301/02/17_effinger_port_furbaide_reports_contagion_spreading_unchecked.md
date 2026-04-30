@@ -17,13 +17,13 @@ legacy_weight: 1
 significance: low
 ---
 
-Effinger Port Furbaide Reports Contagion Spreading Unchecked
+Effinger Port [[Furbaide]] Reports Contagion Spreading Unchecked
 
 
-Despite a valiant effort by medical staff working aboard afflicted stations in Liaedin, LHS 3505 and Furbaide the illness now known as Volungu Blight has managed to evade all attempts to contain it. 
+Despite a valiant effort by medical staff working aboard afflicted stations in Liaedin, LHS 3505 and [[Furbaide]] [[The]] illness now known as Volungu Blight has managed to evade all attempts to contain it. 
 
-The virulent disease has managed to claim hundreds of lives since it first appeared just 24 hours ago.  
+[[The]] virulent disease has managed to claim [[Hundreds of]] lives since it first appeared just 24 hours ago.  
 
-In an attempt to combat the spread of the Blight, a rapid response team has been set up aboard Effinger Port station in the Furbaide system. This team will be working around the clock to find a cure, but they can’t do it alone. 
+In an attempt to combat the spread of the Blight, a rapid response team has been set up aboard [[Effinger Port station in the Furbaide]] system. [[This]] team will be working around the clock to find a cure, but they can’t do it alone. 
 
-Dr Miriam Fletcher, head of the Furbaide CDC, has requested that anyone shipping basic medicines divert to Effinger Port in order to donate the supplies needed to stop the Blight before it manages to spread any further.
+Dr [[Miriam Fletcher]], head of the Furbaide CDC, has requested that anyone shipping basic medicines divert to Effinger Port in order to donate the supplies needed to stop the Blight before it manages to spread any [[Further]].

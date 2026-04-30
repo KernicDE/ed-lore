@@ -17,11 +17,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-Fight Against Cerberus Plague Continues
+Fight Against Cerberus Plague [[Continues]]
 
 
-Fight Against Cerberus Plague Continues 
+Fight Against Cerberus Plague [[Continues]] 
  
-The drive to deliver quantities of Ceremonial Heike Tea to Hart Station in the Bast System continues, as the starport’s medical teams work around the clock to create as much of the Cerberus Plague antidote as they can. According to Carl Simmons, the Chief Medical Officer of Newton Dock, the rare tea is the only substance that can counter the virulent effects of the disease. 
+[[The]] drive to deliver quantities of Ceremonial [[Heike]] Tea to [[Hart Station]] in [[The]] [[Bast]] System continues, [[As the]] starport’s medical teams work around the clock to create as much of the Cerberus Plague antidote as they can. [[According to]] [[Carl Simmons]], the Chief Medical Officer of Newton Dock, the rare tea is the only substance that can counter the virulent effects of the disease. 
 
-Independent pilots who are in a position to help with the effort are reminded that the Union Of Bast Liberals is offering incentives to pilots who deliver Ceremonial Heike Tea, which can only be purchased in Brunel City Station in Heike, to Hart Station.
+[[Independent]] pilots who are [[In a]] position to help [[With the]] effort are reminded that the Union Of [[Bast]] Liberals is offering incentives to pilots who deliver Ceremonial [[Heike]] Tea, [[Which]] can only be purchased in Brunel City Station in Heike, to [[Hart Station]].

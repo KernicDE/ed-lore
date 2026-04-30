@@ -24,15 +24,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: Dr Arcanonn Comments on Palin's Retirement
+Freelance Report: Dr [[Arcanonn Comments]] on Palin's Retirement
 
 
-Dr Arcanonn of the Canonn Interstellar Research Group has expressed solidarity with Professor Ishmael Palin, following the latter's decision to retire from the Palin Institute and pursue personal research into the Unknown Artefacts and meta-alloys. 
+Dr [[Arcanonn]] of [[The]] [[Canonn Interstellar Research Group]] has expressed solidarity [[With]] [[Professor Ishmael Palin]], following the latter's decision to retire from the Palin Institute and pursue personal research into the Unknown Artefacts and meta-alloys. 
 
-"It is unfortunate that the professor has been forced to make this decision, but given the existence of the 'dark forces' to which he refers, I support him wholeheartedly." 
+"It is unfortunate that the professor has been forced to make [[This]] decision, but given the existence of the 'dark forces' to [[Which]] he refers, I support him wholeheartedly." 
 
-"I have long been concerned that there are people out there with greater knowledge of the UAs and meta-alloys, and with darker intentions. The secretive convoys, Palin's abduction, the unexplained increases in the black market value of UAs, the purchase of hundreds of thousands of tonnes of meta-alloys at Obsidian Orbital, and the death threats I received – all are troubling." 
+"I have long been concerned that there are people out there with greater knowledge of the UAs and meta-alloys, and with darker intentions. The secretive convoys, [[Palin's abduction]], the unexplained increases in the black market value of UAs, the purchase of [[Hundreds of]] thousands of tonnes of meta-alloys at [[Obsidian Orbital]], and the death threats I received – all are troubling." 
 
-"We mourn the fact that scientists feel the need to retreat to continue their work, but I look forward to visiting the professor on Maia A 3 a." 
+"We mourn the fact that scientists feel the need to retreat to continue their work, but I look forward to visiting the professor on [[Maia]] A 3 a." 
 
-Command Lord Zoltan
+Command [[Lord Zoltan]]

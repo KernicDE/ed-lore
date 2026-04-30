@@ -20,12 +20,12 @@ significance: low
 Freelance Report: Gilya Signature Weapons Return to Markets
 
 
-Gilya Signature Weapons, a rare trade commodity prohibited in a number of jurisdictions, are once again in production at Bell Orbital in the Gilya system. The development is the result of intervention from various commercial interests, priests from Sacra Oculus, and the independent Commanders of the Pilots Federation. 
+Gilya Signature Weapons, a rare trade commodity prohibited [[In a]] number of jurisdictions, are once again in production at [[Bell Orbital in [[The]] Gilya]] system. The development is the result of intervention from various commercial interests, priests from Sacra Oculus, and the [[Independent]] Commanders of the [[Pilots Federation]]. 
 
-A spokesman for the Gilya Law Party said: "The return of this extremely sought-after commodity has made Gilya an independent and commercially profitable high tech system." 
+A spokesman for the Gilya Law Party said: "The return of [[This]] extremely sought-after commodity has made Gilya an independent and commercially profitable high tech system." 
 
 In addition to Gilya Signature Weapons, the system now produces progenitor cells and combat stabilizers, and has two lucrative black markets. 
 
-Commander Light Fingers 
+Commander [[Light Fingers]] 
 
 Sacra Oculus

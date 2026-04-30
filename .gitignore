@@ -38,3 +38,6 @@ Thumbs.db
 
 # Local data / cache
 .cache/
+
+# Generated build artifacts
+lore_graph.json

@@ -18,19 +18,19 @@ legacy_weight: 4
 significance: high
 ---
 
-Hadrian Duval Seeks Reintegration with the Empire
+Hadrian Duval Seeks Reintegration [[With the]] Empire
 
 
-Imperator Hadrian Augustus Duval has recovered from an assassination attempt and signalled a new direction for Nova Imperium. 
+Imperator Hadrian Augustus Duval has recovered from an assassination attempt and signalled a new direction for [[Nova Imperium]]. 
 
-Princess Aisling Duval provided advanced medical care for Imperator Duval after a near-fatal attack by NMLA assassins. Following a period of discussion, she told the media:  
+Princess [[Aisling Duval]] provided advanced medical care for Imperator Duval after a near-fatal attack by NMLA assassins. Following a period of discussion, she told [[The]] media:  
 
-“At this time of crisis we need allies more than ever, and my cousin’s royal heritage should not be denied. I have therefore formally requested sovereign consent for him to be accepted into the Imperial Family as Prince Hadrian.” 
+“At [[This]] time of crisis we need allies more than ever, and my cousin’s royal heritage should not be denied. I have therefore formally requested sovereign consent for him to be accepted into the Imperial Family as Prince Hadrian.” 
 
 Hadrian Duval broadcast this message from Dyson City: 
 
-“I owe my life to Aisling, but life without purpose means nothing, and the Duvals’ purpose has always been to protect the Empire. I seek to adopt my birthright and help defend our traditional ways of life.” 
+“I owe my life to Aisling, but life without purpose means nothing, and the Duvals’ purpose has always been to protect the Empire. I seek to adopt my birthright and help defend [[Our]] traditional ways of life.” 
 
-“However, many of us see disturbing parallels between the brutal purge of Nova Imperium’s followers in 3305 and the current crusade against the Marlinists. I call upon those in power not to repeat this mistake – the NMLA is the common enemy we must unite against.” 
+“However, [[Many]] of us see disturbing parallels between the brutal purge of Nova Imperium’s followers in 3305 and the current crusade against the Marlinists. I call upon those in power not to repeat this mistake – the NMLA is the common enemy we must unite against.” 
 
-Many senators publicly agreed that the Empire must heal past divisions to focus on the Neo-Marlinist threat. Others have voiced concerns at the repercussions of Emperor Hengist’s illegitimate grandson becoming an heir to the throne. As yet, Emperor Arissa Lavigny-Duval has not responded.
+Many senators publicly agreed that the Empire must heal past divisions to focus on the Neo-[[Marlinist]] threat. Others have voiced concerns at the repercussions of Emperor [[Hengist]]’s illegitimate grandson becoming an heir to the throne. As yet, [[Emperor Arissa Lavigny-Duval]] has not responded.

@@ -22,12 +22,12 @@ significance: medium
 Community Goal: Operation Whirling Dervish
 
 
-The GalCop Colonial Defence Commission has embarked on a campaign to establish a new Coriolis starport in the Ogmar system. The campaign – dubbed Operation Whirling Dervish – is designed to support further expansion in the Colonia region. 
+[[The]] GalCop Colonial Defence Commission has embarked on a campaign to establish a new Coriolis starport in the Ogmar system. The campaign – dubbed Operation Whirling Dervish – is designed to support [[Further]] expansion in the Colonia region. 
 
-Lou Brady, a spokesperson for the organisation, released the following statement: 
+Lou Brady, a spokesperson for the organisation, released [[The following]] statement: 
 
 "The new starport will be able to accommodate more people, produce high-tech goods, and service larger vessels, making it an ideal platform for future activity in Colonia." 
 
-The GalCop Colonial Defence Commission has placed an open order for atmospheric processors, CMM composites, indium, tantalum and thermal cooling units, and has promised to reward pilots who deliver these commodities to Dervish Platform in the Ogmar system. 
+The GalCop Colonial Defence Commission has placed an open order for atmospheric processors, CMM composites, indium, tantalum and thermal cooling units, and has promised to reward pilots who deliver these commodities to [[Dervish Platform in the Ogmar]] system. 
 
-The campaign begins on the 14th of December 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 14th of December 3303 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

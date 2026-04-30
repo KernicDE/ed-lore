@@ -21,10 +21,10 @@ significance: medium
 Galactic News: Imperial Appeal Comes to an End
 
 
-A spokesperson for the Merope Expeditionary Fleet has announced that its appeal for construction materials was enthusiastically received by the galactic community. Scores of independent pilots responded to the organisation's request, resulting in a massive influx of deliveries to Obsidian Orbital, the organisation's base of operations. The materials will be used to construct a new Imperial operating base in the Pleiades Sector AB-W B2-4 system. 
+A spokesperson for [[The]] [[Merope]] Expeditionary Fleet has announced that [[Its]] appeal for construction materials was enthusiastically received by the galactic community. Scores of [[Independent]] pilots responded to the organisation's request, resulting [[In a]] massive influx of deliveries to [[Obsidian Orbital]], the organisation's base of operations. The materials will be used to construct a new Imperial operating base in the [[Pleiades Sector AB-W B2-4]] system. 
 
 The spokesperson released a statement. 
 
-"I know there are some who decry the Empire for its part in this conflict. They believe that if we simply walked away, the conflict would end. But sometimes the only way to achieve peace is by opposing the tyrannical." 
+"I know there are some who decry the Empire for its part in [[This]] conflict. They believe that if we simply walked away, the conflict would end. But sometimes the only way to achieve peace is by opposing the tyrannical." 
 
-Pilots who contributed to the initiative are now free to collect their rewards from Obsidian Orbital in the Maia system.
+Pilots who contributed to the initiative are now free to collect their rewards from [[Obsidian Orbital in the Maia]] system.

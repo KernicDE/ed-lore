@@ -22,10 +22,10 @@ significance: high
 Galactic News: Thargoids Continuing to Adapt
 
 
-Fresh reports from the Pleiades have yielded further insights into the Thargoids’ tactics. 
+Fresh reports from [[The]] Pleiades have yielded [[Further]] insights into the Thargoids’ tactics. 
 
-An Aegis spokesperson summarised the latest intelligence: 
+An [[Aegis]] spokesperson summarised the latest intelligence: 
 
-“Our initial encounters with the Thargoids indicated a certain lack of strategic awareness on their part, but they have clearly been watching, and learning. The latest reports indicate that they’re already operating more tactically, suggesting that their earlier lack of insight was due to unfamiliarity with our ships and weapons.” 
+“[[Our]] initial encounters [[With the]] Thargoids indicated a certain lack of strategic awareness on their part, but they have clearly been watching, and learning. The latest reports indicate that they’re already operating more tactically, suggesting that their earlier lack of insight was due to unfamiliarity [[With]] our ships and weapons.” 
 
 “As noted before, we are clearly dealing with a highly responsive enemy, and we underestimate them at our peril.”

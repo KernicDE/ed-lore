@@ -11,17 +11,17 @@ legacy_weight: 2
 significance: low
 ---
 
-Aisling Duval Rejects Nova Imperium
+[[Aisling Duval]] Rejects [[Nova Imperium]]
 
 
-Princess Aisling Duval has publicly rejected the isolationist group Nova Imperium and its figurehead, Hadrian Duval: 
+Princess Aisling Duval has publicly rejected [[The]] isolationist group Nova Imperium and [[Its]] figurehead, Hadrian Duval: 
 
-“These extremists cause only division. Hadrian may well be the grandson of Hengist Duval, but that hardly makes him suited to the throne. Arissa has been silent for too long – she must act quickly to resolve this volatile situation.” 
+“These extremists cause only division. Hadrian may well be the grandson of [[Hengist Duval]], but that hardly makes him suited to the throne. Arissa has been silent for too long – she must act quickly to resolve [[This]] volatile situation.” 
 
-Senator Zemina Torval responded: 
+Senator [[Zemina Torval]] responded: 
 
-“Much to my surprise, I find myself in agreement with Princess Duval. The notion of an independent pilot becoming ruler of the Empire is preposterous. I am confident that the Emperor will respond accordingly.” 
+“Much to my [[Surprise]], I find myself in agreement [[With]] Princess Duval. The notion of an [[Independent]] pilot becoming ruler of the Empire is preposterous. I am confident that the Emperor will respond accordingly.” 
 
-Despite this united front, Senator Pal Vespasian stated: 
+Despite this united front, Senator [[Pal Vespasian]] stated: 
 
-“Many senators are willing to recognise Hadrian Duval as Emperor-in-waiting. Nova Imperium is now a legitimate political movement with several million supporters. The only way the Empire will survive is by accepting the Imperator’s proposals.”
+“[[Many]] senators are willing to recognise Hadrian Duval as Emperor-in-waiting. Nova Imperium is now a legitimate political movement with [[Several]] million supporters. The only way the Empire will survive is by accepting the Imperator’s proposals.”

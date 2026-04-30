@@ -25,19 +25,19 @@ legacy_weight: 2
 significance: low
 ---
 
-Explorers Needed for Coalsack Nebula Project
+Explorers Needed for [[Coalsack Nebula]] Project
 
 
-*Pilots Federation ALERT* 
+*[[Pilots Federation]] ALERT* 
 
-Sirius Atmospherics has requested help from independent pilots to provide exploration data focusing on ammonia worlds for terraforming purposes. 
+Sirius Atmospherics has requested help from [[Independent]] pilots to provide exploration data focusing on ammonia worlds for terraforming purposes. 
 
-The subsidiary of Sirius Corporation is working in partnership with the Alliance to establish colonies within the Coalsack Nebula, and to identify sites of commercial and scientific interest. 
+[[The]] subsidiary of [[Sirius Corporation]] is working in partnership [[With the]] [[Alliance]] to establish colonies within the [[Coalsack]] Nebula, and to identify sites of commercial and scientific interest. 
 
-Dr Maximilian North, Sirius Atmospherics’s project director, outlined the requirements: 
+Dr [[Maximilian North]], Sirius Atmospherics’s project director, outlined the requirements: 
 
-“We have developed revolutionary new terraforming procedures for terrestrial planets with ammonia-based atmospheres. Our collaboration with the Alliance is the perfect opportunity to try and put these to practical use, with the goal of transforming the region into a more human-friendly place.” 
+“We have developed revolutionary new terraforming procedures for terrestrial planets [[With]] ammonia-based atmospheres. [[Our]] collaboration with the Alliance is the perfect opportunity to try and put these to practical use, with the goal of transforming the region into a more human-friendly place.” 
 
 “Sirius Atmospherics offers rewards for explorers who can provide us with exploration data. We are particularly interested in detailed scans focusing on the composition of ammonia worlds, not just in the Coalsack Nebula but elsewhere. Gathering wide-ranging data will enable us to determine the most suitable targets for environmental conversion.”  
 
-Pilots are requested to deliver exploration data to the Sirius Atmospherics research facility at Betancourt Base in the Musca Dark Region PJ-P b6-1 system.
+Pilots are requested to deliver exploration data to [[The Sirius]] Atmospherics research facility at Betancourt Base in the [[Musca Dark Region]] PJ-P b6-1 system.

@@ -17,13 +17,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Alliance Initiative Concludes
+[[Alliance]] Initiative Concludes
 
 
-The Alliance has announced that its appeal for mined resources has reached a successful conclusion, having received an overwhelming response from the galactic community. Huge quantities of raw material were delivered to California Gateway over the past week, which will be used to construct an Ocellus starport in the MEL 22 Sector GM-V C2-8 system. 
+[[The]] Alliance has announced that [[Its]] appeal for mined resources has reached a successful conclusion, having received an overwhelming response from the galactic community. Huge quantities of raw material were delivered to California [[Gateway]] over the past week, [[Which]] will be used to construct an Ocellus starport in the MEL 22 Sector GM-V C2-8 system. 
 
-With the campaign at an end, Alliance official Torvan Dast issued the following statement: 
+[[With the]] campaign at an end, Alliance official Torvan Dast issued [[The following]] statement: 
 
-“We are grateful for the efforts made by those pilots who helped bring this initiative to fruition. Construction of this starport will make the long journey to the California Nebula safer for traders and colonists alike.” 
+“We are grateful for the efforts made by those pilots who helped bring [[This]] initiative to fruition. Construction of this starport will make the long journey to the [[California Nebula]] safer for traders and colonists alike.” 
 
 Construction of the new starport is expected to begin soon. Pilots who contributed to the initiative can now collect their rewards from California Gateway in the Synuefai EB-R C7-5 system.

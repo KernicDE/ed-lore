@@ -17,9 +17,9 @@ legacy_weight: 2
 significance: low
 ---
 
-At the trial of Fleet Admiral Vincent, former President Jasmina Halsey has revealed possible reasons behind the sabotage of Starship One in 3301.
+At [[The]] trial of Fleet Admiral Vincent, former [[President Jasmina Halsey]] has revealed possible reasons behind the sabotage of Starship [[One]] in 3301.
 Crime correspondent Ethan Takahashi reported from the Federal High Court:
-“Jasmina Halsey provided details of a top-level Federal Cabinet meeting in late April 3301, an event which was never declassified. Its aim was to address the high levels of public dissatisfaction with her administration.”
-“At the meeting, Halsey explained that she had been inspired by various peace activists to refocus on the wellbeing of citizens. She planned to reduce taxes, invest in social infrastructure and slash Federal Navy spending. As yet this was only a preliminary plan, to be implemented later that year.”
+“[[Jasmina Halsey]] provided details of a top-level Federal Cabinet meeting in late April 3301, an event [[Which]] was never declassified. [[Its]] aim was to address the high levels of public dissatisfaction [[With]] her administration.”
+“At the meeting, Halsey explained that she had been inspired by various peace activists to refocus on the wellbeing of citizens. She planned to reduce taxes, invest in social infrastructure and slash [[Federal Navy]] spending. As yet [[This]] was only a preliminary plan, to be implemented later that year.”
 “Halsey told the court that only a dozen officials were present at this meeting, including Fleet Admiral Vincent. All were told that this forthcoming sea change in policy was confidential, but to expect major budget changes in the coming months.”
 “The prosecution counsel stated that Vincent was therefore aware that naval defunding was imminent, something which would reduce his personal influence. It would also impact powerful individuals who Vincent was illegally connected to, evidence of which would be presented in due course.”

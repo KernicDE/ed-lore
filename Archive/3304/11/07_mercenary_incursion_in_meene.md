@@ -22,17 +22,17 @@ legacy_weight: 4
 significance: high
 ---
 
-Mercenary Incursion in Meene
+Mercenary Incursion in [[Meene]]
 
 
-A mercenary group has been intercepted by security forces in the Meene system. 
+A mercenary group has been intercepted by security forces in [[The]] Meene system. 
 
 Security Chief Harper Vargas of the Meene Defence Force reported: 
 
-“Six hours ago, our forces were attacked by a small fleet belonging to a known mercenary group. Fortunately, we were able to defeat them before they could do serious damage.” 
+“Six hours ago, [[Our]] forces were attacked by a small fleet belonging to a known mercenary group. Fortunately, we were able to defeat them before they could do serious damage.” 
 
-“There is no doubt that the mercenaries’ primary target was Phoenix Base. We suspect that this incident is connected to an attempted raid on the base that was repelled a few weeks ago.” 
+“There is no doubt that the mercenaries’ primary target was Phoenix Base. We suspect that [[This]] incident is connected to an attempted raid on the base that was repelled a few weeks ago.” 
 
-Li Yong-Rui, CEO of Sirius Corporation, addressed the incident: 
+[[Li Yong-Rui]], CEO of [[Sirius Corporation]], addressed the incident: 
 
-“I’m relieved that the attack was foiled, but this only demonstrates how precarious Ram Tah’s situation is. I urge him to accept my offer to work with the Sirius Corporation – not only for his own safety, but also to safeguard future Guardian-human technologies.”
+“I’m relieved that the attack was foiled, but this only demonstrates how precarious [[Ram Tah]]’s situation is. I urge him to accept my offer to work [[With]] [[The Sirius]] Corporation – not only for his own safety, but also to safeguard future Guardian-human technologies.”

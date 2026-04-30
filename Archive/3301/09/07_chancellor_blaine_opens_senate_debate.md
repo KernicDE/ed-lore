@@ -17,16 +17,16 @@ legacy_weight: 2
 significance: low
 ---
 
-Chancellor Blaine Opens Senate Debate
+Chancellor [[Blaine Opens Senate Debate]]
 
 
-Chancellor Blaine Opens Senate Debate 
+Chancellor [[Blaine Opens Senate Debate]] 
  
-With the sombre echo of Emperor Hengist Duval still resonating throughout Capitol, the Senate reopened today to deliberate how the question of succession will be resolved. Chancellor Anders Blaine opened the discussion: 
+[[With the]] sombre echo of [[Emperor [[Hengist]] Duval]] still resonating throughout [[Capitol]], [[The]] Senate reopened today to deliberate how [[The]] question of succession will be resolved. [[Chancellor Anders Blaine]] opened the discussion: 
 
-“Without a clear line of succession, we have a solemn duty to decide who will rule the Empire  in these fractious times. It is clear that our beloved Emperor wished for Senator Arissa Lavigny-Duval to become heir and so, when the time came, become Emperor. That time has now come, but the law does not allow us to honour his wishes. Instead, we must follow the rules set out for us by centuries of law and tradition. 
+“Without a clear line of succession, we have a solemn duty to decide who will rule the Empire  in these fractious times. It is clear that [[Our]] beloved Emperor wished for Senator Arissa [[Lavigny-Duval]] to become heir and so, when the time came, become Emperor. That time has now come, [[But the]] law does not allow us to honour his wishes. Instead, we must follow the rules set out for us by centuries of law and tradition. 
 
-“The Senate has one month to determine who will be the 16th ruler to sit on the Imperial throne. The candidate must be of royal blood or of royal marriage, and must have a clear majority backing of the Senate in the final count. The final tally will be taken on October the 5th. 
+“The Senate has [[One]] month to determine who will be the 16th ruler to sit on the Imperial throne. The candidate must be of royal blood or of royal marriage, and must have a clear majority backing of the Senate in the final count. The final tally will be taken on [[October]] the 5th. 
 
 “Personally, I would urge the senators present to consider the Emperor’s intentions carefully. I knew him well, and I know that everything he did was for the good of the Empire.” 
 

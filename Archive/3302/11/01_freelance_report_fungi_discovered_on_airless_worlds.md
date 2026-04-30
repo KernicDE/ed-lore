@@ -25,19 +25,19 @@ significance: high
 Freelance Report: Fungi Discovered on Airless Worlds
 
 
-The Colonia Citizens Network has reported that fungal growths have been discovered on the airless world of Colonia 3 C A. 
+[[The]] Colonia Citizens Network has reported that fungal growths have been discovered on the airless world of Colonia 3 C A. 
 
-There appear to be four distinct species, which grow on silicate geysers. Mycologist Dr James Morel had this to say about the discovery: 
+There appear to be four distinct species, [[Which]] grow on silicate geysers. Mycologist Dr [[James Morel]] had [[This]] to say about the discovery: 
 
-"Based on the visual telemetry, I can say the shelf and puffball-like specimens fall under the basidiomycota phyla of fungi. The other two cannot be identified without studying physical samples." 
+"Based on the visual telemetry, I can say the shelf and puffball-like specimens fall under the basidiomycota phyla of fungi. The [[Other]] two cannot be identified without studying physical samples." 
 
-"I urge explorers to handle the specimens with care, and to follow basic hazardous-material handing protocol. We don't know how these species might interact with living tissue." 
+"I urge explorers to handle the specimens [[With]] care, and to follow basic hazardous-material handing protocol. We don't know how these species might interact with living tissue." 
 
-The first data on the fungus was recorded by Commander Alesia of the Pilots Federation. 
+The first data on the fungus was recorded by Commander [[Alesia]] of the [[Pilots Federation]]. 
 
-Julian McCoy of the Colonia Citizens Network Alien Research Division issued the following statement: 
+Julian McCoy of the Colonia Citizens Network Alien Research Division issued [[The following]] statement: 
 
-"The discovery of life, particularly in a remote region like the Colonia Nebula, is a remarkable achievement. I believe this find places new emphasis on the importance of colonization and expanding human knowledge of the galaxy." 
+"The discovery of life, particularly [[In a]] remote region like the Colonia Nebula, is a remarkable achievement. I believe this find places new emphasis on the importance of colonization and expanding human knowledge of the galaxy." 
 
 Hunter S Volkov 
 

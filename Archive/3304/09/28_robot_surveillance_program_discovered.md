@@ -18,14 +18,14 @@ significance: low
 Robot Surveillance Program Discovered
 
 
-The personal administration robot of business magnate Lloyd Hardacre, which recently revealed evidence of his criminal activity, has been found to contain a concealed surveillance program. 
+[[The]] personal administration robot of business magnate Lloyd Hardacre, [[Which]] recently revealed evidence of his criminal activity, has been [[Found]] to contain a concealed surveillance program. 
 
-Lieutenant Inspector Ramesh Thorne of the Federal Security Service made a statement to the media: 
+Lieutenant Inspector Ramesh Thorne of the [[Federal Security Service]] made a statement to the media: 
 
 “FSS technicians discovered a highly sophisticated surveillance program within the robot’s coreware that was covertly copying certain types of data – namely anything illegal. A minor malfunction caused the robot to incorporate the data into a company presentation.” 
 
-“Our working theory is that Mr Hardacre was the target of an undercover spy operation, but not one coordinated by any legal authority. Clearly, someone harboured suspicions about Hardacre and was looking for proof. We are conducting interviews with his business associates and competitors.” 
+“[[Our]] working theory is that Mr Hardacre was [[The target]] of an undercover spy operation, but not [[One]] coordinated by any legal authority. Clearly, someone harboured suspicions about Hardacre and was looking for proof. We are conducting interviews [[With]] his business associates and competitors.” 
 
-When asked about the robot, Lieutenant Inspector Thorne added: 
+When [[Asked about the]] robot, Lieutenant Inspector Thorne added: 
 
-“The robot is manufactured by the Achilles Corporation, and is a relatively primitive machine, designed to coordinate information and perform administrative tasks. Such robots are incapable of independent behaviour, so this one must have been subjected to comprehensive reprogramming.”
+“The robot is manufactured by the Achilles Corporation, and is a relatively primitive machine, designed to coordinate information and perform administrative tasks. Such robots are incapable of [[Independent]] behaviour, so [[This]] one must have been subjected to comprehensive reprogramming.”

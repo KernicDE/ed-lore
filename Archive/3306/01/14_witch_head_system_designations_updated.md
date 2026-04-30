@@ -19,15 +19,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Witch Head System Designations Updated
+[[Witch Head]] System Designations Updated
 
 
-Universal Cartographics has updated the names of fifteen systems in the Witch Head enclave. 
+[[Universal Cartographics]] has updated [[The]] names of fifteen systems in the Witch Head enclave. 
 
 Cynthia Sideris, chair of Universal Cartographics, elaborated on the development: 
 
-“Last year’s colonisation efforts resulted in a number of new settlements in the region, and providing systems with less unwieldy appellations is of great benefit to explorers. For example, ‘the Wisanye system’ rolls off the tongue much more agreeably than ‘the Witch Head Sector FB-X c1-7 system’.” 
+“Last year’s colonisation efforts resulted [[In a]] number of new settlements in the region, and providing systems [[With]] less unwieldy appellations is of great benefit to explorers. For example, ‘the [[Wisanye]] system’ rolls off the tongue much more agreeably than ‘the [[Witch Head Sector FB-X c1-7]] system’.” 
 
 “We are confident that these more personable memorable terms will be welcomed by the Witch Head community.” 
 
-The Witch Head enclave is currently experiencing a number of Thargoid incursions, prompting local factions to call for assistance.
+The Witch Head enclave is currently experiencing a number of [[Thargoid]] incursions, prompting local factions to call for assistance.

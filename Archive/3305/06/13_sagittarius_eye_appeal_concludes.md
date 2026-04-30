@@ -17,10 +17,10 @@ Sagittarius Eye Appeal Concludes
 
 A request for construction materials made by Sagittarius Eye has ended. 
 
-The appeal has been enthusiastically received by the galactic community, resulting in an influx of deliveries to McMullen Ring, the organisation’s base of operations. As a result, a new asteroid base named The Print Works has been established in the Millese system. 
+[[The]] appeal has been enthusiastically received by the galactic community, resulting in an influx of deliveries to McMullen Ring, the organisation’s base of operations. As a result, a new asteroid base named The Print Works has been established in the Millese system. 
 
-As the campaign drew to a close, the organisation’s spokesperson issued the following statement:  
+[[As the]] campaign drew to a close, the organisation’s spokesperson issued [[The following]] statement:  
 
-"Thanks to all you delightful pilots, we now have a lovely new print works in Millese to produce the galaxy's finest magazine. We’re absolutely thrilled, and everyone who helped is welcome to visit us in our new home." 
+"Thanks to all you delightful pilots, we now have a lovely new print works in Millese to produce the galaxy's finest magazine. We’re absolutely thrilled, and everyone who helped is welcome to visit us in [[Our]] new home." 
 
-Contributors to the campaign can now collect their rewards from McMullen Ring in the Millese system.
+Contributors to the campaign can now collect their rewards from [[McMullen Ring in the Millese]] system.

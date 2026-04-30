@@ -22,8 +22,8 @@ legacy_weight: 5
 significance: high
 ---
 
-Starports in the Coalsack and Witch Head Nebulas have been damaged during full-scale Thargoid incursions.
-An appeal by Aegis for anti-xeno support led to a concerted response from the galactic community. However, the Thargoid forces proved to be overwhelming and have attacked systems within the nebulas, with the loss of thousands of lives. 
-Admiral Aden Tanner, chief military liaison of Aegis, broadcast this message:
-“Despite the heroic efforts of many pilots, the alien ships have resisted being driven from the Witch Head Nebula.”
-“Aegis’s military capability and manpower are both severely limited as a result of curtailed funding from the Empire and the Federation. We have no choice but to rely on independent pilots and anti-xeno squadrons as the first line of defence against the Thargoid threat.”
+Starports in [[The]] [[Coalsack]] and [[Witch Head]] Nebulas have been damaged during full-scale [[Thargoid]] incursions.
+An appeal by [[Aegis]] for anti-xeno support led to a concerted response from the galactic community. However, the Thargoid forces proved to be overwhelming and have attacked systems within the nebulas, [[With the]] loss of thousands of lives. 
+Admiral Aden Tanner, chief military liaison of Aegis, broadcast [[This]] message:
+“Despite the heroic efforts of [[Many]] pilots, the alien ships have resisted being driven from the [[Witch Head Nebula]].”
+“Aegis’s military capability and manpower are both severely limited as a result of curtailed funding from the Empire and the Federation. We have no choice but to rely on [[Independent]] pilots and anti-xeno squadrons [[As the]] first line of defence against the Thargoid threat.”

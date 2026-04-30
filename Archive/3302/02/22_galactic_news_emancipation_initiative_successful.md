@@ -17,8 +17,8 @@ significance: low
 Galactic News: Emancipation Initiative Successful
 
 
-The Prismatic Imperium has announced that its initiative to free indentured slaves has been met with an enormously positive response. Hundreds of independent pilots responded to the appeal, delivering slaves to the new colony at D'Arrest Station in the Uibuth system. All of those admitted to the colony will be officially emancipated, re-educated, and offered the protection of forces loyal to Princess Aisling Duval. 
+[[The]] Prismatic Imperium has announced that [[Its]] initiative to free indentured slaves has been met [[With]] an enormously positive response. [[Hundreds of]] [[Independent]] pilots responded to the appeal, delivering slaves to the new colony at [[D'Arrest Station in the Uibuth]] system. All of those admitted to the colony will be officially emancipated, re-educated, and offered the protection of forces loyal to Princess [[Aisling Duval]]. 
 
 Her Royal Highness, who spearheaded the initiative, released a statement to the media: 
 
-"I am delighted with the response to this appeal, which has resulted in the liberation of several million slaves. I would like to extend my sincerest gratitude to the Prismatic Imperium and the Navigators Guild, who helped to execute this initiative, and to the many independent pilots who supported us. There is still a long way to go to, but I hope this triumph will pave the way for a brighter future. A future in which the practice of slavery is seen for what it is – a barbaric anachronism."
+"I am delighted [[With the]] response to [[This]] appeal, [[Which]] has resulted in the liberation of [[Several]] million slaves. I would like to extend my sincerest gratitude to the Prismatic Imperium and the Navigators Guild, who helped to execute this initiative, and to the [[Many]] independent pilots who supported us. There is still a long way to go to, but I hope this triumph will pave the way for a brighter future. A future in which the practice of slavery is seen for what it is – a barbaric anachronism."

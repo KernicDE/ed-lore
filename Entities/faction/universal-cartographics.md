@@ -1,0 +1,34 @@
+---
+id: universal-cartographics
+name: Universal Cartographics
+type: faction
+first_seen_date: '3301-02-18'
+last_seen_date: '3311-02-19'
+mention_count: 34
+related_entities:
+- act
+- brewer-corporation
+- pilots-federation
+- thargoid
+- sirius-corporation
+---
+
+<!-- AUTO-GENERATED -->
+
+# Universal Cartographics
+
+First mentioned: **3301-02-18**  
+Last mentioned: **3311-02-19**  
+Total mentions: **34**
+
+## Related
+
+- [[ACT]] (9 co-mentions)
+- [[Brewer Corporation]] (7 co-mentions)
+- [[Pilots Federation]] (5 co-mentions)
+- [[Thargoid]] (5 co-mentions)
+- [[Sirius Corporation]] (4 co-mentions)
+
+## Biography
+
+*[To be enriched]*

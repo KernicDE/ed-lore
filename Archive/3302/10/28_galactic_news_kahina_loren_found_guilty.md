@@ -16,29 +16,29 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Kahina Loren Found Guilty
+Galactic News: Kahina Loren [[Found]] Guilty
 
 
-Today, an announcement was made outside the Prism Hall of Justice confirming that Kahina Tijani Loren had been found guilty of the attempted assassination of Admiral Denton Patreus. The announcement was met with cries of dismay from a crowd of Loren's supporters, who had turned out to hear the verdict. 
+Today, an announcement was made outside [[The]] [[Prism]] Hall of Justice confirming that [[Kahina Tijani Loren]] had been found guilty of the attempted assassination of Admiral [[Denton Patreus]]. The announcement was met [[With]] cries of dismay from a crowd of Loren's supporters, who had turned out to hear the verdict. 
 
 "Ms Loren has been sentenced to life imprisonment at Koontz Asylum in the Daibo system," said a court clerk. 
 
 A leaked recording from the press room showed Loren talking with two unidentified men. Their conversation ran as follows: 
 
-"And what do you want in return for your...favour?" one man asked. 
+"And what do you want in return for your...favour?" [[One]] man asked. 
 
 "Patreus's head on a platter," responded Loren. 
 
 Having already been stripped of the title of 'senator', Loren's status as a Lady of the Empire was similarly revoked. She was taken to a secure holding facility after the verdict was announced. 
 
-Princess Aisling Duval spoke to The Imperial Citizen about the trial: 
+Princess [[Aisling Duval]] spoke to The Imperial Citizen about the trial: 
 
 "The woman is clearly deranged. She tried to kill Patreus, but justice has been served. The galaxy is now a safer place." 
 
-Admiral Denton Patreus, emerging from the courtroom, smiled and said: "They that sow the wind shall reap the whirlwind." 
+Admiral [[Denton]] Patreus, emerging from the courtroom, smiled and said: "They that sow the wind shall reap the whirlwind." 
 
-Ambassador Cuthrick Delaney, administrator of the Prism system, spoke briefly to The Imperial Herald. 
+Ambassador Cuthrick Delaney, administrator of the Prism system, spoke briefly to The [[Imperial Herald]]. 
 
-"We cannot deny the verdict, but we are dismayed by the outcome. We remain convinced that Kahina Loren is innocent. We will leave no stone unturned in our search for the truth." 
+"We cannot deny the verdict, but we are dismayed by the outcome. We remain convinced that Kahina Loren is innocent. We will leave no stone unturned in [[Our]] search for the truth." 
 
-Meanwhile, an anonymous source affiliated with the Imperial justice system said: "It's a de facto death sentence. No one returns from Koontz Asylum."
+Meanwhile, an anonymous source affiliated [[With the]] [[Imperial justice]] system said: "It's a de facto death sentence. No one [[Returns]] from Koontz Asylum."

@@ -17,8 +17,8 @@ significance: low
 Order Restored in Kamici
 
 
-Kamici Incorporated has announced that its campaign to clear the Kamici system of felons has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
+Kamici Incorporated has announced that [[Its]] campaign to clear [[The]] Kamici system of felons has been a success. [[Hundreds of]] pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
-Authorities in Kamici have extended their gratitude to those who participated in the operation. 
+[[Authorities in]] Kamici have extended their gratitude to those who participated in the operation. 
 
 Pilots who contributed to the initiative can now collect their rewards from Gaiman Port in the Kamici system.

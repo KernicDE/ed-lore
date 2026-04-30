@@ -13,11 +13,11 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Wildcard Competition Continues
+Community Goal: Wildcard Competition [[Continues]]
 
 
-The first stage of the Dangerous Games 'Wildcard' competition is over, and the second is about to begin. For this heat, pilots have been asked to head to the Bjorti system and deploy their hardpoints for a bounty-hunting contest. The faction that accumulates the most bounty vouchers during the week-long event will be declared the winner.  
+[[The]] first stage of the Dangerous Games 'Wildcard' competition is over, and the second is about to begin. For [[This]] heat, pilots have been asked to head to the [[Bjorti]] system and deploy their hardpoints for a bounty-hunting contest. The faction that accumulates the most bounty vouchers during the week-long event will be declared the winner.  
 
-The Dangerous Games Wildcard competition will run for a total of three weeks, and the victor will go on to vie for the right to be recognised as an official power. 
+The Dangerous Games Wildcard competition will [[Run]] for a total of three weeks, and the victor will go on to vie for the right to be recognised as an official power. 
 
-The event begins on the 9th of June 3302 and will run for one week.
+The event begins on the 9th of June 3302 and will run for [[One]] week.

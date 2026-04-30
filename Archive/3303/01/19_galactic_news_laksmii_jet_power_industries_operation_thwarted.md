@@ -18,9 +18,9 @@ significance: low
 Galactic News: Laksmii Jet Power Industries Operation Thwarted
 
 
-Authorities in the Parun system have reported that the Laksmii Jet Power Industries plot against the Independents of Parun has been foiled. The operation centred on smuggling various items into Underwood Port so Imperial agents could use it to conduct guerrilla attacks against the  Independents of Parun, the system's controlling faction. 
+[[Authorities in [[The]] Parun]] system have reported that the Laksmii Jet Power Industries plot against the Independents of Parun has been foiled. The operation centred on smuggling various items into Underwood Port so Imperial agents could use it to conduct guerrilla attacks against the  Independents of Parun, the system's controlling faction. 
 
-After learning of the plot, the Independents of Parun placed bounties on Laksmii Jet Power Industries ships operating in the Parun system. The strategy resulted in the destruction of hundreds of Laksmii Jet Power Industries vessels, severely undermining the organisation's plan. 
+After learning of the plot, the Independents of Parun placed bounties on Laksmii Jet Power Industries ships operating in the Parun system. The strategy resulted in the destruction of [[Hundreds of]] Laksmii Jet Power Industries vessels, severely undermining the organisation's plan. 
 
 A spokesperson for the Independents of Parun thanked those who supported the operation. 
 

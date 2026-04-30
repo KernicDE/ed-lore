@@ -19,8 +19,8 @@ significance: low
 Galactic News: California Campaign Concludes
 
 
-Civility Marks, the Chief Security Officer for the Spinward Marches Alliance Concern, has announced that the organisation’s campaign to establish an agricultural facility in the Synuefai LX-R d5-28 system has reached a successful conclusion, thanks to support from the space-faring community. Construction of the facility is expected to begin within the next few weeks. 
+Civility Marks, [[The]] Chief Security Officer for the Spinward Marches [[Alliance]] Concern, has announced that the organisation’s campaign to establish [[An agricultural]] facility in the [[Synuefai LX-R d5-28]] system has reached a successful conclusion, thanks to support from the space-faring community. Construction of the facility is expected to begin within the next few weeks. 
 
-The Spinward Marches Alliance Concern has extended its gratitude to those who supported the initiative, and invited them to try Morrina or Badfort Tea when returning to Hansford’s Landing. 
+The Spinward Marches Alliance Concern has extended [[Its]] gratitude to those who supported the initiative, and invited them to try [[Morrina]] or Badfort Tea when returning to Hansford’s Landing. 
 
 Pilots who contributed to the initiative can now collect their rewards from Hansford’s Landing in the BD+22 4939 system.

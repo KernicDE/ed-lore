@@ -9,16 +9,16 @@ legacy_weight: 2
 significance: low
 ---
 
-Classic Children’s Show Returns
+Classic Children’s Show [[Returns]]
 
 
 A children’s entertainment show that achieved great popularity 40 years ago is being remade for modern audiences. 
 
-The animated programme, which featured spacefaring camel-like lifeforms from another galaxy, was titled Andromedaries. After many years, its devoted fanbase has raised funding for an independent entertainment company to purchase the rights. 
+[[The]] animated programme, [[Which]] featured spacefaring camel-like lifeforms from another galaxy, was titled Andromedaries. After [[Many]] years, [[Its]] devoted fanbase has raised funding for an [[Independent]] entertainment company to purchase the rights. 
 
 A press release from Blackshadow Productions stated: 
 
-“This new incarnation of Andromedaries will delight fans both old and new. We’ll be going on a dark, blood-soaked journey of psychological discovery, showcasing all the trials and pressures of intergalactic travel.” 
+“[[This]] new incarnation of Andromedaries will delight fans both old and new. We’ll be going on a dark, blood-soaked journey of psychological discovery, showcasing all the trials and pressures of intergalactic travel.” 
 
 Vienna Langhorne, the creator and head writer of the original show, commented: 
 
@@ -26,4 +26,4 @@ Vienna Langhorne, the creator and head writer of the original show, commented:
 
 Ogden Smith, president of the Andromedaries Superlative Society, told the media: 
 
-“With all due respect to Vienna Langhorne, she doesn’t understand the show like we do. The new version will return viewers to the gritty, realistic drama we enjoyed when we were kids.”
+“[[With]] all due respect to Vienna Langhorne, she doesn’t understand the show like we do. The new version will return viewers to the gritty, realistic drama we enjoyed when we were kids.”

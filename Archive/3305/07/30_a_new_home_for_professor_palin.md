@@ -29,15 +29,15 @@ legacy_weight: 4
 significance: high
 ---
 
-A New Home for Professor Palin
+A New Home for [[Professor Palin]]
 
 
-Professor Ishmael Palin has established a permanent base of operations in the Arque system. 
+[[Professor Ishmael Palin]] has established a permanent base of operations in [[The]] [[Arque]] system. 
 
-Aegis Research confirmed the news with a statement from Professor Alba Tesreau: 
+[[Aegis]] Research confirmed the news [[With]] a statement from Professor [[Alba Tesreau]]: 
 
-“Having fled the Maia system, Professor Palin and his staff have installed their equipment at the planetary port Abel Laboratory on Arque 4 E.” 
+“[[Having fled the Maia]] system, Professor Palin and his staff have installed their equipment at the planetary port [[Abel Laboratory]] on Arque 4 E.” 
 
-“All of the engineering services previously offered by Professor Palin are now available at his new location. His study of meta-alloys and other Thargoid-related materials has also resumed.” 
+“All of the engineering services previously offered by Professor [[Palin are now available]] at his new location. His study of meta-alloys and [[Other]] [[Thargoid]]-related materials has also resumed.” 
 
-“The megaship Carson’s Spring, which facilitated an emergency evacuation of the Palin Research Centre, has left the Arque system to resume other duties.”
+“The megaship Carson’s Spring, [[Which]] facilitated an emergency evacuation of the Palin Research Centre, has left the Arque system to resume other duties.”

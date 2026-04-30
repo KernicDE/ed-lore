@@ -16,12 +16,12 @@ significance: low
 Ship Thief Linked to Halsey’s Visions
 
 
-There has been much speculation about starship technician Gan Romero, whose dreams are believed to have directed him to steal a ship from a starport hangar. 
+There has been much speculation about starship technician [[Gan]] Romero, whose dreams are believed to have directed him to steal a ship from a starport hangar. 
 
-On the Rewired network, independent journalist Flint ‘Firemaker’ Lafosse offered this analysis: 
+On [[The]] Rewired network, [[Independent]] journalist Flint ‘Firemaker’ Lafosse offered [[This]] analysis: 
 
-“Romero’s dream journal entries were very similar to Jasmina Halsey’s visions after the Starship One incident three years ago. Was this lowly grease monkey in touch with the same ‘caretakers of our galaxy’ that Halsey claims spoke to her?” 
+“Romero’s dream journal entries were very similar to [[Jasmina Halsey]]’s visions after the Starship [[One]] incident three years ago. Was this lowly grease monkey in touch [[With the]] same ‘caretakers of [[Our]] galaxy’ that Halsey claims spoke to her?” 
 
 “Sure, it could be coincidence. Maybe even a shared psychological disorder. But it seems possible that Halsey and Romero were telepathically contacted by the same incorporeal intelligence.” 
 
-“You can see why they might want to talk to a Federal president. But a starport technician? What’s so special about Romero? If he’s telling the truth then who knows how many more ordinary people have heard these summons from ‘bodiless voices’ over the years?”
+“You can see why they might want to talk to a Federal president. But a starport technician? What’s so special about Romero? If he’s telling the truth then who knows [[How many]] more ordinary people have heard these summons from ‘bodiless voices’ over the years?”

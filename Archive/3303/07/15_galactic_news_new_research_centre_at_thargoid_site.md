@@ -19,15 +19,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: New Research Centre at Thargoid Site
+Galactic News: New Research Centre at [[Thargoid]] Site
 
 
-As the number of newly discovered Thargoid structures continues to grow, reports from the Pleiades Sector IR-W D1-55 indicate that the Oracle, an Ocellus starport, has relocated to the system in order to study the region’s Thargoid structure. 
+As [[The number of]] newly discovered Thargoid structures [[Continues]] to grow, reports from [[The]] [[Pleiades Sector IR-W d1-55]] indicate that the [[Oracle]], an Ocellus starport, has relocated to the system in order to study the region’s Thargoid structure. 
 
-Governor Ahmed, the starport’s principal administrator, released the following statement: 
+Governor [[Ahmed]], the starport’s principal administrator, released [[The following]] statement: 
 
-“The Oracle has long been a hub for scientific research, and in recent years many of our researchers have started focusing on Unknown Artefacts and Probes. The Thargoid structures are ripe for further study, and I therefore believe it is essential that we have a dedicated research centre at one of these sites.” 
+“The Oracle has long been a hub for scientific research, and in recent years [[Many]] of [[Our]] researchers have started focusing on Unknown Artefacts and Probes. The Thargoid structures are ripe for [[Further]] study, and I therefore believe it is essential that we have a dedicated research centre at [[One]] of these sites.” 
 
-“We need to know more about the Thargoids – what they want, why they’re here and ideally how to communicate with them. My hope is that the Oracle will help us answer some of these questions.” 
+“We need to know more about the Thargoids – what they want, why they’re here and ideally how to communicate [[With]] them. My hope is that the Oracle will help us answer some of these questions.” 
 
 The Oracle is expected to arrive in the Pleiades Sector IR-W D1-55 within the next few days.

@@ -22,9 +22,9 @@ Cerberus Plague Shuts Down Station Services
 
 Cerberus Plague Shuts Down Station Services 
  
-Due to the ongoing crisis caused the Cerberus Plague, key station services at the following starports are not currently available. The following starports are affected: 
+Due to [[The]] ongoing crisis caused [[The]] Cerberus Plague, key station services at [[The following]] starports are not currently available. [[The following]] starports are affected: 
 
-In the Dajoar system: 
+[[In the Dajoar]] system: 
 
 Thiel Port 
 
@@ -34,7 +34,7 @@ Patrick Terminal
 
 Macquorn Rankine Port 
 
-Ejeta Enterprise 
+Ejeta [[Enterprise]] 
 
 In the Eleu system: 
 
@@ -46,7 +46,7 @@ Elder Station
 
 Tem Station 
 
-Pierce Gateway 
+Pierce [[Gateway]] 
 
 Bradshaw Station 
 
@@ -54,7 +54,7 @@ In the 20 Ophiuchi system:
 
 Chargaff Port 
 
-Artsebarsky Gateway 
+Artsebarsky [[Gateway]] 
 
 The following station services are unavailable: 
 

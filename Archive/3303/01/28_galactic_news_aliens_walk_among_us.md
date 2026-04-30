@@ -18,10 +18,10 @@ significance: high
 Galactic News: Aliens Walk among Us!
 
 
-Outspoken conspiracy theorist Ricardo Bentonio has lent his voice to the debate surrounding reports of mysterious spacecraft. And true to form, he has made some rather implausible claims. 
+Outspoken conspiracy theorist Ricardo Bentonio has lent his voice to [[The]] debate surrounding reports of mysterious spacecraft. And true to form, he has made some rather implausible claims. 
 
 On his programme 'Behind the Curtain', Bentonio said: 
 
-"I am in contact with an individual who has irrefutable proof that these ships are Thargoid vessels. And what's more, I have been reliably informed that the Thargoids have been exerting direct influence over human society. Everything that is happening is unfolding according to their plan. Soon, it will be too late!" 
+"I am in contact [[With]] an individual who has irrefutable proof that these ships are [[Thargoid]] vessels. And what's more, I have been reliably informed that the Thargoids have been exerting direct influence over human society. Everything that is happening is unfolding [[According to]] their plan. Soon, it will be too late!" 
 
 Few in the media or the world of politics deigned to respond to Bentonio's claims.

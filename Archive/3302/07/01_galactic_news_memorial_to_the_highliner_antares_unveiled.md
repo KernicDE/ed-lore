@@ -18,11 +18,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Memorial to the Highliner Antares Unveiled
+Galactic News: Memorial to [[The]] Highliner Antares Unveiled
 
 
-The Sirius Corporation has unveiled a memorial to those who lost their lives aboard the Highliner Antares, which was destroyed in 3251 during its maiden voyage. Using debris retrieved from the ship, capricious talent Delvin Hoorgan has created a striking tribute to the souls lost on the ship's inaugural flight. 
+The [[Sirius Corporation]] has unveiled a memorial to those who lost their lives aboard the Highliner Antares, [[Which]] was destroyed in 3251 during [[Its]] maiden voyage. Using debris retrieved from the ship, capricious talent Delvin Hoorgan has created a striking tribute to the souls lost on the ship's inaugural flight. 
 
-The memorial depicts a stylised version of the Highliner Antares, and has been constructed using light-bending meta-materials that allow light to pass through the interior of the ship as it rotates. As the sculpture moves, the intensity of the light increases, reaching a crescendo of brilliance before subsiding. 
+The memorial depicts a stylised version of the Highliner Antares, and has been constructed using light-bending meta-materials that allow light to pass through the interior of the ship as it rotates. [[As the]] sculpture moves, the intensity of the light increases, reaching a crescendo of brilliance before subsiding. 
 
 Delvin Hoorgan waived his usual commission to participate in the project. When he unveiled the memorial, he stated he was proud to have been involved in remembering the event.

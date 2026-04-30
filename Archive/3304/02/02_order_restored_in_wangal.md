@@ -16,8 +16,8 @@ significance: low
 Order Restored in Wangal
 
 
-Angeli Imperial Enterprises has announced that its campaign to clear the Wangal system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
+Angeli Imperial Enterprises has announced that [[Its]] campaign to clear [[The]] Wangal system of agitators has been a success. [[Hundreds of]] pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
-Authorities in Wangal have extended their gratitude to those who participated in the operation. 
+[[Authorities in]] Wangal have extended their gratitude to those who participated in the operation. 
 
 Pilots who contributed to the initiative can now collect their rewards from Nelder City in the Wangal system.

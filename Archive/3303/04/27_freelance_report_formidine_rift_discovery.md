@@ -19,8 +19,8 @@ significance: low
 Freelance Report: Formidine Rift Discovery
 
 
-A few days ago, a curious message was discovered by the Hamsters, a group of EM-transmission enthusiasts in the Tionisla system. A short time later, a combined effort from the Children of Raxxla and several other groups decoded the message and discovered it pointed to the Syreadiae JX-F c0 system in the so-called Formidine Rift. 
+A few days ago, a curious message was discovered by [[The]] Hamsters, a group of EM-transmission enthusiasts in the [[Tionisla]] system. A short time later, a combined effort from the Children of Raxxla and [[Several]] [[Other]] groups decoded the message and discovered it pointed to the Syreadiae JX-F c0 system in the so-called Formidine Rift. 
 
-Travelling to the system, pilots discovered a bulk cruiser called the Zurara. The ship's logs painted a haunting picture, indicating that the ship’s crew sabotaged the vessel before killing themselves. The Zurara had been adrift in the system ever since. 
+[[Travelling to the]] system, pilots discovered a bulk cruiser called the Zurara. The ship's logs painted a haunting picture, indicating that the ship’s crew sabotaged the [[Vessel]] before killing themselves. [[The Zurara had been adrift in the]] system ever since. 
 
 ABish

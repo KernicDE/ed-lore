@@ -23,10 +23,10 @@ significance: medium
 Pleiades Rescue Operation Concludes
 
 
-A spokesperson for the Aegis Research has announced that its rescue operation in the Pleiades has been enthusiastically assisted by the galactic community. Hundreds of pilots supported the operation by delivering stranded survivors and commodities to Donar's Oak in the Pleiades Sector IR-W d1-55 system. 
+A spokesperson for [[The]] [[Aegis]] Research has announced that [[Its]] rescue operation in the Pleiades has been enthusiastically assisted by the galactic community. [[Hundreds of]] pilots supported the operation by delivering stranded survivors and commodities to Donar's Oak in the [[Pleiades Sector IR-W d1-55]] system. 
 
-Superintendent Marla Poulsen of Aegis Research released the following statement: 
+Superintendent Marla Poulsen of Aegis Research released [[The following]] statement: 
 
-“The number of rescued survivors we have received is truly fantastic. We have also received enough food stocks to ensure that they’re well taken care of, before moving them to dedicated refugee centres.” 
+“[[The number of]] rescued survivors we have received is truly fantastic. We have also received enough food stocks to ensure that they’re well taken care of, before moving them to dedicated refugee centres.” 
 
 Pilots who contributed to the initiative can now collect their rewards from Donar's Oak in the Pleiades Sector IR-W d1-55 system.

@@ -1,0 +1,156 @@
+import { useState, useEffect, useRef, useCallback, useMemo } from 'react';
+import Fuse from 'fuse.js';
+
+interface SearchItem {
+  id: string;
+  title: string;
+  type: 'article' | 'entity' | 'arc' | 'location';
+  date?: string;
+  desc?: string;
+  path: string;
+}
+
+interface CommandConsoleProps {
+  articles: { uuid: string; title: string; date: string; body_preview: string; archive_path: string; arc_id: string | null }[];
+  entities: Record<string, { id: string; name: string; type: string }>;
+  arcs: Record<string, { id: string; name: string }>;
+  onClose: () => void;
+}
+
+export default function CommandConsole({ articles, entities, arcs, onClose }: CommandConsoleProps) {
+  const [query, setQuery] = useState('');
+  const [selectedIdx, setSelectedIdx] = useState(0);
+  const inputRef = useRef<HTMLInputElement>(null);
+
+  // Build search index
+  const fuse = useMemo(() => {
+    const items: SearchItem[] = [
+      ...articles.map((a) => ({
+        id: a.uuid,
+        title: a.title,
+        type: 'article' as const,
+        date: a.date,
+        desc: a.body_preview?.slice(0, 120) + '...',
+        path: `${import.meta.env.BASE_URL}#${a.date}-${a.uuid}`,
+      })),
+      ...Object.values(entities).map((e) => ({
+        id: e.id,
+        title: e.name,
+        type: 'entity' as const,
+        desc: `Type: ${e.type}`,
+        path: `${import.meta.env.BASE_URL}entity/${e.id}/`,
+      })),
+      ...Object.values(arcs).map((a) => ({
+        id: a.id,
+        title: a.name,
+        type: 'arc' as const,
+        desc: `${a.id.replace(/-/g, ' ')}`,
+        path: `${import.meta.env.BASE_URL}arc/${a.id}/`,
+      })),
+    ];
+    return new Fuse(items, {
+      keys: ['title', 'desc'],
+      threshold: 0.3,
+      includeScore: true,
+    });
+  }, [articles, entities, arcs]);
+
+  const results = useMemo(() => {
+    if (!query.trim()) return [];
+    return fuse.search(query.trim(), { limit: 20 }).map((r) => r.item);
+  }, [fuse, query]);
+
+  useEffect(() => {
+    inputRef.current?.focus();
+  }, []);
+
+  useEffect(() => {
+    setSelectedIdx(0);
+  }, [query]);
+
+  const handleKeyDown = useCallback(
+    (e: KeyboardEvent) => {
+      if (e.key === 'Escape') {
+        onClose();
+        return;
+      }
+      if (results.length === 0) return;
+
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        setSelectedIdx((i) => (i + 1) % results.length);
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        setSelectedIdx((i) => (i - 1 + results.length) % results.length);
+      } else if (e.key === 'Enter') {
+        e.preventDefault();
+        const item = results[selectedIdx];
+        if (item) {
+          window.location.href = item.path;
+        }
+      }
+    },
+    [results, selectedIdx, onClose]
+  );
+
+  useEffect(() => {
+    window.addEventListener('keydown', handleKeyDown);
+    return () => window.removeEventListener('keydown', handleKeyDown);
+  }, [handleKeyDown]);
+
+  const typeColors: Record<string, string> = {
+    article: 'var(--elite-blue)',
+    entity: 'var(--elite-orange)',
+    arc: 'var(--elite-green)',
+    location: 'var(--elite-yellow)',
+  };
+
+  return (
+    <div className="search-overlay" onClick={onClose}>
+      <div className="search-modal" onClick={(e) => e.stopPropagation()}>
+        <div className="search-input-wrap">
+          <span style={{ color: 'var(--elite-blue)', marginRight: 12, fontSize: 16 }}>›</span>
+          <input
+            ref={inputRef}
+            className="search-input"
+            placeholder="Search articles, entities, arcs..."
+            value={query}
+            onChange={(e) => setQuery(e.target.value)}
+          />
+          <span className="search-shortcut">ESC</span>
+        </div>
+        <div className="search-results">
+          {results.length === 0 && query.trim() && (
+            <div style={{ padding: 20, textAlign: 'center', color: 'var(--text-dim)', fontSize: 13 }}>
+              No results found
+            </div>
+          )}
+          {results.map((item, i) => (
+            <a
+              key={`${item.type}-${item.id}`}
+              href={item.path}
+              className={`search-result ${i === selectedIdx ? 'selected' : ''}`}
+              onMouseEnter={() => setSelectedIdx(i)}
+            >
+              <span
+                className="search-result-type"
+                style={{ borderColor: typeColors[item.type] || 'var(--border-glow)', color: typeColors[item.type] || 'var(--text-dim)' }}
+              >
+                {item.type}
+              </span>
+              <div style={{ minWidth: 0 }}>
+                <div className="search-result-title">{item.title}</div>
+                {item.desc && <div className="search-result-desc">{item.desc}</div>}
+                {item.date && (
+                  <div style={{ fontFamily: 'var(--font-mono)', fontSize: 10, color: 'var(--text-dim)', marginTop: 2 }}>
+                    {item.date}
+                  </div>
+                )}
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}

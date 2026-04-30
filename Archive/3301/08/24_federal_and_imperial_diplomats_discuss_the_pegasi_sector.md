@@ -22,15 +22,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-Federal and Imperial Diplomats Discuss the Pegasi Sector
+Federal and Imperial Diplomats Discuss [[The]] [[Pegasi]] Sector
 
 
-Federal and Imperial Diplomats Discuss the Pegasi Sector 
+Federal and Imperial Diplomats Discuss [[The]] [[Pegasi]] Sector 
  
-Historically, areas of mutual interest have resulting in cooperation between the Empire and the Federation. Now it seems that the humanitarian crisis in the Pegasi Sector represents one such mutual interest. 
+Historically, areas of mutual interest have resulting in cooperation between the Empire and the Federation. Now it seems that the humanitarian crisis in the Pegasi Sector represents [[One]] such mutual interest. 
 
-In a meeting between Federation and Imperial commanders, Commander Nyluss of the Merchant Marines offered these words: "We must re-establish liberty in those zones that have become lawless. The Kumo Crew and its vagabond leader will no longer be tolerated in our space. I call upon all Federation pilots. How can you tolerate this encroachment upon our worlds?” 
+[[In a]] meeting between Federation and Imperial commanders, Commander [[Nyluss]] of the Merchant Marines offered these words: "We must re-establish liberty in those zones that have become lawless. The [[Kumo Crew]] and [[Its]] vagabond leader will no longer be tolerated in [[Our]] space. I call upon all Federation pilots. How can you tolerate [[This]] encroachment upon [[Our]] worlds?” 
 
-Commander Corrigendum of Lavigny’s Legion added: “We welcome all those who want to oppose the tyranny of Archon Delaine, and ask that Federation and Imperial commanders operating in the Pegasi sector give one another a wide berth as they work toward the common goal of bringing Delaine to justice." 
+Commander [[Corrigendum]] of Lavigny’s Legion added: “We welcome all those who want to oppose the tyranny of Archon Delaine, and ask that Federation and Imperial commanders operating in the Pegasi sector give [[One]] another a wide berth as they work toward the common goal of bringing Delaine to justice." 
 
-Commander Corrigendum, Lavigny's Legion
+Commander [[Corrigendum]], Lavigny's Legion

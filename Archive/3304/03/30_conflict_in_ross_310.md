@@ -14,17 +14,17 @@ legacy_weight: 2
 significance: low
 ---
 
-Conflict in Ross 310
+Conflict in [[Ross 310]]
 
 
-Conflict has erupted between Ross 310 Natural Services, the controlling faction of the Ross 310 system, and the Ross 310 Cartel, a criminal organisation also based in Ross 310. 
+Conflict has erupted between Ross 310 Natural Services, [[The]] controlling faction of the Ross 310 system, and the Ross 310 Cartel, a criminal organisation also based in Ross 310. 
 
 It is understood that the Ross 310 Cartel is attempting to overthrow Ross 310 Natural Services and assume control of the system. 
 
-Toru Jacobs, a member of Ross 310 Natural Services, issued the following statement: 
+Toru Jacobs, a member of Ross 310 Natural Services, issued [[The following]] statement: 
 
-“The Ross 310 Cartel is well equipped and highly organised, and there’s a very real chance they could take control of the system. But the brave men and women of Ross 310 Natural Services are doing everything they can to prevent that from happening.” 
+“The Ross 310 Cartel is well equipped and highly organised, and there’s a very real chance they could take control of the system. [[But the]] brave men and women of Ross 310 Natural Services are doing everything they can to prevent that from happening.” 
 
-Both organisations have issued calls for aid, appealing to independent combat pilots for support. Commanders who participate in the conflict will be generously rewarded by their chosen faction. 
+Both organisations have issued calls for aid, appealing to [[Independent]] combat pilots for support. Commanders who participate in the conflict will be generously rewarded by their chosen faction. 
 
-Both factions have set out week-long operations to take control of the system, which will begin on the 29th of March 3304.
+Both factions have set out week-long operations to take control of the system, [[Which]] will begin on the 29th of March 3304.

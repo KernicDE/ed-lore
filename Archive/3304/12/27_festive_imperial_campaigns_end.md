@@ -19,12 +19,12 @@ significance: low
 Festive Imperial Campaigns End
 
 
-Initiatives to supply Imperial senator Simone Leatrix’s festivities have reached a conclusion. 
+Initiatives to supply Imperial senator Simone [[Leatrix]]’s festivities have reached a conclusion. 
 
-Mass deliveries of food and jewels took place in the Cemiess system. 
+Mass deliveries of food and jewels took place in [[The]] [[Cemiess]] system. 
 
-As the campaigns drew to a close, Senator Leatrix made this statement: 
+[[As the]] campaigns drew to a close, Senator Leatrix made [[This]] statement: 
 
 “My gratitude goes to those who helped make this celebration possible. I hope the sight of my glittering mountaintop retreat serves as an inspiration in these times of civil disquiet.” 
 
-Traders who supported the initiative can now collect their rewards from Mackenzie Relay in the Cemiess system.
+Traders who supported the initiative can now collect their rewards from [[Mackenzie Relay in the Cemiess]] system.

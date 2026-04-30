@@ -20,19 +20,19 @@ significance: high
 Freelance Report: Barnacles under Assault
 
 
-The recent meta-alloy rush has left many of the barnacles in the Pleiades Nebula barren. 
+[[The]] recent meta-alloy rush has left [[Many of the]] barnacles in the [[Pleiades Nebula]] barren. 
 
-As many scramble to meet the high demand for the material, it seems the Federation lacks the resources to provide adequate defence. 
+As [[Many]] scramble to meet the high demand for the material, it seems the Federation lacks the resources to provide adequate defence. 
 
-Federal vessels have reportedly transported huge quantities of meta-alloys from the Merope system, suggesting that it may be partly responsible for the drought. 
+Federal vessels have reportedly transported huge quantities of meta-alloys from the [[Merope]] system, suggesting that it may be partly responsible for the drought. 
 
-One independent researcher said: 
+[[One]] [[Independent]] researcher said: 
 
-"As far as we know, a barnacle will 'regenerate' after one week, although we don't know if this is always the case." 
+"As [[Far]] as we know, a barnacle will 'regenerate' after one week, although we don't know if [[This]] is always the case." 
 
 "Research indicates that harvesting only 'ripe' spikes will keep the barnacle healthy. A simple scan and visual check will confirm spike maturity." 
 
-"Further testing will be needed to determine the specifics, but with the crisis facing civilised space, conducting controlled experiments on barnacles has become next to impossible." 
+"[[Further]] testing will be needed to determine the specifics, but [[With the]] crisis facing civilised space, conducting controlled experiments on barnacles has become next to impossible." 
 
 "The way things are going, we risk losing these magnificent entities for good." 
 

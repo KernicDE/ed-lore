@@ -19,7 +19,7 @@ A components drive for a device to detect illegally reprogrammed robots has conc
 
 Taniyah Sharpe, CEO of technology company Macrosphere, announced: 
 
-“There was a fantastic response to our request, which the DS Leonis Industries organised on our behalf. Many thanks to those who participated.” 
+“There was a fantastic response to [[Our]] request, [[Which]] [[The]] DS Leonis Industries organised on our behalf. [[Many]] thanks to those who participated.” 
 
 “Whether you own a personal admin robot or a factory of industrial machines, the Mech Scanner will confirm that they are functioning as intended.” 
 

@@ -14,13 +14,13 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic Mechanics Union Busted Breaking Laws
+[[Galactic Mechanics Union]] Busted Breaking Laws
 
 
-Word has reached GalNet that an investigation into the Galactic Mechanics Union will result in charges being brought against the organisation by all three of the galaxy’s major powers. 
+Word has reached GalNet that an investigation into [[The]] [[Galactic Mechanics Union]] will result in charges being brought against [[The]] organisation by [[All three]] of the galaxy’s major powers. 
 
-The investigation, which was carried out in secret by a consortium of independent investigators, has found that the GMU has been involved in anti-competitive business practices, including price fixing on a galactic scale. 
+The investigation, [[Which]] was carried out in secret by a consortium of [[Independent]] investigators, has [[Found]] that the GMU has been involved in anti-competitive business practices, including price fixing on a galactic scale. 
 
-Lawsuits are currently in the process of being submitted to the appropriate authorities. With millions of potential plaintiffs signing up to take part in what will doubtless be the largest class action case in history, it seems unlikely that the GMU will make it out of the courts still in one piece once this is all over. 
+Lawsuits are currently in the process of being submitted to the appropriate authorities. [[With]] millions of potential plaintiffs signing up to take part in what will doubtless be the largest class action case in history, it seems unlikely that the GMU will make it out of the courts still in [[One]] piece once [[This]] is all over. 
 
 While the lawsuits are likely to go on for years before anyone is able to claim any kind of compensation, ship repair costs should start becoming significantly cheaper now that the GMU’s price fixing operations have come to an end.

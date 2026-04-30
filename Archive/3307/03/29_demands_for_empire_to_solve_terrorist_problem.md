@@ -30,9 +30,9 @@ legacy_weight: 5
 significance: high
 ---
 
-The fear of further starport bombings has placed internal and external pressure on the Empire to address the threat posed by the NMLA.
-Despite sharing intelligence via ACT, the Alliance and Federation have demanded that the Empire must do more to eradicate the NMLA, since it is ‘Imperial in origin and ambition’. 
+[[The]] fear of [[Further]] starport bombings has placed internal and external pressure on the Empire to address the threat posed by the NMLA.
+Despite sharing intelligence via ACT, the [[Alliance]] and Federation have demanded that the Empire must do more to eradicate the NMLA, since it is ‘Imperial in origin and ambition’. 
 The latest developments were covered by mainstream media channels.
-The Imperial Herald: “In the Senate, Chancellor Anders Blaine reported that the Emperor has instructed him to present a range of options. Senator Lorcan Scordato has volunteered to visit the Marlinist Colonies on a fact-finding mission, to better understand the political character of the Neo-Marlinist fringe.” 
-Eye on Achenar: “The entire system is still shellshocked by the slaughter at Dawes Hub, a vicious stab at the heart of our glorious Empire. In our opinion poll, 93% of right-thinking citizens would send a fleet of Majestics to the murdering Marlinists instead of some soft-hearted senator.”
-Vox Galactica: “In most Imperial cities and settlements, anxiety levels remain high. The NMLA’s ability to strike seemingly anywhere has rocked public confidence in the Empire’s strength. Opinions on Marlinism itself are more polarised than ever, with accusations of ‘warmonger’ and ‘collaborator’ dividing many families and relationships.”
+The [[Imperial Herald]]: “In the Senate, Chancellor [[Anders Blaine reported that]] the Emperor has instructed him to present a range of options. Senator [[Lorcan Scordato]] has volunteered to visit the [[Marlinist]] Colonies on a fact-finding mission, to better understand the political character of the Neo-Marlinist fringe.” 
+Eye on [[Achenar]]: “[[The entire]] system is still shellshocked by the slaughter at [[Dawes Hub]], a vicious stab at the heart of [[Our]] glorious Empire. In our opinion poll, 93% of right-thinking citizens would send a fleet of Majestics to the murdering Marlinists instead of some soft-hearted senator.”
+Vox Galactica: “In most Imperial cities and settlements, anxiety levels remain high. The NMLA’s ability to strike seemingly anywhere has rocked public confidence in the Empire’s strength. Opinions on Marlinism itself are more polarised than ever, [[With]] accusations of ‘warmonger’ and ‘collaborator’ dividing [[Many]] families and relationships.”

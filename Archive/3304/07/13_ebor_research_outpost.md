@@ -23,14 +23,14 @@ significance: high
 Ebor Research Outpost
 
 
-Cobra Wing, an independent organisation based in Ebor, has launched an initiative to build a new research outpost in the system. 
+Cobra Wing, an [[Independent]] organisation based in Ebor, has launched an initiative to build a new research outpost in [[The]] system. 
 
-The outpost will support further research into the Thargoids, focusing specifically on the possibility of inter-species communication. 
+The outpost will support [[Further]] research into the Thargoids, focusing specifically on the possibility of inter-species communication. 
 
-A spokesperson for Cobra Wing gave the following statement: 
+A spokesperson for Cobra Wing gave [[The following]] statement: 
 
-“Without communication, there can be no understanding. Without understanding, there can be no peace. We ask the galactic community to support this campaign, which will support new research into the Thargoids and their methods of communication.” 
+“Without communication, there can be no understanding. Without understanding, there can be no peace. We ask the galactic community to support [[This]] campaign, [[Which]] will support new research into the Thargoids and their methods of communication.” 
 
-In support of this goal, Cobra Wing has placed an open order for various commodities, and has promised to reward pilots who deliver these commodities to Morris Enterprise in the Ebor system. The organisation has also placed a kill order on all ships on its wanted list, to ensure that those contributing commodities to the campaign can do so safely. 
+In support of this goal, Cobra Wing has placed an open order for various commodities, and has promised to reward pilots who deliver these commodities to [[Morris [[Enterprise]] in the Ebor]] system. The organisation has also placed a kill order on all ships on [[Its]] wanted list, to ensure that those contributing commodities to the campaign can do so safely. 
 
-The campaign begins on the 12th July 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 12th July 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

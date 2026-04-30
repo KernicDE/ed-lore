@@ -21,6 +21,6 @@ significance: medium
 Galactic News: Colonia Resource Drive Concludes
 
 
-Recent reports indicate that the Colonia Co-operative resource drive has received the wholehearted support of the galactic community. Thousands of tonnes of resources have been delivered to Jaques Station over the past week, which will be used to develop infrastructure throughout Colonia and the surrounding systems. 
+Recent reports indicate that [[The]] Colonia Co-operative resource drive has received the wholehearted support of the galactic community. Thousands of tonnes of resources have been delivered to [[Jaques Station]] over the past week, [[Which]] will be used to develop infrastructure throughout [[Colonia and the surrounding]] systems. 
 
-The Colonia Co-operative has thanked those who contributed to the campaign, and invited them to collect their rewards from Colonia Dream in the Eol Prou Lw-L C8-76 system.
+The Colonia Co-operative has thanked those who contributed to the campaign, and invited them to collect their rewards from Colonia Dream in the [[Eol Prou]] Lw-L C8-76 system.

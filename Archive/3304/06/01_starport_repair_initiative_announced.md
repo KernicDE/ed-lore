@@ -23,12 +23,12 @@ significance: high
 Starport Repair Initiative Announced
 
 
-Following Thargoid strikes on the fringes of the core systems, a new initiative to restore damaged starports has been announced. 
+Following [[Thargoid]] strikes on [[The]] fringes of the core systems, a new initiative to restore damaged starports has been announced. 
 
-Chief administrator Carter Armstrong spoke on behalf of Aegis Core, which is coordinating the campaign: 
+Chief administrator Carter Armstrong spoke on behalf of [[Aegis]] Core, [[Which]] is coordinating the campaign: 
 
-“We’ve set up this fund to reassure citizens that normality will continue, no matter what. I would like to appeal to the galactic community to restore services in the core systems to their previously high standard.” 
+“We’ve set up [[This]] fund to reassure citizens that normality will continue, no matter what. I would like to appeal to the galactic community to restore services [[In the core]] systems to their previously high standard.” 
 
-An open order has been placed for construction materials, which will be shipped to the affected starports and used to make repairs. Pilots are asked to make their deliveries to Dantec Enterprise in the Socho system. 
+An open order has been placed for construction materials, which will be shipped to the affected starports and used to make repairs. Pilots are asked to make their deliveries to Dantec [[Enterprise]] in [[The Socho]] system. 
 
-The campaign begins on the 31st of May 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 31st of May 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

@@ -17,10 +17,10 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Jasmina Halsey Not yet at Full Health
+Galactic News: [[Jasmina Halsey]] Not yet at Full Health
 
 
-For the past three days, Jasmina Halsey has been recuperating at Leoniceno Orbital, where she was taken after she was rescued from the wreckage of Starship One. Since then, all interview requests have been firmly rebuffed by the starport's medical personnel, who insist the former president is not yet well enough to talk to the media. But while the galaxy waits for an official interview, the Federal Times has managed to wrest a few words from her sister, Azalea Halsey, who recently visited her sibling:  
+For [[The]] past three days, Jasmina Halsey has been recuperating at Leoniceno Orbital, where she was taken after she was rescued from the wreckage of Starship [[One]]. Since then, all interview requests have been firmly rebuffed by the starport's medical personnel, who insist the former president is not yet well enough to talk to the media. But while the galaxy waits for an official interview, the [[Federal Times]] has managed to wrest a few words from her sister, Azalea Halsey, who recently visited her sibling:  
 
 "Jasmina appears to be in good health, but she did seem rather distant. She said some things I didn't understand – something about stars and...creation, I think – but given what she's been through I thought she was remarkably lucid, most of the time. I'm sure she'll be back to her old self soon." 
 

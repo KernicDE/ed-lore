@@ -20,12 +20,12 @@ significance: high
 Freelance Report: Collaborative Effort to Restore Ackerman Market
 
 
-Ackerman Market in Eravate is just one of the stations affected by the plague. Before it was shut down it was a popular rest stop for Commanders embarking on new careers in space. Just a few days ago its commodities market reopened, and a huge demand for meta-alloys has been reported. 
+Ackerman Market in Eravate is just [[One]] of [[The]] stations affected by the plague. Before it was shut down it was a popular rest stop for Commanders embarking on new careers in space. Just a few days ago [[Its]] commodities market reopened, and a huge demand for meta-alloys has been reported. 
 
-Responding to this, an alliance comprising Commanders Kermit Laphroaig, ThatDamnRanga, Ollobrains, Zenith Ddraiglas and others has formed, which hopes to saturate the market at Ackerman with meta-alloys so the starport can be restored to working order. 
+Responding to [[This]], an [[Alliance]] comprising Commanders Kermit Laphroaig, ThatDamnRanga, Ollobrains, Zenith Ddraiglas and others has formed, [[Which]] hopes to saturate the market at Ackerman [[With]] meta-alloys so the starport can be restored to working order. 
 
 A joint statement reads: 
 
-"Everyone wants Ackerman online, so we're putting aside our differences to make it happen. We hope Commanders of all allegiances will join us in this collaborative effort, which starts immediately and will run until the station is operational again." 
+"Everyone wants Ackerman online, so we're putting aside [[Our]] differences to make it happen. We hope Commanders of all allegiances will join us in this collaborative effort, which starts immediately and will [[Run]] until the station is operational again." 
 
-Commander Lord Zoltan
+Commander [[Lord Zoltan]]

@@ -19,11 +19,11 @@ significance: low
 Community Goal: Mysterious Organisation Releases Message
 
 
-In November last year, a mysterious organisation known as Revolution Incorporated placed an open order for explosives in commemoration of the Gunpowder Plot – a historic incident dating from Earth's distant past. 
+In November last year, a mysterious organisation known as Revolution Incorporated placed an open order for explosives in commemoration of [[The]] Gunpowder Plot – a historic incident dating from [[Earth]]'s distant past. 
 
-The request attracted the attention of security officials who feared it might presage a terrorist attack, but ultimately no such attack took place. It is now believed that if the group did have nefarious intent, its plans were foiled. 
+The request attracted the attention of security officials who feared it might presage a terrorist attack, but ultimately no such attack took place. It is now believed that if the group did have nefarious intent, [[Its]] plans were foiled. 
 
-But despite this apparent setback, the organisation itself has endured, having issued the following message to media outlets and social networks throughout the galaxy: 
+But despite [[This]] apparent setback, the organisation itself has endured, having issued [[The following]] message to media outlets and social networks throughout the galaxy: 
 
 "Last time, they stopped us. This time, they will not. The powers-that-be must accept their fate, and pay the price for their misdeeds." 
 
@@ -31,6 +31,6 @@ But despite this apparent setback, the organisation itself has endured, having i
 
 "If you are a true believer, be at the following location at 16.05 UTC on the 5th of November 3302." 
 
-"Novas A 6, Novas system." 
+"[[Novas]] A 6, Novas system." 
 
-Security forces in the Novas system have urged the public to ignore the message.
+[[Security forces in the Novas]] system have urged the public to ignore the message.

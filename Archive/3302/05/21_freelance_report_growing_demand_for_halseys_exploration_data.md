@@ -15,12 +15,12 @@ significance: low
 Freelance Report: Growing Demand for Halsey's Exploration Data
 
 
-A demonstration was held today at Leoniceno Orbital in Azaleach calling for the immediate release of all information submitted in response to former Federal president Jasmina Halsey's appeal for exploration data. 
+A demonstration was held today at Leoniceno Orbital in [[Azaleach]] calling for [[The]] immediate release of all information submitted in response to former Federal [[President Jasmina Halsey]]'s appeal for exploration data. 
 
-"Something isn't right here," said one of the demonstrators. "Mountains of data were submitted, and within two days they were able to review it thoroughly enough to declare there was absolutely nothing of interest? This reeks of a cover up." 
+"Something isn't right here," said [[One]] of the demonstrators. "Mountains of data were submitted, and within two days they were able to review it thoroughly enough to declare there was absolutely nothing of interest? [[This]] reeks of a cover up." 
 
-Speakers at the rally demanded that the Azaleach Partnership, to which the information was submitted, release the data so its findings could be independently verified. 
+Speakers at the rally demanded that the Azaleach Partnership, to [[Which]] the information was submitted, release the data so [[Its]] findings could be independently verified. 
 
-"Science relies on openness, collaboration and peer review," argued one speaker. "It's an integral part of the process. Any conclusions based on secret data should be treated with suspicion." 
+"Science relies on openness, collaboration and peer review," argued one speaker. "It's an integral part of the process. Any conclusions based on secret data should be treated [[With]] suspicion." 
 
 Commander Corlas

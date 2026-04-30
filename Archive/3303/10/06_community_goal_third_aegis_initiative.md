@@ -21,15 +21,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Community Goal: Third Aegis Initiative
+Community Goal: Third [[Aegis]] Initiative
 
 
-Aegis has announced the third phase of its programme to counter the Thargoid threat, and is once again turning to the galactic community for the necessary Thargoid-related materials. 
+Aegis has announced [[The]] third phase of [[Its]] programme to counter the [[Thargoid]] threat, and is once again turning to the galactic community for the necessary Thargoid-related materials. 
 
-As the campaign began, Aegis' Head of Research, Professor Alba Tesreau, released the following statement: 
+[[As the]] campaign began, Aegis' Head of Research, Professor [[Alba Tesreau]], released [[The following]] statement: 
 
-"We are facing a technologically superior enemy, and it is essential that we redress the balance. But for each new device we develop, we need huge quantities of Thargoid material so we can calibrate the technology and ensure its efficacy." 
+"We are facing a technologically superior enemy, and it is essential that we redress the balance. But for [[Each]] new device we develop, we need huge quantities of Thargoid material so we can calibrate the technology and ensure its efficacy." 
 
-The initiative has received financial support from the Wyrd Jet Power Industries, which has pledged to reimburse pilots who deliver Thargoid Cyclops tissue samples, micro controllers and explosives to Vonarburg Co-operative in the Wyrd system. 
+The initiative has received financial support from the Wyrd Jet Power Industries, [[Which]] has pledged to reimburse pilots who deliver Thargoid Cyclops tissue samples, micro controllers and explosives to [[Vonarburg Co-operative in the Wyrd]] system. 
 
-The campaign begins on the 5th of October and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 5th of [[October]] and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

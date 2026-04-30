@@ -25,13 +25,13 @@ significance: high
 Galactic News: Federation Withdraws from Pleiades
 
 
-Authorities in systems throughout the Pleiades Nebula have reported that the Federation has withdrawn its ships from the region. The development follows ongoing speculation regarding the Federal-Imperial cold war. 
+[[Authorities in]] systems throughout [[The]] [[Pleiades Nebula]] have reported that the Federation has withdrawn [[Its]] ships from the region. The development follows ongoing speculation regarding the Federal-Imperial cold war. 
 
-The Federation first deployed ships to the Pleiades over two years ago, in a move that was widely interpreted as an attempt to control the region’s meta-alloys. The Empire responded by positioning several Majestic-class Interdictors in the Pleiades. A period of hostility ensued, with both superpowers engaging in a number of proxy conflicts. 
+The Federation first deployed ships to the Pleiades over two years ago, [[In a]] move that was widely interpreted as an attempt to control the region’s meta-alloys. The Empire responded by positioning [[Several]] Majestic-class Interdictors in the Pleiades. A period of hostility ensued, [[With]] both superpowers engaging in a number of proxy conflicts. 
 
-The Imperial Herald’s political correspondent, Daxton Sung, who has repeatedly written about the conflict, said: 
+The [[Imperial Herald]]’s political correspondent, Daxton Sung, who has repeatedly written about the conflict, said: 
 
-“There’s little doubt in my mind that the formation of Aegis served as a catalyst for this development, but the current wave of Thargoid hostility was probably the main cause. President Hudson is keenly aware that to continue to oppose the Empire, when humanity is faced with an alien threat, would do him no favours politically. So I’m not surprised by this development, although I will admit that I didn’t expect the Federation to make the first move.” 
+“There’s little doubt in my mind that the formation of [[Aegis]] served as a catalyst for [[This]] development, [[But the]] current wave of [[Thargoid]] hostility was probably the main cause. President Hudson is keenly aware that to continue to oppose the Empire, when humanity is faced with an alien threat, would do him no favours politically. So I’m not surprised by this development, although I will admit that I didn’t expect the Federation to make the first move.” 
 
 Neither the Federation nor the Empire has commented on the issue, but it is expected that the Empire will also withdraw its ships from the Pleiades soon. 
 

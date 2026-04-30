@@ -24,12 +24,12 @@ significance: low
 Sirius Corp Announces Expansion
 
 
-The Sirius Corporation has announced that it will be expanding its presence at two locations just outside the core systems. 
+[[The]] [[Sirius Corporation]] has announced that it will be expanding [[Its]] presence at two locations just outside the core systems. 
 
   
 
-A spokesperson for Sirius made this statement: 
+A spokesperson for Sirius made [[This]] statement: 
 
-“For some time now, the amount of traffic passing through both the Ceos and Sothis systems has been steadily increasing. Naturally, we are keen to ensure that all pilots have access to essential services.” 
+“For some time now, the amount of traffic passing through both the [[Ceos and Sothis]] systems has been steadily increasing. Naturally, we are keen to ensure that all pilots have access to essential services.” 
 
-“To this end, we are in the process of building several new starports and settlements in these systems, as well as several megaships. These will support Ceos and Sothis’s residents and visitors, and provide pilots with the high standard of services that they have come to expect from Sirius Corp.”
+“To this end, we are in the process of building [[Several]] new starports and settlements in these systems, as well as several megaships. These will support [[Ceos]] and [[Sothis]]’s residents and visitors, and provide pilots [[With the]] high standard of services that they have come to expect from Sirius Corp.”

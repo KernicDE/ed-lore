@@ -14,19 +14,19 @@ legacy_weight: 2
 significance: low
 ---
 
-Ambitious Plans for Carns
+Ambitious Plans for [[Carns]]
 
 
-Ambitious Plans for Carns 
+Ambitious Plans for [[Carns]] 
  
-The leadership for Humason Orbital in the Carns system responded today to a report released earlier in the week, suggesting that the mining operations in the system would soon become uneconomical. 
+[[The]] leadership for Humason Orbital in [[The]] Carns system responded today to a report released earlier in the week, suggesting that the mining operations in the system would soon become uneconomical. 
 
 Plans were revealed to upgrade the extraction and industrial facilities to support high tech operations. In the press briefing Ramon Lamor, Deputy Communications Officer, commented: 
 
-“We should not see the closure of the mines as a problem, but as an opportunity for this system to become a greater player in the economy of the surrounding region. Our researchers have identified a gap in the high technology market that we can exploit.” 
+“We should not see the closure of the mines as a problem, but as an opportunity for [[This]] system to become a greater player in the economy of the surrounding region. [[Our]] researchers have identified a gap in the high technology market that we can exploit.” 
 
-He then outlined an extensive programme of acquisitions to provide the robotics needed for the new product lines, which would see both the extraction and industrial concerns replaced. When questioned about the effects of this change on existing businesses, he replied: 
+He then outlined an extensive programme of acquisitions to provide the robotics needed for the new product lines, [[Which]] would see both the extraction and industrial concerns replaced. When questioned about the effects of [[This]] change on existing businesses, he replied: 
 
-“There will obviously be a number of changes with this global shift in focus. However, if we are to thrive in the future then these adjustments must be made. We will provide both financial and logistical support to corporations operating in Carns.” 
+“There will obviously be a number of changes [[With]] this global shift in focus. However, if we are to thrive in the future then these adjustments must be made. We will provide both financial and logistical support to corporations operating in Carns.” 
 
-At the close of the briefing, he stated that the nature of the local workforce would also need to change and that further information would be revealed within the next few days.
+At the close of the briefing, he stated that the nature of the local workforce would also need to change and that [[Further]] information would be revealed within the next few days.

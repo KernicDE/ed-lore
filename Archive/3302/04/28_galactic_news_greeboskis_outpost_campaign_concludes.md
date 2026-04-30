@@ -16,8 +16,8 @@ significance: low
 Galactic News: Greeboski's Outpost Campaign Concludes
 
 
-The Sovereign Justice Collective has released a jubilant statement, confirming that it has received sufficient quantities of titanium to carry out its upgrade programme at Greeboski's Outpost. Hundreds of independent pilots responded to the appeal by delivering the much-needed material to the Phiagre system starport. 
+[[The]] Sovereign Justice Collective has released a jubilant statement, confirming that it has received sufficient quantities of titanium to carry out [[Its]] upgrade programme at Greeboski's Outpost. [[Hundreds of]] [[Independent]] pilots responded to the appeal by delivering the much-needed material to the Phiagre system starport. 
 
-Chancellor Zahra Arias, spokesperson for the Sovereign Justice Collective, released a brief statement: 
+Chancellor [[Zahra Arias]], spokesperson for the Sovereign Justice Collective, released a brief statement: 
 
-"We are immeasurably grateful for the support of the galactic community. The success of this campaign means a brighter future for the people of Phiagre, and an outpost with state-of-the-art services and facilities. Now if you'll excuse me, there's work to be done!"
+"We are immeasurably grateful for the support of the galactic community. The success of [[This]] campaign means a brighter future for the people of Phiagre, and an outpost [[With]] state-of-the-art services and facilities. Now if you'll excuse me, there's work to be done!"

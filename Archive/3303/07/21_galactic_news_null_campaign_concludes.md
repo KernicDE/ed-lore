@@ -17,10 +17,10 @@ significance: low
 Galactic News: NULL Campaign Concludes
 
 
-A spokesperson for NULL has announced that its appeal for commodities has been enthusiastically received by the galactic community, resulting in a massive influx of deliveries to Conway City, the organisation’s base of operations. The organisation’s campaign to clear the system of agitators has also been a success. 
+A spokesperson for NULL has announced that [[Its]] appeal for commodities has been enthusiastically received by [[The]] galactic community, resulting [[In a]] massive influx of deliveries to Conway City, the organisation’s base of operations. The organisation’s campaign to clear the system of agitators has also been a success. 
 
-A spokesperson for the organisation released the following statement: 
+A spokesperson for the organisation released [[The following]] statement: 
 
-“With the help of the galactic community we have been able to amass the necessary materials to build our new base, and rid the system of corruption and crime. We would like to thank all those who helped make this initiative a success.” 
+“[[With the]] help of the galactic community we have been able to amass the necessary materials to build [[Our]] new base, and rid the system of corruption and crime. We would like to thank all those who helped make [[This]] initiative a success.” 
 
 Pilots who contributed to the initiative can now collect their rewards from Conway City in the LTT 4961 system.

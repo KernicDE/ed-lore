@@ -21,15 +21,15 @@ significance: low
 Federal System Resists Imperial Takeover
 
 
-*Pilots Federation ALERT* 
+*[[Pilots Federation]] ALERT* 
 
-The Federation has successfully maintained control of the LTT 1935 system, following a battle against local Imperial forces. The conflict was caused by an Imperial investigation that traced deliveries of bomb-making materials from this system to an NMLA workshop.  
+[[The]] Federation has successfully maintained control of [[The LTT 1935]] system, following a battle against local Imperial forces. The conflict was caused by an Imperial investigation that traced deliveries of bomb-making materials from [[This]] system to an NMLA workshop.  
 
-Colonel Ernest Harris of the LTT 1935 Confederacy stated:  
+Colonel Ernest Harris of the [[LTT 1935]] Confederacy stated:  
 
-“The LTT 1935 system remains part of the Federation, now that we have defended against the Empire’s attempt to take control. Our citizens have been saved from the indignities of Imperial interrogation.” 
+“The LTT 1935 system remains part of the Federation, now that we have defended against the Empire’s attempt to take control. [[Our]] citizens have been saved from the indignities of Imperial interrogation.” 
 
-“In gratitude to the Federal auxiliaries and independent pilots who helped support our freedom, rewards are now available at Wolf Port .” 
+“In gratitude to the Federal auxiliaries and [[Independent]] pilots who helped support our freedom, rewards are now available at Wolf Port .” 
 
 There was also a message from Captain Axel Cyprian of the L.Y.S Corp: 
 

@@ -9,10 +9,10 @@ legacy_weight: 2
 significance: low
 ---
 
-The Legend Returns
+[[The]] Legend [[Returns]]
 
 
-It's been some time since Jaques began his epic journey from orbit around the moon of Topaz into the mysterious places of the great unknown. A week ago we reported that Jacques Station was seen by an intrepid commander in HIP 110620. 
+It's been some time since Jaques began his epic journey from orbit around [[The]] moon of Topaz into the mysterious places of the great unknown. A week ago we reported that Jacques Station was seen by an intrepid commander in HIP 110620. 
 
 What mysteries will the enigmatic cyborg see on his long travels? Emma Hallows, asked Jaques those very same questions the robotic barkeep responded- 
 

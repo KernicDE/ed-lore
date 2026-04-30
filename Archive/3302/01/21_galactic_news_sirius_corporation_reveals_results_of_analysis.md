@@ -20,9 +20,9 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Sirius Corporation Reveals Results of Analysis
+Galactic News: [[Sirius Corporation]] Reveals Results of Analysis
 
 
-Following the recent discovery of the remains of the Antares, the Sirius Corporation has been subjecting the wreckage to extensive analysis in an attempt to determine exactly what happened to the luxury liner. In a press conference held this morning, a spokesperson for the organisation revealed the initial results of the analysis: 
+Following [[The]] recent discovery of the remains of the Antares, [[The Sirius]] Corporation has been subjecting the wreckage to extensive analysis in an attempt to determine exactly what happened to the luxury liner. [[In a]] press conference held [[This]] morning, a spokesperson for the organisation revealed the initial results of the analysis: 
 
-"Our investigation has confirmed the original finding that a cascade failure in the hyperdrive's internal containment systems caused a catastrophic explosion within the drive. The mapped wreckage pattern suggests that the failure occurred while the Antares was transitioning from normal space to hyperspace. The precise cause of the failure remains unexplained, however. We will continue to analyse the available data to see what more we can learn."
+"[[Our]] investigation has confirmed the original finding that a cascade failure in the hyperdrive's internal containment systems caused a catastrophic explosion within the drive. The mapped wreckage pattern suggests that the failure occurred while the Antares was transitioning from normal space to hyperspace. The precise cause of the failure remains unexplained, however. We will continue to analyse the available data to see what more we can learn."

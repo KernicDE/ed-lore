@@ -16,4 +16,4 @@ significance: low
 Galactic News: Latest Imperial Campaign Concludes
 
 
-Lavigny's Legion, an Imperial organisation based in the Carthage system, has announced that its appeal for construction materials has reached a successful conclusion. Scores of independent pilots supported the campaign by delivering thallium, thermal cooling units and CMM composites to Marker Depot in the Carthage system. The organisation is now in a position to proceed with its campaign to construct three new Majestic-class Interdictors.
+Lavigny's Legion, an Imperial organisation based in [[The]] [[Carthage]] system, has announced that [[Its]] appeal for construction materials has reached a successful conclusion. Scores of [[Independent]] pilots supported the campaign by delivering thallium, thermal cooling units and CMM composites to [[Marker Depot in the Carthage]] system. The organisation is now [[In a]] position to proceed [[With]] its campaign to construct three new Majestic-class Interdictors.

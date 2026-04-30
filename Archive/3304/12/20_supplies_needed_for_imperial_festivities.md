@@ -19,12 +19,12 @@ significance: low
 Supplies Needed for Imperial Festivities
 
 
-Imperial senator Simone Leatrix has announced plans for a week of revelry at her palatial residence on Capitol in the Achenar system. 
+Imperial senator Simone [[Leatrix]] has announced plans for a week of revelry at her palatial residence on [[Capitol in [[The]] Achenar]] system. 
 
 The senator told the media: 
 
-“We Imperials value the finer things, even during times of political upset. So I intend to celebrate the end of the year with a sumptuous party at my mountaintop retreat, which will be specially renovated for the occasion.” 
+“We Imperials value the finer things, even during times of political upset. So I intend to celebrate the end of the year [[With]] a sumptuous party at my mountaintop retreat, [[Which]] will be specially renovated for the occasion.” 
 
-To feed the hundreds of high-profile guests and decorate the senator’s residence, Senator Leatrix has asked the Cemiess Imperial Society to organise deliveries of food and newly refined jewels to Mackenzie Relay in the Cemiess system. 
+To feed the [[Hundreds of]] high-profile guests and decorate the senator’s residence, Senator Leatrix has asked the [[Cemiess]] Imperial Society to organise deliveries of food and newly refined jewels to [[Mackenzie Relay in the Cemiess]] system. 
 
-The initiatives begin on the 20th of December 3304 and will run for one week. If either initiative meets its targets earlier than planned, that campaign will end immediately.
+The initiatives begin on the 20th of December 3304 and will [[Run]] for [[One]] week. If either initiative meets [[Its]] targets earlier than planned, that campaign will end immediately.

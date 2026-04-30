@@ -15,8 +15,8 @@ significance: low
 Freelance Report: Emancipation Initiative Inadvertently Stimulates Slave Trade
 
 
-Princess Aisling Duval's recent emancipation effort has been criticised following revelations that over seven million slaves were purchased directly from slavers in the systems surrounding Uibuth. These purchases were made by independent traders supporting the princess's liberation programme. 
+Princess [[Aisling Duval]]'s recent emancipation effort has been criticised following revelations that over seven million slaves were purchased directly from slavers in [[The]] systems surrounding Uibuth. These purchases were made by [[Independent]] traders supporting the princess's liberation programme. 
 
-One Commander, who refused to take part in the programme, said: "I can't see how funding slavers is going to stop the slave trade, unless Aisling expects them to retire now they're wealthy." 
+[[One]] Commander, who refused to take part in the programme, said: "I can't see how funding slavers is going to stop the slave trade, unless Aisling expects them to retire now they're wealthy." 
 
 Commander Dissident Smith

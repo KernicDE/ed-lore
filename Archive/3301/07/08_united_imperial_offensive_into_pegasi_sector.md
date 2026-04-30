@@ -20,17 +20,17 @@ legacy_weight: 3
 significance: medium
 ---
 
-United Imperial Offensive into Pegasi Sector
+United Imperial Offensive into [[Pegasi]] Sector
 
 
-United Imperial Offensive into Pegasi Sector 
+United Imperial Offensive into [[Pegasi]] Sector 
  
-Apathy toward the Kumo Crew’s activities on the fringes of Federation space was replaced by the full wrath of Senators Patreus and Lavigny-Duval as the Imperial system of Cuchua came under attack this week. 
+Apathy toward [[The]] [[Kumo Crew]]’s activities on [[The]] fringes of Federation space was replaced by the full wrath of Senators Patreus and [[Lavigny-Duval]] [[As the]] Imperial system of Cuchua came under attack [[This]] week. 
 
-A high ranking officer of Lavigny’s Legion offered the following words as the Legion deployed to assist Patreus’ forces in Cuchua:  
+A high ranking officer of Lavigny’s Legion offered [[The following]] words [[As the]] Legion deployed to assist Patreus’ forces in Cuchua:  
 
-"We ask all who are loyal to Princess Arissa to join with us in bringing Imperial justice to these barbarians that think us weak like the Federation.” 
+"We ask all who are loyal to Princess Arissa to join [[With]] us in bringing [[Imperial justice]] to these barbarians that think us weak like the Federation.” 
 
-The call has been heeded by pilots in every major Imperial power. 
+The call has been heeded by pilots in [[Every]] major Imperial power. 
 
-The expeditionary forces launched a two-pronged attack, spearheaded by the Velites Squadron of Lavigny’s Legion, targeting Kumo ships in Cuchua and Harma. The operations, code named “Charybdis” and “Davy Jones,” have led to the downing of hundreds of pirate vessels and dozens of Kumo Commanders. Imperial casualties have been minimal, but the fighting continues.
+The expeditionary forces launched a two-pronged attack, spearheaded by the Velites Squadron of Lavigny’s Legion, targeting Kumo ships in Cuchua and [[Harma]]. The operations, code named “Charybdis” and “Davy Jones,” have led to the downing of [[Hundreds of]] pirate vessels and [[Dozens of]] Kumo Commanders. Imperial casualties have been minimal, [[But the]] fighting [[Continues]].

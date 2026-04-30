@@ -20,10 +20,10 @@ significance: low
 Freelance Report: A Year of Buckyball Racing
 
 
-The Buckyball Racing Club was formed, one year ago, to provide a schedule of races involving a wide variety of pilots. In its first year the club hosted a total of 28 races, and to celebrate it is hosting one of its craziest yet: the BuckyBubble! 
+[[The]] [[Buckyball Racing Club]] was formed, [[One]] year ago, to provide a schedule of races involving a wide variety of pilots. In [[Its]] first year the club hosted a total of 28 races, and to celebrate it is hosting one of its craziest yet: the BuckyBubble! 
 
-Commemorating the club's most famous race, the A* Challenge, the BuckyBubble starts at Lomas Station in the Wolf 359 system. Racers will navigate a route that passes through 60 systems loosely resembling the shape of a buckyball molecule. 
+Commemorating the club's most famous race, the A* Challenge, the BuckyBubble starts at Lomas Station in the [[Wolf 359]] system. Racers will navigate a route that passes through 60 systems loosely resembling the shape of a buckyball molecule. 
 
 Pilots are invited to join the chaos from the 23rd of July to the 7th of August. 
 
-Commander Seneh
+Commander [[Seneh]]

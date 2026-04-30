@@ -21,17 +21,17 @@ legacy_weight: 3
 significance: medium
 ---
 
-Shelter from the Storm
+Shelter from [[The]] Storm
 
 
-Shelter from the Storm 
+Shelter from [[The]] Storm 
  
-Yesterday, Utopia added its support to the Mushin government’s call for help as the Pegasi Pirate War continues to displace millions of citizens. 
+Yesterday, [[Utopia]] added [[Its]] support to the Mushin government’s call for help [[As the]] [[Pegasi]] Pirate War [[Continues]] to displace millions of citizens. 
 
-The head of the Utopian relief effort, Adjudicator Adric Claavis, released the following statement: 
+The head of the Utopian relief effort, Adjudicator [[Adric Claavis]], released [[The following]] statement: 
 
-"The people of Utopia cannot stand idle while others suffer such misery. We will do everything in our power to assist in this relief effort, bringing hope to those who have lost so much in this bitter conflict.” 
+"The people of [[Utopia]] cannot stand idle while others suffer such misery. We will do everything in [[Our]] power to assist in [[This]] relief effort, bringing hope to those who have lost so much in [[This]] bitter conflict.” 
 
-“Utopian ambassadors have asked the Kumo Crew for passage through their space to allow access to Mushin. In addition to delivering humanitarian supplies, Utopia will welcome any refugees who wish to begin new lives, away from the fighting, on our worlds." 
+“Utopian ambassadors have asked the [[Kumo Crew]] for passage through their space to allow access to Mushin. In addition to delivering humanitarian supplies, Utopia will welcome any refugees who wish to begin new lives, away from the fighting, on [[Our]] worlds." 
 
-Commander Gan
+Commander [[Gan]]

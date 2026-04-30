@@ -17,11 +17,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Swainn’s Appeal Concludes
+Galactic News: [[Swainn]]’s Appeal Concludes
 
 
-Celebrated chef and bromatologist Dr Cordelius Swainn has announced that his appeal for rare goods has been enthusiastically received by the galactic community, resulting in a massive influx of deliveries to Lave Station. 
+Celebrated chef and bromatologist Dr [[Cordelius Swainn]] has announced that his appeal for rare goods has been enthusiastically received by [[The]] galactic community, resulting [[In a]] massive influx of deliveries to [[Lave]] Station. 
 
-Dr Swainn is said to be delighted with the variety of items delivered, and boasted that his forthcoming culinary event would be even more spectacular than planned.  
+Dr Swainn is said to be delighted [[With the]] variety of items delivered, and boasted that his forthcoming culinary event would be even more spectacular than planned.  
 
-Dr Swainn’s corporate partner, Lave Incorporated, has extended its gratitude to those who supported the campaign. Pilots who contributed to the initiative can now collect their rewards from Lave Station in the Lave system.
+Dr Swainn’s corporate partner, Lave Incorporated, has extended [[Its]] gratitude to those who supported the campaign. Pilots who contributed to the initiative can now collect their rewards from [[Lave Station in the Lave]] system.

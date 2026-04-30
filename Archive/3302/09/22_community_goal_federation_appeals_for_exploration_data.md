@@ -20,10 +20,10 @@ significance: high
 Community Goal: Federation Appeals for Exploration Data
 
 
-The Federation has issued a public appeal for exploration data as part of its ongoing operation in the Pleiades Nebula. The appeal is being coordinated by the Pleiades Resource Enterprise, which released the following statement to the media: 
+[[The]] Federation has issued a public appeal for exploration data as part of [[Its]] ongoing operation in the [[Pleiades Nebula]]. The appeal is being coordinated by the Pleiades Resource [[Enterprise]], [[Which]] released [[The following]] statement to the media: 
 
-"Given the recent discovery of possible non-human wreckage in the Pleiades, it is essential that we have comprehensive and up-to-date information on the entire region. We are therefore asking pilots to sweep the Pleiades and deliver any resultant exploration data to Pre Logistics Support Gamma in the Pleiades Sector IH-V C2-5 system. Commanders who contribute to this initiative will be generously rewarded." 
+"Given the recent discovery of possible non-human wreckage in the Pleiades, it is essential that we have comprehensive and up-to-date information on [[The entire]] region. We are therefore asking pilots to sweep the Pleiades and deliver any resultant exploration data to Pre Logistics Support Gamma in the Pleiades Sector IH-V C2-5 system. Commanders who contribute to [[This]] initiative will be generously rewarded." 
 
 The announcement comes in the midst of animated debate over recent Federal and Imperial action in the Pleiades. 
 
-The campaign begins on the 22nd of September 3302 and will run for one week. If final targets are met earlier than planned, the campaign will end immediately.
+The campaign begins on the 22nd of September 3302 and will [[Run]] for [[One]] week. If final targets are met earlier than planned, the campaign will end immediately.

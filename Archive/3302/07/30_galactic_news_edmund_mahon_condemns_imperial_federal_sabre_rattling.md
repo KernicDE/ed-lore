@@ -18,16 +18,16 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Edmund Mahon Condemns Imperial-Federal Sabre Rattling
+Galactic News: [[Edmund Mahon]] Condemns Imperial-Federal Sabre Rattling
 
 
-Alliance Prime Minister Edmund Mahon has offered a critical appraisal of the ongoing antagonism between the Empire and the Federation. His comments, delivering during a recent ministerial address, concern the conflict over the organic structures known as barnacles, and the meta-alloys they produce. 
+[[Alliance]] Prime Minister Edmund Mahon has offered a critical appraisal of [[The]] ongoing antagonism between the Empire and the Federation. His comments, delivering during a recent ministerial address, concern the conflict over the organic structures known as barnacles, and the meta-alloys they produce. 
 
 The pertinent part of his address is reprinted below: 
 
-"Our history contains no shortage of bloodshed. Territory, resources – we have gone to war over these things far too often." 
+"[[Our]] history contains no shortage of bloodshed. Territory, resources – we have gone to war over these things [[Far]] too often." 
 
-"We have expanded into the cosmos, made a home among the stars, created a civilisation spanning thousands of light years. Have we left our pettiness and greed behind, or have we brought them with us? I believe we are capable of working together to create a truly unified society. But the Empire and the Federation do not appear to share this view." 
+"We have expanded into the cosmos, made a home among the stars, created a civilisation spanning thousands of light years. Have we left our pettiness and greed behind, or have we brought them [[With]] us? I believe we are capable of working together to create a truly unified society. [[But the]] Empire and the Federation do not appear to share [[This]] view." 
 
 "I implore my friends in the Empire and the Federation to look beyond their immediate concerns and consider the ramifications of their actions. The organic structures may well be the product of a non-human civilisation. They, and the meta-alloys, should be afforded our protection." 
 

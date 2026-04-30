@@ -20,12 +20,12 @@ significance: low
 Galactic News: Appeal for Resources Ends
 
 
-Dr Arkady Cole, chief research scientist for the Zosi Major Corporation, has announced that the organisation's request for resources has been warmly received by the galactic community. 
+Dr [[Arkady Cole]], chief research scientist for [[The]] [[Zosi]] Major Corporation, has announced that the organisation's request for resources has been warmly received by the galactic community. 
 
-The organisation has confirmed that it has received sufficient quantities of thermic alloys, chemical manipulators and industrial firmware to proceed with its proposed research project, the exact nature of which has not been publicly disclosed. 
+The organisation has confirmed that it has received sufficient quantities of thermic alloys, chemical manipulators and industrial firmware to proceed [[With]] [[Its]] proposed research project, the exact nature of [[Which]] has not been publicly disclosed. 
 
-In a characteristically succinct statement, Dr Cole thanked those who had responded to the request: 
+[[In a]] characteristically succinct statement, Dr [[Cole thanked those]] who had responded to the request: 
 
-"Many resources received. Everyone get their money. Now go away and leave me alone! Very busy. Much work to do." 
+"[[Many]] resources received. Everyone get their money. Now go away and leave me alone! Very busy. Much work to do." 
 
-Pilots who contributed to the campaign can now collect their rewards from Citi Enterprise in the Zosi system.
+Pilots who contributed to the campaign can now collect their rewards from Citi [[Enterprise]] in the Zosi system.

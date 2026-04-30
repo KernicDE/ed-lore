@@ -20,9 +20,9 @@ significance: high
 ---
 
 *Pilots’ Federation ALERT*
-Taurus Mining Ventures has defeated a rogue Aegis Defense force and gained control of the megaship Musashi.
-The conflict was initiated by Admiral Aden Tanner, chief military liaison with Aegis. He was attempting to gain access to Hind Mine asteroid base, in search of evidence that Salvation’s anti-xeno weapon was deliberately designed to provoke the Thargoids.
-Patience Middleton, a spokesperson for Taurus Mining Ventures, made this announcement:
-“This was an illegal and unnecessary conflict, brought about by Admiral Tanner’s misguided obsession. We will continue working with Salvation to eliminate the Thargoid threat.”
-“Our defence was only possible thanks to our courageous supporters, for whom rewards are available at Hind Mine. We will also honour agreements that the Aegis Defense force made with independent pilots, who can collect their promised payments from the Musashi.”
-Taurus Mining Ventures later confirmed that all members of the Musashi’s original crew will be allowed to leave the megaship unharmed. Admiral Tanner and other key personnel are in temporary custody. Aegis has arranged for them to be transferred to its internal security teams.
+Taurus Mining Ventures has defeated a rogue [[Aegis]] Defense force and gained control of [[The]] megaship [[Musashi]].
+The conflict was initiated by Admiral Aden Tanner, chief military liaison [[With]] Aegis. He was attempting to gain access to Hind Mine asteroid base, in search of evidence that [[Salvation]]’s anti-xeno weapon was deliberately designed to provoke the Thargoids.
+Patience Middleton, a spokesperson for Taurus Mining Ventures, made [[This]] announcement:
+“This was an illegal and unnecessary conflict, brought about by Admiral Tanner’s misguided obsession. We will continue working with Salvation to eliminate the [[Thargoid]] threat.”
+“[[Our]] defence was only possible thanks to our courageous supporters, for whom rewards are available at Hind Mine. We will also honour agreements that the Aegis Defense force made with [[Independent]] pilots, who can collect their promised payments from the Musashi.”
+Taurus Mining Ventures later confirmed that all members of the Musashi’s original crew will be allowed to leave the megaship unharmed. Admiral Tanner and [[Other]] key personnel are in temporary custody. Aegis has arranged for them to be transferred to [[Its]] internal security teams.

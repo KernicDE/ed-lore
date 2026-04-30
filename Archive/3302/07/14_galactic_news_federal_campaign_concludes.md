@@ -14,8 +14,8 @@ significance: low
 Galactic News: Federal Campaign Concludes
 
 
-The Future of Segovan has announced that its appeal for construction materials has reached a successful conclusion, despite repeated attempts from Imperial pilots to disrupt the campaign. Large quantities of gallium and insulating membrane, and hundreds of tonnes of power generators, were delivered to Ramsbottom Hub, the organisation's base of operations, allowing work to begin on the first of a series of new Federal outposts. 
+[[The]] Future of Segovan has announced that [[Its]] appeal for construction materials has reached a successful conclusion, despite repeated attempts from Imperial pilots to disrupt the campaign. Large quantities of gallium and insulating membrane, and [[Hundreds of]] tonnes of power generators, were delivered to Ramsbottom Hub, the organisation's base of operations, allowing work to begin on the first of a series of new Federal outposts. 
 
 A spokesperson for the Future of Segovan said: 
 
-"The Federation's opponents went to great lengths to try to stop this operation, but ultimately they failed. The construction of this outpost will proceed as planned."
+"The Federation's opponents went to great lengths to try to stop [[This]] operation, but ultimately they failed. The construction of this outpost will proceed as planned."

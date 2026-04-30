@@ -12,11 +12,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Economy of Apalar Improves
+Economy of [[Apalar]] Improves
 
 
-Economy of Apalar Improves 
+Economy of [[Apalar]] Improves 
  
-Officials at Svavarsson Terminal in the Apalar system have announced that they have received the necessary quantities of industrial materials to elevate their system’s economy. The request issued by the government of Apalar was met with resounding enthusiasm, as independent pilots from across the galaxy helped to give the system the boost it needed. 
+Officials at Svavarsson Terminal in [[The]] Apalar system have announced that they have received [[The]] necessary quantities of industrial materials to elevate their system’s economy. The request issued by the government of Apalar was met [[With]] resounding enthusiasm, as [[Independent]] pilots from across the galaxy helped to give the system the boost it needed. 
 
 Rewards for those who delivered industrial materials to Apalar are still pending, but Apalar Labour will make an announcement when these rewards become available.

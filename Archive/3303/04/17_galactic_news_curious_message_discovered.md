@@ -19,11 +19,11 @@ significance: low
 Galactic News: Curious Message Discovered
 
 
-A group of EM-transmission technology enthusiasts in the Tionisla system claims to have found a message in the exploration data gathered last year as part of a campaign organised by the Children of Raxxla. 
+A group of EM-transmission technology enthusiasts in [[The]] [[Tionisla]] system claims to have [[Found]] a message in the exploration data gathered last year as part of a campaign organised by the Children of Raxxla. 
 
-A spokesperson for the group, which calls itself The Hamsters, said: 
+A spokesperson for the group, [[Which]] calls itself The Hamsters, said: 
 
-“It was inside one of the beacon modulator wave harmonics, and it seems to be some sort of rhyme. We’ve studied it but have come up with nothing, so we thought we’d share it with the galactic community.” 
+“It was inside [[One]] of the beacon modulator wave harmonics, and it seems to be some sort of rhyme. We’ve studied it but have come up [[With]] nothing, so we thought we’d share it [[With the]] galactic community.” 
 
 The message is reprinted in full below. 
 
@@ -59,7 +59,7 @@ Ruler of the winds
 
 God of night, primordial flees 
 
-Zeus’ namesake now lies in Sol 
+Zeus’ namesake now lies in [[Sol]] 
 
 Achilles’ favoured horse 
 

@@ -21,17 +21,17 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: More Palladium for Dr Arcanonn
+Freelance Report: More Palladium for Dr [[Arcanonn]]
 
 
-A spokesperson for the Canonn Interstellar Research Group has issued a plea for a final push in the campaign to establish a research outpost at Thompson Dock: 
+A spokesperson for [[The]] [[Canonn Interstellar Research Group]] has issued a plea for a final push in the campaign to establish a research outpost at Thompson Dock: 
 
 "The response from the community has been incredible, but we need more palladium!" 
 
-"I know you're tired, but this project is too important for us to give up. I've been living on a particularly strong blend of Varatian coffee, and I understand the local suppliers have made it freely available to all miners. It's great stuff if you don't mind a few heart palpitations." 
+"I know you're tired, but [[This]] project is too [[Important]] for us to give up. I've been living on a particularly strong blend of Varatian coffee, and I understand the local suppliers have made it freely available to all miners. It's great stuff if you don't mind a few heart palpitations." 
 
-"We really want to hit the next milestone so we can get a commodities market at the station. If we can do that, Dr Arcanonn will be able to do what he does best." 
+"We really want to hit the next milestone so we can get a commodities market at the station. If we can do that, Dr [[Arcanonn will be able]] to do what he does best." 
 
-"So please come and mine for the Canonn between now and Thursday afternoon. The rewards are huge, and the camaraderie among the miners is fantastic." 
+"So please come and mine for the [[Canonn]] between now and Thursday afternoon. The rewards are huge, and the camaraderie among the miners is fantastic." 
 
-Commander Lord Zoltan
+Commander [[Lord Zoltan]]

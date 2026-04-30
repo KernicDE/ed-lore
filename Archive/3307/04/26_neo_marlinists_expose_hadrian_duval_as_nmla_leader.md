@@ -21,10 +21,10 @@ legacy_weight: 5
 significance: high
 ---
 
-Imperator Hadrian Augustus Duval of Nova Imperium is the mastermind behind the NMLA, according to classified information leaked from within ACT.
-Independent journalist Flint ‘Firemaker’ Lafosse published the details on the Rewired network:
-“Hadrian Duval: the illegitimate embarrassment of the Imperial Family, or their secret terrorist nemesis? That’s the story being told by survivors from the Neo-Marlinist Order of Mudhrid, who gave up their secrets to save their own skins.”
+Imperator Hadrian Augustus Duval of [[Nova Imperium]] is [[The]] mastermind behind the NMLA, [[According to]] classified information leaked from within ACT.
+[[Independent]] journalist Flint ‘Firemaker’ Lafosse published the details on the Rewired network:
+“Hadrian Duval: the illegitimate embarrassment of the Imperial Family, or their secret terrorist nemesis? That’s the story being told by survivors from the Neo-[[Marlinist]] Order of [[Mudhrid]], who gave up their secrets to save their own skins.”
 “According to my source, Landgrave Delacroix confessed to ACT that his faction transported enzyme bombs and Nova Imperium assassins to their targets on the direct orders of Hadrian Duval, who promised rewards and political power in return.”
-“Delacroix also revealed that Hadrian was converted to Neo-Marlinism a year ago by his consort Astrid Minerva, a top NMLA agent. She convinced him that becoming Emperor would be much easier if all the other Duvals were dead!”
-“As for the NMLA’s attempt on Hadrian’s life last October, that was faked in order to gain the Imperial Family’s trust. Just another false flag operation – which, as we truth-seekers know, can be found everywhere.”
-As yet this information has not been verified, and its source remains anonymous. There has been no comment from either ACT or Nova Imperium.
+“Delacroix also revealed that Hadrian was converted to Neo-Marlinism a year ago by his consort Astrid [[Minerva]], a top NMLA agent. She convinced him that becoming Emperor would be much easier if all the [[Other]] Duvals were dead!”
+“As for the NMLA’s attempt on Hadrian’s life last [[October]], that was faked in order to gain the Imperial Family’s trust. Just another false flag operation – [[Which]], as we truth-seekers know, can be [[Found]] everywhere.”
+As yet [[This]] information has not been verified, and [[Its]] source remains anonymous. There has been no comment from either ACT or Nova Imperium.

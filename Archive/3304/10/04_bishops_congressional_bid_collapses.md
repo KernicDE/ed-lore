@@ -20,14 +20,14 @@ significance: high
 Bishop’s Congressional Bid Collapses
 
 
-Juanita Bishop, whose protest movement against the Far God cult gained broad support, has failed to be elected to Federal Congress. 
+Juanita Bishop, whose protest movement against [[The]] [[Far]] God cult gained broad support, has failed to be elected to [[Federal Congress]]. 
 
-Independent political analyst Vaughan Niven published this summary: 
+[[Independent]] political analyst Vaughan Niven published [[This]] summary: 
 
-“Many of Juanita Bishop’s followers have abandoned her in the wake of Gethin Okonkwo’s investigation, which found no connection between the Far God sect and the Thargoids. As a result, Mrs Bishop’s congressional campaign has collapsed.” 
+“[[Many]] of Juanita Bishop’s followers have abandoned her in the wake of Gethin Okonkwo’s investigation, [[Which]] [[Found]] no connection between the Far God sect and the Thargoids. As a result, Mrs Bishop’s congressional campaign has collapsed.” 
 
 “There has also been a sea change in attitude within Congress itself. The majority of members have now taken a stand against Mrs Bishop for cultivating civil unrest and violating the Federation’s principles of religious freedom.” 
 
 Juanita Bishop gave a forceful statement to the media: 
 
-“If Congress can’t see that these people are dangerous, then they’re fools. These Thargoid spies need to be rounded up and executed before they murder us all. History will prove me right!”
+“If Congress can’t see that these people are dangerous, then they’re fools. These [[Thargoid]] spies need to be rounded up and executed before they murder us all. History will prove me right!”

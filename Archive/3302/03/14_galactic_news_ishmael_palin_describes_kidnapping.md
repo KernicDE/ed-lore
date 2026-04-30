@@ -23,14 +23,14 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Ishmael Palin Describes Kidnapping
+Galactic News: [[Ishmael Palin]] Describes Kidnapping
 
 
-It has now been over a week since Professor Ishmael Palin and his research team were rescued from a criminal syndicate known as the Blue Hand Gang. Since then, there has been considerable speculation about who might be responsible for the abduction. Although the Blue Hand Gang has been known to trade in human cargo, to date it has not been connected to any kidnapping operations. It is therefore assumed that the gang merely purchased Professor Palin and his colleagues from those responsible for the abduction. 
+It has now been over a week since [[Professor Ishmael Palin]] and his research team were rescued from a criminal syndicate known [[As the]] Blue Hand Gang. Since then, there has been considerable speculation about who might be responsible for [[The]] abduction. Although the Blue Hand Gang has been known to trade in human cargo, to date it has not been connected to any kidnapping operations. It is therefore assumed that the gang merely purchased [[Professor Palin]] and his colleagues from those responsible for the abduction. 
 
-With Professor Palin now having made a full recovery, he released a statement concerning the nature of his ordeal: 
+[[With]] Professor [[Palin now having made]] a full recovery, he released a statement concerning the nature of his ordeal: 
 
-"To describe the experience as traumatic would be an understatement. One moment our ship was cruising through space, the next, all hell was breaking loose. A klaxon sounded and our vessel banked sharply. Then I heard an explosion and peered out of the viewport just in time to see our escort ships disappear in a ball of flame. It was immediately clear to me that our assailants were no mere pirates. I felt our ship slow and then stop as it was drawn into the belly of our attackers' vessel. Then the hull was carved open and a handful of black-clad figures poured in. I was unconscious within moments." 
+"To describe the experience as traumatic would be an understatement. [[One]] moment [[Our]] ship was cruising through space, the next, all hell was breaking loose. A klaxon sounded and our [[Vessel]] banked sharply. Then I heard an explosion and peered out of the viewport just in time to see our escort ships disappear [[In a]] ball of flame. It was immediately clear to me that our assailants were no mere pirates. I felt our ship slow and then stop as it was drawn into the belly of our attackers' vessel. Then the hull was carved open and a handful of black-clad figures poured in. I was unconscious within moments." 
 
 "I woke in a darkened room, strapped to a chair. They interrogated me for days, although it was only later that I was able to establish how much time had passed, as it was impossible to keep track of days in my windowless cell. My interrogators were careful never to show me their faces, but I remember the nature of the interrogation clearly enough. Why was I researching the Unknown Artefacts? Who had I shared the information with? I explained that most of what I knew was already a matter of public record, but that did not satisfy them. They were convinced I was withholding something." 
 
@@ -38,4 +38,4 @@ With Professor Palin now having made a full recovery, he released a statement co
 
 Professor Palin was asked if he had any theories about who his abductors might be. 
 
-"I do not know the name of their organisation, but I know what they represent: control, oppression, and the obviation of civil liberties. Such organisations have existed for millennia - the banner under which they march is immaterial."
+"I do not know the name of their organisation, but I know what they represent: control, oppression, and the obviation of civil liberties. Such organisations have existed for millennia - the banner under [[Which]] they march is immaterial."

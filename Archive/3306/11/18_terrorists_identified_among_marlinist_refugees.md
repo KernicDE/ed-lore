@@ -18,20 +18,20 @@ legacy_weight: 1
 significance: low
 ---
 
-Terrorists Identified Among Marlinist Refugees
+Terrorists Identified Among [[Marlinist]] Refugees
 
 
-A screening process for Marlinist asylum-seekers arriving in the Federation has located several members of the NMLA terrorist group. 
+A screening process for Marlinist asylum-seekers arriving in [[The]] Federation has [[Located]] [[Several]] members of the NMLA terrorist group. 
 
-Vice President Brad Mitchell personally initiated a Federal Security Service operation to uncover any Neo-Marlinist extremists concealed among the refugee population. 
+Vice President [[Brad Mitchell]] personally initiated a [[Federal Security Service]] operation to uncover any Neo-Marlinist extremists concealed among the refugee population. 
 
-The Vice President delivered this report to Congress: 
+The Vice President delivered [[This]] report to Congress: 
 
-“After standard ID scans flagged up some potential suspects, FSS officers employed more vigorous checks and interview techniques. They found nine individuals who were active members of the NMLA.” 
+“After standard ID scans flagged up some potential suspects, FSS officers employed more vigorous checks and interview techniques. They [[Found]] nine individuals who were active members of the NMLA.” 
 
-“The terrorists have been transported to secure facilities for further interrogation, after which they will be handed over to Imperial authorities. Our security services remain vigilant against this danger that the Liberal Party has invited into our communities.” 
+“The terrorists have been transported to secure facilities for [[Further]] interrogation, after [[Which]] they will be handed over to Imperial authorities. [[Our]] security services remain vigilant against this danger that the Liberal Party has invited into our communities.” 
 
- Vox Galactica featured a statement by Marlinist community leader Dr Jenna Fairfax: 
+ Vox Galactica featured a statement by Marlinist community leader Dr [[Jenna Fairfax]]: 
 
 “I am horrified to learn of NMLA hiding among us. These killers do not represent the principles of Marlinism, and we are happy to cooperate in expelling them.” 
 

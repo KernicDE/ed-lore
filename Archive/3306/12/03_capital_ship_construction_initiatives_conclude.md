@@ -25,16 +25,16 @@ significance: low
 Capital Ship Construction Initiatives Conclude
 
 
-*Pilots Federation ALERT* 
+*[[Pilots Federation]] ALERT* 
 
-Parallel campaigns in the Empire and the Federation to provide commodities for building new capital ships have ended. 
+Parallel campaigns in [[The]] Empire and the Federation to provide commodities for building new capital ships have ended. 
 
-The Federal Navy’s construction programme was boosted by deliveries of building fabricators, microbial furnaces and energy grid assemblies. Contributing pilots can now collect their rewards at Schweickart City in the Parutis system. 
+The [[Federal Navy]]’s construction programme was boosted by deliveries of building fabricators, microbial furnaces and energy grid assemblies. Contributing pilots can now collect their rewards at [[Schweickart City in the Parutis]] system. 
 
-As a result, 5 newly completed Farragut-class Battle Cruisers will become operational within a matter of days. They are expected to be patrolling in several Federal systems including Atropos, Iman Caber, LHS 142, LFT 367 and Wolf 25. 
+As a result, 5 newly completed Farragut-class Battle Cruisers will become operational within a matter of days. They are expected to be patrolling in [[Several]] Federal systems including Atropos, Iman Caber, LHS 142, LFT 367 and Wolf 25. 
 
-The Imperial Navy is also rewarding all traders who delivered building fabricators, microbial furnaces and energy grid assemblies for use in its shipyards. Payments can be collected from Miyasaka Orbital in the Mandh system. 
+The [[Imperial Navy]] is also rewarding all traders who delivered building fabricators, microbial furnaces and energy grid assemblies for use in [[Its]] shipyards. Payments can be collected from [[Miyasaka Orbital in the Mandh]] system. 
 
-It has been confirmed that 4 new Majestic-class Interdictors will shortly join the fleet. Filed flight plans suggest that their shakedown cruises will take place in the Chimechilo, Orannika, Theta Indi and Zelano systems. 
+It has been confirmed that 4 new Majestic-class Interdictors will shortly join the fleet. Filed flight plans suggest that their shakedown cruises will take place in the Chimechilo, Orannika, [[Theta Indi and Zelano]] systems. 
 
-As well as capital ships, Federal Congress and the Imperial Senate have both increased funding for other military operations, including support vessels and ground forces.
+As well as capital ships, [[Federal Congress]] and the [[Imperial Senate]] have both increased funding for [[Other]] military operations, including support vessels and ground forces.

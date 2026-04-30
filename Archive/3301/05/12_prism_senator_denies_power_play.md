@@ -24,12 +24,12 @@ legacy_weight: 2
 significance: low
 ---
 
-Prism Senator Denies Power Play
+[[Prism]] Senator [[Denies Power Play]]
 
 
-Senator Kahina Tijani Loren was seen at a musical soiree on Capitol yesterday evening, taking part in a reception after her arrival in the Achenar system.  
+Senator [[Kahina Tijani Loren]] was seen at a musical soiree on [[Capitol]] yesterday evening, taking part [[In a]] reception after her arrival in [[The Achenar]] system.  
 
-Kahina was ambushed by reporters as she emerged from her transport and asked whether she was intending to challenge for the leadership of the Empire. 
+Kahina was ambushed by reporters as she emerged from her transport and asked whether she was intending to challenge for [[The]] leadership of [[The]] Empire. 
 
 She responded that she had “absolutely no ambitions in that direction whatsoever.” 
 
@@ -37,4 +37,4 @@ Asked whether she would support Senator Patreus or Senator Lavigny’s bid for l
 
 Speculation has not died down as a result. Pundits have been debating whether these seemingly straightforward answers are hiding a bigger agenda. 
 
-Kazien Vantris, chief editor of the Imperial Herald, commented in his editorial - “The first rule of vying for power? Deny everything. By not directly supporting anyone she’s clearly keeping her options open. Quite why that is remains to be seen. We’ll leave that to the forums to decide.”
+Kazien Vantris, chief editor of the [[Imperial Herald]], commented in his editorial - “The first rule of vying for power? Deny everything. By not directly supporting anyone she’s clearly keeping her options open. Quite why that is remains to be seen. We’ll leave that to the forums to decide.”

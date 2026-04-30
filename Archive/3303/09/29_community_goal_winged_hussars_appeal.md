@@ -20,14 +20,14 @@ significance: low
 Community Goal: Winged Hussars Appeal
 
 
-The Winged Hussars have announced plans to establish a recreational installation and a tourist beacon in the HIP 110028 system, next to a little-visited Earth-like world. 
+[[The]] Winged Hussars have announced plans to establish a recreational installation and a tourist beacon in the HIP 110028 system, next to a little-visited [[Earth]]-like world. 
 
-The organisation has said it hopes to attract wealthy tourists from core systems such as Sol and Achenar – people who want to relax, but who also want to experience some adventure.  
+The organisation has said it hopes to attract wealthy tourists from core systems such as [[Sol]] and [[Achenar]] – people who want to relax, but who also want to experience some adventure.  
 
-The Winged Hussars are providing the materials for the new installation, but to cater to the tastes of their future clients they have asked for quantities of Lavian Brandy, Eranin Pearl Whisky, Kongga Ale, Leestian Evil Juice, Indi Bourbon and Bast Snake Gin. Pilots who deliver these intoxicants to Zander Dock in HIP 110028 system will be handsomely rewarded. 
+The Winged Hussars are providing the materials for the new installation, but to cater to the tastes of their future clients they have asked for quantities of Lavian Brandy, Eranin Pearl Whisky, Kongga Ale, Leestian Evil Juice, Indi Bourbon and [[Bast]] Snake Gin. Pilots who deliver these intoxicants to Zander Dock in HIP 110028 system will be handsomely rewarded. 
 
 A spokesperson for the group said: 
 
-"This is a great opportunity to bring new business to one of the galaxy's border colonies. We are asking independent pilots for help, and we are prepared to offer very competitive prices for the liquors we have requested." 
+"[[This]] is a great opportunity to bring new business to [[One]] of the galaxy's border colonies. We are asking [[Independent]] pilots for help, and we are prepared to offer very competitive prices for the liquors we have requested." 
 
-The campaign begins on the 28th of September 3303 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 28th of September 3303 and will [[Run]] for one week. If the final target is met earlier than planned, the campaign will end immediately.

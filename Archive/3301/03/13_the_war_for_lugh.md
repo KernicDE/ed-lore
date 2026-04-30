@@ -20,13 +20,13 @@ legacy_weight: 4
 significance: high
 ---
 
-The War for Lugh
+[[The]] War for [[Lugh]]
 
 
-President Halsey has today officially declared war on the Crimson State Group. 
+President Halsey has today officially declared war on [[The]] Crimson State Group. 
 
-Ownership of Lugh has been hotly contested in recent months. The movement for an independent Lugh, led by the Crimson State Group, had managed to achieve a staggering 91% approval rating among the local populace. However, the figures are heavily disputed by the Lugh for Equality Party, which has recently released statistics claiming that less than 30% of the population are actively engaging in the political process. 
+Ownership of [[Lugh]] has been hotly contested in recent months. The movement for an [[Independent]] Lugh, led by the Crimson State Group, had managed to achieve a staggering 91% approval rating among the local populace. However, the figures are heavily disputed by the [[Lugh for Equality]] Party, [[Which]] has recently released statistics claiming that less than 30% of the population are actively engaging in the political process. 
 
-GalNet sources close to the President have suggested that the upcoming attack will be launched from within Lugh itself. Loyal Federal pilots who want to assist with the reclamation of Lugh should sign up for active duty aboard Hartsfield Market, although Federal mercenaries are advised that it may be several days before backup arrives. 
+GalNet sources close to the President have suggested that the upcoming attack will be launched from within Lugh itself. Loyal Federal pilots who want to assist [[With the]] reclamation of Lugh should sign up for active duty aboard [[Hartsfield]] Market, although Federal mercenaries are advised that it may be [[Several]] days before backup arrives. 
 
-In response to the declaration of war, Éamonn Uí Laoghaire has declared that the Crimson State Group will be offering very generous payouts to any independent pilots who choose to side with Lugh in the upcoming conflict against the Federation. Mercenaries interested in taking the Crimson State Group up on its offer should sign up for active duty aboard Balandin Gateway.
+In response to the declaration of war, Éamonn Uí Laoghaire has declared that the Crimson State Group will be offering very generous payouts to any [[Independent]] pilots who choose to side [[With]] Lugh in the upcoming conflict against the Federation. Mercenaries interested in taking the Crimson State Group up on [[Its]] offer should sign up for active duty aboard Balandin [[Gateway]].

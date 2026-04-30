@@ -17,19 +17,19 @@ legacy_weight: 3
 significance: medium
 ---
 
-Alliance Assembly Revises Presidential Role
+[[Alliance]] Assembly Revises Presidential Role
 
 
-The Alliance Assembly has concluded its debate over President Gibson Kincaid’s request for executive powers. 
+[[The]] Alliance Assembly has concluded [[Its]] debate over President [[Gibson Kincaid]]’s request for executive powers. 
 
-Prime Minister Edmund Mahon announced the decision: 
+Prime Minister [[Edmund Mahon announced]] the decision: 
 
-“The Assembly has voted that President Kincaid’s proposed changes to the constitution will not be adopted, and no executive powers will be granted.” 
+“The Assembly has voted that President [[Kincaid]]’s proposed changes to the constitution will not be adopted, and no executive powers will be granted.” 
 
-“There was broad agreement, however, that the role should be updated, which has resulted in the creation of a new non-political department: the Office of the Alliance President.” 
+“There was broad agreement, however, that the role should be updated, [[Which]] has resulted in the creation of a new non-political department: the Office of the Alliance President.” 
 
-“The president will now oversee a team of ambassadorial emissaries who will focus on diplomatic functions. This will free up council members, allowing them to govern more effectively. The presidential term has also been extended to three years.” 
+“The president will now oversee a team of ambassadorial emissaries who will focus on diplomatic functions. [[This]] will free up council members, allowing them to govern more effectively. The presidential term has also been extended to three years.” 
 
-President Kincaid told the media: 
+President [[Kincaid told]] the media: 
 
 “I regret that the Assembly cannot see how the Alliance would be strengthened by an empowered president, but I must respect their decision, and promise to put my new team of emissaries to good use.”

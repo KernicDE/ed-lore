@@ -18,12 +18,12 @@ significance: low
 Children of Tothos Initiative Concludes
 
 
-An initiative to deliver rare commodities to an esoteric cult in the Zlota system has concluded. 
+An initiative to deliver rare commodities to an esoteric cult in [[The]] [[Zlota]] system has concluded. 
 
-Independent traders provided Aganippe Rush, Motrona Experience Jelly and Onion Head for a ceremony to be performed by the Children of Tothos. Other pilots protected the rare goods from being taken by pirates. 
+[[Independent]] traders provided [[Aganippe]] Rush, Motrona Experience Jelly and Onion Head for a ceremony to be performed by the Children of Tothos. [[Other]] pilots protected the rare goods from being taken by pirates. 
 
 Barnabas Cole, leader of the Children of Tothos, gave another handwritten message to the media: 
 
-“By helping us, you free yourselves. You will feel the light of our testament fill you, just as it fills the heavens.” 
+“By helping us, you free yourselves. You will feel the light of [[Our]] testament fill you, just as it fills the heavens.” 
 
-The initiative was organised by Zlota Federal Holdings, which allegedly counts some high-ranking officials as cult members. Contributing pilots can now collect their rewards from Nusslein-Volhard Settlement in the Zlota system.
+The initiative was organised by Zlota Federal Holdings, [[Which]] allegedly counts some high-ranking officials as cult members. Contributing pilots can now collect their rewards from Nusslein-Volhard Settlement in the Zlota system.

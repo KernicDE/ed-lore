@@ -14,15 +14,15 @@ legacy_weight: 2
 significance: low
 ---
 
-The People’s Princess Speaks
+[[The]] People’s Princess Speaks
 
 
-The People’s Princess Speaks 
+[[The]] People’s Princess Speaks 
  
-At a public charity event in which several dozen slaves were granted their freedom, Princess Aisling Duval took the opportunity to speak about the succession. 
+At a public charity event in [[Which]] [[Several]] dozen slaves were granted their freedom, Princess [[Aisling Duval]] took the opportunity to speak about the succession. 
 
-“It seems peculiar that as the closest living relative of our beloved Emperor, I am not involved in the process of selecting his successor. It is even stranger that there is a process at all - after all, I am the natural heir.” 
+“It seems peculiar that [[As the]] closest living relative of [[Our]] beloved Emperor, I am not involved in the process of selecting his successor. It is even stranger that there is a process at all - after all, I am the natural heir.” 
 
-Her attempt to gloss over the legality of her claim has sparked angry rebuttals from legal experts and the camps of the other likely candidates. When we spoke to people on the street, however, we encountered almost universal support for the Princess. One Capitol resident told us: 
+Her attempt to gloss over the legality of her claim has sparked angry rebuttals from legal experts and the camps of the [[Other]] likely candidates. When we spoke to people on the street, however, we encountered almost universal support for the Princess. [[One]] [[Capitol]] resident told us: 
 
-“I’m all for tradition, but we have to move with the times. Princess Aisling Duval understands what we need to do, and has the youthful vigour to make that happen.”
+“I’m all for tradition, but we have to move [[With the]] times. Princess [[Aisling Duval]] understands what we need to do, and has the youthful vigour to make that happen.”

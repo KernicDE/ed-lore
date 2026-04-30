@@ -22,15 +22,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-Professor Ishmael Palin Responds to Proposal
+[[Professor Ishmael Palin]] Responds to Proposal
 
 
-Professor Ishmael Palin Responds to Proposal 
+Professor [[Ishmael Palin Responds]] to Proposal 
  
-Last week, The Voice of Varati published a message from the Canonn Interstellar Research Group, an independent scientific body, inviting Professor Ishmael Palin to join their organisation. Professor Palin recently made headlines when his Federation-backed programme to research the so-called anomalous extraterrestrial objects (or AEOs) was abruptly terminated. When asked for a response to the message, Professor Palin made his feelings clear: 
+Last week, [[The]] Voice of [[Varati]] published a message from [[The]] [[Canonn Interstellar Research Group]], an [[Independent]] scientific body, inviting Professor [[Ishmael Palin]] to join their organisation. [[Professor Palin]] recently made headlines when his Federation-backed programme to research the so-called anomalous extraterrestrial objects (or AEOs) was abruptly terminated. When asked for a response to the message, Professor [[Palin made]] his feelings clear: 
 
-"I admire the enthusiasm of the Canonn Interstellar Research Group, but I sense that our respective philosophies concerning the anomalous extraterrestrial objects are somewhat at odds with each other. So while I am flattered by their invitation, I feel I must decline." 
+"I admire the enthusiasm of the [[Canonn]] Interstellar Research Group, but I sense that [[Our]] respective philosophies concerning the anomalous extraterrestrial objects are somewhat at odds [[With]] [[Each]] [[Other]]. So while I am flattered by their invitation, I feel I must decline." 
 
-Since the AEOs were first discovered, there has been considerable conjecture concerning their origin and purpose, but Professor Palin once again refused to participate in the speculation: 
+Since the AEOs were first discovered, there has been considerable conjecture concerning their origin and purpose, but Professor [[Palin once again refused]] to participate in the speculation: 
 
-"The objects are certainly mysterious, and I can understand the impulse to speculate, but the fact is that we don't yet know anything definite about them. That is what our research was designed to address."
+"The objects are certainly mysterious, and I can understand the impulse to speculate, [[But the]] fact is that we don't yet know anything definite about them. That is what [[Our]] research was designed to address."

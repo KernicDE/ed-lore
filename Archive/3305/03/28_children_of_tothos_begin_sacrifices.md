@@ -18,14 +18,14 @@ significance: low
 Children of Tothos Begin Sacrifices
 
 
-The Children of Tothos are preparing to destroy Archambault Terminal with a stolen nuclear weapon, sacrificing millions of lives in the name of their deity. 
+[[The]] Children of Tothos are preparing to destroy Archambault Terminal [[With]] a stolen nuclear weapon, sacrificing millions of lives in the name of their deity. 
 
-Crime correspondent Ethan Takahashi of the Federal Times delivered this report: 
+Crime correspondent Ethan Takahashi of the [[Federal Times]] delivered [[This]] report: 
 
-“Ritual sacrifices have now begun, according to a chilling broadcast from cult leader Barnabas Cole. He claims these deaths will lead to a final ceremony, when the Lucifer Device will be detonated. Dozens of the starport’s citizens are already feared dead at the hands of cultists.” 
+“Ritual sacrifices have now begun, [[According to]] a chilling broadcast from cult leader Barnabas Cole. He claims these deaths will lead to a final ceremony, when the Lucifer Device will be detonated. [[Dozens of]] the starport’s citizens are already feared dead at the hands of cultists.” 
 
-“Cole also made this statement: ‘We welcome new followers who heed my testament by sending one of their siblings into Tothos’s light.’” 
+“Cole also made this statement: ‘We welcome new followers who heed my testament by sending [[One]] of their siblings into Tothos’s light.’” 
 
 “Since this message, disturbing reports have been received of newly docked ships killing one of their own crew, so that the rest are granted permission to join the cult.” 
 
-“Federal authorities are still unsure how to free Archambault Terminal without risking its annihilation.”
+“Federal authorities are still unsure how to free Archambault Terminal without risking [[Its]] annihilation.”

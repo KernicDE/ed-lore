@@ -31,9 +31,9 @@ significance: medium
 ---
 
 *Pilots’ Federation ALERT*
-Brewer Corporation’s project to improve travel between the core systems and Colonia region has successfully concluded.
-The final batch of service installations wraps up construction work on the six starports. The following services will be available at Canonn Complex, Helgrind Gateway, Venatores Hub, Vladmir McDoogle's Triumph and Zerreiss Station:
-Universal Cartographics \ Vista Genomics
+[[Brewer Corporation]]’s project to improve travel between [[The]] core systems and Colonia region has successfully concluded.
+The final batch of service installations wraps up construction work on the six starports. [[The following]] services will be available at [[Canonn]] Complex, Helgrind [[Gateway]], Venatores Hub, Vladmir McDoogle's Triumph and Zerreiss Station:
+[[Universal Cartographics]] \ Vista Genomics
 Pioneer Supplies \ Bartender
 Crew Lounge \ Search and Rescue
 Material Trader \ Human Tech Broker
@@ -44,7 +44,7 @@ Pioneer Supplies \ Bartender
 Material Trader \ Human Tech Broker
 Outfitting \ Shipyard
 Material traders of all types will be represented across the starports.
-Newsfeeds were expecting one final press release from Brewer Corporation, but instead received a rare personal message from the company’s CEO Madelyn Teague:
-“It gives me enormous pleasure to announce a triumphant end for this historic undertaking. I want to thank every single person whose hard work made this dream of mine a reality. The names of those pilots most dedicated to the project will soon be recorded on commemorative beacons in the Alcor and Colonia systems.”
-“All of us at Brewer Corporation feel a real sense of pride in the Colonia Bridge. For decades to come, these six starports and 56 megaships will boost trade, support exploration and serve as way-stations for travellers. They represent what can be achieved when so many of us share the same vision and work together in harmony.”
-Pilots who delivered materials can now collect payment from Macdonald Settlement in the Alcor system and Jaques Station in the Colonia system. The top 75% of contributors for the past week can also collect their pre-engineered overcharged power plant modules on the 11th of March.
+Newsfeeds were expecting [[One]] final press release from Brewer Corporation, but instead received a rare personal message from the company’s CEO Madelyn Teague:
+“It gives me enormous pleasure to announce a triumphant end for [[This]] historic undertaking. I want to thank [[Every]] single person whose hard work made this dream of mine a reality. The names of those pilots most dedicated to the project will soon be recorded on commemorative beacons in the [[Alcor and Colonia]] systems.”
+“All of us at Brewer Corporation feel a real sense of pride in the [[Colonia Bridge]]. For decades to come, these six starports and 56 megaships will boost trade, support exploration and serve as way-stations for travellers. They represent what can be achieved when so [[Many]] of us share the same vision and work together in harmony.”
+Pilots who delivered materials can now collect payment from [[Macdonald Settlement in the Alcor]] system and [[Jaques Station in the Colonia]] system. The top 75% of contributors for the past week can also collect their pre-engineered overcharged power plant modules on the 11th of March.

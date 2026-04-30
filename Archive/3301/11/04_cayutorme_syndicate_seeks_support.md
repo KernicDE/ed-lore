@@ -18,13 +18,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-Cayutorme Syndicate Seeks Support
+[[Cayutorme Syndicate]] Seeks Support
 
 
-Imperial investigators have confirmed ties between Archon Delaine's Kumo Crew and the mercenary group known as the Cayutorme Syndicate. This partnership brings disturbing context to the civil unrest currently affecting Cayutorme, as well as the syndicate's rapid rise to power. 
+Imperial investigators have confirmed ties between Archon Delaine's [[Kumo Crew]] and [[The]] mercenary group known [[As the]] [[Cayutorme]] Syndicate. [[This]] partnership brings disturbing context to the civil unrest currently affecting Cayutorme, as well as the syndicate's rapid rise to power. 
 
 The leader of the Cayutorme Syndicate, Kyle Kurowski, is now trying to encourage mercenaries to join his already-imposing armada: 
 
-"It is no great surprise that the Empire would attempt to strong-arm an independent system within its territory. Our navy is capable of handling an Imperial task force, but we nevertheless would like to increase our numbers. Any independent pilots willing to help us repel the impending invasion will be compensated richly, and granted access to high-class outfitting." 
+"It is no great [[Surprise]] that the Empire would attempt to strong-arm an [[Independent]] system within [[Its]] territory. [[Our]] navy is capable of handling an Imperial task force, but we nevertheless would like to increase our numbers. Any independent pilots willing to help us repel the impending invasion will be compensated richly, and granted access to high-class outfitting." 
 
-Commander Corrigendum
+Commander [[Corrigendum]]

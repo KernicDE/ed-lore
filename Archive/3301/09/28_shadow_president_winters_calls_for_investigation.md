@@ -24,13 +24,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Shadow President Winters Calls for Investigation
+[[Shadow President]] Winters Calls for Investigation
 
 
-Shadow President Winters Calls for Investigation 
+[[Shadow President]] Winters Calls for Investigation 
  
-In a speech before Congress, Shadow President Felicia Winters called for an open and thorough investigation into the allegations made in recent articles posted by the Federal Times: 
+[[In a]] speech before Congress, Shadow President [[Felicia Winters]] called for an open and thorough investigation into [[The]] allegations made in recent articles posted by [[The]] [[Federal Times]]: 
 
- "There is too much evidence here to be ignored. I knew Vice President Nigel Smeaton personally and he was a good friend - the thought that he was murdered for investigating the death of a family member is repugnant. Our society is one based on truth and freedom and I call upon President Hudson to immediately instigate an impartial and open investigation into these allegations." 
+ "There is too much evidence here to be ignored. I knew [[Vice President Nigel Smeaton]] personally and he was a good friend - the thought that he was [[Murdered]] for investigating the death of a family member is repugnant. [[Our]] society is [[One]] based on truth and freedom and I call upon President Hudson to immediately instigate an impartial and open investigation into these allegations." 
 
-Her speech was met with support from both sides of the political divide. There has been no response from the President's office as yet.
+Her speech was met [[With]] support from both sides of the political divide. There has been no response from the President's office as yet.

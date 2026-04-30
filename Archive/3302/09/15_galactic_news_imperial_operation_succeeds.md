@@ -15,10 +15,10 @@ significance: low
 Galactic News: Imperial Operation Succeeds
 
 
-The Xuangu Crimson Major Network has announced that the Imperial operation to recover valuable intelligence from Federal convoys in the Mu Koji system has been a success. 
+[[The]] Xuangu Crimson Major Network has announced that the Imperial operation to recover valuable intelligence from Federal convoys in the [[Mu Koji]] system has been a success. 
 
-Scores of independent pilots supported the operation, bolstering the Imperial forces and thwarting Federal efforts to steal Imperial intelligence. 
+Scores of [[Independent]] pilots supported the operation, bolstering the Imperial forces and thwarting Federal efforts to steal Imperial intelligence. 
 
-But although the Empire achieved its primary goal, victory came at a cost. Independent correspondents, reporting from Mu Koji, have confirmed that the Empire lost considerably more ships than the Federation. 
+But although the Empire achieved [[Its]] primary goal, victory came at a cost. Independent correspondents, reporting from Mu Koji, have confirmed that the Empire lost considerably more ships than the Federation. 
 
 In the wake of the victory, a spokesperson for Xuangu Crimson Major Network thanked those who supported the campaign. Pilots who contributed to the initiative are now free to collect their rewards from Aksyonov Hub in Mu Koji.

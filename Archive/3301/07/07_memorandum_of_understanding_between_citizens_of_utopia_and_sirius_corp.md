@@ -18,13 +18,13 @@ legacy_weight: 1
 significance: low
 ---
 
-Memorandum of Understanding between citizens of Utopia and Sirius Corp
+Memorandum of Understanding between citizens of [[Utopia]] and Sirius Corp
 
 
-Memorandum of Understanding between citizens of Utopia and Sirius Corp 
+Memorandum of Understanding between citizens of [[Utopia]] and Sirius Corp 
  
-In their convictions that their interests coincide with each other, Commanders following Simguru Pranav Antal and those in the employ of Sirius Gov have agreed a non-aggression pact. They recognise each other’s right to exist, and to co-exist in harmony and in peace. Their ships are free to travel within each other's space. 
+In their convictions that their interests coincide [[With]] [[Each]] [[Other]], Commanders following Simguru Pranav Antal and those in [[The]] employ of Sirius Gov have agreed a non-aggression pact. They recognise [[Each]] [[Other]]’s right to exist, and to co-exist in harmony and in peace. Their ships are free to travel within each other's space. 
 
-All freelance Commanders wishing to sign the pact are welcomed in Lembava or Polevnic to do so and make sure that part of the galaxy will be more secure in the future. 
+All freelance Commanders wishing to sign [[The]] pact are welcomed in Lembava or [[Polevnic]] to do so and make sure that part of the galaxy will be more secure in the future. 
 
-This agreement has been made to seek the benefit of both their independent territories as a whole, to promote trade between the two powers and ensure the continued existence of civilization devoted to future prosperity rather than past tradition or present comfort.
+[[This]] agreement has been made to seek the benefit of both their [[Independent]] territories as a whole, to promote trade between the two powers and ensure the continued existence of civilization devoted to future prosperity rather than past tradition or present comfort.

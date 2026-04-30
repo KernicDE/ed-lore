@@ -22,13 +22,13 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Third Aegis Campaign Concludes
+Galactic News: Third [[Aegis]] Campaign Concludes
 
 
-Aegis has announced that the third phase of its campaign has received the enthusiastic support of the galactic community. Huge quantities of material were delivered to Vonarburg Co-operative over the past week, which will be used to develop new anti-Thargoid technologies. 
+Aegis has announced that [[The]] third phase of [[Its]] campaign has received the enthusiastic support of the galactic community. Huge quantities of material were delivered to Vonarburg Co-operative over the past week, [[Which]] will be used to develop new anti-[[Thargoid]] technologies. 
 
-As the campaign drew to a close, Aegis’s Head of Research, Professor Alba Tesreau, released the following statement: 
+[[As the]] campaign drew to a close, Aegis’s Head of Research, Professor [[Alba Tesreau]], released [[The following]] statement: 
 
-“I would like to extend my gratitude to all those who supported this initiative. The materials you delivered are already on their way to our engineering contractor, and the resultant device should be available soon.” 
+“I would like to extend my gratitude to all those who supported [[This]] initiative. The materials you delivered are already on their way to [[Our]] engineering contractor, and the resultant device should be available soon.” 
 
-Pilots who contributed to the initiative can now collect their rewards from Vonarburg Co-operative in the Wyrd system.
+Pilots who contributed to the initiative can now collect their rewards from [[Vonarburg Co-operative in the Wyrd]] system.

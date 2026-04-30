@@ -16,8 +16,8 @@ significance: low
 Order Restored in T’iensei
 
 
-The Autocracy of T’iensei has announced that its campaign to clear the T’iensei system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
+[[The]] Autocracy of T’iensei has announced that [[Its]] campaign to clear the T’iensei system of agitators has been a success. [[Hundreds of]] pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
-Authorities in T’iensei have extended their gratitude to those who participated in the operation. 
+[[Authorities in]] T’iensei have extended their gratitude to those who participated in the operation. 
 
 Pilots who contributed to the initiative can now collect their rewards from Dzhanibekov Port in the T’iensei system.

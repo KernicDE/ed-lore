@@ -14,17 +14,17 @@ legacy_weight: 1
 significance: low
 ---
 
-The Greatest Gig in the Galaxy
+[[The]] Greatest Gig in the Galaxy
 
 
-The Alliance Festival of Culture enters its third week with a massive music festival in the Phekda system drawing thousands of attendees. Organisers are calling the event ‘the greatest gig in the galaxy’. 
+The [[Alliance]] Festival of Culture enters [[Its]] third week [[With]] a massive music festival in the Phekda system drawing thousands of attendees. Organisers are calling the event ‘the greatest gig in the galaxy’. 
 
 Corinne Macintyre, cultural correspondent for The Alliance Tribune, reported: 
 
-“The programme is certainly diverse, encompassing everything from megastars like Spectacular Nemesis and Jade Graceland to up-and-comers such as The Lasting Hold.”  
+“The programme is certainly diverse, encompassing everything from megastars like Spectacular Nemesis and Jade Graceland to up-and-comers such [[As the]] Lasting Hold.”  
 
-“Meanwhile, for those whose knowledge of contemporary music stops with Mahler, the Topaz Philharmonic is one of several orchestras performing this week.”  
+“Meanwhile, for those whose knowledge of contemporary music stops with Mahler, the Topaz Philharmonic is [[One]] of [[Several]] orchestras performing [[This]] week.”  
 
-“But the big news is that legendary singer-songwriter Xiona is coming out of retirement for a special one-off performance.” 
+“[[But the]] big news is that legendary singer-songwriter Xiona is coming out of retirement for a special one-off performance.” 
 
-The Alliance Festival of Culture will continue for a further four weeks.
+The Alliance Festival of Culture will continue for a [[Further]] four weeks.

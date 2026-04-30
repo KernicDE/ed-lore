@@ -21,9 +21,9 @@ legacy_weight: 1
 significance: low
 ---
 
-Evidence presented at the trial of Fleet Admiral Vincent suggested financial links to Federal shipbuilding corporation Core Dynamics.
-This significant development was covered by Ethan Takahashi for The Federal Times:
-“The initial investigations around Starship One’s destruction in 3301 were outlined by the prosecution. When the Federal Attorney’s Office revisited this historical data, traces were found of financial transfers routed through non-Federation banking systems.”
-“The FAO brought in the expertise of the Wallglass Investigations Agency, which discovered that these transactions were made via shell companies created by Core Dynamics. Fleet Admiral Vincent, as well as several other naval officers, received billions of credits through these companies that went undeclared.”
-“Vincent refused to answer any questions about this evidence, once again claiming that he is the victim of a conspiracy to hand the presidency to Felicia Winters.”
+Evidence presented at [[The]] trial of Fleet Admiral Vincent suggested financial links to Federal shipbuilding corporation [[Core Dynamics]].
+[[This]] significant development was covered by Ethan Takahashi for The [[Federal Times]]:
+“The initial investigations around Starship [[One]]’s destruction in 3301 were outlined by the prosecution. When the Federal Attorney’s Office revisited this historical data, traces were [[Found]] of financial transfers routed through non-[[Federation banking]] systems.”
+“The FAO brought in the expertise of the [[Wallglass Investigations Agency]], [[Which]] discovered that these transactions were made via shell companies created by Core Dynamics. Fleet Admiral Vincent, as well as [[Several]] [[Other]] naval officers, received billions of credits through these companies that went undeclared.”
+“Vincent refused to answer any questions about this evidence, once again claiming that he is the victim of a conspiracy to hand the presidency to [[Felicia Winters]].”
 Despite multiple requests from the press, Core Dynamics has not made any public comment. There are unverified reports of large-scale activity taking place at some of the corporation’s centres of operation.

@@ -19,10 +19,10 @@ Vitadyne Campaign Ends
 
 An initiative from Vitadyne Labs to award a distribution licence to a pharmaceutical company has now concluded. 
 
-Professor Katrien Rook announced: 
+Professor [[Katrien Rook]] announced: 
 
-“Thanks to many hard-working traders, both Neomedical Industries and the Vandermeer Corporation received enormous quantities of advanced medicines, computer components and auto fabricators.” 
+“Thanks to [[Many]] hard-working traders, both Neomedical Industries and [[The]] Vandermeer Corporation received enormous quantities of advanced medicines, computer components and auto fabricators.” 
 
-“We are evaluating each company’s ability to manufacture the nanomedicines, and will award the contract shortly.” 
+“We are evaluating [[Each]] company’s ability to manufacture the nanomedicines, and will award the contract shortly.” 
 
 Pilots who made deliveries to Neomedical Industries can now collect their rewards from Piserchia Port in Alignak, while those who delivered to the Vandermeer Corporation can collect their rewards from Elion Dock in Kuma.

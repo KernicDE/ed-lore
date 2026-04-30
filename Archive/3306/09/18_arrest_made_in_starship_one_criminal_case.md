@@ -20,19 +20,19 @@ legacy_weight: 3
 significance: medium
 ---
 
-Arrest Made in Starship One Criminal Case
+Arrest Made in Starship [[One]] Criminal Case
 
 
-An officer in the Federal Navy Engineering Corps has been arrested for sabotaging the presidential vessel Starship One. 
+An officer in [[The]] [[Federal Navy]] Engineering Corps has been arrested for sabotaging the presidential [[Vessel]] Starship One. 
 
 A statement was made by Milandu Okoro of the Federal Attorney’s Office: 
 
-“Chief Technician Rory Webster was a department head of engineering for Starship One. Testimonies from members of Mr Webster’s team claim that he ordered unauthorised adjustments to the ship’s hyperdrive systems while in drydock, shortly before its launch in May 3301 and subsequent destruction.” 
+“Chief Technician [[Rory Webster]] was a department head of engineering for Starship One. Testimonies from members of Mr Webster’s team claim that he ordered unauthorised adjustments to the ship’s hyperdrive systems while in drydock, shortly before [[Its]] launch in May 3301 and subsequent destruction.” 
 
-“This case is now being brought before the Federal High Court, where Mr Webster will stand trial for mass murder and attempted treason.” 
+“[[This]] case is now being brought before the Federal High Court, where Mr Webster will stand trial for mass murder and attempted treason.” 
 
-There has been no comment from President Zachary Hudson, but Shadow President Felicia Winters told the press: 
+There has been no comment from [[President Zachary Hudson]], but [[Shadow President]] [[Felicia Winters told]] the press: 
 
 “This was a truly horrific tragedy, and there must be justice for all those who lost their lives on that sad day.” 
 
-The apparent death of many Federation leaders aboard Starship One resulted in Winters briefly becoming acting president, shortly before Hudson won a vote of no confidence. There has been much media attention regarding how this event proved pivotal to both of their political careers.
+The apparent death of [[Many]] Federation leaders aboard Starship One resulted in Winters briefly becoming acting president, shortly before Hudson won a vote of no confidence. There has been much media attention regarding how this event proved pivotal to both of their political careers.

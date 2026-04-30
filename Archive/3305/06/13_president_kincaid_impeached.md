@@ -21,16 +21,16 @@ legacy_weight: 2
 significance: low
 ---
 
-President Kincaid Impeached
+President [[Kincaid Impeached]]
 
 
-President Gibson Kincaid has been removed from office after a majority vote in the Alliance Assembly, following charges of treason, murder and corruption. The date of his trial is expected to be confirmed soon. 
+President [[Gibson Kincaid]] has been removed from office after a majority vote in [[The]] [[Alliance]] Assembly, following charges of treason, murder and corruption. The date of his trial is expected to be confirmed soon. 
 
-Alliance Interpol confirmed that Kincaid was detained while attempting to flee his personal estate on Zaonce. A firefight broke out between Interpol agents and emissaries from the Office of the Alliance President, acting as Kincaid’s personal bodyguards. Several fatalities were later confirmed. 
+Alliance Interpol confirmed that [[Kincaid]] was detained while attempting to flee his personal estate on [[Zaonce]]. A firefight broke out between Interpol agents and emissaries from the Office of the Alliance President, acting as Kincaid’s personal bodyguards. [[Several]] fatalities were later confirmed. 
 
 A number of influential corporate and political figures who supported Kincaid’s conspiracy to gain executive control of the Alliance have also been arrested, including a senior director at the Bank of Zaonce.  
 
-Prosecutions are expected to rely heavily on the recent testimony of Admiral Frederick Yamamoto and a detailed report provided by the Wallglass Investigations Agency.  
+Prosecutions are expected to rely heavily on the recent testimony of Admiral Frederick Yamamoto and a detailed report provided by the [[Wallglass Investigations Agency]].  
 
 Tashmira Silva, who privately commissioned the report, told the media: 
 

@@ -19,15 +19,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-Kincaid and Mahon Clash in Alliance Assembly
+[[Kincaid]] and Mahon Clash in [[Alliance]] Assembly
 
 
-Prime Minister Edmund Mahon has once again clashed with President Gibson Kincaid, following the latter’s attempt to take control of government policy during an Assembly session.  
+Prime Minister [[Edmund Mahon]] has once again clashed [[With]] President [[Gibson Kincaid]], following [[The]] latter’s attempt to take control of government policy during an Assembly session.  
 
 Political journalist Vanya Driscoll reported for The Alliance Tribune: 
 
-“There were dramatic scenes in the Assembly as President Kincaid sought to steer debates on military strategy, making several demands for increased funding towards new fleets.” 
+“There were dramatic scenes in the Assembly as President [[Kincaid sought]] to steer debates on military strategy, making [[Several]] demands for increased funding towards new fleets.” 
 
-“Prime Minister Mahon eventually stepped in and rejected these proposals outright. Kincaid was further reminded that a prior request for executive presidential powers had been unsuccessful, even if he insists on behaving otherwise.” 
+“Prime Minister [[Mahon eventually stepped]] in and rejected these proposals outright. Kincaid was [[Further]] reminded that a prior request for executive presidential powers had been unsuccessful, even if he insists on behaving otherwise.” 
 
-“Although he still has supporters, a number of councillors have privately opined that Kincaid is now a toxic presence at odds with the Alliance’s ethos.”
+“Although he still has supporters, a number of councillors have privately opined that Kincaid is now a toxic presence at odds [[With the]] Alliance’s ethos.”

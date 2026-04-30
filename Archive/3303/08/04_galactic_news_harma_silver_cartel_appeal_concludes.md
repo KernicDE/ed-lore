@@ -14,15 +14,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Harma Silver Cartel Appeal Concludes
+Galactic News: [[Harma]] Silver Cartel Appeal Concludes
 
 
-A spokesperson for the Harma Silver Cartel has announced that its appeal for rare alcohols has reached a successful conclusion. Hundreds of pilots supported the campaign by delivering rare alcohols and eliminating agitators so traders could reach Gabriel Enterprise safely. 
+A spokesperson for [[The]] Harma Silver Cartel has announced that [[Its]] appeal for rare alcohols has reached a successful conclusion. [[Hundreds of]] pilots supported the campaign by delivering rare alcohols and eliminating agitators so traders could reach Gabriel [[Enterprise]] safely. 
 
 The campaign’s success has already had a positive impact on Harma, as evidenced by the hundreds of pilots celebrating in bars throughout the system. 
 
-As the initiative drew to a close, the Cartel released a brief statement: 
+[[As the]] initiative drew to a close, the Cartel released a brief statement: 
 
-“To the galaxy’s independent pilots, we say this: the finest rum is waiting for you in Harma.” 
+“To the galaxy’s [[Independent]] pilots, we say [[This]]: the finest rum is waiting for you in Harma.” 
 
-Pilots who supported the campaign can now collect their rewards from Gabriel Enterprise in the Harma system.
+Pilots who supported the campaign can now collect their rewards from [[Gabriel Enterprise in the Harma]] system.

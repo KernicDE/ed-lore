@@ -18,17 +18,17 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: The Silent Arbiter
+Freelance Report: [[The]] Silent Arbiter
 
 
-As Utopia completes its mission in the Maia system, senior Utopian figures have voiced alarm at the deteriorating situation between the Federation and the Empire over the barnacles. One member of the commune said: 
+As [[Utopia]] completes [[Its]] mission in the [[Maia]] system, senior Utopian figures have voiced alarm at the deteriorating situation between the Federation and the Empire over the barnacles. [[One]] member of the commune said: 
 
 "We are surrounded by a galactic mystery. Recent events indicate that humanity may not be alone in the universe." 
 
-"Some believe we are being stalked by monsters. Others think we will soon encounter a higher intelligence. We must be optimistic, and meet the future – whatever it may hold – with a collective voice." 
+"Some believe we are being stalked by monsters. Others think we will soon encounter a higher intelligence. We must be optimistic, and meet the future – whatever it may hold – [[With]] a collective voice." 
 
-"I believe humanity is being watched, its actions noted. Soon, we will be judged. Our survival depends on the decisions we make right now. We must not, and cannot, fight among ourselves." 
+"I believe humanity is being watched, its actions noted. Soon, we will be judged. [[Our]] survival depends on the decisions we make right now. We must not, and cannot, fight among ourselves." 
 
-Commander Gan 
+Commander [[Gan]] 
 
-Utopian News Network | Interstellar Press
+Utopian News Network | [[Interstellar Press]]

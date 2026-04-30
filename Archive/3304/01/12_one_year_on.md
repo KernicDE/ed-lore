@@ -20,13 +20,13 @@ legacy_weight: 5
 significance: high
 ---
 
-One Year On
+[[One]] Year On
 
 
-It has now been a year since the Thargoids returned to human-occupied space, and in that time they have become increasingly aggressive, their hostility culminating in starport attacks in the Pleiades Nebula. 
+It has now been a year since [[The]] Thargoids returned to human-occupied space, and in that time they have become increasingly aggressive, their hostility culminating in starport attacks in the [[Pleiades Nebula]]. 
 
-Now that the Thargoids’ intentions have been made clear, the question many are asking is “what can we do?” 
+Now that the Thargoids’ intentions have been made clear, the question [[Many]] are asking is “what can we do?” 
 
-Outspoken political commentator Daxton Sung offered the following analysis: 
+Outspoken political commentator Daxton Sung offered [[The following]] analysis: 
 
-“The situation continues to escalate and our leaders continue to offer the same tired platitudes – militaristic bombast from Hudson, noncommittal banalities from Lavigny-Duval and earnest sympathising from Mahon. It’s clear that they have no idea how to counter the Thargoid threat, beyond pumping more money into Aegis’s weapons programme.”
+“The situation [[Continues]] to escalate and [[Our]] leaders continue to offer the same tired platitudes – militaristic bombast from Hudson, noncommittal banalities from [[Lavigny-Duval]] and earnest sympathising from Mahon. It’s clear that they have no idea how to counter the [[Thargoid]] threat, beyond pumping more money into [[Aegis]]’s weapons programme.”

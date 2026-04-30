@@ -16,6 +16,6 @@ significance: low
 Galactic News: Diamond Frogs Campaign Concludes
 
 
-The Diamond Frogs have announced that their campaign to construct an installation in the 63 G. Capricorni system has been enthusiastically received by the galactic community. This has resulted in a massive influx of deliveries to Skvortsov Orbital, the organisation’s base of operations. 
+[[The]] Diamond Frogs have announced that their campaign to construct an installation in the 63 G. [[Capricorni]] system has been enthusiastically received by the galactic community. [[This]] has resulted [[In a]] massive influx of deliveries to Skvortsov Orbital, the organisation’s base of operations. 
 
 Pilots who contributed to the initiative can now collect their rewards from Skvortsov Orbital in the 63 G Capricorni system.

@@ -18,17 +18,17 @@ legacy_weight: 3
 significance: medium
 ---
 
-Countdown to Second Distant Worlds Expedition
+Countdown to Second [[Distant Worlds]] Expedition
 
 
-Preparations are underway for the second Distant Worlds expedition, which will see a community of explorers cross the galaxy. 
+Preparations are underway for [[The]] second Distant Worlds expedition, [[Which]] will see a community of explorers cross the galaxy. 
 
 Science correspondent Leon Banerjee provided an overview for the Vox Galactica media outlet: 
 
-“The first Distant Worlds mission, in 3302, was the largest fleet expedition in history, and saw over a thousand ships travel to Beagle Point and back.” 
+“The first Distant Worlds mission, in 3302, was the largest fleet expedition in history, and saw over a thousand ships travel to [[Beagle Point]] and back.” 
 
 “Distant Worlds II has even loftier ambitions, involving an impressive voyage through the heart of the galaxy, mapping unexplored regions and making new scientific discoveries. It will also involve the construction of a starport dedicated to the study of Sagittarius A*.” 
 
-“Project leaders Erimus Kamzel and Dr Kaii report that nearly four thousand courageous Commanders will take part, despite the risks involved, in a journey of over 200,000 light years.” 
+“Project leaders [[Erimus]] Kamzel and Dr [[Kaii]] report that nearly four thousand courageous Commanders will take part, despite the risks involved, [[In a]] journey of over 200,000 light years.” 
 
-Distant Worlds II is scheduled to launch in January 3305, with the complete round trip lasting approximately three hundred days.
+Distant Worlds II is scheduled to launch in January 3305, [[With the]] complete round trip lasting approximately three hundred days.

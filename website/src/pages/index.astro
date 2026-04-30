@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import AppShell from '../components/AppShell';
+import CommandConsole from '../components/hud/CommandConsole';
+import graphData from '../data/lore_graph.json';
+
+const articles = graphData.articles;
+const entities = graphData.entities;
+const arcs = graphData.arcs;
+---
+
+<BaseLayout title="GalNet Chronicle — Elite Dangerous Lore Explorer">
+  <header class="hud-header">
+    <div>
+      <span class="hud-title">GalNet Chronicle</span>
+      <span class="hud-subtitle" style="margin-left: 16px;">
+        {articles.length.toLocaleString()} articles · 3301–3312
+      </span>
+    </div>
+    <button class="hud-search-btn" id="search-trigger">
+      <span style="margin-right: 6px;">⌘</span> Search
+    </button>
+  </header>
+
+  <AppShell
+    client:load
+    articles={articles}
+    entities={entities}
+    arcs={arcs}
+  />
+
+  <div id="command-console-root" style="display: none;">
+    <CommandConsole
+      client:load
+      articles={articles}
+      entities={entities}
+      arcs={arcs}
+      onClose={() => {
+        const root = document.getElementById('command-console-root');
+        if (root) root.style.display = 'none';
+      }}
+    />
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  (function () {
+    const consoleRoot = document.getElementById('command-console-root');
+    const searchTrigger = document.getElementById('search-trigger');
+
+    function openConsole() {
+      if (consoleRoot) consoleRoot.style.display = 'block';
+    }
+
+    searchTrigger?.addEventListener('click', openConsole);
+    document.addEventListener('keydown', (e) => {
+      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
+        e.preventDefault();
+        openConsole();
+      }
+    });
+  })();
+</script>

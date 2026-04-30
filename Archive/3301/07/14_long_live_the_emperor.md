@@ -23,19 +23,19 @@ legacy_weight: 1
 significance: low
 ---
 
-Long Live the Emperor!
+Long Live [[The]] Emperor!
 
 
-Long Live the Emperor!  
+Long Live [[The]] Emperor!  
  
-Senator Anders Blaine, Chancellor to Emperor Hengist Duval made a surprise statement on the steps of the Imperial Palace today. With obvious joy on his face he declared that the Emperor has awoken from his coma. 
+Senator [[Anders Blaine]], Chancellor to [[Emperor [[Hengist]] Duval]] made a [[Surprise]] statement on the steps of the [[Imperial Palace]] today. [[With]] obvious joy on his face he declared that the Emperor has awoken from his coma. 
 
-“It is with great pleasure I can announce that Emperor Hengist Duval awoke from his coma in the early hours of this morning. His physicians have completed extensive medical tests and declared him well on the way to becoming fit and healthy. They have advised a few days of rest and monitoring before he resumes his state functions. 
+“It is [[With]] great pleasure I can announce that Emperor [[Hengist Duval awoke]] from his coma in the early hours of [[This]] morning. His physicians have completed extensive medical tests and declared him well on the way to becoming fit and healthy. They have advised a few days of rest and monitoring before he resumes his state functions. 
 
-As can be expected from our Emperor, he has expressed his intention to lead the senate in a few days time.” 
+As can be expected from [[Our]] Emperor, he has expressed his intention to lead the senate [[In a]] few days time.” 
 
-The welcome news of the Emperor’s recovery has rapidly spread throughout the Empire and inspired impromptu celebrations in every level of Imperial society . 
+The welcome news of the Emperor’s recovery has rapidly spread throughout the Empire and inspired impromptu celebrations in [[Every]] level of Imperial society . 
 
-Amidst the well wishes a small number of the more cynical pundits have muttered that they will believe the good news when they see the Emperor in person. Most commentators though are simply overjoyed to hear of the Emperor’s return and hope that this will herald a new and more united future for the Empire. 
+Amidst the well wishes a small number of the more cynical pundits have muttered that they will believe the good news when they see the Emperor in person. Most commentators though are simply overjoyed to hear of the Emperor’s return and hope that [[This]] will herald a new and more united future for the Empire. 
 
-As part of the celebrations for this news it was also announced that all independent pilots with an active rank with the Imperial Navy will be able to purchase the Imperial Courier and Imperial Clipper ships.
+As part of the celebrations for this news it was also announced that all [[Independent]] pilots with an active rank [[With the]] [[Imperial Navy]] will be able to purchase the Imperial Courier and Imperial Clipper ships.

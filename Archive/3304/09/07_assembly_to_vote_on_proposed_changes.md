@@ -20,16 +20,16 @@ significance: medium
 Assembly to Vote on Proposed Changes
 
 
-The Alliance Assembly has agreed to hold an internal vote on President Gibson Kincaid’s proposed changes to the constitution. 
+[[The]] [[Alliance]] Assembly has agreed to hold an internal vote on President [[Gibson Kincaid]]’s proposed changes to the constitution. 
 
-Kincaid has lobbied for the role of president to be invested with executive powers, and for each presidential term to last six years. 
+[[Kincaid]] has lobbied for the role of president to be invested [[With]] executive powers, and for [[Each]] presidential term to last six years. 
 
-Prime Minister Edmund Mahon told the media: 
+Prime Minister [[Edmund Mahon told]] the media: 
 
-“After much discussion, the Assembly has agreed to vote on President Kincaid’s proposals in mid-October, at the same time as the presidential election. We will announce any amendments to the constitution shortly afterwards.” 
+“After much discussion, the Assembly has agreed to vote on President Kincaid’s proposals in mid-[[October]], at the same time [[As the]] presidential election. We will announce any amendments to the constitution shortly afterwards.” 
 
-Milo Vesper, editor of The Alliance Tribune, discussed this development: 
+Milo Vesper, editor of The Alliance Tribune, discussed [[This]] development: 
 
 “President Kincaid’s proposals are seen by some as a long-overdue restructure of the political system. Compared to the current bureaucratic procedure, having a single person make all executive decisions has an obvious appeal. But some in the Assembly are concerned that such changes could imbue the president with emperor-like levels of authority.” 
 
-“Prime Minister Mahon is playing down such fears, but the words ‘constitutional crisis’ have already been heard in Parliament. Whatever happens, this could be the most significant election in the Alliance’s history.”
+“Prime Minister Mahon is playing down such fears, [[But the]] words ‘constitutional crisis’ have already been heard in Parliament. Whatever happens, this could be the most significant election in the Alliance’s history.”

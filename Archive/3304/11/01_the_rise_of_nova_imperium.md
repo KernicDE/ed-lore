@@ -20,17 +20,17 @@ legacy_weight: 4
 significance: high
 ---
 
-The Rise of Nova Imperium
+[[The]] Rise of [[Nova Imperium]]
 
 
 A radical group called Nova Imperium is gaining influence throughout the Empire. 
 
-Imperial Herald journalist Cassia Carvalho highlighted the situation: 
+[[Imperial Herald]] journalist Cassia Carvalho highlighted the situation: 
 
-“Nova Imperium claims that to survive the Thargoid conflict, the Empire must sever contact with all other systems and concentrate on protecting itself. In recent months, the organisation has become a genuine political force.” 
+“Nova Imperium claims that to survive the [[Thargoid]] conflict, the Empire must sever contact [[With]] all [[Other]] systems and concentrate on protecting itself. In recent months, the organisation has become a genuine political force.” 
 
-“The group’s leader is known only as the Imperator. Dressed in an Imperial Navy uniform, he is a charismatic presence who speaks of ‘a return to the honour of the old days’ and ‘the glory of Achenar’.” 
+“The group’s leader is known only [[As the]] Imperator. Dressed in an [[Imperial Navy]] uniform, he is a charismatic presence who speaks of ‘a return to the honour of the old days’ and ‘the glory of [[Achenar]]’.” 
 
-“Many traditionalist citizens, unhappy with recent cross-superpower cooperation, have embraced the Imperator’s rhetoric. On several worlds, Nova Imperium’s followers hold rallies with a distinctly martial feel.”  
+“[[Many]] traditionalist citizens, unhappy with recent cross-superpower cooperation, have embraced the Imperator’s rhetoric. On [[Several]] worlds, Nova Imperium’s followers hold rallies with a distinctly martial feel.”  
 
-“So far there has been little response from Imperial authorities, but it is clear that Nova Imperium will soon become impossible to ignore.”
+“So [[Far]] there has been little response from Imperial authorities, but it is clear that Nova Imperium will soon become impossible to ignore.”

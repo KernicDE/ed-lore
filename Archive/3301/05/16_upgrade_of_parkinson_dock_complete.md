@@ -19,8 +19,8 @@ significance: low
 Upgrade of Parkinson Dock Complete
 
 
-After two weeks of frantic construction, which saw close to 70,000 engineers working around the clock to get the project finished in time, Parkinson Dock is now home to some of the most advanced factories in the entire Empire.  
+After two weeks of frantic construction, [[Which]] saw close to 70,000 [[Engineers]] working around [[The]] clock to get [[The]] project finished in time, Parkinson Dock is now home to some of the most advanced factories in [[The entire]] Empire.  
 
-The upgrade was completed as part of Senator Patreus’s plan to increase economic opportunities for the residents of his home system. 2,267 Commanders helped ship a total of 8,274,504 tonnes of industrial materials to Parkinson Dock, all of which were put to good use during the construction effort. 
+The upgrade was completed as part of Senator Patreus’s plan to increase economic opportunities for the residents of his home system. 2,267 Commanders helped ship a total of 8,274,504 tonnes of industrial materials to Parkinson Dock, all of [[Which]] were put to good use during the construction effort. 
 
-In particular, the Eotienses Citizens’ Forum would like to honour Viscount Plo Koon, Baron Coiling Dragon, Earl Prawnetto, Earl Morton and Baron Kosmetas for their assistance in refitting Parkinson Dock in preparation for its new role as a dedicated research and development hub for new military technologies.
+In particular, the [[Eotienses]] Citizens’ Forum would like to honour Viscount Plo Koon, Baron Coiling Dragon, Earl Prawnetto, Earl Morton and Baron Kosmetas for their assistance in refitting Parkinson Dock in preparation for [[Its]] new role as a dedicated research and development hub for new military technologies.

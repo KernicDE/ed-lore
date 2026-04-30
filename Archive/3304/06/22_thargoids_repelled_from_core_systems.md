@@ -24,12 +24,12 @@ significance: high
 Thargoids Repelled from Core Systems
 
 
-Aegis has confirmed that the Thargoid presence in the core systems has been significantly diminished, due largely to the efforts of the galactic community. 
+[[Aegis]] has confirmed that [[The]] [[Thargoid]] presence [[In the core]] systems has been significantly diminished, due largely to the efforts of the galactic community. 
 
-Admiral Aden Tanner, chief military liaison with Aegis, made this statement: 
+Admiral Aden Tanner, chief military liaison [[With]] Aegis, made [[This]] statement: 
 
-“This is a very positive development. Using data from our Eagle Eye network, courageous members of the galactic community have formed a barrier of steel and fire, preventing Thargoid vessels from encroaching further. In doing so they have prevented several starports from being attacked, saving many thousands of lives.” 
+“This is a very positive development. Using data from [[Our]] Eagle Eye network, courageous members of the galactic community have formed a barrier of steel and fire, preventing Thargoid vessels from encroaching [[Further]]. In doing so they have prevented [[Several]] starports from being attacked, saving [[Many]] thousands of lives.” 
 
-“Furthermore, in many regions the Thargoid incursion has actually been reversed. Although they remain entrenched within the Pleiades, their forces in the core systems have been pushed back to the Bhal system, their initial beachhead.” 
+“Furthermore, in many regions the Thargoid incursion has actually been reversed. Although they remain entrenched within the Pleiades, their forces in the core systems have been pushed back to the [[Bhal]] system, their initial beachhead.” 
 
-“Aegis offers its sincere thanks and congratulations to every one of the Commanders who risked their lives by meeting our enemy in battle. These audacious pilots have proved that humanity’s spirit is far from broken. Victory against the Thargoids will be hard-won, but I am in no doubt that with defenders of this calibre, it will one day be achieved.”
+“Aegis offers [[Its]] sincere thanks and congratulations to [[Every]] [[One]] of the Commanders who risked their lives by meeting our enemy in battle. These audacious pilots have proved that humanity’s spirit is [[Far]] from broken. Victory against the Thargoids will be hard-won, but I am in no doubt that with defenders of this calibre, it will one day be achieved.”

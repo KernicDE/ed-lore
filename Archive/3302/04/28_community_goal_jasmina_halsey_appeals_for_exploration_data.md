@@ -14,17 +14,17 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Jasmina Halsey Appeals for Exploration Data
+Community Goal: [[Jasmina Halsey]] Appeals for Exploration Data
 
 
-Since being discharged from the medical centre at Leoniceno Orbital, former Federal president Jasmina Halsey has repeatedly spoken about the allegedly transcendent experiences she had while drifting through space.  
+Since being discharged from [[The]] medical centre at Leoniceno Orbital, former Federal [[President Jasmina Halsey]] has repeatedly spoken about the allegedly transcendent experiences she had while drifting through space.  
 
-The former leader purports to have seen "the true architects of creation" and to have been shown what she describes as "the infinities of the cosmos" – assertions that, along with her slowed speech, have seen her condemned as mentally unstable by some commentators. 
+The former leader purports to have seen "the true architects of creation" and to have been shown what she describes as "the infinities of the cosmos" – assertions that, along [[With]] her slowed speech, have seen her condemned as mentally unstable by some commentators. 
 
-Now the former president has launched an appeal for exploration data that she hopes will validate her claims. According to a member of her personal staff, the former leader believes the data will prove there are super-intelligent beings living in the depths of space. 
+Now the former president has launched an appeal for exploration data that she hopes will validate her claims. [[According to]] a member of her personal staff, the former leader believes the data will prove there are super-intelligent beings living in the depths of space. 
 
 The former Federal president released a brief statement to the media: 
 
-"They are out there. I have seen them. We must put aside our petty differences and work together to establish contact. There is so much we could learn from them." 
+"They are out there. I have seen them. We must put aside [[Our]] petty differences and work together to establish contact. There is so much we could learn from them." 
 
-The Azaleach Partnership has agreed to coordinate the campaign on Halsey's behalf, and to reward pilots who deliver exploration data to Leoniceno Orbital. The appeal begins on the 28th of April 3302 and will run for one week.
+The [[Azaleach]] Partnership has agreed to coordinate the campaign on Halsey's behalf, and to reward pilots who deliver exploration data to Leoniceno Orbital. The appeal begins on the 28th of April 3302 and will [[Run]] for [[One]] week.

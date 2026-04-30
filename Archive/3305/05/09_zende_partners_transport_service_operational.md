@@ -19,16 +19,16 @@ legacy_weight: 4
 significance: high
 ---
 
-Zende Partners Transport Service Operational
+[[Zende]] Partners Transport Service Operational
 
 
 A megaship service offering transport to Guardian space from Zende is now in operation. 
 
-The CEO of Zende Partners, Freya Taine, announced: 
+[[The]] CEO of Zende Partners, Freya Taine, announced: 
 
-“Following the recommendation of the galactic community, my company has established an outpost in Synuefe EN-H d11-96 that will serve as the termination point for this new ferry service. Our two megaships, Sadler’s Song and The Conduit, will make weekly trips to the selected location.” 
+“Following the recommendation of the galactic community, my company has established an outpost in [[Synuefe]] EN-H d11-96 that will serve [[As the]] termination point for [[This]] new ferry service. [[Our]] two megaships, Sadler’s Song and The Conduit, will make weekly trips to the [[Selected]] location.” 
 
-“This first step of our initiative should encourage activity at nearby Guardian ruins. In addition, we have now finalised the design of an advanced military module based on Guardian technology, and we hope to begin manufacture of this design very soon.” 
+“This first step of our initiative should encourage activity at [[Nearby]] Guardian ruins. In addition, we have now finalised the design of an advanced military module based on Guardian technology, and we hope to begin manufacture of this design very soon.” 
 
 Among the feedback from the technology industry was a statement by Cedrik Stone, CEO of rival arms manufacturer Segnen Exchange:  
 

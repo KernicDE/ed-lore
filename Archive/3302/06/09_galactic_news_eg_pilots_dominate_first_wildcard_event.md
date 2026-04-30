@@ -15,8 +15,8 @@ significance: low
 Galactic News: EG Pilots Dominate First Wildcard Event
 
 
-Last week saw the start of a three-week campaign to determine which of the galaxy's minor factions would earn a place in the forthcoming Dangerous Games. The victor of the so-called 'Wildcard' competition will go on to vie for the right to be recognised as an official power. 
+Last week saw [[The]] start of a three-week campaign to determine [[Which]] of the galaxy's minor factions would earn a place in the forthcoming Dangerous Games. The victor of the so-called 'Wildcard' competition will go on to vie for the right to be recognised as an official power. 
 
-The first Wildcard event required pilots to fire up their mining lasers and gather gold for their chosen faction. Predictably, the week-long event saw no small measure of conflict, with pilots doing everything they could to disrupt their rivals' operations. 
+The first Wildcard event required pilots to fire up their mining lasers and gather gold for their chosen faction. Predictably, the week-long event saw no small measure of conflict, [[With]] pilots doing everything they could to disrupt their rivals' operations. 
 
-The final tally indicates that the EG Pilots received the largest quantity of gold. But whether or not this will result in ultimate victory remains to be seen, as it will not be clear which faction has received the most support until the end of the three-week campaign.
+The final tally indicates that the EG Pilots received the largest quantity of gold. But whether or not [[This]] will result in ultimate victory remains to be seen, as it will not be clear which faction has received the most support until the end of the three-week campaign.

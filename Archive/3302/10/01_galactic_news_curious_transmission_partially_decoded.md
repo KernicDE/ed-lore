@@ -19,8 +19,8 @@ significance: low
 Galactic News: Curious Transmission Partially Decoded
 
 
-In early August, an antique Cobra Mk III was interred at the Tionisla Orbital Graveyard. Shortly before the ship was laid to rest, a beacon aboard the vessel transmitted a repeating sequence of curious characters. 
+In early August, an antique Cobra Mk III was interred at [[The]] [[Tionisla]] Orbital Graveyard. Shortly before the ship was laid to rest, a beacon aboard the [[Vessel]] transmitted a repeating sequence of curious characters. 
 
-The sequence was picked up by several listening and relay posts in the Tionisla system, and it has now been determined that it contains content obscured with an unknown encryption. The encrypted data is followed by an apparently meaningless clear-text phrase: 'The vain queen rides a giraffe that remembers her daughter's hero.' 
+The sequence was picked up by [[Several]] listening and relay posts in the Tionisla system, and it has now been determined that it contains content obscured [[With]] an unknown encryption. The encrypted data is followed by an apparently meaningless clear-text phrase: 'The vain queen rides a giraffe that remembers her daughter's hero.' 
 
-Intelligence services within the Alliance, Empire and Federation are said to be investigating the message, but no official statements have yet been made. Both the sender and intended recipient of the message remain a mystery.
+Intelligence services within the [[Alliance]], Empire and Federation are said to be investigating the message, but no official statements have yet been made. Both the sender and intended recipient of the message remain a mystery.

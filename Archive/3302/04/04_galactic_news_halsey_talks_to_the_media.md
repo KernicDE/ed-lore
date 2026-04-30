@@ -16,17 +16,17 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Halsey Talks to the Media
+Galactic News: Halsey Talks to [[The]] Media
 
 
-Former Federal president Jasmina Halsey spoke to select reporters at Leoniceno Orbital today, answering the questions many have wanted to ask since she was recovered from the wreckage of Starship One. When asked about Starship One's destruction, Halsey replied: 
+Former Federal [[President Jasmina Halsey]] spoke to select reporters at Leoniceno Orbital today, answering the questions [[Many]] have wanted to ask since she was recovered from the wreckage of Starship [[One]]. When asked about Starship One's destruction, Halsey replied: 
 
-"I remember very little, really. A thunderous noise, then silence. Being thrown across the bridge in my chair, and then being unable to breathe. I remember one of my bodyguards getting me to the pod as things floated about silently, like a dream. The last thing I remember is a terrible pain in my ears and a very loud noise as the pod filled with what looked like steam." 
+"I remember very little, really. A thunderous noise, then silence. Being thrown across the [[Bridge]] in my chair, and then being unable to breathe. I remember one of my bodyguards getting me to the pod as things floated about silently, like a dream. The last thing I remember is a terrible pain in my ears and a very loud noise [[As the]] pod filled [[With]] what looked like steam." 
 
 The former president's voice was distant, and she seemed to drift off between sentences. She certainly did not sound like the forceful leader from last year. 
 
-A reporter from the Alliance Tribune asked President Halsey what it was like to drift through space for so long: 
+A reporter from the [[Alliance]] Tribune asked President [[Halsey what it]] was like to drift through space for so long: 
 
-"It was wonderful. Amazing. I saw the universe, and our galaxy within it, as I'd never seen it before, and I felt the presence of the real caretakers of our galaxy. The paradox of their existence – tiny yet gargantuan, fleeting yet eternal. They spoke to me as I drifted in the void. It was amazing. I must share their message." 
+"It was wonderful. Amazing. I saw the universe, and [[Our]] galaxy within it, as I'd never seen it before, and I felt the presence of the real caretakers of our galaxy. The paradox of their existence – tiny yet gargantuan, fleeting yet eternal. They spoke to me as I drifted in the void. It was amazing. I must share their message." 
 
-This unorthodox statement prompted a flurry of further questions, but Halsey's escorts promptly led her from the room.
+[[This]] unorthodox statement prompted a flurry of [[Further]] questions, but Halsey's escorts promptly led her from the room.

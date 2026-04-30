@@ -18,17 +18,17 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Access to Naraka Temporarily Restricted
+Galactic News: Access to [[Naraka]] Temporarily Restricted
 
 
-For some, Naraka is a system located in the Hydrae Sector, but for others, it's a system situated between Pi-Fang and Eranin. That's because there are two systems that bear the name 'Naraka'. 
+For some, [[Naraka is a]] system [[Located]] in [[The]] Hydrae Sector, but for others, it's a system situated between Pi-Fang and Eranin. [[That's because there are two]] systems that bear the name 'Naraka'. 
 
-This quirk of circumstance has long been a source of confusion for independent pilots, but Universal Cartographics has deigned to address the issue by renaming the former of the two systems. 
+[[This]] quirk of circumstance has long been a source of confusion for [[Independent]] pilots, but [[Universal Cartographics]] has deigned to address the issue by renaming the former of the two systems. 
 
 A Federal spokesperson released a brief statement: 
 
-"Until Universal Cartographics has dealt with this issue, all travel to the Naraka system has been restricted. Access to the Naraka system located between Pi-Fang and Eranin remains unhindered." 
+"Until Universal Cartographics has dealt [[With]] this issue, all travel to the Naraka system has been restricted. [[Access to the Naraka]] system located between Pi-Fang and Eranin remains unhindered." 
 
-Not everyone is happy about the impending change, however, with one resident of the soon-to-be renamed system remarking: 
+Not everyone is happy about the impending change, however, with [[One]] resident of the soon-to-be renamed system remarking: 
 
 "This is all well and good, but what will happen to my mail? It's like Universal Cartographics didn't even consider the postal service."

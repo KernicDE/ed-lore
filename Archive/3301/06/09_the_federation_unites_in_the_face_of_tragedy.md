@@ -14,15 +14,15 @@ legacy_weight: 1
 significance: low
 ---
 
-The Federation Unites in the Face of Tragedy
+[[The]] Federation Unites in [[The]] Face of Tragedy
 
 
 The Federation Unites in the Face of Tragedy  
  
-Despite some fear that the recent change in leadership would lead to further destabilisation of the Federation, it seems that on the whole, the majority of Federal worlds are content to wait and see what kind of President Zachary Hudson turns out to be. 
+Despite some fear that the recent change in leadership would lead to [[Further]] destabilisation of the Federation, it seems that on the whole, the majority of Federal worlds are content to wait and see what kind of President [[Zachary Hudson turns out]] to be. 
 
-Political pundits and sociologists alike had expressed concerns that since the disappearance of former President Jasmina Halsey, the Federation would almost certainly go through a period of internal strife while the landscape of Federal power adjusted to the new reality.  
+Political pundits and sociologists alike had expressed concerns that since the disappearance of former [[President Jasmina Halsey]], the Federation would almost certainly go through a period of internal strife while the landscape of Federal power adjusted to the new reality.  
 
-To everyone’s surprise, the situation on the ground has actually stabilised since President Hudson assumed office. It would seem that in the face of tragic loss, personal politics have been put aside, and the overwhelming majority of Federal organisations have chosen to stand united for the good of the Federation. 
+To everyone’s [[Surprise]], the situation on the ground has actually stabilised since President [[Hudson assumed]] office. It would seem that in the face of tragic loss, personal politics have been put aside, and the overwhelming majority of Federal organisations have chosen to stand united for the good of the Federation. 
 
-How long this new coalition will last remains to be seen, but for now at least, Federal residents can rest easy knowing that for this brief moment in time, the Federation stands united for the good of all mankind.
+How long [[This]] new coalition will last remains to be seen, but for now at least, Federal residents can rest easy knowing that for [[This]] brief moment in time, the Federation stands united for the good of all mankind.

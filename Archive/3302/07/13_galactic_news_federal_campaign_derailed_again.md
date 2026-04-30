@@ -23,12 +23,12 @@ significance: medium
 Galactic News: Federal Campaign Derailed Again
 
 
-Reports coming in from the Segovan system indicate that the Federation's campaign to construct an outpost in the system has once again been disrupted. Starport personnel have confirmed that the station is experiencing a wide range of technical problems as a result of Unknown Artefact-related interference. 
+[[Reports coming in from [[The]] Segovan]] system indicate that the Federation's campaign to construct an outpost in the system has once again been disrupted. Starport personnel have confirmed that the station is experiencing a wide range of technical problems as a result of Unknown Artefact-related interference. 
 
-You almost have to admire those Imperial pilots," said one member of starport personnel. "I mean, it's a pain in the ass for us – we've got malfunctions and power outages popping up all over the place – but you've got to respect their determination. First they tried targeting the traders. Then they hit the station with Unknown Artefacts." 
+You almost have to admire those Imperial pilots," said [[One]] member of starport personnel. "I mean, it's a pain in the ass for us – we've got malfunctions and power outages popping up all over the place – but you've got to respect their determination. First they tried targeting the traders. Then they hit the station [[With]] Unknown Artefacts." 
 
-Starport authorities were unable to confirm when services at the station would be restored. Meanwhile, Federal President Zachary Hudson issued a statement: 
+Starport authorities were unable to confirm when services at the station would be restored. Meanwhile, Federal [[President Zachary Hudson]] issued a statement: 
 
-"The individuals responsible for this cowardly attack clearly care nothing for the people of Ramsbottom Hub, whose lives have been severely disrupted. These people are terrorists, pure and simple." 
+"The individuals responsible for [[This]] cowardly attack clearly care nothing for the people of Ramsbottom Hub, whose lives have been severely disrupted. These people are terrorists, pure and simple." 
 
 "I want to assure the people of Ramsbottom Hub, and all Federal citizens, that we will find the individuals responsible, and we will make them pay."

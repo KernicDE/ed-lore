@@ -23,12 +23,12 @@ significance: low
 Achilles Corp Initiative Concludes
 
 
-A goodwill initiative from the Achilles Corporation has now concluded. 
+A goodwill initiative from [[The]] Achilles Corporation has now concluded. 
 
-Chairman Gus Weaver of the Sol division of Achilles Corp announced: 
+Chairman [[Gus Weaver]] of the [[Sol]] division of Achilles Corp announced: 
 
-“Thanks to the dedication of many independent traders, we have now acquired enough commodities to manufacture replacements for all robots destroyed in the wake of the spy robot scandal.” 
+“Thanks to the dedication of [[Many]] [[Independent]] traders, we have now acquired enough commodities to manufacture replacements for all robots destroyed in the wake of the spy robot scandal.” 
 
-“I’d also like to remind our customers that the illegal surveillance program was safely deleted by our latest coreware update. Remember, you can always trust Achilles.” 
+“I’d also like to remind [[Our]] customers that the illegal surveillance program was safely deleted by our latest coreware update. Remember, you can always trust Achilles.” 
 
-The deliveries were organised by the Adenets Pro-Alliance Bond, which also arranged to protect traders from attack. Pilots who contributed to the initiative can now collect their rewards from Henslow Market in the Adenets system.
+The deliveries were organised by the Adenets Pro-[[Alliance]] Bond, [[Which]] also arranged to protect traders from attack. Pilots who contributed to the initiative can now collect their rewards from [[Henslow Market in the Adenets]] system.

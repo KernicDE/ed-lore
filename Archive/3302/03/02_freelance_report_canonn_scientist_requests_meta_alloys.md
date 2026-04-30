@@ -23,15 +23,15 @@ legacy_weight: 5
 significance: high
 ---
 
-Freelance Report: Canonn Scientist Requests Meta-Alloys
+Freelance Report: [[Canonn]] Scientist Requests Meta-Alloys
 
 
-Professor D Luffy, head of research at Bond Hub in the Varati system, has released a statement about the station's need for meta-alloys: 
+Professor [[D Luffy]], head of research at [[Bond Hub in [[The]] Varati]] system, has released a statement about the station's need for meta-alloys: 
 
-"My researchers are ready to receive as many meta-alloys as the community can deliver. We're certain we can repeat the success of the Obsidian Orbital engineers and reverse the malfunctions plaguing so many stations in the bubble." 
+"My researchers are ready to receive as [[Many]] meta-alloys [[As the]] community can deliver. We're certain we can repeat the success of the [[Obsidian Orbital]] [[Engineers]] and reverse the malfunctions plaguing so many stations in the bubble." 
 
-"My colleagues and I understand the concerns about harvesting meta-alloys from the barnacles, but this plague is affecting millions of people and it seems the meta-alloys have been given to us specifically as a cure." 
+"My colleagues and I understand the concerns about harvesting meta-alloys from the barnacles, but [[This]] plague is affecting millions of people and it seems the meta-alloys have been given to us specifically as a cure." 
 
 "We do not condone the destruction of barnacle sites, and we are prepared for the possibility that something bad could happen as a result of using the meta-alloys in this way, but we must balance the need for caution against the needs of humanity. So, please, bring your meta-alloys to us and let us do the rest." 
 
-Commander Lord Zoltan
+Commander [[Lord Zoltan]]

@@ -20,10 +20,10 @@ legacy_weight: 5
 significance: high
 ---
 
-*Pilots Federation ALERT*
-Independent pilots have supported the Far God cult by delivering commodities to the Panjabell system.
-The Pleiades Concordat paid for shipments of auto fabricators, emergency power cells and insulating membrane transported to Moore Hub station. These will be used to outfit megaships that will be populated by the Thargoid-worshipping cultists.
-Local reporters spoke to one of the sect’s newest converts, Leonard Yates from Agassiz Settlement, now known as the Eighty-Ninth Adherent of the Sixtieth Chapter:
-“The beneficence of the galactic community is deeply appreciated. Our missionary megaship, the Testament, will help carry news of the oncoming apocalypse to every system.”
-“The other megaships – the Perdition and the Sacrosanct  – will soon embark on a holy pilgrimage. They will carry thousands of us faithful worshippers into the void to commune with the Far God and hasten Its arrival.”
-Pilots who contributed to the Pleiades Concordat’s initiative can now collect their rewards from Moore Hub in the Panjabell system.
+*[[Pilots Federation]] ALERT*
+[[Independent]] pilots have supported [[The]] [[Far]] God cult by delivering commodities to [[The Panjabell]] system.
+The Pleiades Concordat paid for shipments of auto fabricators, emergency power cells and insulating membrane transported to Moore Hub station. These will be used to outfit megaships that will be [[Populated]] by the [[Thargoid]]-worshipping cultists.
+Local reporters spoke to [[One]] of the sect’s newest converts, Leonard Yates from Agassiz Settlement, now known [[As the]] Eighty-Ninth Adherent of the Sixtieth Chapter:
+“The beneficence of the galactic community is deeply appreciated. [[Our]] missionary megaship, the Testament, will help carry news of the oncoming apocalypse to [[Every]] system.”
+“The [[Other]] megaships – the Perdition and the Sacrosanct  – will soon embark on a holy pilgrimage. They will carry thousands of us faithful worshippers into the void to commune [[With the]] Far God and hasten [[Its]] arrival.”
+Pilots who contributed to the Pleiades Concordat’s initiative can now collect their rewards from [[Moore Hub in the Panjabell]] system.

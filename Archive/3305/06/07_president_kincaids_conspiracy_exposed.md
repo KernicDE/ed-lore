@@ -18,17 +18,17 @@ legacy_weight: 2
 significance: low
 ---
 
-President Kincaid’s Conspiracy Exposed
+President [[Kincaid]]’s Conspiracy Exposed
 
 
-The Alliance Tribune has revealed that Admiral Frederick Yamamoto has committed multiple crimes at the behest of Alliance president Gibson Kincaid.  
+[[The]] [[Alliance]] Tribune has revealed that Admiral Frederick Yamamoto has committed multiple crimes at the behest of Alliance president [[Gibson Kincaid]].  
 
-In a detailed report, journalist Vanya Driscoll said: 
+[[In a]] detailed report, journalist Vanya Driscoll said: 
 
-“As part of a plea bargain to avoid life imprisonment, Yamamoto has provided Alliance Interpol with data regarding actions carried out on the direct orders of President Kincaid.” 
+“As part of a plea bargain to avoid life imprisonment, Yamamoto has provided Alliance Interpol [[With]] data regarding actions carried out on the direct orders of President Kincaid.” 
 
-“Along with the assassination of presidential candidate Fazia Silva, Yamamoto arranged to murder, injure and intimidate many others to facilitate Kincaid’s rise to power.” 
+“Along [[With the]] assassination of presidential candidate Fazia Silva, Yamamoto arranged to murder, injure and intimidate [[Many]] others to facilitate Kincaid’s rise to power.” 
 
-“The admiral coordinated his efforts with a number of influential corporate, military and political figures, who allied themselves with Kincaid in exchange for certain advantages. This included a Bank of Zaonce senior director, who illegally redirected funds to bankroll Kincaid’s re-election campaign.” 
+“The admiral coordinated his efforts with a number of influential corporate, military and political figures, who [[Allied]] themselves with Kincaid in exchange for certain advantages. [[This]] included a Bank of [[Zaonce]] senior director, who illegally redirected funds to bankroll Kincaid’s re-election campaign.” 
 
-“Kincaid’s ultimate aim was to transfer executive power from Alioth to Zaonce, establishing a base of support to eventually become the supreme ruler of the Alliance. But with such a detailed and damning testimony from Yamamoto, it seems impossible that his presidency can survive these revelations.”
+“Kincaid’s ultimate aim was to transfer executive power from [[Alioth]] to Zaonce, establishing a base of support to eventually become the supreme ruler of the Alliance. But with such a detailed and damning testimony from Yamamoto, it seems impossible that his presidency can survive these revelations.”

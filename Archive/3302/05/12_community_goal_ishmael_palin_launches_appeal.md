@@ -24,13 +24,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Community Goal: Ishmael Palin Launches Appeal
+Community Goal: [[Ishmael Palin]] Launches Appeal
 
 
-Last month, Professor Ishmael Palin announced his intention to retire from The Palin Institute, the research organisation he founded in 3301. In a statement, the professor indicated that he would relocate to a small research centre on Maia A 3 a, where he would continue investigating the Unknown Artefacts and meta-alloys. Now, the professor has issued a further statement, announcing that he has placed an open order for building fabricators for the construction of the new outpost. 
+Last month, [[Professor Ishmael Palin]] announced his intention to retire from [[The]] Palin Institute, the research organisation he founded in 3301. [[In a]] statement, the professor indicated that he would relocate to a small research centre on [[Maia]] A 3 a, where he would continue investigating the Unknown Artefacts and meta-alloys. Now, the professor has issued a [[Further]] statement, announcing that he has placed an open order for building fabricators for the construction of the new outpost. 
 
-"The galactic community has given me considerable support over the past few months – even going so far as to rescue me and my team from pirates in the Orulas system – and I would very much like for them to be part of this initiative. The new research centre will be relatively modest, but there is still a need for materials. I can promise that pilots who deliver the necessary supplies will be generously compensated!" 
+"The galactic community has given me considerable support over the past few months – even going so [[Far]] as to rescue me and my team from pirates in the [[Orulas]] system – and I would very much like for them to be part of [[This]] initiative. The new research centre will be relatively modest, but there is still a need for materials. I can promise that pilots who deliver the necessary supplies will be generously compensated!" 
 
-The Defence Party of Nespeleve, which is coordinating the effort on behalf of Professor Palin, has promised to reward pilots who deliver building fabricators to Wilkes Orbital in the Nespeleve system. The organisation has also promised to reward Commanders who eliminate hostiles operating in the system, to ensure those delivering building fabricators can do so safely. 
+The Defence Party of Nespeleve, [[Which]] is coordinating the effort on behalf of [[Professor Palin]], has promised to reward pilots who deliver building fabricators to [[Wilkes Orbital in the Nespeleve]] system. The organisation has also promised to reward Commanders who eliminate hostiles operating in the system, to ensure those delivering building fabricators can do so safely. 
 
-The campaign begins on the 12th of May 3302 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 12th of May 3302 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.

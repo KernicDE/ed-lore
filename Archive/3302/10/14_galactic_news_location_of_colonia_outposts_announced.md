@@ -19,7 +19,7 @@ significance: high
 Galactic News: Location of Colonia Outposts Announced
 
 
-Latugara PLC, which recently launched a successful campaign to establish a series of outposts between the Colonia Nebula and the core systems, has announced where the new outposts will be built. The name of each outpost has also been revealed. 
+[[Latugara]] PLC, [[Which]] recently launched a successful campaign to establish a series of outposts between [[The]] [[Colonia Nebula and the core]] systems, has announced where the new outposts will be built. The name of [[Each]] outpost has also been revealed. 
 
 The complete list is as follows: 
 
