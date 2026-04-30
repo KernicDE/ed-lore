@@ -4,30 +4,31 @@ title: Presidential Campaigns Target Federal Voters
 slug: presidential_campaigns_target_federal_voters
 date: '3309-05-22'
 source: API
-entities:
-- Felicia Winters
-- Jerome Archer
+entities: []
 groups:
-- ACT
 - Federal Times
-- Shadow President
-- Thargoid
 locations:
 - Sol
-- Thargoid
 topics:
-- alien contact
-- construction
-- humanitarian
-- independence
-- ship
-- sport
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+- politics
+arc_id: null
+modern_impact: "Trevino's summary of the candidates — Archer as 'similar leadership style and focus on interstellar security,' Winters as 'more humanitarian approach,' Rackham as 'the wild card' — is concise. Chen's analysis — 'Federal newsfeeds focus more on character than policies' — is a media critique. The observation that 'some are even wondering if this might be the last president they ever elect' captures wartime anxiety."
+persons:
+- Jerome Archer
+- Felicia Winters
+- Zachary Rackham
+- Sofia Trevino
+- Patricia Chen
+- Sura Oyekan
+- Isolde Rochester
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "The three presidential candidates ramp up campaigns for the delayed August election, with media coverage focusing on character over policy and the war casting a shadow over voter optimism."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 1ac8d03e-9598-5693-ab0a-a6843407fbf2
+- a1b8a394-834d-5abc-bae2-ab0de6f5c25a
+- 28c59782-1b59-5571-b624-f6741ded3aea
 ---
 
 Jerome Archer, Felicia Winters and Zachary Rackham are lobbying for public support as the Federation prepares to elect a new president in August.

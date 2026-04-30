@@ -5,24 +5,26 @@ slug: ground_troops_encounter_thargoid_drones
 date: '3309-05-12'
 source: API
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
 - Maelstrom
-- Scores of populated
-- Thargoid
 topics:
 - alien contact
 - investigation
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Rios's eyewitness — 'I've seen them patrol the abandoned settlements as if on guard duty... and become extremely hostile when they detect any living humans' — is chilling. His question — 'Could they be planning to colonise all worlds in the core systems?' — raises existential stakes. Parry's description of 'entire squads being wiped out by missile bombardments from these craft' establishes the drone threat level."
+persons:
+- Ernesto Rios
+- Daniel Parry
+player_impact: "Independent armed forces operating behind enemy lines can play a vital role by destroying Thargoid drones."
+summary: "Thargoid 'Revenant' drones are attacking ground personnel in occupied settlements, adding a planetary surface dimension to the war."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 75959975-677e-5ef0-a638-99ecddb6c873
+- 45fc544b-0e8b-5226-9ea8-5a475d50bb80
+- f9fecf41-099b-5d1f-93f0-d6f472997ac9
 ---
 
 Reports from planetary settlements within Thargoid-occupied systems have described alien drone vessels attacking on-foot personnel.

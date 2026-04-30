@@ -4,35 +4,36 @@ title: Thargoid Pulse Neutraliser Becomes Available
 slug: thargoid_pulse_neutraliser_becomes_available
 date: '3309-05-09'
 source: API
-entities:
-- Alba Tesreau released
-- Palin
+entities: []
 groups:
-- ACT
 - Aegis
 - Federal Navy
-- Thargoid
 locations:
-- Aegis
-- Clement Orbital in the YZ Ceti
+- Clement Orbital
 - Maelstrom
 - Professor Palin
 - Ram Tah
-- Thargoid
 topics:
 - alien contact
-- construction
 - exploration
-- humanitarian
 - research
-- ship
-- trade
 - war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Tesreau's framing — 'A small number of Aegis researchers will be among the first wave of pioneers' — shows scientific leadership. Tanner's warning — 'Whatever lies within the Maelstroms is almost certainly protected by further dangers' — is appropriately cautious. The reward for early contributors of unclassified relics acknowledges player history."
+persons:
+- Alba Tesreau
+- Aden Tanner
+- Ram Tah
+- Professor Palin
+player_impact: "Pilots who delivered materials can collect rewards. First 50 pilots who contributed unclassified relics receive a free neutraliser."
+summary: "The Thargoid pulse neutraliser is now commercially available, enabling ships to penetrate Maelstrom energy waves and explore their cores."
 legacy_weight: 5
 significance: high
+related_uuids:
+- c44eb127-7e09-52f5-802c-b31fe5285aa9
+- ab0f4a46-b6b4-57b7-80df-fc7e40c7b0c8
+- 0e564062-8f87-5a40-bc09-eb4c1990a495
+- 75959975-677e-5ef0-a638-99ecddb6c873
 ---
 
 *Pilots’ Federation ALERT*

@@ -4,34 +4,34 @@ title: Resources Needed for Thargoid Pulse Neutraliser
 slug: resources_needed_for_thargoid_pulse_neutraliser
 date: '3309-05-02'
 source: API
-entities:
-- Alba Tesreau
-- Palin have donated some
+entities: []
 groups:
-- ACT
 - Aegis
-- Thargoid
 locations:
-- Aegis
-- Clement Orbital in the YZ Ceti
+- Clement Orbital
 - Guardian
 - Maelstrom
 - Professor Palin
 - Ram Tah
-- Thargoid
 topics:
 - alien contact
-- diplomacy
-- humanitarian
-- piracy
 - research
-- ship
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Tesreau's explanation — 'Their primary components are based on unclassified relics, which are created by interfacing Guardian artefacts with Thargoid surface sites' — shows the technological lineage. Parry's assessment — 'This is the most strategically significant breakthrough to date' — frames the module's importance. The pirate warning is a practical consideration for material transport."
+persons:
+- Alba Tesreau
+- Ram Tah
+- Professor Palin
+- Daniel Parry
+player_impact: "Pilots are asked to deliver cobalt, ion distributors and power converters to Clement Orbital in the YZ Ceti system."
+summary: "Aegis requests materials to mass-produce the Thargoid pulse neutraliser, a module enabling ships to penetrate Maelstrom energy waves, based on Guardian-Thargoid research by Ram Tah and Palin."
 legacy_weight: 5
 significance: high
+related_uuids:
+- ab0f4a46-b6b4-57b7-80df-fc7e40c7b0c8
+- ec828667-8543-58f8-ad27-69e052777f6f
+- 0e564062-8f87-5a40-bc09-eb4c1990a495
+- 75959975-677e-5ef0-a638-99ecddb6c873
 ---
 
 *Pilots’ Federation ALERT*

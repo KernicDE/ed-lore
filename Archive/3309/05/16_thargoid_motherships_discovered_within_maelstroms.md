@@ -4,29 +4,32 @@ title: Thargoid Motherships Discovered Within Maelstroms
 slug: thargoid_motherships_discovered_within_maelstroms
 date: '3309-05-16'
 source: API
-entities:
-- Shamus Madigan
+entities: []
 groups:
-- ACT
 - Aegis
 - INRA
-- Thargoid
 locations:
-- Aegis
 - Maelstrom
-- Thargoid
 topics:
 - alien contact
-- construction
 - exploration
 - research
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Tesreau's personal reaction — 'I will admit that the architecture is unsettling. Finding a way to defeat them will be our greatest challenge to date' — is uncharacteristically emotional. Madigan's scientific caution — 'there is little evidence to confirm exactly what purpose they serve' — contrasts with public speculation. His dismissal of the 'hive ship' theory and reference to 'INRA scientists theorised the hierarchy of Thargoid society' provides historical context."
+persons:
+- Alba Tesreau
+- Shamus Madigan
+player_impact: "Pilots who breached the Maelstroms provided footage and data on the Titans."
+summary: "Aegis confirms colossal Thargoid 'Titans' exist at the center of all eight Maelstroms, with a new class of combat vessel patrolling nearby."
 legacy_weight: 5
 significance: high
+related_uuids:
+- c44eb127-7e09-52f5-802c-b31fe5285aa9
+- 0e564062-8f87-5a40-bc09-eb4c1990a495
+- 45fc544b-0e8b-5226-9ea8-5a475d50bb80
+- 2772dd60-46ae-52c7-a828-37bd0f391e7d
+- 92fb9612-203a-579d-a494-7165138502aa
 ---
 
 *Pilots’ Federation ALERT*

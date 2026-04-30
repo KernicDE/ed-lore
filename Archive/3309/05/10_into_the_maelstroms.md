@@ -5,28 +5,29 @@ slug: into_the_maelstroms
 date: '3309-05-10'
 source: API
 groups:
-- ACT
 - Aegis
-- Alliance
 - Federal Navy
-- Thargoid
 locations:
-- Aegis
-- All of the eight
 - Guardian
 - HIP 22460
 - Maelstrom
-- Thargoid
 topics:
 - alien contact
-- ship
 - war
-- xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: thargoid-titan-war
+modern_impact: "Parry's report on 'pathfinder missions' and unauthenticated pilot accounts shows the intelligence-gathering phase. Varga's warning about the anti-Guardian field — 'weapons based on Guardian technology will not function and should be replaced' — is critical tactical information. The confirmation that all eight Maelstrom systems are affected establishes a universal threat characteristic."
+persons:
+- Daniel Parry
+- Emil Varga
+player_impact: "Pilots equipped with Thargoid pulse neutralisers have entered Maelstrom inner regions and reported encounters with Thargoid forces."
+summary: "First ships equipped with Thargoid pulse neutralisers enter Maelstrom cores, encountering Thargoid patrols and confirming the anti-Guardian field from HIP 22460 persists in all eight Maelstrom systems."
 legacy_weight: 5
 significance: high
+related_uuids:
+- c44eb127-7e09-52f5-802c-b31fe5285aa9
+- ec828667-8543-58f8-ad27-69e052777f6f
+- ab0f4a46-b6b4-57b7-80df-fc7e40c7b0c8
+- 75959975-677e-5ef0-a638-99ecddb6c873
 ---
 
 Aegis has confirmed that the first ships equipped with Thargoid pulse neutralisers have entered the inner regions of the Maelstroms.

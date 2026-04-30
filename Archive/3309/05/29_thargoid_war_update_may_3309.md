@@ -4,30 +4,33 @@ title: 'Thargoid War Update: May 3309'
 slug: thargoid_war_update_may_3309
 date: '3309-05-29'
 source: API
-entities:
-- Alba Tesreau cemented
+entities: []
 groups:
-- ACT
 - Aegis
-- Azimuth
-- Thargoid
+- Azimuth Biotech
 locations:
-- Aegis
-- Azimuth
 - Maelstrom
-- Thargoid
-- Thargoids can lay claim to the core
-- Titan
 topics:
 - alien contact
-- corporate expansion
-- ship
 - war
-arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+arc_id: thargoid-titan-war
+modern_impact: "Sanderlyn's visceral description — 'the Titans, squatting at the centre of the corrosive clouds like bloated spiders in their webs. I can't be the only one whose guts knotted with fear' — is powerful. The description of Glaives as 'multi-bladed throwing knives' is memorable. The framing of Revenants as 'actively defending abandoned settlements from human intruders' reinforces the colonization theory. Rademaker's 'self-congratulatory hot air' dismissal maintains the rivalry."
+persons:
+- Jade Sanderlyn
+- Alba Tesreau
+- Torben Rademaker
+player_impact: "Pilots continue anti-xeno operations and explore the Maelstroms."
+summary: "Sanderlyn reports on the Titan discoveries, Glaive-class hunters, Revenant ground drones, and the pulse wave scanner project, with Rademaker criticizing Tesreau's address."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 0e564062-8f87-5a40-bc09-eb4c1990a495
+- e2e659a0-e859-563b-a0f9-ab3a09d26ca8
+- 75959975-677e-5ef0-a638-99ecddb6c873
+- 45fc544b-0e8b-5226-9ea8-5a475d50bb80
+- 2772dd60-46ae-52c7-a828-37bd0f391e7d
+- 92fb9612-203a-579d-a494-7165138502aa
+- 514110ce-a03f-5dec-9403-eb1e16bf5695
 ---
 
 Vox Galactica’s Jade Sanderlyn reports on the discovery of the Titans, and new Thargoid craft both in space and on occupied worlds.

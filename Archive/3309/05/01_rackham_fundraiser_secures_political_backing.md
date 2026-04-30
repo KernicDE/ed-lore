@@ -11,10 +11,26 @@ locations:
 - Enterprise
 - Sol
 topics:
-- trade
-modern_impact: Trade initiative affecting commodity markets.
+- politics
+modern_impact: "Trevino's observation that 'Campaign finance laws forbid Zachary Rackham from using his own wealth to pay for his presidential bid' explains the fundraising necessity. The reveal of Blackriver as 'the originator of his Just Like Me slogan' shows professional PR. The endorsement from 'Sir' Randolph Plaskett of the Knights of Enterprise and media barons Metaxas and McFarlane signal establishment support. Turk's defection from the Republican Party is significant."
+persons:
+- Zachary Rackham
+- Sofia Trevino
+- Anya Blackriver
+- Elias Metaxas
+- Neive McFarlane
+- Sura Oyekan
+- Randolph Plaskett
+- Harlan Turk
+player_impact: "Not specifically mentioned — this is a political report."
+summary: "Zachary Rackham holds a lavish fundraiser revealing Anya Blackriver as campaign manager, celebrity endorsements, and Congressman Harlan Turk as running mate."
 legacy_weight: 2
 significance: low
+related_uuids:
+- 86a02668-2ae1-5d51-83e8-9071ba93b836
+- 28c59782-1b59-5571-b624-f6741ded3aea
+- d5819466-08f7-501e-b3cf-cbf9bd4494c1
+- 2bb62465-0b86-5863-b66c-78972defe368
 ---
 
 Independent presidential candidate Zachary Rackham held a gala ball for some of the Federation’s wealthy and influential elite.
