@@ -7,10 +7,10 @@ last_seen_date: '3311-06-03'
 mention_count: 13
 related_entities:
 - sol
-- thargoid
 - act
+- thargoid
 - aegis
-- titan
+- federal-times
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **13**
 ## Related
 
 - [[Sol]] (7 co-mentions)
-- [[Thargoid]] (7 co-mentions)
-- [[ACT]] (5 co-mentions)
+- [[ACT]] (4 co-mentions)
+- [[Thargoid]] (4 co-mentions)
 - [[Aegis]] (4 co-mentions)
-- [[Titan]] (4 co-mentions)
+- [[Federal Times]] (3 co-mentions)
 
 ## Biography
 

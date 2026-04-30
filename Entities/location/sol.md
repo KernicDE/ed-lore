@@ -7,10 +7,10 @@ last_seen_date: '3311-12-18'
 mention_count: 140
 related_entities:
 - alliance
-- thargoid
 - act
 - aegis
 - federal-times
+- thargoid
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **140**
 ## Related
 
 - [[Alliance]] (27 co-mentions)
-- [[Thargoid]] (26 co-mentions)
-- [[ACT]] (25 co-mentions)
+- [[ACT]] (23 co-mentions)
 - [[Aegis]] (21 co-mentions)
 - [[Federal Times]] (21 co-mentions)
+- [[Thargoid]] (21 co-mentions)
 
 ## Biography
 

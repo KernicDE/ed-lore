@@ -2,9 +2,9 @@
 id: our-dolphs-routes
 name: Our Dolph's Routes
 type: faction
-first_seen_date: '3311-12-15'
+first_seen_date: '3310-12-20'
 last_seen_date: '3311-12-15'
-mention_count: 1
+mention_count: 2
 related_entities:
 - sandras-workshop
 - njambalba
@@ -15,15 +15,15 @@ related_entities:
 
 # Our Dolph's Routes
 
-First mentioned: **3311-12-15**  
+First mentioned: **3310-12-20**  
 Last mentioned: **3311-12-15**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Sandra's Workshop]] (1 co-mentions)
-- [[Njambalba]] (1 co-mentions)
-- [[Frost Dock]] (1 co-mentions)
+- [[Sandra's Workshop]] (2 co-mentions)
+- [[Njambalba]] (2 co-mentions)
+- [[Frost Dock]] (2 co-mentions)
 
 ## Biography
 

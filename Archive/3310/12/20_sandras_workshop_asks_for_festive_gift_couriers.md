@@ -5,22 +5,24 @@ slug: sandras_workshop_asks_for_festive_gift_couriers
 date: '3310-12-20'
 source: API
 groups:
-- ACT
-- Thargoid
+- Sandra's Workshop
+- Our Dolph's Routes
 locations:
-- Thargoid
+- Njambalba
+- Frost Dock
 topics:
-- alien contact
-- corporate expansion
-- engineering
 - festival
 - humanitarian
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+modern_impact: "Corrs' observation that 'with so many little boys and girls displaced by the nasty alien invasion, it's going to be a challenge finding them all' quantifies the human cost of the war in terms of displaced children. This article establishes the annual Sandra's Workshop tradition that will continue into 3311 and beyond."
+persons:
+- Sandra Corrs
+player_impact: "Pilots collected festive gifts from Frost Dock in Njambalba and delivered them to children displaced by the Thargoid invasion, using beacon scan data to locate delivery addresses."
+summary: "Sandra Corrs requests pilot volunteers to deliver festive gifts to children displaced by the Thargoid invasion, with her upgraded Our Dolph's Routes fleet struggling to locate all recipients."
 legacy_weight: 4
 significance: high
+related_uuids:
+- a66c3fce-c78d-5a54-a796-7fb6954d55f1
 ---
 
 The CEO of leading children’s toy manufacturer Sandra’s Workshop has requested help with parcel deliveries.

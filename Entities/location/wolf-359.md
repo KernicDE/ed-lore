@@ -8,9 +8,9 @@ mention_count: 3
 related_entities:
 - seneh-freelance-report--a-year
 - buckyball-racing-club
-- act
 - aegis
-- thargoid
+- sol
+- alpha-centauri
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **3**
 
 - [[Seneh Freelance Report  A Year]] (1 co-mentions)
 - [[Buckyball Racing Club]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
 - [[Aegis]] (1 co-mentions)
-- [[Thargoid]] (1 co-mentions)
+- [[Sol]] (1 co-mentions)
+- [[Alpha Centauri]] (1 co-mentions)
 
 ## Biography
 

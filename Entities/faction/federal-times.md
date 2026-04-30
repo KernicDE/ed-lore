@@ -23,10 +23,10 @@ Total mentions: **126**
 
 ## Related
 
-- [[ACT]] (30 co-mentions)
+- [[ACT]] (29 co-mentions)
 - [[Sol]] (21 co-mentions)
 - [[Alliance]] (16 co-mentions)
-- [[Thargoid]] (16 co-mentions)
+- [[Thargoid]] (15 co-mentions)
 - [[Federal Navy]] (13 co-mentions)
 
 ## Biography
