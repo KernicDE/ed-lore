@@ -1,0 +1,28 @@
+---
+uuid: a73e776d-bd82-52be-948e-a3e6a9cc407d
+title: Zorgon Peterson Launches the Panther Clipper
+slug: zorgon_peterson_launches_the_panther_clipper
+date: '3311-07-22'
+source: API
+groups:
+- ACT
+- Zorgon Peterson
+locations:
+- Aiaba
+- The new wave of
+topics:
+- corporate expansion
+- piracy
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
+---
+
+Zorgon Peterson has officially announced the release of the long-awaited Panther Clipper, with an initial run deployed for purchase amidst ongoing production issues.
+The Panther Clipper is described as the largest and most advanced heavy freighter currently licensed for civilian use. With a focus on maximum cargo capacity and long-range endurance, it is expected to redefine logistics operations for independent pilots, corporations, and faction-aligned haulers alike.
+Final specifications include a maximum cargo capacity of over 1200 tonnes, giving it the same capacity as a fully laden Type-8 and Imperial Cutter combined. It is also the first ship that can be equipped with the MkII cargo rack.
+A spokesperson for Zorgon Peterson offered the following statement:
+“This is a proud moment for our entire team. The Panther Clipper relaunches following decades of development and adaption to the growing needs of the pilot community. The new wave of system colonisation offers a perfect time to present the Panther Clipper.”
+The ship’s launch schedule has been recently threatened by renewed pirate activity, with key supply chains disrupted in the Aiaba system. Zorgon Peterson has issued an urgent call for independent pilots to secure shipping lanes and deliver vital components necessary for production.
+The Panther Clipper is available for exclusive purchase initially and will transition to standard shipyard inventories at a later date.

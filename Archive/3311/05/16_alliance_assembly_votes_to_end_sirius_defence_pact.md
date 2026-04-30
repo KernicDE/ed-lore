@@ -1,0 +1,36 @@
+---
+uuid: d410b16b-7ac3-54e3-ad81-af7d7123d4df
+title: Alliance Assembly Votes to End Sirius Defence Pact
+slug: alliance_assembly_votes_to_end_sirius_defence_pact
+date: '3311-05-16'
+source: API
+entities:
+- Edmund Mahon
+groups:
+- ACT
+- Alliance
+- Sirius Corp
+- Sirius Corporation
+- Thargoid
+locations:
+- Alliance member
+- Reorte
+- Sirius
+- Thargoid
+topics:
+- alien contact
+- corporate expansion
+- ship
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 4
+significance: high
+---
+
+The Alliance Assembly has voted to end the strategic defence pact between the Alliance and Sirius Corporation.
+The pact, agreed in January 3308, was a response to growing Thargoid hostility in the months prior to the alien invasion of the core systems. At the time, the Alliance Defence Force was seen as lacking adequate Anti-Xeno modules and defences. Sirius Corporation spent billions on refitting ADF vessels over the past three years, but has been accused of leveraging its position to secure profitable contracts in unrelated fields.
+The motion to end the pact was raised by Councilor Nakato Kaine, seconded by Councilor Ainsley Niven of Reorte, and was approved by a slim majority. In her opening argument Kaine had called the pact an ‘opportunistic ploy for military influence in Alliance space, with eyes on a monopoly over small corporations founded in Alliance member systems.’
+Prime Minister Edmund Mahon had argued in favour of maintaining the pact, pointing out that ‘the recent Thargoid invasion is unlikely to be the last xeno threat we ever see, and the ADF benefits greatly from Sirius Corp’s technology and industrial might.’
+Analysts believe that a reduced Sirius Corp presence in Allied military industry and related business will trigger a frantic rush from other companies to fill the supply chain.
+Sirius Corporation has not yet issued a statement to the media.

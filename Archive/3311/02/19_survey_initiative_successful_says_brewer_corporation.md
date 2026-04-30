@@ -1,0 +1,33 @@
+---
+uuid: c049687e-01f6-5a30-a4e6-f8399dd6ab54
+title: Survey Initiative Successful, Says Brewer Corporation
+slug: survey_initiative_successful_says_brewer_corporation
+date: '3311-02-19'
+source: API
+groups:
+- ACT
+- Brewer Corporation
+- Thargoid
+- Universal Cartographics
+locations:
+- Thargoid
+topics:
+- alien contact
+- corporate expansion
+- exploration
+- ship
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+A recent survey initiative organised by Brewer Corporation has been hailed as a success by CEO Madelyn Teague.
+High quantities of exploration data were handed in at the Trailblazer Echo megaship in the HIP 90578 system. The data will now be analysed by Universal Cartographics to assess the prime locations in each system for permanent human structures.
+Teague made the following announcement:
+“We are pleased that so many explorers have contributed to this initiative. The latest wave of survey data will be processed through a recently updated software algorithm for the next phase of preparation, in pursuit of a widespread expansion campaign. That campaign will be led by factions and communities across the core systems.”
+Interest in the survey campaign has been met with enthusiasm by many displaced communities resulting by the Thargoid War, who see talk of a ‘new frontier’ as a chance at a fresh start.
+However, the initiative was briefly disrupted by lockdown within the system, initiated by a number of rogue Commanders. This has been perceived by many groups as an attempt to sabotage humanity's first expansion efforts in many years, although their motives remain unclear.
+Participants to the campaign can now collect their rewards from the Trailblazer Echo in HIP 90578.
