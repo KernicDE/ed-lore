@@ -4,25 +4,35 @@ title: Deep Space ‘Anomalies’ Generate Discussion
 slug: deep_space_anomalies_generate_discussion
 date: '3308-09-23'
 source: API
-entities:
+persons:
+- Kit Fowler
 - Elizabeth Perez
 groups:
-- ACT
-- Thargoid
+- Far God cult
+- Orion University
+- Pilots Federation
 locations:
-- HIP 22460
+- Col 70 sector
 - Sol
-- Thargoid
 topics:
-- alien contact
-- engineering
+- exploration
 - research
-- war
-arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+- alien contact
+technologies:
+- Full Spectrum System Scanner
+summary: Inexplicable deep-space anomalies detected beyond the Col 70 sector generate
+  widespread speculation, with theories ranging from Thargoid weapons to natural phenomena,
+  while Professor Elizabeth Perez urges scientific caution.
+player_impact: Pilots were encouraged to scan for and report the anomalies using FSS
+  scanners.
+modern_impact: The anomalies, later known as rogue signal sources, represent one of
+  the most profound unexplained phenomena in recent exploration history, challenging
+  scientific understanding of deep-space physics.
 legacy_weight: 5
 significance: high
+related_uuids:
+- b2b3d62b-a0f0-575b-8544-17fa7e9b482a
+- 51640971-fc47-5402-a2fd-7c945c162f1e
 ---
 
 *Pilots’ Federation ALERT*

@@ -4,28 +4,24 @@ title: Empire Shifts Anti-Xeno Strategy
 slug: empire_shifts_anti_xeno_strategy
 date: '3308-09-01'
 source: API
-entities:
+persons:
 - Arissa Lavigny-Duval
 groups:
-- ACT
-- Alliance
 - Imperial Navy
-- Salvation
-- Thargoid
+- Alliance
+- Federation
 locations:
 - HIP 22460
-- Our endeavour in the HIP 22460
-- Thargoid
 topics:
 - alien contact
-- corporate expansion
-- research
-- safety
-- succession
 - war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Emperor Arissa Lavigny-Duval declares the Empire will cease all inter-superpower
+  military cooperation and rely solely on Imperial strength following the disastrous
+  Battle of HIP 22460.
+player_impact: Not specifically mentioned — this is a political policy announcement.
+modern_impact: The Empire's withdrawal from inter-superpower cooperation marks a
+  major strategic realignment in the aftermath of the Proteus Wave disaster.
 legacy_weight: 5
 significance: high
 ---

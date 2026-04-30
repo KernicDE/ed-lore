@@ -4,7 +4,7 @@ name: Tayo Maikori
 type: person
 first_seen_date: '3308-06-14'
 last_seen_date: '3309-01-30'
-mention_count: 5
+mention_count: 6
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 5
 
 First mentioned: **3308-06-14**  
 Last mentioned: **3309-01-30**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 

@@ -4,25 +4,33 @@ title: Aisling Requests Rare Items to Fund Charity
 slug: aisling_requests_rare_items_to_fund_charity
 date: '3308-09-22'
 source: API
+persons:
+- Aisling Duval
 groups:
-- Thargoid
+- Citizens' Relief Trust
+- Lavigny's Legion
+- Pilots Federation
 locations:
 - Cemiess
-- HIP 22460
 - Mackenzie Relay
-- Thargoid
+- Emerald
 topics:
-- alien contact
-- construction
 - humanitarian
-- ship
-- trade
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+summary: Princess Aisling Duval launches a fundraiser in Cemiess, requesting rare luxury
+  items to fund the Citizens' Relief Trust supporting families of Imperial personnel
+  lost to Thargoid aggression.
+player_impact: Pilots were asked to deliver Eshu Umbrellas, Xihe Biomorphic Companions,
+  Chateau De Aegaeon, wine and fish to Mackenzie Relay in Cemiess, with luxury vessel
+  paint jobs as rewards.
+modern_impact: Aisling's charity initiative highlights the human cost of the Thargoid
+  war and establishes a model for supporting bereaved families beyond formal military
+  compensation.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 05ffa6a1-7163-5564-acc6-70c0c9cb28ca
 ---
 
 *Pilots’ Federation ALERT*

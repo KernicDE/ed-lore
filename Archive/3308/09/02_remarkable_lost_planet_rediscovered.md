@@ -4,19 +4,26 @@ title: Remarkable ‘Lost Planet’ Rediscovered
 slug: remarkable_lost_planet_rediscovered
 date: '3308-09-02'
 source: API
-entities:
-- Kelly Eldridge initially made
+persons:
+- Kelly Eldridge
+- Richard Fluiraniz M
+- Orange!
+- Cynthia Sideris
 groups:
-- Explorers Association
+- Independent Explorers Association
 - Universal Cartographics
 locations:
 - Shaulai DL-P d5-274
-- With the
+- Perseus Crags
 topics:
 - exploration
-- ship
-- sport
-modern_impact: Ship review and release information for the pilot community.
+summary: A community expedition successfully rediscovers the first recorded green
+  gas giant, originally found by Commander Kelly Eldridge in 3301 but lost due to
+  missing astrographic data, in the Shaulai DL-P d5-274 system.
+player_impact: Not specifically mentioned — this is a community exploration achievement
+  rather than an official campaign.
+modern_impact: The rediscovery of the first green gas giant represents a notable achievement
+  in collaborative deep-space exploration and community-driven scientific recovery.
 legacy_weight: 1
 significance: low
 ---

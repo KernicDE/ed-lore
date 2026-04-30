@@ -10,7 +10,7 @@ related_entities:
 - alliance
 - federal-security-service
 - federal-times
-- federal-navy
+- prism
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **85**
 - [[Alliance]] (14 co-mentions)
 - [[Federal Security Service]] (12 co-mentions)
 - [[Federal Times]] (9 co-mentions)
-- [[Federal Navy]] (8 co-mentions)
+- [[Prism]] (7 co-mentions)
 
 ## Biography
 

@@ -2,32 +2,30 @@
 id: thargoid
 name: Thargoid
 type: faction
-first_seen_date: '3308-09-01'
+first_seen_date: '3311-06-18'
 last_seen_date: '3311-06-18'
-mention_count: 22
+mention_count: 1
 related_entities:
-- act
-- hip-22460
-- alliance
+- aegis
 - federal-navy
-- salvation
+- sol
+- hip-18085
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Thargoid
 
-First mentioned: **3308-09-01**  
+First mentioned: **3311-06-18**  
 Last mentioned: **3311-06-18**  
-Total mentions: **22**
+Total mentions: **1**
 
 ## Related
 
-- [[ACT]] (18 co-mentions)
-- [[HIP 22460]] (16 co-mentions)
-- [[Alliance]] (6 co-mentions)
-- [[Federal Navy]] (6 co-mentions)
-- [[Salvation]] (5 co-mentions)
+- [[Aegis]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Sol]] (1 co-mentions)
+- [[HIP 18085]] (1 co-mentions)
 
 ## Biography
 

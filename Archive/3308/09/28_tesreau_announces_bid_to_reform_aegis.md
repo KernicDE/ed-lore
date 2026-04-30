@@ -4,32 +4,37 @@ title: Tesreau Announces Bid to Reform Aegis
 slug: tesreau_announces_bid_to_reform_aegis
 date: '3308-09-28'
 source: API
-entities:
+persons:
 - Alba Tesreau
 - Angela Corcoran
-- Tesreau
+- Jasmina Halsey
 groups:
 - Aegis
-- Affiliated Counter-Terrorism
-- Affiliated Counter-Terrorism unit
+- Affiliated Counter-Terrorism Unit
 - Alliance
 - Imperial Senate
-- October
-- Thargoid
+- Federal Congress
 locations:
-- Aegis
-- Thargoid
+- Biggs Colony
+- New Apollo City
 topics:
 - alien contact
 - diplomacy
 - research
-- terrorism
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: Professor Alba Tesreau announces a media forum to propose reinstating Aegis
+  as a reformed tri-superpower anti-xeno research agency, citing the ACT as a model
+  for cross-superpower collaboration.
+player_impact: Not specifically mentioned — this is a conference announcement.
+modern_impact: Tesreau's bid to reform Aegis represents the first serious attempt to
+  restore centralised xenological research since the agency's dismantling, though Imperial
+  refusal signals deep political divisions.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4931d387-bad1-56c0-b74d-3fa457698ec1
+- 6e319ff8-5d7a-5b98-939a-6459624524f2
 ---
 
 A media forum is being arranged that will officially propose reinstating the tri-superpower anti-xeno agency.

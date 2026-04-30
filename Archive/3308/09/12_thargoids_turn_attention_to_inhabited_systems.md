@@ -4,27 +4,40 @@ title: Thargoids Turn Attention to Inhabited Systems
 slug: thargoids_turn_attention_to_inhabited_systems
 date: '3308-09-12'
 source: API
+persons:
+- Ernesto Rios
 groups:
-- ACT
-- Thargoid
+- Sirius Inc
+- SI Terraforming
+- Tekkeitjal Public Corporation
+- Pilots Federation
 locations:
-- But these are the first inhabited
-- Chun Pindit and Tekkeitjal
+- 42 n Persei
+- Chun Pindit
+- Tekkeitjal
 - HIP 22460
-- Sirius
-- Thargoid
-- The governing factions of these
+- Bennington's Rest
+- Samuda Terminal
+- Riemann Colony
 topics:
 - alien contact
-- construction
-- corporate expansion
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: Thargoid vessels invade the inhabited systems 42 n Persei, Chun Pindit and
+  Tekkeitjal in a coordinated attack, the first such incursion since the Proteus Wave
+  incident, threatening over seven million people.
+player_impact: Pilots were asked to defend the three systems and could hand in Thargoid
+  combat bonds at Bennington's Rest, Samuda Terminal and Riemann Colony for increased
+  rewards.
+modern_impact: The invasion of inhabited systems without direct starport attacks signals
+  a tactical evolution in Thargoid strategy, expanding the war beyond HIP 22460 into
+  populated territories.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 264ccc18-814c-5c74-aa65-197391ceb2a7
+- 8a26f4a9-1a35-52dd-aa8f-1dff5fd3a27d
+- bb92f6c0-0def-564c-9b52-f2f1c75fc853
 ---
 
 *Pilots’ Federation ALERT*

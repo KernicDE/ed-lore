@@ -4,24 +4,33 @@ title: 'Xeno-Peace Activists: ‘We Are The Invaders’'
 slug: xeno_peace_activists_we_are_the_invaders
 date: '3308-09-14'
 source: API
+persons:
+- Timothy Culver
 groups:
-- ACT
-- Thargoid
+- Thargoid Advocacy Project
+- The Sovereign
 locations:
-- Chun Pindit and Tekkeitjal
-- Reports by journalists in those
-- Thargoid
+- 42 n Persei
+- Chun Pindit
+- Tekkeitjal
 topics:
 - alien contact
-- bioweapon
-- corporate expansion
-- ship
+- diplomacy
 - war
+- bioweapon
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+summary: Xeno-peace activist Timothy Culver argues that Thargoid incursions are defensive
+  reprisals for the Proteus Wave and mycoid bioweapon, calling for diplomatic dialogue
+  rather than military action.
+player_impact: Not specifically mentioned — this is an activist statement.
+modern_impact: The xeno-peace movement's reframing of Thargoid aggression as defensive
+  retaliation challenges the dominant military narrative and questions humanity's own
+  role in provoking the conflict.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 38fb5be2-6a83-50df-95d5-b61bec0d0b64
+- 8a26f4a9-1a35-52dd-aa8f-1dff5fd3a27d
 ---
 
 The xeno-peace movement, which calls for communication with the Thargoids, has sought to rationalise the latest incursions.

@@ -3,8 +3,8 @@ id: elizabeth-perez
 name: Elizabeth Perez
 type: person
 first_seen_date: '3305-11-11'
-last_seen_date: '3308-09-23'
-mention_count: 6
+last_seen_date: '3307-11-15'
+mention_count: 5
 related_entities:
 - perez-travelled
 - choice-in-the-upaniklis
@@ -18,8 +18,8 @@ related_entities:
 # Elizabeth Perez
 
 First mentioned: **3305-11-11**  
-Last mentioned: **3308-09-23**  
-Total mentions: **6**
+Last mentioned: **3307-11-15**  
+Total mentions: **5**
 
 ## Related
 

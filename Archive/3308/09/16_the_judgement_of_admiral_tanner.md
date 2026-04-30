@@ -4,28 +4,32 @@ title: The Judgement of Admiral Tanner
 slug: the_judgement_of_admiral_tanner
 date: '3308-09-16'
 source: API
+persons:
+- Aden Tanner
 groups:
-- ACT
-- Azimuth
-- Federal Navy
-- Salvation
-- Thargoid
+- Federal Navy Criminal Court
+- Federal Attorney's Office
+- Azimuth Biotech
 locations:
-- Azimuth
-- Musashi
 - T Tauri
-- Thargoid
+- Hind Mine
 topics:
 - alien contact
-- construction
-- corporate expansion
 - crime
-- research
+- war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: The Federal Navy Criminal Court upholds Admiral Aden Tanner's conviction for
+  mutiny but commutes his sentence to time served, acknowledging that preventing the
+  Proteus Wave might have saved many lives.
+player_impact: Not specifically mentioned — this is a legal ruling.
+modern_impact: The tribunal's admission that Tanner's allegations about Salvation's
+  superweapons were substantiated vindicates his warnings while maintaining his dishonourable
+  discharge.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4a9ed102-8135-5f75-95e3-15fb785c0350
+- 37c1d990-9c7e-5f15-833b-c15d174811f9
 ---
 
 A special tribunal of the Federal Navy Criminal Court has deliberated the case of former admiral Aden Tanner and made a final decision.

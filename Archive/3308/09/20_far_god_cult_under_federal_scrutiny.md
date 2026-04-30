@@ -4,26 +4,37 @@ title: Far God Cult Under Federal Scrutiny
 slug: far_god_cult_under_federal_scrutiny
 date: '3308-09-20'
 source: API
-entities:
+persons:
+- Alexei Keel
+- Lana Berkovich
 - Alfred Ulyanov
+- First Apostle
 groups:
-- ACT
-- Thargoid
+- Order of the Far God
+- Federal Free Press
+- True Chapters
+- Vox Galactica
 locations:
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
 - crime
 - espionage
 - investigation
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: The Order of the Far God faces Federal investigation and public backlash after
+  HIP 22460, driving thousands of worshippers to abandon orthodox hive-chapels and join
+  the more militant True Chapters sect.
+player_impact: Not specifically mentioned — this is a journalistic report.
+modern_impact: The Federal scrutiny of the Far God cult and the radicalisation of its
+  followers into the True Chapters foreshadows a potential shift from pacifistic worship
+  to armed resistance.
 legacy_weight: 5
 significance: high
+related_uuids:
+- a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
+- 060f1f07-68f0-58fd-8607-4331bb789d9b
 ---
 
 The Order of the Far God is facing an official investigation and increased public maltreatment within the Federation.

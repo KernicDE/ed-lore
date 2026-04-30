@@ -2,32 +2,32 @@
 id: order-of-the-far-god
 name: Order of the Far God
 type: faction
-first_seen_date: '3309-03-30'
+first_seen_date: '3308-09-20'
 last_seen_date: '3309-03-30'
-mention_count: 1
+mention_count: 3
 related_entities:
-- aegis
-- azimuth
-- salvation
-- federation
-- bright-sentinel
+- hip-22460
+- federal-free-press
+- true-chapters
+- vox-galactica
+- federal-navy-intelligence-office
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Order of the Far God
 
-First mentioned: **3309-03-30**  
+First mentioned: **3308-09-20**  
 Last mentioned: **3309-03-30**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Aegis]] (1 co-mentions)
-- [[Azimuth]] (1 co-mentions)
-- [[Salvation]] (1 co-mentions)
-- [[Federation]] (1 co-mentions)
-- [[Bright Sentinel]] (1 co-mentions)
+- [[HIP 22460]] (3 co-mentions)
+- [[Federal Free Press]] (1 co-mentions)
+- [[True Chapters]] (1 co-mentions)
+- [[Vox Galactica]] (1 co-mentions)
+- [[Federal Navy Intelligence Office]] (1 co-mentions)
 
 ## Biography
 

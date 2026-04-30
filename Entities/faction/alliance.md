@@ -4,7 +4,7 @@ name: Alliance
 type: faction
 first_seen_date: '3301-02-19'
 last_seen_date: '3312-02-20'
-mention_count: 417
+mention_count: 416
 related_entities:
 - sirius-corporation
 - aegis
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-19**  
 Last mentioned: **3312-02-20**  
-Total mentions: **417**
+Total mentions: **416**
 
 ## Related
 
@@ -27,7 +27,7 @@ Total mentions: **417**
 - [[Aegis]] (63 co-mentions)
 - [[Alioth]] (44 co-mentions)
 - [[Pilots Federation]] (38 co-mentions)
-- [[Marlinist]] (36 co-mentions)
+- [[Marlinist]] (35 co-mentions)
 
 ## Biography
 

@@ -23,11 +23,11 @@ Total mentions: **43**
 
 ## Related
 
-- [[Alliance]] (11 co-mentions)
+- [[Alliance]] (10 co-mentions)
 - [[Capitol]] (9 co-mentions)
 - [[Achenar]] (9 co-mentions)
 - [[NMLA]] (9 co-mentions)
-- [[Federal Congress]] (6 co-mentions)
+- [[Federal Congress]] (7 co-mentions)
 
 ## Biography
 

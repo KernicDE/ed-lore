@@ -4,24 +4,28 @@ title: ‘Xeno-Peace’ Discussions Gain Momentum
 slug: xeno_peace_discussions_gain_momentum
 date: '3308-09-06'
 source: API
-entities:
-- Tesreau
+persons:
+- Joy Senne
+- Heimar Borichev
+- Alba Tesreau
 groups:
-- ACT
-- Salvation
-- Thargoid
+- Thargoid Advocacy Project
+- Proactive Detection Bureau
+- The Sovereign
 locations:
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
-- construction
 - diplomacy
-- research
 - war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: A grassroots xeno-peace movement gains traction following the Battle of HIP
+  22460, promoting diplomatic dialogue with Thargoids through media figures like Joy
+  Senne and Heimar Borichev.
+player_impact: Not specifically mentioned — this is a social movement report.
+modern_impact: The xeno-peace movement emerges as a significant counter-narrative to
+  military-led anti-xeno policy, challenging the assumption that war is the only response
+  to Thargoid aggression.
 legacy_weight: 5
 significance: high
 ---

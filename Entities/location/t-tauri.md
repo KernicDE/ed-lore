@@ -7,10 +7,10 @@ last_seen_date: '3309-01-30'
 mention_count: 12
 related_entities:
 - aegis
-- federal-navy
-- alliance
-- hind-mine
 - azimuth-biotech
+- hind-mine
+- alliance
+- federal-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **12**
 ## Related
 
 - [[Aegis]] (6 co-mentions)
-- [[Federal Navy]] (4 co-mentions)
+- [[Azimuth Biotech]] (6 co-mentions)
+- [[Hind Mine]] (5 co-mentions)
 - [[Alliance]] (4 co-mentions)
-- [[Hind Mine]] (4 co-mentions)
-- [[Azimuth Biotech]] (4 co-mentions)
+- [[Federal Navy]] (3 co-mentions)
 
 ## Biography
 

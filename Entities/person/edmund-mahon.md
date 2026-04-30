@@ -3,8 +3,8 @@ id: edmund-mahon
 name: Edmund Mahon
 type: person
 first_seen_date: '3301-03-11'
-last_seen_date: '3308-09-07'
-mention_count: 29
+last_seen_date: '3307-09-10'
+mention_count: 28
 related_entities:
 - alliance
 - zachary-hudson
@@ -18,12 +18,12 @@ related_entities:
 # Edmund Mahon
 
 First mentioned: **3301-03-11**  
-Last mentioned: **3308-09-07**  
-Total mentions: **29**
+Last mentioned: **3307-09-10**  
+Total mentions: **28**
 
 ## Related
 
-- [[Alliance]] (28 co-mentions)
+- [[Alliance]] (27 co-mentions)
 - [[Zachary Hudson]] (6 co-mentions)
 - [[Alioth]] (5 co-mentions)
 - [[Gibson Kincaid]] (4 co-mentions)

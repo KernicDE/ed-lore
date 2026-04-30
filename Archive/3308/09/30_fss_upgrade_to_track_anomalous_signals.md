@@ -4,26 +4,34 @@ title: FSS Upgrade to Track Anomalous Signals
 slug: fss_upgrade_to_track_anomalous_signals
 date: '3308-09-30'
 source: API
+persons:
+- Cynthia Sideris
 groups:
-- ACT
-- Engineers
 - Universal Cartographics
-locations:
-- Enterprise
-- 'Federation ALERT*
-
-  Full spectrum'
+- Auger Vision
+- Jick Nackson Enterprises
+- Long Embedded Systems
+- LURP Ship Systems
+- Pilots Federation
 topics:
-- corporate expansion
-- cyberattack
-- engineering
 - exploration
 - research
-- ship
-- war
-modern_impact: Engineering developments offer pilots new ship customisation options.
+- engineering
+technologies:
+- Full Spectrum System Scanner
+summary: Universal Cartographics rolls out a free FSS scanner firmware upgrade to help
+  pilots isolate and triangulate the rogue signal sources, with multiple engineering
+  firms collaborating on enhanced detection capabilities.
+player_impact: Pilots received a free FSS firmware upgrade to scan for and help triangulate
+  the rogue signal sources.
+modern_impact: The FSS upgrade mobilises the pilot community as a distributed sensor
+  network, turning independent explorers into citizen scientists in the effort to understand
+  the anomalous signals.
 legacy_weight: 2
 significance: low
+related_uuids:
+- b2b3d62b-a0f0-575b-8544-17fa7e9b482a
+- 80813804-4338-5173-97fb-dcfc3d38c31c
 ---
 
 *Pilots’ Federation ALERT*

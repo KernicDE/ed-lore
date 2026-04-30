@@ -4,28 +4,41 @@ title: Thargoids Retreat from Three Systems
 slug: thargoids_retreat_from_three_systems
 date: '3308-09-29'
 source: API
+persons:
+- BL1P
+- EmulatedPenguin
+- Klemyr
+- Tayo Maikori
 groups:
-- ACT
 - Federal Navy
-- Thargoid
+- Pilots Federation
 locations:
-- All three
-- Bennington's Rest in the 42 n Persei
-- Chun Pindit and Tekkeitjal
+- 42 n Persei
+- Chun Pindit
+- Tekkeitjal
 - HIP 22460
-- Riemann Colony in the Tekkeitjal
-- Samuda Terminal in the Chun Pindit
-- Thargoid
+- Bennington's Rest
+- Samuda Terminal
+- Riemann Colony
 topics:
 - alien contact
-- construction
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: Thargoid forces withdraw from the 42 n Persei, Chun Pindit and Tekkeitjal
+  systems after seventeen days, with the Federal Navy claiming victory while observers
+  suggest a tactical withdrawal of undamaged vessels.
+player_impact: Independent pilots and AX squadrons defended the three systems; Commanders
+  BL1P, EmulatedPenguin and Klemyr distinguished themselves. Pilots can still collect
+  rewards from Bennington's Rest, Samuda Terminal and Riemann Colony.
+modern_impact: The Thargoid withdrawal without direct starport attacks suggests a tactical
+  shift toward probing human defences rather than outright conquest, raising questions
+  about their long-term strategic objectives.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 38fb5be2-6a83-50df-95d5-b61bec0d0b64
+- 264ccc18-814c-5c74-aa65-197391ceb2a7
+- bb92f6c0-0def-564c-9b52-f2f1c75fc853
 ---
 
 *Pilots’ Federation ALERT*

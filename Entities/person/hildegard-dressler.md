@@ -2,18 +2,18 @@
 id: hildegard-dressler
 name: Hildegard Dressler
 type: person
-first_seen_date: '3309-11-24'
+first_seen_date: '3308-09-23'
 last_seen_date: '3309-11-24'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Hildegard Dressler
 
-First mentioned: **3309-11-24**  
+First mentioned: **3308-09-23**  
 Last mentioned: **3309-11-24**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

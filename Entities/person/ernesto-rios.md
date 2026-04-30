@@ -4,7 +4,7 @@ name: Ernesto Rios
 type: person
 first_seen_date: '3308-08-11'
 last_seen_date: '3312-02-03'
-mention_count: 10
+mention_count: 12
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 10
 
 First mentioned: **3308-08-11**  
 Last mentioned: **3312-02-03**  
-Total mentions: **10**
+Total mentions: **12**
 
 ## Related
 

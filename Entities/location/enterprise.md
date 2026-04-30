@@ -2,33 +2,32 @@
 id: enterprise
 name: Enterprise
 type: location
-first_seen_date: '3308-09-30'
+first_seen_date: '3309-04-06'
 last_seen_date: '3312-04-28'
-mention_count: 5
+mention_count: 4
 related_entities:
 - mars
-- act
-- engineers
-- universal-cartographics
-- federation-alertfull-spectrum
+- tavgi
+- federal-navy
+- trask
+- federal-times
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Enterprise
 
-First mentioned: **3308-09-30**  
+First mentioned: **3309-04-06**  
 Last mentioned: **3312-04-28**  
-Total mentions: **5**
+Total mentions: **4**
 
 ## Related
 
 - [[Mars]] (2 co-mentions)
-- [[ACT]] (1 co-mentions)
-- [[Engineers]] (1 co-mentions)
-- [[Universal Cartographics]] (1 co-mentions)
-- [[Federation ALERT*
-Full spectrum]] (1 co-mentions)
+- [[Tavgi]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Trask]] (1 co-mentions)
+- [[Federal Times]] (1 co-mentions)
 
 ## Biography
 

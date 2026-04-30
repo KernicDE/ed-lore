@@ -2,32 +2,26 @@
 id: october
 name: October
 type: faction
-first_seen_date: '3308-09-28'
+first_seen_date: '3308-12-27'
 last_seen_date: '3308-12-27'
-mention_count: 2
+mention_count: 1
 related_entities:
 - aegis
 - alliance
-- alba-tesreau
-- angela-corcoran
-- affiliated-counter-terrorism
 ---
 
 <!-- AUTO-GENERATED -->
 
 # October
 
-First mentioned: **3308-09-28**  
+First mentioned: **3308-12-27**  
 Last mentioned: **3308-12-27**  
-Total mentions: **2**
+Total mentions: **1**
 
 ## Related
 
-- [[Aegis]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
-- [[Alba Tesreau]] (1 co-mentions)
-- [[Angela Corcoran]] (1 co-mentions)
-- [[Affiliated Counter-Terrorism]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
 
 ## Biography
 

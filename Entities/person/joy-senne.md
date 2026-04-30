@@ -4,7 +4,7 @@ name: Joy Senne
 type: person
 first_seen_date: '3308-07-13'
 last_seen_date: '3309-02-07'
-mention_count: 7
+mention_count: 9
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 7
 
 First mentioned: **3308-07-13**  
 Last mentioned: **3309-02-07**  
-Total mentions: **7**
+Total mentions: **9**
 
 ## Related
 

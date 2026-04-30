@@ -8,9 +8,9 @@ mention_count: 79
 related_entities:
 - federal-navy
 - alliance
-- salvation
 - hip-22460
 - achenar
+- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **79**
 
 - [[Federal Navy]] (24 co-mentions)
 - [[Alliance]] (23 co-mentions)
-- [[Salvation]] (13 co-mentions)
 - [[HIP 22460]] (13 co-mentions)
 - [[Achenar]] (10 co-mentions)
+- [[Aegis]] (10 co-mentions)
 
 ## Biography
 

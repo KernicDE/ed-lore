@@ -2,18 +2,18 @@
 id: ivano-colombera
 name: Ivano Colombera
 type: person
-first_seen_date: '3309-01-31'
+first_seen_date: '3308-09-05'
 last_seen_date: '3310-10-24'
-mention_count: 7
+mention_count: 8
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Ivano Colombera
 
-First mentioned: **3309-01-31**  
+First mentioned: **3308-09-05**  
 Last mentioned: **3310-10-24**  
-Total mentions: **7**
+Total mentions: **8**
 
 ## Related
 

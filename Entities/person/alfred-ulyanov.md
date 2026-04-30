@@ -3,14 +3,14 @@ id: alfred-ulyanov
 name: Alfred Ulyanov
 type: person
 first_seen_date: '3304-06-16'
-last_seen_date: '3308-09-29'
-mention_count: 14
+last_seen_date: '3307-08-06'
+mention_count: 11
 related_entities:
-- act
-- thargoid
 - alliance
 - aegis
-- federal-times
+- caspian-leopold
+- leopold
+- lave
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Alfred Ulyanov
 
 First mentioned: **3304-06-16**  
-Last mentioned: **3308-09-29**  
-Total mentions: **14**
+Last mentioned: **3307-08-06**  
+Total mentions: **11**
 
 ## Related
 
-- [[ACT]] (3 co-mentions)
-- [[Thargoid]] (3 co-mentions)
 - [[Alliance]] (2 co-mentions)
 - [[Aegis]] (2 co-mentions)
-- [[Federal Times]] (2 co-mentions)
+- [[Caspian Leopold]] (1 co-mentions)
+- [[Leopold]] (1 co-mentions)
+- [[Lave]] (1 co-mentions)
 
 ## Biography
 

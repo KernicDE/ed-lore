@@ -7,8 +7,8 @@ mention_count: 98
 significance: medium
 key_entities:
 - salvation
-- alliance
 - azimuth-biotech
+- alliance
 - aegis
 - azimuth
 ---
@@ -23,11 +23,11 @@ Articles: **98**
 
 ## Key Figures
 
-- [[Salvation]] (47 mentions)
+- [[Salvation]] (39 mentions)
+- [[Azimuth Biotech]] (37 mentions)
 - [[Alliance]] (36 mentions)
-- [[Azimuth Biotech]] (33 mentions)
 - [[Aegis]] (31 mentions)
-- [[Azimuth]] (27 mentions)
+- [[Azimuth]] (23 mentions)
 
 ## Description
 

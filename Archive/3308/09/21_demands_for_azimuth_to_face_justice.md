@@ -4,28 +4,34 @@ title: Demands for Azimuth to Face Justice
 slug: demands_for_azimuth_to_face_justice
 date: '3308-09-21'
 source: API
+persons:
+- Rhiannon Grady
+- Torben Rademaker
+- Aden Tanner
 groups:
-- ACT
-- Azimuth
-- Federal Navy
-- Salvation
-- Thargoid
+- Advocacy
+- Azimuth Biotech
+- Federal Navy Criminal Court
 locations:
-- Azimuth
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
-- construction
-- corporate expansion
 - crime
-- research
-- ship
+- corporate expansion
+- war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Widespread calls emerge to prosecute Azimuth Biotech for its role in the HIP
+  22460 massacre, with Advocacy director Rhiannon Grady demanding criminal charges and
+  CEO Torben Rademaker defending the Proteus Wave as a scientific success.
+player_impact: Not specifically mentioned — this is a legal and political report.
+modern_impact: The demands for Azimuth to face justice reflect growing public reckoning
+  with the corporation's culpability, even as its leadership refuses to acknowledge any
+  failure.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 1a532819-1e43-5580-b3bb-f6889fbb028d
+- f35cafa3-82c9-523b-8b06-a2fe5cf2e6be
 ---
 
 There are widespread calls to bring criminal charges against Azimuth Biotech for its role in the massacre in the HIP 22460 system.

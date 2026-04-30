@@ -4,28 +4,38 @@ title: Alliance-Sirius Pact Prepares New Taskforce
 slug: alliance_sirius_pact_prepares_new_taskforce
 date: '3308-09-23'
 source: API
+persons:
+- Nikolas Glass
+- Hildegard Dressler
+- Edmund Mahon
 groups:
-- ACT
 - Alliance
-- Sirius Corp
 - Sirius Corporation
-- Thargoid
+- Alliance Defence Force
+- Council of Admirals
+- Old Worlds Gazette
+- The Alliance Tribune
 locations:
 - HIP 22460
 - Leesti
-- Sirius
-- Thargoid
 topics:
 - alien contact
 - corporate expansion
 - diplomacy
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+summary: The Alliance-Sirius strategic defence pact is fully ratified, with Admiral
+  Nikolas Glass announcing Operation Tyndareus, a new anti-xeno taskforce named after
+  the megaship lost in HIP 22460.
+player_impact: Not specifically mentioned — this is a policy announcement.
+modern_impact: Operation Tyndareus represents the first concrete military output of
+  the controversial Alliance-Sirius pact, though critics question whether Sirius will
+  deliver meaningful combat capability.
 legacy_weight: 5
 significance: high
+related_uuids:
+- be63c32e-8997-572a-9d07-24701e8fc641
+- bb92f6c0-0def-564c-9b52-f2f1c75fc853
 ---
 
 The anti-xeno strategic defence pact between the Alliance and Sirius Corporation has been fully ratified as a legally binding treaty.

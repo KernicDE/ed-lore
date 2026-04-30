@@ -3,7 +3,7 @@ id: thargoid-titan-war
 name: Thargoid Titan War
 first_seen_date: '3308-01-03'
 last_seen_date: '3310-12-18'
-mention_count: 136
+mention_count: 135
 significance: medium
 key_entities:
 - aegis
@@ -19,12 +19,12 @@ key_entities:
 
 First seen: **3308-01-03**  
 Last seen: **3310-12-18**  
-Articles: **136**
+Articles: **135**
 
 ## Key Figures
 
 - [[Aegis]] (85 mentions)
-- [[Alliance]] (30 mentions)
+- [[Alliance]] (29 mentions)
 - [[Sirius Corporation]] (20 mentions)
 - [[Azimuth Biotech]] (8 mentions)
 - [[Federal Navy]] (7 mentions)

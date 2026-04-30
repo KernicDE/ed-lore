@@ -4,31 +4,46 @@ title: ‘Thargoid Roar’ Leaked to Public
 slug: thargoid_roar_leaked_to_public
 date: '3308-09-15'
 source: API
-entities:
-- Shamus Madigan believed it
+persons:
+- Flint Lafosse
+- Jade Sanderlyn
+- Shamus Madigan
+- Jeong-Hui Shin
+- First Apostle
 groups:
-- ACT
-- Alliance
+- Alliance Tribune
+- The Federal Times
+- The Imperial Herald
+- The Sovereign
+- Vox Galactica
+- Alliance Assembly
 - Federal Congress
-- Federal Times
-- Imperial Herald
 - Imperial Senate
-- Thargoid
+- True Chapters
 locations:
-- Chun Pindit and Tekkeitjal
 - HIP 22460
-- Thargoid
+- 42 n Persei
+- Chun Pindit
+- Tekkeitjal
 topics:
 - alien contact
 - espionage
 - investigation
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+summary: Classified footage from the Battle of HIP 22460 is leaked to newsfeeds, revealing
+  the so-called 'Thargoid roar' and fuelling public anxiety as intelligence agencies
+  investigate the source.
+player_impact: Pilots were called to continue anti-Thargoid operations in the 42 n
+  Persei, Chun Pindit and Tekkeitjal systems.
+modern_impact: The leak exposes military secrecy around HIP 22460 and brings the eerie
+  'Thargoid roar' to public attention, intensifying fear and speculation about the
+  aliens' true capabilities.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 38fb5be2-6a83-50df-95d5-b61bec0d0b64
+- 1a532819-1e43-5580-b3bb-f6889fbb028d
 ---
 
 Classified audio-visual footage from the Battle of HIP 22460 has been anonymously submitted to several mainstream newsfeeds.

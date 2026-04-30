@@ -8,9 +8,9 @@ mention_count: 10
 related_entities:
 - azimuth-biotech
 - hip-22460
-- azimuth
-- bright-sentinel
 - musashi
+- pleiades-sector-cw-u-b3-2
+- azimuth
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **10**
 
 ## Related
 
-- [[Azimuth Biotech]] (5 co-mentions)
+- [[Azimuth Biotech]] (7 co-mentions)
 - [[HIP 22460]] (5 co-mentions)
-- [[Azimuth]] (5 co-mentions)
-- [[Bright Sentinel]] (3 co-mentions)
 - [[Musashi]] (3 co-mentions)
+- [[Pleiades Sector CW-U B3-2]] (3 co-mentions)
+- [[Azimuth]] (3 co-mentions)
 
 ## Biography
 

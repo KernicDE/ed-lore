@@ -4,23 +4,33 @@ title: 'Delivery Campaign Helps Fund Imperial Charity '
 slug: delivery_campaign_helps_fund_imperial_charity
 date: '3308-09-29'
 source: API
+persons:
+- Aisling Duval
+- Denton Patreus
 groups:
+- Citizens' Relief Trust
+- Lavigny's Legion
 - Imperial Navy
-- Thargoid
+- Pilots Federation
 locations:
 - Cemiess
 - Mackenzie Relay
-- Thargoid
+- Emerald
 topics:
-- alien contact
 - humanitarian
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+summary: The Citizens' Relief Trust campaign in Cemiess successfully procures rare
+  luxury items for Princess Aisling's charity gala, with contributing pilots now able
+  to collect payment and rewards.
+player_impact: Pilots who delivered rare items to Mackenzie Relay can now collect payment,
+  with luxury vessel paint jobs made available to qualifying pilots.
+modern_impact: The successful charity campaign demonstrates Imperial nobility's willingness
+  to mobilise private resources for wartime humanitarian relief.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 964ef3eb-9cc2-5f09-8038-9afcaeca1c08
 ---
 
 *Pilots’ Federation ALERT*

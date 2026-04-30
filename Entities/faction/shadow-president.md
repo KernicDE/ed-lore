@@ -2,32 +2,32 @@
 id: shadow-president
 name: Shadow President
 type: faction
-first_seen_date: '3308-09-26'
+first_seen_date: '3309-10-05'
 last_seen_date: '3310-08-29'
-mention_count: 7
+mention_count: 6
 related_entities:
-- federal-navy
-- white-house
 - sol
-- felicia-winters-issued
-- act
+- earth
+- core-dynamics
+- federal-navy
+- kumo-crew
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Shadow President
 
-First mentioned: **3308-09-26**  
+First mentioned: **3309-10-05**  
 Last mentioned: **3310-08-29**  
-Total mentions: **7**
+Total mentions: **6**
 
 ## Related
 
-- [[Federal Navy]] (2 co-mentions)
-- [[White House]] (2 co-mentions)
 - [[Sol]] (2 co-mentions)
-- [[Felicia Winters issued]] (1 co-mentions)
-- [[ACT]] (1 co-mentions)
+- [[Earth]] (1 co-mentions)
+- [[Core Dynamics]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Kumo Crew]] (1 co-mentions)
 
 ## Biography
 

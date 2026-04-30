@@ -4,27 +4,36 @@ title: Federation Monitors Pro-Xeno Activity
 slug: federation_monitors_pro_xeno_activity
 date: '3308-09-12'
 source: API
-entities:
+persons:
+- Bethany Blake
 - Alfred Ulyanov
 groups:
-- ACT
-- Federal Times
-- Thargoid
+- Federal Intelligence Agency
+- Proactive Detection Bureau
+- Far God cult
+- True Chapters
+- The Federal Times
 locations:
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
 - crime
-- diplomacy
 - espionage
-- ship
 - war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+summary: The Federal Intelligence Agency reports increased Far God cult communications
+  and growing xeno-peace sentiment following the Battle of HIP 22460, with Dr Alfred
+  Ulyanov noting a shift toward the radical True Chapters sect.
+player_impact: Not specifically mentioned — this is an intelligence monitoring report.
+modern_impact: The FIA's surveillance of pro-xeno groups represents a growing tension
+  between civil liberties and security during wartime, with the True Chapters sect
+  emerging as a radicalised offshoot of the formerly pacifistic Far God cult.
 legacy_weight: 5
 significance: high
+related_uuids:
+- d93a944d-c1ef-5d3e-b8e4-7f5896204c4f
+- 060f1f07-68f0-58fd-8607-4331bb789d9b
+- 8a40f4b9-eebb-59f0-8d54-b3204f69be67
 ---
 
 The Federal Intelligence Agency has warned of heightened interest in the Far God cult and groups considered sympathetic to the Thargoids.

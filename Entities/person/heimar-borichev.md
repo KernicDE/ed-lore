@@ -4,7 +4,7 @@ name: Heimar Borichev
 type: person
 first_seen_date: '3308-07-18'
 last_seen_date: '3309-02-07'
-mention_count: 8
+mention_count: 10
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 8
 
 First mentioned: **3308-07-18**  
 Last mentioned: **3309-02-07**  
-Total mentions: **8**
+Total mentions: **10**
 
 ## Related
 

@@ -4,28 +4,31 @@ title: Patreus Highlights Thargoid Tactics
 slug: patreus_highlights_thargoid_tactics
 date: '3308-09-13'
 source: API
-entities:
+persons:
 - Denton Patreus
+- Arissa Lavigny-Duval
 groups:
-- ACT
 - Imperial Navy
-- Salvation
-- Thargoid
 locations:
 - Achenar
 - HIP 22460
-- Thargoid
 topics:
 - alien contact
 - espionage
-- research
-- succession
 - war
 arc_id: salvation-azimuth
-modern_impact: Salvation's anti-Thargoid weapons and Azimuth's research redefine the
-  military response to alien threats.
+summary: Senator Denton Patreus analyses the Battle of HIP 22460, suggesting the Thargoids
+  deliberately allowed the Proteus Wave installation so they could turn the superweapon
+  against humanity.
+player_impact: Not specifically mentioned — this is a political interview.
+modern_impact: Patreus's assessment that the Thargoids may have baited Salvation into
+  constructing his own execution chamber reframes the Battle of HIP 22460 as a strategic
+  trap rather than merely a failed superweapon.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 66531cb9-e9c8-5d1a-86fd-69a913467bdc
+- cb7bdbc0-d2ed-56b3-b8e4-cc731cabc788
 ---
 
 Senator Denton Patreus, fleet admiral of the Imperial Navy, has discussed the Empire’s new priorities following the Battle of HIP 22460.

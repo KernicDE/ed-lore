@@ -4,7 +4,7 @@ name: Engineers
 type: faction
 first_seen_date: '3308-06-01'
 last_seen_date: '3310-07-30'
-mention_count: 10
+mention_count: 9
 related_entities:
 - aegis
 - alioth
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3308-06-01**  
 Last mentioned: **3310-07-30**  
-Total mentions: **10**
+Total mentions: **9**
 
 ## Related
 
