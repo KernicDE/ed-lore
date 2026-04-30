@@ -2,18 +2,18 @@
 id: guardian-modules
 name: Guardian modules
 type: technology
-first_seen_date: '3310-07-06'
+first_seen_date: '3310-04-19'
 last_seen_date: '3310-07-06'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Guardian modules
 
-First mentioned: **3310-07-06**  
+First mentioned: **3310-04-19**  
 Last mentioned: **3310-07-06**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

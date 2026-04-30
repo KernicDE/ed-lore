@@ -5,23 +5,28 @@ slug: prototype_frame_shift_drive_almost_production_ready_competitor_sceptical
 date: '3310-04-04'
 source: API
 groups:
-- ACT
 - Achilles Aerospace
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Sirius
-- Titan
 topics:
 - corporate expansion
 - independence
 - research
 - ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+arc_id: null
+modern_impact: "Sirius's dismissive response — 'If Achilles can produce something other than words we will be happy to comment further' — is classic incumbent arrogance facing disruptive competition. The revelation that over 5000 pilots retrieved materials from the Taranis wreckage shows the scale of community participation. The framing of 'Titan technology' as the basis for a new FSD establishes a direct link between the Thargoid war and technological progress."
+persons: []
+technologies:
+- Frame Shift Drive
+- Titan Drive Components
+player_impact: "Over 5000 independent pilots entered the hazardous wreckage of Titan Taranis to retrieve Titan Drive Components for Achilles Aerospace."
+summary: "Achilles Aerospace announces their prototype Frame Shift Drive is nearly production-ready thanks to materials from Titan Taranis wreckage, while Sirius Corporation remains sceptical."
 legacy_weight: 4
 significance: high
+related_uuids:
+- 4ab77eb5-7fc8-5438-87c3-663a6647a261
+- fd10a1c4-394e-54c7-8968-b01b1cd22993
 ---
 
 Material gathered from the Titan Taranis wreckage has reportedly allowed Achilles Aerospace to complete the research on their prototype Frame Shift Drive.

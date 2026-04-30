@@ -6,24 +6,23 @@ date: '3310-04-24'
 source: API
 groups:
 - Aegis
-- Thargoid
 locations:
-- Aegis
-- Guardian
 - Maelstrom
-- Thargoid
-- Titan
-- Titan Oya in the Cephei Sector BV-Y B4
+- Cephei Sector BV-Y B4
 topics:
 - alien contact
-- ship
 - war
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Tanner's detailed tactical advice — 'caustic sink launchers and Thargoid pulse neutralisers... Guardian nanite torpedoes to target the Titans' thermal vents' — reveals the mechanics of Titan combat. His warning that 'Counter-attacks by Thargoid vessels become more frequent as the Titans take damage' provides concrete tactical intelligence. His call for 'veteran anti-xeno pilots passing on their knowledge to less-experienced pilots' acknowledges the skill gap in the pilot community."
+persons:
+- Aden Tanner
+player_impact: "Pilots successfully destroyed Titan Oya. Tanner warns that combat skills will be tested with more frequent counter-attacks as Titans take damage."
+summary: "Titan Oya is confirmed destroyed in the Cephei Sector BV-Y B4 system, leaving five Titans operational. Aden Tanner cautions pilots about increasing dangers during Titan assaults."
 legacy_weight: 5
 significance: high
+related_uuids:
+- c68d0b34-c427-59b2-888e-0b7fdd53cd63
+- 954f0514-fb85-5200-bf86-3e2b146b34c3
 ---
 
 Titan Oya in the Cephei Sector BV-Y B4 system has been confirmed as destroyed by Aegis, leaving five still operational.

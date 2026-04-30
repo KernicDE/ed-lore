@@ -3,7 +3,7 @@ id: thargoid-titan-war
 name: Thargoid Titan War
 first_seen_date: '3308-01-21'
 last_seen_date: '3310-12-18'
-mention_count: 79
+mention_count: 80
 significance: medium
 key_entities:
 - thargoid
@@ -19,13 +19,13 @@ key_entities:
 
 First seen: **3308-01-21**  
 Last seen: **3310-12-18**  
-Articles: **79**
+Articles: **80**
 
 ## Key Figures
 
-- [[Thargoid]] (52 mentions)
-- [[Aegis]] (45 mentions)
-- [[ACT]] (37 mentions)
+- [[Thargoid]] (49 mentions)
+- [[Aegis]] (46 mentions)
+- [[ACT]] (36 mentions)
 - [[Alliance]] (19 mentions)
 - [[Sirius Corporation]] (10 mentions)
 

@@ -10,7 +10,7 @@ related_entities:
 - sirius-corporation
 - aegis
 - mars
-- thargoid
+- federal-security-service
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **23**
 
 ## Related
 
-- [[Ram Tah]] (20 co-mentions)
+- [[Ram Tah]] (19 co-mentions)
 - [[Sirius Corporation]] (9 co-mentions)
 - [[Aegis]] (6 co-mentions)
 - [[Mars]] (4 co-mentions)
-- [[Thargoid]] (4 co-mentions)
+- [[Federal Security Service]] (3 co-mentions)
 
 ## Biography
 

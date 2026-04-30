@@ -4,23 +4,25 @@ title: The Assault on Oya
 slug: the_assault_on_oya
 date: '3310-04-19'
 source: API
-groups:
-- Thargoid
-locations:
-- Guardian
-- Thargoid
-- Titan
+groups: []
+locations: []
 topics:
 - alien contact
-- humanitarian
-- ship
 - war
-- xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "Standard Titan assault alert with the same three-module formula. The destruction of Oya would leave five Titans operational, continuing the steady attrition of the Thargoid mothership fleet."
+persons: []
+technologies:
+- Thargoid Pulse Neutraliser
+- Caustic Sink Launcher
+- Guardian Nanite Torpedo Pylon
+player_impact: "Pilots are urgently called to aid in the defeat of Titan Oya, the third Thargoid mothership."
+summary: "An urgent call to all pilots to participate in the final assault on Titan Oya, the third Thargoid mothership."
 legacy_weight: 5
 significance: high
+related_uuids:
+- 954f0514-fb85-5200-bf86-3e2b146b34c3
+- e60ba663-e3c2-5d4d-a902-6fa3517edf28
 ---
 
 *Pilots’ Federation Alert*

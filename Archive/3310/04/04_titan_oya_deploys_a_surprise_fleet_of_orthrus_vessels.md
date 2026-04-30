@@ -4,20 +4,21 @@ title: Titan Oya deploys a surprise fleet of Orthrus vessels
 slug: titan_oya_deploys_a_surprise_fleet_of_orthrus_vessels
 date: '3310-04-04'
 source: API
-groups:
-- ACT
-- Thargoid
-locations:
-- Thargoid
-- Titan
+groups: []
+locations: []
 topics:
 - alien contact
-- ship
+- war
 arc_id: thargoid-titan-war
-modern_impact: The Thargoid Titan war represents the most devastating alien conflict
-  in human history, reshaping the galactic military landscape.
+modern_impact: "The mention of player squadrons AXI and XSF as forces 'reclaiming ground from the Titans successfully' is a rare explicit acknowledgment of organised player groups in GalNet. The analysis that this may be 'a new tactic or possibly a simple panic response' shows uncertainty about Thargoid psychology. The Pilots' Federation alert — 'If Oya can be prevented from reclaiming territory, then it's likely that this third Titan will fall within mere weeks' — proves accurate."
+persons: []
+player_impact: "Pilots are encouraged to track and eliminate Orthrus vessels in systems where they've been detected to prevent Oya from reclaiming territory."
+summary: "Titan Oya deploys Orthrus vessels into systems farther from its territory in a possible panic response to mounting AX pressure, with the Pilots' Federation urging pilots to eliminate them."
 legacy_weight: 5
 significance: high
+related_uuids:
+- c68d0b34-c427-59b2-888e-0b7fdd53cd63
+- e60ba663-e3c2-5d4d-a902-6fa3517edf28
 ---
 
 The Titan known as Oya appears to have deployed a large fleet of Orthrus vessels into star systems farther from their own territory breaking expected behaviour.
