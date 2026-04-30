@@ -1,0 +1,19 @@
+---
+uuid: 9792b5db-eb9e-5a0a-bec5-8b8b6a45a719
+title: Galactic News  Appeal for Osmium Successful
+slug: galactic_news_appeal_for_osmium_successful
+date: '3302-02-11'
+source: GitHub
+groups:
+- Alliance
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
+---
+
+Galactic News: Appeal for Osmium Successful
+
+
+The LHS 2936 Alliance Combine has announced that its recent campaign for osmium has been a success. According to a company spokesperson, the osmium will be used to create specialist alloys with which to improve the organisation's manufacturing facilities, thereby helping the company regain its competitive edge. In a statement, the company's spokesperson thanked those who had responded to the request: 
+
+"We would like to extend our gratitude to all the pilots who contributed to this campaign by delivering osmium to our base of operations at Fraser Orbital. The process of manufacturing the specialist alloys needed to improve our manufacturing facilities has now begun. A new era of profitability for the LHS 2936 Alliance Combine lies ahead."

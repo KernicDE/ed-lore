@@ -1,0 +1,24 @@
+---
+uuid: b8671162-b34d-58fd-8bd5-230949120c23
+title: Galactic News  Emancipation Initiative Successful
+slug: galactic_news_emancipation_initiative_successful
+date: '3302-02-22'
+source: GitHub
+locations:
+- D'Arrest Station in the Uibuth
+- Prism
+topics:
+- slavery
+modern_impact: GalNet community report documenting current events in the galaxy.
+legacy_weight: 2
+significance: low
+---
+
+Galactic News: Emancipation Initiative Successful
+
+
+The Prismatic Imperium has announced that its initiative to free indentured slaves has been met with an enormously positive response. Hundreds of independent pilots responded to the appeal, delivering slaves to the new colony at D'Arrest Station in the Uibuth system. All of those admitted to the colony will be officially emancipated, re-educated, and offered the protection of forces loyal to Princess Aisling Duval. 
+
+Her Royal Highness, who spearheaded the initiative, released a statement to the media: 
+
+"I am delighted with the response to this appeal, which has resulted in the liberation of several million slaves. I would like to extend my sincerest gratitude to the Prismatic Imperium and the Navigators Guild, who helped to execute this initiative, and to the many independent pilots who supported us. There is still a long way to go to, but I hope this triumph will pave the way for a brighter future. A future in which the practice of slavery is seen for what it is – a barbaric anachronism."

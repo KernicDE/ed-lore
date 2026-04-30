@@ -1,0 +1,30 @@
+---
+uuid: 9964a785-b685-5db1-9d24-daaf889ec3e9
+title: Galactic News  Exploration or Surveillance
+slug: galactic_news_exploration_or_surveillance
+date: '3302-10-07'
+source: GitHub
+groups:
+- Sirius Corp
+- Sirius Corporation
+locations:
+- Mars
+- Sirius
+topics:
+- corporate expansion
+- exploration
+modern_impact: Notable exploration achievement.
+legacy_weight: 2
+significance: low
+---
+
+Galactic News: Exploration or Surveillance?
+
+
+A spokesperson for the Sirius Corporation has revealed that the mega-corporation has deployed hundreds of deep-space probes and signalling technologies throughout the galaxy. 
+
+The spokesperson said: "Sending pilots into the void is fraught with danger. These probes can go further and faster than a human pilot, at much reduced cost and with, I daresay, more reliability. We've been working closely with the Mars High Astrocartography department on the probes' design." 
+
+"Human pilots are interested in sightseeing, chasing myths and 'making their mark' on the galactic stage. They get sidetracked. Our probes are immune to such distractions. At present, galactic exploration is conducted in a sporadic and improvisational way. Soon we will have far better coverage of the galaxy." 
+
+One independent pilot, who opted to remain anonymous, said: "There's something odd about this. I'd hazard a guess these probes have self-defence capabilities. I'll be giving them a wide berth."

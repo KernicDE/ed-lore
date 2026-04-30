@@ -1,0 +1,23 @@
+---
+uuid: 5b1d7f02-7c78-5f45-bb02-9336ed7f2eba
+title: Galactic News  EG Pilots Triumph in Second Wildcard Event
+slug: galactic_news_eg_pilots_triumph_in_second_wildcard_event
+date: '3302-06-16'
+source: GitHub
+locations:
+- Bjorti
+topics:
+- sport
+modern_impact: Competitive event for the pilot community.
+legacy_weight: 1
+significance: low
+---
+
+Galactic News: EG Pilots Triumph in Second Wildcard Event
+
+
+The second heat of the Dangerous Games Wildcard competition is over. For this event, pilots were asked to deploy their hardpoints and gather bounties for their chosen faction in the Bjorti system. The group that accumulated the most bounty vouchers during the week-long event would be declared the winner. 
+
+The final tally indicates that victory goes once again to the EG Pilots, which received the largest amount of bounty vouchers. Whether or not the EG Pilots will win the Wildcard competition remains to be seen, as it will not be clear which faction has received the most support until the end of the campaign. 
+
+The Dangerous Games Wildcard competition will run for a total of three weeks, and the victor will go on to vie for the right to be recognised as an official power.

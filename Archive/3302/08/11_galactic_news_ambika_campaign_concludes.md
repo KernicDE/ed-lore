@@ -1,0 +1,21 @@
+---
+uuid: 5a1908a7-1ca6-5097-8d38-a56d37dba23e
+title: Galactic News  Ambika Campaign Concludes
+slug: galactic_news_ambika_campaign_concludes
+date: '3302-08-11'
+source: GitHub
+topics:
+- humanitarian
+modern_impact: Humanitarian effort by the pilot community.
+legacy_weight: 2
+significance: low
+---
+
+Galactic News: Ambika Campaign Concludes
+
+
+The Union Party of Ambika has announced that its two-pronged relief campaign has received the full support of the galactic community. Huge deliveries of food were received at Goulart City, and the agitators attempting to disrupt the relief operation have been neutralised. 
+
+A spokesperson for the organisation released a brief statement: 
+
+"We are deeply grateful to all those who supported this campaign. Without your intervention, I fear that Ambika could have been plunged into a humanitarian crisis. The food supplies delivered to Goulart City will now be distributed throughout the system."

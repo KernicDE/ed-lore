@@ -1,0 +1,29 @@
+---
+uuid: 91fa0289-80ce-579f-9347-65927ec50811
+title: Freelance Report  GalCop Mobilizes to Aid Jaques Station
+slug: freelance_report_galcop_mobilizes_to_aid_jaques_station
+date: '3302-07-23'
+source: GitHub
+locations:
+- Jaques Station
+topics:
+- construction
+- sport
+- trade
+arc_id: barnacle-meta-alloy
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
+legacy_weight: 4
+significance: high
+---
+
+Freelance Report: GalCop Mobilizes to Aid Jaques Station
+
+
+Since contact with Jaques Station was re-established, a substantial effort from independent pilots to deliver meta-alloys to the stricken starport has returned it to partial functionality. 
+
+With the commodities market now open, Jaques has issued an appeal for the components needed to restore his station to full operational status. The Galactic Cooperative of Worlds has pledged to ensure the success of the initiative, having secured a logistical supply chain and established an operational beachhead in the surrounding sectors. 
+
+Jahena Yar Savor, GalCop's Chief Executive Officer, said that the Cooperative would "establish a localised resource base in the systems surrounding Jaques in order to offset the financial burden of securing these resources. Many of our pilots and member organisations acquired substantial wealth during the Dangerous Games, and we thought it would only be fair to use these assets to aid a friend." 
+
+'Disc' Commander Felix Dyson - Radio Skvortsov

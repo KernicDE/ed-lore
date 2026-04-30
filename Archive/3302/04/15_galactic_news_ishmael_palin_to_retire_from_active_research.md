@@ -1,0 +1,33 @@
+---
+uuid: 430ac0d5-33c1-5822-bf80-7e7b404c50f4
+title: Galactic News  Ishmael Palin to Retire from Active Research
+slug: galactic_news_ishmael_palin_to_retire_from_active_research
+date: '3302-04-15'
+source: GitHub
+entities:
+- Cora Shaw
+- Ishmael Palin
+- Shaw's ability
+locations:
+- Maia
+topics:
+- research
+- ship
+- war
+arc_id: barnacle-meta-alloy
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
+legacy_weight: 4
+significance: high
+---
+
+Galactic News: Ishmael Palin to Retire from Active Research
+
+
+Professor Ishmael Palin has announced his intention to retire from the research institute he founded last year. In a statement, the professor explained the reasoning behind the decision: 
+
+"It has been a tremendous pleasure to be part of the discourse surrounding the Unknown Artefacts, and to share ideas and opinions with so many passionate individuals. But there are dark forces at work in the galactic community – forces that exist in opposition to the ideals I hold most dear – and I lack the strength to continue fighting them." 
+
+"I have therefore decided to relinquish my directorship of The Palin Institute to Professor Cora Shaw, who has for many years been my closest ally. I have every faith in Professor Shaw's ability to lead The Palin Institute to even greater heights, and to uphold the ideals for which it stands." 
+
+"I fully intend to continue researching the Unknown Artefacts and meta-alloys, albeit in a more inconspicuous fashion, at my personal research centre on Maia A 3 a. Those who wish to visit me there are very welcome to do so. There is nothing I enjoy more than spending time with those who share my interests!"

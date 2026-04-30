@@ -1,0 +1,30 @@
+---
+uuid: 1ab6978e-31d2-5bf5-84c1-e734d4c0ea14
+title: Freelance Report  Irresponsible Independents Ransack Ruins
+slug: freelance_report_irresponsible_independents_ransack_ruins
+date: '3302-11-01'
+source: GitHub
+topics:
+- piracy
+- research
+- sport
+- xenoarchaeology
+modern_impact: Anti-piracy operation protecting trade routes.
+legacy_weight: 1
+significance: low
+---
+
+Freelance Report: Irresponsible Independents Ransack Ruins
+
+
+Following the discovery of ancient ruins on planet 1 B of Synuefe XR-H d11-102, hundreds of independent pilots have plotted a course to the system. Many scientifically-minded Commanders have begun the painstaking task of deciphering the secrets of the ruins. 
+
+Unfortunately, the cataloguing and excavation has been disrupted by piracy, profiteers and general pandemonium. 
+
+Jeremy Grant, an archaeologist who has been working at the site for several days, expressed concern at the prevailing conditions: 
+
+"It's not safe out here. The ruins have been significantly damaged by SRV racing. Priceless artefacts have been shattered and weapons fire has scarred several obelisks, destroying markings." 
+
+"Independent pilots have made a lot of noise about the Empire and Federation cordoning off major research sites, but if this is an indication of how independents treat sites of value, perhaps the superpowers are doing the right thing." 
+
+Commander Corrigendum

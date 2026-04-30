@@ -1,0 +1,30 @@
+---
+uuid: 38dd5964-5e77-535a-bcde-b340f5cde111
+title: Community Goal  Aid for the Mu Koji Refugees
+slug: community_goal_aid_for_the_mu_koji_refugees
+date: '3302-09-29'
+source: GitHub
+locations:
+- Bujold Enterprise in the Kalana
+- Mu Koji
+topics:
+- construction
+- humanitarian
+- medicine
+- trade
+- war
+modern_impact: Humanitarian effort by the pilot community.
+legacy_weight: 2
+significance: low
+---
+
+Community Goal: Aid for the Mu Koji Refugees
+
+
+Earlier this month, the Mu Koji system was engulfed in the ongoing conflict between the Empire and the Federation, as the superpowers staged rival operations to secure enemy intelligence. 
+
+Although the battle only lasted a few days, the collateral damage was severe, resulting in the displacement of thousands of civilians. System authorities have responded by establishing a refugee centre at the Bujold Enterprise starport, but have found themselves unable to provide the many refugees with medicine and shelter. 
+
+The Kalana Independents have therefore offered to fund a coordinated relief effort. The organisation has placed an open order for basic medicines and evacuation shelters, and has promised to reward pilots who deliver these commodities to Bujold Enterprise in the Kalana system. 
+
+The campaign begins on the 29th of September 3302 and will run for one week. If final targets are met earlier than planned, the campaign will end immediately.

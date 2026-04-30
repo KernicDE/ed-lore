@@ -1,0 +1,37 @@
+---
+uuid: 82d727a3-9d9d-5f49-bca0-9074dcbf0f0f
+title: Community Goal  Emperor's Dawn 'Shadow' Cells Discovered
+slug: community_goal_emperors_dawn_shadow_cells_discovered
+date: '3302-01-21'
+source: GitHub
+entities:
+- Denton Patreus indicates that
+- Patreus went
+groups:
+- Emperor's Dawn
+- Federal Navy
+- Imperial Internal Security Service
+locations:
+- Ipilyaqa and Ch'i Lin
+topics:
+- piracy
+- ship
+- succession
+- terrorism
+arc_id: imperial-succession
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
+  politics and military policy.
+legacy_weight: 4
+significance: high
+---
+
+Community Goal: Emperor's Dawn 'Shadow' Cells Discovered
+
+
+When the Federal Navy destroyed the Emperor's Dawn base in the Kausalya system in December, many believed the organisation had finally been defeated. The Federal offensive, which was supported by a large deputation from the Federal Navy Auxiliary, was swift and merciless, and resulted in the total destruction of the insurgent outpost. But a statement from the office of Imperial Senator Denton Patreus indicates that, against all odds, Emperor's Dawn has endured. 
+
+"The Imperial Internal Security Service has discovered that Emperor's Dawn has 'shadow' cells in the Dakshmandi, Ipilyaqa and Ch'i Lin systems – secret outposts that were apparently designed to protect the organisation's leadership in the event of a military defeat. It is of course vital to the continued security of the Empire and its people that these outposts be neutralised as swiftly as possible. If it is not, Emperor's Dawn could re-emerge to threaten the galaxy once again." 
+
+Senator Patreus went on to issue a call to arms: 
+
+"Swiftly neutralising these outposts depends on the support of the galactic community, and to this end I have authorised the payment of privateer bonds to any pilots who help with the offensive against Emperor's Dawn. Let us destroy these vile dissidents once and for all."

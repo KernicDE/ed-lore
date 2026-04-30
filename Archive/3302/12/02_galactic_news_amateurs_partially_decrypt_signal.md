@@ -1,0 +1,28 @@
+---
+uuid: dcaa1795-2ea5-51ba-8a9e-17482755c038
+title: Galactic News  Amateurs Partially Decrypt Signal
+slug: galactic_news_amateurs_partially_decrypt_signal
+date: '3302-12-02'
+source: GitHub
+locations:
+- Tionisla
+topics:
+- cyberattack
+- ship
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 1
+significance: low
+---
+
+Galactic News: Amateurs Partially Decrypt Signal
+
+
+A small group of EM-transmission technology enthusiasts in the Tionisla system claims to have partially decoded the encrypted message transmitted from the Tionisla Orbital Graveyard by an antique Cobra Mk III a few months ago. 
+
+A spokesperson for the group, which calls itself The Hamsters, said: 
+
+"So exciting! It was an EM frequency using phase modulation. Really quite clever. It contains a string of numbers, but we don't know what they mean, so we've decided to share it with the galactic community in the hope that someone might be able to decode it. The sequence is: 01 07 10 * 20 22 25 * 01 05 23 03 23 * 10 27 - 23 * 02 03 01 - 02 * 03 04 * 01 * 43 33 31 23 * 07 21 25 27." 
+
+Unfortunately The Hamsters' broadcast abruptly stopped at this point, and only static has been received since. When asked about the sudden silence, authorities in Tionisla made the following statement: 
+
+"We had no choice but to take them offline as they hadn't renewed their broadcasting licence. We will restore their broadcasting privileges once the appropriate charges have been paid."

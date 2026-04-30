@@ -1,0 +1,31 @@
+---
+uuid: e2866357-9c31-5a82-be8b-e7588a685b3e
+title: Freelance Report  Children of Liberty Criticize Mahon
+slug: freelance_report_children_of_liberty_criticize_mahon
+date: '3302-08-04'
+source: GitHub
+entities:
+- Edmund Mahon
+groups:
+- Alliance
+locations:
+- Alliance's own member
+topics:
+- research
+arc_id: barnacle-meta-alloy
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
+legacy_weight: 4
+significance: high
+---
+
+Freelance Report: Children of Liberty Criticize Mahon
+
+
+The organization known as the Children of Liberty has issued a statement criticizing Alliance Prime Minister Edmund Mahon for his recent remarks concerning the supposed failings of the Federation and Empire. 
+
+"Prime Minister Mahon has denounced the 'pettiness and greed' of his political rivals, but he tolerates those same sins among many of the Alliance's own member systems. He wishes to create 'a truly unified society', yet he tolerates ideologies within the Alliance's own borders that are irreconcilably opposed to one another! According to a study published in 3301, over 213 million Alliance citizens live under the rule of explicitly authoritarian governments. How can a galactic power that purports to value harmony and self-determination allow a member system to oppress its own citizens?" 
+
+The missive, though critical, does conclude on a note of accord: 
+
+"Despite our political disagreements, we believe Prime Minister Mahon is absolutely right to call for protection of the barnacles. The rampant exploitation of these structures is not only reckless, it may even be dangerous. Until we know more about their origin and purpose, we should treat the barnacles with respect...and a healthy dose of caution."

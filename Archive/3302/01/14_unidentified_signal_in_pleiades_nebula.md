@@ -1,0 +1,25 @@
+---
+uuid: c1308357-4cd9-566d-8f01-cd5ab3ce7499
+title: Unidentified Signal in Pleiades Nebula
+slug: unidentified_signal_in_pleiades_nebula
+date: '3302-01-14'
+source: GitHub
+locations:
+- Maia
+- Obsidian Orbital
+- Pleiades Nebula
+arc_id: pleiades-expansion
+modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
+  for exploration.
+legacy_weight: 3
+significance: medium
+---
+
+Unidentified Signal in Pleiades Nebula
+
+
+A fragmentary signal has been received by the flight operations team at Obsidian Orbital in the Maia system. The source of the signal has not been identified, but the strength of signal indicates it originated from a star system approximately 23 light years from Maia. Unfortunately, interference from a local black hole has made it impossible to determine a vector for the transmission. 
+
+The signal, which lasted only a few seconds, had degraded so much that only a small string of numbers could be extracted. Some have speculated the numbers may be coordinates of some kind: b?n?r? ??a??t L??: 2?.?? ??n?: 9?.?? 
+
+Pilots in the region are advised to keep on the lookout, and to offer assistance if needed.

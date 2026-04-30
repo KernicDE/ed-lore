@@ -1,0 +1,34 @@
+---
+uuid: 371ba884-e8bc-5e2e-bb3f-cb24df547a09
+title: Galactic News  Wildlife Reserve Campaign Concludes
+slug: galactic_news_wildlife_reserve_campaign_concludes
+date: '3302-12-22'
+source: GitHub
+entities:
+- Lewis Chapman
+locations:
+- Media outlets in the LP 339-7
+topics:
+- corporate expansion
+- ship
+- trade
+- war
+modern_impact: Ship review and release information for the pilot community.
+legacy_weight: 2
+significance: low
+---
+
+Galactic News: Wildlife Reserve Campaign Concludes
+
+
+Media outlets in the LP 339-7 system have reported that the Starship Enterprises Corporation wildlife reserve campaign has reached a successful conclusion. 
+
+Hundreds of independent pilots supported the campaign by delivering essential commodities to Whitson Orbital and neutralising agitators in the LP 339-7 system, allowing those contributing commodities to do so safely. 
+
+The commodities will be used to establish a wildlife reserve on the planet LP 339-7 4 A, thereby fulfilling the organisation's ambition to transform LP 339-7 into a popular tourist destination. 
+
+Dr Lewis Chapman, CEO of Starship Enterprises, released the following statement: 
+
+"We are delighted with the response to this campaign. As we speak, hundreds of animals are being grown in special in vitro chambers. Soon they will be transported to the reserve." 
+
+Pilots who contributed to the initiative can now collect their rewards from Whitson Orbital in the LP 339-7 system.

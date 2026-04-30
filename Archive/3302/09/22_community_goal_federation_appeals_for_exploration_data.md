@@ -1,0 +1,29 @@
+---
+uuid: 96f02e47-3d25-5ec1-904e-1c49c37b218d
+title: Community Goal  Federation Appeals for Exploration Data
+slug: community_goal_federation_appeals_for_exploration_data
+date: '3302-09-22'
+source: GitHub
+locations:
+- Pleiades Nebula
+topics:
+- alien contact
+- exploration
+- war
+arc_id: thargoid-contact
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien
+  contact, fundamentally changing humanity's place in the galaxy.
+legacy_weight: 5
+significance: high
+---
+
+Community Goal: Federation Appeals for Exploration Data
+
+
+The Federation has issued a public appeal for exploration data as part of its ongoing operation in the Pleiades Nebula. The appeal is being coordinated by the Pleiades Resource Enterprise, which released the following statement to the media: 
+
+"Given the recent discovery of possible non-human wreckage in the Pleiades, it is essential that we have comprehensive and up-to-date information on the entire region. We are therefore asking pilots to sweep the Pleiades and deliver any resultant exploration data to Pre Logistics Support Gamma in the Pleiades Sector IH-V C2-5 system. Commanders who contribute to this initiative will be generously rewarded." 
+
+The announcement comes in the midst of animated debate over recent Federal and Imperial action in the Pleiades. 
+
+The campaign begins on the 22nd of September 3302 and will run for one week. If final targets are met earlier than planned, the campaign will end immediately.
