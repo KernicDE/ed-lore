@@ -1,0 +1,39 @@
+---
+uuid: 56c88c16-33ab-537f-90cc-8a20a25aeb54
+title: Refugee Centre Initiative
+slug: refugee_centre_initiative
+date: '3304-06-15'
+source: GitHub
+entities:
+- Caspian Leopold
+- Leopold
+- Leopold gave
+locations:
+- Biruni Port in the Niflhel
+topics:
+- alien contact
+- construction
+- humanitarian
+- safety
+- ship
+- trade
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+Refugee Centre Initiative
+
+
+Due to heightened military action in the core systems, Senator Caspian Leopold has launched an initiative to construct a rehabilitation centre for those affected by the ongoing conflict. 
+
+A spokesperson for Senator Leopold gave the following statement to the media: 
+
+“An escalation in hostilities from both Thargoid and human parties has left a lot of innocent civilians without food or shelter. Senator Leopold has heard their cries for help, and is building a sanctuary where the safety of refugees can be guaranteed.” 
+
+The Nifelhel Corp., which is overseeing the initiative, has placed an open order for Cobalt, Semiconductors and Synthetic Fabrics, promising to reward pilots who deliver these commodities to Biruni Port in the Niflhel system. The organisation has also placed a kill order on all ships on its wanted list, to ensure those contributing commodities to the initiative can do so safely. 
+
+The campaign begins on the 14th of June 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

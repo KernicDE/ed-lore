@@ -1,0 +1,34 @@
+---
+uuid: 2fbb2c64-a06a-556e-be3d-e4b798f1564e
+title: Calls to Execute Far God Worshippers
+slug: calls_to_execute_far_god_worshippers
+date: '3304-09-13'
+source: GitHub
+groups:
+- Federal Congress
+topics:
+- alien contact
+- crime
+- ship
+- war
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 4
+significance: high
+---
+
+Calls to Execute Far God Worshippers
+
+
+Juanita Bishop has called on Federal Congress to make Thargoid worship a capital crime, and for all members of the Far God cult to be executed. 
+
+Addressing a rally during her congressional campaign, Mrs Bishop stated: 
+
+“I speak for all those who live in fear of Thargoid infiltration. If elected, I will make sure this foul cult is outlawed and all its followers put to death. Congress has a duty to protect families from these alien-loving collaborators.” 
+
+Vihaan Niven, an independent political analyst, commented: 
+
+“Juanita Bishop’s statement has triggered considerable debate in Congress. Some congressmen have aligned with her, eager to be seen as ‘tough on Thargoids’. But others have criticised Mrs Bishop for her ‘inhumane rhetoric’ and for proposing the execution of Federal citizens without trial.” 
+
+“Meanwhile, the Federal Intelligence Agency continues to arrest adherents of the Far God sect and detain those who have had contact with them. As casualties from the Thargoid conflict mount, it’s hard to see this most unlikely of faiths surviving much longer.”

@@ -1,0 +1,28 @@
+---
+uuid: 9b7efc43-c412-55ad-a2b0-3c04798a14bc
+title: Computer Firms Promote New Designs
+slug: computer_firms_promote_new_designs
+date: '3304-08-25'
+source: GitHub
+topics:
+- corporate expansion
+- trade
+modern_impact: Trade initiative affecting commodity markets.
+legacy_weight: 2
+significance: low
+---
+
+Computer Firms Promote New Designs
+
+
+Rival technology companies Supratech and Herculean Machines have released press statements promoting new personal-computer designs. 
+
+Scorpio DeVorrow, CEO of Supratech, told the media about his company’s forthcoming product: 
+
+“The Torc employs cutting-edge holographic technology, surrounding you in a personalised world. Its holo-interfaces respond to subtle gestures and its flexible crystalline structure makes it as elegant as jewellery. By comparison, competitors’ devices are as rudimentary as pen and paper.” 
+
+Maddox Hurd, owner of Herculean Machines, also made a statement: 
+
+“Fancy holograms might look pretty, but what matters is being able to withstand whatever life throws at you. The Duradrive is designed for those who work hard and expect their tools to stand up to the challenge. However tough you think you are, the Duradrive is tougher.” 
+
+Both companies have confirmed that they will be at the Rackham Ultratech Expo on Wednesday the 3rd of October. The technology trade show, sponsored by Rackham Capital Investments, focuses on the personal-device market. Both companies aim to have fully functional prototypes ready for the expo.

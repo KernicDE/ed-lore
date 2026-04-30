@@ -1,0 +1,39 @@
+---
+uuid: f8fc300d-817f-59ef-abfb-a35cdbab4d99
+title: Week in Review
+slug: week_in_review
+date: '3304-03-04'
+source: GitHub
+groups:
+- Aegis
+- Pilots Federation
+locations:
+- Aegis
+- Colonia
+- Pleiades and on the fringes of the core
+topics:
+- alien contact
+- construction
+- corporate expansion
+- ship
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+Week in Review
+
+
+Here are this week’s major stories. 
+
+Reports from independent pilots confirm that a new type of Thargoid vessel has been encountered, both in the Pleiades and on the fringes of the core systems. The ship, designated a Thargoid Scout Marauder by the Pilots Federation, are reported to be more manoeuvrable than the Thargoid Interceptor, but less resistant to weapons fire. 
+
+Meanwhile, analytical reports released by Aegis have confirmed a pattern to the Thargoids’ recent starport attacks, which have left thousands dead and infrastructures crippled. Admiral Aden Tanner, Aegis’s chief military liaison, confirmed that the Thargoids are specifically targeting starports where Aegis laboratories are established. Defensive measures have been increased at all starports where Aegis has a presence. 
+
+Authorities in Colonia have decided to step up security by building a new security installation in the region. The Arek Crimson Vision Corporation has launched a parallel campaign to boost Colonia’s military strength by providing the region with weapons. Both initiatives are a direct response to ongoing Thargoid hostility. 
+
+Finally, Admiral Denton Patreus has announced that the joint Federal-Imperial operation in the Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4 systems has succeeded in achieving its objectives. Scores of independent pilots supported the campaign by eliminating Thargoids, and by recovering black boxes and personal effects from Thargoid attack sites. 
+
+And those are the main stories this week.

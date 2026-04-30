@@ -1,0 +1,43 @@
+---
+uuid: 166e5c41-db27-50de-a201-b4ba6503642b
+title: Fringe Religion Condemns Far God Cult
+slug: fringe_religion_condemns_far_god_cult
+date: '3304-07-12'
+source: GitHub
+entities:
+- Alfred Ulyanov
+locations:
+- Security forces in many
+topics:
+- alien contact
+- crime
+- ship
+- war
+- xenoarchaeology
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 5
+significance: high
+---
+
+Fringe Religion Condemns Far God Cult
+
+
+The Church of Eternal Void has denounced the so-called Far God cult, which worships the Thargoids. 
+
+A spokesperson identified as Cardinal Hieronymous made this statement: 
+
+“As disciples of the Guardians, we hereby declare war on those who have sold their souls to the Thargoid demons. We vow to expunge their poisonous creed and purge them from the galaxy.” 
+
+Since this statement was made, the Church has seen a dramatic upswing in support from local communities. Juanita Bishop, who has been campaigning against the Far God sect, commented: 
+
+“It’s about time somebody did something! The public need to get behind the Church and help them get these alien-lovers off our streets.” 
+
+Security forces in many systems have issued reminders that the Far God sect is legally recognised as a religion, and that any hostility against its members will be considered a criminal act.  
+
+Dr Alfred Ulyanov, a leading exotheologian, discussed the situation on the Rewired news feed: 
+
+“A number of doomsayer cults have emerged recently, including Homo Terminus, Nova Imperium and the Order of Extinction. But of all those I’ve studied, the Church of Eternal Void differs in one key respect – it offers hope. They claim that veneration of the Guardians will prevent Thargoid Armageddon, which is probably why they’re the most popular, being based on a classic binary theology of good versus evil.” 
+
+“It’s apparent that the Church is taking advantage of animosity towards the Far God sect to promote itself. The idea of Thargoid spies in human form, although baseless, has caused much anxiety. By declaring the Cult a holy adversary, the Church validates its own existence.”

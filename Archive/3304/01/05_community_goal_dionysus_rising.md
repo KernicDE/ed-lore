@@ -1,0 +1,32 @@
+---
+uuid: 8e82bba1-b04e-5b10-bd2b-9f6dc2e695e7
+title: Community Goal  Dionysus Rising
+slug: community_goal_dionysus_rising
+date: '3304-01-05'
+source: GitHub
+locations:
+- Green Enterprise in the Ngalia
+- Maia
+- Sirius
+topics:
+- ship
+- trade
+- war
+arc_id: pleiades-expansion
+modern_impact: Deep-space starport construction opens new frontiers for exploration.
+legacy_weight: 3
+significance: medium
+---
+
+Community Goal: Dionysus Rising
+
+
+Sirius Inc has announced plans to construct a flight-operations megaship in the 42 n Persei system, which occupies a strategic position on the route to Maia. The vessel, which will be named the Dionysus, will dramatically improve services in 42 n Persei. 
+
+Senior Aide Humberto Guthrie, speaking on behalf of Sirius Inc, released the following statement: 
+
+“We are disturbed by recent events in the Pleiades and the vulnerability of our systems. If the superpowers cannot protect us, we will protect ourselves.” 
+
+In support of this campaign, Sirius Inc has placed an open order for various commodities, and has promised to reward pilots who deliver these goods to Green Enterprise in the Ngalia system. The organisation has also placed a kill order on all ships on its wanted list, to ensure that those delivering commodities to Green Enterprise can do so safely. 
+
+The campaign begins on the 4th of January 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

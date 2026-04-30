@@ -1,0 +1,31 @@
+---
+uuid: 8ca2d2a4-d5d9-59b1-871c-4105d459b874
+title: Ram Tah Campaign Concludes
+slug: ram_tah_campaign_concludes
+date: '3304-02-16'
+source: GitHub
+locations:
+- Meene
+- Ram Tah
+topics:
+- engineering
+- research
+- war
+- xenoarchaeology
+arc_id: guardian-ancients
+modern_impact: Guardian site research expands scientific understanding of ancient
+  alien civilisations and their technology.
+legacy_weight: 4
+significance: high
+---
+
+Ram Tah Campaign Concludes
+
+
+Ram Tah has announced that the galactic community has responded positively to his appeal for Guardian artefacts, resulting in a large number of deliveries to Felice Dock. The engineer will now subject the artefacts to extensive analysis. 
+
+As the campaign drew to a close, Ram Tah issued the following statement: 
+
+“My heartfelt thanks go to all those who supported this initiative. I’ve already started work and I should have something to share with you soon.” 
+
+Pilots who contributed to the initiative can now collect their rewards from Felice Dock in the Meene system.

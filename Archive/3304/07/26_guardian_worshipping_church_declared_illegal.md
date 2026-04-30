@@ -1,0 +1,37 @@
+---
+uuid: 84b929de-3fba-59cb-853f-7b88bf76a586
+title: Guardian Worshipping Church Declared Illegal
+slug: guardian_worshipping_church_declared_illegal
+date: '3304-07-26'
+source: GitHub
+entities:
+- Jameelah Griffin
+topics:
+- alien contact
+- ship
+- xenoarchaeology
+arc_id: thargoid-contact
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape
+  and drives anti-xeno defence efforts.
+legacy_weight: 4
+significance: high
+---
+
+Guardian-Worshipping Church Declared Illegal
+
+
+The Church of Eternal Void, a fringe group that venerates the Guardians, has been declared illegal in every system where it operates. 
+
+Cardinal Hieronymous and other senior members of the Church have been arrested for inciting acts of violence against the so-called ‘Far God’ sect, which worships the Thargoids. The death toll among the Far God sect is now in the hundreds, with many more injured. 
+
+Councillor Quinn Damico praised the declaration: 
+
+“All citizens have the freedom to practise any religion they choose, provided that religion does not sanction homicide. Authorities have made the right move to prevent further bloodshed.” 
+
+The decision was condemned by Juanita Bishop, who runs a campaign against the Far God sect: 
+
+“So the sick Thargoid-lovers can walk free, while those with the courage to oppose them are put behind bars. It’s the traitors who worship the enemy that should be illegal! This perversion of justice will backfire on us, mark my words.” 
+
+Dr Jameelah Griffin of the Galactic Interfaith Commune made this statement: 
+
+“The ability to distinguish between laws and beliefs is the mark of a civilised society. In this case we consider the Far God sect to be the victim rather than the aggressor, despite the controversial nature of their faith.”
