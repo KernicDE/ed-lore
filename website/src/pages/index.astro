@@ -1,7 +1,6 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 import AppShell from '../components/AppShell';
-import CommandConsole from '../components/hud/CommandConsole';
 import graphData from '../data/lore_graph.json';
 
 const articles = graphData.articles;
@@ -28,36 +27,10 @@ const arcs = graphData.arcs;
     entities={entities}
     arcs={arcs}
   />
-
-  <div id="command-console-root" style="display: none;">
-    <CommandConsole
-      client:load
-      articles={articles}
-      entities={entities}
-      arcs={arcs}
-      onClose={() => {
-        const root = document.getElementById('command-console-root');
-        if (root) root.style.display = 'none';
-      }}
-    />
-  </div>
 </BaseLayout>
 
 <script is:inline>
-  (function () {
-    const consoleRoot = document.getElementById('command-console-root');
-    const searchTrigger = document.getElementById('search-trigger');
-
-    function openConsole() {
-      if (consoleRoot) consoleRoot.style.display = 'block';
-    }
-
-    searchTrigger?.addEventListener('click', openConsole);
-    document.addEventListener('keydown', (e) => {
-      if ((e.metaKey || e.ctrlKey) && e.key === 'k') {
-        e.preventDefault();
-        openConsole();
-      }
-    });
-  })();
+  document.getElementById('search-trigger')?.addEventListener('click', () => {
+    window.dispatchEvent(new CustomEvent('galnet-open-search'));
+  });
 </script>

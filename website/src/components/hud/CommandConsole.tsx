@@ -15,10 +15,11 @@ interface CommandConsoleProps {
   articles: { uuid: string; title: string; date: string; body_preview: string; archive_path: string; arc_id: string | null }[];
   entities: Record<string, { id: string; name: string; type: string }>;
   arcs: Record<string, { id: string; name: string }>;
+  onArticleNavigate: (uuid: string) => void;
   onClose: () => void;
 }
 
-export default function CommandConsole({ articles, entities, arcs, onClose }: CommandConsoleProps) {
+export default function CommandConsole({ articles, entities, arcs, onArticleNavigate, onClose }: CommandConsoleProps) {
   const [query, setQuery] = useState('');
   const [selectedIdx, setSelectedIdx] = useState(0);
   const inputRef = useRef<HTMLInputElement>(null);
@@ -32,7 +33,7 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
         type: 'article' as const,
         date: a.date,
         desc: a.body_preview?.slice(0, 120) + '...',
-        path: `${baseUrl}/#${a.date}-${a.uuid}`,
+        path: `${baseUrl}/?article=${a.uuid}`,
         isArticle: true,
       })),
       ...Object.values(entities).map((e) => ({
@@ -74,15 +75,11 @@ export default function CommandConsole({ articles, entities, arcs, onClose }: Co
 
   const handleSelect = useCallback((item: SearchItem) => {
     if (item.isArticle) {
-      const nav = (window as any).__navigateToArticle;
-      if (nav) {
-        nav(item.id);
-        onClose();
-      }
+      onArticleNavigate(item.id);
     } else {
       window.location.href = item.path;
     }
-  }, [onClose]);
+  }, [onArticleNavigate]);
 
   const handleKeyDown = useCallback(
     (e: KeyboardEvent) => {
