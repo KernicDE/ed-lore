@@ -10,11 +10,13 @@ This project is **"The GalNet Chronicle"** — an archive and knowledge system f
 
 **Current state:**
 - 2,543 Markdown articles in `Archive/YYYY/MM/DD_slug.md` (in-game year/month/day)
-- Entity profiles in `Entities/` (persons, factions, arcs, technologies, locations)
+- 3,447 entity profiles in `Entities/` (persons, factions, arcs, technologies, locations) — 100% have bios
+- 30 story arcs in `Entities/Arcs/` — 100% have descriptions
 - Static website built with **Astro 6.2 + React 19**, deployed to **GitHub Pages**
 - Data pipeline: `scripts/build_graph.py` → `lore_graph.json` + split async JSON → website
+- Audio pipeline: `scripts/generate_audio.py` → `website/public/audio/*.mp3` (incremental, 500/day batch)
 
-**Output:** ~3,264 static pages (articles, entities, arcs, timeline) deployed to `https://kernicde.github.io/ed-lore/`
+**Output:** ~3,408 static pages deployed to `https://kernicde.github.io/ed-lore/`
 
 ---
 
@@ -46,6 +48,9 @@ ed-lore/
 ├── scripts/
 │   ├── build_graph.py         # Builds lore_graph.json + split async JSON
 │   ├── generate_audio.py      # Incremental TTS audio generation (edge-tts)
+│   ├── generate_entity_bios.py # Auto-generate entity bios from article analysis
+│   ├── populate_related_uuids.py # Add related article links
+│   ├── enrich_locations_from_edsm.py # Query EDSM API for system coords
 │   ├── format_articles.py     # Idempotent formatting pass for all Archive/*.md
 │   └── validate_enrichment.py # Validates article frontmatter
 ├── Archive/                   # Canonical article archive (YYYY/MM/DD_slug.md)
@@ -291,16 +296,29 @@ When new persons or groups are introduced in articles, the build script may crea
 | Task | Command |
 |------|---------|
 | Install Python deps | `pip install pyyaml httpx tqdm edge-tts` |
+| Daily automation prompt | See `DAILY_PROMPT.md` |
 | Fetch / refresh archive | `python fetch.py` *(destructive)* |
 | Validate enrichment | `python scripts/validate_enrichment.py` |
 | Build graph + split JSON | `python scripts/build_graph.py` |
-| Generate audio (incremental) | `python scripts/generate_audio.py` |
+| Generate entity bios | `python scripts/generate_entity_bios.py` |
+| Generate audio (incremental) | `python scripts/generate_audio.py --sort recent --concurrency 8` |
+| Generate audio batch | `python scripts/generate_audio.py --batch-size 500 --sort recent` |
 | Copy graph to website | `cp lore_graph.json website/src/data/lore_graph.json` |
 | Format archive articles | `python scripts/format_articles.py` |
 | Build website | `cd website && pnpm build` |
 | Count articles | `find Archive -type f \| wc -l` |
 | Push to GitHub (triggers deploy) | `git push origin main` |
 | Check deployment status | https://github.com/KernicDE/ed-lore/actions |
+
+---
+
+## 12. Related Files
+
+| File | Purpose |
+|------|---------|
+| `DAILY_PROMPT.md` | Copy-paste prompt for daily automation workflow |
+| `CLAUDE.md` | High-level project context and strategic overview |
+| `AGENTS.md` | This file — technical conventions and operational details |
 
 ---
 
