@@ -4,20 +4,22 @@ title: Galactic News  Independent Scientists Comment on Sightings
 slug: galactic_news_independent_scientists_comment_on_sightings
 date: '3303-01-16'
 source: GitHub
-entities:
+summary: Professor Ishmael Palin links mysterious spacecraft to Unknown Artefacts, Unknown Probes, and Pleiades shipwrecks, concluding non-human intelligence exists. Engineer Ram Tah notes that communication attempts have failed.
+player_impact: None
+persons:
 - Ishmael Palin
-locations:
-- Professor Palin
 - Ram Tah
+groups: []
+locations:
 - Synuefe
+technologies: []
 topics:
 - alien contact
 - engineering
 - research
 - ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Leading scientists confirm the non-human intelligence hypothesis and link active vessels to previously discovered alien artifacts.
 legacy_weight: 4
 significance: high
 ---

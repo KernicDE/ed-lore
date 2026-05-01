@@ -1,20 +1,20 @@
 ---
 uuid: 09bdebd7-b231-5430-9b4d-4cd6ec831e6b
-title: Galactic News  Swainn’s Appeal Concludes
+title: Galactic News  Swainn's Appeal Concludes
 slug: galactic_news_swainns_appeal_concludes
 date: '3303-06-30'
 source: GitHub
-entities:
+summary: Celebrated chef and bromatologist Dr Cordelius Swainn announced that his appeal for rare goods was enthusiastically received, resulting in a massive influx of deliveries to Lave Station for a forthcoming culinary event.
+player_impact: Pilots who contributed to the initiative can collect their rewards from Lave Station in the Lave system.
+persons:
 - Cordelius Swainn
-- Swainn
+groups:
+- Lave Incorporated
 locations:
 - Lave
-topics:
-- corporate expansion
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- Lave Station
+technologies: []
+modern_impact: Highlights the galactic community's engagement with cultural and economic campaigns in the core systems.
 ---
 
 Galactic News: Swainn’s Appeal Concludes

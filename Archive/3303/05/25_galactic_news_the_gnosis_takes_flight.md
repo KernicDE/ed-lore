@@ -4,16 +4,20 @@ title: Galactic News  The Gnosis Takes Flight
 slug: galactic_news_the_gnosis_takes_flight
 date: '3303-05-25'
 source: GitHub
+summary: The Gnosis, a scientific-research vessel commissioned by the Canonn Interstellar Research Group, has begun its maiden voyage and is now orbiting Varati A6.
+player_impact: Pilots can visit the Gnosis in orbit around Varati A6; the vessel welcomes visitors and dignitaries from the core systems.
+persons: []
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Varati
+technologies:
+- Gnosis
 topics:
 - construction
 - research
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Maiden voyage of the Gnosis establishes Canonn's permanent deep-space research platform in the Varati system.
 legacy_weight: 2
 significance: low
 ---

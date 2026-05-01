@@ -4,15 +4,24 @@ title: Galactic News  Cold War Thawing
 slug: galactic_news_cold_war_thawing
 date: '3303-09-02'
 source: GitHub
-entities:
-- Palin
+summary: Political commentators speculate whether the formation of Aegis signals an
+  end to the Empire-Federation cold war. Daxton Sung of the Imperial Herald argues
+  that while scientific collaboration exists, neither superpower has incentive to formally
+  end the conflict over meta-alloy extraction in the Pleiades.
+player_impact: None
+persons:
+- Daxton Sung
+- Arissa Lavigny-Duval
+- Zachary Hudson
+- Ishmael Palin
 groups:
 - Aegis
 - Alliance
+- Empire
+- Federation
 - Imperial Herald
-locations:
-- Aegis
-- Professor Palin
+locations: []
+technologies: []
 topics:
 - research
 - war

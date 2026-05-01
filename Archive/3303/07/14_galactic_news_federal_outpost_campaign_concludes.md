@@ -4,8 +4,17 @@ title: Galactic News  Federal Outpost Campaign Concludes
 slug: galactic_news_federal_outpost_campaign_concludes
 date: '3303-07-14'
 source: GitHub
+summary: The Federation announces the successful conclusion of its campaign to construct
+  a new outpost in HIP 17692 for monitoring Thargoid activity. Pilots delivered construction
+  materials to Blackmount Orbital and eliminated agitators to protect trade routes.
+player_impact: None
+persons: []
+groups:
+- Federation
 locations:
+- HIP 17692
 - Blackmount Orbital
+technologies: []
 topics:
 - alien contact
 - construction

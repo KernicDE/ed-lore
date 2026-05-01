@@ -3,8 +3,8 @@ id: emperors-dawn
 name: Emperor's Dawn
 type: faction
 first_seen_date: '3301-08-26'
-last_seen_date: '3302-12-23'
-mention_count: 27
+last_seen_date: '3303-10-28'
+mention_count: 28
 related_entities:
 - capitol
 - achenar
@@ -18,8 +18,8 @@ related_entities:
 # Emperor's Dawn
 
 First mentioned: **3301-08-26**  
-Last mentioned: **3302-12-23**  
-Total mentions: **27**
+Last mentioned: **3303-10-28**  
+Total mentions: **28**
 
 ## Related
 

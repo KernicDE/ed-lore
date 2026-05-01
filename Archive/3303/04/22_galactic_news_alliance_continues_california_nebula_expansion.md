@@ -4,12 +4,18 @@ title: Galactic News  Alliance Continues California Nebula Expansion
 slug: galactic_news_alliance_continues_california_nebula_expansion
 date: '3303-04-22'
 source: GitHub
+summary: The Alliance is expanding its presence in the California Nebula by establishing a scientific outpost and an extraction facility in California Sector JH-V c2-12.
+player_impact: None specified.
+persons:
+- Kelvin Masters
 groups:
 - Alliance
 locations:
 - California Nebula
+- California Sector JH-V c2-12
 - Maia
 - Merope
+technologies: []
 topics:
 - construction
 - research

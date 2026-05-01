@@ -4,14 +4,21 @@ title: Community Goal  Halsey Requests Relief
 slug: community_goal_halsey_requests_relief
 date: '3303-03-30'
 source: GitHub
+summary: Former Federal President Jasmina Halsey appealed for relief for refugees at Dirichlet Orbital in the Yum Kamcabi system. The Yum Kamcabi Purple Life Industry pledged rewards for delivery of supplies, while the Revolutionary Patani Labour placed kill orders on wanted ships.
+player_impact: Deliver Natural Fabrics, Food Cartridges and Basic Medicines to Dirichlet Orbital in the Yum Kamcabi system.
+persons:
+- Jasmina Halsey
+groups:
+- Yum Kamcabi Purple Life Industry
+- Revolutionary Patani Labour
+locations:
+- Yum Kamcabi
+- Dirichlet Orbital
 topics:
 - humanitarian
-- independence
 - medicine
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: None
 legacy_weight: 2
 significance: low
 ---

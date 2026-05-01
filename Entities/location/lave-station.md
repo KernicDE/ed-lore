@@ -2,32 +2,32 @@
 id: lave-station
 name: Lave Station
 type: location
-first_seen_date: '3304-05-17'
+first_seen_date: '3303-06-23'
 last_seen_date: '3304-06-15'
-mention_count: 6
+mention_count: 8
 related_entities:
 - lave
 - lave-radio-network
 - lave-jet-family
 - diso
-- league-of-reparation
+- lave-incorporated
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Lave Station
 
-First mentioned: **3304-05-17**  
+First mentioned: **3303-06-23**  
 Last mentioned: **3304-06-15**  
-Total mentions: **6**
+Total mentions: **8**
 
 ## Related
 
-- [[Lave]] (6 co-mentions)
+- [[Lave]] (8 co-mentions)
 - [[Lave Radio Network]] (5 co-mentions)
 - [[Lave Jet Family]] (5 co-mentions)
 - [[Diso]] (4 co-mentions)
-- [[League of Reparation]] (2 co-mentions)
+- [[Lave Incorporated]] (2 co-mentions)
 
 ## Biography
 

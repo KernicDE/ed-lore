@@ -2,13 +2,11 @@
 id: elvira-martuuk
 name: Elvira Martuuk
 type: location
-first_seen_date: '3303-10-13'
+first_seen_date: '3309-04-24'
 last_seen_date: '3309-04-24'
-mention_count: 3
+mention_count: 1
 related_entities:
 - aegis
-- khun
-- federal-times
 - maelstrom
 ---
 
@@ -16,15 +14,13 @@ related_entities:
 
 # Elvira Martuuk
 
-First mentioned: **3303-10-13**  
+First mentioned: **3309-04-24**  
 Last mentioned: **3309-04-24**  
-Total mentions: **3**
+Total mentions: **1**
 
 ## Related
 
-- [[Aegis]] (3 co-mentions)
-- [[Khun]] (2 co-mentions)
-- [[Federal Times]] (1 co-mentions)
+- [[Aegis]] (1 co-mentions)
 - [[Maelstrom]] (1 co-mentions)
 
 ## Biography

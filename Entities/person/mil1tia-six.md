@@ -5,9 +5,6 @@ type: person
 first_seen_date: '3303-03-09'
 last_seen_date: '3303-03-09'
 mention_count: 1
-related_entities:
-- sol
-- xi-2-lupi
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,8 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Sol]] (1 co-mentions)
-- [[XI-2 Lupi]] (1 co-mentions)
 
 ## Biography
 

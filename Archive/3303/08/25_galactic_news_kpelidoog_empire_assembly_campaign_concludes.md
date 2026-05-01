@@ -4,11 +4,24 @@ title: Galactic News  Kpelidoog Empire Assembly Campaign Concludes
 slug: galactic_news_kpelidoog_empire_assembly_campaign_concludes
 date: '3303-08-25'
 source: GitHub
+summary: The Kpelidoog Empire Assembly announces the successful conclusion of its campaign
+  to build a new Wells-class Carrier. Pilots delivered construction materials to Hipparchus
+  Terminal in the Kpelidoog system.
+player_impact: None
+persons: []
+groups:
+- Kpelidoog Empire Assembly
+locations:
+- Kpelidoog
+- Hipparchus Terminal
+technologies:
+- Wells-class Carrier
 topics:
 - construction
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Construction of a new Wells-class Carrier for astronomical research expands
+  the Imperial presence in deep-space scientific endeavours.
 legacy_weight: 2
 significance: low
 ---

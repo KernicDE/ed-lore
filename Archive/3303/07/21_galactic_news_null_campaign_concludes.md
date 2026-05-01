@@ -4,12 +4,25 @@ title: Galactic News  NULL Campaign Concludes
 slug: galactic_news_null_campaign_concludes
 date: '3303-07-21'
 source: GitHub
+summary: NULL announces the successful conclusion of its commodities appeal and system
+  security campaign in LTT 4961. The organisation received massive material deliveries
+  to Conway City and successfully eliminated agitators from the system.
+player_impact: None
+persons: []
+groups:
+- 'NULL'
+locations:
+- LTT 4961
+- Conway City
+- Greg's Legacy
+technologies: []
 topics:
 - construction
 - crime
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: NULL successfully expands its independent base and clears corruption
+  in LTT 4961 through combined construction and security efforts.
 legacy_weight: 2
 significance: low
 ---

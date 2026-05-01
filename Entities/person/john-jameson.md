@@ -2,18 +2,18 @@
 id: john-jameson
 name: John Jameson
 type: person
-first_seen_date: '3304-04-21'
+first_seen_date: '3303-12-14'
 last_seen_date: '3304-07-29'
-mention_count: 11
+mention_count: 12
 ---
 
 <!-- AUTO-GENERATED -->
 
 # John Jameson
 
-First mentioned: **3304-04-21**  
+First mentioned: **3303-12-14**  
 Last mentioned: **3304-07-29**  
-Total mentions: **11**
+Total mentions: **12**
 
 ## Related
 

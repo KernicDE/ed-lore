@@ -4,20 +4,27 @@ title: Galactic News  Halsey Stages Anti War Protest
 slug: galactic_news_halsey_stages_anti_war_protest
 date: '3303-05-21'
 source: GitHub
-entities:
+summary: Former Federal President Jasmina Halsey held a public anti-war demonstration in the Alioth system, protesting the ongoing Empire-Federation conflict and directly addressing both leaders.
+player_impact: None specified.
+persons:
+- Jasmina Halsey
 - Edmund Mahon
 - Zachary Hudson
+- Arissa Lavigny-Duval
 groups:
 - Alliance
 locations:
 - Alioth
+- Nerah City
+- Argent's Claim
+technologies: []
 topics:
 - festival
 - succession
 - trade
 - war
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+modern_impact: Halsey's anti-war protest in Alioth demonstrates the Alliance's willingness to host dissident voices and challenge superpower militarism.
 legacy_weight: 3
 significance: medium
 ---

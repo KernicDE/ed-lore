@@ -7,8 +7,9 @@ last_seen_date: '3303-10-20'
 mention_count: 2
 related_entities:
 - aegis
-- elvira-martuuk
+- cremona-prospect
 - federal-times
+- khun-independent-governance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,8 +23,9 @@ Total mentions: **2**
 ## Related
 
 - [[Aegis]] (2 co-mentions)
-- [[Elvira Martuuk]] (2 co-mentions)
+- [[Cremona Prospect]] (2 co-mentions)
 - [[Federal Times]] (1 co-mentions)
+- [[Khun Independent Governance]] (1 co-mentions)
 
 ## Biography
 

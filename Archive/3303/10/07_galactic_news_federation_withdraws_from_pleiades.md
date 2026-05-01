@@ -4,13 +4,21 @@ title: Galactic News  Federation Withdraws from Pleiades
 slug: galactic_news_federation_withdraws_from_pleiades
 date: '3303-10-07'
 source: GitHub
+summary: The Federation has withdrawn its ships from the Pleiades Nebula, signaling a potential end to the Federal-Imperial cold war. The move was driven by the rising Thargoid threat and the formation of Aegis.
+player_impact: None
+persons:
+- Daxton Sung
 groups:
+- Federation
+- Empire
 - Aegis
 - Imperial Herald
 locations:
-- Aegis
-- Authorities in
 - Pleiades Nebula
+- Merope
+technologies:
+- Majestic-class Interdictor
+- meta-alloys
 topics:
 - alien contact
 - ship

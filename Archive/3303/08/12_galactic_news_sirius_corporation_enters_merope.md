@@ -4,14 +4,19 @@ title: Galactic News  Sirius Corporation Enters Merope
 slug: galactic_news_sirius_corporation_enters_merope
 date: '3303-08-12'
 source: GitHub
+summary: The Sirius Corporation has established two new outposts in the Merope system,
+  ostensibly to support mining operations. Commentators speculate the corporation is
+  positioning itself to take control of the system's barnacles and meta-alloy extraction
+  if the Federation withdraws.
+player_impact: None
+persons:
+- Daxton Sung
 groups:
-- Imperial Herald
-- Sirius Corp
 - Sirius Corporation
+- Imperial Herald
 locations:
-- Federation pulls out of the
 - Merope
-- Sirius
+technologies: []
 topics:
 - corporate expansion
 arc_id: barnacle-meta-alloy

@@ -4,14 +4,21 @@ title: Community Goal  Superpower Expansion
 slug: community_goal_superpower_expansion
 date: '3303-04-21'
 source: GitHub
+summary: The Empire and Federation are competing to construct new outposts in the Maia system, relying on pilots to deliver construction materials.
+player_impact: Pilots can deliver construction materials to support either the Federal campaign (Pleiades Resource Enterprise) or the Imperial initiative (Merope Expeditionary Fleet) in Maia.
+persons: []
+groups:
+- Pleiades Resource Enterprise
+- Merope Expeditionary Fleet
 locations:
 - Maia
 - Merope
+technologies: []
 topics:
 - construction
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction opens new frontiers for exploration.
+modern_impact: Superpower rivalry in Maia intensifies as both the Empire and Federation compete to establish permanent outposts in the Pleiades.
 legacy_weight: 3
 significance: medium
 ---

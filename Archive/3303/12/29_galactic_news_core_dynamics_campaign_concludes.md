@@ -4,18 +4,21 @@ title: Galactic News  Core Dynamics Campaign Concludes
 slug: galactic_news_core_dynamics_campaign_concludes
 date: '3303-12-29'
 source: GitHub
+summary: Core Dynamics has announced the successful conclusion of its construction initiative. Hundreds of pilots delivered materials to Klimuk Ring and eliminated agitators in the Guaras system. The materials will support a new wave of manufacturing to replace ships lost in Thargoid attacks.
+player_impact: Pilots who contributed can collect rewards from Klimuk Ring in the Guaras system.
+persons: []
 groups:
 - Core Dynamics
 locations:
 - Guaras
+- Klimuk Ring
 topics:
 - alien contact
 - construction
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Core Dynamics' production acceleration helps replenish the Federal fleet as Thargoid ship losses mount.
 legacy_weight: 5
 significance: high
 ---

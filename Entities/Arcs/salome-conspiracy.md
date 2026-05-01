@@ -6,10 +6,8 @@ last_seen_date: '3303-05-04'
 mention_count: 6
 significance: medium
 key_entities:
-- kahina-tijani-loren
-- jayridium
-- jayridium-joins-several-others
-- yuri-nakamura
+- lorens-legion
+- imperial-intelligence-services
 - alliance
 ---
 
@@ -23,10 +21,8 @@ Articles: **6**
 
 ## Key Figures
 
-- [[Kahina Tijani Loren]] (2 mentions)
-- [[Jayridium]] (1 mentions)
-- [[Jayridium joins several others]] (1 mentions)
-- [[Yuri Nakamura]] (1 mentions)
+- [[Loren's Legion]] (3 mentions)
+- [[Imperial intelligence services]] (1 mentions)
 - [[Alliance]] (1 mentions)
 
 ## Description

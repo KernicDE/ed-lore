@@ -4,16 +4,21 @@ title: Galactic News  Thargoids Sighted
 slug: galactic_news_thargoids_sighted
 date: '3303-01-06'
 source: GitHub
-entities:
+summary: Commander DP Sayre reports being interdicted and scanned by a mysterious non-human vessel in the Aries Dark Region XU-O b6-3. Commentators note similarities to shipwrecks in the Pleiades Sector AB-W B2-4 and HIP 17862 systems.
+player_impact: None
+persons:
 - DP Sayre
+groups: []
 locations:
-- Aries Dark
+- Aries Dark Region XU-O b6-3
+- Pleiades Sector AB-W B2-4
+- HIP 17862
+technologies: []
 topics:
 - alien contact
 - ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: First reported live encounter with an active Thargoid vessel, confirming non-human intelligence beyond static shipwrecks.
 legacy_weight: 4
 significance: high
 ---

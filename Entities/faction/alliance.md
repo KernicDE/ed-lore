@@ -26,8 +26,8 @@ Total mentions: **382**
 - [[Sirius Corporation]] (65 co-mentions)
 - [[Aegis]] (60 co-mentions)
 - [[Alioth]] (46 co-mentions)
-- [[Federation]] (36 co-mentions)
-- [[Empire]] (31 co-mentions)
+- [[Federation]] (41 co-mentions)
+- [[Empire]] (37 co-mentions)
 
 ## Biography
 

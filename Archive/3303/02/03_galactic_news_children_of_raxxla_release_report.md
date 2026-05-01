@@ -4,14 +4,24 @@ title: Galactic News  Children of Raxxla Release Report
 slug: galactic_news_children_of_raxxla_release_report
 date: '3303-02-03'
 source: GitHub
+summary: The Children of Raxxla release an analysis of exploration data revealing the Dynasty Project, a covert mission in the 3270s to install beacons in the Formidine Rift, Conflux and Hawkin's Gap. None of the ships returned.
+player_impact: None
+persons:
+- Kahina Loren
+- Salomé
+- Admiral Denton Patreus
+groups:
+- Children of Raxxla
 locations:
 - HR 6421
+- Formidine Rift
+- Conflux
+- Hawkin's Gap
 topics:
 - exploration
 - research
-- ship
 arc_id: raxxla-mystery
-modern_impact: The enduring Raxxla mystery continues to captivate explorers.
+modern_impact: Revelation of the Dynasty Project covert mission, linking exploration data to Salomé's claims and deepening the Raxxla mystery.
 legacy_weight: 2
 significance: low
 ---

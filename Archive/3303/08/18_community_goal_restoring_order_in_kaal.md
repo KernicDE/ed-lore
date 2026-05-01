@@ -4,14 +4,26 @@ title: Community Goal  Restoring Order in Kaal
 slug: community_goal_restoring_order_in_kaal
 date: '3303-08-18'
 source: GitHub
+summary: Authorities in the Kaal system report a sharp increase in criminal activity,
+  with agitators attacking pilots and disrupting trade. The Kuk Silver Fortune Company
+  has issued a kill order on wanted ships and promised rewards for bounty vouchers delivered
+  to Vercors Station.
+player_impact: Eliminate wanted ships in the Kaal system and deliver bounty vouchers
+  to Vercors Station.
+persons: []
+groups:
+- Kuk Silver Fortune Company
 locations:
-- Authorities in the Kaal
+- Kaal
+- Vercors Station
+technologies: []
 topics:
 - crime
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Anti-crime initiative in Kaal restores trade stability and highlights
+  the ongoing need for independent pilots in system security operations.
 legacy_weight: 2
 significance: low
 ---

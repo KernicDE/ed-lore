@@ -4,16 +4,23 @@ title: Galactic News  The Thargoid Situation
 slug: galactic_news_the_thargoid_situation
 date: '3303-08-26'
 source: GitHub
-entities:
+summary: This article recounts the history of Thargoid contact from the discovery of
+  Unknown Artefacts in 3301 through to recent attacks and the creation of Aegis. Professor
+  Cora Shaw of the Palin Institute and journalist Kelvin Masters offer differing assessments
+  on Thargoid intentions and the potential for imminent attack.
+player_impact: None
+persons:
 - Cora Shaw
+- Kelvin Masters
 groups:
 - Aegis
 - Imperial Herald
+- Palin Institute
 locations:
-- Aegis
 - Maia
 - Merope
 - Pleiades Nebula
+technologies: []
 topics:
 - alien contact
 - research

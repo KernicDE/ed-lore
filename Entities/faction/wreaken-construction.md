@@ -8,6 +8,7 @@ mention_count: 5
 related_entities:
 - mastopolos-mining
 - torval-mastopolos-mining
+- col-70-sector
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,6 +23,7 @@ Total mentions: **5**
 
 - [[Mastopolos Mining]] (3 co-mentions)
 - [[Torval-Mastopolos Mining]] (3 co-mentions)
+- [[COL 70 sector]] (1 co-mentions)
 
 ## Biography
 

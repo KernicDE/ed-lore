@@ -4,17 +4,22 @@ title: Galactic News  Imperial Initiative Succeeds
 slug: galactic_news_imperial_initiative_succeeds
 date: '3303-04-28'
 source: GitHub
-entities:
-- Arissa Lavigny-Duval released
+summary: The Merope Expeditionary Fleet announced the successful conclusion of the Imperial campaign to amass material for a new outpost in the Maia system.
+player_impact: Contributing pilots can collect rewards from Obsidian Orbital in the Maia system.
+persons:
+- Arissa Lavigny-Duval
+groups:
+- Merope Expeditionary Fleet
 locations:
 - Maia
 - Merope
 - Obsidian Orbital
+technologies: []
 topics:
 - construction
 - succession
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Imperial outpost construction in Maia strengthens the Empire's strategic position in the Pleiades.
 legacy_weight: 2
 significance: low
 ---

@@ -3,10 +3,13 @@ id: run
 name: Run
 type: location
 first_seen_date: '3303-12-01'
-last_seen_date: '3303-12-01'
-mention_count: 1
+last_seen_date: '3303-12-08'
+mention_count: 2
 related_entities:
-- smithport-in-the-run
+- rogue-runners
+- smithport
+- leif-enterprise
+- rogue-security
 ---
 
 <!-- AUTO-GENERATED -->
@@ -14,12 +17,15 @@ related_entities:
 # Run
 
 First mentioned: **3303-12-01**  
-Last mentioned: **3303-12-01**  
-Total mentions: **1**
+Last mentioned: **3303-12-08**  
+Total mentions: **2**
 
 ## Related
 
-- [[Smithport in the Run]] (1 co-mentions)
+- [[Rogue Runners]] (2 co-mentions)
+- [[Smithport]] (2 co-mentions)
+- [[Leif Enterprise]] (2 co-mentions)
+- [[Rogue Security]] (1 co-mentions)
 
 ## Biography
 

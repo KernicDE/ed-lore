@@ -4,12 +4,19 @@ title: Galactic News  Hyperspace
 slug: galactic_news_hyperspace
 date: '3303-01-07'
 source: GitHub
+summary: Historian Sima Kalhana traces hyperspace technology from early 22nd century origins through the Faraway Jump, quirium, and Type 2b eras to modern jump drives. She notes lingering mysteries of witch-space, including inexplicable lights and structures reported by pilots.
+player_impact: None
+persons:
+- Sima Kalhana
+groups: []
 locations:
-- The Faraway
+- Faraway
+technologies: []
 topics:
-- humanitarian
+- history
 - ship
-modern_impact: Ship review and release information for the pilot community.
+- technology
+modern_impact: Historical overview of hyperspace evolution and the persistent unknowns within witch-space.
 legacy_weight: 1
 significance: low
 ---

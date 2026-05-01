@@ -4,14 +4,21 @@ title: Community Goal  Balones Gold Touch Systems Appeals for Materials
 slug: community_goal_balones_gold_touch_systems_appeals_for_materials
 date: '3303-01-05'
 source: GitHub
+summary: Balones Gold Touch Systems appeals for mined osmium, praseodymium, and methanol monohydrate crystals to develop advanced deep-space probes, citing alien shipwrecks and Synuefe ruins as motivation.
+player_impact: Deliver mined osmium, praseodymium and methanol monohydrate crystals to Tiedemann Dock in the Balones system.
+persons: []
+groups:
+- Balones Gold Touch Systems
 locations:
+- Balones
+- Tiedemann Dock
 - Synuefe
-- Tiedemann Dock in the Balones
+technologies: []
 topics:
 - alien contact
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+- community goal
+- trade
+modern_impact: Community goal funding deep-space probes to explore beyond the galaxy, motivated by alien shipwreck and Synuefe ruin discoveries.
 legacy_weight: 2
 significance: low
 ---

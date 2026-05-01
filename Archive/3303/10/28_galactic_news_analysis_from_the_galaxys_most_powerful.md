@@ -4,22 +4,26 @@ title: Galactic News  Analysis from the Galaxy’s Most Powerful
 slug: galactic_news_analysis_from_the_galaxys_most_powerful
 date: '3303-10-28'
 source: GitHub
-entities:
+summary: Galaxy's most powerful figures commented on the Thargoid return and INRA discoveries. Princess Aisling Duval condemned INRA's ethics, Senator Denton Patreus endorsed Aegis's military strategy, and Li Yong-Rui urged galactic perspective.
+player_impact: None
+persons:
 - Denton Patreus
+- Aisling Duval
+- Li Yong-Rui
 groups:
 - Aegis
-- Sirius Corp
 - Sirius Corporation
+- Imperial Senate
+- Emperor's Dawn
 locations:
-- Aegis
-- At a society event in the Cubeo
+- Cubeo
 - Sirius
+technologies: []
 topics:
 - alien contact
 - corporate expansion
 - research
-- succession
-- terrorism
+- politics
 arc_id: thargoid-contact
 modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
   landscape and driving the creation of anti-xeno defence forces.

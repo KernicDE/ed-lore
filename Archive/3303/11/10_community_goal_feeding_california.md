@@ -4,14 +4,23 @@ title: Community Goal  Feeding California
 slug: community_goal_feeding_california
 date: '3303-11-10'
 source: GitHub
+summary: The Spinward Marches Alliance Concern has announced plans to establish an agricultural facility in the Synuefai LX-R d5-28 system to support Alliance and Turner Research Group outposts in the California Nebula. Senior operative Saool Aledon stated they want to leverage their expertise to support Alliance operations far from the core systems.
+player_impact: Pilots can deliver terrain enrichment systems, crop harvesters, and auto fabricators to Hansford's Landing in the BD+22 4939 system for generous compensation.
+persons:
+- Saool Aledon
 groups:
 - Alliance
+- Spinward Marches Alliance Concern
+- Turner Research Group
 locations:
+- Synuefai LX-R d5-28
 - California Nebula
+- BD+22 4939
+- Hansford's Landing
 topics:
 - research
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Agricultural infrastructure in the California Nebula helps sustain deep-space Alliance outposts and reduces their dependence on long supply lines.
 legacy_weight: 2
 significance: low
 ---

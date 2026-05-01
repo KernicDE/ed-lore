@@ -4,15 +4,21 @@ title: Community Goal  Renowned Chef Issues Appeal
 slug: community_goal_renowned_chef_issues_appeal
 date: '3303-06-23'
 source: GitHub
-entities:
+summary: Celebrated chef Dr Cordelius Swainn has issued an appeal for rare and exotic goods for a celebrity soirée in the Lave system.
+player_impact: Pilots can deliver rare commodities and exotic goods to Lave Station for rewards from Lave Incorporated.
+persons:
 - Cordelius Swainn
+groups:
+- Lave Incorporated
 locations:
 - Lave
+- Lave Station
+technologies: []
 topics:
 - corporate expansion
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Dr Cordelius Swainn's celebrity soirée in Lave attracts rare commodity trading and high-end culinary tourism.
 legacy_weight: 2
 significance: low
 ---

@@ -4,9 +4,18 @@ title: Galactic News  Sitakapan Expeditionary Forces Campaign Concludes
 slug: galactic_news_sitakapan_expeditionary_forces_campaign_concludes
 date: '3303-05-05'
 source: GitHub
+summary: The Sitakapan Expeditionary Forces' appeal for military-grade weapons and chemicals concluded successfully with a massive influx of deliveries to Russell Hub.
+player_impact: Contributing pilots can collect rewards from Russell Hub in the Sitakapa system.
+persons: []
+groups:
+- Sitakapan Expeditionary Forces
+locations:
+- Russell Hub
+- Sitakapa
+technologies: []
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Sitakapa's military settlement conversion reflects growing frontier-world militarization amid galactic instability.
 legacy_weight: 2
 significance: low
 ---

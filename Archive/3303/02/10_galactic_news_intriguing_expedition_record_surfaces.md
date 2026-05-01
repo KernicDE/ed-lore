@@ -4,20 +4,23 @@ title: Galactic News  Intriguing Expedition Record Surfaces
 slug: galactic_news_intriguing_expedition_record_surfaces
 date: '3303-02-10'
 source: GitHub
-entities:
-- Melville
-locations:
+summary: Personal logs surface from a clandestine expedition led by Professor Melville to find Guardian relics. The logs reveal discoveries of multiple site clusters and Melville's growing obsession, ending with a distress call.
+player_impact: None
+persons:
+- Professor Melville
 - Ram Tah
-- Synuefe
+groups: []
+locations:
+- Synuefe XR-H d11-102
+- Synuefe LY-I b42-2
+- Synuefe NL-N c23-4
+- Synuefe TP-F b44-0
 topics:
-- alien contact
-- humanitarian
+- exploration
 - research
-- ship
 - xenoarchaeology
-arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+arc_id: guardian-ancients
+modern_impact: Discovery of Professor Melville's expedition logs revealing clusters of Guardian sites and raising questions about his disappearance.
 legacy_weight: 4
 significance: high
 ---

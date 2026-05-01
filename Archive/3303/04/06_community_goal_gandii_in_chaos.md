@@ -4,13 +4,20 @@ title: Community Goal  Gandii in Chaos
 slug: community_goal_gandii_in_chaos
 date: '3303-04-06'
 source: GitHub
+summary: Conflict has erupted in the Gandii system between the Hand Gang of Gandii and the Gandii Justice Party, with both factions offering privateer bonds to combat pilots.
+player_impact: Pilots can support either the Hand Gang of Gandii or the Gandii Justice Party by taking privateer bonds and participating in the conflict.
+persons: []
+groups:
+- Hand Gang of Gandii
+- Gandii Justice Party
 locations:
-- Recent reports from the Gandii
+- Gandii
+technologies: []
 topics:
 - piracy
 - trade
 - war
-modern_impact: Anti-piracy operation protecting trade routes.
+modern_impact: Anti-piracy conflict in Gandii between the Hand Gang and Gandii Justice Party highlights ongoing piracy threats tied to Archon Delaine's network.
 legacy_weight: 2
 significance: low
 ---

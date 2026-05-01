@@ -4,18 +4,31 @@ title: Community Goal  Second Aegis Initiative
 slug: community_goal_second_aegis_initiative
 date: '3303-09-29'
 source: GitHub
+summary: Aegis launches a second development initiative to create anti-Thargoid technologies
+  in collaboration with the galaxy's foremost engineers. Admiral Aden Tanner states
+  that Aegis's corporate partners, the Wolf 397 Independents, will reward pilots who
+  deliver tantalum, Thargoid Cyclops tissue samples and CMM Composites to Chelbin Service
+  Station in Wolf 397.
+player_impact: Deliver tantalum, Thargoid Cyclops tissue samples and CMM Composites to
+  Chelbin Service Station in Wolf 397.
+persons:
+- Aden Tanner
 groups:
 - Aegis
+- Wolf 397 Independents
 locations:
-- Aegis
+- Wolf 397
+- Chelbin Service Station
+technologies: []
 topics:
 - alien contact
 - corporate expansion
 - engineering
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Aegis's campaign to develop anti-Thargoid weaponry with engineers established
+  a blueprint for collaborative xeno-defense research that continues to shape human-Thargoid
+  military dynamics.
 legacy_weight: 5
 significance: high
 ---

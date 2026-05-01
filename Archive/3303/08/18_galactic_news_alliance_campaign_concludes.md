@@ -4,11 +4,18 @@ title: Galactic News  Alliance Campaign Concludes
 slug: galactic_news_alliance_campaign_concludes
 date: '3303-08-18'
 source: GitHub
+summary: The Alliance announces the successful conclusion of its research initiative,
+  with huge quantities of resources delivered to Neville Horizons. The campaign also
+  received support from independent combat pilots who defended spaceways and traders
+  contributing to the initiative.
+player_impact: None
+persons: []
 groups:
 - Alliance
 locations:
 - Kaushpoos
 - Neville Horizons
+technologies: []
 topics:
 - alien contact
 - research

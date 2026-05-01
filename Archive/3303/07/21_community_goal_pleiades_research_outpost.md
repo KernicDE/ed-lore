@@ -4,11 +4,22 @@ title: Community Goal  Pleiades Research Outpost
 slug: community_goal_pleiades_research_outpost
 date: '3303-07-21'
 source: GitHub
-entities:
+summary: Abroin Universal Plc announces plans to establish a research outpost in
+  the Pleiades Nebula to study Thargoid activity. The organisation has placed an open
+  order for semiconductors, lithium and energy grid assemblies for delivery to Campbell
+  Horizons in the Abroin system.
+player_impact: Deliver semiconductors, lithium and energy grid assemblies to Campbell
+  Horizons in Abroin. Eliminate wanted ships to protect trade routes.
+persons:
 - Zachary Hudson
+- Edmund Mahon
+groups:
+- Abroin Universal Plc
 locations:
-- Campbell Horizons in the Abroin
+- Abroin
+- Campbell Horizons
 - Pleiades Nebula
+technologies: []
 topics:
 - alien contact
 - construction

@@ -6,7 +6,7 @@ first_seen_date: '3303-10-12'
 last_seen_date: '3303-10-12'
 mention_count: 1
 related_entities:
-- a-number-of-media-feeds-in-the-core
+- intergalactic-naval-reserve-arm
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +19,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[A number of media feeds in the core]] (1 co-mentions)
+- [[Intergalactic Naval Reserve Arm]] (1 co-mentions)
 
 ## Biography
 

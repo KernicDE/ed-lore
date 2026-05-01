@@ -4,13 +4,20 @@ title: Galactic News  Order Restored in Cartoq
 slug: galactic_news_order_restored_in_cartoq
 date: '3303-05-05'
 source: GitHub
+summary: The Cartoq Purple Major Organisation successfully cleared the Cartoq system of agitators with support from hundreds of pilots.
+player_impact: Pilots who contributed can collect rewards from Avdeyev Settlement in the Cartoq system.
+persons: []
+groups:
+- Cartoq Purple Major Organisation
 locations:
-- Authorities in the Cartoq
+- Cartoq
+- Avdeyev Settlement
+technologies: []
 topics:
 - crime
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Cartoq Purple Major Organisation successfully clears Cartoq of criminal agitators through pilot-supported bounty operations.
 legacy_weight: 2
 significance: low
 ---

@@ -4,12 +4,21 @@ title: Community Goal  Halsey to Build Refugee Centre
 slug: community_goal_halsey_to_build_refugee_centre
 date: '3303-02-02'
 source: GitHub
+summary: Former Federal President Jasmina Halsey announces plans to build a rehabilitation centre for victims of the Federal-Imperial conflict. The Yum Kamcabi Purple Life Industry supports the campaign financially.
+player_impact: Deliver Power Generators, Tantalum and Polymers to Dirichlet Orbital in the Yum Kamcabi system.
+persons:
+- Jasmina Halsey
+groups:
+- Yum Kamcabi Purple Life Industry
+locations:
+- Yum Kamcabi
+- Dirichlet Orbital
 topics:
 - construction
 - humanitarian
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Humanitarian community goal establishing a refugee and rehabilitation centre for war victims, supported by former Federal President Halsey.
 legacy_weight: 2
 significance: low
 ---

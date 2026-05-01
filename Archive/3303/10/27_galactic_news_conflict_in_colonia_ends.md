@@ -4,12 +4,16 @@ title: Galactic News  Conflict in Colonia Ends
 slug: galactic_news_conflict_in_colonia_ends
 date: '3303-10-27'
 source: GitHub
+summary: The conflict between The Nameless criminal faction and the Colonia Council peacekeepers has ended with the Colonia Council victorious. Both factions received support from the galactic community.
+player_impact: Collect rewards from Jaques Station in the Colonia system.
+persons: []
 groups:
 - Colonia Council
+- The Nameless
 locations:
-- Authorities in the Colonia
 - Colonia
 - Jaques Station
+technologies: []
 topics:
 - war
 arc_id: jaques-station

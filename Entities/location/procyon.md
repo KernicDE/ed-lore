@@ -7,7 +7,7 @@ last_seen_date: '3310-10-16'
 mention_count: 6
 related_entities:
 - sirius-corporation
-- cormack-hub-in-the-procyon
+- cormack-hub
 - bonespire-publishing
 - blatrimpe
 - alliance
@@ -24,7 +24,7 @@ Total mentions: **6**
 ## Related
 
 - [[Sirius Corporation]] (3 co-mentions)
-- [[Cormack Hub in the Procyon]] (2 co-mentions)
+- [[Cormack Hub]] (2 co-mentions)
 - [[Bonespire Publishing]] (2 co-mentions)
 - [[Blatrimpe]] (2 co-mentions)
 - [[Alliance]] (1 co-mentions)

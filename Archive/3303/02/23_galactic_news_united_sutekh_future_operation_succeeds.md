@@ -4,9 +4,18 @@ title: Galactic News  United Sutekh Future Operation Succeeds
 slug: galactic_news_united_sutekh_future_operation_succeeds
 date: '3303-02-23'
 source: GitHub
+summary: United Sutekh Future triumphs over the Adad Exchange in the Sutekh system, preventing Imperial forces from recovering sensitive Federal military intelligence from a destroyed convoy.
+player_impact: Collect rewards from Archemides Gateway in the Sutekh system.
+persons: []
+groups:
+- United Sutekh Future
+- Adad Exchange
+locations:
+- Sutekh
+- Archemides Gateway
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Federal-aligned victory in Sutekh protecting military intelligence from Imperial recovery efforts.
 legacy_weight: 2
 significance: low
 ---

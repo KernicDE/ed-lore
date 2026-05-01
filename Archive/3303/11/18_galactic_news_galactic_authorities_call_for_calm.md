@@ -4,20 +4,22 @@ title: Galactic News  Galactic Authorities Call for Calm
 slug: galactic_news_galactic_authorities_call_for_calm
 date: '3303-11-18'
 source: GitHub
-entities:
-- Zachary Hudson adopted
+summary: As reports of Thargoid attacks continue, galactic leaders have issued statements urging public calm. Emperor Arissa Lavigny-Duval stated the Thargoids are active only in the Pleiades Nebula and may lack the numbers to expand. President Zachary Hudson expressed confidence in Federal-Imperial solidarity. However, Admiral Aden Tanner countered that there is no intelligence on Thargoid long-term plans and asserting they will remain in the Pleiades would be premature and irresponsible.
+player_impact: None
+persons:
+- Arissa Lavigny-Duval
+- Zachary Hudson
+- Aden Tanner
 groups:
 - Aegis
 - Federal Times
 locations:
-- Aegis
 - Pleiades Nebula
 topics:
 - alien contact
 - succession
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: The divergence between political reassurance and military caution regarding Thargoid intentions highlights the uncertainty and tension surrounding the alien threat.
 legacy_weight: 5
 significance: high
 ---

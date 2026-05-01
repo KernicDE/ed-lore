@@ -4,20 +4,25 @@ title: Community Goal  Canonn Launches Campaign
 slug: community_goal_canonn_launches_campaign
 date: '3303-05-12'
 source: GitHub
-entities:
-- Arcanonn
+summary: The Canonn Interstellar Research Group announced plans to construct the deep-space research vessel Gnosis, with open orders for indium, computer components, and tea.
+player_impact: Pilots can deliver indium, computer components, and tea to Zoline Port in the LTT 377 system, and participate in bounty hunting to protect traders.
+persons:
+- Dr Arcanonn
 groups:
-- Canonn
 - Canonn Interstellar Research Group
+- LTT 377 Allied Co
 locations:
-- Zoline Port in the LTT 377
+- Zoline Port
+- LTT 377
+technologies:
+- Gnosis
 topics:
 - exploration
 - research
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Canonn Interstellar Research Group's Gnosis campaign establishes a new model for community-funded deep-space scientific research vessels.
 legacy_weight: 2
 significance: low
 ---

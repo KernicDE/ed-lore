@@ -4,13 +4,20 @@ title: Galactic News  Alliance Campaign Concludes
 slug: galactic_news_alliance_campaign_concludes
 date: '3303-05-12'
 source: GitHub
+summary: The Alliance's appeal for construction materials for a new California Nebula outpost concluded successfully with massive pilot support.
+player_impact: Contributing pilots can collect rewards from Darwin Research Facility in the California Sector BV-Y c7 system.
+persons: []
 groups:
 - Alliance
+locations:
+- California Sector BV-Y c7
+- Darwin Research Facility
+technologies: []
 topics:
 - construction
 - research
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Alliance outpost construction in the California Nebula expands scientific and resource-extraction capabilities in the region.
 legacy_weight: 2
 significance: low
 ---

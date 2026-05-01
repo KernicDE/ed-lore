@@ -4,16 +4,20 @@ title: Freelance Report  Buckyball Racing Club has Tunnel Vision
 slug: freelance_report_buckyball_racing_club_has_tunnel_vision
 date: '3303-02-23'
 source: GitHub
+summary: The Buckyball Racing Club announces its first full-length race of 3303, Tunnel Vision, requiring competitors to navigate tunnels at scientific and military installations between Malaikudi and Parutis.
+player_impact: None
+persons: []
 groups:
 - Buckyball Racing Club
 locations:
-- Leopold Heckmann Ring in the Malaikudi
+- Malaikudi
+- Leopold Heckmann Ring
+- Parutis
+- Evans Port
 topics:
-- research
 - ship
 - sport
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Player-organised racing event showcasing pilot skill through challenging tunnel navigation.
 legacy_weight: 1
 significance: low
 ---

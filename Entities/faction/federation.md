@@ -2,9 +2,9 @@
 id: federation
 name: Federation
 type: faction
-first_seen_date: '3304-03-02'
+first_seen_date: '3303-01-13'
 last_seen_date: '3311-11-27'
-mention_count: 59
+mention_count: 75
 related_entities:
 - empire
 - alliance
@@ -17,15 +17,15 @@ related_entities:
 
 # Federation
 
-First mentioned: **3304-03-02**  
+First mentioned: **3303-01-13**  
 Last mentioned: **3311-11-27**  
-Total mentions: **59**
+Total mentions: **75**
 
 ## Related
 
-- [[Empire]] (37 co-mentions)
-- [[Alliance]] (36 co-mentions)
-- [[Aegis]] (20 co-mentions)
+- [[Empire]] (48 co-mentions)
+- [[Alliance]] (41 co-mentions)
+- [[Aegis]] (26 co-mentions)
 - [[HIP 22460]] (15 co-mentions)
 - [[Azimuth Biotech]] (14 co-mentions)
 

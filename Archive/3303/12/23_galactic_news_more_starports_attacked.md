@@ -4,10 +4,17 @@ title: Galactic News  More Starports Attacked
 slug: galactic_news_more_starports_attacked
 date: '3303-12-23'
 source: GitHub
+summary: Three more starports have been attacked by Thargoids: Hudson Observatory in HIP 17694, Cavalieri in Electra, and Bao Landing in HIP 17497. The attacks caused significant damage and hundreds of casualties. As with last week's attacks, Interceptor Medusas executed the strikes.
+player_impact: Pilots are asked to evacuate civilians from affected starports and deliver food, water, basic medicines, and natural fabrics.
+persons: []
+groups: []
 locations:
-- Authorities in the affected
-- Electra
 - HIP 17694
+- Hudson Observatory
+- Electra
+- Cavalieri
+- HIP 17497
+- Bao Landing
 topics:
 - alien contact
 - construction
@@ -15,8 +22,7 @@ topics:
 - medicine
 - ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: The second wave of Medusa attacks confirms the Thargoids are systematically targeting starports across the Pleiades, establishing a pattern of escalating aggression.
 legacy_weight: 5
 significance: high
 ---

@@ -4,12 +4,17 @@ title: Galactic News  Construction Appeal Concludes
 slug: galactic_news_construction_appeal_concludes
 date: '3303-03-16'
 source: GitHub
+summary: The Military Militia's appeal for construction materials concluded successfully. Work can now begin on the Soldiers' Respite installation in the XI-2 Lupi system.
+player_impact: Collect rewards from Pellegrino Hub in the XI-2 Lupi system.
+persons: []
+groups:
+- Military Militia
 locations:
-- Sol
+- XI-2 Lupi
+- Pellegrino Hub
 topics:
 - construction
-- war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: None
 legacy_weight: 2
 significance: low
 ---

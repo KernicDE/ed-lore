@@ -4,17 +4,21 @@ title: Galactic News  Data Appeal Concludes
 slug: galactic_news_data_appeal_concludes
 date: '3303-01-23'
 source: GitHub
+summary: Engineer Ram Tah's appeal for data from the Synuefe ruins concludes successfully. He hopes the data will unlock the monolith network and reveal further Guardian sites.
+player_impact: Collect rewards from Felice Dock in the Meene system.
+persons:
+- Ram Tah
+groups: []
 locations:
 - Meene
-- Ram Tah
+- Felice Dock
 - Synuefe
+technologies: []
 topics:
 - engineering
-- war
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: Guardian site research expands scientific understanding of ancient
-  alien civilisations and their technology.
+modern_impact: Community-contributed Guardian ruin data enables Ram Tah's monolith network research.
 legacy_weight: 4
 significance: high
 ---

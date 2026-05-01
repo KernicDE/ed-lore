@@ -4,13 +4,18 @@ title: Galactic News  Canonn Campaign Extended
 slug: galactic_news_canonn_campaign_extended
 date: '3303-05-13'
 source: GitHub
+summary: The Canonn Interstellar Research Group extended its campaign for the Gnosis research vessel due to unprecedented community support.
+player_impact: Pilots have additional opportunities to contribute materials and cash to bolster the Gnosis specifications and scientific voyage supplies.
+persons: []
 groups:
-- Canonn
 - Canonn Interstellar Research Group
+locations: []
+technologies:
+- Gnosis
 topics:
 - research
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Extended Canonn campaign for the Gnosis research vessel demonstrates strong community support for independent scientific initiatives.
 legacy_weight: 1
 significance: low
 ---

@@ -4,11 +4,22 @@ title: Community Goal  The Battle for Jotunheim
 slug: community_goal_the_battle_for_jotunheim
 date: '3303-06-02'
 source: GitHub
+summary: The Autocracy of Jotunheim has entered the Jotunheim system to bring it under Imperial control, opposed by the Revolutionary Jotunheim Resistance, while Jasmina Halsey supports the resistance with material aid.
+player_impact: Pilots can support either the Autocracy of Jotunheim or the Revolutionary Jotunheim Resistance in combat, or deliver performance enhancers, armour, and military grade fabrics to the Yum Kamcabi Purple Life Industry for Halsey's appeal.
+persons:
+- Jasmina Halsey
+groups:
+- Autocracy of Jotunheim
+- Revolutionary Jotunheim Resistance
+- Yum Kamcabi Purple Life Industry
+locations:
+- Jotunheim
+technologies: []
 topics:
 - festival
 - independence
 - war
-modern_impact: Community celebration bringing pilots together.
+modern_impact: Jasmina Halsey's support for the Revolutionary Jotunheim Resistance marks a shift from peaceful protest to direct material aid in anti-Imperial conflicts.
 legacy_weight: 1
 significance: low
 ---

@@ -4,18 +4,23 @@ title: Galactic News  Alien Tsar Makes Statement
 slug: galactic_news_alien_tsar_makes_statement
 date: '3303-04-07'
 source: GitHub
+summary: Admiral Aden Tanner has been appointed Chief of Federal Security to investigate mysterious spacecraft, confirming their activity in the Pleiades Nebula, Maia, and Merope systems.
+player_impact: Pilots are urged to treat unknown ships with extreme caution; carrying Unknown Artefacts does not attract their attention according to official findings.
+persons:
+- Aden Tanner
 groups:
 - Federal Navy
 locations:
 - Maia
 - Merope
 - Pleiades Nebula
+technologies: []
 topics:
 - alien contact
 - investigation
 - ship
 arc_id: unknown-artefacts
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Admiral Aden Tanner's appointment as Chief of Federal Security establishes the framework for official superpower investigation of Thargoid vessels.
 legacy_weight: 2
 significance: low
 ---

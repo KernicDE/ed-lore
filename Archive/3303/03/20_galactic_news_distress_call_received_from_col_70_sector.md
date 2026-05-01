@@ -4,9 +4,18 @@ title: Galactic News  Distress Call Received from Col 70 Sector
 slug: galactic_news_distress_call_received_from_col_70_sector
 date: '3303-03-20'
 source: GitHub
+summary: A garbled distress call from the Col 70 sector has been received. Federal intelligence member Perry Hussein stated the telemetry indicates it was an older vessel, perhaps Cobra class, and the ship appears to have been destroyed.
+player_impact: None
+persons:
+- Perry Hussein
+groups: []
+locations:
+- Col 70 Sector
+technologies:
+- Cobra
 topics:
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: None
 legacy_weight: 1
 significance: low
 ---

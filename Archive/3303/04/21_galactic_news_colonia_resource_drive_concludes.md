@@ -4,11 +4,16 @@ title: Galactic News  Colonia Resource Drive Concludes
 slug: galactic_news_colonia_resource_drive_concludes
 date: '3303-04-21'
 source: GitHub
+summary: The Colonia Co-operative resource drive concluded successfully, with thousands of tonnes of resources delivered to Jaques Station for infrastructure development.
+player_impact: Contributing pilots can collect rewards from Colonia Dream in the Eol Prou Lw-L C8-76 system.
+persons: []
+groups:
+- Colonia Co-operative
 locations:
 - Colonia
-- Colonia and the surrounding
-- Eol Prou
 - Jaques Station
+- Eol Prou
+technologies: []
 topics:
 - war
 arc_id: jaques-station

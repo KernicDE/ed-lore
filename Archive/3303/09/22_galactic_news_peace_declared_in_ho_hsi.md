@@ -4,11 +4,24 @@ title: Galactic News  Peace Declared in Ho Hsi
 slug: galactic_news_peace_declared_in_ho_hsi
 date: '3303-09-22'
 source: GitHub
+summary: Authorities confirm that the conflict in the Ho Hsi system has ended with
+  a victory for Ho Hsi Jet Comms Limited. The Freedom Party of Ho Hsi has withdrawn
+  its forces, and pilots who supported the winning faction can collect rewards from
+  Hand Ring.
+player_impact: Pilots who participated in the conflict can now collect their rewards
+  from Hand Ring in the Ho Hsi system.
+persons: []
+groups:
+- Ho Hsi Jet Comms Limited
+- Freedom Party of Ho Hsi
 locations:
-- Authorities in the Ho Hsi
+- Ho Hsi
+- Hand Ring
+technologies: []
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Resolution of the Ho Hsi conflict reinforces the decisive role of independent
+  pilots in determining faction warfare outcomes.
 legacy_weight: 2
 significance: low
 ---

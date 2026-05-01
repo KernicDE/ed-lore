@@ -24,8 +24,8 @@ Total mentions: **75**
 ## Related
 
 - [[Obsidian Orbital]] (28 co-mentions)
-- [[Merope]] (22 co-mentions)
-- [[Ishmael Palin]] (17 co-mentions)
+- [[Merope]] (21 co-mentions)
+- [[Ishmael Palin]] (15 co-mentions)
 - [[Pleiades Nebula]] (11 co-mentions)
 - [[Aegis]] (11 co-mentions)
 

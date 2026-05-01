@@ -4,18 +4,21 @@ title: Community Goal  Appeal for Construction Materials
 slug: community_goal_appeal_for_construction_materials
 date: '3303-03-09'
 source: GitHub
-entities:
+summary: The Military Militia in the XI-2 Lupi system appeals for military grade fabrics and platinum to build the Soldiers' Respite installation, featuring communication relays, weapon systems and a combat training facility.
+player_impact: Deliver military grade fabrics and platinum to Pellegrino Hub in the XI-2 Lupi system.
+persons:
 - MiL1TiA SiX
+groups:
+- Military Militia
 locations:
-- Sol
 - XI-2 Lupi
+- Pellegrino Hub
 topics:
 - construction
 - crime
 - ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Community goal funding an independent military installation with state-of-the-art combat and communication facilities.
 legacy_weight: 2
 significance: low
 ---

@@ -4,14 +4,19 @@ title: Galactic News  Loren's Legion Appeal Concludes
 slug: galactic_news_lorens_legion_appeal_concludes
 date: '3303-03-09'
 source: GitHub
+summary: Ambassador Cuthrick Delaney announces that Loren's Legion's appeal for tantalum has concluded successfully. Hundreds of pilots delivered materials to Hiram's Anchorage.
+player_impact: Collect rewards from Hiram's Anchorage in the Prism system.
+persons:
+- Cuthrick Delaney
+groups:
+- Loren's Legion
 locations:
 - Prism
+- Hiram's Anchorage
 topics:
 - trade
-- war
 arc_id: salome-conspiracy
-modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
-  and Federal politics.
+modern_impact: Successful commodity campaign for Loren's Legion, an organisation connected to the Salomé conspiracy and Antares mystery.
 legacy_weight: 4
 significance: high
 ---

@@ -4,12 +4,16 @@ title: Galactic News  Message Found in Celaeno
 slug: galactic_news_message_found_in_celaeno
 date: '3303-11-14'
 source: GitHub
+summary: An intriguing message has been discovered in the Celaeno system, recovered from a listening post. The message apparently contains an emergency broadcast from the Aida, a Hogan-class cargo vessel. The precise nature of the message has not been confirmed, and it is unknown if security forces have investigated.
+player_impact: None
+persons: []
+groups: []
 locations:
 - Celaeno
 topics:
 - investigation
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Unexplained distress signals and listening post discoveries in systems like Celaeno continue to fuel mystery and speculation across the galaxy.
 legacy_weight: 1
 significance: low
 ---

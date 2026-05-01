@@ -4,19 +4,22 @@ title: Galactic News  Order Restored in Colonia
 slug: galactic_news_order_restored_in_colonia
 date: '3303-05-26'
 source: GitHub
+summary: The Colonia Council announced that agitators in the Eol Prou Lw-L C8-215 system have been eliminated, with security personnel stationed at their outposts to prevent reoccupation.
+player_impact: Contributing pilots can collect rewards from Tolagarf's Junkjard.
+persons: []
 groups:
 - Colonia Council
+- Junkyard Dogs
 locations:
 - Colonia
-- Colonia is more than just a
-- Eol Prou
+- Eol Prou Lw-L C8-215
+technologies: []
 topics:
 - crime
 - ship
 - war
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Junkyard Dogs successfully eliminate unauthorized agitators in Eol Prou Lw-L C8-215, reinforcing Colonia Council governance.
 legacy_weight: 3
 significance: medium
 ---

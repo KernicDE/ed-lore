@@ -4,15 +4,24 @@ title: Community Goal  Superpower Expansion
 slug: community_goal_superpower_expansion
 date: '3303-05-26'
 source: GitHub
+summary: The Empire and Federation are constructing new bases in the Pleiades region, with both superpowers placing open orders for construction materials.
+player_impact: Pilots can deliver tantalum, building fabricators, and thermal cooling units to PRE Logistics Support Gamma (Federal) or Moni's Hub (Imperial) in the Pleiades region.
+persons: []
+groups:
+- Merope Expeditionary Fleet
+- Pleiades Resource Enterprise
 locations:
 - Maia
 - Merope
+- PRE Logistics Support Gamma
+- Moni's Hub
+technologies: []
 topics:
 - construction
 - ship
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction opens new frontiers for exploration.
+modern_impact: Superpower rivalry in the Pleiades intensifies as both the Empire and Federation establish permanent military and logistical bases.
 legacy_weight: 3
 significance: medium
 ---

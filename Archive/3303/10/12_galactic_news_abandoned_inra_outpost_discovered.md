@@ -4,15 +4,21 @@ title: Galactic News  Abandoned INRA Outpost Discovered
 slug: galactic_news_abandoned_inra_outpost_discovered
 date: '3303-10-12'
 source: GitHub
+summary: An abandoned planetary outpost controlled by the Intergalactic Naval Reserve Arm (INRA) has been discovered in the Hermitage system. The outpost dates to the 3100s and was involved in developing chemical weapons against Thargoid technology.
+player_impact: None
+persons: []
+groups:
+- Intergalactic Naval Reserve Arm
 locations:
-- A number of media feeds in the core
 - Hermitage
+technologies:
+- chemical weapon
 topics:
 - alien contact
 - research
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: The rediscovery of INRA sites reignited historical debate about the ethics
+  of anti-Thargoid warfare and humanity's prior contact with the aliens.
 legacy_weight: 4
 significance: high
 ---

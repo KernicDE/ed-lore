@@ -2,13 +2,13 @@
 id: inra
 name: INRA
 type: faction
-first_seen_date: '3304-04-21'
+first_seen_date: '3303-12-14'
 last_seen_date: '3309-05-16'
-mention_count: 27
+mention_count: 28
 related_entities:
+- aegis
 - alliance
 - league-of-reparation
-- aegis
 - federation
 - dg-canum-venaticorum
 ---
@@ -17,15 +17,15 @@ related_entities:
 
 # INRA
 
-First mentioned: **3304-04-21**  
+First mentioned: **3303-12-14**  
 Last mentioned: **3309-05-16**  
-Total mentions: **27**
+Total mentions: **28**
 
 ## Related
 
-- [[Alliance]] (10 co-mentions)
+- [[Aegis]] (11 co-mentions)
+- [[Alliance]] (11 co-mentions)
 - [[League of Reparation]] (10 co-mentions)
-- [[Aegis]] (10 co-mentions)
 - [[Federation]] (7 co-mentions)
 - [[DG Canum Venaticorum]] (6 co-mentions)
 

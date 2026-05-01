@@ -3,14 +3,8 @@ id: alba-tesreau
 name: Alba Tesreau
 type: person
 first_seen_date: '3303-08-05'
-last_seen_date: '3303-12-02'
-mention_count: 5
-related_entities:
-- aegis
-- alliance
-- achenar
-- pleiades-nebula
-- vonarburg-co-operative-in-the-wyrd
+last_seen_date: '3311-06-03'
+mention_count: 93
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +12,11 @@ related_entities:
 # Alba Tesreau
 
 First mentioned: **3303-08-05**  
-Last mentioned: **3303-12-02**  
-Total mentions: **5**
+Last mentioned: **3311-06-03**  
+Total mentions: **93**
 
 ## Related
 
-- [[Aegis]] (5 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Achenar]] (1 co-mentions)
-- [[Pleiades Nebula]] (1 co-mentions)
-- [[Vonarburg Co-operative in the Wyrd]] (1 co-mentions)
 
 ## Biography
 

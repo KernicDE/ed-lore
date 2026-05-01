@@ -7,10 +7,10 @@ last_seen_date: '3307-10-29'
 mention_count: 28
 related_entities:
 - jaques-station
-- eol-prou
 - pleiades-nebula
 - dove-enigma
 - randgnid
+- templar-barracks
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **28**
 ## Related
 
 - [[Jaques Station]] (8 co-mentions)
-- [[Eol Prou]] (3 co-mentions)
 - [[Pleiades Nebula]] (3 co-mentions)
 - [[Dove Enigma]] (3 co-mentions)
 - [[Randgnid]] (3 co-mentions)
+- [[Templar Barracks]] (3 co-mentions)
 
 ## Biography
 

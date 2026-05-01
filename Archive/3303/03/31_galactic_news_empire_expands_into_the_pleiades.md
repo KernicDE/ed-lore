@@ -4,6 +4,13 @@ title: Galactic News  Empire Expands into the Pleiades
 slug: galactic_news_empire_expands_into_the_pleiades
 date: '3303-03-31'
 source: GitHub
+summary: The Empire expanded into the Pleiades Star Cluster by establishing outposts in the HR 1185 system. Freelance journalist Katherine Ryder commented that the conflict over meta-alloys between the Empire and Federation is a cold war that may lead to open war.
+player_impact: None
+persons:
+- Katherine Ryder
+groups:
+- Empire
+- Federation
 locations:
 - HR 1185
 - Maia
@@ -11,8 +18,7 @@ locations:
 topics:
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity
-  in the Pleiades region.
+modern_impact: The Empire's expansion into the Pleiades foreshadowed the intensifying cold war over meta-alloys and barnacle sites that would shape superpower rivalry in the region.
 legacy_weight: 3
 significance: medium
 ---

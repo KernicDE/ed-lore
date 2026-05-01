@@ -4,11 +4,17 @@ title: Galactic News  Reports Surface of Mysterious Attacks
 slug: galactic_news_reports_surface_of_mysterious_attacks
 date: '3303-05-20'
 source: GitHub
+summary: Eyewitnesses in the Maia system report mysterious attacks on Federal vessels with damage inconsistent with known weaponry, with unknown ships sighted at wreckage sites.
+player_impact: Pilots should exercise extreme caution in the Maia system and report any sightings of unknown ships to authorities.
+persons:
+- Aden Tanner
+groups: []
 locations:
 - Maia
+technologies: []
 topics:
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Reports of Thargoid attacks on Federal vessels in Maia escalate tensions and validate earlier warnings from Admiral Tanner.
 legacy_weight: 1
 significance: low
 ---

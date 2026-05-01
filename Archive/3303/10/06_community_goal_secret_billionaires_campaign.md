@@ -4,8 +4,15 @@ title: Community Goal  Secret Billionaires' Campaign
 slug: community_goal_secret_billionaires_campaign
 date: '3303-10-06'
 source: GitHub
+summary: The Secret Billionaires, based in I Carinae, have reported a sharp increase in criminal activity. After one of their CFOs was pirated, the board authorized an anti-piracy operation. They have placed a kill order on wanted ships and are offering generous rewards to pilots who help clean up the system.
+player_impact: Pilots can deliver bounty vouchers to Somerset Station in the I Carinae system for rewards.
+persons:
+- Commander Afterglow
+groups:
+- Secret Billionaires
 locations:
-- The organisation has responded with a
+- I Carinae
+- Somerset Station
 topics:
 - crime
 - piracy
@@ -13,7 +20,7 @@ topics:
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Corporate-funded anti-piracy operations like the Secret Billionaires' campaign demonstrate private sector responses to security threats.
 legacy_weight: 1
 significance: low
 ---

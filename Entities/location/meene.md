@@ -9,8 +9,8 @@ related_entities:
 - meene-defence-force
 - phoenix-base
 - sirius-corporation
+- felice-dock
 - mars
-- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **23**
 - [[Meene Defence Force]] (11 co-mentions)
 - [[Phoenix Base]] (11 co-mentions)
 - [[Sirius Corporation]] (11 co-mentions)
+- [[Felice Dock]] (6 co-mentions)
 - [[Mars]] (6 co-mentions)
-- [[Aegis]] (6 co-mentions)
 
 ## Biography
 

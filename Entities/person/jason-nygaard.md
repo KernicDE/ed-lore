@@ -3,11 +3,8 @@ id: jason-nygaard
 name: Jason Nygaard
 type: person
 first_seen_date: '3303-01-20'
-last_seen_date: '3303-01-20'
-mention_count: 1
-related_entities:
-- federal-times
-- earth
+last_seen_date: '3311-01-29'
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
@@ -15,13 +12,11 @@ related_entities:
 # Jason Nygaard
 
 First mentioned: **3303-01-20**  
-Last mentioned: **3303-01-20**  
-Total mentions: **1**
+Last mentioned: **3311-01-29**  
+Total mentions: **2**
 
 ## Related
 
-- [[Federal Times]] (1 co-mentions)
-- [[Earth]] (1 co-mentions)
 
 ## Biography
 

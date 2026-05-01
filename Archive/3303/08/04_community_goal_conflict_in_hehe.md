@@ -4,12 +4,22 @@ title: Community Goal  Conflict in Hehe
 slug: community_goal_conflict_in_hehe
 date: '3303-08-04'
 source: GitHub
+summary: Conflict has erupted between Hehe Federal Interstellar and Hehe Camorra in
+  the Hehe system over territorial control. Both factions have issued calls for support
+  and pledged to reward combat pilots who join their respective causes.
+player_impact: Support either Hehe Federal Interstellar or Hehe Camorra in the conflict
+  for combat bonds and rewards.
+persons: []
+groups:
+- Hehe Federal Interstellar
+- Hehe Camorra
 locations:
-- A representative of
-- Authorities in the Hehe
+- Hehe
+technologies: []
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Territorial faction conflict in Hehe demonstrates the ongoing instability
+  of local power struggles and the role of independent pilots in system control.
 legacy_weight: 2
 significance: low
 ---

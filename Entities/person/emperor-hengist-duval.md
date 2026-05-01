@@ -27,7 +27,7 @@ Total mentions: **3**
 - [[Capitol]] (3 co-mentions)
 - [[Imperial Palace]] (3 co-mentions)
 - [[Chancellor Anders Blaine]] (2 co-mentions)
-- [[Arissa-Lavigny Duval]] (2 co-mentions)
+- [[Arissa Lavigny-Duval]] (2 co-mentions)
 
 ## Biography
 

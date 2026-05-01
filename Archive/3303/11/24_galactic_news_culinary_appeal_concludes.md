@@ -4,11 +4,18 @@ title: Galactic News  Culinary Appeal Concludes
 slug: galactic_news_culinary_appeal_concludes
 date: '3303-11-24'
 source: GitHub
+summary: Independent Leesti for Equality has announced the successful conclusion of its appeal for rare food and drink. A massive influx of deliveries to George Lucas station enabled the Lunch in Leesti gastronomic festival.
+player_impact: Pilots who contributed can collect rewards from George Lucas Station in the Leesti system.
+persons:
+- Elias Hampton
+groups:
+- Independent Leesti for Equality
 locations:
 - Leesti
+- George Lucas Station
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The Lunch in Leesti festival celebrates galactic culinary diversity and community participation.
 legacy_weight: 2
 significance: low
 ---

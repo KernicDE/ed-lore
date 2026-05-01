@@ -4,13 +4,18 @@ title: Galactic News  Aliens Walk among Us!
 slug: galactic_news_aliens_walk_among_us
 date: '3303-01-28'
 source: GitHub
+summary: Conspiracy theorist Ricardo Bentonio claims on his programme 'Behind the Curtain' that Thargoids are exerting direct influence over human society. His claims are largely dismissed by media and political figures.
+player_impact: None
+persons:
+- Ricardo Bentonio
+groups: []
+locations: []
+technologies: []
 topics:
 - alien contact
-- piracy
-- ship
+- media
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid conspiracy theories emerge in popular media, reflecting public anxiety over confirmed alien contact.
 legacy_weight: 4
 significance: high
 ---

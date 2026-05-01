@@ -4,12 +4,17 @@ title: Community Goal  Peacock Patrons of Law Issue Appeal
 slug: community_goal_peacock_patrons_of_law_issue_appeal
 date: '3303-02-09'
 source: GitHub
+summary: The Peacock Patrons of Law place an open order for Robotics, Ion Distributors and Emergency Power Cells to support their operations.
+player_impact: Deliver Robotics, Ion Distributors and Emergency Power Cells to Phillips Dock in the Peacock system.
+persons: []
+groups:
+- Peacock Patrons of Law
 locations:
-- Io
+- Peacock
+- Phillips Dock
 topics:
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Standard commodity community goal supporting faction operations in the Peacock system.
 legacy_weight: 2
 significance: low
 ---

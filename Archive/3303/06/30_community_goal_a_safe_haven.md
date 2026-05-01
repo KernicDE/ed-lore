@@ -4,20 +4,22 @@ title: Community Goal  A Safe Haven
 slug: community_goal_a_safe_haven
 date: '3303-06-30'
 source: GitHub
-entities:
+summary: The Pilots Federation announced a peacekeeping initiative centred on the LHS 3447, Eravate and Asellus Primus systems to minimise criminal activity and ensure the safety of inexperienced pilots.
+player_impact: Independent combat pilots are called upon to support the peacekeeping initiative. Rewards are available from Adle's Armada, LHS 3447 Dynamic and Co, and Asellus Primus Gold Legal Ind.
+persons:
 - Mandelbaum
 groups:
 - Pilots Federation
+- Adle's Armada
+- LHS 3447 Dynamic and Co
+- Asellus Primus Gold Legal Ind.
 locations:
-- Authorities in the pertinent
-- Eravate and Asellus Primus
-topics:
-- crime
-- safety
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 1
-significance: low
+- LHS 3447
+- Eravate
+- Asellus Primus
+- Cleve Hub
+technologies: []
+modern_impact: Established a Pilots Federation peacekeeping model to protect new pilots in high-traffic starter systems.
 ---
 
 Community Goal: A Safe Haven

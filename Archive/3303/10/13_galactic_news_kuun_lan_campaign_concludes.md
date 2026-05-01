@@ -4,10 +4,19 @@ title: Galactic News  Kuun Lan Campaign Concludes
 slug: galactic_news_kuun_lan_campaign_concludes
 date: '3303-10-13'
 source: GitHub
+summary: The Kuun-Lan's appeal for commodities concluded successfully with a massive influx of deliveries to Lomonosov City. The organisation expressed gratitude to all participating pilots.
+player_impact: Collect rewards from Lomonosov City in the HIP 104292 system.
+persons: []
+groups:
+- Kuun-Lan
+locations:
+- HIP 104292
+- Lomonosov City
+technologies: []
 topics:
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: A regional trade initiative supporting the economic development of a
+  remote system.
 legacy_weight: 2
 significance: low
 ---

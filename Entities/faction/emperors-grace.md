@@ -4,7 +4,7 @@ name: Emperor's Grace
 type: faction
 first_seen_date: '3301-06-08'
 last_seen_date: '3304-07-15'
-mention_count: 12
+mention_count: 10
 related_entities:
 - didiomanja-emperors-grace
 - didiomanja
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-06-08**  
 Last mentioned: **3304-07-15**  
-Total mentions: **12**
+Total mentions: **10**
 
 ## Related
 

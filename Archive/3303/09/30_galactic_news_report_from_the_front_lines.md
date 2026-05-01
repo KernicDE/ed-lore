@@ -4,16 +4,25 @@ title: Galactic News  Report from the Front Lines
 slug: galactic_news_report_from_the_front_lines
 date: '3303-09-30'
 source: GitHub
+summary: Independent pilots have begun testing new anti-Thargoid weaponry developed
+  by Aegis. Admiral Aden Tanner reports that while the weapons work as intended, Thargoid
+  vessels are highly resilient and can only be destroyed through collective efforts,
+  with lone pilots and small groups being annihilated.
+player_impact: Participate in coordinated anti-Thargoid combat operations using Aegis-developed
+  weaponry. Avoid solo engagements with Thargoid vessels.
+persons:
+- Aden Tanner
 groups:
 - Aegis
-locations:
-- Aegis
+locations: []
+technologies: []
 topics:
 - alien contact
 - ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Early field reports on Aegis anti-Thargoid weapons established the understanding
+  that Thargoid ships require coordinated group attacks, fundamentally shaping AX combat
+  doctrine.
 legacy_weight: 5
 significance: high
 ---

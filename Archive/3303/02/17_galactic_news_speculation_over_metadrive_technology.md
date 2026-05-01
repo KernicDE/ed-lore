@@ -4,16 +4,17 @@ title: Galactic News  Speculation over MetaDrive Technology
 slug: galactic_news_speculation_over_metadrive_technology
 date: '3303-02-17'
 source: GitHub
+summary: Leaked MetaDrive Inc. audit records mention 'wake suppression', prompting speculation about experimental hyperdrive research. Sirius Corporation dismisses the leak as referring to sleep-management technology.
+player_impact: None
+persons: []
 groups:
-- Sirius Corp
 - Sirius Corporation
-locations:
-- MetaDrive's work on hyperdrive
-- Sirius
+- MetaDrive Inc.
+locations: []
 topics:
 - corporate expansion
 - research
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Leaked MetaDrive documents fuel speculation about wake suppression and next-generation hyperdrive technology.
 legacy_weight: 2
 significance: low
 ---

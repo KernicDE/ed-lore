@@ -4,21 +4,20 @@ title: Galactic News  Ram Tah Makes Breakthrough
 slug: galactic_news_ram_tah_makes_breakthrough
 date: '3303-02-13'
 source: GitHub
-entities:
-- Noodlz05
-locations:
+summary: Engineer Ram Tah isolates a signal in the Guardian monolith network allowing scanners to identify sites within 1,000 light seconds. Commander Noodlz05 and wingmates are specifically thanked for their contributions.
+player_impact: Use Ram Tah's breakthrough to more easily locate Guardian ruins within 1,000 light seconds of known sites.
+persons:
 - Ram Tah
-- Synuefe
+- Commander Noodlz05
+groups: []
+locations: []
 topics:
 - engineering
 - exploration
 - research
-- sport
-- war
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: Guardian site research expands scientific understanding of ancient
-  alien civilisations and their technology.
+modern_impact: Technological breakthrough dramatically simplifying Guardian site discovery, accelerating xenoarchaeological research.
 legacy_weight: 4
 significance: high
 ---

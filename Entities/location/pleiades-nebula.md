@@ -8,9 +8,9 @@ mention_count: 56
 related_entities:
 - aegis
 - maia
+- federation
 - alliance
-- merope
-- pleiades-sector-ir-w-d1-55
+- empire
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **56**
 
 - [[Aegis]] (28 co-mentions)
 - [[Maia]] (11 co-mentions)
+- [[Federation]] (10 co-mentions)
 - [[Alliance]] (9 co-mentions)
-- [[Merope]] (7 co-mentions)
-- [[Pleiades Sector IR-W d1-55]] (7 co-mentions)
+- [[Empire]] (9 co-mentions)
 
 ## Biography
 

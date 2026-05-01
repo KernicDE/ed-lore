@@ -7,6 +7,7 @@ last_seen_date: '3303-10-20'
 mention_count: 1
 related_entities:
 - colonia-council
+- the-nameless
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,6 +21,7 @@ Total mentions: **1**
 ## Related
 
 - [[Colonia Council]] (1 co-mentions)
+- [[The Nameless]] (1 co-mentions)
 
 ## Biography
 

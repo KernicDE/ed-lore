@@ -4,14 +4,21 @@ title: Freelance Report  Imperial Factions React to Discovery
 slug: freelance_report_imperial_factions_react_to_discovery
 date: '3303-01-10'
 source: GitHub
-entities:
+summary: Imperial factions The Chapterhouse of Inquisition, Lavigny's Legion, and the 9th Legion issue strict no-fire orders to their pilots regarding alien ship encounters. Governor Shelby Ortega urges caution, noting the vessels can disable ship systems at will.
+player_impact: None
+persons:
 - Shelby Ortega
+groups:
+- The Chapterhouse of Inquisition
+- Lavigny's Legion
+- 9th Legion
 locations:
 - Kamadhenu
+technologies: []
 topics:
 - alien contact
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Imperial factions establish early non-aggression protocols toward alien vessels, advising against rash engagement.
 legacy_weight: 1
 significance: low
 ---

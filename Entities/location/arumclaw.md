@@ -6,9 +6,9 @@ first_seen_date: '3303-05-04'
 last_seen_date: '3303-05-04'
 mention_count: 1
 related_entities:
-- kahina-tijani-loren
 - alliance
 - teorge
+- 46-eridani
 ---
 
 <!-- AUTO-GENERATED -->
@@ -21,9 +21,9 @@ Total mentions: **1**
 
 ## Related
 
-- [[Kahina Tijani Loren]] (1 co-mentions)
 - [[Alliance]] (1 co-mentions)
 - [[Teorge]] (1 co-mentions)
+- [[46 Eridani]] (1 co-mentions)
 
 ## Biography
 

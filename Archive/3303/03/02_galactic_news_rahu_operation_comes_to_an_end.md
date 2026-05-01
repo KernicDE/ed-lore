@@ -4,12 +4,20 @@ title: Galactic News  Rahu Operation comes to an End
 slug: galactic_news_rahu_operation_comes_to_an_end
 date: '3303-03-02'
 source: GitHub
+summary: The Alliance operation to rescue convoy crew from slavers in the Rahu system concludes successfully. Hundreds of pilots recovered escape pods and neutralised criminal ships.
+player_impact: Collect rewards from Acharya Station in the Rahu system.
+persons: []
 groups:
 - Alliance
+locations:
+- Rahu
+- Acharya Station
 topics:
+- crime
+- humanitarian
 - slavery
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Successful Alliance-led rescue preventing the enslavement of hundreds of convoy survivors through community support.
 legacy_weight: 2
 significance: low
 ---

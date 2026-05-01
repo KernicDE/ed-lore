@@ -4,15 +4,18 @@ title: Galactic News  Asteroid Destroyed in HIP 16497
 slug: galactic_news_asteroid_destroyed_in_hip_16497
 date: '3303-02-25'
 source: GitHub
+summary: An asteroid in the HIP 16497 system inexplicably disappears, leaving an expanding dust cloud. Kate Panamen of the Mars High Astrocartography Institute calls the event peculiar. Both superpowers deny experimental weapon testing.
+player_impact: None
+persons:
+- Kate Panamen
+groups:
+- Mars High Astrocartography Institute
 locations:
 - HIP 16497
-- Mars
-- Pan
 topics:
 - exploration
 - investigation
-arc_id: unknown-artefacts
-modern_impact: Notable exploration achievement.
+modern_impact: Unexplained asteroid destruction raising questions about unknown phenomena or covert weapons testing.
 legacy_weight: 2
 significance: low
 ---

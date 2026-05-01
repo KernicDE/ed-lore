@@ -4,12 +4,20 @@ title: Galactic News  Alliance Defends Research Initiative
 slug: galactic_news_alliance_defends_research_initiative
 date: '3303-08-16'
 source: GitHub
+summary: The Alliance defends its independent Thargoid research initiative against
+  criticism that it undermines the joint-superpower Aegis effort. An Alliance spokesperson
+  explains that the campaign was planned before Aegis was established and that the resulting
+  instruments will be made available to Aegis.
+player_impact: None
+persons: []
 groups:
-- Aegis
 - Alliance
-locations:
 - Aegis
+- Federal Republican Command
+- Kaushpoos Pro-Alliance Union
+locations:
 - Kaushpoos
+technologies: []
 topics:
 - alien contact
 - research

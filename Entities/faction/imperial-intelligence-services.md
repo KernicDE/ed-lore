@@ -1,0 +1,26 @@
+---
+id: imperial-intelligence-services
+name: Imperial intelligence services
+type: faction
+first_seen_date: '3303-04-08'
+last_seen_date: '3303-04-08'
+mention_count: 1
+related_entities:
+- col-70-sector
+---
+
+<!-- AUTO-GENERATED -->
+
+# Imperial intelligence services
+
+First mentioned: **3303-04-08**  
+Last mentioned: **3303-04-08**  
+Total mentions: **1**
+
+## Related
+
+- [[COL 70 sector]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

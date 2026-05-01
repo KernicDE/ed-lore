@@ -4,13 +4,21 @@ title: Community Goal  Alectrona Imperial Society Issues Appeal
 slug: community_goal_alectrona_imperial_society_issues_appeal
 date: '3303-03-16'
 source: GitHub
+summary: The Empire announced plans to construct an outpost in the Andhrimi system. The Alectrona Imperial Society is coordinating the campaign and has requested building fabricators, energy grid assemblies and lithium.
+player_impact: Deliver building fabricators, energy grid assemblies and lithium to Yurchikhin Station in the Andhrimi system.
+persons: []
+groups:
+- Alectrona Imperial Society
+- Empire
+- Federation
 locations:
-- Yurchikhin Station in the Andhrimi
+- Andhrimi
+- Yurchikhin Station
 topics:
 - construction
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: None
 legacy_weight: 2
 significance: low
 ---

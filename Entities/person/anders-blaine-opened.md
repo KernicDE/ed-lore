@@ -21,7 +21,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[Arissa-Lavigny Duval]] (1 co-mentions)
+- [[Arissa Lavigny-Duval]] (1 co-mentions)
 - [[Blaine Opens Senate Debate]] (1 co-mentions)
 - [[Capitol]] (1 co-mentions)
 

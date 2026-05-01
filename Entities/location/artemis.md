@@ -2,32 +2,30 @@
 id: artemis
 name: Artemis
 type: location
-first_seen_date: '3303-12-02'
+first_seen_date: '3312-03-03'
 last_seen_date: '3312-03-03'
-mention_count: 2
+mention_count: 1
 related_entities:
-- alba-tesreau
-- aegis
-- imperial-herald
-- 49-arietis
-- 64-arietis
+- october-consortium
+- jokers-deck
+- supratech
+- hip-87621
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Artemis
 
-First mentioned: **3303-12-02**  
+First mentioned: **3312-03-03**  
 Last mentioned: **3312-03-03**  
-Total mentions: **2**
+Total mentions: **1**
 
 ## Related
 
-- [[Alba Tesreau]] (1 co-mentions)
-- [[Aegis]] (1 co-mentions)
-- [[Imperial Herald]] (1 co-mentions)
-- [[49 Arietis]] (1 co-mentions)
-- [[64 Arietis]] (1 co-mentions)
+- [[October Consortium]] (1 co-mentions)
+- [[Jokers' Deck]] (1 co-mentions)
+- [[Supratech]] (1 co-mentions)
+- [[HIP 87621]] (1 co-mentions)
 
 ## Biography
 

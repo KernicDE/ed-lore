@@ -2,9 +2,9 @@
 id: lavignys-legion
 name: Lavigny's Legion
 type: faction
-first_seen_date: '3308-09-22'
+first_seen_date: '3303-01-10'
 last_seen_date: '3308-09-29'
-mention_count: 2
+mention_count: 3
 related_entities:
 - citizens-relief-trust
 - pilots-federation
@@ -17,9 +17,9 @@ related_entities:
 
 # Lavigny's Legion
 
-First mentioned: **3308-09-22**  
+First mentioned: **3303-01-10**  
 Last mentioned: **3308-09-29**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

@@ -4,7 +4,7 @@ name: Mars
 type: location
 first_seen_date: '3301-02-17'
 last_seen_date: '3311-12-18'
-mention_count: 83
+mention_count: 82
 related_entities:
 - sol
 - alliance
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-17**  
 Last mentioned: **3311-12-18**  
-Total mentions: **83**
+Total mentions: **82**
 
 ## Related
 

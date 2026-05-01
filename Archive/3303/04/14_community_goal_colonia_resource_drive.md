@@ -4,9 +4,15 @@ title: Community Goal  Colonia Resource Drive
 slug: community_goal_colonia_resource_drive
 date: '3303-04-14'
 source: GitHub
+summary: The Colonia Co-operative has placed an open order for mined Gallite, Gold, and Methanol Monohydrate Crystals to develop infrastructure throughout Colonia and surrounding systems.
+player_impact: Pilots can deliver Gallite, Gold, and Methanol Monohydrate Crystals to Colonia Dream in the Eol Prou Lw-L C8-76 system for generous premiums.
+persons: []
+groups:
+- Colonia Co-operative
 locations:
 - Colonia
 - Eol Prou
+technologies: []
 topics:
 - corporate expansion
 arc_id: jaques-station

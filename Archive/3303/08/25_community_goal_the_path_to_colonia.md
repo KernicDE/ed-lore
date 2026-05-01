@@ -4,12 +4,22 @@ title: Community Goal  The Path to Colonia
 slug: community_goal_the_path_to_colonia
 date: '3303-08-25'
 source: GitHub
+summary: The Kamadhenu Chapterhouse of Inquisition plans to establish three starports
+  between the core systems and Colonia to create the Blue Star Line freight and passenger
+  service. The organisation has placed an open order for gold, robotics and auto-fabricators
+  for delivery to Shajn Market in the Kamadhenu system.
+player_impact: Deliver gold, robotics and auto-fabricators to Shajn Market in Kamadhenu.
+  Eliminate wanted ships to protect trade routes.
+persons:
+- Shelby Ortega
 groups:
+- Kamadhenu Chapterhouse of Inquisition
 - Colonia Council
 locations:
 - Colonia
 - Kamadhenu
-- Shajn Market in the Kamadhenu
+- Shajn Market
+technologies: []
 topics:
 - construction
 - trade

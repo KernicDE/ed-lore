@@ -6,11 +6,11 @@ first_seen_date: '3303-12-02'
 last_seen_date: '3303-12-21'
 mention_count: 4
 related_entities:
-- titan
+- titans-daughter
 - aegis
 - oracle
-- alba-tesreau
-- imperial-herald
+- arcs-faith
+- artemis-lodge
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **4**
 
 ## Related
 
-- [[Titan]] (4 co-mentions)
+- [[Titan's Daughter]] (4 co-mentions)
 - [[Aegis]] (3 co-mentions)
 - [[Oracle]] (2 co-mentions)
-- [[Alba Tesreau]] (1 co-mentions)
-- [[Imperial Herald]] (1 co-mentions)
+- [[Arc's Faith]] (1 co-mentions)
+- [[Artemis Lodge]] (1 co-mentions)
 
 ## Biography
 

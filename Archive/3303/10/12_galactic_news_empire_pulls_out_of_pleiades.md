@@ -4,13 +4,21 @@ title: Galactic News  Empire Pulls Out of Pleiades
 slug: galactic_news_empire_pulls_out_of_pleiades
 date: '3303-10-12'
 source: GitHub
+summary: Following the Federation's withdrawal, the Empire has pulled its ships from the Pleiades Nebula, signaling the end of the Federal-Imperial cold war. The conflict began over control of meta-alloys in the Merope system.
+player_impact: None
+persons:
+- Daxton Sung
 groups:
+- Empire
+- Federation
 - Aegis
 - Imperial Herald
 locations:
-- Aegis
-- Merope
 - Pleiades Nebula
+- Merope
+technologies:
+- Majestic-class Interdictor
+- meta-alloys
 topics:
 - alien contact
 - war

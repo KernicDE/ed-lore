@@ -4,17 +4,28 @@ title: Community Goal  The Sigma Summit
 slug: community_goal_the_sigma_summit
 date: '3303-08-18'
 source: GitHub
+summary: Secoya Emperor's Grace announces it will host the Sigma Summit, a three-day
+  conference for powerful Imperial figures in the Secoya system. The organisation has
+  placed an open order for luxury commodities including master chefs, Kamitra cigars
+  and Sanuma decorative meat for delivery to Joy Port.
+player_impact: Deliver master chefs, Kamitra cigars and Sanuma decorative meat to Joy
+  Port in the Secoya system.
+persons:
+- Sal Riley
 groups:
-- Emperor's Grace
+- Secoya Emperor's Grace
 locations:
 - Secoya
+- Joy Port
+technologies: []
 topics:
 - diplomacy
 - sport
 - succession
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: The Sigma Summit reinforces the influence of Imperial elite gatherings
+  on policy and showcases the economic pull of luxury commodity markets in the Empire.
 legacy_weight: 1
 significance: low
 ---

@@ -4,10 +4,18 @@ title: Galactic News  New Research Centre at Thargoid Site
 slug: galactic_news_new_research_centre_at_thargoid_site
 date: '3303-07-15'
 source: GitHub
-entities:
-- Ahmed
+summary: The Oracle, an Ocellus starport, has relocated to the Pleiades Sector IR-W
+  d1-55 system to establish a dedicated research centre at a Thargoid structure site.
+  The starport's administrator hopes the facility will help answer fundamental questions
+  about Thargoid intentions and communication.
+player_impact: None
+persons: []
+groups: []
 locations:
+- Pleiades Sector IR-W d1-55
 - Oracle
+technologies:
+- Ocellus starport
 topics:
 - alien contact
 - construction

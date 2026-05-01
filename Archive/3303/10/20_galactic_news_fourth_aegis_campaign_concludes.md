@@ -4,12 +4,17 @@ title: Galactic News  Fourth Aegis Campaign Concludes
 slug: galactic_news_fourth_aegis_campaign_concludes
 date: '3303-10-20'
 source: GitHub
+summary: The fourth phase of Aegis's campaign concluded successfully. Materials delivered by pilots will be used to test and mass-produce a shutdown-field neutraliser developed by engineer Elvira Martuuk to counter Thargoid immobilising fields.
+player_impact: Collect rewards from Cremona Prospect in the Khun system.
+persons:
+- Elvira Martuuk
 groups:
 - Aegis
 locations:
-- Aegis
-- Elvira Martuuk
 - Khun
+- Cremona Prospect
+technologies:
+- shutdown-field neutraliser
 topics:
 - alien contact
 - engineering

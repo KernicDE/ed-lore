@@ -4,18 +4,15 @@ title: Galactic News  Colonia Population Boom
 slug: galactic_news_colonia_population_boom
 date: '3303-06-25'
 source: GitHub
+summary: The Colonia system has experienced a massive influx of immigrants following a migration subsidy from the Colonia Council, designed to stimulate economic growth by attracting skilled workers.
+player_impact: None
+persons: []
 groups:
 - Colonia Council
 locations:
 - Colonia
-topics:
-- trade
-- war
-arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
-legacy_weight: 3
-significance: medium
+technologies: []
+modern_impact: Colonia's rapid growth as an alternative to core-system political conflict establishes it as a significant deep-space settlement.
 ---
 
 Galactic News: Colonia Population Boom

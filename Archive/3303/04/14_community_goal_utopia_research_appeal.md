@@ -4,15 +4,21 @@ title: Community Goal  Utopia Research Appeal
 slug: community_goal_utopia_research_appeal
 date: '3303-04-14'
 source: GitHub
+summary: The Utopia Commune has issued a request for zirconium, conductive ceramics, and strange wake solutions for a forthcoming research and development programme.
+player_impact: Pilots can deliver zirconium, conductive ceramics, and strange wake solutions to Cenker City in the Gucumadhyas system for above-market prices.
+persons:
+- Pranav Antal
 groups:
-- Utopia
+- Utopia Commune
 locations:
-- Cenker City in the Gucumadhyas
+- Cenker City
+- Gucumadhyas
+technologies: []
 topics:
 - research
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Utopia's research programme leverages pilot-delivered commodities to advance its technological and scientific agenda.
 legacy_weight: 2
 significance: low
 ---

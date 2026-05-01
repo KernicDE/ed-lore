@@ -4,15 +4,23 @@ title: Freelance Report  Mercury Seven Expedition Returns
 slug: freelance_report_mercury_seven_expedition_returns
 date: '3303-06-04'
 source: GitHub
+summary: The Mercury Seven expedition returns to Colonia after 96 days of deep-space exploration, with discoveries in the Orio-Persean Conflux, Wagar's Reach, and Ishtar.
+player_impact: Explorers can attend the expedition's findings presentation at Colonia Dream in the Eol Prou LW-L C8-76 system on 11 June 3303 at 18:00.
+persons:
+- Admiral Trajan
+groups:
+- Colonia Citizens Network
 locations:
 - Colonia
 - Eol Prou
-- Mercury
+- Orio-Persean Conflux
+- Wagar's Reach
+- Ishtar
+technologies: []
 topics:
 - exploration
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: The Mercury Seven expedition's discoveries in the Orio-Persean Conflux and surrounding regions contribute to deep-space cartographic knowledge.
 legacy_weight: 3
 significance: medium
 ---

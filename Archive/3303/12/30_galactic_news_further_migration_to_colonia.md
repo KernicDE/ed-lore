@@ -4,6 +4,10 @@ title: Galactic News  Further Migration to Colonia
 slug: galactic_news_further_migration_to_colonia
 date: '3303-12-30'
 source: GitHub
+summary: Huge numbers of citizens continue fleeing to Colonia, fearing the Thargoids will target the core systems next. The Colonia Council confirmed that refugee numbers have skyrocketed, accelerated by recent starport attacks. Spokesperson Magen Wolfe stated that while Colonia welcomes all seeking sanctuary, the core systems are no more likely to be targeted than Colonia, and the region has limits to how many people it can support.
+player_impact: None
+persons:
+- Magen Wolfe
 groups:
 - Colonia Council
 locations:
@@ -14,8 +18,7 @@ topics:
 - construction
 - humanitarian
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: The mass migration to Colonia strains the region's capacity and demonstrates the widespread civilian fear of Thargoid expansion beyond the Pleiades.
 legacy_weight: 5
 significance: high
 ---

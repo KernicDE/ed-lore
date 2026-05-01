@@ -4,14 +4,26 @@ title: Freelance Report  Fragile Unity in Federal Congress
 slug: freelance_report_fragile_unity_in_federal_congress
 date: '3303-07-01'
 source: GitHub
-entities:
+summary: Federal Congress shows rare unity as members rally around President Zachary
+  Hudson following reports of Thargoid attacks in the Pleiades. Shadow President Felicia
+  Winters remains non-committal on Hudson's militaristic rhetoric, while attention
+  turns to former President Jasmina Halsey's close relationship with Alliance Prime
+  Minister Edmund Mahon.
+player_impact: None
+persons:
+- Zachary Hudson
+- Jasmina Halsey
 - Felicia Winters
+- Edmund Mahon
 groups:
 - Alliance
 - Federal Congress
+- Republican Party
+- Liberal Party
 locations:
 - Kappa Fornacis
 - Pleiades Nebula
+technologies: []
 topics:
 - alien contact
 - narcotics

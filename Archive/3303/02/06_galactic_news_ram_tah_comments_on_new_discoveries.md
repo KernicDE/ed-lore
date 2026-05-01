@@ -4,20 +4,21 @@ title: Galactic News  Ram Tah Comments on New Discoveries
 slug: galactic_news_ram_tah_comments_on_new_discoveries
 date: '3303-02-06'
 source: GitHub
-locations:
+summary: Engineer Ram Tah comments on newly discovered Guardian sites, noting that while structures follow a pattern, codex-data pillar configurations differ, implying unique data at each location. He urges prompt data delivery.
+player_impact: Deliver recovered Guardian codex data to Ram Tah before his deciphering software expires.
+persons:
 - Ram Tah
-- Synuefe
+groups: []
+locations:
 - Synuefe XR-H d11-102
 topics:
 - engineering
 - exploration
 - investigation
 - research
-- war
 - xenoarchaeology
 arc_id: guardian-ancients
-modern_impact: Guardian site research expands scientific understanding of ancient
-  alien civilisations and their technology.
+modern_impact: Confirmation that Guardian sites contain unique codex data, encouraging comprehensive exploration of all discovered ruins.
 legacy_weight: 4
 significance: high
 ---

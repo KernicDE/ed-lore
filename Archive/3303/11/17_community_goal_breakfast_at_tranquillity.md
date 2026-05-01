@@ -4,17 +4,25 @@ title: Community Goal  Breakfast at Tranquillity
 slug: community_goal_breakfast_at_tranquillity
 date: '3303-11-17'
 source: GitHub
+summary: The Guardians of Tranquillity have announced plans to host a food festival in the Tarach Tor system, prompting criticism from Independent Leesti for Equality, which is coordinating a similar event in Leesti. The Guardians denied the event is an attempt to upstage their rivals. Spokesperson General Hunter O'Brien stated the festival will showcase regional cuisine and libations from Tarach Tor's vineyards and breweries.
+player_impact: Pilots can deliver Azure Milk, Diso Ma Corn, Lavian Brandy, Uszaian Tree Grubs, and Orrerian Vicious Brew to Tranquillity starport in the Tarach Tor system.
+persons:
+- Hunter O'Brien
+groups:
+- Guardians of Tranquillity
+- Independent Leesti for Equality
 locations:
+- Tarach Tor
+- Tranquillity
+- Leesti
 - Diso
 - Lave
-- Leesti
-- The people of the Leesti
 topics:
 - construction
 - festival
 - war
 - xenoarchaeology
-modern_impact: Community celebration bringing pilots together.
+modern_impact: Rival food festivals in Tarach Tor and Leesti demonstrate the lighter side of galactic culture and community competition.
 legacy_weight: 1
 significance: low
 ---

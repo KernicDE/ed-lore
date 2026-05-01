@@ -1,18 +1,18 @@
 ---
 id: independent-engineers
-name: Independent Engineers
+name: Independent engineers
 type: faction
-first_seen_date: '3304-05-24'
-last_seen_date: '3304-05-24'
+first_seen_date: '3303-01-11'
+last_seen_date: '3303-01-11'
 mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Independent Engineers
+# Independent engineers
 
-First mentioned: **3304-05-24**  
-Last mentioned: **3304-05-24**  
+First mentioned: **3303-01-11**  
+Last mentioned: **3303-01-11**  
 Total mentions: **1**
 
 ## Related

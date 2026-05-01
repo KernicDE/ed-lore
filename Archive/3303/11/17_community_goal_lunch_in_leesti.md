@@ -4,15 +4,22 @@ title: Community Goal  Lunch in Leesti
 slug: community_goal_lunch_in_leesti
 date: '3303-11-17'
 source: GitHub
+summary: Independent Leesti for Equality is hosting 'Lunch in Leesti', a week-long gastronomic festival at George Lucas station celebrating Leesti's finest restaurants and wineries. The event features food prepared by the Master Chefs of Noti and intergalactic delicacies imported at great expense.
+player_impact: Pilots can deliver Aepyornis Eggs, Ceti Rabbits, Tanmark Tranquil Tea, Tarach Spice, and Utgaroar Millennial Eggs to George Lucas Station in Leesti.
+persons:
+- Elias Hampton
+groups:
+- Independent Leesti for Equality
 locations:
 - Leesti
+- George Lucas Station
 - Noti
 - Tanmark
 topics:
 - festival
 - trade
 - war
-modern_impact: Community celebration bringing pilots together.
+modern_impact: Cultural events like Lunch in Leesti showcase the diversity of galactic cuisine and bring pilots together for community celebrations.
 legacy_weight: 1
 significance: low
 ---

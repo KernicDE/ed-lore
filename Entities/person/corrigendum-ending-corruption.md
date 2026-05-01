@@ -19,7 +19,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[Arissa-Lavigny Duval]] (1 co-mentions)
+- [[Arissa Lavigny-Duval]] (1 co-mentions)
 
 ## Biography
 

@@ -4,17 +4,23 @@ title: Galactic News  Festive Appeal Concludes
 slug: galactic_news_festive_appeal_concludes
 date: '3303-01-05'
 source: GitHub
+summary: Clauss Incorporated concludes its festive appeal to transport personal gifts from Frost Dock in Njambalba to Clauss Port in Santa Muerte. CEO Nicolas St Clauss thanked participants.
+player_impact: Collect rewards from Clauss Port in the Santa Muerte system.
+persons:
+- Nicolas St Clauss
 groups:
 - Clauss Incorporated
 locations:
-- Clauss Port in the Santa Muerte
-- Frost Dock in the Njambalba
+- Santa Muerte
+- Clauss Port
+- Njambalba
+- Frost Dock
+technologies: []
 topics:
 - corporate expansion
 - festival
-- ship
-- war
-modern_impact: Community celebration bringing pilots together.
+- trade
+modern_impact: Seasonal community goal delivering personal gifts from Njambalba to Santa Muerte.
 legacy_weight: 1
 significance: low
 ---

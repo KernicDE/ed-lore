@@ -4,12 +4,18 @@ title: Galactic News  Wolves of Jonai Appeal Concludes
 slug: galactic_news_wolves_of_jonai_appeal_concludes
 date: '3303-11-17'
 source: GitHub
+summary: The Central Command of the Wolves of Jonai has announced the successful conclusion of its campaign to build an asteroid base among the rings of HR 7047 2 C. Hundreds of pilots delivered construction materials to Grant Dock and eliminated agitators in the HR 7047 system.
+player_impact: Pilots who contributed can collect rewards from Grant Dock in the HR 7047 system.
+persons: []
+groups:
+- Wolves of Jonai
 locations:
 - HR 7047
+- Grant Dock
 topics:
 - construction
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: The Wolves of Jonai's new asteroid base expands their presence and control in the HR 7047 system.
 legacy_weight: 2
 significance: low
 ---

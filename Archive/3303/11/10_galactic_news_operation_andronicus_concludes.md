@@ -4,16 +4,21 @@ title: Galactic News  Operation Andronicus Concludes
 slug: galactic_news_operation_andronicus_concludes
 date: '3303-11-10'
 source: GitHub
+summary: Admiral Aden Tanner has confirmed that Operation Andronicus reached a successful conclusion. Hundreds of pilots delivered a strategic blow to the Thargoids in the Pleiades Sector IR-W d1-55. Tanner stated that small ships piloted by seasoned Commanders are the best hope of addressing the Thargoid threat for the present.
+player_impact: Pilots who participated can collect rewards from The Oracle in the Pleiades Sector IR-W d1-55 system.
+persons:
+- Aden Tanner
+groups:
+- Aegis
 locations:
-- Oracle
 - Pleiades Sector IR-W d1-55
+- Oracle
 topics:
 - alien contact
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Operation Andronicus's success validates the militia approach to anti-Thargoid warfare, establishing a template for future pilot-led operations.
 legacy_weight: 5
 significance: high
 ---

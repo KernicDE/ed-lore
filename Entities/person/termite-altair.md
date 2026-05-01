@@ -5,8 +5,6 @@ type: person
 first_seen_date: '3303-01-12'
 last_seen_date: '3303-01-12'
 mention_count: 1
-related_entities:
-- fuel-rats
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Fuel Rats]] (1 co-mentions)
 
 ## Biography
 

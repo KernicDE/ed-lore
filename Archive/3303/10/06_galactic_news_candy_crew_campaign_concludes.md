@@ -4,9 +4,17 @@ title: Galactic News  Candy Crew Campaign Concludes
 slug: galactic_news_candy_crew_campaign_concludes
 date: '3303-10-06'
 source: GitHub
+summary: The Candy Crew Guild has announced the successful conclusion of its appeal for palladium, titanium, and robotics. A massive influx of deliveries to Bella Port enabled construction of the Dan Gurney Drive Yards and the Cave Johnson Memorial Science Lab.
+player_impact: Pilots who contributed can collect rewards from Bella Port in the Irusan system.
+persons: []
+groups:
+- Candy Crew Guild
+locations:
+- Irusan
+- Bella Port
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The Candy Crew Guild's new facilities add industrial and scientific infrastructure to the Irusan system.
 legacy_weight: 2
 significance: low
 ---

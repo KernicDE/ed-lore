@@ -4,15 +4,24 @@ title: Galactic News  Halsey Comments on End of Cold War
 slug: galactic_news_halsey_comments_on_end_of_cold_war
 date: '3303-10-28'
 source: GitHub
+summary: Former Federal President Jasmina Halsey commented on the end of the Federal-Imperial cold war, noting that the superpowers withdrew from the Pleiades due to the Thargoid threat rather than peaceful protest or diplomacy.
+player_impact: None
+persons:
+- Jasmina Halsey
+groups:
+- Federation
+- Empire
 locations:
 - Pleiades Nebula
+- Argent's Claim
+- Nerah City
+technologies: []
 topics:
-- festival
-- ship
+- politics
 - war
-arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity
-  in the Pleiades region.
+arc_id: thargoid-contact
+modern_impact: The Thargoid threat forced an uneasy superpower detente, ending the
+  Federal-Imperial cold war over meta-alloys in the Pleiades.
 legacy_weight: 3
 significance: medium
 ---

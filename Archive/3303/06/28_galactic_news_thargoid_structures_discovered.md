@@ -4,19 +4,19 @@ title: Galactic News  Thargoid Structures Discovered
 slug: galactic_news_thargoid_structures_discovered
 date: '3303-06-28'
 source: GitHub
-entities:
+summary: Independent pilots have discovered huge Thargoid structures consisting of organic-shaped elements surrounding a central edifice in multiple systems. The structures encompass large subsurface complexes, and drone-like machines have been sighted roving the sites.
+player_impact: None
+persons:
 - Ishmael Palin
+groups: []
 locations:
-- Aries Dark
+- Pleiades Sector OS-U c2-7
+- Col 285 Sector CV-Y d57
+- Aries Dark Region DB-X d1-63
+- HIP 19026
 - HIP 14909
-topics:
-- alien contact
-- ship
-arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
-legacy_weight: 4
-significance: high
+technologies: []
+modern_impact: Discovery of Thargoid structures with subsurface complexes marks a major escalation in understanding Thargoid presence and activity in the Pleiades and surrounding regions.
 ---
 
 Galactic News: Thargoid Structures Discovered

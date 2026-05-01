@@ -4,10 +4,19 @@ title: Galactic News  Knights of Karma Appeal Concludes
 slug: galactic_news_knights_of_karma_appeal_concludes
 date: '3303-06-16'
 source: GitHub
+summary: The Knights of Karma's campaign to establish a new mining facility in the Qa'wakana system concluded successfully, with material targets met.
+player_impact: Contributing pilots can collect rewards from Carpini Terminal in the Qa'wakana system.
+persons: []
+groups:
+- Knights of Karma
+locations:
+- Qa'wakana
+- Carpini Terminal
+technologies: []
 topics:
 - construction
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: New Knights of Karma mining facility in Qa'wakana expected to stimulate local economic growth and mineral extraction.
 legacy_weight: 2
 significance: low
 ---

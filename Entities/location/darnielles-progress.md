@@ -8,9 +8,9 @@ mention_count: 3
 related_entities:
 - maia
 - ishmael-palin
-- darnielles-progress-in-the-maia
-- kahina-tijani-loren
+- empire
 - alliance
+- koontz-asylum
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **3**
 
 - [[Maia]] (2 co-mentions)
 - [[Ishmael Palin]] (1 co-mentions)
-- [[Darnielle's Progress in the Maia]] (1 co-mentions)
-- [[Kahina Tijani Loren]] (1 co-mentions)
+- [[Empire]] (1 co-mentions)
 - [[Alliance]] (1 co-mentions)
+- [[Koontz Asylum]] (1 co-mentions)
 
 ## Biography
 

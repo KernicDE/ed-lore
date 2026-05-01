@@ -6,11 +6,11 @@ first_seen_date: '3301-10-26'
 last_seen_date: '3301-10-26'
 mention_count: 1
 related_entities:
+- leesti
+- independent-leesti-for-equality
 - buckyball-racing-club
 - jabbah
 - kessel
-- leesti
-- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **1**
 
 ## Related
 
+- [[Leesti]] (3 co-mentions)
+- [[Independent Leesti for Equality]] (2 co-mentions)
 - [[Buckyball Racing Club]] (1 co-mentions)
 - [[Jabbah]] (1 co-mentions)
 - [[Kessel]] (1 co-mentions)
-- [[Leesti]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
 
 ## Biography
 

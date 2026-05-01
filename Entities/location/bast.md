@@ -3,8 +3,8 @@ id: bast
 name: Bast
 type: location
 first_seen_date: '3301-07-23'
-last_seen_date: '3303-09-29'
-mention_count: 12
+last_seen_date: '3302-08-11'
+mention_count: 11
 related_entities:
 - hart-station
 - bd-02-4304
@@ -18,8 +18,8 @@ related_entities:
 # Bast
 
 First mentioned: **3301-07-23**  
-Last mentioned: **3303-09-29**  
-Total mentions: **12**
+Last mentioned: **3302-08-11**  
+Total mentions: **11**
 
 ## Related
 

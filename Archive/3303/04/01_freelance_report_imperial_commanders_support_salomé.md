@@ -4,10 +4,14 @@ title: Freelance Report  Imperial Commanders Support Salomé
 slug: freelance_report_imperial_commanders_support_salomé
 date: '3303-04-01'
 source: GitHub
-entities:
-- Jayridium
-- Jayridium joins several others
-- Salomé
+summary: Imperial pilots are defying the kill-on-sight order on Commander Salomé (Kahina Tijani Loren), offering escort services, fuel, and rewards to others willing to help protect her.
+player_impact: Imperial pilots can escort and support Salomé; Commander Jayridium is offering up to 50 times the listed bounty for arranging a meeting with her.
+persons:
+- Kahina Tijani Loren
+- Commander Jayridium
+groups: []
+locations: []
+technologies: []
 topics:
 - sport
 - war

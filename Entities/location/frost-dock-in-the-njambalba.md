@@ -3,11 +3,10 @@ id: frost-dock-in-the-njambalba
 name: Frost Dock in the Njambalba
 type: location
 first_seen_date: '3301-12-31'
-last_seen_date: '3303-01-05'
-mention_count: 2
+last_seen_date: '3301-12-31'
+mention_count: 1
 related_entities:
 - clauss-incorporated
-- clauss-port-in-the-santa-muerte
 ---
 
 <!-- AUTO-GENERATED -->
@@ -15,13 +14,12 @@ related_entities:
 # Frost Dock in the Njambalba
 
 First mentioned: **3301-12-31**  
-Last mentioned: **3303-01-05**  
-Total mentions: **2**
+Last mentioned: **3301-12-31**  
+Total mentions: **1**
 
 ## Related
 
-- [[Clauss Incorporated]] (2 co-mentions)
-- [[Clauss Port in the Santa Muerte]] (1 co-mentions)
+- [[Clauss Incorporated]] (1 co-mentions)
 
 ## Biography
 

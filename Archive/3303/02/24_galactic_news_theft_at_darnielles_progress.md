@@ -4,18 +4,20 @@ title: Galactic News  Theft at Darnielle's Progress
 slug: galactic_news_theft_at_darnielles_progress
 date: '3303-02-24'
 source: GitHub
+summary: A carefully orchestrated heist steals a large quantity of meta-alloys from Darnielle's Progress in the Maia system. An unidentified Cobra-class vessel was involved, and investigations are ongoing.
+player_impact: Report any sightings of a Cobra with the callsign 'lima uniform charlie'.
+persons: []
+groups: []
 locations:
-- Darnielle's Progress
-- Darnielle's Progress in the Maia
 - Maia
+- Darnielle's Progress
+technologies:
+- Cobra-class Vessel
 topics:
-- construction
+- crime
 - investigation
-- ship
-- sport
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity
-  in the Pleiades region.
+modern_impact: High-profile meta-alloy theft underscoring the value and volatility of the barnacle trade in the Pleiades.
 legacy_weight: 3
 significance: medium
 ---

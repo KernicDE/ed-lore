@@ -4,9 +4,19 @@ title: Galactic News  Appeal for Materials Concludes
 slug: galactic_news_appeal_for_materials_concludes
 date: '3303-01-12'
 source: GitHub
+summary: Balones Gold Touch Systems' appeal for materials to build deep-space probes concludes successfully. The organisation thanks contributors and promises to share any discoveries.
+player_impact: Collect rewards from Tiedemann Dock in the Balones system.
+persons: []
+groups:
+- Balones Gold Touch Systems
+locations:
+- Balones
+- Tiedemann Dock
+technologies: []
 topics:
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- trade
+- community goal
+modern_impact: Conclusion of materials appeal for deep-space probe development; no discoveries are reported yet.
 legacy_weight: 2
 significance: low
 ---

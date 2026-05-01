@@ -4,20 +4,33 @@ title: Community Goal  Engineers Appeal for Thargoid Material
 slug: community_goal_engineers_appeal_for_thargoid_material
 date: '3303-09-22'
 source: GitHub
-entities:
+summary: Aegis recruits engineers Liz Ryder and Ishmael Palin to develop new defensive
+  and offensive technologies against the Thargoids. Aegis has placed open orders for
+  Thargoid materials, with deliveries directed to Awyra Flirble in Eurybia for Ryder
+  and Obsidian Orbital in Maia for Palin.
+player_impact: Deliver unknown technology samples, unknown biological matter, ancient
+  relics and explosives to Awyra Flirble in Eurybia for Liz Ryder. Deliver unknown technology
+  samples, unknown resin, computer components and resonating separators to Obsidian Orbital
+  in Maia for Ishmael Palin.
+persons:
 - Ishmael Palin
 - Liz Ryder
 groups:
 - Aegis
 - Federal Times
+- Aegis Core
+- Aegis Research
+- Wolf 397 Independents
 locations:
-- Aegis
-- Awyra Flirble in the Eurybia
-- Liz Ryder
+- Pleiades Sector IR-W d1-55
+- Eurybia
+- Awyra Flirble
 - Maia
 - Obsidian Orbital
-- Obsidian Orbital in the Maia
-- Pleiades Sector IR-W d1-55
+- Wolf 397
+- Chelbin Service Station
+technologies:
+- Thargoid Cyclops tissue samples
 topics:
 - alien contact
 - engineering

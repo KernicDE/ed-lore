@@ -4,10 +4,16 @@ title: Freelance Report  Formidine Rift Discovery
 slug: freelance_report_formidine_rift_discovery
 date: '3303-04-27'
 source: GitHub
+summary: A decoded message led pilots to the Syreadiae JX-F c0 system in the Formidine Rift, where the bulk cruiser Zurara was discovered with its crew dead from self-sabotage.
+player_impact: Explorers can visit the Zurara in the Syreadiae JX-F c0 system to investigate the haunting discovery.
+persons: []
+groups:
+- Children of Raxxla
+- The Hamsters
 locations:
-- The Zurara had been adrift in the
 - Tionisla
-- Travelling to the
+- Syreadiae JX-F c0
+technologies: []
 topics:
 - ship
 arc_id: raxxla-mystery

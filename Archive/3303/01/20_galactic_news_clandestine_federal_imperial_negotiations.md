@@ -4,15 +4,20 @@ title: Galactic News  Clandestine Federal Imperial Negotiations
 slug: galactic_news_clandestine_federal_imperial_negotiations
 date: '3303-01-20'
 source: GitHub
-entities:
+summary: Leaked communications suggest secret negotiations may be taking place between the Empire and the Federation. Federal Times reporter Jason Nygaard notes unusual ship movements around Cambridge on Earth.
+player_impact: None
+persons:
 - Jason Nygaard
 groups:
 - Federal Times
 locations:
 - Earth
+- Cambridge
+technologies: []
 topics:
+- diplomacy
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Unverified reports of secret superpower diplomacy amid public Federal-Imperial tensions.
 legacy_weight: 1
 significance: low
 ---

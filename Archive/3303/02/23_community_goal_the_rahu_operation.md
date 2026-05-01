@@ -4,14 +4,19 @@ title: Community Goal  The Rahu Operation
 slug: community_goal_the_rahu_operation
 date: '3303-02-23'
 source: GitHub
+summary: Criminals attack an Alliance naval convoy in the Rahu system and attempt to abduct personnel for illegal slavery. The Alliance appeals for pilots to recover escape pods and neutralise slavers.
+player_impact: Recover escape pods from the wreckage and deliver them to Acharya Station in Rahu. Combat pilots can neutralise wanted ships in the system.
+persons: []
 groups:
 - Alliance
+locations:
+- Rahu
+- Acharya Station
 topics:
 - crime
 - humanitarian
-- ship
 - slavery
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Alliance rescue and combat community goal preventing the enslavement of convoy survivors in the Rahu system.
 legacy_weight: 2
 significance: low
 ---

@@ -4,18 +4,24 @@ title: Freelance Report  Fuel Rats Complete 20,000th Rescue
 slug: freelance_report_fuel_rats_complete_20000th_rescue
 date: '3303-01-12'
 source: GitHub
-entities:
+summary: The Fuel Rats complete their 20,000th rescue since June 3301. Commander Termite Altair is honored for 750 successful rescues, and the milestone rescue took place in the Alrai Sector.
+player_impact: None
+persons:
 - Termite Altair
+- Esxste
+- FightingCookie
+- Hillbillypolenta
 groups:
 - Fuel Rats
+- Fuel Rats Mischief
+locations:
+- Fuelum
+- Alrai Sector
+technologies: []
 topics:
-- alien contact
 - humanitarian
 - ship
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Player-run Fuel Rats group reaches 20,000 rescues, demonstrating sustained pilot-driven humanitarian services.
 legacy_weight: 4
 significance: high
 ---

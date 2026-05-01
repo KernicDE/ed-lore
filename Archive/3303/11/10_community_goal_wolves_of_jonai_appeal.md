@@ -4,13 +4,20 @@ title: Community Goal  Wolves of Jonai Appeal
 slug: community_goal_wolves_of_jonai_appeal
 date: '3303-11-10'
 source: GitHub
+summary: The Central Command of the Wolves of Jonai has announced plans to expand its presence in HR 7047 by constructing a new asteroid base among the rings of HR 7047 2 C. With unreliable supply lines, the faction is relying on the galactic community for materials.
+player_impact: Pilots can deliver titanium, beryllium, explosives, aluminium, and palladium to Grant Dock in the HR 7047 system. A kill order protects traders from wanted ships.
+persons: []
+groups:
+- Wolves of Jonai
+- Jonai Merchant's Guild
 locations:
-- Grant Dock in the HR 7047
+- HR 7047
+- Grant Dock
 topics:
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Player faction expansion projects like the Wolves of Jonai's asteroid base continue to reshape local system control across the galaxy.
 legacy_weight: 2
 significance: low
 ---

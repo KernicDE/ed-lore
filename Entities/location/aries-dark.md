@@ -3,8 +3,8 @@ id: aries-dark
 name: Aries Dark
 type: location
 first_seen_date: '3301-10-13'
-last_seen_date: '3303-06-28'
-mention_count: 3
+last_seen_date: '3301-10-13'
+mention_count: 1
 related_entities:
 - commander-mike-juliett-kilo
 - canonn-interstellar-research-group
@@ -18,8 +18,8 @@ related_entities:
 # Aries Dark
 
 First mentioned: **3301-10-13**  
-Last mentioned: **3303-06-28**  
-Total mentions: **3**
+Last mentioned: **3301-10-13**  
+Total mentions: **1**
 
 ## Related
 

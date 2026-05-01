@@ -3,8 +3,8 @@ id: cambridge
 name: Cambridge
 type: location
 first_seen_date: '3301-03-27'
-last_seen_date: '3301-03-27'
-mention_count: 1
+last_seen_date: '3303-01-20'
+mention_count: 2
 related_entities:
 - kahina-tijani-loren
 - alliance
@@ -18,8 +18,8 @@ related_entities:
 # Cambridge
 
 First mentioned: **3301-03-27**  
-Last mentioned: **3301-03-27**  
-Total mentions: **1**
+Last mentioned: **3303-01-20**  
+Total mentions: **2**
 
 ## Related
 

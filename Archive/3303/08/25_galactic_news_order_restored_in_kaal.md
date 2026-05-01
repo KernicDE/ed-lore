@@ -4,13 +4,23 @@ title: Galactic News  Order Restored in Kaal
 slug: galactic_news_order_restored_in_kaal
 date: '3303-08-25'
 source: GitHub
+summary: The Kuk Silver Fortune Company announces the successful conclusion of its campaign
+  to clear the Kaal system of agitators. Pilots eliminated criminals operating in the
+  system, restoring order.
+player_impact: None
+persons: []
+groups:
+- Kuk Silver Fortune Company
 locations:
-- Authorities in the Kaal
+- Kaal
+- Vercors Station
+technologies: []
 topics:
 - crime
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Successful crime suppression in Kaal restores trade stability and demonstrates
+  the effectiveness of bounty-driven security campaigns.
 legacy_weight: 2
 significance: low
 ---

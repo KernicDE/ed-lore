@@ -4,14 +4,19 @@ title: Galactic News  Order Restored in Lidpar
 slug: galactic_news_order_restored_in_lidpar
 date: '3303-03-30'
 source: GitHub
+summary: The Union of Lidpar Green Party announced its campaign to clear criminals from the Lidpar system was successful. Appeals for battle weapons, reactive armour and advanced medicines also concluded successfully.
+player_impact: Collect rewards from Carlisle Station in the Lidpar system.
+persons: []
+groups:
+- Union of Lidpar Green Party
 locations:
-- Authorities in the Lidpar
+- Lidpar
+- Carlisle Station
 topics:
 - crime
 - medicine
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: None
 legacy_weight: 2
 significance: low
 ---

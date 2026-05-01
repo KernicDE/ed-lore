@@ -1,18 +1,19 @@
 ---
 uuid: 97f66644-7bed-5d73-9bf7-ffb68ff98637
-title: Community Goal  People’s Rakapila Progressive Party Issues Request
+title: Community Goal  People's Rakapila Progressive Party Issues Request
 slug: community_goal_peoples_rakapila_progressive_party_issues_request
 date: '3303-06-30'
 source: GitHub
+summary: The People's Rakapila Progressive Party has issued a request for domestic appliances, consumer technology and clothing to stimulate the Rakapila system's economy following a population spike.
+player_impact: Pilots can deliver domestic appliances, consumer technology and clothing to Stone Enterprise in the Rakapila system for rewards. The organisation has also placed a kill order on all ships on its wanted list.
+persons: []
+groups:
+- People's Rakapila Progressive Party
 locations:
-- Stone Enterprise in the Rakapila
-topics:
-- ship
-- trade
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+- Rakapila
+- Stone Enterprise
+technologies: []
+modern_impact: Demonstrates how local factions use commodity drives to manage population-driven economic demands.
 ---
 
 Community Goal: People’s Rakapila Progressive Party Issues Request

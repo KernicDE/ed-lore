@@ -2,32 +2,32 @@
 id: parutis
 name: Parutis
 type: location
-first_seen_date: '3306-11-26'
+first_seen_date: '3303-02-23'
 last_seen_date: '3306-11-26'
-mention_count: 1
+mention_count: 2
 related_entities:
+- buckyball-racing-club
+- malaikudi
+- leopold-heckmann-ring
+- evans-port
 - federal-navy
-- imperial-navy
-- imperial-senate
-- pilots-federation
-- mandh
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Parutis
 
-First mentioned: **3306-11-26**  
+First mentioned: **3303-02-23**  
 Last mentioned: **3306-11-26**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
+- [[Buckyball Racing Club]] (1 co-mentions)
+- [[Malaikudi]] (1 co-mentions)
+- [[Leopold Heckmann Ring]] (1 co-mentions)
+- [[Evans Port]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
-- [[Imperial Navy]] (1 co-mentions)
-- [[Imperial Senate]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
-- [[Mandh]] (1 co-mentions)
 
 ## Biography
 

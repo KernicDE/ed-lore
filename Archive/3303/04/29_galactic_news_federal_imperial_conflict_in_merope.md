@@ -4,14 +4,21 @@ title: Galactic News  Federal Imperial Conflict in Merope
 slug: galactic_news_federal_imperial_conflict_in_merope
 date: '3303-04-29'
 source: GitHub
+summary: Conflict has erupted in the Merope system between the Federal Pleiades Resource Enterprise and the Imperial Merope Expeditionary Fleet, representing the latest proxy war between the superpowers.
+player_impact: None specified.
+persons:
+- Katherine Ryder
+groups:
+- Pleiades Resource Enterprise
+- Merope Expeditionary Fleet
 locations:
-- Authorities in the Merope
-- Maia
 - Merope
+- Maia
+technologies: []
 topics:
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction opens new frontiers for exploration.
+modern_impact: The Merope conflict demonstrates how Federal-Imperial proxy warfare shifts between systems in the Pleiades region.
 legacy_weight: 3
 significance: medium
 ---

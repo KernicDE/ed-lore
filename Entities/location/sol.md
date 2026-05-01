@@ -4,7 +4,7 @@ name: Sol
 type: location
 first_seen_date: '3301-02-08'
 last_seen_date: '3311-12-18'
-mention_count: 139
+mention_count: 136
 related_entities:
 - mars
 - federal-congress
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-08**  
 Last mentioned: **3311-12-18**  
-Total mentions: **139**
+Total mentions: **136**
 
 ## Related
 

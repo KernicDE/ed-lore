@@ -4,14 +4,21 @@ title: Galactic News  California Campaign Concludes
 slug: galactic_news_california_campaign_concludes
 date: '3303-11-17'
 source: GitHub
+summary: Civility Marks, Chief Security Officer for the Spinward Marches Alliance Concern, has announced the successful conclusion of the campaign to establish an agricultural facility in the Synuefai LX-R d5-28 system. Construction of the facility is expected to begin within weeks.
+player_impact: Pilots who contributed can collect rewards from Hansford's Landing in the BD+22 4939 system.
+persons:
+- Civility Marks
 groups:
 - Alliance
+- Spinward Marches Alliance Concern
 locations:
 - Synuefai LX-R d5-28
+- BD+22 4939
+- Hansford's Landing
 topics:
 - construction
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: The new agricultural facility strengthens food security for Alliance outposts in the California Nebula region.
 legacy_weight: 2
 significance: low
 ---

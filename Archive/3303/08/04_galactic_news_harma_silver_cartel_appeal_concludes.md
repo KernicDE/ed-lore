@@ -4,12 +4,22 @@ title: Galactic News  Harma Silver Cartel Appeal Concludes
 slug: galactic_news_harma_silver_cartel_appeal_concludes
 date: '3303-08-04'
 source: GitHub
+summary: The Harma Silver Cartel announces the successful conclusion of its appeal
+  for rare alcohols to create Harma Silver Sea Rum. Pilots delivered commodities and
+  eliminated agitators to ensure safe trading to Gabriel Enterprise in the Harma system.
+player_impact: None
+persons: []
+groups:
+- Harma Silver Cartel
 locations:
 - Harma
+- Gabriel Enterprise
+technologies: []
 topics:
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Creation of Harma Silver Sea Rum introduces a new luxury commodity
+  to the market and reinforces pirate cartel influence in the Harma system.
 legacy_weight: 2
 significance: low
 ---

@@ -1,17 +1,26 @@
 ---
 uuid: ea94c671-952c-5718-9aa5-59dcf11437c5
-title: Galactic News  Engineers’ Campaign Concludes
+title: Galactic News  Engineers' Campaign Concludes
 slug: galactic_news_engineers_campaign_concludes
 date: '3303-09-29'
 source: GitHub
+summary: Aegis announces the successful conclusion of its appeal for Thargoid-related
+  materials. Huge quantities were delivered to Awyra Flirble and Obsidian Orbital and
+  will now be passed to engineers Liz Ryder and Ishmael Palin to develop new anti-Thargoid
+  technologies.
+player_impact: Pilots who contributed to the initiative can now collect their rewards
+  from Awyra Flirble in the Eurybia system and Obsidian Orbital in the Maia system.
+persons:
+- Liz Ryder
+- Ishmael Palin
 groups:
 - Aegis
 locations:
-- Aegis
-- Liz Ryder
+- Eurybia
+- Awyra Flirble
 - Maia
 - Obsidian Orbital
-- Obsidian Orbital in the Maia
+technologies: []
 topics:
 - alien contact
 - engineering
@@ -19,8 +28,9 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Delivery of Thargoid materials to engineers Liz Ryder and Ishmael Palin
+  directly enabled the development of early anti-xeno technologies that remain foundational
+  to human defense.
 legacy_weight: 5
 significance: high
 ---

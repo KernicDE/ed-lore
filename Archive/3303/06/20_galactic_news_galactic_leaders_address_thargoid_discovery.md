@@ -4,9 +4,12 @@ title: Galactic News  Galactic Leaders Address Thargoid Discovery
 slug: galactic_news_galactic_leaders_address_thargoid_discovery
 date: '3303-06-20'
 source: GitHub
-entities:
-- Edmund Mahon released
-- Zachary Hudson released
+summary: The leaders of the galaxy's three superpowers have responded to the confirmation of Thargoid vessels, with divergent stances on military preparedness and diplomatic engagement.
+player_impact: Pilots should monitor superpower announcements for emerging anti-xeno initiatives and defence contracts.
+persons:
+- Zachary Hudson
+- Arissa Lavigny-Duval
+- Edmund Mahon
 groups:
 - Alliance
 locations:
@@ -14,6 +17,7 @@ locations:
 - Imperial Palace
 - Maia
 - Pleiades Nebula
+technologies: []
 topics:
 - alien contact
 - ship

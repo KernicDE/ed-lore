@@ -4,9 +4,18 @@ title: Galactic News  Chapterhouse Campaign Concludes
 slug: galactic_news_chapterhouse_campaign_concludes
 date: '3303-09-15'
 source: GitHub
+summary: The Kamadhenu Chapterhouse of Inquisition announces the successful conclusion
+  of its campaign to establish starports between Colonia and the core systems. Construction
+  of the first starport is nearly complete, with work on the second well underway.
+player_impact: None
+persons: []
+groups:
+- Kamadhenu Chapterhouse of Inquisition
 locations:
 - Colonia
 - Kamadhenu
+- Shajn Market
+technologies: []
 topics:
 - construction
 - ship

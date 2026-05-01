@@ -1,33 +1,33 @@
 ---
 id: arissa-lavigny-duval
-name: Arissa-Lavigny Duval
+name: Arissa Lavigny-Duval
 type: person
-first_seen_date: '3303-02-03'
-last_seen_date: '3303-02-03'
-mention_count: 1
+first_seen_date: '3301-07-30'
+last_seen_date: '3302-02-22'
+mention_count: 6
 related_entities:
 - capitol
 - imperial-senate
 - achenar
-- imperial-palace
-- alliance
+- chancellor-anders-blaine
+- aisling-duval
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Arissa-Lavigny Duval
+# Arissa Lavigny-Duval
 
-First mentioned: **3303-02-03**  
-Last mentioned: **3303-02-03**  
-Total mentions: **1**
+First mentioned: **3301-07-30**  
+Last mentioned: **3302-02-22**  
+Total mentions: **6**
 
 ## Related
 
-- [[Capitol]] (6 co-mentions)
+- [[Capitol]] (5 co-mentions)
 - [[Imperial Senate]] (3 co-mentions)
 - [[Achenar]] (3 co-mentions)
-- [[Imperial Palace]] (3 co-mentions)
-- [[Alliance]] (3 co-mentions)
+- [[Chancellor Anders Blaine]] (2 co-mentions)
+- [[Aisling Duval]] (2 co-mentions)
 
 ## Biography
 

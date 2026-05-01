@@ -22,7 +22,7 @@ Total mentions: **1**
 ## Related
 
 - [[Anders Blaine opened]] (1 co-mentions)
-- [[Arissa-Lavigny Duval]] (1 co-mentions)
+- [[Arissa Lavigny-Duval]] (1 co-mentions)
 - [[Capitol]] (1 co-mentions)
 
 ## Biography

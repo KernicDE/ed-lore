@@ -6,8 +6,9 @@ first_seen_date: '3303-12-15'
 last_seen_date: '3303-12-15'
 mention_count: 1
 related_entities:
-- pan
-- potagos-port-in-the-wangal
+- angeli-imperial-enterprises
+- wangal
+- potagos-port
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,8 +21,9 @@ Total mentions: **1**
 
 ## Related
 
-- [[Pan]] (1 co-mentions)
-- [[Potagos Port in the Wangal]] (1 co-mentions)
+- [[Angeli Imperial Enterprises]] (1 co-mentions)
+- [[Wangal]] (1 co-mentions)
+- [[Potagos Port]] (1 co-mentions)
 
 ## Biography
 

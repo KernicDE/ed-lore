@@ -4,11 +4,20 @@ title: Galactic News  Engineers Reduce Requirements
 slug: galactic_news_engineers_reduce_requirements
 date: '3303-01-11'
 source: GitHub
+summary: Independent engineers announce a joint accord to make spacecraft enhancements more affordable by requiring only materials rather than commodities for upgrades. Analysts note rising commodity market values.
+player_impact: Upgrade modules and weapons at independent engineers using only materials, with no commodity requirements.
+persons: []
+groups:
+- Independent engineers
+locations: []
+technologies:
+- modules
+- weapons
 topics:
 - engineering
 - safety
 - trade
-modern_impact: Engineering developments offer pilots new ship customisation options.
+modern_impact: Engineering costs reduced to materials only, lowering barriers for ship customization.
 legacy_weight: 1
 significance: low
 ---

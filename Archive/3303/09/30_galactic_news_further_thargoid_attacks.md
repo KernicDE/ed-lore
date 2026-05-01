@@ -4,18 +4,31 @@ title: Galactic News  Further Thargoid Attacks
 slug: galactic_news_further_thargoid_attacks
 date: '3303-09-30'
 source: GitHub
-entities:
+summary: Reports of further unprovoked Thargoid attacks in the Pleiades have reached
+  the core systems, targeting Imperial and civilian ships in HIP 17225, HR 1185, IH-V
+  C2-5 and Pleiades Sector IR-W d1-55. Professor Cora Shaw of the Palin Institute suggests
+  the attacks could be territorial or indicative of a broader view of humanity as an
+  enemy.
+player_impact: None
+persons:
 - Cora Shaw
 groups:
 - Aegis
+- Palin Institute
 locations:
-- Aegis
+- Pleiades
+- HIP 17225
+- HR 1185
+- IH-V C2-5
+- Pleiades Sector IR-W d1-55
+technologies: []
 topics:
 - alien contact
 - ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: The unprovoked Thargoid attacks across multiple Pleiades systems confirmed
+  their hostile intent and escalated the need for organized xeno-defense, ultimately
+  leading to Aegis's militarization.
 legacy_weight: 5
 significance: high
 ---

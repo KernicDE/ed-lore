@@ -4,19 +4,23 @@ title: Galactic News  Alliance Campaign Concludes
 slug: galactic_news_alliance_campaign_concludes
 date: '3303-01-05'
 source: GitHub
-entities:
-- Edmund Mahon released
+summary: The Alliance concludes its successful campaign to build a planetary outpost in the California Nebula. Hundreds of pilots delivered construction materials and combat pilots protected them from agitators.
+player_impact: Collect rewards from Tshang City in the Furuhjelm III-674 system.
+persons:
+- Edmund Mahon
 groups:
 - Alliance
 locations:
 - California Nebula
-- Tshang City in the Furuhjelm III-674
+- Furuhjelm III-674
+- Tshang City
+technologies: []
 topics:
 - construction
 - trade
 - war
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+modern_impact: Established a permanent Alliance foothold in the California Nebula through community-supported construction and combat operations.
 legacy_weight: 3
 significance: medium
 ---

@@ -4,22 +4,24 @@ title: Galactic News  Galactic Leaders Trade Blows
 slug: galactic_news_galactic_leaders_trade_blows
 date: '3303-02-03'
 source: GitHub
-entities:
-- Arissa-Lavigny Duval
-- Edmund Mahon did not release
+summary: Superpower leaders exchange barbs over mysterious spacecraft sightings. Emperor Arissa Lavigny-Duval calls President Hudson a warmonger, while former Federal President Jasmina Halsey urges understanding and cooperation.
+player_impact: None
+persons:
+- Arissa Lavigny-Duval
 - Zachary Hudson
+- Edmund Mahon
+- Jasmina Halsey
 groups:
 - Alliance
+- Empire
+- Federation
 locations:
 - Mars
 topics:
 - alien contact
-- ship
-- succession
-- trade
+- diplomacy
 - war
-arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+modern_impact: Escalating political rhetoric among superpower leaders over alien sightings, with Halsey advocating cross-factional cooperation.
 legacy_weight: 3
 significance: medium
 ---

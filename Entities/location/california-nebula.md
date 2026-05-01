@@ -25,7 +25,7 @@ Total mentions: **25**
 
 - [[Alliance]] (18 co-mentions)
 - [[Kumo Crew]] (10 co-mentions)
-- [[Turner Research Group]] (5 co-mentions)
+- [[Turner Research Group]] (8 co-mentions)
 - [[Coalsack Nebula]] (5 co-mentions)
 - [[Pilots Federation]] (4 co-mentions)
 

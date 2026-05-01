@@ -4,11 +4,23 @@ title: Community Goal  The Battle for Ho Hsi
 slug: community_goal_the_battle_for_ho_hsi
 date: '3303-09-15'
 source: GitHub
+summary: Conflict has erupted in the Ho Hsi system between Ho Hsi Jet Comms Limited
+  and the Freedom Party of Ho Hsi. Both factions have issued calls for aid, appealing
+  to independent combat pilots for support in their week-long operations for system
+  control.
+player_impact: Support either Ho Hsi Jet Comms Limited or the Freedom Party of Ho Hsi
+  in the conflict for combat bonds and rewards.
+persons: []
+groups:
+- Ho Hsi Jet Comms Limited
+- Freedom Party of Ho Hsi
 locations:
-- A representative of
+- Ho Hsi
+technologies: []
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Territorial faction conflict in Ho Hsi demonstrates the ongoing volatility
+  of local power struggles and the reliance on independent combat pilots.
 legacy_weight: 2
 significance: low
 ---

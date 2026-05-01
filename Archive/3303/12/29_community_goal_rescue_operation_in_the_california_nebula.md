@@ -4,18 +4,23 @@ title: Community Goal  Rescue Operation in the California Nebula
 slug: community_goal_rescue_operation_in_the_california_nebula
 date: '3303-12-29'
 source: GitHub
+summary: The Alliance has reported that ships traveling to and from its California Nebula outposts are under heavy pirate attack, threatening to completely cut off the bases. The Alliance is launching a two-pronged operation to thin pirate numbers and recover escape pods from wrecked Alliance vessels along the route.
+player_impact: Pilots can deliver escape pods to Darwin Research Facility in the California Sector BV-Y c7 system for rewards from the Turner Research Group.
+persons: []
 groups:
 - Alliance
+- Turner Research Group
 locations:
 - California Nebula
-- The
+- California Sector BV-Y c7
+- Darwin Research Facility
 topics:
 - humanitarian
 - piracy
 - research
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Persistent piracy along the California Nebula supply route continues to threaten Alliance deep-space outposts, requiring ongoing pilot intervention.
 legacy_weight: 2
 significance: low
 ---

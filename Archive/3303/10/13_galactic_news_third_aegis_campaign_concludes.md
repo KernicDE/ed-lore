@@ -4,12 +4,17 @@ title: Galactic News  Third Aegis Campaign Concludes
 slug: galactic_news_third_aegis_campaign_concludes
 date: '3303-10-13'
 source: GitHub
-entities:
+summary: Aegis's third campaign concluded successfully with huge quantities of materials delivered to Vonarburg Co-operative. Professor Alba Tesreau confirmed the materials are being sent to engineering contractors for anti-Thargoid device development.
+player_impact: Collect rewards from Vonarburg Co-operative in the Wyrd system.
+persons:
 - Alba Tesreau
 groups:
 - Aegis
 locations:
-- Aegis
+- Wyrd
+- Vonarburg Co-operative
+technologies:
+- anti-Thargoid technologies
 topics:
 - alien contact
 - engineering

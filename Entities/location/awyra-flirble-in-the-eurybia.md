@@ -2,32 +2,28 @@
 id: awyra-flirble-in-the-eurybia
 name: Awyra Flirble in the Eurybia
 type: location
-first_seen_date: '3303-09-22'
+first_seen_date: '3307-02-04'
 last_seen_date: '3307-02-04'
-mention_count: 2
+mention_count: 1
 related_entities:
+- nmla
+- eurybia
 - liz-ryder
-- ishmael-palin
-- aegis
-- federal-times
-- maia
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Awyra Flirble in the Eurybia
 
-First mentioned: **3303-09-22**  
+First mentioned: **3307-02-04**  
 Last mentioned: **3307-02-04**  
-Total mentions: **2**
+Total mentions: **1**
 
 ## Related
 
-- [[Liz Ryder]] (3 co-mentions)
-- [[Ishmael Palin]] (1 co-mentions)
-- [[Aegis]] (1 co-mentions)
-- [[Federal Times]] (1 co-mentions)
-- [[Maia]] (1 co-mentions)
+- [[NMLA]] (1 co-mentions)
+- [[Eurybia]] (1 co-mentions)
+- [[Liz Ryder]] (1 co-mentions)
 
 ## Biography
 

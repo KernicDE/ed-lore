@@ -9,8 +9,8 @@ related_entities:
 - maia
 - canonn
 - canonn-interstellar-research-group
+- aegis
 - arcanonn
-- obsidian-orbital
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **56**
 
 ## Related
 
-- [[Maia]] (22 co-mentions)
+- [[Maia]] (21 co-mentions)
 - [[Canonn]] (13 co-mentions)
 - [[Canonn Interstellar Research Group]] (13 co-mentions)
+- [[Aegis]] (10 co-mentions)
 - [[Arcanonn]] (9 co-mentions)
-- [[Obsidian Orbital]] (9 co-mentions)
 
 ## Biography
 

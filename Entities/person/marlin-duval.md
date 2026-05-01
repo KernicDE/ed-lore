@@ -23,7 +23,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[Arissa-Lavigny Duval]] (1 co-mentions)
+- [[Arissa Lavigny-Duval]] (1 co-mentions)
 - [[Chancellor Anders Blaine]] (1 co-mentions)
 - [[Aisling Duval]] (1 co-mentions)
 - [[Emperor Hengist Duval]] (1 co-mentions)

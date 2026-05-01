@@ -4,13 +4,22 @@ title: Community Goal  Remembrance Week
 slug: community_goal_remembrance_week
 date: '3303-10-13'
 source: GitHub
+summary: The Labour Union of Kauruk announced the first annual Remembrance Week, giving the galactic community an opportunity to honour absent friends and departed loved ones at Moore Terminal.
+player_impact: Deliver commodities to Moore Terminal in the Kauruk system.
+persons:
+- Walter Waldo
+groups:
+- Labour Union of Kauruk
 locations:
-- Moore Terminal in the Kauruk
-- Walter Waldo in the Gyvatices
+- Kauruk
+- Moore Terminal
+- Gyvatices
+technologies: []
 topics:
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+- memorial
+modern_impact: A community-driven memorial event fostering solidarity among pilots during
+  a time of galactic conflict.
 legacy_weight: 2
 significance: low
 ---

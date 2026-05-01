@@ -4,12 +4,21 @@ title: Community Goal  Alliance Research Initiative
 slug: community_goal_alliance_research_initiative
 date: '3303-08-11'
 source: GitHub
+summary: The Alliance launches a research initiative to build state-of-the-art instruments
+  for analysing Thargoid material, placing an open order for unknown ship signatures,
+  unknown organic circuitry and unknown technology components. The Kaushpoos Pro-Alliance
+  Union will oversee the campaign at Neville Horizons in the Kaushpoos system.
+player_impact: Deliver unknown ship signatures, unknown organic circuitry and unknown
+  technology components to Neville Horizons in Kaushpoos. Eliminate wanted ships to
+  protect trade routes.
+persons: []
 groups:
 - Alliance
+- Kaushpoos Pro-Alliance Union
 locations:
 - Kaushpoos
 - Neville Horizons
-- Neville Horizons in the Kaushpoos
+technologies: []
 topics:
 - alien contact
 - construction

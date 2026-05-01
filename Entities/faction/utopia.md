@@ -4,7 +4,7 @@ name: Utopia
 type: faction
 first_seen_date: '3301-06-06'
 last_seen_date: '3310-11-07'
-mention_count: 51
+mention_count: 49
 related_entities:
 - sirius-corporation
 - alliance
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-06-06**  
 Last mentioned: **3310-11-07**  
-Total mentions: **51**
+Total mentions: **49**
 
 ## Related
 

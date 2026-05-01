@@ -4,17 +4,25 @@ title: Galactic News  New Superpower Bases in the Pleiades
 slug: galactic_news_new_superpower_bases_in_the_pleiades
 date: '3303-07-07'
 source: GitHub
-entities:
-- Zemina Torval presided over
+summary: The Empire and Federation have completed construction projects in the Pleiades
+  following successful superpower campaigns. Imperial Senator Zemina Torval presided
+  over the maiden voyage of the Indra, a Wells-class Carrier, in HR 1185, while the
+  Federation completed Blackmount Orbital in HIP 17692.
+player_impact: None
+persons:
+- Zemina Torval
+groups: []
 locations:
+- HR 1185
+- HIP 17692
 - Blackmount Orbital
-- HIP 17692 A4 in the HIP 17692
-- In the HR 1185
-- The Indra will make this particular
+technologies:
+- Wells-class Carrier
 topics:
 - construction
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction opens new frontiers for exploration.
+modern_impact: Deep-space starport construction in the Pleiades strengthens superpower
+  presence and opens new frontiers for exploration.
 legacy_weight: 3
 significance: medium
 ---

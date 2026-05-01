@@ -4,10 +4,14 @@ title: Galactic News  Thargoids Continuing to Adapt
 slug: galactic_news_thargoids_continuing_to_adapt
 date: '3303-10-13'
 source: GitHub
+summary: Aegis reports that Thargoids are operating more tactically, having learned from earlier encounters with human ships and weapons. Their earlier lack of strategic awareness is now understood as unfamiliarity rather than incapability.
+player_impact: None
+persons: []
 groups:
 - Aegis
 locations:
-- Aegis
+- Pleiades
+technologies: []
 topics:
 - alien contact
 - ship

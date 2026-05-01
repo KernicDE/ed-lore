@@ -4,14 +4,25 @@ title: Galactic News  Abroin Universal PLC Campaign Concludes
 slug: galactic_news_abroin_universal_plc_campaign_concludes
 date: '3303-07-28'
 source: GitHub
+summary: Abroin Universal PLC confirms the successful conclusion of its appeal for
+  construction materials in the Abroin system. Pilots delivered commodities to Campbell
+  Horizons and eliminated hostiles to protect traders, enabling the organisation to
+  begin constructing a Thargoid research outpost.
+player_impact: None
+persons: []
+groups:
+- Abroin Universal PLC
 locations:
 - Abroin
+- Campbell Horizons
+technologies: []
 topics:
 - construction
 - research
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Successful construction of an independent Thargoid research outpost
+  in Abroin expands scientific infrastructure in the Pleiades region.
 legacy_weight: 2
 significance: low
 ---

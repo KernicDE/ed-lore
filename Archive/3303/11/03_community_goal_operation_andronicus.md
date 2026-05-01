@@ -4,22 +4,25 @@ title: Community Goal  Operation Andronicus
 slug: community_goal_operation_andronicus
 date: '3303-11-03'
 source: GitHub
+summary: With Thargoid attacks becoming regular in the Pleiades Nebula, Aegis has funded a military operation dubbed Operation Andronicus in the Pleiades Sector IR-W d1-55. Admiral Aden Tanner stated that personal-scale craft piloted by seasoned combat pilots are the most effective way to address the Thargoid threat in the short term.
+player_impact: Pilots can hand in Pilots Federation Combat Bonds at The Oracle in the Pleiades Sector IR-W d1-55 for rewards from Aegis Research.
+persons:
+- Aden Tanner
 groups:
 - Aegis
+- Aegis Research
 - Pilots Federation
 locations:
-- Aegis
-- Oracle
 - Pleiades Nebula
 - Pleiades Sector IR-W d1-55
+- Oracle
 topics:
 - alien contact
 - research
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Operation Andronicus establishes the militia of independent combat pilots as a core strategy against Thargoid vessels, validating small-ship tactics over capital-class engagement.
 legacy_weight: 5
 significance: high
 ---

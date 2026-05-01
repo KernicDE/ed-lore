@@ -4,14 +4,22 @@ title: Galactic News  Federal Blockade Ends
 slug: galactic_news_federal_blockade_ends
 date: '3303-09-09'
 source: GitHub
-entities:
-- Palin
-- Palin announced
+summary: The Federation has withdrawn its Farragut-class Battlecruiser from Maia A
+  3 a, ending the blockade of Professor Ishmael Palin's research base. The deployment,
+  widely seen as an attempt to restrict Palin's meta-alloy research, ended without official
+  comment from the Federation.
+player_impact: None
+persons:
+- Ishmael Palin
+- Rici Stewart
 groups:
 - Imperial Herald
+- Federation
 locations:
 - Maia
-- Professor Palin
+- Maia A 3 a
+technologies:
+- Farragut-class Battlecruiser
 topics:
 - research
 - ship

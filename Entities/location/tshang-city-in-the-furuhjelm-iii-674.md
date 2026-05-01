@@ -3,12 +3,11 @@ id: tshang-city-in-the-furuhjelm-iii-674
 name: Tshang City in the Furuhjelm III-674
 type: location
 first_seen_date: '3302-10-13'
-last_seen_date: '3303-01-05'
-mention_count: 2
+last_seen_date: '3302-10-13'
+mention_count: 1
 related_entities:
 - alliance
 - california-nebula
-- edmund-mahon-released
 ---
 
 <!-- AUTO-GENERATED -->
@@ -16,14 +15,13 @@ related_entities:
 # Tshang City in the Furuhjelm III-674
 
 First mentioned: **3302-10-13**  
-Last mentioned: **3303-01-05**  
-Total mentions: **2**
+Last mentioned: **3302-10-13**  
+Total mentions: **1**
 
 ## Related
 
-- [[Alliance]] (2 co-mentions)
-- [[California Nebula]] (2 co-mentions)
-- [[Edmund Mahon released]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[California Nebula]] (1 co-mentions)
 
 ## Biography
 

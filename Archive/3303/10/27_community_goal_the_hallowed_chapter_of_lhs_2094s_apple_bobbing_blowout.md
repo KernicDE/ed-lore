@@ -4,21 +4,25 @@ title: Community Goal  The Hallowed Chapter of LHS 2094's Apple Bobbing Blowout
 slug: community_goal_the_hallowed_chapter_of_lhs_2094s_apple_bobbing_blowout
 date: '3303-10-27'
 source: GitHub
+summary: The Hallowed Chapter of LHS 2094 is hosting the galaxy's biggest Halloween party, featuring apple bobbing and other festivities. The event aims to provide a lighthearted diversion from the ongoing Thargoid threat.
+player_impact: Deliver commodities to Patterson Vision in the LHS 2094 system.
+persons: []
+groups:
+- Hallowed Chapter of LHS 2094
 locations:
+- LHS 2094
+- Patterson Vision
 - Earth
 - Leesti
 - Maia
-- Patterson Vision in the LHS 2094
+technologies: []
 topics:
-- alien contact
 - festival
 - trade
-- war
-arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
-legacy_weight: 5
-significance: high
+modern_impact: A seasonal community festival demonstrating pilot culture and morale-building
+  events even during times of galactic conflict.
+legacy_weight: 2
+significance: low
 ---
 
 Community Goal: The Hallowed Chapter of LHS 2094's Apple-Bobbing Blowout

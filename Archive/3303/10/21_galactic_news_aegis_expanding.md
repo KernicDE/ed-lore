@@ -4,12 +4,19 @@ title: Galactic News  Aegis Expanding
 slug: galactic_news_aegis_expanding
 date: '3303-10-21'
 source: GitHub
+summary: Following the withdrawal of Empire and Federation forces from the Pleiades, Aegis is establishing over twenty orbital outposts in the region to support its ongoing research and defence initiative against the Thargoid threat.
+player_impact: None
+persons:
+- Aden Tanner
 groups:
 - Aegis
 - Alliance
+- Empire
+- Federation
 locations:
-- Aegis
 - Pleiades Nebula
+- Core systems
+technologies: []
 topics:
 - alien contact
 - construction

@@ -4,11 +4,20 @@ title: Galactic News  Halsey's Campaign Concludes
 slug: galactic_news_halseys_campaign_concludes
 date: '3303-04-06'
 source: GitHub
+summary: Former Federal President Jasmina Halsey's relief campaign for refugees at Dirichlet Orbital concluded successfully, with hundreds of pilots eliminating agitators in Yum Kamcabi and delivering supplies.
+player_impact: Contributing pilots can collect rewards from Dirichlet Orbital in the Yum Kamcabi system.
+persons:
+- Jasmina Halsey
+groups: []
+locations:
+- Dirichlet Orbital
+- Yum Kamcabi
+technologies: []
 topics:
 - construction
 - humanitarian
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Halsey's humanitarian campaign establishes her ongoing role as an independent advocate for war refugees outside Federal politics.
 legacy_weight: 2
 significance: low
 ---

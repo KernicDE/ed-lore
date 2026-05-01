@@ -4,22 +4,23 @@ title: Galactic News  Sirius Corporation Campaign Ends
 slug: galactic_news_sirius_corporation_campaign_ends
 date: '3303-01-20'
 source: GitHub
+summary: Sirius Corporation's appeal for microresources to counter Unknown Artefact interference concludes successfully. Li Yong Rui pledges to combat the technological plague affecting starports.
+player_impact: Collect rewards from Cormack Hub in the Procyon system.
+persons:
+- Li Yong Rui
 groups:
-- Sirius Corp
 - Sirius Corporation
 - Sirius Gov
 locations:
-- Cormack Hub in the Procyon
 - Procyon
-- Sirius
+- Cormack Hub
+technologies: []
 topics:
 - construction
 - corporate expansion
 - medicine
 - research
-- war
-arc_id: unknown-artefacts
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Sirius Corporation commits to ending Unknown Artefact disruption of starports through corporate-led research.
 legacy_weight: 2
 significance: low
 ---

@@ -4,12 +4,22 @@ title: Galactic News  Order Restored in Hehe
 slug: galactic_news_order_restored_in_hehe
 date: '3303-08-11'
 source: GitHub
+summary: Authorities report that Hehe Federal Interstellar has defeated Hehe Camorra
+  in the Hehe system conflict. Hehe Camorra has withdrawn its forces, and Hehe Federal
+  Interstellar has pledged to ensure a peaceful and prosperous future for the system.
+player_impact: None
+persons: []
+groups:
+- Hehe Federal Interstellar
+- Hehe Camorra
 locations:
-- Authorities in the Hehe
+- Hehe
+technologies: []
 topics:
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Hehe Federal Interstellar's victory stabilises the Hehe system and demonstrates
+  the decisive impact of independent pilot support in faction warfare.
 legacy_weight: 1
 significance: low
 ---

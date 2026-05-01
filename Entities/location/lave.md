@@ -8,9 +8,9 @@ mention_count: 36
 related_entities:
 - alliance
 - alioth
+- lave-station
 - sol
 - diso
-- league-of-reparation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **36**
 
 - [[Alliance]] (14 co-mentions)
 - [[Alioth]] (9 co-mentions)
+- [[Lave Station]] (8 co-mentions)
 - [[Sol]] (7 co-mentions)
 - [[Diso]] (7 co-mentions)
-- [[League of Reparation]] (6 co-mentions)
 
 ## Biography
 

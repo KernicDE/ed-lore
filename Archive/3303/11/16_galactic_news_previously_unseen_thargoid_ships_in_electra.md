@@ -4,6 +4,9 @@ title: Galactic News  Previously Unseen Thargoid Ships in Electra
 slug: galactic_news_previously_unseen_thargoid_ships_in_electra
 date: '3303-11-16'
 source: GitHub
+summary: A new kind of Thargoid vessel, classified as the Basilisk Interceptor by the Pilots Federation, has been encountered in the Electra system. Independent pilots investigating the wreckage of the Aida discovered the Basilisks, which are described as hitting harder and being tougher than Cyclops interceptors, with denser Thargon swarms. System authorities have warned residents to exercise extreme caution.
+player_impact: Pilots should exercise extreme caution in Electra and avoid engaging Thargoid ships.
+persons: []
 groups:
 - Pilots Federation
 locations:
@@ -13,8 +16,7 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: The discovery of the Basilisk Interceptor reveals a more powerful Thargoid ship class, indicating the aliens have multiple tiers of combat vessels.
 legacy_weight: 5
 significance: high
 ---

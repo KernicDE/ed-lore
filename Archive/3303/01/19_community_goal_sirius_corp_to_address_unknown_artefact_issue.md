@@ -4,22 +4,22 @@ title: Community Goal  Sirius Corp. to Address Unknown Artefact Issue
 slug: community_goal_sirius_corp_to_address_unknown_artefact_issue
 date: '3303-01-19'
 source: GitHub
+summary: Sirius Corporation launches a research project to make starports more resistant to Unknown Artefact interference. The company appeals for unknown fragments, untypical shield scans, and aberrant shield pattern analysis.
+player_impact: Deliver unknown fragments, untypical shield scans and aberrant shield pattern analysis to Cormack Hub in the Procyon system.
+persons: []
 groups:
-- Sirius Corp
 - Sirius Corporation
 locations:
-- Cormack Hub in the Procyon
 - Procyon
-- Sirius
+- Cormack Hub
+technologies: []
 topics:
 - construction
 - corporate expansion
 - research
 - ship
-- war
-arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity
-  in the Pleiades region.
+arc_id: unknown-artefacts
+modern_impact: Sirius Corporation initiates research to counter Unknown Artefact starport disruption using delivered microresources.
 legacy_weight: 3
 significance: medium
 ---

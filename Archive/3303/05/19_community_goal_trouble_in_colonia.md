@@ -4,11 +4,17 @@ title: Community Goal  Trouble in Colonia
 slug: community_goal_trouble_in_colonia
 date: '3303-05-19'
 source: GitHub
+summary: Unauthorized outposts occupied by agitators have been detected in the Eol Prou Lw-L C8-215 system, threatening the Colonia community's security.
+player_impact: Pilots can hunt wanted ships in Eol Prou Lw-L C8-215 and deliver bounty vouchers to Tolagarf's Junkjard for rewards.
+persons: []
 groups:
 - Colonia Council
+- Junkyard Dogs
 locations:
 - Colonia
-- Eol Prou
+- Eol Prou Lw-L C8-215
+- Tolagarf's Junkjard
+technologies: []
 topics:
 - ship
 - war

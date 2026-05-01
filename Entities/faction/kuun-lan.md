@@ -1,0 +1,28 @@
+---
+id: kuun-lan
+name: Kuun-Lan
+type: faction
+first_seen_date: '3303-10-06'
+last_seen_date: '3303-10-13'
+mention_count: 2
+related_entities:
+- hip-104292
+- lomonosov-city
+---
+
+<!-- AUTO-GENERATED -->
+
+# Kuun-Lan
+
+First mentioned: **3303-10-06**  
+Last mentioned: **3303-10-13**  
+Total mentions: **2**
+
+## Related
+
+- [[HIP 104292]] (2 co-mentions)
+- [[Lomonosov City]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

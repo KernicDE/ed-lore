@@ -4,11 +4,16 @@ title: Community Goal  Conflict in Colonia
 slug: community_goal_conflict_in_colonia
 date: '3303-10-20'
 source: GitHub
+summary: The Nameless criminal faction has begun attacking ships in Colonia, prompting the Colonia Council to issue a call to aid for pilots to help restore order and reduce criminal numbers.
+player_impact: Support either the Colonia Council or The Nameless in the conflict.
+persons: []
 groups:
 - Colonia Council
+- The Nameless
 locations:
 - Carcosa
 - Colonia
+technologies: []
 topics:
 - crime
 - ship

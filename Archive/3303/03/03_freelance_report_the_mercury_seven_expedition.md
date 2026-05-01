@@ -4,16 +4,23 @@ title: Freelance Report  The Mercury Seven Expedition
 slug: freelance_report_the_mercury_seven_expedition
 date: '3303-03-03'
 source: GitHub
+summary: The Mercury Seven expedition departs from Jaques Station in Colonia, inviting pilots to join a multi-stage journey through the Orio-Persean Conflux, Osprey Stellar Remnant, Wagar's Reach and Zephyrus.
+player_impact: Contact the Colonia Citizens Network to join the expedition departing Jaques Station.
+persons: []
+groups:
+- Colonia Citizens Network
 locations:
 - Colonia
 - Jaques Station
-- Mercury
+- Orio-Persean Conflux
+- Osprey Stellar Remnant
+- Wagar's Reach
+- Zephyrus
 topics:
 - exploration
 - ship
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Player-organised deep-space expedition from Colonia promoting exploration of remote stellar regions.
 legacy_weight: 3
 significance: medium
 ---

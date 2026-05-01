@@ -4,11 +4,20 @@ title: Galactic News  Thargoid Threat Continues to Escalate
 slug: galactic_news_thargoid_threat_continues_to_escalate
 date: '3303-10-07'
 source: GitHub
+summary: Thargoid activity has escalated dramatically in the Pleiades Nebula, with Interceptor-class ships attacking Imperial, Federal and civilian vessels. Thargoids are now capturing occupied escape pods and deploying clusters of attack drones.
+player_impact: Exercise caution when operating in the Pleiades Nebula.
+persons:
+- Aden Tanner
 groups:
 - Aegis
+- Federation
+- Empire
 locations:
-- Aegis
 - Pleiades Nebula
+technologies:
+- Thargoid Interceptor
+- attack drones
+- escape pods
 topics:
 - alien contact
 - ship

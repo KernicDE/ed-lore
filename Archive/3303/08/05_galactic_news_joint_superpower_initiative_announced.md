@@ -4,15 +4,25 @@ title: Galactic News  Joint Superpower Initiative Announced
 slug: galactic_news_joint_superpower_initiative_announced
 date: '3303-08-05'
 source: GitHub
-entities:
+summary: Professor Alba Tesreau of the Achenar Research Council announces the formation
+  of Aegis, a joint superpower initiative of scientists from the Empire, Federation
+  and Alliance to coordinate Thargoid research. The organisation will establish its
+  first research outpost in the Pleiades Nebula with substantial funding from all three
+  superpowers.
+player_impact: None
+persons:
 - Alba Tesreau
 groups:
 - Aegis
+- Achenar Research Council
+- Empire
+- Federation
 - Alliance
 locations:
+- Sorbago
 - Achenar
-- Aegis
 - Pleiades Nebula
+technologies: []
 topics:
 - alien contact
 - diplomacy

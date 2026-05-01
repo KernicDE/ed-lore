@@ -4,13 +4,21 @@ title: Galactic News  Secret Billionaires’ Campaign Concludes
 slug: galactic_news_secret_billionaires_campaign_concludes
 date: '3303-10-13'
 source: GitHub
-entities:
-- Ranger-One
+summary: The Secret Billionaires successfully cleared the I Carinae system of agitators with support from hundreds of pilots. Commander Ranger-One thanked the community for restoring peace and stability.
+player_impact: Eliminate criminals in the I Carinae system and collect rewards from Somerset Station.
+persons:
+- Commander Ranger-One
+groups:
+- Secret Billionaires
+locations:
+- I Carinae
+- Somerset Station
+technologies: []
 topics:
 - crime
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+- bounty hunting
+modern_impact: A successful community combat initiative that restored order to a system
+  plagued by criminal agitators.
 legacy_weight: 2
 significance: low
 ---

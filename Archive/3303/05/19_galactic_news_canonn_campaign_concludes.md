@@ -4,16 +4,23 @@ title: Galactic News  Canonn Campaign Concludes
 slug: galactic_news_canonn_campaign_concludes
 date: '3303-05-19'
 source: GitHub
+summary: The Canonn Interstellar Research Group's appeal for materials concluded successfully, with construction of the deep-space research vessel Gnosis now underway.
+player_impact: Contributing pilots can collect rewards from Zoline Port in the LTT 377 system.
+persons: []
 groups:
-- Canonn
 - Canonn Interstellar Research Group
+locations:
+- Zoline Port
+- LTT 377
+technologies:
+- Gnosis
 topics:
 - construction
 - research
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Completion of the Gnosis research vessel marks a milestone for community-driven deep-space exploration infrastructure.
 legacy_weight: 2
 significance: low
 ---

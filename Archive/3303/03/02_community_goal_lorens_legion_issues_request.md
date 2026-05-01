@@ -4,13 +4,18 @@ title: Community Goal  Loren's Legion Issues Request
 slug: community_goal_lorens_legion_issues_request
 date: '3303-03-02'
 source: GitHub
+summary: Loren's Legion places an open order for tantalum to satisfy a spike in client demand. The organisation's facility at Hiram's Anchorage is running at full capacity.
+player_impact: Deliver tantalum to Hiram's Anchorage in the Prism system.
+persons: []
+groups:
+- Loren's Legion
 locations:
 - Prism
+- Hiram's Anchorage
 topics:
 - trade
 arc_id: salome-conspiracy
-modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
-  and Federal politics.
+modern_impact: Commodity community goal tied to Loren's Legion, an organisation linked to the Salomé conspiracy and Antares mystery.
 legacy_weight: 4
 significance: high
 ---

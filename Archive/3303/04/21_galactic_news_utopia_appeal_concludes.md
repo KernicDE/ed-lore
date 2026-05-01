@@ -4,13 +4,21 @@ title: Galactic News  Utopia Appeal Concludes
 slug: galactic_news_utopia_appeal_concludes
 date: '3303-04-21'
 source: GitHub
+summary: The Utopia Commune's campaign for materials reached a successful conclusion, with commodities delivered for a forthcoming research and development programme.
+player_impact: Contributing pilots can collect rewards from Cenker City in the Gucumadhyas system.
+persons:
+- Pranav Antal
 groups:
-- Utopia
+- Utopia Commune
+locations:
+- Cenker City
+- Gucumadhyas
+technologies: []
 topics:
 - research
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Utopia's research programme leverages pilot-delivered commodities to advance its technological and scientific agenda.
 legacy_weight: 2
 significance: low
 ---

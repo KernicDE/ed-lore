@@ -4,10 +4,17 @@ title: Galactic News  Alectrona Imperial Society Operation Succeeds
 slug: galactic_news_alectrona_imperial_society_operation_succeeds
 date: '3303-03-23'
 source: GitHub
+summary: The Alectrona Imperial Society announced its appeal for construction materials reached a successful conclusion. Hundreds of independent pilots supported the operation to build an outpost in the Andhrimi system.
+player_impact: Collect rewards from Yurchikhin Station in the Andhrimi system.
+persons: []
+groups:
+- Alectrona Imperial Society
+locations:
+- Andhrimi
+- Yurchikhin Station
 topics:
 - construction
-- war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: None
 legacy_weight: 2
 significance: low
 ---

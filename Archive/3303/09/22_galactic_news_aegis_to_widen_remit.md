@@ -4,10 +4,17 @@ title: Galactic News  Aegis to Widen Remit
 slug: galactic_news_aegis_to_widen_remit
 date: '3303-09-22'
 source: GitHub
+summary: Aegis confirms it will widen its remit to include defence as well as research,
+  following the recent Thargoid attack in the Pleiades Sector IR-W d1-55 system. The
+  organisation has received sanctions from all three superpower leaders and its budget
+  has been dramatically increased.
+player_impact: None
+persons: []
 groups:
 - Aegis
 locations:
-- Aegis
+- Pleiades Sector IR-W d1-55
+technologies: []
 topics:
 - alien contact
 - research

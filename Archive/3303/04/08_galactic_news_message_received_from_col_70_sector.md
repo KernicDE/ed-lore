@@ -4,8 +4,18 @@ title: Galactic News  Message Received from Col 70 Sector
 slug: galactic_news_message_received_from_col_70_sector
 date: '3303-04-08'
 source: GitHub
-entities:
+summary: A weak signal from the Col 70 Sector has been detected, coinciding with thousands of covert messages. Bounties on Salomé, Tsu Annabelle Singh, Raan Corsen, and Yuri Nakamura have been increased.
+player_impact: Pilots are authorized to hunt Salomé, Tsu Annabelle Singh, Raan Corsen, and Yuri Nakamura; bounties are 5 million for Salomé and 2 million each for the others.
+persons:
+- Salomé
+- Tsu Annabelle Singh
+- Raan Corsen
 - Yuri Nakamura
+groups:
+- Imperial intelligence services
+locations:
+- Col 70 Sector
+technologies: []
 arc_id: salome-conspiracy
 modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
   and Federal politics.

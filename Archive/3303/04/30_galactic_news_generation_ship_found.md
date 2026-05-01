@@ -4,12 +4,18 @@ title: Galactic News  Generation Ship Found
 slug: galactic_news_generation_ship_found
 date: '3303-04-30'
 source: GitHub
+summary: The lost generation ship Lycaor has been discovered in the Alaunus system; its crew was killed centuries ago by an unidentified pathogen.
+player_impact: Pilots can visit the Lycaor in the Alaunus system, though system authorities urge non-interference with the protected vessel.
+persons: []
+groups: []
 locations:
 - Alaunus
+- LHS 1047
+technologies: []
 topics:
 - medicine
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Discovery of the generation ship Lycaor in Alaunus highlights the ongoing mystery of lost generation ships across the galaxy.
 legacy_weight: 1
 significance: low
 ---

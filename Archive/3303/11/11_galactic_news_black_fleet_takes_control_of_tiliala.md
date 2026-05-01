@@ -4,11 +4,21 @@ title: Galactic News  Black Fleet Takes Control of Tiliala
 slug: galactic_news_black_fleet_takes_control_of_tiliala
 date: '3303-11-11'
 source: GitHub
+summary: The Black Fleet, an independent organization formerly based in Varpet, has become the dominant faction in the permit-locked Tiliala system. Access rights are now shared between the Black Fleet and the Conservatives of Tiliala, who have relocated to a Wells-class Carrier named Tiliala's Lament in nearby Akandinigua. Corporate and political partners have secured the carrier against capture.
+player_impact: None
+persons:
+- Lanquo Parkes
+groups:
+- Black Fleet
+- Conservatives of Tiliala
 locations:
 - Tiliala
+- Varpet
+- Akandinigua
+- Tiliala's Lament
 topics:
 - corporate expansion
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The Black Fleet's takeover of Tiliala creates a rare shared-permit situation in a formerly restricted system, reshaping local power dynamics.
 legacy_weight: 2
 significance: low
 ---
