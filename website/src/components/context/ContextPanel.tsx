@@ -139,6 +139,16 @@ export default function ContextPanel({
 
   const currentYear = currentDate?.split('-')[0] || '';
 
+  // Slider: left = past (oldest), right = present (newest)
+  const sliderYears = useMemo(() => [...allYears].sort((a, b) => a.localeCompare(b)), [allYears]);
+  const sliderIndex = sliderYears.indexOf(currentYear);
+
+  const handleSliderChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const idx = parseInt(e.target.value, 10);
+    const year = sliderYears[idx];
+    if (year) onYearSelect?.(year);
+  };
+
   const entityTypeLabel: Record<string, string> = {
     person: 'P',
     faction: 'F',
@@ -149,19 +159,62 @@ export default function ContextPanel({
   return (
     <div className="context-pane">
       {/* Year Slider */}
-      {allYears.length > 0 && (
+      {sliderYears.length > 0 && (
         <div className="holo-panel">
           <div className="holo-title">Jump to Year</div>
-          <div className="year-slider">
-            {allYears.map((year) => (
-              <button
-                key={year}
-                className={`year-slider-btn ${year === currentYear ? 'active' : ''}`}
-                onClick={() => onYearSelect?.(year)}
-              >
-                {year}
-              </button>
-            ))}
+          <div style={{ padding: '10px 0' }}>
+            <input
+              type="range"
+              min={0}
+              max={sliderYears.length - 1}
+              value={Math.max(0, sliderIndex)}
+              onChange={handleSliderChange}
+              className="year-range-input"
+              style={{
+                width: '100%',
+                height: 4,
+                WebkitAppearance: 'none',
+                appearance: 'none',
+                background: 'var(--border-glow)',
+                borderRadius: 2,
+                outline: 'none',
+                cursor: 'pointer',
+              }}
+            />
+            <div
+              style={{
+                display: 'flex',
+                justifyContent: 'space-between',
+                marginTop: 8,
+                fontFamily: 'var(--font-mono)',
+                fontSize: 10,
+                color: 'var(--text-dim)',
+              }}
+            >
+              {sliderYears.map((year) => (
+                <span
+                  key={year}
+                  style={{
+                    color: year === currentYear ? 'var(--elite-orange)' : 'var(--text-dim)',
+                    fontWeight: year === currentYear ? 700 : 400,
+                  }}
+                >
+                  {year.slice(-2)}
+                </span>
+              ))}
+            </div>
+            <div
+              style={{
+                textAlign: 'center',
+                marginTop: 6,
+                fontFamily: 'var(--font-hud)',
+                fontSize: 14,
+                color: 'var(--elite-orange)',
+                letterSpacing: 2,
+              }}
+            >
+              {currentYear || sliderYears[sliderYears.length - 1]}
+            </div>
           </div>
         </div>
       )}

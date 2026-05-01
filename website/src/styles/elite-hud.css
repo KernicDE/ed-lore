@@ -475,42 +475,63 @@ html, body {
 }
 
 /* ── Year Slider ────────────────────────────────────────────────────────── */
-.year-slider {
-  display: flex;
-  gap: 6px;
-  overflow-x: auto;
-  padding: 10px 0;
-  margin-bottom: 16px;
-  scrollbar-width: none;
-  -ms-overflow-style: none;
-}
-
-.year-slider::-webkit-scrollbar {
-  display: none;
-}
-
-.year-slider-btn {
-  flex-shrink: 0;
-  background: var(--bg-elevated);
-  border: 1px solid var(--border-default);
-  color: var(--text-secondary);
-  font-family: var(--font-mono);
-  font-size: 12px;
-  padding: 6px 14px;
+.year-range-input {
+  width: 100%;
+  height: 4px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: var(--border-glow);
+  border-radius: 2px;
+  outline: none;
   cursor: pointer;
-  transition: all 0.15s;
-  white-space: nowrap;
 }
 
-.year-slider-btn:hover {
-  border-color: var(--elite-orange-dim);
-  color: var(--elite-orange);
+/* WebKit thumb */
+.year-range-input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--elite-orange);
+  border: 2px solid var(--bg-primary);
+  box-shadow: 0 0 8px rgba(255, 140, 0, 0.5);
+  cursor: pointer;
+  transition: transform 0.1s, box-shadow 0.15s;
 }
 
-.year-slider-btn.active {
-  background: rgba(255, 140, 0, 0.15);
-  border-color: var(--elite-orange);
-  color: var(--elite-orange);
+.year-range-input::-webkit-slider-thumb:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 12px rgba(255, 140, 0, 0.8);
+}
+
+.year-range-input::-webkit-slider-thumb:active {
+  transform: scale(1.1);
+  background: var(--elite-orange-glow);
+}
+
+/* Firefox thumb */
+.year-range-input::-moz-range-thumb {
+  width: 18px;
+  height: 18px;
+  border-radius: 50%;
+  background: var(--elite-orange);
+  border: 2px solid var(--bg-primary);
+  box-shadow: 0 0 8px rgba(255, 140, 0, 0.5);
+  cursor: pointer;
+  transition: transform 0.1s, box-shadow 0.15s;
+}
+
+.year-range-input::-moz-range-thumb:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 12px rgba(255, 140, 0, 0.8);
+}
+
+/* Firefox track */
+.year-range-input::-moz-range-track {
+  height: 4px;
+  background: var(--border-glow);
+  border-radius: 2px;
 }
 
 /* ── Animations ─────────────────────────────────────────────────────────── */
