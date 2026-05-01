@@ -4,7 +4,9 @@ title: Retrial Requested for Admiral Tanner
 slug: retrial_requested_for_admiral_tanner
 date: '3308-08-26'
 source: API
-summary: The Federal Attorney's Office calls for Admiral Aden Tanner's conviction to be reviewed in light of HIP 22460, where events validated his accusation that Salvation deliberately attracted Thargoids to test his superweapon.
+summary: The Federal Attorney's Office calls for Admiral Aden Tanner's conviction
+  to be reviewed in light of HIP 22460, where events validated his accusation that
+  Salvation deliberately attracted Thargoids to test his superweapon.
 player_impact: Not specifically mentioned — this is a legal report.
 persons:
 - Aden Tanner
@@ -23,12 +25,15 @@ topics:
 - investigation
 - war
 arc_id: salvation-azimuth
-modern_impact: Tanner's posthumous vindication exposed the injustice of his court martial, demonstrating how the military establishment had punished the one officer who correctly identified Salvation's provocation tactics while rewarding those who supported Azimuth.
+modern_impact: Tanner's posthumous vindication exposed the injustice of his court
+  martial, demonstrating how the military establishment had punished the one officer
+  who correctly identified Salvation's provocation tactics while rewarding those who
+  supported Azimuth.
 legacy_weight: 5
 significance: high
-related_uuids:
-- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+related_uuids: []
 ---
+
 
 The Federal Attorney’s Office has called for the conviction of former admiral Aden Tanner to be reviewed in light of events in HIP 22460.
 Following a distinguished career in the Federal Navy, Tanner served as the chief military liaison for Aegis. In November 3307, while in command of the Aegis Defense megaship Musashi, he attempted to take control of Hind Mine starport. He believed it held evidence that Salvation intentionally attracted the Thargoids to the Cornsar system in order to test his superweapon.

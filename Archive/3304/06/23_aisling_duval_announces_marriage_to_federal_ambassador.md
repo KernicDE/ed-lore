@@ -4,7 +4,11 @@ title: Aisling Duval Announces Marriage to Federal Ambassador
 slug: aisling_duval_announces_marriage_to_federal_ambassador
 date: '3304-06-23'
 source: GitHub
-summary: Princess Aisling Duval announces her engagement to Federal Ambassador Jordan Rochester at a press conference on Emerald. Both express hope their marriage will build bridges between the Empire and Federation. Entertainment journalist Solomon Helios speculates on the political implications, while no official comment comes from the Imperial Palace or White House.
+summary: Princess Aisling Duval announces her engagement to Federal Ambassador Jordan
+  Rochester at a press conference on Emerald. Both express hope their marriage will
+  build bridges between the Empire and Federation. Entertainment journalist Solomon
+  Helios speculates on the political implications, while no official comment comes
+  from the Imperial Palace or White House.
 player_impact: None
 persons:
 - Aisling Duval
@@ -20,13 +24,14 @@ locations:
 topics:
 - diplomacy
 - succession
-modern_impact: The unprecedented engagement between an Imperial princess and a Federal ambassador threatens to reshape superpower relations, generating both hope and controversy.
+modern_impact: The unprecedented engagement between an Imperial princess and a Federal
+  ambassador threatens to reshape superpower relations, generating both hope and controversy.
 legacy_weight: 4
 significance: high
 related_uuids:
-- 07d2bfe5-82af-5a3d-9099-a481b1198af1
 - d7ee12d3-53dc-5c8b-80f0-0309a7f56575
 ---
+
 
 Princess Aisling Duval has made an unexpected announcement regarding her relationship With Federal Ambassador Jordan Rochester.  
 

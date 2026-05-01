@@ -4,8 +4,11 @@ title: Thargoids Conquer HIP 22460
 slug: thargoids_conquer_hip_22460
 date: '3308-08-10'
 source: API
-summary: The Proteus Wave fails catastrophically as Thargoid forces overwhelm the coalition fleet in HIP 22460, destroying human ships after a second energy pulse renders them powerless.
-player_impact: Pilots in HIP 22460 found themselves without power following the second energy pulse and were rapidly targeted by hostile Thargoid vessels.
+summary: The Proteus Wave fails catastrophically as Thargoid forces overwhelm the
+  coalition fleet in HIP 22460, destroying human ships after a second energy pulse
+  renders them powerless.
+player_impact: Pilots in HIP 22460 found themselves without power following the second
+  energy pulse and were rapidly targeted by hostile Thargoid vessels.
 persons:
 - Jade Sanderlyn
 - Salvation
@@ -21,12 +24,14 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: The fall of HIP 22460 shattered the myth of Salvation's invincibility, exposing the Proteus Wave as a fatally flawed weapon that had provoked a more devastating Thargoid counter-attack than anything seen before.
+modern_impact: The fall of HIP 22460 shattered the myth of Salvation's invincibility,
+  exposing the Proteus Wave as a fatally flawed weapon that had provoked a more devastating
+  Thargoid counter-attack than anything seen before.
 legacy_weight: 5
 significance: high
-related_uuids:
-- 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
+related_uuids: []
 ---
+
 
 **Pilots’ Federation ALERT**
 The Proteus Wave’s failure has resulted in Thargoid forces overwhelming the coalition fleet in HIP 22460.

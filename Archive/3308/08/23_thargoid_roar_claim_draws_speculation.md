@@ -4,7 +4,9 @@ title: Thargoid Roar Claim Draws Speculation
 slug: thargoid_roar_claim_draws_speculation
 date: '3308-08-23'
 source: API
-summary: Independent journalist Flint Lafosse reports that survivors of the Battle of HIP 22460 describe hearing a powerful alien sound during the Thargoid counter-attack, but military authorities classify all data and dismiss claims as collective trauma.
+summary: Independent journalist Flint Lafosse reports that survivors of the Battle
+  of HIP 22460 describe hearing a powerful alien sound during the Thargoid counter-attack,
+  but military authorities classify all data and dismiss claims as collective trauma.
 player_impact: Not specifically mentioned — this is an investigative report.
 persons:
 - Dalton Chase
@@ -24,12 +26,14 @@ topics:
 - investigation
 - war
 arc_id: salvation-azimuth
-modern_impact: The military's blanket classification of HIP 22460 data fuelled conspiracy theories about the Thargoid roar, suggesting authorities were concealing evidence of a new alien capability rather than protecting operational security.
+modern_impact: The military's blanket classification of HIP 22460 data fuelled conspiracy
+  theories about the Thargoid roar, suggesting authorities were concealing evidence
+  of a new alien capability rather than protecting operational security.
 legacy_weight: 4
 significance: medium
-related_uuids:
-- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+related_uuids: []
 ---
+
 
 An independent journalist has suggested that some survivors of the Battle of HIP 22460 heard a strange alien sound of unknown origin.
 Flint ‘Firemaker’ Lafosse published his theories via the Rewired network:

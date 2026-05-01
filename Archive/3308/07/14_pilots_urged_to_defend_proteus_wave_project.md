@@ -4,8 +4,10 @@ title: Pilots Urged to Defend Proteus Wave Project
 slug: pilots_urged_to_defend_proteus_wave_project
 date: '3308-07-14'
 source: API
-summary: Azimuth calls for reinforcements to defend the Proteus Wave after saboteurs delay construction and Thargoid attacks intensify.
-player_impact: Independent pilots were offered reimbursement for engaging Thargoids and could redeem combat bonds at the Musashi megaship.
+summary: Azimuth calls for reinforcements to defend the Proteus Wave after saboteurs
+  delay construction and Thargoid attacks intensify.
+player_impact: Independent pilots were offered reimbursement for engaging Thargoids
+  and could redeem combat bonds at the Musashi megaship.
 persons:
 - Morag Halloran
 groups:
@@ -22,14 +24,16 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: Halloran's accusation that 'Operation Wych Hunt saboteurs' caused delays revealed the growing internal resistance to Salvation's project, a resistance that would be vindicated when the superweapon catastrophically failed.
+modern_impact: Halloran's accusation that 'Operation Wych Hunt saboteurs' caused delays
+  revealed the growing internal resistance to Salvation's project, a resistance that
+  would be vindicated when the superweapon catastrophically failed.
 legacy_weight: 5
 significance: high
 related_uuids:
 - af81ef25-3735-51f4-bd67-5d52721e0376
 - 057ab23f-37c2-5666-a9ad-0f2e7344b006
-- f63f12d4-93f4-5bdc-8c63-26f107fba702
 ---
+
 
 **Pilots’ Federation ALERT**
 As the Thargoid presence increases in the HIP 22460 system, Azimuth Biotech and the superpowers call for reinforcements.

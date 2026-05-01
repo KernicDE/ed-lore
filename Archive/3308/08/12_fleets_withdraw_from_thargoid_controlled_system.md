@@ -4,8 +4,12 @@ title: Fleets Withdraw from Thargoid-Controlled System
 slug: fleets_withdraw_from_thargoid_controlled_system
 date: '3308-08-12'
 source: API
-summary: The superpowers confirm full retreat from HIP 22460 as Thargoids establish a stronghold, with Fleet Admiral Maikori admitting search and rescue windows are closing and Senator Patreus acknowledging the aliens have secured human-occupied space.
-player_impact: Federal search and rescue teams attempted to locate survivors in HIP 22460 before the window of opportunity closed.
+summary: The superpowers confirm full retreat from HIP 22460 as Thargoids establish
+  a stronghold, with Fleet Admiral Maikori admitting search and rescue windows are
+  closing and Senator Patreus acknowledging the aliens have secured human-occupied
+  space.
+player_impact: Federal search and rescue teams attempted to locate survivors in HIP
+  22460 before the window of opportunity closed.
 persons:
 - Alba Tesreau
 - Denton Patreus
@@ -25,12 +29,14 @@ topics:
 - politics
 - war
 arc_id: salvation-azimuth
-modern_impact: The superpowers' admission of defeat in HIP 22460 shattered the illusion of collective military competence, forcing each power to retreat and regroup while planetary security forces across the core systems braced for mass invasion.
+modern_impact: The superpowers' admission of defeat in HIP 22460 shattered the illusion
+  of collective military competence, forcing each power to retreat and regroup while
+  planetary security forces across the core systems braced for mass invasion.
 legacy_weight: 5
 significance: high
-related_uuids:
-- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+related_uuids: []
 ---
+
 
 The Alliance, Empire and Federation have confirmed that the remains of their anti-xeno taskforces have fully retreated from the HIP 22460 system.
 Fleet Admiral Tayo Maikori declared: “The Thargoids are now heavily entrenched in HIP 22460. Federal search and rescue teams are attempting to locate survivors, but our window of opportunity is closing as the enemy forces increase in number.” 

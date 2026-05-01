@@ -4,7 +4,9 @@ title: 'A Renewed Journey for the Golconda '
 slug: a_renewed_journey_for_the_golconda
 date: '3308-06-17'
 source: API
-summary: The generation ship Golconda departs Upaniklis with sixty percent of its former population resuming their ancestral voyage after Artificers Clan megaship upgrades, with Commander Javi Alvarado invited to join the crew.
+summary: The generation ship Golconda departs Upaniklis with sixty percent of its
+  former population resuming their ancestral voyage after Artificers Clan megaship
+  upgrades, with Commander Javi Alvarado invited to join the crew.
 player_impact: Not specifically mentioned — this is a cultural report.
 persons:
 - Javi Alvarado
@@ -16,11 +18,15 @@ locations:
 topics:
 - engineering
 - exploration
-arc_id: golconda
-modern_impact: The Golconda's departure represented a rare moment of continuity in galactic history, where a pre-hyperdrive generation ship was retrofitted for the modern era and its people chose exploration over settlement, preserving a unique cultural identity.
+arc_id: jaques-station
+modern_impact: The Golconda's departure represented a rare moment of continuity in
+  galactic history, where a pre-hyperdrive generation ship was retrofitted for the
+  modern era and its people chose exploration over settlement, preserving a unique
+  cultural identity.
 legacy_weight: 3
 significance: medium
 ---
+
 
 The generation ship Golconda has departed from the Upaniklis system with much of its former population on board.
 Three years ago, the Golcondans abandoned their ship and resettled at the Forester’s Choice outpost in Upaniklis. Approximately 60% of these 70,000 people have now elected to resume their itinerant lifestyle aboard the vessel, which was recently upgraded with modern megaship technology by the Artificers Clan.

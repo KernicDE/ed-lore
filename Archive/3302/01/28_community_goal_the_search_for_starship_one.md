@@ -4,8 +4,15 @@ title: Community Goal  The Search for Starship One
 slug: community_goal_the_search_for_starship_one
 date: '3302-01-28'
 source: GitHub
-summary: Federal President Zachary Hudson announced a resumed search for Starship One, the presidential vessel that disappeared in May 3301 with then-President Jasmina Halsey aboard. Pilots are invited to deliver wreckage components to Leoniceno Orbital in the Azaleach system for analysis. A mysterious organization called Daurtu Jet Comms PLC is also offering rewards for the search, with even larger payouts than the Federation.
-player_impact: Pilots can search for Starship One wreckage and deliver components to Leoniceno Orbital in Azaleach for Federal rewards, or support Daurtu Jet Comms PLC for potentially higher payouts.
+summary: Federal President Zachary Hudson announced a resumed search for Starship
+  One, the presidential vessel that disappeared in May 3301 with then-President Jasmina
+  Halsey aboard. Pilots are invited to deliver wreckage components to Leoniceno Orbital
+  in the Azaleach system for analysis. A mysterious organization called Daurtu Jet
+  Comms PLC is also offering rewards for the search, with even larger payouts than
+  the Federation.
+player_impact: Pilots can search for Starship One wreckage and deliver components
+  to Leoniceno Orbital in Azaleach for Federal rewards, or support Daurtu Jet Comms
+  PLC for potentially higher payouts.
 persons:
 - Zachary Hudson
 - Jasmina Halsey
@@ -19,11 +26,13 @@ topics:
 - investigation
 technologies:
 - Starship One
-arc_id: starship-one-disappearance
-modern_impact: Reopened one of the most significant mysteries in Federal politics, with implications for the fate of former President Jasmina Halsey.
+arc_id: halsey-presidency
+modern_impact: Reopened one of the most significant mysteries in Federal politics,
+  with implications for the fate of former President Jasmina Halsey.
 legacy_weight: 3
 significance: medium
 ---
+
 
 In May 3301, the personal Vessel of the Federal president, Starship One, disappeared en route to the Azaleach system. An investigation was promptly launched, But the fate of the vessel and her crew, Which included then-President Jasmina Halsey, could not be conclusively determined. In a statement released earlier today, Federal President Zachary Hudson announced his intention to resume the search for the ship, inspired by the discovery of the remains of the liner Antares: 
 

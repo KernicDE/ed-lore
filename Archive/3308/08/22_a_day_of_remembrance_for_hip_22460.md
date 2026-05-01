@@ -4,7 +4,10 @@ title: A Day of Remembrance for HIP 22460
 slug: a_day_of_remembrance_for_hip_22460
 date: '3308-08-22'
 source: API
-summary: President Zachary Hudson declares a Federal day of remembrance for the over fifty thousand naval personnel lost in the Battle of HIP 22460, while Shadow President Felicia Winters criticises the commitment of Federal resources to Salvation's failed project.
+summary: President Zachary Hudson declares a Federal day of remembrance for the over
+  fifty thousand naval personnel lost in the Battle of HIP 22460, while Shadow President
+  Felicia Winters criticises the commitment of Federal resources to Salvation's failed
+  project.
 player_impact: Not specifically mentioned — this is a commemorative announcement.
 persons:
 - Felicia Winters
@@ -18,12 +21,14 @@ topics:
 - politics
 - war
 arc_id: salvation-azimuth
-modern_impact: Hudson's framing of the disaster as purely Thargoid aggression, countered by Winters' accusation of Federal complicity, defined the partisan debate over responsibility for the HIP 22460 catastrophe.
+modern_impact: Hudson's framing of the disaster as purely Thargoid aggression, countered
+  by Winters' accusation of Federal complicity, defined the partisan debate over responsibility
+  for the HIP 22460 catastrophe.
 legacy_weight: 5
 significance: high
-related_uuids:
-- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+related_uuids: []
 ---
+
 
 President Zachary Hudson has announced that today is a Federal day of remembrance for those lost in HIP 22460 on August 9th.
 In a public address, the president formally acknowledged the recent tragedy:

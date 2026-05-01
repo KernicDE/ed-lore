@@ -4,7 +4,12 @@ title: Far God Cultists Vanishing
 slug: far_god_cultists_vanishing
 date: '3304-08-24'
 source: GitHub
-summary: The FIA reveals Far God cult members are disappearing in large numbers, with hive-chapels found empty and entire chapters vanishing overnight. Senior Agent Micah Whitefield speculates adherents are abandoning the cult but urges reporting them to the FIA. Dr Jameelah Griffin notes no reports of former worshippers returning to families, calling the disappearances a mystery. Juanita Bishop claims they are returning to their Thargoid masters.
+summary: The FIA reveals Far God cult members are disappearing in large numbers, with
+  hive-chapels found empty and entire chapters vanishing overnight. Senior Agent Micah
+  Whitefield speculates adherents are abandoning the cult but urges reporting them
+  to the FIA. Dr Jameelah Griffin notes no reports of former worshippers returning
+  to families, calling the disappearances a mystery. Juanita Bishop claims they are
+  returning to their Thargoid masters.
 player_impact: None
 persons:
 - Micah Whitefield
@@ -20,14 +25,16 @@ topics:
 - alien contact
 - investigation
 - religion
-modern_impact: The mysterious disappearances raise questions about the cult's true nature and whether adherents are being forcibly removed or have some hidden destination, deepening the Far God mystery.
+modern_impact: The mysterious disappearances raise questions about the cult's true
+  nature and whether adherents are being forcibly removed or have some hidden destination,
+  deepening the Far God mystery.
 legacy_weight: 4
 significance: high
 related_uuids:
 - f12c2ec4-bbcc-55f0-87ac-1594fe3eb363
 - 0f10ac31-615c-5f1b-a802-a954ef4214a1
-- e4fb6ad7-f741-5fae-8ab7-908e733f3c83
 ---
+
 
 The Federal Intelligence Agency has revealed that members of the Far God cult are disappearing in large numbers. 
 

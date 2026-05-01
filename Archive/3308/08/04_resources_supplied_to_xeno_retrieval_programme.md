@@ -4,8 +4,11 @@ title: Resources Supplied to Xeno Retrieval Programme
 slug: resources_supplied_to_xeno_retrieval_programme
 date: '3308-08-04'
 source: API
-summary: A delivery campaign to the Glorious Prospect in Pleiades Sector CW-U B3-2 provides vital commodities enabling Azimuth Biotech to analyse salvaged Thargoid wreckages following the Proteus Wave activation in HIP 22460.
-player_impact: Pilots delivered HN shock mounts, micro controllers, neofabric insulation, and radiation baffles to the Glorious Prospect.
+summary: A delivery campaign to the Glorious Prospect in Pleiades Sector CW-U B3-2
+  provides vital commodities enabling Azimuth Biotech to analyse salvaged Thargoid
+  wreckages following the Proteus Wave activation in HIP 22460.
+player_impact: Pilots delivered HN shock mounts, micro controllers, neofabric insulation,
+  and radiation baffles to the Glorious Prospect.
 persons:
 - Maxim Lagunov
 - Torben Rademaker
@@ -21,12 +24,14 @@ topics:
 - research
 - war
 arc_id: salvation-azimuth
-modern_impact: The successful supply campaign demonstrated Azimuth's post-victory corporate strategy in motion, using pilot labour to establish a xenological research infrastructure before the Proteus Wave had even fired.
+modern_impact: The successful supply campaign demonstrated Azimuth's post-victory
+  corporate strategy in motion, using pilot labour to establish a xenological research
+  infrastructure before the Proteus Wave had even fired.
 legacy_weight: 4
 significance: medium
-related_uuids:
-- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+related_uuids: []
 ---
+
 
 **Pilots’ Federation ALERT**
 A delivery campaign in the Pleiades Sector CW-U B3-2 system has provided vital commodities to Azimuth Biotech.

@@ -4,7 +4,9 @@ title: A New Chapter for Azimuth
 slug: a_new_chapter_for_azimuth
 date: '3308-08-30'
 source: API
-summary: Azimuth Biotech announces a new chapter under acting CEO Torben Rademaker after Salvation's death, with the Musashi returning to T Tauri and the Glorious Prospect jumping to LHS 157 to establish a resource-gathering initiative.
+summary: Azimuth Biotech announces a new chapter under acting CEO Torben Rademaker
+  after Salvation's death, with the Musashi returning to T Tauri and the Glorious
+  Prospect jumping to LHS 157 to establish a resource-gathering initiative.
 player_impact: Not specifically mentioned — this is a corporate statement.
 persons:
 - Caleb Wycherley
@@ -23,12 +25,14 @@ topics:
 - corporate expansion
 - war
 arc_id: salvation-azimuth
-modern_impact: Rademaker's attempt to rebrand Azimuth as a victim of radical saboteurs rather than a perpetrator of genocide revealed the corporation's resilience, demonstrating how deeply embedded it had become in the galactic military-industrial complex.
+modern_impact: Rademaker's attempt to rebrand Azimuth as a victim of radical saboteurs
+  rather than a perpetrator of genocide revealed the corporation's resilience, demonstrating
+  how deeply embedded it had become in the galactic military-industrial complex.
 legacy_weight: 4
 significance: medium
-related_uuids:
-- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+related_uuids: []
 ---
+
 
 Azimuth Biotech has outlined plans for the corporation’s future following the confirmation of Salvation’s death.
 Director Torben Rademaker, head of strategic operations, submitted a statement to public newsfeeds:

@@ -4,8 +4,11 @@ title: The Silent Aftermath
 slug: the_silent_aftermath
 date: '3308-08-11'
 source: API
-summary: Two days after the HIP 22460 massacre, authorities maintain silence while Azimuth's surviving megaships accept survivors and medical personnel refuse press access to witnesses.
-player_impact: Survivors from HIP 22460 reached the Glorious Prospect, Musashi, and El Centinela Cadejo megaships in Pleiades Sector CW-U B3-2.
+summary: Two days after the HIP 22460 massacre, authorities maintain silence while
+  Azimuth's surviving megaships accept survivors and medical personnel refuse press
+  access to witnesses.
+player_impact: Survivors from HIP 22460 reached the Glorious Prospect, Musashi, and
+  El Centinela Cadejo megaships in Pleiades Sector CW-U B3-2.
 persons:
 - Alba Tesreau
 - Ernesto Rios
@@ -23,12 +26,14 @@ topics:
 - humanitarian
 - war
 arc_id: salvation-azimuth
-modern_impact: The authorities' deliberate information blackout after HIP 22460 allowed Azimuth and the superpowers to control the narrative, delaying public reckoning with the scale of the disaster and Salvation's responsibility.
+modern_impact: The authorities' deliberate information blackout after HIP 22460 allowed
+  Azimuth and the superpowers to control the narrative, delaying public reckoning
+  with the scale of the disaster and Salvation's responsibility.
 legacy_weight: 5
 significance: high
-related_uuids:
-- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
+related_uuids: []
 ---
+
 
 The Thargoid victory in the HIP 22460 system has raised many questions which neither Azimuth Biotech nor the superpowers have officially responded to.
 Ernesto Rios, field correspondent for Vox Galactica, published a report summarising the latest developments:

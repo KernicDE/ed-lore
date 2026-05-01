@@ -2,8 +2,8 @@
 id: guardian-ancients
 name: Guardian Ancients
 first_seen_date: '3303-01-23'
-last_seen_date: '3307-12-03'
-mention_count: 13
+last_seen_date: '3309-08-17'
+mention_count: 14
 significance: medium
 key_entities:
 - guardian-drones
@@ -18,8 +18,8 @@ key_entities:
 # Guardian Ancients
 
 First seen: **3303-01-23**  
-Last seen: **3307-12-03**  
-Articles: **13**
+Last seen: **3309-08-17**  
+Articles: **14**
 
 ## Key Figures
 

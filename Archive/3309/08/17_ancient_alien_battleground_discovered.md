@@ -4,8 +4,11 @@ title: Ancient Alien Battleground Discovered
 slug: ancient_alien_battleground_discovered
 date: '3309-08-17'
 source: API
-summary: Wreckage from an ancient Guardian-Thargoid battle is found in Wregoe BU-Y b2-0, only the second such site ever recorded, with local Thargoids showing non-aggressive behavior.
-player_impact: Commander Renia Rakowski's report in Wregoe GA-X B3-0 led to the discovery; pilots may explore the Wregoe BU-Y b2-0 site.
+summary: Wreckage from an ancient Guardian-Thargoid battle is found in Wregoe BU-Y
+  b2-0, only the second such site ever recorded, with local Thargoids showing non-aggressive
+  behavior.
+player_impact: Commander Renia Rakowski's report in Wregoe GA-X B3-0 led to the discovery;
+  pilots may explore the Wregoe BU-Y b2-0 site.
 persons:
 - Jeong-Hui Shin
 - Renia Rakowski
@@ -26,8 +29,13 @@ topics:
 - research
 - xenoarchaeology
 entities: []
-arc_id: guardian-thargoid-war
-modern_impact: Shin's theory — 'they are still following million-year-old orders to attack the Guardians. Therefore, from their perspective, humans are an unknown species and not identified as an enemy' — is a remarkable insight. The comparison to the Proteus discovery in the Trapezium Sector two centuries ago provides historical context. The peace advocates' framing — 'an opportunity for non-hostile interactions with the Thargoids' — contrasts with standard military doctrine.
+arc_id: guardian-ancients
+modern_impact: Shin's theory — 'they are still following million-year-old orders to
+  attack the Guardians. Therefore, from their perspective, humans are an unknown species
+  and not identified as an enemy' — is a remarkable insight. The comparison to the
+  Proteus discovery in the Trapezium Sector two centuries ago provides historical
+  context. The peace advocates' framing — 'an opportunity for non-hostile interactions
+  with the Thargoids' — contrasts with standard military doctrine.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -35,6 +43,7 @@ related_uuids:
 - 0359229a-57fb-5f46-bb36-52c62d71db1a
 - f362b55b-941d-566f-aa08-6a1ae59364b9
 ---
+
 
 **Pilots’ Federation ALERT**
 Wreckage from a past conflict between the Guardian and Thargoid races has been found in the Wregoe BU-Y b2-0 system.

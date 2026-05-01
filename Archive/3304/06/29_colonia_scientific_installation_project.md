@@ -4,8 +4,13 @@ title: Colonia Scientific Installation Project
 slug: colonia_scientific_installation_project
 date: '3304-06-29'
 source: GitHub
-summary: Scientists in Colonia announce plans to build a scientific outpost to monitor the region's population and resources. Professor Alexei de la Vega warns that Colonia's rapid population growth could lead to serious resource depletion. Tir Technology Services is running a campaign to deliver commodities to Bolden's Enterprise in the Tir system.
-player_impact: Independent pilots can deliver commodities to Bolden's Enterprise in the Tir system. The campaign runs for one week.
+summary: Scientists in Colonia announce plans to build a scientific outpost to monitor
+  the region's population and resources. Professor Alexei de la Vega warns that Colonia's
+  rapid population growth could lead to serious resource depletion. Tir Technology
+  Services is running a campaign to deliver commodities to Bolden's Enterprise in
+  the Tir system.
+player_impact: Independent pilots can deliver commodities to Bolden's Enterprise in
+  the Tir system. The campaign runs for one week.
 persons:
 - Alexei de la Vega
 groups:
@@ -18,13 +23,14 @@ topics:
 - construction
 - research
 - exploration
-modern_impact: The resource management outpost addresses Colonia's growing pains, ensuring sustainable development of humanity's most remote settlement.
+modern_impact: The resource management outpost addresses Colonia's growing pains,
+  ensuring sustainable development of humanity's most remote settlement.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 37a69743-987e-5990-848f-308a9738a453
-- 0bb52046-e423-5edd-a5be-52aed365a206
 ---
+
 
 Scientists in Colonia have announced plans to build a scientific outpost in The system to monitor the region’s population and resources. 
 
