@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-09-22'
 source: GitHub
-summary: Weekly summary covering Vanya Driscoll's analysis of Alliance presidential candidates, Lloyd Hardacre's arrest after his robot exposed corporate fraud, Gethin Okonkwo's revelation of three months undercover in the Far God cult, the competing commodity appeals from Supratech and Herculean Machines, and the conclusion of the Libertas Cooperative's manatee megaship initiative.
+summary: Weekly summary covering Vanya Driscoll's analysis of Alliance presidential
+  candidates, Lloyd Hardacre's arrest after his robot exposed corporate fraud, Gethin
+  Okonkwo's revelation of three months undercover in the Far God cult, the competing
+  commodity appeals from Supratech and Herculean Machines, and the conclusion of the
+  Libertas Cooperative's manatee megaship initiative.
 player_impact: None
 persons:
 - Vanya Driscoll
@@ -37,7 +41,9 @@ topics:
 - politics
 - trade
 - religion
-modern_impact: This week spans political power struggles, corporate fraud exposed by technology, religious persecution debunked by journalism, and competitive product development, showing how multiple sectors intersect in galactic society.
+modern_impact: This week spans political power struggles, corporate fraud exposed
+  by technology, religious persecution debunked by journalism, and competitive product
+  development, showing how multiple sectors intersect in galactic society.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -47,6 +53,7 @@ related_uuids:
 - 40649b8e-7efb-524e-910e-755101cfd020
 - 01d52c81-19d8-57db-8338-9343341748c1
 ---
+
 
 Here are This week’s major stories. 
 

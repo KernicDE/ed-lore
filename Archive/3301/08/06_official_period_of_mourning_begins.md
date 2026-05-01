@@ -4,8 +4,16 @@ title: Official Period of Mourning Begins
 slug: official_period_of_mourning_begins
 date: '3301-08-06'
 source: GitHub
-summary: Chancellor Anders Blaine declared the beginning of the four-week official mourning period for Emperor Hengist Duval. The Emperor's body was placed in the Hall of Martyrs for public viewing. Blaine refused to answer questions about the assassination investigation, stating succession would be handled after the funeral. Dignitaries wore black sashes of mourning, which by tradition will be burned during internment. The Hall of Martyrs, constructed over 600 years ago beneath the Imperial Palace, contains 16,032 obsidian pillars and is open only during mourning periods.
-player_impact: Pilots visiting Capitol during the mourning period should expect large crowds, security measures, and restricted access around the Imperial Palace and Hall of Martyrs.
+summary: Chancellor Anders Blaine declared the beginning of the four-week official
+  mourning period for Emperor Hengist Duval. The Emperor's body was placed in the
+  Hall of Martyrs for public viewing. Blaine refused to answer questions about the
+  assassination investigation, stating succession would be handled after the funeral.
+  Dignitaries wore black sashes of mourning, which by tradition will be burned during
+  internment. The Hall of Martyrs, constructed over 600 years ago beneath the Imperial
+  Palace, contains 16,032 obsidian pillars and is open only during mourning periods.
+player_impact: Pilots visiting Capitol during the mourning period should expect large
+  crowds, security measures, and restricted access around the Imperial Palace and
+  Hall of Martyrs.
 persons:
 - Anders Blaine
 groups:
@@ -17,10 +25,19 @@ locations:
 - Hall of Martyrs
 topics:
 - succession
-modern_impact: Official commencement of the Imperial mourning period following Emperor Hengist Duval's assassination.
+modern_impact: Official commencement of the Imperial mourning period following Emperor
+  Hengist Duval's assassination.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 50bd1d87-a0da-5adc-867f-1c98f6bb02b1
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- ab2dbad2-8a8f-5e67-8f0e-58e4e1100a78
+- d3e7ed94-d19b-534e-833a-986f901972c9
+- db53c226-90a8-53f7-bc58-d008935f347b
+- f3632a33-7330-5ddf-95a2-b5caf73d57fa
 ---
+
 
 Chancellor Anders Blaine held a press conference in front of The entrance to The Hall of Martyrs and declared the beginning of the official period of mourning for Emperor Hengist Duval: 
 

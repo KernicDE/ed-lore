@@ -4,8 +4,11 @@ title: Community Goal  Protect Traders in LHS 3447
 slug: community_goal_protect_traders_in_lhs_3447
 date: '3302-03-03'
 source: GitHub
-summary: Traders delivering metals for a new starport in the LHS 3447 system are being targeted by marauders. The Pilots Federation places a kill order on all wanted ships in the system to protect delivery operations.
-player_impact: Pilots hunted wanted criminals in the LHS 3447 system and handed in bounty vouchers at Worlidge Terminal to protect construction traders.
+summary: Traders delivering metals for a new starport in the LHS 3447 system are being
+  targeted by marauders. The Pilots Federation places a kill order on all wanted ships
+  in the system to protect delivery operations.
+player_impact: Pilots hunted wanted criminals in the LHS 3447 system and handed in
+  bounty vouchers at Worlidge Terminal to protect construction traders.
 groups:
 - Pilots Federation
 - LHS 3447 Dynamic and Co
@@ -19,7 +22,15 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- b90a1ea5-56d2-56a5-ada3-abbb04a3a283
+- f68fdeb6-87df-5576-8524-abf2fc3dfb95
+- 9f41746d-8d26-5b2f-ab5d-aefeb79083e2
+- cb4c3cd6-7721-5f3d-9dd2-d62e6ba91098
+- 2a2cdaef-e094-5db7-974b-7360e6fe87cc
+- 78eb83d8-04a4-58dc-a195-75c98f660eb3
 ---
+
 
 The campaign to construct a new starport in the LHS 3447 system has been eagerly received by the galactic community, but recent reports indicate that the traders delivering metals for use in the construction project are being targeted by marauders. To protect these pilots, the Pilots Federation, in association With LHS 3447 Dynamic and Co, has placed a kill order on all wanted ships operating in the system. A spokesperson for the Pilots Federation issued a brief statement: 
 

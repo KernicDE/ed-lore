@@ -4,8 +4,11 @@ title: Community Goal  Restoring Order in Slink's Eye
 slug: community_goal_restoring_order_in_slinks_eye
 date: '3302-10-06'
 source: GitHub
-summary: Security forces in the Slink's Eye system reported a dramatic upswing in pirate activity. The Revolutionary Slink's Eye Liberals placed a kill order on wanted ships and requested deliveries of reactive armour to Kelleam Ring to bolster security.
-player_impact: Pilots can earn rewards by delivering bounty vouchers and reactive armour to Kelleam Ring in the Slink's Eye system.
+summary: Security forces in the Slink's Eye system reported a dramatic upswing in
+  pirate activity. The Revolutionary Slink's Eye Liberals placed a kill order on wanted
+  ships and requested deliveries of reactive armour to Kelleam Ring to bolster security.
+player_impact: Pilots can earn rewards by delivering bounty vouchers and reactive
+  armour to Kelleam Ring in the Slink's Eye system.
 persons: []
 groups:
 - Revolutionary Slink's Eye Liberals
@@ -19,10 +22,14 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: Community anti-piracy operations remain a staple of local system security efforts across the galaxy.
+modern_impact: Community anti-piracy operations remain a staple of local system security
+  efforts across the galaxy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- f84e4415-d512-5481-b12d-97c90d518ff4
 ---
+
 
 Security forces in The Slink's Eye system have reported a dramatic upswing in pirate activity. Reports indicate that the agitators are attacking civilians, disrupting trade and generally causing discord. 
 

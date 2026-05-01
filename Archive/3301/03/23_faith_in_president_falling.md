@@ -30,7 +30,9 @@ significance: high
 related_uuids:
 - 14d3a0f8-b5b2-567c-80cd-df6ab165cecb
 - cbe7af14-8ee3-51ad-af51-8732af579af9
+- f7abc945-cb7d-5d7e-8c05-d6ed0f513333
 ---
+
 
 
 Recent popularity polls have scored The President at a shockingly low 26% approval rating, With 43% of those questioned stating that they strongly disapprove of The President’s current policy decisions. 

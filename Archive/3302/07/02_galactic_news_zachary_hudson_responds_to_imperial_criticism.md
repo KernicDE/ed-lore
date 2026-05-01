@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Yesterday, The Empire joined the debate over the Federation's decision to deploy Farragut Battle Cruisers in the Merope system. In a statement, Senator Zemina Torval asserted that the use of Federal warships represented an attempt to claim possession of the non-human structures, commonly known as barnacles, Found in Merope. 
 
 Responding to This criticism, Federal President Zachary Hudson has released a statement to the media: 

@@ -4,8 +4,11 @@ title: Dredger Deadlock Inspires Competing Campaigns
 slug: dredger_deadlock_inspires_competing_campaigns
 date: '3307-11-18'
 source: API
-summary: Competing delivery initiatives in the HIP 43670 system aim to benefit the Scriveners Clan, with Orion University offering scientific data and independent supporters gathering emergency power supplies for repairs.
-player_impact: Pilots delivered either scientific data to Shaara Gateway or emergency power cells to Oramus Terminal.
+summary: Competing delivery initiatives in the HIP 43670 system aim to benefit the
+  Scriveners Clan, with Orion University offering scientific data and independent
+  supporters gathering emergency power supplies for repairs.
+player_impact: Pilots delivered either scientific data to Shaara Gateway or emergency
+  power cells to Oramus Terminal.
 persons:
 - Leland Pettigrew
 groups:
@@ -14,10 +17,18 @@ groups:
 - Scriveners Clan
 topics:
 - research
-modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic institutions and the nomadic society that inhabits it.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 7312e2dd-8f0e-5a8a-a65d-94eac2a92285
+- 874dce92-6aa5-5398-9666-601f0f3192b5
+- c8933782-6917-568d-8b1c-f9e89c7c9c7c
+- 8d11dddf-b087-5b68-9945-af45e8953120
+- 909c6b12-f181-52cc-840a-6173b3164226
 ---
+
 
 **Pilots’ Federation ALERT**
 The HIP 43670 system is hosting two competing delivery initiatives, Each of Which aims to benefit the Scriveners Clan.

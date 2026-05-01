@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 As the superpowers establish their fleets in the HIP 22460 system, Azimuth Biotech prepares to deliver a decisive blow against the Thargoids.
 A segment from Salvation’s briefing to the anti-xeno taskforce admirals was shared by Azimuth:
 “The Proteus Wave relies on power sources and components of Guardian origin, which will inevitably draw the Thargoids to HIP 22460. As we know, their hostile reaction to stockpiles of Guardian artefacts is instinctive. They have no defence against the weaponry of their ancient enemies, other than to launch pre-emptive strikes to prevent it being deployed.” 

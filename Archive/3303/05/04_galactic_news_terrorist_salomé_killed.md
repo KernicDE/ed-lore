@@ -35,7 +35,10 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - a5c6dcd2-11e6-5a3e-b661-29d218058baa
+- 35ea6366-821d-5b3e-8537-f3524035f918
+- 7ba50e3b-b05e-5a91-9da4-4447aa50e604
 ---
+
 
 
 Imperial despatches have confirmed that Commander Salomé, also known as Kahina Tijani Loren, was killed in The Arumclaw system on the 29th of April by a bounty hunter known as ‘Besieger’. 

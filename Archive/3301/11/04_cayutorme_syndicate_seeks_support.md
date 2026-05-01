@@ -27,7 +27,9 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - ffd458b7-cdd7-56db-8993-adcca6f70dd0
+- 96c8fc0c-2010-5641-919f-040d3d009e5a
 ---
+
 
 
 Imperial investigators have confirmed ties between Archon Delaine's Kumo Crew and The mercenary group known As the Cayutorme Syndicate. This partnership brings disturbing context to the civil unrest currently affecting Cayutorme, as well as the syndicate's rapid rise to power. 

@@ -4,7 +4,10 @@ title: Galactic News  Hyperspace
 slug: galactic_news_hyperspace
 date: '3303-01-07'
 source: GitHub
-summary: Historian Sima Kalhana traces hyperspace technology from early 22nd century origins through the Faraway Jump, quirium, and Type 2b eras to modern jump drives. She notes lingering mysteries of witch-space, including inexplicable lights and structures reported by pilots.
+summary: Historian Sima Kalhana traces hyperspace technology from early 22nd century
+  origins through the Faraway Jump, quirium, and Type 2b eras to modern jump drives.
+  She notes lingering mysteries of witch-space, including inexplicable lights and
+  structures reported by pilots.
 player_impact: None
 persons:
 - Sima Kalhana
@@ -16,10 +19,18 @@ topics:
 - ship
 - technology
 technologies: []
-modern_impact: Historical overview of hyperspace evolution and the persistent unknowns within witch-space.
+modern_impact: Historical overview of hyperspace evolution and the persistent unknowns
+  within witch-space.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 0044ac89-dd97-5198-9eeb-55ddd5202574
+- 3a16fb01-6bfc-56cd-ac6d-f8d6aca44977
+- 527cd62c-c144-5f7a-a149-a233d9aa7c78
+- a4d0725f-c5fc-58fb-acec-a046c97d76a4
+- 9a570699-1840-5d09-b9e3-bdcab0452b53
 ---
+
 
 Continuing Our popular series on significant episodes from human history, noted historian Sima Kalhana discusses The development of the hyperdrive. 
 

@@ -4,7 +4,11 @@ title: Aisling Duval Rejects Nova Imperium
 slug: aisling_duval_rejects_nova_imperium
 date: '3304-12-21'
 source: GitHub
-summary: Princess Aisling Duval publicly rejects Nova Imperium and its figurehead Hadrian Duval, calling the extremists divisive and urging Emperor Arissa to act. Senator Zemina Torval surprisingly agrees with Aisling, dismissing the idea of an independent pilot becoming Emperor. Senator Pal Vespasian counters that many senators recognise Hadrian as Emperor-in-waiting and that Nova Imperium has millions of supporters.
+summary: Princess Aisling Duval publicly rejects Nova Imperium and its figurehead
+  Hadrian Duval, calling the extremists divisive and urging Emperor Arissa to act.
+  Senator Zemina Torval surprisingly agrees with Aisling, dismissing the idea of an
+  independent pilot becoming Emperor. Senator Pal Vespasian counters that many senators
+  recognise Hadrian as Emperor-in-waiting and that Nova Imperium has millions of supporters.
 player_impact: None
 persons:
 - Aisling Duval
@@ -17,7 +21,9 @@ groups:
 topics:
 - succession
 - politics
-modern_impact: The rare public agreement between Aisling Duval and Zemina Torval against Nova Imperium highlights the severity of the succession crisis, while Pal Vespasian's continued support shows deep divisions even among the Empire's elite.
+modern_impact: The rare public agreement between Aisling Duval and Zemina Torval against
+  Nova Imperium highlights the severity of the succession crisis, while Pal Vespasian's
+  continued support shows deep divisions even among the Empire's elite.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -27,6 +33,7 @@ related_uuids:
 - ee4ca040-662c-5763-b220-4db105a7fd77
 - bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
 ---
+
 
 Princess Aisling Duval has publicly rejected The isolationist group Nova Imperium and Its figurehead, Hadrian Duval: 
 

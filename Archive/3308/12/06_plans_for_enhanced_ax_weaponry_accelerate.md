@@ -4,8 +4,10 @@ title: Plans for Enhanced AX Weaponry Accelerate
 slug: plans_for_enhanced_ax_weaponry_accelerate
 date: '3308-12-06'
 source: API
-summary: Two leading engineers have revealed designs to improve the stock anti-xeno weaponry available to pilots.
-player_impact: Independent pilots were called upon to destroy Thargoid vessels and claim combat bonds.
+summary: Two leading engineers have revealed designs to improve the stock anti-xeno
+  weaponry available to pilots.
+player_impact: Independent pilots were called upon to destroy Thargoid vessels and
+  claim combat bonds.
 persons:
 - Liz Ryder
 - Zacariah Nemo
@@ -17,7 +19,9 @@ topics:
 - alien contact
 - engineering
 arc_id: null
-modern_impact: '"Zac and I share a passion for weapon upgrades, and have often used this project as a way to unwind after a long week’..." Upgrading AX weaponry remains a critical priority for independent pilots on the front lines.'
+modern_impact: '"Zac and I share a passion for weapon upgrades, and have often used
+  this project as a way to unwind after a long week’..." Upgrading AX weaponry remains
+  a critical priority for independent pilots on the front lines.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -27,6 +31,7 @@ related_uuids:
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 ---
+
 
 Two leading engineers have revealed designs to improve the stock anti-xeno weaponry available to pilots.
 Liz Ryder and Zacariah Nemo have provided module modifications for many years, specialising in explosive and kinetic weapons respectively. Over the past year they have collaborated privately on the AX weapon designs introduce by Aegis in 3303, seeking to improve the efficiency of delivering a compound, hazardous to Thargoid vessels, which tips AX ammunition.

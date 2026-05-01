@@ -4,8 +4,10 @@ title: Galactic News  Order Restored in Gandii
 slug: galactic_news_order_restored_in_gandii
 date: '3303-04-14'
 source: GitHub
-summary: The Gandii Justice Party has defeated the Hand Gang of Gandii in the Gandii system after a period of intense conflict.
-player_impact: Pilots who participated in the conflict can collect rewards from Lu Hub in the Gandii system.
+summary: The Gandii Justice Party has defeated the Hand Gang of Gandii in the Gandii
+  system after a period of intense conflict.
+player_impact: Pilots who participated in the conflict can collect rewards from Lu
+  Hub in the Gandii system.
 persons: []
 groups:
 - Gandii Justice Party
@@ -16,10 +18,16 @@ locations:
 topics:
 - war
 technologies: []
-modern_impact: The Gandii Justice Party's victory demonstrates how faction warfare can shift system control away from pirate-aligned forces.
+modern_impact: The Gandii Justice Party's victory demonstrates how faction warfare
+  can shift system control away from pirate-aligned forces.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 0916a47c-1392-55af-b950-655bbacc3402
+- dc600c12-513e-54f9-b8c9-4d5a99383094
+- 59656dfe-af8d-554b-80eb-4370717da32b
 ---
+
 
 After a period of intense conflict, The Gandii Justice Party has defeated the forces of the Hand Gang of Gandii in the Gandii system. 
 

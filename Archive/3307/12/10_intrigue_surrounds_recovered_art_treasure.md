@@ -4,7 +4,9 @@ title: Intrigue Surrounds Recovered Art Treasure
 slug: intrigue_surrounds_recovered_art_treasure
 date: '3307-12-10'
 source: API
-summary: Evidence suggests the Winking Cat has sold stolen artworks to private collectors including Elias Metaxas, raising questions about the thief's motives and future plans.
+summary: Evidence suggests the Winking Cat has sold stolen artworks to private collectors
+  including Elias Metaxas, raising questions about the thief's motives and future
+  plans.
 player_impact: Not specifically mentioned — this is a news analysis piece.
 persons:
 - Mira Bukowski
@@ -18,10 +20,18 @@ locations:
 - none specified
 topics:
 - crime
-modern_impact: The revelation that stolen Winking Cat treasures have entered private collections adds a new dimension to one of the galaxy's most elusive criminal mysteries.
+modern_impact: The revelation that stolen Winking Cat treasures have entered private
+  collections adds a new dimension to one of the galaxy's most elusive criminal mysteries.
 legacy_weight: 1
 significance: low
+related_uuids:
+- f40f7cb0-fc86-5e9c-8a3a-1c2f00db7612
+- 2f7e24df-fc8c-5940-ab8a-2621b0233533
+- 21ac936e-6473-5e81-980f-73a1bd20c350
+- ff562d23-58fa-5f77-a0fb-487b2b4b77f6
+- 81538fce-b754-58bd-9a39-a3532cc682d7
 ---
+
 
 Recent evidence suggests that some of The precious items stolen by the Winking Cat have been sold to private collectors.
 Crime correspondent Mira Bukowski has been following the story for Vox Galactica:

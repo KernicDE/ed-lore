@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 After 96 days in deep space, The Mercury Seven expedition will soon return home to the Colonia system. Over the course of the expedition, participating Commanders made Many new discoveries in the Orio-Persean Conflux, Wagar’s Reach and Ishtar. 
 
 The explorers involved banded together to pay tribute to the original Mercury Seven, a group of astronauts from an early spaceflight programme. At the end of their journey, they will present their findings to the Colonia Citizens Network and the wider exploration community. 

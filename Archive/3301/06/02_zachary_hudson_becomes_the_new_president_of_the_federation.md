@@ -34,7 +34,18 @@ significance: high
 related_uuids:
 - 0b396735-3acc-5e46-a6c1-dc75e63959d9
 - afc9a94b-b11c-56b0-8e7a-e5f9b450371b
+- ebe4961e-cee1-5175-8dfe-3a8fb966f6d3
+- 25fa737c-97f7-5527-82e8-ad3144d88779
+- b6e932e5-8ee6-5a50-beb9-800a466f09d7
+- 843112f8-e23a-5b29-afe0-066531b74f80
+- b835fd7e-19db-5d69-a349-bd293a75754b
+- cc1264c1-17e7-5557-a315-700f04a2f4d9
+- 3682c79f-1dad-579d-8f98-c17c4236215c
+- 7999f4d6-46e6-5745-8282-155fa49b2ae4
+- f6889b8d-23e3-51bf-bd46-7c4a8414b829
+- 00be4816-785d-537c-9e05-ba4677220927
 ---
+
 
 
 The results are in and Zachary Hudson is the overwhelming choice for the new President of the Federation. 

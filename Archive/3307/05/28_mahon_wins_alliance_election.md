@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 The election for Alliance prime minister has been won by the incumbent Edmund Mahon, who begins a second six-year term in office.
 The Alliance Assembly voted yesterday to elect the new head of state. Mahon received more votes than any Other candidate, albeit not a majority of the electorate. Some council members demanded additional checks, causing a delay in announcing the results.
 Prime Minister Mahon gave a victory speech to the public:

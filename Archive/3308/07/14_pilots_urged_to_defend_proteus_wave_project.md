@@ -37,6 +37,7 @@ related_uuids:
 
 
 
+
 **Pilots’ Federation ALERT**
 As the Thargoid presence increases in the HIP 22460 system, Azimuth Biotech and the superpowers call for reinforcements.
 An urgent bulletin was transmitted from Commodore Morag Halloran aboard the Bright Sentinel:

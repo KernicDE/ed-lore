@@ -47,6 +47,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Thargoid forces have invaded The Delphi system and Several systems in the California, Coalsack and Pleiades Nebulas.
 Huge numbers of Thargoid scouts and interceptors have appeared within multiple systems. Aegis has mobilised available defences, but also requested assistance from anti-xeno squadrons and Independent pilots in combating the Thargoids.

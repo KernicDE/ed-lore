@@ -38,7 +38,13 @@ significance: high
 related_uuids:
 - 4f5bb72d-f757-5aea-bac2-311684658508
 - e5ed7c2f-4101-5d97-8ca1-1aa1ea34f238
+- 0c6eb69b-2530-558a-856f-66e86f6d5756
+- efb6f802-4ceb-5050-85d3-17250e6e5566
+- 345cb822-35d0-50ee-a245-6e79e65f2844
+- e94289e7-a780-5d7e-a94c-ba77150422a4
+- fada10ab-0ee9-59bc-a16d-aa4b916dc65c
 ---
+
 
 
 In another shocking revelation The Federal Times today posted a story highlighting possible links between a non-exec member of The board of Core Dynamics and Vice President Nigel Smeaton’s death. They first referenced an interview on January 28th With Congressman George Fallside who appeared to have early knowledge of the Vice President’s death.  The Congressman refused to comment on the article, but it is public knowledge of his non-executive directorship of Core Dynamics and Several Other major arms manufacturers. 

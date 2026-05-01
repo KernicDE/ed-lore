@@ -4,8 +4,12 @@ title: Tionisla Materials Campaign Fails
 slug: tionisla_materials_campaign_fails
 date: '3309-12-07'
 source: API
-summary: Nakato Kaine's Tionisla delivery campaign fails to reach its target, with Yong-Rui blaming Assembly obstruction and Kaine reaffirming Alliance self-sufficiency principles.
-player_impact: Pilots who earned bounty vouchers protecting traders can collect rewards from Brett High. The intended discount on Alliance Challenger, Chieftain and Crusader has been cancelled.
+summary: Nakato Kaine's Tionisla delivery campaign fails to reach its target, with
+  Yong-Rui blaming Assembly obstruction and Kaine reaffirming Alliance self-sufficiency
+  principles.
+player_impact: Pilots who earned bounty vouchers protecting traders can collect rewards
+  from Brett High. The intended discount on Alliance Challenger, Chieftain and Crusader
+  has been cancelled.
 persons:
 - Nakato Kaine
 - Li Yong-Rui
@@ -21,10 +25,22 @@ topics:
 - investigation
 - politics
 arc_id: null
-modern_impact: 'Kaine''s framing — ''The purpose of this campaign was to demonstrate the core principles of the Alliance: independence, self-sufficiency and mutual support'' — positions the failure as a learning moment. Yong-Rui''s counter — ''Kaine''s rogue operation in Tionisla only demonstrates how partisan some of us have become'' — frames her as a partisan obstacle. The cancellation of ship discounts is a tangible consequence of the failure.'
+modern_impact: 'Kaine''s framing — ''The purpose of this campaign was to demonstrate
+  the core principles of the Alliance: independence, self-sufficiency and mutual support''
+  — positions the failure as a learning moment. Yong-Rui''s counter — ''Kaine''s rogue
+  operation in Tionisla only demonstrates how partisan some of us have become'' —
+  frames her as a partisan obstacle. The cancellation of ship discounts is a tangible
+  consequence of the failure.'
 legacy_weight: 5
 significance: high
+related_uuids:
+- d9d11a81-06c0-59f1-af71-a3c4c5194f5c
+- 159caa3b-1d4d-531b-ac16-f40c17d6f332
+- 52e15d2f-c860-504f-a2e4-4e54c31cb388
+- e0b48359-9e1e-557a-b290-f47faa8356bb
+- e394f2e4-d18b-5557-b04e-3b8b9a92313c
 ---
+
 
 **Pilots’ Federation ALERT**
 Councillor Nakato Kaine has announced that a delivery campaign in the Tionisla system has not reached its target.

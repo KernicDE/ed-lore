@@ -1,5 +1,4 @@
 ---
-
 uuid: 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
 title: Aegis Demands Reinstatement
 slug: aegis_demands_reinstatement
@@ -42,6 +41,7 @@ related_uuids:
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
 ---
+
 
 
 The leaders of Aegis have formally petitioned the Alliance, Empire and Federation to reform the anti-xeno organisation.

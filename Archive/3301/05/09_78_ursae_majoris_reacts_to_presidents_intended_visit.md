@@ -4,8 +4,14 @@ title: 78 Ursae Majoris Reacts to President's Intended Visit
 slug: 78_ursae_majoris_reacts_to_presidents_intended_visit
 date: '3301-05-09'
 source: GitHub
-summary: Local leaders and residents of 78 Ursae Majoris reacted to news of President Halsey's planned visit. Mayor Andrew Bailey of Townshend Hub welcomed the attention but regretted she would not visit Alioth. Mary Silverstein of the 78 Ursae Majoris for Equality Party expressed hope for productive reconciliation. A local farmer, Gryph Jones, voiced cynicism about Federal intentions and hoped no violence would occur.
-player_impact: None directly; reflects local sentiment in a system that voted to leave the Federation.
+summary: Local leaders and residents of 78 Ursae Majoris reacted to news of President
+  Halsey's planned visit. Mayor Andrew Bailey of Townshend Hub welcomed the attention
+  but regretted she would not visit Alioth. Mary Silverstein of the 78 Ursae Majoris
+  for Equality Party expressed hope for productive reconciliation. A local farmer,
+  Gryph Jones, voiced cynicism about Federal intentions and hoped no violence would
+  occur.
+player_impact: None directly; reflects local sentiment in a system that voted to leave
+  the Federation.
 persons:
 - Andrew Bailey
 - Mary Silverstein
@@ -20,10 +26,19 @@ locations:
 - Seddon Gateway
 topics:
 - diplomacy
-modern_impact: Documents the complex reactions of frontier systems to Federal overtures after voting to leave, revealing both hope for reconciliation and deep-seated resentment.
+modern_impact: Documents the complex reactions of frontier systems to Federal overtures
+  after voting to leave, revealing both hope for reconciliation and deep-seated resentment.
 legacy_weight: 2
 significance: low
+related_uuids:
+- b7e68809-4f8a-551a-af69-b70610b58783
+- c0449407-9fe0-5061-bb86-286175a89cd4
+- d94ecb15-0ec2-5d1d-a0cf-f8fe10e9fada
+- ad95a9f7-e1ac-53ac-8803-fec2e9305a16
+- a8bb509b-31ad-5327-8f8e-21b531565fb8
+- 88762111-9b1e-5467-90ce-7c1efe5c7315
 ---
+
 
 Following The rather strange announcement that President Halsey will soon be visiting The ex-Federal system of 78 Ursae Majoris, GalNet reached out to local leaders and residents to get their thoughts. 
 

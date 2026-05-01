@@ -4,7 +4,9 @@ title: Concerns Raised over Titan Returnees
 slug: concerns_raised_over_titan_returnees
 date: '3309-11-14'
 source: API
-summary: Kamadhenu Medipure claims Titan returnees show physiological changes and recommends euthanasia, while Imperial Science Academy and Senate reject the alarmism and Azimuth's testing offer.
+summary: Kamadhenu Medipure claims Titan returnees show physiological changes and
+  recommends euthanasia, while Imperial Science Academy and Senate reject the alarmism
+  and Azimuth's testing offer.
 player_impact: Not specifically mentioned — this is a medical report.
 persons:
 - Zoe Terentia
@@ -20,13 +22,19 @@ topics:
 - medicine
 entities: []
 arc_id: null
-modern_impact: Terentia's extreme recommendation — 'euthanasia should be considered to prevent any chance of contamination' — is contrasted with Colombera's calm analysis of 'natural immunological responses.' Leopold's personal condemnation of Azimuth — 'I will not countenance letting those butchers anywhere near our people' — is strong language for a senator. The Senate's formal rejection of Azimuth's offer shows institutional wariness.
+modern_impact: Terentia's extreme recommendation — 'euthanasia should be considered
+  to prevent any chance of contamination' — is contrasted with Colombera's calm analysis
+  of 'natural immunological responses.' Leopold's personal condemnation of Azimuth
+  — 'I will not countenance letting those butchers anywhere near our people' — is
+  strong language for a senator. The Senate's formal rejection of Azimuth's offer
+  shows institutional wariness.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 916a026b-27fa-5994-8669-056f089c2c3c
 - 0d85d087-4cc7-5282-8b29-50acf157672b
 ---
+
 
 People who were recovered from the Thargoids have been flagged as potential biohazards by an Imperial medical institute.
 Dr Zoe Terentia , chief researcher at Kamadhenu Medipure , published her findings in the Citizens Chronicle.

@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Yesterday’s revelations from The Federal Times concerning an alleged connection between a high ranking member of The Core Dynamics board and the Highliner Antares incident have finally prompted an official response from the ship manufacturer. 
 
 “Core Dynamics takes the safety of space flight very seriously and would never deliberately act to jeopardise Our own or any Other corporations’ development. It is hard to accept that anyone from Our company would act in such a manner. Given the gravity of the accusations the accused non-executive board member has agreed to step aside while we investigate. We have requested that the Federal Times share their information With us so that a full investigation into the matter can be carried out.” 

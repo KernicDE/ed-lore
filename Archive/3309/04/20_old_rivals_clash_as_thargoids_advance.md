@@ -4,8 +4,10 @@ title: Old Rivals Clash as Thargoids Advance
 slug: old_rivals_clash_as_thargoids_advance
 date: '3309-04-20'
 source: API
-summary: Empire-Federation proxy war erupts in Pichch, a key anti-xeno supply hub near Maelstrom Leigong, threatening to disrupt front-line defenses.
-player_impact: Naval auxiliaries can register support for either faction at Tiptree Port in Pichch.
+summary: Empire-Federation proxy war erupts in Pichch, a key anti-xeno supply hub
+  near Maelstrom Leigong, threatening to disrupt front-line defenses.
+player_impact: Naval auxiliaries can register support for either faction at Tiptree
+  Port in Pichch.
 persons:
 - Karleen Troy
 groups: []
@@ -14,13 +16,19 @@ locations:
 topics:
 - war
 arc_id: null
-modern_impact: The rival statements — Gauluujja Exchange's 'Imperial saboteurs have been undermining our operations for years' vs. Gliese 44's 'typical Federal response... is to blame the Empire' — show entrenched hostility. Troy's reporting on the strategic risk — 'Pichch is currently a key distribution point for anti-xeno weaponry and supplies... this conflict could disrupt the flow of resources to the front line' — highlights the danger.
+modern_impact: The rival statements — Gauluujja Exchange's 'Imperial saboteurs have
+  been undermining our operations for years' vs. Gliese 44's 'typical Federal response...
+  is to blame the Empire' — show entrenched hostility. Troy's reporting on the strategic
+  risk — 'Pichch is currently a key distribution point for anti-xeno weaponry and
+  supplies... this conflict could disrupt the flow of resources to the front line'
+  — highlights the danger.
 legacy_weight: 5
 significance: high
 related_uuids:
 - d3fb0003-ded4-528c-904b-9140da2aac02
 - e5597169-2e45-54d8-ac5a-f1955561c832
 ---
+
 
 **Pilots’ Federation ALERT**
 Factions aligned to the Empire and Federation have declared war in Pichch, which lies in the path of Thargoid expansion.

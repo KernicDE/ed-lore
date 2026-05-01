@@ -4,7 +4,12 @@ title: Aegis Core Relocates to Sol
 slug: aegis_core_relocates_to_sol
 date: '3304-08-31'
 source: GitHub
-summary: After the Socho Gold Raiders took control of the Socho system and Thargoid sensor-related interference immobilised Aegis's Eagle Eye network, President Zachary Hudson announces Aegis Core will relocate from Socho to the Federal home system of Sol. Hudson declares from the White House on Mars that attempts to undermine Aegis during wartime are acts of treason, and the relocation will ensure proper protection for humanity's primary anti-xeno defence organisation.
+summary: After the Socho Gold Raiders took control of the Socho system and Thargoid
+  sensor-related interference immobilised Aegis's Eagle Eye network, President Zachary
+  Hudson announces Aegis Core will relocate from Socho to the Federal home system
+  of Sol. Hudson declares from the White House on Mars that attempts to undermine
+  Aegis during wartime are acts of treason, and the relocation will ensure proper
+  protection for humanity's primary anti-xeno defence organisation.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -22,13 +27,16 @@ topics:
 - alien contact
 - crime
 - war
-modern_impact: The relocation of Aegis Core to Sol consolidates anti-Thargoid command in the Federation's most secure system, but also raises questions about Aegis's independence from Federal political influence.
+modern_impact: The relocation of Aegis Core to Sol consolidates anti-Thargoid command
+  in the Federation's most secure system, but also raises questions about Aegis's
+  independence from Federal political influence.
 legacy_weight: 5
 significance: high
 related_uuids:
 - a4948f46-cb29-57d0-95a7-5e3dbbb32cf0
 - a504555f-6e00-5f41-a0c3-2245cc13b797
 ---
+
 
 In May, a criminal organisation known as The Socho Gold Raiders assumed control of The Socho system, headquarters of Aegis Core. 
 

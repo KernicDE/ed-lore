@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 The Distant Worlds working group has issued a call for mined and manufactured materials to support the construction of a new deep-space facility, intended to aid future exploration of remote galactic regions far beyond established survey routes.
 Hermine Delarue, Executive Operative for Deep Space Surveys, stated:
 “DSS has longstanding experience in supporting large-scale exploration efforts, most notably the construction of Explorers’ Anchorage during the Distant Worlds II initiative in 3305.”

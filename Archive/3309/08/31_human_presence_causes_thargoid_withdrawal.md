@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 The Thargoids have unexpectedly abandoned the region around Wregoe BU-Y b2-0, mere days after being discovered.
 They were believed to be present due to an ancient site on the planet Wregoe BU-Y b2-0 1 c, which hosted a conflict between Guardian and Thargoid forces millions of years ago. Aegis has confirmed reports that all Thargoids have now disappeared from that area of space. Aden Tanner delivered a summary:
 “Our pilots can no longer detect a single Thargoid ship anywhere in that region. In military terms, they have undertaken a full tactical withdrawal. It usually requires overwhelming firepower to drive out Thargoid forces, especially from multiple systems. In this case, there was no fleet action or anti-xeno operation sufficiently large to cause this response.”

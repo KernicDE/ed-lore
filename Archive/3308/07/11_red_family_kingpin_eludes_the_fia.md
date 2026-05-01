@@ -4,8 +4,10 @@ title: Red Family Kingpin Eludes the FIA
 slug: red_family_kingpin_eludes_the_fia
 date: '3308-07-11'
 source: API
-summary: Red Family kingpin Oberon Church evades capture despite the FIA's successful raids against his narcotics syndicate.
-player_impact: No direct pilot action requested; article reports on the FIA's ongoing manhunt for Oberon Church.
+summary: Red Family kingpin Oberon Church evades capture despite the FIA's successful
+  raids against his narcotics syndicate.
+player_impact: No direct pilot action requested; article reports on the FIA's ongoing
+  manhunt for Oberon Church.
 persons:
 - Oberon Church
 - Ethan Takahashi
@@ -19,7 +21,9 @@ topics:
 - espionage
 - narcotics
 arc_id: null
-modern_impact: Ethan Takahashi's observation that Church 'has lived up to his self-styled image as the man of smoke' illustrates how even the Proactive Detection Bureau's surveillance could not immediately dismantle well-entrenched criminal networks.
+modern_impact: Ethan Takahashi's observation that Church 'has lived up to his self-styled
+  image as the man of smoke' illustrates how even the Proactive Detection Bureau's
+  surveillance could not immediately dismantle well-entrenched criminal networks.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -27,6 +31,7 @@ related_uuids:
 - 2a2d4398-fbc8-577c-a521-33ce19f4a8db
 - f187baed-de66-5f1a-8713-699d8eac4cbd
 ---
+
 
 Oberon Church, founder of the crime syndicate Red Family, has managed to avoid capture by the Federal Intelligence Agency.
 The Federal Times’s crime correspondent Ethan Takahashi reported on the latest developments:

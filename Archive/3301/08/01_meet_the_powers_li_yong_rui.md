@@ -4,7 +4,12 @@ title: Meet the Powers – Li Yong Rui
 slug: meet_the_powers_li_yong_rui
 date: '3301-08-01'
 source: GitHub
-summary: Political commentator Marcus Macmillan profiles Sirius Gov CEO Li Yong-Rui. The Li dynasty's involvement with the Sirius Corporation traces back nearly 800 years. Li Yong-Rui earned doctorates in physics, politics, and economics by age 25, joined Sirius straight from college, and became Vice President of Forecasting at 35. He now leads Sirius Corporation's Sirius Gov division, demonstrating proven business acumen and insight into effective governance.
+summary: Political commentator Marcus Macmillan profiles Sirius Gov CEO Li Yong-Rui.
+  The Li dynasty's involvement with the Sirius Corporation traces back nearly 800
+  years. Li Yong-Rui earned doctorates in physics, politics, and economics by age
+  25, joined Sirius straight from college, and became Vice President of Forecasting
+  at 35. He now leads Sirius Corporation's Sirius Gov division, demonstrating proven
+  business acumen and insight into effective governance.
 player_impact: None
 persons:
 - Li Yong-Rui
@@ -18,10 +23,20 @@ locations:
 topics:
 - corporate expansion
 - trade
-modern_impact: Profile of a major power leader shaping corporate governance and trade in the galaxy.
+modern_impact: Profile of a major power leader shaping corporate governance and trade
+  in the galaxy.
 legacy_weight: 1
 significance: low
+related_uuids:
+- a4d0725f-c5fc-58fb-acec-a046c97d76a4
+- 9cc554e9-9d3a-57d0-9ac7-06b856491881
+- 4b999aae-0e94-540f-a7aa-d1ef91f178de
+- 6f8da40a-d88c-5759-ab4f-f2c180ebc46d
+- 42255e4f-788f-5ba1-b12d-b1209e5ee2ba
+- c311da30-8564-5eb6-9f68-ef15394b87b6
+- 4a6785b4-2814-5bdd-aede-fcc93b522b79
 ---
+
 
 Sirius Gov CEO Li Yong-Rui is the focus of This seventh article from political commentator Marcus Macmillan about the movers and shakers in 3301. 
 

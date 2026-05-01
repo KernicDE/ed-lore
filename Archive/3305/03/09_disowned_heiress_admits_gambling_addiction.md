@@ -4,7 +4,9 @@ title: Disowned Heiress Admits Gambling Addiction
 slug: disowned_heiress_admits_gambling_addiction
 date: '3305-03-09'
 source: GitHub
-summary: Disowned heiress Talitha Ambrose publicly admits to losing her family's entire fortune through gambling addiction, stating she feels liberated by poverty and plans to raise funds for addiction support charities.
+summary: Disowned heiress Talitha Ambrose publicly admits to losing her family's entire
+  fortune through gambling addiction, stating she feels liberated by poverty and plans
+  to raise funds for addiction support charities.
 player_impact: None — background report.
 persons:
 - Talitha Ambrose
@@ -17,12 +19,15 @@ locations:
 topics:
 - crime
 - investigation
-modern_impact: Talitha's candid admission transformed her from a tabloid villain into an unlikely advocate for gambling addiction awareness, though the Ambrose fortune remained lost to Jokers' Deck.
+modern_impact: Talitha's candid admission transformed her from a tabloid villain into
+  an unlikely advocate for gambling addiction awareness, though the Ambrose fortune
+  remained lost to Jokers' Deck.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 6be2f7a7-7b99-5a48-90d4-a97c817a2450
 ---
+
 
 The former heiress to the Ambrose Foundation has confessed that she lost her family's entire fortune through excessive gambling. 
 

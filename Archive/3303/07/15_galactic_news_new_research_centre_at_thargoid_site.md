@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 As The number of newly discovered Thargoid structures Continues to grow, reports from The Pleiades Sector IR-W d1-55 indicate that the Oracle, an Ocellus starport, has relocated to the system in order to study the region’s Thargoid structure. 
 
 Governor Ahmed, the starport’s principal administrator, released The following statement: 

@@ -4,8 +4,12 @@ title: Ebor Research Outpost
 slug: ebor_research_outpost
 date: '3304-07-13'
 source: GitHub
-summary: Cobra Wing launches an initiative to build a new research outpost in the Ebor system focused on Thargoid inter-species communication research. They place an open order for commodities and a kill order on wanted ships to protect traders delivering to Morris Enterprise.
-player_impact: Independent pilots can deliver commodities to Morris Enterprise in the Ebor system. The campaign runs for one week.
+summary: Cobra Wing launches an initiative to build a new research outpost in the
+  Ebor system focused on Thargoid inter-species communication research. They place
+  an open order for commodities and a kill order on wanted ships to protect traders
+  delivering to Morris Enterprise.
+player_impact: Independent pilots can deliver commodities to Morris Enterprise in
+  the Ebor system. The campaign runs for one week.
 persons: []
 groups:
 - Cobra Wing
@@ -16,12 +20,14 @@ topics:
 - alien contact
 - construction
 - research
-modern_impact: The Ebor outpost represents a rare attempt at Thargoid communication research, contrasting with the dominant military approach to the xeno threat.
+modern_impact: The Ebor outpost represents a rare attempt at Thargoid communication
+  research, contrasting with the dominant military approach to the xeno threat.
 legacy_weight: 5
 significance: high
 related_uuids:
 - dd4a0b64-612b-5b42-9631-72d2dc9f5d9d
 ---
+
 
 Cobra Wing, an Independent organisation based in Ebor, has launched an initiative to build a new research outpost in The system. 
 

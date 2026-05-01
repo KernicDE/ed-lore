@@ -33,7 +33,10 @@ significance: high
 related_uuids:
 - 250a8de2-2777-572d-b19a-b9f849cf2f06
 - 4f5bb72d-f757-5aea-bac2-311684658508
+- 345cb822-35d0-50ee-a245-6e79e65f2844
+- 770efd79-85f8-533c-ac3f-f399ab39f0be
 ---
+
 
 
 The case of reporter Elaine Boyd took an unexpected turn today as Several respected newsfeeds, including The Federal Times, received encrypted data packages. It is claimed that these were automatically sent by Elaine Boyd from a public storage server With instructions to be delivered if newsfeeds reported her death. 

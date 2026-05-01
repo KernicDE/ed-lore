@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 In The wake of reports that the Federation has withdrawn from the Pleiades Nebula, Authorities in the region have confirmed that the Empire has followed suit. The development, predicted by Many, appears to signal the end of the Federal-Imperial cold war. 
 
 The inter-superpower conflict began With the deployment of a Federal Fleet to the Merope system, shortly followed by the positioning of Several Majestic-class Interdictors. It was evident to observers that these manoeuvres were intended to control the region’s meta-alloys. 

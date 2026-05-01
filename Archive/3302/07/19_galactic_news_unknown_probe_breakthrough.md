@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The Canonn Interstellar Research Group has announced that One of Its scientists has made a discovery regarding the so-called Unknown Probes. 
 
 According to a statement, a pilot by the name of Commander Rizal72 has confirmed that when the mysterious objects are examined With an advanced discovery scanner, they emit an electro-magnetic pulse that temporarily incapacitates the scanning ship. The pulse is followed by a brief burst of sound, similar in nature to the 'chittering' produced by the Unknown Artefacts. 

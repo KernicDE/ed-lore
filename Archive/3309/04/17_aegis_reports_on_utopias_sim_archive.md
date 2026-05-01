@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 A scientific delegation from Aegis has visited Utopia to compare its Sim-Archive with Salvation’s Nemesis Failsafe designs.
 A summary from Dr Maximo Fonseca was shared with newsfeeds:
 “Simguru Antal agreed to meet with us as a sign of good faith, and to refute claims of collaboration with Salvation. He personally introduced us to the neurosmiths of Utopia, who can digitally encode electrochemical activity within the brain. I took part in a demonstration, uploading some of my own long-term memories into the Sim-Archive. Afterwards, my colleague Dr Cooper enjoyed a remarkably accurate simulation of my university graduation thirty years ago, who claimed she found it hard to believe the memory was not her own.”

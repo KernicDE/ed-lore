@@ -4,7 +4,10 @@ title: Week in Review
 slug: week_in_review
 date: '3304-08-12'
 source: GitHub
-summary: Weekly summary covering the disappearance of Riri McAllister's medical transport, Jarl Toredo's resignation from Unchain, further FIA arrests of Far God cultists, the malfunctioning mining robot in Beta Hydri, the Pleiades rescue operation, and the successful conclusion of Aranbarahun Purple Creative's cargo ship campaign.
+summary: Weekly summary covering the disappearance of Riri McAllister's medical transport,
+  Jarl Toredo's resignation from Unchain, further FIA arrests of Far God cultists,
+  the malfunctioning mining robot in Beta Hydri, the Pleiades rescue operation, and
+  the successful conclusion of Aranbarahun Purple Creative's cargo ship campaign.
 player_impact: None
 persons:
 - Riri McAllister
@@ -39,7 +42,9 @@ topics:
 - terrorism
 - trade
 - religion
-modern_impact: This week spans terrorism, political romance, religious persecution, industrial accidents, and humanitarian crises, reflecting the breadth of challenges facing galactic civilisation.
+modern_impact: This week spans terrorism, political romance, religious persecution,
+  industrial accidents, and humanitarian crises, reflecting the breadth of challenges
+  facing galactic civilisation.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -49,7 +54,10 @@ related_uuids:
 - a47511e4-11cb-57b4-b384-567a1452d38b
 - 1afd3193-1f8d-51ed-b04a-46317a5e1cae
 - b8029316-f01c-590a-9636-eb301fa8a07b
+- 8b3c0703-6e02-54c2-bece-95d8dbcb8c84
+- b280e325-1aa5-5bb7-98d4-e8391cbe9f45
 ---
+
 
 Here are This week’s major stories. 
 

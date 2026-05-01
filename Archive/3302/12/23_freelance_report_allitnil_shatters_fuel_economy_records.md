@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 A new record has been set by Commander Allitnil, who successfully travelled from Sol to Jaques Station in Colonia without making any stops...or equipping a fuel scoop. 
 
 The impressive feat took nine days, 5,489 hyperspace jumps and 383 tonnes of hydrogen fuel. Although Commander Allitnil travelled mostly in economic mode, providing regular updates and efficiency calculations, Many doubted the trip was possible. But it soon became clear that the amazing efficiency of Allitnil's Anaconda would get him to Jaques With plenty of fuel to spare. 

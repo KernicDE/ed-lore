@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Media outlets in Maia have reported that The Pleiades Resource Enterprise has once again emerged victorious from a conflict With the Ant Hill Mob. The battle, instigated by the Ant Hill Mob, was designed to weaken the Enterprise's position in Maia. 
 
 Hundreds of Independent pilots supported the campaign by targeting Pleiades Resource Enterprise fighters and delivering battle weapons to system security forces. But ultimately it was not enough to defeat the PRE. 

@@ -47,6 +47,7 @@ related_uuids:
 
 
 
+
 **Pilots’ Federation ALERT**
 Wreckage from a past conflict between the Guardian and Thargoid races has been found in the Wregoe BU-Y b2-0 system.
 The crashed remains of Thargoid vessels, alongside structures of Guardian origin, are located on Wregoe BU-Y b2-0 1 c. Conflict between the two species occurred millions of years ago, but physical evidence of this is extremely rare. The only comparable site, in the Trapezium Sector YU-X c1-2 system, was initially found two centuries ago by the Azimuth Biochemicals ship Proteus and rediscovered in 3307.

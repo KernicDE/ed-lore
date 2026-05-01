@@ -4,8 +4,13 @@ title: Princess Arissa Addresses the Nation
 slug: princess_arissa_addresses_the_nation
 date: '3301-04-02'
 source: GitHub
-summary: Princess Arissa Lavigny-Duval broke her silence with a national address from the steps of the Imperial Palace following the assassination attempt on her alleged father, Emperor Hengist Duval. She condemned those seeking to usurp Imperial law and vowed the House of Duval would protect citizens from fear, hunger, sickness and shame. She issued a single warning to enemies of the Imperial court.
-player_impact: None directly; Arissa's address positions her as a defender of Imperial stability and a protector of the Duval legacy.
+summary: Princess Arissa Lavigny-Duval broke her silence with a national address from
+  the steps of the Imperial Palace following the assassination attempt on her alleged
+  father, Emperor Hengist Duval. She condemned those seeking to usurp Imperial law
+  and vowed the House of Duval would protect citizens from fear, hunger, sickness
+  and shame. She issued a single warning to enemies of the Imperial court.
+player_impact: None directly; Arissa's address positions her as a defender of Imperial
+  stability and a protector of the Duval legacy.
 persons:
 - Arissa Lavigny-Duval
 - Emperor Hengist Duval
@@ -14,10 +19,21 @@ locations:
 - Imperial Palace
 topics:
 - succession
-modern_impact: Arissa's public address established her as a vocal defender of the Emperor and the Duval line, bolstering her claim to the throne.
+modern_impact: Arissa's public address established her as a vocal defender of the
+  Emperor and the Duval line, bolstering her claim to the throne.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 187a9035-1fae-5b9f-b3a5-93921aa46dea
+- 7dc64c51-9af8-50a7-b1c6-2f97c35ce3f7
+- 1aace639-6f26-5836-813f-ed536ff18435
+- 2c3a3f21-aa45-532e-96c3-1c53cc3fd1de
+- 0c0a2b8a-3621-51fb-926a-49298b2abcc3
+- 7de915cb-51b3-5885-a170-73a56654e534
+- d5e1a76d-3d6c-59ee-a04a-a341848d81bd
+- c7ae7af9-c8e6-50c8-97c9-d0f60557ca65
 ---
+
 
 In what can only be seen as a result of The attack on her alleged father, Princess Arissa Lavigny-Duval has today broken her long silence in an address to the nation on the steps of the Imperial Palace. 
 

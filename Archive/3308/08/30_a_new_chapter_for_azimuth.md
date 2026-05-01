@@ -37,6 +37,7 @@ related_uuids:
 
 
 
+
 Azimuth Biotech has outlined plans for the corporation’s future following the confirmation of Salvation’s death.
 Director Torben Rademaker, head of strategic operations, submitted a statement to public newsfeeds:
 “The loss of Salvation, formerly known as Caleb Wycherley, is a sad day for our organisation. We will remember his sacrifice on humanity’s behalf, but recognise this as a chance to forge a fresh path towards the future.”

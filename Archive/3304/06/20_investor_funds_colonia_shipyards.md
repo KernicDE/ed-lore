@@ -27,8 +27,16 @@ modern_impact: Rackham's investment accelerates Colonia's development, transform
   it from an outpost into a self-sufficient deep-space civilisation.
 legacy_weight: 3
 significance: medium
-related_uuids: []
+related_uuids:
+- bb14dd59-b241-5db1-8759-dff2555f5ee3
+- ed6adddd-c9c1-5fb8-ab02-8185dd679153
+- 722fe641-dd51-5082-a7f8-ca2c80aabf61
+- 5099d0d9-4ac9-5541-b400-60125e76f48b
+- fe2ef902-f105-5e82-bf79-83ee66c58228
+- 60b7e81b-2c68-5123-9b6c-5a136ba41850
+- 09a1615f-e58a-5a91-9d2e-71b9a4edfbe2
 ---
+
 
 
 Renowned billionaire Zachary Rackham, owner of Rackham Capital Investments, has made a sizeable charitable donation to build new shipyards in The Colonia region. 

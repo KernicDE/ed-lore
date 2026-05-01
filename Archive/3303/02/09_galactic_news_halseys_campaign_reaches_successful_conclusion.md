@@ -4,7 +4,9 @@ title: Galactic News  Halsey's Campaign Reaches Successful Conclusion
 slug: galactic_news_halseys_campaign_reaches_successful_conclusion
 date: '3303-02-09'
 source: GitHub
-summary: Former Federal President Jasmina Halsey's campaign to establish a rehabilitation centre for war victims concludes successfully. Hundreds of pilots delivered construction materials to Dirichlet Orbital.
+summary: Former Federal President Jasmina Halsey's campaign to establish a rehabilitation
+  centre for war victims concludes successfully. Hundreds of pilots delivered construction
+  materials to Dirichlet Orbital.
 player_impact: Collect rewards from Dirichlet Orbital in the Yum Kamcabi system.
 persons:
 - Jasmina Halsey
@@ -17,10 +19,18 @@ topics:
 - construction
 - humanitarian
 - war
-modern_impact: Successful establishment of a war refugee rehabilitation centre through community-supported construction.
+modern_impact: Successful establishment of a war refugee rehabilitation centre through
+  community-supported construction.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 705558a5-f1f7-5536-96fa-06d4ff51ece6
+- 61dd9ef7-5e61-588b-b26a-298d6d7a45da
+- 1034cc0f-a196-5d70-a72a-116480e4f667
+- 92ab3791-b482-5d1a-9df1-31af570bc24b
+- 043b09cb-a215-572d-93dd-9554ec2ca250
 ---
+
 
 Former Federal President Jasmina Halsey has announced that her campaign to establish a rehabilitation centre for victims of war has received The wholehearted support of the galactic community. Hundreds of pilots supported the campaign by delivering construction materials to Dirichlet Orbital, the campaign's centre. 
 

@@ -25,7 +25,9 @@ significance: high
 related_uuids:
 - ddd603e6-59fd-591f-b094-8bc0e5b0d5ab
 - eda4cfe1-e27c-5303-a7dc-c613c5400d4e
+- 8ad75ee9-b942-5e77-9019-b89a5faa2700
 ---
+
 
 
 Personnel at Jaques Station have announced that their appeal for repair materials has reached a successful conclusion more than a week before The campaign was scheduled to end, thanks to the enthusiastic support of the galactic community. 

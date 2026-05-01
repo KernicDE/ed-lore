@@ -38,7 +38,16 @@ modern_impact: Milestone for the Fuel Rats player group, demonstrating organised
 legacy_weight: 2
 significance: medium
 technologies: []
+related_uuids:
+- c3cd09a0-a456-5b4a-904c-ccbb9b8de2b8
+- 94e8bc39-c6b0-5052-8363-2309a4b96c78
+- 1f1419de-960a-5edc-a938-191c06741b7a
+- ec55368b-f256-5ab9-8fc8-4752b409f055
+- e9eb0977-26e1-5a3d-9b2c-55d6d8b4d846
+- 83553e71-7317-52b9-a07d-0b935f8471c5
+- 04fde037-8e7b-559f-80b4-ab5f8435c69c
 ---
+
 
 
 Heroes: that's what some call The Fuel Rats. Ever since launching their emergency fuel delivery service a little over two months ago, The Fuel Rats have made an impact on the lives of over 1,000 commanders who would otherwise have faced a long spacewalk home. 

@@ -39,7 +39,10 @@ significance: medium
 related_uuids:
 - 14ba5e9a-bb38-565e-bbd0-768f8f401fd4
 - 81c800a0-c293-5c53-b69d-026625eb2c71
+- ada7d772-d68c-5509-b509-6358ee602283
+- c267b84b-57a2-5a63-8d0d-e2363834a969
 ---
+
 
 
 The efforts of the Imperial forces engaged in “Operation Davy Jones” have continued This week, With the attackers keeping up the pressure on Archon Delaine’s stretched and battered forces. However, while the pilots engaged in the operation remain optimistic after a series of local successes, the campaign has attracted Its share of detractors. 

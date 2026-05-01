@@ -28,7 +28,9 @@ significance: high
 related_uuids:
 - 1159ca34-1e08-533b-b557-2cb5683fd949
 - 8ed34fe4-5dca-57b8-9ed7-01a204faca8d
+- d27ded8d-1aef-5ab9-a316-27ec6d7bc189
 ---
+
 
 
 Carl Simmons, chief medical officer at Newton Dock in The BD-02 4304 system, spoke at a health summit over the weekend. His keynote address was on the Cerberus plague. 

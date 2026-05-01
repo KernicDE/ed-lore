@@ -33,7 +33,9 @@ significance: medium
 related_uuids:
 - c480985d-96e0-5c3a-a305-91da4a6ffbbe
 - d61bb826-4377-52de-ae4a-3ddce1c975e9
+- d90b7c02-020e-520f-815c-2bd3a0fc3e4d
 ---
+
 
 
 Officials at Ocrinox's Orbiter held a press conference earlier today to announce their intention to build a state-of-The-art resettlement facility for refugees of The Pegasi Pirate War. 

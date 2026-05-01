@@ -27,7 +27,9 @@ significance: high
 related_uuids:
 - 51c0ee96-ad36-51fd-b176-79908f6725aa
 - a395a47c-93ef-5a29-90cb-b2e83da399a5
+- e7ba3d66-8ab0-5f03-80c3-c038b99249a9
 ---
+
 
 
 Medical personnel at Leoniceno Orbital have announced they will soon bring former Federal President Jasmina Halsey out of her induced coma. When The former president arrived at the starport she was still in her damaged escape pod. Since then, medical personnel at the starport have worked tirelessly to heal the injuries she sustained in the destruction of Starship One. Having completed This process, Halsey's doctors now believe it is safe to start waking their patient. 

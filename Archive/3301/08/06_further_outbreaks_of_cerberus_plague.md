@@ -40,7 +40,9 @@ significance: medium
 related_uuids:
 - 2447e3c3-fcbc-5d53-a167-64639711b0aa
 - f4052c95-c237-55ba-a86f-9ea84710d733
+- 059ac3ef-4c66-5813-8756-62b94bd645e8
 ---
+
 
 
 While medical teams across The galaxy work to deliver The Cerberus Plague antidote to systems affected by the disease, fresh outbreaks of the pathogen are appearing in Other systems. According to recent reports, The following systems are currently affected by the Cerberus Plague: 

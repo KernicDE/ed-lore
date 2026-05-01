@@ -36,6 +36,7 @@ related_uuids:
 
 
 
+
 **Pilots’ Federation ALERT**
 A delivery campaign in the Pleiades Sector CW-U B3-2 system has provided vital commodities to Azimuth Biotech.
 The technical materials will enable Azimuth to analyse the salvaged wreckages of Thargoid vessels, following the activation of the Proteus Wave in the HIP 22460 system.

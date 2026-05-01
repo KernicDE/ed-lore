@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 The Federal High Court on Mars has opened the trial of Fleet Admiral Lucas Vincent, who is charged With conspiracy to commit murder and treason.
 Vincent stands accused of organising the sabotage of Starship One in 3301, resulting in Hundreds of deaths.
 The Federal Times’s crime correspondent Ethan Takahashi reported:

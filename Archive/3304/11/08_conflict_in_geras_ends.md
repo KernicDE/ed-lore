@@ -4,8 +4,12 @@ title: Conflict in Geras Ends
 slug: conflict_in_geras_ends
 date: '3304-11-08'
 source: GitHub
-summary: The conflict between Geras First and Ndozins State Inc in the Geras system concludes. Both factions received support from independent combat pilots but only one emerged victorious. Journalist Donal Varden describes the aftermath as an uneasy peace that came at a dreadful cost.
-player_impact: Participating pilots can collect rewards from Yurchikhin Port in the Geras system.
+summary: The conflict between Geras First and Ndozins State Inc in the Geras system
+  concludes. Both factions received support from independent combat pilots but only
+  one emerged victorious. Journalist Donal Varden describes the aftermath as an uneasy
+  peace that came at a dreadful cost.
+player_impact: Participating pilots can collect rewards from Yurchikhin Port in the
+  Geras system.
 persons:
 - Donal Varden
 groups:
@@ -16,12 +20,15 @@ locations:
 - Yurchikhin Port
 topics:
 - war
-modern_impact: The conclusion of the Geras conflict demonstrates the devastating human cost of factional warfare and the decisive role independent pilots play in determining local political outcomes.
+modern_impact: The conclusion of the Geras conflict demonstrates the devastating human
+  cost of factional warfare and the decisive role independent pilots play in determining
+  local political outcomes.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 418bd938-2122-5f9a-a397-98fd9015d198
 ---
+
 
 Authorities in The Geras system have confirmed that the conflict between Geras First and Ndozins State Inc has come to an end. 
 

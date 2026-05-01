@@ -4,8 +4,14 @@ title: Fuel Rat Deep Space Relay Rescue
 slug: fuel_rat_deep_space_relay_rescue
 date: '3301-07-21'
 source: GitHub
-summary: The Fuel Rats conducted a deep-space relay rescue of Cmdr Neospike, stranded over 3,600 light years from civilization near Sagittarius A* with a broken fuel scoop. Domaq provided initial refuelling while a relay operation involving multiple ships and roughly 540 limpet drones transferred fuel. Speed was critical as Neospike's systems were below 5% integrity. The Fuel Rats have now rescued over 190 stranded pilots.
-player_impact: Pilots with broken fuel scoops in deep space can call the Fuel Rats for relay rescue operations even thousands of light years from the bubble.
+summary: The Fuel Rats conducted a deep-space relay rescue of Cmdr Neospike, stranded
+  over 3,600 light years from civilization near Sagittarius A* with a broken fuel
+  scoop. Domaq provided initial refuelling while a relay operation involving multiple
+  ships and roughly 540 limpet drones transferred fuel. Speed was critical as Neospike's
+  systems were below 5% integrity. The Fuel Rats have now rescued over 190 stranded
+  pilots.
+player_impact: Pilots with broken fuel scoops in deep space can call the Fuel Rats
+  for relay rescue operations even thousands of light years from the bubble.
 persons:
 - Neospike
 - Domaq
@@ -21,10 +27,22 @@ locations:
 topics:
 - exploration
 - humanitarian
-modern_impact: Complex relay rescue demonstrates the Fuel Rats' capability to operate in extreme deep-space conditions with coordinated multi-ship operations.
+modern_impact: Complex relay rescue demonstrates the Fuel Rats' capability to operate
+  in extreme deep-space conditions with coordinated multi-ship operations.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 02aee162-6f80-5b27-8754-03da023ed3e4
+- 1f1419de-960a-5edc-a938-191c06741b7a
+- ec55368b-f256-5ab9-8fc8-4752b409f055
+- c2694e4f-6082-57fd-a7ce-9ddec5165b3f
+- ec25b521-ab95-54b8-9c06-204d7b69c46e
+- 94e8bc39-c6b0-5052-8363-2309a4b96c78
+- 83553e71-7317-52b9-a07d-0b935f8471c5
+- 04fde037-8e7b-559f-80b4-ab5f8435c69c
+- fedf5e1d-20a4-5558-a391-033b32aae950
 ---
+
 
 The Fuel Rats received a distress call from Cmdr Neospike as he returned from Sagittarius A* when a broken fuel scoop left him stranded over 3,600 light years from civilization. The Reboot/Repair sequence failed to fix the fuel scoop. 
 

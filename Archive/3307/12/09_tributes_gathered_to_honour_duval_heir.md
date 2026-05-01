@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The birth of Hadrian Duval’s son has been celebrated in grand fashion in the Paresa system.
 Praetor Leo Magnus, the new leader of Nova Paresa, publicly thanked pilots for delivering Chateau De Aegaeon, HR 7221 Wheat, Indi Bourbon and Yaso Kondi Leaf to support these highly exclusive proceedings. Payment is now available from Dyson City starport. 

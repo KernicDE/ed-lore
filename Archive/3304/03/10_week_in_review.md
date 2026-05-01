@@ -40,7 +40,10 @@ significance: high
 related_uuids:
 - 7c6f3a69-f742-57ed-8940-4e857c580774
 - 8aa696fe-f8f4-5499-81b8-1f5bdbf92d00
+- 708accb1-31f8-5810-873b-8ef1038daebc
+- d34ef1b2-8a49-5082-acb9-4dd4b13b10e4
 ---
+
 
 
 Here are This week’s major stories. 

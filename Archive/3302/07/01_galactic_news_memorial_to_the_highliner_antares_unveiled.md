@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 The Sirius Corporation has unveiled a memorial to those who lost their lives aboard the Highliner Antares, Which was destroyed in 3251 during Its maiden voyage. Using debris retrieved from the ship, capricious talent Delvin Hoorgan has created a striking tribute to the souls lost on the ship's inaugural flight. 
 
 The memorial depicts a stylised version of the Highliner Antares, and has been constructed using light-bending meta-materials that allow light to pass through the interior of the ship as it rotates. As the sculpture moves, the intensity of the light increases, reaching a crescendo of brilliance before subsiding. 

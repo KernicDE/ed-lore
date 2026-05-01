@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Verity Gavroche, official correspondent for The Canonn Interstellar Research Group, has spoken to Dr Arcanonn about the meta-alloy drive from the Pioneer's Cooperative: 
 
 "On the 24th of March, the Pioneer's Cooperative – an organisation of Which the Canonn is a proud member – placed an open order for meta-alloys to be delivered to Obsidian Orbital in the Maia system. The goal is to gather enough of the material to produce ship modules that are resistant to the Unknown Artefacts' self-repair mechanism, thus preventing system degradation in ships transporting UAs." 

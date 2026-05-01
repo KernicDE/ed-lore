@@ -4,8 +4,11 @@ title: Community Goal  Ambika in Need
 slug: community_goal_ambika_in_need
 date: '3302-08-04'
 source: GitHub
-summary: Authorities in the Ambika system report severe famine and civil unrest. The Union Party of Ambika has launched a campaign requesting pilots deliver food to Goulart City and neutralise pirates operating in the system.
-player_impact: Deliver food to Goulart City in Ambika and eliminate wanted ships to earn rewards.
+summary: Authorities in the Ambika system report severe famine and civil unrest. The
+  Union Party of Ambika has launched a campaign requesting pilots deliver food to
+  Goulart City and neutralise pirates operating in the system.
+player_impact: Deliver food to Goulart City in Ambika and eliminate wanted ships to
+  earn rewards.
 persons: []
 groups:
 - Union Party of Ambika
@@ -18,10 +21,15 @@ topics:
 - ship
 - war
 technologies: []
-modern_impact: Early example of combined humanitarian and combat community goals addressing systemic famine and piracy.
+modern_impact: Early example of combined humanitarian and combat community goals addressing
+  systemic famine and piracy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- fdfa6ca7-5aff-5304-a310-9fde3137e019
+- 5a1908a7-1ca6-5097-8d38-a56d37dba23e
 ---
+
 
 Authorities in The Ambika system have reported that the region is in the grip of a severe famine. All efforts to shore up agricultural markets have failed, and the food shortage has even triggered bouts of civil unrest. A tentative relief effort has begun, But the convoys attempting to bring aid to the people of Ambika are being targeted by opportunist pirates. 
 

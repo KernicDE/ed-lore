@@ -4,8 +4,11 @@ title: Survey Initiative Successful, Says Brewer Corporation
 slug: survey_initiative_successful_says_brewer_corporation
 date: '3311-02-19'
 source: API
-summary: Brewer Corporation's survey initiative successfully collected exploration data to assess prime locations for permanent human structures, though it was briefly disrupted by a lockdown initiated by rogue Commanders.
-player_impact: Explorers contributed survey data to Trailblazer Echo in HIP 90578 to identify optimal colonisation targets.
+summary: Brewer Corporation's survey initiative successfully collected exploration
+  data to assess prime locations for permanent human structures, though it was briefly
+  disrupted by a lockdown initiated by rogue Commanders.
+player_impact: Explorers contributed survey data to Trailblazer Echo in HIP 90578
+  to identify optimal colonisation targets.
 persons:
 - Madelyn Teague
 groups:
@@ -18,7 +21,12 @@ topics:
 - exploration
 technologies: []
 arc_id: trailblazer-colonisation
-modern_impact: Teague's description of 'a recently updated software algorithm for the next phase of preparation' reveals Brewer Corporation's investment in colonisation infrastructure. The mention of displaced communities from the Thargoid War seeing the 'new frontier' as 'a chance at a fresh start' establishes the humanitarian narrative that will drive the migration wave. The rogue Commander lockdown hints at resistance to expansion that may resurface.
+modern_impact: Teague's description of 'a recently updated software algorithm for
+  the next phase of preparation' reveals Brewer Corporation's investment in colonisation
+  infrastructure. The mention of displaced communities from the Thargoid War seeing
+  the 'new frontier' as 'a chance at a fresh start' establishes the humanitarian narrative
+  that will drive the migration wave. The rogue Commander lockdown hints at resistance
+  to expansion that may resurface.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,6 +37,7 @@ related_uuids:
 - 2929a7d5-739c-5361-a9e9-697acd62a952
 - a35f8876-2575-5b5e-beda-dcad1462ddf8
 ---
+
 
 A recent survey initiative organised by Brewer Corporation has been hailed as a success by CEO Madelyn Teague.
 High quantities of exploration data were handed in at the Trailblazer Echo megaship in the HIP 90578 system. The data will now be analysed by Universal Cartographics to assess the prime locations in each system for permanent human structures.

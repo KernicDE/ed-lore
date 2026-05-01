@@ -4,7 +4,12 @@ title: Far God Cult Investigation Ends
 slug: far_god_cult_investigation_ends
 date: '3304-09-29'
 source: GitHub
-summary: The Federal Intelligence Agency terminates its investigation into the Far God cult after verifying Gethin Okonkwo's information as genuine. Senior Agent Micah Whitefield confirms no evidence of Thargoid communication and releases all detained worshippers. Dr Alfred Ulyanov, arrested for his research, praises Okonkwo's dedication and notes that intolerance and fear of the Other remain deeply embedded in human nature despite technological advancement.
+summary: The Federal Intelligence Agency terminates its investigation into the Far
+  God cult after verifying Gethin Okonkwo's information as genuine. Senior Agent Micah
+  Whitefield confirms no evidence of Thargoid communication and releases all detained
+  worshippers. Dr Alfred Ulyanov, arrested for his research, praises Okonkwo's dedication
+  and notes that intolerance and fear of the Other remain deeply embedded in human
+  nature despite technological advancement.
 player_impact: None
 persons:
 - Micah Whitefield
@@ -18,7 +23,9 @@ topics:
 - investigation
 - religion
 - alien contact
-modern_impact: The FIA's conclusion vindicates the Far God cult and exposes the injustice of mass arrests based on fear rather than evidence, though the fate of missing worshippers remains unresolved.
+modern_impact: The FIA's conclusion vindicates the Far God cult and exposes the injustice
+  of mass arrests based on fear rather than evidence, though the fate of missing worshippers
+  remains unresolved.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -26,6 +33,7 @@ related_uuids:
 - 2fbb2c64-a06a-556e-be3d-e4b798f1564e
 - ee173dbc-3ffb-5704-85cf-8afc6f5094be
 ---
+
 
 The Federal Intelligence Agency has terminated Its investigation into the Far God cult. 
 

@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Vice President Jerome Archer has successfully proposed a new public surveillance law designed to prevent future terrorist attacks in The Federation.
 The Domestic Counter-Terrorism Act was debated in Congress before being approved by a majority vote. It is considered to be emergency legislation that replaces all previous laws regarding monitoring civilian activity and intercepting personal communications.
 Vice President Archer, who personally drafted much of the new statute, announced:

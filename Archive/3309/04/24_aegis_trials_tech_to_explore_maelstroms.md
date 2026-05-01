@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Prototypes have been created of a new module designed to counteract the massive energy surge encountered by ships within Thargoid Maelstroms.
 Professor Alba Tesreau made a public statement:
 “Intense research into the Maelstroms by Allied, Federal and Imperial specialists has yielded practical results. We have designed a device to briefly insulate a ship against the overpowering effects of a Maelstrom’s energy wave. Typically, the wave physically repels all human ships and disrupts onboard electrical systems.”

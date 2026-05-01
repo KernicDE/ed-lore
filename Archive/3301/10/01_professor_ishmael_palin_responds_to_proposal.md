@@ -30,7 +30,9 @@ significance: medium
 related_uuids:
 - a9ccd499-b9ef-5bb3-be68-dfb161b531b9
 - ec6f3cdd-077e-53df-b05f-f21109ad0a05
+- 01ba0e4a-721d-5556-a7c4-445b0742f470
 ---
+
 
 
 Last week, The Voice of Varati published a message from The Canonn Interstellar Research Group, an Independent scientific body, inviting Professor Ishmael Palin to join their organisation. Professor Palin recently made headlines when his Federation-backed programme to research the so-called anomalous extraterrestrial objects (or AEOs) was abruptly terminated. When asked for a response to the message, Professor Palin made his feelings clear: 

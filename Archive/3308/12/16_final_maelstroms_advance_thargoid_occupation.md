@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 A further 13 systems have fallen under Thargoid control as the last of the Maelstroms materialise.
 The three rogue signal sources – designated Thor, Raijin and Hadad – entered human-occupied space yesterday. As with the previous five anomalies, they manifested as colossal clouds of corrosive gas over 100 kilometres in diameter. 

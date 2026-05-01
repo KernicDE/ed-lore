@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - 6d7b4a6d-b8f7-5795-9485-3ced941ec158
 - fe2ef902-f105-5e82-bf79-83ee66c58228
+- 37a69743-987e-5990-848f-308a9738a453
 ---
+
 
 
 The campaign to supply a scientific project in Colonia has now concluded. Hundreds of Independent pilots made the journey to deliver microresources to the Colonia Co-operative in the Coeus system. 

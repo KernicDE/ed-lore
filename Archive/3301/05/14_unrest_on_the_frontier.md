@@ -27,7 +27,10 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - bef2abfe-a325-5747-a81a-6c1c086c9b19
+- 59656dfe-af8d-554b-80eb-4370717da32b
+- 0711174c-3029-589f-8c24-2be413623997
 ---
+
 
 
 New reports from The frontier suggest that a horde of militant nomads is currently sweeping their way through the Pegasi Sector. The group, who call themselves the Kumo Crew, are led by the vicious Warlord Archon Delaine. 

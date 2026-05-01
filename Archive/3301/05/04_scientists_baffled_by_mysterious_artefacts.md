@@ -33,7 +33,10 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - aec9d33c-4ebd-52fa-a92d-a554a732713c
+- 0d43ffc6-323d-52a2-b50a-99e8b1ad9395
+- 6184c3e8-42fc-5280-8501-a409ced15497
 ---
+
 
 
 Thanks to The efforts of Dozens of Commanders taking part In a hunt across Hundreds of systems, Dr. Arcannon and his team are delighted to announce that they have finally managed to retrieve an Unknown Artefact. 

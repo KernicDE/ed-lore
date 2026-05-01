@@ -4,7 +4,9 @@ title: Caine-Massey CEO Assassinated
 slug: caine_massey_ceo_assassinated
 date: '3309-03-31'
 source: API
-summary: Caine-Massey CEO Johann Fleischer is assassinated at a Federal Commerce Authority seminar on Mars using a modified Manticore Executioner rifle linked to Imperial agents.
+summary: Caine-Massey CEO Johann Fleischer is assassinated at a Federal Commerce Authority
+  seminar on Mars using a modified Manticore Executioner rifle linked to Imperial
+  agents.
 player_impact: Not specifically mentioned.
 persons:
 - Johann Fleischer
@@ -24,13 +26,17 @@ topics:
 - investigation
 entities: []
 arc_id: null
-modern_impact: Trask's statement — 'These particular models are known to be utilised by undercover Imperial agents' — immediately implicates the Empire and escalates inter-superpower tensions. The assassination of a major corporate CEO using Imperial-linked equipment signals a dangerous escalation in corporate-political warfare.
+modern_impact: Trask's statement — 'These particular models are known to be utilised
+  by undercover Imperial agents' — immediately implicates the Empire and escalates
+  inter-superpower tensions. The assassination of a major corporate CEO using Imperial-linked
+  equipment signals a dangerous escalation in corporate-political warfare.
 legacy_weight: 2
 significance: low
 related_uuids:
 - dc0a3b52-41d2-52f6-9311-d5e5ebe0eff6
 - d7c1ae35-aa55-50f5-af5a-90479b0a0037
 ---
+
 
 Johann Fleischer, the recently appointed head of the mining corporation Caine-Massey, has been shot and killed on Mars.
 Fleischer was attending a Federal Commerce Authority seminar at the Olympus Village Conference Centre. He was targeted in the audience by long-range plasma fire that proved immediately fatal. Security forces were unable to locate the shooter, but the weapon and other items were recovered.

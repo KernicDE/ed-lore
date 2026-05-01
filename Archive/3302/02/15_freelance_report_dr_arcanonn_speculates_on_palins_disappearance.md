@@ -29,7 +29,10 @@ significance: medium
 related_uuids:
 - 5ba56e3b-d2b7-5300-88a9-faf2bb81468a
 - dba07051-e933-5c05-9146-549e19c7cf89
+- af60d2e3-434b-5636-8239-951a1039b5ec
+- 7bc44f0a-00b4-5ecc-a840-08e8175a1fe6
 ---
+
 
 
 Dr Arcanonn of The Canonn Interstellar Research Group has spoken out about the disappearance of Professor Ishmael Palin: 

@@ -24,6 +24,7 @@ related_uuids:
 ---
 
 
+
 Brewer Corporation is enhancing The travel corridor to Colonia, but details about the project’s next phase remain uncertain.
 Business-related newsfeed The Tau Ceti Journal published This feature:
 “There’s no doubt that Brewer Corporation always thinks big. It has enjoyed huge commercial success as a manufacturer of starports and outposts, and Its Drake-class fleet carrier has been enormously popular.”

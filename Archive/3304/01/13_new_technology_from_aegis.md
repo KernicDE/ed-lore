@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 Aegis has expanded Its roster of anti-Thargoid technologies With a new device – The decontamination limpet. The device is specifically designed to counter the caustic properties of Thargoid missiles. 
 
 In a statement, an Aegis spokesperson said: 

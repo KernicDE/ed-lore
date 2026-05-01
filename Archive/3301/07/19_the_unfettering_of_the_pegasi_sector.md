@@ -32,7 +32,9 @@ significance: high
 related_uuids:
 - 365fe94f-5b0d-5dc0-b58e-b8459e572688
 - f9b8633d-abeb-5cfd-8079-b668b89d759b
+- 4d13f85d-d14e-58df-a03e-2c68ee8c632a
 ---
+
 
 
 The Kumo Crew has been known to brand free citizens as slaves and ferry them to an uncertain fate in their capital system, Harma. The Imperial blockade of Harma and the surrounding systems has intercepted thousands of these slaves, Many of whom are emaciated, deeply bruised, and otherwise afflicted. 

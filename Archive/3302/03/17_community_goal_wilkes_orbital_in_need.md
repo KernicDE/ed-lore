@@ -32,7 +32,11 @@ significance: medium
 related_uuids:
 - 88017f0c-4b57-5668-b5a3-f08119083ac6
 - 886c2379-a8dc-5b45-8c99-374ef4b9fe2b
+- 86eec1f5-b341-5d1c-88c1-66e4c0e28817
+- 6f6ab379-1cb1-5dcc-9a26-f683d76efe45
+- 21edb60a-4fd3-5fb4-9776-5574974a2f69
 ---
+
 
 
 The normally peaceful Wilkes Orbital has been the focus of considerable attention in recent weeks. First, the starport was at the centre of a campaign to drive the Blue Hand Gang from the Nearby Orulas system. Then authorities at the station announced that the escape pods recovered in the operation contained Professor Ishmael Palin and the Other members of his research team. Now it seems that the majority of those recovered from the criminals, including Professor Ishmael Palin, have been infected With a strain of Cerberus Plague, the deadly pathogen that claimed millions of lives last year. 

@@ -4,8 +4,10 @@ title: Grey Swan Fleet Destroyed in Shamash
 slug: grey_swan_fleet_destroyed_in_shamash
 date: '3309-11-01'
 source: API
-summary: The Grey Swan fleet in Shamash is destroyed after an anomalous signal triggered violent mania in crew members, with parallels drawn to the generation ship Thetis.
-player_impact: Pilots participated in eliminating the Grey Swan fleet. Payments available at Khonsu Gleam.
+summary: The Grey Swan fleet in Shamash is destroyed after an anomalous signal triggered
+  violent mania in crew members, with parallels drawn to the generation ship Thetis.
+player_impact: Pilots participated in eliminating the Grey Swan fleet. Payments available
+  at Khonsu Gleam.
 persons:
 - Ulrich Maurer
 - Jaya Chaudhary
@@ -14,10 +16,20 @@ topics:
 - research
 - mystery
 - crime
-modern_impact: Chaudhary's comparison to Thetis — 'The horror which unfolded in Shamash bears strong similarities to the fate of the generation ship Thetis' — connects this to a 3303 mystery. The 'whispering' signal that compels violence is a recurring horror trope in Elite Dangerous lore. The unresolved questions — 'We do not know where the signal was transmitted, how it interacts with the human mind or whether we'll encounter it again' — leave a lingering threat.
+modern_impact: Chaudhary's comparison to Thetis — 'The horror which unfolded in Shamash
+  bears strong similarities to the fate of the generation ship Thetis' — connects
+  this to a 3303 mystery. The 'whispering' signal that compels violence is a recurring
+  horror trope in Elite Dangerous lore. The unresolved questions — 'We do not know
+  where the signal was transmitted, how it interacts with the human mind or whether
+  we'll encounter it again' — leave a lingering threat.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 48384e39-3a4a-52ec-a3f9-75c5b001b218
+- f0545970-f1b7-5dca-bcd3-01fb93c2c9b2
+- 25abcbbb-0e7c-5167-8ec8-858ae4047454
 ---
+
 
 **Pilots’ Federation ALERT**
 Crazed pilots that were killing civilians in the Shamash system have been eliminated.

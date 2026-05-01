@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 A recent report from Aegis, outlining The Thargoids’ history and their interactions With the Guardians, has elicited a wide range of responses. 
 
 A brief statement was released by Federal President Zachary Hudson:  

@@ -45,6 +45,7 @@ related_uuids:
 ---
 
 
+
 Delegations have been formed by The Empire and the Marlinist Colonies to take part in the forthcoming diplomatic conference.
 Emperor Arissa Lavigny-Duval will not attend in person, but will be directly represented by Chancellor Anders Blaine. During the conference, Senator Zemina Torval will temporarily assume chancellor duties and act as head of the Senate.
 In addition, Princess Aisling Duval and Senator Denton Patreus will be in attendance. They will be accompanied by experienced ambassadors from the Imperial Diplomatic Corps. 

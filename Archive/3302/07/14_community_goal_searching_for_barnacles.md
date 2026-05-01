@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Since The non-human structures known as barnacles were first discovered, they have prompted fierce debate, attracted intense scrutiny and even triggered the despatch of a Federal Fleet to the Merope system. 
 
 As the only known source of meta-alloys, the barnacles are of considerable value. It is therefore unsurprising that the Empire has issued an appeal for exploration data in the hope of finding more. A spokesperson for Bava Blue Travel Systems, Which is coordinating the campaign, made The following statement: 

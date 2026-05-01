@@ -4,7 +4,9 @@ title: Blood on the Senate Floor
 slug: blood_on_the_senate_floor
 date: '3305-01-25'
 source: GitHub
-summary: Senator Denton Patreus executes Imperator Mordanticus on the Senate floor before Emperor Arissa, followed by the Imperial Guard gunning down senators who supported the isolationist cause, marking the beginning of an Empire-wide purge.
+summary: Senator Denton Patreus executes Imperator Mordanticus on the Senate floor
+  before Emperor Arissa, followed by the Imperial Guard gunning down senators who
+  supported the isolationist cause, marking the beginning of an Empire-wide purge.
 player_impact: None — background political report.
 persons:
 - Arissa Lavigny-Duval
@@ -26,13 +28,17 @@ topics:
 - succession
 - politics
 arc_id: nova-imperium
-modern_impact: The Senate executions were a watershed moment in Imperial history, demonstrating Arissa Lavigny-Duval's willingness to use lethal force against political dissent and triggering a coordinated massacre of Nova Imperium supporters across the Empire.
+modern_impact: The Senate executions were a watershed moment in Imperial history,
+  demonstrating Arissa Lavigny-Duval's willingness to use lethal force against political
+  dissent and triggering a coordinated massacre of Nova Imperium supporters across
+  the Empire.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 996b2c0c-14a6-5c4e-87cd-a2ab4fb5c284
 - fd541582-b2a7-54f3-82c3-c49d93acf99b
 ---
+
 
 Kaeso Mordanticus, the captured leader of isolationist group Nova Imperium, has been brought before the Imperial Senate, With unexpected results. 
 

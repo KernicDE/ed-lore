@@ -4,7 +4,8 @@ title: Rackham Achieves Trillionaire Status
 slug: rackham_achieves_trillionaire_status
 date: '3308-05-09'
 source: API
-summary: Zachary Rackham's personal fortune surpasses one trillion credits following the acquisition of Kavanagh Spaceframes Ltd.
+summary: Zachary Rackham's personal fortune surpasses one trillion credits following
+  the acquisition of Kavanagh Spaceframes Ltd.
 player_impact: Not specifically mentioned — this is a financial report.
 persons:
 - Zachary Rackham
@@ -16,13 +17,17 @@ locations: []
 topics:
 - corporate expansion
 arc_id: null
-modern_impact: '"Analysts estimate that the total value of Mr Rackham''s estate is now approximately 1,012,000,000,000 credits." Rackham''s ascent to trillionaire status provided the financial and media momentum that would fuel his unprecedented presidential campaign, transforming corporate wealth directly into political capital.'
+modern_impact: '"Analysts estimate that the total value of Mr Rackham''s estate is
+  now approximately 1,012,000,000,000 credits." Rackham''s ascent to trillionaire
+  status provided the financial and media momentum that would fuel his unprecedented
+  presidential campaign, transforming corporate wealth directly into political capital.'
 legacy_weight: 2
 significance: low
 related_uuids:
 - d48a2172-4d32-5501-b760-eb75a11fb324
 - bd2b27e6-fa70-57c1-b2cc-96b787b5dbac
 ---
+
 
 The personal fortune of entrepreneur Zachary Rackham has now surpassed One trillion credits, due to a new corporate acquisition.
 A report in The Tau Ceti Journal highlighted the achievement:

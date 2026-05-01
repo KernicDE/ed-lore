@@ -30,7 +30,10 @@ significance: high
 related_uuids:
 - 26462b75-24b8-5f25-b0bf-35be995f0a96
 - 4b8e9c48-235e-54a0-af71-e9979252e85a
+- b94bfb8c-7739-5fb9-902b-666df71a116d
+- 17db014d-0a81-5ef4-bf2b-ddc70738c828
 ---
+
 
 
 A spokesperson for Faulcon DeLacy has announced that The manufacturer has teamed up With Aegis to produce a new version of Its popular fighter, the Taipan. The spokesperson confirmed that the development was a direct response to the rising Thargoid threat. 

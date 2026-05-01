@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Analysis of objects and refinery compounds obtained from Thargoid spire sites has revealed a crucial connection to the Titans.
 The announcement was made by Professor Ishmael Palin, who has been receiving deliveries of these materials from Pilots’ Federation members:
 “Genetic commonalities between the spire compounds and Titan hull fragments have now been verified. My research suggests these surface sites have been established to harvest resources which sustain the Thargoid motherships in some way. It may be that their supplies of some vital enzymes or fuels are running low, after months of being deployed away from their home worlds.”

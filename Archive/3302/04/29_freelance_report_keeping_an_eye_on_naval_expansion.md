@@ -30,7 +30,9 @@ significance: high
 related_uuids:
 - fc51d3ef-3b90-5a4f-93af-3e07e999addf
 - fc88a585-1994-5ec1-af2f-d1911dadb133
+- 7dc11335-2df3-57f7-8de9-6d6a26eb1e5a
 ---
+
 
 
 On The popular Independent talk show 'Affairs of State', political commentator Walter Astoria defended the recent construction of a new Alliance outpost while expressing concern about Federal and Imperial naval expansion. 

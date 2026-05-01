@@ -37,7 +37,11 @@ related_uuids:
 - caeee234-63d4-5e15-951d-0e83ac79930a
 - e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
 - ee5b7c0a-d673-55fa-b1af-b0e73f400736
+- d6d91653-4bab-5701-9695-afba5c9d142b
+- 3f8f3a76-f995-5a02-81c8-2fbc1af760bd
+- 3040626c-fed5-53d9-b5f1-66c2cb11eb25
 ---
+
 
 
 The Core Dynamics breakaway faction created by ex-CEO Jupiter Rochester has survived, by gathering believers in the corporate rule of the Federation.

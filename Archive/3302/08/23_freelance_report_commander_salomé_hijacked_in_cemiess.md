@@ -35,7 +35,9 @@ significance: medium
 related_uuids:
 - 661a40d6-f5bf-57eb-9dea-50152229573f
 - 74f9ab0c-74c1-55ff-a5e7-6c1facb340dd
+- 711fc129-123c-5c34-846b-b481c2f27728
 ---
+
 
 
 Recent articles published by The Imperial Citizen may have inspired an act of violence in the Cemiess system over the weekend. Commander Nodus Cursorius of the Chapterhouse of Inquisition reported a transmission from Commander Salomé of the Children of Raxxla, indicating that her ship had been attacked by unknown forces. 

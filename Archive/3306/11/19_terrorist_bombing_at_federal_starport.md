@@ -4,8 +4,11 @@ title: Terrorist Bombing at Federal Starport
 slug: terrorist_bombing_at_federal_starport
 date: '3306-11-19'
 source: GitHub
-summary: The NMLA bombs Kepler Orbital starport, killing the nine captured NMLA members held there and destroying the facility with caustic enzyme explosives designed by Liz Ryder.
-player_impact: Pilots assisted with repairs and rescued survivors from the damaged Kepler Orbital starport.
+summary: The NMLA bombs Kepler Orbital starport, killing the nine captured NMLA members
+  held there and destroying the facility with caustic enzyme explosives designed by
+  Liz Ryder.
+player_impact: Pilots assisted with repairs and rescued survivors from the damaged
+  Kepler Orbital starport.
 persons:
 - Liz Ryder
 groups:
@@ -14,13 +17,17 @@ groups:
 - NMLA
 topics:
 - terrorism
-modern_impact: The bombing demonstrates the NMLA's reach into Federal space and their willingness to sacrifice their own to prevent interrogation, escalating galactic terrorism concerns.
+modern_impact: The bombing demonstrates the NMLA's reach into Federal space and their
+  willingness to sacrifice their own to prevent interrogation, escalating galactic
+  terrorism concerns.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 4e860725-eb68-5f84-82ea-7b7e629bd964
 - 5c5b50af-0f81-5898-b860-948182133436
+- 32260e0e-400f-55a9-b936-04db515d5d11
 ---
+
 
 **Pilots Federation ALERT** 
 

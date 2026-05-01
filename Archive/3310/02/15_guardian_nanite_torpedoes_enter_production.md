@@ -4,8 +4,11 @@ title: Guardian Nanite Torpedoes Enter Production
 slug: guardian_nanite_torpedoes_enter_production
 date: '3310-02-15'
 source: API
-summary: Aegis reveals Ram Tah's Guardian nanite torpedo technology and begins mass production, with Palin constructing a Thargoid-spire-armoured warhead that can function within Maelstrom anti-Guardian fields.
-player_impact: Pilots are asked to deliver neofabric insulation, ion distributors and energy grid assemblies to Clement Orbital in the YZ Ceti system for mass production.
+summary: Aegis reveals Ram Tah's Guardian nanite torpedo technology and begins mass
+  production, with Palin constructing a Thargoid-spire-armoured warhead that can function
+  within Maelstrom anti-Guardian fields.
+player_impact: Pilots are asked to deliver neofabric insulation, ion distributors
+  and energy grid assemblies to Clement Orbital in the YZ Ceti system for mass production.
 persons:
 - Ishmael Palin
 - Ram Tah
@@ -22,7 +25,13 @@ technologies:
 - Guardian relics
 - nanites
 arc_id: thargoid-titan-war
-modern_impact: The article reveals the full scientific basis of the Guardian nanite torpedo — 'exposure to certain electromagnetic frequencies caused Guardian relics to open and activate clusters of microscopic nanites' that 'react aggressively against Thargoid biotechnology by disrupting it on the molecular level.' The critical insight that 'these nanites are unaffected by the anti-Guardian field generated within Maelstroms' explains why this weapon is revolutionary. The torpedo's design — Guardian-hybrid engineering with Thargoid spire armour — is a triple-technology fusion.
+modern_impact: The article reveals the full scientific basis of the Guardian nanite
+  torpedo — 'exposure to certain electromagnetic frequencies caused Guardian relics
+  to open and activate clusters of microscopic nanites' that 'react aggressively against
+  Thargoid biotechnology by disrupting it on the molecular level.' The critical insight
+  that 'these nanites are unaffected by the anti-Guardian field generated within Maelstroms'
+  explains why this weapon is revolutionary. The torpedo's design — Guardian-hybrid
+  engineering with Thargoid spire armour — is a triple-technology fusion.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,6 +39,7 @@ related_uuids:
 - 0a469ac3-4989-5634-92f3-699ab9b25e7c
 - 9bdb2c40-9c94-5f9d-b389-9b317fdb7e3d
 ---
+
 
 **Pilots’ Federation ALERT**
 Deliveries are urgently needed to begin manufacturing a new weapon capable of causing severe damage to Thargoid Titans.

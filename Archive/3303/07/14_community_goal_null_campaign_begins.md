@@ -4,8 +4,12 @@ title: Community Goal  NULL Campaign Begins
 slug: community_goal_null_campaign_begins
 date: '3303-07-14'
 source: GitHub
-summary: NULL, an independent organisation based in LTT 4961, announces plans to build a new base at Greg's Legacy and has placed open orders for titanium, aluminium, copper and tea. The organisation has also issued a kill order on wanted ships as part of an initiative to rid the system of corruption and crime.
-player_impact: Deliver titanium, aluminium, copper and tea to Conway City in LTT 4961. Eliminate wanted ships and deliver bounty vouchers to Conway City.
+summary: NULL, an independent organisation based in LTT 4961, announces plans to build
+  a new base at Greg's Legacy and has placed open orders for titanium, aluminium,
+  copper and tea. The organisation has also issued a kill order on wanted ships as
+  part of an initiative to rid the system of corruption and crime.
+player_impact: Deliver titanium, aluminium, copper and tea to Conway City in LTT 4961.
+  Eliminate wanted ships and deliver bounty vouchers to Conway City.
 persons: []
 groups:
 - 'NULL'
@@ -20,10 +24,14 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: NULL expands its independent base of operations in LTT 4961, combining construction and anti-crime efforts with broad pilot participation.
+modern_impact: NULL expands its independent base of operations in LTT 4961, combining
+  construction and anti-crime efforts with broad pilot participation.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 02863a5d-e03b-5bbb-9bf6-93d203922d53
 ---
+
 
 NULL, an Independent organisation based in LTT 4961, has announced plans to build a new base at Greg's Legacy, a large asteroid named after One of The organisation’s founding members. 
 

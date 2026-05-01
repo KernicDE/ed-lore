@@ -36,7 +36,17 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - d97415fc-1060-58ea-b5f1-6691bce40028
+- 85c897b3-a050-5ace-946f-15310132c7dd
+- 1f71dbb5-7fd6-56c2-9803-6a7483b392f2
+- 9a67ca54-3a34-5ba0-b9f3-e8620c464b6a
+- 4ce471c6-afd4-5570-8422-b2d939bb8d7a
+- 4a52f193-5209-5e9a-b367-4293b3cd9272
+- aa29bc1f-007a-5ba3-ba5a-e23925943e23
+- a32a7693-c60a-50fa-87d9-09447bb36976
+- ffeb9758-5962-54db-a353-e54c3ac93053
+- b22bb690-c244-57c4-83a9-7df2aed19a60
 ---
+
 
 
 In a shock announcement issued This morning, President Halsey has ordered an all out assault on The Nijotec region. 

@@ -35,7 +35,9 @@ significance: medium
 related_uuids:
 - 54432280-7a53-5347-af7a-1a0a6c14aada
 - dba07051-e933-5c05-9146-549e19c7cf89
+- 6d6d7f1e-7088-54e3-873e-ba06ff4f2ce6
 ---
+
 
 
 Nelson De Rosa, chief of security for The Canonn Interstellar Research Group, has released a statement to the media: 

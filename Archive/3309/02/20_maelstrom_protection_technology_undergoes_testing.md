@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 Aegis has produced a prototype module that increases a ship’s ability to survive within caustic environments.
 Professor Alba Tesreau, head of the newly reformed agency, published this statement:
 “The blueprints provided by Petra Olmanova have been rapidly developed by Aegis’s newly acquired chemical engineers, metallurgists and ship technicians. Utilising their combined skills, they have constructed a working prototype.”

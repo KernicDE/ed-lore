@@ -4,8 +4,11 @@ title: Evangeline's Elite Expeditionary Force Appeal
 slug: evangelines_elite_expeditionary_force_appeal
 date: '3305-06-13'
 source: GitHub
-summary: Evangeline's Elite Expeditionary Force requests superconductors, computer components and insulating membranes from pilots to construct the megaship EFS Archangel in the Shana Bei system.
-player_impact: Pilots could deliver construction materials to Chu City in Shana Bei for rewards.
+summary: Evangeline's Elite Expeditionary Force requests superconductors, computer
+  components and insulating membranes from pilots to construct the megaship EFS Archangel
+  in the Shana Bei system.
+player_impact: Pilots could deliver construction materials to Chu City in Shana Bei
+  for rewards.
 persons:
 - Archangel Evangeline
 groups:
@@ -15,12 +18,15 @@ locations:
 topics:
 - construction
 - ship
-modern_impact: The EFS Archangel's construction demonstrated the growing trend of player-supported megaship projects that expanded faction operational capabilities across the galaxy.
+modern_impact: The EFS Archangel's construction demonstrated the growing trend of
+  player-supported megaship projects that expanded faction operational capabilities
+  across the galaxy.
 legacy_weight: 2
 significance: low
 related_uuids:
 - c3f69b73-511d-5602-92a0-2253af5fea60
 ---
+
 
 Evangeline's Elite Expeditionary Force has revealed plans to build a megaship in The Shana Bei system. 
 

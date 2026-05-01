@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 Potential solutions to The threat posed by the Thargoid race are being debated at the diplomatic conference in The Sirius system.
 Political correspondent Conrad Sterling reported for Vox Galactica:
 “As always, the topic of the Thargoids brings division. The Alliance delegation has portrayed the aliens as a universal danger, while the Empire and Federation took a more balanced view.”

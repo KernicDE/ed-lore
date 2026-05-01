@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 An Independent Vessel has detected a fragment of a mysterious message coming from an unexplored region of space.
 Commander Elsa Solomon was travelling through The Swoilz XX-D c1-30 system when her ship’s communications array picked up a faint transmission. The message was as follows:

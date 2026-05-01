@@ -29,7 +29,16 @@ legacy_weight: 2
 significance: low
 related_uuids:
 - be7638b3-2bd8-5760-929f-f330059f5f55
+- 9680d286-fd9c-56d7-9d78-50d5a00be6e2
+- c84d7e4b-ee52-5383-880a-6bf8e18ca790
+- efba1015-6ea0-5845-8243-79542721d229
+- 711fc129-123c-5c34-846b-b481c2f27728
+- ef2ad1c8-2aad-5dfb-96a0-befae0a30e77
+- 70f44219-f336-5ce2-9979-4fc2f09a060c
+- 643df8f5-adf8-5b5c-a9b6-b24bf7d19885
+- 4724e8cf-ea08-50a8-9d61-e9e36a44f752
 ---
+
 
 
 Today, an announcement was made outside The Prism Hall of Justice confirming that Kahina Tijani Loren had been found guilty of the attempted assassination of Admiral Denton Patreus. The announcement was met With cries of dismay from a crowd of Loren's supporters, who had turned out to hear the verdict. 

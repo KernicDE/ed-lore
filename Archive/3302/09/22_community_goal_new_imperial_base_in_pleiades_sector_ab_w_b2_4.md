@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 The Merope Expeditionary Fleet has been tasked With constructing a new forward operating base in the Pleiades Sector Ab-W B2-4 system on behalf of the Empire. The new outpost will support the Empire's ongoing operations in the Pleiades Nebula. 
 
 A spokesperson for the Merope Expeditionary Fleet released a statement: 

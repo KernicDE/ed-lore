@@ -27,7 +27,9 @@ significance: medium
 related_uuids:
 - 0c27b4e9-c032-506e-bd8e-d04fd25820a9
 - 78b1e3b7-49b5-5ca5-9107-a57eda6df6f0
+- 9e621a47-e2a5-5afd-93d4-d85f8da68059
 ---
+
 
 
 As the Empire and Federation continue to consolidate their presence in The Pleiades Star cluster, both superpowers have announced new expansion initiatives centred in the region. 

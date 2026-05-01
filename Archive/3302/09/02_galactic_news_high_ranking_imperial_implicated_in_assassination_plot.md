@@ -4,7 +4,9 @@ title: Galactic News  High Ranking Imperial Implicated in Assassination Plot
 slug: galactic_news_high_ranking_imperial_implicated_in_assassination_plot
 date: '3302-09-02'
 source: GitHub
-summary: Sources in the Achenar system revealed that a senior but unidentified member of the Imperial hierarchy has been arrested and placed under house arrest in connection with the recent assassination attempt on Admiral Denton Patreus.
+summary: Sources in the Achenar system revealed that a senior but unidentified member
+  of the Imperial hierarchy has been arrested and placed under house arrest in connection
+  with the recent assassination attempt on Admiral Denton Patreus.
 player_impact: None
 persons:
 - Denton Patreus
@@ -12,10 +14,18 @@ groups: []
 locations:
 - Achenar
 technologies: []
-modern_impact: Reveals internal instability within the Imperial power structure and fractures in its political hierarchy.
+modern_impact: Reveals internal instability within the Imperial power structure and
+  fractures in its political hierarchy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 81625d4e-49d9-593d-8721-8beeb648005c
+- fc51d3ef-3b90-5a4f-93af-3e07e999addf
+- fdb0f269-2b70-5fb4-9829-4ea6d66e35b1
+- 4f028148-0b7b-5d2b-9334-9868e755268e
+- 11e14c3c-da22-5eb5-9d5a-637ba3ec1a15
 ---
+
 
 Sources in The Achenar system have revealed that an individual identified only as 'a senior member of the Imperial hierarchy' has been arrested in connection With the recent assassination attempt on Admiral Denton Patreus. 
 

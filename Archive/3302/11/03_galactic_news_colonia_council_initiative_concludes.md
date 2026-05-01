@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 The Colonia Council has announced that Its appeal for palladium was a resounding success, With Hundreds of pilots delivering materials to Jaques Station in response to the request. The materials will be used to support Further colonisation of the Colonia Nebula, and address the needs of the growing Colonia community. 
 
 A spokesperson for the organisation released a brief statement: 

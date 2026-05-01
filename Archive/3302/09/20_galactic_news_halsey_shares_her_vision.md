@@ -4,7 +4,9 @@ title: Galactic News  Halsey Shares Her Vision
 slug: galactic_news_halsey_shares_her_vision
 date: '3302-09-20'
 source: GitHub
-summary: Former Federal President Jasmina Halsey has broken her silence to share what she describes as a compelling vision of a paradise, speaking at Gotham Park in the Alioth system.
+summary: Former Federal President Jasmina Halsey has broken her silence to share what
+  she describes as a compelling vision of a paradise, speaking at Gotham Park in the
+  Alioth system.
 player_impact: None
 persons:
 - Jasmina Halsey
@@ -12,10 +14,19 @@ groups: []
 locations:
 - Alioth
 technologies: []
-modern_impact: Halsey's public vision fuels speculation about uncharted regions and influences Federal exploration policy debates.
+modern_impact: Halsey's public vision fuels speculation about uncharted regions and
+  influences Federal exploration policy debates.
 legacy_weight: 2
 significance: low
+related_uuids:
+- b7e68809-4f8a-551a-af69-b70610b58783
+- c0449407-9fe0-5061-bb86-286175a89cd4
+- 8c3b3ebb-a297-5113-82a1-7bbf47cc653b
+- e9e91d22-2b03-5a0c-868a-6552121530ea
+- ec7ee9bb-6ac2-51f7-a14e-8097372ddaf4
+- 1d9d8166-f4e7-536e-8651-65504c831964
 ---
+
 
 Since leaving The Clearwater psychiatric centre in July, former Federal President Jasmina Halsey has maintained a relatively low profile. But now the former leader has broken her silence to share news of "a compelling vision" With the galactic community. 
 

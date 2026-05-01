@@ -5,7 +5,8 @@ slug: new_thargoid_assaults_in_three_systems
 date: '3308-02-11'
 source: API
 summary: Thargoid forces launch heavy assaults on the Dan, HIP 12314, and Nauni systems.
-player_impact: Pilots raced into combat to defend the Dan, HIP 12314, and Nauni systems from Thargoid assaults.
+player_impact: Pilots raced into combat to defend the Dan, HIP 12314, and Nauni systems
+  from Thargoid assaults.
 groups:
 - Aegis
 - Salvation
@@ -19,7 +20,10 @@ topics:
 - alien contact
 - war
 arc_id: salvation-azimuth
-modern_impact: '"When Salvation repelled their forces from the Delphi, Maia and Merope systems in December, some believed it was only a matter of time before the aliens retaliated." The Thargoid counter-offensive suggests a reactive escalation pattern in response to Salvation''s superweapon deployments.'
+modern_impact: '"When Salvation repelled their forces from the Delphi, Maia and Merope
+  systems in December, some believed it was only a matter of time before the aliens
+  retaliated." The Thargoid counter-offensive suggests a reactive escalation pattern
+  in response to Salvation''s superweapon deployments.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +38,7 @@ related_uuids:
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
 ---
+
 
 **Pilots’ Federation ALERT**
 The HIP 12314, Dan and Nauni systems have come under heavy attack by Thargoid vessels.

@@ -4,7 +4,9 @@ title: Red Family Cartel Raids Successful
 slug: red_family_cartel_raids_successful
 date: '3305-07-19'
 source: GitHub
-summary: The Federal Intelligence Agency carries out coordinated raids across multiple systems, dismantling the Red Family cartel through intelligence provided by co-founder Jan Sandoval.
+summary: The Federal Intelligence Agency carries out coordinated raids across multiple
+  systems, dismantling the Red Family cartel through intelligence provided by co-founder
+  Jan Sandoval.
 player_impact: None — background criminal investigation report.
 persons:
 - Ethan Takahashi
@@ -18,12 +20,16 @@ groups:
 topics:
 - crime
 - narcotics
-modern_impact: The FIA's dismantling of the Red Family cartel represented a major victory in Federal narcotics enforcement, though it came at the cost of Jan Sandoval's life shortly after.
+modern_impact: The FIA's dismantling of the Red Family cartel represented a major
+  victory in Federal narcotics enforcement, though it came at the cost of Jan Sandoval's
+  life shortly after.
 legacy_weight: 2
 significance: medium
 related_uuids:
 - 70822119-b954-507b-8900-67a29a9a9f5c
+- b1b2c40b-ce1d-5074-bb05-5b5c81780068
 ---
+
 
 The Red Family cartel has suffered enormous losses following a series of strikes carried out by the Federal Intelligence Agency. 
 

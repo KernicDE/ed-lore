@@ -4,8 +4,10 @@ title: Pilots Form Vanguard Against Thargoid Attacks
 slug: pilots_form_vanguard_against_thargoid_attacks
 date: '3308-02-18'
 source: API
-summary: Independent pilots resist Thargoid incursions with support from Aegis repurposed vessels.
-player_impact: Commanders formed a vanguard to resist Thargoid incursions in multiple systems.
+summary: Independent pilots resist Thargoid incursions with support from Aegis repurposed
+  vessels.
+player_impact: Commanders formed a vanguard to resist Thargoid incursions in multiple
+  systems.
 groups:
 - Aegis
 - Alliance
@@ -22,7 +24,9 @@ topics:
 - succession
 - war
 arc_id: salvation-azimuth
-modern_impact: '"Commanders are resisting Thargoid incursions in the Dan, HIP 12314 and Nauni systems." With Aegis defunct and superpower taskforces unformed, independent pilots bear the sole responsibility for defending human systems.'
+modern_impact: '"Commanders are resisting Thargoid incursions in the Dan, HIP 12314
+  and Nauni systems." With Aegis defunct and superpower taskforces unformed, independent
+  pilots bear the sole responsibility for defending human systems.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +41,7 @@ related_uuids:
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
 ---
+
 
 **Pilots’ Federation ALERT**
 Commanders are resisting Thargoid incursions in The Dan, HIP 12314 and Nauni systems.

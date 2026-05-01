@@ -32,7 +32,11 @@ significance: high
 related_uuids:
 - 81625d4e-49d9-593d-8721-8beeb648005c
 - 9d631f6d-4a67-5660-a4e8-c8a2ec24fff3
+- 11e14c3c-da22-5eb5-9d5a-637ba3ec1a15
+- 0f930bc1-8f0a-5a9d-8c3d-f4b39f8c495f
+- c84d7e4b-ee52-5383-880a-6bf8e18ca790
 ---
+
 
 
 Recent reports indicate that an attempt was made on The life of Admiral Denton Patreus as he delivered a speech at Mackenzie Relay in the Cemiess system. The Imperial Internal Security Service confirmed that it apprehended three individuals carrying firearms who attempted to approach the admiral's podium. 

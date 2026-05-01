@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 Recent reports from The Pleiades Sector OI-T c3-7 system indicate that the so-called Unknown Ships have begun interacting With the region’s barnacles. 
 
 Eyewitnesses report that the ships have been seen targeting the barnacles With some kind of energy beam, apparently in order to extract matter from them. Pilots have also reported that their ships and SRVs spontaneously lose power while in proximity to the Unknown Ship. 

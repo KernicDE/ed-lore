@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Public debate around the Battle of HIP 22460 has seen the emergence of a grassroots movement that promotes communication with the Thargoids.
 As militaries prepare for a protracted anti-xeno conflict, this alternative viewpoint has gained traction on social channels in multiple systems. Proponents believe that their governments should focus on finding ways to open a dialogue with the Thargoid species, and end hostilities using diplomatic means.
 On Interstellar Communal Experience (ICE) platforms, some influential names have amplified the xeno-peace concept. In a recent ICE-cast, leading caster Joy Senne openly discussed the topic with her viewers:

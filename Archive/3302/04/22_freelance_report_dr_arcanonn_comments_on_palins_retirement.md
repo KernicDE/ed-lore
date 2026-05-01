@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Dr Arcanonn of The Canonn Interstellar Research Group has expressed solidarity With Professor Ishmael Palin, following the latter's decision to retire from the Palin Institute and pursue personal research into the Unknown Artefacts and meta-alloys. 
 
 "It is unfortunate that the professor has been forced to make This decision, but given the existence of the 'dark forces' to Which he refers, I support him wholeheartedly." 

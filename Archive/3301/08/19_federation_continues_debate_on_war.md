@@ -34,7 +34,9 @@ significance: medium
 related_uuids:
 - 2d0a01c2-cb28-50e3-a6aa-9383f7359983
 - a090b1be-2432-5675-83d6-72ecca86a6b7
+- cb60156f-f6ad-543b-b549-c1f23472cfba
 ---
+
 
 
 Dissent is growing within Federation congress over The situation in The Pegasi sector. Though Many view the Pegasi Pirate War as a chance to let the Empire waste their resources, a growing contingent is becoming frustrated With the Federation’s lack of response. 

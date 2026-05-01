@@ -4,8 +4,15 @@ title: Leaked Data Causes Concerns over Latest Imperial Technology
 slug: leaked_data_causes_concerns_over_latest_imperial_technology
 date: '3301-07-12'
 source: GitHub
-summary: Leaked technical documents linked new Imperial modules to research by discredited Professor Denzile Dex, raising safety concerns. Dex disappeared during the 4EverYoung life-extension scandal where users suffered mutations. The leaked research allegedly formed the basis for the Imperial Hammer and Prismatic Shield Generators. Reported side effects include cognitive impairment, psychosis, sterility, hormonal imbalances, and physical sex characteristic changes from the new technology. Concerned groups called for an official Senate statement.
-player_impact: Imperial pilots using Prismatic Shield Generators or Imperial Hammers should be aware of reported but unconfirmed safety concerns about these modules.
+summary: Leaked technical documents linked new Imperial modules to research by discredited
+  Professor Denzile Dex, raising safety concerns. Dex disappeared during the 4EverYoung
+  life-extension scandal where users suffered mutations. The leaked research allegedly
+  formed the basis for the Imperial Hammer and Prismatic Shield Generators. Reported
+  side effects include cognitive impairment, psychosis, sterility, hormonal imbalances,
+  and physical sex characteristic changes from the new technology. Concerned groups
+  called for an official Senate statement.
+player_impact: Imperial pilots using Prismatic Shield Generators or Imperial Hammers
+  should be aware of reported but unconfirmed safety concerns about these modules.
 persons:
 - Denzile Dex
 - Professor Denzile Dex
@@ -18,10 +25,19 @@ topics:
 - research
 - safety
 - scandal
-modern_impact: Scandal linking cutting-edge Imperial technology to discredited research threatens confidence in Imperial military hardware and raises questions about Senate oversight.
+modern_impact: Scandal linking cutting-edge Imperial technology to discredited research
+  threatens confidence in Imperial military hardware and raises questions about Senate
+  oversight.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- e8386b9b-6418-583a-ac32-ea816fd08e8a
+- d3e7ed94-d19b-534e-833a-986f901972c9
+- 68ece073-dc98-54d1-9ddf-013639d6c6a2
+- db53c226-90a8-53f7-bc58-d008935f347b
+- 8cdbe24c-49dc-5989-8a56-236a981434de
 ---
+
 
 News of technical documents posted anonymously via The shady <Ahem> dark network are spreading virally and causing widespread concern among Imperial Pilots. According to The documents some of the new Imperial modules that have been appearing recently are linked to research carried out by the discredited Professor Denzile Dex and doubts about their safety have been raised. 
 

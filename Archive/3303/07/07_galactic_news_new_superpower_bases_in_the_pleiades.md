@@ -28,7 +28,10 @@ significance: medium
 related_uuids:
 - 12133cf1-de16-5a00-b65d-992608e18314
 - a44c0852-08d2-5a74-8408-efd7841101a4
+- 90512af7-7a4e-59df-a5ec-1bd93e9fae34
+- 9e621a47-e2a5-5afd-93d4-d85f8da68059
 ---
+
 
 
 Last month, the Empire and the Federation launched initiatives to bolster their presences in the Pleiades Star cluster. Following the successful conclusion of both campaigns, the superpowers set to work on their respective construction projects. These projects have now come to an end. 

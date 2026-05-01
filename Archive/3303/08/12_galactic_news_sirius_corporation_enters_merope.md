@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 A number of media outlets have reported that The Sirius Corporation has entered The Merope system, establishing two new outposts. 
 
 Although the mega-corporation has asserted that the outposts will support mining operations in the region, commentators have speculated that Sirius is positioning itself to take control of the system’s barnacles. 

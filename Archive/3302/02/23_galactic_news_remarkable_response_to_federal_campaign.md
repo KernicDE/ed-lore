@@ -28,7 +28,14 @@ significance: high
 related_uuids:
 - 21443853-5371-5291-a9f5-93f79da1d368
 - 47fc5e89-7923-5c13-b489-b820ba458fc9
+- f0a5ea4e-dbc4-5d47-8cee-22cc2cf86b6c
+- 30b62ae4-134e-5e1b-9f6b-5d85168c500e
+- c0880191-a2cb-5bb5-9248-057bbe5237b6
+- 8b508bb1-826b-5f8a-90b0-b3d76bcd5570
+- f9ac5b30-383e-5f0a-8fc4-c8e3fc9dcb14
+- e7ba3d66-8ab0-5f03-80c3-c038b99249a9
 ---
+
 
 
 Federal President Zachary Hudson has announced that The search for survivors from Starship One has been met With an overwhelmingly positive response. Mere hours after the campaign began, thousands of escape pods had been delivered to Leoniceno Orbital, Many of them containing living survivors. In the wake of the initiative's success, President Hudson released a statement to the media: 

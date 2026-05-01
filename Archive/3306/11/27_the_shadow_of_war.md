@@ -4,7 +4,11 @@ title: The Shadow of War
 slug: the_shadow_of_war
 date: '3306-11-27'
 source: GitHub
-summary: NMLA attacks and the Marlinist refugee crisis drive increased military spending from both Empire and Federation. The Federal Times reports President Hudson's political maneuvering, while the Imperial Herald notes Senator Patreus withdrawing Aegis funding to focus on the Federation and internal NMLA threat. Superpower cooperation collapses into brinkmanship.
+summary: NMLA attacks and the Marlinist refugee crisis drive increased military spending
+  from both Empire and Federation. The Federal Times reports President Hudson's political
+  maneuvering, while the Imperial Herald notes Senator Patreus withdrawing Aegis funding
+  to focus on the Federation and internal NMLA threat. Superpower cooperation collapses
+  into brinkmanship.
 player_impact: None
 persons:
 - Denton Patreus
@@ -18,7 +22,8 @@ topics:
 - terrorism
 - war
 - diplomacy
-modern_impact: The article marks the escalation toward potential superpower war as both sides ramp up military spending and withdraw from cooperative efforts.
+modern_impact: The article marks the escalation toward potential superpower war as
+  both sides ramp up military spending and withdraw from cooperative efforts.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -26,6 +31,7 @@ related_uuids:
 - d1d08497-4af0-570f-8be8-dee3c1c8b6fb
 - 5b6c21df-96dd-53ef-bc3f-c12ea9c4838e
 ---
+
 
 NMLA terrorist attacks and the Marlinist refugee crisis have driven an increase in military spending from both the Empire and the Federation. 
 

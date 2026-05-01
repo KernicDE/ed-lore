@@ -30,7 +30,9 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - 9d10ca9c-cd1e-5d54-bf0d-c028955c72ed
+- c7f92e1d-2f9c-599a-82e3-8426fe6ddf21
 ---
+
 
 
 Sirius Inc has announced plans to construct a flight-operations megaship in The 42 n Persei system, Which occupies a strategic position on the route to Maia. The Vessel, which will be named the Dionysus, will dramatically improve services in 42 n Persei. 

@@ -34,7 +34,9 @@ related_uuids:
 - 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
 - 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
 - 71ef5edb-acbd-5323-bdfa-880cbbf2c504
+- a48634df-3075-59f8-9e3b-08fed2398a11
 ---
+
 
 
 Sirius Corporation has claimed that The recent Thargoid incursions prove the necessity of Its strategic defence pact With the Alliance.

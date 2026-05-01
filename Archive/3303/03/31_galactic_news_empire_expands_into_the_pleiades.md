@@ -29,7 +29,10 @@ significance: medium
 related_uuids:
 - 30e4fb11-606a-57ca-8fe8-6020ede99b25
 - 87225afc-b3b3-53e4-a8e5-318408de14ef
+- 9b0c548f-3df4-5993-833e-ede55ef41aa0
+- 5b0343b9-7345-5fdb-a814-eea9cbf64edf
 ---
+
 
 
 Recent reports indicate that the Empire has expanded into the Pleiades Star cluster, having established a number of outposts In the HR 1185 system. 

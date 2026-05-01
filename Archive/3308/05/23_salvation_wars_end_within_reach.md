@@ -4,7 +4,8 @@ title: 'Salvation: ‘War’s End Within Reach’'
 slug: salvation_wars_end_within_reach
 date: '3308-05-23'
 source: API
-summary: Salvation announces that the end of the Thargoid war is within reach and begins construction of next-generation superweapons.
+summary: Salvation announces that the end of the Thargoid war is within reach and
+  begins construction of next-generation superweapons.
 player_impact: Not specifically mentioned — this is a strategic announcement.
 persons:
 - Morag Halloran
@@ -24,13 +25,18 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: '"The end of the war is finally within reach. Those who hold faith in my work will be vindicated, and humanity can at last close the chapter on this existential threat." Salvation''s messianic rhetoric escalated as his military dependence on superpower resources deepened, creating a feedback loop where Azimuth''s strategic importance justified ever greater political impunity.'
+modern_impact: '"The end of the war is finally within reach. Those who hold faith
+  in my work will be vindicated, and humanity can at last close the chapter on this
+  existential threat." Salvation''s messianic rhetoric escalated as his military dependence
+  on superpower resources deepened, creating a feedback loop where Azimuth''s strategic
+  importance justified ever greater political impunity.'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 8097c00d-2e15-5445-b408-e3b80f412aac
 - bf2b0186-ea55-58b5-9c81-eed7dacdf3cb
 ---
+
 
 The anonymous scientist Salvation has made a statement following his latest success against the Thargoids.
 The message was broadcast across all public channels:

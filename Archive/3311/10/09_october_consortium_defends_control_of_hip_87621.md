@@ -4,8 +4,12 @@ title: October Consortium Defends Control of HIP 87621
 slug: october_consortium_defends_control_of_hip_87621
 date: '3311-10-09'
 source: API
-summary: Lexi October defended October Consortium's legal ownership of HIP 87621, acquired over a decade ago, and questioned why Zachary Rackham has not shared any promised scan data from his exploration campaign.
-player_impact: Pilots had participated in Rackham's galaxy-wide exploration campaign and the search for Terri Tora, gathering data that intensified scrutiny on October Consortium's HIP 87621 operations.
+summary: Lexi October defended October Consortium's legal ownership of HIP 87621,
+  acquired over a decade ago, and questioned why Zachary Rackham has not shared any
+  promised scan data from his exploration campaign.
+player_impact: Pilots had participated in Rackham's galaxy-wide exploration campaign
+  and the search for Terri Tora, gathering data that intensified scrutiny on October
+  Consortium's HIP 87621 operations.
 persons:
 - Lexi October
 - Zachary Rackham
@@ -16,7 +20,12 @@ topics:
 - diplomacy
 technologies: []
 arc_id: hip87621-conflict
-modern_impact: Lexi October's counter-attack on Rackham's credibility — highlighting his failure to share a 'single piece of scan data' — is a sophisticated deflection that partially succeeds in shifting scrutiny. Her framing of the conflict as 'lawful operations' versus 'attempts to undermine' establishes the legal narrative she uses in the October Accords. The 'unspecified date' for findings release never arrives before the war breaks out.
+modern_impact: Lexi October's counter-attack on Rackham's credibility — highlighting
+  his failure to share a 'single piece of scan data' — is a sophisticated deflection
+  that partially succeeds in shifting scrutiny. Her framing of the conflict as 'lawful
+  operations' versus 'attempts to undermine' establishes the legal narrative she uses
+  in the October Accords. The 'unspecified date' for findings release never arrives
+  before the war breaks out.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -24,6 +33,7 @@ related_uuids:
 - 3cce1a72-9995-55dd-9cbe-c002f39b2a4d
 - 4dacbf6b-8f6e-5d6c-804e-11619ea83e59
 ---
+
 
 Lexi October, billionaire investor and head of the October Consortium, has issued a statement clarifying her organisation's ownership of the HIP 87621 permit.
 "The October Consortium acquired system rights through all proper and legal channels over a decade ago," October declared. "Our researchers are conducting a legitimate study of several planetary bodies. Any infringement upon these rights will be rigorously challenged through interstellar courts. Permit access is not granted lightly, nor will we tolerate attempts to undermine lawful operations."

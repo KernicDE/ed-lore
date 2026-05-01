@@ -4,8 +4,10 @@ title: Criminals Crushed by Federal Campaign
 slug: criminals_crushed_by_federal_campaign
 date: '3308-07-21'
 source: API
-summary: The FIA confirms the capture of Oberon Church and the effective destruction of the Red Family crime syndicate in Andowatye.
-player_impact: Independent pilots helped eliminate Red Family felons and collect bounty vouchers at Bosch Station.
+summary: The FIA confirms the capture of Oberon Church and the effective destruction
+  of the Red Family crime syndicate in Andowatye.
+player_impact: Independent pilots helped eliminate Red Family felons and collect bounty
+  vouchers at Bosch Station.
 persons:
 - Faisal Sacranie
 - Jerome Archer
@@ -19,7 +21,9 @@ topics:
 - espionage
 entities: []
 arc_id: null
-modern_impact: Vice President Jerome Archer's claim that 'the Proactive Detection Bureau's ability to unearth enemies of the Federation remains unparalleled' politicized the victory as validation for mass surveillance policies he championed.
+modern_impact: Vice President Jerome Archer's claim that 'the Proactive Detection
+  Bureau's ability to unearth enemies of the Federation remains unparalleled' politicized
+  the victory as validation for mass surveillance policies he championed.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -27,6 +31,7 @@ related_uuids:
 - 2a2d4398-fbc8-577c-a521-33ce19f4a8db
 - 91f01606-6754-57ec-afc2-a9ef962abe98
 ---
+
 
 **Pilots’ Federation ALERT**
 A Federal operation in the Andowatye system has finally brought down the Red Family crime syndicate.

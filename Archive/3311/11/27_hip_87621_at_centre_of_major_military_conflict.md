@@ -4,8 +4,12 @@ title: HIP 87621 At Centre of Major Military Conflict
 slug: hip_87621_at_centre_of_major_military_conflict
 date: '3311-11-27'
 source: API
-summary: All major Powers deploy fleets to the HIP 87621 enclave after Radicoida unica's discovery, triggering the largest mobilisation since the Second Thargoid War. Denton Patreus claims Imperial authority while Nakato Kaine condemns forceful snatching of a legally claimed system.
-player_impact: Pledged pilots answered calls to arms from all Powers and began two-week military initiatives to occupy systems across the 49-system HIP 87621 enclave.
+summary: All major Powers deploy fleets to the HIP 87621 enclave after Radicoida unica's
+  discovery, triggering the largest mobilisation since the Second Thargoid War. Denton
+  Patreus claims Imperial authority while Nakato Kaine condemns forceful snatching
+  of a legally claimed system.
+player_impact: Pledged pilots answered calls to arms from all Powers and began two-week
+  military initiatives to occupy systems across the 49-system HIP 87621 enclave.
 persons:
 - Denton Patreus
 - Nakato Kaine
@@ -22,7 +26,12 @@ topics:
 technologies:
 - Radicoida unica
 arc_id: hip87621-conflict
-modern_impact: The Patreus versus Kaine framing — 'Imperial order' versus 'bully snatching a legally claimed system' — establishes the moral narratives each side uses throughout the conflict. Patreus's claim that 'only Imperial governance has the authority' and Kaine's reference to October Consortium ownership both foreshadow the February 3312 non-aggression pact and October Accords, where legal ownership becomes the central negotiating point.
+modern_impact: The Patreus versus Kaine framing — 'Imperial order' versus 'bully snatching
+  a legally claimed system' — establishes the moral narratives each side uses throughout
+  the conflict. Patreus's claim that 'only Imperial governance has the authority'
+  and Kaine's reference to October Consortium ownership both foreshadow the February
+  3312 non-aggression pact and October Accords, where legal ownership becomes the
+  central negotiating point.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +42,7 @@ related_uuids:
 - b401b85f-a797-53be-b3f7-4efe54fae2e8
 - 901396d0-53fd-50b7-ab8f-79d017d0397d
 ---
+
 
 Exobiological data delivered to Exogene Sciences in HIP 87621 have confirmed that a new species of flora with unique properties has been discovered on several bodies.
 Allied, Imperial, Federal and Independent Powers have now deployed fleets to secure control of the enclave surrounding HIP 87621 following the discovery of Radicoida unica, with reports of the rival powers clashing in open combat across the region.

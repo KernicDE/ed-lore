@@ -4,8 +4,10 @@ title: 'Rackham’s Peak Outpost Marks Galactic Zenith '
 slug: rackhams_peak_outpost_marks_galactic_zenith
 date: '3306-12-17'
 source: API
-summary: Zachary Rackham's orbital outpost at the galactic zenith in HIP 58832 becomes operational, offering high prices for rare beverages and astronomical research opportunities.
-player_impact: Traders delivered beer, liquor, wine, and other beverages to Rackham's Peak for high profits.
+summary: Zachary Rackham's orbital outpost at the galactic zenith in HIP 58832 becomes
+  operational, offering high prices for rare beverages and astronomical research opportunities.
+player_impact: Traders delivered beer, liquor, wine, and other beverages to Rackham's
+  Peak for high profits.
 persons:
 - Zachary Rackham
 groups:
@@ -14,10 +16,18 @@ groups:
 topics:
 - exploration
 - research
-modern_impact: Rackham's Peak outpost remains a unique scientific and tourism destination at the galactic zenith.
+modern_impact: Rackham's Peak outpost remains a unique scientific and tourism destination
+  at the galactic zenith.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 60b7e81b-2c68-5123-9b6c-5a136ba41850
+- eec09e5e-cb5a-590e-b38c-88e65e11dd5b
+- 37a69743-987e-5990-848f-308a9738a453
+- bb14dd59-b241-5db1-8759-dff2555f5ee3
+- ed6adddd-c9c1-5fb8-ab02-8185dd679153
 ---
+
 
 **Pilots Federation ALERT**
 Multi-billionaire Zachary Rackham’s new orbital outpost at The galactic zenith is now operational.

@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Local authorities across several Imperial and Federal colonies have confirmed a sharp rise in pirate activity, coinciding with the military confrontation surrounding the HIP 87621 enclave.
 Traders report increased interdictions along previously stable shipping lanes, while independent miners have warned of sustained harassment at long-established extraction sites. System security offices acknowledge that patrol coverage has been reduced, citing the redeployment of forces toward strategic objectives elsewhere.
 A spokesperson for the Imperial Internal Security Service commented that “temporary pressure” on border systems was inevitable while major forces remained on standby around HIP 87621. Federal officials echoed similar sentiments, stressing that order would be restored once current campaigns concluded.

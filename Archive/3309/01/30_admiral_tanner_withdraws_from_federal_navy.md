@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Admiral Aden Tanner has formally resigned his commission with the Federal Navy, mere weeks after a presidential pardon overturned his court martial.
 He had returned to naval service following an executive order from President Zachary Hudson. But this unexpected resignation means he is no longer a member of the military, although he retains the honorific of ‘admiral’.
 Admiral Tanner released a personal statement, which was published by The Federal Times:

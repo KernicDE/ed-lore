@@ -4,7 +4,12 @@ title: Survivors of the Far God
 slug: survivors_of_the_far_god
 date: '3304-10-10'
 source: GitHub
-summary: Journalist Gethin Okonkwo shares details from his three-month undercover experience with the Far God cult, where he was known as Third Witness of the Tenth Chapter. He describes the seductive tranquillity of surrendering identity and expresses relief that believers are returning to hive-chapels after persecution. He notes hundreds died and several chapters remain missing. Okonkwo plans to collaborate with Dr Alfred Ulyanov on a definitive account of the religion.
+summary: Journalist Gethin Okonkwo shares details from his three-month undercover
+  experience with the Far God cult, where he was known as Third Witness of the Tenth
+  Chapter. He describes the seductive tranquillity of surrendering identity and expresses
+  relief that believers are returning to hive-chapels after persecution. He notes
+  hundreds died and several chapters remain missing. Okonkwo plans to collaborate
+  with Dr Alfred Ulyanov on a definitive account of the religion.
 player_impact: None
 persons:
 - Gethin Okonkwo
@@ -17,7 +22,9 @@ topics:
 - religion
 - alien contact
 - investigation
-modern_impact: Okonkwo's insider account humanises Far God worshippers and documents the devastating impact of anti-cult persecution, while his collaboration with Ulyanov promises the most comprehensive study of the sect to date.
+modern_impact: Okonkwo's insider account humanises Far God worshippers and documents
+  the devastating impact of anti-cult persecution, while his collaboration with Ulyanov
+  promises the most comprehensive study of the sect to date.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -25,6 +32,7 @@ related_uuids:
 - c43681c3-28b8-51de-aac4-acbaba9a390c
 - 852906f2-b606-50ea-b4f4-d3bd4af8e4d3
 ---
+
 
 Independent journalist Gethin Okonkwo has shared more details about his time With the Far God cult: 
 

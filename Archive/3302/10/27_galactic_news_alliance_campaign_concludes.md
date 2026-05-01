@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 A spokesperson for The 160 SOAR has announced that the Alliance appeal for construction materials has reached a successful conclusion. 
 
 Hundreds of pilots contributed to the campaign, resulting In a massive influx of deliveries to Tshang City, the organisation's base of operations. The materials will be used to construct an outpost on California Sector BA-A E6 4. 

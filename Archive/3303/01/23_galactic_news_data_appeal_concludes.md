@@ -25,7 +25,13 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - e70df72e-e341-55f4-9acb-af7c2ff8d67f
+- 6f0f3a03-39ad-5c66-aad8-2ba57135138c
+- a616bbe6-575f-5789-9eee-d92a17ec0c59
+- a43cc680-aca7-5e5d-ad8c-6916d5893a8c
+- d6dce107-e71e-5eac-9816-807e7d746de1
+- 10afaa7d-925e-5db8-9adb-b56704c55a5e
 ---
+
 
 
 Engineer Ram Tah has announced that his appeal for data from The Synuefe ruins has been enthusiastically received by the galactic community. Hundreds of Independent pilots responded to the appeal, resulting In a massive influx of deliveries to Felice Dock, the campaign's centre of operations. 

@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 Federal citizens are in uproar after The former CEO of Core Dynamics was revealed to have destroyed Starship One to increase company profits.
 The trial of Fleet Admiral Vincent showed that Jupiter Rochester attempted to replace Jasmina Halsey With Zachary Hudson to secure military contracts With the Federal Navy.
 The Federal Intelligence Agency has arrested Several co-conspirators, but Its investigation is hampered by Jupiter Rochester loyalists splitting away from Core Dynamics. His new Independent faction, Jupiter Division, has engaged in conflict against Federal forces in the HIP 54530 system.

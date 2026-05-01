@@ -4,7 +4,9 @@ title: Blight Traced to Synthetic Contaminant
 slug: blight_traced_to_synthetic_contaminant
 date: '3305-10-20'
 source: GitHub
-summary: A tri-superpower taskforce confirms the EX7 fertiliser was deliberately contaminated with a synthetic compound designed to introduce an aggressive plant-destroying pathogen. The investigation uncovers several leads.
+summary: A tri-superpower taskforce confirms the EX7 fertiliser was deliberately contaminated
+  with a synthetic compound designed to introduce an aggressive plant-destroying pathogen.
+  The investigation uncovers several leads.
 player_impact: None
 persons:
 - Gino Borstein
@@ -15,7 +17,8 @@ groups:
 topics:
 - investigation
 - terrorism
-modern_impact: The confirmation of deliberate sabotage shifts the crisis from agricultural accident to interstellar terrorism, triggering cargo checks at starports.
+modern_impact: The confirmation of deliberate sabotage shifts the crisis from agricultural
+  accident to interstellar terrorism, triggering cargo checks at starports.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -23,6 +26,7 @@ related_uuids:
 - ea972479-e7e8-54c6-b663-01d825310994
 - 0be157b9-6a3b-51ba-96df-79add197e050
 ---
+
 
 A tri-superpower group has identified The cause of the blight that has ruined crops on multiple worlds. 
 

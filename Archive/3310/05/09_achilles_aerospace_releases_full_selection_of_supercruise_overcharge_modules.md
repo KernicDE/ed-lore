@@ -4,8 +4,12 @@ title: Achilles Aerospace releases full selection of Supercruise Overcharge modu
 slug: achilles_aerospace_releases_full_selection_of_supercruise_overcharge_modules
 date: '3310-05-09'
 source: API
-summary: Achilles Aerospace releases the full range of Supercruise Overcharge drives and upgrades, with Dr. Namin Tirel revealing the technology was developed using Thargoid drive components recovered by independent pilots.
-player_impact: Pilots who brought Thargoid drive technology to Achilles are thanked for making the breakthrough possible. Full range of SCO drives now available with removed safety limiters and improved jump range over Sirius technology.
+summary: Achilles Aerospace releases the full range of Supercruise Overcharge drives
+  and upgrades, with Dr. Namin Tirel revealing the technology was developed using
+  Thargoid drive components recovered by independent pilots.
+player_impact: Pilots who brought Thargoid drive technology to Achilles are thanked
+  for making the breakthrough possible. Full range of SCO drives now available with
+  removed safety limiters and improved jump range over Sirius technology.
 persons:
 - Namin Tirel
 groups:
@@ -24,13 +28,23 @@ technologies:
 - Supercruise Overcharge Frame Shift Drive
 - SCO drive
 arc_id: null
-modern_impact: Tirel's revelation that 'When we got hold of some of the actual parts of the Thargoids' drive-like technology, all that time, energy, and financial investment finally paid off' is extraordinary — it confirms that human FSD technology has been reverse-engineered from Thargoid components. His competitive dig at Sirius — 'a few optimisations we could make over Sirius' aging technology' — escalates the corporate rivalry. The thank you to 'independent pilots who brought us the key pieces of technology' acknowledges the player community's direct role in this breakthrough.
+modern_impact: Tirel's revelation that 'When we got hold of some of the actual parts
+  of the Thargoids' drive-like technology, all that time, energy, and financial investment
+  finally paid off' is extraordinary — it confirms that human FSD technology has been
+  reverse-engineered from Thargoid components. His competitive dig at Sirius — 'a
+  few optimisations we could make over Sirius' aging technology' — escalates the corporate
+  rivalry. The thank you to 'independent pilots who brought us the key pieces of technology'
+  acknowledges the player community's direct role in this breakthrough.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 4ab77eb5-7fc8-5438-87c3-663a6647a261
 - fd10a1c4-394e-54c7-8968-b01b1cd22993
+- b94bfb8c-7739-5fb9-902b-666df71a116d
+- a5b9e2d4-6885-5c74-8e5b-278e557e3388
+- 17db014d-0a81-5ef4-bf2b-ddc70738c828
 ---
+
 
 A suite of new Supercruise Overcharge Frame Shift Drives entered the market earlier this week alongside several other upgrades to the new modules.
 To celebrate the company’s recent success, Dr. Namin Tirel, Achilles Aerospace’s Head of Research and Development, offered a rare interview to Vox Galactica:

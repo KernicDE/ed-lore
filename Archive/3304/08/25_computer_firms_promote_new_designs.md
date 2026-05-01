@@ -4,7 +4,12 @@ title: Computer Firms Promote New Designs
 slug: computer_firms_promote_new_designs
 date: '3304-08-25'
 source: GitHub
-summary: Rival technology companies Supratech and Herculean Machines release press statements promoting new personal computer designs. CEO Scorpio DeVorrow describes the Torc's holographic technology and flexible crystalline structure. Owner Maddox Hurd emphasises the Duradrive's toughness and durability. Both companies confirm they will exhibit at the Rackham Ultratech Expo on 3 October, sponsored by Rackham Capital Investments.
+summary: Rival technology companies Supratech and Herculean Machines release press
+  statements promoting new personal computer designs. CEO Scorpio DeVorrow describes
+  the Torc's holographic technology and flexible crystalline structure. Owner Maddox
+  Hurd emphasises the Duradrive's toughness and durability. Both companies confirm
+  they will exhibit at the Rackham Ultratech Expo on 3 October, sponsored by Rackham
+  Capital Investments.
 player_impact: None
 persons:
 - Scorpio DeVorrow
@@ -21,13 +26,16 @@ locations:
 topics:
 - corporate expansion
 - technology
-modern_impact: The intensifying rivalry between Supratech and Herculean Machines challenges the personal computing duopoly, promising innovation in wearable holographics and rugged devices.
+modern_impact: The intensifying rivalry between Supratech and Herculean Machines challenges
+  the personal computing duopoly, promising innovation in wearable holographics and
+  rugged devices.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 49853107-955f-559c-9f20-c306b8423506
 - 493f0e6e-d257-5536-bc17-df5c97d32d7c
 ---
+
 
 Rival technology companies Supratech and Herculean Machines have released press statements promoting new personal-computer designs. 
 

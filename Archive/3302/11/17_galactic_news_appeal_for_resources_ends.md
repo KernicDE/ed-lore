@@ -4,8 +4,12 @@ title: Galactic News  Appeal for Resources Ends
 slug: galactic_news_appeal_for_resources_ends
 date: '3302-11-17'
 source: GitHub
-summary: Dr Arkady Cole announced that the Zosi Major Corporation's request for thermic alloys, chemical manipulators and industrial firmware was warmly received by the galactic community. The exact nature of the proposed research project has not been publicly disclosed.
-player_impact: Pilots who contributed to the campaign can collect their rewards from Citi Enterprise in the Zosi system.
+summary: Dr Arkady Cole announced that the Zosi Major Corporation's request for thermic
+  alloys, chemical manipulators and industrial firmware was warmly received by the
+  galactic community. The exact nature of the proposed research project has not been
+  publicly disclosed.
+player_impact: Pilots who contributed to the campaign can collect their rewards from
+  Citi Enterprise in the Zosi system.
 persons:
 - Dr Arkady Cole
 groups:
@@ -19,10 +23,15 @@ topics:
 - research
 - war
 technologies: []
-modern_impact: The Zosi Major Corporation's successful resource appeal allowed an undisclosed research project to proceed, highlighting how independent pilots routinely supply corporate R&D efforts.
+modern_impact: The Zosi Major Corporation's successful resource appeal allowed an
+  undisclosed research project to proceed, highlighting how independent pilots routinely
+  supply corporate R&D efforts.
 legacy_weight: 2
 significance: low
+related_uuids:
+- df2180ec-1827-5b79-a4d3-50d35a7a7d6f
 ---
+
 
 Dr Arkady Cole, chief research scientist for The Zosi Major Corporation, has announced that the organisation's request for resources has been warmly received by the galactic community. 
 

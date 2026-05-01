@@ -4,8 +4,11 @@ title: Community Goal  The Rise to Power Begins
 slug: community_goal_the_rise_to_power_begins
 date: '3302-06-30'
 source: GitHub
-summary: The main Dangerous Games 'Rise to Power' competition begins with six factions competing over three weeks; the first heat requires pilots to gather Gilya signature weapons and deliver them to Gohar Station in the Jaradharre system.
-player_impact: Gather Gilya signature weapons and deliver them to Gohar Station in the Jaradharre system to support your chosen faction in the Rise to Power competition.
+summary: The main Dangerous Games 'Rise to Power' competition begins with six factions
+  competing over three weeks; the first heat requires pilots to gather Gilya signature
+  weapons and deliver them to Gohar Station in the Jaradharre system.
+player_impact: Gather Gilya signature weapons and deliver them to Gohar Station in
+  the Jaradharre system to support your chosen faction in the Rise to Power competition.
 persons:
 - Trinity Avon
 groups:
@@ -28,7 +31,15 @@ technologies:
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 9287b601-94e0-5f03-9366-40b4c8202bf2
+- a10f897c-ce67-571c-aee0-e4912eaf4e5c
+- ddcd30dd-50e9-5306-90f2-d01d799b9262
+- 8c2f923b-a2e8-5d6a-9555-90065b9a0ca3
+- 462ae808-a270-5d4a-b32e-39abf9c6723a
+- edd271b7-20ca-5e71-9f60-3517f2ee8974
 ---
+
 
 For much of the past month, the galactic community has been captivated by the Dangerous Games, a semi-official competition organised by some of the galaxy's largest factions to determine Which wields the greatest degree of power and influence.  
 

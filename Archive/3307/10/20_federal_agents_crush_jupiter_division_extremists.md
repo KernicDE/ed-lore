@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 A pro-corporatist group planning a series of terror attacks has been shut down by The Federal Intelligence Agency.
 An update on the operation was delivered by Deputy Director Bethany Blake, who runs the Proactive Detection Bureau:
 “Special forces have now arrested the organisers of the underground organisation called Jupiter’s Wrath. This was a collection of citizens radicalised by Jupiter Rochester into believing that they could replace democratically elected leaders With corporate overlords.”

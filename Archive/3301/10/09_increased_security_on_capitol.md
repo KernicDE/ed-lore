@@ -28,7 +28,10 @@ significance: high
 related_uuids:
 - 160cfdac-9ea2-5593-9928-46201603286c
 - ebe5ac2b-54e3-5d3b-a7d3-91ccae332ab6
+- 3bcb8d26-f1ac-506a-a763-402ca7cdf880
+- 7ecb6124-2a72-5b9e-afd1-13728200e0b9
 ---
+
 
 
 With Emperor's Dawn threatening to sabotage The Imperial coronation ceremony, and the Emperor's assassination still casting a pall over the city, security for the ceremony has been drastically increased. Naval infantry, local police and Imperial Guard units are already patrolling the streets of Capitol and conducting security checks. One Navy contact revealed that This was likely to be one of the largest deployments of Naval troops in decades. 

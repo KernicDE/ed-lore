@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 The location of an INRA base in the DG Canum Venaticorum system was revealed by a survivor of the notorious Project Seraph.
 Professor Alba Tesreau, former head of research at Aegis, initially received the tip-off from an anonymous source but has now provided clarification:
 “Further communication with my source has revealed that she was once a ‘candidate’ of Project Seraph, a now-abandoned operation run by Azimuth Biochemicals several years ago. At the Oaken Point facility in the HIP 26176 system, scientists attempted to directly interface with Thargoid scout vessels by grafting neural and physiological implants into living subjects.”

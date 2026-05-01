@@ -30,7 +30,10 @@ legacy_weight: 1
 significance: low
 related_uuids:
 - 400a59da-3feb-50c0-95c2-68ea9c6f4ef2
+- ad6305ce-f140-5f7f-82f6-d84babc703cd
+- e17af96f-7350-5002-8ac0-49df1324863a
 ---
+
 
 
 The Alliance has announced plans to build an Ocellus starport in the MEL 22 Sector GM-V C2-8 system, to Further Bridge the gap between the core systems and the Alliance’s outposts in the California Nebula. 

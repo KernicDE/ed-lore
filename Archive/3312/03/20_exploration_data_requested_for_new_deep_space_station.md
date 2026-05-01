@@ -33,6 +33,7 @@ related_uuids:
 
 
 
+
 The Distant Worlds 3 logistics fleet has completed the first build phase of a new deep-space outpost in the Roefoo ZE-H d10-0 system at the edge of the Mare Somnium region.
 Established using construction materials stocked earlier this year, the facility has been informally named "Rainbow’s End."
 The station is intended to support long-range exploration operations and scientific analysis across the sparsely charted sectors of the galactic northeast.

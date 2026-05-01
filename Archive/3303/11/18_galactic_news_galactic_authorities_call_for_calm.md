@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 As reports continue to pour in of Thargoid attacks, The galaxy’s leaders have issued statements urging the public to remain calm. 
 
 In a missive released to a number of news feeds, Emperor Arissa Lavigny-Duval said: 

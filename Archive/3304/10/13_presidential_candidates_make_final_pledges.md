@@ -4,7 +4,12 @@ title: Presidential Candidates Make Final Pledges
 slug: presidential_candidates_make_final_pledges
 date: '3304-10-13'
 source: GitHub
-summary: The two remaining Alliance presidential candidates return to Alioth to make final campaign vows. Elijah Beck promises to focus on attracting more independent systems to the Alliance. Incumbent President Gibson Kincaid calls for executive powers to transform the Alliance into a true superpower capable of challenging adversaries, framing Fazia Silva's assassination as an assault on democracy. Prime Minister Edmund Mahon thanks both candidates. Voting takes place on October 16th.
+summary: The two remaining Alliance presidential candidates return to Alioth to make
+  final campaign vows. Elijah Beck promises to focus on attracting more independent
+  systems to the Alliance. Incumbent President Gibson Kincaid calls for executive
+  powers to transform the Alliance into a true superpower capable of challenging adversaries,
+  framing Fazia Silva's assassination as an assault on democracy. Prime Minister Edmund
+  Mahon thanks both candidates. Voting takes place on October 16th.
 player_impact: None
 persons:
 - Elijah Beck
@@ -18,7 +23,9 @@ locations:
 - Alioth
 topics:
 - politics
-modern_impact: Kincaid's call for executive powers represents a fundamental challenge to the Alliance's consensual political structure, while Beck's platform emphasises traditional Alliance values of voluntary cooperation.
+modern_impact: Kincaid's call for executive powers represents a fundamental challenge
+  to the Alliance's consensual political structure, while Beck's platform emphasises
+  traditional Alliance values of voluntary cooperation.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -26,6 +33,7 @@ related_uuids:
 - 4c33cc73-d588-59a5-b80d-fe0c6e76f665
 - a950b069-65d4-569a-b55c-6ce84123e10e
 ---
+
 
 The two remaining candidates in the Alliance presidential race have returned to The Alioth system to make their final campaign vows. 
 

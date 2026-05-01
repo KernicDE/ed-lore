@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 It has now been eight months since The first Colonia outpost was established, and Since then the colony has gone from strength to strength. 
 
 With the Colonia community continuing to expand, the Colonia Co-operative has placed an open order for mined Gallite, Gold and Methanol Monohydrate Crystals for the development of infrastructure throughout Colonia and the surrounding systems. 

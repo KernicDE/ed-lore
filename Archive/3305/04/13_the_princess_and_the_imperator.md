@@ -4,7 +4,9 @@ title: The Princess and the Imperator
 slug: the_princess_and_the_imperator
 date: '3305-04-13'
 source: GitHub
-summary: Political journalist Cassia Carvalho analyses the controversy surrounding Princess Aisling Duval's meeting with Hadrian Duval, noting Senator Zemina Torval's condemnation and speculating whether Hadrian might adapt his extremist views.
+summary: Political journalist Cassia Carvalho analyses the controversy surrounding
+  Princess Aisling Duval's meeting with Hadrian Duval, noting Senator Zemina Torval's
+  condemnation and speculating whether Hadrian might adapt his extremist views.
 player_impact: None — background political analysis.
 persons:
 - Cassia Carvalho
@@ -18,13 +20,16 @@ topics:
 - politics
 - succession
 arc_id: nova-imperium
-modern_impact: The meeting intensified the ideological fracture within the Empire, with traditionalists like Torval viewing any engagement with Nova Imperium as treason while progressives saw opportunity for reconciliation.
+modern_impact: The meeting intensified the ideological fracture within the Empire,
+  with traditionalists like Torval viewing any engagement with Nova Imperium as treason
+  while progressives saw opportunity for reconciliation.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 3e6f5a72-5c3b-5eb7-80cb-a704bb719fb2
 - fe3dc2db-dc1a-5838-8b95-ff46e1033563
 ---
+
 
 News of a meeting between Princess Aisling Duval and Imperator Hadrian Augustus Duval has caused controversy throughout the Empire.  
 

@@ -33,7 +33,13 @@ significance: medium
 related_uuids:
 - 69c817c5-a7e7-5ec1-8507-add13a49b8a1
 - 9171caa2-184b-5db3-afa6-c48602b54e2e
+- 92ab3791-b482-5d1a-9df1-31af570bc24b
+- 1034cc0f-a196-5d70-a72a-116480e4f667
+- 7ba50e3b-b05e-5a91-9da4-4447aa50e604
+- 043b09cb-a215-572d-93dd-9554ec2ca250
+- c7d03263-c11f-5f80-aef4-c7ca6c341238
 ---
+
 
 
 Former Federal President Jasmina Halsey held a public demonstration in The Alioth system yesterday in protest of The ongoing conflict between the Empire and the Federation. 

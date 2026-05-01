@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 Authorities in The Colonia system have confirmed that the conflict between The Nameless and the peacekeepers of the Colonia Council has come to an end. 
 
 Both factions received support from the galactic community, but ultimately there could only be One victor – the Colonia Council. 

@@ -4,7 +4,8 @@ title: Presidential Candidates Hold Live Debate
 slug: presidential_candidates_hold_live_debate
 date: '3309-06-26'
 source: API
-summary: The three Federal presidential candidates clash in a live debate, with personal attacks overshadowing policy discussion and commentators criticizing the tone.
+summary: The three Federal presidential candidates clash in a live debate, with personal
+  attacks overshadowing policy discussion and commentators criticizing the tone.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Jerome Archer
@@ -17,7 +18,13 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: The debate is a masterclass in political theater. Rackham's jab — 'Lost any megaships recently, Jerome?' — directly references the Dedicant. Winters's counter — 'the Dedicant situation is a direct result of your party's repressive policies on religious expression' — frames the crisis as policy failure. Rackham's zero-tax proposal — 'What our people need... is to pay zero civil taxes' — is absurd populism. Winters's pirate accusation — 'selling off the treasure you stole during your pirate days' — foreshadows the Calico Zack scandal.
+modern_impact: The debate is a masterclass in political theater. Rackham's jab — 'Lost
+  any megaships recently, Jerome?' — directly references the Dedicant. Winters's counter
+  — 'the Dedicant situation is a direct result of your party's repressive policies
+  on religious expression' — frames the crisis as policy failure. Rackham's zero-tax
+  proposal — 'What our people need... is to pay zero civil taxes' — is absurd populism.
+  Winters's pirate accusation — 'selling off the treasure you stole during your pirate
+  days' — foreshadows the Calico Zack scandal.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -26,6 +33,7 @@ related_uuids:
 - d5819466-08f7-501e-b3cf-cbf9bd4494c1
 - 2bb62465-0b86-5863-b66c-78972defe368
 ---
+
 
 Vice President Jerome Archer, Shadow President Felicia Winters, and entrepreneur Zachary Rackham have exchanged political views in a live debate.
 The Republican, Liberal and independent candidates came together for an event that was broadcast across all Federal media networks. The event provided a platform to outline each candidate’s manifestos for voters, and engage in discourse on key issues.

@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Professor Alba Tesreau, Head of Aegis, has issued a warning for all anti-xeno fleets to remain on high alert.
 The warning comes as human forces continue to push towards the last remaining Thargoid Titan, Cocijo. While victory over the Thargoid invasion force seems likely at this stage, Tesreau has urged defensive fleets not to become complacent.
 “We have seen repeatedly that the Thargoid fleets are capable of surprising us when their defeat seems inevitable. The Proteus Wave incident in HIP 22460 is a perfect example of this – our confidence was such that Salvation’s celebratory speech was broadcast across the core systems only moments before he was killed by a Thargoid counterattack, along with thousands of military personnel.”

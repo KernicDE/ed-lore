@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Following The devastating news that the Thargoids have attacked three starports in the Pleiades, Authorities in the Taygeta system, home to One of the affected stations, have released The following statement: 
 
 “Our priorities remain getting civilians to safety and securing the commodities we need to stabilise the starport. Independent pilots are encouraged to deliver foods, water, basic medicines and natural fabrics to Titan’s Daughter and Other affected stations.” 

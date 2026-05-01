@@ -4,8 +4,14 @@ title: Imperial Assassination Attempt Foiled
 slug: imperial_assassination_attempt_foiled
 date: '3301-04-01'
 source: GitHub
-summary: An assassination attempt on Emperor Hengist Duval was foiled at the Imperial Palace on Capitol after a janitor noticed the Palace pharmacy had been left unlocked. A full inventory revealed tampering with the Emperor's medication. Chancellor Blaine confirmed that had the attack gone undetected much longer, the Emperor would almost certainly have been killed. The assassin was captured thanks to Princess Arissa's agents and is undergoing questioning.
-player_impact: Citizens with information about the assassination attempt should contact Capitol Security.
+summary: An assassination attempt on Emperor Hengist Duval was foiled at the Imperial
+  Palace on Capitol after a janitor noticed the Palace pharmacy had been left unlocked.
+  A full inventory revealed tampering with the Emperor's medication. Chancellor Blaine
+  confirmed that had the attack gone undetected much longer, the Emperor would almost
+  certainly have been killed. The assassin was captured thanks to Princess Arissa's
+  agents and is undergoing questioning.
+player_impact: Citizens with information about the assassination attempt should contact
+  Capitol Security.
 persons:
 - Emperor Hengist Duval
 - Chancellor Blaine
@@ -18,10 +24,19 @@ topics:
 - investigation
 - medicine
 - succession
-modern_impact: Foiled assassination attempt on the Emperor heightened tensions around Imperial succession and revealed vulnerabilities in Palace security.
+modern_impact: Foiled assassination attempt on the Emperor heightened tensions around
+  Imperial succession and revealed vulnerabilities in Palace security.
 legacy_weight: 4
 significance: high
+related_uuids:
+- fae881d7-b41d-5b1b-a592-f87e4cf001a2
+- 7dc64c51-9af8-50a7-b1c6-2f97c35ce3f7
+- 37ec2f6b-0279-58e6-9ba8-c409f851742b
+- 65bc95ff-68c1-521d-aa1d-9b3f23d1a531
+- b6c996c8-1b58-5111-81fd-f3ba0f996336
+- d1c99133-8d75-5ced-bfcc-000c4f1263c9
 ---
+
 
 According to sources within The Imperial Palace on Capitol an attempt to end The Emperor’s life was foiled late last night. 
 

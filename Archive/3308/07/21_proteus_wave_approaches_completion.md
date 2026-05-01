@@ -31,7 +31,11 @@ significance: high
 related_uuids:
 - 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
 - 8c4e7d2b-1a8f-5a0b-8f5d-9c4e7d2b1a8f
+- 90f47201-f1b3-537a-8c1f-fc6e092fa724
+- 7aaf4cac-767f-5e4b-b085-e5bc94a6c913
+- 02c79e14-bd50-5a4a-b85d-2e25fa40eba1
 ---
+
 
 
 **Pilots’ Federation ALERT**

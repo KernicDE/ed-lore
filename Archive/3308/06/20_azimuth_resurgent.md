@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 Salvation has announced that his partner organisation Taurus Mining Ventures is a modern incarnation of Azimuth Biochemicals.
 The revelation came via a public statement across all media channels:
 “This is Salvation. In light of recent speculation, we are rebranding Taurus Mining Ventures as Azimuth Biotech. My intent is to prove that Azimuth has no further need to conceal its operations.”

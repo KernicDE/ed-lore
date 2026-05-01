@@ -4,7 +4,8 @@ title: Arissa Retakes the Imperial Throne
 slug: arissa_retakes_the_imperial_throne
 date: '3308-02-16'
 source: API
-summary: Emperor Arissa Lavigny-Duval makes her first public appearance after a year-long abduction.
+summary: Emperor Arissa Lavigny-Duval makes her first public appearance after a year-long
+  abduction.
 player_impact: Not specifically mentioned — this is a ceremonial report.
 persons:
 - Arissa Lavigny-Duval
@@ -19,7 +20,10 @@ topics:
 - succession
 entities: []
 arc_id: nmla-terrorism
-modern_impact: '"Emperor Arissa Lavigny-Duval has attended a public ceremony following her year-long abduction." The Emperor''s dramatic return from captivity stabilizes Imperial succession but leaves lingering questions about the Lords of Restoration''s full network.'
+modern_impact: '"Emperor Arissa Lavigny-Duval has attended a public ceremony following
+  her year-long abduction." The Emperor''s dramatic return from captivity stabilizes
+  Imperial succession but leaves lingering questions about the Lords of Restoration''s
+  full network.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +38,7 @@ related_uuids:
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 34095e10-e6d8-53e7-a01d-ef4f11d4da9a
 ---
+
 
 Emperor Arissa Lavigny-Duval has attended a public ceremony following her year-long abduction by The Lords of Restoration.
 Her proclamation from Trasken Square, standing before millions of Capitol’s citizens and flanked by legions of Imperial Guard, was broadcast across all channels:

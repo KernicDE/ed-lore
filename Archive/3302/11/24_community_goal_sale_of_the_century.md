@@ -4,8 +4,11 @@ title: Community Goal  Sale of the Century
 slug: community_goal_sale_of_the_century
 date: '3302-11-24'
 source: GitHub
-summary: Tchernobog Free, a retail conglomerate based in the Tchernobog system, has placed an open order for domestic appliances, clothing and consumer technology to meet one-day offer demand. Pilots are asked to deliver goods to Vancouver Ring.
-player_impact: Pilots can deliver domestic appliances, clothing and consumer technology to Vancouver Ring in the Tchernobog system for rewards.
+summary: Tchernobog Free, a retail conglomerate based in the Tchernobog system, has
+  placed an open order for domestic appliances, clothing and consumer technology to
+  meet one-day offer demand. Pilots are asked to deliver goods to Vancouver Ring.
+player_impact: Pilots can deliver domestic appliances, clothing and consumer technology
+  to Vancouver Ring in the Tchernobog system for rewards.
 persons: []
 groups:
 - Tchernobog Free
@@ -16,10 +19,14 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: Tchernobog Free's retail supply campaign demonstrated the dependency of consumer markets on independent pilot logistics for meeting seasonal demand.
+modern_impact: Tchernobog Free's retail supply campaign demonstrated the dependency
+  of consumer markets on independent pilot logistics for meeting seasonal demand.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 483e25ad-111c-58d4-9124-c3920a013f63
 ---
+
 
 For Many retailers, This Friday is One of the busiest days of the year, as prices are slashed and consumers compete to take advantage of a range of one-day offers. 
 

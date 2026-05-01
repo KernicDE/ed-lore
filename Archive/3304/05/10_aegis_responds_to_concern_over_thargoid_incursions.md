@@ -30,7 +30,9 @@ significance: high
 related_uuids:
 - 208ad777-7e52-54e3-b190-cfdd50fec921
 - 70af58e7-b214-5dcd-bf59-336b6afce3be
+- 722fe641-dd51-5082-a7f8-ca2c80aabf61
 ---
+
 
 
 There has been widespread disquiet over recent reports that Thargoid ships have been encountered In The core systems. 

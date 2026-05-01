@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 A homicide attempt by terrorist organisation The League of Reparation has been foiled, and the would-be killers taken into custody. 
 
 The arrests were made by Chief Inspector Kay Kilbride of Alliance Interpol, who is part of the united taskforce investigating the League. She released This statement: 

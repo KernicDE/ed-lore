@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 The Federation has announced plans to construct a new survey outpost in the HIP 17692 system. Federal sources have confirmed that the outpost is designed to give the Federation a vantage point, close to the Pleiades, from Which to monitor Thargoid activity. 
 
 A Federal spokesperson gave The following statement: 

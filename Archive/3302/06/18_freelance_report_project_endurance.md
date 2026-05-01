@@ -4,7 +4,10 @@ title: Freelance Report  Project Endurance
 slug: freelance_report_project_endurance
 date: '3302-06-18'
 source: GitHub
-summary: Commanders Dr Simms and Sid Solo return to inhabited space after a 16-month circumnavigation of the galactic core in Faulcon DeLacy Cobras launched from Allen Platform in the Dijkstra system, having departed before many modern conveniences existed.
+summary: Commanders Dr Simms and Sid Solo return to inhabited space after a 16-month
+  circumnavigation of the galactic core in Faulcon DeLacy Cobras launched from Allen
+  Platform in the Dijkstra system, having departed before many modern conveniences
+  existed.
 player_impact: None
 persons:
 - Commander Dr Simms
@@ -22,10 +25,19 @@ topics:
 technologies:
 - Faulcon DeLacy Cobra
 - SRV
-modern_impact: Endurance exploration pushes the boundaries of long-duration deep-space travel and highlights how rapidly pilot technology advances.
+modern_impact: Endurance exploration pushes the boundaries of long-duration deep-space
+  travel and highlights how rapidly pilot technology advances.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e79f3bf9-8198-5916-8659-119c80ba16e5
+- d27ded8d-1aef-5ab9-a316-27ec6d7bc189
+- 27019b70-9df7-54ff-ae4e-c5d07dbc4823
+- 1d5240cd-3591-56b7-a646-6af6b9a26a4d
+- 5dbaa650-006e-5f84-ab7a-9f4155fdafdf
+- 3c42ea38-6fce-5d52-a67a-475c55b87d22
 ---
+
 
 On The 10th of February 3301, two Faulcon DeLacy Cobras were launched from Allen Platform in the Dijkstra system. Piloted by Commander Dr Simms and Commander Sid Solo, the ships were fitted for an endurance attempt unlike any Other. Now, more than 16 months later and having circumnavigated the galactic core, they are about to return to inhabited space.  
 

@@ -4,7 +4,12 @@ title: Details of Aisling Duval's Wedding Announced
 slug: details_of_aisling_duvals_wedding_announced
 date: '3304-07-14'
 source: GitHub
-summary: The wedding of Princess Aisling Duval and Federal Ambassador Jordan Rochester is scheduled for 25 August 3304 at the Imperial Palace on Emerald in the Cemiess system. Invitations extend to all strata of society, with honour guards from both the Federal Navy and Imperial Navy. Senator Zemina Torval continues her public disapproval, calling it a PR exercise. Former Federal President Jasmina Halsey, now an Alliance advisor, expresses enthusiasm for the peace opportunities the marriage represents.
+summary: The wedding of Princess Aisling Duval and Federal Ambassador Jordan Rochester
+  is scheduled for 25 August 3304 at the Imperial Palace on Emerald in the Cemiess
+  system. Invitations extend to all strata of society, with honour guards from both
+  the Federal Navy and Imperial Navy. Senator Zemina Torval continues her public disapproval,
+  calling it a PR exercise. Former Federal President Jasmina Halsey, now an Alliance
+  advisor, expresses enthusiasm for the peace opportunities the marriage represents.
 player_impact: None
 persons:
 - Aisling Duval
@@ -24,13 +29,17 @@ locations:
 topics:
 - diplomacy
 - politics
-modern_impact: The wedding announcement crystallises both support and opposition to the cross-superpower union, with political figures across the galaxy taking sides.
+modern_impact: The wedding announcement crystallises both support and opposition to
+  the cross-superpower union, with political figures across the galaxy taking sides.
 legacy_weight: 1
 significance: low
 related_uuids:
 - a987debf-f78b-5533-84b9-48a6a845b2e2
 - 6794e4d2-d654-5896-9bca-ec103cd2a5f4
+- d5e38d22-4fdf-50d4-9487-5f7c5162d42a
+- 9d504b23-ad0b-5f30-b024-01047817945d
 ---
+
 
 The wedding of Princess Aisling Duval and Federal Ambassador Jordan Rochester is now in the advanced planning stages, and a date has been confirmed for the ceremony. 
 

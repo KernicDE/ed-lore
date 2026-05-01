@@ -4,7 +4,13 @@ title: Emperor's Killer Not Working Alone
 slug: emperors_killer_not_working_alone
 date: '3301-08-23'
 source: GitHub
-summary: Chancellor Anders Blaine announced a breakthrough in the assassination investigation. Inspector Reeve discovered encrypted data files hidden in the toys of Brendan Paul Darius's six-year-old niece, killed in the family murder. The files revealed Emperor's Dawn, an ultra-traditionalist movement fearing the erosion of imperial values. The group's exact motive remains unknown, but Princess Aisling Duval was also discovered to be a target. Her security has been increased. Blaine called the group a hideous cancer that will be hunted down and eradicated.
+summary: Chancellor Anders Blaine announced a breakthrough in the assassination investigation.
+  Inspector Reeve discovered encrypted data files hidden in the toys of Brendan Paul
+  Darius's six-year-old niece, killed in the family murder. The files revealed Emperor's
+  Dawn, an ultra-traditionalist movement fearing the erosion of imperial values. The
+  group's exact motive remains unknown, but Princess Aisling Duval was also discovered
+  to be a target. Her security has been increased. Blaine called the group a hideous
+  cancer that will be hunted down and eradicated.
 player_impact: None
 persons:
 - Anders Blaine
@@ -20,10 +26,20 @@ locations:
 topics:
 - investigation
 - terrorism
-modern_impact: Revelation of Emperor's Dawn as a terrorist organisation behind the assassination transforms the investigation into a hunt for a larger conspiracy.
+modern_impact: Revelation of Emperor's Dawn as a terrorist organisation behind the
+  assassination transforms the investigation into a hunt for a larger conspiracy.
 legacy_weight: 4
 significance: high
+related_uuids:
+- bef5e1fc-35e0-511b-81be-d0e22866b0e2
+- 30353c5e-cb66-5b25-a591-cbe1fc83465a
+- 25511a31-ca0a-5097-813f-644dfd0c1702
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- 1bf57b54-4735-58ba-bcc8-875fb5aa9410
+- aee6dedc-728c-5094-b072-e619c36322e4
+- d1ba606a-a92d-5487-bee8-5a38e8fd3580
 ---
+
 
 While Chancellor Anders Blaine has provided almost daily updates on The investigation of Emperor Hengist Duval’s assassination there has been little progress of note until today. The breakthrough is reported to have originated from an investigation into the killing of Brendan Paul Darius’ family. 
 

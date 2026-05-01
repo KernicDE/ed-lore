@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 President Gibson Kincaid has sought to illustrate potential threats to The Alliance, highlighting isolationist group Nova Imperium as an example. Speaking to the Alliance Tribune, President Kincaid said: 
 
 "The rise of such radical beliefs demonstrates how quickly the Other superpowers might turn against us. Had the recent military conflict ended differently, the Empire would have callously abandoned humanity's united struggle against the Thargoid threat." 

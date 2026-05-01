@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Earlier This month, The Pleiades Resource Enterprise entered Maia and rapidly started cementing Its presence in the system. In response, the Ant Hill Mob – Maia's current controlling faction – has launched an offensive against Pleiades Resource Enterprise. 
 
 With the Federation having recently stationed a Farragut-class Battlecruiser at Maia A 3 a, there is speculation that the appearance of Pleiades Resource Enterprise represents an effort to bring Maia under Federal control. 

@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Arek Crimson Vision Corporation has launched a campaign to boost Colonia’s military strength by providing The region With weapons. The initiative is a direct response to ongoing Thargoid hostility. 
 
 A spokesperson for Arek Crimson Vision Corporation elaborated on the nature of the campaign: 

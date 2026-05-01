@@ -42,7 +42,15 @@ significance: medium
 related_uuids:
 - 81c800a0-c293-5c53-b69d-026625eb2c71
 - c11f54b8-3786-547f-b7d8-dbed606bfd8e
+- 64052855-bd72-5b37-b1c9-63ce32e1d1d0
+- 42255e4f-788f-5ba1-b12d-b1209e5ee2ba
+- ada7d772-d68c-5509-b509-6358ee602283
+- c267b84b-57a2-5a63-8d0d-e2363834a969
+- d7919863-55c6-54c6-847a-3b0ca8e4ab06
+- 02165df8-9aeb-583a-be2c-d25436bc9c41
+- 023030b3-b87d-5220-9488-e82e00d7f4c4
 ---
+
 
 
 Unaffiliated supporters of Arissa Lavigny-Duval have today voiced concerns at rumours of an escalating intervention in The Pegasi Sector on The part of Lavigny's Legion. 

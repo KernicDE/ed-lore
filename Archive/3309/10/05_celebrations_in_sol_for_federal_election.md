@@ -4,8 +4,10 @@ title: Celebrations in Sol for Federal Election
 slug: celebrations_in_sol_for_federal_election
 date: '3309-10-05'
 source: API
-summary: President Hudson announces celebratory events in Sol for the upcoming Federal election, with a temporary permit for Pilots' Federation members.
-player_impact: Pilots delivered Crystalline Spheres, Gerasian Gueuze Beer, Indi Bourbon, LTT Hyper Sweet and Pantaa Prayer Sticks to Li Qing Jao starport.
+summary: President Hudson announces celebratory events in Sol for the upcoming Federal
+  election, with a temporary permit for Pilots' Federation members.
+player_impact: Pilots delivered Crystalline Spheres, Gerasian Gueuze Beer, Indi Bourbon,
+  LTT Hyper Sweet and Pantaa Prayer Sticks to Li Qing Jao starport.
 persons:
 - Zachary Hudson
 - Jerome Archer
@@ -21,13 +23,20 @@ topics:
 - festival
 entities: []
 arc_id: null
-modern_impact: Sterling's analysis — 'a high-profile attempt to boost public morale, one that allows President Hudson to leave office on a positive note' — frames the celebrations as political theatre. His note that critics view it as 'a way to distract the citizens from the prolonged Thargoid war, the recent Rackham scandal' shows the baggage Hudson carries. The mention of 'the Rackham scandal' references a prior event.
+modern_impact: Sterling's analysis — 'a high-profile attempt to boost public morale,
+  one that allows President Hudson to leave office on a positive note' — frames the
+  celebrations as political theatre. His note that critics view it as 'a way to distract
+  the citizens from the prolonged Thargoid war, the recent Rackham scandal' shows
+  the baggage Hudson carries. The mention of 'the Rackham scandal' references a prior
+  event.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 33c6b56e-6efe-5c2a-9a4c-350a17b673bf
 - ba96abf1-456d-5b32-aa72-2a4b52ee1484
+- 86ccf794-59d3-5bc5-ae63-b689d2a5d777
 ---
+
 
 **Pilots’ Federation ALERT**
 A series of public events to celebrate the forthcoming presidential election are being held in the Sol system.

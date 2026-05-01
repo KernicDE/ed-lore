@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Hadrian Augustus Duval has broadcast a message following the purge of isolationist group Nova Imperium: 
 
 "Arissa Lavigny-Duval has revealed the true face of her regime – One based on brutality and terror. The callous execution of Imperator Mordanticus, in conjunction With thousands of Imperial citizens, shows her desperation to cling onto power at any cost." 

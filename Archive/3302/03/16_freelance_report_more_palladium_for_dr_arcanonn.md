@@ -4,8 +4,11 @@ title: Freelance Report  More Palladium for Dr Arcanonn
 slug: freelance_report_more_palladium_for_dr_arcanonn
 date: '3302-03-16'
 source: GitHub
-summary: The Canonn Interstellar Research Group issues a plea for a final push of palladium deliveries to establish their research outpost at Thompson Dock. They hope to reach the next milestone to secure a commodities market at the station.
-player_impact: Pilots mined and delivered palladium to Thompson Dock in the Varati system to help the Canonn establish their research outpost.
+summary: The Canonn Interstellar Research Group issues a plea for a final push of
+  palladium deliveries to establish their research outpost at Thompson Dock. They
+  hope to reach the next milestone to secure a commodities market at the station.
+player_impact: Pilots mined and delivered palladium to Thompson Dock in the Varati
+  system to help the Canonn establish their research outpost.
 persons:
 - Dr Arcanonn
 - Commander Lord Zoltan
@@ -21,7 +24,15 @@ topics:
 modern_impact: Trade initiative affecting commodity markets.
 legacy_weight: 2
 significance: low
+related_uuids:
+- f45bad18-0834-5eb6-8931-f6317afe7452
+- 6741f279-99ef-57b9-bb58-25d0b3e3782d
+- 4140c663-8d3b-5208-93ff-43418fc0c2f1
+- 11940ec2-f568-5815-bf35-386dee4a1f21
+- 886c2379-a8dc-5b45-8c99-374ef4b9fe2b
+- 6d6d7f1e-7088-54e3-873e-ba06ff4f2ce6
 ---
+
 
 A spokesperson for The Canonn Interstellar Research Group has issued a plea for a final push in the campaign to establish a research outpost at Thompson Dock: 
 

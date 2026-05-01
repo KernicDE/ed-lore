@@ -35,7 +35,9 @@ significance: high
 related_uuids:
 - 7b48d4e3-103e-585d-84c1-c6cc7ad4fc39
 - d3344fae-a41f-5e7b-af0b-ed85632fd68e
+- 722fe641-dd51-5082-a7f8-ca2c80aabf61
 ---
+
 
 
 The Imperial Internal Security Service has discovered that the murderer of Senator Nestor Cartesius was acting on behalf of a secret organisation. 

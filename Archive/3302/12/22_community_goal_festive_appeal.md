@@ -4,8 +4,11 @@ title: Community Goal  Festive Appeal
 slug: community_goal_festive_appeal
 date: '3302-12-22'
 source: GitHub
-summary: Santa Muerte Co-operative has launched a festive appeal asking pilots to deliver personal gifts from Frost Dock in Njambalba to Clauss Port in Santa Muerte, offering generous rewards and a special prize draw.
-player_impact: Deliver personal gifts from Frost Dock in the Njambalba system to Clauss Port in the Santa Muerte system for financial rewards and festive prizes.
+summary: Santa Muerte Co-operative has launched a festive appeal asking pilots to
+  deliver personal gifts from Frost Dock in Njambalba to Clauss Port in Santa Muerte,
+  offering generous rewards and a special prize draw.
+player_impact: Deliver personal gifts from Frost Dock in the Njambalba system to Clauss
+  Port in the Santa Muerte system for financial rewards and festive prizes.
 persons:
 - Nicolas St Clauss
 groups:
@@ -19,10 +22,18 @@ topics:
 - festival
 - trade
 technologies: []
-modern_impact: Festive commodity drive connecting pilots across systems through seasonal trade and rewards.
+modern_impact: Festive commodity drive connecting pilots across systems through seasonal
+  trade and rewards.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 78a4b786-7edc-5fe1-a3b3-76c9c33356e2
+- 7c16f099-da83-5eb8-b85a-c39d0046cd90
+- ef911b8b-aff2-53fa-85e3-290d400e595c
+- 64687775-402e-5976-acf0-2f0523df4ca5
+- 0cd16150-08dc-5f22-a0c4-89c0c24aa153
 ---
+
 
 Many cultures choose to mark The end of the galactic year With the giving and receiving of gifts, and This year will be no exception. In anticipation of this busy period, luxury goods supplier Santa Muerte Co-operative has placed an open order for personal gifts. The organisation's CEO, Nicolas St Clauss, released The following statement to the media: 
 

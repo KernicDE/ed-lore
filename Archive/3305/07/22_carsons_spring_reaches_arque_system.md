@@ -31,7 +31,11 @@ related_uuids:
 - 3f90e1bf-967a-5b74-be0f-718b81fcd3fb
 - 45396224-a215-5ad4-8ebf-6d8150f53be8
 - 969713a8-6dbf-548c-9ce4-4d33ba1f321a
+- 42c8c8e5-17ba-51ac-ab9d-8271796d025d
+- 14b0684a-7610-509b-93da-bc380c0cacd4
+- 2a405898-44a3-5d69-a93e-af922725bf23
 ---
+
 
 
 Carson's Spring, The megaship transporting Professor Ishmael Palin from the Maia system, has successfully completed Its journey, having endured a number of attacks by Thargoid craft. 

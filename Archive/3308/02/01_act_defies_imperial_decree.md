@@ -4,7 +4,8 @@ title: ACT Defies Imperial Decree
 slug: act_defies_imperial_decree
 date: '3308-02-01'
 source: API
-summary: ACT continues investigating Imperial Intelligence despite the Senate ordering it to cease operations.
+summary: ACT continues investigating Imperial Intelligence despite the Senate ordering
+  it to cease operations.
 player_impact: Not specifically mentioned — this is a political report.
 groups:
 - Alliance
@@ -16,7 +17,10 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: '"ACT is actively investigating Imperial Intelligence, despite the Senate ordering it to cease operations." ACT''s defiance of the Senate underscores the taskforce''s commitment to exposing the NMLA conspiracy regardless of political consequences.'
+modern_impact: '"ACT is actively investigating Imperial Intelligence, despite the
+  Senate ordering it to cease operations." ACT''s defiance of the Senate underscores
+  the taskforce''s commitment to exposing the NMLA conspiracy regardless of political
+  consequences.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,6 +35,7 @@ related_uuids:
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
 ---
+
 
 The Affiliated Counter-Terrorism unit is actively investigating Imperial Intelligence, despite the Senate ordering it to cease operations.
 Inspector Mara Klatt, One of ACT’s co-leaders, told the media:

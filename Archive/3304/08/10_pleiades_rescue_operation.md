@@ -4,8 +4,13 @@ title: Pleiades Rescue Operation
 slug: pleiades_rescue_operation
 date: '3304-08-10'
 source: GitHub
-summary: After sustained Thargoid attacks on civilian targets in the Pleiades Nebula, Aegis Research coordinates a rescue operation to locate and recover survivors. Superintendent Marla Poulsen requests pilots recover occupied and damaged escape pods, and deliver food resources including fruit, vegetables, grain, and food cartridges to Donar's Oak in the Pleiades Sector IR-W d1-55 system.
-player_impact: Independent pilots can recover escape pods and deliver food to Donar's Oak in the Pleiades Sector IR-W d1-55 system. The campaign runs for one week.
+summary: After sustained Thargoid attacks on civilian targets in the Pleiades Nebula,
+  Aegis Research coordinates a rescue operation to locate and recover survivors. Superintendent
+  Marla Poulsen requests pilots recover occupied and damaged escape pods, and deliver
+  food resources including fruit, vegetables, grain, and food cartridges to Donar's
+  Oak in the Pleiades Sector IR-W d1-55 system.
+player_impact: Independent pilots can recover escape pods and deliver food to Donar's
+  Oak in the Pleiades Sector IR-W d1-55 system. The campaign runs for one week.
 persons:
 - Marla Poulsen
 groups:
@@ -19,12 +24,14 @@ topics:
 - alien contact
 - humanitarian
 - war
-modern_impact: The rescue operation highlights the human cost of Thargoid aggression and demonstrates Aegis's role in civilian protection amid the ongoing conflict.
+modern_impact: The rescue operation highlights the human cost of Thargoid aggression
+  and demonstrates Aegis's role in civilian protection amid the ongoing conflict.
 legacy_weight: 5
 significance: high
 related_uuids:
 - cb000662-d78f-5013-89e5-b8375bd4b9d8
 ---
+
 
 After sustained Thargoid attacks on civilian targets in The Pleiades Nebula, system authorities have launched a rescue operation to locate and recover survivors.  
 

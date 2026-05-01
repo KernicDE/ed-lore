@@ -46,7 +46,9 @@ related_uuids:
 - e93a8c38-8df7-5084-9ec2-c2d18fe537a4
 - ed32e72e-acaa-5dca-90ef-9c199420d92a
 - fd4a82f5-7fa5-51f0-896d-f39d35e3937b
+- 9d504b23-ad0b-5f30-b024-01047817945d
 ---
+
 
 
 The NMLA paramilitary group has confirmed that the Marlinism Reformation Party faction now acts as Its political representative.

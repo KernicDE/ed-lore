@@ -24,7 +24,10 @@ legacy_weight: 2
 significance: low
 related_uuids:
 - 1d718391-dc45-5e08-b3ce-4433a2600fac
+- 4323dd5f-bee6-5082-b484-a455b41aeeb2
+- dcaa1795-2ea5-51ba-8a9e-17482755c038
 ---
+
 
 
 A few days ago, a curious message was discovered by The Hamsters, a group of EM-transmission enthusiasts in the Tionisla system. A short time later, a combined effort from the Children of Raxxla and Several Other groups decoded the message and discovered it pointed to the Syreadiae JX-F c0 system in the so-called Formidine Rift. 

@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 Preparations are underway for The Distant Worlds Expedition gala at Skvortsov Orbital, but One explorer will be unable to attend: Commander Olivia Vespera, pilot of the expedition's fleet flagship, a Type-9 named Zombie Wasp IV. 
 
 At the time of writing, Commander Vespera is still at Beagle Point, prospecting for the necessary materials to synthesize 'jumponium', a colloquial moniker given by explorers to Frame Shift Drive injection. Without it, Vespera will be unable to return home. 

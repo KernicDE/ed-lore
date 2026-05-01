@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 The corporation Azimuth Biotech has outlined its plans to support the war effort against the Thargoids by improving ship anti-xeno firepower.
 CEO Torben Rademaker was interviewed on The Tau Ceti Journal’s official ICE-cast, where he explained:
 “As you may recall, one of the many reasons Aegis became redundant was its poor record in improving AX armaments past the initial rush of designs. Azimuth Biotech has established a research and development division specifically designed to correct their failings at a steady, sustainable pace.”

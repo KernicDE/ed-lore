@@ -4,7 +4,10 @@ title: Winters Claims Civilian Surveillance is Illegal
 slug: winters_claims_civilian_surveillance_is_illegal
 date: '3307-04-23'
 source: API
-summary: Shadow President Felicia Winters argues before Congress that the Proactive Detection Bureau violates the Federal Accord's constitutional guarantees of data security and privacy. Vice President Jerome Archer counters that the Domestic Counter-Terrorism Act is emergency legislation that temporarily suspends constitutional statutes.
+summary: Shadow President Felicia Winters argues before Congress that the Proactive
+  Detection Bureau violates the Federal Accord's constitutional guarantees of data
+  security and privacy. Vice President Jerome Archer counters that the Domestic Counter-Terrorism
+  Act is emergency legislation that temporarily suspends constitutional statutes.
 player_impact: None directly; this is a political statement.
 persons:
 - Felicia Winters
@@ -25,7 +28,9 @@ technologies:
 - Proactive Detection Bureau surveillance system
 - Dark-comms network
 arc_id: federal-politics
-modern_impact: Winters' constitutional challenge becomes a rallying point for civil liberties advocates and deepens the ideological divide within the Federation, contributing to the political instability that the corporatist movement exploits.
+modern_impact: Winters' constitutional challenge becomes a rallying point for civil
+  liberties advocates and deepens the ideological divide within the Federation, contributing
+  to the political instability that the corporatist movement exploits.
 legacy_weight: 4
 significance: medium
 related_uuids:
@@ -33,6 +38,7 @@ related_uuids:
 - bc50ffda-083d-5387-b532-bfc39ae6807f
 - f75a0955-badc-5c1c-894f-410860377f39
 ---
+
 
 Shadow President Felicia Winters has claimed that The Proactive Detection Bureau is unconstitutional as it violates the Federal Accord.
 In an address before Congress, she said:

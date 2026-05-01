@@ -4,8 +4,14 @@ title: Achilles Corp Initiative
 slug: achilles_corp_initiative
 date: '3304-11-29'
 source: GitHub
-summary: The Achilles Corporation announces plans to replace all robots destroyed in the spy robot scandal. Chairman Gus Weaver of the Sol division says the company will replace damaged robots free of charge. The Adenets Pro-Alliance Bond organises deliveries of robotics, computer components, and microcontrollers to Henslow Market in the Adenets system for manufacturing new PA912 administration robots. A kill order protects traders.
-player_impact: Independent pilots can deliver commodities to Henslow Market in the Adenets system and earn rewards. The initiative runs for one week.
+summary: The Achilles Corporation announces plans to replace all robots destroyed
+  in the spy robot scandal. Chairman Gus Weaver of the Sol division says the company
+  will replace damaged robots free of charge. The Adenets Pro-Alliance Bond organises
+  deliveries of robotics, computer components, and microcontrollers to Henslow Market
+  in the Adenets system for manufacturing new PA912 administration robots. A kill
+  order protects traders.
+player_impact: Independent pilots can deliver commodities to Henslow Market in the
+  Adenets system and earn rewards. The initiative runs for one week.
 persons:
 - Gus Weaver
 groups:
@@ -19,7 +25,9 @@ topics:
 - corporate expansion
 - scandal
 - trade
-modern_impact: Achilles' replacement initiative attempts to rebuild customer trust following the spy robot scandal by offering free replacements and securing supply chains through independent pilots.
+modern_impact: Achilles' replacement initiative attempts to rebuild customer trust
+  following the spy robot scandal by offering free replacements and securing supply
+  chains through independent pilots.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -27,7 +35,9 @@ related_uuids:
 - c6c25c0b-245e-5a2c-ac07-b80f49ac7246
 - d72ade11-9eb6-5dc4-a86d-07b7b98fffe5
 - c5cb5bec-f7cd-563c-9c57-d8f5ede49843
+- 8cc43f3f-da2a-5399-af1a-6a0bd65d1bab
 ---
+
 
 The Achilles Corporation has announced plans to replace all robots destroyed as a result of the recent spy robot scandal. 
 

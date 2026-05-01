@@ -42,6 +42,7 @@ related_uuids:
 
 
 
+
 **Pilots Federation ALERT**
 Jupiter Division, The breakaway faction from Core Dynamics, has been defeated in the HIP 54530 system.
 The Independent corporate nation met armed resistance from a local faction, the Silver Legal Group, Which defeated them in battle With the aid of independent ships. Director Theodore Sullivan announced:

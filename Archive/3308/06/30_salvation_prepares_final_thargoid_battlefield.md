@@ -43,6 +43,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The HIP 22460 system will be the stage for a decisive strike against the Thargoids by Azimuth Biotech and the superpowers.
 The following message was broadcast across all public channels:

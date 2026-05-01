@@ -35,6 +35,7 @@ related_uuids:
 
 
 
+
 A spokesperson for The Future of Segovan has announced that the Federation's appeal for construction materials has come to an end. Thousands of tonnes of material were delivered to Obsidian Orbital This week, Which will be used to construct a new outpost on HIP 17225 A 1. In a brief statement, the spokesperson thanked those who had contributed to the initiative: 
 
 "The Federal pilots who supported this campaign have performed a great service. The new outpost will provide the Federation With a valuable trade and resource-processing hub. You have made the Federation proud." 

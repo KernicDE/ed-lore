@@ -4,7 +4,8 @@ title: Jokers’ Deck Hit by Art Thief
 slug: jokers_deck_hit_by_art_thief
 date: '3307-10-12'
 source: API
-summary: The secretive gambling circle Jokers' Deck is raided by the Winking Cat, who steals an ancient Joker playing card and replaces it with a winking cat graphic.
+summary: The secretive gambling circle Jokers' Deck is raided by the Winking Cat,
+  who steals an ancient Joker playing card and replaces it with a winking cat graphic.
 player_impact: None
 persons:
 - Francesca Wolfe
@@ -15,10 +16,18 @@ groups:
 topics:
 - crime
 - investigation
-modern_impact: The Winking Cat remains the galaxy's most legendary and elusive art thief.
+modern_impact: The Winking Cat remains the galaxy's most legendary and elusive art
+  thief.
 legacy_weight: 2
 significance: low
+related_uuids:
+- a8743406-6f85-50fd-852d-ff3343df1801
+- c6ad335b-e800-558b-8000-dc2fcc040210
+- 9b8e3164-1ff4-53b1-a9a9-98345feffa3f
+- 1810c569-1a21-571d-b879-76241b063c19
+- 218ec85d-706e-5e3d-bb5b-9a63e443707c
 ---
+
 
 The secretive gambling circle of the super-rich has been raided by the notorious criminal known only As the Winking Cat.
 The information was revealed by Francesca Wolfe of the Wallglass Investigations Agency, who infiltrated the event. Her report, Which was relayed from an unidentified location, has been published by her fellow detective Erik Gunnarson.

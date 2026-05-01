@@ -30,7 +30,11 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - ab73ea19-a24f-5746-8a8a-ef3cedadef79
+- 4b20ea1c-afb5-5356-90d9-815b492969ca
+- d90b7c02-020e-520f-815c-2bd3a0fc3e4d
+- 2a2cdaef-e094-5db7-974b-7360e6fe87cc
 ---
+
 
 
 After Several days of fighting between Imperial forces and The mercenaries of the Cayutorme Syndicate, order has been restored to the Cayutorme system. With the mercenary fleet defeated, the leaders of the Cayutorme Syndicate have petitioned for a ceasefire. Kyle Kurowski, the leader of the organisation, has not been seen since hostilities began. 

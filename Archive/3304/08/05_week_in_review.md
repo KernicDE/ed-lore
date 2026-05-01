@@ -56,7 +56,9 @@ related_uuids:
 - f34b7bf5-b5e4-5225-99e1-c8455243bf42
 - 56f4cda2-9705-5b62-a5f5-cfd9aca1188b
 - 400a59da-3feb-50c0-95c2-68ea9c6f4ef2
+- be7c559a-d6be-5295-9655-1c30e0ee4ed0
 ---
+
 
 
 Here are This week’s major stories. 

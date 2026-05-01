@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 Business leaders Darnielle's Progress in The Maia system have announced a sale of meta-alloys. Their spokesman, Larry Oldman, had This to say. 
 
 "We have a stockpile of meta-alloys, and in the current climate it would be foolish for us to ignore the income potential for them." 

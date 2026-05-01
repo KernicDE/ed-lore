@@ -4,18 +4,25 @@ title: Community Goal  The Rise to Power Concludes
 slug: community_goal_the_rise_to_power_concludes
 date: '3302-07-14'
 source: GitHub
-summary: The final stage of the Rise to Power competition requires pilots to salvage precious gems and deliver them to Laura Elizabeth in the Meropis system. The salvage site location has been hidden, with only a cryptic signal provided as a clue.
-player_impact: Salvage precious gems and deliver them to Laura Elizabeth in the Meropis system.
+summary: The final stage of the Rise to Power competition requires pilots to salvage
+  precious gems and deliver them to Laura Elizabeth in the Meropis system. The salvage
+  site location has been hidden, with only a cryptic signal provided as a clue.
+player_impact: Salvage precious gems and deliver them to Laura Elizabeth in the Meropis
+  system.
 persons: []
 groups: []
 locations:
 - Meropis
 - Laura Elizabeth
 technologies: []
-modern_impact: Concludes the inaugural Rise to Power series, establishing a recurring format for competitive factional community goals with puzzle elements.
+modern_impact: Concludes the inaugural Rise to Power series, establishing a recurring
+  format for competitive factional community goals with puzzle elements.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 462ae808-a270-5d4a-b32e-39abf9c6723a
 ---
+
 
 The third and final stage of the Rise to Power campaign is about to begin. 
 

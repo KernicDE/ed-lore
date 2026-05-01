@@ -4,7 +4,8 @@ title: Rackham Fundraiser Secures Political Backing
 slug: rackham_fundraiser_secures_political_backing
 date: '3309-05-01'
 source: API
-summary: Zachary Rackham holds a lavish fundraiser revealing Anya Blackriver as campaign manager, celebrity endorsements, and Congressman Harlan Turk as running mate.
+summary: Zachary Rackham holds a lavish fundraiser revealing Anya Blackriver as campaign
+  manager, celebrity endorsements, and Congressman Harlan Turk as running mate.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Rackham
@@ -23,7 +24,12 @@ locations:
 - Sol
 topics:
 - politics
-modern_impact: Trevino's observation that 'Campaign finance laws forbid Zachary Rackham from using his own wealth to pay for his presidential bid' explains the fundraising necessity. The reveal of Blackriver as 'the originator of his Just Like Me slogan' shows professional PR. The endorsement from 'Sir' Randolph Plaskett of the Knights of Enterprise and media barons Metaxas and McFarlane signal establishment support. Turk's defection from the Republican Party is significant.
+modern_impact: Trevino's observation that 'Campaign finance laws forbid Zachary Rackham
+  from using his own wealth to pay for his presidential bid' explains the fundraising
+  necessity. The reveal of Blackriver as 'the originator of his Just Like Me slogan'
+  shows professional PR. The endorsement from 'Sir' Randolph Plaskett of the Knights
+  of Enterprise and media barons Metaxas and McFarlane signal establishment support.
+  Turk's defection from the Republican Party is significant.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -32,6 +38,7 @@ related_uuids:
 - d5819466-08f7-501e-b3cf-cbf9bd4494c1
 - 2bb62465-0b86-5863-b66c-78972defe368
 ---
+
 
 Independent presidential candidate Zachary Rackham held a gala ball for some of the Federation’s wealthy and influential elite.
 The Federal Times published a report from political correspondent Sofia Trevino:

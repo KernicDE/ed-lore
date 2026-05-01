@@ -35,7 +35,13 @@ significance: medium
 related_uuids:
 - aec9d33c-4ebd-52fa-a92d-a554a732713c
 - c420d96a-5881-532d-890a-b2030f3e6df9
+- 5abf750a-81f7-5db8-902c-f46f404406d7
+- b7e68809-4f8a-551a-af69-b70610b58783
+- 0d43ffc6-323d-52a2-b50a-99e8b1ad9395
+- 6184c3e8-42fc-5280-8501-a409ced15497
+- c0449407-9fe0-5061-bb86-286175a89cd4
 ---
+
 
 
 Over The course of The weekend Hundreds of tons of Bio-Waste were dumped in and around stations in 78 Ursae Majoris. This system is currently undergoing preparations for President Halsey's arrival as part of her planned grand tour. A group calling themselves 'The Canonn' claims responsibility for This act.  

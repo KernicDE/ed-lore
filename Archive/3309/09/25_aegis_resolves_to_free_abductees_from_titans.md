@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 With human life-signs now confirmed beneath the hulls of the Thargoid Titans, the urgency to mount a rescue mission has intensified. 
 Many pilots equipped with the updated pulse wave xeno scanner detected signals that match living humans on every Titan mothership. As a result, Aegis has prioritised finding a way to recover the abducted. A potential solution has emerged, reportedly via a low-ranking engineer within Sirius Corporation.
 Director Ivano Colombera, the Empire’s scientific liaison to Aegis, explained:

@@ -29,7 +29,10 @@ significance: high
 related_uuids:
 - 82d727a3-9d9d-5f49-bca0-9074dcbf0f0f
 - a97a5c3f-fd7e-5d1c-894b-0d50b6d2cc83
+- 7fc202ae-1595-550a-a5bb-a00ccb711675
+- 42c5df88-8373-5fc5-8246-f37df3368e6e
 ---
+
 
 
 When an outpost belonging to The insurgent organisation Emperor's Dawn was discovered in the Federal system of Kausalya two weeks ago, Federal President Zachary Hudson's response was swift and unequivocal. Promising to "mete out such punishment that the very fires of hell will seem but guttering candles in comparison," Hudson promptly despatched a military fleet to Kausalya. Today, Admiral Kirby of the Federal Navy confirmed that the initiative to rout the dissidents had been an unmitigated success: 

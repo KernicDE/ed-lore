@@ -30,7 +30,10 @@ significance: medium
 related_uuids:
 - 148bcbc5-bd79-5fbf-ab67-4020c24a0ca8
 - fa32baf7-800b-5d12-a610-230bab4a9569
+- 4b20ea1c-afb5-5356-90d9-815b492969ca
+- 32b3485a-5b8b-5ec3-af24-ae8f69d54bd7
 ---
+
 
 
 The office of Edmund Mahon has announced the signing of the Prime Minister's One thousandth trade agreement. This is a momentous achievement for the Prime Minister and his supporters, and a testament to the hard work and dedication of Independent pilots throughout the Alliance. The achievement is impressive given the Prime Minister's relatively small number of supporters. It is also Important to remember that Mahon's space doesn't have the reach of the combined borders of the Federation, and has Far less than the Empire. It is evidence that the Alliance should be counted among the galaxy's major powers, and a pointed reminder that it intends to maintain Its autonomy. 

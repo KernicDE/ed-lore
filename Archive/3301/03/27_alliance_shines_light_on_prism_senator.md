@@ -36,7 +36,12 @@ significance: low
 related_uuids:
 - 7b3115d6-7394-55ba-9c61-30a919b3d0e3
 - f4020671-2347-5640-b71c-cf292f863431
+- e2a08ba7-b894-5212-9fd5-3c1e955a59d2
+- 460a7068-a7a1-55fc-a73b-35c3a7fcd6e0
+- c2694e4f-6082-57fd-a7ce-9ddec5165b3f
+- 4e4e905b-73b7-54be-a20b-4c447f8ff3e7
 ---
+
 
 
 In an open letter addressed for The attention of Senator Kahina Tijani Loren, Alliance representatives from Alioth have extended an invitation for her to visit their Star-systems With the assurance The her trip will be free from “bungling bureaucracy, petty-minded procrastinators and deranged docking debacles.” 

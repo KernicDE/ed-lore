@@ -4,8 +4,13 @@ title: Building a New Ship   BD+03 2338
 slug: building_a_new_ship_bd03_2338
 date: '3301-02-23'
 source: GitHub
-summary: President Halsey refused Admiral Vincent's request for additional forces to attack Polahukuna. In response, the Federal Navy and Core Dynamics announced plans to commission a new capital ship, to be built in the recently recaptured shipyards of BD+03 2338. Admiral Vincent's personal contingent will remain in the system to protect the construction site.
-player_impact: Pilots can support the Federal Navy and Core Dynamics in protecting the capital ship construction in BD+03 2338, or potentially disrupt it.
+summary: President Halsey refused Admiral Vincent's request for additional forces
+  to attack Polahukuna. In response, the Federal Navy and Core Dynamics announced
+  plans to commission a new capital ship, to be built in the recently recaptured shipyards
+  of BD+03 2338. Admiral Vincent's personal contingent will remain in the system to
+  protect the construction site.
+player_impact: Pilots can support the Federal Navy and Core Dynamics in protecting
+  the capital ship construction in BD+03 2338, or potentially disrupt it.
 persons:
 - Admiral Vincent
 - Jasmina Halsey
@@ -17,10 +22,22 @@ locations:
 topics:
 - war
 - politics
-modern_impact: The construction of a new Federal capital ship in BD+03 2338 represented a significant military investment despite Halsey's reluctance to commit additional forces to Polahukuna.
+modern_impact: The construction of a new Federal capital ship in BD+03 2338 represented
+  a significant military investment despite Halsey's reluctance to commit additional
+  forces to Polahukuna.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 3dbbe455-8adc-5c5b-a970-8fea2d0c9883
+- 85cf9186-db93-5b83-9005-b93e35f40528
+- 4ce471c6-afd4-5570-8422-b2d939bb8d7a
+- f6b14119-9ca9-541e-ac5a-c0b07124e47e
+- a32a7693-c60a-50fa-87d9-09447bb36976
+- df250e77-95ad-5b74-8d41-7b759ceddd3e
+- 1b595dd2-6d2f-5109-a581-58e28c039218
+- 372139df-9e72-50dc-a03c-72bdef751ba2
 ---
+
 
 Despite Admiral Vincent's strong words during yesterday's press conference, President Halsey has refused The Admiral's request to send additional forces for The attack on Polahukuna. 
 

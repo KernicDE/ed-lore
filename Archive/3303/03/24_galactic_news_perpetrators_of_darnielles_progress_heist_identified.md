@@ -36,7 +36,10 @@ significance: medium
 related_uuids:
 - 765ba218-1e30-57c6-abe9-c6e9d65173c5
 - b0b2232a-85c9-5e3b-9614-64d46c7495b1
+- 677d3fc6-788c-559a-90dd-1847201f631f
+- cd962620-775d-5c9e-93e9-c25b0edfdb19
 ---
+
 
 
 Three of The Five individuals responsible for the recent theft of meta-alloys from Darnielle's Progress have been positively identified, following analysis of starport security footage. Remarkably, One of the perpetrators has been acknowledged as Commander Salomé, also known as Kahina Tijani Loren. 

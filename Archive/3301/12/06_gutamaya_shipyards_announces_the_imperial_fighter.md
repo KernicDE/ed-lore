@@ -4,8 +4,11 @@ title: Gutamaya Shipyards Announces the Imperial Fighter
 slug: gutamaya_shipyards_announces_the_imperial_fighter
 date: '3301-12-06'
 source: GitHub
-summary: Gutamaya Shipyards announces the Imperial Fighter, a CQC Championship vessel designed by Pascal Roux as a tribute to the late Emperor Hengist Duval, balancing defence, firepower and manoeuvrability with two small hardpoints.
-player_impact: The Imperial Fighter will be available in CQC Championships in December and on general sale in early 3302.
+summary: Gutamaya Shipyards announces the Imperial Fighter, a CQC Championship vessel
+  designed by Pascal Roux as a tribute to the late Emperor Hengist Duval, balancing
+  defence, firepower and manoeuvrability with two small hardpoints.
+player_impact: The Imperial Fighter will be available in CQC Championships in December
+  and on general sale in early 3302.
 persons:
 - Pascal Roux
 - Hengist Duval
@@ -20,10 +23,18 @@ technologies:
 - Imperial Fighter
 - Eagle
 - F63 Condor
-modern_impact: The Imperial Fighter expands CQC options and serves as a lasting tribute to Emperor Hengist Duval's legacy.
+modern_impact: The Imperial Fighter expands CQC options and serves as a lasting tribute
+  to Emperor Hengist Duval's legacy.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 2e393213-981e-5305-bc3b-8a07fa380559
+- 1a402d25-6d25-5d43-b035-af4f364f323d
+- 5a0d6b12-099c-5111-9caa-68a035d80287
+- b79fa0f7-dda1-56fe-898e-906bb49857f8
+- 2ef47a0a-7b3e-5b95-ad44-740dd29c6b60
 ---
+
 
 In September, Gutamaya Shipyards released a new version of the enduringly popular Eagle. This month, the company has announced the launch of a new fighter designed specifically for the CQC Championship – the Imperial Fighter. Gutamaya has said that The small, manoeuvrable Vessel will be ideally suited to close-quarters dogfights, and more than capable of going toe-to-toe With Other CQC fighters. 
 

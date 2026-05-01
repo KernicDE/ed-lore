@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Following news that a Federal convoy was destroyed by Thargoid vessels in The Pleiades Sector IR-W d1-55 system, Lieutenant Jarah Kael of the Federal Navy has addressed rumours that the Thargoids may have attacked in self-defence. 
 
 “There has been speculation that the Thargoid attack was an act of self-preservation. Nothing could be Further from the truth.” 

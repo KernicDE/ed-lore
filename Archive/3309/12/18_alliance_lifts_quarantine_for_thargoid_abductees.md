@@ -4,7 +4,9 @@ title: Alliance Lifts Quarantine for Thargoid Abductees
 slug: alliance_lifts_quarantine_for_thargoid_abductees
 date: '3309-12-18'
 source: API
-summary: The Alliance ends quarantine for Thargoid abductees, with Mahon calling on other superpowers to follow suit, while medical institutes and Azimuth Biotech oppose the decision.
+summary: The Alliance ends quarantine for Thargoid abductees, with Mahon calling on
+  other superpowers to follow suit, while medical institutes and Azimuth Biotech oppose
+  the decision.
 player_impact: Not specifically mentioned — this is a policy announcement.
 persons:
 - Edmund Mahon
@@ -21,13 +23,19 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Mahon's call — 'We must not treat these unfortunates as criminals or laboratory specimens. During this dark time of war, let our humanity shine through' — frames the Alliance as morally superior. Driscoll's analysis — 'asking the other superpowers to follow suit frames the Alliance as a more humanitarian society than its counterparts' — confirms the political calculation. Azimuth's offer for 'cutting-edge xenological detection procedures' is a commercial opportunity disguised as science.
+modern_impact: Mahon's call — 'We must not treat these unfortunates as criminals or
+  laboratory specimens. During this dark time of war, let our humanity shine through'
+  — frames the Alliance as morally superior. Driscoll's analysis — 'asking the other
+  superpowers to follow suit frames the Alliance as a more humanitarian society than
+  its counterparts' — confirms the political calculation. Azimuth's offer for 'cutting-edge
+  xenological detection procedures' is a commercial opportunity disguised as science.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 1ed16e6f-a390-561a-9714-cbce1ac815a3
 - 023030b3-b87d-5220-9488-e82e00d7f4c4
 ---
+
 
 The Alliance has ended medical isolation for all citizens who were rescued from the Titans after being abducted by Thargoid vessels.
 Prime Minister Edmund Mahon’s official declaration was published by all newsfeeds:

@@ -4,8 +4,12 @@ title: Kumo Crew Campaign Starts Drug Production
 slug: kumo_crew_campaign_starts_drug_production
 date: '3307-07-15'
 source: API
-summary: The Kumo Crew procures enough materials to mass-produce helix, confirmed by the IHO as a new variant of onionhead. President Hudson, Princess Aisling and other leaders express outrage. Archon Delaine defends the drug as bringing happiness and income to his people.
-player_impact: Pilots delivered agronomic treatment, liquid oxygen and performance enhancers to Kumo City and fought to protect haulage vessels from pirate ships.
+summary: The Kumo Crew procures enough materials to mass-produce helix, confirmed
+  by the IHO as a new variant of onionhead. President Hudson, Princess Aisling and
+  other leaders express outrage. Archon Delaine defends the drug as bringing happiness
+  and income to his people.
+player_impact: Pilots delivered agronomic treatment, liquid oxygen and performance
+  enhancers to Kumo City and fought to protect haulage vessels from pirate ships.
 persons:
 - Zachary Hudson
 - Aisling Duval
@@ -34,14 +38,20 @@ technologies:
 - Performance enhancers
 - Dredger-class bulk cruiser
 arc_id: kumo-crew-rise
-modern_impact: The open production of onionhead gamma strain establishes the Kumo Crew as a major narcotics manufacturer and deepens the syndicate's ties to the Blue Viper Club, creating a distribution network that spans anarchic systems across the galaxy.
+modern_impact: The open production of onionhead gamma strain establishes the Kumo
+  Crew as a major narcotics manufacturer and deepens the syndicate's ties to the Blue
+  Viper Club, creating a distribution network that spans anarchic systems across the
+  galaxy.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 36c0ba02-5f13-5ac2-920b-5b3b99dca219
 - 99a40044-3a86-5461-91a1-da2156ab2f0b
 - ea0496c2-a753-54ad-b6de-0c3d9bf29edf
+- 9d504b23-ad0b-5f30-b024-01047817945d
+- 22e64f17-84fe-5324-b965-55888566498b
 ---
+
 
 **Pilots Federation ALERT**
 The Kumo Crew syndicate has procured enough materials to introduce a new product to the market.

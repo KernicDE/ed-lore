@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 The Distant Worlds 3 expedition has confirmed that the main flotilla has successfully departed Beagle Point, the historic destination that marked the terminus of the original Distant Worlds journey.
 Having reached this milestone, the expedition has now begun the next phase of its scientific programme across some of the least explored areas of the Milky Way: the Abyss, Acheron and Veils regions.
 Chief expedition astronomer Lynda Amanda ter Holt is coordinating the effort in collaboration with expedition command teams across the fleet. Ter Holt explained:

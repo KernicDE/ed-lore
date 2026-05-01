@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Professor Ishmael Palin has announced his intention to retire from The research institute he founded last year. In a statement, the professor explained the reasoning behind the decision: 
 
 "It has been a tremendous pleasure to be part of the discourse surrounding the Unknown Artefacts, and to share ideas and opinions With so Many passionate individuals. But there are dark forces at work in the galactic community – forces that exist in opposition to the ideals I hold most dear – and I lack the strength to continue fighting them." 

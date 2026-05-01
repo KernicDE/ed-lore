@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Many Independent pilots have already taken to their ships to test the anti-Thargoid weaponry recently developed by Aegis. Meanwhile, Aegis has assembled a team of specialists to analyse the results of these encounters and determine the new weapons’ efficacy. 
 
 Admiral Aden Tanner, Aegis’s military liaison, said: 

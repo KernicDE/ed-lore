@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 The acquisition of Lakon Spaceways by Core Dynamics has been revoked following revelations of illegal activity.
 An inquiry by the Independent Commission for Market Equality stated that former Core Dynamics CEO Jupiter Rochester “exerted unduly influence on Lakon shareholders, including bribery and blackmail”. This led to new appointees to the board of directors, who were paid to approve the hostile takeover.
 The inquiry also factored in the recent Federal High Court trial, Which proved that Jupiter Rochester was directly responsible for the destruction of Starship One in 3301. In both cases, he set up shell companies to move enormous funds via unregistered banking systems.

@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 The population of the Marlinist Colonies will vote to accept or decline the offer to become an Imperial protectorate.
 Emperor Arissa Lavigny-Duval’s proposal aims to build links between the Independent colony systems and the Empire, from where the Marlinists originally fled as political refugees in 3306.
 The Marlin Standard ran an editorial summarising the situation:

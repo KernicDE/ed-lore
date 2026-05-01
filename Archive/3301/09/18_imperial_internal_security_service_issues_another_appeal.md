@@ -4,8 +4,14 @@ title: Imperial Internal Security Service Issues another Appeal
 slug: imperial_internal_security_service_issues_another_appeal
 date: '3301-09-18'
 source: GitHub
-summary: The Imperial Internal Security Service issued a second public appeal for exploration data, explicitly stating it would be used to locate Emperor's Dawn bases. Agent Cope authorized the Cemiess Empire Party to reimburse pilots delivering reliable exploration data to Mackenzie Relay in the Cemiess system, as part of efforts to neutralize the insurgent threat.
-player_impact: Explorers can deliver exploration data to Mackenzie Relay in Cemiess to help the IISS locate Emperor's Dawn bases and earn reimbursement from the Cemiess Empire Party.
+summary: The Imperial Internal Security Service issued a second public appeal for
+  exploration data, explicitly stating it would be used to locate Emperor's Dawn bases.
+  Agent Cope authorized the Cemiess Empire Party to reimburse pilots delivering reliable
+  exploration data to Mackenzie Relay in the Cemiess system, as part of efforts to
+  neutralize the insurgent threat.
+player_impact: Explorers can deliver exploration data to Mackenzie Relay in Cemiess
+  to help the IISS locate Emperor's Dawn bases and earn reimbursement from the Cemiess
+  Empire Party.
 persons:
 - Cope
 groups:
@@ -21,7 +27,14 @@ technologies: []
 modern_impact: IISS using exploration data to locate Emperor's Dawn terrorist bases.
 legacy_weight: 2
 significance: low
+related_uuids:
+- aee6dedc-728c-5094-b072-e619c36322e4
+- 012c1d4a-4b45-52ab-aefb-91b6915d063d
+- 680cc302-2940-5f36-9420-81443a849e39
+- 9ff59063-097c-550c-a321-0accc12810d0
+- f5890d11-70d4-5eec-a1d0-76d4d9761389
 ---
+
 
 In a repeat of The events of last month, The Imperial Internal Security Service – the organisation responsible for domestic security throughout the Empire – has issued a second public appeal for exploration data. This time, however, the IISS is being explicitly clear about the reasons for the request. In a statement to the media, Agent Cope of the IISS said: 
 

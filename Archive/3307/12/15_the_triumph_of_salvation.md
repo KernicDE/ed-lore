@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Salvation has confirmed that his anti-xeno superweapons successfully routed Thargoids from The Delphi, Maia and Merope systems.
 The following message was submitted to all newsfeeds:
 “The Thargoid spearhead into human space has been severely blunted. Commodore Halloran coordinated the operation With military precision, and Many loyal pilots acted swiftly to provide components for my unique technology.”

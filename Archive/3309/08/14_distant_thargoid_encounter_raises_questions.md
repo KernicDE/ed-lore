@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 An independent explorer has reported an unusual incident involving a Thargoid vessel, hundreds of light years away from the ongoing invasion.
 Commander Renia Rakowski  told her story to Vox Galactica:
 “I’d been gathering exploration data for weeks without seeing another soul. Boring, I know, but I like a quiet life. As I jumped out of the Wregoe GA-X B3-0 system, my ship rocked violently and I panicked, thinking the hyperdrive had failed. I barely saw it at first, black against the black of space, until its outline glowed. A Thargoid interceptor. Just like on the newsfeeds, but right outside my canopy.”

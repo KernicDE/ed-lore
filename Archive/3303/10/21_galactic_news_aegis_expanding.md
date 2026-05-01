@@ -31,7 +31,10 @@ significance: high
 related_uuids:
 - 2059a3f9-7e38-561d-833d-8cfee2749471
 - bbc1febe-2e73-5bd8-b87a-875c518ba8f6
+- e49426a3-760d-5f87-902f-2c2566578e16
+- d419b88a-de19-5028-b105-8b18ccccd9bd
 ---
+
 
 
 Following news that The Empire and Federation have withdrawn from the Pleiades Nebula, contractors In the core systems have reported that Aegis is poised to establish a number of outposts in the region. 

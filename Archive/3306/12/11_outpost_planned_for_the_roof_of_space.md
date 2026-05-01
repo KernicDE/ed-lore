@@ -4,7 +4,9 @@ title: 'Outpost Planned for ‘The Roof of Space’ '
 slug: outpost_planned_for_the_roof_of_space
 date: '3306-12-11'
 source: API
-summary: Multi-billionaire Zachary Rackham funds the construction of a permanent outpost in the HIP 58832 system, the farthest point above the galactic plane, for astronomical research.
+summary: Multi-billionaire Zachary Rackham funds the construction of a permanent outpost
+  in the HIP 58832 system, the farthest point above the galactic plane, for astronomical
+  research.
 player_impact: None
 persons:
 - Zachary Rackham
@@ -15,10 +17,18 @@ topics:
 - corporate expansion
 - exploration
 - research
-modern_impact: Rackham's Peak outpost remains a unique scientific and tourism destination at the galactic zenith.
+modern_impact: Rackham's Peak outpost remains a unique scientific and tourism destination
+  at the galactic zenith.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 09a1615f-e58a-5a91-9d2e-71b9a4edfbe2
+- 37a69743-987e-5990-848f-308a9738a453
+- bb14dd59-b241-5db1-8759-dff2555f5ee3
+- ed6adddd-c9c1-5fb8-ab02-8185dd679153
+- 23beeed6-390e-5fd6-9dc6-e8f928c68a88
 ---
+
 
 Multi-billionaire Zachary Rackham is constructing a permanent outpost at The farthest system above the galactic plane.
 The orbital outpost will be Located within the HIP 58832 system. This is commonly held to be at the galactic zenith, One of the highest locations that can practically be reached. 

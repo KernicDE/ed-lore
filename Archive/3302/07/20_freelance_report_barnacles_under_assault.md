@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 The recent meta-alloy rush has left Many of the barnacles in the Pleiades Nebula barren. 
 
 As Many scramble to meet the high demand for the material, it seems the Federation lacks the resources to provide adequate defence. 

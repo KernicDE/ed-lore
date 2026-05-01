@@ -43,6 +43,7 @@ related_uuids:
 ---
 
 
+
 A potential connection between The NMLA’s dark-comms network and Imperial Intelligence has been made public by One of ACT’s co-leaders.
 Captain Saskia Landau sent a personal statement to all major media outlets:
 “The majority of my career has been With the Imperial Internal Security Service, but I was seconded for a year to a classified project Run by Imperial Intelligence. To coordinate their operations, they use a sophisticated communications system known As the Omega Grid. This is designed to avoid detection or interception by enemies of the Empire.”

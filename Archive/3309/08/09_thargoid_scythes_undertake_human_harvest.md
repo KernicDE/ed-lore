@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 A new type of Thargoid vessel is hyperdicting human ships and capturing living passengers.
 Aegis has designated the hunter-class alien ship as a ‘Scythe’. Aden Tanner released an assessment of its capabilities:

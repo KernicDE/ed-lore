@@ -40,7 +40,10 @@ related_uuids:
 - e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
 - ee5b7c0a-d673-55fa-b1af-b0e73f400736
 - ef028c66-1901-5fef-af9f-2c741a9066b6
+- 3f8f3a76-f995-5a02-81c8-2fbc1af760bd
+- 3040626c-fed5-53d9-b5f1-66c2cb11eb25
 ---
+
 
 
 The fall of Jupiter Division has undermined the popular movement calling for the Federation to be governed by corporations.

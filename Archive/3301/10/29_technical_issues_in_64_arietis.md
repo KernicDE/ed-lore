@@ -4,8 +4,13 @@ title: Technical Issues in 64 Arietis
 slug: technical_issues_in_64_arietis
 date: '3301-10-29'
 source: GitHub
-summary: Weyn Dock in the 64 Arietis system became the latest starport to experience mysterious technical issues, following similar breakdowns in Warkushanui. Technical supervisor Laura Bishop reported power outages and widespread system failures over the past 24 hours, with the cause still under investigation.
-player_impact: Pilots visiting 64 Arietis should be prepared for potential service disruptions at Weyn Dock. The pattern of malfunctions across multiple systems suggests a systemic issue that may worsen before a solution is found.
+summary: Weyn Dock in the 64 Arietis system became the latest starport to experience
+  mysterious technical issues, following similar breakdowns in Warkushanui. Technical
+  supervisor Laura Bishop reported power outages and widespread system failures over
+  the past 24 hours, with the cause still under investigation.
+player_impact: Pilots visiting 64 Arietis should be prepared for potential service
+  disruptions at Weyn Dock. The pattern of malfunctions across multiple systems suggests
+  a systemic issue that may worsen before a solution is found.
 persons:
 - Laura Bishop
 locations:
@@ -14,10 +19,18 @@ locations:
 - Warkushanui
 topics:
 - construction
-modern_impact: Documents the spreading technological plague affecting starports across inhabited space.
+modern_impact: Documents the spreading technological plague affecting starports across
+  inhabited space.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 61070d7f-0da6-552d-8681-0f14a1910450
+- b63bb5fb-291c-50b0-9725-276fddc95bcc
+- 14545075-d991-564b-966a-ae710ef22c44
+- eb123ec1-f206-55d3-9064-7aa1643f3934
+- a3fcedac-1055-504c-a8e0-9bd9e5de1fff
 ---
+
 
 The starport of Weyn Dock in the 64 Arietis system has become the latest to be affected by mysterious technical issues, following a rash of inexplicable breakdowns and malfunctions at starports throughout the Warkushanui system. According to Laura Bishop, technical supervisor at Weyn Dock, the starport has experienced a range of problems over the past 24 hours: 
 

@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 A megaship service offering transport to Guardian space from Zende is now in operation. 
 
 The CEO of Zende Partners, Freya Taine, announced: 

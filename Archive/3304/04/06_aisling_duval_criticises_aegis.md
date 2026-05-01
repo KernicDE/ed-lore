@@ -31,7 +31,10 @@ significance: high
 related_uuids:
 - 629e8040-141e-57ac-925a-96afe9db9e08
 - 651f5567-c49c-5b05-acec-6ad65e05f08d
+- f064daa5-afc3-596d-a3b6-f073815d5b64
+- 9a1c882c-9dde-516e-8448-2198e8dd81f8
 ---
+
 
 
 In a public interview, Princess Aisling Duval levelled criticism at Aegis in relation to The ongoing Thargoid conflict. 

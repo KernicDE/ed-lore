@@ -4,7 +4,9 @@ title: The Golconda Generation
 slug: the_golconda_generation
 date: '3305-11-11'
 source: GitHub
-summary: Professor Elizabeth Perez studies the Golconda's unique culture, noting their isolationist tendencies, recognisable social structure, and contentment with spacefaring existence. She warns that contact with outsiders could irrevocably damage the society.
+summary: Professor Elizabeth Perez studies the Golconda's unique culture, noting their
+  isolationist tendencies, recognisable social structure, and contentment with spacefaring
+  existence. She warns that contact with outsiders could irrevocably damage the society.
 player_impact: None
 persons:
 - Elizabeth Perez
@@ -16,13 +18,15 @@ topics:
 - research
 - exploration
 - ship
-modern_impact: The anthropological study raises awareness about the fragility of isolated cultures and the need for careful first contact protocols.
+modern_impact: The anthropological study raises awareness about the fragility of isolated
+  cultures and the need for careful first contact protocols.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 8166c06a-f366-5f9c-84ac-846f243da58c
 - 42b2a824-dda6-5beb-ae9d-99f1e5690520
 ---
+
 
 The culture of the generation ship Golconda has been examined by Professor Elizabeth Perez, head of anthropology at Orion Independent University. 
 

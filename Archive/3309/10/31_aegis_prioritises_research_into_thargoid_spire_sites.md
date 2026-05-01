@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 The rapid evolution of Thargoid barnacle matrix sites into colossal spires has sparked intense scientific scrutiny and concern as to their purpose.
 Dr Maximo Fonseca, the Allied scientific liaison to Aegis, discussed recent developments in an article for The Empirical:
 “There’s no doubt that these twisting, biomechanical towers are important to the Thargoids. Each site is defended by highly aggressive drones, including a new type designated the ‘Banshee’. Larger Thargoid vessels also routinely come and go, in a manner similar to ships docking with an outpost.”

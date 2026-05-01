@@ -30,6 +30,7 @@ related_uuids:
 
 
 
+
 A spokesperson for The Pleiades Resource Enterprise has announced that Its appeal for exploration data was enthusiastically received by the galactic community. Hundreds of pilots contributed to the campaign by sweeping the Pleiades Nebula and delivering the resultant astronomical data to PRE Logistics Support Gamma in the Pleiades Sector IH-V c2-5 system. 
 
 The organisation's spokesperson released The following statement: 

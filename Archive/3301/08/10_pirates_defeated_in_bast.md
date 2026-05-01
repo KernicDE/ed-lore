@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Official sources at Hart Station have confirmed that efforts to eliminate pirate vessels targeting medical supply ships in The region have been resoundingly successful. The Union of Bast Liberals, Which placed bounties on the pirates, has stated that a total of 1,869 Independent pilots helped to thin the bandits’ numbers, thereby allowing the much-need Cerberus antidote to reach systems affected by the disease. Consequently, the Cerberus Plague has been eliminated from The following systems: 
 
 Cantjarisni 

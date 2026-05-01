@@ -36,7 +36,10 @@ significance: high
 related_uuids:
 - 5677c891-a942-5f45-a9a9-078762eb519e
 - f5911935-7f3f-5c4b-aea7-90de0e7334f5
+- 0b443e30-902a-5de6-a5f6-ee994e6a69b7
+- 00be4816-785d-537c-9e05-ba4677220927
 ---
+
 
 
 In a speech before Congress, Shadow President Felicia Winters called for an open and thorough investigation into The allegations made in recent articles posted by The Federal Times: 

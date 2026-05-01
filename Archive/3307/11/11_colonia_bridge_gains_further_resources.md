@@ -24,6 +24,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Successful campaigns in The Alcor and Colonia systems will result in new megaships being added to the Colonia Bridge.
 Large quantities of ceramic composites, computer components and thermal cooling units were provided at either end of the route between the core systems and the distant Colonia region.

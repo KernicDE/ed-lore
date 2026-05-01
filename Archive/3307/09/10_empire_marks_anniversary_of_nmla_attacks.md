@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 A day of mourning has been declared across The Empire to mark the first anniversary of the NMLA’s Imperial starport bombings.
 On Thursday the 10th of September 3306, Imperial stations in the Cemiess, Gabjaujis, LHS 4031 and Rabh systems were attacked without warning. Over sixty thousand people were killed and twice as Many wounded by powerful explosives that delivered a caustic enzyme payload.
 The Neo-Marlinist Liberation Army is an extremist paramilitary group that is dedicated to reforming Marlin Duval’s original republican government. Prior to these bombings, it had only performed minor strikes With low casualties.

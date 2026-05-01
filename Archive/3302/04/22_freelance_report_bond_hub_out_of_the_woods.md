@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 Following weeks of tireless meta-alloy harvesting, a team working under the direction of Professor D Luffy at Bond Hub in the Varati system has finally been able to match the success achieved by the teams at Obsidian Orbital. 
 
 In a brief interview, Professor Luffy said: 

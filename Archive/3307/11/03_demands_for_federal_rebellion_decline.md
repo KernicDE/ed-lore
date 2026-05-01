@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 Many factions have seceded from The Federation in recent months, but recent polls suggest the likelihood of Further withdrawals is waning.
 The Federal Times published an update on the situation by political correspondent Sofia Trevino:
 “Some negative reaction to the Proactive Detection Bureau was anticipated. But it’s unlikely that Congress foresaw nearly forty systems abandoning the Federal Accord, as their governing factions declared Independence.”

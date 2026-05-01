@@ -30,7 +30,9 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - d7ee12d3-53dc-5c8b-80f0-0309a7f56575
+- f15aa0ae-a808-58d8-9d63-369a333a5dd6
 ---
+
 
 
 Princess Aisling Duval has made an unexpected announcement regarding her relationship With Federal Ambassador Jordan Rochester.  

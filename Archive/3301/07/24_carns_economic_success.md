@@ -4,8 +4,12 @@ title: Carns Economic Success
 slug: carns_economic_success
 date: '3301-07-24'
 source: GitHub
-summary: Chief Communications Officer Ramon Lamor announced the successful upgrade of Humason Orbital's economy to high-tech. He dismissed previous civic disruption reports as isolated elements who have since been brought onboard with the economic plan. The development promises a new era of prosperity for the Carns system.
-player_impact: Traders can expect new high-tech commodities and opportunities at Humason Orbital in Carns.
+summary: Chief Communications Officer Ramon Lamor announced the successful upgrade
+  of Humason Orbital's economy to high-tech. He dismissed previous civic disruption
+  reports as isolated elements who have since been brought onboard with the economic
+  plan. The development promises a new era of prosperity for the Carns system.
+player_impact: Traders can expect new high-tech commodities and opportunities at Humason
+  Orbital in Carns.
 persons:
 - Ramon Lamor
 groups:
@@ -15,10 +19,16 @@ locations:
 topics:
 - trade
 - corporate expansion
-modern_impact: Carns successfully transitions from mining to high-tech economy, though reports suggest the transition involved suppressing dissent.
+modern_impact: Carns successfully transitions from mining to high-tech economy, though
+  reports suggest the transition involved suppressing dissent.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 4a00c1ed-084e-53ca-9dd4-1205bc96641e
+- 664d9565-5ac7-56c3-95e3-4d331dcc5fb5
+- edc8a7ec-e431-50dd-b349-89b22cc7be08
 ---
+
 
 Newly promoted Chief Communications Officer Ramon Lamor held an enthusiastic press conference announcing The success of Humason Orbital’s project to upgrade Its economy to High Tech. 
 

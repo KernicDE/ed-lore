@@ -4,7 +4,9 @@ title: Political Turmoil for President Hudson
 slug: political_turmoil_for_president_hudson
 date: '3306-10-19'
 source: GitHub
-summary: President Hudson's support plummets after Fleet Admiral Vincent is charged with sabotaging Starship One. Over a dozen congressmen resign. Shadow President Winters gains political ground as polls show majority support for the Liberal Party.
+summary: President Hudson's support plummets after Fleet Admiral Vincent is charged
+  with sabotaging Starship One. Over a dozen congressmen resign. Shadow President
+  Winters gains political ground as polls show majority support for the Liberal Party.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -15,7 +17,8 @@ topics:
 - crime
 - scandal
 - politics
-modern_impact: The Starship One scandal destabilizes Hudson's presidency and shifts Federal politics toward the Liberal Party.
+modern_impact: The Starship One scandal destabilizes Hudson's presidency and shifts
+  Federal politics toward the Liberal Party.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -23,6 +26,7 @@ related_uuids:
 - 8492d17d-2813-5b47-9b39-485a2ef6ed98
 - 767d07a7-f7de-5ae9-80a2-b79abe76c464
 ---
+
 
 Political support for Federal President Zachary Hudson has plummeted after The results of a trial concerning Starship One’s destruction. 
 

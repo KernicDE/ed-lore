@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 According to officials at Hart Station, medical supply ships transporting The Cerberus Plague antidote from The starport are being targeted by pirates. Naturally, these attacks are substantially undermining attempts to eliminate the disease, Which Continues to affect a number of systems. One official said: 
 
 “It’s just despicable. I wouldn’t expect compassion from pirates, of course. But don’t they understand that This affects them, too? If the Cerberus Plague isn’t eliminated, it could spread to Every corner of the galaxy. Everyone will suffer, even the pirates. Do they think they’re immune or something?” 

@@ -26,6 +26,7 @@ related_uuids:
 ---
 
 
+
 Recent statements from Professor Steven Eisler of The Okinura Xenobiology Institute appear to have frustrated large sections of the scientific community.  
 
 Darius Maddox, presenter of weekly science broadcast The Face of the Universe, said, "Eisler isn't a field scientist – he's an academic – and to throw around the T-word Every time humanity encounters something it doesn't understand is irresponsible." 

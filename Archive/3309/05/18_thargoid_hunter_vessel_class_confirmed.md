@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 A new type of Thargoid vessel, first encountered within the Maelstroms, is interdicting ships in Thargoid controlled systems.
 Aegis highlighted the threat as part of its research into the Thargoid capital ships. Commodore Emil Varga, the Allied military liaison, gave this statement:

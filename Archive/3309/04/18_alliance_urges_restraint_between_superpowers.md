@@ -4,7 +4,9 @@ title: Alliance Urges Restraint Between Superpowers
 slug: alliance_urges_restraint_between_superpowers
 date: '3309-04-18'
 source: API
-summary: The Alliance and independent systems call for de-escalation between the Empire and Federation after the Tavgi and Pichch conflicts, with Mahon sending diplomatic envoys.
+summary: The Alliance and independent systems call for de-escalation between the Empire
+  and Federation after the Tavgi and Pichch conflicts, with Mahon sending diplomatic
+  envoys.
 player_impact: Not specifically mentioned — this is a diplomatic report.
 persons:
 - Edmund Mahon
@@ -17,7 +19,12 @@ topics:
 - diplomacy
 entities: []
 arc_id: null
-modern_impact: Sterling's summary — 'their clash has led to bullish rhetoric from members of both Congress and the Senate' — captures the political climate. Kaine's practical concern — 'Military distractions between the Empire and Federation would place more responsibility on the Alliance for protecting independent systems from Thargoid invasion' — is self-interested but valid. The 'dozens of independent systems' supporting the Alliance's request shows broad concern.
+modern_impact: Sterling's summary — 'their clash has led to bullish rhetoric from
+  members of both Congress and the Senate' — captures the political climate. Kaine's
+  practical concern — 'Military distractions between the Empire and Federation would
+  place more responsibility on the Alliance for protecting independent systems from
+  Thargoid invasion' — is self-interested but valid. The 'dozens of independent systems'
+  supporting the Alliance's request shows broad concern.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -25,6 +32,7 @@ related_uuids:
 - 8c47b45e-0c93-55aa-96ca-ca5fb68c3582
 - e5597169-2e45-54d8-ac5a-f1955561c832
 ---
+
 
 Allied and independent leaders have called upon the Empire and the Federation to discourage faction hostilities following conflict in Tavgi.
 Political journalist Conrad Sterling summarised the latest developments for Vox Galactica:

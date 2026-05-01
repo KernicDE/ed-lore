@@ -41,7 +41,9 @@ related_uuids:
 - 3ed695e3-4334-5111-bc87-ca2a91079e93
 - 8dee1f0e-d35e-5640-b9ca-1da7335ce705
 - 94863186-a8f1-51f0-8ed0-e8f06ab768bb
+- 98c71f5f-b348-5f4b-ac65-187ffbbb1f4b
 ---
+
 
 
 The Alexandria megaship has been warned that it faces destruction if it attempts to travel to any Federal system.

@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-12-29'
 source: GitHub
-summary: Weekly summary covering Isolde Rochester's appointment as Shadow Vice President, Imperial senators demanding Hadrian Duval's recognition with Chancellor Blaine's dismissal, Pranav Antal's accusation that Vitadyne stole Utopian nanomedicine technology, superpower reactions to Nova Imperium, the Federal Navy's Duradrive order from Herculean Machines, and the conclusion of Senator Leatrix's festive campaigns.
+summary: Weekly summary covering Isolde Rochester's appointment as Shadow Vice President,
+  Imperial senators demanding Hadrian Duval's recognition with Chancellor Blaine's
+  dismissal, Pranav Antal's accusation that Vitadyne stole Utopian nanomedicine technology,
+  superpower reactions to Nova Imperium, the Federal Navy's Duradrive order from Herculean
+  Machines, and the conclusion of Senator Leatrix's festive campaigns.
 player_impact: None
 persons:
 - Felicia Winters
@@ -35,7 +39,10 @@ topics:
 - succession
 - trade
 - politics
-modern_impact: This week sees Federal political consolidation, Imperial succession demands reaching the Senate floor, and an international dispute over nanomedicine origins, with superpower tensions rising over Nova Imperium's potential impact on Aegis.
+modern_impact: This week sees Federal political consolidation, Imperial succession
+  demands reaching the Senate floor, and an international dispute over nanomedicine
+  origins, with superpower tensions rising over Nova Imperium's potential impact on
+  Aegis.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -45,7 +52,9 @@ related_uuids:
 - bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
 - 33ed0f71-7b49-5f6f-89eb-57bf7adef8d2
 - 770bbc53-d363-5422-91d6-1cb7c812168e
+- bfe64ab3-bf9f-5fb7-b218-e64ac5673997
 ---
+
 
 Here are This week’s main stories. 
 

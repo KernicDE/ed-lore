@@ -38,7 +38,11 @@ significance: medium
 related_uuids:
 - 012c1d4a-4b45-52ab-aefb-91b6915d063d
 - 4924b50c-a75f-5788-bdba-6183fc5ce6f2
+- 94894288-4bde-5f0e-b43e-78dbfe5359e5
+- a13a812b-0b6f-5ed2-a84f-05893db83bf5
+- b5b61765-8e3b-5065-8823-15a5c434f68a
 ---
+
 
 
 On patrol outside The busy starport of Brunel Station, Heike Security Forces pilot Kenji Nobu reluctantly admits that not all visitors to The station are being subjected to "the full scrutiny of the law". 

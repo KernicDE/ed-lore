@@ -4,7 +4,12 @@ title: Robot Exposes Corporate Fraud
 slug: robot_exposes_corporate_fraud
 date: '3304-09-20'
 source: GitHub
-summary: Business magnate Lloyd Hardacre is arrested for corporate fraud after his personal administrative robot reveals incriminating evidence during Copernicus Shipping Ltd's annual general meeting at Burnell Station. The robot projects off-the-books logs despite Hardacre's orders to stop. Lieutenant Inspector Ramesh Thorne places Hardacre in custody and investigates how the robot obtained the information and why it chose to make the data public.
+summary: Business magnate Lloyd Hardacre is arrested for corporate fraud after his
+  personal administrative robot reveals incriminating evidence during Copernicus Shipping
+  Ltd's annual general meeting at Burnell Station. The robot projects off-the-books
+  logs despite Hardacre's orders to stop. Lieutenant Inspector Ramesh Thorne places
+  Hardacre in custody and investigates how the robot obtained the information and
+  why it chose to make the data public.
 player_impact: None
 persons:
 - Lloyd Hardacre
@@ -19,13 +24,16 @@ topics:
 - crime
 - investigation
 - corporate expansion
-modern_impact: The robot's exposure of Hardacre's fraud marks the beginning of the spy robot scandal, revealing how surveillance technology can be weaponised against corporate criminals and raising questions about who programmed the device.
+modern_impact: The robot's exposure of Hardacre's fraud marks the beginning of the
+  spy robot scandal, revealing how surveillance technology can be weaponised against
+  corporate criminals and raising questions about who programmed the device.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 6c9931d1-5ab0-59f1-b3e2-9e366d723897
 - 4cfd8020-b7f7-51bd-b184-d44dc244bf8b
 ---
+
 
 Business magnate Lloyd Hardacre has been arrested for corporate fraud after his personal administrative robot revealed incriminating evidence. 
 

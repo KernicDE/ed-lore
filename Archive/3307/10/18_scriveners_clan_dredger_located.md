@@ -4,8 +4,10 @@ title: Scriveners Clan Dredger Located
 slug: scriveners_clan_dredger_located
 date: '3307-10-18'
 source: API
-summary: The Scriveners Clan dredger is located in the Oochost PC-C c29-0 system by independent pilots responding to Orion University's search request.
-player_impact: Independent pilots located the Scriveners Clan dredger in the Oochost PC-C c29-0 system.
+summary: The Scriveners Clan dredger is located in the Oochost PC-C c29-0 system by
+  independent pilots responding to Orion University's search request.
+player_impact: Independent pilots located the Scriveners Clan dredger in the Oochost
+  PC-C c29-0 system.
 persons:
 - Leland Pettigrew
 groups:
@@ -13,10 +15,21 @@ groups:
 - Scriveners Clan
 topics:
 - research
-modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic institutions and the nomadic society that inhabits it.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 874dce92-6aa5-5398-9666-601f0f3192b5
+- c8933782-6917-568d-8b1c-f9e89c7c9c7c
+- 909c6b12-f181-52cc-840a-6173b3164226
+- 9b5c7d9c-82e8-5050-ba09-ba7bbfb3c294
+- 111617dc-8948-5bee-803f-c4e0687be612
+- c088b0b5-f567-5c36-a53f-bfe840245090
+- ac1bbb46-c78b-5615-a13e-50145a1e363c
+- 7312e2dd-8f0e-5a8a-a65d-94eac2a92285
 ---
+
 
 **Pilots Federation ALERT**
 The Dredger inhabited by the nomadic Scriveners Clan has been Found within the Oochost PC-C c29-0 system.

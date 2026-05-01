@@ -42,7 +42,11 @@ significance: high
 related_uuids:
 - 14ba5e9a-bb38-565e-bbd0-768f8f401fd4
 - aa23706c-4b90-5e7d-a990-a2999a9ad379
+- 4d13f85d-d14e-58df-a03e-2c68ee8c632a
+- 9e750763-9346-5d86-907c-9b475b25570b
+- 96c8fc0c-2010-5641-919f-040d3d009e5a
 ---
+
 
 
 It has been over two weeks since The Kumo Crew's attempted expansion into The Imperial system of Cuchua was answered With 'Operation Davy Jones’. With Imperial Commanders combining their efforts to contain and eventually wipe out the pirate organisation, the Pegasi Sector has been under siege. With an end to the conflict nowhere in sight, we asked Commanders on both sides for their views on the offensive and their forces' efforts. 

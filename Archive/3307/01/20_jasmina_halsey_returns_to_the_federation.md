@@ -42,6 +42,7 @@ related_uuids:
 
 
 
+
 Former President Jasmina Halsey has arrived on Mars to stand as a witness in The upcoming trial of Fleet Admiral Lucas Vincent.
 Halsey was subpoenaed by the Federal High Court to testify before the jury. Although This was not legally enforceable, since she now lives beyond the Federation’s jurisdiction, she has acceded to the court’s request.
 Jasmina Halsey served as Federal president prior to the destruction of Starship One in 3301, Which Vincent is accused of arranging. She was recovered alive, but abandoned her political career and emigrated to the Alliance. She has since campaigned as a peace activist and acted as an adviser to Prime Minister Edmund Mahon.

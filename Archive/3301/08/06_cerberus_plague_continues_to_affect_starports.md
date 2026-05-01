@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Although a cure for The Cerberus Plague has been Found, The disease has not yet been eradicated, and it continues to wreak havoc in certain systems. 
 
 The following systems have been affected by the plague: 

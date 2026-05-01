@@ -4,7 +4,9 @@ title: Galactic News  Imperial Appeal Concludes
 slug: galactic_news_imperial_appeal_concludes
 date: '3303-08-25'
 source: GitHub
-summary: Secoya Emperor's Grace announces the successful conclusion of its luxury goods appeal for the Sigma Summit in the Secoya system. Imperial Senator Zemina Torval attended as guest of honour, dismissing criticism of the event.
+summary: Secoya Emperor's Grace announces the successful conclusion of its luxury
+  goods appeal for the Sigma Summit in the Secoya system. Imperial Senator Zemina
+  Torval attended as guest of honour, dismissing criticism of the event.
 player_impact: None
 persons:
 - Zemina Torval
@@ -20,10 +22,18 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: The Sigma Summit reinforces Imperial political traditions and demonstrates the continuing influence of senior senators like Zemina Torval in elite social circles.
+modern_impact: The Sigma Summit reinforces Imperial political traditions and demonstrates
+  the continuing influence of senior senators like Zemina Torval in elite social circles.
 legacy_weight: 1
 significance: low
+related_uuids:
+- efd65d3f-7979-5246-bab3-eafb35f535de
+- 0c27b4e9-c032-506e-bd8e-d04fd25820a9
+- 6b15c578-25a5-5989-9881-c3bdfee2e1dc
+- afa2946a-2753-52cb-82a8-fe9a11cda814
+- 6b50cfc8-14c1-52a0-9756-c30e81248c84
 ---
+
 
 Secoya Emperor's Grace has announced that Its appeal for luxury goods has been enthusiastically received by The galactic community. Hundreds of pilots responded to the appeal by delivering commodities to Joy Port for This year’s Sigma Summit, a conference attended by some of the Empire’s most powerful individuals. 
 

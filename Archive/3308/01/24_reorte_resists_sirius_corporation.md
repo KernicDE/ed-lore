@@ -4,7 +4,8 @@ title: Reorte Resists Sirius Corporation
 slug: reorte_resists_sirius_corporation
 date: '3308-01-24'
 source: API
-summary: The Reorte Mining Coalition challenges Sirius Corporation's presence in the Reorte system.
+summary: The Reorte Mining Coalition challenges Sirius Corporation's presence in the
+  Reorte system.
 player_impact: Not specifically mentioned — this is a political report.
 groups:
 - Alliance
@@ -18,10 +19,20 @@ topics:
 - alien contact
 - corporate expansion
 arc_id: null
-modern_impact: '"The presence of Sirius Corporation in the Reorte system at the Alliance''s invitation has been challenged by the controlling faction." Local resistance in Reorte exposes the tension between Alliance foreign policy and system-level sovereignty.'
+modern_impact: '"The presence of Sirius Corporation in the Reorte system at the Alliance''s
+  invitation has been challenged by the controlling faction." Local resistance in
+  Reorte exposes the tension between Alliance foreign policy and system-level sovereignty.'
 legacy_weight: 4
 significance: high
+related_uuids:
+- 8d828da1-f7f7-54e3-be37-f50cc54a3c82
+- 09bf0b89-95eb-572c-97eb-a94634287f81
+- 57f6fa04-b94b-5674-8344-d4f063bd6a45
+- 7086c7a6-47b9-5cfa-ac9e-c7c44ed36d6a
+- 205ec4c6-df7a-581e-8c72-20928345d6ce
+- b5be39b0-960e-54d6-bee8-fd556eb2bffb
 ---
+
 
 The presence of Sirius Corporation in The Reorte system at the Alliance’s invitation has been challenged by the controlling faction.
 In Its new role as a strategic defence partner, Sirius Corporation recently established itself in Several Alliance systems. But its megaship in Reorte, Chariot of Rhea, has Found itself blockaded by system security and refused permission to offload cargo or personnel.

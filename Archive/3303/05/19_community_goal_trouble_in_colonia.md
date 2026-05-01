@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - 37fdbad2-f575-597f-a4b5-7351cf4ec629
 - ea1d6149-a9b1-5788-8ca1-536b843a3721
+- 392aa4d2-b0f8-518a-bc22-b8e0c9acddf2
 ---
+
 
 
 Recent reports indicate that a number of unauthorised outposts have been detected in The Eol Prou Lw-L C8-215 system. A spokesperson for the Colonia Council confirmed that these outposts are currently occupied by group of agitators, Which have already begun targeting pilots in the system. 

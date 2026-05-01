@@ -4,7 +4,15 @@ title: Meet the Powers – Denton Patreus
 slug: meet_the_powers_denton_patreus
 date: '3301-07-31'
 source: GitHub
-summary: Political commentator Marcus Macmillan profiles Senator Denton Patreus. Seen as the muscular aspect of the Imperial Senate, he is powerful though lagging behind Lavigny-Duval and Torval. His low taxation record is funded through aggressive economic and military conquests. Critics accuse him of unethical strong-arm tactics, but supporters blame indebted governments. He commands deep credit reserves and a formidable fleet from his Majestic-class Interdictor 'Imperial Freedom'. During the Emperor's illness he called for succession by popularity rather than blood, but since Hengist Duval's recovery he has steadfastly supported the Emperor, though his break from tradition may have cost him popular support.
+summary: Political commentator Marcus Macmillan profiles Senator Denton Patreus. Seen
+  as the muscular aspect of the Imperial Senate, he is powerful though lagging behind
+  Lavigny-Duval and Torval. His low taxation record is funded through aggressive economic
+  and military conquests. Critics accuse him of unethical strong-arm tactics, but
+  supporters blame indebted governments. He commands deep credit reserves and a formidable
+  fleet from his Majestic-class Interdictor 'Imperial Freedom'. During the Emperor's
+  illness he called for succession by popularity rather than blood, but since Hengist
+  Duval's recovery he has steadfastly supported the Emperor, though his break from
+  tradition may have cost him popular support.
 player_impact: None
 persons:
 - Denton Patreus
@@ -20,10 +28,23 @@ locations:
 topics:
 - politics
 - succession
-modern_impact: Profile reveals Patreus as a militarily powerful but politically compromised senator whose populist succession bid may have alienated traditionalists.
+modern_impact: Profile reveals Patreus as a militarily powerful but politically compromised
+  senator whose populist succession bid may have alienated traditionalists.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 851a00f1-7638-598a-bfd2-76d4c7c2972e
+- 56b718e2-4c9f-5664-b63e-9f87139379fe
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- 28320f68-9109-532f-8151-4aa77b6df54f
+- b1618ea1-d907-5c5d-99ce-ee6f47a2758c
+- 44041048-a0af-5bd1-9e8e-2143e5856c57
+- 5a0d6b12-099c-5111-9caa-68a035d80287
+- bef5e1fc-35e0-511b-81be-d0e22866b0e2
+- 30353c5e-cb66-5b25-a591-cbe1fc83465a
+- 7cd5f83a-9675-5e63-9430-e53a2bd51e6f
 ---
+
 
 Senator Denton Patreus is the latest subject in This sixth article from political commentator Marcus Macmillan about the movers and shakers in 3301. 
 

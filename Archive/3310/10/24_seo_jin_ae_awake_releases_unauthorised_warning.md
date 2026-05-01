@@ -4,7 +4,9 @@ title: Seo Jin-ae Awake, Releases Unauthorised Warning
 slug: seo_jin_ae_awake_releases_unauthorised_warning
 date: '3310-10-24'
 source: API
-summary: Seo Jin-ae wakes from a week-long coma and releases an unauthorised ICE-cast statement revealing that the Thargoids deliberately probed her mind through her cortical implant, learning everything she knows about humanity.
+summary: Seo Jin-ae wakes from a week-long coma and releases an unauthorised ICE-cast
+  statement revealing that the Thargoids deliberately probed her mind through her
+  cortical implant, learning everything she knows about humanity.
 player_impact: Not specifically mentioned — this is a statement release article.
 persons:
 - Seo Jin-ae
@@ -20,7 +22,13 @@ technologies:
 - Cortical implant
 - Project Seraph
 arc_id: thargoid-titan-war
-modern_impact: Seo's description — 'It was like someone plugged an amplifier straight into my brain... The Thargoids had finally noticed my presence and tried to learn what they could about me' — is the most direct evidence of Thargoid intelligence-gathering on individual humans. Her warning that 'They're planning something now' directly foreshadows Cocijo's assault on Sol three weeks later. Colombera's speculation that the implant 'disrupted an attempt to control her like a drone' suggests the Thargoids may have intended worse.
+modern_impact: Seo's description — 'It was like someone plugged an amplifier straight
+  into my brain... The Thargoids had finally noticed my presence and tried to learn
+  what they could about me' — is the most direct evidence of Thargoid intelligence-gathering
+  on individual humans. Her warning that 'They're planning something now' directly
+  foreshadows Cocijo's assault on Sol three weeks later. Colombera's speculation that
+  the implant 'disrupted an attempt to control her like a drone' suggests the Thargoids
+  may have intended worse.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,6 +37,7 @@ related_uuids:
 - 52a6914e-4835-530a-a009-016a4e55435d
 - 5577d259-b0ea-5583-bd87-af53e524c4db
 ---
+
 
 Reports that Aegis special advisor Seo Jin-ae has woken from a week-long coma were followed by a statement by Seo, which was sent to all major newsfeeds.
 Aegis medical personnel had confirmed earlier in the day that Seo had abruptly woken from unconsciousness, following a significant seizure on October 18th. There were no long-term physical concerns, and she was expected to make a full recovery.

@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 A spokesperson for Aegis, The joint-superpower initiative established to coordinate research into the Thargoids, has confirmed that the organisation is to widen Its remit. 
 
 The development is understood to be a response to the recent Thargoid attack against Federal ships in the Pleiades Sector IR-W d1-55 system. 

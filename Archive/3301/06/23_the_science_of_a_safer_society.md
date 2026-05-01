@@ -36,7 +36,11 @@ significance: medium
 related_uuids:
 - 44d392dc-09e9-5ca5-887e-c1f5e88dae12
 - 81248c77-50c2-52b5-a962-0c4da605e8bf
+- b67fe4ff-6cb3-53a3-ad95-f4d910fc1c6d
+- 42370e8a-3a35-5de0-bad0-d3716423bdc7
+- 42255e4f-788f-5ba1-b12d-b1209e5ee2ba
 ---
+
 
 
 Thousands of Pegasi sector civilians were forced to evacuate their homes last week, following a series of brutal raids carried out in the name of Archon Delaine. 

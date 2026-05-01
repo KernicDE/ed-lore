@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 Erik Gunnarson and Francesca Wolfe, two detectives from The Wallglass Investigations Agency, examine the background of the Adamastor megaship.
 Gunnarson: “When Wolfe and I started This project, we knew this case would come first. We’re both protégés of Benjamin Chester, creator of the Wallglass Archive. He retired years ago, but that old spark kicked in when a ‘ghost ship’ turned up on his doorstep!”
 “The Adamastor is a 200 year old derelict that drifted into the Chukchan system on autopilot. It’s still there, With the Alliance Salvage Guild poking through Its guts. Chester investigated its owners, a super-secretive company called Azimuth Biochemicals. We don’t know what they were searching for, but what they Found was possibly the first recorded Thargoid encounter.”

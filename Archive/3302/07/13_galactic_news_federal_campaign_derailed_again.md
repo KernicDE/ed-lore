@@ -31,7 +31,12 @@ significance: medium
 related_uuids:
 - 17f6eadd-da56-5397-9c1f-5d11ad6d5ffa
 - 7863ec80-d3ac-5c4d-b5d5-0935733c5f4d
+- 7f3a9dc2-b968-536e-ae02-59c152700954
+- 8c502994-8724-594e-8190-01e2df2f7ffb
+- 68330d67-d8d6-5de6-81bd-b40899200b34
+- 89725c84-2b6f-5031-8d69-8c8f8d250137
 ---
+
 
 
 Reports coming in from The Segovan system indicate that the Federation's campaign to construct an outpost in the system has once again been disrupted. Starport personnel have confirmed that the station is experiencing a wide range of technical problems as a result of Unknown Artefact-related interference. 

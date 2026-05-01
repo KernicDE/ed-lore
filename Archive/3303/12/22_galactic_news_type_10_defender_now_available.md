@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 Lakon Spaceways has announced that Its new ship, The Type-10 Defender, is now available to the public. 
 
 The Vessel boasts greater speed, acceleration and manoeuvrability than the Type-9 Heavy on Which it is based, and also offers a more focused hardpoint loadout. 

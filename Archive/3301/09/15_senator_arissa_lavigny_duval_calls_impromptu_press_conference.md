@@ -4,7 +4,11 @@ title: Senator Arissa Lavigny Duval Calls Impromptu Press Conference
 slug: senator_arissa_lavigny_duval_calls_impromptu_press_conference
 date: '3301-09-15'
 source: GitHub
-summary: Senator Arissa Lavigny-Duval called an impromptu press conference after Senate deliberations, stating the Empire needs stability and continuity. She shared that Emperor Hengist Duval had shared a vision with her during his recovery. When asked if she considered herself the heir, she deferred to the Senate's decision while committing to work toward the Emperor's vision regardless of the outcome.
+summary: Senator Arissa Lavigny-Duval called an impromptu press conference after Senate
+  deliberations, stating the Empire needs stability and continuity. She shared that
+  Emperor Hengist Duval had shared a vision with her during his recovery. When asked
+  if she considered herself the heir, she deferred to the Senate's decision while
+  committing to work toward the Emperor's vision regardless of the outcome.
 player_impact: None
 persons:
 - Arissa Lavigny-Duval
@@ -14,10 +18,18 @@ locations: []
 topics:
 - succession
 technologies: []
-modern_impact: Key moment in the Imperial succession crisis as candidates position themselves for the throne.
+modern_impact: Key moment in the Imperial succession crisis as candidates position
+  themselves for the throne.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- d1003dbd-1405-582f-be67-0195758e8558
+- 7cd5f83a-9675-5e63-9430-e53a2bd51e6f
+- 2a25a3ae-9010-5554-8f52-0731676ebd52
+- 69b8ea0c-5e6f-5d31-8a63-0a98141b33ee
 ---
+
 
 After The day’s Senate deliberations finished, Senator Arissa Lavigny-Duval stopped to answer questions from The assembled reporters. When asked what she considered the most Important issue facing the Empire, she replied: 
 

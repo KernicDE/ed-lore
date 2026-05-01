@@ -4,8 +4,10 @@ title: 'Thargoid War Update: September 3309'
 slug: thargoid_war_update_september_3309
 date: '3309-09-27'
 source: API
-summary: Sanderlyn's monthly update covers the Aegis leak, Seo Jin-ae's visions, the scanner upgrade, Sirius's missile contribution, and the improving military situation.
-player_impact: Pilots detected human life-signs beneath Titan hulls using upgraded scanners and continue to fight Thargoid forces.
+summary: Sanderlyn's monthly update covers the Aegis leak, Seo Jin-ae's visions, the
+  scanner upgrade, Sirius's missile contribution, and the improving military situation.
+player_impact: Pilots detected human life-signs beneath Titan hulls using upgraded
+  scanners and continue to fight Thargoid forces.
 persons:
 - Jade Sanderlyn
 - Seo Jin-ae
@@ -20,7 +22,12 @@ topics:
 - war
 - humanitarian
 arc_id: thargoid-titan-war
-modern_impact: 'Sanderlyn''s framing — ''the stomach-churning truth: the Thargoids are keeping people they abduct alive'' — captures public horror. Her question — ''For what purpose? We scarcely dare imagine'' — maintains suspense. The observation that Thargoid-controlled systems ''have reduced significantly'' and ''what seemed like a near-hopeless task... has become a shining example of human courage'' provides narrative arc.'
+modern_impact: 'Sanderlyn''s framing — ''the stomach-churning truth: the Thargoids
+  are keeping people they abduct alive'' — captures public horror. Her question —
+  ''For what purpose? We scarcely dare imagine'' — maintains suspense. The observation
+  that Thargoid-controlled systems ''have reduced significantly'' and ''what seemed
+  like a near-hopeless task... has become a shining example of human courage'' provides
+  narrative arc.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -29,6 +36,7 @@ related_uuids:
 - a39bacde-3f03-579e-a87c-1f549b9287b1
 - 5649a799-45d3-5ef0-9a83-2819bdb0dbf7
 ---
+
 
 The race is on to develop technology which can recover humans from Thargoid Titans, reports Vox Galactica journalist Jade Sanderlyn.
 “Now we know the stomach-churning truth: the Thargoids are keeping people they abduct alive. The dramatic leak of a high-level conversation within Aegis confirmed that Thargoid tactics had shifted to incorporate the mass abduction of humans. Seo Jin-ae’s telepathic connection to the aliens revealed that captives are being stored inside pod-like structures aboard the Titans. She also sensed that the Thargoids considered these captives an important part of their invasion plan.”

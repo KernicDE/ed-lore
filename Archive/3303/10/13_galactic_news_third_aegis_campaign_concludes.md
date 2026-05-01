@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Aegis has announced that The third phase of Its campaign has received the enthusiastic support of the galactic community. Huge quantities of material were delivered to Vonarburg Co-operative over the past week, Which will be used to develop new anti-Thargoid technologies. 
 
 As the campaign drew to a close, Aegis’s Head of Research, Professor Alba Tesreau, released The following statement: 

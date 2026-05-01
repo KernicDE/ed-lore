@@ -4,8 +4,14 @@ title: Effinger Port Furbaide Reports Contagion Spreading Unchecked
 slug: effinger_port_furbaide_reports_contagion_spreading_unchecked
 date: '3301-02-17'
 source: GitHub
-summary: The Volungu Blight has spread unchecked despite containment efforts in Liaedin, LHS 3505, and Furbaide, claiming hundreds of lives since it first appeared 24 hours ago. A rapid response team has been established aboard Effinger Port in Furbaide to find a cure. Dr Miriam Fletcher, head of the Furbaide CDC, requested that anyone shipping basic medicines divert to Effinger Port to donate supplies needed to stop the Blight's spread.
-player_impact: Pilots can deliver basic medicines to Effinger Port in Furbaide to help combat the Volungu Blight outbreak.
+summary: The Volungu Blight has spread unchecked despite containment efforts in Liaedin,
+  LHS 3505, and Furbaide, claiming hundreds of lives since it first appeared 24 hours
+  ago. A rapid response team has been established aboard Effinger Port in Furbaide
+  to find a cure. Dr Miriam Fletcher, head of the Furbaide CDC, requested that anyone
+  shipping basic medicines divert to Effinger Port to donate supplies needed to stop
+  the Blight's spread.
+player_impact: Pilots can deliver basic medicines to Effinger Port in Furbaide to
+  help combat the Volungu Blight outbreak.
 persons:
 - Dr Miriam Fletcher
 groups:
@@ -17,10 +23,18 @@ locations:
 - LHS 3505
 topics:
 - medicine
-modern_impact: The Volungu Blight outbreak demonstrated the vulnerability of densely populated systems to rapidly spreading infectious diseases.
+modern_impact: The Volungu Blight outbreak demonstrated the vulnerability of densely
+  populated systems to rapidly spreading infectious diseases.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- ecc2dbc2-68b0-5026-9ff2-ec39dba7edff
+- 470bb263-648c-5b5e-a0c8-11aa065681c4
+- 8df95e12-c87d-5425-9ce9-d805583a8c3e
+- acb85cb3-c5ae-5cfe-807d-2175927721d8
+- 224b5274-9084-58c4-bcc5-96d3d962784f
 ---
+
 
 Despite a valiant effort by medical staff working aboard afflicted stations in Liaedin, LHS 3505 and Furbaide The illness now known as Volungu Blight has managed to evade all attempts to contain it. 
 

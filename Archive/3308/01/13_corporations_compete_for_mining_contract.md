@@ -4,8 +4,10 @@ title: Corporations Compete for Mining Contract
 slug: corporations_compete_for_mining_contract
 date: '3308-01-13'
 source: API
-summary: Caine-Massey and Torval Mining Ltd compete for a decade-long mining contract in the Dulos system.
-player_impact: Pilots were called upon to deliver bromellite, samarium, and gallite to competing locations in the Dulos system.
+summary: Caine-Massey and Torval Mining Ltd compete for a decade-long mining contract
+  in the Dulos system.
+player_impact: Pilots were called upon to deliver bromellite, samarium, and gallite
+  to competing locations in the Dulos system.
 groups: []
 locations:
 - Dulos
@@ -13,10 +15,19 @@ locations:
 topics:
 - corporate expansion
 - war
-modern_impact: '"The corporate distributors within the region have agreed that whichever candidate is able to provide the greatest amount of materials will be awarded the contract." The Dulos mining dispute demonstrates how megacorps weaponize pilot logistics to settle corporate rivalries.'
+modern_impact: '"The corporate distributors within the region have agreed that whichever
+  candidate is able to provide the greatest amount of materials will be awarded the
+  contract." The Dulos mining dispute demonstrates how megacorps weaponize pilot logistics
+  to settle corporate rivalries.'
 legacy_weight: 2
 significance: low
+related_uuids:
+- e082f073-3f28-5763-bae5-097ba714529e
+- 392b5766-9cc8-58e7-961f-b1cb99876ce5
+- 8c557ef9-1907-5ed6-9f26-15ed0fe1c69a
+- 501aec5e-14ad-58fa-8eb0-4374fd61d4ca
 ---
+
 
 **Pilots’ Federation ALERT**
 Caine-Massey and Torval Mining Ltd are running rival campaigns to deliver mined commodities to The Dulos system.

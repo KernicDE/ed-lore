@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 Outspoken conspiracy theorist Ricardo Bentonio has lent his voice to The debate surrounding reports of mysterious spacecraft. And true to form, he has made some rather implausible claims. 
 
 On his programme 'Behind the Curtain', Bentonio said: 

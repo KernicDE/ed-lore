@@ -27,7 +27,12 @@ significance: medium
 related_uuids:
 - 516dd5df-be0b-5304-a219-b5633499fea2
 - 9a570699-1840-5d09-b9e3-bdcab0452b53
+- 50cc2603-0e0e-5a65-959a-167768911425
+- df1ccc53-abbd-5e33-ad74-afda1febde98
+- 9f8a71d4-e5b2-5d70-8887-897ae3a03eb6
+- dddd383c-b1c9-56c7-8e61-ee15540c13bd
 ---
+
 
 
 Prime Minister Mahon gave a speech today to The assembled graduates of The esteemed Alioth University, the same establishment he graduated from as a student. While his opponents sometimes deride his ‘matter of fact’ presentation, few could argue against the Prime Minister’s passion for the values he holds dear: 

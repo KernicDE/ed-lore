@@ -30,7 +30,11 @@ significance: medium
 related_uuids:
 - 2161f67f-264e-537b-9189-c9548471d23a
 - d4aa672b-a832-59f6-b2e2-69b7bed10a1e
+- 552130f9-8b71-57cb-9dcf-80848c4861b5
+- 05d77299-2947-5ff2-86c6-711587f7fb24
+- e2e14bf4-f9e6-5257-9cc9-5bd8fa45f896
 ---
+
 
 
 Amid news that The technical issues plaguing the Warkushanui system have worsened, reports are coming in that starports in the system of 49 Arietis are experiencing similar problems. According to Blake Fry, a commercial freight pilot who regularly traverses the 49 Arietis system, the starport of Gaiman Dock has been hit With a plethora of issues in recent hours, including power outages and system failures. Speaking to the Federal Times, Fry said: 

@@ -33,7 +33,11 @@ related_uuids:
 - 3993967f-7de1-5710-9bbf-758f946fb39f
 - 508242c8-bd72-5b14-a5ce-fd74e32b0e69
 - ca0efb26-acce-53ce-bf71-ba743dd0e7d2
+- 4323dd5f-bee6-5082-b484-a455b41aeeb2
+- dcaa1795-2ea5-51ba-8a9e-17482755c038
+- 6e6090d1-139b-5004-a848-d5d380a0c6d0
 ---
+
 
 
 The Alliance Assembly has permanently dissolved the role of President of the Alliance, following the recent revelations about Gibson Kincaid's multiple crimes. 

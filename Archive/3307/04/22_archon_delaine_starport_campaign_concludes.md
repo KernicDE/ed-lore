@@ -4,8 +4,12 @@ title: Archon Delaine Starport Campaign Concludes
 slug: archon_delaine_starport_campaign_concludes
 date: '3307-04-22'
 source: API
-summary: The Kumo Crew's starport construction campaign concludes successfully. Five new Orbis stations will open across the galaxy including locations near the California Nebula, Sothis, Coalsack Nebula, and Colonia. Archon Delaine threatens "creative reprisals" against those who interfered.
-player_impact: Pilots who delivered construction materials and protected shipments collected rewards from Gabriel Enterprise in the Harma system.
+summary: The Kumo Crew's starport construction campaign concludes successfully. Five
+  new Orbis stations will open across the galaxy including locations near the California
+  Nebula, Sothis, Coalsack Nebula, and Colonia. Archon Delaine threatens "creative
+  reprisals" against those who interfered.
+player_impact: Pilots who delivered construction materials and protected shipments
+  collected rewards from Gabriel Enterprise in the Harma system.
 persons:
 - Archon Delaine
 groups:
@@ -35,13 +39,16 @@ technologies:
 - Polymers
 - Water purifiers
 arc_id: kumo-crew-rise
-modern_impact: The successful expansion establishes Kumo Crew presence in strategically significant regions, particularly the Coalsack Nebula where Thargoid activity would soon intensify, giving the pirates unique positioning.
+modern_impact: The successful expansion establishes Kumo Crew presence in strategically
+  significant regions, particularly the Coalsack Nebula where Thargoid activity would
+  soon intensify, giving the pirates unique positioning.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 808a1c32-013a-58f3-bf85-f48036f3d4f1
 - 677866b5-92cb-5c16-8297-0a3a97a4afa8
 ---
+
 
 **Pilots Federation ALERT**
 An initiative by The Kumo Crew syndicate to construct new starports for increasing trade has ended successfully.

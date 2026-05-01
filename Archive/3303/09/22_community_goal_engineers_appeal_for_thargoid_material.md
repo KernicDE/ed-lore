@@ -45,7 +45,9 @@ significance: high
 related_uuids:
 - 31b2cbc8-9570-5e32-8d5c-2fa14a2ce1ea
 - e5d28e93-7d7a-5fab-bc03-f67cf62e7427
+- 38e72e26-bb41-5fd2-a7b1-3ed082c89340
 ---
+
 
 
 Following news that The Thargoids have attacked a Federal convoy in the Pleiades Sector IR-W d1-55 system, Aegis has recruited two of the galaxy’s foremost Independent engineers to immediately begin developing new Defensive and offensive technologies. 

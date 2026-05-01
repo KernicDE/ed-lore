@@ -4,8 +4,12 @@ title: Community Goal  The Search for Survivors
 slug: community_goal_the_search_for_survivors
 date: '3302-02-18'
 source: GitHub
-summary: President Zachary Hudson announces that Starship One wreckage has been confirmed among debris delivered to Leoniceno Orbital. Researchers believe the front of the ship may have suffered less damage, meaning some crew might have reached escape pods. A search for survivors begins in the Lyncis Sector.
-player_impact: Pilots searched the Lyncis Sector systems for escape pods and survivors from the Starship One disaster.
+summary: President Zachary Hudson announces that Starship One wreckage has been confirmed
+  among debris delivered to Leoniceno Orbital. Researchers believe the front of the
+  ship may have suffered less damage, meaning some crew might have reached escape
+  pods. A search for survivors begins in the Lyncis Sector.
+player_impact: Pilots searched the Lyncis Sector systems for escape pods and survivors
+  from the Starship One disaster.
 persons:
 - Zachary Hudson
 groups:
@@ -25,7 +29,14 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 47fc5e89-7923-5c13-b489-b820ba458fc9
+- f0a5ea4e-dbc4-5d47-8cee-22cc2cf86b6c
+- cdf680ca-c0ab-50db-9dff-085f692e72e6
+- 21443853-5371-5291-a9f5-93f79da1d368
+- 052ec723-2597-57d0-8c92-b36c4cb15e1e
 ---
+
 
 Federal President Zachary Hudson has confirmed that the remains of Starship One were among the wreckage recently delivered to Leoniceno Orbital. The search for the Missing presidential Vessel began two weeks ago, resulting in the accumulation of thousands of tonnes of wreckage, Which was then subjected to rigorous analysis by Federal scientists. The analysis confirmed that the remains of Starship One had been Located, prompting President Hudson to release a statement to the media: 
 

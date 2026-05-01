@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 The leaders of the galaxy's major powers have responded to news that the mysterious ships seen in the Maia system and Pleiades Nebula are Thargoid vessels. 
 
 Federal President Zachary Hudson released a characteristically forthright statement. 

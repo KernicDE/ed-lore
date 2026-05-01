@@ -39,6 +39,7 @@ related_uuids:
 
 
 
+
 **Pilots’ Federation Alert**
 A Thargoid invasion fleet has emerged in the Shinrarta Dezhra system, catching AX forces behind front lines by surprise.
 The massive alien force quickly struck ports in the system. Jameson Memorial remains online but damaged, with local AX forces rallying to protect the famous megamarket. An urgent call for aid by local governors has been made.

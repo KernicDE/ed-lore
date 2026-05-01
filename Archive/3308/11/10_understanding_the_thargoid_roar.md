@@ -34,7 +34,10 @@ related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+- de7b4f38-c24a-586a-9b4c-3c43dff0681a
+- ebaed307-7279-5789-9569-01d10e7832b9
 ---
+
 
 
 Professor Alba Tesreau, Professor Ishmael Palin and Ram Tah have released a joint statement regarding the alien sound heard at HIP 22460.

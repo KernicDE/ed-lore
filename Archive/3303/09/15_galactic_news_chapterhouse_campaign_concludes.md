@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 A spokesperson for The Kamadhenu Chapterhouse of Inquisition has announced that Its plan to establish a series of starports between Colonia and the core systems has received the wholehearted support of the galactic community. 
 
 Hundreds of pilots took to their ships to deliver construction materials to Shajn Market over the course of the three-week campaign, allowing the Chapterhouse to achieve its ambitious goals. 

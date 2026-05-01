@@ -30,7 +30,9 @@ significance: high
 related_uuids:
 - 3d04ddca-30ae-553b-9712-2589606ba8c5
 - c487e743-8aef-5cb6-aaaf-4a1a2aa8bfe5
+- 38e72e26-bb41-5fd2-a7b1-3ed082c89340
 ---
+
 
 
 Professor Ishmael Palin, leading authority on xeno-biological research, has commented on The discovery of functional technology at the Thargoid structures. 

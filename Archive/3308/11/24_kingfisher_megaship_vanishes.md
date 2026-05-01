@@ -4,8 +4,10 @@ title: Kingfisher Megaship Vanishes
 slug: kingfisher_megaship_vanishes
 date: '3308-11-24'
 source: API
-summary: Contact has been lost with the Kingfisher megaship in the Hyades Sector YO-Q b5-1 system, just over a day since its arrival.
-player_impact: Independent pilots were encouraged to participate in the unfolding events.
+summary: Contact has been lost with the Kingfisher megaship in the Hyades Sector YO-Q
+  b5-1 system, just over a day since its arrival.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
 persons:
 - Dalton Chase
 - Rani Zaman
@@ -17,7 +19,9 @@ topics:
 - alien contact
 - war
 arc_id: null
-modern_impact: '"I regret to say that all attempts to raise the Kingfisher on any frequency have failed. The last message we received ..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+modern_impact: '"I regret to say that all attempts to raise the Kingfisher on any
+  frequency have failed. The last message we received ..." The failure of civilian-led
+  diplomacy underscores the dangers of underestimating Thargoid hostility.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -27,6 +31,7 @@ related_uuids:
 - 2b8ade03-e027-51c6-90e8-e6a7e291d5b4
 - 1bc4f61f-b1a2-5e7a-ba56-41659e56ebcb
 ---
+
 
 **Pilots’ Federation ALERT**
 Contact has been lost with the Kingfisher megaship in the Hyades Sector YO-Q b5-1 system, just over a day since its arrival.

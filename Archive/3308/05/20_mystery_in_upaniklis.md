@@ -4,8 +4,10 @@ title: Mystery in Upaniklis
 slug: mystery_in_upaniklis
 date: '3308-05-20'
 source: API
-summary: The Artificers Clan continues to examine the Golconda in Upaniklis, causing unease among the former inhabitants at Forester's Choice.
-player_impact: Commander Javi Alvarado submitted observations about the Artificers Clan's activity around the Golconda.
+summary: The Artificers Clan continues to examine the Golconda in Upaniklis, causing
+  unease among the former inhabitants at Forester's Choice.
+player_impact: Commander Javi Alvarado submitted observations about the Artificers
+  Clan's activity around the Golconda.
 persons:
 - Javi Alvarado
 groups: []
@@ -15,13 +17,17 @@ locations:
 topics:
 - diplomacy
 arc_id: null
-modern_impact: '"For centuries their entire existence relied upon the Golconda, and its presence nearby was reassuring." The Artificers'' unexplained interest in the derelict generation ship triggered a cultural crisis among the Golcondans, whose identity had become inextricably linked to the vessel even after abandoning it.'
+modern_impact: '"For centuries their entire existence relied upon the Golconda, and
+  its presence nearby was reassuring." The Artificers'' unexplained interest in the
+  derelict generation ship triggered a cultural crisis among the Golcondans, whose
+  identity had become inextricably linked to the vessel even after abandoning it.'
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 92d33fe4-b325-5ffb-a1ec-8b8644a34b88
 - 29d5b601-f009-53a2-872a-6e2947837243
 ---
+
 
 A Dredger clan is continuing to examine The abandoned generation ship Golconda in the Upaniklis system.
 The Golconda was placed in orbit around Upaniklis B 3 in 3305 when Its inhabitants migrated to the Nearby outpost Forester’s Choice. Over the past week there have been reports of smaller craft travelling between the Artificers Clan dredger and the Golconda, But the nomadic tribe has not responded to attempts to communicate.

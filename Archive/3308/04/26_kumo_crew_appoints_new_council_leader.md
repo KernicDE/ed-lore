@@ -4,7 +4,8 @@ title: Kumo Crew Appoints New Council Leader
 slug: kumo_crew_appoints_new_council_leader
 date: '3308-04-26'
 source: API
-summary: Archon Delaine appoints Callan Salamanca as a new arch-corsair on the Kumo Council.
+summary: Archon Delaine appoints Callan Salamanca as a new arch-corsair on the Kumo
+  Council.
 player_impact: Not specifically mentioned — this is a syndicate report.
 persons:
 - Archon Delaine
@@ -23,13 +24,18 @@ topics:
 - piracy
 - war
 arc_id: null
-modern_impact: '"Delaine continues to style himself as the ''sovereign ruler of the Kumo nation'', striving for an air of legitimacy." The appointment of Callan Salamanca represented a strategic consolidation of Delaine''s inner circle amid growing signs of internal fracture within the Kumo Crew''s feudal power structure.'
+modern_impact: '"Delaine continues to style himself as the ''sovereign ruler of the
+  Kumo nation'', striving for an air of legitimacy." The appointment of Callan Salamanca
+  represented a strategic consolidation of Delaine''s inner circle amid growing signs
+  of internal fracture within the Kumo Crew''s feudal power structure.'
 legacy_weight: 2
 significance: low
 related_uuids:
 - 076567e6-5d23-58d8-b1f4-87c5d0297b2f
 - 3a22fa67-8900-5bbd-92cc-fe01fce10268
+- ba9578fc-7825-5774-aba2-e07978d45161
 ---
+
 
 Archon Delaine has announced that pirate leader Callan Salamanca is The newest member of the Kumo Council’s upper echelon.
 Political journalist Conrad Sterling provided an overview for Vox Galactica:

@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 With the news that The Empire has withdrawn Its fleets from the Pleiades Nebula, apparently signalling the end of the Federal-Imperial cold war, former Federal President Jasmina Halsey has commented on the cessation of hostilities. 
 
 Addressing a large crowd in Nerah City on Argent’s Claim, Halsey said: 

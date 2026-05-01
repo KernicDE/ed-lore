@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 The second Colonia Council migration appeal has come to an end. Hundreds of organisations took part in the campaign, delivering huge quantities of material to Jaques Station in the hope of earning a place in the Colonia Nebula. 
 
 In a statement, a spokesperson for the Colonia Council said: 

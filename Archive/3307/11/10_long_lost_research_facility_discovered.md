@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 A distress call has led Independent pilots to locate an abandoned settlement in The Snake Sector GW-W c1-1 system.
 The SOS was initially detected by One of the megaships that form the Colonia Bridge, inspiring Many ships to search Nearby systems. The source was eventually identified as Holloway Bioscience Research Facility 15 on the moon Snake Sector GW-W c1-1 AB 5 b.

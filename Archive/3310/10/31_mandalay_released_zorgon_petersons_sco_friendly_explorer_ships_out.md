@@ -4,8 +4,11 @@ title: 'Mandalay Released: Zorgon Peterson’s SCO-Friendly Explorer Ships Out'
 slug: mandalay_released_zorgon_petersons_sco_friendly_explorer_ships_out
 date: '3310-10-31'
 source: API
-summary: Zorgon Peterson's Mandalay exploration vessel, optimised for Achilles Aerospace's SCO frame shift drive, is now available for purchase at shipyards across the core systems.
-player_impact: The first run of Mandalay ships was delivered to shipyards across the core systems and became available for purchase.
+summary: Zorgon Peterson's Mandalay exploration vessel, optimised for Achilles Aerospace's
+  SCO frame shift drive, is now available for purchase at shipyards across the core
+  systems.
+player_impact: The first run of Mandalay ships was delivered to shipyards across the
+  core systems and became available for purchase.
 persons:
 - Devin Kaneda
 groups:
@@ -23,12 +26,18 @@ technologies:
 - SCO frame shift drive
 - Python Mk II
 - Type-8
-modern_impact: Kaneda's emphasis on atmospheric handling and SCO drive optimisation positions the Mandalay as the premier medium explorer. The rumour of 'an ongoing disagreement between representatives and Zorgon Peterson management over Achilles' design input' hints at corporate tension between Sirius and Zorgon that may affect future ship development.
+modern_impact: Kaneda's emphasis on atmospheric handling and SCO drive optimisation
+  positions the Mandalay as the premier medium explorer. The rumour of 'an ongoing
+  disagreement between representatives and Zorgon Peterson management over Achilles'
+  design input' hints at corporate tension between Sirius and Zorgon that may affect
+  future ship development.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 326805e7-3005-5e8c-976c-a10a6be6070b
+- a5b9e2d4-6885-5c74-8e5b-278e557e3388
 ---
+
 
 The first run of Mandalay ships has been delivered to shipyards across the core systems and are now available for purchase.
 Zorgon Peterson’s Mandalay is the third new vessel to be optimised for Achilles Aerospace’s SCO frame shift drive – following the Python Mk. II and the Type-8 - and aims to become the premier medium-sized exploration craft.

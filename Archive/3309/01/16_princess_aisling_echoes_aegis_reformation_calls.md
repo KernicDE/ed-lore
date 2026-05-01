@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 Princess Aisling Duval has publicly asked Emperor Arissa Lavigny-Duval to reconsider pledging Imperial resources to a cross-superpower anti-xeno initiative.
 Her message was shared on all Imperial newsfeeds:
 “The Empire’s capability to defend itself is not in question. But neither is there any doubt that we are facing a protracted war. The ferocity and scale of the Thargoid onslaught on human space is unprecedented. Of course the Empire will survive, as it has for over a millennium… but at what cost? How many systems must fall? How many citizens will grieve for lost loved ones?”

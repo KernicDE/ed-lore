@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 The Alliance Assembly has voted to make a contribution to Aegis if the agency is reformed by the three superpowers.
 Prime Minister Edmund Mahon made an official announcement:
 “Emperor Arissa Lavigny-Duval’s change of heart regarding anti-xeno collaboration has triggered swift action from Alliance systems. The Assembly has re-appraised a bill proposed last November by Deputy Prime Minister Angela Corcoran, seeking to approve Aegis’s reformation. A majority vote has now passed that bill.”

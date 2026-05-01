@@ -28,7 +28,9 @@ related_uuids:
 - 508242c8-bd72-5b14-a5ce-fd74e32b0e69
 - 69c817c5-a7e7-5ec1-8507-add13a49b8a1
 - d7ce7121-90e5-5c1e-a5c5-78529d474bf5
+- 3f27f8ea-f91e-550d-a92c-50ff318293a7
 ---
+
 
 
 Prime Minister Edmund Mahon has once again clashed With President Gibson Kincaid, following The latter's attempt to take control of government policy during an Assembly session.  

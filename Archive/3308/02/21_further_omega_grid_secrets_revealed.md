@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 ACT has released details about a plan by The Lords of Restoration to frame Hadrian Augustus Duval As the leader of the NMLA.
 The information was extracted from the NMLA’s Omega Grid network and published by Captain Saskia Landau:
 “It was Senator Ursula Torquatus who devised a scheme to undermine the Imperial Family and turn citizens against them by ‘exposing’ a Duval as the NMLA mastermind. Hadrian Duval was seen as the logical choice since Many viewed him as an extremist through his prior association With Nova Imperium, though Emperor Arissa Lavigny-Duval officially pardoned him in 3306.”

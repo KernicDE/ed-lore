@@ -4,8 +4,14 @@ title: Quivirans Defy Doom
 slug: quivirans_defy_doom
 date: '3301-05-19'
 source: GitHub
-summary: Quivira settled into uneasy peace after intense fighting left hundreds of thousands dead and billions in economic damage. Initially, independent and Federal commanders successfully repelled Patreus's mercenary forces, buying time for the People's Quivira for Equality Party to evacuate civilians. However, once the party's credits ran out, independent and Federal pilot support evaporated, leaving Quivira to face Imperial forces alone.
-player_impact: Illustrates how mercenary pilot support in conflicts is financially motivated and can end abruptly when funding dries up.
+summary: Quivira settled into uneasy peace after intense fighting left hundreds of
+  thousands dead and billions in economic damage. Initially, independent and Federal
+  commanders successfully repelled Patreus's mercenary forces, buying time for the
+  People's Quivira for Equality Party to evacuate civilians. However, once the party's
+  credits ran out, independent and Federal pilot support evaporated, leaving Quivira
+  to face Imperial forces alone.
+player_impact: Illustrates how mercenary pilot support in conflicts is financially
+  motivated and can end abruptly when funding dries up.
 persons:
 - Denton Patreus
 groups:
@@ -14,10 +20,18 @@ locations:
 - Quivira
 topics:
 - war
-modern_impact: Demonstrates the brutal reality of credit-dependent warfare where mercenary support vanishes once payment stops.
+modern_impact: Demonstrates the brutal reality of credit-dependent warfare where mercenary
+  support vanishes once payment stops.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 3b2828cd-f5eb-53bf-bcc9-6d72fd69cb72
+- a1df68bc-c17b-54cf-8303-7f0f52c5ef5d
+- a4bcba84-97b2-5ecb-a650-99ada3c6eab2
+- 7bf69720-95f9-56be-9fda-89038c209f31
+- 1f283dc9-dd3d-5a85-9186-333245643fa1
 ---
+
 
 The war-torn region of Quivira has finally settled into an uneasy peace, following an intense period of fighting Which saw Hundreds of thousands dead and Several billion credits worth of damage done to The local economy. 
 

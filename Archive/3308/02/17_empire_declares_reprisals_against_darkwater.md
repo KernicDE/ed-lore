@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Darkwater Inc in The Summerland system has been declared a hostile military target for Its role in abducting Emperor Arissa Lavigny-Duval.
 The private military firm, led by Colonel Ronan Brock, was secretly hired by the Lords of Restoration to train and equip the NMLA. Darkwater troops also kept the Emperor imprisoned In a concealed bunker for over a year.

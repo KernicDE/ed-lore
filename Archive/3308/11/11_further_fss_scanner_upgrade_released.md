@@ -4,8 +4,10 @@ title: Further FSS Scanner Upgrade Released
 slug: further_fss_scanner_upgrade_released
 date: '3308-11-11'
 source: API
-summary: A version of the FSS scanning software used to track the Thargoid anomalies has been made available to the Pilots’ Federation.
-player_impact: Independent pilots were encouraged to participate in the unfolding events.
+summary: A version of the FSS scanning software used to track the Thargoid anomalies
+  has been made available to the Pilots’ Federation.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
 persons:
 - Ishmael Palin
 - Lori Jameson
@@ -20,7 +22,9 @@ topics:
 - research
 - war
 arc_id: null
-modern_impact: '"We’re pleased with the update and are happy to share it with Commanders, who have provided much of the data used by t..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"We’re pleased with the update and are happy to share it with Commanders,
+  who have provided much of the data used by t..." This perspective highlights the
+  broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,6 +34,7 @@ related_uuids:
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - eb62c669-b525-5753-b3cb-faf6452a8088
 ---
+
 
 **Pilots’ Federation ALERT**
 A version of the FSS scanning software used to track the Thargoid anomalies has been made available to the Pilots’ Federation.

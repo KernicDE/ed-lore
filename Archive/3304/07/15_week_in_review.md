@@ -4,7 +4,10 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-15'
 source: GitHub
-summary: Weekly summary covering Admiral Varma's arrest, the Church of Eternal Void declaring war on the Far God cult, Aisling Duval's wedding date announcement, the search for a billion-credit lottery winner, Cobra Wing's Ebor research outpost initiative, and the Didiomanja Emperor's Grace Academy campaign conclusion.
+summary: Weekly summary covering Admiral Varma's arrest, the Church of Eternal Void
+  declaring war on the Far God cult, Aisling Duval's wedding date announcement, the
+  search for a billion-credit lottery winner, Cobra Wing's Ebor research outpost initiative,
+  and the Didiomanja Emperor's Grace Academy campaign conclusion.
 player_impact: None
 persons:
 - George Varma
@@ -46,7 +49,8 @@ topics:
 - terrorism
 - religion
 - culture
-modern_impact: This week spans terrorism arrests, religious conflict, political weddings, and scientific initiatives, illustrating the breadth of galactic affairs.
+modern_impact: This week spans terrorism arrests, religious conflict, political weddings,
+  and scientific initiatives, illustrating the breadth of galactic affairs.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -56,7 +60,9 @@ related_uuids:
 - faae8b08-da10-5011-ad10-02b9eb46d0aa
 - 5e8fd2aa-d3c0-5f7b-ace3-fb01158de7e6
 - 9177e211-a080-5a19-b2bd-634273e040c6
+- d5e38d22-4fdf-50d4-9487-5f7c5162d42a
 ---
+
 
 Here are This week’s major stories. 
 

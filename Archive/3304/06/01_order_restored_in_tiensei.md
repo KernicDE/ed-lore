@@ -1,5 +1,4 @@
 ---
-
 uuid: 6c73a7e2-e5c8-54ae-a8be-12b073c86722
 title: Order Restored in T'iensei
 slug: order_restored_in_tiensei
@@ -23,7 +22,12 @@ modern_impact: The anti-piracy campaign demonstrates how local authorities rely 
   independent pilots to maintain order when system security forces are overstretched.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 60f99547-6620-511f-9d5a-a610a2c0ff18
+- f2f08953-c75f-5cd0-9fcf-bc5644c16a6a
+- fe2ef902-f105-5e82-bf79-83ee66c58228
 ---
+
 
 
 The Autocracy of T'iensei has announced that Its campaign to clear the T'iensei system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 

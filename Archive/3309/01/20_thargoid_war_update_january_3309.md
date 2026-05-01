@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 Vox Galactica reporter Jade Sanderlyn has published a summary of the current situation in the conflict against the Thargoids.
 “Many of us who witnessed those terrifying events in HIP 22460 felt that it was both an ending and a beginning – that history had turned a page. Five months later, the Second Thargoid War has escalated to a point which may yet close the book altogether.”
 “The arrival of the eight Maelstroms resulted in 44 populated systems being completely overwhelmed by the Thargoids. Dozens of neighbouring regions were also attacked by their fleets, leaving starports and settlements ablaze. Billions were killed and billions more fled from their homes as panicked refugees, creating the greatest humanitarian crisis of all time.”

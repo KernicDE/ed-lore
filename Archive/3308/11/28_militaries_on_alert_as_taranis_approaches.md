@@ -4,8 +4,10 @@ title: Militaries on Alert as Taranis Approaches
 slug: militaries_on_alert_as_taranis_approaches
 date: '3308-11-28'
 source: API
-summary: The Hyades Sector FB-N b7-6 system has been identified as the location where the rogue signal source named Taranis will finally arrive.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: The Hyades Sector FB-N b7-6 system has been identified as the location where
+  the rogue signal source named Taranis will finally arrive.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Ishmael Palin
 - Maxton Price
@@ -26,7 +28,9 @@ topics:
 - research
 - war
 arc_id: null
-modern_impact: '"Data correlated from many long-range scans proves that the anomaly’s velocity is reducing steadily. At its present ra..." Taranis heralded a new phase of total war that humanity was ill-prepared to resist.'
+modern_impact: '"Data correlated from many long-range scans proves that the anomaly’s
+  velocity is reducing steadily. At its present ra..." Taranis heralded a new phase
+  of total war that humanity was ill-prepared to resist.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -36,6 +40,7 @@ related_uuids:
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 - 5553d91a-6dbd-5e36-a90d-041502ba09c2
 ---
+
 
 The Hyades Sector FB-N b7-6 system has been identified as the location where the rogue signal source named Taranis will finally arrive.
 Professor Ishmael Palin gave a statement to confirm the findings of several scientific groups:

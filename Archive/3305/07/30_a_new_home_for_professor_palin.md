@@ -32,7 +32,11 @@ related_uuids:
 - 40eaaec9-0df7-56f2-b5ca-61180338dd12
 - 969713a8-6dbf-548c-9ce4-4d33ba1f321a
 - ba58f071-3919-5ce8-aa5f-ed9a848a3847
+- 42c8c8e5-17ba-51ac-ab9d-8271796d025d
+- 14b0684a-7610-509b-93da-bc380c0cacd4
+- 2a405898-44a3-5d69-a93e-af922725bf23
 ---
+
 
 
 Professor Ishmael Palin has established a permanent base of operations in The Arque system. 

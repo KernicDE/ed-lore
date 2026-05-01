@@ -28,7 +28,13 @@ significance: high
 related_uuids:
 - 51c0ee96-ad36-51fd-b176-79908f6725aa
 - cdf680ca-c0ab-50db-9dff-085f692e72e6
+- f0a5ea4e-dbc4-5d47-8cee-22cc2cf86b6c
+- 30b62ae4-134e-5e1b-9f6b-5d85168c500e
+- c0880191-a2cb-5bb5-9248-057bbe5237b6
+- 8b508bb1-826b-5f8a-90b0-b3d76bcd5570
+- e7ba3d66-8ab0-5f03-80c3-c038b99249a9
 ---
+
 
 
 The recent Federal operation to search for survivors from Starship One was eagerly supported by the galactic community, resulting in the safe recovery of thousands of escape pods, Many of them containing living survivors. As the task of identifying the pod's occupants Continues, Federal President Zachary Hudson has made a surprising announcement: one of the escape pods taken to Leoniceno Orbital contains former Federal President Jasmina Halsey. 

@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Following last night’s special session, Congress has decided to temporarily pull The Federal Navy from active duty in Lugh. Navy vessels are currently in The process of being diverted to Qureshi Enterprise in Khaka, where they will remain until such time as Congress decides on how to best end the current conflict. 
 
 Despite the official withdrawal of the Federal Navy, Lugh Continues to find itself embroiled in an ongoing civil war between the Crimson State Group and the Lugh for Equality Party. The outcome of Which is still Far from certain. 

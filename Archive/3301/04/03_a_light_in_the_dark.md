@@ -4,8 +4,14 @@ title: A Light in the Dark
 slug: a_light_in_the_dark
 date: '3301-04-03'
 source: GitHub
-summary: Following her address from the Imperial Palace, Princess Arissa Lavigny-Duval revealed her speech was directed at the unknown assailant who attacked Emperor Hengist Duval, not at Senators Torval and Patreus as rumoured. She called on loyal Imperial citizens to join her in purging corruption, announcing that for the next 7 days her agents on Simpson Depot in Facece would empower citizens to hunt down those responsible for the attack.
-player_impact: Pilots can join Arissa's anti-corruption campaign at Simpson Depot in Facece to help investigate the assassination attempt and earn rewards.
+summary: Following her address from the Imperial Palace, Princess Arissa Lavigny-Duval
+  revealed her speech was directed at the unknown assailant who attacked Emperor Hengist
+  Duval, not at Senators Torval and Patreus as rumoured. She called on loyal Imperial
+  citizens to join her in purging corruption, announcing that for the next 7 days
+  her agents on Simpson Depot in Facece would empower citizens to hunt down those
+  responsible for the attack.
+player_impact: Pilots can join Arissa's anti-corruption campaign at Simpson Depot
+  in Facece to help investigate the assassination attempt and earn rewards.
 persons:
 - Arissa Lavigny-Duval
 - Emperor Hengist Duval
@@ -19,10 +25,19 @@ locations:
 topics:
 - succession
 - investigation
-modern_impact: Arissa's mobilisation of citizens against Imperial corruption established her as an active protector of the Emperor and the Duval legacy.
+modern_impact: Arissa's mobilisation of citizens against Imperial corruption established
+  her as an active protector of the Emperor and the Duval legacy.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- d1c99133-8d75-5ced-bfcc-000c4f1263c9
+- 2c3a3f21-aa45-532e-96c3-1c53cc3fd1de
+- 7de915cb-51b3-5885-a170-73a56654e534
+- 69f52a7c-c29d-537a-99bf-2a9ce770f4e6
+- 7dc64c51-9af8-50a7-b1c6-2f97c35ce3f7
+- 0c0a2b8a-3621-51fb-926a-49298b2abcc3
 ---
+
 
 Since Princess Arissa’s impassioned speech on The steps of the Imperial Palace yesterday evening, Citizens the length and breadth of the Empire have been speculating as to Which group (or groups) prompted the princess to take such a public stand against them. 
 

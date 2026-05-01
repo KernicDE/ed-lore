@@ -31,7 +31,9 @@ significance: medium
 related_uuids:
 - b379442b-2c1f-51d8-b96e-ec28ec8ed599
 - eddd760f-e7bb-547d-9fad-edb99c5874f1
+- 0c05e71b-e415-5dc1-a738-497a08873330
 ---
+
 
 
 Two weeks ago, conflict erupted between the Ant Hill Mob and the Pleiades Resource Enterprise in the Maia system. But This was no ordinary inter-factional dispute. According to various sources, the Pleiades Resource Enterprise was acting under direct orders from Federation officials eager to bring Maia under Federal control. 

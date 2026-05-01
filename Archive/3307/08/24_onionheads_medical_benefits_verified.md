@@ -4,7 +4,8 @@ title: Onionhead’s Medical Benefits Verified
 slug: onionheads_medical_benefits_verified
 date: '3307-08-24'
 source: API
-summary: The Interstellar Health Organisation validates claims that Onionhead gamma strain has medicinal properties for psychological and musculoskeletal conditions.
+summary: The Interstellar Health Organisation validates claims that Onionhead gamma
+  strain has medicinal properties for psychological and musculoskeletal conditions.
 player_impact: None
 persons:
 - Nisha Devi
@@ -16,10 +17,18 @@ groups:
 topics:
 - narcotics
 - research
-modern_impact: The medical applications of onionhead gamma strain remain under clinical study, with pharmaceutical companies competing for market control.
+modern_impact: The medical applications of onionhead gamma strain remain under clinical
+  study, with pharmaceutical companies competing for market control.
 legacy_weight: 2
 significance: low
+related_uuids:
+- ea0496c2-a753-54ad-b6de-0c3d9bf29edf
+- b1886f93-ecbf-50e3-83c6-743f46436d7b
+- 3517ce1e-1d0e-57c9-ada1-bcdf88b77d23
+- e4dba0c4-21fc-5823-9986-a9218f891834
+- 23682552-0aec-5efe-a9ce-20cef8c81358
 ---
+
 
 The Interstellar Health Organisation has validated the Kumo Crew’s claim that Onionhead gamma strain, also known as ‘helix’, has medicinal properties.
 Dr Nisha Devi, One of the IHO’s senior researchers, told the media:

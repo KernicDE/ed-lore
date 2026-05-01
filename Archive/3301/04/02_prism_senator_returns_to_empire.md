@@ -32,7 +32,12 @@ significance: medium
 related_uuids:
 - 7b3115d6-7394-55ba-9c61-30a919b3d0e3
 - f3dab509-72dd-5e4c-a148-950fecf04e39
+- c2694e4f-6082-57fd-a7ce-9ddec5165b3f
+- ebe4961e-cee1-5175-8dfe-3a8fb966f6d3
+- a8bb509b-31ad-5327-8f8e-21b531565fb8
+- 4eb3bf1e-8e20-5f9b-bbf0-97375ff44cce
 ---
+
 
 
 After completing her tour of The Sol system and meeting Several high ranking officials within The Federation, Senator Kahina Tijani Loren has returned to the Empire. 

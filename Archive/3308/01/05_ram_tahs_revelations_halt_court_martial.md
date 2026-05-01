@@ -44,6 +44,7 @@ related_uuids:
 ---
 
 
+
 The military trial of Admiral Aden Tanner has been Suspended following evidence provided by Ram Tah as a witness for the defence.
 The Federal Navy tribunal was called to consider multiple charges – including mutiny – held against Tanner, the chief military liaison to Aegis. While commanding the Musashi megaship, he attempted to gain access to Hind Mine station and locate evidence regarding Salvation’s anti-xeno superweapon.
 Admiral Tanner’s defence attorney opened a live link With Phoenix Base to allow Ram Tah to provide The following testimony:

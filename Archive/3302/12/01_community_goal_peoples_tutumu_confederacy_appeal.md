@@ -4,8 +4,11 @@ title: Community Goal  People's Tutumu Confederacy Appeal
 slug: community_goal_peoples_tutumu_confederacy_appeal
 date: '3302-12-01'
 source: GitHub
-summary: The People's Tutumu Confederacy has announced a seasonal appeal, placing an open order for gold, pyrophyllite, and mineral oil and offering a prize draw for contributing pilots.
-player_impact: Deliver gold, pyrophyllite, and mineral oil to participate in the seasonal appeal and prize draw.
+summary: The People's Tutumu Confederacy has announced a seasonal appeal, placing
+  an open order for gold, pyrophyllite, and mineral oil and offering a prize draw
+  for contributing pilots.
+player_impact: Deliver gold, pyrophyllite, and mineral oil to participate in the seasonal
+  appeal and prize draw.
 persons: []
 groups:
 - People's Tutumu Confederacy
@@ -13,10 +16,14 @@ locations: []
 topics:
 - festival
 technologies: []
-modern_impact: Seasonal commodity drive encouraging pilot participation through premiums and a prize draw.
+modern_impact: Seasonal commodity drive encouraging pilot participation through premiums
+  and a prize draw.
 legacy_weight: 1
 significance: low
+related_uuids:
+- e8b1384c-bd8b-5591-a8cc-8bd4e7cf46f4
 ---
+
 
 As the end of The galactic year draws near and people throughout the galaxy start preparing for their end-of-year celebrations, the People's Tutumu Confederacy has announced a special seasonal event. 
 

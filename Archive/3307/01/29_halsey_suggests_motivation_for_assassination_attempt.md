@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 At The trial of Fleet Admiral Vincent, former President Jasmina Halsey has revealed possible reasons behind the sabotage of Starship One in 3301.
 Crime correspondent Ethan Takahashi reported from the Federal High Court:
 “Jasmina Halsey provided details of a top-level Federal Cabinet meeting in late April 3301, an event Which was never declassified. Its aim was to address the high levels of public dissatisfaction With her administration.”

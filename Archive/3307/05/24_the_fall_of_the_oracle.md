@@ -38,7 +38,9 @@ related_uuids:
 - 3ed695e3-4334-5111-bc87-ca2a91079e93
 - b6aa5197-46b1-54fe-8245-71ca6fe9fd40
 - c8970a7c-f1b9-57df-aaac-b318e5078cab
+- c7f92e1d-2f9c-599a-82e3-8426fe6ddf21
 ---
+
 
 
 The Oracle starport in The Delphi system began tumbling out of orbit following a recent Thargoid attack.

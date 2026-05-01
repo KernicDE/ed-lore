@@ -4,8 +4,14 @@ title: President Halsey Denounces Patron's Principles
 slug: president_halsey_denounces_patrons_principles
 date: '3301-04-27'
 source: GitHub
-summary: A skirmish broke out between Imperial and Federal forces in Volungu after the Patron's Principles, an Empire-aligned organisation from Liaedin, attempted to expand beyond Liaedin's borders. President Halsey denounced the move as a reckless abandonment of peace and the Federal Navy launched a fleet to repel the invasion. Chancellor Blaine stated the Patron's Principles acted without Imperial Senate support. The East India Company was dispatched to attempt peaceful resolution.
-player_impact: Pilots can sign up for active duty aboard Jemison Refinery in Volungu to help secure the system from Imperial incursion.
+summary: A skirmish broke out between Imperial and Federal forces in Volungu after
+  the Patron's Principles, an Empire-aligned organisation from Liaedin, attempted
+  to expand beyond Liaedin's borders. President Halsey denounced the move as a reckless
+  abandonment of peace and the Federal Navy launched a fleet to repel the invasion.
+  Chancellor Blaine stated the Patron's Principles acted without Imperial Senate support.
+  The East India Company was dispatched to attempt peaceful resolution.
+player_impact: Pilots can sign up for active duty aboard Jemison Refinery in Volungu
+  to help secure the system from Imperial incursion.
 persons:
 - Jasmina Halsey
 - Chancellor Blaine
@@ -23,10 +29,19 @@ locations:
 topics:
 - war
 - diplomacy
-modern_impact: The Volungu skirmish demonstrated how local Imperial factions could trigger inter-superpower conflicts without central authorisation.
+modern_impact: The Volungu skirmish demonstrated how local Imperial factions could
+  trigger inter-superpower conflicts without central authorisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- acb85cb3-c5ae-5cfe-807d-2175927721d8
+- 224b5274-9084-58c4-bcc5-96d3d962784f
+- 92f2e8cd-c684-57e5-85b0-a1303b7bc740
+- eb40a05b-a11a-58c5-b75e-7c9fb817f0d0
+- 5ff99938-fb18-5efd-bbf5-60725235e72e
+- d110815c-1a54-5fd8-bec0-4f2b78aab73e
 ---
+
 
 This weekend saw The outbreak of a skirmish between Imperial and Federal forces in The small but significant system of Volungu. Reports indicate that The conflict was started by the Patron's Principles, an Empire-aligned organisation based in the Nearby Liaedin region. 
 

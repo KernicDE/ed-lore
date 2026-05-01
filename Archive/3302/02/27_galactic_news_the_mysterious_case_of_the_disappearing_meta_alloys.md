@@ -28,7 +28,9 @@ significance: high
 related_uuids:
 - 1b8e7389-bd6f-558e-9b8f-fb98a7e667c5
 - 79707cce-a1a3-51f5-8c52-7946628254f1
+- af60d2e3-434b-5636-8239-951a1039b5ec
 ---
+
 
 
 Last month, the eminent scientist Ishmael Palin issued an appeal for meta-alloys, the rare material produced by the 'barnacles' of the Pleiades Nebula. The request was enthusiastically received by the galactic community, But the professor's research into the meta-alloys was brought to an abrupt halt when he and his team disappeared en route to Maia b1ba. 

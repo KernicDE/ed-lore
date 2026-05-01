@@ -4,7 +4,9 @@ title: Galactic News  Remembrance Campaign Comes to an End
 slug: galactic_news_remembrance_campaign_comes_to_an_end
 date: '3303-10-20'
 source: GitHub
-summary: The Labour Union of Kauruk's Remembrance Week concluded successfully, with hundreds of pilots gathering at Moore Terminal to pay respects to departed friends and loved ones.
+summary: The Labour Union of Kauruk's Remembrance Week concluded successfully, with
+  hundreds of pilots gathering at Moore Terminal to pay respects to departed friends
+  and loved ones.
 player_impact: Collect rewards from Moore Terminal in the Kauruk system.
 persons: []
 groups:
@@ -15,10 +17,14 @@ locations:
 topics:
 - memorial
 technologies: []
-modern_impact: A community-driven memorial event fostering solidarity among pilots during a time of galactic conflict.
+modern_impact: A community-driven memorial event fostering solidarity among pilots
+  during a time of galactic conflict.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 87238e8d-d480-5b0a-81d3-65a273e3767c
 ---
+
 
 A spokesperson for The Labour Union of Kauruk has announced that the organisation’s Remembrance Week has been resoundingly endorsed by the galactic community. Hundreds of pilots flocked to Moore Terminal over the past week, taking the opportunity to pay their respects to departed friends and loved ones. 
 

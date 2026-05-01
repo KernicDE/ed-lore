@@ -4,7 +4,8 @@ title: 'Federal Election: The Imperial Perspective'
 slug: federal_election_the_imperial_perspective
 date: '3309-10-12'
 source: API
-summary: Imperial leaders react to the Federal election, with Patreus preferring Archer's predictability and Aisling hoping for inter-superpower cooperation.
+summary: Imperial leaders react to the Federal election, with Patreus preferring Archer's
+  predictability and Aisling hoping for inter-superpower cooperation.
 player_impact: Not specifically mentioned.
 persons:
 - Denton Patreus
@@ -18,12 +19,20 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Patreus's preference for Archer — 'I expect Archer will have those same aggressive tendencies... Winters is clearly the more cunning and deceitful candidate' — reveals Imperial strategic thinking. Aisling's call to 'break the cycle of hostility between Empire and Federation' and her reference to ACT's success against the NMLA shows her cooperative instincts. Carvalho's economic analysis — 'some captains of industry anticipate a new era of trade with a friendlier Federation' — frames the commercial stakes.
+modern_impact: Patreus's preference for Archer — 'I expect Archer will have those
+  same aggressive tendencies... Winters is clearly the more cunning and deceitful
+  candidate' — reveals Imperial strategic thinking. Aisling's call to 'break the cycle
+  of hostility between Empire and Federation' and her reference to ACT's success against
+  the NMLA shows her cooperative instincts. Carvalho's economic analysis — 'some captains
+  of industry anticipate a new era of trade with a friendlier Federation' — frames
+  the commercial stakes.
 legacy_weight: 5
 significance: high
 related_uuids:
 - ba96abf1-456d-5b32-aa72-2a4b52ee1484
+- 023030b3-b87d-5220-9488-e82e00d7f4c4
 ---
+
 
 As the Federation readies itself for a new president, the Empire is preparing for potential changes to its relationship with its historical rival.
 Last year Emperor Arissa Lavigny-Duval severed all official collaboration with the other superpowers, except for limited contributions to Aegis. But this does not mean the Empire is ignoring the potential impact of either Jerome Archer or Felicia Winters becoming the next Federal president.

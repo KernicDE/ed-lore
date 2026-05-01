@@ -24,7 +24,12 @@ significance: medium
 related_uuids:
 - 3993967f-7de1-5710-9bbf-758f946fb39f
 - 3bb67076-8b96-50e9-8b63-a7f0e82a437e
+- c3a9a7ce-4bc3-5a04-a202-0a4e7cd821a8
+- 6d2d8b89-5a9d-58e5-bff5-229cab72d624
+- a0b5af8c-f073-5144-ba2c-8c304335713e
+- ed5fa27e-167e-54a9-9959-a763bdebb1a0
 ---
+
 
 
 Tens of thousands of Marlinist refugees have claimed sanctuary in Alliance space, after emigrating from The Empire to avoid political persecution.

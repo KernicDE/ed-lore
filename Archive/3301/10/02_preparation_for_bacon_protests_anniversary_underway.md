@@ -4,8 +4,12 @@ title: Preparation for 'Bacon Protests' Anniversary Underway
 slug: preparation_for_bacon_protests_anniversary_underway
 date: '3301-10-02'
 source: GitHub
-summary: The Bacon Cats cooperative announced plans for a major celebration commemorating the anniversary of the 'Bacon Protests' in the Carnoeck system. The event will feature historic exhibits, free bacon, and libations for all visitors. High demand for goods has already hit the system, with concerns raised about potential pirate activity.
-player_impact: Pilots can deliver goods such as beer and liquor to Carnoeck for the celebrations. Bounty hunters may find work clearing pirates attracted to the event.
+summary: The Bacon Cats cooperative announced plans for a major celebration commemorating
+  the anniversary of the 'Bacon Protests' in the Carnoeck system. The event will feature
+  historic exhibits, free bacon, and libations for all visitors. High demand for goods
+  has already hit the system, with concerns raised about potential pirate activity.
+player_impact: Pilots can deliver goods such as beer and liquor to Carnoeck for the
+  celebrations. Bounty hunters may find work clearing pirates attracted to the event.
 persons:
 - Julissa Silver
 - Andius Solon
@@ -16,10 +20,18 @@ locations:
 - Bacon City
 topics:
 - festival
-modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
 significance: low
+related_uuids:
+- efb71ecd-69a6-578f-a4be-bcdf2a0425f4
+- 3fd64cce-5c62-500c-8c2f-84e079cbaf49
+- 42255e4f-788f-5ba1-b12d-b1209e5ee2ba
+- 1217e10d-e2ad-5abc-9569-d691813bc646
+- 726bcfa9-d6e9-5e5b-b168-63c6a950bb7a
 ---
+
 
 Today, a spokesperson for The Bacon Cats, a cooperative of Independent pilots, addressed plans to host a spectacular celebration to mark The upcoming anniversary of the so-called 'Bacon Protests'. The spokesperson, Julissa Silver, released The following statement: 
 

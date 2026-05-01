@@ -4,8 +4,12 @@ title: Utopia Requests Support Amid Claims of Sirius Pressure
 slug: utopia_requests_support_amid_claims_of_sirius_pressure
 date: '3310-08-08'
 source: API
-summary: Pranav Antal asks pilots to deliver research materials to Polevnic, claiming Sirius Corporation is pressuring Utopia's suppliers and threatening the Sim Archive's data integrity.
-player_impact: Pilots can deliver classified scan databanks, cracked industrial firmware, unexpected emissions data, animal monitors, auto-fabricators, and micro controllers to Tanner Settlement in Polevnic.
+summary: Pranav Antal asks pilots to deliver research materials to Polevnic, claiming
+  Sirius Corporation is pressuring Utopia's suppliers and threatening the Sim Archive's
+  data integrity.
+player_impact: Pilots can deliver classified scan databanks, cracked industrial firmware,
+  unexpected emissions data, animal monitors, auto-fabricators, and micro controllers
+  to Tanner Settlement in Polevnic.
 persons:
 - Pranav Antal
 - Li Yong-Rui
@@ -19,7 +23,12 @@ topics:
 - corporate expansion
 - research
 - politics
-modern_impact: Antal's framing — 'the corporations we seek to avoid insist on making their presence felt' — positions Utopia as victim of corporate encroachment. His specific concern about 'Vitadyne nanomedicines that were stolen from us' references a prior conflict. Li Yong-Rui's response — unusually candid about seeking profit — contrasts with Antal's idealism. The tension between Utopia's philosophy and Sirius's pragmatism is a recurring theme.
+modern_impact: Antal's framing — 'the corporations we seek to avoid insist on making
+  their presence felt' — positions Utopia as victim of corporate encroachment. His
+  specific concern about 'Vitadyne nanomedicines that were stolen from us' references
+  a prior conflict. Li Yong-Rui's response — unusually candid about seeking profit
+  — contrasts with Antal's idealism. The tension between Utopia's philosophy and Sirius's
+  pragmatism is a recurring theme.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -28,6 +37,7 @@ related_uuids:
 - b758dad3-a553-5dcf-8b4f-5991271535b0
 - 50443c34-411a-58ea-8cc5-88e89af25d5c
 ---
+
 
 **Pilots’ Federation ALERT**
 Utopia has asked for encoded materials and commodities in the Polevnic system, as part of an initiative to update its reference library.

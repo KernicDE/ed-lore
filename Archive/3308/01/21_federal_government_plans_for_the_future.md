@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 President Zachary Hudson has delivered a speech to Congress on maintaining security for The Federation in the coming years.
 Excerpts from his address include The following:
 “In the last year, we have excelled at protecting Federal citizens from harm. The Proactive Detection Bureau proved Its worth in locating terrorists before they could strike, and Our security services played an instrumental role in the NMLA’s defeat.”

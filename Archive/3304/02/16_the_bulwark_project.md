@@ -33,7 +33,9 @@ significance: high
 related_uuids:
 - 76307554-ba68-5c8d-b7ee-92367b9b57e8
 - 9665e067-39ba-5291-ad4e-d19f356c2e60
+- 7024576d-2590-5a29-8396-403c85d12fb0
 ---
+
 
 
 The Federation has launched an initiative to develop autonomous military hardware With Which to fight the Thargoids. 

@@ -1,5 +1,4 @@
 ---
-
 uuid: 80813804-4338-5173-97fb-dcfc3d38c31c
 title: Deep Space ‘Anomalies’ Generate Discussion
 slug: deep_space_anomalies_generate_discussion
@@ -34,7 +33,9 @@ significance: high
 related_uuids:
 - b2b3d62b-a0f0-575b-8544-17fa7e9b482a
 - 51640971-fc47-5402-a2fd-7c945c162f1e
+- 5e8169a1-2fa0-5e69-816f-13078fef1cb1
 ---
+
 
 
 **Pilots’ Federation ALERT**

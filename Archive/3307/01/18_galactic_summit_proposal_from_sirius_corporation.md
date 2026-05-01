@@ -4,8 +4,10 @@ title: Galactic Summit Proposal from Sirius Corporation
 slug: galactic_summit_proposal_from_sirius_corporation
 date: 3307-01-18
 source: API
-summary: Utopia’s ability to host a diplomatic conference for All three superpowers has been challenged by The Sirius Corporation.
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: Utopia’s ability to host a diplomatic conference for All three superpowers
+  has been challenged by The Sirius Corporation.
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
 - Far
 - Li Yong-Rui
@@ -25,7 +27,9 @@ topics:
 - corporate expansion
 - diplomacy
 arc_id: null
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -35,7 +39,10 @@ related_uuids:
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - 8ea60378-45bb-5e97-80fc-103b0cdd5b4e
 - 86eb9c0f-fa6b-5089-b6ae-d233a1e64339
+- ed5fa27e-167e-54a9-9959-a763bdebb1a0
+- c29442f8-da7f-5d0f-842b-e2451abd99ef
 ---
+
 
 Utopia’s ability to host a diplomatic conference for All three superpowers has been challenged by The Sirius Corporation.
 The megacorp’s counter-proposal was announced by CEO Li Yong-Rui:

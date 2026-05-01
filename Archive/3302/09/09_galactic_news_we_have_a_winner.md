@@ -4,7 +4,8 @@ title: Galactic News  We Have a Winner!
 slug: galactic_news_we_have_a_winner
 date: '3302-09-09'
 source: GitHub
-summary: Commander Falchion of the Chi Orionis system has won the Melee Masters arena competition, using a ruse in the final bout to draw their opponent into firing range.
+summary: Commander Falchion of the Chi Orionis system has won the Melee Masters arena
+  competition, using a ruse in the final bout to draw their opponent into firing range.
 player_impact: None
 persons:
 - Commander Falchion
@@ -15,10 +16,17 @@ locations:
 topics:
 - sport
 technologies: []
-modern_impact: Competitive arena combat events continue to draw pilot participation and galactic viewership.
+modern_impact: Competitive arena combat events continue to draw pilot participation
+  and galactic viewership.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 55d7e247-6e12-5a79-b5de-2715ede50679
+- 9436ee43-93b4-5216-9855-e0f6ddac221a
+- 0068a3fe-f278-5786-987d-f6a089171e0a
+- 17bb7dc3-111a-5ed9-999a-de47f1b658de
 ---
+
 
 A pilot by The name of Commander Falchion has won the Melee Masters arena competition. 
 

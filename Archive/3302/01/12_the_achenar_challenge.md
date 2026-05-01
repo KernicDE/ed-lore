@@ -4,8 +4,13 @@ title: The Achenar Challenge
 slug: the_achenar_challenge
 date: '3302-01-12'
 source: GitHub
-summary: The Imperial capital system of Achenar has become a proving ground for thrill-seeking Pilots Federation commanders attempting the 'Achenar Challenge' — landing on Achenar 3, where gravity is approximately 6.7 times that of Earth. Over 100 craft have crashed since mid-December.
-player_impact: Pilots attempting to land on Achenar 3 do so at their own risk. Those experienced with 3-4g landings are more likely to succeed. Over 100 craft have already crashed.
+summary: The Imperial capital system of Achenar has become a proving ground for thrill-seeking
+  Pilots Federation commanders attempting the 'Achenar Challenge' — landing on Achenar
+  3, where gravity is approximately 6.7 times that of Earth. Over 100 craft have crashed
+  since mid-December.
+player_impact: Pilots attempting to land on Achenar 3 do so at their own risk. Those
+  experienced with 3-4g landings are more likely to succeed. Over 100 craft have already
+  crashed.
 persons:
 - Ulrich von Braun
 - Corrigendum
@@ -17,10 +22,18 @@ locations:
 - Achenar 3
 topics:
 - safety
-modern_impact: Demonstrates extreme planetary landing challenges and the dangers of high-gravity worlds.
+modern_impact: Demonstrates extreme planetary landing challenges and the dangers of
+  high-gravity worlds.
 legacy_weight: 1
 significance: low
+related_uuids:
+- e1c00d63-fa8e-50fc-bdfc-39fa5b4746bc
+- 2a2cdaef-e094-5db7-974b-7360e6fe87cc
+- a090b1be-2432-5675-83d6-72ecca86a6b7
+- cb60156f-f6ad-543b-b549-c1f23472cfba
+- 3bcb8d26-f1ac-506a-a763-402ca7cdf880
 ---
+
 
 The Imperial capital system of Achenar has recently attracted The attention of thrill-seeking Commanders of the Pilots Federation. Achenar's third planet has become a proving ground where bragging rights are earned in what is known As the 'Achenar Challenge'. 
 

@@ -4,7 +4,9 @@ title: Galactic News  Galactic Leaders Trade Blows
 slug: galactic_news_galactic_leaders_trade_blows
 date: '3303-02-03'
 source: GitHub
-summary: Superpower leaders exchange barbs over mysterious spacecraft sightings. Emperor Arissa Lavigny-Duval calls President Hudson a warmonger, while former Federal President Jasmina Halsey urges understanding and cooperation.
+summary: Superpower leaders exchange barbs over mysterious spacecraft sightings. Emperor
+  Arissa Lavigny-Duval calls President Hudson a warmonger, while former Federal President
+  Jasmina Halsey urges understanding and cooperation.
 player_impact: None
 persons:
 - Arissa Lavigny-Duval
@@ -21,10 +23,24 @@ topics:
 - alien contact
 - diplomacy
 - war
-modern_impact: Escalating political rhetoric among superpower leaders over alien sightings, with Halsey advocating cross-factional cooperation.
+modern_impact: Escalating political rhetoric among superpower leaders over alien sightings,
+  with Halsey advocating cross-factional cooperation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 947d74c0-150f-58ac-b83f-e1a3605a546b
+- 297518b9-2a20-5beb-b24e-80bb9fab33dd
+- 45b84dea-4293-588d-963a-38ee1b061eb5
+- 1d5c151e-15de-58e4-97e9-761dccdda439
+- 3521c9b6-51ab-56aa-b13d-3286b5a637da
+- 038568fb-4fcf-500d-bcaf-24e8b6c188c7
+- 0861b015-71fe-52eb-965b-e9c72e9f8272
+- 677d3fc6-788c-559a-90dd-1847201f631f
+- cd962620-775d-5c9e-93e9-c25b0edfdb19
+- 9b0c548f-3df4-5993-833e-ede55ef41aa0
+- 1034cc0f-a196-5d70-a72a-116480e4f667
 ---
+
 
 The leaders of the galaxy's three superpowers have released Further statements concerning reports of mysterious spacecraft. 
 

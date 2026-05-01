@@ -4,8 +4,13 @@ title: Trading Blocs Compete in Alliance Space
 slug: trading_blocs_compete_in_alliance_space
 date: '3311-05-22'
 source: API
-summary: Two trading blocs form in Alliance territory around Edmund Mahon and Nakato Kaine following the termination of the Sirius Strategic Defence Pact. The competition escalates as Alliance corporations rush to fill the military infrastructure vacuum left by Sirius Corporation's ordered withdrawal.
-player_impact: Trade pilots delivered Semiconductors, Ceramic Composites and Synthetic Fabrics to Bowersox Port in Winiama for Mahon's bloc or Fuca Dock in Apura for Kaine's bloc.
+summary: Two trading blocs form in Alliance territory around Edmund Mahon and Nakato
+  Kaine following the termination of the Sirius Strategic Defence Pact. The competition
+  escalates as Alliance corporations rush to fill the military infrastructure vacuum
+  left by Sirius Corporation's ordered withdrawal.
+player_impact: Trade pilots delivered Semiconductors, Ceramic Composites and Synthetic
+  Fabrics to Bowersox Port in Winiama for Mahon's bloc or Fuca Dock in Apura for Kaine's
+  bloc.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -24,13 +29,21 @@ topics:
 - war
 entities: []
 technologies: []
-modern_impact: Li Yong-Rui's dismissal of the move as 'fascinatingly short-sighted' frames Sirius Corp's narrative of betrayal. Kaine's supporters' claim that 'the Sirius pact was paper covering the cracks of Mahon's economic weakness' crystallises the political fault line between anti-corporate populism and megacorporate pragmatism that will define Alliance politics for the rest of the year.
+modern_impact: Li Yong-Rui's dismissal of the move as 'fascinatingly short-sighted'
+  frames Sirius Corp's narrative of betrayal. Kaine's supporters' claim that 'the
+  Sirius pact was paper covering the cracks of Mahon's economic weakness' crystallises
+  the political fault line between anti-corporate populism and megacorporate pragmatism
+  that will define Alliance politics for the rest of the year.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 7b79ade5-9607-5459-b7cb-73da8dcf6ddb
 - 1d446008-2da0-5f36-aec8-a1efc54e03ba
+- adcab895-4c2f-5ad3-928d-1de0bafc6f61
+- 952d5b46-745c-57fb-bc9a-1458b6d1323a
+- d410b16b-7ac3-54e3-ad81-af7d7123d4df
 ---
+
 
 Two significant trading blocs have emerged in Alliance territory following the termination of the Strategic Defence Pact.
 Last week, Sirius Corporation was ordered by the Alliance Assembly to reduce its involvement in Allied military infrastructure and logistics. The move, labelled 'fascinatingly short-sighted' by Sirius Corp CEO Li Yong-Rui, has triggered an economic rush from Allied corporations to grab the lucrative contracts issued as a result.

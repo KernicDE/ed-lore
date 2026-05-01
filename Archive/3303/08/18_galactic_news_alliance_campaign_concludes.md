@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The Alliance has announced that Its new research initiative has been enthusiastically received by the galactic community. Huge quantities of resources were delivered to Neville Horizons over the past week, allowing the Alliance to start constructing a range of instruments expressly designed to analyse Thargoid material. The campaign also received the support of Hundreds of Independent combat pilots, who took to their ships to protect the spaceways and defend the traders contributing to the initiative. 
 
 As the campaign drew to a close, an Alliance spokesperson said: 

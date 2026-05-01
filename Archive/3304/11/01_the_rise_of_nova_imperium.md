@@ -4,7 +4,11 @@ title: The Rise of Nova Imperium
 slug: the_rise_of_nova_imperium
 date: '3304-11-01'
 source: GitHub
-summary: Radical isolationist group Nova Imperium gains influence throughout the Empire. Led by a figure known only as the Imperator, dressed in an Imperial Navy uniform, the group advocates severing contact with all other systems to concentrate on Imperial self-protection. Journalist Cassia Carvalho reports that traditionalist citizens have embraced the rhetoric, with martial rallies held on several worlds.
+summary: Radical isolationist group Nova Imperium gains influence throughout the Empire.
+  Led by a figure known only as the Imperator, dressed in an Imperial Navy uniform,
+  the group advocates severing contact with all other systems to concentrate on Imperial
+  self-protection. Journalist Cassia Carvalho reports that traditionalist citizens
+  have embraced the rhetoric, with martial rallies held on several worlds.
 player_impact: None
 persons:
 - Cassia Carvalho
@@ -17,7 +21,9 @@ locations:
 topics:
 - politics
 - alien contact
-modern_impact: Nova Imperium's rise marks the emergence of a significant isolationist political movement within the Empire, challenging cross-superpower cooperation and appealing to citizens fearful of Thargoid invasion.
+modern_impact: Nova Imperium's rise marks the emergence of a significant isolationist
+  political movement within the Empire, challenging cross-superpower cooperation and
+  appealing to citizens fearful of Thargoid invasion.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -25,6 +31,7 @@ related_uuids:
 - e83ed9a3-d349-5a04-a90a-323cf0cec25c
 - 022febc0-0bac-50a9-ab0b-92002fcb91eb
 ---
+
 
 A radical group called Nova Imperium is gaining influence throughout the Empire. 
 

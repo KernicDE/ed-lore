@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 A spokesperson for The GalCop Colonial Defence Commission has announced that Its appeal for construction materials has been earnestly received by the galactic community, resulting In a huge number of deliveries to Dervish Platform, the organisation’s base of operations. The materials will be used to build a new Coriolis starport in the Ogmar system. 
 
 The GalCop Colonial Defence Commission has offered sincere thanks to those who supported the campaign. 

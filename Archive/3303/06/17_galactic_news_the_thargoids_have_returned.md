@@ -28,7 +28,9 @@ significance: high
 related_uuids:
 - 553db389-d54c-539a-aee0-be31ec1048b2
 - ee4558be-1df9-5900-8c68-c35fd406821f
+- 38e72e26-bb41-5fd2-a7b1-3ed082c89340
 ---
+
 
 
 Over the past few days, media streams have been abuzz With news that the so-called Unknown Ships are in fact Thargoid vessels, as Many had speculated. The Federal Times, having spent Several days confirming sources and authenticating reports, has now published an in-depth account of the events that led to the revelation. 

@@ -34,7 +34,9 @@ significance: low
 related_uuids:
 - 28b652ea-50d2-5f9a-b4dc-e0008d984866
 - be7638b3-2bd8-5760-929f-f330059f5f55
+- c84d7e4b-ee52-5383-880a-6bf8e18ca790
 ---
+
 
 
 The Imperial Citizen has published Its second editorial on Commander Salomé, who the Citizen alleges is Lady Kahina Tijani Loren, the Missing Imperial senator. 

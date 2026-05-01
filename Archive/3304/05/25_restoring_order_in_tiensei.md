@@ -1,5 +1,4 @@
 ---
-
 uuid: f2f08953-c75f-5cd0-9fcf-bc5644c16a6a
 title: Restoring Order in T’iensei
 slug: restoring_order_in_tiensei
@@ -24,7 +23,12 @@ modern_impact: Bounty hunting campaigns continue to be used by local authorities
   restore order in systems facing criminal uprisings.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 6c73a7e2-e5c8-54ae-a8be-12b073c86722
+- 60f99547-6620-511f-9d5a-a610a2c0ff18
+- fe2ef902-f105-5e82-bf79-83ee66c58228
 ---
+
 
 
 Authorities in the T'iensei system have reported a sharp increase in The number of criminals operating in The area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 

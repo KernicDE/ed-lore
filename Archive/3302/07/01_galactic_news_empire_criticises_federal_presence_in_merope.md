@@ -32,7 +32,12 @@ significance: high
 related_uuids:
 - 46145074-33d8-5109-8ebe-8507d07fbc8a
 - 9307ff89-10ea-5b2e-9eaa-6ddefc9f13b8
+- 44b836e6-b271-52de-84fa-d6398fd4d2c0
+- 2e56b2b2-2386-5f55-a93f-56225f0b899d
+- 09bf3dd7-15ce-52b5-86e7-9196197b072c
+- feefc384-57d7-5995-ad27-74d22927ade3
 ---
+
 
 
 Over The past week, there has been considerable debate over the presence of Federal battle cruisers in the Merope system. The ships have taken up position near the non-human structures commonly known as barnacles, prompting censure from various sections of the galactic community. 

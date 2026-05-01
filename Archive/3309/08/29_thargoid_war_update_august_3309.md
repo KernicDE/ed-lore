@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 Vox Galactica’s Jade Sanderlyn reviews developments in the ongoing war against the Thargoids.
 “There have been some impressive territorial gains against the Thargoids in recent weeks. The number of systems controlled by the Titans’ invasion fleets has tumbled, allowing many millions of people to return to their homes. This is largely thanks to coordinated action by independent pilots and anti-xeno squadrons.” 
 “However, I take no pleasure in reporting that the ‘unsubstantiated rumours’ I discussed last month are true. The Thargoids’ increased interest in capturing escape pods has been verified, with the appearance of a new vessel designed for this very task. Scythe-class hunters are now launching attacks en masse, using a combination of unique hull-breaching munitions and recovery drones to abduct living people.”

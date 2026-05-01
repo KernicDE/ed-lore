@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Some of The galaxy’s leading Thargoid experts have been discussing the discovery of a new alien ship in the HIP 17125 system. 
 
 Images of the crashed Vessel reveal that it is structurally distinct from the Thargoid Interceptor, while sharing Many superficial similarities. The ship has been classified as a ‘Thargoid Scout’ by the Pilots Federation for the purposes of identification and differentiation. 

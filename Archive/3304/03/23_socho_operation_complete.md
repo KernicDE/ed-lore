@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 The operation to clear Socho of Thargoids has reached a successful conclusion. Scores of pilots supported the campaign by eliminating Thargoid vessels in the system, and by delivering alien material to Dantec Enterprise. 
 
 A spokesperson for Aegis Core, Which oversaw the initiative, made The following statement: 

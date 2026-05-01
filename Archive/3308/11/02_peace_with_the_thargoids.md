@@ -4,8 +4,10 @@ title: Peace with the Thargoids?
 slug: peace_with_the_thargoids
 date: '3308-11-02'
 source: API
-summary: The rise of the xeno-peace movement has caused a number of public figures to discuss coexisting peacefully with the Thargoid race.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: The rise of the xeno-peace movement has caused a number of public figures
+  to discuss coexisting peacefully with the Thargoid race.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Dalton Chase
 - Jasmina Halsey
@@ -19,7 +21,9 @@ topics:
 - war
 - xenoarchaeology
 arc_id: null
-modern_impact: '"The ancient records of the Guardians, as deciphered by Ram Tah, describe how they learned enough of the Thargoids’ la..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"The ancient records of the Guardians, as deciphered by Ram Tah, describe
+  how they learned enough of the Thargoids’ la..." This perspective highlights the
+  broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -28,7 +32,9 @@ related_uuids:
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - f052748e-b6ee-52c8-9657-75e06d0e3612
+- cca7da56-4f0a-5a99-8e50-34d6a64413f0
 ---
+
 
 The rise of the xeno-peace movement has caused a number of public figures to discuss coexisting peacefully with the Thargoid race.
 With military options currently under discussion in the political capitals of all three superpowers, calls for diplomacy have sought to keep pace. Professor Shamus Madigan, Head of Xenology at Olympus Village University, is one of several figures to have weighed in on the matter: 

@@ -4,8 +4,10 @@ title: Mysterious Phenomenon Triggers Violent Attacks
 slug: mysterious_phenomenon_triggers_violent_attacks
 date: '3309-10-26'
 source: API
-summary: A naval squadron goes rogue in Shamash after an anomalous signal triggers mass violent mania during Fleet Exercise Grey Swan.
-player_impact: Not specifically mentioned in this article — defensive efforts being organised.
+summary: A naval squadron goes rogue in Shamash after an anomalous signal triggers
+  mass violent mania during Fleet Exercise Grey Swan.
+player_impact: Not specifically mentioned in this article — defensive efforts being
+  organised.
 persons:
 - Mackenzie Coates
 - Ulrich Maurer
@@ -18,13 +20,19 @@ topics:
 - mystery
 entities: []
 arc_id: null
-modern_impact: Coates's description — 'suffering from violent mania, caused by some kind of mass psychological disturbance' — echoes the later Grey Swan destruction. The signal breaking 'through our primary comms network' suggests technological sophistication. The mention of 'Frameshift Live' presenters being affected extends the threat beyond military personnel. The Thargoid weapon theory — despite 'no alien or unauthorised vessels detected' — leaves the origin open.
+modern_impact: Coates's description — 'suffering from violent mania, caused by some
+  kind of mass psychological disturbance' — echoes the later Grey Swan destruction.
+  The signal breaking 'through our primary comms network' suggests technological sophistication.
+  The mention of 'Frameshift Live' presenters being affected extends the threat beyond
+  military personnel. The Thargoid weapon theory — despite 'no alien or unauthorised
+  vessels detected' — leaves the origin open.
 legacy_weight: 5
 significance: high
 related_uuids:
 - f0545970-f1b7-5dca-bcd3-01fb93c2c9b2
 - cca7da56-4f0a-5a99-8e50-34d6a64413f0
 ---
+
 
 **Pilots’ Federation ALERT**
 A large naval squadron has gone rogue in the Shamash system, amid claims of widespread mental instability caused by an unknown signal.

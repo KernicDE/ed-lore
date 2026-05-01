@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Reports have begun circulating that The Federal research programme established last week to study The so-called ‘anomalous extraterrestrial objects’ (or AEOs) has been terminated. This news comes only a week after the inauguration of the project. 
 
 According to a source at Fort Harrison, where the programme was based, study of the objects was brought to an abrupt halt by the station governor, Aoishe Quaid. Apparently, Quaid ordered the head of the project, Professor Ishmael Palin, to immediately cease his research. The reason for Quaid’s decision is not known, although it is not believed to have been informed by concerns over public safety. 

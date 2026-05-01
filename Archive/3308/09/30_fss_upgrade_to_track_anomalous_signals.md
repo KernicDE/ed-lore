@@ -4,8 +4,11 @@ title: FSS Upgrade to Track Anomalous Signals
 slug: fss_upgrade_to_track_anomalous_signals
 date: '3308-09-30'
 source: API
-summary: Universal Cartographics rolls out a free FSS scanner firmware upgrade to help pilots isolate and triangulate the rogue signal sources, with multiple engineering firms collaborating on enhanced detection capabilities.
-player_impact: Pilots received a free FSS firmware upgrade to scan for and help triangulate the rogue signal sources.
+summary: Universal Cartographics rolls out a free FSS scanner firmware upgrade to
+  help pilots isolate and triangulate the rogue signal sources, with multiple engineering
+  firms collaborating on enhanced detection capabilities.
+player_impact: Pilots received a free FSS firmware upgrade to scan for and help triangulate
+  the rogue signal sources.
 persons:
 - Cynthia Sideris
 groups:
@@ -21,13 +24,18 @@ topics:
 - engineering
 technologies:
 - Full Spectrum System Scanner
-modern_impact: The FSS upgrade mobilises the pilot community as a distributed sensor network, turning independent explorers into citizen scientists in the effort to understand the anomalous signals.
+modern_impact: The FSS upgrade mobilises the pilot community as a distributed sensor
+  network, turning independent explorers into citizen scientists in the effort to
+  understand the anomalous signals.
 legacy_weight: 2
 significance: low
 related_uuids:
 - b2b3d62b-a0f0-575b-8544-17fa7e9b482a
 - 80813804-4338-5173-97fb-dcfc3d38c31c
+- 9fd431ff-2259-53f3-9b2b-3cd96b42e556
+- a020e5d5-ecdf-5cb3-afdd-78c074ba8d93
 ---
+
 
 **Pilots’ Federation ALERT**
 Full spectrum system (FSS) scanners are being updated with the aim of discovering the nature of the interstellar anomalies.

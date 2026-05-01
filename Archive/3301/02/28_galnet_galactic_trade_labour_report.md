@@ -4,8 +4,17 @@ title: GalNet Galactic Trade Labour Report
 slug: galnet_galactic_trade_labour_report
 date: '3301-02-28'
 source: GitHub
-summary: 'Three trade and labour updates: (1) Semi-professional miners from Sol have increased demand for Mineral Extractors in LAWD 26, with the Union of Toofla Progressive Party offering excellent rates and selling gold at discounted prices. (2) The Sirius Corporation announced 8 new colonisation candidate systems identified by explorers, with a deadline approaching for submissions to Nourse Orbital in Lambda Andromedae. (3) Core Dynamics seeks a large copper supply for the new Federal capital ship at Hudson Dock in BD+03 2338, but faces pirate and mercenary interference, with requests for Federal Navy security funding still pending.'
-player_impact: Traders can sell Mineral Extractors in LAWD 26, explorers can submit data to Lambda Andromedae before the deadline, and miners can deliver copper to BD+03 2338.
+summary: 'Three trade and labour updates: (1) Semi-professional miners from Sol have
+  increased demand for Mineral Extractors in LAWD 26, with the Union of Toofla Progressive
+  Party offering excellent rates and selling gold at discounted prices. (2) The Sirius
+  Corporation announced 8 new colonisation candidate systems identified by explorers,
+  with a deadline approaching for submissions to Nourse Orbital in Lambda Andromedae.
+  (3) Core Dynamics seeks a large copper supply for the new Federal capital ship at
+  Hudson Dock in BD+03 2338, but faces pirate and mercenary interference, with requests
+  for Federal Navy security funding still pending.'
+player_impact: Traders can sell Mineral Extractors in LAWD 26, explorers can submit
+  data to Lambda Andromedae before the deadline, and miners can deliver copper to
+  BD+03 2338.
 persons: []
 groups:
 - Core Dynamics
@@ -24,10 +33,27 @@ locations:
 topics:
 - exploration
 - piracy
-modern_impact: The GalNet trade report aggregated multiple economic opportunities and challenges across Federal and corporate space during a period of expanding colonial ambitions.
+modern_impact: The GalNet trade report aggregated multiple economic opportunities
+  and challenges across Federal and corporate space during a period of expanding colonial
+  ambitions.
 legacy_weight: 2
 significance: low
+related_uuids:
+- fd85ba23-a6c4-5029-a23d-44f4e58b6f3e
+- f6b14119-9ca9-541e-ac5a-c0b07124e47e
+- df250e77-95ad-5b74-8d41-7b759ceddd3e
+- 85cf9186-db93-5b83-9005-b93e35f40528
+- aa29bc1f-007a-5ba3-ba5a-e23925943e23
+- ae999b3f-f43e-54a3-a6e1-4a908026aa57
+- 7861251d-917b-56a4-b838-8e4f764527c0
+- b22bb690-c244-57c4-83a9-7df2aed19a60
+- 372139df-9e72-50dc-a03c-72bdef751ba2
+- ad95a9f7-e1ac-53ac-8803-fec2e9305a16
+- fada10ab-0ee9-59bc-a16d-aa4b916dc65c
+- 55d7e247-6e12-5a79-b5de-2715ede50679
+- 9964a785-b685-5db1-9d24-daaf889ec3e9
 ---
+
 
 An influx of semi-professional miners from Sol has caused a significant increase in The demand for Mineral Extractors in LAWD 26. In order to meet that demand, The Union of Toofla Progressive Party is currently offering excellent rates for all Mineral Extractors sold to Stone's Legacy. As if that wasn't generous enough, in order to attract new potential trading partners the Union of Toofla Progressive Party are also selling off large amounts of gold at bargain basement prices. Furthermore, the Union of Toofla Progressive Party has guaranteed that they will discount the price of locally sourced gold even Further if they manage to secure their place as a major player in the local markets. 
 

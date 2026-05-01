@@ -31,7 +31,11 @@ significance: medium
 related_uuids:
 - 6741f279-99ef-57b9-bb58-25d0b3e3782d
 - c9e936c2-4c67-56e7-b40a-dfb4f91811c2
+- 86eec1f5-b341-5d1c-88c1-66e4c0e28817
+- 6f6ab379-1cb1-5dcc-9a26-f683d76efe45
+- 21edb60a-4fd3-5fb4-9776-5574974a2f69
 ---
+
 
 
 It has now been over a week since Professor Ishmael Palin and his research team were rescued from a criminal syndicate known As the Blue Hand Gang. Since then, there has been considerable speculation about who might be responsible for The abduction. Although the Blue Hand Gang has been known to trade in human cargo, to date it has not been connected to any kidnapping operations. It is therefore assumed that the gang merely purchased Professor Palin and his colleagues from those responsible for the abduction. 

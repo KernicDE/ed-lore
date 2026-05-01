@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - 2954f303-bda3-5779-a276-6df1a55cd62b
 - 5099d0d9-4ac9-5541-b400-60125e76f48b
+- 722fe641-dd51-5082-a7f8-ca2c80aabf61
 ---
+
 
 
 Scientists in Colonia are investigating The region’s potential to support larger populations in the future. 

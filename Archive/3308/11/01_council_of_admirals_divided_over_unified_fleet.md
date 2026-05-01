@@ -4,8 +4,10 @@ title: Council of Admirals Divided Over Unified Fleet
 slug: council_of_admirals_divided_over_unified_fleet
 date: '3308-11-01'
 source: API
-summary: The Alliance Defence Force has been unable to reach a consensus over the proposal to combine the superpowers’ forces against the Thargoids.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: The Alliance Defence Force has been unable to reach a consensus over the
+  proposal to combine the superpowers’ forces against the Thargoids.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Angela Corcoran
 - George Varma
@@ -28,7 +30,9 @@ topics:
 - alien contact
 - corporate expansion
 arc_id: null
-modern_impact: '"A decision of such magnitude is more political than military, and therefore the province of the Assembly." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"A decision of such magnitude is more political than military, and
+  therefore the province of the Assembly." This perspective highlights the broader
+  stakes and continues to shape contemporary debates.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -38,6 +42,7 @@ related_uuids:
 - 56d06164-e5b6-59b9-ae17-1ddf24d0faf6
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 ---
+
 
 The Alliance Defence Force has been unable to reach a consensus over the proposal to combine the superpowers’ forces against the Thargoids.
 Admirals Liam Flanagan , George Varma and Rachel Ziegler all openly support the concept of a unified fleet formed of Allied, Federal and Imperial vessels. However, Admirals Nikolas Glass, Maristela Silva  and Tahir West have rejected this in favour of focusing on the strategic defence pact with Sirius Corporation.

@@ -33,7 +33,10 @@ significance: high
 related_uuids:
 - 2f9cd58e-e942-54a8-82a1-b3433c3d5088
 - 65ae5ad5-135a-5f67-9e86-438acd8b6d14
+- eba59710-06c7-540d-918d-9714d997286f
+- 7be8b6c0-0dd1-5013-94be-5e1a3d4561f6
 ---
+
 
 
 Yuri Grom has announced an initiative to create a new shipyard in The CPC 20 6743 system. The shipyard will produce capital ships With Which to defend human space from both human and alien threats. 

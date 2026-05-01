@@ -4,8 +4,11 @@ title: Community Goal  Defending Graill Redd
 slug: community_goal_defending_graill_redd
 date: '3302-06-30'
 source: GitHub
-summary: The Graill Redd Liberals place a kill order on wanted ships in the Graill Redd system to counter attempts by neighbouring communist organisations to cultivate discord and pave the way for communist introduction.
-player_impact: Hunt wanted ships in the Graill Redd system and deliver bounty vouchers to J. G. Ballard Gateway for rewards.
+summary: The Graill Redd Liberals place a kill order on wanted ships in the Graill
+  Redd system to counter attempts by neighbouring communist organisations to cultivate
+  discord and pave the way for communist introduction.
+player_impact: Hunt wanted ships in the Graill Redd system and deliver bounty vouchers
+  to J. G. Ballard Gateway for rewards.
 persons: []
 groups:
 - Graill Redd Liberals
@@ -19,10 +22,14 @@ topics:
 - ship
 - war
 technologies: []
-modern_impact: Ideological proxy conflicts between factions demonstrate how superpower tensions manifest at the local system level.
+modern_impact: Ideological proxy conflicts between factions demonstrate how superpower
+  tensions manifest at the local system level.
 legacy_weight: 2
 significance: low
+related_uuids:
+- baa0d920-01ed-5e82-ab7e-fd14280ea3a3
 ---
+
 
 Authorities in The Graill Redd system have reported a sharp increase in The number of criminals operating in the area. Apparently, organisations in neighbouring systems – the Citizen Party of G146-60 and the Workers Party of G 176-29 – are attempting to cultivate discord in the system in order to pave the way for the introduction of communism. 
 

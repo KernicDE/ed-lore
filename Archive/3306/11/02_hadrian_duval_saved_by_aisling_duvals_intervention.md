@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 Princess Aisling Duval has provided lifesaving aid to Imperator Hadrian Augustus Duval, who was severely wounded by NMLA terrorists. 
 
 The INV Achenar's Courage, transported her to the Paresa system where she offered protection against Further assassination attempts.  

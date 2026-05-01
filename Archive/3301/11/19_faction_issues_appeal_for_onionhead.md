@@ -31,7 +31,10 @@ significance: medium
 related_uuids:
 - 860b46da-b458-55f4-b0bc-5fe860b90758
 - ea0496c2-a753-54ad-b6de-0c3d9bf29edf
+- 5d765b40-eb24-5513-8d25-b609d716e3eb
+- fe6cf149-454b-5a5a-b502-a09c0c5697aa
 ---
+
 
 
 A faction known As the Drug Empire of Xelabara has issued a request for The controversial narcotic onionhead. The drug was once a significant trade commodity, but it suffered a setback last year when former Federal President Jasmina Halsey declared it illegal in Federal space. Rooney 'Rush' Romero, a spokesperson for the Drug Empire of Xelabara, explained that the appeal is partly intended to revitalise the market: 

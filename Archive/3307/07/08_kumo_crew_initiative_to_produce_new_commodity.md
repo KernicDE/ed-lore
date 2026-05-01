@@ -4,8 +4,12 @@ title: Kumo Crew Initiative to Produce New Commodity
 slug: kumo_crew_initiative_to_produce_new_commodity
 date: '3307-07-08'
 source: API
-summary: The Kumo Crew syndicate requests deliveries to mass-produce 'helix', a recreational drug believed to originate from the Blue Viper Club dredger. Arch-Corsair Kay Volantyne claims it has medicinal and psychological benefits. Authorities express concern about drug addiction, with rumours suggesting helix may be a new strain of onionhead.
-player_impact: Pilots delivered agronomic treatment, liquid oxygen and performance enhancers to Kumo City in the Pegasi Sector PN-T c3-14 system.
+summary: The Kumo Crew syndicate requests deliveries to mass-produce 'helix', a recreational
+  drug believed to originate from the Blue Viper Club dredger. Arch-Corsair Kay Volantyne
+  claims it has medicinal and psychological benefits. Authorities express concern
+  about drug addiction, with rumours suggesting helix may be a new strain of onionhead.
+player_impact: Pilots delivered agronomic treatment, liquid oxygen and performance
+  enhancers to Kumo City in the Pegasi Sector PN-T c3-14 system.
 persons:
 - Kay Volantyne
 - Archon Delaine
@@ -29,7 +33,9 @@ technologies:
 - Liquid oxygen
 - Performance enhancers
 arc_id: kumo-crew-rise
-modern_impact: The helix initiative marks the Kumo Crew's entry into large-scale drug manufacturing, with the Blue Viper Club connection suggesting an alliance between pirates and nomadic dredger clans that expands criminal networks across the galaxy.
+modern_impact: The helix initiative marks the Kumo Crew's entry into large-scale drug
+  manufacturing, with the Blue Viper Club connection suggesting an alliance between
+  pirates and nomadic dredger clans that expands criminal networks across the galaxy.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -37,6 +43,7 @@ related_uuids:
 - b1886f93-ecbf-50e3-83c6-743f46436d7b
 - ea0496c2-a753-54ad-b6de-0c3d9bf29edf
 ---
+
 
 **Pilots Federation ALERT**
 The Kumo Crew syndicate is requesting deliveries to mass-produce a recreational drug named ‘helix’.

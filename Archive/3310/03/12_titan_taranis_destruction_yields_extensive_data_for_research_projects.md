@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The recent destruction of Titan Taranis has yielded a significant amount of data that scientists across the galaxy have begun interrogating.
 Science correspondent Leon Banerjee summarised for Vox Galactica:
 “Research on Titans has been ongoing since their first appearance, and understanding how they function has been considered crucial to humanity’s survival in the Thargoid war.”

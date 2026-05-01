@@ -27,7 +27,9 @@ significance: medium
 related_uuids:
 - 1bd962a4-bfa3-585d-b8e2-da4332eec95a
 - e8a59924-07ce-53e6-9c98-07022706297f
+- 12f4da65-9c2d-59ce-963c-ee406bf4c1b7
 ---
+
 
 
 Work has now begun on a new Ocellus starport in The Kaushpoos system. The project began With a request from the Explorers' Association, Which issued an appeal for metals for use in the station superstructure. The response to the request was overwhelmingly positive, and work on the starport is now underway. A spokesperson for the Explorers' Association released a brief statement: 

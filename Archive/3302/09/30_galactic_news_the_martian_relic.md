@@ -25,7 +25,9 @@ significance: high
 related_uuids:
 - 3133f90c-752e-57a3-8867-34e370a2cc57
 - 96f02e47-3d25-5ec1-904e-1c49c37b218d
+- d3424148-f4c6-5a28-8527-92aae8d706ad
 ---
+
 
 
 The discovery of mysterious wreckage in the Pleiades Nebula has rekindled interest in the so-called Martian Relic, an object discovered beneath the surface of Mars over One thousand years ago. 

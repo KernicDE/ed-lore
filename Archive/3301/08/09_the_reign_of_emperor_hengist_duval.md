@@ -4,7 +4,14 @@ title: The Reign of Emperor Hengist Duval
 slug: the_reign_of_emperor_hengist_duval
 date: '3301-08-09'
 source: GitHub
-summary: Historian Sima Kalhana recounts key moments from Emperor Hengist Duval’s life. Born in 3163, he became the 15th Emperor in the Duval bloodline in 3233. His reign saw the cold war with the Federation thaw, then recently resume. The Frame Shift Drive was introduced during his rule. He fell ill in 3300, slipped into a coma at the turn of 3301, then recovered. He decreed his only legitimate child Harold unfit to rule, and supported Arissa Lavigny-Duval’s claim by announcing marriage to her mother Florence Lavigny, intending to formally adopt Arissa. His murder left the succession unclear.
+summary: Historian Sima Kalhana recounts key moments from Emperor Hengist Duval’s
+  life. Born in 3163, he became the 15th Emperor in the Duval bloodline in 3233. His
+  reign saw the cold war with the Federation thaw, then recently resume. The Frame
+  Shift Drive was introduced during his rule. He fell ill in 3300, slipped into a
+  coma at the turn of 3301, then recovered. He decreed his only legitimate child Harold
+  unfit to rule, and supported Arissa Lavigny-Duval’s claim by announcing marriage
+  to her mother Florence Lavigny, intending to formally adopt Arissa. His murder left
+  the succession unclear.
 player_impact: None
 persons:
 - Hengist Duval
@@ -21,10 +28,18 @@ locations:
 - Achenar
 topics:
 - succession
-modern_impact: Retrospective on Emperor Hengist Duval’s reign and the succession crisis triggered by his assassination.
+modern_impact: Retrospective on Emperor Hengist Duval’s reign and the succession crisis
+  triggered by his assassination.
 legacy_weight: 4
 significance: high
+related_uuids:
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- 851a00f1-7638-598a-bfd2-76d4c7c2972e
+- 56b718e2-4c9f-5664-b63e-9f87139379fe
+- 1a402d25-6d25-5d43-b035-af4f364f323d
+- 74f96d5d-43c7-50ef-9f79-9c7047e42d9b
 ---
+
 
 In respect of the assassination of Emperor Hengist Duval the planned article for This week has been moved to next week so that historian Sima Kalhana relates some of the key moments from his life. 
 

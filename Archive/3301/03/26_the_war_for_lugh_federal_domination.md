@@ -39,7 +39,15 @@ significance: medium
 related_uuids:
 - 0609e70f-b48f-5f02-9178-a03dc8fbe33a
 - 23337b73-a2df-58b5-ad8a-52e1fca21421
+- ab118a7f-a481-5ef9-9e31-2a40ca241017
+- 4c97bd81-a4e4-5a5b-89bf-7dc824c2ce92
+- e2a08ba7-b894-5212-9fd5-3c1e955a59d2
+- 460a7068-a7a1-55fc-a73b-35c3a7fcd6e0
+- 006f9c9b-a066-52c5-b468-9dcfda6f4d43
+- 8df95e12-c87d-5425-9ce9-d805583a8c3e
+- 8d070294-9468-5b76-bce0-e6183658ed76
 ---
+
 
 
 The past fortnight has seen a devastating war rage through the once peaceful nation of Lugh. 

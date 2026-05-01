@@ -4,8 +4,12 @@ title: Galactic News  Federal Campaign Concludes
 slug: galactic_news_federal_campaign_concludes
 date: '3302-08-11'
 source: GitHub
-summary: Federal President Zachary Hudson announced the successful conclusion of the campaign to gather construction materials for three new Farragut-class Battlecruisers. Hundreds of pilots delivered materials to Brady Horizons in the Gooheimar system, allowing work on the first vessel to begin.
-player_impact: Collect rewards at Brady Horizons in Gooheimar if you contributed to the campaign.
+summary: Federal President Zachary Hudson announced the successful conclusion of the
+  campaign to gather construction materials for three new Farragut-class Battlecruisers.
+  Hundreds of pilots delivered materials to Brady Horizons in the Gooheimar system,
+  allowing work on the first vessel to begin.
+player_impact: Collect rewards at Brady Horizons in Gooheimar if you contributed to
+  the campaign.
 persons:
 - Zachary Hudson
 groups:
@@ -18,10 +22,18 @@ topics:
 - war
 technologies:
 - Farragut-class Battlecruiser
-modern_impact: Federal capital ship construction signals intensified military posturing against the Empire and shapes long-term naval power balances.
+modern_impact: Federal capital ship construction signals intensified military posturing
+  against the Empire and shapes long-term naval power balances.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 8c502994-8724-594e-8190-01e2df2f7ffb
+- 68330d67-d8d6-5de6-81bd-b40899200b34
+- d56664d5-f8e2-56ce-9a56-d3cf945ff3fb
+- 11cb4845-96e1-5ff1-ab46-1a3b0878799d
+- 6bbc1f71-f0c7-5d7a-b972-22f82a375b27
 ---
+
 
 Federal President Zachary Hudson has announced that The Federal appeal for construction materials received the enthusiastic support of the galactic community. Hundreds of Independent pilots supported the campaign by delivering autofabricators, tantalum and superconductors to Brady Horizons in the Gooheimar system, Which will allow the Federation to start work on the first of three new Farragut-class Battlecruisers. 
 

@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 The Cerberus Plague was One of the most devastating outbreaks to blight the galaxy for generations, devastating Dozens of systems and affecting countless worlds. Official figures place the death toll at over 100,000. 
 
 As of today, however, the disease is officially considered extinct. Carl Simmons, the specialist who led research into a cure, has confirmed that no new outbreaks of the plague have been reported since early August, and that the disease can therefore be considered eradicated. 

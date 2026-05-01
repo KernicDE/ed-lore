@@ -4,7 +4,9 @@ title: Rackham Under Investigation
 slug: rackham_under_investigation
 date: '3305-04-04'
 source: GitHub
-summary: The Federal Times cooperates with a Federal Intelligence Agency investigation into Rackham Capital Investments, with journalist Bryanna Blanco highlighting concerns about Taja Gavaris's suspicious rise through the company.
+summary: The Federal Times cooperates with a Federal Intelligence Agency investigation
+  into Rackham Capital Investments, with journalist Bryanna Blanco highlighting concerns
+  about Taja Gavaris's suspicious rise through the company.
 player_impact: None — background investigative report.
 persons:
 - Bryanna Blanco
@@ -18,13 +20,16 @@ topics:
 - corporate expansion
 - crime
 - investigation
-modern_impact: The investigation into Rackham Capital exposed the thin line between legitimate business and piracy in the Federation, though imposter FIA agents would later undermine the official inquiry.
+modern_impact: The investigation into Rackham Capital exposed the thin line between
+  legitimate business and piracy in the Federation, though imposter FIA agents would
+  later undermine the official inquiry.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 277328ee-e842-5d91-bda6-b028274dbd45
 - 7bc215c7-959c-53c1-a895-cd30136ff4f8
 ---
+
 
 The Federal Times has been asked to assist With a criminal investigation into Rackham Capital Investments. 
 

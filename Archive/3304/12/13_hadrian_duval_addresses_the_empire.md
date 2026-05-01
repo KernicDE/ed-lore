@@ -4,7 +4,10 @@ title: Hadrian Duval Addresses the Empire
 slug: hadrian_duval_addresses_the_empire
 date: '3304-12-13'
 source: GitHub
-summary: Hadrian Augustus Duval, revealed as the long-lost grandson of Emperor Hengist Duval, broadcasts a message to the Empire. He describes his humble upbringing as Hadrian Jansen, an independent trader, and declares that the Empire needs new leadership. He calls on citizens to join Nova Imperium in saving the Empire.
+summary: Hadrian Augustus Duval, revealed as the long-lost grandson of Emperor Hengist
+  Duval, broadcasts a message to the Empire. He describes his humble upbringing as
+  Hadrian Jansen, an independent trader, and declares that the Empire needs new leadership.
+  He calls on citizens to join Nova Imperium in saving the Empire.
 player_impact: None
 persons:
 - Hadrian Augustus Duval
@@ -15,7 +18,9 @@ groups:
 topics:
 - succession
 - politics
-modern_impact: Hadrian Duval's personal appeal to the Empire frames the succession crisis as a choice between entitled elites and a leader who understands ordinary citizens, broadening Nova Imperium's popular appeal.
+modern_impact: Hadrian Duval's personal appeal to the Empire frames the succession
+  crisis as a choice between entitled elites and a leader who understands ordinary
+  citizens, broadening Nova Imperium's popular appeal.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -25,6 +30,7 @@ related_uuids:
 - ee4ca040-662c-5763-b220-4db105a7fd77
 - bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
 ---
+
 
 Hadrian Augustus Duval, the long-lost grandson of Emperor Hengist Duval, has broadcast a message to the Empire: 
 

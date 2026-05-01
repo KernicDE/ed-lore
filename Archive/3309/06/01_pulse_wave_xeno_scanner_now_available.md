@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 An initiative in Rabh has enabled Aegis to begin manufacturing a module that gathers data about the Titans.
 Deliveries of ceramic composites, polymers, gallium and indium were immediately put to use mass-producing the pulse wave xeno scanner. Distribution is underway and rescue ships have already begun stocking the module.

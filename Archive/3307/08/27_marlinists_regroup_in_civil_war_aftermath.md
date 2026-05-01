@@ -29,7 +29,9 @@ significance: high
 related_uuids:
 - 5a5a8fa2-9000-5b3d-bce9-202f78f8fbfa
 - 7d86eb0f-fada-51be-ab71-bb330720f07a
+- 9d504b23-ad0b-5f30-b024-01047817945d
 ---
+
 
 
 The Marlinist Colonies are recovering from a period of political infighting and inter-faction conflict.

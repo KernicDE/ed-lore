@@ -27,7 +27,9 @@ significance: high
 related_uuids:
 - 11e84b08-9a8c-5598-8fad-3e16d4f4f6e2
 - e82181bd-cca2-5880-849c-352071401ed9
+- cd35a3ab-87b8-5fc5-afe5-cb06f61f8236
 ---
+
 
 
 Dr Arcanonn, head of The Canonn Interstellar Research Group, has been released a statement to the media: 

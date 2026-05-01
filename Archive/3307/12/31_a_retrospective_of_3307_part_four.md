@@ -52,7 +52,15 @@ related_uuids:
 - 00d01961-877a-52b8-a4ce-337aaa44ae3f
 - 205ec4c6-df7a-581e-8c72-20928345d6ce
 - 92fccdb6-99a8-591c-ac7c-cd2853326e55
+- 9d3f4421-0a7a-5e83-a7b1-cbde9daa8fb3
+- d34ec694-ba30-54ef-9995-81bcde8230a5
+- a2cbc388-713a-5948-95fc-7179a8dcad7e
+- 8389259d-a648-5484-9e90-f4b45ab488d5
+- e082f073-3f28-5763-bae5-097ba714529e
+- b88e6762-e193-5973-92b7-060b3f71309b
+- 278d7924-2868-5862-8a08-2dda0d9462e2
 ---
+
 
 
 The last In a series that reviews the events of the past year, by noted historian Sima Kalhana.

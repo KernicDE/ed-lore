@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Security personnel at Christian Dock in The Nganji System have successfully apprehended a group of armed interlopers, it has been confirmed. The intruders, who were reported to be in possession of personal weapons classed as illegal in Several systems, are being detained while they await preliminary sentencing. 
 
 Jason Treeves, Head of Security at Christian Dock, had The following to say: 

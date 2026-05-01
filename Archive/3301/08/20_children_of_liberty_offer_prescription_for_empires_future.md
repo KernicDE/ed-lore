@@ -4,7 +4,13 @@ title: Children of Liberty Offer Prescription for Empire's Future
 slug: children_of_liberty_offer_prescription_for_empires_future
 date: '3301-08-20'
 source: GitHub
-summary: The Children of Liberty issued a statement arguing the Empire is at a crossroads not just over succession but over whether the next leader will be answerable to the people. They claim Marlin Duval’s vision of representative democracy has been twisted by her brother’s progeny. While lamenting that no current claimant seems qualified to restore liberty, they noted Aisling Duval embraces the most democratic methods of all candidates and suggested she could win freedom-lovers’ support by returning the Empire to its democratic roots.
+summary: The Children of Liberty issued a statement arguing the Empire is at a crossroads
+  not just over succession but over whether the next leader will be answerable to
+  the people. They claim Marlin Duval’s vision of representative democracy has been
+  twisted by her brother’s progeny. While lamenting that no current claimant seems
+  qualified to restore liberty, they noted Aisling Duval embraces the most democratic
+  methods of all candidates and suggested she could win freedom-lovers’ support by
+  returning the Empire to its democratic roots.
 player_impact: None
 persons:
 - Virgil Kyle
@@ -18,10 +24,19 @@ locations:
 topics:
 - politics
 - succession
-modern_impact: Political pressure group advocates for democratic reform in the Empire during the succession crisis.
+modern_impact: Political pressure group advocates for democratic reform in the Empire
+  during the succession crisis.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 851a00f1-7638-598a-bfd2-76d4c7c2972e
+- 56b718e2-4c9f-5664-b63e-9f87139379fe
+- 9d0148b2-d0ec-597d-a16f-c88c72bf49ff
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- 1bf57b54-4735-58ba-bcc8-875fb5aa9410
+- d1ba606a-a92d-5487-bee8-5a38e8fd3580
 ---
+
 
 The group known as 'Children of Liberty' released another public statement today, This time addressing what it sees As the "crossroads" The Empire finds itself at in the wake of Emperor Hengist Duval’s assassination. 
 

@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-01'
 source: GitHub
-summary: Weekly summary covering Chief Inspector Kay Kilbride's murder by the League of Reparation, reactions to Aisling Duval and Jordan Rochester's engagement, Aegis reducing technology broker requirements for anti-Thargoid gear, Thargoid assault on Deciat, hostility toward the Far God cult, Colonia outpost plans, and successful conclusion of the Aegis military facility operation in the Pleiades.
+summary: Weekly summary covering Chief Inspector Kay Kilbride's murder by the League
+  of Reparation, reactions to Aisling Duval and Jordan Rochester's engagement, Aegis
+  reducing technology broker requirements for anti-Thargoid gear, Thargoid assault
+  on Deciat, hostility toward the Far God cult, Colonia outpost plans, and successful
+  conclusion of the Aegis military facility operation in the Pleiades.
 player_impact: None
 persons:
 - Kay Kilbride
@@ -39,7 +43,8 @@ topics:
 - research
 - terrorism
 - war
-modern_impact: This week spans terrorism, cross-superpower diplomacy, Thargoid warfare, and religious tensions, reflecting the multifaceted crises facing the galaxy.
+modern_impact: This week spans terrorism, cross-superpower diplomacy, Thargoid warfare,
+  and religious tensions, reflecting the multifaceted crises facing the galaxy.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -47,7 +52,10 @@ related_uuids:
 - 54d3fd1f-f0e9-545c-99f4-94612ad989e6
 - 166e5c41-db27-50de-a201-b4ba6503642b
 - ce4bd32c-e1cd-55e9-a220-4f15c711f86d
+- 9fd16cfc-fc44-55ca-9deb-4b0129f50261
+- d5e38d22-4fdf-50d4-9487-5f7c5162d42a
 ---
+
 
 Here are This week’s major stories. 
 

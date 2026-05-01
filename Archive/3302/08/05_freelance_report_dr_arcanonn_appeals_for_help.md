@@ -34,7 +34,10 @@ significance: medium
 related_uuids:
 - 17f6eadd-da56-5397-9c1f-5d11ad6d5ffa
 - 65bc9600-97e5-56db-be15-8dc00d5229c9
+- d402437c-53dc-5b0d-83ef-01f10c77651e
+- 46e41ef2-f21e-5e74-b0ab-3c7b9fb3252c
 ---
+
 
 
 The image transmitted by the mysterious Unknown Probes is still a mystery. But while the image occupies his teams, Dr Arcanonn of the Canonn Interstellar Research Group believes there is more to discover about the Probes themselves. The problem is supply. 

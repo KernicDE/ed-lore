@@ -4,8 +4,11 @@ title: Community Goal  Aid for the Mu Koji Refugees
 slug: community_goal_aid_for_the_mu_koji_refugees
 date: '3302-09-29'
 source: GitHub
-summary: The Kalana Independents have launched a relief effort for refugees displaced by the recent Empire-Federation conflict in the Mu Koji system, establishing a centre at Bujold Enterprise in the Kalana system.
-player_impact: Pilots can deliver basic medicines and evacuation shelters to Bujold Enterprise in the Kalana system to aid refugees from the Mu Koji conflict.
+summary: The Kalana Independents have launched a relief effort for refugees displaced
+  by the recent Empire-Federation conflict in the Mu Koji system, establishing a centre
+  at Bujold Enterprise in the Kalana system.
+player_impact: Pilots can deliver basic medicines and evacuation shelters to Bujold
+  Enterprise in the Kalana system to aid refugees from the Mu Koji conflict.
 persons: []
 groups:
 - Kalana Independents
@@ -17,10 +20,17 @@ topics:
 - humanitarian
 - trade
 technologies: []
-modern_impact: The Mu Koji refugee crisis exposes the humanitarian cost of superpower proxy wars and galvanises independent relief efforts.
+modern_impact: The Mu Koji refugee crisis exposes the humanitarian cost of superpower
+  proxy wars and galvanises independent relief efforts.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 0b9d4cb5-2512-5613-aba4-b006f790dcaa
+- f106e372-1066-55b9-9ba3-3b5d94443074
+- 6ac2e092-ea98-5484-b095-3ffb5688ce1e
+- b57317cc-d39a-5d38-86fb-8f6ac78483ab
 ---
+
 
 Earlier This month, the Mu Koji system was engulfed in the ongoing conflict between the Empire and the Federation, As the superpowers staged rival operations to secure enemy intelligence. 
 

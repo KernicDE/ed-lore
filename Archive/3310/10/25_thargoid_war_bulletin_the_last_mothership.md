@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 Titan Raijin in the Pegasi Sector IH-U b3-3 system has been destroyed, leaving only Cocijo still operational.
 Aden Tanner, anti-xeno strategist for Aegis, provided a brief statement:
 “My heart still soars to hear that another Titan has been taken down. Until very recently, these colossal constructs were seen as indestructible. Aegis was even drawing up long-term strategies based around them being permanently present in human space. The Guardian nanite torpedo, and the hard work of so many pilots, has made that academic.”

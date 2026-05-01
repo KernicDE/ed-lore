@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 The Distant Worlds 3 expedition has confirmed a series of key achievements as its diverse fleet continues toward an unexplored region of the galaxy.
 Expedition control reported that the flotilla has successfully cleared inhabited space and completed its first major staging objective at Colonia, designated Waypoint One of the current route. Colonia served as the fleet’s primary logistics and regrouping hub before the start of extended deep-range operations.
 While the fleet consolidated in the Colonia area, many independent commanders carried out a hazardous surface insertion on a lifeless rocky world informally dubbed the “Monde de la Mort” by pilots. The landing has been cited by organisers as one of the most technically demanding surface operations of the expedition so far due to its dangerously close orbit around the white dwarf star of Spoihaae XE-X d2-9.

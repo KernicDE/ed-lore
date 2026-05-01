@@ -4,8 +4,12 @@ title: Master Chefs Coming to Market
 slug: master_chefs_coming_to_market
 date: '3301-11-26'
 source: GitHub
-summary: The Revolutionary Noti Values Party confirms its 'Master Chefs' genetically engineered slaves are real and will soon be available for purchase, announcing plans to implant culinary knowledge directly into their cerebellums using Xihe Companions and holographic technology.
-player_impact: Deliver Xihe Companions to support the Revolutionary Noti Values Party's Master Chef implant project.
+summary: The Revolutionary Noti Values Party confirms its 'Master Chefs' genetically
+  engineered slaves are real and will soon be available for purchase, announcing plans
+  to implant culinary knowledge directly into their cerebellums using Xihe Companions
+  and holographic technology.
+player_impact: Deliver Xihe Companions to support the Revolutionary Noti Values Party's
+  Master Chef implant project.
 persons: []
 groups:
 - Revolutionary Noti Values Party
@@ -21,10 +25,18 @@ topics:
 technologies:
 - Xihe Companions
 - holographic technology
-modern_impact: Highlights ongoing ethical controversies surrounding genetic engineering and slavery in the galaxy.
+modern_impact: Highlights ongoing ethical controversies surrounding genetic engineering
+  and slavery in the galaxy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 0b443e30-902a-5de6-a5f6-ee994e6a69b7
+- 958946dd-ddb9-54bb-9426-59e23242f07a
+- e2e14bf4-f9e6-5257-9cc9-5bd8fa45f896
+- 757b224e-8344-5914-a83c-7b36144d25a6
+- 4f5bb72d-f757-5aea-bac2-311684658508
 ---
+
 
 Last month, a remarkable story emerged from The Noti system. According to an anonymous report, an organisation known As the Revolutionary Noti Values Party had created a new strain of slave labour known as 'the Master Chefs'. The unidentified whistleblower claimed the slaves were subjected to an intensive training programme designed to transform them into the galaxy's greatest gourmets – a claim dismissed by Many as an imaginative hoax. A subsequent report from the Federal Times of a Master Chef training facility at Weber Gateway went some way towards lending credibility to the story, but most people remained unconvinced. 
 

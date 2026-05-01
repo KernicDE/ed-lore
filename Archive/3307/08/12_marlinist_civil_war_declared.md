@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Conflict has erupted in The Hyades Sector RO-P b6-2 system between two factions of the Marlinist Colonies.
 The Exiled Marlinist Assembly of Baltah'Sine has declared war against the Marlinism Reformation Party, Which acts As the political wing of the NMLA.

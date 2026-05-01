@@ -4,7 +4,9 @@ title: Rackham Withdraws from Presidential Election
 slug: rackham_withdraws_from_presidential_election
 date: '3309-09-22'
 source: API
-summary: Zachary Rackham withdraws from the presidential election after Wallglass evidence links him to 'Calico Zack', with his running mate resigning and political rivals welcoming the news.
+summary: Zachary Rackham withdraws from the presidential election after Wallglass
+  evidence links him to 'Calico Zack', with his running mate resigning and political
+  rivals welcoming the news.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Rackham
@@ -20,13 +22,19 @@ topics:
 - investigation
 - piracy
 - politics
-modern_impact: Blackriver's spin — 'His amused tolerance of the nickname Calico Zack... is not an admission of any true link' — is transparent deflection. Turk's resignation as running mate is a clear signal of political toxicity. Archer's statement — 'Nobody with even a hint of criminality deserves a position of such significant power' — is rich with irony given his later actions. Winters's dismissal — 'stands aside to let the grown-ups do their work' — is characteristically direct.
+modern_impact: Blackriver's spin — 'His amused tolerance of the nickname Calico Zack...
+  is not an admission of any true link' — is transparent deflection. Turk's resignation
+  as running mate is a clear signal of political toxicity. Archer's statement — 'Nobody
+  with even a hint of criminality deserves a position of such significant power' —
+  is rich with irony given his later actions. Winters's dismissal — 'stands aside
+  to let the grown-ups do their work' — is characteristically direct.
 legacy_weight: 1
 significance: low
 related_uuids:
 - e1f8912f-da0e-5d58-8e5d-3f2427694698
 - 3ac43a4d-c6c1-51d2-904b-b0dbed304d35
 ---
+
 
 Zachary Rackham has officially ended his election campaign, following the discovery of evidence that supported claims of his criminal past.
 Federal Times journalist Bryanna Blanco published the results of an investigation by the Wallglass Investigations Agency, which included a message archive found on Zeta Trianguli Australis A 7 a. These findings strongly support a long-standing rumour that the trillionaire operated as notorious pirate lord ‘Calico Zack’, prior to inheriting his family’s wealth.

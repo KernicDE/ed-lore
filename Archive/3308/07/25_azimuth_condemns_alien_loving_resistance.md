@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 As its anti-xeno initiative in HIP 22460 continues, Azimuth Biotech has been deliberately targeted by protestors in other systems.
 Director Torben Rademaker, head of strategic operations, made a public broadcast from the corporation’s headquarters at Hind Mine starport:
 “Azimuth Biotech is dedicated to the vision of Salvation, whose expertise will soon quash the Thargoid blight once and for all. The Alliance, Empire and Federation have put aside their differences to turn this ambition into a reality. But a fractious minority are determined to prevent this, giving the Thargoids a window of opportunity to avoid their fate.”

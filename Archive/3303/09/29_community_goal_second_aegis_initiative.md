@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Last week, Aegis started developing weapons and technologies to address The rising Thargoid threat. While some were dismayed to see Aegis shift to a military focus, the general consensus was that the move was necessary. 
 
 Following news that Aegis is to embark on a second development initiative, Aegis' military liaison Admiral Aden Tanner released The following statement: 

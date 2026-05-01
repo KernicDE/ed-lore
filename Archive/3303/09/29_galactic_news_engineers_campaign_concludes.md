@@ -36,7 +36,9 @@ significance: high
 related_uuids:
 - 009ab048-a831-5f9f-a671-9143fc1afd44
 - e74d8914-c369-51e4-b454-1a8ffa294f7b
+- 89cbcdc5-269a-5056-ac44-2a87f5a8db44
 ---
+
 
 
 A spokesperson for Aegis has announced that Its appeal for Thargoid-related materials has reached a successful conclusion. Huge quantities of material were delivered to Awyra Flirble and Obsidian Orbital over The past week, following an enthusiastic response from the galactic community. They will now be delivered to the engineers Liz Ryder and Ishmael Palin so they can start work on new technologies to address the mounting Thargoid threat. 

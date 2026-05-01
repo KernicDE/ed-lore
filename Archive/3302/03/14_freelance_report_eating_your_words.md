@@ -4,7 +4,10 @@ title: Freelance Report  Eating Your Words
 slug: freelance_report_eating_your_words
 date: '3302-03-14'
 source: GitHub
-summary: Chef Oliver Gordon loses his battle over the 'PanGalactic' trademark and is forced to close his restaurant due to spiralling legal costs. The Pan Galactic Mining Corp had demanded he change the name and pay damages for intellectual property infringement.
+summary: Chef Oliver Gordon loses his battle over the 'PanGalactic' trademark and
+  is forced to close his restaurant due to spiralling legal costs. The Pan Galactic
+  Mining Corp had demanded he change the name and pay damages for intellectual property
+  infringement.
 player_impact: None
 persons:
 - Oliver Gordon
@@ -21,7 +24,14 @@ topics:
 modern_impact: Trade initiative affecting commodity markets.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 5e09253c-56dc-5373-bf00-fc22ac44243d
+- 310c9f19-2b52-5822-a9fa-f979f83937d0
+- 32b3485a-5b8b-5ec3-af24-ae8f69d54bd7
+- fab39187-1775-5f62-b4cc-7fc1befb7763
+- 99db0a77-421b-5e49-aa18-60b356f84b48
 ---
+
 
 Controversial chef Oliver Gordon was humiliated yesterday when he lost his battle over The 'PanGalactic' trademark. The cordon bleu has been forced to close his restaurant to meet spiralling legal costs. 
 

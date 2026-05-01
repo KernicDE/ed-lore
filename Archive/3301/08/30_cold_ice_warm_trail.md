@@ -33,7 +33,10 @@ significance: medium
 related_uuids:
 - 01e57bf3-c99c-514b-95b3-493716686774
 - c480985d-96e0-5c3a-a305-91da4a6ffbbe
+- 2ef47a0a-7b3e-5b95-ad44-740dd29c6b60
+- 96c8fc0c-2010-5641-919f-040d3d009e5a
 ---
+
 
 
 Early This morning, an Imperial Navy commando unit uncovered a hidden forward command post for The Kumo Crew invasion force in The Tjakiri system. There was evidence that the site had been occupied as recently as half an hour prior to the raid, as ice was Found In a glass in the abandoned command centre. DNA from stray hair follicles was analyzed by a forensics team – the results were a match for Archon Delaine. 

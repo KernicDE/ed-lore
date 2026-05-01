@@ -4,8 +4,11 @@ title: Community Goal  Upheaval in Sutekh
 slug: community_goal_upheaval_in_sutekh
 date: '3303-02-16'
 source: GitHub
-summary: A Federal convoy is destroyed in the Sutekh system and the Imperial faction Adad Exchange attempts to recover military intelligence from the wreckage. The Federation launches a counter-operation.
-player_impact: Support either the Adad Exchange or the United Sutekh Future in the Sutekh system.
+summary: A Federal convoy is destroyed in the Sutekh system and the Imperial faction
+  Adad Exchange attempts to recover military intelligence from the wreckage. The Federation
+  launches a counter-operation.
+player_impact: Support either the Adad Exchange or the United Sutekh Future in the
+  Sutekh system.
 persons: []
 groups:
 - Adad Exchange
@@ -15,10 +18,18 @@ locations:
 - Sutekh
 topics:
 - war
-modern_impact: Proxy warfare community goal in Sutekh over Federal military intelligence recovered from a destroyed convoy.
+modern_impact: Proxy warfare community goal in Sutekh over Federal military intelligence
+  recovered from a destroyed convoy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 2a8d14bb-3f01-5b7a-9a6d-e6455b268021
+- 92ab3791-b482-5d1a-9df1-31af570bc24b
+- 9b0c548f-3df4-5993-833e-ede55ef41aa0
+- c553201b-39fc-54de-82f6-1a41c0fad025
+- fff2f485-f8f2-5edc-9f15-c8581b90c721
 ---
+
 
 Recent reports indicate that a Federal convoy has been destroyed in The Sutekh system. It is not yet clear who is responsible for the attack, but security agencies based in Sutekh have tentatively identified the Adad Exchange, an Imperial faction. 
 

@@ -4,7 +4,9 @@ title: Far God Cult Praises Alien Victory
 slug: far_god_cult_praises_alien_victory
 date: '3308-08-16'
 source: API
-summary: The Far God cult celebrates the Thargoid victory in HIP 22460 as divine fulfilment, sparking outrage and calls for arrest while Dr Jameelah Griffin urges tolerance and notes the cult's lawful status and surge in recruitment.
+summary: The Far God cult celebrates the Thargoid victory in HIP 22460 as divine fulfilment,
+  sparking outrage and calls for arrest while Dr Jameelah Griffin urges tolerance
+  and notes the cult's lawful status and surge in recruitment.
 player_impact: Not specifically mentioned — this is a social report.
 persons:
 - Jameelah Griffin
@@ -18,10 +20,19 @@ topics:
 - religion
 - war
 arc_id: null
-modern_impact: The cult's joyous reaction to mass death highlighted how the Thargoid war had fractured human solidarity, with some viewing extinction as inevitable and even desirable, undermining collective resistance.
+modern_impact: The cult's joyous reaction to mass death highlighted how the Thargoid
+  war had fractured human solidarity, with some viewing extinction as inevitable and
+  even desirable, undermining collective resistance.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
+- 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
+- 8c4e7d2b-1a8f-5a0b-8f5d-9c4e7d2b1a8f
+- bc635a7c-22bf-5a79-b6bb-781f8b67a199
+- 77d08b93-d779-599d-9f2a-b4e7733d91a8
 ---
+
 
 A breakaway sect of the Thargoid-worshipping fringe religion is apparently celebrating the massacre of human forces in the HIP 22460 system.
 A message was broadcast from the Testament megaship by the anonymous woman known only as the First Apostle of the True Chapters:

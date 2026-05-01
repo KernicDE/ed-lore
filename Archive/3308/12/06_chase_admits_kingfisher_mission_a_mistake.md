@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 Congressman Dalton Chase has made a public statement regretting his involvement with the Thargoid Advocacy Project.
 Chase became a member of Congress after an electoral campaign focusing on inter-species diplomatic relations. He was a key organiser and fundraiser for the Kingfisher megaship, which attempted to open communications with the Taranis entity but was subsequently destroyed with no survivors.
 In a press statement delivered from Olympus Village on Mars, Congressman Chase announced:

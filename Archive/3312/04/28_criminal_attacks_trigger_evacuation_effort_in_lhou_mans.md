@@ -4,8 +4,11 @@ title: Criminal Attacks Trigger Evacuation Effort in Lhou Mans
 slug: criminal_attacks_trigger_evacuation_effort_in_lhou_mans
 date: 3312-04-28
 source: API
-summary: Coordinated criminal attacks damage four ports in Lhou Mans. Authorities call for civilian evacuation and combat support. Criminal elements remain active.
-player_impact: Combat and rescue CG in Lhou Mans. Evacuate civilians from damaged ports; eliminate criminal hostiles. Zorgon Peterson accelerated Lynx release to assist.
+summary: Coordinated criminal attacks damage four ports in Lhou Mans. Authorities
+  call for civilian evacuation and combat support. Criminal elements remain active.
+player_impact: Combat and rescue CG in Lhou Mans. Evacuate civilians from damaged
+  ports; eliminate criminal hostiles. Zorgon Peterson accelerated Lynx release to
+  assist.
 persons:
 - Mira Bukowski
 groups:
@@ -23,13 +26,17 @@ topics:
 - ship
 technologies:
 - Lynx Highliner
-modern_impact: Coordinated criminal attacks on tourist facilities with no claimed motive suggests possible connection to emerging mercenary or pirate networks. Zorgon Peterson's accelerated Lynx release demonstrates corporate rapid-response capability to security crises, potentially creating precedent for emergency production authorizations.
+modern_impact: Coordinated criminal attacks on tourist facilities with no claimed
+  motive suggests possible connection to emerging mercenary or pirate networks. Zorgon
+  Peterson's accelerated Lynx release demonstrates corporate rapid-response capability
+  to security crises, potentially creating precedent for emergency production authorizations.
 legacy_weight: 1
 significance: low
 related_uuids:
 - 5b4b06c3-8a29-548e-924f-3f36a4293edd
 - 46b8ec38-ca04-5680-b3a2-01de047bc6c4
 ---
+
 
 Authorities in the Lhou Mans system have issued an urgent call for assistance following a series of attacks on local tourist facilities.
 Although security forces successfully prevented further attacks, Dashiell Port, Sabine Gateway, Ryman Enterprise and Webb City all suffered heavy damage during the raids.

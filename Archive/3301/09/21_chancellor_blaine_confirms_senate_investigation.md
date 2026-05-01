@@ -4,7 +4,11 @@ title: Chancellor Blaine Confirms Senate Investigation
 slug: chancellor_blaine_confirms_senate_investigation
 date: '3301-09-21'
 source: GitHub
-summary: Chancellor Anders Blaine confirmed a Senate investigation into the connection between Princess Aisling Duval's office and Emperor's Dawn would begin immediately, despite the Senate being in closed session until the succession is decided. Aisling stated she would fully comply and had discovered alarming information to share. Several of Damon Clarke's associates were arrested and questioned by the IISS.
+summary: Chancellor Anders Blaine confirmed a Senate investigation into the connection
+  between Princess Aisling Duval's office and Emperor's Dawn would begin immediately,
+  despite the Senate being in closed session until the succession is decided. Aisling
+  stated she would fully comply and had discovered alarming information to share.
+  Several of Damon Clarke's associates were arrested and questioned by the IISS.
 player_impact: None
 persons:
 - Anders Blaine
@@ -22,7 +26,14 @@ technologies: []
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9ff59063-097c-550c-a321-0accc12810d0
+- d38de666-796d-5082-991e-e55ea008a732
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- d1003dbd-1405-582f-be67-0195758e8558
+- 2a25a3ae-9010-5554-8f52-0731676ebd52
 ---
+
 
 At The start of The day’s deliberations, Chancellor Anders Blaine declared that a Senate investigation into the claimed connection between Princess Aisling Duval’s office and the insurgent group Emperor’s Dawn was to be undertaken. The investigation will begin immediately, despite the Senate being in closed session until the succession is decided. 
 

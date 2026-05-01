@@ -26,7 +26,10 @@ significance: medium
 related_uuids:
 - 31e075c4-bef3-526b-ab00-c7c737361799
 - c9e936c2-4c67-56e7-b40a-dfb4f91811c2
+- 7bc44f0a-00b4-5ecc-a840-08e8175a1fe6
+- 6d6d7f1e-7088-54e3-873e-ba06ff4f2ce6
 ---
+
 
 
 The campaign from the Canonn Interstellar Research Group to establish a new research outpost in the Col 285 Sector IX-T d3-43 system has been enthusiastically received by the galactic community. Hundreds of pilots supported the initiative by delivering palladium to Thompson Dock, prompting a spokesperson for the Canonn to release a brief statement: 

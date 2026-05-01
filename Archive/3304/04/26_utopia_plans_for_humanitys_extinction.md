@@ -32,7 +32,11 @@ significance: high
 related_uuids:
 - 86f0d27f-4b59-5657-bd59-3baf4bfc6918
 - dc67887e-9471-5e4c-b61d-67dd794a104d
+- ca1298b7-f6b5-5dfb-a716-f0956072d329
+- aca55626-ad2a-54e9-9bb2-3f9a86209dd8
+- d20c7f2c-2229-5299-9a85-fd34ea293dbf
 ---
+
 
 
 An announcement from Simguru Pranav Antal, leader of Utopia, has addressed The possibility that humanity may lose the conflict against the Thargoids. 

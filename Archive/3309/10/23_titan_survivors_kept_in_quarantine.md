@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Thousands of people rescued from captivity within the Thargoid motherships remain isolated under strict medical and security protocols.
 Professor Alba Tesreau, head of Aegis, spoke at a press conference:
 “I’m relieved to see that the sub-surface extraction missiles are proving effective, especially considering how quickly they went into production. Many pilots are using them to excavate bio-storage capsules from beneath the hulls of the Thargoid Titans.”

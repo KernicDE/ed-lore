@@ -31,7 +31,14 @@ significance: medium
 related_uuids:
 - 15273afe-bfae-58ed-9f3b-306cf7fdddd7
 - 8c3ebbe8-50a6-55cd-9390-38dcc5e956c4
+- f6b14119-9ca9-541e-ac5a-c0b07124e47e
+- df250e77-95ad-5b74-8d41-7b759ceddd3e
+- 372139df-9e72-50dc-a03c-72bdef751ba2
+- 0991dc0b-24c4-5798-809c-e8f236e034b3
+- 5ff99938-fb18-5efd-bbf5-60725235e72e
+- 87f07cae-db7b-524b-97d1-722b513e627e
 ---
+
 
 
 Following The declaration of war by President Halsey earlier today, The Federal Navy’s attack on Polahukuna has been postponed indefinitely. Instead the newly built Capital Ship  , the FNS Nevermore, will be diverted to help With the offensive against Lugh. 

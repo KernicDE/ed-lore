@@ -28,7 +28,11 @@ significance: medium
 related_uuids:
 - 93706846-9f0e-58ed-8d5e-e1d3866fe835
 - b0b2232a-85c9-5e3b-9614-64d46c7495b1
+- 35ea6366-821d-5b3e-8537-f3524035f918
+- 7ba50e3b-b05e-5a91-9da4-4447aa50e604
+- 23d548cc-bd29-5d89-b517-9921f31fce79
 ---
+
 
 
 Last year, The Alliance established a foothold in the California Nebula With the construction of an outpost in the California Sector BA-A E6 system. 

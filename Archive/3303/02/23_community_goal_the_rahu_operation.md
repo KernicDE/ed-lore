@@ -4,8 +4,11 @@ title: Community Goal  The Rahu Operation
 slug: community_goal_the_rahu_operation
 date: '3303-02-23'
 source: GitHub
-summary: Criminals attack an Alliance naval convoy in the Rahu system and attempt to abduct personnel for illegal slavery. The Alliance appeals for pilots to recover escape pods and neutralise slavers.
-player_impact: Recover escape pods from the wreckage and deliver them to Acharya Station in Rahu. Combat pilots can neutralise wanted ships in the system.
+summary: Criminals attack an Alliance naval convoy in the Rahu system and attempt
+  to abduct personnel for illegal slavery. The Alliance appeals for pilots to recover
+  escape pods and neutralise slavers.
+player_impact: Recover escape pods from the wreckage and deliver them to Acharya Station
+  in Rahu. Combat pilots can neutralise wanted ships in the system.
 persons: []
 groups:
 - Alliance
@@ -16,10 +19,18 @@ topics:
 - crime
 - humanitarian
 - slavery
-modern_impact: Alliance rescue and combat community goal preventing the enslavement of convoy survivors in the Rahu system.
+modern_impact: Alliance rescue and combat community goal preventing the enslavement
+  of convoy survivors in the Rahu system.
 legacy_weight: 2
 significance: low
+related_uuids:
+- cd962620-775d-5c9e-93e9-c25b0edfdb19
+- 6a749ee2-3428-5c11-8cb6-4638f5a667be
+- 92ab3791-b482-5d1a-9df1-31af570bc24b
+- 30e4fb11-606a-57ca-8fe8-6020ede99b25
+- 8fe1df11-bfd3-56bf-94ab-af7e91d7e99d
 ---
+
 
 An Alliance spokesperson has announced that a Naval convoy has been attacked in the Rahu system. The spokesperson also confirmed that criminals have begun targeting the convoy With the intention of taking escape pods from the wreckage. They went on to say: 
 

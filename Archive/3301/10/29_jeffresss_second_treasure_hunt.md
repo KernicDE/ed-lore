@@ -4,16 +4,30 @@ title: Jeffress's Second Treasure Hunt
 slug: jeffresss_second_treasure_hunt
 date: '3301-10-29'
 source: GitHub
-summary: 'Reclusive philanthropist Alfred Jeffress announced his second galaxy-wide treasure hunt, offering a share of his personal fortune to the winner. A mystery object has been hidden somewhere in space, and the first person to find and deliver it to a specified location wins. The riddle provided is: ''A dissatisfied scholar keeps a visionary in his grasp as he makes his deal.'''
-player_impact: Pilots interested in puzzle-solving and exploration can participate in the treasure hunt by deciphering the riddle and searching for the hidden mystery object across the galaxy.
+summary: 'Reclusive philanthropist Alfred Jeffress announced his second galaxy-wide
+  treasure hunt, offering a share of his personal fortune to the winner. A mystery
+  object has been hidden somewhere in space, and the first person to find and deliver
+  it to a specified location wins. The riddle provided is: ''A dissatisfied scholar
+  keeps a visionary in his grasp as he makes his deal.'''
+player_impact: Pilots interested in puzzle-solving and exploration can participate
+  in the treasure hunt by deciphering the riddle and searching for the hidden mystery
+  object across the galaxy.
 persons:
 - Alfred Jeffress
 topics:
 - sport
-modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving across the galaxy.
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
+  across the galaxy.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 41c2abea-685e-5111-b190-8fe7e1ab82c0
+- f443590c-881e-59e8-b72f-a42a0aac5f34
+- 397d45f7-7c9d-578a-b2ba-e943e1092f2a
+- bf999950-89b6-5977-b23d-5a510676cd4f
+- 29f1ca40-0673-5961-9ad1-b07164a6538f
 ---
+
 
 Last month, The reclusive philanthropist Alfred Jeffress made headlines With his galaxy-wide treasure hunt, and now it seems the eccentric billionaire is at it again. Having promised that the first event would not be the last of Its kind, Jeffress has announced a second treasure hunt, and once again he is offering a share of his vast personal fortune to the winner. 
 

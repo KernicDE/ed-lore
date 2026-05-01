@@ -4,8 +4,13 @@ title: Rind Gold Electronics Org Campaign Concludes
 slug: rind_gold_electronics_org_campaign_concludes
 date: '3304-04-20'
 source: GitHub
-summary: The Rind Gold Electronics Org has announced the successful conclusion of its campaign. Large quantities of research materials and mined resources were delivered to Wegner Market, allowing the Empire to proceed with constructing a new pilot-training centre. A spokesperson stated that as dangers facing humanity become more potent, cultivating the human mind and unlocking its potential is essential.
-player_impact: Pilots who contributed can collect their rewards from Wegner Market in the Rind system.
+summary: The Rind Gold Electronics Org has announced the successful conclusion of
+  its campaign. Large quantities of research materials and mined resources were delivered
+  to Wegner Market, allowing the Empire to proceed with constructing a new pilot-training
+  centre. A spokesperson stated that as dangers facing humanity become more potent,
+  cultivating the human mind and unlocking its potential is essential.
+player_impact: Pilots who contributed can collect their rewards from Wegner Market
+  in the Rind system.
 persons: []
 groups:
 - Rind Gold Electronics Org
@@ -15,10 +20,15 @@ locations:
 topics:
 - construction
 - research
-modern_impact: The new pilot-training centre represents ongoing investment in human skill development as a complement to technological advancement.
+modern_impact: The new pilot-training centre represents ongoing investment in human
+  skill development as a complement to technological advancement.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 5ed57cf0-8965-579c-9d6c-4a90cbf23630
+- d3344fae-a41f-5e7b-af0b-ed85632fd68e
 ---
+
 
 The Rind Gold Electronics Org Campaign has announced that Its campaign has reached a successful conclusion. Large quantities of research materials and mined resources were delivered to Wegner Market over the past week, allowing the Empire to proceed With the construction of a new pilot-training centre. 
 

@@ -4,7 +4,12 @@ title: Call to Ban Far God Book
 slug: call_to_ban_far_god_book
 date: '3304-12-19'
 source: GitHub
-summary: Disgraced politician Juanita Bishop calls for a forthcoming book about the Far God sect by Dr Alfred Ulyanov and journalist Gethin Okonkwo to be banned, accusing the authors of being alien sympathisers and pro-Thargoid propagandists. Okonkwo responds that Bishop's demand is an attempt to prevent criminal investigation into her activities, noting the book includes first-hand accounts of worshippers attacked by Bishop's followers.
+summary: Disgraced politician Juanita Bishop calls for a forthcoming book about the
+  Far God sect by Dr Alfred Ulyanov and journalist Gethin Okonkwo to be banned, accusing
+  the authors of being alien sympathisers and pro-Thargoid propagandists. Okonkwo
+  responds that Bishop's demand is an attempt to prevent criminal investigation into
+  her activities, noting the book includes first-hand accounts of worshippers attacked
+  by Bishop's followers.
 player_impact: None
 persons:
 - Juanita Bishop
@@ -18,12 +23,15 @@ topics:
 - investigation
 - religion
 - alien contact
-modern_impact: Bishop's attempt to ban the Far God book highlights ongoing tensions between anti-xeno hardliners and those seeking to understand Thargoid-related religious movements, while raising questions about her own alleged criminal activities.
+modern_impact: Bishop's attempt to ban the Far God book highlights ongoing tensions
+  between anti-xeno hardliners and those seeking to understand Thargoid-related religious
+  movements, while raising questions about her own alleged criminal activities.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 852906f2-b606-50ea-b4f4-d3bd4af8e4d3
 ---
+
 
 Disgraced politician Juanita Bishop has called for a forthcoming book about The Far God sect to be banned: 
 

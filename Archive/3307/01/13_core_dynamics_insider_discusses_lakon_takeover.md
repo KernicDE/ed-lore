@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 An anonymous source within The shipbuilding corporation Core Dynamics has revealed details behind Its hostile takeover of Lakon Spaceways.
 The nameless insider had previously stated that the acquisition of Lakon was the personal project of Core Dynamics CEO Jupiter Rochester. These additional claims were broadcast via Vox Galactica:
 “In the last few years, Rochester has purchased Many companies based outside the Federation, such as Vodel. Lakon Spaceways is just the latest. It seems legal, but he manages these subsidiaries directly and installs his own people there. Some say he’s diversifying his family’s private holdings, rather than expanding the business.”

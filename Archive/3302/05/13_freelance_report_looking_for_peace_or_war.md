@@ -29,7 +29,9 @@ significance: high
 related_uuids:
 - 11e84b08-9a8c-5598-8fad-3e16d4f4f6e2
 - 157b98f9-9126-5564-b254-2cbba5d2f266
+- b6790be5-bc70-578e-8829-a683a49788c8
 ---
+
 
 
 Dr Derthek, a founding member of The Canonn Interstellar Research Group, has embarked on an ambitious project to map NGC 6357, also known As the War and Peace Nebula, in Its entirety. 

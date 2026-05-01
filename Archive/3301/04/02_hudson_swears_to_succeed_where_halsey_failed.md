@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Appearing on The popular Federal Politics Show, ‘Face The People’, Shadow President Hundson faced some tough questions about his recent criticism of President Halsey. 
 
 When asked if he felt it was appropriate for an official of his level to so openly attack a presidential incumbent, Hudson had This to say on the matter: 

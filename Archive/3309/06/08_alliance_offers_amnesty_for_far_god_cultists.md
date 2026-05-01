@@ -4,7 +4,9 @@ title: Alliance Offers Amnesty for Far God Cultists
 slug: alliance_offers_amnesty_for_far_god_cultists
 date: '3309-06-08'
 source: API
-summary: The Alliance proposes that the Federation deport imprisoned Far God cultists to Allied space rather than imprison them, offering religious tolerance as a political differentiator.
+summary: The Alliance proposes that the Federation deport imprisoned Far God cultists
+  to Allied space rather than imprison them, offering religious tolerance as a political
+  differentiator.
 player_impact: Not specifically mentioned — this is a political and diplomatic report.
 persons:
 - Edmund Mahon
@@ -19,7 +21,12 @@ topics:
 - humanitarian
 - religion
 arc_id: null
-modern_impact: Mahon's framing — 'The Alliance upholds the principles of religious tolerance' — is a direct contrast to Federation policy. His practical proposal — 'deports all Far God worshippers to Alliance space' — frames humanitarianism within existing legal frameworks. Driscoll's analysis — 'Mahon is grasping a high-profile opportunity to distinguish the libertarian Alliance from an increasingly authoritarian Federation' — is astute political commentary.
+modern_impact: Mahon's framing — 'The Alliance upholds the principles of religious
+  tolerance' — is a direct contrast to Federation policy. His practical proposal —
+  'deports all Far God worshippers to Alliance space' — frames humanitarianism within
+  existing legal frameworks. Driscoll's analysis — 'Mahon is grasping a high-profile
+  opportunity to distinguish the libertarian Alliance from an increasingly authoritarian
+  Federation' — is astute political commentary.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -27,6 +34,7 @@ related_uuids:
 - 35bd6845-b4e7-5c2f-a62c-12969561f402
 - da13374d-1993-57dc-8fdc-0f0d82f6b1e1
 ---
+
 
 The Alliance Assembly has submitted an appeal for clemency to Federal Congress for followers of the Order of the Far God.
 The Thargoid-worshipping faith was outlawed by the Federation in October 3308, after a failed initiative in the Popontia system to outfit a megaship named the Dedicant. Every member of the ‘True Chapters’ sect on board was arrested and stripped of citizenship, with FIA agents rounding up known collaborators in subsequent days. This was in accordance with the Federal constitution which forbids supporting enemies of the state, which the Thargoids are legally classified as.

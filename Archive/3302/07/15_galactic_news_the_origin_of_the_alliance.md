@@ -32,7 +32,11 @@ significance: medium
 related_uuids:
 - cf5e0da0-8492-5703-91cb-940336d1e45f
 - fa32baf7-800b-5d12-a610-230bab4a9569
+- a9dc8e99-af38-5d39-a0b0-b115cbf251ce
+- c9090a01-c935-51c2-80e1-8ee2060b7733
+- 86105191-2e27-5dbd-9176-5893e40ef5cd
 ---
+
 
 
 In a return to Our popular series on significant episodes from human history, noted historian Sima Kalhana discusses the foundation of the Alliance. 

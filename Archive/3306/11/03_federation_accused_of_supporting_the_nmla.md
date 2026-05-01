@@ -4,7 +4,8 @@ title: Federation Accused of Supporting the NMLA
 slug: federation_accused_of_supporting_the_nmla
 date: '3306-11-03'
 source: GitHub
-summary: The Empire reveals evidence suggesting the NMLA may be receiving help from Federal elements, while Federal systems struggle with an influx of Marlinist refugees.
+summary: The Empire reveals evidence suggesting the NMLA may be receiving help from
+  Federal elements, while Federal systems struggle with an influx of Marlinist refugees.
 player_impact: None
 persons:
 - Liz Ryder
@@ -15,10 +16,19 @@ groups:
 topics:
 - humanitarian
 - terrorism
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
+  the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 4
 significance: high
+related_uuids:
+- ac1ee566-f2a3-5093-9d2a-ba2fe98f7346
+- 20fdf55d-94b0-55c6-9c70-4c26b0dbc494
+- 5d9ab4ba-65c3-50f9-9c27-cfbc9bd2f078
+- d1d08497-4af0-570f-8be8-dee3c1c8b6fb
+- 00166067-886c-56fa-a0a6-e6bb8ff8bb4c
+- c567d3a4-1255-56d4-806c-18850b5c46aa
 ---
+
 
 The Empire has revealed new evidence that suggests the NMLA terrorist group may be receiving help from elements within the Federation. 
 

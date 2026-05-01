@@ -4,8 +4,11 @@ title: Freelance Report  Puritanical Organisation Targets Traders
 slug: freelance_report_puritanical_organisation_targets_traders
 date: '3302-05-17'
 source: GitHub
-summary: An extremist temperance organisation from Eravate begins interdicting and destroying traders delivering legal intoxicants to Skvortsov Orbital for the Distant Worlds Expedition celebration. The Diamond Frogs vow to protect delivery pilots.
-player_impact: Pilots delivering party supplies to Skvortsov Orbital faced attacks from Eravate extremists.
+summary: An extremist temperance organisation from Eravate begins interdicting and
+  destroying traders delivering legal intoxicants to Skvortsov Orbital for the Distant
+  Worlds Expedition celebration. The Diamond Frogs vow to protect delivery pilots.
+player_impact: Pilots delivering party supplies to Skvortsov Orbital faced attacks
+  from Eravate extremists.
 persons:
 - Felix Dyson
 - Paramemetic
@@ -24,7 +27,14 @@ topics:
 modern_impact: Community celebration bringing pilots together.
 legacy_weight: 1
 significance: low
+related_uuids:
+- a47d7bf5-628d-5359-9d28-f17141898410
+- 00b8269f-ac43-5871-b0af-e1e08174d21c
+- 5582b9ef-8d8c-5c8b-a717-f4a26f7572f4
+- 8dca9a60-ba3f-54e2-909f-1e253b49f7f5
+- 31e075c4-bef3-526b-ab00-c7c737361799
 ---
+
 
 Earlier This week, private security firm The Diamond Frogs issued a request for liquor and Other legal narcotics to be delivered to Skvortsov Orbital in 63 G. Capricorni for a massive party celebrating the success of the Distant Worlds Expedition. Independent traders throughout civilized space have responded enthusiastically to the appeal, but it would appear not everyone wants to share in the festivities. 
 

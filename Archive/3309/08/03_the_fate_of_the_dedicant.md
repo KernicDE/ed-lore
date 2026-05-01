@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The lost megaship Dedicant has been located in HIP 19600, with signs of Thargoid attack and all inhabitants missing. 
 The Dedicant was being prepared by Federal authorities to deport imprisoned members of the Order of the Far God when it unexpectedly jumped into hyperspace. Pilots who helped decipher its fragmented distress call were informed of the recent discovery by the Imperial Navy.

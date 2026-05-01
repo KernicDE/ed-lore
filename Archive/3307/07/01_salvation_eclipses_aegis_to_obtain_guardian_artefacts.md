@@ -43,6 +43,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Rival delivery campaigns by Aegis Research and Taurus Mining Ventures in The PMD2009 48 system have concluded.
 Guardian artefacts were delivered to the megaship Glorious Prospect, Which was contracted on behalf of the anonymous ‘Salvation’, in greater quantities than to the Aegis megaship Archimedes.

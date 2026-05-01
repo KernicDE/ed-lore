@@ -4,7 +4,9 @@ title: Arrest Made in Starship One Criminal Case
 slug: arrest_made_in_starship_one_criminal_case
 date: '3306-09-18'
 source: GitHub
-summary: Chief Technician Rory Webster of the Federal Navy Engineering Corps is arrested for sabotaging Starship One. He is charged with mass murder and attempted treason. President Hudson declines to comment, while Shadow President Winters calls for justice.
+summary: Chief Technician Rory Webster of the Federal Navy Engineering Corps is arrested
+  for sabotaging Starship One. He is charged with mass murder and attempted treason.
+  President Hudson declines to comment, while Shadow President Winters calls for justice.
 player_impact: None
 persons:
 - Rory Webster
@@ -16,7 +18,8 @@ groups:
 - Federal Attorney's Office
 topics:
 - crime
-modern_impact: The arrest of a Federal Navy engineer for presidential assassination sends shockwaves through Federation politics.
+modern_impact: The arrest of a Federal Navy engineer for presidential assassination
+  sends shockwaves through Federation politics.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -24,6 +27,7 @@ related_uuids:
 - 385e8b96-3821-5f0e-b640-c9d22e29b7a0
 - 767d07a7-f7de-5ae9-80a2-b79abe76c464
 ---
+
 
 An officer in The Federal Navy Engineering Corps has been arrested for sabotaging the presidential Vessel Starship One. 
 

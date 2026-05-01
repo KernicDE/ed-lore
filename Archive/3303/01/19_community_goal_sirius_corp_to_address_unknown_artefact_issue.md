@@ -29,7 +29,10 @@ significance: medium
 related_uuids:
 - 67440985-7708-55df-a53d-5daa29976156
 - 7fb71080-aad8-5be7-9ce7-5f240074b405
+- 4a6785b4-2814-5bdd-aede-fcc93b522b79
+- d1123f46-0a01-52ba-bfd8-f94aa6a749f6
 ---
+
 
 
 It is widely understood that Unknown Artefacts have The ability to extract materials from their immediate environment as part of a complex self-repair process. Unfortunately, This can have disastrous effects on starships and Other forms of machinery. 

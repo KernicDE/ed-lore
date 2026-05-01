@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 An announcement by Head of Aegis, Alba Tesreau, has revealed a new opportunity for pilots engaged in anti-xeno operations.
 During her monthly communication with representatives of all three superpowers which fund the Aegis project, Tesreau discussed a recent agreement to provide AX pilots with additional support:
 “The military fleets and operatives of the Alliance, Empire and Federation have proven vital to resisting the Thargoid war machine. But independent pilots have also sacrificed so much in defense of humanity’s sovereignty. By funding their own vessels and equipment, they earn their keep via combat, trade and humanitarian dedications.”

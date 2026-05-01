@@ -4,7 +4,11 @@ title: Isolde Rochester becomes Shadow Vice President
 slug: isolde_rochester_becomes_shadow_vice_president
 date: '3304-12-26'
 source: GitHub
-summary: Federal Shadow President Felicia Winters appoints Isolde Rochester as deputy leader of the Federation's Liberal Party. Rochester, matriarch of the powerful Rochester family which includes the CEO of Core Dynamics and two Federal Navy officers, accepts after a decade in Congress. Former deputy Edgar Santiago abruptly retired to purchase a luxury starship.
+summary: Federal Shadow President Felicia Winters appoints Isolde Rochester as deputy
+  leader of the Federation's Liberal Party. Rochester, matriarch of the powerful Rochester
+  family which includes the CEO of Core Dynamics and two Federal Navy officers, accepts
+  after a decade in Congress. Former deputy Edgar Santiago abruptly retired to purchase
+  a luxury starship.
 player_impact: None
 persons:
 - Felicia Winters
@@ -20,10 +24,19 @@ groups:
 locations: []
 topics:
 - politics
-modern_impact: The appointment of Isolde Rochester strengthens the Rochester family's influence in Federal politics and signals the Liberal Party's consolidation of power under Shadow President Winters.
+modern_impact: The appointment of Isolde Rochester strengthens the Rochester family's
+  influence in Federal politics and signals the Liberal Party's consolidation of power
+  under Shadow President Winters.
 legacy_weight: 1
 significance: low
+related_uuids:
+- a987debf-f78b-5533-84b9-48a6a845b2e2
+- e66042d5-f19b-5b3d-8113-f2c32d2e4c51
+- edc6a752-983e-55f3-b481-d2d75ce1e949
+- 920160cf-a2bd-51ac-b6f0-545d575cdc14
+- bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
 ---
+
 
 Federal Shadow President Felicia Winters has appointed Isolde Rochester As the deputy leader of The Federation’s Liberal Party. 
 

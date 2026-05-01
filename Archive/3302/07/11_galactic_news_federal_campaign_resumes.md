@@ -30,7 +30,11 @@ significance: medium
 related_uuids:
 - 2cc13ded-2c0f-50f4-9c22-801873e80180
 - 4ddef4ba-58e1-5877-97dd-f84dd74097ba
+- 7f3a9dc2-b968-536e-ae02-59c152700954
+- 8c502994-8724-594e-8190-01e2df2f7ffb
+- 68330d67-d8d6-5de6-81bd-b40899200b34
 ---
+
 
 
 Four days ago, The Federation launched a campaign to construct a new Federal outpost in the Segovan system. Federally aligned pilots were invited to contribute construction materials to the campaign, But the request proved controversial, With various sections of the galactic community asking why the Federation was expanding towards the Pleiades sector. 

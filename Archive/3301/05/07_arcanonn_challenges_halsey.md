@@ -33,7 +33,9 @@ significance: high
 related_uuids:
 - c3354a34-d6bc-582d-9055-3f366156fde9
 - dde2fa58-f63e-5e2b-b35f-5fdd1efd8edb
+- 0d43ffc6-323d-52a2-b50a-99e8b1ad9395
 ---
+
 
 
 Research into The recently recovered Unknown Artefact has intensified. Scientists, Engineers and Commanders are flocking to assist Dr Arcanonn and his team from all across Populated space, political allegiances temporarily forgotten in The search for answers.  

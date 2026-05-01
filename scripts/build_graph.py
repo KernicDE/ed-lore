@@ -276,6 +276,7 @@ def build() -> dict[str, Any]:
             "technologies": fm.get("technologies") or [],
             "legacy_weight": fm.get("legacy_weight", 2),
             "significance": fm.get("significance", "low"),
+            "related_uuids": fm.get("related_uuids") or [],
             "body_full": body,
             "body_preview": body[:500] + "..." if len(body) > 500 else body,
             "word_count": len(body.split()),

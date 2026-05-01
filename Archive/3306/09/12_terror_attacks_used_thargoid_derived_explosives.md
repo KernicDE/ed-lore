@@ -4,7 +4,9 @@ title: Terror Attacks Used Thargoid Derived Explosives
 slug: terror_attacks_used_thargoid_derived_explosives
 date: '3306-09-12'
 source: GitHub
-summary: The IISS confirms the NMLA starport bombings used customised explosives incorporating Thargoid technology and caustic enzymes. The damage resembled Thargoid weaponry, triggering automatic emergency broadcasts.
+summary: The IISS confirms the NMLA starport bombings used customised explosives incorporating
+  Thargoid technology and caustic enzymes. The damage resembled Thargoid weaponry,
+  triggering automatic emergency broadcasts.
 player_impact: Rescue operations continue at the four attacked starports.
 groups:
 - Imperial Internal Security Service
@@ -18,7 +20,8 @@ topics:
 - terrorism
 - investigation
 - alien contact
-modern_impact: The revelation that NMLA has access to Thargoid-derived explosives raises concerns about xenological weapons proliferation.
+modern_impact: The revelation that NMLA has access to Thargoid-derived explosives
+  raises concerns about xenological weapons proliferation.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -26,6 +29,7 @@ related_uuids:
 - b1d3cc6d-1f0c-5fe1-b2c4-58b3b944f2d6
 - 079b4589-32a5-5f8b-aa63-4f0f5f719a87
 ---
+
 
 The Imperial Internal Security Service has transmitted another urgent bulletin regarding terrorist attacks on starports in the Empire. 
 

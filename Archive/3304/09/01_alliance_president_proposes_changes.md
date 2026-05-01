@@ -4,7 +4,11 @@ title: Alliance President Proposes Changes
 slug: alliance_president_proposes_changes
 date: '3304-09-01'
 source: GitHub
-summary: Alliance President Gibson Kincaid confirms he will campaign for re-election and proposes significant constitutional changes. He wants to invest the presidency with executive powers exceeding the prime minister and Assembly, and extend the term from a maximum of two one-year terms to six years. Prime Minister Edmund Mahon opposes the changes, defending the constitution's checks and balances.
+summary: Alliance President Gibson Kincaid confirms he will campaign for re-election
+  and proposes significant constitutional changes. He wants to invest the presidency
+  with executive powers exceeding the prime minister and Assembly, and extend the
+  term from a maximum of two one-year terms to six years. Prime Minister Edmund Mahon
+  opposes the changes, defending the constitution's checks and balances.
 player_impact: None
 persons:
 - Gibson Kincaid
@@ -16,7 +20,9 @@ locations:
 - Zaonce
 topics:
 - politics
-modern_impact: Kincaid's proposal to centralise executive power in the Alliance presidency represents the most significant constitutional challenge in Alliance history, threatening its consensual governance model.
+modern_impact: Kincaid's proposal to centralise executive power in the Alliance presidency
+  represents the most significant constitutional challenge in Alliance history, threatening
+  its consensual governance model.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -25,6 +31,7 @@ related_uuids:
 - 4c33cc73-d588-59a5-b80d-fe0c6e76f665
 - a950b069-65d4-569a-b55c-6ce84123e10e
 ---
+
 
 Alliance President Gibson Kincaid has confirmed he will campaign for re-election in October. 
 

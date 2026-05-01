@@ -4,8 +4,12 @@ title: One Year Since Humanity's Victory in Xeno War
 slug: one_year_since_humanitys_victory_in_xeno_war
 date: '3311-12-18'
 source: API
-summary: One year after Titan Cocijo's destruction ended the Second Thargoid War, a memorial commentator on Mars questions whether humanity can unite without an external threat as the HIP 87621 enclave war proves old rivalries persist.
-player_impact: Pilots gathered at the Cocijo wreckage beacon in Sol to commemorate the war's end. Many supported rebuilding and colonisation efforts in recovering systems.
+summary: One year after Titan Cocijo's destruction ended the Second Thargoid War,
+  a memorial commentator on Mars questions whether humanity can unite without an external
+  threat as the HIP 87621 enclave war proves old rivalries persist.
+player_impact: Pilots gathered at the Cocijo wreckage beacon in Sol to commemorate
+  the war's end. Many supported rebuilding and colonisation efforts in recovering
+  systems.
 persons: []
 groups: []
 locations:
@@ -15,7 +19,11 @@ locations:
 topics:
 - alien contact
 - war
-modern_impact: The commentator's question — 'whether we can learn to unite without one' — becomes a thematic throughline for 3311-3312. The article explicitly frames the HIP 87621 conflict as proof that wartime unity was contingent on the Thargoid threat. This proves accurate when the February 3312 non-aggression pact excludes the Federation, and the October Accords exclude them entirely.
+modern_impact: The commentator's question — 'whether we can learn to unite without
+  one' — becomes a thematic throughline for 3311-3312. The article explicitly frames
+  the HIP 87621 conflict as proof that wartime unity was contingent on the Thargoid
+  threat. This proves accurate when the February 3312 non-aggression pact excludes
+  the Federation, and the October Accords exclude them entirely.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -25,6 +33,7 @@ related_uuids:
 - b401b85f-a797-53be-b3f7-4efe54fae2e8
 - 901396d0-53fd-50b7-ab8f-79d017d0397d
 ---
+
 
 One year has passed since the destruction of Titan Cocijo in the Sol system brought the Second Thargoid War to an end.
 The conflict cost tens of billions of lives and reshaped political, military, and economic priorities across every major civilisation. In the time since, stations and settlements once abandoned due to caustic damage have been successfully restored.

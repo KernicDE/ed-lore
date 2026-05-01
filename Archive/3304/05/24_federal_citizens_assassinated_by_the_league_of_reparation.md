@@ -33,7 +33,10 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - 7b48d4e3-103e-585d-84c1-c6cc7ad4fc39
+- 2d6c0101-e579-567a-b099-e9c8f5ab2dff
+- da35f68e-36af-5ae3-ba17-6e66eccd5604
 ---
+
 
 
 Terrorist group the League of Reparation has committed three Further murders in Federation space. 

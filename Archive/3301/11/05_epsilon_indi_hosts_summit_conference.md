@@ -35,7 +35,12 @@ significance: high
 related_uuids:
 - 10b367b8-f586-5971-a10b-421a0fbaf035
 - f370b9af-47dd-5921-8536-2a11e59f328d
+- 4b20ea1c-afb5-5356-90d9-815b492969ca
+- e2e14bf4-f9e6-5257-9cc9-5bd8fa45f896
+- a48634df-3075-59f8-9e3b-08fed2398a11
+- b5bc1a10-cf65-58fb-9f72-2b0ed3c5b11b
 ---
+
 
 
 London Relay in The Epsilon Indi system is to host a summit conference focusing on terrorism and galactic security. Representatives from the Empire, the Federation and the Alliance are all expected to attend the three-day event, Which begins next week. Topics for discussion are expected to include Emperor's Dawn and the ongoing conflict in the Pegasi Sector. 

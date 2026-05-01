@@ -36,6 +36,7 @@ related_uuids:
 
 
 
+
 **Pilots’ Federation ALERT**
 The Proteus Wave’s failure has resulted in Thargoid forces overwhelming the coalition fleet in HIP 22460.
 Independent and military observers have confirmed that although Salvation’s anti-xeno superweapon was activated as scheduled, it had only a temporary effect on the Thargoids. Soon afterwards, human ships in the system found themselves without power following a second unknown energy pulse and were rapidly targeted by hostile Thargoid vessels.

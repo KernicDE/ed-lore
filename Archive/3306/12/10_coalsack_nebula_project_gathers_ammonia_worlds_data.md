@@ -4,8 +4,10 @@ title: Coalsack Nebula Project Gathers Ammonia Worlds Data
 slug: coalsack_nebula_project_gathers_ammonia_worlds_data
 date: '3306-12-10'
 source: API
-summary: Explorers successfully catalogue ammonia worlds in the Coalsack Nebula for Sirius Atmospherics' terraforming project, in partnership with the Alliance.
-player_impact: Contributing pilots collected payouts at Betancourt Base in the Musca Dark Region PJ-P b6-1 system.
+summary: Explorers successfully catalogue ammonia worlds in the Coalsack Nebula for
+  Sirius Atmospherics' terraforming project, in partnership with the Alliance.
+player_impact: Contributing pilots collected payouts at Betancourt Base in the Musca
+  Dark Region PJ-P b6-1 system.
 persons:
 - Maximilian North
 - Morag Halloran
@@ -16,10 +18,20 @@ groups:
 topics:
 - corporate expansion
 - exploration
-modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand human habitation into previously hostile environments.
+modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand
+  human habitation into previously hostile environments.
 legacy_weight: 2
 significance: low
+related_uuids:
+- c3a9a7ce-4bc3-5a04-a202-0a4e7cd821a8
+- ed5fa27e-167e-54a9-9959-a763bdebb1a0
+- d8ca461e-89b4-56d2-acdf-f3e514f93f92
+- 9c8c78b5-e118-5b92-a58c-fd461a0ebad2
+- 3c4ff651-4153-5811-ba1a-9b2f43fac48a
+- 32ae371b-e2e7-5253-931c-bc9683a45090
+- a0b5af8c-f073-5144-ba2c-8c304335713e
 ---
+
 
 **Pilots Federation ALERT**
 Explorers have catalogued Many ammonia worlds for a Sirius Atmospherics terraforming project in The Coalsack Nebula.

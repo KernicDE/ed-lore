@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 Vox Galactica’s culture correspondent Lishan Abara looks at The Colonia region, the largest enclave of humanity outside the core systems:
 “Colonia. A place that few ever see, Which exists following a computer malfunction. The famed Jaques Station suffered a mis-jump on Its scheduled journey to Beagle Point, relocating some 22,000 light years from Sol. The subsequent rescue effort led to the establishment of the first permanent base in what is now considered a new frontier for humanity.”
 “Over the last Five years, courageous explorers have struck out to inhabit Several dozen local systems. This, in turn, invited a steady stream of colonists seeking a fresh start. Nearly 13 million souls now count this remote area as their home.”

@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The Neo-Marlinist Order of Mudhrid and the Epsilon Fornacis Empire Group have declared war in the Mudhrid system.
 The Steel Majesty megaship is serving As the base of the Neo-Marlinist forces. These include Many surviving NMLA terrorist cells that gathered to overtake the Vessel from the Marlinist Colonies. 

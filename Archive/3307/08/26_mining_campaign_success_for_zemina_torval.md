@@ -4,8 +4,11 @@ title: 'Mining Campaign Success for Zemina Torval '
 slug: mining_campaign_success_for_zemina_torval
 date: '3307-08-26'
 source: API
-summary: Torval-Mastopolos Mining outperforms Wreaken Construction in the LTT 198 resource campaign, securing permanent corporate control and a new starport construction contract.
-player_impact: Top contributors received experimental mining lasers and permanent LTT 198 permits.
+summary: Torval-Mastopolos Mining outperforms Wreaken Construction in the LTT 198
+  resource campaign, securing permanent corporate control and a new starport construction
+  contract.
+player_impact: Top contributors received experimental mining lasers and permanent
+  LTT 198 permits.
 persons:
 - Zemina Torval
 - Constantia Torval
@@ -19,7 +22,15 @@ topics:
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 4cc06532-0439-552f-8fed-93ae66522a99
+- 651da410-ff42-5fdc-a2c0-57d28d51f09c
+- 1901654e-30be-5b06-afc2-e81f83740987
+- 859a4930-894d-5ce5-be9e-a7748fa13041
+- 9d3f4421-0a7a-5e83-a7b1-cbde9daa8fb3
+- f7cb0936-6685-5049-b2a6-628e2f3239ec
 ---
+
 
 **Pilots Federation ALERT**
 The Torval-Mastopolos Mining initiative in the LTT 198 system has outperformed Wreaken Construction’s rival campaign.

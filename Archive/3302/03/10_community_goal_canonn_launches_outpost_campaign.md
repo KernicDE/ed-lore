@@ -31,7 +31,11 @@ significance: medium
 related_uuids:
 - 5ba56e3b-d2b7-5300-88a9-faf2bb81468a
 - 88017f0c-4b57-5668-b5a3-f08119083ac6
+- af60d2e3-434b-5636-8239-951a1039b5ec
+- 7bc44f0a-00b4-5ecc-a840-08e8175a1fe6
+- 6d6d7f1e-7088-54e3-873e-ba06ff4f2ce6
 ---
+
 
 
 The Canonn Interstellar Research Group has launched a campaign to construct a state-of-the-art research outpost in the Col 285 Sector IX-T d3-43 system to support Its ongoing research into the Unknown Artefacts. As part of This initiative, the organisation has placed an open order for palladium, promising to generously reward pilots who deliver the necessary materials to Thompson Dock in the Varati system. 

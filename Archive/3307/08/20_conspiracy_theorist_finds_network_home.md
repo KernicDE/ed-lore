@@ -4,8 +4,11 @@ title: Conspiracy Theorist Finds Network Home
 slug: conspiracy_theorist_finds_network_home
 date: '3307-08-20'
 source: API
-summary: Independent journalist Flint 'Firemaker' Lafosse begins broadcasting Kit Fowler's conspiracy show End Times on the Rewired network, linking Black Flight crimes to Thargoid cover-ups.
-player_impact: Pilots investigated Hyford's Cache and related mystery sites following Fowler's theories.
+summary: Independent journalist Flint 'Firemaker' Lafosse begins broadcasting Kit
+  Fowler's conspiracy show End Times on the Rewired network, linking Black Flight
+  crimes to Thargoid cover-ups.
+player_impact: Pilots investigated Hyford's Cache and related mystery sites following
+  Fowler's theories.
 persons:
 - Flint 'Firemaker' Lafosse
 - Kit Fowler
@@ -14,10 +17,18 @@ groups:
 topics:
 - crime
 - engineering
-modern_impact: Conspiracy theories surrounding Black Flight and Thargoid cover-ups continue to circulate in independent media.
+modern_impact: Conspiracy theories surrounding Black Flight and Thargoid cover-ups
+  continue to circulate in independent media.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- f0b3373e-7081-5c82-bda0-e454ef9116a0
+- b67fe4ff-6cb3-53a3-ad95-f4d910fc1c6d
+- 42370e8a-3a35-5de0-bad0-d3716423bdc7
+- 597f88bd-e1ae-5b50-8f2d-f12a66e8806f
+- 1565d1ba-69d8-5784-a3b3-b4327e111e6d
 ---
+
 
 Independent journalist Flint ‘Firemaker’ Lafosse has announced that The Rewired network will broadcast Kit Fowler’s conspiracy-laden show End Times.
 Lafosse, notorious for his own sensationalist claims, announced:

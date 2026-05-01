@@ -46,6 +46,7 @@ related_uuids:
 ---
 
 
+
 Communications intercepted by The Proactive Detection Bureau are being used to prevent Further factions from leaving the Federation.
 A report by the civil rights organisation Advocacy proves that the Federal Intelligence Agency is targeting pro-Independence individuals via their private messages. In Many cases, they are being arrested for planning to commit crimes against the constitution.
 Deputy Director Bethany Blake, who runs the PDB, gave a statement to the media:

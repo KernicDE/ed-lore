@@ -4,7 +4,8 @@ title: Galactic News  Valentine's Day Appeal Ends
 slug: galactic_news_valentines_day_appeal_ends
 date: '3303-02-16'
 source: GitHub
-summary: Vestani Conservatives' Valentine's Day appeal concludes successfully with hundreds of pilots delivering commodities to Rose Terminal.
+summary: Vestani Conservatives' Valentine's Day appeal concludes successfully with
+  hundreds of pilots delivering commodities to Rose Terminal.
 player_impact: Collect rewards from Rose Terminal in the Vestani system.
 persons: []
 groups:
@@ -15,10 +16,14 @@ locations:
 topics:
 - festival
 - trade
-modern_impact: Seasonal luxury commodity campaign concludes, rewarding pilots for Valentine's Day deliveries.
+modern_impact: Seasonal luxury commodity campaign concludes, rewarding pilots for
+  Valentine's Day deliveries.
 legacy_weight: 2
 significance: low
+related_uuids:
+- a5e0dbe5-dc1c-5fed-8dc4-52d6a35e5e80
 ---
+
 
 The Vestani Conservatives have announced that their Valentine's Day appeal received the enthusiastic support of the galactic community, With Hundreds of pilots taking to their ships to transport commodities to Rose Terminal in the Vestani system. 
 

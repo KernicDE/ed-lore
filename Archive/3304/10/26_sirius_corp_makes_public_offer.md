@@ -4,7 +4,12 @@ title: Sirius Corp Makes Public Offer
 slug: sirius_corp_makes_public_offer
 date: '3304-10-26'
 source: GitHub
-summary: Sirius Corporation publicly offers to collaborate with engineer Ram Tah on Guardian-human technology development. CEO Li Yong-Rui pledges to guarantee Ram Tah's safety and use Sirius manufacturing capabilities to bring Guardian technology to the whole galaxy. Business analysts are divided, with some advising Ram Tah to accept for mass production and others warning Sirius seeks a monopoly. Repairs to Phoenix Base following the recent raid have been completed. Ram Tah has not responded.
+summary: Sirius Corporation publicly offers to collaborate with engineer Ram Tah on
+  Guardian-human technology development. CEO Li Yong-Rui pledges to guarantee Ram
+  Tah's safety and use Sirius manufacturing capabilities to bring Guardian technology
+  to the whole galaxy. Business analysts are divided, with some advising Ram Tah to
+  accept for mass production and others warning Sirius seeks a monopoly. Repairs to
+  Phoenix Base following the recent raid have been completed. Ram Tah has not responded.
 player_impact: None
 persons:
 - Li Yong-Rui
@@ -19,7 +24,9 @@ topics:
 - engineering
 - research
 - xenoarchaeology
-modern_impact: Sirius's public offer places Ram Tah in a difficult position between potential mass distribution of Guardian technology and the risk of corporate monopoly, while the recent raid makes the safety argument particularly salient.
+modern_impact: Sirius's public offer places Ram Tah in a difficult position between
+  potential mass distribution of Guardian technology and the risk of corporate monopoly,
+  while the recent raid makes the safety argument particularly salient.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -29,6 +36,7 @@ related_uuids:
 - db332136-804c-58df-89f9-2ab0eef65d11
 - 30995800-a980-5b52-889e-1809f4bc9cee
 ---
+
 
 The Sirius Corporation has publicly offered to work With engineer Ram Tah in the development of Further Guardian-human technology. 
 

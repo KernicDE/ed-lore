@@ -4,8 +4,11 @@ title: Supplies for Federal and Imperial Navies
 slug: supplies_for_federal_and_imperial_navies
 date: '3305-01-03'
 source: GitHub
-summary: The League of Zearla and Sirsir Co run parallel military supply campaigns for the Federal and Imperial navies respectively, delivering battle weapons, armour and supplies.
-player_impact: Pilots could deliver military commodities to Payson Hub in Zearla or Mitchell Hangar in Sirsir for rewards.
+summary: The League of Zearla and Sirsir Co run parallel military supply campaigns
+  for the Federal and Imperial navies respectively, delivering battle weapons, armour
+  and supplies.
+player_impact: Pilots could deliver military commodities to Payson Hub in Zearla or
+  Mitchell Hangar in Sirsir for rewards.
 groups:
 - Federal Navy
 - Imperial Navy
@@ -18,12 +21,15 @@ topics:
 - ship
 - trade
 - war
-modern_impact: The simultaneous naval resupply campaigns reflected rising military tensions across the galaxy, with both superpowers preparing for potential escalation amid the Nova Imperium crisis.
+modern_impact: The simultaneous naval resupply campaigns reflected rising military
+  tensions across the galaxy, with both superpowers preparing for potential escalation
+  amid the Nova Imperium crisis.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 97a15967-1631-558e-83c2-a22fdf6883b3
 ---
+
 
 An open order for military supplies has been placed on behalf of The Federal Navy by the League of Zearla. A spokesperson for the organisation gave The following statement: 
 

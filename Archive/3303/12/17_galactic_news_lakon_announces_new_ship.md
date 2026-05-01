@@ -28,7 +28,9 @@ significance: high
 related_uuids:
 - 83da49bc-c36c-5c32-83d3-471d47902916
 - 8de12bfe-0d5a-5974-806d-b61f23c62bf1
+- d419b88a-de19-5028-b105-8b18ccccd9bd
 ---
+
 
 
 The Alliance has commissioned Lakon Spaceways to produce a new ship in response to the recent Thargoid attacks in the Pleiades. The Vessel, Which has been named the Type-10 Defender, represents a comprehensive revision of the Type–9 Heavy. 

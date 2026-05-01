@@ -4,7 +4,9 @@ title: Marlinists Facing ‘Increasingly Grave’ Future
 slug: marlinists_facing_increasingly_grave_future
 date: '3309-03-06'
 source: API
-summary: The Marlinist Colonies struggle with corporate exploitation and Thargoid vulnerability, with Parliament signaling willingness to contribute to Aegis but lacking military capacity.
+summary: The Marlinist Colonies struggle with corporate exploitation and Thargoid
+  vulnerability, with Parliament signaling willingness to contribute to Aegis but
+  lacking military capacity.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Arturo Durant
@@ -18,10 +20,23 @@ topics:
 - independence
 - succession
 arc_id: null
-modern_impact: The Marlin Standard's editorial — 'our people exploited by the opportunism of neighbouring factions' — is a lament of independence. Durant's dismissive remark — 'They voted to reject the Emperor's offer... so now they must pay the price' — is characteristic Imperial schadenfreude. The 'viral commenter' defending the colonists shows public sympathy. Volkov's admission — 'Without a dedicated military... our future prospects look increasingly grave' — is stark. Rios's broader observation about independent systems 'banding together' provides context.
+modern_impact: The Marlin Standard's editorial — 'our people exploited by the opportunism
+  of neighbouring factions' — is a lament of independence. Durant's dismissive remark
+  — 'They voted to reject the Emperor's offer... so now they must pay the price' —
+  is characteristic Imperial schadenfreude. The 'viral commenter' defending the colonists
+  shows public sympathy. Volkov's admission — 'Without a dedicated military... our
+  future prospects look increasingly grave' — is stark. Rios's broader observation
+  about independent systems 'banding together' provides context.
 legacy_weight: 5
 significance: high
+related_uuids:
+- c5e541f9-be5f-50b7-8d5b-d0bb91f01c1e
+- 06496fae-10e3-51d0-8cf1-f693daaf81d0
+- a4e56a0c-8ed6-5ea0-8470-d26ed7eb10ac
+- eec09e5e-cb5a-590e-b38c-88e65e11dd5b
+- 589b5e3b-4024-5845-bb2d-55becd1e562f
 ---
+
 
 The Marlinist Colonies are struggling to survive the harsh realities of independence while preparing for the impact of the Thargoid war.
 An editorial in The Marlin Standard summarised their situation:

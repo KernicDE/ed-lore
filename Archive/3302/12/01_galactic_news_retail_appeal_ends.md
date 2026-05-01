@@ -4,7 +4,9 @@ title: Galactic News  Retail Appeal Ends
 slug: galactic_news_retail_appeal_ends
 date: '3302-12-01'
 source: GitHub
-summary: Tchernobog Free's appeal for consumer goods was enthusiastically received, with pilots delivering huge quantities to Vancouver Ring to meet high demand from recent one-day deals.
+summary: Tchernobog Free's appeal for consumer goods was enthusiastically received,
+  with pilots delivering huge quantities to Vancouver Ring to meet high demand from
+  recent one-day deals.
 player_impact: Collect rewards from Vancouver Ring in the Tchernobog system.
 persons: []
 groups:
@@ -15,10 +17,14 @@ locations:
 topics:
 - trade
 technologies: []
-modern_impact: Successful retail commodity drive demonstrating community willingness to support commercial initiatives.
+modern_impact: Successful retail commodity drive demonstrating community willingness
+  to support commercial initiatives.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 80f6dd57-2ea7-5454-afa4-c104b92f999e
 ---
+
 
 A spokesperson for Tchernobog Free has announced that Its appeal for consumer goods has been enthusiastically received by The galactic community, resulting In a huge quantity of deliveries to Vancouver Ring, the organisation's base of operations. 
 

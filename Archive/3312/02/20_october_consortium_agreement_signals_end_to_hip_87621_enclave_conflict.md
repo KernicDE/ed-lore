@@ -44,7 +44,9 @@ related_uuids:
 - 86dbc944-a8ec-5d85-ab42-44ac9911ac40
 - 972ec07f-6143-5c9b-ad27-c650ac62ab75
 - ab9f6c81-8fa4-564b-978d-59be79a044dc
+- 8258f5f1-635f-50d8-8a8d-5856072f5386
 ---
+
 
 
 An agreement has reportedly been reached between October Consortium and a coalition of the remaining Powers within the enclave, ending large-scale hostilities in the region.

@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 There are widespread calls to bring criminal charges against Azimuth Biotech for its role in the massacre in the HIP 22460 system.
 Rhiannon Grady, director of the civil rights organisation Advocacy, told the media:
 “Azimuth Biotech planned the operation in HIP 22460, with the Proteus Wave’s failure leading directly to the slaughter of well over a hundred thousand naval personnel and combat pilots by Thargoids. Salvation’s death does not absolve his corporation of its culpability. We believe that charges of wilful endangerment and accessory to mass murder should be made, and those responsible be should be brought before a court of law.”

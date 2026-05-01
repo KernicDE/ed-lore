@@ -4,7 +4,9 @@ title: Appeal for Crystalline Spheres Comes to an End
 slug: appeal_for_crystalline_spheres_comes_to_an_end
 date: '3301-12-23'
 source: GitHub
-summary: The Hel Purple Energy Industry's winter solstice appeal for Crystalline Spheres concludes successfully after hundreds of independent pilots delivered the requested commodities to Snow Moon in the Bento system.
+summary: The Hel Purple Energy Industry's winter solstice appeal for Crystalline Spheres
+  concludes successfully after hundreds of independent pilots delivered the requested
+  commodities to Snow Moon in the Bento system.
 player_impact: None
 persons: []
 groups:
@@ -17,10 +19,14 @@ topics:
 - ship
 - trade
 technologies: []
-modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 32a9f8e1-c5f6-5243-aa3e-9b1352ce1981
 ---
+
 
 Last week, The Hel Purple Energy Industry launched a public appeal for crystalline spheres to commemorate the upcoming winter solstice festival – a tradition from Earth's ancient past. Hundreds of Independent pilots got into the spirit of the occasion, taking to their ships to deliver the requested commodities to Snow Moon in the Bento system. A spokesperson for the Hel Purple Energy Industry said: 
 

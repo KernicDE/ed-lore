@@ -4,8 +4,14 @@ title: Federal Times Reporter Lends Weight to 'Master Chef' Story
 slug: federal_times_reporter_lends_weight_to_master_chef_story
 date: '3301-10-08'
 source: GitHub
-summary: Federal Times reporter Marc Garfield claimed to have witnessed a secret 'master chef' training facility at Weber Gateway in the Noti system, where genetically selected slaves undergo brutal conditioning to become gourmet cooks. He alleged the Revolutionary Noti Value Party's Aganippe Rush appeal was connected to bringing these engineered slaves to market.
-player_impact: Pilots who delivered Aganippe Rush to Weber Gateway may have unwittingly participated in a scheme involving engineered slave labor. The story raises questions about the ethics of certain trade requests.
+summary: Federal Times reporter Marc Garfield claimed to have witnessed a secret 'master
+  chef' training facility at Weber Gateway in the Noti system, where genetically selected
+  slaves undergo brutal conditioning to become gourmet cooks. He alleged the Revolutionary
+  Noti Value Party's Aganippe Rush appeal was connected to bringing these engineered
+  slaves to market.
+player_impact: Pilots who delivered Aganippe Rush to Weber Gateway may have unwittingly
+  participated in a scheme involving engineered slave labor. The story raises questions
+  about the ethics of certain trade requests.
 persons:
 - Marc Garfield
 groups:
@@ -22,7 +28,15 @@ topics:
 modern_impact: Trade initiative affecting commodity markets and local economies.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 958946dd-ddb9-54bb-9426-59e23242f07a
+- 770efd79-85f8-533c-ac3f-f399ab39f0be
+- f5911935-7f3f-5c4b-aea7-90de0e7334f5
+- e3f3df5a-f54e-55dd-aa67-6d8d75ce6e4e
+- 5677c891-a942-5f45-a9a9-078762eb519e
+- e4402f40-faca-5e1e-bffb-610b9505b24e
 ---
+
 
 Earlier today, an anonymous message was delivered to a number of news feeds claiming that secret genetic experiments were being conducted in The Noti system. Many commentators dismissed the message as a hoax, but now it seems the claims may have a basis in reality. Marc Garfield, a reporter for the Federal Times, has allegedly seen the so-called 'master chefs' first hand, and the encounter clearly made an impression: 
 

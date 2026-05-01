@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Exploration of the inner regions of the Maelstroms has revealed the existence of colossal Thargoid constructs.
 Alba Tesreau, head of Aegis, published a summary on behalf of the tri-superpower initiative: 

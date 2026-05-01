@@ -4,8 +4,11 @@ title: Galactic News  Superpower Campaigns End
 slug: galactic_news_superpower_campaigns_end
 date: '3303-06-23'
 source: GitHub
-summary: The Empire and Federation launched construction initiatives to bolster their presences in the Pleiades Star cluster, and the galactic community delivered huge quantities of material to Obsidian Orbital for both campaigns.
-player_impact: Pilots who contributed to the initiatives can collect their rewards from Obsidian Orbital in the Maia system.
+summary: The Empire and Federation launched construction initiatives to bolster their
+  presences in the Pleiades Star cluster, and the galactic community delivered huge
+  quantities of material to Obsidian Orbital for both campaigns.
+player_impact: Pilots who contributed to the initiatives can collect their rewards
+  from Obsidian Orbital in the Maia system.
 persons: []
 groups:
 - Merope Expeditionary Fleet
@@ -14,8 +17,16 @@ locations:
 - Maia
 - Obsidian Orbital
 technologies: []
-modern_impact: Both superpowers enjoy considerable galactic-community support as they expand their competing presences in the Pleiades Star cluster.
+modern_impact: Both superpowers enjoy considerable galactic-community support as they
+  expand their competing presences in the Pleiades Star cluster.
+related_uuids:
+- ca908b27-e8c1-5bce-985a-0f8b62da6ff4
+- 8a3d4510-5f41-5755-aeaa-89033dac4352
+- 5b0343b9-7345-5fdb-a814-eea9cbf64edf
+- 88efdd4a-ed54-5dee-9c24-b5ae333ccda8
+- 78b1e3b7-49b5-5ca5-9107-a57eda6df6f0
 ---
+
 
 Last week, The Empire and the Federation launched initiatives designed to bolster their presences in the Pleiades Star cluster. 
 

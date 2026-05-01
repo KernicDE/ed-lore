@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 With increasing reports concerning The so-called ‘Cerberus Plague’, officials from Dajoar, Eleu and 20 Ophiuchi have all declared states of emergency. They are calling on bounty hunters and combat-capable pilots in The region help protect the relief efforts.  
 
 The issue arises at the same time that some medics in the systems have stated that the vaccines are not proving as effective against these cases, leading to speculation that the organism has mutated. Carl Simmons, the Chief Medical Officer of Newton Dock and leading the medical team combating This infection, commented: 

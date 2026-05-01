@@ -63,6 +63,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Explosions have struck starports across The Alliance, Empire and Federation In a coordinated bombing attack by the NMLA.
 The capital systems of All three superpowers – Achenar, Alioth and Sol – have been targeted by the terrorists, as well as six Other high-population systems. Precise casualty numbers are unavailable, But several hundred thousand people have been killed With Many more injured.

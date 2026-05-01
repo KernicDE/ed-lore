@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-11-17'
 source: GitHub
-summary: Weekly summary covering the leaked IISS report identifying Nova Imperium's leader as Duke Kaeso Mordanticus, the whistle-blower linking Kingsley Cordova to spy robots, the conclusion of escape pod recovery in Meene revealing Sirius officers among the mercenaries, Olelbis Holdings' commodity appeal, and Olav Redcourt being found alive at a writers' retreat.
+summary: Weekly summary covering the leaked IISS report identifying Nova Imperium's
+  leader as Duke Kaeso Mordanticus, the whistle-blower linking Kingsley Cordova to
+  spy robots, the conclusion of escape pod recovery in Meene revealing Sirius officers
+  among the mercenaries, Olelbis Holdings' commodity appeal, and Olav Redcourt being
+  found alive at a writers' retreat.
 player_impact: None
 persons:
 - Kaeso Mordanticus
@@ -42,7 +46,9 @@ topics:
 - trade
 - war
 - politics
-modern_impact: This week exposes deep corruption across multiple sectors, from corporate blackmail and military infiltration to political radicalisation within the Imperial Navy.
+modern_impact: This week exposes deep corruption across multiple sectors, from corporate
+  blackmail and military infiltration to political radicalisation within the Imperial
+  Navy.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -52,7 +58,10 @@ related_uuids:
 - db332136-804c-58df-89f9-2ab0eef65d11
 - bc6f4b33-4085-5444-b8c0-12196a86640f
 - 4f8a3775-4a85-53e6-b107-a1946b857d3a
+- 8cc43f3f-da2a-5399-af1a-6a0bd65d1bab
+- 12fd8e38-df4b-5448-ace1-e16a3f518c72
 ---
+
 
 Here are This week’s major stories. 
 

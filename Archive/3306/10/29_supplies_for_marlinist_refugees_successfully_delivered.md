@@ -4,7 +4,8 @@ title: Supplies for Marlinist Refugees Successfully Delivered
 slug: supplies_for_marlinist_refugees_successfully_delivered
 date: '3306-10-29'
 source: GitHub
-summary: Safeguard Interstellar successfully delivers supplies for Marlinist refugees in Federal systems. Dr. Jenna Fairfax thanks contributing pilots.
+summary: Safeguard Interstellar successfully delivers supplies for Marlinist refugees
+  in Federal systems. Dr. Jenna Fairfax thanks contributing pilots.
 player_impact: Contributing pilots can collect rewards at Fox Enterprise in LFT 625.
 persons:
 - Noel Beaumont
@@ -19,13 +20,15 @@ locations:
 - LTT 3607
 topics:
 - humanitarian
-modern_impact: The successful delivery ensures short-term refugee survival while they await congressional state support.
+modern_impact: The successful delivery ensures short-term refugee survival while they
+  await congressional state support.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - ab9fd6d4-7ecb-566c-b306-7812dfdd30e4
 - 8492d17d-2813-5b47-9b39-485a2ef6ed98
 ---
+
 
 A Federal charity initiative to deliver vital supplies for Marlinist refugees from The Empire has concluded. 
 

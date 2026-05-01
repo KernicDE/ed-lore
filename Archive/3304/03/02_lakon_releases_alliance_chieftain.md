@@ -27,7 +27,9 @@ significance: high
 related_uuids:
 - b4a761d3-429d-5f0d-a30b-cda9b895740a
 - db52aafd-4698-5284-9fa4-6087b9913f7e
+- e17af96f-7350-5002-8ac0-49df1324863a
 ---
+
 
 
 The Alliance has announced a new combat ship, the Alliance Chieftain, Which has been specifically designed to counter the aggression of the Thargoids. 

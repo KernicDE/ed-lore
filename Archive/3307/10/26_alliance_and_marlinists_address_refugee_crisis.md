@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 The Marlinist Colonies have offered to provide help for political refugees who sought sanctuary in Alliance space.
 In 3306, the Empire’s security forces began arresting followers of Marlinism, suspecting them of being linked to the NMLA. Many pro-republican Imperial citizens fled to the Federation, but some set course for the Alliance instead.
 The situation has been highlighted by Prime Consul Kayode Tau of the Marlinist Consulate:

@@ -4,7 +4,12 @@ title: Major Victories against the League of Reparation
 slug: major_victories_against_the_league_of_reparation
 date: '3304-07-06'
 source: GitHub
-summary: Captain Niamh Seutonia and Senior Agent Ramirez lead multiple raids against the League of Reparation, interdicting ships and locating hidden outposts in Imperial and Federal systems. Dozens of League members are arrested or eliminated. Seutonia reveals the League had access to top-level comms encryption suggesting support from influential individuals, and that Nexus remains unidentified. Alliance Tribune editor Milo Vesper criticises the taskforce for not focusing on Alliance territory.
+summary: Captain Niamh Seutonia and Senior Agent Ramirez lead multiple raids against
+  the League of Reparation, interdicting ships and locating hidden outposts in Imperial
+  and Federal systems. Dozens of League members are arrested or eliminated. Seutonia
+  reveals the League had access to top-level comms encryption suggesting support from
+  influential individuals, and that Nexus remains unidentified. Alliance Tribune editor
+  Milo Vesper criticises the taskforce for not focusing on Alliance territory.
 player_impact: None
 persons:
 - Niamh Seutonia
@@ -25,13 +30,17 @@ locations:
 topics:
 - terrorism
 - investigation
-modern_impact: The dismantling of much of the League's network reveals the sophistication of their operation and the lingering threat of INRA-related vengeance across the galaxy.
+modern_impact: The dismantling of much of the League's network reveals the sophistication
+  of their operation and the lingering threat of INRA-related vengeance across the
+  galaxy.
 legacy_weight: 4
 significance: high
 related_uuids:
 - b4850d9a-53c4-5d9c-8d8a-b66081d31644
 - 7ba9e81d-43a4-5565-ba4d-31b3ac2c2c95
+- 9fd16cfc-fc44-55ca-9deb-4b0129f50261
 ---
+
 
 A series of successful operations against the League of Reparation has led to much of the terrorist group being dismantled. 
 

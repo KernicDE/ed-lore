@@ -4,8 +4,18 @@ title: Latest Powerplay Column
 slug: latest_powerplay_column
 date: '3301-07-09'
 source: GitHub
-summary: Weekly powerplay update covering all major powers. Arissa Lavigny-Duval continued rapid expansion but lost Nunus and Varka due to overextension. Aisling Duval saw strong support but failed to expand into Sounti. Zachary Hudson faced heavy enemy activity but secured four systems. Felicia Winters secured Lambla and Carnoeck but was countered near Imperial space. Zemina Torval lost three expansion attempts. Denton Patreus fortified his space and secured four new systems. Edmund Mahon and Li Yong-Rui both expanded successfully. Archon Delaine's growth was stopped by Imperial counter-offensives in Cuchua and Matlehi. Pranav Antal's expansion into Ewah was blocked.
-player_impact: Powerplay pilots should focus on fortification and expansion in their pledged power's target systems. Each power faces different strategic challenges this cycle.
+summary: Weekly powerplay update covering all major powers. Arissa Lavigny-Duval continued
+  rapid expansion but lost Nunus and Varka due to overextension. Aisling Duval saw
+  strong support but failed to expand into Sounti. Zachary Hudson faced heavy enemy
+  activity but secured four systems. Felicia Winters secured Lambla and Carnoeck but
+  was countered near Imperial space. Zemina Torval lost three expansion attempts.
+  Denton Patreus fortified his space and secured four new systems. Edmund Mahon and
+  Li Yong-Rui both expanded successfully. Archon Delaine's growth was stopped by Imperial
+  counter-offensives in Cuchua and Matlehi. Pranav Antal's expansion into Ewah was
+  blocked.
+player_impact: Powerplay pilots should focus on fortification and expansion in their
+  pledged power's target systems. Each power faces different strategic challenges
+  this cycle.
 persons:
 - Arissa Lavigny-Duval
 - Aisling Duval
@@ -36,10 +46,23 @@ locations:
 topics:
 - politics
 - war
-modern_impact: Snapshot of the galactic power balance, showing Imperial counter-offensives against Kumo Crew and the ongoing competition between all ten powers.
+modern_impact: Snapshot of the galactic power balance, showing Imperial counter-offensives
+  against Kumo Crew and the ongoing competition between all ten powers.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- adcab895-4c2f-5ad3-928d-1de0bafc6f61
+- e0b48359-9e1e-557a-b290-f47faa8356bb
+- abe21c6e-54ed-5aed-a221-7efd675d35c
+- 7b1495a0-0413-5d22-af0c-bc7fcf8090d4
+- 562b166a-7b1f-580d-8385-fdc669cfce0f
+- 49a47621-2251-5f4e-a822-09e716459bdf
+- 9b15766c-9587-5cf9-92ed-667be9a6b24f
+- d7919863-55c6-54c6-847a-3b0ca8e4ab06
+- 16e19a12-9891-53fc-b098-58c5903c858b
+- 952d5b46-745c-57fb-bc9a-1458b6d1323a
 ---
+
 
 Another week has passed, and The great and powerful of The galaxy continue to vie for power and influence.  Who has prospered? Who has struggled? Read on to find out. 
 

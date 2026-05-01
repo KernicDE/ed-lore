@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 The NMLA’s de facto leader and his closest followers have sacrificed themselves by destroying the Far God cult’s megaship Sacrosanct.
 The hijacked Vessel had been taken to the Mudhrid system by the remaining members of Theta Group, aiming to reunite With the NMLA. After This failed, ACT forces surrounded the Sacrosanct in the hope of rescuing the Several thousand cultists being kept as hostages.
 Theta Seven broadcast a short video message, where he uttered a single phrase:

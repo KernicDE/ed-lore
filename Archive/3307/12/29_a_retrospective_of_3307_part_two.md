@@ -48,6 +48,7 @@ related_uuids:
 ---
 
 
+
 Continuing a series of articles by historian Sima Kalhana that look at The most newsworthy events during the past year.
 “April 3307 saw the creation of the Federation’s Proactive Detection Bureau in reaction to the Nine Martyrs bombings. This organisation monitored all public and private communications for evidence of terrorists, to prevent similar attacks in future. But Its highly controversial nature would soon present the Federation With new challenges.”
 “ACT’s investigation led them to the Neo-Marlinist Order of Mudhrid, Which had helped deliver the caustic enzyme bombs to their nine targets. The faction’s defeat was an early victory against the NMLA, but much of the organisation remained a mystery.”

@@ -23,6 +23,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Thirty megaships have been placed between The core systems and the Colonia region to serve as stationary ports.
 Twenty-Five dockable megaships were sent out from the Alcor system toward Colonia, taking position in systems approximately 400 to 500 light years apart. Five Further megaships have been established from the direction of the Colonia system.

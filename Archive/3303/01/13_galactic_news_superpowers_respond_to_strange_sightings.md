@@ -32,7 +32,11 @@ significance: high
 related_uuids:
 - 8723ca76-c4d7-5a07-b3b0-f61018e51bd3
 - b51fe639-2e23-559a-9233-69f8a51976eb
+- 6a749ee2-3428-5c11-8cb6-4638f5a667be
+- 92ab3791-b482-5d1a-9df1-31af570bc24b
+- 9b0c548f-3df4-5993-833e-ede55ef41aa0
 ---
+
 
 
 Following Several sightings of mysterious spacecraft, The leaders of the galaxy's three superpowers have released official statements. 

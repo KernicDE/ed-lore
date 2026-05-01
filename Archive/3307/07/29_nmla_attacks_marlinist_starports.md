@@ -49,6 +49,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 The NMLA has bombed two starports in the HIP 22550 and Hyades Sector RO-P b6-6 systems in the Marlinist Colonies.
 Explosive devices were detonated at both Stillman Hub and Tilman Point stations. As is characteristic of weapons used by the NMLA, caustic enzyme payloads caused widespread corrosive damage.

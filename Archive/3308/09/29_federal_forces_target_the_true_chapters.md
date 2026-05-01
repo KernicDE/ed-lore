@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Conflict has erupted in Popontia as the Federation seeks to apprehend True Chapters cultists of the Far God cult. 
 The Workers of Popontia Free, which is sympathetic to the sect’s right to practise its religion, was outfitting the Dedicant megaship for the chapter’s use. Federal ships have been deployed in the Popontia system with the intention of detaining all cultists and seizing the megaship.

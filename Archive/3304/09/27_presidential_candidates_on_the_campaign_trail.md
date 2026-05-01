@@ -4,7 +4,11 @@ title: Presidential Candidates on the Campaign Trail
 slug: presidential_candidates_on_the_campaign_trail
 date: '3304-09-27'
 source: GitHub
-summary: The three Alliance presidential candidates deliver campaign messages. Gibson Kincaid demands radical constitutional change for a single ruler with overall control. Fazia Silva focuses on increasing commerce and investment, criticising career politicians. Elijah Beck criticises both rivals, accusing Kincaid of disrespecting Alliance values and Silva of self-interest, advocating for a president who puts citizens first.
+summary: The three Alliance presidential candidates deliver campaign messages. Gibson
+  Kincaid demands radical constitutional change for a single ruler with overall control.
+  Fazia Silva focuses on increasing commerce and investment, criticising career politicians.
+  Elijah Beck criticises both rivals, accusing Kincaid of disrespecting Alliance values
+  and Silva of self-interest, advocating for a president who puts citizens first.
 player_impact: None
 persons:
 - Gibson Kincaid
@@ -15,7 +19,9 @@ groups:
 locations: []
 topics:
 - politics
-modern_impact: The divergent campaign platforms offer Alliance voters a clear choice between authoritarian centralisation, corporate-led growth, and traditional democratic values, shaping the future political identity of the superpower.
+modern_impact: The divergent campaign platforms offer Alliance voters a clear choice
+  between authoritarian centralisation, corporate-led growth, and traditional democratic
+  values, shaping the future political identity of the superpower.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -23,6 +29,7 @@ related_uuids:
 - 9e863e7e-1a91-597a-b4dc-876cfc1aba3c
 - cfa10717-dba3-54f8-aaff-4b19fc4778d0
 ---
+
 
 The three candidates for the Alliance presidency have spent much of the past week delivering their campaign messages. 
 

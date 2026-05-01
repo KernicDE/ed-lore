@@ -5,7 +5,8 @@ slug: brewer_corp_augments_starport_services
 date: '3308-02-24'
 source: API
 summary: Brewer Corporation seeks deliveries to add facilities to Colonia Bridge starports.
-player_impact: Pilots were asked to deliver commodities to add facilities to Colonia Bridge starports.
+player_impact: Pilots were asked to deliver commodities to add facilities to Colonia
+  Bridge starports.
 groups:
 - Brewer Corporation
 locations:
@@ -15,10 +16,19 @@ topics:
 - corporate expansion
 - humanitarian
 arc_id: null
-modern_impact: '"Further deliveries to Alcor and Colonia are required to add new facilities to the Colonia Bridge starports." The ongoing community-driven construction shows how pilot contributions directly shape the galactic transportation network.'
+modern_impact: '"Further deliveries to Alcor and Colonia are required to add new facilities
+  to the Colonia Bridge starports." The ongoing community-driven construction shows
+  how pilot contributions directly shape the galactic transportation network.'
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0377cb77-df5d-5d2f-9e79-121abe877a31
+- 0e12eeff-5c39-5497-9c8f-6709814786be
+- b1468c62-8abd-578a-be2b-1bd2f4f4a6d5
+- e2b736bf-f679-55f3-8824-96bde18804e0
+- 8389259d-a648-5484-9e90-f4b45ab488d5
 ---
+
 
 **Pilots’ Federation ALERT**
 Further deliveries to Alcor and Colonia are required to add new facilities to The Colonia Bridge starports.

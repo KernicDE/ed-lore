@@ -4,8 +4,12 @@ title: Community Goal  Aid for D'Arrest Station
 slug: community_goal_aid_for_darrest_station
 date: '3302-11-17'
 source: GitHub
-summary: Princess Aisling Duval has secured funding for a relief effort following an outbreak at D'Arrest Station in the Uibuth system, where she established a repatriation centre for former slaves earlier in the year. The Uibuth Empire Party has offered to coordinate the delivery of basic medicines.
-player_impact: Pilots can deliver basic medicines to D'Arrest Station in the Uibuth system and will be rewarded by the Uibuth Empire Party.
+summary: Princess Aisling Duval has secured funding for a relief effort following
+  an outbreak at D'Arrest Station in the Uibuth system, where she established a repatriation
+  centre for former slaves earlier in the year. The Uibuth Empire Party has offered
+  to coordinate the delivery of basic medicines.
+player_impact: Pilots can deliver basic medicines to D'Arrest Station in the Uibuth
+  system and will be rewarded by the Uibuth Empire Party.
 persons:
 - Princess Aisling Duval
 groups:
@@ -20,10 +24,19 @@ topics:
 - slavery
 - war
 technologies: []
-modern_impact: Princess Aisling Duval's relief effort for D'Arrest Station demonstrated ongoing Imperial humanitarian initiatives for emancipated slaves and the role of pilots in delivering emergency medical supplies.
+modern_impact: Princess Aisling Duval's relief effort for D'Arrest Station demonstrated
+  ongoing Imperial humanitarian initiatives for emancipated slaves and the role of
+  pilots in delivering emergency medical supplies.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 643df8f5-adf8-5b5c-a9b6-b24bf7d19885
+- 15d39a40-5122-58f0-b7a5-ee7f0b5cf13a
+- 4724e8cf-ea08-50a8-9d61-e9e36a44f752
+- f1eec212-43b2-5e3e-b2b2-c44e42af613a
+- b8671162-b34d-58fd-8bd5-230949120c23
 ---
+
 
 In February This year, Princess Aisling Duval established a repatriation centre for former slaves at D'Arrest Station in The Uibuth system. Since then the centre has gone from strength to strength, successfully emancipating thousands of slaves and rescuing hundreds from the horrors of illegal slavery. 
 

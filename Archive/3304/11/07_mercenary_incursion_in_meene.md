@@ -4,7 +4,11 @@ title: Mercenary Incursion in Meene
 slug: mercenary_incursion_in_meene
 date: '3304-11-07'
 source: GitHub
-summary: A mercenary group is intercepted by Meene Defence Force security forces while attacking Phoenix Base, home of engineer Ram Tah. Security Chief Harper Vargas suspects the incident is connected to a previous attempted raid. Li Yong-Rui, CEO of Sirius Corporation, uses the attack to urge Ram Tah to accept Sirius's protection and collaboration offer.
+summary: A mercenary group is intercepted by Meene Defence Force security forces while
+  attacking Phoenix Base, home of engineer Ram Tah. Security Chief Harper Vargas suspects
+  the incident is connected to a previous attempted raid. Li Yong-Rui, CEO of Sirius
+  Corporation, uses the attack to urge Ram Tah to accept Sirius's protection and collaboration
+  offer.
 player_impact: None
 persons:
 - Harper Vargas
@@ -19,7 +23,9 @@ locations:
 topics:
 - crime
 - xenoarchaeology
-modern_impact: The mercenary attack on Phoenix Base raises serious concerns about corporate espionage targeting Guardian technology research and prompts debate over Ram Tah's need for protection.
+modern_impact: The mercenary attack on Phoenix Base raises serious concerns about
+  corporate espionage targeting Guardian technology research and prompts debate over
+  Ram Tah's need for protection.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -29,6 +35,7 @@ related_uuids:
 - 30995800-a980-5b52-889e-1809f4bc9cee
 - 5ce245a3-6cab-529d-81eb-e7015b0bbe28
 ---
+
 
 A mercenary group has been intercepted by security forces in The Meene system. 
 

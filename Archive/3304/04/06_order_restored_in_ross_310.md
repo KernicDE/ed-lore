@@ -4,8 +4,11 @@ title: Order Restored in Ross 310
 slug: order_restored_in_ross_310
 date: '3304-04-06'
 source: GitHub
-summary: Authorities in the Ross 310 system have confirmed that the conflict between Ross 310 Natural Services and the Ross 310 Cartel has ended. Both factions received support from independent combat pilots, but ultimately only one victor emerged.
-player_impact: Pilots who participated in the conflict can collect rewards from Morey Port in the Ross 310 system.
+summary: Authorities in the Ross 310 system have confirmed that the conflict between
+  Ross 310 Natural Services and the Ross 310 Cartel has ended. Both factions received
+  support from independent combat pilots, but ultimately only one victor emerged.
+player_impact: Pilots who participated in the conflict can collect rewards from Morey
+  Port in the Ross 310 system.
 persons: []
 groups:
 - Ross 310 Natural Services
@@ -15,10 +18,16 @@ locations:
 - Morey Port
 topics:
 - war
-modern_impact: Local system conflicts between lawful and criminal factions continue to draw independent pilots seeking combat opportunities and rewards.
+modern_impact: Local system conflicts between lawful and criminal factions continue
+  to draw independent pilots seeking combat opportunities and rewards.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 81102a55-5442-5139-8ec3-f032dabf9a6d
+- 797e13f9-3fab-5ab8-b393-b0e70211d0b7
+- 84bbb73d-7080-5c75-b700-db4143fade73
 ---
+
 
 Authorities in The Ross 310 system have confirmed that the conflict between Ross 310 Natural Services and the Ross 310 Cartel has come to an end. 
 

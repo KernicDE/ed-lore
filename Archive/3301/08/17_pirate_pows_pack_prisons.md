@@ -28,7 +28,11 @@ significance: low
 related_uuids:
 - 57dca65e-29be-552b-aa69-b10edf5ce060
 - 66f7f506-688b-5566-8e29-f4d2ec3a91f8
+- b9b02ad2-eaff-5306-af23-2c5c5d6ae52b
+- cb60156f-f6ad-543b-b549-c1f23472cfba
+- 9d5a4ef0-4431-52e3-91cd-b9f15924f8ab
 ---
+
 
 
 The Pegasi Pirate War stemming from The United Imperial Offensive has taxed the logistical prowess of the Empire. Supplies, ships, and personnel must be transported up to Hundreds of light years from their source to the Pegasi Sector. Provisioning the Imperial fleet over such distances is a monumental task in itself, But the steady stream of prisoners of war extradited to Imperial space must also be provisioned, guarded, and accommodated. Many prisoners await judgement by the Pilot’s Federation for their crimes, while others face judgement in Imperial courts. 

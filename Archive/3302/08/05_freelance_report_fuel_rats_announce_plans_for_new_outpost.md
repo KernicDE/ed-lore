@@ -28,7 +28,10 @@ significance: high
 related_uuids:
 - aec8c033-bc2b-50dc-a29c-f184dfe139fb
 - b9be1738-ac61-536b-8b50-d9dc091e5147
+- e74deb32-c4c0-59e7-8506-445b6c628173
+- fedf5e1d-20a4-5558-a391-033b32aae950
 ---
+
 
 
 Earlier today, The Fuel Rats Mischief announced plans for an extraction outpost near Jaques Station. 

@@ -4,7 +4,12 @@ title: Assembly to Vote on Proposed Changes
 slug: assembly_to_vote_on_proposed_changes
 date: '3304-09-07'
 source: GitHub
-summary: The Alliance Assembly agrees to hold an internal vote on President Gibson Kincaid's proposed constitutional changes in mid-October, coinciding with the presidential election. Prime Minister Edmund Mahon announces the decision. Journalist Milo Vesper notes that while some see the proposals as overdue restructuring, others fear imbuing the president with emperor-like authority, and the phrase 'constitutional crisis' has already been heard in Parliament.
+summary: The Alliance Assembly agrees to hold an internal vote on President Gibson
+  Kincaid's proposed constitutional changes in mid-October, coinciding with the presidential
+  election. Prime Minister Edmund Mahon announces the decision. Journalist Milo Vesper
+  notes that while some see the proposals as overdue restructuring, others fear imbuing
+  the president with emperor-like authority, and the phrase 'constitutional crisis'
+  has already been heard in Parliament.
 player_impact: None
 persons:
 - Gibson Kincaid
@@ -17,7 +22,9 @@ groups:
 locations: []
 topics:
 - politics
-modern_impact: The Assembly's agreement to vote on constitutional amendments transforms the presidential election into a referendum on the Alliance's fundamental political structure, with potentially far-reaching consequences for galactic power dynamics.
+modern_impact: The Assembly's agreement to vote on constitutional amendments transforms
+  the presidential election into a referendum on the Alliance's fundamental political
+  structure, with potentially far-reaching consequences for galactic power dynamics.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -26,6 +33,7 @@ related_uuids:
 - 4c33cc73-d588-59a5-b80d-fe0c6e76f665
 - a950b069-65d4-569a-b55c-6ce84123e10e
 ---
+
 
 The Alliance Assembly has agreed to hold an internal vote on President Gibson Kincaid’s proposed changes to the constitution. 
 

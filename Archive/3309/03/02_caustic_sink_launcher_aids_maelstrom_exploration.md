@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Aegis’s initiative in the Duamta system has kick-started production of a ship module designed for caustic environments.
 Shipments of advanced catalysers, heatsink interlinks and palladium were delivered following a request from Professor Alba Tesreau. Pilots also provided tissue samples extracted from the caustic generators inside each Maelstrom, which are a vital component of these modules.  Manufacturing bases have now been established, allowing stocks of the caustic sink launcher to reach the public market. 

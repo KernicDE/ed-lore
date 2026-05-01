@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 A special tribunal of the Federal Navy Criminal Court has deliberated the case of former admiral Aden Tanner and made a final decision.
 The following press release was released to all Federal newsfeeds:
 “This tribunal has scrutinised the latest evidence supplied by the Federal Attorney’s Office. We find that the analysis of Salvation’s superweapons does indeed substantiate Mr Tanner’s allegation that they were designed to provoke a hostile response from the Thargoids. Azimuth Biotech has been unable to verify that its claimed ‘anti-xeno detection network’ exists, explaining that most of Salvation’s advanced designs were not widely shared within the corporation.”

@@ -42,6 +42,7 @@ related_uuids:
 
 
 
+
 Private investigators Erik Gunnarson and Francesca Wolfe review The Neo-Marlinist Liberation Army.
 Gunnarson: “We don’t usually get involved With political cases, but it’s hard to ignore the largest terrorist attack in history.”
 “The NMLA is a radical offshoot of Marlinism, a democratic movement named after the Republic of Achenar’s original ruler, Marlin Duval. Most are peaceful protester types, but Neo-Marlinists want to overthrow the government by permanently removing the Imperial Family.”

@@ -4,7 +4,12 @@ title: Week in Review
 slug: week_in_review
 date: '3304-12-01'
 source: GitHub
-summary: Weekly summary covering Dr Alfred Ulyanov's comments on abandoned Far God outposts in the Etain system, Aegis's breakthrough neutralising Thargoid Sensor disruption using meta-alloys, Imperial senators supporting Nova Imperium, Aegis security forces stationed in Meene to protect engineer Ram Tah, the end of conflict in the Loha system, and Achilles Corporation's plan to replace robots destroyed in the spy robot scandal.
+summary: Weekly summary covering Dr Alfred Ulyanov's comments on abandoned Far God
+  outposts in the Etain system, Aegis's breakthrough neutralising Thargoid Sensor
+  disruption using meta-alloys, Imperial senators supporting Nova Imperium, Aegis
+  security forces stationed in Meene to protect engineer Ram Tah, the end of conflict
+  in the Loha system, and Achilles Corporation's plan to replace robots destroyed
+  in the spy robot scandal.
 player_impact: None
 persons:
 - Alba Tesreau
@@ -28,14 +33,18 @@ topics:
 - scandal
 - succession
 - war
-modern_impact: Aegis's meta-alloy breakthrough permanently ends starport technological plague disruptions. Nova Imperium gains senatorial support, reshaping Imperial politics. The Achilles spy robot scandal continues to reverberate through corporate circles.
+modern_impact: Aegis's meta-alloy breakthrough permanently ends starport technological
+  plague disruptions. Nova Imperium gains senatorial support, reshaping Imperial politics.
+  The Achilles spy robot scandal continues to reverberate through corporate circles.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 51a193be-ce8c-5649-b154-05d219b0f646
 - d80a7b9f-9d19-5bb7-b7e5-190a2db517ff
 - 8cc43f3f-da2a-5399-af1a-6a0bd65d1bab
+- e1421cb3-0c7c-57f0-a55b-7a93b5f624f2
 ---
+
 
 Here are This week’s major stories. 
 

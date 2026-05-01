@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 In an apparent show of solidarity for The visiting Senator and in protest at her perceived shabby treatment at The hands of her Federation hosts, Dozens of independent Commanders have volunteered to escort Lady Kahina Tijani Loren's Imperial Courier through Federal space for the duration of her trip. 
 
 The unofficial escort is primarily composed of Imperial Cutters in private ownership, causing acute embarrassment to the Federation, who are powerless to prevent newsfeed images of what appears to be a sizeable Imperial fleet gallivanting unchallenged against the unmistakeable backdrop of core Federation worlds. 

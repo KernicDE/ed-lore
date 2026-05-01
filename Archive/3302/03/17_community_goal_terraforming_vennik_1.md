@@ -4,8 +4,12 @@ title: Community Goal  Terraforming Vennik 1
 slug: community_goal_terraforming_vennik_1
 date: '3302-03-17'
 source: GitHub
-summary: The Revolutionary Party of Vennik enters the final stage of its decades-long terraforming project for Vennik 1. They request terrain-enrichment systems to prepare the planet's surface for agricultural development and establish a food and medicine economy.
-player_impact: Pilots delivered terrain-enrichment systems to Nixon Enterprise in the Vennik system to support the terraforming of Vennik 1.
+summary: The Revolutionary Party of Vennik enters the final stage of its decades-long
+  terraforming project for Vennik 1. They request terrain-enrichment systems to prepare
+  the planet's surface for agricultural development and establish a food and medicine
+  economy.
+player_impact: Pilots delivered terrain-enrichment systems to Nixon Enterprise in
+  the Vennik system to support the terraforming of Vennik 1.
 groups:
 - Revolutionary Party of Vennik
 locations:
@@ -20,7 +24,11 @@ topics:
 modern_impact: Trade initiative affecting commodity markets.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 7f0f8853-f8b6-53c5-bcd8-c0053752749f
+- b6d6201b-5580-5133-bc5b-aa9dcf24b7fa
 ---
+
 
 For decades, The Revolutionary Party of Vennik has been terraforming the planet Vennik 1, slowly transforming it into a habitable world. With the ambitious project about to enter Its final stage, the organisation has placed an open order for terrain-enrichment systems With Which to prepare the planet's surface for agricultural development. 
 

@@ -21,7 +21,14 @@ modern_impact: Confirms the completion of the first Federal outpost in the Segov
   expansion chain, creating a permanent Federal foothold on the edge of the Pleiades.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 4ddef4ba-58e1-5877-97dd-f84dd74097ba
+- 7a9d73cd-6f0e-56a0-8e5c-a299a53987b9
+- fbb6c7ab-5907-5d80-8d59-a0e6e1da54c7
+- 7347eb81-9a9c-504f-8834-a1b7de13a2ef
+- d56664d5-f8e2-56ce-9a56-d3cf945ff3fb
 ---
+
 
 
 The Future of Segovan has announced that Its appeal for construction materials has reached a successful conclusion, despite repeated attempts from Imperial pilots to disrupt the campaign. Large quantities of gallium and insulating membrane, and Hundreds of tonnes of power generators, were delivered to Ramsbottom Hub, the organisation's base of operations, allowing work to begin on the first of a series of new Federal outposts. 

@@ -4,7 +4,9 @@ title: Bounty Voucher Boost to Increase Local Security
 slug: bounty_voucher_boost_to_increase_local_security
 date: '3306-11-30'
 source: GitHub
-summary: Bounty voucher rewards increase across Alliance, Imperial, Federal and Independent space due to reduced local security forces and rising piracy. The increase is applied after claim validation at starport security offices.
+summary: Bounty voucher rewards increase across Alliance, Imperial, Federal and Independent
+  space due to reduced local security forces and rising piracy. The increase is applied
+  after claim validation at starport security offices.
 player_impact: Pilots earn increased credits for bounty hunting across all jurisdictions.
 groups:
 - Alliance
@@ -12,13 +14,16 @@ groups:
 topics:
 - crime
 - piracy
-modern_impact: The bounty boost reflects deteriorating local security as superpowers redirect resources toward military buildup.
+modern_impact: The bounty boost reflects deteriorating local security as superpowers
+  redirect resources toward military buildup.
 legacy_weight: 2
 significance: low
 related_uuids:
 - b83f0960-68dd-5629-8503-06d2c77c81f3
 - a8b6f811-b9f8-58f0-9df9-821f2cf90668
+- 32260e0e-400f-55a9-b936-04db515d5d11
 ---
+
 
 **Pilots Federation ALERT** 
 

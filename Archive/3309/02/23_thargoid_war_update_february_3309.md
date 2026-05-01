@@ -4,7 +4,8 @@ title: 'Thargoid War Update: February 3309'
 slug: thargoid_war_update_february_3309
 date: '3309-02-23'
 source: API
-summary: Vox Galactica provides an overview of Thargoid war developments in February 3309, noting 634 overrun systems versus 61 liberated.
+summary: Vox Galactica provides an overview of Thargoid war developments in February
+  3309, noting 634 overrun systems versus 61 liberated.
 player_impact: Not specifically mentioned — this is an overview report.
 persons:
 - Jade Sanderlyn
@@ -17,11 +18,22 @@ topics:
 - war
 entities: []
 arc_id: null
-modern_impact: 'Jade Sanderlyn reported: "Fierce fighting has also broken out in the California and Witch Head Nebulas. It''s been speculated that the Thargoids seek to secure the barnacle sites seeded in those regions millennia ago." This observation highlights a terrifying strategic implication: the Thargoids may view colonised space as ancestral territory, reframing the war not as simple aggression but as a reclamation campaign that threatens every human system.'
+modern_impact: 'Jade Sanderlyn reported: "Fierce fighting has also broken out in the
+  California and Witch Head Nebulas. It''s been speculated that the Thargoids seek
+  to secure the barnacle sites seeded in those regions millennia ago." This observation
+  highlights a terrifying strategic implication: the Thargoids may view colonised
+  space as ancestral territory, reframing the war not as simple aggression but as
+  a reclamation campaign that threatens every human system.'
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- 69926e4d-553c-5afc-b7a1-2e6de591030d
+- 40d9b854-2973-5053-a42d-6955f8876544
+- bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
+- 465c6592-f3d8-5b55-9c4f-2b7b1e60f6ee
+- d6063fe1-a6b1-595d-b957-5243e1ce6784
 ---
+
 
 An overview of recent developments regarding the Thargoid conflict, as reported by Jade Sanderlyn on the Vox Galactica newsfeed. 
 “Over the last month, Thargoid fleets have continued expanding outwards from the eight Maelstroms. The front lines of the war are relentlessly encroaching deeper into the core systems, leaving desolation and death in their wake.”

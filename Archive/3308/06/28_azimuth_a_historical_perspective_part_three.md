@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 An overview of how Aegis was impacted by the rise of Salvation as a competing anti-xeno force.
 “For now I cannot provide you with my credentials. Suffice to say that I am a man of science, unconnected with modern politics. I am recruiting agents to investigate the work undertaken by Azimuth Biochemicals two hundred years ago, which I believe to be of enormous scientific importance. Much has been lost in that time, but our dedication will allow us to rewrite history.”
 This was how the anonymous figure known only as Salvation introduced himself to Pilots’ Federation members in April 3307. Faceless and voiceless, he remains unseen to the present day. His messages characterised him as a dedicated scientist, one with enormous confidence in achieving his goal to destroy the Thargoids and “save all of humanity”.

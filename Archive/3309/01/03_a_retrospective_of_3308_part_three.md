@@ -4,7 +4,9 @@ title: A Retrospective of 3308 (Part Three)
 slug: a_retrospective_of_3308_part_three
 date: '3309-01-03'
 source: API
-summary: Historian Sima Kalhana concludes her retrospective of 3308 by detailing the aftermath of the Battle of HIP 22460, the arrival of the Maelstroms, and the beginning of the Second Thargoid War.
+summary: Historian Sima Kalhana concludes her retrospective of 3308 by detailing the
+  aftermath of the Battle of HIP 22460, the arrival of the Maelstroms, and the beginning
+  of the Second Thargoid War.
 player_impact: Not specifically mentioned — this is a retrospective report.
 persons:
 - Sima Kalhana
@@ -20,7 +22,11 @@ topics:
 - war
 entities: []
 arc_id: null
-modern_impact: '"By the end of 3308, Thargoid forces were raging across the core systems, causing millions of casualties and displacing millions more from their homes." This retrospective establishes the scale of devastation that set the stage for the Second Thargoid War and contextualizes how the collapse of Aegis and Salvation''s death left humanity unprepared for the Maelstrom onslaught.'
+modern_impact: '"By the end of 3308, Thargoid forces were raging across the core systems,
+  causing millions of casualties and displacing millions more from their homes." This
+  retrospective establishes the scale of devastation that set the stage for the Second
+  Thargoid War and contextualizes how the collapse of Aegis and Salvation''s death
+  left humanity unprepared for the Maelstrom onslaught.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,6 +35,7 @@ related_uuids:
 - 35ed6f3a-9ca1-5e6c-babf-fed3121e14d2
 - 09d4b9af-ccaf-5d95-8847-50360aaf1af2
 ---
+
 
 The concluding article in a series by historian Sima Kalhana, providing an overview of last year’s key events.
 “The aftermath of the Battle of HIP 22460 was an unsettling time. With Salvation dead, Azimuth Biotech fell under new management and struggled to maintain prominence. The Empire withdrew from further collaborations with the other superpowers. And despite widespread fears of Thargoid reprisals, a xeno-peace movement sought diplomacy with the aliens to prevent further conflict.”

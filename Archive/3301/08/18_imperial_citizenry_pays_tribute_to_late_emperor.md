@@ -4,7 +4,12 @@ title: Imperial Citizenry Pays Tribute to Late Emperor
 slug: imperial_citizenry_pays_tribute_to_late_emperor
 date: '3301-08-18'
 source: GitHub
-summary: Imperial citizens across the Empire are paying tribute to the late Emperor Hengist Duval. Local authorities have renamed landmarks and commissioned memorials. The Facece Empire Party commissioned a modernist sculpture of the Emperor atop a triumphal arch on Topaz. Pilots’ bars have become venues for debating Brendan Paul Darius’s motives and possible masterminds. The Office of Imperial Statistics reported a 16% increase in newborn males named Hengist since the Emperor’s death.
+summary: Imperial citizens across the Empire are paying tribute to the late Emperor
+  Hengist Duval. Local authorities have renamed landmarks and commissioned memorials.
+  The Facece Empire Party commissioned a modernist sculpture of the Emperor atop a
+  triumphal arch on Topaz. Pilots’ bars have become venues for debating Brendan Paul
+  Darius’s motives and possible masterminds. The Office of Imperial Statistics reported
+  a 16% increase in newborn males named Hengist since the Emperor’s death.
 player_impact: None
 persons:
 - Brendan Paul Darius
@@ -17,10 +22,19 @@ locations:
 - Topaz
 topics:
 - succession
-modern_impact: Widespread public tribute to Emperor Hengist Duval demonstrates the deep affection of the Imperial citizenry.
+modern_impact: Widespread public tribute to Emperor Hengist Duval demonstrates the
+  deep affection of the Imperial citizenry.
 legacy_weight: 2
 significance: low
+related_uuids:
+- f0f1c2b2-9935-5db5-afca-cdd159061db8
+- 50bd1d87-a0da-5adc-867f-1c98f6bb02b1
+- 218d53f6-e40c-5599-8ac9-d7f688da4b20
+- e6d03504-c5f6-5e23-be1b-a1a309af0a58
+- 5a0d6b12-099c-5111-9caa-68a035d80287
+- 2d4517f6-aa14-5e84-9d0e-566b960b7848
 ---
+
 
 Far from The Hall of Martyrs, Imperial citizens across The Empire have been paying tribute to the late Emperor. Many local system authorities have renamed landmarks and buildings in his honour, and a few have commissioned architects and artists to create new memorials in local capitals. The grandest of these designs has been commissioned by The Facece Empire Party on Topaz, featuring a modernist interpretation of the late Emperor sat atop a triumphal arch in The capital's main square. A statement released by the Facece Empire Party reads: "This minimalist sculpture will represent the spirit of the late Emperor, and all those who went before him, as a caretaker watching over the people". 
 

@@ -32,7 +32,10 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - 467fc0af-ef15-512b-bf06-208013e72902
+- ab118a7f-a481-5ef9-9e31-2a40ca241017
+- abb3e733-92c5-5ffa-a45d-9a084459d500
 ---
+
 
 
 Speaking before a gathering of The Alliance Assembly today, Prime Minister Edmund Mahon has issued a warning to The Crimson State Group that it stands alone in Its opposition to the Federation’s continued governance of Lugh. 

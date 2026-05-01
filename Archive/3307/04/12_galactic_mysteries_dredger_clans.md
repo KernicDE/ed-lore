@@ -33,7 +33,9 @@ related_uuids:
 - 218ec85d-706e-5e3d-bb5b-9a63e443707c
 - 29d5b1ad-189d-542d-b21b-ab8e21422a28
 - 62af4a63-c187-5f32-a237-8f4108056a43
+- c6ad335b-e800-558b-8000-dc2fcc040210
 ---
+
 
 
 Erik Gunnarson of The Wallglass Investigations Agency discusses the nomadic tribes that wander the galaxy in converted Dredger megaships.

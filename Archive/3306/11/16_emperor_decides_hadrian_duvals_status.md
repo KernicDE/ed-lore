@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Princess Aisling Duval’s request for her cousin, Imperator Hadrian Augustus Duval, to be accepted into The Imperial Family has been denied. 
 
 Emperor Arissa Lavigny-Duval’s decision was delivered to the Senate by Chancellor Anders Blaine: 

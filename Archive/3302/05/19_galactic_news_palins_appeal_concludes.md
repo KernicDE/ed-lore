@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The Defence Party of Nespeleve has announced that Professor Ishmael Palin's appeal for building fabricators has been positively received by the galactic community. Large quantities of the equipment have been delivered to Wilkes Orbital over the past week for the construction of a new research outpost on Maia A 3 a. In a statement, Professor Palin extended his gratitude to those who supported the campaign: 
 
 "I am extremely grateful to all the pilots who contributed to This initiative. Now that the necessary materials are in place, I will begin preparing for the next phase of the project. There is still much to be done before I am ready to depart for Maia A 3 a, but With luck it will not take long." 

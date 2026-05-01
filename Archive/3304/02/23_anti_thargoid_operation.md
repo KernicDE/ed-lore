@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Following The success of last month’s Federal-Imperial operation in the HIP 17692 system, the two superpowers have once again joined forces to combat the Thargoids. 
 
 This time, the operation will focus on the Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4 systems, where large concentrations of Thargoid ships have been reported. 

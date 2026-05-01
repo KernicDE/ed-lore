@@ -4,8 +4,10 @@ title: Eurybia Blue Mafia Resists Imperial Forces
 slug: eurybia_blue_mafia_resists_imperial_forces
 date: '3306-10-08'
 source: GitHub
-summary: The Eurybia Blue Mafia successfully fights off Imperial forces attempting to capture engineer Liz Ryder. Both sides offer rewards to supporting pilots.
-player_impact: Pilots who supported either side can collect rewards at their respective starports.
+summary: The Eurybia Blue Mafia successfully fights off Imperial forces attempting
+  to capture engineer Liz Ryder. Both sides offer rewards to supporting pilots.
+player_impact: Pilots who supported either side can collect rewards at their respective
+  starports.
 persons:
 - Liz Ryder
 - Ana Westergard
@@ -20,13 +22,15 @@ topics:
 - terrorism
 - war
 - independence
-modern_impact: The anarchist victory defies Imperial authority and keeps Liz Ryder out of custody.
+modern_impact: The anarchist victory defies Imperial authority and keeps Liz Ryder
+  out of custody.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 00166067-886c-56fa-a0a6-e6bb8ff8bb4c
 - ac1ee566-f2a3-5093-9d2a-ba2fe98f7346
 ---
+
 
 **Pilots Federation ALERT: For The attention of all Commanders** 
 

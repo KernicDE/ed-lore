@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Vox Galactica’s Jade Sanderlyn discusses the successful recovery of people from the Titans and developments at the new Thargoid spire sites.
 “When Aegis announced its plans to free abductees from the Thargoid motherships, I wasn’t the only one expecting the worst outcome. Turning a core mining missile into a way to extract life-support capsules from the Titans sounded extremely risky. And even if it worked, what state would these poor people be in after such a horrific experience?”
 “Much to my relief, the scheme is working. Many thousands have now been brought back to civilisation, and seem to have suffered few ill-effects. Wisely, all are being kept under strict quarantine while a battery of medical tests are run on them. But I understand that, in most cases, abductees are permitted to communicate with their friends and families - most of whom never expected to hear from them again.”

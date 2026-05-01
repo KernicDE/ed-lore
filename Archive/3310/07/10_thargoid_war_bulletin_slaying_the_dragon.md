@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 As Titan Indra in the HIP 20567 system was attacked, Vox Galactica reporter Jade Sanderlyn published her eye-witness account.
 “Watching the Thargoid mothership’s last hours had my guts in knots. Caustic gas and debris spurted from its vents like blood from multiple wounds. Violent vibrations and bioluminescent pulses gave the impression of a creature shuddering its last. And our ship’s sensors picked up horrific creaks and groans, part collapsing starship and part dying animal.”
 “The Titan appeared to begin building energy for its electromagnetic attack but it seemed to go out of control. I was half-blinded by a sudden flash  that sent our ship spinning out into the black. It continued to explode with a series of increasingly intense releases of energy, and then the most intense blast I think I will ever bear witness to.”

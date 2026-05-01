@@ -4,7 +4,12 @@ title: Mars Tribune Closes
 slug: mars_tribune_closes
 date: '3304-11-22'
 source: GitHub
-summary: The Mars Tribune is permanently closed and owner Kingsley Cordova arrested following the spy robot scandal. Detective Captain Ramesh Thorne, recently reinstated and promoted by the FSS, announces arrests of Cordova, editor Lana Sigrid, and other employees for blackmail and corruption. The Cordova Group is subjected to government audit. The anonymous whistle-blower receives immunity in exchange for removing the surveillance program from all PA912 robots.
+summary: The Mars Tribune is permanently closed and owner Kingsley Cordova arrested
+  following the spy robot scandal. Detective Captain Ramesh Thorne, recently reinstated
+  and promoted by the FSS, announces arrests of Cordova, editor Lana Sigrid, and other
+  employees for blackmail and corruption. The Cordova Group is subjected to government
+  audit. The anonymous whistle-blower receives immunity in exchange for removing the
+  surveillance program from all PA912 robots.
 player_impact: None
 persons:
 - Kingsley Cordova
@@ -23,7 +28,9 @@ topics:
 - scandal
 - crime
 - corporate expansion
-modern_impact: The closure of the Mars Tribune and arrest of its owner marks a significant victory against corporate blackmail and surveillance abuse, setting a precedent for holding media conglomerates accountable.
+modern_impact: The closure of the Mars Tribune and arrest of its owner marks a significant
+  victory against corporate blackmail and surveillance abuse, setting a precedent
+  for holding media conglomerates accountable.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -31,7 +38,11 @@ related_uuids:
 - c6c25c0b-245e-5a2c-ac07-b80f49ac7246
 - d72ade11-9eb6-5dc4-a86d-07b7b98fffe5
 - 974273ae-d811-56a4-91c7-d562bba2149a
+- 8cc43f3f-da2a-5399-af1a-6a0bd65d1bab
+- 8a9815b2-8f31-5aaf-8744-61a80c6d6c45
+- 12fd8e38-df4b-5448-ace1-e16a3f518c72
 ---
+
 
 The Mars Tribune has been closed and Its owner arrested in the wake of the spy robot scandal. 
 

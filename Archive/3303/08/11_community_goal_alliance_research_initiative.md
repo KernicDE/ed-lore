@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 The Alliance has launched a new research initiative designed to enhance human understanding of the Thargoids. The primary aim of the initiative is to build a range of state-of-the-art instruments expressly designed to analyse Thargoid material. 
 
 To This end, the Alliance has placed an open order for unknown ship signatures, unknown organic circuitry and unknown technology components. The Kaushpoos Pro-Alliance Union has been authorised to oversee the campaign, and has promised to reward pilots who deliver the requested resources to Neville Horizons in the Kaushpoos system. The organisation has also placed a kill order on all ships on Its wanted list, to ensure that those delivering resources to Neville Horizons can do so safely. 

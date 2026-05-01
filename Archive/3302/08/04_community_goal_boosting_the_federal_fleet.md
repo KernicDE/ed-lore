@@ -4,8 +4,11 @@ title: Community Goal  Boosting the Federal Fleet
 slug: community_goal_boosting_the_federal_fleet
 date: '3302-08-04'
 source: GitHub
-summary: The Federation announced plans to expand its Navy with three new Farragut-class Battlecruisers. Pilots are requested to deliver autofabricators, tantalum, and superconductors to Brady Horizons in the Gooheimar system.
-player_impact: Deliver autofabricators, tantalum, and superconductors to Brady Horizons in Gooheimar to support Federal capital ship construction.
+summary: The Federation announced plans to expand its Navy with three new Farragut-class
+  Battlecruisers. Pilots are requested to deliver autofabricators, tantalum, and superconductors
+  to Brady Horizons in the Gooheimar system.
+player_impact: Deliver autofabricators, tantalum, and superconductors to Brady Horizons
+  in Gooheimar to support Federal capital ship construction.
 persons:
 - Zachary Hudson
 groups:
@@ -20,10 +23,18 @@ topics:
 - war
 technologies:
 - Farragut-class Battlecruiser
-modern_impact: Federal naval expansion in response to rising Imperial tensions escalates the superpower arms race.
+modern_impact: Federal naval expansion in response to rising Imperial tensions escalates
+  the superpower arms race.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 68330d67-d8d6-5de6-81bd-b40899200b34
+- 89725c84-2b6f-5031-8d69-8c8f8d250137
+- 7347eb81-9a9c-504f-8834-a1b7de13a2ef
+- d56664d5-f8e2-56ce-9a56-d3cf945ff3fb
+- 11cb4845-96e1-5ff1-ab46-1a3b0878799d
 ---
+
 
 As the antagonism between the Federation and the Empire Continues to simmer, the Federation has announced plans to expand Its Navy With three new Farragut-class Battlecruisers. The development follows a recent initiative to add three new capital ships to the Imperial fleet. 
 

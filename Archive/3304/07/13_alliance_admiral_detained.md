@@ -4,7 +4,14 @@ title: Alliance Admiral Detained
 slug: alliance_admiral_detained
 date: '3304-07-13'
 source: GitHub
-summary: Admiral George Varma of the Alliance Council of Admirals is arrested by the League of Reparation taskforce at Donaldson starport in Alioth. Captain Niamh Seutonia and Senior Agent Tanya Ramirez confront him during an admiralty meeting. Seutonia accuses Varma of redirecting Alliance Defence Force cargo to terrorist cells and being Nexus. The arrest creates diplomatic ripples with Federal and Imperial ambassadors summoned before the Alliance Assembly. Council member Jed Trager calls it an egregious transgression. Prime Minister Edmund Mahon states the evidence is considerable and promises a fair trial.
+summary: Admiral George Varma of the Alliance Council of Admirals is arrested by the
+  League of Reparation taskforce at Donaldson starport in Alioth. Captain Niamh Seutonia
+  and Senior Agent Tanya Ramirez confront him during an admiralty meeting. Seutonia
+  accuses Varma of redirecting Alliance Defence Force cargo to terrorist cells and
+  being Nexus. The arrest creates diplomatic ripples with Federal and Imperial ambassadors
+  summoned before the Alliance Assembly. Council member Jed Trager calls it an egregious
+  transgression. Prime Minister Edmund Mahon states the evidence is considerable and
+  promises a fair trial.
 player_impact: None
 persons:
 - George Varma
@@ -29,13 +36,17 @@ topics:
 - terrorism
 - investigation
 - politics
-modern_impact: Varma's arrest sends shockwaves through Alliance military and political institutions, while the tri-superpower taskforce's bold action strains inter-power diplomatic relations.
+modern_impact: Varma's arrest sends shockwaves through Alliance military and political
+  institutions, while the tri-superpower taskforce's bold action strains inter-power
+  diplomatic relations.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 0bb8e10b-68fe-5dc9-bcc2-228056a9ef69
 - 7ba9e81d-43a4-5565-ba4d-31b3ac2c2c95
+- be7c559a-d6be-5295-9655-1c30e0ee4ed0
 ---
+
 
 A member of The Alliance Council of Admirals has been arrested by the taskforce investigating terrorist organisation the League of Reparation. 
 

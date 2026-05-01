@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Admiral Denton Patreus has announced that The joint Federal-Imperial operation in the Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4 systems has succeeded in achieving Its objectives. Scores of Independent pilots supported the campaign by eliminating Thargoids, and by recovering black boxes and personal effects from Thargoid attack sites. 
 
 As the campaign drew to a close, Admiral Denton Patreus released a statement, thanking those who participated. 

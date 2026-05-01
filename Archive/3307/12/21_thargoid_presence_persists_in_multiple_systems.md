@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The Coalsack, Pleiades and Witch Head nebulas continue to see an influx of Thargoid vessels.
 Freelance war correspondent Ernesto Rios reported for Vox Galactica:

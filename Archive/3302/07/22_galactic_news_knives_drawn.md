@@ -36,7 +36,15 @@ significance: high
 related_uuids:
 - 9c95eaef-34b7-5831-b0a9-ae8ace452842
 - fc52b28b-af0b-5905-9ce2-554b029fb353
+- 8b3c0703-6e02-54c2-bece-95d8dbcb8c84
+- 94621316-3885-5f27-92e7-3e6974ddd43c
+- d402437c-53dc-5b0d-83ef-01f10c77651e
+- f32dbd18-488b-5264-a256-d2fcdc02ce5a
+- 8c502994-8724-594e-8190-01e2df2f7ffb
+- 68330d67-d8d6-5de6-81bd-b40899200b34
+- 89725c84-2b6f-5031-8d69-8c8f8d250137
 ---
+
 
 
 With the Federal-Imperial relationship currently on unsteady ground, political commentators have been reviewing recent events and offering their analyses of The current situation. 

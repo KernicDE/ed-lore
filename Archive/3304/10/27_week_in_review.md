@@ -4,7 +4,12 @@ title: Week in Review
 slug: week_in_review
 date: '3304-10-27'
 source: GitHub
-summary: Weekly summary covering the Alliance Assembly's decision to create the Office of the Alliance President without executive powers, Sirius Corporation's public offer to Ram Tah, the identification of The Collective as a hacktivist group behind digital crimes including the Rackham hack, the Cordova Group's complaint against the FSS investigation, Senator Caspian Leopold's Thargoid aid appeal, and the Palin Institute's successful Thargoid materials appeal.
+summary: Weekly summary covering the Alliance Assembly's decision to create the Office
+  of the Alliance President without executive powers, Sirius Corporation's public
+  offer to Ram Tah, the identification of The Collective as a hacktivist group behind
+  digital crimes including the Rackham hack, the Cordova Group's complaint against
+  the FSS investigation, Senator Caspian Leopold's Thargoid aid appeal, and the Palin
+  Institute's successful Thargoid materials appeal.
 player_impact: None
 persons:
 - Caspian Leopold
@@ -40,7 +45,9 @@ topics:
 - scandal
 - politics
 - xenoarchaeology
-modern_impact: This week sees significant political restructuring in the Alliance, corporate manoeuvring around Guardian technology, and the emergence of a new cybercriminal force, reshaping power dynamics across multiple sectors.
+modern_impact: This week sees significant political restructuring in the Alliance,
+  corporate manoeuvring around Guardian technology, and the emergence of a new cybercriminal
+  force, reshaping power dynamics across multiple sectors.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -51,6 +58,7 @@ related_uuids:
 - dd466372-2852-583f-9211-6abb50186a05
 - fb63c2c1-0ae1-571e-b259-64552a8d4ba3
 ---
+
 
 Here are This week’s major stories. 
 

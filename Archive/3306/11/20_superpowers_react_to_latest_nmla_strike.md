@@ -4,7 +4,11 @@ title: Superpowers React to Latest NMLA Strike
 slug: superpowers_react_to_latest_nmla_strike
 date: '3306-11-20'
 source: GitHub
-summary: The Empire and Federation blame each other after the NMLA bombing of Kepler Orbital. Imperial Ambassador Luciana claims the Federation resisted shutting down NMLA bomb factories in LTT 1935, while Vice President Mitchell blames Shadow President Winters for welcoming terrorists. Federal embassies in Imperial systems close amid violent protests.
+summary: The Empire and Federation blame each other after the NMLA bombing of Kepler
+  Orbital. Imperial Ambassador Luciana claims the Federation resisted shutting down
+  NMLA bomb factories in LTT 1935, while Vice President Mitchell blames Shadow President
+  Winters for welcoming terrorists. Federal embassies in Imperial systems close amid
+  violent protests.
 player_impact: None
 persons:
 - Felicia Winters
@@ -18,7 +22,8 @@ topics:
 - terrorism
 - diplomacy
 - war
-modern_impact: The NMLA bombing deepens the superpower rift and fuels political blame games on both sides.
+modern_impact: The NMLA bombing deepens the superpower rift and fuels political blame
+  games on both sides.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -26,6 +31,7 @@ related_uuids:
 - 4e860725-eb68-5f84-82ea-7b7e629bd964
 - 5c5b50af-0f81-5898-b860-948182133436
 ---
+
 
 Relations between The Empire and the Federation have deteriorated following a terror attack by Neo-Marlinists against a Federal starport. 
 

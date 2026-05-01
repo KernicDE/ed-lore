@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Titan Leigong in the HIP 8887 system has been eliminated, following the same tactical approach used against Taranis. 
 Vox Galactica’s Jade Sanderlyn reported:
 “Two of the eight Thargoid Titans have now been put out of action. Leigong suffered the same fate as Taranis, with its core being targeted by a sustained bombardment.”

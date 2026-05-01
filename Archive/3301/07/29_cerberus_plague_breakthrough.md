@@ -34,7 +34,9 @@ significance: high
 related_uuids:
 - 7cd4224c-155d-5a3c-960c-dccd18aaeb44
 - 8fe8b75e-717d-564c-91bf-cb5f7ca31ff0
+- b5b61765-8e3b-5065-8823-15a5c434f68a
 ---
+
 
 
 Medical personnel at Hart Station were unanimous in their praise for The Many Commanders who delivered medicines to The Bast System as part of an ongoing effort to help those afflicted With the Cerberus Plague. A spokesperson at Hart Station released The following statement: 

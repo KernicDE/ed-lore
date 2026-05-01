@@ -4,8 +4,11 @@ title: Sap Core Legion Commodity Drive
 slug: sap_core_legion_commodity_drive
 date: '3305-08-29'
 source: GitHub
-summary: Sap Core Legion launches a commodity drive to build a state-of-the-art medical facility in Heike, a system with historical significance in plague cure development. The facility responds to recent outbreaks and the ongoing Thargoid conflict.
-player_impact: Pilots deliver advanced medicines, thallium and medical diagnostic equipment to Braun Enterprise in Heike.
+summary: Sap Core Legion launches a commodity drive to build a state-of-the-art medical
+  facility in Heike, a system with historical significance in plague cure development.
+  The facility responds to recent outbreaks and the ongoing Thargoid conflict.
+player_impact: Pilots deliver advanced medicines, thallium and medical diagnostic
+  equipment to Braun Enterprise in Heike.
 persons:
 - Macklin Fox
 groups:
@@ -15,12 +18,14 @@ locations:
 topics:
 - medicine
 - construction
-modern_impact: The medical facility expands off-world healthcare infrastructure and prepares humanity for future epidemics and conflict-related medical needs.
+modern_impact: The medical facility expands off-world healthcare infrastructure and
+  prepares humanity for future epidemics and conflict-related medical needs.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - b5b61765-8e3b-5065-8823-15a5c434f68a
 ---
+
 
 The Sap Core Legion faction has launched an initiative to build a state-of-the-art medical facility in the Heike system. 
 

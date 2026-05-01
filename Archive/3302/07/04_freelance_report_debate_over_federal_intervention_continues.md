@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 As the debate rages over The presence of the Federal battle cruiser Thanatos at Merope 2 A, public opinion has reached a crescendo. Commanders throughout the galaxy are weighing in. Is the Federal presence warranted? 
 
 While some Commanders applaud the Federation for Its efforts to conserve the barnacles, just as Many condemn the action. 

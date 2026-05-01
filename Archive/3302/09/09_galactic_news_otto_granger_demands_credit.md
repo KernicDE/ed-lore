@@ -26,6 +26,7 @@ related_uuids:
 ---
 
 
+
 Otto Granger, The smuggler who involved the galactic community in an elaborate search for the mysterious debris in the Pleiades Nebula, has demanded that he receive credit for the discovery. 
 
 In an interview With the Federal Times, Granger made his feelings clear: 

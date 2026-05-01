@@ -1,5 +1,4 @@
 ---
-
 uuid: 60f99547-6620-511f-9d5a-a610a2c0ff18
 title: Week in Review
 slug: week_in_review
@@ -58,7 +57,10 @@ related_uuids:
 - acc81378-94b0-5b7e-a64c-346f7e0501f8
 - 56423215-1d94-5955-9b5b-942c39132b7b
 - 6c73a7e2-e5c8-54ae-a8be-12b073c86722
+- 1311c969-d28a-5f55-ad4a-bacafbdf7ea7
+- f2f08953-c75f-5cd0-9fcf-bc5644c16a6a
 ---
+
 
 
 Here are This week’s major stories. 

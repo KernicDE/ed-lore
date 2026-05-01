@@ -4,8 +4,10 @@ title: Sirius Corporation Ejected from Reorte
 slug: sirius_corporation_ejected_from_reorte
 date: '3308-02-03'
 source: API
-summary: The Reorte Mining Coalition succeeds in forcing Sirius Corporation to withdraw from the Reorte system.
-player_impact: Pilots fought for the Reorte Mining Coalition to drive Sirius Corporation from the system.
+summary: The Reorte Mining Coalition succeeds in forcing Sirius Corporation to withdraw
+  from the Reorte system.
+player_impact: Pilots fought for the Reorte Mining Coalition to drive Sirius Corporation
+  from the system.
 groups:
 - Alliance
 - Sirius Corporation
@@ -20,10 +22,21 @@ topics:
 - corporate expansion
 - war
 arc_id: null
-modern_impact: '"The Reorte Mining Coalition has succeeded in forcing Sirius Corporation to withdraw from the Reorte system." Reorte''s expulsion of Sirius Corporation sets a precedent for Alliance systems rejecting unwanted corporate partnerships.'
+modern_impact: '"The Reorte Mining Coalition has succeeded in forcing Sirius Corporation
+  to withdraw from the Reorte system." Reorte''s expulsion of Sirius Corporation sets
+  a precedent for Alliance systems rejecting unwanted corporate partnerships.'
 legacy_weight: 5
 significance: high
+related_uuids:
+- 8d828da1-f7f7-54e3-be37-f50cc54a3c82
+- ef4e71be-9936-51bb-9e2a-a7dbd842b13f
+- bdab5f72-441a-5f75-943c-e13212c176fb
+- 7086c7a6-47b9-5cfa-ac9e-c7c44ed36d6a
+- 57f6fa04-b94b-5674-8344-d4f063bd6a45
+- 8bfd21dd-5f52-5456-beb3-e58a5292f4dc
+- 33ee3c75-97ce-563c-993f-e4102203cb85
 ---
+
 
 **Pilots’ Federation ALERT**
 The Reorte Mining Coalition has succeeded in forcing Sirius Corporation to withdraw from The Reorte system.

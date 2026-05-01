@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 Over The past few months, Several reports have surfaced of Federal convoys coming under fire in the Maia system. While circumstantial evidence strongly suggested Thargoid involvement, the Federation declined to comment, saying only that the matter was “under investigation”. 
 
 But fresh reports indicate that another attack, resulting in the loss of a Farragut-class Battlecruiser and a number of Other vessels, has recently taken place. In a galaxy-wide announcement, the Federation confirmed that the attack was perpetrated by Thargoid Interceptor-class vessels, as corroborated by those who survived the assault. 

@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The bombing of two Marlinist starports by the NMLA has caused political rifts and public protests across the colony systems.
 Local newsfeed The Marlin Standard reported on current events:
 “Our entire society is still reeling in shock after last week’s attacks against Stillman Hub and Tilman Point stations. There has been mass panic in fear of Further terrorist strikes, With unprecedented scenes of violence against known Neo-Marlinist supporters.”

@@ -39,6 +39,7 @@ related_uuids:
 
 
 
+
 Evidence presented at The trial of Fleet Admiral Vincent suggested financial links to Federal shipbuilding corporation Core Dynamics.
 This significant development was covered by Ethan Takahashi for The Federal Times:
 “The initial investigations around Starship One’s destruction in 3301 were outlined by the prosecution. When the Federal Attorney’s Office revisited this historical data, traces were Found of financial transfers routed through non-Federation banking systems.”

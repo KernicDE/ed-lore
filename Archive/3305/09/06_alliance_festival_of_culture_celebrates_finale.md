@@ -4,7 +4,9 @@ title: Alliance Festival of Culture Celebrates Finale
 slug: alliance_festival_of_culture_celebrates_finale
 date: '3305-09-06'
 source: GitHub
-summary: The Alliance Festival of Culture concludes with a week-long food and drink celebration in Birmingham, Diso. Prime Minister Mahon thanks participants and invites artists across the galaxy to make the Alliance their home.
+summary: The Alliance Festival of Culture concludes with a week-long food and drink
+  celebration in Birmingham, Diso. Prime Minister Mahon thanks participants and invites
+  artists across the galaxy to make the Alliance their home.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -17,12 +19,19 @@ locations:
 - Leesti
 topics:
 - festival
-modern_impact: The festival showcases Alliance cultural diversity and strengthens inter-system cultural ties, though ingredient shortages hint at the coming blight crisis.
+modern_impact: The festival showcases Alliance cultural diversity and strengthens
+  inter-system cultural ties, though ingredient shortages hint at the coming blight
+  crisis.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 2f3b3b59-46ee-59b4-8f60-035a7e31ee7c
+- 3a44c8f0-4093-56c5-ad92-5813f23d889b
+- 1841a100-84be-54ad-a1c6-316471a9aa22
+- d75ed40e-ae55-56fe-8ab3-f318650a324c
+- a95454a8-e427-5965-a4f1-4e5d8c5a7beb
 ---
+
 
 The Alliance Festival of Culture has entered Its final week With a celebration of food and drink on the planet Birmingham in the Diso system.  
 

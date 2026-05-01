@@ -4,7 +4,9 @@ title: Admiral Yamamoto Arrested for Murder
 slug: admiral_yamamoto_arrested_for_murder
 date: '3305-06-01'
 source: GitHub
-summary: Admiral Frederick Yamamoto, head of the Alliance fleet in Zaonce, is arrested for the assassination of former presidential candidate Fazia Silva following a private investigation by Tashmira Silva.
+summary: Admiral Frederick Yamamoto, head of the Alliance fleet in Zaonce, is arrested
+  for the assassination of former presidential candidate Fazia Silva following a private
+  investigation by Tashmira Silva.
 player_impact: None — background political report.
 persons:
 - Frederick Yamamoto
@@ -22,13 +24,16 @@ topics:
 - crime
 - investigation
 - politics
-modern_impact: Yamamoto's arrest exposed a deep conspiracy within the Alliance military-political establishment and triggered the eventual impeachment of President Gibson Kincaid.
+modern_impact: Yamamoto's arrest exposed a deep conspiracy within the Alliance military-political
+  establishment and triggered the eventual impeachment of President Gibson Kincaid.
 legacy_weight: 4
 significance: high
 related_uuids:
 - cdea9b6d-620e-56ef-a9d6-c518775f0c22
 - ca0efb26-acce-53ce-bf71-ba743dd0e7d2
+- a0f85f5b-29f4-57f8-8465-c48859534fbb
 ---
+
 
 Admiral Frederick Yamamoto, head of The Alliance fleet in Zaonce, has been charged With the assassination of former presidential candidate Fazia Silva. 
 

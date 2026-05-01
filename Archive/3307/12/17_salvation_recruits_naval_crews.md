@@ -37,7 +37,9 @@ related_uuids:
 - 19a5e7dc-fe91-55f1-8994-2b45fde10372
 - 2b4db5ae-e575-5f03-bb79-4a02d667f70a
 - de009a58-09eb-5041-8088-be52372dad17
+- 2c2f5322-8d74-5e77-b181-b9a317e176e5
 ---
+
 
 
 The recent counterstrike against the Thargoids has revealed that Salvation is being unofficially supported by trained military personnel.

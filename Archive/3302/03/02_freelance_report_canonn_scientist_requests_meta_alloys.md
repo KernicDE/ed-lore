@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Professor D Luffy, head of research at Bond Hub in The Varati system, has released a statement about the station's need for meta-alloys: 
 
 "My researchers are ready to receive as Many meta-alloys As the community can deliver. We're certain we can repeat the success of the Obsidian Orbital Engineers and reverse the malfunctions plaguing so many stations in the bubble." 

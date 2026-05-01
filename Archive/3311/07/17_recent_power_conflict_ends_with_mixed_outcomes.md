@@ -4,8 +4,12 @@ title: Recent Power Conflict Ends with Mixed Outcomes
 slug: recent_power_conflict_ends_with_mixed_outcomes
 date: '3311-07-17'
 source: API
-summary: The three-way conflict between Aisling Duval, Jerome Archer, and Li Yong-Rui concluded with mixed results. Aisling retained Daikulcandi but lost Gondul and Santy. Senator Zemina Torval declared 'the outcome speaks for itself.'
-player_impact: Independent pilots supported all three sides in the conflict. Aisling's forces retained Daikulcandi but conceded Gondul and Santy to Archer and Sirius Corporation respectively.
+summary: The three-way conflict between Aisling Duval, Jerome Archer, and Li Yong-Rui
+  concluded with mixed results. Aisling retained Daikulcandi but lost Gondul and Santy.
+  Senator Zemina Torval declared 'the outcome speaks for itself.'
+player_impact: Independent pilots supported all three sides in the conflict. Aisling's
+  forces retained Daikulcandi but conceded Gondul and Santy to Archer and Sirius Corporation
+  respectively.
 persons:
 - Aisling Duval
 - Jerome Archer
@@ -21,12 +25,17 @@ locations:
 topics:
 - corporate expansion
 - war
-modern_impact: Aisling's loss of Gondul and Santy to Federal and Sirius forces demonstrates the vulnerability of her territory during her Aegis involvement. The muted celebrations at Maughmer Ring compared to previous victories signal her supporters recognise the setback. This conflict directly precedes her 275-system surge in August, suggesting her base mobilised aggressively to prevent further territorial erosion.
+modern_impact: Aisling's loss of Gondul and Santy to Federal and Sirius forces demonstrates
+  the vulnerability of her territory during her Aegis involvement. The muted celebrations
+  at Maughmer Ring compared to previous victories signal her supporters recognise
+  the setback. This conflict directly precedes her 275-system surge in August, suggesting
+  her base mobilised aggressively to prevent further territorial erosion.
 legacy_weight: 1
 significance: low
 related_uuids:
 - 88f95af9-6adc-5aef-861a-27559303d6fe
 ---
+
 
 The recent three-way conflict between Princess Aisling Duval, Jerome Archer, and Li Yong-Rui has drawn to a close, with all parties claiming success.
 The campaign began with Federal and Sirius-aligned forces launching operations into Princess Aisling's territory around the Daikulcandi system, citing concerns over instability following her prolonged absence from domestic affairs. Imperial loyalists responded in high numbers, rallying behind Princess Aisling's call to arms and defending her influence over several key systems.

@@ -33,7 +33,12 @@ significance: medium
 related_uuids:
 - 9a4d1cb9-01d4-53f0-8c4a-07638499a300
 - ddd18d21-0b9c-53db-a8e0-d3969750145c
+- bffd6b70-d840-5656-9def-91b57b3705ce
+- 1d19b7f6-b71a-5dca-b67e-8a6c4cd41f70
+- c17aa257-71db-5394-9b74-d3c11775b315
+- 01ba0e4a-721d-5556-a7c4-445b0742f470
 ---
+
 
 
 Last week saw reports that Professor Ishmael Palin has been forced to cease his research into The so-called anomalous extraterrestrial objects, also known as 'unknown artefacts'. The Voice of Varati has since received a statement from the Canonn Interstellar Research Group, an Independent scientific body: 

@@ -4,8 +4,10 @@ title: Additional Services Planned for Colonia Bridge
 slug: additional_services_planned_for_colonia_bridge
 date: '3308-02-17'
 source: API
-summary: Brewer Corporation requests further deliveries to add services to Colonia Bridge starports.
-player_impact: Pilots were asked to deliver additional commodities to expand Colonia Bridge starport facilities.
+summary: Brewer Corporation requests further deliveries to add services to Colonia
+  Bridge starports.
+player_impact: Pilots were asked to deliver additional commodities to expand Colonia
+  Bridge starport facilities.
 groups:
 - Brewer Corporation
 - Universal Cartographics
@@ -18,10 +20,19 @@ topics:
 - humanitarian
 - war
 arc_id: null
-modern_impact: '"Brewer Corporation has requested a new batch of deliveries to the Alcor and Colonia systems." The phased expansion of Colonia Bridge services illustrates the iterative nature of deep-space infrastructure development.'
+modern_impact: '"Brewer Corporation has requested a new batch of deliveries to the
+  Alcor and Colonia systems." The phased expansion of Colonia Bridge services illustrates
+  the iterative nature of deep-space infrastructure development.'
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0377cb77-df5d-5d2f-9e79-121abe877a31
+- e2b736bf-f679-55f3-8824-96bde18804e0
+- c51dda76-58cf-516a-98a9-51c91b991b75
+- b1468c62-8abd-578a-be2b-1bd2f4f4a6d5
+- 8389259d-a648-5484-9e90-f4b45ab488d5
 ---
+
 
 **Pilots’ Federation ALERT**
 Brewer Corporation has requested a new batch of deliveries to The Alcor and Colonia systems.

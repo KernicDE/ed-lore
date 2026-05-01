@@ -4,8 +4,12 @@ title: Initiative to Eradicate Rockforth Fertiliser
 slug: initiative_to_eradicate_rockforth_fertiliser
 date: '3305-10-16'
 source: GitHub
-summary: The IAA confirms Rockforth's EX7 fertiliser is linked to the blight. An initiative launches to collect and safely dispose of the contaminated fertiliser from markets across multiple systems.
-player_impact: Pilots collect free fertiliser from various markets and deliver it to Wiley Port in Teveri for safe disposal. Lakon reduces Type-6/7/9 transporter prices.
+summary: The IAA confirms Rockforth's EX7 fertiliser is linked to the blight. An initiative
+  launches to collect and safely dispose of the contaminated fertiliser from markets
+  across multiple systems.
+player_impact: Pilots collect free fertiliser from various markets and deliver it
+  to Wiley Port in Teveri for safe disposal. Lakon reduces Type-6/7/9 transporter
+  prices.
 persons:
 - Genevieve Kane
 groups:
@@ -25,14 +29,18 @@ locations:
 topics:
 - investigation
 - trade
-modern_impact: The fertiliser recall marks the first concrete action against the blight's spread, though the pathogen has already mutated beyond its original delivery mechanism.
+modern_impact: The fertiliser recall marks the first concrete action against the blight's
+  spread, though the pathogen has already mutated beyond its original delivery mechanism.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 3f952e6a-cef9-5427-8630-5198f66f6906
 - 773cec69-3b2a-5dce-abb5-315b8195a303
 - 0be157b9-6a3b-51ba-96df-79add197e050
+- 42c8c8e5-17ba-51ac-ab9d-8271796d025d
+- 14b0684a-7610-509b-93da-bc380c0cacd4
 ---
+
 
 The Rockforth Corporation’s EX7 fertiliser has been linked to the blight affecting crops In a number of systems, prompting an initiative to remove the product from the market.  
 

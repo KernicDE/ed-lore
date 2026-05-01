@@ -33,7 +33,11 @@ related_uuids:
 - 18391d47-7d7f-5403-92e1-d6f8153a3112
 - 380023e7-03d4-5f9b-957c-e3ce92642a28
 - d76e02f3-5b13-56fb-a3c5-6b2fa74ee284
+- 0c05e71b-e415-5dc1-a738-497a08873330
+- 709cb1ad-841a-5f21-b39e-4bbe644d7655
+- bed394ac-3331-5d0f-94b4-06038a6cf607
 ---
+
 
 
 Preparations are underway for The second Distant Worlds expedition, Which will see a community of explorers cross the galaxy. 

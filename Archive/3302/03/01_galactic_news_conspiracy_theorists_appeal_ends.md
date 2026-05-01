@@ -4,7 +4,10 @@ title: Galactic News  Conspiracy Theorist's Appeal Ends
 slug: galactic_news_conspiracy_theorists_appeal_ends
 date: '3302-03-01'
 source: GitHub
-summary: Kruger 60 Free announces that hundreds of pilots supported conspiracy theorist Ricardo Bentonio's appeal for cartographic data to prove the 29th of February 3302 was an 'aberrant day' heralding universal collapse. Despite no signs of catastrophe, Bentonio maintains his beliefs.
+summary: Kruger 60 Free announces that hundreds of pilots supported conspiracy theorist
+  Ricardo Bentonio's appeal for cartographic data to prove the 29th of February 3302
+  was an 'aberrant day' heralding universal collapse. Despite no signs of catastrophe,
+  Bentonio maintains his beliefs.
 player_impact: Pilots delivered cartographic data to support Bentonio's campaign.
 persons:
 - Ricardo Bentonio
@@ -17,7 +20,14 @@ topics:
 modern_impact: Anti-piracy operation protecting trade routes.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 0642021a-d959-5326-abea-d4b49f2e7cba
+- 870e8b78-13aa-5a17-8359-cd60e28d6c4b
+- bc02fa94-b3e8-58dd-b735-d4261fbd0e1b
+- 017b4b13-508b-5372-be29-f4c3521d0d30
+- 2b3db649-be10-5536-9c0f-cf9eaf68262d
 ---
+
 
 Kruger 60 Free has announced that The galactic community has responded With surprising enthusiasm to the recent appeal from conspiracy theorist Ricardo Bentonio. Hundreds of pilots chose to support Bentonio's campaign, bringing him cartographic data so he could prove that the 29th of February 3302 was an 'aberrant day' heralding the imminent collapse of the universe. 
 

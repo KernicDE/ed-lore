@@ -28,7 +28,9 @@ significance: low
 related_uuids:
 - dca7a940-0f1e-5862-afac-1f5348587041
 - e232208b-2bea-54f8-be4c-9acae4b9b761
+- 89cbcdc5-269a-5056-ac44-2a87f5a8db44
 ---
+
 
 
 A spokesperson for The Hallowed Chapter of LHS 2094 has announced that Its appeal for commodities has been enthusiastically received by the galactic community. Hundreds of pilots took to their ships to deliver goods to the LHS 2094 system for an opulent Halloween party, and to protect those ferrying commodities to Patterson Vision. 

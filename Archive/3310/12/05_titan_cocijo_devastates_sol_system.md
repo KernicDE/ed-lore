@@ -4,8 +4,12 @@ title: Titan Cocijo Devastates Sol System
 slug: titan_cocijo_devastates_sol_system
 date: '3310-12-05'
 source: API
-summary: Titan Cocijo arrives in Sol orbit around Earth, unleashing a devastating assault that knocks out most ports, destroys two Farragut battlecruisers, and triggers a massive refugee crisis across 16 systems.
-player_impact: Pilots fought Thargoid forces in Sol and 16 other assaulted systems alongside Federal AX forces. Thousands of AX fleet vessels were lost in the initial conflict.
+summary: Titan Cocijo arrives in Sol orbit around Earth, unleashing a devastating
+  assault that knocks out most ports, destroys two Farragut battlecruisers, and triggers
+  a massive refugee crisis across 16 systems.
+player_impact: Pilots fought Thargoid forces in Sol and 16 other assaulted systems
+  alongside Federal AX forces. Thousands of AX fleet vessels were lost in the initial
+  conflict.
 persons:
 - Aden Tanner
 - Felicia Winters
@@ -24,7 +28,11 @@ technologies:
 - Titan Cocijo
 - Farragut battlecruiser
 arc_id: thargoid-titan-war
-modern_impact: Tanner's framing — 'The Thargoids have made their final attempt at checkmate' — positions the Battle for Sol as the decisive endgame of the Second Thargoid War. The destruction of FNS Nero and FNS Erebus demonstrates that even the Federation's most powerful warships are vulnerable to Titan-led assaults, a lesson that drives post-war military reform.
+modern_impact: Tanner's framing — 'The Thargoids have made their final attempt at
+  checkmate' — positions the Battle for Sol as the decisive endgame of the Second
+  Thargoid War. The destruction of FNS Nero and FNS Erebus demonstrates that even
+  the Federation's most powerful warships are vulnerable to Titan-led assaults, a
+  lesson that drives post-war military reform.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,7 +40,9 @@ related_uuids:
 - 02f63f57-22ea-5202-8702-a2677db262a6
 - bff0e4eb-7d2c-56aa-a3ea-7d523a3b5820
 - a66c3fce-c78d-5a54-a796-7fb6954d55f1
+- 98c71f5f-b348-5f4b-ac65-187ffbbb1f4b
 ---
+
 
 The Thargoid Titan Cocijo has arrived in the Sol system, positioning itself in orbit around Earth.
 Cocijo’s arrival unleashed a devastating regional assault by the remaining Thargoid invasion fleet. In Sol, only Mars High, Galileo and Haberlandt Survey remain functional, albeit damaged, with all other ports knocked offline by Thargoid attack. Farragut battlecruisers FNS Nero and FNS Erebus have been destroyed, while FNS Victory and FNS Trander are marshaling system defence efforts. Thousands of AX fleet vessels have been lost to the initial conflict.

@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 The fourth phase of Aegis’ campaign to counter the Thargoid threat has come to an end. Hundreds of Independent pilots supported the initiative by taking to their ships to deliver commodities to Cremona Prospect. The materials will be used to test and mass-produce a shutdown-field neutraliser, developed by engineer Elvira Martuuk, Which will counter the Thargoids’ ability to disable human spacecraft. 
 
 Martuuk released a brief statement to the media: 

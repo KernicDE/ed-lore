@@ -39,7 +39,9 @@ significance: high
 related_uuids:
 - 6991cc13-867b-543d-8796-2e51d900ccfa
 - dd579967-4189-57e9-853a-f493b043d5a5
+- 0f930bc1-8f0a-5a9d-8c3d-f4b39f8c495f
 ---
+
 
 
 A pair of Independent pilots by The names of Noctrach and Ihazevich has discovered the remains of what appears to be a starship on planet 9a of the Pleiades Sector AB-W B2-4 system. The discovery represents the culmination of a galaxy-wide hunt coordinated by the 'Granger Gang' – a band of miscreants led by the smuggler and bounty hunter Otto Granger. 

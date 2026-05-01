@@ -4,7 +4,13 @@ title: A Profile of Jordan Rochester
 slug: a_profile_of_jordan_rochester
 date: '3304-07-07'
 source: GitHub
-summary: Political journalist Cassia Carvalho compiles a profile of Federal Ambassador Jordan Rochester for the Imperial Herald. The Rochester family traces back to Apollo Rochester, the biggest landowner on Biggs Colony in Altair. Family matriarch Isolde Rochester is a Congress member and Liberal Party supporter of Shadow President Felicia Winters. Jordan's siblings include Jupiter Rochester (Core Dynamics executive), Juno (Vice Admiral), Jocasta (Post Captain), and Jonah (the black sheep). At 34, Jordan has overseen several high-level Federal diplomatic negotiations.
+summary: Political journalist Cassia Carvalho compiles a profile of Federal Ambassador
+  Jordan Rochester for the Imperial Herald. The Rochester family traces back to Apollo
+  Rochester, the biggest landowner on Biggs Colony in Altair. Family matriarch Isolde
+  Rochester is a Congress member and Liberal Party supporter of Shadow President Felicia
+  Winters. Jordan's siblings include Jupiter Rochester (Core Dynamics executive),
+  Juno (Vice Admiral), Jocasta (Post Captain), and Jonah (the black sheep). At 34,
+  Jordan has overseen several high-level Federal diplomatic negotiations.
 player_impact: None
 persons:
 - Jordan Rochester
@@ -28,13 +34,21 @@ locations:
 topics:
 - diplomacy
 - politics
-modern_impact: The profile establishes the Rochester family's deep political and corporate roots in the Federation, contextualising the significance of Jordan's engagement to an Imperial princess.
+modern_impact: The profile establishes the Rochester family's deep political and corporate
+  roots in the Federation, contextualising the significance of Jordan's engagement
+  to an Imperial princess.
 legacy_weight: 1
 significance: low
 related_uuids:
 - 54d3fd1f-f0e9-545c-99f4-94612ad989e6
 - e66042d5-f19b-5b3d-8113-f2c32d2e4c51
+- 059ac3ef-4c66-5813-8756-62b94bd645e8
+- 88f4f5d3-7c7b-53ab-8792-11ba72313c82
+- d5e38d22-4fdf-50d4-9487-5f7c5162d42a
+- bf7e0803-3232-5106-beda-5e9cbfd0234e
+- 71380724-9d28-5323-b4f9-da0fd87a0f93
 ---
+
 
 Responding to public interest in Princess Aisling Duval’s fiancé, Federal Ambassador Jordan Rochester, political journalist Cassia Carvalho has compiled a profile for The Imperial Herald: 
 

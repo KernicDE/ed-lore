@@ -4,8 +4,15 @@ title: Zemina Torval and Florence Lavigny Join Patreus Campaign
 slug: zemina_torval_and_florence_lavigny_join_patreus_campaign
 date: '3301-08-27'
 source: GitHub
-summary: Senator Patreus has gained renewed support since declaring war against Emperor's Dawn, the group claiming responsibility for Emperor Hengist Duval's assassination. Senator Zemina Torval declared her support and instructed her followers to join the campaign. Florence Lavigny also spoke out for unity, defending Patreus's honour and stating he was not involved in the murder. Patreus's influence had waned after his association with assassin Brendan Paul Darius, but his decisive action against Emperor's Dawn has raised his political profile and gained support from Senate heavyweights.
-player_impact: Pilots aligned with Patreus, Torval, or Lavigny can participate in the campaign against Emperor's Dawn.
+summary: Senator Patreus has gained renewed support since declaring war against Emperor's
+  Dawn, the group claiming responsibility for Emperor Hengist Duval's assassination.
+  Senator Zemina Torval declared her support and instructed her followers to join
+  the campaign. Florence Lavigny also spoke out for unity, defending Patreus's honour
+  and stating he was not involved in the murder. Patreus's influence had waned after
+  his association with assassin Brendan Paul Darius, but his decisive action against
+  Emperor's Dawn has raised his political profile and gained support from Senate heavyweights.
+player_impact: Pilots aligned with Patreus, Torval, or Lavigny can participate in
+  the campaign against Emperor's Dawn.
 persons:
 - Denton Patreus
 - Zemina Torval
@@ -22,10 +29,21 @@ topics:
 - succession
 - war
 - politics
-modern_impact: Patreus's anti-Emperor's Dawn campaign rehabilitates his political standing and consolidates Senate support behind his military action.
+modern_impact: Patreus's anti-Emperor's Dawn campaign rehabilitates his political
+  standing and consolidates Senate support behind his military action.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 4aa8f9d6-81d7-5197-b8b4-7a3127e607b6
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- e6d03504-c5f6-5e23-be1b-a1a309af0a58
+- b8bb8126-dc7a-5d04-8acd-153c5c83d1de
+- 9d0148b2-d0ec-597d-a16f-c88c72bf49ff
+- aee6dedc-728c-5094-b072-e619c36322e4
+- 21f00823-6b7b-5a13-a90a-8b2d02c766fb
+- c29c0055-acb8-5a02-bef8-e8af2b2653c6
 ---
+
 
 Senator Patreus has seen a resurgence of support since his declaration of war against The group responsible for Emperor Hengist Duval’s murder. Reports from The campaign have indicated that Emperor’s Dawn is now claiming responsibility for the regicide, although This hasn’t been independently confirmed as yet. 
 

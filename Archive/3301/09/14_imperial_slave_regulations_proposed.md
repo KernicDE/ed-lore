@@ -4,8 +4,15 @@ title: Imperial Slave Regulations Proposed
 slug: imperial_slave_regulations_proposed
 date: '3301-09-14'
 source: GitHub
-summary: Following a recent audit of the Imperial Slave Association, the Imperial Senate Audit Committee proposed new regulations for transporting Imperial slaves. The proposals include requiring pilots to hold Master rank in the Imperial Navy and setting aside resources to recover slaves transported outside the Empire. ISA chairwoman Svetlana Zhukov voiced support, though political commentators doubted the regulations would be approved.
-player_impact: Pilots transporting Imperial slaves may soon need Master rank in the Imperial Navy. Be aware of proposed regulations that could affect slave trading operations and recovery requirements.
+summary: Following a recent audit of the Imperial Slave Association, the Imperial
+  Senate Audit Committee proposed new regulations for transporting Imperial slaves.
+  The proposals include requiring pilots to hold Master rank in the Imperial Navy
+  and setting aside resources to recover slaves transported outside the Empire. ISA
+  chairwoman Svetlana Zhukov voiced support, though political commentators doubted
+  the regulations would be approved.
+player_impact: Pilots transporting Imperial slaves may soon need Master rank in the
+  Imperial Navy. Be aware of proposed regulations that could affect slave trading
+  operations and recovery requirements.
 persons:
 - Svetlana Zhukov
 groups:
@@ -18,10 +25,18 @@ topics:
 - ship
 - slavery
 technologies: []
-modern_impact: Proposed regulations on Imperial slave transportation with implications for pilot requirements and border security.
+modern_impact: Proposed regulations on Imperial slave transportation with implications
+  for pilot requirements and border security.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 9c49827f-2623-5877-b5c6-d93509d0a595
+- 230cca16-adca-54bd-a315-51840ba15154
+- fac79d14-4378-58ac-ac60-24bfc401a487
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- d1003dbd-1405-582f-be67-0195758e8558
 ---
+
 
 Following The recent audit of The Imperial Slave Association, the Imperial Senate Audit Committee has recommended the introduction of Further regulations governing the treatment and transportation of Imperial slaves. 
 

@@ -50,6 +50,7 @@ related_uuids:
 ---
 
 
+
 The anti-xeno agency Aegis has been officially reformed by the Alliance, Empire and Federation.
 Aegis was initially founded in 3303 to centralise research into the Thargoids, as well as coordinate defence and rescue operations. It was disbanded in 3308 following accusations of incompetence in the wake of the Alexandria disaster and the subsequent findings of the Baumann Report. The recent escalation of the Thargoid War and calls for renewed collaboration between the superpowers have led to a reversal of that decision.
 Professor Alba Tesreau will serve as the head of the revived organisation. She provided details at a press conference:

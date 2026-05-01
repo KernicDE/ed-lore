@@ -4,8 +4,10 @@ title: Taranis Unleashes Thargoid Invasion Fleets
 slug: taranis_unleashes_thargoid_invasion_fleets
 date: '3308-11-29'
 source: API
-summary: The Taranis anomaly has arrived in Hyades Sector FB-N b7-6, triggering a ferocious wave of Thargoid attacks in the region.
-player_impact: Independent pilots were encouraged to participate in the unfolding events.
+summary: The Taranis anomaly has arrived in Hyades Sector FB-N b7-6, triggering a
+  ferocious wave of Thargoid attacks in the region.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
 persons:
 - Ishmael Palin
 - Rachel Ziegler
@@ -21,7 +23,8 @@ topics:
 - alien contact
 - war
 arc_id: null
-modern_impact: '"not a single object but a colossal swirling maelstrom of some kind" Taranis heralded a new phase of total war that humanity was ill-prepared to resist.'
+modern_impact: '"not a single object but a colossal swirling maelstrom of some kind"
+  Taranis heralded a new phase of total war that humanity was ill-prepared to resist.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,6 +34,7 @@ related_uuids:
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 ---
+
 
 **Pilots’ Federation ALERT**
 The Taranis anomaly has arrived in Hyades Sector FB-N b7-6, triggering a ferocious wave of Thargoid attacks in the region.

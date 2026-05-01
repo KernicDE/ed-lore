@@ -24,7 +24,13 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - 0d15375c-b54f-50e7-ad2d-a88de1da76b9
+- 8946e587-7a71-5444-990c-8aa579316e32
+- bc02fa94-b3e8-58dd-b735-d4261fbd0e1b
+- 7999f4d6-46e6-5745-8282-155fa49b2ae4
+- 8c3b3ebb-a297-5113-82a1-7bbf47cc653b
+- e9e91d22-2b03-5a0c-868a-6552121530ea
 ---
+
 
 
 One year ago today, Federal President Jasmina Halsey and Vice-President Ethan Naylor embarked on a tour of Federation frontier systems. Two weeks later, Starship One was declared Missing With all hands. Despite initial assessments that The ship would never be Found, the remains of the Vessel were Located and a handful of survivors recovered, including former president Halsey. 

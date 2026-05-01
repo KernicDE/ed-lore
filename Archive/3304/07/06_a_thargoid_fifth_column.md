@@ -4,7 +4,12 @@ title: A Thargoid Fifth Column
 slug: a_thargoid_fifth_column
 date: '3304-07-06'
 source: GitHub
-summary: Independent journalist Flint 'Firemaker' Lafosse publishes a theory suggesting Far God cult members may be undercover Thargoid agents, arguing that captured escape pods could have been brainwashed and sent back as spies. Dr Alfred Ulyanov, a leading exotheologian, categorically dismisses the claim, explaining the cult's silence stems from their belief that humanity will soon be dead, and stating nothing in his studies suggests the group is a threat.
+summary: Independent journalist Flint 'Firemaker' Lafosse publishes a theory suggesting
+  Far God cult members may be undercover Thargoid agents, arguing that captured escape
+  pods could have been brainwashed and sent back as spies. Dr Alfred Ulyanov, a leading
+  exotheologian, categorically dismisses the claim, explaining the cult's silence
+  stems from their belief that humanity will soon be dead, and stating nothing in
+  his studies suggests the group is a threat.
 player_impact: None
 persons:
 - Flint Lafosse
@@ -15,14 +20,18 @@ locations: []
 topics:
 - alien contact
 - religion
-modern_impact: Lafosse's conspiracy theory fuels growing public paranoia about the Far God cult, contributing to the hostile climate that leads to later violence against the sect.
+modern_impact: Lafosse's conspiracy theory fuels growing public paranoia about the
+  Far God cult, contributing to the hostile climate that leads to later violence against
+  the sect.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 166e5c41-db27-50de-a201-b4ba6503642b
 - 5b63a140-f545-5aa1-a7db-556be53ae92b
 - 84b929de-3fba-59cb-853f-7b88bf76a586
+- 371d6aa9-c585-5cde-b8b1-08e37a3e3e26
 ---
+
 
 Amid growing public mistrust of a fringe sect that worships The Thargoids, a report suggests that the group’s members may be undercover Thargoid agents. 
 

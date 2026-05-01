@@ -4,8 +4,10 @@ title: Community Goal  Restoring Order in Cartoq
 slug: community_goal_restoring_order_in_cartoq
 date: '3303-04-28'
 source: GitHub
-summary: The Cartoq Purple Major Organisation has placed a kill order on wanted ships in the Cartoq system to counter a sharp increase in criminal activity.
-player_impact: Pilots can hunt wanted ships in Cartoq and deliver bounty vouchers to Avdeyev Settlement for rewards.
+summary: The Cartoq Purple Major Organisation has placed a kill order on wanted ships
+  in the Cartoq system to counter a sharp increase in criminal activity.
+player_impact: Pilots can hunt wanted ships in Cartoq and deliver bounty vouchers
+  to Avdeyev Settlement for rewards.
 persons: []
 groups:
 - Cartoq Purple Major Organisation
@@ -18,10 +20,14 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: Bounty hunting campaign in Cartoq targets criminal agitators disrupting trade and pilot safety.
+modern_impact: Bounty hunting campaign in Cartoq targets criminal agitators disrupting
+  trade and pilot safety.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 3c4a6df4-5232-5a60-8ded-a589c6f6ef60
 ---
+
 
 Authorities in The Cartoq system have reported a sharp increase in The number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 

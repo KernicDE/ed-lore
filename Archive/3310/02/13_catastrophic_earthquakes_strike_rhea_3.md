@@ -4,7 +4,9 @@ title: Catastrophic Earthquakes Strike Rhea 3
 slug: catastrophic_earthquakes_strike_rhea_3
 date: '3310-02-13'
 source: API
-summary: Catastrophic earthquakes strike Rhea 3, devastating the capital New Greenacre and causing millions of casualties. President-elect Felicia Winters cancels her schedule to aid her homeworld.
+summary: Catastrophic earthquakes strike Rhea 3, devastating the capital New Greenacre
+  and causing millions of casualties. President-elect Felicia Winters cancels her
+  schedule to aid her homeworld.
 player_impact: Not specifically mentioned — this is a disaster report.
 persons:
 - Len Kennelly
@@ -20,13 +22,20 @@ topics:
 - politics
 - terrorism
 arc_id: null
-modern_impact: Kennelly's comparison — 'The only disaster on this scale that we've seen in Rhea was when NMLA terrorists bombed Ito Orbital' — contextualises the devastation. The unverified reports that 'contact has been lost with members of her family' adds personal stakes to Winters' response. Rochester's statement — 'Our focus right now should be on aiding those affected by this tragedy' — shows political restraint. The Empirical journal's observation about terraformed planets underscores the unpredictability of planetary engineering.
+modern_impact: Kennelly's comparison — 'The only disaster on this scale that we've
+  seen in Rhea was when NMLA terrorists bombed Ito Orbital' — contextualises the devastation.
+  The unverified reports that 'contact has been lost with members of her family' adds
+  personal stakes to Winters' response. Rochester's statement — 'Our focus right now
+  should be on aiding those affected by this tragedy' — shows political restraint.
+  The Empirical journal's observation about terraformed planets underscores the unpredictability
+  of planetary engineering.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 744df92b-039d-5070-b188-50ba993da16b
 - 11f0360c-ab72-5b7e-a309-5d972307d305
 ---
+
 
 A series of high-magnitude earthquakes on the planet Rhea 3 have caused widespread devastation and millions of casualties.
 Massive seismic activity across the northern continent has effectively shattered dozens of towns and cities, including the capital New Greenacre. The intense tremors also triggered tsunamis in the surrounding oceans, which have wrecked coastal regions on other land masses.

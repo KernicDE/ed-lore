@@ -32,7 +32,10 @@ significance: low
 related_uuids:
 - e7715ff1-a774-5984-b90e-e75aa8421580
 - f4020671-2347-5640-b71c-cf292f863431
+- 9a67ca54-3a34-5ba0-b9f3-e8620c464b6a
+- b22bb690-c244-57c4-83a9-7df2aed19a60
 ---
+
 
 
 Lady Kahina Tijani Loren's unofficial entourage has begun a tour of The outer gas giants in The Sol system. Hundreds of privately owned Federation-registered vessels have turned out to greet the Senator, in lieu of an official welcome, as she Continues her passage through the Sol system despite continued apathy from officials. 

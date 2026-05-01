@@ -4,8 +4,14 @@ title: Anti Slavery Support Grows in Synteini System
 slug: anti_slavery_support_grows_in_synteini_system
 date: '3301-03-08'
 source: GitHub
-summary: The Future of Synteini party called on commanders to protest the Imperial Slavers Association's new facility in Synteini, citing the anniversary of the Act Prohibiting Importation of Slaves. They urged pilots to do business at William Sargent Vision instead of Lagerkvist Gateway to starve the ISA and push Senator Torval out of Synteini. Lagerkvist Gateway orbits the second planet; William Sargent Vision orbits the fourth.
-player_impact: Pilots can support anti-slavery efforts by trading at William Sargent Vision in Synteini instead of Lagerkvist Gateway.
+summary: The Future of Synteini party called on commanders to protest the Imperial
+  Slavers Association's new facility in Synteini, citing the anniversary of the Act
+  Prohibiting Importation of Slaves. They urged pilots to do business at William Sargent
+  Vision instead of Lagerkvist Gateway to starve the ISA and push Senator Torval out
+  of Synteini. Lagerkvist Gateway orbits the second planet; William Sargent Vision
+  orbits the fourth.
+player_impact: Pilots can support anti-slavery efforts by trading at William Sargent
+  Vision in Synteini instead of Lagerkvist Gateway.
 persons:
 - CMDR Boter
 - Zemina Torval
@@ -18,10 +24,18 @@ locations:
 - William Sargent Vision
 topics:
 - slavery
-modern_impact: Grassroots opposition to Torval's slave operations in Synteini demonstrated that Imperial slavery faced resistance even within traditionally loyal systems.
+modern_impact: Grassroots opposition to Torval's slave operations in Synteini demonstrated
+  that Imperial slavery faced resistance even within traditionally loyal systems.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- afa2946a-2753-52cb-82a8-fe9a11cda814
+- d018f06c-8530-5278-a4bd-b06531b43193
+- df449fea-8af0-5c7f-9488-2e3f54bfd6dc
+- 20fda772-a186-5384-92b6-2e4f186d1b2b
+- 6b50cfc8-14c1-52a0-9756-c30e81248c84
 ---
+
 
 The Future of Synteini party is calling on all Commanders to protest The actions of the Imperial Slavers Association in the Synteini system. 
 

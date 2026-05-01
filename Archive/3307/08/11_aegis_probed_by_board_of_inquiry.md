@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 An investigation into The tri-superpower organisation Aegis is seeking to establish the reasons for Its failures.
 Dr Paul Baumann, chair of the Independent board of inquiry, outlined its scope:
 “The initial phase is to fully understand the work of Aegis, before examining strategic and operational decisions. Interviews With senior staff have been scheduled, with Admiral Aden Tanner providing details on military activity.”

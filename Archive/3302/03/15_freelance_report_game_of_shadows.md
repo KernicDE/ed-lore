@@ -39,7 +39,10 @@ significance: high
 related_uuids:
 - fc88a585-1994-5ec1-af2f-d1911dadb133
 - fde8e3a1-96f1-57f5-bdaa-3834f8c8ee62
+- 8bfdda30-eb6e-5e5a-88b1-b2ae7afd7a95
+- d27ded8d-1aef-5ab9-a316-27ec6d7bc189
 ---
+
 
 
 Various media outlets throughout inhabited space received an anonymous communiqué This morning. "The galactic community is in peril," the message began. "They just don't know it yet." 

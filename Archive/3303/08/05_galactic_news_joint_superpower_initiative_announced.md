@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 In recent weeks, a number of programmes have been launched to gather Further information about The Thargoids. While the Federation has established an outpost in HIP 17692 to monitor Thargoid activity, Independent organisation Abroin Universal PLC recently completed a campaign to amass material for a research centre in the Pleiades Nebula. 
 
 But not everyone believes such initiatives represent the best way to proceed, With a growing number of voices calling for an inter-superpower initiative that consolidates existing knowledge and resources. 

@@ -4,7 +4,9 @@ title: ‘Ghost Ship’ Arrives in Chukchan System
 slug: ghost_ship_arrives_in_chukchan_system
 date: '3306-10-29'
 source: GitHub
-summary: The abandoned megaship Adamastor returns to the Chukchan system after two centuries of sublight travel. The crew is gone, data erased, and the ship shows signs of clandestine operations. The Alliance Salvage Guild investigates.
+summary: The abandoned megaship Adamastor returns to the Chukchan system after two
+  centuries of sublight travel. The crew is gone, data erased, and the ship shows
+  signs of clandestine operations. The Alliance Salvage Guild investigates.
 player_impact: None
 groups:
 - Alliance
@@ -18,12 +20,14 @@ locations:
 topics:
 - investigation
 - ship
-modern_impact: The Adamastor discovery becomes a key piece of the INRA mystery, revealing historical superpower covert operations.
+modern_impact: The Adamastor discovery becomes a key piece of the INRA mystery, revealing
+  historical superpower covert operations.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 1d006eb4-9159-5609-8a8f-bffcce9793b8
 ---
+
 
 **Pilots Federation ALERT** 
 

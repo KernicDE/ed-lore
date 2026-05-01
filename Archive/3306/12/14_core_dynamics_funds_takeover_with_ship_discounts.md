@@ -4,8 +4,11 @@ title: Core Dynamics Funds Takeover with Ship Discounts
 slug: core_dynamics_funds_takeover_with_ship_discounts
 date: '3306-12-14'
 source: API
-summary: Core Dynamics temporarily discounts several vessel types to raise funds for a more aggressive takeover bid of Lakon Spaceways, following the rejection of its initial purchase proposal.
-player_impact: Pilots could purchase discounted Core Dynamics and Federal vessels until the 30th of December 3306.
+summary: Core Dynamics temporarily discounts several vessel types to raise funds for
+  a more aggressive takeover bid of Lakon Spaceways, following the rejection of its
+  initial purchase proposal.
+player_impact: Pilots could purchase discounted Core Dynamics and Federal vessels
+  until the 30th of December 3306.
 persons:
 - Jupiter Rochester
 - Irfan Karim
@@ -15,10 +18,19 @@ groups:
 - Lakon Spaceways
 topics:
 - corporate expansion
-modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape the galactic aerospace market.
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers
+  shape the galactic aerospace market.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 8d7be9df-71af-5fef-a0df-fd7728c0586d
+- 43d42a62-1967-5dd8-92f0-cf6f23af8ff4
+- 4dd29c47-fd75-5985-ae4b-3c1ccf126f89
+- 7a574f7a-247d-5799-b921-e1521916118d
+- 4e9f076a-e7b5-524e-9d9a-00be35f2c679
+- 2d325580-e17b-53ad-8dab-6bdb3f7dca65
 ---
+
 
 **Pilots Federation ALERT**
 Prices for Several Core Dynamics vessels have been temporarily reduced, as part of an attempt to purchase Lakon Spaceways.

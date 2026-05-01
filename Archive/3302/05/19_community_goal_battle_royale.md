@@ -4,8 +4,11 @@ title: Community Goal  Battle Royale
 slug: community_goal_battle_royale
 date: '3302-05-19'
 source: GitHub
-summary: Pirate leader Don Antonaci of Wolf 359 calls for an 'anything goes' battle royale against the Hutton Orbital Truckers in the Wyrd system. Both sides agree to specific ship classes for the confrontation.
-player_impact: Pilots joined either the pirate faction or the trucker faction for a PvP battle royale in the Wyrd system ice rings.
+summary: Pirate leader Don Antonaci of Wolf 359 calls for an 'anything goes' battle
+  royale against the Hutton Orbital Truckers in the Wyrd system. Both sides agree
+  to specific ship classes for the confrontation.
+player_impact: Pilots joined either the pirate faction or the trucker faction for
+  a PvP battle royale in the Wyrd system ice rings.
 persons:
 - Don Antonaci
 groups:
@@ -22,7 +25,14 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 77562923-cab3-5590-b9fb-dc2bf6f14d72
+- d3ccc135-b29d-5836-bbdf-805f4256b2ef
+- 93d746cf-fc73-5867-a56a-576b7a5a6670
+- 52d49d8c-9199-5a5a-bef8-ff57631c3701
+- 0856035e-4ad7-545b-bb09-9480bea555fb
 ---
+
 
 Don Antonaci, leader of The pirate organisation Wolf 359, has called on the galaxy's pirates to assemble for a faceoff against the Hutton Orbital Truckers and their allies. The pirate has proposed an 'anything goes' battle royale in the Wyrd system. 
 

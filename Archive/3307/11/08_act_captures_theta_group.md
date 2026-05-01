@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 The creators of the NMLA’s caustic enzyme bombs have been arrested, although the terrorist figurehead Theta Seven remains at large.
 Theta Group is directly responsible for 17 starport bombings conducted by the NMLA Across the core systems. These attacks resulted In a combined death toll of almost 800,000 people, With twice as Many suffering serious injury.
 Senior Agent Tanya Ramirez, One of the Affiliated Counter-Terrorism unit’s co-leaders, told the media:

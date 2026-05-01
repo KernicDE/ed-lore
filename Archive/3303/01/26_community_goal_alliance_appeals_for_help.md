@@ -4,8 +4,11 @@ title: Community Goal  Alliance Appeals for Help
 slug: community_goal_alliance_appeals_for_help
 date: '3303-01-26'
 source: GitHub
-summary: An Alliance convoy transporting personnel and military equipment is attacked in the Fedmich system. The Alliance Council of Admirals authorises a rescue operation to recover occupied escape pods and wreckage components.
-player_impact: Deliver occupied escape pods and wreckage components to Roberts Port in the Fedmich system, or neutralise agitators operating there.
+summary: An Alliance convoy transporting personnel and military equipment is attacked
+  in the Fedmich system. The Alliance Council of Admirals authorises a rescue operation
+  to recover occupied escape pods and wreckage components.
+player_impact: Deliver occupied escape pods and wreckage components to Roberts Port
+  in the Fedmich system, or neutralise agitators operating there.
 persons: []
 groups:
 - Alliance
@@ -21,10 +24,18 @@ topics:
 - ship
 - war
 technologies: []
-modern_impact: Rescue and combat community goal following an Alliance convoy attack in Fedmich.
+modern_impact: Rescue and combat community goal following an Alliance convoy attack
+  in Fedmich.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 9171caa2-184b-5db3-afa6-c48602b54e2e
+- 947d74c0-150f-58ac-b83f-e1a3605a546b
+- 92ab3791-b482-5d1a-9df1-31af570bc24b
+- 677d3fc6-788c-559a-90dd-1847201f631f
+- 8fe1df11-bfd3-56bf-94ab-af7e91d7e99d
 ---
+
 
 The Alliance Council of Admirals has announced that an Alliance convoy has been attacked in the Fedmich system. 
 

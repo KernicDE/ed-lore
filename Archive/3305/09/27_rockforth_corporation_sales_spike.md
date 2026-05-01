@@ -4,7 +4,9 @@ title: Rockforth Corporation Sales Spike
 slug: rockforth_corporation_sales_spike
 date: '3305-09-27'
 source: GitHub
-summary: Rockforth Corporation's share prices rise following strong EX7 fertiliser sales across agricultural systems. The IAA repeats calls for distribution restrictions due to missing compliance documentation.
+summary: Rockforth Corporation's share prices rise following strong EX7 fertiliser
+  sales across agricultural systems. The IAA repeats calls for distribution restrictions
+  due to missing compliance documentation.
 player_impact: None
 persons:
 - Genevieve Kane
@@ -15,13 +17,15 @@ groups:
 topics:
 - corporate expansion
 - trade
-modern_impact: The sales spike demonstrates how market pressure and profit motives overrode safety concerns, enabling the blight's rapid spread.
+modern_impact: The sales spike demonstrates how market pressure and profit motives
+  overrode safety concerns, enabling the blight's rapid spread.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 0c7160a3-3572-5dfd-bdb8-6ffc3ad9df4e
 - 4d8fd141-53f1-5011-b749-c18bd1a057ca
 ---
+
 
 Share prices in The Rockforth Corporation have risen following the success of Its latest fertiliser.  
 

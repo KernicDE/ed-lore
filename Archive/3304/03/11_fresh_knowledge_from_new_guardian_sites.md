@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Following The recent discovery of new Guardian sites, the engineer Ram Tah is seeking help from the galactic community to learn more about the long-lost civilisation. 
 
 Further details were outlined in his latest announcement: 

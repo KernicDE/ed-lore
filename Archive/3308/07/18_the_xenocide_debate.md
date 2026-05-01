@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 As construction proceeds on Salvation’s Proteus Wave, there is widespread dispute on the issue of eliminating the Thargoids.
 An article by Heimar Borichev, deputy editor of The Sovereign newsfeed, has divided public opinion:
 “Salvation’s latest superweapon is designed to attract and then destroy members of the species we’ve named ‘Thargoids’. If successful, it would wipe them from the core systems entirely. But there are a number of questions that nobody seems to be asking, including this: do we have the right to take such action?”

@@ -4,7 +4,8 @@ title: Arissa Addresses the Empire
 slug: arissa_addresses_the_empire
 date: '3308-01-26'
 source: API
-summary: Emperor Arissa Lavigny-Duval broadcasts her first message since being secured against NMLA assassination attempts.
+summary: Emperor Arissa Lavigny-Duval broadcasts her first message since being secured
+  against NMLA assassination attempts.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Arissa Lavigny-Duval
@@ -22,7 +23,9 @@ topics:
 - war
 entities: []
 arc_id: nmla-terrorism
-modern_impact: '"I have every confidence that we will soon emerge triumphant, and that the Empire will continue to stand firm against all threats." The Emperor''s brief message fails to quell speculation about her true status and whereabouts.'
+modern_impact: '"I have every confidence that we will soon emerge triumphant, and
+  that the Empire will continue to stand firm against all threats." The Emperor''s
+  brief message fails to quell speculation about her true status and whereabouts.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,7 +39,9 @@ related_uuids:
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
+- 4351d476-bc65-5dc9-be81-08179f479f48
 ---
+
 
 The Imperial Senate has shared a personal message from Emperor Arissa Lavigny-Duval, who has been In a secure location for nearly a year.
 The brief statement was broadcast on all public channels:

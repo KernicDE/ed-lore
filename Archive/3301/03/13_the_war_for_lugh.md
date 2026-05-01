@@ -36,7 +36,13 @@ significance: high
 related_uuids:
 - 9f89d17d-16f2-5dc1-a8dd-47a4dbc2f708
 - f6c12601-b292-5356-9311-0ee90c473048
+- f7abc945-cb7d-5d7e-8c05-d6ed0f513333
+- 4c97bd81-a4e4-5a5b-89bf-7dc824c2ce92
+- 0991dc0b-24c4-5798-809c-e8f236e034b3
+- 5ff99938-fb18-5efd-bbf5-60725235e72e
+- 87f07cae-db7b-524b-97d1-722b513e627e
 ---
+
 
 
 President Halsey has today officially declared war on The Crimson State Group. 

@@ -4,7 +4,14 @@ title: A Clash of Titans
 slug: a_clash_of_titans
 date: '3301-07-19'
 source: GitHub
-summary: Historian Sima Kalhana covers the first Federation-Achenar war (2323-2325). Admiral Richard Morgan assembled a fleet at Beta Hydri to invade Achenar after it refused to join the Federation. The Achenar defenders ambushed the Federal fleet using pack-hunting formations against both the fleet and its fragile supply lines. In 2325, the 'Great Battle of Liberation' saw every local ship pressed into service, pushing the invaders back. Skirmishing continued for fifty years, during which Henson Duval expanded into nearby systems, transforming Achenar from a single colony into a pan-system empire.
+summary: Historian Sima Kalhana covers the first Federation-Achenar war (2323-2325).
+  Admiral Richard Morgan assembled a fleet at Beta Hydri to invade Achenar after it
+  refused to join the Federation. The Achenar defenders ambushed the Federal fleet
+  using pack-hunting formations against both the fleet and its fragile supply lines.
+  In 2325, the 'Great Battle of Liberation' saw every local ship pressed into service,
+  pushing the invaders back. Skirmishing continued for fifty years, during which Henson
+  Duval expanded into nearby systems, transforming Achenar from a single colony into
+  a pan-system empire.
 player_impact: None
 persons:
 - Sima Kalhana
@@ -21,10 +28,20 @@ locations:
 topics:
 - history
 - war
-modern_impact: The first Federation-Imperial war established the Empire as a permanent galactic power and set the stage for centuries of superpower rivalry.
+modern_impact: The first Federation-Imperial war established the Empire as a permanent
+  galactic power and set the stage for centuries of superpower rivalry.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 3a16fb01-6bfc-56cd-ac6d-f8d6aca44977
+- 0044ac89-dd97-5198-9eeb-55ddd5202574
+- 4f1d453c-2e49-510a-aaaa-32ef3a72c321
+- 4e62012c-875d-547f-a342-9e770cc04ce5
+- e8386b9b-6418-583a-ac32-ea816fd08e8a
+- 8b3c0703-6e02-54c2-bece-95d8dbcb8c84
+- b1d1a750-565c-5b78-b645-eaa9906728f6
 ---
+
 
 In This third article in GalNet’s series about The defining moments in human history, famed historian Sima Kalhana discusses The first war between the Federation and what would become the Empire. 
 

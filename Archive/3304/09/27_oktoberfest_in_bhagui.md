@@ -4,8 +4,13 @@ title: Oktoberfest in Bhagui
 slug: oktoberfest_in_bhagui
 date: '3304-09-27'
 source: GitHub
-summary: Citizens of the Bhagui system attempt to resurrect the ancient Oktoberfest celebration, an annual Earth tradition. Local suppliers cannot meet demand, so Mould Federal Mining Incorporated finances an emergency initiative. The company places an open order for animal meat, fish, and beer, promising rewards for deliveries to Leavitt Port in the Bhagui system. A kill order protects traders.
-player_impact: Independent pilots can deliver commodities to Leavitt Port in the Bhagui system and earn rewards. The campaign runs for one week.
+summary: Citizens of the Bhagui system attempt to resurrect the ancient Oktoberfest
+  celebration, an annual Earth tradition. Local suppliers cannot meet demand, so Mould
+  Federal Mining Incorporated finances an emergency initiative. The company places
+  an open order for animal meat, fish, and beer, promising rewards for deliveries
+  to Leavitt Port in the Bhagui system. A kill order protects traders.
+player_impact: Independent pilots can deliver commodities to Leavitt Port in the Bhagui
+  system and earn rewards. The campaign runs for one week.
 persons: []
 groups:
 - Mould Federal Mining Incorporated
@@ -15,12 +20,15 @@ locations:
 topics:
 - festival
 - trade
-modern_impact: The Oktoberfest revival demonstrates how frontier communities preserve ancient Earth traditions while creating economic opportunities through festival-driven trade initiatives.
+modern_impact: The Oktoberfest revival demonstrates how frontier communities preserve
+  ancient Earth traditions while creating economic opportunities through festival-driven
+  trade initiatives.
 legacy_weight: 1
 significance: low
 related_uuids:
 - cb43ac64-4aa0-5364-afed-ce8b91a31052
 ---
+
 
 Citizens of The Bhagui system are attempting to resurrect the ancient Oktoberfest celebration, an annual event based on a centuries-old Earth tradition.  
 

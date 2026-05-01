@@ -27,7 +27,10 @@ significance: medium
 related_uuids:
 - 297518b9-2a20-5beb-b24e-80bb9fab33dd
 - ec7ee9bb-6ac2-51f7-a14e-8097372ddaf4
+- 8c3b3ebb-a297-5113-82a1-7bbf47cc653b
+- e9e91d22-2b03-5a0c-868a-6552121530ea
 ---
+
 
 
 At a recent charity event, former Federal President Jasmina Halsey made her first public appearance since she was discharged from a secure psychiatric facility on Mars two weeks ago. The woman seen at the event differed dramatically from the frail individual seen leaving the Clearwater Clinic. Some commented that she appeared even more confident than when she was in office. 

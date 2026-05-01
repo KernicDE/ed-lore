@@ -29,7 +29,10 @@ legacy_weight: 2
 significance: low
 related_uuids:
 - 65bc9600-97e5-56db-be15-8dc00d5229c9
+- 5b0343b9-7345-5fdb-a814-eea9cbf64edf
+- 23d548cc-bd29-5d89-b517-9921f31fce79
 ---
+
 
 
 It has now been Several months since The galaxy's superpowers commented on the mysterious spacecraft seen throughout human-inhabited space. 

@@ -4,8 +4,14 @@ title: Torval Apologises for Synteini Slave Snafu
 slug: torval_apologises_for_synteini_slave_snafu
 date: '3301-04-21'
 source: GitHub
-summary: The Imperial Slavers Association's planned sale of 5 million discounted Imperial Slaves at Lagerkvist Gateway was delayed when Princess Arissa's agents seized the shipment in LTT 9810 as part of their investigation. Senator Zemina Torval was reportedly furious but later apologised, acknowledging the investigators acted with the Emperor's best interests at heart. A fresh shipment is now being prepared for sale at Lagerkvist Gateway.
-player_impact: Pilots can purchase discounted Imperial Slaves at Lagerkvist Gateway in Synteini, though stock levels will remain low until the new shipment arrives.
+summary: The Imperial Slavers Association's planned sale of 5 million discounted Imperial
+  Slaves at Lagerkvist Gateway was delayed when Princess Arissa's agents seized the
+  shipment in LTT 9810 as part of their investigation. Senator Zemina Torval was reportedly
+  furious but later apologised, acknowledging the investigators acted with the Emperor's
+  best interests at heart. A fresh shipment is now being prepared for sale at Lagerkvist
+  Gateway.
+player_impact: Pilots can purchase discounted Imperial Slaves at Lagerkvist Gateway
+  in Synteini, though stock levels will remain low until the new shipment arrives.
 persons:
 - Zemina Torval
 - Arissa Lavigny-Duval
@@ -19,10 +25,19 @@ locations:
 topics:
 - slavery
 - investigation
-modern_impact: The incident illustrated the tension between Arissa's investigation and Torval's commercial interests, forcing Torval to publicly defer to the anti-assassination inquiry.
+modern_impact: The incident illustrated the tension between Arissa's investigation
+  and Torval's commercial interests, forcing Torval to publicly defer to the anti-assassination
+  inquiry.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 2c3a3f21-aa45-532e-96c3-1c53cc3fd1de
+- df449fea-8af0-5c7f-9488-2e3f54bfd6dc
+- 07e20d67-df6b-5dc6-8ac9-c8e744e9a973
+- afa2946a-2753-52cb-82a8-fe9a11cda814
+- 9ba11c0d-c74e-5974-a2ea-20618aabbf17
 ---
+
 
 Last weekend The Imperial Slavers Association was supposed to make 5 million Imperial Slaves available for a significant discount in The markets aboard Lagerkvist Gateway. Much to the dismay of Hundreds of eager Imperial traders, the slaves (and their associated discount) were delayed by members of Princess Lavigny-Duval’s retinue as they attempted to pass through LTT 9810. 
 

@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The 80 DD-D 774-CE-2 faction has launched a campaign to establish a planetary outpost in the Eol Prou RS-T d3-94 system. According to the organisation's spokesperson, the primary purpose of the new outpost will be to support Independent trade and exploration in the region. 
 
 In a statement, the spokesperson elaborated on the nature of the campaign: 

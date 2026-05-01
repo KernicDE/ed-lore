@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Reports from planetary settlements within Thargoid-occupied systems have described alien drone vessels attacking on-foot personnel.
 Field correspondent Ernesto Rios summarised this development for Vox Galactica:
 “Scores of populated systems in the vicinity of the Maelstroms have been invaded by Thargoid fleets, causing horrific casualties and mass evacuations. But military personnel still risk their lives exploring settlements within those systems, to search for survivors or scavenge remaining materials.”

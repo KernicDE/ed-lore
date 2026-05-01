@@ -4,8 +4,12 @@ title: Campaign for Pleiades Starport Restoration
 slug: campaign_for_pleiades_starport_restoration
 date: '3304-06-01'
 source: GitHub
-summary: Aegis Research sets up a fund to repair starports in the Pleiades Nebula damaged during the Thargoid conflict. Senior engineer Lilith Galloway asks pilots to deliver construction materials to The Oracle in the Pleiades Sector IR-W d1-55 system to rebuild starports better than ever.
-player_impact: Independent pilots can deliver construction materials to The Oracle in the Pleiades Sector IR-W d1-55 system. The campaign runs for one week.
+summary: Aegis Research sets up a fund to repair starports in the Pleiades Nebula
+  damaged during the Thargoid conflict. Senior engineer Lilith Galloway asks pilots
+  to deliver construction materials to The Oracle in the Pleiades Sector IR-W d1-55
+  system to rebuild starports better than ever.
+player_impact: Independent pilots can deliver construction materials to The Oracle
+  in the Pleiades Sector IR-W d1-55 system. The campaign runs for one week.
 persons:
 - Lilith Galloway
 groups:
@@ -19,13 +23,15 @@ topics:
 - alien contact
 - construction
 - war
-modern_impact: The restoration campaign demonstrates the resilience of Pleiades communities and the importance of community support in rebuilding after Thargoid attacks.
+modern_impact: The restoration campaign demonstrates the resilience of Pleiades communities
+  and the importance of community support in rebuilding after Thargoid attacks.
 legacy_weight: 4
 significance: high
 related_uuids:
 - e9563810-0611-5080-9952-cdd072acdc90
 - f0f6f3b5-820c-54b2-add3-229e4f9f610e
 ---
+
 
 A fund has been set up by The Aegis Research to repair starports in the Pleiades Nebula that have been damaged during the Thargoid conflict. 
 

@@ -32,7 +32,10 @@ significance: high
 related_uuids:
 - 1bef99d4-cbee-5fc7-887a-8f8fca1c7eb3
 - fbb6c7ab-5907-5d80-8d59-a0e6e1da54c7
+- 7f3a9dc2-b968-536e-ae02-59c152700954
+- 4579862d-ee3b-562d-9e24-d0f1258c9e28
 ---
+
 
 
 In a move likely to Further inflame relations between The superpowers, a coalition of Empire-aligned Commanders has declared the Segovan system a no-fly zone. Ramsbottom Hub, the site of an ongoing Federation construction project, has been placed in security lockdown, and traders have been advised that services are currently unavailable. 

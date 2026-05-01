@@ -28,7 +28,9 @@ legacy_weight: 2
 significance: low
 related_uuids:
 - 84bd34a8-1fbc-5401-9df8-e15d926ebe26
+- 1f702ab6-006b-5a8f-932a-c5c7e98527a3
 ---
+
 
 
 In another administrative mix up, Lady Kahina Tijani Loren's Imperial Courier has been denied docking clearance at Mars High. Official observers report that an Imperial Courier attempted to dock without prior permission and when confronted, refused to acknowledge hails. 

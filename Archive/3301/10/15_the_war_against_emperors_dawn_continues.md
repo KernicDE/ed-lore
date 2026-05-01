@@ -33,7 +33,9 @@ significance: high
 related_uuids:
 - 14545674-aa1d-5393-9898-8326b7bf348b
 - 8ee7f270-2a48-5f1d-becb-9ce73c48c863
+- 2f3144b5-e976-5252-bc85-856cd1606c88
 ---
+
 
 
 Following the Empire's recent discovery of Five additional Emperor's Dawn bases, Senator Denton Patreus has despatched military fleets to three of the systems occupied by the insurgents: Namarii, Tabaldak and LTT 874. The Senator has also authorised a number of Empire-aligned factions to reward pilots who join the fight against Emperor's Dawn. The insurgents, meanwhile, have responded in kind, promising to reward pilots who help repel the Imperials. 

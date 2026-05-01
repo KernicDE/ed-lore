@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 The anonymous Salvation commands much support in the galactic community, but a resistance movement has emerged to sabotage his efforts.
 Vox Galactica featured a special report from freelance journalist Alexei Keel:
 “In his self-proclaimed war against the Thargoids, Salvation recently scored a major victory by eliminating their forces from the Cornsar system. But the ongoing mystery around the identity of This ‘man of science’, as well as his controversial methods, have led to a backlash."

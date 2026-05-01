@@ -28,7 +28,11 @@ significance: medium
 related_uuids:
 - b8fa57d6-dda9-5367-8896-3b0cdc43d664
 - dc81405a-14e2-5106-a93f-c2a5005a7a7e
+- 5b0343b9-7345-5fdb-a814-eea9cbf64edf
+- 23d548cc-bd29-5d89-b517-9921f31fce79
+- 30ace67b-8ecf-51dc-a9c9-5060d2c97ebc
 ---
+
 
 
 For Several months, The Maia system has been a focal point in the ongoing hostility between the Empire and the Federation. 

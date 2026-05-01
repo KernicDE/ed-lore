@@ -33,7 +33,9 @@ related_uuids:
 - 38fb5be2-6a83-50df-95d5-b61bec0d0b64
 - 8a26f4a9-1a35-52dd-aa8f-1dff5fd3a27d
 - a0ec3597-7ec5-5cd9-923a-5bb63309eb1a
+- c7f92e1d-2f9c-599a-82e3-8426fe6ddf21
 ---
+
 
 
 The xeno-peace movement, which calls for communication with the Thargoids, has sought to rationalise the latest incursions.

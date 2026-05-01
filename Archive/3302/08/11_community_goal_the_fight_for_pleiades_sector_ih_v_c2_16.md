@@ -27,7 +27,10 @@ significance: medium
 related_uuids:
 - 661a40d6-f5bf-57eb-9dea-50152229573f
 - 7347eb81-9a9c-504f-8834-a1b7de13a2ef
+- 9ce9e97d-9a09-539f-9b5b-65d8bd445181
+- d30c2b1f-599d-5d63-ae05-a2f9319591bd
 ---
+
 
 
 Recent reports from the Empire-controlled Pleiades Sector IH-V c2-16 system indicate that the Pleiades Resource Enterprise, a Federal organisation, is preparing to launch an assault With the aim of taking the region from the Empire. 

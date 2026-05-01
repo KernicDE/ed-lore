@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 The Alliance, Empire and Federation will continue collaborating with Salvation and Azimuth Biotech on anti-xeno operations.
 Political journalist Conrad Sterling reviewed the latest developments for Vox Galactica:
 “We now know the truth: Azimuth not only survived, but was responsible for many controversial activities. It contributed to the mycoid virus’s development, coordinated with Black Flight and oversaw Project Seraph. Now, this notorious organisation enjoys the trust of all three superpowers to eliminate the Thargoid threat.”

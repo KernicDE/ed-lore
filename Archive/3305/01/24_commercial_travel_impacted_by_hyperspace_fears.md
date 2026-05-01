@@ -4,7 +4,9 @@ title: Commercial Travel Impacted by Hyperspace Fears
 slug: commercial_travel_impacted_by_hyperspace_fears
 date: '3305-01-24'
 source: GitHub
-summary: The Consuela Knight disappearance causes a drop in consumer confidence for commercial space travel, with luxury yacht sales plummeting and cruise bookings being cancelled across the galaxy.
+summary: The Consuela Knight disappearance causes a drop in consumer confidence for
+  commercial space travel, with luxury yacht sales plummeting and cruise bookings
+  being cancelled across the galaxy.
 player_impact: None — background report.
 persons:
 - Consuela Knight
@@ -16,13 +18,19 @@ topics:
 - corporate expansion
 - investigation
 - mystery
-modern_impact: The commercial fallout demonstrated how a single unexplained incident could ripple through interstellar commerce, with travel companies forced to address public fears about hyperspace safety.
+modern_impact: The commercial fallout demonstrated how a single unexplained incident
+  could ripple through interstellar commerce, with travel companies forced to address
+  public fears about hyperspace safety.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 67b68852-5631-5d2f-a8e6-9fd1ec40c1b9
 - acf7c88b-56f9-5317-ba83-b2ed5098a228
+- c2a73ebd-eb9e-5906-8c32-3685e7f8dc64
+- a41f0bc1-dcd1-510b-b614-d83064c93c1e
+- 5d87515e-5b3d-561e-9847-d40916cd1edb
 ---
+
 
 The mysterious disappearance of actor Consuela Knight and the crew of her yacht has affected confidence in commercial space travel. 
 

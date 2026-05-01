@@ -4,8 +4,11 @@ title: Faction Appeals for Fireworks
 slug: faction_appeals_for_fireworks
 date: '3301-12-30'
 source: GitHub
-summary: Independent Cherets Labour in the Cherets system issues an open contract for Anduliga Fireworks to celebrate New Year, also requesting combat pilots clear spaceways and offering bounty rewards at Buckey Hub.
-player_impact: Deliver Anduliga Fireworks to Buckey Hub in Cherets, or collect bounty vouchers by clearing spaceways of criminals.
+summary: Independent Cherets Labour in the Cherets system issues an open contract
+  for Anduliga Fireworks to celebrate New Year, also requesting combat pilots clear
+  spaceways and offering bounty rewards at Buckey Hub.
+player_impact: Deliver Anduliga Fireworks to Buckey Hub in Cherets, or collect bounty
+  vouchers by clearing spaceways of criminals.
 persons: []
 groups:
 - Independent Cherets Labour
@@ -20,10 +23,18 @@ topics:
 - safety
 - war
 technologies: []
-modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 8530ffab-09cf-5276-81e5-30745f0c6838
+- 9d5a4ef0-4431-52e3-91cd-b9f15924f8ab
+- 9ff59063-097c-550c-a321-0accc12810d0
+- f5890d11-70d4-5eec-a1d0-76d4d9761389
+- d38de666-796d-5082-991e-e55ea008a732
 ---
+
 
 With the end of The year less than a week away, preparations for New Year celebrations are in full swing throughout the galaxy. One of the most notable is the forthcoming party from Independent Cherets Labour, an organisation based in the Cherets system. According to a recent press release, the organisation has issued an open contract for fireworks With Which to mark the start of 3302. But not just any fireworks. Anduliga fireworks. 
 

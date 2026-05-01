@@ -4,8 +4,13 @@ title: Signal Could be Ancient Probe
 slug: signal_could_be_ancient_probe
 date: '3304-04-13'
 source: GitHub
-summary: Astronomers in the Sol system may have detected a signal from New Horizons, a space probe launched in 2006 to study objects in the Kuiper belt. The object's approximate location has been given as roughly 1,726,716 light seconds from the sun and 1,526,050 light seconds from 90377 Sedna, and explorers are encouraged to seek it out.
-player_impact: Explorers are encouraged to seek out the possible location of the New Horizons probe near 90377 Sedna in the Sol system.
+summary: Astronomers in the Sol system may have detected a signal from New Horizons,
+  a space probe launched in 2006 to study objects in the Kuiper belt. The object's
+  approximate location has been given as roughly 1,726,716 light seconds from the
+  sun and 1,526,050 light seconds from 90377 Sedna, and explorers are encouraged to
+  seek it out.
+player_impact: Explorers are encouraged to seek out the possible location of the New
+  Horizons probe near 90377 Sedna in the Sol system.
 persons: []
 groups:
 - Sol astronomers
@@ -15,10 +20,18 @@ locations:
 topics:
 - exploration
 - research
-modern_impact: The rediscovery of ancient human space probes connects modern explorers to early spacefaring history and provides archaeological interest.
+modern_impact: The rediscovery of ancient human space probes connects modern explorers
+  to early spacefaring history and provides archaeological interest.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e6f3f589-b1cb-54f2-86fa-1d49578c0bf4
+- f15aa0ae-a808-58d8-9d63-369a333a5dd6
+- fe2ef902-f105-5e82-bf79-83ee66c58228
+- a987debf-f78b-5533-84b9-48a6a845b2e2
+- 85c897b3-a050-5ace-946f-15310132c7dd
 ---
+
 
 Astronomers based in The Sol system may have detected a signal from New Horizons, a space probe launched in 2006 With a mission to study various objects in the Kuiper belt. 
 

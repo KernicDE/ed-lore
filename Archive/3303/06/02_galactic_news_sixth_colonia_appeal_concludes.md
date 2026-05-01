@@ -23,7 +23,9 @@ significance: medium
 related_uuids:
 - 9682ba33-11e4-5b48-8525-971161b6f0cb
 - ea1d6149-a9b1-5788-8ca1-536b843a3721
+- 392aa4d2-b0f8-518a-bc22-b8e0c9acddf2
 ---
+
 
 
 The sixth Colonia Council migration appeal has come to an end. Hundreds of organisations took part in the campaign, delivering huge quantities of material to Jaques Station in the hope of earning a place in the Colonia Nebula. 

@@ -4,8 +4,10 @@ title: Winters Condemns Oppression of Thargoid Cult
 slug: winters_condemns_oppression_of_thargoid_cult
 date: '3308-10-10'
 source: API
-summary: The Popontia conflict and the mass arrest of Far God cultists have received civil and political criticism across the Federation.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: The Popontia conflict and the mass arrest of Far God cultists have received
+  civil and political criticism across the Federation.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Alfred Ulyanov
 - Felicia Winters
@@ -20,7 +22,9 @@ topics:
 - espionage
 - war
 arc_id: null
-modern_impact: '"It is logical that any organisation supporting the Thargoids should come under scrutiny. But this does not justify th..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"It is logical that any organisation supporting the Thargoids should
+  come under scrutiny. But this does not justify th..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,6 +34,7 @@ related_uuids:
 - ae551de7-6ccc-55b7-a142-8e77ac721dce
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 ---
+
 
 The Popontia conflict and the mass arrest of Far God cultists have received civil and political criticism across the Federation.
 Shadow President Felicia Winters delivered a statement to The Federal Times:

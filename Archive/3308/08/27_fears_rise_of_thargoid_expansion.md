@@ -4,8 +4,12 @@ title: Fears Rise of Thargoid Expansion
 slug: fears_rise_of_thargoid_expansion
 date: '3308-08-27'
 source: API
-summary: Thargoid hyperdiction incidents increase at greater distances from HIP 22460, with Admiral Maxton Price confirming the aliens are using the system as a base to expand into surrounding sectors while Professor Tesreau suggests they may be reclaiming territory.
-player_impact: Civilian traffic was advised to exercise extreme caution while travelling within the Pleiades region due to increased Thargoid attacks.
+summary: Thargoid hyperdiction incidents increase at greater distances from HIP 22460,
+  with Admiral Maxton Price confirming the aliens are using the system as a base to
+  expand into surrounding sectors while Professor Tesreau suggests they may be reclaiming
+  territory.
+player_impact: Civilian traffic was advised to exercise extreme caution while travelling
+  within the Pleiades region due to increased Thargoid attacks.
 persons:
 - Alba Tesreau
 - Maxton Price
@@ -21,10 +25,19 @@ topics:
 - exploration
 - war
 arc_id: null
-modern_impact: The expansion of Thargoid activity beyond the Pleiades confirmed that HIP 22460 had transformed from a battlefield into a beachhead, fundamentally altering the strategic geography of the Second Thargoid War.
+modern_impact: The expansion of Thargoid activity beyond the Pleiades confirmed that
+  HIP 22460 had transformed from a battlefield into a beachhead, fundamentally altering
+  the strategic geography of the Second Thargoid War.
 legacy_weight: 5
 significance: high
+related_uuids:
+- c896dd55-b9b3-5552-9038-07a79049f0bb
+- 7cc33ea4-c770-5e4b-8a0e-bd75d0d19c24
+- cbe79040-1b75-50b1-9aad-bc544ff2b6be
+- 45b84dea-4293-588d-963a-38ee1b061eb5
+- 33b86898-9d96-5e9f-9e8a-e369998c5f2b
 ---
+
 
 **Pilots’ Federation ALERT**
 Ships travelling in the vicinity of HIP 22460 have reported so-called ‘hyperdiction’ incidents at increased distances from the Thargoid-controlled system.

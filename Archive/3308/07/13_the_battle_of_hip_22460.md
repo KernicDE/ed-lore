@@ -38,6 +38,7 @@ related_uuids:
 
 
 
+
 Vox Galactica has published an on-site account from the HIP 22460 system, where a coalition fleet is engaged in combat with the Thargoids.
 “This is Jade Sanderlyn reporting for Vox Galactica. I’ve been in HIP 22460 over the past two weeks, and during this time the system has been transformed into a ferocious battleground.”
 “Naval and independent craft are fighting side by side against the biomechanical nightmares that are Thargoid vessels. Many brave pilots have lost their lives to the aliens’ firepower, several of whom I spoke to only hours before. The official casualty numbers are climbing rapidly. But so far the coalition is holding the line.”

@@ -4,7 +4,11 @@ title: A Warning from the Imperator
 slug: a_warning_from_the_imperator
 date: '3304-11-09'
 source: GitHub
-summary: Nova Imperium broadcasts a message to Imperial citizens via public media. The Imperator criticises the Emperor's weakness and calls for severing ties with the Federation and other powers to survive the Thargoid onslaught. Senator Denton Patreus dismisses the group as extremists and warns them not to test Imperial patience further.
+summary: Nova Imperium broadcasts a message to Imperial citizens via public media.
+  The Imperator criticises the Emperor's weakness and calls for severing ties with
+  the Federation and other powers to survive the Thargoid onslaught. Senator Denton
+  Patreus dismisses the group as extremists and warns them not to test Imperial patience
+  further.
 player_impact: None
 persons:
 - Denton Patreus
@@ -14,7 +18,9 @@ groups:
 topics:
 - politics
 - alien contact
-modern_impact: The Imperator's direct broadcast escalates Nova Imperium's challenge to Imperial authority, prompting a stern warning from Senator Patreus and raising tensions between the isolationists and the establishment.
+modern_impact: The Imperator's direct broadcast escalates Nova Imperium's challenge
+  to Imperial authority, prompting a stern warning from Senator Patreus and raising
+  tensions between the isolationists and the establishment.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -22,6 +28,7 @@ related_uuids:
 - e83ed9a3-d349-5a04-a90a-323cf0cec25c
 - 022febc0-0bac-50a9-ab0b-92002fcb91eb
 ---
+
 
 The isolationist group Nova Imperium has broadcast a message to Imperial citizens via public media. 
 

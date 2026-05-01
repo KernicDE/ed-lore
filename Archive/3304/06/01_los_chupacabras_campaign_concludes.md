@@ -4,8 +4,12 @@ title: Los Chupacabras Campaign Concludes
 slug: los_chupacabras_campaign_concludes
 date: '3304-06-01'
 source: GitHub
-summary: Los Chupacabras announce their music festival in the LFT 926 system has been enthusiastically received. Scores of pilots delivered commodities to Meredith City. The organisation thanks supporters and confirms a second festival is already being planned.
-player_impact: Contributing pilots can collect rewards from Meredith City in the LFT 926 system.
+summary: Los Chupacabras announce their music festival in the LFT 926 system has been
+  enthusiastically received. Scores of pilots delivered commodities to Meredith City.
+  The organisation thanks supporters and confirms a second festival is already being
+  planned.
+player_impact: Contributing pilots can collect rewards from Meredith City in the LFT
+  926 system.
 persons: []
 groups:
 - Los Chupacabras
@@ -14,10 +18,16 @@ locations:
 - Meredith City
 topics:
 - culture
-modern_impact: The successful festival campaign demonstrates how community events can bring pilots together even amid galactic conflict.
+modern_impact: The successful festival campaign demonstrates how community events
+  can bring pilots together even amid galactic conflict.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 1311c969-d28a-5f55-ad4a-bacafbdf7ea7
+- 60f99547-6620-511f-9d5a-a610a2c0ff18
+- fe2ef902-f105-5e82-bf79-83ee66c58228
 ---
+
 
 Los Chupacabras have announced that their plan to host a music festival in The LFT 926 system has been enthusiastically received by the galactic community. Scores of pilots supported the initiative by delivering commodities to Meredith City, the organisation’s base of operations. 
 

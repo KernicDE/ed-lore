@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 A recent behavioural change in the Thargoids has prompted urgent discussion among Aegis researchers and strategists.
 Since the fall of the fourth Titan, Hadad, there are increasing reports that the Thargoid expansion efforts have been growing weaker. While Thargoids are continuing to expand outwards from the Titans, they are no longer reinforcing their spire sites.  Further, independent squadrons dedicated to defeating the Thargoid threat like SNPX, AXI, and MUDD, have noted increasing ease in thwarting attempts to probe and invade systems.
 Dr. Ivano Colombera, Imperial Science Academy’s director of xenological studies and Empire liaison to Aegis, gave their view:

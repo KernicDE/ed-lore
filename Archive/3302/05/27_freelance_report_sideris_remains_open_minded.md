@@ -25,7 +25,11 @@ significance: high
 related_uuids:
 - 581477c5-afa7-5805-bc6b-f58e204f9bf0
 - 58e7d2d7-d1e1-5803-9eb0-c3b155720e78
+- b6790be5-bc70-578e-8829-a683a49788c8
+- fab39187-1775-5f62-b4cc-7fc1befb7763
+- a020e5d5-ecdf-5cb3-afdd-78c074ba8d93
 ---
+
 
 
 Cynthia Sideris, chair of Universal Cartographics, made a brief comment outside UC headquarters This morning on Jasmina Halsey's ostensibly unsuccessful search for The "architects of creation": 

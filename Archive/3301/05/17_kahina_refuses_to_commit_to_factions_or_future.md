@@ -36,7 +36,11 @@ significance: medium
 related_uuids:
 - 4fbadce9-ff0f-5aac-9ea9-159628c728cd
 - 68ece073-dc98-54d1-9ddf-013639d6c6a2
+- 85b23ebd-1a8e-5ccb-b99f-d8545b4ec018
+- 1c9c7836-bdad-5e5d-911a-35fb9c4d5b73
+- 87f11857-f9cc-5e11-81d6-572af86c9c11
 ---
+
 
 
 Senator Kahina Tijani Loren, currently residing as a guest on Capital at The request of Chancellor Blaine, remains completely ambivalent to inquiries into her intentions. She has airily dismissed questions regarding her purpose or what was said to her at The reception to Which she was Summoned and Continues to ignore requests from the press. 

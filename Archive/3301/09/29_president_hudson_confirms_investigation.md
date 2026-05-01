@@ -35,7 +35,9 @@ significance: high
 related_uuids:
 - 0b616762-7560-5aa6-9364-86b35df69487
 - e3f3df5a-f54e-55dd-aa67-6d8d75ce6e4e
+- 0b443e30-902a-5de6-a5f6-ee994e6a69b7
 ---
+
 
 
 President Hudson responded today to Shadow President Winters's call for investigating The allegations raised by The Federal Times. In a press conference at the White House on Mars, he said: 

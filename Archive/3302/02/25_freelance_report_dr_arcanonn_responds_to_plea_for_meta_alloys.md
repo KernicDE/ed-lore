@@ -29,7 +29,10 @@ significance: high
 related_uuids:
 - 79707cce-a1a3-51f5-8c52-7946628254f1
 - 7eaaa54a-2715-5e47-8a73-ec469ab90965
+- 7bc44f0a-00b4-5ecc-a840-08e8175a1fe6
+- 6d6d7f1e-7088-54e3-873e-ba06ff4f2ce6
 ---
+
 
 
 Responding to The suggestion that more meta-alloys be shipped to stations experiencing technical issues, Dr Arcanonn of the Canonn Interstellar Research Group has issued a statement: 

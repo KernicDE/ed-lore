@@ -4,7 +4,9 @@ title: Prince Harold Duval Assassinated
 slug: prince_harold_duval_assassinated
 date: '3306-09-14'
 source: GitHub
-summary: NMLA terrorists assassinate Prince Harold Duval during an incognito journey to visit his daughter Aisling Duval in Cemiess. A single infiltrator shot the Prince at close range before being killed by guards.
+summary: NMLA terrorists assassinate Prince Harold Duval during an incognito journey
+  to visit his daughter Aisling Duval in Cemiess. A single infiltrator shot the Prince
+  at close range before being killed by guards.
 player_impact: None
 persons:
 - Harold Duval
@@ -19,7 +21,8 @@ locations:
 topics:
 - terrorism
 - succession
-modern_impact: The assassination of a member of the Imperial Family by NMLA terrorists marks a shocking escalation and triggers Imperial counter-terrorism measures.
+modern_impact: The assassination of a member of the Imperial Family by NMLA terrorists
+  marks a shocking escalation and triggers Imperial counter-terrorism measures.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -27,7 +30,9 @@ related_uuids:
 - 31b4d802-4b3f-57f3-bc15-35276b2cf0b1
 - 66aa5796-1028-5707-8ed1-7049881273b8
 - ea29f582-91a6-5340-9840-3d76cc07f494
+- f3b96ffc-d73d-5225-b720-e60ad7d17698
 ---
+
 
 Prince Harold Duval is dead after a targeted assassination attempt by The Neo-Marlinist Liberation Army. 
 

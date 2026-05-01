@@ -4,8 +4,11 @@ title: Community Goal  Knights of Karma Appeal
 slug: community_goal_knights_of_karma_appeal
 date: '3303-06-09'
 source: GitHub
-summary: The Knights of Karma announced plans to establish a new mining facility among the rings of Qa'wakana 6, with open orders for construction materials and a kill order on wanted ships.
-player_impact: Pilots can deliver construction materials to Carpini Terminal in the Qa'wakana system, or hunt wanted ships to protect traders.
+summary: The Knights of Karma announced plans to establish a new mining facility among
+  the rings of Qa'wakana 6, with open orders for construction materials and a kill
+  order on wanted ships.
+player_impact: Pilots can deliver construction materials to Carpini Terminal in the
+  Qa'wakana system, or hunt wanted ships to protect traders.
 persons: []
 groups:
 - Knights of Karma
@@ -17,10 +20,14 @@ topics:
 - ship
 - trade
 technologies: []
-modern_impact: Knights of Karma expansion in Qa'wakana demonstrates the growing influence of player-supported factions in system development.
+modern_impact: Knights of Karma expansion in Qa'wakana demonstrates the growing influence
+  of player-supported factions in system development.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 649c90a3-332e-5ed7-9914-11ba463d2c16
 ---
+
 
 Over The past year, the Qa’wakana system has become a focal point for the Knights of Karma, a rapidly expanding organisation that has attracted support from across the galaxy. Now the group has announced plans to establish a new mining facility among the rings of Qa’wakana 6. 
 

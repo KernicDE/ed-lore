@@ -4,7 +4,9 @@ title: 'Thargoid War Update: May 3309'
 slug: thargoid_war_update_may_3309
 date: '3309-05-29'
 source: API
-summary: Sanderlyn reports on the Titan discoveries, Glaive-class hunters, Revenant ground drones, and the pulse wave scanner project, with Rademaker criticizing Tesreau's address.
+summary: Sanderlyn reports on the Titan discoveries, Glaive-class hunters, Revenant
+  ground drones, and the pulse wave scanner project, with Rademaker criticizing Tesreau's
+  address.
 player_impact: Pilots continue anti-xeno operations and explore the Maelstroms.
 persons:
 - Jade Sanderlyn
@@ -20,7 +22,12 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Sanderlyn's visceral description — 'the Titans, squatting at the centre of the corrosive clouds like bloated spiders in their webs. I can't be the only one whose guts knotted with fear' — is powerful. The description of Glaives as 'multi-bladed throwing knives' is memorable. The framing of Revenants as 'actively defending abandoned settlements from human intruders' reinforces the colonization theory. Rademaker's 'self-congratulatory hot air' dismissal maintains the rivalry.
+modern_impact: Sanderlyn's visceral description — 'the Titans, squatting at the centre
+  of the corrosive clouds like bloated spiders in their webs. I can't be the only
+  one whose guts knotted with fear' — is powerful. The description of Glaives as 'multi-bladed
+  throwing knives' is memorable. The framing of Revenants as 'actively defending abandoned
+  settlements from human intruders' reinforces the colonization theory. Rademaker's
+  'self-congratulatory hot air' dismissal maintains the rivalry.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,6 +39,7 @@ related_uuids:
 - 92fb9612-203a-579d-a494-7165138502aa
 - 514110ce-a03f-5dec-9403-eb1e16bf5695
 ---
+
 
 Vox Galactica’s Jade Sanderlyn reports on the discovery of the Titans, and new Thargoid craft both in space and on occupied worlds.
 “The true scale of the challenge facing humanity became evident this month, when we finally learned what was within the Maelstroms. It has long been theorised that the Thargoids have ‘motherships’ of some kind. But few were prepared for the shocking reality of the Titans, squatting at the centre of the corrosive clouds like bloated spiders in their webs. I can’t be the only one whose guts knotted with fear when I first saw those floating monstrosities.”

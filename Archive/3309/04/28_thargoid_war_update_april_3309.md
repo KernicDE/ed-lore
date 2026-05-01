@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 Jade Sanderlyn’s latest report on the Thargoid invasion of the core systems has been published on Vox Galactica. 
 “Taking the broad view of the conflict does little to lift the spirits. Thargoid fleets now occupy well over a thousand systems, nearly 200 of which were once populated. Several million people have been killed or wounded by bombardments and caustic attacks. Colossal numbers have fled their homes as refugees. Some sources estimate that well over ten billion people have been directly affected by the war, but the misery and hardship it has caused is immeasurable.”
 “As sobering as that sounds, the situation would be much worse were it not for enormous efforts by anti-xeno squadrons and independent ships, which continue to push back against the Thargoid fleets. Every day, thousands of pilots risk their lives in battle, rescuing civilians or delivering supplies. Dozens of systems have been reclaimed from the Thargoids, and there are signs that the alien expansion is gradually slowing against such resistance.”

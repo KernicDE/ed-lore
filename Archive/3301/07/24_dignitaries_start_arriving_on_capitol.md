@@ -32,7 +32,19 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - 4924b50c-a75f-5788-bdba-6183fc5ce6f2
+- bfcfa929-e1d9-5fb5-8073-fc8341d2a5fd
+- ab2dbad2-8a8f-5e67-8f0e-58e4e1100a78
+- d3e7ed94-d19b-534e-833a-986f901972c9
+- d420f921-77e2-5630-9691-b07373f527f1
+- 44041048-a0af-5bd1-9e8e-2143e5856c57
+- 086e05e2-d614-5bf4-ba98-a1a0de0b1b06
+- ebe82c55-f297-59e6-86e9-44e8551b0ec8
+- e6d03504-c5f6-5e23-be1b-a1a309af0a58
+- 10bb4ee2-2697-5e84-8bff-573efc3c1214
+- 2b3db649-be10-5536-9c0f-cf9eaf68262d
+- 9c49827f-2623-5877-b5c6-d93509d0a595
 ---
+
 
 
 In scenes reminiscent of January, dignitaries and guests from The farthest reaches of The Empire have started arriving on Capitol. Already there is a shortage of suitable accommodation for the guests, and various senators are taking advantage of This by providing places to stay for favoured visitors. 

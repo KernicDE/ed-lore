@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Recent reports indicate that a new kind of Thargoid Vessel has been encountered in The Electra system. The previously unseen ships were encountered by Independent pilots investigating the wreckage of the Aida, a Hogan-class cargo vessel that was apparently attacked by Thargoids. 
 
 The Thargoid ship has been classified as a ‘Basilisk’ Interceptor by the Pilots Federation. 

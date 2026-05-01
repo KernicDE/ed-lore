@@ -4,8 +4,12 @@ title: Community Goal  Former Slaves in Need
 slug: community_goal_former_slaves_in_need
 date: '3302-02-04'
 source: GitHub
-summary: The Paladin Consortium liberated Imperial slaves at Onnes Gateway in LFT 37 but bureaucratic delays prevent them from legally obtaining housing or employment. The Consortium appeals for water purifiers to ensure basic sanitation while awaiting official release.
-player_impact: Pilots delivered water purifiers to Onnes Gateway in the LFT 37 system to support recently liberated former slaves.
+summary: The Paladin Consortium liberated Imperial slaves at Onnes Gateway in LFT
+  37 but bureaucratic delays prevent them from legally obtaining housing or employment.
+  The Consortium appeals for water purifiers to ensure basic sanitation while awaiting
+  official release.
+player_impact: Pilots delivered water purifiers to Onnes Gateway in the LFT 37 system
+  to support recently liberated former slaves.
 groups:
 - Paladin Consortium
 locations:
@@ -19,7 +23,12 @@ topics:
 modern_impact: Humanitarian effort by the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 771d96a2-7b75-5d2d-aa82-1b5205c0f197
+- b9e1e98d-96aa-5d19-aafc-8975c7bd19ba
+- 157b98f9-9126-5564-b254-2cbba5d2f266
 ---
+
 
 Recent reports from LFT 37 indicate that The system could be on the brink of a humanitarian crisis. According to system authorities, the issue began when the Paladin Consortium took control of the starport of Onnes Gateway and liberated all the imperial slaves at the starport. Unfortunately, however, the process of officially terminating the slaves' contracts has become entangled in bureaucratic red tape, and This has put the former slaves In a difficult position, as they cannot yet legally obtain housing or employment. 
 

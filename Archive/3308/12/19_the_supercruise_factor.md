@@ -4,8 +4,10 @@ title: The Supercruise Factor
 slug: the_supercruise_factor
 date: '3308-12-19'
 source: API
-summary: Thargoid vessels are interdicting human ships travelling through systems that have been occupied by their fleets.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: Thargoid vessels are interdicting human ships travelling through systems
+  that have been occupied by their fleets.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Bris Dekker
 groups:
@@ -16,7 +18,9 @@ topics:
 - research
 - xenoarchaeology
 arc_id: null
-modern_impact: '"Being intercepted by the Thargoids mid-way through an interstellar journey is certainly a disturbing experience, but ..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"Being intercepted by the Thargoids mid-way through an interstellar
+  journey is certainly a disturbing experience, but ..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -26,6 +30,7 @@ related_uuids:
 - a70b7065-3c14-503b-b348-7130e57293d4
 - 4d3d1411-525f-5642-bd6d-5d318f185635
 ---
+
 
 Thargoid vessels are interdicting human ships travelling through systems that have been occupied by their fleets.
 The Thargoids’ ability to force craft to drop out of hyperspace is well documented. Over the past couple of weeks, pilots have reported that the interdiction ability used by human ships in supercruise is also being utilised by the alien forces.

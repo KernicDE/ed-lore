@@ -35,7 +35,10 @@ significance: high
 related_uuids:
 - 8de12bfe-0d5a-5974-806d-b61f23c62bf1
 - 97fc9503-619d-5356-927b-052f72e32d4d
+- d419b88a-de19-5028-b105-8b18ccccd9bd
+- 49bae643-7d81-5e0f-a434-f06b00614e90
 ---
+
 
 
 Following The discovery of Further INRA outposts, Emperor Arissa Lavigny-Duval and Alliance Prime Minister Edmund Mahon have issued statements denouncing the now-defunct INRA. 

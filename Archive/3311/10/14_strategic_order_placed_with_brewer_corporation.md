@@ -4,8 +4,13 @@ title: Strategic Order Placed with Brewer Corporation
 slug: strategic_order_placed_with_brewer_corporation
 date: '3311-10-14'
 source: API
-summary: Brewer Corporation issued an urgent call for Bromellite and Cobalt to build multiple new starports, with the Trailblazer Dream in HIP 90578 as staging point. CEO Madelyn Teague confirmed considerable scale but declined to name clients, while pilots received private Power messages about HIP 87621.
-player_impact: Independent pilots delivered Bromellite and Cobalt to the Trailblazer Dream in HIP 90578 for rapid starport construction. Pilots received private messages from their Power contacts urging support for securing interests around HIP 87621.
+summary: Brewer Corporation issued an urgent call for Bromellite and Cobalt to build
+  multiple new starports, with the Trailblazer Dream in HIP 90578 as staging point.
+  CEO Madelyn Teague confirmed considerable scale but declined to name clients, while
+  pilots received private Power messages about HIP 87621.
+player_impact: Independent pilots delivered Bromellite and Cobalt to the Trailblazer
+  Dream in HIP 90578 for rapid starport construction. Pilots received private messages
+  from their Power contacts urging support for securing interests around HIP 87621.
 persons:
 - Madelyn Teague
 groups:
@@ -18,7 +23,12 @@ topics:
 - trade
 technologies: []
 arc_id: hip87621-conflict
-modern_impact: Madelyn Teague's refusal to name clients while confirming 'considerable' scale is the first clear signal that superpowers are secretly mobilising around HIP 87621. The use of the Trailblazer Dream — ostensibly a colonisation support vessel — as a military construction staging point reveals how Brewer repurposes civilian infrastructure for strategic operations. This pattern of secrecy continues until the October Accords force public disclosure.
+modern_impact: Madelyn Teague's refusal to name clients while confirming 'considerable'
+  scale is the first clear signal that superpowers are secretly mobilising around
+  HIP 87621. The use of the Trailblazer Dream — ostensibly a colonisation support
+  vessel — as a military construction staging point reveals how Brewer repurposes
+  civilian infrastructure for strategic operations. This pattern of secrecy continues
+  until the October Accords force public disclosure.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -26,6 +36,7 @@ related_uuids:
 - 87992d19-e99d-5349-bde9-a5ab63fe5b37
 - a3f791cb-69ed-563c-bd68-f714c44a8674
 ---
+
 
 Brewer Corporation has issued an urgent call for mined and manufactured materials to support the rapid construction of multiple new starports.
 Reports have started to circulate among the pilot community of receiving internal communications from their Power contacts specifically calling for their support in relation to securing interests around HIP 87621.

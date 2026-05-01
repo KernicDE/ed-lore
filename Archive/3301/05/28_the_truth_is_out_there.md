@@ -4,8 +4,13 @@ title: The Truth is Out There
 slug: the_truth_is_out_there
 date: '3301-05-28'
 source: GitHub
-summary: Alex Snoori, host of 'Beyond Top Secret', spread conspiracy theories about Starship One's disappearance, rejecting the Frame Shift Drive failure explanation. He linked the incident to recent discoveries of 'weird, pulsing, alien things' and warned listeners not to trust the government, suggesting extraterrestrial involvement in the President's disappearance.
-player_impact: None directly; conspiracy theories surrounding Halsey's disappearance fuel public distrust of the Federal government.
+summary: Alex Snoori, host of 'Beyond Top Secret', spread conspiracy theories about
+  Starship One's disappearance, rejecting the Frame Shift Drive failure explanation.
+  He linked the incident to recent discoveries of 'weird, pulsing, alien things' and
+  warned listeners not to trust the government, suggesting extraterrestrial involvement
+  in the President's disappearance.
+player_impact: None directly; conspiracy theories surrounding Halsey's disappearance
+  fuel public distrust of the Federal government.
 persons:
 - Alex Snoori
 groups: []
@@ -15,10 +20,18 @@ technologies:
 - Starship One
 topics:
 - investigation
-modern_impact: Conspiracy theories linking Halsey's disappearance to alien artefacts amplified public paranoia and distrust of official narratives.
+modern_impact: Conspiracy theories linking Halsey's disappearance to alien artefacts
+  amplified public paranoia and distrust of official narratives.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 5f87713c-0d41-53c9-886d-7ff0d357bd8b
+- 62854860-ad7c-5510-8dc4-0a6b5cddc2a1
+- b8672130-0141-52f4-9188-4fe0efb5846b
+- af01c68b-24fd-5dc7-bd85-38ca24522b88
+- 47fc5e89-7923-5c13-b489-b820ba458fc9
 ---
+
 
 Despite claims that The disappearance of Starship One was due to a failure in the ship’s Frame Shift Drive, rumours abound about a more sinister, possibly extraterrestrial explanation. 
 

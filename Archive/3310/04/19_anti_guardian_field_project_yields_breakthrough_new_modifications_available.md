@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The engineer Ram Tah has discovered a method of immunising existing Guardian modules against the effects of anti-Guardian fields.
 Earlier this year, Ram Tah discovered that certain Guardian relics revealed and activated nanite clusters when exposed to specific electromagnetic frequencies. These nanites proved disruptive to Thargoid technology on a molecular level and, importantly, were entirely unaffected by anti-Guardian fields unlike other Guardian technology.

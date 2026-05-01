@@ -4,7 +4,9 @@ title: Fiction Fans Gather for Literary Event
 slug: fiction_fans_gather_for_literary_event
 date: '3305-08-16'
 source: GitHub
-summary: The Alliance Festival of Culture's fourth week celebrates literature at H.G. Wells Terminal in Olgrea. Local author Hanna Darrold releases the metafictional bestseller 'Chronicles of Olgrea'.
+summary: The Alliance Festival of Culture's fourth week celebrates literature at H.G.
+  Wells Terminal in Olgrea. Local author Hanna Darrold releases the metafictional
+  bestseller 'Chronicles of Olgrea'.
 player_impact: None
 persons:
 - Leyton Farris
@@ -15,10 +17,18 @@ locations:
 - Olgrea
 topics:
 - festival
-modern_impact: The literary event showcases Alliance support for arts and culture, fostering creative expression across member systems.
+modern_impact: The literary event showcases Alliance support for arts and culture,
+  fostering creative expression across member systems.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 969713a8-6dbf-548c-9ce4-4d33ba1f321a
+- 3993967f-7de1-5710-9bbf-758f946fb39f
+- 40eaaec9-0df7-56f2-b5ca-61180338dd12
+- dc3245e0-532c-5d04-aaa2-099fe3fcdb91
+- d75ed40e-ae55-56fe-8ab3-f318650a324c
 ---
+
 
 A celebration of literature at H.G. Wells Terminal in The Olgrea system is the focus of the fourth week of the Alliance Festival of Culture. 
 

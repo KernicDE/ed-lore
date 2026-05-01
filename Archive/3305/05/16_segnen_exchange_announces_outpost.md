@@ -4,7 +4,9 @@ title: Segnen Exchange Announces Outpost
 slug: segnen_exchange_announces_outpost
 date: '3305-05-16'
 source: GitHub
-summary: Segnen Exchange announces plans to build Indigo Dock in Synuefe EN-H d11-96, positioning itself as a rival to Zende Partners in the burgeoning Guardian technology research market.
+summary: Segnen Exchange announces plans to build Indigo Dock in Synuefe EN-H d11-96,
+  positioning itself as a rival to Zende Partners in the burgeoning Guardian technology
+  research market.
 player_impact: None — background corporate report.
 persons:
 - Cedrik Stone
@@ -18,7 +20,9 @@ topics:
 - corporate expansion
 - research
 - xenoarchaeology
-modern_impact: Segnen Exchange's entry into Guardian space set the stage for a corporate conflict that would determine which company controlled access to advanced Guardian-human hybrid weaponry.
+modern_impact: Segnen Exchange's entry into Guardian space set the stage for a corporate
+  conflict that would determine which company controlled access to advanced Guardian-human
+  hybrid weaponry.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -26,6 +30,7 @@ related_uuids:
 - 782581af-3169-5d69-bae8-6418c16cbb47
 - 131bcfd7-f26c-5fbf-a041-85731e6a9b55
 ---
+
 
 Segnen Exchange has revealed plans to build an outpost in The Synuefe EN-H d11-96 system.  
 

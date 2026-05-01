@@ -40,7 +40,11 @@ significance: high
 related_uuids:
 - 9e20806b-cec6-5f25-b123-6a166f735f00
 - f8fc300d-817f-59ef-abfb-a35cdbab4d99
+- e17af96f-7350-5002-8ac0-49df1324863a
+- ca1298b7-f6b5-5dfb-a716-f0956072d329
+- aca55626-ad2a-54e9-9bb2-3f9a86209dd8
 ---
+
 
 
 There has been a range of reactions to the discovery of new Guardian sites, and to Ram Tah’s development of Guardian-inspired technologies. 

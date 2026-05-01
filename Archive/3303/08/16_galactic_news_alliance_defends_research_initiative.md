@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 The Alliance has been criticised for Its recent appeal for Thargoid data, Which began only days after a joint-superpower initiative was established to study the Thargoids. 
 
 A number of Independent factions, including the Federal Republican Command, have censured the Alliance for its apparently contradictory stance. 

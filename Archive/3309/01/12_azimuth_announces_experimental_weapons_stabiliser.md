@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Azimuth Biotech has revealed prototypes of a module which improves hardpoint capacity for AX ships at the TZ Arietis Weapon Expo.
 The event showcased a range of military products to entice governments, corporations and private groups into contracts with arms suppliers. But the current demand for anti-xeno weaponry meant that Azimuth Biotech’s announcement gained the greatest media attention.
 CEO Torben Rademaker delivered a presentation on the expo’s main stage:

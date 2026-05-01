@@ -36,6 +36,7 @@ related_uuids:
 
 
 
+
 **Pilots’ Federation ALERT**
 Salvation’s anti-xeno superweapon is now complete and final preparations are underway in the HIP 22460 system.
 Commodore Morag Halloran, Azimuth Biotech’s military coordinator, broadcast this announcement from the Bright Sentinel megaship:

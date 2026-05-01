@@ -32,7 +32,9 @@ significance: high
 related_uuids:
 - d9093b90-7659-5e5b-ac01-e545fe66530b
 - fcdf5858-98a9-5b6b-b18d-09ec75b74c49
+- b280e325-1aa5-5bb7-98d4-e8391cbe9f45
 ---
+
 
 
 The Thargoid-worshipping sect that reveres an entity known As the ‘Far God’ has issued a request for Thargoid materials. 

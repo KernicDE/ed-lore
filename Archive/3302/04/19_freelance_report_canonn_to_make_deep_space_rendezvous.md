@@ -4,7 +4,10 @@ title: Freelance Report  Canonn to Make Deep Space Rendezvous
 slug: freelance_report_canonn_to_make_deep_space_rendezvous
 date: '3302-04-19'
 source: GitHub
-summary: Commander Josh Hawkins recovers an escape pod containing Canonn scientist Shannon Day. Her pilot log reveals her ship was sabotaged by former Canonn member Socha Korbemile. Two scientists are dispatched to bring Day's escape pod home to Thompson Dock in Varati.
+summary: Commander Josh Hawkins recovers an escape pod containing Canonn scientist
+  Shannon Day. Her pilot log reveals her ship was sabotaged by former Canonn member
+  Socha Korbemile. Two scientists are dispatched to bring Day's escape pod home to
+  Thompson Dock in Varati.
 player_impact: None
 persons:
 - Dr Arcanonn
@@ -26,7 +29,14 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 6741f279-99ef-57b9-bb58-25d0b3e3782d
+- 7bc44f0a-00b4-5ecc-a840-08e8175a1fe6
+- 892e2bc9-cd3f-52df-ae01-81026168dbe0
+- f45bad18-0834-5eb6-8931-f6317afe7452
+- 886c2379-a8dc-5b45-8c99-374ef4b9fe2b
 ---
+
 
 An escape pod containing Canonn scientist Shannon Day has been miraculously recovered by an explorer named Commander Josh Hawkins, According to transmissions received from his ship. 
 

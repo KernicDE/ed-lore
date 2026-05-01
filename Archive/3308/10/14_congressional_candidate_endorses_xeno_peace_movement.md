@@ -4,8 +4,10 @@ title: Congressional Candidate Endorses Xeno-Peace Movement
 slug: congressional_candidate_endorses_xeno_peace_movement
 date: '3308-10-14'
 source: API
-summary: Dalton Chase, the Federal governor of Andavandul 1, is campaigning to become a member of Congress with support from the Thargoid Advocacy Project.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: Dalton Chase, the Federal governor of Andavandul 1, is campaigning to become
+  a member of Congress with support from the Thargoid Advocacy Project.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Dalton Chase
 - Sofia Trevino
@@ -17,7 +19,9 @@ topics:
 - alien contact
 - diplomacy
 arc_id: null
-modern_impact: '"Despite only being in his mid-thirties with a short political career, Dalton Chase has made a habit of beating the od..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+modern_impact: '"Despite only being in his mid-thirties with a short political career,
+  Dalton Chase has made a habit of beating the od..." The failure of civilian-led
+  diplomacy underscores the dangers of underestimating Thargoid hostility.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -27,6 +31,7 @@ related_uuids:
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - c3191284-cee4-5cb7-8b49-6ad3d77a499f
 ---
+
 
 Dalton Chase, the Federal governor of Andavandul 1, is campaigning to become a member of Congress with support from the Thargoid Advocacy Project.
 A profile of Governor Chase was published in The Federal Times by political journalist Sofia Trevino:

@@ -4,8 +4,15 @@ title: Imperial Law and Order  Investigation into Attack on Emperor Continues
 slug: imperial_law_and_order_investigation_into_attack_on_emperor_continues
 date: '3301-04-16'
 source: GitHub
-summary: Arissa Lavigny-Duval directed attacks on the Nehet Silver Ring under Patrons of Law guidance, bringing crime to manageable levels. Evidence uncovered pointed to Almad criminals facilitating the Emperor's attack. Simultaneously, pilots crushed the Mictlan Cartel, and inquisitors extracted information about a previously unknown underworld consultancy believed to be based near LTT 9810. Commanders can sign up at Heinkel City in Almad and Gutierrez Terminal in LTT 9810.
-player_impact: Pilots can join the investigation at Heinkel City in Almad or Gutierrez Terminal in LTT 9810. Imperial Clippers remain available at discount from Syromyatnikov Horizons in Nu.
+summary: Arissa Lavigny-Duval directed attacks on the Nehet Silver Ring under Patrons
+  of Law guidance, bringing crime to manageable levels. Evidence uncovered pointed
+  to Almad criminals facilitating the Emperor's attack. Simultaneously, pilots crushed
+  the Mictlan Cartel, and inquisitors extracted information about a previously unknown
+  underworld consultancy believed to be based near LTT 9810. Commanders can sign up
+  at Heinkel City in Almad and Gutierrez Terminal in LTT 9810.
+player_impact: Pilots can join the investigation at Heinkel City in Almad or Gutierrez
+  Terminal in LTT 9810. Imperial Clippers remain available at discount from Syromyatnikov
+  Horizons in Nu.
 persons:
 - Arissa Lavigny-Duval
 - Emperor Hengist Duval
@@ -29,10 +36,19 @@ topics:
 - crime
 - investigation
 - succession
-modern_impact: Arissa's multi-system offensive against criminal networks uncovered the first concrete evidence linking organised crime to the Emperor's assassination attempt.
+modern_impact: Arissa's multi-system offensive against criminal networks uncovered
+  the first concrete evidence linking organised crime to the Emperor's assassination
+  attempt.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 7de915cb-51b3-5885-a170-73a56654e534
+- 07e20d67-df6b-5dc6-8ac9-c8e744e9a973
+- 3dad8b6f-abb7-5cbe-9ba7-44082c98217e
+- 7dc64c51-9af8-50a7-b1c6-2f97c35ce3f7
+- 187a9035-1fae-5b9f-b3a5-93921aa46dea
 ---
+
 
 Arissa Lavigny-Duval’s ongoing investigation in to The attack on The Emperor took the Princess to Nehet yesterday, where the Senator from Facece directed her followers to launch an all out attack on the Nehet Silver Ring. 
 

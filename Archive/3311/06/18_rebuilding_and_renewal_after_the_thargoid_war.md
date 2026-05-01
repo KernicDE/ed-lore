@@ -4,8 +4,13 @@ title: Rebuilding and Renewal After the Thargoid War
 slug: rebuilding_and_renewal_after_the_thargoid_war
 date: '3311-06-18'
 source: API
-summary: Six months after the Battle for Sol, communities are rebuilding and displaced settlers are joining colonisation efforts. A memorial beacon near the Titan Cocijo wreckage draws visitors, while Commodore Morayo Orina honours the lost at a Sol memorial service.
-player_impact: Independent pilots engaged the alien threat during the war. Displaced settlers joined colonisation efforts, including at the Senenmut station in HIP 18085 commissioned by CMDR StellarCartographer.
+summary: Six months after the Battle for Sol, communities are rebuilding and displaced
+  settlers are joining colonisation efforts. A memorial beacon near the Titan Cocijo
+  wreckage draws visitors, while Commodore Morayo Orina honours the lost at a Sol
+  memorial service.
+player_impact: Independent pilots engaged the alien threat during the war. Displaced
+  settlers joined colonisation efforts, including at the Senenmut station in HIP 18085
+  commissioned by CMDR StellarCartographer.
 persons:
 - Commodore Morayo Orina
 - CMDR StellarCartographer
@@ -23,11 +28,21 @@ topics:
 technologies:
 - Titan Cocijo
 - memorial beacon
-modern_impact: Commodore Orina's statement — 'We honour those we lost by choosing to live boldly' — encapsulates the post-war ethos driving the colonisation boom. The Senenmut station in HIP 18085, commissioned by a pilot, exemplifies how the pilot community directly shapes frontier development. This colonisation wave creates the infrastructure and mindset that makes the Trailblazer initiative possible.
+modern_impact: Commodore Orina's statement — 'We honour those we lost by choosing
+  to live boldly' — encapsulates the post-war ethos driving the colonisation boom.
+  The Senenmut station in HIP 18085, commissioned by a pilot, exemplifies how the
+  pilot community directly shapes frontier development. This colonisation wave creates
+  the infrastructure and mindset that makes the Trailblazer initiative possible.
 legacy_weight: 5
 significance: high
-related_uuids: []
+related_uuids:
+- ebaed307-7279-5789-9569-01d10e7832b9
+- c8970a7c-f1b9-57df-aaac-b318e5078cab
+- 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
+- 35b353b0-98d7-556b-8f74-142428546856
+- c921c6d4-70de-55af-8dbf-2c5e972d5a55
 ---
+
 
 Six months have passed since the Battle for Sol culminated in the destruction of Titan Cocijo. With the alien threat repelled, communities across the core systems are beginning to rebuild economies, infrastructure - and hope.
 Stations which suffered caustic devastation have long since restored full services. Local economies have bounced back and, in some cases, flourished thanks to the recent wave of new colonisation efforts.

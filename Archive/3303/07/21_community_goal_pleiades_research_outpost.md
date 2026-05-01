@@ -36,7 +36,9 @@ significance: high
 related_uuids:
 - 5babf77e-a8a5-5477-9467-7eb5ea758f34
 - 7074f2ff-1b53-5892-9416-8059b4d0699f
+- 6577c6d8-15ca-5aba-84c1-071f22ab3fba
 ---
+
 
 
 The recent revelation that the Thargoids have returned to human space has sent shockwaves through the galaxy. 

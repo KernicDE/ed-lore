@@ -4,7 +4,12 @@ title: Scandal Hits Rochester Family
 slug: scandal_hits_rochester_family
 date: '3304-09-06'
 source: GitHub
-summary: The Mars Tribune reveals that actor Tomas Turai, husband of Jupiter Rochester, has been conducting a three-year extramarital affair with Olympian athlete Reagan Lord. The Rochester family is in a media lockdown following the cancelled wedding of Ambassador Jordan Rochester and Princess Aisling Duval. Turai and August Lord (Reagan's husband) both announce plans to sue the Tribune for defamation. Editor Lana Sigrid defends the story's accuracy.
+summary: The Mars Tribune reveals that actor Tomas Turai, husband of Jupiter Rochester,
+  has been conducting a three-year extramarital affair with Olympian athlete Reagan
+  Lord. The Rochester family is in a media lockdown following the cancelled wedding
+  of Ambassador Jordan Rochester and Princess Aisling Duval. Turai and August Lord
+  (Reagan's husband) both announce plans to sue the Tribune for defamation. Editor
+  Lana Sigrid defends the story's accuracy.
 player_impact: None
 persons:
 - Tomas Turai
@@ -23,10 +28,19 @@ locations:
 - Altair
 topics:
 - scandal
-modern_impact: The Turai affair scandal compounds the Rochester family's public relations crisis, further damaging their political and social standing while demonstrating The Mars Tribune's aggressive investigative tactics.
+modern_impact: The Turai affair scandal compounds the Rochester family's public relations
+  crisis, further damaging their political and social standing while demonstrating
+  The Mars Tribune's aggressive investigative tactics.
 legacy_weight: 1
 significance: low
+related_uuids:
+- a987debf-f78b-5533-84b9-48a6a845b2e2
+- e66042d5-f19b-5b3d-8113-f2c32d2e4c51
+- 920160cf-a2bd-51ac-b6f0-545d575cdc14
+- 2d41866c-c7a5-58b1-967c-80c278c83575
+- adca2dc7-45d7-58c5-b987-d0c360690515
 ---
+
 
 The famous actor Tomas Turai, husband of Jupiter Rochester, has been revealed to be having an extramarital affair With an Olympian athlete. 
 

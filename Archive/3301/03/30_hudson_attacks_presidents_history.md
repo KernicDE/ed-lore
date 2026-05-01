@@ -28,7 +28,11 @@ significance: high
 related_uuids:
 - 228a3835-beab-5f06-a49f-9e2d1588b1d7
 - d97415fc-1060-58ea-b5f1-6691bce40028
+- 4e3b073a-562f-591a-a980-a91838aa35ff
+- ebe4961e-cee1-5175-8dfe-3a8fb966f6d3
+- a8bb509b-31ad-5327-8f8e-21b531565fb8
 ---
+
 
 
 Shadow President Hudson held a press conference on Mars earlier today to address rumours that he would be seeking support to oust President Halsey from office. 

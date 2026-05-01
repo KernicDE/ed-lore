@@ -32,6 +32,7 @@ related_uuids:
 
 
 
+
 The Federation has issued a public appeal for exploration data as part of Its ongoing operation in the Pleiades Nebula. The appeal is being coordinated by the Pleiades Resource Enterprise, Which released The following statement to the media: 
 
 "Given the recent discovery of possible non-human wreckage in the Pleiades, it is essential that we have comprehensive and up-to-date information on The entire region. We are therefore asking pilots to sweep the Pleiades and deliver any resultant exploration data to PRE Logistics Support Gamma in the Pleiades Sector IH-V c2-5 system. Commanders who contribute to This initiative will be generously rewarded." 

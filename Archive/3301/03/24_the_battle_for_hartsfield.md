@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 In what can only be described as a devastating blow for The Federation, the Crimson State Group and the Sons of Conn have managed to wrestle control of Hartsfield Market from the Lugh for Equality Party.  
 
 The fighting in the halls of Hartsfield was particularly bloody, With tens of thousands having been killed on both sides of the conflict. Federal forces managed to hold the Bridge for almost 78 hours after the rest of the station fell, But the Sons of Conn were eventually able to break through the Federation’s defences to claim their prize.  

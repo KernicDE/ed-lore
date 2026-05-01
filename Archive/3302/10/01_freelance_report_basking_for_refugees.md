@@ -31,7 +31,16 @@ modern_impact: Humanitarian pilot-led relief efforts for Federal-Imperial war re
   establish a template for community aid campaigns.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 38dd5964-5e77-535a-bcde-b340f5cde111
+- 0b9d4cb5-2512-5613-aba4-b006f790dcaa
+- 6ac2e092-ea98-5484-b095-3ffb5688ce1e
+- b57317cc-d39a-5d38-86fb-8f6ac78483ab
+- 3c42ea38-6fce-5d52-a67a-475c55b87d22
+- 1ab6978e-31d2-5bf5-84c1-e734d4c0ea14
+- 19a27b3b-bc79-50e2-b54c-aefc68e014af
 ---
+
 
 
 A group of well-connected Imperial Commanders has descended on The Kalana system carrying medicines and evacuation shelters. The loosely organized 'Cutter Club', As the group calls itself, has pledged to meet the needs of the Mu Koji refugees. 

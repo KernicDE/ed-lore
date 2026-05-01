@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 Princess Aisling Duval has issued a statement praising the efforts of relief workers in the Munshin system. 
 
 "War is a plague on Our galactic society, and like all disease it most affects the poor, the hungry, and the downtrodden. It is therefore With great pride that I look to the Munshin system. There One sees true examples of Imperial citizenship, and true heroes. Any person can fire a laser, but only a true Imperial can see the humanity in another person. I extend my gratitude to the people of the Munshin system, and to the Libertas Cooperative, who are working so hard for the victims of the Pegasi Pirate War. The tireless commanders ferrying medicines to Ocrinox's Orbiter are likewise to be commended." 

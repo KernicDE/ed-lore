@@ -25,6 +25,7 @@ related_uuids:
 ---
 
 
+
 The discovery of what appears to be the remains of a non-human spacecraft has sent ripples of fear and curiosity through the galaxy. 
 
 "Many are speculating that This is evidence of recent Thargoid activity," said Professor Steven Eisler of the Okinura Xenobiology Institute, "but it's more likely that the wreckage dates from Our first encounters With the Thargoids." 

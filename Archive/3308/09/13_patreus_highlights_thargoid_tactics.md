@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Senator Denton Patreus, fleet admiral of the Imperial Navy, has discussed the Empire’s new priorities following the Battle of HIP 22460.
 During an exclusive interview with the Eye on Achenar newsfeed, Patreus said:
 “Her Majesty the Emperor has decreed that our military priority is to defend systems within the Empire. The Imperial Navy’s production and training facilities have increased their efforts to redress the loss of three Majestic-class interdictors, along with tens of thousands of naval crew.”

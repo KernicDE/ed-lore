@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Azimuth Biotech has rejected Seo Jin-ae’s unverified claim that Salvation survived by relocating his mind using advanced Guardian technology.
 CEO Torben Rademaker issued this statement:
 “I can officially confirm that Azimuth Biotech has no knowledge of any project related to a ‘Nemesis Failsafe’. Frankly, suggesting that anyone could transmit their living mind across space stretches her credibility past breaking point.”

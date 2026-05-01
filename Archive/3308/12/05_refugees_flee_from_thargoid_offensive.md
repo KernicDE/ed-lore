@@ -4,8 +4,10 @@ title: Refugees Flee from Thargoid Offensive
 slug: refugees_flee_from_thargoid_offensive
 date: '3308-12-05'
 source: API
-summary: Millions of people are being evacuated from systems that have suffered devastating attacks by Thargoid fleets.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: Millions of people are being evacuated from systems that have suffered devastating
+  attacks by Thargoid fleets.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Justine Kemp
 topics:
@@ -13,7 +15,9 @@ topics:
 - humanitarian
 - war
 arc_id: null
-modern_impact: '"As per newly established procedures, all contracted transports carrying refugees from systems facing Thargoid invasio..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"As per newly established procedures, all contracted transports carrying
+  refugees from systems facing Thargoid invasio..." This perspective highlights the
+  broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -23,6 +27,7 @@ related_uuids:
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 ---
+
 
 Millions of people are being evacuated from systems that have suffered devastating attacks by Thargoid fleets.
 An enormous humanitarian effort is underway, with rescue megaships positioned at key locations near each Thargoid-occupied system. Captain Justine Kemp  of Rescue Ship Hutner, currently stationed in Enayex, described their operations to Vox Galactica:

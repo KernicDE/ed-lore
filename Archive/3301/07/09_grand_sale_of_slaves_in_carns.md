@@ -4,8 +4,13 @@ title: Grand Sale of Slaves in Carns
 slug: grand_sale_of_slaves_in_carns
 date: '3301-07-09'
 source: GitHub
-summary: Following the announcement of Carns' economic shift from mining to high-tech, Deputy Communications Officer Ramon Lamor outlined plans to retrain or sell the system's imperial slave workforce. Slaves with relevant skills are being prepared for new roles, while others will be sold at Humason Orbital with a substantial discount financed by the authorities until all slaves find new placements.
-player_impact: Traders can purchase discounted imperial slaves at Humason Orbital in Carns during the transition period.
+summary: Following the announcement of Carns' economic shift from mining to high-tech,
+  Deputy Communications Officer Ramon Lamor outlined plans to retrain or sell the
+  system's imperial slave workforce. Slaves with relevant skills are being prepared
+  for new roles, while others will be sold at Humason Orbital with a substantial discount
+  financed by the authorities until all slaves find new placements.
+player_impact: Traders can purchase discounted imperial slaves at Humason Orbital
+  in Carns during the transition period.
 persons:
 - Ramon Lamor
 groups:
@@ -15,10 +20,16 @@ locations:
 topics:
 - slavery
 - trade
-modern_impact: Carns' slave sale demonstrates the human cost of economic restructuring in the Empire, where slave labour is treated as a transferable asset.
+modern_impact: Carns' slave sale demonstrates the human cost of economic restructuring
+  in the Empire, where slave labour is treated as a transferable asset.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 4a00c1ed-084e-53ca-9dd4-1205bc96641e
+- edc8a7ec-e431-50dd-b349-89b22cc7be08
+- c44c61ff-2724-516c-afd1-18b4813e4cf6
 ---
+
 
 Following up on yesterday’s Surprise announcement of changing economic policy in The Carns system, Deputy Communications Officer Ramon Lamor outlined Further changes: 
 

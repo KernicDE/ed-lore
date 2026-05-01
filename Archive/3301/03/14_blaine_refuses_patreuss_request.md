@@ -4,8 +4,14 @@ title: Blaine Refuses Patreus's Request
 slug: blaine_refuses_patreuss_request
 date: '3301-03-14'
 source: GitHub
-summary: Chancellor Blaine denied Senator Patreus's request for access to Emperor Hengist Duval's medical records, citing national security and the long-standing rule that only the Emperor's personal physicians may view them. Blaine promised to inform the Senate if the Emperor's condition changes and stated he will continue acting in the Emperor's stead according to his will. He refused to address succession until the situation calls for it.
-player_impact: None directly; Blaine's refusal maintains the status quo but intensifies succession tensions within the Imperial Senate.
+summary: Chancellor Blaine denied Senator Patreus's request for access to Emperor
+  Hengist Duval's medical records, citing national security and the long-standing
+  rule that only the Emperor's personal physicians may view them. Blaine promised
+  to inform the Senate if the Emperor's condition changes and stated he will continue
+  acting in the Emperor's stead according to his will. He refused to address succession
+  until the situation calls for it.
+player_impact: None directly; Blaine's refusal maintains the status quo but intensifies
+  succession tensions within the Imperial Senate.
 persons:
 - Chancellor Blaine
 - Denton Patreus
@@ -14,10 +20,19 @@ groups: []
 locations: []
 topics:
 - succession
-modern_impact: Blaine's stonewalling on the Emperor's health records deepened the succession crisis and fueled conspiracy theories about the true state of Hengist's condition.
+modern_impact: Blaine's stonewalling on the Emperor's health records deepened the
+  succession crisis and fueled conspiracy theories about the true state of Hengist's
+  condition.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 37ec2f6b-0279-58e6-9ba8-c409f851742b
+- 65bc95ff-68c1-521d-aa1d-9b3f23d1a531
+- 1aace639-6f26-5836-813f-ed536ff18435
+- fae881d7-b41d-5b1b-a592-f87e4cf001a2
+- 2c3a3f21-aa45-532e-96c3-1c53cc3fd1de
 ---
+
 
 Chancellor Blaine made a rare appearance at today's Senate meeting in order to address remarks made earlier in The week by Senator Denton Patreus. 
 

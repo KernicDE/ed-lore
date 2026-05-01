@@ -4,8 +4,14 @@ title: The Alliance Supports Five a Day in Diso!
 slug: the_alliance_supports_five_a_day_in_diso
 date: '3301-05-11'
 source: GitHub
-summary: The Green Party of Diso's rejuvenation project for Birmingham succeeded spectacularly when 5,187 commanders delivered over 15 million tonnes of machinery in just 65 hours. Top contributors included Broker Mrozak, Broker HawX, Tycoon Ace Rimzy, Tycoon Thalios Abraxas and Broker Del Boy. An increased supply of Diso Ma Corn has been released to markets aboard Shifnalport to stimulate the Old World sector economy.
-player_impact: Pilots who signed up and delivered machinery to the Green Party of Diso contributed to the project's success. Diso Ma Corn supply has increased at Shifnalport.
+summary: The Green Party of Diso's rejuvenation project for Birmingham succeeded spectacularly
+  when 5,187 commanders delivered over 15 million tonnes of machinery in just 65 hours.
+  Top contributors included Broker Mrozak, Broker HawX, Tycoon Ace Rimzy, Tycoon Thalios
+  Abraxas and Broker Del Boy. An increased supply of Diso Ma Corn has been released
+  to markets aboard Shifnalport to stimulate the Old World sector economy.
+player_impact: Pilots who signed up and delivered machinery to the Green Party of
+  Diso contributed to the project's success. Diso Ma Corn supply has increased at
+  Shifnalport.
 persons:
 - Broker Mrozak
 - Broker HawX
@@ -24,10 +30,18 @@ technologies:
 - Machinery
 topics:
 - trade
-modern_impact: Demonstrates the scale of player-driven economic initiatives in the Old Worlds, with thousands of commanders delivering millions of tonnes in mere days.
+modern_impact: Demonstrates the scale of player-driven economic initiatives in the
+  Old Worlds, with thousands of commanders delivering millions of tonnes in mere days.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 3a44c8f0-4093-56c5-ad92-5813f23d889b
+- 4f1d453c-2e49-510a-aaaa-32ef3a72c321
+- afc9a94b-b11c-56b0-8e7a-e5f9b450371b
+- 0b396735-3acc-5e46-a6c1-dc75e63959d9
+- 3aff70ec-55de-540f-af20-db881cf820d4
 ---
+
 
 On Friday The Green Party of Diso announced their plans to rejuvenate the failing financial fortunes of Birmingham. The news was well received by Independent traders from across the galaxy, Many of whom immediately made their way to Diso to help ship Machinery for the Green Party of Diso. 
 

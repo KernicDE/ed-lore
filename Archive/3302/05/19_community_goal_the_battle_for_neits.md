@@ -4,8 +4,11 @@ title: Community Goal  The Battle for Neits
 slug: community_goal_the_battle_for_neits
 date: '3302-05-19'
 source: GitHub
-summary: The Neits system erupts into conflict as Federation-aligned Neits Jet Life Ltd clashes with Imperial GR 316 Silver Universal Group. The strategically positioned system has long resisted both superpowers' influence.
-player_impact: Pilots chose sides in the battle for Neits, supporting either the Federal or Imperial faction to determine system control.
+summary: The Neits system erupts into conflict as Federation-aligned Neits Jet Life
+  Ltd clashes with Imperial GR 316 Silver Universal Group. The strategically positioned
+  system has long resisted both superpowers' influence.
+player_impact: Pilots chose sides in the battle for Neits, supporting either the Federal
+  or Imperial faction to determine system control.
 persons:
 - Zachary Hudson
 - Arissa Lavigny-Duval
@@ -23,7 +26,14 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 0a84ffbd-3255-5b51-b8ec-934a8ebb2741
+- 6c4e25d4-ad42-5057-8ba9-6feed095c224
+- 42255e4f-788f-5ba1-b12d-b1209e5ee2ba
+- 14ba5e9a-bb38-565e-bbd0-768f8f401fd4
+- 7b1495a0-0413-5d22-af0c-bc7fcf8090d4
 ---
+
 
 "We were escorting a cargo ship to Watson Settlement. As we approached, we were intercepted by a pair of Vultures. They asked us to identify ourselves, but I don't think they were even listening – they just opened fire. The cargo ship took a hit, and then my wingmate bought it. I barely made it out alive." 
 

@@ -49,6 +49,7 @@ related_uuids:
 ---
 
 
+
 Survivors from The Neo-Marlinist Order of Mudhrid have arrived in the Marlinist Colonies, requesting political asylum from the Empire.
 The faction was recently defeated by Imperial forces in the Mudhrid system, after an ACT investigation confirmed that it provided logistical support for the NMLA attacks on starports. 
 Landgrave Delacroix and his loyalists fled aboard the Steel Majesty megaship to the Hyades Sector RO-P b6-2 system, Which is controlled by the Marlinism Reformation Party. Minister Aaron Whyte, Its elected leader, announced:

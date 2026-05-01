@@ -4,8 +4,11 @@ title: Zende Partners Claim Victory
 slug: zende_partners_claim_victory
 date: '3305-05-30'
 source: GitHub
-summary: Zende Partners defeats Segnen Exchange's expansion attempt in Synuefe EN-H d11-96, securing control of both outposts and beginning manufacture of the Advanced Multi-cannon at The Prospect.
-player_impact: Pilots who supported either faction could collect rewards from The Prospect or Indigo Dock.
+summary: Zende Partners defeats Segnen Exchange's expansion attempt in Synuefe EN-H
+  d11-96, securing control of both outposts and beginning manufacture of the Advanced
+  Multi-cannon at The Prospect.
+player_impact: Pilots who supported either faction could collect rewards from The
+  Prospect or Indigo Dock.
 persons:
 - Freya Taine
 - Cedrik Stone
@@ -19,7 +22,9 @@ topics:
 - research
 - war
 - xenoarchaeology
-modern_impact: Zende Partners' victory established it as the dominant corporate force in Guardian space, ensuring continued production of Guardian-human hybrid technology modules from The Prospect.
+modern_impact: Zende Partners' victory established it as the dominant corporate force
+  in Guardian space, ensuring continued production of Guardian-human hybrid technology
+  modules from The Prospect.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -27,6 +32,7 @@ related_uuids:
 - a7cf6573-70fc-5e17-bbc9-7867966c94ad
 - 782581af-3169-5d69-bae8-6418c16cbb47
 ---
+
 
 The conflict in The Synuefe EN-H d11-96 system has ended With Zende Partners resisting an expansion attempt from Segnen Exchange. 
 

@@ -31,7 +31,11 @@ significance: high
 related_uuids:
 - 82ff8827-493c-52f3-86db-78cfc7d9962f
 - e457a532-38e6-5d9c-b207-eaae526a42c9
+- f32dbd18-488b-5264-a256-d2fcdc02ce5a
+- 11e14c3c-da22-5eb5-9d5a-637ba3ec1a15
+- 0f930bc1-8f0a-5a9d-8c3d-f4b39f8c495f
 ---
+
 
 
 The latest development in the ongoing Federal-Imperial conflict takes the form of a statement from Admiral Denton Patreus, who has announced plans to add three new Majestic-class Interdictors to the Imperial fleet. The announcement comes only a week after the successful conclusion of a Federal campaign to amass material for three new Farragut-class Battlecruisers. 

@@ -4,8 +4,10 @@ title: Conflict Erupts in the Reorte System
 slug: conflict_erupts_in_the_reorte_system
 date: '3308-01-27'
 source: API
-summary: The Reorte Mining Coalition declares war on Sirius Corporation's presence in the Reorte system.
-player_impact: Pilots were invited to fight for either the Reorte Mining Coalition or Sirius Corporation forces.
+summary: The Reorte Mining Coalition declares war on Sirius Corporation's presence
+  in the Reorte system.
+player_impact: Pilots were invited to fight for either the Reorte Mining Coalition
+  or Sirius Corporation forces.
 persons:
 - Edmund Mahon
 groups:
@@ -21,10 +23,22 @@ topics:
 - war
 entities: []
 arc_id: null
-modern_impact: '"The Reorte Mining Coalition has declared its intent to remove the Sirius Corporation presence from its home system." The outbreak of hostilities in Reorte marks a rare instance of an Alliance system openly defying its own government''s corporate alliance.'
+modern_impact: '"The Reorte Mining Coalition has declared its intent to remove the
+  Sirius Corporation presence from its home system." The outbreak of hostilities in
+  Reorte marks a rare instance of an Alliance system openly defying its own government''s
+  corporate alliance.'
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 09bf0b89-95eb-572c-97eb-a94634287f81
+- ef4e71be-9936-51bb-9e2a-a7dbd842b13f
+- 57f6fa04-b94b-5674-8344-d4f063bd6a45
+- bdab5f72-441a-5f75-943c-e13212c176fb
+- 7086c7a6-47b9-5cfa-ac9e-c7c44ed36d6a
+- 8bfd21dd-5f52-5456-beb3-e58a5292f4dc
+- 33ee3c75-97ce-563c-993f-e4102203cb85
 ---
+
 
 **Pilots’ Federation ALERT**
 The Reorte Mining Coalition has declared Its intent to remove The Sirius Corporation presence from its home system.

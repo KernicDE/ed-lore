@@ -28,7 +28,9 @@ significance: high
 related_uuids:
 - ac1691f2-54af-52fb-9f86-c33791ca3ed1
 - eda4cfe1-e27c-5303-a7dc-c613c5400d4e
+- 8ad75ee9-b942-5e77-9019-b89a5faa2700
 ---
+
 
 
 The 80 DD-D 774-CE-2 faction, an Independent organisation based at Jaques Station in the Eol Prou RS-T d3-94 system, has issued a request for exploration data. The request is part of an ongoing initiative to establish a permanent community in the Colonia Nebula. 

@@ -4,7 +4,9 @@ title: Starship Enterprises Mining Campaign Concludes
 slug: starship_enterprises_mining_campaign_concludes
 date: '3305-08-29'
 source: GitHub
-summary: Starship Enterprises' mining campaign concludes successfully with the opening of Miner Prospects asteroid base in LP 339-7. The base serves as SE Mining headquarters and supports the system's outer gas giants.
+summary: Starship Enterprises' mining campaign concludes successfully with the opening
+  of Miner Prospects asteroid base in LP 339-7. The base serves as SE Mining headquarters
+  and supports the system's outer gas giants.
 player_impact: Contributing pilots can collect rewards from Gell-Mann Ring in LP 339-7.
 persons:
 - Lewis Chapman
@@ -16,12 +18,16 @@ locations:
 topics:
 - construction
 - corporate expansion
-modern_impact: The new base establishes a permanent corporate presence and trade hub in the LP 339-7 system.
+modern_impact: The new base establishes a permanent corporate presence and trade hub
+  in the LP 339-7 system.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 99333bbb-cf40-5b90-93ed-33c667f836cc
+- c579b71c-4893-5060-b5fa-1b25101b6e8a
+- 371ba884-e8bc-5e2e-bb3f-cb24df547a09
 ---
+
 
 A mining initiative by The Starship Enterprises faction has ended successfully, With the establishment of a new asteroid base in the LP 339-7 system. 
 

@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Azimuth Biotech CEO Torben Rademaker has claimed that Seo Jin-ae's current medical situation is ‘dangerous’ for humanity.
 Last week, Aegis’ special advisor Seo fell into a coma following a violent seizure. Head of Aegis Alba Tesreau confirmed the incident shortly afterwards, stating that Seo was receiving the best possible care at an Aegis medical facility.
 Following a request for comment statement by Vox Galactica’s Conrad Sterling, Rademaker discussed his views on the latest developments in the Thargoid war and the status of Seo:

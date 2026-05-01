@@ -56,6 +56,7 @@ related_uuids:
 ---
 
 
+
 More Federal factions are considering declaring Independence following The recent conflict in the Azaladshu system.
 Sofia Trevino, political journalist With the Federal Times, published an overview of the situation:
 “When Azaladshu Free seceded in reaction to the government’s surveillance laws, it inspired three Other factions to do the same, making ten systems and a billion people Independent. Superpowers routinely gain and lose systems via local politics, but This was a rare instance of member factions abandoning their fealty.”

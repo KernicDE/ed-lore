@@ -4,7 +4,13 @@ title: Thargoid Sympathiser Arrests Increase
 slug: thargoid_sympathiser_arrests_increase
 date: '3304-09-08'
 source: GitHub
-summary: The Federal Intelligence Agency increases arrests of potential Thargoid sympathisers while investigating the Far God cult. Journalist Gethin Okonkwo is reported missing and assumed arrested. Exotheologian Dr Alfred Ulyanov and other researchers remain in custody. The FIA shuts down the Galactic Interfaith Commune and apprehends spokesperson Dr Jameelah Griffin. Empty Far God hive-chapels are discovered, with hundreds of adherents' whereabouts unknown. Senior Agent Micah Whitefield warns against harbouring cult members.
+summary: The Federal Intelligence Agency increases arrests of potential Thargoid sympathisers
+  while investigating the Far God cult. Journalist Gethin Okonkwo is reported missing
+  and assumed arrested. Exotheologian Dr Alfred Ulyanov and other researchers remain
+  in custody. The FIA shuts down the Galactic Interfaith Commune and apprehends spokesperson
+  Dr Jameelah Griffin. Empty Far God hive-chapels are discovered, with hundreds of
+  adherents' whereabouts unknown. Senior Agent Micah Whitefield warns against harbouring
+  cult members.
 player_impact: None
 persons:
 - Micah Whitefield
@@ -22,7 +28,9 @@ topics:
 - crime
 - investigation
 - religion
-modern_impact: The FIA's crackdown on Thargoid sympathisers escalates into mass arrests and religious persecution, with the disappearance of hundreds of Far God worshippers raising serious concerns about civil liberties and potential extrajudicial actions.
+modern_impact: The FIA's crackdown on Thargoid sympathisers escalates into mass arrests
+  and religious persecution, with the disappearance of hundreds of Far God worshippers
+  raising serious concerns about civil liberties and potential extrajudicial actions.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,6 +38,7 @@ related_uuids:
 - ee173dbc-3ffb-5704-85cf-8afc6f5094be
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
+
 
 The Federal Intelligence Agency has increased arrests of potential Thargoid sympathisers, as it Continues to investigate the Far God cult.  
 

@@ -46,6 +46,7 @@ related_uuids:
 ---
 
 
+
 A summary of key events around the rise and fall of the tri-superpower organisation Aegis.
 The Alliance, Empire and Federation created Aegis in 3303 to lead xenological research and coordinate defensive actions against the Thargoids. With fears that the alien species might one day overwhelm human-controlled space, Aegis’s role was to spearhead the resistance against a common enemy.
 There were concerns that Aegis might adopt the same unethical practices as its notorious predecessor INRA, which had been formed back in 3125 during the First Thargoid War. But the new agency was welcomed by most, providing intelligence on Thargoid activity as well as advanced weapons.

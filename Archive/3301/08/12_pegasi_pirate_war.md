@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Last month, Archon Delaine’s aggressive advance toward Imperial territory was halted. Defensive lines along The Imperial border held strong As the expeditionary forces of Operation Davy Jones were joined by detachments of The Imperial Fleet. Many in the Empire are now referring to the escalating conflict As the ‘Pegasi Pirate War’. 
 
 Tens of thousands of ships throughout the Pegasi Sector have been impounded or destroyed in an attempt to weed the pirates out of Hundreds of systems. Vastly outnumbered, Archon’s forces have employed asymmetric tactics, effectively denying the possibility of decisive battles. Sieges of certain systems, such as Ngam, have been repeatedly broken by the Empire and re-laid by the Kumo Crew. Tacticians on either side have yet to produce an advantage in This war of attrition. 

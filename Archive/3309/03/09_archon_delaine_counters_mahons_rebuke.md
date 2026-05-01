@@ -4,7 +4,9 @@ title: Archon Delaine Counters Mahon’s Rebuke
 slug: archon_delaine_counters_mahons_rebuke
 date: '3309-03-09'
 source: API
-summary: Archon Delaine rejects Mahon's accusations, hinting at Sirius Corporation and Rackham Capital Investments connections to his operations in the California Nebula.
+summary: Archon Delaine rejects Mahon's accusations, hinting at Sirius Corporation
+  and Rackham Capital Investments connections to his operations in the California
+  Nebula.
 player_impact: Not specifically mentioned — this is a political and media report.
 persons:
 - Archon Delaine
@@ -23,12 +25,19 @@ topics:
 - corporate expansion
 - crime
 - piracy
-modern_impact: Delaine's cryptic response — 'The Kumo Crew migrated into the nebula with help from some mutual friends of ours... people you now consider allies' — is a bombshell. Lafosse's investigative journalism — connecting Kavanagh Spaceframes (now Rackham Spaceframes), Sirius Corporation subsidiaries, and the Kumo Crew's station construction — weaves a conspiracy. The implication that 'the trillionaire and the pirates working together' foreshadows the Calico Zack scandal.
+modern_impact: Delaine's cryptic response — 'The Kumo Crew migrated into the nebula
+  with help from some mutual friends of ours... people you now consider allies' —
+  is a bombshell. Lafosse's investigative journalism — connecting Kavanagh Spaceframes
+  (now Rackham Spaceframes), Sirius Corporation subsidiaries, and the Kumo Crew's
+  station construction — weaves a conspiracy. The implication that 'the trillionaire
+  and the pirates working together' foreshadows the Calico Zack scandal.
 legacy_weight: 2
 significance: low
 related_uuids:
 - d6063fe1-a6b1-595d-b957-5243e1ce6784
+- c29442f8-da7f-5d0f-842b-e2451abd99ef
 ---
+
 
 Archon Delaine has rejected Prime Minister Mahon’s warning over an alleged attempt to gain control of systems in the California Nebula.
 “Wake up, Old Man Mahon!” Delaine said in a public broadcast. “The Kumo Crew migrated into the nebula with help from some mutual friends of ours… people you now consider allies. You like to portray us as criminals lusting for power and influence, but the real crooks are much closer to home. Rather than watching us, you should try looking over your shoulder.”

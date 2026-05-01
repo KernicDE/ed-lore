@@ -4,7 +4,9 @@ title: The Mystery of the Blight
 slug: the_mystery_of_the_blight
 date: '3305-10-14'
 source: GitHub
-summary: The IAA confirms mass crop spoilage is caused by a new advanced blight of unknown origin. The Vandermeer Corporation offers research assistance. Speculation ranges from natural mutation to industrial sabotage.
+summary: The IAA confirms mass crop spoilage is caused by a new advanced blight of
+  unknown origin. The Vandermeer Corporation offers research assistance. Speculation
+  ranges from natural mutation to industrial sabotage.
 player_impact: None
 persons:
 - Genevieve Kane
@@ -15,7 +17,8 @@ groups:
 topics:
 - research
 - investigation
-modern_impact: The blight mystery deepens the food crisis as scientists race to identify the pathogen's origin and develop a treatment.
+modern_impact: The blight mystery deepens the food crisis as scientists race to identify
+  the pathogen's origin and develop a treatment.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -23,6 +26,7 @@ related_uuids:
 - e518e336-c9d3-597e-b22f-6747bd165cbc
 - 52de8894-6950-5b13-aa2a-ec35620347ce
 ---
+
 
 The cause of mass crop spoilage on key agricultural worlds has been attributed to a new disease affecting plants. 
 

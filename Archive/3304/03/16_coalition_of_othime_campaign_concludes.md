@@ -1,5 +1,4 @@
 ---
-
 uuid: d34ef1b2-8a49-5082-acb9-4dd4b13b10e4
 title: Coalition of Othime Campaign Concludes
 slug: coalition_of_othime_campaign_concludes
@@ -25,7 +24,11 @@ modern_impact: The new asteroid base in Othime expands refining capacity and sup
   larger vessel operations.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 708accb1-31f8-5810-873b-8ef1038daebc
+- 665cbf33-b7d1-5180-b6b1-add9b94ca81c
 ---
+
 
 
 The Coalition of Othime has announced that Its campaign to build a new asteroid base has received the wholehearted support of the galactic community. Hundreds of pilots supported the appeal by delivering commodities to Levi-Montalcini Dock and by eliminating agitators in Othime, thereby ensuring the safety of traders. 

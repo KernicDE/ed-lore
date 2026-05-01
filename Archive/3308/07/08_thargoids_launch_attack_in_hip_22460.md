@@ -36,6 +36,7 @@ related_uuids:
 
 
 
+
 **Pilots’ Federation ALERT**
 The HIP 22460 system has been invaded by large numbers of Thargoid vessels, with several multi-craft conflicts already reported.
 An alert was broadcast by Commodore Morag Halloran, military coordinator for Azimuth Biotech:

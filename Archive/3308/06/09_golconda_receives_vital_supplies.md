@@ -4,8 +4,10 @@ title: Golconda Receives Vital Supplies
 slug: golconda_receives_vital_supplies
 date: '3308-06-09'
 source: API
-summary: Community deliveries enable the Golconda generation ship to achieve full operational status and resume its millennia-long voyage.
-player_impact: Pilots delivered tritium, medical equipment, and power generators to Upaniklis and defended shipments from pirates.
+summary: Community deliveries enable the Golconda generation ship to achieve full
+  operational status and resume its millennia-long voyage.
+player_impact: Pilots delivered tritium, medical equipment, and power generators to
+  Upaniklis and defended shipments from pirates.
 persons:
 - Captain Jonathon Forester
 - Itsuko Harada
@@ -21,13 +23,16 @@ topics:
 - piracy
 - war
 arc_id: null
-modern_impact: Captain Forester's gratitude to 'all those who made this possible' underscores how pilot-driven supply campaigns can restore historic vessels and preserve unique human cultures.
+modern_impact: Captain Forester's gratitude to 'all those who made this possible'
+  underscores how pilot-driven supply campaigns can restore historic vessels and preserve
+  unique human cultures.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 0f8b9da8-3863-596b-9339-e0a9d8ce9ef0
 - 7f00ad08-050b-5a1e-b30c-f03501029ae3
 ---
+
 
 **Pilots’ Federation ALERT**
 Shipments delivered to the Upaniklis system have enabled the Golconda generation ship to resume its millennia-long voyage.

@@ -4,7 +4,13 @@ title: Ulyanov Arrested
 slug: ulyanov_arrested
 date: '3304-08-18'
 source: GitHub
-summary: Dr Alfred Ulyanov, a leading exotheologian and authority on the Far God cult, is arrested as a suspected Thargoid sympathiser at his home in the Rana system. The FIA removes research materials and computer systems. Professor Siobhan Vogel of the Interstellar Association of Universities files a formal complaint, calling the arrest a dangerous precedent. Senior Agent Micah Whitefield defends the arrest, citing Ulyanov's involvement with the Far God cult. Juanita Bishop claims it proves Thargoid collaborators exist in all walks of life.
+summary: Dr Alfred Ulyanov, a leading exotheologian and authority on the Far God cult,
+  is arrested as a suspected Thargoid sympathiser at his home in the Rana system.
+  The FIA removes research materials and computer systems. Professor Siobhan Vogel
+  of the Interstellar Association of Universities files a formal complaint, calling
+  the arrest a dangerous precedent. Senior Agent Micah Whitefield defends the arrest,
+  citing Ulyanov's involvement with the Far God cult. Juanita Bishop claims it proves
+  Thargoid collaborators exist in all walks of life.
 player_impact: None
 persons:
 - Alfred Ulyanov
@@ -21,7 +27,9 @@ topics:
 - alien contact
 - investigation
 - religion
-modern_impact: Ulyanov's arrest as an academic researcher sends shockwaves through the scientific community, chilling legitimate study of alien religions and raising alarm about the erosion of academic freedom.
+modern_impact: Ulyanov's arrest as an academic researcher sends shockwaves through
+  the scientific community, chilling legitimate study of alien religions and raising
+  alarm about the erosion of academic freedom.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -29,7 +37,9 @@ related_uuids:
 - f12c2ec4-bbcc-55f0-87ac-1594fe3eb363
 - d9093b90-7659-5e5b-ac01-e545fe66530b
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
+- b280e325-1aa5-5bb7-98d4-e8391cbe9f45
 ---
+
 
 Dr Alfred Ulyanov, a leading exotheologian and an authority on The Far God cult, has been apprehended as a suspected Thargoid sympathiser. 
 

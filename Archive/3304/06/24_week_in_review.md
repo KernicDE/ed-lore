@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-06-24'
 source: GitHub
-summary: Weekly summary covering Thargoids being repelled from core systems to Bhal, three starports restored to full functionality, Aisling Duval's engagement to Jordan Rochester, the foiled League of Reparation assassination attempt on Dinah Law, Zachary Rackham's Colonia shipyard donation, Aegis's military installation plans in the Pleiades, and Caspian Leopold's completed refugee centre initiative.
+summary: Weekly summary covering Thargoids being repelled from core systems to Bhal,
+  three starports restored to full functionality, Aisling Duval's engagement to Jordan
+  Rochester, the foiled League of Reparation assassination attempt on Dinah Law, Zachary
+  Rackham's Colonia shipyard donation, Aegis's military installation plans in the
+  Pleiades, and Caspian Leopold's completed refugee centre initiative.
 player_impact: None
 persons:
 - Aden Tanner
@@ -48,7 +52,9 @@ topics:
 - diplomacy
 - exploration
 - humanitarian
-modern_impact: This week spans military victories against Thargoids, infrastructure recovery, a landmark engagement, and humanitarian efforts, reflecting the galaxy's multifaceted struggles and triumphs.
+modern_impact: This week spans military victories against Thargoids, infrastructure
+  recovery, a landmark engagement, and humanitarian efforts, reflecting the galaxy's
+  multifaceted struggles and triumphs.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -59,7 +65,11 @@ related_uuids:
 - 37a69743-987e-5990-848f-308a9738a453
 - 518459bd-b04c-5043-bae8-6aa576f868e5
 - 041680e0-ca6d-5681-8657-65ba736abcde
+- dd466372-2852-583f-9211-6abb50186a05
+- 60b7e81b-2c68-5123-9b6c-5a136ba41850
+- 09a1615f-e58a-5a91-9d2e-71b9a4edfbe2
 ---
+
 
 Here are This week’s major stories. 
 

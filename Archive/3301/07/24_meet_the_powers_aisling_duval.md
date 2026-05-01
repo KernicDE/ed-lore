@@ -4,7 +4,13 @@ title: Meet the Powers – Aisling Duval
 slug: meet_the_powers_aisling_duval
 date: '3301-07-24'
 source: GitHub
-summary: Political commentator Marcus Macmillan profiles Princess Aisling Duval. At 25, she is Prince Harold's eldest child and extremely popular with citizens, clients, and patrons. Her claim to the throne is technically weakened by her parents' unmarried status but remains competitive. She manages her brand from Cemiess and spends time with her father in Achenar. Her mother's drug overdose and father's hedonistic legacy fuel her passion for helping those whose lives have gone wrong. She enjoys considerable support from elements seeking to shake up Imperial society.
+summary: Political commentator Marcus Macmillan profiles Princess Aisling Duval. At
+  25, she is Prince Harold's eldest child and extremely popular with citizens, clients,
+  and patrons. Her claim to the throne is technically weakened by her parents' unmarried
+  status but remains competitive. She manages her brand from Cemiess and spends time
+  with her father in Achenar. Her mother's drug overdose and father's hedonistic legacy
+  fuel her passion for helping those whose lives have gone wrong. She enjoys considerable
+  support from elements seeking to shake up Imperial society.
 player_impact: None
 persons:
 - Aisling Duval
@@ -18,10 +24,18 @@ locations:
 topics:
 - politics
 - succession
-modern_impact: Profile of Aisling Duval establishes her as a populist reformer and significant contender in the Imperial succession.
+modern_impact: Profile of Aisling Duval establishes her as a populist reformer and
+  significant contender in the Imperial succession.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 851a00f1-7638-598a-bfd2-76d4c7c2972e
+- 281d1638-d74c-563d-baee-276e46af5b27
+- 56b718e2-4c9f-5664-b63e-9f87139379fe
+- 74f96d5d-43c7-50ef-9f79-9c7047e42d9b
+- b1618ea1-d907-5c5d-99ce-ee6f47a2758c
 ---
+
 
 In This new series, exclusive to GalNet, the popular political commentator Marcus Macmillan looks at some of the movers and shakers in 3301. In This first article he examines the life of the popular darling of Imperial politics: Princess Aisling Duval. 
 

@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The eleven megaships coordinating evacuation efforts from Thargoid-invaded systems are set to move over the next few weeks.
 Military analysis of the current front line has highlighted that the distance between active conflict areas and the megaships can be decreased with an acceptably low degree of risk. Vice Admiral Skylar Anderson, part of the Imperial delegation to Aegis, offered this comment:

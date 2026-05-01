@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 A number of media feeds in The core systems have reported the discovery of an abandoned planetary outpost in the Hermitage system. 
 
 The reports, together With images captured by Independent pilots, indicate that the outpost was controlled by the Intergalactic Naval Reserve Arm (INRA), a joint Federal-Imperial initiative established in the 3100s. 

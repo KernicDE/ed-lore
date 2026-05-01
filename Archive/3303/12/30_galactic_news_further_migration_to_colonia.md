@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Although The Thargoid attacks have so Far been confined to the Pleiades Nebula, Many apparently fear that the aliens’ next target will be the core systems. This is evidenced by the huge numbers of citizens fleeing to Colonia. 
 
 The Colonia Council, the region’s governing body, has confirmed that The number of refugees has skyrocketed in recent weeks, and that the recent attacks against starports have only accelerated the rate of immigration. 

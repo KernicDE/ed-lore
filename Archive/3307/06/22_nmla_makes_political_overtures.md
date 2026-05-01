@@ -47,6 +47,7 @@ related_uuids:
 ---
 
 
+
 The Marlinism Reformation Party, Which now represents the Neo-Marlinist fringe, has suggested a peace deal between the NMLA and the Empire.
 Minister Aaron Whyte explained the proposal during a session of the Marlinist Parliament:
 “Via anonymous intermediaries, we have received assurances that the Neo-Marlinist Liberation Army is keen to take advantage of Our representation. I see This as a hugely positive step that will prevent Further conflict.”

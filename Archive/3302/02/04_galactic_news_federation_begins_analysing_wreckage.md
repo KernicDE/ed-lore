@@ -4,8 +4,12 @@ title: Galactic News  Federation Begins Analysing Wreckage
 slug: galactic_news_federation_begins_analysing_wreckage
 date: '3302-02-04'
 source: GitHub
-summary: The Federation announces it has received a sizeable quantity of Starship One debris from the search conducted by pilots. President Hudson thanks the galactic community and warns Daurtu Jet Comms PLC against meddling in Federal affairs. The mysterious organisation received only modest debris despite offering larger rewards.
-player_impact: Pilots delivered thousands of tonnes of Starship One debris to Leoniceno Orbital for Federal analysis.
+summary: The Federation announces it has received a sizeable quantity of Starship
+  One debris from the search conducted by pilots. President Hudson thanks the galactic
+  community and warns Daurtu Jet Comms PLC against meddling in Federal affairs. The
+  mysterious organisation received only modest debris despite offering larger rewards.
+player_impact: Pilots delivered thousands of tonnes of Starship One debris to Leoniceno
+  Orbital for Federal analysis.
 persons:
 - Zachary Hudson
 groups:
@@ -21,7 +25,15 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 47fc5e89-7923-5c13-b489-b820ba458fc9
+- cdf680ca-c0ab-50db-9dff-085f692e72e6
+- 21443853-5371-5291-a9f5-93f79da1d368
+- c0880191-a2cb-5bb5-9248-057bbe5237b6
+- a395a47c-93ef-5a29-90cb-b2e83da399a5
+- f9ac5b30-383e-5f0a-8fc4-c8e3fc9dcb14
 ---
+
 
 Over The past week, Hundreds of pilots have been searching for signs of Starship One, the Federal presidential Vessel that disappeared in May 3301. Two factions had a stake in the search – the Azaleach Partnership, Which was acting on behalf of Federal President Zachary Hudson, and the Daurtu Jet Comms PLC, an organisation about which very little is known. 
 

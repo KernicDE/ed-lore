@@ -4,7 +4,11 @@ title: Alliance Inspector Killed by the League of Reparation
 slug: alliance_inspector_killed_by_the_league_of_reparation
 date: '3304-06-28'
 source: GitHub
-summary: Chief Inspector Kay Kilbride of Alliance Interpol is murdered by the League of Reparation along with four fellow agents. The trap was sprung in an abandoned foundry in New Rossyth on Turner's World after Kilbride acted on false intelligence about a League cell. Captains Niamh Seutonia and Tanya Ramirez mourn her loss and announce Deputy Inspector Mara Klatt will assume the taskforce liaison role.
+summary: Chief Inspector Kay Kilbride of Alliance Interpol is murdered by the League
+  of Reparation along with four fellow agents. The trap was sprung in an abandoned
+  foundry in New Rossyth on Turner's World after Kilbride acted on false intelligence
+  about a League cell. Captains Niamh Seutonia and Tanya Ramirez mourn her loss and
+  announce Deputy Inspector Mara Klatt will assume the taskforce liaison role.
 player_impact: None
 persons:
 - Kay Kilbride
@@ -22,14 +26,19 @@ locations:
 topics:
 - terrorism
 - investigation
-modern_impact: Kilbride's assassination demonstrates the League's capacity for strategic retaliation and raises the stakes for the tri-superpower taskforce investigating the terrorist organisation.
+modern_impact: Kilbride's assassination demonstrates the League's capacity for strategic
+  retaliation and raises the stakes for the tri-superpower taskforce investigating
+  the terrorist organisation.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 1f133226-e32f-5511-9bbd-bffc26348cb3
 - e1242f6c-1a65-52aa-b73b-90d58f8d4086
 - d7ee12d3-53dc-5c8b-80f0-0309a7f56575
+- 2d6c0101-e579-567a-b099-e9c8f5ab2dff
+- 9fd16cfc-fc44-55ca-9deb-4b0129f50261
 ---
+
 
 Chief Inspector Kay Kilbride has been Murdered by terrorist organisation the League of Reparation, along With four Other agents of Alliance Interpol. 
 

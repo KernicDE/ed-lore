@@ -51,6 +51,7 @@ related_uuids:
 ---
 
 
+
 The Azaladshu Free faction, Which controls four systems, has seceded from the Federation in protest against civilian surveillance.
 The unexpected declaration followed the election of new leadership for Azaladshu Free, which currently controls the Azaladshu, LFT 824, LHS 277 and LTT 3919 systems. 
 Mayor Constanza Noguera announced:

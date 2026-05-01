@@ -4,8 +4,11 @@ title: Megaship Materials Boost Alliance Defence Force
 slug: megaship_materials_boost_alliance_defence_force
 date: '3308-08-25'
 source: API
-summary: Sirius Corporation concludes a resource-gathering campaign in Leesti to outfit two sentry megaships with experimental AX weaponry for the Alliance Defence Force, expected operational by September 15th.
-player_impact: Pilots delivered energy grid assemblies, magnetic emitter coils, power transfer buses, and titanium to the Chariot of Rhea in Leesti.
+summary: Sirius Corporation concludes a resource-gathering campaign in Leesti to outfit
+  two sentry megaships with experimental AX weaponry for the Alliance Defence Force,
+  expected operational by September 15th.
+player_impact: Pilots delivered energy grid assemblies, magnetic emitter coils, power
+  transfer buses, and titanium to the Chariot of Rhea in Leesti.
 persons:
 - Delfina Dominguez
 - Nikolas Glass
@@ -21,10 +24,19 @@ topics:
 - engineering
 - war
 arc_id: null
-modern_impact: The megaship initiative demonstrated how the HIP 22460 disaster accelerated the Alliance's military dependence on Sirius Corporation, with corporate logistics directly shaping Allied defence architecture.
+modern_impact: The megaship initiative demonstrated how the HIP 22460 disaster accelerated
+  the Alliance's military dependence on Sirius Corporation, with corporate logistics
+  directly shaping Allied defence architecture.
 legacy_weight: 4
 significance: medium
+related_uuids:
+- 9513b10c-ee1c-5ada-a417-ddd9b005dab0
+- bb0a8874-54a5-529d-91a6-691c8859ac57
+- 7cc33ea4-c770-5e4b-8a0e-bd75d0d19c24
+- c896dd55-b9b3-5552-9038-07a79049f0bb
+- bb92f6c0-0def-564c-9b52-f2f1c75fc853
 ---
+
 
 **Pilots’ Federation ALERT**
 Sirius Corporation has gathered resources in the Leesti system to help improve the Alliance’s anti-xeno defences.

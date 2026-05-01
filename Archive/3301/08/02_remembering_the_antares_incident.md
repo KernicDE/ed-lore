@@ -30,7 +30,9 @@ significance: medium
 related_uuids:
 - 48fc993c-e405-5490-ae64-22990bfd99a2
 - a4d0725f-c5fc-58fb-acec-a046c97d76a4
+- 49a47621-2251-5f4e-a822-09e716459bdf
 ---
+
 
 
 Continuing GalNet’s exclusive series highlighting key events in human history, historian Sima Kalhana remembers the Antares Incident. 

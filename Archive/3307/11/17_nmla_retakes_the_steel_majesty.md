@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 A former Neo-Marlinist megaship has been overrun by NMLA terrorists in The Hyades Sector RO-P b6-2 system.
 The Steel Majesty was originally owned by the Neo-Marlinist Order of Mudhrid, One of the NMLA’s key allies. After their defeat, it ferried Many of them to the Marlinist Colonies where they were granted asylum by Minister Aaron Whyte. His faction then made use of the megaship during the civil war in August.
 Minister Jean-Christophe Lyon, the current leader of the Marlinism Reformation Party, gave a statement:

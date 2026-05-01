@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 As the Thargoid offensive Continues, Authorities in Colonia have decided to step up security by building a new security installation in The region. 
 
 A spokesperson for the Colonia Council, Which is overseeing the initiative, gave The following statement: 

@@ -4,8 +4,13 @@ title: Ram Tah Rejects Sirius Corp
 slug: ram_tah_rejects_sirius_corp
 date: '3304-11-02'
 source: GitHub
-summary: Engineer Ram Tah rejects an offer from the Sirius Corporation to support manufacture of Guardian-human technology. Ram Tah states the technologies are too important to become corporate products and that using tech brokers allows wider availability. Aegis has reduced tech broker costs, making Guardian-human fighters and systems more affordable. Li Yong-Rui says his offer remains open.
-player_impact: Guardian-human technology remains available through tech brokers at reduced costs thanks to Aegis support.
+summary: Engineer Ram Tah rejects an offer from the Sirius Corporation to support
+  manufacture of Guardian-human technology. Ram Tah states the technologies are too
+  important to become corporate products and that using tech brokers allows wider
+  availability. Aegis has reduced tech broker costs, making Guardian-human fighters
+  and systems more affordable. Li Yong-Rui says his offer remains open.
+player_impact: Guardian-human technology remains available through tech brokers at
+  reduced costs thanks to Aegis support.
 persons:
 - Ram Tah
 - Li Yong-Rui
@@ -17,7 +22,9 @@ topics:
 - corporate expansion
 - engineering
 - xenoarchaeology
-modern_impact: Ram Tah's rejection of Sirius Corporation's offer preserves open access to Guardian technology through tech brokers, preventing corporate monopoly of ancient alien-derived systems.
+modern_impact: Ram Tah's rejection of Sirius Corporation's offer preserves open access
+  to Guardian technology through tech brokers, preventing corporate monopoly of ancient
+  alien-derived systems.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -25,7 +32,9 @@ related_uuids:
 - db332136-804c-58df-89f9-2ab0eef65d11
 - 30995800-a980-5b52-889e-1809f4bc9cee
 - 5ce245a3-6cab-529d-81eb-e7015b0bbe28
+- e1421cb3-0c7c-57f0-a55b-7a93b5f624f2
 ---
+
 
 The engineer Ram Tah has rejected an offer from the Sirius Corporation to support the manufacture of Guardian-human technology. 
 

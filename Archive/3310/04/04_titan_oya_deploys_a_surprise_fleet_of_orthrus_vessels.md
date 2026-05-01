@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 The Titan known as Oya appears to have deployed a large fleet of Orthrus vessels into star systems farther from their own territory breaking expected behaviour.
 Analysts noted that the locations in which Orthrus vessels have been tracked didn’t appear to have any particular importance, instead suggesting that this may be a new tactic or possibly a simple panic response to the mounting pressure on its fleet.
 Titan Oya has been steadily losing territory to large numbers of AX-equipped human forces. These forces, spearheaded by coalitions known as ‘AXI’ and ‘XSF’ have been reclaiming ground from the Titans successfully for some time and were pivotal in the recent successful campaigns against the now-destroyed Titans, Taranis and Leigong.

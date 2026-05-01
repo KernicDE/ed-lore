@@ -38,6 +38,7 @@ related_uuids:
 
 
 
+
 The Federal Attorney’s Office has called for the conviction of former admiral Aden Tanner to be reviewed in light of events in HIP 22460.
 Following a distinguished career in the Federal Navy, Tanner served as the chief military liaison for Aegis. In November 3307, while in command of the Aegis Defense megaship Musashi, he attempted to take control of Hind Mine starport. He believed it held evidence that Salvation intentionally attracted the Thargoids to the Cornsar system in order to test his superweapon.
 Tanner’s attack failed and the Musashi was overtaken, largely due to superior numbers of independent pilots supporting the former Taurus Mining Ventures, now Azimuth Biotech. He was court martialled, dishonourably discharged, and found guilty of mutiny and unlawful military action. But his sentencing was postponed by request of Fleet Admiral Tayo Maikori, who considered Tanner’s intel to be crucial to his own investigation into Salvation.

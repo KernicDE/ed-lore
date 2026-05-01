@@ -50,6 +50,7 @@ related_uuids:
 ---
 
 
+
 The Alliance, Empire and Federation have created a centralised agency dedicated to investigating and eliminating the NMLA paramilitary group.
 The new Affiliated Counter-Terrorism unit (ACT) is a direct result of the Cornelius-Lasky Convention, Which was signed at the Galactic Summit.
 This treaty requires the superpowers to share information on any large-scale threats to civilian populations. With a combined death toll rising over half a million, the recent starport bombings have obtained such status.

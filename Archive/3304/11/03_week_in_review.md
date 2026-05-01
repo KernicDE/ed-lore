@@ -4,7 +4,12 @@ title: Week in Review
 slug: week_in_review
 date: '3304-11-03'
 source: GitHub
-summary: Weekly summary covering the conclusion of the Fazia Silva homicide investigation with no convictions and Tashmira Silva assuming control of her sister's empire, the rise of Nova Imperium as a political force in the Empire, Ram Tah's rejection of Sirius Corporation's offer for Guardian technology, the FSS termination of the Mars Tribune spy robot investigation, the outbreak of war between Geras First and Ndozins State Inc, and Senator Caspian Leopold's completed aid appeal in Niflhel.
+summary: Weekly summary covering the conclusion of the Fazia Silva homicide investigation
+  with no convictions and Tashmira Silva assuming control of her sister's empire,
+  the rise of Nova Imperium as a political force in the Empire, Ram Tah's rejection
+  of Sirius Corporation's offer for Guardian technology, the FSS termination of the
+  Mars Tribune spy robot investigation, the outbreak of war between Geras First and
+  Ndozins State Inc, and Senator Caspian Leopold's completed aid appeal in Niflhel.
 player_impact: None
 persons:
 - Caspian Leopold
@@ -33,7 +38,9 @@ topics:
 - politics
 - war
 - xenoarchaeology
-modern_impact: This week sees major developments across all three superpowers, from unresolved political assassinations to the rise of isolationist movements and corporate attempts to control advanced technology.
+modern_impact: This week sees major developments across all three superpowers, from
+  unresolved political assassinations to the rise of isolationist movements and corporate
+  attempts to control advanced technology.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -43,6 +50,7 @@ related_uuids:
 - 03f0c663-1539-570c-83d1-603b698b9946
 - 142a166a-07ef-56ac-989c-e35eaa8946e9
 ---
+
 
 Here are This week’s major stories. 
 

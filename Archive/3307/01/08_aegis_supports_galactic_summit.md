@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 The organisation Aegis has expressed support for Utopia’s offer to host a Galactic Summit for All three superpowers.
 Aegis was jointly formed by the Alliance, Empire and Federation to study the Thargoids, and develop new methods of monitoring and combating their forces.
 Professor Alba Tesreau, head of research at Aegis, gave This statement:

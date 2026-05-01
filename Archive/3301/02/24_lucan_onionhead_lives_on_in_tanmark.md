@@ -31,7 +31,10 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - 8a13b80f-4222-50f5-becf-48fb8fe2d4ee
+- 7d696eb7-feeb-554b-ad2b-d688cec5e6ac
+- 84ca53c1-d115-56ba-9dd0-92bb9a471475
 ---
+
 
 
 The Defence Force of Tanmark, in association With the Farmers Union of Kappa Fornacis, is pleased to announce The success of their initiative to increase the local production of Lucan Onionhead. 

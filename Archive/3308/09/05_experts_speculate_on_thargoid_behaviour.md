@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 The Thargoids’ resistance to the Proteus Wave in HIP 22460 has prompted discussion among academics in the field of xenology.
 Professor Shamus Madigan of Olympus Village University published a paper in the scientific journal The Empirical, which included this extract:
 “The Thargoids newly observed defence against a man-made superweapon, and their subsequent aggression, suggests a direct response to our tactics. Not only have they upgraded their technology, but also their behaviour has altered. Humanity is now a problem that must be dealt with.”

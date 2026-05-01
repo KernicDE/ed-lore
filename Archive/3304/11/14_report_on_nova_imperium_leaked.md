@@ -4,7 +4,11 @@ title: Report on Nova Imperium Leaked
 slug: report_on_nova_imperium_leaked
 date: '3304-11-14'
 source: GitHub
-summary: An Imperial Internal Security Service report on Nova Imperium is leaked to the Rewired news service. The report identifies the Imperator as Duke Kaeso Mordanticus, a former naval admiral from a decorated military family. It confirms Mordanticus maintains contacts and influence in the Imperial Navy, with Nova Imperium ships mostly crewed by ex-naval personnel loyal to their former commander.
+summary: An Imperial Internal Security Service report on Nova Imperium is leaked to
+  the Rewired news service. The report identifies the Imperator as Duke Kaeso Mordanticus,
+  a former naval admiral from a decorated military family. It confirms Mordanticus
+  maintains contacts and influence in the Imperial Navy, with Nova Imperium ships
+  mostly crewed by ex-naval personnel loyal to their former commander.
 player_impact: None
 persons:
 - Kaeso Mordanticus
@@ -16,7 +20,9 @@ locations: []
 topics:
 - politics
 - investigation
-modern_impact: The leak exposes Nova Imperium's deep connections to the Imperial Navy, transforming the group from a political curiosity into a potential military threat with trained naval personnel and veteran leadership.
+modern_impact: The leak exposes Nova Imperium's deep connections to the Imperial Navy,
+  transforming the group from a political curiosity into a potential military threat
+  with trained naval personnel and veteran leadership.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -24,6 +30,7 @@ related_uuids:
 - a8a1e1f9-1003-5fec-a6c4-896e1bb496f4
 - 022febc0-0bac-50a9-ab0b-92002fcb91eb
 ---
+
 
 A report compiled by The Imperial Internal Security Service on isolationist group Nova Imperium has been leaked.  
 

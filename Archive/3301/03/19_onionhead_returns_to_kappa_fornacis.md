@@ -29,7 +29,11 @@ significance: medium
 related_uuids:
 - 250efdcd-316b-51d1-9cd6-89748b83732b
 - 35957033-efef-5286-98b7-996956b0122b
+- 7d696eb7-feeb-554b-ad2b-d688cec5e6ac
+- 87f07cae-db7b-524b-97d1-722b513e627e
+- dd792af2-b24a-5dfb-bd17-8c3d5a502979
 ---
+
 
 
 The Kappa Fornacis Farmers Union appears to be up to Its old tricks again, as news has started to come out of The region that Onionhead is once again available in the ports around Panem. 

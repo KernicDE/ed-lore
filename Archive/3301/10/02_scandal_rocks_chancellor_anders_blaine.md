@@ -33,7 +33,11 @@ significance: high
 related_uuids:
 - 66b52278-c781-51c6-9fa2-3df210c10f61
 - f5890d11-70d4-5eec-a1d0-76d4d9761389
+- af57d372-7f3e-541e-a133-0d7ca34b5d2a
+- 680cc302-2940-5f36-9420-81443a849e39
+- e1c00d63-fa8e-50fc-bdfc-39fa5b4746bc
 ---
+
 
 
 Little has been heard from Princess Aisling Duval since it was revealed that One of her key advisors, Patron Damon Clarke, was connected to Emperor's Dawn. She has reportedly cooperated With both The Senate and IISS investigations into The allegations, and has vehemently denied any prior knowledge of the link. 

@@ -35,7 +35,12 @@ significance: medium
 related_uuids:
 - 467fc0af-ef15-512b-bf06-208013e72902
 - 7d013785-9418-5c04-8446-8e8dca9a7e51
+- 50cc2603-0e0e-5a65-959a-167768911425
+- df1ccc53-abbd-5e33-ad74-afda1febde98
+- 9f8a71d4-e5b2-5d70-8887-897ae3a03eb6
+- dddd383c-b1c9-56c7-8e61-ee15540c13bd
 ---
+
 
 
 During a press conference in Alioth earlier today, Prime Minister Edmund Mahon has expressed his gratitude towards The Independent pilots who supported his initiative to strengthen The economical bonds With the Old Worlds in The Lave cluster. Mahon assured his declared intention to keep the cluster open for traders of all affiliations and has announced an open trade agreement that will grant any trader safe passage. 

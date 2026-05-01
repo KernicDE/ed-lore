@@ -31,7 +31,9 @@ significance: high
 related_uuids:
 - d1538fbe-546e-59a6-8694-02b41e864385
 - fc7dd198-5a33-5e3f-9716-f1a7592d1506
+- cd35a3ab-87b8-5fc5-afe5-cb06f61f8236
 ---
+
 
 
 Speaking from The Canonn Interstellar Research Institute, Dr Arcanonn has commented on the current state of barnacle research and lauded the discovery of harvesting sites in the California Nebula: 

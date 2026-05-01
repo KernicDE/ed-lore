@@ -4,8 +4,11 @@ title: A New Dawn for Humanity?
 slug: a_new_dawn_for_humanity
 date: '3310-11-07'
 source: API
-summary: Political analysts assess the post-Thargoid war balance of power across the core systems, with Winters facing domestic challenges, Arissa and Patreus strengthened in the Empire, and Mahon facing opposition from Kaine in the Alliance.
-player_impact: Not specifically mentioned — this is a political analysis piece summarising post-war power dynamics.
+summary: Political analysts assess the post-Thargoid war balance of power across the
+  core systems, with Winters facing domestic challenges, Arissa and Patreus strengthened
+  in the Empire, and Mahon facing opposition from Kaine in the Alliance.
+player_impact: Not specifically mentioned — this is a political analysis piece summarising
+  post-war power dynamics.
 persons:
 - Jean-Daniel Moulin
 - Cassia Carvalho
@@ -36,10 +39,23 @@ topics:
 - war
 entities: []
 arc_id: null
-modern_impact: Moulin's observation that Archer 'stands opposite her in Congress, ready to pounce on any signs of weakness' foreshadows Archer's aggressive expansion into Federal territory in 3311. Carvalho's prediction that Torval 'seems poised to assume the position of Chancellor' will be tested in the coming months. Driscoll's framing of Kaine's dissent around the Sirius pact directly predicts the May 3311 Alliance Assembly vote to end the pact.
+modern_impact: Moulin's observation that Archer 'stands opposite her in Congress,
+  ready to pounce on any signs of weakness' foreshadows Archer's aggressive expansion
+  into Federal territory in 3311. Carvalho's prediction that Torval 'seems poised
+  to assume the position of Chancellor' will be tested in the coming months. Driscoll's
+  framing of Kaine's dissent around the Sirius pact directly predicts the May 3311
+  Alliance Assembly vote to end the pact.
 legacy_weight: 5
 significance: high
+related_uuids:
+- e0b48359-9e1e-557a-b290-f47faa8356bb
+- 42255e4f-788f-5ba1-b12d-b1209e5ee2ba
+- 3dabc3ec-5fc0-5b40-91a9-5028ddd79163
+- 16e19a12-9891-53fc-b098-58c5903c858b
+- f343aeeb-2dc6-56ba-8f0f-e1f004053acc
+- 952d5b46-745c-57fb-bc9a-1458b6d1323a
 ---
+
 
 With the Thargoid invasion force seemingly on the edge of defeat, political analysts have presented several arguments for what follows.
 The potential balance of power across the core systems will be heavily influenced by the ambitions of its primary players – perhaps crucially in the Federation, claims Jean-Daniel Moulin:

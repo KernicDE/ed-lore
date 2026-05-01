@@ -33,7 +33,9 @@ significance: high
 related_uuids:
 - 160cfdac-9ea2-5593-9928-46201603286c
 - eb197653-a8c9-5ef5-b2eb-b4467117f644
+- e9eb0977-26e1-5a3d-9b2c-55d6d8b4d846
 ---
+
 
 
 Exploration activity has been brought to a near standstill after a data-encrypting firmware bug threatened to compromise recently acquired astronomical data. A spokesperson for Universal Cartographics released The following statement: 

@@ -32,7 +32,11 @@ related_uuids:
 - 0f01426c-a180-522b-9e1c-2226d9be75e7
 - 1c3d154f-c7fd-533d-b700-1ce942b570c2
 - 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
+- 90f47201-f1b3-537a-8c1f-fc6e092fa724
+- 7aaf4cac-767f-5e4b-b085-e5bc94a6c913
+- 02c79e14-bd50-5a4a-b85d-2e25fa40eba1
 ---
+
 
 
 **Pilots’ Federation ALERT**

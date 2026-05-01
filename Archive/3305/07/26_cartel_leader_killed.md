@@ -4,7 +4,8 @@ title: Cartel Leader Killed
 slug: cartel_leader_killed
 date: '3305-07-26'
 source: GitHub
-summary: Red Family co-founder Jan Sandoval is found dead in FIA custody from an undetected neurotoxin, believed to be an assassination orchestrated by surviving cartel elements.
+summary: Red Family co-founder Jan Sandoval is found dead in FIA custody from an undetected
+  neurotoxin, believed to be an assassination orchestrated by surviving cartel elements.
 player_impact: None — background criminal investigation report.
 persons:
 - Viola Trask
@@ -16,12 +17,16 @@ locations:
 topics:
 - crime
 - investigation
-modern_impact: Sandoval's assassination in a supposedly secure FIA safe house exposed the reach and ruthlessness of the Red Family cartel, even as its leadership was being dismantled.
+modern_impact: Sandoval's assassination in a supposedly secure FIA safe house exposed
+  the reach and ruthlessness of the Red Family cartel, even as its leadership was
+  being dismantled.
 legacy_weight: 2
 significance: medium
 related_uuids:
 - 5cc87a22-66b8-5398-8bb0-4af0cfef285c
+- b1b2c40b-ce1d-5074-bb05-5b5c81780068
 ---
+
 
 Jan Sandoval, co-founder of The Red Family cartel, has died while in the custody of the Federal Intelligence Agency. 
 

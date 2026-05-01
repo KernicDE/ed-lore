@@ -4,8 +4,14 @@ title: New Combat Fighter from Gutamaya Shipyards
 slug: new_combat_fighter_from_gutamaya_shipyards
 date: '3301-09-10'
 source: GitHub
-summary: Gutamaya Shipyards unveiled the Imperial Eagle, a successor to the Eagle Mk II. While slightly less maneuverable, it outclasses its predecessor in speed (300 top, 400 boost), armor, shields, and firepower, replacing the small hardpoint with a medium. Manufactured for the Imperial Navy, it requires Outsider rank or above and retails at 110,825 CR.
-player_impact: Imperial Navy pilots of Outsider rank or higher can purchase the Imperial Eagle, a sleeker and more powerful combat fighter than the Eagle Mk II, trading some agility for superior speed and firepower.
+summary: Gutamaya Shipyards unveiled the Imperial Eagle, a successor to the Eagle
+  Mk II. While slightly less maneuverable, it outclasses its predecessor in speed
+  (300 top, 400 boost), armor, shields, and firepower, replacing the small hardpoint
+  with a medium. Manufactured for the Imperial Navy, it requires Outsider rank or
+  above and retails at 110,825 CR.
+player_impact: Imperial Navy pilots of Outsider rank or higher can purchase the Imperial
+  Eagle, a sleeker and more powerful combat fighter than the Eagle Mk II, trading
+  some agility for superior speed and firepower.
 groups:
 - Gutamaya Shipyards
 - Imperial Navy
@@ -18,7 +24,16 @@ technologies:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 9e750763-9346-5d86-907c-9b475b25570b
+- 1813d631-33ed-5369-bbd2-74800ea6f185
+- 01e57bf3-c99c-514b-95b3-493716686774
+- fac79d14-4378-58ac-ac60-24bfc401a487
+- 641891f3-9ec4-5368-96af-a61a32f43675
+- e9eb0977-26e1-5a3d-9b2c-55d6d8b4d846
+- f2361796-acc5-5aa3-ad37-58d01d89aacf
 ---
+
 
 One of The defining characteristics of The Eagle Mk II is Its peerless manoeuvrability, so when it was announced that the successor to the popular fighter would be less manoeuvrable than the ship it was replacing, eyebrows were raised. It seems, however, that there was little cause for concern, as while the new Eagle doesn’t quite rival Its predecessor in terms of agility, it outclasses it in virtually all Other respects. 
 

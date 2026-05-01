@@ -4,7 +4,9 @@ title: Alliance Reviews Sirius Defence Pact
 slug: alliance_reviews_sirius_defence_pact
 date: '3309-11-20'
 source: API
-summary: The Alliance Assembly approves a formal evaluation of the Sirius defence pact, with Kaine attacking Sirius's failures and Glass defending their behind-the-scenes work.
+summary: The Alliance Assembly approves a formal evaluation of the Sirius defence
+  pact, with Kaine attacking Sirius's failures and Glass defending their behind-the-scenes
+  work.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Nakato Kaine
@@ -21,13 +23,20 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Kaine's litany of failures — 'capital ships promised... remain on the drawing board', 'Sirius Navy isn't even engaging' — is a comprehensive indictment. Glass's defence — 'Sirius technicians have retrofitted many ageing ADF ships' — is underwhelming. The Old Worlds Gazette's observation that 'Operation Tyndareus... was over a year ago' underscores the pact's declining returns. Mahon's political pressure to 'abandon his commitment to Sirius' frames the personal cost.
+modern_impact: Kaine's litany of failures — 'capital ships promised... remain on the
+  drawing board', 'Sirius Navy isn't even engaging' — is a comprehensive indictment.
+  Glass's defence — 'Sirius technicians have retrofitted many ageing ADF ships' —
+  is underwhelming. The Old Worlds Gazette's observation that 'Operation Tyndareus...
+  was over a year ago' underscores the pact's declining returns. Mahon's political
+  pressure to 'abandon his commitment to Sirius' frames the personal cost.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 52e15d2f-c860-504f-a2e4-4e54c31cb388
 - d9d11a81-06c0-59f1-af71-a3c4c5194f5c
+- 87bfa62f-1991-5f20-88d3-0bd0d7d797bc
 ---
+
 
 The Alliance Assembly has approved a formal evaluation of its strategic defence pact with Sirius Corporation.
 The vote to launch an independent inquiry was led by Councillor Nakato Kaine, who summarised:

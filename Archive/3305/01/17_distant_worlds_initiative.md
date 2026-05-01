@@ -4,8 +4,11 @@ title: Distant Worlds Initiative
 slug: distant_worlds_initiative
 date: '3305-01-17'
 source: GitHub
-summary: The Omega Mining Corporation requests indite, gallite, praseodymium and cobalt deliveries to build an Orbis starport in the Galactic Centre as part of the Distant Worlds II expedition.
-player_impact: Pilots could deliver raw materials to Omega Mining Operation in Omega Sector VE-Q b5-15 and earn bounties on wanted vessels.
+summary: The Omega Mining Corporation requests indite, gallite, praseodymium and cobalt
+  deliveries to build an Orbis starport in the Galactic Centre as part of the Distant
+  Worlds II expedition.
+player_impact: Pilots could deliver raw materials to Omega Mining Operation in Omega
+  Sector VE-Q b5-15 and earn bounties on wanted vessels.
 persons:
 - Erimus Kamzel
 groups:
@@ -20,13 +23,17 @@ topics:
 - exploration
 - research
 - trade
-modern_impact: The initiative represented the first attempt to construct permanent civilian infrastructure in the Galactic Centre, paving the way for sustained scientific observation of the supermassive black hole.
+modern_impact: The initiative represented the first attempt to construct permanent
+  civilian infrastructure in the Galactic Centre, paving the way for sustained scientific
+  observation of the supermassive black hole.
 legacy_weight: 4
 significance: high
 related_uuids:
 - c050ca44-905b-5a94-881f-9d01ab11287e
 - 18391d47-7d7f-5403-92e1-d6f8153a3112
+- bed394ac-3331-5d0f-94b4-06038a6cf607
 ---
+
 
 The Omega Mining Corporation has requested deliveries of raw materials for a new Orbis starport, to be built in the heart of the galaxy. 
 

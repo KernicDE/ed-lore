@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Professor Cora Shaw, director of the Palin Institute, has published a paper speculating on the origin of the Thargoids. 
 
 Extracts from her paper are reprinted below: 

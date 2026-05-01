@@ -4,8 +4,13 @@ title: Battle Commences in Wally Bei System
 slug: battle_commences_in_wally_bei_system
 date: '3304-12-13'
 source: GitHub
-summary: Conflict erupts between Wally Bei Technical and the Traditional Wally Bei Constitution Party in the Wally Bei system. Wally Bei Technical accuses its rival of transporting stolen food shipments, which the Constitution Party denies as slander. Both factions call for independent combat pilot support with week-long operations beginning December 13th.
-player_impact: Independent combat pilots can support either Wally Bei Technical or the Traditional Wally Bei Constitution Party and earn rewards.
+summary: Conflict erupts between Wally Bei Technical and the Traditional Wally Bei
+  Constitution Party in the Wally Bei system. Wally Bei Technical accuses its rival
+  of transporting stolen food shipments, which the Constitution Party denies as slander.
+  Both factions call for independent combat pilot support with week-long operations
+  beginning December 13th.
+player_impact: Independent combat pilots can support either Wally Bei Technical or
+  the Traditional Wally Bei Constitution Party and earn rewards.
 persons: []
 groups:
 - Wally Bei Technical
@@ -14,12 +19,15 @@ locations:
 - Wally Bei
 topics:
 - war
-modern_impact: Local faction conflicts continue to demonstrate how disputes over trade and resources escalate into open warfare, drawing independent pilots into proxy battles.
+modern_impact: Local faction conflicts continue to demonstrate how disputes over trade
+  and resources escalate into open warfare, drawing independent pilots into proxy
+  battles.
 legacy_weight: 2
 significance: low
 related_uuids:
 - a5898a31-6034-573a-9534-7e6f59052202
 ---
+
 
 Conflict has erupted between two opposing factions in The Wally Bei system. 
 

@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Renowned war correspondent Jade Sanderlyn provides her regular summary of the latest news regarding the Thargoid conflict.
 “It is now a whole year since the Thargoid Titans arrived and unleashed their fleets upon us. It’s pleasing to report that humanity’s resistance remains strong. New invasions are rare, and Thargoid vessels are being driven out of occupied systems. Nobody is under any illusions that this war might end soon, and it remains to be seen how the Thargoids adapt to the current situation. But among independent pilots and anti-xeno squadrons, morale is high – as it absolutely deserves to be.”
 “The Thargoid spire sites have also brought cause for cautious optimism. Having received huge volumes of samples for testing, Ishmael Palin proved that spire compounds and Titan hull fragments share genetic commonalities. Whatever these eerie alien growths are, evidence is growing that their industrial processes are related to the Thargoid motherships in some way.”

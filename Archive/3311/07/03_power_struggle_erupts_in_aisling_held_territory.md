@@ -4,8 +4,13 @@ title: Power Struggle Erupts in Aisling Held Territory
 slug: power_struggle_erupts_in_aisling_held_territory
 date: '3311-07-03'
 source: API
-summary: A three-way conflict erupted in Aisling Duval's territory after her Aegis departure, with Jerome Archer launching Federal operations, Sirius Corporation offering corporate administration, and both deploying black operations megaships. Senator Zemina Torval called it 'a predictable failure.'
-player_impact: Independent pilots were asked to support three separate initiatives — Imperial defenders, Federal aggressors, and corporate opportunists — with conflict zones at enemy outposts.
+summary: A three-way conflict erupted in Aisling Duval's territory after her Aegis
+  departure, with Jerome Archer launching Federal operations, Sirius Corporation offering
+  corporate administration, and both deploying black operations megaships. Senator
+  Zemina Torval called it 'a predictable failure.'
+player_impact: Independent pilots were asked to support three separate initiatives
+  — Imperial defenders, Federal aggressors, and corporate opportunists — with conflict
+  zones at enemy outposts.
 persons:
 - Aisling Duval
 - Jerome Archer
@@ -21,12 +26,18 @@ topics:
 - war
 technologies:
 - black operations megaships
-modern_impact: The deployment of black operations megaships represents a new form of power projection blending military and corporate warfare. Li Yong-Rui's pitch for a 'corporate-administered model' foreshadows Sirius Corporation's broader post-pact expansion strategy after the Alliance-Sirius defence pact ends in May 3311. Aisling's framing of the conflict as 'Imperial conviction' versus opportunism becomes her rallying cry for the August surge.
+modern_impact: The deployment of black operations megaships represents a new form
+  of power projection blending military and corporate warfare. Li Yong-Rui's pitch
+  for a 'corporate-administered model' foreshadows Sirius Corporation's broader post-pact
+  expansion strategy after the Alliance-Sirius defence pact ends in May 3311. Aisling's
+  framing of the conflict as 'Imperial conviction' versus opportunism becomes her
+  rallying cry for the August surge.
 legacy_weight: 1
 significance: low
 related_uuids:
 - b1d5ebc8-530e-5991-8b3d-a83858becd00
 ---
+
 
 Tensions have erupted between Imperial, Federal, and corporate interests in a contested region of space currently controlled by Princess Aisling Duval.
 Following her recent departure from Aegis, Princess Aisling has faced quiet criticism within Imperial circles for allowing her domestic influence to weaken. Analysts suggest her extended focus on humanitarian and scientific pursuits left key territories vulnerable to influence by rival powers.

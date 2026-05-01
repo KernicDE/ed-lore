@@ -4,7 +4,9 @@ title: Vitadyne Nanomedicines Prompt Ethical Dilemma
 slug: vitadyne_nanomedicines_prompt_ethical_dilemma
 date: '3305-01-12'
 source: GitHub
-summary: 'The IHO reviews Vitadyne Labs''s nanomedicines amid an ethical debate: should revolutionary healthcare technology be freely distributed despite Utopia''s ownership claims, or will corporate profit motives limit access to the wealthy?'
+summary: 'The IHO reviews Vitadyne Labs''s nanomedicines amid an ethical debate: should
+  revolutionary healthcare technology be freely distributed despite Utopia''s ownership
+  claims, or will corporate profit motives limit access to the wealthy?'
 player_impact: None — background ethical debate.
 persons:
 - Himari Grey
@@ -19,14 +21,18 @@ topics:
 - medicine
 - corporate expansion
 - ethics
-modern_impact: The Vitadyne nanomed dilemma exposed the tension between proprietary Utopian technology and galactic healthcare needs, with the IHO's eventual ruling favouring commercial distribution over communal ownership.
+modern_impact: The Vitadyne nanomed dilemma exposed the tension between proprietary
+  Utopian technology and galactic healthcare needs, with the IHO's eventual ruling
+  favouring commercial distribution over communal ownership.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - caceea7a-de65-5bf6-9d01-15ae06646314
 - 0a245776-7f87-5585-9289-94a24fd31183
 - 35fa328d-8c20-51c9-804f-2563d86c1853
+- 06fb8aad-3e44-5874-9abc-b26b9a83c1f2
 ---
+
 
 The Interstellar Health Organisation (IHO) is currently reviewing Vitadyne Labs's nanomedicines, Which the company has admitted are based on advanced technology developed by Utopia. 
 

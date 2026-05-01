@@ -29,7 +29,9 @@ significance: medium
 related_uuids:
 - 6cb9cc20-5e96-5ba6-9826-7863853ee7a3
 - db64d9bc-0b05-540c-8b4a-bb5c228f4b93
+- 12f4da65-9c2d-59ce-963c-ee406bf4c1b7
 ---
+
 
 
 Last week, The Explorers' Association announced plans to construct a starport in the Pleiades Nebula, and issued an appeal for resources. The response to the request was positive and work on the station superstructure is now underway. With the project poised to enter Its second phase, the Explorers' Association has issued another request, This time for assistance of a more practical kind: 

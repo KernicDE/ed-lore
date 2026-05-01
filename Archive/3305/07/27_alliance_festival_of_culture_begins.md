@@ -29,7 +29,13 @@ significance: medium
 related_uuids:
 - 3c4ff651-4153-5811-ba1a-9b2f43fac48a
 - 62c50540-1db5-5850-be0b-5a7cb2b2c201
+- dc3245e0-532c-5d04-aaa2-099fe3fcdb91
+- d75ed40e-ae55-56fe-8ab3-f318650a324c
+- a95454a8-e427-5965-a4f1-4e5d8c5a7beb
+- bd4d913a-752f-524b-954d-6f8698c5d8c4
+- 6e6090d1-139b-5004-a848-d5d380a0c6d0
 ---
+
 
 
 Prime Minister Edmund Mahon has announced The start of the Alliance Festival of Culture, a series of events taking place across seven systems. 

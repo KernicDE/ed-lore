@@ -32,7 +32,9 @@ related_uuids:
 - 918087f0-e635-591b-bc74-a1742da82b05
 - b639bbd6-4ffb-5d89-a8f6-8ac3f81ab73c
 - cbc7e2da-9850-584f-8605-72985e7a7a9c
+- c8748b5c-ead9-5303-92b2-5cb20d64e511
 ---
+
 
 
 Mystery surrounds the unexpected disappearance of Seo Jin-ae, who has reportedly departed the facility she’d been staying at.

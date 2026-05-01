@@ -4,7 +4,12 @@ title: Cordova Group Linked to Spy Robots
 slug: cordova_group_linked_to_spy_robots
 date: '3304-11-15'
 source: GitHub
-summary: The Federal Times reveals a direct connection between the Cordova Group and the spy robot scandal. An anonymous Achilles Corporation robotics engineer claims she was blackmailed by Mars Tribune owner Kingsley Cordova into installing surveillance programs on PA912 robots belonging to well-known people in the Sol system. Achilles Corporation releases a coreware update with a kill switch to delete the spy program from all affected robots.
+summary: The Federal Times reveals a direct connection between the Cordova Group and
+  the spy robot scandal. An anonymous Achilles Corporation robotics engineer claims
+  she was blackmailed by Mars Tribune owner Kingsley Cordova into installing surveillance
+  programs on PA912 robots belonging to well-known people in the Sol system. Achilles
+  Corporation releases a coreware update with a kill switch to delete the spy program
+  from all affected robots.
 player_impact: None
 persons:
 - Kingsley Cordova
@@ -20,7 +25,9 @@ locations:
 topics:
 - scandal
 - corporate expansion
-modern_impact: The direct link between Cordova and the spy robots confirms large-scale corporate blackmail and surveillance, prompting Achilles to remotely purge the malicious software from all affected robots.
+modern_impact: The direct link between Cordova and the spy robots confirms large-scale
+  corporate blackmail and surveillance, prompting Achilles to remotely purge the malicious
+  software from all affected robots.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -28,7 +35,9 @@ related_uuids:
 - c6c25c0b-245e-5a2c-ac07-b80f49ac7246
 - c5cb5bec-f7cd-563c-9c57-d8f5ede49843
 - 974273ae-d811-56a4-91c7-d562bba2149a
+- 8cc43f3f-da2a-5399-af1a-6a0bd65d1bab
 ---
+
 
 The Federal Times has revealed a connection between the Cordova Group and the spy robots scandal. 
 

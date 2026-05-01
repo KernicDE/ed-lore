@@ -4,8 +4,11 @@ title: Faction Issues Festive Request
 slug: faction_issues_festive_request
 date: '3301-12-17'
 source: GitHub
-summary: The Hel Purple Energy Industry requests Crystalline Spheres from Snow Moon in the Bento system to commemorate the winter solstice festival, offering pilots a week-long delivery contract.
-player_impact: Deliver Crystalline Spheres from Snow Moon in the Bento system to Hel to participate in the winter solstice appeal.
+summary: The Hel Purple Energy Industry requests Crystalline Spheres from Snow Moon
+  in the Bento system to commemorate the winter solstice festival, offering pilots
+  a week-long delivery contract.
+player_impact: Deliver Crystalline Spheres from Snow Moon in the Bento system to Hel
+  to participate in the winter solstice appeal.
 persons: []
 groups:
 - Hel Purple Energy Industry
@@ -17,10 +20,16 @@ topics:
 - festival
 - trade
 technologies: []
-modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 7baf50b7-63f7-54db-9bd2-ede23c48fc8f
+- 9153a255-a462-5853-b473-088b4b17fa54
+- b9f77109-adce-5a17-acb2-305ad4aa39d2
 ---
+
 
 Despite sharing a standard galactic calendar, most human societies prefer to mark The passage of days and years in relation to the stars of their home systems. But a large proportion of the galaxy's human population still observe some shared traditions, despite those traditions being rooted in the seasons of a planet Many have never even visited. Of these, winter solstice festivals are perhaps the most prevalent. 
 

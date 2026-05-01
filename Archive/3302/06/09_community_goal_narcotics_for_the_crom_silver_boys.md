@@ -4,8 +4,13 @@ title: Community Goal  Narcotics for the Crom Silver Boys
 slug: community_goal_narcotics_for_the_crom_silver_boys
 date: '3302-06-09'
 source: GitHub
-summary: The Crom Silver Boys crime syndicate claims to have procured the secret recipe for wolf fesh and plans to produce a new variant, placing an open order for rare narcotics needed as ingredients to be delivered to Walheim Enterprise in the Herthe system.
-player_impact: Deliver the requested narcotics to Walheim Enterprise in the Herthe system; exercise caution as most commodities are illegal and security forces will interdict suspicious vessels.
+summary: The Crom Silver Boys crime syndicate claims to have procured the secret recipe
+  for wolf fesh and plans to produce a new variant, placing an open order for rare
+  narcotics needed as ingredients to be delivered to Walheim Enterprise in the Herthe
+  system.
+player_impact: Deliver the requested narcotics to Walheim Enterprise in the Herthe
+  system; exercise caution as most commodities are illegal and security forces will
+  interdict suspicious vessels.
 persons: []
 groups:
 - Crom Silver Boys
@@ -23,10 +28,18 @@ topics:
 - war
 technologies:
 - wolf fesh
-modern_impact: Crime syndicate drug production demonstrates the black market's resilience against prohibition efforts.
+modern_impact: Crime syndicate drug production demonstrates the black market's resilience
+  against prohibition efforts.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 211e113b-2d49-544c-a46f-b5375d0ba99b
+- 157b98f9-9126-5564-b254-2cbba5d2f266
+- 31e075c4-bef3-526b-ab00-c7c737361799
+- 76a4140a-e282-5f07-88b7-c599ba2f1bbb
+- a3fcedac-1055-504c-a8e0-9bd9e5de1fff
 ---
+
 
 Those who have explored the trade routes of Wolf 1301 will undoubtedly recall 'wolf fesh', the popular psychoactive drug that was once produced in the system. Although originally legal, when control of the system changed last year the drug was banned, and production was immediately halted. Wolf fesh disappeared from galactic trade routes almost overnight. 
 

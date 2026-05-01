@@ -4,8 +4,11 @@ title: Galactic News  Ambika Campaign Concludes
 slug: galactic_news_ambika_campaign_concludes
 date: '3302-08-11'
 source: GitHub
-summary: The Union Party of Ambika announced the successful conclusion of its relief campaign, with large food deliveries received at Goulart City and system agitators neutralised. The food supplies will now be distributed throughout the Ambika system.
-player_impact: Collect rewards at Goulart City in Ambika if you contributed to the campaign.
+summary: The Union Party of Ambika announced the successful conclusion of its relief
+  campaign, with large food deliveries received at Goulart City and system agitators
+  neutralised. The food supplies will now be distributed throughout the Ambika system.
+player_impact: Collect rewards at Goulart City in Ambika if you contributed to the
+  campaign.
 persons: []
 groups:
 - Union Party of Ambika
@@ -15,10 +18,15 @@ locations:
 topics:
 - humanitarian
 technologies: []
-modern_impact: Successful community resolution of famine and piracy in Ambika demonstrates the effectiveness of combined humanitarian and security campaigns.
+modern_impact: Successful community resolution of famine and piracy in Ambika demonstrates
+  the effectiveness of combined humanitarian and security campaigns.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9283dd24-48c8-5a96-8042-c71c4b61f663
+- fdfa6ca7-5aff-5304-a310-9fde3137e019
 ---
+
 
 The Union Party of Ambika has announced that Its two-pronged relief campaign has received the full support of the galactic community. Huge deliveries of food were received at Goulart City, and the agitators attempting to disrupt the relief operation have been neutralised. 
 

@@ -4,7 +4,10 @@ title: Week in Review
 slug: week_in_review
 date: '3304-08-19'
 source: GitHub
-summary: Weekly summary covering Jarl Toredo's disclosure of a secret romance with Aisling Duval, Dr Ulyanov's arrest, new personal computer designs from Supratech and Herculean Machines, the rogue robot in Beta Hydri being located, Zachary Rackham's lottery win, and the successful conclusion of the Pleiades rescue operation.
+summary: Weekly summary covering Jarl Toredo's disclosure of a secret romance with
+  Aisling Duval, Dr Ulyanov's arrest, new personal computer designs from Supratech
+  and Herculean Machines, the rogue robot in Beta Hydri being located, Zachary Rackham's
+  lottery win, and the successful conclusion of the Pleiades rescue operation.
 player_impact: None
 persons:
 - Jarl Toredo
@@ -33,7 +36,8 @@ topics:
 - slavery
 - technology
 - war
-modern_impact: This week spans political scandal, religious persecution, corporate innovation, and humanitarian response, reflecting the breadth of galactic affairs.
+modern_impact: This week spans political scandal, religious persecution, corporate
+  innovation, and humanitarian response, reflecting the breadth of galactic affairs.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -44,6 +48,7 @@ related_uuids:
 - ed6adddd-c9c1-5fb8-ab02-8185dd679153
 - cb000662-d78f-5013-89e5-b8375bd4b9d8
 ---
+
 
 Here are This week’s major stories. 
 

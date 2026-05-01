@@ -36,7 +36,9 @@ significance: medium
 related_uuids:
 - b7102a9c-74e2-5a32-a28a-2fb165e1902d
 - e1c1d87a-9075-573f-93e8-8f6a48ae49b1
+- 8d070294-9468-5b76-bce0-e6183658ed76
 ---
+
 
 
 In response to The devastating Cerberus Plague outbreak on The frontier, the Dukes of Mikunn have mobilized their members, the Mercenaries of Mikunn, to affected systems in an attempt to assist local governments in quelling the plagues. 

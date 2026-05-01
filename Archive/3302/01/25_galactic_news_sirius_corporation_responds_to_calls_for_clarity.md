@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Since The wreckage of the Highliner Antares was recovered Several weeks ago, the families of those who lost their lives aboard the ship have been lobbying The Sirius Corporation for more information. Specifically, questions have been asked about where the wreckage was Found, and if any human remains were recovered. The corporation, evidently aware that the public is hungry for information, has now released a statement: 
 
 "We are aware that some sectors of the galactic community believe we have not been sufficiently transparent regarding Our research into the Antares. Please be assured that any lack of clarity is in no way indicative of a desire to withhold information – it is simply a reflection of our focus on our research." 

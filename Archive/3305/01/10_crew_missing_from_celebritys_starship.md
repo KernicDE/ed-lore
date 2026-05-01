@@ -4,7 +4,9 @@ title: Crew Missing from Celebrity's Starship
 slug: crew_missing_from_celebritys_starship
 date: '3305-01-10'
 source: GitHub
-summary: Actor Consuela Knight and her four crew members mysteriously vanish from her luxury yacht minutes before arrival at port, leaving the ship perfectly intact with unfinished meals and no signs of escape pod use.
+summary: Actor Consuela Knight and her four crew members mysteriously vanish from
+  her luxury yacht minutes before arrival at port, leaving the ship perfectly intact
+  with unfinished meals and no signs of escape pod use.
 player_impact: None — background mystery report.
 persons:
 - Consuela Knight
@@ -13,7 +15,9 @@ groups:
 topics:
 - investigation
 - mystery
-modern_impact: The Knight disappearance became one of the most baffling mysteries of the era, spawning conspiracy theories about hyperspace anomalies, Thargoid weapons, and even the Far God consuming travellers.
+modern_impact: The Knight disappearance became one of the most baffling mysteries
+  of the era, spawning conspiracy theories about hyperspace anomalies, Thargoid weapons,
+  and even the Far God consuming travellers.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -21,6 +25,7 @@ related_uuids:
 - acf7c88b-56f9-5317-ba83-b2ed5098a228
 - f186d6a6-0681-528f-995c-21b7e49f1dc3
 ---
+
 
 A luxury Star yacht belonging to famous actor Consuela Knight has reached Its destination With nobody onboard.  
 

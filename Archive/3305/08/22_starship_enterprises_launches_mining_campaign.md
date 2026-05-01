@@ -4,8 +4,11 @@ title: Starship Enterprises Launches Mining Campaign
 slug: starship_enterprises_launches_mining_campaign
 date: '3305-08-22'
 source: GitHub
-summary: Starship Enterprises launches a mining campaign to construct a specialised installation and asteroid base in LP 339-7. The new starport Miner Prospects will serve as SE Mining's headquarters and benefit the system's outer reaches.
-player_impact: Pilots mine osmium, samarium, uraninite, monazite and platinum for delivery to Gell-Mann Ring in LP 339-7.
+summary: Starship Enterprises launches a mining campaign to construct a specialised
+  installation and asteroid base in LP 339-7. The new starport Miner Prospects will
+  serve as SE Mining's headquarters and benefit the system's outer reaches.
+player_impact: Pilots mine osmium, samarium, uraninite, monazite and platinum for
+  delivery to Gell-Mann Ring in LP 339-7.
 persons:
 - Lewis Chapman
 groups:
@@ -17,12 +20,16 @@ topics:
 - construction
 - corporate expansion
 - trade
-modern_impact: The campaign expands corporate mining operations and provides new trade opportunities in the LP 339-7 system.
+modern_impact: The campaign expands corporate mining operations and provides new trade
+  opportunities in the LP 339-7 system.
 legacy_weight: 2
 significance: low
 related_uuids:
 - a6fb17de-52ed-52df-954e-ddf92b11c74d
+- c579b71c-4893-5060-b5fa-1b25101b6e8a
+- 371ba884-e8bc-5e2e-bb3f-cb24df547a09
 ---
+
 
 The Starship Enterprises faction has issued a public request for mined resources. 
 

@@ -37,7 +37,12 @@ significance: medium
 related_uuids:
 - 4fbadce9-ff0f-5aac-9ea9-159628c728cd
 - f3dab509-72dd-5e4c-a148-950fecf04e39
+- 1841a100-84be-54ad-a1c6-316471a9aa22
+- 0d43ffc6-323d-52a2-b50a-99e8b1ad9395
+- 527cd62c-c144-5f7a-a149-a233d9aa7c78
+- f1eec212-43b2-5e3e-b2b2-c44e42af613a
 ---
+
 
 
 Senator Kahina Tijani Loren’s Imperial Courier was seen departing early morning local time from The Avalon shipyards. It rendezvoused With the Imperial Interdictor Atticus, Admiral Brice last known to be in command. 

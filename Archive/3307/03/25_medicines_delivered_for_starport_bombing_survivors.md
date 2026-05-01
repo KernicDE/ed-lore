@@ -53,6 +53,7 @@ related_uuids:
 
 
 
+
 **Pilots Federation ALERT**
 Safeguard Interstellar has successfully received medical supplies for civilians wounded during The NMLA terrorist attack.
 The bombing of nine starports across the Alliance, Empire and Federation left huge numbers of people injured, some With caustic burns due to Thargoid enzymes deployed by the explosives.

@@ -4,8 +4,13 @@ title: Aisling Opens Art Installation on Emerald
 slug: aisling_opens_art_installation_on_emerald
 date: '3301-05-22'
 source: GitHub
-summary: Aisling Duval attended the opening of 'Prism's Shades', a multi-sensory art installation on Emerald in Cemiess that uses experimental light and sound projection to stimulate empathic responses. She appeared in a ruby red evening gown adorned with painite sparkles and a tinted visor bearing her personal crest. She left early citing exhaustion from her recent humanitarian work in the Summerlands.
-player_impact: None directly; cultural event highlighting Aisling Duval's public profile and her connection to Prism.
+summary: Aisling Duval attended the opening of 'Prism's Shades', a multi-sensory art
+  installation on Emerald in Cemiess that uses experimental light and sound projection
+  to stimulate empathic responses. She appeared in a ruby red evening gown adorned
+  with painite sparkles and a tinted visor bearing her personal crest. She left early
+  citing exhaustion from her recent humanitarian work in the Summerlands.
+player_impact: None directly; cultural event highlighting Aisling Duval's public profile
+  and her connection to Prism.
 persons:
 - Aisling Duval
 groups: []
@@ -14,10 +19,18 @@ locations:
 - Summerland
 technologies:
 - Prism's Shades
-modern_impact: Cultural event reinforcing Aisling Duval's image as the 'People's Princess' and her ties to artistic and humanitarian causes.
+modern_impact: Cultural event reinforcing Aisling Duval's image as the 'People's Princess'
+  and her ties to artistic and humanitarian causes.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 1f283dc9-dd3d-5a85-9186-333245643fa1
+- 7bf69720-95f9-56be-9fda-89038c209f31
+- a5189f53-e5af-5297-aea2-94c08cbfceda
+- 590c182e-e5d7-5e10-9d7e-2054c8828dcc
+- d018f06c-8530-5278-a4bd-b06531b43193
 ---
+
 
 The People’s Princess made an appearance in Cemiess late last night to attend The opening of Emerald’s newest art installation, ‘Prism’s Shades’, a multi-sensory experience that uses experimental light and sound projection technology to stimulate a series of empathic responses from Its audience. 
 

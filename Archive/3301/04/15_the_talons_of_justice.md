@@ -4,8 +4,14 @@ title: The Talons of Justice
 slug: the_talons_of_justice
 date: '3301-04-15'
 source: GitHub
-summary: Senator Arissa Lavigny-Duval revealed on 'Question Everything' that information from loyal Imperial citizens has proven invaluable in hunting the Emperor's attackers. Agents uncovered two potential locations holding answers. She called on pilots to assist her investigative task force, with sign-ups available at Xuesen Orbital in Nehet and Kowal Dock in Mictlan.
-player_impact: Pilots can sign up to assist Arissa's investigative task force at Xuesen Orbital in Nehet or Kowal Dock in Mictlan to help uncover the conspiracy behind the assassination attempt.
+summary: Senator Arissa Lavigny-Duval revealed on 'Question Everything' that information
+  from loyal Imperial citizens has proven invaluable in hunting the Emperor's attackers.
+  Agents uncovered two potential locations holding answers. She called on pilots to
+  assist her investigative task force, with sign-ups available at Xuesen Orbital in
+  Nehet and Kowal Dock in Mictlan.
+player_impact: Pilots can sign up to assist Arissa's investigative task force at Xuesen
+  Orbital in Nehet or Kowal Dock in Mictlan to help uncover the conspiracy behind
+  the assassination attempt.
 persons:
 - Arissa Lavigny-Duval
 - Emperor Hengist Duval
@@ -20,10 +26,18 @@ topics:
 - crime
 - investigation
 - succession
-modern_impact: Arissa's expansion of the investigation into Nehet and Mictlan demonstrated her methodical approach to rooting out the conspiracy against the Emperor.
+modern_impact: Arissa's expansion of the investigation into Nehet and Mictlan demonstrated
+  her methodical approach to rooting out the conspiracy against the Emperor.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 7dc64c51-9af8-50a7-b1c6-2f97c35ce3f7
+- 69f52a7c-c29d-537a-99bf-2a9ce770f4e6
+- 07e20d67-df6b-5dc6-8ac9-c8e744e9a973
+- 0c0a2b8a-3621-51fb-926a-49298b2abcc3
+- c7ae7af9-c8e6-50c8-97c9-d0f60557ca65
 ---
+
 
 During an exclusive interview With the popular Imperial politics programme, ‘Question Everything’, Senator Arissa Lavigny-Duval provided some new insight into The ongoing investigation into the attempted assassination of Emperor Hengist Duval. 
 

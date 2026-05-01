@@ -28,7 +28,10 @@ significance: high
 related_uuids:
 - 08b7b21a-1241-5567-b004-c02839208082
 - 2366d7e4-8fa2-5930-8714-0769f05f96a7
+- 75461ada-a09f-51ef-a1e0-b926495aa2ac
+- 5e8169a1-2fa0-5e69-816f-13078fef1cb1
 ---
+
 
 
 A weak signal from The Col 70 Sector has been detected by listening posts in both Federal and Imperial space. 

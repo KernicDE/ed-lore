@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 As the war between The Empire and Emperor's Dawn Continues, an increasing number of political commentators are asking the question: where does the organisation get Its money? 
 
 Since the military campaign began, the Empire has expended substantial resources fighting the insurgents, but for the most part Emperor's Dawn has managed to match the strength of the Imperial offensives, and This ability to resist the Empire suggests that the organisation has access to significant levels of funding. Several weeks ago it was revealed that Emperor's Dawn had at One time received backing from D and C Shipping, Inc., an organisation belonging to the Imperial patron and industrialist Damon Clarke, But the connection between the two organisations is believed to have been severed some time ago. 

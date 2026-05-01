@@ -4,7 +4,8 @@ title: Empire Denies Existence of Secret Prison
 slug: empire_denies_existence_of_secret_prison
 date: 3307-02-03
 source: API
-summary: '*Pilots Federation ALERT* An Imperial Intelligence detention facility discovered in The R CRA Sector AF-A d42 system has been repudiated by the Empire.'
+summary: '*Pilots Federation ALERT* An Imperial Intelligence detention facility discovered
+  in The R CRA Sector AF-A d42 system has been repudiated by the Empire.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Andee-X-
@@ -15,7 +16,9 @@ topics:
 - investigation
 - terrorism
 arc_id: null
-modern_impact: '"There is no such place as ''Serene Harbour''." The Empire''s denial of Serene Harbour foreshadowed revelations about Imperial Intelligence''s brutal treatment of political prisoners and NMLA suspects.'
+modern_impact: '"There is no such place as ''Serene Harbour''." The Empire''s denial
+  of Serene Harbour foreshadowed revelations about Imperial Intelligence''s brutal
+  treatment of political prisoners and NMLA suspects.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -26,6 +29,7 @@ related_uuids:
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 - 12cb1fa8-abf9-5608-adb7-15ce6660e828
 ---
+
 
 **Pilots Federation ALERT**
 An Imperial Intelligence detention facility discovered in The R CRA Sector AF-A d42 system has been repudiated by the Empire.

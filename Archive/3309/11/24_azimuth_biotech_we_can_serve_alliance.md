@@ -41,7 +41,9 @@ related_uuids:
 - 3e1f7df6-c97e-5254-9465-9e693f6a19c6
 - 4322589e-b2e2-57fc-b239-2b88576cb0ad
 - 52e15d2f-c860-504f-a2e4-4e54c31cb388
+- 87bfa62f-1991-5f20-88d3-0bd0d7d797bc
 ---
+
 
 
 Azimuth Biotech has suggested that it can replace Sirius Corporation as the Alliance’s anti-xeno military partner.

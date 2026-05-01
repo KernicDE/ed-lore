@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 A Federal spokesperson has announced that The Federation’s appeal for construction materials has received the wholehearted support of the galactic community. Hundreds of pilots contributed to the campaign by delivering construction materials to Blackmount Orbital in HIP 17692, and by eliminating agitators in the system so traders could deliver commodities in safety. 
 
 In a statement, the spokesperson said: 

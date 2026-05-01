@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Mere hours after The Canonn Interstellar Research Group defeated the Labour of Varati in the recent Bond Hub election, more than fifty CIRG scientists arrived at Bond Hub from Thompson Dock. The scientists were accompanied by tonnes of equipment, Which has been installed in makeshift labs. Professor D Luffy, lead scientist for the team, explained what was happening: 
 
 "First, we thank the residents of Bond Hub for calling for This election, voting for us, and allowing us to continue Our work on the Unknown Artefacts. We have pledged to investigate the station malfunctions that have dominated the news in recent weeks, and since Bond is also affected we have an opportunity to put it at the heart of our research." 

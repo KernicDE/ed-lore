@@ -4,7 +4,11 @@ title: Theft Baffles Security Experts
 slug: theft_baffles_security_experts
 date: '3304-06-09'
 source: GitHub
-summary: A valuable digital artwork titled Youscape is stolen from the Garden City Gallery on Turner's World in the Alioth system. The piece was inside a titanium vault surrounded by plasma grids, proximity alarms and thermal sensors, yet all security systems were disabled. A spray-painted graphic of a winking cat was left in its place. Artist Barclay Uxor condemns the theft. Security forces have no leads.
+summary: A valuable digital artwork titled Youscape is stolen from the Garden City
+  Gallery on Turner's World in the Alioth system. The piece was inside a titanium
+  vault surrounded by plasma grids, proximity alarms and thermal sensors, yet all
+  security systems were disabled. A spray-painted graphic of a winking cat was left
+  in its place. Artist Barclay Uxor condemns the theft. Security forces have no leads.
 player_impact: None
 persons:
 - Femi Abram
@@ -18,10 +22,18 @@ locations:
 topics:
 - crime
 - investigation
-modern_impact: The high-profile art theft, marked by the winking cat graffiti, signals the emergence of a sophisticated criminal capable of bypassing elite security systems.
+modern_impact: The high-profile art theft, marked by the winking cat graffiti, signals
+  the emergence of a sophisticated criminal capable of bypassing elite security systems.
 legacy_weight: 2
 significance: low
+related_uuids:
+- fdd4cfda-950a-5d9a-b1bc-6d7b62bdd288
+- b0b4efc4-0023-5a96-a506-5bcfb8772ddf
+- 1b55d6ba-7e89-5571-bc52-b88d84b6d55c
+- 0bb8e10b-68fe-5dc9-bcc2-228056a9ef69
+- 779431c9-8684-5495-ac25-27b84aec0509
 ---
+
 
 A valuable work of art has been stolen by a mysterious and highly skilled criminal. 
 

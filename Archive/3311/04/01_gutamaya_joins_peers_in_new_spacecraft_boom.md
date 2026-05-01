@@ -4,8 +4,10 @@ title: Gutamaya Joins Peers in New Spacecraft Boom
 slug: gutamaya_joins_peers_in_new_spacecraft_boom
 date: '3311-04-01'
 source: API
-summary: Gutamaya unveils the Corsair at a Capitol launch event, marking its first commercially available multipurpose ship without Imperial Navy rank requirements.
-player_impact: Independent pilots can now purchase the Corsair, Gutamaya's first commercially available multipurpose ship without Imperial Navy rank requirements.
+summary: Gutamaya unveils the Corsair at a Capitol launch event, marking its first
+  commercially available multipurpose ship without Imperial Navy rank requirements.
+player_impact: Independent pilots can now purchase the Corsair, Gutamaya's first commercially
+  available multipurpose ship without Imperial Navy rank requirements.
 persons:
 - Aisling Duval
 - Lucretia Roche-Duval
@@ -22,12 +24,18 @@ topics:
 - trade
 technologies:
 - Corsair
-modern_impact: 'Eugine Varrik''s observation that the Corsair''s ''sleek design employs Gutamaya''s famous curves'' and Miyu Azusa''s praise for its ''flexibility of internal components'' establish the ship''s dual appeal: Imperial aesthetics combined with genuine versatility. Princess Aisling Duval''s statement — ''This magnificent ship represents the Empire''s commitment to innovation'' — positions the Corsair as a symbol of Imperial soft power, expanding Gutamaya''s market beyond Navy loyalists.'
+modern_impact: 'Eugine Varrik''s observation that the Corsair''s ''sleek design employs
+  Gutamaya''s famous curves'' and Miyu Azusa''s praise for its ''flexibility of internal
+  components'' establish the ship''s dual appeal: Imperial aesthetics combined with
+  genuine versatility. Princess Aisling Duval''s statement — ''This magnificent ship
+  represents the Empire''s commitment to innovation'' — positions the Corsair as a
+  symbol of Imperial soft power, expanding Gutamaya''s market beyond Navy loyalists.'
 legacy_weight: 2
 significance: low
 related_uuids:
 - c2305553-faa1-55fd-8106-1ebeeba81832
 ---
+
 
 Imperial socialites were treated to a tour of Gutamaya's newest ship, the Corsair, at an extravagant launch on Capitol in Achenar.
 Gutamaya's event was attended by over a thousand prominent engineers, senators, press members and other notable individuals. Princess Aisling Duval and her cousin, Lucretia Roche-Duval, were the guests of honour.

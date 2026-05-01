@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 A shipwreck bearing strong similarities to that recently Found in The Pleiades Sector AB-W B2-4 has been discovered in the HIP 17862 system. 
 
 The wreck was found by One Commander Denneb on the airless planetoid 6 C A. 

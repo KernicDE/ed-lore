@@ -40,6 +40,7 @@ related_uuids:
 
 
 
+
 The human colonists in the Coalsack Nebula has raised the alarm after Thargoid forces appeared several systems.
 Following recent attacks on systems and vessels in the California Nebula, it appears that the Thargoids have again sought to occupy systems where barnacle fields are present on planet surfaces.
 Councillor Lewis Laychurch, representing the Alliance Expeditionary Pact in HIP 62154, provided the following to the Alliance Tribune:

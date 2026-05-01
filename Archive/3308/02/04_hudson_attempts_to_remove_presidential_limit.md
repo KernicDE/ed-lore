@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 The Federal government has announced plans to extend Zachary Hudson’s term as president beyond the legally allotted span.
 Every Federation president serves a single term of eight years. President Hudson assumed the role in June 3301, and is therefore due to step down in June 3309 following an election to select his replacement.
 Secretary of State Lana Berkovich delivered the proposal to Congress:

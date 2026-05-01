@@ -4,7 +4,10 @@ title: Neo-Marlinists Expose Hadrian Duval as NMLA Leader
 slug: neo_marlinists_expose_hadrian_duval_as_nmla_leader
 date: '3307-04-26'
 source: API
-summary: Independent journalist Flint 'Firemaker' Lafosse publishes classified ACT information allegedly from Neo-Marlinist survivors claiming that Hadrian Duval is the NMLA mastermind. The leak alleges Astrid Minerva converted him to Neo-Marlinism and that the October assassination attempt on his life was staged.
+summary: Independent journalist Flint 'Firemaker' Lafosse publishes classified ACT
+  information allegedly from Neo-Marlinist survivors claiming that Hadrian Duval is
+  the NMLA mastermind. The leak alleges Astrid Minerva converted him to Neo-Marlinism
+  and that the October assassination attempt on his life was staged.
 player_impact: None directly; this is an intelligence leak and allegation.
 persons:
 - Hadrian Duval
@@ -25,7 +28,9 @@ topics:
 - war
 technologies: []
 arc_id: nmla-terrorism
-modern_impact: Although later disproven, the allegations create a severe crisis of confidence in the Imperial Family, strain relations between Nova Imperium and the Empire, and demonstrate the NMLA's skill at disinformation and psychological warfare.
+modern_impact: Although later disproven, the allegations create a severe crisis of
+  confidence in the Imperial Family, strain relations between Nova Imperium and the
+  Empire, and demonstrate the NMLA's skill at disinformation and psychological warfare.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +38,7 @@ related_uuids:
 - a63b78b8-8be0-504c-85a7-d986a0f0465a
 - 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
 ---
+
 
 Imperator Hadrian Augustus Duval of Nova Imperium is The mastermind behind the NMLA, According to classified information leaked from within ACT.
 Independent journalist Flint ‘Firemaker’ Lafosse published the details on the Rewired network:

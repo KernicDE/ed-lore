@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 The Marlinist Parliament has refuted widespread allegations of supporting or concealing members of the NMLA paramilitary group.
 Fuelled by media speculation, Many political and military leaders have suggested that the Marlinist Colonies should be occupied or destroyed to take revenge for the recent bombings. However, there is no evidence that these systems have any direct connection to the NMLA.
 First Minister Jenna Fairfax gave This statement to Vox Galactica:

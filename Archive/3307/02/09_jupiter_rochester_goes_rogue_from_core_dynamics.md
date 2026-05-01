@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 Several departments loyal to The Core Dynamics CEO have seceded to form an Independent corporate republic called Jupiter Division.
 During the recent trial of Fleet Admiral Vincent, Jupiter Rochester was named As the paymaster behind the sabotage of Starship One. This hastened long-term plans to abscond from Core Dynamics along With Many ships and personnel. 
 In the permit-locked HIP 54530 system, the HIP 54530 Gold Universal Group has been renamed as Jupiter Division. It is assumed to have long been infiltrated by Rochester’s loyalists.

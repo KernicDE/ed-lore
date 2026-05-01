@@ -4,8 +4,12 @@ title: Los Chupacabras Campaign
 slug: los_chupacabras_campaign
 date: '3304-05-25'
 source: GitHub
-summary: Los Chupacabras, an independent faction based in the LFT 926 system, has announced the Jailhouse Rock and Blues Music Festival. In support of the event, they have placed an open order for beer, tobacco, coffee and narcotics, and promised rewards to pilots who deliver these commodities to Meredith City.
-player_impact: Pilots can deliver beer, tobacco, coffee and narcotics to Meredith City in the LFT 926 system to earn rewards.
+summary: Los Chupacabras, an independent faction based in the LFT 926 system, has
+  announced the Jailhouse Rock and Blues Music Festival. In support of the event,
+  they have placed an open order for beer, tobacco, coffee and narcotics, and promised
+  rewards to pilots who deliver these commodities to Meredith City.
+player_impact: Pilots can deliver beer, tobacco, coffee and narcotics to Meredith
+  City in the LFT 926 system to earn rewards.
 persons: []
 groups:
 - Los Chupacabras
@@ -16,10 +20,16 @@ topics:
 - festival
 - narcotics
 - trade
-modern_impact: Community-led celebrations and cultural events continue to bring pilots together across the galaxy.
+modern_impact: Community-led celebrations and cultural events continue to bring pilots
+  together across the galaxy.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 56423215-1d94-5955-9b5b-942c39132b7b
+- 60f99547-6620-511f-9d5a-a610a2c0ff18
+- fe2ef902-f105-5e82-bf79-83ee66c58228
 ---
+
 
 Los Chupacabras, an Independent faction based in The LFT 926 system, has announced plans for a musical event known As the Jailhouse Rock and Blues Music Festival. 
 

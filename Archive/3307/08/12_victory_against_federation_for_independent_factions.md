@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 New Kuwembaa Labour has successfully seceded from The Federation and inspired Other systems to declare Independence.
 The conflict in the Kuwembaa system ended With Federal loyalists Li Chotep for Equality being defeated. As a result, all systems controlled by New Kuwembaa Labour will remain Independent.

@@ -4,8 +4,11 @@ title: Remarkable ‘Lost Planet’ Rediscovered
 slug: remarkable_lost_planet_rediscovered
 date: '3308-09-02'
 source: API
-summary: A community expedition successfully rediscovers the first recorded green gas giant, originally found by Commander Kelly Eldridge in 3301 but lost due to missing astrographic data, in the Shaulai DL-P d5-274 system.
-player_impact: Not specifically mentioned — this is a community exploration achievement rather than an official campaign.
+summary: A community expedition successfully rediscovers the first recorded green
+  gas giant, originally found by Commander Kelly Eldridge in 3301 but lost due to
+  missing astrographic data, in the Shaulai DL-P d5-274 system.
+player_impact: Not specifically mentioned — this is a community exploration achievement
+  rather than an official campaign.
 persons:
 - Kelly Eldridge
 - Richard Fluiraniz M
@@ -19,10 +22,18 @@ locations:
 - Perseus Crags
 topics:
 - exploration
-modern_impact: The rediscovery of the first green gas giant represents a notable achievement in collaborative deep-space exploration and community-driven scientific recovery.
+modern_impact: The rediscovery of the first green gas giant represents a notable achievement
+  in collaborative deep-space exploration and community-driven scientific recovery.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 51640971-fc47-5402-a2fd-7c945c162f1e
+- b2b3d62b-a0f0-575b-8544-17fa7e9b482a
+- cb60156f-f6ad-543b-b549-c1f23472cfba
+- 9307ff89-10ea-5b2e-9eaa-6ddefc9f13b8
+- e92a5cd2-aa4d-5877-a93a-4f713d672b63
 ---
+
 
 The location of the first green gas giant ever recorded was a mystery for years, but it has now been found by a community of explorers.
 Commander Kelly Eldridge initially made the discovery on the 23rd of May 3301, noting that it was “the strangest gas giant I've seen so far”. The vivid green bands in the planet’s atmosphere made it unique to explorers at the time, and these types of gas giant are still extremely rare. The unusual colouration is believed to be caused by free-floating radioplankton that absorb planetary radiation.

@@ -4,7 +4,8 @@ title: The Future of the Throne
 slug: the_future_of_the_throne
 date: '3309-10-02'
 source: API
-summary: Senator Lysandra Courcelle raises concerns about Emperor Arissa's lack of heirs, sparking debate about Imperial succession.
+summary: Senator Lysandra Courcelle raises concerns about Emperor Arissa's lack of
+  heirs, sparking debate about Imperial succession.
 player_impact: Not specifically mentioned.
 persons:
 - Arissa Lavigny-Duval
@@ -21,10 +22,23 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Courcelle's challenge — 'The continuation of the Duval bloodline has formed the linchpin of our society for over a thousand years' — frames succession as a constitutional crisis. Vestergaard's analysis that 'every Emperor of the last thousand years has had one or more children' and 'there has never been any indication that Arissa has a partner' makes the issue deeply personal. Blaine's defence — 'Her Majesty has sacrificed much for the Empire' — shows the court's loyalty.
+modern_impact: Courcelle's challenge — 'The continuation of the Duval bloodline has
+  formed the linchpin of our society for over a thousand years' — frames succession
+  as a constitutional crisis. Vestergaard's analysis that 'every Emperor of the last
+  thousand years has had one or more children' and 'there has never been any indication
+  that Arissa has a partner' makes the issue deeply personal. Blaine's defence — 'Her
+  Majesty has sacrificed much for the Empire' — shows the court's loyalty.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 281d1638-d74c-563d-baee-276e46af5b27
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- d1003dbd-1405-582f-be67-0195758e8558
+- 2a25a3ae-9010-5554-8f52-0731676ebd52
+- 69b8ea0c-5e6f-5d31-8a63-0a98141b33ee
+- 553f610e-cea8-5a20-8bf5-0983747d795d
 ---
+
 
 The Imperial Senate has formally raised the issue that Emperor Arissa Lavigny-Duval has not yet produced any direct heirs.
 The debate was instigated by Senator Lysandra Courcelle :

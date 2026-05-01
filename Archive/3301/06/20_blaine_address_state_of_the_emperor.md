@@ -4,7 +4,13 @@ title: Blaine Address State of the Emperor
 slug: blaine_address_state_of_the_emperor
 date: '3301-06-20'
 source: GitHub
-summary: Chancellor Anders Blaine addressed the Senate with an update on Emperor Hengist Duval's health following the assassination attempt over a month prior. He reported the Emperor is recovering nicely, with physicians successfully removing toxins. Blaine praised Princess Arissa Lavigny-Duval for her assistance in tracking down conspirators, noting her father Aristide would be proud. He announced the Emperor is showing signs of returning to good health and will likely make a full recovery if healing continues at its current rate.
+summary: Chancellor Anders Blaine addressed the Senate with an update on Emperor Hengist
+  Duval's health following the assassination attempt over a month prior. He reported
+  the Emperor is recovering nicely, with physicians successfully removing toxins.
+  Blaine praised Princess Arissa Lavigny-Duval for her assistance in tracking down
+  conspirators, noting her father Aristide would be proud. He announced the Emperor
+  is showing signs of returning to good health and will likely make a full recovery
+  if healing continues at its current rate.
 player_impact: None
 persons:
 - Anders Blaine
@@ -22,10 +28,23 @@ topics:
 - medicine
 - succession
 - politics
-modern_impact: Blaine's optimistic health update on Emperor Hengist Duval temporarily eases succession concerns and highlights Arissa Lavigny-Duval's role in restoring imperial justice.
+modern_impact: Blaine's optimistic health update on Emperor Hengist Duval temporarily
+  eases succession concerns and highlights Arissa Lavigny-Duval's role in restoring
+  imperial justice.
 legacy_weight: 4
 significance: high
+related_uuids:
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- ab2dbad2-8a8f-5e67-8f0e-58e4e1100a78
+- d3e7ed94-d19b-534e-833a-986f901972c9
+- 851a00f1-7638-598a-bfd2-76d4c7c2972e
+- 1bf57b54-4735-58ba-bcc8-875fb5aa9410
+- bfcfa929-e1d9-5fb5-8073-fc8341d2a5fd
+- 3a16fb01-6bfc-56cd-ac6d-f8d6aca44977
+- 527cd62c-c144-5f7a-a149-a233d9aa7c78
+- 1a402d25-6d25-5d43-b035-af4f364f323d
 ---
+
 
 Chancellor Blaine made an appearance before the Senate today in order to provide an update on the Emperor’s health, following the attempt on the Emperor’s life a little over a month ago. 
 

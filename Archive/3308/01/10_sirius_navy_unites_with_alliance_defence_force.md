@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 A new member has been appointed to The Council of Admirals to represent Sirius Corporation As the Alliance’s strategic defence partner.
 Political correspondent Vanya Driscoll reported for The Alliance Tribune:
 “There are always six seats on the Council of Admirals, taken by senior military commanders from the largest regional fleets. Not only is This the first time that a seventh position has been created, it’s also the first to come from outside the Alliance.”

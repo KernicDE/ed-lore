@@ -4,8 +4,15 @@ title: Did Aisling Duval Know About Emperor’s Dawn
 slug: did_aisling_duval_know_about_emperors_dawn
 date: '3301-09-18'
 source: GitHub
-summary: The Imperial Herald published an exposé alleging links between Princess Aisling Duval's inner council and Emperor's Dawn funding sources. While no direct connection to Aisling was alleged, patron and industrialist Damon Clarke's company, D and C Shipping, apparently funded weapon shipments to known Emperor's Dawn members three years ago. Clarke was unavailable for comment, with his company defending its legitimate shipping operations.
-player_impact: The scandal has caused a dramatic fall in Aisling Duval's popularity polls. Pilots should monitor the situation as the Imperial Senate investigation unfolds and Clarke remains at large.
+summary: The Imperial Herald published an exposé alleging links between Princess Aisling
+  Duval's inner council and Emperor's Dawn funding sources. While no direct connection
+  to Aisling was alleged, patron and industrialist Damon Clarke's company, D and C
+  Shipping, apparently funded weapon shipments to known Emperor's Dawn members three
+  years ago. Clarke was unavailable for comment, with his company defending its legitimate
+  shipping operations.
+player_impact: The scandal has caused a dramatic fall in Aisling Duval's popularity
+  polls. Pilots should monitor the situation as the Imperial Senate investigation
+  unfolds and Clarke remains at large.
 persons:
 - Aisling Duval
 - Damon Clarke
@@ -17,10 +24,18 @@ topics:
 - scandal
 - terrorism
 technologies: []
-modern_impact: Major scandal in the Imperial succession crisis linking Aisling Duval's circle to Emperor's Dawn funding.
+modern_impact: Major scandal in the Imperial succession crisis linking Aisling Duval's
+  circle to Emperor's Dawn funding.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 012c1d4a-4b45-52ab-aefb-91b6915d063d
+- d1ba606a-a92d-5487-bee8-5a38e8fd3580
+- 4a80c69b-1bec-56f2-9d2b-dc4064b6e69d
+- 680cc302-2940-5f36-9420-81443a849e39
+- 2a25a3ae-9010-5554-8f52-0731676ebd52
 ---
+
 
 In a devastating exposé released earlier today, The Imperial Herald has published details of alleged links between The secretive group backing Princess Aisling Duval and some of the funding sources for the Emperor’s Dawn insurgency. While a direct connection between Princess Aisling and the insurgency is not alleged, there does appear to be a connection to senior members of the Princess’s inner council. 
 

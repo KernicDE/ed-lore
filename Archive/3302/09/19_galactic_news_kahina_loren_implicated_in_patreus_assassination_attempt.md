@@ -37,7 +37,12 @@ significance: high
 related_uuids:
 - fc51d3ef-3b90-5a4f-93af-3e07e999addf
 - fff2f485-f8f2-5edc-9f15-c8581b90c721
+- 11e14c3c-da22-5eb5-9d5a-637ba3ec1a15
+- 0f930bc1-8f0a-5a9d-8c3d-f4b39f8c495f
+- c84d7e4b-ee52-5383-880a-6bf8e18ca790
+- efba1015-6ea0-5845-8243-79542721d229
 ---
+
 
 
 Sources close to The Imperial Senate have released a statement indicating that Lady Kahina Tijani Loren, erstwhile senator of the Prism system, has been charged in connection With the attempted assassination of Admiral Denton Patreus. 

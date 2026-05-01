@@ -4,7 +4,9 @@ title: Nuclear Threat Shuts Down Starport
 slug: nuclear_threat_shuts_down_starport
 date: '3305-03-14'
 source: GitHub
-summary: The Children of Tothos seize control of Archambault Terminal in the Chun Tstar system, threatening to detonate the Lucifer Device and forcing the FIA to attempt peaceful negotiation rather than risk millions of lives.
+summary: The Children of Tothos seize control of Archambault Terminal in the Chun
+  Tstar system, threatening to detonate the Lucifer Device and forcing the FIA to
+  attempt peaceful negotiation rather than risk millions of lives.
 player_impact: None — background crime report.
 persons:
 - Rochelle Karim
@@ -18,7 +20,9 @@ locations:
 topics:
 - crime
 - terrorism
-modern_impact: The occupation of Archambault Terminal demonstrated both the vulnerability of civilian starports to ideological terrorism and the strategic dilemma facing authorities when hostages number in the millions.
+modern_impact: The occupation of Archambault Terminal demonstrated both the vulnerability
+  of civilian starports to ideological terrorism and the strategic dilemma facing
+  authorities when hostages number in the millions.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -27,6 +31,7 @@ related_uuids:
 - eb0399b9-3f4e-598b-8792-1ffe7a9866d7
 - 9297eeb4-a7b3-5846-b24a-0baf631e6c8e
 ---
+
 
 Archambault terminal in The Chun Tstar system has been overtaken by the Children of Tothos cult, who are threatening to detonate a stolen nuclear weapon. 
 

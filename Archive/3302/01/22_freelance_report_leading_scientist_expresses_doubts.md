@@ -35,7 +35,10 @@ significance: high
 related_uuids:
 - d73deb2c-83de-5efc-94ba-6ecdc02ff938
 - f95fc4bd-1377-55de-a410-5df74bd588f1
+- 0856035e-4ad7-545b-bb09-9480bea555fb
+- fab39187-1775-5f62-b4cc-7fc1befb7763
 ---
+
 
 
 Yesterday, Professor Ishmael Palin called upon Independent pilots to deliver meta-alloys – produced by The newly discovered 'barnacles' in the Pleiades Nebula – to Obsidian Orbital, suggesting that the material could be the cure for the technological virus spreading through inhabited space. But Professor Violet Belbin of the Xenological Research Institute has expressed doubts: 

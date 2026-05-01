@@ -4,7 +4,11 @@ title: The Courtship of Aisling Duval
 slug: the_courtship_of_aisling_duval
 date: '3304-05-26'
 source: GitHub
-summary: Entertainment journalist Solomon Helios identified three potential romantic suitors for Princess Aisling Duval in a special broadcast. Senator Caspian Leopold, anti-slavery campaigner Jarl Toredo of Universal Liberty, and Federal Ambassador Jordan Rochester were named as possible matches, following Aisling's rejection of Admiral Denton Patreus.
+summary: Entertainment journalist Solomon Helios identified three potential romantic
+  suitors for Princess Aisling Duval in a special broadcast. Senator Caspian Leopold,
+  anti-slavery campaigner Jarl Toredo of Universal Liberty, and Federal Ambassador
+  Jordan Rochester were named as possible matches, following Aisling's rejection of
+  Admiral Denton Patreus.
 player_impact: None explicitly stated.
 persons:
 - Solomon Helios
@@ -22,10 +26,18 @@ topics:
 - politics
 - slavery
 - succession
-modern_impact: Aisling Duval's political and personal life remains a subject of public fascination, influencing perceptions of the Imperial succession.
+modern_impact: Aisling Duval's political and personal life remains a subject of public
+  fascination, influencing perceptions of the Imperial succession.
 legacy_weight: 2
 significance: low
+related_uuids:
+- fe2ef902-f105-5e82-bf79-83ee66c58228
+- e85ec76a-3c48-5c22-a108-5efade3f5bd8
+- 740d498b-22a4-5862-ad17-7d2d9b29b7be
+- fdd4cfda-950a-5d9a-b1bc-6d7b62bdd288
+- 46407e8e-50ca-56ba-88b8-54b530cb06c5
 ---
+
 
 A media broadcast has identified a number of potential romantic suitors for Princess Aisling Duval. 
 

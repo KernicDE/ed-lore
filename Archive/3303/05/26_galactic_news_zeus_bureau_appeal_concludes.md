@@ -4,8 +4,11 @@ title: Galactic News  Zeus Bureau Appeal Concludes
 slug: galactic_news_zeus_bureau_appeal_concludes
 date: '3303-05-26'
 source: GitHub
-summary: The Zeus Bureau's appeal for luxury goods reached a successful conclusion, with the event boosting Zeus's economy and attracting the Wells-class carrier The Midas.
-player_impact: Contributing pilots can collect rewards from KatherineB in the Zeus system.
+summary: The Zeus Bureau's appeal for luxury goods reached a successful conclusion,
+  with the event boosting Zeus's economy and attracting the Wells-class carrier The
+  Midas.
+player_impact: Contributing pilots can collect rewards from KatherineB in the Zeus
+  system.
 persons: []
 groups:
 - Zeus Bureau
@@ -17,10 +20,14 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: Luxury goods event in Zeus attracts influential figures and boosts local economy with the arrival of the Wells-class carrier The Midas.
+modern_impact: Luxury goods event in Zeus attracts influential figures and boosts
+  local economy with the arrival of the Wells-class carrier The Midas.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 8be2f20d-d913-5ce2-a833-a2868384d8b0
 ---
+
 
 A spokesperson for The Zeus Bureau has announced that Its appeal for luxury goods has reached a successful conclusion. Hundreds of tonnes of commodities were delivered to KatherineB over the week, following an enthusiastic response from the galactic community. 
 

@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - 88efdd4a-ed54-5dee-9c24-b5ae333ccda8
 - 8a3d4510-5f41-5755-aeaa-89033dac4352
+- 2fac20b5-58b6-537d-aa2e-140d8795627a
 ---
+
 
 
 The Sitakapan Expeditionary Forces have announced plans to fortify their home system of Sitakapa by converting a mining outpost into a military settlement. The move is a response to increasing political and military instability across the galaxy. 

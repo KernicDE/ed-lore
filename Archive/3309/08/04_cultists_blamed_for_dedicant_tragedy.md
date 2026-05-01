@@ -4,7 +4,9 @@ title: Cultists Blamed for Dedicant Tragedy
 slug: cultists_blamed_for_dedicant_tragedy
 date: '3309-08-04'
 source: API
-summary: President Hudson blames the Order of the Far God for the Dedicant tragedy, ordering the PDB to crack down, while presidential candidates stake out competing positions on the cult.
+summary: President Hudson blames the Order of the Far God for the Dedicant tragedy,
+  ordering the PDB to crack down, while presidential candidates stake out competing
+  positions on the cult.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Hudson
@@ -20,7 +22,13 @@ topics:
 - investigation
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Hudson's framing — 'Hijacking the Dedicant to deliver it to their alien gods is an act of treason and mass murder' — is a political weapon. His order for 'automatic life sentences' is draconian. The three candidates' contrasting responses — Archer's continuation of Hudson's policy, Winters's call for independent review, Rackham's absurd tax proposal — reveal their characters. Ulyanov's expert observation that 'the cultists had no way of communicating with the Thargoids' undermines Hudson's narrative.
+modern_impact: Hudson's framing — 'Hijacking the Dedicant to deliver it to their alien
+  gods is an act of treason and mass murder' — is a political weapon. His order for
+  'automatic life sentences' is draconian. The three candidates' contrasting responses
+  — Archer's continuation of Hudson's policy, Winters's call for independent review,
+  Rackham's absurd tax proposal — reveal their characters. Ulyanov's expert observation
+  that 'the cultists had no way of communicating with the Thargoids' undermines Hudson's
+  narrative.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -28,6 +36,7 @@ related_uuids:
 - 6d9dec9b-98e1-5167-9d3c-00c436e9d31c
 - 94095149-30bd-5440-b287-8db2535dc42d
 ---
+
 
 President Zachary Hudson has accused the Order of the Far God of being directly responsible for the fate of the Dedicant megaship.
 “Our assessment of these Thargoid-worshipping extremists has been proved correct,” he told The Federal Times. “Hijacking the Dedicant to deliver it to their alien gods is an act of treason and mass murder.”

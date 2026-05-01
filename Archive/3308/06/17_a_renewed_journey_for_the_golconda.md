@@ -31,6 +31,7 @@ related_uuids:
 
 
 
+
 The generation ship Golconda has departed from the Upaniklis system with much of its former population on board.
 Three years ago, the Golcondans abandoned their ship and resettled at the Forester’s Choice outpost in Upaniklis. Approximately 60% of these 70,000 people have now elected to resume their itinerant lifestyle aboard the vessel, which was recently upgraded with modern megaship technology by the Artificers Clan.
 The Federation has made assurances that the Golconda is under its protection, and is equipped with comms systems to summon aid if needed. The Forester’s Choice outpost remains operational and will continue to export Apa Vietti, a unique alcoholic spirit.

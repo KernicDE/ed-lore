@@ -4,8 +4,12 @@ title: Alliance Consolidates Presence in Coalsack Nebula
 slug: alliance_consolidates_presence_in_coalsack_nebula
 date: '3306-11-26'
 source: GitHub
-summary: The Alliance opens four new starports in the Coalsack Nebula following their successful campaign. Betancourt Base requests Thargoid commodities for xenobiological research led by Dr. Rodion Stathos, funded by pharmaceutical and bioengineering companies.
-player_impact: Pilots can sell Thargoid commodities at Betancourt Base for generous rewards.
+summary: The Alliance opens four new starports in the Coalsack Nebula following their
+  successful campaign. Betancourt Base requests Thargoid commodities for xenobiological
+  research led by Dr. Rodion Stathos, funded by pharmaceutical and bioengineering
+  companies.
+player_impact: Pilots can sell Thargoid commodities at Betancourt Base for generous
+  rewards.
 persons:
 - Rodion Stathos
 groups:
@@ -21,13 +25,16 @@ topics:
 - exploration
 - research
 - corporate expansion
-modern_impact: Alliance presence in the Coalsack Nebula establishes a permanent foothold for Thargoid research and meta-alloy extraction.
+modern_impact: Alliance presence in the Coalsack Nebula establishes a permanent foothold
+  for Thargoid research and meta-alloy extraction.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 9c8c78b5-e118-5b92-a58c-fd461a0ebad2
 - d8ca461e-89b4-56d2-acdf-f3e514f93f92
+- 32260e0e-400f-55a9-b936-04db515d5d11
 ---
+
 
 **Pilots Federation ALERT** 
 

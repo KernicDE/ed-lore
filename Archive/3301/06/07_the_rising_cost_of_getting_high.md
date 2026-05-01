@@ -4,8 +4,14 @@ title: The Rising Cost of Getting High
 slug: the_rising_cost_of_getting_high
 date: '3301-06-07'
 source: GitHub
-summary: Following Hudson's rise to the presidency, many Federation systems have taken a firmer stance against illegal narcotics. Prohibition has increased both risk and reward for traffickers. With supply unable to meet demand, buyers are paying prices unimaginable weeks ago. Stricter penalties may dissuade infrequent users but core demand remains. Smugglers have seen profits rise by as much as 5000%, with further increases expected as more systems crack down on illicit goods.
-player_impact: Smugglers can expect exceptionally high profits for illegal narcotics in Federation space, but face increased security and harsher penalties.
+summary: Following Hudson's rise to the presidency, many Federation systems have taken
+  a firmer stance against illegal narcotics. Prohibition has increased both risk and
+  reward for traffickers. With supply unable to meet demand, buyers are paying prices
+  unimaginable weeks ago. Stricter penalties may dissuade infrequent users but core
+  demand remains. Smugglers have seen profits rise by as much as 5000%, with further
+  increases expected as more systems crack down on illicit goods.
+player_impact: Smugglers can expect exceptionally high profits for illegal narcotics
+  in Federation space, but face increased security and harsher penalties.
 persons:
 - Zachary Hudson
 groups:
@@ -17,10 +23,20 @@ topics:
 - narcotics
 - trade
 - crime
-modern_impact: Hudson's anti-narcotics crackdown creates a booming black market with massively inflated prices for illegal drugs across Federation systems.
+modern_impact: Hudson's anti-narcotics crackdown creates a booming black market with
+  massively inflated prices for illegal drugs across Federation systems.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- b835fd7e-19db-5d69-a349-bd293a75754b
+- cc1264c1-17e7-5557-a315-700f04a2f4d9
+- afc9a94b-b11c-56b0-8e7a-e5f9b450371b
+- dcd1dfdf-7dc6-564e-8cc9-bf752c33764a
+- 843112f8-e23a-5b29-afe0-066531b74f80
+- 1a9e9b40-03e9-55ca-8402-9039b5c55901
+- 0044ac89-dd97-5198-9eeb-55ddd5202574
 ---
+
 
 In reaction to the changing political landscape in the Federation, Many systems have begun taking a much firmer stance against the supply and distribution of illegal narcotics. 
 

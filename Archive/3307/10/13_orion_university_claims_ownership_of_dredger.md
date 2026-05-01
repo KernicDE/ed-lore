@@ -4,7 +4,8 @@ title: Orion University Claims Ownership of Dredger
 slug: orion_university_claims_ownership_of_dredger
 date: '3307-10-13'
 source: API
-summary: Orion University claims legal ownership of the Scriveners Clan dredger based on historical records from 3088, though the nomadic clan refuses outside contact.
+summary: Orion University claims legal ownership of the Scriveners Clan dredger based
+  on historical records from 3088, though the nomadic clan refuses outside contact.
 player_impact: None
 persons:
 - Leland Pettigrew
@@ -14,10 +15,20 @@ groups:
 topics:
 - exploration
 - research
-modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic institutions and the nomadic society that inhabits it.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
+related_uuids:
+- c8933782-6917-568d-8b1c-f9e89c7c9c7c
+- 8d11dddf-b087-5b68-9945-af45e8953120
+- 909c6b12-f181-52cc-840a-6173b3164226
+- 9b5c7d9c-82e8-5050-ba09-ba7bbfb3c294
+- 111617dc-8948-5bee-803f-c4e0687be612
+- ac1bbb46-c78b-5615-a13e-50145a1e363c
+- 7312e2dd-8f0e-5a8a-a65d-94eac2a92285
 ---
+
 
 The ancient spacefaring home of the Scriveners Clan is the legal property of Orion University, According to newfound historical records.
 The Scriveners Clan is a nomadic tribe travelling onboard a self-sufficient Dredger-class bulk cruiser. Their society is descended from an academic organisation that sent out a research fleet two centuries ago. Unlike some dredger clans, they refuse to have any contact With outsiders.

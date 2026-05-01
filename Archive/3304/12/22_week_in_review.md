@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-12-22'
 source: GitHub
-summary: Weekly summary covering Juanita Bishop's call to ban the Far God book, new asteroid-mining equipment from the Industrial Mining Guild, Princess Aisling Duval's rejection of Nova Imperium, successful clinical trials for Vitadyne nanomedicines, Senator Simone Leatrix's Imperial festivities in Cemiess, and the end of conflict in the Wally Bei system.
+summary: Weekly summary covering Juanita Bishop's call to ban the Far God book, new
+  asteroid-mining equipment from the Industrial Mining Guild, Princess Aisling Duval's
+  rejection of Nova Imperium, successful clinical trials for Vitadyne nanomedicines,
+  Senator Simone Leatrix's Imperial festivities in Cemiess, and the end of conflict
+  in the Wally Bei system.
 player_impact: None
 persons:
 - Juanita Bishop
@@ -33,7 +37,9 @@ topics:
 - trade
 - war
 - religion
-modern_impact: This week sees converging developments across politics, medicine, and industry, with the Imperial succession crisis deepening and Vitadyne's nanomedicines approaching market approval.
+modern_impact: This week sees converging developments across politics, medicine, and
+  industry, with the Imperial succession crisis deepening and Vitadyne's nanomedicines
+  approaching market approval.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -44,6 +50,7 @@ related_uuids:
 - 82527f87-8118-575a-b275-8067087252ba
 - a5898a31-6034-573a-9534-7e6f59052202
 ---
+
 
 Here are This week’s major stories. 
 

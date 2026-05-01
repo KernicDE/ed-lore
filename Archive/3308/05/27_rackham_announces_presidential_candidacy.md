@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 The trillionaire entrepreneur Zachary Rackham has officially confirmed that he will stand as a candidate in the 3309 Federal election.
 Mr Rackham finally stated his intentions following Several weeks of speculation. At a press conference, he said:
 “I know what you’re all thinking. That guy as president? Isn’t he just a common businessman, who used to survive on scraps by trading trinkets In a rusty old Sidewinder?”

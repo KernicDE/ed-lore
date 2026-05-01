@@ -4,7 +4,9 @@ title: Mysteries of the Thargoids
 slug: mysteries_of_the_thargoids
 date: '3308-08-17'
 source: API
-summary: Professor Ishmael Palin publishes an article emphasising how little humanity truly understands about Thargoid civilisation, society, and objectives, and warns that the Proteus Wave has likely earned humanity the Thargoids' full attention.
+summary: Professor Ishmael Palin publishes an article emphasising how little humanity
+  truly understands about Thargoid civilisation, society, and objectives, and warns
+  that the Proteus Wave has likely earned humanity the Thargoids' full attention.
 player_impact: Not specifically mentioned — this is a scientific article.
 persons:
 - Ishmael Palin
@@ -18,10 +20,19 @@ topics:
 - war
 - xenoarchaeology
 arc_id: null
-modern_impact: Palin's sober assessment served as a critical counter-narrative to Azimuth's dehumanisation of Thargoids, reminding the galaxy that they were an intelligent species of enormous complexity whose motivations remained almost entirely unknown.
+modern_impact: Palin's sober assessment served as a critical counter-narrative to
+  Azimuth's dehumanisation of Thargoids, reminding the galaxy that they were an intelligent
+  species of enormous complexity whose motivations remained almost entirely unknown.
 legacy_weight: 4
 significance: medium
+related_uuids:
+- de7b4f38-c24a-586a-9b4c-3c43dff0681a
+- bf2b0186-ea55-58b5-9c81-eed7dacdf3cb
+- 6a3fd658-33a2-5409-8ade-90b666edefc5
+- 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
+- 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
 ---
+
 
 Professor Ishmael Palin, the foremost authority on the Thargoids, has authored a short article for the scientific journal The Empirical.
 “Recent events have once again brought a focus on the alien species we call Thargoids. I have witnessed governments, militaries and public figures characterise them as a mindless destructive force, akin to a swarm of locusts. I feel it is important to underscore how much is absent from our understanding.”

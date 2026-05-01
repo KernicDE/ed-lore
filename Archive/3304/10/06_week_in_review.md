@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-10-06'
 source: GitHub
-summary: Weekly summary covering Fazia Silva's murder during the Alliance presidential race, Herculean Machines' dominant performance at the Rackham Ultratech Expo, the discovery of more surveillance robots by the FSS, Juanita Bishop's failed congressional bid, Broadcast Cobra's megaship construction appeal, and the successful Oktoberfest supply campaign in Bhagui.
+summary: Weekly summary covering Fazia Silva's murder during the Alliance presidential
+  race, Herculean Machines' dominant performance at the Rackham Ultratech Expo, the
+  discovery of more surveillance robots by the FSS, Juanita Bishop's failed congressional
+  bid, Broadcast Cobra's megaship construction appeal, and the successful Oktoberfest
+  supply campaign in Bhagui.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -36,7 +40,9 @@ topics:
 - crime
 - politics
 - trade
-modern_impact: This week sees a seismic political assassination, major corporate competition outcomes, and growing revelations about surveillance technology abuses across the Federation.
+modern_impact: This week sees a seismic political assassination, major corporate competition
+  outcomes, and growing revelations about surveillance technology abuses across the
+  Federation.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -46,7 +52,9 @@ related_uuids:
 - 5e694d79-d97e-5e91-9248-447ca20344f8
 - af8f68f5-e131-5d4a-84de-c33d74e80132
 - cb43ac64-4aa0-5364-afed-ce8b91a31052
+- bfe64ab3-bf9f-5fb7-b218-e64ac5673997
 ---
+
 
 Here are This week’s major stories. 
 

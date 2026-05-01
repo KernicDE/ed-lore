@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 For The past two weeks, the Empire has been battling the insurgent organisation Emperor's Dawn in the Namarii, Tabaldak and LTT 874 systems. This morning, the Empire confirmed that the campaign had been a resounding success, resulting in the total destruction of All three Emperor's Dawn bases. Senator Denton Patreus, who has been leading the campaign against the insurrectionists, issued a defiant statement: 
 
 "Today we have delivered a decisive blow to Our enemies, shattering their forces and leaving them scattered and defenceless. For all their bluster, these dissidents have been shown themselves to be nothing more than petty brigands, lacking in unity and moral conviction, and unable to withstand the might of our combined military forces. Their bases have been destroyed, their fleets routed. Emperor's Dawn is no longer a threat." 

@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 The fight against The Cerberus Plague, Which to date has claimed thousands of lives, appears to be gaining ground. Following the efforts of medical teams to deliver the antidote to systems affected by the disease, reports have reached us that the plague has been eradicated from The following systems: 
 
 Dajoar  

@@ -4,8 +4,11 @@ title: Community Goal  Improving Mining Facilities at Kooi Gateway
 slug: community_goal_improving_mining_facilities_at_kooi_gateway
 date: '3302-04-07'
 source: GitHub
-summary: The Canary Mining Corporation announces plans to improve mining facilities at Kooi Gateway in the HIP 93377 system by requesting mineral extractors for new material-processing equipment.
-player_impact: Pilots delivered mineral extractors to Kooi Gateway in the HIP 93377 system to improve mining facilities.
+summary: The Canary Mining Corporation announces plans to improve mining facilities
+  at Kooi Gateway in the HIP 93377 system by requesting mineral extractors for new
+  material-processing equipment.
+player_impact: Pilots delivered mineral extractors to Kooi Gateway in the HIP 93377
+  system to improve mining facilities.
 groups:
 - Canary Mining Corporation
 locations:
@@ -17,7 +20,11 @@ topics:
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- ecd61dd1-f5cd-56f6-945c-d0380ac13b3a
+- 157b98f9-9126-5564-b254-2cbba5d2f266
 ---
+
 
 The Canary Mining Corporation has announced plans to improve mining in the HIP 93377 system by asking Independent pilots to deliver mineral extractors to Kooi Gateway, for the development of improved material-processing facilities at the station. 
 

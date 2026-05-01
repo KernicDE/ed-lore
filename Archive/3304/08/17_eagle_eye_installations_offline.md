@@ -4,8 +4,14 @@ title: Eagle Eye Installations Offline
 slug: eagle_eye_installations_offline
 date: '3304-08-17'
 source: GitHub
-summary: Admiral Aden Tanner confirms Aegis's Eagle Eye installations are offline due to Thargoid sensor-related interference at Dantec Enterprise, home of Aegis Core. The installations monitor energy-level fluctuations at Thargoid surface sites to determine attack targets. Without continuous data feeds, they are useless. Tanner requests pilots deliver meta-alloys to Dantec Enterprise to restore the starport and reactivate the network.
-player_impact: Independent pilots can deliver meta-alloys to Dantec Enterprise to help restore Aegis Core's operations and the Eagle Eye network.
+summary: Admiral Aden Tanner confirms Aegis's Eagle Eye installations are offline
+  due to Thargoid sensor-related interference at Dantec Enterprise, home of Aegis
+  Core. The installations monitor energy-level fluctuations at Thargoid surface sites
+  to determine attack targets. Without continuous data feeds, they are useless. Tanner
+  requests pilots deliver meta-alloys to Dantec Enterprise to restore the starport
+  and reactivate the network.
+player_impact: Independent pilots can deliver meta-alloys to Dantec Enterprise to
+  help restore Aegis Core's operations and the Eagle Eye network.
 persons:
 - Aden Tanner
 groups:
@@ -18,12 +24,15 @@ topics:
 - alien contact
 - engineering
 - war
-modern_impact: The Eagle Eye network outage represents a critical vulnerability in anti-Thargoid defences, leaving systems unaware of impending attacks until Aegis Core can be restored.
+modern_impact: The Eagle Eye network outage represents a critical vulnerability in
+  anti-Thargoid defences, leaving systems unaware of impending attacks until Aegis
+  Core can be restored.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 8dc2f758-fb8f-5970-a0c1-77e52bb5671f
 ---
+
 
 Admiral Aden Tanner has confirmed reports that Aegis’s Eagle Eye installations are offline. 
 

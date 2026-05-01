@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The Privateers Alliance has announced plans to build a military installation in the HIP 33368 system. 
 
 The installation will “reinforce the gates” by defending the core systems from Thargoid forces in the Pleiades. 

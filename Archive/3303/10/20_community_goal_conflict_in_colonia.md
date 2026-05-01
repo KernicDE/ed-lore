@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Since it was founded in July 3302, The Colonia community has become a bastion of peace, seen by Many as an island of calm In a sea of conflict. 
 
 But the region is not impervious to occasional outbreaks of violence, and as Colonia’s population grows, such outbreaks look likely to become more frequent. 

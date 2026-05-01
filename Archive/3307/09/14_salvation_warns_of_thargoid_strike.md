@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 The anonymous figure known as Salvation claims that Thargoid forces will shortly launch an assault in the Cornsar system.
 The following message was received by all major newsfeeds:
 “This is Salvation. Authorities in the Cornsar system must evacuate the local population immediately. I believe a Thargoid invasion of the system is imminent.”

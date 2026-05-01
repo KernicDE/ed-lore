@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Aegis has announced a second military strike on a Thargoid-occupied system, following The success of Operation Andronicus. The operation will focus on Electra, where high concentrations of Thargoid vessels have been reported. 
 
 Admiral Aden Tanner, Aegis's chief military liaison, elaborated on the nature of the operation: 

@@ -4,7 +4,10 @@ title: Blight Mutates into New Pathogen
 slug: blight_mutates_into_new_pathogen
 date: '3305-10-23'
 source: GitHub
-summary: The blight pathogen mutates into a self-sufficient form capable of surviving without the fertiliser. Lead researcher Mason Chu warns it could become a galaxy-wide scourge. The Coalition for Onion Head Legalisation distances itself from Scythe of Panem.
+summary: The blight pathogen mutates into a self-sufficient form capable of surviving
+  without the fertiliser. Lead researcher Mason Chu warns it could become a galaxy-wide
+  scourge. The Coalition for Onion Head Legalisation distances itself from Scythe
+  of Panem.
 player_impact: None
 persons:
 - Mason Chu
@@ -21,7 +24,8 @@ topics:
 - medicine
 - research
 - terrorism
-modern_impact: The mutation transforms the blight from a contained threat into a potentially permanent ecological danger requiring ongoing treatment.
+modern_impact: The mutation transforms the blight from a contained threat into a potentially
+  permanent ecological danger requiring ongoing treatment.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -29,6 +33,7 @@ related_uuids:
 - 35c77875-ffa6-5438-a24c-646a7350dccd
 - ca2d40ce-2068-58cb-be1d-1939ef1aa2b1
 ---
+
 
 The pathogen introduced to crops by the contaminated EX7 fertiliser has displayed signs of self-sufficiency, potentially threatening crops in thousands of systems. 
 

@@ -4,7 +4,9 @@ title: Winters Outlines Her Future Presidency
 slug: winters_outlines_her_future_presidency
 date: '3309-10-19'
 source: API
-summary: 'President-elect Winters discusses her priorities: dismantling the PDB, shifting from military to social spending, and continuing Aegis support for the Thargoid war.'
+summary: 'President-elect Winters discusses her priorities: dismantling the PDB, shifting
+  from military to social spending, and continuing Aegis support for the Thargoid
+  war.'
 player_impact: Not specifically mentioned — this is a policy interview.
 persons:
 - Felicia Winters
@@ -19,12 +21,19 @@ topics:
 - humanitarian
 - politics
 arc_id: null
-modern_impact: Winters's pledge to 'dismantle this monstrosity, ending the surveillance of private communications' is her signature policy. Her framing — 'We are not the Empire – we serve our people rather than rule over them' — contrasts with Imperial governance. Sol Today's hostile editorial — 'the Federation will rot from within... freeloaders and criminals get a free pass' — previews the Republican opposition narrative.
+modern_impact: Winters's pledge to 'dismantle this monstrosity, ending the surveillance
+  of private communications' is her signature policy. Her framing — 'We are not the
+  Empire – we serve our people rather than rule over them' — contrasts with Imperial
+  governance. Sol Today's hostile editorial — 'the Federation will rot from within...
+  freeloaders and criminals get a free pass' — previews the Republican opposition
+  narrative.
 legacy_weight: 5
 significance: high
 related_uuids:
 - ba96abf1-456d-5b32-aa72-2a4b52ee1484
+- 86ccf794-59d3-5bc5-ae63-b689d2a5d777
 ---
+
 
 President-elect Felicia Winters has discussed her election victory and other topics during an interview with The Federal Times.
 On defeating Vice President Jerome Archer:

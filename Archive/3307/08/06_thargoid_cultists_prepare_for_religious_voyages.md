@@ -25,6 +25,7 @@ related_uuids:
 ---
 
 
+
 Three megaships are being Populated by The Far God cult, part of their latest effort to recruit members and find their alien deity.
 The first Vessel, the Testament, will serve as a missionary ship and journey throughout the core systems, attempting to convert new followers to the Thargoid-worshipping sect.
 While the mystical cult is typically secretive in nature, Vox Galactica obtained a quote from a member named the Second Witness of the Seventieth Chapter:

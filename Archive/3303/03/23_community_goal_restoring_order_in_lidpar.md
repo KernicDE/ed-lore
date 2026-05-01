@@ -4,8 +4,12 @@ title: Community Goal  Restoring Order in Lidpar
 slug: community_goal_restoring_order_in_lidpar
 date: '3303-03-23'
 source: GitHub
-summary: Authorities in the Lidpar system reported a sharp increase in criminals attacking pilots and disrupting trade. The Union of Lidpar Green Party placed a kill order on wanted ships and requested battle weapons, reactive armour and advanced medicines for local security forces.
-player_impact: Deliver bounty vouchers, battle weapons, reactive armour and advanced medicines to Carlisle Station in the Lidpar system.
+summary: Authorities in the Lidpar system reported a sharp increase in criminals attacking
+  pilots and disrupting trade. The Union of Lidpar Green Party placed a kill order
+  on wanted ships and requested battle weapons, reactive armour and advanced medicines
+  for local security forces.
+player_impact: Deliver bounty vouchers, battle weapons, reactive armour and advanced
+  medicines to Carlisle Station in the Lidpar system.
 persons: []
 groups:
 - Union of Lidpar Green Party
@@ -20,7 +24,10 @@ topics:
 modern_impact: None
 legacy_weight: 2
 significance: low
+related_uuids:
+- 59fcf94f-b22a-5a3c-bdbf-27f485b297a4
 ---
+
 
 Authorities in The Lidpar system have reported a sharp increase in The number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally spreading discord. 
 

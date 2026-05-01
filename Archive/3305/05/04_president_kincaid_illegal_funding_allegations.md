@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 President Gibson Kincaid has been accused of receiving illegal campaign funding via The Bank of Zaonce. 
 
 Councillor Elijah Beck presented evidence to a special session of the Alliance Assembly: 

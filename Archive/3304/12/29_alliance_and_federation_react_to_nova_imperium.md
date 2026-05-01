@@ -4,7 +4,12 @@ title: Alliance and Federation React to Nova Imperium
 slug: alliance_and_federation_react_to_nova_imperium
 date: '3304-12-29'
 source: GitHub
-summary: Alliance Prime Minister Edmund Mahon states that Imperial civil unrest is an internal matter but expresses concern if it affects inter-superpower cooperation. Federal President Zachary Hudson warns that if Nova Imperium comes to power and ceases Aegis contributions, the Federation would be forced to intervene to safeguard humanity against the Thargoid threat. Independent sources confirm increased Federal Navy resupplies and fleet manoeuvres near Imperial borders.
+summary: Alliance Prime Minister Edmund Mahon states that Imperial civil unrest is
+  an internal matter but expresses concern if it affects inter-superpower cooperation.
+  Federal President Zachary Hudson warns that if Nova Imperium comes to power and
+  ceases Aegis contributions, the Federation would be forced to intervene to safeguard
+  humanity against the Thargoid threat. Independent sources confirm increased Federal
+  Navy resupplies and fleet manoeuvres near Imperial borders.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -19,7 +24,9 @@ topics:
 - politics
 - alien contact
 - war
-modern_impact: The superpowers' reactions to Nova Imperium raise the stakes of the Imperial succession crisis, with the Federation explicitly threatening military intervention if Aegis cooperation is jeopardised.
+modern_impact: The superpowers' reactions to Nova Imperium raise the stakes of the
+  Imperial succession crisis, with the Federation explicitly threatening military
+  intervention if Aegis cooperation is jeopardised.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -28,7 +35,9 @@ related_uuids:
 - e9ba1e32-22ee-5764-816f-cb9a399539ab
 - ffb9ecd2-59b8-5d12-932c-344d2f9e0b14
 - ee4ca040-662c-5763-b220-4db105a7fd77
+- 71380724-9d28-5323-b4f9-da0fd87a0f93
 ---
+
 
 The leaders of the Alliance and the Federation have commented on the rise of the isolationist group Nova Imperium. 
 

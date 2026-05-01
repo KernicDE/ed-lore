@@ -4,8 +4,15 @@ title: Patreus Demands Debt from Themiscrya
 slug: patreus_demands_debt_from_themiscrya
 date: '3301-03-31'
 source: GitHub
-summary: Senator Denton Patreus has demanded repayment of a heavy debt from the Nationals of Themiscrya, who borrowed from him last year to initiate regime change. The Nationals have stabilised the region but cannot meet their obligations. They fortified their headquarters on Lily May and acquired a satellite defence system for Bamford Station, which was sold to them by Patreus's representatives. Patreus has given a 7-day grace period before sending bailiffs to reclaim his property. It is unclear whether Patreus retains remote access to the defence system.
-player_impact: Pilots in Themiscrya should monitor the situation as Patreus may deploy forces to reclaim his assets, potentially triggering conflict.
+summary: Senator Denton Patreus has demanded repayment of a heavy debt from the Nationals
+  of Themiscrya, who borrowed from him last year to initiate regime change. The Nationals
+  have stabilised the region but cannot meet their obligations. They fortified their
+  headquarters on Lily May and acquired a satellite defence system for Bamford Station,
+  which was sold to them by Patreus's representatives. Patreus has given a 7-day grace
+  period before sending bailiffs to reclaim his property. It is unclear whether Patreus
+  retains remote access to the defence system.
+player_impact: Pilots in Themiscrya should monitor the situation as Patreus may deploy
+  forces to reclaim his assets, potentially triggering conflict.
 persons:
 - Denton Patreus
 groups:
@@ -16,10 +23,18 @@ locations:
 - Bamford Station
 topics:
 - politics
-modern_impact: Patreus's debt collection tactics in Themiscrya exemplified his willingness to use financial leverage as a tool of Imperial expansion and control.
+modern_impact: Patreus's debt collection tactics in Themiscrya exemplified his willingness
+  to use financial leverage as a tool of Imperial expansion and control.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 8471c705-e4f5-592e-9b9e-61db275731ea
+- 2c3a3f21-aa45-532e-96c3-1c53cc3fd1de
+- 27f7de2c-3d4a-5640-a4b8-806d03cb6d81
+- 37ec2f6b-0279-58e6-9ba8-c409f851742b
+- 65bc95ff-68c1-521d-aa1d-9b3f23d1a531
 ---
+
 
 The small system of Themiscrya has Found itself embroiled In a row With Imperial Senator Denton Patreus. According to sources close to The situation, last year The Nationals of Themiscrya borrowed heavily from Senator Patreus in order to initiate regime change in Themiscrya. Now the Senator has called in the debt, and the Nationals of Themiscrya find themselves in the unfortunate position of being unable to make good on their obligations. 
 

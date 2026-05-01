@@ -4,8 +4,14 @@ title: Fight Club Rocks Athena
 slug: fight_club_rocks_athena
 date: '3301-10-26'
 source: GitHub
-summary: The XYZ Fight Club held its 'Cobra Crunch' event at Powell Terminal in the Athena system, featuring an all-on-all Cobra Mk III battle. Commander Estalath emerged as the victor after four hours of combat. Station security issued thousands of credits in fines but reported no significant station damage. System authorities expressed displeasure at hosting a second event.
-player_impact: Pilots interested in organized combat sports can participate in XYZ Fight Club events, typically held at specific stations. Participants should expect fines and should avoid damaging station infrastructure.
+summary: The XYZ Fight Club held its 'Cobra Crunch' event at Powell Terminal in the
+  Athena system, featuring an all-on-all Cobra Mk III battle. Commander Estalath emerged
+  as the victor after four hours of combat. Station security issued thousands of credits
+  in fines but reported no significant station damage. System authorities expressed
+  displeasure at hosting a second event.
+player_impact: Pilots interested in organized combat sports can participate in XYZ
+  Fight Club events, typically held at specific stations. Participants should expect
+  fines and should avoid damaging station infrastructure.
 persons:
 - Estalath
 - Amphetamine Rush
@@ -16,10 +22,14 @@ locations:
 - Powell Terminal
 topics:
 - sport
-modern_impact: Player-organized combat sporting event demonstrating community-driven PvP activities.
+modern_impact: Player-organized combat sporting event demonstrating community-driven
+  PvP activities.
 legacy_weight: 1
 significance: low
+related_uuids:
+- c267b84b-57a2-5a63-8d0d-e2363834a969
 ---
+
 
 At approximately 21:00 on Saturday The 18th October 3301, a slew of heavily armed Cobras began congregating outside Powell Terminal in the Athena system for an all-on-all bloodbath. Millions of credits' worth of insurance claims were issued As the Commanders of the XYZ Fight Club kicked off the 'Cobra Crunch'. 
 

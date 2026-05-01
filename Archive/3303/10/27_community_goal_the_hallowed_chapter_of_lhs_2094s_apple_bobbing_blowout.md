@@ -4,7 +4,9 @@ title: Community Goal  The Hallowed Chapter of LHS 2094's Apple Bobbing Blowout
 slug: community_goal_the_hallowed_chapter_of_lhs_2094s_apple_bobbing_blowout
 date: '3303-10-27'
 source: GitHub
-summary: The Hallowed Chapter of LHS 2094 is hosting the galaxy's biggest Halloween party, featuring apple bobbing and other festivities. The event aims to provide a lighthearted diversion from the ongoing Thargoid threat.
+summary: The Hallowed Chapter of LHS 2094 is hosting the galaxy's biggest Halloween
+  party, featuring apple bobbing and other festivities. The event aims to provide
+  a lighthearted diversion from the ongoing Thargoid threat.
 player_impact: Deliver commodities to Patterson Vision in the LHS 2094 system.
 persons: []
 groups:
@@ -19,10 +21,18 @@ topics:
 - festival
 - trade
 technologies: []
-modern_impact: A seasonal community festival demonstrating pilot culture and morale-building events even during times of galactic conflict.
+modern_impact: A seasonal community festival demonstrating pilot culture and morale-building
+  events even during times of galactic conflict.
 legacy_weight: 2
 significance: low
+related_uuids:
+- ed47099e-9899-570b-a8f1-a09df4c5348e
+- ea94c671-952c-5718-9aa5-59dcf11437c5
+- 0a5c03ec-4196-5196-8514-1881fe73b7d5
+- e682eab8-3b94-5fbc-af53-b9a379442923
+- 0c4c43c4-ebae-5aa6-bf6e-dd9ef98b6ed7
 ---
+
 
 While Halloween is widely thought to have Its roots in harvest festivals from Earth's ancient past, in the modern era it is largely seen as an opportunity to unwind and share a drink With friends. 
 

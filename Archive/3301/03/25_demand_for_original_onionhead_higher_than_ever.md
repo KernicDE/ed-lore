@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - 7a47b8fd-dda9-5d7e-99f3-5c8845d59508
 - 8a13b80f-4222-50f5-becf-48fb8fe2d4ee
+- dd792af2-b24a-5dfb-bd17-8c3d5a502979
 ---
+
 
 
 Thousands of traders have started flocking back to Kappa Fornacis following The announcement that Onionhead is once again available for sale onboard Harvestport. 

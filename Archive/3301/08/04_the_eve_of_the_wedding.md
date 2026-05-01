@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The atmosphere here on Capitol is electric. The whole city is abuzz With what some commentators have declared ‘The Wedding of the Century’. Street parties are in full swing in Every Imperial system , but none compare to the grand events underway here at the birthplace of the Empire, especially within the Fragrant City as it is now known. 
 
 Dignitaries from Every major population centre in the Empire have arrived over the past week, and now it is the turn of the foreign dignitaries to arrive With much fanfare. Shadow President Winters is representing the Federation, her business-like attire contrasting With the bright colours of the welcoming officials. 

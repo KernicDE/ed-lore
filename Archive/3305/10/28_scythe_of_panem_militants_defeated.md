@@ -4,8 +4,11 @@ title: Scythe of Panem Militants Defeated
 slug: scythe_of_panem_militants_defeated
 date: '3305-10-28'
 source: GitHub
-summary: Scythe of Panem militants are defeated in the Quator system. Bruthanvan Co security teams and independent pilots neutralise the group's ringleaders. An underground facility beneath Weber Settlement yields arrest evidence.
-player_impact: Pilots who assisted in Quator can collect rewards from Bruthanvan Co at Quator Station.
+summary: Scythe of Panem militants are defeated in the Quator system. Bruthanvan Co
+  security teams and independent pilots neutralise the group's ringleaders. An underground
+  facility beneath Weber Settlement yields arrest evidence.
+player_impact: Pilots who assisted in Quator can collect rewards from Bruthanvan Co
+  at Quator Station.
 persons:
 - Gino Borstein
 - Adalyn Cross
@@ -21,7 +24,8 @@ locations:
 topics:
 - terrorism
 - war
-modern_impact: The defeat of Scythe of Panem ends the terrorist threat but leaves unanswered questions about whether the blight damage can be reversed.
+modern_impact: The defeat of Scythe of Panem ends the terrorist threat but leaves
+  unanswered questions about whether the blight damage can be reversed.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -29,6 +33,7 @@ related_uuids:
 - b6bad842-f04e-5865-892e-cfeb17f2f5da
 - deca2e98-3214-58c6-a3a2-3cf6ed0dddc6
 ---
+
 
 Scythe of Panem, The activist group responsible for the crop-destroying blight, has been defeated in the Quator system. 
 

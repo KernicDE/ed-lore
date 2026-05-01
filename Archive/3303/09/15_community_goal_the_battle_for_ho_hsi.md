@@ -4,8 +4,12 @@ title: Community Goal  The Battle for Ho Hsi
 slug: community_goal_the_battle_for_ho_hsi
 date: '3303-09-15'
 source: GitHub
-summary: Conflict has erupted in the Ho Hsi system between Ho Hsi Jet Comms Limited and the Freedom Party of Ho Hsi. Both factions have issued calls for aid, appealing to independent combat pilots for support in their week-long operations for system control.
-player_impact: Support either Ho Hsi Jet Comms Limited or the Freedom Party of Ho Hsi in the conflict for combat bonds and rewards.
+summary: Conflict has erupted in the Ho Hsi system between Ho Hsi Jet Comms Limited
+  and the Freedom Party of Ho Hsi. Both factions have issued calls for aid, appealing
+  to independent combat pilots for support in their week-long operations for system
+  control.
+player_impact: Support either Ho Hsi Jet Comms Limited or the Freedom Party of Ho
+  Hsi in the conflict for combat bonds and rewards.
 persons: []
 groups:
 - Ho Hsi Jet Comms Limited
@@ -15,10 +19,14 @@ locations:
 topics:
 - war
 technologies: []
-modern_impact: Territorial faction conflict in Ho Hsi demonstrates the ongoing volatility of local power struggles and the reliance on independent combat pilots.
+modern_impact: Territorial faction conflict in Ho Hsi demonstrates the ongoing volatility
+  of local power struggles and the reliance on independent combat pilots.
 legacy_weight: 2
 significance: low
+related_uuids:
+- ffae5d69-381a-59cf-8f8d-b2244f06cbd2
 ---
+
 
 Recent reports indicate that conflict has erupted in the Ho Hsi system between Ho Hsi Jet Comms Limited and the Freedom Party of Ho Hsi. System security forces were caught off guard by the violence, Which began without warning and has escalated rapidly since then. 
 

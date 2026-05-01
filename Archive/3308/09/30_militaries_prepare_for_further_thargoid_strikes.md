@@ -45,7 +45,10 @@ related_uuids:
 - 8a26f4a9-1a35-52dd-aa8f-1dff5fd3a27d
 - 9513b10c-ee1c-5ada-a417-ddd9b005dab0
 - d6063fe1-a6b1-595d-b957-5243e1ce6784
+- 06c601f9-d6e1-544a-8af2-261838d10ba8
+- 1678fa94-d3b9-5a9e-b13e-15335a42269e
 ---
+
 
 
 The prospect of more systems being invaded by Thargoids has placed the Alliance, Empire and Federation on high alert.

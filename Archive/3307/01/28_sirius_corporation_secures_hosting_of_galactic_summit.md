@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Sirius Corporation has received more data than Utopia and will therefore host The Galactic Summit.
 Both organisations proposed to organise a diplomatic conference for the Alliance, Empire and Federation. After calling on the galactic community to gather data that would support security operations, Many pilots handed in anomalous bulk scan data, atypical disrupted wake echoes, exceptional scrambled emission data and unusual encrypted files.

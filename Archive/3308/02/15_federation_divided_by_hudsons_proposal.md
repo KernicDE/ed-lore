@@ -4,7 +4,8 @@ title: Federation Divided by Hudson’s Proposal
 slug: federation_divided_by_hudsons_proposal
 date: '3308-02-15'
 source: API
-summary: President Hudson's term-limit proposal sparks deep political divisions across the Federation.
+summary: President Hudson's term-limit proposal sparks deep political divisions across
+  the Federation.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Felicia Winters
@@ -15,7 +16,10 @@ locations: []
 topics: []
 entities: []
 arc_id: federal-politics
-modern_impact: '"President Zachary Hudson''s intention to remove the limit on his term in office has caused a deep rift." Hudson''s constitutional overreach fractures the Federation along partisan lines and energizes the opposition led by Shadow President Winters.'
+modern_impact: '"President Zachary Hudson''s intention to remove the limit on his
+  term in office has caused a deep rift." Hudson''s constitutional overreach fractures
+  the Federation along partisan lines and energizes the opposition led by Shadow President
+  Winters.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -24,6 +28,7 @@ related_uuids:
 - a593babc-119b-5679-9171-3c1520208d98
 - 83d655f9-5cb4-5fb1-baa5-f5c64bb30cbf
 ---
+
 
 President Zachary Hudson’s intention to remove The limit on his term in office has caused a deep rift among congressmen and voters alike.
 Political correspondent Sofia Trevino analysed the situation in The Federal Times:

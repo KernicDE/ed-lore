@@ -4,8 +4,14 @@ title: Rind Gold Electronics Org Campaign
 slug: rind_gold_electronics_org_campaign
 date: '3304-04-13'
 source: GitHub
-summary: The Empire has announced an initiative to bolster military strength through a new pilot-training programme. The Rind Gold Electronics Org is overseeing the initiative, which uses a state-of-the-art training programme developed by a research group in Achenar to cultivate reflexes, coordination, perception and cognitive abilities. The organisation has placed orders for research materials and mined resources to construct a dedicated training centre.
-player_impact: Pilots can deliver research materials and mined resources to support the construction of the training centre and earn rewards.
+summary: The Empire has announced an initiative to bolster military strength through
+  a new pilot-training programme. The Rind Gold Electronics Org is overseeing the
+  initiative, which uses a state-of-the-art training programme developed by a research
+  group in Achenar to cultivate reflexes, coordination, perception and cognitive abilities.
+  The organisation has placed orders for research materials and mined resources to
+  construct a dedicated training centre.
+player_impact: Pilots can deliver research materials and mined resources to support
+  the construction of the training centre and earn rewards.
 persons: []
 groups:
 - Rind Gold Electronics Org
@@ -16,10 +22,18 @@ locations:
 topics:
 - research
 - construction
-modern_impact: Investment in next-generation pilot training reflects the Empire's long-term military preparedness strategy.
+modern_impact: Investment in next-generation pilot training reflects the Empire's
+  long-term military preparedness strategy.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 0fe4130a-257b-58ad-b131-57e5d9c6ade6
+- d3344fae-a41f-5e7b-af0b-ed85632fd68e
+- 9665e067-39ba-5291-ad4e-d19f356c2e60
+- 07e20d67-df6b-5dc6-8ac9-c8e744e9a973
+- 7cd9f984-fa18-5712-9bc4-cd7321937486
 ---
+
 
 The Empire has announced an initiative to bolster the superpower’s military strength. The initiative centres on a new training programme designed to create the next generation of starship pilots. 
 

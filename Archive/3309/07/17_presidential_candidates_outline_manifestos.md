@@ -4,7 +4,9 @@ title: Presidential Candidates Outline Manifestos
 slug: presidential_candidates_outline_manifestos
 date: '3309-07-17'
 source: API
-summary: The three Federal presidential candidates outline their manifestos in a second debate, with Archer prioritizing security, Winters advocating corporate taxation, and Rackham offering populist slogans.
+summary: The three Federal presidential candidates outline their manifestos in a second
+  debate, with Archer prioritizing security, Winters advocating corporate taxation,
+  and Rackham offering populist slogans.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Jerome Archer
@@ -19,14 +21,21 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Archer's boast about the PDB — 'which prove I am a man of my word' — is chilling given its surveillance implications. Winters's counter — 'Mr Archer's obsession with police-state programmes can only push the Federation further toward an authoritarian dystopia' — is prescient. Rackham's dismissal — 'Is anyone else as bored of these two windbags as I am?' — is classic populist theater. The election delay due to refugee re-registration is a significant procedural detail.
+modern_impact: Archer's boast about the PDB — 'which prove I am a man of my word'
+  — is chilling given its surveillance implications. Winters's counter — 'Mr Archer's
+  obsession with police-state programmes can only push the Federation further toward
+  an authoritarian dystopia' — is prescient. Rackham's dismissal — 'Is anyone else
+  as bored of these two windbags as I am?' — is classic populist theater. The election
+  delay due to refugee re-registration is a significant procedural detail.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 2bb62465-0b86-5863-b66c-78972defe368
 - eb9dd208-a971-5c34-9298-f210626a15d5
 - e1f8912f-da0e-5d58-8e5d-3f2427694698
+- 2463d645-c924-59e3-95ae-502d99f8b646
 ---
+
 
 The three candidates in the Federal presidential election have taken part in a second live debate to discuss policies.
 The event was more closely moderated than the first debate in June. The candidates discussed their campaigns in detail, with minimal interruption from their rivals.

@@ -4,8 +4,11 @@ title: Engineers Boost Ship Module Upgrading
 slug: engineers_boost_ship_module_upgrading
 date: '3306-12-17'
 source: API
-summary: Engineers across the galaxy collaborate to offer boosted ship module upgrades until the 7th of January 3307, partly in solidarity with Liz Ryder after the Eurybia incident.
-player_impact: Pilots received increased augmentation for engineered weapons and modules at all workshops during the promotional period.
+summary: Engineers across the galaxy collaborate to offer boosted ship module upgrades
+  until the 7th of January 3307, partly in solidarity with Liz Ryder after the Eurybia
+  incident.
+player_impact: Pilots received increased augmentation for engineered weapons and modules
+  at all workshops during the promotional period.
 persons:
 - Lori Jameson
 - Liz Ryder
@@ -14,10 +17,18 @@ groups:
 - Alliance
 topics:
 - engineering
-modern_impact: The engineer network remains a vital resource for pilots seeking customised ship modifications.
+modern_impact: The engineer network remains a vital resource for pilots seeking customised
+  ship modifications.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9c8c78b5-e118-5b92-a58c-fd461a0ebad2
+- fdfcbad6-3839-516e-9fa7-708cee9ad0e3
+- 43d42a62-1967-5dd8-92f0-cf6f23af8ff4
+- fd711480-da04-5fa2-a89b-487d6ad1a160
+- 7b30ef91-455e-537b-82c5-29040c141eb4
 ---
+
 
 **Pilots Federation ALERT**
 The effectiveness of Engineers’ upgrading for ship modules will be boosted until the 7th of January 3307.

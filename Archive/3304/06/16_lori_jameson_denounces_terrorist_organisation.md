@@ -4,7 +4,12 @@ title: Lori Jameson Denounces Terrorist Organisation
 slug: lori_jameson_denounces_terrorist_organisation
 date: '3304-06-16'
 source: GitHub
-summary: Engineer Lori Jameson makes a public statement denying any connection to the League of Reparation, which claims to seek justice for her ancestor Commander John Jameson. Recorded at Jameson Memorial, she calls the acts misguided, unnecessary and evil, and appeals directly to Nexus to stop. Senior Agent Tanya Ramirez confirms Lori Jameson is cooperating with the investigation and is entirely unconnected to the League.
+summary: Engineer Lori Jameson makes a public statement denying any connection to
+  the League of Reparation, which claims to seek justice for her ancestor Commander
+  John Jameson. Recorded at Jameson Memorial, she calls the acts misguided, unnecessary
+  and evil, and appeals directly to Nexus to stop. Senior Agent Tanya Ramirez confirms
+  Lori Jameson is cooperating with the investigation and is entirely unconnected to
+  the League.
 player_impact: None
 persons:
 - Lori Jameson
@@ -20,13 +25,15 @@ locations:
 topics:
 - terrorism
 - investigation
-modern_impact: Lori Jameson's public denunciation distances her family from the terrorist organisation while humanising the victims of genealogical terrorism.
+modern_impact: Lori Jameson's public denunciation distances her family from the terrorist
+  organisation while humanising the victims of genealogical terrorism.
 legacy_weight: 2
 significance: low
 related_uuids:
 - e1242f6c-1a65-52aa-b73b-90d58f8d4086
 - 3422afa3-30f2-5ba6-a072-d7dde266572f
 ---
+
 
 The engineer Lori Jameson has made a public statement regarding the League of Reparation. The terrorist group claims to be seeking justice for the betrayal of her ancestor, the legendary pilot Commander John Jameson. 
 

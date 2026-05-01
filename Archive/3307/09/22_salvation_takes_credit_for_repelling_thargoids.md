@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 The anonymous ‘man of science’ Salvation has claimed responsibility for the Thargoids’ unexplained departure from the Cornsar system.
 Salvation had predicted their attack, but his claim was discounted by Aegis and Other authorities. After a few days the Thargoid vessels fled abruptly, leaving behind wreckages across the system.
 The following message was transmitted on public channels:

@@ -41,7 +41,14 @@ significance: medium
 related_uuids:
 - 5e7fad32-e3d0-56dd-9273-45a2d58afa4b
 - 9a570699-1840-5d09-b9e3-bdcab0452b53
+- 85b23ebd-1a8e-5ccb-b99f-d8545b4ec018
+- 2434fab9-6993-5ea4-9e9b-7e8e839ada9a
+- cb60156f-f6ad-543b-b549-c1f23472cfba
+- 4b20ea1c-afb5-5356-90d9-815b492969ca
+- a5eafe36-0c7f-5078-a73b-cff63977c6b4
+- 32b3485a-5b8b-5ec3-af24-ae8f69d54bd7
 ---
+
 
 
 Allegations have surfaced from sources close to The office of Prime Minister Edmund Mahon that unnamed elements within The Pilots Federation are deliberately undermining democratic factions in the Old Worlds. These groups are allegedly scheming to push corporate governments into power to strengthen trade agreements With Alioth. 

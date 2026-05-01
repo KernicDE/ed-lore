@@ -30,7 +30,11 @@ significance: high
 related_uuids:
 - 45f1d963-4222-5108-9654-fda5a4a5723f
 - 92e1cd71-0db3-521d-b9a2-9f1076635616
+- 1ab6978e-31d2-5bf5-84c1-e734d4c0ea14
+- 6f0f3a03-39ad-5c66-aad8-2ba57135138c
+- 19b3bd18-9399-56c6-8df0-25f67df2380b
 ---
+
 
 
 Four days ago, The galaxy was stunned by news that mysterious ruins had been discovered in the Synuefe XR-H d11-102 system. 

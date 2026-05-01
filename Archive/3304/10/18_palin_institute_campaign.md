@@ -4,8 +4,13 @@ title: Palin Institute Campaign
 slug: palin_institute_campaign
 date: '3304-10-18'
 source: GitHub
-summary: The Palin Institute announces an accelerated xenobiological research programme to analyse Thargoid motives behind their aggression. Director Professor Cora Shaw states the Institute's stock of xenobiological samples is severely depleted. The Ryder Revolutionary Party places an open order for Thargoid materials to be delivered to Obsidian Orbital in the Maia system, with a kill order protecting contributors.
-player_impact: Independent pilots can deliver Thargoid materials to Obsidian Orbital in the Maia system and earn rewards. The campaign runs for one week.
+summary: The Palin Institute announces an accelerated xenobiological research programme
+  to analyse Thargoid motives behind their aggression. Director Professor Cora Shaw
+  states the Institute's stock of xenobiological samples is severely depleted. The
+  Ryder Revolutionary Party places an open order for Thargoid materials to be delivered
+  to Obsidian Orbital in the Maia system, with a kill order protecting contributors.
+player_impact: Independent pilots can deliver Thargoid materials to Obsidian Orbital
+  in the Maia system and earn rewards. The campaign runs for one week.
 persons:
 - Cora Shaw
 groups:
@@ -17,10 +22,19 @@ locations:
 topics:
 - alien contact
 - research
-modern_impact: The Palin Institute's Thargoid research programme represents a major scientific effort to understand alien motivations, with potential implications for defence strategy and diplomatic approaches.
+modern_impact: The Palin Institute's Thargoid research programme represents a major
+  scientific effort to understand alien motivations, with potential implications for
+  defence strategy and diplomatic approaches.
 legacy_weight: 5
 significance: high
+related_uuids:
+- b44e5b3d-bdc1-593b-b3b3-4aadb860168c
+- 39d10f11-1501-53f4-acd5-99c97fd9d739
+- 1c944fdb-3a89-5a66-86a1-5463dc51f024
+- 9c14fb9b-691f-5a44-88cb-dcb9d651b1ac
+- 0856035e-4ad7-545b-bb09-9480bea555fb
 ---
+
 
 The Palin Institute has announced an accelerated programme of study to analyse a range of xenobiological data, and perhaps discern the motives behind the Thargoids’ unrelenting aggression.  
 

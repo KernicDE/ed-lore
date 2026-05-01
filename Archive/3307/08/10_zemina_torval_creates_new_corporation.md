@@ -4,7 +4,8 @@ title: Zemina Torval Creates New Corporation
 slug: zemina_torval_creates_new_corporation
 date: '3307-08-10'
 source: API
-summary: Senator Zemina Torval establishes Torval-Mastopolos Mining, an autonomous offshoot of Mastopolos Mining, signaling a potential rift with CEO Gabriella Mastopolos.
+summary: Senator Zemina Torval establishes Torval-Mastopolos Mining, an autonomous
+  offshoot of Mastopolos Mining, signaling a potential rift with CEO Gabriella Mastopolos.
 player_impact: None
 persons:
 - Zemina Torval
@@ -19,7 +20,14 @@ topics:
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 4cc06532-0439-552f-8fed-93ae66522a99
+- 651da410-ff42-5fdc-a2c0-57d28d51f09c
+- 8166b978-b215-5a99-a096-f6343aff213e
+- 859a4930-894d-5ce5-be9e-a7748fa13041
+- 9d3f4421-0a7a-5e83-a7b1-cbde9daa8fb3
 ---
+
 
 A new Independent branch of Mastopolos Mining has been established by Its controlling shareholder, Senator Zemina Torval.
 The megacorp is owned by the powerful Mastopolos family, and operates throughout the Empire and beyond. However, Torval’s position as a majority shareholder has allowed her to exert a strong influence on its activities.

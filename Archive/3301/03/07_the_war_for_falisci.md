@@ -36,7 +36,10 @@ significance: medium
 related_uuids:
 - 36f13a15-f037-506b-ad4b-197f2accdad6
 - 9e706bb4-1757-5c30-bfc7-fb75bc04c06d
+- 6b15c578-25a5-5989-9881-c3bdfee2e1dc
+- f3ba192b-6f75-5d04-a593-389508cccb8e
 ---
+
 
 
 Senator Patreus and The Citizens of Tradition have been successful in their crusade against the Falisci Purple Gang. Falisci has fallen to Imperial forces and is currently in the process of being assimilated into Imperial society.  

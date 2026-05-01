@@ -4,8 +4,14 @@ title: President Halsey Addresses Accusations
 slug: president_halsey_addresses_accusations
 date: '3301-04-07'
 source: GitHub
-summary: President Jasmina Halsey directly addressed Shadow President Hudson's campaign to remove her from office during a rare appearance on 'Face The People'. She expressed disappointment with Hudson's conduct, denied personal responsibility for Federal Navy supply line failures and civilian casualties from misidentified targets, and claimed mistakes were worsened by internal interference. She vowed to continue serving as President for a very long time.
-player_impact: None directly; Halsey's defensive address revealed her deteriorating political position and inability to quell internal opposition.
+summary: President Jasmina Halsey directly addressed Shadow President Hudson's campaign
+  to remove her from office during a rare appearance on 'Face The People'. She expressed
+  disappointment with Hudson's conduct, denied personal responsibility for Federal
+  Navy supply line failures and civilian casualties from misidentified targets, and
+  claimed mistakes were worsened by internal interference. She vowed to continue serving
+  as President for a very long time.
+player_impact: None directly; Halsey's defensive address revealed her deteriorating
+  political position and inability to quell internal opposition.
 persons:
 - Jasmina Halsey
 - Zachary Hudson
@@ -15,10 +21,20 @@ locations: []
 topics:
 - scandal
 - politics
-modern_impact: Halsey's televised defence against Hudson's attacks demonstrated the depth of the political crisis consuming her administration.
+modern_impact: Halsey's televised defence against Hudson's attacks demonstrated the
+  depth of the political crisis consuming her administration.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- f6c12601-b292-5356-9311-0ee90c473048
+- d97415fc-1060-58ea-b5f1-6691bce40028
+- 0991dc0b-24c4-5798-809c-e8f236e034b3
+- 9f89d17d-16f2-5dc1-a8dd-47a4dbc2f708
+- 15273afe-bfae-58ed-9f3b-306cf7fdddd7
+- e81c56ec-2a4d-5cb7-a681-e1665d53578a
+- 8df95e12-c87d-5425-9ce9-d805583a8c3e
 ---
+
 
 President Jasmina Halsey has finally chosen to directly address Shadow President Hudson's campaign to see her removed from office. In a statement issued during a rare appearance on ‘Face The People’, The President had This to say about her current situation:  
 

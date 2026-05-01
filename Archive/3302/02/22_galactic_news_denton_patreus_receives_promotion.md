@@ -28,7 +28,12 @@ significance: high
 related_uuids:
 - 02c7199e-f2fd-531f-ba03-d9a8d75a479f
 - aedc65ec-4d5c-5ea9-a62c-b6920ab33260
+- 74af287f-b68f-5089-b6ba-e7b616d757b6
+- 06c601f9-d6e1-544a-8af2-261838d10ba8
+- 5eae6c0f-363b-556f-9f8b-ddcc68e2bc70
+- 279ed579-0309-50e4-909c-c1cc6e928a3a
 ---
+
 
 
 Emperor Arissa Lavigny-Duval has announced that Senator Denton Patreus is to be promoted to Admiral of The Fleet, following his triumph over the insurgent organisation Emperor's Dawn. In a statement, the Emperor praised Patreus's recent military success: 

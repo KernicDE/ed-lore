@@ -34,7 +34,9 @@ significance: high
 related_uuids:
 - 548f6761-2537-5801-8f58-7eccec59205a
 - f76d8d87-04a4-5982-9f90-51763df54997
+- 9d68fcd0-66b6-57fa-abeb-c2aa81fa02e0
 ---
+
 
 
 Terrorist ringleader Theta Seven is defying capture by holding thousands of Far God cultists hostage in The Mudhrid system.

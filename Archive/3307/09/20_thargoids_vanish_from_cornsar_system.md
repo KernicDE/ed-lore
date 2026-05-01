@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 The Thargoid vessels attacking the Cornsar system have unexpectedly departed from the region.
 For the last four days, Independent pilots and local security forces have been in combat against the alien ships. Although some were destroyed in battle, the remainder have abruptly withdrawn back into hyperspace.

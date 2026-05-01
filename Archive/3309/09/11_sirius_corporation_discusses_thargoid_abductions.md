@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Sirius Corporation has revealed a long-running project to rescue people who were captured by the Thargoids.
 CEO Li Yong-Rui made this statement during a press conference:
 “Shortly after the early reports of Thargoid Interceptors collecting inhabited escape pods were received, Sirius has explored several possible countermeasures. Various remote recovery methods had been designed, although only a few prototypes were ever constructed.”

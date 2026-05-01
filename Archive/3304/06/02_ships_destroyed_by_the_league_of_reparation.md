@@ -4,7 +4,12 @@ title: Ships Destroyed by the League of Reparation
 slug: ships_destroyed_by_the_league_of_reparation
 date: '3304-06-02'
 source: GitHub
-summary: The Pilots Federation reports five independent ships have been attacked by the League of Reparation with total crew loss. Three attacks occurred in Alliance-controlled systems, one in a Federal system, and one in Imperial space. The message 'FOR JAMESON' was laser-etched into drifting hull fragments. Captain Niamh Seutonia reveals League agents receive orders via encrypted channels from a source codenamed 'Nexus', suggesting central coordination rather than autonomous cells.
+summary: The Pilots Federation reports five independent ships have been attacked by
+  the League of Reparation with total crew loss. Three attacks occurred in Alliance-controlled
+  systems, one in a Federal system, and one in Imperial space. The message 'FOR JAMESON'
+  was laser-etched into drifting hull fragments. Captain Niamh Seutonia reveals League
+  agents receive orders via encrypted channels from a source codenamed 'Nexus', suggesting
+  central coordination rather than autonomous cells.
 player_impact: None
 persons:
 - Niamh Seutonia
@@ -16,7 +21,8 @@ groups:
 locations: []
 topics:
 - terrorism
-modern_impact: The League's coordinated attacks on INRA descendants, marked with 'FOR JAMESON', signal a sophisticated terrorist operation with a central command structure.
+modern_impact: The League's coordinated attacks on INRA descendants, marked with 'FOR
+  JAMESON', signal a sophisticated terrorist operation with a central command structure.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -24,6 +30,7 @@ related_uuids:
 - a8af82d9-4b8f-5aed-9130-b8e3726e78fe
 - 1f133226-e32f-5511-9bbd-bffc26348cb3
 ---
+
 
 The Pilots Federation has reported that Five Independent ships have been attacked by terrorist organisation the League of Reparation, With the loss of all crewmembers. 
 

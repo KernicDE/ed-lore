@@ -4,7 +4,9 @@ title: Rackham Fatality Creates Power Struggle
 slug: rackham_fatality_creates_power_struggle
 date: '3305-03-15'
 source: GitHub
-summary: The sudden death of CFO Aaron Salazar creates a power vacuum at Rackham Capital Investments, with the mysterious Taja Gavaris installed as his replacement amid speculation that she is manoeuvring to oust CEO Zachary Rackham.
+summary: The sudden death of CFO Aaron Salazar creates a power vacuum at Rackham Capital
+  Investments, with the mysterious Taja Gavaris installed as his replacement amid
+  speculation that she is manoeuvring to oust CEO Zachary Rackham.
 player_impact: None — background corporate report.
 persons:
 - Zachary Rackham
@@ -17,13 +19,16 @@ topics:
 - corporate expansion
 - crime
 - piracy
-modern_impact: Salazar's death was the first in a series of fatal 'accidents' that exposed the cutthroat internal politics of Rackham Capital, where ex-pirate rivalries continued to play out in the boardroom.
+modern_impact: Salazar's death was the first in a series of fatal 'accidents' that
+  exposed the cutthroat internal politics of Rackham Capital, where ex-pirate rivalries
+  continued to play out in the boardroom.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - e0a425f0-647f-5b53-980f-fde82e4ccbde
 - f826de33-b5c1-5d57-a10d-35f02a19751d
 ---
+
 
 Rackham Capital Investments has appointed a new CFO following The death of Its former financial officer. 
 

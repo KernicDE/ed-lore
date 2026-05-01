@@ -43,6 +43,7 @@ related_uuids:
 ---
 
 
+
 Princess Aisling Duval has assumed oversight of the Empire’s contributions to the tri-superpower agency Aegis.
 She discussed her new role during an interview with The Imperial Herald:
 “Loathe though I was to defy the Emperor’s decree, every instinct told me that the Aegis initiative can develop methods of protecting the Empire from enormous losses in this war. I’m grateful that Arissa recognised the value of my plea.”

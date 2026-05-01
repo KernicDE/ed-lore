@@ -4,8 +4,10 @@ title: Sol Celebrations End as Election Begins
 slug: sol_celebrations_end_as_election_begins
 date: '3309-10-12'
 source: API
-summary: Federal voting begins after Sol celebrations conclude, with profiles of both candidates and their running mates.
-player_impact: Pilots who supplied rare goods can collect payment from Li Qing Jao starport.
+summary: Federal voting begins after Sol celebrations conclude, with profiles of both
+  candidates and their running mates.
+player_impact: Pilots who supplied rare goods can collect payment from Li Qing Jao
+  starport.
 persons:
 - Jerome Archer
 - Niko Shirakawa
@@ -21,13 +23,20 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Trevino's analysis — 'one of the closest-run elections in the Federation's history, reflecting the polarisation that has taken place' — captures the political divide. Her framing of Archer — 'his flagship creation, the Proactive Detection Bureau, remains highly divisive' — shows the central policy battle. The note that 'Hudson will remain in office as caretaker president until the official inauguration' establishes the transition timeline.
+modern_impact: Trevino's analysis — 'one of the closest-run elections in the Federation's
+  history, reflecting the polarisation that has taken place' — captures the political
+  divide. Her framing of Archer — 'his flagship creation, the Proactive Detection
+  Bureau, remains highly divisive' — shows the central policy battle. The note that
+  'Hudson will remain in office as caretaker president until the official inauguration'
+  establishes the transition timeline.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 8727788d-05be-5b7c-b1a5-0a876fe6c062
 - ba96abf1-456d-5b32-aa72-2a4b52ee1484
+- 86ccf794-59d3-5bc5-ae63-b689d2a5d777
 ---
+
 
 **Pilots’ Federation ALERT**
 The Federation has begun voting to decide its next president, as a week of festivities in the Sol system are concluded.

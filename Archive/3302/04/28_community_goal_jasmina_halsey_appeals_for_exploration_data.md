@@ -4,8 +4,11 @@ title: Community Goal  Jasmina Halsey Appeals for Exploration Data
 slug: community_goal_jasmina_halsey_appeals_for_exploration_data
 date: '3302-04-28'
 source: GitHub
-summary: Former Federal President Jasmina Halsey launches an appeal for exploration data, believing it will validate her claims of encountering super-intelligent beings in space. The Azaleach Partnership coordinates the campaign from Leoniceno Orbital.
-player_impact: Pilots gathered and delivered exploration data to Leoniceno Orbital to help validate Halsey's claims of non-human contact.
+summary: Former Federal President Jasmina Halsey launches an appeal for exploration
+  data, believing it will validate her claims of encountering super-intelligent beings
+  in space. The Azaleach Partnership coordinates the campaign from Leoniceno Orbital.
+player_impact: Pilots gathered and delivered exploration data to Leoniceno Orbital
+  to help validate Halsey's claims of non-human contact.
 persons:
 - Jasmina Halsey
 groups:
@@ -21,7 +24,18 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e7ba3d66-8ab0-5f03-80c3-c038b99249a9
+- 9cd7aed5-b065-5419-be03-d98a4361f771
+- 47fc5e89-7923-5c13-b489-b820ba458fc9
+- f0a5ea4e-dbc4-5d47-8cee-22cc2cf86b6c
+- cdf680ca-c0ab-50db-9dff-085f692e72e6
+- bf338483-93dc-5f79-b6e6-cd1c62d2a55e
+- 8946e587-7a71-5444-990c-8aa579316e32
+- 870e8b78-13aa-5a17-8359-cd60e28d6c4b
+- bc02fa94-b3e8-58dd-b735-d4261fbd0e1b
 ---
+
 
 Since being discharged from The medical centre at Leoniceno Orbital, former Federal President Jasmina Halsey has repeatedly spoken about the allegedly transcendent experiences she had while drifting through space.  
 

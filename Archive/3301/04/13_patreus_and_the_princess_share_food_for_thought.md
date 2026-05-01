@@ -4,8 +4,12 @@ title: Patreus and the Princess Share Food for Thought
 slug: patreus_and_the_princess_share_food_for_thought
 date: '3301-04-13'
 source: GitHub
-summary: Senator Denton Patreus and Aisling Duval were spotted dining at the exclusive pop-up restaurant Fodder on Capitol, consuming several bottles of Chateau De Aegaeon over a three-hour meal. Afterward, the pair reportedly retired to Patreus's ship, the Imperial Freedom, which departed Capitol for Eotienses with Aisling onboard.
-player_impact: None directly; the dinner fuels speculation about a political alliance between Patreus and Aisling Duval.
+summary: Senator Denton Patreus and Aisling Duval were spotted dining at the exclusive
+  pop-up restaurant Fodder on Capitol, consuming several bottles of Chateau De Aegaeon
+  over a three-hour meal. Afterward, the pair reportedly retired to Patreus's ship,
+  the Imperial Freedom, which departed Capitol for Eotienses with Aisling onboard.
+player_impact: None directly; the dinner fuels speculation about a political alliance
+  between Patreus and Aisling Duval.
 persons:
 - Denton Patreus
 - Aisling Duval
@@ -17,10 +21,21 @@ technologies:
 - Imperial Freedom
 topics:
 - scandal
-modern_impact: The public dinner between Patreus and Aisling fuelled rumours of an alliance that could reshape Imperial power dynamics.
+modern_impact: The public dinner between Patreus and Aisling fuelled rumours of an
+  alliance that could reshape Imperial power dynamics.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 46ff6ade-8abd-5f62-bd39-32ef61f8883e
+- 65bc95ff-68c1-521d-aa1d-9b3f23d1a531
+- 454447f5-366f-5431-a902-8d7e12de0889
+- 2c3a3f21-aa45-532e-96c3-1c53cc3fd1de
+- 73403814-e17a-5ab1-b81a-146d763d584c
+- cd44ff20-bbeb-5d6e-8b37-ca49aa0dd119
+- c079c37f-e398-5bbf-9e37-1f8e91cc2fcb
+- 876e7bf2-06e6-5635-bd66-4a3deef5ca05
 ---
+
 
 Denton Patreus and Aisling Duval were spotted grabbing dinner in Capitol late last night at The very exclusive pop-up restaurant, Fodder. The Empire's favourite power couple appeared to have a good time, With the pair polishing off Several bottles of Chateau De Aegaeon during the course of their three-hour meal. 
 

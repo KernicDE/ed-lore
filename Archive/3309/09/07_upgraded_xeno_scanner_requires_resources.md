@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT** 
 Aegis aims to provide an update to the pulse wave xeno scanner that can locate captive humans on Thargoid Titans.
 Dr Maximo Fonseca, the Alliance’s scientific liaison to Aegis, informed the media about the project:

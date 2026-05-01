@@ -35,7 +35,10 @@ significance: high
 related_uuids:
 - 0634cce4-4cff-5261-81c7-4723f54899ac
 - abc03646-a8a8-5932-8f8a-0ee83fd2c9b7
+- 64cbf185-445b-5954-b18c-b60487a04da3
+- e74deb32-c4c0-59e7-8506-445b6c628173
 ---
+
 
 
 It is almost a month since Jaques departed from Gliese 1269 to Beagle Point in his specially modified Orbis Starport. Pilots from The Distant Worlds Expedition and the FGE exploration wings have been eagerly awaiting Jaques's arrival. 

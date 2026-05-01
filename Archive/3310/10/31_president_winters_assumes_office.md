@@ -44,6 +44,7 @@ related_uuids:
 ---
 
 
+
 The inauguration ceremony has taken place to formally swear in Felicia Winters as the president of the Federation.
 President Winters made a public address from the White House in Olympus Village on Mars:
 “I pledge to work for the benefit of each and every individual within our Federation. My administration will redirect funding away from corporations toward improving health, public services and quality of life. Together, we will launch a new era of optimism and opportunity!”

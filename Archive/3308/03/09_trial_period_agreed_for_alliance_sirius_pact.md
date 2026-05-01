@@ -31,7 +31,10 @@ related_uuids:
 - 57f6fa04-b94b-5674-8344-d4f063bd6a45
 - 71ef5edb-acbd-5323-bdfa-880cbbf2c504
 - 8b4db844-0c83-569c-8e7b-cce5db8c006a
+- 2ad6f03c-dec1-53ea-a119-996a2b4c127f
+- b5be39b0-960e-54d6-bee8-fd556eb2bffb
 ---
+
 
 
 The Alliance and Sirius Corporation have negotiated a three-month probationary period for Its proposed anti-xeno defence agreement.

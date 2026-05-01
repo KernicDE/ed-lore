@@ -4,7 +4,10 @@ title: Galactic News  Presidential Vessel Retired
 slug: galactic_news_presidential_vessel_retired
 date: '3302-02-28'
 source: GitHub
-summary: The remaining Saud Kruger Narwhal presidential vessel is retired after six years of service. President Hudson's administration replaces it with a pair of modified Farragut Battle Cruisers, citing the need for comprehensive military support and total safety in dangerous times.
+summary: The remaining Saud Kruger Narwhal presidential vessel is retired after six
+  years of service. President Hudson's administration replaces it with a pair of modified
+  Farragut Battle Cruisers, citing the need for comprehensive military support and
+  total safety in dangerous times.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -20,7 +23,16 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 06c601f9-d6e1-544a-8af2-261838d10ba8
+- 8bfdda30-eb6e-5e5a-88b1-b2ae7afd7a95
+- 42c5df88-8373-5fc5-8246-f37df3368e6e
+- 41b3581b-5fc7-5b67-afe5-a6a50289096a
+- f370b9af-47dd-5921-8536-2a11e59f328d
+- af60d2e3-434b-5636-8239-951a1039b5ec
+- bc5c8147-931b-5a46-acb0-df2598181c2d
 ---
+
 
 For The past six years, the Federation has used a pair of customised Saud Kruger Narwhal Liners (upgraded variants of the successful Beluga Liner) As the personal vessels of the Federal president. Last year, One of these vessels was lost In a tragic accident. Today, the remaining vessel will be retired. 
 

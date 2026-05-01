@@ -4,7 +4,11 @@ title: Herculean Machines Dominates Expo
 slug: herculean_machines_dominates_expo
 date: '3304-10-05'
 source: GitHub
-summary: Technology journalist Harlow Nassry reports from the Rackham Ultratech Expo where Herculean Machines' Duradrive personal computer outperformed Supratech's rival Torc. The Torc's holographic systems malfunctioned causing nausea, while the Duradrive functioned perfectly. Billionaire Zachary Rackham tested a Duradrive by jumping on it and authorised preliminary funding for the device.
+summary: Technology journalist Harlow Nassry reports from the Rackham Ultratech Expo
+  where Herculean Machines' Duradrive personal computer outperformed Supratech's rival
+  Torc. The Torc's holographic systems malfunctioned causing nausea, while the Duradrive
+  functioned perfectly. Billionaire Zachary Rackham tested a Duradrive by jumping
+  on it and authorised preliminary funding for the device.
 player_impact: None
 persons:
 - Harlow Nassry
@@ -19,12 +23,17 @@ locations: []
 topics:
 - corporate expansion
 - technology
-modern_impact: Herculean Machines' dominant expo performance secures corporate funding and positions the Duradrive as the leading personal computer on the market, while Supratech's failure damages its competitive standing.
+modern_impact: Herculean Machines' dominant expo performance secures corporate funding
+  and positions the Duradrive as the leading personal computer on the market, while
+  Supratech's failure damages its competitive standing.
 legacy_weight: 2
 significance: low
 related_uuids:
 - c17fab22-f463-50ce-95d0-9714ea431386
+- 33ed0f71-7b49-5f6f-89eb-57bf7adef8d2
+- bfe64ab3-bf9f-5fb7-b218-e64ac5673997
 ---
+
 
 Technology journalist Harlow Nassry has published a full account of The Rackham Ultratech Expo, Which took place on Wednesday 3rd October. 
 

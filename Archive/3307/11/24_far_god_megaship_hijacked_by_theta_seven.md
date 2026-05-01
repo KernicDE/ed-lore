@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 NMLA figurehead Theta Seven has taken control of The Sacrosanct megaship and redirected it to the Mudhrid system.
 Several months ago, the leader of Theta Group and his closest aides evaded capture by posing as members of the Far God cult. One of their pilgrimage vessels, the Sacrosanct, has now bypassed Its scheduled flight plan and jumped to Mudhrid.
 ACT’s joint leader Captain Milo Castile broadcast an emergency statement:

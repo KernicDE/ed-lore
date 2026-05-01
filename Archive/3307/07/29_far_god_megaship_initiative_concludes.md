@@ -4,8 +4,12 @@ title: Far God Megaship Initiative Concludes
 slug: far_god_megaship_initiative_concludes
 date: '3307-07-29'
 source: API
-summary: The Pleiades Concordat's initiative concludes successfully. The Testament will serve as a missionary vessel while the Perdition and Sacrosanct embark on a pilgrimage into deep space. New convert Leonard Yates (Eighty-Ninth Adherent of the Sixtieth Chapter) expresses gratitude for galactic community support.
-player_impact: Pilots who delivered commodities collected rewards from Moore Hub in the Panjabell system.
+summary: The Pleiades Concordat's initiative concludes successfully. The Testament
+  will serve as a missionary vessel while the Perdition and Sacrosanct embark on a
+  pilgrimage into deep space. New convert Leonard Yates (Eighty-Ninth Adherent of
+  the Sixtieth Chapter) expresses gratitude for galactic community support.
+player_impact: Pilots who delivered commodities collected rewards from Moore Hub in
+  the Panjabell system.
 persons:
 - Leonard Yates
 groups:
@@ -26,13 +30,16 @@ technologies:
 - Perdition megaship
 - Sacrosanct megaship
 arc_id: formidine-rift
-modern_impact: The successful outfitting of three Far God megaships launches the cult's most ambitious expansion, carrying thousands of believers into the void and establishing a mobile religious presence that will eventually intersect with the Thargoid conflict.
+modern_impact: The successful outfitting of three Far God megaships launches the cult's
+  most ambitious expansion, carrying thousands of believers into the void and establishing
+  a mobile religious presence that will eventually intersect with the Thargoid conflict.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 17484479-d6b8-5d39-9727-040203c5448c
 - 1810c569-1a21-571d-b879-76241b063c19
 ---
+
 
 **Pilots Federation ALERT**
 Independent pilots have supported The Far God cult by delivering commodities to The Panjabell system.

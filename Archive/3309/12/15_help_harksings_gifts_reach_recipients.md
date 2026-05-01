@@ -4,7 +4,8 @@ title: Help Harksing’s Gifts Reach Recipients
 slug: help_harksings_gifts_reach_recipients
 date: '3309-12-15'
 source: API
-summary: Eccentric inventor Harald Harksing's gift-delivery database is corrupted, preventing his latest batch of custom inventions from reaching their celebrity recipients.
+summary: Eccentric inventor Harald Harksing's gift-delivery database is corrupted,
+  preventing his latest batch of custom inventions from reaching their celebrity recipients.
 player_impact: Not specifically mentioned — this is a cultural report.
 persons:
 - Harald Harksing
@@ -17,10 +18,22 @@ locations:
 - Delphi
 topics:
 - culture
-modern_impact: Abara's profile captures Harksing's character — 'Such boyish enthusiasm, coupled with the odd nature of his creations, has made him a local celebrity.' The description of his gifts — from 'chin-mounted palate-cleansing robot' to 'Furry Yuri teddy bear' to 'Filial Pursuit card game' — shows his whimsical nature. The Tau Ceti Journal's cynical take contrasts with the general view of him as 'joyful and philanthropic.'
+modern_impact: Abara's profile captures Harksing's character — 'Such boyish enthusiasm,
+  coupled with the odd nature of his creations, has made him a local celebrity.' The
+  description of his gifts — from 'chin-mounted palate-cleansing robot' to 'Furry
+  Yuri teddy bear' to 'Filial Pursuit card game' — shows his whimsical nature. The
+  Tau Ceti Journal's cynical take contrasts with the general view of him as 'joyful
+  and philanthropic.'
 legacy_weight: 1
 significance: low
+related_uuids:
+- 277367c4-5c11-59f1-80e0-1634dad32b10
+- b941d20c-fea4-57f4-ac5e-a6a6662a89d5
+- 0e74f39b-4db3-53e1-b52e-bcfcae3ca50b
+- 7598afb2-602a-5ffd-bc0d-60f8e1d71a9c
+- ec7731ca-7661-51be-9477-25ca9e673110
 ---
+
 
 **Pilots’ Federation ALERT**
 The eccentric inventor Harald Harksing has been causing quite a stir on Angel Station in the Calhuacan system.

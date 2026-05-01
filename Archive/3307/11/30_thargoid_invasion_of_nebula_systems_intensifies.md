@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Systems in The California, Coalsack, Pleiades and Witch Head Nebulas are under sustained assault by the Thargoids.
 Vox Galactica featured This report from freelance war correspondent Ernesto Rios:

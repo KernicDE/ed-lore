@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 Minister Aaron Whyte, leader of The Marlinism Reformation Party, has confirmed that it aims to politically represent the Neo-Marlinist fringe.
 At a meeting of the Marlinist Parliament, Minister Whyte declared:
 “Not all of the Neo-Marlinist community seek a violent uprising to end the Duval family’s thousand-year dictatorship. We can help replace desperate acts of rebellion With meaningful dialogue and public pressure.”

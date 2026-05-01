@@ -4,8 +4,13 @@ title: Coalition of Othime Campaign
 slug: coalition_of_othime_campaign
 date: '3304-03-09'
 source: GitHub
-summary: The Coalition of Othime has announced plans to develop refinery facilities in the Othime system by constructing a new asteroid base. The base will support large ships such as the Anaconda and Imperial Cutter, allowing Othime to compete with other refineries in the sector. The organisation has placed orders for commodities and kill orders on wanted ships to protect traders.
-player_impact: Pilots can deliver commodities to support the asteroid base construction and earn rewards. Kill orders on wanted ships are also available.
+summary: The Coalition of Othime has announced plans to develop refinery facilities
+  in the Othime system by constructing a new asteroid base. The base will support
+  large ships such as the Anaconda and Imperial Cutter, allowing Othime to compete
+  with other refineries in the sector. The organisation has placed orders for commodities
+  and kill orders on wanted ships to protect traders.
+player_impact: Pilots can deliver commodities to support the asteroid base construction
+  and earn rewards. Kill orders on wanted ships are also available.
 persons: []
 groups:
 - Coalition of Othime
@@ -14,10 +19,15 @@ locations:
 topics:
 - construction
 - trade
-modern_impact: The Othime asteroid base expansion demonstrates how local factions invest in infrastructure to compete in regional commodity markets.
+modern_impact: The Othime asteroid base expansion demonstrates how local factions
+  invest in infrastructure to compete in regional commodity markets.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 665cbf33-b7d1-5180-b6b1-add9b94ca81c
+- d34ef1b2-8a49-5082-acb9-4dd4b13b10e4
 ---
+
 
 The Coalition of Othime has announced plans to develop refinery facilities in Its home system through the construction of a new asteroid base. 
 

@@ -29,7 +29,15 @@ significance: medium
 related_uuids:
 - 15273afe-bfae-58ed-9f3b-306cf7fdddd7
 - 911e0972-8e10-51d0-a255-27cb917cae8a
+- 0991dc0b-24c4-5798-809c-e8f236e034b3
+- cf376189-caa7-592c-98b7-9078eb6758e9
+- 5ff99938-fb18-5efd-bbf5-60725235e72e
+- 4e3b073a-562f-591a-a980-a91838aa35ff
+- 87f07cae-db7b-524b-97d1-722b513e627e
+- e81c56ec-2a4d-5cb7-a681-e1665d53578a
+- 006f9c9b-a066-52c5-b468-9dcfda6f4d43
 ---
+
 
 
 Shadow President Hudson has released a scathing attack on The President's offensive against The Crimson State Group, calling it "nothing more than a petty attempt to show strength at the cost of Hundreds of thousands of innocent lives". 

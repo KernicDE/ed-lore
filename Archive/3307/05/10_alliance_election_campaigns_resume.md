@@ -35,7 +35,10 @@ related_uuids:
 - 3c4ff651-4153-5811-ba1a-9b2f43fac48a
 - 5cd90cb7-e73b-553f-bdcf-cb7b311cc0df
 - 931d72fb-9b88-566c-a2c3-8b536ea52a59
+- 0cb46392-4967-5330-90e6-b26b90ef78fb
+- 3f27f8ea-f91e-550d-a92c-50ff318293a7
 ---
+
 
 
 The election of the Alliance prime minister will take place on the 27th of May, having been postponed due to the Galactic Summit.

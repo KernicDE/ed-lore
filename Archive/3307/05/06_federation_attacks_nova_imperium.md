@@ -43,6 +43,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Open warfare has begun in The Paresa system between Nova Imperium and the League of Mandu, a Federal faction.
 Imperator Hadrian Augustus Duval has been accused of masterminding the NMLA starport bombings, According to evidence provided to ACT. 

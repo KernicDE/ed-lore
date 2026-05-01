@@ -34,7 +34,9 @@ significance: medium
 related_uuids:
 - 01e57bf3-c99c-514b-95b3-493716686774
 - 2d0a01c2-cb28-50e3-a6aa-9383f7359983
+- 96c8fc0c-2010-5641-919f-040d3d009e5a
 ---
+
 
 
 Historically, areas of mutual interest have resulting in cooperation between the Empire and the Federation. Now it seems that the humanitarian crisis in the Pegasi Sector represents One such mutual interest. 

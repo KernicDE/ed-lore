@@ -5,7 +5,8 @@ slug: new_starports_created_for_colonia_bridge
 date: '3308-01-28'
 source: API
 summary: Six new starports are completed along the Colonia Bridge travel corridor.
-player_impact: Pilots who contributed to the project received engineered frame shift drives and naming rights.
+player_impact: Pilots who contributed to the project received engineered frame shift
+  drives and naming rights.
 groups:
 - Brewer Corporation
 - Canonn
@@ -15,10 +16,19 @@ locations:
 topics:
 - corporate expansion
 arc_id: null
-modern_impact: '"The infrastructures of six starports have been completed along the travel corridor between Colonia and the core systems." The completion of these starports transforms deep-space exploration into a viable commercial route.'
+modern_impact: '"The infrastructures of six starports have been completed along the
+  travel corridor between Colonia and the core systems." The completion of these starports
+  transforms deep-space exploration into a viable commercial route.'
 legacy_weight: 3
 significance: medium
+related_uuids:
+- e2b736bf-f679-55f3-8824-96bde18804e0
+- 77fd1ea5-46c8-54e0-85aa-1f7784fe1bd2
+- 8389259d-a648-5484-9e90-f4b45ab488d5
+- b88e6762-e193-5973-92b7-060b3f71309b
+- 0377cb77-df5d-5d2f-9e79-121abe877a31
 ---
+
 
 **Pilots’ Federation ALERT**
 The infrastructures of six starports have been completed along the travel corridor between Colonia and the core systems.

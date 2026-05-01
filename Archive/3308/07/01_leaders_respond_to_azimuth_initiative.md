@@ -46,7 +46,18 @@ related_uuids:
 - 751f72f0-bd12-5009-92e8-97b94eb2066f
 - a351c94a-19a1-5e95-9429-f0bb7cbaf1d8
 - ce65a1d5-38ff-58ed-a2b0-3627f5afaabc
+- 42255e4f-788f-5ba1-b12d-b1209e5ee2ba
+- 0cb46392-4967-5330-90e6-b26b90ef78fb
+- 2f1fe842-e7f1-5ba8-9b46-fe6146047472
+- 87bfa62f-1991-5f20-88d3-0bd0d7d797bc
+- d9d11a81-06c0-59f1-af71-a3c4c5194f5c
+- 3dabc3ec-5fc0-5b40-91a9-5028ddd79163
+- 50443c34-411a-58ea-8cc5-88e89af25d5c
+- adcab895-4c2f-5ad3-928d-1de0bafc6f61
+- 16e19a12-9891-53fc-b098-58c5903c858b
+- 952d5b46-745c-57fb-bc9a-1458b6d1323a
 ---
+
 
 
 The anti-xeno operation in HIP 22460 involving Azimuth Biotech and the superpowers has drawn comments from prominent political figures.

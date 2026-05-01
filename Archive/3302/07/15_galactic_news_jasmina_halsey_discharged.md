@@ -4,7 +4,9 @@ title: Galactic News  Jasmina Halsey Discharged
 slug: galactic_news_jasmina_halsey_discharged
 date: '3302-07-15'
 source: GitHub
-summary: Former Federal President Jasmina Halsey is discharged from the Clearwater Clinic psychiatric facility on Mars after two months, having been admitted following claims of encountering super-intelligent beings in space.
+summary: Former Federal President Jasmina Halsey is discharged from the Clearwater
+  Clinic psychiatric facility on Mars after two months, having been admitted following
+  claims of encountering super-intelligent beings in space.
 player_impact: None
 persons:
 - Jasmina Halsey
@@ -13,10 +15,19 @@ locations:
 - Mars
 - Clearwater Clinic
 technologies: []
-modern_impact: Halsey's discharge and subsequent public statements keep the question of alien intelligence alive in Federal politics.
+modern_impact: Halsey's discharge and subsequent public statements keep the question
+  of alien intelligence alive in Federal politics.
 legacy_weight: 2
 significance: low
+related_uuids:
+- cf5e0da0-8492-5703-91cb-940336d1e45f
+- 8c3b3ebb-a297-5113-82a1-7bbf47cc653b
+- 8946e587-7a71-5444-990c-8aa579316e32
+- 2312799d-e55a-5eee-8ff1-3cb83f7fc4d9
+- 7999f4d6-46e6-5745-8282-155fa49b2ae4
+- 86105191-2e27-5dbd-9176-5893e40ef5cd
 ---
+
 
 It has been two months since former Federal President Jasmina Halsey was admitted to The Clearwater Clinic psychiatric facility on Mars. Halsey's admission followed a period of bizarre behaviour, during Which she claimed to have encountered super-intelligent beings in the depths of space. 
 

@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - a44c0852-08d2-5a74-8408-efd7841101a4
 - ca908b27-e8c1-5bce-985a-0f8b62da6ff4
+- 30ace67b-8ecf-51dc-a9c9-5060d2c97ebc
 ---
+
 
 
 The Empire and the Federation have released statements announcing the successful conclusion of their respective campaigns. Both superpowers received huge quantities of construction material over the past week, allowing them to start work on new outposts in the Pleiades region. 

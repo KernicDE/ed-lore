@@ -4,7 +4,9 @@ title: Galactic News  Eol Prou Campaign Concludes
 slug: galactic_news_eol_prou_campaign_concludes
 date: '3302-09-02'
 source: GitHub
-summary: The 80 DD-D 774-CE-2 faction's four-week campaign to construct a new planetary outpost in the Eol Prou RS-T d3-94 system concluded successfully, accumulating thousands of tonnes of osmium from pilots across the galaxy.
+summary: The 80 DD-D 774-CE-2 faction's four-week campaign to construct a new planetary
+  outpost in the Eol Prou RS-T d3-94 system concluded successfully, accumulating thousands
+  of tonnes of osmium from pilots across the galaxy.
 player_impact: None
 persons: []
 groups:
@@ -12,10 +14,18 @@ groups:
 locations:
 - Eol Prou RS-T d3-94
 technologies: []
-modern_impact: Successful expansion of independent outposts beyond the core systems, supporting deep-space settlement efforts.
+modern_impact: Successful expansion of independent outposts beyond the core systems,
+  supporting deep-space settlement efforts.
 legacy_weight: 2
 significance: low
+related_uuids:
+- aec8c033-bc2b-50dc-a29c-f184dfe139fb
+- b9be1738-ac61-536b-8b50-d9dc091e5147
+- eda4cfe1-e27c-5303-a7dc-c613c5400d4e
+- cc368b7d-06ac-5261-9a3c-5f8dbd8d8750
+- ac1691f2-54af-52fb-9f86-c33791ca3ed1
 ---
+
 
 Last month, The 80 DD-D 774-CE-2 faction launched an ambitious four-week initiative to amass material for a new planetary outpost in the Eol Prou RS-T d3-94 system. The campaign was a resounding success, attracting pilots from across the galaxy and resulting in the accumulation of thousands of tonnes of osmium for use in the construction. 
 

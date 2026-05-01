@@ -4,8 +4,13 @@ title: Alliance Presidential Gala
 slug: alliance_presidential_gala
 date: '3304-09-07'
 source: GitHub
-summary: The Alioth Independents announce a gala event in the Alioth system to officially begin the Alliance presidential election. Chairman Durien Ballas confirms Prime Minister Edmund Mahon and three Council of Admirals members will attend. An open order is placed for Esuseku Caviar, Ceremonial Heike Tea, and Live Hecate Sea Worms to be delivered to Smith Landing in the Amber system.
-player_impact: Independent pilots can deliver exotic commodities to Smith Landing in the Amber system and earn rewards. The campaign runs for one week.
+summary: The Alioth Independents announce a gala event in the Alioth system to officially
+  begin the Alliance presidential election. Chairman Durien Ballas confirms Prime
+  Minister Edmund Mahon and three Council of Admirals members will attend. An open
+  order is placed for Esuseku Caviar, Ceremonial Heike Tea, and Live Hecate Sea Worms
+  to be delivered to Smith Landing in the Amber system.
+player_impact: Independent pilots can deliver exotic commodities to Smith Landing
+  in the Amber system and earn rewards. The campaign runs for one week.
 persons:
 - Edmund Mahon
 - Gibson Kincaid
@@ -21,13 +26,18 @@ topics:
 - festival
 - trade
 - politics
-modern_impact: The gala initiative uses community participation to generate enthusiasm for the Alliance presidential election while showcasing the Alliance's cultural and diplomatic institutions.
+modern_impact: The gala initiative uses community participation to generate enthusiasm
+  for the Alliance presidential election while showcasing the Alliance's cultural
+  and diplomatic institutions.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 335e624b-d8a1-5e75-b0a9-bd888c9b9e2e
 - 85671224-8822-5716-bb08-0e7ac30ff584
+- be7c559a-d6be-5295-9655-1c30e0ee4ed0
+- 88762111-9b1e-5467-90ce-7c1efe5c7315
 ---
+
 
 The Alioth Independents has announced plans to host a gala event in The Alioth system, to officially begin the Alliance presidential election. 
 

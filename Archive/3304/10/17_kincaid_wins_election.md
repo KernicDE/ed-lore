@@ -4,7 +4,11 @@ title: Kincaid Wins Election
 slug: kincaid_wins_election
 date: '3304-10-17'
 source: GitHub
-summary: Gibson Kincaid wins the Alliance presidential election with a small majority, defeating Elijah Beck. Fazia Silva, the third candidate, was recently found dead and remains under Interpol investigation. Kincaid vows to lead citizens into a glorious future. Prime Minister Edmund Mahon announces the Assembly will extend debate on executive powers by one week before a parliamentary vote.
+summary: Gibson Kincaid wins the Alliance presidential election with a small majority,
+  defeating Elijah Beck. Fazia Silva, the third candidate, was recently found dead
+  and remains under Interpol investigation. Kincaid vows to lead citizens into a glorious
+  future. Prime Minister Edmund Mahon announces the Assembly will extend debate on
+  executive powers by one week before a parliamentary vote.
 player_impact: None
 persons:
 - Gibson Kincaid
@@ -18,7 +22,9 @@ groups:
 locations: []
 topics:
 - politics
-modern_impact: Kincaid's re-election preserves his push for executive powers, but the narrow margin and unresolved Silva murder case cast a shadow over his mandate and the Alliance's democratic health.
+modern_impact: Kincaid's re-election preserves his push for executive powers, but
+  the narrow margin and unresolved Silva murder case cast a shadow over his mandate
+  and the Alliance's democratic health.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -27,6 +33,7 @@ related_uuids:
 - a950b069-65d4-569a-b55c-6ce84123e10e
 - 386cbd85-5543-5119-8766-37eb9cb4855c
 ---
+
 
 Gibson Kincaid has been announced As the winner of The Alliance presidential election. He will continue serving as president of the Alliance. 
 

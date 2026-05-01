@@ -4,8 +4,13 @@ title: Far God Campaign Concludes
 slug: far_god_campaign_concludes
 date: '3304-09-07'
 source: GitHub
-summary: The LHS 2541 Alliance Combine announces the successful conclusion of its appeal for Thargoid materials on behalf of the Far God sect. Hundreds of pilots delivered commodities to Wheelock Ring in the Zavijah system and protected traders from agitators. Chancellor Reegan Tanner thanks contributors and firmly denies rumours that the sect experiments on willing test subjects.
-player_impact: Contributing pilots can collect rewards from Wheelock Ring in the Zavijah system.
+summary: The LHS 2541 Alliance Combine announces the successful conclusion of its
+  appeal for Thargoid materials on behalf of the Far God sect. Hundreds of pilots
+  delivered commodities to Wheelock Ring in the Zavijah system and protected traders
+  from agitators. Chancellor Reegan Tanner thanks contributors and firmly denies rumours
+  that the sect experiments on willing test subjects.
+player_impact: Contributing pilots can collect rewards from Wheelock Ring in the Zavijah
+  system.
 persons:
 - Reegan Tanner
 groups:
@@ -17,10 +22,19 @@ locations:
 topics:
 - religion
 - trade
-modern_impact: The successful campaign demonstrates the galactic community's support for religious freedom even for controversial faiths, while the Far God sect's acquisition of Thargoid materials raises both theological and security questions.
+modern_impact: The successful campaign demonstrates the galactic community's support
+  for religious freedom even for controversial faiths, while the Far God sect's acquisition
+  of Thargoid materials raises both theological and security questions.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 334fc5ad-8484-5b75-8418-d393f7045533
+- adca2dc7-45d7-58c5-b987-d0c360690515
+- f12c2ec4-bbcc-55f0-87ac-1594fe3eb363
+- 525c3239-1c6d-5962-83a8-483a28addd15
+- 0f10ac31-615c-5f1b-a802-a954ef4214a1
 ---
+
 
 LHS 2541 Alliance Combine has announced that Its request for Thargoid materials for The Far God sect has been enthusiastically received by the galactic community.  
 

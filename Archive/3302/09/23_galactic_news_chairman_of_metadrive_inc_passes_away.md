@@ -4,7 +4,10 @@ title: Galactic News  Chairman of MetaDrive Inc. Passes Away
 slug: galactic_news_chairman_of_metadrive_inc_passes_away
 date: '3302-09-23'
 source: GitHub
-summary: Femi Dakarai, chairman of hyperdrive-research company MetaDrive Inc., has passed away in the Chi Orionis system following a short illness attributed to overwork. Junior employee Raan Corsen has been suspended after auditors detected account irregularities and is being sought by security forces.
+summary: Femi Dakarai, chairman of hyperdrive-research company MetaDrive Inc., has
+  passed away in the Chi Orionis system following a short illness attributed to overwork.
+  Junior employee Raan Corsen has been suspended after auditors detected account irregularities
+  and is being sought by security forces.
 player_impact: None
 persons:
 - Femi Dakarai
@@ -19,10 +22,20 @@ topics:
 - research
 - trade
 technologies: []
-modern_impact: The death of MetaDrive's chairman and the subsequent fraud investigation into Raan Corsen jeopardise the company's promising hyperdrive technology and depress investor confidence.
+modern_impact: The death of MetaDrive's chairman and the subsequent fraud investigation
+  into Raan Corsen jeopardise the company's promising hyperdrive technology and depress
+  investor confidence.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9436ee43-93b4-5216-9855-e0f6ddac221a
+- 8806e067-8bcd-5c92-b341-e71c2c379b90
+- 55d7e247-6e12-5a79-b5de-2715ede50679
+- 1d9d8166-f4e7-536e-8651-65504c831964
+- c24588fd-188c-5c30-8eec-196e97ac8205
+- 17bb7dc3-111a-5ed9-999a-de47f1b658de
 ---
+
 
 Sad news from The Chi Orionis system This morning With reports that Femi Dakarai, chairman of the hyperdrive-research company MetaDrive Inc., has passed away following a short illness. 
 

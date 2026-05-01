@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Azimuth Biotech’s operation in the HIP 22460 system has been publicly denounced by the Thargoid-worshipping fringe religion.
 A video message from a hooded young woman aboard the Testament, the cult’s missionary vessel, was transmitted directly to the newsfeed Vox Galactica:
 “This plan to entrap and destroy the heralds of the Far God must cease immediately. As the newly appointed First Apostle of the True Chapters, I beseech those in authority not to support Salvation’s evil crusade. To slaughter these holy beings is a monstrous act of deicide.”

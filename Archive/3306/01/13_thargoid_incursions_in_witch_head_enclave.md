@@ -4,8 +4,11 @@ title: Thargoid Incursions in Witch Head Enclave
 slug: thargoid_incursions_in_witch_head_enclave
 date: '3306-01-13'
 source: GitHub
-summary: Thargoid incursions resume in the Witch Head Enclave, alarming colonists six months after the initial expansion. Professor Alba Tesreau of Aegis Research warns that the Thargoids remain intent on driving humanity out of the region.
-player_impact: Independent pilots have travelled to engage Thargoid forces in the Enclave.
+summary: Thargoid incursions resume in the Witch Head Enclave, alarming colonists
+  six months after the initial expansion. Professor Alba Tesreau of Aegis Research
+  warns that the Thargoids remain intent on driving humanity out of the region.
+player_impact: Independent pilots have travelled to engage Thargoid forces in the
+  Enclave.
 persons:
 - Alba Tesreau
 - Kelvin Masters
@@ -16,12 +19,14 @@ locations:
 topics:
 - alien contact
 - war
-modern_impact: The renewed Thargoid activity in Witch Head demonstrates the aliens' persistence and threatens the fledgling human settlements.
+modern_impact: The renewed Thargoid activity in Witch Head demonstrates the aliens'
+  persistence and threatens the fledgling human settlements.
 legacy_weight: 4
 significance: high
 related_uuids:
 - e92a5cd2-aa4d-5877-a93a-4f713d672b63
 ---
+
 
 A series of Thargoid incursions into human-occupied Witch Head systems has alarmed The region’s colonists. Multiple casualties have been reported, With pilots caught off-guard by the sudden increase in Thargoid ships. 
 

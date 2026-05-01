@@ -4,7 +4,8 @@ title: 'Baumann Report: ‘Dismantle Aegis’'
 slug: baumann_report_dismantle_aegis
 date: '3308-01-12'
 source: API
-summary: The Baumann Report recommends dismantling Aegis while Admiral Tanner's court martial is halted by Ram Tah's evidence.
+summary: The Baumann Report recommends dismantling Aegis while Admiral Tanner's court
+  martial is halted by Ram Tah's evidence.
 player_impact: Not specifically mentioned — this is an investigative report.
 persons:
 - Paul Baumann
@@ -18,7 +19,9 @@ topics:
 - investigation
 entities: []
 arc_id: salvation-azimuth
-modern_impact: '"Aegis was established on solid foundations in 3303 with strong leadership." The Baumann Report''s damning assessment of Aegis''s collapse validates Salvation''s rise while ignoring the mysterious figure''s own controversial methods.'
+modern_impact: '"Aegis was established on solid foundations in 3303 with strong leadership."
+  The Baumann Report''s damning assessment of Aegis''s collapse validates Salvation''s
+  rise while ignoring the mysterious figure''s own controversial methods.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,6 +35,7 @@ related_uuids:
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
 ---
+
 
 The Independent inquiry into Aegis has delivered Its final conclusions and recommended that the organisation be closed down.
 Dr Paul Baumann, who chaired the board of inquiry, summarised the detailed report:

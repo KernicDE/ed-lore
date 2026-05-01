@@ -34,7 +34,10 @@ significance: high
 related_uuids:
 - 84f0047f-a8b6-5c30-bf0d-a6a103628ce1
 - c967a729-ec8f-5ec1-b332-7b1676e0464e
+- f064daa5-afc3-596d-a3b6-f073815d5b64
+- 9a1c882c-9dde-516e-8448-2198e8dd81f8
 ---
+
 
 
 A number of the galaxy’s most powerful figures have commented on the current galactic landscape, addressing issues such As the return of Thargoids and the recent discovery of outposts formerly occupied by the Intergalactic Naval Reserve Arm. 

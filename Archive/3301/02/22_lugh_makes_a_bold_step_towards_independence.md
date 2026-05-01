@@ -32,7 +32,13 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - a94d2082-9eb4-5195-b274-d1f3a0195304
+- b8c1669e-339e-5b03-a1c1-7a00b3b79903
+- ab118a7f-a481-5ef9-9e31-2a40ca241017
+- abb3e733-92c5-5ffa-a45d-9a084459d500
+- ffeb9758-5962-54db-a353-e54c3ac93053
+- 4c97bd81-a4e4-5a5b-89bf-7dc824c2ce92
 ---
+
 
 
 The Alioth system has been at The centre of controversy today after The arrival of Éamonn Uí Laoghire, the leading spokesperson in the current bid for Independence of the Lugh system.  

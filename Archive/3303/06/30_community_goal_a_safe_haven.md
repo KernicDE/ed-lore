@@ -4,8 +4,12 @@ title: Community Goal  A Safe Haven
 slug: community_goal_a_safe_haven
 date: '3303-06-30'
 source: GitHub
-summary: The Pilots Federation announced a peacekeeping initiative centred on the LHS 3447, Eravate and Asellus Primus systems to minimise criminal activity and ensure the safety of inexperienced pilots.
-player_impact: Independent combat pilots are called upon to support the peacekeeping initiative. Rewards are available from Adle's Armada, LHS 3447 Dynamic and Co, and Asellus Primus Gold Legal Ind.
+summary: The Pilots Federation announced a peacekeeping initiative centred on the
+  LHS 3447, Eravate and Asellus Primus systems to minimise criminal activity and ensure
+  the safety of inexperienced pilots.
+player_impact: Independent combat pilots are called upon to support the peacekeeping
+  initiative. Rewards are available from Adle's Armada, LHS 3447 Dynamic and Co, and
+  Asellus Primus Gold Legal Ind.
 persons:
 - Mandelbaum
 groups:
@@ -19,8 +23,16 @@ locations:
 - Asellus Primus
 - Cleve Hub
 technologies: []
-modern_impact: Established a Pilots Federation peacekeeping model to protect new pilots in high-traffic starter systems.
+modern_impact: Established a Pilots Federation peacekeeping model to protect new pilots
+  in high-traffic starter systems.
+related_uuids:
+- b53ef110-e391-5d3e-9228-a6c6e28b50eb
+- b90a1ea5-56d2-56a5-ada3-abbb04a3a283
+- 35d9738d-1233-5bb8-b8a5-9d74f644e811
+- f68fdeb6-87df-5576-8524-abf2fc3dfb95
+- b9b02ad2-eaff-5306-af23-2c5c5d6ae52b
 ---
+
 
 A spokesperson for The Pilots Federation has announced a new peacekeeping initiative centred on the LHS 3447, Eravate and Asellus Primus systems. The purpose of the initiative is to minimise criminal activity in these regions and thereby ensure the safety of inexperienced pilots. 
 

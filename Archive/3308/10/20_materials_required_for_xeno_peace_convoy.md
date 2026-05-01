@@ -4,8 +4,10 @@ title: Materials Required for Xeno-Peace Convoy
 slug: materials_required_for_xeno_peace_convoy
 date: '3308-10-20'
 source: API
-summary: Federal Governor Dalton Chase requests deliveries to the Andavandul system to establish a xeno-peace envoy vessel.
-player_impact: Independent pilots were asked to both deliver commodities and engage hostile forces.
+summary: Federal Governor Dalton Chase requests deliveries to the Andavandul system
+  to establish a xeno-peace envoy vessel.
+player_impact: Independent pilots were asked to both deliver commodities and engage
+  hostile forces.
 persons:
 - Dalton Chase
 - Felicia Winters
@@ -18,7 +20,9 @@ topics:
 - corporate expansion
 - diplomacy
 arc_id: null
-modern_impact: '"The Federation’s leaders are sworn to protect its people, yet our aggressive interactions with the Thargoids have pla..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+modern_impact: '"The Federation’s leaders are sworn to protect its people, yet our
+  aggressive interactions with the Thargoids have pla..." The failure of civilian-led
+  diplomacy underscores the dangers of underestimating Thargoid hostility.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -28,6 +32,7 @@ related_uuids:
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - c45ebc1d-95b6-5134-a0de-b08c6f710fe7
 ---
+
 
 **Pilots’ Federation ALERT**
 Federal Governor Dalton Chase requests deliveries to the Andavandul system to establish a xeno-peace envoy vessel.

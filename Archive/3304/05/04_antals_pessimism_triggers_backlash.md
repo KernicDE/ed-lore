@@ -35,7 +35,14 @@ significance: high
 related_uuids:
 - 208ad777-7e52-54e3-b190-cfdd50fec921
 - 7df21833-aa87-5941-92ce-9de1d458f258
+- ca1298b7-f6b5-5dfb-a716-f0956072d329
+- aca55626-ad2a-54e9-9bb2-3f9a86209dd8
+- 7024576d-2590-5a29-8396-403c85d12fb0
+- fabdb08e-7274-56db-9dd0-05b5b51bf393
+- d20c7f2c-2229-5299-9a85-fd34ea293dbf
+- 722fe641-dd51-5082-a7f8-ca2c80aabf61
 ---
+
 
 
 Many key figures have contested Pranav Antal’s suggestion that humanity could lose The conflict against the Thargoids. 

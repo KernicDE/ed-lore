@@ -4,8 +4,12 @@ title: Freelance Report  Fuel Rats Reach Milestone
 slug: freelance_report_fuel_rats_reach_milestone
 date: '3302-04-18'
 source: GitHub
-summary: The Fuel Rats search-and-rescue collective announces it has rescued more than 10,000 stranded pilots since its foundation in June 3301, maintaining a success rate of over 95%. A memorial service for those they failed to save is planned for early May.
-player_impact: Fuel Rats volunteers continue rescuing stranded pilots across the galaxy, averaging 36 saves per day.
+summary: The Fuel Rats search-and-rescue collective announces it has rescued more
+  than 10,000 stranded pilots since its foundation in June 3301, maintaining a success
+  rate of over 95%. A memorial service for those they failed to save is planned for
+  early May.
+player_impact: Fuel Rats volunteers continue rescuing stranded pilots across the galaxy,
+  averaging 36 saves per day.
 groups:
 - Fuel Rats
 topics:
@@ -14,7 +18,14 @@ topics:
 modern_impact: Humanitarian effort by the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- ca336671-285c-54b4-9c50-3b2c5cafda2f
+- 4d7c597e-0996-5384-89fa-f96749b6bb7b
+- 0d798d5a-ae0c-5a99-9a72-a060772f4fcd
+- e74deb32-c4c0-59e7-8506-445b6c628173
+- 1fdc01e9-8e9f-507e-8671-f59261c89471
 ---
+
 
 A Fuel Rats public relations official has announced that The collective has now succeeded in rescuing more than 10,000 stranded pilots. 
 

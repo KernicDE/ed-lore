@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 The Empire has officially proclaimed Hadrian Augustus Duval and his wife Lady Astrid Minerva-Duval to be wards of the Senate.
 The offer of senatorial protection was made following an NMLA attempt to assassinate them and their unborn child by bombing Dyson City starport.
 Prior to being transported from the Paresa system to a secure location, Hadrian Duval sent This message:

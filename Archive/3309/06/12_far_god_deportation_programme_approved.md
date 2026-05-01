@@ -4,7 +4,8 @@ title: Far God Deportation Programme Approved
 slug: far_god_deportation_programme_approved
 date: '3309-06-12'
 source: API
-summary: President Hudson agrees to deport Far God cultists to the Alliance, framing it as pragmatic cost-cutting while the Dedicant is prepared for transport.
+summary: President Hudson agrees to deport Far God cultists to the Alliance, framing
+  it as pragmatic cost-cutting while the Dedicant is prepared for transport.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Hudson
@@ -21,7 +22,12 @@ topics:
 - religion
 entities: []
 arc_id: null
-modern_impact: Hudson's framing — 'rather than waste taxpayers' money keeping these deluded individuals incarcerated, the Federation is better off without them' — is dismissive pragmatism. The detail that the True Chapters 'will be escorted to Alliance space aboard the Dedicant, having agreed to provide full access to the megaship's databanks' shows the Federation extracting intelligence value. Trevino's speculation about Hudson's legacy motivation adds political depth.
+modern_impact: Hudson's framing — 'rather than waste taxpayers' money keeping these
+  deluded individuals incarcerated, the Federation is better off without them' — is
+  dismissive pragmatism. The detail that the True Chapters 'will be escorted to Alliance
+  space aboard the Dedicant, having agreed to provide full access to the megaship's
+  databanks' shows the Federation extracting intelligence value. Trevino's speculation
+  about Hudson's legacy motivation adds political depth.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,6 +35,7 @@ related_uuids:
 - 35bd6845-b4e7-5c2f-a62c-12969561f402
 - da13374d-1993-57dc-8fdc-0f0d82f6b1e1
 ---
+
 
 The Federation has agreed to the expulsion of all adherents of the Order of the Far God to the Alliance.
 President Zachary Hudson issued a statement alongside the government decision:

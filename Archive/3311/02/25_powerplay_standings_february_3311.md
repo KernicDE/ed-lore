@@ -4,8 +4,10 @@ title: 'Powerplay Standings: February 3311'
 slug: powerplay_standings_february_3311
 date: '3311-02-25'
 source: API
-summary: Vox Galactica published the February 3311 Powerplay standings, with Edmund Mahon maintaining the largest sphere of influence at 1,431 systems.
-player_impact: Powerplay standings reflected ongoing player-supported expansion and consolidation efforts for the major powers.
+summary: Vox Galactica published the February 3311 Powerplay standings, with Edmund
+  Mahon maintaining the largest sphere of influence at 1,431 systems.
+player_impact: Powerplay standings reflected ongoing player-supported expansion and
+  consolidation efforts for the major powers.
 persons:
 - Conrad Sterling
 groups: []
@@ -13,12 +15,16 @@ locations: []
 topics:
 - research
 technologies: []
-modern_impact: Li Yong-Rui's 77-system increase is the largest gain, suggesting Sirius Corp is already capitalising on post-war instability. Mahon's narrow 21-system lead over Aisling Duval foreshadows the Alliance internal tensions that will erupt in May when the Sirius pact is terminated.
+modern_impact: Li Yong-Rui's 77-system increase is the largest gain, suggesting Sirius
+  Corp is already capitalising on post-war instability. Mahon's narrow 21-system lead
+  over Aisling Duval foreshadows the Alliance internal tensions that will erupt in
+  May when the Sirius pact is terminated.
 legacy_weight: 2
 significance: low
 related_uuids:
 - d656f630-b303-5a60-941d-aa538001fec0
 ---
+
 
 This month's analysis of the influence held by key figures in the core systems has arrived, courtesy of Conrad Sterling of Vox Galactica.
 His latest survey of system populations suggests the following five powers enjoy the largest sphere of influence:

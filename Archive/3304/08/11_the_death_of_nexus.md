@@ -4,7 +4,12 @@ title: The Death of Nexus
 slug: the_death_of_nexus
 date: '3304-08-11'
 source: GitHub
-summary: A medical ship transporting injured Riri McAllister vanishes and is presumed destroyed. Deputy Inspector Mara Klatt reports finding only debris at the vessel's last known location. She suggests the attack may have been vengeance from League of Reparation victims, an attempt by surviving League members to silence McAllister, or a rescue mission. The tri-superpower taskforce investigating the League is disbanded. McAllister is listed as missing rather than dead.
+summary: A medical ship transporting injured Riri McAllister vanishes and is presumed
+  destroyed. Deputy Inspector Mara Klatt reports finding only debris at the vessel's
+  last known location. She suggests the attack may have been vengeance from League
+  of Reparation victims, an attempt by surviving League members to silence McAllister,
+  or a rescue mission. The tri-superpower taskforce investigating the League is disbanded.
+  McAllister is listed as missing rather than dead.
 player_impact: None
 persons:
 - Riri McAllister
@@ -22,12 +27,15 @@ topics:
 - crime
 - terrorism
 - investigation
-modern_impact: The disappearance of McAllister's transport ship leaves the League of Reparation's full network potentially intact, while the disbanding of the taskforce means surviving members may never be brought to justice.
+modern_impact: The disappearance of McAllister's transport ship leaves the League
+  of Reparation's full network potentially intact, while the disbanding of the taskforce
+  means surviving members may never be brought to justice.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 779431c9-8684-5495-ac25-27b84aec0509
 ---
+
 
 A medical ship transporting the injured Riri McAllister has vanished and is presumed destroyed. Former rear admiral McAllister was on trial on Turner’s World for her crimes as Nexus, the founder of terrorist group the League of Reparation. After being shot by the daughter of the Assassinated Senator Nestor Cartesius, McAllister was to be taken to an advanced medical facility. 
 

@@ -4,8 +4,11 @@ title: Community Goal  Zeus Bureau Appeal
 slug: community_goal_zeus_bureau_appeal
 date: '3303-05-19'
 source: GitHub
-summary: The Zeus Bureau is hosting a gathering of influential figures and has placed an open order for luxury goods including Giant Irukama Snails, Kamitra Cigars, and Lavian Brandy.
-player_impact: Pilots can deliver Giant Irukama Snails, Kamitra Cigars, and Lavian Brandy to KatherineB in the Zeus system for rewards.
+summary: The Zeus Bureau is hosting a gathering of influential figures and has placed
+  an open order for luxury goods including Giant Irukama Snails, Kamitra Cigars, and
+  Lavian Brandy.
+player_impact: Pilots can deliver Giant Irukama Snails, Kamitra Cigars, and Lavian
+  Brandy to KatherineB in the Zeus system for rewards.
 persons: []
 groups:
 - Zeus Bureau
@@ -16,10 +19,14 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: Luxury goods event in Zeus attracts influential figures and boosts local economy with high-end commodity trading.
+modern_impact: Luxury goods event in Zeus attracts influential figures and boosts
+  local economy with high-end commodity trading.
 legacy_weight: 2
 significance: low
+related_uuids:
+- b942e41c-39f9-5297-95a3-49ac35ee12d5
 ---
+
 
 A press release from The Zeus Bureau, an organisation based in Zeus, has revealed that the system will soon host a gathering of some of the galaxy's most influential people. Figures from the worlds of politics, commerce and culture are scheduled to convene at KatherineB for what is promised to be "an event of unparalleled opulence". 
 

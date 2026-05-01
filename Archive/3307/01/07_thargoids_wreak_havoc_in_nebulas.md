@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Starports in The Coalsack and Witch Head Nebulas have been damaged during full-scale Thargoid incursions.
 An appeal by Aegis for anti-xeno support led to a concerted response from the galactic community. However, the Thargoid forces proved to be overwhelming and have attacked systems within the nebulas, With the loss of thousands of lives. 
 Admiral Aden Tanner, chief military liaison of Aegis, broadcast This message:

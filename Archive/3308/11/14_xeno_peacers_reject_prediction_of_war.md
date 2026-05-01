@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 A claim that the rogue signal sources form part of a potential Thargoid offensive has been disputed by many in the pro-peace movement.
 A joint statement by respected xenologists Professor Alba Tesreau, Professor Ishmael Palin and Ram Tah concluded that the approaching anomalies are a reaction to events in HIP 22460, and may have dire consequences for humanity. The eight signal sources are projected to arrive in the core systems within weeks.
 Advocates for the Thargoid Advocacy Project and similar xeno-peace groups have rejected the idea that increased hostilities with the Thargoids is inevitable. As community liaison Bernadette Wells  said on the Joy Senne ICE-cast:

@@ -32,7 +32,10 @@ legacy_weight: 2
 significance: low
 related_uuids:
 - c553201b-39fc-54de-82f6-1a41c0fad025
+- 70f44219-f336-5ce2-9979-4fc2f09a060c
+- 4724e8cf-ea08-50a8-9d61-e9e36a44f752
 ---
+
 
 
 Eyewitness reports from The Eotienses system indicate that an attack has taken place on Admiral Denton Patreus' flagship, the INV Imperial Freedom. The Majestic-class Interdictor was heavily damaged in the altercation and was ignominiously forced to withdraw from the field of combat. 

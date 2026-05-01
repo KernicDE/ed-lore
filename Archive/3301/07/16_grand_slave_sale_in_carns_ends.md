@@ -4,7 +4,11 @@ title: Grand Slave Sale in Carns Ends
 slug: grand_slave_sale_in_carns_ends
 date: '3301-07-16'
 source: GitHub
-summary: The grand slave sale at Humason Orbital in Carns has ended. Deputy Communications Officer Ramon Lamor declared it a success but refused to provide numbers. A report analysing the sale and planned market changes will be presented next week. Reports of unrest have emerged since the announcement that Carns will transform its economy to high-tech goods and services.
+summary: The grand slave sale at Humason Orbital in Carns has ended. Deputy Communications
+  Officer Ramon Lamor declared it a success but refused to provide numbers. A report
+  analysing the sale and planned market changes will be presented next week. Reports
+  of unrest have emerged since the announcement that Carns will transform its economy
+  to high-tech goods and services.
 player_impact: None
 persons:
 - Ramon Lamor
@@ -15,10 +19,16 @@ locations:
 topics:
 - slavery
 - trade
-modern_impact: End of Carns slave sale marks the transition point for the system's shift from mining to high-tech industry.
+modern_impact: End of Carns slave sale marks the transition point for the system's
+  shift from mining to high-tech industry.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 4a00c1ed-084e-53ca-9dd4-1205bc96641e
+- 664d9565-5ac7-56c3-95e3-4d331dcc5fb5
+- c44c61ff-2724-516c-afd1-18b4813e4cf6
 ---
+
 
 The grand slave sale held on Humason Orbital in The Carns system has ended. Deputy Communications Officer Ramon Lamor declared the sale a success, but refused to comment Further, or provide actual numbers. He did confirm that a report analysing the sale and the recent activity for the planned market changes at the station would be presented next week. 
 

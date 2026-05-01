@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - 3e340fb7-d036-53cb-b192-847d066be03c
 - b576c396-7412-5c98-b455-36aced608d3e
+- 392aa4d2-b0f8-518a-bc22-b8e0c9acddf2
 ---
+
 
 
 A spokesperson for The Colonia Council has announced that the agitators causing discord in the Eol Prou Lw-L C8-215 system have been eliminated. Hundreds of pilots supported the operation, taking to their ships to tackle the criminals that had taken root in system. The Junkyard Dogs have also confirmed that security personnel have been stationed at the agitators’ outposts to prevent reoccupation. 

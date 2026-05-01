@@ -26,6 +26,7 @@ related_uuids:
 ---
 
 
+
 A Further seven Federal factions have severed ties With the superpower in protest against government monitoring of communications.
 These latest secessions have been undertaken by minor factions that do not control any systems, including Unktock Free, United Posenoi League and Progressive Party of Inggale.
 Political journalist Sofia Trevino reported for The Federal Times:

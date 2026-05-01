@@ -35,7 +35,12 @@ significance: medium
 related_uuids:
 - 0b396735-3acc-5e46-a6c1-dc75e63959d9
 - 757b224e-8344-5914-a83c-7b36144d25a6
+- 0044ac89-dd97-5198-9eeb-55ddd5202574
+- 41b3581b-5fc7-5b67-afe5-a6a50289096a
+- c267b84b-57a2-5a63-8d0d-e2363834a969
+- f6889b8d-23e3-51bf-bd46-7c4a8414b829
 ---
+
 
 
 Continuing This GalNet exclusive series, political commentator Marcus Macmillan writes his opinion of some of the movers and shakers in 3301. In This fourth article he considers Shadow President Felicia Winters and her sudden rise to power. 

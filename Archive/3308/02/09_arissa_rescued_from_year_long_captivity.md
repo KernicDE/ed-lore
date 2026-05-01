@@ -4,7 +4,8 @@ title: Arissa Rescued from Year-Long Captivity
 slug: arissa_rescued_from_year_long_captivity
 date: '3308-02-09'
 source: API
-summary: Emperor Arissa Lavigny-Duval is rescued after being secretly imprisoned by Darkwater Inc for nearly a year.
+summary: Emperor Arissa Lavigny-Duval is rescued after being secretly imprisoned by
+  Darkwater Inc for nearly a year.
 player_impact: Not specifically mentioned — this is a breaking news report.
 persons:
 - Arissa Lavigny-Duval
@@ -26,7 +27,10 @@ topics:
 - war
 entities: []
 arc_id: nmla-terrorism
-modern_impact: '"Emperor Arissa Lavigny-Duval has been found alive after being secretly imprisoned by the private military firm Darkwater Inc." The revelation that Darkwater and Imperial senators conspired to kidnap the Emperor confirms the NMLA conspiracy reached the highest levels of power.'
+modern_impact: '"Emperor Arissa Lavigny-Duval has been found alive after being secretly
+  imprisoned by the private military firm Darkwater Inc." The revelation that Darkwater
+  and Imperial senators conspired to kidnap the Emperor confirms the NMLA conspiracy
+  reached the highest levels of power.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +45,7 @@ related_uuids:
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
 ---
+
 
 Emperor Arissa Lavigny-Duval has been Found alive after being secretly imprisoned by The private military firm Darkwater Inc.
 The Imperial Herald published a special report on recent events:

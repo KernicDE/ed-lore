@@ -4,7 +4,10 @@ title: Freelance Report  Presidential Fleet Upgrade Questioned
 slug: freelance_report_presidential_fleet_upgrade_questioned
 date: '3302-03-01'
 source: GitHub
-summary: Congresswoman Kristine Lasky criticises President Hudson's decision to use two Core Dynamics Farragut-class battle cruisers as presidential transport vessels, calling it a show of force rather than security. She plans to call for a Federal Accountability Office investigation.
+summary: Congresswoman Kristine Lasky criticises President Hudson's decision to use
+  two Core Dynamics Farragut-class battle cruisers as presidential transport vessels,
+  calling it a show of force rather than security. She plans to call for a Federal
+  Accountability Office investigation.
 player_impact: None
 persons:
 - Kristine Lasky
@@ -22,7 +25,16 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 7fc202ae-1595-550a-a5bb-a00ccb711675
+- aedc65ec-4d5c-5ea9-a62c-b6920ab33260
+- 51c0ee96-ad36-51fd-b176-79908f6725aa
+- 06c601f9-d6e1-544a-8af2-261838d10ba8
+- 30b62ae4-134e-5e1b-9f6b-5d85168c500e
+- af60d2e3-434b-5636-8239-951a1039b5ec
+- bc5c8147-931b-5a46-acb0-df2598181c2d
 ---
+
 
 Following The recent retirement of the last Saud Kruger Narwhal from the presidential fleet, critics of the Hudson administration have commented on the decision to make use of two Core Dynamics Farragut-class battle cruisers as presidential transport vessels. 
 

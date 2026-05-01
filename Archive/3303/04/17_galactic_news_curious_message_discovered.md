@@ -26,7 +26,10 @@ significance: low
 related_uuids:
 - 48375163-cf64-5d1f-981e-01c7a002931a
 - 6aabad8a-7a17-59a6-a77f-f2c4e45f4959
+- 4323dd5f-bee6-5082-b484-a455b41aeeb2
+- dcaa1795-2ea5-51ba-8a9e-17482755c038
 ---
+
 
 
 A group of EM-transmission technology enthusiasts in The Tionisla system claims to have Found a message in the exploration data gathered last year as part of a campaign organised by the Children of Raxxla. 

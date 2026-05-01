@@ -4,8 +4,11 @@ title: Galactic News  Gathering Appeal Concludes
 slug: galactic_news_gathering_appeal_concludes
 date: '3302-10-20'
 source: GitHub
-summary: The Aramzahd Empire Party announced that the Gathering 3302 appeal for rare foods and alcohol was successful, with massive deliveries to Norman–Mavis's Bingo Palace, and the anti-piracy campaign in Aramzahd was equally successful.
-player_impact: Pilots who supported the campaigns can collect rewards from Norman–Mavis's Bingo Palace in the Aramzahd system.
+summary: The Aramzahd Empire Party announced that the Gathering 3302 appeal for rare
+  foods and alcohol was successful, with massive deliveries to Norman–Mavis's Bingo
+  Palace, and the anti-piracy campaign in Aramzahd was equally successful.
+player_impact: Pilots who supported the campaigns can collect rewards from Norman–Mavis's
+  Bingo Palace in the Aramzahd system.
 persons: []
 groups:
 - Aramzahd Empire Party
@@ -18,10 +21,14 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: The Gathering demonstrates how community events blend commerce, tourism, and security operations in the galactic economy.
+modern_impact: The Gathering demonstrates how community events blend commerce, tourism,
+  and security operations in the galactic economy.
 legacy_weight: 1
 significance: low
+related_uuids:
+- c0725e57-5fd7-5b9c-a6c0-30924ec375f0
 ---
+
 
 The Aramzahd Empire Party has announced that Its appeal for commodities for the Gathering 3302 has received the wholehearted support of the galactic community. Hundreds of pilots responded to the organisation's request for rare foods and alcohol, resulting In a massive influx of deliveries to the Norman–Mavis's Bingo Palace starport. 
 

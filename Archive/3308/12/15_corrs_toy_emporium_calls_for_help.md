@@ -4,8 +4,10 @@ title: Corrs Toy Emporium Calls for Help
 slug: corrs_toy_emporium_calls_for_help
 date: '3308-12-15'
 source: API
-summary: Sandra Corrs, CEO of the largest manufacturer of children’s toys in the core systems, has requested help this holiday season.
-player_impact: Independent pilots were encouraged to participate in the unfolding events.
+summary: Sandra Corrs, CEO of the largest manufacturer of children’s toys in the core
+  systems, has requested help this holiday season.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
 persons:
 - Sandra Corrs
 topics:
@@ -14,7 +16,9 @@ topics:
 - festival
 - war
 arc_id: null
-modern_impact: '"We typically use a fleet of transports provided by our partner company, Dolph’s Routes, to deliver presents to good c..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"We typically use a fleet of transports provided by our partner company,
+  Dolph’s Routes, to deliver presents to good c..." This perspective highlights the
+  broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -24,6 +28,7 @@ related_uuids:
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - 6e669118-5e61-5609-b8cd-b443a5464632
 ---
+
 
 **Pilots’ Federation ALERT**
 Sandra Corrs, CEO of the largest manufacturer of children’s toys in the core systems, has requested help this holiday season.

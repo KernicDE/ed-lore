@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 Shadow President Felicia Winters has claimed that Further systems declaring Independence could severely damage The Federation.
 Her statement was in response to The conflict in the Kuwembaa system, Which resulted in more Federal factions seceding from the superpower. Dozens of others are now openly considering breaking away and becoming Independent.
 Addressing Congress, Shadow President Winters said:

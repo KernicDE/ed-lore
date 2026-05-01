@@ -4,8 +4,11 @@ title: 'Galactic Mysteries: Generation Ships'
 slug: galactic_mysteries_generation_ships
 date: '3307-04-02'
 source: API
-summary: Investigators Erik Gunnarson and Francesca Wolfe explore the mysteries of abandoned generation ships, recounting chilling tales of the Thetis, Lazarus, Pleione, Artemis, Demeter, and the Golconda — relics of pre-hyperdrive colonisation efforts.
-player_impact: Explorers can visit the derelict generation ships mentioned, including the Thetis at Nefertem 6 a.
+summary: Investigators Erik Gunnarson and Francesca Wolfe explore the mysteries of
+  abandoned generation ships, recounting chilling tales of the Thetis, Lazarus, Pleione,
+  Artemis, Demeter, and the Golconda — relics of pre-hyperdrive colonisation efforts.
+player_impact: Explorers can visit the derelict generation ships mentioned, including
+  the Thetis at Nefertem 6 a.
 persons:
 - Erik Gunnarson
 - Francesca Wolfe
@@ -23,13 +26,18 @@ topics:
 technologies:
 - Generation ship
 arc_id: formidine-rift
-modern_impact: Generation ships remain fascinating archaeological sites for explorers, with the Golconda's resettlement on Upaniklis serving as the sole successful case of descendants completing their ancestors' mission.
+modern_impact: Generation ships remain fascinating archaeological sites for explorers,
+  with the Golconda's resettlement on Upaniklis serving as the sole successful case
+  of descendants completing their ancestors' mission.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 79f7dec4-b60f-56f7-b92e-0d4c77203b9b
 - 29d5b1ad-189d-542d-b21b-ab8e21422a28
+- 0c4e2c35-5b73-53f5-9536-c931cc82ea12
+- c6ad335b-e800-558b-8000-dc2fcc040210
 ---
+
 
 Erik Gunnarson and Francesca Wolfe investigate The abandoned relics of spacefaring communities from the early years of colonisation.
 Wolfe: “Generation ships are essentially mobile cities designed to carry expanding populations, and are always an impressive sight. But there’s One I keep returning to – the Thetis, orbiting Nefertem 6 a.”

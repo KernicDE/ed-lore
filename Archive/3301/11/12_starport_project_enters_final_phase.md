@@ -34,7 +34,9 @@ significance: medium
 related_uuids:
 - 4d8e5dd6-36da-556b-9b5e-2d7c61b683b4
 - 6cb9cc20-5e96-5ba6-9826-7863853ee7a3
+- 12f4da65-9c2d-59ce-963c-ee406bf4c1b7
 ---
+
 
 
 Two weeks ago, The Explorers' Association began work on a new Ocellus starport in the Pleiades Nebula. The project received financial support from the Brewer Corporation and Universal Cartographics, Which offered generous premiums to traders providing essential materials for the construction. Now, With the bulk of the work complete, the Explorer's Association has announced a third and final appeal for resources: 

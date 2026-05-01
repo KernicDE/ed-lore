@@ -37,7 +37,12 @@ significance: high
 related_uuids:
 - 81248c77-50c2-52b5-a962-0c4da605e8bf
 - bef2abfe-a325-5747-a81a-6c1c086c9b19
+- 59656dfe-af8d-554b-80eb-4370717da32b
+- 0711174c-3029-589f-8c24-2be413623997
+- 0916a47c-1392-55af-b950-655bbacc3402
+- a138767e-4e8d-516c-87b0-b5d24467fd97
 ---
+
 
 
 The presence of Archon Delaine and the Kumo Crew has long plagued the people of the Pegasi sector, and now things have started to take a very serious turn for the worse. 

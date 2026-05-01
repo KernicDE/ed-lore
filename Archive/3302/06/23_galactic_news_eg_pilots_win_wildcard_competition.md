@@ -4,7 +4,9 @@ title: Galactic News  EG Pilots win Wildcard Competition
 slug: galactic_news_eg_pilots_win_wildcard_competition
 date: '3302-06-23'
 source: GitHub
-summary: The EG Pilots win the Dangerous Games Wildcard competition after accumulating the most conductive fabrics in the final heat, earning a place to compete against five major factions for official power status starting 30 June.
+summary: The EG Pilots win the Dangerous Games Wildcard competition after accumulating
+  the most conductive fabrics in the final heat, earning a place to compete against
+  five major factions for official power status starting 30 June.
 player_impact: None
 persons:
 - Trinity Avon
@@ -24,7 +26,16 @@ technologies: []
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 70b5fff1-6c68-5160-be4c-cd028eac2ac1
+- a10f897c-ce67-571c-aee0-e4912eaf4e5c
+- ddcd30dd-50e9-5306-90f2-d01d799b9262
+- 462ae808-a270-5d4a-b32e-39abf9c6723a
+- bd782d84-d125-5f61-ad3d-330d1089df62
+- 8c2f923b-a2e8-5d6a-9555-90065b9a0ca3
+- edd271b7-20ca-5e71-9f60-3517f2ee8974
 ---
+
 
 The third and final heat of the Dangerous Games Wildcard competition is over. 
 

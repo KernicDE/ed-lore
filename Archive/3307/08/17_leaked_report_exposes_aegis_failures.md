@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 The Aegis board of inquiry’s initial findings have been leaked to journalists, With Several problems within the anti-xeno organisation detailed in the files.
 Vox Galactica journalist Alexei Keel reported on Its contents:
 “The Independent inquiry into Aegis is in its early stages, making This disclosure of delicate information all the more embarrassing. Although only a summary, it highlights shortcomings that were immediately apparent to the investigators.”

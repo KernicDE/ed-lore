@@ -4,8 +4,12 @@ title: Nova Imperium Triumphs Over Federation
 slug: nova_imperium_triumphs_over_federation
 date: '3307-05-13'
 source: API
-summary: Nova Imperium defeats the Federal-backed League of Mandu in the Paresa system. Hadrian Duval claims victory honours those who resisted Federation invasion. Ambassador Catherine Carlisle of the Federal Diplomatic Corps admits Federal intermediaries acted hastily and will depart.
-player_impact: Pilots who fought for Nova Imperium collected rewards at Dyson City; those who fought for the League of Mandu collected rewards at Harmony's Shield.
+summary: Nova Imperium defeats the Federal-backed League of Mandu in the Paresa system.
+  Hadrian Duval claims victory honours those who resisted Federation invasion. Ambassador
+  Catherine Carlisle of the Federal Diplomatic Corps admits Federal intermediaries
+  acted hastily and will depart.
+player_impact: Pilots who fought for Nova Imperium collected rewards at Dyson City;
+  those who fought for the League of Mandu collected rewards at Harmony's Shield.
 persons:
 - Hadrian Duval
 - Catherine Carlisle
@@ -25,7 +29,9 @@ topics:
 - war
 technologies: []
 arc_id: nmla-terrorism
-modern_impact: Nova Imperium's victory vindicates Hadrian Duval against false NMLA allegations and reinforces his political position, while the Federal retreat damages Hudson's credibility on anti-terrorism policy.
+modern_impact: Nova Imperium's victory vindicates Hadrian Duval against false NMLA
+  allegations and reinforces his political position, while the Federal retreat damages
+  Hudson's credibility on anti-terrorism policy.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +39,7 @@ related_uuids:
 - dc3b5280-3154-5bb9-aa0a-34efca0a2b71
 - b11ce1f8-7cec-53e0-8472-ac95e77d789f
 ---
+
 
 **Pilots Federation ALERT**
 The conflict in The Paresa system has ended With Nova Imperium defeating the Federal-backed League of Mandu faction.

@@ -31,7 +31,11 @@ significance: medium
 related_uuids:
 - 562b166a-7b1f-580d-8385-fdc669cfce0f
 - dc600c12-513e-54f9-b8c9-4d5a99383094
+- 59656dfe-af8d-554b-80eb-4370717da32b
+- 0711174c-3029-589f-8c24-2be413623997
+- 2a375cf0-f161-531e-bafa-c3c2dbfd08a6
 ---
+
 
 
 Leading a piratical group is tough. The Kumo Crew is growing, but not without a struggle. Archon Delaine has always been a strong leader, and keeps the worst excesses of his lieutenants in check. In truth he leads a disparate group of criminal organisations, and recently infighting and infiltration has been rife within the Kumo Crew since Delaine began accepting new members, causing the Kumo to falter in their bid to take over the Pegasi system. 

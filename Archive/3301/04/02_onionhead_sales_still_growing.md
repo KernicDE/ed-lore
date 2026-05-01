@@ -35,7 +35,11 @@ significance: medium
 related_uuids:
 - 35957033-efef-5286-98b7-996956b0122b
 - 4d0d8ee9-0acc-54d5-b061-7c4d2ea93522
+- 7d696eb7-feeb-554b-ad2b-d688cec5e6ac
+- 84ca53c1-d115-56ba-9dd0-92bb9a471475
+- dd792af2-b24a-5dfb-bd17-8c3d5a502979
 ---
+
 
 
 The Federal ban may have been enough to scare The Tanmark Defence Force into purging Lucan Onionhead plantations from their world, but Panem Continues to stand defiant. 

@@ -4,8 +4,13 @@ title: Launching the Colonies
 slug: launching_the_colonies
 date: '3301-03-12'
 source: GitHub
-summary: The Sirius Corporation announced the launch of 9 new colonial outposts to be deployed within 14 days, returning to its roots as a corporate coloniser. The chosen systems include Gliese 97.2, HIP 8396, Col 285 Sector WA-L b9-3, CAO Junga, and the Wredguia Colony Cluster comprising Wredguia SX-L D7-92, Wredguia SX-L d7-91, Wredguia WD-K D8-66, Wredguia QA-N b34-4 and Wredguia XD-K d8-78.
-player_impact: None directly; new Sirius Corporation colonies may create economic and exploration opportunities in the designated systems.
+summary: The Sirius Corporation announced the launch of 9 new colonial outposts to
+  be deployed within 14 days, returning to its roots as a corporate coloniser. The
+  chosen systems include Gliese 97.2, HIP 8396, Col 285 Sector WA-L b9-3, CAO Junga,
+  and the Wredguia Colony Cluster comprising Wredguia SX-L D7-92, Wredguia SX-L d7-91,
+  Wredguia WD-K D8-66, Wredguia QA-N b34-4 and Wredguia XD-K d8-78.
+player_impact: None directly; new Sirius Corporation colonies may create economic
+  and exploration opportunities in the designated systems.
 persons: []
 groups:
 - Sirius Corporation
@@ -22,10 +27,19 @@ locations:
 - Wredguia XD-K d8-78
 topics:
 - corporate expansion
-modern_impact: Sirius Corporation's colonisation programme expanded human presence beyond occupied space, continuing a thousand-year tradition of corporate-led settlement.
+modern_impact: Sirius Corporation's colonisation programme expanded human presence
+  beyond occupied space, continuing a thousand-year tradition of corporate-led settlement.
 legacy_weight: 2
 significance: low
+related_uuids:
+- fd85ba23-a6c4-5029-a23d-44f4e58b6f3e
+- a32a7693-c60a-50fa-87d9-09447bb36976
+- ae999b3f-f43e-54a3-a6e1-4a908026aa57
+- ad95a9f7-e1ac-53ac-8803-fec2e9305a16
+- 4e3b073a-562f-591a-a980-a91838aa35ff
+- 9964a785-b685-5db1-9d24-daaf889ec3e9
 ---
+
 
 Almost a thousand years ago, a corporate colonisation project from Earth set out on a trip to find a new home among The stars. The colonists settled in the Sirius system, where they became One of the leading suppliers of drive fuel anywhere in the galaxy, and so the Sirius Corporation was born. 
 

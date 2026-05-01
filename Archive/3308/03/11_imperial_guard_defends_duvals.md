@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Emperor Arissa Lavigny-Duval has ordered The Imperial Guard to provide increased security to surviving members of the Duval dynasty.
 Many Imperial Family members, including Prince Harold, were Assassinated by the NMLA. Sources close to Emperor Arissa state that she is determined to preserve the remaining Duval bloodline as well as deter any future attacks.
 The Imperial Guard is a legion of elite warriors under the direct control of the Emperor. Although typically seen performing ceremonial duties, they are a highly trained fighting force. It is understood that their numbers have been boosted by a focused enlistment drive from Other areas of the Imperial military. 

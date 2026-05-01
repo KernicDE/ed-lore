@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - 911e0972-8e10-51d0-a255-27cb917cae8a
 - cbe7af14-8ee3-51ad-af51-8732af579af9
+- dd174227-c27d-5a6e-a0d6-55aa0614bc98
 ---
+
 
 
 The system of 78 Ursae Majoris, home to over 10 billion people, has erupted into civil war today. The conflict started just hours after news broke that the frontier system was planning to announce Its intention to secede from the Federation.  

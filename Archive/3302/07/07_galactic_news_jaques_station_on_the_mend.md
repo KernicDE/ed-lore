@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 Only a week after an Independent mission was launched to bring aid to Jaques Station, personnel at the starport have reported that limited repairs have been completed. A member of the station's technical team confirmed that meta-alloys had been used to partially restore the starport's commodities market, and went on to say: 
 
 "We're hugely grateful to all the pilots who have so selflessly made the long trek to Eol Prou RS-T d3-94. But we feel bad about not being able to reimburse those who schlepped out here, so we're trying to secure funds for a proper campaign to repair the starport. More details will follow soon." 

@@ -4,8 +4,15 @@ title: Commodities needed in the Kamcha, Dinkas and Jang Di Systems
 slug: commodities_needed_in_the_kamcha_dinkas_and_jang_di_systems
 date: '3301-08-20'
 source: GitHub
-summary: The mysterious organisation Emperor's Dawn has issued open contracts for commodities to be delivered to specific starports. Battle Weapons go to Saarinen Station in Kamcha, Ceremonial Heike Tea to Sikorsky Orbital in Jang Di, and Toxic Waste to Blaauw Port in Dinkas. Based in the Kamcha system, Emperor's Dawn appears to have considerable resources and is offering lucrative payments to participating traders.
-player_impact: Traders can deliver Battle Weapons to Kamcha, Ceremonial Heike Tea to Jang Di, and Toxic Waste to Dinkas for Emperor's Dawn contracts. The organisation is paying well for these commodities.
+summary: The mysterious organisation Emperor's Dawn has issued open contracts for
+  commodities to be delivered to specific starports. Battle Weapons go to Saarinen
+  Station in Kamcha, Ceremonial Heike Tea to Sikorsky Orbital in Jang Di, and Toxic
+  Waste to Blaauw Port in Dinkas. Based in the Kamcha system, Emperor's Dawn appears
+  to have considerable resources and is offering lucrative payments to participating
+  traders.
+player_impact: Traders can deliver Battle Weapons to Kamcha, Ceremonial Heike Tea
+  to Jang Di, and Toxic Waste to Dinkas for Emperor's Dawn contracts. The organisation
+  is paying well for these commodities.
 groups:
 - Emperor's Dawn
 locations:
@@ -17,10 +24,18 @@ locations:
 - Blaauw Port
 topics:
 - trade
-modern_impact: Mysterious organisation Emperor's Dawn begins making itself known through commodity contracts across multiple systems.
+modern_impact: Mysterious organisation Emperor's Dawn begins making itself known through
+  commodity contracts across multiple systems.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9d0148b2-d0ec-597d-a16f-c88c72bf49ff
+- 99db0a77-421b-5e49-aa18-60b356f84b48
+- 25511a31-ca0a-5097-813f-644dfd0c1702
+- aee6dedc-728c-5094-b072-e619c36322e4
+- 593b3802-9ce4-5705-a1a4-9470120e3676
 ---
+
 
 A mysterious organisation called Emperor’s Dawn has issued open contracts for a diverse selection of commodities: Ceremonial Heike Tea, Battle Weapons, and Toxic Waste. Each of these is to be delivered to a specific starport, as outlined below: 
 

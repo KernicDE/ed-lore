@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The invading Thargoid forces in the Didio, Novas and Sosong systems have been completely repelled by Salvation.
 Vox Galactica journalist Jade Sanderlyn published This account:

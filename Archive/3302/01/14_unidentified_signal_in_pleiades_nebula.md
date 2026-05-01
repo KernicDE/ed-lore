@@ -22,7 +22,14 @@ significance: medium
 related_uuids:
 - 4d8e5dd6-36da-556b-9b5e-2d7c61b683b4
 - 4ddef4ba-58e1-5877-97dd-f84dd74097ba
+- 9c14fb9b-691f-5a44-88cb-dcb9d651b1ac
+- 287be432-ebfd-51c7-b804-5ad76433919e
+- 0856035e-4ad7-545b-bb09-9480bea555fb
+- 53594924-78d7-5691-8335-36668f095cf3
+- 5b61c1b0-5a50-5b1f-8f13-d87c382cd4ee
+- bc8e029c-7dab-5988-a01e-183a9e764163
 ---
+
 
 
 A fragmentary signal has been received by The flight operations team at Obsidian Orbital in the Maia system. The source of the signal has not been identified, But the strength of signal indicates it originated from a Star system approximately 23 light years from Maia. Unfortunately, interference from a local black hole has made it impossible to determine a vector for the transmission. 

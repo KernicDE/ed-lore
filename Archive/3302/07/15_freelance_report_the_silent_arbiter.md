@@ -24,7 +24,10 @@ significance: high
 related_uuids:
 - 1bef99d4-cbee-5fc7-887a-8f8fca1c7eb3
 - dfa9ce87-7e92-5ea2-853d-a0c17b5aa27b
+- 5655c904-02b3-567d-881a-fd03647a51c6
+- f39543c9-7bdc-5518-b00e-909c9f535e49
 ---
+
 
 
 As Utopia completes Its mission in the Maia system, senior Utopian figures have voiced alarm at the deteriorating situation between the Federation and the Empire over the barnacles. One member of the commune said: 

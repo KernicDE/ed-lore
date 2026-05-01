@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Last month, Professor Ishmael Palin announced his intention to retire from The Palin Institute, the research organisation he founded in 3301. In a statement, the professor indicated that he would relocate to a small research centre on Maia A 3 a, where he would continue investigating the Unknown Artefacts and meta-alloys. Now, the professor has issued a Further statement, announcing that he has placed an open order for building fabricators for the construction of the new outpost. 
 
 "The galactic community has given me considerable support over the past few months – even going so Far as to rescue me and my team from pirates in the Orulas system – and I would very much like for them to be part of This initiative. The new research centre will be relatively modest, but there is still a need for materials. I can promise that pilots who deliver the necessary supplies will be generously compensated!" 

@@ -31,7 +31,9 @@ significance: medium
 related_uuids:
 - 39d6a0c1-d39a-5f5c-af44-fe9e3e943e21
 - b58a22c0-8c55-5a96-aaef-e79b7e004dc5
+- b5b61765-8e3b-5065-8823-15a5c434f68a
 ---
+
 
 
 The drive to deliver quantities of Ceremonial Heike Tea to Hart Station in The Bast System continues, As the starport’s medical teams work around the clock to create as much of the Cerberus Plague antidote as they can. According to Carl Simmons, the Chief Medical Officer of Newton Dock, the rare tea is the only substance that can counter the virulent effects of the disease. 

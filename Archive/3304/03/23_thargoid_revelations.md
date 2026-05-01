@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Aegis has published a report containing significant insights into The Thargoids. The information was provided by the engineer Ram Tah, compiled from recently decrypted logs Found at Guardian sites. 
 
 Key extracts from the report are reprinted below: 

@@ -4,8 +4,11 @@ title: Guardian Deliveries Accelerate Anti-Titan Project
 slug: guardian_deliveries_accelerate_anti_titan_project
 date: '3310-01-25'
 source: API
-summary: Aegis confirms Guardian relic deliveries have boosted Ram Tah's anti-Titan research, with Palin joining the effort and Tanner managing expectations about the proposed weapon's capabilities.
-player_impact: Pilots who delivered Guardian relics and Unclassified relics can collect rewards from Felice Dock in the Meene system.
+summary: Aegis confirms Guardian relic deliveries have boosted Ram Tah's anti-Titan
+  research, with Palin joining the effort and Tanner managing expectations about the
+  proposed weapon's capabilities.
+player_impact: Pilots who delivered Guardian relics and Unclassified relics can collect
+  rewards from Felice Dock in the Meene system.
 persons:
 - Ram Tah
 - Aden Tanner
@@ -24,13 +27,20 @@ technologies:
 - Guardian relics
 - Unclassified relics
 arc_id: thargoid-titan-war
-modern_impact: Tanner's comment — 'I don't mind sharing that Ram Tah is delighted, and is currently refining his theory with the aid of specialists from all three superpowers' — shows cross-superpower scientific cooperation. His caution — 'it's worth managing expectations around the proposed anti-Titan weapon. It remains true that our existing armaments are incapable of inflicting damage on Thargoid motherships' — provides realistic framing. The involvement of 'the most prominent engineers of our age' — Palin and Ram Tah — working together is noted as historically significant.
+modern_impact: Tanner's comment — 'I don't mind sharing that Ram Tah is delighted,
+  and is currently refining his theory with the aid of specialists from all three
+  superpowers' — shows cross-superpower scientific cooperation. His caution — 'it's
+  worth managing expectations around the proposed anti-Titan weapon. It remains true
+  that our existing armaments are incapable of inflicting damage on Thargoid motherships'
+  — provides realistic framing. The involvement of 'the most prominent engineers of
+  our age' — Palin and Ram Tah — working together is noted as historically significant.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 5b9279f9-186d-5fe3-b130-bd9f8346612d
 - dc080e97-cc4c-55c0-a84e-b80d6fba5d83
 ---
+
 
 **Pilots’ Federation ALERT**
 Shipments of Guardian relics and Unclassified relics have boosted hopes of developing a weapon against the Thargoid Titans.

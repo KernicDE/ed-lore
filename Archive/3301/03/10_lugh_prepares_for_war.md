@@ -32,7 +32,13 @@ significance: medium
 related_uuids:
 - 9f89d17d-16f2-5dc1-a8dd-47a4dbc2f708
 - a94d2082-9eb4-5195-b274-d1f3a0195304
+- b8c1669e-339e-5b03-a1c1-7a00b3b79903
+- ab118a7f-a481-5ef9-9e31-2a40ca241017
+- abb3e733-92c5-5ffa-a45d-9a084459d500
+- e2a08ba7-b894-5212-9fd5-3c1e955a59d2
+- 460a7068-a7a1-55fc-a73b-35c3a7fcd6e0
 ---
+
 
 
 Crimson State Group representatives who were still present on Alioth were forced to make a hasty departure earlier today, as reports of Federal checkpoints being established around local exit points began to hit The Alliance blogosphere.  

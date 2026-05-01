@@ -4,7 +4,8 @@ title: Taurus Mining Ventures Begins Scientific Study
 slug: taurus_mining_ventures_begins_scientific_study
 date: '3308-03-23'
 source: API
-summary: Taurus Mining Ventures begins research in Synuefe on a Guardian-related site for Salvation.
+summary: Taurus Mining Ventures begins research in Synuefe on a Guardian-related site
+  for Salvation.
 player_impact: Not specifically mentioned — this is a research report.
 persons:
 - Ruben Carpenter
@@ -19,7 +20,9 @@ topics:
 - research
 entities: []
 arc_id: salvation-azimuth
-modern_impact: '"The megaships Musashi and Heart of Taurus have entered the Synuefe CE-R c21-6 system to perform a mining-related research operation." Taurus Mining''s Guardian research operation further deepens Salvation''s mysterious corporate network.'
+modern_impact: '"The megaships Musashi and Heart of Taurus have entered the Synuefe
+  CE-R c21-6 system to perform a mining-related research operation." Taurus Mining''s
+  Guardian research operation further deepens Salvation''s mysterious corporate network.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,7 +36,10 @@ related_uuids:
 - 634f0a2d-c94e-5c0e-9501-a506ebbde34b
 - 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
 - 8f436007-f00f-535c-af52-d16273c91cc0
+- 10afaa7d-925e-5db8-9adb-b56704c55a5e
+- d97a03c8-3cbd-5fdf-849d-06c5706a9602
 ---
+
 
 The megaships Musashi and Heart of Taurus have entered the Synuefe CE-R c21-6 system to perform a mining-related research operation.
 Taurus Mining Ventures is an Independent mining corporation closely associated With Salvation. It has acted as his intermediary in recent months, directly supporting his efforts to combat the Thargoids.

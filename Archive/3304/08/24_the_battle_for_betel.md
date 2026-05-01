@@ -26,8 +26,12 @@ modern_impact: The Betel conflict demonstrates how factional violence can overwh
   local security forces, requiring mercenary intervention to restore or shift control.
 legacy_weight: 1
 significance: low
-related_uuids: []
+related_uuids:
+- 2d41866c-c7a5-58b1-967c-80c278c83575
+- df29f0e3-842a-566c-b77e-ca085c7a3ede
+- 52b885e0-a664-5009-bf05-81b023d4ee67
 ---
+
 
 
 Recent reports from the Betel system indicate that an ongoing feud between the Silver Creative Network and the Betel Free has escalated into violence. 

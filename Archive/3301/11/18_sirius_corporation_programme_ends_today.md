@@ -4,7 +4,9 @@ title: Sirius Corporation Programme Ends Today
 slug: sirius_corporation_programme_ends_today
 date: '3301-11-18'
 source: GitHub
-summary: Sirius Corporation's economic revitalisation initiative for HIP 8396 concludes successfully after hundreds of miners delivered osmium to Stepping Stone Base; CEO Li Yong-Rui praises contributors and hints at the next multi-system initiative.
+summary: Sirius Corporation's economic revitalisation initiative for HIP 8396 concludes
+  successfully after hundreds of miners delivered osmium to Stepping Stone Base; CEO
+  Li Yong-Rui praises contributors and hints at the next multi-system initiative.
 player_impact: None
 persons:
 - Li Yong-Rui
@@ -21,10 +23,18 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape several systems' economies.
+modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape
+  several systems' economies.
 legacy_weight: 2
 significance: low
+related_uuids:
+- ddf0c085-c8cb-52c6-a578-71d0c166fccd
+- 2b6cc420-1a7c-57f7-a2d4-2a808278e903
+- 0b616762-7560-5aa6-9364-86b35df69487
+- c311da30-8564-5eb6-9f68-ef15394b87b6
+- f4f7d1e8-7ffd-5dfa-9e62-10cbf4410949
 ---
+
 
 Last week, The Sirius Corporation launched an initiative to boost The economy of the HIP 8396 system, Which was recently brought under Its control. The initiative was underpinned by an open contract for osmium, which contractors were asked to deliver to Stepping Stone Base. The response to the appeal was positive, With Hundreds of miners taking to their ships to gather resources for the people of HIP 8396. Li Yong-Rui, the CEO of Sirius Corp., expressed his satisfaction at the response: 
 

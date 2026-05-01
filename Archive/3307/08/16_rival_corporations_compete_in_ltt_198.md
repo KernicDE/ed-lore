@@ -4,7 +4,8 @@ title: 'Rival Corporations Compete in LTT 198 '
 slug: rival_corporations_compete_in_ltt_198
 date: '3307-08-16'
 source: API
-summary: Torval-Mastopolos Mining and Wreaken Construction both establish headquarters in the LTT 198 system, escalating their long-standing corporate rivalry.
+summary: Torval-Mastopolos Mining and Wreaken Construction both establish headquarters
+  in the LTT 198 system, escalating their long-standing corporate rivalry.
 player_impact: None
 persons:
 - Zemina Torval
@@ -20,7 +21,17 @@ topics:
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 8166b978-b215-5a99-a096-f6343aff213e
+- 651da410-ff42-5fdc-a2c0-57d28d51f09c
+- 1901654e-30be-5b06-afc2-e81f83740987
+- 859a4930-894d-5ce5-be9e-a7748fa13041
+- 9d3f4421-0a7a-5e83-a7b1-cbde9daa8fb3
+- d34ec694-ba30-54ef-9995-81bcde8230a5
+- a2cbc388-713a-5948-95fc-7179a8dcad7e
+- f7cb0936-6685-5049-b2a6-628e2f3239ec
 ---
+
 
 Torval-Mastopolos Mining and Wreaken Construction have both established a presence in The LTT 198 system.
 Marlon Royce, business analyst for Vox Galactica, reviewed the situation:

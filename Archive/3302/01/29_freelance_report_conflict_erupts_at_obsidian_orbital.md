@@ -29,7 +29,9 @@ significance: high
 related_uuids:
 - 06fd195c-2843-548f-8152-7f60d7c4e12b
 - cb951ac7-5daf-5953-b791-1f266124e38b
+- 0856035e-4ad7-545b-bb09-9480bea555fb
 ---
+
 
 
 Anti-meta-alloy protests have spilled into violence during The final day of Professor Ishmael Palin's request. Groups of protestors blockaded the entrance to Obsidian Orbital, and as talks between station personnel and the protestors broke down, tempers flared. One of those gathering meta-alloys for Professor Palin offered This first-hand account: 

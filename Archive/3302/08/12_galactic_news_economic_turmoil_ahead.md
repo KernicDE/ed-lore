@@ -4,7 +4,10 @@ title: Galactic News  Economic Turmoil Ahead
 slug: galactic_news_economic_turmoil_ahead
 date: '3302-08-12'
 source: GitHub
-summary: The Galactic Finance Times reported evidence of a significant economic downturn among major corporations including Sirius, Gutamaya, and Core Dynamics, with resources being diverted to research and development. MetaDrive Inc., a hyperdrive research start-up in the Chi Orionis system, is reportedly seeking investment amid the uncertainty.
+summary: The Galactic Finance Times reported evidence of a significant economic downturn
+  among major corporations including Sirius, Gutamaya, and Core Dynamics, with resources
+  being diverted to research and development. MetaDrive Inc., a hyperdrive research
+  start-up in the Chi Orionis system, is reportedly seeking investment amid the uncertainty.
 player_impact: None
 persons:
 - Femi Dakarai
@@ -24,10 +27,20 @@ topics:
 - sport
 - trade
 technologies: []
-modern_impact: Corporate R&D shifts and the MetaDrive investment opportunity foreshadow future hyperdrive technological developments and market volatility.
+modern_impact: Corporate R&D shifts and the MetaDrive investment opportunity foreshadow
+  future hyperdrive technological developments and market volatility.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 9436ee43-93b4-5216-9855-e0f6ddac221a
+- 0068a3fe-f278-5786-987d-f6a089171e0a
+- c24588fd-188c-5c30-8eec-196e97ac8205
+- 8806e067-8bcd-5c92-b341-e71c2c379b90
+- a32a7693-c60a-50fa-87d9-09447bb36976
+- 17bb7dc3-111a-5ed9-999a-de47f1b658de
+- 1d9d8166-f4e7-536e-8651-65504c831964
 ---
+
 
 According to The Galactic Finance Times, analysis of the largest corporations in the Federation and the Empire reveals evidence of a significant economic downturn in the coming years. 
 

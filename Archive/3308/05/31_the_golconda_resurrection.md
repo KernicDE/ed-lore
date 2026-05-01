@@ -4,8 +4,10 @@ title: The Golconda Resurrection
 slug: the_golconda_resurrection
 date: '3308-05-31'
 source: API
-summary: The Artificers Clan completes repairs on the Golconda, and the former inhabitants debate whether to resume their ancestral voyage.
-player_impact: Commander Javi Alvarado transported Captain Forester and community leaders to inspect the retrofitted Golconda.
+summary: The Artificers Clan completes repairs on the Golconda, and the former inhabitants
+  debate whether to resume their ancestral voyage.
+player_impact: Commander Javi Alvarado transported Captain Forester and community
+  leaders to inspect the retrofitted Golconda.
 persons:
 - Javi Alvarado
 - Jonathon Forester
@@ -17,13 +19,18 @@ topics:
 - engineering
 - exploration
 arc_id: null
-modern_impact: '"The chieftain explained to Captain Forester that the clan retrofitted the Golconda mainly because ''tech-love'' was their ''life-duty''." The Artificers Clan''s inexplicable generosity transformed the Golconda from historical relic to functional starship, raising profound questions about nomadic dredger culture and its relationship with technological heritage.'
+modern_impact: '"The chieftain explained to Captain Forester that the clan retrofitted
+  the Golconda mainly because ''tech-love'' was their ''life-duty''." The Artificers
+  Clan''s inexplicable generosity transformed the Golconda from historical relic to
+  functional starship, raising profound questions about nomadic dredger culture and
+  its relationship with technological heritage.'
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 29d5b601-f009-53a2-872a-6e2947837243
 - 0f8b9da8-3863-596b-9339-e0a9d8ce9ef0
 ---
+
 
 With the generation ship Golconda being repaired by The Artificers Clan, Its former population are considering resuming their journey.  
 Commander Javi Alvarado, a local trader who befriended the Golcondans, offered This insight for Vox Galactica:

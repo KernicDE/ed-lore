@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 The announcement of Federal plans to expand into the Pleiades Nebula, and the Federation's call for the support of Independent pilots, has ignited a firestorm of controversy. Although there is support for the Federation's goals, Many have expressed reservations. 
 
 One Commander, who wished to remain anonymous due to his rank in the Federal Naval Reserve, clarified his concerns: 

@@ -38,7 +38,9 @@ related_uuids:
 - bc50ffda-083d-5387-b532-bfc39ae6807f
 - f02f048f-667a-5947-9236-9330633d8a5f
 - f75a0955-badc-5c1c-894f-410860377f39
+- 00be4816-785d-537c-9e05-ba4677220927
 ---
+
 
 
 The Proactive Detection Bureau has been set up by the Federal Intelligence Agency to scan civilian communications for signs of terrorist activity.

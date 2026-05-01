@@ -4,8 +4,10 @@ title: Utopia Fails to Reinforce Research Archive Library
 slug: utopia_fails_to_reinforce_research_archive_library
 date: '3310-08-15'
 source: API
-summary: Utopia's campaign in Polevnic ends without reaching its quota, with Antal thanking participants and Yong-Rui offering to fill the supply gap.
-player_impact: Pilots who delivered commodities and encoded materials to Tanner Settlement in Polevnic can collect their rewards.
+summary: Utopia's campaign in Polevnic ends without reaching its quota, with Antal
+  thanking participants and Yong-Rui offering to fill the supply gap.
+player_impact: Pilots who delivered commodities and encoded materials to Tanner Settlement
+  in Polevnic can collect their rewards.
 persons:
 - Pranav Antal
 - Li Yong-Rui
@@ -18,13 +20,20 @@ topics:
 - corporate expansion
 - research
 - politics
-modern_impact: Antal's dig — 'Sirius Corporation maintains its shadow over humanity, even as Achilles' Corporation enjoys a brief moment in the sunlight' — frames the conflict as part of a larger corporate struggle. Yong-Rui's response — 'Utopia's excellent research could benefit humanity in the present, not just some hypothetical future' — is a direct challenge to Utopia's long-term philosophy. His closing 'I look forward to discussing more with Pranav in person' has an ominous undertone given the ongoing pressure.
+modern_impact: Antal's dig — 'Sirius Corporation maintains its shadow over humanity,
+  even as Achilles' Corporation enjoys a brief moment in the sunlight' — frames the
+  conflict as part of a larger corporate struggle. Yong-Rui's response — 'Utopia's
+  excellent research could benefit humanity in the present, not just some hypothetical
+  future' — is a direct challenge to Utopia's long-term philosophy. His closing 'I
+  look forward to discussing more with Pranav in person' has an ominous undertone
+  given the ongoing pressure.
 legacy_weight: 2
 significance: low
 related_uuids:
 - d954fb09-d302-5ff9-9c9c-fb90429974f8
 - 50443c34-411a-58ea-8cc5-88e89af25d5c
 ---
+
 
 **Pilots’ Federation ALERT**
 Utopia’s campaign in the Polevnic system has ended, with Pranav Antal announcing that it did not receive the desired quota of goods and samples.

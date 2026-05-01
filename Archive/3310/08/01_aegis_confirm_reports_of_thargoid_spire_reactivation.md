@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Pilots engaged with Thargoid forces around Titan Thor have reported unexpected activity from previously dormant Spire sites.
 Renowned xenologist Professor Shamus Madigan, part of the Federal delegation to Aegis, offered this update:
 “This morning, our operatives verified multiple claims of energy readings from two inactive spire sites. It appears that the Thargoids have restarted industrial efforts at these locations.”

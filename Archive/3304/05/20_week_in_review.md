@@ -48,7 +48,15 @@ significance: high
 related_uuids:
 - 24d1074c-00a2-5ab2-9579-587f06249380
 - 3473dc85-52d8-50f7-b97f-3d393eb0b8c4
+- efb71ecd-69a6-578f-a4be-bcdf2a0425f4
+- 3fd64cce-5c62-500c-8c2f-84e079cbaf49
+- 7d63eeb8-6875-506d-b21f-8534a7d8452a
+- 1217e10d-e2ad-5abc-9569-d691813bc646
+- bc9e14d5-7cec-5ac2-94ff-97924daba473
+- eafee362-5cd2-5695-92e8-6e36bd423651
+- 726bcfa9-d6e9-5e5b-b168-63c6a950bb7a
 ---
+
 
 
 Here are This week’s major stories. 

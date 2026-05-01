@@ -4,7 +4,9 @@ title: Tionisla Hosts Theatre and Dance Gala
 slug: tionisla_hosts_theatre_and_dance_gala
 date: '3305-08-24'
 source: GitHub
-summary: The Alliance Festival of Culture's fifth week features theatre and dance performances in Tionisla. A highlight is the ballet 'Bones of Dreams' performed by skeletal robot dancers made from scrap salvaged from the Tionisla orbital graveyard.
+summary: The Alliance Festival of Culture's fifth week features theatre and dance
+  performances in Tionisla. A highlight is the ballet 'Bones of Dreams' performed
+  by skeletal robot dancers made from scrap salvaged from the Tionisla orbital graveyard.
 player_impact: None
 persons:
 - Bryony Lindholm
@@ -15,10 +17,18 @@ locations:
 - Alioth
 topics:
 - festival
-modern_impact: The theatre gala demonstrates the Alliance's embrace of avant-garde art and its ability to find beauty in unconventional materials.
+modern_impact: The theatre gala demonstrates the Alliance's embrace of avant-garde
+  art and its ability to find beauty in unconventional materials.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 6dcfa36b-3e65-53ef-9bfe-5dcd5c6a5bd7
+- cdea9b6d-620e-56ef-a9d6-c518775f0c22
+- 62c50540-1db5-5850-be0b-5a7cb2b2c201
+- 969713a8-6dbf-548c-9ce4-4d33ba1f321a
+- 3993967f-7de1-5710-9bbf-758f946fb39f
 ---
+
 
 The Alliance Festival of Culture has entered Its fifth week, focusing on a wide variety of theatre and dance performances. 
 

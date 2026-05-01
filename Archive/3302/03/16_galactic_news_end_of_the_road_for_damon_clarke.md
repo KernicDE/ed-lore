@@ -31,7 +31,12 @@ significance: high
 related_uuids:
 - 9d631f6d-4a67-5660-a4e8-c8a2ec24fff3
 - aedc65ec-4d5c-5ea9-a62c-b6920ab33260
+- 74af287f-b68f-5089-b6ba-e7b616d757b6
+- f1eec212-43b2-5e3e-b2b2-c44e42af613a
+- b8671162-b34d-58fd-8bd5-230949120c23
+- 9680d286-fd9c-56d7-9d78-50d5a00be6e2
 ---
+
 
 
 When the dissident organisation known as Emperor's Dawn was first brought to public attention, a number of high-profile Imperials were discovered to have connections to the group. One of them was Damon Clarke, a prominent industrialist and a member of Princess Aisling Duval's inner circle. According to a report published by the Imperial Herald, one of Clarke's companies had previously sold weapons to Emperor's Dawn, and the revelation plunged Clarke into scandal. 

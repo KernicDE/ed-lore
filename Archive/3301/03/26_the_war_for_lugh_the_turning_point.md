@@ -33,7 +33,9 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - eb40a05b-a11a-58c5-b75e-7c9fb817f0d0
+- 4c97bd81-a4e4-5a5b-89bf-7dc824c2ce92
 ---
+
 
 
 The turning point in the war came during the Federation’s attack on Read Gateway. 

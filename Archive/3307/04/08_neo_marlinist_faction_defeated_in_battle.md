@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 The Mudhrid system conflict has ended With the Epsilon Fornacis Empire Group overcoming the Neo-Marlinist Order of Mudhrid.
 This was triggered by ACT discovering that the Neo-Marlinist faction had provided transports and logistical support for the NMLA’s attacks against nine starports.

@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 The megaship Steel Majesty has travelled from Mudhrid to the HIP 22550 system and been renamed as Fairfax Vision.
 The Wells-class carrier was originally owned by the Neo-Marlinist Order of Mudhrid and used as a base for the NMLA terrorist group. After a military defeat, the Vessel’s crew sought political asylum in the Marlinist Colonies. 
 The Steel Majesty later became the hub for Minister Aaron Whyte’s followers during the Marlinist Civil War. More recently, NMLA activists retook the ship and unsuccessfully tried to rescue their leader Theta Seven.

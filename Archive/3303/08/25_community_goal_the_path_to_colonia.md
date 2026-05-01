@@ -32,7 +32,9 @@ significance: medium
 related_uuids:
 - 440b2402-1496-58a4-bbcd-374d1955c5c7
 - 9682ba33-11e4-5b48-8525-971161b6f0cb
+- 02165df8-9aeb-583a-be2c-d25436bc9c41
 ---
+
 
 
 The Kamadhenu Chapterhouse of Inquisition has announced plans to establish a series of starports between the core systems and Colonia to make the daunting voyage a little easier. A total of three starports have been planned, Which the Chapterhouse hopes will expedite the creation of a freight and passenger service known As the Blue Star Line. 

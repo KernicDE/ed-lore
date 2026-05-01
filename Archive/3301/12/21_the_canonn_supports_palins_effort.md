@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Professor Ishmael Palin has requested help in establishing a new research base on Maia B1BA in order to safely study the unknown artefacts. Dr Arcanonn, head of the Canonn Interstellar Research Group, has issued a statement regarding This endeavour: 
 
 "I cannot argue With the logic of establishing a research facility out in the Pleiades, next door to Merope, and I urge all Commanders to deliver as Many Evacuation Shelters as they can to Nelson Works in Dahan to ensure this facility is completed." 

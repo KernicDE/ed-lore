@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 It has now been more than two months since The Thargoids began a concentrated assault on the core systems, and in that time they have attacked Dozens of starports, resulting in thousands of casualties. 
 
 As Authorities in the affected systems continue to appeal for aid, Admiral Aden Tanner, Aegis's chief military liaison, has offered The following assessment: 

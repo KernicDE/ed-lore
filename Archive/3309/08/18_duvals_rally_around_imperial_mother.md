@@ -4,7 +4,9 @@ title: Duvals Rally Around Imperial Mother
 slug: duvals_rally_around_imperial_mother
 date: '3309-08-18'
 source: API
-summary: Lady Florence Lavigny's recovery prompts calls for Imperial Family unity, with speculation that she could heal rifts between Arissa, Aisling, and Hadrian Duval.
+summary: Lady Florence Lavigny's recovery prompts calls for Imperial Family unity,
+  with speculation that she could heal rifts between Arissa, Aisling, and Hadrian
+  Duval.
 player_impact: Not specifically mentioned — this is a family and political report.
 persons:
 - Arissa Lavigny-Duval
@@ -23,13 +25,19 @@ topics:
 - culture
 entities: []
 arc_id: null
-modern_impact: Vestergaard's speculation — 'Florence Lavigny has earned the respect of everyone connected to the Imperial Family over the past decade. She alone could heal the rifts between Emperor Arissa, Princess Aisling and Hadrian Duval' — positions Florence as a unifying figure. The observation that 'the details of Lady Lavigny's illness were never made public' and the question 'Are her calls for unity prompted by thoughts of mortality?' adds poignancy.
+modern_impact: Vestergaard's speculation — 'Florence Lavigny has earned the respect
+  of everyone connected to the Imperial Family over the past decade. She alone could
+  heal the rifts between Emperor Arissa, Princess Aisling and Hadrian Duval' — positions
+  Florence as a unifying figure. The observation that 'the details of Lady Lavigny's
+  illness were never made public' and the question 'Are her calls for unity prompted
+  by thoughts of mortality?' adds poignancy.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 318132ea-ac2a-587f-9bd5-a112b7be85d0
 - 350a8432-3f6d-5638-adc6-a6e7e4c7d718
 ---
+
 
 Lady Florence Lavigny is recuperating from a serious illness, but the experience has prompted her to call for changes within the Imperial Family.
 Official sources confirmed that the Imperial Mother remains under constant medical supervision at her home on Topaz, following a successful surgical procedure. Emperor Arissa Lavigny-Duval has now returned to the Imperial Palace on Capitol, and is being regularly updated about her mother’s condition.

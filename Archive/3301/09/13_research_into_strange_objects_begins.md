@@ -35,7 +35,9 @@ significance: medium
 related_uuids:
 - c420d96a-5881-532d-890a-b2030f3e6df9
 - ddd18d21-0b9c-53db-a8e0-d3969750145c
+- 84ca53c1-d115-56ba-9dd0-92bb9a471475
 ---
+
 
 
 A Federal research programme has been established to study The strange objects discovered In a number of systems, including Tanmark and HIP 102128, it was announced today. The project is being led by Professor Ishmael Palin, formerly of the Homeland Scientific Council. 

@@ -49,6 +49,7 @@ related_uuids:
 ---
 
 
+
 Delegates at The diplomatic conference have clashed over long-standing political issues, With some threatening to abandon the event.
 Journalists at Patterson Enterprise in the Sirius system reported their observations via mainstream newsfeeds.
 The Imperial Herald: “Minister Whyte’s claim that the Empire had fomented terrorism by repressing Marlinism was somewhat predictable. But nobody expected Princess Duval’s icy retort, Which caused shocked gasps across the chamber.”

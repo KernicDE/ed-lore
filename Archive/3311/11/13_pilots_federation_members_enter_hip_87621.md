@@ -4,8 +4,14 @@ title: Pilots' Federation Members Enter HIP 87621
 slug: pilots_federation_members_enter_hip_87621
 date: '3311-11-13'
 source: API
-summary: Licensed Commanders entered HIP 87621 exclusively and discovered Radicoida unica, an exobiological flora unlike any previously catalogued. October Consortium called for scan data to Vista Genomics while permanently banning fleet carriers and explaining data inconsistencies as 'spoofing.'
-player_impact: Licensed Commanders entered HIP 87621 exclusively and discovered Radicoida unica. They conducted on-site exobiological surveys on hot, thin-atmosphere planets and delivered scan data to Vista Genomics at Exogene Sciences. Fleet carriers are permanently banned from the system.
+summary: Licensed Commanders entered HIP 87621 exclusively and discovered Radicoida
+  unica, an exobiological flora unlike any previously catalogued. October Consortium
+  called for scan data to Vista Genomics while permanently banning fleet carriers
+  and explaining data inconsistencies as 'spoofing.'
+player_impact: Licensed Commanders entered HIP 87621 exclusively and discovered Radicoida
+  unica. They conducted on-site exobiological surveys on hot, thin-atmosphere planets
+  and delivered scan data to Vista Genomics at Exogene Sciences. Fleet carriers are
+  permanently banned from the system.
 persons: []
 groups:
 - Pilots' Federation
@@ -20,7 +26,12 @@ topics:
 technologies:
 - Radicoida unica
 arc_id: hip87621-conflict
-modern_impact: The permanent fleet carrier ban and 'spoofing' explanation reveal October Consortium had been actively concealing the system's true nature for years. Exclusive Pilots' Federation access — excluding civilian, corporate, and government organisations — creates a unique scientific zone managed by independent pilots, a model that may be replicated for other sensitive discoveries. The plant's restriction to hot, thin-atmosphere worlds narrows the search for similar organisms.
+modern_impact: The permanent fleet carrier ban and 'spoofing' explanation reveal October
+  Consortium had been actively concealing the system's true nature for years. Exclusive
+  Pilots' Federation access — excluding civilian, corporate, and government organisations
+  — creates a unique scientific zone managed by independent pilots, a model that may
+  be replicated for other sensitive discoveries. The plant's restriction to hot, thin-atmosphere
+  worlds narrows the search for similar organisms.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -30,6 +41,7 @@ related_uuids:
 - aed3f82a-3614-5e24-89c9-e35d9f81048a
 - 87f75759-0d94-513e-9499-0f9d15f1874d
 ---
+
 
 **Pilots' Federation Alert**
 The Pilots' Federation has confirmed that members are now authorised to enter the HIP 87621 system, following months of speculation and political wrangling.

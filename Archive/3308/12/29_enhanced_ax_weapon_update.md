@@ -4,8 +4,10 @@ title: Enhanced AX Weapon Update
 slug: enhanced_ax_weapon_update
 date: '3308-12-29'
 source: API
-summary: The continued project to provide enhanced AX weaponry for all ships has announced its latest progress update.
-player_impact: Independent pilots were called upon to destroy Thargoid vessels and claim combat bonds.
+summary: The continued project to provide enhanced AX weaponry for all ships has announced
+  its latest progress update.
+player_impact: Independent pilots were called upon to destroy Thargoid vessels and
+  claim combat bonds.
 persons:
 - Liz Ryder
 - Zacariah Nemo
@@ -17,7 +19,9 @@ topics:
 - humanitarian
 - xenoarchaeology
 arc_id: null
-modern_impact: '"The continued project to provide enhanced AX weaponry for all ships has announced its latest progress update." Upgrading AX weaponry remains a critical priority for independent pilots on the front lines.'
+modern_impact: '"The continued project to provide enhanced AX weaponry for all ships
+  has announced its latest progress update." Upgrading AX weaponry remains a critical
+  priority for independent pilots on the front lines.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -27,6 +31,7 @@ related_uuids:
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 ---
+
 
 **Pilots’ Federation ALERT**
 The continued project to provide enhanced AX weaponry for all ships has announced its latest progress update.

@@ -48,7 +48,9 @@ related_uuids:
 - b639bbd6-4ffb-5d89-a8f6-8ac3f81ab73c
 - d83a7bd9-c7eb-528b-a464-28180c65e590
 - df6e411a-1cfc-5b1f-be65-3e9644b00824
+- 023030b3-b87d-5220-9488-e82e00d7f4c4
 ---
+
 
 
 Princess Aisling Duval met with Emperor Arissa Lavigny-Duval in person to discuss an Imperial contribution to the reformation of Aegis.

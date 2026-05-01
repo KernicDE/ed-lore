@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 More scandal accompanied Senator Kahina Tijani Loren’s continuing visit when she was presented With a large vial of Gerasian Liquor by representatives at a concert in London. 
 
 The representatives were apparently unaware that The beverage has recently been outlawed in the Empire, and anyone caught carrying it within Imperial territory could be subject to severe sanctions. 

@@ -4,8 +4,10 @@ title: Colonia Bridge Project Launches Phase Three
 slug: colonia_bridge_project_launches_phase_three
 date: '3308-01-06'
 source: API
-summary: Brewer Corporation launches phase three of the Colonia Bridge project to construct new starports.
-player_impact: Pilots were asked to deliver ceramic composites, computer components, and thermal cooling units to Jaques Station and Macdonald Settlement.
+summary: Brewer Corporation launches phase three of the Colonia Bridge project to
+  construct new starports.
+player_impact: Pilots were asked to deliver ceramic composites, computer components,
+  and thermal cooling units to Jaques Station and Macdonald Settlement.
 groups:
 - Brewer Corporation
 locations:
@@ -17,10 +19,21 @@ topics:
 - engineering
 - war
 arc_id: null
-modern_impact: '"Phase three aims to enhance the Colonia Bridge by building permanent starports in key locations along the route." Brewer Corporation''s infrastructure expansion solidifies Colonia as a permanent settlement and opens new economic frontiers.'
+modern_impact: '"Phase three aims to enhance the Colonia Bridge by building permanent
+  starports in key locations along the route." Brewer Corporation''s infrastructure
+  expansion solidifies Colonia as a permanent settlement and opens new economic frontiers.'
 legacy_weight: 3
 significance: medium
+related_uuids:
+- b88e6762-e193-5973-92b7-060b3f71309b
+- b1468c62-8abd-578a-be2b-1bd2f4f4a6d5
+- 77fd1ea5-46c8-54e0-85aa-1f7784fe1bd2
+- 278d7924-2868-5862-8a08-2dda0d9462e2
+- 0377cb77-df5d-5d2f-9e79-121abe877a31
+- 0e12eeff-5c39-5497-9c8f-6709814786be
+- c51dda76-58cf-516a-98a9-51c91b991b75
 ---
+
 
 **Pilots’ Federation ALERT**
 Brewer Corporation intends to improve The travel corridor between the Alcor and Colonia systems by constructing Several new starports.

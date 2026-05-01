@@ -4,7 +4,12 @@ title: Identity of Nexus Confirmed
 slug: identity_of_nexus_confirmed
 date: '3304-07-19'
 source: GitHub
-summary: Deputy Inspector Mara Klatt reveals Rear Admiral Riri McAllister is Nexus, the League of Reparation's central coordinator. McAllister framed Admiral George Varma with false leads. McAllister is arrested and charged with conspiracy to commit terrorism. Varma is released with apologies. Decrypted data reveals two major League enclaves in Imperial and Federal space, and the taskforce prepares an operation to eradicate them.
+summary: Deputy Inspector Mara Klatt reveals Rear Admiral Riri McAllister is Nexus,
+  the League of Reparation's central coordinator. McAllister framed Admiral George
+  Varma with false leads. McAllister is arrested and charged with conspiracy to commit
+  terrorism. Varma is released with apologies. Decrypted data reveals two major League
+  enclaves in Imperial and Federal space, and the taskforce prepares an operation
+  to eradicate them.
 player_impact: None
 persons:
 - Mara Klatt
@@ -25,14 +30,18 @@ locations:
 topics:
 - terrorism
 - investigation
-modern_impact: The unmasking of McAllister as Nexus exposes a high-ranking Alliance officer as a terrorist mastermind, shaking confidence in Alliance military leadership.
+modern_impact: The unmasking of McAllister as Nexus exposes a high-ranking Alliance
+  officer as a terrorist mastermind, shaking confidence in Alliance military leadership.
 legacy_weight: 2
 significance: low
 related_uuids:
 - b4850d9a-53c4-5d9c-8d8a-b66081d31644
 - 0bb8e10b-68fe-5dc9-bcc2-228056a9ef69
 - a5b31ecc-9012-5aaf-bdcb-cc8a7fd50a78
+- eafee362-5cd2-5695-92e8-6e36bd423651
+- be7c559a-d6be-5295-9655-1c30e0ee4ed0
 ---
+
 
 Deputy Inspector Mara Klatt of Alliance Interpol has broken her silence regarding The League of Reparation. 
 

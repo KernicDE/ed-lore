@@ -30,7 +30,9 @@ significance: high
 related_uuids:
 - 0d15375c-b54f-50e7-ad2d-a88de1da76b9
 - a395a47c-93ef-5a29-90cb-b2e83da399a5
+- f9ac5b30-383e-5f0a-8fc4-c8e3fc9dcb14
 ---
+
 
 
 For The past three days, Jasmina Halsey has been recuperating at Leoniceno Orbital, where she was taken after she was rescued from the wreckage of Starship One. Since then, all interview requests have been firmly rebuffed by the starport's medical personnel, who insist the former president is not yet well enough to talk to the media. But while the galaxy waits for an official interview, the Federal Times has managed to wrest a few words from her sister, Azalea Halsey, who recently visited her sibling:  

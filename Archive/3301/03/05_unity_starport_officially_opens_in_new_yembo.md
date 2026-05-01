@@ -27,7 +27,9 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - 1bd962a4-bfa3-585d-b8e2-da4332eec95a
+- d414c438-0d78-5b20-a6d3-9577a9d83973
 ---
+
 
 
 Today marks The official opening of The first Deep Space Exploration Platform being sponsored by the Explorers’ Association in conjunction With Universal Cartographics. The station will initially be housed in New Yembo, a resource rich system on the outer edges of human-occupied space. 

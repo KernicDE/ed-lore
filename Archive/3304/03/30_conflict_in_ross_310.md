@@ -4,8 +4,13 @@ title: Conflict in Ross 310
 slug: conflict_in_ross_310
 date: '3304-03-30'
 source: GitHub
-summary: Conflict has erupted in Ross 310 between Ross 310 Natural Services and the Ross 310 Cartel, with the criminal organisation attempting to overthrow the controlling faction. Toru Jacobs of Ross 310 Natural Services stated they are doing everything possible to prevent a Cartel takeover. Both factions have appealed to independent combat pilots for support.
-player_impact: Commanders can support either Ross 310 Natural Services or the Ross 310 Cartel and will be generously rewarded by their chosen faction.
+summary: Conflict has erupted in Ross 310 between Ross 310 Natural Services and the
+  Ross 310 Cartel, with the criminal organisation attempting to overthrow the controlling
+  faction. Toru Jacobs of Ross 310 Natural Services stated they are doing everything
+  possible to prevent a Cartel takeover. Both factions have appealed to independent
+  combat pilots for support.
+player_impact: Commanders can support either Ross 310 Natural Services or the Ross
+  310 Cartel and will be generously rewarded by their chosen faction.
 persons:
 - Toru Jacobs
 groups:
@@ -16,10 +21,16 @@ locations:
 topics:
 - crime
 - war
-modern_impact: Local system conflicts between lawful and criminal factions continue to draw independent pilots seeking combat opportunities and rewards.
+modern_impact: Local system conflicts between lawful and criminal factions continue
+  to draw independent pilots seeking combat opportunities and rewards.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 797e13f9-3fab-5ab8-b393-b0e70211d0b7
+- 0db01006-baa5-532c-907f-6045afd6becb
+- 84bbb73d-7080-5c75-b700-db4143fade73
 ---
+
 
 Conflict has erupted between Ross 310 Natural Services, The controlling faction of the Ross 310 system, and the Ross 310 Cartel, a criminal organisation also based in Ross 310. 
 

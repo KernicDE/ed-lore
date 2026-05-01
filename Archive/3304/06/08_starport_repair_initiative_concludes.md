@@ -4,8 +4,12 @@ title: Starport Repair Initiative Concludes
 slug: starport_repair_initiative_concludes
 date: '3304-06-08'
 source: GitHub
-summary: The Aegis Core campaign to fund refurbishment of starports in the core systems ends successfully. Large quantities of construction materials were delivered to Dantec Enterprise. Chief administrator Carter Armstrong thanks the galactic community and confirms the materials will repair damage caused by Thargoid attacks.
-player_impact: Contributing pilots can collect rewards from Dantec Enterprise in the Socho system.
+summary: The Aegis Core campaign to fund refurbishment of starports in the core systems
+  ends successfully. Large quantities of construction materials were delivered to
+  Dantec Enterprise. Chief administrator Carter Armstrong thanks the galactic community
+  and confirms the materials will repair damage caused by Thargoid attacks.
+player_impact: Contributing pilots can collect rewards from Dantec Enterprise in the
+  Socho system.
 persons:
 - Carter Armstrong
 groups:
@@ -17,13 +21,15 @@ locations:
 topics:
 - alien contact
 - construction
-modern_impact: The successful repair initiative restores critical infrastructure and demonstrates the galactic community's resilience in responding to Thargoid devastation.
+modern_impact: The successful repair initiative restores critical infrastructure and
+  demonstrates the galactic community's resilience in responding to Thargoid devastation.
 legacy_weight: 5
 significance: high
 related_uuids:
 - acc81378-94b0-5b7e-a64c-346f7e0501f8
 - 34982e5c-4fd7-5b67-b8c5-d8a11abae5e5
 ---
+
 
 The campaign by Aegis Core to fund the refurbishment of starports In the core systems has now ended. A large quantity of construction materials were delivered to Dantec Enterprise. 
 

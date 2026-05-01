@@ -4,8 +4,12 @@ title: It's Time to Stop Slavery Stupid
 slug: its_time_to_stop_slavery_stupid
 date: '3301-03-06'
 source: GitHub
-summary: Aisling Duval made a passionate anti-slavery outburst on the reality stream show Celebrity Pets, criticising Zemina Torval for treating her pets better than her slaves. Stop Slavery Stupid announced it would accept Imperial slaves for emancipation at Mackenzie Relay in Cemiess, Thiele Orbital in Ngun and Naubakht City in Eta Horologii.
-player_impact: Pilots can deliver Imperial slaves to Stop Slavery Stupid centres at Mackenzie Relay, Thiele Orbital or Naubakht City for emancipation.
+summary: Aisling Duval made a passionate anti-slavery outburst on the reality stream
+  show Celebrity Pets, criticising Zemina Torval for treating her pets better than
+  her slaves. Stop Slavery Stupid announced it would accept Imperial slaves for emancipation
+  at Mackenzie Relay in Cemiess, Thiele Orbital in Ngun and Naubakht City in Eta Horologii.
+player_impact: Pilots can deliver Imperial slaves to Stop Slavery Stupid centres at
+  Mackenzie Relay, Thiele Orbital or Naubakht City for emancipation.
 persons:
 - Aisling Duval
 - Zemina Torval
@@ -20,10 +24,19 @@ locations:
 - Naubakht City
 topics:
 - slavery
-modern_impact: Aisling's televised anti-slavery rhetoric reached mainstream audiences, converting entertainment viewers to her reformist cause.
+modern_impact: Aisling's televised anti-slavery rhetoric reached mainstream audiences,
+  converting entertainment viewers to her reformist cause.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- d018f06c-8530-5278-a4bd-b06531b43193
+- 590c182e-e5d7-5e10-9d7e-2054c8828dcc
+- 6b15c578-25a5-5989-9881-c3bdfee2e1dc
+- f976f3ec-0ec9-5ce1-bbc9-4c12579320d1
+- 470bb263-648c-5b5e-a0c8-11aa065681c4
+- 43edb23b-b768-59b5-aded-e60cdbd79f10
 ---
+
 
 Aisling Duval is in The spotlight again today, following a rather passionate outburst on The Empire's most-watched reality stream show, Celebrity Pets. 
 

@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 The battle between Delta Pavonis Galactic Interstellar and EG Union has concluded successfully for Yuri Grom’s forces.
 Freelance war correspondent Karleen Troy reported via Vox Galactica:

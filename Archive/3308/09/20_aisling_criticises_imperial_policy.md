@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Princess Aisling Duval has challenged the Empire’s shift in priority towards reduced interaction with other superpowers.
 During an interview with the Citizens’ Chronicle newsfeed, she remarked:
 “It’s obvious that the Imperial Navy is deeply embarrassed by its commitment to Salvation, and is as good as paralyzed without his superweapon technology. The Emperor is now attempting to save face by severing all collaborative projects with the Alliance and Federation. Frankly, I think this is short-sighted and self-defeating.”

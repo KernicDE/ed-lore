@@ -4,7 +4,12 @@ title: League of Reparation Implicated in Historic Deaths
 slug: league_of_reparation_implicated_in_historic_deaths
 date: '3304-06-15'
 source: GitHub
-summary: Independent journalist Flint 'Firemaker' Lafosse publishes a theory linking the League of Reparation to unsolved homicides going back one to five years. He identifies four victims with INRA connections killed by nerve agents similar to those used in recent attacks, and suggests unexplained shipwrecks may also be League work. Chief Inspector Kay Kilbride of Alliance Interpol denies any verified connection and cautions against baseless conjecture.
+summary: Independent journalist Flint 'Firemaker' Lafosse publishes a theory linking
+  the League of Reparation to unsolved homicides going back one to five years. He
+  identifies four victims with INRA connections killed by nerve agents similar to
+  those used in recent attacks, and suggests unexplained shipwrecks may also be League
+  work. Chief Inspector Kay Kilbride of Alliance Interpol denies any verified connection
+  and cautions against baseless conjecture.
 player_impact: None
 persons:
 - Flint Lafosse
@@ -20,14 +25,18 @@ locations: []
 topics:
 - terrorism
 - investigation
-modern_impact: Lafosse's theory suggests the League of Reparation may have been operating for years before claiming responsibility, raising alarming questions about how many deaths went unrecognised as terrorist acts.
+modern_impact: Lafosse's theory suggests the League of Reparation may have been operating
+  for years before claiming responsibility, raising alarming questions about how many
+  deaths went unrecognised as terrorist acts.
 legacy_weight: 4
 significance: high
 related_uuids:
 - e1242f6c-1a65-52aa-b73b-90d58f8d4086
 - 3422afa3-30f2-5ba6-a072-d7dde266572f
 - 1f133226-e32f-5511-9bbd-bffc26348cb3
+- 371d6aa9-c585-5cde-b8b1-08e37a3e3e26
 ---
+
 
 A recent report suggests that terrorist organisation The League of Reparation may be responsible for Many more deaths than previously suspected. 
 

@@ -30,7 +30,9 @@ significance: high
 related_uuids:
 - 75d079b9-fea7-50f0-9079-6cc3e119baff
 - d9311738-7043-53be-be65-416225fa6e00
+- fab39187-1775-5f62-b4cc-7fc1befb7763
 ---
+
 
 
 Today marked Kumo Tribute Day, Which sees representatives from systems under The control of Archon Delaine curry favour With the Pirate Lord by presenting him With lavish gifts. 

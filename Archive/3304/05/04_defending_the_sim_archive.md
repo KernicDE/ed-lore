@@ -33,7 +33,9 @@ significance: high
 related_uuids:
 - c982706e-e201-55a8-903b-c8f82ba7783f
 - dfe24bf3-2734-565d-ac46-d128aa41c570
+- d20c7f2c-2229-5299-9a85-fd34ea293dbf
 ---
+
 
 
 The Utopia commune has launched a project to build a military installation in Its home system to defend the Sim-Archive from potential Thargoid attack. 

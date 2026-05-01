@@ -4,8 +4,14 @@ title: East India Company Announces Galactic Silk Road
 slug: east_india_company_announces_galactic_silk_road
 date: '3301-04-15'
 source: GitHub
-summary: The East India Company announced the Galactic Silk Road, a public trade route featuring seventeen highly profitable stops across civilised space. CMDR Bunny, the route's spokesperson, stated the organisation would provide protection to traders and has arranged patrols with the Federal Navy, Mercs of Mikunn, Merchant Marines and other factions. The route includes stations such as Gentil Hub in Harm, Hiya Orbital in Arjung, and Kagawa Vision in Nidayiman.
-player_impact: Pilots can travel the Galactic Silk Road with EIC protection and faction patrols, offering safer trading across seventeen profitable systems.
+summary: The East India Company announced the Galactic Silk Road, a public trade route
+  featuring seventeen highly profitable stops across civilised space. CMDR Bunny,
+  the route's spokesperson, stated the organisation would provide protection to traders
+  and has arranged patrols with the Federal Navy, Mercs of Mikunn, Merchant Marines
+  and other factions. The route includes stations such as Gentil Hub in Harm, Hiya
+  Orbital in Arjung, and Kagawa Vision in Nidayiman.
+player_impact: Pilots can travel the Galactic Silk Road with EIC protection and faction
+  patrols, offering safer trading across seventeen profitable systems.
 persons:
 - CMDR Bunny
 groups:
@@ -33,10 +39,19 @@ locations:
 - Nidayiman
 topics:
 - corporate expansion
-modern_impact: The Galactic Silk Road established one of the first major player-organised protected trade routes, setting a precedent for cooperative trading initiatives.
+modern_impact: The Galactic Silk Road established one of the first major player-organised
+  protected trade routes, setting a precedent for cooperative trading initiatives.
 legacy_weight: 2
 significance: low
+related_uuids:
+- eb40a05b-a11a-58c5-b75e-7c9fb817f0d0
+- 8df95e12-c87d-5425-9ce9-d805583a8c3e
+- 92f2e8cd-c684-57e5-85b0-a1303b7bc740
+- f6c12601-b292-5356-9311-0ee90c473048
+- 911e0972-8e10-51d0-a255-27cb917cae8a
+- 876e7bf2-06e6-5635-bd66-4a3deef5ca05
 ---
+
 
 The East India Company, One of The larger pilots’ federation members, recently announced a new initiative they are calling “the Galactic Silk Road”. This is a public trade route available to all, and features seventeen of the most highly profitable stops in civilised space. 
 

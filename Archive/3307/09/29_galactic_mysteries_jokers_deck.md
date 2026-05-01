@@ -4,7 +4,8 @@ title: 'Galactic Mysteries: Jokers'' Deck'
 slug: galactic_mysteries_jokers_deck
 date: '3307-09-29'
 source: API
-summary: Wallglass Investigations Agency's Erik Gunnarson discusses Jokers' Deck, an ultra-exclusive gambling circle for the galaxy's wealthiest players.
+summary: Wallglass Investigations Agency's Erik Gunnarson discusses Jokers' Deck,
+  an ultra-exclusive gambling circle for the galaxy's wealthiest players.
 player_impact: None
 persons:
 - Erik Gunnarson
@@ -15,10 +16,19 @@ groups:
 topics:
 - diplomacy
 - investigation
-modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery in galactic high society.
+modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery
+  in galactic high society.
 legacy_weight: 2
 significance: low
+related_uuids:
+- a8743406-6f85-50fd-852d-ff3343df1801
+- 0c4e2c35-5b73-53f5-9536-c931cc82ea12
+- c6ad335b-e800-558b-8000-dc2fcc040210
+- 62af4a63-c187-5f32-a237-8f4108056a43
+- 1810c569-1a21-571d-b879-76241b063c19
+- 2f7e24df-fc8c-5940-ab8a-2621b0233533
 ---
+
 
 Erik Gunnarson of The Wallglass Investigations Agency discusses the secretive gambling circle attended by the galaxy’s wealthiest players.
 “Casinos and gaming hubs have always been popular, tempting people to risk their credits for the chance to score a lucrative win. But where do the billionaires and trillionaires go to enjoy that buzz?”

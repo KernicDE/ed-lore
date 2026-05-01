@@ -26,7 +26,12 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - 0ff81a63-f1f9-52c1-a808-327a51de0fa5
+- 6b15c578-25a5-5989-9881-c3bdfee2e1dc
+- 73403814-e17a-5ab1-b81a-146d763d584c
+- cd44ff20-bbeb-5d6e-8b37-ca49aa0dd119
+- c079c37f-e398-5bbf-9e37-1f8e91cc2fcb
 ---
+
 
 
 During a gathering of patrons held on Eotienses earlier today, Senator Denton Patreus received a standing ovation after delivering a stirring speech on The importance of internal security. 

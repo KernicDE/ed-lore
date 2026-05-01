@@ -25,6 +25,7 @@ related_uuids:
 ---
 
 
+
 Loren's Legion, an Imperial organisation based in The Prism system, has placed an open order for tantalum. 
 
 The organisation has a wide range of business interests, and regularly supplies commercial entities With raw materials and Other commodities. On This occasion it has turned to the galactic community for help fulfilling Its commitments. 

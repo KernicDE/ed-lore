@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 The Imperial Senate has debated contributing to anti-xeno activities such as Aegis or a unified superpower fleet. 
 Senator Caspian Leopold initiated the discussions among his colleagues, stating:
 “One would never criticise Her Majesty’s priority to defend the Empire above all else. Nevertheless, we face an adversary that how shown no sign of understanding humanity’s many political, social or cultural distinctions. To them there is no Empire. Our citizens are simply more humans for the Thargoids to destroy.”

@@ -4,8 +4,10 @@ title: Hudson and Winters Confirmed for Galactic Summit
 slug: hudson_and_winters_confirmed_for_galactic_summit
 date: 3307-02-22
 source: API
-summary: President Zachary Hudson and Shadow President Felicia Winters will both attend The diplomatic conference in The Sirius system.
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: President Zachary Hudson and Shadow President Felicia Winters will both attend
+  The diplomatic conference in The Sirius system.
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
 - Brad Mitchell
 - Felicia Winters
@@ -31,7 +33,9 @@ topics:
 - humanitarian
 - scandal
 arc_id: null
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -42,6 +46,7 @@ related_uuids:
 - 29fa900d-a3ad-5a63-bdae-88a4acceaf60
 - e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
 ---
+
 
 President Zachary Hudson and Shadow President Felicia Winters will both attend The diplomatic conference in The Sirius system.
 The Federation will also be represented by ambassadors from the Federal Diplomatic Corps, as well as Several civil and corporate interests.

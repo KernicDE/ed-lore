@@ -4,7 +4,12 @@ title: Alliance Assembly Revises Presidential Role
 slug: alliance_assembly_revises_presidential_role
 date: '3304-10-26'
 source: GitHub
-summary: The Alliance Assembly votes against granting President Gibson Kincaid executive powers but agrees to update the presidential role. Prime Minister Edmund Mahon announces the creation of the Office of the Alliance President, a non-political department overseeing ambassadorial emissaries focused on diplomatic functions. The presidential term is extended to three years. Kincaid expresses regret but promises to use his new team effectively.
+summary: The Alliance Assembly votes against granting President Gibson Kincaid executive
+  powers but agrees to update the presidential role. Prime Minister Edmund Mahon announces
+  the creation of the Office of the Alliance President, a non-political department
+  overseeing ambassadorial emissaries focused on diplomatic functions. The presidential
+  term is extended to three years. Kincaid expresses regret but promises to use his
+  new team effectively.
 player_impact: None
 persons:
 - Gibson Kincaid
@@ -16,7 +21,9 @@ locations: []
 topics:
 - diplomacy
 - politics
-modern_impact: The Assembly's compromise preserves the Alliance's consensual governance while expanding the president's diplomatic role, potentially strengthening the Alliance's international influence without centralising executive power.
+modern_impact: The Assembly's compromise preserves the Alliance's consensual governance
+  while expanding the president's diplomatic role, potentially strengthening the Alliance's
+  international influence without centralising executive power.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -24,6 +31,7 @@ related_uuids:
 - 46a4e0b4-2083-57ba-8f88-c4c2cca39367
 - 4c33cc73-d588-59a5-b80d-fe0c6e76f665
 ---
+
 
 The Alliance Assembly has concluded Its debate over President Gibson Kincaid’s request for executive powers. 
 

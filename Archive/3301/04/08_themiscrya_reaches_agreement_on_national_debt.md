@@ -4,8 +4,15 @@ title: Themiscrya Reaches Agreement on National Debt
 slug: themiscrya_reaches_agreement_on_national_debt
 date: '3301-04-08'
 source: GitHub
-summary: Senator Denton Patreus issued notice of his intention to seek legal recourse against the Nationals of Themiscrya for failing to meet financial obligations, causing panic and resident flight. However, a new debt agreement was reached between Silver Universal PLC and the Nationals of Themiscrya at Ritchey Port, ending imminent legal action. The agreement came about thanks to dozens of small business owners whose efforts sparked a brief economic boom, providing funds to pay off the principal debt.
-player_impact: None directly; Themiscrya's debt crisis demonstrates how Patreus uses financial pressure to enforce compliance from independent systems.
+summary: Senator Denton Patreus issued notice of his intention to seek legal recourse
+  against the Nationals of Themiscrya for failing to meet financial obligations, causing
+  panic and resident flight. However, a new debt agreement was reached between Silver
+  Universal PLC and the Nationals of Themiscrya at Ritchey Port, ending imminent legal
+  action. The agreement came about thanks to dozens of small business owners whose
+  efforts sparked a brief economic boom, providing funds to pay off the principal
+  debt.
+player_impact: None directly; Themiscrya's debt crisis demonstrates how Patreus uses
+  financial pressure to enforce compliance from independent systems.
 persons:
 - Denton Patreus
 groups:
@@ -16,10 +23,18 @@ locations:
 - Ritchey Port
 topics:
 - corporate expansion
-modern_impact: Another example of Patreus's debt-based enforcement tactics that would become a hallmark of his power-play strategy.
+modern_impact: Another example of Patreus's debt-based enforcement tactics that would
+  become a hallmark of his power-play strategy.
 legacy_weight: 2
 significance: low
+related_uuids:
+- f3ba192b-6f75-5d04-a593-389508cccb8e
+- 2c3a3f21-aa45-532e-96c3-1c53cc3fd1de
+- 6c24373e-fc48-5d7b-98ff-8b1626294f3f
+- 37ec2f6b-0279-58e6-9ba8-c409f851742b
+- 65bc95ff-68c1-521d-aa1d-9b3f23d1a531
 ---
+
 
 Senator Denton Patreus issued notice 8 days ago of his intention to seek legal recourse over The Nationals of Themiscrya’s failure to meet their financial obligations. The news sent waves of panic through the tiny Independent system, With Many residents choosing to flee rather than risk being turned into assets to appease the Senator. 
 

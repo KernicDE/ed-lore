@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 The latest report on the ongoing struggle against the Thargoids from Vox Galactica reporter Jade Sanderlyn.
 “As the war reaches its eighth month, Thargoid invasion forces occupy over a thousand systems. Billions of people have been evacuated or lost as a result. Although this ongoing conflict has made little impact on everyday life for the other side of the bubble, it continues to dominate the media.”
 “The beginning of June saw the release of Aegis’s latest development: the pulse wave xeno scanner. This module allows any pilots who dares approach the Titans to gather much-needed data, triggering what The Empirical referred to as a ‘scientific gold rush’. We are a long way from fully comprehending the purpose of these gargantuan constructs, but the tools to do so are at least beginning to arrive.”

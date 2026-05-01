@@ -4,8 +4,10 @@ title: Community Goal  Valentine's Day Appeal
 slug: community_goal_valentines_day_appeal
 date: '3303-02-09'
 source: GitHub
-summary: Retailer Vestani Conservatives appeals for luxury commodities including Thrutis Cream, Deuringas Truffles and Esuseku Caviar to meet Valentine's Day demand.
-player_impact: Deliver Thrutis Cream, Deuringas Truffles and Esuseku Caviar to Rose Terminal in the Vestani system.
+summary: Retailer Vestani Conservatives appeals for luxury commodities including Thrutis
+  Cream, Deuringas Truffles and Esuseku Caviar to meet Valentine's Day demand.
+player_impact: Deliver Thrutis Cream, Deuringas Truffles and Esuseku Caviar to Rose
+  Terminal in the Vestani system.
 persons: []
 groups:
 - Vestani Conservatives
@@ -18,7 +20,10 @@ topics:
 modern_impact: Seasonal trade community goal centred on Valentine's Day luxury commodities.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 24bd764d-8408-5345-b418-4b9a696ad070
 ---
+
 
 Human civilisation spans Hundreds of Star systems and encompasses a wide range of cultures, but Many people still share a number of traditions. One such tradition is Valentine's Day, a celebration of romantic love dating from The 5th Century. 
 

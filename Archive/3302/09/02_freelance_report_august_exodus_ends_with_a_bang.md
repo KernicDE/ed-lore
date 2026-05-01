@@ -26,6 +26,7 @@ related_uuids:
 ---
 
 
+
 On The 30th of August 3302, the August Exodus came to end with Dozens of independent pilots assembling outside Jaques Station for photos and general tomfoolery. 
 
 Despite a few explosions, revellers enjoyed a race on the track that will host the first official event of the newly established Colonia Citizens Network on the 4th of September. 

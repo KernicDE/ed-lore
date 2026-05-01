@@ -4,8 +4,11 @@ title: Galactic News  Walter Waldo Appeal Concludes
 slug: galactic_news_walter_waldo_appeal_concludes
 date: '3302-10-27'
 source: GitHub
-summary: Gyvatices Crimson Advanced Holdings announced that its appeal for fish and coffee for a festival honouring Walter Waldo was enthusiastically received, with massive deliveries to Walter Dock in the Gyvatices system.
-player_impact: Pilots who contributed can collect rewards from Walter Dock in the Gyvatices system.
+summary: Gyvatices Crimson Advanced Holdings announced that its appeal for fish and
+  coffee for a festival honouring Walter Waldo was enthusiastically received, with
+  massive deliveries to Walter Dock in the Gyvatices system.
+player_impact: Pilots who contributed can collect rewards from Walter Dock in the
+  Gyvatices system.
 persons:
 - Walter Waldo
 groups:
@@ -18,10 +21,15 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: Community-driven commemorative events showcase the cultural side of galactic life beyond combat and trade.
+modern_impact: Community-driven commemorative events showcase the cultural side of
+  galactic life beyond combat and trade.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 3de994aa-4101-5293-b457-fd04696e31e8
+- 87238e8d-d480-5b0a-81d3-65a273e3767c
 ---
+
 
 A spokesperson for Gyvatices Crimson Advanced Holdings has announced that Its appeal for fish and coffee was enthusiastically received by The galactic community, resulting In a massive influx of deliveries to Walter Dock in the Gyvatices system. The commodities will be used in a special fish and coffee festival to honour the late entrepreneur Walter Waldo. 
 

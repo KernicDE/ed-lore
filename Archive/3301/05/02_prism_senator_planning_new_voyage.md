@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - 4f1d453c-2e49-510a-aaaa-32ef3a72c321
 - b88281a3-ac5e-5a54-ac80-33250da02e67
+- 6649af89-171b-5512-b58f-1414eb5f61e7
 ---
+
 
 
 Leaked images from The Avalon shipyards appear to indicate that Senator Kahina Tijani Loren’s Imperial Courier, The ‘Seven Veils’, is undergoing a significant refit just weeks after her recent visit to the Sol system. 

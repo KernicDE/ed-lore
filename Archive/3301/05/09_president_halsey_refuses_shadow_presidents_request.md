@@ -4,18 +4,33 @@ title: President Halsey Refuses Shadow President's Request
 slug: president_halsey_refuses_shadow_presidents_request
 date: '3301-05-09'
 source: GitHub
-summary: President Jasmina Halsey's office formally refused Shadow President Zachary Hudson's demand for a live debate on 'Face The People'. Press Secretary James Speakes stated Halsey welcomes policy debates in principle but her schedule is booked months in advance, and she would be happy to debate Hudson upon her return from the frontier tour.
-player_impact: None directly; the political standoff between Halsey and Hudson continues to shape Federal leadership tensions.
+summary: President Jasmina Halsey's office formally refused Shadow President Zachary
+  Hudson's demand for a live debate on 'Face The People'. Press Secretary James Speakes
+  stated Halsey welcomes policy debates in principle but her schedule is booked months
+  in advance, and she would be happy to debate Hudson upon her return from the frontier
+  tour.
+player_impact: None directly; the political standoff between Halsey and Hudson continues
+  to shape Federal leadership tensions.
 persons:
 - Jasmina Halsey
 - Zachary Hudson
 - James Speakes
 groups: []
 locations: []
-modern_impact: Halsey's refusal to debate Hudson on his terms demonstrated her defensive posture as her popularity declined, a pattern that would culminate in her later disappearance.
+modern_impact: Halsey's refusal to debate Hudson on his terms demonstrated her defensive
+  posture as her popularity declined, a pattern that would culminate in her later
+  disappearance.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 4e3b073a-562f-591a-a980-a91838aa35ff
+- b0c46789-3a5c-5a2b-9164-53ec249b2650
+- a09d1f61-d891-5333-a708-6ec2b6a7ba34
+- 9814b160-c142-5d74-9710-9c895bd4212e
+- e0dda51d-b10d-51a0-b45f-d3b564c37647
+- 9c2030cc-a2e5-5b66-80d0-bde8bb5bc3b8
 ---
+
 
 The office of President Jasmina Halsey has today issued a statement refusing Shadow President Hudson's demand to meet him for a live presidential debate on 'Face The People'. 
 

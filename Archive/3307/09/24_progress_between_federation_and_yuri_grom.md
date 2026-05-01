@@ -24,7 +24,10 @@ significance: low
 related_uuids:
 - 0fc48e21-0c36-5e61-b4aa-42bf5ba0c857
 - 15808674-3d63-5e87-a671-2880365fa971
+- 3f8f3a76-f995-5a02-81c8-2fbc1af760bd
+- 3040626c-fed5-53d9-b5f1-66c2cb11eb25
 ---
+
 
 
 Negotiations between The Federation and self-styled dictator Yuri Grom are underway to determine the Delta Pavonis system’s allegiance.

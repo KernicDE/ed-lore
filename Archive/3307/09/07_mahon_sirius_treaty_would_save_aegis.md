@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 Prime Minister Edmund Mahon has commented on The Aegis inquiry and his failed proposal to unify anti-xeno operations.
 As part of an interview With the Alliance Tribune, he said:
 “The greatest regret of my career is that I was unable to formalise The Sirius Treaty at the Galactic Summit. This would have revolutionised Aegis by providing the commitment and resources it deserves, sparing it the indignity of a public inquiry.”

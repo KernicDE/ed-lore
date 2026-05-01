@@ -28,7 +28,14 @@ legacy_weight: 1
 significance: low
 locations: []
 technologies: []
+related_uuids:
+- 02aee162-6f80-5b27-8754-03da023ed3e4
+- 83553e71-7317-52b9-a07d-0b935f8471c5
+- 1f1419de-960a-5edc-a938-191c06741b7a
+- c3cd09a0-a456-5b4a-904c-ccbb9b8de2b8
+- d90b7c02-020e-520f-815c-2bd3a0fc3e4d
 ---
+
 
 
 In The 38 days since the Fuel Rats' last made headlines, the group has rescued a Further 1,000 ships, bringing the total number of Commanders saved from a frustrating insurance experience to 2,000. 

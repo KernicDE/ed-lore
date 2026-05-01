@@ -4,7 +4,13 @@ title: Leaked Footage of Emperor’s Assassination
 slug: leaked_footage_of_emperors_assassination
 date: '3301-08-09'
 source: GitHub
-summary: Independent newsfeed Russell Networks in the Tulill system broadcast claimed holographic footage of Emperor Hengist Duval’s assassination. Imperial networks refused to show it and society was outraged. The unverified recording shows someone resembling Brendan Paul Darius lunging from Senator Patreus’s entourage, stabbing the Emperor repeatedly until taken down by guards. Others in Patreus’s entourage, including Patreus himself, appeared genuinely shocked and attempted to stop the attacker. Chancellor Anders Blaine condemned the broadcast.
+summary: Independent newsfeed Russell Networks in the Tulill system broadcast claimed
+  holographic footage of Emperor Hengist Duval’s assassination. Imperial networks
+  refused to show it and society was outraged. The unverified recording shows someone
+  resembling Brendan Paul Darius lunging from Senator Patreus’s entourage, stabbing
+  the Emperor repeatedly until taken down by guards. Others in Patreus’s entourage,
+  including Patreus himself, appeared genuinely shocked and attempted to stop the
+  attacker. Chancellor Anders Blaine condemned the broadcast.
 player_impact: None
 persons:
 - Hengist Duval
@@ -18,10 +24,19 @@ locations:
 topics:
 - scandal
 - succession
-modern_impact: Controversial broadcast of alleged assassination footage fuels debate about the Emperor’s murder and Patreus’s involvement.
+modern_impact: Controversial broadcast of alleged assassination footage fuels debate
+  about the Emperor’s murder and Patreus’s involvement.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 086e05e2-d614-5bf4-ba98-a1a0de0b1b06
+- 50bd1d87-a0da-5adc-867f-1c98f6bb02b1
+- 5a0d6b12-099c-5111-9caa-68a035d80287
+- 4aa8f9d6-81d7-5197-b8b4-7a3127e607b6
+- b8bb8126-dc7a-5d04-8acd-153c5c83d1de
+- afa832cd-a910-5a8c-9b14-37b1ae349975
 ---
+
 
 In a move sending shockwaves of revulsion throughout The Empire, an Independent newsfeed, Russell Networks, based in The Tulill system, has broadcast what is claimed to be a holographic recording of the assassination of Emperor Hengist Duval. 
 

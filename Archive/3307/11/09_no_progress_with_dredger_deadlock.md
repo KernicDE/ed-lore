@@ -4,7 +4,9 @@ title: 'No Progress with Dredger Deadlock '
 slug: no_progress_with_dredger_deadlock
 date: '3307-11-09'
 source: API
-summary: The Scriveners Clan continues to resist Orion University's attempts to take possession of their dredger, with Canonn Interstellar Research Group offering to purchase the vessel and share the Knowledge Core.
+summary: The Scriveners Clan continues to resist Orion University's attempts to take
+  possession of their dredger, with Canonn Interstellar Research Group offering to
+  purchase the vessel and share the Knowledge Core.
 player_impact: None
 persons:
 - Casey Kilpatrick
@@ -14,10 +16,18 @@ groups:
 - Scriveners Clan
 topics:
 - research
-modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic institutions and the nomadic society that inhabits it.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 909c6b12-f181-52cc-840a-6173b3164226
+- c088b0b5-f567-5c36-a53f-bfe840245090
+- 21ac936e-6473-5e81-980f-73a1bd20c350
+- 874dce92-6aa5-5398-9666-601f0f3192b5
+- c8933782-6917-568d-8b1c-f9e89c7c9c7c
 ---
+
 
 The nomadic Scriveners Clan Continues to resist Orion University’s attempts to take possession of their Dredger.
 Freelance reporter Casey Kilpatrick published an update from the Oochost PC-C c29-0 system:

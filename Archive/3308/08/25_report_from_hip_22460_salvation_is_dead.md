@@ -36,6 +36,7 @@ related_uuids:
 
 
 
+
 It has been confirmed that Salvation, figurehead of Azimuth Biotech and creator of the Proteus Wave, was killed on board the Bright Sentinel.
 A segment of a transmission by an independent rescue team within HIP 22460 was shared with Vox Galactica by an anonymous source. The team was reporting back to the Musashi megaship, which has now returned to the T Tauri system.
 “Captain Qadir, this is Drummond. You’re not paying us well enough to be in this hellhole. There are Thargoids everywhere we turn. But we’ve found out what you wanted to know. It’s not good news.”

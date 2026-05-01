@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 The Federal Diplomatic Corps has officially denounced President Hudson’s attempt to capture Yuri Grom in the Delta Pavonis system.
 The political conference was to determine whether the system’s ruling faction would ally With the EG Union or the Federation. It was abandoned when a Federal black ops team attempted to arrest Yuri Grom’s delegation, triggering a conflict in the system.
 Ambassador Delphine Dumont told The Federal Times:

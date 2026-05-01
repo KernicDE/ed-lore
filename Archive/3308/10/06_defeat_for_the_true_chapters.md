@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 A battle in the Popontia system has ended with Federal forces overwhelming defenders of the True Chapters sect.
 The newly risen sect of the Order of the Far God was being protected by the Workers of Popontia Free, which was ultimately defeated. Governor Nadia Machado of the Popontia Incorporated announced:

@@ -4,8 +4,10 @@ title: The Sanderlyn Interviews (Part Two)
 slug: the_sanderlyn_interviews_part_two
 date: '3308-04-30'
 source: API
-summary: Vox Galactica's Jade Sanderlyn continues her interview with Admiral Henry Paul Atherton aboard the INV Succession.
-player_impact: The full interview is available to pilots arriving at the INV Succession in the Novas system.
+summary: Vox Galactica's Jade Sanderlyn continues her interview with Admiral Henry
+  Paul Atherton aboard the INV Succession.
+player_impact: The full interview is available to pilots arriving at the INV Succession
+  in the Novas system.
 persons:
 - Jade Sanderlyn
 - Henry Paul Atherton
@@ -19,13 +21,18 @@ topics:
 - succession
 - war
 arc_id: salvation-azimuth
-modern_impact: '"Jade, dear: they are the same thing. The cost of war is human lives, and the Thargoids extract a heavy toll." Atherton''s assertion that Salvation''s victory and civilian safety are identical concepts illustrates the dangerous ideological convergence between Imperial military doctrine and Azimuth''s ends-justify-means philosophy.'
+modern_impact: '"Jade, dear: they are the same thing. The cost of war is human lives,
+  and the Thargoids extract a heavy toll." Atherton''s assertion that Salvation''s
+  victory and civilian safety are identical concepts illustrates the dangerous ideological
+  convergence between Imperial military doctrine and Azimuth''s ends-justify-means
+  philosophy.'
 legacy_weight: 5
 significance: high
 related_uuids:
 - 02edc1da-1134-5207-9ffc-6400448fd219
 - 4c108f5b-4d53-53ef-8e79-33a278395e0e
 ---
+
 
 The journalist Jade Sanderlyn of Vox Galactica was recently invited to conduct rare public interviews With admirals of the three superpowers.
 This excerpt is from a conversation with Admiral Henry Paul Atherton of the Empire.

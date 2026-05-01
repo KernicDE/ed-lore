@@ -4,7 +4,9 @@ title: Hadrian Duval Remarks on ‘Weak Emperor’
 slug: hadrian_duval_remarks_on_weak_emperor
 date: '3309-05-30'
 source: API
-summary: Hadrian Duval criticizes Emperor Arissa as 'weak' for contributing to Aegis, questioning whether her year in captivity drained her resolve; Aisling's role in Aegis is also discussed.
+summary: Hadrian Duval criticizes Emperor Arissa as 'weak' for contributing to Aegis,
+  questioning whether her year in captivity drained her resolve; Aisling's role in
+  Aegis is also discussed.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Hadrian Augustus Duval
@@ -21,13 +23,20 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Hadrian's pointed question — 'Did all that time in suspended animation drain her resolve?' — is a personal attack referencing her NMLA kidnapping. His framing — 'the Empire is stronger alone, especially when protecting our people from the Thargoid hordes' — is isolationist. Vestergaard's observation that 'Hadrian clearly took great offence at how swiftly Aisling engineered an exception to the Empire's isolationist policies' explains the timing. The speculation about Aisling as 'the wartime leader the Empire needs' is significant.
+modern_impact: Hadrian's pointed question — 'Did all that time in suspended animation
+  drain her resolve?' — is a personal attack referencing her NMLA kidnapping. His
+  framing — 'the Empire is stronger alone, especially when protecting our people from
+  the Thargoid hordes' — is isolationist. Vestergaard's observation that 'Hadrian
+  clearly took great offence at how swiftly Aisling engineered an exception to the
+  Empire's isolationist policies' explains the timing. The speculation about Aisling
+  as 'the wartime leader the Empire needs' is significant.
 legacy_weight: 5
 significance: high
 related_uuids:
 - bd3d69a8-2184-593f-8bfa-62a8d265c1c4
 - a1b8a394-834d-5abc-bae2-ab0de6f5c25a
 ---
+
 
 An interview with Hadrian Augustus Duval has caused ripples in Imperial society for his direct criticism of Emperor Arissa Lavigny-Duval.
 Speaking to Paresa News Network, the former Nova Imperium leader discussed the Empire’s commitment to Aegis:

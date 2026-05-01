@@ -48,6 +48,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The Alliance, Empire and Federation are offering bounties on Thargoid vessels in the Didio, Novas and Sosong systems.
 Commodore Morag Halloran, who coordinates Salvation’s military forces, broadcast This message on public channels:

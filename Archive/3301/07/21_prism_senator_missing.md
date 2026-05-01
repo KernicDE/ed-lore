@@ -37,7 +37,9 @@ significance: high
 related_uuids:
 - 28b652ea-50d2-5f9a-b4dc-e0008d984866
 - d053a0f6-8748-5beb-9cde-eadde89d5778
+- bfcfa929-e1d9-5fb5-8073-fc8341d2a5fd
 ---
+
 
 
 In The early hours of This morning, a security alert was received from The Imperial suite where Senator Kahina Tijani Loren has been residing. 

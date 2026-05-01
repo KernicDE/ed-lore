@@ -4,18 +4,31 @@ title: Public Polled on President
 slug: public_polled_on_president
 date: '3301-04-12'
 source: GitHub
-summary: A GalPoll survey revealed President Jasmina Halsey's approval rating had fallen to 16%, the lowest of any President who remained in office in Federation history. Anonymous responses ranged from harsh criticism of her military actions and perceived incompetence to sympathetic acknowledgement of her good intentions but poor fit for the presidency.
-player_impact: None directly; Halsey's historically low approval rating reflects widespread public dissatisfaction with her administration.
+summary: A GalPoll survey revealed President Jasmina Halsey's approval rating had
+  fallen to 16%, the lowest of any President who remained in office in Federation
+  history. Anonymous responses ranged from harsh criticism of her military actions
+  and perceived incompetence to sympathetic acknowledgement of her good intentions
+  but poor fit for the presidency.
+player_impact: None directly; Halsey's historically low approval rating reflects widespread
+  public dissatisfaction with her administration.
 persons:
 - Jasmina Halsey
 groups: []
 locations: []
 topics:
 - politics
-modern_impact: Halsey's record-low approval rating made her politically vulnerable and set the stage for Hudson's successful vote of no confidence.
+modern_impact: Halsey's record-low approval rating made her politically vulnerable
+  and set the stage for Hudson's successful vote of no confidence.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 9f89d17d-16f2-5dc1-a8dd-47a4dbc2f708
+- 15273afe-bfae-58ed-9f3b-306cf7fdddd7
+- f6c12601-b292-5356-9311-0ee90c473048
+- 8a13b80f-4222-50f5-becf-48fb8fe2d4ee
+- cbe7af14-8ee3-51ad-af51-8732af579af9
 ---
+
 
 Recent GalPoll results show that The President's popularity Continues to fall, With her approval rating now down to an abysmal 16%, The lowest approval rating of any President to have ever remained in office in the history of the Federation. 
 

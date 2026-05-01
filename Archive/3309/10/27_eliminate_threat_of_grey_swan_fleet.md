@@ -4,8 +4,10 @@ title: Eliminate Threat of Grey Swan Fleet
 slug: eliminate_threat_of_grey_swan_fleet
 date: '3309-10-27'
 source: API
-summary: The Grey Swan fleet in Shamash must be destroyed after crews become homicidal from an unexplained mass hysteria, with no cure found.
-player_impact: Pilots are asked to help destroy the rogue Grey Swan fleet. Rewards at Khonsu Gleam.
+summary: The Grey Swan fleet in Shamash must be destroyed after crews become homicidal
+  from an unexplained mass hysteria, with no cure found.
+player_impact: Pilots are asked to help destroy the rogue Grey Swan fleet. Rewards
+  at Khonsu Gleam.
 persons:
 - Mackenzie Coates
 - Ulrich Maurer
@@ -17,12 +19,19 @@ topics:
 - mystery
 entities: []
 arc_id: null
-modern_impact: Maurer's grim order — 'no choice but to eliminate every ship in the Grey Swan fleet' — frames the tragedy. Coates's personal conflict — 'I'm trained to deal with pirates, invaders and even Thargoids, not to hunt down my own friends and colleagues' — humanises the impossible choice. The description of affected crew as 'deranged savages' who 'wouldn't want to live like that' provides moral justification for the kill order.
+modern_impact: Maurer's grim order — 'no choice but to eliminate every ship in the
+  Grey Swan fleet' — frames the tragedy. Coates's personal conflict — 'I'm trained
+  to deal with pirates, invaders and even Thargoids, not to hunt down my own friends
+  and colleagues' — humanises the impossible choice. The description of affected crew
+  as 'deranged savages' who 'wouldn't want to live like that' provides moral justification
+  for the kill order.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 48384e39-3a4a-52ec-a3f9-75c5b001b218
+- cca7da56-4f0a-5a99-8e50-34d6a64413f0
 ---
+
 
 **Pilots’ Federation ALERT**
 Commanders have been asked to help destroy the rogue Grey Swan pilots killing civilians in the Shamash system.

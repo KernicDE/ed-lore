@@ -25,6 +25,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The second phase of the Colonia Bridge project is complete, With Brewer Corporation confirming details for phase three.
 An additional 26 megaships have taken up stationary positions in systems between Alcor and Colonia. Along With the existing 30 megaships, these will provide convenient rest, refuel and repair facilities to those travelling to and from the distant Colonia region.

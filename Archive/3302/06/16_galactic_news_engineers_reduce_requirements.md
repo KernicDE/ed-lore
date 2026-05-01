@@ -4,8 +4,11 @@ title: Galactic News  Engineers Reduce Requirements
 slug: galactic_news_engineers_reduce_requirements
 date: '3302-06-16'
 source: GitHub
-summary: The Rewired news feed reports that engineers Broo Tarquin and Didi Vatermann have reduced their material requirements from 100 to 50 units of Fugin Tea and from 200 to 50 units of Lavian Brandy respectively, making ship engineering more accessible.
-player_impact: Take advantage of reduced material requirements to unlock Broo Tarquin and Didi Vatermann engineering services more easily.
+summary: The Rewired news feed reports that engineers Broo Tarquin and Didi Vatermann
+  have reduced their material requirements from 100 to 50 units of Fugin Tea and from
+  200 to 50 units of Lavian Brandy respectively, making ship engineering more accessible.
+player_impact: Take advantage of reduced material requirements to unlock Broo Tarquin
+  and Didi Vatermann engineering services more easily.
 persons:
 - Broo Tarquin
 - Didi Vatermann
@@ -15,10 +18,17 @@ locations: []
 topics:
 - ship
 technologies: []
-modern_impact: Reduced engineering requirements make ship customisation more accessible to a broader range of pilots.
+modern_impact: Reduced engineering requirements make ship customisation more accessible
+  to a broader range of pilots.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 3473dc85-52d8-50f7-b97f-3d393eb0b8c4
+- a8af82d9-4b8f-5aed-9130-b8e3726e78fe
+- 68fc3f55-52fe-5901-b858-c3319b1d557c
+- cbc5de95-67fd-58db-b1d2-a1da849bba63
 ---
+
 
 The 'Rewired' news feed is known for Its prodigious output, sometimes releasing Hundreds of stories a day. But balancing such productivity With thorough fact checking is a tall order, and the feed's critics sometimes claim that at least half its output consists of redactions, corrections and apologies. 
 

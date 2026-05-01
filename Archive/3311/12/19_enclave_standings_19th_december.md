@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 This week's analysis of the influence held by key figures in the enclave has arrived, courtesy of Conrad Sterling of Vox Galactica.
 His latest survey of system populations suggests the following five powers enjoy the largest sphere of influence:
 Rank 1: A. Lavigny-Duval - 7 Systems

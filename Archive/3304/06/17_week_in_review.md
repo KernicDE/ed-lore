@@ -4,7 +4,12 @@ title: Week in Review
 slug: week_in_review
 date: '3304-06-17'
 source: GitHub
-summary: Weekly summary covering Aisling Duval's anti-slavery campaign merging with Universal Liberty to form Unchain, Lori Jameson's denunciation of the League of Reparation, journalist Flint Lafosse's theory about unsolved League murders, Dr Alfred Ulyanov's article on the Far God cult, Senator Caspian Leopold's refugee centre initiative, and the conclusion of the Lave Radio Network vs Lave Jet Family rivalry.
+summary: Weekly summary covering Aisling Duval's anti-slavery campaign merging with
+  Universal Liberty to form Unchain, Lori Jameson's denunciation of the League of
+  Reparation, journalist Flint Lafosse's theory about unsolved League murders, Dr
+  Alfred Ulyanov's article on the Far God cult, Senator Caspian Leopold's refugee
+  centre initiative, and the conclusion of the Lave Radio Network vs Lave Jet Family
+  rivalry.
 player_impact: None
 persons:
 - Aisling Duval
@@ -33,7 +38,8 @@ topics:
 - slavery
 - terrorism
 - culture
-modern_impact: This week encapsulates the galaxy's diverse crises from terrorism to romance, reflecting the complexity of 3304.
+modern_impact: This week encapsulates the galaxy's diverse crises from terrorism to
+  romance, reflecting the complexity of 3304.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -42,7 +48,10 @@ related_uuids:
 - a8af82d9-4b8f-5aed-9130-b8e3726e78fe
 - adb3246b-42c1-5f18-b56b-56f0ef4b8d24
 - 56c88c16-33ab-537f-90cc-8a20a25aeb54
+- f15aa0ae-a808-58d8-9d63-369a333a5dd6
+- dd466372-2852-583f-9211-6abb50186a05
 ---
+
 
 Here are This week’s major stories. 
 

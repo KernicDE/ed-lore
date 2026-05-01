@@ -4,8 +4,12 @@ title: Sandra's Workshop Asks for Festive Gift Couriers
 slug: sandras_workshop_asks_for_festive_gift_couriers
 date: '3311-12-15'
 source: API
-summary: Sandra Corrs requests pilot volunteers to deliver festive gifts after a hack wiped Our Dolph's Routes delivery data, forcing pilots to scan a beacon at Frost Dock in Njambalba to recover delivery addresses.
-player_impact: Pilots collected festive gifts from Frost Dock in Njambalba and delivered them to children after a hack wiped Our Dolph's Routes delivery data. A beacon outside Frost Dock held delivery information acquired via scan. Small and medium pads only.
+summary: Sandra Corrs requests pilot volunteers to deliver festive gifts after a hack
+  wiped Our Dolph's Routes delivery data, forcing pilots to scan a beacon at Frost
+  Dock in Njambalba to recover delivery addresses.
+player_impact: Pilots collected festive gifts from Frost Dock in Njambalba and delivered
+  them to children after a hack wiped Our Dolph's Routes delivery data. A beacon outside
+  Frost Dock held delivery information acquired via scan. Small and medium pads only.
 persons:
 - Sandra Corrs
 groups:
@@ -18,11 +22,21 @@ topics:
 - festival
 - humanitarian
 technologies: []
-modern_impact: The reference to last year's Thargoid refugee evacuation creates a narrative thread connecting the war's humanitarian crisis to peacetime community building. Sandra's Workshop has become an annual tradition humanising the pilot community beyond combat and exploration, showing how galactic events affect civilian life at the individual level.
+modern_impact: The reference to last year's Thargoid refugee evacuation creates a
+  narrative thread connecting the war's humanitarian crisis to peacetime community
+  building. Sandra's Workshop has become an annual tradition humanising the pilot
+  community beyond combat and exploration, showing how galactic events affect civilian
+  life at the individual level.
 legacy_weight: 4
 significance: high
-related_uuids: []
+related_uuids:
+- 64687775-402e-5976-acf0-2f0523df4ca5
+- 7c16f099-da83-5eb8-b85a-c39d0046cd90
+- ef911b8b-aff2-53fa-85e3-290d400e595c
+- 2aa614f0-a9cc-52ba-bc8c-14d36cb62f97
+- 78a4b786-7edc-5fe1-a3b3-76c9c33356e2
 ---
+
 
 The CEO of leading children's toy manufacturer Sandra's Workshop has once again requested help with parcel deliveries.
 Sandra Corrs, the much-loved philanthropist who provides gifts to children across the core systems each year, has made similar requests in previous years. Last year, with the Thargoid invasion just beginning, her courier fleet was loaned out to help refugee evacuation efforts.

@@ -4,8 +4,10 @@ title: Subject D-2 Rejects Azimuth
 slug: subject_d_2_rejects_azimuth
 date: '3308-10-11'
 source: API
-summary: Seo Jin-ae, the Project Seraph survivor, has refused to have any further contact with Azimuth Biotech following its offer of help.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: Seo Jin-ae, the Project Seraph survivor, has refused to have any further
+  contact with Azimuth Biotech following its offer of help.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Alba Tesreau
 - Angela Corcoran
@@ -25,7 +27,9 @@ topics:
 - alien contact
 - corporate expansion
 arc_id: salvation-azimuth
-modern_impact: '"It will come as no surprise that Ms Seo vehemently rejects Mr Rademaker’s proposal. She has relayed horrific details ..." Azimuth''s legacy of ethically compromised research remains a cautionary tale in xenological studies.'
+modern_impact: '"It will come as no surprise that Ms Seo vehemently rejects Mr Rademaker’s
+  proposal. She has relayed horrific details ..." Azimuth''s legacy of ethically compromised
+  research remains a cautionary tale in xenological studies.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -35,6 +39,7 @@ related_uuids:
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 ---
+
 
 Seo Jin-ae, the Project Seraph survivor, has refused to have any further contact with Azimuth Biotech following its offer of help.
 She is currently in the care of Professor Alba Tesreau, who stated:

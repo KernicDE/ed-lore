@@ -35,7 +35,9 @@ significance: high
 related_uuids:
 - 396f48c6-b935-5333-8a51-22db6e1a2f46
 - 6b44f898-99f1-5588-ae34-f12f252d6033
+- 371d6aa9-c585-5cde-b8b1-08e37a3e3e26
 ---
+
 
 
 The Socho system, headquarters of Aegis Core, has been overtaken by a criminal faction. The system is now In a state of anarchy. 

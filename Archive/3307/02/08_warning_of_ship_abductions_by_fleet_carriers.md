@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 This is an emergency bulletin to alert Independent pilots that kidnappers are operating in The vicinity of the HR 6828 system.
 The Pilots Federation has received reports of untrustworthy offers being made to Commanders who recently obtained their pilot’s licence.

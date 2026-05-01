@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 Alliance Prime Minister Edmund Mahon has offered a critical appraisal of The ongoing antagonism between the Empire and the Federation. His comments, delivering during a recent ministerial address, concern the conflict over the organic structures known as barnacles, and the meta-alloys they produce. 
 
 The pertinent part of his address is reprinted below: 

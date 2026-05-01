@@ -27,7 +27,9 @@ significance: high
 related_uuids:
 - 44ea0feb-1a55-57ba-9dc2-44d90fb3c275
 - ddd603e6-59fd-591f-b094-8bc0e5b0d5ab
+- 8ad75ee9-b942-5e77-9019-b89a5faa2700
 ---
+
 
 
 It has been two weeks since Jaques, The owner and operator of Jaques Station, issued an appeal for commodities to repair his beleaguered starport. Since then, scores of pilots from across the galaxy have made the long journey to the Eol Prou RS-T d3-94 system to deliver tantalum, power generators and Other materials to Jaques. 

@@ -37,7 +37,11 @@ significance: high
 related_uuids:
 - a210772e-cf66-5986-b067-f5664fdac402
 - f9b8633d-abeb-5cfd-8079-b668b89d759b
+- c267b84b-57a2-5a63-8d0d-e2363834a969
+- 9e750763-9346-5d86-907c-9b475b25570b
+- d7919863-55c6-54c6-847a-3b0ca8e4ab06
 ---
+
 
 
 Debate Continues to rage in local governments throughout The Pegasi sector over Senator Lavigny-Duval's invitation to become Imperial citizens. The debate has reached a fevered pitch In some systems. 

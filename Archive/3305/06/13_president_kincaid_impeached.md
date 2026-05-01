@@ -4,7 +4,9 @@ title: President Kincaid Impeached
 slug: president_kincaid_impeached
 date: '3305-06-13'
 source: GitHub
-summary: President Gibson Kincaid is removed from office by the Alliance Assembly on charges of treason, murder and corruption, and is detained while attempting to flee Zaonce.
+summary: President Gibson Kincaid is removed from office by the Alliance Assembly
+  on charges of treason, murder and corruption, and is detained while attempting to
+  flee Zaonce.
 player_impact: None — background political report.
 persons:
 - Gibson Kincaid
@@ -23,7 +25,8 @@ topics:
 - crime
 - investigation
 - politics
-modern_impact: Kincaid's impeachment ended the most serious constitutional crisis in Alliance history and led to the permanent abolition of the presidential office.
+modern_impact: Kincaid's impeachment ended the most serious constitutional crisis
+  in Alliance history and led to the permanent abolition of the presidential office.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,6 +34,7 @@ related_uuids:
 - cdea9b6d-620e-56ef-a9d6-c518775f0c22
 - 62c50540-1db5-5850-be0b-5a7cb2b2c201
 ---
+
 
 President Gibson Kincaid has been removed from office after a majority vote in The Alliance Assembly, following charges of treason, murder and corruption. The date of his trial is expected to be confirmed soon. 
 

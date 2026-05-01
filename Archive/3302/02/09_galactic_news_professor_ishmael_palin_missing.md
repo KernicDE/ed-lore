@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Authorities in The Maia system have reported that Professor Ishmael Palin, the scientist conducting research into the Unknown Artefacts, has disappeared. The professor recently announced plans to set up an Independent research outpost on the planet Maia b1ba, but it has now been confirmed that the ship carrying Palin and his team did not reach Its destination. Seneca Toule, a security officer based in Maia, released a brief statement to the media: 
 
 "Professor Palin's ship transmitted a status report not long after it left Obsidian Orbital, but since then no Further reports have been received. All attempts to contact the Vessel have been unsuccessful. A search is underway, however, and I am confident we will soon find some indicator of what has happened to Professor Palin and his team."

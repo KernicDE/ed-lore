@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Medical and military commodities have been delivered to the HIP 22460 system in support of the anti-xeno operation.
 Commodore Morag Halloran expressed gratitude that so many Commanders took part in the initiative. She indicated that payment was now available from the megaship Heart of Taurus. This includes tailored ship liveries for those Commanders who made the greatest contributions.

@@ -56,6 +56,7 @@ related_uuids:
 ---
 
 
+
 The conference in The Sirius system has ended prematurely after terrorist bombings against nine starports across the Alliance, Empire and Federation.
 Sirius Corporation confirmed that the cancellation was due to fears that Patterson Enterprise station may be the next target. All scheduled business, including finalising The Sirius Treaty, has been halted. The delegations are returning to their home systems under high security. 
 Temporary permits for the Sirius system will remain in place for One week. Pilots who contributed to the security and trade initiatives held in partnership With the Empire can collect their rewards at the Spirit of Laelaps. Core Dynamics, Gutamaya and Lakon Spaceways will continue to offer a 10% discount on all their ships for one more week.

@@ -4,7 +4,8 @@ title: Crime Wave Raises Security Concerns
 slug: crime_wave_raises_security_concerns
 date: '3307-11-22'
 source: API
-summary: The Winking Cat triggers widespread alarm with a spree of high-profile thefts, including a portrait of Emperor Olban Hensard Duval and a prototype security robot.
+summary: The Winking Cat triggers widespread alarm with a spree of high-profile thefts,
+  including a portrait of Emperor Olban Hensard Duval and a prototype security robot.
 player_impact: None
 persons:
 - Mira Bukowski
@@ -15,10 +16,18 @@ groups:
 topics:
 - crime
 - investigation
-modern_impact: The Winking Cat remains the galaxy's most legendary and elusive art thief.
+modern_impact: The Winking Cat remains the galaxy's most legendary and elusive art
+  thief.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9d68fcd0-66b6-57fa-abeb-c2aa81fa02e0
+- f7cd2ad2-a374-5b1c-9a11-5fbe0eb9e8e3
+- f0b3373e-7081-5c82-bda0-e454ef9116a0
+- 9b8e3164-1ff4-53b1-a9a9-98345feffa3f
+- a8743406-6f85-50fd-852d-ff3343df1801
 ---
+
 
 An expert larcenist known As the Winking Cat has triggered widespread alarm With a spree of high-profile thefts.
 Vox Galactica published This feature by crime correspondent Mira Bukowski :

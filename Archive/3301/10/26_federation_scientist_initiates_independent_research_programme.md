@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Ishmael Palin, The Federation scientist tasked With studying the anomalous extraterrestrial objects discovered earlier This year, has announced his decision to resume his research. This development follows the termination of an earlier, Federation-backed research programme led by Professor Palin. 
 
 The decision to restart the programme constitutes a defiant move on the part of Professor Palin, who declined to make a public statement at the time of the original project's cancellation. The new research effort will be based at Christian Dock in the Nganji System, close to the region of space where the objects were discovered. 

@@ -31,7 +31,10 @@ significance: medium
 related_uuids:
 - 48fc993c-e405-5490-ae64-22990bfd99a2
 - 623f177b-b594-5c8c-8ba7-d3ad3ca7cae9
+- ea6a89b3-2286-534c-a466-b74184e9f8d9
+- 4a6785b4-2814-5bdd-aede-fcc93b522b79
 ---
+
 
 
 3251 is remembered chiefly for the disappearance of the Antares, a technologically revolutionary passenger liner designed and built by the Sirius Corporation. The ship was supposed to usher In a new age in interplanetary travel, But the loss of the Vessel during Its maiden voyage tarnished the reputation of The Sirius Corporation and stalled the company's plans to develop Further superfast liners. 

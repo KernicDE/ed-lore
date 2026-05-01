@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Aegis is urgently requesting deliveries of Thargoid spire site materials to Professor Ishmael Palin in the Arque system.
 The alien minerals are needed for vital research based on a new theory by the engineer Ram Tah. His research has suggested a method of defeating the Thargoid Titans, although details of the proposal remain classified by Aegis.

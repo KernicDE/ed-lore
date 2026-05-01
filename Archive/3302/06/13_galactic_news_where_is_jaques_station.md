@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 Jaques Station hit The headlines two weeks ago when it was reported that the galaxy's most famous travelling starport had disappeared. Jaques, the starport's owner and operator, had announced plans to jump from Gliese 1269 to Beagle Point. But when contact With the starport was lost, Many feared the ambitious Enterprise had resulted in disaster. 
 
 Fortunately it seems the starport is still intact, even if Its whereabouts remain unknown. Several outposts throughout inhabited space have reported receiving messages over the past 24 hours, suggesting that the cyborg and his travelling starport survived the attempted journey to Beagle Point. 

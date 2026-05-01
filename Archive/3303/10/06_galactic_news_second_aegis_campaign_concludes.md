@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 A spokesperson for Aegis has announced that Its appeal for Thargoid-related materials has reached a successful conclusion. Hundreds of pilots took to their ships to deliver material to Chelbin Service Station, Which will be used to develop new anti-Thargoid technologies. 
 
 As the campaign drew to a close, Admiral Aden Tanner released The following statement: 

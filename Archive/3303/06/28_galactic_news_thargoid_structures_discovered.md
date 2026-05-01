@@ -4,7 +4,10 @@ title: Galactic News  Thargoid Structures Discovered
 slug: galactic_news_thargoid_structures_discovered
 date: '3303-06-28'
 source: GitHub
-summary: Independent pilots have discovered huge Thargoid structures consisting of organic-shaped elements surrounding a central edifice in multiple systems. The structures encompass large subsurface complexes, and drone-like machines have been sighted roving the sites.
+summary: Independent pilots have discovered huge Thargoid structures consisting of
+  organic-shaped elements surrounding a central edifice in multiple systems. The structures
+  encompass large subsurface complexes, and drone-like machines have been sighted
+  roving the sites.
 player_impact: None
 persons:
 - Ishmael Palin
@@ -16,8 +19,17 @@ locations:
 - HIP 19026
 - HIP 14909
 technologies: []
-modern_impact: Discovery of Thargoid structures with subsurface complexes marks a major escalation in understanding Thargoid presence and activity in the Pleiades and surrounding regions.
+modern_impact: Discovery of Thargoid structures with subsurface complexes marks a
+  major escalation in understanding Thargoid presence and activity in the Pleiades
+  and surrounding regions.
+related_uuids:
+- ac666368-9417-5e30-92aa-96f2ed1524f8
+- 85f8251c-1f9c-51b8-8b2e-60d29b31160b
+- 3521c9b6-51ab-56aa-b13d-3286b5a637da
+- 2c18b071-5704-5873-8d29-511bb70936d0
+- fc5a0349-e2fc-5351-bedc-dca401fdb77f
 ---
+
 
 As the galaxy reels from The revelation that the Thargoids have returned to human space, reports have been received that a number of Independent pilots have discovered huge Thargoid structures in the Pleiades Sector OS-U c2-7, Col 285 Sector CV-Y d57, Aries Dark Region DB-X d1-63, HIP 19026, and HIP 14909 systems. 
 

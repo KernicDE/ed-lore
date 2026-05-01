@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Recent reports indicate that some members of The galactic community are concerned about the development of Unknown Artefact-resistant ship modules. Critics of the new technology, developed by Professor Lea Tantaga, have claimed it will facilitate Further black-market trade of Unknown Artefacts, thus exacerbating the so-called technological plague. 
 
 In an attempt to counter the rising concern, a member of the technical team at Obsidian Orbital released The following statement: 

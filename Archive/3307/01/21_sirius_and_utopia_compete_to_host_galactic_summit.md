@@ -42,7 +42,10 @@ related_uuids:
 - 6549866d-5636-5f2d-96ad-fd6536f024a4
 - 8ea60378-45bb-5e97-80fc-103b0cdd5b4e
 - 5140542a-1be3-56a9-a558-8224ef317bf7
+- 2c2f5322-8d74-5e77-b181-b9a317e176e5
+- ed5fa27e-167e-54a9-9959-a763bdebb1a0
 ---
+
 
 
 **Pilots Federation ALERT**

@@ -4,7 +4,11 @@ title: Mysteries of the Far God
 slug: mysteries_of_the_far_god
 date: '3304-12-08'
 source: GitHub
-summary: Journalist Gethin Okonkwo discusses abandoned Far God cult outposts discovered in the Etain system. He reflects on his undercover experience, the diverse backgrounds of cult members, and the revelation that a former acquaintance was a Federal agent posing as a worshipper. Okonkwo notes that many mysteries of the Far God religion remain unsolved.
+summary: Journalist Gethin Okonkwo discusses abandoned Far God cult outposts discovered
+  in the Etain system. He reflects on his undercover experience, the diverse backgrounds
+  of cult members, and the revelation that a former acquaintance was a Federal agent
+  posing as a worshipper. Okonkwo notes that many mysteries of the Far God religion
+  remain unsolved.
 player_impact: None
 persons:
 - Gethin Okonkwo
@@ -17,12 +21,15 @@ topics:
 - religion
 - alien contact
 - investigation
-modern_impact: The discovery of Far God outposts and ongoing investigation by Okonkwo and Ulyanov deepens public understanding of the Thargoid-worshipping cult while revealing Federal intelligence infiltration.
+modern_impact: The discovery of Far God outposts and ongoing investigation by Okonkwo
+  and Ulyanov deepens public understanding of the Thargoid-worshipping cult while
+  revealing Federal intelligence infiltration.
 legacy_weight: 1
 significance: low
 related_uuids:
 - b4b88706-40ce-55d9-9c91-d7ed32847318
 ---
+
 
 Journalist Gethin Okonkwo has discussed the abandoned Far God cult outposts in the Etain system: 
 

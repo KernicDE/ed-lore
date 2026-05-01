@@ -4,7 +4,13 @@ title: Mars Tribune Linked to Spy Robots
 slug: mars_tribune_linked_to_spy_robots
 date: '3304-10-20'
 source: GitHub
-summary: The Federal Security Service targets The Mars Tribune in its investigation of robots with concealed surveillance programs. Lieutenant Inspector Ramesh Thorne reveals that former congressman Morgan Unwin and actor Tomas Turai, both subjects of incriminating Tribune articles, owned spy robots. Public-relations guru Anya Blackriver, also a spy robot owner, was exposed by the Tribune. All affected robot owners live in the Sol system, the focus of Tribune journalism. The Cordova Group challenges the accusations as libellous.
+summary: The Federal Security Service targets The Mars Tribune in its investigation
+  of robots with concealed surveillance programs. Lieutenant Inspector Ramesh Thorne
+  reveals that former congressman Morgan Unwin and actor Tomas Turai, both subjects
+  of incriminating Tribune articles, owned spy robots. Public-relations guru Anya
+  Blackriver, also a spy robot owner, was exposed by the Tribune. All affected robot
+  owners live in the Sol system, the focus of Tribune journalism. The Cordova Group
+  challenges the accusations as libellous.
 player_impact: None
 persons:
 - Ramesh Thorne
@@ -23,7 +29,9 @@ topics:
 - investigation
 - scandal
 - crime
-modern_impact: The direct link between Mars Tribune exclusives and spy robot owners provides compelling evidence of systematic corporate surveillance for journalistic gain, threatening the newsfeed's existence.
+modern_impact: The direct link between Mars Tribune exclusives and spy robot owners
+  provides compelling evidence of systematic corporate surveillance for journalistic
+  gain, threatening the newsfeed's existence.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -31,6 +39,7 @@ related_uuids:
 - 4b01bbee-1a74-58eb-ab76-9cdc3693800a
 - 42ef6025-276f-5d89-b735-6c4cb293e6fb
 ---
+
 
 The Federal Security Service has targeted The Mars Tribune as part of Its investigation into robots carrying concealed surveillance programs. 
 

@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 ACT has revealed The background of the man known only as Theta Seven, the NMLA’s de facto leader who recently died in the Mudhrid system.
 Captain Saskia Landau gave This statement to the media:
 “A combination of investigative work and interrogating NMLA survivors has allowed us to confirm that Theta Seven’s real name was John Tyburn. He was born and raised in the city of Fontaine on the planet Baltah’Sine, where he was a munitions technician constructing demolition charges for commercial mining.”

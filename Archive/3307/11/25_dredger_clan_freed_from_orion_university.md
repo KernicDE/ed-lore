@@ -4,8 +4,10 @@ title: Dredger Clan Freed from Orion University
 slug: dredger_clan_freed_from_orion_university
 date: '3307-11-25'
 source: API
-summary: The Scriveners Clan dredger is fully repaired and freed from Orion University's override codes, allowing the nomadic tribe to resume independent travel.
-player_impact: Pilots delivered emergency power cells to Oramus Terminal or scientific data to Shaara Gateway in the HIP 43670 system.
+summary: The Scriveners Clan dredger is fully repaired and freed from Orion University's
+  override codes, allowing the nomadic tribe to resume independent travel.
+player_impact: Pilots delivered emergency power cells to Oramus Terminal or scientific
+  data to Shaara Gateway in the HIP 43670 system.
 persons:
 - Leland Pettigrew
 groups:
@@ -15,10 +17,18 @@ groups:
 topics:
 - diplomacy
 - humanitarian
-modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic institutions and the nomadic society that inhabits it.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
+related_uuids:
+- ac1bbb46-c78b-5615-a13e-50145a1e363c
+- 874dce92-6aa5-5398-9666-601f0f3192b5
+- c8933782-6917-568d-8b1c-f9e89c7c9c7c
+- 8d11dddf-b087-5b68-9945-af45e8953120
+- 9b5c7d9c-82e8-5050-ba09-ba7bbfb3c294
 ---
+
 
 **Pilots’ Federation ALERT**
 The Scriveners Clan Dredger has been fully repaired, following twin initiatives in the HIP 43670 system.

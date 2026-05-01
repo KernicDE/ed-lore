@@ -4,8 +4,13 @@ title: Public Viewing of Emperor Hengist Duval Ceases
 slug: public_viewing_of_emperor_hengist_duval_ceases
 date: '3301-09-02'
 source: GitHub
-summary: The public viewing of Emperor Hengist Duval ended after an estimated seven million mourners visited Capitol. Fewer than half were able to see the Emperor despite extended hours. Holographic shrines were placed along queues, though some complained this broke tradition. Military forces maintained order and provided food, shelter, and medical care. The streets were being cleared for the upcoming funeral procession.
-player_impact: Pilots visiting Capitol should expect continued security measures and restricted access as the city prepares for the Emperor's funeral.
+summary: The public viewing of Emperor Hengist Duval ended after an estimated seven
+  million mourners visited Capitol. Fewer than half were able to see the Emperor despite
+  extended hours. Holographic shrines were placed along queues, though some complained
+  this broke tradition. Military forces maintained order and provided food, shelter,
+  and medical care. The streets were being cleared for the upcoming funeral procession.
+player_impact: Pilots visiting Capitol should expect continued security measures and
+  restricted access as the city prepares for the Emperor's funeral.
 persons:
 - Hengist Duval
 - Florence Lavigny
@@ -17,10 +22,18 @@ locations:
 - Imperial Palace
 topics:
 - succession
-modern_impact: Documents the massive public mourning following the assassination of Emperor Hengist Duval.
+modern_impact: Documents the massive public mourning following the assassination of
+  Emperor Hengist Duval.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- f0f1c2b2-9935-5db5-afca-cdd159061db8
+- 086e05e2-d614-5bf4-ba98-a1a0de0b1b06
+- b8bb8126-dc7a-5d04-8acd-153c5c83d1de
+- 10bb4ee2-2697-5e84-8bff-573efc3c1214
 ---
+
 
 Today was The last day for The millions of mourners to pay their respects to the Emperor in the Hall of Martyrs. In the past month an estimated seven million mourners arrived on Capitol and have waited in line to enter the vestibule where the Emperor’s body has lain. 
 

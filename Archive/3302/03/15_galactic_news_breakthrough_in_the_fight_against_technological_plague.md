@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 When Professor Ishmael Palin and his team disappeared en route to Maia b1ba, research into meta-alloys was brought to a near standstill, With only the Canonn Interstellar Research Group continuing to investigate the mysterious material. But recent reports indicate that research has continued in Professor Palin's absence under the helm of Lea Tantaga, a molecular chemist based at Obsidian Orbital. 
 
 "We've known for a while that the ongoing technical issues are the result of molecular interference from the Unknown Artefacts," said Tantaga. "What we now know is that meta-alloys can be used to neutralise This interference. In their raw form, the meta-alloys aren't all that effective. And the process of using them to create materials that can counter the artefacts' dangerous self-repair mechanism hasn't yet been perfected. But we're definitely on the right path." 

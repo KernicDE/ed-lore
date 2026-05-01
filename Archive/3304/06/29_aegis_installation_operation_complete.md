@@ -4,8 +4,12 @@ title: Aegis Installation Operation Complete
 slug: aegis_installation_operation_complete
 date: '3304-06-29'
 source: GitHub
-summary: Aegis announces the successful completion of its military installation construction campaign in the Pleiades Sector IR-W d1-55. Hundreds of pilots delivered mined resources to The Oracle and protected traders. The installation will allow Aegis to more effectively resist external aggression.
-player_impact: Contributing pilots can collect rewards from The Oracle in the Pleiades Sector IR-W d1-55.
+summary: Aegis announces the successful completion of its military installation construction
+  campaign in the Pleiades Sector IR-W d1-55. Hundreds of pilots delivered mined resources
+  to The Oracle and protected traders. The installation will allow Aegis to more effectively
+  resist external aggression.
+player_impact: Contributing pilots can collect rewards from The Oracle in the Pleiades
+  Sector IR-W d1-55.
 persons: []
 groups:
 - Aegis
@@ -15,13 +19,16 @@ locations:
 topics:
 - construction
 - war
-modern_impact: The completed installation strengthens Aegis's permanent military presence in the Pleiades, a critical forward operating base against both Thargoid and human threats.
+modern_impact: The completed installation strengthens Aegis's permanent military presence
+  in the Pleiades, a critical forward operating base against both Thargoid and human
+  threats.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 518459bd-b04c-5043-bae8-6aa576f868e5
 - e9563810-0611-5080-9952-cdd072acdc90
 ---
+
 
 The operation to support construction of an Aegis military facility in the Pleiades Sector IR-W d1-55 has reached a successful conclusion. Hundreds of pilots supported the initiative by delivering mined resources to The Oracle, and by protecting traders in the system. 
 

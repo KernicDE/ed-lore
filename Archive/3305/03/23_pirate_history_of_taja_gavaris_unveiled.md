@@ -4,7 +4,9 @@ title: Pirate History of Taja Gavaris Unveiled
 slug: pirate_history_of_taja_gavaris_unveiled
 date: '3305-03-23'
 source: GitHub
-summary: Journalist Bryanna Blanco reveals that new CFO Taja Gavaris was once a pirate rival of Zachary Rackham, alleging she blackmailed her way into his organisation and is now eliminating his loyal supporters to seize control.
+summary: Journalist Bryanna Blanco reveals that new CFO Taja Gavaris was once a pirate
+  rival of Zachary Rackham, alleging she blackmailed her way into his organisation
+  and is now eliminating his loyal supporters to seize control.
 player_impact: None — background investigative report.
 persons:
 - Taja Gavaris
@@ -17,13 +19,18 @@ topics:
 - crime
 - investigation
 - piracy
-modern_impact: Blanco's exposé confirmed long-held suspicions about Rackham Capital's criminal origins, though official inaction would allow the corporate power struggle to continue claiming lives.
+modern_impact: Blanco's exposé confirmed long-held suspicions about Rackham Capital's
+  criminal origins, though official inaction would allow the corporate power struggle
+  to continue claiming lives.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 00fe0a42-2a91-5550-8f3e-8e9e318dee09
 - f826de33-b5c1-5d57-a10d-35f02a19751d
+- c5055471-335d-550f-9016-f81118858f69
+- 732cda56-878b-56fa-a537-27eff4a56990
 ---
+
 
 Taja Gavaris, The new CFO of Rackham Capital Investments, has been accused of having a criminal background as a pirate leader. 
 

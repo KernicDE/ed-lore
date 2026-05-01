@@ -4,8 +4,11 @@ title: Community Goal  Halsey to Build Refugee Centre
 slug: community_goal_halsey_to_build_refugee_centre
 date: '3303-02-02'
 source: GitHub
-summary: Former Federal President Jasmina Halsey announces plans to build a rehabilitation centre for victims of the Federal-Imperial conflict. The Yum Kamcabi Purple Life Industry supports the campaign financially.
-player_impact: Deliver Power Generators, Tantalum and Polymers to Dirichlet Orbital in the Yum Kamcabi system.
+summary: Former Federal President Jasmina Halsey announces plans to build a rehabilitation
+  centre for victims of the Federal-Imperial conflict. The Yum Kamcabi Purple Life
+  Industry supports the campaign financially.
+player_impact: Deliver Power Generators, Tantalum and Polymers to Dirichlet Orbital
+  in the Yum Kamcabi system.
 persons:
 - Jasmina Halsey
 groups:
@@ -18,10 +21,19 @@ topics:
 - humanitarian
 - trade
 - war
-modern_impact: Humanitarian community goal establishing a refugee and rehabilitation centre for war victims, supported by former Federal President Halsey.
+modern_impact: Humanitarian community goal establishing a refugee and rehabilitation
+  centre for war victims, supported by former Federal President Halsey.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 038568fb-4fcf-500d-bcaf-24e8b6c188c7
+- 61dd9ef7-5e61-588b-b26a-298d6d7a45da
+- 1034cc0f-a196-5d70-a72a-116480e4f667
+- 92ab3791-b482-5d1a-9df1-31af570bc24b
+- 043b09cb-a215-572d-93dd-9554ec2ca250
+- c7d03263-c11f-5f80-aef4-c7ca6c341238
 ---
+
 
 Former Federal President Jasmina Halsey has announced plans to establish a rehabilitation centre for victims of war – specifically those affected by The ongoing Federal-Imperial conflict. In a statement, Halsey said: 
 

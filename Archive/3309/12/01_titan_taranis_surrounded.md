@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 The star system Hyades Sector FB-N B7-6, which contains Thargoid Titan Taranis, has been surrounded by human forces.
 Aden Tanner, special advisor to Aegis, provided the following update:
 “Our pilots appear to have pushed Thargoids out of all systems in Titan Taranis’s area of control. It’s taken a huge effort, one which should rightly be recognised as outstanding.  We don’t know for certain what will happen next. But for now, the region is back in humanity’s control.”

@@ -28,7 +28,9 @@ significance: medium
 related_uuids:
 - 8a3d4510-5f41-5755-aeaa-89033dac4352
 - 9b573016-07a8-5505-a458-015d2df902e4
+- ab411906-f48a-5c10-8bb1-b96aeda45253
 ---
+
 
 
 It has been Several weeks since conflict was reported between The Empire and the Federation, following months of hostility between the two superpowers. The last incident connected to the Empire-Federation rift was a clash between the Pleiades Resource Enterprise and the Ant Hill Mob in November. Since then, there have been no reports of conflict. 

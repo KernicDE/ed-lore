@@ -4,7 +4,8 @@ title: Marlinist Colonies Gain Starports
 slug: marlinist_colonies_gain_starports
 date: '3308-05-06'
 source: API
-summary: Two new starports become operational in the Marlinist Colonies following last month's delivery initiative.
+summary: Two new starports become operational in the Marlinist Colonies following
+  last month's delivery initiative.
 player_impact: Not specifically mentioned — this is an infrastructure report.
 persons: []
 groups:
@@ -21,13 +22,18 @@ topics:
 - diplomacy
 - humanitarian
 arc_id: null
-modern_impact: '"The Marlinist Parliament welcomed the new starports, stating that they ''will lay strong foundations for increased commerce with the interstellar community''." The rapid addition of orbital infrastructure demonstrated the colonies'' successful transformation from emergency refugee settlements into a functioning interstellar polity capable of sustained economic development.'
+modern_impact: '"The Marlinist Parliament welcomed the new starports, stating that
+  they ''will lay strong foundations for increased commerce with the interstellar
+  community''." The rapid addition of orbital infrastructure demonstrated the colonies''
+  successful transformation from emergency refugee settlements into a functioning
+  interstellar polity capable of sustained economic development.'
 legacy_weight: 4
 significance: high
 related_uuids:
 - 83fbe8c3-9336-5b74-9642-fe0db6fd785b
 - 63e625ea-c34e-5fca-8183-81928f3e7f7d
 ---
+
 
 Two new starports have been added to Marlinist systems, following a successful delivery initiative last month.
 The use of pre-built infrastructures and mass-produced components has allowed the orbital stations to be assembled rapidly. The starport names and locations are Fairfax Legacy in the Hyades Sector SU-C a14-1 system, and Ackwada Monument in the Hyades Sector LX-T c3-30 system.

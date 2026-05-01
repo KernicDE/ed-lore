@@ -4,8 +4,14 @@ title: The Bacon City Hangover
 slug: the_bacon_city_hangover
 date: '3301-10-08'
 source: GitHub
-summary: The inaugural Bacon Protests anniversary celebration at Bacon City in Carnoeck attracted revellers and pirates alike. Animal-rights activists blockaded the station, forcing meat-carrying ships to jettison cargo. United Carnoeck for Equality issued a cleanup appeal, offering rewards to bounty hunters who clear the spaceways of agitators.
-player_impact: Bounty hunters can earn rewards by clearing pirates and agitators from the Carnoeck system. Traders should exercise caution when visiting Bacon City in the aftermath of the celebrations.
+summary: The inaugural Bacon Protests anniversary celebration at Bacon City in Carnoeck
+  attracted revellers and pirates alike. Animal-rights activists blockaded the station,
+  forcing meat-carrying ships to jettison cargo. United Carnoeck for Equality issued
+  a cleanup appeal, offering rewards to bounty hunters who clear the spaceways of
+  agitators.
+player_impact: Bounty hunters can earn rewards by clearing pirates and agitators from
+  the Carnoeck system. Traders should exercise caution when visiting Bacon City in
+  the aftermath of the celebrations.
 groups:
 - United Carnoeck for Equality
 - Bacon Cats
@@ -15,10 +21,18 @@ locations:
 topics:
 - festival
 - piracy
-modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
+modern_impact: Community celebration bringing pilots together for social events and
+  trade opportunities.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 9b15766c-9587-5cf9-92ed-667be9a6b24f
+- 3fd64cce-5c62-500c-8c2f-84e079cbaf49
+- 1217e10d-e2ad-5abc-9569-d691813bc646
+- 726bcfa9-d6e9-5e5b-b168-63c6a950bb7a
+- 396f48c6-b935-5333-8a51-22db6e1a2f46
 ---
+
 
 Last week, the starport of Bacon City played host to the inaugural Bacon Protests anniversary celebrations, Which commemorated the repeal of the meat ban that affected citizens of the Carnoeck system in 3288. Revellers from across the galaxy descended on Bacon City to join in the fun, and Hundreds of Independent pilots ferried animal meat and narcotics to the starport to fuel the festivities. 
 

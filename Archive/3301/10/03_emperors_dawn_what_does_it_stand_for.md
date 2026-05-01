@@ -30,7 +30,11 @@ significance: high
 related_uuids:
 - 9ff59063-097c-550c-a321-0accc12810d0
 - d38de666-796d-5082-991e-e55ea008a732
+- c29c0055-acb8-5a02-bef8-e8af2b2653c6
+- af57d372-7f3e-541e-a133-0d7ca34b5d2a
+- e1c00d63-fa8e-50fc-bdfc-39fa5b4746bc
 ---
+
 
 
 Since news of Emperor's Dawn first emerged, there has been extensive Speculation about the group's agenda. That The organisation wants to destabilise The Imperial power base seems highly likely, given that it was almost certainly responsible for the assassination of Emperor Hengist Duval, But the specifics of Its ambitions have remained unclear. 

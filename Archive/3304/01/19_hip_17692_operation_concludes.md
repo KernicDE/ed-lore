@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Admiral Denton Patreus has announced that The joint Federal-Imperial operation in the HIP 17692 system has reached a successful conclusion. Hundreds of pilots supported the campaign by eliminating Thargoids in the system and by rescuing people from Thargoid attack sites. Those rescued during the operation are now recovering at Blackmount Orbital. 
 
 As the campaign drew to a close, Admiral Denton Patreus released The following statement: 

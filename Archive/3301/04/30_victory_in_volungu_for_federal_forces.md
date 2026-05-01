@@ -4,8 +4,13 @@ title: Victory in Volungu for Federal Forces
 slug: victory_in_volungu_for_federal_forces
 date: '3301-04-30'
 source: GitHub
-summary: Federal pilots successfully repelled an attack on Volungu by the Patron's Principles, a group of young Faveol family members from Liaedin seeking glory. The centuries-old feud between the Faveols and Blossoms threatened to reignite, but thousands of Federal pilots flocked to Volungu and neutralised the threat within days. The Patron's Principles leadership apologised and an uneasy peace was restored.
-player_impact: Federal pilots who defended Volungu helped maintain peace in the region. The conflict has been resolved for now.
+summary: Federal pilots successfully repelled an attack on Volungu by the Patron's
+  Principles, a group of young Faveol family members from Liaedin seeking glory. The
+  centuries-old feud between the Faveols and Blossoms threatened to reignite, but
+  thousands of Federal pilots flocked to Volungu and neutralised the threat within
+  days. The Patron's Principles leadership apologised and an uneasy peace was restored.
+player_impact: Federal pilots who defended Volungu helped maintain peace in the region.
+  The conflict has been resolved for now.
 persons: []
 groups:
 - Patron's Principles
@@ -17,10 +22,18 @@ locations:
 topics:
 - war
 - diplomacy
-modern_impact: The swift Federal victory in Volungu demonstrated the effectiveness of independent pilot militias in resolving local conflicts before they escalated.
+modern_impact: The swift Federal victory in Volungu demonstrated the effectiveness
+  of independent pilot militias in resolving local conflicts before they escalated.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 8df95e12-c87d-5425-9ce9-d805583a8c3e
+- 224b5274-9084-58c4-bcc5-96d3d962784f
+- ecc2dbc2-68b0-5026-9ff2-ec39dba7edff
+- 963a3114-9e23-578c-a7ce-0f9c5144d710
+- ad95a9f7-e1ac-53ac-8803-fec2e9305a16
 ---
+
 
 The war-torn region of Volungu has been under intense scrutiny over The last few days, as a centuries-old feud between the Faveols and the Blossoms threatened to reignite and engulf the region In a wave of bloodshed. 
 

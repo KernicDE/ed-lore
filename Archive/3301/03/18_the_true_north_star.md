@@ -4,8 +4,14 @@ title: The True North Star
 slug: the_true_north_star
 date: '3301-03-18'
 source: GitHub
-summary: Explorer Virgil Kyle, commander of the Asp 'Spirit of Indianapolis', claims to have been the first to visit Sol's 'true North Star' at Wregoe TV-L C24-0, over 1,200 light-years north of Sol's position in the galactic plane. Due to jump distances, the system is only reachable by Asps and Anacondas fitted for near-maximum jump ranges. Kyle described the view of the Milky Way from the system as spectacular and invited other explorers to visit.
-player_impact: Explorers with high-jump-range Asps or Anacondas can visit Wregoe TV-L C24-0 to see the spectacular view.
+summary: Explorer Virgil Kyle, commander of the Asp 'Spirit of Indianapolis', claims
+  to have been the first to visit Sol's 'true North Star' at Wregoe TV-L C24-0, over
+  1,200 light-years north of Sol's position in the galactic plane. Due to jump distances,
+  the system is only reachable by Asps and Anacondas fitted for near-maximum jump
+  ranges. Kyle described the view of the Milky Way from the system as spectacular
+  and invited other explorers to visit.
+player_impact: Explorers with high-jump-range Asps or Anacondas can visit Wregoe TV-L
+  C24-0 to see the spectacular view.
 persons:
 - Virgil Kyle
 groups: []
@@ -17,10 +23,18 @@ technologies:
 - Anaconda
 topics:
 - exploration
-modern_impact: Kyle's discovery of Sol's 'true North Star' became a popular destination for explorers seeking unique galactic perspectives.
+modern_impact: Kyle's discovery of Sol's 'true North Star' became a popular destination
+  for explorers seeking unique galactic perspectives.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 9a67ca54-3a34-5ba0-b9f3-e8620c464b6a
+- 85cf9186-db93-5b83-9005-b93e35f40528
+- 4a52f193-5209-5e9a-b367-4293b3cd9272
+- a32a7693-c60a-50fa-87d9-09447bb36976
+- d2def23c-2d74-5a9c-b2fa-27490bd93326
 ---
+
 
 In a brief written statement submitted to GalNet news, Virgil Kyle, commander of The exploration-fitted Asp Spirit of Indianapolis, claims to have been the first to visit what he calls Sol's ‘true North Star’. 
 

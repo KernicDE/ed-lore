@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Latugara PLC, an Independent organisation based in the Latugara system, has announced plans to construct a series of outposts between the core of human-inhabited space and the rapidly expanding Colonia Nebula community. 
 
 In a statement, the organisation's spokesperson said: 

@@ -35,7 +35,10 @@ related_uuids:
 - 8097c00d-2e15-5445-b408-e3b80f412aac
 - 8f436007-f00f-535c-af52-d16273c91cc0
 - e05cf902-3b9a-5936-af7b-8d010eb0685c
+- 9d58d00e-a467-59fb-8f99-cb8afa9fd72f
+- d97a03c8-3cbd-5fdf-849d-06c5706a9602
 ---
+
 
 
 The anonymous anti-xeno scientist Salvation has received Further military support from the Alliance, Empire and Federation.

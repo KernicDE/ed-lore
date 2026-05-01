@@ -33,7 +33,9 @@ significance: medium
 related_uuids:
 - 33e80616-6e8c-5ee5-85e5-723548a3d11d
 - 7b1495a0-0413-5d22-af0c-bc7fcf8090d4
+- 2a375cf0-f161-531e-bafa-c3c2dbfd08a6
 ---
+
 
 
 "Let's just say I'm not flying a small ship anymore!" laughed One Commander, pledged to the Kumo Crew, when Asked about the ongoing conflict in the Pegasi sector. "We all know that these Imperial types have been flying around and ransacking ships in Our space, but what have they actually achieved? Archon Delaine has consistently shown us that, under his leadership, we can repel any fleet and make an absurd number of credits in the process. Who is really losing This fight?" 

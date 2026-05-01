@@ -4,8 +4,12 @@ title: State Funeral Held for Prince Harold Duval
 slug: state_funeral_held_for_prince_harold_duval
 date: '3306-09-24'
 source: GitHub
-summary: The state funeral for Prince Harold Duval begins on Capitol with Emperor Arissa delivering the eulogy. Condolences come from across the galaxy including Prime Minister Mahon and President Hudson. The Imperial Palace requests rare commodities for a memorial ceremony.
-player_impact: Pilots can deliver rare commodities to Oterma Station in Baal. Achenar system permits and Gutamaya discounts are offered as rewards.
+summary: The state funeral for Prince Harold Duval begins on Capitol with Emperor
+  Arissa delivering the eulogy. Condolences come from across the galaxy including
+  Prime Minister Mahon and President Hudson. The Imperial Palace requests rare commodities
+  for a memorial ceremony.
+player_impact: Pilots can deliver rare commodities to Oterma Station in Baal. Achenar
+  system permits and Gutamaya discounts are offered as rewards.
 persons:
 - Arissa Lavigny-Duval
 - Aisling Duval
@@ -24,7 +28,8 @@ locations:
 topics:
 - succession
 - humanitarian
-modern_impact: The state funeral marks the formal mourning period and strengthens anti-NMLA sentiment across the Empire.
+modern_impact: The state funeral marks the formal mourning period and strengthens
+  anti-NMLA sentiment across the Empire.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -32,7 +37,10 @@ related_uuids:
 - 31b4d802-4b3f-57f3-bc15-35276b2cf0b1
 - 66aa5796-1028-5707-8ed1-7049881273b8
 - f3b96ffc-d73d-5225-b720-e60ad7d17698
+- 07f4c3e2-ca2b-55cc-9321-3c0cdefa1f74
+- 1d006eb4-9159-5609-8a8f-bffcce9793b8
 ---
+
 
 **Pilots Federation ALERT: For The attention of all Commanders** 
 

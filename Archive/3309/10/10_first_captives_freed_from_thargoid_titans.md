@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 The first humans rescued from the Thargoid motherships have started to arrive, almost all of whom have so far survived extraction.
 The highly dangerous task requires using an upgraded pulse wave xeno scanner to detect human life signs on the Titans. The new sub-surface extraction missiles then target and jettison the bio-storage capsules – as the structures are officially designated – which are then recovered using a cargo scoop. 
 All recovered individuals are being assessed by medical specialists. The tri-superpower agency Aegis released this statement to the media: 

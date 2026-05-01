@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 Emperor Arissa Lavigny-Duval has made a public announcement for the first time since the Battle of HIP 22460.
 In an address before the Senate, which was broadcast on all Imperial networks, she stated:
 “Our endeavour in the HIP 22460 system was a noble one, born from our duty to defend Imperial citizens against the Thargoid threat. We honour the crews of the INV Audacious Dream, INV Illustrious Fortune and INV Paramount, as well as other auxiliaries and volunteers who fought against overwhelming odds. Their names will be remembered.”

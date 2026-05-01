@@ -4,8 +4,13 @@ title: 'Azimuth: A Historical Perspective (Part Four)'
 slug: azimuth_a_historical_perspective_part_four
 date: '3308-06-28'
 source: API
-summary: Part four traces the escalating rivalry between Aegis and Salvation, Admiral Tanner's failed assault on Hind Mine and court martial, the simultaneous invasions of Delphi, Maia and Merope, and the discovery of Alexandria debris revealing Azimuth's survival.
-player_impact: Pilots supported Taurus Mining Ventures in defending Hind Mine against Tanner's assault and participated in operations during the Delphi, Maia and Merope invasions.
+summary: Part four traces the escalating rivalry between Aegis and Salvation, Admiral
+  Tanner's failed assault on Hind Mine and court martial, the simultaneous invasions
+  of Delphi, Maia and Merope, and the discovery of Alexandria debris revealing Azimuth's
+  survival.
+player_impact: Pilots supported Taurus Mining Ventures in defending Hind Mine against
+  Tanner's assault and participated in operations during the Delphi, Maia and Merope
+  invasions.
 persons:
 - Aden Tanner
 - Morag Halloran
@@ -33,7 +38,10 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: The official authorisation of superpower naval crews to defect to Salvation's forces marked the point at which state militaries formally subordinated themselves to a corporate mercenary structure, dissolving the boundary between public and private warfare.
+modern_impact: The official authorisation of superpower naval crews to defect to Salvation's
+  forces marked the point at which state militaries formally subordinated themselves
+  to a corporate mercenary structure, dissolving the boundary between public and private
+  warfare.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +49,7 @@ related_uuids:
 - 8ff66371-3861-5214-b69f-432b6c200e2b
 - 7f805447-27c2-5fd5-8353-f45f651f911e
 ---
+
 
 A look at the rivalry between Aegis and Salvation during the escalating war against the Thargoids.
 Salvation’s success in purging the Thargoid presence from the Cornsar system had many repercussions, not least from the aliens themselves. Several inhabited nebulas were suddenly overrun with Thargoid vessels, leading some to believe they were reacting aggressively to the Guardian-based nature of the anti-xeno superweapon.

@@ -36,7 +36,12 @@ significance: high
 related_uuids:
 - 1ca3cd15-8700-5e94-95fd-88bb1b7effa3
 - 3f9a5fbe-232a-5154-ad44-a485d7871a06
+- 9c1b7b5b-4003-5761-a8d8-5510a0b33343
+- 09bdebd7-b231-5430-9b4d-4cd6ec831e6b
+- eafee362-5cd2-5695-92e8-6e36bd423651
+- a0f85f5b-29f4-57f8-8465-c48859534fbb
 ---
+
 
 
 A member of The Council of Admirals, Which commands the Alliance Defence Force, has been murdered. The League of Reparation has claimed responsibility. 

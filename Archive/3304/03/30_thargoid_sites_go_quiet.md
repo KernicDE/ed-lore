@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Admiral Aden Tanner, Aegis’s chief military liaison, has released a statement concerning The Thargoid structures currently under surveillance in the Pleiades Nebula. 
 
 “Undoubtedly, the most positive outcome of Our Eagle Eye initiative is that it has allowed us to determine Which locations the Thargoids intend to attack. This has proved invaluable in our ongoing fight against the Thargoids.” 

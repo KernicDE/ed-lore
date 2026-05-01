@@ -34,7 +34,9 @@ related_uuids:
 - 147a3c1e-ea2e-582c-8b5c-676b3075f426
 - a4e56a0c-8ed6-5ea0-8470-d26ed7eb10ac
 - bb92f6c0-0def-564c-9b52-f2f1c75fc853
+- 6ff3de2d-b9ea-5bba-8292-3fb89b446bff
 ---
+
 
 
 Recent activities by the Kumo Crew syndicate in the California Nebula have been formally condemned by the Alliance.

@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Ever since Jaques Station arrived in Eol Prou RS-T d3-94 in June, thousands of galactic citizens have migrated to the system in search of a new way of life. The migration movement has resulted In a number of new outposts in the region, as well as a chain of stations connecting the burgeoning community With the core systems. 
 
 With the colony now firmly established in Eol Prou RS-T d3-94 – recently renamed Colonia – the system's governing body, the Colonia Council, has announced plans to colonise the surrounding systems. 

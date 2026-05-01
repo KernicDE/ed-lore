@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 **Pilots' Federation Alert**
 The Pilots' Federation has confirmed that licensed Commanders will be granted access to the HIP 87621 system by October Consortium.
 The unexpected move has followed weeks of speculation surrounding HIP 87621, with growing interest from all three superpowers piling pressure on the megacorp. A spokesperson from within the Pilots' Federation stated:

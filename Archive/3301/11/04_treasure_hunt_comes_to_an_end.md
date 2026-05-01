@@ -4,7 +4,9 @@ title: Treasure Hunt Comes to an End
 slug: treasure_hunt_comes_to_an_end
 date: '3301-11-04'
 source: GitHub
-summary: Alfred Jeffress's treasure hunt concludes with Commander Woodhouse as the winner; competitors solved riddles leading to Slipher Hub in Faust 68, Dickensport in Fomalhaut, and finally the Cernunnos system.
+summary: Alfred Jeffress's treasure hunt concludes with Commander Woodhouse as the
+  winner; competitors solved riddles leading to Slipher Hub in Faust 68, Dickensport
+  in Fomalhaut, and finally the Cernunnos system.
 player_impact: None
 persons:
 - Alfred Jeffress
@@ -20,10 +22,18 @@ topics:
 - sport
 - treasure hunt
 technologies: []
-modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving across the galaxy.
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
+  across the galaxy.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 2d450c9e-2f18-586a-beda-c62b157a844a
+- f443590c-881e-59e8-b72f-a42a0aac5f34
+- 397d45f7-7c9d-578a-b2ba-e943e1092f2a
+- bf999950-89b6-5977-b23d-5a510676cd4f
+- 29f1ca40-0673-5961-9ad1-b07164a6538f
 ---
+
 
 The treasure hunt organised by the billionaire and philanthropist Alfred Jeffress has come to an end, With a pilot by the name of Commander Woodhouse claiming victory. Hundreds of people took part in the competition, but ultimately there could only be One victor. 
 

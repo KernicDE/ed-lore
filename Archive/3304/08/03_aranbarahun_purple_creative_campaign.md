@@ -4,8 +4,12 @@ title: Aranbarahun Purple Creative Campaign
 slug: aranbarahun_purple_creative_campaign
 date: '3304-08-03'
 source: GitHub
-summary: Aranbarahun Purple Creative announces plans to build a massive cargo ship to transport goods from the booming Aranbarahun system. An open order is placed for various commodities to be delivered to Barnes Terminal in the Aranbarahun system, with a kill order on wanted ships to protect traders.
-player_impact: Independent pilots can deliver commodities to Barnes Terminal in the Aranbarahun system and earn rewards. The campaign runs for one week.
+summary: Aranbarahun Purple Creative announces plans to build a massive cargo ship
+  to transport goods from the booming Aranbarahun system. An open order is placed
+  for various commodities to be delivered to Barnes Terminal in the Aranbarahun system,
+  with a kill order on wanted ships to protect traders.
+player_impact: Independent pilots can deliver commodities to Barnes Terminal in the
+  Aranbarahun system and earn rewards. The campaign runs for one week.
 persons: []
 groups:
 - Aranbarahun Purple Creative
@@ -15,12 +19,15 @@ locations:
 topics:
 - construction
 - trade
-modern_impact: The cargo ship project addresses infrastructure needs in a booming system, demonstrating how independent organisations leverage pilot networks for economic expansion.
+modern_impact: The cargo ship project addresses infrastructure needs in a booming
+  system, demonstrating how independent organisations leverage pilot networks for
+  economic expansion.
 legacy_weight: 2
 significance: low
 related_uuids:
 - b8029316-f01c-590a-9636-eb301fa8a07b
 ---
+
 
 Aranbarahun Purple Creative, an Independent organisation based in The Aranbarahun system, has announced plans to build a massive cargo ship to transport goods out of the booming system. 
 

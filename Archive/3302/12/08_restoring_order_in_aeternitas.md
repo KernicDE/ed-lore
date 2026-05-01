@@ -4,8 +4,11 @@ title: Restoring Order in Aeternitas
 slug: restoring_order_in_aeternitas
 date: '3302-12-08'
 source: GitHub
-summary: Aeternitas Industries has issued a kill order on wanted ships in the Aeternitas system to counter a sharp rise in criminal activity disrupting trade and attacking pilots.
-player_impact: Hunt wanted ships in the Aeternitas system and deliver bounty vouchers to Houtman City for rewards.
+summary: Aeternitas Industries has issued a kill order on wanted ships in the Aeternitas
+  system to counter a sharp rise in criminal activity disrupting trade and attacking
+  pilots.
+player_impact: Hunt wanted ships in the Aeternitas system and deliver bounty vouchers
+  to Houtman City for rewards.
 persons: []
 groups:
 - Aeternitas Industries
@@ -16,10 +19,16 @@ topics:
 - crime
 - trade
 technologies: []
-modern_impact: Security campaign restoring order in the Aeternitas system through pilot-supported bounty hunting.
+modern_impact: Security campaign restoring order in the Aeternitas system through
+  pilot-supported bounty hunting.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 7c5e05a8-dc09-5831-beee-c9f482e00095
+- 3422afa3-30f2-5ba6-a072-d7dde266572f
+- fdd4cfda-950a-5d9a-b1bc-6d7b62bdd288
 ---
+
 
 Authorities in The Aeternitas system have reported a sharp increase in The number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 

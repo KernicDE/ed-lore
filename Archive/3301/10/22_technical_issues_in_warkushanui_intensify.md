@@ -27,7 +27,11 @@ significance: medium
 related_uuids:
 - ad64e49b-87f3-5290-852b-7ba4de078c47
 - ec6f3cdd-077e-53df-b05f-f21109ad0a05
+- 552130f9-8b71-57cb-9dcf-80848c4861b5
+- 05d77299-2947-5ff2-86c6-711587f7fb24
+- e2e14bf4-f9e6-5257-9cc9-5bd8fa45f896
 ---
+
 
 
 Recent reports from The Warkushanui system suggest that the technical issues affecting the region are worsening. According to the Federal Times, Which spoke With station personnel at Gurragchaa Gateway, starports throughout the system are experiencing a range of inexplicable mechanical problems. A technician at Gurragchaa Gateway said: 

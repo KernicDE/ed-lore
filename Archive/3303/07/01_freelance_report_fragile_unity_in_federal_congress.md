@@ -36,7 +36,10 @@ significance: high
 related_uuids:
 - 85f8251c-1f9c-51b8-8b2e-60d29b31160b
 - ead544be-f2bf-5990-acd3-d8339a90699f
+- 043b09cb-a215-572d-93dd-9554ec2ca250
+- c7d03263-c11f-5f80-aef4-c7ca6c341238
 ---
+
 
 
 Following disturbing reports of attacks on Federal ships in The Pleiades Nebula, the partisan rancour that often characterises Federal Congress has faded into the background as both Republican and Liberal members of congress rally around President Zachary Hudson. Rumours that the attacks were perpetrated by the Thargoids abound, prompting calls for increased military spending. 

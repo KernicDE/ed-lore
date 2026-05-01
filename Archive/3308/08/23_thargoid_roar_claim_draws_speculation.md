@@ -38,6 +38,7 @@ related_uuids:
 
 
 
+
 An independent journalist has suggested that some survivors of the Battle of HIP 22460 heard a strange alien sound of unknown origin.
 Flint ‘Firemaker’ Lafosse published his theories via the Rewired network:
 “Only a handful of crewmembers rescued from HIP 22460 managed to give garbled first-hand accounts before being placed under military quarantine. Naturally, most talked about how those damn bugs wiped out almost everyone. But a few mentioned something bizarre heard shortly after the Thargoid counter-attack.”

@@ -30,7 +30,15 @@ legacy_weight: 2
 significance: low
 locations: []
 technologies: []
+related_uuids:
+- c6ad335b-e800-558b-8000-dc2fcc040210
+- 0c4e2c35-5b73-53f5-9536-c931cc82ea12
+- 9b8e3164-1ff4-53b1-a9a9-98345feffa3f
+- 99a40044-3a86-5461-91a1-da2156ab2f0b
+- 62af4a63-c187-5f32-a237-8f4108056a43
+- 2f7e24df-fc8c-5940-ab8a-2621b0233533
 ---
+
 
 
 Francesca Wolfe of The Wallglass Investigations Agency provides an inside view of the Jokers’ Deck gambling circle.

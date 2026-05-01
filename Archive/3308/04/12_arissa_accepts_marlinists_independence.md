@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Following a referendum by The Marlinist Colonies, Emperor Arissa Lavigny-Duval has formally recognised their autonomous status.
 Prime Consul Kayode Tau of the Marlinist Consulate reported on his latest meeting With the Emperor:
 “Her Majesty was clearly uncomfortable With the democratic way in Which the ex-Imperial citizens in the colonies now govern themselves. But she gracefully acknowledged that the Marlinist population had declined her invitation to become an Imperial protectorate, and would thus remain Independent.”

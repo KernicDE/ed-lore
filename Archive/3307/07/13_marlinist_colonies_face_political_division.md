@@ -4,7 +4,11 @@ title: Marlinist Colonies Face Political Division
 slug: marlinist_colonies_face_political_division
 date: '3307-07-13'
 source: API
-summary: The formation of the Marlinist Consulate triggers political instability. Verity Dexter (Marlinism Reformation Party) and Kayode Tau (Free Marlinist Movement) compete to become prime consul. Senator Scordato champions Dexter's bid for Imperial patronage, which Chancellor Blaine approves. First Minister Fairfax urges Whyte to cease representing the NMLA.
+summary: The formation of the Marlinist Consulate triggers political instability.
+  Verity Dexter (Marlinism Reformation Party) and Kayode Tau (Free Marlinist Movement)
+  compete to become prime consul. Senator Scordato champions Dexter's bid for Imperial
+  patronage, which Chancellor Blaine approves. First Minister Fairfax urges Whyte
+  to cease representing the NMLA.
 player_impact: None directly; this is a political analysis piece.
 persons:
 - Lorcan Scordato
@@ -32,7 +36,9 @@ topics:
 - terrorism
 technologies: []
 arc_id: marlinist-refugee
-modern_impact: The Marlinist Consulate election becomes a referendum on whether the colonies will align with the NMLA's political wing or maintain independence from extremism, with implications for Empire-Marlinist relations.
+modern_impact: The Marlinist Consulate election becomes a referendum on whether the
+  colonies will align with the NMLA's political wing or maintain independence from
+  extremism, with implications for Empire-Marlinist relations.
 legacy_weight: 4
 significance: medium
 related_uuids:
@@ -40,6 +46,7 @@ related_uuids:
 - 8c3140cd-6610-5192-9d89-5355c56241dc
 - d3cdfef9-79b2-5007-9569-61a2ea0ec0fa
 ---
+
 
 The Marlinist Consulate, established to represent Marlinists across the galaxy, has triggered political instability among the colonies.
 Local newsfeed The Marlin Standard detailed the situation:

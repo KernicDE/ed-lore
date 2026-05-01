@@ -4,7 +4,10 @@ title: Senators Support Nova Imperium
 slug: senators_support_nova_imperium
 date: '3304-12-01'
 source: GitHub
-summary: Several Imperial senators publicly endorse the isolationist group Nova Imperium. Senator Pal Vespasian states that many view Nova Imperium as realists rather than extremists, announces plans to invite Imperator Mordanticus to address the Senate, and declares full backing for the group's proposal to install a new Emperor.
+summary: Several Imperial senators publicly endorse the isolationist group Nova Imperium.
+  Senator Pal Vespasian states that many view Nova Imperium as realists rather than
+  extremists, announces plans to invite Imperator Mordanticus to address the Senate,
+  and declares full backing for the group's proposal to install a new Emperor.
 player_impact: None
 persons:
 - Pal Vespasian
@@ -14,13 +17,16 @@ groups:
 topics:
 - politics
 - succession
-modern_impact: The open support of Imperial senators for Nova Imperium signals a deepening political crisis within the Empire and legitimises the isolationist movement as a serious political force.
+modern_impact: The open support of Imperial senators for Nova Imperium signals a deepening
+  political crisis within the Empire and legitimises the isolationist movement as
+  a serious political force.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 31f767a5-94dc-53cf-ba91-407794f301dc
 - e9ba1e32-22ee-5764-816f-cb9a399539ab
 ---
+
 
 Several Imperial senators have spoken in support of isolationist group Nova Imperium. 
 

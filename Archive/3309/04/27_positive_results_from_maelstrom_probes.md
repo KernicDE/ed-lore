@@ -43,6 +43,7 @@ related_uuids:
 ---
 
 
+
 Aegis’s prototype Thargoid pulse neutralisers have succeeded in allowing transit through the energy surge at the centre of a Maelstrom.
 Professor Alba Tesreau made the official statement:
 “Several remote-controlled probes outfitted with Thargoid pulse neutralisers were launched into the Taranis Maelstrom. The colossal electromagnetic pulse generated within the clouds should have repulsed them, but feedback confirms the probes were insulated from its effects.”

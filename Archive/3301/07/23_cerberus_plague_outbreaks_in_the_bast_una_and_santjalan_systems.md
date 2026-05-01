@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Reports that the Cerberus Plague has reached Hart Station in the Bast system, Hoard Orbital in the Una system and Cantor Terminal in the Santjalan system is causing fear amongst the population. So Far a cure hasn’t been Found for This disease despite the continuing work of Carl Simmons, the Chief Medical Officer of Newton Dock, and medical teams in the surrounding systems. In a statement he reiterated that people should remain at home. 
 
 Hospitals and care facilities in these systems are already overloaded as The number of infected people rapidly rises. Volunteers and local security personnel are aiding the health services in managing the crisis as well as trying to maintain the rule of law. 

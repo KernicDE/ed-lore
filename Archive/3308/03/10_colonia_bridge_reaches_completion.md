@@ -4,8 +4,10 @@ title: Colonia Bridge Reaches Completion
 slug: colonia_bridge_reaches_completion
 date: '3308-03-10'
 source: API
-summary: The Colonia Bridge project concludes successfully with all starport services installed.
-player_impact: Pilots who contributed received rewards and naming invitations for the new starports.
+summary: The Colonia Bridge project concludes successfully with all starport services
+  installed.
+player_impact: Pilots who contributed received rewards and naming invitations for
+  the new starports.
 groups:
 - Brewer Corporation
 - Canonn
@@ -20,10 +22,19 @@ topics:
 - exploration
 - humanitarian
 arc_id: null
-modern_impact: '"Brewer Corporation''s project to improve travel between the core systems and Colonia region has successfully concluded." The completed Colonia Bridge permanently reduces the logistical barriers to deep-space settlement and exploration.'
+modern_impact: '"Brewer Corporation''s project to improve travel between the core
+  systems and Colonia region has successfully concluded." The completed Colonia Bridge
+  permanently reduces the logistical barriers to deep-space settlement and exploration.'
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 0377cb77-df5d-5d2f-9e79-121abe877a31
+- 0e12eeff-5c39-5497-9c8f-6709814786be
+- 278d7924-2868-5862-8a08-2dda0d9462e2
+- c51dda76-58cf-516a-98a9-51c91b991b75
+- b1468c62-8abd-578a-be2b-1bd2f4f4a6d5
 ---
+
 
 **Pilots’ Federation ALERT**
 Brewer Corporation’s project to improve travel between The core systems and Colonia region has successfully concluded.

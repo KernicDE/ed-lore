@@ -32,7 +32,9 @@ significance: medium
 related_uuids:
 - db64d9bc-0b05-540c-8b4a-bb5c228f4b93
 - fb859302-3d0f-5a84-84a2-c4708da965c6
+- 12f4da65-9c2d-59ce-963c-ee406bf4c1b7
 ---
+
 
 
 For The past few months, a development group founded by the Explorer's Association has been working on plans to build a starport in the Pleiades Nebula. Now, it appears the plans are about to become reality. A spokesperson from the Explorer's Association made The following statement: 

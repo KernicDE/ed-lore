@@ -4,8 +4,11 @@ title: Galactic News  Imperial Initiative Comes to an End
 slug: galactic_news_imperial_initiative_comes_to_an_end
 date: '3302-09-01'
 source: GitHub
-summary: Admiral Denton Patreus announced the successful conclusion of an Imperial initiative to construct three new Majestic-class Interdictors, coordinated by the Morai Nobles with supplies delivered to van de Hulst Vision in the Morai system.
-player_impact: Pilots who contributed can collect their rewards from van de Hulst Vision in the Morai system.
+summary: Admiral Denton Patreus announced the successful conclusion of an Imperial
+  initiative to construct three new Majestic-class Interdictors, coordinated by the
+  Morai Nobles with supplies delivered to van de Hulst Vision in the Morai system.
+player_impact: Pilots who contributed can collect their rewards from van de Hulst
+  Vision in the Morai system.
 persons:
 - Denton Patreus
 groups:
@@ -15,10 +18,18 @@ locations:
 - van de Hulst Vision
 technologies:
 - Majestic-class Interdictor
-modern_impact: Imperial capital ship construction demonstrates the Empire's ongoing military expansion and industrial capacity.
+modern_impact: Imperial capital ship construction demonstrates the Empire's ongoing
+  military expansion and industrial capacity.
 legacy_weight: 2
 significance: low
+related_uuids:
+- fdb0f269-2b70-5fb4-9829-4ea6d66e35b1
+- fc51d3ef-3b90-5a4f-93af-3e07e999addf
+- 0f930bc1-8f0a-5a9d-8c3d-f4b39f8c495f
+- 8a4e4ba1-b0d5-594a-9b71-383222dea700
+- 81625d4e-49d9-593d-8721-8beeb648005c
 ---
+
 
 Admiral Denton Patreus has announced that The Imperial appeal for construction materials has reached a successful conclusion. A spokesperson for the Morai Nobles, Which helped to coordinate the campaign, confirmed that scores of Imperial pilots supported the initiative to construct three new Majestic-class Interdictors by delivering supplies to van de Hulst Vision in the Morai system. 
 

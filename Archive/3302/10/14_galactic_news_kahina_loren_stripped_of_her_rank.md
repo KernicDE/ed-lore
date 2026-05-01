@@ -27,7 +27,11 @@ significance: low
 related_uuids:
 - 15d39a40-5122-58f0-b7a5-ee7f0b5cf13a
 - d240f09b-07c5-5666-ae5b-289b6ddd0d6b
+- efba1015-6ea0-5845-8243-79542721d229
+- d3424148-f4c6-5a28-8527-92aae8d706ad
+- 711fc129-123c-5c34-846b-b481c2f27728
 ---
+
 
 
 Kahina Tijani Loren has been stripped of The rank of senator for delegating her responsibilities in respect of the Prism system to Ambassador Cuthrick Delaney in 3301. 

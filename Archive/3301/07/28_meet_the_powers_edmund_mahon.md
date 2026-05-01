@@ -32,7 +32,12 @@ significance: medium
 related_uuids:
 - 148bcbc5-bd79-5fbf-ab67-4020c24a0ca8
 - 7d013785-9418-5c04-8446-8e8dca9a7e51
+- 50cc2603-0e0e-5a65-959a-167768911425
+- 9f8a71d4-e5b2-5d70-8887-897ae3a03eb6
+- 2434fab9-6993-5ea4-9e9b-7e8e839ada9a
+- b1d1a750-565c-5b78-b645-eaa9906728f6
 ---
+
 
 
 Continuing This GalNet exclusive series, political commentator Marcus Macmillan writes about some of the movers and shakers in 3301. In This third article he looks at Alliance Prime Minister Edmund Mahon. 

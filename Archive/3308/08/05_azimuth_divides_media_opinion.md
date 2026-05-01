@@ -35,7 +35,9 @@ related_uuids:
 - 45b84dea-4293-588d-963a-38ee1b061eb5
 - b8b1752e-3808-5805-a594-5fb18505ae4e
 - fc61ac94-0fd3-59ea-8fb4-140ec7aa7040
+- de7b4f38-c24a-586a-9b4c-3c43dff0681a
 ---
+
 
 
 Editorial pieces published by newsfeeds across the core systems illustrate a range of viewpoints on current events in HIP 22460.

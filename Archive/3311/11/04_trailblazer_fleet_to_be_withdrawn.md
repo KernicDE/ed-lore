@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Brewer Corporation has announced plans to reassign its Trailblazer megaship fleet, citing the self-sufficiency of newly established colonies.
 The Trailblazer vessels were deployed to provide logistical support and essential resources to independent colonisation initiatives at the edge of inhabited space. Their presence has been credited with accelerating the construction of ports and surface settlements throughout the past year.
 Mark Rennik, Chief Operating Officer for Brewer Corporation, issued a statement of commendation:

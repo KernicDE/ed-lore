@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 Leaders from The Alliance, Empire and Federation have agreed a series of minor treaties at the diplomatic gathering in The Sirius system.
 Vox Galactica featured This report from political correspondent Conrad Sterling:
 “Following days of heated arguments, temperatures in the conference chamber finally cooled enough for All three superpowers to formalise a raft of agreements. These were ratified in person by Chancellor Blaine, President Hudson and Prime Minister Mahon.”

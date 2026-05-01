@@ -4,8 +4,15 @@ title: The Dukes of Mikunn Unveil Mercenary's Respite
 slug: the_dukes_of_mikunn_unveil_mercenarys_respite
 date: '3301-06-08'
 source: GitHub
-summary: The Dukes of Mikunn opened Mercenary's Respite, a new Coriolis station in COL 285 Sector VG-1 B24-6, renamed 'Sefrys' in honour of a fallen Mercs commander. Over 1 million tonnes of metal were collected in Kwatee for construction. Delays were caused by remoteness from high-tech hubs and bureaucratic obstruction by the Law Party of HR 7327, who had initially offered assistance as part of a cease-fire. Ironically, the Law Party lost an election to the Dukes during the truce, giving the Dukes control of both HR 7327 and the new system.
-player_impact: Pilots can visit Mercenary's Respite in Sefrys for business with the Dukes of Mikunn and Mercenaries of Mikunn.
+summary: The Dukes of Mikunn opened Mercenary's Respite, a new Coriolis station in
+  COL 285 Sector VG-1 B24-6, renamed 'Sefrys' in honour of a fallen Mercs commander.
+  Over 1 million tonnes of metal were collected in Kwatee for construction. Delays
+  were caused by remoteness from high-tech hubs and bureaucratic obstruction by the
+  Law Party of HR 7327, who had initially offered assistance as part of a cease-fire.
+  Ironically, the Law Party lost an election to the Dukes during the truce, giving
+  the Dukes control of both HR 7327 and the new system.
+player_impact: Pilots can visit Mercenary's Respite in Sefrys for business with the
+  Dukes of Mikunn and Mercenaries of Mikunn.
 persons:
 - Sefrys
 groups:
@@ -21,10 +28,15 @@ locations:
 topics:
 - construction
 - community
-modern_impact: Opening of Mercenary's Respite establishes a new player-built station and consolidates Dukes of Mikunn control over two systems.
+modern_impact: Opening of Mercenary's Respite establishes a new player-built station
+  and consolidates Dukes of Mikunn control over two systems.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 8fe8b75e-717d-564c-91bf-cb5f7ca31ff0
+- eb40a05b-a11a-58c5-b75e-7c9fb817f0d0
 ---
+
 
 Thanks to the efforts of the Mercenaries of Mikunn, who were assisted in their endeavour to colonise a previously uninhabited region of space by Hundreds of Independent commanders, the Dukes of Mikunn are pleased to announce the opening of a new station in the area previously known as COL 285 Sector VG-1 B24-6.  
 

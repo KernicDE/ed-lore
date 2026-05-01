@@ -33,6 +33,7 @@ related_uuids:
 
 
 
+
 President Zachary Hudson has announced that today is a Federal day of remembrance for those lost in HIP 22460 on August 9th.
 In a public address, the president formally acknowledged the recent tragedy:
 “The Battle of HIP 22460 is a dark day in our interstellar nation’s history. The crews of the FNS Bombardier, FNS Fortitude and FNS Varian Scott gave their lives with dignity and honour, as did many other courageous individuals. They will never be forgotten for as long as the Federation endures.”

@@ -31,7 +31,10 @@ significance: high
 related_uuids:
 - aa23706c-4b90-5e7d-a990-a2999a9ad379
 - abe21c6e-54ed-5aed-a221-7efd675d35c
+- 4d13f85d-d14e-58df-a03e-2c68ee8c632a
+- 1813d631-33ed-5369-bbd2-74800ea6f185
 ---
+
 
 
 Speaking at the graduation ceremony of the prestigious Naval Academy of Achenar, Senator Arissa Lavigny-Duval announced her campaign to liberate the 5.6 billion Imperial citizens scattered throughout the Pegasi sector. 

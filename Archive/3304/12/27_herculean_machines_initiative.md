@@ -4,8 +4,13 @@ title: Herculean Machines Initiative
 slug: herculean_machines_initiative
 date: '3304-12-27'
 source: GitHub
-summary: The Federal Navy requests a large shipment of Duradrive personal computers from Herculean Machines. CEO Maddox Hurd announces an urgent need for consumer technology, hardware diagnostic sensors, and computer components to be delivered to Boltzmann Hub in the Blatrimpe system. The Blatrimpe Allied Co Commodities coordinates the campaign and protects traders from wanted ships.
-player_impact: Independent pilots can deliver commodities to Boltzmann Hub in the Blatrimpe system to help fulfil the Federal Navy order and earn rewards.
+summary: The Federal Navy requests a large shipment of Duradrive personal computers
+  from Herculean Machines. CEO Maddox Hurd announces an urgent need for consumer technology,
+  hardware diagnostic sensors, and computer components to be delivered to Boltzmann
+  Hub in the Blatrimpe system. The Blatrimpe Allied Co Commodities coordinates the
+  campaign and protects traders from wanted ships.
+player_impact: Independent pilots can deliver commodities to Boltzmann Hub in the
+  Blatrimpe system to help fulfil the Federal Navy order and earn rewards.
 persons:
 - Maddox Hurd
 groups:
@@ -17,10 +22,19 @@ locations:
 topics:
 - corporate expansion
 - trade
-modern_impact: The Federal Navy's standardisation on Duradrive computers signals a significant government contract for Herculean Machines and may influence personal computing procurement across Federal agencies.
+modern_impact: The Federal Navy's standardisation on Duradrive computers signals a
+  significant government contract for Herculean Machines and may influence personal
+  computing procurement across Federal agencies.
 legacy_weight: 2
 significance: low
+related_uuids:
+- bfe64ab3-bf9f-5fb7-b218-e64ac5673997
+- edc6a752-983e-55f3-b481-d2d75ce1e949
+- 23beeed6-390e-5fd6-9dc6-e8f928c68a88
+- 04a5fba0-8d5e-5ae3-9aa5-fb2d7767e7a5
+- a3e39e45-ff53-5d20-8eab-14ecd7b2b96a
 ---
+
 
 The Federal Navy has requested a large shipment of Duradrive personal computers from manufacturer Herculean Machines. 
 

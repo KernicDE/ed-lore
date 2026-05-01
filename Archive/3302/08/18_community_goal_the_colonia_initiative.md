@@ -30,7 +30,9 @@ significance: high
 related_uuids:
 - b9be1738-ac61-536b-8b50-d9dc091e5147
 - cc368b7d-06ac-5261-9a3c-5f8dbd8d8750
+- 8ad75ee9-b942-5e77-9019-b89a5faa2700
 ---
+
 
 
 The Colonia Nebula is a relatively innocuous region of space encompassing the Eol Prou RS-T d3-94 system. It is also likely to become a major bastion of humanity in the years to come. 

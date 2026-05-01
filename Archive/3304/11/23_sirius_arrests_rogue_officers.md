@@ -4,7 +4,11 @@ title: Sirius Arrests Rogue Officers
 slug: sirius_arrests_rogue_officers
 date: '3304-11-23'
 source: GitHub
-summary: Sirius Corporation confirms that a cabal of junior officers from its private fleet, with mercenary aid, orchestrated an illegal raid on Phoenix Base in the Meene system. CEO Li Yong-Rui states the officers acted without official knowledge and face multiple charges including potential life imprisonment. He apologises to Ram Tah and expresses hope for future collaboration on Guardian-human technology.
+summary: Sirius Corporation confirms that a cabal of junior officers from its private
+  fleet, with mercenary aid, orchestrated an illegal raid on Phoenix Base in the Meene
+  system. CEO Li Yong-Rui states the officers acted without official knowledge and
+  face multiple charges including potential life imprisonment. He apologises to Ram
+  Tah and expresses hope for future collaboration on Guardian-human technology.
 player_impact: None
 persons:
 - Li Yong-Rui
@@ -20,7 +24,9 @@ topics:
 - crime
 - investigation
 - xenoarchaeology
-modern_impact: Sirius's arrest of rogue officers attempts to contain reputational damage, but the incident permanently stains the corporation's image and raises ongoing questions about internal oversight of private military operations.
+modern_impact: Sirius's arrest of rogue officers attempts to contain reputational
+  damage, but the incident permanently stains the corporation's image and raises ongoing
+  questions about internal oversight of private military operations.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -30,6 +36,7 @@ related_uuids:
 - db332136-804c-58df-89f9-2ab0eef65d11
 - 5ce245a3-6cab-529d-81eb-e7015b0bbe28
 ---
+
 
 The Sirius Corporation has responded to the revelation that members of Its private fleet coordinated a mercenary raid on the Meene system. 
 

@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 According to Aegis, their operation to monitor Thargoid activity in The Pleiades Nebula has already begun to show results.  
 
 Aegis released The following statement on behalf of Admiral Aden Tanner, their chief military liaison: 

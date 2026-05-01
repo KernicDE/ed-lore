@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Authorities in systems throughout The Pleiades Nebula have reported that the Federation has withdrawn Its ships from the region. The development follows ongoing speculation regarding the Federal-Imperial cold war. 
 
 The Federation first deployed ships to the Pleiades over two years ago, In a move that was widely interpreted as an attempt to control the region’s meta-alloys. The Empire responded by positioning Several Majestic-class Interdictors in the Pleiades. A period of hostility ensued, With both superpowers engaging in a number of proxy conflicts. 

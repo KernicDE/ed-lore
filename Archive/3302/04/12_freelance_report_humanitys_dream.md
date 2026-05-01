@@ -4,7 +4,10 @@ title: Freelance Report  Humanity's Dream
 slug: freelance_report_humanitys_dream
 date: '3302-04-12'
 source: GitHub
-summary: Pilots gather at the M. Gorbachev starport in the Sol system to commemorate the 1,341st anniversary of Yuri Gagarin's historic first flight into space. The annual event brings pilots from across the galaxy to celebrate humanity's achievement of touching the stars.
+summary: Pilots gather at the M. Gorbachev starport in the Sol system to commemorate
+  the 1,341st anniversary of Yuri Gagarin's historic first flight into space. The
+  annual event brings pilots from across the galaxy to celebrate humanity's achievement
+  of touching the stars.
 player_impact: None
 persons:
 - Stateira Eleshenar
@@ -23,7 +26,14 @@ topics:
 modern_impact: Infrastructure project with long-term benefits.
 legacy_weight: 2
 significance: low
+related_uuids:
+- a13a812b-0b6f-5ed2-a84f-05893db83bf5
+- 32b3485a-5b8b-5ec3-af24-ae8f69d54bd7
+- 9307ff89-10ea-5b2e-9eaa-6ddefc9f13b8
+- f1ef02de-ab68-50a4-83d6-dc7a02cb6842
+- 3cc047c7-84c3-5297-9555-7fd8778ae223
 ---
+
 
 On This date 1,341 years ago, humanity achieved a dream it had harboured for generations. For The first time, advanced rocket technology propelled a human being beyond the boundaries of Earth and into space. 
 

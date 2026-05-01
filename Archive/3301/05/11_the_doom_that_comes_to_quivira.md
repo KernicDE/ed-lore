@@ -4,8 +4,14 @@ title: The Doom That Comes To Quivira
 slug: the_doom_that_comes_to_quivira
 date: '3301-05-11'
 source: GitHub
-summary: Senator Denton Patreus officially declared war on Quivira, with thousands of Imperial vessels attacking non-Imperial ships. The People's Quivira for Equality Party evacuated millions of refugees to Summerland and Persephone, thanks to independent and Federal commanders including Maclolie, Tavok, Reliant, Morningstar and Aydro. Imperial Majestic class Interdictors have been spotted entering Quivira, as Patreus intends to drive all Independent influences from the system.
-player_impact: Pilots can help defend Quivira or assist in refugee evacuation efforts. Imperial forces are escalating with Majestic class Interdictors.
+summary: Senator Denton Patreus officially declared war on Quivira, with thousands
+  of Imperial vessels attacking non-Imperial ships. The People's Quivira for Equality
+  Party evacuated millions of refugees to Summerland and Persephone, thanks to independent
+  and Federal commanders including Maclolie, Tavok, Reliant, Morningstar and Aydro.
+  Imperial Majestic class Interdictors have been spotted entering Quivira, as Patreus
+  intends to drive all Independent influences from the system.
+player_impact: Pilots can help defend Quivira or assist in refugee evacuation efforts.
+  Imperial forces are escalating with Majestic class Interdictors.
 persons:
 - Denton Patreus
 - Commander Maclolie
@@ -25,10 +31,20 @@ locations:
 topics:
 - humanitarian
 - war
-modern_impact: Illustrates the humanitarian cost of Imperial debt enforcement and the role of independent pilots in evacuating civilians from war zones.
+modern_impact: Illustrates the humanitarian cost of Imperial debt enforcement and
+  the role of independent pilots in evacuating civilians from war zones.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 7bf69720-95f9-56be-9fda-89038c209f31
+- a1df68bc-c17b-54cf-8303-7f0f52c5ef5d
+- 3b2828cd-f5eb-53bf-bcc9-6d72fd69cb72
+- 1f283dc9-dd3d-5a85-9186-333245643fa1
+- 19cc9d6c-0c5e-5cf1-b735-d2829204507c
+- e2152afd-5961-5820-85e3-4bbb80c98c7d
+- 2dfaeb91-6521-5cf9-825a-b65f19b373fb
 ---
+
 
 For The last week Civil War has ravaged the Independent nation of Quivira. 
 

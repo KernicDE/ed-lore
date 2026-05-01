@@ -4,8 +4,15 @@ title: Gnosis Stranded
 slug: gnosis_stranded
 date: '3304-09-07'
 source: GitHub
-summary: The Gnosis, flagship of the Canonn Interstellar Research Group, is left stranded after a Thargoid hyperdiction during a jump toward the Cone Sector FN-J B9-0 system. Captain Mathius Leander reports that Thargoid vessels severely damaged multiple systems including the Frame Shift Drive. Independent pilots travelling with the Gnosis lured Thargoids away by ejecting meta-alloys. The Gnosis is adrift near the eighth planet of the Outotz ST-I d9-6 system, beginning repairs under threat of return.
-player_impact: Independent pilots travelling with the Gnosis helped defend the research vessel by luring Thargoids away with meta-alloys.
+summary: The Gnosis, flagship of the Canonn Interstellar Research Group, is left stranded
+  after a Thargoid hyperdiction during a jump toward the Cone Sector FN-J B9-0 system.
+  Captain Mathius Leander reports that Thargoid vessels severely damaged multiple
+  systems including the Frame Shift Drive. Independent pilots travelling with the
+  Gnosis lured Thargoids away by ejecting meta-alloys. The Gnosis is adrift near the
+  eighth planet of the Outotz ST-I d9-6 system, beginning repairs under threat of
+  return.
+player_impact: Independent pilots travelling with the Gnosis helped defend the research
+  vessel by luring Thargoids away with meta-alloys.
 persons:
 - Mathius Leander
 groups:
@@ -17,10 +24,19 @@ topics:
 - alien contact
 - research
 - exploration
-modern_impact: The Gnosis incident demonstrates the extreme danger of Thargoid hyperdictions in unexplored regions and highlights the vulnerability of scientific expeditions to alien interception.
+modern_impact: The Gnosis incident demonstrates the extreme danger of Thargoid hyperdictions
+  in unexplored regions and highlights the vulnerability of scientific expeditions
+  to alien interception.
 legacy_weight: 5
 significance: high
+related_uuids:
+- adca2dc7-45d7-58c5-b987-d0c360690515
+- a504555f-6e00-5f41-a0c3-2245cc13b797
+- a9ccd499-b9ef-5bb3-be68-dfb161b531b9
+- 9a4d1cb9-01d4-53f0-8c4a-07638499a300
+- ec6f3cdd-077e-53df-b05f-f21109ad0a05
 ---
+
 
 A scientific-research Vessel has been left stranded following a Thargoid attack. 
 

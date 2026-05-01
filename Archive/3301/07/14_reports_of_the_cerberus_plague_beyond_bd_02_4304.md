@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 The heroic efforts of the local authorities at Newton Dock in BD-02 4304, combined With Independent pilots from Far and wide, have slowed the outbreak affecting the local population.  
 
 Carl Simmons, the Chief Medical Officer of Newton Dock, responded to reports of Further infections in the Nearby systems: Dajoar, Eleu and 20 Ophiuchi. 

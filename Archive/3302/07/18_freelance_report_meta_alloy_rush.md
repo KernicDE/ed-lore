@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 As the Federation and Empire attempt to lay claim to The organic structures known as barnacles, the demand for meta-alloys has skyrocketed. Many starports have begun placing orders for the material as a hedge against potential malfunctions. 
 
 Vernon Trask, lead engineer at Bauschinger City, said: "Some stations have been defunct for nearly a year because of those corrosive Artefacts. We can't afford to be out of commission that long." 

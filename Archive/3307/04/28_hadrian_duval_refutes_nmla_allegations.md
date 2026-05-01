@@ -45,6 +45,7 @@ related_uuids:
 ---
 
 
+
 ACT has confirmed receiving evidence that NMLA attacks were orchestrated by Imperator Hadrian Augustus Duval, who immediately denied The claim.
 Landgrave Delacroix of the Neo-Marlinist Order of Mudhrid provided details to ACT that the isolationist group Nova Imperium is at the heart of the NMLA. In response, Hadrian Duval made This statement:
 “These accusations are completely false. Our political stance is the exact opposite of Marlinism, since we believe in restoring the Empire’s traditions. Nova Imperium forces even fought against the terrorists in Mudhrid, as required by the Treaty of Paresa.”

@@ -4,8 +4,13 @@ title: Pioneer Returns from the Depths
 slug: pioneer_returns_from_the_depths
 date: '3301-10-04'
 source: GitHub
-summary: Commander Kommodore returned from a ten-month journey to Sagittarius A* in an Eagle-class starship, cataloguing nearly 3,900 star systems and earning 123 million credits from Universal Cartographics. Core Dynamics expressed interest in permanently displaying the ship as a testament to the Eagle Mk II's durability.
-player_impact: Pilots can undertake extreme long-range exploration in small vessels. The journey demonstrates that even the Eagle Mk II can survive deep-space expeditions with proper preparation.
+summary: Commander Kommodore returned from a ten-month journey to Sagittarius A* in
+  an Eagle-class starship, cataloguing nearly 3,900 star systems and earning 123 million
+  credits from Universal Cartographics. Core Dynamics expressed interest in permanently
+  displaying the ship as a testament to the Eagle Mk II's durability.
+player_impact: Pilots can undertake extreme long-range exploration in small vessels.
+  The journey demonstrates that even the Eagle Mk II can survive deep-space expeditions
+  with proper preparation.
 persons:
 - Kommodore
 - Erimus
@@ -18,10 +23,18 @@ topics:
 - exploration
 technologies:
 - Eagle Mk II
-modern_impact: Notable exploration achievement demonstrating the capabilities of small ships on extreme long-range journeys.
+modern_impact: Notable exploration achievement demonstrating the capabilities of small
+  ships on extreme long-range journeys.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 9e750763-9346-5d86-907c-9b475b25570b
+- cb60156f-f6ad-543b-b549-c1f23472cfba
+- fada10ab-0ee9-59bc-a16d-aa4b916dc65c
+- 2ef47a0a-7b3e-5b95-ad44-740dd29c6b60
+- 14545674-aa1d-5393-9898-8326b7bf348b
 ---
+
 
 On the 5th of January 3301, an explorer by the name of Commander Kommodore set off to visit Sagittarius A* in his Eagle-class starship – the first known attempt to reach the core in such a Vessel. 
 

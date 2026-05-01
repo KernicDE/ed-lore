@@ -4,8 +4,14 @@ title: Core Dynamics Completes Work on New Capital Ship
 slug: core_dynamics_completes_work_on_new_capital_ship
 date: '3301-03-11'
 source: GitHub
-summary: Core Dynamics and the Federal Navy announced the FNS Nevermore, a Farragut-Class Battlecruiser. The FCB carries multiple squadrons of Federal Fighters and Federal Corvettes across hundreds of light years with extraordinarily heavy firepower. Commander Sam Ishum braved the blockade of BD+03 2338 to deliver 86,000 tonnes of copper to Hudson Dock. To celebrate, Core Dynamics supplied Hudson Dock with discounted Federal Dropships.
-player_impact: Pilots can purchase discounted Federal Dropships at Hudson Dock. The FNS Nevermore enhances Federal naval projection capabilities.
+summary: Core Dynamics and the Federal Navy announced the FNS Nevermore, a Farragut-Class
+  Battlecruiser. The FCB carries multiple squadrons of Federal Fighters and Federal
+  Corvettes across hundreds of light years with extraordinarily heavy firepower. Commander
+  Sam Ishum braved the blockade of BD+03 2338 to deliver 86,000 tonnes of copper to
+  Hudson Dock. To celebrate, Core Dynamics supplied Hudson Dock with discounted Federal
+  Dropships.
+player_impact: Pilots can purchase discounted Federal Dropships at Hudson Dock. The
+  FNS Nevermore enhances Federal naval projection capabilities.
 persons:
 - Commander Sam Ishum
 groups:
@@ -23,10 +29,20 @@ technologies:
 topics:
 - construction
 - war
-modern_impact: The FNS Nevermore represented a significant escalation in Federal capital ship capabilities, matching Imperial Majestic-class Interdictors.
+modern_impact: The FNS Nevermore represented a significant escalation in Federal capital
+  ship capabilities, matching Imperial Majestic-class Interdictors.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- f6b14119-9ca9-541e-ac5a-c0b07124e47e
+- a32a7693-c60a-50fa-87d9-09447bb36976
+- 9f89d17d-16f2-5dc1-a8dd-47a4dbc2f708
+- aa29bc1f-007a-5ba3-ba5a-e23925943e23
+- 92f2e8cd-c684-57e5-85b0-a1303b7bc740
+- 372139df-9e72-50dc-a03c-72bdef751ba2
+- fada10ab-0ee9-59bc-a16d-aa4b916dc65c
 ---
+
 
 Core Dynamics, in association With the Federal Navy, are pleased to announce The latest addition to The Federal capital ship family, the FNS Nevermore. 
 

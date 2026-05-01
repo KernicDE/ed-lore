@@ -23,6 +23,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Twin initiatives in The Alcor and Colonia systems have procured materials to construct new dockable megaships.
 Brewer Corporation made an announcement regarding Its Colonia Bridge project:

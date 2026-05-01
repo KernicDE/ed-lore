@@ -4,8 +4,10 @@ title: Neomedical Industries Onionhead Campaign Concludes
 slug: neomedical_industries_onionhead_campaign_concludes
 date: '3307-09-09'
 source: API
-summary: Neomedical Industries receives sufficient materials to produce Onionhead gamma strain as a medical treatment, despite Kumo Crew pirate attacks.
-player_impact: Pilots delivered H.E. suits, polymers, and robotics to Crippen Port and fought off pirate attacks.
+summary: Neomedical Industries receives sufficient materials to produce Onionhead
+  gamma strain as a medical treatment, despite Kumo Crew pirate attacks.
+player_impact: Pilots delivered H.E. suits, polymers, and robotics to Crippen Port
+  and fought off pirate attacks.
 persons:
 - Olwyn Kendrick
 groups:
@@ -16,10 +18,18 @@ topics:
 - corporate expansion
 - narcotics
 - piracy
-modern_impact: The medical applications of onionhead gamma strain remain under clinical study, with pharmaceutical companies competing for market control.
+modern_impact: The medical applications of onionhead gamma strain remain under clinical
+  study, with pharmaceutical companies competing for market control.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 23682552-0aec-5efe-a9ce-20cef8c81358
+- 4c6f7eab-f526-5149-8b03-49b8426a3243
+- 490a6c6c-10e8-5b7c-a26a-2ab8f5fbd2ee
+- e4dba0c4-21fc-5823-9986-a9218f891834
+- 9e8abda8-86a4-5b85-9b20-bd8a3bb4846f
 ---
+
 
 **Pilots Federation ALERT**
 The pharmaceutical megacorp has received sufficient materials to produce Onionhead gamma strain as a medical treatment.

@@ -28,7 +28,9 @@ significance: high
 related_uuids:
 - afc9a94b-b11c-56b0-8e7a-e5f9b450371b
 - e0dda51d-b10d-51a0-b45f-d3b564c37647
+- 9c2030cc-a2e5-5b66-80d0-bde8bb5bc3b8
 ---
+
 
 
 Following Shadow President Zachary Hudson’s call to have Congress issue a Vote of No Confidence against President Jasmina Halsey, Acting President Felicia Winters held a press conference outside Congress to address The Shadow President’s concerns about The future. 

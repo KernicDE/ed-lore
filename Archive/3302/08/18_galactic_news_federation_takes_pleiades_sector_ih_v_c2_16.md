@@ -30,6 +30,7 @@ related_uuids:
 
 
 
+
 Following a week of conflict, The Pleiades Resource Enterprise has confirmed that the Federation has taken control of the Pleiades Sector IH-V c2-16 system, having ousted the incumbent Imperial Inquisition. In a statement, a spokesperson for the organisation thanked the Many Federal pilots who took part in the operation. 
 
 "This victory brings With it the promise of a brighter tomorrow – a brighter tomorrow for the people of IH-V C2-16, who are now free from the dehumanising influence of the Empire, and a brighter tomorrow for the Federation, Which has gained a valuable strategic asset."

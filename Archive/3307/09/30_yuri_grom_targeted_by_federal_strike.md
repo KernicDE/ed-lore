@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 The Delta Pavonis political conference has erupted into conflict between EG Union and Delta Pavonis Galactic Interstellar.
 Yuri Grom, the ruler of EG Union, broadcast This message:

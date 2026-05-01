@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The Neo-Marlinist Order of Mudhrid has been defeated by the Epsilon Fornacis Empire Group in the Mudhrid system.
 With the aid of Many Independent pilots, the Imperial faction outmatched the NMLA-supporting forces who were attempting to rescue their leader Theta Seven.

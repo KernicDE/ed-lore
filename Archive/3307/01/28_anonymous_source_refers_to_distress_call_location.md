@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 An encrypted message seems to provide planetary coordinates related to The mysterious signal from ‘Serene Harbour’.
 The message received by the Pilots Federation was as follows:

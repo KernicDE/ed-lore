@@ -4,7 +4,11 @@ title: Computer Companies Resume Development
 slug: computer_companies_resume_development
 date: '3304-09-28'
 source: GitHub
-summary: Herculean Machines and Supratech resume development of their personal computers after successful public support campaigns. Journalist Harlow Nassry reports that both Maddox Hurd and Scorpio DeVorrow received enough materials to produce functional prototypes for the Rackham Ultratech Expo on October 3rd. Rackham Capital Investments and other sponsors will be watching closely, with Zachary Rackham himself attending.
+summary: Herculean Machines and Supratech resume development of their personal computers
+  after successful public support campaigns. Journalist Harlow Nassry reports that
+  both Maddox Hurd and Scorpio DeVorrow received enough materials to produce functional
+  prototypes for the Rackham Ultratech Expo on October 3rd. Rackham Capital Investments
+  and other sponsors will be watching closely, with Zachary Rackham himself attending.
 player_impact: None
 persons:
 - Harlow Nassry
@@ -21,14 +25,19 @@ topics:
 - corporate expansion
 - trade
 - technology
-modern_impact: The resumption of development turns the Rackham Ultratech Expo into a high-stakes showdown where prototype performance may determine the commercial success of both companies.
+modern_impact: The resumption of development turns the Rackham Ultratech Expo into
+  a high-stakes showdown where prototype performance may determine the commercial
+  success of both companies.
 legacy_weight: 2
 significance: low
 related_uuids:
 - a3e39e45-ff53-5d20-8eab-14ecd7b2b96a
 - 40649b8e-7efb-524e-910e-755101cfd020
 - e43008b8-1289-5c69-9d20-41b74e0e1ec1
+- 33ed0f71-7b49-5f6f-89eb-57bf7adef8d2
+- 60b7e81b-2c68-5123-9b6c-5a136ba41850
 ---
+
 
 Rival companies Herculean Machines and Supratech have resumed development of their new personal computers. 
 

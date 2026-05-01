@@ -4,8 +4,14 @@ title: The Hunt for Justice
 slug: the_hunt_for_justice
 date: '3301-04-20'
 source: GitHub
-summary: Senator Denton Patreus began debt reclamation against Kui Hsien after the Friends of Kui Hsien cooperative council, unable to repay arms debts incurred during their war with the Federal-aligned Future of LTT 911 Party, refused to meet financial demands. Despite local traders' efforts to stimulate the economy, Patreus authorised the Conservatives of BV Phoenicis to begin forfeiture. Imperial mercenaries can sign up for reclamation duty aboard Aoki Dock in BV Phoenicis.
-player_impact: Pilots can sign up as Imperial mercenaries for debt reclamation operations at Aoki Dock in BV Phoenicis.
+summary: Senator Denton Patreus began debt reclamation against Kui Hsien after the
+  Friends of Kui Hsien cooperative council, unable to repay arms debts incurred during
+  their war with the Federal-aligned Future of LTT 911 Party, refused to meet financial
+  demands. Despite local traders' efforts to stimulate the economy, Patreus authorised
+  the Conservatives of BV Phoenicis to begin forfeiture. Imperial mercenaries can
+  sign up for reclamation duty aboard Aoki Dock in BV Phoenicis.
+player_impact: Pilots can sign up as Imperial mercenaries for debt reclamation operations
+  at Aoki Dock in BV Phoenicis.
 persons:
 - Denton Patreus
 groups:
@@ -21,10 +27,20 @@ locations:
 - LTT 911
 topics:
 - war
-modern_impact: Another example of Patreus's debt-based military enforcement, demonstrating how Imperial power players exploited post-war economic devastation.
+modern_impact: Another example of Patreus's debt-based military enforcement, demonstrating
+  how Imperial power players exploited post-war economic devastation.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 6c24373e-fc48-5d7b-98ff-8b1626294f3f
+- 6ea3c20a-92c0-5584-b834-672a647e7270
+- cd44ff20-bbeb-5d6e-8b37-ca49aa0dd119
+- c079c37f-e398-5bbf-9e37-1f8e91cc2fcb
+- 9b0c5acc-846d-5387-8355-8be7235c1fea
+- 876e7bf2-06e6-5635-bd66-4a3deef5ca05
+- 27d242a2-36df-5bca-b701-6caaceb378f5
 ---
+
 
 Senator Patreus has today begun The process of sending his agents to reclaim the debt owed to him by the government of Kui Hsien. 
 

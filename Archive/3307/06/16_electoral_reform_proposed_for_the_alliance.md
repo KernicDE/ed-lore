@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 Councillor Nakato Kaine has suggested that The Alliance’s current electoral system should be replaced by direct public voting.
 The proposal follows a recent election where Prime Minister Edmund Mahon was reinstated for a second six-year term.
 Addressing the Alliance Assembly, Councillor Kaine said:

@@ -28,7 +28,9 @@ significance: high
 related_uuids:
 - 396f48c6-b935-5333-8a51-22db6e1a2f46
 - 70af58e7-b214-5dcd-bf59-336b6afce3be
+- 722fe641-dd51-5082-a7f8-ca2c80aabf61
 ---
+
 
 
 An increasing number of religious movements In the core systems are proclaiming that humanity is on the verge of destruction. 

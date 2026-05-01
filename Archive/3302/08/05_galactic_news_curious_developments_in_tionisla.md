@@ -4,7 +4,10 @@ title: Galactic News  Curious Developments in Tionisla
 slug: galactic_news_curious_developments_in_tionisla
 date: '3302-08-05'
 source: GitHub
-summary: A new vessel was interred at the Tionisla Orbital Graveyard for the first time in over a hundred years, briefly transmitting the repeating message "OTSEAFOTSEAF" before a power failure. The ship was identified as an antique Cobra Mk III with an unusual hull registry.
+summary: A new vessel was interred at the Tionisla Orbital Graveyard for the first
+  time in over a hundred years, briefly transmitting the repeating message "OTSEAFOTSEAF"
+  before a power failure. The ship was identified as an antique Cobra Mk III with
+  an unusual hull registry.
 player_impact: None
 persons:
 - Grace Mayweather
@@ -20,10 +23,18 @@ topics:
 - war
 technologies:
 - Cobra Mk III
-modern_impact: The mysterious beacon transmission from the Tionisla graveyard adds to the catalogue of unexplained deep-space signals and anomalies.
+modern_impact: The mysterious beacon transmission from the Tionisla graveyard adds
+  to the catalogue of unexplained deep-space signals and anomalies.
 legacy_weight: 1
 significance: low
+related_uuids:
+- df8f588c-f3c8-5f51-82c2-23d00e7753cc
+- dcaa1795-2ea5-51ba-8a9e-17482755c038
+- 1d718391-dc45-5e08-b3ce-4433a2600fac
+- 6aabad8a-7a17-59a6-a77f-f2c4e45f4959
+- 62c50540-1db5-5850-be0b-5a7cb2b2c201
 ---
+
 
 For The first time in over a hundred years, a new ship has been added to the Tionisla Orbital Graveyard. Established in the 3100s, the mausoleum was Originally a resting place for the rich and famous, but in the economic slump that befell the Old Worlds during that period, the graveyard fell into disuse. 
 

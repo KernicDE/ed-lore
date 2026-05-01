@@ -22,7 +22,9 @@ significance: high
 related_uuids:
 - 5532a155-7d5e-5a24-be3b-602dc8e25d83
 - cc368b7d-06ac-5261-9a3c-5f8dbd8d8750
+- 8ad75ee9-b942-5e77-9019-b89a5faa2700
 ---
+
 
 
 The 80 DD-D 774-CE-2 faction has announced that Its campaign to establish a new outpost in the Colonia Nebula has received the unqualified support of the galactic community. Hundreds of Independent pilots responded to the appeal, resulting In a massive influx of deliveries to Jaques Station, the organisation's base of operations. 

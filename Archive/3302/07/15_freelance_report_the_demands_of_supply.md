@@ -32,7 +32,10 @@ significance: high
 related_uuids:
 - 1e7b9658-ee69-596c-b99f-e1e304947e65
 - 7a9d73cd-6f0e-56a0-8e5c-a299a53987b9
+- cd35a3ab-87b8-5fc5-afe5-cb06f61f8236
+- 2e56b2b2-2386-5f55-a93f-56225f0b899d
 ---
+
 
 
 "Commanders are advised to search within nebulae for rocky or high-metal content worlds With a composition of between 66.5% and 99.1% rock and 8.9% and 33.5% metal, with 0% ice. Temperatures between 194K and 451K should be sought. To narrow the field, Commanders should also seek bodies with gravity between 0.06g and 0.3g." 

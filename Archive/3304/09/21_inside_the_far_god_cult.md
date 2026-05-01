@@ -4,7 +4,13 @@ title: Inside the Far God Cult
 slug: inside_the_far_god_cult
 date: '3304-09-21'
 source: GitHub
-summary: Journalist Gethin Okonkwo reveals he has been living undercover within the Far God cult for three months. He visited hive-chapels in several systems, narrowly escaping death during an attack by the Church of Eternal Void, and endured abuse from the public including Juanita Bishop's campaign followers. He found no evidence of Thargoid contact beyond occasional use of alien material as holy artefacts. He recorded experiences with concealed micro-cameras and voluntarily shared data with the FIA to prove the sect is not dangerous.
+summary: Journalist Gethin Okonkwo reveals he has been living undercover within the
+  Far God cult for three months. He visited hive-chapels in several systems, narrowly
+  escaping death during an attack by the Church of Eternal Void, and endured abuse
+  from the public including Juanita Bishop's campaign followers. He found no evidence
+  of Thargoid contact beyond occasional use of alien material as holy artefacts. He
+  recorded experiences with concealed micro-cameras and voluntarily shared data with
+  the FIA to prove the sect is not dangerous.
 player_impact: None
 persons:
 - Gethin Okonkwo
@@ -19,7 +25,9 @@ topics:
 - religion
 - investigation
 - alien contact
-modern_impact: Okonkwo's undercover exposé provides the first authoritative evidence that the Far God cult is harmless, directly challenging the persecution narrative and paving the way for the FIA to end its investigation.
+modern_impact: Okonkwo's undercover exposé provides the first authoritative evidence
+  that the Far God cult is harmless, directly challenging the persecution narrative
+  and paving the way for the FIA to end its investigation.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -27,6 +35,7 @@ related_uuids:
 - 2fbb2c64-a06a-556e-be3d-e4b798f1564e
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
+
 
 Independent reporter Gethin Okonkwo, who was previously thought Missing, has revealed that he has been living undercover within the Far God cult for the past three months. 
 

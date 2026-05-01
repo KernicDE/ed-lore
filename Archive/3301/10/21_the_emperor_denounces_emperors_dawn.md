@@ -34,7 +34,11 @@ significance: high
 related_uuids:
 - 210be0c9-21e1-54a4-934b-13546cf4a047
 - 8ee7f270-2a48-5f1d-becb-9ce73c48c863
+- 3bcb8d26-f1ac-506a-a763-402ca7cdf880
+- 7ecb6124-2a72-5b9e-afd1-13728200e0b9
+- 2e393213-981e-5305-bc3b-8a07fa380559
 ---
+
 
 
 To date, the Empire's campaign against the insurgent organisation Emperor's Dawn has fallen largely under the jurisdiction of Senator Denton Patreus, but now that the question of the succession has been answered, the Empire is In a position to give Emperor's Dawn Its full attention. Emperor Arissa Lavigny-Duval has issued a frank statement in Which she denounces Emperor's Dawn as "an enemy of the Empire", and promises to give Senator Patreus her full support: 

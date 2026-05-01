@@ -4,17 +4,31 @@ title: Station Services Suspended at Gurragchaa Gateway
 slug: station_services_suspended_at_gurragchaa_gateway
 date: '3301-10-28'
 source: GitHub
-summary: All services except refuelling and rearming were suspended at Gurragchaa Gateway in the Warkushanui system due to ongoing technical issues. The starport's technical team could not determine the cause and advised patience. Following the announcement, Federal authorities issued an official travel warning advising pilots to avoid the starport entirely.
-player_impact: Pilots should avoid Gurragchaa Gateway until services are restored. Alternative stations in the region should be used for trade, outfitting, and shipyard access. The Federal travel warning underscores the severity of the situation.
+summary: All services except refuelling and rearming were suspended at Gurragchaa
+  Gateway in the Warkushanui system due to ongoing technical issues. The starport's
+  technical team could not determine the cause and advised patience. Following the
+  announcement, Federal authorities issued an official travel warning advising pilots
+  to avoid the starport entirely.
+player_impact: Pilots should avoid Gurragchaa Gateway until services are restored.
+  Alternative stations in the region should be used for trade, outfitting, and shipyard
+  access. The Federal travel warning underscores the severity of the situation.
 locations:
 - Gurragchaa Gateway
 - Warkushanui
 topics:
 - construction
-modern_impact: Documents the escalating starport malfunctions that would later be linked to Unknown Artefacts.
+modern_impact: Documents the escalating starport malfunctions that would later be
+  linked to Unknown Artefacts.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 552130f9-8b71-57cb-9dcf-80848c4861b5
+- d4aa672b-a832-59f6-b2e2-69b7bed10a1e
+- 14545075-d991-564b-966a-ae710ef22c44
+- ad64e49b-87f3-5290-852b-7ba4de078c47
+- e3646c96-7552-5811-b056-dd57f3e4b783
 ---
+
 
 Following recent news of technical issues in The Warkushanui system, officials at Gurragchaa Gateway have announced that all station services, bar refuelling and rearming, have been suspended. A member of the starport's technical team released a brief statement: 
 

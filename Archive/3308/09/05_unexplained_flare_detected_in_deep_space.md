@@ -4,8 +4,11 @@ title: Unexplained ‘Flare’ Detected in Deep Space
 slug: unexplained_flare_detected_in_deep_space
 date: '3308-09-05'
 source: API
-summary: Independent explorers report an unexplained reddish-orange flare near Barnard's Loop that produces strange FSS scanner feedback, with no official scientific explanation yet.
-player_impact: Independent explorers first reported the anomaly; pilots are attempting to gather more data using FSS scanners.
+summary: Independent explorers report an unexplained reddish-orange flare near Barnard's
+  Loop that produces strange FSS scanner feedback, with no official scientific explanation
+  yet.
+player_impact: Independent explorers first reported the anomaly; pilots are attempting
+  to gather more data using FSS scanners.
 persons:
 - Eva Llewellyn
 groups:
@@ -18,10 +21,19 @@ topics:
 - research
 technologies:
 - Full Spectrum System Scanner
-modern_impact: The unexplained flare marks the first observation of what would later become known as the rogue signal sources, anomalous deep-space phenomena that defy conventional scientific explanation.
+modern_impact: The unexplained flare marks the first observation of what would later
+  become known as the rogue signal sources, anomalous deep-space phenomena that defy
+  conventional scientific explanation.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 51640971-fc47-5402-a2fd-7c945c162f1e
+- 80813804-4338-5173-97fb-dcfc3d38c31c
+- 90f47201-f1b3-537a-8c1f-fc6e092fa724
+- de7b4f38-c24a-586a-9b4c-3c43dff0681a
+- f35cafa3-82c9-523b-8b06-a2fe5cf2e6be
 ---
+
 
 **Pilots’ Federation ALERT**
 Reports from independent explorers indicate that an unusual visual phenomenon has appeared in deep space.

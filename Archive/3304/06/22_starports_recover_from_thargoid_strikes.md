@@ -4,7 +4,11 @@ title: Starports Recover from Thargoid Strikes
 slug: starports_recover_from_thargoid_strikes
 date: '3304-06-22'
 source: GitHub
-summary: Three starports damaged by Thargoid forces are restored to full functionality. Carter Armstrong of Aegis Core announces Armstrong Enterprise in the Bhal system and Beaufoy Vision in the Nauni system are now open. Senior Engineer Lilith Galloway of Aegis Research confirms Reed's Rest in Merope has also endured thanks to galactic community support.
+summary: Three starports damaged by Thargoid forces are restored to full functionality.
+  Carter Armstrong of Aegis Core announces Armstrong Enterprise in the Bhal system
+  and Beaufoy Vision in the Nauni system are now open. Senior Engineer Lilith Galloway
+  of Aegis Research confirms Reed's Rest in Merope has also endured thanks to galactic
+  community support.
 player_impact: None
 persons:
 - Carter Armstrong
@@ -22,7 +26,9 @@ locations:
 topics:
 - alien contact
 - construction
-modern_impact: The successful repair of multiple starports demonstrates humanity's resilience and the effectiveness of coordinated community restoration efforts against Thargoid destruction.
+modern_impact: The successful repair of multiple starports demonstrates humanity's
+  resilience and the effectiveness of coordinated community restoration efforts against
+  Thargoid destruction.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,6 +36,7 @@ related_uuids:
 - e9563810-0611-5080-9952-cdd072acdc90
 - db044a6e-332e-5023-8f20-a1c27974d897
 ---
+
 
 Three starports attacked and damaged by Thargoid forces have now been restored to full functionality. 
 

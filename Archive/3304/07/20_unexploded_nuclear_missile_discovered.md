@@ -4,7 +4,13 @@ title: Unexploded Nuclear Missile Discovered
 slug: unexploded_nuclear_missile_discovered
 date: '3304-07-20'
 source: GitHub
-summary: A thermonuclear missile from Earth's Third World War (2044-2055) is discovered beneath the Pacific Ocean off California during undersea habitation construction. Lieutenant Commander Page Patterson of the Federal Navy reports the 45-megaton warhead was disarmed by robotic avatar units. Dr Imogen Ryang, an Earth conflicts historian, notes this discovery is shocking as all nuclear exchanges were thought documented, suggesting it was either a failed US launch or an inbound enemy missile disabled by America's defensive laser grid.
+summary: A thermonuclear missile from Earth's Third World War (2044-2055) is discovered
+  beneath the Pacific Ocean off California during undersea habitation construction.
+  Lieutenant Commander Page Patterson of the Federal Navy reports the 45-megaton warhead
+  was disarmed by robotic avatar units. Dr Imogen Ryang, an Earth conflicts historian,
+  notes this discovery is shocking as all nuclear exchanges were thought documented,
+  suggesting it was either a failed US launch or an inbound enemy missile disabled
+  by America's defensive laser grid.
 player_impact: None
 persons:
 - Page Patterson
@@ -19,10 +25,19 @@ locations:
 topics:
 - history
 - safety
-modern_impact: The discovery of an undocumented nuclear relic from Earth's darkest period serves as a reminder of humanity's capacity for self-destruction and the enduring legacy of pre-spaceflight conflicts.
+modern_impact: The discovery of an undocumented nuclear relic from Earth's darkest
+  period serves as a reminder of humanity's capacity for self-destruction and the
+  enduring legacy of pre-spaceflight conflicts.
 legacy_weight: 2
 significance: low
+related_uuids:
+- ce31a912-2f6c-5d97-846f-b34854835b6c
+- 1b55d6ba-7e89-5571-bc52-b88d84b6d55c
+- a987debf-f78b-5533-84b9-48a6a845b2e2
+- 54d3fd1f-f0e9-545c-99f4-94612ad989e6
+- 13478c16-9b42-5c67-b7df-22d73dfbc1b0
 ---
+
 
 A thermonuclear weapon, launched over a thousand years ago during Earth’s Third World War, has been discovered.  
 

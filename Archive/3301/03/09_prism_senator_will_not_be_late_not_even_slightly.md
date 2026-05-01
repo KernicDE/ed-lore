@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 In another administrative mix up, Lady Kahina Tijani Loren's Imperial Courier has been denied docking clearance at Mars High. Official observers report that an Imperial Courier attempted to dock without prior permission and when confronted, refused to acknowledge hails. 
 
 Unofficial, and anonymous, reports from Independent traders seem to favour The view that Mars High docking personnel routed Lady Kahina's ship to The back of the queue unnecessarily, and rather than comply, she positioned her ship directly in the docking entrance and refused to move it until granted a landing pad. 

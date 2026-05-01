@@ -4,8 +4,11 @@ title: Rising Tensions Between Galactic Powers
 slug: rising_tensions_between_galactic_powers
 date: '3311-05-28'
 source: API
-summary: Observers report increased antagonistic activity between Power supporters across the core systems. Clashes include Archer vs Patreus, Winters vs Grom in LP 855-34, and a trade war between Mahon and Kaine.
-player_impact: Pilots were advised to monitor regional developments closely, as opportunities to support powers in offensive activities were expected to increase.
+summary: Observers report increased antagonistic activity between Power supporters
+  across the core systems. Clashes include Archer vs Patreus, Winters vs Grom in LP
+  855-34, and a trade war between Mahon and Kaine.
+player_impact: Pilots were advised to monitor regional developments closely, as opportunities
+  to support powers in offensive activities were expected to increase.
 persons:
 - Jerome Archer
 - Denton Patreus
@@ -23,12 +26,19 @@ topics:
 - war
 entities: []
 technologies: []
-modern_impact: 'The Pilots Federation source''s statement — ''Powers that once acted defensively to protect influence are now aggressively expanding, testing the limits of rival claims'' — provides the canonical framing for the post-war power struggle. This article serves as the Rosetta Stone for understanding 3311''s cascade of conflicts: the Beta-3 Tucani strike (June), the Mahon-Kaine rivalry (May-June), and the Winters-Grom clashes (May).'
+modern_impact: 'The Pilots Federation source''s statement — ''Powers that once acted
+  defensively to protect influence are now aggressively expanding, testing the limits
+  of rival claims'' — provides the canonical framing for the post-war power struggle.
+  This article serves as the Rosetta Stone for understanding 3311''s cascade of conflicts:
+  the Beta-3 Tucani strike (June), the Mahon-Kaine rivalry (May-June), and the Winters-Grom
+  clashes (May).'
 legacy_weight: 5
 significance: high
 related_uuids:
 - f343aeeb-2dc6-56ba-8f0f-e1f004053acc
+- d410b16b-7ac3-54e3-ad81-af7d7123d4df
 ---
+
 
 Observers across the core systems are reporting an increase in antagonistic activity between Power supporters, with skirmishes flaring in multiple regions.
 In the aftermath of the Thargoid war, political attention has turned inward as human factions seek to reassert dominance across the bubble. Recent clashes, including the conflict between Vice President Jerome Archer and Admiral Denton Patreus, followed by competing mining operations in LP 855-34 between Felicia Winters and Yuri Grom, have prompted concerns from analysts monitoring political dynamics.

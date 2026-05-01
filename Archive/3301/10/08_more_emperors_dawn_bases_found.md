@@ -37,7 +37,10 @@ significance: high
 related_uuids:
 - 1bf57b54-4735-58ba-bcc8-875fb5aa9410
 - 8bdbc53a-3502-5e7e-8220-9ae0435a8bfe
+- 21f00823-6b7b-5a13-a90a-8b2d02c766fb
+- 2f3144b5-e976-5252-bc85-856cd1606c88
 ---
+
 
 
 Two weeks ago, The Imperial Internal Security Service issued a request for exploration data as part of Its ongoing effort to locate bases belonging to the insurgent organisation Emperor's Dawn. The request resulted In a raft of fresh astrological data, Which has since been subjected to rigorous analysis by the IISS. This in turn has produced a list of Star systems that the IISS believes contain Emperor's Dawn bases: Namarii, Tabaldak, LTT 874, Shambhala and Svari. 

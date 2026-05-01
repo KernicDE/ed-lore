@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-09-15'
 source: GitHub
-summary: Weekly summary covering Maddox Hurd's criminal connections causing investor flight from Herculean Machines, the announcement of Alliance presidential candidates Fazia Silva and Elijah Beck, Juanita Bishop's call to execute Far God worshippers, Ram Tah's revelations about the XG Project, the Libertas Cooperative's manatee megaship appeal, and the successful conclusion of the Alioth Independents' gala initiative.
+summary: Weekly summary covering Maddox Hurd's criminal connections causing investor
+  flight from Herculean Machines, the announcement of Alliance presidential candidates
+  Fazia Silva and Elijah Beck, Juanita Bishop's call to execute Far God worshippers,
+  Ram Tah's revelations about the XG Project, the Libertas Cooperative's manatee megaship
+  appeal, and the successful conclusion of the Alioth Independents' gala initiative.
 player_impact: None
 persons:
 - Maddox Hurd
@@ -38,7 +42,9 @@ topics:
 - politics
 - trade
 - xenoarchaeology
-modern_impact: This week sees corporate scandals, political campaigning, religious extremism, and technological breakthroughs converging to reshape perceptions across multiple sectors of galactic society.
+modern_impact: This week sees corporate scandals, political campaigning, religious
+  extremism, and technological breakthroughs converging to reshape perceptions across
+  multiple sectors of galactic society.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -49,6 +55,7 @@ related_uuids:
 - 31ff0234-888c-5bfa-9364-d34905a8c02e
 - 85671224-8822-5716-bb08-0e7ac30ff584
 ---
+
 
 Here are This week’s major stories. 
 

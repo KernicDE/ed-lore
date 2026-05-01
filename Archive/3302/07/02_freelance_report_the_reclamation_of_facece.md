@@ -4,8 +4,12 @@ title: Freelance Report  The Reclamation of Facece
 slug: freelance_report_the_reclamation_of_facece
 date: '3302-07-02'
 source: GitHub
-summary: After months of fighting, the Imperial Naval Auxiliary has reinstated the Facece Empire Party as the controlling power of the Facece system. Marquis Endincite coordinated the effort, while Chancellor Anders Blaine is reportedly preparing to commend those involved.
-player_impact: Imperial-aligned pilots are urged to support the Facece Empire Party and ensure its continued dominance in the Facece system.
+summary: After months of fighting, the Imperial Naval Auxiliary has reinstated the
+  Facece Empire Party as the controlling power of the Facece system. Marquis Endincite
+  coordinated the effort, while Chancellor Anders Blaine is reportedly preparing to
+  commend those involved.
+player_impact: Imperial-aligned pilots are urged to support the Facece Empire Party
+  and ensure its continued dominance in the Facece system.
 persons:
 - Marquis Endincite
 - Chancellor Anders Blaine
@@ -20,10 +24,19 @@ locations:
 topics:
 - war
 technologies: []
-modern_impact: Demonstrates the ongoing struggle for system control between Imperial loyalists and opposition forces, highlighting the role of the Imperial Naval Auxiliary in power-play conflicts.
+modern_impact: Demonstrates the ongoing struggle for system control between Imperial
+  loyalists and opposition forces, highlighting the role of the Imperial Naval Auxiliary
+  in power-play conflicts.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 74af287f-b68f-5089-b6ba-e7b616d757b6
+- d402437c-53dc-5b0d-83ef-01f10c77651e
+- afa832cd-a910-5a8c-9b14-37b1ae349975
+- 619fd1d7-735f-5cf4-8e4e-b021f92da92a
+- 7dc11335-2df3-57f7-8de9-6d6a26eb1e5a
 ---
+
 
 After months of vicious fighting, the Imperial Naval Auxiliary has reinstated The Facece Empire Party As the controlling power of the Facece system. 
 

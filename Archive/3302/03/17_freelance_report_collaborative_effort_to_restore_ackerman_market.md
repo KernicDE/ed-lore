@@ -33,7 +33,15 @@ significance: high
 related_uuids:
 - 2ea9147c-0162-53cd-aa6c-c7b7072bf4ca
 - 9eef6e98-953b-5eaa-9685-81a076103d63
+- cc7b8232-bd5e-5c6a-958c-944cba383ae4
+- 771d96a2-7b75-5d2d-aa82-1b5205c0f197
+- 9792b5db-eb9e-5a0a-bec5-8b8b6a45a719
+- 32b3485a-5b8b-5ec3-af24-ae8f69d54bd7
+- 9a0770e5-660a-59b1-abc3-2f4bb38fc9a6
+- c1bb8505-258a-5bf5-93a5-f8c5de278630
+- 59b87460-f182-5c51-a612-4c37dfb49701
 ---
+
 
 
 Ackerman Market in Eravate is just One of The stations affected by the plague. Before it was shut down it was a popular rest stop for Commanders embarking on new careers in space. Just a few days ago Its commodities market reopened, and a huge demand for meta-alloys has been reported. 

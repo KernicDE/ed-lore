@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The Empire has carried out reprisals against the rogue faction Darkwater Inc in the Summerland system.
 The private military firm had trained NMLA terrorists and held Emperor Arissa Lavigny-Duval captive, on the orders of a cabal of senators named the Lords of Restoration.

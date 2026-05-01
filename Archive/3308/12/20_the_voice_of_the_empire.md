@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 On the Empire’s homeworld Capitol, fears over imminent Thargoid invasion sparked a public gathering outside the Imperial Palace.
 Cassia Carvalho, political journalist for The Imperial Herald, reported from the scene:
 “The arrival of the Thargoid Maelstroms has triggered protests on many Allied, Federal and independent worlds. The Empire is rarely troubled by such disruption, so the spontaneous march by tens of thousands of citizens through Capitol’s streets caught the media and security services by surprise.”

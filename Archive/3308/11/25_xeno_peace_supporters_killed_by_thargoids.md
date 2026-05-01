@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Investigations in the Hyades Sector YO-Q b5-1 system have confirmed that Thargoid vessels attacked and destroyed the Kingfisher megaship.
 Vox Galactica published this on-the-scene report from field correspondent Ernesto Rios:
 “Independent and Federal sources have verified that the Kingfisher was struck by multiple barrages from Thargoid weaponry. Medical teams are currently exploring the wreckage of the megaship in search of crew and passengers. Sadly, from what I’ve seen, the scale of the damage suggests that the chances of survival are extremely low.”

@@ -55,6 +55,7 @@ related_uuids:
 ---
 
 
+
 Political fallout has been intense after The NMLA simultaneously bombed nine starports in the Alliance, Empire and Federation.
 The targeted stations are in The Achenar, Alioth, Eotienses, Gateway, Kamadhenu, Lave, Nanomam, Rhea and Sol systems. These were referred to by NMLA propaganda As the ‘Nine Martyrs’, a reference to the attack against Kepler Orbital last November.
 All three superpowers are treating This as a major emergency. Top-level discussions have taken place between their chiefs of security, using communication protocols recently established at the Galactic Summit.

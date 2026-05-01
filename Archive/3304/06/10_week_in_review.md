@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-06-10'
 source: GitHub
-summary: Weekly summary covering the murder of INRA descendant Luca Hem by the League of Reparation, Aisling Duval hosting Jordan Rochester and Caspian Leopold's subsequent visit, the Lave Radio Network vs Lave Jet Family rivalry, successful conclusions of two starport repair initiatives, and the theft of the Youscape artwork from Garden City Gallery.
+summary: Weekly summary covering the murder of INRA descendant Luca Hem by the League
+  of Reparation, Aisling Duval hosting Jordan Rochester and Caspian Leopold's subsequent
+  visit, the Lave Radio Network vs Lave Jet Family rivalry, successful conclusions
+  of two starport repair initiatives, and the theft of the Youscape artwork from Garden
+  City Gallery.
 player_impact: None
 persons:
 - Tanya Ramirez
@@ -50,7 +54,8 @@ topics:
 - terrorism
 - diplomacy
 - culture
-modern_impact: This week spans terrorism, political romance, factional rivalry, and art theft, reflecting the diverse challenges and intrigues of galactic society.
+modern_impact: This week spans terrorism, political romance, factional rivalry, and
+  art theft, reflecting the diverse challenges and intrigues of galactic society.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -60,7 +65,14 @@ related_uuids:
 - deffacb5-c533-5803-ba9d-6655443be666
 - e9563810-0611-5080-9952-cdd072acdc90
 - 9fd16cfc-fc44-55ca-9deb-4b0129f50261
+- e6422099-f1c9-507d-916f-ae79d7ddf75f
+- b423f83c-d070-5eb9-86cb-d2e5824d4e6d
+- 9a42a58c-e3e6-5724-bbc9-431aae760efd
+- 7c5e05a8-dc09-5831-beee-c9f482e00095
+- eafee362-5cd2-5695-92e8-6e36bd423651
+- f15aa0ae-a808-58d8-9d63-369a333a5dd6
 ---
+
 
 Here are This week’s major stories. 
 

@@ -4,7 +4,9 @@ title: Freelance Report  Growing Demand for Halsey's Exploration Data
 slug: freelance_report_growing_demand_for_halseys_exploration_data
 date: '3302-05-21'
 source: GitHub
-summary: Demonstrators at Leoniceno Orbital in Azaleach demand the release of all exploration data submitted to Jasmina Halsey's appeal, suspecting a cover-up after authorities quickly declared nothing of interest was found.
+summary: Demonstrators at Leoniceno Orbital in Azaleach demand the release of all
+  exploration data submitted to Jasmina Halsey's appeal, suspecting a cover-up after
+  authorities quickly declared nothing of interest was found.
 player_impact: None
 persons:
 - Jasmina Halsey
@@ -19,7 +21,14 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- f9ac5b30-383e-5f0a-8fc4-c8e3fc9dcb14
+- cdf680ca-c0ab-50db-9dff-085f692e72e6
+- 21443853-5371-5291-a9f5-93f79da1d368
+- fd20f126-1514-5567-9737-ba8347d44b4f
+- a395a47c-93ef-5a29-90cb-b2e83da399a5
 ---
+
 
 A demonstration was held today at Leoniceno Orbital in Azaleach calling for The immediate release of all information submitted in response to former Federal President Jasmina Halsey's appeal for exploration data. 
 

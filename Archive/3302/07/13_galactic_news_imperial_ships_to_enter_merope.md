@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Following a recent statement from Senator Zemina Torval in Which The seasoned politician criticised the deployment of Federal battlecruisers in the Merope system, Admiral Denton Patreus has entered the debate. At a hastily organised press conference on Capitol, Admiral Patreus addressed the Federal intervention: 
 
 "Like Senator Torval, I believe that the Federal presence in Merope represents an attempt to lay claim to the system's non-human structures. This will not stand. An Imperial deputation will therefore be mobilised and despatched to the Merope system. I will take personal command of the fleet, which will depart within the month." 

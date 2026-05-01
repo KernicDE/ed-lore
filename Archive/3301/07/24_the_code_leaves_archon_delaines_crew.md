@@ -4,8 +4,14 @@ title: The Code Leaves Archon Delaine's Crew
 slug: the_code_leaves_archon_delaines_crew
 date: '3301-07-24'
 source: GitHub
-summary: Captain Anopheles and The Code pirate crew have left Archon Delaine's Kumo Crew alliance. Discontent began when they discovered running systems involved bureaucracy rather than the expected pirate lifestyle. The final straw was disappointment with a new weapon reveal. After a 'frank and lively debate with added knives', Archon refused to change, so The Code departed. They now return to roaming as 'independent asset redistributors', abandoning administration for traditional piracy.
-player_impact: Pilots in Kumo Crew space may encounter The Code operating independently as roaming pirates rather than allied forces.
+summary: Captain Anopheles and The Code pirate crew have left Archon Delaine's Kumo
+  Crew alliance. Discontent began when they discovered running systems involved bureaucracy
+  rather than the expected pirate lifestyle. The final straw was disappointment with
+  a new weapon reveal. After a 'frank and lively debate with added knives', Archon
+  refused to change, so The Code departed. They now return to roaming as 'independent
+  asset redistributors', abandoning administration for traditional piracy.
+player_impact: Pilots in Kumo Crew space may encounter The Code operating independently
+  as roaming pirates rather than allied forces.
 persons:
 - Captain Anopheles
 - Archon Delaine
@@ -17,10 +23,18 @@ locations:
 topics:
 - piracy
 - politics
-modern_impact: Defection of The Code weakens Archon Delaine's coalition and signals internal dissatisfaction within the Kumo Crew organisation.
+modern_impact: Defection of The Code weakens Archon Delaine's coalition and signals
+  internal dissatisfaction within the Kumo Crew organisation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- abe21c6e-54ed-5aed-a221-7efd675d35c
+- c11f54b8-3786-547f-b7d8-dbed606bfd8e
+- bef2abfe-a325-5747-a81a-6c1c086c9b19
+- 0711174c-3029-589f-8c24-2be413623997
+- 81248c77-50c2-52b5-a962-0c4da605e8bf
 ---
+
 
 Some months ago, Archon approaches Captain Anopheles of The Code and says: 'Ano, you're my kind of guy. Your crew has been making waves As the most successful of all the pirate crews. Come over to me and make an Alliance. I have my tech guys making some sweeeeeeeet tech and I'm running my own space. You can be One of my trusted lieutenants if you bring your guys over." 
 

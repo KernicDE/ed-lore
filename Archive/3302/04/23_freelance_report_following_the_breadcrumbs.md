@@ -33,7 +33,9 @@ significance: high
 related_uuids:
 - 5dbaa650-006e-5f84-ab7a-9f4155fdafdf
 - 8404cdf6-2914-5e0b-9570-8bf13fa4ebae
+- 7dc11335-2df3-57f7-8de9-6d6a26eb1e5a
 ---
+
 
 
 Imperial investigator Cornelius Gendymion has released a statement to the Prism Herald addressing accusations that Imperial agents were responsible for the destruction of Starship One. 

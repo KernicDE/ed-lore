@@ -44,6 +44,7 @@ related_uuids:
 ---
 
 
+
 The Alliance, Empire and Federation have accepted the Baumann Report’s recommendation to permanently shut down Aegis.
 The Independent inquiry’s findings on the organisation’s failings will result in Aegis being immediately shut down. However, Chief Administrator Carter Armstrong has cautioned that “full demobilisation of staff, ships and resources might take Several months”.
 Senator Denton Patreus has successfully obtained senatorial approval for an increased military budget, to allow the Imperial Navy to directly take on the role played by Aegis.

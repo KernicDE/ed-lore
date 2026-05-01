@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 A fringe religion that worships the Thargoids has come under the spotlight In a new academic article. 
 
 The author, Dr Alfred Ulyanov, is a leading expert in exotheology. He summarised his work for the media: 

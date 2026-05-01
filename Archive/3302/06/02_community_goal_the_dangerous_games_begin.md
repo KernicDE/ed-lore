@@ -32,7 +32,12 @@ significance: medium
 related_uuids:
 - 12b6b963-3193-5020-8e1e-37a4c48eb1b4
 - 808a1c32-013a-58f3-bf85-f48036f3d4f1
+- 9287b601-94e0-5f03-9366-40b4c8202bf2
+- 70b5fff1-6c68-5160-be4c-cd028eac2ac1
+- ddcd30dd-50e9-5306-90f2-d01d799b9262
+- 462ae808-a270-5d4a-b32e-39abf9c6723a
 ---
+
 
 
 The galaxy is home to countless factions, some boasting thousands of members and others comprising only a handful of individuals. Some exist to serve the galactic community, while others follow more antagonistic dogmas. For almost Every creed in human space, there is a corresponding faction. 

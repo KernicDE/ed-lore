@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Admiral Aden Tanner, Aegis’s chief military liaison, has addressed reports of capital ships being destroyed by The Thargoids. 
 
 “Although the shutdown field neutraliser developed by Aegis is capable of protecting small ships, we have encountered difficulties adapting the technology to larger spacecraft. Furthermore, the fact that Thargoids tend to target larger vessels With multiple shutdown beams simultaneously makes the task of protecting them more difficult.” 

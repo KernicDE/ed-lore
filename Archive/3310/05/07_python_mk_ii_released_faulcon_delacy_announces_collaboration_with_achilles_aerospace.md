@@ -1,11 +1,16 @@
 ---
 uuid: fd10a1c4-394e-54c7-8968-b01b1cd22993
-title: 'Python Mk II Released: Faulcon DeLacy announces collaboration with Achilles Aerospace'
+title: 'Python Mk II Released: Faulcon DeLacy announces collaboration with Achilles
+  Aerospace'
 slug: python_mk_ii_released_faulcon_delacy_announces_collaboration_with_achilles_aerospace
 date: '3310-05-07'
 source: API
-summary: Faulcon DeLacy releases the Python Mk II, the first ship built entirely around Achilles' SCO Frame Shift Drive, featuring improved heat management and breaking speed records.
-player_impact: The Python Mk II is now available, designed from the ground up to better handle Achilles' new Frame Shift Drive with improved heat management, handling, fuel consumption, and acceleration.
+summary: Faulcon DeLacy releases the Python Mk II, the first ship built entirely around
+  Achilles' SCO Frame Shift Drive, featuring improved heat management and breaking
+  speed records.
+player_impact: The Python Mk II is now available, designed from the ground up to better
+  handle Achilles' new Frame Shift Drive with improved heat management, handling,
+  fuel consumption, and acceleration.
 persons: []
 groups:
 - Achilles Aerospace
@@ -20,13 +25,21 @@ technologies:
 - Python Mk II
 - Supercruise Overcharge
 - Frame Shift Drive
-modern_impact: The collaboration between Faulcon DeLacy and Achilles Aerospace — 'designed from the ground up to better handle their new Frame Shift Drive' — is a strategic alliance that bypasses Sirius Corporation's traditional FSD monopoly. Sirius's refusal to comment on the announcement speaks volumes about the competitive threat. The tagline 'Built for Supercruise Overcharge' markets the ship as purpose-built for the new technology rather than retrofitted.
+modern_impact: The collaboration between Faulcon DeLacy and Achilles Aerospace — 'designed
+  from the ground up to better handle their new Frame Shift Drive' — is a strategic
+  alliance that bypasses Sirius Corporation's traditional FSD monopoly. Sirius's refusal
+  to comment on the announcement speaks volumes about the competitive threat. The
+  tagline 'Built for Supercruise Overcharge' markets the ship as purpose-built for
+  the new technology rather than retrofitted.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 4ab77eb5-7fc8-5438-87c3-663a6647a261
 - c07b4796-ed9d-5a28-9d36-26ee710a7e32
+- b94bfb8c-7739-5fb9-902b-666df71a116d
+- 17db014d-0a81-5ef4-bf2b-ddc70738c828
 ---
+
 
 The first ever ship built entirely around Achilles’ new Frame Shift Drive has released today, the Python Mk II. Marketing materials are pushing the tagline: “Built for Supercruise Overcharge”.
 Faulcon DeLacy, the widely respected manufacturer behind this new ship, released a statement this morning:

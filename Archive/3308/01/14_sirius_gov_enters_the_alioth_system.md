@@ -33,7 +33,11 @@ related_uuids:
 - 2802af31-31af-56d3-820a-8de1dabfd0b8
 - 86fd77a5-fe24-5aa6-8723-a7e34b021f3d
 - 8b4db844-0c83-569c-8e7b-cce5db8c006a
+- bdab5f72-441a-5f75-943c-e13212c176fb
+- 8d828da1-f7f7-54e3-be37-f50cc54a3c82
+- 7086c7a6-47b9-5cfa-ac9e-c7c44ed36d6a
 ---
+
 
 
 Prime Minister Edmund Mahon has invited Sirius Corporation to establish a permanent presence within The Alliance.

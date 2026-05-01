@@ -27,7 +27,12 @@ significance: high
 related_uuids:
 - ca336671-285c-54b4-9c50-3b2c5cafda2f
 - f1e17ffa-7f96-587d-b0c1-22e23ff20576
+- 7032e27b-cf0a-5aca-ba1b-9c50e7e9f75c
+- 0d798d5a-ae0c-5a99-9a72-a060772f4fcd
+- 64cbf185-445b-5954-b18c-b60487a04da3
+- e74deb32-c4c0-59e7-8506-445b6c628173
 ---
+
 
 
 A spokesperson for The Fuel Rats named Mischief has announced that Jaques Station has received sufficient quantities of fuel to complete the proposed jump to Beagle Point.  

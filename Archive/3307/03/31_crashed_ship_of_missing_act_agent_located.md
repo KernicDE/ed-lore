@@ -46,6 +46,7 @@ related_uuids:
 
 
 
+
 **Pilots Federation ALERT**
 The Vessel of Captain Niamh Seutonia, who vanished on an anti-NMLA mission, has been Found With Its crew dead.
 Following a widespread search by Independent pilots, Commander TheRealFlame was the first to discover the wreckage of the Valkyrie in the Trianguli sector GW-W B1-0 system. It was apparent that the ship crashed after sustaining weapons fire, and that all crewmembers died on impact.

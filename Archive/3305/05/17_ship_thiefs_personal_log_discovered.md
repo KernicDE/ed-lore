@@ -4,7 +4,9 @@ title: Ship Thief's Personal Log Discovered
 slug: ship_thiefs_personal_log_discovered
 date: '3305-05-17'
 source: GitHub
-summary: Recovered fragments of Gan Romero's encrypted dream journal reveal vivid descriptions of a radiant space and bodiless voices calling to him, leading medical experts to suggest an undiagnosed dissociative disorder.
+summary: Recovered fragments of Gan Romero's encrypted dream journal reveal vivid
+  descriptions of a radiant space and bodiless voices calling to him, leading medical
+  experts to suggest an undiagnosed dissociative disorder.
 player_impact: None — background investigation report.
 persons:
 - Gan Romero
@@ -17,7 +19,9 @@ topics:
 - crime
 - investigation
 - medicine
-modern_impact: Romero's dream journal became a crucial piece of evidence linking his case to broader questions about telepathic contact with non-corporeal intelligences, paralleling Jasmina Halsey's documented visions.
+modern_impact: Romero's dream journal became a crucial piece of evidence linking his
+  case to broader questions about telepathic contact with non-corporeal intelligences,
+  paralleling Jasmina Halsey's documented visions.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -26,6 +30,7 @@ related_uuids:
 - 7b7ef879-c22b-509a-9abc-a1c65d435b93
 - 54d86670-6d3c-5f67-a1e5-729c9be90011
 ---
+
 
 A journal maintained by Gan Romero, The technician responsible for stealing a docked Vessel from a starport hangar, has been discovered. 
 

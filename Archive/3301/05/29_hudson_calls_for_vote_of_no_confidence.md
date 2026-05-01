@@ -27,7 +27,12 @@ significance: high
 related_uuids:
 - 9814b160-c142-5d74-9710-9c895bd4212e
 - c97b8c8b-443c-55ad-a3e0-fad0b356f20d
+- a09d1f61-d891-5333-a708-6ec2b6a7ba34
+- d5cadffe-10a6-5731-a2f9-b6e28daf4b86
+- 25fa737c-97f7-5527-82e8-ad3144d88779
+- 9c2030cc-a2e5-5b66-80d0-bde8bb5bc3b8
 ---
+
 
 
 Shadow President Zachary Hudson has continued his criticism of Halsey’s administration, finally moving to The feared vote of no confidence. In his address to Congress, Shadow President Hudson has made it clear The situation needs a resolution. 

@@ -4,8 +4,12 @@ title: Community Goal  Halsey Requests Relief
 slug: community_goal_halsey_requests_relief
 date: '3303-03-30'
 source: GitHub
-summary: Former Federal President Jasmina Halsey appealed for relief for refugees at Dirichlet Orbital in the Yum Kamcabi system. The Yum Kamcabi Purple Life Industry pledged rewards for delivery of supplies, while the Revolutionary Patani Labour placed kill orders on wanted ships.
-player_impact: Deliver Natural Fabrics, Food Cartridges and Basic Medicines to Dirichlet Orbital in the Yum Kamcabi system.
+summary: Former Federal President Jasmina Halsey appealed for relief for refugees
+  at Dirichlet Orbital in the Yum Kamcabi system. The Yum Kamcabi Purple Life Industry
+  pledged rewards for delivery of supplies, while the Revolutionary Patani Labour
+  placed kill orders on wanted ships.
+player_impact: Deliver Natural Fabrics, Food Cartridges and Basic Medicines to Dirichlet
+  Orbital in the Yum Kamcabi system.
 persons:
 - Jasmina Halsey
 groups:
@@ -21,7 +25,14 @@ topics:
 modern_impact: None
 legacy_weight: 2
 significance: low
+related_uuids:
+- 705558a5-f1f7-5536-96fa-06d4ff51ece6
+- 038568fb-4fcf-500d-bcaf-24e8b6c188c7
+- 1034cc0f-a196-5d70-a72a-116480e4f667
+- 043b09cb-a215-572d-93dd-9554ec2ca250
+- c7d03263-c11f-5f80-aef4-c7ca6c341238
 ---
+
 
 Former Federal President Jasmina Halsey has appealed for relief for The refugees currently at Dirichlet Orbital. 
 

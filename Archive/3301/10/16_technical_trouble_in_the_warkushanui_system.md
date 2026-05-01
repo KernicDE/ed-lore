@@ -4,8 +4,14 @@ title: Technical Trouble in the Warkushanui System
 slug: technical_trouble_in_the_warkushanui_system
 date: '3301-10-16'
 source: GitHub
-summary: Multiple starports in the Warkushanui system began experiencing technical issues including power outages, communications problems, and docking system malfunctions. Technician Sam Norris at Coats Hub reported that Gurragchaa Gateway appeared to be suffering worse conditions, though stable comms could not be established to confirm the extent.
-player_impact: Pilots visiting Warkushanui should be aware of potential technical issues at stations in the system. Services were not yet suspended, but conditions may deteriorate.
+summary: Multiple starports in the Warkushanui system began experiencing technical
+  issues including power outages, communications problems, and docking system malfunctions.
+  Technician Sam Norris at Coats Hub reported that Gurragchaa Gateway appeared to
+  be suffering worse conditions, though stable comms could not be established to confirm
+  the extent.
+player_impact: Pilots visiting Warkushanui should be aware of potential technical
+  issues at stations in the system. Services were not yet suspended, but conditions
+  may deteriorate.
 persons:
 - Sam Norris
 locations:
@@ -14,10 +20,18 @@ locations:
 - Warkushanui
 topics:
 - construction
-modern_impact: Early indicator of the technological plague that would later spread across multiple systems.
+modern_impact: Early indicator of the technological plague that would later spread
+  across multiple systems.
 legacy_weight: 2
 significance: low
+related_uuids:
+- d4aa672b-a832-59f6-b2e2-69b7bed10a1e
+- 05d77299-2947-5ff2-86c6-711587f7fb24
+- eb123ec1-f206-55d3-9064-7aa1643f3934
+- ad64e49b-87f3-5290-852b-7ba4de078c47
+- e3646c96-7552-5811-b056-dd57f3e4b783
 ---
+
 
 Reports coming in from the Warkushanui system indicate that a number of starports in the region are currently experiencing technical issues. According to Sam Norris, a technician at Coats Hub, the system's inhabitants are dealing With a range of problems: 
 

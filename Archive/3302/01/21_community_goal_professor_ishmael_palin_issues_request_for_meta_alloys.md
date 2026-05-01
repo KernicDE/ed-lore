@@ -30,7 +30,9 @@ significance: high
 related_uuids:
 - 3b53790d-1669-583c-8720-2ab6d525de1c
 - 581477c5-afa7-5805-bc6b-f58e204f9bf0
+- 0856035e-4ad7-545b-bb09-9480bea555fb
 ---
+
 
 
 A remarkable discovery was made last week when non-human structures were Found on a number of planets in The Pleiades Nebula. These 'barnacles', As the galactic community has christened them, produce a material known as meta-alloys, the exact properties of Which are not yet known. 

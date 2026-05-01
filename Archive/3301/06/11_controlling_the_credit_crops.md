@@ -37,7 +37,9 @@ significance: high
 related_uuids:
 - 4d0d8ee9-0acc-54d5-b061-7c4d2ea93522
 - 6e3b0a13-d6ff-5867-9836-ce422ebf2893
+- dd792af2-b24a-5dfb-bd17-8c3d5a502979
 ---
+
 
 
 A little over six months ago, the newly discovered naturally occurring plant known as Onionhead was made illegal throughout all of Federal space. Not long after, in an attempt to stop the spread of Onionhead, the Federation launched a violent campaign against the innocent farmers of Kappa Fornacis, led by the vocal Georgio Algeria. Federal marines invaded the farmers’ fields, and Federal battle cruisers rained fire from the skies. 

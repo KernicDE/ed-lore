@@ -33,7 +33,13 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - 8ed34fe4-5dca-57b8-9ed7-01a204faca8d
+- d3d91cff-953c-5e0f-90c2-0e0c3f57bd57
+- 52d49d8c-9199-5a5a-bef8-ff57631c3701
+- c15a3227-193e-5472-b5dd-fe4bb113ef6a
+- c99011fc-1b5b-54c2-880e-5eadfbc7924e
+- b5b61765-8e3b-5065-8823-15a5c434f68a
 ---
+
 
 
 On The 30th of June 3301, Newton Dock in the BD-02 4304 system was quarantined due to the outbreak of a mysterious plague. This pathogen – named the Cerberus Plague – eventually spread to over 20 systems and claimed 100,000 lives. 

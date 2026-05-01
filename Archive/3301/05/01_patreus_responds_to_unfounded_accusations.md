@@ -4,8 +4,13 @@ title: Patreus Responds to 'Unfounded' Accusations
 slug: patreus_responds_to_unfounded_accusations
 date: '3301-05-01'
 source: GitHub
-summary: Senator Denton Patreus publicly refutes accusations from Senator Arissa Lavigny-Duval that Emperor's Grace instigated an attack without his knowledge. On the programme 'Question Everything', Patreus called the evidence fabricated and declared the charges trumped-up. The leadership of Emperor's Grace was released into Patreus's custody and placed under house arrest in HR 706.
-player_impact: Pilots aligned with Patreus or Emperor's Grace may find their standing affected by the political fallout with Lavigny-Duval.
+summary: Senator Denton Patreus publicly refutes accusations from Senator Arissa Lavigny-Duval
+  that Emperor's Grace instigated an attack without his knowledge. On the programme
+  'Question Everything', Patreus called the evidence fabricated and declared the charges
+  trumped-up. The leadership of Emperor's Grace was released into Patreus's custody
+  and placed under house arrest in HR 706.
+player_impact: Pilots aligned with Patreus or Emperor's Grace may find their standing
+  affected by the political fallout with Lavigny-Duval.
 persons:
 - Denton Patreus
 - Arissa Lavigny-Duval
@@ -20,10 +25,19 @@ topics:
 - sport
 - succession
 - war
-modern_impact: Demonstrates the early political rivalry between Patreus and Lavigny-Duval as both position themselves for Imperial succession.
+modern_impact: Demonstrates the early political rivalry between Patreus and Lavigny-Duval
+  as both position themselves for Imperial succession.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 7dc64c51-9af8-50a7-b1c6-2f97c35ce3f7
+- d5e1a76d-3d6c-59ee-a04a-a341848d81bd
+- 2c3a3f21-aa45-532e-96c3-1c53cc3fd1de
+- 07e20d67-df6b-5dc6-8ac9-c8e744e9a973
+- c7ae7af9-c8e6-50c8-97c9-d0f60557ca65
+- 5ed57cf0-8965-579c-9d6c-4a90cbf23630
 ---
+
 
 After a heated meeting of The Senate held earlier today, Senator Patreus made a rare appearance on 'Question Everything' to address The accusations levelled against Emperor's Grace by Senator Lavigny. 
 

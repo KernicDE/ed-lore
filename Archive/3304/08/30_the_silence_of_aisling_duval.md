@@ -4,7 +4,12 @@ title: The Silence of Aisling Duval
 slug: the_silence_of_aisling_duval
 date: '3304-08-30'
 source: GitHub
-summary: The date of Princess Aisling Duval's wedding to Jordan Rochester passes without comment from either party. Solomon Helios reports public reactions range from outrage to delight, with Jasmina Halsey calling it a lost opportunity for peace and Zemina Torval calling it the mercy killing of a catastrophically bad idea. Neither the Imperial Palace nor the White House comments. Jarl Toredo has vanished from public sight, and both the Rochester family and Aisling Duval remain silent.
+summary: The date of Princess Aisling Duval's wedding to Jordan Rochester passes without
+  comment from either party. Solomon Helios reports public reactions range from outrage
+  to delight, with Jasmina Halsey calling it a lost opportunity for peace and Zemina
+  Torval calling it the mercy killing of a catastrophically bad idea. Neither the
+  Imperial Palace nor the White House comments. Jarl Toredo has vanished from public
+  sight, and both the Rochester family and Aisling Duval remain silent.
 player_impact: None
 persons:
 - Aisling Duval
@@ -27,7 +32,9 @@ locations:
 topics:
 - slavery
 - politics
-modern_impact: The silence from all parties following the cancelled wedding leaves the true nature of the Duval-Rochester relationship an enduring mystery, while political observers speculate on the fallout for cross-superpower diplomacy.
+modern_impact: The silence from all parties following the cancelled wedding leaves
+  the true nature of the Duval-Rochester relationship an enduring mystery, while political
+  observers speculate on the fallout for cross-superpower diplomacy.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -35,6 +42,7 @@ related_uuids:
 - aed37642-53f2-57d4-9e1f-a49aa8ca8b77
 - d1aacae5-010b-538a-9be7-f872eece9a07
 ---
+
 
 The date of Princess Aisling Duval’s wedding to Federal Ambassador Jordan Rochester has passed without comment from either party.  
 

@@ -4,7 +4,9 @@ title: Felicia Winters Elected as Federal President
 slug: felicia_winters_elected_as_federal_president
 date: '3309-10-16'
 source: API
-summary: Felicia Winters wins the 3309 Federal presidential election with a 4% majority over Jerome Archer, with congratulations from allies and a cautious response from the Empire.
+summary: Felicia Winters wins the 3309 Federal presidential election with a 4% majority
+  over Jerome Archer, with congratulations from allies and a cautious response from
+  the Empire.
 player_impact: Not specifically mentioned.
 persons:
 - Felicia Winters
@@ -26,13 +28,20 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Winters's victory speech — 'create optimism where there was fear, give shelter those who are vulnerable' — defines her agenda. Archer's gracious concession — 'I look forward to taking on the role of shadow president' — establishes the opposition dynamic. The Empire's 'No formal acknowledgement' while Aisling 'joined Professor Alba Tesreau' shows the nuanced Imperial response — official coldness but personal engagement through Aegis.
+modern_impact: Winters's victory speech — 'create optimism where there was fear, give
+  shelter those who are vulnerable' — defines her agenda. Archer's gracious concession
+  — 'I look forward to taking on the role of shadow president' — establishes the opposition
+  dynamic. The Empire's 'No formal acknowledgement' while Aisling 'joined Professor
+  Alba Tesreau' shows the nuanced Imperial response — official coldness but personal
+  engagement through Aegis.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 8727788d-05be-5b7c-b1a5-0a876fe6c062
 - 9de434cf-a33f-52bd-ac07-84c6aa5ef7ad
+- 86ccf794-59d3-5bc5-ae63-b689d2a5d777
 ---
+
 
 The Federation has voted to elect Felicia Winters as its next president, with a four per cent vote majority over her rival Jerome Archer.
 The current shadow president of the Liberal Party will be officially inaugurated in the new year, entering an eight-year term of office. Congressman Isolde Rochester will also be sworn in as vice president in Winters’s administration. 

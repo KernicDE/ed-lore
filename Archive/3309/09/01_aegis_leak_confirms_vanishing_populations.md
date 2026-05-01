@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 A private discussion among Aegis leadership regarding mass Thargoid abductions has been made public.
 Recordings of Professor Alba Tesreau, Aden Tanner and Seo Jin-ae were sent to and published by all newsfeeds, including the Pilots’ Federation. File data shows that their conversation took place shortly before Professor Tesreau’s statement to the media on July 18th, in Alba Tesreau’s office at Aegis headquarters in Duamta.
 After a brief period of speculation, Seo Jin-ae herself confirmed that she released the logs. Seo indicated that rumours circulating on ‘alternative ICE channels’ of Aegis withholding information from the public were false, and that Tesreau intended to announce evidence of human abductions even before the Dedicant tragedy brought the news to prominence.

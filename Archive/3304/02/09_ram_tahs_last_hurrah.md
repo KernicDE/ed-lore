@@ -34,7 +34,9 @@ significance: high
 related_uuids:
 - 1f14ad3b-bcd6-5523-9f8d-dde2069266ad
 - 8ca2d2a4-d5d9-59b1-871c-4105d459b874
+- a616bbe6-575f-5789-9eee-d92a17ec0c59
 ---
+
 
 
 Ram Tah, The galaxy's foremost expert on the Guardians, has revealed that his research funding will soon end. In an effort to make the most of his remaining finances, the engineer has appealed to Independent pilots to deliver Guardian artefacts to his base in the Meene system. 

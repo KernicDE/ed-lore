@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 Aegis xenologists are focusing their efforts on the mysterious alien growths reported on multiple planets and moons in the Trianguli sector.
 These have been designated ‘Thargoid barnacle matrix sites’, due to their resemblance to the barnacles that produce meta-alloys, but are far greater in size and complexity. 
 Commander Yoselin Aquino  described visiting one of these sites to Vox Galactica:

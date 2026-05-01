@@ -4,8 +4,11 @@ title: Vitadyne Nanomeds Campaign
 slug: vitadyne_nanomeds_campaign
 date: '3305-01-24'
 source: GitHub
-summary: Professor Katrien Rook launches a bidding competition between Neomedical Industries and the Vandermeer Corporation for a licence to mass-produce Vitadyne nanomedicines.
-player_impact: Pilots could deliver advanced medicines, computer components and auto fabricators to either Piserchia Port in Alignak or Elion Dock in Kuma.
+summary: Professor Katrien Rook launches a bidding competition between Neomedical
+  Industries and the Vandermeer Corporation for a licence to mass-produce Vitadyne
+  nanomedicines.
+player_impact: Pilots could deliver advanced medicines, computer components and auto
+  fabricators to either Piserchia Port in Alignak or Elion Dock in Kuma.
 persons:
 - Katrien Rook
 groups:
@@ -19,13 +22,16 @@ topics:
 - corporate expansion
 - medicine
 - trade
-modern_impact: The competitive bidding process between Alliance and Federal pharmaceutical giants highlighted the commercial potential of nanomedicine technology and the political dimensions of healthcare distribution across superpower borders.
+modern_impact: The competitive bidding process between Alliance and Federal pharmaceutical
+  giants highlighted the commercial potential of nanomedicine technology and the political
+  dimensions of healthcare distribution across superpower borders.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 0a245776-7f87-5585-9289-94a24fd31183
 - 1e747adf-c608-5245-b1cc-d944ee58592b
 ---
+
 
 Professor Katrien Rook of Vitadyne Labs has launched an initiative to establish a new pharmaceutical production facility. 
 

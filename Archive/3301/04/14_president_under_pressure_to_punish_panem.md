@@ -29,7 +29,10 @@ significance: medium
 related_uuids:
 - 17109670-f27f-5ffd-8e5f-fd13bfa001c0
 - b8672130-0141-52f4-9188-4fe0efb5846b
+- a09d1f61-d891-5333-a708-6ec2b6a7ba34
+- d5cadffe-10a6-5731-a2f9-b6e28daf4b86
 ---
+
 
 
 Shadow President Hudson appeared before Congress earlier today to demand that President Halsey address The continued spread of Onionhead throughout Federal space. 

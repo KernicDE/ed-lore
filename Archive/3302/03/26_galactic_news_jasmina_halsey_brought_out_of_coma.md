@@ -27,7 +27,10 @@ significance: high
 related_uuids:
 - 9cd7aed5-b065-5419-be03-d98a4361f771
 - fd20f126-1514-5567-9737-ba8347d44b4f
+- f0a5ea4e-dbc4-5d47-8cee-22cc2cf86b6c
+- e7ba3d66-8ab0-5f03-80c3-c038b99249a9
 ---
+
 
 
 Federal President Zachary Hudson has released a statement confirming that former President Jasmina Halsey has been brought out of her induced coma. 

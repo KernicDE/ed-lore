@@ -41,6 +41,7 @@ related_uuids:
 
 
 
+
 Former President Jasmina Halsey has taken The witness stand during the trial of Fleet Admiral Lucas Vincent at the Federal High Court.
 Crime correspondent Ethan Takahashi reported the details for The Federal Times:
 “Jasmina Halsey confirmed that the orders for Starship One’s unscheduled stopover in the Azaleach system came directly from Fleet Admiral Vincent. She added that the presidential itinerary was often altered for various mundane reasons, and at the time This seemed routine.”

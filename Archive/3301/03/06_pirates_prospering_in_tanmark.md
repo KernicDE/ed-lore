@@ -4,8 +4,14 @@ title: Pirates Prospering in Tanmark
 slug: pirates_prospering_in_tanmark
 date: '3301-03-06'
 source: GitHub
-summary: Despite the Defence Force of Tanmark's success against the Tanmark Posse on Luca, hundreds of unmarked pirate ships began attacking traders in the Tanmark system. The criminal wave was sparked by an economic boom from increased Lucan Onionhead production. The Defence Force limited trader access to Onionhead to reduce targeting, but is now offering to empty storerooms once security is restored. Pilots can sign up for security duty aboard Cassie-L-Peia in Tanmark.
-player_impact: Pilots can sign up for the Tanmark security initiative at Cassie-L-Peia to combat piracy and earn access to Lucan Onionhead stocks.
+summary: Despite the Defence Force of Tanmark's success against the Tanmark Posse
+  on Luca, hundreds of unmarked pirate ships began attacking traders in the Tanmark
+  system. The criminal wave was sparked by an economic boom from increased Lucan Onionhead
+  production. The Defence Force limited trader access to Onionhead to reduce targeting,
+  but is now offering to empty storerooms once security is restored. Pilots can sign
+  up for security duty aboard Cassie-L-Peia in Tanmark.
+player_impact: Pilots can sign up for the Tanmark security initiative at Cassie-L-Peia
+  to combat piracy and earn access to Lucan Onionhead stocks.
 persons: []
 groups:
 - Defence Force of Tanmark
@@ -18,10 +24,18 @@ topics:
 - crime
 - narcotics
 - piracy
-modern_impact: The Tanmark piracy surge demonstrated how narcotics booms attract criminal elements, creating cycles of violence even after initial law enforcement successes.
+modern_impact: The Tanmark piracy surge demonstrated how narcotics booms attract criminal
+  elements, creating cycles of violence even after initial law enforcement successes.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 7d696eb7-feeb-554b-ad2b-d688cec5e6ac
+- 250efdcd-316b-51d1-9cd6-89748b83732b
+- 7a47b8fd-dda9-5d7e-99f3-5c8845d59508
+- 4b65d609-766a-55a9-865e-b4a2486fd447
+- ec6f3cdd-077e-53df-b05f-f21109ad0a05
 ---
+
 
 Despite The Defence Force of Tanmark’s overwhelming success in closing down The Tanmark Posse’s operations on Luca, Hundreds of unmarked pirate ships have been attacking innocent traders as they go about their business in the system.  
 

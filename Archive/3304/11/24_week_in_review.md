@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-11-24'
 source: GitHub
-summary: Weekly summary covering Admiral Frederick Yamamoto's appointment to the Alliance Council of Admirals, the closure and arrest of Mars Tribune owner Kingsley Cordova, Sirius Corporation's arrest of rogue officers involved in the Meene raid, Nova Imperium's declaration to install a new Emperor, the eruption of conflict in the Loha system, and the conclusion of Olelbis Holdings' commodity appeal.
+summary: Weekly summary covering Admiral Frederick Yamamoto's appointment to the Alliance
+  Council of Admirals, the closure and arrest of Mars Tribune owner Kingsley Cordova,
+  Sirius Corporation's arrest of rogue officers involved in the Meene raid, Nova Imperium's
+  declaration to install a new Emperor, the eruption of conflict in the Loha system,
+  and the conclusion of Olelbis Holdings' commodity appeal.
 player_impact: None
 persons:
 - Frederick Yamamoto
@@ -40,7 +44,9 @@ topics:
 - trade
 - war
 - politics
-modern_impact: This week sees Alliance military reorganisation, Federal justice against corporate corruption, Sirius damage control, and Nova Imperium's open challenge to Imperial rule.
+modern_impact: This week sees Alliance military reorganisation, Federal justice against
+  corporate corruption, Sirius damage control, and Nova Imperium's open challenge
+  to Imperial rule.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -51,6 +57,7 @@ related_uuids:
 - 51c4c96c-e5de-5772-adb0-4b0d9d2e8c96
 - 4272c1e0-2c23-5970-8096-14298490fef1
 ---
+
 
 Here are This week’s major stories. 
 

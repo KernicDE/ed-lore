@@ -35,7 +35,9 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - 46407e8e-50ca-56ba-88b8-54b530cb06c5
+- 16e19a12-9891-53fc-b098-58c5903c858b
 ---
+
 
 
 There has been a range of reactions to news that Princess Aisling Duval and Federal Ambassador Jordan Rochester are to be married. 

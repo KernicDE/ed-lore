@@ -44,6 +44,7 @@ related_uuids:
 ---
 
 
+
 President Zachary Hudson and Shadow President Felicia Winters have united behind Federal backing for the reformation of Aegis.
 Congress held an emergency debate after the Alliance and Empire agreed to support an official tri-superpower initiative against the Thargoids. A majority of votes from Republican, Liberal and independent representatives approved the provision of ships, personnel and materials from the Federation.
 President Hudson delivered a short address to mark the occasion:

@@ -4,7 +4,13 @@ title: League of Reparation Eliminated
 slug: league_of_reparation_eliminated
 date: '3304-07-28'
 source: GitHub
-summary: The tri-superpower taskforce confirms the League of Reparation has been dismantled. Captain Niamh Seutonia announces every member has been arrested or eliminated thanks to galactic community support. Deputy Inspector Mara Klatt reveals Riri McAllister confessed to being the League's original architect, claiming to be a descendant of Commander John Jameson and that her duty was to avenge his death. McAllister is registered as an orphan of unknown lineage, making the claim unverifiable. Alliance Interpol charges her with multiple terrorism-related crimes.
+summary: The tri-superpower taskforce confirms the League of Reparation has been dismantled.
+  Captain Niamh Seutonia announces every member has been arrested or eliminated thanks
+  to galactic community support. Deputy Inspector Mara Klatt reveals Riri McAllister
+  confessed to being the League's original architect, claiming to be a descendant
+  of Commander John Jameson and that her duty was to avenge his death. McAllister
+  is registered as an orphan of unknown lineage, making the claim unverifiable. Alliance
+  Interpol charges her with multiple terrorism-related crimes.
 player_impact: None
 persons:
 - Niamh Seutonia
@@ -25,7 +31,9 @@ topics:
 - terrorism
 - crime
 - investigation
-modern_impact: The League's dismantling closes a dark chapter of INRA-related terrorism, though McAllister's unverifiable claims about Jameson lineage leave lingering questions about her true motivations.
+modern_impact: The League's dismantling closes a dark chapter of INRA-related terrorism,
+  though McAllister's unverifiable claims about Jameson lineage leave lingering questions
+  about her true motivations.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -33,6 +41,7 @@ related_uuids:
 - a5b31ecc-9012-5aaf-bdcb-cc8a7fd50a78
 - 658df222-9a6d-5eb0-87e6-6fc4621e39c8
 ---
+
 
 The League of Reparation has been dismantled, According to the tri-superpower taskforce investigating the organisation. 
 

@@ -36,7 +36,9 @@ related_uuids:
 - 52a6914e-4835-530a-a009-016a4e55435d
 - 5a1d0dfb-328a-5005-8d29-f370641c3be4
 - c07fd120-16f0-5ec7-ba11-8e20b7d3729f
+- a5b9e2d4-6885-5c74-8e5b-278e557e3388
 ---
+
 
 
 Aegis scientists have recently held a public forum to discuss ongoing research into the wreckage left behind by Thargoid Titans.

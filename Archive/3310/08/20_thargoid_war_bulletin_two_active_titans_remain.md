@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Titan Thor in the Col 285 Sector IG-O c6-5 system has been reported as destroyed, leaving only two of the eight Thargoid motherships still active.
 Aegis has begun a scientific analysis programme to investigate the hulks of all inactive Titans. A spokesperson told the media:
 “Xenologists from the Alliance, Empire and Federation are eagerly cooperating to study the Titans’ remains. Military teams are accompanying our research specialists as they seek to improve our understanding of Thargoid biotechnology.”

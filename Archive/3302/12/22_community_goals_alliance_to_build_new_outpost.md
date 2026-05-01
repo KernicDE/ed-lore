@@ -32,7 +32,11 @@ significance: medium
 related_uuids:
 - 297518b9-2a20-5beb-b24e-80bb9fab33dd
 - 9171caa2-184b-5db3-afa6-c48602b54e2e
+- 6a749ee2-3428-5c11-8cb6-4638f5a667be
+- 677d3fc6-788c-559a-90dd-1847201f631f
+- cd962620-775d-5c9e-93e9-c25b0edfdb19
 ---
+
 
 
 Alliance Prime Minister Edmund Mahon has announced plans to construct a planetary outpost in The California Nebula. In a statement, Mahon explained that the new outpost would serve as a centre for xenobiological and astronomical research. He went on to say: 

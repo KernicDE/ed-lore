@@ -4,7 +4,8 @@ title: Winters Pauses Inauguration After Rhea Disaster
 slug: winters_pauses_inauguration_after_rhea_disaster
 date: '3310-02-21'
 source: API
-summary: President-elect Felicia Winters officially delays her inauguration to focus on Rhea 3 earthquake relief after losing most of her family in New Greenacre's destruction.
+summary: President-elect Felicia Winters officially delays her inauguration to focus
+  on Rhea 3 earthquake relief after losing most of her family in New Greenacre's destruction.
 player_impact: Not specifically mentioned — this is a political announcement.
 persons:
 - Felicia Winters
@@ -19,13 +20,19 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: The official statement — 'most of the Winters family, plus many close friends, lost their lives when the capital city of New Greenacre was levelled' — confirms the personal tragedy. Hudson's agreement to 'a short extension of his presidential term' is a constitutional compromise. The Empirical journal's discussion of terraformed planet earthquakes adds scientific context. Kennelly's reporting on 'nearly a million survivors, albeit many injured' quantifies the scale.
+modern_impact: The official statement — 'most of the Winters family, plus many close
+  friends, lost their lives when the capital city of New Greenacre was levelled' —
+  confirms the personal tragedy. Hudson's agreement to 'a short extension of his presidential
+  term' is a constitutional compromise. The Empirical journal's discussion of terraformed
+  planet earthquakes adds scientific context. Kennelly's reporting on 'nearly a million
+  survivors, albeit many injured' quantifies the scale.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 0f13aaee-4abc-596b-83e9-77c4aac6b550
 - 11f0360c-ab72-5b7e-a309-5d972307d305
 ---
+
 
 President-elect Felicia Winters has delayed the start of her term of office, in response to devastating earthquakes on the planet Rhea 3.
 The following statement was delivered by her office to a special session of Congress:

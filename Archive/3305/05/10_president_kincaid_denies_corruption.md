@@ -4,7 +4,9 @@ title: President Kincaid Denies Corruption
 slug: president_kincaid_denies_corruption
 date: '3305-05-10'
 source: GitHub
-summary: President Gibson Kincaid refutes allegations of illegal campaign funding, claims the inquiry is politically motivated revenge from Councillor Elijah Beck, and deflects attention by raising questions about Fazia Silva's assassination.
+summary: President Gibson Kincaid refutes allegations of illegal campaign funding,
+  claims the inquiry is politically motivated revenge from Councillor Elijah Beck,
+  and deflects attention by raising questions about Fazia Silva's assassination.
 player_impact: None — background political report.
 persons:
 - Gibson Kincaid
@@ -20,7 +22,9 @@ topics:
 - investigation
 - politics
 - scandal
-modern_impact: Kincaid's defiant denial and attempt to redirect suspicion toward Beck over Fazia Silva's murder was a last-ditch effort to retain power, but only accelerated the Assembly's resolve to investigate.
+modern_impact: Kincaid's defiant denial and attempt to redirect suspicion toward Beck
+  over Fazia Silva's murder was a last-ditch effort to retain power, but only accelerated
+  the Assembly's resolve to investigate.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -28,6 +32,7 @@ related_uuids:
 - 89ca282d-1ecf-588b-90ed-37e0e6c76c13
 - 508242c8-bd72-5b14-a5ce-fd74e32b0e69
 ---
+
 
 President Gibson Kincaid has refuted allegations of illegal campaign funding and is refusing to cooperate With the official inquiry. 
 

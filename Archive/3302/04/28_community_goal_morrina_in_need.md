@@ -4,8 +4,12 @@ title: Community Goal  Morrina in Need
 slug: community_goal_morrina_in_need
 date: '3302-04-28'
 source: GitHub
-summary: The Spinward Marches Alliance Concern launches an appeal for basic medicines, water purifiers, and power generators to help the Morrina system recover from recent criminal gang activity and civil unrest. Commanders Saool and Dennehy coordinate the effort.
-player_impact: Pilots delivered basic medicines, water purifiers, and power generators to Beaumont Dock in the Morrina system.
+summary: The Spinward Marches Alliance Concern launches an appeal for basic medicines,
+  water purifiers, and power generators to help the Morrina system recover from recent
+  criminal gang activity and civil unrest. Commanders Saool and Dennehy coordinate
+  the effort.
+player_impact: Pilots delivered basic medicines, water purifiers, and power generators
+  to Beaumont Dock in the Morrina system.
 persons:
 - Commander Saool
 - Commander Dennehy
@@ -24,7 +28,15 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 746266e1-96e1-5219-a4fe-cb446a3a1ba3
+- 9a0770e5-660a-59b1-abc3-2f4bb38fc9a6
+- 59b87460-f182-5c51-a612-4c37dfb49701
+- c1bb8505-258a-5bf5-93a5-f8c5de278630
+- 97d6dbd0-8054-57f7-b072-e6a7d62d43d9
+- d419b88a-de19-5028-b105-8b18ccccd9bd
 ---
+
 
 The people of The Morrina system have endured considerable hardship recently, first at the hand of criminal gangs and then as a result of widespread civil unrest. Although a recent military operation succeeded in eliminating the agitators operating in the system, much of Morrina has been badly affected by the conflict, and Many citizens are suffering from a lack of water and power. 
 

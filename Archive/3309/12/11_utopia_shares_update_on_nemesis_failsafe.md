@@ -44,6 +44,7 @@ related_uuids:
 ---
 
 
+
 Simguru Pranav Antal has discussed Utopia’s analysis of the designs for a Guardian-based device allegedly constructed by Salvation.
 The schematics for the Nemesis Failsafe were unearthed by Seo Jin-ae, who believed that Salvation had developed a way to digitise and relocate his mind upon physical death. Following concerns that Utopia was involved, Aegis shared these designs with the commune to confirm that there was no connection with their Sim-Archive technology.
 Pranav Antal recently sent a message to Aegis, which has been made public with Utopia’s permission:

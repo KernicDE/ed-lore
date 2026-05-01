@@ -4,7 +4,8 @@ title: Senate Blocks ACT Investigation
 slug: senate_blocks_act_investigation
 date: '3308-01-17'
 source: API
-summary: The Imperial Senate is accused of blocking ACT's investigation into links between Imperial Intelligence and the NMLA.
+summary: The Imperial Senate is accused of blocking ACT's investigation into links
+  between Imperial Intelligence and the NMLA.
 player_impact: Not specifically mentioned — this is a political report.
 groups:
 - Imperial Senate
@@ -17,7 +18,9 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: '"I once again propose that ACT be disbanded and its operatives returned to normal duties." The Senate''s obstruction of ACT reveals the depth of Imperial institutional resistance to exposing the NMLA conspiracy.'
+modern_impact: '"I once again propose that ACT be disbanded and its operatives returned
+  to normal duties." The Senate''s obstruction of ACT reveals the depth of Imperial
+  institutional resistance to exposing the NMLA conspiracy.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,6 +35,7 @@ related_uuids:
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
 ---
+
 
 There are claims that The Imperial Senate is preventing efforts to examine a potential link between the Empire’s security services and the NMLA.
 Captain Saskia Landau has publicly stated that the terrorists’ dark-comms network is closely related to the Omega Grid system used exclusively by Imperial Intelligence. She expanded on her theory In a statement to Vox Galactica:

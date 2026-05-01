@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Aegis has continued to monitor the recently shifting Thargoid behaviour and have confirmed a clear pattern.
 Expansion efforts have slowed in recent weeks, with experts theorising that this change in the Thargoids was a precursor to a change in overall strategy. Aegis researchers have now gathered enough evidence to confirm a tactical shift.
 The Thargoids have adopted a more defensive stance, reinforcing their current position rather than expanding outward. They are also targeting and invading populated systems exclusively, sometimes without their normal scouting operations.

@@ -4,8 +4,13 @@ title: Thargoids Repelled from Core Systems
 slug: thargoids_repelled_from_core_systems
 date: '3304-06-22'
 source: GitHub
-summary: Aegis confirms the Thargoid presence in the core systems has been significantly diminished thanks to the galactic community. Admiral Aden Tanner reports that independent pilots, using Eagle Eye data, formed a defensive barrier preventing further Thargoid encroachment. Their forces have been pushed back to the Bhal system, their initial beachhead.
-player_impact: Independent pilots who fought Thargoids in the core systems helped push them back to Bhal.
+summary: Aegis confirms the Thargoid presence in the core systems has been significantly
+  diminished thanks to the galactic community. Admiral Aden Tanner reports that independent
+  pilots, using Eagle Eye data, formed a defensive barrier preventing further Thargoid
+  encroachment. Their forces have been pushed back to the Bhal system, their initial
+  beachhead.
+player_impact: Independent pilots who fought Thargoids in the core systems helped
+  push them back to Bhal.
 persons:
 - Aden Tanner
 groups:
@@ -15,13 +20,15 @@ locations:
 topics:
 - alien contact
 - war
-modern_impact: The successful repulsion of Thargoids from core systems marks a significant turning point, proving humanity can effectively resist alien incursion.
+modern_impact: The successful repulsion of Thargoids from core systems marks a significant
+  turning point, proving humanity can effectively resist alien incursion.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 34982e5c-4fd7-5b67-b8c5-d8a11abae5e5
 - d33c2337-8ce6-5941-ade9-90a742c87559
 ---
+
 
 Aegis has confirmed that The Thargoid presence In the core systems has been significantly diminished, due largely to the efforts of the galactic community. 
 

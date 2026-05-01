@@ -4,8 +4,10 @@ title: The Darkest Days
 slug: the_darkest_days
 date: '3308-12-13'
 source: API
-summary: Newsfeeds have published their reactions as the Thargoid Maelstroms launch fleets to overpower multiple inhabited systems.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: Newsfeeds have published their reactions as the Thargoid Maelstroms launch
+  fleets to overpower multiple inhabited systems.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 locations:
 - Sol
 topics:
@@ -14,7 +16,9 @@ topics:
 - succession
 - war
 arc_id: null
-modern_impact: '"Be in no doubt: we are in a war for survival! Dark days are upon us. No more ridiculous ideas of peace with the alien..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"Be in no doubt: we are in a war for survival! Dark days are upon
+  us. No more ridiculous ideas of peace with the alien..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -24,6 +28,7 @@ related_uuids:
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - eb62c669-b525-5753-b3cb-faf6452a8088
 ---
+
 
 Newsfeeds have published their reactions as the Thargoid Maelstroms launch fleets to overpower multiple inhabited systems.
 Sol Today: “Be in no doubt: we are in a war for survival! Dark days are upon us. No more ridiculous ideas of peace with the aliens. No more time for politics or debate. The Thargoids have come to wipe us out unless we stand up and fight.”

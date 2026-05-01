@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 Trillionaire entrepreneur Zachary Rackham has launched his campaign to be elected as Federal president in the forthcoming election.
 He outlined several policies during a press event in the tropospheric suite of Rackham’s Spire on the planet Homeland:
 “As I see it, the job of president is to help ordinary, hard-working people from humble backgrounds – just like me. So I pledge to reduce all civil taxes and public service fees, and boost government funding for business grants and commercial opportunities. Let’s make everyone rich and successful – just like me!”

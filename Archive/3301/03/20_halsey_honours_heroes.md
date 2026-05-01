@@ -38,7 +38,9 @@ significance: low
 related_uuids:
 - d94ecb15-0ec2-5d1d-a0cf-f8fe10e9fada
 - df6229b9-1152-50a4-aacc-cea4be6f9bae
+- 87f07cae-db7b-524b-97d1-722b513e627e
 ---
+
 
 
 Despite The actions of undercover operatives acting on behalf of The Crimson State Group aboard Hartsfield Market, the Federation Continues to dominate the skies of Lugh. 

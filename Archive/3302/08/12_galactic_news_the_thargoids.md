@@ -33,7 +33,11 @@ significance: high
 related_uuids:
 - 4f028148-0b7b-5d2b-9334-9868e755268e
 - 51a77e93-8f7a-5968-9b91-a52b883d8a66
+- 94621316-3885-5f27-92e7-3e6974ddd43c
+- a9dc8e99-af38-5d39-a0b0-b115cbf251ce
+- c9090a01-c935-51c2-80e1-8ee2060b7733
 ---
+
 
 
 Continuing Our series on significant episodes from human history, noted historian Sima Kalhana discusses the Thargoids. 

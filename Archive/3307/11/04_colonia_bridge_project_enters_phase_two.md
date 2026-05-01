@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Brewer Corporation requests deliveries in The Alcor and Colonia systems for the next phase of the Colonia Bridge project.
 A successful initiative in October resulted in the placement of 30 dockable megaships at intervals of Several hundred light years, providing services such as refuelling and repairs. The second phase seeks to establish This support for the full route between the core systems and the Colonia region.

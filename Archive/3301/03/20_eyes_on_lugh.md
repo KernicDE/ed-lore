@@ -4,8 +4,15 @@ title: Eyes on Lugh
 slug: eyes_on_lugh
 date: '3301-03-20'
 source: GitHub
-summary: Federal forces continue to dominate Lugh, shredding Crimson State Group air defences. The CSG fleet has adopted defensive positions around Balandin Gateway and Knight Dock. Federal Marines secured Seega Port with minimal losses and are working to secure Read Gateway as a staging post for attacks against Crimson State starports. Despite millions already dead, rumours suggest the CSG is preparing a last desperate stand. Hundreds of refugee ships are fleeing Lugh 6 to escape the fighting.
-player_impact: Pilots can support Federal forces in securing Read Gateway and attacking Crimson State positions, or assist refugee ships fleeing Lugh 6.
+summary: Federal forces continue to dominate Lugh, shredding Crimson State Group air
+  defences. The CSG fleet has adopted defensive positions around Balandin Gateway
+  and Knight Dock. Federal Marines secured Seega Port with minimal losses and are
+  working to secure Read Gateway as a staging post for attacks against Crimson State
+  starports. Despite millions already dead, rumours suggest the CSG is preparing a
+  last desperate stand. Hundreds of refugee ships are fleeing Lugh 6 to escape the
+  fighting.
+player_impact: Pilots can support Federal forces in securing Read Gateway and attacking
+  Crimson State positions, or assist refugee ships fleeing Lugh 6.
 persons: []
 groups:
 - Federal Marines
@@ -20,10 +27,18 @@ locations:
 topics:
 - war
 - humanitarian
-modern_impact: The relentless Federal advance in Lugh created a humanitarian crisis as civilians fled the conflict zone in massive numbers.
+modern_impact: The relentless Federal advance in Lugh created a humanitarian crisis
+  as civilians fled the conflict zone in massive numbers.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 15273afe-bfae-58ed-9f3b-306cf7fdddd7
+- eb40a05b-a11a-58c5-b75e-7c9fb817f0d0
+- 0609e70f-b48f-5f02-9178-a03dc8fbe33a
+- 6c47d012-0c17-53a0-8508-284cfdd3035b
+- a94d2082-9eb4-5195-b274-d1f3a0195304
 ---
+
 
 Federal forces continue to dominate The skies of Lugh. The Crimson State Group’s air defences have been all but shredded, With the majority of their fleet now adopting a Defensive position around Balandin Gateway and Knight Dock. 
 

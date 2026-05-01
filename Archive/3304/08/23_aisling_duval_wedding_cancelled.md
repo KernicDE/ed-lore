@@ -4,7 +4,12 @@ title: Aisling Duval Wedding Cancelled
 slug: aisling_duval_wedding_cancelled
 date: '3304-08-23'
 source: GitHub
-summary: The wedding between Princess Aisling Duval and Federal Ambassador Jordan Rochester is cancelled, announced by Congress member Isolde Rochester. The cancellation follows Jarl Toredo's disclosure of his secret relationship with Duval and his claims that the marriage was purely political. Cassia Carvalho of the Imperial Herald speculates Isolde Rochester cancelled it because she no longer trusts Duval to play her part, or out of maternal rage at the infidelity.
+summary: The wedding between Princess Aisling Duval and Federal Ambassador Jordan
+  Rochester is cancelled, announced by Congress member Isolde Rochester. The cancellation
+  follows Jarl Toredo's disclosure of his secret relationship with Duval and his claims
+  that the marriage was purely political. Cassia Carvalho of the Imperial Herald speculates
+  Isolde Rochester cancelled it because she no longer trusts Duval to play her part,
+  or out of maternal rage at the infidelity.
 player_impact: None
 persons:
 - Aisling Duval
@@ -22,7 +27,9 @@ locations:
 topics:
 - slavery
 - politics
-modern_impact: The cancelled wedding shatters the high-profile Empire-Federation political alliance and becomes a major cultural talking point, with uncertain implications for cross-superpower relations.
+modern_impact: The cancelled wedding shatters the high-profile Empire-Federation political
+  alliance and becomes a major cultural talking point, with uncertain implications
+  for cross-superpower relations.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -30,6 +37,7 @@ related_uuids:
 - fd47bdc2-dcba-5689-a353-ca9b643ce205
 - d1aacae5-010b-538a-9be7-f872eece9a07
 ---
+
 
 Federal news channels have announced that The wedding of Princess Aisling Duval and Ambassador Jordan Rochester has been cancelled. 
 

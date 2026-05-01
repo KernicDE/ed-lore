@@ -4,8 +4,12 @@ title: Community Goal  Alliance Outpost Campaign
 slug: community_goal_alliance_outpost_campaign
 date: '3303-05-05'
 source: GitHub
-summary: The Alliance announced plans to construct a new outpost in the California Nebula, supported by the Turner Research Group, with an open order for construction materials.
-player_impact: Pilots can deliver Geological Equipment, Micro-Weave Cooling Hoses, Building Fabricators, and Energy Grid Assemblies to Darwin Research Facility in the California Sector BV-Y c7 system.
+summary: The Alliance announced plans to construct a new outpost in the California
+  Nebula, supported by the Turner Research Group, with an open order for construction
+  materials.
+player_impact: Pilots can deliver Geological Equipment, Micro-Weave Cooling Hoses,
+  Building Fabricators, and Energy Grid Assemblies to Darwin Research Facility in
+  the California Sector BV-Y c7 system.
 persons: []
 groups:
 - Alliance
@@ -19,10 +23,19 @@ topics:
 - research
 - war
 technologies: []
-modern_impact: Alliance outpost construction in the California Nebula expands scientific and resource-extraction capabilities in the region.
+modern_impact: Alliance outpost construction in the California Nebula expands scientific
+  and resource-extraction capabilities in the region.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 7ba50e3b-b05e-5a91-9da4-4447aa50e604
+- 49bae643-7d81-5e0f-a434-f06b00614e90
+- 87225afc-b3b3-53e4-a8e5-318408de14ef
+- 7fce62c7-23a6-52b8-8478-ee0df6a43e71
+- 08b7b21a-1241-5567-b004-c02839208082
+- e49426a3-760d-5f87-902f-2c2566578e16
 ---
+
 
 The Alliance has announced plans to construct a new outpost in the California Nebula and placed an open order for construction materials. 
 

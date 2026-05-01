@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 With Thargoid attacks becoming a regular occurrence in The Pleiades Nebula, Aegis has leveraged Its considerable reserves to fund a military operation in the Pleiades Sector IR-W d1-55. The initiative, dubbed ‘Operation Andronicus’, has been expressly conceived to counter Thargoid aggression in the region. 
 
 Admiral Aden Tanner, Aegis’s chief military liaison, elaborated on the nature of the initiative: 

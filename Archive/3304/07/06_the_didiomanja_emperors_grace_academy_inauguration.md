@@ -4,8 +4,12 @@ title: The Didiomanja Emperor's Grace Academy Inauguration
 slug: the_didiomanja_emperors_grace_academy_inauguration
 date: '3304-07-06'
 source: GitHub
-summary: The Didiomanja Emperor's Grace completes the Tiverion Academy, a flight school for Imperial naval cadets, and hosts an inaugural banquet. A monument to Admiral Mira Tiverion, the organisation's founding member, will be erected at the site. An open order is placed for exotic food, drink, and gold for the monument.
-player_impact: Independent pilots can deliver commodities to Leydenfrost Dock in the Didiomanja system. The campaign runs for one week.
+summary: The Didiomanja Emperor's Grace completes the Tiverion Academy, a flight school
+  for Imperial naval cadets, and hosts an inaugural banquet. A monument to Admiral
+  Mira Tiverion, the organisation's founding member, will be erected at the site.
+  An open order is placed for exotic food, drink, and gold for the monument.
+player_impact: Independent pilots can deliver commodities to Leydenfrost Dock in the
+  Didiomanja system. The campaign runs for one week.
 persons:
 - Mira Tiverion
 groups:
@@ -16,12 +20,14 @@ locations:
 topics:
 - construction
 - culture
-modern_impact: The Tiverion Academy expands Imperial naval training infrastructure, honouring a founding admiral while preparing new generations of pilots.
+modern_impact: The Tiverion Academy expands Imperial naval training infrastructure,
+  honouring a founding admiral while preparing new generations of pilots.
 legacy_weight: 1
 significance: low
 related_uuids:
 - 9177e211-a080-5a19-b2bd-634273e040c6
 ---
+
 
 The Didiomanja Emperor’s Grace has completed work on the Tiverion Academy, a flight school for Imperial naval cadets. The organisation is hosting an inaugural banquet to mark the event, and to honour the late Admiral Mira Tiverion, the organisation’s founding member, who will have a monument erected at the site. 
 

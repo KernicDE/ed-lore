@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 The Federal Intelligence Agency has launched a multi-system crackdown against the organised crime network known as Red Family.
 Synchronised raids are currently taking place in over a dozen systems across Federal space. Multiple ships, properties and manufacturing plants connected to Red Family’s illegal operations are being seized.
 FIA Deputy Director Bethany Blake provided a statement to The Federal Times:

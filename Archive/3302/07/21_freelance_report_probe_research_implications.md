@@ -4,7 +4,10 @@ title: Freelance Report  Probe Research Implications
 slug: freelance_report_probe_research_implications
 date: '3302-07-21'
 source: GitHub
-summary: Captain Alexis Corvus of Task Force Athena briefs the Imperial Senate on the offensive potential of Unknown Probes, warning that a single fighter with a discovery scanner and probe could disable dozens of spacecraft, and that five Farragut-class Battlecruisers in Merope suggest the Federation shares this concern.
+summary: Captain Alexis Corvus of Task Force Athena briefs the Imperial Senate on
+  the offensive potential of Unknown Probes, warning that a single fighter with a
+  discovery scanner and probe could disable dozens of spacecraft, and that five Farragut-class
+  Battlecruisers in Merope suggest the Federation shares this concern.
 player_impact: None
 persons:
 - Captain Alexis Corvus
@@ -22,10 +25,18 @@ technologies:
 - Unknown Probes
 - discovery scanner
 - Farragut-class Battlecruiser
-modern_impact: Raises awareness of the military applications of alien technology and intensifies the arms race between superpowers.
+modern_impact: Raises awareness of the military applications of alien technology and
+  intensifies the arms race between superpowers.
 legacy_weight: 2
 significance: low
+related_uuids:
+- d1538fbe-546e-59a6-8694-02b41e864385
+- 11cb4845-96e1-5ff1-ab46-1a3b0878799d
+- 7fb71080-aad8-5be7-9ce7-5f240074b405
+- 2e56b2b2-2386-5f55-a93f-56225f0b899d
+- 58c46b49-1659-5ce1-afe3-bd5afdff33b3
 ---
+
 
 Recent developments in Unknown Probe research have raised concerns among military strategists. 
 

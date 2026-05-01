@@ -4,7 +4,10 @@ title: Galactic News  People’s Rakapila Progressive Party Campaign Concludes
 slug: galactic_news_peoples_rakapila_progressive_party_campaign_concludes
 date: '3303-07-07'
 source: GitHub
-summary: The People's Rakapila Progressive Party announces the successful conclusion of its commodities appeal, with pilots delivering domestic appliances, consumer technology and clothing to Stone Enterprise in Rakapila. The campaign also saw the elimination of agitators to ensure safe trade routes.
+summary: The People's Rakapila Progressive Party announces the successful conclusion
+  of its commodities appeal, with pilots delivering domestic appliances, consumer
+  technology and clothing to Stone Enterprise in Rakapila. The campaign also saw the
+  elimination of agitators to ensure safe trade routes.
 player_impact: None
 persons: []
 groups:
@@ -17,10 +20,16 @@ topics:
 - trade
 - war
 technologies: []
-modern_impact: Local political campaign demonstrates the galactic community's willingness to support grassroots trade and security initiatives.
+modern_impact: Local political campaign demonstrates the galactic community's willingness
+  to support grassroots trade and security initiatives.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 97f66644-7bed-5d73-9bf7-ffb68ff98637
+- 81efa33f-d986-5ade-9dec-2e7d752fc802
+- de81bfff-314f-5151-9b9c-a1bba2360a85
 ---
+
 
 A spokesperson for The People’s Rakapila Progressive Party has announced that Its appeal for commodities has been enthusiastically received by the galactic community. Hundreds of pilots contributed to the campaign by delivering domestic appliances, consumer technology and clothing to Stone Enterprise in Rakapila, and by eliminating agitators in the system so traders could deliver commodities in safety. 
 

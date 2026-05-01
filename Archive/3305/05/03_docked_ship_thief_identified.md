@@ -4,7 +4,9 @@ title: Docked Ship Thief Identified
 slug: docked_ship_thief_identified
 date: '3305-05-03'
 source: GitHub
-summary: Fort Dixon Security identifies starship technician Gan Romero as the individual who stole a docked Diamondback Explorer in the Vega system, though his motive and method remain unexplained.
+summary: Fort Dixon Security identifies starship technician Gan Romero as the individual
+  who stole a docked Diamondback Explorer in the Vega system, though his motive and
+  method remain unexplained.
 player_impact: None — background investigation report.
 persons:
 - Misaki Sanders
@@ -17,7 +19,9 @@ locations:
 topics:
 - crime
 - investigation
-modern_impact: The Romero case became one of the most puzzling unsolved mysteries of the era, later linked to former President Jasmina Halsey's visions and speculated to involve telepathic contact with an unknown intelligence.
+modern_impact: The Romero case became one of the most puzzling unsolved mysteries
+  of the era, later linked to former President Jasmina Halsey's visions and speculated
+  to involve telepathic contact with an unknown intelligence.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -26,6 +30,7 @@ related_uuids:
 - 7b7ef879-c22b-509a-9abc-a1c65d435b93
 - 54d86670-6d3c-5f67-a1e5-729c9be90011
 ---
+
 
 The individual responsible for stealing a docked Diamondback Explorer in the Vega system has been identified. 
 

@@ -31,7 +31,10 @@ significance: medium
 related_uuids:
 - 78b1e3b7-49b5-5ca5-9107-a57eda6df6f0
 - 88efdd4a-ed54-5dee-9c24-b5ae333ccda8
+- 5b0343b9-7345-5fdb-a814-eea9cbf64edf
+- 30ace67b-8ecf-51dc-a9c9-5060d2c97ebc
 ---
+
 
 
 In recent weeks, both The Empire and the Federation have accelerated their expansion plans in the Maia and Merope systems, deploying Dozens of ships and establishing a number of outposts. The latest phase of these campaigns will see both superpowers constructing bases in the Pleiades region. 

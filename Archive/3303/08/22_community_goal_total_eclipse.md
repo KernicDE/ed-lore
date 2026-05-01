@@ -34,7 +34,9 @@ significance: high
 related_uuids:
 - 1c944fdb-3a89-5a66-86a1-5463dc51f024
 - 276a97d9-9e85-56a9-a239-fdb5947de4ee
+- 9e621a47-e2a5-5afd-93d4-d85f8da68059
 ---
+
 
 
 The Kpelidoog Empire Assembly, an Imperial organisation based in the Kpelidoog system, has announced plans to build a new Wells-class Carrier to support astronomical research. 

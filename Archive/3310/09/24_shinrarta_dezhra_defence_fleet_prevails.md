@@ -40,6 +40,7 @@ related_uuids:
 
 
 
+
 The Thargoid invasion fleet that ambushed the Shinrarta Dezhra system last week has been successfully repelled.
 Providing an update on behalf of the system was Florian Baljak, acting starport commander of Jameson Memorial:
 “The Thargoids swept through Shinrarta Dezhra hard and fast, taking our defences offline before we were able to regroup. It’s a miracle Jameson Memorial lasted until reinforcements could arrive.”

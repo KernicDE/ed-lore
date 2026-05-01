@@ -4,7 +4,12 @@ title: Riri McAllister Shot
 slug: riri_mcallister_shot
 date: '3304-08-03'
 source: GitHub
-summary: Former rear admiral Riri McAllister is shot during her trial at the Alliance Chamber of Justice on Turner's World in the Alioth system. Deputy Inspector Mara Klatt reports that Polly Cartesius, daughter of Senator Nestor Cartesius murdered by the League of Reparation, fired a concealed laser firearm from the visitors' gallery. McAllister is in intensive care. Polly Cartesius is extradited to the IISS and taken to Capitol for trial for attempted murder.
+summary: Former rear admiral Riri McAllister is shot during her trial at the Alliance
+  Chamber of Justice on Turner's World in the Alioth system. Deputy Inspector Mara
+  Klatt reports that Polly Cartesius, daughter of Senator Nestor Cartesius murdered
+  by the League of Reparation, fired a concealed laser firearm from the visitors'
+  gallery. McAllister is in intensive care. Polly Cartesius is extradited to the IISS
+  and taken to Capitol for trial for attempted murder.
 player_impact: None
 persons:
 - Riri McAllister
@@ -26,12 +31,17 @@ topics:
 - crime
 - terrorism
 - politics
-modern_impact: The courtroom shooting of McAllister transforms the League of Reparation trial into an international incident, while Polly Cartesius's act of vengeance highlights the human cost of terrorist campaigns.
+modern_impact: The courtroom shooting of McAllister transforms the League of Reparation
+  trial into an international incident, while Polly Cartesius's act of vengeance highlights
+  the human cost of terrorist campaigns.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 633140ee-0862-53e1-adcf-f1eed4d5eb67
+- 9fd16cfc-fc44-55ca-9deb-4b0129f50261
+- be7c559a-d6be-5295-9655-1c30e0ee4ed0
 ---
+
 
 Former rear admiral Riri McAllister has been shot. She is currently undergoing medical treatment. 
 

@@ -4,8 +4,13 @@ title: Broadcast Cobra Initiative
 slug: broadcast_cobra_initiative
 date: '3304-10-04'
 source: GitHub
-summary: Media organisation Broadcast Cobra announces plans to build a megaship in the HIP 16038 system as a mobile broadcasting studio. Alessandra Koa states the megaship will allow transmission to systems beyond the reach of other broadcasters. An open order is placed for thorium, indium, and superconductors to be delivered to Sopwith Dock.
-player_impact: Independent pilots can deliver commodities to Sopwith Dock in the HIP 16038 system and earn rewards. The campaign runs for one week.
+summary: Media organisation Broadcast Cobra announces plans to build a megaship in
+  the HIP 16038 system as a mobile broadcasting studio. Alessandra Koa states the
+  megaship will allow transmission to systems beyond the reach of other broadcasters.
+  An open order is placed for thorium, indium, and superconductors to be delivered
+  to Sopwith Dock.
+player_impact: Independent pilots can deliver commodities to Sopwith Dock in the HIP
+  16038 system and earn rewards. The campaign runs for one week.
 persons:
 - Alessandra Koa
 groups:
@@ -16,12 +21,15 @@ locations:
 topics:
 - construction
 - trade
-modern_impact: Broadcast Cobra's megaship project represents an expansion of independent media infrastructure into deep space, potentially reshaping how news reaches frontier systems.
+modern_impact: Broadcast Cobra's megaship project represents an expansion of independent
+  media infrastructure into deep space, potentially reshaping how news reaches frontier
+  systems.
 legacy_weight: 2
 significance: low
 related_uuids:
 - c80bfd09-c018-56c8-bf38-ef9b7391d49f
 ---
+
 
 Media organisation Broadcast Cobra has announced Its intention to build a megaship in The HIP 16038 system. The organisation, Which specialises in politics and current events, aims to reach a much wider audience With the construction of This mobile studio. 
 

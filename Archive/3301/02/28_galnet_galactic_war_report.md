@@ -41,7 +41,15 @@ significance: medium
 related_uuids:
 - 0ff81a63-f1f9-52c1-a808-327a51de0fa5
 - 36f13a15-f037-506b-ad4b-197f2accdad6
+- 6b15c578-25a5-5989-9881-c3bdfee2e1dc
+- 4ce471c6-afd4-5570-8422-b2d939bb8d7a
+- f6b14119-9ca9-541e-ac5a-c0b07124e47e
+- df250e77-95ad-5b74-8d41-7b759ceddd3e
+- 37ec2f6b-0279-58e6-9ba8-c409f851742b
+- 006f9c9b-a066-52c5-b468-9dcfda6f4d43
+- 8df95e12-c87d-5425-9ce9-d805583a8c3e
 ---
+
 
 
 The ongoing conflict between The Federal Navy and the Polahukuna Raiders has taken an unexpected turn This weekend, following reports that the Federation have begun work on a new Farragut class battlecruiser in the shipyards aboard Hudson Dock. For their part, the Polahukuna raiders appear to have returned home to lick their wounds. However, reports are coming in from BD+03 2338 that traders bringing supplies to Hudson Dock are coming under heavy fire from a band of imperial mercenaries known As the East India Company.The Imperial Senate is denying any knowledge of the attacks. 

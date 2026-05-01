@@ -4,7 +4,9 @@ title: Disappearance of the Dedicant
 slug: disappearance_of_the_dedicant
 date: '3309-06-16'
 source: API
-summary: The Dedicant megaship disappears after making an unscheduled hyperspace jump from Popontia, with thousands of Far God cultists and FIA agents aboard; both Federal and Allied search parties find no trace.
+summary: The Dedicant megaship disappears after making an unscheduled hyperspace jump
+  from Popontia, with thousands of Far God cultists and FIA agents aboard; both Federal
+  and Allied search parties find no trace.
 player_impact: Not specifically mentioned — this is a breaking news report.
 persons:
 - Jalen Locke
@@ -18,7 +20,12 @@ topics:
 - investigation
 entities: []
 arc_id: null
-modern_impact: Locke's assumption — 'the cultists somehow overpowered our people and absconded with the megaship' — is immediately suspect. Ulyanov's expert counter — 'their nature remains essentially fatalistic. This makes it hard to imagine them taking on armed FIA agents in combat' — undermines the official narrative. His suggestion of 'a third party was involved' or 'the Dedicant's original owners found a way to divert its course' opens multiple possibilities.
+modern_impact: Locke's assumption — 'the cultists somehow overpowered our people and
+  absconded with the megaship' — is immediately suspect. Ulyanov's expert counter
+  — 'their nature remains essentially fatalistic. This makes it hard to imagine them
+  taking on armed FIA agents in combat' — undermines the official narrative. His suggestion
+  of 'a third party was involved' or 'the Dedicant's original owners found a way to
+  divert its course' opens multiple possibilities.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -26,7 +33,9 @@ related_uuids:
 - a7de5a95-faa3-5048-a678-8834417d5796
 - da13374d-1993-57dc-8fdc-0f0d82f6b1e1
 - 28c59782-1b59-5571-b624-f6741ded3aea
+- 2463d645-c924-59e3-95ae-502d99f8b646
 ---
+
 
 The Dedicant has disappeared from Popontia, just a few hours after thousands of Far God cultists boarded the megaship with a Federal escort.
 The cultists were due for transfer aboard the vessel from Federal to Allied space, where amnesty has been offered by Prime Minister Mahon. In exchange for their release, the True Chapters sect agreed to unlock access to its secretive databanks and sacred texts prior to departure. The Dedicant instead initiated a hyperspace jump ahead of schedule, failing to arrive in the Mullag system as planned.

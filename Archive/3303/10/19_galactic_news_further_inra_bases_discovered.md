@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Further abandoned Intergalactic Naval Reserve Arm outposts have been discovered in systems throughout The core. 
 
 Records from the sites have shed additional light on the INRA’s activities, and indicate that the mycoid fungus, Which was instrumental in countering the Thargoid incursions of the 3100s, was an unplanned by-product of the organisation’s research. 

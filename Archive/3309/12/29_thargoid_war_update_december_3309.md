@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 As the year draws to a close, Jade Sanderlyn reflects on humanity’s ongoing conflict against the Thargoids in a summary for Vox Galactica.
 “We began 3309 reeling under the colossal impact brought by the Maelstroms, which had arrived on the fringes of the core systems. Unleashed from within these corrosive clouds were Thargoid attacks on a scale never seen before. Hundreds of systems fell rapidly, with the current death toll over a billion. Billions more were forced to flee from their burning homes.”
 “It was months before the Thargoid motherships within the Maelstroms were revealed. The Titans remain in place to this day, seemingly indestructible. Their unearthly horror was enhanced when it became clear that they are also prisons for living humans abducted by the aliens.”

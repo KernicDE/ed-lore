@@ -4,8 +4,11 @@ title: Community Goal  A Majestic Development
 slug: community_goal_a_majestic_development
 date: '3302-07-21'
 source: GitHub
-summary: Lavigny's Legion in Carthage launches a campaign to add three new Majestic-class Interdictors to the Imperial fleet, authorised by the Emperor as a response to the Federation's ongoing military build-up.
-player_impact: Deliver thallium, thermal cooling units and CMM composites to Marker Depot in the Carthage system to support construction of new Majestic-class Interdictors.
+summary: Lavigny's Legion in Carthage launches a campaign to add three new Majestic-class
+  Interdictors to the Imperial fleet, authorised by the Emperor as a response to the
+  Federation's ongoing military build-up.
+player_impact: Deliver thallium, thermal cooling units and CMM composites to Marker
+  Depot in the Carthage system to support construction of new Majestic-class Interdictors.
 persons:
 - Lucius Lavigny
 groups:
@@ -27,7 +30,14 @@ technologies:
 modern_impact: Infrastructure project with long-term benefits.
 legacy_weight: 2
 significance: low
+related_uuids:
+- f32dbd18-488b-5264-a256-d2fcdc02ce5a
+- 5cc93d8e-3936-5e71-9d4e-bc25dd98275e
+- 44b836e6-b271-52de-84fa-d6398fd4d2c0
+- 11cb4845-96e1-5ff1-ab46-1a3b0878799d
+- 6991cc13-867b-543d-8796-2e51d900ccfa
 ---
+
 
 Lavigny's Legion, an Imperial organisation based in The Carthage system, has launched a campaign to add three new Majestic-class Interdictors to the Imperial fleet. 
 

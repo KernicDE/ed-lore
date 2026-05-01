@@ -4,8 +4,13 @@ title: Imperial Forces Target Delaine Flagship
 slug: imperial_forces_target_delaine_flagship
 date: '3311-06-12'
 source: API
-summary: Imperial forces launch a surprise assault on Archon Delaine's flagship, the Mictlan, in Beta-3 Tucani. The attack responds to Delaine's boasts following assassination attempts on Emperor Arissa and Shadow President Jerome Archer in August 3310.
-player_impact: Imperial pilots registered support at Bakewell Platform in Beta-3 Tucani. Kumo Council pilots answered summons to the Mictlan megaship. The strike was a direct response to August 3310 assassination attempts on Emperor Arissa and Shadow President Archer.
+summary: Imperial forces launch a surprise assault on Archon Delaine's flagship, the
+  Mictlan, in Beta-3 Tucani. The attack responds to Delaine's boasts following assassination
+  attempts on Emperor Arissa and Shadow President Jerome Archer in August 3310.
+player_impact: Imperial pilots registered support at Bakewell Platform in Beta-3 Tucani.
+  Kumo Council pilots answered summons to the Mictlan megaship. The strike was a direct
+  response to August 3310 assassination attempts on Emperor Arissa and Shadow President
+  Archer.
 persons:
 - Arissa Lavigny-Duval
 - Jerome Archer
@@ -23,12 +28,17 @@ topics:
 entities: []
 technologies:
 - Mictlan megaship
-modern_impact: The precision of the strike demonstrates Imperial Intelligence's long-term infiltration capabilities, while Delaine's decision to immediately order a counter-assault reveals his willingness to escalate. The Kumo Council's taunt — 'The Empire's blade is sharp, but slow' — foreshadows a prolonged conflict rather than a decisive blow, setting the stage for future Imperial-pirate confrontations.
+modern_impact: The precision of the strike demonstrates Imperial Intelligence's long-term
+  infiltration capabilities, while Delaine's decision to immediately order a counter-assault
+  reveals his willingness to escalate. The Kumo Council's taunt — 'The Empire's blade
+  is sharp, but slow' — foreshadows a prolonged conflict rather than a decisive blow,
+  setting the stage for future Imperial-pirate confrontations.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 00ac3614-202d-5baf-8c80-5106cd772bc7
 ---
+
 
 An Imperial strike force has launched a surprise assault against the Archon Delaine's flagship, the Mictlan, in what many are calling a long-awaited act of retribution.
 The offensive took place in the Beta-3 Tucani system, where Delaine is believed to have attended a gathering of notorious underworld figures. Witnesses reported intense fighting around the Mictlan, with Imperial vessels engaging both the pirate dreadnought and its escorts.

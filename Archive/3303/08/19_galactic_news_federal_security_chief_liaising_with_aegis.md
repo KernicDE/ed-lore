@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Reports have surfaced that Admiral Aden Tanner, Chief of Federal Security and so-called ‘alien tsar’, is now liaising with Aegis, The inter-superpower initiative established to investigate the Thargoids. 
 
 News of Admiral Tanner’s involvement has already prompted speculation that the cold war between the Empire and the Federation could be thawing. Contrasting voices have suggested that Tanner’s association could divert Aegis from Its scientific agenda and set it on a more militaristic course. 

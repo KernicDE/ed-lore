@@ -4,7 +4,9 @@ title: Ship Thief Linked to Halsey's Visions
 slug: ship_thief_linked_to_halseys_visions
 date: '3305-05-25'
 source: GitHub
-summary: Independent journalist Flint 'Firemaker' Lafosse draws parallels between Gan Romero's dream journal and former President Jasmina Halsey's visions, speculating that both may have been telepathically contacted by the same incorporeal intelligence.
+summary: Independent journalist Flint 'Firemaker' Lafosse draws parallels between
+  Gan Romero's dream journal and former President Jasmina Halsey's visions, speculating
+  that both may have been telepathically contacted by the same incorporeal intelligence.
 player_impact: None — background investigation report.
 persons:
 - Gan Romero
@@ -17,7 +19,9 @@ locations:
 topics:
 - investigation
 - research
-modern_impact: The Halsey-Romero connection fuelled widespread speculation about telepathic alien contact and elevated Gan Romero from a common thief to a figure of cosmic significance in popular culture.
+modern_impact: The Halsey-Romero connection fuelled widespread speculation about telepathic
+  alien contact and elevated Gan Romero from a common thief to a figure of cosmic
+  significance in popular culture.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -26,6 +30,7 @@ related_uuids:
 - 21111d10-7f29-507d-8688-ebd68a0a7869
 - 54d86670-6d3c-5f67-a1e5-729c9be90011
 ---
+
 
 There has been much speculation about starship technician Gan Romero, whose dreams are believed to have directed him to steal a ship from a starport hangar. 
 

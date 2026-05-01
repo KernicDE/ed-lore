@@ -4,8 +4,14 @@ title: Utopia  More Than a Cult
 slug: utopia_more_than_a_cult
 date: '3301-09-03'
 source: GitHub
-summary: Utopia responded to accusations of cult-like behavior, with futurologist Dr Saeed McNamara explaining that disruptive elements are subjected to 'corrective simulations' designed to increase empathy rather than being enslaved or imprisoned. McNamara declined to address rumors that subjects emerge with radically altered personalities. The response left questions about the true nature of Utopia's methods.
-player_impact: Pilots visiting Utopia-controlled systems should be aware of the controversial 'corrective sims' and the organization's willingness to use technology to modify behavior.
+summary: Utopia responded to accusations of cult-like behavior, with futurologist
+  Dr Saeed McNamara explaining that disruptive elements are subjected to 'corrective
+  simulations' designed to increase empathy rather than being enslaved or imprisoned.
+  McNamara declined to address rumors that subjects emerge with radically altered
+  personalities. The response left questions about the true nature of Utopia's methods.
+player_impact: Pilots visiting Utopia-controlled systems should be aware of the controversial
+  'corrective sims' and the organization's willingness to use technology to modify
+  behavior.
 persons:
 - Saeed McNamara
 - Pranav Antal
@@ -15,10 +21,18 @@ groups:
 - Interstellar Press
 topics:
 - scandal
-modern_impact: Adds to the debate about Utopia's methods and whether its corrective technologies constitute ethical treatment of dissidents.
+modern_impact: Adds to the debate about Utopia's methods and whether its corrective
+  technologies constitute ethical treatment of dissidents.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 95ab4c0a-ca94-58a5-9829-30271688d099
+- b67fe4ff-6cb3-53a3-ad95-f4d910fc1c6d
+- 42370e8a-3a35-5de0-bad0-d3716423bdc7
+- 597f88bd-e1ae-5b50-8f2d-f12a66e8806f
+- 1565d1ba-69d8-5784-a3b3-b4327e111e6d
 ---
+
 
 Spokespeople for Utopia have responded to recent accusations that dissidents in systems under their control are being roughly treated. 
 

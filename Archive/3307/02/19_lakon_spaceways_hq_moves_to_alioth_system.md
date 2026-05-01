@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 The capital system of the Alliance now hosts Lakon’s administrative hub and offers a 5% discount on Its ships.
 The company’s main offices have been relocated to the Lakon Spaceways Central planetary port on Alioth 1 a. 

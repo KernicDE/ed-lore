@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 A military supply campaign to increase security in The Merope system has concluded successfully. 
 
 Jacob Chowdhury, Defence Director of the Atlas Research Group, said: 

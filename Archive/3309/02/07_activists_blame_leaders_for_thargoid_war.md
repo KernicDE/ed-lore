@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 Anti-authoritarian protests have surged in the Alliance, Empire and Federation with governments accused of responsibility for Thargoid hostility.
 Vox Galactica’s political correspondent Conrad Sterling published a special report:
 “The xeno-peace movement, which originally advocated diplomatic relations with the Thargoids, lost a lot of momentum following the arrival of the Maelstroms. But some former members are blaming Allied, Federal and Imperial leaders for allowing the war to escalate, with profits from corporate arms deals seen as the motive.”

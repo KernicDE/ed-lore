@@ -43,6 +43,7 @@ related_uuids:
 ---
 
 
+
 Reports are coming in from the Pegasi sector of scores of marked slaves being rescued by Imperial Commanders participating in the ‘United Offensive’. Acting in concert With members of the Sirius Corporation, Imperial Commanders are carefully extracting human cargo from Kumo Crew vessels. The cargo is then delivered to Sirius Corp Commanders, who fly them to safety for relocation. Unconfirmed rumours indicate that members of the Utopians are also joining the rescue and relocation efforts. 
 
 Spokesmen for the Kumo Crew have vehemently denied that marked slaves are anything but common criminals and degenerates, but One prominent case has received coverage on media circuits. Known only by her first name (for her own protection), former slave Aasha has become the face of the United Offensive. 

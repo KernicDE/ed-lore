@@ -4,7 +4,12 @@ title: Author Abandons Interstellar Book Tour
 slug: author_abandons_interstellar_book_tour
 date: '3304-08-02'
 source: GitHub
-summary: Celebrated author Olav Redcourt abandons his promotional tour for the latest Corsair King novel, declaring he is sick of writing historical-romance garbage and will instead write a science-fiction saga. Bonespire Publishing cites breach of contract as Redcourt has produced only fourteen of twenty agreed novels. Agent Margaux Hist expresses hope the niche science-fiction genre will sell well enough to cover legal bills.
+summary: Celebrated author Olav Redcourt abandons his promotional tour for the latest
+  Corsair King novel, declaring he is sick of writing historical-romance garbage and
+  will instead write a science-fiction saga. Bonespire Publishing cites breach of
+  contract as Redcourt has produced only fourteen of twenty agreed novels. Agent Margaux
+  Hist expresses hope the niche science-fiction genre will sell well enough to cover
+  legal bills.
 player_impact: None
 persons:
 - Olav Redcourt
@@ -14,13 +19,16 @@ groups:
 locations: []
 topics:
 - culture
-modern_impact: Redcourt's public rejection of his bestselling series highlights tensions between artistic integrity and commercial obligations in the galactic publishing industry.
+modern_impact: Redcourt's public rejection of his bestselling series highlights tensions
+  between artistic integrity and commercial obligations in the galactic publishing
+  industry.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 7e6d6a09-c0b5-5c86-b6e1-7dab5e24d303
 - 4f8a3775-4a85-53e6-b107-a1946b857d3a
 ---
+
 
 Celebrated author Olav Redcourt has abandoned The promotional tour for his latest novel, halfway through a two-month circuit of fifty systems. 
 

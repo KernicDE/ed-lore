@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Recent reports from Maia indicate that The Pleiades Resource Enterprise has successfully overcome resistance from the Ant Hill Mob to gain a foothold in the system. 
 
 A spokesperson for the Pleiades Resource Enterprise released a brief statement: 

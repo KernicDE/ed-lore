@@ -32,7 +32,11 @@ significance: medium
 related_uuids:
 - 4140c663-8d3b-5208-93ff-43418fc0c2f1
 - 6741f279-99ef-57b9-bb58-25d0b3e3782d
+- 86eec1f5-b341-5d1c-88c1-66e4c0e28817
+- 6f6ab379-1cb1-5dcc-9a26-f683d76efe45
+- 21edb60a-4fd3-5fb4-9776-5574974a2f69
 ---
+
 
 
 Last week, The Orulas system was the site of a combat operation designed to eliminate the Blue Hang Gang, a ruthless criminal organisation. One of the operation's objectives was to recover the escape pods the criminals were transporting through the system. Thanks to the brave pilots who supported the initiative, the objective was successfully completed, and the recovered pods were delivered to Wilkes Orbital. 

@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 Reports that The Federal–Imperial cold war could soon end have resulted in jubilation in Many parts of the galaxy. 
 
 While the impact of the conflict has been relatively modest, many thousands of galactic citizens have nevertheless been disrupted. But as talk of a truce gains ground, anonymous sources have reported that influential Imperials have questioned the wisdom of withdrawing from the Pleiades. 

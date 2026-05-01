@@ -34,7 +34,12 @@ significance: high
 related_uuids:
 - 62854860-ad7c-5510-8dc4-0a6b5cddc2a1
 - 9cc554e9-9d3a-57d0-9ac7-06b856491881
+- 6f8da40a-d88c-5759-ab4f-f2c180ebc46d
+- 49a47621-2251-5f4e-a822-09e716459bdf
+- b1d1a750-565c-5b78-b645-eaa9906728f6
+- 4a6785b4-2814-5bdd-aede-fcc93b522b79
 ---
+
 
 
 In This latest edition of GalNet’s series relating key points in human history, popular historian Sima Kalhana addresses the rise of the first mega-corporation. 

@@ -33,7 +33,10 @@ significance: medium
 related_uuids:
 - 2c18b071-5704-5873-8d29-511bb70936d0
 - eeb77abe-1d4f-5e59-92b4-50183b92cb62
+- 92ab3791-b482-5d1a-9df1-31af570bc24b
+- 38e72e26-bb41-5fd2-a7b1-3ed082c89340
 ---
+
 
 
 Following news that scientists from The Alliance, Empire and Federation have united to form a new research initiative, speculation is mounting that the cold war between the Empire and the Federation could be nearing an end. 

@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 A decrypted message suggests that The NMLA leader Theta Seven avoided capture by infiltrating the Far God cult.
 ACT publicly requested help to decode a message received by Theta Group, the bomb-making Engineers of the NMLA. The cipher key was cracked and the decoded message submitted by Commander Therion Cygni. It revealed that Theta Seven and his closest aides fled to The Panjabell system on the 31st of July.

@@ -43,6 +43,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 The enigmatic ‘Salvation’ has sent a message to the Commanders he recently recruited to discover the Hesperus megaship.
 The Vessel was Found in the Perseus Dark Region KC-V C2-2 system, after ‘Salvation’ provided an access key to read Its automated SOS. Pilots were then encouraged to deliver any surviving logs to Taurus Mining Ventures at the Hind Mine asteroid base in the T Tauri system.

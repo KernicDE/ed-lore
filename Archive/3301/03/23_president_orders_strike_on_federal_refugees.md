@@ -37,7 +37,15 @@ significance: high
 related_uuids:
 - 2d11a9fd-f113-5a87-8c08-c03b302f8076
 - 85cf9186-db93-5b83-9005-b93e35f40528
+- f7abc945-cb7d-5d7e-8c05-d6ed0f513333
+- 0991dc0b-24c4-5798-809c-e8f236e034b3
+- cf376189-caa7-592c-98b7-9078eb6758e9
+- 5ff99938-fb18-5efd-bbf5-60725235e72e
+- 4e3b073a-562f-591a-a980-a91838aa35ff
+- e81c56ec-2a4d-5cb7-a681-e1665d53578a
+- 3682c79f-1dad-579d-8f98-c17c4236215c
 ---
+
 
 
 Disaster struck in Lugh today, following orders given by President Halsey demanding that Federal pilots attack and destroy an unarmed refugee convoy as it fled from The fighting around Lugh 6. It is estimated that 9,322 innocent Federal civilians lost their lives in The attack. 

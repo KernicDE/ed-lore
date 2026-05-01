@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 Officials from The Defence Force of Amitrite have praised The Many pilots who helped clear the system of pirates This week. Hundreds of hostile ships were eliminated, and crime levels in the system subsequently dropped to new lows. 
 
 Representatives of the Libertas Cooperative, speaking on behalf of resettled Pegasi Sector refugees, also extended their thanks to the pilots: "Many of the refugees in the Munshin system have been separated from their families. Now they can be safe in the knowledge that their loved ones can traverse the Empire safely. For the second time in recent weeks, the citizens of the Empire have proved they care about their fellow man. They have set an example for us all." 

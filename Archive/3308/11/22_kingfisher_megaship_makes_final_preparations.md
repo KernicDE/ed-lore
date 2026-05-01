@@ -4,8 +4,10 @@ title: Kingfisher Megaship Makes Final Preparations
 slug: kingfisher_megaship_makes_final_preparations
 date: '3308-11-22'
 source: API
-summary: The Kingfisher megaship has received commodities in advance of its mission to communicate with the first rogue signal source.
-player_impact: Independent pilots were asked to both deliver commodities and engage hostile forces.
+summary: The Kingfisher megaship has received commodities in advance of its mission
+  to communicate with the first rogue signal source.
+player_impact: Independent pilots were asked to both deliver commodities and engage
+  hostile forces.
 persons:
 - Dalton Chase
 - Heimar Borichev
@@ -18,7 +20,9 @@ topics:
 - diplomacy
 - war
 arc_id: null
-modern_impact: '"The Kingfisher megaship has received commodities in advance of its mission to communicate with the first rogue signal..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+modern_impact: '"The Kingfisher megaship has received commodities in advance of its
+  mission to communicate with the first rogue signal..." The failure of civilian-led
+  diplomacy underscores the dangers of underestimating Thargoid hostility.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -28,6 +32,7 @@ related_uuids:
 - d8b14f7a-0b22-5f2d-a164-45b74638e864
 - 98d2b600-086b-56d5-b7de-45bee9289a6f
 ---
+
 
 **Pilots’ Federation ALERT**
 The Kingfisher megaship has received commodities in advance of its mission to communicate with the first rogue signal source.

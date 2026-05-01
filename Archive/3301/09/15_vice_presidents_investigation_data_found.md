@@ -32,7 +32,9 @@ significance: high
 related_uuids:
 - e3f3df5a-f54e-55dd-aa67-6d8d75ce6e4e
 - e5ed7c2f-4101-5d97-8ca1-1aa1ea34f238
+- 0b443e30-902a-5de6-a5f6-ee994e6a69b7
 ---
+
 
 
 A spokesman for Vice President Nigel Smeaton’s family revealed today that a concealed data chit had been recently discovered among his personal belongings. The information stored on The device was encrypted but With the assistance of technicians at the Federal Times they were able to extract some of the information. 

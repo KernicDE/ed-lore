@@ -4,7 +4,11 @@ title: Rackham Hacked
 slug: rackham_hacked
 date: '3304-10-18'
 source: GitHub
-summary: 'Billionaire Zachary Rackham is targeted by a sophisticated hack that withdraws 1 billion credits from his personal account. The criminals leave a message: ''The Collective plays to win.'' Journalist Bryanna Blanco reveals the money was redistributed among former Rackham Capital Investments employees denied pensions years ago, suggesting the hack was intended to reclaim Rackham''s disputed Federal Grand Lottery prize.'
+summary: 'Billionaire Zachary Rackham is targeted by a sophisticated hack that withdraws
+  1 billion credits from his personal account. The criminals leave a message: ''The
+  Collective plays to win.'' Journalist Bryanna Blanco reveals the money was redistributed
+  among former Rackham Capital Investments employees denied pensions years ago, suggesting
+  the hack was intended to reclaim Rackham''s disputed Federal Grand Lottery prize.'
 player_impact: None
 persons:
 - Zachary Rackham
@@ -18,12 +22,15 @@ topics:
 - crime
 - cyberattack
 - corporate expansion
-modern_impact: The Collective hack exposes Rackham's questionable business practices while establishing the group as a major cybercriminal force capable of targeting even the wealthiest individuals in the galaxy.
+modern_impact: The Collective hack exposes Rackham's questionable business practices
+  while establishing the group as a major cybercriminal force capable of targeting
+  even the wealthiest individuals in the galaxy.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 7ec3f1fb-8e73-5084-86f2-d3f916349ede
 ---
+
 
 Billionaire businessman Zachary Rackham has been targeted by a highly sophisticated hack that successfully withdrew 1 billion credits from his personal account. 
 

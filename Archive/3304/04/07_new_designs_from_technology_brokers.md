@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 A range of new Guardian-inspired modules are now available from The galaxy’s technology brokers. These modules have been developed by the engineer Ram Tah, following his acquisition of data from Guardian sites. 
 
 Pilots can now purchase a Guardian power distributor, a Guardian FSD booster and a Guardian shard cannon. The cannon is available in both fixed and turreted versions. 

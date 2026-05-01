@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 The Federal government has declared the Order of the Far God to be a potential enemy of the state.
 The following press statement was delivered from the White House on Mars:
 “The Federal Navy Intelligence Office has uncovered sufficient cause for concern to suspect the Far God cult of treason. They are believed to be responsible for leaking classified audiovisual data from the HIP 22460 system, while sharing other sensitive Thargoid-related material internally. Due to this, the risk that they will frustrate anti-xeno operations is deemed considerable.”

@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Humanity's newest and most advanced Unknown Artefact research centre, The Canonn Institute in Col 285 Sector IX-T d3-43, is finally open. 
 
 Dr Arcanonn, under heavy guard, was the first to arrive at the opening ceremony, and he had This to say: 

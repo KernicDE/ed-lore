@@ -35,7 +35,10 @@ significance: high
 related_uuids:
 - 14620d01-c71e-5e20-872c-717ce63048fe
 - eb197653-a8c9-5ef5-b2eb-b4467117f644
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- 2e393213-981e-5305-bc3b-8a07fa380559
 ---
+
 
 
 Today, dawn broke above an expectant Capitol as Imperial citizens awaited The coronation of the first female Emperor (the Imperial Senate having determined that 'Emperor' should be used for both male and female rulers). It looked like The entire population had come to witness the procession of Arissa Lavigny-Duval through the city to the Imperial Palace. 

@@ -4,8 +4,12 @@ title: Militant Group Responsible for Blight
 slug: militant_group_responsible_for_blight
 date: '3305-10-22'
 source: GitHub
-summary: The extremist group Scythe of Panem is identified as responsible for contaminating Rockforth's EX7 fertiliser. Their manifesto cites revenge for the Federation's 3301 orbital bombing of Onion Head crops. Militant members respond with violence in the Quator system.
-player_impact: Pilots who destroy Scythe of Panem ships in the Quator system are rewarded by Bruthanvan Co.
+summary: The extremist group Scythe of Panem is identified as responsible for contaminating
+  Rockforth's EX7 fertiliser. Their manifesto cites revenge for the Federation's 3301
+  orbital bombing of Onion Head crops. Militant members respond with violence in the
+  Quator system.
+player_impact: Pilots who destroy Scythe of Panem ships in the Quator system are rewarded
+  by Bruthanvan Co.
 persons:
 - Gino Borstein
 groups:
@@ -21,7 +25,8 @@ locations:
 topics:
 - terrorism
 - investigation
-modern_impact: The identification of Scythe of Panem as the perpetrator links the blight to historical Federation drug enforcement policy and anti-capitalist extremism.
+modern_impact: The identification of Scythe of Panem as the perpetrator links the
+  blight to historical Federation drug enforcement policy and anti-capitalist extremism.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -29,6 +34,7 @@ related_uuids:
 - b6bad842-f04e-5865-892e-cfeb17f2f5da
 - ca2d40ce-2068-58cb-be1d-1939ef1aa2b1
 ---
+
 
 An extremist group from The Kappa Fornacis system is responsible for the contaminated fertiliser that has caused widespread crop failures. 
 

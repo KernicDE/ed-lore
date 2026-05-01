@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 The famous megamarket Jameson Memorial is once again fully operational.
 A recent Thargoid incursion into Shinrarta Dezhra caught AX forces by surprise, overwhelming the system and knocking most ports offline. Only Jameson Memorial resisted as large numbers of independent pilots flocked to the defensive campaign.
 Florian Baljak, now officially installed as the starport commander for Jameson Memorial, offered this statement:

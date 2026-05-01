@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 The group, comprising of Aisling Duval, Yuri Grom, Arissa Lavigny-Duval, Nakato Kaine, Edmund Mahon and Denton Patreus aligned forces, brings together representatives and affiliated factions to agree to an informal non-aggression pact. The agreement is described as intending to guarantee mutual support and reduce further escalation in the enclave. Pranav Antal's forces were notably missing from the announcement, with rumours circulating that Antal has not been included in the Pact following the two-week ceasefire.
 Speaking to Vox Galactica, a spokesperson for the coalition claimed that it represents an independently organised group of pilots, arguing that coordinated restraint is necessary to try to avoid any further confrontation in the enclave.
 However, political analysts have been quick to temper such claims.

@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Titan Oya in the Cephei Sector BV-Y B4 system has been confirmed as destroyed by Aegis, leaving five still operational.
 Aden Tanner, Aegis’s lead anti-xeno strategist, delivered a cautionary statement:
 “I must remind all Commanders that these missions are highly dangerous and cannot be undertaken lightly. Entering a Maelstrom and flying close to a Titan requires your ship to be outfitted with caustic sink launchers and Thargoid pulse neutralisers. AX weaponry will also prove useful, as will Guardian nanite torpedoes to target the Titans’ thermal vents.”

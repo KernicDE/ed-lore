@@ -30,7 +30,10 @@ significance: medium
 related_uuids:
 - 4f1d453c-2e49-510a-aaaa-32ef3a72c321
 - d053a0f6-8748-5beb-9cde-eadde89d5778
+- 87f11857-f9cc-5e11-81d6-572af86c9c11
+- a1524ba3-daf7-5030-99b1-2f9a8a190501
 ---
+
 
 
 Senator Kahina Tijani Loren was seen at a musical soiree on Capitol yesterday evening, taking part In a reception after her arrival in The Achenar system.  

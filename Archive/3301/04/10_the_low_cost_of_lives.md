@@ -4,8 +4,13 @@ title: The Low Cost of Lives
 slug: the_low_cost_of_lives
 date: '3301-04-10'
 source: GitHub
-summary: Senator Arissa Lavigny-Duval's office revealed that interrogation of the would-be assassin yielded the name of the organisation behind the attack on Emperor Hengist Duval. Investigators Count von Auerburg, Earl Rednam and Earl Khaelmin were dispatched and have identified where to concentrate efforts next. Arissa vowed to catch those responsible and make them pay.
-player_impact: None directly; Arissa's investigation into the assassination attempt continues, with new leads emerging.
+summary: Senator Arissa Lavigny-Duval's office revealed that interrogation of the
+  would-be assassin yielded the name of the organisation behind the attack on Emperor
+  Hengist Duval. Investigators Count von Auerburg, Earl Rednam and Earl Khaelmin were
+  dispatched and have identified where to concentrate efforts next. Arissa vowed to
+  catch those responsible and make them pay.
+player_impact: None directly; Arissa's investigation into the assassination attempt
+  continues, with new leads emerging.
 persons:
 - Arissa Lavigny-Duval
 - Count von Auerburg
@@ -18,10 +23,19 @@ groups:
 locations: []
 topics:
 - investigation
-modern_impact: Arissa's systematic investigation into her father's assassination attempt demonstrated her methodical approach to justice and security.
+modern_impact: Arissa's systematic investigation into her father's assassination attempt
+  demonstrated her methodical approach to justice and security.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 3dad8b6f-abb7-5cbe-9ba7-44082c98217e
+- 7dc64c51-9af8-50a7-b1c6-2f97c35ce3f7
+- c7ae7af9-c8e6-50c8-97c9-d0f60557ca65
+- d1c99133-8d75-5ced-bfcc-000c4f1263c9
+- 187a9035-1fae-5b9f-b3a5-93921aa46dea
+- 7de915cb-51b3-5885-a170-73a56654e534
 ---
+
 
 The office of Senator Arissa Lavigny-Duval issued a statement This morning to reveal what information had been collected by members of the Imperial Court loyal to the House of Duval. 
 

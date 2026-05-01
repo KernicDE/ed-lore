@@ -28,7 +28,11 @@ significance: high
 related_uuids:
 - 2b6cc420-1a7c-57f7-a2d4-2a808278e903
 - 8404cdf6-2914-5e0b-9570-8bf13fa4ebae
+- c0880191-a2cb-5bb5-9248-057bbe5237b6
+- 928c224f-92b8-5bcc-bf9e-9bbfdc5861b9
+- 42c5df88-8373-5fc5-8246-f37df3368e6e
 ---
+
 
 
 Following recent reports that the Earth Defence Fleet, a Federation-aligned faction, had assumed control of the Okinura system, the organisation has announced plans to develop the system's economy. In a statement, a spokesperson for the organisation said: 

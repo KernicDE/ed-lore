@@ -4,8 +4,16 @@ title: Unknown Explorer Returns From NGC 3199 Nebula
 slug: unknown_explorer_returns_from_ngc_3199_nebula
 date: '3301-03-27'
 source: GitHub
-summary: Commander Swift Arrow announced his return from the NGC 3199 Nebula, claiming to be the first to fully map the entire NGC 3199 Sector and the second explorer to visit it. All but 5 of the 750 systems were fully scanned for the first time. The 35,000 light-year journey took approximately 5 weeks. Multiple factions including Sirius Corporation, Patron's Principles, Chapter of Isinor, Alioth Independents, and Sublime Order of Van Maanen's Star bid on the data, with Patron's Principles paying 37.3 million credits. The total data value was nearly 71 million credits. Swift Arrow plans to release a guide to the sector.
-player_impact: Explorers can use Swift Arrow's upcoming guide to plan trips to the NGC 3199 sector, identifying points of interest and systems to avoid.
+summary: Commander Swift Arrow announced his return from the NGC 3199 Nebula, claiming
+  to be the first to fully map the entire NGC 3199 Sector and the second explorer
+  to visit it. All but 5 of the 750 systems were fully scanned for the first time.
+  The 35,000 light-year journey took approximately 5 weeks. Multiple factions including
+  Sirius Corporation, Patron's Principles, Chapter of Isinor, Alioth Independents,
+  and Sublime Order of Van Maanen's Star bid on the data, with Patron's Principles
+  paying 37.3 million credits. The total data value was nearly 71 million credits.
+  Swift Arrow plans to release a guide to the sector.
+player_impact: Explorers can use Swift Arrow's upcoming guide to plan trips to the
+  NGC 3199 sector, identifying points of interest and systems to avoid.
 persons:
 - Commander Swift Arrow
 - Commander Celmascant
@@ -21,10 +29,24 @@ locations:
 - Sirius
 topics:
 - exploration
-modern_impact: Commander Swift Arrow's comprehensive mapping of the NGC 3199 Sector set a benchmark for systematic deep-space exploration.
+modern_impact: Commander Swift Arrow's comprehensive mapping of the NGC 3199 Sector
+  set a benchmark for systematic deep-space exploration.
 legacy_weight: 2
 significance: low
+related_uuids:
+- a32a7693-c60a-50fa-87d9-09447bb36976
+- fd85ba23-a6c4-5029-a23d-44f4e58b6f3e
+- ae999b3f-f43e-54a3-a6e1-4a908026aa57
+- 7861251d-917b-56a4-b838-8e4f764527c0
+- ab118a7f-a481-5ef9-9e31-2a40ca241017
+- acb85cb3-c5ae-5cfe-807d-2175927721d8
+- dd174227-c27d-5a6e-a0d6-55aa0614bc98
+- b7e68809-4f8a-551a-af69-b70610b58783
+- c0449407-9fe0-5061-bb86-286175a89cd4
+- 8806e067-8bcd-5c92-b341-e71c2c379b90
+- 88762111-9b1e-5467-90ce-7c1efe5c7315
 ---
+
 
 In a press release submitted to GalNet news, Commander Swift Arrow is announcing his recent return from The NGC 3199 Nebula. Swift Arrow is claiming to be The first explorer to fully map out The entire NGC 3199 Sector, and the 2nd explorer to visit the nebula (the 1st was Commander Celmascant). According to the data turned in to Universal Cartographics, all but 5 of the 750 systems in the NGC 3199 Sector have been fully scanned for the first time by Swift Arrow. 
 

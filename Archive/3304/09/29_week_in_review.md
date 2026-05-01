@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-09-29'
 source: GitHub
-summary: Weekly summary covering the Alliance presidential candidates' campaign trail messages, the FIA's termination of the Far God cult investigation with all detainees released, Herculean Machines and Supratech resuming computer development for the Rackham Ultratech Expo, the discovery of a concealed surveillance program in Lloyd Hardacre's robot, and the Bhagui Oktoberfest celebration initiative.
+summary: Weekly summary covering the Alliance presidential candidates' campaign trail
+  messages, the FIA's termination of the Far God cult investigation with all detainees
+  released, Herculean Machines and Supratech resuming computer development for the
+  Rackham Ultratech Expo, the discovery of a concealed surveillance program in Lloyd
+  Hardacre's robot, and the Bhagui Oktoberfest celebration initiative.
 player_impact: None
 persons:
 - Gibson Kincaid
@@ -37,7 +41,9 @@ topics:
 - politics
 - trade
 - religion
-modern_impact: This week closes with political campaigning, religious vindication, corporate competition, and emerging surveillance concerns, reflecting the multifaceted tensions of galactic civilisation.
+modern_impact: This week closes with political campaigning, religious vindication,
+  corporate competition, and emerging surveillance concerns, reflecting the multifaceted
+  tensions of galactic civilisation.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -46,7 +52,10 @@ related_uuids:
 - 23beeed6-390e-5fd6-9dc6-e8f928c68a88
 - 6c9931d1-5ab0-59f1-b3e2-9e366d723897
 - 3e7477a2-0742-5daf-8a43-968f0b38fd6e
+- cb43ac64-4aa0-5364-afed-ce8b91a31052
+- 33ed0f71-7b49-5f6f-89eb-57bf7adef8d2
 ---
+
 
 Here are This week’s major stories. 
 

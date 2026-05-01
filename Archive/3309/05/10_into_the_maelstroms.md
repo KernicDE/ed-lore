@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Aegis has confirmed that the first ships equipped with Thargoid pulse neutralisers have entered the inner regions of the Maelstroms.
 The new module provides a temporary shield against the electromagnetic pulse that is generated when ships reach a certain point within the Maelstroms. Until now, this has prevented all attempts to identify what Thargoid constructs may exist within the caustic clouds.
 Rear Admiral Daniel Parry, the Federal Navy’s liaison to Aegis, reported:

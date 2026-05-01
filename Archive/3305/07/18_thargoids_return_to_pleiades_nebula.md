@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 The Thargoids have returned to the Pleiades Nebula in large numbers, With Several conflicts reported within hours. 
 
 Professor Alba Tesreau gave an update on behalf of Aegis Research: 

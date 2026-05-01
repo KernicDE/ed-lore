@@ -4,7 +4,9 @@ title: Thargoids Withdraw from Core Systems
 slug: thargoids_withdraw_from_core_systems
 date: '3305-07-11'
 source: GitHub
-summary: Thargoid forces abruptly withdraw from most human-occupied space, leaving only Maia and Merope with reported activity. Admiral Tanner suggests defensive operations depleted their numbers, while Professor Palin warns against premature celebration.
+summary: Thargoid forces abruptly withdraw from most human-occupied space, leaving
+  only Maia and Merope with reported activity. Admiral Tanner suggests defensive operations
+  depleted their numbers, while Professor Palin warns against premature celebration.
 player_impact: None
 persons:
 - Ishmael Palin
@@ -17,7 +19,8 @@ locations:
 topics:
 - alien contact
 - war
-modern_impact: The mysterious withdrawal creates a temporary lull in the Thargoid conflict but raises questions about alien motivations and future strategy.
+modern_impact: The mysterious withdrawal creates a temporary lull in the Thargoid
+  conflict but raises questions about alien motivations and future strategy.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -25,6 +28,7 @@ related_uuids:
 - 1213f0a6-b7d3-54fe-89b0-b56defee53da
 - 969713a8-6dbf-548c-9ce4-4d33ba1f321a
 ---
+
 
 Reports indicate that The Thargoids have abruptly withdrawn from the majority of human-occupied space.  
 

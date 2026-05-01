@@ -4,7 +4,8 @@ title: Reorte Mining Coalition Proposes Independence
 slug: reorte_mining_coalition_proposes_independence
 date: '3308-03-14'
 source: API
-summary: The Reorte Mining Coalition proposes independence from the Alliance over the Sirius defence pact.
+summary: The Reorte Mining Coalition proposes independence from the Alliance over
+  the Sirius defence pact.
 player_impact: Not specifically mentioned — this is a political report.
 groups:
 - Alliance
@@ -17,10 +18,19 @@ topics:
 - festival
 - independence
 arc_id: null
-modern_impact: '"The Reorte Mining Coalition wants to cut ties with the Alliance in protest against the military defence pact with Sirius Corporation." Reorte''s independence movement demonstrates how unpopular the Sirius pact has become at the system level.'
+modern_impact: '"The Reorte Mining Coalition wants to cut ties with the Alliance in
+  protest against the military defence pact with Sirius Corporation." Reorte''s independence
+  movement demonstrates how unpopular the Sirius pact has become at the system level.'
 legacy_weight: 3
 significance: medium
+related_uuids:
+- ef4e71be-9936-51bb-9e2a-a7dbd842b13f
+- 86fd77a5-fe24-5aa6-8723-a7e34b021f3d
+- 8bfd21dd-5f52-5456-beb3-e58a5292f4dc
+- 33ee3c75-97ce-563c-993f-e4102203cb85
+- b5be39b0-960e-54d6-bee8-fd556eb2bffb
 ---
+
 
 The Reorte Mining Coalition wants to cut ties With the Alliance in protest against The military defence pact With Sirius Corporation.
 Vox Galactica featured an announcement from the faction’s CEO, Fergus Cassidy:

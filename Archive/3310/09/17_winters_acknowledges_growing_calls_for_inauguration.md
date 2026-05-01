@@ -28,8 +28,14 @@ modern_impact: Winters' statement — 'Nothing can ever repair the hole left in 
   directing the recovery' sets up the October 31 inauguration.
 legacy_weight: 3
 significance: medium
-related_uuids: []
+related_uuids:
+- afc9a94b-b11c-56b0-8e7a-e5f9b450371b
+- dcd1dfdf-7dc6-564e-8cc9-bf752c33764a
+- e3f3df5a-f54e-55dd-aa67-6d8d75ce6e4e
+- e66042d5-f19b-5b3d-8113-f2c32d2e4c51
+- 677ba8ea-d7b4-5d96-b990-a430969d2b98
 ---
+
 
 
 President-elect Felicia Winters has discussed the growing discontent within Federal Congress over her delayed inauguration.

@@ -28,7 +28,10 @@ significance: high
 related_uuids:
 - 553db389-d54c-539a-aee0-be31ec1048b2
 - 947d74c0-150f-58ac-b83f-e1a3605a546b
+- a43cc680-aca7-5e5d-ad8c-6916d5893a8c
+- 10afaa7d-925e-5db8-9adb-b56704c55a5e
 ---
+
 
 
 Professor Ishmael Palin, independent scientist and leading authority on xeno-biological research, has added his voice to The debate over sightings of mysterious spacecraft. 

@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 General Alexander Lee, recently retired from United Teaka First, made a guest appearance on The Independent talk show Affairs of State This weekend. General Lee responded to questions regarding Federal fleets stationed at barnacle sites. 
 
 "Strategic resource acquisition and denial is key in any conflict. It is accomplished by taking resource-rich territory by force, by destroying One's own resources when in retreat, and various Other means. The presence of Federation warships at barnacle sites follows this strategic behaviour." 

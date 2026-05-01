@@ -34,7 +34,10 @@ significance: high
 related_uuids:
 - 75d079b9-fea7-50f0-9079-6cc3e119baff
 - ec1824a2-b9ca-5be8-8a99-d7a01d368244
+- 2e56b2b2-2386-5f55-a93f-56225f0b899d
+- d402437c-53dc-5b0d-83ef-01f10c77651e
 ---
+
 
 
 Despite assertions from Admiral Maxton Price that Federal ships in Merope would not initiate conflict, a recent incident report tells a different story. 

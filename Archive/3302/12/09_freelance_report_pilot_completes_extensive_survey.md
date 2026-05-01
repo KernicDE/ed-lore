@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 Commander MissingSea of The Deep Recon X exploration team has completed an extensive survey of the Eol Prou GG-X d1 sub-sector, Located between 260 and 370 light years from Colonia. 
 
 The region contains a total of 858 solar systems, only four of Which were logged in the Universal Cartographics database prior to Commander MissingSea's expedition. 

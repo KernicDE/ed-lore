@@ -4,7 +4,11 @@ title: Aisling Duval Assassination Foiled
 slug: aisling_duval_assassination_foiled
 date: '3304-08-03'
 source: GitHub
-summary: The Imperial Internal Security Service prevents an assassination attempt on Princess Aisling Duval during a fundraising event for Unchain in the Zhao system. Captain Takio Diomedes reports that explosive charges of amateur design were detected and disabled. Aisling Duval continues her duties. Fiancé Jordan Rochester praises inter-power cooperation between Federal and Imperial security services.
+summary: The Imperial Internal Security Service prevents an assassination attempt
+  on Princess Aisling Duval during a fundraising event for Unchain in the Zhao system.
+  Captain Takio Diomedes reports that explosive charges of amateur design were detected
+  and disabled. Aisling Duval continues her duties. Fiancé Jordan Rochester praises
+  inter-power cooperation between Federal and Imperial security services.
 player_impact: None
 persons:
 - Aisling Duval
@@ -20,7 +24,9 @@ topics:
 - crime
 - slavery
 - politics
-modern_impact: The foiled assassination attempt underscores the dangers facing high-profile political figures and demonstrates unprecedented cooperation between Imperial and Federal security agencies.
+modern_impact: The foiled assassination attempt underscores the dangers facing high-profile
+  political figures and demonstrates unprecedented cooperation between Imperial and
+  Federal security agencies.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -29,6 +35,7 @@ related_uuids:
 - 6ffabb44-eae5-526b-a1c5-4fdd043a1db8
 - c29acb57-2dff-58fc-95b5-009815fe9be9
 ---
+
 
 An attempt to assassinate Princess Aisling Duval has been prevented by The Imperial Internal Security Service. 
 

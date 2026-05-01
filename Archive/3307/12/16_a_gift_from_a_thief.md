@@ -4,7 +4,8 @@ title: A Gift From a Thief
 slug: a_gift_from_a_thief
 date: '3307-12-16'
 source: API
-summary: Detective Erik Gunnarson reveals the Winking Cat thief has sent a cryptic message hinting at an upcoming 'hunt' scheduled over the next three weeks.
+summary: Detective Erik Gunnarson reveals the Winking Cat thief has sent a cryptic
+  message hinting at an upcoming 'hunt' scheduled over the next three weeks.
 player_impact: Not specifically mentioned — this is a detective report.
 persons:
 - Erik Gunnarson
@@ -17,10 +18,18 @@ locations:
 topics:
 - crime
 - investigation
-modern_impact: The Winking Cat's cryptic message escalates one of the galaxy's most elaborate criminal games, blurring the line between thief and entertainer.
+modern_impact: The Winking Cat's cryptic message escalates one of the galaxy's most
+  elaborate criminal games, blurring the line between thief and entertainer.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 5f694caa-fbd0-5412-9b82-3cf18d160381
+- f49000db-9fef-53ec-88aa-0940641d669e
+- 90bc1342-ec7b-5a08-b884-29b419ea0f3d
+- 13ed3482-5466-59b9-9863-a673b30f254d
+- 2b4db5ae-e575-5f03-bb79-4a02d667f70a
 ---
+
 
 **Pilots’ Federation ALERT**
 Detective Erik Gunnarson has claimed that The Winking Cat thief has something planned for the weeks ahead.

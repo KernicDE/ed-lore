@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Jupiter Division ships have engaged in battle With rival Federal vessels in The HIP 54530 system.
 Loyalists to former Core Dynamics CEO Jupiter Rochester have built their own breakaway faction in HIP 54530. The FIA suspects that Jupiter Division agents first infiltrated the HIP 54530 Gold Universal Group years ago, and permit locked the system to conceal their efforts to overtake it from within.

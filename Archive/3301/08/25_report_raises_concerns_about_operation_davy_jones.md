@@ -35,7 +35,9 @@ significance: medium
 related_uuids:
 - 641891f3-9ec4-5368-96af-a61a32f43675
 - 69f82056-3d99-5c66-a70d-e2cc978528e8
+- 2ef47a0a-7b3e-5b95-ad44-740dd29c6b60
 ---
+
 
 
 The Stratis Information Group, an Independent think-tank of political, defence, and economics analysts, has published an in-depth study of Operation Davy Jones, The ongoing conflict between the Imperial Navy and the forces of Archon Delaine. 

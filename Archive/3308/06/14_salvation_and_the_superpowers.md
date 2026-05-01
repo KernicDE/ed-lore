@@ -39,7 +39,9 @@ significance: high
 related_uuids:
 - 29bf2db7-3c10-5736-b2d8-666b8df99cb4
 - 6d163a8d-7539-5b90-955d-f084b5d63e52
+- 2f1fe842-e7f1-5ba8-9b46-fe6146047472
 ---
+
 
 
 The Alliance, Empire and Federation have responded coolly to accusations that Salvation has hidden links to Azimuth Biochemicals and INRA.

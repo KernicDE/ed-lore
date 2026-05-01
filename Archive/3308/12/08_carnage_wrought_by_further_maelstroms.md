@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The rogue signal sources Cocijo and Oya have arrived at their estimated destinations.
 Their impact mirrored that of the Taranis, Indra and Leigong Maelstroms. A total of 16 neighbouring systems were immediately overwhelmed by Thargoid fleets, which launched devastating bombardments against orbital starports and planetary infrastructure. 

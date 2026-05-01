@@ -4,7 +4,8 @@ title: ‘Imperial Assassin’ Stokes Superpower Tensions
 slug: imperial_assassin_stokes_superpower_tensions
 date: '3309-04-04'
 source: API
-summary: Caine-Massey accuses Senator Zemina Torval of ordering the assassination of CEO Johann Fleischer, claiming an Imperial Intelligence hitman was responsible.
+summary: Caine-Massey accuses Senator Zemina Torval of ordering the assassination
+  of CEO Johann Fleischer, claiming an Imperial Intelligence hitman was responsible.
 player_impact: Not specifically mentioned — this is a breaking news report.
 persons:
 - Zemina Torval
@@ -24,7 +25,11 @@ topics:
 - scandal
 entities: []
 arc_id: null
-modern_impact: Barlow-Lyons's detailed accusation — 'the trail leads directly to the culprit' — includes specific evidence about false IDs and Torval Mining Ltd connections. The Imperial Senate's categorical rejection and focus on 'anti-xeno operations' is deflection. Hudson's promise of 'further resources' and his framing as 'enemy within' escalates tensions.
+modern_impact: Barlow-Lyons's detailed accusation — 'the trail leads directly to the
+  culprit' — includes specific evidence about false IDs and Torval Mining Ltd connections.
+  The Imperial Senate's categorical rejection and focus on 'anti-xeno operations'
+  is deflection. Hudson's promise of 'further resources' and his framing as 'enemy
+  within' escalates tensions.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -32,6 +37,7 @@ related_uuids:
 - 5cfb0d52-1732-5f48-a502-fc7d1aa11dfa
 - ec95aeea-a040-5284-a367-0e0c14ea4474
 ---
+
 
 Federal mining corporation Caine-Massey has accused Senator Zemina Torval of assassinating its CEO Johann Fleischer.
 An update from the Federal Intelligence Agency prompted a remarkable declaration from Philippa Barlow-Lyons, the company’s acting CEO:

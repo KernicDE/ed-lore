@@ -50,6 +50,7 @@ related_uuids:
 ---
 
 
+
 The concluding article in this series examines events leading to the resurrection of Azimuth and Salvation’s plans for the future.
 During February and March 3308, Aegis suffered a slow death as its operations were shut down by the superpowers. Its leaders continued calling for its reinstatement, not just to battle the Thargoids but also to oppose Azimuth Biochemicals. They claimed that this sinister corporation was still performing unlicensed xenological research and was responsible for thousands of deaths. 
 Meanwhile, the number of Thargoid incursions was increasing, perhaps in response to Salvation’s Guardian-based superweapon. This culminated in a simultaneous invasion of the Didio, Novas and Sosong systems in April 3308. These were major population centres for the Alliance, Empire and Federation respectively, with over ten billion lives at risk.

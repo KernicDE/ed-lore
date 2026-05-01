@@ -4,7 +4,8 @@ title: Marlinists Reject Emperor’s Offer
 slug: marlinists_reject_emperors_offer
 date: '3308-04-08'
 source: API
-summary: The Marlinist Colonies vote to remain independent from the Empire rather than accept protectorate status.
+summary: The Marlinist Colonies vote to remain independent from the Empire rather
+  than accept protectorate status.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Arissa Lavigny-Duval
@@ -17,13 +18,17 @@ topics:
 - succession
 - terrorism
 arc_id: null
-modern_impact: '"Our people have given us a clear mandate: the colonies stand alone." The rejection of Imperial protectorate status cemented the Marlinist Colonies as an independent republican democracy, marking a pivotal moment in post-NMLA galactic political restructuring.'
+modern_impact: '"Our people have given us a clear mandate: the colonies stand alone."
+  The rejection of Imperial protectorate status cemented the Marlinist Colonies as
+  an independent republican democracy, marking a pivotal moment in post-NMLA galactic
+  political restructuring.'
 legacy_weight: 4
 significance: high
 related_uuids:
 - c8ab379b-af61-5fb9-8a8e-ca754524ddb7
 - 449ee55c-8f28-5145-acc4-604f8d8b9b68
 ---
+
 
 A public referendum in The Marlinist Colonies has resulted in the majority voting to remain fully Independent from the Empire.
 Emperor Arissa Lavigny-Duval had proposed to make the colony systems an Imperial protectorate in return for Marlinist allegiance to the Imperial throne. This would have permitted an autonomous government while creating Many civil and military links.

@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 The Colonia Council, the governing body of the Colonia system, has launched a campaign to expand infrastructure and manufacturing facilities in the region. The initiative is intended to support future colonisation of the Colonia Nebula, and address the needs of the growing Colonia community. 
 
 In a statement, a spokesperson for the Council elaborated on the nature of the campaign: 

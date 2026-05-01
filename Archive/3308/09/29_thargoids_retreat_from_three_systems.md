@@ -43,6 +43,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 The conflicts in the 42 n Persei, Chun Pindit and Tekkeitjal systems have ended with the withdrawal of Thargoid vessels.
 All three systems reported the simultaneous arrival of Thargoid forces on the 12th of September, following an expansion of their presence from HIP 22460. Unlike many previous incursions, however, no starports came under direct attack.

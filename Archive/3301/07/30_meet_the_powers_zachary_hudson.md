@@ -4,7 +4,13 @@ title: Meet the Powers – Zachary Hudson
 slug: meet_the_powers_zachary_hudson
 date: '3301-07-30'
 source: GitHub
-summary: Political commentator Marcus Macmillan profiles Federal President Zachary Hudson. He became President after Halsey's disappearance and a Senate vote of no confidence. A military advocate, he supports CQC Championship as a Federal Navy recruitment tool and is expanding the fleet. He believes in minimal government burden, with extensive tax reductions planned, though this has drawn criticism from those who relied on government support. He advocates personal freedom balanced by individual responsibility. For recreation, he hunts on frontier worlds.
+summary: Political commentator Marcus Macmillan profiles Federal President Zachary
+  Hudson. He became President after Halsey's disappearance and a Senate vote of no
+  confidence. A military advocate, he supports CQC Championship as a Federal Navy
+  recruitment tool and is expanding the fleet. He believes in minimal government burden,
+  with extensive tax reductions planned, though this has drawn criticism from those
+  who relied on government support. He advocates personal freedom balanced by individual
+  responsibility. For recreation, he hunts on frontier worlds.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -20,10 +26,20 @@ locations:
 topics:
 - politics
 - military
-modern_impact: Profile establishes Zachary Hudson as a militaristic, small-government president expanding Federal Navy capabilities while cutting domestic spending.
+modern_impact: Profile establishes Zachary Hudson as a militaristic, small-government
+  president expanding Federal Navy capabilities while cutting domestic spending.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 250a8de2-2777-572d-b19a-b9f849cf2f06
+- afc9a94b-b11c-56b0-8e7a-e5f9b450371b
+- b835fd7e-19db-5d69-a349-bd293a75754b
+- cd6b06fb-bcc9-5e09-9d74-2728b8bfc2d2
+- fc7e283c-7f21-59e2-ab99-16941d424548
+- c267b84b-57a2-5a63-8d0d-e2363834a969
+- 7fc202ae-1595-550a-a5bb-a00ccb711675
 ---
+
 
 Continuing This GalNet exclusive series, political commentator Marcus Macmillan writes his opinion of some of the movers and shakers in 3301. In This fifth article he analyses Federal President Zachary Hudson. 
 

@@ -4,7 +4,10 @@ title: Week in Review
 slug: week_in_review
 date: '3304-11-10'
 source: GitHub
-summary: Weekly summary covering the mercenary incursion against Ram Tah's Phoenix Base in Meene, the FSS suspension of Lieutenant Inspector Ramesh Thorne, Nova Imperium's broadcast message from the Imperator, the disappearance of author Olav Redcourt, and the end of the Geras conflict.
+summary: Weekly summary covering the mercenary incursion against Ram Tah's Phoenix
+  Base in Meene, the FSS suspension of Lieutenant Inspector Ramesh Thorne, Nova Imperium's
+  broadcast message from the Imperator, the disappearance of author Olav Redcourt,
+  and the end of the Geras conflict.
 player_impact: None
 persons:
 - Arissa Lavigny-Duval
@@ -31,7 +34,9 @@ topics:
 - investigation
 - succession
 - war
-modern_impact: This week's events span corporate espionage, whistle-blower suppression, isolationist political mobilisation, and the conclusion of local conflicts, illustrating the galaxy's multifaceted instability.
+modern_impact: This week's events span corporate espionage, whistle-blower suppression,
+  isolationist political mobilisation, and the conclusion of local conflicts, illustrating
+  the galaxy's multifaceted instability.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +46,7 @@ related_uuids:
 - 7e6d6a09-c0b5-5c86-b6e1-7dab5e24d303
 - 9dd7aeb3-bfaa-57cd-a120-cba857134b07
 ---
+
 
 Here are This week’s major stories. 
 

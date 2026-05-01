@@ -44,6 +44,7 @@ related_uuids:
 ---
 
 
+
 Prominent figures on the political stage have commented on Salvation’s anti-xeno operation in the HIP 22460 system. Key points from each are collated below.
 Archon Delaine: “My opinion on the Thargoids remains the same: burn them all! As I stated at the Galactic Summit, the Kumo nation stands ready to help wipe out these alien scum.” 
 Yuri Grom: “I trust Salvation as little as I trust the Federation. What guarantee do we have that this Proteus Wave will not be turned against human targets, once the Thargoids are dealt with?”

@@ -4,8 +4,10 @@ title: Vodel Releases Scorpion SRV
 slug: vodel_releases_scorpion_srv
 date: '3307-12-09'
 source: API
-summary: Vodel officially releases the Scorpion SRV, a combat-focused surface vehicle developed with Core Dynamics resources following their 3305 acquisition.
-player_impact: The Scorpion SRV is now available to purchase from military economy ports.
+summary: Vodel officially releases the Scorpion SRV, a combat-focused surface vehicle
+  developed with Core Dynamics resources following their 3305 acquisition.
+player_impact: The Scorpion SRV is now available to purchase from military economy
+  ports.
 persons:
 - Frank Endis
 - Owen McKenna
@@ -18,10 +20,18 @@ locations:
 - Levinson Orbital
 topics:
 - engineering
-modern_impact: The Scorpion SRV represents a significant advancement in surface combat vehicle technology, offering pilots a new tool for planetary operations.
+modern_impact: The Scorpion SRV represents a significant advancement in surface combat
+  vehicle technology, offering pilots a new tool for planetary operations.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 205ec4c6-df7a-581e-8c72-20928345d6ce
+- 533f8ff4-f23d-500f-83d9-92209119bc5b
+- 61ab8647-32a4-5463-b38b-57ed9790e137
+- ee5b7c0a-d673-55fa-b1af-b0e73f400736
+- e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
 ---
+
 
 SRV manufacturer Vodel today announced The official release of Its new vehicle, the Scorpion.
 The first new mass-production model offered by the company in Many years, the Scorpion is designed for combat operations and troop support. It is widely understood that Vodel’s acquisition by Core Dynamics in 3305 triggered the development of the new model, With the parent company’s considerable financial resources made available to Vodel’s engineering teams.

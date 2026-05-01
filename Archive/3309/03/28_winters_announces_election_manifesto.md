@@ -4,7 +4,9 @@ title: Winters Announces Election Manifesto
 slug: winters_announces_election_manifesto
 date: '3309-03-28'
 source: API
-summary: Felicia Winters launches the Liberal Party campaign, promising to dismantle the PDB on day one while maintaining military spending and extending aid to independent systems facing Thargoid aggression.
+summary: Felicia Winters launches the Liberal Party campaign, promising to dismantle
+  the PDB on day one while maintaining military spending and extending aid to independent
+  systems facing Thargoid aggression.
 player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Felicia Winters
@@ -22,7 +24,12 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Winters's centerpiece promise — 'dismantling the Proactive Detection Bureau on day one' — is a clear policy differentiator. Her security framing — 'extend naval and humanitarian assistance to independent systems near our borders' — combines idealism with pragmatism. The contrasting media responses — Federal Free Press's praise vs. Sol Today's dismissal — show partisan coverage. The Republican nomination narrowing to Archer vs. Berkovich provides election context.
+modern_impact: Winters's centerpiece promise — 'dismantling the Proactive Detection
+  Bureau on day one' — is a clear policy differentiator. Her security framing — 'extend
+  naval and humanitarian assistance to independent systems near our borders' — combines
+  idealism with pragmatism. The contrasting media responses — Federal Free Press's
+  praise vs. Sol Today's dismissal — show partisan coverage. The Republican nomination
+  narrowing to Archer vs. Berkovich provides election context.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,6 +37,7 @@ related_uuids:
 - 8c7d0f3d-d4f3-548d-9c4a-8bcad0485c4f
 - 50a631e1-fbcd-5297-84e9-1d2ed145b4d3
 ---
+
 
 The Liberal Party has published a detailed political manifesto in advance of the Federation’s presidential election in June.
 Shadow President Felicia Winters summarised her party’s plans during a campaign rally on Rhea 3:

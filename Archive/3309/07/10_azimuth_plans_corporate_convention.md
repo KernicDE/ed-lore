@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Azimuth Biotech has announced an invitation-only event for prospective business partners and military liaisons.
 CEO Torben Rademaker provided a statement to the media:
 “New opportunities have emerged for Azimuth to resume the lead in anti-xeno operations. With Thargoid fleets rampaging through the core systems, and Aegis’s questionable policy of providing utility modules over increased firepower, humanity’s defence once again falls to us. But our organisation will no longer work in solitude.”

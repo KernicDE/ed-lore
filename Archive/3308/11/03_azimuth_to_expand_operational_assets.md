@@ -43,6 +43,7 @@ related_uuids:
 
 
 
+
 Azimuth Biotech has announced a campaign in the Wandrama system to expand its military and surface facility capacity.
 The controversial weapons developer has seen a recent downturn in fortunes, due to fierce opposition by independent pilots protesting Azimuth’s history of illicit research. The failure of Salvation to bring an end to the war has also soured public sentiment towards the corporation.
 Azimuth Biotech CEO Torben Rademaker announced the initiative:

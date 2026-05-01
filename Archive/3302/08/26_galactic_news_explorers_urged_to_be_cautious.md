@@ -4,7 +4,10 @@ title: Galactic News  Explorers Urged to be Cautious
 slug: galactic_news_explorers_urged_to_be_cautious
 date: '3302-08-26'
 source: GitHub
-summary: Karl Devene, head of the Federal Astrocartography Department, warned that many explorer expeditions are poorly prepared and irresponsible. He announced plans to petition authorities to restrict unregulated exploration and keep it in the hands of professionals.
+summary: Karl Devene, head of the Federal Astrocartography Department, warned that
+  many explorer expeditions are poorly prepared and irresponsible. He announced plans
+  to petition authorities to restrict unregulated exploration and keep it in the hands
+  of professionals.
 player_impact: None
 persons:
 - Karl Devene
@@ -16,10 +19,15 @@ topics:
 - exploration
 - war
 technologies: []
-modern_impact: Federal calls to restrict independent exploration reflect growing official concern over first-contact readiness and control of frontier regions.
+modern_impact: Federal calls to restrict independent exploration reflect growing official
+  concern over first-contact readiness and control of frontier regions.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 27019b70-9df7-54ff-ae4e-c5d07dbc4823
+- fff2f485-f8f2-5edc-9f15-c8581b90c721
 ---
+
 
 In his keynote speech at a recent conference, Karl Devene, head of The Federal Astrocartography Department, warned would-be explorers of the dangers of venturing into the void: 
 

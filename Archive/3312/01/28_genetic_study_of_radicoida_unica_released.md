@@ -42,7 +42,9 @@ related_uuids:
 - ab9f6c81-8fa4-564b-978d-59be79a044dc
 - b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
 - ed385459-5c49-5899-ba5b-c1aaeb45d81b
+- b57cb4f0-08fd-52f1-a589-0770dfd60a1d
 ---
+
 
 
 The first publicly available study of Radicoida unica has been published following heavy pressure from the exobiological community.

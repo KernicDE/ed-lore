@@ -34,7 +34,12 @@ significance: medium
 related_uuids:
 - 0b831f1a-625d-5020-b660-21963973c7f3
 - 516dd5df-be0b-5304-a219-b5633499fea2
+- 50cc2603-0e0e-5a65-959a-167768911425
+- df1ccc53-abbd-5e33-ad74-afda1febde98
+- 9f8a71d4-e5b2-5d70-8887-897ae3a03eb6
+- dddd383c-b1c9-56c7-8e61-ee15540c13bd
 ---
+
 
 
 During a press conference in Alioth earlier today, Prime Minister Edmund Mahon expressed his gratitude towards The Independent pilots who supported his initiative to strengthen The Alliance's economic presence in the Old Worlds cluster. Mahon declared intention to keep the cluster open for traders of all affiliations and has announced an open trade agreement that will grant any trader safe passage. 

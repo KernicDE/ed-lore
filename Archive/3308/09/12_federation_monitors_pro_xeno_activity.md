@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 The Federal Intelligence Agency has warned of heightened interest in the Far God cult and groups considered sympathetic to the Thargoids.
 Deputy Director Bethany Blake, who runs the Proactive Detection Bureau, delivered a public statement:
 “We have confirmed a significant increase in communications between local chapters of the Far God religious order, which includes the sharing of unverified xenological data. The Thargoids’ victory in HIP 22460 seems to have caused unprecedented excitement among the cultists. At present, there is no evidence that they pose any danger to the public. However, we are concerned by a recent increase in citizens abandoning their conventional lifestyles to join the cult.”

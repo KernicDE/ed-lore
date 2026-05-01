@@ -4,7 +4,12 @@ title: Two Dead in Tragic Accident
 slug: two_dead_in_tragic_accident
 date: '3301-08-11'
 source: GitHub
-summary: Two transport safety officials died when their personal transport collided with a Lakon Type-9 Heavy vessel near Laphria Shipyard in the Artemis system. The officials were on a knowledge-sharing mission. The Type-9 pilot was treated for shock. Federal Times reporter Elaine Boyd pressed authorities on whether one victim was Arnold Lowe, a senior investigator in the Starship One disappearance, but received no comment.
+summary: Two transport safety officials died when their personal transport collided
+  with a Lakon Type-9 Heavy vessel near Laphria Shipyard in the Artemis system. The
+  officials were on a knowledge-sharing mission. The Type-9 pilot was treated for
+  shock. Federal Times reporter Elaine Boyd pressed authorities on whether one victim
+  was Arnold Lowe, a senior investigator in the Starship One disappearance, but received
+  no comment.
 player_impact: None
 persons:
 - Elaine Boyd
@@ -22,10 +27,19 @@ topics:
 technologies:
 - Lakon Type-9 Heavy
 - Type-9 Heavy
-modern_impact: Tragic accident raises questions about transport safety and potential links to the Starship One investigation.
+modern_impact: Tragic accident raises questions about transport safety and potential
+  links to the Starship One investigation.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e94289e7-a780-5d7e-a94c-ba77150422a4
+- 4f5bb72d-f757-5aea-bac2-311684658508
+- af01c68b-24fd-5dc7-bd85-38ca24522b88
+- 48fc993c-e405-5490-ae64-22990bfd99a2
+- 345cb822-35d0-50ee-a245-6e79e65f2844
+- 4a1d51ec-7fbc-53e4-b9d8-29e6e3f14744
 ---
+
 
 Two people died In a crash when a personal transport collided With a Lakon Type-9 Heavy transport Vessel. The small ship, a type used to Run between orbital facilities, was destroyed in The impact. The small Vessel was ferrying two transport safety officials to The Laphria Shipyard in the Artemis system. They were on a knowledge sharing mission. 
 

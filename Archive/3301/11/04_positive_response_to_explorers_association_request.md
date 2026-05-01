@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The Explorers' Association has released a statement confirming that the pirates operating in the Kaushpoos system have been eliminated. Hundreds of pilots responded to the organisation's appeal, taking to their ships to battle the agitators disrupting the assembly of Kaushpoos's new Ocellus starport and deliver palladium for use in Its construction. A spokesperson for the Explorers' Association released a brief statement: 
 
 "By coming to the aid of This Important initiative, the galactic community has once again demonstrated its belief in the value of this starport. The Explorers' Association extends its sincere gratitude to all those who helped to rid the Kaushpoos system of pirates, and also to those who delivered palladium for the next phase of construction. Thanks to you, we can continue With Our work." 

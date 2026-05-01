@@ -4,8 +4,10 @@ title: Public Unnerved by Palin Announcement
 slug: public_unnerved_by_palin_announcement
 date: '3308-11-15'
 source: API
-summary: The announcement that the rogue signal sources heading towards the core systems are Thargoid in origin has caused unease within the general public.
-player_impact: Independent pilots were encouraged to collect and submit genetic data samples.
+summary: The announcement that the rogue signal sources heading towards the core systems
+  are Thargoid in origin has caused unease within the general public.
+player_impact: Independent pilots were encouraged to collect and submit genetic data
+  samples.
 persons:
 - Casey Kilpatrick
 - Ishmael Palin
@@ -18,7 +20,9 @@ topics:
 - research
 - war
 arc_id: null
-modern_impact: '"Colleagues across multiple systems have confirmed that the impending arrival of the rogue signal sources – termed ‘st..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"Colleagues across multiple systems have confirmed that the impending
+  arrival of the rogue signal sources – termed ‘st..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -28,6 +32,7 @@ related_uuids:
 - ae551de7-6ccc-55b7-a142-8e77ac721dce
 - 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
 ---
+
 
 The announcement that the rogue signal sources heading towards the core systems are Thargoid in origin has caused unease within the general public.
 Protests in systems on the edges of human space have taken place, demanding assurances from local governments about their safety. The failure to establish a collective human fleet to counter Thargoid incursions has left many concerned about what the future may hold.

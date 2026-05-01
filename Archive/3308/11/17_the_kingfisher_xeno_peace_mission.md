@@ -4,8 +4,10 @@ title: The Kingfisher Xeno-Peace Mission
 slug: the_kingfisher_xeno_peace_mission
 date: '3308-11-17'
 source: API
-summary: The Kingfisher megaship has requested supplies for its planned journey to greet the first rogue signal source.
-player_impact: Independent pilots were asked to both deliver commodities and engage hostile forces.
+summary: The Kingfisher megaship has requested supplies for its planned journey to
+  greet the first rogue signal source.
+player_impact: Independent pilots were asked to both deliver commodities and engage
+  hostile forces.
 persons:
 - Dalton Chase
 locations:
@@ -15,7 +17,9 @@ topics:
 - alien contact
 - war
 arc_id: null
-modern_impact: '"Now that we know the approaching anomalies are Thargoid, many are concerned that hostilities between our species will..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+modern_impact: '"Now that we know the approaching anomalies are Thargoid, many are
+  concerned that hostilities between our species will..." The failure of civilian-led
+  diplomacy underscores the dangers of underestimating Thargoid hostility.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -25,6 +29,7 @@ related_uuids:
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 - 1bc4f61f-b1a2-5e7a-ba56-41659e56ebcb
 ---
+
 
 **Pilots’ Federation ALERT**
 The Kingfisher megaship has requested supplies for its planned journey to greet the first rogue signal source.

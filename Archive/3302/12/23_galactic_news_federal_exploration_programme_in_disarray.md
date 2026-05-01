@@ -34,7 +34,10 @@ legacy_weight: 5
 significance: high
 related_uuids:
 - 81625d4e-49d9-593d-8721-8beeb648005c
+- b6b61518-10b4-5ed4-9fb5-e4cfa49a970e
+- 0861b015-71fe-52eb-965b-e9c72e9f8272
 ---
+
 
 
 Last month, The Federation launched an appeal for exploration data from a number of remote locations. A competitive appeal was simultaneously launched by a mysterious group known As the Children of Raxxla, Which succeeded in completely derailing the Federal initiative. Karl Devene, head of Astrocartography at Mars High, was forced to resign as a result. 

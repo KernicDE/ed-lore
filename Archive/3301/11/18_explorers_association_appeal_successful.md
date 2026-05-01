@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 The Explorers' Association has announced that the third stage of Its ambitious starport project is complete. The materials needed for the final phase of construction have been delivered, and the finishing touches are now being applied to the Kaushpoos system's new Ocellus starport. A spokesperson for the Explorers' Association expressed satisfaction With the result, but stressed that the starport was not yet open for business: 
 
  "I want to take This opportunity to thank the Many Hundreds of Independent pilots who supported this project, and helped make Our dream a reality. There's still work to do, but we're on schedule to officially open the starport next month. We look forward to seeing you at the opening ceremony!" 

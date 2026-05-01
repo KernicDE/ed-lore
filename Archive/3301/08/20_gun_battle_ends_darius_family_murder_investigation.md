@@ -4,7 +4,13 @@ title: Gun Battle Ends Darius Family Murder Investigation
 slug: gun_battle_ends_darius_family_murder_investigation
 date: '3301-08-20'
 source: GitHub
-summary: The hunt for the Darius family killers ended in a firefight with local security forces on Eotienses. All suspects, believed to be local vigilantes seeking revenge for Brendan Paul Darius's assassination of Emperor Hengist Duval, were killed. Inspector Reeve stated the suspects were heavily armed and opened fire as officers entered the building. He refused to answer why the family was not in protective custody or how guards were subdued without fatalities. A witness claimed no attempt was made to arrest the suspects, which Reeve denied.
+summary: The hunt for the Darius family killers ended in a firefight with local security
+  forces on Eotienses. All suspects, believed to be local vigilantes seeking revenge
+  for Brendan Paul Darius's assassination of Emperor Hengist Duval, were killed. Inspector
+  Reeve stated the suspects were heavily armed and opened fire as officers entered
+  the building. He refused to answer why the family was not in protective custody
+  or how guards were subdued without fatalities. A witness claimed no attempt was
+  made to arrest the suspects, which Reeve denied.
 player_impact: None
 persons:
 - Brendan Paul Darius
@@ -17,10 +23,18 @@ locations:
 topics:
 - crime
 - investigation
-modern_impact: Violent end to the Darius family murder investigation raises questions about vigilante justice and security failures.
+modern_impact: Violent end to the Darius family murder investigation raises questions
+  about vigilante justice and security failures.
 legacy_weight: 2
 significance: low
+related_uuids:
+- bef5e1fc-35e0-511b-81be-d0e22866b0e2
+- 9d0148b2-d0ec-597d-a16f-c88c72bf49ff
+- 5a0d6b12-099c-5111-9caa-68a035d80287
+- 74f96d5d-43c7-50ef-9f79-9c7047e42d9b
+- f0f1c2b2-9935-5db5-afca-cdd159061db8
 ---
+
 
 The hunt for The killers of the Darius family came to a dramatic conclusion today In a firefight With local security forces on Eotienses. 
 

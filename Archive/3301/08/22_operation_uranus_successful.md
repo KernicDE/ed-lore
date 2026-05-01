@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 This week, Archon Delaine hit back at The renewed Imperial offensive. Using a multi-pronged attack, The Kumo Crew struck hard at systems under the influence of Senator Patreus. Dubbed ‘Operation Uranus’, the campaign successfully pushed the system of Contiku into turmoil. 
 
 The number of Kumo Crew raids within Imperial space increased during the week, With multiple Imperial commanders reporting Run-ins With the cartel. Although a combined task force of Imperial powers laid siege to the Pegasi sector, pilots loyal to Senator Patreus failed to prevent the pirate counter-attack. This may jeopardize the fragile Alliance between the powers, and strengthen internal opposition to the Pegasi Pirate War. 

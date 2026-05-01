@@ -4,8 +4,10 @@ title: Havoc as Thargoids Overrun Multiple Systems
 slug: havoc_as_thargoids_overrun_multiple_systems
 date: '3308-11-30'
 source: API
-summary: Nine systems have called for help against massive Thargoid attacks intent on wiping out civilian populations.
-player_impact: Independent pilots were encouraged to participate in the unfolding events.
+summary: Nine systems have called for help against massive Thargoid attacks intent
+  on wiping out civilian populations.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
 persons:
 - Denton Patreus
 - Edmund Mahon
@@ -24,7 +26,9 @@ topics:
 - research
 - war
 arc_id: null
-modern_impact: '"The arrival of what military scientists have labelled the ‘Taranis Maelstrom’ has brought terror and carnage to milli..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"The arrival of what military scientists have labelled the ‘Taranis
+  Maelstrom’ has brought terror and carnage to milli..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +38,7 @@ related_uuids:
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 - 98d2b600-086b-56d5-b7de-45bee9289a6f
 ---
+
 
 **Pilots’ Federation ALERT**
 Nine systems have called for help against massive Thargoid attacks intent on wiping out civilian populations.

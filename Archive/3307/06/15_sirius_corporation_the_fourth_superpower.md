@@ -45,7 +45,12 @@ related_uuids:
 - 808a1c32-013a-58f3-bf85-f48036f3d4f1
 - be0ab3b9-00aa-579f-b1cc-df4dd1f85d1e
 - e80dc871-1c60-5bbc-ab2c-32af2fdecaf5
+- e4dba0c4-21fc-5823-9986-a9218f891834
+- 23682552-0aec-5efe-a9ce-20cef8c81358
+- 4c6f7eab-f526-5149-8b03-49b8426a3243
+- 6b7fcb89-9334-5913-b225-189b5a087895
 ---
+
 
 
 The galaxy’s largest megacorporation is continuing to influence the political arena and affect billions of lives.

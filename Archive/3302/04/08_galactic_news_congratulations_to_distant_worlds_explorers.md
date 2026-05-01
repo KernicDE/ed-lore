@@ -4,7 +4,10 @@ title: Galactic News  Congratulations to Distant Worlds Explorers
 slug: galactic_news_congratulations_to_distant_worlds_explorers
 date: '3302-04-08'
 source: GitHub
-summary: A transmission from Commander Salomé congratulates Dr Kaii and Commander Erimus on the Distant Worlds Expedition's colossal achievement. Early analysis of recovered data reveals new routes to Beagle Point, the Core, the Formidine Rift, and other regions.
+summary: A transmission from Commander Salomé congratulates Dr Kaii and Commander
+  Erimus on the Distant Worlds Expedition's colossal achievement. Early analysis of
+  recovered data reveals new routes to Beagle Point, the Core, the Formidine Rift,
+  and other regions.
 player_impact: None
 persons:
 - Commander Salomé
@@ -24,7 +27,17 @@ topics:
 modern_impact: Notable exploration achievement.
 legacy_weight: 2
 significance: low
+related_uuids:
+- d27ded8d-1aef-5ab9-a316-27ec6d7bc189
+- 691bc72c-a455-5273-901a-0f92ddf4e5ac
+- 1d5240cd-3591-56b7-a646-6af6b9a26a4d
+- ca336671-285c-54b4-9c50-3b2c5cafda2f
+- 7863ec80-d3ac-5c4d-b5d5-0935733c5f4d
+- e79f3bf9-8198-5916-8659-119c80ba16e5
+- 2a4bea4d-a55f-5cdc-89a1-a1362c3306f4
+- b6b61518-10b4-5ed4-9fb5-e4cfa49a970e
 ---
+
 
 From a vantage point more than 65,000 light years from Sol, a transmission has been received regarding The Distant Worlds Expedition. Sent by a Commander Salomé, the message congratulates Dr Kaii and Commander Erimus on their colossal achievement, and pays homage to the Hundreds of Other explorers who took part. 
 

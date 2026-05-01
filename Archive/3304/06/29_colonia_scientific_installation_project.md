@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Scientists in Colonia have announced plans to build a scientific outpost in The system to monitor the region’s population and resources. 
 
 Professor Alexei de la Vega, who is heading the project, published This statement: 

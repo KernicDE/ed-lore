@@ -4,8 +4,11 @@ title: Distant Worlds Campaign Concludes
 slug: distant_worlds_campaign_concludes
 date: '3305-03-14'
 source: GitHub
-summary: The Distant Worlds II resource-gathering campaign concludes successfully, with Explorer's Anchorage established as a scientific installation to study the supermassive black hole at Sagittarius A*.
-player_impact: Contributing pilots could collect rewards from Explorer's Anchorage in Stuemeae FG-Y d7561.
+summary: The Distant Worlds II resource-gathering campaign concludes successfully,
+  with Explorer's Anchorage established as a scientific installation to study the
+  supermassive black hole at Sagittarius A*.
+player_impact: Contributing pilots could collect rewards from Explorer's Anchorage
+  in Stuemeae FG-Y d7561.
 persons:
 - Michael Darkmoor
 groups:
@@ -19,13 +22,18 @@ locations:
 topics:
 - exploration
 - research
-modern_impact: The campaign's completion marked a milestone in deep-space infrastructure, creating humanity's first research station in the Galactic Centre and enabling unprecedented study of extreme gravitational phenomena.
+modern_impact: The campaign's completion marked a milestone in deep-space infrastructure,
+  creating humanity's first research station in the Galactic Centre and enabling unprecedented
+  study of extreme gravitational phenomena.
 legacy_weight: 4
 significance: high
 related_uuids:
 - a66cd191-14e4-5cfc-9d8b-38d780f58137
 - 432f9416-f1fb-55a0-89b9-82607b354d65
+- 709cb1ad-841a-5f21-b39e-4bbe644d7655
+- bed394ac-3331-5d0f-94b4-06038a6cf607
 ---
+
 
 The Distant Worlds II expedition has gathered resources for a megaship and installation to be constructed in the Galactic Centre. 
 

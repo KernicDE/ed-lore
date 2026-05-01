@@ -4,8 +4,10 @@ title: Materials Delivered for Colonia Bridge Starports
 slug: materials_delivered_for_colonia_bridge_starports
 date: '3308-01-13'
 source: API
-summary: Successful material deliveries enable construction of six new starports along the Colonia Bridge route.
-player_impact: Pilots successfully delivered materials enabling construction of new Colonia Bridge starports.
+summary: Successful material deliveries enable construction of six new starports along
+  the Colonia Bridge route.
+player_impact: Pilots successfully delivered materials enabling construction of new
+  Colonia Bridge starports.
 groups:
 - Brewer Corporation
 locations:
@@ -17,10 +19,19 @@ topics:
 - engineering
 - war
 arc_id: null
-modern_impact: '"Once again, we owe a great deal to the pilots who brought us so many vital resources." Pilot contributions have permanently reshaped the 22,000-light-year corridor to Colonia, enabling deep-space commerce.'
+modern_impact: '"Once again, we owe a great deal to the pilots who brought us so many
+  vital resources." Pilot contributions have permanently reshaped the 22,000-light-year
+  corridor to Colonia, enabling deep-space commerce.'
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 8389259d-a648-5484-9e90-f4b45ab488d5
+- 0377cb77-df5d-5d2f-9e79-121abe877a31
+- b1468c62-8abd-578a-be2b-1bd2f4f4a6d5
+- 77fd1ea5-46c8-54e0-85aa-1f7784fe1bd2
+- 278d7924-2868-5862-8a08-2dda0d9462e2
 ---
+
 
 **Pilots’ Federation ALERT**
 The third phase of Brewer Corporation’s Colonia Bridge project has proven successful, According to a recent announcement.

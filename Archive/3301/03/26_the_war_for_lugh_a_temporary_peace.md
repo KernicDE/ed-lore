@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 The strike against Federal civilians by the Federal Navy, coupled With the capture of Hartsfield Market a few hours later, caused mass confusion and disenchantment among Federal pilots operating in the area. Mercenaries who had previously fought for the Federation began defecting en masse, bolstering CSG forces to the point where they almost equalled the Federal forces in size. 
 
 As a result of having gained control of Lugh’s satellite defence system during the capture of Hartsfield Market, the Crimson State Group managed to force the retreat of the Federal battlecruiser from Its position around Lugh 11. Then, With the help of thousands of mercenary defectors, the Crimson State was able to re-establish control over the majority of Lugh’s airspace. 

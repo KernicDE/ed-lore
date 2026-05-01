@@ -30,7 +30,9 @@ significance: low
 related_uuids:
 - 1d718391-dc45-5e08-b3ce-4433a2600fac
 - c553201b-39fc-54de-82f6-1a41c0fad025
+- 691bc72c-a455-5273-901a-0f92ddf4e5ac
 ---
+
 
 
 The Children of Raxxla, based in the HR 6421 system, have released an analysis of the exploration data recovered by the galactic community in November last year. 

@@ -48,7 +48,10 @@ related_uuids:
 - 36c0ba02-5f13-5ac2-920b-5b3b99dca219
 - 6e3b0a13-d6ff-5867-9836-ce422ebf2893
 - b1886f93-ecbf-50e3-83c6-743f46436d7b
+- 9d504b23-ad0b-5f30-b024-01047817945d
+- 22e64f17-84fe-5324-b965-55888566498b
 ---
+
 
 
 A new product being manufactured by The Kumo Crew could be a version of Onionhead, the controversial recreational drug.

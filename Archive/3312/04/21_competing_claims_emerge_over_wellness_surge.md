@@ -4,8 +4,11 @@ title: Competing Claims Emerge Over Wellness Surge
 slug: competing_claims_emerge_over_wellness_surge
 date: 3312-04-21
 source: API
-summary: William 'Big Bill' Ventura's fitness trend evolves into broader cultural movement. Unusually consistent reports of improved wellbeing across professions. No product or organization credited.
-player_impact: Social/cultural event with no direct gameplay. Viral wellness trend continues spreading. Monitor for potential commodity or CG implications.
+summary: William 'Big Bill' Ventura's fitness trend evolves into broader cultural
+  movement. Unusually consistent reports of improved wellbeing across professions.
+  No product or organization credited.
+player_impact: Social/cultural event with no direct gameplay. Viral wellness trend
+  continues spreading. Monitor for potential commodity or CG implications.
 persons:
 - William Ventura
 - Mara Chen
@@ -20,12 +23,17 @@ topics:
 - piracy
 - research
 - ship
-modern_impact: Sirius Corporation's nutrient product claims and Kit Fowler's Onionhead speculation introduce competing explanations for the wellness trend. The persistence of enhanced wellbeing reports without clear attribution suggests either a genuine unexplained phenomenon or a deliberately concealed cause that may eventually surface through investigative reporting.
+modern_impact: Sirius Corporation's nutrient product claims and Kit Fowler's Onionhead
+  speculation introduce competing explanations for the wellness trend. The persistence
+  of enhanced wellbeing reports without clear attribution suggests either a genuine
+  unexplained phenomenon or a deliberately concealed cause that may eventually surface
+  through investigative reporting.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 0f29b721-3c5c-515b-a61a-62f30189a33c
 ---
+
 
 As reports of improved health and mental performance continue across a number of systems, several institutions have begun attributing the trend to their own initiatives.
 Health authorities have pointed to recent dietary guidance reforms and public exercise incentives, while corporate voices, including Sirius Corporation, have highlighted advances in nutrient-dense, low-calorie food products for mainstream markets.

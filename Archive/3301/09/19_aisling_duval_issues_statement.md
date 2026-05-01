@@ -34,7 +34,11 @@ significance: high
 related_uuids:
 - 2a25a3ae-9010-5554-8f52-0731676ebd52
 - 99db0a77-421b-5e49-aa18-60b356f84b48
+- 593b3802-9ce4-5705-a1a4-9470120e3676
+- 5315a6f6-6131-599c-9440-56da84f9b974
+- af57d372-7f3e-541e-a133-0d7ca34b5d2a
 ---
+
 
 
 Following yesterday’s revelation of alleged links between Princess Aisling Duval’s office and The Emperor’s Dawn insurgency, Princess Aisling today issued a statement denying any knowledge of The connection. 

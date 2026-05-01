@@ -4,8 +4,10 @@ title: The Call for Unity
 slug: the_call_for_unity
 date: '3308-10-25'
 source: API
-summary: Newsfeeds across the core systems have reflected the increasing public demand for full-scale military cooperation against the Thargoids.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: Newsfeeds across the core systems have reflected the increasing public demand
+  for full-scale military cooperation against the Thargoids.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Angela Corcoran
 - General Falkenrath
@@ -24,7 +26,9 @@ topics:
 - diplomacy
 - war
 arc_id: thargoid-titan-war
-modern_impact: '"Removing the Far God cult from Federal space was a way of distracting the people from President Hudson’s failures. Th..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"Removing the Far God cult from Federal space was a way of distracting
+  the people from President Hudson’s failures. Th..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +38,7 @@ related_uuids:
 - 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 ---
+
 
 Newsfeeds across the core systems have reflected the increasing public demand for full-scale military cooperation against the Thargoids.
 Federal Free Press: “Removing the Far God cult from Federal space was a way of distracting the people from President Hudson’s failures. The real threat remains the Thargoids themselves, and there is little chance of withstanding them without Allied and Imperial aid.”

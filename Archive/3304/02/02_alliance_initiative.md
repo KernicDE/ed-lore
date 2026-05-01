@@ -4,8 +4,12 @@ title: Alliance Initiative
 slug: alliance_initiative
 date: '3304-02-02'
 source: GitHub
-summary: The Alliance has announced plans to build an Orbis starport in the Synuefai EB-R c7-5 system, between the core systems and the Alliance's California Nebula outposts. Alliance official Torvan Dast stated the new starport will bridge the gap and lessen the risk to ships traveling to and from the California Nebula.
-player_impact: Pilots can deliver raw materials to Bulychev Hub in the LP 128-32 system. A kill order is active on wanted ships to protect traders.
+summary: The Alliance has announced plans to build an Orbis starport in the Synuefai
+  EB-R c7-5 system, between the core systems and the Alliance's California Nebula
+  outposts. Alliance official Torvan Dast stated the new starport will bridge the
+  gap and lessen the risk to ships traveling to and from the California Nebula.
+player_impact: Pilots can deliver raw materials to Bulychev Hub in the LP 128-32 system.
+  A kill order is active on wanted ships to protect traders.
 persons:
 - Torvan Dast
 groups:
@@ -20,10 +24,18 @@ topics:
 - construction
 - corporate expansion
 - ship
-modern_impact: Alliance investment in deep-space starport infrastructure strengthens connectivity to the California Nebula outposts.
+modern_impact: Alliance investment in deep-space starport infrastructure strengthens
+  connectivity to the California Nebula outposts.
 legacy_weight: 2
 significance: low
+related_uuids:
+- e17af96f-7350-5002-8ac0-49df1324863a
+- 7fce62c7-23a6-52b8-8478-ee0df6a43e71
+- e9f5831f-f04e-54c6-b5b1-e0ab2af352d4
+- 400a59da-3feb-50c0-95c2-68ea9c6f4ef2
+- e49426a3-760d-5f87-902f-2c2566578e16
 ---
+
 
 The Alliance has announced plans to build an Orbis starport in the Synuefai EB-R c7-5 system, between the core systems and the Alliance’s outposts in the California Nebula. 
 

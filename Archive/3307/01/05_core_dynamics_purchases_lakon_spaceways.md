@@ -37,6 +37,7 @@ related_uuids:
 
 
 
+
 The shipbuilding company Lakon Spaceways has officially accepted a bid for ownership from Federal corporation Core Dynamics.
 The proposal from Core Dynamics CEO Jupiter Rochester was ratified following a majority vote by Lakon’s board of directors, Many of whom were recently appointed following resignations demanded by shareholders.
 Trent Delaney, the new chairperson, confirmed the merger In a public statement:

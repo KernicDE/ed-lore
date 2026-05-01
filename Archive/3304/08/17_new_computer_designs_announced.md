@@ -4,7 +4,12 @@ title: New Computer Designs Announced
 slug: new_computer_designs_announced
 date: '3304-08-17'
 source: GitHub
-summary: Federal Times journalist Harlow Nassry highlights two new personal computer designs challenging the Sirius and Achilles Corporation monopoly. Supratech's Torc is a flexible wrist or neck ring using holographic projectors and motion-sensitive interfaces. Herculean Machines' Duradrive is a durable, customisable tablet designed for rough handling. Both companies plan to reveal prototypes at a technology expo in October.
+summary: Federal Times journalist Harlow Nassry highlights two new personal computer
+  designs challenging the Sirius and Achilles Corporation monopoly. Supratech's Torc
+  is a flexible wrist or neck ring using holographic projectors and motion-sensitive
+  interfaces. Herculean Machines' Duradrive is a durable, customisable tablet designed
+  for rough handling. Both companies plan to reveal prototypes at a technology expo
+  in October.
 player_impact: None
 persons:
 - Harlow Nassry
@@ -20,13 +25,17 @@ locations: []
 topics:
 - corporate expansion
 - technology
-modern_impact: The emergence of Supratech and Herculean Machines challenges the established personal computing duopoly, promising innovation in both wearable holographics and rugged customisable devices.
+modern_impact: The emergence of Supratech and Herculean Machines challenges the established
+  personal computing duopoly, promising innovation in both wearable holographics and
+  rugged customisable devices.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 493f0e6e-d257-5536-bc17-df5c97d32d7c
 - 9b7efc43-c412-55ad-a2b0-3c04798a14bc
+- de81bfff-314f-5151-9b9c-a1bba2360a85
 ---
+
 
 Federal Times journalist Harlow Nassry has highlighted two new personal computer designs currently in development: 
 

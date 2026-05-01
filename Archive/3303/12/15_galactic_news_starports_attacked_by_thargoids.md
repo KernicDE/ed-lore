@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 Recent reports indicate that Several starports in The Pleiades have been attacked by Thargoids. The attacks have resulted in significant damage and hundreds – possibly thousands – of deaths. 
 
 Galactic authorities have confirmed that the affected starports are Titan's Daughter in the Taygeta system, Liman Legacy in HIP 16753, and the Oracle in the Pleiades Sector IR-W d1-55. 

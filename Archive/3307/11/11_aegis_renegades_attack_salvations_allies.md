@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 A rogue Aegis Defense force has initiated conflict With Taurus Mining Ventures in The T Tauri system.
 The megaship Musashi is commanded by Aegis’s chief military liaison Admiral Aden Tanner, who made This announcement:

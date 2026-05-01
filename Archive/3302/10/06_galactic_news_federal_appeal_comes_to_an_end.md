@@ -29,7 +29,9 @@ significance: high
 related_uuids:
 - 5d03d467-ee45-5527-9bce-0f7208fb19fe
 - b043d343-7151-5325-81dd-d1a9dc244f64
+- d3424148-f4c6-5a28-8527-92aae8d706ad
 ---
+
 
 
 The Federation has announced that Its campaign to construct a new outpost in the Maia system has received the enthusiastic support of the galactic community. Hundreds of pilots responded to the appeal for construction materials by delivering auto fabricators, titanium, and power generators to Obsidian Orbital in Maia. 

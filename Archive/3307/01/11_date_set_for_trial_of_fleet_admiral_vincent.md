@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 Fleet Admiral Lucas Vincent of The Federal Navy will stand trial on the 25th of January, charged With conspiracy to commit murder and treason.
 The Federal Attorney’s Office has successfully obtained a grand jury indictment against Fleet Admiral Vincent. He is accused of arranging the sabotage of presidential Vessel Starship One in 3301, to assassinate then-President Jasmina Halsey. Although she was later recovered alive, hundreds died when the ship was destroyed in flight.
 These charges were brought following the trial of Rory Webster, a naval technician who was implicated in the failure of Starship One’s hyperdrive system. Mr Webster confessed his involvement, but offered a plea bargain by providing evidence that he was following clandestine orders from Vincent.

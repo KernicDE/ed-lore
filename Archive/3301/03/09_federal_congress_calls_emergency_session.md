@@ -4,8 +4,14 @@ title: Federal Congress Calls Emergency Session
 slug: federal_congress_calls_emergency_session
 date: '3301-03-09'
 source: GitHub
-summary: The Federal Congress held an emergency session to address the Crimson State Group's attempt to force Lugh to secede. Lugh is home to 15.3 billion residents supported by vast natural resources. President Halsey condemned the Crimson State Group as religious fanatics and terrorists petitioning a foreign power to overthrow a democratically elected government, warning the Federation would respond with necessary force if the secession attempt continued.
-player_impact: None directly; heightened Federal military readiness in Lugh as the Federation prepares to counter the Crimson State Group's independence push.
+summary: The Federal Congress held an emergency session to address the Crimson State
+  Group's attempt to force Lugh to secede. Lugh is home to 15.3 billion residents
+  supported by vast natural resources. President Halsey condemned the Crimson State
+  Group as religious fanatics and terrorists petitioning a foreign power to overthrow
+  a democratically elected government, warning the Federation would respond with necessary
+  force if the secession attempt continued.
+player_impact: None directly; heightened Federal military readiness in Lugh as the
+  Federation prepares to counter the Crimson State Group's independence push.
 persons:
 - Jasmina Halsey
 groups:
@@ -16,10 +22,18 @@ locations:
 topics:
 - terrorism
 - diplomacy
-modern_impact: Halsey's hardline stance against Lugh's independence movement set the stage for the brutal Federal military response that would follow.
+modern_impact: Halsey's hardline stance against Lugh's independence movement set the
+  stage for the brutal Federal military response that would follow.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- d97415fc-1060-58ea-b5f1-6691bce40028
+- a94d2082-9eb4-5195-b274-d1f3a0195304
+- 15273afe-bfae-58ed-9f3b-306cf7fdddd7
+- df6229b9-1152-50a4-aacc-cea4be6f9bae
+- 0991dc0b-24c4-5798-809c-e8f236e034b3
 ---
+
 
 An emergency special session of The Federal Congress was held today to discuss how best to deal With the Crimson State Group’s attempt to force Lugh to secede from The Federation. 
 

@@ -4,7 +4,12 @@ title: Florence Lavigny Calls for Calm
 slug: florence_lavigny_calls_for_calm
 date: '3301-08-18'
 source: GitHub
-summary: In her first public appearance since Emperor Hengist Duval’s death on their wedding day, Florence Lavigny called for proper decorum and quiet reflection instead of the unpleasantness seen on Capitol. She maintained regal dignity despite her devastation, offering a glimpse of what she might have been as Empress Regent. She recalled anecdotes from the Emperor’s youth and her life with her first husband Prince Aristide Lavigny, bringing smiles to sombre reporters.
+summary: In her first public appearance since Emperor Hengist Duval’s death on their
+  wedding day, Florence Lavigny called for proper decorum and quiet reflection instead
+  of the unpleasantness seen on Capitol. She maintained regal dignity despite her
+  devastation, offering a glimpse of what she might have been as Empress Regent. She
+  recalled anecdotes from the Emperor’s youth and her life with her first husband
+  Prince Aristide Lavigny, bringing smiles to sombre reporters.
 player_impact: None
 persons:
 - Florence Lavigny
@@ -17,10 +22,18 @@ locations:
 - Imperial Palace
 topics:
 - succession
-modern_impact: Florence Lavigny’s public appeal for calm during rising tensions on Capitol following the Emperor’s assassination.
+modern_impact: Florence Lavigny’s public appeal for calm during rising tensions on
+  Capitol following the Emperor’s assassination.
 legacy_weight: 2
 significance: low
+related_uuids:
+- d420f921-77e2-5630-9691-b07373f527f1
+- db53c226-90a8-53f7-bc58-d008935f347b
+- a11f8077-fb84-5738-8f48-7987cb4b0500
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- d3e7ed94-d19b-534e-833a-986f901972c9
 ---
+
 
 In her first public appearance since The death of her fiancé Emperor Hengist Duval on their wedding day, Florence Lavigny made a short statement in The Imperial Palace press hall and answered a few questions. Her comments come amongst rising tensions on Capitol. 
 

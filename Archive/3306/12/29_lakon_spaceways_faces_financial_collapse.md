@@ -4,7 +4,9 @@ title: Lakon Spaceways Faces Financial Collapse
 slug: lakon_spaceways_faces_financial_collapse
 date: '3306-12-29'
 source: API
-summary: Lakon Spaceways share prices drop to unprecedented lows amid a hostile takeover by Core Dynamics, with the Independent Commission for Market Equality reporting irregularities in share ownership transfers.
+summary: Lakon Spaceways share prices drop to unprecedented lows amid a hostile takeover
+  by Core Dynamics, with the Independent Commission for Market Equality reporting
+  irregularities in share ownership transfers.
 player_impact: None
 persons:
 - Trent Delaney
@@ -17,10 +19,18 @@ topics:
 - corporate expansion
 - crime
 - investigation
-modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape the galactic aerospace market.
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers
+  shape the galactic aerospace market.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 8d7be9df-71af-5fef-a0df-fd7728c0586d
+- 0783ed86-d9f7-5f48-aa13-7002f7654030
+- 43d42a62-1967-5dd8-92f0-cf6f23af8ff4
+- 7a574f7a-247d-5799-b921-e1521916118d
+- 4e9f076a-e7b5-524e-9d9a-00be35f2c679
 ---
+
 
 Economic instability has caused The value of shares in Lakon Spaceways to drop to unprecedented lows, placing the company’s future in doubt.
 A hostile takeover bid by Federal corporation Core Dynamics has raised concerns in the Alliance over the loss of a major defence contractor. The Independent Commission for Market Equality has also reported irregularities in the recent transfer of share ownership, Which may lead to criminal investigations.

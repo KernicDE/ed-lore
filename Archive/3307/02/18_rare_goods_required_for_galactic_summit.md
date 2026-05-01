@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Sirius Corporation has requested deliveries of consumables to Luyten’s Star for The forthcoming diplomatic conference.
 The Galactic Summit will take place in The Sirius system and last for three weeks, beginning on Thursday the 25th of February. It will be attended by leaders from the Alliance, Empire and Federation, plus representatives from Independent systems.

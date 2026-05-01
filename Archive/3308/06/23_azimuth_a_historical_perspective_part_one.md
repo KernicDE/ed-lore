@@ -46,6 +46,7 @@ related_uuids:
 ---
 
 
+
 Beginning a multi-part overview of historical events surrounding Azimuth Biochemicals and its connection to the mysterious Salvation.
 On the 29th of October 3306, an abandoned megaship named the Adamastor arrived in the Chukchan system, after travelling at sublight speeds for nearly 200 years. At the time, no one could have foreseen the wide-ranging consequences that would arise from unlocking the secrets of this ghost ship.
 Investigations revealed that it had been owned by a little-known and long-defunct corporation called Azimuth Biochemicals. The derelict’s journey was traced to the previously unexplored Coalsack Nebula, where the Adamastor had collected the survivors of a planetary survey team from the Musca Dark Region PJ-P b6-1 system.

@@ -4,8 +4,14 @@ title: Elegance in Simplicity
 slug: elegance_in_simplicity
 date: '3301-10-13'
 source: GitHub
-summary: Gutamaya Shipyards released the Imperial Eagle, available to pilots with appropriate Imperial Navy rank. Early reviews from Commanders Corrigendum and Stateira 'Starcloak' Eleshenar praised its handling and combat performance. Lead engineer Ines Allende attributed the success to maintaining the Eagle Mk II's core design while improving key elements.
-player_impact: Pilots with Imperial Navy rank can purchase the Imperial Eagle, a more combat-capable variant of the classic Eagle Mk II with improved firepower and responsive handling.
+summary: Gutamaya Shipyards released the Imperial Eagle, available to pilots with
+  appropriate Imperial Navy rank. Early reviews from Commanders Corrigendum and Stateira
+  'Starcloak' Eleshenar praised its handling and combat performance. Lead engineer
+  Ines Allende attributed the success to maintaining the Eagle Mk II's core design
+  while improving key elements.
+player_impact: Pilots with Imperial Navy rank can purchase the Imperial Eagle, a more
+  combat-capable variant of the classic Eagle Mk II with improved firepower and responsive
+  handling.
 persons:
 - Corrigendum
 - Stateira "Starcloak" Eleshenar
@@ -27,7 +33,18 @@ technologies:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- cb60156f-f6ad-543b-b549-c1f23472cfba
+- 2ef47a0a-7b3e-5b95-ad44-740dd29c6b60
+- e9eb0977-26e1-5a3d-9b2c-55d6d8b4d846
+- f9b8633d-abeb-5cfd-8079-b668b89d759b
+- 14ba5e9a-bb38-565e-bbd0-768f8f401fd4
+- 96c8fc0c-2010-5641-919f-040d3d009e5a
+- 2e393213-981e-5305-bc3b-8a07fa380559
+- 1f702ab6-006b-5a8f-932a-c5c7e98527a3
+- bf999950-89b6-5977-b23d-5a510676cd4f
 ---
+
 
 Gutamaya Shipyards' latest Vessel, The Imperial Eagle, is now available for purchase for any pilot holding the appropriate rank in the Imperial Navy, and positive consumer feedback is already flooding in. 
 

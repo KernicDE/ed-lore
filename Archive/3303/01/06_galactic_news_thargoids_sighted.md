@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 Media outlets throughout The galaxy are abuzz With news of an event that Many are interpreting as an encounter with non-human life. 
 
 According to reports, an Independent pilot by the name of Commander DP Sayre was interdicted en route to the Aries Dark Region XU-O b6-3 by a highly unusual ship bearing no resemblance to any known human craft. 

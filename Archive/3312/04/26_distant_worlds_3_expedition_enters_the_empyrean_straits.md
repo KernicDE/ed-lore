@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 After having spent a month in the Trojan Belt and Arcadian Stream, the Distant Worlds Expedition has again entered regions with higher stellar density.
 The flotilla is now bound for Waypoint 13 in its epic jaunt. Expedition Command confirmed their scientific projects around stellar density and properties surveys were still ongoing.
 “Ever since we left Rainbow’s End, we have conducted dozens of sector sweeps,” DSS Operations Executive Hermine Delarue confirmed. “The data models we could prepare at Rainbow’s End with so many Commanders’ exploration data really paid off and now facilitate many of our daily scans.”

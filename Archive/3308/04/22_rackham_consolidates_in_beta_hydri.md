@@ -4,7 +4,8 @@ title: Rackham Consolidates in Beta Hydri
 slug: rackham_consolidates_in_beta_hydri
 date: '3308-04-22'
 source: API
-summary: Zachary Rackham consolidates his commercial and political control over the Beta Hydri system.
+summary: Zachary Rackham consolidates his commercial and political control over the
+  Beta Hydri system.
 player_impact: Not specifically mentioned — this is a corporate report.
 persons:
 - Zachary Rackham
@@ -20,13 +21,19 @@ topics:
 - piracy
 - research
 arc_id: null
-modern_impact: '"As far as my research can tell, Zachary Rackham''s citizenship documents have never been made public or independently verified." Rackham''s deepening entrenchment in Beta Hydri''s governance structure blurred the lines between corporate ownership and political power, raising prescient questions about his constitutional eligibility for Federal office.'
+modern_impact: '"As far as my research can tell, Zachary Rackham''s citizenship documents
+  have never been made public or independently verified." Rackham''s deepening entrenchment
+  in Beta Hydri''s governance structure blurred the lines between corporate ownership
+  and political power, raising prescient questions about his constitutional eligibility
+  for Federal office.'
 legacy_weight: 2
 significance: low
 related_uuids:
 - 7751461f-fff8-5e46-b710-f494c50ab069
 - d48a2172-4d32-5501-b760-eb75a11fb324
+- 9d58d00e-a467-59fb-8f99-cb8afa9fd72f
 ---
+
 
 The Beta Hydri system has become The commercial and political headquarters of wealthy entrepreneur Zachary Rackham.
 The Tau Ceti Journal reported that Rackham Capital Investments owns a majority of shares in the Beta Hydri Corporation, the system’s controlling faction. As a member of Its board of directors, Rackham has had a role in governing the system for Many months.

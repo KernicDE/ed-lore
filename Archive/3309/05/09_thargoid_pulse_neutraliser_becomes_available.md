@@ -4,8 +4,10 @@ title: Thargoid Pulse Neutraliser Becomes Available
 slug: thargoid_pulse_neutraliser_becomes_available
 date: '3309-05-09'
 source: API
-summary: The Thargoid pulse neutraliser is now commercially available, enabling ships to penetrate Maelstrom energy waves and explore their cores.
-player_impact: Pilots who delivered materials can collect rewards. First 50 pilots who contributed unclassified relics receive a free neutraliser.
+summary: The Thargoid pulse neutraliser is now commercially available, enabling ships
+  to penetrate Maelstrom energy waves and explore their cores.
+player_impact: Pilots who delivered materials can collect rewards. First 50 pilots
+  who contributed unclassified relics receive a free neutraliser.
 persons:
 - Alba Tesreau
 - Aden Tanner
@@ -26,7 +28,11 @@ topics:
 - war
 entities: []
 arc_id: thargoid-titan-war
-modern_impact: Tesreau's framing — 'A small number of Aegis researchers will be among the first wave of pioneers' — shows scientific leadership. Tanner's warning — 'Whatever lies within the Maelstroms is almost certainly protected by further dangers' — is appropriately cautious. The reward for early contributors of unclassified relics acknowledges player history.
+modern_impact: Tesreau's framing — 'A small number of Aegis researchers will be among
+  the first wave of pioneers' — shows scientific leadership. Tanner's warning — 'Whatever
+  lies within the Maelstroms is almost certainly protected by further dangers' — is
+  appropriately cautious. The reward for early contributors of unclassified relics
+  acknowledges player history.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -35,6 +41,7 @@ related_uuids:
 - 0e564062-8f87-5a40-bc09-eb4c1990a495
 - 75959975-677e-5ef0-a638-99ecddb6c873
 ---
+
 
 **Pilots’ Federation ALERT**
 Aegis’s new module will allow ships to penetrate the energy wave protecting the central regions of the Maelstroms.

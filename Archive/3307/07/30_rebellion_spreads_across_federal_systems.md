@@ -47,6 +47,7 @@ related_uuids:
 ---
 
 
+
 New Kuwembaa Labour, Which controls Five systems, has triggered a second wave of secession by severing ties With the Federation.
 Following The victory of the Azaladshu Free, a minority of Federal factions are breaking away from the superpower in protest against Its civil surveillance laws.
 Governor Sonal Mishra of New Kuwembaa Labour made This statement:

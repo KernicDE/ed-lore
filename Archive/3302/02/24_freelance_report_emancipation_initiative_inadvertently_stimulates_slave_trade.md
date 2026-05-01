@@ -4,7 +4,10 @@ title: Freelance Report  Emancipation Initiative Inadvertently Stimulates Slave 
 slug: freelance_report_emancipation_initiative_inadvertently_stimulates_slave_trade
 date: '3302-02-24'
 source: GitHub
-summary: Princess Aisling Duval's emancipation effort faces criticism after revelations that over seven million slaves were purchased directly from slavers by independent traders supporting the programme. Critics argue that funding slavers does not stop the slave trade.
+summary: Princess Aisling Duval's emancipation effort faces criticism after revelations
+  that over seven million slaves were purchased directly from slavers by independent
+  traders supporting the programme. Critics argue that funding slavers does not stop
+  the slave trade.
 player_impact: None
 persons:
 - Princess Aisling Duval
@@ -19,7 +22,14 @@ topics:
 modern_impact: Trade initiative affecting commodity markets.
 legacy_weight: 2
 significance: low
+related_uuids:
+- f1eec212-43b2-5e3e-b2b2-c44e42af613a
+- b8671162-b34d-58fd-8bd5-230949120c23
+- fc88a585-1994-5ec1-af2f-d1911dadb133
+- efba1015-6ea0-5845-8243-79542721d229
+- 15d39a40-5122-58f0-b7a5-ee7f0b5cf13a
 ---
+
 
 Princess Aisling Duval's recent emancipation effort has been criticised following revelations that over seven million slaves were purchased directly from slavers in The systems surrounding Uibuth. These purchases were made by Independent traders supporting the princess's liberation programme. 
 

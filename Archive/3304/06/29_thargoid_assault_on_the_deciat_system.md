@@ -4,8 +4,14 @@ title: Thargoid Assault on the Deciat System
 slug: thargoid_assault_on_the_deciat_system
 date: '3304-06-29'
 source: GitHub
-summary: Aegis confirms Thargoids have returned to the core systems with an incursion into Deciat. Admiral Aden Tanner reports Eagle Eye data shows Thargoid surface sites have reactivated, pinpointing Deciat. Thargoid vessels are congregating in large numbers, threatening Garay Terminal starport and several megaships. An unnamed Commander reports being attacked by an unidentified Thargoid vessel, possibly a new scout type.
-player_impact: Aegis calls on all pilots to defend Deciat and its assets from Thargoid attack.
+summary: Aegis confirms Thargoids have returned to the core systems with an incursion
+  into Deciat. Admiral Aden Tanner reports Eagle Eye data shows Thargoid surface sites
+  have reactivated, pinpointing Deciat. Thargoid vessels are congregating in large
+  numbers, threatening Garay Terminal starport and several megaships. An unnamed Commander
+  reports being attacked by an unidentified Thargoid vessel, possibly a new scout
+  type.
+player_impact: Aegis calls on all pilots to defend Deciat and its assets from Thargoid
+  attack.
 persons:
 - Aden Tanner
 groups:
@@ -16,13 +22,16 @@ locations:
 topics:
 - alien contact
 - war
-modern_impact: The Deciat incursion reveals Thargoid surface sites were merely dormant, not defeated, and introduces the possibility of new Thargoid scout vessels, escalating the conflict.
+modern_impact: The Deciat incursion reveals Thargoid surface sites were merely dormant,
+  not defeated, and introduces the possibility of new Thargoid scout vessels, escalating
+  the conflict.
 legacy_weight: 5
 significance: high
 related_uuids:
 - db044a6e-332e-5023-8f20-a1c27974d897
 - 22b7257a-3510-5e0b-ac8c-3623884764d0
 ---
+
 
 An emergency report from Aegis confirms that the Thargoids have returned to the core systems With an incursion into the Deciat system. 
 

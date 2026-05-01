@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-10-20'
 source: GitHub
-summary: Weekly summary covering Gibson Kincaid's re-election as Alliance President, the foiled raid on Ram Tah's Phoenix Base, the FSS targeting The Mars Tribune in the spy robot investigation, Zachary Rackham's billion-credit hack by The Collective, the Palin Institute's Thargoid research programme, and the Close Encounters Corps' successful megaship construction appeal.
+summary: Weekly summary covering Gibson Kincaid's re-election as Alliance President,
+  the foiled raid on Ram Tah's Phoenix Base, the FSS targeting The Mars Tribune in
+  the spy robot investigation, Zachary Rackham's billion-credit hack by The Collective,
+  the Palin Institute's Thargoid research programme, and the Close Encounters Corps'
+  successful megaship construction appeal.
 player_impact: None
 persons:
 - Edmund Mahon
@@ -39,7 +43,9 @@ topics:
 - research
 - trade
 - xenoarchaeology
-modern_impact: This week spans electoral politics, corporate espionage, cybercrime, and scientific research, illustrating the complex interplay of power, technology, and independent action across the galaxy.
+modern_impact: This week spans electoral politics, corporate espionage, cybercrime,
+  and scientific research, illustrating the complex interplay of power, technology,
+  and independent action across the galaxy.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -49,7 +55,9 @@ related_uuids:
 - 9a686bf9-c1b6-5de4-891b-31a3d4733fca
 - fb63c2c1-0ae1-571e-b259-64552a8d4ba3
 - 90bdaf38-9c1c-58e0-a371-0f222a188649
+- 480289fe-b6bf-5762-b6a9-7772ef25226b
 ---
+
 
 Here are This week’s major stories. 
 

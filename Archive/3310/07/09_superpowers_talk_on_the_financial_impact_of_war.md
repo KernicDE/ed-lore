@@ -4,7 +4,9 @@ title: Superpowers Talk on the Financial Impact of War
 slug: superpowers_talk_on_the_financial_impact_of_war
 date: '3310-07-09'
 source: API
-summary: Vox Galactica publishes an in-depth report on the economic impact of the Thargoid war, featuring contrasting perspectives from Jerome Archer, Zemina Torval, and Edmund Mahon.
+summary: Vox Galactica publishes an in-depth report on the economic impact of the
+  Thargoid war, featuring contrasting perspectives from Jerome Archer, Zemina Torval,
+  and Edmund Mahon.
 player_impact: Not specifically mentioned.
 persons:
 - Jerome Archer
@@ -22,10 +24,21 @@ topics:
 - economics
 entities: []
 arc_id: null
-modern_impact: 'The three superpower responses reveal their governing philosophies: Archer''s law-and-order focus, Torval''s brutal biological metaphor (''If the extremities feel cold, it is the small and temporary price to pay''), and Mahon''s democratic solidarity (''Humanity is stronger together''). These quotes encapsulate the ideological divide that persists even amid existential threat.'
+modern_impact: 'The three superpower responses reveal their governing philosophies:
+  Archer''s law-and-order focus, Torval''s brutal biological metaphor (''If the extremities
+  feel cold, it is the small and temporary price to pay''), and Mahon''s democratic
+  solidarity (''Humanity is stronger together''). These quotes encapsulate the ideological
+  divide that persists even amid existential threat.'
 legacy_weight: 5
 significance: high
+related_uuids:
+- 3dabc3ec-5fc0-5b40-91a9-5028ddd79163
+- adcab895-4c2f-5ad3-928d-1de0bafc6f61
+- cfa10717-dba3-54f8-aaff-4b19fc4778d0
+- 8649e08e-90b0-5fc5-b810-a2b3cdf7b7fc
+- 3bb67076-8b96-50e9-8b63-a7f0e82a437e
 ---
+
 
 Vox Galactica has released an in-depth piece about the economic impact of the Thargoid war on the galaxy’s superpowers.
 Senior Political Journalist Vanya Driscoll compiled the piece over several months after witnessing the increasing strain and instability in systems galaxy-wide. The report boasts interviews with high-ranking individuals across the galaxy, talking candidly about the impact of the war.

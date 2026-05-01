@@ -37,7 +37,15 @@ significance: high
 related_uuids:
 - 69b8ea0c-5e6f-5d31-8a63-0a98141b33ee
 - ebe5ac2b-54e3-5d3b-a7d3-91ccae332ab6
+- e8386b9b-6418-583a-ac32-ea816fd08e8a
+- db3aa18a-17b5-5c0d-89d9-a455f88300f0
+- 9d0148b2-d0ec-597d-a16f-c88c72bf49ff
+- e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
+- d1003dbd-1405-582f-be67-0195758e8558
+- 3bcb8d26-f1ac-506a-a763-402ca7cdf880
+- 7ecb6124-2a72-5b9e-afd1-13728200e0b9
 ---
+
 
 
 Standing on The steps of the Senate building, Chancellor Anders Blaine announced the Senate's decision on the succession. In a historic selection, and as a result of a clear majority vote, Arissa Lavigny-Duval will be the next ruler of the Empire. She will be the first female leader of the Empire since Marlin Duval founded the original colony on Achenar in the 23rd Century, although she will carry the title 'Emperor' rather than 'Empress'. Such an appointment would have been impossible prior to the reign of Hengist Duval due to an ancient decree that all Imperial rulers be male, but a ruling passed by the late Emperor early in his reign did away With This generations-old tradition. 

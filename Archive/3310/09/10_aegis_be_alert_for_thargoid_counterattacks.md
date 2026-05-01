@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation Alert**
 Aden Tanner, special military advisor to the Aegis project, has warned of the potential for targeted Thargoid assaults on key military locations.
 Speaking during a recent graduation ceremony for the latest batch of Federal AX recruits, Tanner warned against complacency following the destruction of Titan Thor last month.

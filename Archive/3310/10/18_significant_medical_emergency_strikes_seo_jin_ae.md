@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Seo Jin-ae, special advisor to the Aegis initiative, has suffered a ‘significant medical emergency’ according to reports from the Duamta system.
 A leak from within the Aegis medical facility reached media outlets early yesterday evening, claiming that Seo had suddenly fallen ill. The source also claimed that Seo was registering incredibly high brain activity while unconscious.
 The intense speculation resulted in a surprise response from Head of Aegis, Alba Tesreau, only hours later.

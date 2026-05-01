@@ -4,7 +4,8 @@ title: Marlinist Refugees Migrate from Alliance
 slug: marlinist_refugees_migrate_from_alliance
 date: '3308-04-27'
 source: API
-summary: Over two million Marlinist refugees in Alliance space are repatriated to the Marlinist Colonies.
+summary: Over two million Marlinist refugees in Alliance space are repatriated to
+  the Marlinist Colonies.
 player_impact: Not specifically mentioned — this is a diplomatic report.
 persons:
 - Elijah Beck
@@ -17,13 +18,18 @@ topics:
 - diplomacy
 - humanitarian
 arc_id: null
-modern_impact: '"Thanks to the Alliance''s generosity, any Marlinists currently within their territory can now take advantage of free transportation to a colony system of their choice." The refugee repatriation agreement resolved a lingering humanitarian legacy of the NMLA crisis while strengthening the Marlinist Colonies'' demographic and political foundation.'
+modern_impact: '"Thanks to the Alliance''s generosity, any Marlinists currently within
+  their territory can now take advantage of free transportation to a colony system
+  of their choice." The refugee repatriation agreement resolved a lingering humanitarian
+  legacy of the NMLA crisis while strengthening the Marlinist Colonies'' demographic
+  and political foundation.'
 legacy_weight: 4
 significance: high
 related_uuids:
 - 591b8cea-0c09-5ade-925e-ef43b8011c1e
 - 7757e707-c843-5bb4-badf-0130b626ceb1
 ---
+
 
 Over two million ex-Imperial citizens who sought sanctuary With the Alliance are now being repatriated to The Marlinist Colonies.
 Ambassador Elijah Beck, head of the Alliance Office of Diplomatic Relations, announced:

@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Admiral Aden Tanner has confirmed that Operation Andronicus has reached a successful conclusion. Hundreds of pilots supported The initiative by taking to their ships to deliver a strategic blow to the Thargoids in the Pleiades Sector IR-W d1-55. 
 
 As the campaign drew to a close, Admiral Aden Tanner released a statement: 

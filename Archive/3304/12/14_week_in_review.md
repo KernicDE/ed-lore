@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-12-14'
 source: GitHub
-summary: Weekly summary covering the release of the Codex by the Pilots Federation and Universal Cartographics, the launch of the Mamba and Krait Phantom ships, Hadrian Duval's broadcast message to the Empire, the IHO's positive preliminary report on Vitadyne nanomedicines, the outbreak of conflict in the Wally Bei system, and the conclusion of the Children of Tothos rare commodity initiative.
+summary: Weekly summary covering the release of the Codex by the Pilots Federation
+  and Universal Cartographics, the launch of the Mamba and Krait Phantom ships, Hadrian
+  Duval's broadcast message to the Empire, the IHO's positive preliminary report on
+  Vitadyne nanomedicines, the outbreak of conflict in the Wally Bei system, and the
+  conclusion of the Children of Tothos rare commodity initiative.
 player_impact: None
 persons:
 - Hadrian Augustus Duval
@@ -29,7 +33,9 @@ topics:
 - trade
 - war
 - religion
-modern_impact: Multiple significant releases this week reshape pilot capabilities and healthcare prospects, while the Imperial succession crisis deepens with Hadrian Duval's direct appeal to the citizenry.
+modern_impact: Multiple significant releases this week reshape pilot capabilities
+  and healthcare prospects, while the Imperial succession crisis deepens with Hadrian
+  Duval's direct appeal to the citizenry.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -39,7 +45,9 @@ related_uuids:
 - 4b15fc47-eddd-5453-9b80-2b16b962ac23
 - 06d11692-9a08-5fe2-919f-fe95fd287157
 - e276e873-4472-55b5-a28a-df08a91ee40a
+- 17db014d-0a81-5ef4-bf2b-ddc70738c828
 ---
+
 
 Here are This week’s major stories. 
 

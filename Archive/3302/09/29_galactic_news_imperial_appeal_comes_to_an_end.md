@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 A spokesperson for The Merope Expeditionary Fleet has announced that Its appeal for construction materials was enthusiastically received by the galactic community. Scores of Independent pilots responded to the organisation's request, resulting In a massive influx of deliveries to Obsidian Orbital, the organisation's base of operations. The materials will be used to construct a new Imperial operating base in the Pleiades Sector AB-W B2-4 system. 
 
 The spokesperson released a statement. 

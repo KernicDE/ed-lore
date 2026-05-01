@@ -4,7 +4,8 @@ title: Archer Outlines Shadow Presidency Future
 slug: archer_outlines_shadow_presidency_future
 date: '3309-12-04'
 source: API
-summary: Vice President Jerome Archer discusses the election, his security-first policies, relationship with Hudson, and plans to rebuild the Republican Party as shadow president.
+summary: Vice President Jerome Archer discusses the election, his security-first policies,
+  relationship with Hudson, and plans to rebuild the Republican Party as shadow president.
 player_impact: Not specifically mentioned — this is a political interview.
 persons:
 - Jerome Archer
@@ -17,10 +18,22 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Archer's framing — 'the harsh realities of governance will quickly overwhelm her liberal idealism' — previews his opposition strategy. His defence of the PDB as essential and dismissal of Winters's plan to dismantle it establishes a key policy battleground. The Federal Free Press editorial — 'talking about all subjects except his own lack of responsibility for the election loss' — provides media critique.
+modern_impact: Archer's framing — 'the harsh realities of governance will quickly
+  overwhelm her liberal idealism' — previews his opposition strategy. His defence
+  of the PDB as essential and dismissal of Winters's plan to dismantle it establishes
+  a key policy battleground. The Federal Free Press editorial — 'talking about all
+  subjects except his own lack of responsibility for the election loss' — provides
+  media critique.
 legacy_weight: 5
 significance: high
+related_uuids:
+- afd314d2-447b-56f8-9a7f-809b8027d52c
+- 8727788d-05be-5b7c-b1a5-0a876fe6c062
+- 33c6b56e-6efe-5c2a-9a4c-350a17b673bf
+- ba96abf1-456d-5b32-aa72-2a4b52ee1484
+- 9de434cf-a33f-52bd-ac07-84c6aa5ef7ad
 ---
+
 
 Vice President Jerome Archer has discussed the recent Federal presidential election and other topics during an interview with The Federal Times.
 On the victory of President-elect Felicia Winters:

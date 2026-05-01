@@ -4,7 +4,9 @@ title: Cultist Occupation of Starport Continues
 slug: cultist_occupation_of_starport_continues
 date: '3305-03-22'
 source: GitHub
-summary: The Children of Tothos maintain their occupation of Archambault Terminal, with FIA negotiators failing to make progress and civilian ships arriving in Chun Tstar to join the cult following Barnabas Cole's sermons.
+summary: The Children of Tothos maintain their occupation of Archambault Terminal,
+  with FIA negotiators failing to make progress and civilian ships arriving in Chun
+  Tstar to join the cult following Barnabas Cole's sermons.
 player_impact: None — background crime report.
 persons:
 - Rochelle Karim
@@ -18,7 +20,9 @@ locations:
 topics:
 - crime
 - terrorism
-modern_impact: The ongoing occupation revealed the cult's ability to attract new followers even while threatening mass destruction, demonstrating the powerful appeal of apocalyptic ideology in uncertain times.
+modern_impact: The ongoing occupation revealed the cult's ability to attract new followers
+  even while threatening mass destruction, demonstrating the powerful appeal of apocalyptic
+  ideology in uncertain times.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -27,6 +31,7 @@ related_uuids:
 - 841b5187-7bdb-5eff-80ca-681b968265c7
 - 9297eeb4-a7b3-5846-b24a-0baf631e6c8e
 ---
+
 
 Archambault terminal in The Chun Tstar system remains under threat of nuclear destruction by the Children of Tothos. 
 

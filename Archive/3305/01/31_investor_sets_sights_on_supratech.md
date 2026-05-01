@@ -4,8 +4,11 @@ title: Investor Sets Sights on Supratech
 slug: investor_sets_sights_on_supratech
 date: '3305-01-31'
 source: GitHub
-summary: Billionaire investor Lexi October announces a commodity drive to save Supratech from bankruptcy after its impractical Torc design failed, organising shipments of computer components and hardware sensors.
-player_impact: Pilots could deliver commodities to Stone Enterprise in the Rakapila system for rewards.
+summary: Billionaire investor Lexi October announces a commodity drive to save Supratech
+  from bankruptcy after its impractical Torc design failed, organising shipments of
+  computer components and hardware sensors.
+player_impact: Pilots could deliver commodities to Stone Enterprise in the Rakapila
+  system for rewards.
 persons:
 - Lexi October
 groups:
@@ -16,12 +19,17 @@ locations:
 topics:
 - corporate expansion
 - trade
-modern_impact: October's intervention rescued Supratech from collapse, demonstrating how wealthy investors could use community commodity drives to acquire distressed technology companies and repurpose their engineering talent.
+modern_impact: October's intervention rescued Supratech from collapse, demonstrating
+  how wealthy investors could use community commodity drives to acquire distressed
+  technology companies and repurpose their engineering talent.
 legacy_weight: 2
 significance: low
 related_uuids:
 - de81bfff-314f-5151-9b9c-a1bba2360a85
+- 97f66644-7bed-5d73-9bf7-ffb68ff98637
+- 47b5765e-3dbd-5369-a0dd-837a902d4e48
 ---
+
 
 Billionaire investor Lexi October has announced plans to save technology company Supratech from bankruptcy: 
 

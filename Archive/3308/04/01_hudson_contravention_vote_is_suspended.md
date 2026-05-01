@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 Federal Congress has temporarily postponed making a decision on whether to extend presidential term limits.
 President Zachary Hudson had proposed to repeal The 77th amendment of the Federal Accord, Which specifies that a president can serve for a maximum of eight years. If approved, Hudson would become eligible for re-election in June 3309.
 A statement was delivered by President Hudson:

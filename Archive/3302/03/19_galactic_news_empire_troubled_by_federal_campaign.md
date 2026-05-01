@@ -4,7 +4,10 @@ title: Galactic News  Empire Troubled by Federal Campaign
 slug: galactic_news_empire_troubled_by_federal_campaign
 date: '3302-03-19'
 source: GitHub
-summary: Admiral Denton Patreus expresses concern over the Federation's plan to expand its Navy with a new Farragut Battle Cruiser. An anonymous Imperial source reveals that if the Federation embarks on military fortification, the Empire would likely respond in kind, escalating tensions between the superpowers.
+summary: Admiral Denton Patreus expresses concern over the Federation's plan to expand
+  its Navy with a new Farragut Battle Cruiser. An anonymous Imperial source reveals
+  that if the Federation embarks on military fortification, the Empire would likely
+  respond in kind, escalating tensions between the superpowers.
 player_impact: None
 persons:
 - Zachary Hudson
@@ -23,7 +26,16 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
+related_uuids:
+- bb92f6c0-0def-564c-9b52-f2f1c75fc853
+- 7fc202ae-1595-550a-a5bb-a00ccb711675
+- 42c5df88-8373-5fc5-8246-f37df3368e6e
+- fde8e3a1-96f1-57f5-bdaa-3834f8c8ee62
+- 8bfdda30-eb6e-5e5a-88b1-b2ae7afd7a95
+- 5eae6c0f-363b-556f-9f8b-ddcc68e2bc70
+- 279ed579-0309-50e4-909c-c1cc6e928a3a
 ---
+
 
 Last week, Federal President Zachary Hudson announced plans to construct a new Farragut Battle Cruiser in The Federal system of Beta Hydri. The production of the ship was designed to mark the inauguration of a new arm of the Federal Navy known As the People's Navy. One Federal source said the ship would "occupy a significant role in the Federal Navy, strengthening Our borders and enhancing the profile of our armed forces". 
 

@@ -4,8 +4,11 @@ title: Alliance Launches Coalsack Nebula Campaign
 slug: alliance_launches_coalsack_nebula_campaign
 date: '3306-11-12'
 source: GitHub
-summary: The Alliance launches a campaign to construct outposts in the Coalsack Nebula to exploit meta-alloy sources discovered by the abandoned megaship Adamastor.
-player_impact: Pilots delivered power generators, robotics, structural regulators, and building fabricators to the Spirit of Nysa megaship, and fought Thargoids in designated systems.
+summary: The Alliance launches a campaign to construct outposts in the Coalsack Nebula
+  to exploit meta-alloy sources discovered by the abandoned megaship Adamastor.
+player_impact: Pilots delivered power generators, robotics, structural regulators,
+  and building fabricators to the Spirit of Nysa megaship, and fought Thargoids in
+  designated systems.
 persons:
 - Morag Halloran
 groups:
@@ -14,12 +17,17 @@ topics:
 - exploration
 - research
 - war
-modern_impact: The Coalsack Nebula remains a key region for meta-alloy extraction and Alliance expansion.
+modern_impact: The Coalsack Nebula remains a key region for meta-alloy extraction
+  and Alliance expansion.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 1d006eb4-9159-5609-8a8f-bffcce9793b8
+- c3a9a7ce-4bc3-5a04-a202-0a4e7cd821a8
+- c11bff6a-4225-59ac-9550-d41d831246a8
+- 6d2d8b89-5a9d-58e5-bff5-229cab72d624
 ---
+
 
 **Pilots Federation ALERT** 
 

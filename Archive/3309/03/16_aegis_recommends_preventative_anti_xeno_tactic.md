@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation Alert**
 An analysis of the ongoing Thargoid war has been released by Aegis and made available to all superpower and independent navies.
 The focus of the report centres on protecting systems at threat of Thargoid invasion. It suggests that anti-xeno forces are primarily fighting Thargoid invasion fleets which have already arrived, understandable due to the immediate risk to civilian life. However, Aegis proposes that increasing defensive efforts for systems at threat of invasion would be a more efficient way of slowing the spread of Thargoid-controlled territory.

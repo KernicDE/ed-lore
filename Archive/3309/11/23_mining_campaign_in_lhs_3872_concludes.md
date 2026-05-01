@@ -4,8 +4,10 @@ title: Mining Campaign in LHS 3872 Concludes
 slug: mining_campaign_in_lhs_3872_concludes
 date: '3309-11-23'
 source: API
-summary: Torval Mining Ltd's mining campaign concludes successfully, with Nash analysing the Torval family dynamics and Zemina's potential retirement.
-player_impact: Pilots who delivered mined resources can collect rewards at Curbeam Hub in LHS 3872.
+summary: Torval Mining Ltd's mining campaign concludes successfully, with Nash analysing
+  the Torval family dynamics and Zemina's potential retirement.
+player_impact: Pilots who delivered mined resources can collect rewards at Curbeam
+  Hub in LHS 3872.
 persons:
 - Constantia Torval
 - Gwendolyn Nash
@@ -15,12 +17,17 @@ locations:
 - LHS 3872
 topics:
 - corporate expansion
-modern_impact: Nash's family analysis — 'She established the company by branching out from Mastopolos Mining, severing connections with more distant family members' — reveals the complex Torval family tree. The mention of Petra Torval and Titus Torval expands the dynastic picture. The speculation about Zemina's 'twilight' is repeated, but with the same caveat about her willpower.
+modern_impact: Nash's family analysis — 'She established the company by branching
+  out from Mastopolos Mining, severing connections with more distant family members'
+  — reveals the complex Torval family tree. The mention of Petra Torval and Titus
+  Torval expands the dynastic picture. The speculation about Zemina's 'twilight' is
+  repeated, but with the same caveat about her willpower.
 legacy_weight: 2
 significance: low
 related_uuids:
 - f7cb0936-6685-5049-b2a6-628e2f3239ec
 ---
+
 
 **Pilots’ Federation ALERT**
 Torval Mining Ltd has announced that sufficient quantities of mined resources were delivered to its subsidiary faction.

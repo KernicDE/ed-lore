@@ -4,7 +4,14 @@ title: The Birth of an Empire
 slug: the_birth_of_an_empire
 date: '3301-07-12'
 source: GitHub
-summary: Historian Sima Kalhana covers the Empire's founding. Marlin Duval led an expedition from Earth to Achenar in the mid-23rd century, seeking escape from rigid governments. The habitable world Capitol was already home to one of the few known sentient species, which settlers inadvertently made extinct through imported bacteria. Under Marlin, Achenar had democratic rule with elected Senators. After her death in a speeder crash, brother Henson Duval seized power and established imperial succession. In 2324, Federal forces invaded citing the alien extinction, but Achenar resisted, resulting in the birth of the Empire as humanity's second great power.
+summary: Historian Sima Kalhana covers the Empire's founding. Marlin Duval led an
+  expedition from Earth to Achenar in the mid-23rd century, seeking escape from rigid
+  governments. The habitable world Capitol was already home to one of the few known
+  sentient species, which settlers inadvertently made extinct through imported bacteria.
+  Under Marlin, Achenar had democratic rule with elected Senators. After her death
+  in a speeder crash, brother Henson Duval seized power and established imperial succession.
+  In 2324, Federal forces invaded citing the alien extinction, but Achenar resisted,
+  resulting in the birth of the Empire as humanity's second great power.
 player_impact: None
 persons:
 - Sima Kalhana
@@ -20,10 +27,21 @@ topics:
 - history
 - succession
 - war
-modern_impact: Foundational history of the Empire explaining its origins in flight from Earth, the controversial extinction of Capitol's native species, and the Duval dynastic succession.
+modern_impact: Foundational history of the Empire explaining its origins in flight
+  from Earth, the controversial extinction of Capitol's native species, and the Duval
+  dynastic succession.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 527cd62c-c144-5f7a-a149-a233d9aa7c78
+- 0044ac89-dd97-5198-9eeb-55ddd5202574
+- 4e62012c-875d-547f-a342-9e770cc04ce5
+- e8386b9b-6418-583a-ac32-ea816fd08e8a
+- ab2dbad2-8a8f-5e67-8f0e-58e4e1100a78
+- c9090a01-c935-51c2-80e1-8ee2060b7733
+- b1d1a750-565c-5b78-b645-eaa9906728f6
 ---
+
 
 Continuing GalNet’s series about the defining moments in human history, famed historian Sima Kalhana talks about how the Empire came to be. 
 

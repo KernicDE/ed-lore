@@ -4,7 +4,9 @@ title: Terrorism Respite as Marlinists Prepare for New Homes
 slug: terrorism_respite_as_marlinists_prepare_for_new_homes
 date: '3306-12-21'
 source: API
-summary: A lull in NMLA terrorist strikes follows successful operations by Imperial security services, while hundreds of thousands of Marlinist refugees prepare to occupy new colony systems established by Sirius Corporation.
+summary: A lull in NMLA terrorist strikes follows successful operations by Imperial
+  security services, while hundreds of thousands of Marlinist refugees prepare to
+  occupy new colony systems established by Sirius Corporation.
 player_impact: None
 persons:
 - Jenna Fairfax
@@ -19,10 +21,18 @@ topics:
 - corporate expansion
 - humanitarian
 - terrorism
-modern_impact: The Marlinist Colonies remain a significant political settlement between the Empire and Federation.
+modern_impact: The Marlinist Colonies remain a significant political settlement between
+  the Empire and Federation.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 32ae371b-e2e7-5253-931c-bc9683a45090
+- a0b5af8c-f073-5144-ba2c-8c304335713e
+- eec09e5e-cb5a-590e-b38c-88e65e11dd5b
+- 4e860725-eb68-5f84-82ea-7b7e629bd964
+- c3a9a7ce-4bc3-5a04-a202-0a4e7cd821a8
 ---
+
 
 As Independent colonies are set up for Marlinist refugees, there has been a lull in terrorist strikes from The Neo-Marlinist Liberation Army (NMLA).
 In recent months, the paramilitary group launched multiple attacks across the Empire. Starports and administrative buildings were bombed and Dozens of individuals Assassinated, including Prince Harold and more distant members of the Duval family.

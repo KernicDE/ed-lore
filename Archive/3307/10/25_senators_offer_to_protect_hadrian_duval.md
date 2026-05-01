@@ -27,7 +27,9 @@ significance: high
 related_uuids:
 - b911069f-fe18-55e3-9314-689662d52a3d
 - fd0f6a22-3b8f-597f-a9af-a92ce3517e51
+- d0f3baf5-e680-57cb-afbc-811b16f0d1f3
 ---
+
 
 
 The recent NMLA attack in The Paresa system has encouraged the Imperial Senate to reach out to Imperator Hadrian Duval.

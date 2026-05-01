@@ -4,8 +4,10 @@ title: Thargoids Repulsed by Operation Tyndareus
 slug: thargoids_repulsed_by_operation_tyndareus
 date: '3308-10-13'
 source: API
-summary: Allied forces have successfully defended the Andecavi system from Thargoid vessels.
-player_impact: Independent pilots were called upon to destroy Thargoid vessels and claim combat bonds.
+summary: Allied forces have successfully defended the Andecavi system from Thargoid
+  vessels.
+player_impact: Independent pilots were called upon to destroy Thargoid vessels and
+  claim combat bonds.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -21,7 +23,9 @@ topics:
 - engineering
 - war
 arc_id: thargoid-titan-war
-modern_impact: '"Operation Tyndareus is officially a triumph! Alliance Defence Force and Sirius Navy crews have fought side by side to..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"Operation Tyndareus is officially a triumph! Alliance Defence Force
+  and Sirius Navy crews have fought side by side to..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,7 +34,9 @@ related_uuids:
 - 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
+- d9d11a81-06c0-59f1-af71-a3c4c5194f5c
 ---
+
 
 **Pilots’ Federation ALERT**
 Allied forces have successfully defended the Andecavi system from Thargoid vessels.

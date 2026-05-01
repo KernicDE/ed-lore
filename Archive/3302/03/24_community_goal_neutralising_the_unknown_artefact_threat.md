@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Professor Ishmael Palin has shocked medical personnel at Wilkes Orbital by returning to work only hours after he received the antidote to the Cerberus Plague. According to Palin's doctor, the professor was eager to talk to Lea Tantaga, the molecular chemist who recently developed a material capable of countering the Unknown Artefacts' self-repair mechanism. The scientists' conversation resulted in The following statement from Professor Palin: 
 
 "The significance of Professor Tantaga's breakthrough is clear: the means to safely contain the Unknown Artefacts is now within Our grasp. What we need now are quantities of meta-alloys so we can produce more of the UA-resistant material." 

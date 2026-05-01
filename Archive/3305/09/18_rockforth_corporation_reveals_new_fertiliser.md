@@ -4,7 +4,9 @@ title: Rockforth Corporation Reveals New Fertiliser
 slug: rockforth_corporation_reveals_new_fertiliser
 date: '3305-09-18'
 source: GitHub
-summary: Rockforth Corporation releases its EX7 fertiliser to address low crop yields. Marketing director Rex Whitlock promotes its synthetic enhancement. The IAA expresses concerns about regulatory compliance and requests distribution restrictions.
+summary: Rockforth Corporation releases its EX7 fertiliser to address low crop yields.
+  Marketing director Rex Whitlock promotes its synthetic enhancement. The IAA expresses
+  concerns about regulatory compliance and requests distribution restrictions.
 player_impact: None
 persons:
 - Genevieve Kane
@@ -17,7 +19,8 @@ locations:
 topics:
 - corporate expansion
 - trade
-modern_impact: The rushed release of EX7 fertiliser, prioritising profit over safety checks, becomes the primary vector for the devastating blight pathogen.
+modern_impact: The rushed release of EX7 fertiliser, prioritising profit over safety
+  checks, becomes the primary vector for the devastating blight pathogen.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -25,6 +28,7 @@ related_uuids:
 - dc4fc106-846e-575a-b6f4-a6d08e353ec1
 - 52de8894-6950-5b13-aa2a-ec35620347ce
 ---
+
 
 A new agricultural fertiliser has been released by The Rockforth Corporation in response to growing concerns over low harvests in Several systems. 
 

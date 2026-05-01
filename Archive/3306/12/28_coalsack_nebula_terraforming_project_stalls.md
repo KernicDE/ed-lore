@@ -4,7 +4,9 @@ title: Coalsack Nebula Terraforming Project Stalls
 slug: coalsack_nebula_terraforming_project_stalls
 date: '3306-12-28'
 source: API
-summary: Sirius Atmospherics reports that preliminary terraforming efforts in the Coalsack Nebula are less effective than simulated, though the Alliance confirms increased personnel and equipment deployments to the region.
+summary: Sirius Atmospherics reports that preliminary terraforming efforts in the
+  Coalsack Nebula are less effective than simulated, though the Alliance confirms
+  increased personnel and equipment deployments to the region.
 player_impact: None
 persons:
 - Maximilian North
@@ -17,10 +19,18 @@ topics:
 - corporate expansion
 - exploration
 - research
-modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand human habitation into previously hostile environments.
+modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand
+  human habitation into previously hostile environments.
 legacy_weight: 2
 significance: low
+related_uuids:
+- c3a9a7ce-4bc3-5a04-a202-0a4e7cd821a8
+- 6d2d8b89-5a9d-58e5-bff5-229cab72d624
+- 3c4ff651-4153-5811-ba1a-9b2f43fac48a
+- 589b5e3b-4024-5845-bb2d-55becd1e562f
+- 5783e898-65a7-5db9-9681-366b1eb91056
 ---
+
 
 Sirius Atmospherics has delivered an update on Its experiments to terraform ammonia worlds in The Coalsack Nebula.
 The subsidiary of Sirius Corporation is working closely With the Alliance to exploit the nebula’s resources and pursue scientific investigation, including terraforming terrestrial planets With ammonia-based atmospheres.

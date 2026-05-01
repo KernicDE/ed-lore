@@ -4,7 +4,10 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-29'
 source: GitHub
-summary: Weekly summary covering the dismantling of the League of Reparation and Riri McAllister's arrest, the Church of Eternal Void being declared illegal, attacks on the Rochester family, the Andromedaries reboot, and the Alliance's new California Nebula starport initiative.
+summary: Weekly summary covering the dismantling of the League of Reparation and Riri
+  McAllister's arrest, the Church of Eternal Void being declared illegal, attacks
+  on the Rochester family, the Andromedaries reboot, and the Alliance's new California
+  Nebula starport initiative.
 player_impact: None
 persons:
 - Niamh Seutonia
@@ -46,7 +49,9 @@ topics:
 - terrorism
 - religion
 - culture
-modern_impact: This week marks the end of the League of Reparation terror campaign, escalating religious persecution, and the beginning of new Alliance expansion, reflecting the galaxy's constant cycle of conflict and growth.
+modern_impact: This week marks the end of the League of Reparation terror campaign,
+  escalating religious persecution, and the beginning of new Alliance expansion, reflecting
+  the galaxy's constant cycle of conflict and growth.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -55,7 +60,11 @@ related_uuids:
 - e66042d5-f19b-5b3d-8113-f2c32d2e4c51
 - 740fb3cb-eeb4-51e1-8c4c-42e96cc0261b
 - e9f5831f-f04e-54c6-b5b1-e0ab2af352d4
+- 400a59da-3feb-50c0-95c2-68ea9c6f4ef2
+- bf7e0803-3232-5106-beda-5e9cbfd0234e
+- 71380724-9d28-5323-b4f9-da0fd87a0f93
 ---
+
 
 Here are This week’s major stories. 
 

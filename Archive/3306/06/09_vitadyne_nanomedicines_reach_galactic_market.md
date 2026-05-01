@@ -4,7 +4,9 @@ title: Vitadyne Nanomedicines Reach Galactic Market
 slug: vitadyne_nanomedicines_reach_galactic_market
 date: '3306-06-09'
 source: GitHub
-summary: Vitadyne nanomedicines, derived from Utopian pharmaceuticals, are approved for galactic distribution after a year-long legal battle. The IHO ruled in favour of Vitadyne Labs with distribution handled by the Vandermeer Corporation.
+summary: Vitadyne nanomedicines, derived from Utopian pharmaceuticals, are approved
+  for galactic distribution after a year-long legal battle. The IHO ruled in favour
+  of Vitadyne Labs with distribution handled by the Vandermeer Corporation.
 player_impact: None
 persons:
 - Katrien Rook
@@ -20,10 +22,18 @@ topics:
 - medicine
 - corporate expansion
 - research
-modern_impact: Vitadyne nanomedicines become available across the galaxy, representing a significant advancement in medical technology despite their controversial origins.
+modern_impact: Vitadyne nanomedicines become available across the galaxy, representing
+  a significant advancement in medical technology despite their controversial origins.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 35fa328d-8c20-51c9-804f-2563d86c1853
+- 79d31e82-72c0-55c6-a4aa-acb8830314f8
+- caceea7a-de65-5bf6-9d01-15ae06646314
+- cc9f5996-403c-521a-8242-2a58b13075be
+- 0a245776-7f87-5585-9289-94a24fd31183
 ---
+
 
 The nanomedicines developed in December 3304 by Vitadyne Labs have been approved for distribution to medical facilities across the galaxy. 
 

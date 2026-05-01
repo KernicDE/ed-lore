@@ -4,7 +4,10 @@ title: Conditional Amnesty Agreed for Neo-Marlinists
 slug: conditional_amnesty_agreed_for_neo_marlinists
 date: '3307-04-20'
 source: API
-summary: Senator Lorcan Scordato negotiates a conditional amnesty for the Neo-Marlinist Order of Mudhrid. In exchange for revealing NMLA leadership identities, Landgrave Delacroix and his inner circle receive life imprisonment while the Steel Majesty's population undergoes security vetting. Chancellor Blaine approves the creative solution.
+summary: Senator Lorcan Scordato negotiates a conditional amnesty for the Neo-Marlinist
+  Order of Mudhrid. In exchange for revealing NMLA leadership identities, Landgrave
+  Delacroix and his inner circle receive life imprisonment while the Steel Majesty's
+  population undergoes security vetting. Chancellor Blaine approves the creative solution.
 player_impact: None directly; this is a diplomatic resolution.
 persons:
 - Lorcan Scordato
@@ -27,7 +30,9 @@ topics:
 technologies:
 - Steel Majesty megaship
 arc_id: nmla-terrorism
-modern_impact: The amnesty deal provides ACT with crucial intelligence on NMLA leadership, but the information also leads to the shocking — and ultimately false — allegation that Hadrian Duval is the NMLA mastermind.
+modern_impact: The amnesty deal provides ACT with crucial intelligence on NMLA leadership,
+  but the information also leads to the shocking — and ultimately false — allegation
+  that Hadrian Duval is the NMLA mastermind.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +41,7 @@ related_uuids:
 - 10f8cc7f-6af8-5ae4-b744-d3e73a0b8835
 - 0fd60cb8-7807-5ad7-bb0b-23b66aeb6ab2
 ---
+
 
 The Neo-Marlinist Order of Mudhrid has been granted sanctuary in the Marlinist Colonies in return for revealing the identities of the NMLA’s leaders.
 The faction’s survivors arrived in the Hyades Sector RO-P b6-2 system after being defeated by Imperial forces. The Marlinism Reformation Party agreed to offer political asylum, despite All three superpowers demanding the refugees’ arrest.

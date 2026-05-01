@@ -4,8 +4,12 @@ title: Thargoids Return to Witch Head Nebula
 slug: thargoids_return_to_witch_head_nebula
 date: '3306-10-15'
 source: GitHub
-summary: Thargoids reappear in the Witch Head Nebula, swarming through Onoros, Lembass, Haki, Wellington and Shenve. Captain Warren Lamar calls for independent pilots to help defend the Witch Head Enclave.
-player_impact: Pilots are asked to destroy Thargoid vessels in the Witch Head Enclave. The technology broker at Bray Landing in Yuanjia reduces Guardian weapon resource requirements.
+summary: Thargoids reappear in the Witch Head Nebula, swarming through Onoros, Lembass,
+  Haki, Wellington and Shenve. Captain Warren Lamar calls for independent pilots to
+  help defend the Witch Head Enclave.
+player_impact: Pilots are asked to destroy Thargoid vessels in the Witch Head Enclave.
+  The technology broker at Bray Landing in Yuanjia reduces Guardian weapon resource
+  requirements.
 persons:
 - Warren Lamar
 groups:
@@ -24,12 +28,15 @@ locations:
 topics:
 - alien contact
 - war
-modern_impact: The Thargoid resurgence in Witch Head threatens the sixteen-system enclave established the previous year.
+modern_impact: The Thargoid resurgence in Witch Head threatens the sixteen-system
+  enclave established the previous year.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 17851927-145b-5611-9940-c735d299e940
+- 1d006eb4-9159-5609-8a8f-bffcce9793b8
 ---
+
 
 **Pilots Federation ALERT** 
 

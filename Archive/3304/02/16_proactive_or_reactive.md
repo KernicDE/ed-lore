@@ -31,7 +31,9 @@ significance: high
 related_uuids:
 - 3869717c-a41a-5b80-8e0c-79f67812e0bf
 - ed37b5f4-ec8a-5429-81aa-bd4fef709010
+- 5ed57cf0-8965-579c-9d6c-4a90cbf23630
 ---
+
 
 
 As the Thargoids continue to wreak havoc in The Pleiades, questions are being Asked about the lack of an effective military response. 

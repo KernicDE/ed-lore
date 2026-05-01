@@ -4,8 +4,12 @@ title: Oktoberfest Supply Campaign Successful
 slug: oktoberfest_supply_campaign_successful
 date: '3304-10-04'
 source: GitHub
-summary: Mould Federal Mining Incorporated confirms its commodity appeal for a Bhagui Oktoberfest celebration has been enthusiastically received. Hundreds of pilots delivered commodities to Leavitt Port and protected traders in the Bhagui system, allowing the festival to proceed.
-player_impact: Contributing pilots can collect rewards from Leavitt Port in the Bhagui system.
+summary: Mould Federal Mining Incorporated confirms its commodity appeal for a Bhagui
+  Oktoberfest celebration has been enthusiastically received. Hundreds of pilots delivered
+  commodities to Leavitt Port and protected traders in the Bhagui system, allowing
+  the festival to proceed.
+player_impact: Contributing pilots can collect rewards from Leavitt Port in the Bhagui
+  system.
 persons: []
 groups:
 - Mould Federal Mining Incorporated
@@ -15,10 +19,17 @@ locations:
 topics:
 - festival
 - trade
-modern_impact: The Oktoberfest campaign demonstrates how local factions leverage community celebrations to build goodwill and stimulate economic activity through independent pilot participation.
+modern_impact: The Oktoberfest campaign demonstrates how local factions leverage community
+  celebrations to build goodwill and stimulate economic activity through independent
+  pilot participation.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 3e7477a2-0742-5daf-8a43-968f0b38fd6e
+- 04a5fba0-8d5e-5ae3-9aa5-fb2d7767e7a5
+- 518cde3a-afce-5dcf-932c-9ecd3a3c91af
 ---
+
 
 Mould Federal Mining Incorporated has confirmed that Its appeal for commodities to supply an Oktoberfest celebration in The Bhagui system has been enthusiastically received by the galactic community.  
 

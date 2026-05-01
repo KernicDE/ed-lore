@@ -47,6 +47,7 @@ related_uuids:
 ---
 
 
+
 Pirate warlord Archon Delaine has unexpectedly appeared at The diplomatic conference and demanded to participate as a political delegate.
 Delaine is the leader of the Kumo Crew, a notorious crime syndicate that controls Dozens of systems. Their arrival at Patterson Enterprise station initially caused Many delegations’ security teams to begin evacuations.
 However, representatives of the Sirius Corporation called for calm and delivered This message:

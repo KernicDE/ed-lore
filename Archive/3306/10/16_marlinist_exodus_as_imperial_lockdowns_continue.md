@@ -4,7 +4,9 @@ title: Marlinist Exodus as Imperial Lockdowns Continue
 slug: marlinist_exodus_as_imperial_lockdowns_continue
 date: '3306-10-16'
 source: GitHub
-summary: The Empire locks down more systems with prevalent Marlinist beliefs, causing millions to flee. Dr. Jenna Fairfax condemns the persecution. Senator Patreus vows to cleanse the "Neo-Marlinist poison."
+summary: The Empire locks down more systems with prevalent Marlinist beliefs, causing
+  millions to flee. Dr. Jenna Fairfax condemns the persecution. Senator Patreus vows
+  to cleanse the "Neo-Marlinist poison."
 player_impact: None
 persons:
 - Jenna Fairfax
@@ -23,7 +25,8 @@ locations:
 topics:
 - humanitarian
 - terrorism
-modern_impact: The mass exodus of Marlinists becomes a major humanitarian crisis as the Empire expands anti-terrorist lockdowns.
+modern_impact: The mass exodus of Marlinists becomes a major humanitarian crisis as
+  the Empire expands anti-terrorist lockdowns.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -31,6 +34,7 @@ related_uuids:
 - 65171baf-8d7e-55c3-9b89-58d71be9ae4f
 - 20fdf55d-94b0-55c6-9c70-4c26b0dbc494
 ---
+
 
 The Empire has locked down more systems as part of an anti-terrorism operation, causing millions of Marlinists to flee from their homes. 
 

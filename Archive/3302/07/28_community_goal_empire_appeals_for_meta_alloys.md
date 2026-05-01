@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 As the galaxy becomes increasingly focused on The meta-alloys, the Empire has issued a galaxy-wide request for the controversial material. A spokesperson for the Zagoro Imperial Society, Which is coordinating the appeal, released The following statement: 
 
 "We don't yet know all the applications of the meta-alloys, but their ability to counter the harmful effects of the Unknown Artefacts indicates a potentially significant relationship between them, the Artefacts and, presumably, the unknown probes. It would therefore be unwise to let anyone to establish a monopoly on This material." 

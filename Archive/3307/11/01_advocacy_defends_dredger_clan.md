@@ -4,7 +4,9 @@ title: Advocacy Defends Dredger Clan
 slug: advocacy_defends_dredger_clan
 date: '3307-11-01'
 source: API
-summary: The civil rights organisation Advocacy defends the Scriveners Clan's legal ownership of their dredger, arguing that remote-community protection laws prevent forced displacement.
+summary: The civil rights organisation Advocacy defends the Scriveners Clan's legal
+  ownership of their dredger, arguing that remote-community protection laws prevent
+  forced displacement.
 player_impact: None
 persons:
 - Rhiannon Grady
@@ -16,10 +18,19 @@ groups:
 topics:
 - diplomacy
 - humanitarian
-modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic institutions and the nomadic society that inhabits it.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
+related_uuids:
+- c088b0b5-f567-5c36-a53f-bfe840245090
+- 874dce92-6aa5-5398-9666-601f0f3192b5
+- c8933782-6917-568d-8b1c-f9e89c7c9c7c
+- 8d11dddf-b087-5b68-9945-af45e8953120
+- 909c6b12-f181-52cc-840a-6173b3164226
+- 7312e2dd-8f0e-5a8a-a65d-94eac2a92285
 ---
+
 
 The Scriveners Clan’s legal ownership of their Dredger has been supported by the civil rights organisation Advocacy.
 The ancient Dredger-class bulk cruiser, currently Located In the Oochost PC-C c29-0 system, is inhabited by a nomadic tribe descended from the Vessel’s original crew. Orion University claims that the cruiser is Its commercial property, but has failed to make contact With its occupants.

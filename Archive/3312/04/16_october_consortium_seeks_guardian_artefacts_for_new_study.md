@@ -32,7 +32,9 @@ related_uuids:
 - 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
 - b8f58ea5-67eb-5bfe-8477-8f3218c4afdf
 - d77a9c79-d55f-5714-97bc-549423966fe1
+- 8258f5f1-635f-50d8-8a8d-5856072f5386
 ---
+
 
 
 October Consortium has issued a call for help to recover Guardian artefacts from across the galaxy.

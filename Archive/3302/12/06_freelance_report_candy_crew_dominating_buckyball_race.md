@@ -28,7 +28,12 @@ significance: high
 related_uuids:
 - 3133f90c-752e-57a3-8867-34e370a2cc57
 - b51fe639-2e23-559a-9233-69f8a51976eb
+- 8bd51884-c9c0-5820-8fc2-ea6566d12687
+- 042f3cd8-4931-53e8-b0dd-ffddd5d3ae4d
+- 341201c3-8615-56ca-8f14-8701e0e08de3
+- ca62a7f0-8f15-5adc-af97-5589e2f09c09
 ---
+
 
 
 As the Kick The Alien (and Run like Hell) race reaches Its midpoint, the top of the leaderboard is dominated by members of the Candy Crew Guild. Commander Nookie Mr.Smith took the number One spot on Thursday With a truly incredible 6 minute 43 second run, while Commanders Raijiin and Rewision are sitting comfortably in second and third place respectively. 

@@ -39,7 +39,10 @@ related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - eb62c669-b525-5753-b3cb-faf6452a8088
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
+- ac92b027-9c2d-582d-af18-eac48e474be8
+- ebaed307-7279-5789-9569-01d10e7832b9
 ---
+
 
 
 Ambassadors of all three superpowers have held emergency talks following the California nebula attacks, with a united military fleet the primary topic.

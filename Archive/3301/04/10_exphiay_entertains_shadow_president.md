@@ -4,8 +4,14 @@ title: Exphiay Entertains Shadow President
 slug: exphiay_entertains_shadow_president
 date: '3301-04-10'
 source: GitHub
-summary: Shadow President Hudson attended the 153rd annual Exphiay Bankers' Ball alongside Frank Hall of Gallant Investment, Paul Wiggins of Wiggins Development Trust, and Patricia Spellman of Sirius Finance. The exclusive event discussed fiscal responsibility amid failing Federal leadership. President Halsey and Vice President Naylor were reportedly not invited, and several liberal-leaning corporations were deliberately blocked from attending.
-player_impact: None directly; the event highlights Hudson's alliance with corporate power brokers and his exclusion of Halsey-aligned interests.
+summary: Shadow President Hudson attended the 153rd annual Exphiay Bankers' Ball alongside
+  Frank Hall of Gallant Investment, Paul Wiggins of Wiggins Development Trust, and
+  Patricia Spellman of Sirius Finance. The exclusive event discussed fiscal responsibility
+  amid failing Federal leadership. President Halsey and Vice President Naylor were
+  reportedly not invited, and several liberal-leaning corporations were deliberately
+  blocked from attending.
+player_impact: None directly; the event highlights Hudson's alliance with corporate
+  power brokers and his exclusion of Halsey-aligned interests.
 persons:
 - Zachary Hudson
 - Frank Hall
@@ -28,10 +34,20 @@ locations:
 topics:
 - corporate expansion
 - politics
-modern_impact: Hudson's courtship of corporate elites at exclusive events foreshadowed his business-friendly presidency and marginalisation of liberal interests.
+modern_impact: Hudson's courtship of corporate elites at exclusive events foreshadowed
+  his business-friendly presidency and marginalisation of liberal interests.
 legacy_weight: 2
 significance: low
+related_uuids:
+- f6c12601-b292-5356-9311-0ee90c473048
+- d97415fc-1060-58ea-b5f1-6691bce40028
+- 0991dc0b-24c4-5798-809c-e8f236e034b3
+- 2d11a9fd-f113-5a87-8c08-c03b302f8076
+- 228a3835-beab-5f06-a49f-9e2d1588b1d7
+- a09d1f61-d891-5333-a708-6ec2b6a7ba34
+- d5cadffe-10a6-5731-a2f9-b6e28daf4b86
 ---
+
 
 This evening marks The 153rd annual Exphiay Bankers’ Ball. Shadow President Hudson will be in attendance, as will Frank Hall – CEO of Gallant Investment, Paul Wiggins – CEO of Wiggins Development Trust, and Patricia Spellman – Vice President of Sirius Finance.  
 

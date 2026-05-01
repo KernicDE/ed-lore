@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 The Alliance has entered a period of political campaigning prior to the election of a new prime minister.
 The appointment of a head of government takes place Every six years, With the forthcoming vote scheduled for the 25th of February 3307.
 Unlike the Federation, there are no political parties in the Alliance. The Assembly is comprised of councillors who Each represent the ruling faction of a member system. Electoral votes will be cast by these individuals rather than the public, but councillors tend to abide by the majority views of their constituencies.

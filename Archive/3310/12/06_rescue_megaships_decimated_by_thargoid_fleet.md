@@ -48,7 +48,10 @@ related_uuids:
 - 5245e25e-8ce0-5df7-b232-de05945dbcd2
 - a66c3fce-c78d-5a54-a796-7fb6954d55f1
 - bff0e4eb-7d2c-56aa-a3ea-7d523a3b5820
+- 32e6c5c9-876f-5c1e-b85f-ec6693b37d33
+- bcb562fa-eb2b-5f2c-b686-b882a405b132
 ---
+
 
 
 Almost all rescue megaships deployed to systems near Sol have been destroyed shortly after arrival, Aegis has confirmed.

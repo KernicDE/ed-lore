@@ -4,7 +4,9 @@ title: Galactic News  Winged Hussars Appeal Comes to an End
 slug: galactic_news_winged_hussars_appeal_comes_to_an_end
 date: '3303-10-06'
 source: GitHub
-summary: The Winged Hussars' appeal for rare liquors concluded successfully, resulting in a massive influx of deliveries to Zander Dock. The organisation thanked pilots for bringing new business opportunities to the border colonies.
+summary: The Winged Hussars' appeal for rare liquors concluded successfully, resulting
+  in a massive influx of deliveries to Zander Dock. The organisation thanked pilots
+  for bringing new business opportunities to the border colonies.
 player_impact: Deliver rare liquors to Zander Dock in the HIP 110028 system.
 persons: []
 groups:
@@ -15,10 +17,14 @@ locations:
 topics:
 - trade
 technologies: []
-modern_impact: A regional trade initiative that brought economic activity to a remote border colony.
+modern_impact: A regional trade initiative that brought economic activity to a remote
+  border colony.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 15c9da1a-b473-55fc-b977-fe84ae43c4e7
 ---
+
 
 A spokesperson for The Winged Hussars has announced that Its appeal for rare liquors was enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Zander Dock, the organisation’s base of operations. 
 

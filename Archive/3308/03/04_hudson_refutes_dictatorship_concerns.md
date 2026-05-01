@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 President Zachary Hudson has made a public broadcast regarding his proposal to remove The single-term limit of the Federal presidency.
 Speaking from the White House on Mars, he directly addressed the anxiety that citizens have expressed about the Hudson Contravention:
 “If Congress agrees to temporarily suspend the 77th amendment of the Federal Accord, it will mean that I become eligible to stand for election again in 3309. It does not guarantee that I – or any future president – can remain in office indefinitely.”

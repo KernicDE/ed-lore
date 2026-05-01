@@ -4,7 +4,9 @@ title: Technical Issues spread to Harma and Wolf 1301
 slug: technical_issues_spread_to_harma_and_wolf_1301
 date: '3301-12-14'
 source: GitHub
-summary: Gabriel Enterprise in Harma and Saunders's Dive in Wolf 1301 report extensive technical failures including system malfunctions and blackouts, part of a spreading wave of station problems.
+summary: Gabriel Enterprise in Harma and Saunders's Dive in Wolf 1301 report extensive
+  technical failures including system malfunctions and blackouts, part of a spreading
+  wave of station problems.
 player_impact: None
 persons: []
 groups: []
@@ -16,10 +18,22 @@ locations:
 topics:
 - construction
 technologies: []
-modern_impact: Further evidence linking Unknown Artefacts to station malfunctions, deepening the mystery of their destructive effects.
+modern_impact: Further evidence linking Unknown Artefacts to station malfunctions,
+  deepening the mystery of their destructive effects.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 7eaaa54a-2715-5e47-8a73-ec469ab90965
+- 9c14fb9b-691f-5a44-88cb-dcb9d651b1ac
+- eb123ec1-f206-55d3-9064-7aa1643f3934
+- a3fcedac-1055-504c-a8e0-9bd9e5de1fff
+- 31e075c4-bef3-526b-ab00-c7c737361799
+- 89f1acb6-8f01-58fb-8ee6-59becc40b603
+- 211e113b-2d49-544c-a46f-b5375d0ba99b
+- 52444e59-f624-5f76-8190-b9e4b1bacbbf
+- e0e036bb-ed6c-57b0-8632-2b1d2ca524fc
 ---
+
 
 Authorities at Gabriel Enterprise in The Harma system have reported that the station is the latest to be affected by mystifying technical problems, following a raft of malfunctions and breakdowns throughout the starport. Meanwhile, personnel at Saunders's Dive in Wolf 1301 have released a similar statement, reporting extensive technical problems over the past 24 hours. A member of the technical team at Saunders's Dive said: 
 

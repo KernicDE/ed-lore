@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 Last month, The Alliance launched an initiative to establish a new outpost on the fringes of inhabited space. The campaign received the support of Hundreds of Alliance-aligned pilots who, along With Other members of the galactic community, delivered essential materials and components to the Alliance base at Noti Dock. 
 
 Now, Alliance Prime Minister Edmund Mahon has announced that the new outpost is complete. In a statement, Mahon said: 

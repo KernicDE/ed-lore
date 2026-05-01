@@ -27,6 +27,7 @@ related_uuids:
 ---
 
 
+
 Admiral Aden Tanner and The crew of the Musashi megaship will be placed on trial for attacking Salvation’s allies.
 The admiral disobeyed orders by attempting to gain access to Hind Mine starport, the headquarters of Taurus Mining Ventures. After failing to achieve This, most of the Musashi’s crewmembers were detained and repatriated to their respective home systems to face civil or military charges.
 The Federal Navy has published this official notice:

@@ -4,7 +4,12 @@ title: Aisling Duval Hosts Federal Ambassador
 slug: aisling_duval_hosts_federal_ambassador
 date: '3304-06-07'
 source: GitHub
-summary: Princess Aisling Duval hosts a diplomatic function with Federal Ambassador Jordan Rochester as guest of honour. Entertainment journalist Solomon Helios reports that Aisling invited all of Rochester's staff including the captain and crew of his ship, the FNS Pioneer, commanded by Vice Admiral Juno Rochester (Jordan's sister). The following day, Senator Caspian Leopold arrives at Emerald on unofficial business, sparking speculation about his own romantic interest in the princess.
+summary: Princess Aisling Duval hosts a diplomatic function with Federal Ambassador
+  Jordan Rochester as guest of honour. Entertainment journalist Solomon Helios reports
+  that Aisling invited all of Rochester's staff including the captain and crew of
+  his ship, the FNS Pioneer, commanded by Vice Admiral Juno Rochester (Jordan's sister).
+  The following day, Senator Caspian Leopold arrives at Emerald on unofficial business,
+  sparking speculation about his own romantic interest in the princess.
 player_impact: None
 persons:
 - Aisling Duval
@@ -22,13 +27,17 @@ locations:
 topics:
 - diplomacy
 - politics
-modern_impact: The function marks a significant step in Aisling Duval and Jordan Rochester's relationship, while Leopold's arrival hints at ongoing romantic rivalry.
+modern_impact: The function marks a significant step in Aisling Duval and Jordan Rochester's
+  relationship, while Leopold's arrival hints at ongoing romantic rivalry.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 46407e8e-50ca-56ba-88b8-54b530cb06c5
 - d7ee12d3-53dc-5c8b-80f0-0309a7f56575
+- f976f3ec-0ec9-5ce1-bbc9-4c12579320d1
+- f15aa0ae-a808-58d8-9d63-369a333a5dd6
 ---
+
 
 Last weekend, Princess Aisling Duval hosted a diplomatic function at Which Federal Ambassador Jordan Rochester was The guest of honour. 
 

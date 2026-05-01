@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The NMLA’s attacks against the Marlinist Colonies have caused mass casualties, disruption and political chaos.
 More than 35,000 civilians were killed in the attacks, With twice as Many suffering injuries and caustic burns. Safeguard Interstellar is providing vital supplies to survivors, and evacuations of Stillman Hub and Tilman Point stations are ongoing.
 First Minister Jenna Fairfax has been confirmed dead. Minister Amrita Ross has temporarily assumed leadership, But the Marlinist Parliament has been destabilised by heated accusations between Its members.

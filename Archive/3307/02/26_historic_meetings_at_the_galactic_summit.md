@@ -56,6 +56,7 @@ related_uuids:
 
 
 
+
 Alliance, Empire and Federation leaders have held their first ever face-to-face discussions at The diplomatic conference in The Sirius system.
 Political correspondent Conrad Sterling published This report for Vox Galactica:
 “The Galactic Summit has already made history by bringing together Many political figureheads within One conference chamber. Optimistic opening statements from Chancellor Anders Blaine and Prime Minister Edmund Mahon gained applause. President Zachary Hudson was more curt, reminding everyone that billions of people would be affected by their efforts.”

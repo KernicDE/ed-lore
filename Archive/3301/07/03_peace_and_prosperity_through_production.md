@@ -31,7 +31,11 @@ significance: medium
 related_uuids:
 - 44d392dc-09e9-5ca5-887e-c1f5e88dae12
 - abe21c6e-54ed-5aed-a221-7efd675d35c
+- b67fe4ff-6cb3-53a3-ad95-f4d910fc1c6d
+- 42370e8a-3a35-5de0-bad0-d3716423bdc7
+- ed0bbf3a-fd65-502c-ba76-80d74fa2717e
 ---
+
 
 
 The Utopians unveiled their plans to fight back against The pirates of the Pegasi sector today, at a meeting held aboard Yolen Hub in HIP 116213. 

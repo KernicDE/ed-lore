@@ -4,8 +4,11 @@ title: The Hunt for the Dedicant
 slug: the_hunt_for_the_dedicant
 date: '3309-07-20'
 source: API
-summary: The Imperial Navy detects fragmentary distress signals from the missing Dedicant megaship and shares the information as a humanitarian gesture, while the FIA confirms over 8,000 cultists and 150 agents are aboard.
-player_impact: Pilots are asked to detect further messages from the Dedicant in the LP 714-58 system.
+summary: The Imperial Navy detects fragmentary distress signals from the missing Dedicant
+  megaship and shares the information as a humanitarian gesture, while the FIA confirms
+  over 8,000 cultists and 150 agents are aboard.
+player_impact: Pilots are asked to detect further messages from the Dedicant in the
+  LP 714-58 system.
 persons:
 - Jalen Locke
 - Amir Rafiq
@@ -15,13 +18,19 @@ topics:
 - humanitarian
 - investigation
 entities: []
-modern_impact: Rafiq's statement — 'Officially, the Imperial Navy no longer performs joint operations with our Federal counterparts... Nevertheless, we are sharing this information as a humanitarian gesture' — highlights unusual inter-superpower cooperation. Locke's confirmation of the scale — 'Three security teams, comprised of 50 agents each... over 8,000 cultists' — establishes the stakes. The request for pilot assistance shows the community's investigative role.
+modern_impact: Rafiq's statement — 'Officially, the Imperial Navy no longer performs
+  joint operations with our Federal counterparts... Nevertheless, we are sharing this
+  information as a humanitarian gesture' — highlights unusual inter-superpower cooperation.
+  Locke's confirmation of the scale — 'Three security teams, comprised of 50 agents
+  each... over 8,000 cultists' — establishes the stakes. The request for pilot assistance
+  shows the community's investigative role.
 legacy_weight: 1
 significance: low
 related_uuids:
 - 127507ab-e3c6-57fe-af0d-7e9a339a48e0
 - ba9e2357-84b5-5ac9-aaf3-d2fa18dc5171
 ---
+
 
 **Pilots’ Federation ALERT**
 Traces of a distress call from the Dedicant megaship have been detected in the LP 714-58 system.

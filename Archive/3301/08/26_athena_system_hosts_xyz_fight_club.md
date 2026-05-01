@@ -4,8 +4,16 @@ title: Athena System Hosts XYZ Fight Club
 slug: athena_system_hosts_xyz_fight_club
 date: '3301-08-26'
 source: GitHub
-summary: The XYZ Fight Club gladiatorial tournament took place in the Athena system. Despite a criminal attack on participant Commander Angel Rose forcing evacuation of Darboux Orbital, contingency arenas allowed the event to continue. Light-class rounds featured fast-paced jousting with Bodmans and Rainy Day advancing. Medium-class combat involved Couriers, Vipers, and Diamondback Scouts. Bodmans and Old Sauveur reached both finals, with Old Sauveur winning light-class in Eagles and Bodmans taking medium-class in Couriers after a protracted defensive battle.
-player_impact: Combat-oriented pilots can participate in or spectate player-organised fight club tournaments. Various ship classes from Eagles to Diamondback Scouts are used in competitive combat events.
+summary: The XYZ Fight Club gladiatorial tournament took place in the Athena system.
+  Despite a criminal attack on participant Commander Angel Rose forcing evacuation
+  of Darboux Orbital, contingency arenas allowed the event to continue. Light-class
+  rounds featured fast-paced jousting with Bodmans and Rainy Day advancing. Medium-class
+  combat involved Couriers, Vipers, and Diamondback Scouts. Bodmans and Old Sauveur
+  reached both finals, with Old Sauveur winning light-class in Eagles and Bodmans
+  taking medium-class in Couriers after a protracted defensive battle.
+player_impact: Combat-oriented pilots can participate in or spectate player-organised
+  fight club tournaments. Various ship classes from Eagles to Diamondback Scouts are
+  used in competitive combat events.
 persons:
 - Edgar Starwalker
 - Angel Rose
@@ -34,10 +42,20 @@ topics:
 - sport
 - combat
 - ship
-modern_impact: Player-organised combat tournament demonstrating the growing community events in the galaxy.
+modern_impact: Player-organised combat tournament demonstrating the growing community
+  events in the galaxy.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 7b1495a0-0413-5d22-af0c-bc7fcf8090d4
+- 14ba5e9a-bb38-565e-bbd0-768f8f401fd4
+- 250a8de2-2777-572d-b19a-b9f849cf2f06
+- a210772e-cf66-5986-b067-f5664fdac402
+- 41b3581b-5fc7-5b67-afe5-a6a50289096a
+- 3da9f8c7-ce65-57a5-ab1b-0c4fd1b78c4e
+- c2a73ebd-eb9e-5906-8c32-3685e7f8dc64
 ---
+
 
 The popular gladiatorial tournament known As the ‘XYZ Fight Club’ took place again This weekend. Our reporters were ringside for The spectacle. Pilots descended on Athena, pitting dog-fighting skills against One another in both light and medium ships. 
 

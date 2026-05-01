@@ -4,8 +4,14 @@ title: Gifts for the New Emperor
 slug: gifts_for_the_new_emperor
 date: '3301-10-15'
 source: GitHub
-summary: Emperor-elect Arissa Lavigny-Duval invited all galactic citizens to deliver coronation gifts in the form of slaves to Achenar. Non-Imperial slaves would be reclassified as Imperial slaves, potentially improving their conditions. Participants were offered discounts on Imperial ships and access to vessels normally requiring Navy rank. Achenar permit restrictions were temporarily lifted.
-player_impact: Pilots could deliver slaves to Dawes Hub in Achenar for rewards including Imperial ship discounts and access to rank-locked vessels. The temporary lifting of Achenar permits allowed non-Imperial pilots to participate.
+summary: Emperor-elect Arissa Lavigny-Duval invited all galactic citizens to deliver
+  coronation gifts in the form of slaves to Achenar. Non-Imperial slaves would be
+  reclassified as Imperial slaves, potentially improving their conditions. Participants
+  were offered discounts on Imperial ships and access to vessels normally requiring
+  Navy rank. Achenar permit restrictions were temporarily lifted.
+player_impact: Pilots could deliver slaves to Dawes Hub in Achenar for rewards including
+  Imperial ship discounts and access to rank-locked vessels. The temporary lifting
+  of Achenar permits allowed non-Imperial pilots to participate.
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -17,10 +23,20 @@ locations:
 topics:
 - slavery
 - succession
-modern_impact: Coronation event offering unique access to Imperial ships and the Achenar system.
+modern_impact: Coronation event offering unique access to Imperial ships and the Achenar
+  system.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 14620d01-c71e-5e20-872c-717ce63048fe
+- 7ecb6124-2a72-5b9e-afd1-13728200e0b9
+- 69b8ea0c-5e6f-5d31-8a63-0a98141b33ee
+- 1bf57b54-4735-58ba-bcc8-875fb5aa9410
+- 8bdbc53a-3502-5e7e-8220-9ae0435a8bfe
+- 2e393213-981e-5305-bc3b-8a07fa380559
+- 9d5a4ef0-4431-52e3-91cd-b9f15924f8ab
 ---
+
 
 On Sunday, Arissa Lavigny-Duval will be crowned Emperor. Preparations for the coronation are almost complete, and the population of Capitol is eagerly awaiting the inauguration of the Empire's first female ruler. To mark This prestigious occasion, the future Emperor has invited galactic citizens to bring her gifts in exchange for certain incentives. In a statement, Lavigny-Duval said: 
 

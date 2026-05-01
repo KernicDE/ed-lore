@@ -4,8 +4,12 @@ title: Sandra’s Workshop Asks for Festive Gift Couriers
 slug: sandras_workshop_asks_for_festive_gift_couriers
 date: '3310-12-20'
 source: API
-summary: Sandra Corrs requests pilot volunteers to deliver festive gifts to children displaced by the Thargoid invasion, with her upgraded Our Dolph's Routes fleet struggling to locate all recipients.
-player_impact: Pilots collected festive gifts from Frost Dock in Njambalba and delivered them to children displaced by the Thargoid invasion, using beacon scan data to locate delivery addresses.
+summary: Sandra Corrs requests pilot volunteers to deliver festive gifts to children
+  displaced by the Thargoid invasion, with her upgraded Our Dolph's Routes fleet struggling
+  to locate all recipients.
+player_impact: Pilots collected festive gifts from Frost Dock in Njambalba and delivered
+  them to children displaced by the Thargoid invasion, using beacon scan data to locate
+  delivery addresses.
 persons:
 - Sandra Corrs
 groups:
@@ -18,12 +22,21 @@ topics:
 - festival
 - humanitarian
 arc_id: null
-modern_impact: Corrs' observation that 'with so many little boys and girls displaced by the nasty alien invasion, it's going to be a challenge finding them all' quantifies the human cost of the war in terms of displaced children. This article establishes the annual Sandra's Workshop tradition that will continue into 3311 and beyond.
+modern_impact: Corrs' observation that 'with so many little boys and girls displaced
+  by the nasty alien invasion, it's going to be a challenge finding them all' quantifies
+  the human cost of the war in terms of displaced children. This article establishes
+  the annual Sandra's Workshop tradition that will continue into 3311 and beyond.
 legacy_weight: 4
 significance: high
 related_uuids:
 - a66c3fce-c78d-5a54-a796-7fb6954d55f1
+- 7c16f099-da83-5eb8-b85a-c39d0046cd90
+- ef911b8b-aff2-53fa-85e3-290d400e595c
+- 2aa614f0-a9cc-52ba-bc8c-14d36cb62f97
+- 78a4b786-7edc-5fe1-a3b3-76c9c33356e2
+- 0cd16150-08dc-5f22-a0c4-89c0c24aa153
 ---
+
 
 The CEO of leading children’s toy manufacturer Sandra’s Workshop has requested help with parcel deliveries.
 Sandra Corrs, the much-loved philanthropist who provides gifts to children across the core systems each year, made a similar request two years ago. Then, with the Thargoid invasion just beginning, her courier fleet was loaned out to help refugee evacuation efforts.

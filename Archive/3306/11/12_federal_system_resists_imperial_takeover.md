@@ -4,8 +4,10 @@ title: Federal System Resists Imperial Takeover
 slug: federal_system_resists_imperial_takeover
 date: '3306-11-12'
 source: GitHub
-summary: The Federation successfully maintains control of the LTT 1935 system after a battle against Imperial forces investigating NMLA bomb-making material deliveries.
-player_impact: Federal auxiliaries and independent pilots defended LTT 1935 from Imperial occupation.
+summary: The Federation successfully maintains control of the LTT 1935 system after
+  a battle against Imperial forces investigating NMLA bomb-making material deliveries.
+player_impact: Federal auxiliaries and independent pilots defended LTT 1935 from Imperial
+  occupation.
 persons:
 - Ernest Harris
 - Axel Cyprian
@@ -22,6 +24,7 @@ significance: medium
 related_uuids:
 - c567d3a4-1255-56d4-806c-18850b5c46aa
 ---
+
 
 **Pilots Federation ALERT** 
 

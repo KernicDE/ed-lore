@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 It has now been a year since The Thargoids returned to human-occupied space, and in that time they have become increasingly aggressive, their hostility culminating in starport attacks in the Pleiades Nebula. 
 
 Now that the Thargoids’ intentions have been made clear, the question Many are asking is “what can we do?” 

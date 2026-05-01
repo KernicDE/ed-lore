@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Taurus Mining Ventures has defeated a rogue Aegis Defense force and gained control of The megaship Musashi.
 The conflict was initiated by Admiral Aden Tanner, chief military liaison With Aegis. He was attempting to gain access to Hind Mine asteroid base, in search of evidence that Salvation’s anti-xeno weapon was deliberately designed to provoke the Thargoids.

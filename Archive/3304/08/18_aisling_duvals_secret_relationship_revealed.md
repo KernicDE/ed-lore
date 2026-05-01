@@ -4,7 +4,12 @@ title: Aisling Duval's Secret Relationship Revealed
 slug: aisling_duvals_secret_relationship_revealed
 date: '3304-08-18'
 source: GitHub
-summary: Jarl Toredo discloses he and Princess Aisling Duval have been conducting a secret romantic relationship despite her betrothal to Jordan Rochester. Entertainment journalist Solomon Helios reports Toredo's claims that Duval had no romantic feelings for Rochester and the marriage was purely political. Toredo says he feels betrayed as Duval became unreachable after her engagement. Duval refutes the claims, accusing Toredo of being used by those wanting to rekindle Empire-Federation hostility.
+summary: Jarl Toredo discloses he and Princess Aisling Duval have been conducting
+  a secret romantic relationship despite her betrothal to Jordan Rochester. Entertainment
+  journalist Solomon Helios reports Toredo's claims that Duval had no romantic feelings
+  for Rochester and the marriage was purely political. Toredo says he feels betrayed
+  as Duval became unreachable after her engagement. Duval refutes the claims, accusing
+  Toredo of being used by those wanting to rekindle Empire-Federation hostility.
 player_impact: None
 persons:
 - Jarl Toredo
@@ -18,7 +23,9 @@ locations:
 topics:
 - slavery
 - politics
-modern_impact: Toredo's revelations shatter the public image of Duval's engagement as a genuine romance, transforming it into a political scandal with potential implications for Empire-Federation relations.
+modern_impact: Toredo's revelations shatter the public image of Duval's engagement
+  as a genuine romance, transforming it into a political scandal with potential implications
+  for Empire-Federation relations.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -27,6 +34,7 @@ related_uuids:
 - 6ffabb44-eae5-526b-a1c5-4fdd043a1db8
 - c29acb57-2dff-58fc-95b5-009815fe9be9
 ---
+
 
 Anti-slavery campaigner Jarl Toredo has disclosed that he and Princess Aisling Duval have been conducting a secret romantic relationship, despite her betrothal to Federal Ambassador Jordan Rochester. 
 

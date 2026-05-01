@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 Admiral Aden Tanner has called for Aegis to reject The public inquiry’s shutdown and take direct action against Salvation.
 The Musashi, an Aegis Defense megaship under his command, has entered the T Tauri system to challenge Taurus Mining Ventures. The corporation has performed activities on Salvation’s behalf, including preparation for the anti-xeno weapon used to eliminate all Thargoids from the Cornsar system.
 Admiral Tanner transmitted This message to media outlets:

@@ -4,8 +4,11 @@ title: Jerome Archer and Nakato Kaine Increase Supporters
 slug: jerome_archer_and_nakato_kaine_increase_supporters
 date: '3310-08-29'
 source: API
-summary: As Zachary Hudson prepares to leave office, Federal groups shift allegiance to Jerome Archer as shadow president, while Nakato Kaine gains Alliance support opposing Edmund Mahon's Sirius partnership.
-player_impact: Federal and Alliance pilots will perform tasks and exploit local resources to expand Archer and Kaine's influence respectively.
+summary: As Zachary Hudson prepares to leave office, Federal groups shift allegiance
+  to Jerome Archer as shadow president, while Nakato Kaine gains Alliance support
+  opposing Edmund Mahon's Sirius partnership.
+player_impact: Federal and Alliance pilots will perform tasks and exploit local resources
+  to expand Archer and Kaine's influence respectively.
 persons:
 - Jerome Archer
 - Nakato Kaine
@@ -24,10 +27,23 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Trevino's analysis that Archer 'will effectively inherit Hudson's political power base, which spreads across the Federation and through many independent systems' establishes Archer as a major power. Driscoll's description of Kaine as 'a proponent of electoral reform that would allow the public to directly choose their leaders' positions her as a democratic reformer challenging the Alliance's elitist Assembly. The parallel rise of both figures — one authoritarian, one reformist — across two superpowers is a significant political development.
+modern_impact: Trevino's analysis that Archer 'will effectively inherit Hudson's political
+  power base, which spreads across the Federation and through many independent systems'
+  establishes Archer as a major power. Driscoll's description of Kaine as 'a proponent
+  of electoral reform that would allow the public to directly choose their leaders'
+  positions her as a democratic reformer challenging the Alliance's elitist Assembly.
+  The parallel rise of both figures — one authoritarian, one reformist — across two
+  superpowers is a significant political development.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- adcab895-4c2f-5ad3-928d-1de0bafc6f61
+- 1d6aa54e-b31a-593f-8bd3-a53d17cda13a
+- 0cb46392-4967-5330-90e6-b26b90ef78fb
+- e0b48359-9e1e-557a-b290-f47faa8356bb
+- 52e15d2f-c860-504f-a2e4-4e54c31cb388
 ---
+
 
 Civil, commercial and political groups within the Alliance and Federation are pledging loyalty to two increasingly high-profile individuals.
 Sofia Trevino published a summary for The Federal Times:

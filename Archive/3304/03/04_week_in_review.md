@@ -49,6 +49,7 @@ related_uuids:
 ---
 
 
+
 Here are This week’s major stories. 
 
 Reports from Independent pilots confirm that a new type of Thargoid Vessel has been encountered, both in The Pleiades and on the fringes of the core systems. The ship, designated a Thargoid Scout Marauder by the Pilots Federation, are reported to be more manoeuvrable than the Thargoid Interceptor, but less resistant to weapons fire. 

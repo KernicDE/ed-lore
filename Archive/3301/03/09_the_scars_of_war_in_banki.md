@@ -4,8 +4,14 @@ title: The Scars of War in Banki
 slug: the_scars_of_war_in_banki
 date: '3301-03-09'
 source: GitHub
-summary: The Federation won the war in Banki by offering greater incentives to commanders, but survivors face a struggle for survival. The Banki Gold Gang suffered hundreds killed and thousands wounded, with medical supplies stretched thin. The victors now face a destitute populace, disease outbreak and threat of famine. Governor Christopher Kailson of Gold Advanced Partners issued a plea for commanders to supply Banki's needs to ease suffering.
-player_impact: Pilots can deliver supplies to Banki to help the war-torn population recover from the conflict.
+summary: The Federation won the war in Banki by offering greater incentives to commanders,
+  but survivors face a struggle for survival. The Banki Gold Gang suffered hundreds
+  killed and thousands wounded, with medical supplies stretched thin. The victors
+  now face a destitute populace, disease outbreak and threat of famine. Governor Christopher
+  Kailson of Gold Advanced Partners issued a plea for commanders to supply Banki's
+  needs to ease suffering.
+player_impact: Pilots can deliver supplies to Banki to help the war-torn population
+  recover from the conflict.
 persons:
 - Christopher Kailson
 - CMDR John Paul Wilson
@@ -18,10 +24,18 @@ locations:
 topics:
 - war
 - medicine
-modern_impact: The aftermath of the Banki war illustrated how mercenary-dependent conflicts leave populations devastated regardless of which side 'wins'.
+modern_impact: The aftermath of the Banki war illustrated how mercenary-dependent
+  conflicts leave populations devastated regardless of which side 'wins'.
 legacy_weight: 2
 significance: medium
+related_uuids:
+- 1049b593-b7c1-5bec-b23b-4a2a6ee80922
+- 3dbbe455-8adc-5c5b-a970-8fea2d0c9883
+- 85cf9186-db93-5b83-9005-b93e35f40528
+- 4ce471c6-afd4-5570-8422-b2d939bb8d7a
+- 6c47d012-0c17-53a0-8508-284cfdd3035b
 ---
+
 
 The Federation may have won the war in the Banki system, but survivors on both sides are still In a struggle for survival. 
 

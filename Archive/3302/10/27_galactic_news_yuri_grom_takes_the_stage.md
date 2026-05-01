@@ -4,8 +4,12 @@ title: Galactic News  Yuri Grom Takes the Stage
 slug: galactic_news_yuri_grom_takes_the_stage
 date: '3302-10-27'
 source: GitHub
-summary: The EG Pilots, winners of the Dangerous Games, have entered the galactic stage as a new power led by ex-Federal Navy Admiral Yuri Grom. The United Research Council lifted preparatory restrictions near the Clayakarma, Nauo, Gyhldekala, Boga, and Kpaniya systems.
-player_impact: Independent pilots can support the EG Pilots power in its controlled systems.
+summary: The EG Pilots, winners of the Dangerous Games, have entered the galactic
+  stage as a new power led by ex-Federal Navy Admiral Yuri Grom. The United Research
+  Council lifted preparatory restrictions near the Clayakarma, Nauo, Gyhldekala, Boga,
+  and Kpaniya systems.
+player_impact: Independent pilots can support the EG Pilots power in its controlled
+  systems.
 persons:
 - Yuri Grom
 groups:
@@ -24,10 +28,18 @@ topics:
 - sport
 - war
 technologies: []
-modern_impact: Yuri Grom's emergence as an independent Power creates a new political force that challenges both Federal and Imperial influence in the frontier.
+modern_impact: Yuri Grom's emergence as an independent Power creates a new political
+  force that challenges both Federal and Imperial influence in the frontier.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 677b479b-1732-5f28-b63a-35a547677a0b
+- 108a4043-de0b-5182-81af-6c796bc0b9fb
+- a4c35ac2-d528-5504-8768-8280db942976
+- feefc384-57d7-5995-ad27-74d22927ade3
+- 212afaae-3f8a-5395-bc41-b81ae3ffa192
 ---
+
 
 The Dangerous Games dominated headlines earlier This year, as some of galaxy's most powerful minor factions took part In a brutal battle for supremacy. 
 

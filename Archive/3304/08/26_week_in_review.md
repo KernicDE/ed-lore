@@ -4,7 +4,10 @@ title: Week in Review
 slug: week_in_review
 date: '3304-08-26'
 source: GitHub
-summary: Weekly summary covering the cancelled Aisling Duval wedding, the Alliance Crusader release, Supratech and Herculean Machines promoting new computer designs, Far God cultists disappearing, the Mars Tribune exposé on Congressman Morgan Unwin, the Betel faction conflict, and the Colonia hydroponics initiative.
+summary: Weekly summary covering the cancelled Aisling Duval wedding, the Alliance
+  Crusader release, Supratech and Herculean Machines promoting new computer designs,
+  Far God cultists disappearing, the Mars Tribune exposé on Congressman Morgan Unwin,
+  the Betel faction conflict, and the Colonia hydroponics initiative.
 player_impact: None
 persons:
 - Aisling Duval
@@ -44,7 +47,8 @@ topics:
 - slavery
 - war
 - religion
-modern_impact: This week spans political scandal, corporate rivalry, religious persecution, and factional warfare, illustrating the diverse challenges facing galactic civilisation.
+modern_impact: This week spans political scandal, corporate rivalry, religious persecution,
+  and factional warfare, illustrating the diverse challenges facing galactic civilisation.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -55,7 +59,9 @@ related_uuids:
 - 0d1f99bd-b76b-5129-963f-0f95ca92769a
 - 6fbe3058-8050-50a0-b7d3-77484a809829
 - 249a170f-066b-542f-9e3d-757e4e249409
+- bf7e0803-3232-5106-beda-5e9cbfd0234e
 ---
+
 
 Here are This week’s major stories. 
 

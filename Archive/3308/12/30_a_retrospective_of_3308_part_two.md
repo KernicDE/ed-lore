@@ -50,6 +50,7 @@ related_uuids:
 ---
 
 
+
 Sima Kalhana continues her review of the most significant historical events that occurred during the past year.
 “In May 3308, the Thargoid invasions of the Didio, Novas and Sosong systems were completely repelled by the use of Salvation’s unique superweapons. This convinced the Alliance, Empire and Federation to support Azimuth Biotech in developing this Guardian-based technology, with Salvation claiming that he could end the Thargoid threat forever.”
 “Elsewhere that month, the Kumo Crew syndicate faced civil war as pirate rebels tried to replace Archon Delaine. Eventually his loyal forces triumphed, with the Blue Viper Club dredger clan fleeing his reprisals. And in the Federation, trillionaire entrepreneur Zachary Rackham announced his presidential candidacy for the 3309 election.”

@@ -4,7 +4,10 @@ title: Freelance Report  Miraculous Rescue
 slug: freelance_report_miraculous_rescue
 date: '3302-02-23'
 source: GitHub
-summary: Commander Santander discovers two occupied escape pods on a rocky-ice body near the NGC 1333 nebula, over 1,000 light years from the nearest starport. The crash site was visible from high altitude, and Santander investigated in his SRV before recovering the pods in his Asp Explorer.
+summary: Commander Santander discovers two occupied escape pods on a rocky-ice body
+  near the NGC 1333 nebula, over 1,000 light years from the nearest starport. The
+  crash site was visible from high altitude, and Santander investigated in his SRV
+  before recovering the pods in his Asp Explorer.
 player_impact: None
 persons:
 - Commander Santander
@@ -24,7 +27,14 @@ topics:
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- d90b7c02-020e-520f-815c-2bd3a0fc3e4d
+- 64cbf185-445b-5954-b18c-b60487a04da3
+- ca336671-285c-54b4-9c50-3b2c5cafda2f
+- 4d7c597e-0996-5384-89fa-f96749b6bb7b
+- ec55368b-f256-5ab9-8fc8-4752b409f055
 ---
+
 
 In a system near The NGC 1333 nebula, over 1,000 light years from the nearest starport, a pilot by the name of Commander Santander has reported discovering two occupied escape pods. The Commander was surveying a previously uncharted system and cruising near the surface of a rocky-ice body when the readings were detected. The crash site could be clearly seen from high altitude, so Santander went to investigate in his SRV. Fortunately, his Asp Explorer was equipped With a cargo rack.  
 

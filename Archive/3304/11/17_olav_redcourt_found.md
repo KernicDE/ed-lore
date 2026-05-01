@@ -4,7 +4,11 @@ title: Olav Redcourt Found
 slug: olav_redcourt_found
 date: '3304-11-17'
 source: GitHub
-summary: Missing author Olav Redcourt is found alive and well at a remote writers' retreat. His literary agent Margot Hist confirms he is in good health and working on a new science fiction novel. Hist explains that she was unaware of the concern because she was on holiday and there are no communication facilities at Skyglow Havens on the Rhea Archipelago.
+summary: Missing author Olav Redcourt is found alive and well at a remote writers'
+  retreat. His literary agent Margot Hist confirms he is in good health and working
+  on a new science fiction novel. Hist explains that she was unaware of the concern
+  because she was on holiday and there are no communication facilities at Skyglow
+  Havens on the Rhea Archipelago.
 player_impact: None
 persons:
 - Olav Redcourt
@@ -17,12 +21,15 @@ locations:
 - Skyglow Havens
 topics:
 - culture
-modern_impact: Redcourt's safe discovery ends speculation about his disappearance, though his pivot to science fiction rather than continuing the Corsair King series disappoints fans and his publisher.
+modern_impact: Redcourt's safe discovery ends speculation about his disappearance,
+  though his pivot to science fiction rather than continuing the Corsair King series
+  disappoints fans and his publisher.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 7e6d6a09-c0b5-5c86-b6e1-7dab5e24d303
 ---
+
 
 Popular author Olav Redcourt, who was recently reported Missing, has been found alive and well. 
 

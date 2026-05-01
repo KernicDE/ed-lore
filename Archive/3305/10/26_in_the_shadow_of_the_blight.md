@@ -4,13 +4,16 @@ title: In the Shadow of the Blight
 slug: in_the_shadow_of_the_blight
 date: '3305-10-26'
 source: GitHub
-summary: Core systems adapt to food shortages caused by the blight. Freeze-dried goods return to favour, restaurants reduce menus, and the fishing industry sees a boom. Welfare charities are stretched to breaking point.
+summary: Core systems adapt to food shortages caused by the blight. Freeze-dried goods
+  return to favour, restaurants reduce menus, and the fishing industry sees a boom.
+  Welfare charities are stretched to breaking point.
 player_impact: None
 persons:
 - Adalyn Cross
 topics:
 - humanitarian
-modern_impact: The article documents the societal impact of the blight on daily life, from dietary changes to economic strain on welfare systems.
+modern_impact: The article documents the societal impact of the blight on daily life,
+  from dietary changes to economic strain on welfare systems.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -18,6 +21,7 @@ related_uuids:
 - b6bad842-f04e-5865-892e-cfeb17f2f5da
 - deca2e98-3214-58c6-a3a2-3cf6ed0dddc6
 ---
+
 
 People across the core systems are adapting to food shortages caused by the blight, As the threat of widespread starvation increases. 
 

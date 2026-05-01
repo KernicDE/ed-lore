@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The Alliance Assembly has agreed to delay electing a new prime minister to avoid clashing With the forthcoming Galactic Summit.
 The proposal to postpone the election date came from Prime Minister Edmund Mahon:
 “Now that the diplomatic conference has been confirmed, we must adapt to take advantage of This historic event. A potential change in leadership occurring at the same time As the Galactic Summit would cause confusion and undermine the Alliance’s presence.”

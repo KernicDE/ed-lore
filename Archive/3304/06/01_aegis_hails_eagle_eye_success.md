@@ -4,7 +4,12 @@ title: Aegis Hails Eagle Eye Success
 slug: aegis_hails_eagle_eye_success
 date: '3304-06-01'
 source: GitHub
-summary: Aegis announces its Eagle Eye initiative is proving successful, helping repel Thargoid forces from systems in the Pleiades Nebula. The orbital surveillance installations monitor transmissions from Thargoid surface sites and share data with independent pilots. Admiral Aden Tanner tells the Federal Times that without this data, more starports would have been attacked, citing successful resistance in Lwalama and Lalande 4141 due to early warnings.
+summary: Aegis announces its Eagle Eye initiative is proving successful, helping repel
+  Thargoid forces from systems in the Pleiades Nebula. The orbital surveillance installations
+  monitor transmissions from Thargoid surface sites and share data with independent
+  pilots. Admiral Aden Tanner tells the Federal Times that without this data, more
+  starports would have been attacked, citing successful resistance in Lwalama and
+  Lalande 4141 due to early warnings.
 player_impact: Eagle Eye data helps pilots anticipate and resist Thargoid incursions.
 persons:
 - Aden Tanner
@@ -18,13 +23,15 @@ locations:
 topics:
 - alien contact
 - war
-modern_impact: The Eagle Eye network becomes a critical early-warning system for Thargoid incursions, enabling coordinated defence and saving numerous starports from attack.
+modern_impact: The Eagle Eye network becomes a critical early-warning system for Thargoid
+  incursions, enabling coordinated defence and saving numerous starports from attack.
 legacy_weight: 5
 significance: high
 related_uuids:
 - db044a6e-332e-5023-8f20-a1c27974d897
 - d33c2337-8ce6-5941-ade9-90a742c87559
 ---
+
 
 Aegis has announced that Its Eagle Eye initiative is proving to be a great success, and has helped to repel Thargoid forces from systems in The Pleiades Nebula. 
 

@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 The purchase of shipbuilding company Lakon Spaceways by Core Dynamics is in doubt after allegations of illegal business practices.
 Irfan Karim reported on the recent developments for The Alliance Tribune:
 “The Independent Commission for Market Equality has confirmed that Several Lakon shareholders sold their stock to shell companies, Which were covertly established by departments within Core Dynamics. Furthermore, two serious accusations of blackmail have been referred to Alliance Interpol.”

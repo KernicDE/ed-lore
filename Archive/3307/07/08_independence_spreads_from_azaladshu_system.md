@@ -47,6 +47,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 The Azaladshu Free faction has defeated the forces of Neche Inc and retained Independence from the Federation.
 As a result, the Azaladshu, LFT 824, LHS 277 and LTT 3919 systems have confirmed their Independent status. The victory also inspired the Coalition of Uteran, Lp 726-6 Free and Gluscap Labour factions to secede from the Federation, affecting all systems under their control.

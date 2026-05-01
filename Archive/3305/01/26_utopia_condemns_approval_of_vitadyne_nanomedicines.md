@@ -4,7 +4,9 @@ title: Utopia Condemns Approval of Vitadyne Nanomedicines
 slug: utopia_condemns_approval_of_vitadyne_nanomedicines
 date: '3305-01-26'
 source: GitHub
-summary: Pranav Antal condemns the IHO's approval of Vitadyne nanomedicines as theft of Utopian technology for profit, while healthcare analysts warn that the ruling closes the door on future cooperation with Utopia.
+summary: Pranav Antal condemns the IHO's approval of Vitadyne nanomedicines as theft
+  of Utopian technology for profit, while healthcare analysts warn that the ruling
+  closes the door on future cooperation with Utopia.
 player_impact: None — background corporate report.
 persons:
 - Pranav Antal
@@ -20,13 +22,18 @@ topics:
 - medicine
 - corporate expansion
 - ethics
-modern_impact: Utopia's condemnation reinforced its isolationist stance toward the wider galaxy, ensuring that future Utopian medical breakthroughs would remain unavailable to non-communal societies.
+modern_impact: Utopia's condemnation reinforced its isolationist stance toward the
+  wider galaxy, ensuring that future Utopian medical breakthroughs would remain unavailable
+  to non-communal societies.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - caceea7a-de65-5bf6-9d01-15ae06646314
 - 0a245776-7f87-5585-9289-94a24fd31183
+- d80a7b9f-9d19-5bb7-b7e5-190a2db517ff
+- 06fb8aad-3e44-5874-9abc-b26b9a83c1f2
 ---
+
 
 The decision of the Interstellar Health Organisation (IHO) to approve Vitadyne Labs's nanomedicines has been condemned by Utopia. 
 

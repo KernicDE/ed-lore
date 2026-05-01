@@ -4,7 +4,9 @@ title: Sirius CEO Faces Assembly Inquiry
 slug: sirius_ceo_faces_assembly_inquiry
 date: '3310-01-08'
 source: API
-summary: Li Yong-Rui faces the Alliance Assembly over the strategic defence pact, defending Sirius's record while Kaine accuses him of failing to honour responsibilities and Yong-Rui dismisses her Tionisla campaign failure.
+summary: Li Yong-Rui faces the Alliance Assembly over the strategic defence pact,
+  defending Sirius's record while Kaine accuses him of failing to honour responsibilities
+  and Yong-Rui dismisses her Tionisla campaign failure.
 player_impact: Not specifically mentioned — this is a political inquiry.
 persons:
 - Li Yong-Rui
@@ -22,10 +24,23 @@ topics:
 - politics
 entities: []
 arc_id: null
-modern_impact: Yong-Rui's defence — 'our progress is being deliberately impeded by forces within government departments' — shifts blame to bureaucratic resistance. His reference to Kaine's 'failed endeavour in the Tionisla system' is a political counterattack. His closing — 'Like it or not, we are here to stay' — is an assertion of Sirius's entrenched position in Alliance affairs. The inquiry's scope expanding to include Admiral Glass and the Council of Admirals suggests this is a serious challenge to the pact.
+modern_impact: Yong-Rui's defence — 'our progress is being deliberately impeded by
+  forces within government departments' — shifts blame to bureaucratic resistance.
+  His reference to Kaine's 'failed endeavour in the Tionisla system' is a political
+  counterattack. His closing — 'Like it or not, we are here to stay' — is an assertion
+  of Sirius's entrenched position in Alliance affairs. The inquiry's scope expanding
+  to include Admiral Glass and the Council of Admirals suggests this is a serious
+  challenge to the pact.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 87bfa62f-1991-5f20-88d3-0bd0d7d797bc
+- 159caa3b-1d4d-531b-ac16-f40c17d6f332
+- 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
+- e0b48359-9e1e-557a-b290-f47faa8356bb
+- f2680020-36ae-554f-ae92-3a367a9f1d23
 ---
+
 
 Li Yong-Rui, CEO of Sirius Corporation, has addressed the Alliance Assembly as part of its formal inquiry into the strategic defence pact.
 The inquiry was proposed by Councillor Nakato Kaine, who highlighted the lack of military support provided by the megacorp against the Thargoids.

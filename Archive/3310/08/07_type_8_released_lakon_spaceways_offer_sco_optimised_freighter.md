@@ -4,8 +4,11 @@ title: 'Type-8 Released: Lakon Spaceways Offer SCO Optimised Freighter'
 slug: type_8_released_lakon_spaceways_offer_sco_optimised_freighter
 date: '3310-08-07'
 source: API
-summary: Lakon Spaceways releases the Type-8, a medium-class freighter optimised for SCO frame shift drive travel, boasting larger cargo capacity and greater resilience than competitors.
-player_impact: The Type-8 freighter is now available for purchase from Lakon Spaceways. Early reviews confirm it effectively minimises SCO drive downsides.
+summary: Lakon Spaceways releases the Type-8, a medium-class freighter optimised for
+  SCO frame shift drive travel, boasting larger cargo capacity and greater resilience
+  than competitors.
+player_impact: The Type-8 freighter is now available for purchase from Lakon Spaceways.
+  Early reviews confirm it effectively minimises SCO drive downsides.
 persons: []
 groups:
 - Faulcon DeLacy
@@ -18,10 +21,22 @@ topics:
 technologies:
 - SCO frame shift drive
 - Type-8
-modern_impact: Lakon's competitive framing — 'with a much lower level of risk than our competitors can currently offer' — directly targets Faulcon DeLacy's Python Mk II. The mention that the Type-8 is 'the largest medium-class vessel available' is a specific market positioning. SCO drive compatibility is now a standard feature expected in new ship releases, showing how Achilles' technology has reshaped the entire shipbuilding industry.
+modern_impact: Lakon's competitive framing — 'with a much lower level of risk than
+  our competitors can currently offer' — directly targets Faulcon DeLacy's Python
+  Mk II. The mention that the Type-8 is 'the largest medium-class vessel available'
+  is a specific market positioning. SCO drive compatibility is now a standard feature
+  expected in new ship releases, showing how Achilles' technology has reshaped the
+  entire shipbuilding industry.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 178f8ef4-d080-5c51-a324-bf717ce331fb
+- 326805e7-3005-5e8c-976c-a10a6be6070b
+- 5c1edfc9-c711-54c9-8ccc-072efce0bdcf
+- c07b4796-ed9d-5a28-9d36-26ee710a7e32
+- a6b3ef28-b9c3-54e1-928c-736df9d23c63
 ---
+
 
 The first batch of Type-8 freighters are now available for purchase, expanding Lakon Spaceways’ fleet of dedicated trade vessels.
 Lakon's promotional media contained the following statement:

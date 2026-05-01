@@ -31,7 +31,9 @@ significance: high
 related_uuids:
 - 38fb5be2-6a83-50df-95d5-b61bec0d0b64
 - 4931d387-bad1-56c0-b74d-3fa457698ec1
+- bb0a8874-54a5-529d-91a6-691c8859ac57
 ---
+
 
 
 Prime Minister Edmund Mahon has spoken out against Emperor Arissa Lavigny-Duval’s decree to suspend inter-superpower cooperation.

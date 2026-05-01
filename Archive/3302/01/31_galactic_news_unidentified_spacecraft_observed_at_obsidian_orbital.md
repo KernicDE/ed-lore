@@ -4,8 +4,13 @@ title: Galactic News  Unidentified Spacecraft Observed at Obsidian Orbital
 slug: galactic_news_unidentified_spacecraft_observed_at_obsidian_orbital
 date: '3302-01-31'
 source: GitHub
-summary: 'An unidentified Diamondback Explorer with the designation ''S6: 7'' performed a high-speed pass and scanned Obsidian Orbital without responding to hails. Chloe Anders of the Christian Dock surveillance team reported the vessel circled the station at close range before departing abruptly, leading to speculation that it was searching for something.'
-player_impact: Pilots in the Maia system should be alert for unidentified vessels scanning stations. The purpose of the mysterious Diamondback Explorer remains unknown.
+summary: 'An unidentified Diamondback Explorer with the designation ''S6: 7'' performed
+  a high-speed pass and scanned Obsidian Orbital without responding to hails. Chloe
+  Anders of the Christian Dock surveillance team reported the vessel circled the station
+  at close range before departing abruptly, leading to speculation that it was searching
+  for something.'
+player_impact: Pilots in the Maia system should be alert for unidentified vessels
+  scanning stations. The purpose of the mysterious Diamondback Explorer remains unknown.
 persons:
 - Chloe Anders
 locations:
@@ -15,10 +20,18 @@ topics:
 - exploration
 technologies:
 - Diamondback Explorer
-modern_impact: Adds to the growing mystery around Obsidian Orbital and unexplained activity in the Pleiades region.
+modern_impact: Adds to the growing mystery around Obsidian Orbital and unexplained
+  activity in the Pleiades region.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 287be432-ebfd-51c7-b804-5ad76433919e
+- 0856035e-4ad7-545b-bb09-9480bea555fb
+- 53594924-78d7-5691-8335-36668f095cf3
+- c1308357-4cd9-566d-8f01-cd5ab3ce7499
+- 3b53790d-1669-583c-8720-2ab6d525de1c
 ---
+
 
 Speculation is rife at Obsidian Orbital This morning following a close-quarters encounter With an unidentified Diamondback Explorer. According to Chloe Anders, a member of The surveillance team at Christian Dock, the mysterious Vessel came within 10 kilometres of the station while performing what was described as a "high-speed pass": 
 

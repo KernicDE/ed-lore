@@ -4,7 +4,9 @@ title: Superpowers Collaborate to Investigate Blight
 slug: superpowers_collaborate_to_investigate_blight
 date: '3305-10-18'
 source: GitHub
-summary: A tri-superpower collaborative body forms to trace the blight's source. The Rockforth Corporation cooperates with investigators while defending its EX7 fertiliser's testing record.
+summary: A tri-superpower collaborative body forms to trace the blight's source. The
+  Rockforth Corporation cooperates with investigators while defending its EX7 fertiliser's
+  testing record.
 player_impact: None
 persons:
 - Adalyn Cross
@@ -15,7 +17,8 @@ groups:
 topics:
 - investigation
 - terrorism
-modern_impact: The unprecedented superpower collaboration reflects the severity of the blight crisis and the threat to billions of lives.
+modern_impact: The unprecedented superpower collaboration reflects the severity of
+  the blight crisis and the threat to billions of lives.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -23,6 +26,7 @@ related_uuids:
 - 773cec69-3b2a-5dce-abb5-315b8195a303
 - 0be157b9-6a3b-51ba-96df-79add197e050
 ---
+
 
 A collaborative body has been formed by The three superpowers to trace the source of the blight that is laying waste to crops on key agricultural worlds. 
 

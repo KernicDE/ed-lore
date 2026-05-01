@@ -4,8 +4,12 @@ title: The Awakening of the Adamastor
 slug: the_awakening_of_the_adamastor
 date: '3307-04-08'
 source: API
-summary: A dormant communications beacon aboard the 200-year-old ghost ship Adamastor in the Chukchan system suddenly activates, receiving and rebroadcasting an encrypted interstellar signal. The ship, owned by Azimuth Biochemicals, vanished in 3111 after a possible first encounter with the Thargoids.
-player_impact: Pilots were alerted to the mysterious signal from the Adamastor, beginning the search for its source.
+summary: A dormant communications beacon aboard the 200-year-old ghost ship Adamastor
+  in the Chukchan system suddenly activates, receiving and rebroadcasting an encrypted
+  interstellar signal. The ship, owned by Azimuth Biochemicals, vanished in 3111 after
+  a possible first encounter with the Thargoids.
+player_impact: Pilots were alerted to the mysterious signal from the Adamastor, beginning
+  the search for its source.
 persons: []
 groups:
 - Alliance Salvage Guild
@@ -23,13 +27,16 @@ technologies:
 - Adamastor derelict megaship
 - Communications beacon
 arc_id: salvation-azimuth
-modern_impact: The Adamastor signal launches the Salvation saga, ultimately revealing a shadowy figure manipulating events from behind the scenes and setting the stage for Azimuth Biotech's rise as a major galactic power.
+modern_impact: The Adamastor signal launches the Salvation saga, ultimately revealing
+  a shadowy figure manipulating events from behind the scenes and setting the stage
+  for Azimuth Biotech's rise as a major galactic power.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 07afe076-5ec7-5bd4-8760-fbf3c9ed12a1
 - 29d5b1ad-189d-542d-b21b-ab8e21422a28
 ---
+
 
 **Pilots Federation ALERT**
 The Adamastor, a 200 year old ‘ghost ship’ in orbit around Chukchan 5 b, has received a mysterious encrypted signal. The derelict Vessel has been undergoing investigation by Alliance Salvage Guild teams since Its discovery last October. They released This report:

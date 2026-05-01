@@ -4,7 +4,10 @@ title: Search for Lottery Winner
 slug: search_for_lottery_winner
 date: '3304-07-14'
 source: GitHub
-summary: The Federal Grand Lottery launches an appeal to find the owner of an unclaimed one billion credit Galactic Jackpot ticket. Purchase has been confirmed but no data exists on who bought it. Spokesperson Tori Theopolis asks citizens to check with lottery players they know.
+summary: The Federal Grand Lottery launches an appeal to find the owner of an unclaimed
+  one billion credit Galactic Jackpot ticket. Purchase has been confirmed but no data
+  exists on who bought it. Spokesperson Tori Theopolis asks citizens to check with
+  lottery players they know.
 player_impact: None
 persons:
 - Tori Theopolis
@@ -13,12 +16,14 @@ groups:
 locations: []
 topics:
 - culture
-modern_impact: The unclaimed billion-credit jackpot generates widespread speculation and media interest, eventually revealed to be won by billionaire Zachary Rackham.
+modern_impact: The unclaimed billion-credit jackpot generates widespread speculation
+  and media interest, eventually revealed to be won by billionaire Zachary Rackham.
 legacy_weight: 2
 significance: low
 related_uuids:
 - ed6adddd-c9c1-5fb8-ab02-8185dd679153
 ---
+
 
 An appeal has been launched to find The owner of a lottery ticket worth One billion credits. 
 

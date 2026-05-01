@@ -31,7 +31,10 @@ significance: high
 related_uuids:
 - 8e6dfe65-e2b6-5219-b76a-65012409b17f
 - f078dbe6-f827-5d17-bfd0-2bf7b1be7c97
+- 9c14fb9b-691f-5a44-88cb-dcb9d651b1ac
+- 6c4632dc-021f-5881-ae3d-4b338048bdd3
 ---
+
 
 
 The Voice of Varati today received a statement from Dr Arcanonn of the Canonn Interstellar Research Group: 

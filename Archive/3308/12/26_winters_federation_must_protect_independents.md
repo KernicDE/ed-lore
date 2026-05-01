@@ -4,8 +4,10 @@ title: 'Winters: ‘Federation Must Protect Independents’'
 slug: winters_federation_must_protect_independents
 date: '3308-12-26'
 source: API
-summary: Shadow President Felicia Winters has called for the Federal Navy to help defend independent systems being invaded by the Thargoids.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: Shadow President Felicia Winters has called for the Federal Navy to help
+  defend independent systems being invaded by the Thargoids.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Felicia Winters
 groups:
@@ -14,7 +16,9 @@ topics:
 - alien contact
 - war
 arc_id: null
-modern_impact: '"The Thargoid fleets emerging from the Maelstroms have inflicted anguish and loss on millions. Our military forces hav..." Federal political maneuvering illustrates the struggle to balance civil liberties with wartime imperatives.'
+modern_impact: '"The Thargoid fleets emerging from the Maelstroms have inflicted anguish
+  and loss on millions. Our military forces hav..." Federal political maneuvering
+  illustrates the struggle to balance civil liberties with wartime imperatives.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -24,6 +28,7 @@ related_uuids:
 - 1a784d38-9247-5277-a7e4-b217104780a2
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 ---
+
 
 Shadow President Felicia Winters has called for the Federal Navy to help defend independent systems being invaded by the Thargoids.
 She outlined her viewpoint during an interview with the Federal Free Press:

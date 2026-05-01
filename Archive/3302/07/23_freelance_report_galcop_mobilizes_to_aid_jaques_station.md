@@ -32,7 +32,9 @@ significance: high
 related_uuids:
 - 89386519-e920-5c88-93d3-61826131b538
 - dbec0d63-cab5-555e-8e66-ac930c200dc7
+- 0a84ffbd-3255-5b51-b8ec-934a8ebb2741
 ---
+
 
 
 Since contact With Jaques Station was re-established, a substantial effort from Independent pilots to deliver meta-alloys to The stricken starport has returned it to partial functionality. 

@@ -31,7 +31,13 @@ legacy_weight: 4
 significance: high
 related_uuids:
 - 4d7c597e-0996-5384-89fa-f96749b6bb7b
+- 7032e27b-cf0a-5aca-ba1b-9c50e7e9f75c
+- 0d798d5a-ae0c-5a99-9a72-a060772f4fcd
+- 27019b70-9df7-54ff-ae4e-c5d07dbc4823
+- 64cbf185-445b-5954-b18c-b60487a04da3
+- e74deb32-c4c0-59e7-8506-445b6c628173
 ---
+
 
 
 Equipped With a cluster of drive engines, Jaques Station is noted for being The galaxy's only travelling starport. Owned and operated by a cyborg known as 'Jaques', the Orbis station has been roaming the galaxy for over 40 years, and in that time it has become something of a cultural icon. Now, after more than four decades of travel, Jaques is about to embark on his most ambitious expedition yet – a long-distance jump from Gliese 1269 to Beagle Point. 

@@ -4,8 +4,14 @@ title: A Galactic Treasure Hunt
 slug: a_galactic_treasure_hunt
 date: '3301-09-22'
 source: GitHub
-summary: 'Reclusive philanthropist Alfred Jeffress announced a galaxy-wide treasure hunt with a share of his fortune as the prize. A mystery object was hidden somewhere in space, with a riddle offered as the only clue: ''A vision of the Devil and Orion''s hounds will start you on your path.'' Hundreds of pilots immediately began searching for the object.'
-player_impact: Pilots can participate in the galactic treasure hunt by solving Alfred Jeffress's riddle and searching for the hidden mystery object. The first to find it and deliver it to the specified location wins a share of Jeffress's fortune.
+summary: 'Reclusive philanthropist Alfred Jeffress announced a galaxy-wide treasure
+  hunt with a share of his fortune as the prize. A mystery object was hidden somewhere
+  in space, with a riddle offered as the only clue: ''A vision of the Devil and Orion''s
+  hounds will start you on your path.'' Hundreds of pilots immediately began searching
+  for the object.'
+player_impact: Pilots can participate in the galactic treasure hunt by solving Alfred
+  Jeffress's riddle and searching for the hidden mystery object. The first to find
+  it and deliver it to the specified location wins a share of Jeffress's fortune.
 persons:
 - Alfred Jeffress
 groups: []
@@ -13,10 +19,18 @@ locations: []
 topics:
 - treasure hunt
 technologies: []
-modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving across the galaxy.
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
+  across the galaxy.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 2d450c9e-2f18-586a-beda-c62b157a844a
+- 41c2abea-685e-5111-b190-8fe7e1ab82c0
+- 397d45f7-7c9d-578a-b2ba-e943e1092f2a
+- bf999950-89b6-5977-b23d-5a510676cd4f
+- 29f1ca40-0673-5961-9ad1-b07164a6538f
 ---
+
 
 Alfred Jeffress, The reclusive philanthropist, has released an intriguing statement. In a press release, The eccentric billionaire announced his intention to initiate a galaxy-wide treasure hunt – and to give a share of his vast fortune to the winner. This is the first public statement from Jeffress in Several years, As the humanitarian – who made his fortune trading rare and exotic goods – has spent much of the past decade on an extended galactic tour. 
 

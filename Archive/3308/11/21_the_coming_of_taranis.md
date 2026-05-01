@@ -4,8 +4,10 @@ title: The Coming of Taranis
 slug: the_coming_of_taranis
 date: '3308-11-21'
 source: API
-summary: As the rogue signal sources draw closer to human-occupied space, work is underway to initiate peaceful inter-species negotiations.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: As the rogue signal sources draw closer to human-occupied space, work is
+  underway to initiate peaceful inter-species negotiations.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Elias Pope
 - Luria
@@ -17,7 +19,9 @@ topics:
 - diplomacy
 - research
 arc_id: null
-modern_impact: '"Like most of the Kingfisher’s crew, I volunteered to take part in this operation. It feels like my whole professional..." Taranis heralded a new phase of total war that humanity was ill-prepared to resist.'
+modern_impact: '"Like most of the Kingfisher’s crew, I volunteered to take part in
+  this operation. It feels like my whole professional..." Taranis heralded a new phase
+  of total war that humanity was ill-prepared to resist.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -27,6 +31,7 @@ related_uuids:
 - 1791622e-98ed-5b34-a3e3-34ef90719997
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 ---
+
 
 As the rogue signal sources draw closer to human-occupied space, work is underway to initiate peaceful inter-species negotiations.
 Dr Elias Pope  is a graduate of Orion University with degrees in interstellar relations, political science and xenology. He has recently joined the Kingfisher megaship’s crew to oversee the Thargoid Advocacy Project’s diplomatic mission. In an interview with Vox Galactica, Dr Pope explained his role:

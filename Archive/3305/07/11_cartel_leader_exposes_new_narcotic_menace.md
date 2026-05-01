@@ -4,7 +4,9 @@ title: Cartel Leader Exposes New Narcotic Menace
 slug: cartel_leader_exposes_new_narcotic_menace
 date: '3305-07-11'
 source: GitHub
-summary: Red Family co-founder Jan Sandoval reveals the cartel has developed a genetically engineered designer narcotic far more addictive than existing substances. She surrendered to prevent its mass production.
+summary: Red Family co-founder Jan Sandoval reveals the cartel has developed a genetically
+  engineered designer narcotic far more addictive than existing substances. She surrendered
+  to prevent its mass production.
 player_impact: None
 persons:
 - Viola Trask
@@ -16,14 +18,17 @@ groups:
 topics:
 - crime
 - narcotics
-modern_impact: The revelation of the super-narcotic underscores the catastrophic potential of unchecked cartel science and justifies the FIA's aggressive campaign.
+modern_impact: The revelation of the super-narcotic underscores the catastrophic potential
+  of unchecked cartel science and justifies the FIA's aggressive campaign.
 legacy_weight: 4
 significance: high
 related_uuids:
 - ec34ae39-db9f-571a-8f53-059a5d4deb18
 - 5cc87a22-66b8-5398-8bb0-4af0cfef285c
 - 70822119-b954-507b-8900-67a29a9a9f5c
+- b1b2c40b-ce1d-5074-bb05-5b5c81780068
 ---
+
 
 Jan Sandoval, a founder of The Red Family cartel, has revealed why she surrendered to the Federal Intelligence Agency. 
 

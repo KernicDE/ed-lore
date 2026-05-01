@@ -4,7 +4,9 @@ title: Ship Stolen from Starport
 slug: ship_stolen_from_starport
 date: '3305-04-25'
 source: GitHub
-summary: Commander Bjorn Lennox's Diamondback Explorer is stolen from Fort Dixon in the Vega system by an unknown thief who bypassed all security protocols, leaving station authorities baffled.
+summary: Commander Bjorn Lennox's Diamondback Explorer is stolen from Fort Dixon in
+  the Vega system by an unknown thief who bypassed all security protocols, leaving
+  station authorities baffled.
 player_impact: None — background investigation report.
 persons:
 - Bjorn Lennox
@@ -18,12 +20,15 @@ topics:
 - crime
 - investigation
 - ship
-modern_impact: The seemingly impossible theft at Fort Dixon launched one of the era's most intriguing mysteries, eventually linking the case to Gan Romero's dream-driven disappearance and questions about telepathic alien contact.
+modern_impact: The seemingly impossible theft at Fort Dixon launched one of the era's
+  most intriguing mysteries, eventually linking the case to Gan Romero's dream-driven
+  disappearance and questions about telepathic alien contact.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 92b1fc16-c4e4-5eb8-bec8-1e1dba82d077
 ---
+
 
 An Independent pilot's ship has been stolen from a starport hangar in The Vega system. 
 

@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 The Proactive Detection Bureau, Which monitors all civil communications in the Federation, has received a boost from the galactic community.
 President Hudson’s campaign for additional data proved so successful that the PDB has dramatically increased the range of Its surveillance. 
 Deputy Director Bethany Blake of the Federal Intelligence Agency announced:

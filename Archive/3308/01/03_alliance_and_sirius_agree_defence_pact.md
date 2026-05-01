@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 Sirius Corporation has signed an agreement to provide The Alliance With ships, materials and personnel to help combat the Thargoids.
 The Alliance Assembly and the Council of Admirals held a rare joint vote on the issue of inviting the megacorp to become a strategic defence partner. The motion was debated in private and reportedly passed by a slim majority.
 Prime Minister Edmund Mahon told The Alliance Tribune:

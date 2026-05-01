@@ -27,7 +27,11 @@ significance: high
 related_uuids:
 - 21443853-5371-5291-a9f5-93f79da1d368
 - fd20f126-1514-5567-9737-ba8347d44b4f
+- 30b62ae4-134e-5e1b-9f6b-5d85168c500e
+- 8bfdda30-eb6e-5e5a-88b1-b2ae7afd7a95
+- 8b508bb1-826b-5f8a-90b0-b3d76bcd5570
 ---
+
 
 
 Following The extraordinary rescue of former Federal President Jasmina Halsey, whose escape pod was recovered from the wreckage of Starship One, questions have been asked about her possible return to power. According to an anonymous source within the Federal government, Several senior-level politicians have voiced the opinion that, should she make a full recovery, Halsey ought to be allowed to serve out the remainder of her term. 

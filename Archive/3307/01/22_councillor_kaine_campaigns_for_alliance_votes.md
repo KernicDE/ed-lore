@@ -4,7 +4,8 @@ title: Councillor Kaine Campaigns for Alliance Votes
 slug: councillor_kaine_campaigns_for_alliance_votes
 date: 3307-01-22
 source: API
-summary: Councillor Nakato Kaine is visiting key systems across The Alliance as part of her bid to be elected As the next prime minister.
+summary: Councillor Nakato Kaine is visiting key systems across The Alliance as part
+  of her bid to be elected As the next prime minister.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Edmund Mahon
@@ -24,7 +25,8 @@ topics:
 - corporate expansion
 - war
 arc_id: null
-modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+modern_impact: '"This event contributed to the evolving political and security landscape
+  of the galaxy in 3307."'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -35,6 +37,7 @@ related_uuids:
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - 86eb9c0f-fa6b-5089-b6ae-d233a1e64339
 ---
+
 
 Councillor Nakato Kaine is visiting key systems across The Alliance as part of her bid to be elected As the next prime minister.
 Of all the challengers to the incumbent Edmund Mahon, Kaine has the most support from fellow council members. She has represented the Tionisla system for nearly a decade, and is renowned for delivering forceful speeches before the Assembly.

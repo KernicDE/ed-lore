@@ -4,8 +4,13 @@ title: Community Goal  Feeding California
 slug: community_goal_feeding_california
 date: '3303-11-10'
 source: GitHub
-summary: The Spinward Marches Alliance Concern has announced plans to establish an agricultural facility in the Synuefai LX-R d5-28 system to support Alliance and Turner Research Group outposts in the California Nebula. Senior operative Saool Aledon stated they want to leverage their expertise to support Alliance operations far from the core systems.
-player_impact: Pilots can deliver terrain enrichment systems, crop harvesters, and auto fabricators to Hansford's Landing in the BD+22 4939 system for generous compensation.
+summary: The Spinward Marches Alliance Concern has announced plans to establish an
+  agricultural facility in the Synuefai LX-R d5-28 system to support Alliance and
+  Turner Research Group outposts in the California Nebula. Senior operative Saool
+  Aledon stated they want to leverage their expertise to support Alliance operations
+  far from the core systems.
+player_impact: Pilots can deliver terrain enrichment systems, crop harvesters, and
+  auto fabricators to Hansford's Landing in the BD+22 4939 system for generous compensation.
 persons:
 - Saool Aledon
 groups:
@@ -20,10 +25,19 @@ locations:
 topics:
 - research
 - war
-modern_impact: Agricultural infrastructure in the California Nebula helps sustain deep-space Alliance outposts and reduces their dependence on long supply lines.
+modern_impact: Agricultural infrastructure in the California Nebula helps sustain
+  deep-space Alliance outposts and reduces their dependence on long supply lines.
 legacy_weight: 2
 significance: low
+related_uuids:
+- d419b88a-de19-5028-b105-8b18ccccd9bd
+- 49bae643-7d81-5e0f-a434-f06b00614e90
+- 35ea6366-821d-5b3e-8537-f3524035f918
+- 84f0047f-a8b6-5c30-bf0d-a6a103628ce1
+- 7fce62c7-23a6-52b8-8478-ee0df6a43e71
+- ad6305ce-f140-5f7f-82f6-d84babc703cd
 ---
+
 
 The Spinward Marches Alliance Concern has announced plans to establish An agricultural facility in the Synuefai LX-R d5-28 system, With the aim of supporting the Alliance and Turner Research Group outposts in the California Nebula. 
 

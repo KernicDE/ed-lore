@@ -40,6 +40,7 @@ related_uuids:
 ---
 
 
+
 A media forum is being arranged that will officially propose reinstating the tri-superpower anti-xeno agency.
 The event is being organised by Professor Alba Tesreau, former head of research for Aegis. She delivered a statement to all newsfeeds:
 “As the war against the Thargoids intensifies, the need for centralised xenological research is more vital than ever. This press conference will put forward a case to convince leaders in the Alliance, Empire and Federation to review their decision to dismantle Aegis.”

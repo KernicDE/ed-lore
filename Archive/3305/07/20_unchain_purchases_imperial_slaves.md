@@ -4,7 +4,9 @@ title: Unchain Purchases Imperial Slaves
 slug: unchain_purchases_imperial_slaves
 date: '3305-07-20'
 source: GitHub
-summary: Princess Aisling Duval's anti-slavery charity Unchain purchases the contracts of 4,000 forcibly emancipated Imperial slaves on Eotienses A 3, employing them to build a new headquarters while they pay off their debts.
+summary: Princess Aisling Duval's anti-slavery charity Unchain purchases the contracts
+  of 4,000 forcibly emancipated Imperial slaves on Eotienses A 3, employing them to
+  build a new headquarters while they pay off their debts.
 player_impact: None — background political report.
 persons:
 - Aisling Duval
@@ -16,12 +18,15 @@ topics:
 - construction
 - politics
 - slavery
-modern_impact: Unchain's intervention provided a pragmatic compromise that highlighted both the vulnerabilities of Imperial slavery and the irony of an anti-slavery organisation purchasing indentured workers.
+modern_impact: Unchain's intervention provided a pragmatic compromise that highlighted
+  both the vulnerabilities of Imperial slavery and the irony of an anti-slavery organisation
+  purchasing indentured workers.
 legacy_weight: 2
 significance: medium
 related_uuids:
 - fec8511c-26cb-5ce5-9e5f-9ab9acff2715
 ---
+
 
 The anti-slavery charity Unchain has officially purchased the 4,000 Imperial slaves who were forcibly freed on Eotienses A 3. 
 

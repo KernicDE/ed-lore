@@ -25,6 +25,7 @@ related_uuids:
 ---
 
 
+
 Former Federal President Jasmina Halsey spoke to select reporters at Leoniceno Orbital today, answering the questions Many have wanted to ask since she was recovered from the wreckage of Starship One. When asked about Starship One's destruction, Halsey replied: 
 
 "I remember very little, really. A thunderous noise, then silence. Being thrown across the Bridge in my chair, and then being unable to breathe. I remember one of my bodyguards getting me to the pod as things floated about silently, like a dream. The last thing I remember is a terrible pain in my ears and a very loud noise As the pod filled With what looked like steam." 

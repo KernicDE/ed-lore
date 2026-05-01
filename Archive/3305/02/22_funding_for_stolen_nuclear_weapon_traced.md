@@ -4,7 +4,9 @@ title: Funding for Stolen Nuclear Weapon Traced
 slug: funding_for_stolen_nuclear_weapon_traced
 date: '3305-02-22'
 source: GitHub
-summary: The FIA traces funding for the illegal nuclear research outpost to Zlota Federal Holdings, where executives were covertly redirecting public funds to develop portable nuclear weapons before the Lucifer Device was stolen.
+summary: The FIA traces funding for the illegal nuclear research outpost to Zlota
+  Federal Holdings, where executives were covertly redirecting public funds to develop
+  portable nuclear weapons before the Lucifer Device was stolen.
 player_impact: None — background investigation report.
 persons:
 - Rochelle Karim
@@ -17,13 +19,16 @@ topics:
 - crime
 - investigation
 - terrorism
-modern_impact: The Zlota connection exposed how corrupt corporate executives could fund weapons of mass destruction using public money, raising serious questions about financial oversight in Federal systems.
+modern_impact: The Zlota connection exposed how corrupt corporate executives could
+  fund weapons of mass destruction using public money, raising serious questions about
+  financial oversight in Federal systems.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 2096d6a6-93f3-543a-85c1-db7eb118182b
 - e13245fb-42ce-5cb8-ad62-ce61229d35b9
 ---
+
 
 The Federal Intelligence Agency has traced the funding of an illegal nuclear research outpost to the Zlota system. 
 

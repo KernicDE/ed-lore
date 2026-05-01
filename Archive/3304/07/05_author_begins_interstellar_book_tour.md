@@ -4,7 +4,12 @@ title: Author Begins Interstellar Book Tour
 slug: author_begins_interstellar_book_tour
 date: '3304-07-05'
 source: GitHub
-summary: Celebrated author Olav Redcourt begins a promotional tour visiting over fifty destinations throughout the core systems for his new novel 'Corsair King and the Storm of Desire', the fourteenth in a series of swashbuckling historical romances. Bonespire Publishing organises the tour from Blatrimpe to Procyon. Redcourt makes cryptic comments about being bounced across space and meat for the sausage factory, which his agent Margaux Hist dismisses as character development thinking.
+summary: Celebrated author Olav Redcourt begins a promotional tour visiting over fifty
+  destinations throughout the core systems for his new novel 'Corsair King and the
+  Storm of Desire', the fourteenth in a series of swashbuckling historical romances.
+  Bonespire Publishing organises the tour from Blatrimpe to Procyon. Redcourt makes
+  cryptic comments about being bounced across space and meat for the sausage factory,
+  which his agent Margaux Hist dismisses as character development thinking.
 player_impact: None
 persons:
 - Olav Redcourt
@@ -16,12 +21,15 @@ locations:
 - Procyon
 topics:
 - culture
-modern_impact: Redcourt's book tour and his increasingly erratic public comments foreshadow his later abandonment of the series, highlighting tensions in the galactic publishing industry.
+modern_impact: Redcourt's book tour and his increasingly erratic public comments foreshadow
+  his later abandonment of the series, highlighting tensions in the galactic publishing
+  industry.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 56f4cda2-9705-5b62-a5f5-cfd9aca1188b
 ---
+
 
 Celebrated author Olav Redcourt has begun a promotional tour, visiting over fifty destinations throughout The core systems.  
 

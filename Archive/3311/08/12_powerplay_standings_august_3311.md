@@ -4,17 +4,30 @@ title: 'Powerplay Standings: August 3311'
 slug: powerplay_standings_august_3311
 date: '3311-08-12'
 source: API
-summary: Vox Galactica's August 3311 Powerplay analysis shows Aisling Duval surging to 1,936 systems with a gain of 275, solidifying her position as the most influential Power.
-player_impact: Powerplay pilots influenced system control across the galaxy. Aisling Duval gained 275 systems, the largest increase of any Power.
+summary: Vox Galactica's August 3311 Powerplay analysis shows Aisling Duval surging
+  to 1,936 systems with a gain of 275, solidifying her position as the most influential
+  Power.
+player_impact: Powerplay pilots influenced system control across the galaxy. Aisling
+  Duval gained 275 systems, the largest increase of any Power.
 persons:
 - Conrad Sterling
 groups: []
 technologies: []
-modern_impact: Aisling's massive 275-system gain comes immediately after her three-way conflict with Jerome Archer and Li Yong-Rui in July, suggesting her supporters mobilised heavily in response to the territorial threat. This surge positions her as the dominant Power entering the HIP 87621 enclave war, where she would ultimately control 6-7 systems.
+modern_impact: Aisling's massive 275-system gain comes immediately after her three-way
+  conflict with Jerome Archer and Li Yong-Rui in July, suggesting her supporters mobilised
+  heavily in response to the territorial threat. This surge positions her as the dominant
+  Power entering the HIP 87621 enclave war, where she would ultimately control 6-7
+  systems.
 legacy_weight: 2
 significance: low
-related_uuids: []
+related_uuids:
+- 3f8f3a76-f995-5a02-81c8-2fbc1af760bd
+- 87992d19-e99d-5349-bde9-a5ab63fe5b37
+- 61ab8647-32a4-5463-b38b-57ed9790e137
+- be0ab3b9-00aa-579f-b1cc-df4dd1f85d1e
+- 5af4968e-4b6b-5c03-b67f-1fc47cf6506a
 ---
+
 
 This month's analysis of the influence held by key figures in the core systems has arrived, courtesy of Conrad Sterling of Vox Galactica.
 His latest survey of system populations suggests the following five powers enjoy the largest sphere of influence:

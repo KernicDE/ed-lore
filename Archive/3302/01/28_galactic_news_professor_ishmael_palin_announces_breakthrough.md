@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 Professor Ishmael Palin has announced that his request for meta-alloys has been enthusiastically received by The galactic community, resulting In a massive influx of deliveries to his research base at Obsidian Orbital. In a statement, the Professor expressed his satisfaction at the response, and also shared news of a dramatic breakthrough in his research into the Unknown Artefacts: 
 
 "For much of the past week I have been investigating the ongoing technical issues at Obsidian Orbital, and I can now confirm what Many of us have long suspected: the Unknown Artefacts are most definitely the cause." 

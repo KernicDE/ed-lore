@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Princess Aisling Duval marked The start of 3308 by introducing her cousin Hadrian Duval, his wife and their newborn son to Imperial high society.
 Entertainment journalist Solomon Helios broadcast a report on the event:
 “It’s an annual tradition for Princess Aisling to invite the great and the good to her palace on Emerald, although the tragic loss of her father in 3306 meant that last year’s gathering was cancelled. This year she made up for it With a sumptuous, glittering celebration of the kind that we Imperials are famed for.”

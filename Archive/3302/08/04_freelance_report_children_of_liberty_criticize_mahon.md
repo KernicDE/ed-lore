@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 The organization known As the Children of Liberty has issued a statement criticizing Alliance Prime Minister Edmund Mahon for his recent remarks concerning the supposed failings of the Federation and Empire. 
 
 "Prime Minister Mahon has denounced the 'pettiness and greed' of his political rivals, but he tolerates those same sins among Many of the Alliance's own member systems. He wishes to create 'a truly unified society', yet he tolerates ideologies within the Alliance's own borders that are irreconcilably opposed to One another! According to a study published in 3301, over 213 million Alliance citizens live under the rule of explicitly authoritarian governments. How can a galactic power that purports to value harmony and self-determination allow a member system to oppress Its own citizens?" 

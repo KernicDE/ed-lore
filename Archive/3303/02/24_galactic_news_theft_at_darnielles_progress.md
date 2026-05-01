@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 A carefully orchestrated heist, involving The theft of a large quantity of meta-alloys, has taken place at Darnielle's Progress in the Maia system. 
 
 Security personnel at the starport confirmed that an unidentified Cobra-class Vessel was involved in the robbery. After the ship docked at the starport, the pilot and four Other passengers disembarked before the ship was serviced and refuelled. 

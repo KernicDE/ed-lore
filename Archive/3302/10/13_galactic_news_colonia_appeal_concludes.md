@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 It has been four weeks since The Latugara PLC announced plans to establish a series of outposts between the burgeoning Colonia Nebula community and the core of human-inhabited space. 
 
 Since then, the galactic community has delivered huge quantities of materials to Love Orbital for use in the construction. 

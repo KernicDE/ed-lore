@@ -4,7 +4,11 @@ title: Classic Children's Show Returns
 slug: classic_childrens_show_returns
 date: '3304-07-28'
 source: GitHub
-summary: The classic children's animated show Andromedaries, about spacefaring camel-like lifeforms from another galaxy, is being remade for modern audiences after 40 years. Blackshadow Productions promises a dark, blood-soaked journey of psychological discovery. Original creator Vienna Langhorne expresses dismay. Fan society president Ogden Smith defends the reboot as returning to the gritty drama fans enjoyed as children.
+summary: The classic children's animated show Andromedaries, about spacefaring camel-like
+  lifeforms from another galaxy, is being remade for modern audiences after 40 years.
+  Blackshadow Productions promises a dark, blood-soaked journey of psychological discovery.
+  Original creator Vienna Langhorne expresses dismay. Fan society president Ogden
+  Smith defends the reboot as returning to the gritty drama fans enjoyed as children.
 player_impact: None
 persons:
 - Vienna Langhorne
@@ -15,10 +19,14 @@ groups:
 locations: []
 topics:
 - culture
-modern_impact: The Andromedaries reboot exemplifies the tension between nostalgic fandom and creative reinterpretation in galactic entertainment.
+modern_impact: The Andromedaries reboot exemplifies the tension between nostalgic
+  fandom and creative reinterpretation in galactic entertainment.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 920160cf-a2bd-51ac-b6f0-545d575cdc14
 ---
+
 
 A children’s entertainment show that achieved great popularity 40 years ago is being remade for modern audiences. 
 

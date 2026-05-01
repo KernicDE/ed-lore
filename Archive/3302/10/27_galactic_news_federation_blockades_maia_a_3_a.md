@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Independent reports from The Maia system indicate that a Farragut-class Battlecruiser has taken up position over Maia A 3 a, not Far from the personal research base of Professor Ishmael Palin. The Federal Vessel is apparently redirecting pilots who stray too close to the site. 
 
 The news comes only a day after Professor Palin announced a breakthrough in his research into meta-alloys. 

@@ -49,6 +49,7 @@ related_uuids:
 ---
 
 
+
 The superpowers have partly Suspended Aegis and authorised an inquiry into the Alexandria megaship, Which disappeared in hyperspace.
 Freelance journalist Alexei Keel reported on This development for Vox Galactica:
 “Public opinion regarding Aegis has always been chequered, but Its founding governments insisted that it played a vital Defensive role against the Thargoids. The tragic loss of the Alexandria, carrying thousands of crewmembers and valuable Guardian artefacts, has now raised questions about the organisation’s competence.”

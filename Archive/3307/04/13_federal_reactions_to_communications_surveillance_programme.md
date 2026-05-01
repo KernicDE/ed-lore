@@ -43,7 +43,9 @@ related_uuids:
 - 677ba8ea-d7b4-5d96-b990-a430969d2b98
 - 82080870-af46-5023-854f-189ec261531a
 - bc50ffda-083d-5387-b532-bfc39ae6807f
+- 4e4e905b-73b7-54be-a20b-4c447f8ff3e7
 ---
+
 
 
 There have been mixed responses to The Proactive Detection Bureau, Which monitors private communications in the Federation for terrorist activity.

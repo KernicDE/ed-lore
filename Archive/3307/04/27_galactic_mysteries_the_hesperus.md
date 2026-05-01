@@ -48,6 +48,7 @@ related_uuids:
 ---
 
 
+
 Francesca Wolfe of The Wallglass Investigations Agency examines the Hesperus megaship and the Dredger Clan that caused Its recent discovery.
 “When the Adamastor derelict received a strange signal, smart money was on it originating from its sister ship, the Hesperus. Both were owned by Azimuth Biochemicals and had vanished 200 years ago.”
 “After a united effort to decode and trace the signal, Independent pilots Located the Hesperus in an asteroid belt around the second Star of the Perseus Dark Region KC-V C2-2 system. Like the Adamastor, it was devoid of life – but not alone.”

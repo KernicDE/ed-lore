@@ -32,7 +32,9 @@ significance: high
 related_uuids:
 - 629e8040-141e-57ac-925a-96afe9db9e08
 - e43f14d8-2b18-5f49-be69-78d34eae1939
+- 6e8076c1-fcfc-598f-9090-66e9911a3e0e
 ---
+
 
 
 The Atlas Corporation has launched a campaign to build a megaship in the Lambda Arae system. 

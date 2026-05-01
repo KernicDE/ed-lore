@@ -32,7 +32,10 @@ significance: medium
 related_uuids:
 - 7b1495a0-0413-5d22-af0c-bc7fcf8090d4
 - a210772e-cf66-5986-b067-f5664fdac402
+- ada7d772-d68c-5509-b509-6358ee602283
+- 02165df8-9aeb-583a-be2c-d25436bc9c41
 ---
+
 
 
 Concerns have been raised that The ongoing war of liberation in The Pegasi sector, Operation Davy Jones, has left the Empire exposed to invasion and corruption. Addressing these concerns, Senator Arissa Lavigny-Duval had these words for her constituents: 

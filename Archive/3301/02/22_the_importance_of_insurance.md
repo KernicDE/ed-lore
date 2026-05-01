@@ -4,8 +4,14 @@ title: The Importance of Insurance
 slug: the_importance_of_insurance
 date: '3301-02-22'
 source: GitHub
-summary: Commander Gui returned to Sol with a newly purchased Anaconda but, after equipping it, collided with an incoming Type 9. Without 4 million credits to cover the insurance excess, he was forced back to a budget Sidewinder, losing 80 million credits in a single incident. Commander Sheehy of The Reorte Chronicle warns all pilots to always check rebuy costs before launching, noting that 200,000 credits is insufficient to cover a premium vessel's replacement cost.
-player_impact: All pilots should verify their rebuy costs before undocking and maintain sufficient credits to cover insurance excess on their vessels.
+summary: Commander Gui returned to Sol with a newly purchased Anaconda but, after
+  equipping it, collided with an incoming Type 9. Without 4 million credits to cover
+  the insurance excess, he was forced back to a budget Sidewinder, losing 80 million
+  credits in a single incident. Commander Sheehy of The Reorte Chronicle warns all
+  pilots to always check rebuy costs before launching, noting that 200,000 credits
+  is insufficient to cover a premium vessel's replacement cost.
+player_impact: All pilots should verify their rebuy costs before undocking and maintain
+  sufficient credits to cover insurance excess on their vessels.
 persons:
 - Commander Gui
 - Commander Sheehy
@@ -15,10 +21,19 @@ locations:
 - Sol
 topics:
 - politics
-modern_impact: Commander Gui's costly mistake became a frequently cited cautionary tale about the importance of maintaining adequate insurance coverage.
+modern_impact: Commander Gui's costly mistake became a frequently cited cautionary
+  tale about the importance of maintaining adequate insurance coverage.
 legacy_weight: 1
 significance: low
+related_uuids:
+- 85c897b3-a050-5ace-946f-15310132c7dd
+- 1f71dbb5-7fd6-56c2-9803-6a7483b392f2
+- 9a67ca54-3a34-5ba0-b9f3-e8620c464b6a
+- 85cf9186-db93-5b83-9005-b93e35f40528
+- a32a7693-c60a-50fa-87d9-09447bb36976
+- b22bb690-c244-57c4-83a9-7df2aed19a60
 ---
+
 
 It’s been said before, but it's worth saying again. Remember to set aside credits for your insurance excess. 
 

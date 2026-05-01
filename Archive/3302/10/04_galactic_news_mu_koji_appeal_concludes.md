@@ -24,7 +24,13 @@ modern_impact: Successful pilot-led humanitarian relief for Federal-Imperial war
   demonstrates the galactic community's capacity for mutual aid.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 38dd5964-5e77-535a-bcde-b340f5cde111
+- f106e372-1066-55b9-9ba3-3b5d94443074
+- 6ac2e092-ea98-5484-b095-3ffb5688ce1e
+- b57317cc-d39a-5d38-86fb-8f6ac78483ab
 ---
+
 
 
 Last week, The Kalana Independents launched a relief campaign for the people of Mu Koji, Many of whom were displaced by the Federal-Imperial conflict that swept through the system in early September. Today, a spokesperson for the organisation announced that the galactic community had delivered huge quantities of aid relief to Bujold Enterprise, currently home of the system's refugees. 

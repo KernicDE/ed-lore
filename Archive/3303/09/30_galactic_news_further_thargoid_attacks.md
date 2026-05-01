@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 As Aegis’s first campaign to address The Thargoid threat concludes, reports have reached the core systems of further Thargoid attacks in the Pleiades. 
 
 On This occasion, a number of Imperial and civilian ships were targeted, With the strikes taking place in HIP 17225, HR 1185, IH-V C2-5 and the Pleiades Sector IR-W d1-55. The violence is believed to have resulted In a number of human fatalities. 

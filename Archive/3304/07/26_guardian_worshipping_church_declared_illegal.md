@@ -4,7 +4,12 @@ title: Guardian Worshipping Church Declared Illegal
 slug: guardian_worshipping_church_declared_illegal
 date: '3304-07-26'
 source: GitHub
-summary: The Church of Eternal Void is declared illegal in every system where it operates. Cardinal Hieronymous and senior members are arrested for inciting violence against the Far God sect. The death toll among Far God worshippers is now in the hundreds. Councillor Quinn Damico praises the declaration. Juanita Bishop condemns it as a perversion of justice. Dr Jameelah Griffin of the Galactic Interfaith Commune states the Far God sect is the victim, not the aggressor.
+summary: The Church of Eternal Void is declared illegal in every system where it operates.
+  Cardinal Hieronymous and senior members are arrested for inciting violence against
+  the Far God sect. The death toll among Far God worshippers is now in the hundreds.
+  Councillor Quinn Damico praises the declaration. Juanita Bishop condemns it as a
+  perversion of justice. Dr Jameelah Griffin of the Galactic Interfaith Commune states
+  the Far God sect is the victim, not the aggressor.
 player_impact: None
 persons:
 - Cardinal Hieronymous
@@ -20,13 +25,16 @@ topics:
 - alien contact
 - religion
 - crime
-modern_impact: The Church of Eternal Void's ban represents a rare government intervention against religious incitement, but also raises concerns about the state's role in regulating belief systems during wartime.
+modern_impact: The Church of Eternal Void's ban represents a rare government intervention
+  against religious incitement, but also raises concerns about the state's role in
+  regulating belief systems during wartime.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 166e5c41-db27-50de-a201-b4ba6503642b
 - 5b63a140-f545-5aa1-a7db-556be53ae92b
 ---
+
 
 The Church of Eternal Void, a fringe group that venerates the Guardians, has been declared illegal in Every system where it operates. 
 

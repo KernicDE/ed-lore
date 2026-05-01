@@ -4,7 +4,8 @@ title: Help Needed to Crack the NMLA’s Network
 slug: help_needed_to_crack_the_nmlas_network
 date: '3308-02-03'
 source: API
-summary: ACT launches a campaign to locate and decipher the NMLA's dark-comms network beacons.
+summary: ACT launches a campaign to locate and decipher the NMLA's dark-comms network
+  beacons.
 player_impact: Pilots were asked to locate and scan NMLA dark-comms network beacons.
 groups:
 - Imperial Internal Security Service
@@ -14,7 +15,9 @@ topics:
 - cyberattack
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: '"ACT has launched an effort to locate and decipher the NMLA''s dark-comms network." The Omega Grid investigation represents the final technical barrier to dismantling the NMLA''s entire operational infrastructure.'
+modern_impact: '"ACT has launched an effort to locate and decipher the NMLA''s dark-comms
+  network." The Omega Grid investigation represents the final technical barrier to
+  dismantling the NMLA''s entire operational infrastructure.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,6 +32,7 @@ related_uuids:
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
 ---
+
 
 **Pilots’ Federation ALERT**
 The Affiliated Counter-Terrorism unit has launched an effort to locate and decipher the NMLA’s dark-comms network.

@@ -43,7 +43,10 @@ significance: high
 related_uuids:
 - 41c28d5a-04ff-5c6b-ad15-8942c10d1cef
 - fc61ac94-0fd3-59ea-8fb4-140ec7aa7040
+- 92ab3791-b482-5d1a-9df1-31af570bc24b
+- ac92b027-9c2d-582d-af18-eac48e474be8
 ---
+
 
 
 The leaders of the Alliance, Empire and Federation have publicly confirmed their support for Azimuth Biotech’s anti-xeno operation in HIP 22460.

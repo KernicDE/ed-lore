@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Following The recent Aegis report detailing the Thargoids’ history, Many members of the Pilots Federation have made public statements. 
 
 “Everything is different now,” said One Commander. “It was disturbing enough when the Thargoids returned. To find out they’ve been around for millions of years, and that even the Guardians had trouble stopping them… It’s like being told that the ancient gods, the vengeful ones who smite from above, were real all along.” 

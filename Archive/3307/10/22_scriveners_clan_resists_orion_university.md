@@ -4,7 +4,9 @@ title: Scriveners Clan Resists Orion University
 slug: scriveners_clan_resists_orion_university
 date: '3307-10-22'
 source: API
-summary: The Scriveners Clan refuses to allow Orion University to take possession of their dredger, sealing airlocks and electrifying the hull to resist boarding attempts.
+summary: The Scriveners Clan refuses to allow Orion University to take possession
+  of their dredger, sealing airlocks and electrifying the hull to resist boarding
+  attempts.
 player_impact: None
 persons:
 - Casey Kilpatrick
@@ -13,10 +15,20 @@ groups:
 - Scriveners Clan
 topics:
 - exploration
-modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic institutions and the nomadic society that inhabits it.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
+  institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 111617dc-8948-5bee-803f-c4e0687be612
+- c088b0b5-f567-5c36-a53f-bfe840245090
+- 874dce92-6aa5-5398-9666-601f0f3192b5
+- c8933782-6917-568d-8b1c-f9e89c7c9c7c
+- 8d11dddf-b087-5b68-9945-af45e8953120
+- 9b5c7d9c-82e8-5050-ba09-ba7bbfb3c294
+- ac1bbb46-c78b-5615-a13e-50145a1e363c
 ---
+
 
 The spacefaring tribe that lives aboard an ancient Dredger has refused to allow Orion University to take possession of the Vessel.
 Vox Galactica published an eye-witness account by freelance reporter Casey Kilpatrick from the Oochost PC-C c29-0 system:

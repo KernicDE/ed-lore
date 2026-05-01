@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Sirius Corporation has helped provide commodities to sustain The Didio system during the ongoing Thargoid assault.
 Pilots transported multiple shipments of basic medicines, evacuation shelters and food cartridges to the megaship Chariot of Rhea in the Leesti system. These were then redirected to Didio and distributed wherever they were most urgently needed.

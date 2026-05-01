@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 The megaship Steel Majesty has arrived in the Mudhrid system after being taken over by NMLA terrorists.
 Its original owning faction, the Neo-Marlinist Order of Mudhrid, has officially reclaimed the Vessel. Margrave Corentin Delacroix, the faction’s new military ruler and the son of former Landgrave Arastin Delacroix, announced:
 “The Steel Majesty has returned home to fulfil its destiny. Be warned: should any ships attempt to board or attack, all the former crewmembers still onboard will be executed.”

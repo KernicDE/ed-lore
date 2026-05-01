@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 While medical teams across The galaxy work to develop The quantities of antidote needed to eliminate the Cerberus Plague, fresh outbreaks of the disease are appearing in Other systems. Our sources indicate that the following systems are currently affected by the Cerberus Plague: 
 
 Chongguls 

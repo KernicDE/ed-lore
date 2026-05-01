@@ -41,6 +41,7 @@ related_uuids:
 ---
 
 
+
 At The Galactic Summit, the infamous pirate leader Archon Delaine has demanded to be accepted As the legitimate leader of a political power.
 A gap in the schedule allowed him to make an address in the main conference chamber:
 “Most of you see me as a common criminal, rather than the rightful ruler of multiple systems. That must end now! My efforts to build a Kumo nation deserve respect. I am here to declare my sovereignty and take my rightful place on the political stage.”

@@ -4,8 +4,16 @@ title: Getting Serious About Tascheter
 slug: getting_serious_about_tascheter
 date: '3301-06-10'
 source: GitHub
-summary: Shadow President Felicia Winters began her tenure by challenging her former employer Sirius Corporation for influence in the Tascheter sector. Winters' media agents are spreading information packages in Oduduro to keep residents within the Federation. Meanwhile, Sirius Corporation representatives have been negotiating potential mergers with Akkadia Inc and Akkadia Crimson Allied Organisation in neighbouring Akkadia. Both powers have enjoyed success, but only one can become dominant in the sector. Relations remain cordial for now, but final preparations for a territorial showdown are underway.
-player_impact: Pilots can support either Winters' Federal campaign in Oduduro or Sirius Corp's corporate expansion in Akkadia.
+summary: Shadow President Felicia Winters began her tenure by challenging her former
+  employer Sirius Corporation for influence in the Tascheter sector. Winters' media
+  agents are spreading information packages in Oduduro to keep residents within the
+  Federation. Meanwhile, Sirius Corporation representatives have been negotiating
+  potential mergers with Akkadia Inc and Akkadia Crimson Allied Organisation in neighbouring
+  Akkadia. Both powers have enjoyed success, but only one can become dominant in the
+  sector. Relations remain cordial for now, but final preparations for a territorial
+  showdown are underway.
+player_impact: Pilots can support either Winters' Federal campaign in Oduduro or Sirius
+  Corp's corporate expansion in Akkadia.
 persons:
 - Felicia Winters
 - Li Yong-Rui
@@ -21,10 +29,19 @@ locations:
 topics:
 - corporate expansion
 - politics
-modern_impact: Winters-Sirius rivalry in Tascheter demonstrates the friction between Federal political interests and corporate expansion.
+modern_impact: Winters-Sirius rivalry in Tascheter demonstrates the friction between
+  Federal political interests and corporate expansion.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 42255e4f-788f-5ba1-b12d-b1209e5ee2ba
+- b8672130-0141-52f4-9188-4fe0efb5846b
+- 597f88bd-e1ae-5b50-8f2d-f12a66e8806f
+- 6f8da40a-d88c-5759-ab4f-f2c180ebc46d
+- 50cc2603-0e0e-5a65-959a-167768911425
+- 49a47621-2251-5f4e-a822-09e716459bdf
 ---
+
 
 It’s been a little over a week since Felicia Winters assumed control of The Federal Liberal Party, and it looks as if The Shadow President intends to start her time in office by taking on her ex-employer In a bid to stabilize the Federation’s interests in the Tascheter sector. 
 

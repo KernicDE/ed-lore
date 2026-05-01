@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 News of fresh cases of the Cerberus Plague has caused mass panic among the populations of Shepherd Hub in the Bastes System, Yegorov Station in the Maheou Ti system and Roddenberry Gateway in the Ochoeng system. Even though The number of cases reported so Far is relatively low, the medical services and hospitals have been overwhelmed by citizens desperate for treatment, despite not being infected. 
 
 Station authorities have appealed for calm and restricted movement to only the most essential travel. States of emergency have been declared and open contracts for urgent medical and aid supplies are being issued for these systems.

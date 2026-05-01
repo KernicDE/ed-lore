@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 Vox Galactica correspondent Jade Sanderlyn reports on the latest developments regarding the war against the Thargoids.
 “In the broad sense, there have been few significant changes in Thargoid tactics. The eight Maelstroms continue to send waves of Thargoid vessels deeper into the core systems. Anti-xeno forces are certainly winning victories, and in some cases retaking previously occupied systems. But we are still losing more than we save.”
 “Despite being reformed only recently, Aegis has hit the ground running. Its caustic sink launcher is now available following a successful trial by Aden Tanner. This ingenious device increases the amount of time that a ship can spend inside a Maelstrom before being impaired by corrosive damage.”

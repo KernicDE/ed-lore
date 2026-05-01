@@ -34,6 +34,7 @@ related_uuids:
 ---
 
 
+
 Early reports from The Maia system indicate that the Ant Hill Mob has delivered a significant blow to the Pleiades Resource Enterprise. The news comes less than 24 hours after the criminal organisation launched an operation to push the PRE out of Maia. 
 
 It is understood the Ant Hill Mob leveraged Its connections in Maia's criminal network to achieve its aims In a remarkably short amount of time. 

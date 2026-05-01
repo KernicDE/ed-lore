@@ -34,7 +34,9 @@ significance: high
 related_uuids:
 - 09a290af-4a3e-5721-bbf2-fd0474291d43
 - 50ccf185-d72b-5a92-8231-4509d2c4eb78
+- 0c05e71b-e415-5dc1-a738-497a08873330
 ---
+
 
 
 The Colonia Citizens Network has reported that fungal growths have been discovered on the airless world of Colonia 3 C A. 

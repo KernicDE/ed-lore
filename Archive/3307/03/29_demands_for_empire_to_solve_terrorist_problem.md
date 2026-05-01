@@ -45,6 +45,7 @@ related_uuids:
 ---
 
 
+
 The fear of Further starport bombings has placed internal and external pressure on the Empire to address the threat posed by the NMLA.
 Despite sharing intelligence via ACT, the Alliance and Federation have demanded that the Empire must do more to eradicate the NMLA, since it is ‘Imperial in origin and ambition’. 
 The latest developments were covered by mainstream media channels.

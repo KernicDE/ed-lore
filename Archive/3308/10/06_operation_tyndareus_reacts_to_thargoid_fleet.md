@@ -4,8 +4,10 @@ title: Operation Tyndareus Reacts to Thargoid Fleet
 slug: operation_tyndareus_reacts_to_thargoid_fleet
 date: '3308-10-06'
 source: API
-summary: The Alliance has deployed a reactionary task force to defend the Andecavi system from the Thargoids.
-player_impact: Independent pilots were called upon to destroy Thargoid vessels and claim combat bonds.
+summary: The Alliance has deployed a reactionary task force to defend the Andecavi
+  system from the Thargoids.
+player_impact: Independent pilots were called upon to destroy Thargoid vessels and
+  claim combat bonds.
 persons:
 - Nikolas Glass
 groups:
@@ -20,7 +22,9 @@ topics:
 - engineering
 - war
 arc_id: thargoid-titan-war
-modern_impact: '"The Thargoids have encroached upon Allied territory, providing an opportunity for Operation Tyndareus to put this new..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"The Thargoids have encroached upon Allied territory, providing an
+  opportunity for Operation Tyndareus to put this new..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,6 +34,7 @@ related_uuids:
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 ---
+
 
 **Pilots’ Federation ALERT**
 The Alliance has deployed a reactionary task force to defend the Andecavi system from the Thargoids.

@@ -28,7 +28,10 @@ significance: medium
 related_uuids:
 - da599585-03a5-51c5-a1bc-d9036309a78a
 - f61cdff2-8250-5433-95bc-fa598ef22001
+- 7cee99e6-a233-5a98-93c7-d56ff26319f4
+- c4f56a56-040b-5e13-ad76-4c8cbf376925
 ---
+
 
 
 The Colonia Council has announced that Its appeal for construction materials has reached a successful conclusion. Scores of pilots contributed to the campaign by delivering materials to Skvortsov Orbital, and by eliminating agitators in the 63 G. Capricorni system. The materials will be used to construct new outposts in the Colonia region to support a recent influx of immigrants. 

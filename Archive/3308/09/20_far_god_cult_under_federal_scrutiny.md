@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 The Order of the Far God is facing an official investigation and increased public maltreatment within the Federation.
 Freelance journalist Alexei Keel published a special report via Vox Galactica:
 “The Thargoid-worshipping cult has always been a controversial faith on Federal worlds. But it is currently causing a civil backlash of the sort not seen since 3304.”

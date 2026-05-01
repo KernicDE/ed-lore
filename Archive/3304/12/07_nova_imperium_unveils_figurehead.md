@@ -4,7 +4,11 @@ title: Nova Imperium Unveils Figurehead
 slug: nova_imperium_unveils_figurehead
 date: '3304-12-07'
 source: GitHub
-summary: Nova Imperium reveals Hadrian Augustus Duval, an eighteen-year-old man, as its choice for Emperor. Imperator Mordanticus claims Hadrian is the grandson of Emperor Hengist Duval, born from a brief affair with a slave. Cassia Carvalho of the Imperial Herald observes that this announcement has shaken the Empire and massively increased Nova Imperium's support.
+summary: Nova Imperium reveals Hadrian Augustus Duval, an eighteen-year-old man, as
+  its choice for Emperor. Imperator Mordanticus claims Hadrian is the grandson of
+  Emperor Hengist Duval, born from a brief affair with a slave. Cassia Carvalho of
+  the Imperial Herald observes that this announcement has shaken the Empire and massively
+  increased Nova Imperium's support.
 player_impact: None
 persons:
 - Hadrian Augustus Duval
@@ -18,7 +22,9 @@ groups:
 topics:
 - succession
 - politics
-modern_impact: The revelation of Hadrian Duval as a potential imperial heir fractures Imperial politics, galvanising hardliners and creating a credible rival to Emperor Arissa Lavigny-Duval.
+modern_impact: The revelation of Hadrian Duval as a potential imperial heir fractures
+  Imperial politics, galvanising hardliners and creating a credible rival to Emperor
+  Arissa Lavigny-Duval.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -27,7 +33,9 @@ related_uuids:
 - ffb9ecd2-59b8-5d12-932c-344d2f9e0b14
 - ee4ca040-662c-5763-b220-4db105a7fd77
 - bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
+- d0f3baf5-e680-57cb-afbc-811b16f0d1f3
 ---
+
 
 Isolationist group Nova Imperium has revealed Its choice for Emperor – an eighteen year old man named Hadrian Augustus Duval. 
 

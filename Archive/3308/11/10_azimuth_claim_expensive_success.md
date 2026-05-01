@@ -38,6 +38,7 @@ related_uuids:
 
 
 
+
 The recent Azimuth Biotech initiative to expand its operation assets has been described as a ‘partial success’.
 A primary goal of obtaining sufficient resources to establish a new anti-xeno megaship has been met, Azimuth CEO Torben Rademaker announced. The megaship is expected to be operational within the next few weeks.
 Opponents of the weapons research corporation, seeking to disrupt the campaign, mobilised forces to engage Azimuth security vessels. While unable to prevent sufficient deliveries from reaching the Musashi, it is thought these pilots inflicted significant losses on the Azimuth fleet.

@@ -4,7 +4,11 @@ title: Week in Review
 slug: week_in_review
 date: '3304-09-09'
 source: GitHub
-summary: Weekly summary covering the Alliance Assembly's agreement to vote on Kincaid's constitutional changes, the fire destroying Supratech's facility, increased FIA arrests of Thargoid sympathisers and missing Far God worshippers, the Gnosis being stranded after Thargoid hyperdiction, the Mars Tribune's exposé of Tomas Turai's affair, and the successful Far God materials campaign.
+summary: Weekly summary covering the Alliance Assembly's agreement to vote on Kincaid's
+  constitutional changes, the fire destroying Supratech's facility, increased FIA
+  arrests of Thargoid sympathisers and missing Far God worshippers, the Gnosis being
+  stranded after Thargoid hyperdiction, the Mars Tribune's exposé of Tomas Turai's
+  affair, and the successful Far God materials campaign.
 player_impact: None
 persons:
 - Reegan Tanner
@@ -35,7 +39,8 @@ topics:
 - research
 - politics
 - religion
-modern_impact: This week sees political, corporate, and existential crises converging across the galaxy, from constitutional challenges to Thargoid attacks and mass disappearances.
+modern_impact: This week sees political, corporate, and existential crises converging
+  across the galaxy, from constitutional challenges to Thargoid attacks and mass disappearances.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -46,6 +51,7 @@ related_uuids:
 - bf7e0803-3232-5106-beda-5e9cbfd0234e
 - b280e325-1aa5-5bb7-98d4-e8391cbe9f45
 ---
+
 
 Here are This week’s major stories. 
 

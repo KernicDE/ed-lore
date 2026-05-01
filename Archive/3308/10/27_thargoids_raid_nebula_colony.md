@@ -4,8 +4,10 @@ title: Thargoids Raid Nebula Colony
 slug: thargoids_raid_nebula_colony
 date: '3308-10-27'
 source: API
-summary: The human enclave within the California Nebula has reported multiple attacks from Thargoid forces.
-player_impact: This article focuses on political and strategic developments without direct pilot involvement.
+summary: The human enclave within the California Nebula has reported multiple attacks
+  from Thargoid forces.
+player_impact: This article focuses on political and strategic developments without
+  direct pilot involvement.
 persons:
 - Harrison Gladstone
 groups:
@@ -20,7 +22,9 @@ topics:
 - research
 - war
 arc_id: null
-modern_impact: '"We’re accustomed to the Thargoid encounters in the California nebula, but this time their aggression caught everyone ..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"We’re accustomed to the Thargoid encounters in the California nebula,
+  but this time their aggression caught everyone ..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,6 +34,7 @@ related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
 ---
+
 
 The human enclave within the California Nebula has reported multiple attacks from Thargoid forces.
 Systems such as California Sector CQ-Y c5 and HIP 18077 have experienced direct assaults by large numbers of Thargoid vessels. Megaships in the area have also been attacked and left in disrepair, with surviving crews activating distress signals.

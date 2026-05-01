@@ -28,7 +28,11 @@ significance: low
 related_uuids:
 - 47fc5e89-7923-5c13-b489-b820ba458fc9
 - cd6b06fb-bcc9-5e09-9d74-2728b8bfc2d2
+- fada10ab-0ee9-59bc-a16d-aa4b916dc65c
+- 0642021a-d959-5326-abea-d4b49f2e7cba
+- 22b87e2c-8a92-5f33-b064-7a3b9cbc544c
 ---
+
 
 
 The spectre of President Halsey’s disappearance in Starship One refuses to die down. Despite the findings of the official report some claim that the matter is Far from closed. One such person is self-proclaimed conspiracy expert Ricardo Bentonio on his investigative show ‘The Hidden World’: 

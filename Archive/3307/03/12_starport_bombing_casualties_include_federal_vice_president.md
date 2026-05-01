@@ -55,6 +55,7 @@ related_uuids:
 
 
 
+
 Vice President Brad Mitchell and a number of Federal Cabinet members have been killed in The recent terrorist attack on a starport orbiting Earth.
 The NMLA planted caustic enzyme explosives at Li Qing Jao station, where a government meeting was taking place. The VP and Cabinet members were confirmed to be among tens of thousands of casualties. Eight Other starports across All three superpowers were simultaneously bombed.
 President Zachary Hudson, who was attending the Galactic Summit during the attack, made This statement:

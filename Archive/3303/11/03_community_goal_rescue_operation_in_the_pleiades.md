@@ -36,6 +36,7 @@ related_uuids:
 ---
 
 
+
 Cooper Research Associates have launched a rescue operation to recover personal effects, data and people from Thargoid attack sites in the Pleiades Nebula. 
 
 The organisation has promised to reward pilots who deliver occupied escape pods, damaged escape pods, black boxes and personal effects to the search-and-rescue contact at The Oracle in the Pleiades Sector IR-W d1-55 system. 

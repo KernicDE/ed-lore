@@ -27,7 +27,11 @@ significance: medium
 related_uuids:
 - ca908b27-e8c1-5bce-985a-0f8b62da6ff4
 - dc81405a-14e2-5106-a93f-c2a5005a7a7e
+- 5b0343b9-7345-5fdb-a814-eea9cbf64edf
+- 23d548cc-bd29-5d89-b517-9921f31fce79
+- 30ace67b-8ecf-51dc-a9c9-5060d2c97ebc
 ---
+
 
 
 Authorities in The Merope system have reported conflict between the Pleiades Resource Enterprise, a Federal organisation, and the Merope Expeditionary Fleet, an Imperial organisation. The clash represents the latest development in the ongoing proxy war between the Empire and the Federation. 

@@ -35,6 +35,7 @@ related_uuids:
 ---
 
 
+
 Aegis has constructed two megaships, The Acropolis and the Vanguard, to help counter the Thargoid threat.  
 
 The announcement came from Admiral Aden Tanner, who explained the ships’ purpose: 

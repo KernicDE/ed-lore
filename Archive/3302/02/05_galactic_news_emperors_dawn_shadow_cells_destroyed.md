@@ -31,7 +31,11 @@ significance: high
 related_uuids:
 - fb893320-5889-549c-b812-e3662c87a633
 - fde8e3a1-96f1-57f5-bdaa-3834f8c8ee62
+- 619fd1d7-735f-5cf4-8e4e-b021f92da92a
+- 5eae6c0f-363b-556f-9f8b-ddcc68e2bc70
+- 279ed579-0309-50e4-909c-c1cc6e928a3a
 ---
+
 
 
 Imperial Senator Denton Patreus has confirmed that The Emperor's Dawn 'shadow' cells discovered two weeks ago in the Dakshmandi, Ipilyaqa and Ch'i Lin systems have been destroyed. Thousands of Independent pilots responded to the senator's call to arms, resulting in the total destruction of what are thought to be the last remaining Emperor's Dawn outposts. Following the victory, Senator Patreus released a statement to the media: 

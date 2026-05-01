@@ -4,8 +4,14 @@ title: Engineers Established in Colonia
 slug: engineers_established_in_colonia
 date: '3304-08-29'
 source: GitHub
-summary: The Colonia Council announces four engineers have established bases in the Colonia region to provide services to independent pilots. Councillor Giselle Kingspear introduces Mel Brandon in Luchtaine (laser armaments, shields, engines, FSD), Etienne Dorn in the Los system (sensors, scanners, high-energy weapons), Petra Olmanova in the Asura system (armour, countermeasures, explosives), and Marsha Hicks in the Tir system (ballistic weapons, fuel scoops, refineries, limpets).
-player_impact: Pilots can now visit these four engineers in the Colonia region for ship upgrades.
+summary: The Colonia Council announces four engineers have established bases in the
+  Colonia region to provide services to independent pilots. Councillor Giselle Kingspear
+  introduces Mel Brandon in Luchtaine (laser armaments, shields, engines, FSD), Etienne
+  Dorn in the Los system (sensors, scanners, high-energy weapons), Petra Olmanova
+  in the Asura system (armour, countermeasures, explosives), and Marsha Hicks in the
+  Tir system (ballistic weapons, fuel scoops, refineries, limpets).
+player_impact: Pilots can now visit these four engineers in the Colonia region for
+  ship upgrades.
 persons:
 - Giselle Kingspear
 - Mel Brandon
@@ -24,13 +30,16 @@ locations:
 topics:
 - engineering
 - ship
-modern_impact: The establishment of four engineers in Colonia represents a major milestone in the settlement's development, providing essential ship customisation services and reducing the need for pilots to return to the core systems.
+modern_impact: The establishment of four engineers in Colonia represents a major milestone
+  in the settlement's development, providing essential ship customisation services
+  and reducing the need for pilots to return to the core systems.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 249a170f-066b-542f-9e3d-757e4e249409
 - 46b722c9-bfdf-5a23-acbf-4a2b7bb177fa
 ---
+
 
 The Colonia Council has announced that four engineers have established bases in the Colonia region, to provide services to Independent pilots. 
 

@@ -30,7 +30,9 @@ significance: medium
 related_uuids:
 - d94ecb15-0ec2-5d1d-a0cf-f8fe10e9fada
 - f6c12601-b292-5356-9311-0ee90c473048
+- 006f9c9b-a066-52c5-b468-9dcfda6f4d43
 ---
+
 
 
 The fighting has been fierce in the Lugh system This past weekend. Hundreds of thousands of ships have been shot down and millions have lost their lives in the opening salvo of the war. 

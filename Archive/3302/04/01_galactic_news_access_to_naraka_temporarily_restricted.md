@@ -4,7 +4,9 @@ title: Galactic News  Access to Naraka Temporarily Restricted
 slug: galactic_news_access_to_naraka_temporarily_restricted
 date: '3302-04-01'
 source: GitHub
-summary: Universal Cartographics addresses the confusion caused by two systems both named 'Naraka' by temporarily restricting access to one and renaming it. The move is not universally welcomed by local residents.
+summary: Universal Cartographics addresses the confusion caused by two systems both
+  named 'Naraka' by temporarily restricting access to one and renaming it. The move
+  is not universally welcomed by local residents.
 player_impact: None
 groups:
 - Universal Cartographics
@@ -17,7 +19,14 @@ topics:
 modern_impact: Notable exploration achievement.
 legacy_weight: 2
 significance: low
+related_uuids:
+- a47d7bf5-628d-5359-9d28-f17141898410
+- 6d7c0e73-f33f-50b0-9ccf-ff97b2ef4c58
+- 9307ff89-10ea-5b2e-9eaa-6ddefc9f13b8
+- d414c438-0d78-5b20-a6d3-9577a9d83973
+- fd85ba23-a6c4-5029-a23d-44f4e58b6f3e
 ---
+
 
 For some, Naraka is a system Located in The Hydrae Sector, but for others, it's a system situated between Pi-Fang and Eranin. That's because there are two systems that bear the name 'Naraka'. 
 

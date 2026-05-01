@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Independent journalist Chukwuma Grant has published an article on peace activist and former Federal President Jasmina Halsey. Grant has described The report as a wide-ranging analysis that addresses “the political impact of a politician renouncing politics”. 
 
 Key extracts from the article are reprinted below: 

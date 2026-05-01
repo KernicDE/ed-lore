@@ -4,7 +4,9 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-08'
 source: GitHub
-summary: Weekly summary covering League of Reparation raids, the Thargoid fifth column theory, Jordan Rochester's profile, Olav Redcourt's book tour, the Didiomanja Emperor's Grace Academy inauguration, and the conclusion of the Colonia scientific campaign.
+summary: Weekly summary covering League of Reparation raids, the Thargoid fifth column
+  theory, Jordan Rochester's profile, Olav Redcourt's book tour, the Didiomanja Emperor's
+  Grace Academy inauguration, and the conclusion of the Colonia scientific campaign.
 player_impact: None
 persons:
 - Niamh Seutonia
@@ -38,7 +40,8 @@ topics:
 - research
 - terrorism
 - culture
-modern_impact: This week spans terrorism, conspiracy theories, political profiles, and cultural events, reflecting the diverse concerns of galactic society.
+modern_impact: This week spans terrorism, conspiracy theories, political profiles,
+  and cultural events, reflecting the diverse concerns of galactic society.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -48,7 +51,9 @@ related_uuids:
 - 61ada39b-bdd2-5029-a989-f48da75d0d50
 - 0313bbef-6e3f-5e5f-84f8-bdbb81d971f9
 - ce4bd32c-e1cd-55e9-a220-4f15c711f86d
+- 371d6aa9-c585-5cde-b8b1-08e37a3e3e26
 ---
+
 
 Here are This week’s major stories. 
 

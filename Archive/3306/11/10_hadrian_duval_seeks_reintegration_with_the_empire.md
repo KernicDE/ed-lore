@@ -25,7 +25,9 @@ significance: high
 related_uuids:
 - 7ce9b237-f40e-53f1-b0e7-84eb59eb3647
 - 82f4bc2c-cac8-5b5a-8691-1dd634d3fc82
+- d0f3baf5-e680-57cb-afbc-811b16f0d1f3
 ---
+
 
 
 Imperator Hadrian Augustus Duval has recovered from an assassination attempt and signalled a new direction for Nova Imperium. 

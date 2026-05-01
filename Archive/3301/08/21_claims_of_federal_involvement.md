@@ -4,7 +4,12 @@ title: Claims of Federal Involvement
 slug: claims_of_federal_involvement
 date: '3301-08-21'
 source: GitHub
-summary: Some paranoid Imperial citizens suspect the Federation was behind Emperor Hengist Duval's assassination. No authority takes these claims seriously, but unanswered questions fuel unrest among mourners on Capitol. Most consider the idea of the Federation risking all-out war far-fetched. Conspiracy theorist Ricardo Bentonio claims the Emperor is not dead but his human host was transformed, and the being known as Hengist Duval returned to the Andromeda galaxy.
+summary: Some paranoid Imperial citizens suspect the Federation was behind Emperor
+  Hengist Duval's assassination. No authority takes these claims seriously, but unanswered
+  questions fuel unrest among mourners on Capitol. Most consider the idea of the Federation
+  risking all-out war far-fetched. Conspiracy theorist Ricardo Bentonio claims the
+  Emperor is not dead but his human host was transformed, and the being known as Hengist
+  Duval returned to the Andromeda galaxy.
 player_impact: None
 persons:
 - Hengist Duval
@@ -16,10 +21,20 @@ locations:
 topics:
 - conspiracy
 - succession
-modern_impact: Conspiracy theories about Federal involvement and alien transformation circulate following the Emperor's assassination.
+modern_impact: Conspiracy theories about Federal involvement and alien transformation
+  circulate following the Emperor's assassination.
 legacy_weight: 1
 significance: low
+related_uuids:
+- d420f921-77e2-5630-9691-b07373f527f1
+- db53c226-90a8-53f7-bc58-d008935f347b
+- 851a00f1-7638-598a-bfd2-76d4c7c2972e
+- 1a402d25-6d25-5d43-b035-af4f364f323d
+- 56b718e2-4c9f-5664-b63e-9f87139379fe
+- 0642021a-d959-5326-abea-d4b49f2e7cba
+- 22b87e2c-8a92-5f33-b064-7a3b9cbc544c
 ---
+
 
 With the long history of conflict between The superpowers, it is not unexpected that some of The more paranoid members of the Imperial population have directed their suspicions concerning the Emperor’s assassination at the Federation. While no-One in authority within the Empire takes these claims seriously, some of the citizens and lower members of Imperial society wonder that if the claims aren’t true, then why don’t those in charge simply say so? 
 

@@ -39,6 +39,7 @@ related_uuids:
 ---
 
 
+
 Former President Jasmina Halsey has joined The Federal Diplomatic Corps to become an ambassador to the Alliance. 
 In recent years Halsey served as an advisor to Prime Minister Mahon, but returned to the Federation in January to stand as a witness in the Starship One trial. She was a guest of Shadow President Felicia Winters at the Galactic Summit, and both were evacuated back to Mars when it was cancelled.
 At a press conference, Ambassador Halsey said:

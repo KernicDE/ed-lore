@@ -1,5 +1,4 @@
 ---
-
 uuid: e0e261c9-8ee8-5989-a55d-e63a3e67ab9d
 title: A Distant Rendezvous – 43,000 Light Years from Home
 slug: a_distant_rendezvous_43000_light_years_from_home
@@ -26,7 +25,10 @@ modern_impact: Historic deep space rendezvous that inspired explorers and demons
   the viability of extreme long-range expeditions.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 3c42ea38-6fce-5d52-a67a-475c55b87d22
 ---
+
 
 
 On The fringe of The Scutum-Centaurus Arm, on the Far side of the galaxy, two lone deep space explorers rendezvoused at a Star system called EACTAINDS GN-W C1-6. 

@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 The postponement of the election for a new prime minister has led to widespread public disorder across Alliance systems.
 The Alliance Assembly vote was scheduled for Thursday the 25th of February. This date clashed With the start of the Galactic Summit, causing incumbent Prime Minister Edmund Mahon to propose that the election be delayed for three months.
 On Many Alliance worlds, large-scale protest marches have placed pressure on local police forces. Some civil leaders have condemned Mahon for using the diplomatic conference as an excuse to extend his term of office.

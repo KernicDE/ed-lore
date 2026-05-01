@@ -38,7 +38,12 @@ significance: high
 related_uuids:
 - b0c46789-3a5c-5a2b-9164-53ec249b2650
 - fc7e283c-7f21-59e2-ab99-16941d424548
+- ae999b3f-f43e-54a3-a6e1-4a908026aa57
+- d110815c-1a54-5fd8-bec0-4f2b78aab73e
+- 0c6eb69b-2530-558a-856f-66e86f6d5756
+- 4b999aae-0e94-540f-a7aa-d1ef91f178de
 ---
+
 
 
 It has been almost 48 hours since The disappearance of Starship One. Early reports indicated that The ship was lost With all hands, and in This instance GalNet is pleased to announce that the early reports were mistaken. Three ships from Starship One’s Guardian Wing made contact With Navy HQ shortly after the initial disappearance. Unfortunately, they were not able to shed any light on the ultimate fate of Starship One.  

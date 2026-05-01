@@ -27,7 +27,9 @@ significance: medium
 related_uuids:
 - 17109670-f27f-5ffd-8e5f-fd13bfa001c0
 - 2d11a9fd-f113-5a87-8c08-c03b302f8076
+- 4e3b073a-562f-591a-a980-a91838aa35ff
 ---
+
 
 
 After Shadow President Hudson’s scathing attack on President Halsey earlier This morning, Vice President Naylor has sworn to continue his support of President Halsey. 

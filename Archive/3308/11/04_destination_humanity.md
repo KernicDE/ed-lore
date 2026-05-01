@@ -4,8 +4,10 @@ title: 'Destination: Humanity'
 slug: destination_humanity
 date: '3308-11-04'
 source: API
-summary: It has been confirmed that the mysterious anomalies known as rogue signal sources are all converging on the core systems.
-player_impact: Independent pilots were encouraged to participate in the unfolding events.
+summary: It has been confirmed that the mysterious anomalies known as rogue signal
+  sources are all converging on the core systems.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
 persons:
 - Ishmael Palin
 - Ram Tah
@@ -19,7 +21,9 @@ topics:
 - exploration
 - research
 arc_id: null
-modern_impact: '"The first of these distant objects was detected on the 31st of August 3308, but several more have since been identifi..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"The first of these distant objects was detected on the 31st of August
+  3308, but several more have since been identifi..." This perspective highlights
+  the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -29,6 +33,7 @@ related_uuids:
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 ---
+
 
 **Pilots’ Federation ALERT**
 It has been confirmed that the mysterious anomalies known as rogue signal sources are all converging on the core systems.

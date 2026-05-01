@@ -4,8 +4,12 @@ title: Galactic News  Appeal for Ancient Data Concludes
 slug: galactic_news_appeal_for_ancient_data_concludes
 date: '3302-11-10'
 source: GitHub
-summary: United Meene Labour announced that its appeal for data from the Synuefe ruins was enthusiastically received, resulting in a massive influx of deliveries to Felice Dock. Engineer Ram Tah, who is leading the research, expressed gratitude and vowed to protect the site from exploitation.
-player_impact: Pilots who contributed to the initiative can collect their rewards from Felice Dock in the Meene system.
+summary: United Meene Labour announced that its appeal for data from the Synuefe ruins
+  was enthusiastically received, resulting in a massive influx of deliveries to Felice
+  Dock. Engineer Ram Tah, who is leading the research, expressed gratitude and vowed
+  to protect the site from exploitation.
+player_impact: Pilots who contributed to the initiative can collect their rewards
+  from Felice Dock in the Meene system.
 persons:
 - Ram Tah
 groups:
@@ -18,10 +22,19 @@ topics:
 - research
 - war
 technologies: []
-modern_impact: The successful data appeal for the Synuefe ruins provided Ram Tah with extensive material to study the ancient civilization while raising awareness about protecting archaeological sites.
+modern_impact: The successful data appeal for the Synuefe ruins provided Ram Tah with
+  extensive material to study the ancient civilization while raising awareness about
+  protecting archaeological sites.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 6f0f3a03-39ad-5c66-aad8-2ba57135138c
+- d6dce107-e71e-5eac-9816-807e7d746de1
+- 12035fad-cd3c-596b-9151-50ca6b8a95fd
+- a43cc680-aca7-5e5d-ad8c-6916d5893a8c
+- e72e1e8b-fc8d-5bfc-9c4b-cff7902f6752
 ---
+
 
 A spokesperson for United Meene Labour has announced that Its appeal for data from The Synuefe ruins has been enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Felice Dock, the organisation's base of operations. 
 

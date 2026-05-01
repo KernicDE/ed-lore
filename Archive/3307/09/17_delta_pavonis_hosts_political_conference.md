@@ -26,7 +26,9 @@ significance: low
 related_uuids:
 - 5af4968e-4b6b-5c03-b67f-1fc47cf6506a
 - bd87f0fa-dc2d-5690-99a0-51fe2e25923b
+- 7be8b6c0-0dd1-5013-94be-5e1a3d4561f6
 ---
+
 
 
 Delegations from The Federation and the dictator Yuri Grom are meeting to determine the Delta Pavonis system’s future.

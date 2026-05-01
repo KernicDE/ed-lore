@@ -4,15 +4,19 @@ title: New Maelstroms Increase Thargoid Conquests
 slug: new_maelstroms_increase_thargoid_conquests
 date: '3308-12-01'
 source: API
-summary: Two more rogue signal sources have reached human space, wreaking similar destruction to the Taranis Maelstrom.
-player_impact: Independent pilots were encouraged to participate in the unfolding events.
+summary: Two more rogue signal sources have reached human space, wreaking similar
+  destruction to the Taranis Maelstrom.
+player_impact: Independent pilots were encouraged to participate in the unfolding
+  events.
 locations:
 - HIP 8887
 topics:
 - alien contact
 - humanitarian
 arc_id: null
-modern_impact: '"Two more rogue signal sources have reached human space, wreaking similar destruction to the Taranis Maelstrom." The relentless expansion of Thargoid forces redefined the scale of the Second Thargoid War.'
+modern_impact: '"Two more rogue signal sources have reached human space, wreaking
+  similar destruction to the Taranis Maelstrom." The relentless expansion of Thargoid
+  forces redefined the scale of the Second Thargoid War.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -22,6 +26,7 @@ related_uuids:
 - 4d3d1411-525f-5642-bd6d-5d318f185635
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 ---
+
 
 **Pilots’ Federation ALERT**
 Two more rogue signal sources have reached human space, wreaking similar destruction to the Taranis Maelstrom.

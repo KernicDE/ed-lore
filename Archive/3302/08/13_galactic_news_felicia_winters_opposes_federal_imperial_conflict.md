@@ -29,7 +29,10 @@ significance: high
 related_uuids:
 - 5b6c21df-96dd-53ef-bc3f-c12ea9c4838e
 - 852c56a7-81c2-56dc-8430-7795549ad4d9
+- e79f3bf9-8198-5916-8659-119c80ba16e5
+- 2a4bea4d-a55f-5cdc-89a1-a1362c3306f4
 ---
+
 
 
 At a rally on Mars in The Sol system, Federal Shadow President Felicia Winters has addressed the escalating tension between the Federation and the Empire. 

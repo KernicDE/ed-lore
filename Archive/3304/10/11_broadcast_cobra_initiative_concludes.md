@@ -4,8 +4,12 @@ title: Broadcast Cobra Initiative Concludes
 slug: broadcast_cobra_initiative_concludes
 date: '3304-10-11'
 source: GitHub
-summary: Broadcast Cobra announces the successful conclusion of its commodity appeal for megaship construction. Vast quantities of thorium, indium, and superconductors were delivered to Sopwith Dock in the HIP 16038 system. Alessandra Koa thanks supporters and states the organisation hopes listeners will always be tuned in.
-player_impact: Contributing pilots can collect rewards from Sopwith Dock in the HIP 16038 system.
+summary: Broadcast Cobra announces the successful conclusion of its commodity appeal
+  for megaship construction. Vast quantities of thorium, indium, and superconductors
+  were delivered to Sopwith Dock in the HIP 16038 system. Alessandra Koa thanks supporters
+  and states the organisation hopes listeners will always be tuned in.
+player_impact: Contributing pilots can collect rewards from Sopwith Dock in the HIP
+  16038 system.
 persons:
 - Alessandra Koa
 groups:
@@ -16,12 +20,15 @@ locations:
 topics:
 - construction
 - trade
-modern_impact: The successful megaship funding campaign establishes Broadcast Cobra as a major independent media entity with the capability to reach frontier systems beyond traditional broadcast ranges.
+modern_impact: The successful megaship funding campaign establishes Broadcast Cobra
+  as a major independent media entity with the capability to reach frontier systems
+  beyond traditional broadcast ranges.
 legacy_weight: 2
 significance: low
 related_uuids:
 - af8f68f5-e131-5d4a-84de-c33d74e80132
 ---
+
 
 Broadcast Cobra has announced that Its appeal for commodities has reached a successful conclusion, having received an overwhelming response from The galactic community.  
 

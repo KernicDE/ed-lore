@@ -4,8 +4,14 @@ title: Reorte Liberated by the Alliance
 slug: reorte_liberated_by_the_alliance
 date: '3301-04-26'
 source: GitHub
-summary: After three weeks of operations, the Alliance Elite Diplomatic Corps returned control of Reorte to an Alliance-aligned faction. A pirate group had attempted to rename the Lave Cluster the 'New Caribbean', but undercover AEDC agents worked with local groups to prepare for a swift retaking of Davies High. Alliance approval in Reorte now stands at 93%. In Lave, Alliance faction influence exceeds 80%. Attention now turns to Leesti as the next target for Alliance reclamation.
-player_impact: Pilots supported the Alliance recapture of Reorte. Alliance forces may soon move on Leesti to complete Old Worlds reclamation.
+summary: After three weeks of operations, the Alliance Elite Diplomatic Corps returned
+  control of Reorte to an Alliance-aligned faction. A pirate group had attempted to
+  rename the Lave Cluster the 'New Caribbean', but undercover AEDC agents worked with
+  local groups to prepare for a swift retaking of Davies High. Alliance approval in
+  Reorte now stands at 93%. In Lave, Alliance faction influence exceeds 80%. Attention
+  now turns to Leesti as the next target for Alliance reclamation.
+player_impact: Pilots supported the Alliance recapture of Reorte. Alliance forces
+  may soon move on Leesti to complete Old Worlds reclamation.
 persons: []
 groups:
 - Alliance Elite Diplomatic Corps
@@ -21,10 +27,18 @@ topics:
 - diplomacy
 - piracy
 - war
-modern_impact: The Alliance's successful reclamation of Reorte demonstrated the effectiveness of coordinated diplomatic and military operations in the Old Worlds.
+modern_impact: The Alliance's successful reclamation of Reorte demonstrated the effectiveness
+  of coordinated diplomatic and military operations in the Old Worlds.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 1c9c7836-bdad-5e5d-911a-35fb9c4d5b73
+- 460a7068-a7a1-55fc-a73b-35c3a7fcd6e0
+- d053a0f6-8748-5beb-9cde-eadde89d5778
+- 148bcbc5-bd79-5fbf-ab67-4020c24a0ca8
+- abb3e733-92c5-5ffa-a45d-9a084459d500
 ---
+
 
 After 3 weeks of intense activity in The Lave Cluster, The Alliance Elite Diplomatic Corps (AEDC) has managed to return control of Reorte to an Alliance aligned faction. 
 

@@ -38,6 +38,7 @@ related_uuids:
 ---
 
 
+
 **Pilots’ Federation ALERT**
 Deliveries to the Rabh system will help mass-produce a pulse wave xeno scanner which can analyse Thargoid Titans.
 Dr Maximo Fonseca, the Allied scientific liaison to Aegis, outlined the initiative:

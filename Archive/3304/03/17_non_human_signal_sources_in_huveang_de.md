@@ -29,6 +29,7 @@ related_uuids:
 ---
 
 
+
 Local security services in The Huveang De system have announced today that there have been no new sightings of Thargoids over the last 24 hours.  
 
 The head of local security forces released The following statement: 

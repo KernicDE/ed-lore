@@ -28,6 +28,7 @@ related_uuids:
 ---
 
 
+
 The Proactive Detection Bureau has been instrumental in identifying violent corporatist extremists within the Federation.
 Deputy Director Bethany Blake of the Federal Intelligence Agency gave a statement to the media:
 “In recent weeks, Our surveillance algorithms flagged a series of coded communications for investigation. We Found that a network of radicalised citizens were discussing plans to assassinate members of Congress and leading political figures.”

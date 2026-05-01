@@ -33,7 +33,9 @@ significance: high
 related_uuids:
 - 08093e0a-337f-5a0b-984b-9d38cfe754f7
 - e5d28e93-7d7a-5fab-bc03-f67cf62e7427
+- fb63c2c1-0ae1-571e-b259-64552a8d4ba3
 ---
+
 
 
 Although the first hints of the Thargoid presence began With the discovery of Unknown Artefacts in 3301, the current chapter in the Thargoid story started last year With the discovery of alien shipwrecks in the Pleiades Nebula. A few months later, in January 3303, the first interdiction from a Thargoid ship was reported. 

@@ -4,7 +4,10 @@ title: Week in Review
 slug: week_in_review
 date: '3304-07-22'
 source: GitHub
-summary: Weekly summary covering Riri McAllister being unmasked as Nexus and framing Admiral Varma, the hunt for League strongholds in Zibal and Ienpalang, Aisling Duval's interview with Solomon Helios, violence against the Far God cult, discovery of a WWIII nuclear missile in the Pacific, and Cobra Wing's successful Ebor outpost campaign.
+summary: Weekly summary covering Riri McAllister being unmasked as Nexus and framing
+  Admiral Varma, the hunt for League strongholds in Zibal and Ienpalang, Aisling Duval's
+  interview with Solomon Helios, violence against the Far God cult, discovery of a
+  WWIII nuclear missile in the Pacific, and Cobra Wing's successful Ebor outpost campaign.
 player_impact: None
 persons:
 - Riri McAllister
@@ -44,7 +47,8 @@ topics:
 - crime
 - history
 - religion
-modern_impact: This week spans terrorism revelations, religious violence, political interviews, and historical discoveries, illustrating the breadth of galactic affairs.
+modern_impact: This week spans terrorism revelations, religious violence, political
+  interviews, and historical discoveries, illustrating the breadth of galactic affairs.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -55,6 +59,7 @@ related_uuids:
 - d5e38d22-4fdf-50d4-9487-5f7c5162d42a
 - dd4a0b64-612b-5b42-9631-72d2dc9f5d9d
 ---
+
 
 Here are This week’s major stories. 
 

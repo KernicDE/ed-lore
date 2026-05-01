@@ -33,6 +33,7 @@ related_uuids:
 ---
 
 
+
 Two weeks ago it was reported that Jaques Station, The legendary travelling starport, had survived Its attempt to jump from Gliese 1269 to Beagle Point. 
 
 Unfortunately, however, the starport's location could not be verified due to problems With its communication systems. Fragmentary messages, picked up by a number of outposts, gave hints as to what had befallen the station, But the incomplete nature of the messages left recipients with no clear idea of where it might be. 

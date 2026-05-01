@@ -4,7 +4,12 @@ title: Far God Cult under Investigation
 slug: far_god_cult_under_investigation
 date: '3304-08-04'
 source: GitHub
-summary: The Federal Intelligence Agency launches an investigation into the Far God cult, arresting several members for interrogation. Senior Agent Micah Whitefield states the FIA must confirm the sect is not in contact with Thargoid forces. Footage shows armed Federal troops forcing entry into hive-chapels, with some citizens shielding worshippers while others cheer. Juanita Bishop claims the cultists are Thargoid spies who should have been executed weeks ago.
+summary: The Federal Intelligence Agency launches an investigation into the Far God
+  cult, arresting several members for interrogation. Senior Agent Micah Whitefield
+  states the FIA must confirm the sect is not in contact with Thargoid forces. Footage
+  shows armed Federal troops forcing entry into hive-chapels, with some citizens shielding
+  worshippers while others cheer. Juanita Bishop claims the cultists are Thargoid
+  spies who should have been executed weeks ago.
 player_impact: None
 persons:
 - Micah Whitefield
@@ -17,7 +22,9 @@ topics:
 - alien contact
 - investigation
 - religion
-modern_impact: The FIA's investigation marks the beginning of systematic persecution of the Far God cult, dividing public opinion and setting the stage for escalating arrests and civil liberties violations.
+modern_impact: The FIA's investigation marks the beginning of systematic persecution
+  of the Far God cult, dividing public opinion and setting the stage for escalating
+  arrests and civil liberties violations.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -26,6 +33,7 @@ related_uuids:
 - d9093b90-7659-5e5b-ac01-e545fe66530b
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
+
 
 The Federal Intelligence Agency has launched an investigation into the Far God cult. Several members of the sect have been arrested for interrogation. 
 

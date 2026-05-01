@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 Three weeks ago, The Federation ignited controversy With Its decision to establish a series of outposts in the Pleiades sector. The development triggered a decisive response from Empire-aligned pilots, who made repeated attempts to destabilise the campaign. Ultimately, the Federation was able to complete the operation, But the Federation's opponents had made their feelings clear – the superpower's military expansion would not proceed unopposed. 
 
 Now the Federation has announced plans to establish a new planetary outpost in the HIP 17225 system, Which it claims will serve as "a trade and resource-processing hub". Those familiar with HIP 17225 A 1 will be all too aware that the planet is home to a number of barnacle sites. 

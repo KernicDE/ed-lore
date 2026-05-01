@@ -49,6 +49,7 @@ related_uuids:
 ---
 
 
+
 A proposal for The Empire to formally open diplomatic relations With the Marlinist Colonies has been made by Senator Lorcan Scordato.
 The eight systems are Populated by ex-Imperial citizens who fled to avoid persecution for their beliefs in Marlinism, Which advocates democratic representation.
 Returning from a fact-finding mission to the colonies, Senator Scordato told the Senate:

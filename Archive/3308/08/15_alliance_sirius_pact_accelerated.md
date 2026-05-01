@@ -4,7 +4,9 @@ title: Alliance-Sirius Pact Accelerated
 slug: alliance_sirius_pact_accelerated
 date: '3308-08-15'
 source: API
-summary: Prime Minister Edmund Mahon and Sirius Corporation CEO Li Yong-Rui accelerate the strategic defence pact after the HIP 22460 disaster, appointing Admiral Nikolas Glass to coordinate all anti-xeno operations for the Alliance Defence Force.
+summary: Prime Minister Edmund Mahon and Sirius Corporation CEO Li Yong-Rui accelerate
+  the strategic defence pact after the HIP 22460 disaster, appointing Admiral Nikolas
+  Glass to coordinate all anti-xeno operations for the Alliance Defence Force.
 player_impact: Not specifically mentioned — this is a policy announcement.
 persons:
 - Edmund Mahon
@@ -23,10 +25,19 @@ topics:
 - politics
 - war
 arc_id: null
-modern_impact: The accelerated pact formalised the Alliance's military dependence on Sirius Corporation, using the HIP 22460 catastrophe as justification for deeper corporate integration into Allied defence infrastructure.
+modern_impact: The accelerated pact formalised the Alliance's military dependence
+  on Sirius Corporation, using the HIP 22460 catastrophe as justification for deeper
+  corporate integration into Allied defence infrastructure.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 7cc33ea4-c770-5e4b-8a0e-bd75d0d19c24
+- 9513b10c-ee1c-5ada-a417-ddd9b005dab0
+- 8c4e7d2b-1a8f-5a0b-8f5d-9c4e7d2b1a8f
+- 1678fa94-d3b9-5a9e-b13e-15335a42269e
+- be63c32e-8997-572a-9d07-24701e8fc641
 ---
+
 
 Prime Minister Edmund Mahon and Sirius Corporation CEO Li Yong-Rui have issued a joint statement regarding territorial defence against the Thargoids.
 “The recent tragedy in HIP 22460 has underscored the crucial importance of the strategic defence pact. As the likelihood of increased Thargoid aggression rises, Allied systems can be assured that we are making rapid changes to withstand this potential threat.”

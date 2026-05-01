@@ -32,6 +32,7 @@ related_uuids:
 ---
 
 
+
 The exploration initiative supporting the new Rainbow’s End deep-space port has concluded, with commanders delivering a substantial volume of exploration data to the facility.
 Organisers confirmed that the target for stellar survey submissions was exceeded well ahead of expectations, allowing scientific teams to begin large-scale modelling of galactic regions around the starport’s home system of Roefoo ZE-H d10-0.
 Deep Space Surveys Operations Executive Hermine Delarue released a statement following the conclusion of the initiative:

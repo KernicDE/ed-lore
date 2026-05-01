@@ -30,6 +30,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 The Cornsar system has been attacked by Thargoid forces, causing severe damage to two starports.
 Direct assaults against Chadwick Port and Ito Market stations have resulted in over ten thousand casualties. Local reports state that Thargoid vessels have also appeared elsewhere throughout the system, placing millions more lives at risk.

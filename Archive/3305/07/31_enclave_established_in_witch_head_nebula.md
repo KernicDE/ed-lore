@@ -32,7 +32,10 @@ related_uuids:
 - 05a59ccc-f3d0-591a-be5e-db8950b1b133
 - 45396224-a215-5ad4-8ebf-6d8150f53be8
 - 969713a8-6dbf-548c-9ce4-4d33ba1f321a
+- dc3245e0-532c-5d04-aaa2-099fe3fcdb91
+- bd4d913a-752f-524b-954d-6f8698c5d8c4
 ---
+
 
 
 Recent reports from The Witch Head Nebula indicate that the Thargoid forces in the region have been defeated. The initial call to arms from Aegis Research was met With an overwhelming response from Independent pilots, who were able to push back Thargoid incursions from the new human colonies.  

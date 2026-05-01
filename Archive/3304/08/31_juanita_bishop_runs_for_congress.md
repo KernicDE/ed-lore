@@ -4,7 +4,12 @@ title: Juanita Bishop runs for Congress
 slug: juanita_bishop_runs_for_congress
 date: '3304-08-31'
 source: GitHub
-summary: Anti-cult campaigner Juanita Bishop announces her candidacy for Federal Congress as an independent candidate, capitalising on her strong following from vocal condemnation of the Far God cult. At a rally, she promises to rid the Federation of Thargoid spies. Dr Jameelah Griffin of the Galactic Interfaith Commune accuses Bishop of building her powerbase on fear and paranoia, and notes that Far God chapters continue to vanish without trace.
+summary: Anti-cult campaigner Juanita Bishop announces her candidacy for Federal Congress
+  as an independent candidate, capitalising on her strong following from vocal condemnation
+  of the Far God cult. At a rally, she promises to rid the Federation of Thargoid
+  spies. Dr Jameelah Griffin of the Galactic Interfaith Commune accuses Bishop of
+  building her powerbase on fear and paranoia, and notes that Far God chapters continue
+  to vanish without trace.
 player_impact: None
 persons:
 - Juanita Bishop
@@ -19,7 +24,9 @@ topics:
 - alien contact
 - religion
 - politics
-modern_impact: Bishop's congressional campaign represents the politicisation of anti-xeno sentiment, transforming religious persecution into an electoral platform and raising concerns about the erosion of civil liberties in the Federation.
+modern_impact: Bishop's congressional campaign represents the politicisation of anti-xeno
+  sentiment, transforming religious persecution into an electoral platform and raising
+  concerns about the erosion of civil liberties in the Federation.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -28,6 +35,7 @@ related_uuids:
 - d9093b90-7659-5e5b-ac01-e545fe66530b
 - 334fc5ad-8484-5b75-8418-d393f7045533
 ---
+
 
 Juanita Bishop, a leading campaigner against The Far God cult, has announced that she is running for Federal Congress. 
 

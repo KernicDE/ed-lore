@@ -4,8 +4,13 @@ title: Freelance Report  The Crab Nebula Expedition
 slug: freelance_report_the_crab_nebula_expedition
 date: '3302-06-17'
 source: GitHub
-summary: Over 400 survey vessels depart from Mitterand Hollow in Epsilon Indi for the Crab Nebula Expedition, the largest coordinated exploration fleet since Distant Worlds, with Felicity Farseer and Elvira Martuuk competing to provide the best vessel refits.
-player_impact: Join the Crab Nebula Expedition for a detailed planetary and mineral survey of tens of thousands of systems; expected arrival at Crab Nebula on 5 July 3302.
+summary: Over 400 survey vessels depart from Mitterand Hollow in Epsilon Indi for
+  the Crab Nebula Expedition, the largest coordinated exploration fleet since Distant
+  Worlds, with Felicity Farseer and Elvira Martuuk competing to provide the best vessel
+  refits.
+player_impact: Join the Crab Nebula Expedition for a detailed planetary and mineral
+  survey of tens of thousands of systems; expected arrival at Crab Nebula on 5 July
+  3302.
 persons:
 - Commander Ian Doncaster
 - Felicity Farseer
@@ -21,10 +26,18 @@ topics:
 - ship
 - war
 technologies: []
-modern_impact: Major coordinated exploration effort expanding human knowledge of deep space nebulae regions.
+modern_impact: Major coordinated exploration effort expanding human knowledge of deep
+  space nebulae regions.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 2a4bea4d-a55f-5cdc-89a1-a1362c3306f4
+- d27ded8d-1aef-5ab9-a316-27ec6d7bc189
+- 27019b70-9df7-54ff-ae4e-c5d07dbc4823
+- 1d5240cd-3591-56b7-a646-6af6b9a26a4d
+- 5dbaa650-006e-5f84-ab7a-9f4155fdafdf
 ---
+
 
 A fleet of over 400 survey and support vessels has departed from Mitterand Hollow in Epsilon Indi. The Crab Nebula Expedition is the largest coordinated flight of explorers since the Distant Worlds Expedition. It has attracted a wide range of pilots, from veterans to beginners taking their first trip outside the bubble.  
 

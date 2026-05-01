@@ -4,7 +4,13 @@ title: The Founding of the Federation
 slug: the_founding_of_the_federation
 date: '3301-07-05'
 source: GitHub
-summary: Historian Sima Kalhana's first article in a series on defining human moments covers the Federation's founding. The Federation arose from the ashes of the Third World War in the mid-21st century. The discovery of Martian fossils and the invention of the hyperdrive by Li Qin Jao triggered explosive colonisation, leading to ecological excesses that prompted Earth's intervention. In 2242, the Federation Accord united many colonies, with Taylor Colony in Tau Ceti becoming the first signatory outside Sol. The name briefly changed to 'Federation of Star Systems' before reverting.
+summary: Historian Sima Kalhana's first article in a series on defining human moments
+  covers the Federation's founding. The Federation arose from the ashes of the Third
+  World War in the mid-21st century. The discovery of Martian fossils and the invention
+  of the hyperdrive by Li Qin Jao triggered explosive colonisation, leading to ecological
+  excesses that prompted Earth's intervention. In 2242, the Federation Accord united
+  many colonies, with Taylor Colony in Tau Ceti becoming the first signatory outside
+  Sol. The name briefly changed to 'Federation of Star Systems' before reverting.
 player_impact: None
 persons:
 - Sima Kalhana
@@ -21,10 +27,21 @@ topics:
 - history
 - corporate expansion
 - exploration
-modern_impact: Foundational history explaining the Federation's origins as a stabilising force following corporate-driven colonial excess and the Third World War.
+modern_impact: Foundational history explaining the Federation's origins as a stabilising
+  force following corporate-driven colonial excess and the Third World War.
 legacy_weight: 4
 significance: high
+related_uuids:
+- 527cd62c-c144-5f7a-a149-a233d9aa7c78
+- 250a8de2-2777-572d-b19a-b9f849cf2f06
+- b6e932e5-8ee6-5a50-beb9-800a466f09d7
+- b835fd7e-19db-5d69-a349-bd293a75754b
+- cc1264c1-17e7-5557-a315-700f04a2f4d9
+- 3a16fb01-6bfc-56cd-ac6d-f8d6aca44977
+- c9090a01-c935-51c2-80e1-8ee2060b7733
+- b1d1a750-565c-5b78-b645-eaa9906728f6
 ---
+
 
 In This new series exclusive to GalNet, famed historian Sima Kalhana visits the defining moments of human history since Our first brave steps into space and to The star-spanning species we have since become. In This first article, she talks about the founding of the Federation. With a history spanning millennia, it is the oldest of the major factions. 
 

@@ -4,7 +4,8 @@ title: 'GalNet: Apology for Unauthorised Broadcasts'
 slug: galnet_apology_for_unauthorised_broadcasts
 date: '3307-12-27'
 source: API
-summary: GalNet apologises for a second batch of unauthorised Winking Cat riddles transmitted on December 24th-26th, confirming security protocols have been reinforced.
+summary: GalNet apologises for a second batch of unauthorised Winking Cat riddles
+  transmitted on December 24th-26th, confirming security protocols have been reinforced.
 player_impact: Not specifically mentioned — this is an editorial apology.
 persons: []
 groups:
@@ -15,13 +16,17 @@ locations:
 - none specified
 topics:
 - crime
-modern_impact: The repeated GalNet security breaches demonstrate the Winking Cat's technical capabilities and the vulnerability of even the galaxy's most trusted news network.
+modern_impact: The repeated GalNet security breaches demonstrate the Winking Cat's
+  technical capabilities and the vulnerability of even the galaxy's most trusted news
+  network.
 legacy_weight: 1
 significance: low
 related_uuids:
 - f49000db-9fef-53ec-88aa-0940641d669e
 - 5f694caa-fbd0-5412-9b82-3cf18d160381
+- 8b44331c-0f2b-5627-b328-c78cdecf4b68
 ---
+
 
 **Pilots’ Federation ALERT**
 The GalNet editorial team expresses Its sincere regret that Further unscheduled messages have been recently published.

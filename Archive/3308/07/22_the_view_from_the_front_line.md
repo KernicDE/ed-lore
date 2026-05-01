@@ -34,7 +34,11 @@ significance: high
 related_uuids:
 - 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
 - edb0e7ff-862e-5ed5-b8e4-43b5aef0c8f6
+- bb0a8874-54a5-529d-91a6-691c8859ac57
+- 90f47201-f1b3-537a-8c1f-fc6e092fa724
+- 7aaf4cac-767f-5e4b-b085-e5bc94a6c913
 ---
+
 
 
 Vox Galactica reporter Jade Sanderlyn has broadcast an update on the conflict taking place in the HIP 22460 system.

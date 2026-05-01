@@ -31,7 +31,9 @@ legacy_weight: 3
 significance: medium
 related_uuids:
 - 3521c9b6-51ab-56aa-b13d-3286b5a637da
+- 38e72e26-bb41-5fd2-a7b1-3ed082c89340
 ---
+
 
 
 In October last year, The Federation was criticised for positioning a Farragut-class Battlecruiser above Maia A 3 a, not Far from the personal research base of Professor Ishmael Palin. 

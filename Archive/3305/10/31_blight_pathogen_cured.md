@@ -4,8 +4,11 @@ title: Blight Pathogen Cured
 slug: blight_pathogen_cured
 date: '3305-10-31'
 source: GitHub
-summary: The agronomic treatment proves effective against the blight pathogen. Farming communities in Diso and Orerve begin recovering. Mass production of the treatment begins for galaxy-wide distribution.
-player_impact: Pilots who contributed can collect rewards from Shifnalport in Diso and Watson Station in Orerve.
+summary: The agronomic treatment proves effective against the blight pathogen. Farming
+  communities in Diso and Orerve begin recovering. Mass production of the treatment
+  begins for galaxy-wide distribution.
+player_impact: Pilots who contributed can collect rewards from Shifnalport in Diso
+  and Watson Station in Orerve.
 persons:
 - Genevieve Kane
 groups:
@@ -16,7 +19,8 @@ locations:
 topics:
 - medicine
 - humanitarian
-modern_impact: The successful cure of the blight pathogen averts mass starvation and demonstrates the power of interstellar scientific collaboration.
+modern_impact: The successful cure of the blight pathogen averts mass starvation and
+  demonstrates the power of interstellar scientific collaboration.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -24,6 +28,7 @@ related_uuids:
 - ca2d40ce-2068-58cb-be1d-1939ef1aa2b1
 - 91dea8da-3921-5a99-811c-41fdd8ec779f
 ---
+
 
 The agronomic treatment recently developed by the Interstellar Association for Agriculture has proven effective against the devastating crop blight. 
 

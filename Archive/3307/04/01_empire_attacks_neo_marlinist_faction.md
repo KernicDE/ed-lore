@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Conflict has erupted between The Epsilon Fornacis Empire Group and the Neo-Marlinist Order of Mudhrid.
 An investigation by ACT in the Mudhrid system confirmed that the Order of Mudhrid provided logistical support for the NMLA’s starport attacks. Their agents infiltrated Other local factions to transport enzyme bombs to their targets.

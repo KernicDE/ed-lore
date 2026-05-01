@@ -23,7 +23,10 @@ significance: high
 related_uuids:
 - 1b8e7389-bd6f-558e-9b8f-fb98a7e667c5
 - 75dddc21-a4dd-5ee6-b73e-48a48f0cc295
+- 5e09253c-56dc-5373-bf00-fc22ac44243d
+- a13a812b-0b6f-5ed2-a84f-05893db83bf5
 ---
+
 
 
 "We've heard a lot about these barnacles," said controversial chef Oliver Gordon today outside his restaurant 'PanGalactic', "But the most Important question has yet to be asked. How do they taste?" 

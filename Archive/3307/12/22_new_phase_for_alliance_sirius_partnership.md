@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 The Alliance Assembly has invited Sirius Corporation to collaborate on enhancing protection for member systems against the Thargoids.
 Political journalist Vanya Driscoll reported on the development for The Alliance Tribune:
 “Sirius Corporation has been a key partner in the Alliance’s expansion programme. Most notably, Its subsidiary Sirius Atmospherics helped establish colonies in the Coalsack Nebula to support meta-alloy harvesting.”

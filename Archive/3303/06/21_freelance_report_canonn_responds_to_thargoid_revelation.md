@@ -28,7 +28,12 @@ significance: high
 related_uuids:
 - 3d04ddca-30ae-553b-9712-2589606ba8c5
 - ee4558be-1df9-5900-8c68-c35fd406821f
+- 6c4632dc-021f-5881-ae3d-4b338048bdd3
+- bffd6b70-d840-5656-9def-91b57b3705ce
+- 1d19b7f6-b71a-5dca-b67e-8a6c4cd41f70
+- c17aa257-71db-5394-9b74-d3c11775b315
 ---
+
 
 
 Doctor Arcanonn of The Canonn Interstellar Research Group has issued a statement from the Gnosis concerning the recent discovery that the so-called Unknown Ships are in fact of Thargoid origin. 

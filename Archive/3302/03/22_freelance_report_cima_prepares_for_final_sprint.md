@@ -4,8 +4,12 @@ title: Freelance Report  CIMA Prepares for Final Sprint
 slug: freelance_report_cima_prepares_for_final_sprint
 date: '3302-03-22'
 source: GitHub
-summary: Maxim 'VicTic' Kammerer of the Carmack Intergalactic Mining Association announces that the CIMA prospectors' competition has doubled the number of known pristine metallic ring locations. The competition enters its final sprint, ending on 3 April 3302.
-player_impact: Pilots submitted data on pristine metallic ring locations for the CIMA prospectors' competition.
+summary: Maxim 'VicTic' Kammerer of the Carmack Intergalactic Mining Association announces
+  that the CIMA prospectors' competition has doubled the number of known pristine
+  metallic ring locations. The competition enters its final sprint, ending on 3 April
+  3302.
+player_impact: Pilots submitted data on pristine metallic ring locations for the CIMA
+  prospectors' competition.
 persons:
 - Maxim Kammerer
 - Karen Keish
@@ -18,7 +22,11 @@ topics:
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
+related_uuids:
+- fb842948-670f-5c4a-8a5a-8200704381af
+- e4bc22db-f705-53a8-9433-9f0ce23c6bc5
 ---
+
 
 Maxim 'VicTic' Kammerer, chief engineer of The Carmack Intergalactic Mining Association, has released a statement concerning the ongoing CIMA prospectors' competition: 
 

@@ -4,8 +4,10 @@ title: 'Saud Kruger Receives Exploration Data '
 slug: saud_kruger_receives_exploration_data
 date: '3307-09-30'
 source: API
-summary: Saud Kruger successfully collects enormous amounts of Earth-like world exploration data for Astrogator Tours, with tourist beacons planned for promising destinations.
-player_impact: Contributing pilots received payment at Youll Port and will be credited on tourist beacons in suitable systems.
+summary: Saud Kruger successfully collects enormous amounts of Earth-like world exploration
+  data for Astrogator Tours, with tourist beacons planned for promising destinations.
+player_impact: Contributing pilots received payment at Youll Port and will be credited
+  on tourist beacons in suitable systems.
 persons:
 - Stanislav Kruger
 groups:
@@ -16,7 +18,11 @@ topics:
 modern_impact: Tourism initiatives continue to drive exploration of uncharted systems.
 legacy_weight: 2
 significance: low
+related_uuids:
+- a41f0bc1-dcd1-510b-b614-d83064c93c1e
+- f186d6a6-0681-528f-995c-21b7e49f1dc3
 ---
+
 
 **Pilots Federation ALERT**
 Enormous amounts of data on Earth-like worlds has been collected for a campaign by shipbuilding firm Saud Kruger.

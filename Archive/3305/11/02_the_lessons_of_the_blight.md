@@ -4,7 +4,9 @@ title: The Lessons of the Blight
 slug: the_lessons_of_the_blight
 date: '3305-11-02'
 source: GitHub
-summary: The agricultural blight is officially contained. The IAA pledges to intensify screening regulations. Rockforth Corporation faces criticism for its role in distributing the contaminated EX7 fertiliser.
+summary: The agricultural blight is officially contained. The IAA pledges to intensify
+  screening regulations. Rockforth Corporation faces criticism for its role in distributing
+  the contaminated EX7 fertiliser.
 player_impact: None
 persons:
 - Adalyn Cross
@@ -18,12 +20,14 @@ locations:
 topics:
 - terrorism
 - corporate expansion
-modern_impact: The blight crisis leads to stricter agricultural regulations and exposes vulnerabilities in the interstellar food supply chain.
+modern_impact: The blight crisis leads to stricter agricultural regulations and exposes
+  vulnerabilities in the interstellar food supply chain.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 9ee8db94-d262-5702-8b10-cbe40de4ccb5
 ---
+
 
 The blight that laid waste to vast areas of cropland over the past month has now officially been contained. 
 

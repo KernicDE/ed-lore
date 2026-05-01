@@ -31,6 +31,7 @@ related_uuids:
 ---
 
 
+
 **Pilots Federation ALERT**
 Several inhabited systems in The Pleiades and Witch Head Nebulas have come under attack by large numbers of Thargoid ships.
 An emergency has been declared by the Authorities in multiple systems including Asterope, Shenve and Onoros. Thargoid vessels have again targeted starports, With casualties estimated in the Many thousands.

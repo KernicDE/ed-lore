@@ -42,6 +42,7 @@ related_uuids:
 ---
 
 
+
 Imperator Hadrian Augustus Duval, leader of The isolationist group Nova Imperium, has married his consort Astrid Minerva In a closed ceremony.
 Commander Minerva was a young Imperial pilot who aided Nova Imperium at the Battle of Paresa in 3305 and became a loyal supporter. Her official title is now Lady Astrid Minerva-Duval.
 Princess Aisling Duval personally attended her cousin’s wedding at a secure location. She referred to it as “a precious moment of joy in these bleak times”.

@@ -27,7 +27,12 @@ significance: high
 related_uuids:
 - 5ba2457a-42b5-55bb-bb05-5d8d20e35b9b
 - f227f88d-c293-5655-8901-fe1a7fc362b7
+- 287be432-ebfd-51c7-b804-5ad76433919e
+- 53594924-78d7-5691-8335-36668f095cf3
+- 5b61c1b0-5a50-5b1f-8f13-d87c382cd4ee
+- bc8e029c-7dab-5988-a01e-183a9e764163
 ---
+
 
 
 Following yesterday's remarkable discovery of non-human structures in The Pleiades Nebula, starport markets have been inundated With meta-alloys – a mysterious material produced by the alien 'barnacles'. At present, very little is known about This commodity, but it seems it may have helped bring some stability to Obsidian Orbital, One of the starports affected by the mysterious malfunctions sweeping the galaxy. According to a recent statement, the station's technical team conducted an eleventh-hour experiment that, remarkably, seems to have improved things at the beleaguered starport: 

@@ -37,6 +37,7 @@ related_uuids:
 ---
 
 
+
 An anonymous source has leaked information regarding Seo Jin-ae suggesting that she may be in serious jeopardy.
 Seo Jin-ae, the individual once known as Subject D-2, voluntarily departed from a private medical facility in January, where she was under the care of former Aegis members. She left a message stating: “I have unfinished business with Salvation.”
 The engineer Kit Fowler discussed the recent rumours during his End Times broadcast:

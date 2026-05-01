@@ -4,7 +4,12 @@ title: Meet the Powers – Zemina Torval
 slug: meet_the_powers_zemina_torval
 date: '3301-08-03'
 source: GitHub
-summary: Political commentator Marcus Macmillan profiles Senator Zemina Torval, a traditionalist in the Imperial Senate known for her paradoxical views on Imperial slavery. She condemns those who fail to care for slaves properly while maintaining that they form the foundation of the Empire. She prefers diplomacy but commands a substantial military fleet. As controlling shareholder of Mastopolos Mining, she focuses on building a dynasty and legacy for future generations.
+summary: Political commentator Marcus Macmillan profiles Senator Zemina Torval, a
+  traditionalist in the Imperial Senate known for her paradoxical views on Imperial
+  slavery. She condemns those who fail to care for slaves properly while maintaining
+  that they form the foundation of the Empire. She prefers diplomacy but commands
+  a substantial military fleet. As controlling shareholder of Mastopolos Mining, she
+  focuses on building a dynasty and legacy for future generations.
 player_impact: None
 persons:
 - Zemina Torval
@@ -17,10 +22,19 @@ locations:
 topics:
 - slavery
 - politics
-modern_impact: Profile of a major Imperial power leader influencing slavery policy and Senate politics.
+modern_impact: Profile of a major Imperial power leader influencing slavery policy
+  and Senate politics.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 851a00f1-7638-598a-bfd2-76d4c7c2972e
+- 74f96d5d-43c7-50ef-9f79-9c7047e42d9b
+- 4aa8f9d6-81d7-5197-b8b4-7a3127e607b6
+- d3e7ed94-d19b-534e-833a-986f901972c9
+- db53c226-90a8-53f7-bc58-d008935f347b
+- 9c49827f-2623-5877-b5c6-d93509d0a595
 ---
+
 
 Senator Zemina Torval is the subject of This article from political commentator Marcus Macmillan about the movers and shakers in 3301. 
 

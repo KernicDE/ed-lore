@@ -31,7 +31,11 @@ significance: high
 related_uuids:
 - 47987927-68f5-50b1-9407-92102bf849a3
 - dc600c12-513e-54f9-b8c9-4d5a99383094
+- 59656dfe-af8d-554b-80eb-4370717da32b
+- 0711174c-3029-589f-8c24-2be413623997
+- 2a375cf0-f161-531e-bafa-c3c2dbfd08a6
 ---
+
 
 
 Villain, murderer, madman. Titles With Which Archon Delaine, The self-styled Pirate King, are all too familiar. 

@@ -43,7 +43,9 @@ related_uuids:
 - b4684e15-86d1-5b30-8df1-282604d10a06
 - c049687e-01f6-5a30-a4e6-f8399dd6ab54
 - e8bdc445-58aa-5aca-b3ab-9f1705da44d3
+- 7d09601e-c5b7-57e8-b868-09d6b6ac4856
 ---
+
 
 
 The Trailblazer fleet announced by Brewer Corporation last month has been deployed to strategic locations on the edges of the core systems.
