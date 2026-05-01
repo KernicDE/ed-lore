@@ -1,9 +1,9 @@
 #!/usr/bin/env python3
 """
 generate_audio.py — Incremental TTS audio generation for GalNet articles.
-Uses edge-tts with en-GB-SoniaNeural voice.
-Only regenerates audio for new or modified articles (hash-based skip).
+Uses edge-tts with en-GB-SoniaNeural voice. Parallel processing for speed.
 """
+import argparse
 import asyncio
 import hashlib
 import json
@@ -19,7 +19,7 @@ ARCHIVE_DIR = BASE_DIR / "Archive"
 AUDIO_DIR = BASE_DIR / "website" / "public" / "audio"
 MANIFEST_PATH = BASE_DIR / "scripts" / "audio_manifest.json"
 VOICE = "en-GB-SoniaNeural"
-BATCH_SAVE_EVERY = 25  # Save manifest every N generations
+CONCURRENCY = 8
 
 AUDIO_DIR.mkdir(parents=True, exist_ok=True)
 
@@ -100,17 +100,24 @@ def compute_hash(text: str) -> str:
     return hashlib.sha256(text.encode("utf-8")).hexdigest()[:16]
 
 
-async def generate_audio(uuid: str, text: str, output_path: Path) -> bool:
-    try:
-        communicate = edge_tts.Communicate(text, voice=VOICE)
-        await communicate.save(str(output_path))
-        return True
-    except Exception as e:
-        print(f"  ERROR {uuid}: {e}", file=sys.stderr)
-        return False
+async def generate_one(uuid: str, text: str, output_path: Path, semaphore: asyncio.Semaphore) -> tuple[str, bool]:
+    async with semaphore:
+        try:
+            communicate = edge_tts.Communicate(text, voice=VOICE)
+            await communicate.save(str(output_path))
+            return uuid, True
+        except Exception as e:
+            print(f"  ERROR {uuid}: {e}", file=sys.stderr)
+            return uuid, False
 
 
 async def main():
+    parser = argparse.ArgumentParser(description="Generate TTS audio for GalNet articles")
+    parser.add_argument("--batch-size", type=int, default=0, help="Max articles to generate (0 = all)")
+    parser.add_argument("--sort", choices=["recent", "oldest"], default="oldest", help="Process order")
+    parser.add_argument("--concurrency", type=int, default=CONCURRENCY, help="Parallel requests")
+    args = parser.parse_args()
+    
     manifest = {}
     if MANIFEST_PATH.exists():
         manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
@@ -120,23 +127,23 @@ async def main():
         fm = parse_frontmatter(md_file)
         if not fm or not fm.get("uuid"):
             continue
-        articles.append((fm.get("uuid"), fm, extract_body(md_file), md_file))
+        articles.append((fm.get("uuid"), fm, extract_body(md_file)))
     
     print(f"Found {len(articles)} articles. Manifest has {len(manifest)} entries.")
     
-    generated = skipped = failed = 0
+    # Sort by date
+    reverse = args.sort == "recent"
+    articles.sort(key=lambda x: str(x[1].get("date", "")), reverse=reverse)
     
-    for idx, (uuid, fm, body, path) in enumerate(articles, 1):
+    # Build work queue
+    queue = []
+    for uuid, fm, body in articles:
         tts_text = build_tts_text(fm, body)
         text_hash = compute_hash(tts_text)
-        
         if manifest.get(uuid) == text_hash:
-            skipped += 1
             continue
-        
         output_path = AUDIO_DIR / f"{uuid}.mp3"
         
-        # Hard cap at 4500 chars to avoid TTS limits
         if len(tts_text) > 4500:
             intro = f"{fm.get('title', 'Untitled')} on {fm.get('date', '')}."
             outro_parts = []
@@ -154,19 +161,39 @@ async def main():
             clean_body = sanitize_for_tts(body)[:max_body]
             tts_text = f"{intro}\n\n{clean_body}\n\n{outro}".strip()
         
-        success = await generate_audio(uuid, tts_text, output_path)
-        if success:
-            manifest[uuid] = text_hash
-            generated += 1
-            if generated % BATCH_SAVE_EVERY == 0:
-                MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
-                print(f"  Progress: {idx}/{len(articles)} — generated {generated}, skipped {skipped}, failed {failed}")
-        else:
-            failed += 1
+        queue.append((uuid, tts_text, output_path, text_hash))
+        
+        if args.batch_size > 0 and len(queue) >= args.batch_size:
+            break
     
-    MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
-    print(f"\nDone: {generated} generated, {skipped} skipped, {failed} failed")
-    print(f"Audio files: {AUDIO_DIR}")
+    print(f"Need to generate: {len(queue)} articles (skipped {len(articles) - len(queue)})")
+    if not queue:
+        print("Nothing to do — all audio up to date.")
+        return
+    
+    semaphore = asyncio.Semaphore(args.concurrency)
+    generated = failed = 0
+    
+    batch_size = 50
+    for i in range(0, len(queue), batch_size):
+        batch = queue[i:i+batch_size]
+        tasks = [generate_one(uuid, text, path, semaphore) for uuid, text, path, _ in batch]
+        results = await asyncio.gather(*tasks)
+        
+        for (uuid, _, _, text_hash), (result_uuid, success) in zip(batch, results):
+            if success:
+                manifest[result_uuid] = text_hash
+                generated += 1
+            else:
+                failed += 1
+        
+        MANIFEST_PATH.write_text(json.dumps(manifest, indent=2), encoding="utf-8")
+        total_done = len([u for u, h in manifest.items() if any(u == q[0] for q in queue)])
+        print(f"  Batch {i//batch_size + 1}/{(len(queue) + batch_size - 1)//batch_size}: "
+              f"{generated} generated, {failed} failed")
+    
+    print(f"\nDone: {generated} generated, {failed} failed")
+    print(f"Audio files: {len(manifest)} in manifest, {len(list(AUDIO_DIR.glob('*.mp3')))} on disk")
 
 
 if __name__ == "__main__":
