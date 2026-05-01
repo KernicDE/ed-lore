@@ -4,27 +4,20 @@ title: Core Dynamics Bids to Purchase Lakon Spaceways
 slug: core_dynamics_bids_to_purchase_lakon_spaceways
 date: '3306-11-24'
 source: GitHub
+summary: Core Dynamics makes an official bid to acquire Lakon Spaceways, causing concern in the Alliance due to their long partnership. CEO Jupiter Rochester promises Lakon will retain its engineers and facilities. The Alliance Assembly questions the legality of inter-superpower corporate mergers.
+player_impact: None
+persons:
+- Jupiter Rochester
 groups:
 - Alliance
 - Core Dynamics
 - Lakon Spaceways
-persons:
-- Jupiter Rochester
 topics:
 - corporate expansion
-summary: Core Dynamics makes an official bid to acquire Lakon Spaceways, causing concern
-  in the Alliance due to their long partnership. CEO Jupiter Rochester promises Lakon
-  will retain its engineers and facilities. The Alliance Assembly questions the legality
-  of inter-superpower corporate mergers.
-player_impact: None
-modern_impact: Core Dynamics' bid for Lakon Spaceways marks a significant inter-superpower
-  corporate maneuver that could reshape ship manufacturing.
+modern_impact: Core Dynamics' bid for Lakon Spaceways marks a significant inter-superpower corporate maneuver that could reshape ship manufacturing.
 legacy_weight: 3
 significance: medium
 ---
-
-Core Dynamics Bids to Purchase Lakon Spaceways
-
 
 An official bid for complete ownership of Lakon Spaceways has been made by Core Dynamics, a major shipbuilding corporation in The Federation. 
 

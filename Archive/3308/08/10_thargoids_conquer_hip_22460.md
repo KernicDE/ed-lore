@@ -4,6 +4,8 @@ title: Thargoids Conquer HIP 22460
 slug: thargoids_conquer_hip_22460
 date: '3308-08-10'
 source: API
+summary: The Proteus Wave fails catastrophically as Thargoid forces overwhelm the coalition fleet in HIP 22460, destroying human ships after a second energy pulse renders them powerless.
+player_impact: Pilots in HIP 22460 found themselves without power following the second energy pulse and were rapidly targeted by hostile Thargoid vessels.
 persons:
 - Jade Sanderlyn
 - Salvation
@@ -19,16 +21,14 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-summary: The Proteus Wave fails catastrophically as Thargoid forces overwhelm the coalition fleet in HIP 22460, destroying human ships after a second energy pulse renders them powerless.
-player_impact: Pilots in HIP 22460 found themselves without power following the second energy pulse and were rapidly targeted by hostile Thargoid vessels.
 modern_impact: The fall of HIP 22460 shattered the myth of Salvation's invincibility, exposing the Proteus Wave as a fatally flawed weapon that had provoked a more devastating Thargoid counter-attack than anything seen before.
-related_uuids:
-- 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Proteus Wave’s failure has resulted in Thargoid forces overwhelming the coalition fleet in HIP 22460.
 Independent and military observers have confirmed that although Salvation’s anti-xeno superweapon was activated as scheduled, it had only a temporary effect on the Thargoids. Soon afterwards, human ships in the system found themselves without power following a second unknown energy pulse and were rapidly targeted by hostile Thargoid vessels.
 Vox Galactica announced that the reporter Jade Sanderlyn was able to jettison her escape pod before her drifting craft was destroyed. She delivered this summary:

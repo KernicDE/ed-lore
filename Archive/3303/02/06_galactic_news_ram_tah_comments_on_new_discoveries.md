@@ -23,9 +23,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Ram Tah Comments on New Discoveries
-
-
 Independent engineer Ram Tah, who has been leading research into The Synuefe ruins, has commented on the discovery of Several new, similar sites: 
 
 "I am delighted that Our research has led explorers to Further ancient sites, and I am hopeful that these ruins will yield fresh information about the Guardians." 

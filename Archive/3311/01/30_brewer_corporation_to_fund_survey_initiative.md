@@ -4,7 +4,10 @@ title: Brewer Corporation to Fund Survey Initiative
 slug: brewer_corporation_to_fund_survey_initiative
 date: '3311-01-30'
 source: API
-arc_id: trailblazer-colonisation
+summary: Brewer Corporation announced a planetary survey initiative in partnership with Universal Cartographics to prepare for widespread colonisation, with CEO Madelyn Teague framing it as the next step in humanity's 'continued march across the stars.'
+player_impact: Explorers were called to scan systems and submit exploration data to Trailblazer Echo in HIP 90578.
+persons:
+- Madelyn Teague
 groups:
 - Brewer Corporation
 - Colonia Bridge
@@ -16,13 +19,10 @@ topics:
 - construction
 - corporate expansion
 - exploration
-persons:
-- Madelyn Teague
 technologies:
 - Trailblazer Echo megaship
-player_impact: "Explorers were called to scan systems and submit exploration data to Trailblazer Echo in HIP 90578."
-summary: "Brewer Corporation announced a planetary survey initiative in partnership with Universal Cartographics to prepare for widespread colonisation, with CEO Madelyn Teague framing it as the next step in humanity's 'continued march across the stars.'"
-modern_impact: "Teague's reference to 'the Colonia Bridge' invokes Brewer Corporation's most ambitious previous project, positioning colonisation as its logical successor. The unconfirmed reports of 'significant talks with superpower lobbyists' hint at the political backroom dealing that enabled the Alliance-Sirius pact termination in May and the superpowers' endorsement of independent expansion. This announcement is the first domino in the colonisation cascade."
+arc_id: trailblazer-colonisation
+modern_impact: Teague's reference to 'the Colonia Bridge' invokes Brewer Corporation's most ambitious previous project, positioning colonisation as its logical successor. The unconfirmed reports of 'significant talks with superpower lobbyists' hint at the political backroom dealing that enabled the Alliance-Sirius pact termination in May and the superpowers' endorsement of independent expansion. This announcement is the first domino in the colonisation cascade.
 legacy_weight: 3
 significance: medium
 related_uuids:

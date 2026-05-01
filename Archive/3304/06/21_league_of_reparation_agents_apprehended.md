@@ -27,8 +27,6 @@ related_uuids:
 - c72faf52-e498-54ec-a63c-7c94a9be38e9
 - b0b4efc4-0023-5a96-a506-5bcfb8772ddf
 ---
-League of Reparation Agents Apprehended
-
 
 A homicide attempt by terrorist organisation The League of Reparation has been foiled, and the would-be killers taken into custody. 
 

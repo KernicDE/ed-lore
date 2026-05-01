@@ -13,18 +13,15 @@ groups:
 locations:
 - Cenker City
 - Gucumadhyas
-technologies: []
 topics:
 - research
 - trade
 - war
+technologies: []
 modern_impact: Utopia's research programme leverages pilot-delivered commodities to advance its technological and scientific agenda.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Utopia Research Appeal
-
 
 The Utopia Commune has issued a request for various commodities to be used In a forthcoming research and development programme. 
 

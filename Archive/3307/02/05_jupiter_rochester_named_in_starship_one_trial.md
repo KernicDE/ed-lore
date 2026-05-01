@@ -4,7 +4,8 @@ title: Jupiter Rochester Named in Starship One Trial
 slug: jupiter_rochester_named_in_starship_one_trial
 date: 3307-02-05
 source: API
-arc_id: federal-politics
+summary: Core Dynamics CEO Jupiter Rochester has been accused of collaborating With Fleet Admiral Vincent to orchestrate Starship One’s destruction in 3301.
+player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
 persons:
 - Further
 - Jupiter
@@ -25,9 +26,10 @@ locations:
 topics:
 - corporate expansion
 - war
-player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
-summary: Core Dynamics CEO Jupiter Rochester has been accused of collaborating With Fleet Admiral Vincent to orchestrate Starship One’s destruction in 3301.
-modern_impact: "\"This is a bittersweet moment for me.\" The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence."
+arc_id: federal-politics
+modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - e25e2c83-7be4-5236-9a1a-93321f277b40
@@ -35,8 +37,6 @@ related_uuids:
 - 533f8ff4-f23d-500f-83d9-92209119bc5b
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 - 3a299742-113f-5b36-98e2-a791ed35ae34
-legacy_weight: 2
-significance: low
 ---
 
 Core Dynamics CEO Jupiter Rochester has been accused of collaborating With Fleet Admiral Vincent to orchestrate Starship One’s destruction in 3301.

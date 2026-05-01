@@ -4,7 +4,12 @@ title: Harvest Thargoid Materials for Anti-Titan Project
 slug: harvest_thargoid_materials_for_anti_titan_project
 date: '3310-02-01'
 source: API
-entities: []
+summary: Aegis urgently requests Thargoid spire site materials for Professor Palin and Ram Tah's classified anti-Titan weapon research, with Palin developing resistant armour using organic compounds from the spires.
+player_impact: Pilots are requested to deliver Thargoid spire site materials (coral sap, impure spire minerals, semi-refined spire minerals) to Austen Town Station in the Arque system.
+persons:
+- Ishmael Palin
+- Ram Tah
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -14,14 +19,9 @@ topics:
 - alien contact
 - engineering
 - research
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tanner's comment — 'what little I've seen made me feel something very rare these days: hope' — provides emotional context for the scientific breakthrough. Palin's description of developing 'a resistant armour using the organic compounds produced by Thargoid spire sites' to protect against Maelstrom electromagnetic fields reveals the hybrid nature of the solution — using Thargoid materials to fight Thargoids. The classified nature of the weapon details builds suspense."
-persons:
-- Ishmael Palin
-- Ram Tah
-- Aden Tanner
-player_impact: "Pilots are requested to deliver Thargoid spire site materials (coral sap, impure spire minerals, semi-refined spire minerals) to Austen Town Station in the Arque system."
-summary: "Aegis urgently requests Thargoid spire site materials for Professor Palin and Ram Tah's classified anti-Titan weapon research, with Palin developing resistant armour using organic compounds from the spires."
+modern_impact: 'Tanner''s comment — ''what little I''ve seen made me feel something very rare these days: hope'' — provides emotional context for the scientific breakthrough. Palin''s description of developing ''a resistant armour using the organic compounds produced by Thargoid spire sites'' to protect against Maelstrom electromagnetic fields reveals the hybrid nature of the solution — using Thargoid materials to fight Thargoids. The classified nature of the weapon details builds suspense.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,7 +29,7 @@ related_uuids:
 - 1d16de43-7abf-5dee-bbee-3f23768c50f9
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Aegis is urgently requesting deliveries of Thargoid spire site materials to Professor Ishmael Palin in the Arque system.
 The alien minerals are needed for vital research based on a new theory by the engineer Ram Tah. His research has suggested a method of defeating the Thargoid Titans, although details of the proposal remain classified by Aegis.
 Professor Palin, the leading expert in Thargoid biotechnology, explained the initiative:

@@ -29,9 +29,6 @@ related_uuids:
 - 1f133226-e32f-5511-9bbd-bffc26348cb3
 ---
 
-League of Reparation Implicated in Historic Deaths
-
-
 A recent report suggests that terrorist organisation The League of Reparation may be responsible for Many more deaths than previously suspected. 
 
 Independent journalist Flint ‘Firemaker’ Lafosse shared his theories on the Rewired newsfeed: 

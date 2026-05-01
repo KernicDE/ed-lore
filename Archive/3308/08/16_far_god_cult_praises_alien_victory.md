@@ -4,6 +4,8 @@ title: Far God Cult Praises Alien Victory
 slug: far_god_cult_praises_alien_victory
 date: '3308-08-16'
 source: API
+summary: The Far God cult celebrates the Thargoid victory in HIP 22460 as divine fulfilment, sparking outrage and calls for arrest while Dr Jameelah Griffin urges tolerance and notes the cult's lawful status and surge in recruitment.
+player_impact: Not specifically mentioned — this is a social report.
 persons:
 - Jameelah Griffin
 groups:
@@ -16,8 +18,6 @@ topics:
 - religion
 - war
 arc_id: null
-summary: The Far God cult celebrates the Thargoid victory in HIP 22460 as divine fulfilment, sparking outrage and calls for arrest while Dr Jameelah Griffin urges tolerance and notes the cult's lawful status and surge in recruitment.
-player_impact: Not specifically mentioned — this is a social report.
 modern_impact: The cult's joyous reaction to mass death highlighted how the Thargoid war had fractured human solidarity, with some viewing extinction as inevitable and even desirable, undermining collective resistance.
 legacy_weight: 3
 significance: medium

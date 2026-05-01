@@ -12,16 +12,13 @@ groups:
 locations:
 - North Ring
 - Tutumu
-technologies: []
 topics:
 - trade
+technologies: []
 modern_impact: Successful conclusion of a seasonal commodity appeal with strong pilot participation.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: People's Tutumu Confederacy Appeal Concludes
-
 
 The People's Tutumu Confederacy has released a statement announcing the successful conclusion of Its seasonal appeal. Hundreds of pilots responded to the appeal, delivering huge quantities of goods to North Ring in the Tutumu system. 
 

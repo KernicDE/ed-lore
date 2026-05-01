@@ -30,8 +30,6 @@ related_uuids:
 - e9563810-0611-5080-9952-cdd072acdc90
 - db044a6e-332e-5023-8f20-a1c27974d897
 ---
-Starports Recover from Thargoid Strikes
-
 
 Three starports attacked and damaged by Thargoid forces have now been restored to full functionality. 
 

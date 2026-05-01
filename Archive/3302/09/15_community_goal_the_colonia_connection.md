@@ -12,18 +12,15 @@ groups:
 locations:
 - Latugara
 - Love Orbital
-technologies: []
 topics:
 - trade
 - construction
+technologies: []
 arc_id: jaques-station
 modern_impact: The Colonia Connection establishes a logistical corridor to deep space, enabling sustained colonisation and trade beyond the core systems.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: The Colonia Connection
-
 
 Latugara PLC, an Independent organisation based in the Latugara system, has announced plans to construct a series of outposts between the core of human-inhabited space and the rapidly expanding Colonia Nebula community. 
 

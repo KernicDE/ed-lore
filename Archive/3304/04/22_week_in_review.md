@@ -30,9 +30,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Imperial Senator Nestor Cartesius has been Found dead at his home on Capitol. His death is being treated as a homicide. A note found at The crime scene and believed to have been written by the murderer read: ‘For Jameson’. It has been confirmed that Cartesius was descended from a senior member of the INRA and it is assumed that the motive for the killing was revenge, driven by perceived misconduct on the part of both the INRA and the senator’s ancestor. 

@@ -4,6 +4,8 @@ title: Palin and Ram Tah Seek Unclassified Relics
 slug: palin_and_ram_tah_seek_unclassified_relics
 date: '3308-08-19'
 source: API
+summary: Professors Ishmael Palin and Ram Tah request deliveries of newly discovered unclassified relics that emit both Guardian and Thargoid energy signatures due to molecular realignment of their crystalline structure.
+player_impact: Pilots were asked to deliver unclassified relics to support Palin and Ram Tah's research into the hybrid energy signatures.
 persons:
 - Ishmael Palin
 - Ram Tah
@@ -16,14 +18,12 @@ topics:
 - research
 - xenoarchaeology
 arc_id: null
-summary: Professors Ishmael Palin and Ram Tah request deliveries of newly discovered unclassified relics that emit both Guardian and Thargoid energy signatures due to molecular realignment of their crystalline structure.
-player_impact: Pilots were asked to deliver unclassified relics to support Palin and Ram Tah's research into the hybrid energy signatures.
 modern_impact: The discovery of artefacts exhibiting both Guardian and Thargoid signatures challenged the assumption that the two technologies were fundamentally incompatible, opening new avenues for understanding the ancient inter-species conflict.
 legacy_weight: 4
 significance: medium
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Two engineers who specialise in studying alien technology have requested deliveries of a newly discovered artefact.
 Professor Ishmael Palin explained the details:
 “These ‘unclassified relics’ – as they are currently known – are Guardian in origin. Traditionally such artefacts trigger a hostile reaction from any Thargoid technology introduced to it. But our preliminary studies show a molecular realignment of the artefact’s crystalline structure, resulting in something that emits both Guardian and Thargoid energy signatures.”

@@ -28,9 +28,6 @@ related_uuids:
 - e43008b8-1289-5c69-9d20-41b74e0e1ec1
 ---
 
-Appeal for Computing Commodities
-
-
 Two rival technology companies – Supratech and Herculean Machines – have appealed for commodities to support The release of forthcoming products. 
 
 Scorpio DeVorrow, CEO of Supratech, issued The following statement:  

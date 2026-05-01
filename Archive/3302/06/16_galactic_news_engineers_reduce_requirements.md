@@ -12,17 +12,13 @@ persons:
 groups:
 - Rewired
 locations: []
-technologies: []
 topics:
 - ship
-modern_impact: Reduced engineering requirements make ship customisation more accessible
-  to a broader range of pilots.
+technologies: []
+modern_impact: Reduced engineering requirements make ship customisation more accessible to a broader range of pilots.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Engineers Reduce Requirements
-
 
 The 'Rewired' news feed is known for Its prodigious output, sometimes releasing Hundreds of stories a day. But balancing such productivity With thorough fact checking is a tall order, and the feed's critics sometimes claim that at least half its output consists of redactions, corrections and apologies. 
 

@@ -32,9 +32,6 @@ related_uuids:
 - 46b722c9-bfdf-5a23-acbf-4a2b7bb177fa
 ---
 
-Engineers Established in Colonia
-
-
 The Colonia Council has announced that four engineers have established bases in the Colonia region, to provide services to Independent pilots. 
 
 Councillor Giselle Kingspear gave a statement to the media: 

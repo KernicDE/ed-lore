@@ -4,6 +4,8 @@ title: Fight Against Cerberus Plague Gains Ground
 slug: fight_against_cerberus_plague_gains_ground
 date: '3301-08-06'
 source: GitHub
+summary: The fight against the Cerberus Plague is gaining ground as medical teams deliver antidotes to affected systems. The plague has been eradicated from Dajoar, Bastes, Maheou Ti, Eleu, Ochoeng, 20 Ophiuchi, Una, Santjalan, BD-02 4304, Chongguls, Xamentii, and G 139-50. Efforts continue to help those still suffering from the disease.
+player_impact: Pilots delivering Ceremonial Heike Tea and medical supplies have contributed to eradicating the plague in multiple systems. Continue supporting relief efforts to eliminate the disease entirely.
 locations:
 - Dajoar
 - Bastes
@@ -20,18 +22,11 @@ locations:
 topics:
 - medicine
 arc_id: cerberus-plague
-summary: The fight against the Cerberus Plague is gaining ground as medical teams deliver antidotes to affected systems. The plague has been eradicated from Dajoar, Bastes, Maheou Ti, Eleu, Ochoeng, 20 Ophiuchi, Una, Santjalan, BD-02 4304, Chongguls, Xamentii, and G 139-50. Efforts continue to help those still suffering from the disease.
-player_impact: Pilots delivering Ceremonial Heike Tea and medical supplies have contributed to eradicating the plague in multiple systems. Continue supporting relief efforts to eliminate the disease entirely.
 modern_impact: Marks a significant phase in the fight against a devastating plague that killed over 100,000.
 legacy_weight: 4
 significance: high
 ---
 
-Fight Against Cerberus Plague Gains Ground
-
-
-Fight Against Cerberus Plague Gains Ground 
- 
 The fight against The Cerberus Plague, Which to date has claimed thousands of lives, appears to be gaining ground. Following the efforts of medical teams to deliver the antidote to systems affected by the disease, reports have reached us that the plague has been eradicated from The following systems: 
 
 Dajoar  

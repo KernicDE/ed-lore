@@ -35,9 +35,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 There has been widespread disquiet over recent reports that Thargoid ships have been encountered In The core systems. Admiral Aden Tanner, chief military liaison for Aegis, addressed these concerns, saying, “Reports that the Thargoids are encroaching upon the core systems en masse are grossly overstated. The enemy is contained.” 

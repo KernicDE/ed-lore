@@ -29,9 +29,6 @@ related_uuids:
 - a0727980-09f7-5908-b180-38abb526af92
 ---
 
-Investors Abandon Herculean Machines
-
-
 An anonymous source has revealed that Maddox Hurd, owner of technology company Herculean Machines, was previously investigated by The Federal Security Service. 
 
 The source shared recently declassified FSS records on the Rewired news channel, and stated: 

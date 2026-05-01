@@ -62,9 +62,6 @@ related_uuids:
 - 9fd16cfc-fc44-55ca-9deb-4b0129f50261
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 A descendant of Amaro Hem, One of The INRA’s senior members, has been Murdered by terrorist group the League of Reparation. The murder recreated the circumstances of Commander John Jameson’s death, and has been interpreted as an act of poetic justice by the League of Reparation. Senior Agent Tanya Ramirez said that the League was using theatrical tactics to ensure Its message reached the media. 

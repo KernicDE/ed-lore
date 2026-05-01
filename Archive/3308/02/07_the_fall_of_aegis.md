@@ -4,7 +4,8 @@ title: The Fall of Aegis
 slug: the_fall_of_aegis
 date: '3308-02-07'
 source: API
-arc_id: salvation-azimuth
+summary: Aegis shutdown procedures continue despite revelations that Azimuth Biochemicals was responsible for the Alexandria's loss.
+player_impact: Not specifically mentioned — this is an organizational report.
 persons:
 - Conrad Sterling
 groups:
@@ -21,9 +22,10 @@ topics:
 - bioweapon
 - corporate expansion
 - war
-summary: Aegis shutdown procedures continue despite revelations that Azimuth Biochemicals was responsible for the Alexandria's loss.
-player_impact: Not specifically mentioned — this is an organizational report.
-modern_impact: "\"Salvation's methods have proved more effective in counteracting the Thargoid threat.\" Aegis's dismantlement and the military's embrace of Salvation signal a fundamental shift in anti-xeno strategy toward unaccountable corporate solutions."
+arc_id: salvation-azimuth
+modern_impact: '"Salvation''s methods have proved more effective in counteracting the Thargoid threat." Aegis''s dismantlement and the military''s embrace of Salvation signal a fundamental shift in anti-xeno strategy toward unaccountable corporate solutions.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - abc2fd5a-4eb4-5e36-ba45-d821adf6847e
 - f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
@@ -35,10 +37,7 @@ related_uuids:
 - 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
-legacy_weight: 5
-significance: high
 ---
-
 
 Shutdown procedures for The anti-xeno organisation are continuing, despite Aegis’s warnings that Azimuth has returned. 
 Conrad Sterling reported on the situation for Vox Galactica:

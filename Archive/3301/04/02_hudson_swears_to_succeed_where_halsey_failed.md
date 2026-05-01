@@ -11,14 +11,10 @@ topics:
 - succession
 - war
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
 ---
-
-Hudson Swears to Succeed Where Halsey Failed!
-
 
 Appearing on The popular Federal Politics Show, ‘Face The People’, Shadow President Hundson faced some tough questions about his recent criticism of President Halsey. 
 

@@ -25,9 +25,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Skvortsov Orbital Explorers' Gala
-
-
 With the successful conclusion of The Distant Worlds Expedition looming, intrepid explorers both within and without the bubble are turning to the bubbly, and O'Malligan's Coffee Bar at Skvortsov Orbital has announced plans to throw a party for the returning travellers. A spokesperson for the establishment said: 
 
 "What does an explorer want after they've returned to the bubble, stumbled out of their ship and cashed in at Universal Cartographics? A drink or two! So we're throwing the party of the century to celebrate the achievements of the Distant Worlds pilots, and Other intrepid explorers." 

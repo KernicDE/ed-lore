@@ -26,9 +26,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Children of Raxxla Release Report
-
-
 The Children of Raxxla, based in the HR 6421 system, have released an analysis of the exploration data recovered by the galactic community in November last year. 
 
 A spokesperson for the organisation said: 

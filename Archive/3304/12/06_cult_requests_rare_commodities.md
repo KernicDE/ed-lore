@@ -23,9 +23,6 @@ related_uuids:
 - e276e873-4472-55b5-a28a-df08a91ee40a
 ---
 
-Cult Requests Rare Commodities
-
-
 An obscure cult based in The Zlota system has requested a range of rare items for an arcane ceremony. 
 
 A handwritten statement from Barnabas Cole, leader of a group named the Children of Tothos, was submitted to the media: 

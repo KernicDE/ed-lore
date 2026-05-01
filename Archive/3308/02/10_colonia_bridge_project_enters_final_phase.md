@@ -4,7 +4,8 @@ title: Colonia Bridge Project Enters Final Phase
 slug: colonia_bridge_project_enters_final_phase
 date: '3308-02-10'
 source: API
-arc_id: null
+summary: The Colonia Bridge project enters its final phase with deliveries requested for new starport services.
+player_impact: Pilots were requested to deliver goods to Alcor and Colonia for new starport services.
 groups:
 - Brewer Corporation
 - Universal Cartographics
@@ -15,15 +16,13 @@ topics:
 - corporate expansion
 - exploration
 - war
-summary: The Colonia Bridge project enters its final phase with deliveries requested for new starport services.
-player_impact: Pilots were requested to deliver goods to Alcor and Colonia for new starport services.
-modern_impact: "\"Deliveries have been requested in the Alcor and Colonia systems to implement services to the Colonia Bridge starports.\" The project's final phase demonstrates how sustained pilot collaboration can build permanent infrastructure across interstellar distances."
+arc_id: null
+modern_impact: '"Deliveries have been requested in the Alcor and Colonia systems to implement services to the Colonia Bridge starports." The project''s final phase demonstrates how sustained pilot collaboration can build permanent infrastructure across interstellar distances.'
 legacy_weight: 3
 significance: medium
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Deliveries have been requested in The Alcor and Colonia systems to implement services to the Colonia Bridge starports.
 A press release from Brewer Corporation provided the details:
 “The fourth and final phase of Our Colonia Bridge project will take place over the next four weeks. Our goal is to finish constructing the starports that were recently added to the route between the Colonia and Alcor systems.”

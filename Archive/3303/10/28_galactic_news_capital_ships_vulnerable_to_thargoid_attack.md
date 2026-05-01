@@ -11,22 +11,18 @@ persons:
 groups:
 - Aegis
 locations: []
+topics:
+- alien contact
+- ship
 technologies:
 - shutdown field neutraliser
 - capital ships
 - shutdown beams
-topics:
-- alien contact
-- ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Capital Ships Vulnerable to Thargoid Attack
-
 
 Admiral Aden Tanner, Aegis’s chief military liaison, has addressed reports of capital ships being destroyed by The Thargoids. 
 

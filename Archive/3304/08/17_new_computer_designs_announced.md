@@ -28,9 +28,6 @@ related_uuids:
 - 9b7efc43-c412-55ad-a2b0-3c04798a14bc
 ---
 
-New Computer Designs Announced
-
-
 Federal Times journalist Harlow Nassry has highlighted two new personal computer designs currently in development: 
 
 “For a long time, The Sirius and Achilles corporations have been The main suppliers of personal computing devices, but two smaller companies are aiming to challenge that monopoly.” 

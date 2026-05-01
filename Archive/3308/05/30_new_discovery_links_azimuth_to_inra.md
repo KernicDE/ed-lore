@@ -4,7 +4,8 @@ title: New Discovery Links Azimuth to INRA
 slug: new_discovery_links_azimuth_to_inra
 date: '3308-05-30'
 source: API
-arc_id: salvation-azimuth
+summary: Professor Alba Tesreau reveals logs linking Azimuth Biochemicals to INRA's mycoid virus development, potentially exposing Salvation's true identity.
+player_impact: Pilots who had supported Aegis verified the location of the previously undiscovered INRA outpost in DG Canum Venaticorum.
 persons:
 - Alba Tesreau
 groups:
@@ -22,17 +23,16 @@ topics:
 - corporate expansion
 - research
 - war
-player_impact: Pilots who had supported Aegis verified the location of the previously undiscovered INRA outpost in DG Canum Venaticorum.
-summary: Professor Alba Tesreau reveals logs linking Azimuth Biochemicals to INRA's mycoid virus development, potentially exposing Salvation's true identity.
-modern_impact: "\"Most significantly, I believe these logs may finally reveal Salvation's real name and background. I urge the superpowers to halt their collaboration with Salvation while this new data is verified.\" Tesreau's discovery shattered the fragile consensus around Salvation, revealing that the architect of humanity's anti-xeno strategy had roots in INRA's genocidal bioweapons programme."
+arc_id: salvation-azimuth
+modern_impact: '"Most significantly, I believe these logs may finally reveal Salvation''s real name and background. I urge the superpowers to halt their collaboration with Salvation while this new data is verified." Tesreau''s discovery shattered the fragile consensus around Salvation, revealing that the architect of humanity''s anti-xeno strategy had roots in INRA''s genocidal bioweapons programme.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 6a3fd658-33a2-5409-8ade-90b666edefc5
 - 29bf2db7-3c10-5736-b2d8-666b8df99cb4
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 An abandoned outpost in The DG Canum Venaticorum system could reveal the true identity of the anonymous figure Salvation.
 Professor Alba Tesreau, former head of research at Aegis, made a public announcement:
 “An untraceable source pointed me to the DG Canum Venaticorum system With the question: Who is Salvation? A unique detail caught my attention, so I requested verification from pilots who had supported Aegis. We Found a previously undiscovered research outpost once controlled by the Intergalactic Naval Reserve Arm.”

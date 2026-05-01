@@ -30,9 +30,6 @@ related_uuids:
 - c29acb57-2dff-58fc-95b5-009815fe9be9
 ---
 
-Aisling Duval Assassination Foiled
-
-
 An attempt to assassinate Princess Aisling Duval has been prevented by The Imperial Internal Security Service. 
 
 The attempt occurred in the Zhao system during a fundraising event for Unchain, the anti-slavery charity formed by the princess and campaigner Jarl Toredo.  

@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Halloween Appeal Concludes
-
-
 A spokesperson for The Hallowed Chapter of LHS 2094 has announced that Its appeal for commodities has been enthusiastically received by the galactic community. Hundreds of pilots took to their ships to deliver goods to the LHS 2094 system for an opulent Halloween party, and to protect those ferrying commodities to Patterson Vision. 
 
 As the campaign drew to a close, a spokesperson for the Hallowed Chapter of LHS 2094 released The following statement: 

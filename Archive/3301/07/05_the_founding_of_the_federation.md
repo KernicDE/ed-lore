@@ -4,6 +4,8 @@ title: The Founding of the Federation
 slug: the_founding_of_the_federation
 date: '3301-07-05'
 source: GitHub
+summary: Historian Sima Kalhana's first article in a series on defining human moments covers the Federation's founding. The Federation arose from the ashes of the Third World War in the mid-21st century. The discovery of Martian fossils and the invention of the hyperdrive by Li Qin Jao triggered explosive colonisation, leading to ecological excesses that prompted Earth's intervention. In 2242, the Federation Accord united many colonies, with Taylor Colony in Tau Ceti becoming the first signatory outside Sol. The name briefly changed to 'Federation of Star Systems' before reverting.
+player_impact: None
 persons:
 - Sima Kalhana
 - Li Qin Jao
@@ -19,19 +21,10 @@ topics:
 - history
 - corporate expansion
 - exploration
-summary: Historian Sima Kalhana's first article in a series on defining human moments covers the Federation's founding. The Federation arose from the ashes of the Third World War in the mid-21st century. The discovery of Martian fossils and the invention of the hyperdrive by Li Qin Jao triggered explosive colonisation, leading to ecological excesses that prompted Earth's intervention. In 2242, the Federation Accord united many colonies, with Taylor Colony in Tau Ceti becoming the first signatory outside Sol. The name briefly changed to 'Federation of Star Systems' before reverting.
-player_impact: None
 modern_impact: Foundational history explaining the Federation's origins as a stabilising force following corporate-driven colonial excess and the Third World War.
 legacy_weight: 4
 significance: high
 ---
-
-The Founding of The Federation
-
-
-The Founding of the Federation 
- 
-The Founding of the Federation 
 
 In This new series exclusive to GalNet, famed historian Sima Kalhana visits the defining moments of human history since Our first brave steps into space and to The star-spanning species we have since become. In This first article, she talks about the founding of the Federation. With a history spanning millennia, it is the oldest of the major factions. 
 

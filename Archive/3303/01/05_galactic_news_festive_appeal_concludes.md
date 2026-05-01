@@ -15,18 +15,15 @@ locations:
 - Clauss Port
 - Njambalba
 - Frost Dock
-technologies: []
 topics:
 - corporate expansion
 - festival
 - trade
+technologies: []
 modern_impact: Seasonal community goal delivering personal gifts from Njambalba to Santa Muerte.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Festive Appeal Concludes
-
 
 Clauss Incorporated has announced that Its festive appeal received The enthusiastic support of the galactic community, With Hundreds of pilots taking to their ships to transport personal gifts from Frost Dock in the Njambalba system to Clauss Port in the Santa Muerte system. Nicolas St Clauss, CEO of Clauss Incorporated, released a brief statement: 
 

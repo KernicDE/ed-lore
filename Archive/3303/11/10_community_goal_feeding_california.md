@@ -25,9 +25,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Feeding California
-
-
 The Spinward Marches Alliance Concern has announced plans to establish An agricultural facility in the Synuefai LX-R d5-28 system, With the aim of supporting the Alliance and Turner Research Group outposts in the California Nebula. 
 
 To support This goal, the organisation has asked the galactic community to deliver terrain enrichment systems, crop harvesters and auto fabricators to Hansford’s Landing in the BD+22 4939 system. Commanders who support the campaign will be generously compensated. 

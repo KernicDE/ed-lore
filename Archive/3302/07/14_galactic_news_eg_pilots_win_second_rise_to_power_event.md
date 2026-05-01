@@ -4,26 +4,20 @@ title: Galactic News  EG Pilots win Second Rise to Power Event
 slug: galactic_news_eg_pilots_win_second_rise_to_power_event
 date: '3302-07-14'
 source: GitHub
+summary: The second heat of the Rise to Power competition tasked pilots with stealing technical blueprints in the Nervi system. The EG Pilots faction won the stage after receiving the largest quantity of stolen blueprints.
+player_impact: Steal technical blueprints in the Nervi system for your chosen faction.
+persons: []
+groups:
+- EG Pilots
 locations:
 - Nervi
 topics:
 - sport
-modern_impact: Reinforces the Rise to Power format as a recurring competitive event
-  that rewards unlawful acquisition and factional loyalty.
+technologies: []
+modern_impact: Reinforces the Rise to Power format as a recurring competitive event that rewards unlawful acquisition and factional loyalty.
 legacy_weight: 1
 significance: low
-summary: The second heat of the Rise to Power competition tasked pilots with stealing
-  technical blueprints in the Nervi system. The EG Pilots faction won the stage after
-  receiving the largest quantity of stolen blueprints.
-player_impact: Steal technical blueprints in the Nervi system for your chosen faction.
-groups:
-- EG Pilots
-persons: []
-technologies: []
 ---
-
-Galactic News: EG Pilots win Second Rise to Power Event
-
 
 The second heat of the Rise to Power campaign is over. For This event, pilots were asked to head to the Nervi system and gather technical blueprints for their chosen faction. The One condition imposed on the pilots was that the technical blueprints must be stolen – a stipulation that gave rise to a number of clashes With Nervi security forces. 
 

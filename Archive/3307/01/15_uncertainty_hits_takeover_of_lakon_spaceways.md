@@ -4,7 +4,8 @@ title: Uncertainty Hits Takeover of Lakon Spaceways
 slug: uncertainty_hits_takeover_of_lakon_spaceways
 date: 3307-01-15
 source: API
-arc_id: null
+summary: The purchase of shipbuilding company Lakon Spaceways by Core Dynamics is in doubt after allegations of illegal business practices.
+player_impact: The corporate takeover generated significant market and political interest among pilots.
 persons:
 - Its
 - Jupiter
@@ -23,9 +24,10 @@ locations:
 topics:
 - corporate expansion
 - scandal
-player_impact: The corporate takeover generated significant market and political interest among pilots.
-summary: The purchase of shipbuilding company Lakon Spaceways by Core Dynamics is in doubt after allegations of illegal business practices.
-modern_impact: "\"We welcome becoming closer partners with the Alliance.\" The Lakon Spaceways takeover saga demonstrated the Alliance's determination to maintain domestic shipbuilding independence against Federal corporate encroachment."
+arc_id: null
+modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic shipbuilding independence against Federal corporate encroachment.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - a3c076ad-3a02-5e61-98b0-a3cd15189a48
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
@@ -33,8 +35,6 @@ related_uuids:
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
 - e25e2c83-7be4-5236-9a1a-93321f277b40
-legacy_weight: 2
-significance: low
 ---
 
 The purchase of shipbuilding company Lakon Spaceways by Core Dynamics is in doubt after allegations of illegal business practices.

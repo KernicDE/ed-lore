@@ -14,17 +14,14 @@ locations:
 - LP 339-7
 - LP 339-7 4 A
 - Whitson Orbital
-technologies: []
 topics:
 - corporate expansion
 - trade
+technologies: []
 modern_impact: Successful creation of a wildlife reserve on LP 339-7 4 A highlights corporate efforts to develop new tourist destinations.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Wildlife Reserve Campaign Concludes
-
 
 Media outlets in The LP 339-7 system have reported that the Starship Enterprises Corporation wildlife reserve campaign has reached a successful conclusion. 
 

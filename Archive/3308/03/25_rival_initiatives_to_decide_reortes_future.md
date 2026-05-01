@@ -4,7 +4,8 @@ title: Rival Initiatives to Decide Reorte’s Future
 slug: rival_initiatives_to_decide_reortes_future
 date: '3308-03-25'
 source: API
-arc_id: null
+summary: Rival delivery campaigns determine whether Reorte remains in the Alliance or seeks independence.
+player_impact: Pilots were asked to deliver goods to either the Reorte Mining Coalition or the Reorte Pro-Alliance League.
 groups:
 - Alliance
 - Sirius Corporation
@@ -18,15 +19,13 @@ topics:
 - engineering
 - festival
 - independence
-summary: Rival delivery campaigns determine whether Reorte remains in the Alliance or seeks independence.
-player_impact: Pilots were asked to deliver goods to either the Reorte Mining Coalition or the Reorte Pro-Alliance League.
-modern_impact: "\"Deliveries to the Reorte Mining Coalition or the Reorte Pro-Alliance League will help determine the system's status.\" The competitive delivery campaign places Reorte's political future directly in the hands of independent pilots."
+arc_id: null
+modern_impact: '"Deliveries to the Reorte Mining Coalition or the Reorte Pro-Alliance League will help determine the system''s status." The competitive delivery campaign places Reorte''s political future directly in the hands of independent pilots.'
 legacy_weight: 4
 significance: high
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Deliveries to The Reorte Mining Coalition or The Reorte Pro-Alliance League will help determine the system’s status.
 The system’s controlling faction wishes to declare Independence, in protest against Sirius Corporation’s proposed anti-xeno defence pact With the Alliance Defence Force. 
 The Reorte Mining Coalition’s CEO Fergus Cassidy announced:

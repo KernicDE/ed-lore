@@ -4,7 +4,8 @@ title: Neo-Marlinist Faction Defeated in Battle
 slug: neo_marlinist_faction_defeated_in_battle
 date: '3307-04-08'
 source: API
-arc_id: nmla-terrorism
+summary: The Neo-Marlinist Order of Mudhrid is defeated in the Mudhrid system by Imperial forces. Landgrave Delacroix evades capture and flees aboard the Steel Majesty. ACT Inspector Mara Klatt declares it a victory and reveals insights into the NMLA's modus operandi of recruiting disenfranchised leaders.
+player_impact: Pilots supported the Epsilon Fornacis Empire Group in defeating the Neo-Marlinist Order of Mudhrid and received rewards at Payne-Scott City.
 persons:
 - Arastin Delacroix
 - Mara Klatt
@@ -14,27 +15,25 @@ groups:
 - Neo-Marlinist Order of Mudhrid
 - NMLA
 - Pilots Federation
-
 locations:
 - Mudhrid
 - Payne-Scott City
-technologies:
-- Steel Majesty megaship
 topics:
 - independence
 - war
-player_impact: Pilots supported the Epsilon Fornacis Empire Group in defeating the Neo-Marlinist Order of Mudhrid and received rewards at Payne-Scott City.
-summary: The Neo-Marlinist Order of Mudhrid is defeated in the Mudhrid system by Imperial forces. Landgrave Delacroix evades capture and flees aboard the Steel Majesty. ACT Inspector Mara Klatt declares it a victory and reveals insights into the NMLA's modus operandi of recruiting disenfranchised leaders.
+technologies:
+- Steel Majesty megaship
+arc_id: nmla-terrorism
 modern_impact: The defeat of the Neo-Marlinist Order of Mudhrid triggers the refugee crisis as survivors flee to the Marlinist Colonies, leading to the conditional amnesty deal that produces key intelligence on NMLA leadership.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 4f51bc7e-be8a-5c71-9a1f-574542707362
 - df6ae4ee-fca4-532d-af01-2d2e609c7b15
 - 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The Mudhrid system conflict has ended With the Epsilon Fornacis Empire Group overcoming the Neo-Marlinist Order of Mudhrid.
 This was triggered by ACT discovering that the Neo-Marlinist faction had provided transports and logistical support for the NMLA’s attacks against nine starports.
 The Epsilon Fornacis Empire Group has thanked all pilots who contributed to Its triumph. Rewards are now available at Payne-Scott City in the Mudhrid system.

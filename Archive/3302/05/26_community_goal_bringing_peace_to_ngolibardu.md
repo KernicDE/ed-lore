@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Bringing Peace to Ngolibardu
-
-
 Authorities in The Ngolibardu system have reported that The number of criminals operating in the area has risen sharply over the past few months. Recent reports indicate that agitators have been attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 
 To counter This threat, Ngolibardu Electronics Solutions has placed a kill order on all wanted ships operating in the Ngolibardu system, and has promised to reward pilots who deliver bounty vouchers to Vernadsky Port. 

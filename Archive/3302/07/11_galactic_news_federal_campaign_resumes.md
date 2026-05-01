@@ -4,33 +4,25 @@ title: Galactic News  Federal Campaign Resumes
 slug: galactic_news_federal_campaign_resumes
 date: '3302-07-11'
 source: GitHub
-topics:
-- construction
-- trade
-- war
-arc_id: pleiades-expansion
-modern_impact: Demonstrates the Federation's willingness to deploy capital ships to
-  enforce construction timelines and protect supply lines in contested space.
-legacy_weight: 3
-significance: medium
-summary: The Federation has convinced Segovan authorities to lift the lockdown on
-  Ramsbottom Hub after Imperial pilots disrupted the Federal outpost construction
-  campaign. Two Farragut-class Battlecruisers were dispatched to the system, and
-  the Federation has renewed its appeal for pilot support.
-player_impact: Federally aligned pilots are asked to deliver construction materials
-  to Ramsbottom Hub in the Segovan system to support the outpost campaign.
+summary: The Federation has convinced Segovan authorities to lift the lockdown on Ramsbottom Hub after Imperial pilots disrupted the Federal outpost construction campaign. Two Farragut-class Battlecruisers were dispatched to the system, and the Federation has renewed its appeal for pilot support.
+player_impact: Federally aligned pilots are asked to deliver construction materials to Ramsbottom Hub in the Segovan system to support the outpost campaign.
+persons: []
 groups:
 - Federation
 locations:
 - Segovan
 - Ramsbottom Hub
+topics:
+- construction
+- trade
+- war
 technologies:
 - Farragut-class Battlecruiser
-persons: []
+arc_id: pleiades-expansion
+modern_impact: Demonstrates the Federation's willingness to deploy capital ships to enforce construction timelines and protect supply lines in contested space.
+legacy_weight: 3
+significance: medium
 ---
-
-Galactic News: Federal Campaign Resumes
-
 
 Four days ago, The Federation launched a campaign to construct a new Federal outpost in the Segovan system. Federally aligned pilots were invited to contribute construction materials to the campaign, But the request proved controversial, With various sections of the galactic community asking why the Federation was expanding towards the Pleiades sector. 
 

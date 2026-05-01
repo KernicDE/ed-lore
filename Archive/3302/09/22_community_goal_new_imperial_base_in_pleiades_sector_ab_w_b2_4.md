@@ -13,18 +13,15 @@ locations:
 - Pleiades Sector AB-W B2-4
 - Maia
 - Obsidian Orbital
-technologies: []
 topics:
 - trade
 - construction
+technologies: []
 arc_id: barnacle-meta-alloy
 modern_impact: Imperial base construction in the Pleiades directly contests Federal dominance over meta-alloy sources and escalates superpower competition in the region.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: New Imperial Base in Pleiades Sector AB-W B2-4
-
 
 The Merope Expeditionary Fleet has been tasked With constructing a new forward operating base in the Pleiades Sector Ab-W B2-4 system on behalf of the Empire. The new outpost will support the Empire's ongoing operations in the Pleiades Nebula. 
 

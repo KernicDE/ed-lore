@@ -4,20 +4,19 @@ title: Marlinist Refugee Crisis Grows Critical
 slug: marlinist_refugee_crisis_grows_critical
 date: '3306-12-08'
 source: API
-groups:
-- Federal Navy
-- Federal Security Service
+summary: Hundreds of thousands of Marlinist refugees flee the Empire to the Federation, bringing the superpowers to the brink of conflict as Congress debates their fate.
+player_impact: None
 persons:
 - Zachary Hudson
 - Felicia Winters
+groups:
+- Federal Navy
+- Federal Security Service
 topics:
 - humanitarian
 - terrorism
 - war
 arc_id: federal-politics
-summary: Hundreds of thousands of Marlinist refugees flee the Empire to the Federation,
-  bringing the superpowers to the brink of conflict as Congress debates their fate.
-player_impact: None
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium

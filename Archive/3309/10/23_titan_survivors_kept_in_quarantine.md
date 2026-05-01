@@ -4,7 +4,11 @@ title: Titan Survivors Kept in Quarantine
 slug: titan_survivors_kept_in_quarantine
 date: '3309-10-23'
 source: API
-entities: []
+summary: Thousands of rescued Titan captives remain in strict quarantine across all superpowers, with Tesreau reporting positive medical outcomes but governments maintaining caution.
+player_impact: Pilots are using sub-surface extraction missiles to rescue captives from Titans.
+persons:
+- Alba Tesreau
+- Ernesto Rios
 groups:
 - Aegis
 locations: []
@@ -12,13 +16,9 @@ topics:
 - humanitarian
 - medicine
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's reassurance — 'otherwise they appear to be unharmed' — contrasts with government caution. Rios's observation about 'widespread concern that whatever the Thargoids had planned for their human captives was set in motion before rescue efforts began' captures public paranoia. The mention of barnacle matrix sites 'undergone enormous growth' with 'towering spires' foreshadows the spire site emergence."
-persons:
-- Alba Tesreau
-- Ernesto Rios
-player_impact: "Pilots are using sub-surface extraction missiles to rescue captives from Titans."
-summary: "Thousands of rescued Titan captives remain in strict quarantine across all superpowers, with Tesreau reporting positive medical outcomes but governments maintaining caution."
+modern_impact: Tesreau's reassurance — 'otherwise they appear to be unharmed' — contrasts with government caution. Rios's observation about 'widespread concern that whatever the Thargoids had planned for their human captives was set in motion before rescue efforts began' captures public paranoia. The mention of barnacle matrix sites 'undergone enormous growth' with 'towering spires' foreshadows the spire site emergence.
 legacy_weight: 4
 significance: high
 related_uuids:

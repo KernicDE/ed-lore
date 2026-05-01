@@ -1,22 +1,18 @@
 ---
 uuid: 224b5274-9084-58c4-bcc5-96d3d962784f
-title: Terrorism Claims Against Wolzan and the Shadow Navy Denounced by Crimson Fortune
-  Company
+title: Terrorism Claims Against Wolzan and the Shadow Navy Denounced by Crimson Fortune Company
 slug: terrorism_claims_against_wolzan_and_the_shadow_navy_denounced_by_crimson_fortune_company
 date: '3301-05-25'
 source: GitHub
-entities:
-- Wolzan
 topics:
 - corporate expansion
 - terrorism
+entities:
+- Wolzan
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Terrorism Claims Against Wolzan and The Shadow Navy Denounced by Crimson Fortune Company
-
 
 Ellie Blossum, The CEO of the Crimson Fortune Company, has today issued a statement regarding the recent unrest in Liaedin. 
 

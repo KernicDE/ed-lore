@@ -12,22 +12,17 @@ groups:
 - Fuel Rats
 - Pilots Federation
 locations: []
-technologies: []
 topics:
 - exploration
 - piracy
 - ship
 - trade
+technologies: []
 modern_impact: Formal recognition of the Fuel Rats by the Pilots Federation established them as a legitimate player-driven rescue service.
 legacy_weight: 3
 significance: medium
 ---
 
-The Pilots Federation Supports Fuel Rat Initiative
-
-
-The Pilots Federation Supports Fuel Rat Initiative  
- 
 Each year, thousands of pilots go Missing in the black. 
 
 Some are waylaid by pirates. Others are lost to the dangers of space. However, an estimated 63% of all deep space losses are attributed to pilots who simply Run out of fuel in an area where others rarely tread.  

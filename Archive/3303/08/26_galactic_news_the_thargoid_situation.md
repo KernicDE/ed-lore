@@ -4,10 +4,7 @@ title: Galactic News  The Thargoid Situation
 slug: galactic_news_the_thargoid_situation
 date: '3303-08-26'
 source: GitHub
-summary: This article recounts the history of Thargoid contact from the discovery of
-  Unknown Artefacts in 3301 through to recent attacks and the creation of Aegis. Professor
-  Cora Shaw of the Palin Institute and journalist Kelvin Masters offer differing assessments
-  on Thargoid intentions and the potential for imminent attack.
+summary: This article recounts the history of Thargoid contact from the discovery of Unknown Artefacts in 3301 through to recent attacks and the creation of Aegis. Professor Cora Shaw of the Palin Institute and journalist Kelvin Masters offer differing assessments on Thargoid intentions and the potential for imminent attack.
 player_impact: None
 persons:
 - Cora Shaw
@@ -20,20 +17,16 @@ locations:
 - Maia
 - Merope
 - Pleiades Nebula
-technologies: []
 topics:
 - alien contact
 - research
 - ship
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: The Thargoid Situation
-
 
 Although the first hints of the Thargoid presence began With the discovery of Unknown Artefacts in 3301, the current chapter in the Thargoid story started last year With the discovery of alien shipwrecks in the Pleiades Nebula. A few months later, in January 3303, the first interdiction from a Thargoid ship was reported. 
 

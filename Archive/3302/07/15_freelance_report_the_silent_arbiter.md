@@ -15,14 +15,10 @@ locations:
 - Maia
 technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: The Silent Arbiter
-
 
 As Utopia completes Its mission in the Maia system, senior Utopian figures have voiced alarm at the deteriorating situation between the Federation and the Empire over the barnacles. One member of the commune said: 
 

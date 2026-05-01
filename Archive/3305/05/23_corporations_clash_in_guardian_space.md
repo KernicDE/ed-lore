@@ -4,6 +4,8 @@ title: Corporations Clash in Guardian Space
 slug: corporations_clash_in_guardian_space
 date: '3305-05-23'
 source: GitHub
+summary: Zende Partners and Segnen Exchange openly clash in Synuefe EN-H d11-96, each calling on independent pilots to support their respective outposts and advance competing Guardian technology weapon programs.
+player_impact: Pilots could choose to support either Zende Partners at The Prospect or Segnen Exchange at Indigo Dock in the conflict.
 persons:
 - Freya Taine
 - Cedrik Stone
@@ -17,8 +19,6 @@ topics:
 - research
 - war
 - xenoarchaeology
-summary: Zende Partners and Segnen Exchange openly clash in Synuefe EN-H d11-96, each calling on independent pilots to support their respective outposts and advance competing Guardian technology weapon programs.
-player_impact: Pilots could choose to support either Zende Partners at The Prospect or Segnen Exchange at Indigo Dock in the conflict.
 modern_impact: The corporate conflict in Guardian space set a precedent for player-driven faction warfare over access to alien technology, with Zende Partners ultimately securing control of the system.
 legacy_weight: 4
 significance: high
@@ -27,9 +27,6 @@ related_uuids:
 - a7cf6573-70fc-5e17-bbc9-7867966c94ad
 - 131bcfd7-f26c-5fbf-a041-85731e6a9b55
 ---
-
-Corporations Clash in Guardian Space
-
 
 A successful appeal by Zende Partners for Guardian commodities has led to The appointment of a technology broker at The Prospect, where Guardian modules are now available. The initiative has seen a marked increase in violence in the Synuefe EN-H d11-96 system, however, recently established as a hub of Guardian technological research. 
 

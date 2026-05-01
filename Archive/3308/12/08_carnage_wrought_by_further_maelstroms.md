@@ -4,7 +4,8 @@ title: Carnage Wrought by Further Maelstroms
 slug: carnage_wrought_by_further_maelstroms
 date: '3308-12-08'
 source: API
-arc_id: salvation-azimuth
+summary: The rogue signal sources Cocijo and Oya have arrived at their estimated destinations.
+player_impact: Independent pilots were encouraged to participate in the unfolding events.
 persons:
 - Alba Tesreau
 - Seo Jin-ae
@@ -15,23 +16,19 @@ topics:
 - corporate expansion
 - humanitarian
 - war
-player_impact: Independent pilots were encouraged to participate in the unfolding
-  events.
-summary: The rogue signal sources Cocijo and Oya have arrived at their estimated destinations.
-modern_impact: '"Full-scale war with the Thargoids has always been my greatest fear.
-  It is now a reality. It’s more crucial than ever ..." The relentless expansion of
-  Thargoid forces redefined the scale of the Second Thargoid War.'
+arc_id: salvation-azimuth
+modern_impact: '"Full-scale war with the Thargoids has always been my greatest fear. It is now a reality. It’s more crucial than ever ..." The relentless expansion of Thargoid forces redefined the scale of the Second Thargoid War.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 0c37c634-123c-5ee7-9616-d3f4b4263c90
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - b4105542-6e24-5875-a60c-7ccd557e87d6
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The rogue signal sources Cocijo and Oya have arrived at their estimated destinations.
 Their impact mirrored that of the Taranis, Indra and Leigong Maelstroms. A total of 16 neighbouring systems were immediately overwhelmed by Thargoid fleets, which launched devastating bombardments against orbital starports and planetary infrastructure. 
 Other inhabited systems in the vicinity are resisting occupation. Superpower capital ships and independent pilots are currently battling to protect the local populations.

@@ -23,9 +23,6 @@ related_uuids:
 - 0f00978d-98ca-5559-886d-b31243d1db3c
 ---
 
-Children of Tothos Initiative Concludes
-
-
 An initiative to deliver rare commodities to an esoteric cult in The Zlota system has concluded. 
 
 Independent traders provided Aganippe Rush, Motrona Experience Jelly and Onion Head for a ceremony to be performed by the Children of Tothos. Other pilots protected the rare goods from being taken by pirates. 

@@ -4,23 +4,20 @@ title: Coalsack Nebula Terraforming Project Stalls
 slug: coalsack_nebula_terraforming_project_stalls
 date: '3306-12-28'
 source: API
+summary: Sirius Atmospherics reports that preliminary terraforming efforts in the Coalsack Nebula are less effective than simulated, though the Alliance confirms increased personnel and equipment deployments to the region.
+player_impact: None
+persons:
+- Maximilian North
+- Flint 'Firemaker' Lafosse
 groups:
 - Alliance
 - Sirius Corporation
 - Sirius Atmospherics
-persons:
-- Maximilian North
-- Flint 'Firemaker' Lafosse
 topics:
 - corporate expansion
 - exploration
 - research
-summary: Sirius Atmospherics reports that preliminary terraforming efforts in the Coalsack
-  Nebula are less effective than simulated, though the Alliance confirms increased personnel
-  and equipment deployments to the region.
-player_impact: None
-modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand human
-  habitation into previously hostile environments.
+modern_impact: Terraforming initiatives in the Coalsack Nebula continue to expand human habitation into previously hostile environments.
 legacy_weight: 2
 significance: low
 ---

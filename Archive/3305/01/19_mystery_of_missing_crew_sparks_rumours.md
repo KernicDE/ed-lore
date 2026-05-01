@@ -4,6 +4,8 @@ title: Mystery of Missing Crew Sparks Rumours
 slug: mystery_of_missing_crew_sparks_rumours
 date: '3305-01-19'
 source: GitHub
+summary: Journalist Flint 'Firemaker' Lafosse fuels speculation about Consuela Knight's disappearance, suggesting causes ranging from Thargoid weapons to the Far God consuming organic tissue in hyperspace.
+player_impact: None — background mystery report.
 persons:
 - Consuela Knight
 - Flint Lafosse
@@ -14,8 +16,6 @@ topics:
 - investigation
 - mystery
 - alien contact
-summary: Journalist Flint 'Firemaker' Lafosse fuels speculation about Consuela Knight's disappearance, suggesting causes ranging from Thargoid weapons to the Far God consuming organic tissue in hyperspace.
-player_impact: None — background mystery report.
 modern_impact: Lafosse's sensational coverage amplified public fear about hyperspace travel safety, causing commercial travel cancellations and permanently linking the Knight case to broader anxieties about unknown cosmic threats.
 legacy_weight: 3
 significance: medium
@@ -23,9 +23,6 @@ related_uuids:
 - 67b68852-5631-5d2f-a8e6-9fd1ec40c1b9
 - f186d6a6-0681-528f-995c-21b7e49f1dc3
 ---
-
-Mystery of Missing Crew Sparks Rumours
-
 
 The disappearance of famous actor Consuela Knight and the crew of her luxury yacht has sparked a flood of rumours. 
 

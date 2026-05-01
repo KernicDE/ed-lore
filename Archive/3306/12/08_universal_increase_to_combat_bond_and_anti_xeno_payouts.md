@@ -4,25 +4,21 @@ title: Universal Increase to Combat Bond and Anti-Xeno Payouts
 slug: universal_increase_to_combat_bond_and_anti_xeno_payouts
 date: '3306-12-08'
 source: API
-groups:
-- Alliance
+summary: Combat bonds and anti-xeno bond payouts are increased across Alliance, Federal, Imperial, and independent space due to financial instability, political tensions, and heightened Thargoid activity.
+player_impact: Pilots received increased payouts for combat bonds and Thargoid kills across all jurisdictions.
 persons:
 - Ophelia Kaufmann
+groups:
+- Alliance
 topics:
 - alien contact
 - war
-summary: Combat bonds and anti-xeno bond payouts are increased across Alliance, Federal,
-  Imperial, and independent space due to financial instability, political tensions, and
-  heightened Thargoid activity.
-player_impact: Pilots received increased payouts for combat bonds and Thargoid kills
-  across all jurisdictions.
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 3
 significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The values of combat bonds and anti-xeno bonds have been increased, as factions focus on bolstering defences.
 Financial instability and the current political tensions have led to factions upscaling their rewards for combat bonds, as well as bonds received for destroying Thargoid vessels. 
 These increases to anti-xeno and combat bonds will be in effect across Alliance, Federal, Imperial and Independent space. They can be processed as usual at any starport offering the relevant services.

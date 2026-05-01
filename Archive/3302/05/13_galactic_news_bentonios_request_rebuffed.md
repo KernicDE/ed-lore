@@ -17,9 +17,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Bentonio's Request Rebuffed
-
-
 Arlo Cortez, a member of Jasmina Halsey's personal staff, has responded to a recent statement from Ricardo Bentonio, The notorious conspiracy theorist. In an official press release, Cortez said: 
 
 "The suggestion that Jasmina has been somehow 'silenced' by oppressive governmental powers is patently ridiculous. The decision to admit Jasmina to the Clearwater Clinic was made by her friends and family. No One else was involved." 

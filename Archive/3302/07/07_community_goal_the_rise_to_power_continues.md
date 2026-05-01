@@ -4,26 +4,19 @@ title: Community Goal  The Rise to Power Continues
 slug: community_goal_the_rise_to_power_continues
 date: '3302-07-07'
 source: GitHub
+summary: The second stage of the Rise to Power competition requires pilots to steal as many technical blueprints as possible for their chosen faction over one week. The faction with the most blueprints will advance toward joining the galaxy's major power players.
+player_impact: Steal technical blueprints for your chosen faction.
+persons: []
+groups: []
+locations: []
 topics:
 - sport
 - trade
-modern_impact: Represents a structured community event encouraging piracy and theft
-  as competitive mechanics, reinforcing underworld gameplay loops.
+technologies: []
+modern_impact: Represents a structured community event encouraging piracy and theft as competitive mechanics, reinforcing underworld gameplay loops.
 legacy_weight: 1
 significance: low
-summary: The second stage of the Rise to Power competition requires pilots to steal
-  as many technical blueprints as possible for their chosen faction over one week.
-  The faction with the most blueprints will advance toward joining the galaxy's major
-  power players.
-player_impact: Steal technical blueprints for your chosen faction.
-groups: []
-locations: []
-persons: []
-technologies: []
 ---
-
-Community Goal: The Rise to Power Continues
-
 
 The first stage of the Rise to Power campaign is over, and the second is about to begin. 
 

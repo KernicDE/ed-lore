@@ -13,18 +13,14 @@ locations:
 - Hel
 - Snow Moon
 - Bento
-technologies: []
 topics:
 - festival
 - trade
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
+technologies: []
+modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---
-
-Faction Issues Festive Request
-
 
 Despite sharing a standard galactic calendar, most human societies prefer to mark The passage of days and years in relation to the stars of their home systems. But a large proportion of the galaxy's human population still observe some shared traditions, despite those traditions being rooted in the seasons of a planet Many have never even visited. Of these, winter solstice festivals are perhaps the most prevalent. 
 

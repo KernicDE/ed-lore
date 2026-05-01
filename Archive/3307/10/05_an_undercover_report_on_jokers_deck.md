@@ -4,10 +4,8 @@ title: 'An Undercover Report on Jokers’ Deck '
 slug: an_undercover_report_on_jokers_deck
 date: '3307-10-05'
 source: API
-groups:
-- Wallglass Investigations Agency
-- Kumo Crew
-- October Consortium
+summary: Francesca Wolfe of Wallglass Investigations provides an undercover report from inside the Jokers' Deck gambling circle before disappearing.
+player_impact: None
 persons:
 - Francesca Wolfe
 - Lexi October
@@ -19,13 +17,13 @@ persons:
 - Volantyne
 - Zachary Rackham
 - Xiona
+groups:
+- Wallglass Investigations Agency
+- Kumo Crew
+- October Consortium
 topics:
 - investigation
-summary: Francesca Wolfe of Wallglass Investigations provides an undercover report
-  from inside the Jokers' Deck gambling circle before disappearing.
-player_impact: None
-modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery
-  in galactic high society.
+modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery in galactic high society.
 legacy_weight: 2
 significance: low
 ---

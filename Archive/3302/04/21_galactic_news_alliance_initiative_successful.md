@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Alliance Initiative Successful
-
-
 An Alliance spokesperson has announced that The campaign to establish a new outpost received the wholehearted support of the galactic community. The spokesperson confirmed that significant quantities of robotics, semi conductors and auto fabricators were delivered to Noti Dock, allowing construction of the new station to begin. 
 
 Harlyn Tavistok, a member of the Alliance Assembly who has been overseeing the campaign, released a brief statement to the media: 

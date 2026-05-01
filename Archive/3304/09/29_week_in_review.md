@@ -48,9 +48,6 @@ related_uuids:
 - 3e7477a2-0742-5daf-8a43-968f0b38fd6e
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 The three candidates for the Alliance presidency have spent much of the past week delivering their campaign messages. While incumbent president Gibson Kincaid has demanded radical change to the constitution, rival candidates Fazia Silva and Elijah Beck have adopted more conservative stances, focusing on economic growth and civil liberty respectively. The new president of the Alliance will be announced in October. 

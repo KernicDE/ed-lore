@@ -16,21 +16,17 @@ locations:
 - Varati
 - Merope
 - Thompson Dock
-technologies:
-- Unknown Artefacts
 topics:
 - investigation
 - research
 - ship
+technologies:
+- Unknown Artefacts
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---
-
-CIRG Sends Scientists to Bond Hub
-
 
 Mere hours after The Canonn Interstellar Research Group defeated the Labour of Varati in the recent Bond Hub election, more than fifty CIRG scientists arrived at Bond Hub from Thompson Dock. The scientists were accompanied by tonnes of equipment, Which has been installed in makeshift labs. Professor D Luffy, lead scientist for the team, explained what was happening: 
 

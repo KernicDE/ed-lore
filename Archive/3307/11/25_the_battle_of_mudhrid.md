@@ -4,33 +4,29 @@ title: The Battle of Mudhrid
 slug: the_battle_of_mudhrid
 date: '3307-11-25'
 source: API
+summary: The Neo-Marlinist Order of Mudhrid and the Epsilon Fornacis Empire Group declare war in the Mudhrid system, with the NMLA defending Theta Seven aboard the Sacrosanct megaship.
+player_impact: Imperial auxiliaries and Neo-Marlinist supporters fought on opposing sides in the Mudhrid system conflict.
+persons:
+- Corentin Delacroix
+- Denton Patreus
+- Saskia Landau
+- Theta Seven
 groups:
 - Marlinist
 - NMLA
 - Neo-Marlinist Order of Mudhrid
 - Epsilon Fornacis Empire Group
 - Far God cult
-persons:
-- Corentin Delacroix
-- Denton Patreus
-- Saskia Landau
-- Theta Seven
 topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-summary: The Neo-Marlinist Order of Mudhrid and the Epsilon Fornacis Empire Group declare
-  war in the Mudhrid system, with the NMLA defending Theta Seven aboard the Sacrosanct
-  megaship.
-player_impact: Imperial auxiliaries and Neo-Marlinist supporters fought on opposing sides
-  in the Mudhrid system conflict.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Neo-Marlinist Order of Mudhrid and the Epsilon Fornacis Empire Group have declared war in the Mudhrid system.
 The Steel Majesty megaship is serving As the base of the Neo-Marlinist forces. These include Many surviving NMLA terrorist cells that gathered to overtake the Vessel from the Marlinist Colonies. 
 Also in the system is the Far God cult megaship Sacrosanct, where the NMLA’s de facto leader Theta Seven and the remnants of Theta Group have been in hiding for months. They recently took control of the vessel and are holding thousands of cultists hostage.

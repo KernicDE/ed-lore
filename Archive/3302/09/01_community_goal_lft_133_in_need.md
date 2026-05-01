@@ -18,9 +18,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: LFT 133 in Need
-
-
 The AEF Legion of LFT 133 has issued an appeal to the galactic community for help in compiling an order of gold. The organisation has also placed a kill order on all wanted ships operating in the LFT 133 system to ensure that those delivering gold can do so safely. 
 
 Pilots who deliver gold to Sullivan Dock, and who help neutralise the agitators operating in the LFT 133 system, will be rewarded. 

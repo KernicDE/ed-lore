@@ -29,9 +29,6 @@ related_uuids:
 - bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
 ---
 
-An Heir to The Imperial Throne?
-
-
 Imperial senators supporting the isolationist group Nova Imperium have demanded that Emperor Arissa Lavigny-Duval acknowledge Its figurehead, Hadrian Augustus Duval. 
 
 Senator Eloise Winterstone proclaimed to the Senate: 

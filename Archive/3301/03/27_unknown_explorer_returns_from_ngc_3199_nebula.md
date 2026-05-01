@@ -4,9 +4,6 @@ title: Unknown Explorer Returns From NGC 3199 Nebula
 slug: unknown_explorer_returns_from_ngc_3199_nebula
 date: '3301-03-27'
 source: GitHub
-entities:
-- Returns From NGC 3199 Nebula
-- Swift Arrow
 groups:
 - Sirius Corp
 - Sirius Corporation
@@ -18,13 +15,13 @@ topics:
 - corporate expansion
 - exploration
 - research
+entities:
+- Returns From NGC 3199 Nebula
+- Swift Arrow
 modern_impact: Notable exploration achievement expanding the boundaries of known space.
 legacy_weight: 2
 significance: low
 ---
-
-Unknown Explorer Returns From NGC 3199 Nebula
-
 
 In a press release submitted to GalNet news, Commander Swift Arrow is announcing his recent return from The NGC 3199 Nebula. Swift Arrow is claiming to be The first explorer to fully map out The entire NGC 3199 Sector, and the 2nd explorer to visit the nebula (the 1st was Commander Celmascant). According to the data turned in to Universal Cartographics, all but 5 of the 750 systems in the NGC 3199 Sector have been fully scanned for the first time by Swift Arrow. 
 

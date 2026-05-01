@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Halsey to Build Refugee Centre
-
-
 Former Federal President Jasmina Halsey has announced plans to establish a rehabilitation centre for victims of war – specifically those affected by The ongoing Federal-Imperial conflict. In a statement, Halsey said: 
 
 "The centre will of course provide victims With food and shelter, but it will also serve to reunite families and friends, and where necessary will help those affected by war relocate to new systems." 

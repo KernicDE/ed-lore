@@ -4,6 +4,8 @@ title: Emperor Hengist Duval's Funeral
 slug: emperor_hengist_duvals_funeral
 date: '3301-09-03'
 source: GitHub
+summary: Emperor Hengist Duval's funeral procession stretched 18 kilometers through Capitol, taking seven hours. Florence Lavigny walked behind the coffin despite the marriage not being completed. The procession included the Imperial family, Senate members, patrons, clients, citizens, and the Emperor's favorite slaves who were freed by tradition. Millions lined the streets. The Feast of Remembering began across the Empire as the Senate prepared to decide the succession.
+player_impact: The funeral marked the end of an era. With the Emperor laid to rest, the Senate has one month to select the next ruler. Pilots should expect political turbulence as candidates campaign for the throne.
 persons:
 - Hengist Duval
 - Florence Lavigny
@@ -22,18 +24,11 @@ locations:
 - Imperial Palace
 topics:
 - succession
-summary: Emperor Hengist Duval's funeral procession stretched 18 kilometers through Capitol, taking seven hours. Florence Lavigny walked behind the coffin despite the marriage not being completed. The procession included the Imperial family, Senate members, patrons, clients, citizens, and the Emperor's favorite slaves who were freed by tradition. Millions lined the streets. The Feast of Remembering began across the Empire as the Senate prepared to decide the succession.
-player_impact: The funeral marked the end of an era. With the Emperor laid to rest, the Senate has one month to select the next ruler. Pilots should expect political turbulence as candidates campaign for the throne.
 modern_impact: Marks the formal end of Emperor Hengist Duval's reign and begins the Imperial succession crisis.
 legacy_weight: 2
 significance: low
 ---
 
-Emperor Hengist Duval’s Funeral
-
-
-Emperor Hengist Duval’s Funeral 
- 
 The funeral of Emperor Hengist Duval, The 15th Emperor in the Duval line, took place today amidst a crowd of millions on Capitol in the Achenar system. 
 
 Mourners from all over the Empire lined the streets of Capitol. All over the city, the streets were filled to bursting and In a sombre reflection of the wedding a month ago, the white dress uniforms of the Imperial Naval Infantry lined the streets. 

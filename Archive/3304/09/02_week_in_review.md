@@ -48,9 +48,6 @@ related_uuids:
 - 493f0e6e-d257-5536-bc17-df5c97d32d7c
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Independent pilots have engaged a previously unseen type of Thargoid Vessel in both The Pleiades Nebula and the core systems. Admiral Aden Tanner, Aegis’s chief military liaison, confirmed that the new ship – classified As the Hydra – is a variant of the Thargoid Interceptor. 

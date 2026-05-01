@@ -16,19 +16,15 @@ locations:
 - Mitterand Hollow
 - Sol
 - Crab Nebula
-technologies: []
 topics:
 - exploration
 - ship
 - war
-modern_impact: Major coordinated exploration effort expanding human knowledge of deep
-  space nebulae regions.
+technologies: []
+modern_impact: Major coordinated exploration effort expanding human knowledge of deep space nebulae regions.
 legacy_weight: 2
 significance: low
 ---
-
-Freelance Report: The Crab Nebula Expedition
-
 
 A fleet of over 400 survey and support vessels has departed from Mitterand Hollow in Epsilon Indi. The Crab Nebula Expedition is the largest coordinated flight of explorers since the Distant Worlds Expedition. It has attracted a wide range of pilots, from veterans to beginners taking their first trip outside the bubble.  
 

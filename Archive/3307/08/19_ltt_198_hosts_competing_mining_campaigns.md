@@ -4,26 +4,23 @@ title: 'LTT 198 Hosts Competing Mining Campaigns '
 slug: ltt_198_hosts_competing_mining_campaigns
 date: '3307-08-19'
 source: API
+summary: Torval-Mastopolos Mining and Wreaken Construction request mined resource deliveries in LTT 198. The more successful corporation will establish a permanent starport.
+player_impact: Pilots delivered coltan, gallite, praseodymium, and silver to competing megaships.
+persons:
+- Zemina Torval
+- Emmerich Koenig
 groups:
 - Mastopolos Mining
 - Wreaken Construction
 - Torval-Mastopolos Mining
-persons:
-- Zemina Torval
-- Emmerich Koenig
 topics:
 - corporate expansion
-summary: Torval-Mastopolos Mining and Wreaken Construction request mined resource
-  deliveries in LTT 198. The more successful corporation will establish a permanent
-  starport.
-player_impact: Pilots delivered coltan, gallite, praseodymium, and silver to competing
-  megaships.
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Torval-Mastopolos Mining and Wreaken Construction have requested deliveries of mined resources to The LTT 198 system.
 LTT 198 State Ltd, Its controlling faction, will only allow One of the rival corporations to remain permanently. The company With the most successful campaign will establish a new starport in the permit-controlled system.
 Senator Zemina Torval, who has sole control of the Mastopolos Mining subsidiary, announced:

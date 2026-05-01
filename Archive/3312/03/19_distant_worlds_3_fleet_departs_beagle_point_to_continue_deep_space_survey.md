@@ -4,6 +4,11 @@ title: Distant Worlds 3 Fleet Departs Beagle Point to Continue Deep Space Survey
 slug: distant_worlds_3_fleet_departs_beagle_point_to_continue_deep_space_survey
 date: 3312-03-19
 source: API
+summary: Distant Worlds 3 departs Beagle Point for next phase into the Abyss, Acheron and Veils. Stellar density and spectral distribution surveys ongoing. Carrier fleet sustained by miner contributions.
+player_impact: DW3 fleet departs Beagle Point for Abyss, Acheron and Veils regions. Continued scientific survey programme with carrier logistics support.
+persons:
+- Lynda Amanda ter Holt
+- Timotheus Haddard
 groups:
 - Deep Space Surveys
 - Distant Worlds 3
@@ -16,11 +21,6 @@ arc_id: distant-worlds-3
 modern_impact: Beagle Point reframed as waypoint rather than terminus shifts deep-space exploration from destination-based to continuous surveying. Abyss, Acheron and Veils stellar density models will produce the first comprehensive cartography of the galactic northeast, enabling safer routes for future explorers.
 legacy_weight: 3
 significance: medium
-persons:
-- Lynda Amanda ter Holt
-- Timotheus Haddard
-player_impact: DW3 fleet departs Beagle Point for Abyss, Acheron and Veils regions. Continued scientific survey programme with carrier logistics support.
-summary: Distant Worlds 3 departs Beagle Point for next phase into the Abyss, Acheron and Veils. Stellar density and spectral distribution surveys ongoing. Carrier fleet sustained by miner contributions.
 related_uuids:
 - 6727df09-c220-537b-ac30-e91181fadd2a
 - 9fa72a0c-5333-5110-90ea-074419826e85

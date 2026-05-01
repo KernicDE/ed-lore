@@ -11,24 +11,20 @@ groups:
 - Explorers' Association
 locations:
 - Kaushpoos
-technologies:
-- palladium
-- Ocellus starport
 topics:
 - construction
 - exploration
 - piracy
 - ship
 - war
+technologies:
+- palladium
+- Ocellus starport
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
-  new frontiers for exploration and potentially first contact.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---
-
-Positive Response to Explorers' Association Request
-
 
 The Explorers' Association has released a statement confirming that the pirates operating in the Kaushpoos system have been eliminated. Hundreds of pilots responded to the organisation's appeal, taking to their ships to battle the agitators disrupting the assembly of Kaushpoos's new Ocellus starport and deliver palladium for use in Its construction. A spokesperson for the Explorers' Association released a brief statement: 
 

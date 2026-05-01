@@ -4,22 +4,19 @@ title: Advocacy Defends Dredger Clan
 slug: advocacy_defends_dredger_clan
 date: '3307-11-01'
 source: API
+summary: The civil rights organisation Advocacy defends the Scriveners Clan's legal ownership of their dredger, arguing that remote-community protection laws prevent forced displacement.
+player_impact: None
+persons:
+- Rhiannon Grady
+- Elizabeth Perez
 groups:
 - Advocacy
 - Orion University
 - Scriveners Clan
-persons:
-- Rhiannon Grady
-- Elizabeth Perez
 topics:
 - diplomacy
 - humanitarian
-summary: The civil rights organisation Advocacy defends the Scriveners Clan's legal
-  ownership of their dredger, arguing that remote-community protection laws prevent
-  forced displacement.
-player_impact: None
-modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
-  institutions and the nomadic society that inhabits it.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
 ---

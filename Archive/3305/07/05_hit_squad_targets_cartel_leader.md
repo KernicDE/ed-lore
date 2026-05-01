@@ -4,33 +4,27 @@ title: Hit Squad Targets Cartel Leader
 slug: hit_squad_targets_cartel_leader
 date: '3305-07-05'
 source: GitHub
-groups:
-- Federal Intelligence Agency
-- Red Family Cartel
+summary: A mercenary hit squad infiltrates FIA headquarters in Olympus Village attempting to assassinate Red Family co-founder Jan Sandoval in protective custody. Security systems neutralise the threat before they reach her.
+player_impact: None
 persons:
 - Viola Trask
 - Jan Sandoval
+groups:
+- Federal Intelligence Agency
+- Red Family Cartel
 locations:
 - Olympus Village
 - Sol
 topics:
 - crime
 - investigation
-summary: A mercenary hit squad infiltrates FIA headquarters in Olympus Village attempting
-  to assassinate Red Family co-founder Jan Sandoval in protective custody. Security systems
-  neutralise the threat before they reach her.
-player_impact: None
-modern_impact: The assassination attempt confirms Sandoval's testimony poses a serious threat
-  to the Red Family and suggests corrupt FIA personnel may be involved.
+modern_impact: The assassination attempt confirms Sandoval's testimony poses a serious threat to the Red Family and suggests corrupt FIA personnel may be involved.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 1dc55212-1311-5a49-95bc-084ad66ef884
 - 70822119-b954-507b-8900-67a29a9a9f5c
 ---
-
-Hit Squad Targets Cartel Leader
-
 
 The Federal Intelligence Agency headquarters in Olympus Village has been infiltrated by a mercenary unit attempting to murder Jan Sandoval, One of the Red Family cartel’s founders. 
 

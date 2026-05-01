@@ -15,17 +15,14 @@ locations:
 - Njambalba
 - Clauss Port
 - Santa Muerte
-technologies: []
 topics:
 - festival
 - trade
+technologies: []
 modern_impact: Festive commodity drive connecting pilots across systems through seasonal trade and rewards.
 legacy_weight: 1
 significance: low
 ---
-
-Community Goal: Festive Appeal
-
 
 Many cultures choose to mark The end of the galactic year With the giving and receiving of gifts, and This year will be no exception. In anticipation of this busy period, luxury goods supplier Santa Muerte Co-operative has placed an open order for personal gifts. The organisation's CEO, Nicolas St Clauss, released The following statement to the media: 
 

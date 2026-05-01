@@ -4,7 +4,12 @@ title: Alliance Assembly Votes to End Sirius Defence Pact
 slug: alliance_assembly_votes_to_end_sirius_defence_pact
 date: '3311-05-16'
 source: API
-entities: []
+summary: The Alliance Assembly votes to end the strategic defence pact with Sirius Corporation, which was agreed in January 3308. Councilor Nakato Kaine's motion, seconded by Councilor Ainsley Niven of Reorte, passed by a slim majority despite Prime Minister Edmund Mahon's opposition.
+player_impact: Independent pilots had no direct role in the Assembly vote, but the termination of the pact triggered a rush from Allied corporations to fill the military supply chain vacuum.
+persons:
+- Nakato Kaine
+- Ainsley Niven
+- Edmund Mahon
 groups:
 - Alliance
 - Sirius Corp
@@ -13,15 +18,10 @@ locations:
 - Sirius
 topics:
 - corporate expansion
-persons:
-- Nakato Kaine
-- Ainsley Niven
-- Edmund Mahon
+entities: []
 technologies:
 - Anti-Xeno modules
-player_impact: "Independent pilots had no direct role in the Assembly vote, but the termination of the pact triggered a rush from Allied corporations to fill the military supply chain vacuum."
-summary: "The Alliance Assembly votes to end the strategic defence pact with Sirius Corporation, which was agreed in January 3308. Councilor Nakato Kaine's motion, seconded by Councilor Ainsley Niven of Reorte, passed by a slim majority despite Prime Minister Edmund Mahon's opposition."
-modern_impact: "Kaine's description of the pact as 'an opportunistic ploy for military influence in Alliance space, with eyes on a monopoly over small corporations' defines the anti-corporate populism that drives her political bloc. Mahon's warning — 'the recent Thargoid invasion is unlikely to be the last xeno threat we ever see' — proves prophetic and will be cited when the next xeno threat emerges. The pact's termination directly triggers the Mahon-Kaine trade war of May 22."
+modern_impact: Kaine's description of the pact as 'an opportunistic ploy for military influence in Alliance space, with eyes on a monopoly over small corporations' defines the anti-corporate populism that drives her political bloc. Mahon's warning — 'the recent Thargoid invasion is unlikely to be the last xeno threat we ever see' — proves prophetic and will be cited when the next xeno threat emerges. The pact's termination directly triggers the Mahon-Kaine trade war of May 22.
 legacy_weight: 4
 significance: high
 related_uuids: []

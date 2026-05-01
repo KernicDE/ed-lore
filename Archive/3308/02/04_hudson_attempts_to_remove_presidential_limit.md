@@ -4,25 +4,24 @@ title: Hudson Attempts to Remove Presidential Limit
 slug: hudson_attempts_to_remove_presidential_limit
 date: '3308-02-04'
 source: API
-arc_id: federal-politics
+summary: President Zachary Hudson proposes removing the eight-year term limit for Federal presidents.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Felicia Winters
 - Zachary Hudson
-entities: []
 groups: []
 topics:
 - espionage
-summary: President Zachary Hudson proposes removing the eight-year term limit for Federal presidents.
-player_impact: Not specifically mentioned — this is a political report.
-modern_impact: "\"The Federal government has announced plans to extend Zachary Hudson's term as president beyond the legally allotted span.\" Hudson's power grab threatens to undermine the Federal constitutional safeguards designed to prevent authoritarianism."
+entities: []
+arc_id: federal-politics
+modern_impact: '"The Federal government has announced plans to extend Zachary Hudson''s term as president beyond the legally allotted span." Hudson''s power grab threatens to undermine the Federal constitutional safeguards designed to prevent authoritarianism.'
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 2802af31-31af-56d3-820a-8de1dabfd0b8
 - a593babc-119b-5679-9171-3c1520208d98
 - 83d655f9-5cb4-5fb1-baa5-f5c64bb30cbf
-legacy_weight: 3
-significance: medium
 ---
-
 
 The Federal government has announced plans to extend Zachary Hudson’s term as president beyond the legally allotted span.
 Every Federation president serves a single term of eight years. President Hudson assumed the role in June 3301, and is therefore due to step down in June 3309 following an election to select his replacement.

@@ -1,6 +1,6 @@
 ---
 uuid: 0313bbef-6e3f-5e5f-84f8-bdbb81d971f9
-title: "The Didiomanja Emperor's Grace Academy Inauguration"
+title: The Didiomanja Emperor's Grace Academy Inauguration
 slug: the_didiomanja_emperors_grace_academy_inauguration
 date: '3304-07-06'
 source: GitHub
@@ -22,9 +22,6 @@ significance: low
 related_uuids:
 - 9177e211-a080-5a19-b2bd-634273e040c6
 ---
-
-The Didiomanja Emperor’s Grace Academy Inauguration
-
 
 The Didiomanja Emperor’s Grace has completed work on the Tiverion Academy, a flight school for Imperial naval cadets. The organisation is hosting an inaugural banquet to mark the event, and to honour the late Admiral Mira Tiverion, the organisation’s founding member, who will have a monument erected at the site. 
 

@@ -18,14 +18,10 @@ topics:
 - medicine
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
 ---
-
-Freelance Report: Canonn Scientist Requests Meta-Alloys
-
 
 Professor D Luffy, head of research at Bond Hub in The Varati system, has released a statement about the station's need for meta-alloys: 
 

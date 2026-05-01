@@ -4,6 +4,8 @@ title: Deep Space ‘Anomalies’ Generate Discussion
 slug: deep_space_anomalies_generate_discussion
 date: '3308-09-23'
 source: API
+summary: Inexplicable deep-space anomalies detected beyond the Col 70 sector generate widespread speculation, with theories ranging from Thargoid weapons to natural phenomena, while Professor Elizabeth Perez urges scientific caution.
+player_impact: Pilots were encouraged to scan for and report the anomalies using FSS scanners.
 persons:
 - Kit Fowler
 - Elizabeth Perez
@@ -20,14 +22,7 @@ topics:
 - alien contact
 technologies:
 - Full Spectrum System Scanner
-summary: Inexplicable deep-space anomalies detected beyond the Col 70 sector generate
-  widespread speculation, with theories ranging from Thargoid weapons to natural phenomena,
-  while Professor Elizabeth Perez urges scientific caution.
-player_impact: Pilots were encouraged to scan for and report the anomalies using FSS
-  scanners.
-modern_impact: The anomalies, later known as rogue signal sources, represent one of
-  the most profound unexplained phenomena in recent exploration history, challenging
-  scientific understanding of deep-space physics.
+modern_impact: The anomalies, later known as rogue signal sources, represent one of the most profound unexplained phenomena in recent exploration history, challenging scientific understanding of deep-space physics.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -35,7 +30,7 @@ related_uuids:
 - 51640971-fc47-5402-a2fd-7c945c162f1e
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Inexplicable visual phenomena located in deep space have caused extensive speculation and media interest.
 There is no official terminology for the signals but they are referred to by many names, most popular of which is ‘the anomalies’. Appearing as a bright flare with spiralling radial arms, they emit electromagnetic feedback that can be detected using full spectrum system (FSS) scanners.
 The first anomaly was discovered beyond the permit-locked Col 70 sector, with additional signals now observed. Multiple calculations have verified that the objects are moving, supposedly at faster-than-light speeds. Various estimates as to their trajectory have been made, but the great distances involved defy accurate measurement.

@@ -24,9 +24,6 @@ related_uuids:
 - 7e6d6a09-c0b5-5c86-b6e1-7dab5e24d303
 ---
 
-Olav Redcourt Found
-
-
 Popular author Olav Redcourt, who was recently reported Missing, has been found alive and well. 
 
 Margot Hist of The Dervish-Foss Literary Agency told the media: 

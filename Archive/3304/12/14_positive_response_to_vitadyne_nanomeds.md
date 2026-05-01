@@ -26,9 +26,6 @@ related_uuids:
 - 79d31e82-72c0-55c6-a4aa-acb8830314f8
 ---
 
-Positive Response to Vitadyne Nanomeds
-
-
 The Interstellar Health Organisation (IHO) has delivered a preliminary report on the nanomedicines recently developed by Vitadyne Labs. The summary stated: 
 
 “Nanomedicine is a carefully regulated branch of medical science, With little scope for public application, but Vitadyne’s nanomeds are more sophisticated and reliable than any existing product. Furthermore, Vitadyne’s data regarding healing, disease treatment and extension of longevity has been verified.” 

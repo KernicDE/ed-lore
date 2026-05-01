@@ -12,18 +12,15 @@ groups:
 locations:
 - Carthage
 - Marker Depot
-technologies: []
 topics:
 - crime
 - ship
 - war
+technologies: []
 modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Restoring Order in Carthage
-
 
 Authorities in The Carthage system have reported a sharp increase in The number of criminals operating in the area. To ensure these agitators do not disrupt the Lavigny's Legion campaign, a kill order has been placed on all wanted ships operating in the system. Lavigny's Legion has promised to reward pilots who deliver bounty vouchers to Marker Depot. 
 

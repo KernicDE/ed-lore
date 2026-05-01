@@ -4,6 +4,11 @@ title: Alliance Offers Amnesty for Far God Cultists
 slug: alliance_offers_amnesty_for_far_god_cultists
 date: '3309-06-08'
 source: API
+summary: The Alliance proposes that the Federation deport imprisoned Far God cultists to Allied space rather than imprison them, offering religious tolerance as a political differentiator.
+player_impact: Not specifically mentioned — this is a political and diplomatic report.
+persons:
+- Edmund Mahon
+- Vanya Driscoll
 groups:
 - Alliance
 - Federal Congress
@@ -14,12 +19,7 @@ topics:
 - humanitarian
 - religion
 arc_id: null
-modern_impact: "Mahon's framing — 'The Alliance upholds the principles of religious tolerance' — is a direct contrast to Federation policy. His practical proposal — 'deports all Far God worshippers to Alliance space' — frames humanitarianism within existing legal frameworks. Driscoll's analysis — 'Mahon is grasping a high-profile opportunity to distinguish the libertarian Alliance from an increasingly authoritarian Federation' — is astute political commentary."
-persons:
-- Edmund Mahon
-- Vanya Driscoll
-player_impact: "Not specifically mentioned — this is a political and diplomatic report."
-summary: "The Alliance proposes that the Federation deport imprisoned Far God cultists to Allied space rather than imprison them, offering religious tolerance as a political differentiator."
+modern_impact: Mahon's framing — 'The Alliance upholds the principles of religious tolerance' — is a direct contrast to Federation policy. His practical proposal — 'deports all Far God worshippers to Alliance space' — frames humanitarianism within existing legal frameworks. Driscoll's analysis — 'Mahon is grasping a high-profile opportunity to distinguish the libertarian Alliance from an increasingly authoritarian Federation' — is astute political commentary.
 legacy_weight: 5
 significance: high
 related_uuids:

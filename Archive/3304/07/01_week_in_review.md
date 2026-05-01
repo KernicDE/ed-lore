@@ -49,9 +49,6 @@ related_uuids:
 - ce4bd32c-e1cd-55e9-a220-4f15c711f86d
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Chief Inspector Kay Kilbride has been Murdered by terrorist organisation The League of Reparation. The incident took place in the city of New Rossyth on Turner’s World. In the wake of Inspector Kilbride’s death, Alliance Interpol has assigned Deputy Inspector Mara Klatt to assume the role of taskforce liaison. 

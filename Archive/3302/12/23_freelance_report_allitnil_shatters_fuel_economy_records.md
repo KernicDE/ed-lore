@@ -13,19 +13,16 @@ locations:
 - Colonia
 - Jaques Station
 - Sol
+topics:
+- exploration
 technologies:
 - Anaconda
 - fuel scoop
-topics:
-- exploration
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Allitnil Shatters Fuel-Economy Records
-
 
 A new record has been set by Commander Allitnil, who successfully travelled from Sol to Jaques Station in Colonia without making any stops...or equipping a fuel scoop. 
 

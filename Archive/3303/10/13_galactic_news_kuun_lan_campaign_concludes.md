@@ -12,17 +12,13 @@ groups:
 locations:
 - HIP 104292
 - Lomonosov City
-technologies: []
 topics:
 - trade
-modern_impact: A regional trade initiative supporting the economic development of a
-  remote system.
+technologies: []
+modern_impact: A regional trade initiative supporting the economic development of a remote system.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Kuun-Lan Campaign Concludes
-
 
 A spokesperson for The Kuun-Lan has announced that Its appeal for commodities was enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Lomonosov City, the organisation’s base of operations. 
 

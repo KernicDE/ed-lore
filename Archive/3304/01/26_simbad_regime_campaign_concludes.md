@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Simbad Regime Campaign Concludes
-
-
 A spokesperson for The Simbad Regime has announced that Its appeal for construction materials has been enthusiastically received by the galactic community. This has resulted In a massive influx of deliveries to Parmitano Terminal, the organisation’s base of operations. 
 
 The spokesperson went on to say: 

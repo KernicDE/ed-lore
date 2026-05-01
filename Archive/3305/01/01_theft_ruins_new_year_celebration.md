@@ -4,6 +4,8 @@ title: Theft Ruins New Year Celebration
 slug: theft_ruins_new_year_celebration
 date: '3305-01-01'
 source: GitHub
+summary: The infamous 'winking cat' art thief sabotages the Federal New Year celebration by replacing a colossal holo-sculpture above Olympus Village with a giant winking cat face.
+player_impact: None — background crime report.
 persons:
 - Kioko McGrath
 groups:
@@ -16,15 +18,10 @@ locations:
 topics:
 - festival
 - crime
-summary: The infamous 'winking cat' art thief sabotages the Federal New Year celebration by replacing a colossal holo-sculpture above Olympus Village with a giant winking cat face.
-player_impact: None — background crime report.
 modern_impact: The New Year heist cemented the winking cat thief's reputation as the galaxy's most elusive art criminal, with the motif becoming an iconic anti-establishment symbol.
 legacy_weight: 2
 significance: low
 ---
-
-Theft Ruins New Year Celebration
-
 
 The theft of a spectacular work of art has soured New Year festivities for thousands of Federal citizens. 
 

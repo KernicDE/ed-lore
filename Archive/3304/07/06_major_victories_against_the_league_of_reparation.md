@@ -33,9 +33,6 @@ related_uuids:
 - 7ba9e81d-43a4-5565-ba4d-31b3ac2c2c95
 ---
 
-Major Victories against The League of Reparation
-
-
 A series of successful operations against the League of Reparation has led to much of the terrorist group being dismantled. 
 
 Captain Niamh Seutonia, a member of the tri-superpower taskforce investigating the League, released This statement: 

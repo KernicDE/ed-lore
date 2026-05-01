@@ -4,6 +4,8 @@ title: Ship Theft Mystery Deepens
 slug: ship_theft_mystery_deepens
 date: '3305-05-11'
 source: GitHub
+summary: Gan Romero's wife describes his recent distracted behaviour and disturbing dreams, deepening the mystery of why an otherwise ordinary technician stole a ship from Fort Dixon.
+player_impact: None — background investigation report.
 persons:
 - Gan Romero
 - Lara Romero
@@ -15,8 +17,6 @@ locations:
 topics:
 - crime
 - investigation
-summary: Gan Romero's wife describes his recent distracted behaviour and disturbing dreams, deepening the mystery of why an otherwise ordinary technician stole a ship from Fort Dixon.
-player_impact: None — background investigation report.
 modern_impact: Lara Romero's testimony provided the first evidence that Gan's actions were linked to vivid, seemingly prophetic dreams — a pattern that would later connect his case to Jasmina Halsey's supernatural experiences.
 legacy_weight: 3
 significance: medium
@@ -26,9 +26,6 @@ related_uuids:
 - 7b7ef879-c22b-509a-9abc-a1c65d435b93
 - 54d86670-6d3c-5f67-a1e5-729c9be90011
 ---
-
-Ship Theft Mystery Deepens
-
 
 Mystery Continues to surround Gan Romero, The starship technician who single-handedly stole a docked Vessel in the Vega system. 
 

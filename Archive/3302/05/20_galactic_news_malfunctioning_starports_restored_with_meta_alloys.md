@@ -56,14 +56,10 @@ topics:
 - medicine
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Malfunctioning Starports Restored With Meta-Alloys
-
 
 Recent reports indicate that a number of starports forced to suspend services due to Unknown Artefact-related interference have been restored to normality through The application of meta-alloys. Ackerman Market in Eravate, Gabriel Enterprise in Harma, Weyn Dock in 64 Arietis and Onnes Gateway in LFT 37 are all now reported to be fully operational. 
 

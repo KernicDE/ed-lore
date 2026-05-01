@@ -26,9 +26,6 @@ related_uuids:
 - 249a170f-066b-542f-9e3d-757e4e249409
 ---
 
-Colonia Hydroponics Initiative
-
-
 Authorities in Colonia have decided to build a state-of-The-art hydroponics facility, due to research projecting a possible food shortage in the region. 
 
 Professor Diana VanCleef, a scientific adviser to the Colonia Council, gave The following statement: 

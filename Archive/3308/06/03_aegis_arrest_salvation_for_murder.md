@@ -1,9 +1,11 @@
 ---
 uuid: 6a3fd658-33a2-5409-8ade-90b666edefc5
-title: "Aegis: 'Arrest Salvation for Murder'"
+title: 'Aegis: ''Arrest Salvation for Murder'''
 slug: aegis_arrest_salvation_for_murder
 date: '3308-06-03'
 source: API
+summary: Professor Alba Tesreau presents evidence that Salvation is Dr Caleb Wycherley, former Azimuth Biochemicals researcher and INRA collaborator who helped develop the mycoid bioweapon. Former Aegis leadership demands his arrest over the Alexandria megaship attack and Project Seraph.
+player_impact: Not specifically mentioned — this is an investigative report.
 persons:
 - Alba Tesreau
 - Caleb Wycherley
@@ -29,14 +31,12 @@ topics:
 technologies:
 - mycoid bioweapon
 arc_id: salvation-azimuth
-summary: Professor Alba Tesreau presents evidence that Salvation is Dr Caleb Wycherley, former Azimuth Biochemicals researcher and INRA collaborator who helped develop the mycoid bioweapon. Former Aegis leadership demands his arrest over the Alexandria megaship attack and Project Seraph.
-player_impact: Not specifically mentioned — this is an investigative report.
 modern_impact: The revelation that Salvation was a former INRA bioweapons researcher fundamentally reframed the ethics of Azimuth's anti-Thargoid strategy, exposing how superpowers had outsourced their defence to a man with a history of extrajudicial killing.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 967aa94a-f950-5777-8fca-15696a250f64
 - 29bf2db7-3c10-5736-b2d8-666b8df99cb4
-legacy_weight: 5
-significance: high
 ---
 
 Claims that Salvation was once a senior member of Azimuth Biochemicals who worked for INRA have led to a public outcry.

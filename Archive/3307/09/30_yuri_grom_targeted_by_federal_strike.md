@@ -4,27 +4,25 @@ title: Yuri Grom Targeted by Federal Strike
 slug: yuri_grom_targeted_by_federal_strike
 date: '3307-09-30'
 source: API
-groups:
-- Federation
-- EG Union
+summary: The Delta Pavonis political conference erupts into conflict as undercover Federal agents attempt to apprehend Yuri Grom, who escapes and declares war on the Federation.
+player_impact: Pilots fought for either EG Union or Delta Pavonis Galactic Interstellar in the ensuing conflict.
 persons:
 - Yuri Grom
 - Zachary Hudson
 - Simion Petrescu
+groups:
+- Federation
+- EG Union
 topics:
 - diplomacy
 - war
 arc_id: federal-politics
-summary: The Delta Pavonis political conference erupts into conflict as undercover Federal
-  agents attempt to apprehend Yuri Grom, who escapes and declares war on the Federation.
-player_impact: Pilots fought for either EG Union or Delta Pavonis Galactic Interstellar
-  in the ensuing conflict.
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The Delta Pavonis political conference has erupted into conflict between EG Union and Delta Pavonis Galactic Interstellar.
 Yuri Grom, the ruler of EG Union, broadcast This message:
 “This conference was nothing more than a trap! My delegation was apprehended at gunpoint by a squad of undercover Federal agents. Sacrifices made by my loyal guards enabled us to escape from Kessler City, only to find Our ships under attack. The Federation has declared war – I will respond in kind!”

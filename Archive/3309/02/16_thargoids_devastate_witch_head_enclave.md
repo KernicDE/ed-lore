@@ -4,7 +4,8 @@ title: Thargoids Devastate Witch Head Enclave
 slug: thargoids_devastate_witch_head_enclave
 date: '3309-02-16'
 source: API
-entities: []
+summary: Thargoid fleets overrun populated systems in the Witch Head Nebula, destroying starports and leaving tens of thousands of casualties.
+player_impact: Pilots were desperately requested to provide immediate reinforcements and support to the Alliance Expeditionary Pact in the Witch Head Enclave.
 persons:
 - Chloe Sedesi
 - Warren Lamar
@@ -21,24 +22,17 @@ topics:
 - engineering
 - humanitarian
 - war
+entities: []
 arc_id: thargoid-titan-war
-player_impact: "Pilots were desperately requested to provide immediate reinforcements
-  and support to the Alliance Expeditionary Pact in the Witch Head Enclave."
-summary: "Thargoid fleets overrun populated systems in the Witch Head Nebula, destroying
-  starports and leaving tens of thousands of casualties."
-modern_impact: "Chloe Sedesi transmitted: \"...emergency SOS from the Shenve system.
-  The Thargoids... full-scale invasion. They've hit us hard.\" This harrowing
-  testimony captures the unprecedented scale of the Titan War's frontier assaults,
-  where even remote nebula colonies faced total annihilation far from core system
-  rescue services."
+modern_impact: 'Chloe Sedesi transmitted: "...emergency SOS from the Shenve system. The Thargoids... full-scale invasion. They''ve hit us hard." This harrowing testimony captures the unprecedented scale of the Titan War''s frontier assaults, where even remote nebula colonies faced total annihilation far from core system rescue services.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 201a0a31-f461-5ded-a815-a7b9c289c352
 - 40d9b854-2973-5053-a42d-6955f8876544
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Populated systems in the Witch Head Nebula have been overrun by Thargoid fleets, resulting in widespread chaos.
 Thargoid vessels have directly targeted starports and planetary bases, leaving tens of thousands of casualties. With the nebula located hundreds of light years from the core systems, rescue services are struggling to aid the fleeing survivors.
 Vox Galactica published a fragmented message transmitted by the engineer Chloe Sedesi:

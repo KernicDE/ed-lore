@@ -12,18 +12,15 @@ groups:
 locations:
 - KatherineB
 - Zeus
-technologies: []
 topics:
 - ship
 - trade
 - war
+technologies: []
 modern_impact: Luxury goods event in Zeus attracts influential figures and boosts local economy with the arrival of the Wells-class carrier The Midas.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Zeus Bureau Appeal Concludes
-
 
 A spokesperson for The Zeus Bureau has announced that Its appeal for luxury goods has reached a successful conclusion. Hundreds of tonnes of commodities were delivered to KatherineB over the week, following an enthusiastic response from the galactic community. 
 

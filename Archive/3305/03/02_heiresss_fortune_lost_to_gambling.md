@@ -4,6 +4,8 @@ title: Heiress's Fortune Lost to Gambling
 slug: heiresss_fortune_lost_to_gambling
 date: '3305-03-02'
 source: GitHub
+summary: Lady Talitha Ambrose loses the entire 300 billion credit Ambrose Foundation fortune in a high-stakes game of deadlock poker with the secretive Jokers' Deck gambling ring, leading her mother Baroness Oksana to disown her.
+player_impact: None — background investigative report.
 persons:
 - Talitha Ambrose
 - Oksana Ambrose
@@ -14,17 +16,12 @@ groups:
 topics:
 - crime
 - investigation
-summary: Lady Talitha Ambrose loses the entire 300 billion credit Ambrose Foundation fortune in a high-stakes game of deadlock poker with the secretive Jokers' Deck gambling ring, leading her mother Baroness Oksana to disown her.
-player_impact: None — background investigative report.
 modern_impact: The Ambrose scandal exposed the immense wealth and ruthless exploitation practised by Jokers' Deck, while highlighting how gambling addiction could destroy even the most privileged dynasties.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 0ca57410-b084-5afa-b6ae-9f85d14d24d7
 ---
-
-Heiress's Fortune Lost to Gambling
-
 
 It has been revealed that Lady Talitha Ambrose's 300 billion credit fortune vanished as a result of her participation In a powerful gambling ring. 
 

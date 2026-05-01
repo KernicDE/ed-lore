@@ -14,14 +14,10 @@ locations:
 technologies:
 - SRV
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity
-  in the Pleiades region.
+modern_impact: The barnacle/meta-alloy trade drives economic and military activity in the Pleiades region.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Barnacles Targeted by Unknown Ships
-
 
 Recent reports from The Pleiades Sector OI-T c3-7 system indicate that the so-called Unknown Ships have begun interacting With the region’s barnacles. 
 

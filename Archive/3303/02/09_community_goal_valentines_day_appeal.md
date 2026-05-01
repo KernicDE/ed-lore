@@ -20,9 +20,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Valentine's Day Appeal
-
-
 Human civilisation spans Hundreds of Star systems and encompasses a wide range of cultures, but Many people still share a number of traditions. One such tradition is Valentine's Day, a celebration of romantic love dating from The 5th Century. 
 
 With many choosing to mark the occasion by giving gifts to their significant Other, retailers throughout the galaxy are preparing for a busy week. One of these retailers, Vestani Conservatives, has placed an open order for various commodities in anticipation of This hectic period. A spokesperson for the organisation said: 

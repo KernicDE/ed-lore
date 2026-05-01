@@ -4,7 +4,8 @@ title: Victory for Federal Forces Against Jupiter Division
 slug: victory_for_federal_forces_against_jupiter_division
 date: 3307-02-18
 source: API
-arc_id: federal-politics
+summary: '*Pilots Federation ALERT* Jupiter Division, The breakaway faction from Core Dynamics, has been defeated in the HIP 54530 system.'
+player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
 persons:
 - Further
 - Jupiter
@@ -14,7 +15,7 @@ persons:
 - Which
 - With
 groups:
-  - Core Dynamics
+- Core Dynamics
 locations:
 - Forge megaship in the HIP 55014
 - HIP 54530
@@ -22,9 +23,10 @@ locations:
 topics:
 - corporate expansion
 - war
-player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
-summary: "*Pilots Federation ALERT* Jupiter Division, The breakaway faction from Core Dynamics, has been defeated in the HIP 54530 system."
-modern_impact: "\"For many years, I helped Core Dynamics become one of the galaxy's strongest companies.\" Rochester's attempted corporate coup highlighted the dangers of unchecked corporate power within the Federation and led to significant reforms."
+arc_id: federal-politics
+modern_impact: '"For many years, I helped Core Dynamics become one of the galaxy''s strongest companies." Rochester''s attempted corporate coup highlighted the dangers of unchecked corporate power within the Federation and led to significant reforms.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
@@ -32,11 +34,9 @@ related_uuids:
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - aa81f947-721e-52c8-a91e-906bf41c62b8
-legacy_weight: 2
-significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Jupiter Division, The breakaway faction from Core Dynamics, has been defeated in the HIP 54530 system.
 The Independent corporate nation met armed resistance from a local faction, the Silver Legal Group, Which defeated them in battle With the aid of independent ships. Director Theodore Sullivan announced:
 “Thanks to the courage of Many pilots, we have crippled the military forces behind This illegal coup and taken control of the system.”

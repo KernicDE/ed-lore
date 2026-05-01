@@ -4,22 +4,19 @@ title: Initial Stage of Colonia Bridge Operational
 slug: initial_stage_of_colonia_bridge_operational
 date: '3307-10-29'
 source: API
+summary: Thirty dockable megaships are placed between the core systems and Colonia, completing the first phase of the Colonia Bridge project.
+player_impact: Contributing pilots were among the top ten from Alcor and Colonia who suggested names for the new megaships.
 groups:
 - Brewer Corporation
 topics:
 - corporate expansion
 arc_id: jaques-station
-summary: Thirty dockable megaships are placed between the core systems and Colonia,
-  completing the first phase of the Colonia Bridge project.
-player_impact: Contributing pilots were among the top ten from Alcor and Colonia who
-  suggested names for the new megaships.
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Thirty megaships have been placed between The core systems and the Colonia region to serve as stationary ports.
 Twenty-Five dockable megaships were sent out from the Alcor system toward Colonia, taking position in systems approximately 400 to 500 light years apart. Five Further megaships have been established from the direction of the Colonia system.
 Each Vessel serves as a permanent way station for travellers and businesses, designed to improve the journey to and from Colonia. A variety of services are provided, including tritium refuelling for Drake-class fleet carriers.

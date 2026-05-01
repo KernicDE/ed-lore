@@ -7,19 +7,22 @@ source: GitHub
 summary: The Ant Hill Mob, Maia's controlling faction, launched an offensive against the Pleiades Resource Enterprise after the Federation stationed a Farragut-class Battlecruiser at Maia A 3 a. Both factions appealed to Imperial and Federal pilots respectively for combat support.
 player_impact: Pilots can support either the Ant Hill Mob or the Pleiades Resource Enterprise in week-long combat operations in the Maia system.
 persons: []
-groups: [Ant Hill Mob, Pleiades Resource Enterprise, Federation]
-locations: [Maia, Maia A 3 a]
-technologies: [Farragut-class Battlecruiser]
+groups:
+- Ant Hill Mob
+- Pleiades Resource Enterprise
+- Federation
+locations:
+- Maia
+- Maia A 3 a
 topics:
 - war
+technologies:
+- Farragut-class Battlecruiser
 arc_id: pleiades-expansion
 modern_impact: The Ant Hill Mob's resistance to Federal expansion in Maia exemplifies how local factions become proxies in superpower conflicts over strategic resources.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Trouble in Maia
-
 
 Earlier This month, The Pleiades Resource Enterprise entered Maia and rapidly started cementing Its presence in the system. In response, the Ant Hill Mob – Maia's current controlling faction – has launched an offensive against Pleiades Resource Enterprise. 
 

@@ -23,14 +23,10 @@ topics:
 - research
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: Ishmael Palin Launches Appeal
-
 
 Last month, Professor Ishmael Palin announced his intention to retire from The Palin Institute, the research organisation he founded in 3301. In a statement, the professor indicated that he would relocate to a small research centre on Maia A 3 a, where he would continue investigating the Unknown Artefacts and meta-alloys. Now, the professor has issued a Further statement, announcing that he has placed an open order for building fabricators for the construction of the new outpost. 
 

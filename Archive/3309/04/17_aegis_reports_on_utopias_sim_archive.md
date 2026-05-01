@@ -4,7 +4,12 @@ title: Aegis Reports on Utopia’s Sim-Archive
 slug: aegis_reports_on_utopias_sim_archive
 date: '3309-04-17'
 source: API
-entities: []
+summary: Aegis's delegation visits Utopia and determines the Sim-Archive differs significantly from Salvation's Nemesis Failsafe, with the Failsafe relying on Guardian technology rather than Utopian exoneurology.
+player_impact: Not specifically mentioned — this is a scientific report.
+persons:
+- Maximo Fonseca
+- Pranav Antal
+- Dr Cooper
 groups:
 - Aegis
 - Utopia
@@ -13,14 +18,9 @@ locations:
 topics:
 - research
 - xenoarchaeology
+entities: []
 arc_id: salvation-azimuth
-modern_impact: "Fonseca's personal demonstration — 'uploading some of my own long-term memories into the Sim-Archive' — is a vivid detail. The technical distinction — 'the Nemesis process irreversibly transforms a person's entire neuronal network into esoteric energy particles' vs. Utopia's memory duplication — is crucial. Antal's philosophical framing — 'Utopia's role is to unite us all by bringing down the barriers between our individual universes' — contrasts with Salvation's self-preservation motive."
-persons:
-- Maximo Fonseca
-- Pranav Antal
-- Dr Cooper
-player_impact: "Not specifically mentioned — this is a scientific report."
-summary: "Aegis's delegation visits Utopia and determines the Sim-Archive differs significantly from Salvation's Nemesis Failsafe, with the Failsafe relying on Guardian technology rather than Utopian exoneurology."
+modern_impact: Fonseca's personal demonstration — 'uploading some of my own long-term memories into the Sim-Archive' — is a vivid detail. The technical distinction — 'the Nemesis process irreversibly transforms a person's entire neuronal network into esoteric energy particles' vs. Utopia's memory duplication — is crucial. Antal's philosophical framing — 'Utopia's role is to unite us all by bringing down the barriers between our individual universes' — contrasts with Salvation's self-preservation motive.
 legacy_weight: 5
 significance: high
 related_uuids:

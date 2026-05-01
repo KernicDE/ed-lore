@@ -4,7 +4,8 @@ title: Subject D-2 Rejects Azimuth
 slug: subject_d_2_rejects_azimuth
 date: '3308-10-11'
 source: API
-arc_id: salvation-azimuth
+summary: Seo Jin-ae, the Project Seraph survivor, has refused to have any further contact with Azimuth Biotech following its offer of help.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Alba Tesreau
 - Angela Corcoran
@@ -23,21 +24,16 @@ locations:
 topics:
 - alien contact
 - corporate expansion
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: Seo Jin-ae, the Project Seraph survivor, has refused to have any further
-  contact with Azimuth Biotech following its offer of help.
-modern_impact: '"It will come as no surprise that Ms Seo vehemently rejects Mr Rademaker’s
-  proposal. She has relayed horrific details ..." Azimuth''s legacy of ethically compromised
-  research remains a cautionary tale in xenological studies.'
+arc_id: salvation-azimuth
+modern_impact: '"It will come as no surprise that Ms Seo vehemently rejects Mr Rademaker’s proposal. She has relayed horrific details ..." Azimuth''s legacy of ethically compromised research remains a cautionary tale in xenological studies.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
-legacy_weight: 5
-significance: high
 ---
 
 Seo Jin-ae, the Project Seraph survivor, has refused to have any further contact with Azimuth Biotech following its offer of help.

@@ -4,6 +4,11 @@ title: Thargoid Scythes Undertake ‘Human Harvest’
 slug: thargoid_scythes_undertake_human_harvest
 date: '3309-08-09'
 source: API
+summary: Aegis designates the new 'Scythe' class hunter, which hyperdicts ships and extracts living passengers via hull-breaching strikes and recovery drones.
+player_impact: Pilots encountering Scythe-class vessels should exercise maximum caution.
+persons:
+- Aden Tanner
+- Skylar Anderson
 groups:
 - Aegis
 locations: []
@@ -11,12 +16,7 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Tanner's chilling description — 'A Scythe's initial attack mirrors that of its Glaive cousin... It then launches a unique strike to makes passenger cabins and cargo holds uninhabitable. The resulting escape pods are rapidly drawn onboard' — is clinical horror. Anderson's connection to the Dedicant — 'it now seems likely that the Dedicant's population was forced to abandon the megaship and subsequently abducted en masse by these vessels' — solves that mystery. Her speculation about 'harvesting us in the same way as obtaining meta-alloys' frames the abduction as resource extraction."
-persons:
-- Aden Tanner
-- Skylar Anderson
-player_impact: "Pilots encountering Scythe-class vessels should exercise maximum caution."
-summary: "Aegis designates the new 'Scythe' class hunter, which hyperdicts ships and extracts living passengers via hull-breaching strikes and recovery drones."
+modern_impact: Tanner's chilling description — 'A Scythe's initial attack mirrors that of its Glaive cousin... It then launches a unique strike to makes passenger cabins and cargo holds uninhabitable. The resulting escape pods are rapidly drawn onboard' — is clinical horror. Anderson's connection to the Dedicant — 'it now seems likely that the Dedicant's population was forced to abandon the megaship and subsequently abducted en masse by these vessels' — solves that mystery. Her speculation about 'harvesting us in the same way as obtaining meta-alloys' frames the abduction as resource extraction.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -25,7 +25,7 @@ related_uuids:
 - 3cfd5471-48e1-54bb-b80a-1eb9638b9187
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A new type of Thargoid vessel is hyperdicting human ships and capturing living passengers.
 Aegis has designated the hunter-class alien ship as a ‘Scythe’. Aden Tanner released an assessment of its capabilities:
 “This Thargoid vessel has been designed not just for combat, but to hyperdict ships and extract human beings from them. Our observations of its tactics suggesting that abduction is its primary purpose.”

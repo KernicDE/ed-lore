@@ -4,28 +4,22 @@ title: ‘Ghost Ship’ Leads Alliance to New Resources
 slug: ghost_ship_leads_alliance_to_new_resources
 date: '3306-11-09'
 source: GitHub
-entities:
+summary: The abandoned megaship Adamastor reveals meta-alloy sources in the Coalsack Nebula, prompting the Alliance to launch an expedition with corporate partners including Sirius Atmospherics.
+player_impact: Independent pilots discovered Thargoid barnacle sites in the Coalsack Nebula.
+persons:
 - Edmund Mahon
 groups:
 - Alliance
-persons:
-- Edmund Mahon
 topics:
 - corporate expansion
 - exploration
 - research
-summary: The abandoned megaship Adamastor reveals meta-alloy sources in the Coalsack
-  Nebula, prompting the Alliance to launch an expedition with corporate partners including
-  Sirius Atmospherics.
-player_impact: Independent pilots discovered Thargoid barnacle sites in the Coalsack Nebula.
-modern_impact: The Coalsack Nebula remains a key region for meta-alloy extraction and
-  Alliance expansion.
+entities:
+- Edmund Mahon
+modern_impact: The Coalsack Nebula remains a key region for meta-alloy extraction and Alliance expansion.
 legacy_weight: 3
 significance: medium
 ---
-
-‘Ghost Ship’ Leads Alliance to New Resources
-
 
 Discoveries made two hundred years ago by an abandoned megaship have revealed untapped sources of meta-alloys within The Coalsack Nebula. 
 

@@ -4,13 +4,13 @@ title: 'Powerplay Standings: August 3311'
 slug: powerplay_standings_august_3311
 date: '3311-08-12'
 source: API
-groups: []
+summary: Vox Galactica's August 3311 Powerplay analysis shows Aisling Duval surging to 1,936 systems with a gain of 275, solidifying her position as the most influential Power.
+player_impact: Powerplay pilots influenced system control across the galaxy. Aisling Duval gained 275 systems, the largest increase of any Power.
 persons:
 - Conrad Sterling
+groups: []
 technologies: []
-player_impact: "Powerplay pilots influenced system control across the galaxy. Aisling Duval gained 275 systems, the largest increase of any Power."
-summary: "Vox Galactica's August 3311 Powerplay analysis shows Aisling Duval surging to 1,936 systems with a gain of 275, solidifying her position as the most influential Power."
-modern_impact: "Aisling's massive 275-system gain comes immediately after her three-way conflict with Jerome Archer and Li Yong-Rui in July, suggesting her supporters mobilised heavily in response to the territorial threat. This surge positions her as the dominant Power entering the HIP 87621 enclave war, where she would ultimately control 6-7 systems."
+modern_impact: Aisling's massive 275-system gain comes immediately after her three-way conflict with Jerome Archer and Li Yong-Rui in July, suggesting her supporters mobilised heavily in response to the territorial threat. This surge positions her as the dominant Power entering the HIP 87621 enclave war, where she would ultimately control 6-7 systems.
 legacy_weight: 2
 significance: low
 related_uuids: []

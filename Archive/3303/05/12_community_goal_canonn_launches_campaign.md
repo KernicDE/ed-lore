@@ -14,21 +14,18 @@ groups:
 locations:
 - Zoline Port
 - LTT 377
-technologies:
-- Gnosis
 topics:
 - exploration
 - research
 - ship
 - trade
 - war
+technologies:
+- Gnosis
 modern_impact: Canonn Interstellar Research Group's Gnosis campaign establishes a new model for community-funded deep-space scientific research vessels.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Canonn Launches Campaign
-
 
 The Canonn Interstellar Research Group has announced plans to construct a new deep-space research Vessel to support Its mission of apolitical collaborative research. The purpose of the ship – Which will be called the Gnosis – is to aid explorers and scientists from various fields, and to provide facilities for pilots conducting scientific research in deep space.  
 

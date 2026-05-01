@@ -4,30 +4,24 @@ title: Rockforth Corporation Releases Apology
 slug: rockforth_corporation_releases_apology
 date: '3305-11-05'
 source: GitHub
-groups:
-- Rockforth Corporation
-- Interstellar Association for Agriculture
+summary: Rockforth Corporation CEO Sylvia Rockforth apologises for the company's role in distributing the blight pathogen via EX7 fertiliser. Former marketing director Rex Whitlock is dismissed. The IAA confirms widespread distribution of agronomic treatment.
+player_impact: None
 persons:
 - Sylvia Rockforth
 - Genevieve Kane
 - Rex Whitlock
+groups:
+- Rockforth Corporation
+- Interstellar Association for Agriculture
 topics:
 - corporate expansion
 - investigation
-summary: Rockforth Corporation CEO Sylvia Rockforth apologises for the company's role in
-  distributing the blight pathogen via EX7 fertiliser. Former marketing director Rex Whitlock
-  is dismissed. The IAA confirms widespread distribution of agronomic treatment.
-player_impact: None
-modern_impact: The apology and restitution fund mark Rockforth's attempt to recover from
-  the blight scandal, though public trust remains damaged.
+modern_impact: The apology and restitution fund mark Rockforth's attempt to recover from the blight scandal, though public trust remains damaged.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 91dea8da-3921-5a99-811c-41fdd8ec779f
 ---
-
-Rockforth Corporation Releases Apology
-
 
 The CEO of Rockforth Corporation has expressed regret at her company’s role in the distribution of blight pathogen, Which ravaged crops in Hundreds of systems. 
 

@@ -4,28 +4,24 @@ title: Community Support Required for Starport Conversions
 slug: community_support_required_for_starport_conversions
 date: '3306-09-17'
 source: GitHub
+summary: Kavanagh Spaceframes and Steel Castle Inc request commodity deliveries to convert refinery outposts into starports across ten systems. The projects aim to support fleet carrier owners using large vessels for Tritium transport.
+player_impact: Pilots can deliver building materials to Blaauw Hub in Tenche and Teng-hui Station in Nagasairu.
+persons:
+- Susannah Haynes
+- Dean Bradigan
 groups:
 - Pilots Federation
 - Kavanagh Spaceframes Ltd
 - Steel Castle Inc
 - Tenche Universal Holdings
 - CQC Holdings
-persons:
-- Susannah Haynes
-- Dean Bradigan
 locations:
 - Tenche
 - Nagasairu
 topics:
 - construction
 - trade
-summary: Kavanagh Spaceframes and Steel Castle Inc request commodity deliveries to convert
-  refinery outposts into starports across ten systems. The projects aim to support fleet
-  carrier owners using large vessels for Tritium transport.
-player_impact: Pilots can deliver building materials to Blaauw Hub in Tenche and Teng-hui
-  Station in Nagasairu.
-modern_impact: Community-driven construction expands starport infrastructure to support
-  the fleet carrier economy.
+modern_impact: Community-driven construction expands starport infrastructure to support the fleet carrier economy.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -34,10 +30,7 @@ related_uuids:
 - 07f4c3e2-ca2b-55cc-9321-3c0cdefa1f74
 ---
 
-Community Support Required for Starport Conversions
-
-
-*Pilots Federation ALERT: For The attention of all Commanders* 
+**Pilots Federation ALERT: For The attention of all Commanders** 
 
 Trading commodities required in Nagasairu and Tenche systems. 
 

@@ -4,9 +4,6 @@ title: Scientists Baffled by Mysterious Artefacts
 slug: scientists_baffled_by_mysterious_artefacts
 date: '3301-05-04'
 source: GitHub
-entities:
-- Arcannon
-- Wizzard back
 groups:
 - Canonn
 - Federal Navy
@@ -14,15 +11,14 @@ topics:
 - research
 - ship
 - war
+entities:
+- Arcannon
+- Wizzard back
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---
-
-Scientists Baffled by Mysterious Artefacts
-
 
 Thanks to The efforts of Dozens of Commanders taking part In a hunt across Hundreds of systems, Dr. Arcannon and his team are delighted to announce that they have finally managed to retrieve an Unknown Artefact. 
 

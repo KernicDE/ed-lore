@@ -31,9 +31,6 @@ related_uuids:
 - d1aacae5-010b-538a-9be7-f872eece9a07
 ---
 
-Aisling Duval Wedding Cancelled
-
-
 Federal news channels have announced that The wedding of Princess Aisling Duval and Ambassador Jordan Rochester has been cancelled. 
 
 The statement came from Congress member Isolde Rochester:  

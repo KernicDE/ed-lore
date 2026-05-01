@@ -16,19 +16,15 @@ locations:
 - Merope
 - Dahan
 - Nelson Works
-technologies:
-- Evacuation Shelters
 topics:
 - research
+technologies:
+- Evacuation Shelters
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 4
 significance: high
 ---
-
-The Canonn Supports Palin's Effort
-
 
 Professor Ishmael Palin has requested help in establishing a new research base on Maia B1BA in order to safely study the unknown artefacts. Dr Arcanonn, head of the Canonn Interstellar Research Group, has issued a statement regarding This endeavour: 
 

@@ -13,18 +13,15 @@ locations:
 - Balones
 - Tiedemann Dock
 - Synuefe
-technologies: []
 topics:
 - alien contact
 - community goal
 - trade
+technologies: []
 modern_impact: Community goal funding deep-space probes to explore beyond the galaxy, motivated by alien shipwreck and Synuefe ruin discoveries.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Balones Gold Touch Systems Appeals for Materials
-
 
 Balones Gold Touch Systems has placed an open order for materials for use In a forthcoming project. A bulletin from The organisation confirms that pilots who deliver mined osmium, praseodymium and methanol monohydrate crystals to Tiedemann Dock in the Balones system will be generously rewarded. 
 

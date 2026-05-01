@@ -4,7 +4,8 @@ title: Praise for the Pro-Peace Project
 slug: praise_for_the_pro_peace_project
 date: '3308-11-23'
 source: API
-arc_id: null
+summary: Congressman Dalton Chase has applauded the increased public support for the goal of opening diplomatic channels with the Thargoids.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Dalton Chase
 - Heimar Borichev
@@ -17,21 +18,16 @@ topics:
 - alien contact
 - diplomacy
 - war
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: Congressman Dalton Chase has applauded the increased public support for the
-  goal of opening diplomatic channels with the Thargoids.
-modern_impact: '"Not so long ago, the idea of communicating with the Thargoids seemed
-  absurd. But look at what’s happening in Andavand..." This perspective highlights
-  the broader stakes and continues to shape contemporary debates.'
+arc_id: null
+modern_impact: '"Not so long ago, the idea of communicating with the Thargoids seemed absurd. But look at what’s happening in Andavand..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - d9c25fb2-563a-5af4-ac33-6f60c406b5a5
 - d8b14f7a-0b22-5f2d-a164-45b74638e864
 - 98d2b600-086b-56d5-b7de-45bee9289a6f
-legacy_weight: 5
-significance: high
 ---
 
 Congressman Dalton Chase has applauded the increased public support for the goal of opening diplomatic channels with the Thargoids.

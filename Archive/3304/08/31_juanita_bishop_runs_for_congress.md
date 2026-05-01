@@ -29,9 +29,6 @@ related_uuids:
 - 334fc5ad-8484-5b75-8418-d393f7045533
 ---
 
-Juanita Bishop runs for Congress
-
-
 Juanita Bishop, a leading campaigner against The Far God cult, has announced that she is running for Federal Congress. 
 
 Mrs Bishop’s vocal condemnation of Thargoid worship has gained her a strong following in Many Federal systems. She is now campaigning to be elected to Congress as an Independent candidate. 

@@ -4,6 +4,8 @@ title: Military Strike Against Marlinist Faction
 slug: military_strike_against_marlinist_faction
 date: '3306-10-08'
 source: GitHub
+summary: The Empire targets the Duduseklis Empire League in Ackwada, suspecting it of NMLA recruitment. The faction resists, seeking to transport political refugees to safety.
+player_impact: Pilots were asked to assist the Regulatory State of Ackwada in defeating pro-Marlinist forces.
 groups:
 - Imperial Internal Security Service
 - Pilots Federation
@@ -15,12 +17,7 @@ topics:
 - terrorism
 - war
 - humanitarian
-summary: The Empire targets the Duduseklis Empire League in Ackwada, suspecting it of
-  NMLA recruitment. The faction resists, seeking to transport political refugees to safety.
-player_impact: Pilots were asked to assist the Regulatory State of Ackwada in defeating
-  pro-Marlinist forces.
-modern_impact: The Empire begins systematically targeting Marlinist factions, triggering
-  a refugee crisis.
+modern_impact: The Empire begins systematically targeting Marlinist factions, triggering a refugee crisis.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -28,10 +25,7 @@ related_uuids:
 - faa5ef02-8da5-512b-a56c-8647996a10f9
 ---
 
-Military Strike Against Marlinist Faction
-
-
-*Pilots Federation ALERT* 
+**Pilots Federation ALERT** 
 
 Conflict between Regulatory State of Ackwada and Duduseklis Empire League in The Ackwada system. 
 

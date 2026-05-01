@@ -28,9 +28,6 @@ related_uuids:
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
-Inside The Far God Cult
-
-
 Independent reporter Gethin Okonkwo, who was previously thought Missing, has revealed that he has been living undercover within the Far God cult for the past three months. 
 
 In an op-ed piece, Mr Okonkwo shared his experiences: 

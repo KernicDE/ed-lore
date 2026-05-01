@@ -26,9 +26,6 @@ related_uuids:
 - 90bdaf38-9c1c-58e0-a371-0f222a188649
 ---
 
-Close Encounters Corps Initiative
-
-
 The Close Encounters Corps has announced Its intention to construct a scientific megaship in the BD-12 1172 system. The new Vessel will allow research teams to map and explore the planets of the surrounding nebula. 
 
 Admiral Anton Vern of the Close Encounters Corps issued The following statement: 

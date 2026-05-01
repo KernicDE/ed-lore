@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: More Palladium for Dr Arcanonn
-
-
 A spokesperson for The Canonn Interstellar Research Group has issued a plea for a final push in the campaign to establish a research outpost at Thompson Dock: 
 
 "The response from the community has been incredible, but we need more palladium!" 

@@ -4,7 +4,11 @@ title: Disappearance of the Dedicant
 slug: disappearance_of_the_dedicant
 date: '3309-06-16'
 source: API
-entities: []
+summary: The Dedicant megaship disappears after making an unscheduled hyperspace jump from Popontia, with thousands of Far God cultists and FIA agents aboard; both Federal and Allied search parties find no trace.
+player_impact: Not specifically mentioned — this is a breaking news report.
+persons:
+- Jalen Locke
+- Alfred Ulyanov
 groups:
 - Federal Navy
 locations:
@@ -12,13 +16,9 @@ locations:
 topics:
 - crime
 - investigation
+entities: []
 arc_id: null
-modern_impact: "Locke's assumption — 'the cultists somehow overpowered our people and absconded with the megaship' — is immediately suspect. Ulyanov's expert counter — 'their nature remains essentially fatalistic. This makes it hard to imagine them taking on armed FIA agents in combat' — undermines the official narrative. His suggestion of 'a third party was involved' or 'the Dedicant's original owners found a way to divert its course' opens multiple possibilities."
-persons:
-- Jalen Locke
-- Alfred Ulyanov
-player_impact: "Not specifically mentioned — this is a breaking news report."
-summary: "The Dedicant megaship disappears after making an unscheduled hyperspace jump from Popontia, with thousands of Far God cultists and FIA agents aboard; both Federal and Allied search parties find no trace."
+modern_impact: Locke's assumption — 'the cultists somehow overpowered our people and absconded with the megaship' — is immediately suspect. Ulyanov's expert counter — 'their nature remains essentially fatalistic. This makes it hard to imagine them taking on armed FIA agents in combat' — undermines the official narrative. His suggestion of 'a third party was involved' or 'the Dedicant's original owners found a way to divert its course' opens multiple possibilities.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -32,9 +32,6 @@ related_uuids:
 - 5ce245a3-6cab-529d-81eb-e7015b0bbe28
 ---
 
-Connection to Sirius Corp Uncovered
-
-
 A link has been established between The mercenary group recently intercepted in the Meene system and the Sirius Corporation. 
 
 Security Chief Harper Vargas of the Meene Defence Force said: 

@@ -4,19 +4,19 @@ title: Battle at Beta-3 Tucani Ends, Empire Declares Victory
 slug: battle_at_beta_3_tucani_ends_empire_declares_victory
 date: '3311-06-26'
 source: API
+summary: The conflict between Imperial forces and Archon Delaine in Beta-3 Tucani concluded with an Imperial victory. Imperial Intelligence forced the Mictlan megaship to retreat, and an agent hacked its internal holoscreens to display Imperial propaganda.
+player_impact: Both sides called upon independent pilots. Imperial supporters successfully repelled Delaine's forces, dealt a severe blow to pirate operations, and forced the Mictlan to retreat.
+persons:
+- Arissa Lavigny-Duval
+- Archon Delaine
 locations:
 - Beta-3 Tucani
 topics:
 - piracy
 - war
-persons:
-- Arissa Lavigny-Duval
-- Archon Delaine
 technologies:
 - Mictlan megaship
-player_impact: "Both sides called upon independent pilots. Imperial supporters successfully repelled Delaine's forces, dealt a severe blow to pirate operations, and forced the Mictlan to retreat."
-summary: "The conflict between Imperial forces and Archon Delaine in Beta-3 Tucani concluded with an Imperial victory. Imperial Intelligence forced the Mictlan megaship to retreat, and an agent hacked its internal holoscreens to display Imperial propaganda."
-modern_impact: "The hacking of the Mictlan's internal holoscreens to display Imperial propaganda is a psychological warfare masterstroke demonstrating Imperial Intelligence's technical sophistication. The victory's timing is significant: Kumo Crew retaliatory pirate attacks against Zorgon Peterson supply chains in July are directly attributed to this defeat, showing Delaine's capacity for asymmetric response even after major losses."
+modern_impact: 'The hacking of the Mictlan''s internal holoscreens to display Imperial propaganda is a psychological warfare masterstroke demonstrating Imperial Intelligence''s technical sophistication. The victory''s timing is significant: Kumo Crew retaliatory pirate attacks against Zorgon Peterson supply chains in July are directly attributed to this defeat, showing Delaine''s capacity for asymmetric response even after major losses.'
 legacy_weight: 2
 significance: low
 related_uuids:

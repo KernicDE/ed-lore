@@ -15,7 +15,6 @@ locations:
 - Epsilon Indi
 - London Relay
 - Pegasi Sector
-technologies: []
 topics:
 - corporate expansion
 - diplomacy
@@ -24,14 +23,12 @@ topics:
 - succession
 - terrorism
 - war
+technologies: []
 arc_id: imperial-succession
 modern_impact: Rare trilateral summit on galactic security demonstrates both cooperation and ongoing tensions between superpowers.
 legacy_weight: 4
 significance: high
 ---
-
-Epsilon Indi Hosts Summit Conference
-
 
 London Relay in The Epsilon Indi system is to host a summit conference focusing on terrorism and galactic security. Representatives from the Empire, the Federation and the Alliance are all expected to attend the three-day event, Which begins next week. Topics for discussion are expected to include Emperor's Dawn and the ongoing conflict in the Pegasi Sector. 
 

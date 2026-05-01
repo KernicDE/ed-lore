@@ -12,17 +12,14 @@ groups:
 - Imperial Inquisition
 locations:
 - Pleiades Sector IH-V c2-16
-technologies: []
 topics:
 - ship
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: Open warfare between Federal and Imperial forces in the Pleiades over strategic territory escalates superpower conflict.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: The Fight for Pleiades Sector IH-V C2-16
-
 
 Recent reports from the Empire-controlled Pleiades Sector IH-V c2-16 system indicate that the Pleiades Resource Enterprise, a Federal organisation, is preparing to launch an assault With the aim of taking the region from the Empire. 
 

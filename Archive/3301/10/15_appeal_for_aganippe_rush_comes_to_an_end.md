@@ -4,6 +4,8 @@ title: Appeal for Aganippe Rush Comes to an End
 slug: appeal_for_aganippe_rush_comes_to_an_end
 date: '3301-10-15'
 source: GitHub
+summary: The Revolutionary Noti Value Party's appeal for Aganippe Rush concluded successfully, with hundreds of independent pilots delivering the rare commodity to Weber Gateway. The faction declined to explain the purpose of the request, though Federal Times reporter Marc Garfield had previously alleged a connection to engineered 'master chef' slaves.
+player_impact: Pilots who delivered Aganippe Rush to Weber Gateway contributed to a successful community trade initiative, though the ultimate purpose of the request remains unclear.
 groups:
 - Revolutionary Noti Value Party
 locations:
@@ -12,15 +14,10 @@ locations:
 - Weber Gateway
 topics:
 - trade
-summary: The Revolutionary Noti Value Party's appeal for Aganippe Rush concluded successfully, with hundreds of independent pilots delivering the rare commodity to Weber Gateway. The faction declined to explain the purpose of the request, though Federal Times reporter Marc Garfield had previously alleged a connection to engineered 'master chef' slaves.
-player_impact: Pilots who delivered Aganippe Rush to Weber Gateway contributed to a successful community trade initiative, though the ultimate purpose of the request remains unclear.
 modern_impact: Trade initiative affecting commodity markets and local economies.
 legacy_weight: 2
 significance: low
 ---
-
-Appeal for Aganippe Rush Comes to an End
-
 
 The Revolutionary Noti Value Party, a group based in the Noti system, recently issued an open contract for Aganippe Rush, a rare commodity Found only in the Aganippe system. Although the faction chose not to publicise the reason for the request, the response was positive, With Hundreds of Independent pilots making the journey to Aganippe to gather quantities of the unusual commodity. Authorities at Weber Gateway, were the deliveries were taken, even had to take on additional staff to deal With the influx of trade ships. 
 

@@ -4,6 +4,8 @@ title: Thargoids Return to Pleiades Nebula
 slug: thargoids_return_to_pleiades_nebula
 date: '3305-07-18'
 source: GitHub
+summary: Thargoid forces resurface in the Pleiades Nebula in large numbers, prompting the evacuation of Professor Ishmael Palin from the Palin Research Centre in Maia as his megaship Carson's Spring comes under assault.
+player_impact: Pilots were urged to protect Carson's Spring from Thargoid attacks during evacuation.
 persons:
 - Alba Tesreau
 - Ishmael Palin
@@ -17,8 +19,6 @@ topics:
 - research
 - war
 arc_id: thargoid-contact
-summary: Thargoid forces resurface in the Pleiades Nebula in large numbers, prompting the evacuation of Professor Ishmael Palin from the Palin Research Centre in Maia as his megaship Carson's Spring comes under assault.
-player_impact: Pilots were urged to protect Carson's Spring from Thargoid attacks during evacuation.
 modern_impact: The Thargoid resurgence in the Pleiades forced the evacuation of critical research infrastructure and demonstrated that humanity's hold on the region remained tenuous.
 legacy_weight: 5
 significance: high
@@ -26,9 +26,6 @@ related_uuids:
 - ba58f071-3919-5ce8-aa5f-ed9a848a3847
 - 969713a8-6dbf-548c-9ce4-4d33ba1f321a
 ---
-
-Thargoids Return to Pleiades Nebula
-
 
 The Thargoids have returned to the Pleiades Nebula in large numbers, With Several conflicts reported within hours. 
 

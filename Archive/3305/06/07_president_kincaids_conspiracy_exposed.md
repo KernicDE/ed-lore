@@ -4,6 +4,8 @@ title: President Kincaid's Conspiracy Exposed
 slug: president_kincaids_conspiracy_exposed
 date: '3305-06-07'
 source: GitHub
+summary: The Alliance Tribune reveals that Admiral Frederick Yamamoto committed multiple crimes on the direct orders of President Gibson Kincaid, including assassinating Fazia Silva, as part of a plot to transfer executive power to Zaonce.
+player_impact: None — background political report.
 persons:
 - Vanya Driscoll
 - Frederick Yamamoto
@@ -22,8 +24,6 @@ topics:
 - crime
 - investigation
 - politics
-summary: The Alliance Tribune reveals that Admiral Frederick Yamamoto committed multiple crimes on the direct orders of President Gibson Kincaid, including assassinating Fazia Silva, as part of a plot to transfer executive power to Zaonce.
-player_impact: None — background political report.
 modern_impact: The exposure of Kincaid's conspiracy shattered the Alliance presidency and revealed how corporate and military interests had infiltrated the highest levels of Alliance government.
 legacy_weight: 4
 significance: high
@@ -31,9 +31,6 @@ related_uuids:
 - 65fc42a9-99b6-5135-b0fa-12676eebc6c4
 - ca0efb26-acce-53ce-bf71-ba743dd0e7d2
 ---
-
-President Kincaid's Conspiracy Exposed
-
 
 The Alliance Tribune has revealed that Admiral Frederick Yamamoto has committed multiple crimes at the behest of Alliance president Gibson Kincaid.  
 

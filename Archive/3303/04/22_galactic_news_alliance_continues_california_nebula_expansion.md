@@ -15,19 +15,15 @@ locations:
 - California Sector JH-V c2-12
 - Maia
 - Merope
-technologies: []
 topics:
 - construction
 - research
+technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity
-  in the Pleiades region.
+modern_impact: The barnacle/meta-alloy trade drives economic and military activity in the Pleiades region.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Alliance Continues California Nebula Expansion
-
 
 Last year, The Alliance established a foothold in the California Nebula With the construction of an outpost in the California Sector BA-A E6 system. 
 

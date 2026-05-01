@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Imperial Inquisition's Campaign Successful
-
-
 Mavia Kain, leader of The Imperial Inquisition, has announced that the group's campaign to develop the planetary outpost of i Sola Prospect on Brestla A1 has been enthusiastically received by the galactic community. Members of the organisation were motivated to launch the campaign after becoming frustrated With i Sola Prospect's limited service options. Having received significant quantities of material, the organisation is now In a position to begin developing the outpost. A spokesperson for the group released a statement to the media: 
 
 "Mavia Kain and the Imperial Inquisition would like to thank the galactic community for Its support. Thanks to you, i Sola Prospect will soon be the best-equipped planetary outpost in the galaxy, rivalled only by Jameson Memorial." 

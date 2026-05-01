@@ -26,9 +26,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Defending The Sim-Archive
-
-
 The Utopia commune has launched a project to build a military installation in Its home system to defend the Sim-Archive from potential Thargoid attack. 
 
 Dr Leigh Constantinides, a spokesperson for Utopia, made This announcement: 

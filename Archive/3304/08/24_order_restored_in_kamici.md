@@ -22,9 +22,6 @@ related_uuids:
 - c1133803-c9bd-5144-b0a8-9b6198ae6505
 ---
 
-Order Restored in Kamici
-
-
 Kamici Incorporated has announced that Its campaign to clear The Kamici system of felons has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
 Authorities in Kamici have extended their gratitude to those who participated in the operation. 

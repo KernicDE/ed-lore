@@ -4,7 +4,8 @@ title: Anti-NMLA Intelligence Unit Formed
 slug: anti_nmla_intelligence_unit_formed
 date: 3307-03-17
 source: API
-arc_id: nmla-terrorism
+summary: The Alliance, Empire and Federation have created a centralised agency dedicated to investigating and eliminating the NMLA paramilitary group.
+player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
 persons:
 - Alioth
 - Eotienses
@@ -32,9 +33,10 @@ locations:
 topics:
 - diplomacy
 - terrorism
-player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
-summary: The Alliance, Empire and Federation have created a centralised agency dedicated to investigating and eliminating the NMLA paramilitary group.
-modern_impact: "\"This atrocity is nothing less than a declaration of war.\" The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates."
+arc_id: nmla-terrorism
+modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
 - be3889fc-d42f-5494-b1d1-fdd9dcb4223f
@@ -42,8 +44,6 @@ related_uuids:
 - 07928c21-6ee3-5dbb-b1b5-aa7b041eba5e
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
-legacy_weight: 5
-significance: high
 ---
 
 The Alliance, Empire and Federation have created a centralised agency dedicated to investigating and eliminating the NMLA paramilitary group.

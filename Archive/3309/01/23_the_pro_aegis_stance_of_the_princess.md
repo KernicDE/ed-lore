@@ -4,7 +4,8 @@ title: The Pro-Aegis Stance of the Princess
 slug: the_pro_aegis_stance_of_the_princess
 date: '3309-01-23'
 source: API
-entities: []
+summary: Imperial military and political figures react to Princess Aisling Duval's proposal for the Empire to join a reformed Aegis initiative.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Aisling Duval
 - Denton Patreus
@@ -21,17 +22,16 @@ topics:
 - politics
 - research
 - succession
+entities: []
 arc_id: thargoid-titan-war
-player_impact: Not specifically mentioned — this is a political report.
-summary: Imperial military and political figures react to Princess Aisling Duval's proposal for the Empire to join a reformed Aegis initiative.
-modern_impact: "\"Far from challenging Emperor Arissa's policy, this is a heartfelt attempt to support her reign by increasing the Empire's chances of victory against the Thargoids.\" Senator Leopold's defense reframed Aisling's controversial stance as loyal opposition, a rhetorical strategy that helped legitimize the eventual Imperial participation in the reformed Aegis."
+modern_impact: '"Far from challenging Emperor Arissa''s policy, this is a heartfelt attempt to support her reign by increasing the Empire''s chances of victory against the Thargoids." Senator Leopold''s defense reframed Aisling''s controversial stance as loyal opposition, a rhetorical strategy that helped legitimize the eventual Imperial participation in the reformed Aegis.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - d83a7bd9-c7eb-528b-a464-28180c65e590
 - f920072c-9b3c-53d1-9078-e6102cdc56a0
 - 996e0bf1-66fc-5a48-8c3c-1eaeccbe247e
 - 69df1032-f6ec-58b2-9b05-cbcb3c243462
-legacy_weight: 5
-significance: high
 ---
 
 Princess Aisling Duval’s call for the Empire to commit to a resumed Aegis project, alongside the Alliance and Federation, has received a harsh response.

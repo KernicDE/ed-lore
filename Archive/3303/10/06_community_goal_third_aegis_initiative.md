@@ -23,9 +23,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Community Goal: Third Aegis Initiative
-
-
 Aegis has announced The third phase of Its programme to counter the Thargoid threat, and is once again turning to the galactic community for the necessary Thargoid-related materials. 
 
 As the campaign began, Aegis' Head of Research, Professor Alba Tesreau, released The following statement: 

@@ -4,21 +4,18 @@ title: Eyes on Quivira
 slug: eyes_on_quivira
 date: '3301-05-05'
 source: GitHub
-entities:
-- Denton Patreus
 locations:
 - Denton
 - Turmoil hit the small
 topics:
 - ship
 - war
+entities:
+- Denton Patreus
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Eyes on Quivira
-
 
 Turmoil hit The small system of Quivira late last week, as thousands of Imperial pilots descended to deliver The wrath of Senator Denton Patreus on his debtors. In the first two days of the war, tens of thousands of Independent pilots lost their lives while bravely attempting to hold off Imperial forces from taking Godel Dock. 
 

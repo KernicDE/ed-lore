@@ -4,6 +4,8 @@ title: 'Azimuth: A Historical Perspective (Part Five)'
 slug: azimuth_a_historical_perspective_part_five
 date: '3308-06-29'
 source: API
+summary: Part five concludes with the Didio-Novas-Sosong invasions, the INRA base discovery in DG Canum Venaticorum revealing Caleb Wycherley's identity as the Witch, Project Seraph survivor D-2's testimony, and Azimuth Biotech's public resurrection.
+player_impact: Pilots supported the defence of Didio, Novas and Sosong during the simultaneous Thargoid invasions and contributed to superweapon construction.
 persons:
 - Alba Tesreau
 - Caleb Wycherley
@@ -30,16 +32,14 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-summary: Part five concludes with the Didio-Novas-Sosong invasions, the INRA base discovery in DG Canum Venaticorum revealing Caleb Wycherley's identity as the Witch, Project Seraph survivor D-2's testimony, and Azimuth Biotech's public resurrection.
-player_impact: Pilots supported the defence of Didio, Novas and Sosong during the simultaneous Thargoid invasions and contributed to superweapon construction.
 modern_impact: The series concluded by exposing how Azimuth's 200-year xenological weapons project had successfully infiltrated superpower military structures, making the corporation indispensable precisely because it had engineered the crises it claimed to solve.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 0beee1ec-da7a-57db-a67c-3a1f20eb4828
 - 8ff66371-3861-5214-b69f-432b6c200e2b
 - 7f805447-27c2-5fd5-8353-f45f651f911e
 - ec4294f3-fcc8-5a3b-932a-ed2dc3319144
-legacy_weight: 5
-significance: high
 ---
 
 The concluding article in this series examines events leading to the resurrection of Azimuth and Salvation’s plans for the future.

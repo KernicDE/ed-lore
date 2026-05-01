@@ -4,21 +4,21 @@ title: Aegis Announces Engineering Supply Commitment
 slug: aegis_announces_engineering_supply_commitment
 date: '3310-08-06'
 source: API
-entities: []
+summary: Aegis announces a new programme to reward independent pilots with engineering materials for their contributions to clearing Thargoid-harvested systems, starting August 7.
+player_impact: Independent pilots active in Thargoid-harvested systems will receive engineering materials from Aegis based on their individual contributions to clearing those systems, including non-combat efforts.
+persons:
+- Alba Tesreau
+- Professor Palin
+- Ram Tah
 groups:
 - Aegis
 locations: []
 topics:
 - engineering
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's statement — 'independent pilots have also sacrificed so much in defense of humanity's sovereignty. By funding their own vessels and equipment, they earn their keep via combat, trade and humanitarian dedications' — acknowledges the economic reality of independent Commanders. The partnership with Palin and Ram Tah shows how Aegis leverages the galaxy's top engineers to support frontline pilots. The inclusion of 'non-combat efforts' in the review broadens participation beyond combat pilots."
-persons:
-- Alba Tesreau
-- Professor Palin
-- Ram Tah
-player_impact: "Independent pilots active in Thargoid-harvested systems will receive engineering materials from Aegis based on their individual contributions to clearing those systems, including non-combat efforts."
-summary: "Aegis announces a new programme to reward independent pilots with engineering materials for their contributions to clearing Thargoid-harvested systems, starting August 7."
+modern_impact: Tesreau's statement — 'independent pilots have also sacrificed so much in defense of humanity's sovereignty. By funding their own vessels and equipment, they earn their keep via combat, trade and humanitarian dedications' — acknowledges the economic reality of independent Commanders. The partnership with Palin and Ram Tah shows how Aegis leverages the galaxy's top engineers to support frontline pilots. The inclusion of 'non-combat efforts' in the review broadens participation beyond combat pilots.
 legacy_weight: 5
 significance: high
 related_uuids:

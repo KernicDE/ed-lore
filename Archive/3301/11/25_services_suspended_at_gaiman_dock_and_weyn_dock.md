@@ -21,20 +21,16 @@ locations:
 - Ngobe
 - Iapodes
 - Sol
-technologies: []
 topics:
 - construction
 - research
 - ship
 - war
-modern_impact: Escalating station malfunctions deepen the mystery and demonstrate the
-  growing need for scientific intervention.
+technologies: []
+modern_impact: Escalating station malfunctions deepen the mystery and demonstrate the growing need for scientific intervention.
 legacy_weight: 2
 significance: low
 ---
-
-Services Suspended at Gaiman Dock and Weyn Dock
-
 
 Authorities in The 64 Arietis system have confirmed that station services at Weyn Dock have been suspended due to ongoing technical issues at the starport. The announcement came within an hour of a similar statement from 49 Arietis, where it was confirmed that station services had also been suspended at Gaiman Dock. Shipyards at both starports are still understood to be accessible.  
 

@@ -12,16 +12,13 @@ groups:
 locations:
 - Russell Hub
 - Sitakapa
-technologies: []
 topics:
 - war
+technologies: []
 modern_impact: Sitakapa's military settlement conversion reflects growing frontier-world militarization amid galactic instability.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Sitakapan Expeditionary Forces Campaign Concludes
-
 
 A spokesperson for The Sitakapan Expeditionary Forces has announced that the group’s appeal for military-grade weapons and chemicals has been enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Russell Hub, the organisation’s base of operations. 
 

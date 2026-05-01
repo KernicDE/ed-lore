@@ -11,18 +11,15 @@ persons:
 groups: []
 locations:
 - Faraway
-technologies: []
 topics:
 - history
 - ship
 - technology
+technologies: []
 modern_impact: Historical overview of hyperspace evolution and the persistent unknowns within witch-space.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Hyperspace
-
 
 Continuing Our popular series on significant episodes from human history, noted historian Sima Kalhana discusses The development of the hyperdrive. 
 

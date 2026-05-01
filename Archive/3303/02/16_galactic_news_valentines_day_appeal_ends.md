@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Valentine's Day Appeal Ends
-
-
 The Vestani Conservatives have announced that their Valentine's Day appeal received the enthusiastic support of the galactic community, With Hundreds of pilots taking to their ships to transport commodities to Rose Terminal in the Vestani system. 
 
 A spokesperson for the organisation released a brief statement: 

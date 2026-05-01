@@ -4,6 +4,8 @@ title: Vodel Purchased by Core Dynamics
 slug: vodel_purchased_by_core_dynamics
 date: '3305-04-19'
 source: GitHub
+summary: Core Dynamics acquires Vodel, the leading personal land vehicle manufacturer, with CEO Jupiter Rochester confirming that the Scarab team will remain intact under the new ownership.
+player_impact: None — background corporate report.
 persons:
 - Jupiter Rochester
 - Marlon Royce
@@ -17,15 +19,10 @@ topics:
 - corporate expansion
 - engineering
 - ship
-summary: Core Dynamics acquires Vodel, the leading personal land vehicle manufacturer, with CEO Jupiter Rochester confirming that the Scarab team will remain intact under the new ownership.
-player_impact: None — background corporate report.
 modern_impact: Core Dynamics' acquisition of Vodel consolidated the conglomerate's position across both starship and ground vehicle markets, with Jupiter Rochester's assurances preserving consumer confidence in the Scarab brand.
 legacy_weight: 2
 significance: low
 ---
-
-Vodel Purchased by Core Dynamics
-
 
 Vodel is a familiar name to Many, The Independent company having cornered the market in personal land vehicles in recent years. But According to The Federal Times, a downturn in profits has led to the company being purchased by Core Dynamics, a giant in the field of starship manufacture. 
 

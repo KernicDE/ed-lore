@@ -18,9 +18,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Assassination Attempt as Lugh Rallies in Alioth Grow
-
-
 Alioth played host to scenes of chaos today when Éamonn Uí Laoghire addressed The crowds after his second attempt to gain an audience With Alliance representatives failed. While engaging With the huge numbers that had gathered to hear him speak, Éamonn was targeted by a single shot that was fired from a Nearby building. 
 
 The shot missed the ambassador, but killed a member of the crowd. The ambassador was rushed to safety As the crowd began to flee the scene in terror, causing enough chaos for the assailant to escape undetected.  

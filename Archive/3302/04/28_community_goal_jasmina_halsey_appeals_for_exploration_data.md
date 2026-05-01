@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Jasmina Halsey Appeals for Exploration Data
-
-
 Since being discharged from The medical centre at Leoniceno Orbital, former Federal President Jasmina Halsey has repeatedly spoken about the allegedly transcendent experiences she had while drifting through space.  
 
 The former leader purports to have seen "the true architects of creation" and to have been shown what she describes as "the infinities of the cosmos" – assertions that, along With her slowed speech, have seen her condemned as mentally unstable by some commentators. 

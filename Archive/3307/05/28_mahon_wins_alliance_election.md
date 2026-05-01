@@ -4,7 +4,8 @@ title: Mahon Wins Alliance Election
 slug: mahon_wins_alliance_election
 date: '3307-05-28'
 source: API
-arc_id: alliance-expansion
+summary: Edmund Mahon wins re-election as Alliance prime minister for a second six-year term. The Alliance Assembly vote was delayed by demands for additional checks. Mahon pledges to uphold democracy, prosperity and mutual defence despite galactic turmoil.
+player_impact: None directly; this is an election result announcement.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -19,19 +20,18 @@ locations:
 - Industry
 - Alkaid
 - New Caledonia
-technologies: []
 topics:
 - diplomacy
-player_impact: None directly; this is an election result announcement.
-summary: Edmund Mahon wins re-election as Alliance prime minister for a second six-year term. The Alliance Assembly vote was delayed by demands for additional checks. Mahon pledges to uphold democracy, prosperity and mutual defence despite galactic turmoil.
+technologies: []
+arc_id: alliance-expansion
 modern_impact: Mahon's re-election defies the historical pattern of single-term Alliance prime ministers, cementing his legacy but also entrenching the policies that Nakato Kaine continues to oppose.
+legacy_weight: 4
+significance: medium
 related_uuids:
 - 3bb67076-8b96-50e9-8b63-a7f0e82a437e
 - 2e84c2f8-630c-5fc3-af4c-327c28dfea88
 - 5cd90cb7-e73b-553f-bdcf-cb7b311cc0df
 - 931d72fb-9b88-566c-a2c3-8b536ea52a59
-legacy_weight: 4
-significance: medium
 ---
 
 The election for Alliance prime minister has been won by the incumbent Edmund Mahon, who begins a second six-year term in office.

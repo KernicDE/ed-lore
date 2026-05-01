@@ -4,19 +4,17 @@ title: Investors Take Control of Lakon Spaceways
 slug: investors_take_control_of_lakon_spaceways
 date: '3306-12-22'
 source: API
-groups:
-- Core Dynamics
-- Lakon Spaceways
+summary: Lakon Spaceways shareholders vote to replace several board members, with the new appointees stating they will reappraise Core Dynamics' takeover bid.
+player_impact: None
 persons:
 - Naomi Landseer
 - Jupiter Rochester
+groups:
+- Core Dynamics
+- Lakon Spaceways
 topics:
 - corporate expansion
-summary: Lakon Spaceways shareholders vote to replace several board members, with the
-  new appointees stating they will reappraise Core Dynamics' takeover bid.
-player_impact: None
-modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape
-  the galactic aerospace market.
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape the galactic aerospace market.
 legacy_weight: 2
 significance: low
 ---

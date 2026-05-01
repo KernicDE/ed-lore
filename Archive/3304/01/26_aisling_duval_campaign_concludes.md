@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Aisling Duval Campaign Concludes
-
-
 Representatives of Princess Aisling Duval have announced that The Princess’s anti-slavery campaign in the Guuguyni system has come to a successful conclusion. Hundreds of Independent combat pilots supported the initiative, taking to their ships to neutralise the slave traders operating in the region. 
 
 As the campaign drew to a close, Princess Duval released The following statement: 

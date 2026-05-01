@@ -21,9 +21,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Growing Demand for Halsey's Exploration Data
-
-
 A demonstration was held today at Leoniceno Orbital in Azaleach calling for The immediate release of all information submitted in response to former Federal President Jasmina Halsey's appeal for exploration data. 
 
 "Something isn't right here," said One of the demonstrators. "Mountains of data were submitted, and within two days they were able to review it thoroughly enough to declare there was absolutely nothing of interest? This reeks of a cover up." 

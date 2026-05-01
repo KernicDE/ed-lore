@@ -13,18 +13,15 @@ groups:
 locations:
 - Parun
 - Underwood Port
-technologies: []
 topics:
 - ship
 - war
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: Faction conflict over an Imperial-aligned smuggling plot in Parun, highlighting proxy warfare between superpower-aligned factions.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Conflict in Parun
-
 
 It has been Several weeks since conflict was reported between The Empire and the Federation, following months of hostility between the two superpowers. The last incident connected to the Empire-Federation rift was a clash between the Pleiades Resource Enterprise and the Ant Hill Mob in November. Since then, there have been no reports of conflict. 
 

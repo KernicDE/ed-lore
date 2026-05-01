@@ -24,9 +24,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Community Goal: Panum Pisciumque
-
-
 Angeli Imperial Enterprises has announced plans to build a Dionysus-class Agricultural Vessel in support of ongoing resource-extraction operations in The Pleiades. Once built, the enormous starship will orbit a water world in the Pleiades Sector GW-W c1-15 system. 
 
 In support of This operation, Angeli Imperial Enterprises has placed an open order for marine equipment, micro controllers, crop harvesters and coltan, and has promised to reward pilots who deliver these commodities to Potagos Port in the Wangal system. 

@@ -16,17 +16,14 @@ locations:
 - Orio-Persean Conflux
 - Wagar's Reach
 - Ishtar
-technologies: []
 topics:
 - exploration
+technologies: []
 arc_id: jaques-station
 modern_impact: The Mercury Seven expedition's discoveries in the Orio-Persean Conflux and surrounding regions contribute to deep-space cartographic knowledge.
 legacy_weight: 3
 significance: medium
 ---
-
-Freelance Report: Mercury Seven Expedition Returns
-
 
 After 96 days in deep space, The Mercury Seven expedition will soon return home to the Colonia system. Over the course of the expedition, participating Commanders made Many new discoveries in the Orio-Persean Conflux, Wagar’s Reach and Ishtar. 
 

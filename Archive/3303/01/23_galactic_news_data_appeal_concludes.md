@@ -13,18 +13,15 @@ locations:
 - Meene
 - Felice Dock
 - Synuefe
-technologies: []
 topics:
 - engineering
 - xenoarchaeology
+technologies: []
 arc_id: guardian-ancients
 modern_impact: Community-contributed Guardian ruin data enables Ram Tah's monolith network research.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Data Appeal Concludes
-
 
 Engineer Ram Tah has announced that his appeal for data from The Synuefe ruins has been enthusiastically received by the galactic community. Hundreds of Independent pilots responded to the appeal, resulting In a massive influx of deliveries to Felice Dock, the campaign's centre of operations. 
 

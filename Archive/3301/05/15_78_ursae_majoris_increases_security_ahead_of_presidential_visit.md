@@ -4,8 +4,6 @@ title: 78 Ursae Majoris Increases Security Ahead of Presidential Visit
 slug: 78_ursae_majoris_increases_security_ahead_of_presidential_visit
 date: '3301-05-15'
 source: GitHub
-entities:
-- Halsey arrives
 groups:
 - Alliance
 locations:
@@ -14,13 +12,12 @@ locations:
 topics:
 - crime
 - war
+entities:
+- Halsey arrives
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-78 Ursae Majoris Increases Security Ahead of Presidential Visit
-
 
 Excitement is in The air in 78 Ursae Majoris, as millions of residents have begun preparing Seddon Gateway for The arrival of Federal President Jasmina Halsey. The exact date of the President’s arrival has yet to be announced, but residents haven’t let that stop them from arranging a week of festivities and cultural displays aboard the station. 
 

@@ -15,18 +15,14 @@ locations:
 - Earth
 - Leesti
 - Maia
-technologies: []
 topics:
 - festival
 - trade
-modern_impact: A seasonal community festival demonstrating pilot culture and morale-building
-  events even during times of galactic conflict.
+technologies: []
+modern_impact: A seasonal community festival demonstrating pilot culture and morale-building events even during times of galactic conflict.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: The Hallowed Chapter of LHS 2094's Apple-Bobbing Blowout
-
 
 While Halloween is widely thought to have Its roots in harvest festivals from Earth's ancient past, in the modern era it is largely seen as an opportunity to unwind and share a drink With friends. 
 

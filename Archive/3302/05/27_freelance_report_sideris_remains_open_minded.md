@@ -16,14 +16,10 @@ topics:
 - alien contact
 - exploration
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
 ---
-
-Freelance Report: Sideris Remains Open Minded
-
 
 Cynthia Sideris, chair of Universal Cartographics, made a brief comment outside UC headquarters This morning on Jasmina Halsey's ostensibly unsuccessful search for The "architects of creation": 
 

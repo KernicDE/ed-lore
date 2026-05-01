@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Emancipation Initiative Successful
-
-
 The Prismatic Imperium has announced that Its initiative to free indentured slaves has been met With an enormously positive response. Hundreds of Independent pilots responded to the appeal, delivering slaves to the new colony at D'Arrest Station in the Uibuth system. All of those admitted to the colony will be officially emancipated, re-educated, and offered the protection of forces loyal to Princess Aisling Duval. 
 
 Her Royal Highness, who spearheaded the initiative, released a statement to the media: 

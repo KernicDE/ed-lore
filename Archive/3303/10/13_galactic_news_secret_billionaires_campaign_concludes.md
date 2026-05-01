@@ -13,18 +13,14 @@ groups:
 locations:
 - I Carinae
 - Somerset Station
-technologies: []
 topics:
 - crime
 - bounty hunting
-modern_impact: A successful community combat initiative that restored order to a system
-  plagued by criminal agitators.
+technologies: []
+modern_impact: A successful community combat initiative that restored order to a system plagued by criminal agitators.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Secret Billionaires’ Campaign Concludes
-
 
 The Secret Billionaires have announced that their campaign to clear the I Carinae system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 

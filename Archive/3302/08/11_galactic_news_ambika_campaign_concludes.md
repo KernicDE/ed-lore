@@ -12,16 +12,13 @@ groups:
 locations:
 - Ambika
 - Goulart City
-technologies: []
 topics:
 - humanitarian
+technologies: []
 modern_impact: Successful community resolution of famine and piracy in Ambika demonstrates the effectiveness of combined humanitarian and security campaigns.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Ambika Campaign Concludes
-
 
 The Union Party of Ambika has announced that Its two-pronged relief campaign has received the full support of the galactic community. Huge deliveries of food were received at Goulart City, and the agitators attempting to disrupt the relief operation have been neutralised. 
 

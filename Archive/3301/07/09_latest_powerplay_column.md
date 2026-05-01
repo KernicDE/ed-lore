@@ -4,6 +4,8 @@ title: Latest Powerplay Column
 slug: latest_powerplay_column
 date: '3301-07-09'
 source: GitHub
+summary: Weekly powerplay update covering all major powers. Arissa Lavigny-Duval continued rapid expansion but lost Nunus and Varka due to overextension. Aisling Duval saw strong support but failed to expand into Sounti. Zachary Hudson faced heavy enemy activity but secured four systems. Felicia Winters secured Lambla and Carnoeck but was countered near Imperial space. Zemina Torval lost three expansion attempts. Denton Patreus fortified his space and secured four new systems. Edmund Mahon and Li Yong-Rui both expanded successfully. Archon Delaine's growth was stopped by Imperial counter-offensives in Cuchua and Matlehi. Pranav Antal's expansion into Ewah was blocked.
+player_impact: Powerplay pilots should focus on fortification and expansion in their pledged power's target systems. Each power faces different strategic challenges this cycle.
 persons:
 - Arissa Lavigny-Duval
 - Aisling Duval
@@ -34,18 +36,11 @@ locations:
 topics:
 - politics
 - war
-summary: Weekly powerplay update covering all major powers. Arissa Lavigny-Duval continued rapid expansion but lost Nunus and Varka due to overextension. Aisling Duval saw strong support but failed to expand into Sounti. Zachary Hudson faced heavy enemy activity but secured four systems. Felicia Winters secured Lambla and Carnoeck but was countered near Imperial space. Zemina Torval lost three expansion attempts. Denton Patreus fortified his space and secured four new systems. Edmund Mahon and Li Yong-Rui both expanded successfully. Archon Delaine's growth was stopped by Imperial counter-offensives in Cuchua and Matlehi. Pranav Antal's expansion into Ewah was blocked.
-player_impact: Powerplay pilots should focus on fortification and expansion in their pledged power's target systems. Each power faces different strategic challenges this cycle.
 modern_impact: Snapshot of the galactic power balance, showing Imperial counter-offensives against Kumo Crew and the ongoing competition between all ten powers.
 legacy_weight: 3
 significance: medium
 ---
 
-Latest Powerplay Column
-
-
-Latest Powerplay Column 
- 
 Another week has passed, and The great and powerful of The galaxy continue to vie for power and influence.  Who has prospered? Who has struggled? Read on to find out. 
 
 Arissa Lavigny-Duval continued to expand at a rapid pace despite the fact that having her forces stretched thin and has lost the systems of Nunus and Varka. With little actual enemy activity, it's This over-expansion that spells trouble for the Senator’s future plans. 

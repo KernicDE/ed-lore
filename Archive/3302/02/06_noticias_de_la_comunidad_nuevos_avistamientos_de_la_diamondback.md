@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Noticias de la comunidad: Nuevos avistamientos de la Diamondback
-
-
 Tras el informe de Obsidian Orbital emitido hace unos días en el que se informaba de una Diamondback Explorer que fue observada escaneando la estación, han empezado a aparecer más noticias de avistamientos. Un piloto llamado Comandante Doumaz_B afirmó: 
 
 "Acabo de ver una de esas extrañas Diamondbacks dando vueltas en círculo en torno a Zenbei Orbital en Vaka. Estaba volando lateralmente, encarando siempre a la estación y no tenía ninguna señal que poder fijar. Intenté seguirla en mi Correo Imperial pero era demasiado rápida. La seguí por unos momentos y de repente... desapareció". 

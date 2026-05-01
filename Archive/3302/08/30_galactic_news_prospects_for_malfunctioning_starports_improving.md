@@ -12,21 +12,18 @@ groups: []
 locations:
 - Ceos
 - New Dawn Station
-technologies:
-- meta-alloys
-- Unknown Artefacts
 topics:
 - construction
 - corporate expansion
 - medicine
+technologies:
+- meta-alloys
+- Unknown Artefacts
 arc_id: barnacle-meta-alloy
 modern_impact: Improved meta-alloy efficiency and the identification of a critical treatment window reduce the logistical burden of combating technological plague outbreaks.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Prospects for Malfunctioning Starports Improving
-
 
 Technical personnel at New Dawn Station in The Ceos system have announced a breakthrough in the ongoing fight against the so-called technological plague. 
 

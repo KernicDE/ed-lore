@@ -13,19 +13,15 @@ groups:
 locations:
 - HIP 8396
 - Sirius
-technologies: []
 topics:
 - corporate expansion
 - trade
+technologies: []
 arc_id: corporate-history
-modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape
-  several systems' economies.
+modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape several systems' economies.
 legacy_weight: 3
 significance: medium
 ---
-
-Sirius Corporation Programme Begins Today
-
 
 Following a recent statement from Sirius Corporation announcing Its intention to revitalise Several newly acquired Star systems, The company has launched an initiative to boost the economy of HIP 8396. At the heart of the initiative is a request for osmium, Which Sirius Corp. hopes will serve as a fillip for the system's financial rejuvenation. Li Yong-Rui, the CEO of The Sirius Gov., was quoted as saying: 
 

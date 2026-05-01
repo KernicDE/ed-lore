@@ -53,9 +53,6 @@ related_uuids:
 - 400a59da-3feb-50c0-95c2-68ea9c6f4ef2
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 An attempt to assassinate Princess Aisling Duval has been prevented by The Imperial Internal Security Service. The attempt occurred in the Zhao system during a fundraising event. The IISS is analysing the explosives used in the attempt to determine their origin. 

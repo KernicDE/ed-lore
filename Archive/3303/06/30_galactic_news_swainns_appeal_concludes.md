@@ -17,9 +17,6 @@ technologies: []
 modern_impact: Highlights the galactic community's engagement with cultural and economic campaigns in the core systems.
 ---
 
-Galactic News: Swainn’s Appeal Concludes
-
-
 Celebrated chef and bromatologist Dr Cordelius Swainn has announced that his appeal for rare goods has been enthusiastically received by The galactic community, resulting In a massive influx of deliveries to Lave Station. 
 
 Dr Swainn is said to be delighted With the variety of items delivered, and boasted that his forthcoming culinary event would be even more spectacular than planned.  

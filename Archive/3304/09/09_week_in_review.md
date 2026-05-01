@@ -47,9 +47,6 @@ related_uuids:
 - b280e325-1aa5-5bb7-98d4-e8391cbe9f45
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 The Alliance Assembly has agreed to vote on President Gibson Kincaid’s proposed changes to the constitution. Kincaid has lobbied for the role of president to be invested With executive powers, and for Each presidential term to last six years. The vote will take place in mid-October, at the same time As the presidential election. 

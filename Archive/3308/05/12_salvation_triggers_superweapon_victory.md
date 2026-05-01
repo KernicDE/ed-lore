@@ -4,7 +4,8 @@ title: Salvation Triggers Superweapon Victory
 slug: salvation_triggers_superweapon_victory
 date: '3308-05-12'
 source: API
-arc_id: salvation-azimuth
+summary: Salvation's anti-xeno superweapons completely repel Thargoid forces from Didio, Novas, and Sosong.
+player_impact: Independent pilots defended the Didio, Novas, and Sosong systems and can redeem combat bonds at designated locations.
 persons:
 - Jade Sanderlyn
 - Morag Halloran
@@ -23,18 +24,17 @@ topics:
 - alien contact
 - war
 - xenoarchaeology
-player_impact: Independent pilots defended the Didio, Novas, and Sosong systems and can redeem combat bonds at designated locations.
-summary: Salvation's anti-xeno superweapons completely repel Thargoid forces from Didio, Novas, and Sosong.
-modern_impact: "\"It seems that the Thargoids have no defence against the Guardian-derived superweapon, which generates an electromagnetic pulse to disrupt their biomechanical technology.\" The simultaneous deployment of three superweapons validated Salvation's claims of military superiority over both Aegis and conventional superpower navies, cementing Azimuth's position as humanity's primary anti-xeno defence."
+arc_id: salvation-azimuth
+modern_impact: '"It seems that the Thargoids have no defence against the Guardian-derived superweapon, which generates an electromagnetic pulse to disrupt their biomechanical technology." The simultaneous deployment of three superweapons validated Salvation''s claims of military superiority over both Aegis and conventional superpower navies, cementing Azimuth''s position as humanity''s primary anti-xeno defence.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
 - e05cf902-3b9a-5936-af7b-8d010eb0685c
 - 4327a70e-44c4-5919-924d-7a097f1226db
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The invading Thargoid forces in the Didio, Novas and Sosong systems have been completely repelled by Salvation.
 Vox Galactica journalist Jade Sanderlyn published This account:
 “We’ve received confirmation from Commodore Morag Halloran that three anti-xeno superweapons were activated in Didio, Novas and Sosong. This caused the Thargoid fleets in All three systems to immediately withdraw into hyperspace.” 

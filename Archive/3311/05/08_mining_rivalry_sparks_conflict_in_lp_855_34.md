@@ -4,18 +4,18 @@ title: Mining Rivalry Sparks Conflict in LP 855-34
 slug: mining_rivalry_sparks_conflict_in_lp_855_34
 date: '3311-05-08'
 source: API
+summary: Tensions between Yuri Grom and Felicia Winters erupt into open conflict around mining sites in LP 855-34, where a platinum rush triggered by local construction demands has drawn forces from both Powers.
+player_impact: Pilots clashed in Combat Zones and competed in mining operations throughout LP 855-34. Yuri Grom's supporters reported to The Undeniable station.
+persons:
+- Yuri Grom
+- Felicia Winters
 groups: []
 locations:
 - LP 855-34
 topics:
 - war
-persons:
-- Yuri Grom
-- Felicia Winters
 technologies: []
-player_impact: "Pilots clashed in Combat Zones and competed in mining operations throughout LP 855-34. Yuri Grom's supporters reported to The Undeniable station."
-summary: "Tensions between Yuri Grom and Felicia Winters erupt into open conflict around mining sites in LP 855-34, where a platinum rush triggered by local construction demands has drawn forces from both Powers."
-modern_impact: "The LP 855-34 conflict exemplifies the post-Thargoid War shift from defensive consolidation to aggressive power expansion. Grom's accusation that Federal factions 'cornered the market' frames the struggle as economic warfare, while Winters' eventual victory demonstrates the Federation's industrial dominance."
+modern_impact: The LP 855-34 conflict exemplifies the post-Thargoid War shift from defensive consolidation to aggressive power expansion. Grom's accusation that Federal factions 'cornered the market' frames the struggle as economic warfare, while Winters' eventual victory demonstrates the Federation's industrial dominance.
 legacy_weight: 2
 significance: low
 related_uuids:

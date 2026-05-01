@@ -24,9 +24,6 @@ related_uuids:
 - cfa10717-dba3-54f8-aaff-4b19fc4778d0
 ---
 
-Presidential Candidates on The Campaign Trail
-
-
 The three candidates for the Alliance presidency have spent much of the past week delivering their campaign messages. 
 
 Incumbent president Gibson Kincaid, who seeks re-election, has demanded radical change to the constitution: 

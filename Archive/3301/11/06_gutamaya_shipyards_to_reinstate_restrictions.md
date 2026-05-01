@@ -11,16 +11,13 @@ persons:
 groups:
 - Gutamaya Shipyards
 locations: []
-technologies: []
 topics:
 - ship
 - succession
+technologies: []
 modern_impact: Restoration of rank restrictions confirms the end of the coronation period and returns Imperial ship access to standard military hierarchy.
 legacy_weight: 1
 significance: low
 ---
-
-Gutamaya Shipyards to Reinstate Restrictions
-
 
 Last month, Gutamaya Shipyards marked Arissa Lavigny-Duval's coronation by temporarily lifting The rank-related restrictions on all Imperial ships. With the official coronation period now over, the company has announced that the restrictions on Its ships will be reinstated on Monday.

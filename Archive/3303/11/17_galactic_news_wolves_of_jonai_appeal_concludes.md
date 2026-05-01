@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Wolves of Jonai Appeal Concludes
-
-
 The Central Command of the Wolves of Jonai has announced that Its campaign to build an asteroid base among the rings of HR 7047 2 C has been enthusiastically received by the galactic community. Hundreds of pilots supported the campaign by delivering construction materials to Grant Dock, and by eliminating agitators in the HR 7047 system. 
 
 A spokesperson for the Wolves of Jonai released The following statement: 

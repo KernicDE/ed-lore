@@ -4,7 +4,8 @@ title: New Starports Created for Colonia Bridge
 slug: new_starports_created_for_colonia_bridge
 date: '3308-01-28'
 source: API
-arc_id: null
+summary: Six new starports are completed along the Colonia Bridge travel corridor.
+player_impact: Pilots who contributed to the project received engineered frame shift drives and naming rights.
 groups:
 - Brewer Corporation
 - Canonn
@@ -13,15 +14,13 @@ locations:
 - Gateway
 topics:
 - corporate expansion
-summary: Six new starports are completed along the Colonia Bridge travel corridor.
-player_impact: Pilots who contributed to the project received engineered frame shift drives and naming rights.
-modern_impact: "\"The infrastructures of six starports have been completed along the travel corridor between Colonia and the core systems.\" The completion of these starports transforms deep-space exploration into a viable commercial route."
+arc_id: null
+modern_impact: '"The infrastructures of six starports have been completed along the travel corridor between Colonia and the core systems." The completion of these starports transforms deep-space exploration into a viable commercial route.'
 legacy_weight: 3
 significance: medium
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The infrastructures of six starports have been completed along the travel corridor between Colonia and the core systems.
 Brewer Corporation has confirmed that Five starport frames were constructed in systems branching out from Alcor, With a sixth closer to the Colonia system. The new stations are:
 Zerreiss Station in the Pru Euq WO-D b53-8 system

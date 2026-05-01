@@ -32,9 +32,6 @@ related_uuids:
 - 1f133226-e32f-5511-9bbd-bffc26348cb3
 ---
 
-INRA Descendant Murdered
-
-
 A descendant of Amaro Hem, One of The INRA’s senior members, has been murdered by terrorist group the League of Reparation. His body was Found in the wreckage of a crashed ship. 
 
 Senior Agent Tanya Ramirez, part of the tri-superpower taskforce investigating the League, provided a full explanation at a press conference: 

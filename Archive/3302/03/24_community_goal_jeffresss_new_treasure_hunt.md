@@ -16,9 +16,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Jeffress's New Treasure Hunt
-
-
 Following a long hiatus, reclusive philanthropist Alfred Jeffress has announced a new treasure hunt, and once again he is offering a share of his vast personal fortune to The winner. 
 
 In a statement, Jeffress confirmed that the event will follow the same format as his previous treasure hunts. A mystery object has been placed somewhere in space, and the first person to find it and deliver it to a specified location will win the competition. Jeffress has released a riddle that he claims will set participants on the path to finding the mystery object: 

@@ -10,16 +10,13 @@ persons: []
 groups: []
 locations:
 - Bjorti
-technologies: []
 topics:
 - sport
+technologies: []
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Community Goal: Wildcard Competition Continues
-
 
 The first stage of the Dangerous Games 'Wildcard' competition is over, and the second is about to begin. For This heat, pilots have been asked to head to the Bjorti system and deploy their hardpoints for a bounty-hunting contest. The faction that accumulates the most bounty vouchers during the week-long event will be declared the winner.  
 

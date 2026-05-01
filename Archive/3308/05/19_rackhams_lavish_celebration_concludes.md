@@ -4,7 +4,8 @@ title: Rackham’s Lavish Celebration Concludes
 slug: rackhams_lavish_celebration_concludes
 date: '3308-05-19'
 source: API
-arc_id: null
+summary: Zachary Rackham's week-long trillionaire celebration concludes, attended by politicians, media figures, and corporate leaders.
+player_impact: Pilots who delivered rare goods can collect payment at Edmondson High in Beta Hydri.
 persons:
 - Zachary Rackham
 - Bryanna Blanco
@@ -21,17 +22,16 @@ locations:
 topics:
 - corporate expansion
 - piracy
-player_impact: Pilots who delivered rare goods can collect payment at Edmondson High in Beta Hydri.
-summary: Zachary Rackham's week-long trillionaire celebration concludes, attended by politicians, media figures, and corporate leaders.
-modern_impact: "\"How many of these tried to convince Rackham that running for president was a mistake, and how many offered their support in hopes of future rewards?\" Bryanna Blanco's cynical assessment captured the transactional nature of Rackham's political debut, where corporate spectacle served as a vetting ground for Federal power brokers."
+arc_id: null
+modern_impact: '"How many of these tried to convince Rackham that running for president was a mistake, and how many offered their support in hopes of future rewards?" Bryanna Blanco''s cynical assessment captured the transactional nature of Rackham''s political debut, where corporate spectacle served as a vetting ground for Federal power brokers.'
+legacy_weight: 1
+significance: low
 related_uuids:
 - 540e9121-ef75-51a4-8bb1-80a67a387f47
 - 627f595b-b85f-5e9d-9d4c-9499a93c4487
-legacy_weight: 1
-significance: low
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A party held by newly confirmed trillionaire Zachary Rackham has concluded, With attendees claiming it was an ‘incredible’ event.
 The week-long event took place in the upper storeys of the Rackham’s Spire building on the planet Homeland. This required regular supplies of the luxury items Apa Vietii, Gerasian Gueuze Beer, Pantaa Prayer Sticks, Uszaian Tree Grubs and Anduliga Fire Works.
 A spokesperson for Rackham Capital Investments thanked pilots for these deliveries, and confirmed that payment could be collected at Edmondson High in the Beta Hydri system. The spokesperson remarked that Mr Rackham himself was unable to make a personal appearance due to ‘fatigue’.

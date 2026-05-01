@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Introducing The Codex
-
-
 A new networked database system named the Codex has been released to the galactic community. 
 
 The Codex is a joint initiative from the Pilots Federation and Universal Cartographics, Which issued The following joint statement: 

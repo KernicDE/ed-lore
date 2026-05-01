@@ -4,12 +4,8 @@ title: Freelance Report  The Christmas Carriers Convoy
 slug: freelance_report_the_christmas_carriers_convoy
 date: '3302-11-05'
 source: GitHub
-summary: The Colonia Citizens Network has invited the galactic community to support Colonia
-  by delivering food and equipment and transporting settlers as part of the Christmas Carriers
-  Convoy. Departing on 2nd December 3302, the convoy will stop at outposts along the Colonia
-  highway and arrive in the first week of January.
-player_impact: Traders and haulers can join the Christmas Carriers Convoy to deliver
-  essentials to Colonia, and combat pilots can sign up to protect the freighters.
+summary: The Colonia Citizens Network has invited the galactic community to support Colonia by delivering food and equipment and transporting settlers as part of the Christmas Carriers Convoy. Departing on 2nd December 3302, the convoy will stop at outposts along the Colonia highway and arrive in the first week of January.
+player_impact: Traders and haulers can join the Christmas Carriers Convoy to deliver essentials to Colonia, and combat pilots can sign up to protect the freighters.
 persons:
 - Dalilah William
 groups:
@@ -24,17 +20,12 @@ locations:
 - Colonia Hub
 topics:
 - trade
+technologies: []
 arc_id: jaques-station
-modern_impact: The Christmas Carriers Convoy represented one of the largest cooperative
-  freight operations to the Colonia region, bolstering the frontier settlement with essential
-  supplies and new settlers.
+modern_impact: The Christmas Carriers Convoy represented one of the largest cooperative freight operations to the Colonia region, bolstering the frontier settlement with essential supplies and new settlers.
 legacy_weight: 4
 significance: high
-technologies: []
 ---
-
-Freelance Report: The Christmas Carriers Convoy
-
 
 The Colonia Citizens Network has invited the galactic community to support Colonia by delivering much-needed food and equipment to the region and by transporting new settlers, as part of what is set to be One of the largest freight convoys in human history. 
 

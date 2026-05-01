@@ -4,23 +4,21 @@ title: Saud Kruger Seeks New Holiday Worlds
 slug: saud_kruger_seeks_new_holiday_worlds
 date: '3307-09-23'
 source: API
-groups:
-- Saud Kruger
+summary: Saud Kruger launches a campaign to identify new Earth-like worlds for Astrogator Tours holiday cruises, offering rewards for exploration data and imagery.
+player_impact: Pilots delivered exploration data and images of Earth-like worlds to Youll Port in the Vistaenis system.
 persons:
 - Stanislav Kruger
+groups:
+- Saud Kruger
 topics:
 - corporate expansion
 - exploration
-summary: Saud Kruger launches a campaign to identify new Earth-like worlds for Astrogator
-  Tours holiday cruises, offering rewards for exploration data and imagery.
-player_impact: Pilots delivered exploration data and images of Earth-like worlds to
-  Youll Port in the Vistaenis system.
 modern_impact: Tourism initiatives continue to drive exploration of uncharted systems.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 An initiative to gather data on potential tourist destinations has been launched by shipbuilding corporation Saud Kruger.
 The luxury passenger ship manufacturer aims to identify new Earth-like planets that would be attractive to holidaymakers. These trips will be managed by Its subsidiary, Astrogator Tours.
 CEO Stanislav Kruger announced the campaign to the press:

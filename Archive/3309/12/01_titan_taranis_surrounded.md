@@ -4,6 +4,10 @@ title: Titan Taranis Surrounded
 slug: titan_taranis_surrounded
 date: '3309-12-01'
 source: API
+summary: Human forces surround Titan Taranis's system, having pushed Thargoids out of all controlled systems. Tanner urges continued vigilance, warning against complacency.
+player_impact: Pilots pushed Thargoids out of all systems in Titan Taranis's area of control. Systems like Hupang, Swahku and HR1737 initiated repairs to abandoned starports.
+persons:
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -14,11 +18,7 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Tanner's warning — 'Those who fought in the HIP 22460 campaign and witnessed the Proteus Wave event will testify to the dangers of assuming the war is won' — references a major past event. The mention of starport repairs in Hupang, Swahku and HR1737 shows the human cost of reclamation."
-persons:
-- Aden Tanner
-player_impact: "Pilots pushed Thargoids out of all systems in Titan Taranis's area of control. Systems like Hupang, Swahku and HR1737 initiated repairs to abandoned starports."
-summary: "Human forces surround Titan Taranis's system, having pushed Thargoids out of all controlled systems. Tanner urges continued vigilance, warning against complacency."
+modern_impact: Tanner's warning — 'Those who fought in the HIP 22460 campaign and witnessed the Proteus Wave event will testify to the dangers of assuming the war is won' — references a major past event. The mention of starport repairs in Hupang, Swahku and HR1737 shows the human cost of reclamation.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -4,7 +4,8 @@ title: Countdown to Alliance Election Begins
 slug: countdown_to_alliance_election_begins
 date: 3307-01-04
 source: API
-arc_id: null
+summary: The Alliance has entered a period of political campaigning prior to the election of a new prime minister.
+player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Each
 - Edmund Mahon
@@ -14,15 +15,16 @@ persons:
 - Tionisla
 - With
 groups:
-  - Alliance
+- Alliance
 locations:
-  - Tionisla
+- Tionisla
 topics:
 - alien contact
 - corporate expansion
-player_impact: Pilots followed these developments through GalNet reports.
-summary: The Alliance has entered a period of political campaigning prior to the election of a new prime minister.
-modern_impact: "\"It is outrageous that the prime minister is using this as an excuse to extend his term in office.\" The election delay and subsequent protests revealed growing tensions within the Alliance between superpower ambitions and member system sovereignty."
+arc_id: null
+modern_impact: '"It is outrageous that the prime minister is using this as an excuse to extend his term in office." The election delay and subsequent protests revealed growing tensions within the Alliance between superpower ambitions and member system sovereignty.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
@@ -30,8 +32,6 @@ related_uuids:
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 - b5e2b232-ff58-51a8-9ddc-1424c9e9acc2
 - 8c30a23e-d29a-5753-ac4d-3b70d734dec3
-legacy_weight: 5
-significance: high
 ---
 
 The Alliance has entered a period of political campaigning prior to the election of a new prime minister.

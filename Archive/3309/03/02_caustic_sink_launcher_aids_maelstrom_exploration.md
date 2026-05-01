@@ -4,7 +4,11 @@ title: Caustic Sink Launcher Aids Maelstrom Exploration
 slug: caustic_sink_launcher_aids_maelstrom_exploration
 date: '3309-03-02'
 source: API
-entities: []
+summary: Aegis begins production of the caustic sink launcher, enabling longer survival in Maelstrom caustic clouds; next priority is the energy surge at Maelstrom centers.
+player_impact: Pilots delivered advanced catalysers, heatsink interlinks, palladium, and tissue samples to the Duamta system.
+persons:
+- Maximo Fonseca
+- Alba Tesreau
 groups:
 - Aegis
 locations:
@@ -15,13 +19,9 @@ topics:
 - alien contact
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Fonseca's explanation — 'The Thargoids have developed powerful defences to prevent their enemies reaching the heart of the Maelstroms. The dangerously caustic gas clouds are an effective deterrent' — frames the module's purpose. The mention that 'the acquisition and study of tissue samples and caustic shards should increase' shows scientific follow-up. The next priority — 'the massive energy surges that prevent access to the inner region' — sets up future developments."
-persons:
-- Maximo Fonseca
-- Alba Tesreau
-player_impact: "Pilots delivered advanced catalysers, heatsink interlinks, palladium, and tissue samples to the Duamta system."
-summary: "Aegis begins production of the caustic sink launcher, enabling longer survival in Maelstrom caustic clouds; next priority is the energy surge at Maelstrom centers."
+modern_impact: Fonseca's explanation — 'The Thargoids have developed powerful defences to prevent their enemies reaching the heart of the Maelstroms. The dangerously caustic gas clouds are an effective deterrent' — frames the module's purpose. The mention that 'the acquisition and study of tissue samples and caustic shards should increase' shows scientific follow-up. The next priority — 'the massive energy surges that prevent access to the inner region' — sets up future developments.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,7 +30,7 @@ related_uuids:
 - 34a4da27-729e-5925-83be-c352b3d06b68
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Aegis’s initiative in the Duamta system has kick-started production of a ship module designed for caustic environments.
 Shipments of advanced catalysers, heatsink interlinks and palladium were delivered following a request from Professor Alba Tesreau. Pilots also provided tissue samples extracted from the caustic generators inside each Maelstrom, which are a vital component of these modules.  Manufacturing bases have now been established, allowing stocks of the caustic sink launcher to reach the public market. 
 Dr Maximo Fonseca, head of xenological research at Gateway Laboratories, published a statement on behalf of Aegis:

@@ -4,23 +4,19 @@ title: Arcanonn Challenges Halsey
 slug: arcanonn_challenges_halsey
 date: '3301-05-07'
 source: GitHub
-entities:
-- Arcanonn
 groups:
 - Canonn
 topics:
 - exploration
 - research
 - war
+entities:
+- Arcanonn
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---
-
-Arcanonn Challenges Halsey
-
 
 Research into The recently recovered Unknown Artefact has intensified. Scientists, Engineers and Commanders are flocking to assist Dr Arcanonn and his team from all across Populated space, political allegiances temporarily forgotten in The search for answers.  
 

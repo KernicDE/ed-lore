@@ -4,10 +4,8 @@ title: 'Powerplay Standings: April 3311'
 slug: powerplay_standings_april_3311
 date: '3311-04-29'
 source: API
-groups: []
-locations: []
-topics:
-- politics
+summary: Vox Galactica releases April 3311 powerplay standings, with Li Yong-Rui showing the largest influence increase.
+player_impact: Community actions and expansions directly shaped the monthly influence rankings, with Li Yong-Rui showing the largest increase (+59 systems).
 persons:
 - Conrad Sterling
 - Edmund Mahon
@@ -15,10 +13,12 @@ persons:
 - Arissa Lavigny-Duval
 - Yuri Grom
 - Li Yong-Rui
+groups: []
+locations: []
+topics:
+- politics
 technologies: []
-player_impact: "Community actions and expansions directly shaped the monthly influence rankings, with Li Yong-Rui showing the largest increase (+59 systems)."
-summary: Vox Galactica releases April 3311 powerplay standings, with Li Yong-Rui showing the largest influence increase.
-modern_impact: "Li Yong-Rui's 59-system gain occurs in the months following the Alliance-Sirius pact termination, suggesting Sirius Corp leveraged the political crisis to expand its influence network. The standings reveal a galaxy in flux: Mahon's narrow lead over Aisling Duval (25 systems) hints at the Alliance trade boom that will dominate June."
+modern_impact: 'Li Yong-Rui''s 59-system gain occurs in the months following the Alliance-Sirius pact termination, suggesting Sirius Corp leveraged the political crisis to expand its influence network. The standings reveal a galaxy in flux: Mahon''s narrow lead over Aisling Duval (25 systems) hints at the Alliance trade boom that will dominate June.'
 legacy_weight: 2
 significance: low
 related_uuids: []

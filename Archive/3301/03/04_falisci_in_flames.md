@@ -11,14 +11,10 @@ topics:
 - ship
 - war
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist
-  policies.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
 legacy_weight: 3
 significance: medium
 ---
-
-Falisci in Flames
-
 
 Imperial forces have decimated The majority of The Falisci Purple Gang’s fleet, just Five days after the Citizens of Tradition declared war against the dreaded pirate crew and their allies. Now only a handful of the Purple Gang’s most stalwart members remain to defend their territory against the Citizens of Tradition and the thousands of loyal citizens who have flocked to Falisci to fight by their side. 
 

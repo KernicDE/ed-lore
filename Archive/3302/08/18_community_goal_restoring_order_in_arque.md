@@ -12,19 +12,16 @@ groups:
 locations:
 - Arque
 - Austen Town Station
-technologies: []
 topics:
 - crime
 - ship
 - trade
 - war
+technologies: []
 modern_impact: Localised bounty campaigns like Arque's illustrate the reliance on independent pilots for routine system security.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Restoring Order in Arque
-
 
 Authorities in The Arque system have reported a sharp increase in The number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 

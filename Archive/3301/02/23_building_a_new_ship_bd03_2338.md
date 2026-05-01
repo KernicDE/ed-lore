@@ -12,14 +12,10 @@ topics:
 - diplomacy
 - ship
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
 ---
-
-Building a New Ship - BD+03 2338
-
 
 Despite Admiral Vincent's strong words during yesterday's press conference, President Halsey has refused The Admiral's request to send additional forces for The attack on Polahukuna. 
 

@@ -4,7 +4,8 @@ title: Xenological Samples Delivered to Colonia
 slug: xenological_samples_delivered_to_colonia
 date: 3307-01-14
 source: API
-arc_id: null
+summary: '*Pilots Federation ALERT* The Holloway Bioscience Institute has rewarded pilots who delivered living matter extracted from space-dwelling organisms.'
+player_impact: Pilots delivered tissue samples from space-dwelling organisms to Colonia researchers.
 persons:
 - Eol Prou
 - Our
@@ -21,9 +22,10 @@ topics:
 - alien contact
 - research
 - war
-player_impact: Pilots delivered tissue samples from space-dwelling organisms to Colonia researchers.
-summary: "*Pilots Federation ALERT* The Holloway Bioscience Institute has rewarded pilots who delivered living matter extracted from space-dwelling organisms."
-modern_impact: "\"There is still a huge amount to learn about the fascinating structures that grow within the vacuum of space.\" Colonia's xenobiological research continues to expand humanity's understanding of space-dwelling lifeforms in the far reaches of the galaxy."
+arc_id: null
+modern_impact: '"There is still a huge amount to learn about the fascinating structures that grow within the vacuum of space." Colonia''s xenobiological research continues to expand humanity''s understanding of space-dwelling lifeforms in the far reaches of the galaxy.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - fc197df5-b778-5964-a004-448689eba981
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
@@ -31,11 +33,9 @@ related_uuids:
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The Holloway Bioscience Institute has rewarded pilots who delivered living matter extracted from space-dwelling organisms.
 Many shipments of seed pod tissue samples arrived at Jaques Station, from where they will be transported to the Holloway Biology Centre on Colonia 7 G. These will be used to replenish stocks used in the facility’s experimentation programme.
 Dr Roy Casimir, chief researcher at the centre, expressed his gratitude:

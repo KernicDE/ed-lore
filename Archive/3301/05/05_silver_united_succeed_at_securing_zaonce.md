@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Silver United Succeed at Securing Zaonce
-
-
 After months of being terrorised by malicious criminals intent on turning The Old Worlds into some kind of ‘New Caribbean’, residents of The Lave cluster finally banded together This past weekend to crack down on The lawless scum that had been pillaging and plundering their way across the sector. 
 
 Inspired by the recent help freely given to the people of Reorte by the Alliance Elite Diplomatic Corps, Silver United Solutions decided to offer a set of substantial rewards to any pilot brave enough to help remove the criminals known As the Jet Gang from Zaonce.   

@@ -4,10 +4,10 @@ title: Thargoid Research Project Phase Two Begins
 slug: thargoid_research_project_phase_two_begins
 date: '3308-06-09'
 source: API
-arc_id: null
+summary: Professor Ishmael Palin launches phase two of his Thargoid research project, requesting fresh alien artefacts for study.
+player_impact: Pilots were asked to deliver Thargoid probes, resin, and sensors to Baird Gateway in the Arque system.
 persons:
 - Ishmael Palin
-entities: []
 groups: []
 locations:
 - Gateway
@@ -17,16 +17,16 @@ topics:
 - engineering
 - research
 - war
-player_impact: Pilots were asked to deliver Thargoid probes, resin, and sensors to Baird Gateway in the Arque system.
-summary: Professor Ishmael Palin launches phase two of his Thargoid research project, requesting fresh alien artefacts for study.
-modern_impact: "Palin's warning that 'there is no sign that hostilities are about to end' highlights the ongoing scientific race to understand Thargoid biomechanical technology before it overwhelms human defences."
-related_uuids:
-- 2a405898-44a3-5d69-a93e-af922725bf23
+entities: []
+arc_id: null
+modern_impact: Palin's warning that 'there is no sign that hostilities are about to end' highlights the ongoing scientific race to understand Thargoid biomechanical technology before it overwhelms human defences.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 2a405898-44a3-5d69-a93e-af922725bf23
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Professor Ishmael Palin has requested deliveries of Thargoid artefacts to the Arque system for scientific study.
 The first phase of the project took place last month and focused on meta-alloys. In a public announcement, Professor Palin outlined the second phase:
 “My ongoing analysis of the Thargoids’ biomechanical technology has reached a point where fresh material is needed. Specifically, I require large supplies of Thargoid probes, resin and sensors.”

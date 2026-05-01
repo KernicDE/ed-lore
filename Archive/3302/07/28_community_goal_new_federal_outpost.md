@@ -14,23 +14,19 @@ locations:
 - Maia
 - Obsidian Orbital
 - HIP 17225 A 1
-technologies:
-- tantalum
-- building fabricators
-- energy grid assemblies
 topics:
 - construction
 - trade
 - war
+technologies:
+- tantalum
+- building fabricators
+- energy grid assemblies
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
 ---
-
-Community Goal: New Federal Outpost
-
 
 Three weeks ago, The Federation ignited controversy With Its decision to establish a series of outposts in the Pleiades sector. The development triggered a decisive response from Empire-aligned pilots, who made repeated attempts to destabilise the campaign. Ultimately, the Federation was able to complete the operation, But the Federation's opponents had made their feelings clear – the superpower's military expansion would not proceed unopposed. 
 

@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Sirius Exploration Survey Completes
-
-
 The Sirius Corporation is pleased to announce that The reconnaissance portion of Its latest colonisation project has now drawn to a close. 
 
 Hundreds of highly skilled scout ships took part in the survey, Which managed to gather data on tens of thousands of potential candidate systems. Early indications suggest that at least Several dozen potential target sites have been discovered, although that number is sure to drop as Sirius Corporation scientists, sociologists and logistics officers continue to pour over petabytes of data in order to identify the most promising candidates for colonisation.

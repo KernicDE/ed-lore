@@ -25,9 +25,6 @@ related_uuids:
 - a8ef52ae-0f17-58b6-97bd-b4bcf29500b3
 ---
 
-Computer Designers’ Rivalry Escalates
-
-
 Maddox Hurd, owner of Herculean Machines, has publicly dismissed The efforts of rival company Supratech. Both companies are currently developing new computer designs. 
 
 Mr Hurd referred directly to Supratech’s forthcoming product, the Torc, while addressing the media: 

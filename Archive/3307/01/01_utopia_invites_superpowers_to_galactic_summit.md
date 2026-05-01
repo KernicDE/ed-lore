@@ -4,7 +4,8 @@ title: Utopia Invites Superpowers to Galactic Summit
 slug: utopia_invites_superpowers_to_galactic_summit
 date: 3307-01-01
 source: API
-arc_id: null
+summary: Simguru Pranav Antal, leader of The Utopia commune, has proposed hosting a diplomatic conference for the governments of All three superpowers.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
 persons:
 - Federal Congress
 - Imperial Senate
@@ -17,16 +18,17 @@ groups:
 - Marlinist
 - Utopia
 locations:
-  - Marlinist
+- Marlinist
 topics:
 - alien contact
 - diplomacy
 - humanitarian
 - terrorism
 - war
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
-summary: Simguru Pranav Antal, leader of The Utopia commune, has proposed hosting a diplomatic conference for the governments of All three superpowers.
-modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+arc_id: null
+modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - 5783e898-65a7-5db9-9681-366b1eb91056
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
@@ -34,8 +36,6 @@ related_uuids:
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - be3889fc-d42f-5494-b1d1-fdd9dcb4223f
-legacy_weight: 4
-significance: high
 ---
 
 Simguru Pranav Antal, leader of The Utopia commune, has proposed hosting a diplomatic conference for the governments of All three superpowers.

@@ -4,6 +4,8 @@ title: Aisling Requests Rare Items to Fund Charity
 slug: aisling_requests_rare_items_to_fund_charity
 date: '3308-09-22'
 source: API
+summary: Princess Aisling Duval launches a fundraiser in Cemiess, requesting rare luxury items to fund the Citizens' Relief Trust supporting families of Imperial personnel lost to Thargoid aggression.
+player_impact: Pilots were asked to deliver Eshu Umbrellas, Xihe Biomorphic Companions, Chateau De Aegaeon, wine and fish to Mackenzie Relay in Cemiess, with luxury vessel paint jobs as rewards.
 persons:
 - Aisling Duval
 groups:
@@ -18,22 +20,14 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-titan-war
-summary: Princess Aisling Duval launches a fundraiser in Cemiess, requesting rare luxury
-  items to fund the Citizens' Relief Trust supporting families of Imperial personnel
-  lost to Thargoid aggression.
-player_impact: Pilots were asked to deliver Eshu Umbrellas, Xihe Biomorphic Companions,
-  Chateau De Aegaeon, wine and fish to Mackenzie Relay in Cemiess, with luxury vessel
-  paint jobs as rewards.
-modern_impact: Aisling's charity initiative highlights the human cost of the Thargoid
-  war and establishes a model for supporting bereaved families beyond formal military
-  compensation.
+modern_impact: Aisling's charity initiative highlights the human cost of the Thargoid war and establishes a model for supporting bereaved families beyond formal military compensation.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 05ffa6a1-7163-5564-acc6-70c0c9cb28ca
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A fundraiser hosted by Princess Aisling aims to finance a support network for Imperial citizens affected by Thargoid aggression.
 The Citizens’ Relief Trust has been established in the Cemiess system, prompted by the loss of thousands of military personnel during the Battle of HIP 22460. She announced:
 “While the Empire is focused on increasing its military strength, we must not forget the human cost of ongoing conflict with the Thargoids. Those who died in battle will be honoured by assisting the families and dependants left to mourn them. The Citizens’ Relief Trust plans to establish support centres to ensure their financial and emotional needs are met.”

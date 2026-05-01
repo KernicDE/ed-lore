@@ -23,9 +23,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Community Goal: Core Dynamics Campaign
-
-
 Core Dynamics, One of The galaxy's largest starship manufacturers, has announced a new construction initiative in response to the rise in Thargoid attacks. 
 
 A spokesperson for Core Dynamics released The following statement: 

@@ -15,17 +15,14 @@ groups:
 - Earth Defense Fleet
 locations:
 - Chi Orionis
-technologies: []
 topics:
 - research
 - trade
+technologies: []
 modern_impact: The death of MetaDrive's chairman and the subsequent fraud investigation into Raan Corsen jeopardise the company's promising hyperdrive technology and depress investor confidence.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Chairman of MetaDrive Inc. Passes Away
-
 
 Sad news from The Chi Orionis system This morning With reports that Femi Dakarai, chairman of the hyperdrive-research company MetaDrive Inc., has passed away following a short illness. 
 

@@ -4,11 +4,8 @@ title: 'Powerplay Standings: November 3310'
 slug: powerplay_standings_november_3310
 date: '3310-11-20'
 source: API
-groups: []
-locations: []
-topics:
-- politics
-modern_impact: "The November baseline — Mahon at 1,355, Aisling at 1,296 — shows Aisling's steady rise that will accelerate to 1,661 by July 3311 and peak at 1,936 in August. The 59-system gap between Mahon and Aisling is narrower than it appears, given Aisling's post-war humanitarian popularity."
+summary: Vox Galactica's November 3310 powerplay standings show Edmund Mahon leading with 1,355 systems, followed by Aisling Duval at 1,296.
+player_impact: Independent pilots pledged to Powers and reaped benefits of the growing struggle for prestige and authority.
 persons:
 - Conrad Sterling
 - Edmund Mahon
@@ -16,8 +13,11 @@ persons:
 - Arissa Lavigny-Duval
 - Yuri Grom
 - Pranav Antal
-player_impact: "Independent pilots pledged to Powers and reaped benefits of the growing struggle for prestige and authority."
-summary: "Vox Galactica's November 3310 powerplay standings show Edmund Mahon leading with 1,355 systems, followed by Aisling Duval at 1,296."
+groups: []
+locations: []
+topics:
+- politics
+modern_impact: The November baseline — Mahon at 1,355, Aisling at 1,296 — shows Aisling's steady rise that will accelerate to 1,661 by July 3311 and peak at 1,936 in August. The 59-system gap between Mahon and Aisling is narrower than it appears, given Aisling's post-war humanitarian popularity.
 legacy_weight: 2
 significance: low
 ---

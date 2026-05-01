@@ -4,6 +4,12 @@ title: Rumours Circulate Around Seo Jin-ae
 slug: rumours_circulate_around_seo_jin_ae
 date: '3309-03-20'
 source: API
+summary: Rumors suggest Seo Jin-ae has been kidnapped or assassinated; Aegis is investigating, while Azimuth claims she has 'dissociative disorder and paranoid delusions.'
+player_impact: Not specifically mentioned — this is a rumor and investigation report.
+persons:
+- Seo Jin-ae
+- Kit Fowler
+- Nassim Qadir
 groups:
 - Aegis
 - Azimuth Biotech
@@ -14,13 +20,7 @@ topics:
 - alien contact
 - research
 arc_id: salvation-azimuth
-modern_impact: "Fowler's broadcast — 'Some say that a black ops teams have either kidnapped or assassinated her. Maybe it's Azimuth. Maybe it's a dead man's switch group belonging to Salvation' — is pure speculation but entertaining. The 'hacktivist from the Collective' intercepting comms about 'Bright Sentinel' and 'Nemesis protocol' provides breadcrumbs. Qadir's clinical dismissal — 'Aegis's amateurish efforts... resulted in some form of dissociative disorder' — is transparent deflection."
-persons:
-- Seo Jin-ae
-- Kit Fowler
-- Nassim Qadir
-player_impact: "Not specifically mentioned — this is a rumor and investigation report."
-summary: "Rumors suggest Seo Jin-ae has been kidnapped or assassinated; Aegis is investigating, while Azimuth claims she has 'dissociative disorder and paranoid delusions.'"
+modern_impact: Fowler's broadcast — 'Some say that a black ops teams have either kidnapped or assassinated her. Maybe it's Azimuth. Maybe it's a dead man's switch group belonging to Salvation' — is pure speculation but entertaining. The 'hacktivist from the Collective' intercepting comms about 'Bright Sentinel' and 'Nemesis protocol' provides breadcrumbs. Qadir's clinical dismissal — 'Aegis's amateurish efforts... resulted in some form of dissociative disorder' — is transparent deflection.
 legacy_weight: 5
 significance: high
 related_uuids:

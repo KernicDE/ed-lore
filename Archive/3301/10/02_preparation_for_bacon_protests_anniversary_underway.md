@@ -4,6 +4,8 @@ title: Preparation for 'Bacon Protests' Anniversary Underway
 slug: preparation_for_bacon_protests_anniversary_underway
 date: '3301-10-02'
 source: GitHub
+summary: The Bacon Cats cooperative announced plans for a major celebration commemorating the anniversary of the 'Bacon Protests' in the Carnoeck system. The event will feature historic exhibits, free bacon, and libations for all visitors. High demand for goods has already hit the system, with concerns raised about potential pirate activity.
+player_impact: Pilots can deliver goods such as beer and liquor to Carnoeck for the celebrations. Bounty hunters may find work clearing pirates attracted to the event.
 persons:
 - Julissa Silver
 - Andius Solon
@@ -14,18 +16,11 @@ locations:
 - Bacon City
 topics:
 - festival
-summary: The Bacon Cats cooperative announced plans for a major celebration commemorating the anniversary of the 'Bacon Protests' in the Carnoeck system. The event will feature historic exhibits, free bacon, and libations for all visitors. High demand for goods has already hit the system, with concerns raised about potential pirate activity.
-player_impact: Pilots can deliver goods such as beer and liquor to Carnoeck for the celebrations. Bounty hunters may find work clearing pirates attracted to the event.
 modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---
 
-Preparation for 'Bacon Protests' Anniversary Underway
-
-
-Preparation for 'Bacon Protests' Anniversary Underway 
- 
 Today, a spokesperson for The Bacon Cats, a cooperative of Independent pilots, addressed plans to host a spectacular celebration to mark The upcoming anniversary of the so-called 'Bacon Protests'. The spokesperson, Julissa Silver, released The following statement: 
 
 "It's true that we're planning something special. We invite everyone to come together, In a spirit of celebration, to commemorate the repeal of the ill-thought-out and short-lived prohibition laws here in the Carnoeck system. There will be Many historic exhibits and displays, but most importantly there will be free bacon and libations for all visitors." 

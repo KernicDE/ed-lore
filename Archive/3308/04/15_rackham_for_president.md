@@ -4,7 +4,8 @@ title: Rackham for President?
 slug: rackham_for_president
 date: '3308-04-15'
 source: API
-arc_id: federal-politics
+summary: Zachary Rackham hints at a potential run for the Federal presidency in 3309.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Rackham
 - Bryanna Blanco
@@ -17,14 +18,13 @@ locations:
 topics:
 - diplomacy
 - piracy
-player_impact: Not specifically mentioned — this is a political report.
-summary: Zachary Rackham hints at a potential run for the Federal presidency in 3309.
-modern_impact: "\"With two Zacharys on the ballot, I'm guaranteed to get some votes by mistake!\" Rackham's ostensibly lighthearted presidential flirtation launched one of the most unconventional political campaigns in Federal history, with a former pirate leveraging celebrity wealth to challenge the two-party establishment."
+arc_id: federal-politics
+modern_impact: '"With two Zacharys on the ballot, I''m guaranteed to get some votes by mistake!" Rackham''s ostensibly lighthearted presidential flirtation launched one of the most unconventional political campaigns in Federal history, with a former pirate leveraging celebrity wealth to challenge the two-party establishment.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - efe02149-f490-5339-979d-49b157ba2caf
 - d48a2172-4d32-5501-b760-eb75a11fb324
-legacy_weight: 2
-significance: low
 ---
 
 Multi-billionaire Zachary Rackham has discussed standing as an Independent candidate for The Federal presidency in 3309.

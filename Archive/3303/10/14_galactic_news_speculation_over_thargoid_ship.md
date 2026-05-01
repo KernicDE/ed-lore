@@ -15,22 +15,18 @@ groups:
 locations:
 - HIP 17125
 - Pleiades Sector AB-W B2-4
-technologies:
-- Thargoid Scout
-- Thargoid Interceptor
 topics:
 - alien contact
 - research
 - ship
+technologies:
+- Thargoid Scout
+- Thargoid Interceptor
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Speculation over Thargoid Ship
-
 
 Some of The galaxy’s leading Thargoid experts have been discussing the discovery of a new alien ship in the HIP 17125 system. 
 

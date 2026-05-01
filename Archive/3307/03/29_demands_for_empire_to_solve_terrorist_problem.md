@@ -4,7 +4,8 @@ title: Demands for Empire to Solve Terrorist Problem
 slug: demands_for_empire_to_solve_terrorist_problem
 date: 3307-03-29
 source: API
-arc_id: nmla-terrorism
+summary: The fear of Further starport bombings has placed internal and external pressure on the Empire to address the threat posed by the NMLA.
+player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
 persons:
 - Achenar
 - Dawes Hub
@@ -26,9 +27,10 @@ topics:
 - scandal
 - succession
 - war
-player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
-summary: The fear of Further starport bombings has placed internal and external pressure on the Empire to address the threat posed by the NMLA.
-modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+arc_id: nmla-terrorism
+modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+legacy_weight: 5
+significance: high
 related_uuids:
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
@@ -36,8 +38,6 @@ related_uuids:
 - ba0ab37a-3135-52b4-a668-22e5ef0700b6
 - 9e1f1fba-df6f-5280-8095-86f30ca2d79c
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
-legacy_weight: 5
-significance: high
 ---
 
 The fear of Further starport bombings has placed internal and external pressure on the Empire to address the threat posed by the NMLA.

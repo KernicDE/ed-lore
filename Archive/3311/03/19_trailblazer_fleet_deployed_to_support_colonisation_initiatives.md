@@ -4,7 +4,10 @@ title: Trailblazer Fleet Deployed to Support Colonisation Initiatives
 slug: trailblazer_fleet_deployed_to_support_colonisation_initiatives
 date: '3311-03-19'
 source: API
-arc_id: trailblazer-colonisation
+summary: Brewer Corporation deployed the Trailblazer fleet to strategic edge-of-core systems to support independent colonisation efforts, described as 'overwhelmingly popular' by COO Mark Rennik.
+player_impact: Independent pilots established colonies using Brewer Corporation's Trailblazer fleet support infrastructure, with megaships deployed to HIP 90578, Orgen, Bletii, 34 Omicron Cephei, Klikis, and Ngobe.
+persons:
+- Mark Rennik
 groups:
 - Brewer Corporation
 locations:
@@ -18,13 +21,10 @@ locations:
 topics:
 - corporate expansion
 - trade
-persons:
-- Mark Rennik
 technologies:
 - Trailblazer megaships
-player_impact: "Independent pilots established colonies using Brewer Corporation's Trailblazer fleet support infrastructure, with megaships deployed to HIP 90578, Orgen, Bletii, 34 Omicron Cephei, Klikis, and Ngobe."
-summary: "Brewer Corporation deployed the Trailblazer fleet to strategic edge-of-core systems to support independent colonisation efforts, described as 'overwhelmingly popular' by COO Mark Rennik."
-modern_impact: "Rennik's admission that 'the number of claims had proved challenging' and his description of settlement speed as 'frankly astonishing' validates the unprecedented scale of pilot-driven expansion. The named megaship deployments (Trailblazer Dream, Song, Wish, Star, Promise, Faith) create permanent waypoints that will anchor frontier trade routes for years."
+arc_id: trailblazer-colonisation
+modern_impact: Rennik's admission that 'the number of claims had proved challenging' and his description of settlement speed as 'frankly astonishing' validates the unprecedented scale of pilot-driven expansion. The named megaship deployments (Trailblazer Dream, Song, Wish, Star, Promise, Faith) create permanent waypoints that will anchor frontier trade routes for years.
 legacy_weight: 2
 significance: low
 related_uuids:

@@ -4,8 +4,6 @@ title: The Nevermore Not Ready for Duty
 slug: the_nevermore_not_ready_for_duty
 date: '3301-03-19'
 source: GitHub
-entities:
-- Lokquine
 groups:
 - Core Dynamics
 topics:
@@ -13,13 +11,12 @@ topics:
 - ship
 - trade
 - war
+entities:
+- Lokquine
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
 ---
-
-The Nevermore Not Ready for Duty
-
 
 Core Dynamics has been put in The deeply embarrassing position of having to Further postpone the maiden voyage of the FNS Nevermore. Representatives of Core Dynamics have confirmed that This most recent delay is due to faulty sensor and turret targeting arrays.  
 

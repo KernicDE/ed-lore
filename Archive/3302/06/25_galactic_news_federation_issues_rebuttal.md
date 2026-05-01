@@ -14,21 +14,17 @@ groups:
 - Canonn Interstellar Research Group
 locations:
 - Merope
-technologies:
-- Farragut Battle Cruiser
 topics:
 - investigation
 - research
 - ship
 - war
-modern_impact: Federal military presence at barnacle sites escalates tensions and sets
-  a precedent for superpower resource competition.
+technologies:
+- Farragut Battle Cruiser
+modern_impact: Federal military presence at barnacle sites escalates tensions and sets a precedent for superpower resource competition.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Federation Issues Rebuttal
-
 
 Admiral Maxton Price of The Federal Navy has rejected claims that Farragut Battle Cruisers stationed in Merope have made unprovoked attacks on Independent pilots operating in the area. 
 

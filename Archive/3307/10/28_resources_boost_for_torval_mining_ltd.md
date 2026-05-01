@@ -4,24 +4,22 @@ title: Resources Boost for Torval Mining Ltd
 slug: resources_boost_for_torval_mining_ltd
 date: '3307-10-28'
 source: API
-groups:
-- Mastopolos Mining
-- Torval Mining Ltd
+summary: Vital materials are delivered to Torval Mining Ltd's megaship in EGM 559, ensuring the new corporation meets its first-year targets.
+player_impact: Pilots delivered geological equipment, microbial furnaces, and mineral extractors to the Pride of Bitterwood megaship.
 persons:
 - Zemina Torval
 - Constantia Torval
+groups:
+- Mastopolos Mining
+- Torval Mining Ltd
 topics:
 - corporate expansion
-summary: Vital materials are delivered to Torval Mining Ltd's megaship in EGM 559,
-  ensuring the new corporation meets its first-year targets.
-player_impact: Pilots delivered geological equipment, microbial furnaces, and mineral
-  extractors to the Pride of Bitterwood megaship.
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Vital materials have been delivered to The EGM 559 system to sustain Senator Zemina Torval’s new corporation.
 The megaship Pride of Bitterwood received multiple shipments of geological equipment, microbial furnaces and mineral extractors. These will be transferred to Torval Orbital in the LTT 198 system, supplying the starport acting As the primary base of operations for Torval's new venture.
 Operations director Constantia Torval announced the campaign’s conclusion:

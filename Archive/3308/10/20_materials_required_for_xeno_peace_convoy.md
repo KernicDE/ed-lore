@@ -4,7 +4,8 @@ title: Materials Required for Xeno-Peace Convoy
 slug: materials_required_for_xeno_peace_convoy
 date: '3308-10-20'
 source: API
-arc_id: null
+summary: Federal Governor Dalton Chase requests deliveries to the Andavandul system to establish a xeno-peace envoy vessel.
+player_impact: Independent pilots were asked to both deliver commodities and engage hostile forces.
 persons:
 - Dalton Chase
 - Felicia Winters
@@ -16,24 +17,19 @@ topics:
 - alien contact
 - corporate expansion
 - diplomacy
-player_impact: Independent pilots were asked to both deliver commodities and engage
-  hostile forces.
-summary: Federal Governor Dalton Chase requests deliveries to the Andavandul system
-  to establish a xeno-peace envoy vessel.
-modern_impact: '"The Federation’s leaders are sworn to protect its people, yet our
-  aggressive interactions with the Thargoids have pla..." The failure of civilian-led
-  diplomacy underscores the dangers of underestimating Thargoid hostility.'
+arc_id: null
+modern_impact: '"The Federation’s leaders are sworn to protect its people, yet our aggressive interactions with the Thargoids have pla..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - ff9426a9-0b2c-55d7-8741-dd9fbd4364ff
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - c45ebc1d-95b6-5134-a0de-b08c6f710fe7
-legacy_weight: 4
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Federal Governor Dalton Chase requests deliveries to the Andavandul system to establish a xeno-peace envoy vessel.
 The initiative spearheaded by Chase, a member of the Liberal Party who is currently campaigning for a congressional seat, intends to provide a megaship for use in Thargoid Advocacy Project operations. He announced:
 “The Federation’s leaders are sworn to protect its people, yet our aggressive interactions with the Thargoids have placed entire systems in great danger. Order of the Far God cultists shouldn’t be the image we conjure when suggesting non-military options. It’s time to prove that we possess the capacity for peaceful relations with other species.”	

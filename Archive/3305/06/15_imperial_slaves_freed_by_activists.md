@@ -4,6 +4,8 @@ title: Imperial Slaves Freed by Activists
 slug: imperial_slaves_freed_by_activists
 date: '3305-06-15'
 source: GitHub
+summary: The activist group Autonomy reveals that Tilbery Construction was a front operation, forcibly liberating 4,000 Imperial slaves on Eotienses A 3 — the largest mass emancipation in the group's history.
+player_impact: None — background report.
 persons:
 - Garrett Kline
 groups:
@@ -14,8 +16,6 @@ locations:
 topics:
 - slavery
 - crime
-summary: The activist group Autonomy reveals that Tilbery Construction was a front operation, forcibly liberating 4,000 Imperial slaves on Eotienses A 3 — the largest mass emancipation in the group's history.
-player_impact: None — background report.
 modern_impact: Autonomy's unprecedented mass emancipation triggered a humanitarian crisis in Port Isabelle and intensified debate over the viability and ethics of Imperial indentured servitude.
 legacy_weight: 3
 significance: medium
@@ -23,9 +23,6 @@ related_uuids:
 - 9cdd30a9-0980-5f58-a201-202ed7911a0d
 - af2a3a5c-8f94-5646-b3c6-c979797cdd11
 ---
-
-Imperial Slaves Freed by Activists
-
 
 A company that purchased 4,000 Imperial slaves has revealed itself as a slavery emancipation group. 
 

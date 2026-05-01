@@ -4,10 +4,7 @@ title: Freelance Report  Hapless Explorer Returns Home
 slug: freelance_report_hapless_explorer_returns_home
 date: '3302-11-05'
 source: GitHub
-summary: Amateur explorer Commander Lewis has returned to human-inhabited space after
-  becoming stranded in a damaged Asp Scout approximately 65,000 light years from civilisation.
-  A freak accident destroyed most of his food supplies, leaving him with only tea and biscuits
-  for a six-month journey home.
+summary: Amateur explorer Commander Lewis has returned to human-inhabited space after becoming stranded in a damaged Asp Scout approximately 65,000 light years from civilisation. A freak accident destroyed most of his food supplies, leaving him with only tea and biscuits for a six-month journey home.
 player_impact: None
 persons:
 - Commander Lewis
@@ -17,16 +14,12 @@ locations: []
 topics:
 - exploration
 - safety
-modern_impact: Commander Lewis's survival ordeal underscored the risks of deep-space
-  exploration and the importance of supply redundancy on long expeditions.
-legacy_weight: 1
-significance: low
 technologies:
 - Asp Scout
+modern_impact: Commander Lewis's survival ordeal underscored the risks of deep-space exploration and the importance of supply redundancy on long expeditions.
+legacy_weight: 1
+significance: low
 ---
-
-Freelance Report: Hapless Explorer Returns Home
-
 
 A number of newsfeeds have reported that amateur explorer Commander Lewis has finally returned to human-inhabited space. After following The Distant Worlds Expedition into the void, the unfortunate traveller Found himself alone In a damaged Asp Scout some 65,000 light years from civilisation. 
 

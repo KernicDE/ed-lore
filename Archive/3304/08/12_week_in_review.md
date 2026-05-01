@@ -51,9 +51,6 @@ related_uuids:
 - b8029316-f01c-590a-9636-eb301fa8a07b
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 A ship transporting former rear admiral Riri McAllister has vanished. McAllister, also known as Nexus, was on trial for her crimes As the founder of terrorist group The League of Reparation. While it is likely that the ship was destroyed by the League’s enemies, the possibility that McAllister was liberated by surviving members of the League has not been ruled out. 

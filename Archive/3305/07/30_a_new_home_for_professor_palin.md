@@ -4,6 +4,8 @@ title: A New Home for Professor Palin
 slug: a_new_home_for_professor_palin
 date: '3305-07-30'
 source: GitHub
+summary: Professor Ishmael Palin establishes a permanent research base at Abel Laboratory in the Arque system, resuming his engineering services and meta-alloy studies following the evacuation from Maia.
+player_impact: Pilots can now access Palin's engineering services at Abel Laboratory on Arque 4 E.
 persons:
 - Ishmael Palin
 - Alba Tesreau
@@ -18,17 +20,12 @@ topics:
 - engineering
 - research
 arc_id: thargoid-contact
-summary: Professor Ishmael Palin establishes a permanent research base at Abel Laboratory in the Arque system, resuming his engineering services and meta-alloy studies following the evacuation from Maia.
-player_impact: Pilots can now access Palin's engineering services at Abel Laboratory on Arque 4 E.
 modern_impact: Palin's successful relocation preserved one of humanity's most important Thargoid research and engineering capabilities, ensuring continued access to specialised ship modifications.
 legacy_weight: 4
 significance: high
 related_uuids:
 - ba58f071-3919-5ce8-aa5f-ed9a848a3847
 ---
-
-A New Home for Professor Palin
-
 
 Professor Ishmael Palin has established a permanent base of operations in The Arque system. 
 

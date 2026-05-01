@@ -21,9 +21,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: The Skvortsov Orbital Hangover
-
-
 The party to celebrate the successful conclusion of the Distant Worlds Expedition has been a tremendous success, With festivities at Skvortsov Orbital lasting for Several days. But the revelry has come at a cost, as it seems 63 G. Capricorni is now in the grip of a system-wide hangover. 
 
 A member of staff at Skvortsov Orbital said: "Those Diamond Frogs really know how to throw a party. Seriously, I've never seen anything like it. At One point, the security chief was dancing on a table and screaming about wanting to be a showgirl." 

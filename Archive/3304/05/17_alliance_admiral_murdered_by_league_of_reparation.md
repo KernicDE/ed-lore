@@ -29,9 +29,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Alliance Admiral Murdered by League of Reparation
-
-
 A member of The Council of Admirals, Which commands the Alliance Defence Force, has been murdered. The League of Reparation has claimed responsibility. 
 
 Fleet Admiral Tulimaq Buchanan was travelling to a naval ceremony at Lave Station when his private Vessel was attacked and destroyed. The admiral’s personal staff and the ship’s crew were also killed. 

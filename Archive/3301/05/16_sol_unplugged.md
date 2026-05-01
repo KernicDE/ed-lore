@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Sol Unplugged?
-
-
 For The first time in almost a decade, Utopixx Entertainment, The subsidiary of Reynhardt Intellisys responsible for some of the top virtual reality experiences in the galaxy, has posted an operating loss of almost 5,000,000,000,000 credits. 
 
 Investors were shocked by the news, Which saw Reynhardt Intellisys shares drop by almost 14%. 

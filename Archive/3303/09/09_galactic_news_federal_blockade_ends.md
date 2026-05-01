@@ -4,10 +4,7 @@ title: Galactic News  Federal Blockade Ends
 slug: galactic_news_federal_blockade_ends
 date: '3303-09-09'
 source: GitHub
-summary: The Federation has withdrawn its Farragut-class Battlecruiser from Maia A
-  3 a, ending the blockade of Professor Ishmael Palin's research base. The deployment,
-  widely seen as an attempt to restrict Palin's meta-alloy research, ended without official
-  comment from the Federation.
+summary: The Federation has withdrawn its Farragut-class Battlecruiser from Maia A 3 a, ending the blockade of Professor Ishmael Palin's research base. The deployment, widely seen as an attempt to restrict Palin's meta-alloy research, ended without official comment from the Federation.
 player_impact: None
 persons:
 - Ishmael Palin
@@ -18,21 +15,17 @@ groups:
 locations:
 - Maia
 - Maia A 3 a
-technologies:
-- Farragut-class Battlecruiser
 topics:
 - research
 - ship
 - war
+technologies:
+- Farragut-class Battlecruiser
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy trade drives economic and military activity
-  in the Pleiades region.
+modern_impact: The barnacle/meta-alloy trade drives economic and military activity in the Pleiades region.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Federal Blockade Ends
-
 
 In October last year, The Federation was criticised for positioning a Farragut-class Battlecruiser above Maia A 3 a, not Far from the personal research base of Professor Ishmael Palin. 
 

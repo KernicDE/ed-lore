@@ -24,9 +24,6 @@ related_uuids:
 - e783725b-8d86-5738-8724-b2a1ffaf6f73
 ---
 
-Colonia Campaign Concludes
-
-
 The campaign to supply a scientific project in Colonia has now concluded and construction of a resource management centre has begun. Hundreds of Independent pilots made the journey to deliver commodities to Tir Technology Services in the Tir system. 
 
 Professor Alexei de la Vega, in charge of the research project, made This statement: 

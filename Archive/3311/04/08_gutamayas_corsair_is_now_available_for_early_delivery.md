@@ -4,6 +4,11 @@ title: Gutamaya's Corsair Is Now Available for Early Delivery
 slug: gutamayas_corsair_is_now_available_for_early_delivery
 date: '3311-04-08'
 source: API
+summary: Gutamaya's Corsair enters early delivery as the first commercially available multirole Imperial ship without Navy rank requirement, praised by lead engineer Ines Allende and Princess Aisling Duval.
+player_impact: The Corsair became available for exclusive early purchase before transitioning to standard inventories. Pilots with high-tech economy shipyards could acquire the first rank-free Imperial multipurpose vessel.
+persons:
+- Ines Allende
+- Aisling Duval
 groups:
 - Imperial Navy
 locations:
@@ -13,16 +18,11 @@ topics:
 - exploration
 - ship
 - trade
-persons:
-- Ines Allende
-- Aisling Duval
 technologies:
 - Corsair
 - utility slots
 - hardpoint configuration
-player_impact: "The Corsair became available for exclusive early purchase before transitioning to standard inventories. Pilots with high-tech economy shipyards could acquire the first rank-free Imperial multipurpose vessel."
-summary: "Gutamaya's Corsair enters early delivery as the first commercially available multirole Imperial ship without Navy rank requirement, praised by lead engineer Ines Allende and Princess Aisling Duval."
-modern_impact: "Ines Allende's statement — 'The Corsair blends our customary elegant design with exceptional multipurpose capability' — articulates Gutamaya's strategic pivot from prestige Navy contracts to the broader pilot market. Aisling Duval's announcement that she will 'be adding a Corsair to my personal fleet' serves as powerful celebrity endorsement, a marketing technique that will become standard for future ship releases."
+modern_impact: Ines Allende's statement — 'The Corsair blends our customary elegant design with exceptional multipurpose capability' — articulates Gutamaya's strategic pivot from prestige Navy contracts to the broader pilot market. Aisling Duval's announcement that she will 'be adding a Corsair to my personal fleet' serves as powerful celebrity endorsement, a marketing technique that will become standard for future ship releases.
 legacy_weight: 2
 significance: low
 related_uuids:

@@ -25,8 +25,6 @@ related_uuids:
 - 37a69743-987e-5990-848f-308a9738a453
 - 0bb52046-e423-5edd-a5be-52aed365a206
 ---
-Colonia Scientific Installation Project
-
 
 Scientists in Colonia have announced plans to build a scientific outpost in The system to monitor the region’s population and resources. 
 

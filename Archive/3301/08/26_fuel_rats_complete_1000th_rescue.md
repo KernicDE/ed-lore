@@ -4,6 +4,8 @@ title: Fuel Rats Complete 1,000th Rescue
 slug: fuel_rats_complete_1000th_rescue
 date: '3301-08-26'
 source: GitHub
+summary: The Fuel Rats emergency fuel delivery service surpassed 1,000 rescues since launching two months prior. Notable rescues included Commander Paul Kavinsky and Rusticolus making an incredible high-speed transition to over 31,500 light years from inhabited space to rescue TheHairyMob, who had five months of exploration data. Anuranium and Domaq located a stranded commander 2,800 light years above the galactic plane near Sagittarius A* despite limited nearby stars. Aitken and Dardevel saved Commander Ghetto King with only two seconds of emergency air remaining.
+player_impact: Commanders running out of fuel anywhere in the galaxy can call the Fuel Rats for emergency refuelling. The service operates even in deep space far from the bubble.
 persons:
 - Ceska Zbrojovka
 - Paul Kavinsky
@@ -23,18 +25,11 @@ topics:
 - exploration
 - humanitarian
 - community
-summary: The Fuel Rats emergency fuel delivery service surpassed 1,000 rescues since launching two months prior. Notable rescues included Commander Paul Kavinsky and Rusticolus making an incredible high-speed transition to over 31,500 light years from inhabited space to rescue TheHairyMob, who had five months of exploration data. Anuranium and Domaq located a stranded commander 2,800 light years above the galactic plane near Sagittarius A* despite limited nearby stars. Aitken and Dardevel saved Commander Ghetto King with only two seconds of emergency air remaining.
-player_impact: Commanders running out of fuel anywhere in the galaxy can call the Fuel Rats for emergency refuelling. The service operates even in deep space far from the bubble.
 modern_impact: Milestone for the Fuel Rats player group, demonstrating organised humanitarian rescue operations across the galaxy.
 legacy_weight: 2
 significance: medium
 ---
 
-Fuel Rats Complete 1,000th Rescue
-
-
-Fuel Rats Complete 1,000th Rescue 
- 
 Heroes: that's what some call The Fuel Rats. Ever since launching their emergency fuel delivery service a little over two months ago, The Fuel Rats have made an impact on the lives of over 1,000 commanders who would otherwise have faced a long spacewalk home. 
 
 For One stranded commander, over 31,500 light years from inhabited space With Five months’ worth of exploration data on board, the Fuel Rats’ service was greatly appreciated. Commander Paul Kavinsky, in partnership With Commander Rusticolus, made an incredible high-speed transition to the Far side of the galaxy to rescue Commander TheHairyMob. 

@@ -13,18 +13,15 @@ groups:
 locations:
 - Maia
 - Merope
-technologies: []
 topics:
 - construction
 - war
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: Superpower rivalry in Maia intensifies as both the Empire and Federation compete to establish permanent outposts in the Pleiades.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Superpower Expansion
-
 
 For Several months, The Maia system has been a focal point in the ongoing hostility between the Empire and the Federation. 
 

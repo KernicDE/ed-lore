@@ -13,21 +13,17 @@ groups:
 - Canonn Interstellar Research Group
 locations:
 - Merope
-technologies:
-- Farragut Battle Cruiser
 topics:
 - investigation
 - research
 - ship
 - war
-modern_impact: Federal military presence at barnacle sites escalates tensions and sets
-  a precedent for superpower resource competition.
+technologies:
+- Farragut Battle Cruiser
+modern_impact: Federal military presence at barnacle sites escalates tensions and sets a precedent for superpower resource competition.
 legacy_weight: 2
 significance: low
 ---
-
-Freelance Report: Escalation in Merope?
-
 
 Following reports of unprovoked assaults on Canonn vessels from Farragut Battle Cruisers in The Merope system, Dr Arcanonn of the Canonn Interstellar Research Group has released The following statement: 
 

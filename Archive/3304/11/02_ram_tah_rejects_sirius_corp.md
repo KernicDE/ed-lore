@@ -27,9 +27,6 @@ related_uuids:
 - 5ce245a3-6cab-529d-81eb-e7015b0bbe28
 ---
 
-Ram Tah Rejects Sirius Corp
-
-
 The engineer Ram Tah has rejected an offer from the Sirius Corporation to support the manufacture of Guardian-human technology. 
 
 In a public statement, he said: 

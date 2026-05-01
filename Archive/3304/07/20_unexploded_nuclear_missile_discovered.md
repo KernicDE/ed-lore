@@ -24,9 +24,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Unexploded Nuclear Missile Discovered
-
-
 A thermonuclear weapon, launched over a thousand years ago during Earth’s Third World War, has been discovered.  
 
 The intercontinental ballistic missile was Found beneath the Pacific Ocean, during construction of new undersea habitation off the coast of California.  

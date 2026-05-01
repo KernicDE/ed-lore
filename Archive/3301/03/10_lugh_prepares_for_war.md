@@ -12,14 +12,10 @@ locations:
 topics:
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Lugh Prepares for War
-
 
 Crimson State Group representatives who were still present on Alioth were forced to make a hasty departure earlier today, as reports of Federal checkpoints being established around local exit points began to hit The Alliance blogosphere.  
 

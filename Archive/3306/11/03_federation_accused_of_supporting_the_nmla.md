@@ -4,26 +4,21 @@ title: Federation Accused of Supporting the NMLA
 slug: federation_accused_of_supporting_the_nmla
 date: '3306-11-03'
 source: GitHub
-groups:
-- Imperial Internal Security Service
+summary: The Empire reveals evidence suggesting the NMLA may be receiving help from Federal elements, while Federal systems struggle with an influx of Marlinist refugees.
+player_impact: None
 persons:
 - Liz Ryder
 - Jordan Rochester
 - Imogen Luciana
+groups:
+- Imperial Internal Security Service
 topics:
 - humanitarian
 - terrorism
-summary: The Empire reveals evidence suggesting the NMLA may be receiving help from
-  Federal elements, while Federal systems struggle with an influx of Marlinist refugees.
-player_impact: None
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 4
 significance: high
 ---
-
-Federation Accused of Supporting The NMLA
-
 
 The Empire has revealed new evidence that suggests the NMLA terrorist group may be receiving help from elements within the Federation. 
 

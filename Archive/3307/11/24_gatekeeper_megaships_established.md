@@ -4,15 +4,13 @@ title: Gatekeeper Megaships Established
 slug: gatekeeper_megaships_established
 date: '3307-11-24'
 source: API
+summary: Fourteen factions deploy Gatekeeper megaships to neighbouring systems to ensure permit distribution procedures continue regardless of political status.
+player_impact: None
 groups:
 - Alioth Independents
 topics:
 - diplomacy
-summary: Fourteen factions deploy Gatekeeper megaships to neighbouring systems to ensure
-  permit distribution procedures continue regardless of political status.
-player_impact: None
-modern_impact: Permit-controlled systems remain a feature of galactic politics and trade
-  regulation.
+modern_impact: Permit-controlled systems remain a feature of galactic politics and trade regulation.
 legacy_weight: 1
 significance: low
 ---

@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Black Fleet Takes Control of Tiliala
-
-
 The GalNet News Agency has learned that the Black Fleet, an Independent organisation formerly based in Varpet, has become the dominant faction in the Tiliala system. 
 
 The news is significant because Access to the system – Which was previously controlled by the Conservatives of Tiliala – is dependent on the possession of a permit. 

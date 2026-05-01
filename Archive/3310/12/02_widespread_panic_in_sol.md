@@ -4,6 +4,11 @@ title: Widespread Panic in Sol
 slug: widespread_panic_in_sol
 date: '3310-12-02'
 source: API
+summary: Mass panic erupts in Sol as Titan Cocijo approaches, with evacuation efforts accelerating and riots breaking out at evacuation centres. Defence Secretary Conn Montgomery details refugee operations while ICE-casters blame Seo Jin-ae for revealing Earth's location.
+player_impact: Pilots helped evacuate civilians from Sol, transporting refugees alongside Federal military craft. Freelance pilots were specifically called upon to assist with the evacuation of over 22 billion people.
+persons:
+- Conn Montgomery
+- Seo Jin-ae
 groups:
 - Aegis
 - Federal Times
@@ -16,12 +21,7 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Montgomery's statement — 'over 22 billion people in the system that need to be kept safe' — quantifies the scale of the evacuation. The blaming of Seo Jin-ae for 'summoning' Cocijo by revealing Earth's location becomes a recurring narrative that damages her credibility and contributes to her hiatus from Aegis in 3311. The riots and attempts to storm medical facilities reveal how quickly panic turns to xenophobic violence."
-persons:
-- Conn Montgomery
-- Seo Jin-ae
-player_impact: "Pilots helped evacuate civilians from Sol, transporting refugees alongside Federal military craft. Freelance pilots were specifically called upon to assist with the evacuation of over 22 billion people."
-summary: "Mass panic erupts in Sol as Titan Cocijo approaches, with evacuation efforts accelerating and riots breaking out at evacuation centres. Defence Secretary Conn Montgomery details refugee operations while ICE-casters blame Seo Jin-ae for revealing Earth's location."
+modern_impact: Montgomery's statement — 'over 22 billion people in the system that need to be kept safe' — quantifies the scale of the evacuation. The blaming of Seo Jin-ae for 'summoning' Cocijo by revealing Earth's location becomes a recurring narrative that damages her credibility and contributes to her hiatus from Aegis in 3311. The riots and attempts to storm medical facilities reveal how quickly panic turns to xenophobic violence.
 legacy_weight: 5
 significance: high
 related_uuids:

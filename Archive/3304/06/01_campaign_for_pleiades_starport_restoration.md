@@ -27,9 +27,6 @@ related_uuids:
 - f0f6f3b5-820c-54b2-add3-229e4f9f610e
 ---
 
-Campaign for Pleiades Starport Restoration
-
-
 A fund has been set up by The Aegis Research to repair starports in the Pleiades Nebula that have been damaged during the Thargoid conflict. 
 
 Senior engineer Lilith Galloway made This announcement: 

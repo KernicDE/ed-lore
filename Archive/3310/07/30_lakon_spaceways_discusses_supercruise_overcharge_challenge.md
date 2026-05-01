@@ -4,6 +4,10 @@ title: Lakon Spaceways Discusses Supercruise Overcharge Challenge
 slug: lakon_spaceways_discusses_supercruise_overcharge_challenge
 date: '3310-07-30'
 source: API
+summary: Lakon Spaceways chairperson Naomi Landseer reveals the Type-8 was moved back to the theoretical stage to accommodate SCO drive stresses, resulting in the largest medium-class freighter frame.
+player_impact: The Type-8 is weeks away from prototype stage and will feature optimised SCO frame shift drive performance, minimising the stress placed on ships by supercruise overcharge tech.
+persons:
+- Naomi Landseer
 groups:
 - Engineers
 - Lakon Spaceways
@@ -15,20 +19,10 @@ topics:
 - research
 - ship
 - trade
-modern_impact: "Landseer's description of moving 'the project back to the theoretical stage' after the SCO drive release shows how disruptive Achilles' technology has been to existing ship design. The statement that 'the SCO frame shift drive will function far more effectively in the Type-8 than with any other dedicated trade vessel on the market today' is a direct competitive claim. The shareholder function setting reveals the corporate priorities behind the product."
-persons:
-- Naomi Landseer
-player_impact: "The Type-8 is weeks away from prototype stage and will feature optimised SCO frame shift drive performance, minimising the stress placed on ships by supercruise overcharge tech."
-summary: "Lakon Spaceways chairperson Naomi Landseer reveals the Type-8 was moved back to the theoretical stage to accommodate SCO drive stresses, resulting in the largest medium-class freighter frame."
-legacy_weight: 2
-significance: low
-related_uuids:
-- a5b9e2d4-6885-5c74-8e5b-278e557e3388
 technologies:
 - SCO Frame Shift Drive
 - Type-8
-player_impact: "The Type-8 is weeks away from prototype stage and will feature optimised SCO frame shift drive performance, minimising the stress placed on ships by supercruise overcharge tech."
-summary: "Lakon Spaceways chairperson Naomi Landseer reveals the Type-8 was moved back to the theoretical stage to accommodate SCO drive stresses, resulting in the largest medium-class freighter frame."
+modern_impact: Landseer's description of moving 'the project back to the theoretical stage' after the SCO drive release shows how disruptive Achilles' technology has been to existing ship design. The statement that 'the SCO frame shift drive will function far more effectively in the Type-8 than with any other dedicated trade vessel on the market today' is a direct competitive claim. The shareholder function setting reveals the corporate priorities behind the product.
 legacy_weight: 2
 significance: low
 related_uuids:

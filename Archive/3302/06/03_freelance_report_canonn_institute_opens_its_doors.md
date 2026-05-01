@@ -13,22 +13,18 @@ groups:
 locations:
 - Col 285 Sector IX-T d3-43
 - Canonn Institute
-technologies:
-- Unknown Artefacts
-- meta-alloys
 topics:
 - construction
 - research
 - war
+technologies:
+- Unknown Artefacts
+- meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Canonn Institute Opens Its Doors
-
 
 Humanity's newest and most advanced Unknown Artefact research centre, The Canonn Institute in Col 285 Sector IX-T d3-43, is finally open. 
 

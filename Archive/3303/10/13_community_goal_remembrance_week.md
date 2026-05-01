@@ -14,18 +14,14 @@ locations:
 - Kauruk
 - Moore Terminal
 - Gyvatices
-technologies: []
 topics:
 - trade
 - memorial
-modern_impact: A community-driven memorial event fostering solidarity among pilots during
-  a time of galactic conflict.
+technologies: []
+modern_impact: A community-driven memorial event fostering solidarity among pilots during a time of galactic conflict.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Remembrance Week
-
 
 Last year, a commemorative event was held for The late entrepreneur Walter Waldo in the Gyvatices system. Not only was the memorial a success, it became an event of collective remembrance, as pilots from across the galaxy convened to honour people and events of personal significance. 
 

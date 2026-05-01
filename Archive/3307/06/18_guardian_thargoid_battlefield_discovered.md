@@ -4,7 +4,8 @@ title: Guardian-Thargoid Battlefield Discovered
 slug: guardian_thargoid_battlefield_discovered
 date: '3307-06-18'
 source: API
-arc_id: salvation-azimuth
+summary: Pilots discover the Proteus, an Anaconda from the Hesperus, at a historical battlefield on Trapezium Sector YU-X c1-2 1a. The site contains physical evidence of the ancient war between Guardians and Thargoids. Professor Alba Tesreau announces Aegis will conduct surveys, hoping to replace Guardian artefacts lost with the Alexandria.
+player_impact: Pilots tracked down signal beacons following Salvation's instructions and discovered the Proteus at an ancient Guardian-Thargoid battlefield.
 persons:
 - Alba Tesreau
 - Patience Middleton
@@ -20,30 +21,29 @@ locations:
 - PMD2009 48
 - Glorious Prospect megaship
 - Archimedes megaship
-technologies:
-- Proteus Anaconda
-- Guardian artefacts
-- Signal beacon
-- Hesperus megaship
-- Adamastor megaship
 topics:
 - alien contact
 - exploration
 - research
 - war
 - xenoarchaeology
-player_impact: Pilots tracked down signal beacons following Salvation's instructions and discovered the Proteus at an ancient Guardian-Thargoid battlefield.
-summary: Pilots discover the Proteus, an Anaconda from the Hesperus, at a historical battlefield on Trapezium Sector YU-X c1-2 1a. The site contains physical evidence of the ancient war between Guardians and Thargoids. Professor Alba Tesreau announces Aegis will conduct surveys, hoping to replace Guardian artefacts lost with the Alexandria.
+technologies:
+- Proteus Anaconda
+- Guardian artefacts
+- Signal beacon
+- Hesperus megaship
+- Adamastor megaship
+arc_id: salvation-azimuth
 modern_impact: The battlefield discovery provides irrefutable evidence of the Guardian-Thargoid war and becomes a focal point for the rivalry between Aegis and Salvation, as both seek to exploit its archaeological value.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 06344bba-8641-563b-9938-f0db820baec3
 - a7097ad5-60fd-5a3f-852d-86f1a74114d5
 - e6ce2055-4e35-5281-9a66-2922d5d92fc4
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 An Anaconda from The Hesperus megaship has been Found at a historical battlefield on the moon Trapezium Sector YU-X c1-2 1a.
 The discovery was made by pilots who tracked down a series of signal beacons, following instructions provided by the anonymous ‘Salvation’. The beacons were deployed by the Hesperus during Its voyage nearly 200 years ago.
 The Anaconda, named Proteus, was One of the megaship’s secondary vessels and had been outfitted for long-range exploration. It was used by an Azimuth Biochemicals science team to flee the Hesperus after the megaship was overtaken by saboteurs from rival company Pharmasapien.

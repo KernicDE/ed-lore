@@ -26,9 +26,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Imperial Senator Murdered
-
-
 Imperial Senator Nestor Cartesius has been Found dead at his home on Capitol. Regional media streams have confirmed that his death is being treated as a homicide. 
 
 Captain Seutonia of The Imperial Internal Security Service conveyed the facts at a press conference: 

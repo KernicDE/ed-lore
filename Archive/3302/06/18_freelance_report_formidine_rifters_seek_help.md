@@ -11,18 +11,14 @@ persons:
 groups:
 - Earth Expeditionary Fleet
 locations: []
-technologies: []
 topics:
 - exploration
 - war
-modern_impact: The Formidine Rift expedition eventually leads to the discovery of the
-  Zurara and the mysterious Dynasty Expeditions.
+technologies: []
+modern_impact: The Formidine Rift expedition eventually leads to the discovery of the Zurara and the mysterious Dynasty Expeditions.
 legacy_weight: 2
 significance: low
 ---
-
-Freelance Report: Formidine Rifters Seek Help
-
 
 The Formidine Rifters are an unlikely collective of explorers from various backgrounds, systems and factional allegiances who have put aside their political differences to work together toward a common goal. For Several months, they have been working together to map the region between the two farthest galactic arms just past the Heart and Soul Nebula. 
 

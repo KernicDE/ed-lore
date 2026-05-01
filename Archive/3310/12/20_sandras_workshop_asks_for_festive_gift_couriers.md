@@ -4,6 +4,10 @@ title: Sandra’s Workshop Asks for Festive Gift Couriers
 slug: sandras_workshop_asks_for_festive_gift_couriers
 date: '3310-12-20'
 source: API
+summary: Sandra Corrs requests pilot volunteers to deliver festive gifts to children displaced by the Thargoid invasion, with her upgraded Our Dolph's Routes fleet struggling to locate all recipients.
+player_impact: Pilots collected festive gifts from Frost Dock in Njambalba and delivered them to children displaced by the Thargoid invasion, using beacon scan data to locate delivery addresses.
+persons:
+- Sandra Corrs
 groups:
 - Sandra's Workshop
 - Our Dolph's Routes
@@ -14,11 +18,7 @@ topics:
 - festival
 - humanitarian
 arc_id: null
-modern_impact: "Corrs' observation that 'with so many little boys and girls displaced by the nasty alien invasion, it's going to be a challenge finding them all' quantifies the human cost of the war in terms of displaced children. This article establishes the annual Sandra's Workshop tradition that will continue into 3311 and beyond."
-persons:
-- Sandra Corrs
-player_impact: "Pilots collected festive gifts from Frost Dock in Njambalba and delivered them to children displaced by the Thargoid invasion, using beacon scan data to locate delivery addresses."
-summary: "Sandra Corrs requests pilot volunteers to deliver festive gifts to children displaced by the Thargoid invasion, with her upgraded Our Dolph's Routes fleet struggling to locate all recipients."
+modern_impact: Corrs' observation that 'with so many little boys and girls displaced by the nasty alien invasion, it's going to be a challenge finding them all' quantifies the human cost of the war in terms of displaced children. This article establishes the annual Sandra's Workshop tradition that will continue into 3311 and beyond.
 legacy_weight: 4
 significance: high
 related_uuids:

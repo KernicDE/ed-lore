@@ -15,19 +15,15 @@ locations:
 - Anduliga
 - Achenar
 - Alioth
-technologies: []
 topics:
 - festival
 - safety
 - war
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
+technologies: []
+modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---
-
-Faction Appeals for Fireworks
-
 
 With the end of The year less than a week away, preparations for New Year celebrations are in full swing throughout the galaxy. One of the most notable is the forthcoming party from Independent Cherets Labour, an organisation based in the Cherets system. According to a recent press release, the organisation has issued an open contract for fireworks With Which to mark the start of 3302. But not just any fireworks. Anduliga fireworks. 
 

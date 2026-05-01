@@ -4,7 +4,8 @@ title: Taranis Unleashes Thargoid Invasion Fleets
 slug: taranis_unleashes_thargoid_invasion_fleets
 date: '3308-11-29'
 source: API
-arc_id: null
+summary: The Taranis anomaly has arrived in Hyades Sector FB-N b7-6, triggering a ferocious wave of Thargoid attacks in the region.
+player_impact: Independent pilots were encouraged to participate in the unfolding events.
 persons:
 - Ishmael Palin
 - Rachel Ziegler
@@ -19,23 +20,19 @@ locations:
 topics:
 - alien contact
 - war
-player_impact: Independent pilots were encouraged to participate in the unfolding
-  events.
-summary: The Taranis anomaly has arrived in Hyades Sector FB-N b7-6, triggering a
-  ferocious wave of Thargoid attacks in the region.
-modern_impact: '"not a single object but a colossal swirling maelstrom of some kind"
-  Taranis heralded a new phase of total war that humanity was ill-prepared to resist.'
+arc_id: null
+modern_impact: '"not a single object but a colossal swirling maelstrom of some kind" Taranis heralded a new phase of total war that humanity was ill-prepared to resist.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - d8b14f7a-0b22-5f2d-a164-45b74638e864
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - d9c25fb2-563a-5af4-ac33-6f60c406b5a5
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Taranis anomaly has arrived in Hyades Sector FB-N b7-6, triggering a ferocious wave of Thargoid attacks in the region.
 Multiple inhabited systems are experiencing wide-scale invasions by countless numbers of Thargoid vessels, with casualties expected to number millions in the coming days. Several systems have already reported a complete loss of human control, with ports abandoned amid heavy losses. 
 The Alliance Defence Force and Federal Navy have responded by sending capital ships, which will support independent pilots and anti-xeno squadrons. Neither superpower has entered the Hyades Sector FB-N b7-6 system, from which the Thargoid fleets seem to be emanating.

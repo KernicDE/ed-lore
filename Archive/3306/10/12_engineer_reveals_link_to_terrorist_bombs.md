@@ -4,31 +4,25 @@ title: Engineer Reveals Link to Terrorist Bombs
 slug: engineer_reveals_link_to_terrorist_bombs
 date: '3306-10-12'
 source: GitHub
+summary: Liz Ryder confirms her explosive designs were modified by NMLA terrorists using Thargoid caustic enzymes. She claims she was deceived via false contractors and provides all data to Imperial investigators. The warrant for her arrest is rescinded.
+player_impact: None
+persons:
+- Liz Ryder
 groups:
 - Imperial Internal Security Service
 - Eurybia Blue Mafia
-persons:
-- Liz Ryder
 locations:
 - Eurybia
 topics:
 - terrorism
 - engineering
-summary: Liz Ryder confirms her explosive designs were modified by NMLA terrorists using
-  Thargoid caustic enzymes. She claims she was deceived via false contractors and provides
-  all data to Imperial investigators. The warrant for her arrest is rescinded.
-player_impact: None
-modern_impact: Liz Ryder is cleared of direct terrorist involvement, but her designs are
-  confirmed as the basis for NMLA starport bombs.
+modern_impact: Liz Ryder is cleared of direct terrorist involvement, but her designs are confirmed as the basis for NMLA starport bombs.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 00166067-886c-56fa-a0a6-e6bb8ff8bb4c
 - 6c20fb73-67c1-5125-843a-a36144e66696
 ---
-
-Engineer Reveals Link to Terrorist Bombs
-
 
 Liz Ryder, an engineer based in The Eurybia system, has confirmed that her designs for an explosive match those used by NMLA terrorists against Imperial starports. 
 

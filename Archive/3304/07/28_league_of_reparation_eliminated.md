@@ -34,9 +34,6 @@ related_uuids:
 - 658df222-9a6d-5eb0-87e6-6fc4621e39c8
 ---
 
-League of Reparation Eliminated
-
-
 The League of Reparation has been dismantled, According to the tri-superpower taskforce investigating the organisation. 
 
 Captain Niamh Seutonia of the Imperial Internal Security Service made This statement: 

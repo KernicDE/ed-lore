@@ -4,20 +4,18 @@ title: Demands for Federal Rebellion Decline
 slug: demands_for_federal_rebellion_decline
 date: '3307-11-03'
 source: API
-groups:
-- Federation
+summary: Recent polls suggest the likelihood of further Federal secessions is waning, partly due to the Proactive Detection Bureau's role in preventing Jupiter's Wrath terrorist attacks.
+player_impact: None
 persons:
 - Sofia Trevino
 - Felicia Winters
+groups:
+- Federation
 topics:
 - diplomacy
 - independence
 - terrorism
 arc_id: federal-politics
-summary: Recent polls suggest the likelihood of further Federal secessions is waning,
-  partly due to the Proactive Detection Bureau's role in preventing Jupiter's Wrath
-  terrorist attacks.
-player_impact: None
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium

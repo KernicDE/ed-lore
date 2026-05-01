@@ -4,7 +4,8 @@ title: Paresa Conflict Risks War Between Superpowers
 slug: paresa_conflict_risks_war_between_superpowers
 date: '3307-05-11'
 source: API
-arc_id: nmla-terrorism
+summary: Mainstream media report widespread fears that the Paresa conflict may force the Empire and Federation into full-scale war. The Imperial Navy mobilises while Federal media question the authenticity of evidence linking Nova Imperium to the NMLA.
+player_impact: None directly; this is a news analysis piece.
 persons:
 - Hadrian Duval
 - Aisling Duval
@@ -19,19 +20,18 @@ locations:
 - Paresa
 - Achenar
 - Sol
-technologies: []
 topics:
 - succession
 - terrorism
 - war
-player_impact: None directly; this is a news analysis piece.
-summary: Mainstream media report widespread fears that the Paresa conflict may force the Empire and Federation into full-scale war. The Imperial Navy mobilises while Federal media question the authenticity of evidence linking Nova Imperium to the NMLA.
+technologies: []
+arc_id: nmla-terrorism
 modern_impact: The Paresa crisis demonstrates how close the galaxy comes to superpower war over terrorism, with the NMLA's disinformation campaign successfully pitting the Federation against Imperial targets.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 11814d8f-62f6-5b65-ab80-4c77ae8a5d6d
 - afdf0fab-5a79-5806-b284-6484d24275e1
-legacy_weight: 5
-significance: high
 ---
 
 There are widespread fears that current hostilities in The Paresa system may force the Empire and Federation to declare full-scale war.

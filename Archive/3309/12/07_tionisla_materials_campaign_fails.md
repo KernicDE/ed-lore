@@ -4,6 +4,11 @@ title: Tionisla Materials Campaign Fails
 slug: tionisla_materials_campaign_fails
 date: '3309-12-07'
 source: API
+summary: Nakato Kaine's Tionisla delivery campaign fails to reach its target, with Yong-Rui blaming Assembly obstruction and Kaine reaffirming Alliance self-sufficiency principles.
+player_impact: Pilots who earned bounty vouchers protecting traders can collect rewards from Brett High. The intended discount on Alliance Challenger, Chieftain and Crusader has been cancelled.
+persons:
+- Nakato Kaine
+- Li Yong-Rui
 groups:
 - Alliance
 - Sirius Corporation
@@ -16,17 +21,12 @@ topics:
 - investigation
 - politics
 arc_id: null
-modern_impact: "Kaine's framing — 'The purpose of this campaign was to demonstrate the core principles of the Alliance: independence, self-sufficiency and mutual support' — positions the failure as a learning moment. Yong-Rui's counter — 'Kaine's rogue operation in Tionisla only demonstrates how partisan some of us have become' — frames her as a partisan obstacle. The cancellation of ship discounts is a tangible consequence of the failure."
-persons:
-- Nakato Kaine
-- Li Yong-Rui
-player_impact: "Pilots who earned bounty vouchers protecting traders can collect rewards from Brett High. The intended discount on Alliance Challenger, Chieftain and Crusader has been cancelled."
-summary: "Nakato Kaine's Tionisla delivery campaign fails to reach its target, with Yong-Rui blaming Assembly obstruction and Kaine reaffirming Alliance self-sufficiency principles."
+modern_impact: 'Kaine''s framing — ''The purpose of this campaign was to demonstrate the core principles of the Alliance: independence, self-sufficiency and mutual support'' — positions the failure as a learning moment. Yong-Rui''s counter — ''Kaine''s rogue operation in Tionisla only demonstrates how partisan some of us have become'' — frames her as a partisan obstacle. The cancellation of ship discounts is a tangible consequence of the failure.'
 legacy_weight: 5
 significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Councillor Nakato Kaine has announced that a delivery campaign in the Tionisla system has not reached its target.
 Addressing the Alliance Assembly, she said:
 “The purpose of this campaign was to demonstrate the core principles of the Alliance: independence, self-sufficiency and mutual support. While we received millions of units, our target quota was not filled. I believe there are important lessons to be learned here. We must not lose faith in the Alliance’s ability to remain self-sustaining in military infrastructure.”

@@ -25,9 +25,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Buckyball Spring Break Controversy
-
-
 Accusations of reckless endangerment have been levelled at The Buckyball Racing Club regarding Its upcoming Spring Break chauffeurs event. Commander Seneh, the event organiser, had This to say: 
 
 "This event is a community outreach programme. There will be no 'first place' or prizes. While it is true that the club will give performance scores to participating pilots, those scores will be based on the happiness and safety of the escorted students, not on distance travelled or speed." 

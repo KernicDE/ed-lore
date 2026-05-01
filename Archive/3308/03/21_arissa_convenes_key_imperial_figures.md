@@ -4,9 +4,10 @@ title: Arissa Convenes Key Imperial Figures
 slug: arissa_convenes_key_imperial_figures
 date: '3308-03-21'
 source: API
+summary: Emperor Arissa summons Imperial nobles and ambassadors to Capitol for diplomatic meetings.
+player_impact: Not specifically mentioned — this is a diplomatic report.
 persons:
 - Arissa Lavigny-Duval
-entities: []
 groups:
 - Alliance
 - Imperial Herald
@@ -17,13 +18,11 @@ locations:
 topics:
 - diplomacy
 - succession
-summary: Emperor Arissa summons Imperial nobles and ambassadors to Capitol for diplomatic meetings.
-player_impact: Not specifically mentioned — this is a diplomatic report.
-modern_impact: "\"Various Imperial allies, ambassadors and nobles have been summoned to Capitol for a series of meetings with Emperor Arissa Lavigny-Duval.\" The Emperor's diplomatic outreach signals an effort to rebuild Imperial alliances after the NMLA crisis."
+entities: []
+modern_impact: '"Various Imperial allies, ambassadors and nobles have been summoned to Capitol for a series of meetings with Emperor Arissa Lavigny-Duval." The Emperor''s diplomatic outreach signals an effort to rebuild Imperial alliances after the NMLA crisis.'
 legacy_weight: 2
 significance: low
 ---
-
 
 Various Imperial allies, ambassadors and nobles have been Summoned to Capitol for a series of meetings With Emperor Arissa Lavigny-Duval.
 Political journalist Cassia Carvalho provided details for The Imperial Herald:

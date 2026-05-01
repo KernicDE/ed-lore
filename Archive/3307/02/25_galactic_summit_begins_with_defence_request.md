@@ -4,7 +4,8 @@ title: Galactic Summit Begins with Defence Request
 slug: galactic_summit_begins_with_defence_request
 date: 3307-02-25
 source: API
-arc_id: null
+summary: '*Pilots Federation ALERT* The Federation is working With Sirius Corporation to offer bounty hunting opportunities to protect the diplomatic conference.'
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
 persons:
 - Aisling Duval
 - Edmund Mahon
@@ -30,9 +31,10 @@ topics:
 - corporate expansion
 - diplomacy
 - war
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
-summary: "*Pilots Federation ALERT* The Federation is working With Sirius Corporation to offer bounty hunting opportunities to protect the diplomatic conference."
-modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+arc_id: null
+modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+legacy_weight: 1
+significance: low
 related_uuids:
 - fc197df5-b778-5964-a004-448689eba981
 - 3a299742-113f-5b36-98e2-a791ed35ae34
@@ -40,11 +42,9 @@ related_uuids:
 - 86eb9c0f-fa6b-5089-b6ae-d233a1e64339
 - 29fb3d22-b316-514e-95ed-4f188b9ed8f7
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
-legacy_weight: 1
-significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The Federation is working With Sirius Corporation to offer bounty hunting opportunities to protect the diplomatic conference.
 The first Galactic Summit has officially opened at Patterson Enterprise station in The Sirius system. Temporary permits have been issued to all arriving delegates and Commanders for the three weeks of Its term, although these do not apply to fleet carriers.
  Sirius Corporation’s CEO Li Yong-Rui announced:

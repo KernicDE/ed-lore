@@ -4,7 +4,13 @@ title: Thargoid Pulse Neutraliser Becomes Available
 slug: thargoid_pulse_neutraliser_becomes_available
 date: '3309-05-09'
 source: API
-entities: []
+summary: The Thargoid pulse neutraliser is now commercially available, enabling ships to penetrate Maelstrom energy waves and explore their cores.
+player_impact: Pilots who delivered materials can collect rewards. First 50 pilots who contributed unclassified relics receive a free neutraliser.
+persons:
+- Alba Tesreau
+- Aden Tanner
+- Ram Tah
+- Professor Palin
 groups:
 - Aegis
 - Federal Navy
@@ -18,15 +24,9 @@ topics:
 - exploration
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's framing — 'A small number of Aegis researchers will be among the first wave of pioneers' — shows scientific leadership. Tanner's warning — 'Whatever lies within the Maelstroms is almost certainly protected by further dangers' — is appropriately cautious. The reward for early contributors of unclassified relics acknowledges player history."
-persons:
-- Alba Tesreau
-- Aden Tanner
-- Ram Tah
-- Professor Palin
-player_impact: "Pilots who delivered materials can collect rewards. First 50 pilots who contributed unclassified relics receive a free neutraliser."
-summary: "The Thargoid pulse neutraliser is now commercially available, enabling ships to penetrate Maelstrom energy waves and explore their cores."
+modern_impact: Tesreau's framing — 'A small number of Aegis researchers will be among the first wave of pioneers' — shows scientific leadership. Tanner's warning — 'Whatever lies within the Maelstroms is almost certainly protected by further dangers' — is appropriately cautious. The reward for early contributors of unclassified relics acknowledges player history.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,7 +36,7 @@ related_uuids:
 - 75959975-677e-5ef0-a638-99ecddb6c873
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Aegis’s new module will allow ships to penetrate the energy wave protecting the central regions of the Maelstroms.
 Deliveries of cobalt, ion distributors and power converters were made to Clement Orbital in the YZ Ceti system. These allowed Aegis to build a manufacturing and distribution centre for Thargoid pulse neutralisers, which can now be purchased from technology brokers on rescue megaships.
 Professor Alba Tesreau released a statement regarding Aegis’s next steps:

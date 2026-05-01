@@ -22,14 +22,10 @@ topics:
 - investigation
 - ship
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: No Sign of Jaques Station
-
 
 Two weeks ago it was announced that Jaques Station, The galaxy's most famous travelling starport, would make an incredible long-distance jump from Gliese 1269 to Beagle Point. The proposed expedition received enthusiastic support from the galactic community, Which contributed thousands of tonnes of fuel to the ambitious campaign. 
 

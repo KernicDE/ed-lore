@@ -22,8 +22,6 @@ related_uuids:
 - db044a6e-332e-5023-8f20-a1c27974d897
 - d33c2337-8ce6-5941-ade9-90a742c87559
 ---
-Aegis Reduces Tech-Broker Requirements
-
 
 Aegis has announced that it will allow technology brokers to reduce their requirements for producing items, in order to increase overall combat effectiveness against The Thargoids. 
 

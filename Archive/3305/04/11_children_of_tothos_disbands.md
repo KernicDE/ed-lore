@@ -4,6 +4,8 @@ title: Children of Tothos Disbands
 slug: children_of_tothos_disbands
 date: '3305-04-11'
 source: GitHub
+summary: The Children of Tothos cult is forcibly disbanded after its failed nuclear attack on Archambault Terminal, with the FIA vowing to review other fringe religions and questions raised about regulation of nuclear research.
+player_impact: None — background crime report.
 persons:
 - Ethan Takahashi
 - Rochelle Karim
@@ -17,17 +19,12 @@ locations:
 topics:
 - crime
 - terrorism
-summary: The Children of Tothos cult is forcibly disbanded after its failed nuclear attack on Archambault Terminal, with the FIA vowing to review other fringe religions and questions raised about regulation of nuclear research.
-player_impact: None — background crime report.
 modern_impact: The cult's dissolution prompted tighter scrutiny of fringe religious movements across the Federation, though the question of whether other portable mass-casualty weapons exist remained unresolved.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 38a4203b-497e-5c23-9b87-f09bc128c5a6
 ---
-
-Children of Tothos Disbands
-
 
 The Children of Tothos cult has been forcibly disbanded following Its recent attempt to destroy Archambault Terminal With a nuclear weapon. 
 

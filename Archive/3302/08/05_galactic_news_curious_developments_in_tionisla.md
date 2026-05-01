@@ -13,20 +13,17 @@ groups:
 locations:
 - Tionisla
 - Tionisla Orbital Graveyard
-technologies:
-- Cobra Mk III
 topics:
 - ship
 - sport
 - trade
 - war
+technologies:
+- Cobra Mk III
 modern_impact: The mysterious beacon transmission from the Tionisla graveyard adds to the catalogue of unexplained deep-space signals and anomalies.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Curious Developments in Tionisla
-
 
 For The first time in over a hundred years, a new ship has been added to the Tionisla Orbital Graveyard. Established in the 3100s, the mausoleum was Originally a resting place for the rich and famous, but in the economic slump that befell the Old Worlds during that period, the graveyard fell into disuse. 
 

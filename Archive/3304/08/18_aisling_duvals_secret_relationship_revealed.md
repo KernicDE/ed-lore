@@ -1,6 +1,6 @@
 ---
 uuid: aed37642-53f2-57d4-9e1f-a49aa8ca8b77
-title: "Aisling Duval's Secret Relationship Revealed"
+title: Aisling Duval's Secret Relationship Revealed
 slug: aisling_duvals_secret_relationship_revealed
 date: '3304-08-18'
 source: GitHub
@@ -27,9 +27,6 @@ related_uuids:
 - 6ffabb44-eae5-526b-a1c5-4fdd043a1db8
 - c29acb57-2dff-58fc-95b5-009815fe9be9
 ---
-
-Aisling Duval’s Secret Relationship Revealed
-
 
 Anti-slavery campaigner Jarl Toredo has disclosed that he and Princess Aisling Duval have been conducting a secret romantic relationship, despite her betrothal to Federal Ambassador Jordan Rochester. 
 

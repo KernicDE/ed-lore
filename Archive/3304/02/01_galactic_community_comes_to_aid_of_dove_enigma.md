@@ -25,9 +25,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic Community Comes to Aid of Dove Enigma
-
-
 An attempt to sabotage The Dove Enigma, a Wells-class Carrier based in the Colonia system, has been thwarted by the galactic community. 
 
 The would-be saboteurs tried to destabilise the Vessel by flooding Its black market With Thargoid Sensors, Which have the capacity to damage ships and starports. Fortunately, the assault was countered by a group of pilots who delivered large quantities of meta-alloys to the ailing ship, thereby stabilising it. 

@@ -4,6 +4,8 @@ title: Superpowers Stand with Azimuth
 slug: superpowers_stand_with_azimuth
 date: '3308-06-22'
 source: API
+summary: The superpowers announce they will continue collaborating with Azimuth Biotech despite revelations about its past, with military leaders arguing Salvation's superweapon is indispensable for ending the Thargoid war.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Alba Tesreau
 - Conrad Sterling
@@ -24,13 +26,11 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-summary: The superpowers announce they will continue collaborating with Azimuth Biotech despite revelations about its past, with military leaders arguing Salvation's superweapon is indispensable for ending the Thargoid war.
-player_impact: Not specifically mentioned — this is a political report.
 modern_impact: The superpowers' decision to maintain their alliance with Azimuth despite evidence of war crimes established a precedent of military pragmatism overriding legal and moral accountability, setting the stage for the Proteus Wave catastrophe.
-related_uuids:
-- 6d163a8d-7539-5b90-955d-f084b5d63e52
 legacy_weight: 5
 significance: high
+related_uuids:
+- 6d163a8d-7539-5b90-955d-f084b5d63e52
 ---
 
 The Alliance, Empire and Federation will continue collaborating with Salvation and Azimuth Biotech on anti-xeno operations.

@@ -4,6 +4,11 @@ title: '''Significant Medical Emergency’ Strikes Seo Jin-ae'
 slug: significant_medical_emergency_strikes_seo_jin_ae
 date: '3310-10-18'
 source: API
+summary: Aegis special advisor Seo Jin-ae suffers a violent seizure and falls into a coma at a medical facility in Duamta, with Aegis Head Alba Tesreau confirming the incident and revealing Seo's incredibly high brain activity while unconscious.
+player_impact: Not specifically mentioned — this is a medical emergency report.
+persons:
+- Seo Jin-ae
+- Alba Tesreau
 groups:
 - Aegis
 locations:
@@ -12,16 +17,11 @@ topics:
 - alien contact
 - medicine
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Tesreau's confirmation that Seo experienced 'incredibly high brain activity' while unconscious validates the whistleblower's claim and establishes the factual basis for Rademaker's subsequent demands. The revelation that Seo's insight comes from a 'prototype cortical implant installed during the Project Seraph experiments' deepens the ethical questions around her exploitation. This incident is the turning point that leads to her hiatus from Aegis in 3311."
-persons:
-- Seo Jin-ae
-- Alba Tesreau
 technologies:
 - Cortical implant
 - Project Seraph
-player_impact: "Not specifically mentioned — this is a medical emergency report."
-summary: "Aegis special advisor Seo Jin-ae suffers a violent seizure and falls into a coma at a medical facility in Duamta, with Aegis Head Alba Tesreau confirming the incident and revealing Seo's incredibly high brain activity while unconscious."
+arc_id: thargoid-titan-war
+modern_impact: Tesreau's confirmation that Seo experienced 'incredibly high brain activity' while unconscious validates the whistleblower's claim and establishes the factual basis for Rademaker's subsequent demands. The revelation that Seo's insight comes from a 'prototype cortical implant installed during the Project Seraph experiments' deepens the ethical questions around her exploitation. This incident is the turning point that leads to her hiatus from Aegis in 3311.
 legacy_weight: 4
 significance: high
 related_uuids:

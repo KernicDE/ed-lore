@@ -4,6 +4,8 @@ title: Campaign for New Xeno Research Centre
 slug: campaign_for_new_xeno_research_centre
 date: '3305-02-07'
 source: GitHub
+summary: Dr Roy Casimir of the Holloway Bioscience Institute requests cobalt, indium, tantalum and exploration data to construct a xenological research centre in the Nahuaru system.
+player_impact: Pilots could deliver construction materials and exploration data to Williams Vision in Nahuaru for rewards.
 persons:
 - Roy Casimir
 groups:
@@ -15,17 +17,12 @@ topics:
 - exploration
 - research
 arc_id: thargoid-contact
-summary: Dr Roy Casimir of the Holloway Bioscience Institute requests cobalt, indium, tantalum and exploration data to construct a xenological research centre in the Nahuaru system.
-player_impact: Pilots could deliver construction materials and exploration data to Williams Vision in Nahuaru for rewards.
 modern_impact: The xenological research centre advanced scientific understanding of non-Thargoid alien lifeforms discovered through the Codex, broadening humanity's biological knowledge beyond the Thargoid focus.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 2adfa2ab-84b2-5474-b046-a6c5e94ba2ba
 ---
-
-Campaign for New Xeno-Research Centre
-
 
 Dr Roy Casimir of The Holloway Bioscience Institute has announced plans to construct a research centre focusing on new life forms discovered by the galactic community: 
 

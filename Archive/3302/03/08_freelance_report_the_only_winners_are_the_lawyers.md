@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: The Only Winners are the Lawyers
-
-
 Controversial chef Oliver Gordon experienced a different kind of heat today, as he was served With a writ demanding he change the name of his restaurant 'PanGalactic'. 
 
 Lawyers for the Pan Galactic Mining Corp told members of the press that: "Our clients want to make clear that This restaurant and Its head chef have no connection whatsoever to their corporation. As such, they have served notice regarding the name 'PanGalactic', and will pursue the case vigorously." 

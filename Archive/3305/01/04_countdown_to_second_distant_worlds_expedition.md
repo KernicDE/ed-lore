@@ -4,6 +4,8 @@ title: Countdown to Second Distant Worlds Expedition
 slug: countdown_to_second_distant_worlds_expedition
 date: '3305-01-04'
 source: GitHub
+summary: The second Distant Worlds expedition prepares to launch, with nearly four thousand Commanders set to travel over 200,000 light years through the galactic core, including construction of a research starport near Sagittarius A*.
+player_impact: Nearly four thousand Commanders signed up to participate in the expedition.
 persons:
 - Leon Banerjee
 - Erimus Kamzel
@@ -20,8 +22,6 @@ topics:
 - research
 - construction
 arc_id: distant-worlds-3
-summary: The second Distant Worlds expedition prepares to launch, with nearly four thousand Commanders set to travel over 200,000 light years through the galactic core, including construction of a research starport near Sagittarius A*.
-player_impact: Nearly four thousand Commanders signed up to participate in the expedition.
 modern_impact: Distant Worlds II became the largest coordinated exploration fleet in history, establishing permanent infrastructure in the Galactic Centre and inspiring future generations of deep-space explorers.
 legacy_weight: 5
 significance: high
@@ -29,9 +29,6 @@ related_uuids:
 - 380023e7-03d4-5f9b-957c-e3ce92642a28
 - 18391d47-7d7f-5403-92e1-d6f8153a3112
 ---
-
-Countdown to Second Distant Worlds Expedition
-
 
 Preparations are underway for The second Distant Worlds expedition, Which will see a community of explorers cross the galaxy. 
 

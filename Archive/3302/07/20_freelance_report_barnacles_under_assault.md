@@ -12,20 +12,16 @@ groups: []
 locations:
 - Merope
 - Pleiades Nebula
-technologies:
-- meta-alloys
 topics:
 - research
 - ship
+technologies:
+- meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Barnacles under Assault
-
 
 The recent meta-alloy rush has left Many of the barnacles in the Pleiades Nebula barren. 
 

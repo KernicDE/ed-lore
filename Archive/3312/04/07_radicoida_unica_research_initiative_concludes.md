@@ -4,6 +4,10 @@ title: Radicoida Unica Research Initiative Concludes
 slug: radicoida_unica_research_initiative_concludes
 date: 3312-04-07
 source: API
+summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October Consortium calls for harvesting to support pharmacological research. Exogene Sciences is collection point.
+player_impact: 'New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP 87621. Plant entered active reproductive phase. Hazardous surface conditions.'
+persons:
+- Dr. Roy Casimir
 groups:
 - October Consortium
 locations:
@@ -12,16 +16,12 @@ locations:
 topics:
 - research
 - war
+technologies:
+- Radicoida unica
 arc_id: hip87621-conflict
 modern_impact: Mass seed pod collection provides October Consortium with unprecedented biological material stockpile. Dr. Casimir's explicit denial of a Ventura connection actually amplifies suspicion by raising the comparison, suggesting the wellness trend and Radicoida research may eventually converge in public consciousness.
 legacy_weight: 4
 significance: high
-persons:
-- Dr. Roy Casimir
-technologies:
-- Radicoida unica
-player_impact: "New CG: collect Radicoida unica seed pods at Exogene Sciences in HIP 87621. Plant entered active reproductive phase. Hazardous surface conditions."
-summary: Radicoida unica in HIP 87621 enters bloom phase producing seed pods. October Consortium calls for harvesting to support pharmacological research. Exogene Sciences is collection point.
 related_uuids:
 - 5a71a938-54b4-516c-a9c2-96aea2e3e6d3
 ---

@@ -25,8 +25,6 @@ related_uuids:
 - 34982e5c-4fd7-5b67-b8c5-d8a11abae5e5
 - f0f6f3b5-820c-54b2-add3-229e4f9f610e
 ---
-Aegis Installation Campaign
-
 
 Aegis has announced plans to build a military installation in The Pleiades Sector IR-W d1-55. 
 

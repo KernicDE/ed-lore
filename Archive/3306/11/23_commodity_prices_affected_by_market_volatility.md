@@ -4,18 +4,15 @@ title: Commodity Prices Affected by Market Volatility
 slug: commodity_prices_affected_by_market_volatility
 date: '3306-11-23'
 source: GitHub
-groups:
-- Pilots Federation
+summary: Volatile trading markets cause widespread price changes on commodities, particularly mined materials like painite. Professor Ophelia Kaufmann links the instability to political tensions between the Empire and Federation.
+player_impact: None
 persons:
 - Ophelia Kaufmann
+groups:
+- Pilots Federation
 topics:
 - trade
-summary: Volatile trading markets cause widespread price changes on commodities, particularly
-  mined materials like painite. Professor Ophelia Kaufmann links the instability to
-  political tensions between the Empire and Federation.
-player_impact: None
-modern_impact: Market volatility during superpower tensions affects commodity trading
-  across the galaxy.
+modern_impact: Market volatility during superpower tensions affects commodity trading across the galaxy.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -23,10 +20,7 @@ related_uuids:
 - a8b6f811-b9f8-58f0-9df9-821f2cf90668
 ---
 
-Commodity Prices Affected by Market Volatility
-
-
-*Pilots Federation ALERT* 
+**Pilots Federation ALERT** 
 
 Volatile trading markets have caused widespread price changes on Several commodities, With a focus on The mining sector. 
 

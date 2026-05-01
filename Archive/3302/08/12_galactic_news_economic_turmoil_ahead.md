@@ -16,7 +16,6 @@ groups:
 - MetaDrive Inc.
 locations:
 - Chi Orionis
-technologies: []
 topics:
 - corporate expansion
 - diplomacy
@@ -24,13 +23,11 @@ topics:
 - ship
 - sport
 - trade
+technologies: []
 modern_impact: Corporate R&D shifts and the MetaDrive investment opportunity foreshadow future hyperdrive technological developments and market volatility.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Economic Turmoil Ahead?
-
 
 According to The Galactic Finance Times, analysis of the largest corporations in the Federation and the Empire reveals evidence of a significant economic downturn in the coming years. 
 

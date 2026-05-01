@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Order Restored in Wangal
-
-
 Angeli Imperial Enterprises has announced that Its campaign to clear The Wangal system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
 Authorities in Wangal have extended their gratitude to those who participated in the operation. 

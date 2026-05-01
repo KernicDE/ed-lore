@@ -1,6 +1,6 @@
 ---
 uuid: 740fb3cb-eeb4-51e1-8c4c-42e96cc0261b
-title: "Classic Children's Show Returns"
+title: Classic Children's Show Returns
 slug: classic_childrens_show_returns
 date: '3304-07-28'
 source: GitHub
@@ -19,9 +19,6 @@ modern_impact: The Andromedaries reboot exemplifies the tension between nostalgi
 legacy_weight: 2
 significance: low
 ---
-
-Classic Children’s Show Returns
-
 
 A children’s entertainment show that achieved great popularity 40 years ago is being remade for modern audiences. 
 

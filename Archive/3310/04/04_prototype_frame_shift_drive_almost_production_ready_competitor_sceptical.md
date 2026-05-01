@@ -4,6 +4,9 @@ title: Prototype Frame Shift Drive almost production ready, competitor sceptical
 slug: prototype_frame_shift_drive_almost_production_ready_competitor_sceptical
 date: '3310-04-04'
 source: API
+summary: Achilles Aerospace announces their prototype Frame Shift Drive is nearly production-ready thanks to materials from Titan Taranis wreckage, while Sirius Corporation remains sceptical.
+player_impact: Over 5000 independent pilots entered the hazardous wreckage of Titan Taranis to retrieve Titan Drive Components for Achilles Aerospace.
+persons: []
 groups:
 - Achilles Aerospace
 - Sirius Corporation
@@ -14,14 +17,11 @@ topics:
 - independence
 - research
 - ship
-arc_id: null
-modern_impact: "Sirius's dismissive response — 'If Achilles can produce something other than words we will be happy to comment further' — is classic incumbent arrogance facing disruptive competition. The revelation that over 5000 pilots retrieved materials from the Taranis wreckage shows the scale of community participation. The framing of 'Titan technology' as the basis for a new FSD establishes a direct link between the Thargoid war and technological progress."
-persons: []
 technologies:
 - Frame Shift Drive
 - Titan Drive Components
-player_impact: "Over 5000 independent pilots entered the hazardous wreckage of Titan Taranis to retrieve Titan Drive Components for Achilles Aerospace."
-summary: "Achilles Aerospace announces their prototype Frame Shift Drive is nearly production-ready thanks to materials from Titan Taranis wreckage, while Sirius Corporation remains sceptical."
+arc_id: null
+modern_impact: Sirius's dismissive response — 'If Achilles can produce something other than words we will be happy to comment further' — is classic incumbent arrogance facing disruptive competition. The revelation that over 5000 pilots retrieved materials from the Taranis wreckage shows the scale of community participation. The framing of 'Titan technology' as the basis for a new FSD establishes a direct link between the Thargoid war and technological progress.
 legacy_weight: 4
 significance: high
 related_uuids:

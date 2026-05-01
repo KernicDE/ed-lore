@@ -4,25 +4,22 @@ title: Galactic News  Faction's Appeal Successful
 slug: galactic_news_factions_appeal_successful
 date: '3302-01-21'
 source: GitHub
+summary: The Green Party of HIP 112974 announced that its appeal for Onionhead was successful. Traders delivered the narcotic to la Cosa City while combat pilots defended the spaceways. The faction will now establish a new onionhead-trading operation.
+player_impact: Pilots who contributed to the Onionhead delivery or defended traders can collect rewards from la Cosa City in HIP 112974.
 groups:
 - Green Party of HIP 112974
 locations:
 - HIP 112974
 - la Cosa City
-technologies:
-- Onionhead
 topics:
 - narcotics
 - trade
-summary: The Green Party of HIP 112974 announced that its appeal for Onionhead was successful. Traders delivered the narcotic to la Cosa City while combat pilots defended the spaceways. The faction will now establish a new onionhead-trading operation.
-player_impact: Pilots who contributed to the Onionhead delivery or defended traders can collect rewards from la Cosa City in HIP 112974.
+technologies:
+- Onionhead
 modern_impact: Documents the ongoing trade and conflict surrounding Onionhead in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Faction's Appeal Successful
-
 
 According a statement from The Green Party of HIP 112974, the faction's recent appeal for Onionhead has been successful. In the statement, a spokesperson confirmed the faction had received sufficient quantities of the drug to establish a new onionhead-trading operation: 
 

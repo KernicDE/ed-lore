@@ -24,9 +24,6 @@ related_uuids:
 - 1afd3193-1f8d-51ed-b04a-46317a5e1cae
 ---
 
-Pleiades Rescue Operation Concludes
-
-
 A spokesperson for The Aegis Research has announced that Its rescue operation in the Pleiades has been enthusiastically assisted by the galactic community. Hundreds of pilots supported the operation by delivering stranded survivors and commodities to Donar's Oak in the Pleiades Sector IR-W d1-55 system. 
 
 Superintendent Marla Poulsen of Aegis Research released The following statement: 

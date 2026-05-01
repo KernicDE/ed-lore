@@ -4,31 +4,23 @@ title: Community Goal  Winged Hussars Appeal
 slug: community_goal_winged_hussars_appeal
 date: '3303-09-29'
 source: GitHub
-summary: The Winged Hussars announce plans to establish a recreational installation
-  and tourist beacon in the HIP 110028 system near an Earth-like world. The organisation
-  has requested various rare liquors for delivery to Zander Dock to cater to wealthy
-  tourists from core systems.
-player_impact: Deliver Lavian Brandy, Eranin Pearl Whisky, Kongga Ale, Leestian Evil
-  Juice, Indi Bourbon and Bast Snake Gin to Zander Dock in HIP 110028.
+summary: The Winged Hussars announce plans to establish a recreational installation and tourist beacon in the HIP 110028 system near an Earth-like world. The organisation has requested various rare liquors for delivery to Zander Dock to cater to wealthy tourists from core systems.
+player_impact: Deliver Lavian Brandy, Eranin Pearl Whisky, Kongga Ale, Leestian Evil Juice, Indi Bourbon and Bast Snake Gin to Zander Dock in HIP 110028.
 persons: []
 groups:
 - Winged Hussars
 locations:
 - HIP 110028
 - Zander Dock
-technologies: []
 topics:
 - construction
 - tourism
 - trade
-modern_impact: The Winged Hussars' tourism installation in HIP 110028 exemplifies how
-  independent groups use community support to develop border-colony economies.
+technologies: []
+modern_impact: The Winged Hussars' tourism installation in HIP 110028 exemplifies how independent groups use community support to develop border-colony economies.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Winged Hussars Appeal
-
 
 The Winged Hussars have announced plans to establish a recreational installation and a tourist beacon in the HIP 110028 system, next to a little-visited Earth-like world. 
 

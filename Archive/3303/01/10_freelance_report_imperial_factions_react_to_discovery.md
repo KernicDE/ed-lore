@@ -14,17 +14,14 @@ groups:
 - 9th Legion
 locations:
 - Kamadhenu
-technologies: []
 topics:
 - alien contact
 - ship
+technologies: []
 modern_impact: Imperial factions establish early non-aggression protocols toward alien vessels, advising against rash engagement.
 legacy_weight: 1
 significance: low
 ---
-
-Freelance Report: Imperial Factions React to Discovery
-
 
 In recent days, a number of pilots have reported being pulled from hyperspace by alien-looking ships. Reactions have ranged from shock and fear to curiosity and excitement. 
 

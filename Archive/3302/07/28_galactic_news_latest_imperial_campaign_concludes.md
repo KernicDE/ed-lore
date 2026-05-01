@@ -12,19 +12,16 @@ groups:
 locations:
 - Carthage
 - Marker Depot
+topics:
+- construction
 technologies:
 - Majestic-class Interdictor
 - thallium
 - thermal cooling units
 - CMM composites
-topics:
-- construction
 modern_impact: Infrastructure project with long-term benefits.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Latest Imperial Campaign Concludes
-
 
 Lavigny's Legion, an Imperial organisation based in The Carthage system, has announced that Its appeal for construction materials has reached a successful conclusion. Scores of Independent pilots supported the campaign by delivering thallium, thermal cooling units and CMM composites to Marker Depot in the Carthage system. The organisation is now In a position to proceed With its campaign to construct three new Majestic-class Interdictors.

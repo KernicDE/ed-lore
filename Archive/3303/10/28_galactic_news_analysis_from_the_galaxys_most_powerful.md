@@ -18,21 +18,17 @@ groups:
 locations:
 - Cubeo
 - Sirius
-technologies: []
 topics:
 - alien contact
 - corporate expansion
 - research
 - politics
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Analysis from The Galaxy’s Most Powerful
-
 
 A number of the galaxy’s most powerful figures have commented on the current galactic landscape, addressing issues such As the return of Thargoids and the recent discovery of outposts formerly occupied by the Intergalactic Naval Reserve Arm. 
 

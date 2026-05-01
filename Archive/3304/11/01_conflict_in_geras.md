@@ -22,9 +22,6 @@ related_uuids:
 - 9dd7aeb3-bfaa-57cd-a120-cba857134b07
 ---
 
-Conflict in Geras
-
-
 Recent reports from The Geras system indicate that after a spate of reciprocal attacks, hostilities between Geras First and Ndozins State Inc have escalated into all-out war. 
 
 According to Donal Varden, an Independent journalist: 

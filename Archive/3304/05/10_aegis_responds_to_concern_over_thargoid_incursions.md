@@ -22,9 +22,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Aegis Responds to Concern over Thargoid Incursions
-
-
 There has been widespread disquiet over recent reports that Thargoid ships have been encountered In The core systems. 
 
 The level of anxiety is exemplified by political spokesperson Councillor Rasmus Tseng, who said: 

@@ -4,15 +4,8 @@ title: Presidential Campaigns Target Federal Voters
 slug: presidential_campaigns_target_federal_voters
 date: '3309-05-22'
 source: API
-entities: []
-groups:
-- Federal Times
-locations:
-- Sol
-topics:
-- politics
-arc_id: null
-modern_impact: "Trevino's summary of the candidates — Archer as 'similar leadership style and focus on interstellar security,' Winters as 'more humanitarian approach,' Rackham as 'the wild card' — is concise. Chen's analysis — 'Federal newsfeeds focus more on character than policies' — is a media critique. The observation that 'some are even wondering if this might be the last president they ever elect' captures wartime anxiety."
+summary: The three presidential candidates ramp up campaigns for the delayed August election, with media coverage focusing on character over policy and the war casting a shadow over voter optimism.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Jerome Archer
 - Felicia Winters
@@ -21,8 +14,15 @@ persons:
 - Patricia Chen
 - Sura Oyekan
 - Isolde Rochester
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "The three presidential candidates ramp up campaigns for the delayed August election, with media coverage focusing on character over policy and the war casting a shadow over voter optimism."
+groups:
+- Federal Times
+locations:
+- Sol
+topics:
+- politics
+entities: []
+arc_id: null
+modern_impact: Trevino's summary of the candidates — Archer as 'similar leadership style and focus on interstellar security,' Winters as 'more humanitarian approach,' Rackham as 'the wild card' — is concise. Chen's analysis — 'Federal newsfeeds focus more on character than policies' — is a media critique. The observation that 'some are even wondering if this might be the last president they ever elect' captures wartime anxiety.
 legacy_weight: 5
 significance: high
 related_uuids:

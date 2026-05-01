@@ -22,14 +22,10 @@ topics:
 - medicine
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Collaborative Effort to Restore Ackerman Market
-
 
 Ackerman Market in Eravate is just One of The stations affected by the plague. Before it was shut down it was a popular rest stop for Commanders embarking on new careers in space. Just a few days ago Its commodities market reopened, and a huge demand for meta-alloys has been reported. 
 

@@ -4,7 +4,8 @@ title: The Time for Aegis?
 slug: the_time_for_aegis
 date: '3308-12-27'
 source: API
-arc_id: null
+summary: Professor Alba Tesreau has again called for the anti-xeno initiative Aegis to be reformed by the superpowers.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Alba Tesreau
 - Angela Corcoran
@@ -18,21 +19,16 @@ topics:
 - research
 - succession
 - war
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: Professor Alba Tesreau has again called for the anti-xeno initiative Aegis
-  to be reformed by the superpowers.
-modern_impact: '"The arrival of the Maelstroms has escalated the Second Thargoid War
-  beyond anything we have experienced before. The T..." This call for collaboration
-  continues to resonate in discussions about superpower unity against the Thargoids.'
+arc_id: null
+modern_impact: '"The arrival of the Maelstroms has escalated the Second Thargoid War beyond anything we have experienced before. The T..." This call for collaboration continues to resonate in discussions about superpower unity against the Thargoids.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 - d8b14f7a-0b22-5f2d-a164-45b74638e864
 - ae551de7-6ccc-55b7-a142-8e77ac721dce
-legacy_weight: 5
-significance: high
 ---
 
 Professor Alba Tesreau has again called for the anti-xeno initiative Aegis to be reformed by the superpowers.

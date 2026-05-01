@@ -13,18 +13,15 @@ groups:
 locations:
 - Parun
 - Underwood Port
-technologies: []
 topics:
 - crime
 - ship
 - war
+technologies: []
 modern_impact: Bounty campaign successfully thwarts an Imperial-aligned smuggling operation in Parun.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Laksmii Jet Power Industries Operation Thwarted
-
 
 Authorities in The Parun system have reported that the Laksmii Jet Power Industries plot against the Independents of Parun has been foiled. The operation centred on smuggling various items into Underwood Port so Imperial agents could use it to conduct guerrilla attacks against the  Independents of Parun, the system's controlling faction. 
 

@@ -4,12 +4,8 @@ title: Galactic News  Ant Hill Mob Wins
 slug: galactic_news_ant_hill_mob_wins
 date: '3302-11-17'
 source: GitHub
-summary: The Pleiades Resource Enterprise has once again emerged victorious from its conflict
-  with the Ant Hill Mob in the Maia system. Despite hundreds of independent pilots supporting
-  the Ant Hill Mob by targeting PRE fighters and delivering battle weapons, the Enterprise
-  maintained its position.
-player_impact: Pilots who contributed to the initiative can collect their rewards from
-  Obsidian Orbital in the Maia system.
+summary: The Pleiades Resource Enterprise has once again emerged victorious from its conflict with the Ant Hill Mob in the Maia system. Despite hundreds of independent pilots supporting the Ant Hill Mob by targeting PRE fighters and delivering battle weapons, the Enterprise maintained its position.
+player_impact: Pilots who contributed to the initiative can collect their rewards from Obsidian Orbital in the Maia system.
 persons: []
 groups:
 - Pleiades Resource Enterprise
@@ -20,16 +16,12 @@ locations:
 topics:
 - ship
 - war
+technologies: []
 arc_id: pleiades-expansion
-modern_impact: The Pleiades Resource Enterprise's second victory over the Ant Hill Mob
-  in Maia solidified its foothold in the system despite sustained independent opposition.
+modern_impact: The Pleiades Resource Enterprise's second victory over the Ant Hill Mob in Maia solidified its foothold in the system despite sustained independent opposition.
 legacy_weight: 3
 significance: medium
-technologies: []
 ---
-
-Galactic News: Ant Hill Mob Wins
-
 
 Media outlets in Maia have reported that The Pleiades Resource Enterprise has once again emerged victorious from a conflict With the Ant Hill Mob. The battle, instigated by the Ant Hill Mob, was designed to weaken the Enterprise's position in Maia. 
 

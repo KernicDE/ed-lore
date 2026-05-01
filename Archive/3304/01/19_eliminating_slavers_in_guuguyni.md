@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Eliminating Slavers in Guuguyni
-
-
 Princess Aisling Duval has announced plans to fund a peacekeeping operation in The Guuguyni system. The operation's primary purpose is to neutralise an illegal slave-trading ring in the region. 
 
 Princess Duval released The following statement, elaborating on the nature of the campaign: 

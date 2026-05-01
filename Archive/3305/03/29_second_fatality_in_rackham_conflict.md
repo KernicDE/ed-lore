@@ -4,6 +4,8 @@ title: Second Fatality in Rackham Conflict
 slug: second_fatality_in_rackham_conflict
 date: '3305-03-29'
 source: GitHub
+summary: Rackham Capital's head of personnel Derrin O'Shea dies in a limousine 'accident', becoming the second senior executive to die since Taja Gavaris's arrival, with journalist Bryanna Blanco drawing parallels to pirate power struggles.
+player_impact: None — background investigative report.
 persons:
 - Bryanna Blanco
 - Zachary Rackham
@@ -16,8 +18,6 @@ topics:
 - crime
 - investigation
 - corporate expansion
-summary: Rackham Capital's head of personnel Derrin O'Shea dies in a limousine 'accident', becoming the second senior executive to die since Taja Gavaris's arrival, with journalist Bryanna Blanco drawing parallels to pirate power struggles.
-player_impact: None — background investigative report.
 modern_impact: O'Shea's death confirmed the deadly nature of the Rackham-Gavaris power struggle, with each fatality strengthening Gavaris's position while authorities repeatedly declined to intervene.
 legacy_weight: 3
 significance: medium
@@ -25,9 +25,6 @@ related_uuids:
 - 00fe0a42-2a91-5550-8f3e-8e9e318dee09
 - e0a425f0-647f-5b53-980f-fde82e4ccbde
 ---
-
-Second Fatality in Rackham Conflict
-
 
 The head of personnel at Rackham Capital Investments has died in an accident, becoming the second senior-level employee to have died in recent weeks. 
 

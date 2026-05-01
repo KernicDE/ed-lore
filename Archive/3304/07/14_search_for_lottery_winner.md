@@ -20,9 +20,6 @@ related_uuids:
 - ed6adddd-c9c1-5fb8-ab02-8185dd679153
 ---
 
-Search for Lottery Winner
-
-
 An appeal has been launched to find The owner of a lottery ticket worth One billion credits. 
 
 The Federal Grand Lottery is the largest of Its kind, regularly handing out millions of credits. The Grand Lottery also funds a wide range of social and infrastructure projects in Federation systems. 

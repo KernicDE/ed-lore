@@ -4,14 +4,10 @@ title: Talk Show Murder Broadcast
 slug: talk_show_murder_broadcast
 date: '3308-10-20'
 source: API
+summary: Channel 07 has intercepted footage of a violent attack on three talk show hosts, broadcast live on several Imperial newsfeeds.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 arc_id: null
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: Channel 07 has intercepted footage of a violent attack on three talk show
-  hosts, broadcast live on several Imperial newsfeeds.
-modern_impact: '"Channel 07 has intercepted footage of a violent attack on three talk
-  show hosts, broadcast live on several Imperial n..." This perspective highlights
-  the broader stakes and continues to shape contemporary debates.'
+modern_impact: '"Channel 07 has intercepted footage of a violent attack on three talk show hosts, broadcast live on several Imperial n..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
 legacy_weight: 2
 significance: low
 ---

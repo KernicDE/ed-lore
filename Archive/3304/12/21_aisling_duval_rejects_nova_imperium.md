@@ -28,9 +28,6 @@ related_uuids:
 - bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
 ---
 
-Aisling Duval Rejects Nova Imperium
-
-
 Princess Aisling Duval has publicly rejected The isolationist group Nova Imperium and Its figurehead, Hadrian Duval: 
 
 “These extremists cause only division. Hadrian may well be the grandson of Hengist Duval, but that hardly makes him suited to the throne. Arissa has been silent for too long – she must act quickly to resolve This volatile situation.” 

@@ -24,9 +24,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: Diplomatic Summit in Alioth
-
-
 A summit for The Alliance of Independent Systems was held at Irkutsk Station This week, attended by ambassadors and diplomatic envoys from an array of political backgrounds. Eleven fleets, from both Alliance and independent governments, were represented. 
 
 The main topic under discussion was establishing a framework for a quick-response force to protect parties from the growing threat of Imperial and Federal expansion. Other Topics included factional sovereignty, self governance, the benefits of free trade, and the role of communication in maintaining civility across diverse cultures. 

@@ -4,6 +4,8 @@ title: Alliance-Sirius Pact Accelerated
 slug: alliance_sirius_pact_accelerated
 date: '3308-08-15'
 source: API
+summary: Prime Minister Edmund Mahon and Sirius Corporation CEO Li Yong-Rui accelerate the strategic defence pact after the HIP 22460 disaster, appointing Admiral Nikolas Glass to coordinate all anti-xeno operations for the Alliance Defence Force.
+player_impact: Not specifically mentioned — this is a policy announcement.
 persons:
 - Edmund Mahon
 - Li Yong-Rui
@@ -21,8 +23,6 @@ topics:
 - politics
 - war
 arc_id: null
-summary: Prime Minister Edmund Mahon and Sirius Corporation CEO Li Yong-Rui accelerate the strategic defence pact after the HIP 22460 disaster, appointing Admiral Nikolas Glass to coordinate all anti-xeno operations for the Alliance Defence Force.
-player_impact: Not specifically mentioned — this is a policy announcement.
 modern_impact: The accelerated pact formalised the Alliance's military dependence on Sirius Corporation, using the HIP 22460 catastrophe as justification for deeper corporate integration into Allied defence infrastructure.
 legacy_weight: 5
 significance: high

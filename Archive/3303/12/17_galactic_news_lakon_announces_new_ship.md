@@ -11,19 +11,16 @@ groups:
 - Alliance
 - Lakon Spaceways
 locations: []
-technologies:
-- Type-10 Defender
 topics:
 - alien contact
 - ship
+technologies:
+- Type-10 Defender
 arc_id: thargoid-contact
 modern_impact: The Type-10 Defender is the Alliance's first dedicated military response to the Thargoid threat, signaling a shift toward combat-oriented ship design.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Lakon Announces New Ship
-
 
 The Alliance has commissioned Lakon Spaceways to produce a new ship in response to the recent Thargoid attacks in the Pleiades. The Vessel, Which has been named the Type-10 Defender, represents a comprehensive revision of the Type–9 Heavy. 
 

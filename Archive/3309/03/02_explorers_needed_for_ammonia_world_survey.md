@@ -4,7 +4,12 @@ title: Explorers Needed for Ammonia World Survey
 slug: explorers_needed_for_ammonia_world_survey
 date: '3309-03-02'
 source: API
-entities: []
+summary: Universal Cartographics launches a survey of ammonia worlds to identify potential Thargoid staging grounds, building on the connection between Maelstroms and ammonia-based biochemistry.
+player_impact: Pilots can obtain increased payouts for delivering cartographic survey data of ammonia worlds to Angus Manwaring starport in Eta Cassiopeiae.
+persons:
+- Cynthia Sideris
+- Maximilian North
+- Tom Gillespie
 groups:
 - Aegis
 - Universal Cartographics
@@ -15,14 +20,9 @@ topics:
 - alien contact
 - exploration
 - research
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Sideris's explanation — 'It is no coincidence that each Maelstrom is located in a system containing such worlds, given that Thargoid biochemistry is ammonia-based' — establishes the scientific rationale. The historical reference to Sirius Atmospherics' 3306 terraforming project and Dr North's admission of 'practical obstacles' adds context. The 'potential staging grounds for Thargoid fleets and arrival points for additional Maelstroms' frames the strategic purpose."
-persons:
-- Cynthia Sideris
-- Maximilian North
-- Tom Gillespie
-player_impact: "Pilots can obtain increased payouts for delivering cartographic survey data of ammonia worlds to Angus Manwaring starport in Eta Cassiopeiae."
-summary: "Universal Cartographics launches a survey of ammonia worlds to identify potential Thargoid staging grounds, building on the connection between Maelstroms and ammonia-based biochemistry."
+modern_impact: Sideris's explanation — 'It is no coincidence that each Maelstrom is located in a system containing such worlds, given that Thargoid biochemistry is ammonia-based' — establishes the scientific rationale. The historical reference to Sirius Atmospherics' 3306 terraforming project and Dr North's admission of 'practical obstacles' adds context. The 'potential staging grounds for Thargoid fleets and arrival points for additional Maelstroms' frames the strategic purpose.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,7 +30,7 @@ related_uuids:
 - 2e7e258a-5974-5a34-b102-93d10a22c438
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Universal Cartographics has announced a two-week initiative to locate planets with ammonia atmospheres.
 The survey was outlined by Cynthia Sideris, chairperson of Universal Cartographics:
 “Aegis has urgently requested an update to our database of terrestrial planets with ammonia atmospheres. It is no coincidence that each Maelstrom is located in a system containing such worlds, given that Thargoid biochemistry is ammonia-based.”

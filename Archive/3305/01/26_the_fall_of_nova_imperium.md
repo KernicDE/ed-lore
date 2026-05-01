@@ -4,6 +4,8 @@ title: The Fall of Nova Imperium
 slug: the_fall_of_nova_imperium
 date: '3305-01-26'
 source: GitHub
+summary: Security forces carry out a coordinated Empire-wide purge of Nova Imperium, executing members and arresting supporters for treason, though the organisation retains control of the Paresa system under Hadrian Duval.
+player_impact: None — background political report.
 persons:
 - Cassia Carvalho
 - Arissa Lavigny-Duval
@@ -20,8 +22,6 @@ topics:
 - succession
 - politics
 arc_id: nova-imperium
-summary: Security forces carry out a coordinated Empire-wide purge of Nova Imperium, executing members and arresting supporters for treason, though the organisation retains control of the Paresa system under Hadrian Duval.
-player_impact: None — background political report.
 modern_impact: The Fall of Nova Imperium demonstrated Emperor Arissa's strategic patience and ruthless efficiency, but her failure to eliminate Hadrian Duval in Paresa ensured the isolationist movement would survive as a persistent political force.
 legacy_weight: 5
 significance: high
@@ -29,9 +29,6 @@ related_uuids:
 - 16fc73a3-70e2-5e55-9d43-8f9f4582e10c
 - 9011873f-3bae-55e7-b912-649ade176315
 ---
-
-The Fall of Nova Imperium
-
 
 Security forces across the Empire have carried out a coordinated purge of the isolationist group Nova Imperium. 
 

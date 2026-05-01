@@ -12,14 +12,10 @@ topics:
 - construction
 - exploration
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
-  new frontiers for exploration and potentially first contact.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---
-
-Unity Starport Officially Opens in New Yembo
-
 
 Today marks The official opening of The first Deep Space Exploration Platform being sponsored by the Explorers’ Association in conjunction With Universal Cartographics. The station will initially be housed in New Yembo, a resource rich system on the outer edges of human-occupied space. 
 

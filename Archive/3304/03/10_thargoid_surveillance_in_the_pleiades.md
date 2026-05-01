@@ -28,9 +28,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Thargoid Surveillance in The Pleiades
-
-
 Aegis has launched an operation to monitor Thargoid activity in the Pleiades Nebula. 
 
 Admiral Aden Tanner, chief military liaison at Aegis, made This statement: 

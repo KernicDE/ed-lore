@@ -21,9 +21,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Thargoid-Sensor Disruption Neutralised
-
-
 Aegis has announced a breakthrough that has effectively neutralised The disruptive effects of Thargoid Sensors on starports. 
 
 Henrik de Lacerda, a senior engineer at Aegis Research, told the media: 

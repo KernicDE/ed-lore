@@ -11,14 +11,10 @@ topics:
 - humanitarian
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-The War for Lugh: The Turning Point
-
 
 The turning point in the war came during the Federation’s attack on Read Gateway. 
 

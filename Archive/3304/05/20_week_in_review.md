@@ -38,9 +38,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 A member of The Council of Admirals, Which commands the Alliance Defence Force, has been Murdered. The League of Reparation has claimed responsibility. It has been confirmed that an ancestor of the victim, Fleet Admiral Buchanan, was a senior commander in the INRA. It has also been suggested that the League’s assassins are being aided by sympathetic individuals in positions of influence. 

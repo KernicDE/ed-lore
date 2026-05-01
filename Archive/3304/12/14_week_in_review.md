@@ -41,9 +41,6 @@ related_uuids:
 - e276e873-4472-55b5-a28a-df08a91ee40a
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 A new networked system named The Codex has been released to the galactic community.  

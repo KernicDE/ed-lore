@@ -4,7 +4,8 @@ title: Sirius Corporation Secures Hosting of Galactic Summit
 slug: sirius_corporation_secures_hosting_of_galactic_summit
 date: 3307-01-28
 source: API
-arc_id: null
+summary: '*Pilots Federation ALERT* Sirius Corporation has received more data than Utopia and will therefore host The Galactic Summit.'
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
 persons:
 - Its
 - Li Yong-Rui
@@ -23,9 +24,10 @@ topics:
 - cyberattack
 - diplomacy
 - war
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
-summary: "*Pilots Federation ALERT* Sirius Corporation has received more data than Utopia and will therefore host The Galactic Summit."
-modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+arc_id: null
+modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
 - 88d977ef-239d-5da9-8e26-e9df458c49d2
@@ -33,11 +35,9 @@ related_uuids:
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 - fc197df5-b778-5964-a004-448689eba981
 - 9243011a-ed83-592c-9dcd-6cefc68679cf
-legacy_weight: 2
-significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Sirius Corporation has received more data than Utopia and will therefore host The Galactic Summit.
 Both organisations proposed to organise a diplomatic conference for the Alliance, Empire and Federation. After calling on the galactic community to gather data that would support security operations, Many pilots handed in anomalous bulk scan data, atypical disrupted wake echoes, exceptional scrambled emission data and unusual encrypted files.
 All three superpower governments confirmed that due to Its success in preparing effective security systems, they will accept Sirius Corporation As the neutral territory for the conference.

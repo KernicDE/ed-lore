@@ -4,27 +4,22 @@ title: Lakon Spaceways Rejects Core Dynamics Bid
 slug: lakon_spaceways_rejects_core_dynamics_bid
 date: '3306-12-01'
 source: GitHub
-groups:
-- Alliance
-- Core Dynamics
-- Lakon Spaceways
+summary: Lakon Spaceways officially rejects Core Dynamics' purchase proposal, choosing to remain an independent company despite financial difficulties and shareholder pressure.
+player_impact: None
 persons:
 - Naomi Landseer
 - Irfan Karim
 - Jupiter Rochester
+groups:
+- Alliance
+- Core Dynamics
+- Lakon Spaceways
 topics:
 - corporate expansion
-summary: Lakon Spaceways officially rejects Core Dynamics' purchase proposal, choosing
-  to remain an independent company despite financial difficulties and shareholder pressure.
-player_impact: None
-modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape
-  the galactic aerospace market.
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape the galactic aerospace market.
 legacy_weight: 2
 significance: low
 ---
-
-Lakon Spaceways Rejects Core Dynamics Bid
-
 
 A proposal by The Federal corporation Core Dynamics to purchase the construction company Lakon Spaceways has been officially rejected. 
 

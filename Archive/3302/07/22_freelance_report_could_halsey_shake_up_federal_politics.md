@@ -14,17 +14,13 @@ groups:
 - Liberal Party
 - Hands of the Architects
 locations: []
-technologies: []
 topics:
 - ship
-modern_impact: Halsey's potential return to politics introduces uncertainty into Federal
-  leadership and energises fringe movements.
+technologies: []
+modern_impact: Halsey's potential return to politics introduces uncertainty into Federal leadership and energises fringe movements.
 legacy_weight: 1
 significance: low
 ---
-
-Freelance Report: Could Halsey Shake up Federal Politics?
-
 
 Following The release of former Federal President Jasmina Halsey from the Clearwater Clinic, commentators from around the galaxy are asking the same question: What's next for Halsey? 
 

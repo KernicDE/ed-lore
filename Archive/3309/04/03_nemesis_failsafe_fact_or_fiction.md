@@ -4,6 +4,12 @@ title: 'Nemesis Failsafe: Fact or Fiction?'
 slug: nemesis_failsafe_fact_or_fiction
 date: '3309-04-03'
 source: API
+summary: Azimuth Biotech rejects Seo Jin-ae's claim about Salvation's 'Nemesis Failsafe', while The Empirical explores exoneurology and Utopia's Sim-Archive technology.
+player_impact: Not specifically mentioned — this is a scientific and political report.
+persons:
+- Torben Rademaker
+- Seo Jin-ae
+- Pranav Antal
 groups:
 - Azimuth
 - Salvation
@@ -14,13 +20,7 @@ topics:
 - research
 - xenoarchaeology
 arc_id: salvation-azimuth
-modern_impact: "Rademaker's personal attack on Seo Jin-ae — 'suffers from paranoid delusions... an exalted position among the Far God cultists' — is character assassination. The Empirical's scientific context — 'Only the Utopia commune has ever claimed significant success' with mind transfer — provides background. The reference to Utopia's 'reclusive nature' and lack of independent review adds skepticism."
-persons:
-- Torben Rademaker
-- Seo Jin-ae
-- Pranav Antal
-player_impact: "Not specifically mentioned — this is a scientific and political report."
-summary: "Azimuth Biotech rejects Seo Jin-ae's claim about Salvation's 'Nemesis Failsafe', while The Empirical explores exoneurology and Utopia's Sim-Archive technology."
+modern_impact: Rademaker's personal attack on Seo Jin-ae — 'suffers from paranoid delusions... an exalted position among the Far God cultists' — is character assassination. The Empirical's scientific context — 'Only the Utopia commune has ever claimed significant success' with mind transfer — provides background. The reference to Utopia's 'reclusive nature' and lack of independent review adds skepticism.
 legacy_weight: 5
 significance: high
 related_uuids:

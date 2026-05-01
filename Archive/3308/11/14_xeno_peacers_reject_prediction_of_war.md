@@ -4,7 +4,8 @@ title: Xeno-Peacers Reject Prediction of War
 slug: xeno_peacers_reject_prediction_of_war
 date: '3308-11-14'
 source: API
-arc_id: salvation-azimuth
+summary: A claim that the rogue signal sources form part of a potential Thargoid offensive has been disputed by many in the pro-peace movement.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Alba Tesreau
 - Bernadette Wells
@@ -23,21 +24,16 @@ topics:
 - diplomacy
 - research
 - war
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: A claim that the rogue signal sources form part of a potential Thargoid offensive
-  has been disputed by many in the pro-peace movement.
-modern_impact: '"Despite this ominous claim from three respected scientists, they
-  have offered no hard evidence to support the assumpt..." The failure of civilian-led
-  diplomacy underscores the dangers of underestimating Thargoid hostility.'
+arc_id: salvation-azimuth
+modern_impact: '"Despite this ominous claim from three respected scientists, they have offered no hard evidence to support the assumpt..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - eb62c669-b525-5753-b3cb-faf6452a8088
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 4e1477c4-93b5-5496-a2b9-86e95c248866
 - 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
-legacy_weight: 5
-significance: high
 ---
 
 A claim that the rogue signal sources form part of a potential Thargoid offensive has been disputed by many in the pro-peace movement.

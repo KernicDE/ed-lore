@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Reorte Liberated by The Alliance
-
-
 After 3 weeks of intense activity in The Lave Cluster, The Alliance Elite Diplomatic Corps (AEDC) has managed to return control of Reorte to an Alliance aligned faction. 
 
 Earlier This month, a local pirate group had attempted to rename the cluster As the "New Caribbean".  While local residents were not in favour of the move, the Alliance military was initially slow to take the pirate threat seriously.  

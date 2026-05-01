@@ -4,6 +4,8 @@ title: Senator Patreus offers Support to Senator Lavigny Duval
 slug: senator_patreus_offers_support_to_senator_lavigny_duval
 date: '3301-09-25'
 source: GitHub
+summary: Senator Denton Patreus publicly declared his support for Arissa Lavigny-Duval as Emperor, despite being a potential candidate himself. He praised her as the person who would already occupy the throne but for the Emperor's murder. The declaration followed Chancellor Blaine's existing support and Senator Torval's backing, significantly strengthening Lavigny-Duval's position as Aisling Duval's popularity fell due to the Emperor's Dawn scandal.
+player_impact: None
 persons:
 - Denton Patreus
 - Arissa Lavigny-Duval
@@ -12,21 +14,14 @@ persons:
 groups:
 - Imperial Senate
 locations: []
-technologies: []
 topics:
 - succession
-summary: Senator Denton Patreus publicly declared his support for Arissa Lavigny-Duval as Emperor, despite being a potential candidate himself. He praised her as the person who would already occupy the throne but for the Emperor's murder. The declaration followed Chancellor Blaine's existing support and Senator Torval's backing, significantly strengthening Lavigny-Duval's position as Aisling Duval's popularity fell due to the Emperor's Dawn scandal.
-player_impact: None
+technologies: []
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
 
-Senator Patreus offers Support to Senator Lavigny-Duval
-
-
-Senator Patreus offers Support to Senator Lavigny-Duval 
- 
 Although The Senate remains in closed session until The succession is determined, Senator Denton Patreus made his support clear In a speech to his command staff: 
 
 “Everyone knows that my priority is the security of the Empire. It is my duty as a senator to provide the best possible opportunities for the clients, patrons, citizens and slaves who follow me. I take that duty seriously, as I do my oath as a senator to care for the Empire as a whole. 

@@ -15,22 +15,18 @@ locations:
 - Walheim Enterprise
 - Wolf 1301
 - Chorel Survey
-technologies:
-- crom silver fesh
-- wolf fesh
 topics:
 - crime
 - narcotics
 - trade
 - war
-modern_impact: Crime syndicate drug production demonstrates the black market's resilience
-  against prohibition efforts.
+technologies:
+- crom silver fesh
+- wolf fesh
+modern_impact: Crime syndicate drug production demonstrates the black market's resilience against prohibition efforts.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Narcotics Appeal comes to an End
-
 
 A spokesperson for The Crom Silver Boys, a notorious crime syndicate, has released a statement confirming that Its appeal for narcotics was eagerly received by the galactic community. 
 

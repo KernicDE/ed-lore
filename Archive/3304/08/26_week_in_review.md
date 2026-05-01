@@ -57,9 +57,6 @@ related_uuids:
 - 249a170f-066b-542f-9e3d-757e4e249409
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 The wedding of Princess Aisling Duval and Ambassador Jordan Rochester has been cancelled. The announcement follows anti-slavery campaigner Jarl Toredo’s confession that he and Aisling Duval were romantically involved for Several months. 

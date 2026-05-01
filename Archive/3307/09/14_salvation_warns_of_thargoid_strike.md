@@ -4,22 +4,20 @@ title: Salvation Warns of Thargoid Strike
 slug: salvation_warns_of_thargoid_strike
 date: '3307-09-14'
 source: API
-groups:
-- Aegis
+summary: The anonymous figure Salvation claims Thargoid forces will attack the Cornsar system, but Aegis dismisses the warning due to lack of evidence.
+player_impact: None
 persons:
 - Salvation
 - Carter Armstrong
 - Noah Sharrow
+groups:
+- Aegis
 topics:
 - alien contact
 - investigation
 - war
 arc_id: thargoid-contact
-summary: The anonymous figure Salvation claims Thargoid forces will attack the Cornsar
-  system, but Aegis dismisses the warning due to lack of evidence.
-player_impact: None
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
 ---

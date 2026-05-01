@@ -4,6 +4,10 @@ title: 'Thargoid War Bulletin: Slaying the Dragon'
 slug: thargoid_war_bulletin_slaying_the_dragon
 date: '3310-07-10'
 source: API
+summary: Vox Galactica reporter Jade Sanderlyn provides a visceral eyewitness account of Titan Indra's destruction in the HIP 20567 system.
+player_impact: Pilots participated in the destruction of Titan Indra in the HIP 20567 system.
+persons:
+- Jade Sanderlyn
 groups: []
 locations:
 - HIP 20567
@@ -11,11 +15,7 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's prose — 'Caustic gas and debris spurted from its vents like blood from multiple wounds... part collapsing starship and part dying animal' — is the most vivid journalistic account of a Titan's death. Her metaphor of 'slaying the dragon' gives narrative shape to a military achievement. This article transforms a tactical victory into a cultural moment."
-persons:
-- Jade Sanderlyn
-player_impact: "Pilots participated in the destruction of Titan Indra in the HIP 20567 system."
-summary: "Vox Galactica reporter Jade Sanderlyn provides a visceral eyewitness account of Titan Indra's destruction in the HIP 20567 system."
+modern_impact: Sanderlyn's prose — 'Caustic gas and debris spurted from its vents like blood from multiple wounds... part collapsing starship and part dying animal' — is the most vivid journalistic account of a Titan's death. Her metaphor of 'slaying the dragon' gives narrative shape to a military achievement. This article transforms a tactical victory into a cultural moment.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -11,9 +11,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Public Polled on President
-
-
 Recent GalPoll results show that The President's popularity Continues to fall, With her approval rating now down to an abysmal 16%, The lowest approval rating of any President to have ever remained in office in the history of the Federation. 
 
 Some (anonymous) comments from the survey are included below: 

@@ -37,9 +37,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: New Aegis Initiative
-
-
 Aegis has announced plans to dramatically expand Its research division With the creation of over twenty new laboratories, situated at starports across The galaxy. 
 
 Professor Alba Tesreau, Aegis’s chief scientific advisor, gave The following statement to The Imperial Herald: 

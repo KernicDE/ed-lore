@@ -4,7 +4,12 @@ title: Human Presence Causes Thargoid Withdrawal
 slug: human_presence_causes_thargoid_withdrawal
 date: '3309-08-31'
 source: API
-entities: []
+summary: Thargoids unexpectedly withdraw from the Wregoe BU-Y b2-0 region after human presence, contradicting their usual territorial behavior.
+player_impact: Not specifically mentioned — this is an observational report.
+persons:
+- Jeong-Hui Shin
+- Aden Tanner
+- Dev Venkatesh
 groups:
 - Aegis
 locations:
@@ -15,14 +20,9 @@ topics:
 - alien contact
 - war
 - xenoarchaeology
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tanner's analysis — 'It usually requires overwhelming firepower to drive out Thargoid forces... In this case, there was no fleet action or anti-xeno operation sufficiently large to cause this response' — is puzzling. Shin's observation — 'It is unprecedented for them to avoid engaging us in battle' — confirms the anomaly. Venkatesh's disappointment — 'Here was a chance to observe this intelligent race in a non-combat environment' — shows the peace movement's missed opportunity."
-persons:
-- Jeong-Hui Shin
-- Aden Tanner
-- Dev Venkatesh
-player_impact: "Not specifically mentioned — this is an observational report."
-summary: "Thargoids unexpectedly withdraw from the Wregoe BU-Y b2-0 region after human presence, contradicting their usual territorial behavior."
+modern_impact: Tanner's analysis — 'It usually requires overwhelming firepower to drive out Thargoid forces... In this case, there was no fleet action or anti-xeno operation sufficiently large to cause this response' — is puzzling. Shin's observation — 'It is unprecedented for them to avoid engaging us in battle' — confirms the anomaly. Venkatesh's disappointment — 'Here was a chance to observe this intelligent race in a non-combat environment' — shows the peace movement's missed opportunity.
 legacy_weight: 4
 significance: high
 related_uuids:

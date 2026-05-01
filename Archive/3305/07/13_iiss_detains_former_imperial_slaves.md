@@ -4,6 +4,8 @@ title: IISS Detains Former Imperial Slaves
 slug: iiss_detains_former_imperial_slaves
 date: '3305-07-13'
 source: GitHub
+summary: The Imperial Internal Security Service detains 4,000 forcibly emancipated Imperial slaves on Eotienses A 3 and arrests members of the radical group Autonomy, including spokesperson Garrett Kline, who is charged with manslaughter.
+player_impact: None — background political report.
 persons:
 - Madoc Evander
 - Garrett Kline
@@ -16,17 +18,12 @@ topics:
 - crime
 - politics
 - slavery
-summary: The Imperial Internal Security Service detains 4,000 forcibly emancipated Imperial slaves on Eotienses A 3 and arrests members of the radical group Autonomy, including spokesperson Garrett Kline, who is charged with manslaughter.
-player_impact: None — background political report.
 modern_impact: The Eotienses emancipation crisis exposed the fragility of the Imperial slavery system and the political dangers of forced liberation without social support structures.
 legacy_weight: 2
 significance: medium
 related_uuids:
 - d610a3c5-945b-5365-9eef-8115c7d3f25e
 ---
-
-IISS Detains Former Imperial Slaves
-
 
 The Imperial Internal Security Service has moved to apprehend the Imperial slaves who were forcibly emancipated on Eotienses A 3. 
 

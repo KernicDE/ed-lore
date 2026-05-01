@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Angeli Imperial Enterprises Campaign Concludes
-
-
 Angeli Imperial Enterprises has announced that Its appeal for construction and outfitting materials has been enthusiastically received by The galactic community, resulting In a massive influx of deliveries to Nelder City, the organisation’s base of operations. 
 
 Patrician Mitchell, spokesperson for the organisation, released The following statement: 

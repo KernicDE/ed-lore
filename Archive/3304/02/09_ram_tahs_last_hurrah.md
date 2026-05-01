@@ -26,9 +26,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Ram Tah's Last Hurrah
-
-
 Ram Tah, The galaxy's foremost expert on the Guardians, has revealed that his research funding will soon end. In an effort to make the most of his remaining finances, the engineer has appealed to Independent pilots to deliver Guardian artefacts to his base in the Meene system. 
 
 In a statement, Ram Tah said: 

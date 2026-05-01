@@ -4,7 +4,7 @@ title: Further Surveillance Robots Discovered
 slug: further_surveillance_robots_discovered
 date: '3304-10-05'
 source: GitHub
-summary: "The Federal Security Service discovers five more PA912 administration robots manufactured by Achilles Corporation containing hidden surveillance programs. Lieutenant Inspector Ramesh Thorne leads the investigation. Two owners are identified: Don Zhao, CEO of Kuiper Mining Inc., and Anya Blackriver, a public-relations consultant. Achilles Corporation claims the illegal surveillance has nothing to do with them."
+summary: 'The Federal Security Service discovers five more PA912 administration robots manufactured by Achilles Corporation containing hidden surveillance programs. Lieutenant Inspector Ramesh Thorne leads the investigation. Two owners are identified: Don Zhao, CEO of Kuiper Mining Inc., and Anya Blackriver, a public-relations consultant. Achilles Corporation claims the illegal surveillance has nothing to do with them.'
 player_impact: None
 persons:
 - Ramesh Thorne
@@ -30,9 +30,6 @@ related_uuids:
 - 662535a6-f967-55f6-bd3e-2d774afb341a
 - 42ef6025-276f-5d89-b735-6c4cb293e6fb
 ---
-
-Further Surveillance Robots Discovered
-
 
 The Federal Security Service has discovered more administration robots fitted With secret surveillance programs. 
 

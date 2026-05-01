@@ -15,16 +15,13 @@ locations:
 - Gyhldekala
 - Boga
 - Kpaniya
-technologies: []
 topics:
 - research
+technologies: []
 modern_impact: The United Research Council's programme temporarily restricts power-play expansion in multiple systems, resetting pilot preparations and reshaping territorial dynamics.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: United Research Council Programme Begins in One Week
-
 
 The United Research Council has announced that Its postponed research programme will begin on the 15th of September 3302. The announcement comes a week after political lobbying prompted the Council to temporarily delay the programme. 
 

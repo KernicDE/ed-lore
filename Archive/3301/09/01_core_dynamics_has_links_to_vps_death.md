@@ -4,6 +4,8 @@ title: Core Dynamics has Links to VP's Death
 slug: core_dynamics_has_links_to_vps_death
 date: '3301-09-01'
 source: GitHub
+summary: The Federal Times revealed possible links between Core Dynamics and Vice President Nigel Smeaton's death. Congressman George Fallside, a non-executive director of Core Dynamics, had apparent early knowledge of the VP's death. Flight Engineer Nick Baron of Starship One previously worked at Core Dynamics, and financial records showed payments traced through a shell corporation involving Fallside. The trail suggested a conspiracy possibly connected to the Highliner Antares disaster.
+player_impact: Pilots should monitor developments in the Federal political crisis. The revelations suggest deep corruption linking major corporations to political assassinations.
 persons:
 - George Fallside
 - Nick Baron
@@ -16,24 +18,17 @@ groups:
 locations:
 - Sol
 - Mars
-technologies:
-- Starship One
 topics:
 - investigation
 - conspiracy
+technologies:
+- Starship One
 arc_id: federal-politics
-summary: The Federal Times revealed possible links between Core Dynamics and Vice President Nigel Smeaton's death. Congressman George Fallside, a non-executive director of Core Dynamics, had apparent early knowledge of the VP's death. Flight Engineer Nick Baron of Starship One previously worked at Core Dynamics, and financial records showed payments traced through a shell corporation involving Fallside. The trail suggested a conspiracy possibly connected to the Highliner Antares disaster.
-player_impact: Pilots should monitor developments in the Federal political crisis. The revelations suggest deep corruption linking major corporations to political assassinations.
 modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---
 
-Core Dynamics has Links to VP’s Death?
-
-
-Core Dynamics has Links to VP’s Death? 
- 
 In another shocking revelation The Federal Times today posted a story highlighting possible links between a non-exec member of The board of Core Dynamics and Vice President Nigel Smeaton’s death. They first referenced an interview on January 28th With Congressman George Fallside who appeared to have early knowledge of the Vice President’s death.  The Congressman refused to comment on the article, but it is public knowledge of his non-executive directorship of Core Dynamics and Several Other major arms manufacturers. 
 
 More damning was the evidence concerning One of the crew of the Starship One, Flight Engineer Nick Baron, who had previously worked at Core Dynamics before joining the President’s Crew. From the information package sent by Elaine Boyd after her death, the Federal Times published extracts of financial records of the flight engineer. 

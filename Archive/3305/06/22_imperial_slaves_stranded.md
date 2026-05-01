@@ -4,6 +4,8 @@ title: Imperial Slaves Stranded
 slug: imperial_slaves_stranded
 date: '3305-06-22'
 source: GitHub
+summary: Four thousand forcibly emancipated Imperial slaves are left stranded on Eotienses A 3 without food, shelter or income, sparking a humanitarian crisis in Port Isabelle.
+player_impact: None — background report.
 persons:
 - Gwendolyn Nash
 groups:
@@ -14,8 +16,6 @@ locations:
 topics:
 - slavery
 - crime
-summary: Four thousand forcibly emancipated Imperial slaves are left stranded on Eotienses A 3 without food, shelter or income, sparking a humanitarian crisis in Port Isabelle.
-player_impact: None — background report.
 modern_impact: The Port Isabelle crisis demonstrated the catastrophic social consequences of forced emancipation without support structures, fueling debate about Imperial slavery reform across the Empire.
 legacy_weight: 3
 significance: medium
@@ -24,9 +24,6 @@ related_uuids:
 - f6b498a7-31b6-59b9-9ba3-62c096637f35
 - 174f8449-370a-56b3-976a-27bb2c41f87c
 ---
-
-Imperial Slaves Stranded
-
 
 Four thousand Imperial slaves have been left stranded on Eotienses A 3 after being forcibly freed by emancipation group Autonomy. 
 

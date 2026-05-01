@@ -4,6 +4,8 @@ title: For Some, President Halsey's Disappearance Is Not Case Closed
 slug: for_some_president_halseys_disappearance_is_not_case_closed
 date: '3301-06-14'
 source: GitHub
+summary: The Knights of the Black, a group sworn to defend human systems against alien aggression, doubts the official explanation for President Halsey's disappearance. Their founder noted that Winters insisted on mechanical failure from the beginning while Hudson believed sabotage until becoming President himself. He suggested the Federation is covering up something and that such a well-orchestrated strike would indicate an alien threat. Though not actively searching for Starship One, the group claims they are 'keeping our eyes peeled.'
+player_impact: None
 persons:
 - Jasmina Halsey
 - Felicia Winters
@@ -18,18 +20,11 @@ topics:
 - investigation
 - conspiracy
 arc_id: starship-one-disappearance
-summary: The Knights of the Black, a group sworn to defend human systems against alien aggression, doubts the official explanation for President Halsey's disappearance. Their founder noted that Winters insisted on mechanical failure from the beginning while Hudson believed sabotage until becoming President himself. He suggested the Federation is covering up something and that such a well-orchestrated strike would indicate an alien threat. Though not actively searching for Starship One, the group claims they are 'keeping our eyes peeled.'
-player_impact: None
 modern_impact: Conspiracy theories about Starship One's disappearance persist despite official rulings, with some groups suspecting alien involvement or Federal cover-up.
 legacy_weight: 3
 significance: medium
 ---
 
-For Some, President Halsey's Disappearance Is Not "Case Closed"
-
-
-For Some, President Halsey's Disappearance Is Not "Case Closed" 
- 
 While The Federation considers President Halsey’s disappearance an open and shut case, some groups still doubt The official story. The Knights of the Black, whose members have sworn to defend all human systems against alien aggression, is One such group. 
 
 According to the group’s founder, “We aren’t entirely convinced Halsey’s disappearance is the work of an alien species, but we also aren’t convinced that it was an accident. Remember that Felicia Winters insisted, even from the beginning, that Starship One was lost due to mechanical failure. Zachary Hudson seemed awfully convinced of sabotage until he became the President. To me, it seems the Federation is covering up something.” 

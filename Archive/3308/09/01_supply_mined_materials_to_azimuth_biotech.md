@@ -4,6 +4,8 @@ title: Supply Mined Materials to Azimuth Biotech
 slug: supply_mined_materials_to_azimuth_biotech
 date: '3308-09-01'
 source: API
+summary: Azimuth Biotech launches a mining campaign to deliver raw materials to the Glorious Prospect megaship in LHS 157, seeking to rebuild corporate infrastructure after being forced out of Maia, Merope and Qarato.
+player_impact: Pilots were asked to deliver mined metals — cobalt, gallite and osmium — to the Glorious Prospect in LHS 157, with Mbooni system permits as rewards.
 persons:
 - Torben Rademaker
 groups:
@@ -22,18 +24,12 @@ topics:
 - corporate expansion
 - research
 arc_id: salvation-azimuth
-summary: Azimuth Biotech launches a mining campaign to deliver raw materials to the
-  Glorious Prospect megaship in LHS 157, seeking to rebuild corporate infrastructure
-  after being forced out of Maia, Merope and Qarato.
-player_impact: Pilots were asked to deliver mined metals — cobalt, gallite and osmium
-  — to the Glorious Prospect in LHS 157, with Mbooni system permits as rewards.
-modern_impact: Azimuth Biotech's ongoing resource campaigns illustrate its efforts
-  to maintain operations and develop anti-xeno technology despite public opposition.
+modern_impact: Azimuth Biotech's ongoing resource campaigns illustrate its efforts to maintain operations and develop anti-xeno technology despite public opposition.
 legacy_weight: 5
 significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Azimuth Biotech has called on mining vessels to deliver raw materials to the Glorious Prospect megaship in the LHS 157 system.
 The campaign was launched by the corporation’s acting CEO, Torben Rademaker:
 “Our mission to continue developing anti-xeno technologies is currently hampered by a lack of resources to establish new facilities. Azimuth’s investment in the Proteus Wave project and related infrastructure was considerable. Meanwhile, the reckless actions of anarchists and political extremists have inhibited our recovery.”

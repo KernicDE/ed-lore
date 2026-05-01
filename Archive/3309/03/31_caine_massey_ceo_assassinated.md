@@ -4,7 +4,12 @@ title: Caine-Massey CEO Assassinated
 slug: caine_massey_ceo_assassinated
 date: '3309-03-31'
 source: API
-entities: []
+summary: Caine-Massey CEO Johann Fleischer is assassinated at a Federal Commerce Authority seminar on Mars using a modified Manticore Executioner rifle linked to Imperial agents.
+player_impact: Not specifically mentioned.
+persons:
+- Johann Fleischer
+- Philippa Barlow-Lyons
+- Viola Trask
 groups:
 - Caine-Massey
 - Federal Commerce Authority
@@ -17,14 +22,9 @@ topics:
 - diplomacy
 - espionage
 - investigation
+entities: []
 arc_id: null
-modern_impact: "Trask's statement — 'These particular models are known to be utilised by undercover Imperial agents' — immediately implicates the Empire and escalates inter-superpower tensions. The assassination of a major corporate CEO using Imperial-linked equipment signals a dangerous escalation in corporate-political warfare."
-persons:
-- Johann Fleischer
-- Philippa Barlow-Lyons
-- Viola Trask
-player_impact: "Not specifically mentioned."
-summary: "Caine-Massey CEO Johann Fleischer is assassinated at a Federal Commerce Authority seminar on Mars using a modified Manticore Executioner rifle linked to Imperial agents."
+modern_impact: Trask's statement — 'These particular models are known to be utilised by undercover Imperial agents' — immediately implicates the Empire and escalates inter-superpower tensions. The assassination of a major corporate CEO using Imperial-linked equipment signals a dangerous escalation in corporate-political warfare.
 legacy_weight: 2
 significance: low
 related_uuids:

@@ -20,14 +20,10 @@ topics:
 - ship
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
 ---
-
-Freelance Report: Looking for Peace, or War?
-
 
 Dr Derthek, a founding member of The Canonn Interstellar Research Group, has embarked on an ambitious project to map NGC 6357, also known As the War and Peace Nebula, in Its entirety. 
 

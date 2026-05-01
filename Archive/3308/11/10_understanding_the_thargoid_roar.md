@@ -4,7 +4,8 @@ title: Understanding the ‘Thargoid Roar’
 slug: understanding_the_thargoid_roar
 date: '3308-11-10'
 source: API
-arc_id: salvation-azimuth
+summary: Professor Alba Tesreau, Professor Ishmael Palin and Ram Tah have released a joint statement regarding the alien sound heard at HIP 22460.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Alba Tesreau
 - Ishmael Palin
@@ -18,21 +19,16 @@ topics:
 - alien contact
 - research
 - war
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: Professor Alba Tesreau, Professor Ishmael Palin and Ram Tah have released
-  a joint statement regarding the alien sound heard at HIP 22460.
-modern_impact: '"There has been much speculation about the mysterious noise that was
-  recorded following the Battle of HIP 22460, which..." This perspective highlights
-  the broader stakes and continues to shape contemporary debates.'
+arc_id: salvation-azimuth
+modern_impact: '"There has been much speculation about the mysterious noise that was recorded following the Battle of HIP 22460, which..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 17c9f162-826a-5492-8ff7-a04cd0d9cdfc
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
-legacy_weight: 5
-significance: high
 ---
 
 Professor Alba Tesreau, Professor Ishmael Palin and Ram Tah have released a joint statement regarding the alien sound heard at HIP 22460.

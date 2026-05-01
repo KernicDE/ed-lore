@@ -11,19 +11,15 @@ persons:
 groups:
 - Fuel Rats
 locations: []
-technologies: []
 topics:
 - humanitarian
 - ship
 - war
-modern_impact: First documented attack on Fuel Rat rescue vessels raises concerns about
-  the safety of humanitarian operations in deep space.
+technologies: []
+modern_impact: First documented attack on Fuel Rat rescue vessels raises concerns about the safety of humanitarian operations in deep space.
 legacy_weight: 1
 significance: low
 ---
-
-Freelance Report: Fuel Rat Destroyed
-
 
 A flight recording has surfaced revealing The destruction of a Fuel Rat rescue Vessel. 
 

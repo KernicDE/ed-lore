@@ -4,7 +4,11 @@ title: Scientists Study Thargoid Barnacle Matrix Sites
 slug: scientists_study_thargoid_barnacle_matrix_sites
 date: '3309-10-06'
 source: API
-entities: []
+summary: Aegis xenologists study newly discovered Thargoid barnacle matrix sites in the Trianguli sector, with disturbing reports from explorers and scientific analysis from Madigan.
+player_impact: Not specifically mentioned — this is a research report.
+persons:
+- Shamus Madigan
+- Yoselin Aquino
 groups:
 - Aegis
 locations:
@@ -14,13 +18,9 @@ topics:
 - exploration
 - investigation
 - research
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Aquino's vivid description — 'spear roots... like gigantic skeletal fingers reaching up through the ground' and 'The noises my audio converter picked up made me feel like they were moving' — is horror-worthy. Madigan's observation of 'violent chemical or physical processes' and the theory that 'these sites are still not completely formed' adds scientific mystery. These sites will later evolve into the spire sites."
-persons:
-- Shamus Madigan
-- Yoselin Aquino
-player_impact: "Not specifically mentioned — this is a research report."
-summary: "Aegis xenologists study newly discovered Thargoid barnacle matrix sites in the Trianguli sector, with disturbing reports from explorers and scientific analysis from Madigan."
+modern_impact: Aquino's vivid description — 'spear roots... like gigantic skeletal fingers reaching up through the ground' and 'The noises my audio converter picked up made me feel like they were moving' — is horror-worthy. Madigan's observation of 'violent chemical or physical processes' and the theory that 'these sites are still not completely formed' adds scientific mystery. These sites will later evolve into the spire sites.
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -24,9 +24,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Upgrading Greeboski's Outpost
-
-
 Chancellor Zahra Arias of The Sovereign Justice Collective has announced plans to upgrade the infrastructure and Defensive viability of Greeboski's Outpost in the Phiagre system. In a statement, Chancellor Arias said: 
 
 "Greeboski's Outpost is a bastion for the people of Phiagre and a monument to Our Independence, and I consider it my duty to upgrade the starport's services. I have therefore placed an open order for titanium so we can begin the improvement programme." 

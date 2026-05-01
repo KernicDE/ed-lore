@@ -21,8 +21,6 @@ related_uuids:
 - 0b892435-583e-531a-b389-963788fe5e3a
 - e6e941fd-9a63-5ae3-b88b-2b1fe818f1ff
 ---
-Worshipping The Thargoids
-
 
 A fringe religion that worships the Thargoids has come under the spotlight In a new academic article. 
 

@@ -14,7 +14,6 @@ groups:
 - Children of Raxxla
 locations:
 - Prism
-technologies: []
 topics:
 - exploration
 - piracy
@@ -22,14 +21,12 @@ topics:
 - succession
 - terrorism
 - war
+technologies: []
 arc_id: prism-senator
 modern_impact: The Imperial Citizen's continued attacks on Salomé deepen the political scandal and rally both supporters and detractors around her alleged true identity.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Salomé – Pride or Prejudice?
-
 
 The Imperial Citizen has published Its second editorial on Commander Salomé, who the Citizen alleges is Lady Kahina Tijani Loren, the Missing Imperial senator. 
 

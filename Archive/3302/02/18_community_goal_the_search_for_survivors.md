@@ -27,9 +27,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: The Search for Survivors
-
-
 Federal President Zachary Hudson has confirmed that the remains of Starship One were among the wreckage recently delivered to Leoniceno Orbital. The search for the Missing presidential Vessel began two weeks ago, resulting in the accumulation of thousands of tonnes of wreckage, Which was then subjected to rigorous analysis by Federal scientists. The analysis confirmed that the remains of Starship One had been Located, prompting President Hudson to release a statement to the media: 
 
 "The loss of Starship One remains a tragedy, but I must admit to feeling a sense of relief at finally knowing what happened to the presidential ship." 

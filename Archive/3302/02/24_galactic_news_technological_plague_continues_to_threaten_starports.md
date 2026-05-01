@@ -71,14 +71,10 @@ topics:
 - research
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Technological Plague Continues to Threaten Starports
-
 
 It has been over a month since personnel at Obsidian Orbital reported that meta-alloys had been used to alleviate The starport's ongoing technical issues. Since then, there has been widespread speculation that the meta-alloys might hold the key to eradicating the technological plague that has blighted so Many starports in recent months. But the only attempt to verify the theory was brought to an abrupt end With the mysterious disappearance of Professor Ishmael Palin, who had been researching the meta-alloys. 
 

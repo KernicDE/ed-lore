@@ -4,6 +4,8 @@ title: Chancellor Blaine Issues Statement
 slug: chancellor_blaine_issues_statement
 date: '3301-08-07'
 source: GitHub
+summary: Chancellor Anders Blaine accepted governance of the Empire until the succession is determined. He identified the assassin as Brendan Paul Darius, confirmed by Senator Patreus as a member of his entourage. Darius killed the Emperor with a concealed blade and was killed by the Emperor's Guard. A separate investigation was launched into how the weapon was smuggled in. Blaine stated Darius's motive remains unknown.
+player_impact: The assassination investigation continues. Pilots should expect heightened security and potential travel restrictions in Imperial systems, particularly Capitol.
 persons:
 - Anders Blaine
 - Brendan Paul Darius
@@ -17,18 +19,11 @@ locations:
 topics:
 - investigation
 - succession
-summary: Chancellor Anders Blaine accepted governance of the Empire until the succession is determined. He identified the assassin as Brendan Paul Darius, confirmed by Senator Patreus as a member of his entourage. Darius killed the Emperor with a concealed blade and was killed by the Emperor's Guard. A separate investigation was launched into how the weapon was smuggled in. Blaine stated Darius's motive remains unknown.
-player_impact: The assassination investigation continues. Pilots should expect heightened security and potential travel restrictions in Imperial systems, particularly Capitol.
 modern_impact: Key revelation in the investigation of Emperor Hengist Duval's assassination.
 legacy_weight: 4
 significance: high
 ---
 
-Chancellor Blaine Issues Statement
-
-
-Chancellor Blaine Issues Statement 
- 
 With no clear successor to The Emperor, Chancellor Blaine has accepted The task of governing the Empire until the succession has been determined. He reiterated his statement that the matter would be resolved after Emperor’s funeral. He then revealed more about the investigation into the regicide: 
 
 “Officers from the Imperial Guard and Imperial Intelligence Security Service have begun their investigation and are being provided With the resources they need. 

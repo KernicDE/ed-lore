@@ -14,17 +14,14 @@ groups:
 locations:
 - Mars
 - Clearwater Clinic
-technologies: []
 topics:
 - treasure hunt
+technologies: []
 arc_id: alliance-expansion
 modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Jasmina Halsey Returns to Public Life
-
 
 At a recent charity event, former Federal President Jasmina Halsey made her first public appearance since she was discharged from a secure psychiatric facility on Mars two weeks ago. The woman seen at the event differed dramatically from the frail individual seen leaving the Clearwater Clinic. Some commented that she appeared even more confident than when she was in office. 
 

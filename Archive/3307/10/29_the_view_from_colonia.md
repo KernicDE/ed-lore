@@ -4,11 +4,13 @@ title: The View from Colonia
 slug: the_view_from_colonia
 date: '3307-10-29'
 source: API
+summary: Vox Galactica's culture correspondent provides an overview of the Colonia region, its history since Jaques Station's mis-jump, and its growing economy and scientific community.
+player_impact: None
+persons:
+- Lishan Abara
 groups:
 - Colonia Council
 - Holloway Bioscience Institute
-persons:
-- Lishan Abara
 topics:
 - corporate expansion
 - engineering
@@ -16,12 +18,7 @@ topics:
 - humanitarian
 - research
 arc_id: jaques-station
-summary: Vox Galactica's culture correspondent provides an overview of the Colonia region,
-  its history since Jaques Station's mis-jump, and its growing economy and scientific
-  community.
-player_impact: None
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
 ---

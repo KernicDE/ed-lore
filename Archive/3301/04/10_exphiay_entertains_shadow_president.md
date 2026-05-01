@@ -4,22 +4,19 @@ title: Exphiay Entertains Shadow President
 slug: exphiay_entertains_shadow_president
 date: '3301-04-10'
 source: GitHub
-entities:
-- Hudson will be
-- Naylor
 locations:
 - Banki
 - Sirius
 topics:
 - corporate expansion
 - ship
+entities:
+- Hudson will be
+- Naylor
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Exphiay Entertains Shadow President
-
 
 This evening marks The 153rd annual Exphiay Bankers’ Ball. Shadow President Hudson will be in attendance, as will Frank Hall – CEO of Gallant Investment, Paul Wiggins – CEO of Wiggins Development Trust, and Patricia Spellman – Vice President of Sirius Finance.  
 

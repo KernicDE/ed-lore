@@ -28,14 +28,10 @@ topics:
 - succession
 - terrorism
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
-  politics and military policy.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Game of Shadows
-
 
 Various media outlets throughout inhabited space received an anonymous communiqué This morning. "The galactic community is in peril," the message began. "They just don't know it yet." 
 

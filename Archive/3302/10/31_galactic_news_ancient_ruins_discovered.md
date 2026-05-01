@@ -6,23 +6,23 @@ date: '3302-10-31'
 source: GitHub
 summary: Independent pilot 'xdeath' discovered mysterious ruins in the Synuefe XR-H d11-102 system. Speculation is rife that they are of non-human origin, adding to previous finds including Unknown Artefacts, Unknown Probes, organic structures, and a crash site in Pleiades Sector AB-W B2-4.
 player_impact: None
-persons: [xdeath]
+persons:
+- xdeath
 groups: []
-locations: [Synuefe XR-H d11-102, Pleiades Sector AB-W B2-4]
-technologies: []
+locations:
+- Synuefe XR-H d11-102
+- Pleiades Sector AB-W B2-4
 topics:
 - alien contact
 - investigation
 - ship
 - xenoarchaeology
+technologies: []
 arc_id: thargoid-contact
 modern_impact: Discovery of the Synuefe ruins confirms the existence of a prior non-human civilisation, fundamentally reshaping xenoarchaeology and humanity's understanding of its place in the galaxy.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Ancient Ruins Discovered
-
 
 Four days ago, The galaxy was stunned by news that mysterious ruins had been discovered in the Synuefe XR-H d11-102 system. 
 

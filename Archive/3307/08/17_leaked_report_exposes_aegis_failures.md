@@ -4,22 +4,19 @@ title: Leaked Report Exposes Aegis Failures
 slug: leaked_report_exposes_aegis_failures
 date: '3307-08-17'
 source: API
-groups:
-- Aegis
+summary: Leaked initial findings from the Aegis board of inquiry expose poor internal organisation, negligence, and heavy reliance on independent pilots in anti-xeno operations.
+player_impact: Independent pilots who fought for Aegis were indirectly referenced in the leaked criticisms.
 persons:
 - Paul Baumann
 - Alba Tesreau
 - Alexei Keel
+groups:
+- Aegis
 topics:
 - alien contact
 - investigation
 arc_id: thargoid-contact
-summary: Leaked initial findings from the Aegis board of inquiry expose poor internal
-  organisation, negligence, and heavy reliance on independent pilots in anti-xeno operations.
-player_impact: Independent pilots who fought for Aegis were indirectly referenced in
-  the leaked criticisms.
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 4
 significance: high
 ---

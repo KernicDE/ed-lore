@@ -4,7 +4,8 @@ title: Federation Refuses Entry to 'Plague Ship'
 slug: federation_refuses_entry_to_plague_ship
 date: '3307-05-24'
 source: API
-arc_id: thargoid-contact
+summary: The Federal Navy warns the Alexandria megaship not to enter any Federal system. Captain Jacob Morales protests the treatment of his crew. Admiral Aden Tanner outlines a plan to jump to a low-population system and offload Guardian cargo, with jettisoning as a last resort.
+player_impact: Pilots continued assisting Aegis in clearing Thargoid vessels from HIP 16538.
 persons:
 - Jacob Morales
 - Aden Tanner
@@ -18,22 +19,21 @@ locations:
 - Delphi
 - Sol
 - HIP 30944
-technologies:
-- Alexandria megaship
-- Guardian artefacts
 topics:
 - alien contact
 - research
 - war
 - xenoarchaeology
-player_impact: Pilots continued assisting Aegis in clearing Thargoid vessels from HIP 16538.
-summary: The Federal Navy warns the Alexandria megaship not to enter any Federal system. Captain Jacob Morales protests the treatment of his crew. Admiral Aden Tanner outlines a plan to jump to a low-population system and offload Guardian cargo, with jettisoning as a last resort.
+technologies:
+- Alexandria megaship
+- Guardian artefacts
+arc_id: thargoid-contact
 modern_impact: The 'plague ship' designation reflects growing fear of Guardian technology and Thargoid retaliation, contributing to the political pressure that eventually leads to Aegis's suspension and investigation.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 3ed695e3-4334-5111-bc87-ca2a91079e93
 - 94863186-a8f1-51f0-8ed0-e8f06ab768bb
-legacy_weight: 5
-significance: high
 ---
 
 The Alexandria megaship has been warned that it faces destruction if it attempts to travel to any Federal system.

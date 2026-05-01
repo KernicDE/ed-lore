@@ -4,15 +4,8 @@ title: Sol Celebrations End as Election Begins
 slug: sol_celebrations_end_as_election_begins
 date: '3309-10-12'
 source: API
-entities: []
-groups:
-- Shadow President
-locations:
-- Sol
-topics:
-- politics
-arc_id: null
-modern_impact: "Trevino's analysis — 'one of the closest-run elections in the Federation's history, reflecting the polarisation that has taken place' — captures the political divide. Her framing of Archer — 'his flagship creation, the Proactive Detection Bureau, remains highly divisive' — shows the central policy battle. The note that 'Hudson will remain in office as caretaker president until the official inauguration' establishes the transition timeline."
+summary: Federal voting begins after Sol celebrations conclude, with profiles of both candidates and their running mates.
+player_impact: Pilots who supplied rare goods can collect payment from Li Qing Jao starport.
 persons:
 - Jerome Archer
 - Niko Shirakawa
@@ -20,8 +13,15 @@ persons:
 - Isolde Rochester
 - Sofia Trevino
 - Zachary Hudson
-player_impact: "Pilots who supplied rare goods can collect payment from Li Qing Jao starport."
-summary: "Federal voting begins after Sol celebrations conclude, with profiles of both candidates and their running mates."
+groups:
+- Shadow President
+locations:
+- Sol
+topics:
+- politics
+entities: []
+arc_id: null
+modern_impact: Trevino's analysis — 'one of the closest-run elections in the Federation's history, reflecting the polarisation that has taken place' — captures the political divide. Her framing of Archer — 'his flagship creation, the Proactive Detection Bureau, remains highly divisive' — shows the central policy battle. The note that 'Hudson will remain in office as caretaker president until the official inauguration' establishes the transition timeline.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,7 +29,7 @@ related_uuids:
 - ba96abf1-456d-5b32-aa72-2a4b52ee1484
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Federation has begun voting to decide its next president, as a week of festivities in the Sol system are concluded.
 Congress confirmed that any pilots who supplied rare goods for the celebratory events can collect payment from Li Qing Jao starport. All temporary system permits for Sol remain suspended for Pilots’ Federation members for a further week.
 The 3309 presidential election has now officially begun. More than one trillion Federal citizens    are expected to submit their votes, which will be recorded and collated over the next four days via secure digital systems.

@@ -30,8 +30,6 @@ related_uuids:
 - e1242f6c-1a65-52aa-b73b-90d58f8d4086
 - d7ee12d3-53dc-5c8b-80f0-0309a7f56575
 ---
-Alliance Inspector Killed by The League of Reparation
-
 
 Chief Inspector Kay Kilbride has been Murdered by terrorist organisation the League of Reparation, along With four Other agents of Alliance Interpol. 
 

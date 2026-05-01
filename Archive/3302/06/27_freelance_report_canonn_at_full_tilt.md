@@ -17,22 +17,18 @@ locations:
 - Merope
 - Witch Head Nebula
 - Merope 5 C
-technologies:
-- Unknown Probes
-- Unknown Artefacts
 topics:
 - research
 - ship
 - war
+technologies:
+- Unknown Probes
+- Unknown Artefacts
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
 ---
-
-Freelance Report: Canonn at Full Tilt
-
 
 Following a recent statement from Admiral Maxton Price of The Federal Navy concerning Farragut Battle Cruisers in the Merope system, Dr Arcanonn of the Canonn Interstellar Research Group has responded: 
 

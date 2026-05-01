@@ -4,10 +4,7 @@ title: Freelance Report  Canonn Holds Press Conference
 slug: freelance_report_canonn_holds_press_conference
 date: '3302-11-04'
 source: GitHub
-summary: The Canonn Interstellar Research Group held a press conference to reassure the
-  public that the ruins in the Synuefe XR-H d11-102 system were not being mishandled. A
-  spokesperson claimed reports of damage were exaggerated, though several scientific vessels
-  were destroyed by rogue pilots.
+summary: The Canonn Interstellar Research Group held a press conference to reassure the public that the ruins in the Synuefe XR-H d11-102 system were not being mishandled. A spokesperson claimed reports of damage were exaggerated, though several scientific vessels were destroyed by rogue pilots.
 player_impact: None
 persons:
 - V Patau
@@ -19,15 +16,11 @@ topics:
 - diplomacy
 - research
 - ship
-modern_impact: Canonn's reassurance about the Synuefe ruins highlighted the tension between
-  scientific preservation and unregulated independent activity at archaeological sites.
+technologies: []
+modern_impact: Canonn's reassurance about the Synuefe ruins highlighted the tension between scientific preservation and unregulated independent activity at archaeological sites.
 legacy_weight: 2
 significance: low
-technologies: []
 ---
-
-Freelance Report: Canonn Holds Press Conference
-
 
 The Canonn Interstellar Research Group held a press conference today to reassure the public that the ruins in the Synuefe XR-H d11-102 system were not being mishandled. 
 

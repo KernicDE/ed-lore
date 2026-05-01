@@ -4,12 +4,8 @@ title: Congress Votes Against Hudson Contravention
 slug: congress_votes_against_hudson_contravention
 date: '3309-03-21'
 source: API
-entities: []
-groups: []
-topics:
-- politics
-arc_id: null
-modern_impact: "Hudson's gracious acceptance — 'The Federation's democratic principles are paramount, and so I accept the decision of this chamber' — contrasts with his earlier push. His warning about 'disruption caused by a shift in leadership' is self-serving. The observation that 'Hudson will remain a powerful political figure with a loyal supporter base' is prescient. The Republican field narrowing to Archer vs. Berkovich sets up the nomination. Rackham being 'viewed as a serious threat' among independents is significant."
+summary: Congress narrowly defeats the Hudson Contravention, confirming Hudson's administration will end after the election; Archer and Berkovich emerge as Republican frontrunners, while Winters launches her campaign.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Hudson
 - Jerome Archer
@@ -19,8 +15,12 @@ persons:
 - Felicia Winters
 - Isolde Rochester
 - Zachary Rackham
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "Congress narrowly defeats the Hudson Contravention, confirming Hudson's administration will end after the election; Archer and Berkovich emerge as Republican frontrunners, while Winters launches her campaign."
+groups: []
+topics:
+- politics
+entities: []
+arc_id: null
+modern_impact: Hudson's gracious acceptance — 'The Federation's democratic principles are paramount, and so I accept the decision of this chamber' — contrasts with his earlier push. His warning about 'disruption caused by a shift in leadership' is self-serving. The observation that 'Hudson will remain a powerful political figure with a loyal supporter base' is prescient. The Republican field narrowing to Archer vs. Berkovich sets up the nomination. Rackham being 'viewed as a serious threat' among independents is significant.
 legacy_weight: 3
 significance: medium
 related_uuids:

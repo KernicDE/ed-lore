@@ -13,22 +13,18 @@ groups:
 locations:
 - Noti
 - Weber Gateway
-technologies:
-- Xihe Companions
-- holographic technology
 topics:
 - genetic experiments
 - independence
 - slavery
 - war
-modern_impact: Highlights ongoing ethical controversies surrounding genetic engineering
-  and slavery in the galaxy.
+technologies:
+- Xihe Companions
+- holographic technology
+modern_impact: Highlights ongoing ethical controversies surrounding genetic engineering and slavery in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Master Chefs Coming to Market
-
 
 Last month, a remarkable story emerged from The Noti system. According to an anonymous report, an organisation known As the Revolutionary Noti Values Party had created a new strain of slave labour known as 'the Master Chefs'. The unidentified whistleblower claimed the slaves were subjected to an intensive training programme designed to transform them into the galaxy's greatest gourmets – a claim dismissed by Many as an imaginative hoax. A subsequent report from the Federal Times of a Master Chef training facility at Weber Gateway went some way towards lending credibility to the story, but most people remained unconvinced. 
 

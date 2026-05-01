@@ -4,6 +4,8 @@ title: A Retrospective of 3307 (Part Four)
 slug: a_retrospective_of_3307_part_four
 date: '3307-12-31'
 source: API
+summary: Historian Sima Kalhana concludes her 3307 review, covering the Yuri Grom honey trap, Torval family rift, Colonia Bridge, NMLA's final stand, and Salvation's superweapons.
+player_impact: Not specifically mentioned — this is a historical retrospective.
 persons:
 - Sima Kalhana
 - Yuri Grom
@@ -40,12 +42,7 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-summary: Historian Sima Kalhana concludes her 3307 review, covering the Yuri Grom
-  honey trap, Torval family rift, Colonia Bridge, NMLA's final stand, and Salvation's
-  superweapons.
-player_impact: Not specifically mentioned — this is a historical retrospective.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:

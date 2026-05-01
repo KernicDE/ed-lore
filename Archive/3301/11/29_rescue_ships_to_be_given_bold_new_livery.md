@@ -13,18 +13,14 @@ groups:
 - Pilots Federation
 - Fuel Rats Mischief
 locations: []
-technologies: []
 topics:
 - humanitarian
 - ship
-modern_impact: Standardised rescue livery improves safety for both rescuers and those
-  in distress across inhabited space.
+technologies: []
+modern_impact: Standardised rescue livery improves safety for both rescuers and those in distress across inhabited space.
 legacy_weight: 1
 significance: low
 ---
-
-Rescue Ships to be Given Bold New Livery
-
 
 A joint initiative from The Pilots Federation and the Fuel Rats has resulted In a distinctive new colour scheme for search-and-rescue vessels. The livery has been designed to assist With the instant recognition of friendly rescue ships, thereby minimising unintentional attacks and soothing the nerves of those in need of rescue. 
 

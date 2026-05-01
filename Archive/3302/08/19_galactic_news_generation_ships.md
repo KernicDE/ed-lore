@@ -10,18 +10,15 @@ persons:
 - Sima Kalhana
 groups: []
 locations: []
-technologies:
-- generation ship
 topics:
 - corporate expansion
 - ship
+technologies:
+- generation ship
 modern_impact: Generation ships remain a persistent mystery, with the potential for future first-contact or rediscovery scenarios as vessels approach unknown destinations.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Generation Ships
-
 
 Continuing Our popular series on significant episodes from human history, noted historian Sima Kalhana discusses generation ships. 
 

@@ -4,6 +4,8 @@ title: Alliance Divided over Anti-Xeno Pact
 slug: alliance_divided_over_anti_xeno_pact
 date: '3308-06-13'
 source: API
+summary: The Alliance Assembly is deadlocked over ratifying the strategic defence pact with Sirius Corporation, with Prime Minister Edmund Mahon advocating for military strength while Councillor Nakato Kaine warns against corporate infiltration.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -23,8 +25,6 @@ topics:
 - politics
 - war
 arc_id: null
-summary: The Alliance Assembly is deadlocked over ratifying the strategic defence pact with Sirius Corporation, with Prime Minister Edmund Mahon advocating for military strength while Councillor Nakato Kaine warns against corporate infiltration.
-player_impact: Not specifically mentioned — this is a political report.
 modern_impact: The Assembly deadlock exposed the fundamental tension within the Alliance between security pragmatism and anti-corporate sovereignty, a divide that would define Allied politics throughout the Titan War.
 legacy_weight: 5
 significance: high

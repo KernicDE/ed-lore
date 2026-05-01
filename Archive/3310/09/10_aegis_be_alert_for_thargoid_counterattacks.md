@@ -4,6 +4,10 @@ title: 'Aegis: “Be Alert for Thargoid Counterattacks”'
 slug: aegis_be_alert_for_thargoid_counterattacks
 date: '3310-09-10'
 source: API
+summary: Aden Tanner warns Federal AX recruits against complacency following Titan Thor's destruction, highlighting the risk of Thargoid portal-based ambushes on ports beyond fleet blockades.
+player_impact: Pilots were warned to remain alert for Thargoid counterattacks behind front lines, particularly on ports beyond fleet blockades.
+persons:
+- Aden Tanner
 groups:
 - Aegis
 locations: []
@@ -11,18 +15,14 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Tanner's warning that 'the Thargoids can travel via portal technology, allowing them to spring ambushes on our ports beyond any fleet blockades' directly foreshadows the Shinrarta Dezhra invasion nine days later. His admission that 'we're playing catch-up when predicting the Thargoids' next move' reveals Aegis' intelligence limitations."
-persons:
-- Aden Tanner
-player_impact: "Pilots were warned to remain alert for Thargoid counterattacks behind front lines, particularly on ports beyond fleet blockades."
-summary: "Aden Tanner warns Federal AX recruits against complacency following Titan Thor's destruction, highlighting the risk of Thargoid portal-based ambushes on ports beyond fleet blockades."
+modern_impact: Tanner's warning that 'the Thargoids can travel via portal technology, allowing them to spring ambushes on our ports beyond any fleet blockades' directly foreshadows the Shinrarta Dezhra invasion nine days later. His admission that 'we're playing catch-up when predicting the Thargoids' next move' reveals Aegis' intelligence limitations.
 legacy_weight: 5
 significance: high
 related_uuids:
 - f04f8454-a964-5a70-94a4-24f7e93c8419
 ---
 
-*Pilots’ Federation Alert*
+**Pilots’ Federation Alert**
 Aden Tanner, special military advisor to the Aegis project, has warned of the potential for targeted Thargoid assaults on key military locations.
 Speaking during a recent graduation ceremony for the latest batch of Federal AX recruits, Tanner warned against complacency following the destruction of Titan Thor last month.
 “It may seem that we have the upper hand in this war. There’s no shame in taking pride in our accomplishments, and we’re certainly in a better place than when the Thargoid invasion started.”

@@ -4,6 +4,8 @@ title: Empire and Federation Clash Over Marlinists
 slug: empire_and_federation_clash_over_marlinists
 date: '3306-10-30'
 source: GitHub
+summary: The Empire repeats demands for deportation of Marlinist refugees. Ambassador Rochester accuses the Empire of a totalitarian purge. Both superpowers suspend official communication channels, with commentators warning of potential war.
+player_impact: None
 persons:
 - Imogen Luciana
 - Jordan Rochester
@@ -12,12 +14,7 @@ topics:
 - terrorism
 - war
 - diplomacy
-summary: The Empire repeats demands for deportation of Marlinist refugees. Ambassador
-  Rochester accuses the Empire of a totalitarian purge. Both superpowers suspend official
-  communication channels, with commentators warning of potential war.
-player_impact: None
-modern_impact: The diplomatic rupture over Marlinist refugees brings the Empire and Federation
-  to the brink of open conflict.
+modern_impact: The diplomatic rupture over Marlinist refugees brings the Empire and Federation to the brink of open conflict.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -25,9 +22,6 @@ related_uuids:
 - 8492d17d-2813-5b47-9b39-485a2ef6ed98
 - d1d08497-4af0-570f-8be8-dee3c1c8b6fb
 ---
-
-Empire and Federation Clash Over Marlinists
-
 
 The Empire has repeated Its demand for the Federation to deport all Marlinist emigrants, as tensions increase between the two superpowers. 
 

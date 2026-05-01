@@ -8,14 +8,10 @@ entities:
 - Halsey earlier this morning
 - Naylor
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
 ---
-
-Naylor Pledges Support of Halsey
-
 
 After Shadow President Hudson’s scathing attack on President Halsey earlier This morning, Vice President Naylor has sworn to continue his support of President Halsey. 
 

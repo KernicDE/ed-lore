@@ -4,21 +4,18 @@ title: President Halsey Addresses Accusations
 slug: president_halsey_addresses_accusations
 date: '3301-04-07'
 source: GitHub
-entities:
-- Halsey Addresses Accusations
-- Hudson's campaign
-- Jasmina Halsey
 groups:
 - Federal Navy
 topics:
 - scandal
+entities:
+- Halsey Addresses Accusations
+- Hudson's campaign
+- Jasmina Halsey
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-President Halsey Addresses Accusations
-
 
 President Jasmina Halsey has finally chosen to directly address Shadow President Hudson's campaign to see her removed from office. In a statement issued during a rare appearance on ‘Face The People’, The President had This to say about her current situation:  
 

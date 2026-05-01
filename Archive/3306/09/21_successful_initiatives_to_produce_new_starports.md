@@ -4,13 +4,15 @@ title: Successful Initiatives to Produce New Starports
 slug: successful_initiatives_to_produce_new_starports
 date: '3306-09-21'
 source: GitHub
+summary: Both Kavanagh Spaceframes and Steel Castle Inc successfully conclude their initiatives to upgrade refinery outposts into starports across ten systems. New Orbis and Coriolis stations will be operational by October.
+player_impact: Pilots who delivered materials can collect rewards at Blaauw Hub in Tenche and Teng-hui Station in Nagasairu.
+persons:
+- Susannah Haynes
+- Dean Bradigan
 groups:
 - Pilots Federation
 - Kavanagh Spaceframes Ltd
 - Steel Castle Inc
-persons:
-- Susannah Haynes
-- Dean Bradigan
 locations:
 - Fjorgyn
 - HR 4979
@@ -27,13 +29,7 @@ locations:
 topics:
 - construction
 - trade
-summary: Both Kavanagh Spaceframes and Steel Castle Inc successfully conclude their initiatives
-  to upgrade refinery outposts into starports across ten systems. New Orbis and Coriolis
-  stations will be operational by October.
-player_impact: Pilots who delivered materials can collect rewards at Blaauw Hub in Tenche
-  and Teng-hui Station in Nagasairu.
-modern_impact: The successful construction expands fleet carrier refuelling infrastructure
-  across multiple systems.
+modern_impact: The successful construction expands fleet carrier refuelling infrastructure across multiple systems.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -42,10 +38,7 @@ related_uuids:
 - 07f4c3e2-ca2b-55cc-9321-3c0cdefa1f74
 ---
 
-Successful Initiatives to Produce New Starports
-
-
-*Pilots Federation ALERT: For The attention of all Commanders* 
+**Pilots Federation ALERT: For The attention of all Commanders** 
 
 New starports to be constructed in 10 systems. 
 

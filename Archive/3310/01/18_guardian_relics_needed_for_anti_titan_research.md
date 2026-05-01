@@ -4,7 +4,11 @@ title: Guardian Relics Needed for Anti-Titan Research
 slug: guardian_relics_needed_for_anti_titan_research
 date: '3310-01-18'
 source: API
-entities: []
+summary: Aegis launches an initiative to collect Guardian relics and Unclassified relics for Ram Tah's classified anti-Titan research, with Tesreau expressing encouragement after witnessing laboratory tests.
+player_impact: Pilots are asked to deliver Guardian relics and Unclassified relics to Felice Dock in the Meene system.
+persons:
+- Alba Tesreau
+- Ram Tah
 groups:
 - Aegis
 locations:
@@ -13,16 +17,12 @@ topics:
 - engineering
 - research
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Tesreau's statement — 'Having witnessed Ram Tah's laboratory tests only yesterday, I was hugely encouraged that his work could lead to the end of this devastating war' — provides high-level validation of the research. The explanation of Unclassified relics — 'created when these crystalline objects are inserted into an ancient Thargoid surface site' — reveals the hybrid nature of the research. The promise that 'Ram Tah has promised to reveal more details to the public should these prototypes succeed' creates narrative anticipation."
-persons:
-- Alba Tesreau
-- Ram Tah
+entities: []
 technologies:
 - Guardian relics
 - Unclassified relics
-player_impact: "Pilots are asked to deliver Guardian relics and Unclassified relics to Felice Dock in the Meene system."
-summary: "Aegis launches an initiative to collect Guardian relics and Unclassified relics for Ram Tah's classified anti-Titan research, with Tesreau expressing encouragement after witnessing laboratory tests."
+arc_id: thargoid-titan-war
+modern_impact: Tesreau's statement — 'Having witnessed Ram Tah's laboratory tests only yesterday, I was hugely encouraged that his work could lead to the end of this devastating war' — provides high-level validation of the research. The explanation of Unclassified relics — 'created when these crystalline objects are inserted into an ancient Thargoid surface site' — reveals the hybrid nature of the research. The promise that 'Ram Tah has promised to reveal more details to the public should these prototypes succeed' creates narrative anticipation.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,7 +30,7 @@ related_uuids:
 - dc080e97-cc4c-55c0-a84e-b80d6fba5d83
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The engineer Ram Tah requires urgent deliveries of Guardian relics and Unclassified relics to the Meene system.
 Professor Alba Tesreau, head of Aegis, made an announcement to launch the initiative:
 “Since the arrival of the Thargoid Titans, we have developed several new modules to bypass their defences. But these motherships remain a constant presence in our space, continuing to unleash never-ending swarms of Thargoid vessels.”

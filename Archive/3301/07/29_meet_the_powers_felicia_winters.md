@@ -4,6 +4,8 @@ title: Meet the Powers – Felicia Winters
 slug: meet_the_powers_felicia_winters
 date: '3301-07-29'
 source: GitHub
+summary: Political commentator Marcus Macmillan profiles Shadow President Felicia Winters. Thrust into leadership of the Liberal Party after President Halsey's disappearance and Vice President Nigel Smeaton's murder, she inherited a party in crisis. Born and raised on Taylor Colony, Winters believes humanity cannot always be trusted to do the right thing and sees it as her duty to push for the hard but correct choice. She has proven a versatile opponent, running level with President Hudson in polls as voters turn away from his aggressive rhetoric.
+player_impact: None
 persons:
 - Felicia Winters
 - Jasmina Halsey
@@ -20,18 +22,11 @@ locations:
 topics:
 - politics
 arc_id: federal-politics
-summary: Political commentator Marcus Macmillan profiles Shadow President Felicia Winters. Thrust into leadership of the Liberal Party after President Halsey's disappearance and Vice President Nigel Smeaton's murder, she inherited a party in crisis. Born and raised on Taylor Colony, Winters believes humanity cannot always be trusted to do the right thing and sees it as her duty to push for the hard but correct choice. She has proven a versatile opponent, running level with President Hudson in polls as voters turn away from his aggressive rhetoric.
-player_impact: None
 modern_impact: Profile establishes Felicia Winters as a formidable political force rising from crisis to challenge President Hudson's hardline policies.
 legacy_weight: 3
 significance: medium
 ---
 
-Meet The Powers – Felicia Winters
-
-
-Meet The Powers – Felicia Winters 
- 
 Continuing This GalNet exclusive series, political commentator Marcus Macmillan writes his opinion of some of the movers and shakers in 3301. In This fourth article he considers Shadow President Felicia Winters and her sudden rise to power. 
 
 With the disappearance of President Halsey and the earlier the murder of President Nigel Smeaton, Felicia Winters Found herself thrust in charge of the Liberal Party. She inherited a political party in crisis and has had to work quickly to try and restore people’s faith in her party. 

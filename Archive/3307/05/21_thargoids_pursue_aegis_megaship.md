@@ -4,7 +4,8 @@ title: Thargoids Pursue Aegis Megaship
 slug: thargoids_pursue_aegis_megaship
 date: '3307-05-21'
 source: API
-arc_id: thargoid-contact
+summary: The Alexandria megaship jumps from Delphi to HIP 16538, triggering a Thargoid attack. Captain Jacob Morales broadcasts an SOS. Admiral Aden Tanner believes the Thargoids are reacting to Guardian artefacts in the cargo hold and requests anti-xeno assistance.
+player_impact: Pilots were asked to destroy Thargoid vessels in HIP 16538 and protect the Alexandria megaship.
 persons:
 - Jacob Morales
 - Aden Tanner
@@ -17,27 +18,26 @@ locations:
 - HIP 16538
 - Sol
 - HIP 30944
-technologies:
-- Alexandria megaship
-- Guardian artefacts
-- Tritium
 topics:
 - alien contact
 - research
 - war
 - xenoarchaeology
-player_impact: Pilots were asked to destroy Thargoid vessels in HIP 16538 and protect the Alexandria megaship.
-summary: The Alexandria megaship jumps from Delphi to HIP 16538, triggering a Thargoid attack. Captain Jacob Morales broadcasts an SOS. Admiral Aden Tanner believes the Thargoids are reacting to Guardian artefacts in the cargo hold and requests anti-xeno assistance.
+technologies:
+- Alexandria megaship
+- Guardian artefacts
+- Tritium
+arc_id: thargoid-contact
 modern_impact: The Alexandria incident confirms that concentrating Guardian technology attracts Thargoid aggression, a vulnerability that undermines Aegis's research strategy and contributes to the organisation's eventual suspension.
+legacy_weight: 5
+significance: high
 related_uuids:
 - b6aa5197-46b1-54fe-8245-71ca6fe9fd40
 - c8970a7c-f1b9-57df-aaac-b318e5078cab
 - 94863186-a8f1-51f0-8ed0-e8f06ab768bb
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The Alexandria megaship has jumped from Delphi to the HIP 16538 system, triggering a Thargoid attack.
 The megaship is carrying large quantities of Guardian artefacts, Which were delivered as part of a research programme by Aegis. 
 Captain Jacob Morales, commanding officer of the Alexandria, has broadcast an SOS:

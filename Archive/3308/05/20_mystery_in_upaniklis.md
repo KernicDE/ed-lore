@@ -4,7 +4,8 @@ title: Mystery in Upaniklis
 slug: mystery_in_upaniklis
 date: '3308-05-20'
 source: API
-arc_id: null
+summary: The Artificers Clan continues to examine the Golconda in Upaniklis, causing unease among the former inhabitants at Forester's Choice.
+player_impact: Commander Javi Alvarado submitted observations about the Artificers Clan's activity around the Golconda.
 persons:
 - Javi Alvarado
 groups: []
@@ -13,14 +14,13 @@ locations:
 - Golconda
 topics:
 - diplomacy
-player_impact: Commander Javi Alvarado submitted observations about the Artificers Clan's activity around the Golconda.
-summary: The Artificers Clan continues to examine the Golconda in Upaniklis, causing unease among the former inhabitants at Forester's Choice.
-modern_impact: "\"For centuries their entire existence relied upon the Golconda, and its presence nearby was reassuring.\" The Artificers' unexplained interest in the derelict generation ship triggered a cultural crisis among the Golcondans, whose identity had become inextricably linked to the vessel even after abandoning it."
+arc_id: null
+modern_impact: '"For centuries their entire existence relied upon the Golconda, and its presence nearby was reassuring." The Artificers'' unexplained interest in the derelict generation ship triggered a cultural crisis among the Golcondans, whose identity had become inextricably linked to the vessel even after abandoning it.'
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 92d33fe4-b325-5ffb-a1ec-8b8644a34b88
 - 29d5b601-f009-53a2-872a-6e2947837243
-legacy_weight: 3
-significance: medium
 ---
 
 A Dredger clan is continuing to examine The abandoned generation ship Golconda in the Upaniklis system.

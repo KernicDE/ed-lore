@@ -4,6 +4,8 @@ title: Far God Survivor Revived
 slug: far_god_survivor_revived
 date: '3305-03-30'
 source: GitHub
+summary: The occupant of a cryogenic pod recovered from an abandoned Far God outpost is identified as 17-year-old Kiona O'Connor, who reveals she joined the cult seeking shelter from homelessness and remembers little before being placed in suspended animation.
+player_impact: None — background report.
 persons:
 - Kiona O'Connor
 - John O'Connor
@@ -16,17 +18,12 @@ locations:
 topics:
 - medicine
 - religion
-summary: The occupant of a cryogenic pod recovered from an abandoned Far God outpost is identified as 17-year-old Kiona O'Connor, who reveals she joined the cult seeking shelter from homelessness and remembers little before being placed in suspended animation.
-player_impact: None — background report.
 modern_impact: Kiona's story humanised the Far God cult's victims, revealing that many adherents were vulnerable homeless individuals seeking refuge rather than true believers, and prompted the FIA to contact her family for reunion.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 754fb641-d6bd-5591-b180-b864e6058ead
 ---
-
-Far God Survivor Revived
-
 
 The occupant of a cryogenic pod recovered from an abandoned outpost used by the Far God sect has been revived successfully. 
 

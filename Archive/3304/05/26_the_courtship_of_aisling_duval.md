@@ -27,9 +27,6 @@ legacy_weight: 2
 significance: low
 ---
 
-The Courtship of Aisling Duval
-
-
 A media broadcast has identified a number of potential romantic suitors for Princess Aisling Duval. 
 
 Entertainment journalist Solomon Helios discussed the matter In a special edition of his programme: 

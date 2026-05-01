@@ -29,9 +29,6 @@ related_uuids:
 - c5cb5bec-f7cd-563c-9c57-d8f5ede49843
 ---
 
-Mars Tribune Refutes Allegations
-
-
 As the Federal Security Service Continues Its investigation into The Mars Tribune for illegally obtaining the private information of Federal citizens, the newsfeed’s parent company, the Cordova Group, has filed a formal complaint.  
 
 The FSS has established that the administration robots of Dozens of public figures and wealthy individuals have been fitted With hidden surveillance programs, and that these programs may be the source of Several scandals exposed, exclusively, by The Mars Tribune. 

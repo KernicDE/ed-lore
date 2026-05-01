@@ -4,7 +4,8 @@ title: Class 5 Experimental Weapons Stabiliser Released
 slug: class_5_experimental_weapons_stabiliser_released
 date: '3309-02-01'
 source: API
-entities: []
+summary: Azimuth Biotech commercially launches a class 5 experimental weapons stabiliser that allows large ships to mount six AX weapons.
+player_impact: Not specifically mentioned — this is a corporate expansion report.
 persons:
 - Torben Rademaker
 groups:
@@ -14,21 +15,15 @@ locations:
 topics:
 - alien contact
 - corporate expansion
+entities: []
 arc_id: null
-player_impact: Not specifically mentioned — this is a corporate expansion report.
-summary: Azimuth Biotech commercially launches a class 5 experimental weapons stabiliser
-  that allows large ships to mount six AX weapons.
-modern_impact: "CEO Torben Rademaker claimed: \"Our proprietary technology has bypassed
-  the inherent design flaws of Aegis's AX weaponry.\" This highlights how Azimuth
-  Biotech leveraged the Thargoid war to dominate the military-industrial market,
-  positioning itself as humanity's primary anti-xeno defence contractor and sidelining
-  the once-collaborative Aegis model with corporate competition."
-related_uuids: []
+modern_impact: 'CEO Torben Rademaker claimed: "Our proprietary technology has bypassed the inherent design flaws of Aegis''s AX weaponry." This highlights how Azimuth Biotech leveraged the Thargoid war to dominate the military-industrial market, positioning itself as humanity''s primary anti-xeno defence contractor and sidelining the once-collaborative Aegis model with corporate competition.'
 legacy_weight: 5
 significance: high
+related_uuids: []
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Azimuth Biotech has commercially launched a new module that allows two additional AX weapons to be added to large ships.
 The experimental weapons stabiliser increases the number of AX weapons which can be installed on a ship. The class 3 variant released last week increases the limit to five, whereas the class 5 variant released yesterday increases it to six. 
 Both versions entered mass production following Azimuth Biotech’s highly successful resource drive in the LHS 1163 system. CEO Torben Rademaker issued a statement to accompany the product launch:

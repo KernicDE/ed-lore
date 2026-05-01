@@ -10,17 +10,14 @@ persons: []
 groups:
 - EG Pilots
 locations: []
-technologies: []
 topics:
 - sport
 - war
+technologies: []
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: EG Pilots Dominate First Wildcard Event
-
 
 Last week saw The start of a three-week campaign to determine Which of the galaxy's minor factions would earn a place in the forthcoming Dangerous Games. The victor of the so-called 'Wildcard' competition will go on to vie for the right to be recognised as an official power. 
 

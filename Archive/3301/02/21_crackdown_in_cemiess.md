@@ -10,14 +10,10 @@ topics:
 - crime
 - safety
 - slavery
-modern_impact: Pilot safety initiative with potential regulatory implications for
-  starship design.
+modern_impact: Pilot safety initiative with potential regulatory implications for starship design.
 legacy_weight: 1
 significance: low
 ---
-
-Crackdown in Cemiess
-
 
 There’s trouble brewing in Cemiess, caused in no small part by The recent influx of emancipated Imperial Slaves who now call The area their home.  
 

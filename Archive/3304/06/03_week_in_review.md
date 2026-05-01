@@ -53,9 +53,6 @@ related_uuids:
 - 6c73a7e2-e5c8-54ae-a8be-12b073c86722
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 The Socho system, headquarters of Aegis Core, has been overtaken by The Socho Gold Raiders, a criminal faction. The system is now In a state of anarchy. Aegis personnel, including Dr Mia Valencourt and Professor Alba Tesreau, have appealed to the galactic community to help free Socho from the criminals. 

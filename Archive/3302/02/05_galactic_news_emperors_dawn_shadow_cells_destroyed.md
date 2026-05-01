@@ -20,14 +20,10 @@ topics:
 - terrorism
 - war
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
-  politics and military policy.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Emperor's Dawn Shadow Cells Destroyed
-
 
 Imperial Senator Denton Patreus has confirmed that The Emperor's Dawn 'shadow' cells discovered two weeks ago in the Dakshmandi, Ipilyaqa and Ch'i Lin systems have been destroyed. Thousands of Independent pilots responded to the senator's call to arms, resulting in the total destruction of what are thought to be the last remaining Emperor's Dawn outposts. Following the victory, Senator Patreus released a statement to the media: 
 

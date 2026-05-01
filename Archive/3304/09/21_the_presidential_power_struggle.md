@@ -27,9 +27,6 @@ related_uuids:
 - d0865fea-f2ad-5f69-a30d-5d82d30413b9
 ---
 
-The Presidential Power Struggle
-
-
 With the Alliance presidential race gathering speed, political journalist Vanya Driscoll has published an analysis in The Alliance Tribune: 
 
 “The election of a new president is usually a ceremonial matter, during Which voters select a public ‘face’ for the Alliance, but This year is a genuine power struggle – One that may have major consequences.” 

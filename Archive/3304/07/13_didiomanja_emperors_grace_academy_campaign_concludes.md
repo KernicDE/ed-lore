@@ -1,6 +1,6 @@
 ---
 uuid: 9177e211-a080-5a19-b2bd-634273e040c6
-title: "Didiomanja Emperor's Grace Academy Campaign Concludes"
+title: Didiomanja Emperor's Grace Academy Campaign Concludes
 slug: didiomanja_emperors_grace_academy_campaign_concludes
 date: '3304-07-13'
 source: GitHub
@@ -23,9 +23,6 @@ significance: low
 related_uuids:
 - 0313bbef-6e3f-5e5f-84f8-bdbb81d971f9
 ---
-
-Didiomanja Emperor’s Grace Academy Campaign Concludes
-
 
 The Didiomanja Emperor’s Grace Academy has announced that Its initiative has reached a successful conclusion. Large quantities of exotic food and drink, and mined resources, were delivered to Leydenfrost Dock over the past week, allowing the organisation to host a sumptuous banquet and construct a monument in honour of Admiral Mira Tiverion. 
 

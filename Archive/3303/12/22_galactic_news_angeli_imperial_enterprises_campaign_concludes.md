@@ -24,9 +24,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Angeli Imperial Enterprises Campaign Concludes
-
-
 A spokesperson for Angeli Imperial Enterprises has announced that Its appeal for commodities has been enthusiastically received by The galactic community, resulting In a massive influx of deliveries to Potagos Port, the organisation’s base of operations. The materials will be used to build a Dionysus-class Agricultural Vessel in support of ongoing resource-extraction operations in the Pleiades. 
 
 Angeli Imperial Enterprises has extended its gratitude to those who supported the campaign. 

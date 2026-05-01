@@ -13,14 +13,10 @@ topics:
 - narcotics
 - safety
 - war
-modern_impact: Pilot safety initiative with potential regulatory implications for
-  starship design.
+modern_impact: Pilot safety initiative with potential regulatory implications for starship design.
 legacy_weight: 1
 significance: low
 ---
-
-Internal Strife Strikes Tanmark
-
 
 News is coming out of The Tanmark system of an ongoing conflict having broken out between The Defence Force of Tanmark and a local criminal gang known As the Tanmark Posse. The Tanmark Posse are reportedly the main driving force behind the recent cultivation of Lucan Onionhead in hidden facilities throughout Luca. 
 

@@ -25,9 +25,6 @@ related_uuids:
 - 1f133226-e32f-5511-9bbd-bffc26348cb3
 ---
 
-Ships Destroyed by The League of Reparation
-
-
 The Pilots Federation has reported that Five Independent ships have been attacked by terrorist organisation the League of Reparation, With the loss of all crewmembers. 
 
 No details have been released regarding specific names or locations, except that three of the ships were attacked in Alliance-controlled systems, One In a Federal system and one in Imperial space. 

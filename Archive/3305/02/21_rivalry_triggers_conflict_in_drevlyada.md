@@ -4,6 +4,8 @@ title: Rivalry Triggers Conflict in Drevlyada
 slug: rivalry_triggers_conflict_in_drevlyada
 date: '3305-02-21'
 source: GitHub
+summary: A long-standing personal rivalry between General Kendrick of the Namab Purple Brothers and Marshal Cooper of the Drevlyada League escalates into open conflict in the Drevlyada system.
+player_impact: Pilots could support either faction in the Drevlyada conflict.
 persons:
 - Karleen Troy
 - General Kendrick
@@ -15,17 +17,12 @@ locations:
 - Drevlyada
 topics:
 - war
-summary: A long-standing personal rivalry between General Kendrick of the Namab Purple Brothers and Marshal Cooper of the Drevlyada League escalates into open conflict in the Drevlyada system.
-player_impact: Pilots could support either faction in the Drevlyada conflict.
 modern_impact: The Drevlyada conflict exemplified how personal grudges between military leaders could engulf entire systems in warfare, with both leaders ultimately executed by their own lieutenants for causing excessive casualties.
 legacy_weight: 2
 significance: low
 related_uuids:
 - fe21ac2f-417b-561c-adb7-d1c158cdcd51
 ---
-
-Rivalry Triggers Conflict in Drevlyada
-
 
 A long-standing enmity between two military leaders has escalated into hostilities in The Drevlyada system. 
 

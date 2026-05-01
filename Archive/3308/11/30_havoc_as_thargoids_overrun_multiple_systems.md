@@ -4,7 +4,8 @@ title: Havoc as Thargoids Overrun Multiple Systems
 slug: havoc_as_thargoids_overrun_multiple_systems
 date: '3308-11-30'
 source: API
-arc_id: null
+summary: Nine systems have called for help against massive Thargoid attacks intent on wiping out civilian populations.
+player_impact: Independent pilots were encouraged to participate in the unfolding events.
 persons:
 - Denton Patreus
 - Edmund Mahon
@@ -25,24 +26,19 @@ topics:
 - humanitarian
 - research
 - war
-player_impact: Independent pilots were encouraged to participate in the unfolding
-  events.
-summary: Nine systems have called for help against massive Thargoid attacks intent
-  on wiping out civilian populations.
-modern_impact: '"The arrival of what military scientists have labelled the ‘Taranis
-  Maelstrom’ has brought terror and carnage to milli..." This perspective highlights
-  the broader stakes and continues to shape contemporary debates.'
+arc_id: null
+modern_impact: '"The arrival of what military scientists have labelled the ‘Taranis Maelstrom’ has brought terror and carnage to milli..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - d8b14f7a-0b22-5f2d-a164-45b74638e864
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - d9c25fb2-563a-5af4-ac33-6f60c406b5a5
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 - 98d2b600-086b-56d5-b7de-45bee9289a6f
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Nine systems have called for help against massive Thargoid attacks intent on wiping out civilian populations.
 Ernesto Rios, field correspondent for Vox Galactica, reported:
 “The arrival of what military scientists have labelled the ‘Taranis Maelstrom’ has brought terror and carnage to millions. As soon as the rogue signal source arrived, local inhabited systems became flooded with enormous numbers of Thargoid vessels. Six populated systems close to Hyades Sector FB-N b7-6 were rapidly overwhelmed, while another nine systems in the region are currently facing full-scale invasions.”

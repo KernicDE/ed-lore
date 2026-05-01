@@ -14,20 +14,17 @@ groups:
 locations:
 - Fedmich
 - Roberts Port
-technologies: []
 topics:
 - crime
 - humanitarian
 - safety
 - ship
 - war
+technologies: []
 modern_impact: Rescue and combat community goal following an Alliance convoy attack in Fedmich.
 legacy_weight: 1
 significance: low
 ---
-
-Community Goal: Alliance Appeals for Help
-
 
 The Alliance Council of Admirals has announced that an Alliance convoy has been attacked in the Fedmich system. 
 

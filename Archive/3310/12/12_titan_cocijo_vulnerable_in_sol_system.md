@@ -4,6 +4,10 @@ title: Titan Cocijo Vulnerable in Sol system
 slug: titan_cocijo_vulnerable_in_sol_system
 date: '3310-12-12'
 source: API
+summary: Titan Cocijo becomes vulnerable to direct assault after Thargoid forces are pushed back from surrounding systems, and Aegis calls for pilots to join the Battle for Sol with specialised anti-Titan equipment.
+player_impact: Pilots equipped with Thargoid Pulse Neutralisers, Caustic Sink Launchers, and Guardian Nanite Torpedo Pylons navigated the Maelstrom around Cocijo to strike the Titan's Heat Vents. Aegis scanners recorded damage inflicted by individual ships without requiring port registration.
+persons:
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -12,16 +16,12 @@ locations:
 topics:
 - alien contact
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Tanner's statement — 'This is our chance to put an end to the Thargoid invasion once and for all' — marks the psychological turning point where victory becomes conceivable. The specific equipment requirements (Pulse Neutraliser, Caustic Sink Launchers, Guardian Nanite Torpedo Pylon) define the anti-Titan meta and will be referenced in future xeno-defense doctrine."
-persons:
-- Aden Tanner
 technologies:
 - Thargoid Pulse Neutraliser
 - Caustic Sink Launcher
 - Guardian Nanite Torpedo Pylon
-player_impact: "Pilots equipped with Thargoid Pulse Neutralisers, Caustic Sink Launchers, and Guardian Nanite Torpedo Pylons navigated the Maelstrom around Cocijo to strike the Titan's Heat Vents. Aegis scanners recorded damage inflicted by individual ships without requiring port registration."
-summary: "Titan Cocijo becomes vulnerable to direct assault after Thargoid forces are pushed back from surrounding systems, and Aegis calls for pilots to join the Battle for Sol with specialised anti-Titan equipment."
+arc_id: thargoid-titan-war
+modern_impact: Tanner's statement — 'This is our chance to put an end to the Thargoid invasion once and for all' — marks the psychological turning point where victory becomes conceivable. The specific equipment requirements (Pulse Neutraliser, Caustic Sink Launchers, Guardian Nanite Torpedo Pylon) define the anti-Titan meta and will be referenced in future xeno-defense doctrine.
 legacy_weight: 5
 significance: high
 related_uuids:

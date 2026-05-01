@@ -33,9 +33,6 @@ related_uuids:
 - 633140ee-0862-53e1-adcf-f1eed4d5eb67
 ---
 
-Riri McAllister Shot
-
-
 Former rear admiral Riri McAllister has been shot. She is currently undergoing medical treatment. 
 
 The incident took place at the Alliance Chamber of Justice on Turner’s World in the Alioth system. McAllister was on trial for organising acts of terrorism as Nexus, founder of the League of Reparation. 

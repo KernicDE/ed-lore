@@ -57,9 +57,6 @@ related_uuids:
 - e9f5831f-f04e-54c6-b5b1-e0ab2af352d4
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 The League of Reparation has been dismantled, According to the tri-superpower taskforce investigating the organisation. The announcement followed a successful operation to remove League forces from two systems – One in Federal and one in Imperial space. Riri McAllister, the League’s central coordinator, has been charged With multiple terrorism-related crimes. 

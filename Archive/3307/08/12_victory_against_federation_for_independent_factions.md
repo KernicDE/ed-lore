@@ -4,27 +4,23 @@ title: Victory Against Federation for Independent Factions
 slug: victory_against_federation_for_independent_factions
 date: '3307-08-12'
 source: API
-groups:
-- Federation
+summary: New Kuwembaa Labour successfully secedes from the Federation, inspiring three additional factions to sever ties and shut down Proactive Detection Bureau links across 28 systems.
+player_impact: Pilots who supported New Kuwembaa Labour secured its independence from Federal control.
 persons:
 - Sonal Mishra
 - Zachary Hudson
+groups:
+- Federation
 topics:
 - independence
 - war
 arc_id: federal-politics
-summary: New Kuwembaa Labour successfully secedes from the Federation, inspiring three
-  additional factions to sever ties and shut down Proactive Detection Bureau links
-  across 28 systems.
-player_impact: Pilots who supported New Kuwembaa Labour secured its independence from
-  Federal control.
-modern_impact: Federal political developments shape superpower relations and civil
-  liberties debates.
+modern_impact: Federal political developments shape superpower relations and civil liberties debates.
 legacy_weight: 3
 significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 New Kuwembaa Labour has successfully seceded from The Federation and inspired Other systems to declare Independence.
 The conflict in the Kuwembaa system ended With Federal loyalists Li Chotep for Equality being defeated. As a result, all systems controlled by New Kuwembaa Labour will remain Independent.
 This has inspired Selkana Labour, United HIP 108095 Values Party and Mutumu Future to also sever ties With the Federation, spreading the rebellion across a Further 28 systems.

@@ -22,9 +22,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: Protesters Petition for Halsey's Freedom
-
-
 One year ago today, Federal President Jasmina Halsey and Vice-President Ethan Naylor embarked on a tour of Federation frontier systems. Two weeks later, Starship One was declared Missing With all hands. Despite initial assessments that The ship would never be Found, the remains of the Vessel were Located and a handful of survivors recovered, including former president Halsey. 
 
 Although Halsey had Many political opponents, she also had many supporters. Some of these supporters have assembled outside the psychiatric facility on Mars where Halsey is currently located, waving signs and chanting various slogans, seeking her release. 

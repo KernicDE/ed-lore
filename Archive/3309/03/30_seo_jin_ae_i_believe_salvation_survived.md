@@ -1,10 +1,16 @@
 ---
 uuid: 647ad1d2-a58f-5e9b-94ad-d7f1b1ffd668
-title: "Seo Jin-ae: 'I Believe Salvation Survived'"
+title: 'Seo Jin-ae: ''I Believe Salvation Survived'''
 slug: seo_jin_ae_i_believe_salvation_survived
 date: '3309-03-30'
 source: API
-entities: []
+summary: Seo Jin-ae claims Salvation planned to escape death via the Nemesis Failsafe, a Guardian-based consciousness transfer technology, while the Order of the Far God megaship that rescued her departs Luyten's Star.
+player_impact: Not specifically mentioned.
+persons:
+- Seo Jin-ae
+- Caleb Wycherley
+- Aden Tanner
+- Zachary Hudson
 groups:
 - Aegis
 - Azimuth
@@ -22,15 +28,9 @@ topics:
 - engineering
 - humanitarian
 - xenoarchaeology
+entities: []
 arc_id: salvation-azimuth
-modern_impact: "Seo Jin-ae's extraordinary claim — 'I believe, only physically. He was developing technology to automatically relocate his mind, an emergency protocol he named the Nemesis Failsafe' — introduces one of the most unsettling concepts in Elite Dangerous lore. Tanner's measured response — 'the files contained no concrete proof that the Nemesis Failsafe was constructed, or if it could actually work' — preserves narrative ambiguity while validating the threat to Aegis personnel."
-persons:
-- Seo Jin-ae
-- Caleb Wycherley
-- Aden Tanner
-- Zachary Hudson
-player_impact: "Not specifically mentioned."
-summary: "Seo Jin-ae claims Salvation planned to escape death via the Nemesis Failsafe, a Guardian-based consciousness transfer technology, while the Order of the Far God megaship that rescued her departs Luyten's Star."
+modern_impact: Seo Jin-ae's extraordinary claim — 'I believe, only physically. He was developing technology to automatically relocate his mind, an emergency protocol he named the Nemesis Failsafe' — introduces one of the most unsettling concepts in Elite Dangerous lore. Tanner's measured response — 'the files contained no concrete proof that the Nemesis Failsafe was constructed, or if it could actually work' — preserves narrative ambiguity while validating the threat to Aegis personnel.
 legacy_weight: 5
 significance: high
 related_uuids:

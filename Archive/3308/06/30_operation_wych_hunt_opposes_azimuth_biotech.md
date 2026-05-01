@@ -1,9 +1,11 @@
 ---
 uuid: d506983a-04e6-5b65-8223-92c8cf470399
-title: "'Operation Wych Hunt' Opposes Azimuth Biotech"
+title: '''Operation Wych Hunt'' Opposes Azimuth Biotech'
 slug: operation_wych_hunt_opposes_azimuth_biotech
 date: '3308-06-30'
 source: API
+summary: A coalition of independent Commanders launches 'Operation Wych Hunt' to destabilise Azimuth Biotech, protesting Salvation's identity as Caleb Wycherley and his involvement in the mycoid bioweapon, Project Seraph, and the Alexandria destruction.
+player_impact: Independent Commanders organised civil actions and combat strikes under 'Operation Wych Hunt' to undermine Azimuth Biotech's presence in multiple systems.
 persons:
 - Alba Tesreau
 - Caleb Wycherley
@@ -24,17 +26,15 @@ topics:
 - investigation
 - war
 arc_id: salvation-azimuth
-summary: A coalition of independent Commanders launches 'Operation Wych Hunt' to destabilise Azimuth Biotech, protesting Salvation's identity as Caleb Wycherley and his involvement in the mycoid bioweapon, Project Seraph, and the Alexandria destruction.
-player_impact: Independent Commanders organised civil actions and combat strikes under 'Operation Wych Hunt' to undermine Azimuth Biotech's presence in multiple systems.
 modern_impact: Operation Wych Hunt represented the first organised pilot resistance to Salvation, exposing how Azimuth's atrocities had generated a grassroots counter-movement even as superpowers doubled down on their alliance with the corporation.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 6a3fd658-33a2-5409-8ade-90b666edefc5
 - 6d163a8d-7539-5b90-955d-f084b5d63e52
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A coalition of independent Commanders has been formed to destabilise Salvation’s anti-xeno organisation.
 The Alliance, Empire and Federation are providing military backing to Azimuth Biotech – formerly Taurus Mining Ventures – to end the Thargoid threat. Many members of the Pilots’ Federation have also declared their support, but some have organised a resistance movement.
 To undermine Azimuth Biotech’s presence in several systems, a series of civil actions and combat strikes are being coordinated under the banner ‘Operation Wych Hunt’. This refers to evidence that suggests Salvation’s real name is Dr Caleb Wycherley, also referred to as ‘the Witch’ in several sources.

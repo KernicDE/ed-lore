@@ -4,6 +4,8 @@ title: Patreus Highlights Thargoid Tactics
 slug: patreus_highlights_thargoid_tactics
 date: '3308-09-13'
 source: API
+summary: Senator Denton Patreus analyses the Battle of HIP 22460, suggesting the Thargoids deliberately allowed the Proteus Wave installation so they could turn the superweapon against humanity.
+player_impact: Not specifically mentioned — this is a political interview.
 persons:
 - Denton Patreus
 - Arissa Lavigny-Duval
@@ -17,13 +19,7 @@ topics:
 - espionage
 - war
 arc_id: salvation-azimuth
-summary: Senator Denton Patreus analyses the Battle of HIP 22460, suggesting the Thargoids
-  deliberately allowed the Proteus Wave installation so they could turn the superweapon
-  against humanity.
-player_impact: Not specifically mentioned — this is a political interview.
-modern_impact: Patreus's assessment that the Thargoids may have baited Salvation into
-  constructing his own execution chamber reframes the Battle of HIP 22460 as a strategic
-  trap rather than merely a failed superweapon.
+modern_impact: Patreus's assessment that the Thargoids may have baited Salvation into constructing his own execution chamber reframes the Battle of HIP 22460 as a strategic trap rather than merely a failed superweapon.
 legacy_weight: 5
 significance: high
 related_uuids:

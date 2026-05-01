@@ -4,19 +4,17 @@ title: Torval Loses Control of Mastopolos Mining
 slug: torval_loses_control_of_mastopolos_mining
 date: '3307-10-01'
 source: API
-groups:
-- Mastopolos Mining
-- Torval-Mastopolos Mining
+summary: Senator Zemina Torval is removed from the Mastopolos Mining board of directors and loses her majority shareholder position, while her daughter Constantia announces Torval-Mastopolos Mining has been elected as the controlling authority of LTT 198.
+player_impact: None
 persons:
 - Zemina Torval
 - Gabriella Mastopolos
 - Constantia Torval
+groups:
+- Mastopolos Mining
+- Torval-Mastopolos Mining
 topics:
 - corporate expansion
-summary: Senator Zemina Torval is removed from the Mastopolos Mining board of directors
-  and loses her majority shareholder position, while her daughter Constantia announces
-  Torval-Mastopolos Mining has been elected as the controlling authority of LTT 198.
-player_impact: None
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low

@@ -29,9 +29,6 @@ related_uuids:
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
-Further Arrests of Far God Cultists
-
-
 The Federal Intelligence Agency has apprehended further members of the Far God cult, to determine if they are communicating With the Thargoids. 
 
 Media channels report a division in public opinion regarding the FIA’s actions. Some see the arrests as illegal and tantamount to religious persecution. Others claim that the Far God worshippers have invited suspicion upon themselves, and that the detainments are justified. 

@@ -15,20 +15,16 @@ groups:
 locations:
 - Xelabara
 - Kappa Fornacis
-technologies: []
 topics:
 - corporate expansion
 - narcotics
 - trade
+technologies: []
 arc_id: onionhead-conflict
-modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
-  and local agricultural economies.
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition and local agricultural economies.
 legacy_weight: 3
 significance: medium
 ---
-
-Faction Issues Appeal for Onionhead
-
 
 A faction known As the Drug Empire of Xelabara has issued a request for The controversial narcotic onionhead. The drug was once a significant trade commodity, but it suffered a setback last year when former Federal President Jasmina Halsey declared it illegal in Federal space. Rooney 'Rush' Romero, a spokesperson for the Drug Empire of Xelabara, explained that the appeal is partly intended to revitalise the market: 
 

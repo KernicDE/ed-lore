@@ -28,9 +28,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Scandal Hits Rochester Family
-
-
 The famous actor Tomas Turai, husband of Jupiter Rochester, has been revealed to be having an extramarital affair With an Olympian athlete. 
 
 An article in The Mars Tribune stated: 

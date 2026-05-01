@@ -13,14 +13,10 @@ topics:
 - ship
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Navy Withdraws from Lugh – Fighting Continues
-
 
 Following last night’s special session, Congress has decided to temporarily pull The Federal Navy from active duty in Lugh. Navy vessels are currently in The process of being diverted to Qureshi Enterprise in Khaka, where they will remain until such time as Congress decides on how to best end the current conflict. 
 

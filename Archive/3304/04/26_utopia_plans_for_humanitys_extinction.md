@@ -24,9 +24,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Utopia Plans for Humanity’s Extinction
-
-
 An announcement from Simguru Pranav Antal, leader of Utopia, has addressed The possibility that humanity may lose the conflict against the Thargoids. 
 
 “For Many years, Our Sim-Archive has bridged the past and the future by digitally preserving the memories of countless deceased individuals. Should there come a time when our physical selves no longer exist, it is the Sim-Archive alone that will preserve humankind’s essence.” 

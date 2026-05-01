@@ -31,9 +31,6 @@ related_uuids:
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
-Thargoid-Sympathiser Arrests Increase
-
-
 The Federal Intelligence Agency has increased arrests of potential Thargoid sympathisers, as it Continues to investigate the Far God cult.  
 
 Independent reporter Gethin Okonkwo, who first raised awareness of doomsayer cults In the core systems, has been reported Missing and is assumed to have been arrested. Many others who were researching the Far God sect remain in custody, including leading exotheologian Dr Alfred Ulyanov. 

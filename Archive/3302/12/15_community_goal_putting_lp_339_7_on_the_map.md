@@ -13,19 +13,16 @@ groups:
 locations:
 - LP 339-7
 - LP 339-7 4 A
-technologies: []
 topics:
 - corporate expansion
 - genetic experiments
 - medicine
 - trade
+technologies: []
 modern_impact: Creation of a wildlife reserve on LP 339-7 4 A demonstrates corporate ambitions to develop new tourist destinations.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Putting LP 339-7 on The Map
-
 
 Dr Lewis Chapman, CEO of the Starship Enterprises Corporation, has announced plans to transform the LP 339-7 system into a popular tourist destination. 
 

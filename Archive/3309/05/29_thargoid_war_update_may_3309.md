@@ -4,7 +4,12 @@ title: 'Thargoid War Update: May 3309'
 slug: thargoid_war_update_may_3309
 date: '3309-05-29'
 source: API
-entities: []
+summary: Sanderlyn reports on the Titan discoveries, Glaive-class hunters, Revenant ground drones, and the pulse wave scanner project, with Rademaker criticizing Tesreau's address.
+player_impact: Pilots continue anti-xeno operations and explore the Maelstroms.
+persons:
+- Jade Sanderlyn
+- Alba Tesreau
+- Torben Rademaker
 groups:
 - Aegis
 - Azimuth Biotech
@@ -13,14 +18,9 @@ locations:
 topics:
 - alien contact
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's visceral description — 'the Titans, squatting at the centre of the corrosive clouds like bloated spiders in their webs. I can't be the only one whose guts knotted with fear' — is powerful. The description of Glaives as 'multi-bladed throwing knives' is memorable. The framing of Revenants as 'actively defending abandoned settlements from human intruders' reinforces the colonization theory. Rademaker's 'self-congratulatory hot air' dismissal maintains the rivalry."
-persons:
-- Jade Sanderlyn
-- Alba Tesreau
-- Torben Rademaker
-player_impact: "Pilots continue anti-xeno operations and explore the Maelstroms."
-summary: "Sanderlyn reports on the Titan discoveries, Glaive-class hunters, Revenant ground drones, and the pulse wave scanner project, with Rademaker criticizing Tesreau's address."
+modern_impact: Sanderlyn's visceral description — 'the Titans, squatting at the centre of the corrosive clouds like bloated spiders in their webs. I can't be the only one whose guts knotted with fear' — is powerful. The description of Glaives as 'multi-bladed throwing knives' is memorable. The framing of Revenants as 'actively defending abandoned settlements from human intruders' reinforces the colonization theory. Rademaker's 'self-congratulatory hot air' dismissal maintains the rivalry.
 legacy_weight: 5
 significance: high
 related_uuids:

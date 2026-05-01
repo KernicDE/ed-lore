@@ -4,16 +4,8 @@ title: Winters Announces Election Manifesto
 slug: winters_announces_election_manifesto
 date: '3309-03-28'
 source: API
-entities: []
-groups: []
-locations:
-- Rhea
-- Sol
-topics:
-- humanitarian
-- politics
-arc_id: null
-modern_impact: "Winters's centerpiece promise — 'dismantling the Proactive Detection Bureau on day one' — is a clear policy differentiator. Her security framing — 'extend naval and humanitarian assistance to independent systems near our borders' — combines idealism with pragmatism. The contrasting media responses — Federal Free Press's praise vs. Sol Today's dismissal — show partisan coverage. The Republican nomination narrowing to Archer vs. Berkovich provides election context."
+summary: Felicia Winters launches the Liberal Party campaign, promising to dismantle the PDB on day one while maintaining military spending and extending aid to independent systems facing Thargoid aggression.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Felicia Winters
 - Jerome Archer
@@ -21,8 +13,16 @@ persons:
 - Edwin Espinosa
 - Thandeka Qwabe
 - Isolde Rochester
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "Felicia Winters launches the Liberal Party campaign, promising to dismantle the PDB on day one while maintaining military spending and extending aid to independent systems facing Thargoid aggression."
+groups: []
+locations:
+- Rhea
+- Sol
+topics:
+- humanitarian
+- politics
+entities: []
+arc_id: null
+modern_impact: Winters's centerpiece promise — 'dismantling the Proactive Detection Bureau on day one' — is a clear policy differentiator. Her security framing — 'extend naval and humanitarian assistance to independent systems near our borders' — combines idealism with pragmatism. The contrasting media responses — Federal Free Press's praise vs. Sol Today's dismissal — show partisan coverage. The Republican nomination narrowing to Archer vs. Berkovich provides election context.
 legacy_weight: 5
 significance: high
 related_uuids:

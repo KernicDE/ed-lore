@@ -19,17 +19,14 @@ locations:
 - Prism
 - Hawkin's Gap
 - Pleiades
-technologies: []
 topics:
 - ship
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: Salomé's disappearance and her cryptic final message become a catalyst for community investigations into the Rift, Hawkin's Gap, and Conflux mysteries.
 legacy_weight: 3
 significance: medium
 ---
-
-Freelance Report: Commander Salomé Hijacked in Cemiess
-
 
 Recent articles published by The Imperial Citizen may have inspired an act of violence in the Cemiess system over the weekend. Commander Nodus Cursorius of the Chapterhouse of Inquisition reported a transmission from Commander Salomé of the Children of Raxxla, indicating that her ship had been attacked by unknown forces. 
 

@@ -23,9 +23,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Thargoid Assault Continues
-
-
 Reed's Rest in Merope and Obsidian Orbital in Maia are The latest starports to be targeted by the Thargoids. 
 
 Authorities in the affected systems have appealed to Independent pilots to deliver foods, water, basic medicines and natural fabrics, and to evacuate civilians from the pertinent starports. 

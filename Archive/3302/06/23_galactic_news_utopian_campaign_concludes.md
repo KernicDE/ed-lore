@@ -13,17 +13,14 @@ groups:
 locations:
 - Garoku
 - Terry Port
-technologies: []
 topics:
 - exploration
 - war
+technologies: []
 modern_impact: Notable exploration achievement.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Utopian Campaign Concludes
-
 
 A spokesperson for The technologically progressive enclave Utopia confirmed that Its appeal for exploration data has reached a successful conclusion. In a statement, the spokesperson confirmed that the campaign received the enthusiastic support of the galactic community, resulting in large quantities of fresh exploration data. 
 

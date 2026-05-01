@@ -4,6 +4,12 @@ title: Empire Accused of Power Grab in Federation's Heart
 slug: empire_accused_of_power_grab_in_federations_heart
 date: '3311-01-09'
 source: API
+summary: Imperial agents were accused of expanding influence in Federal territory following the Battle of Sol, particularly in Sol and Barnard's Star, with Princess Aisling Duval's humanitarian reputation driving unexpected Imperial sentiment.
+player_impact: Imperial influence grew in Federal systems post-Battle of Sol, prompting Federal countermeasures from Republican media, counteragents, and the Proactive Detection Bureau.
+persons:
+- Sofia Trevino
+- Jerome Archer
+- Aisling Duval
 groups:
 - Aegis
 - Federal Times
@@ -13,14 +19,8 @@ locations:
 topics:
 - humanitarian
 - war
-persons:
-- Sofia Trevino
-- Jerome Archer
-- Aisling Duval
 technologies: []
-player_impact: "Imperial influence grew in Federal systems post-Battle of Sol, prompting Federal countermeasures from Republican media, counteragents, and the Proactive Detection Bureau."
-summary: "Imperial agents were accused of expanding influence in Federal territory following the Battle of Sol, particularly in Sol and Barnard's Star, with Princess Aisling Duval's humanitarian reputation driving unexpected Imperial sentiment."
-modern_impact: "Trevino's reporting frames Aisling's popularity as a genuine threat to Federal sovereignty: 'Shadow-President Jerome Archer has stamped down on this flourishing popularity and was described as outraged.' Aisling's retort — 'Federal populations should not be spurned for the consideration of new ideas' — positions her as a cross-superpower populist, a persona that will define her political trajectory. The Barnard's Star supporter network foreshadows future Imperial infiltration of Federal space."
+modern_impact: 'Trevino''s reporting frames Aisling''s popularity as a genuine threat to Federal sovereignty: ''Shadow-President Jerome Archer has stamped down on this flourishing popularity and was described as outraged.'' Aisling''s retort — ''Federal populations should not be spurned for the consideration of new ideas'' — positions her as a cross-superpower populist, a persona that will define her political trajectory. The Barnard''s Star supporter network foreshadows future Imperial infiltration of Federal space.'
 legacy_weight: 5
 significance: high
 related_uuids:

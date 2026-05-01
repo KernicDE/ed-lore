@@ -29,9 +29,6 @@ related_uuids:
 - bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
 ---
 
-Nova Imperium Unveils Figurehead
-
-
 Isolationist group Nova Imperium has revealed Its choice for Emperor – an eighteen year old man named Hadrian Augustus Duval. 
 
 The group’s leader, Imperator Mordanticus, broadcast This message: 

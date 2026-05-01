@@ -24,9 +24,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Pleiades Rescue Operation Concludes
-
-
 Cooper Research Associates have announced that their rescue operation has reached a successful conclusion. Hundreds of Independent pilots supported The campaign, taking to their ships to recover people and personal effects from Thargoid attack sites. Many of those rescued are now recovering at The Oracle. 
 
 Cooper Research Associates have extended their gratitude to those who supported the campaign. 

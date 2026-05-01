@@ -25,9 +25,6 @@ legacy_weight: 5
 significance: high
 ---
 
-The Bulwark Project
-
-
 The Federation has launched an initiative to develop autonomous military hardware With Which to fight the Thargoids. 
 
 Federal Shadow President Felicia Winters shed Further light on the initiative, which has been christened the Bulwark Project: 

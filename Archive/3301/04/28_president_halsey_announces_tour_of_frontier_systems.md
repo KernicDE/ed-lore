@@ -4,9 +4,6 @@ title: President Halsey Announces Tour of Frontier Systems
 slug: president_halsey_announces_tour_of_frontier_systems
 date: '3301-04-28'
 source: GitHub
-entities:
-- Halsey Announces Tour
-- Halsey will soon be setting off
 locations:
 - 78 Ursae Majoris
 - Federal frontier
@@ -14,13 +11,13 @@ locations:
 - Sol
 topics:
 - construction
+entities:
+- Halsey Announces Tour
+- Halsey will soon be setting off
 modern_impact: Infrastructure project with long-term benefits for the affected region.
 legacy_weight: 2
 significance: low
 ---
-
-President Halsey Announces Tour of Frontier Systems
-
 
 The President’s office has today announced that President Halsey will soon be setting off on a tour of The Federal frontier systems. 
 

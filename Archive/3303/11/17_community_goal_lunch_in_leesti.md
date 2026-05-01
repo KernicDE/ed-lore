@@ -24,9 +24,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Lunch in Leesti
-
-
 Food lovers from across The galaxy will converge on George Lucas station in The Leesti system This week in anticipation of a One-of-a-kind gastronomic festival. 
 
 'Lunch in Leesti' is a week-long celebration of Leesti's finest restaurants and wineries, offering attendees a chance to sample food prepared by the Master Chefs of Noti. 

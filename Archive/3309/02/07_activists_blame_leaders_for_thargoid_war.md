@@ -4,7 +4,8 @@ title: Activists Blame Leaders for Thargoid War
 slug: activists_blame_leaders_for_thargoid_war
 date: '3309-02-07'
 source: API
-entities: []
+summary: Anti-authoritarian protests surge across the superpowers as activists blame government leaders for allowing the Thargoid war to escalate.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Conrad Sterling
 - Timothy Culver
@@ -23,19 +24,14 @@ topics:
 - corruption
 - war
 - politics
+entities: []
 arc_id: thargoid-titan-war
-player_impact: Not specifically mentioned — this is a political report.
-summary: "Anti-authoritarian protests surge across the superpowers as activists blame
-  government leaders for allowing the Thargoid war to escalate."
-modern_impact: "Heimar Borichev claimed: \"Institutional corruption requires radical
-  solutions.\" This illustrates how the Thargoid war fuelled widespread distrust in
-  establishment institutions, with activists viewing the conflict as a product of
-  corporate-military profiteering rather than purely alien aggression."
+modern_impact: 'Heimar Borichev claimed: "Institutional corruption requires radical solutions." This illustrates how the Thargoid war fuelled widespread distrust in establishment institutions, with activists viewing the conflict as a product of corporate-military profiteering rather than purely alien aggression.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 201a0a31-f461-5ded-a815-a7b9c289c352
 - 40d9b854-2973-5053-a42d-6955f8876544
-legacy_weight: 5
-significance: high
 ---
 
 Anti-authoritarian protests have surged in the Alliance, Empire and Federation with governments accused of responsibility for Thargoid hostility.

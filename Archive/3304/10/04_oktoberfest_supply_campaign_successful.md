@@ -20,9 +20,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Oktoberfest Supply Campaign Successful
-
-
 Mould Federal Mining Incorporated has confirmed that Its appeal for commodities to supply an Oktoberfest celebration in The Bhagui system has been enthusiastically received by the galactic community.  
 
 Hundreds of pilots supported the campaign by delivering commodities to Leavitt Port, and by protecting traders in the Bhagui system. 

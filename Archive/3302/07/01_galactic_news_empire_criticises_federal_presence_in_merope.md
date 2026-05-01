@@ -4,6 +4,11 @@ title: Galactic News  Empire Criticises Federal Presence in Merope
 slug: galactic_news_empire_criticises_federal_presence_in_merope
 date: '3302-07-01'
 source: GitHub
+summary: Senator Zemina Torval has condemned the Federation's deployment of warships in the Merope system, accusing it of attempting to claim possession of barnacles and meta-alloys. Admiral Maxton Price of the Federal Navy defended the presence as legitimate, while Torval declined to specify Imperial retaliation.
+player_impact: None
+persons:
+- Zemina Torval
+- Admiral Maxton Price
 groups:
 - Federal Navy
 - Federation
@@ -15,24 +20,12 @@ topics:
 - alien contact
 - ship
 - war
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Early superpower confrontation over Pleiades resources foreshadows
-  the military buildup that will define the Thargoid conflict.
+modern_impact: Early superpower confrontation over Pleiades resources foreshadows the military buildup that will define the Thargoid conflict.
 legacy_weight: 5
 significance: high
-summary: Senator Zemina Torval has condemned the Federation's deployment of warships
-  in the Merope system, accusing it of attempting to claim possession of barnacles
-  and meta-alloys. Admiral Maxton Price of the Federal Navy defended the presence
-  as legitimate, while Torval declined to specify Imperial retaliation.
-player_impact: None
-persons:
-- Zemina Torval
-- Admiral Maxton Price
-technologies: []
 ---
-
-Galactic News: Empire Criticises Federal Presence in Merope
-
 
 Over The past week, there has been considerable debate over the presence of Federal battle cruisers in the Merope system. The ships have taken up position near the non-human structures commonly known as barnacles, prompting censure from various sections of the galactic community. 
 

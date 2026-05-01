@@ -4,6 +4,9 @@ title: Zorgon Peterson Launches the Panther Clipper
 slug: zorgon_peterson_launches_the_panther_clipper
 date: '3311-07-22'
 source: API
+summary: Zorgon Peterson officially launched the Panther Clipper, the largest civilian heavy freighter with over 1,200 tonnes capacity and the first ship compatible with the MkII cargo rack, while pirate activity in Aiaba threatened production.
+player_impact: Pilots secured shipping lanes in Aiaba and delivered vital components for Panther Clipper production. The ship was available for exclusive purchase initially.
+persons: []
 groups:
 - Zorgon Peterson
 locations:
@@ -11,13 +14,10 @@ locations:
 topics:
 - corporate expansion
 - piracy
-persons: []
 technologies:
 - Panther Clipper
 - MkII cargo rack
-player_impact: "Pilots secured shipping lanes in Aiaba and delivered vital components for Panther Clipper production. The ship was available for exclusive purchase initially."
-summary: "Zorgon Peterson officially launched the Panther Clipper, the largest civilian heavy freighter with over 1,200 tonnes capacity and the first ship compatible with the MkII cargo rack, while pirate activity in Aiaba threatened production."
-modern_impact: "Zorgon Peterson's comment that 'the new wave of system colonisation offers a perfect time' explicitly links the Panther Clipper to Brewer Corporation's Trailblazer colonisation initiative. The ship's capacity — equivalent to a Type-8 and Imperial Cutter combined — makes it indispensable for bulk resupply operations, explaining why pilots later use it for Trailblazer megaship restocking."
+modern_impact: Zorgon Peterson's comment that 'the new wave of system colonisation offers a perfect time' explicitly links the Panther Clipper to Brewer Corporation's Trailblazer colonisation initiative. The ship's capacity — equivalent to a Type-8 and Imperial Cutter combined — makes it indispensable for bulk resupply operations, explaining why pilots later use it for Trailblazer megaship restocking.
 legacy_weight: 2
 significance: low
 related_uuids:

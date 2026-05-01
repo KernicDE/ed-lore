@@ -12,18 +12,15 @@ groups:
 locations:
 - Pleiades Sector IH-V C2-5
 - Pre Logistics Support Gamma
-technologies: []
 topics:
 - alien contact
 - exploration
+technologies: []
 arc_id: thargoid-contact
 modern_impact: Federal gathering of Pleiades exploration data accelerates mapping of the region and supports investigation of non-human wreckage sites.
 legacy_weight: 5
 significance: high
 ---
-
-Community Goal: Federation Appeals for Exploration Data
-
 
 The Federation has issued a public appeal for exploration data as part of Its ongoing operation in the Pleiades Nebula. The appeal is being coordinated by the Pleiades Resource Enterprise, Which released The following statement to the media: 
 

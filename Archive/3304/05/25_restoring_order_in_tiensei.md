@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Restoring Order in T’iensei
-
-
 Authorities in the T’iensei system have reported a sharp increase in The number of criminals operating in The area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 
 To counter This threat, the Autocracy of T’iensei has placed a kill order on all ships on Its wanted list, and has promised to reward pilots who deliver bounty vouchers to Dzhanibekov Port. 

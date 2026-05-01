@@ -4,20 +4,20 @@ title: The Assault on Oya
 slug: the_assault_on_oya
 date: '3310-04-19'
 source: API
+summary: An urgent call to all pilots to participate in the final assault on Titan Oya, the third Thargoid mothership.
+player_impact: Pilots are urgently called to aid in the defeat of Titan Oya, the third Thargoid mothership.
+persons: []
 groups: []
 locations: []
 topics:
 - alien contact
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Standard Titan assault alert with the same three-module formula. The destruction of Oya would leave five Titans operational, continuing the steady attrition of the Thargoid mothership fleet."
-persons: []
 technologies:
 - Thargoid Pulse Neutraliser
 - Caustic Sink Launcher
 - Guardian Nanite Torpedo Pylon
-player_impact: "Pilots are urgently called to aid in the defeat of Titan Oya, the third Thargoid mothership."
-summary: "An urgent call to all pilots to participate in the final assault on Titan Oya, the third Thargoid mothership."
+arc_id: thargoid-titan-war
+modern_impact: Standard Titan assault alert with the same three-module formula. The destruction of Oya would leave five Titans operational, continuing the steady attrition of the Thargoid mothership fleet.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -25,7 +25,7 @@ related_uuids:
 - e60ba663-e3c2-5d4d-a902-6fa3517edf28
 ---
 
-*Pilots’ Federation Alert*
+**Pilots’ Federation Alert**
 Titan Oya is under siege. This is an urgent call to all independent pilots to aid in the complete defeat of the third Titan.
 The key modules for the assault continue to be readily available at all Rescue Megaships:
 • Thargoid Pulse Neutraliser – To break through the maelstrom defence wave.

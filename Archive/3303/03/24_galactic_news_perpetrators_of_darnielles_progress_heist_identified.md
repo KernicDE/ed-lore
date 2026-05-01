@@ -29,9 +29,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Perpetrators of Darnielle's Progress Heist Identified
-
-
 Three of The Five individuals responsible for the recent theft of meta-alloys from Darnielle's Progress have been positively identified, following analysis of starport security footage. Remarkably, One of the perpetrators has been acknowledged as Commander Salomé, also known as Kahina Tijani Loren. 
 
 Loren was sentenced to life imprisonment last year for the attempted murder of Admiral Denton Patreus, but when her convoy was destroyed en route to Koontz Asylum it was assumed she had been killed. 

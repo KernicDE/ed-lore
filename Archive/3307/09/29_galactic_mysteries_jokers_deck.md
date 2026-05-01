@@ -4,20 +4,18 @@ title: 'Galactic Mysteries: Jokers'' Deck'
 slug: galactic_mysteries_jokers_deck
 date: '3307-09-29'
 source: API
-groups:
-- Wallglass Investigations Agency
+summary: Wallglass Investigations Agency's Erik Gunnarson discusses Jokers' Deck, an ultra-exclusive gambling circle for the galaxy's wealthiest players.
+player_impact: None
 persons:
 - Erik Gunnarson
 - Francesca Wolfe
 - Talitha Ambrose
+groups:
+- Wallglass Investigations Agency
 topics:
 - diplomacy
 - investigation
-summary: Wallglass Investigations Agency's Erik Gunnarson discusses Jokers' Deck,
-  an ultra-exclusive gambling circle for the galaxy's wealthiest players.
-player_impact: None
-modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery
-  in galactic high society.
+modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery in galactic high society.
 legacy_weight: 2
 significance: low
 ---

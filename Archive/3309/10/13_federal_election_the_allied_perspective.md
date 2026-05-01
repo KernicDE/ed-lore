@@ -4,7 +4,12 @@ title: 'Federal Election: The Allied Perspective'
 slug: federal_election_the_allied_perspective
 date: '3309-10-13'
 source: API
-entities: []
+summary: Allied leaders observe the Federal election, with Mahon expecting stability, Kaine criticising Hudson's authoritarianism, and Driscoll noting private preferences for Winters.
+player_impact: Not specifically mentioned.
+persons:
+- Edmund Mahon
+- Nakato Kaine
+- Vanya Driscoll
 groups:
 - Alliance
 locations:
@@ -12,14 +17,9 @@ locations:
 topics:
 - diplomacy
 - politics
+entities: []
 arc_id: null
-modern_impact: "Kaine's critique — 'the Starship One conspiracy, Jupiter Division's attempted coup, the secession crisis triggered by the Proactive Detection Bureau's operation' — is a comprehensive indictment of Hudson's presidency. Her admiration for Federal democracy — 'Federal democracy is now empowering every individual to elect their leaders' — is a pointed contrast with Alliance elitism. Driscoll's observation about 'a friendlier Federation' and rescinding 'isolationist decree' frames the economic opportunity."
-persons:
-- Edmund Mahon
-- Nakato Kaine
-- Vanya Driscoll
-player_impact: "Not specifically mentioned."
-summary: "Allied leaders observe the Federal election, with Mahon expecting stability, Kaine criticising Hudson's authoritarianism, and Driscoll noting private preferences for Winters."
+modern_impact: Kaine's critique — 'the Starship One conspiracy, Jupiter Division's attempted coup, the secession crisis triggered by the Proactive Detection Bureau's operation' — is a comprehensive indictment of Hudson's presidency. Her admiration for Federal democracy — 'Federal democracy is now empowering every individual to elect their leaders' — is a pointed contrast with Alliance elitism. Driscoll's observation about 'a friendlier Federation' and rescinding 'isolationist decree' frames the economic opportunity.
 legacy_weight: 4
 significance: high
 related_uuids:

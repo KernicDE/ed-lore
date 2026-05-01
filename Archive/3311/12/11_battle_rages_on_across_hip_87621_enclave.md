@@ -4,19 +4,21 @@ title: Battle Rages On Across HIP 87621 Enclave
 slug: battle_rages_on_across_hip_87621_enclave
 date: '3311-12-11'
 source: API
+summary: After two weeks of enclave fighting, Vista Genomics confirms Radicoida unica is wholly unique. Aisling Duval leads with 6 systems, Jerome Archer is eliminated, and leaked communications indicate the war will continue until one Power dominates.
+player_impact: Pledged and unaffiliated pilots fought across the 49-system HIP 87621 enclave in a two-week Powerplay campaign. Jerome Archer's supporters were eliminated. Contributors collected rewards from registration megaships.
+persons:
+- Ernesto Rios
+- Conrad Sterling
 groups: []
 locations:
 - HIP 87621
 topics:
 - war
-arc_id: hip87621-conflict
-persons:
-- Ernesto Rios
-- Conrad Sterling
 technologies: []
-player_impact: "Pledged and unaffiliated pilots fought across the 49-system HIP 87621 enclave in a two-week Powerplay campaign. Jerome Archer's supporters were eliminated. Contributors collected rewards from registration megaships."
-summary: "After two weeks of enclave fighting, Vista Genomics confirms Radicoida unica is wholly unique. Aisling Duval leads with 6 systems, Jerome Archer is eliminated, and leaked communications indicate the war will continue until one Power dominates."
-modern_impact: "Vista Genomics' confirmation that Radicoida unica is 'wholly unique' with 'potential advancements' validates the military investment and explains the rapid escalation. The leaked prediction that war will continue until 'one Power secures dominance' foreshadows the February 3312 non-aggression pact — Powers initially believe only total victory suffices, but later realise stalemate benefits no one."
+arc_id: hip87621-conflict
+modern_impact: Vista Genomics' confirmation that Radicoida unica is 'wholly unique' with 'potential advancements' validates the military investment and explains the rapid escalation. The leaked prediction that war will continue until 'one Power secures dominance' foreshadows the February 3312 non-aggression pact — Powers initially believe only total victory suffices, but later realise stalemate benefits no one.
+legacy_weight: 4
+significance: high
 related_uuids:
 - 1729659f-9f35-525b-9e72-3a35258c8e35
 - 87f75759-0d94-513e-9499-0f9d15f1874d
@@ -24,8 +26,6 @@ related_uuids:
 - fd5b9a2c-78e3-5819-8022-722a3d1c25e4
 - b401b85f-a797-53be-b3f7-4efe54fae2e8
 - 901396d0-53fd-50b7-ab8f-79d017d0397d
-legacy_weight: 4
-significance: high
 ---
 
 Conflict continues across the 49-system enclave surrounding HIP 87621, with military forces from all major powers showing no signs of a ceasefire after two weeks of heavy fighting.

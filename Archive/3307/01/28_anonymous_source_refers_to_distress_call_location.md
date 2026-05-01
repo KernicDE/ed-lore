@@ -4,17 +4,19 @@ title: Anonymous Source Refers to Distress Call Location
 slug: anonymous_source_refers_to_distress_call_location
 date: 3307-01-28
 source: API
-arc_id: null
+summary: '*Pilots Federation ALERT* An encrypted message seems to provide planetary coordinates related to The mysterious signal from ‘Serene Harbour’.'
+player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Its
 - This
 groups: []
 locations: []
 topics:
-  - cyberattack
-player_impact: Pilots followed these developments through GalNet reports.
-summary: "*Pilots Federation ALERT* An encrypted message seems to provide planetary coordinates related to The mysterious signal from ‘Serene Harbour’."
-modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+- cyberattack
+arc_id: null
+modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+legacy_weight: 2
+significance: low
 related_uuids:
 - 5ab60843-a176-5062-b38a-a80db12574c9
 - fc197df5-b778-5964-a004-448689eba981
@@ -22,11 +24,9 @@ related_uuids:
 - f289a62c-f4fe-5c65-8563-7f318ee935ba
 - f1fd8447-7d57-5af5-9889-be0bfb2788bb
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
-legacy_weight: 2
-significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 An encrypted message seems to provide planetary coordinates related to The mysterious signal from ‘Serene Harbour’.
 The message received by the Pilots Federation was as follows:
 Welcome to Serene Harbour. 56.4 latitude -8.3 longitude. Theta Seven.

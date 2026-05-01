@@ -12,20 +12,17 @@ groups:
 - Aegis
 - Faulcon DeLacy
 locations: []
-technologies:
-- Taipan AX1
 topics:
 - alien contact
 - engineering
 - ship
+technologies:
+- Taipan AX1
 arc_id: thargoid-contact
 modern_impact: The Taipan AX1 introduces a dedicated anti-xeno ship-launched fighter, giving pilots a new tactical option against Thargoid vessels.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Taipan AX1 Announced
-
 
 A spokesperson for Faulcon DeLacy has announced that The manufacturer has teamed up With Aegis to produce a new version of Its popular fighter, the Taipan. The spokesperson confirmed that the development was a direct response to the rising Thargoid threat. 
 

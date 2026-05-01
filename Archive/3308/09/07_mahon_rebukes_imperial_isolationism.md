@@ -4,6 +4,8 @@ title: Mahon Rebukes Imperial Isolationism
 slug: mahon_rebukes_imperial_isolationism
 date: '3308-09-07'
 source: API
+summary: Prime Minister Edmund Mahon criticises Emperor Arissa's decision to suspend inter-superpower cooperation, arguing that humanity must unite against the escalating Thargoid threat.
+player_impact: Not specifically mentioned — this is a political statement.
 persons:
 - Edmund Mahon
 - Arissa Lavigny-Duval
@@ -20,12 +22,7 @@ topics:
 - diplomacy
 - war
 arc_id: thargoid-contact
-summary: Prime Minister Edmund Mahon criticises Emperor Arissa's decision to suspend
-  inter-superpower cooperation, arguing that humanity must unite against the escalating
-  Thargoid threat.
-player_impact: Not specifically mentioned — this is a political statement.
-modern_impact: Mahon's rebuke highlights the growing diplomatic rift between superpowers
-  at a critical moment in the Thargoid war, undermining coordinated defence efforts.
+modern_impact: Mahon's rebuke highlights the growing diplomatic rift between superpowers at a critical moment in the Thargoid war, undermining coordinated defence efforts.
 legacy_weight: 4
 significance: high
 ---

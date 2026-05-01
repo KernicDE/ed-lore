@@ -4,21 +4,18 @@ title: Effinger Port Furbaide Reports Contagion Spreading Unchecked
 slug: effinger_port_furbaide_reports_contagion_spreading_unchecked
 date: '3301-02-17'
 source: GitHub
-entities:
-- Miriam Fletcher
 locations:
 - Effinger Port station in the Furbaide
 - Furbaide
 topics:
 - medicine
 - ship
+entities:
+- Miriam Fletcher
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Effinger Port Furbaide Reports Contagion Spreading Unchecked
-
 
 Despite a valiant effort by medical staff working aboard afflicted stations in Liaedin, LHS 3505 and Furbaide The illness now known as Volungu Blight has managed to evade all attempts to contain it. 
 

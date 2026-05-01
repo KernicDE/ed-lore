@@ -4,6 +4,8 @@ title: The Science of a Safer Society
 slug: the_science_of_a_safer_society
 date: '3301-06-23'
 source: GitHub
+summary: Thousands of Pegasi sector civilians evacuated following brutal Kumo Crew raids. Pleas for help to Federation and Empire homeworlds have gone unanswered. Simguru Pranav Antal announced Utopia will open a new commune in HIP 116213 to establish 'enlightened defence' against the Kumo Crew. He described the pirates' greed and jealousy as driving them to destroy everything they see, and stated Utopia understands the people's sorrow and wants to help. Utopian engineers will begin establishing defensive capabilities once the commune is approved.
+player_impact: Pilots can support Utopia's commune establishment in HIP 116213 as a defensive bulwark against Kumo Crew expansion.
 persons:
 - Pranav Antal
 - Archon Delaine
@@ -19,18 +21,11 @@ topics:
 - war
 - technology
 arc_id: kumo-crew-rise
-summary: Thousands of Pegasi sector civilians evacuated following brutal Kumo Crew raids. Pleas for help to Federation and Empire homeworlds have gone unanswered. Simguru Pranav Antal announced Utopia will open a new commune in HIP 116213 to establish 'enlightened defence' against the Kumo Crew. He described the pirates' greed and jealousy as driving them to destroy everything they see, and stated Utopia understands the people's sorrow and wants to help. Utopian engineers will begin establishing defensive capabilities once the commune is approved.
-player_impact: Pilots can support Utopia's commune establishment in HIP 116213 as a defensive bulwark against Kumo Crew expansion.
 modern_impact: Utopia's intervention in the Pegasi sector offers an alternative to superpower inaction, positioning the commune as a defender of civilians against piracy.
 legacy_weight: 3
 significance: medium
 ---
 
-The Science of a Safer Society
-
-
-The Science of a Safer Society  
- 
 Thousands of Pegasi sector civilians were forced to evacuate their homes last week, following a series of brutal raids carried out in the name of Archon Delaine. 
 
 Some resilient residents have attempted to reach out to the Federation and Empire homeworlds for assistance, but so Far, their pleas for help have gone unanswered. This leaves the question on everyone’s lips: who will stop the Kumo Crew? 

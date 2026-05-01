@@ -4,7 +4,13 @@ title: Aegis Leak Confirms Vanishing Populations
 slug: aegis_leak_confirms_vanishing_populations
 date: '3309-09-01'
 source: API
-entities: []
+summary: Aegis leadership recordings about Thargoid abductions are leaked by Seo Jin-ae, confirming millions are missing and captives are stored in pods aboard Titans.
+player_impact: Not specifically mentioned — this is about a leaked recording.
+persons:
+- Alba Tesreau
+- Aden Tanner
+- Seo Jin-ae
+- Ernesto Rios
 groups:
 - Aegis
 locations: []
@@ -12,15 +18,9 @@ topics:
 - alien contact
 - war
 - espionage
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Seo Jin-ae's revelation — 'Rows and rows of what I thought were eggs... They're pods. Containers for humans' — is the most chilling description of Thargoid captivity. Her insistence that abductees are 'important to the next phase of the Thargoid invasion' raises the stakes. Rios's observation that 'it is rare that they support rather than damage the target organisation' frames the leak as unusual."
-persons:
-- Alba Tesreau
-- Aden Tanner
-- Seo Jin-ae
-- Ernesto Rios
-player_impact: "Not specifically mentioned — this is about a leaked recording."
-summary: "Aegis leadership recordings about Thargoid abductions are leaked by Seo Jin-ae, confirming millions are missing and captives are stored in pods aboard Titans."
+modern_impact: Seo Jin-ae's revelation — 'Rows and rows of what I thought were eggs... They're pods. Containers for humans' — is the most chilling description of Thargoid captivity. Her insistence that abductees are 'important to the next phase of the Thargoid invasion' raises the stakes. Rios's observation that 'it is rare that they support rather than damage the target organisation' frames the leak as unusual.
 legacy_weight: 4
 significance: high
 related_uuids:

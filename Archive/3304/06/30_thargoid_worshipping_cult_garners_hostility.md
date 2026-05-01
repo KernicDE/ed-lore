@@ -22,8 +22,6 @@ related_uuids:
 - adb3246b-42c1-5f18-b56b-56f0ef4b8d24
 - d33c2337-8ce6-5941-ade9-90a742c87559
 ---
-Thargoid-Worshipping Cult Garners Hostility
-
 
 Public reaction to a fringe religion that worships The Thargoids is One of mistrust and hostility, According to security reports. 
 

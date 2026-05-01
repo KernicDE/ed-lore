@@ -25,9 +25,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: Humanity's Dream
-
-
 On This date 1,341 years ago, humanity achieved a dream it had harboured for generations. For The first time, advanced rocket technology propelled a human being beyond the boundaries of Earth and into space. 
 
 To commemorate Yuri Gagarin's historic flight, pilots gather Every year at the M. Gorbachev starport in the Sol system from 18.00 UST onwards to swap first-flight stories and buy rounds at Tereshkova's Hangout. A member of station personnel said: 

@@ -25,9 +25,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Rescue Operation in The California Nebula
-
-
 The Alliance has reported that ships travelling to and from Its California Nebula outposts are coming under attack from pirates. The attacks are of such frequency and ferocity that the bases are in danger of being completely cut off. 
 
 An Alliance spokesperson said: 

@@ -24,9 +24,6 @@ related_uuids:
 - fd47bdc2-dcba-5689-a353-ca9b643ce205
 ---
 
-Anti-Slavery Organisations Unite
-
-
 Princess Aisling Duval’s anti-slavery campaign has merged With Independent charity Universal Liberty. The rebranded organisation is named Unchain. 
 
 The former head of Universal Liberty, Jarl Toredo, made an announcement to the media: 

@@ -12,21 +12,17 @@ groups:
 locations:
 - Kaushpoos
 - Obsidian Orbital
-technologies:
-- Ocellus starport
 topics:
 - construction
 - exploration
 - war
+technologies:
+- Ocellus starport
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
-  new frontiers for exploration and potentially first contact.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---
-
-Explorers' Association Appeal Successful
-
 
 The Explorers' Association has announced that the third stage of Its ambitious starport project is complete. The materials needed for the final phase of construction have been delivered, and the finishing touches are now being applied to the Kaushpoos system's new Ocellus starport. A spokesperson for the Explorers' Association expressed satisfaction With the result, but stressed that the starport was not yet open for business: 
 

@@ -12,16 +12,13 @@ groups:
 locations:
 - Vancouver Ring
 - Tchernobog
-technologies: []
 topics:
 - trade
+technologies: []
 modern_impact: Successful retail commodity drive demonstrating community willingness to support commercial initiatives.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Retail Appeal Ends
-
 
 A spokesperson for Tchernobog Free has announced that Its appeal for consumer goods has been enthusiastically received by The galactic community, resulting In a huge quantity of deliveries to Vancouver Ring, the organisation's base of operations. 
 

@@ -4,6 +4,8 @@ title: Breakthrough in Artefact Research
 slug: breakthrough_in_artefact_research
 date: '3301-07-10'
 source: GitHub
+summary: Dr Arcanonn's Canonn research team discovered that Unknown Artefacts emit a distorted morse code signal broadcasting the identity of the nearest celestial body. This suggests the artefacts have some basis in human technology, raising concerns about their origin. Theories range from scanners and navigational aids to Thargoid homing beacons. Dr Arcanonn's team renewed their plea to the Federal Government to release any classified information about the artefacts.
+player_impact: Explorers and researchers can continue investigating Unknown Artefacts in the Merope and Maia regions. The morse code discovery may help decode further signals.
 persons:
 - Dr Arcanonn
 groups:
@@ -17,18 +19,11 @@ topics:
 - research
 - xeno
 arc_id: unknown-artefacts
-summary: Dr Arcanonn's Canonn research team discovered that Unknown Artefacts emit a distorted morse code signal broadcasting the identity of the nearest celestial body. This suggests the artefacts have some basis in human technology, raising concerns about their origin. Theories range from scanners and navigational aids to Thargoid homing beacons. Dr Arcanonn's team renewed their plea to the Federal Government to release any classified information about the artefacts.
-player_impact: Explorers and researchers can continue investigating Unknown Artefacts in the Merope and Maia regions. The morse code discovery may help decode further signals.
 modern_impact: Discovery that Unknown Artefacts use morse code suggests either human involvement in their creation or advanced alien knowledge of human technology, deepening the mystery.
 legacy_weight: 5
 significance: high
 ---
 
-Breakthrough in Artefact Research?
-
-
-Breakthrough in Artefact Research? 
- 
 After meticulous and sometimes tedious investigation, scientists working under Dr Arcanonn have uncovered that The recently discovered "Unknown Artefacts" may have some basis in human technology. 
 
 Audio studies of The objects show that they emit a distorted but audible signal matching the very long-established Earth signalling scheme morse code, through Which the artefact broadcasts the identity of the nearest celestial body when released into free space. 

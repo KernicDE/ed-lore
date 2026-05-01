@@ -4,29 +4,24 @@ title: Kumo Operation to Hit Aisling Duval
 slug: kumo_operation_to_hit_aisling_duval
 date: '3301-09-17'
 source: GitHub
+summary: Kumo Crew commanders swept across systems controlled by Arissa Lavigny-Duval, penetrating deeper than in any previous skirmish. Leaked intelligence indicated Archon Delaine would focus on planets and stations pledged to Aisling Duval. The operation elevated danger for Imperial citizens and demonstrated that the Pegasi Pirate War had taken on a new dimension, drawing on the strength and resources of a thousand worlds.
+player_impact: Pilots in Aisling Duval's systems should prepare for increased Kumo Crew pirate activity. Combat pilots may find opportunities to defend Imperial systems and earn combat bonds.
 persons:
 - Archon Delaine
 - Mikalus
 groups:
 - Kumo Crew
 locations: []
-technologies: []
 topics:
 - piracy
 - war
+technologies: []
 arc_id: kumo-crew-rise
-summary: Kumo Crew commanders swept across systems controlled by Arissa Lavigny-Duval, penetrating deeper than in any previous skirmish. Leaked intelligence indicated Archon Delaine would focus on planets and stations pledged to Aisling Duval. The operation elevated danger for Imperial citizens and demonstrated that the Pegasi Pirate War had taken on a new dimension, drawing on the strength and resources of a thousand worlds.
-player_impact: Pilots in Aisling Duval's systems should prepare for increased Kumo Crew pirate activity. Combat pilots may find opportunities to defend Imperial systems and earn combat bonds.
 modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---
 
-Kumo Operation to Hit Aisling Duval
-
-
-Kumo Operation to Hit Aisling Duval 
- 
 Ever The opportunists, Kumo Crew commanders have swept across a number of systems controlled by Arissa Lavigny-Duval in The last seven days. They penetrated deeper than in any previous skirmish, and elevated the level of danger faced by Imperial citizens as a result of the Pegasi Pirate War. 
 
 With turmoil affecting billions of Imperial citizens and sweeping them into the ongoing saga, Commanders and tacticians have begun to realise that the conflict has taken on a new dimension. Leaked intelligence indicates that As the week draws to a close, Archon will focus his attention on planets and stations pledged to Aisling Duval. 

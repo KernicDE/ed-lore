@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Rahu Operation comes to an End
-
-
 An Alliance spokesperson has announced that Its operation to The crew of an Alliance convoy from opportunistic slavers in the Rahu system has reached a successful conclusion. 
 
 Hundreds of Independent pilots supported the campaign by recovering escape pods from the remains of the convoy and delivering them safely to Acharya Station. Meanwhile, combat pilots neutralised slavers who were attempting to take escape pods from the wreckage. 

@@ -4,19 +4,8 @@ title: President Winters Assumes Office
 slug: president_winters_assumes_office
 date: '3310-10-31'
 source: API
-entities:
-- Isolde Rochester
-groups: []
-locations:
-- Mars
-- Olympus Village
-- Rhea
-- White House
-topics:
-- espionage
-- politics
-arc_id: federal-politics
-modern_impact: "Winters' first act — shutting down the Proactive Detection Bureau and proposing revocation of the Domestic Counter-Terrorism Act of 3307 — is a radical privacy reform that reverses Hudson-era surveillance policy. Her pledge to 'redirect funding away from corporations toward improving health, public services and quality of life' defines the Liberal Party agenda that Archer will attack throughout 3311. The appointment of Conn Montgomery as Secretary for Defence links him to the Sol evacuation three months later."
+summary: Felicia Winters is formally sworn in as President of the Federation, pledging to redirect funding from corporations to public services and ordering the shutdown of the Proactive Detection Bureau.
+player_impact: Not specifically mentioned — this is an inauguration article.
 persons:
 - Felicia Winters
 - Isolde Rochester
@@ -26,12 +15,23 @@ persons:
 - Conn Montgomery
 - Bai Zheng
 - Pierre-Marc Pelletier
-player_impact: "Not specifically mentioned — this is an inauguration article."
-summary: "Felicia Winters is formally sworn in as President of the Federation, pledging to redirect funding from corporations to public services and ordering the shutdown of the Proactive Detection Bureau."
-related_uuids:
-- 00be4816-785d-537c-9e05-ba4677220927
+groups: []
+locations:
+- Mars
+- Olympus Village
+- Rhea
+- White House
+topics:
+- espionage
+- politics
+entities:
+- Isolde Rochester
+arc_id: federal-politics
+modern_impact: Winters' first act — shutting down the Proactive Detection Bureau and proposing revocation of the Domestic Counter-Terrorism Act of 3307 — is a radical privacy reform that reverses Hudson-era surveillance policy. Her pledge to 'redirect funding away from corporations toward improving health, public services and quality of life' defines the Liberal Party agenda that Archer will attack throughout 3311. The appointment of Conn Montgomery as Secretary for Defence links him to the Sol evacuation three months later.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 00be4816-785d-537c-9e05-ba4677220927
 ---
 
 The inauguration ceremony has taken place to formally swear in Felicia Winters as the president of the Federation.

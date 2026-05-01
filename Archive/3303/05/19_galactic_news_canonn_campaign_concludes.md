@@ -12,21 +12,18 @@ groups:
 locations:
 - Zoline Port
 - LTT 377
-technologies:
-- Gnosis
 topics:
 - construction
 - research
 - ship
 - trade
 - war
+technologies:
+- Gnosis
 modern_impact: Completion of the Gnosis research vessel marks a milestone for community-driven deep-space exploration infrastructure.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Canonn Campaign Concludes
-
 
 A spokesperson for The Canonn Interstellar Research Group has announced that Its appeal for indium, computer components and tea has been enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Zoline Port. The campaign also received the support of Hundreds of combat pilots, who protected traders contributing commodities to the campaign. Construction of the deep-space research Vessel Gnosis is now underway. 
 

@@ -21,9 +21,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Thargoids Adapting Rapidly
-
-
 Admiral Aden Tanner, Aegis’ chief military liaison, has released a statement confirming that The Thargoids have begun adapting to the weapons and tactics developed to combat them. 
 
 Admiral Tanner’s statement is reprinted in full below. 

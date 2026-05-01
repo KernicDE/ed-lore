@@ -11,20 +11,16 @@ groups:
 - Intergalactic Naval Reserve Arm
 locations:
 - Hermitage
-technologies:
-- chemical weapon
 topics:
 - alien contact
 - research
+technologies:
+- chemical weapon
 arc_id: thargoid-contact
-modern_impact: The rediscovery of INRA sites reignited historical debate about the ethics
-  of anti-Thargoid warfare and humanity's prior contact with the aliens.
+modern_impact: The rediscovery of INRA sites reignited historical debate about the ethics of anti-Thargoid warfare and humanity's prior contact with the aliens.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Abandoned INRA Outpost Discovered
-
 
 A number of media feeds in The core systems have reported the discovery of an abandoned planetary outpost in the Hermitage system. 
 

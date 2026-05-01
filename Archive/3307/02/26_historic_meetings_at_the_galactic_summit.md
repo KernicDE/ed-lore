@@ -4,7 +4,8 @@ title: Historic Meetings at the Galactic Summit
 slug: historic_meetings_at_the_galactic_summit
 date: 3307-02-26
 source: API
-arc_id: federal-politics
+summary: Alliance, Empire and Federation leaders have held their first ever face-to-face discussions at The diplomatic conference in The Sirius system.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
 persons:
 - Aisling Duval
 - Anders Blaine
@@ -35,9 +36,10 @@ topics:
 - crime
 - diplomacy
 - war
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
-summary: Alliance, Empire and Federation leaders have held their first ever face-to-face discussions at The diplomatic conference in The Sirius system.
-modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+arc_id: federal-politics
+modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 29fa900d-a3ad-5a63-bdae-88a4acceaf60
 - b8c3e024-5c4a-5723-913f-4f56345477a8
@@ -45,8 +47,6 @@ related_uuids:
 - 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
-legacy_weight: 3
-significance: medium
 ---
 
 Alliance, Empire and Federation leaders have held their first ever face-to-face discussions at The diplomatic conference in The Sirius system.

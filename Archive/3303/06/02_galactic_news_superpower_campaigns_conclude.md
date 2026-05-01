@@ -14,18 +14,15 @@ locations:
 - Merope
 - PRE Logistics Support Gamma
 - Moni's Hub
-technologies: []
 topics:
 - construction
 - war
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: Superpower rivalry in the Pleiades intensifies as both the Empire and Federation establish permanent military and logistical bases.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Superpower Campaigns Conclude
-
 
 The Empire and the Federation have released statements announcing the successful conclusion of their respective campaigns. Both superpowers received huge quantities of construction material over the past week, allowing them to start work on new outposts in the Pleiades region. 
 

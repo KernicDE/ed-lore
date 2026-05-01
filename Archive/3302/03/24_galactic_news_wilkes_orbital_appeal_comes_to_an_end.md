@@ -23,14 +23,10 @@ topics:
 - safety
 - terrorism
 arc_id: cerberus-plague
-modern_impact: Ongoing efforts to combat the Cerberus Plague demonstrate galactic
-  health infrastructure.
+modern_impact: Ongoing efforts to combat the Cerberus Plague demonstrate galactic health infrastructure.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Wilkes Orbital Appeal Comes to an End
-
 
 Authorities at Wilkes Orbital have announced that The recent appeal for Ceremonial Heike Tea has been a significant success. Personnel at the starport launched the appeal when they discovered that the individuals recently rescued from the Blue Hand Gang were infected With a strain of the Cerberus Plague. 
 

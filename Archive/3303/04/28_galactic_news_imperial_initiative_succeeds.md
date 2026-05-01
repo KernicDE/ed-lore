@@ -14,18 +14,15 @@ locations:
 - Maia
 - Merope
 - Obsidian Orbital
-technologies: []
 topics:
 - construction
 - succession
 - war
+technologies: []
 modern_impact: Imperial outpost construction in Maia strengthens the Empire's strategic position in the Pleiades.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Imperial Initiative Succeeds
-
 
 The Merope Expeditionary Fleet has announced that the Imperial campaign to amass material for a new outpost in the Maia system has reached a successful conclusion. Hundreds of pilots supported the initiative by delivering construction materials to Obsidian Orbital in the Maia system. 
 

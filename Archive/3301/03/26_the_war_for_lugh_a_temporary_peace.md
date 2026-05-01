@@ -15,14 +15,10 @@ locations:
 topics:
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-The War for Lugh: A Temporary Peace
-
 
 The strike against Federal civilians by the Federal Navy, coupled With the capture of Hartsfield Market a few hours later, caused mass confusion and disenchantment among Federal pilots operating in the area. Mercenaries who had previously fought for the Federation began defecting en masse, bolstering CSG forces to the point where they almost equalled the Federal forces in size. 
 

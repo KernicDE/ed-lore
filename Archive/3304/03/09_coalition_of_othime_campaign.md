@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Coalition of Othime Campaign
-
-
 The Coalition of Othime has announced plans to develop refinery facilities in Its home system through the construction of a new asteroid base. 
 
 A spokesperson for the Coalition said: 

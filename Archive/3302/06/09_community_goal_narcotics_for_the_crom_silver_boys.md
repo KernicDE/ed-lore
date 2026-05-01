@@ -14,8 +14,6 @@ locations:
 - Herthe
 - Walheim Enterprise
 - Wolf 1301
-technologies:
-- wolf fesh
 topics:
 - crime
 - exploration
@@ -23,14 +21,12 @@ topics:
 - ship
 - trade
 - war
-modern_impact: Crime syndicate drug production demonstrates the black market's resilience
-  against prohibition efforts.
+technologies:
+- wolf fesh
+modern_impact: Crime syndicate drug production demonstrates the black market's resilience against prohibition efforts.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Narcotics for The Crom Silver Boys
-
 
 Those who have explored the trade routes of Wolf 1301 will undoubtedly recall 'wolf fesh', the popular psychoactive drug that was once produced in the system. Although originally legal, when control of the system changed last year the drug was banned, and production was immediately halted. Wolf fesh disappeared from galactic trade routes almost overnight. 
 

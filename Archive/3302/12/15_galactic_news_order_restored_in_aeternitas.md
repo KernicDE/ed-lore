@@ -12,16 +12,13 @@ groups:
 locations:
 - Aeternitas
 - Houtman City
-technologies: []
 topics:
 - crime
+technologies: []
 modern_impact: Successful community-supported security operation restoring order in the Aeternitas system.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Order Restored in Aeternitas
-
 
 Aeternitas Industries has announced that Its campaign to clear The Aeternitas system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 

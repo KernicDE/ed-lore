@@ -4,19 +4,18 @@ title: Zemina Torval Creates New Corporation
 slug: zemina_torval_creates_new_corporation
 date: '3307-08-10'
 source: API
-groups:
-- Imperial Senate
-- Mastopolos Mining
-- Torval-Mastopolos Mining
+summary: Senator Zemina Torval establishes Torval-Mastopolos Mining, an autonomous offshoot of Mastopolos Mining, signaling a potential rift with CEO Gabriella Mastopolos.
+player_impact: None
 persons:
 - Zemina Torval
 - Gabriella Mastopolos
 - Marlon Royce
+groups:
+- Imperial Senate
+- Mastopolos Mining
+- Torval-Mastopolos Mining
 topics:
 - corporate expansion
-summary: Senator Zemina Torval establishes Torval-Mastopolos Mining, an autonomous
-  offshoot of Mastopolos Mining, signaling a potential rift with CEO Gabriella Mastopolos.
-player_impact: None
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 3
 significance: medium

@@ -4,6 +4,8 @@ title: New Starports Become Operational
 slug: new_starports_become_operational
 date: '3306-10-01'
 source: GitHub
+summary: Ten new starports become operational across multiple systems after community construction initiatives, increasing demand for commodities and causing price fluctuations.
+player_impact: Pilots who contributed to construction can now use the new starports. Trading opportunities increased due to commodity fluctuations.
 groups:
 - Pilots Federation
 locations:
@@ -21,20 +23,12 @@ locations:
 topics:
 - construction
 - trade
-summary: Ten new starports become operational across multiple systems after community
-  construction initiatives, increasing demand for commodities and causing price fluctuations.
-player_impact: Pilots who contributed to construction can now use the new starports. Trading
-  opportunities increased due to commodity fluctuations.
-modern_impact: Community-driven starport construction continues to expand infrastructure
-  across the galaxy.
+modern_impact: Community-driven starport construction continues to expand infrastructure across the galaxy.
 legacy_weight: 2
 significance: low
 ---
 
-New Starports Become Operational
-
-
-*Pilots Federation ALERT: For The attention of all Commanders* 
+**Pilots Federation ALERT: For The attention of all Commanders** 
 
 New starports constructed in ten systems causing increased commodity demand. 
 

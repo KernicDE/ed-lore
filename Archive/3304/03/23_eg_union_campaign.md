@@ -26,9 +26,6 @@ legacy_weight: 5
 significance: high
 ---
 
-EG Union Campaign
-
-
 Yuri Grom has announced an initiative to create a new shipyard in The CPC 20 6743 system. The shipyard will produce capital ships With Which to defend human space from both human and alien threats. 
 
 The EG Union, acting on behalf of Yuri Grom, has placed an open order for various commodities to build the shipyard, and has promised to reward pilots who deliver these commodities to Lyakhov Dock in the CPC 20 6743 system. The organisation has also placed a kill order on all ships on Its wanted list, to ensure that pilots delivering commodities can do so safely. 

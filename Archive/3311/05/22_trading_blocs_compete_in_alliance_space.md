@@ -4,7 +4,14 @@ title: Trading Blocs Compete in Alliance Space
 slug: trading_blocs_compete_in_alliance_space
 date: '3311-05-22'
 source: API
-entities: []
+summary: Two trading blocs form in Alliance territory around Edmund Mahon and Nakato Kaine following the termination of the Sirius Strategic Defence Pact. The competition escalates as Alliance corporations rush to fill the military infrastructure vacuum left by Sirius Corporation's ordered withdrawal.
+player_impact: Trade pilots delivered Semiconductors, Ceramic Composites and Synthetic Fabrics to Bowersox Port in Winiama for Mahon's bloc or Fuca Dock in Apura for Kaine's bloc.
+persons:
+- Edmund Mahon
+- Nakato Kaine
+- Li Yong-Rui
+- Felicia Winters
+- Yuri Grom
 groups:
 - Alliance
 - Sirius Corp
@@ -15,19 +22,9 @@ topics:
 - corporate expansion
 - trade
 - war
-persons:
-- Edmund Mahon
-- Nakato Kaine
-- Li Yong-Rui
-- Felicia Winters
-- Yuri Grom
+entities: []
 technologies: []
-player_impact: "Trade pilots delivered Semiconductors, Ceramic Composites and Synthetic Fabrics to Bowersox Port in Winiama for Mahon's bloc or Fuca Dock in Apura for Kaine's bloc."
-summary: 'Two trading blocs form in Alliance territory around Edmund Mahon and Nakato
-  Kaine following the termination of the Sirius Strategic Defence Pact. The competition
-  escalates as Alliance corporations rush to fill the military infrastructure vacuum
-  left by Sirius Corporation''s ordered withdrawal.'
-modern_impact: "Li Yong-Rui's dismissal of the move as 'fascinatingly short-sighted' frames Sirius Corp's narrative of betrayal. Kaine's supporters' claim that 'the Sirius pact was paper covering the cracks of Mahon's economic weakness' crystallises the political fault line between anti-corporate populism and megacorporate pragmatism that will define Alliance politics for the rest of the year."
+modern_impact: Li Yong-Rui's dismissal of the move as 'fascinatingly short-sighted' frames Sirius Corp's narrative of betrayal. Kaine's supporters' claim that 'the Sirius pact was paper covering the cracks of Mahon's economic weakness' crystallises the political fault line between anti-corporate populism and megacorporate pragmatism that will define Alliance politics for the rest of the year.
 legacy_weight: 3
 significance: medium
 related_uuids:

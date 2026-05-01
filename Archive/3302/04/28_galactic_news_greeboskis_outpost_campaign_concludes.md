@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Greeboski's Outpost Campaign Concludes
-
-
 The Sovereign Justice Collective has released a jubilant statement, confirming that it has received sufficient quantities of titanium to carry out Its upgrade programme at Greeboski's Outpost. Hundreds of Independent pilots responded to the appeal by delivering the much-needed material to the Phiagre system starport. 
 
 Chancellor Zahra Arias, spokesperson for the Sovereign Justice Collective, released a brief statement: 

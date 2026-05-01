@@ -23,9 +23,6 @@ related_uuids:
 - c80bfd09-c018-56c8-bf38-ef9b7391d49f
 ---
 
-Broadcast Cobra Initiative
-
-
 Media organisation Broadcast Cobra has announced Its intention to build a megaship in The HIP 16038 system. The organisation, Which specialises in politics and current events, aims to reach a much wider audience With the construction of This mobile studio. 
 
 Alessandra Koa of Broadcast Cobra issued The following statement: 

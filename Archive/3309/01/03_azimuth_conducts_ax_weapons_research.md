@@ -4,7 +4,8 @@ title: Azimuth Conducts AX Weapons Research
 slug: azimuth_conducts_ax_weapons_research
 date: '3309-01-03'
 source: API
-entities: []
+summary: Azimuth Biotech CEO Torben Rademaker announces plans to develop anti-xeno weapon improvements while disavowing Salvation's superweapon research.
+player_impact: Not specifically mentioned — this is a corporate announcement report.
 persons:
 - Torben Rademaker
 groups:
@@ -19,17 +20,16 @@ topics:
 - research
 - scandal
 - war
+entities: []
 arc_id: thargoid-titan-war
-player_impact: Not specifically mentioned — this is a corporate announcement report.
-summary: Azimuth Biotech CEO Torben Rademaker announces plans to develop anti-xeno weapon improvements while disavowing Salvation's superweapon research.
-modern_impact: "\"Under my guidance, the corporation has moved away from Salvation's esoteric field of research and adopted a more conventional direction.\" Rademaker's strategic pivot highlights Azimuth's attempt to rehabilitate its public image while continuing to profit from the Thargoid war, a tension that would define the corporation throughout 3309."
+modern_impact: '"Under my guidance, the corporation has moved away from Salvation''s esoteric field of research and adopted a more conventional direction." Rademaker''s strategic pivot highlights Azimuth''s attempt to rehabilitate its public image while continuing to profit from the Thargoid war, a tension that would define the corporation throughout 3309.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 8b0086f9-372c-5557-906d-f1d12dcbc7de
 - af414e75-9512-5bdb-a09c-4a4728a99030
 - 55837bae-0f7a-5bc8-9a95-4fb792abd6c0
 - c8748b5c-ead9-5303-92b2-5cb20d64e511
-legacy_weight: 5
-significance: high
 ---
 
 The corporation Azimuth Biotech has outlined its plans to support the war effort against the Thargoids by improving ship anti-xeno firepower.

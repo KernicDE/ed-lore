@@ -15,19 +15,15 @@ locations:
 - Pleiades Nebula
 - Argent's Claim
 - Nerah City
-technologies: []
 topics:
 - politics
 - war
+technologies: []
 arc_id: thargoid-contact
-modern_impact: The Thargoid threat forced an uneasy superpower detente, ending the
-  Federal-Imperial cold war over meta-alloys in the Pleiades.
+modern_impact: The Thargoid threat forced an uneasy superpower detente, ending the Federal-Imperial cold war over meta-alloys in the Pleiades.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Halsey Comments on End of Cold War
-
 
 With the news that The Empire has withdrawn Its fleets from the Pleiades Nebula, apparently signalling the end of the Federal-Imperial cold war, former Federal President Jasmina Halsey has commented on the cessation of hostilities. 
 

@@ -17,9 +17,6 @@ legacy_weight: 1
 significance: low
 ---
 
-The Alliance Supports Five a Day in Diso!
-
-
 On Friday The Green Party of Diso announced their plans to rejuvenate the failing financial fortunes of Birmingham. The news was well received by Independent traders from across the galaxy, Many of whom immediately made their way to Diso to help ship Machinery for the Green Party of Diso. 
 
 In total 5187 Commanders signed up to assist With the rejuvenation project, and together they managed to deliver a staggering 15,010,547 tonnes of Machinery to Diso over the course of just 65 hours. In particular, the Green Party of Diso would like to thank Broker Mrozak, Broker HawX, Tycoon Ace Rimzy, Tycoon Thalios Abraxas and Broker Del Boy for their outstanding efforts to stimulate Birmingham’s economy. 

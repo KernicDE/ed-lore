@@ -26,9 +26,6 @@ related_uuids:
 - d33c2337-8ce6-5941-ade9-90a742c87559
 ---
 
-Aegis Hails Eagle Eye Success
-
-
 Aegis has announced that Its Eagle Eye initiative is proving to be a great success, and has helped to repel Thargoid forces from systems in The Pleiades Nebula. 
 
 The Eagle Eye orbital surveillance installations were established earlier This year to monitor transmissions from known Thargoid surface sites. This data is then made available to Independent pilots.  

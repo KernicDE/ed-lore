@@ -4,10 +4,10 @@ title: Further Omega Grid Secrets Revealed
 slug: further_omega_grid_secrets_revealed
 date: '3308-02-21'
 source: API
-arc_id: nmla-terrorism
+summary: ACT reveals a Lords of Restoration plot to frame Hadrian Duval as the NMLA's leader.
+player_impact: Not specifically mentioned — this is an intelligence report.
 persons:
 - Ursula Torquatus
-entities: []
 groups:
 - NMLA
 - Nova Imperium
@@ -16,9 +16,11 @@ locations:
 topics:
 - scandal
 - succession
-summary: ACT reveals a Lords of Restoration plot to frame Hadrian Duval as the NMLA's leader.
-player_impact: Not specifically mentioned — this is an intelligence report.
-modern_impact: "\"ACT has released details about a plan by the Lords of Restoration to frame Hadrian Augustus Duval as the leader of the NMLA.\" The conspiracy to frame Hadrian Duval reveals how the Lords of Restoration sought to eliminate both the Emperor and her rival bloodline."
+entities: []
+arc_id: nmla-terrorism
+modern_impact: '"ACT has released details about a plan by the Lords of Restoration to frame Hadrian Augustus Duval as the leader of the NMLA." The conspiracy to frame Hadrian Duval reveals how the Lords of Restoration sought to eliminate both the Emperor and her rival bloodline.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 00d01961-877a-52b8-a4ce-337aaa44ae3f
 - b68796e4-4524-597f-af53-35eebba951e0
@@ -30,10 +32,7 @@ related_uuids:
 - e899c6a7-d0d6-5407-a5b7-8a422e4753d7
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
-legacy_weight: 5
-significance: high
 ---
-
 
 ACT has released details about a plan by The Lords of Restoration to frame Hadrian Augustus Duval As the leader of the NMLA.
 The information was extracted from the NMLA’s Omega Grid network and published by Captain Saskia Landau:

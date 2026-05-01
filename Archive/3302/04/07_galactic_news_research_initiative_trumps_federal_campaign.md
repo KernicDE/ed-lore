@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Research Initiative Trumps Federal Campaign
-
-
 The Federal campaign against Onionhead suffered a setback This week when Its 'Hand in the Head' initiative received only modest support from the galactic community. Despite the best efforts of Federal campaigners, a competing scheme to support Further research into the drug proved more popular With the public. But although the Federal campaign enjoyed only limited success, 'Onionhead tzar' Edward Bores remained bullish. 
 
 "It's true that we hoped to receive more support," said Bores, "but this is still a significant success. Thousands of tonnes of Onionhead have now been removed from circulation, weakening the criminal networks that thrive on the sale and distribution of this dangerous drug." 

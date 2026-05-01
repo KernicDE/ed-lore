@@ -16,9 +16,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Soontill Relics Test Results Queried
-
-
 As Further alien artefacts claiming to be from Soontill are being sold on The open market, The results of the initial scientific tests have been revealed. 
 
 “We were looking for key markers,” explains Chief Xeno-Chemist Lyran Betar.  “Elemental make up, crystalline structure, anything that indicates it could have originated from human hand.” 

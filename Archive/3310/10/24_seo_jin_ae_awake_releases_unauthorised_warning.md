@@ -4,6 +4,11 @@ title: Seo Jin-ae Awake, Releases Unauthorised Warning
 slug: seo_jin_ae_awake_releases_unauthorised_warning
 date: '3310-10-24'
 source: API
+summary: Seo Jin-ae wakes from a week-long coma and releases an unauthorised ICE-cast statement revealing that the Thargoids deliberately probed her mind through her cortical implant, learning everything she knows about humanity.
+player_impact: Not specifically mentioned — this is a statement release article.
+persons:
+- Seo Jin-ae
+- Ivano Colombera
 groups:
 - Aegis
 locations: []
@@ -11,16 +16,11 @@ topics:
 - alien contact
 - medicine
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Seo's description — 'It was like someone plugged an amplifier straight into my brain... The Thargoids had finally noticed my presence and tried to learn what they could about me' — is the most direct evidence of Thargoid intelligence-gathering on individual humans. Her warning that 'They're planning something now' directly foreshadows Cocijo's assault on Sol three weeks later. Colombera's speculation that the implant 'disrupted an attempt to control her like a drone' suggests the Thargoids may have intended worse."
-persons:
-- Seo Jin-ae
-- Ivano Colombera
 technologies:
 - Cortical implant
 - Project Seraph
-player_impact: "Not specifically mentioned — this is a statement release article."
-summary: "Seo Jin-ae wakes from a week-long coma and releases an unauthorised ICE-cast statement revealing that the Thargoids deliberately probed her mind through her cortical implant, learning everything she knows about humanity."
+arc_id: thargoid-titan-war
+modern_impact: Seo's description — 'It was like someone plugged an amplifier straight into my brain... The Thargoids had finally noticed my presence and tried to learn what they could about me' — is the most direct evidence of Thargoid intelligence-gathering on individual humans. Her warning that 'They're planning something now' directly foreshadows Cocijo's assault on Sol three weeks later. Colombera's speculation that the implant 'disrupted an attempt to control her like a drone' suggests the Thargoids may have intended worse.
 legacy_weight: 5
 significance: high
 related_uuids:

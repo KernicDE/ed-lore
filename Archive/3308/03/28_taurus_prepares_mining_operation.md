@@ -4,9 +4,10 @@ title: Taurus Prepares Mining Operation
 slug: taurus_prepares_mining_operation
 date: '3308-03-28'
 source: API
+summary: Taurus Mining Ventures announces a new mining initiative in the Synuefe CE-R c21-6 system.
+player_impact: Pilots were invited to support Taurus Mining Ventures' new mining initiative in Synuefe.
 persons:
 - Ruben Carpenter
-entities: []
 groups: []
 locations:
 - Synuefe
@@ -14,15 +15,13 @@ topics:
 - corporate expansion
 - research
 - war
-summary: Taurus Mining Ventures announces a new mining initiative in the Synuefe CE-R c21-6 system.
-player_impact: Pilots were invited to support Taurus Mining Ventures' new mining initiative in Synuefe.
-modern_impact: "\"Plans for a new mining initiative by Taurus Mining Ventures in the Synuefe CE-R c21-6 system have been announced.\" The Synuefe mining operation appears designed to extract resources for Salvation's Guardian-derivative research."
+entities: []
+modern_impact: '"Plans for a new mining initiative by Taurus Mining Ventures in the Synuefe CE-R c21-6 system have been announced." The Synuefe mining operation appears designed to extract resources for Salvation''s Guardian-derivative research.'
 legacy_weight: 2
 significance: low
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Plans for a new mining initiative by Taurus Mining Ventures in The Synuefe CE-R c21-6 system have been announced.
 The corporation’s megaship Heart of Taurus has been conducting scientific studies on ‘unusual radioactive signatures’ within the system. The next phase of This work is to identify mineable resources to learn more about the radiation’s effects.
 Dr Ruben Carpenter, head of the Taurus Mining Ventures research division, provided an update:

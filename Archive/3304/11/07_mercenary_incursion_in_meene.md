@@ -30,9 +30,6 @@ related_uuids:
 - 5ce245a3-6cab-529d-81eb-e7015b0bbe28
 ---
 
-Mercenary Incursion in Meene
-
-
 A mercenary group has been intercepted by security forces in The Meene system. 
 
 Security Chief Harper Vargas of the Meene Defence Force reported: 

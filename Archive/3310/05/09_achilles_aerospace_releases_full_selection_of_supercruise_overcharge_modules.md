@@ -4,7 +4,10 @@ title: Achilles Aerospace releases full selection of Supercruise Overcharge modu
 slug: achilles_aerospace_releases_full_selection_of_supercruise_overcharge_modules
 date: '3310-05-09'
 source: API
-entities: []
+summary: Achilles Aerospace releases the full range of Supercruise Overcharge drives and upgrades, with Dr. Namin Tirel revealing the technology was developed using Thargoid drive components recovered by independent pilots.
+player_impact: Pilots who brought Thargoid drive technology to Achilles are thanked for making the breakthrough possible. Full range of SCO drives now available with removed safety limiters and improved jump range over Sirius technology.
+persons:
+- Namin Tirel
 groups:
 - Achilles Aerospace
 - Faulcon DeLacy
@@ -16,15 +19,12 @@ topics:
 - safety
 - ship
 - corporate expansion
-arc_id: null
-modern_impact: "Tirel's revelation that 'When we got hold of some of the actual parts of the Thargoids' drive-like technology, all that time, energy, and financial investment finally paid off' is extraordinary — it confirms that human FSD technology has been reverse-engineered from Thargoid components. His competitive dig at Sirius — 'a few optimisations we could make over Sirius' aging technology' — escalates the corporate rivalry. The thank you to 'independent pilots who brought us the key pieces of technology' acknowledges the player community's direct role in this breakthrough."
-persons:
-- Namin Tirel
+entities: []
 technologies:
 - Supercruise Overcharge Frame Shift Drive
 - SCO drive
-player_impact: "Pilots who brought Thargoid drive technology to Achilles are thanked for making the breakthrough possible. Full range of SCO drives now available with removed safety limiters and improved jump range over Sirius technology."
-summary: "Achilles Aerospace releases the full range of Supercruise Overcharge drives and upgrades, with Dr. Namin Tirel revealing the technology was developed using Thargoid drive components recovered by independent pilots."
+arc_id: null
+modern_impact: Tirel's revelation that 'When we got hold of some of the actual parts of the Thargoids' drive-like technology, all that time, energy, and financial investment finally paid off' is extraordinary — it confirms that human FSD technology has been reverse-engineered from Thargoid components. His competitive dig at Sirius — 'a few optimisations we could make over Sirius' aging technology' — escalates the corporate rivalry. The thank you to 'independent pilots who brought us the key pieces of technology' acknowledges the player community's direct role in this breakthrough.
 legacy_weight: 5
 significance: high
 related_uuids:

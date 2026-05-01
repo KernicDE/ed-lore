@@ -58,9 +58,6 @@ related_uuids:
 - 9177e211-a080-5a19-b2bd-634273e040c6
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Admiral George Varma of The Alliance Council of Admirals has been arrested by the taskforce investigating terrorist organisation the League of Reparation. Admiral Varma stands accused of redirecting cargo shipments from the Alliance Defence Force to terrorist cells. It is thought that Varma is the organisation’s coordinator, operating under the alias Nexus. 

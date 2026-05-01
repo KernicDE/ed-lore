@@ -12,9 +12,6 @@ legacy_weight: 1
 significance: low
 ---
 
-A Distant Rendezvous – 43,000 Light Years from Home
-
-
 On The fringe of The Scutum-Centaurus arm, on the Far side of the galaxy, two lone deep space explorers rendezvoused at a Star system called EACTAINDS GN-W C1-6. 
 
 CMDR R4nger0's mission? To cross the galaxy In a Sidewinder. 

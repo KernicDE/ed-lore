@@ -22,9 +22,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Far God Campaign Concludes
-
-
 LHS 2541 Alliance Combine has announced that Its request for Thargoid materials for The Far God sect has been enthusiastically received by the galactic community.  
 
 Hundreds of pilots supported the campaign by delivering commodities to Wheelock Ring in the Zavijah system, and by eliminating agitators in Zavijah, thereby ensuring the safety of traders contributing to the initiative. 

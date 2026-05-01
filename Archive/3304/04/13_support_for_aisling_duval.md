@@ -25,9 +25,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Support for Aisling Duval
-
-
 Princess Aisling Duval’s recent comments about The effectiveness of Aegis have attracted a measure of support. 
 
 One of the most prominent figures to express solidarity is Imperial Senator Pal Vespasian, who said: 

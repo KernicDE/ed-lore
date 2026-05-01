@@ -4,22 +4,19 @@ title: Federation Accused of Cover up
 slug: federation_accused_of_cover_up
 date: '3301-05-17'
 source: GitHub
-entities:
-- Arcanonn
-- Arcanonn declined
 groups:
 - Canonn
 topics:
 - investigation
 - research
 - ship
+entities:
+- Arcanonn
+- Arcanonn declined
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
 ---
-
-Federation Accused of Cover-up
-
 
 Despite pleas for information from The Scientific cross-faction coalition, The Federal Authorities remain tight lipped. According to sources close to Dr. Arcanonn and his team, Halsey's government have refused to even acknowledge that Federation ships have been transporting the artefacts through Populated space, despite mounting evidence. The authorities have also been accused of providing the scientist With nothing more than cryptic responses designed to stall their investigations. 
 

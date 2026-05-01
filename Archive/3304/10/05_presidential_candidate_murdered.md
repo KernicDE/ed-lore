@@ -32,9 +32,6 @@ related_uuids:
 - 386cbd85-5543-5119-8766-37eb9cb4855c
 ---
 
-Presidential Candidate Murdered
-
-
 Fazia Silva, One of The three candidates in the Alliance presidential race, has been Found dead. She is believed to have been murdered. 
 
 Inspector Erin Sangster of Alliance Interpol informed the media: 

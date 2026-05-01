@@ -30,9 +30,6 @@ related_uuids:
 - d7ee12d3-53dc-5c8b-80f0-0309a7f56575
 ---
 
-Aisling Duval Hosts Federal Ambassador
-
-
 Last weekend, Princess Aisling Duval hosted a diplomatic function at Which Federal Ambassador Jordan Rochester was The guest of honour. 
 
 Although security at the event was tight, entertainment journalist Solomon Helios managed to obtain an exclusive insight for his programme. 

@@ -7,22 +7,25 @@ source: GitHub
 summary: The Alliance announced plans to construct a scientific outpost on California Sector BA-A E6 4 in the California Nebula to research organic structures and meta-alloys. 160 SOAR is coordinating an appeal for geological equipment, hazardous-environment suits, and pesticides to be delivered to Tshang City in the Furuhjelm III-674 system.
 player_impact: Pilots can deliver geological equipment, hazardous-environment suits, and pesticides to Tshang City in the Furuhjelm III-674 system for rewards.
 persons: []
-groups: [Alliance, 160 SOAR]
-locations: [California Nebula, California Sector BA-A E6, Furuhjelm III-674, Tshang City]
-technologies: []
+groups:
+- Alliance
+- 160 SOAR
+locations:
+- California Nebula
+- California Sector BA-A E6
+- Furuhjelm III-674
+- Tshang City
 topics:
 - research
 - scandal
 - trade
 - war
+technologies: []
 arc_id: barnacle-meta-alloy
 modern_impact: Alliance construction of a research outpost in the California Nebula to study barnacles and meta-alloys intensifies superpower rivalry over alien resources.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: Alliance Outpost in The California Nebula
-
 
 Last week, the Alliance deployed a flotilla to the California Sector BA-A E6 system in the California Nebula. The act proved controversial, prompting accusations that the Alliance was attempting to lay claim to the organic structures on California Sector BA-A E6 4 of the California Sector BA-A E6 system. 
 

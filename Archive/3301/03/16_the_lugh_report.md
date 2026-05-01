@@ -14,14 +14,10 @@ topics:
 - ship
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-The Lugh Report
-
 
 The fighting has been fierce in the Lugh system This past weekend. Hundreds of thousands of ships have been shot down and millions have lost their lives in the opening salvo of the war. 
 

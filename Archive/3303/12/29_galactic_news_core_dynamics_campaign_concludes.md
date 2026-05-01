@@ -23,9 +23,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Core Dynamics Campaign Concludes
-
-
 Core Dynamics has announced that Its construction initiative has received The wholehearted support of the galactic community. Hundreds of pilots contributed to the campaign by delivering construction materials to Klimuk Ring, and by eliminating agitators in the Guaras system. The materials will be used to support a new wave of manufacture to replace ships lost in Thargoid attacks. 
 
 A spokesperson for Core Dynamics released The following statement: 

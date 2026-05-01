@@ -4,6 +4,9 @@ title: Zorgon Peterson Unveils Caspian Explorer Vessel
 slug: zorgon_peterson_unveils_caspian_explorer_vessel
 date: '3311-12-02'
 source: API
+summary: Zorgon Peterson unveiled the Caspian Explorer, a dedicated large exploration vessel with a Mk II SCO FSD offering 500% neutron boost, and invited pilots to Reorte to field-test it by gathering exobiological data.
+player_impact: Pilots registered at Davies High in Reorte and gathered exobiological data throughout the galaxy to field-test the Caspian Explorer during its early release.
+persons: []
 groups:
 - Zorgon Peterson
 locations:
@@ -12,18 +15,15 @@ locations:
 topics:
 - exploration
 - ship
-persons: []
 technologies:
 - Caspian Explorer
 - Mk II exploration modules
 - Mk II SCO-enabled frame shift drive
-player_impact: "Pilots registered at Davies High in Reorte and gathered exobiological data throughout the galaxy to field-test the Caspian Explorer during its early release."
-summary: "Zorgon Peterson unveiled the Caspian Explorer, a dedicated large exploration vessel with a Mk II SCO FSD offering 500% neutron boost, and invited pilots to Reorte to field-test it by gathering exobiological data."
-modern_impact: "The Caspian Explorer's 500% neutron boost and thermal shielding for steep atmospheric entries directly address the technical challenges of exobiological survey work. Launching just weeks after Radicoida unica's discovery, Zorgon Peterson positions the Caspian as the ideal vessel for the new era of exobiological exploration — a market that explodes in 3312 with Distant Worlds 3 and further Radicoida research."
-related_uuids:
-- 43298349-22ec-5b41-8fc7-f201abd9002f
+modern_impact: The Caspian Explorer's 500% neutron boost and thermal shielding for steep atmospheric entries directly address the technical challenges of exobiological survey work. Launching just weeks after Radicoida unica's discovery, Zorgon Peterson positions the Caspian as the ideal vessel for the new era of exobiological exploration — a market that explodes in 3312 with Distant Worlds 3 and further Radicoida research.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 43298349-22ec-5b41-8fc7-f201abd9002f
 ---
 
 Zorgon Peterson has announced the limited release of the Caspian Explorer, a large vessel purpose-built for deep space and planetary exploration.

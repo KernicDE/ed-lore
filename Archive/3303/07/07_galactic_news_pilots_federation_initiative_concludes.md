@@ -4,9 +4,7 @@ title: Galactic News  Pilots Federation Initiative Concludes
 slug: galactic_news_pilots_federation_initiative_concludes
 date: '3303-07-07'
 source: GitHub
-summary: The Pilots Federation announces the successful conclusion of its campaign
-  to clear agitators from the LHS 3447, Eravate and Asellus Primus systems. The initiative
-  was designed to secure these systems for inexperienced pilots starting their careers.
+summary: The Pilots Federation announces the successful conclusion of its campaign to clear agitators from the LHS 3447, Eravate and Asellus Primus systems. The initiative was designed to secure these systems for inexperienced pilots starting their careers.
 player_impact: None
 persons: []
 groups:
@@ -18,19 +16,15 @@ locations:
 - Cleve Hub
 - Beagle 2 Landing
 - Dalton Gateway
-technologies: []
 topics:
 - crime
 - ship
 - war
-modern_impact: Pilots Federation initiative successfully secures starter systems for
-  new pilots, reinforcing safety in high-traffic career-starting regions.
+technologies: []
+modern_impact: Pilots Federation initiative successfully secures starter systems for new pilots, reinforcing safety in high-traffic career-starting regions.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Pilots Federation Initiative Concludes
-
 
 The Pilots Federation has announced that Its campaign to clear the LHS 3447, Eravate and Asellus Primus systems of agitators has been a success. Hundreds of combat pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the systems. 
 

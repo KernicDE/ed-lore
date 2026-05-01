@@ -22,9 +22,6 @@ related_uuids:
 - b8029316-f01c-590a-9636-eb301fa8a07b
 ---
 
-Aranbarahun Purple Creative Campaign
-
-
 Aranbarahun Purple Creative, an Independent organisation based in The Aranbarahun system, has announced plans to build a massive cargo ship to transport goods out of the booming system. 
 
 In support of This goal, Aranbarahun Purple Creative has placed an open order for various commodities, and has promised to reward pilots who deliver these commodities to Barnes Terminal in the Aranbarahun system. The organisation has also placed a kill order on all ships on Its wanted list, to ensure that those contributing commodities to the campaign can do so safely. 

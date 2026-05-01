@@ -4,6 +4,8 @@ title: Nascent Starport Targeted by Pirates
 slug: nascent_starport_targeted_by_pirates
 date: '3301-10-29'
 source: GitHub
+summary: Pirates began targeting traders and contractors in the Kaushpoos system, threatening the construction of the new Pleiades Nebula starport. The Explorer's Association set aside a cash reserve to reimburse bounty hunters and appealed for palladium deliveries for the next construction phase. Both combat pilots and traders are needed to keep the project on track.
+player_impact: Bounty hunters can earn rewards clearing pirates from Kaushpoos, while traders can deliver palladium for the starport construction. Both activities support the first deep-space outpost in the Pleiades Nebula.
 groups:
 - Explorer's Association
 locations:
@@ -14,15 +16,10 @@ topics:
 - exploration
 - piracy
 arc_id: pleiades-expansion
-summary: Pirates began targeting traders and contractors in the Kaushpoos system, threatening the construction of the new Pleiades Nebula starport. The Explorer's Association set aside a cash reserve to reimburse bounty hunters and appealed for palladium deliveries for the next construction phase. Both combat pilots and traders are needed to keep the project on track.
-player_impact: Bounty hunters can earn rewards clearing pirates from Kaushpoos, while traders can deliver palladium for the starport construction. Both activities support the first deep-space outpost in the Pleiades Nebula.
 modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---
-
-Nascent Starport Targeted by Pirates
-
 
 Last week, The Explorers' Association announced plans to construct a starport in the Pleiades Nebula, and issued an appeal for resources. The response to the request was positive and work on the station superstructure is now underway. With the project poised to enter Its second phase, the Explorers' Association has issued another request, This time for assistance of a more practical kind: 
 

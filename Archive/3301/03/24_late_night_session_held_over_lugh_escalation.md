@@ -4,8 +4,6 @@ title: Late Night Session Held Over Lugh Escalation
 slug: late_night_session_held_over_lugh_escalation
 date: '3301-03-24'
 source: GitHub
-entities:
-- Hudson went so far as
 groups:
 - Federal Navy
 locations:
@@ -14,13 +12,12 @@ locations:
 topics:
 - narcotics
 - piracy
+entities:
+- Hudson went so far as
 modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---
-
-Late Night Session Held Over Lugh Escalation
-
 
 The debate in Congress turned ugly tonight, as members of both parties grilled The President over her mishandling of the Federation’s interests during the last six months. 
 

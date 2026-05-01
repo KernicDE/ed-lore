@@ -4,6 +4,8 @@ title: Azimuth Divides Media Opinion
 slug: azimuth_divides_media_opinion
 date: '3308-08-05'
 source: API
+summary: Editorial pieces from across the core systems reveal sharply divided media opinion on Azimuth Biotech and Salvation, ranging from Imperial fears of Federal aggression to concerns about corporate influence and Princess Aisling's warnings of manipulation.
+player_impact: Not specifically mentioned — this is a media analysis piece.
 persons:
 - Aisling Duval
 - Ram Tah
@@ -21,13 +23,11 @@ topics:
 - research
 - war
 arc_id: salvation-azimuth
-summary: Editorial pieces from across the core systems reveal sharply divided media opinion on Azimuth Biotech and Salvation, ranging from Imperial fears of Federal aggression to concerns about corporate influence and Princess Aisling's warnings of manipulation.
-player_impact: Not specifically mentioned — this is a media analysis piece.
 modern_impact: The media divide exposed how Salvation had become a political prism, with each faction interpreting his actions through their own ideological lens rather than objective assessment of Azimuth's crimes.
-related_uuids:
-- 45b84dea-4293-588d-963a-38ee1b061eb5
 legacy_weight: 4
 significance: medium
+related_uuids:
+- 45b84dea-4293-588d-963a-38ee1b061eb5
 ---
 
 Editorial pieces published by newsfeeds across the core systems illustrate a range of viewpoints on current events in HIP 22460.

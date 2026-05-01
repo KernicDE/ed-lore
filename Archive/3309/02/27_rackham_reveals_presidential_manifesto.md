@@ -4,7 +4,8 @@ title: Rackham Reveals Presidential Manifesto
 slug: rackham_reveals_presidential_manifesto
 date: '3309-02-27'
 source: API
-entities: []
+summary: Trillionaire Zachary Rackham launches his independent campaign for Federal president with a populist tax-cutting manifesto.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Rackham
 - Felicia Winters
@@ -21,19 +22,13 @@ locations:
 topics:
 - corporate expansion
 - politics
+entities: []
 arc_id: federal-politics
-player_impact: Not specifically mentioned — this is a political report.
-summary: "Trillionaire Zachary Rackham launches his independent campaign for Federal
-  president with a populist tax-cutting manifesto."
-modern_impact: "Bryanna Blanco described his promises as \"populist nonsense from a
-  former pirate turned politician.\" Rackham's candidacy exemplifies the increasing
-  merger of corporate wealth and political power in the Federation, where an
-  unapologetic ex-pirate could leverage celebrity and business interests to mount
-  a credible challenge to the two-party establishment."
-related_uuids:
-- 4142a139-3275-5ad3-8392-26cd6e4b9594
+modern_impact: Bryanna Blanco described his promises as "populist nonsense from a former pirate turned politician." Rackham's candidacy exemplifies the increasing merger of corporate wealth and political power in the Federation, where an unapologetic ex-pirate could leverage celebrity and business interests to mount a credible challenge to the two-party establishment.
 legacy_weight: 3
 significance: medium
+related_uuids:
+- 4142a139-3275-5ad3-8392-26cd6e4b9594
 ---
 
 Trillionaire entrepreneur Zachary Rackham has launched his campaign to be elected as Federal president in the forthcoming election.

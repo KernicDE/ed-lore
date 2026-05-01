@@ -23,9 +23,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Former Federal President Found
-
-
 The recent Federal operation to search for survivors from Starship One was eagerly supported by the galactic community, resulting in the safe recovery of thousands of escape pods, Many of them containing living survivors. As the task of identifying the pod's occupants Continues, Federal President Zachary Hudson has made a surprising announcement: one of the escape pods taken to Leoniceno Orbital contains former Federal President Jasmina Halsey. 
 
 "When we started searching for the remains of Starship One it was With the aim of discovering what happened to the ship. I never imagined we would find survivors, and certainly not that one of them would be Jasmina Halsey." 

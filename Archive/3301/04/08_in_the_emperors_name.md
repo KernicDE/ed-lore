@@ -4,21 +4,18 @@ title: In the Emperor’s Name
 slug: in_the_emperors_name
 date: '3301-04-08'
 source: GitHub
-entities:
-- Torval went head
 topics:
 - corporate expansion
 - crime
 - investigation
 - slavery
 - succession
+entities:
+- Torval went head
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-In The Emperor’s Name
-
 
 The last week has seen a bustle of activity in Imperial space. 
 

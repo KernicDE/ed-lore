@@ -24,9 +24,6 @@ related_uuids:
 - 9a686bf9-c1b6-5de4-891b-31a3d4733fca
 ---
 
-The Collective
-
-
 Technology journalist Harlow Nassry has published an article in The Federal Times regarding a mysterious criminal group known only as ‘the Collective’: 
 
 “Several recent digital crimes, including the theft of a billion credits from Zachary Rackham, have now been attributed to the Collective. Security forces have launched investigations, but it seems that the name is already well known among hacker communities.” 

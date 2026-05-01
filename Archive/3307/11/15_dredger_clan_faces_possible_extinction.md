@@ -4,20 +4,17 @@ title: Dredger Clan Faces Possible Extinction
 slug: dredger_clan_faces_possible_extinction
 date: '3307-11-15'
 source: API
-groups:
-- Orion University
-- Scriveners Clan
+summary: The Scriveners Clan faces possible extinction as their dredger's power and life support systems begin malfunctioning while trapped in the Oochost PC-C c29-0 system by Orion University's override codes.
+player_impact: None
 persons:
 - Casey Kilpatrick
 - Elizabeth Perez
+groups:
+- Orion University
+- Scriveners Clan
 topics:
 - research
-summary: The Scriveners Clan faces possible extinction as their dredger's power and
-  life support systems begin malfunctioning while trapped in the Oochost PC-C c29-0 system
-  by Orion University's override codes.
-player_impact: None
-modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic
-  institutions and the nomadic society that inhabits it.
+modern_impact: The Scriveners Clan dredger remains a subject of dispute between academic institutions and the nomadic society that inhabits it.
 legacy_weight: 2
 significance: low
 ---

@@ -13,17 +13,14 @@ groups:
 locations:
 - Tionisla
 - Sol
-technologies: []
 topics:
 - exploration
+technologies: []
 arc_id: raxxla-mystery
 modern_impact: The enduring Raxxla mystery continues to captivate explorers.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Curious Message Discovered
-
 
 A group of EM-transmission technology enthusiasts in The Tionisla system claims to have Found a message in the exploration data gathered last year as part of a campaign organised by the Children of Raxxla. 
 

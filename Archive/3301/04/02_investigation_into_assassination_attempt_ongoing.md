@@ -4,19 +4,16 @@ title: Investigation into Assassination Attempt Ongoing
 slug: investigation_into_assassination_attempt_ongoing
 date: '3301-04-02'
 source: GitHub
-entities:
-- Blaine made
 topics:
 - investigation
 - succession
 - war
+entities:
+- Blaine made
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Investigation into Assassination Attempt Ongoing
-
 
 Chancellor Blaine made an appearance before The Senate today to answer questions regarding The recent assassination attempt on the Emperor's life. The Chancellor remained stoic as he once again turned aside calls to clarify the line of succession, saying: 
 

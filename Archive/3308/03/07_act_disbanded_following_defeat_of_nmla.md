@@ -4,10 +4,10 @@ title: ACT Disbanded Following Defeat of NMLA
 slug: act_disbanded_following_defeat_of_nmla
 date: '3308-03-07'
 source: API
-arc_id: nmla-terrorism
+summary: The superpowers dissolve ACT after the NMLA threat is officially neutralized.
+player_impact: Not specifically mentioned — this is a diplomatic report.
 persons:
 - Arissa Lavigny-Duval
-entities: []
 groups:
 - Alliance
 - Marlinist
@@ -20,9 +20,11 @@ topics:
 - succession
 - terrorism
 - war
-summary: The superpowers dissolve ACT after the NMLA threat is officially neutralized.
-player_impact: Not specifically mentioned — this is a diplomatic report.
-modern_impact: "\"ACT's primary mission to locate and destroy the Neo-Marlinist Liberation Army has been successfully accomplished.\" ACT's dissolution closes a remarkable chapter of trisuperpower counter-terrorism cooperation, though its legal framework remains active."
+entities: []
+arc_id: nmla-terrorism
+modern_impact: '"ACT''s primary mission to locate and destroy the Neo-Marlinist Liberation Army has been successfully accomplished." ACT''s dissolution closes a remarkable chapter of trisuperpower counter-terrorism cooperation, though its legal framework remains active.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 00d01961-877a-52b8-a4ce-337aaa44ae3f
 - b68796e4-4524-597f-af53-35eebba951e0
@@ -34,10 +36,7 @@ related_uuids:
 - e899c6a7-d0d6-5407-a5b7-8a422e4753d7
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
-legacy_weight: 5
-significance: high
 ---
-
 
 The Alliance, Empire and Federation, have agreed to close down the Affiliated Counter-Terrorism unit.
 A joint statement from All three superpowers stated: “ACT’s primary mission to locate and destroy the Neo-Marlinist Liberation Army has been successfully accomplished.”

@@ -4,12 +4,8 @@ title: Community Goal  Harma Silver Cartel Appeal
 slug: community_goal_harma_silver_cartel_appeal
 date: '3303-07-28'
 source: GitHub
-summary: The Harma Silver Cartel announces plans to recreate rum using a 24th-century
-  recipe discovered in a time capsule, placing an open order for rare alcohols. Pirate
-  organisations in the Harma system have threatened to blockade Gabriel Enterprise
-  and attack delivery pilots.
-player_impact: Deliver rare alcohols to Gabriel Enterprise in the Harma system. Eliminate
-  wanted ships and deliver bounty vouchers to Gabriel Enterprise.
+summary: The Harma Silver Cartel announces plans to recreate rum using a 24th-century recipe discovered in a time capsule, placing an open order for rare alcohols. Pirate organisations in the Harma system have threatened to blockade Gabriel Enterprise and attack delivery pilots.
+player_impact: Deliver rare alcohols to Gabriel Enterprise in the Harma system. Eliminate wanted ships and deliver bounty vouchers to Gabriel Enterprise.
 persons:
 - Captain Smolenski
 groups:
@@ -18,20 +14,16 @@ locations:
 - Harma
 - Gabriel Enterprise
 - Earth
-technologies: []
 topics:
 - piracy
 - ship
 - trade
 - war
-modern_impact: Revival of historical Earth beverage recipes by pirate cartels creates
-  unique commodity demand and regional conflict in the Harma system.
+technologies: []
+modern_impact: Revival of historical Earth beverage recipes by pirate cartels creates unique commodity demand and regional conflict in the Harma system.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Harma Silver Cartel Appeal
-
 
 The Harma Silver Cartel has announced that it intends to bring back a beverage that has been lost for Several hundred years: rum. 
 

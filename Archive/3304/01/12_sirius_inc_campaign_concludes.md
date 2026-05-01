@@ -23,9 +23,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Sirius Inc Campaign Concludes
-
-
 Sirius Inc has announced that Its construction initiative has been enthusiastically received by The galactic community. Hundreds of pilots supported the campaign by delivering commodities to Green Enterprise in the Ngalia system, and by eliminating agitators in Ngalia, thereby ensuring the safety of traders contributing to the initiative. 
 
 Sirius Inc has extended its gratitude to those who supported the campaign. 

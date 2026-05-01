@@ -25,9 +25,6 @@ related_uuids:
 - b4b88706-40ce-55d9-9c91-d7ed32847318
 ---
 
-Ulyanov Discusses Far God Outposts
-
-
 Exotheologian Dr Alfred Ulyanov has commented on The abandoned Far God outposts recently discovered in the Etain system: 
 
 “This fascinating discovery implies that the Missing chapters of the Far God sect were not arrested or killed, but instead fled to secret outposts to avoid persecution.”  

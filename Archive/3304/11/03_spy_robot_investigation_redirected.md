@@ -29,9 +29,6 @@ related_uuids:
 - 974273ae-d811-56a4-91c7-d562bba2149a
 ---
 
-Spy Robot Investigation Redirected
-
-
 The Federal Security Service has abruptly terminated Its investigation of The Mars Tribune regarding personal administration robots fitted With hidden surveillance programs. 
 
 Although interviews with Tribune employees were underway, it has been alleged that a senior figure in the FSS ordered the task force to focus elsewhere. 

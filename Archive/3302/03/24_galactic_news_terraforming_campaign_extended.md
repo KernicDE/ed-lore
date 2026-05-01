@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Terraforming Campaign Extended
-
-
 The Revolutionary Party of Vennik has made an announcement regarding the terraforming of Vennik 1. A spokesperson confirmed that the organisation plans to extend the campaign for a second week. 
 
 "Due to overly ambitious estimates, it seems the supply of land-enrichment systems in Nearby systems is exceeded by Our demand. We have therefore decided to keep the contract open for an additional week, at considerable expense, to ensure we receive enough material to complete our terraforming project." 

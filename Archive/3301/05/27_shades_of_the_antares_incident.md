@@ -4,22 +4,18 @@ title: Shades of the Antares Incident
 slug: shades_of_the_antares_incident
 date: '3301-05-27'
 source: GitHub
-entities:
-- Felicia Winters made
 topics:
 - diplomacy
 - investigation
 - ship
 - terrorism
+entities:
+- Felicia Winters made
 arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
-  with implications for hyperdrive safety.
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery with implications for hyperdrive safety.
 legacy_weight: 3
 significance: medium
 ---
-
-Shades of The Antares Incident
-
 
 At a press conference held earlier today, Acting Federal President Felicia Winters made a personal appearance to address The rdisappearance of Starship One after failing to re-enter normal space following a routine hyperspace jump. 
 

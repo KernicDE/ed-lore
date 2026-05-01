@@ -24,9 +24,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Jasmina Halsey to be Revived
-
-
 Medical personnel at Leoniceno Orbital have announced they will soon bring former Federal President Jasmina Halsey out of her induced coma. When The former president arrived at the starport she was still in her damaged escape pod. Since then, medical personnel at the starport have worked tirelessly to heal the injuries she sustained in the destruction of Starship One. Having completed This process, Halsey's doctors now believe it is safe to start waking their patient. 
 
 "The process of waking President Halsey from her coma must be done gradually," said Dr Lucy Ingles, who has been overseeing Halsey's treatment. "She is still In a delicate condition." 

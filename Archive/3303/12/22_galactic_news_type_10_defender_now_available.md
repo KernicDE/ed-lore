@@ -10,19 +10,16 @@ persons: []
 groups:
 - Lakon Spaceways
 locations: []
-technologies:
-- Type-10 Defender
 topics:
 - alien contact
 - ship
+technologies:
+- Type-10 Defender
 arc_id: thargoid-contact
 modern_impact: The Type-10 Defender's release gives pilots access to a heavily armed, combat-focused variant of the Type-9 for anti-Thargoid operations.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Type-10 Defender Now Available
-
 
 Lakon Spaceways has announced that Its new ship, The Type-10 Defender, is now available to the public. 
 

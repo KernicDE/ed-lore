@@ -4,21 +4,18 @@ title: Eotienses Rejuvenation Project Unveiled
 slug: eotienses_rejuvenation_project_unveiled
 date: '3301-04-21'
 source: GitHub
-entities:
-- Denton Patreus
 locations:
 - Denton
 - Eotienses
 topics:
 - corporate expansion
 - war
+entities:
+- Denton Patreus
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Eotienses Rejuvenation Project Unveiled
-
 
 In what Many pundits are calling a clear attempt to consolidate his position As the most influential arms dealer in The Empire, Senator Denton Patreus has today announced an initiative to rejuvenate Parkinson Dock, in order to promote The development of High Tech goods in Eotienses. 
 

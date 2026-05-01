@@ -4,7 +4,12 @@ title: New Era of System Colonisation Hailed a Success
 slug: new_era_of_system_colonisation_hailed_a_success
 date: '3311-03-13'
 source: API
-arc_id: trailblazer-colonisation
+summary: The first wave of independent colonisation was hailed as a remarkable success across the core systems, with tens of thousands of claims and settlements.
+player_impact: Independent pilots colonised over 13,000 systems and built more than 24,000 starports in the first wave of independent colonisation.
+persons:
+- Harlow Nassry
+- Colm Tornquist
+- Irfan Karim
 groups:
 - Alliance
 - Brewer Corporation
@@ -16,14 +21,9 @@ topics:
 - construction
 - corporate expansion
 - humanitarian
-persons:
-- Harlow Nassry
-- Colm Tornquist
-- Irfan Karim
 technologies: []
-player_impact: "Independent pilots colonised over 13,000 systems and built more than 24,000 starports in the first wave of independent colonisation."
-summary: The first wave of independent colonisation was hailed as a remarkable success across the core systems, with tens of thousands of claims and settlements.
-modern_impact: "Nassry's observation about 'displaced refugees from Sol boarding colony ships to start fresh' reveals the humanitarian dimension of colonisation. Tornquist's remark that 'these fledgling populations are potential candidates to accept the Empire's benevolence' exposes Imperial strategic interest in the frontier. Karim's praise for 'commercial enterprise' highlights the Alliance perspective. Together, these quotes show how each superpower views colonisation through its own ideological lens."
+arc_id: trailblazer-colonisation
+modern_impact: Nassry's observation about 'displaced refugees from Sol boarding colony ships to start fresh' reveals the humanitarian dimension of colonisation. Tornquist's remark that 'these fledgling populations are potential candidates to accept the Empire's benevolence' exposes Imperial strategic interest in the frontier. Karim's praise for 'commercial enterprise' highlights the Alliance perspective. Together, these quotes show how each superpower views colonisation through its own ideological lens.
 legacy_weight: 2
 significance: low
 related_uuids:

@@ -16,9 +16,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Travel Advisory for NGC 6124
-
-
 Warning: A Travel Advisory is issued for system NGC 6124 SECTOR  DW-N C6-10. 
 
 This system should be avoided, but not due to solar storms.  

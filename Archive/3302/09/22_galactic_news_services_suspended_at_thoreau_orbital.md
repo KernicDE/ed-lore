@@ -12,17 +12,14 @@ groups:
 locations:
 - Thoreau Orbital
 - Obotrima
-technologies:
-- skimmers
 topics:
 - construction
+technologies:
+- skimmers
 modern_impact: The disabling of Thoreau Orbital's skimmer production highlights the vulnerability of critical defence manufacturing to asymmetric Imperial attacks.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Services Suspended at Thoreau Orbital
-
 
 Personnel at Thoreau Orbital in The Obotrima system have been forced to suspend various services – a direct result of an Imperial campaign to destabilise the starport by flooding it With explosives. 
 

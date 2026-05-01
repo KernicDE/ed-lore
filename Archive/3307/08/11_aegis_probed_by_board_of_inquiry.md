@@ -4,27 +4,23 @@ title: Aegis Probed by Board of Inquiry
 slug: aegis_probed_by_board_of_inquiry
 date: '3307-08-11'
 source: API
-groups:
-- Aegis
+summary: An independent board of inquiry begins investigating Aegis's failures, including the loss of the Alexandria megaship and allegations of negligence regarding Guardian artefacts.
+player_impact: Independent pilots who participated in Aegis operations were referenced during the inquiry's initial phase.
 persons:
 - Paul Baumann
 - Aden Tanner
 - Alba Tesreau
 - Yazhu Xing
 - Mia Valencourt
+groups:
+- Aegis
 topics:
 - alien contact
 - investigation
 - research
 - xenoarchaeology
 arc_id: thargoid-contact
-summary: An independent board of inquiry begins investigating Aegis's failures, including
-  the loss of the Alexandria megaship and allegations of negligence regarding Guardian
-  artefacts.
-player_impact: Independent pilots who participated in Aegis operations were referenced
-  during the inquiry's initial phase.
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
 ---

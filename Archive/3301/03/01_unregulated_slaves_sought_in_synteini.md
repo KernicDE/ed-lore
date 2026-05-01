@@ -4,20 +4,17 @@ title: Unregulated Slaves Sought in Synteini
 slug: unregulated_slaves_sought_in_synteini
 date: '3301-03-01'
 source: GitHub
-entities:
-- Barham
-- Zemina Torval
 locations:
 - Synteini
 topics:
 - slavery
+entities:
+- Barham
+- Zemina Torval
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Unregulated Slaves Sought in Synteini
-
 
 The Imperial Slavers Association, in conjunction With Senator Zemina Torval, is pleased to announce The official opening of the newest ISA slave training facility aboard Lagerkvist Gateway in the Synteini system. 
 

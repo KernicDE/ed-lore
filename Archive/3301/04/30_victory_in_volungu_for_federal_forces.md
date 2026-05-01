@@ -12,9 +12,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Victory in Volungu for Federal Forces
-
-
 The war-torn region of Volungu has been under intense scrutiny over The last few days, as a centuries-old feud between the Faveols and the Blossoms threatened to reignite and engulf the region In a wave of bloodshed. 
 
 According to sources in the Patron’s Principles’ home system Liaedin, the attack on Volungu was carried out by a group of younger family members. Having never experienced war themselves, and inspired by the recent influx of Imperial combat veterans to the region, the young Faveols foolishly chose to attack their neighbours In a misguided quest for glory. 

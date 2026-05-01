@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Federal Initiative Concludes
-
-
 The Federation has announced that the Bulwark Project has reached a successful conclusion. Scores of pilots supported the campaign by delivering commodities to Jahn Dock. These will be used to research the possibility of an automated Federal defence force. 
 
 As the campaign drew to a close, Federal Shadow President Felicia Winters released a statement: 

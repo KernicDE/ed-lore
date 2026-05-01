@@ -4,7 +4,8 @@ title: Azimuth Claim Expensive Success
 slug: azimuth_claim_expensive_success
 date: '3308-11-10'
 source: API
-arc_id: salvation-azimuth
+summary: The recent Azimuth Biotech initiative to expand its operation assets has been described as a ‘partial success’.
+player_impact: Independent pilots were asked to both deliver commodities and engage hostile forces.
 persons:
 - Torben Rademaker
 groups:
@@ -18,21 +19,16 @@ topics:
 - research
 - war
 - xenoarchaeology
-player_impact: Independent pilots were asked to both deliver commodities and engage
-  hostile forces.
-summary: The recent Azimuth Biotech initiative to expand its operation assets has
-  been described as a ‘partial success’.
-modern_impact: '"We are delighted with the support shown to Azimuth Biotech by independent
-  pilots, and look to the future with optimism," Azimuth''s legacy of ethically compromised
-  research remains a cautionary tale in xenological studies.'
+arc_id: salvation-azimuth
+modern_impact: '"We are delighted with the support shown to Azimuth Biotech by independent pilots, and look to the future with optimism," Azimuth''s legacy of ethically compromised research remains a cautionary tale in xenological studies.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - 806c251d-1557-51b4-b731-91ab62e36274
 - 68d67987-f586-5c3e-b52e-608926db50ba
-legacy_weight: 5
-significance: high
 ---
 
 The recent Azimuth Biotech initiative to expand its operation assets has been described as a ‘partial success’.

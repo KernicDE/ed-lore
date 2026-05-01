@@ -4,24 +4,21 @@ title: Senators Offer to Protect Hadrian Duval
 slug: senators_offer_to_protect_hadrian_duval
 date: '3307-10-25'
 source: API
-groups:
-- Imperial Senate
-- NMLA
-- Nova Imperium
+summary: The Imperial Senate offers to make Hadrian Duval and Lady Astrid wards of the Senate for protection against NMLA attacks, potentially conditional on severing ties with Nova Imperium.
+player_impact: None
 persons:
 - Caspian Leopold
 - Hadrian Augustus Duval
 - Hengist Duval
 - Arissa Lavigny-Duval
+groups:
+- Imperial Senate
+- NMLA
+- Nova Imperium
 topics:
 - succession
 arc_id: nmla-terrorism
-summary: The Imperial Senate offers to make Hadrian Duval and Lady Astrid wards of
-  the Senate for protection against NMLA attacks, potentially conditional on severing
-  ties with Nova Imperium.
-player_impact: None
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---

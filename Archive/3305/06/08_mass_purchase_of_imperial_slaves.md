@@ -4,6 +4,8 @@ title: Mass Purchase of Imperial Slaves
 slug: mass_purchase_of_imperial_slaves
 date: '3305-06-08'
 source: GitHub
+summary: Tilbery Construction purchases 4,000 Imperial slaves in Eotienses for a water treatment facility project, drawing protests from anti-slavery charity Unchain over the company's inexperience and the risks of mass transport.
+player_impact: None — background report.
 persons:
 - Garrett Kline
 groups:
@@ -14,8 +16,6 @@ locations:
 topics:
 - slavery
 - corporate expansion
-summary: Tilbery Construction purchases 4,000 Imperial slaves in Eotienses for a water treatment facility project, drawing protests from anti-slavery charity Unchain over the company's inexperience and the risks of mass transport.
-player_impact: None — background report.
 modern_impact: The purchase was later revealed to be a front for Autonomy's mass emancipation operation, highlighting how Imperial slavery's contractual nature could be exploited by radical activists.
 legacy_weight: 2
 significance: medium
@@ -23,9 +23,6 @@ related_uuids:
 - f6b498a7-31b6-59b9-9ba3-62c096637f35
 - af2a3a5c-8f94-5646-b3c6-c979797cdd11
 ---
-
-Mass Purchase of Imperial Slaves
-
 
 Tilbery Construction, a company based in The Eotienses system, has attracted attention following the purchase of four thousand Imperial slaves. 
 

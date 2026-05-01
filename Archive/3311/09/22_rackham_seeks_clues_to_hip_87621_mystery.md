@@ -4,6 +4,11 @@ title: Rackham Seeks Clues to HIP 87621 Mystery
 slug: rackham_seeks_clues_to_hip_87621_mystery
 date: '3311-09-22'
 source: API
+summary: Rackham Capital Investments concluded its galaxy-wide exploration initiative, with Rackham claiming scientists are close to cracking the HIP 87621 mystery. Federal Times journalist Bryanna Blanco renewed her accusation that Rackham is pirate lord 'Calico Zack' and called his motives 'flimsy at best.'
+player_impact: Independent explorers submitted an unprecedented volume of planetary scan data from Rocky and High Metal Content worlds across the galaxy for cross-reference with HIP 87621.
+persons:
+- Zachary Rackham
+- Bryanna Blanco
 groups:
 - Federal Times
 locations:
@@ -12,14 +17,9 @@ topics:
 - exploration
 - piracy
 - research
-arc_id: hip87621-conflict
-persons:
-- Zachary Rackham
-- Bryanna Blanco
 technologies: []
-player_impact: "Independent explorers submitted an unprecedented volume of planetary scan data from Rocky and High Metal Content worlds across the galaxy for cross-reference with HIP 87621."
-summary: "Rackham Capital Investments concluded its galaxy-wide exploration initiative, with Rackham claiming scientists are close to cracking the HIP 87621 mystery. Federal Times journalist Bryanna Blanco renewed her accusation that Rackham is pirate lord 'Calico Zack' and called his motives 'flimsy at best.'"
-modern_impact: "Rackham's promise to share data publicly — which he never fulfills — becomes a key point Lexi October exploits in her October 3311 defence. Blanco's accusation that Rackham is 'Calico Zack' adds a criminal dimension to the scientific mystery: if true, Rackham's interest in HIP 87621 may be about plunder rather than philanthropy. The unexplored connection between Rackham's piracy allegations and his interest in the system remains unresolved."
+arc_id: hip87621-conflict
+modern_impact: 'Rackham''s promise to share data publicly — which he never fulfills — becomes a key point Lexi October exploits in her October 3311 defence. Blanco''s accusation that Rackham is ''Calico Zack'' adds a criminal dimension to the scientific mystery: if true, Rackham''s interest in HIP 87621 may be about plunder rather than philanthropy. The unexplored connection between Rackham''s piracy allegations and his interest in the system remains unresolved.'
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -4,25 +4,22 @@ title: Galactic News  Sirius Corporation Reveals Results of Analysis
 slug: galactic_news_sirius_corporation_reveals_results_of_analysis
 date: '3302-01-21'
 source: GitHub
+summary: The Sirius Corporation revealed the initial results of its analysis of the Antares wreckage. A spokesperson confirmed that a cascade failure in the hyperdrive's internal containment systems caused a catastrophic explosion during the ship's transition from normal space to hyperspace, though the precise cause of the failure remains unknown.
+player_impact: Pilots await further analysis that may lead to new safety protocols and potentially the reintroduction of the Antares's innovative drive technology.
 groups:
 - Sirius Corporation
 locations:
 - Sirius
-technologies:
-- Antares hyperdrive
 topics:
 - investigation
 - research
+technologies:
+- Antares hyperdrive
 arc_id: antares-mystery
-summary: The Sirius Corporation revealed the initial results of its analysis of the Antares wreckage. A spokesperson confirmed that a cascade failure in the hyperdrive's internal containment systems caused a catastrophic explosion during the ship's transition from normal space to hyperspace, though the precise cause of the failure remains unknown.
-player_impact: Pilots await further analysis that may lead to new safety protocols and potentially the reintroduction of the Antares's innovative drive technology.
 modern_impact: Continues the investigation into the Antares disaster.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Sirius Corporation Reveals Results of Analysis
-
 
 Following The recent discovery of the remains of the Antares, The Sirius Corporation has been subjecting the wreckage to extensive analysis in an attempt to determine exactly what happened to the luxury liner. In a press conference held This morning, a spokesperson for the organisation revealed the initial results of the analysis: 
 

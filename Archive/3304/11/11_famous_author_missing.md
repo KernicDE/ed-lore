@@ -22,9 +22,6 @@ related_uuids:
 - 4f8a3775-4a85-53e6-b107-a1946b857d3a
 ---
 
-Famous Author Missing
-
-
 The family and colleagues of author Olav Redcourt have reported him missing. A police investigation has so Far failed to determine his whereabouts. 
 
 Redcourt recently hit the headlines when he terminated his relationship With his publisher, Bonespire Publishing, midway through a promotional tour. 

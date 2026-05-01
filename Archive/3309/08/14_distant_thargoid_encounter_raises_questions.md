@@ -4,7 +4,11 @@ title: Distant Thargoid Encounter Raises Questions
 slug: distant_thargoid_encounter_raises_questions
 date: '3309-08-14'
 source: API
-entities: []
+summary: Commander Renia Rakowski reports a non-aggressive Thargoid interceptor encounter far from the Maelstroms, raising questions about Thargoid distribution and motives.
+player_impact: Not specifically mentioned — this is an exploration report.
+persons:
+- Renia Rakowski
+- Emil Varga
 groups:
 - Universal Cartographics
 locations:
@@ -14,13 +18,9 @@ topics:
 - alien contact
 - exploration
 - war
+entities: []
 arc_id: thargoid-contact
-modern_impact: "Rakowski's vivid account — 'black against the black of space, until its outline glowed... it stared back like some giant lidless eye' — is memorable. Her description of the Thargoid turning its back 'like I was some insignificant speck unworthy of attention' is striking. Varga's analysis — 'if the interceptor had been part of the invasion fleets, it would have opened fire immediately' — suggests this may be a different population."
-persons:
-- Renia Rakowski
-- Emil Varga
-player_impact: "Not specifically mentioned — this is an exploration report."
-summary: "Commander Renia Rakowski reports a non-aggressive Thargoid interceptor encounter far from the Maelstroms, raising questions about Thargoid distribution and motives."
+modern_impact: Rakowski's vivid account — 'black against the black of space, until its outline glowed... it stared back like some giant lidless eye' — is memorable. Her description of the Thargoid turning its back 'like I was some insignificant speck unworthy of attention' is striking. Varga's analysis — 'if the interceptor had been part of the invasion fleets, it would have opened fire immediately' — suggests this may be a different population.
 legacy_weight: 5
 significance: high
 related_uuids:

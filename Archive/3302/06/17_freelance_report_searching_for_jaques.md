@@ -17,7 +17,6 @@ locations:
 - Gliese 1269
 - Beagle Point
 - Darwin's Legacy
-technologies: []
 topics:
 - construction
 - exploration
@@ -25,15 +24,12 @@ topics:
 - safety
 - ship
 - war
+technologies: []
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Searching for Jaques
-
 
 It is almost a month since Jaques departed from Gliese 1269 to Beagle Point in his specially modified Orbis Starport. Pilots from The Distant Worlds Expedition and the FGE exploration wings have been eagerly awaiting Jaques's arrival. 
 

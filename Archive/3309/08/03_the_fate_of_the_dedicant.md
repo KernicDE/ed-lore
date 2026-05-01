@@ -4,7 +4,10 @@ title: The Fate of the Dedicant
 slug: the_fate_of_the_dedicant
 date: '3309-08-03'
 source: API
-entities: []
+summary: The megaship Dedicant is found adrift in HIP 19600, with Thargoid hull penetration and all 8,000+ inhabitants missing; Aegis also announces a new 'hunter' class Thargoid vessel.
+player_impact: Pilots helped decipher the Dedicant's fragmented distress call.
+persons:
+- Jalen Locke
 groups:
 - Aegis
 - Imperial Navy
@@ -14,12 +17,9 @@ topics:
 - alien contact
 - espionage
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Locke's statement — 'There is evidence that the Thargoids penetrated the hull in multiple locations, and thousands of escape pods were launched. Unusually, there are no bodies onboard and we have not been able to locate any of the escape pods' — is deeply ominous. The detail about 'all three FIA security teams and over 8,000 Far God cultists' being missing establishes the scale. Aegis's announcement of a new 'hunter' class vessel operating near Titans adds a military dimension."
-persons:
-- Jalen Locke
-player_impact: "Pilots helped decipher the Dedicant's fragmented distress call."
-summary: "The megaship Dedicant is found adrift in HIP 19600, with Thargoid hull penetration and all 8,000+ inhabitants missing; Aegis also announces a new 'hunter' class Thargoid vessel."
+modern_impact: Locke's statement — 'There is evidence that the Thargoids penetrated the hull in multiple locations, and thousands of escape pods were launched. Unusually, there are no bodies onboard and we have not been able to locate any of the escape pods' — is deeply ominous. The detail about 'all three FIA security teams and over 8,000 Far God cultists' being missing establishes the scale. Aegis's announcement of a new 'hunter' class vessel operating near Titans adds a military dimension.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,7 +29,7 @@ related_uuids:
 - 0359229a-57fb-5f46-bb36-52c62d71db1a
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The lost megaship Dedicant has been located in HIP 19600, with signs of Thargoid attack and all inhabitants missing. 
 The Dedicant was being prepared by Federal authorities to deport imprisoned members of the Order of the Far God when it unexpectedly jumped into hyperspace. Pilots who helped decipher its fragmented distress call were informed of the recent discovery by the Imperial Navy.
 Executive Agent Jalen Locke of the Federal Intelligence Agency issued a statement:

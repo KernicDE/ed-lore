@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Terraforming Vennik 1
-
-
 For decades, The Revolutionary Party of Vennik has been terraforming the planet Vennik 1, slowly transforming it into a habitable world. With the ambitious project about to enter Its final stage, the organisation has placed an open order for terrain-enrichment systems With Which to prepare the planet's surface for agricultural development. 
 
 A spokesperson for the Revolutionary Party of Vennik released a brief statement: 

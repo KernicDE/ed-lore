@@ -21,9 +21,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Freelance Report: We Should Have Listened to Dr Lorax
-
-
 Six months have elapsed since Doctor Elana Lorax warned against The exploitation of the non-human structures commonly called barnacles. In her plea, she noted that aggressive harvesting could jeopardise efforts to produce a viable synthetic alternative to meta-alloys.  
 
 Despite President Zachary Hudson's claim that the purpose of the Federal deputation in the Merope system is to protect the non-human structures, Independent pilots report that the system's barnacles have been entirely depleted. 

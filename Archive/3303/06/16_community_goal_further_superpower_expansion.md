@@ -21,9 +21,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Community Goal: Further Superpower Expansion
-
-
 As the Empire and Federation continue to consolidate their presence in The Pleiades Star cluster, both superpowers have announced new expansion initiatives centred in the region. 
 
 The Empire has declared Its intention to bolster its Navy With a new Well-class Carrier, One of the largest vessels of its kind, while the Federation has announced plans to establish an asteroid base among the rings of HIP 17692 A4 in the HIP 17692 system. 

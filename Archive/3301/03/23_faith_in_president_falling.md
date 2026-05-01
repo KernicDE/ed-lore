@@ -4,23 +4,19 @@ title: Faith in President Falling
 slug: faith_in_president_falling
 date: '3301-03-23'
 source: GitHub
-entities:
-- Falling
 locations:
 - Hartsfield
 - Lugh
 topics:
 - independence
 - war
+entities:
+- Falling
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Faith in President Falling
-
 
 Recent popularity polls have scored The President at a shockingly low 26% approval rating, With 43% of those questioned stating that they strongly disapprove of The President’s current policy decisions. 
 

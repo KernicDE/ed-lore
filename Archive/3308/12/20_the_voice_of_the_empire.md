@@ -4,7 +4,8 @@ title: The Voice of the Empire
 slug: the_voice_of_the_empire
 date: '3308-12-20'
 source: API
-arc_id: thargoid-titan-war
+summary: On the Empire’s homeworld Capitol, fears over imminent Thargoid invasion sparked a public gathering outside the Imperial Palace.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Anders Blaine
 - Arissa Lavigny-Duval
@@ -20,21 +21,16 @@ topics:
 - festival
 - succession
 - war
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: On the Empire’s homeworld Capitol, fears over imminent Thargoid invasion
-  sparked a public gathering outside the Imperial Palace.
-modern_impact: '"The arrival of the Thargoid Maelstroms has triggered protests on
-  many Allied, Federal and independent worlds. The Emp..." Imperial policy during
-  this period reveals the tensions between isolationism and collective security.'
+arc_id: thargoid-titan-war
+modern_impact: '"The arrival of the Thargoid Maelstroms has triggered protests on many Allied, Federal and independent worlds. The Emp..." Imperial policy during this period reveals the tensions between isolationism and collective security.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
-legacy_weight: 5
-significance: high
 ---
 
 On the Empire’s homeworld Capitol, fears over imminent Thargoid invasion sparked a public gathering outside the Imperial Palace.

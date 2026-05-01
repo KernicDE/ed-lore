@@ -21,9 +21,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Buckyball Racing Club Announces Total Recall Event
-
-
 The Buckyball Racing club has announced that it is hosting a ship and buggy race called 'Total Recall'. The event is being funded by a major manufacturer of SRV tyres in exchange for data on high-speed vehicle handling on a variety of planet surfaces. 
 
 Following observations that their tyres do not appear to leave tracks, a spokesperson for the company said: "We've been investigating This anomaly for some time. With the data provided by the BRC, we plan to start developing the next generation of high-performance 'TrakMark' tyres very soon". 

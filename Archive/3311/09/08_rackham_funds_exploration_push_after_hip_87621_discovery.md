@@ -4,6 +4,10 @@ title: Rackham Funds Exploration Push After HIP 87621 Discovery
 slug: rackham_funds_exploration_push_after_hip_87621_discovery
 date: '3311-09-08'
 source: API
+summary: Zachary Rackham funded a galaxy-wide exploration initiative for pilots to scan Rocky and High Metal Content worlds after long-range scans revealed anomalous exobiological readings in HIP 87621, where colonisation is blocked within a 37-light-year radius.
+player_impact: Independent pilots were asked to locate and conduct full scans of Rocky and High Metal Content worlds across the galaxy to cross-reference with HIP 87621's anomalous readings.
+persons:
+- Zachary Rackham
 groups:
 - Rackham Capital Investments
 locations:
@@ -13,13 +17,9 @@ locations:
 topics:
 - exploration
 - research
-arc_id: hip87621-conflict
-persons:
-- Zachary Rackham
 technologies: []
-player_impact: "Independent pilots were asked to locate and conduct full scans of Rocky and High Metal Content worlds across the galaxy to cross-reference with HIP 87621's anomalous readings."
-summary: "Zachary Rackham funded a galaxy-wide exploration initiative for pilots to scan Rocky and High Metal Content worlds after long-range scans revealed anomalous exobiological readings in HIP 87621, where colonisation is blocked within a 37-light-year radius."
-modern_impact: "The 37-light-year colonisation blockade around HIP 87621 is the first concrete evidence of October Consortium's active territorial control — they weren't just holding a permit, they were restricting expansion in a massive radius. Rackham's promise that results would be shared publicly 'at a later date' never materialises, giving Lexi October ammunition to deflect scrutiny in October 3311. The cross-reference approach mirrors the scientific methodology later used by Dr. Casimir in his Radicoida study."
+arc_id: hip87621-conflict
+modern_impact: The 37-light-year colonisation blockade around HIP 87621 is the first concrete evidence of October Consortium's active territorial control — they weren't just holding a permit, they were restricting expansion in a massive radius. Rackham's promise that results would be shared publicly 'at a later date' never materialises, giving Lexi October ammunition to deflect scrutiny in October 3311. The cross-reference approach mirrors the scientific methodology later used by Dr. Casimir in his Radicoida study.
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -4,29 +4,28 @@ title: Hudson Contravention Sparks Federal Protests
 slug: hudson_contravention_sparks_federal_protests
 date: '3308-02-22'
 source: API
-arc_id: federal-politics
+summary: Public unrest erupts across Federal worlds over President Hudson's term-limit proposal.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Felicia Winters
 - Jerome Archer
-entities: []
 groups:
 - Federal Times
 locations:
 - Sol
 topics:
 - festival
-summary: Public unrest erupts across Federal worlds over President Hudson's term-limit proposal.
-player_impact: Not specifically mentioned — this is a political report.
-modern_impact: "\"President Zachary Hudson's proposal to remove the eight-year limit on his term of office has led to public unrest.\" The widespread protests signal that Hudson's constitutional gambit has triggered a genuine democratic backlash across the Federation."
+entities: []
+arc_id: federal-politics
+modern_impact: '"President Zachary Hudson''s proposal to remove the eight-year limit on his term of office has led to public unrest." The widespread protests signal that Hudson''s constitutional gambit has triggered a genuine democratic backlash across the Federation.'
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 2802af31-31af-56d3-820a-8de1dabfd0b8
 - 49fe8f11-bf29-5aad-a01a-3c8dc80d60df
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 83d655f9-5cb4-5fb1-baa5-f5c64bb30cbf
-legacy_weight: 3
-significance: medium
 ---
-
 
 President Zachary Hudson’s proposal to remove The eight-year limit on his term of office has led to public unrest on Many Federal worlds.
 Supporters of Shadow President Felicia Winters have taken The lead in protesting against the Hudson Contravention, Which is currently being debated in Congress.

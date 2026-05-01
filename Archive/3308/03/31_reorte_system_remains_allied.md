@@ -4,7 +4,8 @@ title: Reorte System Remains Allied
 slug: reorte_system_remains_allied
 date: '3308-03-31'
 source: API
-arc_id: null
+summary: The Reorte Pro-Alliance League's victory ensures Reorte remains within the Alliance.
+player_impact: Pilots who supported the Reorte Pro-Alliance League secured the system's continued Alliance membership.
 groups:
 - Alliance
 - Sirius Corporation
@@ -16,15 +17,13 @@ topics:
 - corporate expansion
 - engineering
 - war
-summary: The Reorte Pro-Alliance League's victory ensures Reorte remains within the Alliance.
-player_impact: Pilots who supported the Reorte Pro-Alliance League secured the system's continued Alliance membership.
-modern_impact: "\"The Reorte Pro-Alliance League's success over the Reorte Mining Coalition means the system will stay in the Alliance.\" Reorte's decision to remain Allied validates the Alliance's intervention but leaves the Sirius pact controversy unresolved."
+arc_id: null
+modern_impact: '"The Reorte Pro-Alliance League''s success over the Reorte Mining Coalition means the system will stay in the Alliance." Reorte''s decision to remain Allied validates the Alliance''s intervention but leaves the Sirius pact controversy unresolved.'
 legacy_weight: 5
 significance: high
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Reorte Pro-Alliance League’s success over The Reorte Mining Coalition means the system will stay in the Alliance.
 A greater quantity of advanced medicines, skimmer components and building fabricators were delivered to the Trobairitz megaship than to the opposing faction. As a result, Reorte will remain an Allied system.
 Pilots who contributed to the Reorte Pro-Alliance League’s initiative can now collect their rewards at the Trobairitz, along With the additional pre-engineered heat sink modules provided by Sirius Corporation.

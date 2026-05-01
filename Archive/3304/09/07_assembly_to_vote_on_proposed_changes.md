@@ -27,9 +27,6 @@ related_uuids:
 - a950b069-65d4-569a-b55c-6ce84123e10e
 ---
 
-Assembly to Vote on Proposed Changes
-
-
 The Alliance Assembly has agreed to hold an internal vote on President Gibson Kincaid’s proposed changes to the constitution. 
 
 Kincaid has lobbied for the role of president to be invested With executive powers, and for Each presidential term to last six years. 

@@ -25,9 +25,6 @@ legacy_weight: 5
 significance: high
 ---
 
-The ACS Overwatch
-
-
 The Atlas Corporation has launched a campaign to build a megaship in the Lambda Arae system. 
 
 The Vessel, Which will be named the ACS Overwatch, will fulfil a multi-faceted role in the ongoing fight against the Thargoids. 

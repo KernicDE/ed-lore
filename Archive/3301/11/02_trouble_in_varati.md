@@ -15,17 +15,14 @@ locations:
 - Varati
 - Warkushanui
 - Weyn Dock
-technologies: []
 topics:
 - construction
 - war
+technologies: []
 modern_impact: Early evidence of the spreading station malfunction phenomenon later linked to Unknown Artefact proximity.
 legacy_weight: 2
 significance: low
 ---
-
-Trouble in Varati
-
 
 Following reports of technical problems in The 64 Arietis and Warkushanui systems, news of similar problems at Bond Hub in the Varati system are beginning to emerge. Stana Chapple, an engineer at Bond Hub, confirmed that the starport was experiencing technical difficulties: 
 

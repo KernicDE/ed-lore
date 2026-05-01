@@ -12,17 +12,14 @@ groups:
 locations:
 - Aeternitas
 - Houtman City
-technologies: []
 topics:
 - crime
 - trade
+technologies: []
 modern_impact: Security campaign restoring order in the Aeternitas system through pilot-supported bounty hunting.
 legacy_weight: 2
 significance: low
 ---
-
-Restoring Order in Aeternitas
-
 
 Authorities in The Aeternitas system have reported a sharp increase in The number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 

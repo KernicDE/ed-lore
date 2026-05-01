@@ -4,19 +4,19 @@ title: October Consortium Defends Control of HIP 87621
 slug: october_consortium_defends_control_of_hip_87621
 date: '3311-10-09'
 source: API
+summary: Lexi October defended October Consortium's legal ownership of HIP 87621, acquired over a decade ago, and questioned why Zachary Rackham has not shared any promised scan data from his exploration campaign.
+player_impact: Pilots had participated in Rackham's galaxy-wide exploration campaign and the search for Terri Tora, gathering data that intensified scrutiny on October Consortium's HIP 87621 operations.
+persons:
+- Lexi October
+- Zachary Rackham
 groups:
 - October Consortium
 topics:
 - research
 - diplomacy
-arc_id: hip87621-conflict
-persons:
-- Lexi October
-- Zachary Rackham
 technologies: []
-player_impact: "Pilots had participated in Rackham's galaxy-wide exploration campaign and the search for Terri Tora, gathering data that intensified scrutiny on October Consortium's HIP 87621 operations."
-summary: "Lexi October defended October Consortium's legal ownership of HIP 87621, acquired over a decade ago, and questioned why Zachary Rackham has not shared any promised scan data from his exploration campaign."
-modern_impact: "Lexi October's counter-attack on Rackham's credibility — highlighting his failure to share a 'single piece of scan data' — is a sophisticated deflection that partially succeeds in shifting scrutiny. Her framing of the conflict as 'lawful operations' versus 'attempts to undermine' establishes the legal narrative she uses in the October Accords. The 'unspecified date' for findings release never arrives before the war breaks out."
+arc_id: hip87621-conflict
+modern_impact: Lexi October's counter-attack on Rackham's credibility — highlighting his failure to share a 'single piece of scan data' — is a sophisticated deflection that partially succeeds in shifting scrutiny. Her framing of the conflict as 'lawful operations' versus 'attempts to undermine' establishes the legal narrative she uses in the October Accords. The 'unspecified date' for findings release never arrives before the war breaks out.
 legacy_weight: 4
 significance: high
 related_uuids:

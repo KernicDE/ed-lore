@@ -11,19 +11,16 @@ groups:
 - Canonn Interstellar Research Group
 locations:
 - Varati
-technologies:
-- Gnosis
 topics:
 - construction
 - research
 - ship
+technologies:
+- Gnosis
 modern_impact: Maiden voyage of the Gnosis establishes Canonn's permanent deep-space research platform in the Varati system.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: The Gnosis Takes Flight
-
 
 Over the past few days, news feeds in the Varati system have provided extensive coverage of the maiden voyage of the Gnosis, a scientific-research Vessel commissioned by the Canonn Interstellar Research Group. 
 

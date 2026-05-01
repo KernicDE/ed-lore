@@ -18,14 +18,10 @@ topics:
 - ship
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Concern over New Ship Modules
-
 
 Recent reports indicate that some members of The galactic community are concerned about the development of Unknown Artefact-resistant ship modules. Critics of the new technology, developed by Professor Lea Tantaga, have claimed it will facilitate Further black-market trade of Unknown Artefacts, thus exacerbating the so-called technological plague. 
 

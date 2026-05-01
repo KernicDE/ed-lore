@@ -13,22 +13,18 @@ groups:
 locations:
 - Wyrd
 - Vonarburg Co-operative
-technologies:
-- anti-Thargoid technologies
 topics:
 - alien contact
 - engineering
 - research
 - war
+technologies:
+- anti-Thargoid technologies
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Third Aegis Campaign Concludes
-
 
 Aegis has announced that The third phase of Its campaign has received the enthusiastic support of the galactic community. Huge quantities of material were delivered to Vonarburg Co-operative over the past week, Which will be used to develop new anti-Thargoid technologies. 
 

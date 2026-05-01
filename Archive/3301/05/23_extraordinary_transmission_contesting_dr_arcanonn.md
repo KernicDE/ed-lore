@@ -4,8 +4,6 @@ title: Extraordinary Transmission Contesting Dr Arcanonn
 slug: extraordinary_transmission_contesting_dr_arcanonn
 date: '3301-05-23'
 source: GitHub
-entities:
-- Arcanonn
 groups:
 - Canonn
 locations:
@@ -13,13 +11,12 @@ locations:
 topics:
 - research
 - terrorism
+entities:
+- Arcanonn
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Extraordinary Transmission Contesting Dr Arcanonn
-
 
 After recent terrorist activities in 78 Ursae Majoris, GalNet received multiple reports about a single transmission regarding Dr Arcanonn, that has been broadcast via various radio stations throughout known inhabited space simultaneously without their approval. 
 

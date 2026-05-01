@@ -4,6 +4,8 @@ title: 'Salvation Recruits Naval Crews '
 slug: salvation_recruits_naval_crews
 date: '3307-12-17'
 source: API
+summary: Commodore Morag Halloran reveals that hundreds of naval officers from all three superpowers and Sirius have resigned to join Salvation's anti-xeno crusade.
+player_impact: Not specifically mentioned — this is a media statement.
 persons:
 - Morag Halloran
 - Glynn
@@ -26,11 +28,7 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-summary: Commodore Morag Halloran reveals that hundreds of naval officers from all
-  three superpowers and Sirius have resigned to join Salvation's anti-xeno crusade.
-player_impact: Not specifically mentioned — this is a media statement.
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
 related_uuids:

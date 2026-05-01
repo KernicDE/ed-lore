@@ -4,20 +4,20 @@ title: Alliance Urges Restraint Between Superpowers
 slug: alliance_urges_restraint_between_superpowers
 date: '3309-04-18'
 source: API
-entities: []
+summary: The Alliance and independent systems call for de-escalation between the Empire and Federation after the Tavgi and Pichch conflicts, with Mahon sending diplomatic envoys.
+player_impact: Not specifically mentioned — this is a diplomatic report.
+persons:
+- Edmund Mahon
+- Nakato Kaine
+- Conrad Sterling
 groups:
 - Alliance
 locations: []
 topics:
 - diplomacy
+entities: []
 arc_id: null
-modern_impact: "Sterling's summary — 'their clash has led to bullish rhetoric from members of both Congress and the Senate' — captures the political climate. Kaine's practical concern — 'Military distractions between the Empire and Federation would place more responsibility on the Alliance for protecting independent systems from Thargoid invasion' — is self-interested but valid. The 'dozens of independent systems' supporting the Alliance's request shows broad concern."
-persons:
-- Edmund Mahon
-- Nakato Kaine
-- Conrad Sterling
-player_impact: "Not specifically mentioned — this is a diplomatic report."
-summary: "The Alliance and independent systems call for de-escalation between the Empire and Federation after the Tavgi and Pichch conflicts, with Mahon sending diplomatic envoys."
+modern_impact: Sterling's summary — 'their clash has led to bullish rhetoric from members of both Congress and the Senate' — captures the political climate. Kaine's practical concern — 'Military distractions between the Empire and Federation would place more responsibility on the Alliance for protecting independent systems from Thargoid invasion' — is self-interested but valid. The 'dozens of independent systems' supporting the Alliance's request shows broad concern.
 legacy_weight: 5
 significance: high
 related_uuids:

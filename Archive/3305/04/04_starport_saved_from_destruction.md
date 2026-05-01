@@ -4,6 +4,8 @@ title: Starport Saved from Destruction
 slug: starport_saved_from_destruction
 date: '3305-04-04'
 source: GitHub
+summary: The Children of Tothos cult is thwarted in its attempt to detonate a nuclear weapon at Archambault Terminal when FIA Senior Agent Rochelle Karim — posing as a cultist — shoots leader Barnabas Cole dead.
+player_impact: None — background crime report.
 persons:
 - Ethan Takahashi
 - Barnabas Cole
@@ -17,17 +19,12 @@ locations:
 topics:
 - crime
 - terrorism
-summary: The Children of Tothos cult is thwarted in its attempt to detonate a nuclear weapon at Archambault Terminal when FIA Senior Agent Rochelle Karim — posing as a cultist — shoots leader Barnabas Cole dead.
-player_impact: None — background crime report.
 modern_impact: The FIA's infiltration of the Children of Tothos demonstrated both the lethal threat posed by apocalyptic cults and the effectiveness of deep-cover operations in preventing mass-casualty terrorism.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 98251890-4aac-5242-a2e6-52d3de676ce3
 ---
-
-Starport Saved from Destruction
-
 
 The Children of Tothos cult has been prevented from detonating a nuclear weapon intended to destroy Archambault Terminal. 
 

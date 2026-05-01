@@ -13,19 +13,16 @@ groups:
 locations:
 - Sitakapa
 - Russell Hub
-technologies: []
 topics:
 - terrorism
 - trade
 - war
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: Sitakapa's military settlement conversion reflects growing frontier-world militarization amid galactic instability.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: The Gear of War
-
 
 The Sitakapan Expeditionary Forces have announced plans to fortify their home system of Sitakapa by converting a mining outpost into a military settlement. The move is a response to increasing political and military instability across the galaxy. 
 

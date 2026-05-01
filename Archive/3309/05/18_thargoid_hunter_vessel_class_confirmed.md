@@ -4,6 +4,11 @@ title: Thargoid ‘Hunter’ Vessel Class Confirmed
 slug: thargoid_hunter_vessel_class_confirmed
 date: '3309-05-18'
 source: API
+summary: Aegis confirms the 'Glaive' class hunter vessel, initially encountered near Titans, is now interdicting ships in Thargoid-controlled systems and can disable Guardian-based weaponry.
+player_impact: Pilots encountering Glaive-class hunters should be prepared for aggressive attacks and Guardian weapon disablement.
+persons:
+- Emil Varga
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -14,12 +19,7 @@ topics:
 - exploration
 - research
 arc_id: thargoid-titan-war
-modern_impact: "Varga's theory — 'our newfound ability to penetrate the Maelstroms caught the Thargoids by surprise. In response, they have redeployed the mothership's defenders to a more offensive role' — is insightful. His observation that 'Such rapid tactical adaptation is not typical of this species' suggests concern. Tanner's tactical details — 'high-intensity energy weapons take the form of lightning bolts... this vessel is faster and more manoeuvrable' — are essential for pilots."
-persons:
-- Emil Varga
-- Aden Tanner
-player_impact: "Pilots encountering Glaive-class hunters should be prepared for aggressive attacks and Guardian weapon disablement."
-summary: "Aegis confirms the 'Glaive' class hunter vessel, initially encountered near Titans, is now interdicting ships in Thargoid-controlled systems and can disable Guardian-based weaponry."
+modern_impact: Varga's theory — 'our newfound ability to penetrate the Maelstroms caught the Thargoids by surprise. In response, they have redeployed the mothership's defenders to a more offensive role' — is insightful. His observation that 'Such rapid tactical adaptation is not typical of this species' suggests concern. Tanner's tactical details — 'high-intensity energy weapons take the form of lightning bolts... this vessel is faster and more manoeuvrable' — are essential for pilots.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -28,7 +28,7 @@ related_uuids:
 - f9fecf41-099b-5d1f-93f0-d6f472997ac9
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A new type of Thargoid vessel, first encountered within the Maelstroms, is interdicting ships in Thargoid controlled systems.
 Aegis highlighted the threat as part of its research into the Thargoid capital ships. Commodore Emil Varga, the Allied military liaison, gave this statement:
 “The first explorers to breach the Maelstroms’ inner regions encountered a previously unseen Thargoid vessel, larger than a scout but smaller than an interceptor. These medium-sized craft have been categorised as hunters, with this specific class designated the ‘Glaive’ due to its blade-like protrusions.”

@@ -23,9 +23,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Diamond Frogs Bring Hope to LFT 37
-
-
 An initiative by The Paladin Consortium to deliver water purifiers to recently liberated imperial slaves in LFT 37 has been declared a rousing success, due in part to the actions of the Diamond Frogs private security firm. 
 
 Diamond Frog pilots were hired by the Paladin Consortium to Run interference within the system, preventing opportunistic raiders from picking off the cargo vessels making deliveries to Onnes Gateway. 

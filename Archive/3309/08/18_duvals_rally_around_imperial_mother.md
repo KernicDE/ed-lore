@@ -4,7 +4,14 @@ title: Duvals Rally Around Imperial Mother
 slug: duvals_rally_around_imperial_mother
 date: '3309-08-18'
 source: API
-entities: []
+summary: Lady Florence Lavigny's recovery prompts calls for Imperial Family unity, with speculation that she could heal rifts between Arissa, Aisling, and Hadrian Duval.
+player_impact: Not specifically mentioned — this is a family and political report.
+persons:
+- Arissa Lavigny-Duval
+- Florence Lavigny
+- Guinevere Lavigny
+- Lucius Lavigny
+- Gudrun Vestergaard
 groups:
 - Imperial Herald
 locations:
@@ -14,16 +21,9 @@ topics:
 - succession
 - politics
 - culture
+entities: []
 arc_id: null
-modern_impact: "Vestergaard's speculation — 'Florence Lavigny has earned the respect of everyone connected to the Imperial Family over the past decade. She alone could heal the rifts between Emperor Arissa, Princess Aisling and Hadrian Duval' — positions Florence as a unifying figure. The observation that 'the details of Lady Lavigny's illness were never made public' and the question 'Are her calls for unity prompted by thoughts of mortality?' adds poignancy."
-persons:
-- Arissa Lavigny-Duval
-- Florence Lavigny
-- Guinevere Lavigny
-- Lucius Lavigny
-- Gudrun Vestergaard
-player_impact: "Not specifically mentioned — this is a family and political report."
-summary: "Lady Florence Lavigny's recovery prompts calls for Imperial Family unity, with speculation that she could heal rifts between Arissa, Aisling, and Hadrian Duval."
+modern_impact: Vestergaard's speculation — 'Florence Lavigny has earned the respect of everyone connected to the Imperial Family over the past decade. She alone could heal the rifts between Emperor Arissa, Princess Aisling and Hadrian Duval' — positions Florence as a unifying figure. The observation that 'the details of Lady Lavigny's illness were never made public' and the question 'Are her calls for unity prompted by thoughts of mortality?' adds poignancy.
 legacy_weight: 4
 significance: high
 related_uuids:

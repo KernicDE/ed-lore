@@ -4,6 +4,8 @@ title: The Birth of an Empire
 slug: the_birth_of_an_empire
 date: '3301-07-12'
 source: GitHub
+summary: Historian Sima Kalhana covers the Empire's founding. Marlin Duval led an expedition from Earth to Achenar in the mid-23rd century, seeking escape from rigid governments. The habitable world Capitol was already home to one of the few known sentient species, which settlers inadvertently made extinct through imported bacteria. Under Marlin, Achenar had democratic rule with elected Senators. After her death in a speeder crash, brother Henson Duval seized power and established imperial succession. In 2324, Federal forces invaded citing the alien extinction, but Achenar resisted, resulting in the birth of the Empire as humanity's second great power.
+player_impact: None
 persons:
 - Sima Kalhana
 - Marlin Duval
@@ -18,18 +20,11 @@ topics:
 - history
 - succession
 - war
-summary: Historian Sima Kalhana covers the Empire's founding. Marlin Duval led an expedition from Earth to Achenar in the mid-23rd century, seeking escape from rigid governments. The habitable world Capitol was already home to one of the few known sentient species, which settlers inadvertently made extinct through imported bacteria. Under Marlin, Achenar had democratic rule with elected Senators. After her death in a speeder crash, brother Henson Duval seized power and established imperial succession. In 2324, Federal forces invaded citing the alien extinction, but Achenar resisted, resulting in the birth of the Empire as humanity's second great power.
-player_impact: None
 modern_impact: Foundational history of the Empire explaining its origins in flight from Earth, the controversial extinction of Capitol's native species, and the Duval dynastic succession.
 legacy_weight: 5
 significance: high
 ---
 
-The Birth of an Empire
-
-
-The Birth of an Empire 
- 
 Continuing GalNet’s series about the defining moments in human history, famed historian Sima Kalhana talks about how the Empire came to be. 
 
 - 

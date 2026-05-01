@@ -4,6 +4,8 @@ title: Rescue Megaships Decimated by Thargoid Fleet
 slug: rescue_megaships_decimated_by_thargoid_fleet
 date: '3310-12-06'
 source: API
+summary: Seven of eight rescue megaships deployed near Sol are destroyed by Thargoid forces within minutes of arrival, leaving only Rescue Ship Hutner and Rescue Ship Cornwallis to continue evacuation efforts.
+player_impact: Pilots were involved in evacuation efforts from Sol and surrounding systems. The surviving rescue megaships Hutner and Cornwallis continued orchestrating evacuation for billions of refugees.
 groups:
 - Aegis
 locations:
@@ -17,8 +19,6 @@ topics:
 - alien contact
 - humanitarian
 - war
-arc_id: thargoid-titan-war
-modern_impact: "The precision of the Thargoid attacks — 'distress calls were sounded within minutes of arrival' — suggests the Thargoids were tracking megaship deployments or had intelligence on their arrival coordinates. This raises questions about Thargoid tactical awareness that remain unresolved. The survival of Hutner and Cornwallis becomes critical to the post-war refugee processing."
 technologies:
 - Federal Haven
 - Rescue Ship Bertschinger
@@ -31,8 +31,8 @@ technologies:
 - Rescue Ship Cornwallis
 - Allied Solace
 - Imperial Sanctum
-player_impact: "Pilots were involved in evacuation efforts from Sol and surrounding systems. The surviving rescue megaships Hutner and Cornwallis continued orchestrating evacuation for billions of refugees."
-summary: "Seven of eight rescue megaships deployed near Sol are destroyed by Thargoid forces within minutes of arrival, leaving only Rescue Ship Hutner and Rescue Ship Cornwallis to continue evacuation efforts."
+arc_id: thargoid-titan-war
+modern_impact: The precision of the Thargoid attacks — 'distress calls were sounded within minutes of arrival' — suggests the Thargoids were tracking megaship deployments or had intelligence on their arrival coordinates. This raises questions about Thargoid tactical awareness that remain unresolved. The survival of Hutner and Cornwallis becomes critical to the post-war refugee processing.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -4,7 +4,8 @@ title: Guardian Artefact Initiative Enters Second Phase
 slug: guardian_artefact_initiative_enters_second_phase
 date: '3308-07-12'
 source: API
-arc_id: salvation-azimuth
+summary: Azimuth Biotech extends its Guardian artefact delivery campaign as the Proteus Wave requires increasing quantities of Guardian technology.
+player_impact: Pilots were asked to continue delivering Guardian artefacts to the Bright Sentinel for a second week.
 persons:
 - Morag Halloran
 groups:
@@ -15,18 +16,17 @@ locations:
 topics:
 - alien contact
 - xenoarchaeology
-player_impact: Pilots were asked to continue delivering Guardian artefacts to the Bright Sentinel for a second week.
-summary: Azimuth Biotech extends its Guardian artefact delivery campaign as the Proteus Wave requires increasing quantities of Guardian technology.
-modern_impact: "Halloran's warning that 'passage through the HIP 22460 system has become hazardous' underscored the escalating danger pilots faced while supporting Azimuth's superweapon construction."
+arc_id: salvation-azimuth
+modern_impact: Halloran's warning that 'passage through the HIP 22460 system has become hazardous' underscored the escalating danger pilots faced while supporting Azimuth's superweapon construction.
+legacy_weight: 5
+significance: high
 related_uuids:
 - e8461472-4c75-5456-9164-cf415d0cad55
 - 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
 - bc635a7c-22bf-5a79-b6bb-781f8b67a199
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Azimuth Biotech has repeated its call for Guardian artefacts to be delivered to the HIP 22460 system.
 Military coordinator Commodore Morag Halloran announced the details:
 “Over the last week, many Commanders have scoured Guardian sites to collect artefacts and transport them to HIP 22460. We are grateful for their efforts, and payment is now available at the Bright Sentinel.”

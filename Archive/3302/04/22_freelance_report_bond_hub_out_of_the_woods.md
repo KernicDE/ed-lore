@@ -15,14 +15,10 @@ locations:
 - Varati system
 - Obsidian Orbital
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Bond Hub Out of The Woods
-
 
 Following weeks of tireless meta-alloy harvesting, a team working under the direction of Professor D Luffy at Bond Hub in the Varati system has finally been able to match the success achieved by the teams at Obsidian Orbital. 
 

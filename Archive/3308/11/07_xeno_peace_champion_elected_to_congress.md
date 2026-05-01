@@ -4,7 +4,8 @@ title: Xeno-Peace Champion Elected to Congress
 slug: xeno_peace_champion_elected_to_congress
 date: '3308-11-07'
 source: API
-arc_id: thargoid-titan-war
+summary: Dalton Chase, the former governor of Andavandul 1, has become a Federal congressman following victory in the recent special election.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Dalton Chase
 - Felicia Winters
@@ -13,21 +14,16 @@ groups:
 topics:
 - alien contact
 - diplomacy
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: Dalton Chase, the former governor of Andavandul 1, has become a Federal congressman
-  following victory in the recent special election.
-modern_impact: '"I’m conscious that some view me as unorthodox or contrarian, perhaps
-  even ‘soft on Thargoids’. But I take the securit..." The failure of civilian-led
-  diplomacy underscores the dangers of underestimating Thargoid hostility.'
+arc_id: thargoid-titan-war
+modern_impact: '"I’m conscious that some view me as unorthodox or contrarian, perhaps even ‘soft on Thargoids’. But I take the securit..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - 6c3c6815-8e50-5e81-86ac-0bc5df0a8359
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
-legacy_weight: 5
-significance: high
 ---
 
 Dalton Chase, the former governor of Andavandul 1, has become a Federal congressman following victory in the recent special election.

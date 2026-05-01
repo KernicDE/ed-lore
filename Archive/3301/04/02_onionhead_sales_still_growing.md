@@ -11,14 +11,10 @@ locations:
 topics:
 - narcotics
 arc_id: onionhead-conflict
-modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
-  and local agricultural economies.
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition and local agricultural economies.
 legacy_weight: 3
 significance: medium
 ---
-
-Onionhead Sales Still Growing
-
 
 The Federal ban may have been enough to scare The Tanmark Defence Force into purging Lucan Onionhead plantations from their world, but Panem Continues to stand defiant. 
 

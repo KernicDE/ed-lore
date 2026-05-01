@@ -26,9 +26,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Galactic Leaders Trade Blows
-
-
 The leaders of the galaxy's three superpowers have released Further statements concerning reports of mysterious spacecraft. 
 
 Emperor Arissa-Lavigny Duval, responding to the recent statement from Federal President Zachary Hudson, said: 

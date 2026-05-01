@@ -21,18 +21,15 @@ locations:
 - Prism
 - Cemiess
 - Achenar
-technologies: []
 topics:
 - crime
 - succession
+technologies: []
 arc_id: imperial-succession
 modern_impact: The arrest and trial of Kahina Loren deepens the Imperial succession crisis and exposes the intersection of parliamentary politics with underground revolutionary networks.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Kahina Loren Implicated in Patreus Assassination Attempt
-
 
 Sources close to The Imperial Senate have released a statement indicating that Lady Kahina Tijani Loren, erstwhile senator of the Prism system, has been charged in connection With the attempted assassination of Admiral Denton Patreus. 
 

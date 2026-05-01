@@ -18,17 +18,14 @@ groups:
 locations:
 - Daramo
 - Vaka
-technologies: []
 topics:
 - piracy
 - war
+technologies: []
 modern_impact: Anti-piracy operation protecting trade routes.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: The Battle of Daramo
-
 
 The Daramo system is currently under Federal control, but recent reports indicate that both Imperial and Independent forces – the latter under the rule of Pirate King Archon Delaine – are attempting to wrest power from the Federation. 
 

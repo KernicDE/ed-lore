@@ -4,19 +4,16 @@ title: The Fastest Pilot in the Galaxy
 slug: the_fastest_pilot_in_the_galaxy
 date: '3301-02-19'
 source: GitHub
-entities:
-- Drakhyr
-- Samwell Drakhyr
 topics:
 - ship
 - sport
+entities:
+- Drakhyr
+- Samwell Drakhyr
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-The Fastest Pilot in The Galaxy
-
 
 This is Casey Murrow and today I'm talking exclusively With Commander Samwell Drakhyr, winner of This year’s big race, the St. Valentine Day Regatta. So just how did you manage to win it all Sam? 
 

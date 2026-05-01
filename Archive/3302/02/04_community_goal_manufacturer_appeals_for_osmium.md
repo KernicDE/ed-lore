@@ -20,9 +20,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Manufacturer Appeals for Osmium
-
-
 The LHS 2936 Alliance Combine, a manufacturing concern based in the LHS 2936 system, has issued a galaxy-wide request for osmium. According to a company spokesperson, the rare metal will be used to create specialist alloys With Which to improve the organisation's manufacturing facilities. The organisation has promised to reward contributors with discounts at the Fraser Orbital shipyard in addition to liberal financial reimbursements. 
 
 The company's spokesperson gave a statement to the media: 

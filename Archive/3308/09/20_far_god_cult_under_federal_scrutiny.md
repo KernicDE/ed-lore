@@ -4,6 +4,8 @@ title: Far God Cult Under Federal Scrutiny
 slug: far_god_cult_under_federal_scrutiny
 date: '3308-09-20'
 source: API
+summary: The Order of the Far God faces Federal investigation and public backlash after HIP 22460, driving thousands of worshippers to abandon orthodox hive-chapels and join the more militant True Chapters sect.
+player_impact: Not specifically mentioned — this is a journalistic report.
 persons:
 - Alexei Keel
 - Lana Berkovich
@@ -23,13 +25,7 @@ topics:
 - investigation
 - war
 arc_id: thargoid-contact
-summary: The Order of the Far God faces Federal investigation and public backlash after
-  HIP 22460, driving thousands of worshippers to abandon orthodox hive-chapels and join
-  the more militant True Chapters sect.
-player_impact: Not specifically mentioned — this is a journalistic report.
-modern_impact: The Federal scrutiny of the Far God cult and the radicalisation of its
-  followers into the True Chapters foreshadows a potential shift from pacifistic worship
-  to armed resistance.
+modern_impact: The Federal scrutiny of the Far God cult and the radicalisation of its followers into the True Chapters foreshadows a potential shift from pacifistic worship to armed resistance.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -4,6 +4,8 @@ title: Pilots' Federation Establishes Regulated Zone
 slug: pilots_federation_establishes_regulated_zone
 date: '3305-04-20'
 source: GitHub
+summary: The Pilots Federation establishes a restricted district for newly licensed Commanders, offering combat exercises and tailored assignments in designated systems before they enter the wider galaxy.
+player_impact: New Commanders received a permit-gated training area with controlled assignments, reducing exposure to criminals during their early careers.
 persons:
 - Gabriel Sanchos
 groups:
@@ -15,15 +17,10 @@ topics:
 - exploration
 - trade
 - crime
-summary: The Pilots Federation establishes a restricted district for newly licensed Commanders, offering combat exercises and tailored assignments in designated systems before they enter the wider galaxy.
-player_impact: New Commanders received a permit-gated training area with controlled assignments, reducing exposure to criminals during their early careers.
 modern_impact: The Pilots Federation District became a permanent feature of pilot training, formalising the organisation's role as gatekeeper to independent commandership and winning superpower approval for its economic and military contributions.
 legacy_weight: 3
 significance: medium
 ---
-
-Pilots' Federation Establishes Regulated Zone
-
 
 The Pilots' Federation has revealed plans to establish a restricted area of space for newly licensed Commanders.  
 

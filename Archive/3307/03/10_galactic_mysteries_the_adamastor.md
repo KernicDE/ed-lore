@@ -1,10 +1,11 @@
 ---
 uuid: 9243011a-ed83-592c-9dcd-6cefc68679cf
-title: "Galactic Mysteries: The Adamastor"
+title: 'Galactic Mysteries: The Adamastor'
 slug: galactic_mysteries_the_adamastor
 date: 3307-03-10
 source: API
-arc_id: null
+summary: Erik Gunnarson and Francesca Wolfe, two detectives from The Wallglass Investigations Agency, examine the background of the Adamastor megaship.
+player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Carver
 - Chukchan
@@ -15,7 +16,7 @@ persons:
 - Which
 - With
 groups:
-  - Alliance
+- Alliance
 locations:
 - Chukchan
 - Musca Dark Region PJ-P b6-1 is a busy
@@ -25,9 +26,10 @@ topics:
 - investigation
 - research
 - war
-player_impact: Pilots followed these developments through GalNet reports.
-summary: Erik Gunnarson and Francesca Wolfe, two detectives from The Wallglass Investigations Agency, examine the background of the Adamastor megaship.
-modern_impact: "\"We don't know what they were searching for, but what they found was possibly the first recorded Thargoid encounter.\" The Adamastor mystery opened new questions about Azimuth Biochemicals' early xenological research and its connection to modern Thargoid encounters."
+arc_id: null
+modern_impact: '"We don''t know what they were searching for, but what they found was possibly the first recorded Thargoid encounter." The Adamastor mystery opened new questions about Azimuth Biochemicals'' early xenological research and its connection to modern Thargoid encounters.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 - aa81f947-721e-52c8-a91e-906bf41c62b8
@@ -35,8 +37,6 @@ related_uuids:
 - f289a62c-f4fe-5c65-8563-7f318ee935ba
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
-legacy_weight: 4
-significance: high
 ---
 
 Erik Gunnarson and Francesca Wolfe, two detectives from The Wallglass Investigations Agency, examine the background of the Adamastor megaship.

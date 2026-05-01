@@ -29,9 +29,6 @@ related_uuids:
 - 493f0e6e-d257-5536-bc17-df5c97d32d7c
 ---
 
-Computer Firms Promote New Designs
-
-
 Rival technology companies Supratech and Herculean Machines have released press statements promoting new personal-computer designs. 
 
 Scorpio DeVorrow, CEO of Supratech, told The media about his company’s forthcoming product: 

@@ -4,7 +4,8 @@ title: The Adamastor Enigma
 slug: the_adamastor_enigma
 date: '3307-04-19'
 source: API
-arc_id: salvation-azimuth
+summary: Independent pilots report receiving anonymous instructions from a figure calling himself "Salvation," who provides a decryption key for the Adamastor's mysterious signal. The decoded transmission proves to be an automatic SOS from the Adamastor's sister ship, the Hesperus, launching a galaxy-wide search.
+player_impact: Pilots who visited the Adamastor received anonymous contact from "Salvation" providing a decryption key to decode the signal, revealing it as an SOS from the Hesperus.
 persons:
 - Rex Trevelyan
 groups:
@@ -13,25 +14,24 @@ groups:
 locations:
 - Chukchan
 - Chukchan 5 b
-technologies:
-- Adamastor derelict megaship
-- Communications beacon
-- Decryption key
 topics:
 - cyberattack
 - investigation
 - research
-player_impact: Pilots who visited the Adamastor received anonymous contact from "Salvation" providing a decryption key to decode the signal, revealing it as an SOS from the Hesperus.
-summary: Independent pilots report receiving anonymous instructions from a figure calling himself "Salvation," who provides a decryption key for the Adamastor's mysterious signal. The decoded transmission proves to be an automatic SOS from the Adamastor's sister ship, the Hesperus, launching a galaxy-wide search.
+technologies:
+- Adamastor derelict megaship
+- Communications beacon
+- Decryption key
+arc_id: salvation-azimuth
 modern_impact: This article marks the public emergence of "Salvation," the shadowy manipulator who would become a central figure in the Thargoid conflict, eventually revealing himself as a proxy for Azimuth Biotech's resurgence.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 2c8fcc05-f40b-5f58-89f3-c2a46b86faf0
 - 29d5b1ad-189d-542d-b21b-ab8e21422a28
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Commanders have reported receiving anonymous instructions regarding The 200 year old derelict megaship orbiting Chukchan 5 b.
 A communications beacon stored onboard the Adamastor began receiving and rebroadcasting an encrypted signal on the 8th of April. Efforts by authorities to trace and decipher the signal proved unsuccessful.
 However, a number of Independent pilots claim to have been contacted by an anonymous source, who provided an access key to decode the Adamastor signal.

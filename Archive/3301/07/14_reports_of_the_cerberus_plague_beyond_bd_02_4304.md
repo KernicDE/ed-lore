@@ -4,6 +4,8 @@ title: Reports of the Cerberus Plague beyond BD-02 4304
 slug: reports_of_the_cerberus_plague_beyond_bd_02_4304
 date: '3301-07-14'
 source: GitHub
+summary: Chief Medical Officer Carl Simmons confirmed isolated Cerberus Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed to be travellers from BD-02 4304 before restrictions were imposed. Three containment operations have been initiated. Simmons called on independent pilots to help prevent full outbreaks. A technician confirmed the name 'Cerberus Plague' comes from the organism's unusual three-pronged structure.
+player_impact: Independent pilots are needed to help contain Cerberus Plague outbreaks in Dajoar, Eleu, and 20 Ophiuchi before they spread further.
 persons:
 - Carl Simmons
 groups:
@@ -18,18 +20,11 @@ topics:
 - medicine
 - plague
 arc_id: cerberus-plague
-summary: Chief Medical Officer Carl Simmons confirmed isolated Cerberus Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed to be travellers from BD-02 4304 before restrictions were imposed. Three containment operations have been initiated. Simmons called on independent pilots to help prevent full outbreaks. A technician confirmed the name 'Cerberus Plague' comes from the organism's unusual three-pronged structure.
-player_impact: Independent pilots are needed to help contain Cerberus Plague outbreaks in Dajoar, Eleu, and 20 Ophiuchi before they spread further.
 modern_impact: Cerberus Plague spread beyond BD-02 4304 confirms the disease is not contained, requiring coordinated inter-system response.
 legacy_weight: 4
 significance: high
 ---
 
-Reports of The Cerberus Plague beyond BD-02 4304
-
-
-Reports of The Cerberus Plague beyond BD-02 4304 
- 
 The heroic efforts of the local authorities at Newton Dock in BD-02 4304, combined With Independent pilots from Far and wide, have slowed the outbreak affecting the local population.  
 
 Carl Simmons, the Chief Medical Officer of Newton Dock, responded to reports of Further infections in the Nearby systems: Dajoar, Eleu and 20 Ophiuchi. 

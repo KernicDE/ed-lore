@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Conspiracy Theorist's Appeal Ends
-
-
 Kruger 60 Free has announced that The galactic community has responded With surprising enthusiasm to the recent appeal from conspiracy theorist Ricardo Bentonio. Hundreds of pilots chose to support Bentonio's campaign, bringing him cartographic data so he could prove that the 29th of February 3302 was an 'aberrant day' heralding the imminent collapse of the universe. 
 
 Although no indications of universal catastrophe have been reported, Bentonio still appears to believe that the irregular day is a harbinger of humanity's impending doom: 

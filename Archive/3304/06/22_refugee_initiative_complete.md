@@ -23,8 +23,6 @@ related_uuids:
 - 56c88c16-33ab-537f-90cc-8a20a25aeb54
 - bb14dd59-b241-5db1-8759-dff2555f5ee3
 ---
-Refugee Initiative Complete
-
 
 Senator Caspian Leopold has announced that his appeal for commodities, in association With Niflhel Corp, has been enthusiastically received by The galactic community. Hundreds of pilots supported the initiative by delivering commodities to Biruni Port, and by protecting traders in the Niflhel system. 
 

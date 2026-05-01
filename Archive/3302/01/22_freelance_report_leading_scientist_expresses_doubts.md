@@ -4,6 +4,8 @@ title: Freelance Report  Leading Scientist Expresses Doubts
 slug: freelance_report_leading_scientist_expresses_doubts
 date: '3302-01-22'
 source: GitHub
+summary: Professor Violet Belbin of the Xenological Research Institute expressed doubts about Professor Ishmael Palin's meta-alloy research, cautioning that the barnacles could be a form of alien life and that harvesting them might have unforeseen consequences. The XRI is sending a team to Maia to engage with Palin.
+player_impact: Pilots delivering meta-alloys to Obsidian Orbital should be aware that scientists disagree on the safety and implications of harvesting barnacle materials. The Xenological Research Institute urges caution.
 persons:
 - Ishmael Palin
 - Violet Belbin
@@ -15,21 +17,16 @@ locations:
 - Maia
 - Obsidian Orbital
 - Pleiades Nebula
-technologies:
-- meta-alloys
 topics:
 - alien contact
 - research
+technologies:
+- meta-alloys
 arc_id: barnacle-meta-alloy
-summary: Professor Violet Belbin of the Xenological Research Institute expressed doubts about Professor Ishmael Palin's meta-alloy research, cautioning that the barnacles could be a form of alien life and that harvesting them might have unforeseen consequences. The XRI is sending a team to Maia to engage with Palin.
-player_impact: Pilots delivering meta-alloys to Obsidian Orbital should be aware that scientists disagree on the safety and implications of harvesting barnacle materials. The Xenological Research Institute urges caution.
 modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Leading Scientist Expresses Doubts
-
 
 Yesterday, Professor Ishmael Palin called upon Independent pilots to deliver meta-alloys – produced by The newly discovered 'barnacles' in the Pleiades Nebula – to Obsidian Orbital, suggesting that the material could be the cure for the technological virus spreading through inhabited space. But Professor Violet Belbin of the Xenological Research Institute has expressed doubts: 
 

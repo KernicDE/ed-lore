@@ -25,9 +25,6 @@ related_uuids:
 - 34982e5c-4fd7-5b67-b8c5-d8a11abae5e5
 ---
 
-Starport Repair Initiative Announced
-
-
 Following Thargoid strikes on The fringes of the core systems, a new initiative to restore damaged starports has been announced. 
 
 Chief administrator Carter Armstrong spoke on behalf of Aegis Core, Which is coordinating the campaign: 

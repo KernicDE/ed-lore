@@ -28,9 +28,6 @@ related_uuids:
 - db332136-804c-58df-89f9-2ab0eef65d11
 ---
 
-Recover Escape Pods in Meene
-
-
 Following a skirmish With a group of mercenaries, security forces in The Meene system have launched an operation to capture enemy agents in order to investigate the attack. 
 
 Security Chief Harper Vargas of the Meene Defence Force gave The following statement: 

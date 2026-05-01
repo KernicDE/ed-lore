@@ -25,9 +25,6 @@ related_uuids:
 - a47511e4-11cb-57b4-b384-567a1452d38b
 ---
 
-Rogue Robot Located
-
-
 A mining robot that went out of control on Homeland in The Beta Hydri system has been located and disabled. 
 
 The MacArthur Mining Ltd DG090 machine disappeared after self-activating and tunnelling underground. It remained lost for Several days before being discovered over a hundred kilometres from where it malfunctioned. 

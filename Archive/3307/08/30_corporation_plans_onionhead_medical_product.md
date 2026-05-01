@@ -4,22 +4,20 @@ title: Corporation Plans Onionhead Medical Product
 slug: corporation_plans_onionhead_medical_product
 date: '3307-08-30'
 source: API
+summary: Neomedical Industries announces plans to mass-produce Onionhead gamma strain as a legitimate medicine, following IHO validation of its therapeutic properties.
+player_impact: None
+persons:
+- Olwyn Kendrick
 groups:
 - Alliance
 - Kumo Crew
 - Neomedical Industries
-persons:
-- Olwyn Kendrick
 topics:
 - corporate expansion
 - crime
 - narcotics
 - research
-summary: Neomedical Industries announces plans to mass-produce Onionhead gamma strain
-  as a legitimate medicine, following IHO validation of its therapeutic properties.
-player_impact: None
-modern_impact: The medical applications of onionhead gamma strain remain under clinical
-  study, with pharmaceutical companies competing for market control.
+modern_impact: The medical applications of onionhead gamma strain remain under clinical study, with pharmaceutical companies competing for market control.
 legacy_weight: 2
 significance: low
 ---

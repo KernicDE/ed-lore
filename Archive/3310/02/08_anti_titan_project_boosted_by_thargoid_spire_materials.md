@@ -4,7 +4,12 @@ title: Anti-Titan Project Boosted by Thargoid Spire Materials
 slug: anti_titan_project_boosted_by_thargoid_spire_materials
 date: '3310-02-08'
 source: API
-entities: []
+summary: Aegis confirms Thargoid spire materials have accelerated anti-Titan weapon development, with Tesreau announcing superpower funding redirected to the project and prototypes potentially ready within a week.
+player_impact: Pilots who contributed to delivering spire materials can collect rewards from Austen Town Station in the Arque system.
+persons:
+- Alba Tesreau
+- Ishmael Palin
+- Ram Tah
 groups:
 - Aegis
 locations:
@@ -13,14 +18,9 @@ locations:
 topics:
 - war
 - research
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's acknowledgment — 'obtaining these substances from the Thargoid spire sites has doubtless cost lives' — is a rare admission of the human cost behind scientific progress. The revelation that 'The Alliance, Empire and Federation have all agreed to redirect the majority of Aegis funding to the anti-Titan project' shows unprecedented superpower unity. The promise to 'go public in as little as a week' creates a timeline that builds anticipation."
-persons:
-- Alba Tesreau
-- Ishmael Palin
-- Ram Tah
-player_impact: "Pilots who contributed to delivering spire materials can collect rewards from Austen Town Station in the Arque system."
-summary: "Aegis confirms Thargoid spire materials have accelerated anti-Titan weapon development, with Tesreau announcing superpower funding redirected to the project and prototypes potentially ready within a week."
+modern_impact: Tesreau's acknowledgment — 'obtaining these substances from the Thargoid spire sites has doubtless cost lives' — is a rare admission of the human cost behind scientific progress. The revelation that 'The Alliance, Empire and Federation have all agreed to redirect the majority of Aegis funding to the anti-Titan project' shows unprecedented superpower unity. The promise to 'go public in as little as a week' creates a timeline that builds anticipation.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -28,7 +28,7 @@ related_uuids:
 - 1d16de43-7abf-5dee-bbee-3f23768c50f9
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Chemicals harvested from Thargoid spire sites have accelerated Aegis’s development of a weapon to destroy the Titans.
 Professor Ishmael Palin requested samples of coral sap, impure spire minerals and semi-refined spire minerals, which were delivered to the Arque system. These will be used to produce an armoured layer to protect the weapon against the Maelstroms’ anti-Guardian zones.
 Professor Alba Tesreau, head of Aegis, explained more at a press conference:

@@ -4,10 +4,10 @@ title: Far God Cult Condemns Salvation
 slug: far_god_cult_condemns_salvation
 date: '3308-07-04'
 source: API
-arc_id: salvation-azimuth
+summary: The Far God cult denounces Salvation's Proteus Wave as blasphemous deicide against their alien deity.
+player_impact: No direct pilot action requested; article reports on religious opposition to Azimuth's plans.
 persons:
 - Alfred Ulyanov
-entities: []
 groups:
 - Azimuth
 - Salvation
@@ -15,14 +15,14 @@ locations:
 - HIP 22460
 topics:
 - alien contact
-player_impact: No direct pilot action requested; article reports on religious opposition to Azimuth's plans.
-summary: The Far God cult denounces Salvation's Proteus Wave as blasphemous deicide against their alien deity.
-modern_impact: "Dr Alfred Ulyanov noted that it was 'extremely unusual for Far God believers to make any kind of announcement,' revealing how Salvation's genocidal ambition even provoked a normally passive doomsday cult into political activism."
+entities: []
+arc_id: salvation-azimuth
+modern_impact: Dr Alfred Ulyanov noted that it was 'extremely unusual for Far God believers to make any kind of announcement,' revealing how Salvation's genocidal ambition even provoked a normally passive doomsday cult into political activism.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 1c3d154f-c7fd-533d-b700-1ce942b570c2
 - 7aaf4cac-767f-5e4b-b085-e5bc94a6c913
-legacy_weight: 5
-significance: high
 ---
 
 Azimuth Biotech’s operation in the HIP 22460 system has been publicly denounced by the Thargoid-worshipping fringe religion.

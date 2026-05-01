@@ -24,9 +24,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: Diamond Frogs Reportedly Attacking Traders
-
-
 A Radio Skvortsov commentator recently reported that extremists from The Eravate system were attacking traders running liquor and Other legal narcotics to Skvortsov Orbital. 
 
 The traders, who hail from all sides of the galaxy, were invited to the system by the Diamond Frogs to supply a party celebrating the return of the Distant Worlds Expedition. But recent reports indicate that the Eravate extremists are not the only ones preying on the traders. 

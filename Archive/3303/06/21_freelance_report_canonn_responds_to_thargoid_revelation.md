@@ -12,21 +12,17 @@ groups:
 - Canonn Interstellar Research Group
 locations:
 - Gnosis
-technologies: []
 topics:
 - alien contact
 - research
 - ship
 - treasure hunt
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Canonn Responds to Thargoid Revelation
-
 
 Doctor Arcanonn of The Canonn Interstellar Research Group has issued a statement from the Gnosis concerning the recent discovery that the so-called Unknown Ships are in fact of Thargoid origin. 
 

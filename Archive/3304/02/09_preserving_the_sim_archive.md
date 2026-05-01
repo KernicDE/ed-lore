@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Preserving The Sim-Archive
-
-
 The Utopia movement has announced that the Sim-Archive is to undergo a period of comprehensive maintenance. 
 
 Pranav Antal, leader of Utopia, elaborated on the nature of the project: 

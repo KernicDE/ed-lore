@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Morrina Aid Campaign Reaches Conclusion
-
-
 The Spinward Marches Alliance Concern has announced that Its campaign to bring relief to The people of the Morrina system has been enthusiastically received by the galactic community, resulting In a deluge of deliveries to Beaumont Dock. The medicines, water purifiers and power generators delivered to the station will now be distributed to those affected by the system's recent conflicts. 
 
 Following the success of the campaign, a spokesperson for Spinward Marches Alliance Concern released a brief statement: 

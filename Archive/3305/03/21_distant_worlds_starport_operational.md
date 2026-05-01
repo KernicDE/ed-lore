@@ -4,6 +4,8 @@ title: Distant Worlds Starport Operational
 slug: distant_worlds_starport_operational
 date: '3305-03-21'
 source: GitHub
+summary: Explorer's Anchorage, the first starport in the Galactic Centre, officially opens in the Stuemeae FG-Y d7561 system as part of the Distant Worlds II expedition, serving as both safe haven and scientific research installation.
+player_impact: Pilots who contributed to the construction could collect rewards from Explorer's Anchorage.
 persons:
 - Magnolia Gill
 groups:
@@ -17,8 +19,6 @@ topics:
 - construction
 - exploration
 - research
-summary: Explorer's Anchorage, the first starport in the Galactic Centre, officially opens in the Stuemeae FG-Y d7561 system as part of the Distant Worlds II expedition, serving as both safe haven and scientific research installation.
-player_impact: Pilots who contributed to the construction could collect rewards from Explorer's Anchorage.
 modern_impact: Explorer's Anchorage became a permanent monument to human exploration, enabling sustained scientific observation of Sagittarius A* and providing critical infrastructure for future expeditions to the galactic core.
 legacy_weight: 4
 significance: high
@@ -26,9 +26,6 @@ related_uuids:
 - a66cd191-14e4-5cfc-9d8b-38d780f58137
 - 2fe7d0b8-beb9-5bd0-9142-90ec74d15b9e
 ---
-
-Distant Worlds Starport Operational
-
 
 The first starport constructed in the Galactic Centre region has officially opened Its doors. 
 

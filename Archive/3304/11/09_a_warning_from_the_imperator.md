@@ -23,9 +23,6 @@ related_uuids:
 - 022febc0-0bac-50a9-ab0b-92002fcb91eb
 ---
 
-A Warning from The Imperator
-
-
 The isolationist group Nova Imperium has broadcast a message to Imperial citizens via public media. 
 
 The organisation’s leader, known only As the Imperator, said: 

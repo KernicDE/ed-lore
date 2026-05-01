@@ -14,9 +14,6 @@ legacy_weight: 2
 significance: low
 ---
 
-President Halsey Refuses Shadow President’s Request
-
-
 The office of President Jasmina Halsey has today issued a statement refusing Shadow President Hudson’s demand to meet him for a live presidential debate on ‘Face The People’. 
 
 James Speakes, the President’s Press Secretary, had This to say on the matter: 

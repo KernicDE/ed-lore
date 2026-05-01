@@ -15,25 +15,21 @@ locations:
 - Beta Hydri
 - Daramo
 - Pleiades Nebula
-technologies:
-- Farragut-class Battlecruiser
-- Majestic-class Interdictor
-- meta-alloys
 topics:
 - alien contact
 - construction
 - ship
 - sport
 - war
+technologies:
+- Farragut-class Battlecruiser
+- Majestic-class Interdictor
+- meta-alloys
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Knives Drawn
-
 
 With the Federal-Imperial relationship currently on unsteady ground, political commentators have been reviewing recent events and offering their analyses of The current situation. 
 

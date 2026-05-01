@@ -4,6 +4,8 @@ title: Salvation and the Superpowers
 slug: salvation_and_the_superpowers
 date: '3308-06-14'
 source: API
+summary: The superpowers respond cautiously to revelations about Salvation's links to Azimuth Biochemicals and INRA, with the Empire prioritising military utility while the Federation investigates and the Alliance continues relying on his superweapons.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Conrad Sterling
 - Denton Patreus
@@ -27,8 +29,6 @@ topics:
 - scandal
 - war
 arc_id: salvation-azimuth
-summary: The superpowers respond cautiously to revelations about Salvation's links to Azimuth Biochemicals and INRA, with the Empire prioritising military utility while the Federation investigates and the Alliance continues relying on his superweapons.
-player_impact: Not specifically mentioned — this is a political report.
 modern_impact: The superpowers' collective refusal to abandon Salvation despite mounting evidence of his INRA past demonstrated how deeply they had committed to Azimuth's anti-xeno strategy, prioritising immediate survival over ethical accountability.
 legacy_weight: 5
 significance: high

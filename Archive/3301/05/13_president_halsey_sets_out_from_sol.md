@@ -4,9 +4,6 @@ title: President Halsey Sets Out from Sol
 slug: president_halsey_sets_out_from_sol
 date: '3301-05-13'
 source: GitHub
-entities:
-- Halsey Sets Out
-- Halsey intends
 locations:
 - 78 Ursae Majoris
 - Federal frontier
@@ -14,13 +11,13 @@ locations:
 - Sol
 topics:
 - war
+entities:
+- Halsey Sets Out
+- Halsey intends
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-President Halsey Sets Out from Sol
-
 
 The crowds were out in force on Mars today, as residents gathered to watch The presidential battlecruiser, Space Flight One, depart on the start of President Halsey’s tour of Federal frontier systems. 
 

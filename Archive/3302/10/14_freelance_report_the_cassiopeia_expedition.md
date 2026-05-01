@@ -6,19 +6,23 @@ date: '3302-10-14'
 source: GitHub
 summary: The Earth Expeditionary Fleet announced a bold expedition beyond the Perseus Arm to locate Cassiopeia A and Tycho's Star, two supernova remnants in the Cassiopeia constellation, passing through the Formidine Rift.
 player_impact: Pilots could join the expedition departing from Chi Orionis in the first week of November 3302.
-persons: [Commander Finn McMillan]
-groups: [Earth Expeditionary Fleet]
-locations: [Chi Orionis, Perseus Arm, Formidine Rift, Cassiopeia]
-technologies: [Frame Shift Drive]
+persons:
+- Commander Finn McMillan
+groups:
+- Earth Expeditionary Fleet
+locations:
+- Chi Orionis
+- Perseus Arm
+- Formidine Rift
+- Cassiopeia
 topics:
 - exploration
+technologies:
+- Frame Shift Drive
 modern_impact: The Cassiopeia Expedition advances deep-space exploration into the Formidine Rift, one of the galaxy's most dangerous regions.
 legacy_weight: 2
 significance: low
 ---
-
-Freelance Report: The Cassiopeia Expedition
-
 
 The Earth Expeditionary Fleet has announced plans to mount a bold expedition beyond the Perseus Arm to find two stellar objects in the Cassiopeia constellation first noted by Earth astronomers in the distant past. 
 

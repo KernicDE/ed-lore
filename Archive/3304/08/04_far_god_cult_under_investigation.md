@@ -27,9 +27,6 @@ related_uuids:
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
-Far God Cult under Investigation
-
-
 The Federal Intelligence Agency has launched an investigation into the Far God cult. Several members of the sect have been arrested for interrogation. 
 
 Senior Agent Micah Whitefield of the FIA released This statement: 

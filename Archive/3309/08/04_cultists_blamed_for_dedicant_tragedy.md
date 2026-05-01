@@ -4,23 +4,23 @@ title: Cultists Blamed for Dedicant Tragedy
 slug: cultists_blamed_for_dedicant_tragedy
 date: '3309-08-04'
 source: API
-entities: []
-groups:
-- Federal Times
-locations: []
-topics:
-- crime
-- investigation
-arc_id: thargoid-titan-war
-modern_impact: "Hudson's framing — 'Hijacking the Dedicant to deliver it to their alien gods is an act of treason and mass murder' — is a political weapon. His order for 'automatic life sentences' is draconian. The three candidates' contrasting responses — Archer's continuation of Hudson's policy, Winters's call for independent review, Rackham's absurd tax proposal — reveal their characters. Ulyanov's expert observation that 'the cultists had no way of communicating with the Thargoids' undermines Hudson's narrative."
+summary: President Hudson blames the Order of the Far God for the Dedicant tragedy, ordering the PDB to crack down, while presidential candidates stake out competing positions on the cult.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Hudson
 - Jerome Archer
 - Felicia Winters
 - Zachary Rackham
 - Alfred Ulyanov
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "President Hudson blames the Order of the Far God for the Dedicant tragedy, ordering the PDB to crack down, while presidential candidates stake out competing positions on the cult."
+groups:
+- Federal Times
+locations: []
+topics:
+- crime
+- investigation
+entities: []
+arc_id: thargoid-titan-war
+modern_impact: Hudson's framing — 'Hijacking the Dedicant to deliver it to their alien gods is an act of treason and mass murder' — is a political weapon. His order for 'automatic life sentences' is draconian. The three candidates' contrasting responses — Archer's continuation of Hudson's policy, Winters's call for independent review, Rackham's absurd tax proposal — reveal their characters. Ulyanov's expert observation that 'the cultists had no way of communicating with the Thargoids' undermines Hudson's narrative.
 legacy_weight: 5
 significance: high
 related_uuids:

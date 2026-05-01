@@ -26,9 +26,6 @@ legacy_weight: 5
 significance: high
 ---
 
-The Liberation of HIP 17692
-
-
 In a move that has come as a Surprise to Many, the Empire and Federation have announced a joint initiative to counter Thargoid activity in the HIP 17692 system. 
 
 The two-pronged operation will seek to reduce the Thargoid presence in the region, and to recover personal effects, data and people from Thargoid attack sites in HIP 17692. 

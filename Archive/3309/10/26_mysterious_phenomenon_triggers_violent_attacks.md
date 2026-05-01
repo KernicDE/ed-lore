@@ -4,7 +4,11 @@ title: Mysterious Phenomenon Triggers Violent Attacks
 slug: mysterious_phenomenon_triggers_violent_attacks
 date: '3309-10-26'
 source: API
-entities: []
+summary: A naval squadron goes rogue in Shamash after an anomalous signal triggers mass violent mania during Fleet Exercise Grey Swan.
+player_impact: Not specifically mentioned in this article — defensive efforts being organised.
+persons:
+- Mackenzie Coates
+- Ulrich Maurer
 groups: []
 locations:
 - Shamash
@@ -12,13 +16,9 @@ topics:
 - investigation
 - crime
 - mystery
+entities: []
 arc_id: null
-modern_impact: "Coates's description — 'suffering from violent mania, caused by some kind of mass psychological disturbance' — echoes the later Grey Swan destruction. The signal breaking 'through our primary comms network' suggests technological sophistication. The mention of 'Frameshift Live' presenters being affected extends the threat beyond military personnel. The Thargoid weapon theory — despite 'no alien or unauthorised vessels detected' — leaves the origin open."
-persons:
-- Mackenzie Coates
-- Ulrich Maurer
-player_impact: "Not specifically mentioned in this article — defensive efforts being organised."
-summary: "A naval squadron goes rogue in Shamash after an anomalous signal triggers mass violent mania during Fleet Exercise Grey Swan."
+modern_impact: Coates's description — 'suffering from violent mania, caused by some kind of mass psychological disturbance' — echoes the later Grey Swan destruction. The signal breaking 'through our primary comms network' suggests technological sophistication. The mention of 'Frameshift Live' presenters being affected extends the threat beyond military personnel. The Thargoid weapon theory — despite 'no alien or unauthorised vessels detected' — leaves the origin open.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -26,7 +26,7 @@ related_uuids:
 - cca7da56-4f0a-5a99-8e50-34d6a64413f0
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A large naval squadron has gone rogue in the Shamash system, amid claims of widespread mental instability caused by an unknown signal.
 Security forces for the Shamash Future faction were practising fleet manoeuvres, shortly before they turned their weapons against passing traffic. Lieutenant Commander Mackenzie Coates , one of the officers coordinating Fleet Exercise Grey Swan, told the media:
 “All crews deployed for the exercise are now ignoring orders and attacking anything within range. The evidence we’ve gathered suggests they’re suffering from violent mania, caused by some kind of mass psychological disturbance. They are still capable of operating the ships, making them a danger to civilians.”

@@ -4,22 +4,22 @@ title: Exobiologists Demand Answers as HIP 87621 Speculation Grows
 slug: exobiologists_demand_answers_as_hip_87621_speculation_grows
 date: '3311-09-25'
 source: API
+summary: Professor Frank Raddix demanded clarity on Terri Tora's fate as journalist Alexei Keel published evidence linking the HIP 87621 permit lock to Lexi October. The superpowers denied involvement but admitted they were following developments closely.
+player_impact: Thousands of pilots had participated in the search for Terri Tora, confirming her last known location at the permit-locked HIP 87621.
+persons:
+- Frank Raddix
+- Terri Tora
+- Alexei Keel
+- Lexi October
 groups:
 - October Consortium
 locations:
 - HIP 87621
 topics:
 - research
-arc_id: hip87621-conflict
-persons:
-- Frank Raddix
-- Terri Tora
-- Alexei Keel
-- Lexi October
 technologies: []
-player_impact: "Thousands of pilots had participated in the search for Terri Tora, confirming her last known location at the permit-locked HIP 87621."
-summary: "Professor Frank Raddix demanded clarity on Terri Tora's fate as journalist Alexei Keel published evidence linking the HIP 87621 permit lock to Lexi October. The superpowers denied involvement but admitted they were following developments closely."
-modern_impact: "Alexei Keel's investigative journalism transforms the mystery from a scientific disappearance into a corporate accountability story. The superpowers' admission that they are 'following developments closely' — while denying involvement — signals they were already planning intervention. Keel's observation that October Consortium's resources make it 'well-placed to secure influence' foreshadows the corporate custodianship model eventually codified in the October Accords."
+arc_id: hip87621-conflict
+modern_impact: Alexei Keel's investigative journalism transforms the mystery from a scientific disappearance into a corporate accountability story. The superpowers' admission that they are 'following developments closely' — while denying involvement — signals they were already planning intervention. Keel's observation that October Consortium's resources make it 'well-placed to secure influence' foreshadows the corporate custodianship model eventually codified in the October Accords.
 legacy_weight: 4
 significance: high
 related_uuids:

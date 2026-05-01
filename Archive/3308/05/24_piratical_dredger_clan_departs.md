@@ -4,7 +4,8 @@ title: Piratical Dredger Clan Departs
 slug: piratical_dredger_clan_departs
 date: '3308-05-24'
 source: API
-arc_id: null
+summary: The Blue Viper Club dredger clan severs ties with the Kumo Crew and departs with Kay Volantyne.
+player_impact: Not specifically mentioned — this is a syndicate report.
 persons:
 - Kay Volantyne
 - Vidar Trask
@@ -18,15 +19,14 @@ locations:
 topics:
 - independence
 - narcotics
-player_impact: Not specifically mentioned — this is a syndicate report.
-summary: The Blue Viper Club dredger clan severs ties with the Kumo Crew and departs with Kay Volantyne.
-modern_impact: "\"This raises a disturbing question: were Trask and Volantyne working together to depose Archon Delaine?\" The Blue Viper Club's abrupt departure confirmed Volantyne's complicity in the failed coup, revealing that the Kumo Council's alliance with nomadic dredger clans was far more fragile than Delaine's regime had assumed."
+arc_id: null
+modern_impact: '"This raises a disturbing question: were Trask and Volantyne working together to depose Archon Delaine?" The Blue Viper Club''s abrupt departure confirmed Volantyne''s complicity in the failed coup, revealing that the Kumo Council''s alliance with nomadic dredger clans was far more fragile than Delaine''s regime had assumed.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - 3a22fa67-8900-5bbd-92cc-fe01fce10268
 - d18d8d7a-356e-5188-a79b-3b4464628cd5
 - fe369dea-273f-5ea5-be3d-af3dffd0d690
-legacy_weight: 2
-significance: low
 ---
 
 The Blue Viper Club Dredger clan has unexpectedly severed ties With the Kumo Crew, Which is currently battling an attempted rebellion.

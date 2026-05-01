@@ -24,9 +24,6 @@ related_uuids:
 - 6fbe3058-8050-50a0-b7d3-77484a809829
 ---
 
-Conflict in Betel Ends
-
-
 Authorities in The Betel system have confirmed that the conflict between the Silver Creative Network and Betel Free has come to an end. 
 
 Both factions received support from Independent combat pilots, to whom generous rewards were promised, but ultimately there could be only One victor. 

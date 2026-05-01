@@ -26,9 +26,6 @@ related_uuids:
 - 84b929de-3fba-59cb-853f-7b88bf76a586
 ---
 
-Far God Cult Attacked
-
-
 There has been a spate of violence against The Thargoid-worshipping Far God cult, resulting in Dozens of deaths and Hundreds of injuries. 
 
 Since the Church of Eternal Void declared war against the sect, Its members have compelled citizens to attack Far God believers in many systems. Several of the sect’s places of worship have been firebombed.  

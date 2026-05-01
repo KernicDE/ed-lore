@@ -11,16 +11,13 @@ groups:
 - EG Pilots
 locations:
 - Bjorti
-technologies: []
 topics:
 - sport
+technologies: []
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: EG Pilots Triumph in Second Wildcard Event
-
 
 The second heat of the Dangerous Games Wildcard competition is over. For This event, pilots were asked to deploy their hardpoints and gather bounties for their chosen faction in the Bjorti system. The group that accumulated the most bounty vouchers during the week-long event would be declared the winner. 
 

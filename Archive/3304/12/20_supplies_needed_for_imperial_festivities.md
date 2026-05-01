@@ -24,9 +24,6 @@ related_uuids:
 - 770bbc53-d363-5422-91d6-1cb7c812168e
 ---
 
-Supplies Needed for Imperial Festivities
-
-
 Imperial senator Simone Leatrix has announced plans for a week of revelry at her palatial residence on Capitol in The Achenar system. 
 
 The senator told the media: 

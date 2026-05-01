@@ -4,6 +4,8 @@ title: Kumo Crew – Uniting the Pegasi Pirates
 slug: kumo_crew_uniting_the_pegasi_pirates
 date: '3301-06-05'
 source: GitHub
+summary: Archon Delaine has styled himself as Pirate King of the Pegasi sector, demanding tribute and enforcing his will on other pirate organisations. Many Pegasi pirate lords now take orders from him, acting as local warlords who enforce his taxes. The Hand Gang of Gandii and Camorra of Krisha are attempting to take direct control of systems within Archon's domain; success means acceptance into the Kumo Crew, failure means disappearance. Pirates and mercenaries are invited to aid these crews via Lu Hub and Fincke Depot.
+player_impact: Pirate-aligned pilots can join the Hand Gang of Gandii or Camorra of Krisha in their attempts to capture Gandii and Krisha for the Kumo Crew.
 persons:
 - Archon Delaine
 groups:
@@ -20,15 +22,10 @@ topics:
 - piracy
 - war
 arc_id: kumo-crew-rise
-summary: Archon Delaine has styled himself as Pirate King of the Pegasi sector, demanding tribute and enforcing his will on other pirate organisations. Many Pegasi pirate lords now take orders from him, acting as local warlords who enforce his taxes. The Hand Gang of Gandii and Camorra of Krisha are attempting to take direct control of systems within Archon's domain; success means acceptance into the Kumo Crew, failure means disappearance. Pirates and mercenaries are invited to aid these crews via Lu Hub and Fincke Depot.
-player_impact: Pirate-aligned pilots can join the Hand Gang of Gandii or Camorra of Krisha in their attempts to capture Gandii and Krisha for the Kumo Crew.
 modern_impact: Archon Delaine's consolidation of Pegasi pirate groups under the Kumo Crew banner marks the transformation of scattered pirates into an organised criminal empire.
 legacy_weight: 4
 significance: high
 ---
-
-Kumo Crew - Uniting The Pegasi Pirates
-
 
 The presence of Archon Delaine and the Kumo Crew has long plagued the people of the Pegasi sector, and now things have started to take a very serious turn for the worse. 
 

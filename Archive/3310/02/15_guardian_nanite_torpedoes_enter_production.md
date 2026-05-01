@@ -4,7 +4,11 @@ title: Guardian Nanite Torpedoes Enter Production
 slug: guardian_nanite_torpedoes_enter_production
 date: '3310-02-15'
 source: API
-entities: []
+summary: Aegis reveals Ram Tah's Guardian nanite torpedo technology and begins mass production, with Palin constructing a Thargoid-spire-armoured warhead that can function within Maelstrom anti-Guardian fields.
+player_impact: Pilots are asked to deliver neofabric insulation, ion distributors and energy grid assemblies to Clement Orbital in the YZ Ceti system for mass production.
+persons:
+- Ishmael Palin
+- Ram Tah
 groups:
 - Aegis
 locations:
@@ -12,17 +16,13 @@ locations:
 topics:
 - engineering
 - war
-arc_id: thargoid-titan-war
-modern_impact: "The article reveals the full scientific basis of the Guardian nanite torpedo — 'exposure to certain electromagnetic frequencies caused Guardian relics to open and activate clusters of microscopic nanites' that 'react aggressively against Thargoid biotechnology by disrupting it on the molecular level.' The critical insight that 'these nanites are unaffected by the anti-Guardian field generated within Maelstroms' explains why this weapon is revolutionary. The torpedo's design — Guardian-hybrid engineering with Thargoid spire armour — is a triple-technology fusion."
-persons:
-- Ishmael Palin
-- Ram Tah
+entities: []
 technologies:
 - Guardian nanite torpedo
 - Guardian relics
 - nanites
-player_impact: "Pilots are asked to deliver neofabric insulation, ion distributors and energy grid assemblies to Clement Orbital in the YZ Ceti system for mass production."
-summary: "Aegis reveals Ram Tah's Guardian nanite torpedo technology and begins mass production, with Palin constructing a Thargoid-spire-armoured warhead that can function within Maelstrom anti-Guardian fields."
+arc_id: thargoid-titan-war
+modern_impact: The article reveals the full scientific basis of the Guardian nanite torpedo — 'exposure to certain electromagnetic frequencies caused Guardian relics to open and activate clusters of microscopic nanites' that 'react aggressively against Thargoid biotechnology by disrupting it on the molecular level.' The critical insight that 'these nanites are unaffected by the anti-Guardian field generated within Maelstroms' explains why this weapon is revolutionary. The torpedo's design — Guardian-hybrid engineering with Thargoid spire armour — is a triple-technology fusion.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,7 +31,7 @@ related_uuids:
 - 9bdb2c40-9c94-5f9d-b389-9b317fdb7e3d
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Deliveries are urgently needed to begin manufacturing a new weapon capable of causing severe damage to Thargoid Titans.
 Professor Ishmael Palin has been leading on the project, using theories developed by Ram Tah. Aegis released an official statement on all newsfeeds:
 “We can now reveal the results of Ram Tah’s experiments into Guardian relics. These ancient objects were crystalline supercomputers that relayed data across the Guardians’ information networks. His theory was that their transformation into Unclassified relics at Thargoid surface sites was caused by an inbuilt defence mechanism, which could perhaps be weaponised.”

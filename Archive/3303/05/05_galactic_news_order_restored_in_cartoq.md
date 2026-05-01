@@ -12,18 +12,15 @@ groups:
 locations:
 - Cartoq
 - Avdeyev Settlement
-technologies: []
 topics:
 - crime
 - ship
 - war
+technologies: []
 modern_impact: Cartoq Purple Major Organisation successfully clears Cartoq of criminal agitators through pilot-supported bounty operations.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Order Restored in Cartoq
-
 
 The Cartoq Purple Major Organisation has announced that Its campaign to clear the Cartoq system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 

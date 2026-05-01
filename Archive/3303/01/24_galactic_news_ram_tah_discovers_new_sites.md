@@ -14,20 +14,17 @@ locations:
 - Synuefe XO-P c22-17
 - IC 2391 Sector ZE-A d101
 - IC 2391 Sector GW-V b2-4
-technologies: []
 topics:
 - engineering
 - exploration
 - research
 - xenoarchaeology
+technologies: []
 arc_id: guardian-ancients
 modern_impact: Discovery of additional Guardian sites through monolith network analysis expands known archaeological locations.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Ram Tah Discovers New Sites
-
 
 Following his recent appeal for data from The Synuefe ruins, engineer Ram Tah has released a statement: 
 

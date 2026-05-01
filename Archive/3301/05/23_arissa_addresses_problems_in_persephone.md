@@ -11,14 +11,10 @@ topics:
 - medicine
 - piracy
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---
-
-Arissa Addresses Problems in Persephone
-
 
 Speaking from The site of her new palace on Kamadhenu, Princess Lavigny-Duval today addressed The recent problems faced by residents of Persephone in the face of a plague outbreak Which was brought to the system by the refugees from Quivira. 
 

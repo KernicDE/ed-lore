@@ -4,24 +4,20 @@ title: Kahina Refuses to Commit to Factions or Future
 slug: kahina_refuses_to_commit_to_factions_or_future
 date: '3301-05-17'
 source: GitHub
-entities:
-- Kahina Tijani Loren
-- Walden
 locations:
 - Lave
 - Prism
 topics:
 - ship
 - slavery
+entities:
+- Kahina Tijani Loren
+- Walden
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Kahina Refuses to Commit to Factions or Future
-
 
 Senator Kahina Tijani Loren, currently residing as a guest on Capital at The request of Chancellor Blaine, remains completely ambivalent to inquiries into her intentions. She has airily dismissed questions regarding her purpose or what was said to her at The reception to Which she was Summoned and Continues to ignore requests from the press. 
 

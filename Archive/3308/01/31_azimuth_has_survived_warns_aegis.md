@@ -4,7 +4,8 @@ title: ‘Azimuth has Survived’ Warns Aegis
 slug: azimuth_has_survived_warns_aegis
 date: '3308-01-31'
 source: API
-arc_id: salvation-azimuth
+summary: Data from the Alexandria reveals Azimuth Biochemicals orchestrated the megaship's destruction.
+player_impact: Not specifically mentioned — this is an investigative report.
 persons:
 - Carter Armstrong
 - Jacob Morales
@@ -21,9 +22,10 @@ topics:
 - humanitarian
 - research
 - xenoarchaeology
-summary: Data from the Alexandria reveals Azimuth Biochemicals orchestrated the megaship's destruction.
-player_impact: Not specifically mentioned — this is an investigative report.
-modern_impact: "\"The wreckage of the Alexandria was recently found in the Wregoe TC-X B29-0 system.\" Recovered data proves Azimuth Biochemicals orchestrated the Alexandria's destruction, confirming the century-old corporation's return as a galactic threat."
+arc_id: salvation-azimuth
+modern_impact: '"The wreckage of the Alexandria was recently found in the Wregoe TC-X B29-0 system." Recovered data proves Azimuth Biochemicals orchestrated the Alexandria''s destruction, confirming the century-old corporation''s return as a galactic threat.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - abc2fd5a-4eb4-5e36-ba45-d821adf6847e
 - f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
@@ -35,10 +37,7 @@ related_uuids:
 - 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
-legacy_weight: 5
-significance: high
 ---
-
 
 Information recovered from The Alexandria has prompted Aegis to insist that it was not responsible for the loss of the megaship’s crew and cargo.
 The wreckage of the Alexandria was recently Located in the Wregoe TC-X B29-0 system. There were no survivors, but fragments of the commanding officer’s log were Found.

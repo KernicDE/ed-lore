@@ -4,6 +4,8 @@ title: Shadow President Winters Calls for Investigation
 slug: shadow_president_winters_calls_for_investigation
 date: '3301-09-28'
 source: GitHub
+summary: Shadow President Felicia Winters called for an open and thorough investigation into the Federal Times allegations about Vice President Nigel Smeaton's murder. Speaking before Congress, Winters stated there was too much evidence to ignore and called on President Hudson to immediately instigate an impartial investigation. Her speech received support from both sides of the political divide, though the President's office had not yet responded.
+player_impact: The Federal political crisis deepens as Winters demands an open investigation into Smeaton's murder and the Antares conspiracy. Pilots should monitor Federal developments for potential shifts in policy and power.
 persons:
 - Felicia Winters
 - Nigel Smeaton
@@ -13,25 +15,18 @@ groups:
 locations:
 - Sol
 - Mars
-technologies: []
 topics:
 - investigation
 - conspiracy
 - murder
+technologies: []
 arc_id: federal-politics
 arc_chapter: Winters demands truth
-summary: Shadow President Felicia Winters called for an open and thorough investigation into the Federal Times allegations about Vice President Nigel Smeaton's murder. Speaking before Congress, Winters stated there was too much evidence to ignore and called on President Hudson to immediately instigate an impartial investigation. Her speech received support from both sides of the political divide, though the President's office had not yet responded.
-player_impact: The Federal political crisis deepens as Winters demands an open investigation into Smeaton's murder and the Antares conspiracy. Pilots should monitor Federal developments for potential shifts in policy and power.
 modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---
 
-Shadow President Winters Calls for Investigation
-
-
-Shadow President Winters Calls for Investigation 
- 
 In a speech before Congress, Shadow President Felicia Winters called for an open and thorough investigation into The allegations made in recent articles posted by The Federal Times: 
 
  "There is too much evidence here to be ignored. I knew Vice President Nigel Smeaton personally and he was a good friend - the thought that he was Murdered for investigating the death of a family member is repugnant. Our society is One based on truth and freedom and I call upon President Hudson to immediately instigate an impartial and open investigation into these allegations." 

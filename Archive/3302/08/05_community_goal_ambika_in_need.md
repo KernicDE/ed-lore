@@ -12,19 +12,16 @@ groups:
 locations:
 - Ambika
 - Goulart City
-technologies: []
 topics:
 - humanitarian
 - piracy
 - ship
 - war
+technologies: []
 modern_impact: Early example of combined humanitarian and combat community goals addressing systemic famine and piracy.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Ambika in Need
-
 
 Authorities in The Ambika system have reported that the region is in the grip of a severe famine. All efforts to shore up agricultural markets have failed, and the food shortage has even triggered bouts of civil unrest. A tentative relief effort has begun, But the convoys attempting to bring aid to the people of Ambika are being targeted by opportunist pirates. 
 

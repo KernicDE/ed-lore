@@ -11,19 +11,16 @@ groups: []
 locations:
 - Maia
 - Darnielle's Progress
-technologies:
-- Cobra-class Vessel
 topics:
 - crime
 - investigation
+technologies:
+- Cobra-class Vessel
 arc_id: barnacle-meta-alloy
 modern_impact: High-profile meta-alloy theft underscoring the value and volatility of the barnacle trade in the Pleiades.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Theft at Darnielle's Progress
-
 
 A carefully orchestrated heist, involving The theft of a large quantity of meta-alloys, has taken place at Darnielle's Progress in the Maia system. 
 

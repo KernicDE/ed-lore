@@ -4,22 +4,19 @@ title: The Doom That Comes To Quivira
 slug: the_doom_that_comes_to_quivira
 date: '3301-05-11'
 source: GitHub
-entities:
-- Denton Patreus
-- Patreus now intends
 locations:
 - Denton
 - Summerland
 topics:
 - humanitarian
 - war
+entities:
+- Denton Patreus
+- Patreus now intends
 modern_impact: Humanitarian effort by the pilot community to assist those in need.
 legacy_weight: 2
 significance: low
 ---
-
-The Doom That Comes To Quivira
-
 
 For The last week Civil War has ravaged the Independent nation of Quivira. 
 

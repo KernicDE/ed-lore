@@ -12,17 +12,14 @@ groups:
 locations:
 - Balones
 - Tiedemann Dock
-technologies: []
 topics:
 - trade
 - community goal
+technologies: []
 modern_impact: Conclusion of materials appeal for deep-space probe development; no discoveries are reported yet.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Appeal for Materials Concludes
-
 
 A spokesperson for Balones Gold Touch Systems has announced that Its appeal for materials has been enthusiastically received by The galactic community, resulting In a massive influx of deliveries to Tiedemann Dock, the organisation's base of operations. 
 

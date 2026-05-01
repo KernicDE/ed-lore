@@ -4,22 +4,20 @@ title: Hadrian Duval Accepts Senate Protection
 slug: hadrian_duval_accepts_senate_protection
 date: '3307-11-02'
 source: API
-groups:
-- NMLA
-- Nova Imperium
+summary: Hadrian Duval accepts the Imperial Senate's offer of protection, renaming Nova Imperium to Nova Paresa and endorsing Praetor Leo Magnus as its new leader.
+player_impact: None
 persons:
 - Hadrian Augustus Duval
 - Astrid Minerva-Duval
 - Leo Magnus
+groups:
+- NMLA
+- Nova Imperium
 topics:
 - diplomacy
 - investigation
 arc_id: nmla-terrorism
-summary: Hadrian Duval accepts the Imperial Senate's offer of protection, renaming Nova
-  Imperium to Nova Paresa and endorsing Praetor Leo Magnus as its new leader.
-player_impact: None
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---

@@ -25,9 +25,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Expanding The Imperial Fleet
-
-
 Admiral Denton Patreus has announced plans to expand the Imperial Navy With a new Majestic-Class Interdictor. The formidable Vessel will boast a range of imposing weaponry, including an array of modular interceptor guns. 
 
 Lieutenant Severin, who is overseeing the ship's construction, issued a statement to the media: 

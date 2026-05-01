@@ -14,19 +14,16 @@ groups:
 locations:
 - van de Hulst Vision
 - Morai
-technologies:
-- Majestic-class Interdictor
 topics:
 - ship
 - war
+technologies:
+- Majestic-class Interdictor
 arc_id: barnacle-meta-alloy
 modern_impact: Imperial matching of Federal naval expansion escalates the superpower arms race and draws pilots into resource-driven military campaigns.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: More Imperial Warships
-
 
 The latest development in the ongoing Federal-Imperial conflict takes the form of a statement from Admiral Denton Patreus, who has announced plans to add three new Majestic-class Interdictors to the Imperial fleet. The announcement comes only a week after the successful conclusion of a Federal campaign to amass material for three new Farragut-class Battlecruisers. 
 

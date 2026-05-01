@@ -4,6 +4,8 @@ title: Hunt for Children of Tothos Continues
 slug: hunt_for_children_of_tothos_continues
 date: '3305-03-08'
 source: GitHub
+summary: The FIA continues its manhunt for the Children of Tothos cult, rooting out additional members in the Zlota system while warning that leader Barnabas Cole's egotism makes any location a potential target for the stolen Lucifer Device.
+player_impact: None — background crime report.
 persons:
 - Ethan Takahashi
 - Barnabas Cole
@@ -16,8 +18,6 @@ locations:
 topics:
 - crime
 - terrorism
-summary: The FIA continues its manhunt for the Children of Tothos cult, rooting out additional members in the Zlota system while warning that leader Barnabas Cole's egotism makes any location a potential target for the stolen Lucifer Device.
-player_impact: None — background crime report.
 modern_impact: The ongoing hunt revealed the cult's apocalyptic ideology and the terrifying portability of the Lucifer Device, which could evade security scans and threaten any starport in the Federation.
 legacy_weight: 3
 significance: medium
@@ -27,9 +27,6 @@ related_uuids:
 - eb0399b9-3f4e-598b-8792-1ffe7a9866d7
 - 9297eeb4-a7b3-5846-b24a-0baf631e6c8e
 ---
-
-Hunt for Children of Tothos Continues
-
 
 The Federal Intelligence Agency continues to search for the Children of Tothos, a fringe cult that has stolen a nuclear weapon. 
 

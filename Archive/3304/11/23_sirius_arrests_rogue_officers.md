@@ -31,9 +31,6 @@ related_uuids:
 - 5ce245a3-6cab-529d-81eb-e7015b0bbe28
 ---
 
-Sirius Arrests Rogue Officers
-
-
 The Sirius Corporation has responded to the revelation that members of Its private fleet coordinated a mercenary raid on the Meene system. 
 
 Li Yong-Rui, CEO of Sirius Corp, told the media: 

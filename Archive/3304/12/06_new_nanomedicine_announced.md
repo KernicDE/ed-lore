@@ -24,9 +24,6 @@ related_uuids:
 - 79d31e82-72c0-55c6-a4aa-acb8830314f8
 ---
 
-New Nanomedicine Announced
-
-
 Independent company Vitadyne Labs has developed an innovative new form of nanomedicine. 
 
 Professor Katrien Rook published The following press release: 

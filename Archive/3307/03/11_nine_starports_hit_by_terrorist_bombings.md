@@ -4,7 +4,8 @@ title: Nine Starports Hit by Terrorist Bombings
 slug: nine_starports_hit_by_terrorist_bombings
 date: 3307-03-11
 source: API
-arc_id: nmla-terrorism
+summary: '*Pilots Federation ALERT* Explosions have struck starports across The Alliance, Empire and Federation In a coordinated bombing attack by the NMLA.'
+player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
 persons:
 - Achenar
 - Alioth
@@ -44,9 +45,10 @@ topics:
 - diplomacy
 - humanitarian
 - terrorism
-player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
-summary: "*Pilots Federation ALERT* Explosions have struck starports across The Alliance, Empire and Federation In a coordinated bombing attack by the NMLA."
-modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+arc_id: nmla-terrorism
+modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - ba0ab37a-3135-52b4-a668-22e5ef0700b6
@@ -54,11 +56,9 @@ related_uuids:
 - 81935802-cfe1-5060-bd5a-d55783730845
 - 6efd63d0-0d68-594f-8e75-b0c5df826485
 - 9e1f1fba-df6f-5280-8095-86f30ca2d79c
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Explosions have struck starports across The Alliance, Empire and Federation In a coordinated bombing attack by the NMLA.
 The capital systems of All three superpowers – Achenar, Alioth and Sol – have been targeted by the terrorists, as well as six Other high-population systems. Precise casualty numbers are unavailable, But several hundred thousand people have been killed With Many more injured.
 There are urgent calls for Independent pilots to rescue survivors and support repair operations at all nine locations:

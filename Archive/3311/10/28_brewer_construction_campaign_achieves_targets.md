@@ -4,7 +4,11 @@ title: Brewer Construction Campaign Achieves Targets
 slug: brewer_construction_campaign_achieves_targets
 date: '3311-10-28'
 source: API
-entities: []
+summary: Brewer Corporation confirmed pilots delivered construction materials in record time for an urgent order, with observers believing a science and security enclave around HIP 87621 could be completed within days. Lexi October remained silent.
+player_impact: Independent pilots delivered construction materials in record time to Brewer Corporation's urgent order, with the Trailblazer Dream in HIP 90578 serving as staging point.
+persons:
+- Madelyn Teague
+- Lexi October
 groups:
 - Brewer Corporation
 - October Consortium
@@ -13,14 +17,10 @@ locations:
 topics:
 - construction
 - corporate expansion
-arc_id: hip87621-conflict
-persons:
-- Madelyn Teague
-- Lexi October
+entities: []
 technologies: []
-player_impact: "Independent pilots delivered construction materials in record time to Brewer Corporation's urgent order, with the Trailblazer Dream in HIP 90578 serving as staging point."
-summary: "Brewer Corporation confirmed pilots delivered construction materials in record time for an urgent order, with observers believing a science and security enclave around HIP 87621 could be completed within days. Lexi October remained silent."
-modern_impact: "The record-speed construction validates Brewer's logistical dominance and reveals superpower coordination at a scale previously unseen outside wartime. Lexi October's silence signals she was caught off-guard by the mobilisation speed — her permit lock would be breached within two weeks. The 'direct messages to pilots pledged to one of the twelve Powers' confirms this was a coordinated superpower effort, not a private corporate contract."
+arc_id: hip87621-conflict
+modern_impact: The record-speed construction validates Brewer's logistical dominance and reveals superpower coordination at a scale previously unseen outside wartime. Lexi October's silence signals she was caught off-guard by the mobilisation speed — her permit lock would be breached within two weeks. The 'direct messages to pilots pledged to one of the twelve Powers' confirms this was a coordinated superpower effort, not a private corporate contract.
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -13,20 +13,17 @@ groups:
 locations:
 - Xelabara
 - Navigator Market
-technologies: []
 topics:
 - narcotics
 - piracy
 - ship
 - trade
 - war
+technologies: []
 modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---
-
-Onionhead Appeal Attracts Pirates
-
 
 Reports coming in from The Xelabara system indicate that the recent request from the Drug Empire of Xelabara for onionhead has drawn Hundreds of pirates to the system. According to system authorities, the pirates are targeting the traders travelling to and from Navigator Market, the hub of the onionhead operation. Fortunately, the Xelabara Republic Party has promised to reward pilots who help eliminate the pirates. A spokesperson for the Xelabara Republic Party said: 
 

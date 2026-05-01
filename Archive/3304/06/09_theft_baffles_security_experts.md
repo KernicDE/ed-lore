@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Theft Baffles Security Experts
-
-
 A valuable work of art has been stolen by a mysterious and highly skilled criminal. 
 
 The theft took place in the Garden City Gallery on Turner’s World in the Alioth system. Sergeant Femi Abram of the municipal police discussed the incident: 

@@ -25,9 +25,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: The Battle for Neits
-
-
 "We were escorting a cargo ship to Watson Settlement. As we approached, we were intercepted by a pair of Vultures. They asked us to identify ourselves, but I don't think they were even listening – they just opened fire. The cargo ship took a hit, and then my wingmate bought it. I barely made it out alive." 
 
 This testimony comes from the Neits system, Which has become the site of intense conflict in the past 24 hours. Authorities in the system have confirmed that a Federal organisation known as Neits Jet Life Ltd has deployed ships throughout the system, and is attacking Other vessels at the slightest provocation. Meanwhile, the GR 316 Silver Universal Group, an Imperial organisation, has despatched fighters to counter the Federal offensive. 

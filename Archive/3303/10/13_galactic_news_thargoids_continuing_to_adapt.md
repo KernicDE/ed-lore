@@ -11,20 +11,16 @@ groups:
 - Aegis
 locations:
 - Pleiades
-technologies: []
 topics:
 - alien contact
 - ship
 - war
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Thargoids Continuing to Adapt
-
 
 Fresh reports from The Pleiades have yielded Further insights into the Thargoids’ tactics. 
 

@@ -12,14 +12,10 @@ locations:
 topics:
 - narcotics
 arc_id: onionhead-conflict
-modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
-  and local agricultural economies.
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition and local agricultural economies.
 legacy_weight: 3
 significance: medium
 ---
-
-Onionhead Returns to Kappa Fornacis
-
 
 The Kappa Fornacis Farmers Union appears to be up to Its old tricks again, as news has started to come out of The region that Onionhead is once again available in the ports around Panem. 
 

@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-A Vintage to Remember
-
-
 Angeli Imperial Enterprises has announced an initiative to construct an orbital family restaurant in The Wangal system. The eatery, Which will be named DaMorg's Bar and BBQ, will allow spacers to enjoy the finest food and drinks that Wangal has to offer. 
 
 In support of This initiative, Angeli Imperial Enterprises has issued an open order for various construction and outfitting materials, and has pledged to pay well above the market rate for these commodities. Independent pilots who want to support the initiative are instructed to deliver the requested goods to Nelder City in the Wangal system. 

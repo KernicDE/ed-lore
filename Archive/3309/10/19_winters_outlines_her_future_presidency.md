@@ -4,6 +4,12 @@ title: Winters Outlines Her Future Presidency
 slug: winters_outlines_her_future_presidency
 date: '3309-10-19'
 source: API
+summary: 'President-elect Winters discusses her priorities: dismantling the PDB, shifting from military to social spending, and continuing Aegis support for the Thargoid war.'
+player_impact: Not specifically mentioned — this is a policy interview.
+persons:
+- Felicia Winters
+- Jerome Archer
+- Zachary Hudson
 groups: []
 locations:
 - Sol
@@ -13,13 +19,7 @@ topics:
 - humanitarian
 - politics
 arc_id: null
-modern_impact: "Winters's pledge to 'dismantle this monstrosity, ending the surveillance of private communications' is her signature policy. Her framing — 'We are not the Empire – we serve our people rather than rule over them' — contrasts with Imperial governance. Sol Today's hostile editorial — 'the Federation will rot from within... freeloaders and criminals get a free pass' — previews the Republican opposition narrative."
-persons:
-- Felicia Winters
-- Jerome Archer
-- Zachary Hudson
-player_impact: "Not specifically mentioned — this is a policy interview."
-summary: "President-elect Winters discusses her priorities: dismantling the PDB, shifting from military to social spending, and continuing Aegis support for the Thargoid war."
+modern_impact: Winters's pledge to 'dismantle this monstrosity, ending the surveillance of private communications' is her signature policy. Her framing — 'We are not the Empire – we serve our people rather than rule over them' — contrasts with Imperial governance. Sol Today's hostile editorial — 'the Federation will rot from within... freeloaders and criminals get a free pass' — previews the Republican opposition narrative.
 legacy_weight: 5
 significance: high
 related_uuids:

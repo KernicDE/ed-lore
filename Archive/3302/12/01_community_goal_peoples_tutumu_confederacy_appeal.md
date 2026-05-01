@@ -10,16 +10,13 @@ persons: []
 groups:
 - People's Tutumu Confederacy
 locations: []
-technologies: []
 topics:
 - festival
+technologies: []
 modern_impact: Seasonal commodity drive encouraging pilot participation through premiums and a prize draw.
 legacy_weight: 1
 significance: low
 ---
-
-Community Goal: People's Tutumu Confederacy Appeal
-
 
 As the end of The galactic year draws near and people throughout the galaxy start preparing for their end-of-year celebrations, the People's Tutumu Confederacy has announced a special seasonal event. 
 

@@ -12,14 +12,10 @@ topics:
 - trade
 - war
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
 ---
-
-Merchant Marines Launch Operation Papercut
-
 
 Reports coming in from Eotienses indicate that a group of Federal Commanders, known As the Merchant Marines, are currently engaged In a series of unauthorised attacks against Imperial traders in The employ of Senator Patreus.    
 

@@ -4,6 +4,10 @@ title: HIP 22460 Declared Free of Thargoids
 slug: hip_22460_declared_free_of_thargoids
 date: '3311-01-16'
 source: API
+summary: Aegis confirmed that HIP 22460 is free of Thargoids following a successful blockade by anti-xeno forces, reclaiming a system held by Thargoids since at least 3303.
+player_impact: AXI, XSF, and allied AX pilots blockaded and cleared HIP 22460 of Thargoid presence.
+persons:
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -12,13 +16,9 @@ locations:
 topics:
 - alien contact
 - war
-persons:
-- Aden Tanner
 technologies:
 - Proteus Wave
-player_impact: "AXI, XSF, and allied AX pilots blockaded and cleared HIP 22460 of Thargoid presence."
-summary: "Aegis confirmed that HIP 22460 is free of Thargoids following a successful blockade by anti-xeno forces, reclaiming a system held by Thargoids since at least 3303."
-modern_impact: "Tanner's statement — 'I only wish I was young enough to join these heroes out on the front lines' — humanises Aegis' military leadership and acknowledges the pilot community's central role in the war. The confirmation that Thargoids had maintained presence in HIP 22460 'since at least 3303' reframes the Second Thargoid War as a decade-long occupation finally ended by independent pilots, not superpower militaries."
+modern_impact: Tanner's statement — 'I only wish I was young enough to join these heroes out on the front lines' — humanises Aegis' military leadership and acknowledges the pilot community's central role in the war. The confirmation that Thargoids had maintained presence in HIP 22460 'since at least 3303' reframes the Second Thargoid War as a decade-long occupation finally ended by independent pilots, not superpower militaries.
 legacy_weight: 5
 significance: high
 related_uuids:

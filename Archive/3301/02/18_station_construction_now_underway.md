@@ -17,9 +17,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Station Construction Now Underway
-
-
 Thanks to The combined efforts of entrepreneurs, small business owners and corporate sponsors, preparations for The launch of the new EAUC Exploration Ocellus are now well underway. 4871 commanders contributed over 8154177 tons of metal to the project, Which in turn has allowed the EAUC coalition to outfit the station to a level Far beyond their original specifications. 
 
 Universal Cartographics has released a statement thanking the committee members who wisely chose the mineral rich system of HIP 101110 As the potential launch site, as well as to Zimm_Macugz for organising the delivery of an impressive 150000 tonnes of raw materials. 

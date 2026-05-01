@@ -18,14 +18,10 @@ topics:
 - research
 - ship
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Ishmael Palin to Depart for Maia b1ba
-
 
 It has been Several weeks since Professor Ishmael Palin, The scientist researching the Unknown Artefacts, appealed for help in establishing a new research outpost on Maia b1ba. The appeal was enthusiastically received by the galactic community, resulting In a huge influx of deliveries to Obsidian Orbital, Professor Palin's base of operations. But since then there has been no news about the new research base, prompting some to wonder if it would in fact materialise. 
 

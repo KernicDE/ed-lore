@@ -4,7 +4,8 @@ title: Four Federal Systems Declare Independence
 slug: four_federal_systems_declare_independence
 date: '3307-06-29'
 source: API
-arc_id: federal-politics
+summary: The Azaladshu Free faction secedes from the Federation, declaring its four systems independent in protest against surveillance laws. Mayor Constanza Noguera calls the Federation corrupt and authoritarian. Congress declares secession illegal and orders the Federal Navy on alert. Hudson blames criminal behaviour; Winters blames the PDB itself.
+player_impact: None directly; this is a political secession announcement.
 persons:
 - Constanza Noguera
 - Zachary Hudson
@@ -25,21 +26,20 @@ locations:
 - LTT 3919
 - Federal Congress
 - Sol
-technologies:
-- Proactive Detection Bureau surveillance system
 topics:
 - crime
 - independence
-player_impact: None directly; this is a political secession announcement.
-summary: The Azaladshu Free faction secedes from the Federation, declaring its four systems independent in protest against surveillance laws. Mayor Constanza Noguera calls the Federation corrupt and authoritarian. Congress declares secession illegal and orders the Federal Navy on alert. Hudson blames criminal behaviour; Winters blames the PDB itself.
+technologies:
+- Proactive Detection Bureau surveillance system
+arc_id: federal-politics
 modern_impact: The Azaladshu secession triggers a chain reaction across Federal space, with multiple factions following suit. It becomes the most serious constitutional crisis in Federation history, exposing the deep fractures caused by the PDB.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 677ba8ea-d7b4-5d96-b990-a430969d2b98
 - f02f048f-667a-5947-9236-9330633d8a5f
 - 82080870-af46-5023-854f-189ec261531a
 - bc50ffda-083d-5387-b532-bfc39ae6807f
-legacy_weight: 5
-significance: high
 ---
 
 The Azaladshu Free faction, Which controls four systems, has seceded from the Federation in protest against civilian surveillance.

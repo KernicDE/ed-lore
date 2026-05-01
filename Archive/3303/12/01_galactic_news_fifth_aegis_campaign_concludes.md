@@ -22,9 +22,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Fifth Aegis Campaign Concludes
-
-
 An Aegis spokesperson has confirmed that The organisation’s campaign in the Electra system has come to an end. The operation was designed to reduce The number of Thargoids operating in the system, and to gather Thargoid material for Aegis’s ongoing research and development programme. 
 
 The spokesperson released The following statement: 

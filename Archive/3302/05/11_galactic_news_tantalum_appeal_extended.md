@@ -16,9 +16,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Tantalum Appeal Extended
-
-
 The Wyrd Raiders have announced that their campaign for tantalum has been extended. A spokesperson for the organisation confirmed that This was to ensure targets would be met. 
 
 In a brief statement, the spokesperson said: 

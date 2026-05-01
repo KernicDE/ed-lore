@@ -4,7 +4,14 @@ title: Zemina Torval Returns to the Senate
 slug: zemina_torval_returns_to_the_senate
 date: '3310-01-11'
 source: API
-entities: []
+summary: Senator Zemina Torval returns to the Imperial Senate after several months' absence, transferring ownership of Torval Mining Ltd to her daughter Constantia and positioning herself as a potential successor to Chancellor Blaine.
+player_impact: Not specifically mentioned — this is a political report.
+persons:
+- Zemina Torval
+- Petra Torval
+- Constantia Torval
+- Anders Blaine
+- Cassia Carvalho
 groups:
 - Imperial Senate
 locations:
@@ -12,15 +19,8 @@ locations:
 topics:
 - succession
 - politics
-modern_impact: "Torval's statement — 'ownership of Torval Mining Ltd has been transferred to my eldest daughter Constantia' — shows dynastic business succession alongside political return. Carvalho's observation that 'At 132 years old, Zemina Torval is one of the oldest serving members of the Senate' underscores her longevity. The speculation about Blaine's potential retirement and Torval's prior experience as deputy chancellor frames her return as a power play for the Empire's second-highest office."
-persons:
-- Zemina Torval
-- Petra Torval
-- Constantia Torval
-- Anders Blaine
-- Cassia Carvalho
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "Senator Zemina Torval returns to the Imperial Senate after several months' absence, transferring ownership of Torval Mining Ltd to her daughter Constantia and positioning herself as a potential successor to Chancellor Blaine."
+entities: []
+modern_impact: Torval's statement — 'ownership of Torval Mining Ltd has been transferred to my eldest daughter Constantia' — shows dynastic business succession alongside political return. Carvalho's observation that 'At 132 years old, Zemina Torval is one of the oldest serving members of the Senate' underscores her longevity. The speculation about Blaine's potential retirement and Torval's prior experience as deputy chancellor frames her return as a power play for the Empire's second-highest office.
 legacy_weight: 2
 significance: low
 ---

@@ -4,30 +4,23 @@ title: Galactic News  EG Pilots Victorious
 slug: galactic_news_eg_pilots_victorious
 date: '3302-07-07'
 source: GitHub
-topics:
-- sport
-- war
-modern_impact: Demonstrates the competitive community-goal format that allows player
-  factions to earn recognition and potentially ascend to major-power status.
-legacy_weight: 1
-significance: low
-summary: The first heat of the Rise to Power competition required pilots to deliver
-  Gilya signature weapons to Gohar Station in the Jaradharre system. The EG Pilots
-  faction received the largest quantity and won the opening stage.
-player_impact: Gather Gilya signature weapons and deliver them to Gohar Station in
-  the Jaradharre system for your chosen faction.
+summary: The first heat of the Rise to Power competition required pilots to deliver Gilya signature weapons to Gohar Station in the Jaradharre system. The EG Pilots faction received the largest quantity and won the opening stage.
+player_impact: Gather Gilya signature weapons and deliver them to Gohar Station in the Jaradharre system for your chosen faction.
+persons: []
 groups:
 - EG Pilots
 locations:
 - Gohar Station
 - Jaradharre
+topics:
+- sport
+- war
 technologies:
 - Gilya signature weapons
-persons: []
+modern_impact: Demonstrates the competitive community-goal format that allows player factions to earn recognition and potentially ascend to major-power status.
+legacy_weight: 1
+significance: low
 ---
-
-Galactic News: EG Pilots Victorious
-
 
 Last week saw The start of the Rise to Power competition, a three-week campaign to determine Which of the galaxy's largest factions wields the greatest degree of power and influence. The winner of the competition will be In a position to compete With the galaxy's major power players. 
 

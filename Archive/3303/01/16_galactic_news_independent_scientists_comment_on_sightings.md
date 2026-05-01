@@ -12,20 +12,17 @@ persons:
 groups: []
 locations:
 - Synuefe
-technologies: []
 topics:
 - alien contact
 - engineering
 - research
 - ship
+technologies: []
 arc_id: thargoid-contact
 modern_impact: Leading scientists confirm the non-human intelligence hypothesis and link active vessels to previously discovered alien artifacts.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Independent Scientists Comment on Sightings
-
 
 Professor Ishmael Palin, independent scientist and leading authority on xeno-biological research, has added his voice to The debate over sightings of mysterious spacecraft. 
 

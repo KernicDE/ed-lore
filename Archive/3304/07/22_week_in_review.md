@@ -56,9 +56,6 @@ related_uuids:
 - dd4a0b64-612b-5b42-9631-72d2dc9f5d9d
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Mara Klatt of Alliance Interpol has announced that Admiral George Varma, who was arrested last week on suspicion of working With terrorist organisation The League of Reparation, was in fact framed by Rear Admiral Riri McAllister. It is now believed that McAllister is Nexus, the League’s central coordinator. 

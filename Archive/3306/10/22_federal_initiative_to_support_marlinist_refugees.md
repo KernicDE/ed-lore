@@ -4,12 +4,14 @@ title: Federal Initiative to Support Marlinist Refugees
 slug: federal_initiative_to_support_marlinist_refugees
 date: '3306-10-22'
 source: GitHub
+summary: Safeguard Interstellar requests deliveries of basic medicines, clothing, food, and evacuation shelters for Marlinist refugees in Federal systems. Bounty vouchers in LFT 625 are also offered.
+player_impact: Pilots can deliver supplies to Fox Enterprise in LFT 625 and collect bounty rewards.
+persons:
+- Noel Beaumont
 groups:
 - Pilots Federation
 - Safeguard Interstellar
 - Fionn Liberals
-persons:
-- Noel Beaumont
 locations:
 - LFT 625
 - Charunder
@@ -20,13 +22,7 @@ locations:
 - Thetis
 topics:
 - humanitarian
-summary: Safeguard Interstellar requests deliveries of basic medicines, clothing, food,
-  and evacuation shelters for Marlinist refugees in Federal systems. Bounty vouchers in
-  LFT 625 are also offered.
-player_impact: Pilots can deliver supplies to Fox Enterprise in LFT 625 and collect bounty
-  rewards.
-modern_impact: The Federal charity initiative provides immediate relief but highlights the
-  strain on Federal infrastructure.
+modern_impact: The Federal charity initiative provides immediate relief but highlights the strain on Federal infrastructure.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -35,10 +31,7 @@ related_uuids:
 - 66533e5e-84fe-5ef9-ba16-bfd3323fb2e9
 ---
 
-Federal Initiative to Support Marlinist Refugees
-
-
-*Pilots Federation ALERT* 
+**Pilots Federation ALERT** 
 
 An aid charity is requesting deliveries of vital supplies to help Marlinist refugees that fled from The Empire to the Federation. 
 

@@ -26,9 +26,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Thargoid Revelations
-
-
 Aegis has published a report containing significant insights into The Thargoids. The information was provided by the engineer Ram Tah, compiled from recently decrypted logs Found at Guardian sites. 
 
 Key extracts from the report are reprinted below: 

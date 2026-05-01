@@ -14,21 +14,17 @@ locations:
 - HIP 8396
 - Stepping Stone Base
 - Sirius
-technologies: []
 topics:
 - corporate expansion
 - humanitarian
 - ship
 - trade
 - war
-modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape
-  several systems' economies.
+technologies: []
+modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape several systems' economies.
 legacy_weight: 2
 significance: low
 ---
-
-Sirius Corporation Programme Ends Today
-
 
 Last week, The Sirius Corporation launched an initiative to boost The economy of the HIP 8396 system, Which was recently brought under Its control. The initiative was underpinned by an open contract for osmium, which contractors were asked to deliver to Stepping Stone Base. The response to the appeal was positive, With Hundreds of miners taking to their ships to gather resources for the people of HIP 8396. Li Yong-Rui, the CEO of Sirius Corp., expressed his satisfaction at the response: 
 

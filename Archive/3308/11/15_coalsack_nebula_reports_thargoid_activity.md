@@ -4,7 +4,8 @@ title: Coalsack Nebula Reports Thargoid Activity
 slug: coalsack_nebula_reports_thargoid_activity
 date: '3308-11-15'
 source: API
-arc_id: salvation-azimuth
+summary: The human colonists in the Coalsack Nebula has raised the alarm after Thargoid forces appeared several systems.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Lewis Laychurch
 groups:
@@ -19,21 +20,16 @@ locations:
 topics:
 - alien contact
 - research
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: The human colonists in the Coalsack Nebula has raised the alarm after Thargoid
-  forces appeared several systems.
-modern_impact: '"Our security craft regularly patrol between the populated systems
-  in this region. We had the first reports of nonhuma..." This perspective highlights
-  the broader stakes and continues to shape contemporary debates.'
+arc_id: salvation-azimuth
+modern_impact: '"Our security craft regularly patrol between the populated systems in this region. We had the first reports of nonhuma..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 0c37c634-123c-5ee7-9616-d3f4b4263c90
 - 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
-legacy_weight: 5
-significance: high
 ---
 
 The human colonists in the Coalsack Nebula has raised the alarm after Thargoid forces appeared several systems.

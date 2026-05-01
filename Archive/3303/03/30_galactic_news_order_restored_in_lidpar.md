@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Order Restored in Lidpar
-
-
 The Union of Lidpar Green Party has announced that Its campaign to clear the Lidpar system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. The Union of Lidpar Green Party also stated that its appeal for Battle Weapons, Reactive Armour and Advanced Medicines had reached a successful conclusion. 
 
 Authorities in the Lidpar system have extended their gratitude to those who participated in the operation. 

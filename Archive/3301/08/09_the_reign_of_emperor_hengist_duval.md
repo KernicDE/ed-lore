@@ -4,6 +4,8 @@ title: The Reign of Emperor Hengist Duval
 slug: the_reign_of_emperor_hengist_duval
 date: '3301-08-09'
 source: GitHub
+summary: Historian Sima Kalhana recounts key moments from Emperor Hengist Duval’s life. Born in 3163, he became the 15th Emperor in the Duval bloodline in 3233. His reign saw the cold war with the Federation thaw, then recently resume. The Frame Shift Drive was introduced during his rule. He fell ill in 3300, slipped into a coma at the turn of 3301, then recovered. He decreed his only legitimate child Harold unfit to rule, and supported Arissa Lavigny-Duval’s claim by announcing marriage to her mother Florence Lavigny, intending to formally adopt Arissa. His murder left the succession unclear.
+player_impact: None
 persons:
 - Hengist Duval
 - Sima Kalhana
@@ -19,18 +21,11 @@ locations:
 - Achenar
 topics:
 - succession
-summary: Historian Sima Kalhana recounts key moments from Emperor Hengist Duval’s life. Born in 3163, he became the 15th Emperor in the Duval bloodline in 3233. His reign saw the cold war with the Federation thaw, then recently resume. The Frame Shift Drive was introduced during his rule. He fell ill in 3300, slipped into a coma at the turn of 3301, then recovered. He decreed his only legitimate child Harold unfit to rule, and supported Arissa Lavigny-Duval’s claim by announcing marriage to her mother Florence Lavigny, intending to formally adopt Arissa. His murder left the succession unclear.
-player_impact: None
 modern_impact: Retrospective on Emperor Hengist Duval’s reign and the succession crisis triggered by his assassination.
 legacy_weight: 4
 significance: high
 ---
 
-The Reign of Emperor Hengist Duval
-
-
-The Reign of Emperor Hengist Duval 
- 
 In respect of the assassination of Emperor Hengist Duval the planned article for This week has been moved to next week so that historian Sima Kalhana relates some of the key moments from his life. 
 
 Emperor Hengist Duval was the 15th in the Imperial Duval bloodline to lead the Empire and he saw a great deal of change in his comparatively short reign. He was born in 3163, only a few days before the death of his grandfather Hender Saik Duval. Some claim that the spirit of Hender had already passed to Hengist such were the similarities in looks and manner noted in Hengist’s later years. 

@@ -17,19 +17,16 @@ locations:
 - Wolf 294
 - Wolf 504
 - Merope
+topics:
+- research
 technologies:
 - Unknown Probes
 - Unknown Artefacts
-topics:
-- research
 arc_id: unknown-artefacts
 modern_impact: Community-driven research into Unknown Probes advances understanding of non-human artefacts and challenges Federal secrecy.
 legacy_weight: 3
 significance: medium
 ---
-
-Freelance Report: Dr Arcanonn Appeals for Help
-
 
 The image transmitted by the mysterious Unknown Probes is still a mystery. But while the image occupies his teams, Dr Arcanonn of the Canonn Interstellar Research Group believes there is more to discover about the Probes themselves. The problem is supply. 
 

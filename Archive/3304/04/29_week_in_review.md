@@ -33,9 +33,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Simguru Pranav Antal, leader of Utopia, has addressed The possibility that humanity may lose the conflict against the Thargoids. In a public statement, he suggested that the Sim-Archive – a digital repository of human memories – could be the key to humanity’s survival, should the Thargoids overwhelm the human race. 

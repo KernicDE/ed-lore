@@ -4,8 +4,6 @@ title: GalNet Galactic War Report
 slug: galnet_galactic_war_report
 date: '3301-02-28'
 source: GitHub
-entities:
-- Denton Patreus
 groups:
 - Federal Navy
 - Imperial Senate
@@ -18,15 +16,13 @@ topics:
 - ship
 - trade
 - war
+entities:
+- Denton Patreus
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist
-  policies.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
 legacy_weight: 3
 significance: medium
 ---
-
-GalNet Galactic War Report
-
 
 The ongoing conflict between The Federal Navy and the Polahukuna Raiders has taken an unexpected turn This weekend, following reports that the Federation have begun work on a new Farragut class battlecruiser in the shipyards aboard Hudson Dock. For their part, the Polahukuna raiders appear to have returned home to lick their wounds. However, reports are coming in from BD+03 2338 that traders bringing supplies to Hudson Dock are coming under heavy fire from a band of imperial mercenaries known As the East India Company.The Imperial Senate is denying any knowledge of the attacks. 
 

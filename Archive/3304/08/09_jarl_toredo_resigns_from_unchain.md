@@ -27,9 +27,6 @@ related_uuids:
 - 6ffabb44-eae5-526b-a1c5-4fdd043a1db8
 ---
 
-Jarl Toredo Resigns from Unchain
-
-
 Campaigner Jarl Toredo has resigned from Unchain, The anti-slavery organisation he founded With Princess Aisling Duval. 
 
 Unchain’s press office released This statement: 

@@ -4,6 +4,11 @@ title: Rebuilding and Renewal After the Thargoid War
 slug: rebuilding_and_renewal_after_the_thargoid_war
 date: '3311-06-18'
 source: API
+summary: Six months after the Battle for Sol, communities are rebuilding and displaced settlers are joining colonisation efforts. A memorial beacon near the Titan Cocijo wreckage draws visitors, while Commodore Morayo Orina honours the lost at a Sol memorial service.
+player_impact: Independent pilots engaged the alien threat during the war. Displaced settlers joined colonisation efforts, including at the Senenmut station in HIP 18085 commissioned by CMDR StellarCartographer.
+persons:
+- Commodore Morayo Orina
+- CMDR StellarCartographer
 groups:
 - Aegis
 - Federal Navy
@@ -15,15 +20,10 @@ topics:
 - construction
 - colonisation
 - war
-persons:
-- Commodore Morayo Orina
-- CMDR StellarCartographer
 technologies:
 - Titan Cocijo
 - memorial beacon
-player_impact: "Independent pilots engaged the alien threat during the war. Displaced settlers joined colonisation efforts, including at the Senenmut station in HIP 18085 commissioned by CMDR StellarCartographer."
-summary: "Six months after the Battle for Sol, communities are rebuilding and displaced settlers are joining colonisation efforts. A memorial beacon near the Titan Cocijo wreckage draws visitors, while Commodore Morayo Orina honours the lost at a Sol memorial service."
-modern_impact: "Commodore Orina's statement — 'We honour those we lost by choosing to live boldly' — encapsulates the post-war ethos driving the colonisation boom. The Senenmut station in HIP 18085, commissioned by a pilot, exemplifies how the pilot community directly shapes frontier development. This colonisation wave creates the infrastructure and mindset that makes the Trailblazer initiative possible."
+modern_impact: Commodore Orina's statement — 'We honour those we lost by choosing to live boldly' — encapsulates the post-war ethos driving the colonisation boom. The Senenmut station in HIP 18085, commissioned by a pilot, exemplifies how the pilot community directly shapes frontier development. This colonisation wave creates the infrastructure and mindset that makes the Trailblazer initiative possible.
 legacy_weight: 5
 significance: high
 related_uuids: []

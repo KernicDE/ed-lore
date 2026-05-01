@@ -22,9 +22,6 @@ related_uuids:
 - 4f8a3775-4a85-53e6-b107-a1946b857d3a
 ---
 
-Author Abandons Interstellar Book Tour
-
-
 Celebrated author Olav Redcourt has abandoned The promotional tour for his latest novel, halfway through a two-month circuit of fifty systems. 
 
 Reporters managed to catch Mr Redcourt as he was storming off the passenger liner where he has spent the last four weeks. He told them: 

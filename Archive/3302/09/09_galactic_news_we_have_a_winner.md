@@ -12,16 +12,13 @@ groups:
 - Sports Zeta Weekly
 locations:
 - Chi Orionis
-technologies: []
 topics:
 - sport
+technologies: []
 modern_impact: Competitive arena combat events continue to draw pilot participation and galactic viewership.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: We Have a Winner!
-
 
 A pilot by The name of Commander Falchion has won the Melee Masters arena competition. 
 

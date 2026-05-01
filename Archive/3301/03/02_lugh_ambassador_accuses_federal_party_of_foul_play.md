@@ -16,14 +16,10 @@ topics:
 - conspiracy
 arc_id: lugh-independence
 arc_chapter: Diplomatic escalation
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Lugh Ambassador Accuses Federal Party of Foul Play
-
 
 Lugh   Ambassador Éamonn Uí Laoghire, The leading spokesman for The Crimson State Group, held his third and final rally on Alioth today. 
 

@@ -24,9 +24,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Battle Royale
-
-
 Don Antonaci, leader of The pirate organisation Wolf 359, has called on the galaxy's pirates to assemble for a faceoff against the Hutton Orbital Truckers and their allies. The pirate has proposed an 'anything goes' battle royale in the Wyrd system. 
 
 Minelayers, thermal weapons, torpedo boats, long-range sniper ships – Antonaci is asking participants to bring their most devastating equipment to the ice rings, and to destroy any truckers they encounter. The truckers, meanwhile, have promised to send their finest to oppose Antonaci. 

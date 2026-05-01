@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Growing Independence
-
-
 When The S'jett family was driven out of Its home system by Federal-Imperial conflict, it established a new an Independent faction in HIP 104292 – the Kuun-Lan. 
 
 Since then, the Kuun-Lan has gone from strength to strength. But while its new home has become a haven for miners and traders, One thing is Missing: a reliable source of food. The Kuun-Lan has therefore announced plans to establish An agricultural network in HIP 104292, and is calling on the galactic community for support. 

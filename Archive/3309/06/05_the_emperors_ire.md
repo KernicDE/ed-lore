@@ -4,7 +4,14 @@ title: The Emperor’s Ire
 slug: the_emperors_ire
 date: '3309-06-05'
 source: API
-entities: []
+summary: Emperor Arissa responds to Hadrian Duval's criticism of her Aegis contribution, reminding him of her mercy after the Nova Imperium affair and asserting her authority.
+player_impact: Not specifically mentioned — this is a political report.
+persons:
+- Arissa Lavigny-Duval
+- Hadrian Duval
+- Petra Torval
+- Anders Blaine
+- Aisling Duval
 groups:
 - Imperial Navy
 locations:
@@ -13,16 +20,9 @@ locations:
 topics:
 - succession
 - politics
+entities: []
 arc_id: null
-modern_impact: "Arissa's pointed reference — 'some may recall when his Nova Imperium extremists once threatened to trigger widescale civil unrest. I chose to spare him from the fate of his co-conspirators' — is a direct threat. Her mention that 'Princess Aisling argued for with the same passion as she showed for the Aegis project' links Aisling to both mercy and military cooperation. Blaine's clarification — 'Hadrian Duval is not officially a prince of the royal family, but is nevertheless considered a loyal ally for as long as it pleases the Emperor' — is chillingly conditional."
-persons:
-- Arissa Lavigny-Duval
-- Hadrian Duval
-- Petra Torval
-- Anders Blaine
-- Aisling Duval
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "Emperor Arissa responds to Hadrian Duval's criticism of her Aegis contribution, reminding him of her mercy after the Nova Imperium affair and asserting her authority."
+modern_impact: Arissa's pointed reference — 'some may recall when his Nova Imperium extremists once threatened to trigger widescale civil unrest. I chose to spare him from the fate of his co-conspirators' — is a direct threat. Her mention that 'Princess Aisling argued for with the same passion as she showed for the Aegis project' links Aisling to both mercy and military cooperation. Blaine's clarification — 'Hadrian Duval is not officially a prince of the royal family, but is nevertheless considered a loyal ally for as long as it pleases the Emperor' — is chillingly conditional.
 legacy_weight: 4
 significance: high
 ---

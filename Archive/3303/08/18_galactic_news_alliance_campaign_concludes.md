@@ -4,10 +4,7 @@ title: Galactic News  Alliance Campaign Concludes
 slug: galactic_news_alliance_campaign_concludes
 date: '3303-08-18'
 source: GitHub
-summary: The Alliance announces the successful conclusion of its research initiative,
-  with huge quantities of resources delivered to Neville Horizons. The campaign also
-  received support from independent combat pilots who defended spaceways and traders
-  contributing to the initiative.
+summary: The Alliance announces the successful conclusion of its research initiative, with huge quantities of resources delivered to Neville Horizons. The campaign also received support from independent combat pilots who defended spaceways and traders contributing to the initiative.
 player_impact: None
 persons: []
 groups:
@@ -15,22 +12,18 @@ groups:
 locations:
 - Kaushpoos
 - Neville Horizons
-technologies: []
 topics:
 - alien contact
 - research
 - ship
 - trade
 - war
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Alliance Campaign Concludes
-
 
 The Alliance has announced that Its new research initiative has been enthusiastically received by the galactic community. Huge quantities of resources were delivered to Neville Horizons over the past week, allowing the Alliance to start constructing a range of instruments expressly designed to analyse Thargoid material. The campaign also received the support of Hundreds of Independent combat pilots, who took to their ships to protect the spaceways and defend the traders contributing to the initiative. 
 

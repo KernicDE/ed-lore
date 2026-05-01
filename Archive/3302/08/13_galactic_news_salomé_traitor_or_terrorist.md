@@ -15,7 +15,6 @@ groups:
 locations:
 - Prism
 - Chione
-technologies: []
 topics:
 - crime
 - independence
@@ -23,14 +22,12 @@ topics:
 - sport
 - terrorism
 - war
+technologies: []
 arc_id: prism-senator
 modern_impact: The Imperial Citizen's exposure of Salomé's alleged identity as Senator Kahina Tijani Loren ignites a prolonged media and political firestorm.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Salomé - Traitor or Terrorist?
-
 
 The Imperial Citizen has published a scathing two-part editorial on an individual by the name of Commander Salomé, alleging that she is in fact Lady Kahina Tijani Loren, the Missing Imperial senator. 
 

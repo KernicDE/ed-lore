@@ -18,9 +18,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Temporary Tax Freeze Announced
-
-
 A galaxy-wide suspension of revenue tax has been announced. All three superpowers are supporting The freeze, Which will see profit margins for everyday commodities increase. 
 
 The temporary alleviation will allow fiscal authorities to complete a much-needed evaluation of galactic taxation. 

@@ -4,6 +4,14 @@ title: Archon Delaine Counters Mahon’s Rebuke
 slug: archon_delaine_counters_mahons_rebuke
 date: '3309-03-09'
 source: API
+summary: Archon Delaine rejects Mahon's accusations, hinting at Sirius Corporation and Rackham Capital Investments connections to his operations in the California Nebula.
+player_impact: Not specifically mentioned — this is a political and media report.
+persons:
+- Archon Delaine
+- Edmund Mahon
+- Flint Lafosse
+- Li Yong-Rui
+- Zachary Rackham
 groups:
 - Kumo Crew
 - Sirius Corporation
@@ -15,15 +23,7 @@ topics:
 - corporate expansion
 - crime
 - piracy
-modern_impact: "Delaine's cryptic response — 'The Kumo Crew migrated into the nebula with help from some mutual friends of ours... people you now consider allies' — is a bombshell. Lafosse's investigative journalism — connecting Kavanagh Spaceframes (now Rackham Spaceframes), Sirius Corporation subsidiaries, and the Kumo Crew's station construction — weaves a conspiracy. The implication that 'the trillionaire and the pirates working together' foreshadows the Calico Zack scandal."
-persons:
-- Archon Delaine
-- Edmund Mahon
-- Flint Lafosse
-- Li Yong-Rui
-- Zachary Rackham
-player_impact: "Not specifically mentioned — this is a political and media report."
-summary: "Archon Delaine rejects Mahon's accusations, hinting at Sirius Corporation and Rackham Capital Investments connections to his operations in the California Nebula."
+modern_impact: Delaine's cryptic response — 'The Kumo Crew migrated into the nebula with help from some mutual friends of ours... people you now consider allies' — is a bombshell. Lafosse's investigative journalism — connecting Kavanagh Spaceframes (now Rackham Spaceframes), Sirius Corporation subsidiaries, and the Kumo Crew's station construction — weaves a conspiracy. The implication that 'the trillionaire and the pirates working together' foreshadows the Calico Zack scandal.
 legacy_weight: 2
 significance: low
 related_uuids:

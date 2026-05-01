@@ -4,6 +4,8 @@ title: Proteus Wave Approaches Completion
 slug: proteus_wave_approaches_completion
 date: '3308-07-21'
 source: API
+summary: Salvation announces the Proteus Wave core mechanism will be fully constructed in one week, with new Federal and Imperial capital ships arriving in HIP 22460 to defend against escalating Thargoid forces.
+player_impact: Not specifically mentioned — this is a strategic announcement.
 persons:
 - Salvation
 groups:
@@ -19,16 +21,14 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-summary: Salvation announces the Proteus Wave core mechanism will be fully constructed in one week, with new Federal and Imperial capital ships arriving in HIP 22460 to defend against escalating Thargoid forces.
-player_impact: Not specifically mentioned — this is a strategic announcement.
 modern_impact: Salvation's claim that the Proteus Wave would drive the Thargoids out of the core systems forever set impossibly high expectations, making the eventual catastrophic failure all the more devastating for human morale.
-related_uuids:
-- 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
 legacy_weight: 5
 significance: high
+related_uuids:
+- 1b3c4f7c-bb24-5a8c-aeed-4936f7b5faea
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 New Federal and Imperial capital ships have arrived in HIP 22460 as Azimuth Biotech’s operation nears its conclusion.
 The following message was provided to all newsfeeds for public broadcast:
 “This is Salvation. The Proteus Wave’s core mechanism will be fully constructed one week from today. We will then begin integration with the surface site on HIP 22460 10b, using designs of mine which are unique to the superweapon’s operation.”

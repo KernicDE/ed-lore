@@ -22,9 +22,6 @@ related_uuids:
 - 5e8fd2aa-d3c0-5f7b-ace3-fb01158de7e6
 ---
 
-Cobra Wing Campaign Concludes
-
-
 A spokesperson for The Cobra Wing has announced that Its campaign to build a research outpost in the Ebor system has been enthusiastically received by the galactic community. Scores of pilots supported the campaign by delivering commodities to Morris Enterprise and eliminating agitators in Ebor, thereby ensuring the safety of traders. 
 
 A spokesperson for the Cobra Wing released The following statement: 

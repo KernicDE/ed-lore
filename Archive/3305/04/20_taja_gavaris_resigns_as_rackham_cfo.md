@@ -4,6 +4,8 @@ title: Taja Gavaris Resigns as Rackham CFO
 slug: taja_gavaris_resigns_as_rackham_cfo
 date: '3305-04-20'
 source: GitHub
+summary: Rackham Capital Investments CFO Taja Gavaris unexpectedly resigns and emigrates from Federal space along with loyal employees, with journalist Bryanna Blanco alleging Rackham used imposter FIA agents to blackmail her.
+player_impact: None — background corporate report.
 persons:
 - Taja Gavaris
 - Bryanna Blanco
@@ -15,8 +17,6 @@ topics:
 - corporate expansion
 - crime
 - piracy
-summary: Rackham Capital Investments CFO Taja Gavaris unexpectedly resigns and emigrates from Federal space along with loyal employees, with journalist Bryanna Blanco alleging Rackham used imposter FIA agents to blackmail her.
-player_impact: None — background corporate report.
 modern_impact: Gavaris's departure removed a key rival to Rackham's control of his company, reinforcing suspicions that the ex-pirate-turned-CEO would stop at nothing to eliminate threats to his empire.
 legacy_weight: 3
 significance: medium
@@ -24,9 +24,6 @@ related_uuids:
 - 7e344756-b661-5e26-89a2-00f39e85a614
 - 277328ee-e842-5d91-bda6-b028274dbd45
 ---
-
-Taja Gavaris Resigns as Rackham CFO
-
 
 Taja Gavaris, The CFO of Rackham Capital Investments, has unexpectedly resigned from her position and subsequently emigrated from Federal space. 
 

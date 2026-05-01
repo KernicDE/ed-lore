@@ -9,14 +9,10 @@ locations:
 topics:
 - corporate expansion
 - festival
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
+modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---
-
-Kui Hsien and Quivira Refuse Raise in Rates
-
 
 Last week it was announced that Silver Universal PLC, The financial branch of The military corporate conglomerate led by Senator Patreus, would be raising interest rates on all outstanding loan agreements. 
 

@@ -24,9 +24,6 @@ related_uuids:
 - 31ff0234-888c-5bfa-9364-d34905a8c02e
 ---
 
-Manatee Megaship Initiative Concludes
-
-
 The Libertas Cooperative has announced that Its appeal for commodities has reached a successful conclusion, having received an overwhelming response from the galactic community. Land enrichment systems, animal monitors, aquaponic systems and marine equipment were delivered to Ocrinox's Orbiter over the past week, allowing construction of a megaship where manatees will be farmed. 
 
 With the initiative at an end, Progenitor Selena Conley of the Libertas Cooperative issued The following statement: 

@@ -15,18 +15,15 @@ locations:
 - Njambalba
 - Clauss Port
 - Santa Muerte
-technologies: []
 topics:
 - corporate expansion
 - ship
 - trade
+technologies: []
 modern_impact: Seasonal community appeal demonstrating the role of independent pilots in galactic commerce and charitable distribution.
 legacy_weight: 2
 significance: low
 ---
-
-Clauss Incorporated Issues Appeal
-
 
 The Clauss Incorporated organisation, a galaxy-wide distributor of luxury commodities, has issued a public appeal for Special Gifts. The company CEO, Nicolas St Clauss, has released a statement to the media, Which is reprinted in full below: 
 

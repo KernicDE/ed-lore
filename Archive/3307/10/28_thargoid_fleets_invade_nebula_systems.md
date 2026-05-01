@@ -4,30 +4,26 @@ title: Thargoid Fleets Invade Nebula Systems
 slug: thargoid_fleets_invade_nebula_systems
 date: '3307-10-28'
 source: API
-groups:
-- Aegis
-- Taurus Mining Ventures
+summary: Large Thargoid fleets attack multiple systems in the Pleiades, Witch Head, California, and Coalsack Nebulas. Aegis is unable to assist due to the operational shutdown from the public inquiry.
+player_impact: Independent pilots and anti-xeno squadrons defended invaded systems and evacuated survivors from damaged starports.
 persons:
 - Aden Tanner
 - Salvation
+groups:
+- Aegis
+- Taurus Mining Ventures
 topics:
 - alien contact
 - investigation
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-summary: Large Thargoid fleets attack multiple systems in the Pleiades, Witch Head,
-  California, and Coalsack Nebulas. Aegis is unable to assist due to the operational
-  shutdown from the public inquiry.
-player_impact: Independent pilots and anti-xeno squadrons defended invaded systems and
-  evacuated survivors from damaged starports.
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Several inhabited systems in The Pleiades and Witch Head Nebulas have come under attack by large numbers of Thargoid ships.
 An emergency has been declared by the Authorities in multiple systems including Asterope, Shenve and Onoros. Thargoid vessels have again targeted starports, With casualties estimated in the Many thousands.
 Increased Thargoid activity has also been reported in the California and Coalsack Nebulas. Independent pilots and anti-xeno squadrons are moving to defend the invaded systems and evacuate survivors from damaged starports.

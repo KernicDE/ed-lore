@@ -27,9 +27,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Breakfast at Tranquillity
-
-
 The people of The Leesti system are not the only ones celebrating This week. The Guardians of Tranquillity have announced plans to host a food festival in the Tarach Tor system, prompting criticism from Independent Leesti for Equality, Which is coordinating a similar event in Leesti. The Guardians of Tranquillity have strenuously denied that the event is an attempt to upstage Independent Leesti for Equality. 
 
 Guardians of Tranquillity spokesperson General Hunter O'Brien released The following statement: 

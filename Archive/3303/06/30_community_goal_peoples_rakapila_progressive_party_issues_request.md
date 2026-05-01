@@ -16,9 +16,6 @@ technologies: []
 modern_impact: Demonstrates how local factions use commodity drives to manage population-driven economic demands.
 ---
 
-Community Goal: People’s Rakapila Progressive Party Issues Request
-
-
 Following a population spike in Rakapila, The People’s Rakapila Progressive Party has issued a request for commodities in order to stimulate the system’s economy. 
 
 The organisation has placed an open order for domestic appliances, consumer technology and clothing, and has promised to reward pilots who deliver these commodities to Stone Enterprise in the Rakapila system. The organisation has also placed a kill order on all ships on Its wanted list, to ensure that those delivering material to Stone Enterprise can do so safely. 

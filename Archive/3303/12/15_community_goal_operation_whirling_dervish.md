@@ -25,9 +25,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Community Goal: Operation Whirling Dervish
-
-
 The GalCop Colonial Defence Commission has embarked on a campaign to establish a new Coriolis starport in the Ogmar system. The campaign – dubbed Operation Whirling Dervish – is designed to support Further expansion in the Colonia region. 
 
 Lou Brady, a spokesperson for the organisation, released The following statement: 

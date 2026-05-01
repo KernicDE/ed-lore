@@ -14,21 +14,17 @@ locations:
 - Procyon
 - Davy Dock
 - Sirius
-technologies: []
 topics:
 - corporate expansion
 - independence
 - research
 - ship
+technologies: []
 arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
-  with implications for hyperdrive safety.
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery with implications for hyperdrive safety.
 legacy_weight: 3
 significance: medium
 ---
-
-The Search for the Antares
-
 
 3251 is remembered chiefly for the disappearance of the Antares, a technologically revolutionary passenger liner designed and built by the Sirius Corporation. The ship was supposed to usher In a new age in interplanetary travel, But the loss of the Vessel during Its maiden voyage tarnished the reputation of The Sirius Corporation and stalled the company's plans to develop Further superfast liners. 
 

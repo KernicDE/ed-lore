@@ -26,9 +26,6 @@ related_uuids:
 - 852906f2-b606-50ea-b4f4-d3bd4af8e4d3
 ---
 
-Survivors of The Far God
-
-
 Independent journalist Gethin Okonkwo has shared more details about his time With the Far God cult: 
 
 “After three months of living as a Far God worshipper, I’m now acclimatising to life as an ordinary citizen. There, I was known only as Third Witness of the Tenth Chapter, although that was more of a title than a name. Identical in Our robes, we were all nameless servants of the commune.” 

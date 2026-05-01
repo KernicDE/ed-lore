@@ -4,7 +4,10 @@ title: Pulse Wave Xeno Scanner Now Available
 slug: pulse_wave_xeno_scanner_now_available
 date: '3309-06-01'
 source: API
-entities: []
+summary: Aegis begins manufacturing the pulse wave xeno scanner after a successful resource campaign, enabling data collection on Thargoid Titans.
+player_impact: Pilots delivered ceramic composites, polymers, gallium and indium to the Rabh system.
+persons:
+- Alba Tesreau
 groups:
 - Aegis
 locations:
@@ -14,12 +17,9 @@ topics:
 - humanitarian
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's framing — 'the greatest scientific opportunity in a generation' — positions the Titans as objects of study, not just threats. Her belief that 'understanding the Thargoid species... is the only path to ending the war' reflects her scientific philosophy. The tri-superpower technician collaboration shows Aegis's unifying role."
-persons:
-- Alba Tesreau
-player_impact: "Pilots delivered ceramic composites, polymers, gallium and indium to the Rabh system."
-summary: "Aegis begins manufacturing the pulse wave xeno scanner after a successful resource campaign, enabling data collection on Thargoid Titans."
+modern_impact: Tesreau's framing — 'the greatest scientific opportunity in a generation' — positions the Titans as objects of study, not just threats. Her belief that 'understanding the Thargoid species... is the only path to ending the war' reflects her scientific philosophy. The tri-superpower technician collaboration shows Aegis's unifying role.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -28,7 +28,7 @@ related_uuids:
 - 54f3bb2e-703a-599b-8843-5dc902858042
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 An initiative in Rabh has enabled Aegis to begin manufacturing a module that gathers data about the Titans.
 Deliveries of ceramic composites, polymers, gallium and indium were immediately put to use mass-producing the pulse wave xeno scanner. Distribution is underway and rescue ships have already begun stocking the module.
 Professor Alba Tesreau, head of Aegis, released a statement:

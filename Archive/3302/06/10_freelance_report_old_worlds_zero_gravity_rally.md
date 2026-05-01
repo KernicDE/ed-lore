@@ -14,19 +14,16 @@ groups:
 locations:
 - Lave
 - Lave Station
-technologies: []
 topics:
 - construction
 - safety
 - ship
 - sport
+technologies: []
 modern_impact: Community celebration bringing pilots together for competitive racing events.
 legacy_weight: 1
 significance: low
 ---
-
-Freelance Report: Old Worlds Zero-Gravity Rally
-
 
 Starport personnel across The Lave cluster are preparing for an increase in traffic, as pilots from The Buckyball Racing Club and the Elite Racers compete in their latest event. The 'Old World Hustle', Which combines point-to-point rallies and zero-gravity aerobatics, runs from the 11th to the 19th of June 3302. 
 

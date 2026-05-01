@@ -15,18 +15,15 @@ groups:
 locations:
 - Jotunheim
 - Big Harry's Monkey Hangout
-technologies: []
 topics:
 - independence
 - trade
 - war
+technologies: []
 modern_impact: Revolutionary Jotunheim Resistance successfully repels the Autocracy of Jotunheim, preserving system independence with Halsey's support.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Conflict in Jotunheim Draws to a Close
-
 
 Authorities in Jotunheim have announced that The operation to drive the Autocracy of Jotunheim from the system has succeeded. 
 

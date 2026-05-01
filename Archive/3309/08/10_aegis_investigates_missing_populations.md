@@ -4,7 +4,12 @@ title: Aegis Investigates Missing Populations
 slug: aegis_investigates_missing_populations
 date: '3309-08-10'
 source: API
-entities: []
+summary: Aegis analysis reveals tens of millions of people are unaccounted for in Thargoid-occupied systems, suggesting a mass abduction programme.
+player_impact: Not specifically mentioned — this is a research report.
+persons:
+- Alba Tesreau
+- Zuri Afolayan
+- Ernesto Rios
 groups:
 - Aegis
 locations: []
@@ -12,14 +17,9 @@ topics:
 - humanitarian
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's careful framing — 'I am very conscious that this statement may be seen as alarmist and speculative' — shows scientific caution. The detail about Zuri Afolayan's data from Safeguard Interstellar gives the claim credibility. Rios's questions — 'Prisoners of war? Food for their young? Fuel for their biomechanical technology?' — capture public anxiety. His closing — 'in this instance I'm praying that is the case' — is a rare moment of personal vulnerability."
-persons:
-- Alba Tesreau
-- Zuri Afolayan
-- Ernesto Rios
-player_impact: "Not specifically mentioned — this is a research report."
-summary: "Aegis analysis reveals tens of millions of people are unaccounted for in Thargoid-occupied systems, suggesting a mass abduction programme."
+modern_impact: Tesreau's careful framing — 'I am very conscious that this statement may be seen as alarmist and speculative' — shows scientific caution. The detail about Zuri Afolayan's data from Safeguard Interstellar gives the claim credibility. Rios's questions — 'Prisoners of war? Food for their young? Fuel for their biomechanical technology?' — capture public anxiety. His closing — 'in this instance I'm praying that is the case' — is a rare moment of personal vulnerability.
 legacy_weight: 5
 significance: high
 related_uuids:

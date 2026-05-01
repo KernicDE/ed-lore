@@ -16,19 +16,15 @@ groups:
 locations:
 - Cayutorme
 - Adkins Port
-technologies: []
 topics:
 - ship
 - war
+technologies: []
 arc_id: cayutorme-conflict
-modern_impact: A significant military engagement testing the Empire's ability to project
-  force against organized criminal syndicates.
+modern_impact: A significant military engagement testing the Empire's ability to project force against organized criminal syndicates.
 legacy_weight: 3
 significance: medium
 ---
-
-Order Restored to Cayutorme
-
 
 After Several days of fighting between Imperial forces and The mercenaries of the Cayutorme Syndicate, order has been restored to the Cayutorme system. With the mercenary fleet defeated, the leaders of the Cayutorme Syndicate have petitioned for a ceasefire. Kyle Kurowski, the leader of the organisation, has not been seen since hostilities began. 
 

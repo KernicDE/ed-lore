@@ -4,6 +4,8 @@ title: Thief Strikes Again
 slug: thief_strikes_again
 date: '3305-02-14'
 source: GitHub
+summary: The infamous 'winking cat' art thief steals Rembrandt, Picasso and Zoe Okeke masterpieces from the Museum of Civilisation on Mars, replacing each with a winking cat image.
+player_impact: None — background crime report.
 persons:
 - Imogen Ryang
 - Kioko McGrath
@@ -14,15 +16,10 @@ locations:
 topics:
 - crime
 - culture
-summary: The infamous 'winking cat' art thief steals Rembrandt, Picasso and Zoe Okeke masterpieces from the Museum of Civilisation on Mars, replacing each with a winking cat image.
-player_impact: None — background crime report.
 modern_impact: The winking cat thief's escalating high-profile heists transformed the calling card into a popular anti-establishment cultural symbol, blurring the line between criminality and performance art.
 legacy_weight: 2
 significance: low
 ---
-
-Thief Strikes Again
-
 
 A number of invaluable art treasures have been stolen from The Museum of Civilisation on Mars. 
 

@@ -4,7 +4,8 @@ title: Kumo Crew Rebuffed after Anti-Xeno Campaign
 slug: kumo_crew_rebuffed_after_anti_xeno_campaign
 date: '3309-02-09'
 source: API
-entities: []
+summary: The Kumo Crew's defence of the California Nebula succeeds, but its attempt to seize control of local ports is repelled by communities and the Turner Research Group.
+player_impact: Pilots who contributed to the anti-xeno initiatives were reimbursed Thargoid combat bonds at The Mictlan in California Sector HR-W d1-28.
 persons:
 - Archon Delaine
 groups:
@@ -22,22 +23,16 @@ topics:
 - investigation
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-player_impact: "Pilots who contributed to the anti-xeno initiatives were reimbursed
-  Thargoid combat bonds at The Mictlan in California Sector HR-W d1-28."
-summary: "The Kumo Crew's defence of the California Nebula succeeds, but its attempt
-  to seize control of local ports is repelled by communities and the Turner Research Group."
-modern_impact: "The Pegasi Sentinel reported: \"There can be no doubt that Archon Delaine
-  takes the security of the California Nebula seriously.\" This encapsulates the
-  paradox of pirate syndicates providing genuine defence while exploiting the crisis
-  to expand criminal territory, a tension that local populations ultimately rejected."
-related_uuids:
-- 40d9b854-2973-5053-a42d-6955f8876544
+modern_impact: 'The Pegasi Sentinel reported: "There can be no doubt that Archon Delaine takes the security of the California Nebula seriously." This encapsulates the paradox of pirate syndicates providing genuine defence while exploiting the crisis to expand criminal territory, a tension that local populations ultimately rejected.'
 legacy_weight: 5
 significance: high
+related_uuids:
+- 40d9b854-2973-5053-a42d-6955f8876544
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A successful initiative to hold the California Nebula against Thargoid invasion has succeeded, for now at least.
 Systems recently invaded by Thargoid fleets were protected by a militia organised by the Kumo Council, the criminal syndicate’s ruling authority in the enclave. But an attempt to assume control of the region’s ports has been surprisingly repelled by opponents of Delaine.
 The Pegasi Sentinel reported on the situation:

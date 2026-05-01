@@ -36,9 +36,6 @@ related_uuids:
 - d1aacae5-010b-538a-9be7-f872eece9a07
 ---
 
-The Silence of Aisling Duval
-
-
 The date of Princess Aisling Duval’s wedding to Federal Ambassador Jordan Rochester has passed without comment from either party.  
 
 Entertainment journalist Solomon Helios discussed the situation: 

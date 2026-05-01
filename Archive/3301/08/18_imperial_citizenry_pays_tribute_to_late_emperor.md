@@ -4,6 +4,8 @@ title: Imperial Citizenry Pays Tribute to Late Emperor
 slug: imperial_citizenry_pays_tribute_to_late_emperor
 date: '3301-08-18'
 source: GitHub
+summary: Imperial citizens across the Empire are paying tribute to the late Emperor Hengist Duval. Local authorities have renamed landmarks and commissioned memorials. The Facece Empire Party commissioned a modernist sculpture of the Emperor atop a triumphal arch on Topaz. Pilots’ bars have become venues for debating Brendan Paul Darius’s motives and possible masterminds. The Office of Imperial Statistics reported a 16% increase in newborn males named Hengist since the Emperor’s death.
+player_impact: None
 persons:
 - Brendan Paul Darius
 - Stateira Starcloak Eleshenar
@@ -15,18 +17,11 @@ locations:
 - Topaz
 topics:
 - succession
-summary: Imperial citizens across the Empire are paying tribute to the late Emperor Hengist Duval. Local authorities have renamed landmarks and commissioned memorials. The Facece Empire Party commissioned a modernist sculpture of the Emperor atop a triumphal arch on Topaz. Pilots’ bars have become venues for debating Brendan Paul Darius’s motives and possible masterminds. The Office of Imperial Statistics reported a 16% increase in newborn males named Hengist since the Emperor’s death.
-player_impact: None
 modern_impact: Widespread public tribute to Emperor Hengist Duval demonstrates the deep affection of the Imperial citizenry.
 legacy_weight: 2
 significance: low
 ---
 
-Imperial Citizenry Pays Tribute to Late Emperor
-
-
-Imperial Citizenry Pays Tribute to Late Emperor 
- 
 Far from The Hall of Martyrs, Imperial citizens across The Empire have been paying tribute to the late Emperor. Many local system authorities have renamed landmarks and buildings in his honour, and a few have commissioned architects and artists to create new memorials in local capitals. The grandest of these designs has been commissioned by The Facece Empire Party on Topaz, featuring a modernist interpretation of the late Emperor sat atop a triumphal arch in The capital's main square. A statement released by the Facece Empire Party reads: "This minimalist sculpture will represent the spirit of the late Emperor, and all those who went before him, as a caretaker watching over the people". 
 
 Pilots’ bars have become more akin to literary salons of late, as commanders attempt to unravel the mystery behind Brendan Paul Darius' motives, and determine the existence of a possible mastermind behind the shocking assassination. 

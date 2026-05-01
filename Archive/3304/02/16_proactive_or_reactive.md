@@ -23,9 +23,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Proactive or Reactive?
-
-
 As the Thargoids continue to wreak havoc in The Pleiades, questions are being Asked about the lack of an effective military response. 
 
 Gianna Tachibana, an Imperial senator based in the Achenar system, offered The following assessment to The Imperial Herald: 

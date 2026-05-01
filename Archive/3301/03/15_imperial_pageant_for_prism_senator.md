@@ -11,14 +11,10 @@ topics:
 - festival
 - ship
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Imperial Pageant for Prism Senator
-
 
 In an apparent show of solidarity for The visiting Senator and in protest at her perceived shabby treatment at The hands of her Federation hosts, Dozens of independent Commanders have volunteered to escort Lady Kahina Tijani Loren's Imperial Courier through Federal space for the duration of her trip. 
 

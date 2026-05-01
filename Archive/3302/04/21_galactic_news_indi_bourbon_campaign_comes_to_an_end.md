@@ -23,9 +23,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: Indi Bourbon Campaign Comes to an End
-
-
 The United Epsilon Indi Flag has announced that Its campaign to decriminalise Indi Bourbon received the full support of the galactic community. Hundreds of pilots responded to the group's appeal for help, flooding Mansfield Orbiter With illegal rare liquors in protest against the Federal decision to restrict the sale of the popular bourbon. 
 
 Yulia 'The Needle' Kuriakova, a spokesperson for the organisation, released a brief statement: 

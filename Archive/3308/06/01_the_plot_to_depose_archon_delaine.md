@@ -4,7 +4,8 @@ title: The Plot to Depose Archon Delaine
 slug: the_plot_to_depose_archon_delaine
 date: '3308-06-01'
 source: API
-arc_id: null
+summary: Details emerge about Vidar Trask's failed coup against Archon Delaine, masterminded with Kay Volantyne of the Blue Viper Club dredger clan.
+player_impact: Pilots learned about the failed coup against Archon Delaine and the Blue Viper Club's involvement.
 persons:
 - Vidar Trask
 - Kay Volantyne
@@ -20,12 +21,11 @@ locations:
 topics:
 - engineering
 - narcotics
-player_impact: Pilots learned about the failed coup against Archon Delaine and the Blue Viper Club's involvement.
-summary: Details emerge about Vidar Trask's failed coup against Archon Delaine, masterminded with Kay Volantyne of the Blue Viper Club dredger clan.
-modern_impact: "The failed coup reveals the internal fragility of criminal syndicates and the enduring appeal of engineering upgrades to independent factions."
-related_uuids: []
+arc_id: null
+modern_impact: The failed coup reveals the internal fragility of criminal syndicates and the enduring appeal of engineering upgrades to independent factions.
 legacy_weight: 2
 significance: low
+related_uuids: []
 ---
 
 Further information has emerged regarding Vidar Trask’s failed attempt to take control of The Kumo Crew syndicate.

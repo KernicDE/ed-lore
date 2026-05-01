@@ -4,7 +4,13 @@ title: Emperor Arissa Ambushed in Cubeo System
 slug: emperor_arissa_ambushed_in_cubeo_system
 date: '3310-08-02'
 source: API
-entities: []
+summary: Emperor Arissa Lavigny-Duval survives an ambush on her convoy in Cubeo during a harvest festival, with Denton Patreus proposing increased security and the Kumo Crew later linked to the attack.
+player_impact: Not specifically mentioned — this is an Imperial Guard operation.
+persons:
+- Arissa Lavigny-Duval
+- Denton Patreus
+- Aisling Duval
+- Colm Tornquist
 groups:
 - Imperial Guard
 locations:
@@ -15,17 +21,9 @@ topics:
 - succession
 - politics
 - terrorism
+entities: []
 arc_id: null
-modern_impact: "The ambush on Arissa — 'a mission in which no participant expected to survive' — signals a new level of audacity from anti-Imperial forces. Patreus's statement that 'the Empire's traditional foes have nurtured their true ambitions in the shadow of the Thargoid conflict' frames domestic terrorism as exploiting wartime distraction. Aisling's condemnation as 'a regrettable act by the lost or desperate' shows her softer political positioning compared to Patreus's militarism."
-persons:
-- Arissa Lavigny-Duval
-- Denton Patreus
-- Aisling Duval
-- Colm Tornquist
-player_impact: "Not specifically mentioned — this is an Imperial Guard operation."
-summary: "Emperor Arissa Lavigny-Duval survives an ambush on her convoy in Cubeo during a harvest festival, with Denton Patreus proposing increased security and the Kumo Crew later linked to the attack."
-related_uuids:
-- eb7117e9-c478-530e-b12c-38fa277d62ac
+modern_impact: The ambush on Arissa — 'a mission in which no participant expected to survive' — signals a new level of audacity from anti-Imperial forces. Patreus's statement that 'the Empire's traditional foes have nurtured their true ambitions in the shadow of the Thargoid conflict' frames domestic terrorism as exploiting wartime distraction. Aisling's condemnation as 'a regrettable act by the lost or desperate' shows her softer political positioning compared to Patreus's militarism.
 legacy_weight: 5
 significance: high
 related_uuids:

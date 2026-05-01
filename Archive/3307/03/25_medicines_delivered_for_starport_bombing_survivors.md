@@ -4,7 +4,8 @@ title: Medicines Delivered for Starport Bombing Survivors
 slug: medicines_delivered_for_starport_bombing_survivors
 date: 3307-03-25
 source: API
-arc_id: nmla-terrorism
+summary: '*Pilots Federation ALERT* Safeguard Interstellar has successfully received medical supplies for civilians wounded during The NMLA terrorist attack.'
+player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Alioth
 - Duamta
@@ -33,9 +34,10 @@ topics:
 - corporate expansion
 - terrorism
 - war
-player_impact: Pilots followed these developments through GalNet reports.
-summary: "*Pilots Federation ALERT* Safeguard Interstellar has successfully received medical supplies for civilians wounded during The NMLA terrorist attack."
-modern_impact: "\"This atrocity is nothing less than a declaration of war.\" The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates."
+arc_id: nmla-terrorism
+modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - ba0ab37a-3135-52b4-a668-22e5ef0700b6
 - 6efd63d0-0d68-594f-8e75-b0c5df826485
@@ -43,11 +45,9 @@ related_uuids:
 - be3889fc-d42f-5494-b1d1-fdd9dcb4223f
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Safeguard Interstellar has successfully received medical supplies for civilians wounded during The NMLA terrorist attack.
 The bombing of nine starports across the Alliance, Empire and Federation left huge numbers of people injured, some With caustic burns due to Thargoid enzymes deployed by the explosives.
 Noel Beaumont, the aid organisation’s CEO, announced:

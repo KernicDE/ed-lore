@@ -18,14 +18,10 @@ topics:
 - research
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: The Mysterious Case of the Disappearing Meta-Alloys
-
 
 Last month, the eminent scientist Ishmael Palin issued an appeal for meta-alloys, the rare material produced by the 'barnacles' of the Pleiades Nebula. The request was enthusiastically received by the galactic community, But the professor's research into the meta-alloys was brought to an abrupt halt when he and his team disappeared en route to Maia b1ba. 
 

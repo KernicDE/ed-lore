@@ -4,6 +4,8 @@ title: Militaries Prepare for Further Thargoid Strikes
 slug: militaries_prepare_for_further_thargoid_strikes
 date: '3308-09-30'
 source: API
+summary: Vox Galactica's Ernesto Rios summarises the post-HIP 22460 military situation, detailing divergent superpower responses to the Thargoid withdrawal and the growing xeno-peace movement led by Joy Senne.
+player_impact: Not specifically mentioned — this is a news summary, though independent pilots are noted as critical defenders of systems lacking formal naval support.
 persons:
 - Ernesto Rios
 - Zachary Hudson
@@ -30,14 +32,7 @@ topics:
 - diplomacy
 - war
 arc_id: thargoid-contact
-summary: Vox Galactica's Ernesto Rios summarises the post-HIP 22460 military situation,
-  detailing divergent superpower responses to the Thargoid withdrawal and the growing
-  xeno-peace movement led by Joy Senne.
-player_impact: Not specifically mentioned — this is a news summary, though independent
-  pilots are noted as critical defenders of systems lacking formal naval support.
-modern_impact: The article captures the divergent strategic responses of all three superpowers
-  to Thargoid tactical evolution, while highlighting the growing political influence
-  of the xeno-peace movement.
+modern_impact: The article captures the divergent strategic responses of all three superpowers to Thargoid tactical evolution, while highlighting the growing political influence of the xeno-peace movement.
 legacy_weight: 5
 significance: high
 related_uuids:

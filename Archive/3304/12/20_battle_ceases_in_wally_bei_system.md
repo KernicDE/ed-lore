@@ -22,9 +22,6 @@ related_uuids:
 - 06d11692-9a08-5fe2-919f-fe95fd287157
 ---
 
-Battle Ceases in Wally Bei System
-
-
 The conflict between two opposing factions in the Wally Bei system has ended. The fleets of both Wally Bei Technical and the Traditional Wally Bei Constitution Party  were significantly reduced In a prolonged series of battles. 
 
 The leaders of both organisations issued a joint statement: 

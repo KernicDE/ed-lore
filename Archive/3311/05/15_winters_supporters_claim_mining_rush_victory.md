@@ -4,19 +4,19 @@ title: Winters' Supporters Claim Mining Rush Victory
 slug: winters_supporters_claim_mining_rush_victory
 date: '3311-05-15'
 source: API
+summary: A competitive mining boom in LP 855-34 concludes with Felicia Winters' supporters claiming victory over Yuri Grom's forces, demonstrating the Federation's industrial dominance.
+player_impact: Winters' pilots delivered the most platinum resources, ensuring LP 855-34's governing faction would meet its manifesto building projects. Rewards were collected at Rhea's Resilience for Winters supporters and The Undeniable for Grom supporters.
+persons:
+- Felicia Winters
+- Yuri Grom
 groups: []
 locations:
 - LP 855-34
 - Rhea
 topics:
 - war
-persons:
-- Felicia Winters
-- Yuri Grom
 technologies: []
-player_impact: "Winters' pilots delivered the most platinum resources, ensuring LP 855-34's governing faction would meet its manifesto building projects. Rewards were collected at Rhea's Resilience for Winters supporters and The Undeniable for Grom supporters."
-summary: "A competitive mining boom in LP 855-34 concludes with Felicia Winters' supporters claiming victory over Yuri Grom's forces, demonstrating the Federation's industrial dominance."
-modern_impact: "The victory statement — 'We showed that the Federation dominates all competitors in matters of industry!' — reinforces the narrative of Federal industrial supremacy that underpins Winters' power base. However, Grom's forceful response in the following week demonstrates that mining victories alone cannot secure lasting control."
+modern_impact: The victory statement — 'We showed that the Federation dominates all competitors in matters of industry!' — reinforces the narrative of Federal industrial supremacy that underpins Winters' power base. However, Grom's forceful response in the following week demonstrates that mining victories alone cannot secure lasting control.
 legacy_weight: 2
 significance: low
 related_uuids:

@@ -20,14 +20,10 @@ topics:
 - ship
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: Neutralising The Unknown Artefact Threat
-
 
 Professor Ishmael Palin has shocked medical personnel at Wilkes Orbital by returning to work only hours after he received the antidote to the Cerberus Plague. According to Palin's doctor, the professor was eager to talk to Lea Tantaga, the molecular chemist who recently developed a material capable of countering the Unknown Artefacts' self-repair mechanism. The scientists' conversation resulted in The following statement from Professor Palin: 
 

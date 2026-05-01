@@ -4,8 +4,6 @@ title: Prism Senator Continues to Woo Federation Residents
 slug: prism_senator_continues_to_woo_federation_residents
 date: '3301-03-17'
 source: GitHub
-entities:
-- Continues
 locations:
 - Mars
 - Prism
@@ -13,15 +11,13 @@ locations:
 topics:
 - diplomacy
 - ship
+entities:
+- Continues
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Prism Senator Continues to Woo Federation Residents
-
 
 Lady Kahina Tijani Loren's unofficial entourage has begun a tour of The outer gas giants in The Sol system. Hundreds of privately owned Federation-registered vessels have turned out to greet the Senator, in lieu of an official welcome, as she Continues her passage through the Sol system despite continued apathy from officials. 
 

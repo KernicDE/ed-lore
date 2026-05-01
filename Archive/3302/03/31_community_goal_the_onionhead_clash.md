@@ -24,9 +24,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: The Onionhead Clash
-
-
 The ongoing Federal campaign against Onionhead has taken a new turn With the appointment of an 'Onionhead tzar', who will assume overall responsibility for eliminating the drug from Federal space. Edward Bores, a seasoned government official, has assumed the role, promising to employ "targeted measures" in the fight against the illegal narcotic. 
 
 At a press event, Bores marked his appointment With the announcement of an innovative new campaign: 

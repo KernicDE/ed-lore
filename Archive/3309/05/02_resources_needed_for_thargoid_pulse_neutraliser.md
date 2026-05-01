@@ -4,7 +4,13 @@ title: Resources Needed for Thargoid Pulse Neutraliser
 slug: resources_needed_for_thargoid_pulse_neutraliser
 date: '3309-05-02'
 source: API
-entities: []
+summary: Aegis requests materials to mass-produce the Thargoid pulse neutraliser, a module enabling ships to penetrate Maelstrom energy waves, based on Guardian-Thargoid research by Ram Tah and Palin.
+player_impact: Pilots are asked to deliver cobalt, ion distributors and power converters to Clement Orbital in the YZ Ceti system.
+persons:
+- Alba Tesreau
+- Ram Tah
+- Professor Palin
+- Daniel Parry
 groups:
 - Aegis
 locations:
@@ -16,15 +22,9 @@ locations:
 topics:
 - alien contact
 - research
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's explanation — 'Their primary components are based on unclassified relics, which are created by interfacing Guardian artefacts with Thargoid surface sites' — shows the technological lineage. Parry's assessment — 'This is the most strategically significant breakthrough to date' — frames the module's importance. The pirate warning is a practical consideration for material transport."
-persons:
-- Alba Tesreau
-- Ram Tah
-- Professor Palin
-- Daniel Parry
-player_impact: "Pilots are asked to deliver cobalt, ion distributors and power converters to Clement Orbital in the YZ Ceti system."
-summary: "Aegis requests materials to mass-produce the Thargoid pulse neutraliser, a module enabling ships to penetrate Maelstrom energy waves, based on Guardian-Thargoid research by Ram Tah and Palin."
+modern_impact: Tesreau's explanation — 'Their primary components are based on unclassified relics, which are created by interfacing Guardian artefacts with Thargoid surface sites' — shows the technological lineage. Parry's assessment — 'This is the most strategically significant breakthrough to date' — frames the module's importance. The pirate warning is a practical consideration for material transport.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,7 +34,7 @@ related_uuids:
 - 75959975-677e-5ef0-a638-99ecddb6c873
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Aegis has requested materials in the YZ Ceti system to mass-produce a defence for ships entering the Maelstroms.
 Professor Alba Tesreau, head of the tri-superpower agency, announced the initiative at a press conference:
 “Final tests have been conducted on the Thargoid pulse neutraliser, which offers ships a brief window of insulation from the energy wave encountered inside a Maelstrom. Their primary components are based on unclassified relics, which are created by interfacing Guardian artefacts with Thargoid surface sites. Ram Tah and Professor Palin have donated some of their research supplies to this project.”

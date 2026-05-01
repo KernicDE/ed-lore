@@ -23,8 +23,6 @@ related_uuids:
 - db044a6e-332e-5023-8f20-a1c27974d897
 - 22b7257a-3510-5e0b-ac8c-3623884764d0
 ---
-Thargoid Assault on The Deciat System
-
 
 An emergency report from Aegis confirms that the Thargoids have returned to the core systems With an incursion into the Deciat system. 
 

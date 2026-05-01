@@ -13,17 +13,14 @@ locations:
 - Mu Koji
 - Kalana
 - Bujold Enterprise
-technologies: []
 topics:
 - humanitarian
 - trade
+technologies: []
 modern_impact: The Mu Koji refugee crisis exposes the humanitarian cost of superpower proxy wars and galvanises independent relief efforts.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Aid for The Mu Koji Refugees
-
 
 Earlier This month, the Mu Koji system was engulfed in the ongoing conflict between the Empire and the Federation, As the superpowers staged rival operations to secure enemy intelligence. 
 

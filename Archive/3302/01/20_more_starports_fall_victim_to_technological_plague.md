@@ -4,6 +4,8 @@ title: More Starports Fall Victim to Technological Plague
 slug: more_starports_fall_victim_to_technological_plague
 date: '3302-01-20'
 source: GitHub
+summary: The technological plague has spread to 22 systems, with Ackerman Market in Eravate, von Bellingshausen Port in Almar, and Haack Gateway in Halbangaay being the latest starports to suspend all services except docking and shipyard access. A complete list of affected stations is provided.
+player_impact: Pilots should check the list of affected starports before traveling, as many stations across inhabited space have suspended services. Alternative stations should be used for trade, repair, and other services.
 locations:
 - Eravate
 - Almar
@@ -48,15 +50,10 @@ locations:
 - Weyn Dock
 topics:
 - construction
-summary: The technological plague has spread to 22 systems, with Ackerman Market in Eravate, von Bellingshausen Port in Almar, and Haack Gateway in Halbangaay being the latest starports to suspend all services except docking and shipyard access. A complete list of affected stations is provided.
-player_impact: Pilots should check the list of affected starports before traveling, as many stations across inhabited space have suspended services. Alternative stations should be used for trade, repair, and other services.
 modern_impact: Documents the accelerating spread of the technological plague across inhabited space.
 legacy_weight: 2
 significance: low
 ---
-
-More Starports Fall Victim to Technological Plague
-
 
 Authorities in Eravate, Almar and Halbangaay have confirmed that theirs are The latest systems to experience mysterious technical issues, bringing the total number of systems affected by what some are calling 'the technological plague' to 22. All services apart from docking and shipyard access have been Suspended at Ackerman Market in Eravate, von Bellingshausen Port in Almar and Haack Gateway in Halbangaay. A complete list of affected stations follows. 
 

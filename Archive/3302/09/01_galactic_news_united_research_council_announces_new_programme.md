@@ -24,9 +24,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: United Research Council Announces New Programme
-
-
 The United Research Council, One of the galaxy's largest Independent scientific organisations, has announced an ambitious new research programme. 
 
 The programme, Which is expected to last approximately six weeks, will initially encompass all systems within a 30 light-year radius of the Coritab, Darian, Freng and Lunduwalaya systems. Other systems may be added to the list As the programme progresses. 

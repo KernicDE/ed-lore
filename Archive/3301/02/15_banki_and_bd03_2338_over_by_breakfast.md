@@ -4,24 +4,20 @@ title: Banki and BD+03 2338   Over by Breakfast!
 slug: banki_and_bd03_2338_over_by_breakfast
 date: '3301-02-15'
 source: GitHub
-entities:
-- Halsey might be facing
-- Smeaton
 locations:
 - Banki
 topics:
 - independence
 - terrorism
 - war
+entities:
+- Halsey might be facing
+- Smeaton
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---
-
-Banki and BD+03 2338 - Over by Breakfast!
-
 
 In a speech delivered from Navy Headquarters, Admiral Vincent has expressed his pleasure over The progress being made by Federal Forces engaged in The reclamation of Banki and BD+03 2338. 
 

@@ -23,9 +23,6 @@ related_uuids:
 - 51c4c96c-e5de-5772-adb0-4b0d9d2e8c96
 ---
 
-Hostilities in Loha Conclude
-
-
 The conflict between two rival factions in the Loha system has now come to an end. 
 
 Karleen Troy, freelance warzone reporter, delivered a report for the Vox Galactica news service: 

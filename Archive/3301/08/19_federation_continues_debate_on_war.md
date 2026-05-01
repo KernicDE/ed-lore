@@ -4,6 +4,8 @@ title: Federation Continues Debate on War
 slug: federation_continues_debate_on_war
 date: '3301-08-19'
 source: GitHub
+summary: Dissent is growing in Federation Congress over the Pegasi sector. Congressman McRand argued the Federation looks feckless tolerating lawlessness in its sphere, while Congresswoman Faye warned against joining the same war as the Empire, saying she trusts Empire pilots little more than Archon Delaine. Over 140 Federation systems and 89 billion citizens are under Kumo Crew control. The debate over a more active stance continues.
+player_impact: Federation pilots should monitor Congressional decisions regarding the Pegasi Pirate War. A more active Federal stance could create new combat and diplomatic opportunities.
 persons:
 - Zonr
 - Archon Delaine
@@ -18,18 +20,11 @@ topics:
 - piracy
 - war
 arc_id: kumo-crew-rise
-summary: Dissent is growing in Federation Congress over the Pegasi sector. Congressman McRand argued the Federation looks feckless tolerating lawlessness in its sphere, while Congresswoman Faye warned against joining the same war as the Empire, saying she trusts Empire pilots little more than Archon Delaine. Over 140 Federation systems and 89 billion citizens are under Kumo Crew control. The debate over a more active stance continues.
-player_impact: Federation pilots should monitor Congressional decisions regarding the Pegasi Pirate War. A more active Federal stance could create new combat and diplomatic opportunities.
 modern_impact: Federal political debate over whether to intervene in the Pegasi Pirate War against Archon Delaine.
 legacy_weight: 3
 significance: medium
 ---
 
-Federation Continues Debate on War
-
-
-Federation Continues Debate on War 
- 
 Dissent is growing within Federation congress over The situation in The Pegasi sector. Though Many view the Pegasi Pirate War as a chance to let the Empire waste their resources, a growing contingent is becoming frustrated With the Federation’s lack of response. 
 
 "Tolerating such rampant lawlessness in Our sphere of influence makes us look increasingly feckless. If we don’t react With a show of force, it’s an open invitation for Every would-be warlord to subjugate Federation space”, Congressman McRand argued in congress today. 

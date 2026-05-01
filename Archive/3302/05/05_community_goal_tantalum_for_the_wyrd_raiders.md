@@ -19,9 +19,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Tantalum for The Wyrd Raiders
-
-
 The Wyrd Raiders may not be widely known outside the Wyrd system, but for Several years it has been One of the most successful commercial enterprises in Its region of space, enjoying profitable relationships With an array of partners. Now, the organisation has issued an appeal to the galactic community for help in compiling an order of tantalum for an unnamed party. 
 
 A spokesperson for the organisation released a brief statement to the media: 

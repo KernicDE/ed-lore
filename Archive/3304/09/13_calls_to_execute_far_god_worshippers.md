@@ -27,9 +27,6 @@ related_uuids:
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
-Calls to Execute Far God Worshippers
-
-
 Juanita Bishop has called on Federal Congress to make Thargoid worship a capital crime, and for all members of The Far God cult to be executed. 
 
 Addressing a rally during her congressional campaign, Mrs Bishop stated: 

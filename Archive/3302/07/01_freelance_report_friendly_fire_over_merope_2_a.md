@@ -4,6 +4,13 @@ title: Freelance Report  Friendly Fire over Merope 2 A
 slug: freelance_report_friendly_fire_over_merope_2_a
 date: '3302-07-01'
 source: GitHub
+summary: A Federal Auxiliary Navy captain flying an Asp Explorer was shot down by Federal vessels above Merope 2 A near a barnacle site. Rescue teams from Obsidian Orbital recovered the slightly injured pilot, and the Federal Auxiliary Navy announced a formal inquiry.
+player_impact: None
+persons:
+- Admiral Maxton Price
+groups:
+- Federal Auxiliary Navy
+- Federation
 locations:
 - Merope
 - Obsidian Orbital
@@ -13,28 +20,14 @@ topics:
 - investigation
 - ship
 - war
-arc_id: barnacle-meta-alloy
-modern_impact: Reveals early military tension around barnacle sites in the Pleiades
-  as both superpowers move to control meta-alloy sources.
-legacy_weight: 5
-significance: high
-summary: A Federal Auxiliary Navy captain flying an Asp Explorer was shot down by
-  Federal vessels above Merope 2 A near a barnacle site. Rescue teams from Obsidian
-  Orbital recovered the slightly injured pilot, and the Federal Auxiliary Navy announced
-  a formal inquiry.
-player_impact: None
-persons:
-- Admiral Maxton Price
-groups:
-- Federal Auxiliary Navy
-- Federation
 technologies:
 - Asp Explorer
 - Farragut Battle Cruiser
+arc_id: barnacle-meta-alloy
+modern_impact: Reveals early military tension around barnacle sites in the Pleiades as both superpowers move to control meta-alloy sources.
+legacy_weight: 5
+significance: high
 ---
-
-Freelance Report: Friendly Fire over Merope 2 A
-
 
 Despite assertions from Admiral Maxton Price that Federal ships in Merope would not initiate conflict, a recent incident report tells a different story. 
 

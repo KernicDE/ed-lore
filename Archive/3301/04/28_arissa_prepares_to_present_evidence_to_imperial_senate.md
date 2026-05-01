@@ -17,9 +17,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Arissa Prepares to Present Evidence to Imperial Senate
-
-
 At a conference held ahead of today’s closed meeting of The Senate, Senator Arissa Lavigny addressed her supporters In a speech streamed live from The Lavigny family home on Topaz. 
 
 “The last few weeks have been difficult for us all, but I am pleased to announce that Our trials are almost over.” 

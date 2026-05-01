@@ -4,6 +4,10 @@ title: 'Thargoid War Update: June 3309'
 slug: thargoid_war_update_june_3309
 date: '3309-06-30'
 source: API
+summary: Sanderlyn's monthly update covers the pulse wave scanner release, the Aegis-Azimuth sample competition, the Dedicant disappearance, and cautious optimism about territorial gains.
+player_impact: Pilots continue anti-xeno operations and are recovering systems from Thargoid control.
+persons:
+- Jade Sanderlyn
 groups:
 - Aegis
 - Azimuth Biotech
@@ -13,11 +17,7 @@ topics:
 - research
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's framing of the Dedicant — 'Theories abound as to its fate, ranging from a simple engine malfunction to the Far God rescuing its loyal worshippers. Even in wartime, it seems everyone loves a mystery' — is characteristically engaging. Her observation that 'Azimuth's results suggest that some retain faith in Salvation's legacy' notes continued corporate loyalty. The closing — 'There is hope that the tide is slowly turning' — provides narrative momentum."
-persons:
-- Jade Sanderlyn
-player_impact: "Pilots continue anti-xeno operations and are recovering systems from Thargoid control."
-summary: "Sanderlyn's monthly update covers the pulse wave scanner release, the Aegis-Azimuth sample competition, the Dedicant disappearance, and cautious optimism about territorial gains."
+modern_impact: Sanderlyn's framing of the Dedicant — 'Theories abound as to its fate, ranging from a simple engine malfunction to the Far God rescuing its loyal worshippers. Even in wartime, it seems everyone loves a mystery' — is characteristically engaging. Her observation that 'Azimuth's results suggest that some retain faith in Salvation's legacy' notes continued corporate loyalty. The closing — 'There is hope that the tide is slowly turning' — provides narrative momentum.
 legacy_weight: 5
 significance: high
 related_uuids:

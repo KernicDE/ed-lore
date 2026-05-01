@@ -4,6 +4,10 @@ title: Aegis Recommends Preventative Anti-Xeno Tactic
 slug: aegis_recommends_preventative_anti_xeno_tactic
 date: '3309-03-16'
 source: API
+summary: Aegis proposes a preventative defense strategy — protecting systems at threat of invasion rather than only fighting fleets that have already arrived — with Orthrus ships identified as key to invasion preparation.
+player_impact: Combat bonds payouts on Orthrus vessels have been increased.
+persons:
+- Emil Varga
 groups:
 - Aegis
 locations: []
@@ -12,18 +16,14 @@ topics:
 - research
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Varga's strategic insight — 'The effort required to repel an invasion fleet is far higher than dissuading that fleet from entering a system in the first place' — is a military axiom. The theory that Thargoids take a 'path of least resistance' approach is actionable intelligence. The specific identification of Orthrus vessels as 'key to prepping systems for invasion' and that 'invading Thargoid vessels know exactly where to emerge from hyperspace' provides tactical targets."
-persons:
-- Emil Varga
-player_impact: "Combat bonds payouts on Orthrus vessels have been increased."
-summary: "Aegis proposes a preventative defense strategy — protecting systems at threat of invasion rather than only fighting fleets that have already arrived — with Orthrus ships identified as key to invasion preparation."
+modern_impact: Varga's strategic insight — 'The effort required to repel an invasion fleet is far higher than dissuading that fleet from entering a system in the first place' — is a military axiom. The theory that Thargoids take a 'path of least resistance' approach is actionable intelligence. The specific identification of Orthrus vessels as 'key to prepping systems for invasion' and that 'invading Thargoid vessels know exactly where to emerge from hyperspace' provides tactical targets.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 2e7e258a-5974-5a34-b102-93d10a22c438
 ---
 
-*Pilots Federation Alert*
+**Pilots Federation Alert**
 An analysis of the ongoing Thargoid war has been released by Aegis and made available to all superpower and independent navies.
 The focus of the report centres on protecting systems at threat of Thargoid invasion. It suggests that anti-xeno forces are primarily fighting Thargoid invasion fleets which have already arrived, understandable due to the immediate risk to civilian life. However, Aegis proposes that increasing defensive efforts for systems at threat of invasion would be a more efficient way of slowing the spread of Thargoid-controlled territory.
 Commodore Emil Varga provided a statement alongside the report’s release:

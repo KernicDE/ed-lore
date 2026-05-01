@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Guardians of Tranquility Campaign Concludes
-
-
 A spokesperson for The Guardians of Tranquility has announced that Its appeal for rare food and drink has been enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Tranquility, the organisation’s base of operations. 
 
 In a brief statement, Guardians of Tranquility spokesperson General Hunter O’Brien said: 

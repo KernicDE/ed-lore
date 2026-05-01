@@ -4,10 +4,10 @@ title: Mahon Reprimanded over Reorte Conflict
 slug: mahon_reprimanded_over_reorte_conflict
 date: '3308-02-25'
 source: API
-arc_id: null
+summary: The Alliance Assembly officially rebukes Prime Minister Edmund Mahon over the Reorte skirmish.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Edmund Mahon
-entities: []
 groups:
 - Alliance
 - Sirius Corporation
@@ -21,13 +21,12 @@ topics:
 - alien contact
 - corporate expansion
 - war
-summary: The Alliance Assembly officially rebukes Prime Minister Edmund Mahon over the Reorte skirmish.
-player_impact: Not specifically mentioned — this is a political report.
-modern_impact: "\"The Alliance Assembly has delivered an official rebuke to its prime minister following the recent skirmish in the Reorte system.\" Mahon's censure reflects internal Alliance dissent over the unpopular Sirius Corporation defence pact."
+entities: []
+arc_id: null
+modern_impact: '"The Alliance Assembly has delivered an official rebuke to its prime minister following the recent skirmish in the Reorte system." Mahon''s censure reflects internal Alliance dissent over the unpopular Sirius Corporation defence pact.'
 legacy_weight: 4
 significance: high
 ---
-
 
 The Alliance Assembly has delivered an official rebuke to Its prime minister following the recent skirmish in The Reorte system.
 There have been heated debates following the conflict between Reorte Mining Coalition and Sirius Corporation. This was triggered by the megacorp’s unpopular attempt to establish a presence in the system as an anti-xeno defence partner.

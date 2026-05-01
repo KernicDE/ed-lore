@@ -16,20 +16,16 @@ groups:
 locations:
 - Pleiades Nebula
 - Core systems
-technologies: []
 topics:
 - alien contact
 - construction
 - research
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Aegis Expanding
-
 
 Following news that The Empire and Federation have withdrawn from the Pleiades Nebula, contractors In the core systems have reported that Aegis is poised to establish a number of outposts in the region. 
 

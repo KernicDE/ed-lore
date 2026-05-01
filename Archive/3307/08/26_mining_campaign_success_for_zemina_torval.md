@@ -4,26 +4,24 @@ title: 'Mining Campaign Success for Zemina Torval '
 slug: mining_campaign_success_for_zemina_torval
 date: '3307-08-26'
 source: API
-groups:
-- Mastopolos Mining
-- Wreaken Construction
-- Torval-Mastopolos Mining
+summary: Torval-Mastopolos Mining outperforms Wreaken Construction in the LTT 198 resource campaign, securing permanent corporate control and a new starport construction contract.
+player_impact: Top contributors received experimental mining lasers and permanent LTT 198 permits.
 persons:
 - Zemina Torval
 - Constantia Torval
 - Emmerich Koenig
+groups:
+- Mastopolos Mining
+- Wreaken Construction
+- Torval-Mastopolos Mining
 topics:
 - corporate expansion
-summary: Torval-Mastopolos Mining outperforms Wreaken Construction in the LTT 198 resource
-  campaign, securing permanent corporate control and a new starport construction contract.
-player_impact: Top contributors received experimental mining lasers and permanent LTT
-  198 permits.
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The Torval-Mastopolos Mining initiative in the LTT 198 system has outperformed Wreaken Construction’s rival campaign.
 Pilots delivered mined resources to the megaships Pride of Bitterwood and Tobias’s Gift to support the competing corporations. Ultimately, it was the new subsidiary of Mastopolos Mining that received the greatest quantities.
 Senator Zemina Torval provided a statement to Imperial media:

@@ -14,18 +14,14 @@ groups:
 - Kumo Crew
 locations:
 - Cayutorme
-technologies: []
 topics:
 - ship
+technologies: []
 arc_id: cayutorme-conflict
-modern_impact: A significant military engagement testing the Empire's ability to project
-  force against organized criminal syndicates.
+modern_impact: A significant military engagement testing the Empire's ability to project force against organized criminal syndicates.
 legacy_weight: 3
 significance: medium
 ---
-
-Cayutorme Syndicate Seeks Support
-
 
 Imperial investigators have confirmed ties between Archon Delaine's Kumo Crew and The mercenary group known As the Cayutorme Syndicate. This partnership brings disturbing context to the civil unrest currently affecting Cayutorme, as well as the syndicate's rapid rise to power. 
 

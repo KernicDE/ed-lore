@@ -4,7 +4,8 @@ title: Aegis Megaship Vanishes in Hyperspace
 slug: aegis_megaship_vanishes_in_hyperspace
 date: '3307-06-04'
 source: API
-arc_id: thargoid-contact
+summary: The Alexandria megaship fails to arrive in HIP 30944 and all communication ceases. Admiral Aden Tanner announces Captain Jacob Morales and over four thousand crewmembers are listed as missing presumed dead. The loss of precious Guardian artefacts severely impacts Aegis's research programme.
+player_impact: Pilots who were docked at the Alexandria had to depart before its final jump.
 persons:
 - Jacob Morales
 - Aden Tanner
@@ -16,22 +17,21 @@ locations:
 - HIP 16538
 - HIP 30944
 - Delphi
-technologies:
-- Alexandria megaship
-- Guardian artefacts
 topics:
 - alien contact
 - research
 - xenoarchaeology
-player_impact: Pilots who were docked at the Alexandria had to depart before its final jump.
-summary: The Alexandria megaship fails to arrive in HIP 30944 and all communication ceases. Admiral Aden Tanner announces Captain Jacob Morales and over four thousand crewmembers are listed as missing presumed dead. The loss of precious Guardian artefacts severely impacts Aegis's research programme.
+technologies:
+- Alexandria megaship
+- Guardian artefacts
+arc_id: thargoid-contact
 modern_impact: The Alexandria disaster becomes a turning point for Aegis, triggering a superpower inquiry and forcing senior resignations including Professor Alba Tesreau. It creates a vacuum that Salvation's alternative anti-xeno effort begins to fill.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 3ed695e3-4334-5111-bc87-ca2a91079e93
 - c8970a7c-f1b9-57df-aaac-b318e5078cab
 - 2eb0efd4-717b-56b7-8139-739f3845a683
-legacy_weight: 5
-significance: high
 ---
 
 The Alexandria has failed to arrive in the HIP 30944 system as scheduled, and may have been hyperdicted by the Thargoids.

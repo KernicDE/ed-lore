@@ -28,9 +28,6 @@ related_uuids:
 - 5b63a140-f545-5aa1-a7db-556be53ae92b
 ---
 
-Guardian-Worshipping Church Declared Illegal
-
-
 The Church of Eternal Void, a fringe group that venerates the Guardians, has been declared illegal in Every system where it operates. 
 
 Cardinal Hieronymous and Other senior members of the Church have been arrested for inciting acts of violence against the so-called ‘Far God’ sect, Which worships the Thargoids. The death toll among the Far God sect is now in the hundreds, With Many more injured. 

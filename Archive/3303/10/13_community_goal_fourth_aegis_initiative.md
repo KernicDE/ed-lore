@@ -15,9 +15,6 @@ groups:
 locations:
 - Khun
 - Cremona Prospect
-technologies:
-- shutdown-field neutraliser
-- Thargoid Cyclops Tissue Sample
 topics:
 - alien contact
 - corporate expansion
@@ -25,15 +22,14 @@ topics:
 - ship
 - trade
 - war
+technologies:
+- shutdown-field neutraliser
+- Thargoid Cyclops Tissue Sample
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Community Goal: Fourth Aegis Initiative
-
 
 Aegis's campaign to counter The rising Thargoid threat has entered Its fourth phase. Once again, the tri-superpower organisation has secured financial support from a corporate partner, Which has placed an open order for various commodities. 
 

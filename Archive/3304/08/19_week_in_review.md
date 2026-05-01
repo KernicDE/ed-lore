@@ -45,9 +45,6 @@ related_uuids:
 - cb000662-d78f-5013-89e5-b8375bd4b9d8
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Campaigner Jarl Toredo has disclosed that he and Princess Aisling Duval have been conducting a secret romantic relationship, despite her betrothal to Federal Ambassador Jordan Rochester. Toredo claims that The princess accepted Rochester’s proposal only as a means to advance her political plans. Princess Duval has refuted Toredo’s statement. 

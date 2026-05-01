@@ -10,14 +10,10 @@ locations:
 topics:
 - narcotics
 arc_id: onionhead-conflict
-modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
-  and local agricultural economies.
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition and local agricultural economies.
 legacy_weight: 3
 significance: medium
 ---
-
-Lucan Onionhead Lives On in Tanmark
-
 
 The Defence Force of Tanmark, in association With the Farmers Union of Kappa Fornacis, is pleased to announce The success of their initiative to increase the local production of Lucan Onionhead. 
 

@@ -17,17 +17,14 @@ groups:
 locations:
 - Fuelum
 - Alrai Sector
-technologies: []
 topics:
 - humanitarian
 - ship
+technologies: []
 modern_impact: Player-run Fuel Rats group reaches 20,000 rescues, demonstrating sustained pilot-driven humanitarian services.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Fuel Rats Complete 20,000th Rescue
-
 
 On The 7th of January 3303, the Fuel Rats successfully completed their 20,000th rescue since their foundation in June 3301. The milestone was reached during a busy weekend that saw the group complete a total of 230 rescues. Sources at Fuel Rats headquarters in the Fuelum system linked the spike in cases to curiosity surrounding reported sightings of non-human spacecraft. 
 

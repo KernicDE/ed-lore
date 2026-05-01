@@ -13,14 +13,10 @@ topics:
 - narcotics
 - piracy
 arc_id: onionhead-conflict
-modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
-  and local agricultural economies.
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition and local agricultural economies.
 legacy_weight: 3
 significance: medium
 ---
-
-Securing The Borders in The Ceti Sector
-
 
 The return of Onionhead to Panem may be a blessing for the farmers of Kappa Fornacis, but for their neighbours, the Fornacian dream has turned into a living nightmare. 
 

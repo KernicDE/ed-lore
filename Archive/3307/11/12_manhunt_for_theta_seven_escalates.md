@@ -4,26 +4,23 @@ title: Manhunt for Theta Seven Escalates
 slug: manhunt_for_theta_seven_escalates
 date: '3307-11-12'
 source: API
-groups:
-- Marlinist
-- NMLA
+summary: ACT acquires an encrypted message that may reveal Theta Seven's location and requests assistance from the galactic community in decoding it.
+player_impact: Pilots could submit decoded versions of the encrypted message to ACT for a substantial reward.
 persons:
 - Milo Castile
 - Theta Seven
+groups:
+- Marlinist
+- NMLA
 topics:
 - terrorism
 arc_id: nmla-terrorism
-summary: ACT acquires an encrypted message that may reveal Theta Seven's location and
-  requests assistance from the galactic community in decoding it.
-player_impact: Pilots could submit decoded versions of the encrypted message to ACT
-  for a substantial reward.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Affiliated Counter-Terrorism unit has acquired an encrypted message that may reveal Theta Seven’s location.
 ACT successfully captured most of the bomb-making Engineers known as Theta Group, and has now prioritised hunting down the NMLA’s de facto leader.
 This latest breakthrough was explained by Captain Milo Castile:

@@ -14,18 +14,15 @@ locations:
 - California Nebula
 - California Sector BV-Y c7
 - Darwin Research Facility
-technologies: []
 topics:
 - construction
 - research
 - war
+technologies: []
 modern_impact: Alliance outpost construction in the California Nebula expands scientific and resource-extraction capabilities in the region.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Alliance Outpost Campaign
-
 
 The Alliance has announced plans to construct a new outpost in the California Nebula and placed an open order for construction materials. 
 

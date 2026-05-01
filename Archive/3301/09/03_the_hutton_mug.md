@@ -4,6 +4,8 @@ title: The Hutton Mug
 slug: the_hutton_mug
 date: '3301-09-03'
 source: GitHub
+summary: BlipMagnet announced the Hutton Mug, a commemorative beaker for pilots who complete the epic journey to Hutton Orbital, located 0.22 light years from the nearest star in Alpha Centauri. The company appealed for scrap materials to produce the mugs, offering participants their own Hutton mug as reward. The mug is supposedly made from salvaged Frame Shift Drive plates of ships that ran out of fuel en route.
+player_impact: Pilots can deliver scrap materials to Hutton Orbital to receive a commemorative Hutton Mug. The journey itself is a badge of honor among experienced navigators.
 persons:
 - Chase Fulbright
 groups:
@@ -13,18 +15,11 @@ locations:
 - Hutton Orbital
 topics:
 - trade
-summary: BlipMagnet announced the Hutton Mug, a commemorative beaker for pilots who complete the epic journey to Hutton Orbital, located 0.22 light years from the nearest star in Alpha Centauri. The company appealed for scrap materials to produce the mugs, offering participants their own Hutton mug as reward. The mug is supposedly made from salvaged Frame Shift Drive plates of ships that ran out of fuel en route.
-player_impact: Pilots can deliver scrap materials to Hutton Orbital to receive a commemorative Hutton Mug. The journey itself is a badge of honor among experienced navigators.
 modern_impact: Community-driven novelty item celebrating one of the most infamous station approaches in the galaxy.
 legacy_weight: 1
 significance: low
 ---
 
-The Hutton Mug
-
-
-The Hutton Mug 
- 
 The words “I made it to Hutton Orbital” carry a certain amount of weight among pilots. As seasoned navigators know, the starport lies approximately 0.22 light years from the nearest Star – a significant stretch by anyone’s standards – and it is not unusual for novice pilots, having failed to check the distance from Alpha Centauri to Hutton Orbital, to Run out of fuel long before they reach the station. 
 
 Completing ‘The Hutton Run’, As the journey is sometimes called, is therefore a badge of honour among pilots, an achievement that distinguishes the amateur from the professional. 

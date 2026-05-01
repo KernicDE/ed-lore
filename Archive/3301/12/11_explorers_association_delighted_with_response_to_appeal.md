@@ -10,16 +10,13 @@ persons: []
 groups:
 - Explorer's Association
 locations: []
-technologies: []
 topics:
 - exploration
+technologies: []
 modern_impact: Demonstrates the collaborative power of independent pilots in expanding galactic cartography.
 legacy_weight: 2
 significance: low
 ---
-
-Explorer's Association "Delighted" With Response to Appeal
-
 
 The Explorer's Association has announced that Its request for exploration data has been positively received by the galactic community. Over the past two weeks, the organisation has accepted a wealth of information on previously uncharted Star systems, Which it will now sell to various private clients. A spokesperson for the association issued a brief statement: 
 

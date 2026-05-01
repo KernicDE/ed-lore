@@ -4,18 +4,7 @@ title: Freelance Report  Border Coalition Backs SEPP
 slug: freelance_report_border_coalition_backs_sepp
 date: '3302-07-07'
 source: GitHub
-topics:
-- diplomacy
-- exploration
-- research
-modern_impact: Shows how minor-power alliances and diplomatic pacts can influence
-  community-driven power-play campaigns, elevating smaller factions into contention.
-legacy_weight: 2
-significance: low
-summary: The Border Coalition has unanimously decided to back the Social Eleu Progressive
-  Party in the Rise to Power campaign after an emergency meeting at Iren's Dock.
-  Duke Tiberius of Mikunn swayed the vote, and a diplomatic summit is scheduled
-  for 13 July to discuss further options.
+summary: The Border Coalition has unanimously decided to back the Social Eleu Progressive Party in the Rise to Power campaign after an emergency meeting at Iren's Dock. Duke Tiberius of Mikunn swayed the vote, and a diplomatic summit is scheduled for 13 July to discuss further options.
 player_impact: None
 persons:
 - Duke Tiberius of Mikunn
@@ -29,11 +18,15 @@ locations:
 - Iren's Dock
 - Mikunn
 - Manite
+topics:
+- diplomacy
+- exploration
+- research
 technologies: []
+modern_impact: Shows how minor-power alliances and diplomatic pacts can influence community-driven power-play campaigns, elevating smaller factions into contention.
+legacy_weight: 2
+significance: low
 ---
-
-Freelance Report: Border Coalition Backs SEPP
-
 
 In an emergency meeting at Iren's Dock on The 3rd of July 3302, the Border Coalition presented the Manite-Piscium-Pact to an assembly of interested parties. The outcome was a unanimous decision to back the Social Eleu Progressive Party in the Rise to Power campaign. The vote was swayed by a personal intervention from Duke Tiberius of Mikunn, who said: 
 

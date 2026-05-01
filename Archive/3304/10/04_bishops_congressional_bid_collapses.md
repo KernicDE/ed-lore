@@ -24,9 +24,6 @@ related_uuids:
 - 56ff2068-8d59-5275-8750-5490229a8326
 ---
 
-Bishop’s Congressional Bid Collapses
-
-
 Juanita Bishop, whose protest movement against The Far God cult gained broad support, has failed to be elected to Federal Congress. 
 
 Independent political analyst Vaughan Niven published This summary: 

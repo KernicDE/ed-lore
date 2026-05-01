@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: United Research Council Programme Postponed
-
-
 Professor Ray Miller, director of The United Research Council, has announced that the organisation's proposed research programme will be temporarily delayed. 
 
 "Following political lobbying form a number of key powers, we have decided to lift the restriction on activity in the Coritab, Darian, Freng and Lunduwalaya systems." 

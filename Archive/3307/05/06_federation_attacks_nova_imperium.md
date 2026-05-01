@@ -4,7 +4,8 @@ title: Federation Attacks Nova Imperium
 slug: federation_attacks_nova_imperium
 date: '3307-05-06'
 source: API
-arc_id: nmla-terrorism
+summary: Open warfare erupts in the Paresa system between Nova Imperium and the Federal-backed League of Mandu. Admiral Natalia Lee of the Harmony's Shield declares the Federation will enact justice for the NMLA bombings, while Hadrian Duval calls for Imperial defence under the Treaty of Paresa.
+player_impact: Pilots were invited to support either Nova Imperium or the League of Mandu in the Paresa system conflict.
 persons:
 - Hadrian Duval
 - Natalia Lee
@@ -17,25 +18,24 @@ groups:
 locations:
 - Paresa
 - Dyson City
-technologies:
-- Harmony's Shield megaship
 topics:
 - diplomacy
 - succession
 - terrorism
 - war
-player_impact: Pilots were invited to support either Nova Imperium or the League of Mandu in the Paresa system conflict.
-summary: Open warfare erupts in the Paresa system between Nova Imperium and the Federal-backed League of Mandu. Admiral Natalia Lee of the Harmony's Shield declares the Federation will enact justice for the NMLA bombings, while Hadrian Duval calls for Imperial defence under the Treaty of Paresa.
+technologies:
+- Harmony's Shield megaship
+arc_id: nmla-terrorism
 modern_impact: The Federation's unilateral invasion of Imperial space nearly triggers superpower war, testing the limits of the Treaty of Paresa and exposing the dangers of acting on unverified intelligence.
+legacy_weight: 5
+significance: high
 related_uuids:
 - a63b78b8-8be0-504c-85a7-d986a0f0465a
 - afdf0fab-5a79-5806-b284-6484d24275e1
 - b11ce1f8-7cec-53e0-8472-ac95e77d789f
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Open warfare has begun in The Paresa system between Nova Imperium and the League of Mandu, a Federal faction.
 Imperator Hadrian Augustus Duval has been accused of masterminding the NMLA starport bombings, According to evidence provided to ACT. 
 Admiral Natalia Lee, commanding the Harmony’s Shield megaship, declared:

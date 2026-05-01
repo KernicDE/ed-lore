@@ -13,17 +13,14 @@ groups:
 locations:
 - Sereborv Terminal
 - HR 6421
-technologies: []
 topics:
 - exploration
+technologies: []
 arc_id: raxxla-mystery
 modern_impact: The enduring Raxxla mystery continues to captivate explorers and conspiracy theorists.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Exploration Data Appeals Conclude
-
 
 A spokesperson for The Children of Raxxla has announced that Its appeal for exploration data has received the enthusiastic support of the galactic community, Which delivered large quantities of astronomical data to Sereborv Terminal over the past two weeks. A competing initiative from the Federation proved less popular With the galactic community. 
 

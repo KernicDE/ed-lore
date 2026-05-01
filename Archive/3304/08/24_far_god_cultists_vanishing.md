@@ -29,9 +29,6 @@ related_uuids:
 - e4fb6ad7-f741-5fae-8ab7-908e733f3c83
 ---
 
-Far God Cultists Vanishing
-
-
 The Federal Intelligence Agency has revealed that members of the Far God cult are disappearing in large numbers. 
 
 Senior Agent Micah Whitefield told the media: 

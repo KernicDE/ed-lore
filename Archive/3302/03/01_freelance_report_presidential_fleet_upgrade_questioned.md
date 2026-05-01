@@ -24,9 +24,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: Presidential Fleet Upgrade Questioned
-
-
 Following The recent retirement of the last Saud Kruger Narwhal from the presidential fleet, critics of the Hudson administration have commented on the decision to make use of two Core Dynamics Farragut-class battle cruisers as presidential transport vessels. 
 
 In an interview With the Federal Times, Congresswoman Kristine Lasky said: "These aren't industry-standard ships that can be purchased on the market. These are mainline warships – the largest in the Federal Navy's inventory. That the president intends to make use of not One but two of these ships should seriously concern taxpayers." 

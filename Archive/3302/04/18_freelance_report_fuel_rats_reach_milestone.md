@@ -16,9 +16,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Fuel Rats Reach Milestone
-
-
 A Fuel Rats public relations official has announced that The collective has now succeeded in rescuing more than 10,000 stranded pilots. 
 
 Comprising a widespread network of voluntary search and rescue agents, the Fuel Rats has maintained a success rate of over 95% since Its foundation in June 3301. On average, the group saves 36 pilots a day. 

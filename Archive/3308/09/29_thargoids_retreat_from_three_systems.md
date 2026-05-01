@@ -4,6 +4,8 @@ title: Thargoids Retreat from Three Systems
 slug: thargoids_retreat_from_three_systems
 date: '3308-09-29'
 source: API
+summary: Thargoid forces withdraw from the 42 n Persei, Chun Pindit and Tekkeitjal systems after seventeen days, with the Federal Navy claiming victory while observers suggest a tactical withdrawal of undamaged vessels.
+player_impact: Independent pilots and AX squadrons defended the three systems; Commanders BL1P, EmulatedPenguin and Klemyr distinguished themselves. Pilots can still collect rewards from Bennington's Rest, Samuda Terminal and Riemann Colony.
 persons:
 - BL1P
 - EmulatedPenguin
@@ -24,15 +26,7 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-summary: Thargoid forces withdraw from the 42 n Persei, Chun Pindit and Tekkeitjal
-  systems after seventeen days, with the Federal Navy claiming victory while observers
-  suggest a tactical withdrawal of undamaged vessels.
-player_impact: Independent pilots and AX squadrons defended the three systems; Commanders
-  BL1P, EmulatedPenguin and Klemyr distinguished themselves. Pilots can still collect
-  rewards from Bennington's Rest, Samuda Terminal and Riemann Colony.
-modern_impact: The Thargoid withdrawal without direct starport attacks suggests a tactical
-  shift toward probing human defences rather than outright conquest, raising questions
-  about their long-term strategic objectives.
+modern_impact: The Thargoid withdrawal without direct starport attacks suggests a tactical shift toward probing human defences rather than outright conquest, raising questions about their long-term strategic objectives.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,7 +35,7 @@ related_uuids:
 - bb92f6c0-0def-564c-9b52-f2f1c75fc853
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The conflicts in the 42 n Persei, Chun Pindit and Tekkeitjal systems have ended with the withdrawal of Thargoid vessels.
 All three systems reported the simultaneous arrival of Thargoid forces on the 12th of September, following an expansion of their presence from HIP 22460. Unlike many previous incursions, however, no starports came under direct attack.
 Large numbers of independent pilots volunteered to defend the systems’ populations. Commanders BL1P, EmulatedPenguin and Klemyr, in particular, distinguished themselves in battle against the Thargoids, setting an example among many skilled pilots and AX squadrons that took part.

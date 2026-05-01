@@ -4,6 +4,10 @@ title: Sandra's Workshop Asks for Festive Gift Couriers
 slug: sandras_workshop_asks_for_festive_gift_couriers
 date: '3311-12-15'
 source: API
+summary: Sandra Corrs requests pilot volunteers to deliver festive gifts after a hack wiped Our Dolph's Routes delivery data, forcing pilots to scan a beacon at Frost Dock in Njambalba to recover delivery addresses.
+player_impact: Pilots collected festive gifts from Frost Dock in Njambalba and delivered them to children after a hack wiped Our Dolph's Routes delivery data. A beacon outside Frost Dock held delivery information acquired via scan. Small and medium pads only.
+persons:
+- Sandra Corrs
 groups:
 - Sandra's Workshop
 - Our Dolph's Routes
@@ -13,15 +17,11 @@ locations:
 topics:
 - festival
 - humanitarian
-persons:
-- Sandra Corrs
 technologies: []
-player_impact: "Pilots collected festive gifts from Frost Dock in Njambalba and delivered them to children after a hack wiped Our Dolph's Routes delivery data. A beacon outside Frost Dock held delivery information acquired via scan. Small and medium pads only."
-summary: "Sandra Corrs requests pilot volunteers to deliver festive gifts after a hack wiped Our Dolph's Routes delivery data, forcing pilots to scan a beacon at Frost Dock in Njambalba to recover delivery addresses."
-modern_impact: "The reference to last year's Thargoid refugee evacuation creates a narrative thread connecting the war's humanitarian crisis to peacetime community building. Sandra's Workshop has become an annual tradition humanising the pilot community beyond combat and exploration, showing how galactic events affect civilian life at the individual level."
-related_uuids: []
+modern_impact: The reference to last year's Thargoid refugee evacuation creates a narrative thread connecting the war's humanitarian crisis to peacetime community building. Sandra's Workshop has become an annual tradition humanising the pilot community beyond combat and exploration, showing how galactic events affect civilian life at the individual level.
 legacy_weight: 4
 significance: high
+related_uuids: []
 ---
 
 The CEO of leading children's toy manufacturer Sandra's Workshop has once again requested help with parcel deliveries.

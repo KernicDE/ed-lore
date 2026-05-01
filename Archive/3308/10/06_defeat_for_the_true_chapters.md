@@ -4,7 +4,8 @@ title: Defeat for the True Chapters
 slug: defeat_for_the_true_chapters
 date: '3308-10-06'
 source: API
-arc_id: thargoid-titan-war
+summary: A battle in the Popontia system has ended with Federal forces overwhelming defenders of the True Chapters sect.
+player_impact: Independent pilots were encouraged to participate in the unfolding events.
 persons:
 - First Apostle
 - Nadia Machado
@@ -14,24 +15,19 @@ topics:
 - corporate expansion
 - investigation
 - war
-player_impact: Independent pilots were encouraged to participate in the unfolding
-  events.
-summary: A battle in the Popontia system has ended with Federal forces overwhelming
-  defenders of the True Chapters sect.
-modern_impact: '"With the welcome support of auxiliaries and independent pilots, armed
-  resistance in this system has been quelled. As ..." This perspective highlights
-  the broader stakes and continues to shape contemporary debates.'
+arc_id: thargoid-titan-war
+modern_impact: '"With the welcome support of auxiliaries and independent pilots, armed resistance in this system has been quelled. As ..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - f052748e-b6ee-52c8-9657-75e06d0e3612
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - 56d06164-e5b6-59b9-ae17-1ddf24d0faf6
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A battle in the Popontia system has ended with Federal forces overwhelming defenders of the True Chapters sect.
 The newly risen sect of the Order of the Far God was being protected by the Workers of Popontia Free, which was ultimately defeated. Governor Nadia Machado of the Popontia Incorporated announced:
 “With the welcome support of auxiliaries and independent pilots, armed resistance in this system has been quelled. As per President Hudson’s orders, the Thargoid worshippers will be detained and the megaship Dedicant seized for Federal investigation.”

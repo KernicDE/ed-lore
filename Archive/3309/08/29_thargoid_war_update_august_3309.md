@@ -4,6 +4,10 @@ title: 'Thargoid War Update: August 3309'
 slug: thargoid_war_update_august_3309
 date: '3309-08-29'
 source: API
+summary: Sanderlyn's monthly update covers territorial gains, the Scythe-class hunter revelation, the Dedicant tragedy, and the Wregoe archaeological discovery.
+player_impact: Pilots achieved territorial gains against Thargoids and continue anti-xeno operations.
+persons:
+- Jade Sanderlyn
 groups: []
 locations:
 - Guardian
@@ -16,11 +20,7 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's observation that 'The number of systems controlled by the Titans' invasion fleets has tumbled' shows military progress. Her description of the Dedicant abductees — 'most of these abductees were members of the Order of the Far God, finally getting their wish to be saved by their angels' — is darkly ironic. The reference to Wregoe as 'only the second of its kind ever recorded' and the non-aggressive Thargoid behavior there is significant."
-persons:
-- Jade Sanderlyn
-player_impact: "Pilots achieved territorial gains against Thargoids and continue anti-xeno operations."
-summary: "Sanderlyn's monthly update covers territorial gains, the Scythe-class hunter revelation, the Dedicant tragedy, and the Wregoe archaeological discovery."
+modern_impact: Sanderlyn's observation that 'The number of systems controlled by the Titans' invasion fleets has tumbled' shows military progress. Her description of the Dedicant abductees — 'most of these abductees were members of the Order of the Far God, finally getting their wish to be saved by their angels' — is darkly ironic. The reference to Wregoe as 'only the second of its kind ever recorded' and the non-aggressive Thargoid behavior there is significant.
 legacy_weight: 5
 significance: high
 related_uuids:

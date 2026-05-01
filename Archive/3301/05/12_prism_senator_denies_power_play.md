@@ -4,9 +4,6 @@ title: Prism Senator Denies Power Play
 slug: prism_senator_denies_power_play
 date: '3301-05-12'
 source: GitHub
-entities:
-- Denies Power Play
-- Kahina Tijani Loren
 groups:
 - Imperial Herald
 locations:
@@ -17,15 +14,14 @@ topics:
 - ship
 - succession
 - war
+entities:
+- Denies Power Play
+- Kahina Tijani Loren
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Prism Senator Denies Power Play
-
 
 Senator Kahina Tijani Loren was seen at a musical soiree on Capitol yesterday evening, taking part In a reception after her arrival in The Achenar system.  
 

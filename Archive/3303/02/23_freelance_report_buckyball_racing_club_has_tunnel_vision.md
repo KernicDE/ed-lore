@@ -22,9 +22,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Buckyball Racing Club has Tunnel Vision
-
-
 After a relatively quiet start to The year, the Buckyball Racing Club is back With Its first full-length race of 3303: Tunnel Vision. 
 
 The race, Which is between Leopold Heckmann Ring in the Malaikudi system and Evans Port in Parutis, requires competitors to navigate a series of tunnels at various scientific and military installations en route. Bonuses will be awarded depending on ship size, meaning some very large ships will be squeezed through some very tight spaces. 

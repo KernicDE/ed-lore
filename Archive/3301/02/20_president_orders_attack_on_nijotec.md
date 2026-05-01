@@ -4,8 +4,6 @@ title: President Orders Attack on Nijotec
 slug: president_orders_attack_on_nijotec
 date: '3301-02-20'
 source: GitHub
-entities:
-- President Jasmina Halsey
 groups:
 - Federal Congress
 - Federal Navy
@@ -15,16 +13,14 @@ locations:
 topics:
 - war
 - politics
+entities:
+- President Jasmina Halsey
 arc_id: halsey-presidency
 arc_chapter: Halsey orders strike
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
 ---
-
-President Orders Attack on Nijotec
-
 
 In a shock announcement issued This morning, President Halsey has ordered an all out assault on The Nijotec region. 
 

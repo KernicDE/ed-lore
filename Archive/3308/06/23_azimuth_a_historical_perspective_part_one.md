@@ -4,6 +4,8 @@ title: 'Azimuth: A Historical Perspective (Part One)'
 slug: azimuth_a_historical_perspective_part_one
 date: '3308-06-23'
 source: API
+summary: Part one of a historical overview tracing Azimuth Biochemicals from the 3111 Thargoid first contact in the Musca Dark Region through the discovery of the Adamastor and Hesperus megaships to Salvation's emergence in 3307.
+player_impact: Not specifically mentioned — this is a historical retrospective.
 persons:
 - Carver
 - Salvation
@@ -30,8 +32,6 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-summary: Part one of a historical overview tracing Azimuth Biochemicals from the 3111 Thargoid first contact in the Musca Dark Region through the discovery of the Adamastor and Hesperus megaships to Salvation's emergence in 3307.
-player_impact: Not specifically mentioned — this is a historical retrospective.
 modern_impact: This retrospective established Azimuth's centuries-long pattern of covert xenological weapons research, from the first Thargoid contact in 3111 to the Proteus discovery, revealing how Salvation's campaign was the culmination of a 200-year corporate military project.
 legacy_weight: 5
 significance: high

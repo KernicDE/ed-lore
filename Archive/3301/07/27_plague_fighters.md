@@ -4,6 +4,8 @@ title: Plague Fighters
 slug: plague_fighters
 date: '3301-07-27'
 source: GitHub
+summary: The Dukes of Mikunn mobilised their mercenaries to assist Cerberus Plague-affected systems. Drawing on experience from a similar plague in HR 7327, Mikunn, Sukua, and Sefry, they are moving stockpiled medicine and medical scientists to find the source. Fighter wings provide safe passage for medical supply runs and enforce quarantine. Caius, younger brother of the Dukes, explained that failure to enforce quarantine in their previous outbreak allowed spread to nearby systems, and criticised the powers for failing to act in their people's best interest.
+player_impact: Pilots delivering medical supplies to plague-affected systems can expect escort support from Mikunn mercenary fighter wings.
 persons:
 - Caius
 - Exil
@@ -20,18 +22,11 @@ topics:
 - plague
 - war
 arc_id: cerberus-plague
-summary: The Dukes of Mikunn mobilised their mercenaries to assist Cerberus Plague-affected systems. Drawing on experience from a similar plague in HR 7327, Mikunn, Sukua, and Sefry, they are moving stockpiled medicine and medical scientists to find the source. Fighter wings provide safe passage for medical supply runs and enforce quarantine. Caius, younger brother of the Dukes, explained that failure to enforce quarantine in their previous outbreak allowed spread to nearby systems, and criticised the powers for failing to act in their people's best interest.
-player_impact: Pilots delivering medical supplies to plague-affected systems can expect escort support from Mikunn mercenary fighter wings.
 modern_impact: Mercenary intervention in plague response highlights both the severity of the outbreak and the failure of official powers to coordinate effective containment.
 legacy_weight: 3
 significance: medium
 ---
 
-Plague Fighters
-
-
-Plague Fighters 
- 
 In response to The devastating Cerberus Plague outbreak on The frontier, the Dukes of Mikunn have mobilized their members, the Mercenaries of Mikunn, to affected systems in an attempt to assist local governments in quelling the plagues. 
 
 Having faced a plague similar to that affecting current Star systems for weeks, the massive amount of stockpiled medicine will now be moved to affected systems along With medical scientists in hopes of finding the source of the plague. Fighter wings have also been scrambled to provide safe passage for pilots carrying medicine and to enforce quarantine on local citizens. 

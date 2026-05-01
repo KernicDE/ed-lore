@@ -28,9 +28,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Loyal Imperials Support Starship Construction
-
-
 The construction of a Majestic-class Interdictor in the Mundjiga system requires generous quantities of tantalum, gallium and indium. Threats of piracy and violent protest have already reached the system. 
 
 To counter these threats, a collective of former security contractors known As the Praetorians have committed their forces to defending Mundjiga and the traders operating there. Loren's Legion, an extension of the Prism defence force, will operate jointly With the Praetorians, protecting traders sourcing tantalum from Prism. 

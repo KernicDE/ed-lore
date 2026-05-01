@@ -4,7 +4,8 @@ title: Archon Delaine Campaign to Build New Starports
 slug: archon_delaine_campaign_to_build_new_starports
 date: '3307-04-15'
 source: API
-arc_id: kumo-crew-rise
+summary: The Kumo Crew syndicate launches a campaign to construct up to five new Orbis starports in uninhabited systems near key trading regions. Archon Delaine extends his protection racket into new territories while placing bounties on anyone interfering with the project.
+player_impact: Pilots delivered ceramic composites, semiconductors, polymers and water purifiers to Gabriel Enterprise in the Harma system to fund new starport construction.
 persons:
 - Archon Delaine
 groups:
@@ -24,25 +25,24 @@ locations:
 - Sothis
 - Coalsack Nebula
 - Colonia
+topics:
+- corporate expansion
 technologies:
 - Orbis starport
 - Ceramic composites
 - Semiconductors
 - Polymers
 - Water purifiers
-topics:
-- corporate expansion
-player_impact: Pilots delivered ceramic composites, semiconductors, polymers and water purifiers to Gabriel Enterprise in the Harma system to fund new starport construction.
-summary: The Kumo Crew syndicate launches a campaign to construct up to five new Orbis starports in uninhabited systems near key trading regions. Archon Delaine extends his protection racket into new territories while placing bounties on anyone interfering with the project.
+arc_id: kumo-crew-rise
 modern_impact: The Kumo Crew's expansion into the Coalsack Nebula and Colonia regions extends piratical influence into strategically important areas, with speculation about Sirius Corporation's financial support for the project.
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 44e6e7f1-98b2-57df-811b-cb9e3a1fc528
 - 677866b5-92cb-5c16-8297-0a3a97a4afa8
-legacy_weight: 3
-significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The Kumo Crew syndicate has launched an initiative to construct up to Five starports to stimulate galactic trade.
 Kavanagh Spaceframes Ltd, an Independent construction company, has been privately contracted by the Kumo Council to build fully operational Orbis stations. These will be Located in uninhabited systems close to key trading regions and areas of commercial interest.
 The Pegasi Sentinel newsfeed featured This statement from Archon Delaine:

@@ -11,14 +11,10 @@ locations:
 topics:
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Hudson Questions Halsey’s Motives
-
 
 Shadow President Hudson has released a scathing attack on The President’s offensive against The Crimson State Group, calling it “nothing more than a petty attempt to show strength at the cost of Hundreds of thousands of innocent lives”. 
 

@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-The Biggest Party of 3304
-
-
 The Vadimo Patrons of Law, an Imperial organisation based in Vadimo, has announced plans to host an elaborate soirée in the Vadimo system. 
 
 A spokesperson for the organisation elaborated on the nature of the event: 

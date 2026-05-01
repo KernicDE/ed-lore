@@ -22,9 +22,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Gnosis Stranded
-
-
 A scientific-research Vessel has been left stranded following a Thargoid attack. 
 
 The Gnosis, flagship of the Canonn Interstellar Research Group, recently made a hyperspace jump towards the Cone Sector FN-J B9-0 system. A short time later, The following message was received from Captain Mathius Leander of the Gnosis command crew: 

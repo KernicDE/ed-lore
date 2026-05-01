@@ -4,6 +4,8 @@ title: Herculean Machines Initiative Concludes
 slug: herculean_machines_initiative_concludes
 date: '3305-01-03'
 source: GitHub
+summary: Herculean Machines concludes a successful commodity drive to supply Duradrive personal computers to the Federal Navy, securing a major military contract.
+player_impact: Contributing pilots could collect rewards from Boltzmann Hub in the Blatrimpe system.
 persons:
 - Maddox Hurd
 groups:
@@ -15,15 +17,10 @@ topics:
 - corporate expansion
 - ship
 - trade
-summary: Herculean Machines concludes a successful commodity drive to supply Duradrive personal computers to the Federal Navy, securing a major military contract.
-player_impact: Contributing pilots could collect rewards from Boltzmann Hub in the Blatrimpe system.
 modern_impact: The Federal Navy contract validated Herculean Machines as a serious defence-sector supplier, demonstrating how community-supported production drives could vault small manufacturers into major military contracts.
 legacy_weight: 2
 significance: low
 ---
-
-Herculean Machines Initiative Concludes
-
 
 An initiative Run by Herculean Machines, manufacturer of Duradrive personal computers, has now concluded. 
 

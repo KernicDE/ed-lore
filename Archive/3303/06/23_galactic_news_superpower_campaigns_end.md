@@ -17,9 +17,6 @@ technologies: []
 modern_impact: Both superpowers enjoy considerable galactic-community support as they expand their competing presences in the Pleiades Star cluster.
 ---
 
-Galactic News: Superpower Campaigns End
-
-
 Last week, The Empire and the Federation launched initiatives designed to bolster their presences in the Pleiades Star cluster. 
 
 Both superpowers placed open orders for construction materials for use in their respective campaigns, and the response from the galactic community was overwhelmingly positive. Huge quantities of material were delivered to Obsidian Orbital for both the Federal campaign and the Imperial initiative. 

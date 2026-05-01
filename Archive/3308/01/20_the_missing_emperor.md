@@ -4,10 +4,10 @@ title: The Missing Emperor?
 slug: the_missing_emperor
 date: '3308-01-20'
 source: API
-arc_id: nmla-terrorism
+summary: Princess Aisling Duval raises concerns about Emperor Arissa Lavigny-Duval's prolonged public absence.
+player_impact: Not specifically mentioned — this is a society report.
 persons:
 - Anders Blaine
-entities: []
 groups:
 - Imperial Herald
 - NMLA
@@ -15,9 +15,11 @@ locations: []
 topics:
 - espionage
 - succession
-summary: Princess Aisling Duval raises concerns about Emperor Arissa Lavigny-Duval's prolonged public absence.
-player_impact: Not specifically mentioned — this is a society report.
-modern_impact: "\"Unlike Hadrian's family, Arissa Lavigny-Duval remains in seclusion and only communicates remotely with the Senate.\" Princess Aisling's public concerns amplify growing suspicions that Emperor Arissa's absence is not merely precautionary."
+entities: []
+arc_id: nmla-terrorism
+modern_impact: '"Unlike Hadrian''s family, Arissa Lavigny-Duval remains in seclusion and only communicates remotely with the Senate." Princess Aisling''s public concerns amplify growing suspicions that Emperor Arissa''s absence is not merely precautionary.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 00d01961-877a-52b8-a4ce-337aaa44ae3f
 - b68796e4-4524-597f-af53-35eebba951e0
@@ -29,10 +31,7 @@ related_uuids:
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
-legacy_weight: 5
-significance: high
 ---
-
 
 Princess Aisling Duval has discussed growing concerns over Emperor Arissa Lavigny-Duval’s lack of public engagements in recent months.
 In an interview With the Imperial Herald, she said:

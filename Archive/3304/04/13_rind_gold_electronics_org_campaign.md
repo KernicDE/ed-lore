@@ -21,9 +21,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Rind Gold Electronics Org Campaign
-
-
 The Empire has announced an initiative to bolster the superpower’s military strength. The initiative centres on a new training programme designed to create the next generation of starship pilots. 
 
 A spokesperson for the Rind Gold Electronics Org, Which is overseeing the initiative, released The following statement: 

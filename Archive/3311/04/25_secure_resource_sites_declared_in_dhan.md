@@ -4,16 +4,16 @@ title: Secure Resource Sites Declared in Dhan
 slug: secure_resource_sites_declared_in_dhan
 date: '3311-04-25'
 source: API
+summary: Combined security forces and independent pilots eradicate pirates from the Dhan system, securing its planetary rings. Gutamaya observers are reportedly 'very impressed' by the Corsair's performance.
+player_impact: Independent pilots eliminated pirates and collected bounties to secure Dhan's resource sites, with participants collecting rewards from Kidd Station.
+persons:
+- Harald Gomes
 topics:
 - crime
 - piracy
-persons:
-- Harald Gomes
 technologies:
 - Corsair
-player_impact: "Independent pilots eliminated pirates and collected bounties to secure Dhan's resource sites, with participants collecting rewards from Kidd Station."
-summary: "Combined security forces and independent pilots eradicate pirates from the Dhan system, securing its planetary rings. Gutamaya observers are reportedly 'very impressed' by the Corsair's performance."
-modern_impact: "Gomes's blunt characterisation of pirates as 'too foolish to give up a life on the wrong side of the law' reflects a pragmatic post-war security mindset. Gutamaya's reported satisfaction with Corsair performance in anti-piracy operations validates the ship's combat credentials, supporting its marketing as a multipurpose vessel."
+modern_impact: Gomes's blunt characterisation of pirates as 'too foolish to give up a life on the wrong side of the law' reflects a pragmatic post-war security mindset. Gutamaya's reported satisfaction with Corsair performance in anti-piracy operations validates the ship's combat credentials, supporting its marketing as a multipurpose vessel.
 legacy_weight: 2
 significance: low
 related_uuids:

@@ -4,7 +4,8 @@ title: Pirates Lead Counter-Attack Against Thargoids
 slug: pirates_lead_counter_attack_against_thargoids
 date: '3309-02-02'
 source: API
-entities: []
+summary: The Kumo Crew organises a counter-attack against Thargoid invaders in the California Nebula while attempting to expand its influence over local ports.
+player_impact: Pilots were asked to eliminate Thargoid vessels in the California Nebula and hand in combat bonds at The Mictlan in California Sector HR-W d1-28.
 persons:
 - Harrison Gladstone
 - Archon Delaine
@@ -21,22 +22,16 @@ topics:
 - piracy
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-player_impact: "Pilots were asked to eliminate Thargoid vessels in the California Nebula
-  and hand in combat bonds at The Mictlan in California Sector HR-W d1-28."
-summary: "The Kumo Crew organises a counter-attack against Thargoid invaders in the
-  California Nebula while attempting to expand its influence over local ports."
-modern_impact: "Archon Delaine claimed: \"Taking charge of local security forces is
-  necessary to form an effective anti-xeno militia.\" This reflects a recurring
-  pattern where criminal syndicates exploit wartime chaos to legitimise territorial
-  expansion under the guise of humanitarian defence."
-related_uuids:
-- bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
+modern_impact: 'Archon Delaine claimed: "Taking charge of local security forces is necessary to form an effective anti-xeno militia." This reflects a recurring pattern where criminal syndicates exploit wartime chaos to legitimise territorial expansion under the guise of humanitarian defence.'
 legacy_weight: 5
 significance: high
+related_uuids:
+- bf2d3dff-0f0e-52cb-b06d-f6704f6b7781
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Kumo Crew is marshalling the defence of the California Nebula by offering rewards for eliminating Thargoid vessels.
 The Kumo Council, the syndicate’s ruling body, assumed control of several systems that were recently invaded by Thargoid fleets. Independent pilots have been asked to take part in anti-xeno initiatives within the region, which are being coordinated from The Mictlan megaship. 
 Harrison Gladstone of the Turner Research Group, which represents the Alliance in the California Nebula, made a formal protest:

@@ -4,8 +4,11 @@ title: Genetic Study of Radicoida Unica Released
 slug: genetic_study_of_radicoida_unica_released
 date: 3312-01-28
 source: API
-entities:
-- Roy Casimir
+summary: Dr. Roy Casimir publishes first public Radicoida unica study. Mercurial genetic composition, symbiotic potential with creatures, and performance-enhancing seed pod compounds discovered. Lexi October claims competent oversight.
+player_impact: First public study of Radicoida unica released. Plant shows symbiotic potential and seed pods contain performance-enhancing compounds. Data partially redacted by October Consortium. No human trials imminent.
+persons:
+- Dr. Roy Casimir
+- Lexi October
 groups:
 - October Consortium
 - Holloway Bioscience Institute
@@ -17,17 +20,14 @@ topics:
 - research
 - ship
 - war
+entities:
+- Roy Casimir
+technologies:
+- Radicoida unica
 arc_id: hip87621-conflict
 modern_impact: First public data on Radicoida unica seeds a future pharmacological research arms race. October Consortium's data redaction hints at proprietary military or civilian enhancement applications. The seed pod compounds' ability to improve physical performance and reduce thinking time could eventually see widespread use or restriction.
 legacy_weight: 4
 significance: high
-persons:
-- Dr. Roy Casimir
-- Lexi October
-technologies:
-- Radicoida unica
-player_impact: First public study of Radicoida unica released. Plant shows symbiotic potential and seed pods contain performance-enhancing compounds. Data partially redacted by October Consortium. No human trials imminent.
-summary: Dr. Roy Casimir publishes first public Radicoida unica study. Mercurial genetic composition, symbiotic potential with creatures, and performance-enhancing seed pod compounds discovered. Lexi October claims competent oversight.
 related_uuids:
 - 62d40e14-3815-5039-b952-23d2b03e7b6c
 - ed385459-5c49-5899-ba5b-c1aaeb45d81b

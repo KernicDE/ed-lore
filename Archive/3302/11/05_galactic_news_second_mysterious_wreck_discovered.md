@@ -4,12 +4,8 @@ title: Galactic News  Second Mysterious Wreck Discovered
 slug: galactic_news_second_mysterious_wreck_discovered
 date: '3302-11-05'
 source: GitHub
-summary: A shipwreck bearing strong similarities to one recently found in the Pleiades
-  Sector AB-W B2-4 has been discovered on planetoid 6 C A in the HIP 17862 system. The
-  unconventional-looking vessel has a distinctly organic quality and shows no signs of weapons
-  damage.
-player_impact: Independent explorers and scientists can investigate the wreck site in
-  the HIP 17862 system.
+summary: A shipwreck bearing strong similarities to one recently found in the Pleiades Sector AB-W B2-4 has been discovered on planetoid 6 C A in the HIP 17862 system. The unconventional-looking vessel has a distinctly organic quality and shows no signs of weapons damage.
+player_impact: Independent explorers and scientists can investigate the wreck site in the HIP 17862 system.
 persons:
 - Commander Denneb
 groups: []
@@ -22,16 +18,12 @@ topics:
 - investigation
 - research
 - ship
+technologies: []
 arc_id: pleiades-expansion
-modern_impact: The discovery of a second organic-looking wreck in HIP 17862 intensified
-  scientific debate about non-human vessels and their origins.
+modern_impact: The discovery of a second organic-looking wreck in HIP 17862 intensified scientific debate about non-human vessels and their origins.
 legacy_weight: 3
 significance: medium
-technologies: []
 ---
-
-Galactic News: Second Mysterious Wreck Discovered
-
 
 A shipwreck bearing strong similarities to that recently Found in The Pleiades Sector AB-W B2-4 has been discovered in the HIP 17862 system. 
 

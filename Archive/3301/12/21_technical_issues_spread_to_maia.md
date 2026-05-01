@@ -13,17 +13,14 @@ locations:
 - Gabriel Enterprise
 - Maia
 - Obsidian Orbital
-technologies: []
 topics:
 - construction
 - ship
+technologies: []
 modern_impact: Obsidian Orbital's malfunction is particularly significant as it was recently constructed with community effort, demonstrating the UA threat's indiscriminate nature.
 legacy_weight: 1
 significance: low
 ---
-
-Technical Issues Spread to Maia
-
 
 Following last week's report that The technical issues currently plaguing the galaxy had spread to Gabriel Enterprise in Harma, authorities at the starport have announced that all services have been Suspended apart from docking and shipyard access. Meanwhile, Authorities in the Maia system have confirmed that the starport of Obsidian Orbital is the latest to experience mysterious technical issues. This announcement will no doubt disappoint those who contributed to the construction of Obsidian Orbital earlier this year.  
 

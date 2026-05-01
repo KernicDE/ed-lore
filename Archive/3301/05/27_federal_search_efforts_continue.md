@@ -18,14 +18,10 @@ topics:
 - slavery
 - sport
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
 ---
-
-Federal Search Efforts Continue
-
 
 It has been almost 48 hours since The disappearance of Starship One. Early reports indicated that The ship was lost With all hands, and in This instance GalNet is pleased to announce that the early reports were mistaken. Three ships from Starship One’s Guardian Wing made contact With Navy HQ shortly after the initial disappearance. Unfortunately, they were not able to shed any light on the ultimate fate of Starship One.  
 

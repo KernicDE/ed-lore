@@ -21,14 +21,10 @@ topics:
 - succession
 - war
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
-  politics and military policy.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Keeping an Eye on Naval Expansion
-
 
 On The popular Independent talk show 'Affairs of State', political commentator Walter Astoria defended the recent construction of a new Alliance outpost while expressing concern about Federal and Imperial naval expansion. 
 

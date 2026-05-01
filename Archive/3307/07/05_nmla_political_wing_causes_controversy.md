@@ -4,7 +4,8 @@ title: NMLA Political Wing Causes Controversy
 slug: nmla_political_wing_causes_controversy
 date: '3307-07-05'
 source: API
-arc_id: nmla-terrorism
+summary: The NMLA officially confirms the Marlinism Reformation Party as its political representative. Mainstream media reactions range from the Imperial Herald's outrage to the Alliance Tribune's cautious support for dialogue. The Marlin Standard reports widespread unrest among Marlinists over the NMLA using their parliament as a platform.
+player_impact: None directly; this is a political controversy report.
 persons:
 - Aaron Whyte
 - Lorcan Scordato
@@ -25,21 +26,20 @@ locations:
 - Federation
 - Achenar
 - Imperial Senate
-technologies: []
 topics:
 - diplomacy
 - succession
 - terrorism
 - war
-player_impact: None directly; this is a political controversy report.
-summary: The NMLA officially confirms the Marlinism Reformation Party as its political representative. Mainstream media reactions range from the Imperial Herald's outrage to the Alliance Tribune's cautious support for dialogue. The Marlin Standard reports widespread unrest among Marlinists over the NMLA using their parliament as a platform.
+technologies: []
+arc_id: nmla-terrorism
 modern_impact: The formalisation of the NMLA's political wing transforms the terrorist group from a purely violent organisation into a hybrid threat, making counter-terrorism efforts more complex and politically sensitive.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 8c3140cd-6610-5192-9d89-5355c56241dc
 - ed32e72e-acaa-5dca-90ef-9c199420d92a
 - e93a8c38-8df7-5084-9ec2-c2d18fe537a4
-legacy_weight: 5
-significance: high
 ---
 
 The NMLA paramilitary group has confirmed that the Marlinism Reformation Party faction now acts as Its political representative.

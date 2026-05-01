@@ -4,21 +4,17 @@ title: Emergency Session of Congress
 slug: emergency_session_of_congress
 date: '3301-05-28'
 source: GitHub
-entities:
-- Hudson today called
-- Winters took
 topics:
 - narcotics
 - ship
+entities:
+- Hudson today called
+- Winters took
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---
-
-Emergency Session of Congress
-
 
 Shadow President Hudson today called an Emergency Session of Congress to address concerns surrounding Starship One’s disappearance. 
 

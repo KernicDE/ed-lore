@@ -13,14 +13,10 @@ topics:
 - succession
 - war
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist
-  policies.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
 legacy_weight: 3
 significance: medium
 ---
-
-Falisci: Democracy Denied
-
 
 In recent weeks The tiny system of Falisci has become a hotbed of activity. 
 

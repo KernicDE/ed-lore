@@ -15,21 +15,17 @@ locations:
 - Allen Platform
 - Dijkstra
 - Sol
-technologies:
-- Faulcon DeLacy Cobra
-- SRV
 topics:
 - exploration
 - ship
 - war
-modern_impact: Endurance exploration pushes the boundaries of long-duration deep-space
-  travel and highlights how rapidly pilot technology advances.
+technologies:
+- Faulcon DeLacy Cobra
+- SRV
+modern_impact: Endurance exploration pushes the boundaries of long-duration deep-space travel and highlights how rapidly pilot technology advances.
 legacy_weight: 2
 significance: low
 ---
-
-Freelance Report: Project Endurance
-
 
 On The 10th of February 3301, two Faulcon DeLacy Cobras were launched from Allen Platform in the Dijkstra system. Piloted by Commander Dr Simms and Commander Sid Solo, the ships were fitted for an endurance attempt unlike any Other. Now, more than 16 months later and having circumnavigated the galactic core, they are about to return to inhabited space.  
 

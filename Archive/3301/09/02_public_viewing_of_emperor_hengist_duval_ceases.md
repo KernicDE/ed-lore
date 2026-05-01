@@ -4,6 +4,8 @@ title: Public Viewing of Emperor Hengist Duval Ceases
 slug: public_viewing_of_emperor_hengist_duval_ceases
 date: '3301-09-02'
 source: GitHub
+summary: The public viewing of Emperor Hengist Duval ended after an estimated seven million mourners visited Capitol. Fewer than half were able to see the Emperor despite extended hours. Holographic shrines were placed along queues, though some complained this broke tradition. Military forces maintained order and provided food, shelter, and medical care. The streets were being cleared for the upcoming funeral procession.
+player_impact: Pilots visiting Capitol should expect continued security measures and restricted access as the city prepares for the Emperor's funeral.
 persons:
 - Hengist Duval
 - Florence Lavigny
@@ -15,18 +17,11 @@ locations:
 - Imperial Palace
 topics:
 - succession
-summary: The public viewing of Emperor Hengist Duval ended after an estimated seven million mourners visited Capitol. Fewer than half were able to see the Emperor despite extended hours. Holographic shrines were placed along queues, though some complained this broke tradition. Military forces maintained order and provided food, shelter, and medical care. The streets were being cleared for the upcoming funeral procession.
-player_impact: Pilots visiting Capitol should expect continued security measures and restricted access as the city prepares for the Emperor's funeral.
 modern_impact: Documents the massive public mourning following the assassination of Emperor Hengist Duval.
 legacy_weight: 2
 significance: low
 ---
 
-Public Viewing of Emperor Hengist Duval Ceases
-
-
-Public Viewing of Emperor Hengist Duval Ceases 
- 
 Today was The last day for The millions of mourners to pay their respects to the Emperor in the Hall of Martyrs. In the past month an estimated seven million mourners arrived on Capitol and have waited in line to enter the vestibule where the Emperor’s body has lain. 
 
 Of those millions fewer than half were able to actually see the Emperor despite the dedicated efforts of the Imperial Palace curators. Holographic shrines were placed along the queue of the people waiting, although some of the crowd complained that This broke tradition. 

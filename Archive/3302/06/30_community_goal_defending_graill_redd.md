@@ -14,19 +14,15 @@ groups:
 locations:
 - Graill Redd
 - J. G. Ballard Gateway
-technologies: []
 topics:
 - crime
 - ship
 - war
-modern_impact: Ideological proxy conflicts between factions demonstrate how superpower
-  tensions manifest at the local system level.
+technologies: []
+modern_impact: Ideological proxy conflicts between factions demonstrate how superpower tensions manifest at the local system level.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Defending Graill Redd
-
 
 Authorities in The Graill Redd system have reported a sharp increase in The number of criminals operating in the area. Apparently, organisations in neighbouring systems – the Citizen Party of G146-60 and the Workers Party of G 176-29 – are attempting to cultivate discord in the system in order to pave the way for the introduction of communism. 
 

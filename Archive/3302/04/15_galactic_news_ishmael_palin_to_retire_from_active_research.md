@@ -18,14 +18,10 @@ topics:
 - ship
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Ishmael Palin to Retire from Active Research
-
 
 Professor Ishmael Palin has announced his intention to retire from The research institute he founded last year. In a statement, the professor explained the reasoning behind the decision: 
 

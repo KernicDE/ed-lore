@@ -4,22 +4,22 @@ title: Winters Pauses Inauguration After Rhea Disaster
 slug: winters_pauses_inauguration_after_rhea_disaster
 date: '3310-02-21'
 source: API
-entities: []
+summary: President-elect Felicia Winters officially delays her inauguration to focus on Rhea 3 earthquake relief after losing most of her family in New Greenacre's destruction.
+player_impact: Not specifically mentioned — this is a political announcement.
+persons:
+- Felicia Winters
+- Zachary Hudson
+- Isolde Rochester
+- Len Kennelly
 groups: []
 locations:
 - Rhea
 topics:
 - humanitarian
 - politics
+entities: []
 arc_id: null
-modern_impact: "The official statement — 'most of the Winters family, plus many close friends, lost their lives when the capital city of New Greenacre was levelled' — confirms the personal tragedy. Hudson's agreement to 'a short extension of his presidential term' is a constitutional compromise. The Empirical journal's discussion of terraformed planet earthquakes adds scientific context. Kennelly's reporting on 'nearly a million survivors, albeit many injured' quantifies the scale."
-persons:
-- Felicia Winters
-- Zachary Hudson
-- Isolde Rochester
-- Len Kennelly
-player_impact: "Not specifically mentioned — this is a political announcement."
-summary: "President-elect Felicia Winters officially delays her inauguration to focus on Rhea 3 earthquake relief after losing most of her family in New Greenacre's destruction."
+modern_impact: The official statement — 'most of the Winters family, plus many close friends, lost their lives when the capital city of New Greenacre was levelled' — confirms the personal tragedy. Hudson's agreement to 'a short extension of his presidential term' is a constitutional compromise. The Empirical journal's discussion of terraformed planet earthquakes adds scientific context. Kennelly's reporting on 'nearly a million survivors, albeit many injured' quantifies the scale.
 legacy_weight: 3
 significance: medium
 related_uuids:

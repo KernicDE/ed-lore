@@ -11,18 +11,15 @@ persons:
 groups:
 - Money Matters
 locations: []
-technologies:
-- Unknown Artefacts
 topics:
 - trade
+technologies:
+- Unknown Artefacts
 arc_id: unknown-artefacts
 modern_impact: Rising UA prices incentivise black-market trade, indirectly fuelling the station malfunction crisis that follows.
 legacy_weight: 3
 significance: medium
 ---
-
-Market Value of Unknown Artefacts Increases
-
 
 The Money Matters news feed has reported that the market value of the mysterious unknown artefacts has dramatically increased. The report neglects to include specific figures, citing the "fluctuating nature" of the market, but does imply that the trade price has seen a significant upswing. According to Money Matters correspondent Roberta Unwin: 
 

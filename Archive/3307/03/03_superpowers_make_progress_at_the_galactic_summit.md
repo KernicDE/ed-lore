@@ -4,7 +4,8 @@ title: Superpowers Make Progress at the Galactic Summit
 slug: superpowers_make_progress_at_the_galactic_summit
 date: 3307-03-03
 source: API
-arc_id: null
+summary: Leaders from The Alliance, Empire and Federation have agreed a series of minor treaties at the diplomatic gathering in The Sirius system.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
 persons:
 - Aisling Duval
 - Defensive
@@ -23,9 +24,10 @@ topics:
 - diplomacy
 - terrorism
 - war
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
-summary: Leaders from The Alliance, Empire and Federation have agreed a series of minor treaties at the diplomatic gathering in The Sirius system.
-modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+arc_id: null
+modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
 - 3a299742-113f-5b36-98e2-a791ed35ae34
@@ -33,8 +35,6 @@ related_uuids:
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 - fc197df5-b778-5964-a004-448689eba981
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
-legacy_weight: 5
-significance: high
 ---
 
 Leaders from The Alliance, Empire and Federation have agreed a series of minor treaties at the diplomatic gathering in The Sirius system.

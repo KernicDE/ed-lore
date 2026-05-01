@@ -12,22 +12,18 @@ groups:
 - Pilots Federation
 locations:
 - Shinrarta Dezhra
-technologies:
-- GalNet
 topics:
 - exploration
 - piracy
 - ship
 - trade
 - war
-modern_impact: The Pilots Federation's GalNet infrastructure and ranking system remain
-  central to independent pilot life across the galaxy.
+technologies:
+- GalNet
+modern_impact: The Pilots Federation's GalNet infrastructure and ranking system remain central to independent pilot life across the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: The Origin of the Pilots Federation
-
 
 Continuing Our popular series on significant episodes from human history, noted historian Sima Kalhana discusses the foundation of the Pilots Federation. 
 

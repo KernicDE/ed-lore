@@ -4,6 +4,8 @@ title: Chancellor Blaine Confirms Senate Investigation
 slug: chancellor_blaine_confirms_senate_investigation
 date: '3301-09-21'
 source: GitHub
+summary: Chancellor Anders Blaine confirmed a Senate investigation into the connection between Princess Aisling Duval's office and Emperor's Dawn would begin immediately, despite the Senate being in closed session until the succession is decided. Aisling stated she would fully comply and had discovered alarming information to share. Several of Damon Clarke's associates were arrested and questioned by the IISS.
+player_impact: None
 persons:
 - Anders Blaine
 - Aisling Duval
@@ -12,23 +14,16 @@ groups:
 - Imperial Senate
 - Imperial Internal Security Service
 locations: []
-technologies: []
 topics:
 - investigation
 - succession
 - terrorism
-summary: Chancellor Anders Blaine confirmed a Senate investigation into the connection between Princess Aisling Duval's office and Emperor's Dawn would begin immediately, despite the Senate being in closed session until the succession is decided. Aisling stated she would fully comply and had discovered alarming information to share. Several of Damon Clarke's associates were arrested and questioned by the IISS.
-player_impact: None
+technologies: []
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
 
-Chancellor Blaine Confirms Senate Investigation
-
-
-Chancellor Blaine Confirms Senate Investigation 
- 
 At The start of The day’s deliberations, Chancellor Anders Blaine declared that a Senate investigation into the claimed connection between Princess Aisling Duval’s office and the insurgent group Emperor’s Dawn was to be undertaken. The investigation will begin immediately, despite the Senate being in closed session until the succession is decided. 
 
 In response, Aisling Duval stated that she would comply in any way she could With the investigation. She also said that her own security teams had discovered some alarming information that she would share With the investigation committee. 

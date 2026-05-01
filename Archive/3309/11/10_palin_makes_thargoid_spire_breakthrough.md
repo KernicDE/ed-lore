@@ -4,23 +4,23 @@ title: Palin Makes Thargoid Spire Breakthrough
 slug: palin_makes_thargoid_spire_breakthrough
 date: '3309-11-10'
 source: API
-entities: []
+summary: Palin discovers genetic commonalities between spire compounds and Titan hull fragments, synthesising a biological contaminant to disrupt spire processing chains.
+player_impact: Pilots delivered samples from Titans and Thargoid spire sites to Palin in the Arque system.
+persons:
+- Ishmael Palin
+- Maximo Fonseca
 groups:
 - Aegis
 locations: []
 topics:
 - alien contact
 - research
-arc_id: thargoid-titan-war
-modern_impact: "Palin's theory — 'these surface sites have been established to harvest resources which sustain the Thargoid motherships in some way' — frames spires as supply chains. His suggestion that 'their supplies of some vital enzymes or fuels are running low' implies the Thargoids are logistically strained. Fonseca's caution — 'still in the experimental phase' — tempers expectations. The honouring of specific CMDRs is a rare direct player acknowledgment."
-persons:
-- Ishmael Palin
-- Maximo Fonseca
+entities: []
 technologies:
 - biological contaminant
 - Thargoid spire compounds
-player_impact: "Pilots delivered samples from Titans and Thargoid spire sites to Palin in the Arque system."
-summary: "Palin discovers genetic commonalities between spire compounds and Titan hull fragments, synthesising a biological contaminant to disrupt spire processing chains."
+arc_id: thargoid-titan-war
+modern_impact: Palin's theory — 'these surface sites have been established to harvest resources which sustain the Thargoid motherships in some way' — frames spires as supply chains. His suggestion that 'their supplies of some vital enzymes or fuels are running low' implies the Thargoids are logistically strained. Fonseca's caution — 'still in the experimental phase' — tempers expectations. The honouring of specific CMDRs is a rare direct player acknowledgment.
 legacy_weight: 4
 significance: high
 related_uuids:

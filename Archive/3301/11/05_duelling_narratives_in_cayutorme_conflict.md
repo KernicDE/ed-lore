@@ -14,20 +14,16 @@ groups:
 - Imperial Navy
 locations:
 - Cayutorme
-technologies: []
 topics:
 - ship
 - succession
 - war
+technologies: []
 arc_id: cayutorme-conflict
-modern_impact: A significant military engagement testing the Empire's ability to project
-  force against organized criminal syndicates.
+modern_impact: A significant military engagement testing the Empire's ability to project force against organized criminal syndicates.
 legacy_weight: 3
 significance: medium
 ---
-
-Duelling Narratives in Cayutorme Conflict
-
 
 The deadline for the inspection and disbandment of the mercenary Cayutorme Syndicate fleet has passed, and Imperial Naval vessels have entered the Cayutorme system. Speaking from an undisclosed location, the leader of the Cayutorme Syndicate, Kyle Kurowski, confirmed that his mercenary armada had engaged the Imperial Fleet, but denied reports that Independent pilots were fighting for both sides: "Independent pilots are just that – independent. They will not be the tool the Emperor uses to turn us into Imperial citizens. If they stand for freedom, they stand With us." 
 

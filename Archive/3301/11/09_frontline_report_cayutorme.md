@@ -15,14 +15,10 @@ locations:
 - Cayutorme
 technologies: []
 arc_id: cayutorme-conflict
-modern_impact: A significant military engagement testing the Empire's ability to project
-  force against organized criminal syndicates.
+modern_impact: A significant military engagement testing the Empire's ability to project force against organized criminal syndicates.
 legacy_weight: 3
 significance: medium
 ---
-
-Frontline Report: Cayutorme
-
 
 Imperial forces have begun their offensive against The Cayutorme Syndicate and Its illegal fleet. Large clashes have occurred over the past few days, and major victories have been won by the forces of the Imperial Navy and its auxiliary force of Commanders. 
 

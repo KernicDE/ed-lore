@@ -15,14 +15,10 @@ locations:
 topics:
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Meta-Alloy Sale Announced at Darnielle's Progress
-
 
 Business leaders Darnielle's Progress in The Maia system have announced a sale of meta-alloys. Their spokesman, Larry Oldman, had This to say. 
 

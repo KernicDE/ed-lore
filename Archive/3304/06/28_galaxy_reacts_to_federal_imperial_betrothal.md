@@ -30,8 +30,6 @@ related_uuids:
 - 46407e8e-50ca-56ba-88b8-54b530cb06c5
 - 0b892435-583e-531a-b389-963788fe5e3a
 ---
-Galaxy Reacts to Federal-Imperial Betrothal
-
 
 There has been a range of reactions to news that Princess Aisling Duval and Federal Ambassador Jordan Rochester are to be married. 
 

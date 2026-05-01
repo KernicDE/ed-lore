@@ -13,14 +13,10 @@ topics:
 - ship
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-The Battle for Hartsfield
-
 
 In what can only be described as a devastating blow for The Federation, the Crimson State Group and the Sons of Conn have managed to wrestle control of Hartsfield Market from the Lugh for Equality Party.  
 

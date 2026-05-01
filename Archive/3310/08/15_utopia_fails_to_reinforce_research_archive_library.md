@@ -4,6 +4,11 @@ title: Utopia Fails to Reinforce Research Archive Library
 slug: utopia_fails_to_reinforce_research_archive_library
 date: '3310-08-15'
 source: API
+summary: Utopia's campaign in Polevnic ends without reaching its quota, with Antal thanking participants and Yong-Rui offering to fill the supply gap.
+player_impact: Pilots who delivered commodities and encoded materials to Tanner Settlement in Polevnic can collect their rewards.
+persons:
+- Pranav Antal
+- Li Yong-Rui
 groups:
 - Sirius Corporation
 - Utopia
@@ -13,12 +18,7 @@ topics:
 - corporate expansion
 - research
 - politics
-modern_impact: "Antal's dig — 'Sirius Corporation maintains its shadow over humanity, even as Achilles' Corporation enjoys a brief moment in the sunlight' — frames the conflict as part of a larger corporate struggle. Yong-Rui's response — 'Utopia's excellent research could benefit humanity in the present, not just some hypothetical future' — is a direct challenge to Utopia's long-term philosophy. His closing 'I look forward to discussing more with Pranav in person' has an ominous undertone given the ongoing pressure."
-persons:
-- Pranav Antal
-- Li Yong-Rui
-player_impact: "Pilots who delivered commodities and encoded materials to Tanner Settlement in Polevnic can collect their rewards."
-summary: "Utopia's campaign in Polevnic ends without reaching its quota, with Antal thanking participants and Yong-Rui offering to fill the supply gap."
+modern_impact: Antal's dig — 'Sirius Corporation maintains its shadow over humanity, even as Achilles' Corporation enjoys a brief moment in the sunlight' — frames the conflict as part of a larger corporate struggle. Yong-Rui's response — 'Utopia's excellent research could benefit humanity in the present, not just some hypothetical future' — is a direct challenge to Utopia's long-term philosophy. His closing 'I look forward to discussing more with Pranav in person' has an ominous undertone given the ongoing pressure.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -26,7 +26,7 @@ related_uuids:
 - 50443c34-411a-58ea-8cc5-88e89af25d5c
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Utopia’s campaign in the Polevnic system has ended, with Pranav Antal announcing that it did not receive the desired quota of goods and samples.
 The requested deliveries of several types of commodities and encoded materials arrived at Tanner Settlement starport in the Polevnic system. The Guardians of Harmony, which managed the initiative, is now arranging payment on behalf of Antal for all pilots who took part.
 Simguru Pranav Antal transmitted a short message that was broadcast by all newsfeeds:

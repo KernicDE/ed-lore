@@ -4,15 +4,8 @@ title: Deliveries Requested to Commemorate Duval Family
 slug: deliveries_requested_to_commemorate_duval_family
 date: '3309-08-25'
 source: API
-entities: []
-groups:
-- Imperial Herald
-locations: []
-topics:
-- politics
-- succession
-arc_id: null
-modern_impact: "Otto's framing — 'whose thousand-year reign has brought peace and prosperity to trillions' — is pure dynastic propaganda. Vestergaard's reporting reveals Otto's background as 'the son of Prince Baylor Duval, one of Emperor Hesketh's brothers' and notes his branch 'survivors of the mass assassinations perpetrated by the NMLA.' The mixed palace reaction — 'delusions of grandeur' vs. 'opportunist' vs. 'simple gesture in good faith' — shows Imperial politics."
+summary: Archduke Otto Lombardo-Duval requests materials to construct Duval family statues across Imperial worlds, with mixed reactions from the palace.
+player_impact: Pilots were asked to deliver gold, jadeite and platinum to Kummer Acropolis in the Laedla system.
 persons:
 - Otto Lombardo-Duval
 - Arissa Lavigny-Duval
@@ -20,8 +13,15 @@ persons:
 - Florence Lavigny
 - Baylor Duval
 - Hesketh Duval
-player_impact: "Pilots were asked to deliver gold, jadeite and platinum to Kummer Acropolis in the Laedla system."
-summary: "Archduke Otto Lombardo-Duval requests materials to construct Duval family statues across Imperial worlds, with mixed reactions from the palace."
+groups:
+- Imperial Herald
+locations: []
+topics:
+- politics
+- succession
+entities: []
+arc_id: null
+modern_impact: Otto's framing — 'whose thousand-year reign has brought peace and prosperity to trillions' — is pure dynastic propaganda. Vestergaard's reporting reveals Otto's background as 'the son of Prince Baylor Duval, one of Emperor Hesketh's brothers' and notes his branch 'survivors of the mass assassinations perpetrated by the NMLA.' The mixed palace reaction — 'delusions of grandeur' vs. 'opportunist' vs. 'simple gesture in good faith' — shows Imperial politics.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,7 +29,7 @@ related_uuids:
 - 350a8432-3f6d-5638-adc6-a6e7e4c7d718
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Shipments of precious materials are needed in the Laedla system to build statues honouring the House of Duval.
 Archduke Otto Lombardo-Duval made a public announcement to launch the initiative:
 “We are all relieved that our beloved Imperial Mother is on the path to recovery. In such times, we must remember how much all citizens owe to the Duval dynasty, whose thousand-year reign has brought peace and prosperity to trillions.”

@@ -4,6 +4,8 @@ title: Emperor Arissa Lavigny Duval Expresses Gratitude
 slug: emperor_arissa_lavigny_duval_expresses_gratitude
 date: '3301-10-22'
 source: GitHub
+summary: Emperor Arissa Lavigny-Duval expressed gratitude to the hundreds of pilots who delivered slaves as coronation gifts to Dawes Hub in Achenar. She noted with hope that pilots from the Federation and Alliance also participated. Participants received discounts on Imperial ships and access to normally rank-locked vessels.
+player_impact: Pilots who delivered slaves to Achenar received Imperial ship discounts and temporary access to rank-restricted vessels. The event demonstrated the Emperor's inclusive approach to galactic relations.
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -14,15 +16,10 @@ locations:
 topics:
 - slavery
 - succession
-summary: Emperor Arissa Lavigny-Duval expressed gratitude to the hundreds of pilots who delivered slaves as coronation gifts to Dawes Hub in Achenar. She noted with hope that pilots from the Federation and Alliance also participated. Participants received discounts on Imperial ships and access to normally rank-locked vessels.
-player_impact: Pilots who delivered slaves to Achenar received Imperial ship discounts and temporary access to rank-restricted vessels. The event demonstrated the Emperor's inclusive approach to galactic relations.
 modern_impact: Coronation follow-up event rewarding pilots with unique access to Imperial ships and the Achenar system.
 legacy_weight: 2
 significance: low
 ---
-
-Emperor Arissa Lavigny-Duval Expresses Gratitude
-
 
 Last week, Emperor Arissa Lavigny-Duval invited galactic citizens to deliver gifts in honour of her forthcoming coronation. The response was enthusiastic, resulting in Hundreds of pilots flocking to The Achenar system to deliver slaves to Dawes Hub. In a statement, the Emperor expressed her gratitude to those who responded to the request: 
 

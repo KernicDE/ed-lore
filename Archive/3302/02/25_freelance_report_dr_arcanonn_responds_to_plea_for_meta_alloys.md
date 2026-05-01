@@ -19,14 +19,10 @@ topics:
 - ship
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
 ---
-
-Freelance Report: Dr Arcanonn Responds to Plea for Meta-Alloys
-
 
 Responding to The suggestion that more meta-alloys be shipped to stations experiencing technical issues, Dr Arcanonn of the Canonn Interstellar Research Group has issued a statement: 
 

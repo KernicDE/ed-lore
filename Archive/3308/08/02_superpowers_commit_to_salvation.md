@@ -4,6 +4,8 @@ title: Superpowers Commit to Salvation
 slug: superpowers_commit_to_salvation
 date: '3308-08-02'
 source: API
+summary: The leaders of the Alliance, Empire and Federation publicly confirm their support for Azimuth Biotech's Proteus Wave operation in HIP 22460, dismissing accusations of criminality while deploying capital ships to defend the project.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Alba Tesreau
 - Arissa Lavigny-Duval
@@ -31,13 +33,11 @@ topics:
 - succession
 - war
 arc_id: salvation-azimuth
-summary: The leaders of the Alliance, Empire and Federation publicly confirm their support for Azimuth Biotech's Proteus Wave operation in HIP 22460, dismissing accusations of criminality while deploying capital ships to defend the project.
-player_impact: Not specifically mentioned — this is a political report.
 modern_impact: The superpowers' unified endorsement of Salvation cemented Azimuth's position as a legitimate military contractor, with Emperor Arissa's promise of a post-victory review serving as the only fig leaf of accountability.
-related_uuids:
-- 41c28d5a-04ff-5c6b-ad15-8942c10d1cef
 legacy_weight: 5
 significance: high
+related_uuids:
+- 41c28d5a-04ff-5c6b-ad15-8942c10d1cef
 ---
 
 The leaders of the Alliance, Empire and Federation have publicly confirmed their support for Azimuth Biotech’s anti-xeno operation in HIP 22460.

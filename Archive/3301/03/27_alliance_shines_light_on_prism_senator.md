@@ -4,8 +4,6 @@ title: Alliance Shines Light on Prism Senator
 slug: alliance_shines_light_on_prism_senator
 date: '3301-03-27'
 source: GitHub
-entities:
-- Kahina Tijani Loren
 groups:
 - Alliance
 locations:
@@ -15,15 +13,13 @@ locations:
 - Prism
 topics:
 - diplomacy
+entities:
+- Kahina Tijani Loren
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Alliance Shines Light on Prism Senator
-
 
 In an open letter addressed for The attention of Senator Kahina Tijani Loren, Alliance representatives from Alioth have extended an invitation for her to visit their Star-systems With the assurance The her trip will be free from “bungling bureaucracy, petty-minded procrastinators and deranged docking debacles.” 
 

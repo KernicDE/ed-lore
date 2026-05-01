@@ -14,22 +14,19 @@ groups:
 - Intergalactic Naval Reserve Arm
 locations:
 - Veliaze
-technologies:
-- mycoid virus
-- electronic countermeasure
 topics:
 - alien contact
 - piracy
 - research
 - ship
+technologies:
+- mycoid virus
+- electronic countermeasure
 arc_id: thargoid-contact
 modern_impact: Historical context on Thargoid encounters, the mycoid virus, and INRA's covert operations frames contemporary reactions to Unknown Artefacts and Probes.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: The Thargoids
-
 
 Continuing Our series on significant episodes from human history, noted historian Sima Kalhana discusses the Thargoids. 
 

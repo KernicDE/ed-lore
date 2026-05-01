@@ -4,7 +4,8 @@ title: 'NMLA Attacks Marlinist Starports '
 slug: nmla_attacks_marlinist_starports
 date: '3307-07-29'
 source: API
-arc_id: nmla-terrorism
+summary: The NMLA bombs Stillman Hub in HIP 22550 and Tilman Point in Hyades Sector RO-P b6-6, killing tens of thousands. The attacks are believed to be retaliation for Verity Dexter's election loss. First Minister Jenna Fairfax is reported among the fatalities. Prime Consul Kayode Tau calls for emergency humanitarian aid.
+player_impact: Pilots were called upon to provide humanitarian aid and evacuate trapped civilians from Stillman Hub and Tilman Point.
 persons:
 - Jenna Fairfax
 - Kayode Tau
@@ -24,24 +25,23 @@ locations:
 - Tilman Point
 - Achenar
 - Empire
-technologies:
-- Caustic enzyme bomb
-- Explosive device
 topics:
 - humanitarian
 - war
-player_impact: Pilots were called upon to provide humanitarian aid and evacuate trapped civilians from Stillman Hub and Tilman Point.
-summary: The NMLA bombs Stillman Hub in HIP 22550 and Tilman Point in Hyades Sector RO-P b6-6, killing tens of thousands. The attacks are believed to be retaliation for Verity Dexter's election loss. First Minister Jenna Fairfax is reported among the fatalities. Prime Consul Kayode Tau calls for emergency humanitarian aid.
+technologies:
+- Caustic enzyme bomb
+- Explosive device
+arc_id: nmla-terrorism
 modern_impact: The NMLA's bombing of Marlinist starports reveals the terrorists' willingness to kill their own people, undermining any claim to represent Marlinist interests and triggering a crisis of leadership in the colonies.
+legacy_weight: 5
+significance: high
 related_uuids:
 - d3cdfef9-79b2-5007-9569-61a2ea0ec0fa
 - 2e3992b6-08d1-5359-9a08-d83dc89b6dee
 - ee0e62f0-12a7-5ce4-a133-54d92713354b
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The NMLA has bombed two starports in the HIP 22550 and Hyades Sector RO-P b6-6 systems in the Marlinist Colonies.
 Explosive devices were detonated at both Stillman Hub and Tilman Point stations. As is characteristic of weapons used by the NMLA, caustic enzyme payloads caused widespread corrosive damage.
 The combined death toll is in the tens of thousands, With Many more injured. There are unconfirmed reports that First Minister Jenna Fairfax is among the fatalities.

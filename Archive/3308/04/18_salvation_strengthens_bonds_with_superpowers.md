@@ -4,7 +4,8 @@ title: Salvation Strengthens Bonds with Superpowers
 slug: salvation_strengthens_bonds_with_superpowers
 date: '3308-04-18'
 source: API
-arc_id: salvation-azimuth
+summary: Salvation receives increased military support from all three superpowers as naval personnel are seconded to his organisation.
+player_impact: Not specifically mentioned — this is a military report.
 persons:
 - Andrew Jones
 groups:
@@ -20,14 +21,13 @@ topics:
 - espionage
 - research
 - xenoarchaeology
-player_impact: Not specifically mentioned — this is a military report.
-summary: Salvation receives increased military support from all three superpowers as naval personnel are seconded to his organisation.
-modern_impact: "\"Most of us are here because it feels like Salvation is the only one taking the fight to the Thargoids.\" The formal secondment of superpower naval personnel to Salvation's fleet marked a watershed moment in which state militaries subcontracted their anti-xeno strategy to an anonymous private actor, undermining traditional defence institutions like Aegis."
+arc_id: salvation-azimuth
+modern_impact: '"Most of us are here because it feels like Salvation is the only one taking the fight to the Thargoids." The formal secondment of superpower naval personnel to Salvation''s fleet marked a watershed moment in which state militaries subcontracted their anti-xeno strategy to an anonymous private actor, undermining traditional defence institutions like Aegis.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 04bfcfe5-65d6-5e23-8e51-a76f0a139c5f
 - 8097c00d-2e15-5445-b408-e3b80f412aac
-legacy_weight: 5
-significance: high
 ---
 
 The anonymous anti-xeno scientist Salvation has received Further military support from the Alliance, Empire and Federation.

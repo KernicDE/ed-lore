@@ -4,9 +4,6 @@ title: Core Dynamics Completes Work on New Capital Ship
 slug: core_dynamics_completes_work_on_new_capital_ship
 date: '3301-03-11'
 source: GitHub
-entities:
-- Ishum
-- Sam Ishum
 groups:
 - Core Dynamics
 - Federal Navy
@@ -15,13 +12,13 @@ topics:
 - ship
 - trade
 - war
+entities:
+- Ishum
+- Sam Ishum
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
 ---
-
-Core Dynamics Completes Work on New Capital Ship
-
 
 Core Dynamics, in association With the Federal Navy, are pleased to announce The latest addition to The Federal capital ship family, the FNS Nevermore. 
 

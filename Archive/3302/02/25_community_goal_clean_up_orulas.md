@@ -26,9 +26,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Clean up Orulas
-
-
 For years, The sparsely Populated Orulas system has been dominated by the Orulas Blue Hand Gang, a ruthless criminal organisation. This cold-blooded band has been making life intolerable for the system's inhabitants, But the local government appears reluctant to take a stand. Some have speculated that this is because the authorities receive regular kickbacks from the criminals. 
 
 But One resident has had enough. Rose Trebek, a former soldier and veteran of countless military campaigns, has established a defence initiative to clean up Orulas – the Joint Security Taskforce. 

@@ -4,25 +4,25 @@ title: Help Harksing’s Gifts Reach Recipients
 slug: help_harksings_gifts_reach_recipients
 date: '3309-12-15'
 source: API
-groups: []
-locations:
-- Delphi
-topics:
-- culture
-modern_impact: "Abara's profile captures Harksing's character — 'Such boyish enthusiasm, coupled with the odd nature of his creations, has made him a local celebrity.' The description of his gifts — from 'chin-mounted palate-cleansing robot' to 'Furry Yuri teddy bear' to 'Filial Pursuit card game' — shows his whimsical nature. The Tau Ceti Journal's cynical take contrasts with the general view of him as 'joyful and philanthropic.'"
+summary: Eccentric inventor Harald Harksing's gift-delivery database is corrupted, preventing his latest batch of custom inventions from reaching their celebrity recipients.
+player_impact: Not specifically mentioned — this is a cultural report.
 persons:
 - Harald Harksing
 - Lishan Abara
 - Giles Cappelleo
 - Delphine Dumont
 - Otto Lombardo-Duval
-player_impact: "Not specifically mentioned — this is a cultural report."
-summary: "Eccentric inventor Harald Harksing's gift-delivery database is corrupted, preventing his latest batch of custom inventions from reaching their celebrity recipients."
+groups: []
+locations:
+- Delphi
+topics:
+- culture
+modern_impact: Abara's profile captures Harksing's character — 'Such boyish enthusiasm, coupled with the odd nature of his creations, has made him a local celebrity.' The description of his gifts — from 'chin-mounted palate-cleansing robot' to 'Furry Yuri teddy bear' to 'Filial Pursuit card game' — shows his whimsical nature. The Tau Ceti Journal's cynical take contrasts with the general view of him as 'joyful and philanthropic.'
 legacy_weight: 1
 significance: low
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The eccentric inventor Harald Harksing has been causing quite a stir on Angel Station in the Calhuacan system.
 Recent reports suggest that the independent entrepreneur is experiencing problems with a corrupted database. This has prevented him from shipping his latest batch of inventions to their intended destinations. The commotion caused by his efforts to resolve the issue has brought both amusement and exasperation to the starport’s inhabitants.
 Lishan Abara, culture correspondent for Vox Galactica, published a profile piece on Harksing:

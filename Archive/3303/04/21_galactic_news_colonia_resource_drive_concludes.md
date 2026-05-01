@@ -13,18 +13,14 @@ locations:
 - Colonia
 - Jaques Station
 - Eol Prou
-technologies: []
 topics:
 - war
+technologies: []
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Colonia Resource Drive Concludes
-
 
 Recent reports indicate that The Colonia Co-operative resource drive has received the wholehearted support of the galactic community. Thousands of tonnes of resources have been delivered to Jaques Station over the past week, Which will be used to develop infrastructure throughout Colonia and the surrounding systems. 
 

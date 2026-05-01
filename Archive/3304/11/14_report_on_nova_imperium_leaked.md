@@ -25,9 +25,6 @@ related_uuids:
 - 022febc0-0bac-50a9-ab0b-92002fcb91eb
 ---
 
-Report on Nova Imperium Leaked
-
-
 A report compiled by The Imperial Internal Security Service on isolationist group Nova Imperium has been leaked.  
 
 The Rewired news service broadcast the report in full: 

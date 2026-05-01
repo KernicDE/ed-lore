@@ -25,9 +25,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Isolde Rochester becomes Shadow Vice President
-
-
 Federal Shadow President Felicia Winters has appointed Isolde Rochester As the deputy leader of The Federation’s Liberal Party. 
 
 The new Shadow Vice President made a statement to the media: 

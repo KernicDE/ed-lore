@@ -13,18 +13,15 @@ locations:
 - Colonia
 - Eol Prou RS-T d3-94
 - Jaques Station
-technologies: []
 topics:
 - exploration
 - war
+technologies: []
 arc_id: jaques-station
 modern_impact: The exploration data drive accelerates mapping of the Colonia region and attracts explorers to the emerging deep-space frontier.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: 80 DD-D 774-CE-2 Appeals for Exploration Data
-
 
 The 80 DD-D 774-CE-2 faction, an Independent organisation based at Jaques Station in the Eol Prou RS-T d3-94 system, has issued a request for exploration data. The request is part of an ongoing initiative to establish a permanent community in the Colonia Nebula. 
 

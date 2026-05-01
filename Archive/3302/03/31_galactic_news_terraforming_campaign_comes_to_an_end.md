@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Terraforming Campaign Comes to an End
-
-
 The Revolutionary Party of Vennik announced that it has received sufficient quantities of terrain-enrichment systems to bring Its terraforming project to a successful conclusion. Hundreds of pilots responded to the organisation's appeal by delivering the much-needed commodities to Nixon Enterprise. The success of the campaign will allow the organisation to embark on the final phase of its plan to terraform Vennik 1, by preparing the planet's surface for agricultural development. 
 
 Following the success of the campaign, a spokesperson for the Revolutionary Party of Vennik released a brief statement: 

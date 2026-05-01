@@ -10,19 +10,15 @@ persons:
 - Alfred Jeffress
 groups: []
 locations: []
-technologies: []
 topics:
 - sport
 - treasure hunt
 - war
-modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
-  across the galaxy.
+technologies: []
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving across the galaxy.
 legacy_weight: 1
 significance: low
 ---
-
-Another Jeffress Treasure Hunt
-
 
 Eccentric billionaire Alfred Jeffress has made headlines in recent weeks With not One but two galaxy-wide treasure hunts, Each of Which saw The reclusive philanthropist give out enormous cash prizes. Now Jeffress has announced a third treasure hunt, and once again he has promised to reward the winner with a share of his vast personal fortune. 
 

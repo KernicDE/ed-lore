@@ -14,19 +14,16 @@ groups:
 locations:
 - Meropis
 - Laura Elizabeth
-technologies: []
 topics:
 - construction
 - festival
 - sport
 - war
+technologies: []
 modern_impact: Community celebration bringing pilots together.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: EG Pliots win Rise to Power
-
 
 The third and final heat of the Rise to Power campaign is over. 
 

@@ -15,21 +15,17 @@ groups:
 locations:
 - Jaques Station
 - Eol Prou RS-T d3-94
-technologies:
-- meta-alloys
 topics:
 - construction
 - sport
 - trade
+technologies:
+- meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: GalCop Mobilizes to Aid Jaques Station
-
 
 Since contact With Jaques Station was re-established, a substantial effort from Independent pilots to deliver meta-alloys to The stricken starport has returned it to partial functionality. 
 

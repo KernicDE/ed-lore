@@ -4,26 +4,26 @@ title: Caspian Explorer Trials Deemed a Resounding Success
 slug: caspian_explorer_trials_deemed_a_resounding_success
 date: '3311-12-16'
 source: API
+summary: Zorgon Peterson confirmed the Caspian Explorer exceeded all internal projections during two-week field trials, with CMDR BitNick contributing the most exobiological data.
+player_impact: Independent pilots gathered exobiological data across the galaxy using the Caspian Explorer during a two-week field trial. CMDR BitNick contributed the most data and was publicly recognised by Zorgon Peterson.
+persons:
+- Devin Kaneda
+- BitNick
 groups:
 - Zorgon Peterson
 topics:
 - engineering
 - exploration
 - ship
-persons:
-- Devin Kaneda
-- BitNick
 technologies:
 - Caspian Explorer
 - Mk II exploration modules
 - Mk II SCO-enabled frame shift drive
-player_impact: "Independent pilots gathered exobiological data across the galaxy using the Caspian Explorer during a two-week field trial. CMDR BitNick contributed the most data and was publicly recognised by Zorgon Peterson."
-summary: "Zorgon Peterson confirmed the Caspian Explorer exceeded all internal projections during two-week field trials, with CMDR BitNick contributing the most exobiological data."
-modern_impact: "The Caspian Explorer's validation during exobiological data collection positions it as the ship of choice for the post-war exploration boom. Its Mk II SCO FSD with enhanced neutron and white dwarf boosting directly addresses the need for extreme-range travel to newly discovered exobiological sites. By January 3312, when Distant Worlds 3 departs, the Caspian is already a proven expedition vessel."
-related_uuids:
-- ff10d591-3b3a-5d42-bb74-f5a640877506
+modern_impact: The Caspian Explorer's validation during exobiological data collection positions it as the ship of choice for the post-war exploration boom. Its Mk II SCO FSD with enhanced neutron and white dwarf boosting directly addresses the need for extreme-range travel to newly discovered exobiological sites. By January 3312, when Distant Worlds 3 departs, the Caspian is already a proven expedition vessel.
 legacy_weight: 2
 significance: low
+related_uuids:
+- ff10d591-3b3a-5d42-bb74-f5a640877506
 ---
 
 Zorgon Peterson has confirmed the successful conclusion of its Caspian Explorer field trials, with pilots securing vast quantities of exobiological data.

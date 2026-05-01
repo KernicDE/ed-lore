@@ -11,18 +11,15 @@ groups:
 - Wreaken Construction
 locations:
 - COL 70 sector
-technologies: []
 topics:
 - construction
 - investigation
 - safety
+technologies: []
 modern_impact: Fatal radiation incident at a heavily secured Wreaken Construction site in the COL 70 sector raises questions about the company's activities.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Body Found at Wreaken Construction Site
-
 
 An unidentified individual has been found dead at a Wreaken Construction site in The COL 70 sector. The body was disfigured as a result of radiation exposure, and identification has so Far not been possible. System authorities are conducting an investigation. 
 

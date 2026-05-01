@@ -24,9 +24,6 @@ related_uuids:
 - 6b2df088-7279-50b2-bdbe-cd298c161509
 ---
 
-Lave Radio Network Campaign Concludes
-
-
 The Lave Radio Network has announced that Its campaign has reached a successful conclusion. Scores of pilots supported The initiative by delivering commodities to Lave Station, thereby allowing the network to broadcast its annual conference to The entire galaxy. A rival campaign from the Lave Jet Family was unable to destabilise the Lave Radio initiative, despite also receiving the support of Independent pilots. 
 
 As the campaign drew to a close, One of the organisers released a statement: 

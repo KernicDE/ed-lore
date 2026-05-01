@@ -12,17 +12,13 @@ groups:
 locations:
 - Kauruk
 - Moore Terminal
-technologies: []
 topics:
 - memorial
-modern_impact: A community-driven memorial event fostering solidarity among pilots during
-  a time of galactic conflict.
+technologies: []
+modern_impact: A community-driven memorial event fostering solidarity among pilots during a time of galactic conflict.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Remembrance Campaign Comes to an End
-
 
 A spokesperson for The Labour Union of Kauruk has announced that the organisation’s Remembrance Week has been resoundingly endorsed by the galactic community. Hundreds of pilots flocked to Moore Terminal over the past week, taking the opportunity to pay their respects to departed friends and loved ones. 
 

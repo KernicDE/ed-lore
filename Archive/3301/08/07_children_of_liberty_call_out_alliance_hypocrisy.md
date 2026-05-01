@@ -4,6 +4,8 @@ title: Children of Liberty call out Alliance Hypocrisy
 slug: children_of_liberty_call_out_alliance_hypocrisy
 date: '3301-08-07'
 source: GitHub
+summary: The group 'Children of Liberty' publicly criticized the Alliance for what it called 'rampant hypocrisy,' claiming a huge gap exists between the Alliance's professed ideals of liberty and the reality in many member systems. The group accused the Alliance of tolerating despotism and tyranny within its borders and called on Alliance supporters to back democratic factions over autocratic ones in affected systems.
+player_impact: Pilots operating in Alliance space may encounter political tensions between democratic and autocratic factions. Supporting democratic-aligned factions aligns with the Children of Liberty's stated goals.
 persons:
 - Virgil Kyle
 groups:
@@ -13,18 +15,11 @@ locations:
 - Alioth
 topics:
 - politics
-summary: The group 'Children of Liberty' publicly criticized the Alliance for what it called 'rampant hypocrisy,' claiming a huge gap exists between the Alliance's professed ideals of liberty and the reality in many member systems. The group accused the Alliance of tolerating despotism and tyranny within its borders and called on Alliance supporters to back democratic factions over autocratic ones in affected systems.
-player_impact: Pilots operating in Alliance space may encounter political tensions between democratic and autocratic factions. Supporting democratic-aligned factions aligns with the Children of Liberty's stated goals.
 modern_impact: Political critique of Alliance governance highlighting tensions between ideals and practice in member systems.
 legacy_weight: 1
 significance: low
 ---
 
-Children of Liberty call out Alliance Hypocrisy
-
-
-Children of Liberty call out Alliance Hypocrisy 
- 
 A group calling itself The 'Children of Liberty' has made a public statement concerning The Alliance and what they call Its “rampant hypocrisy”. The group claims that a "huge gulf" exists between the Alliance's professed goals and values and the reality present in Many of Its member systems. 
 
 "For an organization that purports to be devoted to the ideals of liberty and self-determination", the release stated, "the Alliance certainly tolerates a great deal of despotism and tyranny within its own borders. It's about time the Alliance addressed the rampant hypocrisy of allowing dictatorships – as well as Other restrictive, undemocratic forms of government – membership into their supposed bastion of freedom and liberty." 

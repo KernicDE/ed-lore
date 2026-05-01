@@ -4,6 +4,8 @@ title: Zemina Torval and Florence Lavigny Join Patreus Campaign
 slug: zemina_torval_and_florence_lavigny_join_patreus_campaign
 date: '3301-08-27'
 source: GitHub
+summary: Senator Patreus has gained renewed support since declaring war against Emperor's Dawn, the group claiming responsibility for Emperor Hengist Duval's assassination. Senator Zemina Torval declared her support and instructed her followers to join the campaign. Florence Lavigny also spoke out for unity, defending Patreus's honour and stating he was not involved in the murder. Patreus's influence had waned after his association with assassin Brendan Paul Darius, but his decisive action against Emperor's Dawn has raised his political profile and gained support from Senate heavyweights.
+player_impact: Pilots aligned with Patreus, Torval, or Lavigny can participate in the campaign against Emperor's Dawn.
 persons:
 - Denton Patreus
 - Zemina Torval
@@ -20,18 +22,11 @@ topics:
 - succession
 - war
 - politics
-summary: Senator Patreus has gained renewed support since declaring war against Emperor's Dawn, the group claiming responsibility for Emperor Hengist Duval's assassination. Senator Zemina Torval declared her support and instructed her followers to join the campaign. Florence Lavigny also spoke out for unity, defending Patreus's honour and stating he was not involved in the murder. Patreus's influence had waned after his association with assassin Brendan Paul Darius, but his decisive action against Emperor's Dawn has raised his political profile and gained support from Senate heavyweights.
-player_impact: Pilots aligned with Patreus, Torval, or Lavigny can participate in the campaign against Emperor's Dawn.
 modern_impact: Patreus's anti-Emperor's Dawn campaign rehabilitates his political standing and consolidates Senate support behind his military action.
 legacy_weight: 3
 significance: medium
 ---
 
-Zemina Torval and Florence Lavigny Join Patreus’ Campaign
-
-
-Zemina Torval and Florence Lavigny Join Patreus’ Campaign 
- 
 Senator Patreus has seen a resurgence of support since his declaration of war against The group responsible for Emperor Hengist Duval’s murder. Reports from The campaign have indicated that Emperor’s Dawn is now claiming responsibility for the regicide, although This hasn’t been independently confirmed as yet. 
 
 In a Senate session, Senator Zemina Torval declared her support for the operation and instructed her loyal followers to join the campaign. 

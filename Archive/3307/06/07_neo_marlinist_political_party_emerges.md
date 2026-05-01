@@ -4,7 +4,8 @@ title: Neo-Marlinist Political Party Emerges
 slug: neo_marlinist_political_party_emerges
 date: '3307-06-07'
 source: API
-arc_id: nmla-terrorism
+summary: Minister Aaron Whyte confirms the Marlinism Reformation Party aims to politically represent the Neo-Marlinist fringe. In Hyades Sector RO-P b6-2, voters remove the party from power after it granted asylum to Neo-Marlinists. The Exiled Marlinist Assembly of Baltah'Sine takes control under Minister Octavia Volkov.
+player_impact: None directly; this is a political development report.
 persons:
 - Aaron Whyte
 - Octavia Volkov
@@ -19,19 +20,18 @@ locations:
 - Hyades Sector RO-P b6-2
 - Marlinist Colonies
 - Baltah'Sine
-technologies: []
 topics:
 - independence
 - diplomacy
-player_impact: None directly; this is a political development report.
-summary: Minister Aaron Whyte confirms the Marlinism Reformation Party aims to politically represent the Neo-Marlinist fringe. In Hyades Sector RO-P b6-2, voters remove the party from power after it granted asylum to Neo-Marlinists. The Exiled Marlinist Assembly of Baltah'Sine takes control under Minister Octavia Volkov.
+technologies: []
+arc_id: nmla-terrorism
 modern_impact: Whyte's attempt to rebrand Neo-Marlinism causes alarm across the galaxy and raises the possibility that the faction may act as the NMLA's political wing, creating deep divisions within the Marlinist Colonies.
+legacy_weight: 4
+significance: medium
 related_uuids:
 - df6ae4ee-fca4-532d-af01-2d2e609c7b15
 - 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
 - 8c3140cd-6610-5192-9d89-5355c56241dc
-legacy_weight: 4
-significance: medium
 ---
 
 Minister Aaron Whyte, leader of The Marlinism Reformation Party, has confirmed that it aims to politically represent the Neo-Marlinist fringe.

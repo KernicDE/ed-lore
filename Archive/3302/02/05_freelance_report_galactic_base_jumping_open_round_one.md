@@ -18,9 +18,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: Galactic Base-Jumping Open Round One
-
-
 The first round of the Galactic Base-Jumping Open will take place on Saturday the 6th of February at 10.00 pm UTC (5.00 pm EST). 
 
 The event will take place at the 'monolith' on Altais 2B (coordinates 46 1.8) – a six-kilometre high tabletop that is ideal for SRV base jumping. 

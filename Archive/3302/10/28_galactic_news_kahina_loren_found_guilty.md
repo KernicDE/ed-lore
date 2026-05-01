@@ -6,18 +6,24 @@ date: '3302-10-28'
 source: GitHub
 summary: Kahina Tijani Loren was found guilty of attempted assassination of Admiral Denton Patreus and sentenced to life imprisonment at Koontz Asylum in the Daibo system. Her title of Lady was also revoked. Princess Aisling Duval supported the verdict while Ambassador Cuthrick Delaney maintained Loren's innocence.
 player_impact: None
-persons: [Kahina Tijani Loren, Admiral Denton Patreus, Princess Aisling Duval, Ambassador Cuthrick Delaney]
-groups: [Imperial Herald, Imperial Citizen]
-locations: [Prism, Koontz Asylum, Daibo]
+persons:
+- Kahina Tijani Loren
+- Admiral Denton Patreus
+- Princess Aisling Duval
+- Ambassador Cuthrick Delaney
+groups:
+- Imperial Herald
+- Imperial Citizen
+locations:
+- Prism
+- Koontz Asylum
+- Daibo
 technologies: []
 arc_id: prism-senator
 modern_impact: Loren's conviction and life sentence at Koontz Asylum close a chapter of Imperial political intrigue, though doubts about the trial's fairness persist.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Kahina Loren Found Guilty
-
 
 Today, an announcement was made outside The Prism Hall of Justice confirming that Kahina Tijani Loren had been found guilty of the attempted assassination of Admiral Denton Patreus. The announcement was met With cries of dismay from a crowd of Loren's supporters, who had turned out to hear the verdict. 
 

@@ -4,19 +4,16 @@ title: President Misses Meeting
 slug: president_misses_meeting
 date: '3301-05-26'
 source: GitHub
-entities:
-- Misses Meeting
 locations:
 - Mars
 topics:
 - ship
+entities:
+- Misses Meeting
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-President Misses Meeting
-
 
 Reports coming in from Saga indicate that The President has missed her scheduled meeting With delegates aboard Zudov Terminal. Maisy Stevenson, The leader of the Saga Republic Party, expressed her concern to GalNet in The following statement: 
 

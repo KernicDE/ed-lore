@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Restoring Order in Lidpar
-
-
 Authorities in The Lidpar system have reported a sharp increase in The number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally spreading discord. 
 
 To counter This threat, the Union of Lidpar Green Party has placed a kill order on all wanted ships operating in the Lid system, and has promised to reward pilots who deliver bounty vouchers to Carlisle Station. In addition, the Union of Lidpar Green Party has promised to reward pilots who deliver battle weapons, reactive armour, and advanced medicines to Carlisle Station in the Lidpar system, to support local security forces. 

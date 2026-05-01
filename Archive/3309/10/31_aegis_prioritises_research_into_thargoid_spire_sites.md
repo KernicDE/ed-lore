@@ -4,7 +4,11 @@ title: Aegis Prioritises Research into Thargoid Spire Sites
 slug: aegis_prioritises_research_into_thargoid_spire_sites
 date: '3309-10-31'
 source: API
-entities: []
+summary: Aegis prioritises research into rapidly evolving Thargoid spire sites, with Fonseca theorising about their purpose and Palin requesting samples.
+player_impact: Pilots can deliver compounds extracted from Thargoid spire sites to Abel Laboratory or Baird Gateway in the Arque system.
+persons:
+- Ishmael Palin
+- Maximo Fonseca
 groups:
 - Aegis
 locations:
@@ -14,16 +18,12 @@ topics:
 - alien contact
 - research
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Fonseca's xenopolis theory — 'Some believe that each site is an alien city' — contrasts with his war-footing interpretation. Palin's industrial theory — 'the equivalent of our extraction factories... producing or refining vast quantities of mineral substances to supply the Thargoid war machine' — will prove influential. The 'Banshee' drone designation is a new enemy type. Palin's direct appeal to pilots for samples shows community involvement."
-persons:
-- Ishmael Palin
-- Maximo Fonseca
+entities: []
 technologies:
 - Thargoid spire sites
 - Banshee drone
-player_impact: "Pilots can deliver compounds extracted from Thargoid spire sites to Abel Laboratory or Baird Gateway in the Arque system."
-summary: "Aegis prioritises research into rapidly evolving Thargoid spire sites, with Fonseca theorising about their purpose and Palin requesting samples."
+arc_id: thargoid-titan-war
+modern_impact: Fonseca's xenopolis theory — 'Some believe that each site is an alien city' — contrasts with his war-footing interpretation. Palin's industrial theory — 'the equivalent of our extraction factories... producing or refining vast quantities of mineral substances to supply the Thargoid war machine' — will prove influential. The 'Banshee' drone designation is a new enemy type. Palin's direct appeal to pilots for samples shows community involvement.
 legacy_weight: 5
 significance: high
 related_uuids:

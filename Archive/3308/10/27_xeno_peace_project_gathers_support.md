@@ -4,7 +4,8 @@ title: Xeno-Peace Project Gathers Support
 slug: xeno_peace_project_gathers_support
 date: '3308-10-27'
 source: API
-arc_id: null
+summary: Deliveries to the Andavandul system have enabled the Thargoid Advocacy Project to begin preparations for a diplomatic mission.
+player_impact: Independent pilots were tasked with delivering commodities to support the operation.
 persons:
 - Dalton Chase
 - Polly French
@@ -14,24 +15,19 @@ topics:
 - alien contact
 - diplomacy
 - war
-player_impact: Independent pilots were tasked with delivering commodities to support
-  the operation.
-summary: Deliveries to the Andavandul system have enabled the Thargoid Advocacy Project
-  to begin preparations for a diplomatic mission.
-modern_impact: '"War with the Thargoids represents multiple failures. A failure to
-  imagine coexistence with another intelligent specie..." The failure of civilian-led
-  diplomacy underscores the dangers of underestimating Thargoid hostility.'
+arc_id: null
+modern_impact: '"War with the Thargoids represents multiple failures. A failure to imagine coexistence with another intelligent specie..." The failure of civilian-led diplomacy underscores the dangers of underestimating Thargoid hostility.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - ff9426a9-0b2c-55d7-8741-dd9fbd4364ff
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - 17c9f162-826a-5492-8ff7-a04cd0d9cdfc
 - 1791622e-98ed-5b34-a3e3-34ef90719997
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Deliveries to the Andavandul system have enabled the Thargoid Advocacy Project to begin preparations for a diplomatic mission.
 Governor Dalton Chase, who is campaigning to become a member of the Federal Congress, arranged the initiative to create a non-partisan envoy vessel. Its objective will be to find ways to open communication with the Thargoids and make peaceful overtures to end the conflict.
 Polly  French, organiser of a Thargoid Advocacy Project rally in Andavandul, told the media:

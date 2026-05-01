@@ -4,7 +4,13 @@ title: Celebrations in Sol for Federal Election
 slug: celebrations_in_sol_for_federal_election
 date: '3309-10-05'
 source: API
-entities: []
+summary: President Hudson announces celebratory events in Sol for the upcoming Federal election, with a temporary permit for Pilots' Federation members.
+player_impact: Pilots delivered Crystalline Spheres, Gerasian Gueuze Beer, Indi Bourbon, LTT Hyper Sweet and Pantaa Prayer Sticks to Li Qing Jao starport.
+persons:
+- Zachary Hudson
+- Jerome Archer
+- Felicia Winters
+- Conrad Sterling
 groups:
 - Shadow President
 locations:
@@ -13,15 +19,9 @@ locations:
 topics:
 - politics
 - festival
+entities: []
 arc_id: null
-modern_impact: "Sterling's analysis — 'a high-profile attempt to boost public morale, one that allows President Hudson to leave office on a positive note' — frames the celebrations as political theatre. His note that critics view it as 'a way to distract the citizens from the prolonged Thargoid war, the recent Rackham scandal' shows the baggage Hudson carries. The mention of 'the Rackham scandal' references a prior event."
-persons:
-- Zachary Hudson
-- Jerome Archer
-- Felicia Winters
-- Conrad Sterling
-player_impact: "Pilots delivered Crystalline Spheres, Gerasian Gueuze Beer, Indi Bourbon, LTT Hyper Sweet and Pantaa Prayer Sticks to Li Qing Jao starport."
-summary: "President Hudson announces celebratory events in Sol for the upcoming Federal election, with a temporary permit for Pilots' Federation members."
+modern_impact: Sterling's analysis — 'a high-profile attempt to boost public morale, one that allows President Hudson to leave office on a positive note' — frames the celebrations as political theatre. His note that critics view it as 'a way to distract the citizens from the prolonged Thargoid war, the recent Rackham scandal' shows the baggage Hudson carries. The mention of 'the Rackham scandal' references a prior event.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,7 +29,7 @@ related_uuids:
 - ba96abf1-456d-5b32-aa72-2a4b52ee1484
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A series of public events to celebrate the forthcoming presidential election are being held in the Sol system.
 Congress approved a request by President Zachary Hudson to finance a range of festivities, concerts and shows across the home system of the Federation.
 Billions of people are expected to attend, leading to a request for supplies of Crystalline Spheres, Gerasian Gueuze Beer, Indi Bourbon, LTT Hyper Sweet and Pantaa Prayer Sticks to be delivered to Li Qing Jao starport in orbit over planet Earth. Congress also agreed to authorise a temporary two-week permit for all Pilots’ Federation members to access the Sol system.

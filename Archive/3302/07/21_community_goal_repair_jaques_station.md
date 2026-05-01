@@ -13,25 +13,21 @@ locations:
 - Eol Prou RS-T d3-94
 - Jaques Station
 - Beagle Point
+topics:
+- construction
+- trade
+- war
 technologies:
 - power generators
 - tantalum
 - structural regulators
 - energy grid assemblies
 - meta-alloys
-topics:
-- construction
-- trade
-- war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: Repair Jaques Station
-
 
 Jaques, The owner and operator of Jaques Station, has issued an appeal for commodities to repair his beleaguered starport. 
 

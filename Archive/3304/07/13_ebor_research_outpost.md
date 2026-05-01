@@ -23,9 +23,6 @@ related_uuids:
 - dd4a0b64-612b-5b42-9631-72d2dc9f5d9d
 ---
 
-Ebor Research Outpost
-
-
 Cobra Wing, an Independent organisation based in Ebor, has launched an initiative to build a new research outpost in The system. 
 
 The outpost will support Further research into the Thargoids, focusing specifically on the possibility of inter-species communication. 

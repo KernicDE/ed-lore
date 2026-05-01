@@ -4,6 +4,11 @@ title: Distant Worlds 3 Expedition enters the Empyrean Straits
 slug: distant_worlds_3_expedition_enters_the_empyrean_straits
 date: 3312-04-26
 source: API
+summary: Distant Worlds 3 departs Beagle Point for next phase into the Abyss, Acheron and Veils. Stellar density and spectral distribution surveys ongoing. Carrier fleet sustained by miner contributions.
+player_impact: DW3 fleet departs Beagle Point for Abyss, Acheron and Veils regions. Continued scientific survey programme with carrier logistics support.
+persons:
+- Lynda Amanda ter Holt
+- Timotheus Haddard
 groups:
 - Deep Space Surveys
 - Distant Worlds 3
@@ -18,11 +23,6 @@ arc_id: distant-worlds-3
 modern_impact: Guardian ruins visit connects the exploration arc to xenoarchaeology, potentially yielding new insights into ancient civilization distribution. The commemorative beacon data vault creates a permanent record of participant commanders, establishing a historical archive of this expedition for future researchers.
 legacy_weight: 3
 significance: medium
-persons:
-- Lynda Amanda ter Holt
-- Timotheus Haddard
-player_impact: DW3 fleet departs Beagle Point for Abyss, Acheron and Veils regions. Continued scientific survey programme with carrier logistics support.
-summary: Distant Worlds 3 departs Beagle Point for next phase into the Abyss, Acheron and Veils. Stellar density and spectral distribution surveys ongoing. Carrier fleet sustained by miner contributions.
 related_uuids:
 - 9fa72a0c-5333-5110-90ea-074419826e85
 ---

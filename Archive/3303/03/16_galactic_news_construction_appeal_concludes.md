@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Construction Appeal Concludes
-
-
 A spokesperson for The Military Militia has extended Its gratitude to those who supported its recent appeal for construction materials. In a statement, the spokesperson said: 
 
 "Thanks to the galactic community, we are now in a position to start work on the Soldiers' Respite installation." 

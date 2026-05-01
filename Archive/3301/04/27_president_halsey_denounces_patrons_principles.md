@@ -15,9 +15,6 @@ legacy_weight: 1
 significance: low
 ---
 
-President Halsey Denounces Patron’s Principles
-
-
 This weekend saw The outbreak of a skirmish between Imperial and Federal forces in The small but significant system of Volungu. Reports indicate that The conflict was started by the Patron’s Principles, an Empire-aligned organisation based in the Nearby Liaedin region. 
 
 For years Liaedin was caught in almost constant civil war As the Faveol and Blossom families fought to gain control of the region. The two sides eventually settled their differences, With the Imperial Faveol family ultimately being given governorship of the system. 

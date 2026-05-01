@@ -4,7 +4,13 @@ title: Corporate Battle Erupts in Tavgi System
 slug: corporate_battle_erupts_in_tavgi_system
 date: '3309-04-06'
 source: API
-entities: []
+summary: The Caine-Massey/Torval Mining conflict escalates into open combat in the Tavgi system, with both superpowers' naval forces placed on alert.
+player_impact: Federal and Imperial naval auxiliaries are called to report to Gordon Enterprise and the Orchestral Falcon respectively.
+persons:
+- Philippa Barlow-Lyons
+- Zemina Torval
+- Zachary Hudson
+- Denton Patreus
 groups: []
 locations:
 - Enterprise
@@ -13,15 +19,9 @@ locations:
 topics:
 - corporate expansion
 - crime
+entities: []
 arc_id: null
-modern_impact: "Barlow-Lyons's aggressive stance — 'board the Orchestral Falcon – by force, if necessary' — shows corporate escalation. Torval's counter — 'Caine-Massey is using its CEO's death to excuse a deliberate strike against my company' — frames the conflict as commercial warfare. Hudson and Patreus's statements escalate the superpower dimension. The mention that 'majority of superpower naval forces deployed to the Thargoid front line' explains the proxy nature of the conflict."
-persons:
-- Philippa Barlow-Lyons
-- Zemina Torval
-- Zachary Hudson
-- Denton Patreus
-player_impact: "Federal and Imperial naval auxiliaries are called to report to Gordon Enterprise and the Orchestral Falcon respectively."
-summary: "The Caine-Massey/Torval Mining conflict escalates into open combat in the Tavgi system, with both superpowers' naval forces placed on alert."
+modern_impact: Barlow-Lyons's aggressive stance — 'board the Orchestral Falcon – by force, if necessary' — shows corporate escalation. Torval's counter — 'Caine-Massey is using its CEO's death to excuse a deliberate strike against my company' — frames the conflict as commercial warfare. Hudson and Patreus's statements escalate the superpower dimension. The mention that 'majority of superpower naval forces deployed to the Thargoid front line' explains the proxy nature of the conflict.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -30,7 +30,7 @@ related_uuids:
 - d3fb0003-ded4-528c-904b-9140da2aac02
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The killing of Caine-Massey’s CEO has sparked conflict between the Federal corporation and Imperial rival Torval Mining Ltd.
 Acting CEO Philippa Barlow-Lyons provided a statement regarding the hostilities:
 “The Federal Intelligence Agency tracked Johann Fleischer’s assassin from Mars to the Tavgi system, whereupon he boarded the Orchestral Falcon, one of Torval Mining’s megaships. We demanded that he be handed over to stand trial for his crime. They refused to even acknowledge us. Zemina Torval thinks she has taken her revenge and got away with it. She is wrong.” 

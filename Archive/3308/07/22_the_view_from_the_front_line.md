@@ -4,6 +4,8 @@ title: The View from the Front Line
 slug: the_view_from_the_front_line
 date: '3308-07-22'
 source: API
+summary: Vox Galactica reporter Jade Sanderlyn broadcasts from HIP 22460 describing intense fighting, seven capital ships with experimental weaponry, and Sirius Corporation's El Centinela Cadejo megaship providing logistical support to the Alliance Defence Force.
+player_impact: AX squadrons and volunteers were defending the Proteus Wave project against Thargoid forces in HIP 22460.
 persons:
 - Jade Sanderlyn
 - Li Yong-Rui
@@ -20,13 +22,11 @@ topics:
 - espionage
 - war
 arc_id: salvation-azimuth
-summary: Vox Galactica reporter Jade Sanderlyn broadcasts from HIP 22460 describing intense fighting, seven capital ships with experimental weaponry, and Sirius Corporation's El Centinela Cadejo megaship providing logistical support to the Alliance Defence Force.
-player_impact: AX squadrons and volunteers were defending the Proteus Wave project against Thargoid forces in HIP 22460.
 modern_impact: Sanderlyn's firsthand reporting exposed the human cost of Salvation's operation, contrasting the strange beauty of distant combat with the brutal reality of daily squadron losses.
-related_uuids:
-- 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
 legacy_weight: 5
 significance: high
+related_uuids:
+- 21a8f7b3-6e3c-5a0b-8f5d-9c4e7d2b1a8f
 ---
 
 Vox Galactica reporter Jade Sanderlyn has broadcast an update on the conflict taking place in the HIP 22460 system.

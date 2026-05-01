@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Federation Begins Analysing Wreckage
-
-
 Over The past week, Hundreds of pilots have been searching for signs of Starship One, the Federal presidential Vessel that disappeared in May 3301. Two factions had a stake in the search – the Azaleach Partnership, Which was acting on behalf of Federal President Zachary Hudson, and the Daurtu Jet Comms PLC, an organisation about which very little is known. 
 
 Today, the Federation announced it had received a sizeable quantity of debris. In a statement, President Hudson expressed his satisfaction at the outcome: 

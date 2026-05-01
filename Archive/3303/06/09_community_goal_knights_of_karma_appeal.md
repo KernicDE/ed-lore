@@ -12,18 +12,15 @@ groups:
 locations:
 - Qa'wakana
 - Carpini Terminal
-technologies: []
 topics:
 - construction
 - ship
 - trade
+technologies: []
 modern_impact: Knights of Karma expansion in Qa'wakana demonstrates the growing influence of player-supported factions in system development.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Knights of Karma Appeal
-
 
 Over The past year, the Qa’wakana system has become a focal point for the Knights of Karma, a rapidly expanding organisation that has attracted support from across the galaxy. Now the group has announced plans to establish a new mining facility among the rings of Qa’wakana 6. 
 

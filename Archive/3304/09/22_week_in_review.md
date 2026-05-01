@@ -48,9 +48,6 @@ related_uuids:
 - 01d52c81-19d8-57db-8338-9343341748c1
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Political journalist Vanya Driscoll has published an analysis of The Alliance presidential candidates. She has observed that while Elijah Beck seems content With the status quo, Fazia Silva has promised to boost the economy, and current president Gibson Kincaid has proposed that the role should include executive powers. 

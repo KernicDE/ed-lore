@@ -4,6 +4,11 @@ title: Shinrarta Dezhra Defence Fleet Prevails
 slug: shinrarta_dezhra_defence_fleet_prevails
 date: '3310-09-24'
 source: API
+summary: The Thargoid invasion fleet in Shinrarta Dezhra is successfully repelled, with acting starport commander Florian Baljak praising the thousands of Commanders who drove the aliens back.
+player_impact: Pilots successfully repelled the Thargoid invasion fleet from Shinrarta Dezhra, with thousands of Commanders participating. Rewards collected from Rescue Ship Cornwallis in V886 Centauri.
+persons:
+- Florian Baljak
+- Alba Tesreau
 groups:
 - Aegis
 - Azimuth
@@ -16,12 +21,7 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Baljak's statement — 'It's a miracle Jameson Memorial lasted until reinforcements could arrive' — confirms the symbolic importance of saving the megamarket. His admission that 'We lost a lot of good people' contrasts with the corporate framing from Sirius and Azimuth. Tesreau's gratitude while noting Aegis was 'directed AX efforts on the frontline' reveals the tension between responding to emergencies and pursuing strategic objectives."
-persons:
-- Florian Baljak
-- Alba Tesreau
-player_impact: "Pilots successfully repelled the Thargoid invasion fleet from Shinrarta Dezhra, with thousands of Commanders participating. Rewards collected from Rescue Ship Cornwallis in V886 Centauri."
-summary: "The Thargoid invasion fleet in Shinrarta Dezhra is successfully repelled, with acting starport commander Florian Baljak praising the thousands of Commanders who drove the aliens back."
+modern_impact: Baljak's statement — 'It's a miracle Jameson Memorial lasted until reinforcements could arrive' — confirms the symbolic importance of saving the megamarket. His admission that 'We lost a lot of good people' contrasts with the corporate framing from Sirius and Azimuth. Tesreau's gratitude while noting Aegis was 'directed AX efforts on the frontline' reveals the tension between responding to emergencies and pursuing strategic objectives.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -4,7 +4,8 @@ title: The Sanderlyn Interviews (Part One)
 slug: the_sanderlyn_interviews_part_one
 date: '3308-04-29'
 source: API
-arc_id: salvation-azimuth
+summary: Vox Galactica's Jade Sanderlyn interviews Imperial Navy Admiral Henry Paul Atherton about the Thargoid invasion of Novas.
+player_impact: The full interview is available to pilots arriving at the INV Succession in the Novas system.
 persons:
 - Jade Sanderlyn
 - Henry Paul Atherton
@@ -17,15 +18,14 @@ topics:
 - alien contact
 - succession
 - war
-player_impact: The full interview is available to pilots arriving at the INV Succession in the Novas system.
-summary: Vox Galactica's Jade Sanderlyn interviews Imperial Navy Admiral Henry Paul Atherton about the Thargoid invasion of Novas.
-modern_impact: "\"Jade, dear: they are the same thing. The cost of war is human lives, and the Thargoids extract a heavy toll.\" Atherton's conflation of Salvation's 'victory' with civilian safety reveals the moral calculus adopted by superpower military leaders, who increasingly justified Azimuth's unaccountable methods as necessary for survival."
+arc_id: salvation-azimuth
+modern_impact: '"Jade, dear: they are the same thing. The cost of war is human lives, and the Thargoids extract a heavy toll." Atherton''s conflation of Salvation''s ''victory'' with civilian safety reveals the moral calculus adopted by superpower military leaders, who increasingly justified Azimuth''s unaccountable methods as necessary for survival.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - e05cf902-3b9a-5936-af7b-8d010eb0685c
 - b99fe71e-7d59-5dc5-92cf-b91316361608
 - 4c108f5b-4d53-53ef-8e79-33a278395e0e
-legacy_weight: 5
-significance: high
 ---
 
 The journalist Jade Sanderlyn of Vox Galactica was recently invited to conduct rare public interviews With admirals of the three superpowers.

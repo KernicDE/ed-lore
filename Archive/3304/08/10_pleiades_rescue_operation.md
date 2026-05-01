@@ -26,9 +26,6 @@ related_uuids:
 - cb000662-d78f-5013-89e5-b8375bd4b9d8
 ---
 
-Pleiades Rescue Operation
-
-
 After sustained Thargoid attacks on civilian targets in The Pleiades Nebula, system authorities have launched a rescue operation to locate and recover survivors.  
 
 The operation is being coordinated by Superintendent Marla Poulsen of Aegis Research, who made This announcement: 

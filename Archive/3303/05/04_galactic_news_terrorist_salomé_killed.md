@@ -20,21 +20,17 @@ locations:
 - Arumclaw
 - Teorge
 - 46 Eridani
-technologies:
-- Imperial Clipper
 topics:
 - ship
 - terrorism
 - war
+technologies:
+- Imperial Clipper
 arc_id: salome-conspiracy
-modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
-  and Federal politics.
+modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster and Federal politics.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Terrorist Salomé Killed
-
 
 Imperial despatches have confirmed that Commander Salomé, also known as Kahina Tijani Loren, was killed in The Arumclaw system on the 29th of April by a bounty hunter known as ‘Besieger’. 
 

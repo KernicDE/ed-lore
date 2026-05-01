@@ -4,6 +4,8 @@ title: Date Set for Imperial Wedding
 slug: date_set_for_imperial_wedding
 date: '3301-07-22'
 source: GitHub
+summary: The Office for the Emperor announced that the wedding between Emperor Hengist Duval and Florence Lavigny will take place at midday on Wednesday 29th July. Senators, prominent patrons, and celebrities have accepted invitations. The Emperor thanked citizens for their well wishes. Fashion boutiques are anticipating a windfall as celebrants purchase matching attire.
+player_impact: None
 persons:
 - Hengist Duval
 - Florence Lavigny
@@ -15,18 +17,11 @@ locations:
 topics:
 - succession
 - festival
-summary: The Office for the Emperor announced that the wedding between Emperor Hengist Duval and Florence Lavigny will take place at midday on Wednesday 29th July. Senators, prominent patrons, and celebrities have accepted invitations. The Emperor thanked citizens for their well wishes. Fashion boutiques are anticipating a windfall as celebrants purchase matching attire.
-player_impact: None
 modern_impact: Setting the wedding date for Emperor Hengist Duval and Florence Lavigny provides a focal point for Imperial unity and celebration.
 legacy_weight: 3
 significance: medium
 ---
 
-Date Set for Imperial Wedding
-
-
-Date Set for Imperial Wedding 
- 
 The Office for The Emperor has published details of the wedding between Emperor Hengist Duval and Florence Lavigny. The wedding will take place at midday on Wednesday 29th July. Invitations have already been sent out and This reporter is One of the lucky few to provide news updates from the wedding entourage itself. 
 
 Senators and some prominent patrons together With well known celebrities from all over the Empire have accepted invitations from the Imperial Palace, and have flooded the Emperor’s communications team With their responses. The Emperor himself took a few minutes from his busy schedule to give his thanks: 

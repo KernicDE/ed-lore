@@ -4,17 +4,17 @@ title: 'Thargoid War Update: July 3309'
 slug: thargoid_war_update_july_3309
 date: '3309-07-28'
 source: API
+summary: Sanderlyn reports on territorial gains against Thargoids, unsubstantiated rumors of increased escape pod abductions, and Azimuth's corporate convention.
+player_impact: Pilots are reclaiming systems at a higher rate than Thargoids can conquer them.
+persons:
+- Jade Sanderlyn
 groups: []
 locations: []
 topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's observation that 'anti-xeno squadrons and independent pilots are reclaiming systems at a higher rate than Thargoids can conquer them' marks a turning point. Her cautious inclusion of 'unsubstantiated rumours' about increased abductions — 'not something I would usually include in a factual report' — shows journalistic integrity. The contrast between Aegis's public support and Azimuth's persistence frames the corporate rivalry."
-persons:
-- Jade Sanderlyn
-player_impact: "Pilots are reclaiming systems at a higher rate than Thargoids can conquer them."
-summary: "Sanderlyn reports on territorial gains against Thargoids, unsubstantiated rumors of increased escape pod abductions, and Azimuth's corporate convention."
+modern_impact: Sanderlyn's observation that 'anti-xeno squadrons and independent pilots are reclaiming systems at a higher rate than Thargoids can conquer them' marks a turning point. Her cautious inclusion of 'unsubstantiated rumours' about increased abductions — 'not something I would usually include in a factual report' — shows journalistic integrity. The contrast between Aegis's public support and Azimuth's persistence frames the corporate rivalry.
 legacy_weight: 5
 significance: high
 related_uuids:

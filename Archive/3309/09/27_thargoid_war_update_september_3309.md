@@ -4,6 +4,11 @@ title: 'Thargoid War Update: September 3309'
 slug: thargoid_war_update_september_3309
 date: '3309-09-27'
 source: API
+summary: Sanderlyn's monthly update covers the Aegis leak, Seo Jin-ae's visions, the scanner upgrade, Sirius's missile contribution, and the improving military situation.
+player_impact: Pilots detected human life-signs beneath Titan hulls using upgraded scanners and continue to fight Thargoid forces.
+persons:
+- Jade Sanderlyn
+- Seo Jin-ae
 groups:
 - Aegis
 - Sirius Corporation
@@ -15,12 +20,7 @@ topics:
 - war
 - humanitarian
 arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's framing — 'the stomach-churning truth: the Thargoids are keeping people they abduct alive' — captures public horror. Her question — 'For what purpose? We scarcely dare imagine' — maintains suspense. The observation that Thargoid-controlled systems 'have reduced significantly' and 'what seemed like a near-hopeless task... has become a shining example of human courage' provides narrative arc."
-persons:
-- Jade Sanderlyn
-- Seo Jin-ae
-player_impact: "Pilots detected human life-signs beneath Titan hulls using upgraded scanners and continue to fight Thargoid forces."
-summary: "Sanderlyn's monthly update covers the Aegis leak, Seo Jin-ae's visions, the scanner upgrade, Sirius's missile contribution, and the improving military situation."
+modern_impact: 'Sanderlyn''s framing — ''the stomach-churning truth: the Thargoids are keeping people they abduct alive'' — captures public horror. Her question — ''For what purpose? We scarcely dare imagine'' — maintains suspense. The observation that Thargoid-controlled systems ''have reduced significantly'' and ''what seemed like a near-hopeless task... has become a shining example of human courage'' provides narrative arc.'
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -4,7 +4,8 @@ title: 'Yong-Rui: ‘History Will Judge Sirius’'
 slug: yong_rui_history_will_judge_sirius
 date: '3308-04-19'
 source: API
-arc_id: null
+summary: Sirius Corporation CEO Li Yong-Rui defends the anti-xeno defence pact with the Alliance by highlighting the megacorp's historical neutrality and mediation efforts.
+player_impact: Not specifically mentioned — this is a corporate statement.
 persons:
 - Li Yong-Rui
 groups:
@@ -23,14 +24,13 @@ topics:
 - independence
 - research
 - war
-player_impact: Not specifically mentioned — this is a corporate statement.
-summary: Sirius Corporation CEO Li Yong-Rui defends the anti-xeno defence pact with the Alliance by highlighting the megacorp's historical neutrality and mediation efforts.
-modern_impact: "\"But it is history that will judge Sirius Corporation's efforts to defend and preserve civilisation.\" Yong-Rui's appeal to historical legacy sought to reframe Sirius Corporation's controversial military partnership with the Alliance as a continuation of its long-standing role as galactic mediator, revealing how corporate actors use historical narrative to legitimise expansion of military influence."
+arc_id: null
+modern_impact: '"But it is history that will judge Sirius Corporation''s efforts to defend and preserve civilisation." Yong-Rui''s appeal to historical legacy sought to reframe Sirius Corporation''s controversial military partnership with the Alliance as a continuation of its long-standing role as galactic mediator, revealing how corporate actors use historical narrative to legitimise expansion of military influence.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - 71ef5edb-acbd-5323-bdfa-880cbbf2c504
 - b391da8e-90b1-55d8-88e0-8ad93ae52300
-legacy_weight: 4
-significance: high
 ---
 
 The CEO of Sirius Corporation has addressed public concerns regarding Its anti-xeno defence pact With the Alliance.

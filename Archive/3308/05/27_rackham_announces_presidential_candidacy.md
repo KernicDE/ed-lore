@@ -4,7 +4,8 @@ title: Rackham Announces Presidential Candidacy
 slug: rackham_announces_presidential_candidacy
 date: '3308-05-27'
 source: API
-arc_id: federal-politics
+summary: Zachary Rackham officially confirms his candidacy for the 3309 Federal presidential election.
+player_impact: Not specifically mentioned — this is a political announcement.
 persons:
 - Zachary Rackham
 - Felicia Winters
@@ -14,15 +15,14 @@ locations: []
 topics:
 - corporate expansion
 - diplomacy
-player_impact: Not specifically mentioned — this is a political announcement.
-summary: Zachary Rackham officially confirms his candidacy for the 3309 Federal presidential election.
-modern_impact: "\"I feel like everyone's tired of the same empty words from the two big political parties. It's time to hear from the little guy!\" Rackham's populist framing of his billionaire candidacy as representing 'the little guy' introduced a new brand of anti-establishment politics to the Federation, one built on celebrity wealth rather than grassroots mobilisation."
+arc_id: federal-politics
+modern_impact: '"I feel like everyone''s tired of the same empty words from the two big political parties. It''s time to hear from the little guy!" Rackham''s populist framing of his billionaire candidacy as representing ''the little guy'' introduced a new brand of anti-establishment politics to the Federation, one built on celebrity wealth rather than grassroots mobilisation.'
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 7751461f-fff8-5e46-b710-f494c50ab069
 - d48a2172-4d32-5501-b760-eb75a11fb324
 - 627f595b-b85f-5e9d-9d4c-9499a93c4487
-legacy_weight: 3
-significance: medium
 ---
 
 The trillionaire entrepreneur Zachary Rackham has officially confirmed that he will stand as a candidate in the 3309 Federal election.

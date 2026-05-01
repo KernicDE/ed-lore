@@ -13,21 +13,17 @@ groups:
 locations:
 - Wolf 397
 - Chelbin Service Station
-technologies:
-- anti-Thargoid technologies
 topics:
 - alien contact
 - ship
 - war
+technologies:
+- anti-Thargoid technologies
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Second Aegis Campaign Concludes
-
 
 A spokesperson for Aegis has announced that Its appeal for Thargoid-related materials has reached a successful conclusion. Hundreds of pilots took to their ships to deliver material to Chelbin Service Station, Which will be used to develop new anti-Thargoid technologies. 
 

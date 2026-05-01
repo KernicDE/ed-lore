@@ -4,6 +4,10 @@ title: 'Thargoid War Update: December 3309'
 slug: thargoid_war_update_december_3309
 date: '3309-12-29'
 source: API
+summary: Jade Sanderlyn's year-end reflection on the Thargoid war, covering the Maelstrom arrivals, Titan revelations, technological breakthroughs, spire site victories, and the liberation of abductees.
+player_impact: Pilots destroyed countless Thargoid vessels, recovered fallen systems, and liberated hundreds of thousands of abducted people from Titans.
+persons:
+- Jade Sanderlyn
 groups:
 - Aegis
 locations:
@@ -11,17 +15,13 @@ locations:
 topics:
 - alien contact
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's summary — 'death toll over a billion. Billions more were forced to flee' — quantifies the devastation. Her mention of 'the pulse wave xeno scanner, Thargoid pulse neutraliser and sub-surface extraction missile' catalogues key technological advances. The hopeful closing — 'there is real hope that this most terrible period of history may have some end in sight' — frames 3310 as potentially transformative."
-persons:
-- Jade Sanderlyn
 technologies:
 - pulse wave xeno scanner
 - Thargoid pulse neutraliser
 - sub-surface extraction missile
 - Palin's contaminant
-player_impact: "Pilots destroyed countless Thargoid vessels, recovered fallen systems, and liberated hundreds of thousands of abducted people from Titans."
-summary: "Jade Sanderlyn's year-end reflection on the Thargoid war, covering the Maelstrom arrivals, Titan revelations, technological breakthroughs, spire site victories, and the liberation of abductees."
+arc_id: thargoid-titan-war
+modern_impact: Sanderlyn's summary — 'death toll over a billion. Billions more were forced to flee' — quantifies the devastation. Her mention of 'the pulse wave xeno scanner, Thargoid pulse neutraliser and sub-surface extraction missile' catalogues key technological advances. The hopeful closing — 'there is real hope that this most terrible period of history may have some end in sight' — frames 3310 as potentially transformative.
 legacy_weight: 5
 significance: high
 related_uuids:

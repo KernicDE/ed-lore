@@ -4,21 +4,17 @@ title: Hudson Calls for Vote of No Confidence
 slug: hudson_calls_for_vote_of_no_confidence
 date: '3301-05-29'
 source: GitHub
-entities:
-- Zachary Hudson
 locations:
 - Mars
 topics:
 - war
+entities:
+- Zachary Hudson
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---
-
-Hudson Calls for Vote of No Confidence
-
 
 Shadow President Zachary Hudson has continued his criticism of Halsey’s administration, finally moving to The feared vote of no confidence. In his address to Congress, Shadow President Hudson has made it clear The situation needs a resolution. 
 

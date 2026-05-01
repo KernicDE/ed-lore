@@ -4,6 +4,8 @@ title: Hudson Set to Target Traffickers
 slug: hudson_set_to_target_traffickers
 date: '3301-06-09'
 source: GitHub
+summary: President Hudson's administration plans a major crackdown on illegal narcotics trafficking. Sources revealed increased security spending is high on the agenda, with Diamondback Scouts being deployed as short-range interceptors for local security services, backed by Viper wings and Federal Navy support. An anonymous aide boasted the 'war against drugs will be done and dusted' within two months. Illegal narcotics prices, which had begun stabilising after a week of frantic trading, are expected to spike again as dealers try to unload inventory before the galaxy-wide lockdown.
+player_impact: Security pilots can expect increased anti-smuggling operations using Diamondback Scouts and Viper wings. Smugglers face a coordinated multi-layered defence.
 persons:
 - Zachary Hudson
 groups:
@@ -16,18 +18,11 @@ topics:
 - crime
 - narcotics
 - military
-summary: President Hudson's administration plans a major crackdown on illegal narcotics trafficking. Sources revealed increased security spending is high on the agenda, with Diamondback Scouts being deployed as short-range interceptors for local security services, backed by Viper wings and Federal Navy support. An anonymous aide boasted the 'war against drugs will be done and dusted' within two months. Illegal narcotics prices, which had begun stabilising after a week of frantic trading, are expected to spike again as dealers try to unload inventory before the galaxy-wide lockdown.
-player_impact: Security pilots can expect increased anti-smuggling operations using Diamondback Scouts and Viper wings. Smugglers face a coordinated multi-layered defence.
 modern_impact: Hudson's planned drug war escalates Federal anti-narcotics efforts to unprecedented levels with dedicated interceptor deployment.
 legacy_weight: 3
 significance: medium
 ---
 
-Hudson Set to Target Traffickers
-
-
-Hudson Set to Target Traffickers 
- 
 In The face of President Hudson’s recent rise to power, The value of illicit goods has skyrocketed throughout the galaxy in anticipation of a crackdown on illegal commodities that are traditionally transported via the Federation. Dealers of all stripes have seen their profits soar over the last week, With Hundreds of new millionaires being minted off the back of President Hudson’s perceived stance against criminal commodities. 
 
 With the President’s appointment of his new administration now complete, sources close to Hudson have revealed to GalNet that an increase in security spending is very high on his agenda.  

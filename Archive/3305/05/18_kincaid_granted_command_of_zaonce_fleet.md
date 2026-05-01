@@ -4,6 +4,8 @@ title: Kincaid Granted Command of Zaonce Fleet
 slug: kincaid_granted_command_of_zaonce_fleet
 date: '3305-05-18'
 source: GitHub
+summary: President Gibson Kincaid assumes direct command of the Zaonce fleet through Admiral Frederick Yamamoto, bypassing the ADF command structure in a show of strength amid corruption investigations.
+player_impact: None — background political report.
 persons:
 - Gibson Kincaid
 - Frederick Yamamoto
@@ -19,8 +21,6 @@ locations:
 topics:
 - investigation
 - politics
-summary: President Gibson Kincaid assumes direct command of the Zaonce fleet through Admiral Frederick Yamamoto, bypassing the ADF command structure in a show of strength amid corruption investigations.
-player_impact: None — background political report.
 modern_impact: Kincaid's military power grab was a turning point that exposed the depth of his authoritarian ambitions and prompted Prime Minister Mahon to demand his resignation.
 legacy_weight: 4
 significance: high
@@ -29,9 +29,6 @@ related_uuids:
 - f17f098b-a1f5-5398-9cba-9ece108187d4
 - 508242c8-bd72-5b14-a5ce-fd74e32b0e69
 ---
-
-Kincaid Granted Command of Zaonce Fleet
-
 
 President Gibson Kincaid has been named commander-in-chief of The Alliance Defence Force fleet in the Zaonce system. 
 

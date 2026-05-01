@@ -4,24 +4,24 @@ title: Trailblazer Fleet To Be Withdrawn
 slug: trailblazer_fleet_to_be_withdrawn
 date: '3311-11-04'
 source: API
+summary: Brewer Corporation announced the Trailblazer megaship fleet would be withdrawn beginning November 11th, declaring independent colonies self-sufficient after a year of logistical support.
+player_impact: Pilots had supported Trailblazer colonisation initiatives over the past year. Markets closed as stocks were redirected to other projects.
+persons:
+- Mark Rennik
 groups:
 - Brewer Corporation
 topics:
 - construction
 - corporate expansion
 - colonisation
-arc_id: trailblazer-colonisation
-persons:
-- Mark Rennik
 technologies:
 - Trailblazer megaship
-player_impact: "Pilots had supported Trailblazer colonisation initiatives over the past year. Markets closed as stocks were redirected to other projects."
-summary: "Brewer Corporation announced the Trailblazer megaship fleet would be withdrawn beginning November 11th, declaring independent colonies self-sufficient after a year of logistical support."
-modern_impact: "Mark Rennik's statement that 'the ships will then jump to new locations at a later date' reveals the fleet is being redeployed, not retired. Within ten days, the Trailblazer Dream in HIP 90578 becomes staging point for the HIP 87621 enclave construction — the 'other projects' Rennik mentions. This shows Brewer was already preparing for the HIP 87621 conflict while publicly framing withdrawal as a colonisation success story."
-related_uuids:
-- 653b8775-4e6e-5a6e-a001-6bf4f039d552
+arc_id: trailblazer-colonisation
+modern_impact: Mark Rennik's statement that 'the ships will then jump to new locations at a later date' reveals the fleet is being redeployed, not retired. Within ten days, the Trailblazer Dream in HIP 90578 becomes staging point for the HIP 87621 enclave construction — the 'other projects' Rennik mentions. This shows Brewer was already preparing for the HIP 87621 conflict while publicly framing withdrawal as a colonisation success story.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 653b8775-4e6e-5a6e-a001-6bf4f039d552
 ---
 
 Brewer Corporation has announced plans to reassign its Trailblazer megaship fleet, citing the self-sufficiency of newly established colonies.

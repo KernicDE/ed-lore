@@ -4,25 +4,25 @@ title: Trailblazer Fleet Withdrawn, Dodec Starport Revealed
 slug: trailblazer_fleet_withdrawn_dodec_starport_revealed
 date: '3311-11-11'
 source: API
+summary: Brewer Corporation formally withdrew its Trailblazer megaship fleet as a 'vote of confidence' in colony self-sufficiency, while COO Mark Rennik announced Dodec starports for Tier 3 colonisation projects.
+player_impact: Pilots had supported Trailblazer colonisation initiatives over the past year. Dodec starport permits became available for premium purchase at Brewer facilities for future colonisation projects at Tier 3 ports.
+persons:
+- Mark Rennik
 groups:
 - Brewer Corporation
 topics:
 - construction
 - corporate expansion
 - colonisation
-arc_id: trailblazer-colonisation
-persons:
-- Mark Rennik
 technologies:
 - Trailblazer megaship
 - Dodec starport
-player_impact: "Pilots had supported Trailblazer colonisation initiatives over the past year. Dodec starport permits became available for premium purchase at Brewer facilities for future colonisation projects at Tier 3 ports."
-summary: "Brewer Corporation formally withdrew its Trailblazer megaship fleet as a 'vote of confidence' in colony self-sufficiency, while COO Mark Rennik announced Dodec starports for Tier 3 colonisation projects."
-modern_impact: "Mark Rennik's comment that ships will 'continue to serve the Brewer Corporation in other duties' is telling — the Trailblazer fleet is not retiring but being redeployed. Within two weeks, the Trailblazer Dream in HIP 90578 serves as staging point for the HIP 87621 enclave construction, confirming Brewer assets were immediately repurposed for the brewing conflict. Dodec starports at Tier 3 ports enable smaller-scale colonisation, potentially decentralising frontier expansion."
-related_uuids:
-- 14695143-40fc-57b2-bd52-0204f687d915
+arc_id: trailblazer-colonisation
+modern_impact: Mark Rennik's comment that ships will 'continue to serve the Brewer Corporation in other duties' is telling — the Trailblazer fleet is not retiring but being redeployed. Within two weeks, the Trailblazer Dream in HIP 90578 serves as staging point for the HIP 87621 enclave construction, confirming Brewer assets were immediately repurposed for the brewing conflict. Dodec starports at Tier 3 ports enable smaller-scale colonisation, potentially decentralising frontier expansion.
 legacy_weight: 2
 significance: low
+related_uuids:
+- 14695143-40fc-57b2-bd52-0204f687d915
 ---
 
 Brewer Corporation has labelled the withdrawal of its Trailblazer megaship fleet as a 'vote of confidence' in the self-sustainability of thousands of new colonies.

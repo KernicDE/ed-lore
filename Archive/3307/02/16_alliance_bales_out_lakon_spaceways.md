@@ -4,7 +4,8 @@ title: Alliance Bales Out Lakon Spaceways
 slug: alliance_bales_out_lakon_spaceways
 date: 3307-02-16
 source: API
-arc_id: null
+summary: The Alliance Assembly has approved purchasing a majority sharehold in Lakon Spaceways, gaining partial ownership of the shipbuilding company.
+player_impact: The corporate takeover generated significant market and political interest among pilots.
 persons:
 - Its
 - Jupiter Rochester
@@ -19,9 +20,10 @@ locations:
 topics:
 - corporate expansion
 - humanitarian
-player_impact: The corporate takeover generated significant market and political interest among pilots.
-summary: The Alliance Assembly has approved purchasing a majority sharehold in Lakon Spaceways, gaining partial ownership of the shipbuilding company.
-modern_impact: "\"We welcome becoming closer partners with the Alliance.\" The Lakon Spaceways takeover saga demonstrated the Alliance's determination to maintain domestic shipbuilding independence against Federal corporate encroachment."
+arc_id: null
+modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic shipbuilding independence against Federal corporate encroachment.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - a3c076ad-3a02-5e61-98b0-a3cd15189a48
@@ -29,8 +31,6 @@ related_uuids:
 - f1fd8447-7d57-5af5-9889-be0bfb2788bb
 - a09f593c-1af4-5727-863d-002a1ebb2aca
 - ef475ada-e268-55e0-8ada-ae250caa5c86
-legacy_weight: 2
-significance: low
 ---
 
 The Alliance Assembly has approved purchasing a majority sharehold in Lakon Spaceways, gaining partial ownership of the shipbuilding company.

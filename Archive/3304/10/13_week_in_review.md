@@ -45,9 +45,6 @@ related_uuids:
 - c80bfd09-c018-56c8-bf38-ef9b7391d49f
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Journalist Gethin Okonkwo has shared more details about his time With the Far God cult. In a detailed article, Okonkwo expressed relief at Far God believers returning to their hive-chapels following weeks of persecution. The journalist said he would be collaborating With exotheologian Dr Alfred Ulyanov to produce a definitive account of the sect. 

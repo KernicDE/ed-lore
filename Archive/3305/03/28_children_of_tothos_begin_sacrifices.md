@@ -4,6 +4,8 @@ title: Children of Tothos Begin Sacrifices
 slug: children_of_tothos_begin_sacrifices
 date: '3305-03-28'
 source: GitHub
+summary: The Children of Tothos begin ritual sacrifices at Archambault Terminal, with cult leader Barnabas Cole calling for new followers to kill a sibling to prove their devotion before the Lucifer Device is detonated.
+player_impact: None — background crime report.
 persons:
 - Ethan Takahashi
 - Barnabas Cole
@@ -16,8 +18,6 @@ locations:
 topics:
 - crime
 - terrorism
-summary: The Children of Tothos begin ritual sacrifices at Archambault Terminal, with cult leader Barnabas Cole calling for new followers to kill a sibling to prove their devotion before the Lucifer Device is detonated.
-player_impact: None — background crime report.
 modern_impact: The cult's descent into ritual murder escalated the crisis to its breaking point, forcing the FIA to abandon negotiation in favour of the covert infiltration that would ultimately save the starport.
 legacy_weight: 4
 significance: high
@@ -27,9 +27,6 @@ related_uuids:
 - 841b5187-7bdb-5eff-80ca-681b968265c7
 - eb0399b9-3f4e-598b-8792-1ffe7a9866d7
 ---
-
-Children of Tothos Begin Sacrifices
-
 
 The Children of Tothos are preparing to destroy Archambault Terminal With a stolen nuclear weapon, sacrificing millions of lives in the name of their deity. 
 

@@ -4,6 +4,8 @@ title: Palin Invited to Join Research Group
 slug: palin_invited_to_join_research_group
 date: '3301-09-27'
 source: GitHub
+summary: Following the termination of Professor Ishmael Palin's Federal research programme into unknown artefacts, the Canonn Interstellar Research Group invited him to join their independent scientific body. The Canonn expressed suspicion that someone in power was suppressing UA research and vowed to redouble their open research efforts. They offered to assemble a quick-response team to assure Palin's safety.
+player_impact: The Canonn's invitation to Professor Palin suggests significant pressure to suppress UA research. Pilots interested in the mystery of unknown artefacts should follow the Canonn's research efforts and consider supporting independent scientific investigation.
 persons:
 - Ishmael Palin
 - Lord Zoltan
@@ -11,24 +13,17 @@ groups:
 - Canonn Interstellar Research Group
 locations:
 - Varati
-technologies:
-- Unknown Artefact
 topics:
 - research
 - safety
+technologies:
+- Unknown Artefact
 arc_id: unknown-artefacts
-summary: Following the termination of Professor Ishmael Palin's Federal research programme into unknown artefacts, the Canonn Interstellar Research Group invited him to join their independent scientific body. The Canonn expressed suspicion that someone in power was suppressing UA research and vowed to redouble their open research efforts. They offered to assemble a quick-response team to assure Palin's safety.
-player_impact: The Canonn's invitation to Professor Palin suggests significant pressure to suppress UA research. Pilots interested in the mystery of unknown artefacts should follow the Canonn's research efforts and consider supporting independent scientific investigation.
 modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---
 
-Palin Invited to Join Research Group
-
-
-Palin Invited to Join Research Group 
- 
 Last week saw reports that Professor Ishmael Palin has been forced to cease his research into The so-called anomalous extraterrestrial objects, also known as 'unknown artefacts'. The Voice of Varati has since received a statement from the Canonn Interstellar Research Group, an Independent scientific body: 
 
 "We were extremely distressed to read reports that Professor Palin has seen his attempt to research the unknown artefacts forcibly terminated. This is indeed a sad end to a promising beginning, especially given the insights concerning the artefacts the professor had shared With us all. 

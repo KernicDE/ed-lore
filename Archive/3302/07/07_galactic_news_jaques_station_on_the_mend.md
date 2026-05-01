@@ -4,29 +4,22 @@ title: Galactic News  Jaques Station on the Mend
 slug: galactic_news_jaques_station_on_the_mend
 date: '3302-07-07'
 source: GitHub
+summary: Personnel at Jaques Station report that limited repairs have been completed using meta-alloys donated by independent pilots. The station is seeking funds for a full repair campaign, while increasing numbers of pilots and delegations arrive in the Eol Prou RS-T d3-94 system.
+player_impact: None
+persons: []
+groups: []
 locations:
 - Eol Prou RS-T d3-94
 - Jaques Station
 topics:
 - construction
 - trade
+technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: Highlights the first successful use of meta-alloys for large-scale
-  station repair, validating their utility beyond simple counter-UA applications.
+modern_impact: Highlights the first successful use of meta-alloys for large-scale station repair, validating their utility beyond simple counter-UA applications.
 legacy_weight: 4
 significance: high
-summary: Personnel at Jaques Station report that limited repairs have been completed
-  using meta-alloys donated by independent pilots. The station is seeking funds for
-  a full repair campaign, while increasing numbers of pilots and delegations arrive
-  in the Eol Prou RS-T d3-94 system.
-player_impact: None
-groups: []
-persons: []
-technologies: []
 ---
-
-Galactic News: Jaques Station on The Mend
-
 
 Only a week after an Independent mission was launched to bring aid to Jaques Station, personnel at the starport have reported that limited repairs have been completed. A member of the station's technical team confirmed that meta-alloys had been used to partially restore the starport's commodities market, and went on to say: 
 

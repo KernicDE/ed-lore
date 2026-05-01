@@ -4,31 +4,24 @@ title: Year’s End Festivities in Reorte
 slug: years_end_festivities_in_reorte
 date: '3305-12-12'
 source: GitHub
+summary: The Alliance hosts end-of-year festivities in the Reorte system, with billions of attendees expected. Prime Minister Mahon calls for community support to supply the celebration.
+player_impact: Pilots can deliver fish, fruit, vegetables, meat, beer, and luxury goods to Davies High in Reorte. Bounty vouchers are also offered for system security.
+persons:
+- Edmund Mahon
 groups:
 - Alliance
 - Reorte Mining Coalition
-persons:
-- Edmund Mahon
 locations:
 - Reorte
 topics:
 - festival
 - trade
-summary: The Alliance hosts end-of-year festivities in the Reorte system, with billions
-  of attendees expected. Prime Minister Mahon calls for community support to supply the
-  celebration.
-player_impact: Pilots can deliver fish, fruit, vegetables, meat, beer, and luxury goods
-  to Davies High in Reorte. Bounty vouchers are also offered for system security.
-modern_impact: The Reorte celebration demonstrates the Alliance's ability to unite its
-  member systems in peaceful celebration.
+modern_impact: The Reorte celebration demonstrates the Alliance's ability to unite its member systems in peaceful celebration.
 legacy_weight: 2
 significance: low
 related_uuids:
 - c84ab794-7d0c-542b-be88-b01128ff04b2
 ---
-
-Year’s End Festivities in Reorte
-
 
 The Reorte system has been Selected for The Alliance’s end-of-year festivities, prompting huge demand for commodities. 
 

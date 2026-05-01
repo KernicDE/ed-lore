@@ -13,14 +13,10 @@ locations:
 - Mars
 - Clearwater Clinic
 technologies: []
-modern_impact: Halsey's discharge and subsequent public statements keep the question of
-  alien intelligence alive in Federal politics.
+modern_impact: Halsey's discharge and subsequent public statements keep the question of alien intelligence alive in Federal politics.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Jasmina Halsey Discharged
-
 
 It has been two months since former Federal President Jasmina Halsey was admitted to The Clearwater Clinic psychiatric facility on Mars. Halsey's admission followed a period of bizarre behaviour, during Which she claimed to have encountered super-intelligent beings in the depths of space. 
 

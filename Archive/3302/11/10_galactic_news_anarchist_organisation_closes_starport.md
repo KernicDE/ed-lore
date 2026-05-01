@@ -4,10 +4,7 @@ title: Galactic News  Anarchist Organisation Closes Starport
 slug: galactic_news_anarchist_organisation_closes_starport
 date: '3302-11-10'
 source: GitHub
-summary: Wright City in the Elli system has fallen prey to a chemical-weapon attack believed
-  to have been executed by the anarchist organisation Revolution Incorporated. Over a dozen
-  individuals have died and hundreds more are in critical condition, resulting in the starport's
-  closure.
+summary: Wright City in the Elli system has fallen prey to a chemical-weapon attack believed to have been executed by the anarchist organisation Revolution Incorporated. Over a dozen individuals have died and hundreds more are in critical condition, resulting in the starport's closure.
 player_impact: None
 persons: []
 groups:
@@ -19,17 +16,12 @@ topics:
 - construction
 - corporate expansion
 - independence
-modern_impact: Revolution Incorporated's chemical-weapon attack on Wright City using Toxandji
-  Virocide demonstrated the catastrophic potential of repurposed agricultural chemicals as
-  terrorist weapons.
-legacy_weight: 2
-significance: low
 technologies:
 - Toxandji Virocide
+modern_impact: Revolution Incorporated's chemical-weapon attack on Wright City using Toxandji Virocide demonstrated the catastrophic potential of repurposed agricultural chemicals as terrorist weapons.
+legacy_weight: 2
+significance: low
 ---
-
-Galactic News: Anarchist Organisation Closes Starport
-
 
 Recent reports indicate that Wright City in The Elli system has fallen prey to a chemical-weapon attack. 
 

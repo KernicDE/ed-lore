@@ -17,14 +17,10 @@ locations:
 - Col 70 Sector
 technologies: []
 arc_id: salome-conspiracy
-modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
-  and Federal politics.
+modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster and Federal politics.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Message Received from Col 70 Sector
-
 
 A weak signal from The Col 70 Sector has been detected by listening posts in both Federal and Imperial space. 
 

@@ -18,9 +18,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Canary Mining Campaign Comes to an End
-
-
 The Canary Mining Corporation has announced that it has received sufficient quantities of <item> to carry out Its improvement programme at Kooi Gateway. Hundreds of pilots responded to the organisation's appeal by delivering the much-needed equipment to the station in the HIP 93377 system. 
 
 Following the success of the campaign, a spokesperson for the Canary Mining Corporation released a brief statement: 

@@ -26,9 +26,6 @@ related_uuids:
 - 4cfd8020-b7f7-51bd-b184-d44dc244bf8b
 ---
 
-Robot Surveillance Program Discovered
-
-
 The personal administration robot of business magnate Lloyd Hardacre, Which recently revealed evidence of his criminal activity, has been Found to contain a concealed surveillance program. 
 
 Lieutenant Inspector Ramesh Thorne of the Federal Security Service made a statement to the media: 

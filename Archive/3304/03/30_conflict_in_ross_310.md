@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Conflict in Ross 310
-
-
 Conflict has erupted between Ross 310 Natural Services, The controlling faction of the Ross 310 system, and the Ross 310 Cartel, a criminal organisation also based in Ross 310. 
 
 It is understood that the Ross 310 Cartel is attempting to overthrow Ross 310 Natural Services and assume control of the system. 

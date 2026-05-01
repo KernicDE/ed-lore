@@ -50,9 +50,6 @@ related_uuids:
 - ce4bd32c-e1cd-55e9-a220-4f15c711f86d
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 A series of successful operations against The League of Reparation has led to much of the terrorist group being dismantled. But while the group has been dealt a severe blow, agents have yet to identify the organisation’s coordinator, Nexus. 

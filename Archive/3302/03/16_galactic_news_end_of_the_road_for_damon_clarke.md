@@ -21,14 +21,10 @@ topics:
 - scandal
 - succession
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
-  politics and military policy.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: End of The Road for Damon Clarke
-
 
 When the dissident organisation known as Emperor's Dawn was first brought to public attention, a number of high-profile Imperials were discovered to have connections to the group. One of them was Damon Clarke, a prominent industrialist and a member of Princess Aisling Duval's inner circle. According to a report published by the Imperial Herald, one of Clarke's companies had previously sold weapons to Emperor's Dawn, and the revelation plunged Clarke into scandal. 
 

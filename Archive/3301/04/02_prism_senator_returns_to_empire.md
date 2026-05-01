@@ -4,9 +4,6 @@ title: Prism Senator Returns to Empire
 slug: prism_senator_returns_to_empire
 date: '3301-04-02'
 source: GitHub
-entities:
-- Kahina Tijani Loren
-- Returns
 locations:
 - After completing her tour of the Sol
 - Mars
@@ -14,15 +11,14 @@ locations:
 - Sol
 topics:
 - ship
+entities:
+- Kahina Tijani Loren
+- Returns
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Prism Senator Returns to Empire
-
 
 After completing her tour of The Sol system and meeting Several high ranking officials within The Federation, Senator Kahina Tijani Loren has returned to the Empire. 
 

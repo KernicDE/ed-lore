@@ -10,18 +10,15 @@ persons: []
 groups: []
 locations:
 - Prism
-technologies: []
 topics:
 - crime
 - trade
 - war
+technologies: []
 modern_impact: Highlights ongoing commodity fraud in the galaxy and the challenges facing local security services.
 legacy_weight: 1
 significance: low
 ---
-
-Fake Gem Scam Discovered
-
 
 Word has reached This reporter over The past few hours of a massive fraud involving fake precious gems originating from the region of the Prism system. A security services spokesperson admitted that they had been caught unawares by the scale of the issue, and that thousands of fakes had already been sold: 
 

@@ -4,6 +4,8 @@ title: The Bacon City Hangover
 slug: the_bacon_city_hangover
 date: '3301-10-08'
 source: GitHub
+summary: The inaugural Bacon Protests anniversary celebration at Bacon City in Carnoeck attracted revellers and pirates alike. Animal-rights activists blockaded the station, forcing meat-carrying ships to jettison cargo. United Carnoeck for Equality issued a cleanup appeal, offering rewards to bounty hunters who clear the spaceways of agitators.
+player_impact: Bounty hunters can earn rewards by clearing pirates and agitators from the Carnoeck system. Traders should exercise caution when visiting Bacon City in the aftermath of the celebrations.
 groups:
 - United Carnoeck for Equality
 - Bacon Cats
@@ -13,15 +15,10 @@ locations:
 topics:
 - festival
 - piracy
-summary: The inaugural Bacon Protests anniversary celebration at Bacon City in Carnoeck attracted revellers and pirates alike. Animal-rights activists blockaded the station, forcing meat-carrying ships to jettison cargo. United Carnoeck for Equality issued a cleanup appeal, offering rewards to bounty hunters who clear the spaceways of agitators.
-player_impact: Bounty hunters can earn rewards by clearing pirates and agitators from the Carnoeck system. Traders should exercise caution when visiting Bacon City in the aftermath of the celebrations.
 modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---
-
-The Bacon City Hangover
-
 
 Last week, the starport of Bacon City played host to the inaugural Bacon Protests anniversary celebrations, Which commemorated the repeal of the meat ban that affected citizens of the Carnoeck system in 3288. Revellers from across the galaxy descended on Bacon City to join in the fun, and Hundreds of Independent pilots ferried animal meat and narcotics to the starport to fuel the festivities. 
 

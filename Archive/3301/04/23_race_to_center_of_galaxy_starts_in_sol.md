@@ -14,10 +14,7 @@ legacy_weight: 1
 significance: low
 ---
 
-Race to Center of Galaxy Starts in Sol
-
-
-Pilots from all over civilized space are gathering on Galileo station near planet Earth to begin One of The most ambitious organized rally race ever attempted. Called The Buckyball Run A*, This endurance race challenges commanders to reach the supermassive black hole at the center of Our galaxy, Sagittarius A*, in the shortest amount of time possible. This contest is the latest iteration of the popular Buckyball Runs, a series of unsanctioned point-to-point rally races across the galaxy. 
+Pilots from all over civilized space are gathering on Galileo station near planet Earth to begin One of The most ambitious organized rally race ever attempted. Called The Buckyball Run A**, This endurance race challenges commanders to reach the supermassive black hole at the center of Our galaxy, Sagittarius A**, in the shortest amount of time possible. This contest is the latest iteration of the popular Buckyball Runs, a series of unsanctioned point-to-point rally races across the galaxy. 
 
 According to Mirana Ortilano, a spokesperson for the event, the choice of Sagittarius A* As the finish line is explained by Its significance As the center of the Milky Way galaxy. “It’s a pilgrimage for Many, for Many different reasons. We’re just helping pilots get there faster.” 
 

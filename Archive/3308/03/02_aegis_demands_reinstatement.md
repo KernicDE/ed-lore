@@ -4,7 +4,8 @@ title: Aegis Demands Reinstatement
 slug: aegis_demands_reinstatement
 date: '3308-03-02'
 source: API
-arc_id: salvation-azimuth
+summary: Aegis leaders petition the superpowers for reinstatement amid evidence of Azimuth's return.
+player_impact: Not specifically mentioned — this is a policy report.
 persons:
 - Carter Armstrong
 groups:
@@ -20,9 +21,10 @@ topics:
 - crime
 - research
 - xenoarchaeology
-summary: Aegis leaders petition the superpowers for reinstatement amid evidence of Azimuth's return.
-player_impact: Not specifically mentioned — this is a policy report.
-modern_impact: "\"The leaders of Aegis have formally petitioned the Alliance, Empire and Federation to reform the anti-xeno organisation.\" Aegis's desperate petition highlights the irony that evidence of Azimuth's return arrives precisely as the organization is dismantled."
+arc_id: salvation-azimuth
+modern_impact: '"The leaders of Aegis have formally petitioned the Alliance, Empire and Federation to reform the anti-xeno organisation." Aegis''s desperate petition highlights the irony that evidence of Azimuth''s return arrives precisely as the organization is dismantled.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - abc2fd5a-4eb4-5e36-ba45-d821adf6847e
 - f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
@@ -34,10 +36,7 @@ related_uuids:
 - 634f0a2d-c94e-5c0e-9501-a506ebbde34b
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
 - 8f436007-f00f-535c-af52-d16273c91cc0
-legacy_weight: 5
-significance: high
 ---
-
 
 The leaders of Aegis have formally petitioned the Alliance, Empire and Federation to reform the anti-xeno organisation.
 Although All three superpowers are in the process of building their own taskforces to replace Aegis, they have been unable to assist against a recent surge of Thargoid incursions.

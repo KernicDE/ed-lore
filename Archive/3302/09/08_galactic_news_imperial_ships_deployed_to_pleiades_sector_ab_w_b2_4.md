@@ -21,9 +21,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Imperial Ships Deployed to Pleiades Sector AB-W B2-4
-
-
 For much of The past week, the galactic community has been captivated by the mysterious shipwreck discovered in the Pleiades Sector AB-W B2-4 system. The wreck, Which was Found on One of the system's moons, is believed by Many to be the remains of a non-human starship. 
 
 Given the magnitude of the discovery, it was only a matter of time before one of the superpowers took action. That action has come in the form of an Imperial deputation, which was despatched to the system within the past twelve hours. Eyewitness reports indicate that a Majestic-class Interdictor has taken up position directly over the shipwreck site. 

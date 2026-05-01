@@ -26,9 +26,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: End of First Season of Galactic Combat Championship
-
-
 The first season of the Galactic Combat Championship has come to a spectacular finish. Competitors in the Five-week tournament included Adle's Armada, Blood Brothers from Alrai, Ronin of Amarak, Triadius, Contrail, and the Balkan Intergalactic Guerrillas. 
 
 Fifteen matches of three rounds were fought Every weekend for five weeks, concluding With a spectacular eight vs. eight, winner-take-all match in front of a live audience. Despite Many exciting moments, near wins and losses there could be only victor, and that victor was Adle's Armada. 

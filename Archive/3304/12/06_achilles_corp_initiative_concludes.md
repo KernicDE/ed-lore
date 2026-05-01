@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Achilles Corp Initiative Concludes
-
-
 A goodwill initiative from The Achilles Corporation has now concluded. 
 
 Chairman Gus Weaver of the Sol division of Achilles Corp announced: 

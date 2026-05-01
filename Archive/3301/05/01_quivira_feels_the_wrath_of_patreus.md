@@ -4,23 +4,29 @@ title: Quivira Feels the Wrath of Patreus
 slug: quivira_feels_the_wrath_of_patreus
 date: '3301-05-01'
 source: GitHub
-entities:
-- Patreus by
+summary: Senator Denton Patreus initiates legal action against Quivira over unpaid bridge loans taken during a recession. Quivira Electronics Plc, acting on Patreus's behalf, seizes Stepledon Dock and hires freelance reclamation agents. The People's Quivira for Equality Party sets up a defence fund with the Bank of Zaonce to pay independent pilots who come to Quivira's aid.
+player_impact: Pilots can choose to support Quivira's defence by reporting to Godel Dock, or assist Quivira Electronics Plc in debt reclamation.
+persons:
+- Denton Patreus
+groups:
+- Quivira Electronics Plc
+- People's Quivira for Equality Party
+- Bank of Zaonce
+- Silver Universal Plc
 locations:
-- Senator Patreus by the
+- Quivira
 - Zaonce
+- Stepledon Dock
+- Godel Dock
 topics:
 - corporate expansion
 - independence
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Illustrates Patreus's aggressive debt-collection tactics as a power-play mechanism that draws pilots into system-level conflicts.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
-
-Quivira Feels The Wrath of Patreus
-
 
 Deep in The heart of the Empire, a handful of nations stand defiantly Independent from their neighbours. 
 

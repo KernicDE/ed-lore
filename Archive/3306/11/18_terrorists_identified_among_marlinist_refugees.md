@@ -4,29 +4,24 @@ title: Terrorists Identified Among Marlinist Refugees
 slug: terrorists_identified_among_marlinist_refugees
 date: '3306-11-18'
 source: GitHub
-groups:
-- Federal Security Service
-- NMLA
+summary: The Federal Security Service uncovers nine NMLA terrorists hiding among Marlinist refugees in the Federation, triggering protests over refugee policy.
+player_impact: None
 persons:
 - Brad Mitchell
 - Jenna Fairfax
+groups:
+- Federal Security Service
+- NMLA
 topics:
 - crime
 - terrorism
-summary: The Federal Security Service uncovers nine NMLA terrorists hiding among Marlinist
-  refugees in the Federation, triggering protests over refugee policy.
-player_impact: None
-modern_impact: The NMLA infiltration of refugee populations becomes a major political issue
-  in both the Federation and Empire, fueling anti-refugee sentiment.
+modern_impact: The NMLA infiltration of refugee populations becomes a major political issue in both the Federation and Empire, fueling anti-refugee sentiment.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 5c5b50af-0f81-5898-b860-948182133436
 - fdfcbad6-3839-516e-9fa7-708cee9ad0e3
 ---
-
-Terrorists Identified Among Marlinist Refugees
-
 
 A screening process for Marlinist asylum-seekers arriving in The Federation has Located Several members of the NMLA terrorist group. 
 

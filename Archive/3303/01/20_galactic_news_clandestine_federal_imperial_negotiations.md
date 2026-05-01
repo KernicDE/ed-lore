@@ -13,17 +13,14 @@ groups:
 locations:
 - Earth
 - Cambridge
-technologies: []
 topics:
 - diplomacy
 - ship
+technologies: []
 modern_impact: Unverified reports of secret superpower diplomacy amid public Federal-Imperial tensions.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Clandestine Federal-Imperial Negotiations?
-
 
 Animosity between The Empire and the Federation has been growing for months, but leaked communications suggest that clandestine negotiations may be taking place between the two superpowers. 
 

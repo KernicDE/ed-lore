@@ -14,9 +14,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic Mechanics Union Busted Breaking Laws
-
-
 Word has reached GalNet that an investigation into The Galactic Mechanics Union will result in charges being brought against The organisation by All three of the galaxy’s major powers. 
 
 The investigation, Which was carried out in secret by a consortium of Independent investigators, has Found that the GMU has been involved in anti-competitive business practices, including price fixing on a galactic scale. 

@@ -4,6 +4,8 @@ title: Galaxy's Most Powerful People – Simguru Pranav Antal
 slug: galaxys_most_powerful_people_simguru_pranav_antal
 date: '3301-06-06'
 source: GitHub
+summary: Profile of Simguru Pranav Antal, heir to Rishi Antal's legacy of transcendental technology. Despite predictions that Utopia would collapse without its founder, Pranav expanded the Utopian Commune Programme to multiple systems. He told GalNet that imposing order through innovation and understanding is key to humanity's happiness, and that mastering oneself is necessary to master the worlds around us.
+player_impact: None
 persons:
 - Pranav Antal
 - Rishi Antal
@@ -18,15 +20,10 @@ locations:
 topics:
 - politics
 - technology
-summary: Profile of Simguru Pranav Antal, heir to Rishi Antal's legacy of transcendental technology. Despite predictions that Utopia would collapse without its founder, Pranav expanded the Utopian Commune Programme to multiple systems. He told GalNet that imposing order through innovation and understanding is key to humanity's happiness, and that mastering oneself is necessary to master the worlds around us.
-player_impact: None
 modern_impact: Profile establishes Pranav Antal as a visionary leader expanding Utopia's influence through advanced communal technology.
 legacy_weight: 2
 significance: medium
 ---
-
-Galaxy's Most Powerful People: Simguru Pranav Antal
-
 
 As heir to The legacy of Simguru Rishi Antal, The master of transcendental technology, Pranav has a lot to live up to. There are Many people who thought that Utopia, along With Its various projects and subsidiaries, would inevitably fall apart once Rishi was no longer leading them. Pranav has proved them all wrong. 
 

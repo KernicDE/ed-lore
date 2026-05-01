@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Rind Gold Electronics Org Campaign Concludes
-
-
 The Rind Gold Electronics Org Campaign has announced that Its campaign has reached a successful conclusion. Large quantities of research materials and mined resources were delivered to Wegner Market over the past week, allowing the Empire to proceed With the construction of a new pilot-training centre. 
 
 A spokesperson for the Rind Gold Electronics Org released The following statement: 

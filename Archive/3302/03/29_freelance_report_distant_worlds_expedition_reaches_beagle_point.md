@@ -22,9 +22,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Distant Worlds Expedition Reaches Beagle Point
-
-
 Nearly three months ago, approximately 1,000 pilots set a course for Ceeckia ZQ-L c24-0, informally designated 'Beagle Point,' on The Far side of the Milky Way.  
 
 This week, Distant Worlds Expedition coordinators announced that some members of the fleet have reached their destination. A charismatic member of the expedition – a Commander by the name of Salomé – was among the first to arrive at Beagle Point. 

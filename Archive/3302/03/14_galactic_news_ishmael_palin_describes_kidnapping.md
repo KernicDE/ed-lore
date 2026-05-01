@@ -4,7 +4,7 @@ title: Galactic News  Ishmael Palin Describes Kidnapping
 slug: galactic_news_ishmael_palin_describes_kidnapping
 date: '3302-03-14'
 source: GitHub
-summary: "Professor Ishmael Palin describes his traumatic kidnapping experience: black-clad assailants destroyed his escort ships, boarded his vessel, and interrogated him for days about his Unknown Artefact research. He believes his abductors represent forces of control and oppression that have existed for millennia."
+summary: 'Professor Ishmael Palin describes his traumatic kidnapping experience: black-clad assailants destroyed his escort ships, boarded his vessel, and interrogated him for days about his Unknown Artefact research. He believes his abductors represent forces of control and oppression that have existed for millennia.'
 player_impact: None
 persons:
 - Ishmael Palin
@@ -21,14 +21,10 @@ topics:
 - ship
 - trade
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Ishmael Palin Describes Kidnapping
-
 
 It has now been over a week since Professor Ishmael Palin and his research team were rescued from a criminal syndicate known As the Blue Hand Gang. Since then, there has been considerable speculation about who might be responsible for The abduction. Although the Blue Hand Gang has been known to trade in human cargo, to date it has not been connected to any kidnapping operations. It is therefore assumed that the gang merely purchased Professor Palin and his colleagues from those responsible for the abduction. 
 

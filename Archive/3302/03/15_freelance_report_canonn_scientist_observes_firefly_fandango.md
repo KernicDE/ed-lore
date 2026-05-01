@@ -4,7 +4,7 @@ title: Freelance Report  Canonn Scientist Observes Firefly Fandango
 slug: freelance_report_canonn_scientist_observes_firefly_fandango
 date: '3302-03-15'
 source: GitHub
-summary: "Dr Arcanonn reports a fascinating observation from Commander Engalo: when Unknown Artefacts are placed near barnacle 'flowers', their respective 'firefly' light specks appear to interact and fly around together. The Canonn hopes to study this behaviour at their new research outpost."
+summary: 'Dr Arcanonn reports a fascinating observation from Commander Engalo: when Unknown Artefacts are placed near barnacle ''flowers'', their respective ''firefly'' light specks appear to interact and fly around together. The Canonn hopes to study this behaviour at their new research outpost.'
 player_impact: None
 persons:
 - Dr Arcanonn
@@ -16,14 +16,10 @@ topics:
 - construction
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Canonn Scientist Observes Firefly Fandango
-
 
 Verity Gavroche, official correspondent for The Canonn Interstellar Research Group, has spoken to Dr Arcanonn about an exciting new discovery: 
 

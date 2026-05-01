@@ -4,6 +4,8 @@ title: 'Xenological Project Receives Thargoid Artefacts '
 slug: xenological_project_receives_thargoid_artefacts
 date: '3308-06-16'
 source: API
+summary: Professor Ishmael Palin concludes his Thargoid research project in the Arque system after pilots deliver alien probes, resin, and sensors to Abel Laboratory.
+player_impact: Pilots delivered Thargoid probes, resin, and sensors to Abel Laboratory in the Arque system. Eligible contributors received Grade 5 engineered Heavy Duty Hull Reinforcement Packages from Baird Gateway.
 persons:
 - Ishmael Palin
 locations:
@@ -15,14 +17,12 @@ topics:
 - research
 - war
 arc_id: null
-summary: Professor Ishmael Palin concludes his Thargoid research project in the Arque system after pilots deliver alien probes, resin, and sensors to Abel Laboratory.
-player_impact: Pilots delivered Thargoid probes, resin, and sensors to Abel Laboratory in the Arque system. Eligible contributors received Grade 5 engineered Heavy Duty Hull Reinforcement Packages from Baird Gateway.
 modern_impact: Palin's research underscored the ongoing scientific race to understand Thargoid biomechanical technology, highlighting how independent pilots served as the primary logistical backbone for xenological research during the war.
 legacy_weight: 4
 significance: medium
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A range of alien objects have been delivered to the Arque system for Professor Ishmael Palin’s study of the Thargoids.
 The conclusion of the project was announced by Professor Palin:
 “I am highly impressed with the number of Thargoid probes, resin and sensors that were delivered to Abel Laboratory. Collecting and transporting these items can be a hazardous task, so I deeply appreciate the effort made by pilots to obtain them.”

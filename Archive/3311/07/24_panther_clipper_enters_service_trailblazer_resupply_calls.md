@@ -4,6 +4,9 @@ title: Panther Clipper Enters Service, Trailblazer Resupply Calls
 slug: panther_clipper_enters_service_trailblazer_resupply_calls
 date: '3311-07-24'
 source: API
+summary: Zorgon Peterson confirmed the Panther Clipper entered full-scale production after community support in Aiaba, while Brewer Corporation simultaneously called for pilots to resupply Trailblazer megaships at Starlace Station in Minerva.
+player_impact: Independent pilots delivered commodities to Vespucci City in Aiaba and conducted anti-piracy operations to stabilise Panther Clipper manufacturing. Pilots were then asked to deliver aluminium, steel, titanium, and CMM composites to Starlace Station in Minerva for Trailblazer megaship resupply, with a modified cargo rack as reward.
+persons: []
 groups:
 - Brewer Corporation
 - Zorgon Peterson
@@ -14,13 +17,10 @@ topics:
 - piracy
 - ship
 - trade
-persons: []
 technologies:
 - Panther Clipper
 - MkII cargo rack
-player_impact: "Independent pilots delivered commodities to Vespucci City in Aiaba and conducted anti-piracy operations to stabilise Panther Clipper manufacturing. Pilots were then asked to deliver aluminium, steel, titanium, and CMM composites to Starlace Station in Minerva for Trailblazer megaship resupply, with a modified cargo rack as reward."
-summary: "Zorgon Peterson confirmed the Panther Clipper entered full-scale production after community support in Aiaba, while Brewer Corporation simultaneously called for pilots to resupply Trailblazer megaships at Starlace Station in Minerva."
-modern_impact: "The simultaneous announcement — Panther Clipper production and Trailblazer resupply — reveals how ship manufacturing and colonisation logistics are intertwined in the post-war economy. The 'modified cargo rack' reward for Trailblazer resupply directly links the two initiatives, incentivising pilots to participate in both the ship launch and colonisation support ecosystems."
+modern_impact: The simultaneous announcement — Panther Clipper production and Trailblazer resupply — reveals how ship manufacturing and colonisation logistics are intertwined in the post-war economy. The 'modified cargo rack' reward for Trailblazer resupply directly links the two initiatives, incentivising pilots to participate in both the ship launch and colonisation support ecosystems.
 legacy_weight: 5
 significance: high
 related_uuids:

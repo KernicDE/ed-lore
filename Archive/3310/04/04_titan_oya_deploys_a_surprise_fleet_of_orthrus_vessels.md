@@ -4,16 +4,16 @@ title: Titan Oya deploys a surprise fleet of Orthrus vessels
 slug: titan_oya_deploys_a_surprise_fleet_of_orthrus_vessels
 date: '3310-04-04'
 source: API
+summary: Titan Oya deploys Orthrus vessels into systems farther from its territory in a possible panic response to mounting AX pressure, with the Pilots' Federation urging pilots to eliminate them.
+player_impact: Pilots are encouraged to track and eliminate Orthrus vessels in systems where they've been detected to prevent Oya from reclaiming territory.
+persons: []
 groups: []
 locations: []
 topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: "The mention of player squadrons AXI and XSF as forces 'reclaiming ground from the Titans successfully' is a rare explicit acknowledgment of organised player groups in GalNet. The analysis that this may be 'a new tactic or possibly a simple panic response' shows uncertainty about Thargoid psychology. The Pilots' Federation alert — 'If Oya can be prevented from reclaiming territory, then it's likely that this third Titan will fall within mere weeks' — proves accurate."
-persons: []
-player_impact: "Pilots are encouraged to track and eliminate Orthrus vessels in systems where they've been detected to prevent Oya from reclaiming territory."
-summary: "Titan Oya deploys Orthrus vessels into systems farther from its territory in a possible panic response to mounting AX pressure, with the Pilots' Federation urging pilots to eliminate them."
+modern_impact: The mention of player squadrons AXI and XSF as forces 'reclaiming ground from the Titans successfully' is a rare explicit acknowledgment of organised player groups in GalNet. The analysis that this may be 'a new tactic or possibly a simple panic response' shows uncertainty about Thargoid psychology. The Pilots' Federation alert — 'If Oya can be prevented from reclaiming territory, then it's likely that this third Titan will fall within mere weeks' — proves accurate.
 legacy_weight: 5
 significance: high
 related_uuids:

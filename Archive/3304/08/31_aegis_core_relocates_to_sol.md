@@ -30,9 +30,6 @@ related_uuids:
 - a504555f-6e00-5f41-a0c3-2245cc13b797
 ---
 
-Aegis Core Relocates to Sol
-
-
 In May, a criminal organisation known as The Socho Gold Raiders assumed control of The Socho system, headquarters of Aegis Core. 
 
 Since then the system has descended Further into chaos, culminating in the loss of services at Dantec Enterprise due to Thargoid sensor-related interference. This in turn led to the temporary immobilisation of Aegis’s Eagle Eye network, a system of orbital installations designed to determine potential Thargoid attack sites. 

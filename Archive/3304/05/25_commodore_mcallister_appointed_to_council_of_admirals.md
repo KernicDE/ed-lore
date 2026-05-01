@@ -23,11 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Commodore McAllister Appointed to Council of Admirals
-
-
-Commodore McAllister Appointed to Council of Admirals 
-
 Commodore Riri McAllister of The Alliance Defence Force has been appointed to the Council of Admirals and promoted to the position of Rear Admiral. 
 
 The Council of Admirals is responsible for military strategy for The entire Alliance, and Each of Its six members commands a contributing navy. A vacancy was created when Fleet Admiral Tulimaq Buchanan was Assassinated by the League of Reparation. 

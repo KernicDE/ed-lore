@@ -15,14 +15,10 @@ locations:
 technologies:
 - meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Jacques Barnacle Search
-
 
 The discovery of Jacques Station has prompted Many Commanders to load up on meta-alloys and start the long trek to Eol Prou RS-T d3-94. 
 

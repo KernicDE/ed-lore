@@ -4,6 +4,8 @@ title: Pioneer Returns from the Depths
 slug: pioneer_returns_from_the_depths
 date: '3301-10-04'
 source: GitHub
+summary: Commander Kommodore returned from a ten-month journey to Sagittarius A* in an Eagle-class starship, cataloguing nearly 3,900 star systems and earning 123 million credits from Universal Cartographics. Core Dynamics expressed interest in permanently displaying the ship as a testament to the Eagle Mk II's durability.
+player_impact: Pilots can undertake extreme long-range exploration in small vessels. The journey demonstrates that even the Eagle Mk II can survive deep-space expeditions with proper preparation.
 persons:
 - Kommodore
 - Erimus
@@ -12,22 +14,15 @@ groups:
 - Universal Cartographics
 locations:
 - Sagittarius A*
-technologies:
-- Eagle Mk II
 topics:
 - exploration
-summary: Commander Kommodore returned from a ten-month journey to Sagittarius A* in an Eagle-class starship, cataloguing nearly 3,900 star systems and earning 123 million credits from Universal Cartographics. Core Dynamics expressed interest in permanently displaying the ship as a testament to the Eagle Mk II's durability.
-player_impact: Pilots can undertake extreme long-range exploration in small vessels. The journey demonstrates that even the Eagle Mk II can survive deep-space expeditions with proper preparation.
+technologies:
+- Eagle Mk II
 modern_impact: Notable exploration achievement demonstrating the capabilities of small ships on extreme long-range journeys.
 legacy_weight: 1
 significance: low
 ---
 
-Pioneer Returns from The Depths
-
-
-Pioneer Returns from the Depths 
- 
 On the 5th of January 3301, an explorer by the name of Commander Kommodore set off to visit Sagittarius A* in his Eagle-class starship – the first known attempt to reach the core in such a Vessel. 
 
 Nothing more was heard from This intrepid explorer until this week, some ten months later, when his trusty Eagle finally returned to a friendly starport. The Commander was said to have a made a rough landing due to the time that had elapsed since he last experienced docking procedures. 

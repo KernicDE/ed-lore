@@ -30,9 +30,6 @@ related_uuids:
 - 30995800-a980-5b52-889e-1809f4bc9cee
 ---
 
-Sirius Corp Makes Public Offer
-
-
 The Sirius Corporation has publicly offered to work With engineer Ram Tah in the development of Further Guardian-human technology. 
 
 Li Yong-Rui, the corporation’s chief executive officer, made This statement: 

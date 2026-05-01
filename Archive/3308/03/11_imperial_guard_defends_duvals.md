@@ -4,10 +4,10 @@ title: Imperial Guard Defends Duvals
 slug: imperial_guard_defends_duvals
 date: '3308-03-11'
 source: API
-arc_id: nmla-terrorism
+summary: Emperor Arissa orders the Imperial Guard to protect surviving members of the Duval dynasty.
+player_impact: Not specifically mentioned — this is a security report.
 persons:
 - Arissa Lavigny-Duval
-entities: []
 groups:
 - Imperial Guard
 - NMLA
@@ -15,9 +15,11 @@ locations: []
 topics:
 - succession
 - war
-summary: Emperor Arissa orders the Imperial Guard to protect surviving members of the Duval dynasty.
-player_impact: Not specifically mentioned — this is a security report.
-modern_impact: "\"Her Imperial Majesty is determined to preserve the remaining Duval bloodline as well as deter any future attacks.\" The Imperial Guard's expanded protective mandate reflects the NMLA's success in decimating the Imperial Family."
+entities: []
+arc_id: nmla-terrorism
+modern_impact: '"Her Imperial Majesty is determined to preserve the remaining Duval bloodline as well as deter any future attacks." The Imperial Guard''s expanded protective mandate reflects the NMLA''s success in decimating the Imperial Family.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 00d01961-877a-52b8-a4ce-337aaa44ae3f
 - b68796e4-4524-597f-af53-35eebba951e0
@@ -29,10 +31,7 @@ related_uuids:
 - e899c6a7-d0d6-5407-a5b7-8a422e4753d7
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
-legacy_weight: 5
-significance: high
 ---
-
 
 Emperor Arissa Lavigny-Duval has ordered The Imperial Guard to provide increased security to surviving members of the Duval dynasty.
 Many Imperial Family members, including Prince Harold, were Assassinated by the NMLA. Sources close to Emperor Arissa state that she is determined to preserve the remaining Duval bloodline as well as deter any future attacks.

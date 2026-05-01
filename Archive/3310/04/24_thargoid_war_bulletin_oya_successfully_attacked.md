@@ -4,6 +4,10 @@ title: 'Thargoid War Bulletin: Oya Successfully Attacked'
 slug: thargoid_war_bulletin_oya_successfully_attacked
 date: '3310-04-24'
 source: API
+summary: Titan Oya is confirmed destroyed in the Cephei Sector BV-Y B4 system, leaving five Titans operational. Aden Tanner cautions pilots about increasing dangers during Titan assaults.
+player_impact: Pilots successfully destroyed Titan Oya. Tanner warns that combat skills will be tested with more frequent counter-attacks as Titans take damage.
+persons:
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -13,11 +17,7 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Tanner's detailed tactical advice — 'caustic sink launchers and Thargoid pulse neutralisers... Guardian nanite torpedoes to target the Titans' thermal vents' — reveals the mechanics of Titan combat. His warning that 'Counter-attacks by Thargoid vessels become more frequent as the Titans take damage' provides concrete tactical intelligence. His call for 'veteran anti-xeno pilots passing on their knowledge to less-experienced pilots' acknowledges the skill gap in the pilot community."
-persons:
-- Aden Tanner
-player_impact: "Pilots successfully destroyed Titan Oya. Tanner warns that combat skills will be tested with more frequent counter-attacks as Titans take damage."
-summary: "Titan Oya is confirmed destroyed in the Cephei Sector BV-Y B4 system, leaving five Titans operational. Aden Tanner cautions pilots about increasing dangers during Titan assaults."
+modern_impact: Tanner's detailed tactical advice — 'caustic sink launchers and Thargoid pulse neutralisers... Guardian nanite torpedoes to target the Titans' thermal vents' — reveals the mechanics of Titan combat. His warning that 'Counter-attacks by Thargoid vessels become more frequent as the Titans take damage' provides concrete tactical intelligence. His call for 'veteran anti-xeno pilots passing on their knowledge to less-experienced pilots' acknowledges the skill gap in the pilot community.
 legacy_weight: 5
 significance: high
 related_uuids:

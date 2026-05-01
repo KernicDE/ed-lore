@@ -29,9 +29,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Free The Slaves
-
-
 Princess Aisling Duval has announced the creation of new a colony for former slaves in the Uibuth system. According to a statement from the princess' press liaison, all slaves admitted to the colony will be liberated and re-educated, and offered the protection of forces loyal to Her Royal Highness. 
 
 A spokesperson for the Prismatic Imperium, Which is overseeing the initiative, revealed more about the historic campaign: 

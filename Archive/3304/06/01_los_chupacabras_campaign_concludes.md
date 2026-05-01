@@ -19,9 +19,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Los Chupacabras Campaign Concludes
-
-
 Los Chupacabras have announced that their plan to host a music festival in The LFT 926 system has been enthusiastically received by the galactic community. Scores of pilots supported the initiative by delivering commodities to Meredith City, the organisation’s base of operations. 
 
 Los Chupacabras thanked those who supported the campaign, and confirmed that a second festival is already being planned. 

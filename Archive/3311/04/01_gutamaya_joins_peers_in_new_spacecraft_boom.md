@@ -4,6 +4,13 @@ title: Gutamaya Joins Peers in New Spacecraft Boom
 slug: gutamaya_joins_peers_in_new_spacecraft_boom
 date: '3311-04-01'
 source: API
+summary: Gutamaya unveils the Corsair at a Capitol launch event, marking its first commercially available multipurpose ship without Imperial Navy rank requirements.
+player_impact: Independent pilots can now purchase the Corsair, Gutamaya's first commercially available multipurpose ship without Imperial Navy rank requirements.
+persons:
+- Aisling Duval
+- Lucretia Roche-Duval
+- Eugine Varrik
+- Miyu Azusa
 groups:
 - Imperial Navy
 locations:
@@ -13,16 +20,9 @@ topics:
 - engineering
 - ship
 - trade
-persons:
-- Aisling Duval
-- Lucretia Roche-Duval
-- Eugine Varrik
-- Miyu Azusa
 technologies:
 - Corsair
-player_impact: "Independent pilots can now purchase the Corsair, Gutamaya's first commercially available multipurpose ship without Imperial Navy rank requirements."
-summary: Gutamaya unveils the Corsair at a Capitol launch event, marking its first commercially available multipurpose ship without Imperial Navy rank requirements.
-modern_impact: "Eugine Varrik's observation that the Corsair's 'sleek design employs Gutamaya's famous curves' and Miyu Azusa's praise for its 'flexibility of internal components' establish the ship's dual appeal: Imperial aesthetics combined with genuine versatility. Princess Aisling Duval's statement — 'This magnificent ship represents the Empire's commitment to innovation' — positions the Corsair as a symbol of Imperial soft power, expanding Gutamaya's market beyond Navy loyalists."
+modern_impact: 'Eugine Varrik''s observation that the Corsair''s ''sleek design employs Gutamaya''s famous curves'' and Miyu Azusa''s praise for its ''flexibility of internal components'' establish the ship''s dual appeal: Imperial aesthetics combined with genuine versatility. Princess Aisling Duval''s statement — ''This magnificent ship represents the Empire''s commitment to innovation'' — positions the Corsair as a symbol of Imperial soft power, expanding Gutamaya''s market beyond Navy loyalists.'
 legacy_weight: 2
 significance: low
 related_uuids:

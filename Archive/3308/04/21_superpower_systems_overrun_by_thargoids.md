@@ -4,7 +4,8 @@ title: Superpower Systems Overrun by Thargoids
 slug: superpower_systems_overrun_by_thargoids
 date: '3308-04-21'
 source: API
-arc_id: thargoid-titan-war
+summary: Thargoid fleets invade the Didio, Novas, and Sosong systems, placing over ten billion lives at risk.
+player_impact: Independent pilots were called to defend Didio, Novas, and Sosong from Thargoid fleets.
 persons:
 - Imogen le Ray
 - Henry Paul Atherton
@@ -25,17 +26,16 @@ topics:
 - alien contact
 - corporate expansion
 - succession
-player_impact: Independent pilots were called to defend Didio, Novas, and Sosong from Thargoid fleets.
-summary: Thargoid fleets invade the Didio, Novas, and Sosong systems, placing over ten billion lives at risk.
-modern_impact: "\"With Aegis now officially disbanded, its fleet is being temporarily operated by Frontline Solutions.\" The simultaneous invasion of superpower core systems exposed the catastrophic vulnerability of human space after Aegis's dissolution, forcing a desperate reliance on Salvation's unproven superweapons and mercenary logistics."
+arc_id: thargoid-titan-war
+modern_impact: '"With Aegis now officially disbanded, its fleet is being temporarily operated by Frontline Solutions." The simultaneous invasion of superpower core systems exposed the catastrophic vulnerability of human space after Aegis''s dissolution, forcing a desperate reliance on Salvation''s unproven superweapons and mercenary logistics.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 3f6b7847-131b-5ba8-ac81-0d61d8b5bff4
 - 8097c00d-2e15-5445-b408-e3b80f412aac
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Thargoid fleets have invaded The Didio, Novas and Sosong systems, placing over ten billion lives at risk.
 Local security services in all three systems have reported overwhelming numbers of hostile Thargoid vessels. Several starports have been directly attacked With caustic enzyme weapons, and the combined death toll is already in the Hundreds of thousands.
 Didio, Novas and Sosong are members of the Alliance, Empire and Federation respectively. Three admirals have been Selected to mount a defence: Henry Paul Atherton of the Imperial Navy, Maxton Price of the Federal Navy and Rachel Ziegler of the Alliance Defence Force. 

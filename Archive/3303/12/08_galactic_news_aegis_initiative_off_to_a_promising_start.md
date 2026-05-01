@@ -22,9 +22,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Aegis Initiative off to a Promising Start
-
-
 Reports from The Taygeta system indicate that Aegis’s new research programme is already bearing fruit. 
 
 Professor Boden Tench, principal researcher at Titan's Daughter, offered The following statement to Universal Scientist: 

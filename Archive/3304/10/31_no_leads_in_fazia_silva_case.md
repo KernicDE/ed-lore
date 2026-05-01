@@ -29,9 +29,6 @@ related_uuids:
 - 4c33cc73-d588-59a5-b80d-fe0c6e76f665
 ---
 
-No Leads in Fazia Silva Case
-
-
 The investigation into the death of Alliance presidential candidate Fazia Silva has concluded. No convictions have been made. 
 
 Inspector Erin Sangster of Alliance Interpol made This statement: 

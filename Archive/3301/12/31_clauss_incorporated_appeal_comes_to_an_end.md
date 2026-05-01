@@ -15,19 +15,16 @@ locations:
 - Njambalba
 - Clauss Port
 - Santa Muerte
-technologies: []
 topics:
 - corporate expansion
 - ship
 - trade
 - war
+technologies: []
 modern_impact: Seasonal charitable appeal demonstrates how corporations leverage pilot networks for galactic-scale distribution.
 legacy_weight: 2
 significance: low
 ---
-
-Clauss Incorporated Appeal Comes to an End
-
 
 Clauss Incorporated has announced that Its recent appeal for Special Gifts has been warmly received by The galactic community, With Hundreds of pilots taking to their ships to transport the requested commodities from Frost Dock in the Njambalba system to Clauss Port in Santa Muerte. Nicolas St Clauss, the CEO of Clauss Incorporated, released a brief statement: 
 

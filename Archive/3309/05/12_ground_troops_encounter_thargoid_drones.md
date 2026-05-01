@@ -4,6 +4,11 @@ title: Ground Troops Encounter Thargoid Drones
 slug: ground_troops_encounter_thargoid_drones
 date: '3309-05-12'
 source: API
+summary: Thargoid 'Revenant' drones are attacking ground personnel in occupied settlements, adding a planetary surface dimension to the war.
+player_impact: Independent armed forces operating behind enemy lines can play a vital role by destroying Thargoid drones.
+persons:
+- Ernesto Rios
+- Daniel Parry
 groups:
 - Aegis
 locations:
@@ -13,12 +18,7 @@ topics:
 - investigation
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Rios's eyewitness — 'I've seen them patrol the abandoned settlements as if on guard duty... and become extremely hostile when they detect any living humans' — is chilling. His question — 'Could they be planning to colonise all worlds in the core systems?' — raises existential stakes. Parry's description of 'entire squads being wiped out by missile bombardments from these craft' establishes the drone threat level."
-persons:
-- Ernesto Rios
-- Daniel Parry
-player_impact: "Independent armed forces operating behind enemy lines can play a vital role by destroying Thargoid drones."
-summary: "Thargoid 'Revenant' drones are attacking ground personnel in occupied settlements, adding a planetary surface dimension to the war."
+modern_impact: Rios's eyewitness — 'I've seen them patrol the abandoned settlements as if on guard duty... and become extremely hostile when they detect any living humans' — is chilling. His question — 'Could they be planning to colonise all worlds in the core systems?' — raises existential stakes. Parry's description of 'entire squads being wiped out by missile bombardments from these craft' establishes the drone threat level.
 legacy_weight: 5
 significance: high
 related_uuids:

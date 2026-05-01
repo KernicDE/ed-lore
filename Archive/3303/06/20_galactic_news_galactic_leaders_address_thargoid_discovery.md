@@ -17,21 +17,17 @@ locations:
 - Imperial Palace
 - Maia
 - Pleiades Nebula
-technologies: []
 topics:
 - alien contact
 - ship
 - sport
 - succession
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Galactic Leaders Address Thargoid Discovery
-
 
 The leaders of the galaxy's major powers have responded to news that the mysterious ships seen in the Maia system and Pleiades Nebula are Thargoid vessels. 
 

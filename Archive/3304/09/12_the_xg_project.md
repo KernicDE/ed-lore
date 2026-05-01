@@ -20,9 +20,6 @@ legacy_weight: 4
 significance: high
 ---
 
-The XG Project
-
-
 In an interview With Independent media outlet Vox Galactica, engineer Ram Tah has discussed the XG Project, Which produced the recently released XG fighters. 
 
 “Ever since the first Guardian ruins were discovered, I’ve been trying to combine their technology with Our own. I drew up a blueprint for the original fighter, the XG1, before inviting Other technicians to refine the design with a view to producing something commercially viable.” 

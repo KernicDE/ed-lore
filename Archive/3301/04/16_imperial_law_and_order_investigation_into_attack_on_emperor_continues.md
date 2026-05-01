@@ -4,8 +4,6 @@ title: Imperial Law and Order  Investigation into Attack on Emperor Continues
 slug: imperial_law_and_order_investigation_into_attack_on_emperor_continues
 date: '3301-04-16'
 source: GitHub
-entities:
-- Continues
 locations:
 - Facece
 - LTT 9810
@@ -14,13 +12,12 @@ topics:
 - investigation
 - ship
 - succession
+entities:
+- Continues
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low
 ---
-
-Imperial Law and Order: Investigation into Attack on Emperor Continues
-
 
 Arissa Lavigny-Duval’s ongoing investigation in to The attack on The Emperor took the Princess to Nehet yesterday, where the Senator from Facece directed her followers to launch an all out attack on the Nehet Silver Ring. 
 

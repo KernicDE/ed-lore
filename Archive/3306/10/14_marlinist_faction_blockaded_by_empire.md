@@ -4,6 +4,8 @@ title: Marlinist Faction Blockaded by Empire
 slug: marlinist_faction_blockaded_by_empire
 date: '3306-10-14'
 source: GitHub
+summary: The Duduseklis Empire League is overwhelmed by Imperial forces. Several megaships carrying Marlinist refugees are intercepted. Imperial scouts search for smaller escape vessels.
+player_impact: Pilots who supported either side can collect rewards at their respective starports.
 groups:
 - Imperial Internal Security Service
 - Pilots Federation
@@ -15,13 +17,7 @@ topics:
 - terrorism
 - war
 - humanitarian
-summary: The Duduseklis Empire League is overwhelmed by Imperial forces. Several megaships
-  carrying Marlinist refugees are intercepted. Imperial scouts search for smaller escape
-  vessels.
-player_impact: Pilots who supported either side can collect rewards at their respective
-  starports.
-modern_impact: The blockade prevents mass refugee escape and intensifies the Empire's
-  anti-Marlinist crackdown.
+modern_impact: The blockade prevents mass refugee escape and intensifies the Empire's anti-Marlinist crackdown.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -30,10 +26,7 @@ related_uuids:
 - 20fdf55d-94b0-55c6-9c70-4c26b0dbc494
 ---
 
-Marlinist Faction Blockaded by Empire
-
-
-*Pilots Federation ALERT* 
+**Pilots Federation ALERT** 
 
 Conflict between Regulatory State of Ackwada and Duduseklis Empire League in The Ackwada system has concluded. 
 

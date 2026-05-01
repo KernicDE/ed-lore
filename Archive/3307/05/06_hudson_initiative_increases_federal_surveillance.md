@@ -4,7 +4,8 @@ title: 'Hudson Initiative Increases Federal Surveillance '
 slug: hudson_initiative_increases_federal_surveillance
 date: '3307-05-06'
 source: API
-arc_id: federal-politics
+summary: President Hudson's data delivery campaign outperforms Shadow President Winters' competing privacy-protection initiative. The Proactive Detection Bureau dramatically expands its surveillance range, which Hudson interprets as a public mandate for continued monitoring.
+player_impact: Pilots delivered data to either Gresley Dock in Nanomam (supporting Hudson) or Ito Orbital in Rhea (supporting Winters). Those who supported Hudson helped expand PDB surveillance.
 persons:
 - Zachary Hudson
 - Felicia Winters
@@ -16,26 +17,25 @@ locations:
 - Rhea
 - Gresley Dock
 - Ito Orbital
+topics:
+- cyberattack
+- terrorism
 technologies:
 - Anomalous bulk scan data
 - Exceptional scrambled emission data
 - Specialised legacy firmware
 - Unusual encrypted files
 - Proactive Detection Bureau surveillance system
-topics:
-- cyberattack
-- terrorism
-player_impact: Pilots delivered data to either Gresley Dock in Nanomam (supporting Hudson) or Ito Orbital in Rhea (supporting Winters). Those who supported Hudson helped expand PDB surveillance.
-summary: President Hudson's data delivery campaign outperforms Shadow President Winters' competing privacy-protection initiative. The Proactive Detection Bureau dramatically expands its surveillance range, which Hudson interprets as a public mandate for continued monitoring.
+arc_id: federal-politics
 modern_impact: Hudson's victory in the data campaign cements the PDB's expansion and begins shifting the political balance, reducing stability in Winters-aligned systems while boosting security in Hudson's sphere of influence.
+legacy_weight: 4
+significance: medium
 related_uuids:
 - f75a0955-badc-5c1c-894f-410860377f39
 - caeee234-63d4-5e15-951d-0e83ac79930a
-legacy_weight: 4
-significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 President Zachary Hudson’s call for data deliveries has enhanced civilian surveillance within The Federation.
 His campaign received more data than a competing request from Shadow President Felicia Winters, Which aimed to offer ways of protecting communications against interception by the Proactive Detection Bureau.
 For both initiatives, pilots delivered anomalous bulk scan data, exceptional scrambled emission data, specialised legacy firmware and unusual encrypted files.

@@ -4,20 +4,19 @@ title: 'Progress Between Federation and Yuri Grom '
 slug: progress_between_federation_and_yuri_grom
 date: '3307-09-24'
 source: API
-groups:
-- Federation
-- EG Union
+summary: Negotiations between the Federation and Yuri Grom in Delta Pavonis show unexpected mutual respect, with a potential deal for trade ties while maintaining independence.
+player_impact: None
 persons:
 - Yuri Grom
 - Delphine Dumont
 - Conrad Sterling
+groups:
+- Federation
+- EG Union
 topics:
 - diplomacy
 - independence
 arc_id: federal-politics
-summary: Negotiations between the Federation and Yuri Grom in Delta Pavonis show unexpected
-  mutual respect, with a potential deal for trade ties while maintaining independence.
-player_impact: None
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 2
 significance: low

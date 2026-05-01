@@ -4,7 +4,12 @@ title: Empire Continues ‘Protective Sanctuary’ for Abductees
 slug: empire_continues_protective_sanctuary_for_abductees
 date: '3310-01-04'
 source: API
-entities: []
+summary: Emperor Arissa Lavigny-Duval orders indefinite quarantine for all Imperial citizens recovered from Thargoid Titans, rejecting Princess Aisling's plea to lift the restriction and dismissing Kamadhenu Medipure's call for euthanasia.
+player_impact: Not specifically mentioned — this is an Imperial policy announcement.
+persons:
+- Arissa Lavigny-Duval
+- Cassia Carvalho
+- Aisling Duval
 groups: []
 locations:
 - Imperial Palace
@@ -13,14 +18,9 @@ topics:
 - medicine
 - succession
 - politics
+entities: []
 arc_id: null
-modern_impact: "The Emperor's justification — 'Protective sanctuary is being provided for tens of thousands of individuals, in order that billions are spared the prospect – however unlikely – of an alien influence taking root within the Empire' — frames the quarantine as a security measure. Carvalho's reporting on Aisling's failed audience — 'the Princess should focus her attention on her Aegis assignment' — reveals tension between the Emperor and her niece. The dismissal of Kamadhenu Medipure's 'robust proposals' for euthanasia shows the Empire's moral boundaries."
-persons:
-- Arissa Lavigny-Duval
-- Cassia Carvalho
-- Aisling Duval
-player_impact: "Not specifically mentioned — this is an Imperial policy announcement."
-summary: "Emperor Arissa Lavigny-Duval orders indefinite quarantine for all Imperial citizens recovered from Thargoid Titans, rejecting Princess Aisling's plea to lift the restriction and dismissing Kamadhenu Medipure's call for euthanasia."
+modern_impact: The Emperor's justification — 'Protective sanctuary is being provided for tens of thousands of individuals, in order that billions are spared the prospect – however unlikely – of an alien influence taking root within the Empire' — frames the quarantine as a security measure. Carvalho's reporting on Aisling's failed audience — 'the Princess should focus her attention on her Aegis assignment' — reveals tension between the Emperor and her niece. The dismissal of Kamadhenu Medipure's 'robust proposals' for euthanasia shows the Empire's moral boundaries.
 legacy_weight: 4
 significance: high
 ---

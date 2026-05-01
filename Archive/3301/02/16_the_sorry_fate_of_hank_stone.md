@@ -14,9 +14,6 @@ legacy_weight: 1
 significance: low
 ---
 
-The Sorry Fate of Hank Stone
-
-
 Residents of Toolfa Large were left in shock This weekend after local security services Found a small fortune in raw gold sitting aboard what they presumed to be an abandoned Sidewinder in One of The station’s lower hangers. The ship’s records indicate that Its owner, a Mr Hank Stone, had spent the last month alone in the LAWD 26 system, where he had Found a previously untapped source of precious metals. 
 
 After a brief investigation it was discovered that a Mr Hank Stone, of no fixed abode, has been found dead in his bunk at Toolfa Large Short Stay Inn Several days beforehand.  

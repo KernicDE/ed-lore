@@ -4,7 +4,12 @@ title: Presidential Candidates Outline Manifestos
 slug: presidential_candidates_outline_manifestos
 date: '3309-07-17'
 source: API
-entities: []
+summary: The three Federal presidential candidates outline their manifestos in a second debate, with Archer prioritizing security, Winters advocating corporate taxation, and Rackham offering populist slogans.
+player_impact: Not specifically mentioned — this is a political report.
+persons:
+- Jerome Archer
+- Felicia Winters
+- Zachary Rackham
 groups:
 - Federal Navy
 locations: []
@@ -12,14 +17,9 @@ topics:
 - humanitarian
 - war
 - politics
+entities: []
 arc_id: null
-modern_impact: "Archer's boast about the PDB — 'which prove I am a man of my word' — is chilling given its surveillance implications. Winters's counter — 'Mr Archer's obsession with police-state programmes can only push the Federation further toward an authoritarian dystopia' — is prescient. Rackham's dismissal — 'Is anyone else as bored of these two windbags as I am?' — is classic populist theater. The election delay due to refugee re-registration is a significant procedural detail."
-persons:
-- Jerome Archer
-- Felicia Winters
-- Zachary Rackham
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "The three Federal presidential candidates outline their manifestos in a second debate, with Archer prioritizing security, Winters advocating corporate taxation, and Rackham offering populist slogans."
+modern_impact: Archer's boast about the PDB — 'which prove I am a man of my word' — is chilling given its surveillance implications. Winters's counter — 'Mr Archer's obsession with police-state programmes can only push the Federation further toward an authoritarian dystopia' — is prescient. Rackham's dismissal — 'Is anyone else as bored of these two windbags as I am?' — is classic populist theater. The election delay due to refugee re-registration is a significant procedural detail.
 legacy_weight: 5
 significance: high
 related_uuids:

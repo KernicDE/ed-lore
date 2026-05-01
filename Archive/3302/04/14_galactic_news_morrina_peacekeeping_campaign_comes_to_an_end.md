@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Morrina Peacekeeping Campaign Comes to an End
-
-
 The Morrina Pro-Alliance Party has announced that Its campaign to clear the Morrina system of agitators was a success. Hundreds of combat pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. A spokesperson for the Morrina Pro-Alliance Party released a brief statement: 
 
 "We are hugely grateful to all those who contributed to This campaign. Your efforts have brought a measure of stability to Morrina, allowing us to move towards a better, more peaceful future." 

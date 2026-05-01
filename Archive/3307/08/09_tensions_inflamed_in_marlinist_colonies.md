@@ -4,27 +4,23 @@ title: Tensions Inflamed in Marlinist Colonies
 slug: tensions_inflamed_in_marlinist_colonies
 date: '3307-08-09'
 source: API
-groups:
-- Alliance
-- Imperial Senate
-- Marlinist
-- NMLA
+summary: Political rifts and public protests erupt across the Marlinist Colonies following NMLA starport bombings, with Parliament descending into heated accusations between ministers.
+player_impact: Pilots continued evacuation and humanitarian aid efforts in the colony systems.
 persons:
 - Jenna Fairfax
 - Aaron Whyte
 - Octavia Volkov
 - Amrita Ross
 - Kayode Tau
+groups:
+- Alliance
+- Imperial Senate
+- Marlinist
+- NMLA
 topics:
 - terrorism
 arc_id: nmla-terrorism
-summary: Political rifts and public protests erupt across the Marlinist Colonies following
-  NMLA starport bombings, with Parliament descending into heated accusations between
-  ministers.
-player_impact: Pilots continued evacuation and humanitarian aid efforts in the colony
-  systems.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---

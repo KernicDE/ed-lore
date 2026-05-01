@@ -45,9 +45,6 @@ related_uuids:
 - a5898a31-6034-573a-9534-7e6f59052202
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Disgraced politician Juanita Bishop has called for a forthcoming book about The Far God sect to be banned. In a statement, Bishop described the book’s authors as alien sympathisers, and accused them of creating pro-Thargoid propaganda. Gethin Okonkwo, One of the book’s writers, suggested that Bishop’s desire to halt publication was an attempt to prevent a criminal investigation into her own activities. 

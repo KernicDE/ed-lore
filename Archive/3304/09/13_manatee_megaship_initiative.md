@@ -24,9 +24,6 @@ related_uuids:
 - 01d52c81-19d8-57db-8338-9343341748c1
 ---
 
-Manatee Megaship Initiative
-
-
 The Libertas Cooperative has announced plans to construct a manatee farm on behalf of food supplier Munshin Manatee Meat. This will take the form of a megaship, where the creatures will be bred, processed and prepared for distribution. 
 
 Progenitor Selena Conley of the Libertas Cooperative issued The following statement: 

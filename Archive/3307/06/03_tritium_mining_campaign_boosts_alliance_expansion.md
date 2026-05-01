@@ -4,7 +4,8 @@ title: Tritium Mining Campaign Boosts Alliance Expansion
 slug: tritium_mining_campaign_boosts_alliance_expansion
 date: '3307-06-03'
 source: API
-arc_id: alliance-expansion
+summary: Prime Minister Mahon's tritium mining campaign concludes successfully. New Alliance starports will be constructed in the LHS 2522 and Sharru Sector FW-W c1-19 systems by June 25th. Pilots who contributed can collect rewards from Dublin Citadel.
+player_impact: Pilots mined and delivered tritium to Dublin Citadel in the Gateway system, enabling new Alliance starport construction.
 persons:
 - Edmund Mahon
 groups:
@@ -17,24 +18,23 @@ locations:
 - Sharru Sector FW-W c1-19
 - Brett High
 - Tionisla
+topics:
+- corporate expansion
 technologies:
 - Tritium
 - Ceramic composites
 - Polymers
 - Superconductors
-topics:
-- corporate expansion
-player_impact: Pilots mined and delivered tritium to Dublin Citadel in the Gateway system, enabling new Alliance starport construction.
-summary: Prime Minister Mahon's tritium mining campaign concludes successfully. New Alliance starports will be constructed in the LHS 2522 and Sharru Sector FW-W c1-19 systems by June 25th. Pilots who contributed can collect rewards from Dublin Citadel.
+arc_id: alliance-expansion
 modern_impact: The successful expansion programme strengthens Alliance infrastructure but later becomes controversial when Councillor Kaine reveals potential Sirius Corporation involvement in making up delivery shortfalls.
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 931d72fb-9b88-566c-a2c3-8b536ea52a59
 - 1d6aa54e-b31a-593f-8bd3-a53d17cda13a
-legacy_weight: 3
-significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Prime Minister Edmund Mahon’s request for mined tritium has concluded, paving The way for new Alliance starports.
 Large quantities of tritium were delivered, Which will provide fuel for a civil infrastructure programme designed to increase the Alliance’s presence. 
 As part of This expansion, new Alliance starports will be constructed in these systems by the 25th of June 3307:

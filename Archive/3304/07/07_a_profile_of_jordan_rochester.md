@@ -36,9 +36,6 @@ related_uuids:
 - e66042d5-f19b-5b3d-8113-f2c32d2e4c51
 ---
 
-A Profile of Jordan Rochester
-
-
 Responding to public interest in Princess Aisling Duval’s fiancé, Federal Ambassador Jordan Rochester, political journalist Cassia Carvalho has compiled a profile for The Imperial Herald: 
 
 “Jordan Rochester is now a household name throughout the Empire, though few were aware of him prior to his engagement to Princess Duval. But in the Federation, the Rochesters have been associated With success for over two hundred years.” 

@@ -4,34 +4,28 @@ title: Terrorist Hit Squad Targets Hadrian Duval
 slug: terrorist_hit_squad_targets_hadrian_duval
 date: '3306-10-27'
 source: GitHub
-groups:
-- Nova Imperium
-- NMLA
+summary: NMLA assassins attack Imperator Hadrian Duval at Dyson City in Paresa, severely wounding him. Three killed, four injured. The NMLA claims responsibility, vowing to "sever every head of the Duval hydra."
+player_impact: None
 persons:
 - Hadrian Duval
 - Leo Magnus
 - Hector Jansen
 - Hengist Duval
+groups:
+- Nova Imperium
+- NMLA
 locations:
 - Paresa
 topics:
 - terrorism
 - succession
-summary: NMLA assassins attack Imperator Hadrian Duval at Dyson City in Paresa, severely
-  wounding him. Three killed, four injured. The NMLA claims responsibility, vowing to
-  "sever every head of the Duval hydra."
-player_impact: None
-modern_impact: The assassination attempt on Hadrian Duval by NMLA terrorists escalates
-  the conflict between republican extremists and Imperial traditionalists.
+modern_impact: The assassination attempt on Hadrian Duval by NMLA terrorists escalates the conflict between republican extremists and Imperial traditionalists.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 7ce9b237-f40e-53f1-b0e7-84eb59eb3647
 - 82f4bc2c-cac8-5b5a-8691-1dd634d3fc82
 ---
-
-Terrorist Hit Squad Targets Hadrian Duval
-
 
 Imperator Hadrian Augustus Duval has been severely wounded in an assassination attempt by Neo-Marlinist extremists. 
 

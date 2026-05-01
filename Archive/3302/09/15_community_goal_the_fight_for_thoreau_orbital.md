@@ -13,17 +13,14 @@ groups:
 locations:
 - Thoreau Orbital
 - Obotrima
-technologies:
-- skimmers
 topics:
 - construction
+technologies:
+- skimmers
 modern_impact: The fight for Thoreau Orbital demonstrates the vulnerability of strategic manufacturing facilities to asymmetric warfare and superpower proxy conflicts.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: The Fight for Thoreau Orbital
-
 
 Federal intelligence operatives have uncovered an Imperial plot to destabilise the Thoreau Orbital outpost in Obotrima. The starport is a major manufacturing centre for autonomous defence drones, more commonly known as skimmers. 
 

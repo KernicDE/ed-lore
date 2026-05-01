@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: Commander Claims Sovereignty over Sagittarius A*
-
-
 Unusual news has emerged from The galactic centre, where an Independent pilot has declared herself 'Queen of Sagittarius A*'. 
 
 Commander Lysianassa, the self-proclaimed monarch, made the 26,000 light year journey In a fully armed Federal Corvette With heavy bulkheads and prismatic shields. Most explorers Travelling to the centre of the galaxy are lightly armed, if at all. 

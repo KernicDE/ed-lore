@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Protect Traders in LHS 3447
-
-
 The campaign to construct a new starport in the LHS 3447 system has been eagerly received by the galactic community, but recent reports indicate that the traders delivering metals for use in the construction project are being targeted by marauders. To protect these pilots, the Pilots Federation, in association With LHS 3447 Dynamic and Co, has placed a kill order on all wanted ships operating in the system. A spokesperson for the Pilots Federation issued a brief statement: 
 
 "We will not tolerate any harassment of those who have chosen to support This campaign. We are therefore offering generous bounties on all wanted vessels Found disturbing the peace in LHS 3447." 

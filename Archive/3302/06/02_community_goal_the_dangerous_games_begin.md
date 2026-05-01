@@ -17,19 +17,16 @@ groups:
 - The Sovereign
 locations:
 - Pegasi Sector
-technologies: []
 topics:
 - diplomacy
 - piracy
 - sport
+technologies: []
 arc_id: kumo-crew-rise
 modern_impact: Highlights the humanitarian crisis in the Pegasi Sector.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: The Dangerous Games Begin
-
 
 The galaxy is home to countless factions, some boasting thousands of members and others comprising only a handful of individuals. Some exist to serve the galactic community, while others follow more antagonistic dogmas. For almost Every creed in human space, there is a corresponding faction. 
 

@@ -4,18 +4,18 @@ title: Megaship Movements Spark HIP 87621 Speculation
 slug: megaship_movements_spark_hip_87621_speculation
 date: '3311-10-23'
 source: API
+summary: Unusual megaship activity near HIP 87621 intensified rumours of covert superpower operations, with Vox Galactica's Conrad Sterling noting such mobilisations typically precede territorial claims.
+player_impact: Pilots reported receiving private messages from their pledged Power representatives indicating each superpower had a vested interest in HIP 87621.
+persons:
+- Conrad Sterling
 locations:
 - HIP 87621
 topics:
 - war
 - diplomacy
-arc_id: hip87621-conflict
-persons:
-- Conrad Sterling
 technologies: []
-player_impact: "Pilots reported receiving private messages from their pledged Power representatives indicating each superpower had a vested interest in HIP 87621."
-summary: "Unusual megaship activity near HIP 87621 intensified rumours of covert superpower operations, with Vox Galactica's Conrad Sterling noting such mobilisations typically precede territorial claims."
-modern_impact: "Conrad Sterling's observation proves accurate — within five days, Brewer Corporation confirms a massive construction campaign for the enclave. The private Power messages to pilots show superpowers were preparing for open conflict while maintaining public deniability, a pattern that continues until the October Accords finally make agreements public."
+arc_id: hip87621-conflict
+modern_impact: Conrad Sterling's observation proves accurate — within five days, Brewer Corporation confirms a massive construction campaign for the enclave. The private Power messages to pilots show superpowers were preparing for open conflict while maintaining public deniability, a pattern that continues until the October Accords finally make agreements public.
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -14,22 +14,18 @@ locations:
 - Zagoro
 - Axon Station
 - HIP 17225 A 1
+topics:
+- ship
+- war
 technologies:
 - meta-alloys
 - Unknown Artefacts
 - Unknown Probes
-topics:
-- ship
-- war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
 ---
-
-Community Goal: Empire Appeals for Meta-Alloys
-
 
 As the galaxy becomes increasingly focused on The meta-alloys, the Empire has issued a galaxy-wide request for the controversial material. A spokesperson for the Zagoro Imperial Society, Which is coordinating the appeal, released The following statement: 
 

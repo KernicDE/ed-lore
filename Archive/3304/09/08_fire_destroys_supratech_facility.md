@@ -24,9 +24,6 @@ related_uuids:
 - a8ef52ae-0f17-58b6-97bd-b4bcf29500b3
 ---
 
-Fire Destroys Supratech Facility
-
-
 A manufacturing complex owned by computer company Supratech has been destroyed by fire. 
 
 All on-site personnel managed to escape The blaze without injury. Emergency crews were soon in attendance, but were unable to prevent the fire from swiftly consuming the facility. 

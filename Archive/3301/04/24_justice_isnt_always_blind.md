@@ -14,9 +14,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Justice Isn’t Always Blind
-
-
 Just when it looked like The trail was turning cold, a new clue has been uncovered in The investigation into the attack on the Emperor.  
 
 According to forensic accountants working on behalf of Princess Lavigny-Duval, the evidence suggests that rogue members of Silver Allied Network channelled funds for the attack through Silver Universal Plc. The credits were then sent to an account in the HR 706 system.  

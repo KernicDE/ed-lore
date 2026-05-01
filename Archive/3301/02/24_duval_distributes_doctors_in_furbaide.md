@@ -15,9 +15,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Duval Distributes Doctors in Furbaide
-
-
 Aisling Duval made her presence felt in Furbaide today, as she arrived at Effinger Port to offer assistance to overworked medical staff currently caught in The struggle against The virulent and deadly Volungu Blight. Along With her usual entourage, the Diva Duval bought Dozens of Imperially trained doctors and nurses, all of whom will be offering their services for free to anyone afflicted by the Blight. 
 
 It is hoped that the biomedical expertise provided by the Imperial doctors will shed some light on the genetic makeup of the disease, whose aggressive transmission and resistance to known drug therapies has local medical staff completely stumped. 

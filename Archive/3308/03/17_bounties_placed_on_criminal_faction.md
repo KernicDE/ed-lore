@@ -4,21 +4,20 @@ title: Bounties Placed on Criminal Faction
 slug: bounties_placed_on_criminal_faction
 date: '3308-03-17'
 source: API
+summary: Federal authorities offer bounties for the destruction of a pirate gang in the Gliese 868 system.
+player_impact: Pilots were asked to hunt down a notorious pirate gang in the Gliese 868 system.
 groups:
 - Federal Security Service
 topics:
 - crime
 - festival
 - piracy
-summary: Federal authorities offer bounties for the destruction of a pirate gang in the Gliese 868 system.
-player_impact: Pilots were asked to hunt down a notorious pirate gang in the Gliese 868 system.
-modern_impact: "\"Federal authorities have requested help in hunting down a notorious pirate gang in the Gliese 868 system.\" The bounty campaign illustrates the ongoing reliance on independent pilots for routine law enforcement."
+modern_impact: '"Federal authorities have requested help in hunting down a notorious pirate gang in the Gliese 868 system." The bounty campaign illustrates the ongoing reliance on independent pilots for routine law enforcement.'
 legacy_weight: 1
 significance: low
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Federal authorities have requested help in hunting down a notorious pirate gang in The Gliese 868 system.
 The call to arms was broadcast by the faction Gliese 868 Services:
 “Recently, most Federal security services have been focused on dealing With political protests. This provided opportunities for criminals to cause havoc, by raiding trade convoys and committing piracy against ships throughout the region.”

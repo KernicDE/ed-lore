@@ -13,18 +13,15 @@ groups:
 locations:
 - Lave
 - Lave Station
-technologies: []
 topics:
 - corporate expansion
 - trade
 - war
+technologies: []
 modern_impact: Dr Cordelius Swainn's celebrity soirée in Lave attracts rare commodity trading and high-end culinary tourism.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Renowned Chef Issues Appeal
-
 
 Celebrated chef and culinary scholar Dr Cordelius Swainn has issued an appeal to The galactic community for rare goods for One of his famous celebrity soirées 
 

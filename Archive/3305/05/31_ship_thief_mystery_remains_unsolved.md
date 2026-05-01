@@ -4,6 +4,8 @@ title: Ship Thief Mystery Remains Unsolved
 slug: ship_thief_mystery_remains_unsolved
 date: '3305-05-31'
 source: GitHub
+summary: The investigation into Gan Romero is officially suspended with no leads, while ship owner Bjorn Lennox speculates that Romero may have been called to 'a place that most people can't understand.'
+player_impact: None — background investigation report.
 persons:
 - Gan Romero
 - Misaki Sanders
@@ -16,8 +18,6 @@ topics:
 - crime
 - investigation
 - exploration
-summary: The investigation into Gan Romero is officially suspended with no leads, while ship owner Bjorn Lennox speculates that Romero may have been called to 'a place that most people can't understand.'
-player_impact: None — background investigation report.
 modern_impact: The unresolved Romero mystery became a lasting enigma in galactic culture, inspiring conspiracy theories about telepathic alien contact and the existence of inaccessible regions of space.
 legacy_weight: 3
 significance: medium
@@ -27,9 +27,6 @@ related_uuids:
 - 21111d10-7f29-507d-8688-ebd68a0a7869
 - 7b7ef879-c22b-509a-9abc-a1c65d435b93
 ---
-
-Ship Thief Mystery Remains Unsolved
-
 
 The investigation into technician Gan Romero, who stole a docked Vessel from a hangar bay at Fort Dixon in the Vega system, has been officially Suspended. 
 

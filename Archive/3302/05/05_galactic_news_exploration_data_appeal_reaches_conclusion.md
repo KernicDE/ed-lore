@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Exploration Data Appeal Reaches Conclusion
-
-
 The office of Jasmina Halsey has announced that the former president's appeal for exploration data has reached a successful conclusion. Although Halsey's claims of transcendent experiences have been dismissed by much of the political elite, the wider galactic community was more receptive, With Hundreds of Independent pilots taking to their ships to gather exploration data for Halsey's appeal. 
 
 In the wake of the appeal's success, a member of Halsey's personal staff released a statement to the media: 

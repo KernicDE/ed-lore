@@ -25,9 +25,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Empire Troubled by Federal Campaign
-
-
 Last week, Federal President Zachary Hudson announced plans to construct a new Farragut Battle Cruiser in The Federal system of Beta Hydri. The production of the ship was designed to mark the inauguration of a new arm of the Federal Navy known As the People's Navy. One Federal source said the ship would "occupy a significant role in the Federal Navy, strengthening Our borders and enhancing the profile of our armed forces". 
 
 The Empire made no response to the announcement, but an anonymous source from the upper echelons of Imperial society has now revealed that Admiral Denton Patreus has expressed concern over the Federal initiative. In a message released to a number of media feeds, the anonymous source said: 

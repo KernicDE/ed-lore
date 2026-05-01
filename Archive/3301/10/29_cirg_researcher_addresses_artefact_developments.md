@@ -4,6 +4,8 @@ title: CIRG Researcher Addresses Artefact Developments
 slug: cirg_researcher_addresses_artefact_developments
 date: '3301-10-29'
 source: GitHub
+summary: Canonn researcher Commander RedWizzard revealed that Unknown Artefact (UA) Morse-transmission behavior is evolving, as if triggered remotely. UAs are spreading rapidly, forming a 'shell' around Merope at 135-150 light year distances, with estimates of tens of thousands of UAs in the region. RedWizzard welcomed Professor Palin's return to research and invited collaboration.
+player_impact: Pilots exploring near Merope should be aware of the massive increase in UA numbers. The 'shell' phenomenon suggests coordinated behavior, and further research is needed to understand the objects' purpose.
 persons:
 - Ishmael Palin
 - RedWizzard
@@ -12,20 +14,15 @@ groups:
 locations:
 - Merope
 - Varati
-technologies:
-- Unknown Artefacts
 topics:
 - research
+technologies:
+- Unknown Artefacts
 arc_id: unknown-artefacts
-summary: Canonn researcher Commander RedWizzard revealed that Unknown Artefact (UA) Morse-transmission behavior is evolving, as if triggered remotely. UAs are spreading rapidly, forming a 'shell' around Merope at 135-150 light year distances, with estimates of tens of thousands of UAs in the region. RedWizzard welcomed Professor Palin's return to research and invited collaboration.
-player_impact: Pilots exploring near Merope should be aware of the massive increase in UA numbers. The 'shell' phenomenon suggests coordinated behavior, and further research is needed to understand the objects' purpose.
 modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---
-
-CIRG Researcher Addresses Artefact Developments
-
 
 The Voice of Varati recently interviewed the lead researcher at the Canonn Interstellar Research Group, Commander RedWizzard: 
 

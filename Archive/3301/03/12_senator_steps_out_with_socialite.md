@@ -4,20 +4,17 @@ title: Senator Steps Out with Socialite
 slug: senator_steps_out_with_socialite
 date: '3301-03-12'
 source: GitHub
-entities:
-- Steps Out
 locations:
 - Capitol
 topics:
 - ship
 - succession
+entities:
+- Steps Out
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Senator Steps Out With Socialite
-
 
 Senator Patreus and Aisling Duval have been spotted together at a number of popular nightspots in Capitol This week, leading some social commentators to speculate that The two may have become romantically involved. 
 

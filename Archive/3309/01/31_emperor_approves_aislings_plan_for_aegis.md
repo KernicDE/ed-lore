@@ -4,7 +4,8 @@ title: Emperor Approves Aisling's Plan for Aegis
 slug: emperor_approves_aislings_plan_for_aegis
 date: '3309-01-31'
 source: API
-entities: []
+summary: Emperor Arissa Lavigny-Duval unexpectedly approves Princess Aisling Duval's plan to lead a limited Imperial contribution to a reformed Aegis.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Aisling Duval
 - Arissa Lavigny-Duval
@@ -27,10 +28,11 @@ topics:
 - diplomacy
 - research
 - succession
+entities: []
 arc_id: thargoid-titan-war
-player_impact: Not specifically mentioned — this is a political report.
-summary: Emperor Arissa Lavigny-Duval unexpectedly approves Princess Aisling Duval's plan to lead a limited Imperial contribution to a reformed Aegis.
-modern_impact: "\"The Emperor made it clear that her decree to isolate from the other superpowers remained active. However, if Aegis were to be re-established, a limited number of scientists and naval vessels would be allocated to the anti-xeno agency.\" This carefully calibrated compromise allowed the Emperor to maintain isolationist rhetoric while tacitly acknowledging the Thargoid threat's severity, effectively delegating political risk to Aisling."
+modern_impact: '"The Emperor made it clear that her decree to isolate from the other superpowers remained active. However, if Aegis were to be re-established, a limited number of scientists and naval vessels would be allocated to the anti-xeno agency." This carefully calibrated compromise allowed the Emperor to maintain isolationist rhetoric while tacitly acknowledging the Thargoid threat''s severity, effectively delegating political risk to Aisling.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - d83a7bd9-c7eb-528b-a464-28180c65e590
 - 70502ec6-81e6-5614-bdae-f03fcf03dd64
@@ -38,8 +40,6 @@ related_uuids:
 - 9baa5b63-76a6-59a5-b2f2-2b3abca36d3c
 - df6e411a-1cfc-5b1f-be65-3e9644b00824
 - 201a0a31-f461-5ded-a815-a7b9c289c352
-legacy_weight: 4
-significance: high
 ---
 
 Princess Aisling Duval met with Emperor Arissa Lavigny-Duval in person to discuss an Imperial contribution to the reformation of Aegis.

@@ -28,9 +28,6 @@ related_uuids:
 - 386cbd85-5543-5119-8766-37eb9cb4855c
 ---
 
-Kincaid Wins Election
-
-
 Gibson Kincaid has been announced As the winner of The Alliance presidential election. He will continue serving as president of the Alliance. 
 
 Kincaid obtained a small majority of the public vote, defeating Councillor Elijah Beck. Entrepreneur Fazia Silva, the third candidate in the race, was recently Found dead, and is the subject of an Interpol investigation. 

@@ -4,22 +4,22 @@ title: Grey Swan Fleet Destroyed in Shamash
 slug: grey_swan_fleet_destroyed_in_shamash
 date: '3309-11-01'
 source: API
+summary: The Grey Swan fleet in Shamash is destroyed after an anomalous signal triggered violent mania in crew members, with parallels drawn to the generation ship Thetis.
+player_impact: Pilots participated in eliminating the Grey Swan fleet. Payments available at Khonsu Gleam.
+persons:
+- Ulrich Maurer
+- Jaya Chaudhary
 groups: []
 topics:
 - research
 - mystery
 - crime
-modern_impact: "Chaudhary's comparison to Thetis — 'The horror which unfolded in Shamash bears strong similarities to the fate of the generation ship Thetis' — connects this to a 3303 mystery. The 'whispering' signal that compels violence is a recurring horror trope in Elite Dangerous lore. The unresolved questions — 'We do not know where the signal was transmitted, how it interacts with the human mind or whether we'll encounter it again' — leave a lingering threat."
-persons:
-- Ulrich Maurer
-- Jaya Chaudhary
-player_impact: "Pilots participated in eliminating the Grey Swan fleet. Payments available at Khonsu Gleam."
-summary: "The Grey Swan fleet in Shamash is destroyed after an anomalous signal triggered violent mania in crew members, with parallels drawn to the generation ship Thetis."
+modern_impact: Chaudhary's comparison to Thetis — 'The horror which unfolded in Shamash bears strong similarities to the fate of the generation ship Thetis' — connects this to a 3303 mystery. The 'whispering' signal that compels violence is a recurring horror trope in Elite Dangerous lore. The unresolved questions — 'We do not know where the signal was transmitted, how it interacts with the human mind or whether we'll encounter it again' — leave a lingering threat.
 legacy_weight: 1
 significance: low
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Crazed pilots that were killing civilians in the Shamash system have been eliminated.
 The local security force vessels participating in Fleet Exercise Grey Swan were exposed to an anomalous signal, which then circulated through the fleet’s networked comms. This apparently triggered a violent mania that caused them to attack passing traffic.
 Captain Ulrich Maurer of the megaship Khonsu Gleam announced that an operation to eliminate the threat had concluded:

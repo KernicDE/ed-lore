@@ -4,6 +4,8 @@ title: Project Seraph Victim Seeks Revenge
 slug: project_seraph_victim_seeks_revenge
 date: '3308-06-10'
 source: API
+summary: A survivor of Azimuth Biochemicals' Project Seraph, designated D-2, reveals the location of an INRA base and confirms Salvation's identity as Dr Caleb Wycherley. Professor Alba Tesreau publishes the survivor's testimony about horrific human-Thargoid interface experiments at Oaken Point.
+player_impact: Not specifically mentioned — this is an investigative report.
 persons:
 - Alba Tesreau
 - Caleb Wycherley
@@ -24,13 +26,11 @@ topics:
 technologies:
 - cortical implant
 arc_id: salvation-azimuth
-summary: A survivor of Azimuth Biochemicals' Project Seraph, designated D-2, reveals the location of an INRA base and confirms Salvation's identity as Dr Caleb Wycherley. Professor Alba Tesreau publishes the survivor's testimony about horrific human-Thargoid interface experiments at Oaken Point.
-player_impact: Not specifically mentioned — this is an investigative report.
 modern_impact: D-2's testimony provided the first eyewitness account of Project Seraph's atrocities, establishing the human cost of Azimuth's research and directly linking Salvation to unauthorised xenological experimentation on living subjects.
-related_uuids:
-- 6a3fd658-33a2-5409-8ade-90b666edefc5
 legacy_weight: 5
 significance: high
+related_uuids:
+- 6a3fd658-33a2-5409-8ade-90b666edefc5
 ---
 
 The location of an INRA base in the DG Canum Venaticorum system was revealed by a survivor of the notorious Project Seraph.

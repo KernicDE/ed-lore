@@ -27,8 +27,6 @@ related_uuids:
 - 07d2bfe5-82af-5a3d-9099-a481b1198af1
 - d7ee12d3-53dc-5c8b-80f0-0309a7f56575
 ---
-Aisling Duval Announces Marriage to Federal Ambassador
-
 
 Princess Aisling Duval has made an unexpected announcement regarding her relationship With Federal Ambassador Jordan Rochester.  
 

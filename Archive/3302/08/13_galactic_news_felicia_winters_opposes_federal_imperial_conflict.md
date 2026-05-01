@@ -14,17 +14,14 @@ groups: []
 locations:
 - Mars
 - Sol
-technologies: []
 topics:
 - war
+technologies: []
 arc_id: federal-politics
 modern_impact: Winters' public opposition to Federal-Imperial conflict highlights internal Federal political divisions and early diplomatic efforts to prevent superpower war.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Felicia Winters Opposes Federal-Imperial Conflict
-
 
 At a rally on Mars in The Sol system, Federal Shadow President Felicia Winters has addressed the escalating tension between the Federation and the Empire. 
 

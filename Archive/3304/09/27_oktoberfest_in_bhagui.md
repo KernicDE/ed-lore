@@ -22,9 +22,6 @@ related_uuids:
 - cb43ac64-4aa0-5364-afed-ce8b91a31052
 ---
 
-Oktoberfest in Bhagui
-
-
 Citizens of The Bhagui system are attempting to resurrect the ancient Oktoberfest celebration, an annual event based on a centuries-old Earth tradition.  
 
 The scale of the event is unprecedented, and local suppliers are reeling due to the weight of demand. Consequently, Mould Federal Mining Incorporated has volunteered to finance an emergency initiative that will supply the required resources. 

@@ -4,6 +4,8 @@ title: Aegis Forms Partnership with Ram Tah
 slug: aegis_forms_partnership_with_ram_tah
 date: '3305-04-17'
 source: GitHub
+summary: Aegis enters a partnership with engineer Ram Tah to manufacture Guardian-related technology on a larger scale, while confirming that technology brokers will remain licensed distributors of the XG fighter series.
+player_impact: Pilots continued to access Guardian modules through technology brokers, with Aegis resources potentially expanding future availability.
 persons:
 - Lilith Galloway
 - Ram Tah
@@ -13,15 +15,10 @@ topics:
 - engineering
 - xenoarchaeology
 arc_id: guardian-ancients
-summary: Aegis enters a partnership with engineer Ram Tah to manufacture Guardian-related technology on a larger scale, while confirming that technology brokers will remain licensed distributors of the XG fighter series.
-player_impact: Pilots continued to access Guardian modules through technology brokers, with Aegis resources potentially expanding future availability.
 modern_impact: The Aegis-Ram Tah partnership institutionalised Guardian technology research within humanity's primary anti-xeno organisation, ensuring sustained development of hybrid weaponry.
 legacy_weight: 4
 significance: high
 ---
-
-Aegis Forms Partnership With Ram Tah
-
 
 Aegis has entered into a partnership With the engineer Ram Tah to manufacture Guardian-related technology. 
 

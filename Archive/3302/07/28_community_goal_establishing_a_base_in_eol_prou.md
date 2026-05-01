@@ -12,22 +12,18 @@ groups:
 locations:
 - Eol Prou RS-T d3-94
 - Jaques Station
-technologies:
-- osmium
 topics:
 - construction
 - exploration
 - trade
 - war
+technologies:
+- osmium
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: Establishing a Base in Eol Prou
-
 
 The 80 DD-D 774-CE-2 faction has launched a campaign to establish a planetary outpost in the Eol Prou RS-T d3-94 system. According to the organisation's spokesperson, the primary purpose of the new outpost will be to support Independent trade and exploration in the region. 
 

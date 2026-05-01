@@ -12,18 +12,14 @@ groups:
 locations:
 - Colonia
 - Eol Prou
-technologies: []
 topics:
 - corporate expansion
+technologies: []
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Colonia Resource Drive
-
 
 It has now been eight months since The first Colonia outpost was established, and Since then the colony has gone from strength to strength. 
 

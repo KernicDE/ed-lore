@@ -25,9 +25,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Community Goal: Rogue Runners Appeal
-
-
 The Rogue Runners, an Independent group based in the Run system, have announced plans to restore and expand Leif Enterprise, an asteroid base in their home system. The organisation has expressed hope that the renovated base will become a manufacturing centre for high-end ships and modules. 
 
 Autumn Leif, the founder of Rogue Runners Co., released The following statement: 

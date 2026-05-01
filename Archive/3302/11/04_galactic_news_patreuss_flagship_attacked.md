@@ -4,10 +4,7 @@ title: Galactic News  Patreus's Flagship Attacked
 slug: galactic_news_patreuss_flagship_attacked
 date: '3302-11-04'
 source: GitHub
-summary: An attack on Admiral Denton Patreus' flagship, the INV Imperial Freedom, took
-  place in the Eotienses system. The Children of Raxxla claimed responsibility, stating
-  the attack was a response to the guilty verdict passed on Kahina Loren, whom they referred
-  to as Salomé.
+summary: An attack on Admiral Denton Patreus' flagship, the INV Imperial Freedom, took place in the Eotienses system. The Children of Raxxla claimed responsibility, stating the attack was a response to the guilty verdict passed on Kahina Loren, whom they referred to as Salomé.
 player_impact: None
 persons:
 - Admiral Denton Patreus
@@ -22,18 +19,13 @@ topics:
 - ship
 - terrorism
 - war
-arc_id: raxxla-mystery
-modern_impact: The attack on Patreus's flagship by the Children of Raxxla exposed the
-  vulnerability of Imperial battleships to organized independent forces and escalated tensions
-  surrounding Kahina Loren's conviction.
-legacy_weight: 2
-significance: low
 technologies:
 - Majestic-class Interdictor
+arc_id: raxxla-mystery
+modern_impact: The attack on Patreus's flagship by the Children of Raxxla exposed the vulnerability of Imperial battleships to organized independent forces and escalated tensions surrounding Kahina Loren's conviction.
+legacy_weight: 2
+significance: low
 ---
-
-Galactic News: Patreus's Flagship Attacked
-
 
 Eyewitness reports from The Eotienses system indicate that an attack has taken place on Admiral Denton Patreus' flagship, the INV Imperial Freedom. The Majestic-class Interdictor was heavily damaged in the altercation and was ignominiously forced to withdraw from the field of combat. 
 

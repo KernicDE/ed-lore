@@ -24,9 +24,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Ram Tah Announces New Discoveries
-
-
 The engineer Ram Tah has revealed that his recent request for pilots to investigate possible Guardian sites has yielded significant discoveries. He has released This statement: 
 
 “Thanks to Many courageous Commanders, we have Found Several new Guardian sites and recovered a great deal of data. As I theorised, the ruins are not as dead as they seem, since some are actively defended by ancient Guardian drones.” 

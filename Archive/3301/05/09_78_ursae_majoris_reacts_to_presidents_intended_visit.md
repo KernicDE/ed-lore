@@ -4,24 +4,20 @@ title: 78 Ursae Majoris Reacts to President’s Intended Visit
 slug: 78_ursae_majoris_reacts_to_presidents_intended_visit
 date: '3301-05-09'
 source: GitHub
-entities:
-- Halsey will soon be visiting
-- Halsey wishes
 locations:
 - 78 Ursae Majoris
 - Alioth
 - Lugh
 topics:
 - war
+entities:
+- Halsey will soon be visiting
+- Halsey wishes
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-78 Ursae Majoris Reacts to President’s Intended Visit
-
 
 Following The rather strange announcement that President Halsey will soon be visiting The ex-Federal system of 78 Ursae Majoris, GalNet reached out to local leaders and residents to get their thoughts. 
 

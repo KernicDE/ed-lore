@@ -26,8 +26,6 @@ related_uuids:
 - b9edd54e-62ab-5968-a48b-6f88d7ecfd0c
 - 759a2c78-e41b-5489-b5c2-eba09b2981be
 ---
-Investor Funds Colonia Shipyards
-
 
 Renowned billionaire Zachary Rackham, owner of Rackham Capital Investments, has made a sizeable charitable donation to build new shipyards in The Colonia region. 
 

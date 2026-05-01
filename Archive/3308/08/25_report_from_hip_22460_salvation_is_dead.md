@@ -4,6 +4,8 @@ title: 'Report from HIP 22460: Salvation is Dead'
 slug: report_from_hip_22460_salvation_is_dead
 date: '3308-08-25'
 source: API
+summary: An independent rescue team confirms that Salvation, identified as Dr Caleb Wycherley, was killed aboard the Bright Sentinel in HIP 22460, found dead in his command chair surrounded by shattered cybernetic implants.
+player_impact: Not specifically mentioned — this is an investigative report.
 persons:
 - Caleb Wycherley
 - Morag Halloran
@@ -20,13 +22,11 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-summary: An independent rescue team confirms that Salvation, identified as Dr Caleb Wycherley, was killed aboard the Bright Sentinel in HIP 22460, found dead in his command chair surrounded by shattered cybernetic implants.
-player_impact: Not specifically mentioned — this is an investigative report.
 modern_impact: The confirmation of Salvation's death ended the era of the anonymous saviour, reducing Azimuth's figurehead to a broken old man whose cybernetic enhancements had failed to save him from his own weapon's catastrophic backfire.
-related_uuids:
-- 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
 legacy_weight: 5
 significance: high
+related_uuids:
+- 5a0b8f5d-4c3e-7d2b-1a8f-5a0b8f5d4c3e
 ---
 
 It has been confirmed that Salvation, figurehead of Azimuth Biotech and creator of the Proteus Wave, was killed on board the Bright Sentinel.

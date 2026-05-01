@@ -4,6 +4,8 @@ title: Memorial in the Heavens
 slug: memorial_in_the_heavens
 date: '3301-09-06'
 source: GitHub
+summary: Commander Sataris of the East India Company was honored when an anonymous benefactor purchased naming rights for a planet in the BD+26 2184 system, rechristening it 'Kathy McBrayer' after his late mother. Universal Cartographics chairwoman Cynthia Sideris read a statement praising Sataris's service. The planet name change was to be finalized in coming weeks.
+player_impact: Pilots are invited to visit the memorial planet Kathy McBrayer in BD+26 2184. The event demonstrates how Universal Cartographics naming rights can be used for personal memorials.
 persons:
 - Corrigendum
 - Sataris
@@ -20,18 +22,11 @@ locations:
 - BD+26 2184
 topics:
 - memorial
-summary: Commander Sataris of the East India Company was honored when an anonymous benefactor purchased naming rights for a planet in the BD+26 2184 system, rechristening it 'Kathy McBrayer' after his late mother. Universal Cartographics chairwoman Cynthia Sideris read a statement praising Sataris's service. The planet name change was to be finalized in coming weeks.
-player_impact: Pilots are invited to visit the memorial planet Kathy McBrayer in BD+26 2184. The event demonstrates how Universal Cartographics naming rights can be used for personal memorials.
 modern_impact: Community-driven memorial demonstrating the personal connections pilots form with the galaxy through exploration.
 legacy_weight: 2
 significance: low
 ---
 
-Memorial in The Heavens
-
-
-Memorial in The Heavens 
- 
 Commander Sataris, a member of the East India Company, was recently honoured by an anonymous benefactor. To commemorate his mother’s recent passing, the rights to register a planet in her name were purchased from Universal Cartography. 
 
 Cynthia Sideris, chairwoman of Universal Cartography, read a statement from the anonymous benefactor: 

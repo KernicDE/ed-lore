@@ -4,7 +4,8 @@ title: 'Tritium Mining Marks Alliance Election Day '
 slug: tritium_mining_marks_alliance_election_day
 date: '3307-05-27'
 source: API
-arc_id: alliance-expansion
+summary: On Alliance election day, Prime Minister Mahon launches a tritium mining initiative to fuel construction of up to five new Alliance starports. The initiative follows his successful industrial materials drive. Opinion polls predict Mahon will comfortably win re-election.
+player_impact: Pilots mined and delivered tritium to Dublin Citadel in the Gateway system to support Alliance expansion.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -17,6 +18,8 @@ locations:
 - Dublin Citadel
 - Tionisla
 - Brett High
+topics:
+- corporate expansion
 technologies:
 - Tritium
 - Ceramic composites
@@ -24,20 +27,17 @@ technologies:
 - Superconductors
 - Copper
 - Micro-controllers
-topics:
-- corporate expansion
-player_impact: Pilots mined and delivered tritium to Dublin Citadel in the Gateway system to support Alliance expansion.
-summary: On Alliance election day, Prime Minister Mahon launches a tritium mining initiative to fuel construction of up to five new Alliance starports. The initiative follows his successful industrial materials drive. Opinion polls predict Mahon will comfortably win re-election.
+arc_id: alliance-expansion
 modern_impact: Mahon's expansion programme, funded by pilot contributions and Sirius Corporation donations, extends Alliance infrastructure but also raises questions about undisclosed corporate partnerships.
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 5cd90cb7-e73b-553f-bdcf-cb7b311cc0df
 - 09b011a1-77a8-5a75-a0c4-c60509f2f440
 - 1d6aa54e-b31a-593f-8bd3-a53d17cda13a
-legacy_weight: 3
-significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 As the Assembly votes for Its new leader, Prime Minister Edmund Mahon has requested mined tritium to aid expansion.
 The new initiative follows on from his successful drive for industrial materials, Which resulted in large amounts of ceramic composites, polymers and superconductors. Pilots who contributed to This can now collect their rewards from Dublin Citadel in the Gateway system.
 A competing community drive by Councillor Nakato Kaine, Mahon’s main rival in the election, brought deliveries of copper, micro-controllers and polymers.

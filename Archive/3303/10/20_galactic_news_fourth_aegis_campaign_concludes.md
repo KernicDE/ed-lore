@@ -13,23 +13,19 @@ groups:
 locations:
 - Khun
 - Cremona Prospect
-technologies:
-- shutdown-field neutraliser
 topics:
 - alien contact
 - engineering
 - ship
 - trade
 - war
+technologies:
+- shutdown-field neutraliser
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Fourth Aegis Campaign Concludes
-
 
 The fourth phase of Aegis’ campaign to counter the Thargoid threat has come to an end. Hundreds of Independent pilots supported the initiative by taking to their ships to deliver commodities to Cremona Prospect. The materials will be used to test and mass-produce a shutdown-field neutraliser, developed by engineer Elvira Martuuk, Which will counter the Thargoids’ ability to disable human spacecraft. 
 

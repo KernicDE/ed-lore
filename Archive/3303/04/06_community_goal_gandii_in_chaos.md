@@ -12,18 +12,15 @@ groups:
 - Gandii Justice Party
 locations:
 - Gandii
-technologies: []
 topics:
 - piracy
 - trade
 - war
+technologies: []
 modern_impact: Anti-piracy conflict in Gandii between the Hand Gang and Gandii Justice Party highlights ongoing piracy threats tied to Archon Delaine's network.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Gandii in Chaos
-
 
 Recent reports from The Gandii system indicate that conflict has erupted between the Hand Gang of Gandii, an organisation closely Allied With self-styled 'pirate king' Archon Delaine, and the Gandii Justice Party. 
 

@@ -4,7 +4,8 @@ title: The Coming of Taranis
 slug: the_coming_of_taranis
 date: '3308-11-21'
 source: API
-arc_id: null
+summary: As the rogue signal sources draw closer to human-occupied space, work is underway to initiate peaceful inter-species negotiations.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Elias Pope
 - Luria
@@ -15,21 +16,16 @@ topics:
 - alien contact
 - diplomacy
 - research
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: As the rogue signal sources draw closer to human-occupied space, work is
-  underway to initiate peaceful inter-species negotiations.
-modern_impact: '"Like most of the Kingfisher’s crew, I volunteered to take part in
-  this operation. It feels like my whole professional..." Taranis heralded a new phase
-  of total war that humanity was ill-prepared to resist.'
+arc_id: null
+modern_impact: '"Like most of the Kingfisher’s crew, I volunteered to take part in this operation. It feels like my whole professional..." Taranis heralded a new phase of total war that humanity was ill-prepared to resist.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - d8b14f7a-0b22-5f2d-a164-45b74638e864
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 - 1bc4f61f-b1a2-5e7a-ba56-41659e56ebcb
 - 1791622e-98ed-5b34-a3e3-34ef90719997
 - f052748e-b6ee-52c8-9657-75e06d0e3612
-legacy_weight: 4
-significance: high
 ---
 
 As the rogue signal sources draw closer to human-occupied space, work is underway to initiate peaceful inter-species negotiations.

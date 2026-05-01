@@ -4,6 +4,8 @@ title: Vitadyne Campaign Ends
 slug: vitadyne_campaign_ends
 date: '3305-01-31'
 source: GitHub
+summary: Vitadyne Labs concludes its competitive bidding campaign, with both Neomedical Industries and the Vandermeer Corporation having received sufficient materials to bid for the nanomedicine distribution licence.
+player_impact: Contributing pilots could collect rewards from Piserchia Port in Alignak or Elion Dock in Kuma.
 persons:
 - Katrien Rook
 groups:
@@ -17,17 +19,12 @@ topics:
 - corporate expansion
 - medicine
 - trade
-summary: Vitadyne Labs concludes its competitive bidding campaign, with both Neomedical Industries and the Vandermeer Corporation having received sufficient materials to bid for the nanomedicine distribution licence.
-player_impact: Contributing pilots could collect rewards from Piserchia Port in Alignak or Elion Dock in Kuma.
 modern_impact: The campaign's conclusion set the stage for Vitadyne's commercial rollout of nanomedicines, though the winning bidder and subsequent distribution terms remained pending Professor Rook's evaluation.
 legacy_weight: 2
 significance: low
 related_uuids:
 - a6e98d43-9ed5-523d-b026-225bd6d2a41a
 ---
-
-Vitadyne Campaign Ends
-
 
 An initiative from Vitadyne Labs to award a distribution licence to a pharmaceutical company has now concluded. 
 

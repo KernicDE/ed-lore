@@ -1,10 +1,11 @@
 ---
 uuid: 09bf0b89-95eb-572c-97eb-a94634287f81
-title: Sirius Corporation Ejected from Reorte 
+title: Sirius Corporation Ejected from Reorte
 slug: sirius_corporation_ejected_from_reorte
 date: '3308-02-03'
 source: API
-arc_id: null
+summary: The Reorte Mining Coalition succeeds in forcing Sirius Corporation to withdraw from the Reorte system.
+player_impact: Pilots fought for the Reorte Mining Coalition to drive Sirius Corporation from the system.
 groups:
 - Alliance
 - Sirius Corporation
@@ -18,15 +19,13 @@ topics:
 - alien contact
 - corporate expansion
 - war
-summary: The Reorte Mining Coalition succeeds in forcing Sirius Corporation to withdraw from the Reorte system.
-player_impact: Pilots fought for the Reorte Mining Coalition to drive Sirius Corporation from the system.
-modern_impact: "\"The Reorte Mining Coalition has succeeded in forcing Sirius Corporation to withdraw from the Reorte system.\" Reorte's expulsion of Sirius Corporation sets a precedent for Alliance systems rejecting unwanted corporate partnerships."
+arc_id: null
+modern_impact: '"The Reorte Mining Coalition has succeeded in forcing Sirius Corporation to withdraw from the Reorte system." Reorte''s expulsion of Sirius Corporation sets a precedent for Alliance systems rejecting unwanted corporate partnerships.'
 legacy_weight: 5
 significance: high
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Reorte Mining Coalition has succeeded in forcing Sirius Corporation to withdraw from The Reorte system.
 Despite the megacorp’s strategic defence pact With the Alliance, Reorte’s controlling faction claimed The Sirius megaship Chariot of Rhea was an illegal intruder. This resulted in open conflict, Which has ended With Sirius Corporation’s defeat.
 Fergus Cassidy, CEO of the Reorte Mining Coalition, transmitted this message:

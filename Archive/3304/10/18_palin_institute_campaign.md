@@ -22,9 +22,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Palin Institute Campaign
-
-
 The Palin Institute has announced an accelerated programme of study to analyse a range of xenobiological data, and perhaps discern the motives behind the Thargoids’ unrelenting aggression.  
 
 Professor Cora Shaw, director of the Palin Institute, released The following statement:  

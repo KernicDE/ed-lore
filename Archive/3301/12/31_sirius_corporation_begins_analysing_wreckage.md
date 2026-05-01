@@ -12,20 +12,16 @@ groups:
 - Sirius Corporation
 locations:
 - Sirius
-technologies: []
 topics:
 - corporate expansion
 - research
 - ship
+technologies: []
 arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
-  with implications for hyperdrive safety.
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery with implications for hyperdrive safety.
 legacy_weight: 3
 significance: medium
 ---
-
-Sirius Corporation Begins Analysing Wreckage
-
 
 Last week, The Sirius Corporation launched a search for The remains of the Antares, an innovative passenger liner that disappeared during Its maiden voyage in 3251. The initiative piqued the interest of the galactic community, and Hundreds of Independent pilots took part in the search, scouring the galaxy for remains of the lost ship. 
 

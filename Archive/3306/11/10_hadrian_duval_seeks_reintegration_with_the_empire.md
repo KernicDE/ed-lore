@@ -4,28 +4,22 @@ title: Hadrian Duval Seeks Reintegration with the Empire
 slug: hadrian_duval_seeks_reintegration_with_the_empire
 date: '3306-11-10'
 source: GitHub
-groups:
-- Nova Imperium
+summary: Imperator Hadrian Duval recovers from an assassination attempt and seeks to be accepted into the Imperial Family as Prince Hadrian, with Aisling Duval formally requesting sovereign consent.
+player_impact: None
 persons:
 - Hadrian Augustus Duval
 - Aisling Duval
 - Arissa Lavigny-Duval
 - Hengist Duval
+groups:
+- Nova Imperium
 topics:
 - succession
 arc_id: nova-imperium
-summary: Imperator Hadrian Duval recovers from an assassination attempt and seeks to
-  be accepted into the Imperial Family as Prince Hadrian, with Aisling Duval formally
-  requesting sovereign consent.
-player_impact: None
-modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
-  creates a schism in Imperial politics.
+modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and creates a schism in Imperial politics.
 legacy_weight: 4
 significance: high
 ---
-
-Hadrian Duval Seeks Reintegration With the Empire
-
 
 Imperator Hadrian Augustus Duval has recovered from an assassination attempt and signalled a new direction for Nova Imperium. 
 

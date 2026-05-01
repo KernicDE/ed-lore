@@ -4,20 +4,17 @@ title: Hudson has Medical Meeting in Mongan
 slug: hudson_has_medical_meeting_in_mongan
 date: '3301-04-14'
 source: GitHub
-entities:
-- Hudson met
 groups:
 - Federal Navy
 topics:
 - corporate expansion
 - medicine
+entities:
+- Hudson met
 modern_impact: Medical crisis or health initiative affecting galactic populations.
 legacy_weight: 2
 significance: low
 ---
-
-Hudson has Medical Meeting in Mongan
-
 
 The Shadow President’s tour of The Federation continued This week With a visit to the Reyan BPS headquarters aboard Moisuc Station, Mongan.  
 

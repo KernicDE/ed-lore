@@ -4,20 +4,20 @@ title: Brewer Corporation Trailblazer Fleet Upgraded
 slug: brewer_corporation_trailblazer_fleet_upgraded
 date: '3311-03-06'
 source: API
-arc_id: trailblazer-colonisation
+summary: A community campaign successfully upgraded Brewer Corporation's Trailblazer fleet, adding five new megaships to support colonisation efforts.
+player_impact: Independent pilots delivered commodities to Minerva to fund five additional Trailblazer megaships for colonisation support.
+persons:
+- Mark Rennik
 groups:
 - Brewer Corporation
 locations:
 - Minerva
 topics:
 - corporate expansion
-persons:
-- Mark Rennik
 technologies:
 - Trailblazer megaships
-player_impact: "Independent pilots delivered commodities to Minerva to fund five additional Trailblazer megaships for colonisation support."
-summary: "A community campaign successfully upgraded Brewer Corporation's Trailblazer fleet, adding five new megaships to support colonisation efforts."
-modern_impact: "Rennik's statement — 'It is obvious that there is great appetite for breaching the latest frontier' — captures the post-war colonisation fervour. The addition of five megaships expands the Trailblazer network to the scale needed for the migration wave reported in April, creating the logistical backbone for billions of settlers."
+arc_id: trailblazer-colonisation
+modern_impact: Rennik's statement — 'It is obvious that there is great appetite for breaching the latest frontier' — captures the post-war colonisation fervour. The addition of five megaships expands the Trailblazer network to the scale needed for the migration wave reported in April, creating the logistical backbone for billions of settlers.
 legacy_weight: 2
 significance: low
 related_uuids:

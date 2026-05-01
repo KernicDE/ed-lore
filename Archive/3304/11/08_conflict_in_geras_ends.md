@@ -23,9 +23,6 @@ related_uuids:
 - 418bd938-2122-5f9a-a397-98fd9015d198
 ---
 
-Conflict in Geras Ends
-
-
 Authorities in The Geras system have confirmed that the conflict between Geras First and Ndozins State Inc has come to an end. 
 
 Both factions received support from Independent combat pilots, to whom generous rewards were promised, but in the end there could be only One victor. 

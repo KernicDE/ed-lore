@@ -4,6 +4,10 @@ title: Pilots' Federation to Receive HIP 87621 Access
 slug: pilots_federation_to_receive_hip_87621_access
 date: '3311-11-06'
 source: API
+summary: The Pilots' Federation announced licensed Commanders would access HIP 87621 from November 13th after weeks of superpower pressure, while Lexi October defended October Consortium's actions as legal and warned of dangerous precedent for independent entities.
+player_impact: Licensed Commanders prepared to access HIP 87621 from 16:00 UGT on 13th November 3311, following the Pilots' Federation arrangement with October Consortium under superpower pressure.
+persons:
+- Lexi October
 groups:
 - October Consortium
 locations:
@@ -11,24 +15,20 @@ locations:
 topics:
 - corporate expansion
 - research
-arc_id: hip87621-conflict
-persons:
-- Lexi October
 technologies: []
-player_impact: "Licensed Commanders prepared to access HIP 87621 from 16:00 UGT on 13th November 3311, following the Pilots' Federation arrangement with October Consortium under superpower pressure."
-summary: "The Pilots' Federation announced licensed Commanders would access HIP 87621 from November 13th after weeks of superpower pressure, while Lexi October defended October Consortium's actions as legal and warned of dangerous precedent for independent entities."
-modern_impact: "Lexi October's warning about 'dangerous precedence' for independent entities proves prophetic — within three weeks, superpower fleets invade the enclave. Her decision to allow Pilots' Federation access rather than superpower forces is a calculated gambit: by framing Commanders as neutral scientific observers, she attempts to maintain control while appeasing pressure. The tactic fails when Radicoida unica's pharmaceutical value becomes clear."
+arc_id: hip87621-conflict
+modern_impact: 'Lexi October''s warning about ''dangerous precedence'' for independent entities proves prophetic — within three weeks, superpower fleets invade the enclave. Her decision to allow Pilots'' Federation access rather than superpower forces is a calculated gambit: by framing Commanders as neutral scientific observers, she attempts to maintain control while appeasing pressure. The tactic fails when Radicoida unica''s pharmaceutical value becomes clear.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - b401b85f-a797-53be-b3f7-4efe54fae2e8
 - fd5b9a2c-78e3-5819-8022-722a3d1c25e4
 - 6a9a38f2-88e3-5667-b95b-fee3335c647c
 - aed3f82a-3614-5e24-89c9-e35d9f81048a
 - 87f75759-0d94-513e-9499-0f9d15f1874d
-legacy_weight: 4
-significance: high
 ---
 
-*Pilots' Federation Alert*
+**Pilots' Federation Alert**
 The Pilots' Federation has confirmed that licensed Commanders will be granted access to the HIP 87621 system by October Consortium.
 The unexpected move has followed weeks of speculation surrounding HIP 87621, with growing interest from all three superpowers piling pressure on the megacorp. A spokesperson from within the Pilots' Federation stated:
 "The continued delay from October Consortium to relinquish permit control has only created further tension between political and scientific communities. To assuage concerns over the type of research taking place in HIP 87621, we have been invited to grant access to the system to licensed Pilots' Federation members."

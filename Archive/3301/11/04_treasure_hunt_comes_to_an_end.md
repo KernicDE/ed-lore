@@ -16,18 +16,14 @@ locations:
 - Faust 68
 - Dickensport
 - Fomalhaut
-technologies: []
 topics:
 - sport
 - treasure hunt
-modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
-  across the galaxy.
+technologies: []
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving across the galaxy.
 legacy_weight: 1
 significance: low
 ---
-
-Treasure Hunt Comes to an End
-
 
 The treasure hunt organised by the billionaire and philanthropist Alfred Jeffress has come to an end, With a pilot by the name of Commander Woodhouse claiming victory. Hundreds of people took part in the competition, but ultimately there could only be One victor. 
 

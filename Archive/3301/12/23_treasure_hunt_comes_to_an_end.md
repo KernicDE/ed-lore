@@ -13,18 +13,14 @@ locations:
 - Lasswitz Terminal
 - Mentor
 - Prism
-technologies: []
 topics:
 - ship
 - treasure hunt
-modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
-  across the galaxy.
+technologies: []
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving across the galaxy.
 legacy_weight: 1
 significance: low
 ---
-
-Treasure Hunt Comes to an End
-
 
 The third treasure hunt from eccentric billionaire Alfred Jeffress has come to an unexpected end, With not One but two pilots claiming the grand prize. Commanders MAX RED and Sync Mercy completed the treasure hunt within seconds of Each Other, prompting Jeffress to declare them both winners. 
 

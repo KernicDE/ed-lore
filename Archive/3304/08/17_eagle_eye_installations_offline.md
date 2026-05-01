@@ -25,9 +25,6 @@ related_uuids:
 - 8dc2f758-fb8f-5970-a0c1-77e52bb5671f
 ---
 
-Eagle Eye Installations Offline
-
-
 Admiral Aden Tanner has confirmed reports that Aegis’s Eagle Eye installations are offline. 
 
 The development is the result of Thargoid-sensor related interference at Dantec Enterprise, home of Aegis Core, Which has neutralised Aegis’s ability to transmit data to the orbital installations. 

@@ -4,24 +4,21 @@ title: NMLA Aims to ‘Extinguish the Duval Line’
 slug: nmla_aims_to_extinguish_the_duval_line
 date: '3307-10-15'
 source: API
-groups:
-- Marlinist
-- NMLA
-- Nova Imperium
+summary: The NMLA claims responsibility for the Dyson City bombing and declares its intent to exterminate the entire Duval bloodline. ACT reveals Theta Group has split in two.
+player_impact: Pilots continued rescue operations for survivors of the Dyson City bombing.
 persons:
 - Hadrian Augustus Duval
 - Astrid Minerva-Duval
 - Leo Magnus
 - Theta Seven
+groups:
+- Marlinist
+- NMLA
+- Nova Imperium
 topics:
 - humanitarian
 arc_id: nmla-terrorism
-summary: The NMLA claims responsibility for the Dyson City bombing and declares its
-  intent to exterminate the entire Duval bloodline. ACT reveals Theta Group has split
-  in two.
-player_impact: Pilots continued rescue operations for survivors of the Dyson City bombing.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---

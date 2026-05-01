@@ -4,23 +4,20 @@ title: Sagittarius Eye Appeal Concludes
 slug: sagittarius_eye_appeal_concludes
 date: '3305-06-13'
 source: GitHub
+summary: Sagittarius Eye's community appeal for construction materials concludes successfully, resulting in the establishment of a new asteroid base named The Print Works in the Millese system.
+player_impact: Contributing pilots could collect rewards from McMullen Ring in Millese.
 groups:
 - Sagittarius Eye
 locations:
 - Millese
 topics:
 - construction
-summary: Sagittarius Eye's community appeal for construction materials concludes successfully, resulting in the establishment of a new asteroid base named The Print Works in the Millese system.
-player_impact: Contributing pilots could collect rewards from McMullen Ring in Millese.
 modern_impact: The Print Works established Sagittarius Eye as a permanent publishing faction in the Millese system, creating a cultural hub for independent journalism.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 056710ce-dd54-5f9e-8bdd-92e74cb1c35c
 ---
-
-Sagittarius Eye Appeal Concludes
-
 
 A request for construction materials made by Sagittarius Eye has ended. 
 

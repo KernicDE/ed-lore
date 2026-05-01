@@ -14,18 +14,15 @@ groups:
 - Yum Kamcabi Purple Life Industry
 locations:
 - Jotunheim
-technologies: []
 topics:
 - festival
 - independence
 - war
+technologies: []
 modern_impact: Jasmina Halsey's support for the Revolutionary Jotunheim Resistance marks a shift from peaceful protest to direct material aid in anti-Imperial conflicts.
 legacy_weight: 1
 significance: low
 ---
-
-Community Goal: The Battle for Jotunheim
-
 
 Recent reports from Jotunheim indicate that the Autocracy of Jotunheim, an Imperial-aligned organisation, has entered the system With a remit to bring it under Imperial control. 
 

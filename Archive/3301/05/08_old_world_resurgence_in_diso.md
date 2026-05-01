@@ -15,9 +15,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Old World Resurgence in Diso
-
-
 The newest rejuvenation project to hit The Old Worlds has been announced, and This time it’s the Green Party of Diso who have stepped up to the challenge of making Its home a pleasant (and profitable) place to live.   
 
 As most traders are well aware, Diso is famous for Its Diso Ma Corn. A hearty, healthy, tasty plant, This covers itself In a light dust Which when snorted produces an intense but brief feeling of contentment and wellbeing. Currently, Diso Ma Corn can only be (cost-effectively) grown on the planet of Birmingham. This is due to a unique collection of nutrients Found in the planet’s soil, combined With the near-constant bombardment of the planet by solar waves being ejected from Diso itself.  

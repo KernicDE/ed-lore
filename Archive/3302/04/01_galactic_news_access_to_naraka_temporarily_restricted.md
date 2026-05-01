@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Access to Naraka Temporarily Restricted
-
-
 For some, Naraka is a system Located in The Hydrae Sector, but for others, it's a system situated between Pi-Fang and Eranin. That's because there are two systems that bear the name 'Naraka'. 
 
 This quirk of circumstance has long been a source of confusion for Independent pilots, but Universal Cartographics has deigned to address the issue by renaming the former of the two systems. 

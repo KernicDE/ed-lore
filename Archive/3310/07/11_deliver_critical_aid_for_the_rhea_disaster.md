@@ -4,6 +4,10 @@ title: Deliver Critical Aid for the Rhea Disaster
 slug: deliver_critical_aid_for_the_rhea_disaster
 date: '3310-07-11'
 source: API
+summary: President-elect Felicia Winters requests pilot aid for Rhea 3 earthquake recovery, defending her extended absence from office against calls for re-election.
+player_impact: Pilots are called to transport Power Generators, Aluminium, and Titanium to Ito Orbital in the Rhea system.
+persons:
+- Felicia Winters
 groups: []
 locations:
 - Rhea
@@ -12,22 +16,15 @@ topics:
 - humanitarian
 - politics
 arc_id: null
-modern_impact: "Winters' direct rebuttal — 'to care for your home planet, for your people, is not a weakness' — frames her absence as strength rather than dereliction. The mention of 'individuals out there who have tried to use my absence from office to undermine the will of the Federation's people' reveals the political attacks she has faced. The note that 'no confirmed inauguration is in sight' underscores the governance vacuum."
-persons:
-- Felicia Winters
-player_impact: "Pilots are called to transport Power Generators, Aluminium, and Titanium to Ito Orbital in the Rhea system."
-summary: "President-elect Felicia Winters requests pilot aid for Rhea 3 earthquake recovery, defending her extended absence from office against calls for re-election."
+modern_impact: Winters' direct rebuttal — 'to care for your home planet, for your people, is not a weakness' — frames her absence as strength rather than dereliction. The mention of 'individuals out there who have tried to use my absence from office to undermine the will of the Federation's people' reveals the political attacks she has faced. The note that 'no confirmed inauguration is in sight' underscores the governance vacuum.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 4f4aa358-f97b-5cbe-9b19-accdf104c36b
 - 00be4816-785d-537c-9e05-ba4677220927
-related_uuids:
-- 4f4aa358-f97b-5cbe-9b19-accdf104c36b
-- 00be4816-785d-537c-9e05-ba4677220927
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Federation has requested shipments of supplies in the Rhea system to help rebuild critical infrastructure.
 Intense seismic activity across Rhea 3’s largest continent demolished entire cities and townships late last year, causing widespread death and injury. Rescue operations have saved over a million people, but local infrastructure has been compromised and vital construction supplies are running low.
 President-Elect Felicia Winters spoke publicly for the first time since leaving for Rhea 3 to announce a support initiative:

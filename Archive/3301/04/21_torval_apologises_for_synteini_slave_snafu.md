@@ -18,9 +18,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Torval Apologises for Synteini Slave Snafu
-
-
 Last weekend The Imperial Slavers Association was supposed to make 5 million Imperial Slaves available for a significant discount in The markets aboard Lagerkvist Gateway. Much to the dismay of Hundreds of eager Imperial traders, the slaves (and their associated discount) were delayed by members of Princess Lavigny-Duval’s retinue as they attempted to pass through LTT 9810. 
 
 This unfortunate snafu meant that the ISA was unable to make good on Senator Zemina Torval’s promise. Reports from those close to the Senator state that Zemina was furious when she learned that Princess Arissa’s agents had seized her shipment. However, in light of the Silver Allied Network incident, the Senator is said to have since seen the wisdom of the investigators' actions. 

@@ -4,10 +4,7 @@ title: Galactic News  Construction Convoy Assembled
 slug: galactic_news_construction_convoy_assembled
 date: '3302-11-18'
 source: GitHub
-summary: Wreaken Construction has assembled a large convoy of heavy construction ships
-  and support vessels in the Zearla system. The purpose of the convoy is unknown, but the
-  well-defended operation has sparked speculation linked to Admiral Denton Patreus's recent
-  comments concerning the London Treaty.
+summary: Wreaken Construction has assembled a large convoy of heavy construction ships and support vessels in the Zearla system. The purpose of the convoy is unknown, but the well-defended operation has sparked speculation linked to Admiral Denton Patreus's recent comments concerning the London Treaty.
 player_impact: None
 persons:
 - Admiral Denton Patreus
@@ -20,16 +17,11 @@ topics:
 - diplomacy
 - ship
 - war
-modern_impact: Wreaken Construction's mysterious convoy assembly in Zearla fueled speculation
-  about large-scale construction projects and potential shifts in the balance of power related
-  to the London Treaty.
+technologies: []
+modern_impact: Wreaken Construction's mysterious convoy assembly in Zearla fueled speculation about large-scale construction projects and potential shifts in the balance of power related to the London Treaty.
 legacy_weight: 2
 significance: low
-technologies: []
 ---
-
-Galactic News: Construction Convoy Assembled
-
 
 A large convoy of heavy construction ships and associated support vessels has been assembled by Wreaken Construction in The Zearla system.  
 

@@ -15,9 +15,6 @@ legacy_weight: 2
 significance: low
 ---
 
-East India Company Announces Galactic Silk Road
-
-
 The East India Company, One of The larger pilots’ federation members, recently announced a new initiative they are calling “the Galactic Silk Road”. This is a public trade route available to all, and features seventeen of the most highly profitable stops in civilised space. 
 
 Although profitable trade routes are nothing new, the East India Company spokesperson in charge of the route, a CMDR Bunny, announced that the organisation will provide protection to those traders wanting to benefit, and has even gone as Far as to say that arrangements have been made With the Federal Navy, Mercs of Mikunn, the Merchant Marines, and Other factions, in order to patrol the route and protect traders. 

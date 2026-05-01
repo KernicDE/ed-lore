@@ -4,7 +4,11 @@ title: Alliance Lifts Quarantine for Thargoid Abductees
 slug: alliance_lifts_quarantine_for_thargoid_abductees
 date: '3309-12-18'
 source: API
-entities: []
+summary: The Alliance ends quarantine for Thargoid abductees, with Mahon calling on other superpowers to follow suit, while medical institutes and Azimuth Biotech oppose the decision.
+player_impact: Not specifically mentioned — this is a policy announcement.
+persons:
+- Edmund Mahon
+- Vanya Driscoll
 groups:
 - Alliance
 - Azimuth
@@ -15,13 +19,9 @@ topics:
 - humanitarian
 - medicine
 - politics
+entities: []
 arc_id: null
-modern_impact: "Mahon's call — 'We must not treat these unfortunates as criminals or laboratory specimens. During this dark time of war, let our humanity shine through' — frames the Alliance as morally superior. Driscoll's analysis — 'asking the other superpowers to follow suit frames the Alliance as a more humanitarian society than its counterparts' — confirms the political calculation. Azimuth's offer for 'cutting-edge xenological detection procedures' is a commercial opportunity disguised as science."
-persons:
-- Edmund Mahon
-- Vanya Driscoll
-player_impact: "Not specifically mentioned — this is a policy announcement."
-summary: "The Alliance ends quarantine for Thargoid abductees, with Mahon calling on other superpowers to follow suit, while medical institutes and Azimuth Biotech oppose the decision."
+modern_impact: Mahon's call — 'We must not treat these unfortunates as criminals or laboratory specimens. During this dark time of war, let our humanity shine through' — frames the Alliance as morally superior. Driscoll's analysis — 'asking the other superpowers to follow suit frames the Alliance as a more humanitarian society than its counterparts' — confirms the political calculation. Azimuth's offer for 'cutting-edge xenological detection procedures' is a commercial opportunity disguised as science.
 legacy_weight: 5
 significance: high
 related_uuids:

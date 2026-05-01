@@ -14,20 +14,16 @@ groups:
 - Federal Navy
 locations:
 - Kausalya
-technologies: []
 topics:
 - succession
 - terrorism
 - war
+technologies: []
 arc_id: imperial-succession
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---
-
-Federation Triumphs over Emperor's Dawn
-
 
 When an outpost belonging to The insurgent organisation Emperor's Dawn was discovered in the Federal system of Kausalya two weeks ago, Federal President Zachary Hudson's response was swift and unequivocal. Promising to "mete out such punishment that the very fires of hell will seem but guttering candles in comparison," Hudson promptly despatched a military fleet to Kausalya. Today, Admiral Kirby of the Federal Navy confirmed that the initiative to rout the dissidents had been an unmitigated success: 
 

@@ -40,9 +40,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Aegis has published a report containing significant insights into The Thargoids. The information was provided by the engineer Ram Tah, compiled from recently decrypted logs at Guardian sites. The report indicates that the Guardians and the Thargoids were once at war, due to the Thargoids’ belief that they had a pre-existing claim to the regions of space occupied by the Guardians. Professor Alba Tesreau, head of research at Aegis, said: “It is clear that Our current situation echoes that of the Guardians. Our space, like theirs, was seeded With barnacles thousands of years ago, and now the Thargoids have arrived to reap the biomechanical harvest.” 

@@ -4,30 +4,26 @@ title: Aegis Renegades Attack Salvation’s Allies
 slug: aegis_renegades_attack_salvations_allies
 date: '3307-11-11'
 source: API
-groups:
-- Aegis
-- Taurus Mining Ventures
+summary: Admiral Aden Tanner's rogue Aegis Defense force initiates conflict with Taurus Mining Ventures in the T Tauri system to obtain evidence of Salvation's anti-xeno weapon from Hind Mine asteroid base.
+player_impact: Independent pilots fought alongside either Admiral Tanner's renegade Aegis forces or Taurus Mining Ventures.
 persons:
 - Aden Tanner
 - Patience Middleton
 - Salvation
+groups:
+- Aegis
+- Taurus Mining Ventures
 topics:
 - alien contact
 - investigation
 - war
 arc_id: thargoid-contact
-summary: Admiral Aden Tanner's rogue Aegis Defense force initiates conflict with Taurus
-  Mining Ventures in the T Tauri system to obtain evidence of Salvation's anti-xeno weapon
-  from Hind Mine asteroid base.
-player_impact: Independent pilots fought alongside either Admiral Tanner's renegade Aegis
-  forces or Taurus Mining Ventures.
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A rogue Aegis Defense force has initiated conflict With Taurus Mining Ventures in The T Tauri system.
 The megaship Musashi is commanded by Aegis’s chief military liaison Admiral Aden Tanner, who made This announcement:
 “The Hind Mine asteroid base contains proof that Salvation’s unlicensed anti-xeno weapon is intentionally designed to provoke the Thargoids, and therefore endangers us all. As Taurus Mining Ventures refuses to cooperate, we have no choice but to obtain the evidence by force.”

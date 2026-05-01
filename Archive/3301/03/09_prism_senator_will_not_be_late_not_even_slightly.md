@@ -11,14 +11,10 @@ topics:
 - ship
 - trade
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Prism Senator will not be late, not even slightly
-
 
 In another administrative mix up, Lady Kahina Tijani Loren's Imperial Courier has been denied docking clearance at Mars High. Official observers report that an Imperial Courier attempted to dock without prior permission and when confronted, refused to acknowledge hails. 
 

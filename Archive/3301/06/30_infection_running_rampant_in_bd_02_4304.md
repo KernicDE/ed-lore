@@ -20,13 +20,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Infection Running Rampant in BD-02 4304
-
-
-Infection Running Rampant in BD-02 4304 
- 
-Infection Running Rampant in BD-02 4304 
-
 Hundreds of businesses have closed and thousands of people are quarantined following an outbreak aboard Newton Dock in what could be The most devastating epidemic of The decade. 
 
 The illness, the origins of Which are currently unknown, has made Its way across much of the region. Reports are coming in from surrounding systems indicating that the infection might already be spreading. 

@@ -4,15 +4,8 @@ title: Felicia Winters Elected as Federal President
 slug: felicia_winters_elected_as_federal_president
 date: '3309-10-16'
 source: API
-entities: []
-groups: []
-locations:
-- Mars
-- Olympus Village
-topics:
-- politics
-arc_id: null
-modern_impact: "Winters's victory speech — 'create optimism where there was fear, give shelter those who are vulnerable' — defines her agenda. Archer's gracious concession — 'I look forward to taking on the role of shadow president' — establishes the opposition dynamic. The Empire's 'No formal acknowledgement' while Aisling 'joined Professor Alba Tesreau' shows the nuanced Imperial response — official coldness but personal engagement through Aegis."
+summary: Felicia Winters wins the 3309 Federal presidential election with a 4% majority over Jerome Archer, with congratulations from allies and a cautious response from the Empire.
+player_impact: Not specifically mentioned.
 persons:
 - Felicia Winters
 - Jerome Archer
@@ -25,8 +18,15 @@ persons:
 - Li Yong-Rui
 - Aisling Duval
 - Alba Tesreau
-player_impact: "Not specifically mentioned."
-summary: "Felicia Winters wins the 3309 Federal presidential election with a 4% majority over Jerome Archer, with congratulations from allies and a cautious response from the Empire."
+groups: []
+locations:
+- Mars
+- Olympus Village
+topics:
+- politics
+entities: []
+arc_id: null
+modern_impact: Winters's victory speech — 'create optimism where there was fear, give shelter those who are vulnerable' — defines her agenda. Archer's gracious concession — 'I look forward to taking on the role of shadow president' — establishes the opposition dynamic. The Empire's 'No formal acknowledgement' while Aisling 'joined Professor Alba Tesreau' shows the nuanced Imperial response — official coldness but personal engagement through Aegis.
 legacy_weight: 5
 significance: high
 related_uuids:

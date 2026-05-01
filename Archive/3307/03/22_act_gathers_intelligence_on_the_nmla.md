@@ -4,7 +4,8 @@ title: ACT Gathers Intelligence on the NMLA
 slug: act_gathers_intelligence_on_the_nmla
 date: 3307-03-22
 source: API
-arc_id: nmla-terrorism
+summary: The Affiliated Counter-Terrorism unit (ACT), formed by All three superpowers to combat the NMLA, has launched Its investigation.
+player_impact: Pilots may be called upon to support ACT intelligence operations.
 persons:
 - Imperial Internal Security Service
 - Its
@@ -19,9 +20,10 @@ locations: []
 topics:
 - investigation
 - terrorism
-player_impact: Pilots may be called upon to support ACT intelligence operations.
-summary: The Affiliated Counter-Terrorism unit (ACT), formed by All three superpowers to combat the NMLA, has launched Its investigation.
-modern_impact: "\"This atrocity is nothing less than a declaration of war.\" The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates."
+arc_id: nmla-terrorism
+modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 - f359d9c3-aa3c-5d56-bf91-97754c4357a9
@@ -29,8 +31,6 @@ related_uuids:
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
-legacy_weight: 5
-significance: high
 ---
 
 The Affiliated Counter-Terrorism unit (ACT), formed by All three superpowers to combat the NMLA, has launched Its investigation.

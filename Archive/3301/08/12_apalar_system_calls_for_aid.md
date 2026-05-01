@@ -4,6 +4,8 @@ title: Apalar System Calls for Aid
 slug: apalar_system_calls_for_aid
 date: '3301-08-12'
 source: GitHub
+summary: The Apalar system government invited independent pilots to help elevate their economy. Governor Omar Jordan of Svavarsson Terminal stated the system is strategically positioned between Archon Delaine, Zachary Hudson, Zemina Torval, and Denton Patreus territories. While not directly addressing the threat, the appeal is understood to be partly motivated by a desire to counter Archon Delaine’s proximity. A stronger economy could attract protection from another power. Apalar Labour is offering rewards for delivering industrial materials to Svavarsson Terminal.
+player_impact: Traders can deliver industrial materials to Svavarsson Terminal in the Apalar system to earn rewards and help the system strengthen its economy against potential pirate threats.
 persons:
 - Omar Jordan
 groups:
@@ -14,18 +16,11 @@ locations:
 topics:
 - trade
 - war
-summary: The Apalar system government invited independent pilots to help elevate their economy. Governor Omar Jordan of Svavarsson Terminal stated the system is strategically positioned between Archon Delaine, Zachary Hudson, Zemina Torval, and Denton Patreus territories. While not directly addressing the threat, the appeal is understood to be partly motivated by a desire to counter Archon Delaine’s proximity. A stronger economy could attract protection from another power. Apalar Labour is offering rewards for delivering industrial materials to Svavarsson Terminal.
-player_impact: Traders can deliver industrial materials to Svavarsson Terminal in the Apalar system to earn rewards and help the system strengthen its economy against potential pirate threats.
 modern_impact: Economic development initiative by an independent system seeking to strengthen its position between major powers.
 legacy_weight: 2
 significance: low
 ---
 
-Apalar System Calls for Aid
-
-
-Apalar System Calls for Aid 
- 
 The government of The Apalar system has issued an unusual request, inviting Independent pilots to help them elevate their system’s economy. According to Omar Jordan, governor of Svavarsson Terminal, the system is strategically positioned between the territories of Several major powers, and is therefore ideally placed to provide these powers With services. The governor said: 
 
 “Our system is bordered by the territories of Archon Delaine, Zachary Hudson, Zemina Torval and Denton Patrius. Surely these individuals can understand the benefit of having an Independent high tech system on their doorstep?” 

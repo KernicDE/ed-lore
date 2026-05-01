@@ -8,9 +8,9 @@ mention_count: 19
 related_entities:
 - alliance
 - alliance-assembly
-- alliance-tribune
 - bank-of-zaonce
-- lave
+- alliance-tribune
+- council-of-admirals
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **19**
 
 - [[Alliance]] (13 co-mentions)
 - [[Alliance Assembly]] (6 co-mentions)
+- [[Bank of Zaonce]] (5 co-mentions)
 - [[Alliance Tribune]] (5 co-mentions)
-- [[Bank of Zaonce]] (4 co-mentions)
-- [[Lave]] (3 co-mentions)
+- [[Council of Admirals]] (3 co-mentions)
 
 ## Biography
 

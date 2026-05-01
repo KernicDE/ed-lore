@@ -13,14 +13,10 @@ topics:
 - genetic experiments
 - succession
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Pleased To Eat You
-
 
 "We've heard a lot about these barnacles," said controversial chef Oliver Gordon today outside his restaurant 'PanGalactic', "But the most Important question has yet to be asked. How do they taste?" 
 

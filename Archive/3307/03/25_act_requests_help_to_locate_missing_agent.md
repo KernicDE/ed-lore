@@ -4,7 +4,8 @@ title: ACT Requests Help to Locate Missing Agent
 slug: act_requests_help_to_locate_missing_agent
 date: 3307-03-25
 source: API
-arc_id: nmla-terrorism
+summary: '*Pilots Federation ALERT* Assistance is needed to track down an ACT operative who vanished while on a mission to identify NMLA suppliers.'
+player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Imperial Internal Security Service
 - Its
@@ -23,9 +24,10 @@ locations:
 topics:
 - research
 - war
-player_impact: Pilots followed these developments through GalNet reports.
-summary: "*Pilots Federation ALERT* Assistance is needed to track down an ACT operative who vanished while on a mission to identify NMLA suppliers."
-modern_impact: "\"Our fervent hope is that we find its crew alive.\" Captain Seutonia's disappearance highlighted the mortal dangers faced by ACT operatives investigating the NMLA's shadowy network."
+arc_id: nmla-terrorism
+modern_impact: '"Our fervent hope is that we find its crew alive." Captain Seutonia''s disappearance highlighted the mortal dangers faced by ACT operatives investigating the NMLA''s shadowy network.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 - 67932c1d-fed0-5cc2-b9a2-8aededff61c3
@@ -33,11 +35,9 @@ related_uuids:
 - b552d00d-8b03-578d-a47d-aa396f38dedf
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Assistance is needed to track down an ACT operative who vanished while on a mission to identify NMLA suppliers.
 The Missing agent is Captain Niamh Seutonia of the Imperial Internal Security Service, One of the joint leaders of the anti-NMLA intelligence unit. She was following up on clues resulting from analysis of the ‘Nine Martyrs’ starport bombings.
 Senior Agent Tanya Ramirez, a co-leader of ACT, gave This statement:

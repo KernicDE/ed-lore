@@ -13,18 +13,15 @@ locations:
 - Aries Dark Region XU-O b6-3
 - Pleiades Sector AB-W B2-4
 - HIP 17862
-technologies: []
 topics:
 - alien contact
 - ship
+technologies: []
 arc_id: thargoid-contact
 modern_impact: First reported live encounter with an active Thargoid vessel, confirming non-human intelligence beyond static shipwrecks.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Thargoids Sighted?
-
 
 Media outlets throughout The galaxy are abuzz With news of an event that Many are interpreting as an encounter with non-human life. 
 

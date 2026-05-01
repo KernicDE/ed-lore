@@ -44,9 +44,6 @@ related_uuids:
 - 142a166a-07ef-56ac-989c-e35eaa8946e9
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 The investigation into the death of Alliance presidential candidate Fazia Silva has concluded With no convictions. Alliance Interpol confirmed that Silva’s death was a homicide, but said that all avenues of investigation had been exhausted. Tashmira Silva has now assumed control of her late sister’s corporate empire. 

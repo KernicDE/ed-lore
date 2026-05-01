@@ -4,6 +4,10 @@ title: Aegis Produces Sub-Surface Extraction Missiles
 slug: aegis_produces_sub_surface_extraction_missiles
 date: '3309-10-05'
 source: API
+summary: Aegis deploys sub-surface extraction missiles to rescue captives from Thargoid Titans, with Tanner explaining the dangerous extraction process.
+player_impact: Pilots transported CMM composites, neofabric insulation and osmium to Springer Gateway. Bounty vouchers redeemed for wanted ships destroyed.
+persons:
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -14,16 +18,12 @@ topics:
 - humanitarian
 - medicine
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Tanner's description of the extraction process — 'penetrate far enough into the outer hull to jettison the pod-like structures containing captives' — reveals the mechanics. His warning that 'These are perhaps the most dangerous rescue missions ever attempted' underscores the risk. The first wave already making 'initial forays into the Maelstroms' shows rapid deployment."
-persons:
-- Aden Tanner
 technologies:
 - sub-surface extraction missiles
 - pulse wave xeno scanner
 - bio-storage capsules
-player_impact: "Pilots transported CMM composites, neofabric insulation and osmium to Springer Gateway. Bounty vouchers redeemed for wanted ships destroyed."
-summary: "Aegis deploys sub-surface extraction missiles to rescue captives from Thargoid Titans, with Tanner explaining the dangerous extraction process."
+arc_id: thargoid-titan-war
+modern_impact: Tanner's description of the extraction process — 'penetrate far enough into the outer hull to jettison the pod-like structures containing captives' — reveals the mechanics. His warning that 'These are perhaps the most dangerous rescue missions ever attempted' underscores the risk. The first wave already making 'initial forays into the Maelstroms' shows rapid deployment.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,7 +31,7 @@ related_uuids:
 - c9064e45-771f-5630-b3f6-b1bf74220a33
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Rescue megaships now stock Aegis’s modified mining tool, designed to extract bio-storage capsules from Thargoid Titans.
 The sub-surface extraction missiles went into rapid production following a delivery initiative in the Senlu system. Aegis has confirmed that pilots who transported CMM composites, neofabric insulation and osmium to Springer Gateway can now collect their rewards. Bounty vouchers for all wanted ships destroyed during the past week will also be redeemed at the same location.
 Aden Tanner discussed tactics for using the new module:

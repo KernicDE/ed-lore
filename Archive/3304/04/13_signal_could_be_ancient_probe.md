@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Signal Could be Ancient Probe
-
-
 Astronomers based in The Sol system may have detected a signal from New Horizons, a space probe launched in 2006 With a mission to study various objects in the Kuiper belt. 
 
 One of the astronomers responsible for the find said: 

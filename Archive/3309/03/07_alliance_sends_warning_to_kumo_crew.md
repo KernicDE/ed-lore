@@ -4,7 +4,12 @@ title: Alliance Sends Warning to Kumo Crew
 slug: alliance_sends_warning_to_kumo_crew
 date: '3309-03-07'
 source: API
-entities: []
+summary: The Alliance formally condemns the Kumo Crew's attempted takeover of California Nebula systems under the guise of anti-xeno defense, with Mahon warning Archon Delaine.
+player_impact: Not specifically mentioned — this is a diplomatic and political report.
+persons:
+- Edmund Mahon
+- Jed Trager
+- Archon Delaine
 groups:
 - Alliance
 - Kumo Crew
@@ -14,14 +19,9 @@ topics:
 - corruption
 - crime
 - investigation
+entities: []
 arc_id: thargoid-contact
-modern_impact: "Trager's detailed findings — 'using bribery and coercion to pave the way for their takeover' and 'overthrowing local authorities under the pretence of emergency security measures' — exposes the Kumo Crew's strategy. Mahon's direct message — 'The Alliance is watching you' — is a clear threat. The framing as 'a brazen act of aggression against Allied factions' elevates the conflict to international incident."
-persons:
-- Edmund Mahon
-- Jed Trager
-- Archon Delaine
-player_impact: "Not specifically mentioned — this is a diplomatic and political report."
-summary: "The Alliance formally condemns the Kumo Crew's attempted takeover of California Nebula systems under the guise of anti-xeno defense, with Mahon warning Archon Delaine."
+modern_impact: Trager's detailed findings — 'using bribery and coercion to pave the way for their takeover' and 'overthrowing local authorities under the pretence of emergency security measures' — exposes the Kumo Crew's strategy. Mahon's direct message — 'The Alliance is watching you' — is a clear threat. The framing as 'a brazen act of aggression against Allied factions' elevates the conflict to international incident.
 legacy_weight: 5
 significance: high
 related_uuids:

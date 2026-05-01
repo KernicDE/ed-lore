@@ -4,21 +4,18 @@ title: Aisling’s Angels Challenge the Senator’s Slavers
 slug: aislings_angels_challenge_the_senators_slavers
 date: '3301-04-01'
 source: GitHub
-entities:
-- Torval wins
 locations:
 - Cemiess
 - Mackenzie Relay
 - Synteini
 topics:
 - slavery
+entities:
+- Torval wins
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Aisling’s Angels Challenge The Senator’s Slavers
-
 
 The fortunes of societies least fortunate may finally be changing This week, as Senator Torval has accepted a challenge to go head to head With the Diva Duval to prove once and for all whose position the citizens of the Empire truly support. 
 

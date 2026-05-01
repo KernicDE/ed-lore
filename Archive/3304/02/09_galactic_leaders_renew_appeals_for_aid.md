@@ -25,9 +25,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic Leaders Renew Appeals for Aid
-
-
 Seventeen starports have now been attacked by The Thargoids, resulting in widespread destruction and loss of life. Many of these stations remain In a critical state, and are unable to offer essential services. 
 
 In response, Federal President Zachary Hudson and Emperor Arissa Lavigny-Duval have issued fresh appeals for aid, imploring Independent pilots to support relief efforts. 

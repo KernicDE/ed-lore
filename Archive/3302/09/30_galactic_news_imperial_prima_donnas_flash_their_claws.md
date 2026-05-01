@@ -12,16 +12,13 @@ persons:
 groups:
 - Imperial Citizen
 locations: []
-technologies: []
 topics:
 - succession
+technologies: []
 modern_impact: The public confrontation between Aisling Duval and Kahina Loren intensifies Imperial political drama and shapes public perception ahead of Loren's trial.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Imperial Prima Donnas Flash their Claws
-
 
 Princess Aisling Duval has clashed With former Imperial senator Lady Kahina Loren in an impromptu debate organised by The Imperial Citizen. Unbeknownst to either Princess Duval or Lady Kahina, parts of the altercation were broadcast live. 
 

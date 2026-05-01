@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Historical Sculptures Stolen
-
-
 A collection of historically significant artworks has been stolen from The Imperial Museum of Culture on Eotienses A 3. 
 
 A local media report stated: 

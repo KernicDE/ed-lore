@@ -28,9 +28,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: Following The Breadcrumbs
-
-
 Imperial investigator Cornelius Gendymion has released a statement to the Prism Herald addressing accusations that Imperial agents were responsible for the destruction of Starship One. 
 
 "It seems Federal Times reporter Elaine Boyd's investigations are being ignored by her countrymen. You may recall that she highlighted the suspicious deaths of key individuals involved in both the Antares and Starship One investigations before her alleged suicide. Her data detailed an off-the-books investigation into the Antares by Vice-President Nigel Smeaton, and also alleged that he was Murdered." 

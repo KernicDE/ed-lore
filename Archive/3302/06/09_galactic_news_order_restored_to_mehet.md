@@ -13,18 +13,15 @@ groups:
 locations:
 - Mehet
 - Schwann Dock
-technologies: []
 topics:
 - crime
 - ship
 - war
+technologies: []
 modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Order Restored to Mehet
-
 
 Mehet Ltd has announced that Its campaign to clear The Mehet system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 

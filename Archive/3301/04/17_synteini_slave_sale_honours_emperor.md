@@ -4,8 +4,6 @@ title: Synteini Slave Sale Honours Emperor
 slug: synteini_slave_sale_honours_emperor
 date: '3301-04-17'
 source: GitHub
-entities:
-- Torval released
 locations:
 - Synteini
 topics:
@@ -13,13 +11,12 @@ topics:
 - sport
 - succession
 - war
+entities:
+- Torval released
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Synteini Slave Sale Honours Emperor
-
 
 Last week Zemina Torval and Aisling Duval went head to head In a contest Imperial citizens have dubbed The ‘Great Slaver Showdown’. Both parties used The competition as an excuse to promote their own radical philosophies regarding the laws surrounding Imperial Slavery, and it looks like we finally know whose stance the Imperial public supports more. 
 

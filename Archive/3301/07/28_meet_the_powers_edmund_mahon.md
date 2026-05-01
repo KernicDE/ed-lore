@@ -4,6 +4,8 @@ title: Meet the Powers – Edmund Mahon
 slug: meet_the_powers_edmund_mahon
 date: '3301-07-28'
 source: GitHub
+summary: Political commentator Marcus Macmillan profiles Alliance Prime Minister Edmund Mahon. Despite the Alliance being the smallest superpower, Mahon is described as possibly the greatest leader since its inception. A career politician with strong academic background, he knows the complex Alliance political system well and can work within it to achieve results. He ensures individual system concerns are properly represented, making Alliance membership attractive. His understated exterior belies a cunning mind and determination to expand Alliance values to more systems.
+player_impact: None
 persons:
 - Edmund Mahon
 - Marcus Macmillan
@@ -16,18 +18,11 @@ topics:
 - politics
 - diplomacy
 arc_id: alliance-expansion
-summary: Political commentator Marcus Macmillan profiles Alliance Prime Minister Edmund Mahon. Despite the Alliance being the smallest superpower, Mahon is described as possibly the greatest leader since its inception. A career politician with strong academic background, he knows the complex Alliance political system well and can work within it to achieve results. He ensures individual system concerns are properly represented, making Alliance membership attractive. His understated exterior belies a cunning mind and determination to expand Alliance values to more systems.
-player_impact: None
 modern_impact: Profile establishes Edmund Mahon as a highly effective leader within the Alliance's complex political framework, driving expansion through diplomatic skill.
 legacy_weight: 3
 significance: medium
 ---
 
-Meet The Powers – Edmund Mahon
-
-
-Meet The Powers – Edmund Mahon 
- 
 Continuing This GalNet exclusive series, political commentator Marcus Macmillan writes about some of the movers and shakers in 3301. In This third article he looks at Alliance Prime Minister Edmund Mahon. 
 
 Politicians from the Federation and Empire often underestimate their counterparts in the Alliance. This is in part due to their relative sizes, since of the three superpowers the Alliance is by Far the smallest and least powerful. However, it should be remembered that the Alliance was born from defeating both the Federation and the Empire on Alioth, a topic I’m certain the esteemed Sima Kalhana will cover in her Sunday posting sometime soon. The Other superpowers also see the Alliance’s complex interlocking of systems, committees and power-sharing as a limit on the Prime Minister’s influence. 

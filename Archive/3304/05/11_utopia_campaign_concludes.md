@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Utopia Campaign Concludes
-
-
 The Utopia campaign to construct a military installation in Its home system has now concluded. Many traders delivered a huge quantity of construction material to Bobko City, Which will be used to build defences for the Sim-Archive. Other Independent pilots protected the operation by eliminating pirate vessels. 
 
 Utopia’s spokesperson, Dr Leigh Constantinides, expressed her gratitude: 

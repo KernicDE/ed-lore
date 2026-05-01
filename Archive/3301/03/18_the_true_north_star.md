@@ -16,9 +16,6 @@ legacy_weight: 1
 significance: low
 ---
 
-The True North Star
-
-
 In a brief written statement submitted to GalNet news, Virgil Kyle, commander of The exploration-fitted Asp Spirit of Indianapolis, claims to have been the first to visit what he calls Sol's ‘true North Star’. 
 
 "Wregoe TV-L C24-0 is over 1,200 light-years 'north' of Sol's position in the galactic plane, and less than a light-year from her position otherwise," he goes on to explain. "Due to the jump distances involved, the system is only visitable by Asps and Anacondas fitted to achieve near-maximum jump ranges." 

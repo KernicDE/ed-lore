@@ -28,9 +28,6 @@ related_uuids:
 - 9553e291-133e-56d0-9087-0003da0eccf5
 ---
 
-League of Reparation Hunt Concludes
-
-
 The tri-power taskforce whose goal is to eradicate the League of Reparation has announced a successful conclusion to Its recent campaign. Scores of pilots supported the taskforce by eliminating League terrorists in the Zibal and Ienpalang systems. 
 
 As the campaign drew to a close, Captain Niamh Seutonia had This to say: 

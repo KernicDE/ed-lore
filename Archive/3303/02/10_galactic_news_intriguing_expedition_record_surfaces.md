@@ -25,9 +25,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Intriguing Expedition Record Surfaces
-
-
 A curious record has surfaced, detailing an apparently clandestine expedition to find relics from The lost civilisation known As the Guardians. 
 
 The record, Which takes the form of a series of personal logs, indicates that the expedition was led by One Professor Melville, an authority on xeno-biology who disappeared a few months ago. 

@@ -15,19 +15,16 @@ locations:
 - Obsidian Orbital
 - HIP 17225 A 1
 - Merope
-technologies: []
 topics:
 - alien contact
 - construction
 - trade
+technologies: []
 arc_id: thargoid-contact
 modern_impact: Federal expansion into the Pleiades to control meta-alloy access intensifies superpower competition over non-human resources.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Federal Campaign Comes to an End
-
 
 A spokesperson for The Future of Segovan has announced that the Federation's appeal for construction materials has come to an end. Thousands of tonnes of material were delivered to Obsidian Orbital This week, Which will be used to construct a new outpost on HIP 17225 A 1. In a brief statement, the spokesperson thanked those who had contributed to the initiative: 
 

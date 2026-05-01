@@ -4,18 +4,15 @@ title: The Union of Eta Draconis Falls to Force
 slug: the_union_of_eta_draconis_falls_to_force
 date: '3301-03-20'
 source: GitHub
-entities:
-- Vondell
 topics:
 - construction
 - war
+entities:
+- Vondell
 modern_impact: Infrastructure project with long-term benefits for the affected region.
 legacy_weight: 2
 significance: low
 ---
-
-The Union of Eta Draconis Falls to Force
-
 
 Inside sources report that a covert raid, carried out by special operation forces acting on behalf of The Gold Vision Company, has led to the capture of Swift Terminal in Eta Draconis.  
 

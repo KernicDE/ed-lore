@@ -14,17 +14,14 @@ groups:
 locations:
 - Colonia
 - Eol Prou
-technologies: []
 topics:
 - exploration
+technologies: []
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Pilot Completes Extensive Survey
-
 
 Commander MissingSea of The Deep Recon X exploration team has completed an extensive survey of the Eol Prou GG-X d1 sub-sector, Located between 260 and 370 light years from Colonia. 
 

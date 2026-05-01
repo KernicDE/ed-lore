@@ -13,9 +13,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Alliance Terraforming Initiative Set to Enter Final Stage
-
-
 The Big G Corporation, in association With the Alliance of Independent Systems, is pleased to announce that a dozen planets involved in The Alliance terraforming programme are finally ready to undergo their last stage of biochemical transformation. 
 
 The first set of planets to undergo the final stage of terraforming includes: 

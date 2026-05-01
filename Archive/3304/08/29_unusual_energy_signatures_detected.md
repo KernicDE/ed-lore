@@ -24,9 +24,6 @@ related_uuids:
 - e783725b-8d86-5738-8724-b2a1ffaf6f73
 ---
 
-Unusual Energy Signatures Detected
-
-
 Three recently detected energy signatures have been confirmed to be of a similar nature. 
 
 The engineer Ram Tah made a statement to the media: 

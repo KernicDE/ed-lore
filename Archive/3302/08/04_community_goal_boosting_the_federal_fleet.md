@@ -14,19 +14,16 @@ groups:
 locations:
 - Brady Horizons
 - Gooheimar
-technologies:
-- Farragut-class Battlecruiser
 topics:
 - construction
 - ship
 - war
+technologies:
+- Farragut-class Battlecruiser
 modern_impact: Federal naval expansion in response to rising Imperial tensions escalates the superpower arms race.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Boosting The Federal Fleet
-
 
 As the antagonism between the Federation and the Empire Continues to simmer, the Federation has announced plans to expand Its Navy With three new Farragut-class Battlecruisers. The development follows a recent initiative to add three new capital ships to the Imperial fleet. 
 

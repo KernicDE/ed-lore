@@ -14,17 +14,14 @@ groups:
 - Buckyball Racing Club
 - Apocalyptican Faith
 locations: []
-technologies: []
 topics:
 - alien contact
 - sport
+technologies: []
 modern_impact: Conclusion of the Kick the Alien race and apology to the Apocalyptican Faith marks a notable moment in community-driven events.
 legacy_weight: 1
 significance: low
 ---
-
-Freelance Report: Kick The Alien Race Concludes
-
 
 The Buckyball Race Club has announced the winners of the Kick the Alien (and Run like Hell) race. 
 

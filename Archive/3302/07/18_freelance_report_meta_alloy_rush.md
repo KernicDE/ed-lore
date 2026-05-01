@@ -12,22 +12,18 @@ persons:
 groups: []
 locations:
 - Bauschinger City
-technologies:
-- meta-alloys
-- Unknown Artefacts
 topics:
 - construction
 - medicine
 - research
+technologies:
+- meta-alloys
+- Unknown Artefacts
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Meta-Alloy Rush
-
 
 As the Federation and Empire attempt to lay claim to The organic structures known as barnacles, the demand for meta-alloys has skyrocketed. Many starports have begun placing orders for the material as a hedge against potential malfunctions. 
 

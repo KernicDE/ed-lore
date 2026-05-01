@@ -4,18 +4,7 @@ title: Freelance Report  Strategic Resource Denial
 slug: freelance_report_strategic_resource_denial
 date: '3302-07-08'
 source: GitHub
-topics:
-- ship
-- war
-arc_id: barnacle-meta-alloy
-modern_impact: Provides an early military analysis of the Pleiades resource struggle,
-  framing the superpower standoff in classic strategic-warfare terms.
-legacy_weight: 5
-significance: high
-summary: Retired General Alexander Lee of United Teaka First argued on Affairs of
-  State that the Federation's presence at barnacle sites is strategic resource denial.
-  He warned that Independent systems suffering from Unknown Artefact damage will be
-  left without meta-alloys as the Empire is forced to respond.
+summary: Retired General Alexander Lee of United Teaka First argued on Affairs of State that the Federation's presence at barnacle sites is strategic resource denial. He warned that Independent systems suffering from Unknown Artefact damage will be left without meta-alloys as the Empire is forced to respond.
 player_impact: None
 persons:
 - General Alexander Lee
@@ -24,11 +13,15 @@ groups:
 - Federation
 - Empire
 locations: []
+topics:
+- ship
+- war
 technologies: []
+arc_id: barnacle-meta-alloy
+modern_impact: Provides an early military analysis of the Pleiades resource struggle, framing the superpower standoff in classic strategic-warfare terms.
+legacy_weight: 5
+significance: high
 ---
-
-Freelance Report: Strategic Resource Denial
-
 
 General Alexander Lee, recently retired from United Teaka First, made a guest appearance on The Independent talk show Affairs of State This weekend. General Lee responded to questions regarding Federal fleets stationed at barnacle sites. 
 

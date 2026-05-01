@@ -4,7 +4,8 @@ title: Concerns Raised over Alliance-Sirius Pact
 slug: concerns_raised_over_alliance_sirius_pact
 date: '3308-02-08'
 source: API
-arc_id: null
+summary: Sirius Corporation questions its Alliance defence partnership following the conflict in Reorte.
+player_impact: Not specifically mentioned — this is a diplomatic report.
 groups:
 - Alliance
 - Sirius Corporation
@@ -16,13 +17,11 @@ locations:
 topics:
 - corporate expansion
 - war
-summary: Sirius Corporation questions its Alliance defence partnership following the conflict in Reorte.
-player_impact: Not specifically mentioned — this is a diplomatic report.
-modern_impact: "\"The recent battle in the Reorte system has caused Sirius Corporation to question the terms of its partnership.\" The Reorte conflict exposes the fragility of the Alliance-Sirius pact and emboldens critics of corporate military integration."
+arc_id: null
+modern_impact: '"The recent battle in the Reorte system has caused Sirius Corporation to question the terms of its partnership." The Reorte conflict exposes the fragility of the Alliance-Sirius pact and emboldens critics of corporate military integration.'
 legacy_weight: 3
 significance: medium
 ---
-
 
 The recent battle in The Reorte system has caused Sirius Corporation to question the terms of Its partnership With the Alliance.
 The Alliance Tribune’s political correspondent Vanya Driscoll reported:

@@ -4,7 +4,8 @@ title: Core Dynamics Insider Discusses Lakon Takeover
 slug: core_dynamics_insider_discusses_lakon_takeover
 date: 3307-01-13
 source: API
-arc_id: null
+summary: An anonymous source within The shipbuilding corporation Core Dynamics has revealed details behind Its hostile takeover of Lakon Spaceways.
+player_impact: The corporate takeover generated significant market and political interest among pilots.
 persons:
 - Further
 - Its
@@ -14,15 +15,16 @@ persons:
 - This
 - With
 groups:
-  - Core Dynamics
+- Core Dynamics
 locations:
-  - Jupiter
+- Jupiter
 topics:
 - corporate expansion
 - investigation
-player_impact: The corporate takeover generated significant market and political interest among pilots.
-summary: An anonymous source within The shipbuilding corporation Core Dynamics has revealed details behind Its hostile takeover of Lakon Spaceways.
-modern_impact: "\"We welcome becoming closer partners with the Alliance.\" The Lakon Spaceways takeover saga demonstrated the Alliance's determination to maintain domestic shipbuilding independence against Federal corporate encroachment."
+arc_id: null
+modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic shipbuilding independence against Federal corporate encroachment.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - a3c076ad-3a02-5e61-98b0-a3cd15189a48
 - ef475ada-e268-55e0-8ada-ae250caa5c86
@@ -30,8 +32,6 @@ related_uuids:
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
-legacy_weight: 2
-significance: low
 ---
 
 An anonymous source within The shipbuilding corporation Core Dynamics has revealed details behind Its hostile takeover of Lakon Spaceways.

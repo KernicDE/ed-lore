@@ -13,19 +13,15 @@ groups:
 locations:
 - Bava
 - Bauschinger City
-technologies:
-- meta-alloys
 topics:
 - exploration
+technologies:
+- meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Imperial Campaign Concludes
-
 
 A spokesperson for Bava Blue Travel Systems has announced that Hundreds of Independent pilots responded to The recent Imperial appeal for exploration data, delivering large quantities of astronomical information to Bauschinger City in the Bava system. The appeal was part of an Imperial campaign to locate Further barnacles, the only known source of meta-alloys. 
 

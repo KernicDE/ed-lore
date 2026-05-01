@@ -4,6 +4,11 @@ title: Alien Abduction Evidence Increases
 slug: alien_abduction_evidence_increases
 date: '3309-08-15'
 source: API
+summary: Eyewitness accounts and personal stories confirm Thargoid mass abductions, with public pressure mounting on Aegis to act while xeno-peace activists offer alternative perspectives.
+player_impact: Independent pilots provided eyewitness testimonies of Scythe-class vessels hunting survivors.
+persons:
+- Luca Redondo
+- Timothy Culver
 groups:
 - Aegis
 locations:
@@ -13,12 +18,7 @@ topics:
 - humanitarian
 - research
 arc_id: thargoid-titan-war
-modern_impact: "Redondo's testimony — 'A part of me wanted to start blasting the escape pods rather than let those poor people be eaten, or experimented on' — is visceral. The anonymous woman's story — 'Their last message was so happy... But there was no tomorrow. Just static from the entire system' — is heartbreaking. Culver's counterargument — 'Humans have been capturing and experimenting on Thargoids since we first encountered them' — is morally provocative. His reference to Rakowski's report shows how non-aggressive encounters fuel the peace movement."
-persons:
-- Luca Redondo
-- Timothy Culver
-player_impact: "Independent pilots provided eyewitness testimonies of Scythe-class vessels hunting survivors."
-summary: "Eyewitness accounts and personal stories confirm Thargoid mass abductions, with public pressure mounting on Aegis to act while xeno-peace activists offer alternative perspectives."
+modern_impact: Redondo's testimony — 'A part of me wanted to start blasting the escape pods rather than let those poor people be eaten, or experimented on' — is visceral. The anonymous woman's story — 'Their last message was so happy... But there was no tomorrow. Just static from the entire system' — is heartbreaking. Culver's counterargument — 'Humans have been capturing and experimenting on Thargoids since we first encountered them' — is morally provocative. His reference to Rakowski's report shows how non-aggressive encounters fuel the peace movement.
 legacy_weight: 4
 significance: high
 related_uuids:

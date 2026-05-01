@@ -4,6 +4,11 @@ title: Winters Acknowledges Growing Calls for Inauguration
 slug: winters_acknowledges_growing_calls_for_inauguration
 date: '3310-09-17'
 source: API
+summary: President-elect Felicia Winters acknowledges growing discontent in Federal Congress over her delayed inauguration following the Rhea 3 earthquakes, and announces she will step back from direct recovery efforts to prepare for taking office.
+player_impact: Pilots contributed to Rhea 3 relief and recovery efforts during Winters' extended leave, preparing the planet for the new President-elect's eventual inauguration.
+persons:
+- Felicia Winters
+- Ewan Klein
 groups:
 - Federal Congress
 locations:
@@ -13,12 +18,7 @@ topics:
 - humanitarian
 - politics
 arc_id: null
-modern_impact: "Winters' statement — 'Nothing can ever repair the hole left in my heart following the tragedy on Rhea 3' — humanises a political figure rarely shown with vulnerability. The revelation that 'six members of Winter's family' died in New Greenacre explains the depth of her grief. Her pledge to 'step back from personally directing the recovery' sets up the October 31 inauguration."
-persons:
-- Felicia Winters
-- Ewan Klein
-player_impact: "Pilots contributed to Rhea 3 relief and recovery efforts during Winters' extended leave, preparing the planet for the new President-elect's eventual inauguration."
-summary: "President-elect Felicia Winters acknowledges growing discontent in Federal Congress over her delayed inauguration following the Rhea 3 earthquakes, and announces she will step back from direct recovery efforts to prepare for taking office."
+modern_impact: Winters' statement — 'Nothing can ever repair the hole left in my heart following the tragedy on Rhea 3' — humanises a political figure rarely shown with vulnerability. The revelation that 'six members of Winter's family' died in New Greenacre explains the depth of her grief. Her pledge to 'step back from personally directing the recovery' sets up the October 31 inauguration.
 legacy_weight: 3
 significance: medium
 related_uuids:

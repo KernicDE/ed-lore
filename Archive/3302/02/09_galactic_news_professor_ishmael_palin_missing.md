@@ -19,14 +19,10 @@ topics:
 - research
 - ship
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Professor Ishmael Palin Missing
-
 
 Authorities in The Maia system have reported that Professor Ishmael Palin, the scientist conducting research into the Unknown Artefacts, has disappeared. The professor recently announced plans to set up an Independent research outpost on the planet Maia b1ba, but it has now been confirmed that the ship carrying Palin and his team did not reach Its destination. Seneca Toule, a security officer based in Maia, released a brief statement to the media: 
 

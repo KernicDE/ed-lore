@@ -22,9 +22,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Ram Tah Makes Breakthrough
-
-
 Since The Synuefe ruins were discovered in October, Hundreds of explorers, archaeologists and relic hunters have scoured the site for information about the race that created it. When engineer Ram Tah started researching the ruins, hundreds more joined the search, motivated either by a thirst for knowledge or by the promise of reward. 
 
 Now, Ram Tah claims to have made a significant breakthrough. In a statement, he said: 

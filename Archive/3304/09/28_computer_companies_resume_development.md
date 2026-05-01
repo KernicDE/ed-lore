@@ -30,9 +30,6 @@ related_uuids:
 - e43008b8-1289-5c69-9d20-41b74e0e1ec1
 ---
 
-Computer Companies Resume Development
-
-
 Rival companies Herculean Machines and Supratech have resumed development of their new personal computers. 
 
 Harlow Nassry, technology journalist at The Federal Times, has been following events: 

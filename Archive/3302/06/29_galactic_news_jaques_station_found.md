@@ -16,19 +16,15 @@ locations:
 - Jaques Station
 - Gliese 1269
 - Beagle Point
-technologies:
-- meta-alloys
 topics:
 - construction
+technologies:
+- meta-alloys
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Jaques Station Found!
-
 
 Two weeks ago it was reported that Jaques Station, The legendary travelling starport, had survived Its attempt to jump from Gliese 1269 to Beagle Point. 
 

@@ -13,20 +13,17 @@ groups:
 - Gutamaya Shipyards
 - Imperial Herald
 locations: []
+topics:
+- ship
+- succession
 technologies:
 - Imperial Fighter
 - Eagle
 - F63 Condor
-topics:
-- ship
-- succession
 modern_impact: The Imperial Fighter expands CQC options and serves as a lasting tribute to Emperor Hengist Duval's legacy.
 legacy_weight: 1
 significance: low
 ---
-
-Gutamaya Shipyards Announces The Imperial Fighter
-
 
 In September, Gutamaya Shipyards released a new version of the enduringly popular Eagle. This month, the company has announced the launch of a new fighter designed specifically for the CQC Championship – the Imperial Fighter. Gutamaya has said that The small, manoeuvrable Vessel will be ideally suited to close-quarters dogfights, and more than capable of going toe-to-toe With Other CQC fighters. 
 

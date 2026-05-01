@@ -4,7 +4,12 @@ title: Azimuth Plans Corporate Convention
 slug: azimuth_plans_corporate_convention
 date: '3309-07-10'
 source: API
-entities: []
+summary: Azimuth Biotech plans an invitation-only business convention to seek partnerships, with speculation about a new weapon schematic and concerns about corporate secrecy.
+player_impact: Not specifically mentioned — this is a corporate announcement.
+persons:
+- Torben Rademaker
+- Marlon Royce
+- Aanya Gupta
 groups:
 - Azimuth Biotech
 locations:
@@ -14,14 +19,9 @@ topics:
 - corporate expansion
 - research
 - war
+entities: []
 arc_id: salvation-azimuth
-modern_impact: "Rademaker's framing — 'Aegis's questionable policy of providing utility modules over increased firepower' — is competitive sniping. Royce's analysis — 'the convention precedes the announcement of a weapon schematic redesign' — is insightful. The mention of 'Operation Wych Hunt disruption' and the use of 'private couriers to transport guests' shows Azimuth's paranoia. The attendance of Herculean Machines, Space Lanes Cargo, and Holloway Bioscience Institute signals potential alliances."
-persons:
-- Torben Rademaker
-- Marlon Royce
-- Aanya Gupta
-player_impact: "Not specifically mentioned — this is a corporate announcement."
-summary: "Azimuth Biotech plans an invitation-only business convention to seek partnerships, with speculation about a new weapon schematic and concerns about corporate secrecy."
+modern_impact: Rademaker's framing — 'Aegis's questionable policy of providing utility modules over increased firepower' — is competitive sniping. Royce's analysis — 'the convention precedes the announcement of a weapon schematic redesign' — is insightful. The mention of 'Operation Wych Hunt disruption' and the use of 'private couriers to transport guests' shows Azimuth's paranoia. The attendance of Herculean Machines, Space Lanes Cargo, and Holloway Bioscience Institute signals potential alliances.
 legacy_weight: 5
 significance: high
 related_uuids:

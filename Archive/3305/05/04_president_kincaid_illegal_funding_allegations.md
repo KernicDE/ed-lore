@@ -4,6 +4,8 @@ title: President Kincaid Illegal Funding Allegations
 slug: president_kincaid_illegal_funding_allegations
 date: '3305-05-04'
 source: GitHub
+summary: President Gibson Kincaid is accused of receiving billions in undeclared campaign funds from the Bank of Zaonce, prompting the Alliance Assembly to open an official inquiry.
+player_impact: None — background political report.
 persons:
 - Gibson Kincaid
 - Elijah Beck
@@ -20,8 +22,6 @@ topics:
 - politics
 - scandal
 arc_id: alliance-expansion
-summary: President Gibson Kincaid is accused of receiving billions in undeclared campaign funds from the Bank of Zaonce, prompting the Alliance Assembly to open an official inquiry.
-player_impact: None — background political report.
 modern_impact: The illegal funding allegations were the first major crack in Kincaid's presidency, triggering a chain of revelations that would eventually expose his murderous conspiracy and lead to impeachment.
 legacy_weight: 4
 significance: high
@@ -30,9 +30,6 @@ related_uuids:
 - 89ca282d-1ecf-588b-90ed-37e0e6c76c13
 - 508242c8-bd72-5b14-a5ce-fd74e32b0e69
 ---
-
-President Kincaid Illegal Funding Allegations
-
 
 President Gibson Kincaid has been accused of receiving illegal campaign funding via The Bank of Zaonce. 
 

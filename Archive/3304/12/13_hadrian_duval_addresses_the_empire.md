@@ -26,9 +26,6 @@ related_uuids:
 - bdb0de1b-ffe3-508e-95ac-53d4eaa709aa
 ---
 
-Hadrian Duval Addresses The Empire
-
-
 Hadrian Augustus Duval, the long-lost grandson of Emperor Hengist Duval, has broadcast a message to the Empire: 
 
 “I am no wealthy senator from an entitled family, but someone who has lived an ordinary life. Someone who understands the hardships faced by Many Imperial citizens.” 

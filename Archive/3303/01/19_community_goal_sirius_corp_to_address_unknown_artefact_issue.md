@@ -12,20 +12,17 @@ groups:
 locations:
 - Procyon
 - Cormack Hub
-technologies: []
 topics:
 - construction
 - corporate expansion
 - research
 - ship
+technologies: []
 arc_id: unknown-artefacts
 modern_impact: Sirius Corporation initiates research to counter Unknown Artefact starport disruption using delivered microresources.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Sirius Corp. to Address Unknown-Artefact Issue
-
 
 It is widely understood that Unknown Artefacts have The ability to extract materials from their immediate environment as part of a complex self-repair process. Unfortunately, This can have disastrous effects on starships and Other forms of machinery. 
 

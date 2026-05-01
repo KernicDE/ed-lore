@@ -12,19 +12,15 @@ groups:
 locations:
 - Snow Moon
 - Bento
-technologies: []
 topics:
 - festival
 - ship
 - trade
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
+technologies: []
+modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---
-
-Appeal for Crystalline Spheres Comes to an End
-
 
 Last week, The Hel Purple Energy Industry launched a public appeal for crystalline spheres to commemorate the upcoming winter solstice festival – a tradition from Earth's ancient past. Hundreds of Independent pilots got into the spirit of the occasion, taking to their ships to deliver the requested commodities to Snow Moon in the Bento system. A spokesperson for the Hel Purple Energy Industry said: 
 

@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Bluford Orbital Nears Completion
-
-
 LHS 3447 Dynamic and Co has announced that The campaign to construct a new starport in the LHS 3447 system has reached a successful conclusion. All the necessary materials for the starport have now been received, and the agitators disrupting delivery operations have been neutralised. A spokesperson for the Pilots Federation, Which helped to organise the campaign, released a brief statement: 
 
 "Once again the galaxy's Independent pilots have demonstrated their remarkable commitment and resolve. This new starport will facilitate travel and trade throughout LHS 3447, and serve as a testament to the dedication and altruism of the galactic community." 

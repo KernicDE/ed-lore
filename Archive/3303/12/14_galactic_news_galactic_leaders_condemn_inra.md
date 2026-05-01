@@ -27,9 +27,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Galactic Leaders Condemn INRA
-
-
 Following The discovery of Further INRA outposts, Emperor Arissa Lavigny-Duval and Alliance Prime Minister Edmund Mahon have issued statements denouncing the now-defunct INRA. 
 
 Speaking from the Imperial Palace on Capitol, Emperor Arissa Lavigny-Duval said: 

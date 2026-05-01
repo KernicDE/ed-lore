@@ -13,18 +13,14 @@ groups:
 locations:
 - Colonia
 - Jaques Station
-technologies: []
 topics:
 - war
+technologies: []
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Conflict in Colonia Ends
-
 
 Authorities in The Colonia system have confirmed that the conflict between The Nameless and the peacekeepers of the Colonia Council has come to an end. 
 

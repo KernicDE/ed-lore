@@ -4,7 +4,11 @@ title: Azimuth Releases New AX Weapon
 slug: azimuth_releases_new_ax_weapon
 date: '3309-07-20'
 source: API
-entities: []
+summary: Azimuth's convention succeeds and the new Overcharged Gimballed AX Multi-Cannon with Auto Loader is released, with speculation about Holloway Bioscience Institute collaboration.
+player_impact: Pilots who delivered rare goods to Musashi and bounty vouchers from Cartier City are reimbursed.
+persons:
+- Torben Rademaker
+- Aanya Gupta
 groups:
 - Azimuth Biotech
 locations:
@@ -15,13 +19,9 @@ locations:
 topics:
 - corporate expansion
 - research
+entities: []
 arc_id: salvation-azimuth
-modern_impact: "Rademaker's confidence — 'my company has proved that its ingenuity and experience in developing anti-xeno weaponry cannot be surpassed' — is typical corporate bluster. The Empirical's observation about Holloway's expertise — 'If Azimuth were to forge closer ties with the institute, the resulting xenological research capabilities might even surpass those of Aegis' — is significant for the scientific rivalry."
-persons:
-- Torben Rademaker
-- Aanya Gupta
-player_impact: "Pilots who delivered rare goods to Musashi and bounty vouchers from Cartier City are reimbursed."
-summary: "Azimuth's convention succeeds and the new Overcharged Gimballed AX Multi-Cannon with Auto Loader is released, with speculation about Holloway Bioscience Institute collaboration."
+modern_impact: Rademaker's confidence — 'my company has proved that its ingenuity and experience in developing anti-xeno weaponry cannot be surpassed' — is typical corporate bluster. The Empirical's observation about Holloway's expertise — 'If Azimuth were to forge closer ties with the institute, the resulting xenological research capabilities might even surpass those of Aegis' — is significant for the scientific rivalry.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -29,7 +29,7 @@ related_uuids:
 - 582f415f-4da7-5803-abee-6edac568efc6
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Rare goods delivered to Xi Wangda helped ensure that Azimuth Biotech’s arms convention was a success.
 CEO Torben Rademaker confirmed the initiative’s completion:
 “From today, the Overcharged Gimballed AX Multi-Cannon with Auto Loader is available at all rescue megaships, as well as Azimuth Biotech’s core markets.  I am confident that this will prove useful those brave pilots who enter combat with Thargoid ships. Once again, my company has proved that its ingenuity and experience in developing anti-xeno weaponry cannot be surpassed.”

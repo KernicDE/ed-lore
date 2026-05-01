@@ -4,6 +4,8 @@ title: Federation Goes All In
 slug: federation_goes_all_in
 date: '3301-06-10'
 source: GitHub
+summary: Following the failed Federal invasion of Eranin in late 3300, Federal and Alliance campaigners clashed politically in the Dahan sector. Mahon supporters successfully convinced many residents that Alliance membership was preferable to Federal taxation, but lacked resources to capitalise. The real winner appears to be Shadow President Winters, whose Liberals took the lead in historically Republican Aulin and are establishing a new command centre aboard Aulin Enterprise. Republican and Liberal party members have been recruiting supporters around the clock.
+player_impact: Pilots can support Federal or Alliance political campaigns in Dahan and Aulin, influencing which power gains influence in the sector.
 persons:
 - Edmund Mahon
 - Zachary Hudson
@@ -23,18 +25,11 @@ topics:
 - politics
 - war
 arc_id: federal-politics
-summary: Following the failed Federal invasion of Eranin in late 3300, Federal and Alliance campaigners clashed politically in the Dahan sector. Mahon supporters successfully convinced many residents that Alliance membership was preferable to Federal taxation, but lacked resources to capitalise. The real winner appears to be Shadow President Winters, whose Liberals took the lead in historically Republican Aulin and are establishing a new command centre aboard Aulin Enterprise. Republican and Liberal party members have been recruiting supporters around the clock.
-player_impact: Pilots can support Federal or Alliance political campaigns in Dahan and Aulin, influencing which power gains influence in the sector.
 modern_impact: Political battle between Federation and Alliance in Dahan reveals Winters' Liberals gaining ground even in traditionally Republican strongholds.
 legacy_weight: 3
 significance: medium
 ---
 
-Federation Goes All In
-
-
-Federation Goes All In 
- 
 In late 3300, The small Federal system of Dahan Found itself being used as a staging area for a prolonged military campaign against The Independent nation of Eranin. Eventually, Eranin managed to force back The Federal invasion. Although not before heavy losses were incurred by both sides. 
 
 This week that region once again became a hotbed, though This time of political activity, as both Federal and Alliance campaigners turned out in force in an attempt to exert their influence over the sector. 

@@ -47,9 +47,6 @@ related_uuids:
 - 770bbc53-d363-5422-91d6-1cb7c812168e
 ---
 
-Week in Review
-
-
 Here are This week’s main stories. 
 
 Federal Shadow President Felicia Winters has appointed Isolde Rochester As the deputy leader of The Federation’s Liberal Party. The new Shadow Vice President is the matriarch of the powerful Rochester family, Which includes the CEO of Core Dynamics and two Federal Navy officers. Vice President Rochester said she was honoured to accept the position. 

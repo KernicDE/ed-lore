@@ -4,10 +4,7 @@ title: Galactic News  Federation Addresses Rumours
 slug: galactic_news_federation_addresses_rumours
 date: '3303-09-22'
 source: GitHub
-summary: Lieutenant Jarah Kael of the Federal Navy addresses rumours that Thargoids
-  attacked in self-defence, stating that black box data from the Farragut-class Battlecruiser
-  proves the attack was unprovoked. Aegis corroborates that the convoy was attacked
-  without provocation by multiple Thargoid vessels.
+summary: Lieutenant Jarah Kael of the Federal Navy addresses rumours that Thargoids attacked in self-defence, stating that black box data from the Farragut-class Battlecruiser proves the attack was unprovoked. Aegis corroborates that the convoy was attacked without provocation by multiple Thargoid vessels.
 player_impact: None
 persons:
 - Jarah Kael
@@ -16,22 +13,18 @@ groups:
 - Federal Navy
 locations:
 - Pleiades Sector IR-W d1-55
-technologies:
-- Farragut-class Battlecruiser
 topics:
 - alien contact
 - research
 - ship
 - war
+technologies:
+- Farragut-class Battlecruiser
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Federation Addresses Rumours
-
 
 Following news that a Federal convoy was destroyed by Thargoid vessels in The Pleiades Sector IR-W d1-55 system, Lieutenant Jarah Kael of the Federal Navy has addressed rumours that the Thargoids may have attacked in self-defence. 
 

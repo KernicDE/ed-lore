@@ -29,9 +29,6 @@ related_uuids:
 - 8b7e7872-e984-5ea3-9371-f968c51d78a3
 ---
 
-Alliance Gala Initiative Concludes
-
-
 The Alioth Independents has announced that Its appeal for exotic food and drink has reached a successful conclusion, having received an overwhelming response from The galactic community. Huge quantities of Esuseku Caviar, Ceremonial Heike Tea and Live Hecate Sea Worms were delivered to Smith Landing over the past week, Which will now be used to host their gala event. 
 
 With the initiative at an end, Durien Ballas, chairman of the Alioth Independents, issued The following statement: 

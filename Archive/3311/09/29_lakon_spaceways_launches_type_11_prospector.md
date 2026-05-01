@@ -4,6 +4,9 @@ title: Lakon Spaceways Launches Type-11 Prospector
 slug: lakon_spaceways_launches_type_11_prospector
 date: '3311-09-29'
 source: API
+summary: Lakon Spaceways announced the early release of the Type-11 Prospector, a dedicated laser mining vessel with an exclusive Large Mining Hardpoint and fighter bay, and launched sponsored field trials with Alioth Independents.
+player_impact: Independent pilots delivered mined commodities for sponsored mining trials with Alioth Independents. All laser and core mining ships could participate.
+persons: []
 groups:
 - Lakon Spaceways
 locations:
@@ -13,14 +16,11 @@ topics:
 - piracy
 - ship
 - trade
-persons: []
 technologies:
 - Type-11 Prospector
 - Mk II Mining Multi-Limpet Controller
 - Large Mining Hardpoint
-player_impact: "Independent pilots delivered mined commodities for sponsored mining trials with Alioth Independents. All laser and core mining ships could participate."
-summary: "Lakon Spaceways announced the early release of the Type-11 Prospector, a dedicated laser mining vessel with an exclusive Large Mining Hardpoint and fighter bay, and launched sponsored field trials with Alioth Independents."
-modern_impact: "The fighter bay on a dedicated mining vessel acknowledges that piracy in ring systems is an operational reality, not an edge case. By pairing mining specialisation with combat survivability, Lakon creates a new ship category: the armed industrial vessel. This philosophy reappears in the 3312 Type-11 Prospector with its fighter bay for pirate defence."
+modern_impact: 'The fighter bay on a dedicated mining vessel acknowledges that piracy in ring systems is an operational reality, not an edge case. By pairing mining specialisation with combat survivability, Lakon creates a new ship category: the armed industrial vessel. This philosophy reappears in the 3312 Type-11 Prospector with its fighter bay for pirate defence.'
 legacy_weight: 2
 significance: low
 related_uuids:

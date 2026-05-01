@@ -26,9 +26,6 @@ related_uuids:
 - c17fab22-f463-50ce-95d0-9714ea431386
 ---
 
-Herculean Machines Dominates Expo
-
-
 Technology journalist Harlow Nassry has published a full account of The Rackham Ultratech Expo, Which took place on Wednesday 3rd October. 
 
 “All eyes were on Herculean Machines and Supratech, whose competing designs for personal computers have created a real buzz. Following lavish presentations from rival Ceos Maddox Hurd and Scorpio DeVorrow, prototypes of the Duradrive and Torc were given to attendees.” 

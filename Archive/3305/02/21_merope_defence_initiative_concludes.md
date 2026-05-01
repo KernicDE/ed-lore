@@ -4,6 +4,8 @@ title: Merope Defence Initiative Concludes
 slug: merope_defence_initiative_concludes
 date: '3305-02-21'
 source: GitHub
+summary: The Atlas Research Group's military supply campaign for Merope concludes successfully, with delivered reactive armour and military grade fabrics enhancing the system's defences against Thargoid attacks.
+player_impact: Contributing pilots could collect rewards from Reed's Rest in the Merope system.
 persons:
 - Jacob Chowdhury
 groups:
@@ -15,17 +17,12 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-summary: The Atlas Research Group's military supply campaign for Merope concludes successfully, with delivered reactive armour and military grade fabrics enhancing the system's defences against Thargoid attacks.
-player_impact: Contributing pilots could collect rewards from Reed's Rest in the Merope system.
 modern_impact: The successful Merope defence initiative demonstrated the ongoing necessity of community-supported military logistics on the Thargoid frontier, where system security remained dependent on pilot deliveries.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - d77c5375-5970-5d66-9b49-e5491ec299ad
 ---
-
-Merope Defence Initiative Concludes
-
 
 A military supply campaign to increase security in The Merope system has concluded successfully. 
 

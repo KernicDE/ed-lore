@@ -4,9 +4,6 @@ title: Prism Senator Summoned to Achenar
 slug: prism_senator_summoned_to_achenar
 date: '3301-05-06'
 source: GitHub
-entities:
-- Loren
-- Summoned
 groups:
 - Alliance
 - Imperial Herald
@@ -21,15 +18,14 @@ topics:
 - ship
 - slavery
 - war
+entities:
+- Loren
+- Summoned
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Prism Senator Summoned to Achenar
-
 
 Senator Kahina Tijani Loren’s Imperial Courier was seen departing early morning local time from The Avalon shipyards. It rendezvoused With the Imperial Interdictor Atticus, Admiral Brice last known to be in command. 
 

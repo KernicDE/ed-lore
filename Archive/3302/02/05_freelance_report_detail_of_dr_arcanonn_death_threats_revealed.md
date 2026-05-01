@@ -25,14 +25,10 @@ topics:
 - research
 - war
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Freelance Report: Detail of Dr Arcanonn Death Threats Revealed
-
 
 Nelson De Rosa, chief of security for The Canonn Interstellar Research Group, has released a statement to the media: 
 

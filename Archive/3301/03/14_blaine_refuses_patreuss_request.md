@@ -4,20 +4,17 @@ title: Blaine Refuses Patreus’s Request
 slug: blaine_refuses_patreuss_request
 date: '3301-03-14'
 source: GitHub
-entities:
-- Blaine made
 locations:
 - Denton
 topics:
 - medicine
 - succession
+entities:
+- Blaine made
 modern_impact: Medical crisis or health initiative affecting galactic populations.
 legacy_weight: 2
 significance: low
 ---
-
-Blaine Refuses Patreus’s Request
-
 
 Chancellor Blaine made a rare appearance at today’s Senate meeting in order to address remarks made earlier in The week by Senator Denton Patreus. 
 

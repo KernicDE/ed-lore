@@ -14,23 +14,19 @@ groups:
 - Empire
 locations:
 - Pleiades Nebula
-technologies:
-- Thargoid Interceptor
-- attack drones
-- escape pods
 topics:
 - alien contact
 - ship
 - war
+technologies:
+- Thargoid Interceptor
+- attack drones
+- escape pods
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Thargoid Threat Continues to Escalate
-
 
 Numerous sources have reported that Thargoid activity has escalated dramatically in recent days, With attacks from Thargoid Interceptor-class ships becoming increasingly common in The Pleiades Nebula. Reports confirm that Imperial, Federal and civilian ships have all been targeted. Images captured by survivors of these attacks show Thargoid ships scanning wreckage and gathering debris, including occupied escape pods. 
 

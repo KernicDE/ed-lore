@@ -26,9 +26,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Morrina in Need
-
-
 The people of The Morrina system have endured considerable hardship recently, first at the hand of criminal gangs and then as a result of widespread civil unrest. Although a recent military operation succeeded in eliminating the agitators operating in the system, much of Morrina has been badly affected by the conflict, and Many citizens are suffering from a lack of water and power. 
 
 In response to This, the Spinward Marches Alliance Concern has launched an appeal for essential supplies in order to undo the damage caused by the extended conflict. The organisation has placed an open order for basic medicines, water purifiers and power generators, and has promised to generously reward pilots who deliver these commodities to Beaumont Dock. 

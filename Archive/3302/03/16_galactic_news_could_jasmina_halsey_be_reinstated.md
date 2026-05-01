@@ -23,9 +23,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Could Jasmina Halsey be Reinstated?
-
-
 Following The extraordinary rescue of former Federal President Jasmina Halsey, whose escape pod was recovered from the wreckage of Starship One, questions have been asked about her possible return to power. According to an anonymous source within the Federal government, Several senior-level politicians have voiced the opinion that, should she make a full recovery, Halsey ought to be allowed to serve out the remainder of her term. 
 
 Simon Newell, a legal advisor to the Federal government, spoke to the Federal Times earlier today. 

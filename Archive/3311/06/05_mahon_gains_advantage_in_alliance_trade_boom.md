@@ -4,6 +4,12 @@ title: Mahon Gains Advantage in Alliance Trade Boom
 slug: mahon_gains_advantage_in_alliance_trade_boom
 date: '3311-06-05'
 source: API
+summary: Supporters of Edmund Mahon win an aggressive trade war in Alliance space following Sirius Corporation's withdrawal from Allied military infrastructure. The trade bloc victory is expected to secure lucrative contracts.
+player_impact: Pilots participated in a two-week trade war by shipping cargo for either Mahon's or Kaine's trade bloc. Rewards available at Bowersox Port in Winiama and Fuca Dock in Apura respectively.
+persons:
+- Edmund Mahon
+- Nakato Kaine
+- Irfan Karim
 groups:
 - Alliance
 - Sirius Corporation
@@ -14,19 +20,8 @@ topics:
 - ship
 - trade
 - war
-persons:
-- Edmund Mahon
-- Nakato Kaine
-- Irfan Karim
 technologies: []
-player_impact: 'Pilots participated in a two-week trade war by shipping cargo for
-  either Mahon''s or Kaine''s trade bloc. Rewards available at Bowersox Port in Winiama
-  and Fuca Dock in Apura respectively.'
-summary: 'Supporters of Edmund Mahon win an aggressive trade war in Alliance space
-  following Sirius Corporation''s withdrawal from Allied military infrastructure. The
-  trade bloc victory is expected to secure lucrative contracts.'
-modern_impact: 'This trade competition highlighted the economic realignment within
-  the Alliance after the Sirius Strategic Defence Pact''s termination.'
+modern_impact: This trade competition highlighted the economic realignment within the Alliance after the Sirius Strategic Defence Pact's termination.
 legacy_weight: 3
 significance: medium
 related_uuids:

@@ -26,9 +26,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Bringing Back The Bourbon
-
-
 Rumours from the Epsilon Indi system suggest that the United Epsilon Indi Flag is recruiting Independent Commanders for a campaign called 'Bribes 4 Bourbon'. In a series of illicit meetings with system officials, the organisation reportedly secured an agreement to revise the status of Indi Bourbon and make it a legal beverage. 
 
 Yulia 'The Needle' Kuriakova, a spokeswoman for the organisation, said: 

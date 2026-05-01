@@ -13,14 +13,10 @@ topics:
 - ship
 - war
 arc_id: banki-liberation
-modern_impact: The Banki liberation campaign demonstrates the power of organised independent
-  pilot action.
+modern_impact: The Banki liberation campaign demonstrates the power of organised independent pilot action.
 legacy_weight: 2
 significance: low
 ---
-
-Restoring Sanity to Anarchy in Banki and BD+03 2338
-
 
 As the Federal Navy begins to move into position around Banki and BD+03 2338, Independent Commanders from all corners of The galaxy have started gathering at Antonio De Andrade Vista in Banki and Matteucci Terminal in Khasiri in preparation for The final set of engagements against the Federal rebels.   
 

@@ -12,17 +12,13 @@ groups:
 locations:
 - HIP 110028
 - Zander Dock
-technologies: []
 topics:
 - trade
-modern_impact: A regional trade initiative that brought economic activity to a remote
-  border colony.
+technologies: []
+modern_impact: A regional trade initiative that brought economic activity to a remote border colony.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Winged Hussars Appeal Comes to an End
-
 
 A spokesperson for The Winged Hussars has announced that Its appeal for rare liquors was enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Zander Dock, the organisation’s base of operations. 
 

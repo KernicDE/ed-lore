@@ -4,7 +4,8 @@ title: Federal Citizens Approve Government Scrutiny
 slug: federal_citizens_approve_government_scrutiny
 date: '3307-05-14'
 source: API
-arc_id: federal-politics
+summary: The Proactive Detection Bureau dramatically increases its surveillance range after Hudson's data campaign succeeds. Deputy Director Bethany Blake announces arrest rates have soared and crime rings dismantled. Advocacy director Rhiannon Grady warns the Federation has taken a large step toward becoming a police state.
+player_impact: None directly; this is a surveillance programme outcome report.
 persons:
 - Bethany Blake
 - Zachary Hudson
@@ -17,18 +18,17 @@ groups:
 locations:
 - Sol
 - Federal Congress
-technologies:
-- Proactive Detection Bureau surveillance system
 topics:
 - crime
-player_impact: None directly; this is a surveillance programme outcome report.
-summary: The Proactive Detection Bureau dramatically increases its surveillance range after Hudson's data campaign succeeds. Deputy Director Bethany Blake announces arrest rates have soared and crime rings dismantled. Advocacy director Rhiannon Grady warns the Federation has taken a large step toward becoming a police state.
+technologies:
+- Proactive Detection Bureau surveillance system
+arc_id: federal-politics
 modern_impact: The PDB's expanded reach sets a precedent for mass surveillance that becomes increasingly difficult to reverse, contributing to the Federal secession crisis later in the year.
+legacy_weight: 4
+significance: medium
 related_uuids:
 - 73019977-6f1c-5f34-9546-b39a55a45f2d
 - f75a0955-badc-5c1c-894f-410860377f39
-legacy_weight: 4
-significance: medium
 ---
 
 The Proactive Detection Bureau, Which monitors all civil communications in the Federation, has received a boost from the galactic community.

@@ -14,23 +14,20 @@ groups:
 locations:
 - Carthage
 - Marker Depot
-technologies:
-- Majestic-class Interdictor
-- thallium
-- thermal cooling units
-- CMM composites
 topics:
 - construction
 - diplomacy
 - succession
 - war
+technologies:
+- Majestic-class Interdictor
+- thallium
+- thermal cooling units
+- CMM composites
 modern_impact: Infrastructure project with long-term benefits.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: A Majestic Development
-
 
 Lavigny's Legion, an Imperial organisation based in The Carthage system, has launched a campaign to add three new Majestic-class Interdictors to the Imperial fleet. 
 

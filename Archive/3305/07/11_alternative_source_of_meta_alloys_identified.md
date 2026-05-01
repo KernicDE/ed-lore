@@ -4,13 +4,15 @@ title: Alternative Source of Meta Alloys Identified
 slug: alternative_source_of_meta_alloys_identified
 date: '3305-07-11'
 source: GitHub
+summary: Aegis confirms the Witch Head Nebula contains sufficient barnacle sites to replace depleted Pleiades sources. All three superpowers dispatch advance teams to establish megaships and Ocellus starports.
+player_impact: Pilots can participate in superpower initiatives via mission boards to support Witch Head colonisation.
+persons:
+- Alba Tesreau
 groups:
 - Aegis
 - Alliance
 - Empire
 - Federation
-persons:
-- Alba Tesreau
 locations:
 - Pleiades Nebula
 - Witch Head Nebula
@@ -18,13 +20,7 @@ topics:
 - exploration
 - alien contact
 - construction
-summary: Aegis confirms the Witch Head Nebula contains sufficient barnacle sites to replace
-  depleted Pleiades sources. All three superpowers dispatch advance teams to establish megaships
-  and Ocellus starports.
-player_impact: Pilots can participate in superpower initiatives via mission boards to support
-  Witch Head colonisation.
-modern_impact: The discovery of alternative meta-alloy sources triggers a colonial rush to
-  the Witch Head Nebula, setting the stage for Thargoid conflict.
+modern_impact: The discovery of alternative meta-alloy sources triggers a colonial rush to the Witch Head Nebula, setting the stage for Thargoid conflict.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,9 +28,6 @@ related_uuids:
 - 969713a8-6dbf-548c-9ce4-4d33ba1f321a
 - 40eaaec9-0df7-56f2-b5ca-61180338dd12
 ---
-
-Alternative Source of Meta-Alloys Identified
-
 
 The Witch Head Nebula has been confirmed as a primary source of meta-alloys, following an initiative hosted by Aegis Research. The news has triggered efforts to swiftly establish a human presence in the area. 
 

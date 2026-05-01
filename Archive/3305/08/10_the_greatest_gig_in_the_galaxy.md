@@ -4,26 +4,20 @@ title: The Greatest Gig in the Galaxy
 slug: the_greatest_gig_in_the_galaxy
 date: '3305-08-10'
 source: GitHub
-groups:
-- Alliance
+summary: The Alliance Festival of Culture's third week features a massive music festival in the Phekda system. Legendary singer-songwriter Xiona comes out of retirement for a special one-off performance.
+player_impact: None
 persons:
 - Corinne Macintyre
+groups:
+- Alliance
 locations:
 - Phekda
 topics:
 - festival
-summary: The Alliance Festival of Culture's third week features a massive music festival
-  in the Phekda system. Legendary singer-songwriter Xiona comes out of retirement for a special
-  one-off performance.
-player_impact: None
-modern_impact: The music festival reinforces the Alliance's cultural identity and demonstrates
-  its ability to host galaxy-spanning entertainment events.
+modern_impact: The music festival reinforces the Alliance's cultural identity and demonstrates its ability to host galaxy-spanning entertainment events.
 legacy_weight: 1
 significance: low
 ---
-
-The Greatest Gig in the Galaxy
-
 
 The Alliance Festival of Culture enters Its third week With a massive music festival in the Phekda system drawing thousands of attendees. Organisers are calling the event ‘the greatest gig in the galaxy’. 
 

@@ -4,25 +4,22 @@ title: Prince Harold Duval Assassinated
 slug: prince_harold_duval_assassinated
 date: '3306-09-14'
 source: GitHub
-groups:
-- NMLA
+summary: NMLA terrorists assassinate Prince Harold Duval during an incognito journey to visit his daughter Aisling Duval in Cemiess. A single infiltrator shot the Prince at close range before being killed by guards.
+player_impact: None
 persons:
 - Harold Duval
 - Gwendolyn Nash
 - Aisling Duval
 - Hengist Duval
+groups:
+- NMLA
 locations:
 - Capitol
 - Cemiess
 topics:
 - terrorism
 - succession
-summary: NMLA terrorists assassinate Prince Harold Duval during an incognito journey
-  to visit his daughter Aisling Duval in Cemiess. A single infiltrator shot the Prince
-  at close range before being killed by guards.
-player_impact: None
-modern_impact: The assassination of a member of the Imperial Family by NMLA terrorists
-  marks a shocking escalation and triggers Imperial counter-terrorism measures.
+modern_impact: The assassination of a member of the Imperial Family by NMLA terrorists marks a shocking escalation and triggers Imperial counter-terrorism measures.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,9 +28,6 @@ related_uuids:
 - 66aa5796-1028-5707-8ed1-7049881273b8
 - ea29f582-91a6-5340-9840-3d76cc07f494
 ---
-
-Prince Harold Duval Assassinated
-
 
 Prince Harold Duval is dead after a targeted assassination attempt by The Neo-Marlinist Liberation Army. 
 

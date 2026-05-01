@@ -12,17 +12,14 @@ groups:
 locations:
 - Qa'wakana
 - Carpini Terminal
-technologies: []
 topics:
 - construction
 - war
+technologies: []
 modern_impact: New Knights of Karma mining facility in Qa'wakana expected to stimulate local economic growth and mineral extraction.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Knights of Karma Appeal Concludes
-
 
 The Knights of Karma have announced that their plan to establish a new mining facility in the Qa’wakana system has been warmly received by the galactic community. The organisation’s targets for materials have been met, and work on the new facility is expected to start soon.  
 

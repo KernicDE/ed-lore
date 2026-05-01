@@ -21,9 +21,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Buckyball Presents Heavy Metal Megadeth
-
-
 Following The success of the Total Recall 2 event, the Pilots Federation has asked the Buckyball Racing Club to help it investigate a pressing safety issue. 
 
 Since the start of the year, the Pilots Federation has noticed a sharp increase in The number of crash landings on high-gravity planets. To assess whether or not ship thrusters require an across-the-board power increase, the organisation has asked the Buckyball Racing Club to organise an event that pushes ships to their maximum tolerance during high-gravity landings. 

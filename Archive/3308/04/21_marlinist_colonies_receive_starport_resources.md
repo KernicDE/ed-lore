@@ -4,7 +4,8 @@ title: Marlinist Colonies Receive Starport Resources
 slug: marlinist_colonies_receive_starport_resources
 date: '3308-04-21'
 source: API
-arc_id: null
+summary: Construction of new Marlinist starports begins after successful material deliveries to HIP 22550.
+player_impact: Pilots who delivered materials can collect rewards from Stillman Hub.
 persons:
 - Octavia Volkov
 - Kayode Tau
@@ -18,17 +19,16 @@ topics:
 - diplomacy
 - succession
 - war
-player_impact: Pilots who delivered materials can collect rewards from Stillman Hub.
-summary: Construction of new Marlinist starports begins after successful material deliveries to HIP 22550.
-modern_impact: "\"Not for the first time in our turbulent history, we are indebted to all pilots who have shown support for the Marlinist Colonies.\" The completion of the starport project marked both a logistical milestone for the Marlinist Republic-in-formation and a symbolic assertion of independence from Imperial infrastructure."
+arc_id: null
+modern_impact: '"Not for the first time in our turbulent history, we are indebted to all pilots who have shown support for the Marlinist Colonies." The completion of the starport project marked both a logistical milestone for the Marlinist Republic-in-formation and a symbolic assertion of independence from Imperial infrastructure.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 83fbe8c3-9336-5b74-9642-fe0db6fd785b
 - 7757e707-c843-5bb4-badf-0130b626ceb1
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The construction of new Marlinist starports has begun after materials were delivered to the HIP 22550 system.
 Enough shipments of aluminium, computer components, power generators and titanium were received at Stillman Hub to facilitate the building of 2 orbital stations. These are expected to become operational by the 5th of May 3308.
 The campaign’s conclusion was marked by a statement from First Minister Octavia Volkov:

@@ -13,19 +13,16 @@ groups:
 locations:
 - Xelabara
 - Navigator Market
-technologies: []
 topics:
 - narcotics
 - piracy
 - trade
 - war
+technologies: []
 modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---
-
-Onionhead Appeal Successful
-
 
 The Drug Empire of Xelabara has announced that Its appeal for onionhead has been successful. According to Rooney 'Rush' Romero, a spokesperson for the Drug Empire of Xelabara, the faction has received significant quantities of the controversial narcotic over the past week: 
 

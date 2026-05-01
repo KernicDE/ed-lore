@@ -1,6 +1,6 @@
 ---
 uuid: 54d3fd1f-f0e9-545c-99f4-94612ad989e6
-title: "Details of Aisling Duval's Wedding Announced"
+title: Details of Aisling Duval's Wedding Announced
 slug: details_of_aisling_duvals_wedding_announced
 date: '3304-07-14'
 source: GitHub
@@ -31,9 +31,6 @@ related_uuids:
 - a987debf-f78b-5533-84b9-48a6a845b2e2
 - 6794e4d2-d654-5896-9bca-ec103cd2a5f4
 ---
-
-Details of Aisling Duval’s Wedding Announced
-
 
 The wedding of Princess Aisling Duval and Federal Ambassador Jordan Rochester is now in the advanced planning stages, and a date has been confirmed for the ceremony. 
 

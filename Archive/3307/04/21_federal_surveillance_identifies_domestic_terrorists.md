@@ -4,7 +4,8 @@ title: Federal Surveillance Identifies Domestic Terrorists
 slug: federal_surveillance_identifies_domestic_terrorists
 date: '3307-04-21'
 source: API
-arc_id: federal-politics
+summary: The Proactive Detection Bureau announces it has detected over a dozen previously unknown extremist organisations and arrested thousands of individuals researching terror tactics. Vice President Jerome Archer hails it as validation, while civil rights groups and criminologists question whether conventional policing could have achieved the same results.
+player_impact: None directly; this is a surveillance programme update.
 persons:
 - Bethany Blake
 - Jerome Archer
@@ -17,20 +18,19 @@ groups:
 locations:
 - Sol
 - Federal Congress
-technologies:
-- Proactive Detection Bureau surveillance algorithms
 topics:
 - investigation
 - terrorism
-player_impact: None directly; this is a surveillance programme update.
-summary: The Proactive Detection Bureau announces it has detected over a dozen previously unknown extremist organisations and arrested thousands of individuals researching terror tactics. Vice President Jerome Archer hails it as validation, while civil rights groups and criminologists question whether conventional policing could have achieved the same results.
+technologies:
+- Proactive Detection Bureau surveillance algorithms
+arc_id: federal-politics
 modern_impact: The PDB's expanding surveillance parameters set a precedent for mass monitoring that the corporatist movement later exploits, using government overreach as justification for replacing democratic governance with corporate rule.
+legacy_weight: 4
+significance: medium
 related_uuids:
 - 677ba8ea-d7b4-5d96-b990-a430969d2b98
 - f02f048f-667a-5947-9236-9330633d8a5f
 - 82080870-af46-5023-854f-189ec261531a
-legacy_weight: 4
-significance: medium
 ---
 
 The Proactive Detection Bureau, Which monitors all civilian communications in the Federation, has detected Several home-grown terrorist groups.

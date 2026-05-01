@@ -12,21 +12,17 @@ groups:
 - Intergalactic Naval Reserve Arm
 locations:
 - Core systems
-technologies:
-- mycoid fungus
 topics:
 - alien contact
 - research
 - ethics
+technologies:
+- mycoid fungus
 arc_id: thargoid-contact
-modern_impact: The rediscovery of INRA sites reignited historical debate about the ethics
-  of anti-Thargoid warfare and humanity's prior contact with the aliens.
+modern_impact: The rediscovery of INRA sites reignited historical debate about the ethics of anti-Thargoid warfare and humanity's prior contact with the aliens.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Further INRA Bases Discovered
-
 
 Further abandoned Intergalactic Naval Reserve Arm outposts have been discovered in systems throughout The core. 
 

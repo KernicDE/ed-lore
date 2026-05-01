@@ -4,7 +4,8 @@ title: Marlinists Reject Emperor’s Offer
 slug: marlinists_reject_emperors_offer
 date: '3308-04-08'
 source: API
-arc_id: null
+summary: The Marlinist Colonies vote to remain independent from the Empire rather than accept protectorate status.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Arissa Lavigny-Duval
 - Octavia Volkov
@@ -15,14 +16,13 @@ topics:
 - humanitarian
 - succession
 - terrorism
-player_impact: Not specifically mentioned — this is a political report.
-summary: The Marlinist Colonies vote to remain independent from the Empire rather than accept protectorate status.
-modern_impact: "\"Our people have given us a clear mandate: the colonies stand alone.\" The rejection of Imperial protectorate status cemented the Marlinist Colonies as an independent republican democracy, marking a pivotal moment in post-NMLA galactic political restructuring."
+arc_id: null
+modern_impact: '"Our people have given us a clear mandate: the colonies stand alone." The rejection of Imperial protectorate status cemented the Marlinist Colonies as an independent republican democracy, marking a pivotal moment in post-NMLA galactic political restructuring.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - c8ab379b-af61-5fb9-8a8e-ca754524ddb7
 - 449ee55c-8f28-5145-acc4-604f8d8b9b68
-legacy_weight: 4
-significance: high
 ---
 
 A public referendum in The Marlinist Colonies has resulted in the majority voting to remain fully Independent from the Empire.

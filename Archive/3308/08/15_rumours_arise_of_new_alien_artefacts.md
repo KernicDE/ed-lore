@@ -4,6 +4,8 @@ title: Rumours Arise of New Alien Artefacts
 slug: rumours_arise_of_new_alien_artefacts
 date: '3308-08-15'
 source: API
+summary: Commander Marcus Mercer posts an account of encountering a previously unknown glowing non-human object obtained by a fellow pilot, sparking rumours of new alien artefacts distinct from Guardian and Thargoid relics.
+player_impact: Not specifically mentioned — this is an anecdotal report.
 persons:
 - Marcus Mercer
 groups:
@@ -16,14 +18,12 @@ topics:
 - trade
 - xenoarchaeology
 arc_id: null
-summary: Commander Marcus Mercer posts an account of encountering a previously unknown glowing non-human object obtained by a fellow pilot, sparking rumours of new alien artefacts distinct from Guardian and Thargoid relics.
-player_impact: Not specifically mentioned — this is an anecdotal report.
 modern_impact: Mercer's account hinted at the existence of a third category of alien technology beyond the known Guardian and Thargoid artefacts, foreshadowing later discoveries that would expand humanity's understanding of non-human civilisations.
 legacy_weight: 3
 significance: low
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Anecdotal reports suggest that a previously unknown non-human object has been discovered by independent pilots.
 No details about where or how the object was obtained have been established at this time. What little information exists has been provided by individual members of the Pilots’ Federation.
 One of these sources is a public message posted by Commander Marcus Mercer via an Interstellar Common Experience (ICE) network:

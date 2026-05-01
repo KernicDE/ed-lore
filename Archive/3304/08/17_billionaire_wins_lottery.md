@@ -26,9 +26,6 @@ related_uuids:
 - 7ec3f1fb-8e73-5084-86f2-d3f916349ede
 ---
 
-Billionaire Wins Lottery
-
-
 Renowned billionaire Zachary Rackham, owner of Rackham Capital Investments, has been confirmed As the winner of a lottery prize of One billion credits. 
 
 Tori Theopolis, a spokesperson for The Federal Grand Lottery, announced: 

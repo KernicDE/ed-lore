@@ -29,9 +29,6 @@ related_uuids:
 - 85671224-8822-5716-bb08-0e7ac30ff584
 ---
 
-Alliance Presidential Gala
-
-
 The Alioth Independents has announced plans to host a gala event in The Alioth system, to officially begin the Alliance presidential election. 
 
 The event will give the as-yet unannounced presidential candidates an opportunity to meet distinguished figures from among the upper echelons of Alliance society. 

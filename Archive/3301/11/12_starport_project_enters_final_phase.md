@@ -15,23 +15,19 @@ locations:
 - Kaushpoos
 - Neville Horizons
 - Pleiades Nebula
-technologies:
-- Computer Components
-- Ocellus starport
 topics:
 - construction
 - corporate expansion
 - exploration
 - trade
+technologies:
+- Computer Components
+- Ocellus starport
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
-  new frontiers for exploration and potentially first contact.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---
-
-Starport Project Enters Final Phase
-
 
 Two weeks ago, The Explorers' Association began work on a new Ocellus starport in the Pleiades Nebula. The project received financial support from the Brewer Corporation and Universal Cartographics, Which offered generous premiums to traders providing essential materials for the construction. Now, With the bulk of the work complete, the Explorer's Association has announced a third and final appeal for resources: 
 

@@ -29,9 +29,6 @@ related_uuids:
 - 84b929de-3fba-59cb-853f-7b88bf76a586
 ---
 
-Fringe Religion Condemns Far God Cult
-
-
 The Church of Eternal Void has denounced the so-called Far God cult, Which worships the Thargoids. 
 
 A spokesperson identified as Cardinal Hieronymous made This statement: 

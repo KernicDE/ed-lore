@@ -4,22 +4,19 @@ title: Jokers’ Deck Hunts the Winking Cat
 slug: jokers_deck_hunts_the_winking_cat
 date: '3307-10-19'
 source: API
-groups:
-- Wallglass Investigations Agency
-- October Consortium
+summary: Francesca Wolfe reveals that Jokers' Deck security caught her but offered her a job instead — to track down the Winking Cat and retrieve the stolen ceremonial playing card.
+player_impact: None
 persons:
 - Francesca Wolfe
 - Lexi October
 - Erik Gunnarson
+groups:
+- Wallglass Investigations Agency
+- October Consortium
 topics:
 - crime
 - investigation
-summary: Francesca Wolfe reveals that Jokers' Deck security caught her but offered
-  her a job instead — to track down the Winking Cat and retrieve the stolen ceremonial
-  playing card.
-player_impact: None
-modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery
-  in galactic high society.
+modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery in galactic high society.
 legacy_weight: 2
 significance: low
 ---

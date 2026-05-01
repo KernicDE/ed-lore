@@ -4,21 +4,21 @@ title: 'Federal Election: The Imperial Perspective'
 slug: federal_election_the_imperial_perspective
 date: '3309-10-12'
 source: API
-entities: []
-groups: []
-locations:
-- Achenar
-topics:
-- politics
-arc_id: null
-modern_impact: "Patreus's preference for Archer — 'I expect Archer will have those same aggressive tendencies... Winters is clearly the more cunning and deceitful candidate' — reveals Imperial strategic thinking. Aisling's call to 'break the cycle of hostility between Empire and Federation' and her reference to ACT's success against the NMLA shows her cooperative instincts. Carvalho's economic analysis — 'some captains of industry anticipate a new era of trade with a friendlier Federation' — frames the commercial stakes."
+summary: Imperial leaders react to the Federal election, with Patreus preferring Archer's predictability and Aisling hoping for inter-superpower cooperation.
+player_impact: Not specifically mentioned.
 persons:
 - Denton Patreus
 - Aisling Duval
 - Cassia Carvalho
 - Arissa Lavigny-Duval
-player_impact: "Not specifically mentioned."
-summary: "Imperial leaders react to the Federal election, with Patreus preferring Archer's predictability and Aisling hoping for inter-superpower cooperation."
+groups: []
+locations:
+- Achenar
+topics:
+- politics
+entities: []
+arc_id: null
+modern_impact: Patreus's preference for Archer — 'I expect Archer will have those same aggressive tendencies... Winters is clearly the more cunning and deceitful candidate' — reveals Imperial strategic thinking. Aisling's call to 'break the cycle of hostility between Empire and Federation' and her reference to ACT's success against the NMLA shows her cooperative instincts. Carvalho's economic analysis — 'some captains of industry anticipate a new era of trade with a friendlier Federation' — frames the commercial stakes.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -19,14 +19,10 @@ topics:
 - terrorism
 - war
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
-  politics and military policy.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Empire Calls in Reinforcements
-
 
 Two weeks ago, The Imperial Internal Security Service discovered 'shadow' cells belonging to the insurgent organisation Emperor's Dawn in the Dakshmandi, Ipilyaqa and Ch'i Lin systems. Military fleets were swiftly despatched to the pertinent systems to destroy the last remaining vestiges of Emperor's Dawn. But recent reports indicate that the campaign may not be going quite as well As the Empire hoped. An Imperial pilot stationed in Dakshmandi spoke briefly With a correspondent from the Imperial Herald: 
 

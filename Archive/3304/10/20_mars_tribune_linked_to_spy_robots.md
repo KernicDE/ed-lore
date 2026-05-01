@@ -32,9 +32,6 @@ related_uuids:
 - 42ef6025-276f-5d89-b735-6c4cb293e6fb
 ---
 
-Mars Tribune Linked to Spy Robots
-
-
 The Federal Security Service has targeted The Mars Tribune as part of Its investigation into robots carrying concealed surveillance programs. 
 
 Lieutenant Inspector Ramesh Thorne made This statement: 

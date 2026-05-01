@@ -1,10 +1,17 @@
 ---
 uuid: 2e7e258a-5974-5a34-b102-93d10a22c438
-title: "Thargoid War Update: March 3309"
+title: 'Thargoid War Update: March 3309'
 slug: thargoid_war_update_march_3309
 date: '3309-03-29'
 source: API
-entities: []
+summary: Vox Galactica reports little change in Thargoid tactics as the war grinds on, with Aegis's caustic sink launcher now available but the Maelstrom cores remaining impenetrable.
+player_impact: Independent pilots and squadrons are asked to wage the front line against the Thargoids, destroying Thargoid vessels and retaking occupied systems.
+persons:
+- Jade Sanderlyn
+- Aden Tanner
+- FrankXJR
+- Night Furry
+- Oghmios-TTT
 groups:
 - Aegis
 - Alliance
@@ -16,16 +23,9 @@ topics:
 - alien contact
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's grim assessment — 'we are still losing more than we save' — underscores the desperate state of the war. Her observation that 'the chances of destroying them are virtually zero' highlights how humanity remained fundamentally outmatched until the Titan counter-offensive later in 3309."
-persons:
-- Jade Sanderlyn
-- Aden Tanner
-- FrankXJR
-- Night Furry
-- Oghmios-TTT
-player_impact: "Independent pilots and squadrons are asked to wage the front line against the Thargoids, destroying Thargoid vessels and retaking occupied systems."
-summary: "Vox Galactica reports little change in Thargoid tactics as the war grinds on, with Aegis's caustic sink launcher now available but the Maelstrom cores remaining impenetrable."
+modern_impact: Sanderlyn's grim assessment — 'we are still losing more than we save' — underscores the desperate state of the war. Her observation that 'the chances of destroying them are virtually zero' highlights how humanity remained fundamentally outmatched until the Titan counter-offensive later in 3309.
 legacy_weight: 5
 significance: high
 related_uuids:

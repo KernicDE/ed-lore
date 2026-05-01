@@ -6,21 +6,24 @@ date: '3302-10-26'
 source: GitHub
 summary: The trial of Lady Kahina Tijani Loren began at the Prism Hall of Justice under tight security. Loren was moved to a secure holding area after meeting Ambassador Cuthrick Delaney, while Admiral Denton Patreus arrived hours later for the closed-door trial.
 player_impact: None
-persons: [Kahina Tijani Loren, Ambassador Cuthrick Delaney, Admiral Denton Patreus]
-groups: [Loren's Legion]
-locations: [Prism, Hiram's Anchorage]
-technologies: []
+persons:
+- Kahina Tijani Loren
+- Ambassador Cuthrick Delaney
+- Admiral Denton Patreus
+groups:
+- Loren's Legion
+locations:
+- Prism
+- Hiram's Anchorage
 topics:
 - construction
 - ship
 - sport
+technologies: []
 modern_impact: Loren's trial becomes a flashpoint for Imperial power struggles, with Patreus's direct involvement raising questions about judicial independence.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Loren Trial Begins
-
 
 The trial of Lady Kahina Tijani Loren has begun at the Prism Hall of Justice. 
 

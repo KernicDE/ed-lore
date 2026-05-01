@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Sirius Corp Announces Expansion
-
-
 The Sirius Corporation has announced that it will be expanding Its presence at two locations just outside the core systems. 
 
   

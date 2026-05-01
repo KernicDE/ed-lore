@@ -13,16 +13,13 @@ groups:
 locations:
 - Wolf 359
 - Lomas Station
-technologies: []
 topics:
 - sport
+technologies: []
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Freelance Report: A Year of Buckyball Racing
-
 
 The Buckyball Racing Club was formed, One year ago, to provide a schedule of races involving a wide variety of pilots. In Its first year the club hosted a total of 28 races, and to celebrate it is hosting one of its craziest yet: the BuckyBubble! 
 

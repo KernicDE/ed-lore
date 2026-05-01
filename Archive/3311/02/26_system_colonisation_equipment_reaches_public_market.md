@@ -4,7 +4,10 @@ title: System Colonisation Equipment Reaches Public Market
 slug: system_colonisation_equipment_reaches_public_market
 date: '3311-02-26'
 source: API
-arc_id: trailblazer-colonisation
+summary: Brewer Corporation released system colonisation modules and claim management to the public, enabling independent colonisation for individuals and communities — a moment analysts consider historically significant.
+player_impact: Pilots gained access to system colonisation modules and the formal ability to claim and develop star systems.
+persons:
+- Madelyn Teague
 groups:
 - Brewer Corporation
 locations:
@@ -12,14 +15,11 @@ locations:
 topics:
 - construction
 - corporate expansion
-persons:
-- Madelyn Teague
 technologies:
 - System Colonisation Module
 - Claim Management Process
-player_impact: "Pilots gained access to system colonisation modules and the formal ability to claim and develop star systems."
-summary: "Brewer Corporation released system colonisation modules and claim management to the public, enabling independent colonisation for individuals and communities — a moment analysts consider historically significant."
-modern_impact: "Teague's statement that 'viable colony targets will not be dictated by large corporations or superpower governments' is a radical decentralisation of human expansion. Her mention that the move was 'eagerly endorsed by all three superpowers' reveals their shared interest in offloading expansion costs to independent pilots. This module release is the technical enabler for the largest migration in human history."
+arc_id: trailblazer-colonisation
+modern_impact: Teague's statement that 'viable colony targets will not be dictated by large corporations or superpower governments' is a radical decentralisation of human expansion. Her mention that the move was 'eagerly endorsed by all three superpowers' reveals their shared interest in offloading expansion costs to independent pilots. This module release is the technical enabler for the largest migration in human history.
 legacy_weight: 2
 significance: low
 related_uuids:

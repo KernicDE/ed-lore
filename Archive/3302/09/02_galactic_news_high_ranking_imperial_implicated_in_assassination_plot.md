@@ -17,9 +17,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: High-Ranking Imperial Implicated in Assassination Plot
-
-
 Sources in The Achenar system have revealed that an individual identified only as 'a senior member of the Imperial hierarchy' has been arrested in connection With the recent assassination attempt on Admiral Denton Patreus. 
 
 Although the individual's identity is not known, a security officer let slip that the person in question is "no stranger to controversy". The suspect is believed to have been placed under house arrest. 

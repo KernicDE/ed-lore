@@ -23,9 +23,6 @@ related_uuids:
 - 82527f87-8118-575a-b275-8067087252ba
 ---
 
-Festive Imperial Campaigns End
-
-
 Initiatives to supply Imperial senator Simone Leatrix’s festivities have reached a conclusion. 
 
 Mass deliveries of food and jewels took place in The Cemiess system. 

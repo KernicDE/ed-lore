@@ -25,9 +25,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: Secret Billionaires' Campaign
-
-
 The Secret Billionaires, an organisation based in I Carinae, have reported a sharp increase in The number of criminals operating in their system. The organisation has responded With a system-wide operation designed to remove the agitators and restore order. They have placed a kill order on all ships on their wanted list, and have promised to reward pilots who deliver bounty vouchers to Somerset Station. 
 
 Secret Billionaires spokesperson Commander Afterglow said: 

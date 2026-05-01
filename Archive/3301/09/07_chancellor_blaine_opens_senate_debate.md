@@ -4,6 +4,8 @@ title: Chancellor Blaine Opens Senate Debate
 slug: chancellor_blaine_opens_senate_debate
 date: '3301-09-07'
 source: GitHub
+summary: Chancellor Anders Blaine opened the Senate debate on the Imperial succession, stating that the law required a decision by October 5th. Blaine urged senators to consider Emperor Hengist Duval's wishes, noting his intention for Arissa Lavigny-Duval to become heir. Candidates must be of royal blood or marriage with clear Senate majority. The succession race was now formally underway with one month to decide.
+player_impact: The Senate's choice will determine the next Emperor and shape Imperial policy. Pilots aligned with Imperial powers should monitor which candidate gains support from key senators like Patreus and Torval.
 persons:
 - Anders Blaine
 - Arissa Lavigny-Duval
@@ -18,18 +20,11 @@ locations:
 - Imperial Palace
 topics:
 - succession
-summary: Chancellor Anders Blaine opened the Senate debate on the Imperial succession, stating that the law required a decision by October 5th. Blaine urged senators to consider Emperor Hengist Duval's wishes, noting his intention for Arissa Lavigny-Duval to become heir. Candidates must be of royal blood or marriage with clear Senate majority. The succession race was now formally underway with one month to decide.
-player_impact: The Senate's choice will determine the next Emperor and shape Imperial policy. Pilots aligned with Imperial powers should monitor which candidate gains support from key senators like Patreus and Torval.
 modern_impact: Formal beginning of the Imperial succession process following Emperor Hengist Duval's death.
 legacy_weight: 2
 significance: low
 ---
 
-Chancellor Blaine Opens Senate Debate
-
-
-Chancellor Blaine Opens Senate Debate 
- 
 With the sombre echo of Emperor Hengist Duval still resonating throughout Capitol, The Senate reopened today to deliberate how The question of succession will be resolved. Chancellor Anders Blaine opened the discussion: 
 
 “Without a clear line of succession, we have a solemn duty to decide who will rule the Empire  in these fractious times. It is clear that Our beloved Emperor wished for Senator Arissa Lavigny-Duval to become heir and so, when the time came, become Emperor. That time has now come, But the law does not allow us to honour his wishes. Instead, we must follow the rules set out for us by centuries of law and tradition. 

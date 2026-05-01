@@ -4,21 +4,20 @@ title: Federal Agents Crush Jupiter Division Extremists
 slug: federal_agents_crush_jupiter_division_extremists
 date: '3307-10-20'
 source: API
+summary: The Federal Intelligence Agency arrests the organisers of Jupiter's Wrath, a pro-corporatist terrorist group planning attacks on Federal politicians.
+player_impact: None
+persons:
+- Bethany Blake
+- Bai Zheng
 groups:
 - Federation
 - Federal Intelligence Agency
 - Jupiter Division
-persons:
-- Bethany Blake
-- Bai Zheng
 topics:
 - crime
 - terrorism
 - war
 arc_id: federal-politics
-summary: The Federal Intelligence Agency arrests the organisers of Jupiter's Wrath,
-  a pro-corporatist terrorist group planning attacks on Federal politicians.
-player_impact: None
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium

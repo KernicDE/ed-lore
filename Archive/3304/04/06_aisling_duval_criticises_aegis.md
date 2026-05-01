@@ -25,9 +25,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Aisling Duval Criticises Aegis
-
-
 In a public interview, Princess Aisling Duval levelled criticism at Aegis in relation to The ongoing Thargoid conflict. 
 
 “The people are scared,” she said. “They fear that their way of life – their very existence – might vanish unless more is done to protect them. I’m not convinced Aegis is capable of doing so. The Empire has invested heavily in the organisation. Are we sure the Other powers have done the same?” 

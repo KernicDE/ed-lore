@@ -4,7 +4,10 @@ title: Migration and Economic Boom in Newly Colonised Systems
 slug: migration_and_economic_boom_in_newly_colonised_systems
 date: '3311-04-30'
 source: API
-entities: []
+summary: Billions of migrants flock to newly colonized systems, driving an unprecedented economic boom. Professor Irene Ralston of Olympus Village University describes it as 'the largest migration event in human history.'
+player_impact: Independent pilots established the colonies that billions of migrants are now flocking to. The Trailblazer fleet megaships currently supply many of these colonies.
+persons:
+- Irene Ralston
 groups:
 - Brewer Corporation
 - Federal Times
@@ -14,13 +17,10 @@ topics:
 - construction
 - corporate expansion
 - trade
-persons:
-- Irene Ralston
+entities: []
 technologies:
 - Trailblazer fleet megaships
-player_impact: "Independent pilots established the colonies that billions of migrants are now flocking to. The Trailblazer fleet megaships currently supply many of these colonies."
-summary: "Billions of migrants flock to newly colonized systems, driving an unprecedented economic boom. Professor Irene Ralston of Olympus Village University describes it as 'the largest migration event in human history.'"
-modern_impact: "Ralston's observation that 'the upheaval of the recent Thargoid invasion had some influence in the decision making' identifies the psychological driver behind the colonisation wave. The expectation that the Trailblazer fleet will be 'repurposed for other duties' once colonies self-sustain foreshadows Brewer Corporation's November withdrawal announcement and the fleet's replacement by the Dodec Starport."
+modern_impact: Ralston's observation that 'the upheaval of the recent Thargoid invasion had some influence in the decision making' identifies the psychological driver behind the colonisation wave. The expectation that the Trailblazer fleet will be 'repurposed for other duties' once colonies self-sustain foreshadows Brewer Corporation's November withdrawal announcement and the fleet's replacement by the Dodec Starport.
 legacy_weight: 5
 significance: high
 related_uuids:

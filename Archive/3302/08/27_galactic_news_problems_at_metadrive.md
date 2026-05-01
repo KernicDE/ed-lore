@@ -14,17 +14,14 @@ groups:
 - Sirius Corp
 locations:
 - Chi Orionis
-technologies: []
 topics:
 - research
 - ship
+technologies: []
 modern_impact: Sirius Corp's intervention to save MetaDrive Inc. hints at corporate competition over next-generation hyperdrive technology and potential shifts in FTL research dominance.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Problems at MetaDrive?
-
 
 Independent auditor BigSix has reported various anomalies in The accounts of MetaDrive Inc., a company based in the Chi Orionis system specialising in hyperdrive research. 
 

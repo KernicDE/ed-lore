@@ -4,6 +4,8 @@ title: Ambitious Plans for Carns
 slug: ambitious_plans_for_carns
 date: '3301-07-08'
 source: GitHub
+summary: Humason Orbital in Carns announced plans to shift from mining to high-tech operations after reports suggested mining would become uneconomical. Deputy Communications Officer Ramon Lamor outlined an acquisition programme for robotics to support new product lines, replacing extraction and industrial concerns. Existing businesses will receive financial and logistical support during the transition.
+player_impact: Traders and industrial pilots should expect shifting commodity demands in Carns as the system transitions from mining to high-tech production.
 persons:
 - Ramon Lamor
 groups:
@@ -14,18 +16,11 @@ topics:
 - corporate expansion
 - research
 - trade
-summary: Humason Orbital in Carns announced plans to shift from mining to high-tech operations after reports suggested mining would become uneconomical. Deputy Communications Officer Ramon Lamor outlined an acquisition programme for robotics to support new product lines, replacing extraction and industrial concerns. Existing businesses will receive financial and logistical support during the transition.
-player_impact: Traders and industrial pilots should expect shifting commodity demands in Carns as the system transitions from mining to high-tech production.
 modern_impact: Carns' planned economic transition from mining to high-tech represents adaptive restructuring in response to market changes.
 legacy_weight: 2
 significance: low
 ---
 
-Ambitious Plans for Carns
-
-
-Ambitious Plans for Carns 
- 
 The leadership for Humason Orbital in The Carns system responded today to a report released earlier in the week, suggesting that the mining operations in the system would soon become uneconomical. 
 
 Plans were revealed to upgrade the extraction and industrial facilities to support high tech operations. In the press briefing Ramon Lamor, Deputy Communications Officer, commented: 

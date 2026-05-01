@@ -4,9 +4,14 @@ title: Hostage Crisis in Eotienses Turns Bloody
 slug: hostage_crisis_in_eotienses_turns_bloody
 date: '3301-05-03'
 source: GitHub
-entities:
-- Egg90 asking if he
-- Trillen
+summary: A hostage negotiation in Eotienses between East India Company and The Code pirate group ended in bloodshed when an Imperial trader attempted to escape and was destroyed. Commander Trillen attempted to coordinate with Commander Egg90, but miscommunication led to the trader boosting into Code fire. Subsequent skirmishes lasted several hours with hundreds of millions in damages. The Code claimed a 3-to-1 kill ratio against EIC vessels.
+player_impact: Pilots operating in Eotienses face heightened piracy risks from The Code. The incident demonstrates the dangers of freelance hostage negotiations.
+persons:
+- Commander Trillen
+- Commander Egg90
+groups:
+- East India Company
+- The Code
 locations:
 - Eotienses
 topics:
@@ -14,13 +19,10 @@ topics:
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Illustrates the brutal reality of piracy in populated systems and the risks traders face in lawless space.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
-
-Hostage Crisis in Eotienses Turns Bloody
-
 
 A tense hostage situation in Eotienses on Tuesday morning turned bloody as East India Company members failed to negotiate The liberation of an Imperial trader from The Code, a well-known pirate group. The Imperial trader, unaffiliated With either group, was destroyed after an attempted escape, resulting in tens of millions of credits in property loss as well as small-scale skirmishes between the two organizations throughout the night. EIC members later went on to admit that poor communication and victim anxiety led to This tragic outcome. 
 

@@ -23,9 +23,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Ram Tah Campaign Concludes
-
-
 Ram Tah has announced that The galactic community has responded positively to his appeal for Guardian artefacts, resulting In a large number of deliveries to Felice Dock. The engineer will now subject the artefacts to extensive analysis. 
 
 As the campaign drew to a close, Ram Tah issued The following statement: 

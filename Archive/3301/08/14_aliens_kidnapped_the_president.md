@@ -4,6 +4,8 @@ title: Aliens Kidnapped the President
 slug: aliens_kidnapped_the_president
 date: '3301-08-14'
 source: GitHub
+summary: Conspiracy theorist Ricardo Bentonio claimed on his show The Hidden World that President Halsey was kidnapped by aliens when Starship One disappeared. He dismissed the official report findings, claiming she was taken for alien purposes and not by the lizard people from Andromeda, which he asserted is the Imperial Dynasty. Federal Navy officials refused to comment, while one Congressman was overheard joking about Bentonio’s theories.
+player_impact: None
 persons:
 - Jasmina Halsey
 - Ricardo Bentonio
@@ -14,18 +16,11 @@ locations:
 topics:
 - conspiracy
 arc_id: halsey-presidency
-summary: Conspiracy theorist Ricardo Bentonio claimed on his show The Hidden World that President Halsey was kidnapped by aliens when Starship One disappeared. He dismissed the official report findings, claiming she was taken for alien purposes and not by the lizard people from Andromeda, which he asserted is the Imperial Dynasty. Federal Navy officials refused to comment, while one Congressman was overheard joking about Bentonio’s theories.
-player_impact: None
 modern_impact: Conspiracy theories about President Halsey’s disappearance persist despite official findings, reflecting public distrust.
 legacy_weight: 2
 significance: low
 ---
 
-Aliens Kidnapped The President
-
-
-Aliens Kidnapped The President 
- 
 The spectre of President Halsey’s disappearance in Starship One refuses to die down. Despite the findings of the official report some claim that the matter is Far from closed. One such person is self-proclaimed conspiracy expert Ricardo Bentonio on his investigative show ‘The Hidden World’: 
 
 “They took her for their own purposes. Not the lizard people from Andromeda, that’s the Imperial Dynasty. She’s been taken somewhere different.” 

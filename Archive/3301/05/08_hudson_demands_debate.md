@@ -9,9 +9,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Hudson Demands Debate
-
-
 It looks like The President may not be taking her planned tour after all, following news that Shadow President Hudson has publicly challenged President Halsey to a live policy debate on The popular Federal political stream show ‘Face the People’. 
 
 So Far, the President’s office has declined to offer an official response to Shadow President Hudson’s request.  

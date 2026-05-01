@@ -36,9 +36,6 @@ related_uuids:
 - 54d3fd1f-f0e9-545c-99f4-94612ad989e6
 ---
 
-Rochester Family Attacked
-
-
 Members of The Rochester family have come under personal and political attack following the engagement of Federal Ambassador Jordan Rochester to Princess Aisling Duval. 
 
 Several media outlets shared news of an incident involving Jordan Rochester’s teenage niece: 

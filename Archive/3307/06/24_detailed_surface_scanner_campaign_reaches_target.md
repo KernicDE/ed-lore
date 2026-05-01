@@ -4,7 +4,8 @@ title: 'Detailed Surface Scanner Campaign Reaches Target '
 slug: detailed_surface_scanner_campaign_reaches_target
 date: '3307-06-24'
 source: API
-arc_id: alliance-expansion
+summary: Sirius Corporation's campaign to mass-produce the Engineered Detailed Surface Scanner V1 reaches its target. Marketing director Sinclair Faraldo confirms mass production has begun and the module will be available from human technology brokers soon.
+player_impact: Pilots who delivered CMM composites, muon imagers and synthetic reagents collected payment from Ashby City in the Luyten's Star system.
 persons:
 - Sinclair Faraldo
 groups:
@@ -15,24 +16,23 @@ locations:
 - Luyten's Star
 - Ashby City
 - Sirius
+topics:
+- corporate expansion
+- engineering
 technologies:
 - Engineered Detailed Surface Scanner V1
 - CMM composites
 - Muon imager
 - Synthetic reagent
-topics:
-- corporate expansion
-- engineering
-player_impact: Pilots who delivered CMM composites, muon imagers and synthetic reagents collected payment from Ashby City in the Luyten's Star system.
-summary: Sirius Corporation's campaign to mass-produce the Engineered Detailed Surface Scanner V1 reaches its target. Marketing director Sinclair Faraldo confirms mass production has begun and the module will be available from human technology brokers soon.
+arc_id: alliance-expansion
 modern_impact: The successful commercialisation of the enhanced scanner demonstrates Sirius Corporation's ability to leverage pilot community support for product development, reinforcing its economic dominance.
-related_uuids:
-- 278dd762-650c-5266-9ecc-2e9f2a05e6bc
 legacy_weight: 2
 significance: low
+related_uuids:
+- 278dd762-650c-5266-9ecc-2e9f2a05e6bc
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Pilots have delivered commodities to enable Sirius Corporation to mass produce a fully engineered detailed surface scanner.
 The enhanced ship module will shortly receive a commercial release, having previously only been available during a terraforming initiative by Sirius Atmospherics in late 3306.
 The Engineered Detailed Surface Scanner V1 increases probe coverage to twice the normally achievable range, offering a more efficient mapping of planetary surfaces.

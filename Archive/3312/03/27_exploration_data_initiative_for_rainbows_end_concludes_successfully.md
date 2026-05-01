@@ -4,6 +4,10 @@ title: Exploration Data Initiative for Rainbow’s End Concludes Successfully
 slug: exploration_data_initiative_for_rainbows_end_concludes_successfully
 date: 3312-03-27
 source: API
+summary: Rainbow's End exploration data initiative concludes successfully. Stellar survey targets exceeded. Station in Roefoo ZE-H d10-0 now open as frontier exploration hub.
+player_impact: Exploration data CG at Rainbow's End concluded. Station now fully operational as deep-space research hub in Mare Somnium.
+persons:
+- Hermine Delarue
 groups:
 - Deep Space Surveys
 - Distant Worlds 3
@@ -15,10 +19,6 @@ arc_id: distant-worlds-3
 modern_impact: Operational deep-space research hub now permanently available in Mare Somnium. Success validates the community-driven infrastructure construction model, encouraging similar initiatives for future expeditions and establishing Rainbow's End as a waypoint on the frontier exploration network.
 legacy_weight: 3
 significance: medium
-persons:
-- Hermine Delarue
-player_impact: Exploration data CG at Rainbow's End concluded. Station now fully operational as deep-space research hub in Mare Somnium.
-summary: Rainbow's End exploration data initiative concludes successfully. Stellar survey targets exceeded. Station in Roefoo ZE-H d10-0 now open as frontier exploration hub.
 related_uuids:
 - 24d79b14-7fcd-5d02-bd05-b1ea1a77b7f0
 - 733415a6-cbfd-5926-a7dc-3a7569d14645

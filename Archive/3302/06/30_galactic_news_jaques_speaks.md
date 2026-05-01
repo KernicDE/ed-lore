@@ -14,19 +14,15 @@ locations:
 - Jaques Station
 - Gliese 1269
 - Beagle Point
-technologies:
-- meta-alloys
 topics:
 - construction
+technologies:
+- meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Jaques Speaks
-
 
 Following news that Jaques Station has been Found in The Eol Prou RS-T d3-94 system, Jaques has broadcast a message to the media, having apparently restored communications at his starport: 
 

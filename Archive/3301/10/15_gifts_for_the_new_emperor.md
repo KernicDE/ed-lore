@@ -4,6 +4,8 @@ title: Gifts for the New Emperor
 slug: gifts_for_the_new_emperor
 date: '3301-10-15'
 source: GitHub
+summary: Emperor-elect Arissa Lavigny-Duval invited all galactic citizens to deliver coronation gifts in the form of slaves to Achenar. Non-Imperial slaves would be reclassified as Imperial slaves, potentially improving their conditions. Participants were offered discounts on Imperial ships and access to vessels normally requiring Navy rank. Achenar permit restrictions were temporarily lifted.
+player_impact: Pilots could deliver slaves to Dawes Hub in Achenar for rewards including Imperial ship discounts and access to rank-locked vessels. The temporary lifting of Achenar permits allowed non-Imperial pilots to participate.
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -15,15 +17,10 @@ locations:
 topics:
 - slavery
 - succession
-summary: Emperor-elect Arissa Lavigny-Duval invited all galactic citizens to deliver coronation gifts in the form of slaves to Achenar. Non-Imperial slaves would be reclassified as Imperial slaves, potentially improving their conditions. Participants were offered discounts on Imperial ships and access to vessels normally requiring Navy rank. Achenar permit restrictions were temporarily lifted.
-player_impact: Pilots could deliver slaves to Dawes Hub in Achenar for rewards including Imperial ship discounts and access to rank-locked vessels. The temporary lifting of Achenar permits allowed non-Imperial pilots to participate.
 modern_impact: Coronation event offering unique access to Imperial ships and the Achenar system.
 legacy_weight: 2
 significance: low
 ---
-
-Gifts for The New Emperor
-
 
 On Sunday, Arissa Lavigny-Duval will be crowned Emperor. Preparations for the coronation are almost complete, and the population of Capitol is eagerly awaiting the inauguration of the Empire's first female ruler. To mark This prestigious occasion, the future Emperor has invited galactic citizens to bring her gifts in exchange for certain incentives. In a statement, Lavigny-Duval said: 
 

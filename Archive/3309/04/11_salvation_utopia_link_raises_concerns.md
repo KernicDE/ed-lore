@@ -4,7 +4,13 @@ title: Salvation-Utopia Link Raises Concerns
 slug: salvation_utopia_link_raises_concerns
 date: '3309-04-11'
 source: API
-entities: []
+summary: Questions arise about a possible connection between Salvation's Nemesis Failsafe and Utopia's Sim-Archive, with Fonseca arranging a visit to investigate.
+player_impact: Not specifically mentioned — this is a scientific and investigative report.
+persons:
+- Maximo Fonseca
+- Flint Lafosse
+- Harlow Nassry
+- Pranav Antal
 groups:
 - Azimuth Biotech
 - Federal Times
@@ -16,15 +22,9 @@ topics:
 - investigation
 - research
 - xenoarchaeology
+entities: []
 arc_id: salvation-azimuth
-modern_impact: "Lafosse's speculation — 'did Salvation modify Antal's system for his own private use... Or maybe Azimuth and Utopia were secretly working together all this time' — is conspiracy theorizing. Nassry's counter — 'the few inventions that have been examined... contain no molecular markers of Guardian origin' — is scientific rebuttal. Fonseca's measured approach — 'Our findings will determine whether a formal investigation into Salvation's current status is warranted' — is bureaucratic caution."
-persons:
-- Maximo Fonseca
-- Flint Lafosse
-- Harlow Nassry
-- Pranav Antal
-player_impact: "Not specifically mentioned — this is a scientific and investigative report."
-summary: "Questions arise about a possible connection between Salvation's Nemesis Failsafe and Utopia's Sim-Archive, with Fonseca arranging a visit to investigate."
+modern_impact: Lafosse's speculation — 'did Salvation modify Antal's system for his own private use... Or maybe Azimuth and Utopia were secretly working together all this time' — is conspiracy theorizing. Nassry's counter — 'the few inventions that have been examined... contain no molecular markers of Guardian origin' — is scientific rebuttal. Fonseca's measured approach — 'Our findings will determine whether a formal investigation into Salvation's current status is warranted' — is bureaucratic caution.
 legacy_weight: 5
 significance: high
 related_uuids:

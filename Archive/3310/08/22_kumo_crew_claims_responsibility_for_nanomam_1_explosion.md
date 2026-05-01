@@ -4,6 +4,11 @@ title: Kumo Crew Claims Responsibility for Nanomam 1 Explosion
 slug: kumo_crew_claims_responsibility_for_nanomam_1_explosion
 date: '3310-08-22'
 source: API
+summary: The Kumo Crew claims responsibility for an explosion targeting Shadow President-elect Jerome Archer on Nanomam 1, also implying responsibility for the earlier ambush on Emperor Arissa.
+player_impact: Not specifically mentioned — this is a terrorist attack on a political target.
+persons:
+- Archon Delaine
+- Jerome Archer
 groups:
 - Kumo Crew
 - Shadow President
@@ -16,14 +21,7 @@ topics:
 - politics
 - espionage
 arc_id: null
-modern_impact: "Delaine's statement — 'All the surveillance technology in the galaxy could not prevent the Kumo Crew from reaching Jerome Archer's personal vehicle' — is a direct challenge to the Federation's security state. His reference to Arissa's ambush links two separate attacks into a coordinated campaign. The closing observation about 'post-Thargoid invasion uncertainty' with cooled economic climate and population movements frames the attack as symptomatic of broader galactic instability."
-persons:
-- Archon Delaine
-- Jerome Archer
-player_impact: "Not specifically mentioned — this is a terrorist attack on a political target."
-summary: "The Kumo Crew claims responsibility for an explosion targeting Shadow President-elect Jerome Archer on Nanomam 1, also implying responsibility for the earlier ambush on Emperor Arissa."
-related_uuids:
-- 890ddfd4-4632-5745-9395-0a26707ce6a4
+modern_impact: Delaine's statement — 'All the surveillance technology in the galaxy could not prevent the Kumo Crew from reaching Jerome Archer's personal vehicle' — is a direct challenge to the Federation's security state. His reference to Arissa's ambush links two separate attacks into a coordinated campaign. The closing observation about 'post-Thargoid invasion uncertainty' with cooled economic climate and population movements frames the attack as symptomatic of broader galactic instability.
 legacy_weight: 5
 significance: high
 related_uuids:

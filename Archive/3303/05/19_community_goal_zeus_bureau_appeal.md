@@ -12,17 +12,14 @@ groups:
 locations:
 - KatherineB
 - Zeus
-technologies: []
 topics:
 - trade
 - war
+technologies: []
 modern_impact: Luxury goods event in Zeus attracts influential figures and boosts local economy with high-end commodity trading.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Zeus Bureau Appeal
-
 
 A press release from The Zeus Bureau, an organisation based in Zeus, has revealed that the system will soon host a gathering of some of the galaxy's most influential people. Figures from the worlds of politics, commerce and culture are scheduled to convene at KatherineB for what is promised to be "an event of unparalleled opulence". 
 

@@ -27,9 +27,6 @@ related_uuids:
 - fcdf5858-98a9-5b6b-b18d-09ec75b74c49
 ---
 
-Far God Campaign
-
-
 The Thargoid-worshipping sect that reveres an entity known As the ‘Far God’ has issued a request for Thargoid materials. 
 
 Chancellor Reegan Tanner, speaking on behalf of LHS 2541 Alliance Combine, Which is supporting the campaign, released The following statement:  

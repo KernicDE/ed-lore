@@ -21,14 +21,10 @@ topics:
 - medicine
 - research
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Wilkes Orbital in Need
-
 
 The normally peaceful Wilkes Orbital has been the focus of considerable attention in recent weeks. First, the starport was at the centre of a campaign to drive the Blue Hand Gang from the Nearby Orulas system. Then authorities at the station announced that the escape pods recovered in the operation contained Professor Ishmael Palin and the Other members of his research team. Now it seems that the majority of those recovered from the criminals, including Professor Ishmael Palin, have been infected With a strain of Cerberus Plague, the deadly pathogen that claimed millions of lives last year. 
 

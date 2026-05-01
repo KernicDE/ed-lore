@@ -4,6 +4,8 @@ title: Azimuth Claims Thargoid Doomsday Imminent
 slug: azimuth_claims_thargoid_doomsday_imminent
 date: '3308-08-08'
 source: API
+summary: Salvation announces the Proteus Wave is fully active and calibrated, predicting that detonation will cause catastrophic disruption to all Thargoid vessels in HIP 22460 and drive the aliens out of the core systems permanently.
+player_impact: Pilots were urgently called to defend the Proteus Wave site in HIP 22460 during the critical final hours before activation.
 persons:
 - Morag Halloran
 - Salvation
@@ -19,16 +21,14 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-summary: Salvation announces the Proteus Wave is fully active and calibrated, predicting that detonation will cause catastrophic disruption to all Thargoid vessels in HIP 22460 and drive the aliens out of the core systems permanently.
-player_impact: Pilots were urgently called to defend the Proteus Wave site in HIP 22460 during the critical final hours before activation.
 modern_impact: Salvation's declaration that tomorrow would be the Thargoids' doomsday represented the peak of his messianic rhetoric, setting up a binary outcome that would either validate his god complex or expose his hubris to the entire galaxy.
-related_uuids:
-- 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
 legacy_weight: 5
 significance: high
+related_uuids:
+- 4c3e7d2b-1a8f-5a0b-8f5d-4c3e7d2b1a8f
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Salvation’s anti-xeno superweapon is now complete and final preparations are underway in the HIP 22460 system.
 Commodore Morag Halloran, Azimuth Biotech’s military coordinator, broadcast this announcement from the Bright Sentinel megaship:
 “Salvation has confirmed that the Proteus Wave core mechanism is fully active. Calibration inside the Thargoid structure on the surface of HIP 22460 10b has successfully concluded. Power sources derived from Guardian designs are building to the required levels, and a final series of safety checks are currently underway.”

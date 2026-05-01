@@ -4,6 +4,8 @@ title: Services Suspended at Gabriel Enterprise
 slug: services_suspended_at_gabriel_enterprise
 date: '3302-01-04'
 source: GitHub
+summary: Technical issues at Gabriel Enterprise in the Harma system have worsened, leading to suspension of all services except docking and shipyard access. Seven starports are now closed due to mysterious malfunctions, with additional stations across multiple systems experiencing technical issues.
+player_impact: Pilots should avoid affected starports or expect limited services. The article provides a complete list of stations with suspended or degrading services.
 locations:
 - 49 Arietis
 - 64 Arietis
@@ -35,15 +37,10 @@ locations:
 - Talos 2
 topics:
 - construction
-summary: Technical issues at Gabriel Enterprise in the Harma system have worsened, leading to suspension of all services except docking and shipyard access. Seven starports are now closed due to mysterious malfunctions, with additional stations across multiple systems experiencing technical issues.
-player_impact: Pilots should avoid affected starports or expect limited services. The article provides a complete list of stations with suspended or degrading services.
 modern_impact: Documents the early spread of the technological plague that would later be linked to Unknown Artefacts.
 legacy_weight: 2
 significance: low
 ---
-
-Services Suspended at Gabriel Enterprise
-
 
 Officials at Gabriel Enterprise in The Harma system have reported that the technical issues affecting the starport have worsened, leading to the immediate suspension of all services apart from docking and shipyard access. This brings the total number of starports closed as a result of the mysterious malfunctions to seven. A complete list of affected stations and systems follows. 
 

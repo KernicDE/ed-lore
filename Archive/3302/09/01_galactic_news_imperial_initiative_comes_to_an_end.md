@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Imperial Initiative Comes to an End
-
-
 Admiral Denton Patreus has announced that The Imperial appeal for construction materials has reached a successful conclusion. A spokesperson for the Morai Nobles, Which helped to coordinate the campaign, confirmed that scores of Imperial pilots supported the initiative to construct three new Majestic-class Interdictors by delivering supplies to van de Hulst Vision in the Morai system. 
 
 As the campaign concluded, Admiral Patreus issued a statement: 

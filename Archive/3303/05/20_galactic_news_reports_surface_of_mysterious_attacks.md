@@ -11,16 +11,13 @@ persons:
 groups: []
 locations:
 - Maia
-technologies: []
 topics:
 - ship
+technologies: []
 modern_impact: Reports of Thargoid attacks on Federal vessels in Maia escalate tensions and validate earlier warnings from Admiral Tanner.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Reports Surface of Mysterious Attacks
-
 
 Reports have surfaced of mysterious attacks in The Maia system, where eyewitnesses claim to have Found the remains of a number of Federal vessels. 
 

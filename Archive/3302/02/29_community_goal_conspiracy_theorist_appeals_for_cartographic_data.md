@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Conspiracy Theorist Appeals for Cartographic Data
-
-
 Notorious conspiracy theorist Ricardo Bentonio has issued an appeal for cartographic data With Which to substantiate an extraordinary claim. According to a recent press statement, Bentonio has unearthed ancient records that prove The 29th of February 3302, which appears on all galactic calendars, should not exist. He has convinced Kruger 60 Free to fund the One-day appeal, believing that the cartographic data will prove him correct. 
 
 Bentonio elaborated on his theory at a press conference: 

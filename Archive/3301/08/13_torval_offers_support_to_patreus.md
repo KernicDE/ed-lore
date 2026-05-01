@@ -4,6 +4,8 @@ title: Torval Offers Support to Patreus
 slug: torval_offers_support_to_patreus
 date: '3301-08-13'
 source: GitHub
+summary: Senator Patreus and his followers endured abuse on Capitol over his connection to assassin Brendan Paul Darius. Violence escalated when a mob tried to prevent Patreus entering the Hall of Martyrs; Imperial Naval Infantry separated the parties. Senator Zemina Torval condemned the behaviour at a Mastopolos Mining event, calling it near-barbarism and saying such rebels should be cast out of the Empire. She defended Patreus, stating his loyalty to the Emperor is unquestioned and anyone suggesting otherwise is a fool.
+player_impact: None
 persons:
 - Zemina Torval
 - Denton Patreus
@@ -18,18 +20,11 @@ locations:
 topics:
 - scandal
 - succession
-summary: Senator Patreus and his followers endured abuse on Capitol over his connection to assassin Brendan Paul Darius. Violence escalated when a mob tried to prevent Patreus entering the Hall of Martyrs; Imperial Naval Infantry separated the parties. Senator Zemina Torval condemned the behaviour at a Mastopolos Mining event, calling it near-barbarism and saying such rebels should be cast out of the Empire. She defended Patreus, stating his loyalty to the Emperor is unquestioned and anyone suggesting otherwise is a fool.
-player_impact: None
 modern_impact: Senator Torval publicly defends Patreus against accusations of involvement in the Emperor’s assassination.
 legacy_weight: 3
 significance: medium
 ---
 
-Torval Offers Support to Patreus
-
-
-Torval Offers Support to Patreus 
- 
 Some of The more sordid elements of Imperial media have continued their campaign against Senator Patreus about his connection With Emperor Hengist Duval’s killer. 
 
 Over The past week Senator Patreus and his followers staying on Capitol have endured abuse from their accusers whenever they appear in public. This escalated into violence today As the Senator visited the Hall of Martyrs for his own viewing of the Emperor’s body. When he arrived a mob formed and tried to prevent him entering the vestibule and reacted angrily when Patreus’ own guards attempted to force a passage. Imperial Naval Infantry on the scene separated the parties and allowed Senator Patreus to enter the Hall. 

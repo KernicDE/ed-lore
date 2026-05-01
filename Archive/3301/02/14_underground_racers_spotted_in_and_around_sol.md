@@ -18,9 +18,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Underground Racers Spotted In and Around Sol
-
-
 Word has spread that a group of CMDRs piloting Core Dynamics' Eagle Fighters were spotted conducting high speed races near The Sol system. Traders visiting Ashby City in Luyten's Star report that they spotted The pilots engaging in dangerous manoeuvres through the docking slot and around the station. Similar reports came from the Altair System where patrons of the Solo Orbiter Station were met With Several colorfully-painted Eagles upon arrival.  
 
   

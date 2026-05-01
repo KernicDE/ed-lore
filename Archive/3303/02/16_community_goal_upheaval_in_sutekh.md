@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Upheaval in Sutekh
-
-
 Recent reports indicate that a Federal convoy has been destroyed in The Sutekh system. It is not yet clear who is responsible for the attack, but security agencies based in Sutekh have tentatively identified the Adad Exchange, an Imperial faction. 
 
 The Adad Exchange is also understood to have launched an operation to recover military intelligence from the wreckage. The Federation has responded With a counter-operation designed to prevent the intelligence from Falling into Imperial hands. The United Sutekh Future has been authorised to coordinate the campaign. 

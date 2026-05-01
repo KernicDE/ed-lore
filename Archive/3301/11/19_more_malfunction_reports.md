@@ -20,18 +20,14 @@ locations:
 - Li Qing Jao
 - Sol
 - Varati
-technologies: []
 topics:
 - construction
 - war
-modern_impact: The spreading station malfunction crisis foreshadows the discovery of
-  Unknown Artefacts as the cause, fundamentally changing the threat landscape.
+technologies: []
+modern_impact: The spreading station malfunction crisis foreshadows the discovery of Unknown Artefacts as the cause, fundamentally changing the threat landscape.
 legacy_weight: 2
 significance: low
 ---
-
-More Malfunction Reports
-
 
 Over The past month, starports in the Warkushanui, 49 Arietis, 64 Arietis and Varati systems have experienced a raft of mysterious technical issues and malfunctions. Gurragchaa Gateway in Warkushanui has been the worst affected, and at the time of writing the station remains In a state of partial closure. 
 

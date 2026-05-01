@@ -4,7 +4,13 @@ title: Head of Aegis Makes Public Address
 slug: head_of_aegis_makes_public_address
 date: '3309-05-23'
 source: API
-entities: []
+summary: Professor Tesreau delivers a formal public address on Aegis's transformation, formally designating the motherships as 'Titans' and announcing the pulse wave xeno scanner project.
+player_impact: Pilots will find the Aegis Statement waiting in their ship's inbox service.
+persons:
+- Alba Tesreau
+- Allan Mantle
+- Aisling Duval
+- Torben Rademaker
 groups:
 - Aegis
 locations:
@@ -12,15 +18,9 @@ locations:
 topics:
 - alien contact
 - war
+entities: []
 arc_id: null
-modern_impact: "Mantle's balanced reporting — 'Some will also consider it noble that Tesreau avoids mentioning how she opposed the superpowers shutting down Aegis... Others will recognise her moral high ground as mere politics' — shows media skepticism. Aisling's endorsement — 'She has transformed a once-failing initiative into the vanguard of humanity's defence' — is significant given her earlier opposition. Rademaker's dismissal — 'self-congratulatory hot air' — maintains the corporate rivalry."
-persons:
-- Alba Tesreau
-- Allan Mantle
-- Aisling Duval
-- Torben Rademaker
-player_impact: "Pilots will find the Aegis Statement waiting in their ship's inbox service."
-summary: "Professor Tesreau delivers a formal public address on Aegis's transformation, formally designating the motherships as 'Titans' and announcing the pulse wave xeno scanner project."
+modern_impact: Mantle's balanced reporting — 'Some will also consider it noble that Tesreau avoids mentioning how she opposed the superpowers shutting down Aegis... Others will recognise her moral high ground as mere politics' — shows media skepticism. Aisling's endorsement — 'She has transformed a once-failing initiative into the vanguard of humanity's defence' — is significant given her earlier opposition. Rademaker's dismissal — 'self-congratulatory hot air' — maintains the corporate rivalry.
 legacy_weight: 5
 significance: high
 related_uuids:

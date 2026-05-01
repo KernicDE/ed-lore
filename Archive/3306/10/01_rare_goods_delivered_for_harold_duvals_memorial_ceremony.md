@@ -4,30 +4,23 @@ title: Rare Goods Delivered for Harold Duval’s Memorial Ceremony
 slug: rare_goods_delivered_for_harold_duvals_memorial_ceremony
 date: '3306-10-01'
 source: GitHub
-groups:
-- Pilots Federation
+summary: Rare goods are delivered for Prince Harold Duval's memorial ceremony at the Imperial Palace on Capitol. Princess Aisling Duval thanks contributors and vows to support anti-terrorist efforts.
+player_impact: Pilots who delivered rare goods can collect rewards at Oterma Station in Baal. Gutamaya ships are discounted for one week.
 persons:
 - Aisling Duval
+groups:
+- Pilots Federation
 locations:
 - Achenar
 - Capitol
 topics:
 - humanitarian
-summary: Rare goods are delivered for Prince Harold Duval's memorial ceremony at the
-  Imperial Palace on Capitol. Princess Aisling Duval thanks contributors and vows to
-  support anti-terrorist efforts.
-player_impact: Pilots who delivered rare goods can collect rewards at Oterma Station in
-  Baal. Gutamaya ships are discounted for one week.
-modern_impact: The memorial cements public grief and anti-NMLA sentiment, with Aisling
-  Duval positioning herself as a voice against terrorism.
+modern_impact: The memorial cements public grief and anti-NMLA sentiment, with Aisling Duval positioning herself as a voice against terrorism.
 legacy_weight: 3
 significance: medium
 ---
 
-Rare Goods Delivered for Harold Duval’s Memorial Ceremony
-
-
-*Pilots Federation ALERT: For The attention of all Commanders* 
+**Pilots Federation ALERT: For The attention of all Commanders** 
 
 Memorial preparations complete. 
 

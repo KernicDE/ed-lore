@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Lambda Andromedae: Bringing Data Home
-
-
 Inspired by Universal Cartographics recent push to expand humanities borders, The Sirius Corporation has today announced Its plan to launch a number of new colonial outposts to The very edges of occupied space. 
 
 Ana Quin, Sirius' Junior Vice President of Interstellar Logistics, had This to say about the announcement:  

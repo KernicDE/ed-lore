@@ -4,7 +4,13 @@ title: 'Seo Jin-ae: ‘The Thargoids Know We’re Coming’'
 slug: seo_jin_ae_the_thargoids_know_were_coming
 date: '3309-05-04'
 source: API
-entities: []
+summary: Seo Jin-ae warns that Thargoids are aware of human penetration attempts into the Maelstroms, describing a psychic reaction to pulse neutraliser tests.
+player_impact: Pilots planning to explore Maelstrom cores should not assume element of surprise.
+persons:
+- Seo Jin-ae
+- Aden Tanner
+- Alba Tesreau
+- Skylar Anderson
 groups:
 - Aegis
 locations:
@@ -13,15 +19,9 @@ topics:
 - alien contact
 - exploration
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Seo Jin-ae's description — 'Like being woken up by insect bites,' was how she described the sensation — is visceral. Her certainty — 'They understand we've found a way to push deeper into the Maelstrom. They know we're coming' — is ominous. Tanner's duty to share 'not verifiable data' shows his respect for her abilities. Anderson's dismissal — 'found no evidence of any changes in the Thargoids' behaviour or strategy' — represents military skepticism."
-persons:
-- Seo Jin-ae
-- Aden Tanner
-- Alba Tesreau
-- Skylar Anderson
-player_impact: "Pilots planning to explore Maelstrom cores should not assume element of surprise."
-summary: "Seo Jin-ae warns that Thargoids are aware of human penetration attempts into the Maelstroms, describing a psychic reaction to pulse neutraliser tests."
+modern_impact: Seo Jin-ae's description — 'Like being woken up by insect bites,' was how she described the sensation — is visceral. Her certainty — 'They understand we've found a way to push deeper into the Maelstrom. They know we're coming' — is ominous. Tanner's duty to share 'not verifiable data' shows his respect for her abilities. Anderson's dismissal — 'found no evidence of any changes in the Thargoids' behaviour or strategy' — represents military skepticism.
 legacy_weight: 5
 significance: high
 related_uuids:

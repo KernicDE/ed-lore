@@ -4,6 +4,8 @@ title: Frontline Report  The War against Emperor’s Dawn
 slug: frontline_report_the_war_against_emperors_dawn
 date: '3301-09-17'
 source: GitHub
+summary: Journalist Katherine Ryder reported from the frontlines of Senator Patreus's campaign against Emperor's Dawn in the Dakshmandi and Maausk systems. General Anthony Corvus described the insurgents as disciplined and methodical, with morale that never wavers despite losses. Hundreds of independent pilots have joined the insurgents, and critics note Patreus may have underestimated the group's resolve, risking a protracted conflict that could exhaust Imperial resources.
+player_impact: Combat pilots can participate in the war against Emperor's Dawn in Dakshmandi and Maausk. However, the conflict is proving more difficult than anticipated, with insurgents showing unexpected discipline and resolve.
 persons:
 - Denton Patreus
 - Anthony Corvus
@@ -15,21 +17,14 @@ groups:
 locations:
 - Dakshmandi
 - Maausk
-technologies: []
 topics:
 - war
-summary: Journalist Katherine Ryder reported from the frontlines of Senator Patreus's campaign against Emperor's Dawn in the Dakshmandi and Maausk systems. General Anthony Corvus described the insurgents as disciplined and methodical, with morale that never wavers despite losses. Hundreds of independent pilots have joined the insurgents, and critics note Patreus may have underestimated the group's resolve, risking a protracted conflict that could exhaust Imperial resources.
-player_impact: Combat pilots can participate in the war against Emperor's Dawn in Dakshmandi and Maausk. However, the conflict is proving more difficult than anticipated, with insurgents showing unexpected discipline and resolve.
+technologies: []
 modern_impact: Frontline report on the Imperial campaign against Emperor's Dawn insurgents.
 legacy_weight: 2
 significance: low
 ---
 
-Frontline Report: The War against Emperor’s Dawn
-
-
-Frontline Report: The War against Emperor’s Dawn 
- 
 Four days ago, Imperial Senator Denton Patreus launched a military campaign against Emperor’s Dawn, the organisation responsible for the murder of Emperor Hengist Duval. Since then, there has been intense conflict in the Dakshmandi and Maausk systems, where two Emperor’s Dawn bases are Located, With scores of Imperial Navy vessels and Emperor’s Dawn ships exchanging fire. 
 
 Journalist Katherine Ryder, who has reported from war zones across the galaxy In a career spanning more than twenty years, recently met With One of the Imperial generals leading the campaign. In a report for the Imperial Herald, she described the unfolding conflict between the Empire and Emperor’s Dawn: 

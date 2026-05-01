@@ -4,21 +4,8 @@ title: A New Dawn for Humanity?
 slug: a_new_dawn_for_humanity
 date: '3310-11-07'
 source: API
-entities: []
-groups:
-- Aegis
-- Alliance
-- Sirius Corporation
-- Utopia
-locations:
-- Sirius
-- White House
-topics:
-- humanitarian
-- politics
-- war
-arc_id: null
-modern_impact: "Moulin's observation that Archer 'stands opposite her in Congress, ready to pounce on any signs of weakness' foreshadows Archer's aggressive expansion into Federal territory in 3311. Carvalho's prediction that Torval 'seems poised to assume the position of Chancellor' will be tested in the coming months. Driscoll's framing of Kaine's dissent around the Sirius pact directly predicts the May 3311 Alliance Assembly vote to end the pact."
+summary: Political analysts assess the post-Thargoid war balance of power across the core systems, with Winters facing domestic challenges, Arissa and Patreus strengthened in the Empire, and Mahon facing opposition from Kaine in the Alliance.
+player_impact: Not specifically mentioned — this is a political analysis piece summarising post-war power dynamics.
 persons:
 - Jean-Daniel Moulin
 - Cassia Carvalho
@@ -35,8 +22,21 @@ persons:
 - Pranav Antal
 - Yuri Grom
 - Archon Delaine
-player_impact: "Not specifically mentioned — this is a political analysis piece summarising post-war power dynamics."
-summary: "Political analysts assess the post-Thargoid war balance of power across the core systems, with Winters facing domestic challenges, Arissa and Patreus strengthened in the Empire, and Mahon facing opposition from Kaine in the Alliance."
+groups:
+- Aegis
+- Alliance
+- Sirius Corporation
+- Utopia
+locations:
+- Sirius
+- White House
+topics:
+- humanitarian
+- politics
+- war
+entities: []
+arc_id: null
+modern_impact: Moulin's observation that Archer 'stands opposite her in Congress, ready to pounce on any signs of weakness' foreshadows Archer's aggressive expansion into Federal territory in 3311. Carvalho's prediction that Torval 'seems poised to assume the position of Chancellor' will be tested in the coming months. Driscoll's framing of Kaine's dissent around the Sirius pact directly predicts the May 3311 Alliance Assembly vote to end the pact.
 legacy_weight: 5
 significance: high
 ---

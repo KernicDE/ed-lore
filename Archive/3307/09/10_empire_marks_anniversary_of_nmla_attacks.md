@@ -4,9 +4,8 @@ title: Empire Marks Anniversary of NMLA Attacks
 slug: empire_marks_anniversary_of_nmla_attacks
 date: '3307-09-10'
 source: API
-groups:
-- Marlinist
-- NMLA
+summary: The Empire declares a day of mourning for the first anniversary of the NMLA's Imperial starport bombings, which killed over 60,000 people and marked the beginning of the terror campaign.
+player_impact: None
 persons:
 - Aisling Duval
 - Zachary Hudson
@@ -14,17 +13,15 @@ persons:
 - Hadrian Augustus Duval
 - Octavia Volkov
 - Harold Duval
+groups:
+- Marlinist
+- NMLA
 topics:
 - humanitarian
 - terrorism
 - war
 arc_id: nmla-terrorism
-summary: The Empire declares a day of mourning for the first anniversary of the NMLA's
-  Imperial starport bombings, which killed over 60,000 people and marked the beginning
-  of the terror campaign.
-player_impact: None
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---

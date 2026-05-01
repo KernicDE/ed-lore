@@ -4,20 +4,16 @@ title: Winters Willingly Agrees to Vote
 slug: winters_willingly_agrees_to_vote
 date: '3301-05-29'
 source: GitHub
+topics:
+- diplomacy
 entities:
 - Felicia Winters held
 - Jasmina Halsey
-topics:
-- diplomacy
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---
-
-Winters Willingly Agrees to Vote
-
 
 Following Shadow President Zachary Hudson’s call to have Congress issue a Vote of No Confidence against President Jasmina Halsey, Acting President Felicia Winters held a press conference outside Congress to address The Shadow President’s concerns about The future. 
 

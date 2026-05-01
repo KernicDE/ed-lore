@@ -21,9 +21,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Lakon Releases Alliance Chieftain
-
-
 The Alliance has announced a new combat ship, the Alliance Chieftain, Which has been specifically designed to counter the aggression of the Thargoids. 
 
 A press release from Lakon Spaceways, which has developed the ship, stated: 

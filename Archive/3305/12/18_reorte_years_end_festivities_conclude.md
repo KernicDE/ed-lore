@@ -4,27 +4,22 @@ title: Reorte Year’s End Festivities Conclude
 slug: reorte_years_end_festivities_conclude
 date: '3305-12-18'
 source: GitHub
-groups:
-- Alliance
+summary: End-of-year celebrations conclude successfully in the Reorte system. Independent pilots ensured supplies for over a billion attendees while maintaining security.
+player_impact: Pilots who took part can obtain rewards from Davies High in Reorte.
 persons:
 - Edmund Mahon
+groups:
+- Alliance
 locations:
 - Reorte
 topics:
 - festival
-summary: End-of-year celebrations conclude successfully in the Reorte system. Independent
-  pilots ensured supplies for over a billion attendees while maintaining security.
-player_impact: Pilots who took part can obtain rewards from Davies High in Reorte.
-modern_impact: The successful conclusion of the Alliance's year-end festivities reinforces
-  inter-system cooperation.
+modern_impact: The successful conclusion of the Alliance's year-end festivities reinforces inter-system cooperation.
 legacy_weight: 2
 significance: low
 related_uuids:
 - aa62308a-5bb5-5176-b568-17e5602b7db7
 ---
-
-Reorte Year’s End Festivities Conclude
-
 
 End-of-year celebrations have concluded in The Reorte system, With organisers declaring The week a grand success. 
 

@@ -4,6 +4,12 @@ title: Aegis Confirms Seo Jin-ae 'Hiatus' from Advisory Role
 slug: aegis_confirms_seo_jin_ae_hiatus_from_advisory_role
 date: '3311-06-03'
 source: API
+summary: Aegis confirms that special advisor Seo Jin-ae has taken a hiatus from her duties. Seo, the sole survivor of Project Seraph's 197 test subjects, reveals her intent to find and shut down Salvation, whom she believes exists beyond physical death in HIP 22460.
+player_impact: Pilots benefited from Seo Jin-ae's Thargoid intelligence during the war. Her departure from Aegis marked the end of a unique source of hive mind insight.
+persons:
+- Seo Jin-ae
+- Alba Tesreau
+- Salvation
 groups:
 - Aegis
 - October Consortium
@@ -17,23 +23,11 @@ topics:
 - espionage
 - medicine
 - war
-persons:
-- Seo Jin-ae
-- Alba Tesreau
-- Salvation
 technologies:
 - cortical implant
 - Project Seraph
 - Proteus Wave
-player_impact: 'Pilots benefited from Seo Jin-ae''s Thargoid intelligence during the
-  war. Her departure from Aegis marked the end of a unique source of hive mind insight.'
-summary: 'Aegis confirms that special advisor Seo Jin-ae has taken a hiatus from
-  her duties. Seo, the sole survivor of Project Seraph''s 197 test subjects, reveals
-  her intent to find and shut down Salvation, whom she believes exists beyond physical
-  death in HIP 22460.'
-modern_impact: 'Seo Jin-ae''s claims about Salvation''s continued existence and her
-  quest to stop him remain unresolved, leaving a lingering mystery in post-war galactic
-  intelligence.'
+modern_impact: Seo Jin-ae's claims about Salvation's continued existence and her quest to stop him remain unresolved, leaving a lingering mystery in post-war galactic intelligence.
 legacy_weight: 5
 significance: high
 related_uuids: []

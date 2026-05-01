@@ -4,6 +4,8 @@ title: 'Thargoids Repulsed from Three Systems '
 slug: thargoids_repulsed_from_three_systems
 date: '3307-12-14'
 source: API
+summary: Salvation's anti-xeno superweapons successfully repel Thargoid vessels from Delphi, Maia and Merope during Operation Tri-hammer, with pilots now asked to help repair damaged starports.
+player_impact: Pilots helped transport experimental equipment for Operation Tri-hammer. Now requested to help repair and rescue at Donar's Oak, The Oracle, Obsidian Orbital and Reed's Rest.
 persons:
 - Morag Halloran
 groups:
@@ -24,21 +26,14 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-contact
-summary: Salvation's anti-xeno superweapons successfully repel Thargoid vessels from
-  Delphi, Maia and Merope during Operation Tri-hammer, with pilots now asked to help
-  repair damaged starports.
-player_impact: Pilots helped transport experimental equipment for Operation Tri-hammer.
-  Now requested to help repair and rescue at Donar's Oak, The Oracle, Obsidian Orbital
-  and Reed's Rest.
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 2b4db5ae-e575-5f03-bb79-4a02d667f70a
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Salvation’s anti-xeno superweapons have cleared most Thargoid vessels from The Delphi, Maia and Merope systems.
 Pilots were asked to transport classified experimental equipment from the Heart of Taurus in the Qarato system to three Other megaships owned by Taurus Mining Ventures. These components were used to prepare the large-scale weapons developed by Salvation to affect Thargoid technology.
 Vox Galactica published an intercepted message from Commodore Morag Halloran, commanding officer of the Musashi, to the Bright Sentinel and Glorious Prospect megaships:

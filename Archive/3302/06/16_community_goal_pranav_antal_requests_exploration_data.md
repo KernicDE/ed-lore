@@ -13,20 +13,17 @@ groups:
 locations:
 - Garoku
 - Terry Port
-technologies: []
 topics:
 - exploration
 - humanitarian
 - piracy
 - slavery
 - war
+technologies: []
 modern_impact: Humanitarian effort by the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Community Goal: Pranav Antal Requests Exploration Data
-
 
 Every year, thousands of people disappear into The vastness of space. Some simply venture out too Far and lose their way. Others are abducted by pirates and sold into slavery, their identities irrevocably erased. Others still may suffer more mysterious fates. 
 

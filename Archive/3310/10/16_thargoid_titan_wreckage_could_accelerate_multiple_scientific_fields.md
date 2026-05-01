@@ -4,7 +4,10 @@ title: Thargoid Titan Wreckage ‘Could Accelerate Multiple Scientific Fields’
 slug: thargoid_titan_wreckage_could_accelerate_multiple_scientific_fields
 date: '3310-10-16'
 source: API
-entities: []
+summary: Aegis scientists at the Xenological Science Symposium on Procyon discuss how Thargoid Titan wreckage could accelerate multiple scientific fields, with Professor Shamus Madigan highlighting thermodynamic efficiency breakthroughs.
+player_impact: Not specifically mentioned — this is a scientific forum report.
+persons:
+- Shamus Madigan
 groups:
 - Achilles Aerospace
 - Aegis
@@ -14,19 +17,16 @@ topics:
 - alien contact
 - research
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Madigan's observation that Titan thermodynamic efficiency 'has essentially redrawn the map of our understanding' foreshadows the industrial applications that will emerge post-war. The explicit mention of Achilles Aerospace's SCO drive shows how xeno-tech has already been militarised. The civilian applications — 'industrial installations could work harder and faster' — hint at the economic boom that follows the war's end."
-persons:
-- Shamus Madigan
+entities: []
 technologies:
 - SCO frame shift drive
 - Thargoid Titan wreckage
-player_impact: "Not specifically mentioned — this is a scientific forum report."
-summary: "Aegis scientists at the Xenological Science Symposium on Procyon discuss how Thargoid Titan wreckage could accelerate multiple scientific fields, with Professor Shamus Madigan highlighting thermodynamic efficiency breakthroughs."
-related_uuids:
-- 52a6914e-4835-530a-a009-016a4e55435d
+arc_id: thargoid-titan-war
+modern_impact: Madigan's observation that Titan thermodynamic efficiency 'has essentially redrawn the map of our understanding' foreshadows the industrial applications that will emerge post-war. The explicit mention of Achilles Aerospace's SCO drive shows how xeno-tech has already been militarised. The civilian applications — 'industrial installations could work harder and faster' — hint at the economic boom that follows the war's end.
 legacy_weight: 5
 significance: high
+related_uuids:
+- 52a6914e-4835-530a-a009-016a4e55435d
 ---
 
 Aegis scientists have recently held a public forum to discuss ongoing research into the wreckage left behind by Thargoid Titans.

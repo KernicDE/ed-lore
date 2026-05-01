@@ -4,30 +4,24 @@ title: Lave Citizens Comment on Festival
 slug: lave_citizens_comment_on_festival
 date: '3305-08-02'
 source: GitHub
-groups:
-- Alliance
-- Lave Radio
+summary: Lave residents share mixed feelings about hosting the Alliance Festival of Culture's opening ceremony. Some view it as political propaganda, while others embrace their Alliance heritage despite the system's current independence.
+player_impact: None
 persons:
 - Allen Stroud
 - Grady Chen
 - Sarai Messemer
+groups:
+- Alliance
+- Lave Radio
 locations:
 - Lave
 topics:
 - festival
 - politics
-summary: Lave residents share mixed feelings about hosting the Alliance Festival of Culture's
-  opening ceremony. Some view it as political propaganda, while others embrace their Alliance
-  heritage despite the system's current independence.
-player_impact: None
-modern_impact: The festival highlights the complex political identity of systems that have
-  shifted between Alliance and independent governance.
+modern_impact: The festival highlights the complex political identity of systems that have shifted between Alliance and independent governance.
 legacy_weight: 2
 significance: low
 ---
-
-Lave Citizens Comment on Festival
-
 
 As the first week of The Alliance Festival of Culture draws to a close, Lave residents have shared mixed feelings about the decision to stage the opening ceremony in their home system. 
 

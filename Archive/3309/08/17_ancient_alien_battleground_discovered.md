@@ -4,7 +4,14 @@ title: Ancient Alien Battleground Discovered
 slug: ancient_alien_battleground_discovered
 date: '3309-08-17'
 source: API
-entities: []
+summary: Wreckage from an ancient Guardian-Thargoid battle is found in Wregoe BU-Y b2-0, only the second such site ever recorded, with local Thargoids showing non-aggressive behavior.
+player_impact: Commander Renia Rakowski's report in Wregoe GA-X B3-0 led to the discovery; pilots may explore the Wregoe BU-Y b2-0 site.
+persons:
+- Jeong-Hui Shin
+- Renia Rakowski
+- Timothy Culver
+- Bernadette Wells
+- Dev Venkatesh
 groups:
 - Azimuth Biochemicals
 locations:
@@ -18,16 +25,9 @@ topics:
 - investigation
 - research
 - xenoarchaeology
+entities: []
 arc_id: guardian-thargoid-war
-modern_impact: "Shin's theory — 'they are still following million-year-old orders to attack the Guardians. Therefore, from their perspective, humans are an unknown species and not identified as an enemy' — is a remarkable insight. The comparison to the Proteus discovery in the Trapezium Sector two centuries ago provides historical context. The peace advocates' framing — 'an opportunity for non-hostile interactions with the Thargoids' — contrasts with standard military doctrine."
-persons:
-- Jeong-Hui Shin
-- Renia Rakowski
-- Timothy Culver
-- Bernadette Wells
-- Dev Venkatesh
-player_impact: "Commander Renia Rakowski's report in Wregoe GA-X B3-0 led to the discovery; pilots may explore the Wregoe BU-Y b2-0 site."
-summary: "Wreckage from an ancient Guardian-Thargoid battle is found in Wregoe BU-Y b2-0, only the second such site ever recorded, with local Thargoids showing non-aggressive behavior."
+modern_impact: Shin's theory — 'they are still following million-year-old orders to attack the Guardians. Therefore, from their perspective, humans are an unknown species and not identified as an enemy' — is a remarkable insight. The comparison to the Proteus discovery in the Trapezium Sector two centuries ago provides historical context. The peace advocates' framing — 'an opportunity for non-hostile interactions with the Thargoids' — contrasts with standard military doctrine.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,7 +36,7 @@ related_uuids:
 - f362b55b-941d-566f-aa08-6a1ae59364b9
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Wreckage from a past conflict between the Guardian and Thargoid races has been found in the Wregoe BU-Y b2-0 system.
 The crashed remains of Thargoid vessels, alongside structures of Guardian origin, are located on Wregoe BU-Y b2-0 1 c. Conflict between the two species occurred millions of years ago, but physical evidence of this is extremely rare. The only comparable site, in the Trapezium Sector YU-X c1-2 system, was initially found two centuries ago by the Azimuth Biochemicals ship Proteus and rediscovered in 3307.
 Wregoe BU-Y b2-0 was one of several systems under investigation following a report by Commander Renia Rakowski, who encountered a Thargoid interceptor in nearby Wregoe GA-X B3-0.

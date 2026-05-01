@@ -4,6 +4,8 @@ title: Experts Speculate on Thargoid Behaviour
 slug: experts_speculate_on_thargoid_behaviour
 date: '3308-09-05'
 source: API
+summary: Xenologists debate the Thargoids' new defensive capabilities after they resisted the Proteus Wave in HIP 22460, with theories ranging from ancient Guardian countermeasures to biomechanical immune responses.
+player_impact: Not specifically mentioned — this is an academic analysis piece.
 persons:
 - Shamus Madigan
 - Ivano Colombera
@@ -21,13 +23,7 @@ topics:
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-summary: Xenologists debate the Thargoids' new defensive capabilities after they resisted
-  the Proteus Wave in HIP 22460, with theories ranging from ancient Guardian countermeasures
-  to biomechanical immune responses.
-player_impact: Not specifically mentioned — this is an academic analysis piece.
-modern_impact: The scholarly debate reveals how little humanity understands Thargoid
-  biology and technology, with each theory carrying unsettling implications for future
-  conflicts.
+modern_impact: The scholarly debate reveals how little humanity understands Thargoid biology and technology, with each theory carrying unsettling implications for future conflicts.
 legacy_weight: 4
 significance: high
 ---

@@ -13,14 +13,10 @@ topics:
 - trade
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Demand for Original Onionhead Higher Than Ever
-
 
 Thousands of traders have started flocking back to Kappa Fornacis following The announcement that Onionhead is once again available for sale onboard Harvestport. 
 

@@ -4,6 +4,8 @@ title: Macrosphere Initiative
 slug: macrosphere_initiative
 date: '3305-02-28'
 source: GitHub
+summary: Macrosphere launches a community drive to build the Mech Scanner, a device to detect illegally reprogrammed personal robots, following the Mars Tribune scandal.
+player_impact: Pilots could deliver micro controllers, auto fabricators, aluminium and jewels to Grandin Terminal in the DS Leonis system.
 persons:
 - Taniyah Sharpe
 groups:
@@ -14,17 +16,12 @@ locations:
 topics:
 - corporate expansion
 - technology
-summary: Macrosphere launches a community drive to build the Mech Scanner, a device to detect illegally reprogrammed personal robots, following the Mars Tribune scandal.
-player_impact: Pilots could deliver micro controllers, auto fabricators, aluminium and jewels to Grandin Terminal in the DS Leonis system.
 modern_impact: The Mech Scanner initiative addressed growing concerns about robotic security vulnerabilities, though its effectiveness against sophisticated reprogramming remained debated.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 198180c0-2835-5757-ae60-0f9720e6a7e8
 ---
-
-Macrosphere Initiative
-
 
 Technology company Macrosphere is developing a specialised scanning device to detect illicit interference With personal robots. 
 

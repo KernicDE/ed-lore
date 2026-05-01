@@ -4,26 +4,22 @@ title: Engineers Boost Ship Module Upgrading
 slug: engineers_boost_ship_module_upgrading
 date: '3306-12-17'
 source: API
-groups:
-- Alliance
+summary: Engineers across the galaxy collaborate to offer boosted ship module upgrades until the 7th of January 3307, partly in solidarity with Liz Ryder after the Eurybia incident.
+player_impact: Pilots received increased augmentation for engineered weapons and modules at all workshops during the promotional period.
 persons:
 - Lori Jameson
 - Liz Ryder
 - Mel Brandon
+groups:
+- Alliance
 topics:
 - engineering
-summary: Engineers across the galaxy collaborate to offer boosted ship module upgrades
-  until the 7th of January 3307, partly in solidarity with Liz Ryder after the Eurybia
-  incident.
-player_impact: Pilots received increased augmentation for engineered weapons and modules
-  at all workshops during the promotional period.
-modern_impact: The engineer network remains a vital resource for pilots seeking customised
-  ship modifications.
+modern_impact: The engineer network remains a vital resource for pilots seeking customised ship modifications.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The effectiveness of Engineers’ upgrading for ship modules will be boosted until the 7th of January 3307.
 During This time, engineered weapons and modules will receive increased augmentation for the same amount of materials. This will apply to Every workshop in Alliance, Imperial, Federal and Independent space.
 Lori Jameson, an engineer based in the Shinrarta Dezhra system, provided details to Vox Galactica on how this collaboration came about:

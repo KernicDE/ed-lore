@@ -15,9 +15,6 @@ legacy_weight: 2
 significance: low
 ---
 
-The Hunt for Justice
-
-
 Senator Patreus has today begun The process of sending his agents to reclaim the debt owed to him by the government of Kui Hsien. 
 
 The Friends of Kui Hsien, the cooperative council that rules over the region, had previously entered into an agreement With Senator Patreus to supply Kui Hsien With the arms they needed to repel an invasion by the Federal-aligned Future of LTT 911 Party.  Kui Hsien’s economy was devastated during the war With LTT 911, and the Friends now find themselves in the unenviable position of being unable to repay their debt. 

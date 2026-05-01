@@ -4,6 +4,8 @@ title: Tesreau Highlights Azimuth's Inhumanity
 slug: tesreau_highlights_azimuths_inhumanity
 date: '3308-07-27'
 source: API
+summary: Professor Alba Tesreau publishes a counter-statement exposing Azimuth's inhumanity, linking HIP 22460 to Project Seraph's Fort Asch experiments, Black Flight's Overlook megaship, and the Alexandria sabotage.
+player_impact: Not specifically mentioned — this is a political statement.
 persons:
 - Alba Tesreau
 - Torben Rademaker
@@ -24,13 +26,11 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-summary: Professor Alba Tesreau publishes a counter-statement exposing Azimuth's inhumanity, linking HIP 22460 to Project Seraph's Fort Asch experiments, Black Flight's Overlook megaship, and the Alexandria sabotage.
-player_impact: Not specifically mentioned — this is a political statement.
 modern_impact: Tesreau's detailed expose connected Azimuth's historical atrocities to its present operations, providing the most comprehensive public indictment of Salvation's organisation before the Proteus Wave activation.
-related_uuids:
-- 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
 legacy_weight: 5
 significance: high
+related_uuids:
+- 7d2b1a8f-5a0b-8f5d-9c4e-7d2b1a8f5a0b
 ---
 
 A counter-statement regarding Azimuth Biotech has been published by Professor Alba Tesreau, former head of research at Aegis.

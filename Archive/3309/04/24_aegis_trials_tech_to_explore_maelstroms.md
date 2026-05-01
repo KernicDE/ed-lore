@@ -4,7 +4,11 @@ title: Aegis Trials Tech to Explore Maelstroms
 slug: aegis_trials_tech_to_explore_maelstroms
 date: '3309-04-24'
 source: API
-entities: []
+summary: Aegis develops and begins unmanned testing of the Thargoid pulse neutraliser, building on Elvira Martuuk's 3303 shutdown field neutraliser design.
+player_impact: Not specifically mentioned — this is a research report.
+persons:
+- Alba Tesreau
+- Ivano Colombera
 groups:
 - Aegis
 locations:
@@ -14,13 +18,9 @@ topics:
 - alien contact
 - engineering
 - research
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's explanation — 'the wave physically repels all human ships and disrupts onboard electrical systems' — describes the Maelstrom's danger. Colombera's technical detail — 'amplified its effectiveness when triggered at the correct time' and calibration 'to its specific waveform' — shows engineering sophistication. The plan for 'unmanned' initial tests and 'specially constructed probes' demonstrates caution."
-persons:
-- Alba Tesreau
-- Ivano Colombera
-player_impact: "Not specifically mentioned — this is a research report."
-summary: "Aegis develops and begins unmanned testing of the Thargoid pulse neutraliser, building on Elvira Martuuk's 3303 shutdown field neutraliser design."
+modern_impact: Tesreau's explanation — 'the wave physically repels all human ships and disrupts onboard electrical systems' — describes the Maelstrom's danger. Colombera's technical detail — 'amplified its effectiveness when triggered at the correct time' and calibration 'to its specific waveform' — shows engineering sophistication. The plan for 'unmanned' initial tests and 'specially constructed probes' demonstrates caution.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -22,9 +22,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Colonia Project Requests Microresources
-
-
 Scientists in Colonia are investigating The region’s potential to support larger populations in the future. 
 
 Professor Alexei de la Vega, who is leading the research, published This statement: 

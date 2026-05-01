@@ -4,20 +4,17 @@ title: Quivira Honours the People’s Princess
 slug: quivira_honours_the_peoples_princess
 date: '3301-05-19'
 source: GitHub
-entities:
-- Patreus continued their assault
 locations:
 - Summerland
 topics:
 - humanitarian
 - war
+entities:
+- Patreus continued their assault
 modern_impact: Humanitarian effort by the pilot community to assist those in need.
 legacy_weight: 2
 significance: low
 ---
-
-Quivira Honours The People’s Princess
-
 
 Over The last week, Imperial forces loyal to Senator Patreus continued their assault on Quivira, and due to their efforts, Quivira Electronics Plc was finally able to secure control over Godel Dock early on Monday afternoon. 
 

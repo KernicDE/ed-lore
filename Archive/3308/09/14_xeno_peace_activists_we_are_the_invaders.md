@@ -4,6 +4,8 @@ title: 'Xeno-Peace Activists: ‘We Are The Invaders’'
 slug: xeno_peace_activists_we_are_the_invaders
 date: '3308-09-14'
 source: API
+summary: Xeno-peace activist Timothy Culver argues that Thargoid incursions are defensive reprisals for the Proteus Wave and mycoid bioweapon, calling for diplomatic dialogue rather than military action.
+player_impact: Not specifically mentioned — this is an activist statement.
 persons:
 - Timothy Culver
 groups:
@@ -19,13 +21,7 @@ topics:
 - war
 - bioweapon
 arc_id: thargoid-titan-war
-summary: Xeno-peace activist Timothy Culver argues that Thargoid incursions are defensive
-  reprisals for the Proteus Wave and mycoid bioweapon, calling for diplomatic dialogue
-  rather than military action.
-player_impact: Not specifically mentioned — this is an activist statement.
-modern_impact: The xeno-peace movement's reframing of Thargoid aggression as defensive
-  retaliation challenges the dominant military narrative and questions humanity's own
-  role in provoking the conflict.
+modern_impact: The xeno-peace movement's reframing of Thargoid aggression as defensive retaliation challenges the dominant military narrative and questions humanity's own role in provoking the conflict.
 legacy_weight: 5
 significance: high
 related_uuids:

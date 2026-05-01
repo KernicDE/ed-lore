@@ -14,9 +14,6 @@ legacy_weight: 2
 significance: low
 ---
 
-The Talons of Justice
-
-
 During an exclusive interview With the popular Imperial politics programme, ‘Question Everything’, Senator Arissa Lavigny-Duval provided some new insight into The ongoing investigation into the attempted assassination of Emperor Hengist Duval. 
 
 “The fact that anyone would attack the Emperor, in his own palace, when for all intents and purposes he’s already on his deathbed, is symptomatic of a very serious sickness within Our society.” 

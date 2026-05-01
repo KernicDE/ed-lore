@@ -4,26 +4,20 @@ title: Controversy at Film Festival
 slug: controversy_at_film_festival
 date: '3305-08-03'
 source: GitHub
-groups:
-- Alliance
+summary: The Alliance Festival of Culture's second week features a film festival at George Lucas station in Leesti. The historical drama 'Unity' sparks debate by portraying Alliance founders Mic Turner and Meredith Argent as faking their romance for political gain.
+player_impact: None
 persons:
 - Corinne Macintyre
+groups:
+- Alliance
 locations:
 - Leesti
 topics:
 - festival
-summary: The Alliance Festival of Culture's second week features a film festival at George
-  Lucas station in Leesti. The historical drama 'Unity' sparks debate by portraying Alliance
-  founders Mic Turner and Meredith Argent as faking their romance for political gain.
-player_impact: None
-modern_impact: The controversy demonstrates how historical reinterpretation can challenge
-  foundational myths and provoke cultural discourse within the Alliance.
+modern_impact: The controversy demonstrates how historical reinterpretation can challenge foundational myths and provoke cultural discourse within the Alliance.
 legacy_weight: 2
 significance: low
 ---
-
-Controversy at Film Festival
-
 
 The Leesti system played host to The second week of the Alliance Festival of Culture, where a new film production has caused minor controversy. 
 

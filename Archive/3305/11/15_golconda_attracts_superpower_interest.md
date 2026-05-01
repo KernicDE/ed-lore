@@ -4,12 +4,14 @@ title: Golconda Attracts Superpower Interest
 slug: golconda_attracts_superpower_interest
 date: '3305-11-15'
 source: GitHub
-groups:
-- Federal Congress
-- Empire
+summary: The Empire and Federation both deploy megaships to Upaniklis with competing proposals for the Golconda crew. The Empire offers a planetary settlement under Imperial protection, while the Federation offers an orbital outpost to preserve their spacefaring traditions.
+player_impact: None
 persons:
 - Ava Cornelius
 - Harlan Turk
+groups:
+- Federal Congress
+- Empire
 locations:
 - Upaniklis
 - Sol
@@ -17,12 +19,7 @@ topics:
 - diplomacy
 - ship
 - corporate expansion
-summary: The Empire and Federation both deploy megaships to Upaniklis with competing proposals
-  for the Golconda crew. The Empire offers a planetary settlement under Imperial protection,
-  while the Federation offers an orbital outpost to preserve their spacefaring traditions.
-player_impact: None
-modern_impact: The superpower competition over the Golconda reflects broader rivalries and
-  raises questions about the colonists' right to self-determination.
+modern_impact: The superpower competition over the Golconda reflects broader rivalries and raises questions about the colonists' right to self-determination.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -30,9 +27,6 @@ related_uuids:
 - 42b2a824-dda6-5beb-ae9d-99f1e5690520
 - 0b425e04-a017-5e75-b8a3-f9326947de40
 ---
-
-Golconda Attracts Superpower Interest
-
 
 The discovery of an inhabited generation ship has attracted attention from both the Empire and the Federation. 
 

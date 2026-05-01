@@ -4,6 +4,8 @@ title: Distant Worlds Expedition Reaches Beagle Point
 slug: distant_worlds_expedition_reaches_beagle_point
 date: '3305-05-02'
 source: GitHub
+summary: The Distant Worlds II expedition reaches Beagle Point after a 73,000 light year journey, having constructed the permanent research station Explorer's Anchorage near Sagittarius A*.
+player_impact: Thousands of independent pilots participated in the expedition, with many continuing to explore uncharted space on their return journeys.
 persons:
 - Leon Banerjee
 groups:
@@ -15,15 +17,10 @@ locations:
 topics:
 - exploration
 - research
-summary: The Distant Worlds II expedition reaches Beagle Point after a 73,000 light year journey, having constructed the permanent research station Explorer's Anchorage near Sagittarius A*.
-player_impact: Thousands of independent pilots participated in the expedition, with many continuing to explore uncharted space on their return journeys.
 modern_impact: Distant Worlds II became one of the largest coordinated exploration expeditions in galactic history, establishing Explorer's Anchorage as a permanent waypoint for deep-space travellers and advancing scientific observation of the galactic core.
 legacy_weight: 4
 significance: high
 ---
-
-Distant Worlds Expedition Reaches Beagle Point
-
 
 The Distant Worlds II expedition has reached Its final destination on the Far side of the galaxy: the Beagle Point system. 
 

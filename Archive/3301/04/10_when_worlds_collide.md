@@ -12,9 +12,6 @@ legacy_weight: 2
 significance: low
 ---
 
-When Worlds Collide
-
-
 Reports are coming in from all over The Federation of a resurgence in nightclubs catering to under-40s. Analysts are at a loss to explain why so Many Federal youths have suddenly decided to abandon their artificial realities in favour of physical content, But the numbers don't lie. 
 
 Over 30% of under-40s who responded to a recent GalNet poll said that they'd visited a physical nightclub in The last month, compared to just 12% during the same period last year. 

@@ -4,6 +4,8 @@ title: Getting Serious About Tascheter
 slug: getting_serious_about_tascheter
 date: '3301-06-10'
 source: GitHub
+summary: Shadow President Felicia Winters began her tenure by challenging her former employer Sirius Corporation for influence in the Tascheter sector. Winters' media agents are spreading information packages in Oduduro to keep residents within the Federation. Meanwhile, Sirius Corporation representatives have been negotiating potential mergers with Akkadia Inc and Akkadia Crimson Allied Organisation in neighbouring Akkadia. Both powers have enjoyed success, but only one can become dominant in the sector. Relations remain cordial for now, but final preparations for a territorial showdown are underway.
+player_impact: Pilots can support either Winters' Federal campaign in Oduduro or Sirius Corp's corporate expansion in Akkadia.
 persons:
 - Felicia Winters
 - Li Yong-Rui
@@ -19,18 +21,11 @@ locations:
 topics:
 - corporate expansion
 - politics
-summary: Shadow President Felicia Winters began her tenure by challenging her former employer Sirius Corporation for influence in the Tascheter sector. Winters' media agents are spreading information packages in Oduduro to keep residents within the Federation. Meanwhile, Sirius Corporation representatives have been negotiating potential mergers with Akkadia Inc and Akkadia Crimson Allied Organisation in neighbouring Akkadia. Both powers have enjoyed success, but only one can become dominant in the sector. Relations remain cordial for now, but final preparations for a territorial showdown are underway.
-player_impact: Pilots can support either Winters' Federal campaign in Oduduro or Sirius Corp's corporate expansion in Akkadia.
 modern_impact: Winters-Sirius rivalry in Tascheter demonstrates the friction between Federal political interests and corporate expansion.
 legacy_weight: 3
 significance: medium
 ---
 
-Getting Serious About Tascheter
-
-
-Getting Serious About Tascheter 
- 
 It’s been a little over a week since Felicia Winters assumed control of The Federal Liberal Party, and it looks as if The Shadow President intends to start her time in office by taking on her ex-employer In a bid to stabilize the Federation’s interests in the Tascheter sector. 
 
 Media agents working on behalf of the Shadow President are currently in the process of spreading information packages throughout the Oduduro system, With the hope being that once residents learn of the Shadow President’s new policies they will realise that their best option is to remain part of the Federation. 

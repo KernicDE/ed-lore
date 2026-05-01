@@ -15,19 +15,16 @@ groups:
 locations:
 - Cemiess
 - Mackenzie Relay
-technologies: []
 topics:
 - research
 - succession
 - war
+technologies: []
 arc_id: imperial-succession
 modern_impact: The failed assassination attempt on Patreus exposes ongoing Imperial political instability and the persistence of anti-establishment conspiracies even after Emperor's Dawn's apparent destruction.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Assassination Attempt on Patreus Thwarted
-
 
 Recent reports indicate that an attempt was made on The life of Admiral Denton Patreus as he delivered a speech at Mackenzie Relay in the Cemiess system. The Imperial Internal Security Service confirmed that it apprehended three individuals carrying firearms who attempted to approach the admiral's podium. 
 

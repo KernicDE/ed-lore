@@ -4,6 +4,8 @@ title: Carnoeck System Clean up Nearly Over
 slug: carnoeck_system_clean_up_nearly_over
 date: '3301-10-15'
 source: GitHub
+summary: United Carnoeck for Equality's cleanup appeal following the Bacon Protests anniversary was overwhelmingly successful. Hundreds of combat pilots engaged pirates and agitators in multi-day conflicts throughout the Carnoeck system, ultimately routing the disruptive elements. Rewards will soon be issued to participating pilots.
+player_impact: Bounty hunters who assisted in the Carnoeck cleanup can expect rewards from United Carnoeck for Equality. The system is now safer for traders and travelers.
 groups:
 - United Carnoeck for Equality
 locations:
@@ -12,15 +14,10 @@ locations:
 topics:
 - festival
 - piracy
-summary: United Carnoeck for Equality's cleanup appeal following the Bacon Protests anniversary was overwhelmingly successful. Hundreds of combat pilots engaged pirates and agitators in multi-day conflicts throughout the Carnoeck system, ultimately routing the disruptive elements. Rewards will soon be issued to participating pilots.
-player_impact: Bounty hunters who assisted in the Carnoeck cleanup can expect rewards from United Carnoeck for Equality. The system is now safer for traders and travelers.
 modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---
-
-Carnoeck System Clean up Nearly Over
-
 
 Last week, United Carnoeck for Equality issued a public appeal for help in clearing The Carnoeck system of pirates and Other disruptive elements. The agitators had congregated in the Carnoeck system in the wake of the Bacon Protests anniversary celebrations, and were harassing traders and revellers travelling to and from Bacon City. 
 

@@ -4,21 +4,18 @@ title: Starship One Trial Begins
 slug: starship_one_trial_begins
 date: '3306-09-28'
 source: GitHub
+summary: The trial of Chief Technician Rory Webster begins at the Federal High Court on Mars. He is accused of sabotaging Starship One in 3301 by ordering unauthorised hyperdrive adjustments. The prosecution links the sabotage to the Highliner Antares incident.
+player_impact: None
+persons:
+- Rory Webster
 groups:
 - Federal Navy
 - Sirius Corporation
-persons:
-- Rory Webster
 topics:
 - crime
 - investigation
 - scandal
-summary: The trial of Chief Technician Rory Webster begins at the Federal High Court on
-  Mars. He is accused of sabotaging Starship One in 3301 by ordering unauthorised hyperdrive
-  adjustments. The prosecution links the sabotage to the Highliner Antares incident.
-player_impact: None
-modern_impact: The trial begins the process of uncovering the conspiracy behind Starship
-  One's destruction.
+modern_impact: The trial begins the process of uncovering the conspiracy behind Starship One's destruction.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -26,9 +23,6 @@ related_uuids:
 - fb99f105-a9bf-5623-a84b-403acc65af6a
 - 767d07a7-f7de-5ae9-80a2-b79abe76c464
 ---
-
-Starship One Trial Begins
-
 
 The trial of Chief Technician Rory Webster, who is charged With mass murder and attempted treason, began today at the Federal High Court on Mars. 
 

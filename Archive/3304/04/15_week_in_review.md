@@ -38,9 +38,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Princess Aisling Duval’s comments about Aegis have attracted a measure of support. One Imperial senator suggested that Duval had “correctly gauged The mood of the people”, while another commentator suggested that her comments were a sign of maturity. 

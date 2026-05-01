@@ -4,24 +4,20 @@ title: ACT Scores Victories Against the NMLA
 slug: act_scores_victories_against_the_nmla
 date: '3307-09-06'
 source: API
-groups:
-- Marlinist
-- NMLA
+summary: ACT reports major progress against the NMLA, raiding dozens of cells and arresting thousands of paramilitary activists following intelligence from the Marlinist civil war.
+player_impact: Pilots who supported the anti-NMLA faction indirectly contributed to intelligence that enabled these raids.
 persons:
 - Milo Castile
 - Jean-Christophe Lyon
 - Theta Seven
+groups:
+- Marlinist
+- NMLA
 topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-summary: ACT reports major progress against the NMLA, raiding dozens of cells and
-  arresting thousands of paramilitary activists following intelligence from the Marlinist
-  civil war.
-player_impact: Pilots who supported the anti-NMLA faction indirectly contributed to
-  intelligence that enabled these raids.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---

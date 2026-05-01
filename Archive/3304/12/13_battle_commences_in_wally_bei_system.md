@@ -21,9 +21,6 @@ related_uuids:
 - a5898a31-6034-573a-9534-7e6f59052202
 ---
 
-Battle Commences in Wally Bei System
-
-
 Conflict has erupted between two opposing factions in The Wally Bei system. 
 
 Hostilities were triggered after Wally Bei Technical claimed to have discovered stolen food shipments aboard their rival’s transport vessels. The faction’s spokesperson said: 

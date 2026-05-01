@@ -4,7 +4,8 @@ title: Sirius Initiative Plans Aid for Alliance
 slug: sirius_initiative_plans_aid_for_alliance
 date: '3308-04-28'
 source: API
-arc_id: thargoid-titan-war
+summary: Sirius Corporation organises humanitarian support for the Didio system under Thargoid attack.
+player_impact: Pilots delivered basic medicines, evacuation shelters, and food cartridges to the Chariot of Rhea in Leesti.
 persons:
 - Nikolas Glass
 - Li Yong-Rui
@@ -21,17 +22,16 @@ topics:
 - alien contact
 - corporate expansion
 - humanitarian
-player_impact: Pilots delivered basic medicines, evacuation shelters, and food cartridges to the Chariot of Rhea in Leesti.
-summary: Sirius Corporation organises humanitarian support for the Didio system under Thargoid attack.
-modern_impact: "\"By replenishing key supplies during this time of great crisis, Sirius Corporation has again shown its dedication to the Alliance's military efforts.\" The humanitarian campaign served dual purposes: alleviating civilian suffering in Didio while generating political capital for the ratification of the controversial Sirius-Alliance defence pact."
+arc_id: thargoid-titan-war
+modern_impact: '"By replenishing key supplies during this time of great crisis, Sirius Corporation has again shown its dedication to the Alliance''s military efforts." The humanitarian campaign served dual purposes: alleviating civilian suffering in Didio while generating political capital for the ratification of the controversial Sirius-Alliance defence pact.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - b391da8e-90b1-55d8-88e0-8ad93ae52300
 - c7e53bc9-4059-5953-ad0d-64ebf255c495
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Sirius Corporation has organised humanitarian support for The Didio system, Which is under attack by Thargoid vessels.
 The Alliance Defence Fleet is currently combating the Thargoid threat in Didio, under the command of Admiral Rachel Ziegler. 
 Admiral Nikolas Glass, who acts as a liaison between the megacorp and the Alliance Defence Force, provided details of the campaign:

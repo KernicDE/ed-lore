@@ -4,6 +4,8 @@ title: President's Bodyguard Found Murdered
 slug: presidents_bodyguard_found_murdered
 date: '3301-08-21'
 source: GitHub
+summary: Agent Susan Monroe of the Presidential Protection Detail was found murdered in her home, with evidence her residence had been searched. The cause was multiple stab wounds. The Federal Security Service identified Elaine Boyd, a Federal Times reporter romantically involved with Monroe, as a person of interest. Boyd's whereabouts are unknown and the FSS urges anyone with information to contact authorities. The Federal Times refused to comment.
+player_impact: None
 persons:
 - Susan Monroe
 - Elaine Boyd
@@ -15,18 +17,11 @@ locations:
 topics:
 - crime
 - investigation
-summary: Agent Susan Monroe of the Presidential Protection Detail was found murdered in her home, with evidence her residence had been searched. The cause was multiple stab wounds. The Federal Security Service identified Elaine Boyd, a Federal Times reporter romantically involved with Monroe, as a person of interest. Boyd's whereabouts are unknown and the FSS urges anyone with information to contact authorities. The Federal Times refused to comment.
-player_impact: None
 modern_impact: Murder of a Presidential Protection Detail agent and the disappearance of a Federal Times reporter raises serious security concerns.
 legacy_weight: 3
 significance: medium
 ---
 
-President’s Bodyguard Found Murdered
-
-
-President’s Bodyguard Found Murdered 
- 
 The Federal Security Services today revealed that a member of The Presidential Protection Detail has been found dead in her home. 
 
 “Agent Susan Monroe was killed in the early hours of This morning and there is evidence that her residence had been searched. At This time we do not know why, or if anything was taken. Her death was caused by Several stab wounds to the chest and neck.” 

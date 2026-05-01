@@ -4,23 +4,19 @@ title: President Under Pressure to Punish Panem
 slug: president_under_pressure_to_punish_panem
 date: '3301-04-14'
 source: GitHub
-entities:
-- Halsey address
-- Under Pressure
 locations:
 - Panem
 topics:
 - crime
 - narcotics
+entities:
+- Halsey address
+- Under Pressure
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
 ---
-
-President Under Pressure to Punish Panem
-
 
 Shadow President Hudson appeared before Congress earlier today to demand that President Halsey address The continued spread of Onionhead throughout Federal space. 
 

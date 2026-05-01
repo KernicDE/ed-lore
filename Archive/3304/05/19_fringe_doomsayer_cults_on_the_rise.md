@@ -22,9 +22,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Fringe Doomsayer Cults on The Rise
-
-
 An increasing number of religious movements In the core systems are proclaiming that humanity is on the verge of destruction. 
 
 Awareness of the issue has been raised by Independent reporter Gethin Okonkwo, who published an article outlining the phenomenon: 

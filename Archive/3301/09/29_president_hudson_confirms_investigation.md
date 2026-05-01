@@ -4,6 +4,8 @@ title: President Hudson Confirms Investigation
 slug: president_hudson_confirms_investigation
 date: '3301-09-29'
 source: GitHub
+summary: President Hudson responded to Shadow President Winters's call for an investigation into the Federal Times allegations. At a White House press conference, he instructed agencies to pursue the evidence, promising wrongdoers would be prosecuted if allegations proved true. The Federal Security Service was named lead agency. Winters responded by noting Hudson was ignoring the call for an open investigation.
+player_impact: The Federal Security Service is now leading the investigation into the Antares conspiracy and Smeaton's murder. Pilots should watch for developments as the Federal political crisis continues to unfold.
 persons:
 - Zachary Hudson
 - Felicia Winters
@@ -14,24 +16,17 @@ locations:
 - Sol
 - Mars
 - White House
-technologies: []
 topics:
 - investigation
 - conspiracy
+technologies: []
 arc_id: federal-politics
 arc_chapter: Hudson relents
-summary: President Hudson responded to Shadow President Winters's call for an investigation into the Federal Times allegations. At a White House press conference, he instructed agencies to pursue the evidence, promising wrongdoers would be prosecuted if allegations proved true. The Federal Security Service was named lead agency. Winters responded by noting Hudson was ignoring the call for an open investigation.
-player_impact: The Federal Security Service is now leading the investigation into the Antares conspiracy and Smeaton's murder. Pilots should watch for developments as the Federal political crisis continues to unfold.
 modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---
 
-President Hudson Confirms Investigation
-
-
-President Hudson Confirms Investigation 
- 
 President Hudson responded today to Shadow President Winters's call for investigating The allegations raised by The Federal Times. In a press conference at the White House on Mars, he said: 
 
 "The allegations raised by the Federal Times are indeed grave and I have already instructed the responsible agencies to pursue the evidence and determine Its veracity. If the evidence proves to be true then the wrongdoers will be prosecuted to the full extent of the law." 

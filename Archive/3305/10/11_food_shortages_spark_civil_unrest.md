@@ -4,6 +4,8 @@ title: Food Shortages Spark Civil Unrest
 slug: food_shortages_spark_civil_unrest
 date: '3305-10-11'
 source: GitHub
+summary: Widespread crop failures trigger panic buying, price spikes and civil unrest across multiple systems. The Galactic Welfare Trust warns billions are at risk of starvation.
+player_impact: None
 persons:
 - Adalyn Cross
 - Nathaniel Lopez
@@ -15,11 +17,7 @@ locations:
 topics:
 - trade
 - humanitarian
-summary: Widespread crop failures trigger panic buying, price spikes and civil unrest across
-  multiple systems. The Galactic Welfare Trust warns billions are at risk of starvation.
-player_impact: None
-modern_impact: The food crisis exposes the fragility of interstellar agricultural supply
-  chains and triggers social instability.
+modern_impact: The food crisis exposes the fragility of interstellar agricultural supply chains and triggers social instability.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -27,9 +25,6 @@ related_uuids:
 - 28e68144-597f-5528-89c8-0ca30934520f
 - 871e9d0d-60f1-5886-bb8a-fccc5b54d4fa
 ---
-
-Food Shortages Spark Civil Unrest
-
 
 A recent commodity appeal has spurred civil unrest in Several systems, With civilians fearing that their respective governments are unable to Cope With the widespread crop failures. 
 

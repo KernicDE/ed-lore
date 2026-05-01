@@ -4,21 +4,19 @@ title: An Heir for Hadrian Duval
 slug: an_heir_for_hadrian_duval
 date: '3307-09-21'
 source: API
-groups:
-- Nova Imperium
+summary: Lady Astrid Minerva-Duval confirms she is expecting a child with Hadrian Augustus Duval, potentially strengthening his claim to the Imperial throne.
+player_impact: None
 persons:
 - Astrid Minerva-Duval
 - Hadrian Augustus Duval
 - Aisling Duval
 - Arissa Lavigny-Duval
 - Hengist Duval
+groups:
+- Nova Imperium
 topics:
 - succession
-summary: Lady Astrid Minerva-Duval confirms she is expecting a child with Hadrian
-  Augustus Duval, potentially strengthening his claim to the Imperial throne.
-player_impact: None
-modern_impact: Hadrian Duval's unofficial claim to the Imperial throne remains a factor
-  in Imperial succession politics.
+modern_impact: Hadrian Duval's unofficial claim to the Imperial throne remains a factor in Imperial succession politics.
 legacy_weight: 4
 significance: high
 ---

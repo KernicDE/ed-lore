@@ -4,11 +4,8 @@ title: Community Goal   Setting up the Candy Shop
 slug: community_goal_setting_up_the_candy_shop
 date: '3303-09-29'
 source: GitHub
-summary: The Candy Crew Guild announces plans to establish a capital shipyard and scientific
-  research vessel in the Irusan system. The organisation has placed an open order for
-  palladium, titanium and robotics for delivery to Bella Port in Irusan.
-player_impact: Deliver palladium, titanium and robotics to Bella Port in the Irusan
-  system.
+summary: The Candy Crew Guild announces plans to establish a capital shipyard and scientific research vessel in the Irusan system. The organisation has placed an open order for palladium, titanium and robotics for delivery to Bella Port in Irusan.
+player_impact: Deliver palladium, titanium and robotics to Bella Port in the Irusan system.
 persons:
 - Raijiin
 groups:
@@ -16,7 +13,6 @@ groups:
 locations:
 - Irusan
 - Bella Port
-technologies: []
 topics:
 - construction
 - corporate expansion
@@ -24,14 +20,11 @@ topics:
 - research
 - ship
 - trade
-modern_impact: The Candy Crew Guild's expansion in Irusan demonstrates the growth of
-  independent corporate infrastructure and pilot-driven economic development.
+technologies: []
+modern_impact: The Candy Crew Guild's expansion in Irusan demonstrates the growth of independent corporate infrastructure and pilot-driven economic development.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal:  Setting up The Candy Shop
-
 
 The Candy Crew Guild, an Independent corporate organisation based in the Irusan system, has announced plans to establish a capital shipyard and a scientific research Vessel in Its home system. It has placed an open order for various commodities for use in the construction. 
 

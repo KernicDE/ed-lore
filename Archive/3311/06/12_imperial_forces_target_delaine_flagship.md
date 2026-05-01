@@ -4,7 +4,12 @@ title: Imperial Forces Target Delaine Flagship
 slug: imperial_forces_target_delaine_flagship
 date: '3311-06-12'
 source: API
-entities: []
+summary: Imperial forces launch a surprise assault on Archon Delaine's flagship, the Mictlan, in Beta-3 Tucani. The attack responds to Delaine's boasts following assassination attempts on Emperor Arissa and Shadow President Jerome Archer in August 3310.
+player_impact: Imperial pilots registered support at Bakewell Platform in Beta-3 Tucani. Kumo Council pilots answered summons to the Mictlan megaship. The strike was a direct response to August 3310 assassination attempts on Emperor Arissa and Shadow President Archer.
+persons:
+- Arissa Lavigny-Duval
+- Jerome Archer
+- Archon Delaine
 groups:
 - Kumo Council
 - Imperial Navy
@@ -15,15 +20,10 @@ topics:
 - piracy
 - ship
 - war
-persons:
-- Arissa Lavigny-Duval
-- Jerome Archer
-- Archon Delaine
+entities: []
 technologies:
 - Mictlan megaship
-player_impact: "Imperial pilots registered support at Bakewell Platform in Beta-3 Tucani. Kumo Council pilots answered summons to the Mictlan megaship. The strike was a direct response to August 3310 assassination attempts on Emperor Arissa and Shadow President Archer."
-summary: "Imperial forces launch a surprise assault on Archon Delaine's flagship, the Mictlan, in Beta-3 Tucani. The attack responds to Delaine's boasts following assassination attempts on Emperor Arissa and Shadow President Jerome Archer in August 3310."
-modern_impact: "The precision of the strike demonstrates Imperial Intelligence's long-term infiltration capabilities, while Delaine's decision to immediately order a counter-assault reveals his willingness to escalate. The Kumo Council's taunt — 'The Empire's blade is sharp, but slow' — foreshadows a prolonged conflict rather than a decisive blow, setting the stage for future Imperial-pirate confrontations."
+modern_impact: The precision of the strike demonstrates Imperial Intelligence's long-term infiltration capabilities, while Delaine's decision to immediately order a counter-assault reveals his willingness to escalate. The Kumo Council's taunt — 'The Empire's blade is sharp, but slow' — foreshadows a prolonged conflict rather than a decisive blow, setting the stage for future Imperial-pirate confrontations.
 legacy_weight: 2
 significance: low
 related_uuids:

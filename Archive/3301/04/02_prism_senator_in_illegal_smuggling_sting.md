@@ -12,14 +12,10 @@ topics:
 - sport
 - war
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Prism Senator in Illegal Smuggling Sting?
-
 
 More scandal accompanied Senator Kahina Tijani Loren’s continuing visit when she was presented With a large vial of Gerasian Liquor by representatives at a concert in London. 
 

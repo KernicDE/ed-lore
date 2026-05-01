@@ -4,15 +4,8 @@ title: Imperial Mother in Medical Emergency
 slug: imperial_mother_in_medical_emergency
 date: '3309-07-03'
 source: API
-entities: []
-groups: []
-locations:
-- Imperial Palace
-topics:
-- succession
-- politics
-arc_id: null
-modern_impact: "Vestergaard's historical context — Prince Aristide's 'mysterious accident' in 3250, the revelation that Arissa was sired by Hengist, Hadrian's 'apparent attempt to rebuild bridges' — weaves together decades of Imperial family drama. The detail that Florence 'has typically sought to avoid the spotlight' contrasts with her central role in family unity."
+summary: Lady Florence Lavigny suffers a sudden illness, prompting Emperor Arissa to cancel all appointments; family members including Hadrian send well-wishes in an apparent reconciliation gesture.
+player_impact: Not specifically mentioned — this is a family and medical report.
 persons:
 - Florence Lavigny
 - Arissa Lavigny-Duval
@@ -23,8 +16,15 @@ persons:
 - Hadrian Augustus Duval
 - Aristide de Lavigny
 - Hengist Duval
-player_impact: "Not specifically mentioned — this is a family and medical report."
-summary: "Lady Florence Lavigny suffers a sudden illness, prompting Emperor Arissa to cancel all appointments; family members including Hadrian send well-wishes in an apparent reconciliation gesture."
+groups: []
+locations:
+- Imperial Palace
+topics:
+- succession
+- politics
+entities: []
+arc_id: null
+modern_impact: Vestergaard's historical context — Prince Aristide's 'mysterious accident' in 3250, the revelation that Arissa was sired by Hengist, Hadrian's 'apparent attempt to rebuild bridges' — weaves together decades of Imperial family drama. The detail that Florence 'has typically sought to avoid the spotlight' contrasts with her central role in family unity.
 legacy_weight: 4
 significance: high
 related_uuids:

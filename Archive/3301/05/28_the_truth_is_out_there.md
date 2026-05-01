@@ -11,9 +11,6 @@ legacy_weight: 1
 significance: low
 ---
 
-The Truth is Out There
-
-
 Despite claims that The disappearance of Starship One was due to a failure in the ship’s Frame Shift Drive, rumours abound about a more sinister, possibly extraterrestrial explanation. 
 
 Alex Snoori, host of the popular interstellar talk show Beyond Top Secret, had This to say to his listeners. 

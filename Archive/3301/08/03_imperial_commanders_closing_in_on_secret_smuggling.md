@@ -4,6 +4,8 @@ title: Imperial Commanders Closing in on Secret Smuggling
 slug: imperial_commanders_closing_in_on_secret_smuggling
 date: '3301-08-03'
 source: GitHub
+summary: Imperial commanders are reportedly closing in on a well-known smuggling route between Torval and Delaine-owned systems. Imperial slaves are illegal in Delaine space but sell for high prices on the black market. Commander Infinity+1 commented on the lucrative trade, with profits allegedly running towards 4,000 credits per slave. The Empire seeks to break the smuggling ring, though new routes may emerge as long as Archon Delaine remains a threat.
+player_impact: Pilots should be aware of increased Imperial Navy activity along smuggling routes between Torval and Delaine space. Those involved in slave trading should expect heightened enforcement.
 persons:
 - Infinity+1
 groups:
@@ -15,18 +17,11 @@ topics:
 - crime
 - slavery
 - trade
-summary: Imperial commanders are reportedly closing in on a well-known smuggling route between Torval and Delaine-owned systems. Imperial slaves are illegal in Delaine space but sell for high prices on the black market. Commander Infinity+1 commented on the lucrative trade, with profits allegedly running towards 4,000 credits per slave. The Empire seeks to break the smuggling ring, though new routes may emerge as long as Archon Delaine remains a threat.
-player_impact: Pilots should be aware of increased Imperial Navy activity along smuggling routes between Torval and Delaine space. Those involved in slave trading should expect heightened enforcement.
 modern_impact: Trade initiative affecting commodity markets and local economies.
 legacy_weight: 2
 significance: low
 ---
 
-Imperial Commanders Closing in on Secret Smuggling
-
-
-Imperial Commanders Closing in on Secret Smuggling 
- 
 Rumour has it that Several Imperial Commanders are closing in on a well-known smuggling route between The Torval and Delaine owned systems. Imperial slaves are illegal in Delaine space but sell for a small fortune on The black market. The Empire hates This because it takes what they consider indentured servants and citizens from a life of Imperial service to a life of forced labour. Commanders who use the secretive route have plenty to say about the prospect of impending Imperial intervention, With Commander Infinity+1 saying: 
 
 "Ain't it funny how we're s’posed to be the bad guys, But the Empire has so Many slaves they're practically giving them away!" 

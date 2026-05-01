@@ -4,22 +4,22 @@ title: The Assault on Taranis
 slug: the_assault_on_taranis
 date: '3310-02-29'
 source: API
+summary: An urgent call to all pilots to participate in the assault on Titan Taranis, with Aegis removing material requirements for Thargoid Pulse Neutralisers and Caustic Sink Launchers thanks to surge funding.
+player_impact: Pilots are urgently called to aid in the defeat of Titan Taranis, the first Titan to face this new assault. Aegis has removed material requirements for key modules due to surge funding.
+persons:
+- Ram Tah
 groups:
 - Aegis
 locations: []
 topics:
 - alien contact
 - war
-arc_id: thargoid-titan-war
-modern_impact: "The removal of material requirements for key modules — 'A recent surge of financial support has allowed Aegis to remove the material requirements' — shows how community funding directly impacts military logistics. The reference to 'Ram Tah's Guardian Nanite Torpedo technology being deployed to great effect against Taranis' confirms the weapon is already proving effective. This is the first Titan assault using the new technology."
-persons:
-- Ram Tah
 technologies:
 - Thargoid Pulse Neutraliser
 - Caustic Sink Launcher
 - Guardian Nanite Torpedo
-player_impact: "Pilots are urgently called to aid in the defeat of Titan Taranis, the first Titan to face this new assault. Aegis has removed material requirements for key modules due to surge funding."
-summary: "An urgent call to all pilots to participate in the assault on Titan Taranis, with Aegis removing material requirements for Thargoid Pulse Neutralisers and Caustic Sink Launchers thanks to surge funding."
+arc_id: thargoid-titan-war
+modern_impact: The removal of material requirements for key modules — 'A recent surge of financial support has allowed Aegis to remove the material requirements' — shows how community funding directly impacts military logistics. The reference to 'Ram Tah's Guardian Nanite Torpedo technology being deployed to great effect against Taranis' confirms the weapon is already proving effective. This is the first Titan assault using the new technology.
 legacy_weight: 5
 significance: high
 related_uuids:

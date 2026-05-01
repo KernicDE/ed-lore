@@ -18,14 +18,10 @@ topics:
 - ship
 - war
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
 ---
-
-78 Ursae Majoris Celebrates Security With Shield Sale
-
 
 After a series of skirmishes between Independent pilots and pirates, as well As the drawn out battle against The Sobek Boys, 78 Ursae Majoris was facing a security threat in The Run-up to Federal President Jasmina Halsey’s planned visit. News of the catastrophic accident that is believed to have consumed Starship One, and taken the President’s life, has been spreading through the galaxy, but 78 Ursae Majoris has now been secured. 
 

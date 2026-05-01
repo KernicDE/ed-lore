@@ -4,6 +4,8 @@ title: Arissa Lavigny Duval Crowned Emperor
 slug: arissa_lavigny_duval_crowned_emperor
 date: '3301-10-18'
 source: GitHub
+summary: Arissa Lavigny-Duval was crowned Emperor in a ceremony at the Imperial Palace in Capitol. Despite threats from Emperor's Dawn, the procession proceeded safely with heavy military escort. In her first address, Arissa pledged to tackle the threats facing the Empire and announced she would soon form her government. She is the first female Emperor since Marlin Duval.
+player_impact: The coronation completes the Imperial succession. Pilots can expect a more militaristic and anti-corruption-focused Imperial administration under Emperor Arissa Lavigny-Duval.
 persons:
 - Arissa Lavigny-Duval
 - Hengist Duval
@@ -20,15 +22,10 @@ topics:
 - succession
 arc_id: imperial-succession
 arc_chapter: Coronation
-summary: Arissa Lavigny-Duval was crowned Emperor in a ceremony at the Imperial Palace in Capitol. Despite threats from Emperor's Dawn, the procession proceeded safely with heavy military escort. In her first address, Arissa pledged to tackle the threats facing the Empire and announced she would soon form her government. She is the first female Emperor since Marlin Duval.
-player_impact: The coronation completes the Imperial succession. Pilots can expect a more militaristic and anti-corruption-focused Imperial administration under Emperor Arissa Lavigny-Duval.
 modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption stance and military focus shape Imperial policy for years to come.
 legacy_weight: 5
 significance: high
 ---
-
-Arissa Lavigny-Duval Crowned Emperor
-
 
 Today, dawn broke above an expectant Capitol as Imperial citizens awaited The coronation of the first female Emperor (the Imperial Senate having determined that 'Emperor' should be used for both male and female rulers). It looked like The entire population had come to witness the procession of Arissa Lavigny-Duval through the city to the Imperial Palace. 
 

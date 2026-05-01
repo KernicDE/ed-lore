@@ -4,6 +4,8 @@ title: Technical Trouble in the Warkushanui System
 slug: technical_trouble_in_the_warkushanui_system
 date: '3301-10-16'
 source: GitHub
+summary: Multiple starports in the Warkushanui system began experiencing technical issues including power outages, communications problems, and docking system malfunctions. Technician Sam Norris at Coats Hub reported that Gurragchaa Gateway appeared to be suffering worse conditions, though stable comms could not be established to confirm the extent.
+player_impact: Pilots visiting Warkushanui should be aware of potential technical issues at stations in the system. Services were not yet suspended, but conditions may deteriorate.
 persons:
 - Sam Norris
 locations:
@@ -12,15 +14,10 @@ locations:
 - Warkushanui
 topics:
 - construction
-summary: Multiple starports in the Warkushanui system began experiencing technical issues including power outages, communications problems, and docking system malfunctions. Technician Sam Norris at Coats Hub reported that Gurragchaa Gateway appeared to be suffering worse conditions, though stable comms could not be established to confirm the extent.
-player_impact: Pilots visiting Warkushanui should be aware of potential technical issues at stations in the system. Services were not yet suspended, but conditions may deteriorate.
 modern_impact: Early indicator of the technological plague that would later spread across multiple systems.
 legacy_weight: 2
 significance: low
 ---
-
-Technical Trouble in The Warkushanui System
-
 
 Reports coming in from the Warkushanui system indicate that a number of starports in the region are currently experiencing technical issues. According to Sam Norris, a technician at Coats Hub, the system's inhabitants are dealing With a range of problems: 
 

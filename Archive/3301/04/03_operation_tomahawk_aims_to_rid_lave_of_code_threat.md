@@ -18,9 +18,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Operation Tomahawk Aims to Rid Lave of CODE Threat
-
-
 As the war in Lave Continues between CODE and Cosmic State, reports have emerged to suggest that Cosmic State have chosen Adle's Armada as unlikely allies in what's being called Operation Tomahawk. 
 
 The accusation is that CODE are charging traders and others passers-by for "travel passes" in The Lave system, Which are valid only for a set period, and will provide protection against CODE attacks. 

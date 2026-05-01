@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: United Sutekh Future Operation Succeeds
-
-
 A spokesperson for United Sutekh Future has announced that The organisation has triumphed over the Adad Exchange in the Sutekh system. 
 
 The conflict began when the Adad Exchange attempted to plunder the remains of a Federal convoy for sensitive military intelligence. When United Sutekh Future learned of the plan, it launched an offensive against the Adad Exchange, eager to prevent the intelligence from Falling into enemy hands. 

@@ -4,6 +4,8 @@ title: Federation Monitors Pro-Xeno Activity
 slug: federation_monitors_pro_xeno_activity
 date: '3308-09-12'
 source: API
+summary: The Federal Intelligence Agency reports increased Far God cult communications and growing xeno-peace sentiment following the Battle of HIP 22460, with Dr Alfred Ulyanov noting a shift toward the radical True Chapters sect.
+player_impact: Not specifically mentioned — this is an intelligence monitoring report.
 persons:
 - Bethany Blake
 - Alfred Ulyanov
@@ -21,13 +23,7 @@ topics:
 - espionage
 - war
 arc_id: thargoid-titan-war
-summary: The Federal Intelligence Agency reports increased Far God cult communications
-  and growing xeno-peace sentiment following the Battle of HIP 22460, with Dr Alfred
-  Ulyanov noting a shift toward the radical True Chapters sect.
-player_impact: Not specifically mentioned — this is an intelligence monitoring report.
-modern_impact: The FIA's surveillance of pro-xeno groups represents a growing tension
-  between civil liberties and security during wartime, with the True Chapters sect
-  emerging as a radicalised offshoot of the formerly pacifistic Far God cult.
+modern_impact: The FIA's surveillance of pro-xeno groups represents a growing tension between civil liberties and security during wartime, with the True Chapters sect emerging as a radicalised offshoot of the formerly pacifistic Far God cult.
 legacy_weight: 5
 significance: high
 related_uuids:

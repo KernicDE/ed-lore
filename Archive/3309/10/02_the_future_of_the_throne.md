@@ -4,14 +4,8 @@ title: The Future of the Throne
 slug: the_future_of_the_throne
 date: '3309-10-02'
 source: API
-entities: []
-groups:
-- Imperial Senate
-topics:
-- succession
-- politics
-arc_id: null
-modern_impact: "Courcelle's challenge — 'The continuation of the Duval bloodline has formed the linchpin of our society for over a thousand years' — frames succession as a constitutional crisis. Vestergaard's analysis that 'every Emperor of the last thousand years has had one or more children' and 'there has never been any indication that Arissa has a partner' makes the issue deeply personal. Blaine's defence — 'Her Majesty has sacrificed much for the Empire' — shows the court's loyalty."
+summary: Senator Lysandra Courcelle raises concerns about Emperor Arissa's lack of heirs, sparking debate about Imperial succession.
+player_impact: Not specifically mentioned.
 persons:
 - Arissa Lavigny-Duval
 - Lysandra Courcelle
@@ -20,8 +14,14 @@ persons:
 - Aisling Duval
 - Hadrian Duval
 - Otto Lombardo-Duval
-player_impact: "Not specifically mentioned."
-summary: "Senator Lysandra Courcelle raises concerns about Emperor Arissa's lack of heirs, sparking debate about Imperial succession."
+groups:
+- Imperial Senate
+topics:
+- succession
+- politics
+entities: []
+arc_id: null
+modern_impact: Courcelle's challenge — 'The continuation of the Duval bloodline has formed the linchpin of our society for over a thousand years' — frames succession as a constitutional crisis. Vestergaard's analysis that 'every Emperor of the last thousand years has had one or more children' and 'there has never been any indication that Arissa has a partner' makes the issue deeply personal. Blaine's defence — 'Her Majesty has sacrificed much for the Empire' — shows the court's loyalty.
 legacy_weight: 4
 significance: high
 ---

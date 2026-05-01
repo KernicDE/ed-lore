@@ -22,9 +22,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: CIMA Honours Contest Winners
-
-
 Benjamin Gorrister, founder of The Carmack Intergalactic Mining Association, has honoured winners of the CIMA prospectors competition at a prize-giving ceremony at Wasden Colony in Halbara. 
 
 "It is a great pleasure to acknowledge the pilots who Found the most pristine metallic rings," said Gorrister. "The first prize, of 50 million credits, goes to Commander Kjnpbr who found 200 new systems. The second prize, of 30 million credits, goes to Commander Irisa Nyira who found 100 new systems. And the third prize, of 18.5 million credits, goes to Commander Gonzoid who found 85 new systems."  

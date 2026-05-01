@@ -23,9 +23,6 @@ related_uuids:
 - af8f68f5-e131-5d4a-84de-c33d74e80132
 ---
 
-Broadcast Cobra Initiative Concludes
-
-
 Broadcast Cobra has announced that Its appeal for commodities has reached a successful conclusion, having received an overwhelming response from The galactic community.  
 
 Vast quantities of thorium, indium and superconductors were delivered to Sopwith Dock over the past week. These will allow construction of a megaship from Which the organisation will broadcast its take on current events. 

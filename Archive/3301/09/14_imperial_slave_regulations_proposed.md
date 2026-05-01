@@ -4,6 +4,8 @@ title: Imperial Slave Regulations Proposed
 slug: imperial_slave_regulations_proposed
 date: '3301-09-14'
 source: GitHub
+summary: Following a recent audit of the Imperial Slave Association, the Imperial Senate Audit Committee proposed new regulations for transporting Imperial slaves. The proposals include requiring pilots to hold Master rank in the Imperial Navy and setting aside resources to recover slaves transported outside the Empire. ISA chairwoman Svetlana Zhukov voiced support, though political commentators doubted the regulations would be approved.
+player_impact: Pilots transporting Imperial slaves may soon need Master rank in the Imperial Navy. Be aware of proposed regulations that could affect slave trading operations and recovery requirements.
 persons:
 - Svetlana Zhukov
 groups:
@@ -12,22 +14,15 @@ groups:
 - Imperial Slave Association
 locations:
 - Capitol
-technologies: []
 topics:
 - ship
 - slavery
-summary: Following a recent audit of the Imperial Slave Association, the Imperial Senate Audit Committee proposed new regulations for transporting Imperial slaves. The proposals include requiring pilots to hold Master rank in the Imperial Navy and setting aside resources to recover slaves transported outside the Empire. ISA chairwoman Svetlana Zhukov voiced support, though political commentators doubted the regulations would be approved.
-player_impact: Pilots transporting Imperial slaves may soon need Master rank in the Imperial Navy. Be aware of proposed regulations that could affect slave trading operations and recovery requirements.
+technologies: []
 modern_impact: Proposed regulations on Imperial slave transportation with implications for pilot requirements and border security.
 legacy_weight: 1
 significance: low
 ---
 
-Imperial Slave Regulations Proposed
-
-
-Imperial Slave Regulations Proposed 
- 
 Following The recent audit of The Imperial Slave Association, the Imperial Senate Audit Committee has recommended the introduction of Further regulations governing the treatment and transportation of Imperial slaves. 
 
 The proposed regulations centre on improved vetting of commanders permitted to transport Imperial slaves, and include the suggestion that pilots must hold the rank of ‘Master’ in the Imperial Navy as a minimum requirement. It is also suggested that resources be set aside for the recovery of Imperial slaves transported and sold outside the Imperium. 

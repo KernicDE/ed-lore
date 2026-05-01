@@ -4,6 +4,8 @@ title: Long Live the Emperor!
 slug: long_live_the_emperor
 date: '3301-07-14'
 source: GitHub
+summary: Chancellor Anders Blaine announced that Emperor Hengist Duval has awoken from his coma and is well on the way to recovery. Physicians advised a few days of rest before resuming state functions. The news sparked celebrations across Imperial society. Some cynical pundits questioned whether they would believe it until seeing the Emperor in person. As part of celebrations, independent pilots with active Imperial Navy ranks were granted access to purchase the Imperial Courier and Imperial Clipper.
+player_impact: Independent pilots with active Imperial Navy ranks can now purchase the Imperial Courier and Imperial Clipper ships.
 persons:
 - Anders Blaine
 - Hengist Duval
@@ -16,18 +18,11 @@ locations:
 topics:
 - medicine
 - succession
-summary: Chancellor Anders Blaine announced that Emperor Hengist Duval has awoken from his coma and is well on the way to recovery. Physicians advised a few days of rest before resuming state functions. The news sparked celebrations across Imperial society. Some cynical pundits questioned whether they would believe it until seeing the Emperor in person. As part of celebrations, independent pilots with active Imperial Navy ranks were granted access to purchase the Imperial Courier and Imperial Clipper.
-player_impact: Independent pilots with active Imperial Navy ranks can now purchase the Imperial Courier and Imperial Clipper ships.
 modern_impact: Emperor Hengist Duval's apparent recovery temporarily stabilises the Imperial succession crisis, though scepticism remains.
 legacy_weight: 4
 significance: high
 ---
 
-Long Live The Emperor!
-
-
-Long Live The Emperor!  
- 
 Senator Anders Blaine, Chancellor to Emperor Hengist Duval made a Surprise statement on the steps of the Imperial Palace today. With obvious joy on his face he declared that the Emperor has awoken from his coma. 
 
 “It is With great pleasure I can announce that Emperor Hengist Duval awoke from his coma in the early hours of This morning. His physicians have completed extensive medical tests and declared him well on the way to becoming fit and healthy. They have advised a few days of rest and monitoring before he resumes his state functions. 

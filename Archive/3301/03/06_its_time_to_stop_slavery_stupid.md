@@ -15,9 +15,6 @@ legacy_weight: 1
 significance: low
 ---
 
-It’s Time to Stop Slavery Stupid
-
-
 Aisling Duval is in The spotlight again today, following a rather passionate outburst on The Empire’s most-watched reality stream show, Celebrity Pets. 
 
 “The truth is Every pet we’ve seen tonight lives a better life than the billions of slaves who are busy working themselves to death while all you viewers just sit there and laugh,” the youngest Duval said during the ever-popular ‘Pimping Pets Get Pampered’ segment. 

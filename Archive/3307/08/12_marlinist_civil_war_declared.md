@@ -4,30 +4,26 @@ title: Marlinist Civil War Declared
 slug: marlinist_civil_war_declared
 date: '3307-08-12'
 source: API
-groups:
-- Alliance
-- Marlinist
-- NMLA
+summary: Civil war erupts in the Hyades Sector RO-P b6-2 system as the Exiled Marlinist Assembly of Baltah'Sine declares war on the Marlinism Reformation Party, the NMLA's political wing.
+player_impact: Independent pilots fought for either the anti-NMLA forces or the Marlinism Reformation Party.
 persons:
 - Amrita Ross
 - Octavia Volkov
 - Aaron Whyte
 - Kayode Tau
+groups:
+- Alliance
+- Marlinist
+- NMLA
 topics:
 - war
 arc_id: nmla-terrorism
-summary: Civil war erupts in the Hyades Sector RO-P b6-2 system as the Exiled Marlinist
-  Assembly of Baltah'Sine declares war on the Marlinism Reformation Party, the NMLA's
-  political wing.
-player_impact: Independent pilots fought for either the anti-NMLA forces or the Marlinism
-  Reformation Party.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Conflict has erupted in The Hyades Sector RO-P b6-2 system between two factions of the Marlinist Colonies.
 The Exiled Marlinist Assembly of Baltah'Sine has declared war against the Marlinism Reformation Party, Which acts As the political wing of the NMLA.
 Political relations degenerated into open combat following the NMLA’s recent attacks, With Acting First Minister Amrita Ross’s efforts to negotiate a peaceful resolution proving unsuccessful. 

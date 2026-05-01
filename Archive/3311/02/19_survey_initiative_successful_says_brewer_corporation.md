@@ -4,7 +4,10 @@ title: Survey Initiative Successful, Says Brewer Corporation
 slug: survey_initiative_successful_says_brewer_corporation
 date: '3311-02-19'
 source: API
-arc_id: trailblazer-colonisation
+summary: Brewer Corporation's survey initiative successfully collected exploration data to assess prime locations for permanent human structures, though it was briefly disrupted by a lockdown initiated by rogue Commanders.
+player_impact: Explorers contributed survey data to Trailblazer Echo in HIP 90578 to identify optimal colonisation targets.
+persons:
+- Madelyn Teague
 groups:
 - Brewer Corporation
 - Universal Cartographics
@@ -13,12 +16,9 @@ locations:
 topics:
 - corporate expansion
 - exploration
-persons:
-- Madelyn Teague
 technologies: []
-player_impact: "Explorers contributed survey data to Trailblazer Echo in HIP 90578 to identify optimal colonisation targets."
-summary: "Brewer Corporation's survey initiative successfully collected exploration data to assess prime locations for permanent human structures, though it was briefly disrupted by a lockdown initiated by rogue Commanders."
-modern_impact: "Teague's description of 'a recently updated software algorithm for the next phase of preparation' reveals Brewer Corporation's investment in colonisation infrastructure. The mention of displaced communities from the Thargoid War seeing the 'new frontier' as 'a chance at a fresh start' establishes the humanitarian narrative that will drive the migration wave. The rogue Commander lockdown hints at resistance to expansion that may resurface."
+arc_id: trailblazer-colonisation
+modern_impact: Teague's description of 'a recently updated software algorithm for the next phase of preparation' reveals Brewer Corporation's investment in colonisation infrastructure. The mention of displaced communities from the Thargoid War seeing the 'new frontier' as 'a chance at a fresh start' establishes the humanitarian narrative that will drive the migration wave. The rogue Commander lockdown hints at resistance to expansion that may resurface.
 legacy_weight: 5
 significance: high
 related_uuids:

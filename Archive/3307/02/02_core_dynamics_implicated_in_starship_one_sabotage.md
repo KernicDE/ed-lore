@@ -4,7 +4,8 @@ title: Core Dynamics Implicated in Starship One Sabotage
 slug: core_dynamics_implicated_in_starship_one_sabotage
 date: 3307-02-02
 source: API
-arc_id: federal-politics
+summary: Evidence presented at The trial of Fleet Admiral Vincent suggested financial links to Federal shipbuilding corporation Core Dynamics.
+player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
 persons:
 - Felicia Winters
 - Found
@@ -14,14 +15,15 @@ groups:
 - Core Dynamics
 - Federal Times
 locations:
-  - Federation banking
+- Federation banking
 topics:
 - corporate expansion
 - investigation
 - piracy
-player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
-summary: Evidence presented at The trial of Fleet Admiral Vincent suggested financial links to Federal shipbuilding corporation Core Dynamics.
-modern_impact: "\"This is a bittersweet moment for me.\" The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence."
+arc_id: federal-politics
+modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence.'
+legacy_weight: 1
+significance: low
 related_uuids:
 - 29fa900d-a3ad-5a63-bdae-88a4acceaf60
 - ef475ada-e268-55e0-8ada-ae250caa5c86
@@ -29,8 +31,6 @@ related_uuids:
 - e25e2c83-7be4-5236-9a1a-93321f277b40
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
 - 16fe8923-2773-584e-a012-9b5cda8fab5b
-legacy_weight: 1
-significance: low
 ---
 
 Evidence presented at The trial of Fleet Admiral Vincent suggested financial links to Federal shipbuilding corporation Core Dynamics.

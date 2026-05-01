@@ -4,7 +4,12 @@ title: Far God Deportation Programme Approved
 slug: far_god_deportation_programme_approved
 date: '3309-06-12'
 source: API
-entities: []
+summary: President Hudson agrees to deport Far God cultists to the Alliance, framing it as pragmatic cost-cutting while the Dedicant is prepared for transport.
+player_impact: Not specifically mentioned — this is a political report.
+persons:
+- Zachary Hudson
+- Edmund Mahon
+- Sofia Trevino
 groups:
 - Alliance
 - Federal Times
@@ -14,14 +19,9 @@ topics:
 - politics
 - humanitarian
 - religion
+entities: []
 arc_id: null
-modern_impact: "Hudson's framing — 'rather than waste taxpayers' money keeping these deluded individuals incarcerated, the Federation is better off without them' — is dismissive pragmatism. The detail that the True Chapters 'will be escorted to Alliance space aboard the Dedicant, having agreed to provide full access to the megaship's databanks' shows the Federation extracting intelligence value. Trevino's speculation about Hudson's legacy motivation adds political depth."
-persons:
-- Zachary Hudson
-- Edmund Mahon
-- Sofia Trevino
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "President Hudson agrees to deport Far God cultists to the Alliance, framing it as pragmatic cost-cutting while the Dedicant is prepared for transport."
+modern_impact: Hudson's framing — 'rather than waste taxpayers' money keeping these deluded individuals incarcerated, the Federation is better off without them' — is dismissive pragmatism. The detail that the True Chapters 'will be escorted to Alliance space aboard the Dedicant, having agreed to provide full access to the megaship's databanks' shows the Federation extracting intelligence value. Trevino's speculation about Hudson's legacy motivation adds political depth.
 legacy_weight: 5
 significance: high
 related_uuids:

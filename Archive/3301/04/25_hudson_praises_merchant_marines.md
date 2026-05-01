@@ -4,8 +4,6 @@ title: Hudson Praises Merchant Marines
 slug: hudson_praises_merchant_marines
 date: '3301-04-25'
 source: GitHub
-entities:
-- Hudson returned
 locations:
 - Mars
 - Sol
@@ -15,14 +13,12 @@ topics:
 - scandal
 - terrorism
 - war
-modern_impact: Pilot safety initiative with potential regulatory implications for
-  starship design.
+entities:
+- Hudson returned
+modern_impact: Pilot safety initiative with potential regulatory implications for starship design.
 legacy_weight: 1
 significance: low
 ---
-
-Hudson Praises Merchant Marines
-
 
 Shadow President Hudson returned to Mars today, where a throng of eager reporters waited to get The latest scoop on The Shadow President’s campaign to remove President Halsey from office. Instead the Shadow President had some choice words to say about the Merchant Marines and their unsanctioned operations in Empire space. 
 

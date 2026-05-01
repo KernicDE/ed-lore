@@ -4,6 +4,8 @@ title: A Vision of the Future
 slug: a_vision_of_the_future
 date: '3301-06-06'
 source: GitHub
+summary: Utopia's compound on Antal has long displayed technology years ahead of its time. Under Simguru Pranav Antal, the Utopian Commune Programme expanded to Polevnic, Neris, HIP 117972, and HIP 1389. Hundreds of thousands of scientists and engineers have joined, developing new technologies for mass production. Utopia requires approximately 30 million tonnes of assorted metals monthly and offers bonuses to traders who deliver large supplies to Lobachevsky Station in Antal.
+player_impact: Traders can deliver assorted metals to Lobachevsky Station in Antal for monthly bonuses from Utopia.
 persons:
 - Pranav Antal
 - Rishi Antal
@@ -20,15 +22,10 @@ topics:
 - research
 - trade
 - technology
-summary: Utopia's compound on Antal has long displayed technology years ahead of its time. Under Simguru Pranav Antal, the Utopian Commune Programme expanded to Polevnic, Neris, HIP 117972, and HIP 1389. Hundreds of thousands of scientists and engineers have joined, developing new technologies for mass production. Utopia requires approximately 30 million tonnes of assorted metals monthly and offers bonuses to traders who deliver large supplies to Lobachevsky Station in Antal.
-player_impact: Traders can deliver assorted metals to Lobachevsky Station in Antal for monthly bonuses from Utopia.
 modern_impact: Utopia's rapid expansion and advanced technology programme positions it as a growing independent power with ambitious communal ideals.
 legacy_weight: 2
 significance: medium
 ---
-
-A Vision of The Future
-
 
 For decades, The Utopian compound on Antal was seen as a place where people could visit the future. Technology that was years ahead of Its time was openly on display for anyone to see. The secrets uncovered by the Utopian Engineers were made freely available for study, regardless of the factional leanings of those who wished to explore their mysteries. 
 

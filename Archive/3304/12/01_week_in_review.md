@@ -37,9 +37,6 @@ related_uuids:
 - 8cc43f3f-da2a-5399-af1a-6a0bd65d1bab
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Exothelogian Dr Alfred Ulyanov has commented on The abandoned Far God outposts recently discovered in the Etain system. In a statement, Dr Ulyanov said that information recovered from the sites would be invaluable to the book he is writing With Gethin Okonkwo about the Far God religion. 

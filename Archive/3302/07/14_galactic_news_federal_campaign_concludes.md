@@ -4,27 +4,20 @@ title: Galactic News  Federal Campaign Concludes
 slug: galactic_news_federal_campaign_concludes
 date: '3302-07-14'
 source: GitHub
-topics:
-- construction
-modern_impact: Confirms the completion of the first Federal outpost in the Segovan
-  expansion chain, creating a permanent Federal foothold on the edge of the Pleiades.
-legacy_weight: 2
-significance: low
-summary: The Future of Segovan has successfully concluded its campaign to construct
-  a Federal outpost, with large quantities of construction materials delivered to
-  Ramsbottom Hub despite Imperial disruption. Construction of the first outpost will
-  proceed as planned.
+summary: The Future of Segovan has successfully concluded its campaign to construct a Federal outpost, with large quantities of construction materials delivered to Ramsbottom Hub despite Imperial disruption. Construction of the first outpost will proceed as planned.
 player_impact: None
+persons: []
 groups:
 - The Future of Segovan
 locations:
 - Ramsbottom Hub
-persons: []
+topics:
+- construction
 technologies: []
+modern_impact: Confirms the completion of the first Federal outpost in the Segovan expansion chain, creating a permanent Federal foothold on the edge of the Pleiades.
+legacy_weight: 2
+significance: low
 ---
-
-Galactic News: Federal Campaign Concludes
-
 
 The Future of Segovan has announced that Its appeal for construction materials has reached a successful conclusion, despite repeated attempts from Imperial pilots to disrupt the campaign. Large quantities of gallium and insulating membrane, and Hundreds of tonnes of power generators, were delivered to Ramsbottom Hub, the organisation's base of operations, allowing work to begin on the first of a series of new Federal outposts. 
 

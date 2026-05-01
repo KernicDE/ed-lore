@@ -4,7 +4,8 @@ title: Free Marlinist Candidate Wins Election
 slug: free_marlinist_candidate_wins_election
 date: '3307-07-22'
 source: API
-arc_id: marlinist-refugee
+summary: Kayode Tau of the Free Marlinist Movement is elected prime consul of the Marlinist Consulate, defeating Verity Dexter. Tau pledges to preserve the colonies' independence and assist efforts to eliminate the NMLA. Minister Whyte protests the result while First Minister Fairfax calls for it to be respected.
+player_impact: Pilots who supported Kayode Tau collected rewards from Tilman Point in the Hyades Sector RO-P b6-6 system.
 persons:
 - Kayode Tau
 - Verity Dexter
@@ -23,25 +24,24 @@ locations:
 - Hyades Sector RO-P b6-2
 - HIP 22550
 - Stillman Hub
-technologies:
-- Anomalous bulk scan data
-- Unusual encrypted files
 topics:
 - cyberattack
 - diplomacy
 - independence
 - war
-player_impact: Pilots who supported Kayode Tau collected rewards from Tilman Point in the Hyades Sector RO-P b6-6 system.
-summary: Kayode Tau of the Free Marlinist Movement is elected prime consul of the Marlinist Consulate, defeating Verity Dexter. Tau pledges to preserve the colonies' independence and assist efforts to eliminate the NMLA. Minister Whyte protests the result while First Minister Fairfax calls for it to be respected.
+technologies:
+- Anomalous bulk scan data
+- Unusual encrypted files
+arc_id: marlinist-refugee
 modern_impact: Tau's election represents a rejection of the NMLA's political wing by Marlinist voters, establishing a diplomatically independent Marlinist Consulate that becomes a legitimate interlocutor with the superpowers.
+legacy_weight: 4
+significance: medium
 related_uuids:
 - d3cdfef9-79b2-5007-9569-61a2ea0ec0fa
 - e93a8c38-8df7-5084-9ec2-c2d18fe537a4
-legacy_weight: 4
-significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Kayode Tau has been elected as prime consul for The Marlinists, following a successful data delivery initiative.
 The candidate from the Free Marlinist Movement faction received more public votes than rival nominee Verity Dexter. His campaign was supported by deliveries of anomalous bulk scan data and unusual encrypted files in greater quantities.
 Prime Consul Tau will now serve As the lead ambassador for the Marlinist Colonies in all dealings With the superpowers. He gave This statement to the media:

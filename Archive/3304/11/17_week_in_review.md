@@ -54,9 +54,6 @@ related_uuids:
 - 4f8a3775-4a85-53e6-b107-a1946b857d3a
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 A leaked Imperial Internal Security Service report on Nova Imperium has revealed that The group’s leader is One Duke Kaeso Mordanticus, a former naval admiral from a long line of decorated veterans. The report reveals that Mordanticus still has contacts and influence in the Imperial Navy, and that Nova Imperium’s ships are mostly Run by ex-naval crews. 

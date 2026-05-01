@@ -4,10 +4,7 @@ title: Galactic News  Federal Security Chief Liaising with Aegis
 slug: galactic_news_federal_security_chief_liaising_with_aegis
 date: '3303-08-19'
 source: GitHub
-summary: Admiral Aden Tanner, Chief of Federal Security, is now liaising with Aegis,
-  sparking speculation that the Empire-Federation cold war could be thawing. Tanner
-  states his priorities are determining the scale of Thargoid presence in human space
-  and confirming their intentions.
+summary: Admiral Aden Tanner, Chief of Federal Security, is now liaising with Aegis, sparking speculation that the Empire-Federation cold war could be thawing. Tanner states his priorities are determining the scale of Thargoid presence in human space and confirming their intentions.
 player_impact: None
 persons:
 - Aden Tanner
@@ -15,21 +12,17 @@ groups:
 - Aegis
 - Federal Navy
 locations: []
-technologies: []
 topics:
 - alien contact
 - investigation
 - research
 - war
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Federal Security Chief Liaising With Aegis
-
 
 Reports have surfaced that Admiral Aden Tanner, Chief of Federal Security and so-called ‘alien tsar’, is now liaising with Aegis, The inter-superpower initiative established to investigate the Thargoids. 
 

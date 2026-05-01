@@ -4,11 +4,6 @@ title: Patreus Calls on Blaine to Release Emperor’s Medical Records
 slug: patreus_calls_on_blaine_to_release_emperors_medical_records
 date: '3301-03-12'
 source: GitHub
-entities:
-- Blaine should release
-- Denton Patreus
-- Hengist
-- Hengist really
 groups:
 - Imperial Senate
 locations:
@@ -16,13 +11,15 @@ locations:
 topics:
 - medicine
 - succession
+entities:
+- Blaine should release
+- Denton Patreus
+- Hengist
+- Hengist really
 modern_impact: Medical crisis or health initiative affecting galactic populations.
 legacy_weight: 2
 significance: low
 ---
-
-Patreus Calls on Blaine to Release Emperor’s Medical Records
-
 
 In an address delivered to The Imperial Senate earlier today, Senator Denton Patreus has called on Chancellor Blaine to provide The Senate With full Access to the ailing Emperor’s medical records. 
 

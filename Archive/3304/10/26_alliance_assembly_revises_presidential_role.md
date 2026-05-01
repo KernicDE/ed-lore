@@ -25,9 +25,6 @@ related_uuids:
 - 4c33cc73-d588-59a5-b80d-fe0c6e76f665
 ---
 
-Alliance Assembly Revises Presidential Role
-
-
 The Alliance Assembly has concluded Its debate over President Gibson Kincaid’s request for executive powers. 
 
 Prime Minister Edmund Mahon announced the decision: 

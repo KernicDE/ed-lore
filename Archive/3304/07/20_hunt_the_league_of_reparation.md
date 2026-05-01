@@ -30,9 +30,6 @@ related_uuids:
 - 658df222-9a6d-5eb0-87e6-6fc4621e39c8
 ---
 
-Hunt The League of Reparation
-
-
 A tri-superpower taskforce has launched a campaign to track down and eliminate members of terrorist group, the League of Reparation. 
 
 Captain Niamh Seutonia of the IISS, who is a prominent member of the taskforce, made This announcement: 

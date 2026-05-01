@@ -4,7 +4,11 @@ title: 'Thargoid War Update: April 3309'
 slug: thargoid_war_update_april_3309
 date: '3309-04-28'
 source: API
-entities: []
+summary: Sanderlyn's monthly update covers the devastating scale of the Thargoid invasion, the Tavgi/Pichch superpower conflicts, Aegis's pulse neutraliser development, and Azimuth's struggles without Salvation.
+player_impact: Pilots continue anti-xeno operations, rescue civilians, and deliver supplies.
+persons:
+- Jade Sanderlyn
+- Torben Rademaker
 groups:
 - Aegis
 - Azimuth Biotech
@@ -14,13 +18,9 @@ topics:
 - alien contact
 - humanitarian
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's statistics — 'well over ten billion people have been directly affected by the war' — are staggering. Her framing of the Tavgi/Pichch conflicts as demonstrating how 'the Empire and Federation are prioritising the Thargoid threat above their centuries-long rivalry' is optimistic. Her dismissal of Azimuth — 'without the genius of Salvation they seem unable to contribute meaningfully' — is pointed. The rumor about Rademaker 'in contact with several weapons and industrial manufacturers' foreshadows the corporate convention."
-persons:
-- Jade Sanderlyn
-- Torben Rademaker
-player_impact: "Pilots continue anti-xeno operations, rescue civilians, and deliver supplies."
-summary: "Sanderlyn's monthly update covers the devastating scale of the Thargoid invasion, the Tavgi/Pichch superpower conflicts, Aegis's pulse neutraliser development, and Azimuth's struggles without Salvation."
+modern_impact: Sanderlyn's statistics — 'well over ten billion people have been directly affected by the war' — are staggering. Her framing of the Tavgi/Pichch conflicts as demonstrating how 'the Empire and Federation are prioritising the Thargoid threat above their centuries-long rivalry' is optimistic. Her dismissal of Azimuth — 'without the genius of Salvation they seem unable to contribute meaningfully' — is pointed. The rumor about Rademaker 'in contact with several weapons and industrial manufacturers' foreshadows the corporate convention.
 legacy_weight: 5
 significance: high
 related_uuids:

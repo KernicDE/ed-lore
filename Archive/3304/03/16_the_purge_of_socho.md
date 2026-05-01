@@ -21,9 +21,6 @@ legacy_weight: 5
 significance: high
 ---
 
-The Purge of Socho
-
-
 Following reports of Thargoid incursions into the core systems, Aegis Core has launched a counter-Thargoid operation in The Socho region. 
 
 A spokesperson for Aegis Core gave The following statement to the media: 

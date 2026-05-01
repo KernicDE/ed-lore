@@ -13,19 +13,16 @@ groups:
 locations:
 - Colonia
 - Eol Prou Lw-L C8-215
-technologies: []
 topics:
 - crime
 - ship
 - war
+technologies: []
 arc_id: jaques-station
 modern_impact: Junkyard Dogs successfully eliminate unauthorized agitators in Eol Prou Lw-L C8-215, reinforcing Colonia Council governance.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Order Restored in Colonia
-
 
 A spokesperson for The Colonia Council has announced that the agitators causing discord in the Eol Prou Lw-L C8-215 system have been eliminated. Hundreds of pilots supported the operation, taking to their ships to tackle the criminals that had taken root in system. The Junkyard Dogs have also confirmed that security personnel have been stationed at the agitators’ outposts to prevent reoccupation. 
 

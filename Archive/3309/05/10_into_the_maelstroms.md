@@ -4,6 +4,11 @@ title: Into the Maelstroms
 slug: into_the_maelstroms
 date: '3309-05-10'
 source: API
+summary: First ships equipped with Thargoid pulse neutralisers enter Maelstrom cores, encountering Thargoid patrols and confirming the anti-Guardian field from HIP 22460 persists in all eight Maelstrom systems.
+player_impact: Pilots equipped with Thargoid pulse neutralisers have entered Maelstrom inner regions and reported encounters with Thargoid forces.
+persons:
+- Daniel Parry
+- Emil Varga
 groups:
 - Aegis
 - Federal Navy
@@ -15,12 +20,7 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Parry's report on 'pathfinder missions' and unauthenticated pilot accounts shows the intelligence-gathering phase. Varga's warning about the anti-Guardian field — 'weapons based on Guardian technology will not function and should be replaced' — is critical tactical information. The confirmation that all eight Maelstrom systems are affected establishes a universal threat characteristic."
-persons:
-- Daniel Parry
-- Emil Varga
-player_impact: "Pilots equipped with Thargoid pulse neutralisers have entered Maelstrom inner regions and reported encounters with Thargoid forces."
-summary: "First ships equipped with Thargoid pulse neutralisers enter Maelstrom cores, encountering Thargoid patrols and confirming the anti-Guardian field from HIP 22460 persists in all eight Maelstrom systems."
+modern_impact: Parry's report on 'pathfinder missions' and unauthenticated pilot accounts shows the intelligence-gathering phase. Varga's warning about the anti-Guardian field — 'weapons based on Guardian technology will not function and should be replaced' — is critical tactical information. The confirmation that all eight Maelstrom systems are affected establishes a universal threat characteristic.
 legacy_weight: 5
 significance: high
 related_uuids:

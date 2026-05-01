@@ -12,14 +12,10 @@ topics:
 - ship
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---
-
-Unrest on The Frontier
-
 
 New reports from The frontier suggest that a horde of militant nomads is currently sweeping their way through the Pegasi Sector. The group, who call themselves the Kumo Crew, are led by the vicious Warlord Archon Delaine. 
 

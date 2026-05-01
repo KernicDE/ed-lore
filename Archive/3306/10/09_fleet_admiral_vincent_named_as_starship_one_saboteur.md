@@ -4,30 +4,24 @@ title: Fleet Admiral Vincent Named as Starship One Saboteur
 slug: fleet_admiral_vincent_named_as_starship_one_saboteur
 date: '3306-10-09'
 source: GitHub
-groups:
-- Federal Navy
+summary: Fleet Admiral Lucas Vincent is arrested for ordering the sabotage of Starship One. Chief Technician Webster receives a lenient 20-year sentence for testifying under duress. President Hudson declines to comment.
+player_impact: None
 persons:
 - Rory Webster
 - Lucas Vincent
 - Zachary Hudson
 - Milandu Okoro
+groups:
+- Federal Navy
 topics:
 - crime
-summary: Fleet Admiral Lucas Vincent is arrested for ordering the sabotage of Starship
-  One. Chief Technician Webster receives a lenient 20-year sentence for testifying under
-  duress. President Hudson declines to comment.
-player_impact: None
-modern_impact: The arrest of a Federal Navy chief of staff for presidential assassination
-  sends shockwaves through Federation politics.
+modern_impact: The arrest of a Federal Navy chief of staff for presidential assassination sends shockwaves through Federation politics.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 767d07a7-f7de-5ae9-80a2-b79abe76c464
 - 34fdadf1-c07a-58ef-8a59-52f33cb9eebf
 ---
-
-Fleet Admiral Vincent Named as Starship One Saboteur
-
 
 Fleet Admiral Lucas Vincent, one of The Federal Navy chiefs of staff, has been arrested on charges related to the destruction of Starship One. 
 

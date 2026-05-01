@@ -25,9 +25,6 @@ related_uuids:
 - c7705338-10b5-5847-b164-e3152f04e929
 ---
 
-The Battle for Betel
-
-
 Recent reports from the Betel system indicate that an ongoing feud between the Silver Creative Network and the Betel Free has escalated into violence. 
 
 General Hollis of Betel security issued The following statement: 

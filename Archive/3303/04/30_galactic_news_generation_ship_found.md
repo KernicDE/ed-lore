@@ -11,17 +11,14 @@ groups: []
 locations:
 - Alaunus
 - LHS 1047
-technologies: []
 topics:
 - medicine
 - ship
+technologies: []
 modern_impact: Discovery of the generation ship Lycaor in Alaunus highlights the ongoing mystery of lost generation ships across the galaxy.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Generation Ship Found
-
 
 Before The development of faster-than-light travel, colonising distant Star systems depended on vast interstellar arks known as generation ships. There are believed to be more than 70,000 of these ships in the galaxy, the location of Many of Which is not known. 
 

@@ -4,6 +4,8 @@ title: Federal President Hudson Looks to the Future
 slug: federal_president_hudson_looks_to_the_future
 date: '3301-06-13'
 source: GitHub
+summary: President Hudson addressed business leaders at the Banqueting Hall in Quenisset, Mars, announcing new programmes to motivate Federal youth. He criticised sim addiction and promised exciting training programmes to engage young people in the real world, with the first announcement to Congress on Tuesday 16th. He called for a stronger military to counter Imperial expansion and regain respect from frontier worlds. Congress agreed to substantial military spending increases, with naval shipyards at maximum capacity. Commentators speculated about conscription but Hudson denied it, saying 'I believe in carrot, not stick.' Core Dynamics share price hit an all-time high, noted by cynics as payback for long-time Hudson backing.
+player_impact: None
 persons:
 - Zachary Hudson
 groups:
@@ -17,18 +19,11 @@ locations:
 topics:
 - military
 - politics
-summary: President Hudson addressed business leaders at the Banqueting Hall in Quenisset, Mars, announcing new programmes to motivate Federal youth. He criticised sim addiction and promised exciting training programmes to engage young people in the real world, with the first announcement to Congress on Tuesday 16th. He called for a stronger military to counter Imperial expansion and regain respect from frontier worlds. Congress agreed to substantial military spending increases, with naval shipyards at maximum capacity. Commentators speculated about conscription but Hudson denied it, saying 'I believe in carrot, not stick.' Core Dynamics share price hit an all-time high, noted by cynics as payback for long-time Hudson backing.
-player_impact: None
 modern_impact: Hudson's speech signals major Federal military expansion and youth engagement programmes, benefiting Core Dynamics and shifting focus toward combating Imperial growth.
 legacy_weight: 4
 significance: high
 ---
 
-Federal President Hudson Looks to The Future
-
-
-Federal President Hudson Looks to The Future 
- 
 In a speech to business leaders today at the Banqueting Hall in Quenisset on Mars, President Hudson hinted at a raft of new policies to motivate the Federation’s youth. 
 
 “As I said when I was the Shadow President, we are entering dangerous times. The Empire have been expanding recently more than they have for centuries. We have failed Our own frontier worlds for decades and it is hardly surprising they are leaving the Federation as they are. We need a stronger military, a military that gets respect from Our youth. We need better soldiers, better fighters, better pilots. We need to be more outward-looking.” 

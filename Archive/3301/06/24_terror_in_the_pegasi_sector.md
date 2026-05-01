@@ -28,11 +28,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Terror in The Pegasi Sector
-
-
-Terror in The Pegasi Sector 
- 
 Archon Delaine and his Kumo Crew have continued their seemingly unstoppable rampage across the Pegasi sector This week, With the Crew managing to establish new strongholds in Arawere, Huaich, LTT 16548 and San Muss. 
 
 Reports coming in from the sector indicate that the Kumo Crew are now operating in over 160 different systems, With millions of people being forced to pay the pirates for protection, or else risk death or dismemberment for failing to do so.  

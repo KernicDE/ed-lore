@@ -4,7 +4,12 @@ title: 'Thargoid War Bulletin: Second Titan Defeated'
 slug: thargoid_war_bulletin_second_titan_defeated
 date: '3310-03-18'
 source: API
-entities: []
+summary: Titan Leigong is destroyed in the HIP 8887 system, becoming the second of eight Titans to fall. Palin and Ram Tah are praised for developing the Guardian nanite torpedo.
+player_impact: Pilots successfully destroyed Titan Leigong using the same tactical approach as Taranis.
+persons:
+- Jade Sanderlyn
+- Professor Palin
+- Ram Tah
 groups:
 - Aegis
 locations:
@@ -12,14 +17,9 @@ locations:
 topics:
 - alien contact
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's reporting — 'Two of the eight Thargoid Titans have now been put out of action' — quantifies the war's progress. The credit to Palin and Ram Tah for the Guardian nanite torpedo acknowledges the crucial role of engineering in the victory. Her question — 'Can these victories be repeated a further six times?' — frames the remaining challenge. The phrase 'the Thargoid war machine has suffered a critical defeat, one that may change the entire conflict' proves prescient."
-persons:
-- Jade Sanderlyn
-- Professor Palin
-- Ram Tah
-player_impact: "Pilots successfully destroyed Titan Leigong using the same tactical approach as Taranis."
-summary: "Titan Leigong is destroyed in the HIP 8887 system, becoming the second of eight Titans to fall. Palin and Ram Tah are praised for developing the Guardian nanite torpedo."
+modern_impact: Sanderlyn's reporting — 'Two of the eight Thargoid Titans have now been put out of action' — quantifies the war's progress. The credit to Palin and Ram Tah for the Guardian nanite torpedo acknowledges the crucial role of engineering in the victory. Her question — 'Can these victories be repeated a further six times?' — frames the remaining challenge. The phrase 'the Thargoid war machine has suffered a critical defeat, one that may change the entire conflict' proves prescient.
 legacy_weight: 5
 significance: high
 related_uuids:

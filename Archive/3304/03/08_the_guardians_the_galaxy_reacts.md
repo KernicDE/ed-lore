@@ -32,9 +32,6 @@ legacy_weight: 5
 significance: high
 ---
 
-The Guardians: The Galaxy Reacts
-
-
 There has been a range of reactions to the discovery of new Guardian sites, and to Ram Tah’s development of Guardian-inspired technologies. 
 
 Federal President Zachary Hudson said: “The Federation congratulates Ram Tah on his success. Anything that helps us defend Our citizens from Thargoid aggression is welcome.” 

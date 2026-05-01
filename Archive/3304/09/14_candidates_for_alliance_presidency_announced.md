@@ -30,9 +30,6 @@ related_uuids:
 - a950b069-65d4-569a-b55c-6ce84123e10e
 ---
 
-Candidates for Alliance Presidency Announced
-
-
 The candidates in the Alliance presidential election have been announced. 
 
 Political journalist Vanya Driscoll shared the news in The Alliance Tribune: 

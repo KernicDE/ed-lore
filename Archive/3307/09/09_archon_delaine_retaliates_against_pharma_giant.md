@@ -4,30 +4,27 @@ title: Archon Delaine Retaliates Against Pharma Giant
 slug: archon_delaine_retaliates_against_pharma_giant
 date: '3307-09-09'
 source: API
+summary: The Kumo Council declares war on Haithis Purple Dynamic Group for supporting Neomedical Industries' Onionhead medical production project.
+player_impact: Pilots fought for either the Kumo Council or Haithis Purple Dynamic Group in the system conflict.
+persons:
+- Archon Delaine
+- Olwyn Kendrick
 groups:
 - Alliance
 - Kumo Crew
 - Neomedical Industries
-persons:
-- Archon Delaine
-- Olwyn Kendrick
 topics:
 - corporate expansion
 - crime
 - narcotics
 - piracy
 - war
-summary: The Kumo Council declares war on Haithis Purple Dynamic Group for supporting
-  Neomedical Industries' Onionhead medical production project.
-player_impact: Pilots fought for either the Kumo Council or Haithis Purple Dynamic
-  Group in the system conflict.
-modern_impact: The medical applications of onionhead gamma strain remain under clinical
-  study, with pharmaceutical companies competing for market control.
+modern_impact: The medical applications of onionhead gamma strain remain under clinical study, with pharmaceutical companies competing for market control.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The Kumo Council has declared war on the Haithis Purple Dynamic Group for the latter’s role in supporting Neomedical Industries.
 The pharmaceutical corporation’s recent campaign in the Haithis system enabled the mass production of Onionhead gamma strain, scheduled to be available as a medicinal product from Alliance and independent markets. The drug is currently distributed In a handful of anarchy systems by the Kumo Crew syndicate.
 As hostilities erupted in the Haithis system, Archon Delaine broadcast a message for Neomedical Industries:

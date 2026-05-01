@@ -7,19 +7,21 @@ source: GitHub
 summary: Sirius Corporation revealed it has deployed hundreds of deep-space probes and signalling technologies throughout the galaxy, working with Mars High Astrocartography on their design, claiming they offer more reliable coverage than human pilots.
 player_impact: None
 persons: []
-groups: [Sirius Corporation, Mars High Astrocartography]
-locations: [Mars, Sirius]
-technologies: [deep-space probes]
+groups:
+- Sirius Corporation
+- Mars High Astrocartography
+locations:
+- Mars
+- Sirius
 topics:
 - corporate expansion
 - exploration
+technologies:
+- deep-space probes
 modern_impact: Sirius Corporation's automated deep-space probe network presages corporate dominance over galactic cartography and raises surveillance concerns.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Exploration or Surveillance?
-
 
 A spokesperson for The Sirius Corporation has revealed that the mega-corporation has deployed Hundreds of deep-space probes and signalling technologies throughout the galaxy. 
 

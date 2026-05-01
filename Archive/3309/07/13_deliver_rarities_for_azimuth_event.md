@@ -4,7 +4,11 @@ title: Deliver Rarities for Azimuth Event
 slug: deliver_rarities_for_azimuth_event
 date: '3309-07-13'
 source: API
-entities: []
+summary: Azimuth requests rare commodities for its business convention and offers pre-engineered AX Multi-Cannons as rewards, while Corcoran criticizes the company's war escalation history.
+player_impact: Pilots delivered Albino Quechua Mammoth Meat, Gilya Signature Weapons and Harma Silver Sea Rum to Musashi in the Xi Wangda system. Bounty vouchers for wanted ships can be redeemed at Cartier City.
+persons:
+- Torben Rademaker
+- Angela Corcoran
 groups:
 - Azimuth Biotech
 locations:
@@ -13,13 +17,9 @@ locations:
 topics:
 - corporate expansion
 - research
+entities: []
 arc_id: salvation-azimuth
-modern_impact: "Rademaker's announcement frames the convention as 'prestigious' and the weapon as 'revolutionary.' Corcoran's criticism — 'the same organisation that escalated the war so significantly' — is pointed. Her observation that 'Activist groups such as Operation Wych Hunt have diminished the corporation's stellar influence' explains Azimuth's desperation. The pirate warning is a practical detail."
-persons:
-- Torben Rademaker
-- Angela Corcoran
-player_impact: "Pilots delivered Albino Quechua Mammoth Meat, Gilya Signature Weapons and Harma Silver Sea Rum to Musashi in the Xi Wangda system. Bounty vouchers for wanted ships can be redeemed at Cartier City."
-summary: "Azimuth requests rare commodities for its business convention and offers pre-engineered AX Multi-Cannons as rewards, while Corcoran criticizes the company's war escalation history."
+modern_impact: Rademaker's announcement frames the convention as 'prestigious' and the weapon as 'revolutionary.' Corcoran's criticism — 'the same organisation that escalated the war so significantly' — is pointed. Her observation that 'Activist groups such as Operation Wych Hunt have diminished the corporation's stellar influence' explains Azimuth's desperation. The pirate warning is a practical detail.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -27,7 +27,7 @@ related_uuids:
 - 3e1f7df6-c97e-5254-9465-9e693f6a19c6
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Azimuth Biotech has requested shipments of rare commodities to Xi Wangda, as luxury supplies for its business convention.
 Torben Rademaker, CEO of the anti-xeno corporation, announced the initiative via public channels:
 “We expect this prestigious gathering to be attended by many representatives from research groups, manufacturing companies and military forces. To ensure that our esteemed guests are made welcome, we will pay handsomely for shipments of Albino Quechua Mammoth Meat, Gilya Signature Weapons and Harma Silver Sea Rum.”

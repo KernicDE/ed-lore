@@ -12,19 +12,16 @@ groups:
 locations:
 - Arque
 - Austen Town Station
-technologies: []
 topics:
 - crime
 - ship
 - trade
 - war
+technologies: []
 modern_impact: Successful community security operations like the Arque campaign reinforce the role of independent pilots in maintaining order.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Order Restored to Arque
-
 
 Arque Commodities has announced that Its campaign to clear The Arque system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 

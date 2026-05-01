@@ -18,9 +18,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Silver Allied Network Implicated in Attack on Emperor!
-
-
 Thousands of Imperial bounty hunters answered The call of Princess Arissa over The last week, joining her in the hunt to uncover the identity of the cabal behind the cowardly attack on the ailing Emperor. 
 
 Acting on the advice of Several trustworthy members of the Imperial court, the Princess began by disrupting Several large-scale criminal operations taking place in Nehet and Mictlan. Hundreds of Imperial Commanders loyal to the Princess descended on the systems in force. The fury of the makeshift fleet shattered the local gangs, and within 24 hours the fighting was over. 

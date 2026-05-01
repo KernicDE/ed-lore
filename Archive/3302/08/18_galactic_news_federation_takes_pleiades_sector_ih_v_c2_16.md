@@ -13,17 +13,14 @@ groups:
 - Imperial Inquisition
 locations:
 - Pleiades Sector IH-V C2-16
-technologies: []
 topics:
 - war
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: Federal seizure of Pleiades Sector IH-V C2-16 marks a strategic victory in the superpower struggle for Pleiades territory and resources.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Federation Takes Pleiades Sector IH-V C2-16
-
 
 Following a week of conflict, The Pleiades Resource Enterprise has confirmed that the Federation has taken control of the Pleiades Sector IH-V C2-16 system, having ousted the incumbent Imperial Inquisition. In a statement, a spokesperson for the organisation thanked the Many Federal pilots who took part in the operation. 
 

@@ -26,9 +26,6 @@ related_uuids:
 - 42ef6025-276f-5d89-b735-6c4cb293e6fb
 ---
 
-Increased Fear of Spy Robots
-
-
 The Federal Security Service has discovered more personal administration robots containing concealed surveillance programs. 
 
 Independent reporter Flint ‘Firemaker’ Lafosse discussed the situation on the Rewired news feed: 

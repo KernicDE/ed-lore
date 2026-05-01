@@ -12,18 +12,15 @@ groups:
 locations:
 - Merope
 - Merope 5c
-technologies:
-- Unknown Probe
 topics:
 - investigation
 - research
+technologies:
+- Unknown Probe
 modern_impact: Decryption of Unknown Probe transmissions reveals structured non-human communication and links Merope to the broader alien artefact network.
 legacy_weight: 2
 significance: low
 ---
-
-Freelance Report: Unknown Probe Transmission Decrypted by Canonn
-
 
 The Canonn Interstellar Research Group has discovered, recorded and translated a tight-beam transmission from an Unknown Probe directed at Merope 5c. 
 

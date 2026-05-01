@@ -4,7 +4,8 @@ title: Aegis Supports Galactic Summit
 slug: aegis_supports_galactic_summit
 date: 3307-01-08
 source: API
-arc_id: null
+summary: The organisation Aegis has expressed support for Utopia’s offer to host a Galactic Summit for All three superpowers.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
 persons:
 - Aisling Duval
 - Alba Tesreau
@@ -24,9 +25,10 @@ topics:
 - diplomacy
 - research
 - war
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
-summary: The organisation Aegis has expressed support for Utopia’s offer to host a Galactic Summit for All three superpowers.
-modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+arc_id: null
+modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 3a299742-113f-5b36-98e2-a791ed35ae34
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
@@ -34,8 +36,6 @@ related_uuids:
 - 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
 - cade76e4-0a9d-5ef5-bce5-c552c1703f49
 - 99fd4baa-7978-5f90-bf43-9926feb1c42e
-legacy_weight: 5
-significance: high
 ---
 
 The organisation Aegis has expressed support for Utopia’s offer to host a Galactic Summit for All three superpowers.

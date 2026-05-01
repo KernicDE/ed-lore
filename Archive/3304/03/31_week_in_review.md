@@ -35,9 +35,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Aegis has constructed two megaships, The Acropolis and the Vanguard, to help counter the Thargoid threat. These ships will coordinate anti-Thargoid operations and support Independent pilots. Aegis has confirmed that both vessels will periodically relocate to wherever they can be strategically effective. 

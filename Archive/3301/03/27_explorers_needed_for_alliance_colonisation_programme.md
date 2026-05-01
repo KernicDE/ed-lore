@@ -14,9 +14,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Explorers Needed for Alliance Colonisation Programme
-
-
 Beyond The borders of occupied human space, The vast mysteries of the universe are waiting to be discovered. The last thousand years of human history have been shaped by Our combined ability to travel through the stars in search of a better future.  
 
 Yet what has humanity done With This precious gift? The same thing we’ve always done. We wasted it. 

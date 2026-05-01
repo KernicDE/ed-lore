@@ -4,23 +4,20 @@ title: Lakon Spaceways Faces Financial Collapse
 slug: lakon_spaceways_faces_financial_collapse
 date: '3306-12-29'
 source: API
+summary: Lakon Spaceways share prices drop to unprecedented lows amid a hostile takeover by Core Dynamics, with the Independent Commission for Market Equality reporting irregularities in share ownership transfers.
+player_impact: None
+persons:
+- Trent Delaney
+- Jupiter Rochester
 groups:
 - Alliance
 - Core Dynamics
 - Lakon Spaceways
-persons:
-- Trent Delaney
-- Jupiter Rochester
 topics:
 - corporate expansion
 - crime
 - investigation
-summary: Lakon Spaceways share prices drop to unprecedented lows amid a hostile takeover
-  by Core Dynamics, with the Independent Commission for Market Equality reporting irregularities
-  in share ownership transfers.
-player_impact: None
-modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape
-  the galactic aerospace market.
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape the galactic aerospace market.
 legacy_weight: 2
 significance: low
 ---

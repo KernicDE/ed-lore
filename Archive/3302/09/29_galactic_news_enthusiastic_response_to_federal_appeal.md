@@ -12,17 +12,14 @@ groups:
 locations:
 - Pleiades Sector IH-V C2-5
 - Pre Logistics Support Gamma
-technologies: []
 topics:
 - exploration
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: Successful Federal data gathering in the Pleiades strengthens cartographic coverage and supports ongoing investigation of non-human activity in the region.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Enthusiastic Response to Federal Appeal
-
 
 A spokesperson for The Pleiades Resource Enterprise has announced that Its appeal for exploration data was enthusiastically received by the galactic community. Hundreds of pilots contributed to the campaign by sweeping the Pleiades Nebula and delivering the resultant astronomical data to Pre Logistics Support Gamma in the Pleiades Sector IH-V C2-5 system. 
 

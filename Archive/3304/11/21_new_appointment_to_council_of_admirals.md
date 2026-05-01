@@ -28,9 +28,6 @@ legacy_weight: 2
 significance: low
 ---
 
-New Appointment to Council of Admirals
-
-
 Admiral Frederick Yamamoto has been announced As the sixth member of The Alliance Council of Admirals.  
 
 The position had been vacant for months after the previous appointment, Riri McAllister, was discovered to be the coordinator of terrorist group the League of Reparation. 

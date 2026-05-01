@@ -30,9 +30,6 @@ related_uuids:
 - 974273ae-d811-56a4-91c7-d562bba2149a
 ---
 
-Cordova Group Linked to Spy Robots
-
-
 The Federal Times has revealed a connection between the Cordova Group and the spy robots scandal. 
 
 Chief Editor Lena Ravenhill wrote: 

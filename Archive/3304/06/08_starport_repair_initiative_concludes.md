@@ -25,9 +25,6 @@ related_uuids:
 - 34982e5c-4fd7-5b67-b8c5-d8a11abae5e5
 ---
 
-Starport Repair Initiative Concludes
-
-
 The campaign by Aegis Core to fund the refurbishment of starports In the core systems has now ended. A large quantity of construction materials were delivered to Dantec Enterprise. 
 
 Carter Armstrong, chief administrator for the project, announced his thanks: 

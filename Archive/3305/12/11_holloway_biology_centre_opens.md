@@ -4,27 +4,21 @@ title: Holloway Biology Centre Opens
 slug: holloway_biology_centre_opens
 date: '3305-12-11'
 source: GitHub
-groups:
-- Holloway Bioscience Institute
+summary: The Holloway Biology Centre opens in the Colonia system after months of redesign. The state-of-the-art facility will study newly catalogued lifeforms discovered by the galactic community.
+player_impact: None
 persons:
 - Roy Casimir
+groups:
+- Holloway Bioscience Institute
 locations:
 - Colonia
 topics:
 - research
 - exploration
-summary: The Holloway Biology Centre opens in the Colonia system after months of redesign.
-  The state-of-the-art facility will study newly catalogued lifeforms discovered by the
-  galactic community.
-player_impact: None
-modern_impact: The research centre establishes Colonia as a hub for xenobiological study
-  and deep-space scientific research.
+modern_impact: The research centre establishes Colonia as a hub for xenobiological study and deep-space scientific research.
 legacy_weight: 3
 significance: medium
 ---
-
-Holloway Biology Centre Opens
-
 
 Following months of setbacks, The Holloway Biology Centre has finally opened in the Colonia system. The research centre will focus on the study of newly catalogued lifeforms. 
 

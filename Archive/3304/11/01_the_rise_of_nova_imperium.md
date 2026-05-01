@@ -26,9 +26,6 @@ related_uuids:
 - 022febc0-0bac-50a9-ab0b-92002fcb91eb
 ---
 
-The Rise of Nova Imperium
-
-
 A radical group called Nova Imperium is gaining influence throughout the Empire. 
 
 Imperial Herald journalist Cassia Carvalho highlighted the situation: 

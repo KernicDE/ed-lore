@@ -14,18 +14,15 @@ locations:
 - Eol Prou RS-T d3-94
 - Jaques Station
 - Beagle Point
-technologies: []
 topics:
 - construction
 - war
+technologies: []
 arc_id: jaques-station
 modern_impact: The Colonia Initiative transforms Jaques Station from a temporary waypoint into the foundation of a permanent independent colony.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: The Colonia Initiative
-
 
 The Colonia Nebula is a relatively innocuous region of space encompassing the Eol Prou RS-T d3-94 system. It is also likely to become a major bastion of humanity in the years to come. 
 

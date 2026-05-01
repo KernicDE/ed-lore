@@ -4,6 +4,8 @@ title: Remembering the Victims of the Cerberus Plague
 slug: remembering_the_victims_of_the_cerberus_plague
 date: '3301-10-06'
 source: GitHub
+summary: The Cerberus Plague is officially declared extinct after no new outbreaks since early August. Lead researcher Carl Simmons confirmed the eradication. A memorial was unveiled at Hart Station in Bast by Governor Albrecht to honor the over 100,000 victims of the devastating outbreak.
+player_impact: Pilots who participated in delivering the Cerberus antidote contributed to the eradication of one of the most devastating plagues in recent galactic history. The memorial at Hart Station stands as a testament to those efforts.
 persons:
 - Carl Simmons
 - Governor Albrecht
@@ -15,15 +17,10 @@ topics:
 - memorial
 arc_id: cerberus-plague
 arc_chapter: Plague eradicated
-summary: The Cerberus Plague is officially declared extinct after no new outbreaks since early August. Lead researcher Carl Simmons confirmed the eradication. A memorial was unveiled at Hart Station in Bast by Governor Albrecht to honor the over 100,000 victims of the devastating outbreak.
-player_impact: Pilots who participated in delivering the Cerberus antidote contributed to the eradication of one of the most devastating plagues in recent galactic history. The memorial at Hart Station stands as a testament to those efforts.
 modern_impact: Marks a significant phase in the fight against a devastating plague that killed over 100,000.
 legacy_weight: 4
 significance: high
 ---
-
-Remembering The Victims of the Cerberus Plague
-
 
 The Cerberus Plague was One of the most devastating outbreaks to blight the galaxy for generations, devastating Dozens of systems and affecting countless worlds. Official figures place the death toll at over 100,000. 
 

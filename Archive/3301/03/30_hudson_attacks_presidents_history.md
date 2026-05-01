@@ -4,21 +4,17 @@ title: Hudson Attacks President’s History
 slug: hudson_attacks_presidents_history
 date: '3301-03-30'
 source: GitHub
-entities:
-- Hudson held
 locations:
 - Mars
 topics:
 - diplomacy
+entities:
+- Hudson held
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 4
 significance: high
 ---
-
-Hudson Attacks President’s History
-
 
 Shadow President Hudson held a press conference on Mars earlier today to address rumours that he would be seeking support to oust President Halsey from office. 
 

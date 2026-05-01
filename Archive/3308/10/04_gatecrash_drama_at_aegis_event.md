@@ -4,7 +4,8 @@ title: Gatecrash Drama at Aegis Event
 slug: gatecrash_drama_at_aegis_event
 date: '3308-10-04'
 source: API
-arc_id: salvation-azimuth
+summary: The sole survivor of the notorious Project Seraph experiments has reportedly appeared at the Aegis symposium, startling the live audience.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Alba Tesreau
 - Allan Mantle
@@ -23,21 +24,16 @@ topics:
 - bioweapon
 - diplomacy
 - research
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: The sole survivor of the notorious Project Seraph experiments has reportedly
-  appeared at the Aegis symposium, startling the live audience.
-modern_impact: '"The shouting caught everyone in the conference hall by surprise,
-  interrupting a discussion about the recently leaked ..." This call for collaboration
-  continues to resonate in discussions about superpower unity against the Thargoids.'
+arc_id: salvation-azimuth
+modern_impact: '"The shouting caught everyone in the conference hall by surprise, interrupting a discussion about the recently leaked ..." This call for collaboration continues to resonate in discussions about superpower unity against the Thargoids.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 17c9f162-826a-5492-8ff7-a04cd0d9cdfc
-legacy_weight: 5
-significance: high
 ---
 
 The sole survivor of the notorious Project Seraph experiments has reportedly appeared at the Aegis symposium, startling the live audience.

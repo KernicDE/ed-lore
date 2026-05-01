@@ -4,22 +4,20 @@ title: NMLA Retakes the Steel Majesty
 slug: nmla_retakes_the_steel_majesty
 date: '3307-11-17'
 source: API
-groups:
-- Marlinist
-- NMLA
+summary: NMLA terrorists overrun the Steel Majesty megaship in the Hyades Sector RO-P b6-2 system, trapping crew members and gathering surviving cells for a major operation.
+player_impact: None
 persons:
 - Jean-Christophe Lyon
 - Milo Castile
 - Aaron Whyte
+groups:
+- Marlinist
+- NMLA
 topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-summary: NMLA terrorists overrun the Steel Majesty megaship in the Hyades Sector RO-P
-  b6-2 system, trapping crew members and gathering surviving cells for a major operation.
-player_impact: None
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---

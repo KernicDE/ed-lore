@@ -27,9 +27,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Federal Citizens Assassinated by The League of Reparation
-
-
 Terrorist group the League of Reparation has committed three Further murders in Federation space. 
 
 The body of Ezra Lux-Kumar, a wealthy entrepreneur, was Found in his home on Biggs Colony yesterday. Local security forces confirmed that the cause was a lethal nerve toxin of the same type used in the murder of Imperial Senator Cartesius. 

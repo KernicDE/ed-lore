@@ -4,11 +4,11 @@ title: Imperial Intelligence Denies NMLA Connection
 slug: imperial_intelligence_denies_nmla_connection
 date: '3308-01-07'
 source: API
-arc_id: nmla-terrorism
+summary: Imperial senators deny ACT's claims linking the NMLA to the Omega Grid communications system.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Arissa Lavigny-Duval
 - Karl Nerva
-entities: []
 groups:
 - Imperial Herald
 - NMLA
@@ -20,9 +20,11 @@ topics:
 - scandal
 - succession
 - terrorism
-summary: Imperial senators deny ACT's claims linking the NMLA to the Omega Grid communications system.
-player_impact: Not specifically mentioned — this is a political report.
-modern_impact: "\"Imperial Intelligence must operate under total secrecy, but I assure you that this 'Omega Grid' is just as much of an invention.\" The Empire's denial of the Omega Grid's existence signals a concerted effort to suppress ACT's investigation."
+entities: []
+arc_id: nmla-terrorism
+modern_impact: '"Imperial Intelligence must operate under total secrecy, but I assure you that this ''Omega Grid'' is just as much of an invention." The Empire''s denial of the Omega Grid''s existence signals a concerted effort to suppress ACT''s investigation.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 00d01961-877a-52b8-a4ce-337aaa44ae3f
 - 9924627d-24bc-56d4-a93a-0b70b4ab322a
@@ -34,10 +36,7 @@ related_uuids:
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 4fe5c0a6-b22f-549b-b11e-0eb1a9c1bac3
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
-legacy_weight: 5
-significance: high
 ---
-
 
 Senators have refuted ACT’s claim that The NMLA made use of official but highly secret Imperial communications devices.
 Captain Saskia Landau maintains that the terrorist group’s dark-comms network was very similar to the Omega Grid, an undetectable messaging system used exclusively by Imperial Intelligence.

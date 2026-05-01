@@ -4,21 +4,21 @@ title: Federation Extends Quarantine for Thargoid Abductees
 slug: federation_extends_quarantine_for_thargoid_abductees
 date: '3309-12-28'
 source: API
-entities: []
+summary: The Federation extends quarantine for Thargoid abductees, with Hudson citing security concerns while Winters promises to bring them home once she takes office.
+player_impact: Not specifically mentioned — this is a policy announcement.
+persons:
+- Edmund Mahon
+- Zachary Hudson
+- Felicia Winters
 groups: []
 locations: []
 topics:
 - humanitarian
 - medicine
 - politics
+entities: []
 arc_id: null
-modern_impact: "Hudson's justification — 'When at war with such an implacable enemy as the Thargoids, we simply cannot afford to take any risks' — contrasts with Winters's humanitarian approach. Winters's detailed plan — 'mandatory medical checks' to 'allay fears and minimise any social ostracism' — shows policy nuance. The direct policy clash between outgoing and incoming presidents is notable."
-persons:
-- Edmund Mahon
-- Zachary Hudson
-- Felicia Winters
-player_impact: "Not specifically mentioned — this is a policy announcement."
-summary: "The Federation extends quarantine for Thargoid abductees, with Hudson citing security concerns while Winters promises to bring them home once she takes office."
+modern_impact: Hudson's justification — 'When at war with such an implacable enemy as the Thargoids, we simply cannot afford to take any risks' — contrasts with Winters's humanitarian approach. Winters's detailed plan — 'mandatory medical checks' to 'allay fears and minimise any social ostracism' — shows policy nuance. The direct policy clash between outgoing and incoming presidents is notable.
 legacy_weight: 5
 significance: high
 related_uuids:

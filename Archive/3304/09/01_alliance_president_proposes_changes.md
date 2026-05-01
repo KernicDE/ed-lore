@@ -26,9 +26,6 @@ related_uuids:
 - a950b069-65d4-569a-b55c-6ce84123e10e
 ---
 
-Alliance President Proposes Changes
-
-
 Alliance President Gibson Kincaid has confirmed he will campaign for re-election in October. 
 
 Addressing The media, President Kincaid also said he wanted to make significant changes to the Alliance constitution: 

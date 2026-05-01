@@ -13,18 +13,15 @@ groups:
 locations:
 - Cenker City
 - Gucumadhyas
-technologies: []
 topics:
 - research
 - trade
 - war
+technologies: []
 modern_impact: Utopia's research programme leverages pilot-delivered commodities to advance its technological and scientific agenda.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Utopia Appeal Concludes
-
 
 A spokesperson for The Utopia Commune has announced that Its campaign for materials has reached a successful conclusion. Hundreds of pilots contributed to the initiative by delivering various commodities to Cenker City, Which will be used In a forthcoming research and development programme. 
 

@@ -14,14 +14,10 @@ topics:
 - ship
 - sport
 - succession
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
+modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---
-
-Emperor’s Grace Indicted in Attack on Emperor
-
 
 Several weeks ago, Imperial Palace security uncovered an attempted plot to poison Emperor Hengist Duval. Princess Lavigny-Duval and Chancellor Blaine both launched their own investigations into The matter. 
 

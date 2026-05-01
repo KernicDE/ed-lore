@@ -17,14 +17,10 @@ locations:
 topics:
 - construction
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Jaques to Embark for Beagle Point
-
 
 A spokesperson for The Fuel Rats named Mischief has announced that Jaques Station has received sufficient quantities of fuel to complete the proposed jump to Beagle Point.  
 

@@ -13,9 +13,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Aisling Opens Art Installation on Emerald
-
-
 The People’s Princess made an appearance in Cemiess late last night to attend The opening of Emerald’s newest art installation, ‘Prism’s Shades’, a multi-sensory experience that uses experimental light and sound projection technology to stimulate a series of empathic responses from Its audience. 
 
 Aisling dazzled crowds by dressing In a long-sleeved ruby red evening gown, adorned With painite sparkles. She accessorised With an equally stunning tinted visor, fashionably stamped with Aisling’s personal crest. 

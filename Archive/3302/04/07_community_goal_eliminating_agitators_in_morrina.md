@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Eliminating Agitators in Morrina
-
-
 Recent reports from Morrina indicate that The system is in the grip of widespread civil unrest. The system's inhabitants have taken to the streets to express their displeasure With local authorities, Which have been criticised for failing to tackle rampant criminal activity. 
 
 In response to This development, the Morrina Pro-Alliance Party has placed a kill order on all wanted ships operating in the system, and has promised to reward pilots who deliver bounty vouchers to Barjavel Vision. 

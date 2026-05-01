@@ -28,9 +28,6 @@ related_uuids:
 - 3422afa3-30f2-5ba6-a072-d7dde266572f
 ---
 
-Lori Jameson Denounces Terrorist Organisation
-
-
 The engineer Lori Jameson has made a public statement regarding the League of Reparation. The terrorist group claims to be seeking justice for the betrayal of her ancestor, the legendary pilot Commander John Jameson. 
 
 Her message was recorded at Jameson Memorial and broadcast by Several media networks: 

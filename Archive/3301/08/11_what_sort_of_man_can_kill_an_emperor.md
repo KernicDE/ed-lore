@@ -4,6 +4,8 @@ title: What Sort of Man Can Kill an Emperor
 slug: what_sort_of_man_can_kill_an_emperor
 date: '3301-08-11'
 source: GitHub
+summary: The Imperial Herald profiled Brendan Paul Darius, the man allegedly responsible for Emperor Hengist Duval’s assassination. Darius grew up in Eotienses, where his parents were a wealthy client family under Senator Patreus. After education in history and ethics, he served as an officer on one of Patreus’s Majestic-class Interdictors, rising to captain. After two decades of military service he joined Patreus’s liaison team and became a patron. The article describes a man dedicated to service and traditional values, leaving the question of why he killed his Emperor unanswered.
+player_impact: None
 persons:
 - Brendan Paul Darius
 - Denton Patreus
@@ -14,18 +16,11 @@ locations:
 - Eotienses
 topics:
 - succession
-summary: The Imperial Herald profiled Brendan Paul Darius, the man allegedly responsible for Emperor Hengist Duval’s assassination. Darius grew up in Eotienses, where his parents were a wealthy client family under Senator Patreus. After education in history and ethics, he served as an officer on one of Patreus’s Majestic-class Interdictors, rising to captain. After two decades of military service he joined Patreus’s liaison team and became a patron. The article describes a man dedicated to service and traditional values, leaving the question of why he killed his Emperor unanswered.
-player_impact: None
 modern_impact: Profile of the Emperor’s assassin revealing his background and connection to Senator Patreus.
 legacy_weight: 3
 significance: medium
 ---
 
-What Sort of Man Can Kill an Emperor?
-
-
-What Sort of Man Can Kill an Emperor? 
- 
 The Imperial Herald today released an article about The man allegedly responsible for the regicide of Emperor Hengist Duval. 
 
 The article detailed Brendan Paul Darius’ upbringing in Eotienses, the home system for the bulk of Patreus’ activities. His parents were a relatively wealthy client family under Senator Patreus known for their observation of traditional values. They worked on One of his Many estates in the system. After completing his formal education in history and ethics he served as an officer on One of the Senator’s Majestic class Interdictors, eventually rising to the rank of captain. 

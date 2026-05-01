@@ -11,20 +11,16 @@ persons:
 groups:
 - Alliance
 locations: []
-technologies:
-- meta-alloys
 topics:
 - alien contact
 - war
+technologies:
+- meta-alloys
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Edmund Mahon Condemns Imperial-Federal Sabre Rattling
-
 
 Alliance Prime Minister Edmund Mahon has offered a critical appraisal of The ongoing antagonism between the Empire and the Federation. His comments, delivering during a recent ministerial address, concern the conflict over the organic structures known as barnacles, and the meta-alloys they produce. 
 

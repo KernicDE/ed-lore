@@ -17,20 +17,17 @@ locations:
 - Alioth
 - Nerah City
 - Argent's Claim
-technologies: []
 topics:
 - festival
 - succession
 - trade
 - war
+technologies: []
 arc_id: alliance-expansion
 modern_impact: Halsey's anti-war protest in Alioth demonstrates the Alliance's willingness to host dissident voices and challenge superpower militarism.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Halsey Stages Anti-War Protest
-
 
 Former Federal President Jasmina Halsey held a public demonstration in The Alioth system yesterday in protest of The ongoing conflict between the Empire and the Federation. 
 

@@ -4,12 +4,8 @@ title: Winters Appoints Future Cabinet Members
 slug: winters_appoints_future_cabinet_members
 date: '3310-01-22'
 source: API
-groups:
-- Federal Navy
-topics:
-- politics
-arc_id: null
-modern_impact: "Trevino's analysis highlights Winters' loyalty-based appointments — 'Long-serving figures in the Liberal Party are finally being rewarded with key positions.' Bai Zheng's role overseeing 'the surveillance unit's closure, as per Winters's campaign promise' confirms a major policy shift. Lasky's Cornelius-Lasky Convention experience makes her a natural Secretary of State. Montgomery's challenge — 'navigate demands from a Federal Navy accustomed to Zachary Hudson's generous military budgets' — signals potential defence policy friction. The planned mid-February inauguration sets a timeline."
+summary: President-elect Felicia Winters announces her cabinet appointments, including Bai Zheng as Secretary for Security to oversee PDB closure, and sets mid-February for her inauguration.
+player_impact: Not specifically mentioned — this is a political announcement.
 persons:
 - Felicia Winters
 - Isolde Rochester
@@ -18,8 +14,12 @@ persons:
 - Kristine Lasky
 - Pierre-Marc Pelletier
 - Conn Montgomery
-player_impact: "Not specifically mentioned — this is a political announcement."
-summary: "President-elect Felicia Winters announces her cabinet appointments, including Bai Zheng as Secretary for Security to oversee PDB closure, and sets mid-February for her inauguration."
+groups:
+- Federal Navy
+topics:
+- politics
+arc_id: null
+modern_impact: Trevino's analysis highlights Winters' loyalty-based appointments — 'Long-serving figures in the Liberal Party are finally being rewarded with key positions.' Bai Zheng's role overseeing 'the surveillance unit's closure, as per Winters's campaign promise' confirms a major policy shift. Lasky's Cornelius-Lasky Convention experience makes her a natural Secretary of State. Montgomery's challenge — 'navigate demands from a Federal Navy accustomed to Zachary Hudson's generous military budgets' — signals potential defence policy friction. The planned mid-February inauguration sets a timeline.
 legacy_weight: 3
 significance: medium
 related_uuids:

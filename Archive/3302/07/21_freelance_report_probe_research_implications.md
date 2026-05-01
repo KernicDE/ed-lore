@@ -14,22 +14,18 @@ groups:
 - Task Force Athena
 locations:
 - Merope
-technologies:
-- Unknown Probes
-- discovery scanner
-- Farragut-class Battlecruiser
 topics:
 - research
 - ship
 - war
-modern_impact: Raises awareness of the military applications of alien technology and
-  intensifies the arms race between superpowers.
+technologies:
+- Unknown Probes
+- discovery scanner
+- Farragut-class Battlecruiser
+modern_impact: Raises awareness of the military applications of alien technology and intensifies the arms race between superpowers.
 legacy_weight: 2
 significance: low
 ---
-
-Freelance Report: Probe Research Implications
-
 
 Recent developments in Unknown Probe research have raised concerns among military strategists. 
 

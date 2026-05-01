@@ -4,9 +4,6 @@ title: Anti Federation Terrorists Linked to Artefact Research
 slug: anti_federation_terrorists_linked_to_artefact_research
 date: '3301-05-20'
 source: GitHub
-entities:
-- Arcanonn
-- Halsey's arrival as part
 groups:
 - Alliance
 - Canonn
@@ -16,15 +13,14 @@ locations:
 topics:
 - research
 - terrorism
+entities:
+- Arcanonn
+- Halsey's arrival as part
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---
-
-Anti-Federation Terrorists Linked to Artefact Research
-
 
 Over The course of The weekend Hundreds of tons of Bio-Waste were dumped in and around stations in 78 Ursae Majoris. This system is currently undergoing preparations for President Halsey's arrival as part of her planned grand tour. A group calling themselves 'The Canonn' claims responsibility for This act.  
 

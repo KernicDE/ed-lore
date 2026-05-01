@@ -4,25 +4,22 @@ title: Terrorism Respite as Marlinists Prepare for New Homes
 slug: terrorism_respite_as_marlinists_prepare_for_new_homes
 date: '3306-12-21'
 source: API
+summary: A lull in NMLA terrorist strikes follows successful operations by Imperial security services, while hundreds of thousands of Marlinist refugees prepare to occupy new colony systems established by Sirius Corporation.
+player_impact: None
+persons:
+- Jenna Fairfax
+- Aaron Whyte
+- Amrita Ross
 groups:
 - Federal Security Service
 - Imperial Internal Security Service
 - Sirius Corporation
 - Sirius Gov
-persons:
-- Jenna Fairfax
-- Aaron Whyte
-- Amrita Ross
 topics:
 - corporate expansion
 - humanitarian
 - terrorism
-summary: A lull in NMLA terrorist strikes follows successful operations by Imperial
-  security services, while hundreds of thousands of Marlinist refugees prepare to occupy
-  new colony systems established by Sirius Corporation.
-player_impact: None
-modern_impact: The Marlinist Colonies remain a significant political settlement between
-  the Empire and Federation.
+modern_impact: The Marlinist Colonies remain a significant political settlement between the Empire and Federation.
 legacy_weight: 3
 significance: medium
 ---

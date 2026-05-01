@@ -13,18 +13,15 @@ groups:
 locations:
 - Brady Horizons
 - Gooheimar
-technologies:
-- Farragut-class Battlecruiser
 topics:
 - construction
 - war
+technologies:
+- Farragut-class Battlecruiser
 modern_impact: Federal capital ship construction signals intensified military posturing against the Empire and shapes long-term naval power balances.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Federal Campaign Concludes
-
 
 Federal President Zachary Hudson has announced that The Federal appeal for construction materials received the enthusiastic support of the galactic community. Hundreds of Independent pilots supported the campaign by delivering autofabricators, tantalum and superconductors to Brady Horizons in the Gooheimar system, Which will allow the Federation to start work on the first of three new Farragut-class Battlecruisers. 
 

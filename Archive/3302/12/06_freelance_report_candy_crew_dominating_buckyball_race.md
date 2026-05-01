@@ -13,19 +13,16 @@ persons:
 groups:
 - Candy Crew Guild
 locations: []
-technologies:
-- SRV
 topics:
 - alien contact
 - sport
+technologies:
+- SRV
 arc_id: thargoid-contact
 modern_impact: Community racing event organised by the Buckyball Racing Club around an alien crash site, showcasing pilot competition and skill.
 legacy_weight: 5
 significance: high
 ---
-
-Freelance Report: Candy Crew Dominating Buckyball Race
-
 
 As the Kick The Alien (and Run like Hell) race reaches Its midpoint, the top of the leaderboard is dominated by members of the Candy Crew Guild. Commander Nookie Mr.Smith took the number One spot on Thursday With a truly incredible 6 minute 43 second run, while Commanders Raijiin and Rewision are sitting comfortably in second and third place respectively. 
 

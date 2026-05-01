@@ -14,22 +14,18 @@ locations:
 - Maia
 - Varati
 - Bond Hub
-technologies:
-- Unknown Artefacts
 topics:
 - unknown artefacts
 - trade
 - safety
+technologies:
+- Unknown Artefacts
 arc_id: unknown-artefacts
 arc_chapter: Canonn calls for sales ban
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 4
 significance: high
 ---
-
-The Canonn Calls for Halt to Artefact Sales
-
 
 The Voice of Varati today received a statement from Dr Arcanonn of the Canonn Interstellar Research Group: 
 

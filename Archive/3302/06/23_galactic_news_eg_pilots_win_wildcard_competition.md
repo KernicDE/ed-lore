@@ -17,17 +17,14 @@ groups:
 - Social Eleu Progressive Party
 - The Sovereign
 locations: []
-technologies: []
 topics:
 - diplomacy
 - sport
+technologies: []
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: EG Pilots win Wildcard Competition
-
 
 The third and final heat of the Dangerous Games Wildcard competition is over. 
 

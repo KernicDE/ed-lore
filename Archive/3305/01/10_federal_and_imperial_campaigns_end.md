@@ -4,6 +4,8 @@ title: Federal and Imperial Campaigns End
 slug: federal_and_imperial_campaigns_end
 date: '3305-01-10'
 source: GitHub
+summary: Military supply campaigns for both the Federal and Imperial navies conclude successfully, with retired strategist Marquis Felix Novantico suggesting the Federal resupply reflects concern about a potentially hostile Empire under Hadrian Duval.
+player_impact: Contributing pilots could collect rewards from Payson Hub in Zearla or Mitchell Hangar in Sirsir.
 persons:
 - Felix Novantico
 groups:
@@ -18,17 +20,12 @@ topics:
 - trade
 - war
 - politics
-summary: Military supply campaigns for both the Federal and Imperial navies conclude successfully, with retired strategist Marquis Felix Novantico suggesting the Federal resupply reflects concern about a potentially hostile Empire under Hadrian Duval.
-player_impact: Contributing pilots could collect rewards from Payson Hub in Zearla or Mitchell Hangar in Sirsir.
 modern_impact: The parallel naval campaigns underscored how the Nova Imperium crisis was reverberating across superpower relations, with even the Federation preparing for potential shifts in Imperial foreign policy.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - f5d30214-82b2-562f-986e-99bf623a1a78
 ---
-
-Federal and Imperial Campaigns End
-
 
 Supply campaigns for The Federal and Imperial navies have concluded successfully, With traders delivering large amounts of military provisions. 
 

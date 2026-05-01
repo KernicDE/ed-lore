@@ -4,6 +4,8 @@ title: Mysteries of the Thargoids
 slug: mysteries_of_the_thargoids
 date: '3308-08-17'
 source: API
+summary: Professor Ishmael Palin publishes an article emphasising how little humanity truly understands about Thargoid civilisation, society, and objectives, and warns that the Proteus Wave has likely earned humanity the Thargoids' full attention.
+player_impact: Not specifically mentioned — this is a scientific article.
 persons:
 - Ishmael Palin
 groups:
@@ -16,8 +18,6 @@ topics:
 - war
 - xenoarchaeology
 arc_id: null
-summary: Professor Ishmael Palin publishes an article emphasising how little humanity truly understands about Thargoid civilisation, society, and objectives, and warns that the Proteus Wave has likely earned humanity the Thargoids' full attention.
-player_impact: Not specifically mentioned — this is a scientific article.
 modern_impact: Palin's sober assessment served as a critical counter-narrative to Azimuth's dehumanisation of Thargoids, reminding the galaxy that they were an intelligent species of enormous complexity whose motivations remained almost entirely unknown.
 legacy_weight: 4
 significance: medium

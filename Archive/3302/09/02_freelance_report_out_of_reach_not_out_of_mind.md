@@ -21,9 +21,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Freelance Report: Out of Reach, Not Out of Mind
-
-
 Following recent reports of a possible alien wreck in The Pleiades, the Canonn Interstellar Research Group has released Further information about the Unknown Probe. 
 
 Shortly after planetary data was Found in the Probe's tight-beam transmission, a message was sent to the Canonn from a pilot by the name of Commander Wace. It read: "The headerless octal number - it is distance compared to Merope!" 

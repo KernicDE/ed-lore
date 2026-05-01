@@ -4,6 +4,13 @@ title: Catastrophic Earthquakes Strike Rhea 3
 slug: catastrophic_earthquakes_strike_rhea_3
 date: '3310-02-13'
 source: API
+summary: Catastrophic earthquakes strike Rhea 3, devastating the capital New Greenacre and causing millions of casualties. President-elect Felicia Winters cancels her schedule to aid her homeworld.
+player_impact: Not specifically mentioned — this is a disaster report.
+persons:
+- Len Kennelly
+- Sofia Trevino
+- Felicia Winters
+- Isolde Rochester
 groups:
 - Federal Navy
 locations:
@@ -13,14 +20,7 @@ topics:
 - politics
 - terrorism
 arc_id: null
-modern_impact: "Kennelly's comparison — 'The only disaster on this scale that we've seen in Rhea was when NMLA terrorists bombed Ito Orbital' — contextualises the devastation. The unverified reports that 'contact has been lost with members of her family' adds personal stakes to Winters' response. Rochester's statement — 'Our focus right now should be on aiding those affected by this tragedy' — shows political restraint. The Empirical journal's observation about terraformed planets underscores the unpredictability of planetary engineering."
-persons:
-- Len Kennelly
-- Sofia Trevino
-- Felicia Winters
-- Isolde Rochester
-player_impact: "Not specifically mentioned — this is a disaster report."
-summary: "Catastrophic earthquakes strike Rhea 3, devastating the capital New Greenacre and causing millions of casualties. President-elect Felicia Winters cancels her schedule to aid her homeworld."
+modern_impact: Kennelly's comparison — 'The only disaster on this scale that we've seen in Rhea was when NMLA terrorists bombed Ito Orbital' — contextualises the devastation. The unverified reports that 'contact has been lost with members of her family' adds personal stakes to Winters' response. Rochester's statement — 'Our focus right now should be on aiding those affected by this tragedy' — shows political restraint. The Empirical journal's observation about terraformed planets underscores the unpredictability of planetary engineering.
 legacy_weight: 5
 significance: high
 related_uuids:

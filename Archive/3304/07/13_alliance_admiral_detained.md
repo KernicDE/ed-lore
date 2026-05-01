@@ -37,9 +37,6 @@ related_uuids:
 - 7ba9e81d-43a4-5565-ba4d-31b3ac2c2c95
 ---
 
-Alliance Admiral Detained
-
-
 A member of The Alliance Council of Admirals has been arrested by the taskforce investigating terrorist organisation the League of Reparation. 
 
 Admiral George Varma was confronted by Captain Niamh Seutonia and Senior Agent Tanya Ramirez during a meeting of admiralty staff at the Donaldson starport in Alioth. Despite protests, he was placed under arrest and escorted to a secure facility. 

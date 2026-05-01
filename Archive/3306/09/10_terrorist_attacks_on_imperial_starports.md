@@ -4,12 +4,14 @@ title: Terrorist Attacks on Imperial Starports
 slug: terrorist_attacks_on_imperial_starports
 date: '3306-09-10'
 source: GitHub
+summary: The NMLA launches coordinated terrorist attacks on four Imperial starports — Mackenzie Relay in Cemiess, Tsiolkovsky Terminal in Gabjaujis, Garrido Market in LHS 4031, and Muller Terminal in Rabh. The IISS identifies the group as Neo-Marlinist extremists.
+player_impact: Pilots are requested to assist with repairing starports and rescuing populations.
+persons:
+- Aisling Duval
 groups:
 - Imperial Internal Security Service
 - Pilots Federation
 - NMLA
-persons:
-- Aisling Duval
 locations:
 - Cemiess
 - Gabjaujis
@@ -17,12 +19,7 @@ locations:
 - Rabh
 topics:
 - terrorism
-summary: The NMLA launches coordinated terrorist attacks on four Imperial starports
-  — Mackenzie Relay in Cemiess, Tsiolkovsky Terminal in Gabjaujis, Garrido Market in LHS
-  4031, and Muller Terminal in Rabh. The IISS identifies the group as Neo-Marlinist extremists.
-player_impact: Pilots are requested to assist with repairing starports and rescuing populations.
-modern_impact: The NMLA escalates from small-scale activities to large coordinated starport
-  bombings, marking a major escalation in Imperial terrorism.
+modern_impact: The NMLA escalates from small-scale activities to large coordinated starport bombings, marking a major escalation in Imperial terrorism.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,10 +28,7 @@ related_uuids:
 - 31b4d802-4b3f-57f3-bc15-35276b2cf0b1
 ---
 
-Terrorist Attacks on Imperial Starports
-
-
-*Pilots Federation ALERT: For The attention of all Commanders* 
+**Pilots Federation ALERT: For The attention of all Commanders** 
 
 The Empire has broadcast This message across Its emergency channels: 
 

@@ -12,16 +12,13 @@ groups:
 locations:
 - Mu Koji
 - Aksyonov Hub
-technologies: []
 topics:
 - war
+technologies: []
 modern_impact: The Imperial victory in Mu Koji secured valuable Federal intelligence at significant material cost, intensifying superpower rivalry.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Imperial Operation Succeeds
-
 
 The Xuangu Crimson Major Network has announced that the Imperial operation to recover valuable intelligence from Federal convoys in the Mu Koji system has been a success. 
 

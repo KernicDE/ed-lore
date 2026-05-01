@@ -4,22 +4,18 @@ title: Anti Slavery Support Grows in Synteini System
 slug: anti_slavery_support_grows_in_synteini_system
 date: '3301-03-08'
 source: GitHub
-entities:
-- Zemina Torval where it counts -
 locations:
 - Synteini
 topics:
 - festival
 - slavery
 - trade
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
+entities:
+- Zemina Torval where it counts -
+modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---
-
-Anti-Slavery Support Grows in Synteini System
-
 
 The Future of Synteini party is calling on all Commanders to protest The actions of the Imperial Slavers Association in the Synteini system. 
 

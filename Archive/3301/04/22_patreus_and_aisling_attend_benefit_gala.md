@@ -14,9 +14,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Patreus and Aisling Attend Benefit Gala
-
-
 Denton Patreus and Aisling Duval were spotted in attendance at ‘A Dinner to Defeat Dementia’ in Capitol last night. The Empire’s favourite power couple spent Several hours mingling With Senators, Ceos and a few of The charity’s lucky patrons, before dazzling the crowd With a rather energetic display on the dance floor. 
 
 Aisling was dressed in an unusually demure, long necked, floor length red gown with flowing sleeves. The Senator was dressed casually in an open necked navy blue shirt with stylish silver trimming along the collar and cuffs.  

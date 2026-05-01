@@ -14,18 +14,15 @@ groups:
 locations:
 - Brestla
 - Roed Oodergaard Port
-technologies:
-- Mk III Viper
 topics:
 - ship
 - sport
+technologies:
+- Mk III Viper
 modern_impact: Charity combat tournament brings pilots together for competitive events while supporting cancer research.
 legacy_weight: 1
 significance: low
 ---
-
-Mavia Kain Announces Galactic Games
-
 
 Mavia Kain, High Inquisitor of The Imperial Inquisition, has formally announced the upcoming Galactic Games for Charity. The games will take place between the 13th and 15th of November 3301 in support of the Princess Margaret Cancer Foundation. A general amnesty will be declared in the Brestla system over the weekend. 
 

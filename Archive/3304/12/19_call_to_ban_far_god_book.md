@@ -25,9 +25,6 @@ related_uuids:
 - 852906f2-b606-50ea-b4f4-d3bd4af8e4d3
 ---
 
-Call to Ban Far God Book
-
-
 Disgraced politician Juanita Bishop has called for a forthcoming book about The Far God sect to be banned: 
 
 “The authors, Ulyanov and Okonkwo, are known alien sympathisers. One was arrested as a suspected traitor and the Other has admitted to being a Far God cultist!” 

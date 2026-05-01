@@ -30,9 +30,6 @@ related_uuids:
 - ee4ca040-662c-5763-b220-4db105a7fd77
 ---
 
-Alliance and Federation React to Nova Imperium
-
-
 The leaders of the Alliance and the Federation have commented on the rise of the isolationist group Nova Imperium. 
 
 Prime Minister Edmund Mahon told the Alliance Assembly: 

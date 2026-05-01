@@ -4,6 +4,8 @@ title: A Retrospective of 3307 (Part One)
 slug: a_retrospective_of_3307_part_one
 date: '3307-12-28'
 source: API
+summary: Historian Sima Kalhana reviews the first quarter of 3307, covering the NMLA's rise, the Galactic Summit, the Nine Martyrs bombings, and the formation of ACT.
+player_impact: Not specifically mentioned — this is a historical retrospective.
 persons:
 - Sima Kalhana
 - Pranav Antal
@@ -36,11 +38,7 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-summary: Historian Sima Kalhana reviews the first quarter of 3307, covering the NMLA's
-  rise, the Galactic Summit, the Nine Martyrs bombings, and the formation of ACT.
-player_impact: Not specifically mentioned — this is a historical retrospective.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 ---

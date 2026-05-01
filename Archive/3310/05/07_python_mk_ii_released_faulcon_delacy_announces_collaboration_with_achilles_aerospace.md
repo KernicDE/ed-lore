@@ -1,10 +1,12 @@
 ---
 uuid: fd10a1c4-394e-54c7-8968-b01b1cd22993
-title: 'Python Mk II Released: Faulcon DeLacy announces collaboration with Achilles
-  Aerospace'
+title: 'Python Mk II Released: Faulcon DeLacy announces collaboration with Achilles Aerospace'
 slug: python_mk_ii_released_faulcon_delacy_announces_collaboration_with_achilles_aerospace
 date: '3310-05-07'
 source: API
+summary: Faulcon DeLacy releases the Python Mk II, the first ship built entirely around Achilles' SCO Frame Shift Drive, featuring improved heat management and breaking speed records.
+player_impact: The Python Mk II is now available, designed from the ground up to better handle Achilles' new Frame Shift Drive with improved heat management, handling, fuel consumption, and acceleration.
+persons: []
 groups:
 - Achilles Aerospace
 - Faulcon DeLacy
@@ -14,14 +16,11 @@ locations:
 topics:
 - corporate expansion
 - ship
-modern_impact: "The collaboration between Faulcon DeLacy and Achilles Aerospace — 'designed from the ground up to better handle their new Frame Shift Drive' — is a strategic alliance that bypasses Sirius Corporation's traditional FSD monopoly. Sirius's refusal to comment on the announcement speaks volumes about the competitive threat. The tagline 'Built for Supercruise Overcharge' markets the ship as purpose-built for the new technology rather than retrofitted."
-persons: []
 technologies:
 - Python Mk II
 - Supercruise Overcharge
 - Frame Shift Drive
-player_impact: "The Python Mk II is now available, designed from the ground up to better handle Achilles' new Frame Shift Drive with improved heat management, handling, fuel consumption, and acceleration."
-summary: "Faulcon DeLacy releases the Python Mk II, the first ship built entirely around Achilles' SCO Frame Shift Drive, featuring improved heat management and breaking speed records."
+modern_impact: The collaboration between Faulcon DeLacy and Achilles Aerospace — 'designed from the ground up to better handle their new Frame Shift Drive' — is a strategic alliance that bypasses Sirius Corporation's traditional FSD monopoly. Sirius's refusal to comment on the announcement speaks volumes about the competitive threat. The tagline 'Built for Supercruise Overcharge' markets the ship as purpose-built for the new technology rather than retrofitted.
 legacy_weight: 2
 significance: low
 related_uuids:

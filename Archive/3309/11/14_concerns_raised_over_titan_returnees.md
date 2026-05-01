@@ -4,7 +4,12 @@ title: Concerns Raised over Titan Returnees
 slug: concerns_raised_over_titan_returnees
 date: '3309-11-14'
 source: API
-entities: []
+summary: Kamadhenu Medipure claims Titan returnees show physiological changes and recommends euthanasia, while Imperial Science Academy and Senate reject the alarmism and Azimuth's testing offer.
+player_impact: Not specifically mentioned — this is a medical report.
+persons:
+- Zoe Terentia
+- Ivano Colombera
+- Caspian Leopold
 groups:
 - Aegis
 - Azimuth
@@ -13,14 +18,9 @@ locations:
 topics:
 - humanitarian
 - medicine
+entities: []
 arc_id: null
-modern_impact: "Terentia's extreme recommendation — 'euthanasia should be considered to prevent any chance of contamination' — is contrasted with Colombera's calm analysis of 'natural immunological responses.' Leopold's personal condemnation of Azimuth — 'I will not countenance letting those butchers anywhere near our people' — is strong language for a senator. The Senate's formal rejection of Azimuth's offer shows institutional wariness."
-persons:
-- Zoe Terentia
-- Ivano Colombera
-- Caspian Leopold
-player_impact: "Not specifically mentioned — this is a medical report."
-summary: "Kamadhenu Medipure claims Titan returnees show physiological changes and recommends euthanasia, while Imperial Science Academy and Senate reject the alarmism and Azimuth's testing offer."
+modern_impact: Terentia's extreme recommendation — 'euthanasia should be considered to prevent any chance of contamination' — is contrasted with Colombera's calm analysis of 'natural immunological responses.' Leopold's personal condemnation of Azimuth — 'I will not countenance letting those butchers anywhere near our people' — is strong language for a senator. The Senate's formal rejection of Azimuth's offer shows institutional wariness.
 legacy_weight: 5
 significance: high
 related_uuids:

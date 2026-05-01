@@ -1,6 +1,6 @@
 ---
 uuid: 0d1f99bd-b76b-5129-963f-0f95ca92769a
-title: "Congressman's Criminal Ties Exposed"
+title: Congressman's Criminal Ties Exposed
 slug: congressmans_criminal_ties_exposed
 date: '3304-08-24'
 source: GitHub
@@ -30,9 +30,6 @@ related_uuids:
 - d9093b90-7659-5e5b-ac01-e545fe66530b
 - 2d41866c-c7a5-58b1-967c-80c278c83575
 ---
-
-Congressman’s Criminal Ties Exposed
-
 
 An exclusive exposé published by The Mars Tribune has revealed that a member of Federal Congress has close ties to a criminal organisation. 
 

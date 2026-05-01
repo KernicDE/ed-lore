@@ -4,7 +4,8 @@ title: Marlinists Reject Accusations of Terrorist Links
 slug: marlinists_reject_accusations_of_terrorist_links
 date: 3307-03-23
 source: API
-arc_id: nmla-terrorism
+summary: The Marlinist Parliament has refuted widespread allegations of supporting or concealing members of the NMLA paramilitary group.
+player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
 persons:
 - Far
 - Jenna Fairfax
@@ -16,11 +17,12 @@ groups:
 - NMLA
 - Neo-Marlinist Liberation Army
 locations:
-  - Marlinist
+- Marlinist
 topics: []
-player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
-summary: The Marlinist Parliament has refuted widespread allegations of supporting or concealing members of the NMLA paramilitary group.
-modern_impact: "\"The starport attacks were as sickening and terrifying to us as to the rest of the galaxy.\" The Marlinist refugee crisis and NMLA terrorism forced the galaxy to confront the consequences of Imperial political repression and republican ideology."
+arc_id: nmla-terrorism
+modern_impact: '"The starport attacks were as sickening and terrifying to us as to the rest of the galaxy." The Marlinist refugee crisis and NMLA terrorism forced the galaxy to confront the consequences of Imperial political repression and republican ideology.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - f359d9c3-aa3c-5d56-bf91-97754c4357a9
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
@@ -28,8 +30,6 @@ related_uuids:
 - 67932c1d-fed0-5cc2-b9a2-8aededff61c3
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
-legacy_weight: 5
-significance: high
 ---
 
 The Marlinist Parliament has refuted widespread allegations of supporting or concealing members of the NMLA paramilitary group.

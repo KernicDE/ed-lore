@@ -4,6 +4,8 @@ title: The New Imperator
 slug: the_new_imperator
 date: '3305-01-31'
 source: GitHub
+summary: Hadrian Augustus Duval broadcasts a defiant message condemning Emperor Arissa's brutal purge of Nova Imperium, assumes the title of Imperator Duval, and pledges to keep the isolationist spark alive in the Paresa system.
+player_impact: None — background political report.
 persons:
 - Hadrian Augustus Duval
 - Arissa Lavigny-Duval
@@ -17,8 +19,6 @@ topics:
 - politics
 - war
 arc_id: nova-imperium
-summary: Hadrian Augustus Duval broadcasts a defiant message condemning Emperor Arissa's brutal purge of Nova Imperium, assumes the title of Imperator Duval, and pledges to keep the isolationist spark alive in the Paresa system.
-player_impact: None — background political report.
 modern_impact: Hadrian's assumption of leadership transformed Nova Imperium from a defeated military force into a symbol of resistance, ensuring the movement's survival despite the Empire's ruthless suppression campaign.
 legacy_weight: 5
 significance: high
@@ -26,9 +26,6 @@ related_uuids:
 - 16fc73a3-70e2-5e55-9d43-8f9f4582e10c
 - fd541582-b2a7-54f3-82c3-c49d93acf99b
 ---
-
-The New Imperator
-
 
 Hadrian Augustus Duval has broadcast a message following the purge of isolationist group Nova Imperium: 
 

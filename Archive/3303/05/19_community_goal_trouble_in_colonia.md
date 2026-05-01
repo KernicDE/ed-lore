@@ -14,19 +14,15 @@ locations:
 - Colonia
 - Eol Prou Lw-L C8-215
 - Tolagarf's Junkjard
-technologies: []
 topics:
 - ship
 - war
+technologies: []
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Trouble in Colonia
-
 
 Recent reports indicate that a number of unauthorised outposts have been detected in The Eol Prou Lw-L C8-215 system. A spokesperson for the Colonia Council confirmed that these outposts are currently occupied by group of agitators, Which have already begun targeting pilots in the system. 
 

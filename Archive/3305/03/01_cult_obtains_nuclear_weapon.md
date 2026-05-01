@@ -4,6 +4,8 @@ title: Cult Obtains Nuclear Weapon
 slug: cult_obtains_nuclear_weapon
 date: '3305-03-01'
 source: GitHub
+summary: The Federal Intelligence Agency reveals that the Children of Tothos cult has stolen a portable nuclear weapon called the Lucifer Device from a research outpost funded by corrupt Zlota Federal Holdings executive Willard Morgenstern.
+player_impact: None — background crime report.
 persons:
 - Rochelle Karim
 - Barnabas Cole
@@ -17,8 +19,6 @@ locations:
 topics:
 - crime
 - terrorism
-summary: The Federal Intelligence Agency reveals that the Children of Tothos cult has stolen a portable nuclear weapon called the Lucifer Device from a research outpost funded by corrupt Zlota Federal Holdings executive Willard Morgenstern.
-player_impact: None — background crime report.
 modern_impact: The theft of the Lucifer Device represented one of the most serious nuclear security breaches in Federal history, triggering an interstellar manhunt and raising questions about oversight of weapons research.
 legacy_weight: 4
 significance: high
@@ -28,9 +28,6 @@ related_uuids:
 - eb0399b9-3f4e-598b-8792-1ffe7a9866d7
 - 9297eeb4-a7b3-5846-b24a-0baf631e6c8e
 ---
-
-Cult Obtains Nuclear Weapon
-
 
 The Federal Intelligence Agency has announced that a stolen nuclear weapon known As the Lucifer Device is in the possession of a fringe cult known as the Children of Tothos. 
 

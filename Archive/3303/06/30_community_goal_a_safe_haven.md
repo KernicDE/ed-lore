@@ -22,9 +22,6 @@ technologies: []
 modern_impact: Established a Pilots Federation peacekeeping model to protect new pilots in high-traffic starter systems.
 ---
 
-Community Goal: A Safe Haven
-
-
 A spokesperson for The Pilots Federation has announced a new peacekeeping initiative centred on the LHS 3447, Eravate and Asellus Primus systems. The purpose of the initiative is to minimise criminal activity in these regions and thereby ensure the safety of inexperienced pilots. 
 
 The spokesperson elaborated on the nature of the campaign: 

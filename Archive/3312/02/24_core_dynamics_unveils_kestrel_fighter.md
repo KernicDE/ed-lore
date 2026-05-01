@@ -4,20 +4,20 @@ title: Core Dynamics Unveils Kestrel Fighter
 slug: core_dynamics_unveils_kestrel_fighter
 date: 3312-02-24
 source: API
+summary: Core Dynamics unveils the Kestrel, a pure combat fighter with speed, agility, and three Mk II large hardpoints. Supercharged FSD is a first for a small craft. Limited release at Duamta.
+player_impact: Kestrel early release at Polyakov Station, Duamta. Limited availability initially. Combat trial missions within 15ly. Size 5 thrusters + supercharged FSD on small frame.
 groups:
 - Core Dynamics
 topics:
 - engineering
 - ship
-modern_impact: Supercharged FSD on a small combat craft represents a design philosophy shift toward speed-over-versatility. Mk II Plasma Shock Accelerator compatibility suggests Core Dynamics is standardizing next-generation weapon platforms that may see adoption across Federal and independent naval forces.
-legacy_weight: 1
-significance: low
 technologies:
 - Kestrel
 - Supercharged Frame Shift Drive
 - Mk II Plasma Shock Accelerator
-player_impact: Kestrel early release at Polyakov Station, Duamta. Limited availability initially. Combat trial missions within 15ly. Size 5 thrusters + supercharged FSD on small frame.
-summary: Core Dynamics unveils the Kestrel, a pure combat fighter with speed, agility, and three Mk II large hardpoints. Supercharged FSD is a first for a small craft. Limited release at Duamta.
+modern_impact: Supercharged FSD on a small combat craft represents a design philosophy shift toward speed-over-versatility. Mk II Plasma Shock Accelerator compatibility suggests Core Dynamics is standardizing next-generation weapon platforms that may see adoption across Federal and independent naval forces.
+legacy_weight: 1
+significance: low
 related_uuids:
 - 1a0654de-9c87-59e6-8494-a5cbb34758d0
 ---

@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Appeal for Construction Materials
-
-
 The Military Militia, an Independent organisation based in the XI-2 Lupi system, has announced plans to establish an installation in Its home system, and has issued an appeal for various commodities for use in the construction. Commander MiL1TiA SiX, the group's wing commander, elaborated on the nature of the appeal: 
 
 "We need two resources to start construction – military grade fabrics and platinum – and we encourage all able and willing Commanders to assist us." 

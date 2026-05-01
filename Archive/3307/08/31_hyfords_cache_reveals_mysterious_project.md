@@ -4,25 +4,22 @@ title: Hyford’s Cache Reveals Mysterious Project
 slug: hyfords_cache_reveals_mysterious_project
 date: '3307-08-31'
 source: API
-groups:
-- Wallglass Investigations Agency
+summary: A data cache left by Commander Hyford at a crash site in Colonia reactivates, revealing clues about mysterious deliveries to a nameless organization in the Pleiades.
+player_impact: Pilots investigated the data cache and followed leads to the HIP 26176 system.
 persons:
 - Hyford
 - Erik Gunnarson
 - Kit Fowler
+groups:
+- Wallglass Investigations Agency
 topics:
 - investigation
-summary: A data cache left by Commander Hyford at a crash site in Colonia reactivates,
-  revealing clues about mysterious deliveries to a nameless organization in the Pleiades.
-player_impact: Pilots investigated the data cache and followed leads to the HIP 26176
-  system.
-modern_impact: The mysteries surrounding Black Flight and secret Pleiades operations
-  remain unresolved.
+modern_impact: The mysteries surrounding Black Flight and secret Pleiades operations remain unresolved.
 legacy_weight: 3
 significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 A data bank left by a crashed Vessel on The moon Colonia 5 e a has reactivated, revealing clues as to Its origin.
 The crash site was first discovered over four years ago via listening posts in the Colonia, Neche and Wasat systems. These posts held transmissions from the ship’s owner, Commander Hyford, discussing his attempts to avoid members of a private military outfit he had previously worked for.
 This latest development was discussed by Erik Gunnarson of the Wallglass Investigations Agency:

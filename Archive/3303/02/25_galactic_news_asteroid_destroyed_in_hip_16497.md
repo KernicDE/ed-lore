@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Asteroid Destroyed in HIP 16497
-
-
 Earlier This week, automated stellar probes in The HIP 16497 system picked up an unusual heat signature. Local explorers promptly launched an investigation, only to discover that an asteroid had inexplicably disappeared from the system. 
 
 "It's most peculiar," said Kate Panamen of the Mars High Astrocartography Institute. "Given the asteroid's orbit, it shouldn't have come into contact With anything in the system for aeons. Nevertheless, the investigators Found an expanding cloud of dust in the asteroid's supposed location. We're at a loss to explain how it could have been destroyed." 

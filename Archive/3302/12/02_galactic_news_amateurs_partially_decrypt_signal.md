@@ -12,18 +12,15 @@ groups:
 locations:
 - Tionisla
 - Tionisla Orbital Graveyard
-technologies:
-- Cobra Mk III
 topics:
 - cyberattack
 - ship
+technologies:
+- Cobra Mk III
 modern_impact: Partial decryption of an antique signal from the Tionisla Orbital Graveyard raises new questions about unexplained phenomena.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Amateurs Partially Decrypt Signal
-
 
 A small group of EM-transmission technology enthusiasts in The Tionisla system claims to have partially decoded the encrypted message transmitted from the Tionisla Orbital Graveyard by an antique Cobra Mk III a few months ago. 
 

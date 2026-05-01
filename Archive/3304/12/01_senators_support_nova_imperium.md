@@ -22,9 +22,6 @@ related_uuids:
 - e9ba1e32-22ee-5764-816f-cb9a399539ab
 ---
 
-Senators Support Nova Imperium
-
-
 Several Imperial senators have spoken in support of isolationist group Nova Imperium. 
 
 Senator Pal Vespasian made The following statement: 

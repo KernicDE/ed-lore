@@ -4,26 +4,22 @@ title: Lakon Spaceways Discounts Selected Ships
 slug: lakon_spaceways_discounts_selected_ships
 date: '3306-12-08'
 source: API
+summary: Lakon Spaceways announces temporary 30% discounts on several vessel types to increase short-term profits and reassure shareholders amid takeover pressure from Core Dynamics.
+player_impact: Pilots could purchase discounted Lakon vessels until the 30th of December 3306.
+persons:
+- Naomi Landseer
 groups:
 - Alliance
 - Core Dynamics
 - Lakon Spaceways
-persons:
-- Naomi Landseer
 topics:
 - corporate expansion
-summary: Lakon Spaceways announces temporary 30% discounts on several vessel types to
-  increase short-term profits and reassure shareholders amid takeover pressure from Core
-  Dynamics.
-player_impact: Pilots could purchase discounted Lakon vessels until the 30th of December
-  3306.
-modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape
-  the galactic aerospace market.
+modern_impact: Corporate rivalries between Federal and Alliance ship manufacturers shape the galactic aerospace market.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Temporary price reductions have been announced for Several Lakon vessels, in an effort to increase short-term profits.
 Lakon Spaceways has applied a 30% discount on sales of The following ship types:
 Asp Scout

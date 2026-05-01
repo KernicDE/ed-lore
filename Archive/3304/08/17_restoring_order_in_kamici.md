@@ -22,9 +22,6 @@ related_uuids:
 - c92e037a-7d6e-53a6-b71e-b663fbebe77c
 ---
 
-Restoring Order in Kamici
-
-
 Authorities in The Kamici system have reported a distressing rise in The number of criminals operating in the area. Reports indicate that these felons are attacking pilots travelling in the system, disrupting trade and generally causing mayhem. 
 
 To counter This threat, Kamici Incorporated has placed a kill order on all ships on Its wanted list, and has promised to reward pilots who deliver bounty vouchers to Gaiman Port. 

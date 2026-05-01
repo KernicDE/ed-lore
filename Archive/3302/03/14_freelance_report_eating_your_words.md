@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: Eating Your Words
-
-
 Controversial chef Oliver Gordon was humiliated yesterday when he lost his battle over The 'PanGalactic' trademark. The cordon bleu has been forced to close his restaurant to meet spiralling legal costs. 
 
 The case began when the Pan Galactic Mining Corp issued a writ demanding that Gordon change the name of his 'PanGalactic' restaurant and pay substantial damages for infringing on intellectual property. 

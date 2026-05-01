@@ -4,6 +4,8 @@ title: Resources Supplied to Xeno Retrieval Programme
 slug: resources_supplied_to_xeno_retrieval_programme
 date: '3308-08-04'
 source: API
+summary: A delivery campaign to the Glorious Prospect in Pleiades Sector CW-U B3-2 provides vital commodities enabling Azimuth Biotech to analyse salvaged Thargoid wreckages following the Proteus Wave activation in HIP 22460.
+player_impact: Pilots delivered HN shock mounts, micro controllers, neofabric insulation, and radiation baffles to the Glorious Prospect.
 persons:
 - Maxim Lagunov
 - Torben Rademaker
@@ -19,16 +21,14 @@ topics:
 - research
 - war
 arc_id: salvation-azimuth
-summary: A delivery campaign to the Glorious Prospect in Pleiades Sector CW-U B3-2 provides vital commodities enabling Azimuth Biotech to analyse salvaged Thargoid wreckages following the Proteus Wave activation in HIP 22460.
-player_impact: Pilots delivered HN shock mounts, micro controllers, neofabric insulation, and radiation baffles to the Glorious Prospect.
 modern_impact: The successful supply campaign demonstrated Azimuth's post-victory corporate strategy in motion, using pilot labour to establish a xenological research infrastructure before the Proteus Wave had even fired.
-related_uuids:
-- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
 legacy_weight: 4
 significance: medium
+related_uuids:
+- 8f5d4c3e-7d2b-1a8f-5a0b-8f5d4c3e7d2b
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A delivery campaign in the Pleiades Sector CW-U B3-2 system has provided vital commodities to Azimuth Biotech.
 The technical materials will enable Azimuth to analyse the salvaged wreckages of Thargoid vessels, following the activation of the Proteus Wave in the HIP 22460 system.
 Captain Maxim Lagunov, commanding officer of the Glorious Prospect megaship, delivered a statement to conclude the initiative:

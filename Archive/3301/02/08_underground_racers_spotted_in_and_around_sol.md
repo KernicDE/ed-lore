@@ -15,9 +15,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Underground Racers Spotted In and Around Sol
-
-
 Unsanctioned Fight Club -  Chelomy Vison, Balaikda  
 
 The war might be over, But the battle lives on in Balaikda With the arrival of The Chelomy Vision fight club.  

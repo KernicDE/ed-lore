@@ -25,9 +25,6 @@ related_uuids:
 - 9acbde6e-30e2-5e01-8bb1-bb604ef21cb5
 ---
 
-Close Encounters Corps Initiative Concludes
-
-
 The Close Encounters Corps has announced that Its appeal for commodities has reached a successful conclusion, having received an overwhelming response from the galactic community.  
 
 A huge number of muon imagers were delivered to Crown Prospect over the past week. These will allow the construction of a scientific megaship to research the nebula surrounding the BD-12 1172 system. 

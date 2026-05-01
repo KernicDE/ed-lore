@@ -13,20 +13,16 @@ groups:
 locations:
 - Carcosa
 - Colonia
-technologies: []
 topics:
 - crime
 - ship
 - war
+technologies: []
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Conflict in Colonia
-
 
 Since it was founded in July 3302, The Colonia community has become a bastion of peace, seen by Many as an island of calm In a sea of conflict. 
 

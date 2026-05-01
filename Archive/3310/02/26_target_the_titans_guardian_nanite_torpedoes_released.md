@@ -4,6 +4,11 @@ title: Target the Titans – Guardian Nanite Torpedoes Released
 slug: target_the_titans_guardian_nanite_torpedoes_released
 date: '3310-02-26'
 source: API
+summary: Aegis announces mass-produced Guardian nanite torpedoes are ready and prepares concerted Titan attacks, with Tanner explaining the thermal vent targeting strategy and Tesreau acknowledging the cost to remaining captives.
+player_impact: Pilots are called to participate in concerted attacks against Thargoid Titans using Guardian nanite torpedoes available at rescue megaships.
+persons:
+- Alba Tesreau
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -11,15 +16,10 @@ locations:
 topics:
 - humanitarian
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Tesreau's moral calculus — 'those remaining may not survive these attacks. We are forced to accept that their sacrifice will result in fewer deaths than if the Titans are allowed to remain operational' — is one of the most ethically fraught decisions in the war. Tanner's tactical explanation — 'A sufficiently large payload of Guardian nanites should paralyse these vents. The mothership will be forced to discharge the colossal heat it generates by exposing its inner regions to space' — reveals the precise mechanics of Titan destruction. His closing — 'This could prove to be the most important victory in humanity's history… or our most devastating defeat' — frames the moment."
-persons:
-- Alba Tesreau
-- Aden Tanner
 technologies:
 - Guardian nanite torpedo
-player_impact: "Pilots are called to participate in concerted attacks against Thargoid Titans using Guardian nanite torpedoes available at rescue megaships."
-summary: "Aegis announces mass-produced Guardian nanite torpedoes are ready and prepares concerted Titan attacks, with Tanner explaining the thermal vent targeting strategy and Tesreau acknowledging the cost to remaining captives."
+arc_id: thargoid-titan-war
+modern_impact: Tesreau's moral calculus — 'those remaining may not survive these attacks. We are forced to accept that their sacrifice will result in fewer deaths than if the Titans are allowed to remain operational' — is one of the most ethically fraught decisions in the war. Tanner's tactical explanation — 'A sufficiently large payload of Guardian nanites should paralyse these vents. The mothership will be forced to discharge the colossal heat it generates by exposing its inner regions to space' — reveals the precise mechanics of Titan destruction. His closing — 'This could prove to be the most important victory in humanity's history… or our most devastating defeat' — frames the moment.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -28,7 +28,7 @@ related_uuids:
 - fe1eb907-2d83-51c4-bb42-d7b1da795fee
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Aegis is preparing concerted attacks against Thargoid Titans using the new weapons now available at rescue megaships.
 A successful delivery campaign brought in enough supplies of neofabric insulation, ion distributors and energy grid assemblies to mass-produce the Guardian nanite torpedoes. YZ Ceti Blue Galactic and Co, acting on Aegis’s behalf, is distributing rewards and reimbursing bounty vouchers from Clement Orbital in the YZ Ceti system.
 A press conference was held by Aegis leadership, including a statement from Professor Alba Tesreau:

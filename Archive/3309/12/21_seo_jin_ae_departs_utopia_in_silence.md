@@ -4,6 +4,12 @@ title: Seo Jin-ae Departs Utopia in Silence
 slug: seo_jin_ae_departs_utopia_in_silence
 date: '3309-12-21'
 source: API
+summary: Seo Jin-ae returns from Utopia after discussing Salvation's Nemesis Failsafe with Pranav Antal, with both agreeing to keep their conclusions confidential.
+player_impact: Not specifically mentioned — this is a scientific/political report.
+persons:
+- Seo Jin-ae
+- Pranav Antal
+- Caleb Wycherley
 groups:
 - Aegis
 - Azimuth
@@ -15,17 +21,11 @@ topics:
 - alien contact
 - war
 - research
-arc_id: salvation-azimuth
-modern_impact: "Antal's philosophical pivot — 'I speak not of the Thargoid war, but the ceaseless rivalries wrought by our innate tribalism... this flaw in our nature could lead to the collapse of civilisation amid fire and ruin' — expands his message beyond the immediate conflict. His hope that Utopia 'may one day steer us toward a more holistic path' is a recurring theme. The secrecy around the meeting's conclusions adds mystery."
-persons:
-- Seo Jin-ae
-- Pranav Antal
-- Caleb Wycherley
 technologies:
 - Nemesis Failsafe
 - Nemesis protocol
-player_impact: "Not specifically mentioned — this is a scientific/political report."
-summary: "Seo Jin-ae returns from Utopia after discussing Salvation's Nemesis Failsafe with Pranav Antal, with both agreeing to keep their conclusions confidential."
+arc_id: salvation-azimuth
+modern_impact: Antal's philosophical pivot — 'I speak not of the Thargoid war, but the ceaseless rivalries wrought by our innate tribalism... this flaw in our nature could lead to the collapse of civilisation amid fire and ruin' — expands his message beyond the immediate conflict. His hope that Utopia 'may one day steer us toward a more holistic path' is a recurring theme. The secrecy around the meeting's conclusions adds mystery.
 legacy_weight: 5
 significance: high
 related_uuids:

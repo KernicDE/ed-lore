@@ -26,9 +26,6 @@ related_uuids:
 - 46b722c9-bfdf-5a23-acbf-4a2b7bb177fa
 ---
 
-Colonia Hydroponics Initiative Concludes
-
-
 The Colonia Council has announced that Its campaign to build a new hydroponics facility has been warmly received by the galactic community. Large quantities of material were delivered to Templar Barracks over the past week, allowing the initiative to move to the construction phase. 
 
 The Council’s scientific adviser, Professor Diana VanCleef, gave The following statement: 

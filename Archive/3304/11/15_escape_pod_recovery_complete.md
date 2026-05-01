@@ -25,9 +25,6 @@ related_uuids:
 - db332136-804c-58df-89f9-2ab0eef65d11
 ---
 
-Escape Pod Recovery Complete
-
-
 The Independent HIP 29241 Green Party has announced that Its appeal to recover escape pods has been enthusiastically received by the galactic community. Hundreds of pilots supported the initiative by delivering pods to Felice Dock, and by protecting contributing ships in the Meene system. 
 
 Security Chief Harper Vargas of the Meene Defence Force gave The following statement: 

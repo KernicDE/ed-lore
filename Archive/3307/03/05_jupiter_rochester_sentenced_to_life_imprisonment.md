@@ -4,7 +4,8 @@ title: Jupiter Rochester Sentenced to Life Imprisonment
 slug: jupiter_rochester_sentenced_to_life_imprisonment
 date: 3307-03-05
 source: API
-arc_id: federal-politics
+summary: Former Core Dynamics CEO Jupiter Rochester has received a summary judgement for multiple crimes against The Federation.
+player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
 persons:
 - Isolde Rochester
 - Jupiter
@@ -16,7 +17,7 @@ persons:
 - This
 - With
 groups:
-  - Core Dynamics
+- Core Dynamics
 locations:
 - HIP 54530
 - Jupiter
@@ -24,9 +25,10 @@ topics:
 - corporate expansion
 - crime
 - investigation
-player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
-summary: Former Core Dynamics CEO Jupiter Rochester has received a summary judgement for multiple crimes against The Federation.
-modern_impact: "\"For many years, I helped Core Dynamics become one of the galaxy's strongest companies.\" Rochester's attempted corporate coup highlighted the dangers of unchecked corporate power within the Federation and led to significant reforms."
+arc_id: federal-politics
+modern_impact: '"For many years, I helped Core Dynamics become one of the galaxy''s strongest companies." Rochester''s attempted corporate coup highlighted the dangers of unchecked corporate power within the Federation and led to significant reforms.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 - ef475ada-e268-55e0-8ada-ae250caa5c86
@@ -34,8 +36,6 @@ related_uuids:
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - e25e2c83-7be4-5236-9a1a-93321f277b40
 - 3a299742-113f-5b36-98e2-a791ed35ae34
-legacy_weight: 2
-significance: low
 ---
 
 Former Core Dynamics CEO Jupiter Rochester has received a summary judgement for multiple crimes against The Federation.

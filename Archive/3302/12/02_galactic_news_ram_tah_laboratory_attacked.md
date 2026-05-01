@@ -14,19 +14,16 @@ locations:
 - Meene
 - Phoenix Base
 - Synuefe XR-H d11-102
-technologies: []
 topics:
 - construction
 - crime
 - investigation
 - research
+technologies: []
 modern_impact: Attack on Ram Tah's laboratory highlights the political and military stakes surrounding ancient site research.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Ram Tah Laboratory Attacked
-
 
 A few days ago, The research centre at Felice Dock in the Meene system was severely damaged in what has been described as 'an act of vandalism'. Authorities at the starport have confirmed that the attack left Many of the facilities irreparably damaged. 
 

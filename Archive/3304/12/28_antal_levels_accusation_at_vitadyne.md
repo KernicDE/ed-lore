@@ -28,9 +28,6 @@ related_uuids:
 - 0f8956ec-89f7-5dd8-9229-6aa09fdc9c8c
 ---
 
-Antal Levels Accusation at Vitadyne
-
-
 Simguru Pranav Antal, leader of Utopia, has made a statement regarding The new nanomedicines developed by Vitadyne Labs: 
 
 “The nanomedicines that Professor Katrien Rook claims to have created were in fact developed in Utopia, and have been in use for decades.” 

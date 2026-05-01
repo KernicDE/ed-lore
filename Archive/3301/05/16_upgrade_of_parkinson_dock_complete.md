@@ -16,9 +16,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Upgrade of Parkinson Dock Complete
-
-
 After two weeks of frantic construction, Which saw close to 70,000 Engineers working around The clock to get The project finished in time, Parkinson Dock is now home to some of the most advanced factories in The entire Empire.  
 
 The upgrade was completed as part of Senator Patreus’s plan to increase economic opportunities for the residents of his home system. 2,267 Commanders helped ship a total of 8,274,504 tonnes of industrial materials to Parkinson Dock, all of Which were put to good use during the construction effort. 

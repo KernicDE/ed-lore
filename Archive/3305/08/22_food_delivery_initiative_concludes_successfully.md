@@ -4,29 +4,24 @@ title: Food Delivery Initiative Concludes Successfully
 slug: food_delivery_initiative_concludes_successfully
 date: '3305-08-22'
 source: GitHub
+summary: The food delivery campaign to Chamas concludes successfully. The fundraiser enables immediate construction of a new asteroid base.
+player_impact: Contributing pilots can collect rewards from Denton Dock in Chamas.
+persons:
+- Silas James
 groups:
 - Fortunes Corsairs
 - Chamash Foods
-persons:
-- Silas James
 locations:
 - Chamas
 topics:
 - trade
 - construction
-summary: The food delivery campaign to Chamas concludes successfully. The fundraiser enables
-  immediate construction of a new asteroid base.
-player_impact: Contributing pilots can collect rewards from Denton Dock in Chamas.
-modern_impact: The successful initiative demonstrates how community-driven commodity campaigns
-  can rapidly fund infrastructure projects.
+modern_impact: The successful initiative demonstrates how community-driven commodity campaigns can rapidly fund infrastructure projects.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 10df846d-a8af-5668-96b7-4960fbbd03fa
 ---
-
-Food Delivery Initiative Concludes Successfully
-
 
 A campaign to deliver food commodities to The Chamas system has been declared a success by Its organisers. 
 

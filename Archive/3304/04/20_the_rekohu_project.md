@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-The Rekohu Project
-
-
 Angeli Imperial Enterprises, One of the Empire’s key suppliers of foodstuffs and Other consumables, has announced plans to build a Bowman-class science Vessel. 
 
 The construction initiative, dubbed the Rekohu Project, will allow the organisation to increase the biodiversity of Its crops. Once complete, the megaship will be deployed to the PLAA AIN Sector to research life on Earth-like worlds. 

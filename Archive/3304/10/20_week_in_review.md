@@ -51,9 +51,6 @@ related_uuids:
 - 90bdaf38-9c1c-58e0-a371-0f222a188649
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Gibson Kincaid has been announced As the winner of The Alliance presidential election, and will continue serving as president of the Alliance. Kincaid obtained a small majority of the public vote, defeating Councillor Elijah Beck. Prime Minister Edmund Mahon said the Alliance Assembly was still debating Kincaid’s proposal to imbue the presidential role With executive powers. 

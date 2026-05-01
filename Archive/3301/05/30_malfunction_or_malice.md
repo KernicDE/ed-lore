@@ -11,14 +11,10 @@ topics:
 - sport
 - succession
 arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
-  with implications for hyperdrive safety.
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery with implications for hyperdrive safety.
 legacy_weight: 3
 significance: medium
 ---
-
-Malfunction or Malice?
-
 
 It has now been 5 days since Starship One lost contact, and The search and rescue teams have yet to find any trace of The Missing ship or her crew. 
 

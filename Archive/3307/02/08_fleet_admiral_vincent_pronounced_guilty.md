@@ -4,7 +4,8 @@ title: Fleet Admiral Vincent Pronounced Guilty
 slug: fleet_admiral_vincent_pronounced_guilty
 date: 3307-02-08
 source: API
-arc_id: federal-politics
+summary: A Federal High Court jury has Found Fleet Admiral Lucas Vincent guilty of conspiracy to commit murder and treason.
+player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
 persons:
 - Found
 - Jasmina Halsey
@@ -20,14 +21,15 @@ groups:
 - Federal Navy
 - Federal Times
 locations:
-  - Jupiter
+- Jupiter
 topics:
 - corporate expansion
 - crime
 - piracy
-player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
-summary: A Federal High Court jury has Found Fleet Admiral Lucas Vincent guilty of conspiracy to commit murder and treason.
-modern_impact: "\"This is a bittersweet moment for me.\" The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence."
+arc_id: federal-politics
+modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - 3a299742-113f-5b36-98e2-a791ed35ae34
@@ -35,8 +37,6 @@ related_uuids:
 - 533f8ff4-f23d-500f-83d9-92209119bc5b
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 - e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
-legacy_weight: 2
-significance: low
 ---
 
 A Federal High Court jury has Found Fleet Admiral Lucas Vincent guilty of conspiracy to commit murder and treason.

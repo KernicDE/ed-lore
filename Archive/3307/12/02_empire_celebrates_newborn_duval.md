@@ -4,6 +4,8 @@ title: Empire Celebrates Newborn Duval
 slug: empire_celebrates_newborn_duval
 date: '3307-12-02'
 source: API
+summary: Hadrian Duval's wife Astrid gives birth to a son named Hector Mordanticus Duval, prompting celebrations across the Empire and a commodity gathering initiative in Paresa.
+player_impact: Pilots were asked to deliver Chateau De Aegaeon, HR 7221 Wheat, Indi Bourbon and Yaso Kondi Leaf to Dyson City in the Paresa system.
 persons:
 - Hadrian Augustus Duval
 - Astrid Minerva-Duval
@@ -23,18 +25,12 @@ locations:
 topics:
 - succession
 arc_id: nova-imperium
-summary: Hadrian Duval's wife Astrid gives birth to a son named Hector Mordanticus
-  Duval, prompting celebrations across the Empire and a commodity gathering initiative
-  in Paresa.
-player_impact: Pilots were asked to deliver Chateau De Aegaeon, HR 7221 Wheat, Indi
-  Bourbon and Yaso Kondi Leaf to Dyson City in the Paresa system.
-modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
-  creates a schism in Imperial politics.
+modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and creates a schism in Imperial politics.
 legacy_weight: 4
 significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A new chapter in The Duval family’s history has begun With the birth of Hadrian Augustus Duval’s son.
 The announcement was made by The Imperial Herald:
 “Lady Astrid Minerva-Duval, wife of Hadrian Duval, has delivered a baby boy at an undisclosed secure location while under senatorial protection.”

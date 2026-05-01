@@ -28,9 +28,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Aegis Thargoid Report Causes Ripples
-
-
 A recent report from Aegis, outlining The Thargoids’ history and their interactions With the Guardians, has elicited a wide range of responses. 
 
 A brief statement was released by Federal President Zachary Hudson:  

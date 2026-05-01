@@ -4,10 +4,10 @@ title: Taurus Mining Ventures Calls for Support
 slug: taurus_mining_ventures_calls_for_support
 date: '3308-03-31'
 source: API
-arc_id: salvation-azimuth
+summary: Taurus Mining Ventures requests pilot assistance for mining operations linked to Salvation's research.
+player_impact: Pilots were requested to assist with mining and delivery operations for Taurus Mining Ventures in Synuefe.
 persons:
 - Ruben Carpenter
-entities: []
 groups:
 - Salvation
 locations:
@@ -17,9 +17,11 @@ topics:
 - corporate expansion
 - exploration
 - research
-summary: Taurus Mining Ventures requests pilot assistance for mining operations linked to Salvation's research.
-player_impact: Pilots were requested to assist with mining and delivery operations for Taurus Mining Ventures in Synuefe.
-modern_impact: "\"Taurus Mining Ventures has requested help with a mining and delivery operation in the Synuefe CE-R c21-6 system.\" The call for pilot support confirms Salvation's network continues recruiting independent contractors for its Guardian research program."
+entities: []
+arc_id: salvation-azimuth
+modern_impact: '"Taurus Mining Ventures has requested help with a mining and delivery operation in the Synuefe CE-R c21-6 system." The call for pilot support confirms Salvation''s network continues recruiting independent contractors for its Guardian research program.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - abc2fd5a-4eb4-5e36-ba45-d821adf6847e
 - f7dab7fe-23cb-5905-a1d5-29db2b5fa84a
@@ -31,12 +33,9 @@ related_uuids:
 - 634f0a2d-c94e-5c0e-9501-a506ebbde34b
 - 68957f0d-5d45-53d3-a1ec-d1ac3bbc5691
 - 2eadd4d6-2a46-58c0-9b83-978dd2f73ad3
-legacy_weight: 5
-significance: high
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Taurus Mining Ventures has requested help With a mining and delivery operation in The Synuefe CE-R c21-6 system.
 In recent weeks, the mining corporation has performed research on what it claims are atypical radiation signatures detected within Synuefe CE-R c21-6. It now seeks shipments of the system’s native ores to explore commercially valuable applications of any molecular changes caused by This radiation.
 Dr Ruben Carpenter, head of the company’s research division, outlined the initiative:

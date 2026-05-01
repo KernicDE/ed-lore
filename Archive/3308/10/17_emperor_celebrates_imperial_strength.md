@@ -4,7 +4,8 @@ title: Emperor Celebrates Imperial Strength
 slug: emperor_celebrates_imperial_strength
 date: '3308-10-17'
 source: API
-arc_id: null
+summary: Emperor Arissa Lavigny-Duval has expressed satisfaction with the Empire’s military and scientific progress since the Battle of HIP 22460.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Arissa Lavigny-Duval
 groups:
@@ -18,21 +19,16 @@ topics:
 - research
 - succession
 - war
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: Emperor Arissa Lavigny-Duval has expressed satisfaction with the Empire’s
-  military and scientific progress since the Battle of HIP 22460.
-modern_impact: '"The Imperial Navy is entering a period of revitalisation, with advances
-  being made in multiple areas. We have been fr..." Imperial policy during this period
-  reveals the tensions between isolationism and collective security.'
+arc_id: null
+modern_impact: '"The Imperial Navy is entering a period of revitalisation, with advances being made in multiple areas. We have been fr..." Imperial policy during this period reveals the tensions between isolationism and collective security.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - d8b14f7a-0b22-5f2d-a164-45b74638e864
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 5fe4f82e-6d86-54ad-8e32-86f5d121a22b
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
-legacy_weight: 4
-significance: high
 ---
 
 Emperor Arissa Lavigny-Duval has expressed satisfaction with the Empire’s military and scientific progress since the Battle of HIP 22460.

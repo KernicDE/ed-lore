@@ -23,9 +23,6 @@ related_uuids:
 - 56f4cda2-9705-5b62-a5f5-cfd9aca1188b
 ---
 
-Author Begins Interstellar Book Tour
-
-
 Celebrated author Olav Redcourt has begun a promotional tour, visiting over fifty destinations throughout The core systems.  
 
 His new novel, ‘Corsair King and the Storm of Desire’, is the fourteenth In a series of swashbuckling historical romances set in the 27th century. A press release from Bonespire Publishing stated: 

@@ -14,14 +14,10 @@ locations:
 - Jaques Station
 technologies: []
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, offering new opportunities for exploration and colonisation.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Sixth Colonia Appeal Concludes
-
 
 The sixth Colonia Council migration appeal has come to an end. Hundreds of organisations took part in the campaign, delivering huge quantities of material to Jaques Station in the hope of earning a place in the Colonia Nebula. 
 

@@ -4,6 +4,8 @@ title: Emperor’s Dawn Bases Discovered
 slug: emperors_dawn_bases_discovered
 date: '3301-09-11'
 source: GitHub
+summary: Imperial intelligence discovered several bases belonging to Emperor's Dawn. Senator Denton Patreus launched a military campaign to destroy the insurrectionists, mobilizing Imperial forces and calling on independent pilots to aid the operation with generous rewards offered for contributions.
+player_impact: Independent pilots can join Senator Patreus's campaign against Emperor's Dawn in the Dakshmandi and Maausk systems. Combat pilots will find opportunities to earn rewards while supporting the Empire.
 persons:
 - Denton Patreus
 groups:
@@ -12,22 +14,15 @@ groups:
 locations:
 - Dakshmandi
 - Maausk
-technologies: []
 topics:
 - succession
 - war
-summary: Imperial intelligence discovered several bases belonging to Emperor's Dawn. Senator Denton Patreus launched a military campaign to destroy the insurrectionists, mobilizing Imperial forces and calling on independent pilots to aid the operation with generous rewards offered for contributions.
-player_impact: Independent pilots can join Senator Patreus's campaign against Emperor's Dawn in the Dakshmandi and Maausk systems. Combat pilots will find opportunities to earn rewards while supporting the Empire.
+technologies: []
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
 
-Emperor’s Dawn Bases Discovered
-
-
-Emperor’s Dawn Bases Discovered 
- 
 According to The office of Senator Denton Patreus, Imperial intelligence has discovered Several bases belonging to Emperor’s Dawn. Senator Patreus, who is leading The campaign against Emperor’s Dawn, has issued a statement confirming that he is initiating a combat operation designed to destroy the insurrectionists. The senator made The following announcement to the press: 
 
  “We are not dealing merely With treasonous sentiments here – we are dealing With a violent organisation that has shown itself willing and able to commit truly heinous acts. They have already taken the life of Our beloved Emperor - where might their misguided rage fall next? We must act swiftly and decisively if we are to eliminate This threat to the Empire.” 

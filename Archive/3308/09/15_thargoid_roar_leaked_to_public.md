@@ -4,6 +4,8 @@ title: ‘Thargoid Roar’ Leaked to Public
 slug: thargoid_roar_leaked_to_public
 date: '3308-09-15'
 source: API
+summary: Classified footage from the Battle of HIP 22460 is leaked to newsfeeds, revealing the so-called 'Thargoid roar' and fuelling public anxiety as intelligence agencies investigate the source.
+player_impact: Pilots were called to continue anti-Thargoid operations in the 42 n Persei, Chun Pindit and Tekkeitjal systems.
 persons:
 - Flint Lafosse
 - Jade Sanderlyn
@@ -31,14 +33,7 @@ topics:
 - investigation
 - war
 arc_id: thargoid-titan-war
-summary: Classified footage from the Battle of HIP 22460 is leaked to newsfeeds, revealing
-  the so-called 'Thargoid roar' and fuelling public anxiety as intelligence agencies
-  investigate the source.
-player_impact: Pilots were called to continue anti-Thargoid operations in the 42 n
-  Persei, Chun Pindit and Tekkeitjal systems.
-modern_impact: The leak exposes military secrecy around HIP 22460 and brings the eerie
-  'Thargoid roar' to public attention, intensifying fear and speculation about the
-  aliens' true capabilities.
+modern_impact: The leak exposes military secrecy around HIP 22460 and brings the eerie 'Thargoid roar' to public attention, intensifying fear and speculation about the aliens' true capabilities.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -16,9 +16,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Eyes on Lugh
-
-
 Federal forces continue to dominate The skies of Lugh. The Crimson State Group’s air defences have been all but shredded, With the majority of their fleet now adopting a Defensive position around Balandin Gateway and Knight Dock. 
 
 Thanks to the actions of a crack troop of Federal Marines, Seega Port was secured With only a handful of soldiers being lost in the process. Federation forces are now working hard to secure Read Gateway for use as a staging post, from Which they plan to launch a series of attacks against Crimson State starports. 

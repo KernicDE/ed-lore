@@ -4,7 +4,8 @@ title: New Alliance Starports Become Operational
 slug: new_alliance_starports_become_operational
 date: '3307-06-25'
 source: API
-arc_id: alliance-expansion
+summary: Two new Alliance stations — Enterprise Market in LHS 2522 and Prosperity Core in Sharru Sector FW-W c1-19 — become operational. Prime Minister Mahon welcomes visitors while Councillor Kaine reveals irregularities in the tritium campaign and alleges Sirius Corporation made unregistered donations to make up shortfalls.
+player_impact: The new starports provide full services to pilots travelling through Alliance space.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -21,25 +22,24 @@ locations:
 - Dublin Citadel
 - Tionisla
 - Brett High
+topics:
+- corporate expansion
 technologies:
 - Tritium
 - Ceramic composites
 - Polymers
 - Superconductors
-topics:
-- corporate expansion
-player_impact: The new starports provide full services to pilots travelling through Alliance space.
-summary: Two new Alliance stations — Enterprise Market in LHS 2522 and Prosperity Core in Sharru Sector FW-W c1-19 — become operational. Prime Minister Mahon welcomes visitors while Councillor Kaine reveals irregularities in the tritium campaign and alleges Sirius Corporation made unregistered donations to make up shortfalls.
+arc_id: alliance-expansion
 modern_impact: Kaine's allegations about Sirius Corporation's involvement in Alliance expansion foreshadow later revelations about the megacorp's deep financial entanglement with all three superpowers and its strategic use of infrastructure projects to gain influence.
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 2a5006ec-b65b-5b2e-bd3a-0530675caa8d
 - 931d72fb-9b88-566c-a2c3-8b536ea52a59
 - 09b011a1-77a8-5a75-a0c4-c60509f2f440
-legacy_weight: 3
-significance: medium
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Two Alliance stations have been constructed following a successful re-election campaign by Prime Minister Edmund Mahon.
 Enterprise Market in The LHS 2522 system and Prosperity Core in the Sharru Sector FW-W c1-19 system are now fully operational. Prime Minister Mahon welcomed visitors to the new starports, promising that they would “Further enhance the Alliance’s commitment to creating opportunities”.
 However, Councillor Nakato Kaine triggered heated debate in the Alliance Assembly when she made This announcement:

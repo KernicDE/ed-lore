@@ -52,9 +52,6 @@ related_uuids:
 - 4272c1e0-2c23-5970-8096-14298490fef1
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Admiral Frederick Yamamoto has been announced As the sixth member of The Alliance Council of Admirals. The position had been vacant for months after the previous appointment, Riri McAllister, was discovered to be the coordinator of terrorist group the League of Reparation. The decision has ruffled some feathers, not least because Admiral Yamamoto is a close personal friend of President Gibson Kincaid. 

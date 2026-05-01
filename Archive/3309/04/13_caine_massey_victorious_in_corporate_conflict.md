@@ -4,6 +4,12 @@ title: Caine-Massey Victorious in Corporate Conflict
 slug: caine_massey_victorious_in_corporate_conflict
 date: '3309-04-13'
 source: API
+summary: Caine-Massey's partner Tavgi Blue Life Inc defeats Torval Mining in the Tavgi system, capturing the assassin; the FIA confirms he is a professional with false IDs.
+player_impact: Independent pilots who fought for Tavgi Blue Life Inc can collect rewards from Gordon Enterprise. Torval Mining supporters are also reimbursed.
+persons:
+- Philippa Barlow-Lyons
+- Viola Trask
+- Johann Fleischer
 groups:
 - Federal Navy
 locations:
@@ -13,13 +19,7 @@ locations:
 topics:
 - corporate expansion
 - investigation
-modern_impact: "Barlow-Lyons's triumph — 'the path was cleared for us to take control of the Orchestral Falcon megaship' — is corporate warfare. Trask's update — 'All known IDs associated with him are false... suggests that he is a professional assassin' — establishes the hitman's sophistication. The cooperation between the PDB, Federal Navy Intelligence Office, and FIA shows inter-agency coordination."
-persons:
-- Philippa Barlow-Lyons
-- Viola Trask
-- Johann Fleischer
-player_impact: "Independent pilots who fought for Tavgi Blue Life Inc can collect rewards from Gordon Enterprise. Torval Mining supporters are also reimbursed."
-summary: "Caine-Massey's partner Tavgi Blue Life Inc defeats Torval Mining in the Tavgi system, capturing the assassin; the FIA confirms he is a professional with false IDs."
+modern_impact: Barlow-Lyons's triumph — 'the path was cleared for us to take control of the Orchestral Falcon megaship' — is corporate warfare. Trask's update — 'All known IDs associated with him are false... suggests that he is a professional assassin' — establishes the hitman's sophistication. The cooperation between the PDB, Federal Navy Intelligence Office, and FIA shows inter-agency coordination.
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -28,7 +28,7 @@ related_uuids:
 - ec95aeea-a040-5284-a367-0e0c14ea4474
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Fierce combat in the Tavgi system has resulted in Caine-Massey’s partner Tavgi Blue Life Inc overcoming Torval Mining Ltd resistance.
 The conflict was triggered by the murder of Caine-Massey’s former CEO Johann Fleischer. The assassin was tracked from Mars to the Torval Mining megaship Orchestral Falcon. Circumstantial evidence suggested he was an undercover Imperial agent.
 Philippa Barlow-Lyons, acting CEO of the Caine-Massey corporation, declared:

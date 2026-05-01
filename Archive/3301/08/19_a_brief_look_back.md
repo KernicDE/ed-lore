@@ -4,6 +4,8 @@ title: A Brief Look Back
 slug: a_brief_look_back
 date: '3301-08-19'
 source: GitHub
+summary: This article revisits three colourful figures from recent history. Commander Angel Rose grew up on a starport, became a trader, then was drawn into crime and reluctant assassination, ultimately joining pirates featured on the Underground Channel. Her mother Maugvahnna Rose was a ruthless social climber who became a starport captain and played a small part in her daughter’s criminal path. Pirate Dread Katherine was kidnapped at 19, developed a hatred of men, and became one of the most feared pirates in her region.
+player_impact: None
 persons:
 - Angel Rose
 - Maugvahnna Rose
@@ -11,18 +13,11 @@ persons:
 topics:
 - crime
 - piracy
-summary: This article revisits three colourful figures from recent history. Commander Angel Rose grew up on a starport, became a trader, then was drawn into crime and reluctant assassination, ultimately joining pirates featured on the Underground Channel. Her mother Maugvahnna Rose was a ruthless social climber who became a starport captain and played a small part in her daughter’s criminal path. Pirate Dread Katherine was kidnapped at 19, developed a hatred of men, and became one of the most feared pirates in her region.
-player_impact: None
 modern_impact: Profiles of three individuals who shaped the galaxy from society’s margins.
 legacy_weight: 1
 significance: low
 ---
 
-A Brief Look Back
-
-
-A Brief Look Back 
- 
 In This series, we look at some of history’s less well-known figures, and examine The part they have played in shaping The galaxy. This week, we revisit a group of individuals whose exploits were covered by a number of media outlets last year. 
 
 Commander Angel Rose 

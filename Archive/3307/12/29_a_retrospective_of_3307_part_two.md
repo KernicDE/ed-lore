@@ -4,6 +4,8 @@ title: A Retrospective of 3307 (Part Two)
 slug: a_retrospective_of_3307_part_two
 date: '3307-12-29'
 source: API
+summary: Historian Sima Kalhana continues her review of 3307, covering the Proactive Detection Bureau, ACT's early victories, Salvation's emergence, the Alexandria's disappearance, and the Azaladshu secession.
+player_impact: Not specifically mentioned — this is a historical retrospective.
 persons:
 - Sima Kalhana
 - Hadrian Duval
@@ -34,12 +36,7 @@ topics:
 - war
 - xenoarchaeology
 arc_id: nmla-terrorism
-summary: Historian Sima Kalhana continues her review of 3307, covering the Proactive
-  Detection Bureau, ACT's early victories, Salvation's emergence, the Alexandria's disappearance,
-  and the Azaladshu secession.
-player_impact: Not specifically mentioned — this is a historical retrospective.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:

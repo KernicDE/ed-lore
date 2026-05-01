@@ -4,6 +4,8 @@ title: Alliance-Sirius Pact Prepares New Taskforce
 slug: alliance_sirius_pact_prepares_new_taskforce
 date: '3308-09-23'
 source: API
+summary: The Alliance-Sirius strategic defence pact is fully ratified, with Admiral Nikolas Glass announcing Operation Tyndareus, a new anti-xeno taskforce named after the megaship lost in HIP 22460.
+player_impact: Not specifically mentioned — this is a policy announcement.
 persons:
 - Nikolas Glass
 - Hildegard Dressler
@@ -24,13 +26,7 @@ topics:
 - diplomacy
 - war
 arc_id: thargoid-titan-war
-summary: The Alliance-Sirius strategic defence pact is fully ratified, with Admiral
-  Nikolas Glass announcing Operation Tyndareus, a new anti-xeno taskforce named after
-  the megaship lost in HIP 22460.
-player_impact: Not specifically mentioned — this is a policy announcement.
-modern_impact: Operation Tyndareus represents the first concrete military output of
-  the controversial Alliance-Sirius pact, though critics question whether Sirius will
-  deliver meaningful combat capability.
+modern_impact: Operation Tyndareus represents the first concrete military output of the controversial Alliance-Sirius pact, though critics question whether Sirius will deliver meaningful combat capability.
 legacy_weight: 5
 significance: high
 related_uuids:

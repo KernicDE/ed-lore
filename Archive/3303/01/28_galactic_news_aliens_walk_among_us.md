@@ -10,18 +10,15 @@ persons:
 - Ricardo Bentonio
 groups: []
 locations: []
-technologies: []
 topics:
 - alien contact
 - media
+technologies: []
 arc_id: thargoid-contact
 modern_impact: Thargoid conspiracy theories emerge in popular media, reflecting public anxiety over confirmed alien contact.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Aliens Walk among Us!
-
 
 Outspoken conspiracy theorist Ricardo Bentonio has lent his voice to The debate surrounding reports of mysterious spacecraft. And true to form, he has made some rather implausible claims. 
 

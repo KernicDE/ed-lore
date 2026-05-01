@@ -13,9 +13,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Themiscrya Reaches Agreement on National Debt
-
-
 Senator Denton Patreus issued notice 8 days ago of his intention to seek legal recourse over The Nationals of Themiscrya’s failure to meet their financial obligations. The news sent waves of panic through the tiny Independent system, With Many residents choosing to flee rather than risk being turned into assets to appease the Senator. 
 
 However, reports coming from Ritchey Port indicate that a new debt agreement has been reached between Silver Universal PLC and the Nationals of Themiscrya, effectively ending any imminent action from Senator Patreus’s legal team. 

@@ -4,7 +4,8 @@ title: Councillor Kaine Campaigns for Alliance Votes
 slug: councillor_kaine_campaigns_for_alliance_votes
 date: 3307-01-22
 source: API
-arc_id: null
+summary: Councillor Nakato Kaine is visiting key systems across The Alliance as part of her bid to be elected As the next prime minister.
+player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Edmund Mahon
 - Leesti
@@ -12,7 +13,7 @@ persons:
 - Which
 - With
 groups:
-  - Alliance
+- Alliance
 locations:
 - Councillor Nakato Kaine is visiting key
 - Leesti
@@ -22,9 +23,10 @@ topics:
 - alien contact
 - corporate expansion
 - war
-player_impact: Pilots followed these developments through GalNet reports.
-summary: Councillor Nakato Kaine is visiting key systems across The Alliance as part of her bid to be elected As the next prime minister.
-modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+arc_id: null
+modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+legacy_weight: 4
+significance: high
 related_uuids:
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
 - c0aab9ee-c770-5579-864d-bfe676a694a2
@@ -32,8 +34,6 @@ related_uuids:
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - 86eb9c0f-fa6b-5089-b6ae-d233a1e64339
-legacy_weight: 4
-significance: high
 ---
 
 Councillor Nakato Kaine is visiting key systems across The Alliance as part of her bid to be elected As the next prime minister.

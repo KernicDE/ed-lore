@@ -28,9 +28,6 @@ related_uuids:
 - 9b7efc43-c412-55ad-a2b0-3c04798a14bc
 ---
 
-Lakon Releases Alliance Crusader
-
-
 Lakon Spaceways has announced that a new ship, The Alliance Crusader, will soon be available for purchase. 
 
 Meera Callanach, head of military projects at Lakon, gave some details to the media: 

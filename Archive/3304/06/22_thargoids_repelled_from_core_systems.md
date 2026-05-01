@@ -22,8 +22,6 @@ related_uuids:
 - 34982e5c-4fd7-5b67-b8c5-d8a11abae5e5
 - d33c2337-8ce6-5941-ade9-90a742c87559
 ---
-Thargoids Repelled from Core Systems
-
 
 Aegis has confirmed that The Thargoid presence In the core systems has been significantly diminished, due largely to the efforts of the galactic community. 
 

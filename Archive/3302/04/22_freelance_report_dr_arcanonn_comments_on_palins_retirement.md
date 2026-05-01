@@ -19,14 +19,10 @@ topics:
 - research
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Dr Arcanonn Comments on Palin's Retirement
-
 
 Dr Arcanonn of The Canonn Interstellar Research Group has expressed solidarity With Professor Ishmael Palin, following the latter's decision to retire from the Palin Institute and pursue personal research into the Unknown Artefacts and meta-alloys. 
 

@@ -17,14 +17,10 @@ topics:
 - construction
 - war
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
 ---
-
-Freelance Report: Attempt to Sabotage Jaques Station Thwarted
-
 
 Three individuals carrying pamphlets identifying them as members of 'The Hands of the Architects' have been apprehended at Jaques Station. Starport personnel discovered the individuals attempting to modify the station's Frame Shift Drive. 
 

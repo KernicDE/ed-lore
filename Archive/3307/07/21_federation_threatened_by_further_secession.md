@@ -4,7 +4,8 @@ title: Federation Threatened by Further Secession
 slug: federation_threatened_by_further_secession
 date: '3307-07-21'
 source: API
-arc_id: federal-politics
+summary: Federal Times journalist Sofia Trevino reports that dozens of factions are considering independence following Azaladshu's success. The seceded systems have severed PDB links. Advocacy claims the FIA is arresting secessionist leaders on spurious charges. Both Hudson and Winters contact system leaders to prevent further secession.
+player_impact: None directly; this is a political analysis piece.
 persons:
 - Sofia Trevino
 - Zachary Hudson
@@ -29,22 +30,21 @@ locations:
 - Sol
 - Mars
 - Federal Accord
-technologies:
-- Proactive Detection Bureau surveillance system
-- Dark-comms network
 topics:
 - independence
 - terrorism
 - war
-player_impact: None directly; this is a political analysis piece.
-summary: Federal Times journalist Sofia Trevino reports that dozens of factions are considering independence following Azaladshu's success. The seceded systems have severed PDB links. Advocacy claims the FIA is arresting secessionist leaders on spurious charges. Both Hudson and Winters contact system leaders to prevent further secession.
+technologies:
+- Proactive Detection Bureau surveillance system
+- Dark-comms network
+arc_id: federal-politics
 modern_impact: The spreading secession crisis represents the most serious threat to Federal unity in modern history, with the PDB's surveillance backlash revealing the fragility of the Federal constitutional order when civil liberties are sacrificed for security.
+legacy_weight: 4
+significance: medium
 related_uuids:
 - ef028c66-1901-5fef-af9f-2c741a9066b6
 - e962c6b8-fd3d-59c4-847f-27923ec53502
 - 222858de-4cad-5e93-8606-bf343116ee8d
-legacy_weight: 4
-significance: medium
 ---
 
 More Federal factions are considering declaring Independence following The recent conflict in the Azaladshu system.

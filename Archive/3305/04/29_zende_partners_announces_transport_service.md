@@ -4,6 +4,8 @@ title: Zende Partners Announces Transport Service
 slug: zende_partners_announces_transport_service
 date: '3305-04-29'
 source: GitHub
+summary: Zende Partners announces plans for a megaship ferry service connecting the core systems to Guardian space, inviting the galactic community to vote on which of five candidate systems should host the termination outpost.
+player_impact: Pilots could vote on the destination system for Zende Partners' new Guardian space outpost.
 persons:
 - Freya Taine
 groups:
@@ -12,17 +14,12 @@ topics:
 - corporate expansion
 - trade
 - xenoarchaeology
-summary: Zende Partners announces plans for a megaship ferry service connecting the core systems to Guardian space, inviting the galactic community to vote on which of five candidate systems should host the termination outpost.
-player_impact: Pilots could vote on the destination system for Zende Partners' new Guardian space outpost.
 modern_impact: The announcement marked the beginning of corporate-led infrastructure expansion into Guardian space, making previously inaccessible regions available to mainstream pilot activity.
 legacy_weight: 3
 significance: medium
 related_uuids:
 - 5426beaf-d365-5437-971a-d9f64409abf7
 ---
-
-Zende Partners Announces Transport Service
-
 
 Zende Partners has revealed plans to establish a ferry service between The core systems and Guardian space. 
 

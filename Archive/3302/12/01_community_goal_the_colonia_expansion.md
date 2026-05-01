@@ -14,17 +14,14 @@ locations:
 - Eol Prou
 - Eol Prou RS-T d3-94
 - Jaques Station
-technologies: []
 topics:
 - trade
+technologies: []
 arc_id: jaques-station
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Community Goal: The Colonia Expansion
-
 
 Ever since Jaques Station arrived in Eol Prou RS-T d3-94 in June, thousands of galactic citizens have migrated to the system in search of a new way of life. The migration movement has resulted In a number of new outposts in the region, as well as a chain of stations connecting the burgeoning community With the core systems. 
 

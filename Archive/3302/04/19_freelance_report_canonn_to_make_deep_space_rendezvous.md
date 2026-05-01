@@ -28,9 +28,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Canonn to Make Deep-Space Rendezvous
-
-
 An escape pod containing Canonn scientist Shannon Day has been miraculously recovered by an explorer named Commander Josh Hawkins, According to transmissions received from his ship. 
 
 In his transmissions, Commander Hawkins revealed that he was able to extract Shannon Day's pilot log from her escape pod. From This he discovered that her ship had been sabotaged by Socha Korbemile, The former Canonn member who betrayed Dr Arcanonn. 

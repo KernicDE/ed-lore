@@ -4,6 +4,8 @@ title: Who is Funding Emperor's Dawn
 slug: who_is_funding_emperors_dawn
 date: '3301-10-11'
 source: GitHub
+summary: Questions arose about Emperor's Dawn funding sources after the organization matched Imperial military strength in multiple campaigns. Previous backing from Damon Clarke's D and C Shipping was confirmed but reportedly severed. Anonymous sources speculated about a possible corporate benefactor, though the IISS stated only that it was pursuing all available leads.
+player_impact: Pilots fighting for or against Emperor's Dawn should be aware that the organization's funding remains mysterious, with possible ties to major corporate interests.
 persons:
 - Damon Clarke
 groups:
@@ -16,15 +18,10 @@ topics:
 - terrorism
 - war
 arc_id: imperial-succession
-summary: Questions arose about Emperor's Dawn funding sources after the organization matched Imperial military strength in multiple campaigns. Previous backing from Damon Clarke's D and C Shipping was confirmed but reportedly severed. Anonymous sources speculated about a possible corporate benefactor, though the IISS stated only that it was pursuing all available leads.
-player_impact: Pilots fighting for or against Emperor's Dawn should be aware that the organization's funding remains mysterious, with possible ties to major corporate interests.
 modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---
-
-Who is Funding Emperor's Dawn?
-
 
 As the war between The Empire and Emperor's Dawn Continues, an increasing number of political commentators are asking the question: where does the organisation get Its money? 
 

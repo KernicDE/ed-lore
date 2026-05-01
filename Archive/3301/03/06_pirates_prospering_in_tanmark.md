@@ -17,9 +17,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Pirates Prospering in Tanmark
-
-
 Despite The Defence Force of Tanmark’s overwhelming success in closing down The Tanmark Posse’s operations on Luca, Hundreds of unmarked pirate ships have been attacking innocent traders as they go about their business in the system.  
 
 It would appear that the recent wave of criminal activity has been sparked by the economic boom that the region has been experiencing, as a result of the increased production of Lucan Onionhead. 

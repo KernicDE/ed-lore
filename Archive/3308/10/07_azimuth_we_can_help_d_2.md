@@ -1,10 +1,11 @@
 ---
 uuid: f7438e0e-89eb-5e2d-b974-7147bf67d4b1
-title: "Azimuth: ‘We Can Help D-2’"
+title: 'Azimuth: ‘We Can Help D-2’'
 slug: azimuth_we_can_help_d_2
 date: '3308-10-07'
 source: API
-arc_id: salvation-azimuth
+summary: Azimuth Biotech has publicly offered assistance to Subject D-2, the Project Seraph survivor who gate-crashed the recent Aegis symposium.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Alba Tesreau
 - Seo Jin-ae
@@ -20,21 +21,16 @@ topics:
 - corporate expansion
 - exploration
 - research
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: Azimuth Biotech has publicly offered assistance to Subject D-2, the Project
-  Seraph survivor who gate-crashed the recent Aegis symposium.
-modern_impact: '"Along with other former members of Aegis, I have provided sanctuary
-  to Seo Jin-ae. She is currently receiving medical..." Azimuth''s legacy of ethically
-  compromised research remains a cautionary tale in xenological studies.'
+arc_id: salvation-azimuth
+modern_impact: '"Along with other former members of Aegis, I have provided sanctuary to Seo Jin-ae. She is currently receiving medical..." Azimuth''s legacy of ethically compromised research remains a cautionary tale in xenological studies.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - 4e1477c4-93b5-5496-a2b9-86e95c248866
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - 0c21bfb7-e2b2-5928-8ca2-d5f1e93df3e0
 - eb62c669-b525-5753-b3cb-faf6452a8088
-legacy_weight: 5
-significance: high
 ---
 
 Azimuth Biotech has publicly offered assistance to Subject D-2, the Project Seraph survivor who gate-crashed the recent Aegis symposium.

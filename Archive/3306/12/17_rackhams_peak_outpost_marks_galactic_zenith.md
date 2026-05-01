@@ -4,25 +4,22 @@ title: 'Rackham’s Peak Outpost Marks Galactic Zenith '
 slug: rackhams_peak_outpost_marks_galactic_zenith
 date: '3306-12-17'
 source: API
+summary: Zachary Rackham's orbital outpost at the galactic zenith in HIP 58832 becomes operational, offering high prices for rare beverages and astronomical research opportunities.
+player_impact: Traders delivered beer, liquor, wine, and other beverages to Rackham's Peak for high profits.
+persons:
+- Zachary Rackham
 groups:
 - Universal Cartographics
 - Rackham Capital Investments
-persons:
-- Zachary Rackham
 topics:
 - exploration
 - research
-summary: Zachary Rackham's orbital outpost at the galactic zenith in HIP 58832 becomes
-  operational, offering high prices for rare beverages and astronomical research opportunities.
-player_impact: Traders delivered beer, liquor, wine, and other beverages to Rackham's
-  Peak for high profits.
-modern_impact: Rackham's Peak outpost remains a unique scientific and tourism destination
-  at the galactic zenith.
+modern_impact: Rackham's Peak outpost remains a unique scientific and tourism destination at the galactic zenith.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 Multi-billionaire Zachary Rackham’s new orbital outpost at The galactic zenith is now operational.
 Rackham’s Peak is situated in the HIP 58832 system, One of the highest practical locations above the galactic plane. Its construction was funded by Rackham Capital Investments, in conjunction With Universal Cartographics and Other scientific research companies.
 Traders have been welcomed, although the increased distances between stars at the galaxy’s fringes mean that vessels with a high jump range are recommended. Rackham’s Peak is currently offering high prices for deliveries of beer, liquor, wine, Bast Snake Gin, Centauri Mega Gin, Chateau De Aegaeon, Eranin Pearl Whisky, Gerasian Gueuze Beer, Harma Silver Sea Rum, Indi Bourbon, Kongga Ale, Lavian Brandy, Leestian Evil Juice, Saxon Wine, Thrutis Cream and Wuthielo Ku Froth.

@@ -10,20 +10,17 @@ persons: []
 groups:
 - Independent engineers
 locations: []
-technologies:
-- modules
-- weapons
 topics:
 - engineering
 - safety
 - trade
+technologies:
+- modules
+- weapons
 modern_impact: Engineering costs reduced to materials only, lowering barriers for ship customization.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Engineers Reduce Requirements
-
 
 The galaxy's Independent engineers have announced a joint accord designed to make enhancements for civilian spacecraft more affordable. A spokesperson confirmed the accord was intended to ensure the safety of independent pilots traversing the space lanes. 
 

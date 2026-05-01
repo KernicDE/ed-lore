@@ -23,9 +23,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Community Goal: The Colonia Exodus
-
-
 Despite the repeated assurances of the galactic authorities, Which have endeavoured to downplay the scale of the Thargoid threat, it is clear that Many of those In the core systems feel less than secure. This is evidenced by the huge numbers of citizens fleeing to Colonia, eager to escape the Thargoids. 
 
 In response to this development, the Colonia Council issued The following statement: 

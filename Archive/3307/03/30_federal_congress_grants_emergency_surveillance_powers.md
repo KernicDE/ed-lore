@@ -4,7 +4,8 @@ title: Federal Congress Grants Emergency Surveillance Powers
 slug: federal_congress_grants_emergency_surveillance_powers
 date: 3307-03-30
 source: API
-arc_id: null
+summary: Vice President Jerome Archer has successfully proposed a new public surveillance law designed to prevent future terrorist attacks in The Federation.
+player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Archer
 - Every
@@ -15,10 +16,11 @@ persons:
 groups: []
 locations: []
 topics:
-  - terrorism
-player_impact: Pilots followed these developments through GalNet reports.
-summary: Vice President Jerome Archer has successfully proposed a new public surveillance law designed to prevent future terrorist attacks in The Federation.
-modern_impact: "\"This will allow the government to actively seek out any terrorist agents and sympathisers lurking within our communities.\" The Domestic Counter-Terrorism Act established precedents for mass surveillance that continue to generate debate about security versus civil liberties."
+- terrorism
+arc_id: null
+modern_impact: '"This will allow the government to actively seek out any terrorist agents and sympathisers lurking within our communities." The Domestic Counter-Terrorism Act established precedents for mass surveillance that continue to generate debate about security versus civil liberties.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
@@ -26,8 +28,6 @@ related_uuids:
 - cade76e4-0a9d-5ef5-bce5-c552c1703f49
 - c0aab9ee-c770-5579-864d-bfe676a694a2
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
-legacy_weight: 2
-significance: low
 ---
 
 Vice President Jerome Archer has successfully proposed a new public surveillance law designed to prevent future terrorist attacks in The Federation.

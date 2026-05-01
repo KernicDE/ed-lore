@@ -2,9 +2,9 @@
 id: council-of-admirals
 name: Council of Admirals
 type: faction
-first_seen_date: '3302-07-15'
+first_seen_date: '3301-05-02'
 last_seen_date: '3308-09-23'
-mention_count: 13
+mention_count: 14
 related_entities:
 - alliance-defence-force
 - alliance-assembly
@@ -17,9 +17,9 @@ related_entities:
 
 # Council of Admirals
 
-First mentioned: **3302-07-15**  
+First mentioned: **3301-05-02**  
 Last mentioned: **3308-09-23**  
-Total mentions: **13**
+Total mentions: **14**
 
 ## Related
 

@@ -20,9 +20,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: CIMA Prepares for Final Sprint
-
-
 Maxim 'VicTic' Kammerer, chief engineer of The Carmack Intergalactic Mining Association, has released a statement concerning the ongoing CIMA prospectors' competition: 
 
 "We are very pleased that, With your help, we have been able to double the amount of known pristine metallic ring locations, most of Which are very close to the bubble. Now we need to prepare for the final sprint." 

@@ -28,9 +28,6 @@ related_uuids:
 - 974273ae-d811-56a4-91c7-d562bba2149a
 ---
 
-FSS Agent Suspended
-
-
 Lieutenant Inspector Ramesh Thorne, who has been leading an investigation into The Mars Tribune, has been suspended from the Federal Security Service. 
 
 A spokesperson for the FSS released The following statement: 

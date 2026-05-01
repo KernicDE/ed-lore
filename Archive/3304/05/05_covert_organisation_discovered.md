@@ -28,9 +28,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Covert Organisation Discovered
-
-
 The Imperial Internal Security Service has discovered that the murderer of Senator Nestor Cartesius was acting on behalf of a secret organisation. 
 
 Captain Niamh Seutonia, leading the IISS investigation into Cartesius’s death, made This statement: 

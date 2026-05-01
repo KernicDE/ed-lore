@@ -16,9 +16,6 @@ legacy_weight: 2
 significance: low
 ---
 
-The Sinner, The Saint and the Saviour
-
-
 Two days ago, Senator Denton Patreus officially declared War on the impoverished system of Quivira. Thousands of vessels loyal to Patreus have been pouring into Quivira ever since, bringing death and destruction to any non-Imperial ships that they find. 
 
 Fortunately, most of Quivira’s residents had already been successfully evacuated to Nearby systems. This is in no small part thanks to the efforts of Independent and Federal Commanders working to thwart Senator Patreus’s plans for Quivira. 

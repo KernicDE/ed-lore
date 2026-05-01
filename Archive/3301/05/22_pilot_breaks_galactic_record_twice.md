@@ -4,21 +4,18 @@ title: Pilot Breaks Galactic Record Twice
 slug: pilot_breaks_galactic_record_twice
 date: '3301-05-22'
 source: GitHub
-entities:
-- Alot
-- Alot by
-- Kligg
 locations:
 - Sagittarius A*
 topics:
 - sport
+entities:
+- Alot
+- Alot by
+- Kligg
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Pilot Breaks Galactic Record Twice
-
 
 The accomplishments of Independent pilots participating in The Buckyball Run A* rally race continue to make headlines around civilized space. This 26,000 light year rally race to the supermassive black hole at the centre of Our galaxy has so Far attracted over 40 fearless competitors. One of these competitors, Commander Alot, has made a name for himself by beating the galactic record for the quickest Run twice in less than a month.  
 

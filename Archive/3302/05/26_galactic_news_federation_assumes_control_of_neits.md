@@ -22,9 +22,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: Federation Assumes Control of Neits
-
-
 After a week of intense conflict, Neits Jet Life Ltd confirmed that Its forces have successfully neutralised The GR 316 Silver Universal Group in the Neits system.  
 
 The fighting began when ships belonging to the Federation-aligned Neits Jet Life Ltd came under fire from the GR 316 Silver Universal Group, an Imperial organisation. As the conflict escalated, both sides called in support from Independent combat pilots, but ultimately it was Neits Jet Life Ltd who emerged victorious. 

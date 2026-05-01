@@ -4,7 +4,8 @@ title: Archon Delaine Faces Pirate Rebellion
 slug: archon_delaine_faces_pirate_rebellion
 date: '3308-05-11'
 source: API
-arc_id: null
+summary: A coordinated coup attempt led by Arch-Corsair Vidar Trask threatens to overthrow Archon Delaine's control of the Kumo Crew.
+player_impact: Not specifically mentioned — this is a syndicate report.
 persons:
 - Archon Delaine
 - Vidar Trask
@@ -18,14 +19,13 @@ topics:
 - independence
 - piracy
 - war
-player_impact: Not specifically mentioned — this is a syndicate report.
-summary: A coordinated coup attempt led by Arch-Corsair Vidar Trask threatens to overthrow Archon Delaine's control of the Kumo Crew.
-modern_impact: "\"Trask has betrayed all of us, and for that I want him crushed!\" Delaine's violent reaction to Trask's coup attempt revealed the fragility of the Kumo Crew's centralised criminal hierarchy, where long-term loyalty could rapidly dissolve into open warfare when succession appeared uncertain."
+arc_id: null
+modern_impact: '"Trask has betrayed all of us, and for that I want him crushed!" Delaine''s violent reaction to Trask''s coup attempt revealed the fragility of the Kumo Crew''s centralised criminal hierarchy, where long-term loyalty could rapidly dissolve into open warfare when succession appeared uncertain.'
+legacy_weight: 2
+significance: low
 related_uuids:
 - e91e4d21-6ee5-52cb-939b-1ddb5a21bbb2
 - 3a22fa67-8900-5bbd-92cc-fe01fce10268
-legacy_weight: 2
-significance: low
 ---
 
 A power struggle is raging within The Kumo Crew following a coordinated effort to overthrow the syndicate’s leader, Archon Delaine.

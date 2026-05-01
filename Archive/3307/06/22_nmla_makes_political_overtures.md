@@ -4,7 +4,8 @@ title: NMLA Makes Political Overtures
 slug: nmla_makes_political_overtures
 date: '3307-06-22'
 source: API
-arc_id: nmla-terrorism
+summary: Minister Aaron Whyte proposes a peace deal between the NMLA and Empire, with the Marlinism Reformation Party offering to represent the terrorists politically. The proposal is met with outrage from Octavia Volkov and First Minister Jenna Fairfax, while Senator Patreus refuses to negotiate with terrorists.
+player_impact: None directly; this is a political development report.
 persons:
 - Aaron Whyte
 - Octavia Volkov
@@ -24,20 +25,19 @@ locations:
 - Imperial Senate
 - Achenar
 - Empire
-technologies: []
 topics:
 - diplomacy
 - terrorism
 - war
-player_impact: None directly; this is a political development report.
-summary: Minister Aaron Whyte proposes a peace deal between the NMLA and Empire, with the Marlinism Reformation Party offering to represent the terrorists politically. The proposal is met with outrage from Octavia Volkov and First Minister Jenna Fairfax, while Senator Patreus refuses to negotiate with terrorists.
+technologies: []
+arc_id: nmla-terrorism
 modern_impact: The NMLA's political overture through Whyte represents a strategic shift from pure terrorism to political legitimacy, creating a moral dilemma for the Empire and threatening to destabilise the Marlinist Colonies from within.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 1e7e97c1-ff96-521a-b5cb-9b12f172ab76
 - be9587c4-f81e-5ba8-a048-389bf556d755
 - ed32e72e-acaa-5dca-90ef-9c199420d92a
-legacy_weight: 5
-significance: high
 ---
 
 The Marlinism Reformation Party, Which now represents the Neo-Marlinist fringe, has suggested a peace deal between the NMLA and the Empire.

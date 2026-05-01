@@ -22,9 +22,6 @@ related_uuids:
 - 1d1717b5-b0bc-5c82-b40a-1405948417df
 ---
 
-Hostilities Erupt in Loha System
-
-
 A long-standing rivalry between two factions in The Loha system has erupted into full-scale conflict. 
 
 The commencement of hostilities was announced on the Vox Galactica news service by Karleen Troy, a freelance warzone reporter: 

@@ -17,14 +17,10 @@ locations:
 - Delta Pavonis
 - Pleiades
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Dr Lorax Speaks for The Barnacles
-
 
 Doctor Elana Lorax, a leading contributor in the field of xeno biology, has released a statement to the media: 
 

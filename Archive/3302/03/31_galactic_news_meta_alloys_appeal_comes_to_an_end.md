@@ -17,14 +17,10 @@ topics:
 - construction
 - ship
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Meta-Alloys Appeal Comes to an End
-
 
 The Pioneers Cooperative has announced that the recent appeal for meta-alloys has received the full support of the galactic community. Having taken delivery of thousands of tonnes of meta-alloys, the organisation will now begin producing ship modules that can safely transport the Unknown Artefacts. A spokesperson for the Pioneers Cooperative released a brief statement: 
 

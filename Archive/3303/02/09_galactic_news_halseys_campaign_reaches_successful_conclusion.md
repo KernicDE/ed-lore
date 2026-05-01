@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Halsey's Campaign Reaches Successful Conclusion
-
-
 Former Federal President Jasmina Halsey has announced that her campaign to establish a rehabilitation centre for victims of war has received The wholehearted support of the galactic community. Hundreds of pilots supported the campaign by delivering construction materials to Dirichlet Orbital, the campaign's centre. 
 
 As the campaign drew to a close, Jasmina Halsey released a statement: 

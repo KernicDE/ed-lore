@@ -4,6 +4,8 @@ title: Distant Worlds Mining Campaign
 slug: distant_worlds_mining_campaign
 date: '3305-03-07'
 source: GitHub
+summary: The Distant Worlds II expedition requests bauxite, water and liquid oxygen to build a megaship and scientific installation near Sagittarius A* in the Stuemeae FG-Y d7561 system.
+player_impact: Pilots could deliver construction materials to Explorer's Anchorage and earn bounty vouchers for protecting miners.
 persons:
 - Kaii
 groups:
@@ -17,8 +19,6 @@ topics:
 - construction
 - exploration
 - research
-summary: The Distant Worlds II expedition requests bauxite, water and liquid oxygen to build a megaship and scientific installation near Sagittarius A* in the Stuemeae FG-Y d7561 system.
-player_impact: Pilots could deliver construction materials to Explorer's Anchorage and earn bounty vouchers for protecting miners.
 modern_impact: The campaign established the infrastructure for humanity's first permanent scientific presence in the Galactic Centre, enabling long-term study of the supermassive black hole.
 legacy_weight: 4
 significance: high
@@ -26,9 +26,6 @@ related_uuids:
 - 2fe7d0b8-beb9-5bd0-9142-90ec74d15b9e
 - 432f9416-f1fb-55a0-89b9-82607b354d65
 ---
-
-Distant Worlds Mining Campaign
-
 
 The organisers of the Distant Worlds II expedition have requested materials for two construction projects in the Galactic Centre. 
 

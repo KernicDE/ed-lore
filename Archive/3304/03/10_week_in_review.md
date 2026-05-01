@@ -30,9 +30,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Several new Guardian sites have been discovered, resulting In a wealth of fresh information about The Guardians’ long-lost civilisation. Some of this information has already been put to practical use by the engineer Ram Tah, who has produced blueprints for new weaponry and power-plant systems based on Guardian designs. 

@@ -4,7 +4,13 @@ title: Superpowers Talk on the Financial Impact of War
 slug: superpowers_talk_on_the_financial_impact_of_war
 date: '3310-07-09'
 source: API
-entities: []
+summary: Vox Galactica publishes an in-depth report on the economic impact of the Thargoid war, featuring contrasting perspectives from Jerome Archer, Zemina Torval, and Edmund Mahon.
+player_impact: Not specifically mentioned.
+persons:
+- Jerome Archer
+- Zemina Torval
+- Edmund Mahon
+- Vanya Driscoll
 groups:
 - Alliance
 locations: []
@@ -14,15 +20,9 @@ topics:
 - war
 - politics
 - economics
+entities: []
 arc_id: null
-modern_impact: "The three superpower responses reveal their governing philosophies: Archer's law-and-order focus, Torval's brutal biological metaphor ('If the extremities feel cold, it is the small and temporary price to pay'), and Mahon's democratic solidarity ('Humanity is stronger together'). These quotes encapsulate the ideological divide that persists even amid existential threat."
-persons:
-- Jerome Archer
-- Zemina Torval
-- Edmund Mahon
-- Vanya Driscoll
-player_impact: "Not specifically mentioned."
-summary: "Vox Galactica publishes an in-depth report on the economic impact of the Thargoid war, featuring contrasting perspectives from Jerome Archer, Zemina Torval, and Edmund Mahon."
+modern_impact: 'The three superpower responses reveal their governing philosophies: Archer''s law-and-order focus, Torval''s brutal biological metaphor (''If the extremities feel cold, it is the small and temporary price to pay''), and Mahon''s democratic solidarity (''Humanity is stronger together''). These quotes encapsulate the ideological divide that persists even amid existential threat.'
 legacy_weight: 5
 significance: high
 ---

@@ -4,7 +4,8 @@ title: The Xenocide Debate
 slug: the_xenocide_debate
 date: '3308-07-18'
 source: API
-arc_id: salvation-azimuth
+summary: Heimar Borichev's editorial sparks widespread debate over whether humanity has the right to commit xenocide against the Thargoids.
+player_impact: No direct pilot action requested; article discusses the ethical implications of Salvation's planned Thargoid genocide.
 persons:
 - Heimar Borichev
 groups:
@@ -14,15 +15,14 @@ topics:
 - alien contact
 - corporate expansion
 - war
-player_impact: No direct pilot action requested; article discusses the ethical implications of Salvation's planned Thargoid genocide.
-summary: Heimar Borichev's editorial sparks widespread debate over whether humanity has the right to commit xenocide against the Thargoids.
-modern_impact: "Borichev's question 'do we have the right to take such action?' remains one of the most profound ethical challenges in Elite Dangerous lore, forcing players to confront the moral weight of their anti-xeno activities."
+arc_id: salvation-azimuth
+modern_impact: Borichev's question 'do we have the right to take such action?' remains one of the most profound ethical challenges in Elite Dangerous lore, forcing players to confront the moral weight of their anti-xeno activities.
+legacy_weight: 5
+significance: high
 related_uuids:
 - a351c94a-19a1-5e95-9429-f0bb7cbaf1d8
 - 77d08b93-d779-599d-9f2a-b4e7733d91a8
 - c896dd55-b9b3-5552-9038-07a79049f0bb
-legacy_weight: 5
-significance: high
 ---
 
 As construction proceeds on Salvation’s Proteus Wave, there is widespread dispute on the issue of eliminating the Thargoids.

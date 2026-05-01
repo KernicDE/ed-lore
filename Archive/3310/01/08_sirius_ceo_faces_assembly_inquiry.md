@@ -4,7 +4,12 @@ title: Sirius CEO Faces Assembly Inquiry
 slug: sirius_ceo_faces_assembly_inquiry
 date: '3310-01-08'
 source: API
-entities: []
+summary: Li Yong-Rui faces the Alliance Assembly over the strategic defence pact, defending Sirius's record while Kaine accuses him of failing to honour responsibilities and Yong-Rui dismisses her Tionisla campaign failure.
+player_impact: Not specifically mentioned — this is a political inquiry.
+persons:
+- Li Yong-Rui
+- Nakato Kaine
+- Nikolas Glass
 groups:
 - Alliance
 - Sirius Corporation
@@ -15,14 +20,9 @@ topics:
 - corporate expansion
 - investigation
 - politics
+entities: []
 arc_id: null
-modern_impact: "Yong-Rui's defence — 'our progress is being deliberately impeded by forces within government departments' — shifts blame to bureaucratic resistance. His reference to Kaine's 'failed endeavour in the Tionisla system' is a political counterattack. His closing — 'Like it or not, we are here to stay' — is an assertion of Sirius's entrenched position in Alliance affairs. The inquiry's scope expanding to include Admiral Glass and the Council of Admirals suggests this is a serious challenge to the pact."
-persons:
-- Li Yong-Rui
-- Nakato Kaine
-- Nikolas Glass
-player_impact: "Not specifically mentioned — this is a political inquiry."
-summary: "Li Yong-Rui faces the Alliance Assembly over the strategic defence pact, defending Sirius's record while Kaine accuses him of failing to honour responsibilities and Yong-Rui dismisses her Tionisla campaign failure."
+modern_impact: Yong-Rui's defence — 'our progress is being deliberately impeded by forces within government departments' — shifts blame to bureaucratic resistance. His reference to Kaine's 'failed endeavour in the Tionisla system' is a political counterattack. His closing — 'Like it or not, we are here to stay' — is an assertion of Sirius's entrenched position in Alliance affairs. The inquiry's scope expanding to include Admiral Glass and the Council of Admirals suggests this is a serious challenge to the pact.
 legacy_weight: 4
 significance: high
 ---

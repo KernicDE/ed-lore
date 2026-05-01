@@ -4,21 +4,19 @@ title: Aegis Renegades Face Criminal Charges
 slug: aegis_renegades_face_criminal_charges
 date: '3307-11-29'
 source: API
-groups:
-- Aegis
+summary: Admiral Aden Tanner and the Musashi crew face criminal charges for attacking Taurus Mining Ventures, with Tanner accused of mutiny and unlawful military action.
+player_impact: None
 persons:
 - Aden Tanner
 - Paul Baumann
 - Salvation
+groups:
+- Aegis
 topics:
 - alien contact
 - investigation
 arc_id: thargoid-contact
-summary: Admiral Aden Tanner and the Musashi crew face criminal charges for attacking
-  Taurus Mining Ventures, with Tanner accused of mutiny and unlawful military action.
-player_impact: None
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
 ---

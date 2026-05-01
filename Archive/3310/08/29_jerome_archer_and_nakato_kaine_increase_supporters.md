@@ -4,7 +4,15 @@ title: Jerome Archer and Nakato Kaine Increase Supporters
 slug: jerome_archer_and_nakato_kaine_increase_supporters
 date: '3310-08-29'
 source: API
-entities: []
+summary: As Zachary Hudson prepares to leave office, Federal groups shift allegiance to Jerome Archer as shadow president, while Nakato Kaine gains Alliance support opposing Edmund Mahon's Sirius partnership.
+player_impact: Federal and Alliance pilots will perform tasks and exploit local resources to expand Archer and Kaine's influence respectively.
+persons:
+- Jerome Archer
+- Nakato Kaine
+- Zachary Hudson
+- Edmund Mahon
+- Sofia Trevino
+- Vanya Driscoll
 groups:
 - Alliance
 - Shadow President
@@ -14,19 +22,9 @@ locations:
 - White House
 topics:
 - politics
+entities: []
 arc_id: null
-modern_impact: "Trevino's analysis that Archer 'will effectively inherit Hudson's political power base, which spreads across the Federation and through many independent systems' establishes Archer as a major power. Driscoll's description of Kaine as 'a proponent of electoral reform that would allow the public to directly choose their leaders' positions her as a democratic reformer challenging the Alliance's elitist Assembly. The parallel rise of both figures — one authoritarian, one reformist — across two superpowers is a significant political development."
-persons:
-- Jerome Archer
-- Nakato Kaine
-- Zachary Hudson
-- Edmund Mahon
-- Sofia Trevino
-- Vanya Driscoll
-player_impact: "Federal and Alliance pilots will perform tasks and exploit local resources to expand Archer and Kaine's influence respectively."
-summary: "As Zachary Hudson prepares to leave office, Federal groups shift allegiance to Jerome Archer as shadow president, while Nakato Kaine gains Alliance support opposing Edmund Mahon's Sirius partnership."
-player_impact: "Federal and Alliance pilots will perform tasks and exploit local resources to expand Archer and Kaine's influence respectively."
-summary: "As Zachary Hudson prepares to leave office, Federal groups shift allegiance to Jerome Archer as shadow president, while Nakato Kaine gains Alliance support opposing Edmund Mahon's Sirius partnership."
+modern_impact: Trevino's analysis that Archer 'will effectively inherit Hudson's political power base, which spreads across the Federation and through many independent systems' establishes Archer as a major power. Driscoll's description of Kaine as 'a proponent of electoral reform that would allow the public to directly choose their leaders' positions her as a democratic reformer challenging the Alliance's elitist Assembly. The parallel rise of both figures — one authoritarian, one reformist — across two superpowers is a significant political development.
 legacy_weight: 3
 significance: medium
 ---

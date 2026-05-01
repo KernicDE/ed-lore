@@ -24,9 +24,6 @@ legacy_weight: 1
 significance: low
 ---
 
-New Mining Tools Released
-
-
 A range of new asteroid-mining equipment is expected to trigger an increase in The availability of ores and minerals. 
 
 A spokesperson for the Industrial Mining Guild discussed the new tools at an industry symposium: 

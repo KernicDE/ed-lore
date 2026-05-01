@@ -23,9 +23,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: New Imperial Ship Complete
-
-
 Admiral Denton Patreus has announced that The Imperial campaign to construct a new Majestic-Class Interdictor is now complete. A spokesperson for the Mundjiga Patrons of Law, Which helped to coordinate the construction effort, confirmed that the galactic community had responded enthusiastically to the initiative, resulting in the delivery of thousands of tonnes of essential materials. 
 
 Lieutenant Severin, who oversaw the project, issued a brief statement to the media: 

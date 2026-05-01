@@ -24,9 +24,6 @@ related_uuids:
 - c6a3e407-dfac-507b-a8f1-c62c2232e527
 ---
 
-Rogue Robot Missing
-
-
 A malfunctioning mining robot has Run amok through a settlement on Homeland in The Beta Hydri system. 
 
 The robot in question was a MacArthur Mining Ltd DG090 model, designed to extract and process minerals from asteroids. It was One of ten brand-new robots being loaded onto an orbital cargo shuttle. 

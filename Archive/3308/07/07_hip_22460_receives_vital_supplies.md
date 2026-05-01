@@ -4,7 +4,8 @@ title: HIP 22460 Receives Vital Supplies
 slug: hip_22460_receives_vital_supplies
 date: '3308-07-07'
 source: API
-arc_id: salvation-azimuth
+summary: Commodore Halloran confirms delivery of vital supplies to HIP 22460 and urges continued support for the Proteus Wave construction.
+player_impact: Pilots delivered medical and military commodities to HIP 22460 and were encouraged to continue supplying Guardian artefacts.
 persons:
 - Morag Halloran
 groups:
@@ -18,18 +19,17 @@ topics:
 - alien contact
 - war
 - xenoarchaeology
-player_impact: Pilots delivered medical and military commodities to HIP 22460 and were encouraged to continue supplying Guardian artefacts.
-summary: Commodore Halloran confirms delivery of vital supplies to HIP 22460 and urges continued support for the Proteus Wave construction.
-modern_impact: "The installation of experimental anti-xeno weaponry on superpower flagships demonstrated how Azimuth's project drew all three galactic powers into unprecedented military cooperation, even as it masked the catastrophic risks ahead."
+arc_id: salvation-azimuth
+modern_impact: The installation of experimental anti-xeno weaponry on superpower flagships demonstrated how Azimuth's project drew all three galactic powers into unprecedented military cooperation, even as it masked the catastrophic risks ahead.
+legacy_weight: 5
+significance: high
 related_uuids:
 - e8461472-4c75-5456-9164-cf415d0cad55
 - 751f72f0-bd12-5009-92e8-97b94eb2066f
 - f63f12d4-93f4-5bdc-8c63-26f107fba702
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Medical and military commodities have been delivered to the HIP 22460 system in support of the anti-xeno operation.
 Commodore Morag Halloran expressed gratitude that so many Commanders took part in the initiative. She indicated that payment was now available from the megaship Heart of Taurus. This includes tailored ship liveries for those Commanders who made the greatest contributions.
 Azimuth Biotech has requested that pilots continue supporting the operation by obtaining Guardian artefacts, which will form part of the Proteus Wave’s construction process. These can be delivered to the Bright Sentinel megaship.

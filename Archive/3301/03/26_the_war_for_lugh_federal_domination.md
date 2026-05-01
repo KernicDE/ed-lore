@@ -4,8 +4,6 @@ title: The War for Lugh  Federal Domination
 slug: the_war_for_lugh_federal_domination
 date: '3301-03-26'
 source: GitHub
-entities:
-- Jasmina Halsey ordered
 groups:
 - Alliance
 - Federal Navy
@@ -17,15 +15,13 @@ topics:
 - sport
 - succession
 - war
+entities:
+- Jasmina Halsey ordered
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-The War for Lugh: Federal Domination
-
 
 The past fortnight has seen a devastating war rage through the once peaceful nation of Lugh. 
 

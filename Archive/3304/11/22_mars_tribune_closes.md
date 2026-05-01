@@ -33,9 +33,6 @@ related_uuids:
 - 974273ae-d811-56a4-91c7-d562bba2149a
 ---
 
-Mars Tribune Closes
-
-
 The Mars Tribune has been closed and Its owner arrested in the wake of the spy robot scandal. 
 
 The announcement was made by Detective Captain Ramesh Thorne, who was recently reinstated to, and promoted by, the Federal Security Service: 

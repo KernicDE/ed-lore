@@ -4,7 +4,12 @@ title: Convoy Tragedy Halts Superpower Conflict
 slug: convoy_tragedy_halts_superpower_conflict
 date: '3309-04-27'
 source: API
-entities: []
+summary: An accidental destruction of an anti-xeno supply convoy by Imperial forces in Pichch forces both superpowers to order an immediate ceasefire.
+player_impact: Both factions agreed to honor commitments to supporters, with rewards at Tiptree Port.
+persons:
+- Arissa Lavigny-Duval
+- Zachary Hudson
+- Karleen Troy
 groups: []
 locations:
 - Maelstrom
@@ -12,14 +17,9 @@ locations:
 topics:
 - humanitarian
 - war
+entities: []
 arc_id: null
-modern_impact: "Troy's reporting — 'an entire convoy carrying anti-xeno weaponry was destroyed by Imperial-aligned ships, which mistakenly identified them as local Federal resupply vessels' — is the catalytic event. Arissa's command — 'Undermining human resistance against the Thargoid invasion cannot be tolerated' — shows Imperial priority. Hudson's parallel statement frames the conflict as irresponsible given the Thargoid threat. Both leaders' intervention from the top shows the conflict's seriousness."
-persons:
-- Arissa Lavigny-Duval
-- Zachary Hudson
-- Karleen Troy
-player_impact: "Both factions agreed to honor commitments to supporters, with rewards at Tiptree Port."
-summary: "An accidental destruction of an anti-xeno supply convoy by Imperial forces in Pichch forces both superpowers to order an immediate ceasefire."
+modern_impact: Troy's reporting — 'an entire convoy carrying anti-xeno weaponry was destroyed by Imperial-aligned ships, which mistakenly identified them as local Federal resupply vessels' — is the catalytic event. Arissa's command — 'Undermining human resistance against the Thargoid invasion cannot be tolerated' — shows Imperial priority. Hudson's parallel statement frames the conflict as irresponsible given the Thargoid threat. Both leaders' intervention from the top shows the conflict's seriousness.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -27,7 +27,7 @@ related_uuids:
 - 8c47b45e-0c93-55aa-96ca-ca5fb68c3582
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Empire and the Federation have resolved the conflict in Pichch after the accidental loss of anti-xeno supply ships.
 Freelance correspondent Karleen Troy reported on events for Vox Galactica:
 “Pichch is a key location to redirect front-line resources to systems facing invasion around Maelstrom Leigong. In recent days, these vital deliveries have been severely delayed by the internecine conflict. But disaster struck when an entire convoy carrying anti-xeno weaponry was destroyed by Imperial-aligned ships, which mistakenly identified them as local Federal resupply vessels.”

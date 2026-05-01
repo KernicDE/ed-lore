@@ -17,19 +17,16 @@ locations:
 - Hart Station
 - Heike
 - Brunel City
-technologies: []
 topics:
 - medicine
 - ship
 - sport
+technologies: []
 arc_id: cerberus-plague
 modern_impact: The Cerberus Plague cure and this commemorative race illustrate the pivotal role of independent pilots in galactic health crises.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Buckyball Racing Club Salutes Heroes of Bast
-
 
 On The 30th of June 3301, Newton Dock in the BD-02 4304 system was quarantined due to the outbreak of a mysterious plague. This pathogen – named the Cerberus Plague – eventually spread to over 20 systems and claimed 100,000 lives. 
 

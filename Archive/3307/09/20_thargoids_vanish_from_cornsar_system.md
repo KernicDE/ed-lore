@@ -4,26 +4,23 @@ title: Thargoids Vanish from Cornsar System
 slug: thargoids_vanish_from_cornsar_system
 date: '3307-09-20'
 source: API
-groups:
-- Aegis
+summary: Thargoid vessels attacking Cornsar unexpectedly withdraw after four days of combat, leaving behind damaged starports and crashed alien vessels.
+player_impact: Independent pilots defended Cornsar from Thargoid assault and evacuated survivors from damaged stations.
 persons:
 - Noah Sharrow
+groups:
+- Aegis
 topics:
 - alien contact
 - humanitarian
 - war
 arc_id: thargoid-contact
-summary: Thargoid vessels attacking Cornsar unexpectedly withdraw after four days of
-  combat, leaving behind damaged starports and crashed alien vessels.
-player_impact: Independent pilots defended Cornsar from Thargoid assault and evacuated
-  survivors from damaged stations.
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The Thargoid vessels attacking the Cornsar system have unexpectedly departed from the region.
 For the last four days, Independent pilots and local security forces have been in combat against the alien ships. Although some were destroyed in battle, the remainder have abruptly withdrawn back into hyperspace.
 The starports Chadwick Port and Ito Market sustained heavy damage during the assault, leaving thousands dead and wounded. Evacuation efforts are still underway to rescue the survivors from both stations.

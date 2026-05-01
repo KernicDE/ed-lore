@@ -4,6 +4,8 @@ title: 'Delivery Campaign Helps Fund Imperial Charity '
 slug: delivery_campaign_helps_fund_imperial_charity
 date: '3308-09-29'
 source: API
+summary: The Citizens' Relief Trust campaign in Cemiess successfully procures rare luxury items for Princess Aisling's charity gala, with contributing pilots now able to collect payment and rewards.
+player_impact: Pilots who delivered rare items to Mackenzie Relay can now collect payment, with luxury vessel paint jobs made available to qualifying pilots.
 persons:
 - Aisling Duval
 - Denton Patreus
@@ -20,20 +22,14 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-contact
-summary: The Citizens' Relief Trust campaign in Cemiess successfully procures rare
-  luxury items for Princess Aisling's charity gala, with contributing pilots now able
-  to collect payment and rewards.
-player_impact: Pilots who delivered rare items to Mackenzie Relay can now collect payment,
-  with luxury vessel paint jobs made available to qualifying pilots.
-modern_impact: The successful charity campaign demonstrates Imperial nobility's willingness
-  to mobilise private resources for wartime humanitarian relief.
+modern_impact: The successful charity campaign demonstrates Imperial nobility's willingness to mobilise private resources for wartime humanitarian relief.
 legacy_weight: 4
 significance: high
 related_uuids:
 - 964ef3eb-9cc2-5f09-8038-9afcaeca1c08
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 An initiative in the Cemiess system has procured sufficient rare items to ensure a successful Citizens’ Relief Trust gala.
 The new charitable organisation will establish support centres for the relatives of Imperial citizens who have died as a result of Thargoid aggression. The trust’s patron, Princess Aisling Duval, made a declaration via public media:
 “The quantity of Eshu Umbrellas, Xihe Biomorphic Companions and Chateau De Aegaeon that we received have gladdened my heart. I am already preparing invitations for a splendid charity gala at my palace on Emerald, where these luxuries will be auctioned to raise capital for the Citizens’ Relief Trust.”

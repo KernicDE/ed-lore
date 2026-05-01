@@ -29,9 +29,6 @@ related_uuids:
 - c5cb5bec-f7cd-563c-9c57-d8f5ede49843
 ---
 
-Achilles Corp Initiative
-
-
 The Achilles Corporation has announced plans to replace all robots destroyed as a result of the recent spy robot scandal. 
 
 Chairman Gus Weaver of the Sol division of Achilles Corp said: 

@@ -16,21 +16,18 @@ groups:
 - Alliance Defence Force
 locations:
 - Alioth
-technologies: []
 topics:
 - corporate expansion
 - independence
 - ship
 - trade
 - war
+technologies: []
 arc_id: alliance-expansion
 modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: The Origin of the Alliance
-
 
 In a return to Our popular series on significant episodes from human history, noted historian Sima Kalhana discusses the foundation of the Alliance. 
 

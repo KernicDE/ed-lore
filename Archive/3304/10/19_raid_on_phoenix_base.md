@@ -30,9 +30,6 @@ related_uuids:
 - 5ce245a3-6cab-529d-81eb-e7015b0bbe28
 ---
 
-Raid on Phoenix Base
-
-
 An attempt by armed intruders to access Phoenix Base in The Meene system has been foiled. The base is the home of engineer Ram Tah. 
 
 Security Chief Harper Vargas gave This report: 

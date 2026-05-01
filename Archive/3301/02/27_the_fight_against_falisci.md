@@ -4,9 +4,6 @@ title: The Fight Against Falisci
 slug: the_fight_against_falisci
 date: '3301-02-27'
 source: GitHub
-entities:
-- Denton Patreus
-- Shole
 locations:
 - Denton
 - Falisci
@@ -16,15 +13,14 @@ topics:
 - ship
 - trade
 - war
+entities:
+- Denton Patreus
+- Shole
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist
-  policies.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
 legacy_weight: 3
 significance: medium
 ---
-
-The Fight Against Falisci
-
 
 There’s war brewing in The Empire, as despite a stern warning issued in their direction by Senator Denton Patreus, the pirates of Falisci continue to plunder innocent traders as they pass through on the way to ply their wares in Dongzi and Ngaiawang. 
 

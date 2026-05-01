@@ -4,7 +4,8 @@ title: Derelict Generation Ship Undergoes Repairs
 slug: derelict_generation_ship_undergoes_repairs
 date: '3308-05-26'
 source: API
-arc_id: null
+summary: The Artificers Clan begins retrofitting the Golconda with modern systems, sparking debate among the former population about returning to their nomadic lifestyle.
+player_impact: Not specifically mentioned — this is a cultural report.
 persons:
 - Jonathon Forester
 groups: []
@@ -13,15 +14,14 @@ locations:
 - Golconda
 topics:
 - engineering
-player_impact: Not specifically mentioned — this is a cultural report.
-summary: The Artificers Clan begins retrofitting the Golconda with modern systems, sparking debate among the former population about returning to their nomadic lifestyle.
-modern_impact: "\"I thought the Golconda was our history, but perhaps it still holds our future.\" Captain Forester's poignant uncertainty captured the generational dilemma facing the Golcondans: whether to embrace the security of planetary settlement or honour their ancestors' starfaring legacy aboard a newly revitalised vessel."
+arc_id: null
+modern_impact: '"I thought the Golconda was our history, but perhaps it still holds our future." Captain Forester''s poignant uncertainty captured the generational dilemma facing the Golcondans: whether to embrace the security of planetary settlement or honour their ancestors'' starfaring legacy aboard a newly revitalised vessel.'
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 92d33fe4-b325-5ffb-a1ec-8b8644a34b88
 - ff5722b5-1a96-552d-8cd6-8038d85d2c4b
 - 616953a4-6004-52f2-b82e-5a22a5aee43b
-legacy_weight: 3
-significance: medium
 ---
 
 The Artificers Clan has begun to retrofit the generation ship Golconda into a fully operational modern Vessel.

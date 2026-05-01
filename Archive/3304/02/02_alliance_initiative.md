@@ -25,9 +25,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Alliance Initiative
-
-
 The Alliance has announced plans to build an Orbis starport in the Synuefai EB-R c7-5 system, between the core systems and the Alliance’s outposts in the California Nebula. 
 
 Alliance official Torvan Dast issued The following statement: 

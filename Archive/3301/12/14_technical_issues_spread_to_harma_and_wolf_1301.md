@@ -13,16 +13,13 @@ locations:
 - Gabriel Enterprise
 - Wolf 1301
 - Saunders's Dive
-technologies: []
 topics:
 - construction
+technologies: []
 modern_impact: Further evidence linking Unknown Artefacts to station malfunctions, deepening the mystery of their destructive effects.
 legacy_weight: 2
 significance: low
 ---
-
-Technical Issues spread to Harma and Wolf 1301
-
 
 Authorities at Gabriel Enterprise in The Harma system have reported that the station is the latest to be affected by mystifying technical problems, following a raft of malfunctions and breakdowns throughout the starport. Meanwhile, personnel at Saunders's Dive in Wolf 1301 have released a similar statement, reporting extensive technical problems over the past 24 hours. A member of the technical team at Saunders's Dive said: 
 

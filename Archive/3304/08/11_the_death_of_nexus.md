@@ -29,9 +29,6 @@ related_uuids:
 - 779431c9-8684-5495-ac25-27b84aec0509
 ---
 
-The Death of Nexus?
-
-
 A medical ship transporting the injured Riri McAllister has vanished and is presumed destroyed. Former rear admiral McAllister was on trial on Turner’s World for her crimes as Nexus, the founder of terrorist group the League of Reparation. After being shot by the daughter of the Assassinated Senator Nestor Cartesius, McAllister was to be taken to an advanced medical facility. 
 
 Deputy Inspector Mara Klatt made This statement: 

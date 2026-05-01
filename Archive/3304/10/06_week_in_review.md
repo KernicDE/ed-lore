@@ -48,9 +48,6 @@ related_uuids:
 - cb43ac64-4aa0-5364-afed-ce8b91a31052
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Fazia Silva, One of The three candidates in the Alliance presidential race, has been Found dead. There has been speculation that the murder was a political killing, motivated by Silva’s proposed changes to Alliance financial policy. Condolences have been delivered by Prime Minister Edmund Mahon and both of Ms Silva’s election rivals, Gibson Kincaid and Elijah Beck. 

@@ -4,6 +4,8 @@ title: Controlling the Credit Crops
 slug: controlling_the_credit_crops
 date: '3301-06-11'
 source: GitHub
+summary: Six months after Onionhead was made illegal in Federal space, the Federation launched a violent campaign against Kappa Fornacis farmers led by Georgio Algeria. Federal marines invaded fields and battle cruisers rained fire. The farmers created a new strain of Onionhead and expanded operations, working with the East India Company, an Imperial trade organisation in which Senator Zemina Torval is a major shareholder. President Hudson responded by sending Republican supporters to permanently establish themselves in Autahenetsi as a deterrent. Neither the East India Company nor Senator Torval appeared intimidated by Federal efforts.
+player_impact: Pilots can support Onionhead farmers in Kappa Fornacis or participate in Federal suppression operations in Autahenetsi.
 persons:
 - Georgio Algeria
 - Zemina Torval
@@ -20,18 +22,11 @@ topics:
 - trade
 - war
 arc_id: onionhead-conflict
-summary: Six months after Onionhead was made illegal in Federal space, the Federation launched a violent campaign against Kappa Fornacis farmers led by Georgio Algeria. Federal marines invaded fields and battle cruisers rained fire. The farmers created a new strain of Onionhead and expanded operations, working with the East India Company, an Imperial trade organisation in which Senator Zemina Torval is a major shareholder. President Hudson responded by sending Republican supporters to permanently establish themselves in Autahenetsi as a deterrent. Neither the East India Company nor Senator Torval appeared intimidated by Federal efforts.
-player_impact: Pilots can support Onionhead farmers in Kappa Fornacis or participate in Federal suppression operations in Autahenetsi.
 modern_impact: Onionhead conflict escalates into an Imperial-Federal proxy dispute, with Torval's East India Company openly defying Federal prohibition.
 legacy_weight: 4
 significance: high
 ---
 
-Controlling The Credit Crops
-
-
-Controlling The Credit Crops  
- 
 A little over six months ago, the newly discovered naturally occurring plant known as Onionhead was made illegal throughout all of Federal space. Not long after, in an attempt to stop the spread of Onionhead, the Federation launched a violent campaign against the innocent farmers of Kappa Fornacis, led by the vocal Georgio Algeria. Federal marines invaded the farmers’ fields, and Federal battle cruisers rained fire from the skies. 
 
 The now wealthy farmers managed to create a new strain of Onionhead, and so the spread started, working alone and With others, including the East India Company – an Imperial trade organisation in Which Senator Zemina Torval is a major shareholder. 

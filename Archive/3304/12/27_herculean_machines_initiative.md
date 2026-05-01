@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Herculean Machines Initiative
-
-
 The Federal Navy has requested a large shipment of Duradrive personal computers from manufacturer Herculean Machines. 
 
 Maddox Hurd, the company’s CEO, made This announcement: 

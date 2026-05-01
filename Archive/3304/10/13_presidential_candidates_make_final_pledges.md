@@ -27,9 +27,6 @@ related_uuids:
 - a950b069-65d4-569a-b55c-6ce84123e10e
 ---
 
-Presidential Candidates Make Final Pledges
-
-
 The two remaining candidates in the Alliance presidential race have returned to The Alioth system to make their final campaign vows. 
 
 In the parliamentary chamber of the Assembly, Elijah Beck addressed his fellow council members: 

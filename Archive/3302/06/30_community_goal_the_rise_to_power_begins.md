@@ -19,19 +19,16 @@ groups:
 locations:
 - Jaradharre
 - Gohar Station
-technologies:
-- Gilya signature weapons
 topics:
 - diplomacy
 - sport
 - war
+technologies:
+- Gilya signature weapons
 modern_impact: Competitive event for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-Community Goal: The Rise to Power Begins
-
 
 For much of the past month, the galactic community has been captivated by the Dangerous Games, a semi-official competition organised by some of the galaxy's largest factions to determine Which wields the greatest degree of power and influence.  
 

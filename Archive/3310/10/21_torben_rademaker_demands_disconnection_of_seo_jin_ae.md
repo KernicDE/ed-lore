@@ -4,7 +4,13 @@ title: Torben Rademaker Demands ‘Disconnection’ of Seo Jin-ae
 slug: torben_rademaker_demands_disconnection_of_seo_jin_ae
 date: '3310-10-21'
 source: API
-entities: []
+summary: Azimuth Biotech CEO Torben Rademaker demands Aegis 'disconnect' Seo Jin-ae from the Thargoid hive mind by any means necessary, claiming her link is a danger humanity cannot permit.
+player_impact: Not specifically mentioned — this is a corporate statement article.
+persons:
+- Torben Rademaker
+- Seo Jin-ae
+- Alba Tesreau
+- Conrad Sterling
 groups:
 - Aegis
 - Azimuth Biochemicals
@@ -13,17 +19,11 @@ topics:
 - alien contact
 - medicine
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Rademaker's statement — 'The original whistleblower of this tragic event did everybody a huge favour' — reveals his opportunism. His call to disconnect Seo 'by any means necessary' is a transparent attempt to leverage the crisis for Azimuth's benefit. The Aegis spokesperson's dismissal of his comments as 'characteristically insensitive' shows the depth of institutional hostility between Aegis and Azimuth."
-persons:
-- Torben Rademaker
-- Seo Jin-ae
-- Alba Tesreau
-- Conrad Sterling
+entities: []
 technologies:
 - Cortical implant
-player_impact: "Not specifically mentioned — this is a corporate statement article."
-summary: "Azimuth Biotech CEO Torben Rademaker demands Aegis 'disconnect' Seo Jin-ae from the Thargoid hive mind by any means necessary, claiming her link is a danger humanity cannot permit."
+arc_id: thargoid-titan-war
+modern_impact: Rademaker's statement — 'The original whistleblower of this tragic event did everybody a huge favour' — reveals his opportunism. His call to disconnect Seo 'by any means necessary' is a transparent attempt to leverage the crisis for Azimuth's benefit. The Aegis spokesperson's dismissal of his comments as 'characteristically insensitive' shows the depth of institutional hostility between Aegis and Azimuth.
 legacy_weight: 5
 significance: high
 related_uuids:

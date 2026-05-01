@@ -4,6 +4,8 @@ title: The Winking Cat's Treasure Hunt
 slug: the_winking_cats_treasure_hunt
 date: '3307-12-23'
 source: API
+summary: The Winking Cat thief has inserted riddles into GalNet leading pilots to concealed treasure caches, with three already found and three more activating today.
+player_impact: Pilots have been solving riddles to locate concealed treasure caches in different systems.
 persons:
 - Erik Gunnarson
 groups:
@@ -14,12 +16,7 @@ locations:
 topics:
 - crime
 - investigation
-summary: The Winking Cat thief has inserted riddles into GalNet leading pilots to
-  concealed treasure caches, with three already found and three more activating today.
-player_impact: Pilots have been solving riddles to locate concealed treasure caches
-  in different systems.
-modern_impact: The Winking Cat's treasure hunt blurs the line between criminal activity
-  and public entertainment, turning the thief into a galaxy-wide phenomenon.
+modern_impact: The Winking Cat's treasure hunt blurs the line between criminal activity and public entertainment, turning the thief into a galaxy-wide phenomenon.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -27,7 +24,7 @@ related_uuids:
 - 13ed3482-5466-59b9-9863-a673b30f254d
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Erik Gunnarson of The Wallglass Investigations Agency provides an overview of the Winking Cat’s latest escapade.
 “The meaning of the message scrawled on the back of the Jokers’ Deck ceremonial playing card has become clear. This time, the galaxy’s most infamous larcenist is actually giving away treasure rather than stealing it.”
 “Three mysterious riddles were somehow inserted into the GalNet feed over the last week. Commanders have reported that clues within these riddles led them to three concealed caches, Each In a different system.”

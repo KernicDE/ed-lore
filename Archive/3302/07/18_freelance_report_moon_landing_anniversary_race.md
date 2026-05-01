@@ -16,17 +16,14 @@ locations:
 - Chaac
 - Moon Prospect
 - Turot
-technologies: []
 topics:
 - festival
 - sport
+technologies: []
 modern_impact: Community celebration bringing pilots together.
 legacy_weight: 1
 significance: low
 ---
-
-Freelance Report: Moon-Landing Anniversary Race
-
 
 The historical re-enactment society Ex Luna Scientia has partnered With the Buckyball Racing Club to organise a commemorative race celebrating the 1,333rd anniversary of the first landing on Earth's Moon. 
 

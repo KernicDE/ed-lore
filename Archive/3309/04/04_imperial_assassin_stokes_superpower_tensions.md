@@ -4,7 +4,14 @@ title: ‘Imperial Assassin’ Stokes Superpower Tensions
 slug: imperial_assassin_stokes_superpower_tensions
 date: '3309-04-04'
 source: API
-entities: []
+summary: Caine-Massey accuses Senator Zemina Torval of ordering the assassination of CEO Johann Fleischer, claiming an Imperial Intelligence hitman was responsible.
+player_impact: Not specifically mentioned — this is a breaking news report.
+persons:
+- Zemina Torval
+- Philippa Barlow-Lyons
+- Johann Fleischer
+- Zachary Hudson
+- Titus Torval
 groups:
 - Imperial Senate
 locations:
@@ -15,16 +22,9 @@ topics:
 - espionage
 - investigation
 - scandal
+entities: []
 arc_id: null
-modern_impact: "Barlow-Lyons's detailed accusation — 'the trail leads directly to the culprit' — includes specific evidence about false IDs and Torval Mining Ltd connections. The Imperial Senate's categorical rejection and focus on 'anti-xeno operations' is deflection. Hudson's promise of 'further resources' and his framing as 'enemy within' escalates tensions."
-persons:
-- Zemina Torval
-- Philippa Barlow-Lyons
-- Johann Fleischer
-- Zachary Hudson
-- Titus Torval
-player_impact: "Not specifically mentioned — this is a breaking news report."
-summary: "Caine-Massey accuses Senator Zemina Torval of ordering the assassination of CEO Johann Fleischer, claiming an Imperial Intelligence hitman was responsible."
+modern_impact: Barlow-Lyons's detailed accusation — 'the trail leads directly to the culprit' — includes specific evidence about false IDs and Torval Mining Ltd connections. The Imperial Senate's categorical rejection and focus on 'anti-xeno operations' is deflection. Hudson's promise of 'further resources' and his framing as 'enemy within' escalates tensions.
 legacy_weight: 4
 significance: high
 related_uuids:

@@ -4,6 +4,8 @@ title: A Clash of Titans
 slug: a_clash_of_titans
 date: '3301-07-19'
 source: GitHub
+summary: Historian Sima Kalhana covers the first Federation-Achenar war (2323-2325). Admiral Richard Morgan assembled a fleet at Beta Hydri to invade Achenar after it refused to join the Federation. The Achenar defenders ambushed the Federal fleet using pack-hunting formations against both the fleet and its fragile supply lines. In 2325, the 'Great Battle of Liberation' saw every local ship pressed into service, pushing the invaders back. Skirmishing continued for fifty years, during which Henson Duval expanded into nearby systems, transforming Achenar from a single colony into a pan-system empire.
+player_impact: None
 persons:
 - Sima Kalhana
 - Richard Morgan
@@ -19,18 +21,11 @@ locations:
 topics:
 - history
 - war
-summary: Historian Sima Kalhana covers the first Federation-Achenar war (2323-2325). Admiral Richard Morgan assembled a fleet at Beta Hydri to invade Achenar after it refused to join the Federation. The Achenar defenders ambushed the Federal fleet using pack-hunting formations against both the fleet and its fragile supply lines. In 2325, the 'Great Battle of Liberation' saw every local ship pressed into service, pushing the invaders back. Skirmishing continued for fifty years, during which Henson Duval expanded into nearby systems, transforming Achenar from a single colony into a pan-system empire.
-player_impact: None
 modern_impact: The first Federation-Imperial war established the Empire as a permanent galactic power and set the stage for centuries of superpower rivalry.
 legacy_weight: 5
 significance: high
 ---
 
-A Clash of Titans
-
-
-A Clash of Titans 
- 
 In This third article in GalNet’s series about The defining moments in human history, famed historian Sima Kalhana discusses The first war between the Federation and what would become the Empire. 
 
 - 

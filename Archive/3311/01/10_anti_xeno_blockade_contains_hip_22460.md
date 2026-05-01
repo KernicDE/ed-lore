@@ -4,6 +4,9 @@ title: Anti-Xeno Blockade Contains HIP 22460
 slug: anti_xeno_blockade_contains_hip_22460
 date: '3311-01-10'
 source: API
+summary: Anti-xeno forces led by AXI and XSF planned a blockade to eliminate lingering Thargoid presence in HIP 22460, the staging ground for Salvation's disastrous Proteus Wave weapon.
+player_impact: AXI and XSF combat fleets planned and executed a sustained blockade to clear Thargoid craft from HIP 22460.
+persons: []
 groups:
 - Azimuth Biochemicals
 - Salvation
@@ -14,12 +17,9 @@ topics:
 - bioweapon
 - research
 - war
-persons: []
 technologies:
 - Proteus Wave
-player_impact: "AXI and XSF combat fleets planned and executed a sustained blockade to clear Thargoid craft from HIP 22460."
-summary: "Anti-xeno forces led by AXI and XSF planned a blockade to eliminate lingering Thargoid presence in HIP 22460, the staging ground for Salvation's disastrous Proteus Wave weapon."
-modern_impact: "The blockade's timing — just weeks after the Battle of Sol — shows that anti-xeno forces remained active even as the core systems celebrated victory. HIP 22460's layered history (Azimuth research, Proteus Wave disaster, Thargoid swarm, human reclamation) makes it the most symbolically loaded system of the post-war era."
+modern_impact: The blockade's timing — just weeks after the Battle of Sol — shows that anti-xeno forces remained active even as the core systems celebrated victory. HIP 22460's layered history (Azimuth research, Proteus Wave disaster, Thargoid swarm, human reclamation) makes it the most symbolically loaded system of the post-war era.
 legacy_weight: 5
 significance: high
 related_uuids:

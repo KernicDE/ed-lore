@@ -32,9 +32,6 @@ related_uuids:
 - 30995800-a980-5b52-889e-1809f4bc9cee
 ---
 
-Aegis Offers Security to Ram Tah
-
-
 Aegis has stationed a security force in The Meene system to protect the engineer Ram Tah. 
 
 An announcement was made by Professor Alba Tesreau: 

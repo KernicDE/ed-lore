@@ -7,22 +7,24 @@ source: GitHub
 summary: 160 SOAR announced that the Alliance appeal for construction materials to build an outpost on California Sector BA-A E6 4 concluded successfully, with materials delivered to Tshang City in the Furuhjelm III-674 system for barnacle research.
 player_impact: Pilots who contributed can collect rewards from Tshang City in the Furuhjelm III-674 system.
 persons: []
-groups: [Alliance, 160 SOAR]
-locations: [California Sector BA-A E6, Furuhjelm III-674, Tshang City]
-technologies: []
+groups:
+- Alliance
+- 160 SOAR
+locations:
+- California Sector BA-A E6
+- Furuhjelm III-674
+- Tshang City
 topics:
 - construction
 - research
 - ship
 - war
+technologies: []
 arc_id: barnacle-meta-alloy
 modern_impact: Successful construction of the Alliance outpost for barnacle research in the California Nebula establishes a permanent scientific presence in contested space.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Alliance Campaign Concludes
-
 
 A spokesperson for The 160 SOAR has announced that the Alliance appeal for construction materials has reached a successful conclusion. 
 

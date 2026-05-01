@@ -4,6 +4,8 @@ title: Capital Ship Construction Initiatives Conclude
 slug: capital_ship_construction_initiatives_conclude
 date: '3306-12-03'
 source: GitHub
+summary: The Empire and Federation complete parallel campaigns to construct new capital ships, with five Farragut-class Battle Cruisers and four Majestic-class Interdictors becoming operational.
+player_impact: Pilots delivered building fabricators, microbial furnaces, and energy grid assemblies to shipyards in the Parutis and Mandh systems.
 groups:
 - Federal Congress
 - Federal Navy
@@ -11,21 +13,12 @@ groups:
 - Imperial Senate
 topics:
 - war
-summary: The Empire and Federation complete parallel campaigns to construct new capital
-  ships, with five Farragut-class Battle Cruisers and four Majestic-class Interdictors
-  becoming operational.
-player_impact: Pilots delivered building fabricators, microbial furnaces, and energy grid
-  assemblies to shipyards in the Parutis and Mandh systems.
-modern_impact: Superpower military rivalry continues to drive capital ship construction
-  and fleet modernisation.
+modern_impact: Superpower military rivalry continues to drive capital ship construction and fleet modernisation.
 legacy_weight: 2
 significance: low
 ---
 
-Capital Ship Construction Initiatives Conclude
-
-
-*Pilots Federation ALERT* 
+**Pilots Federation ALERT** 
 
 Parallel campaigns in The Empire and the Federation to provide commodities for building new capital ships have ended. 
 

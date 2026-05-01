@@ -4,7 +4,12 @@ title: Titan Cocijo Destroyed, Sol Liberated
 slug: titan_cocijo_destroyed_sol_liberated
 date: '3310-12-18'
 source: API
-entities: []
+summary: The last remaining Thargoid Titan, Cocijo, is destroyed in the Sol system after pilots trigger a meltdown by jamming its heat vents, ending the Second Thargoid War.
+player_impact: Pilots jammed Cocijo's heat vents to trigger an overload, forcing a meltdown state that destroyed the last remaining Thargoid Titan. Pilots collected rewards from Rescue Ship Hutner in Luyten's Star.
+persons:
+- Felicia Winters
+- Alba Tesreau
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -15,14 +20,9 @@ topics:
 - alien contact
 - humanitarian
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Winters' declaration — 'The heart of the Federation was the Thargoid's final target, and with Aegis' support the Federation stood firm' — frames the victory as fundamentally Federal, a narrative that will be contested by historians noting the lack of Imperial and Allied military support. Tesreau's emphasis on mourning 'the selfless, the heroic and the loved' provides the emotional counterpoint. The billions of refugees 'reluctant to return to their home systems' directly trigger the colonisation wave of 3311."
-persons:
-- Felicia Winters
-- Alba Tesreau
-- Aden Tanner
-player_impact: "Pilots jammed Cocijo's heat vents to trigger an overload, forcing a meltdown state that destroyed the last remaining Thargoid Titan. Pilots collected rewards from Rescue Ship Hutner in Luyten's Star."
-summary: "The last remaining Thargoid Titan, Cocijo, is destroyed in the Sol system after pilots trigger a meltdown by jamming its heat vents, ending the Second Thargoid War."
+modern_impact: Winters' declaration — 'The heart of the Federation was the Thargoid's final target, and with Aegis' support the Federation stood firm' — frames the victory as fundamentally Federal, a narrative that will be contested by historians noting the lack of Imperial and Allied military support. Tesreau's emphasis on mourning 'the selfless, the heroic and the loved' provides the emotional counterpoint. The billions of refugees 'reluctant to return to their home systems' directly trigger the colonisation wave of 3311.
 legacy_weight: 5
 significance: high
 related_uuids:

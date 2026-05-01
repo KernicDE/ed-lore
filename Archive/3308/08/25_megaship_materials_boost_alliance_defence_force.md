@@ -4,6 +4,8 @@ title: Megaship Materials Boost Alliance Defence Force
 slug: megaship_materials_boost_alliance_defence_force
 date: '3308-08-25'
 source: API
+summary: Sirius Corporation concludes a resource-gathering campaign in Leesti to outfit two sentry megaships with experimental AX weaponry for the Alliance Defence Force, expected operational by September 15th.
+player_impact: Pilots delivered energy grid assemblies, magnetic emitter coils, power transfer buses, and titanium to the Chariot of Rhea in Leesti.
 persons:
 - Delfina Dominguez
 - Nikolas Glass
@@ -19,14 +21,12 @@ topics:
 - engineering
 - war
 arc_id: null
-summary: Sirius Corporation concludes a resource-gathering campaign in Leesti to outfit two sentry megaships with experimental AX weaponry for the Alliance Defence Force, expected operational by September 15th.
-player_impact: Pilots delivered energy grid assemblies, magnetic emitter coils, power transfer buses, and titanium to the Chariot of Rhea in Leesti.
 modern_impact: The megaship initiative demonstrated how the HIP 22460 disaster accelerated the Alliance's military dependence on Sirius Corporation, with corporate logistics directly shaping Allied defence architecture.
 legacy_weight: 4
 significance: medium
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Sirius Corporation has gathered resources in the Leesti system to help improve the Alliance’s anti-xeno defences.
 The campaign’s conclusion was announced by Captain Delfina Dominguez, commanding officer of the Chariot of Rhea megaship:
 “Many pilots docked with us over the past week to deliver shipments of energy grid assemblies, magnetic emitter coils, power transfer buses and titanium. On behalf of Sirius Corporation and the Allied Defence Force, I thank you for such encouraging support.”

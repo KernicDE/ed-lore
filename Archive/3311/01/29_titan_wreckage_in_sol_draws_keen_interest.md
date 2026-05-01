@@ -4,6 +4,10 @@ title: Titan Wreckage In Sol Draws Keen Interest
 slug: titan_wreckage_in_sol_draws_keen_interest
 date: '3311-01-29'
 source: API
+summary: The wreckage of Titan Cocijo above Earth became a popular destination for pilots seeking trophies, knowledge, and memorials, with Federal authorities struggling to enforce visitor limits.
+player_impact: Thousands of pilots visited the Titan wreckage in Sol after caustic clouds dissipated, with some ignoring Federal restrictions. A memorial beacon was deployed in the system.
+persons:
+- Jason Nygaard
 groups:
 - Federal Navy
 - Federal Times
@@ -14,14 +18,10 @@ topics:
 - alien contact
 - safety
 - war
-persons:
-- Jason Nygaard
 technologies:
 - Titan Cocijo
 - External Camera Modules
-player_impact: "Thousands of pilots visited the Titan wreckage in Sol after caustic clouds dissipated, with some ignoring Federal restrictions. A memorial beacon was deployed in the system."
-summary: "The wreckage of Titan Cocijo above Earth became a popular destination for pilots seeking trophies, knowledge, and memorials, with Federal authorities struggling to enforce visitor limits."
-modern_impact: "Nygaard's observation that pilots have 'mostly ignored these protocols' reveals the limits of Federal authority in the post-war period. The memorial beacon's deployment transforms a site of military victory into a place of collective mourning, while the 'selfies' phenomenon shows how even catastrophe becomes content in the ICE age. This article foreshadows the June memorial services and the pilgrimages that will continue for years."
+modern_impact: Nygaard's observation that pilots have 'mostly ignored these protocols' reveals the limits of Federal authority in the post-war period. The memorial beacon's deployment transforms a site of military victory into a place of collective mourning, while the 'selfies' phenomenon shows how even catastrophe becomes content in the ICE age. This article foreshadows the June memorial services and the pilgrimages that will continue for years.
 legacy_weight: 5
 significance: high
 related_uuids:

@@ -12,19 +12,16 @@ groups:
 locations:
 - Cartoq
 - Avdeyev Settlement
-technologies: []
 topics:
 - crime
 - ship
 - trade
 - war
+technologies: []
 modern_impact: Bounty hunting campaign in Cartoq targets criminal agitators disrupting trade and pilot safety.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Restoring Order in Cartoq
-
 
 Authorities in The Cartoq system have reported a sharp increase in The number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 

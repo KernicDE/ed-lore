@@ -6,20 +6,27 @@ date: '3302-10-22'
 source: GitHub
 summary: MetaDrive Inc. was sold to Sirius Corporation. Acting Chair Rosaline Merden welcomed the acquisition, while questions were raised about the fate of former employee Raan Corsen, allegedly pursued by Sirius security and killed in the Alioth system after crash-landing.
 player_impact: None
-persons: [Rosaline Merden, Raan Corsen, Commander MoonWeb, Commander Ashley Wilkinson]
-groups: [MetaDrive Inc., Sirius Corporation, Earth Defence Fleet, Canonn]
-locations: [Alioth, Sirius]
-technologies: []
+persons:
+- Rosaline Merden
+- Raan Corsen
+- Commander MoonWeb
+- Commander Ashley Wilkinson
+groups:
+- MetaDrive Inc.
+- Sirius Corporation
+- Earth Defence Fleet
+- Canonn
+locations:
+- Alioth
+- Sirius
 topics:
 - corporate expansion
 - diplomacy
+technologies: []
 modern_impact: The MetaDrive acquisition by Sirius Corporation consolidates corporate control over frame-shift drive technology and raises questions about Raan Corsen's death.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: MetaDrive Acquired by Sirius Corporation
-
 
 Board members of MetaDrive Inc. today announced The sale of MetaDrive Inc. to The Sirius Corporation. Rosaline Merden, acting Chair of MetaDrive, was clearly pleased With the outcome. At a press conference, she said: 
 

@@ -25,9 +25,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Alliance Campaign Concludes
-
-
 The Alliance has announced that Its operation to reclaim the supply lines connecting its California Nebula bases With the core systems has reached a successful conclusion. 
 
 The campaign received the support of Hundreds of Independent pilots, who eliminated the pirates targeting the supply lines and recovered escape pods from ships destroyed by the agitators. Those rescued from the shipwrecks are now recovering at Darwin Research Facility. 

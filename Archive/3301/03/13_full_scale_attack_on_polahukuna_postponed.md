@@ -4,8 +4,6 @@ title: Full Scale Attack on Polahukuna Postponed
 slug: full_scale_attack_on_polahukuna_postponed
 date: '3301-03-13'
 source: GitHub
-entities:
-- Halsey earlier today
 groups:
 - Core Dynamics
 - Federal Navy
@@ -15,15 +13,13 @@ topics:
 - construction
 - ship
 - war
+entities:
+- Halsey earlier today
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Full Scale Attack on Polahukuna Postponed
-
 
 Following The declaration of war by President Halsey earlier today, The Federal Navy’s attack on Polahukuna has been postponed indefinitely. Instead the newly built Capital Ship  , the FNS Nevermore, will be diverted to help With the offensive against Lugh. 
 

@@ -4,7 +4,11 @@ title: Kaine Launches Alliance Resource Drive
 slug: kaine_launches_alliance_resource_drive
 date: '3309-11-30'
 source: API
-entities: []
+summary: Nakato Kaine launches a Tionisla delivery campaign to prove Alliance self-sufficiency, attacking Sirius's failure to honour commitments and alleging unfair market leverage.
+player_impact: Pilots are asked to deliver hazardous environment suits, micro controllers and titanium to Brett High in Tionisla.
+persons:
+- Nakato Kaine
+- Edmund Mahon
 groups:
 - Alliance
 - Sirius Corporation
@@ -14,13 +18,9 @@ topics:
 - corporate expansion
 - investigation
 - politics
+entities: []
 arc_id: null
-modern_impact: "Kaine's accusation — 'Li Yong-Rui never intended to honour his anti-xeno commitments' — is a direct attack on Sirius's integrity. Her claim of 'Sirius negotiating favourable contracts with Allied tech and military corporations' suggests corruption. Mahon's non-committal response — 'A formal inquiry... is ongoing' — shows his political caution."
-persons:
-- Nakato Kaine
-- Edmund Mahon
-player_impact: "Pilots are asked to deliver hazardous environment suits, micro controllers and titanium to Brett High in Tionisla."
-summary: "Nakato Kaine launches a Tionisla delivery campaign to prove Alliance self-sufficiency, attacking Sirius's failure to honour commitments and alleging unfair market leverage."
+modern_impact: Kaine's accusation — 'Li Yong-Rui never intended to honour his anti-xeno commitments' — is a direct attack on Sirius's integrity. Her claim of 'Sirius negotiating favourable contracts with Allied tech and military corporations' suggests corruption. Mahon's non-committal response — 'A formal inquiry... is ongoing' — shows his political caution.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -28,7 +28,7 @@ related_uuids:
 - 87bfa62f-1991-5f20-88d3-0bd0d7d797bc
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Councillor Nakato Kaine has requested deliveries to the Tionisla system in protest against the anti-xeno defence pact.
 Pilots are asked to deliver shipments of hazardous environment suits, micro controllers and titanium to Brett High. The Alliance Rapid-reaction Corps, which is hosting the initiative, will protect participants by redeeming bounty vouchers for the destruction of any wanted ships.
 The campaign was personally arranged by Councillor Nakato Kaine, the representative for Tionisla in the Alliance Assembly. Speaking to the Old Worlds Gazette, Kaine stated:

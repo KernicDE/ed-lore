@@ -4,6 +4,8 @@ title: Origins of the Velites Squadron
 slug: origins_of_the_velites_squadron
 date: '3301-07-15'
 source: GitHub
+summary: Commander Na'Qan, a former miner from distant Imperial colonies, developed stealth combat techniques using asteroid fields to evade pirates. During the Pancienses war, he discovered his manoeuvres prevented weapons lock from Fer-de-Lance interdictors. He proposed training wings for what became the Velites Squadron, known for stealthy precision strikes. Na'Qan is to be awarded the Imperial Order of Merit, First Class, by Senator Arissa Lavigny-Duval at her Kamadhenu headquarters.
+player_impact: Imperial pilots can learn stealth combat techniques inspired by Na'Qan's asteroid field manoeuvres for use against pirate interdictions.
 persons:
 - Na'Qan
 - Arissa Lavigny-Duval
@@ -17,18 +19,11 @@ topics:
 - combat
 - piracy
 - war
-summary: Commander Na'Qan, a former miner from distant Imperial colonies, developed stealth combat techniques using asteroid fields to evade pirates. During the Pancienses war, he discovered his manoeuvres prevented weapons lock from Fer-de-Lance interdictors. He proposed training wings for what became the Velites Squadron, known for stealthy precision strikes. Na'Qan is to be awarded the Imperial Order of Merit, First Class, by Senator Arissa Lavigny-Duval at her Kamadhenu headquarters.
-player_impact: Imperial pilots can learn stealth combat techniques inspired by Na'Qan's asteroid field manoeuvres for use against pirate interdictions.
 modern_impact: Formation of the Velites Squadron adds an elite stealth combat wing to Imperial forces, specialising in evasion and precision strikes.
 legacy_weight: 2
 significance: medium
 ---
 
-Origins of The Velites Squadron
-
-
-Origins of The Velites Squadron 
- 
 The ancient proverb, “necessity is the mother of all invention,” remains true, even in 3301. 
 
 Commander Na’Qan came from humble beginnings as a miner in distant Imperial colonies. Piracy being rife in those systems, he Found himself in their sights regularly. Knowing he could not outrun them in his unshielded Type-6, he learned to elude them. Like Br’er Rabbit’s briar patch, the asteroid fields offered him shelter. He learned to manoeuvre silently among the chaotic rocks and metals. 

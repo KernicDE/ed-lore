@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Peacock Patrons of Law Issue Appeal
-
-
 The Peacock Patrons of Law have placed an open order for Robotics, Ion Distributors and Emergency Power Cells. The organisation has promised to reward pilots who deliver these commodities to Phillips Dock in the Peacock system. 
 
 The campaign begins on the 9th February 3303 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

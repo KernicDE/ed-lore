@@ -12,14 +12,10 @@ topics:
 - corporate expansion
 - ship
 arc_id: banki-liberation
-modern_impact: The Banki liberation campaign demonstrates the power of organised independent
-  pilot action.
+modern_impact: The Banki liberation campaign demonstrates the power of organised independent pilot action.
 legacy_weight: 2
 significance: low
 ---
-
-Core Dynamics Assist Federal Navy in BD+03 2338
-
 
 Core Dynamics is pleased to declare The launch of a new stage in their partnership With the Federal Navy. While The exact terms of the agreement must remain secret for reasons of galactic security, GalNet can reveal that the joint cooperation effort will involve the construction of Several new Capital Ships, the first of Which has just started being built in the newly recaptured shipyards aboard Hudson Dock in BD+03 2338.  
 

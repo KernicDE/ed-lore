@@ -4,6 +4,8 @@ title: The Death of Theta Seven
 slug: the_death_of_theta_seven
 date: '3307-12-13'
 source: API
+summary: Theta Seven and his followers sacrifice themselves by destroying the Sacrosanct megaship in Mudhrid, killing thousands of Far God cultists, as ACT confirms the NMLA leader is dead.
+player_impact: Not specifically mentioned — this is a report on the aftermath.
 persons:
 - Theta Seven
 - Saskia Landau
@@ -19,12 +21,7 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-summary: Theta Seven and his followers sacrifice themselves by destroying the Sacrosanct
-  megaship in Mudhrid, killing thousands of Far God cultists, as ACT confirms the NMLA
-  leader is dead.
-player_impact: Not specifically mentioned — this is a report on the aftermath.
-modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to
-  the Marlinist refugee crisis and the Proactive Detection Bureau.
+modern_impact: The NMLA's bombing campaign reshapes galactic politics, leading to the Marlinist refugee crisis and the Proactive Detection Bureau.
 legacy_weight: 5
 significance: high
 related_uuids:

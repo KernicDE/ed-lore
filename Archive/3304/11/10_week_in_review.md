@@ -42,9 +42,6 @@ related_uuids:
 - 9dd7aeb3-bfaa-57cd-a120-cba857134b07
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 A mercenary group has been intercepted by security forces in The Meene system. It is understood that the mercenaries’ primary target was Phoenix Base, home of the engineer Ram Tah. Li Yong-Rui, CEO of Sirius Corporation, said the attack demonstrated the precariousness of Ram Tah’s situation. 

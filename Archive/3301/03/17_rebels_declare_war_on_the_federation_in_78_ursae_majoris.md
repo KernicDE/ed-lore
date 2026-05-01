@@ -14,14 +14,10 @@ topics:
 - narcotics
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Rebels Declare War on The Federation in 78 Ursae Majoris
-
 
 The system of 78 Ursae Majoris, home to over 10 billion people, has erupted into civil war today. The conflict started just hours after news broke that the frontier system was planning to announce Its intention to secede from the Federation.  
 

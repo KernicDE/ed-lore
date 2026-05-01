@@ -4,7 +4,11 @@ title: Dedicant Quest Yields Results
 slug: dedicant_quest_yields_results
 date: '3309-07-27'
 source: API
-entities: []
+summary: 'Combined decryption efforts reveal the Dedicant''s original transmission: Far God prisoners escaped, initiated hyperdrive, and all personnel remain aboard; location unknown.'
+player_impact: Pilots helped track down fragments of the Dedicant's distress call across multiple systems.
+persons:
+- Jalen Locke
+- Amir Rafiq
 groups:
 - Federal Navy
 - Imperial Navy
@@ -12,12 +16,8 @@ locations: []
 topics:
 - humanitarian
 - investigation
-modern_impact: "The decrypted message — 'PRISONERS INITIATED DEDICANT HYPERDRIVE' — is the key revelation. Locke's theory that 'the prisoners managed to regain control of their former vessel, using various modifications made to its internal systems' suggests sophisticated planning. The FIA's intent to 'retake the megaship by force if necessary' shows their priority is recapture, not rescue."
-persons:
-- Jalen Locke
-- Amir Rafiq
-player_impact: "Pilots helped track down fragments of the Dedicant's distress call across multiple systems."
-summary: "Combined decryption efforts reveal the Dedicant's original transmission: Far God prisoners escaped, initiated hyperdrive, and all personnel remain aboard; location unknown."
+entities: []
+modern_impact: The decrypted message — 'PRISONERS INITIATED DEDICANT HYPERDRIVE' — is the key revelation. Locke's theory that 'the prisoners managed to regain control of their former vessel, using various modifications made to its internal systems' suggests sophisticated planning. The FIA's intent to 'retake the megaship by force if necessary' shows their priority is recapture, not rescue.
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -25,7 +25,7 @@ related_uuids:
 - ba9e2357-84b5-5ac9-aaf3-d2fa18dc5171
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The missing megaship Dedicant is close to being located after fragments of its distress call were tracked down.
 The scrambled messages were discovered on comms beacons in the LP 714-58, Wuniez, Olurung and Kwakimo systems. Combined decryption efforts eventually led to another beacon in the HIP 19912 system, where the Dedicant’s original transmission was revealed:
 FEDERAL ESCORT TEAM ALPHA

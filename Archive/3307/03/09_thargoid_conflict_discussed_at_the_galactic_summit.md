@@ -4,7 +4,8 @@ title: Thargoid Conflict Discussed at the Galactic Summit
 slug: thargoid_conflict_discussed_at_the_galactic_summit
 date: 3307-03-09
 source: API
-arc_id: null
+summary: Potential solutions to The threat posed by the Thargoid race are being debated at the diplomatic conference in The Sirius system.
+player_impact: Anti-xeno pilots responded to Aegis appeals to defend stations from Thargoid incursions.
 persons:
 - Alba Tesreau
 - Further
@@ -23,9 +24,10 @@ topics:
 - diplomacy
 - research
 - xenoarchaeology
-player_impact: Anti-xeno pilots responded to Aegis appeals to defend stations from Thargoid incursions.
-summary: Potential solutions to The threat posed by the Thargoid race are being debated at the diplomatic conference in The Sirius system.
-modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+arc_id: null
+modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - 8ea60378-45bb-5e97-80fc-103b0cdd5b4e
@@ -33,8 +35,6 @@ related_uuids:
 - 29fb3d22-b316-514e-95ed-4f188b9ed8f7
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
-legacy_weight: 4
-significance: high
 ---
 
 Potential solutions to The threat posed by the Thargoid race are being debated at the diplomatic conference in The Sirius system.

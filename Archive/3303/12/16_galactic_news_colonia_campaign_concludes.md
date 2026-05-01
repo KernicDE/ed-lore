@@ -22,9 +22,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Colonia Campaign Concludes
-
-
 The Colonia Council has announced that Its appeal for construction materials has reached a successful conclusion. Scores of pilots contributed to the campaign by delivering materials to Pilkington Orbital, and by eliminating agitators in the Einheriar system. The materials will be used to construct new outposts in the Colonia region to support a recent influx of immigrants. 
 
 As the campaign drew to a close, the Colonia Council issued The following statement: 

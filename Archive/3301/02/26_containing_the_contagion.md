@@ -16,9 +16,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Containing The Contagion
-
-
 Tensions have been running high aboard Effinger Port This week as doctors, nurses and scientists worked around The clock to find a cure for the Volungu Blight. 
 
 A breakthrough finally occurred on Wednesday night after medical staff supplied by Aisling Duval managed to identify the pathogen behind the Blight. Once that was done, doctors were able to develop a course of treatment to fully eradicate all traces of the disease from patients’ bodies. 

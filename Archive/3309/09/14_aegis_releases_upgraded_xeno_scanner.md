@@ -4,7 +4,12 @@ title: Aegis Releases Upgraded Xeno Scanner
 slug: aegis_releases_upgraded_xeno_scanner
 date: '3309-09-14'
 source: API
-entities: []
+summary: Aegis releases the upgraded pulse wave xeno scanner that detects human life signs on Thargoid Titans, with Tanner warning pilots about the dangers of close approach.
+player_impact: Pilots delivered neofabric insulation, polymers and thallium to the Rabh system. Bounty vouchers for wanted ships can be redeemed at Muller Terminal.
+persons:
+- Alba Tesreau
+- Aden Tanner
+- Li Yong-Rui
 groups:
 - Aegis
 - Sirius Corporation
@@ -16,14 +21,9 @@ topics:
 - corporate expansion
 - humanitarian
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's statement — 'this could be the most important technological breakthrough in the war' — frames the scanner's significance. Tanner's detailed tactical warning — 'caustic sink launchers... Thargoid pulse neutralisers... ever-present risk of attack' — prepares pilots. His closing — 'Every human identified is a potential life saved' — provides moral motivation."
-persons:
-- Alba Tesreau
-- Aden Tanner
-- Li Yong-Rui
-player_impact: "Pilots delivered neofabric insulation, polymers and thallium to the Rabh system. Bounty vouchers for wanted ships can be redeemed at Muller Terminal."
-summary: "Aegis releases the upgraded pulse wave xeno scanner that detects human life signs on Thargoid Titans, with Tanner warning pilots about the dangers of close approach."
+modern_impact: Tesreau's statement — 'this could be the most important technological breakthrough in the war' — frames the scanner's significance. Tanner's detailed tactical warning — 'caustic sink launchers... Thargoid pulse neutralisers... ever-present risk of attack' — prepares pilots. His closing — 'Every human identified is a potential life saved' — provides moral motivation.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,7 +32,7 @@ related_uuids:
 - a39bacde-3f03-579e-a87c-1f549b9287b1
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 A pulse wave xeno scanner upgrade that can detect human life signs on Thargoid Titans is now available.
 Professor Alba Tesreau, head of Aegis, announced the campaign’s successful conclusion:
 “The upgraded pulse wave xeno scanner will isolate human life signs aboard the Titan motherships. If Seo Jin-ae is correct that some of our missing populations are being stored by the Thargoids, this could be the most important technological breakthrough in the war. I’m deeply grateful to all those who helped make it a reality.”

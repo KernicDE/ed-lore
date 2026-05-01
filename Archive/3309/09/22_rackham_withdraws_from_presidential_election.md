@@ -4,13 +4,8 @@ title: Rackham Withdraws from Presidential Election
 slug: rackham_withdraws_from_presidential_election
 date: '3309-09-22'
 source: API
-groups: []
-topics:
-- crime
-- investigation
-- piracy
-- politics
-modern_impact: "Blackriver's spin — 'His amused tolerance of the nickname Calico Zack... is not an admission of any true link' — is transparent deflection. Turk's resignation as running mate is a clear signal of political toxicity. Archer's statement — 'Nobody with even a hint of criminality deserves a position of such significant power' — is rich with irony given his later actions. Winters's dismissal — 'stands aside to let the grown-ups do their work' — is characteristically direct."
+summary: Zachary Rackham withdraws from the presidential election after Wallglass evidence links him to 'Calico Zack', with his running mate resigning and political rivals welcoming the news.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Rackham
 - Bryanna Blanco
@@ -19,8 +14,13 @@ persons:
 - Patricia Chen
 - Jerome Archer
 - Felicia Winters
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "Zachary Rackham withdraws from the presidential election after Wallglass evidence links him to 'Calico Zack', with his running mate resigning and political rivals welcoming the news."
+groups: []
+topics:
+- crime
+- investigation
+- piracy
+- politics
+modern_impact: Blackriver's spin — 'His amused tolerance of the nickname Calico Zack... is not an admission of any true link' — is transparent deflection. Turk's resignation as running mate is a clear signal of political toxicity. Archer's statement — 'Nobody with even a hint of criminality deserves a position of such significant power' — is rich with irony given his later actions. Winters's dismissal — 'stands aside to let the grown-ups do their work' — is characteristically direct.
 legacy_weight: 1
 significance: low
 related_uuids:

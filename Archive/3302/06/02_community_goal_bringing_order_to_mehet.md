@@ -12,19 +12,16 @@ groups:
 locations:
 - Mehet
 - Schwann Dock
-technologies: []
 topics:
 - crime
 - ship
 - trade
 - war
+technologies: []
 modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---
-
-Community Goal: Bringing Order to Mehet
-
 
 Authorities in The Mehet system have reported that The number of criminals operating in the area has risen sharply over the past few months. Recent reports indicate that agitators have been attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 

@@ -11,18 +11,15 @@ persons:
 groups:
 - Federal Astrocartography Department
 locations: []
-technologies: []
 topics:
 - diplomacy
 - exploration
 - war
+technologies: []
 modern_impact: Federal calls to restrict independent exploration reflect growing official concern over first-contact readiness and control of frontier regions.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Explorers Urged to be Cautious
-
 
 In his keynote speech at a recent conference, Karl Devene, head of The Federal Astrocartography Department, warned would-be explorers of the dangers of venturing into the void: 
 

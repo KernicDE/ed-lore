@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Orulas Campaign Reaches an End
-
-
 Rose Trebek, leader of The Joint Security Taskforce, has announced that the operation to clean up the Orulas system has been an overwhelming success. According to Trebek, Hundreds of combat pilots supported the initiative to disrupt the operations of the criminal Blue Hand Gang. 
 
 Trebek released a statement to the media in the wake of the campaign's success: 

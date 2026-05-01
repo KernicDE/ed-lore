@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Halsey Requests Relief
-
-
 Former Federal President Jasmina Halsey has appealed for relief for The refugees currently at Dirichlet Orbital. 
 
 In a statement, Halsey said: 

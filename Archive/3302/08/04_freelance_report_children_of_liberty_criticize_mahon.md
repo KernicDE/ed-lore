@@ -12,17 +12,14 @@ groups:
 - Children of Liberty
 - Alliance
 locations: []
-technologies: []
 topics:
 - research
+technologies: []
 arc_id: barnacle-meta-alloy
 modern_impact: Highlights internal Alliance political tensions and early debates over barnacle preservation versus exploitation.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Children of Liberty Criticize Mahon
-
 
 The organization known As the Children of Liberty has issued a statement criticizing Alliance Prime Minister Edmund Mahon for his recent remarks concerning the supposed failings of the Federation and Empire. 
 

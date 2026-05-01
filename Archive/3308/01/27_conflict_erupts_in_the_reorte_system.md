@@ -4,10 +4,10 @@ title: Conflict Erupts in the Reorte System
 slug: conflict_erupts_in_the_reorte_system
 date: '3308-01-27'
 source: API
-arc_id: null
+summary: The Reorte Mining Coalition declares war on Sirius Corporation's presence in the Reorte system.
+player_impact: Pilots were invited to fight for either the Reorte Mining Coalition or Sirius Corporation forces.
 persons:
 - Edmund Mahon
-entities: []
 groups:
 - Alliance
 - Sirius Corporation
@@ -19,15 +19,14 @@ locations:
 topics:
 - corporate expansion
 - war
-summary: The Reorte Mining Coalition declares war on Sirius Corporation's presence in the Reorte system.
-player_impact: Pilots were invited to fight for either the Reorte Mining Coalition or Sirius Corporation forces.
-modern_impact: "\"The Reorte Mining Coalition has declared its intent to remove the Sirius Corporation presence from its home system.\" The outbreak of hostilities in Reorte marks a rare instance of an Alliance system openly defying its own government's corporate alliance."
+entities: []
+arc_id: null
+modern_impact: '"The Reorte Mining Coalition has declared its intent to remove the Sirius Corporation presence from its home system." The outbreak of hostilities in Reorte marks a rare instance of an Alliance system openly defying its own government''s corporate alliance.'
 legacy_weight: 3
 significance: medium
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The Reorte Mining Coalition has declared Its intent to remove The Sirius Corporation presence from its home system.
 The megaship Chariot of Rhea arrived in Reorte as part of Sirius Corporation’s new role As the Alliance’s strategic defence partner. But the system’s controlling faction ordered it to withdraw. The megaship’s non-compliance has resulted in skirmishes targeting Sirius forces.
 Fergus Cassidy, CEO of the Reorte Mining Coalition, announced:

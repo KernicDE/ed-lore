@@ -29,9 +29,6 @@ related_uuids:
 - a987debf-f78b-5533-84b9-48a6a845b2e2
 ---
 
-An Interview With Aisling Duval
-
-
 Princess Aisling Duval has discussed her forthcoming marriage in an exclusive interview with entertainment journalist Solomon Helios. 
 
 The princess spoke openly about Many topics, including the impact of her announcement: 

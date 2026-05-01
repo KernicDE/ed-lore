@@ -24,9 +24,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: Buckyball Racers to Chauffeur Students
-
-
 Grant Academics, whose slogan is 'We Make Learning Easy', has announced a partnership With the Buckyball Racing Club to provide students With chauffeurs during The upcoming Spring Break vacation. The most talented pilots in human space will escort students from the Exigus campus to the biggest tourism hotspots in the region. 
 
 "Students will be entirely safe in the hands of these veteran pilots," said a member of the Grant Academics board of directors. "I have personally interviewed the BRC member coordinating the event. Commander Seneh is a Grant Academics alumnus and recent inductee to the Pilots Federation, and she has assured me that the BRC will closely monitor Its pilots." 

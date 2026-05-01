@@ -51,14 +51,10 @@ topics:
 - ship
 - war
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Services Suspended at Fozard Dock
-
 
 Authorities at Fozard Dock in The HIP 19934 system have announced the immediate suspension of all services due to Unknown Artefact-related interference. Starport personnel have confirmed that only docking and shipyard access remain available. This brings the total number of starports closed as a result of the technological plague to 12. The affected stations are: 
 

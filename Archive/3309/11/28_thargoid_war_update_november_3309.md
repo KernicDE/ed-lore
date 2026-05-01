@@ -4,7 +4,12 @@ title: 'Thargoid War Update: November 3309'
 slug: thargoid_war_update_november_3309
 date: '3309-11-28'
 source: API
-entities: []
+summary: Sanderlyn's monthly war update covers Titan resistance, Palin's spire breakthrough, the quarantine debate, and Winters's plan to send returnees home.
+player_impact: Pilots are signing up to deliver Palin's contaminant to Thargoid spire sites despite the danger.
+persons:
+- Jade Sanderlyn
+- Ishmael Palin
+- Felicia Winters
 groups: []
 locations: []
 topics:
@@ -12,16 +17,11 @@ topics:
 - bioweapon
 - humanitarian
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Sanderlyn's note that 'New invasions are rare, and Thargoid vessels are being driven out of occupied systems' signals a turning point. Her observation about Palin's contaminant — 'Many pilots are signing up... despite the inevitability that some volunteers will not return' — honours the sacrifice. The connection between Winters's election victory and her plan to 'send home all returnees' links political change to humanitarian policy."
-persons:
-- Jade Sanderlyn
-- Ishmael Palin
-- Felicia Winters
+entities: []
 technologies:
 - biological contaminant
-player_impact: "Pilots are signing up to deliver Palin's contaminant to Thargoid spire sites despite the danger."
-summary: "Sanderlyn's monthly war update covers Titan resistance, Palin's spire breakthrough, the quarantine debate, and Winters's plan to send returnees home."
+arc_id: thargoid-titan-war
+modern_impact: Sanderlyn's note that 'New invasions are rare, and Thargoid vessels are being driven out of occupied systems' signals a turning point. Her observation about Palin's contaminant — 'Many pilots are signing up... despite the inevitability that some volunteers will not return' — honours the sacrifice. The connection between Winters's election victory and her plan to 'send home all returnees' links political change to humanitarian policy.
 legacy_weight: 5
 significance: high
 related_uuids:

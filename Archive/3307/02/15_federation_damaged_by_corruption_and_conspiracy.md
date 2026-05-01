@@ -4,7 +4,8 @@ title: Federation Damaged by Corruption and Conspiracy
 slug: federation_damaged_by_corruption_and_conspiracy
 date: 3307-02-15
 source: API
-arc_id: null
+summary: Federal citizens are in uproar after The former CEO of Core Dynamics was revealed to have destroyed Starship One to increase company profits.
+player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Further
 - Its
@@ -25,9 +26,10 @@ topics:
 - corporate expansion
 - investigation
 - war
-player_impact: Pilots followed these developments through GalNet reports.
-summary: Federal citizens are in uproar after The former CEO of Core Dynamics was revealed to have destroyed Starship One to increase company profits.
-modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+arc_id: null
+modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+legacy_weight: 2
+significance: low
 related_uuids:
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - ef475ada-e268-55e0-8ada-ae250caa5c86
@@ -35,8 +37,6 @@ related_uuids:
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - a3c076ad-3a02-5e61-98b0-a3cd15189a48
-legacy_weight: 2
-significance: low
 ---
 
 Federal citizens are in uproar after The former CEO of Core Dynamics was revealed to have destroyed Starship One to increase company profits.

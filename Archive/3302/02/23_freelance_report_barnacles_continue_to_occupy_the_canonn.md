@@ -18,14 +18,10 @@ locations:
 topics:
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
 ---
-
-Freelance Report: Barnacles Continue to Occupy The Canonn
-
 
 Verity Gavroche, public correspondent for the Canonn Interstellar Research Group, has been speaking to Dr Arcanonn about his teams' ongoing research: 
 

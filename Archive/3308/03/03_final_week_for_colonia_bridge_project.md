@@ -4,7 +4,8 @@ title: Final Week for Colonia Bridge Project
 slug: final_week_for_colonia_bridge_project
 date: '3308-03-03'
 source: API
-arc_id: null
+summary: The final week of deliveries for the Colonia Bridge starport project begins.
+player_impact: Pilots were urged to make final deliveries to complete the Colonia Bridge starports.
 groups:
 - Brewer Corporation
 locations:
@@ -16,15 +17,13 @@ topics:
 - engineering
 - exploration
 - war
-summary: The final week of deliveries for the Colonia Bridge starport project begins.
-player_impact: Pilots were urged to make final deliveries to complete the Colonia Bridge starports.
-modern_impact: "\"Delivery campaigns in the Alcor and Colonia systems will complete the six starports along the Colonia Bridge.\" The project's conclusion represents a milestone in community-funded deep-space infrastructure."
+arc_id: null
+modern_impact: '"Delivery campaigns in the Alcor and Colonia systems will complete the six starports along the Colonia Bridge." The project''s conclusion represents a milestone in community-funded deep-space infrastructure.'
 legacy_weight: 3
 significance: medium
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Delivery campaigns in The Alcor and Colonia systems will complete the six starports along the Colonia Bridge.
 Months of work on developing the transportation infrastructure between the core systems and the Colonia region are now coming to an end. Brewer Corporation’s latest press release specified the requirements:
 “For This final week, we are asking pilots to deliver auto-fabricators, micro controllers and resonating separators to Macdonald Settlement in the Alcor system and Jaques Station in the Colonia system. These will allow us to install outfitting, shipyard and tech broker services, as we bring the starports to full operational status. There is also another opportunity to install Pioneer Supplies at Promium Relay, the Bridge starport nearest to Colonia.”

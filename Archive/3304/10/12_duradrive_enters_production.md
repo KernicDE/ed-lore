@@ -26,9 +26,6 @@ related_uuids:
 - a3e39e45-ff53-5d20-8eab-14ecd7b2b96a
 ---
 
-Duradrive Enters Production
-
-
 Technology company Herculean Machines has begun mass production of Its new device, The Duradrive personal computer. 
 
 Following the successful performance of its prototype at the Rackham Ultratech Expo, the company has received corporate funding from a range of sources, including Rackham Capital Investments. 

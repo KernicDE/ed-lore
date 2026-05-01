@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Former Slaves Receive Aid
-
-
 The Paladin Consortium has announced that Its recent appeal for water purifiers has been met With a positive response. The initiative was launched after the group freed the Imperial slaves of LFT 37, only to discover that the newly liberated slaves would not legally be able to obtain employment or housing for Several weeks. With a potential humanitarian crisis looming, the Paladin Consortium turned to the galactic community for help, asking for deliveries of water purifiers to ensure the former slaves would have access to basic sanitation. 
 
 Following the success of the initiative, Authorities in the LFT 37 system released a statement to the media: 

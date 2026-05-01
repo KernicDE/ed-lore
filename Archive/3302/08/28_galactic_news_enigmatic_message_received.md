@@ -10,16 +10,13 @@ persons: []
 groups:
 - Federal Security Service
 locations: []
-technologies: []
 topics:
 - war
+technologies: []
 modern_impact: The enigmatic message triggers the first in a series of community-driven puzzle hunts that uncover hidden discoveries across the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Enigmatic Message Received
-
 
 News feeds throughout The galaxy have received a mysterious message from an as-yet undetermined source. 
 

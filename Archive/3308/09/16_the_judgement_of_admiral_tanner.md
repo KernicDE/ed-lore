@@ -4,6 +4,8 @@ title: The Judgement of Admiral Tanner
 slug: the_judgement_of_admiral_tanner
 date: '3308-09-16'
 source: API
+summary: The Federal Navy Criminal Court upholds Admiral Aden Tanner's conviction for mutiny but commutes his sentence to time served, acknowledging that preventing the Proteus Wave might have saved many lives.
+player_impact: Not specifically mentioned — this is a legal ruling.
 persons:
 - Aden Tanner
 groups:
@@ -18,13 +20,7 @@ topics:
 - crime
 - war
 arc_id: salvation-azimuth
-summary: The Federal Navy Criminal Court upholds Admiral Aden Tanner's conviction for
-  mutiny but commutes his sentence to time served, acknowledging that preventing the
-  Proteus Wave might have saved many lives.
-player_impact: Not specifically mentioned — this is a legal ruling.
-modern_impact: The tribunal's admission that Tanner's allegations about Salvation's
-  superweapons were substantiated vindicates his warnings while maintaining his dishonourable
-  discharge.
+modern_impact: The tribunal's admission that Tanner's allegations about Salvation's superweapons were substantiated vindicates his warnings while maintaining his dishonourable discharge.
 legacy_weight: 5
 significance: high
 related_uuids:

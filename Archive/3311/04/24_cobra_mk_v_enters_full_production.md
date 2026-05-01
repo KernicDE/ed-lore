@@ -4,20 +4,20 @@ title: Cobra Mk V Enters Full Production
 slug: cobra_mk_v_enters_full_production
 date: '3311-04-24'
 source: API
+summary: Faulcon DeLacy's Cobra Mk V enters full production, offering improved handling, modularity, and SCO drive compatibility.
+player_impact: The Cobra Mk V became available for purchase at shipyards across the core systems, particularly in high-tech economy systems.
+persons:
+- Taron Raines
 groups:
 - Faulcon DeLacy
 topics:
 - engineering
 - ship
 - trade
-persons:
-- Taron Raines
 technologies:
 - Cobra Mk V
 - SCO enabled frame shift drives
-player_impact: "The Cobra Mk V became available for purchase at shipyards across the core systems, particularly in high-tech economy systems."
-summary: Faulcon DeLacy's Cobra Mk V enters full production, offering improved handling, modularity, and SCO drive compatibility.
-modern_impact: "Taron Raines's framing — 'a perfect balance of capability and affordability' — targets the vast independent pilot market that cannot afford Imperial or Federal premium vessels. The emphasis on 'SCO enabled frame shift drives' ties the Mk V to the Trailblazer colonisation infrastructure, positioning it as the ideal vessel for frontier expansion."
+modern_impact: Taron Raines's framing — 'a perfect balance of capability and affordability' — targets the vast independent pilot market that cannot afford Imperial or Federal premium vessels. The emphasis on 'SCO enabled frame shift drives' ties the Mk V to the Trailblazer colonisation infrastructure, positioning it as the ideal vessel for frontier expansion.
 legacy_weight: 2
 significance: low
 related_uuids: []

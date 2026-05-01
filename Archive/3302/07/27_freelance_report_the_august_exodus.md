@@ -14,19 +14,15 @@ locations:
 - Colonia
 - Jaques Station
 - Ocshooit
-technologies: []
 topics:
 - exploration
 - war
+technologies: []
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: The August Exodus
-
 
 With the possibility of war between the Federation and the Empire looming, a number of intrepid explorers have banded together to establish a new way of life among the stars. Over 300 pilots from across inhabited space have signed up to take part in the largest convoy ever assembled, designated the August Exodus – A Jaunt to Jaques. 
 

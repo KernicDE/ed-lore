@@ -11,22 +11,18 @@ persons:
 groups:
 - Canonn Interstellar Research Group
 locations: []
-technologies:
-- Unknown Probes
-- advanced discovery scanner
 topics:
 - cyberattack
 - research
 - ship
+technologies:
+- Unknown Probes
+- advanced discovery scanner
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Unknown Probe Breakthrough
-
 
 The Canonn Interstellar Research Group has announced that One of Its scientists has made a discovery regarding the so-called Unknown Probes. 
 

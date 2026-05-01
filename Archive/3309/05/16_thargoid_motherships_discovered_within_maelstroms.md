@@ -4,7 +4,11 @@ title: Thargoid Motherships Discovered Within Maelstroms
 slug: thargoid_motherships_discovered_within_maelstroms
 date: '3309-05-16'
 source: API
-entities: []
+summary: Aegis confirms colossal Thargoid 'Titans' exist at the center of all eight Maelstroms, with a new class of combat vessel patrolling nearby.
+player_impact: Pilots who breached the Maelstroms provided footage and data on the Titans.
+persons:
+- Alba Tesreau
+- Shamus Madigan
 groups:
 - Aegis
 - INRA
@@ -15,13 +19,9 @@ topics:
 - exploration
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's personal reaction — 'I will admit that the architecture is unsettling. Finding a way to defeat them will be our greatest challenge to date' — is uncharacteristically emotional. Madigan's scientific caution — 'there is little evidence to confirm exactly what purpose they serve' — contrasts with public speculation. His dismissal of the 'hive ship' theory and reference to 'INRA scientists theorised the hierarchy of Thargoid society' provides historical context."
-persons:
-- Alba Tesreau
-- Shamus Madigan
-player_impact: "Pilots who breached the Maelstroms provided footage and data on the Titans."
-summary: "Aegis confirms colossal Thargoid 'Titans' exist at the center of all eight Maelstroms, with a new class of combat vessel patrolling nearby."
+modern_impact: Tesreau's personal reaction — 'I will admit that the architecture is unsettling. Finding a way to defeat them will be our greatest challenge to date' — is uncharacteristically emotional. Madigan's scientific caution — 'there is little evidence to confirm exactly what purpose they serve' — contrasts with public speculation. His dismissal of the 'hive ship' theory and reference to 'INRA scientists theorised the hierarchy of Thargoid society' provides historical context.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -32,7 +32,7 @@ related_uuids:
 - 92fb9612-203a-579d-a494-7165138502aa
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Exploration of the inner regions of the Maelstroms has revealed the existence of colossal Thargoid constructs.
 Alba Tesreau, head of Aegis, published a summary on behalf of the tri-superpower initiative: 
 “Our pathfinder missions have verified reports by the first manned ships that used the Thargoid pulse neutraliser. We know that the core environments of all eight Maelstroms are consistent in layout and extremely dangerous.”

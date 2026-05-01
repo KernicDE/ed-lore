@@ -17,14 +17,10 @@ topics:
 - independence
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Lugh Makes a Bold Step Towards Independence
-
 
 The Alioth system has been at The centre of controversy today after The arrival of Éamonn Uí Laoghire, the leading spokesperson in the current bid for Independence of the Lugh system.  
 

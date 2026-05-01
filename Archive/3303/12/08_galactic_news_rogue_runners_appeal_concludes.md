@@ -25,9 +25,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Rogue Runners Appeal Concludes
-
-
 The Rogue Runners have announced that their campaign to renovate an asteroid base in Run has received the unalloyed support of the galactic community, resulting In a massive influx of deliveries to Smithport, the organisation’s base of operations. The initiative was supported by scores of Independent combat pilots, who protected those delivering goods to the starport. 
 
 Autumn Leif, the founder of Rogue Runners Co., released The following statement As the campaign drew to a close: 

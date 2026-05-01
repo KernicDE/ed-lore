@@ -4,10 +4,10 @@ title: Federal Government Plans for the Future
 slug: federal_government_plans_for_the_future
 date: '3308-01-21'
 source: API
-arc_id: federal-politics
+summary: President Zachary Hudson delivers a congressional address outlining Federal security priorities for the coming years.
+player_impact: Not specifically mentioned — this is a political report.
 persons:
 - Zachary Hudson
-entities: []
 groups:
 - Aegis
 - Alliance
@@ -20,17 +20,16 @@ topics:
 - independence
 - terrorism
 - war
-summary: President Zachary Hudson delivers a congressional address outlining Federal security priorities for the coming years.
-player_impact: Not specifically mentioned — this is a political report.
-modern_impact: "\"In the last few years we have seen extraordinary threats to our people, from the Thargoids to the NMLA.\" Hudson's speech frames Federal policy around perpetual crisis management, justifying expanded presidential powers."
+entities: []
+arc_id: federal-politics
+modern_impact: '"In the last few years we have seen extraordinary threats to our people, from the Thargoids to the NMLA." Hudson''s speech frames Federal policy around perpetual crisis management, justifying expanded presidential powers.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 49fe8f11-bf29-5aad-a01a-3c8dc80d60df
 - a593babc-119b-5679-9171-3c1520208d98
 - 83d655f9-5cb4-5fb1-baa5-f5c64bb30cbf
-legacy_weight: 5
-significance: high
 ---
-
 
 President Zachary Hudson has delivered a speech to Congress on maintaining security for The Federation in the coming years.
 Excerpts from his address include The following:

@@ -4,6 +4,8 @@ title: Aisling Criticises Imperial Policy
 slug: aisling_criticises_imperial_policy
 date: '3308-09-20'
 source: API
+summary: Princess Aisling Duval criticises Emperor Arissa's isolationist policy after the Battle of HIP 22460, arguing for continued inter-superpower cooperation, while Hadrian Duval unexpectedly supports the Emperor.
+player_impact: Not specifically mentioned — this is a political interview.
 persons:
 - Aisling Duval
 - Hadrian Augustus Duval
@@ -20,12 +22,7 @@ topics:
 - diplomacy
 - war
 arc_id: salvation-azimuth
-summary: Princess Aisling Duval criticises Emperor Arissa's isolationist policy after
-  the Battle of HIP 22460, arguing for continued inter-superpower cooperation, while
-  Hadrian Duval unexpectedly supports the Emperor.
-player_impact: Not specifically mentioned — this is a political interview.
-modern_impact: Aisling's public break with Imperial isolationism positions her as a
-  voice for cross-superpower humanitarian cooperation during the Thargoid war.
+modern_impact: Aisling's public break with Imperial isolationism positions her as a voice for cross-superpower humanitarian cooperation during the Thargoid war.
 legacy_weight: 5
 significance: high
 related_uuids:

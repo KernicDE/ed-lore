@@ -23,9 +23,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Empire Expands into The Pleiades
-
-
 Recent reports indicate that the Empire has expanded into the Pleiades Star cluster, having established a number of outposts In the HR 1185 system. 
 
 Katherine Ryder, a freelance journalist and seasoned war correspondent, commented on the development: 

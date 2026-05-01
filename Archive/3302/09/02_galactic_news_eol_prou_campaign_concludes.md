@@ -17,9 +17,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Eol Prou Campaign Concludes
-
-
 Last month, The 80 DD-D 774-CE-2 faction launched an ambitious four-week initiative to amass material for a new planetary outpost in the Eol Prou RS-T d3-94 system. The campaign was a resounding success, attracting pilots from across the galaxy and resulting in the accumulation of thousands of tonnes of osmium for use in the construction. 
 
 In a statement, the organisation's spokesperson said: 

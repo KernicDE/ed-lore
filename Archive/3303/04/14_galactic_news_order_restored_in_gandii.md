@@ -13,16 +13,13 @@ groups:
 locations:
 - Gandii
 - Lu Hub
-technologies: []
 topics:
 - war
+technologies: []
 modern_impact: The Gandii Justice Party's victory demonstrates how faction warfare can shift system control away from pirate-aligned forces.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Order Restored in Gandii
-
 
 After a period of intense conflict, The Gandii Justice Party has defeated the forces of the Hand Gang of Gandii in the Gandii system. 
 

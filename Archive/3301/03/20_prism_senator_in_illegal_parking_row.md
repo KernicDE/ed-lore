@@ -11,14 +11,10 @@ topics:
 - ship
 - trade
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
 significance: low
 ---
-
-Prism Senator in Illegal Parking Row
-
 
 Returning to Earth at The invitation of The Secretary General, Senator Kahina Tijani Loren’s Imperial Courier was tagged With a fine at Mars High apparently due to activating Its boosters while still within the station. 
 

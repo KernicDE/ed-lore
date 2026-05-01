@@ -22,9 +22,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Genesis of The Thargoids?
-
-
 Professor Cora Shaw, director of the Palin Institute, has published a paper speculating on the origin of the Thargoids. 
 
 Extracts from her paper are reprinted below: 

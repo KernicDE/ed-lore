@@ -24,9 +24,6 @@ related_uuids:
 - b4b88706-40ce-55d9-9c91-d7ed32847318
 ---
 
-Mysteries of The Far God
-
-
 Journalist Gethin Okonkwo has discussed the abandoned Far God cult outposts in the Etain system: 
 
 “During my months undercover as a Far God worshipper, I heard only whispered rumours about secret outposts. So the existence of two such settlements, on Etain 4a and 4c, proves that much remained hidden from me.” 

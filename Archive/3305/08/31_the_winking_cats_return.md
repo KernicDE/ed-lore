@@ -4,30 +4,24 @@ title: The Winking Cat’s Return
 slug: the_winking_cats_return
 date: '3305-08-31'
 source: GitHub
-groups:
-- Alliance
+summary: The notorious art thief Winking Cat resurfaces during the Alliance Festival of Culture in Alioth, returning the long-lost masterpiece 'Penance Street' by Megan Madigan. The artwork vanished in transit 60 years ago.
+player_impact: None
 persons:
 - Daron Warmack
+groups:
+- Alliance
 locations:
 - Alioth
 - Diso
 topics:
 - festival
 - crime
-summary: The notorious art thief Winking Cat resurfaces during the Alliance Festival of
-  Culture in Alioth, returning the long-lost masterpiece 'Penance Street' by Megan Madigan.
-  The artwork vanished in transit 60 years ago.
-player_impact: None
-modern_impact: The Winking Cat's return of stolen art adds to their mystique and provides
-  a cultural highlight for the festival's final weeks.
+modern_impact: The Winking Cat's return of stolen art adds to their mystique and provides a cultural highlight for the festival's final weeks.
 legacy_weight: 2
 significance: low
 related_uuids:
 - 3aff70ec-55de-540f-af20-db881cf820d4
 ---
-
-The Winking Cat’s Return
-
 
 The notorious art thief known As the Winking Cat has resurfaced in The Alioth system during the Alliance Festival of Culture. 
 

@@ -13,19 +13,16 @@ groups:
 locations:
 - Jaques Station
 - Sagittarius A*
-technologies: []
 topics:
 - exploration
 - ship
 - trade
+technologies: []
 arc_id: jaques-station
 modern_impact: Fuel Rats expansion near Jaques Station establishes critical deep-space rescue infrastructure for the Colonia corridor.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Fuel Rats Announce Plans for New Outpost
-
 
 Earlier today, The Fuel Rats Mischief announced plans for an extraction outpost near Jaques Station. 
 

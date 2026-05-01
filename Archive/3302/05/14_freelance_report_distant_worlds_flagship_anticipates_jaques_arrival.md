@@ -15,14 +15,10 @@ topics:
 - exploration
 - ship
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Distant Worlds Flagship Anticipates Jaques' Arrival
-
 
 Preparations are underway for The Distant Worlds Expedition gala at Skvortsov Orbital, but One explorer will be unable to attend: Commander Olivia Vespera, pilot of the expedition's fleet flagship, a Type-9 named Zombie Wasp IV. 
 

@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Appeal for Aid Complete
-
-
 Senator Caspian Leopold has announced that his appeal for aid, in association With the Niflhel Guardians Of Tradition, has been enthusiastically received by The galactic community. Hundreds of pilots supported the initiative by delivering commodities to Biruni Port, and by protecting traders in the Niflhel system. 
 
 A spokesperson for Senator Leopold made The following statement: 

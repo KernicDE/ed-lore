@@ -4,6 +4,8 @@ title: Red Family Leader Surrenders
 slug: red_family_leader_surrenders
 date: '3305-06-29'
 source: GitHub
+summary: Red Family co-founder Jan Sandoval unexpectedly surrenders to the Federal Intelligence Agency and offers to testify against the cartel's leadership, including kingpin Oberon Church.
+player_impact: None — background criminal investigation report.
 persons:
 - Jan Sandoval
 - Viola Trask
@@ -16,8 +18,6 @@ locations:
 topics:
 - crime
 - narcotics
-summary: Red Family co-founder Jan Sandoval unexpectedly surrenders to the Federal Intelligence Agency and offers to testify against the cartel's leadership, including kingpin Oberon Church.
-player_impact: None — background criminal investigation report.
 modern_impact: Sandoval's surrender was a pivotal moment in Federal narcotics enforcement, providing the intelligence foundation for the FIA's subsequent dismantling of the Red Family cartel.
 legacy_weight: 3
 significance: medium
@@ -25,9 +25,6 @@ related_uuids:
 - 5cc87a22-66b8-5398-8bb0-4af0cfef285c
 - 70822119-b954-507b-8900-67a29a9a9f5c
 ---
-
-Red Family Leader Surrenders
-
 
 Jan Sandoval, a known founder of The infamous Red Family drug cartel, has unexpectedly handed herself in to the Federal Intelligence Agency. 
 

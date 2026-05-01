@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-New Prisoner Facilities in Veroklist
-
-
 The Empire has announced plans to construct a new Riker-Class Prison Ship in the Veroklist system. 
 
 Once complete, the ship will house criminals who accepted a period of Imperial slavery in lieu of a jail sentence, but who have proved to be too dangerous or unstable for such corrective punishment. 

@@ -27,9 +27,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Anarchy in Socho
-
-
 The Socho system, headquarters of Aegis Core, has been overtaken by a criminal faction. The system is now In a state of anarchy. 
 
 A courier carrying a message from Aegis scientist Dr Mia Valencourt managed to escape the system. The message was then broadcast by the Rewired news service: 

@@ -24,9 +24,6 @@ related_uuids:
 - e6ca6d67-712e-548b-81a9-9f0126f95678
 ---
 
-Lave Jet Family Campaign Concludes
-
-
 The Lave Jet Family has announced that Its campaign to prevent The Lave Radio Network from broadcasting its annual conference has reached a successful conclusion. Scores of pilots supported the initiative by delivering commodities to construct a signal jammer, thereby preventing Lave Radio from transmitting the conference. 
 
 The Lave Jet Family has extended its gratitude to those who supported the campaign. 

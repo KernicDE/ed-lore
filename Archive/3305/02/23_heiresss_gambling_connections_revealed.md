@@ -4,6 +4,8 @@ title: Heiress's Gambling Connections Revealed
 slug: heiresss_gambling_connections_revealed
 date: '3305-02-23'
 source: GitHub
+summary: Journalist Flint 'Firemaker' Lafosse reveals Lady Talitha Ambrose's long-standing association with the exclusive Jokers' Deck gambling circle, suggesting she may have gambled away the Ambrose fortune rather than being kidnapped.
+player_impact: None — background investigative report.
 persons:
 - Talitha Ambrose
 - Flint Lafosse
@@ -16,8 +18,6 @@ locations:
 topics:
 - crime
 - investigation
-summary: Journalist Flint 'Firemaker' Lafosse reveals Lady Talitha Ambrose's long-standing association with the exclusive Jokers' Deck gambling circle, suggesting she may have gambled away the Ambrose fortune rather than being kidnapped.
-player_impact: None — background investigative report.
 modern_impact: Lafosse's revelation shifted public perception of the Ambrose scandal from kidnapping to gambling addiction, implicating some of the galaxy's wealthiest figures in the secretive Jokers' Deck circle.
 legacy_weight: 2
 significance: low
@@ -25,9 +25,6 @@ related_uuids:
 - fed64831-97d6-53f5-b324-42c3c1649bad
 - ed328697-6674-5272-b1b5-15f62e66f33e
 ---
-
-Heiress's Gambling Connections Revealed
-
 
 Lady Talitha Ambrose, The Missing Ambrose Foundation heiress, has been alleged to have a history of gambling that may explain the sudden loss of her family's entire fortune. 
 

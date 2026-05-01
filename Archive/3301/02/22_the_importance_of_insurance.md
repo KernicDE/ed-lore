@@ -4,22 +4,19 @@ title: The Importance of Insurance
 slug: the_importance_of_insurance
 date: '3301-02-22'
 source: GitHub
-entities:
-- Gui returned home
-- Sheehy
 locations:
 - Always check your rebuy costs in your
 - Sol
 topics:
 - ship
 - war
+entities:
+- Gui returned home
+- Sheehy
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low
 ---
-
-The Importance of Insurance
-
 
 It’s been said before, but it's worth saying again. Remember to set aside credits for your insurance excess. 
 

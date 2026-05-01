@@ -16,9 +16,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Hudson Takes Tour of Brightlight Facilities in Hors
-
-
 Shadow President Hudson, accompanied by Several of Admiral Vincent’s closest aides, received a warm greeting when he visited The Hors system earlier today. The group met With Duke Sanders to discuss the possibility of extending the remit of Brightlight Training’s Federal contracts.  
 
 Representing the gold standard in private training centres, Brightlight offers a variety of educational services to corporations throughout the Federation. With the recent failures in communication between the Commander-in-Chief and her advisors in the Federal Navy, it appears that Admiral Vincent has decided it is long past time for the Navy to update the way Its officers are trained. 

@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Merger Creates Mega-Corporation
-
-
 Two eminent corporations have merged to form One of The largest pharmaceutical companies in the galaxy. 
 
 Allied Medical Industries, based in Alliance space, has united With Neosalve Inc., a conglomerate that supplies medicines to a great Many Independent systems. 

@@ -22,9 +22,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: Presidential Vessel Retired
-
-
 For The past six years, the Federation has used a pair of customised Saud Kruger Narwhal Liners (upgraded variants of the successful Beluga Liner) As the personal vessels of the Federal president. Last year, One of these vessels was lost In a tragic accident. Today, the remaining vessel will be retired. 
 
 Bexley Jones, a spokeswoman for President Zachary Hudson, said: "It is of the utmost importance that the ship bearing the callsign 'Starship One' can function as a mobile base of operations for the president, providing him With everything he needs while off-planet, in addition to offering total safety. Given the Beluga's primary designation as a passenger vessel, we have decided that it is unable meet these demands." 

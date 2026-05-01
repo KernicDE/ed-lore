@@ -4,6 +4,8 @@ title: Thargoids Turn Attention to Inhabited Systems
 slug: thargoids_turn_attention_to_inhabited_systems
 date: '3308-09-12'
 source: API
+summary: Thargoid vessels invade the inhabited systems 42 n Persei, Chun Pindit and Tekkeitjal in a coordinated attack, the first such incursion since the Proteus Wave incident, threatening over seven million people.
+player_impact: Pilots were asked to defend the three systems and could hand in Thargoid combat bonds at Bennington's Rest, Samuda Terminal and Riemann Colony for increased rewards.
 persons:
 - Ernesto Rios
 groups:
@@ -23,15 +25,7 @@ topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-summary: Thargoid vessels invade the inhabited systems 42 n Persei, Chun Pindit and
-  Tekkeitjal in a coordinated attack, the first such incursion since the Proteus Wave
-  incident, threatening over seven million people.
-player_impact: Pilots were asked to defend the three systems and could hand in Thargoid
-  combat bonds at Bennington's Rest, Samuda Terminal and Riemann Colony for increased
-  rewards.
-modern_impact: The invasion of inhabited systems without direct starport attacks signals
-  a tactical evolution in Thargoid strategy, expanding the war beyond HIP 22460 into
-  populated territories.
+modern_impact: The invasion of inhabited systems without direct starport attacks signals a tactical evolution in Thargoid strategy, expanding the war beyond HIP 22460 into populated territories.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -40,7 +34,7 @@ related_uuids:
 - bb92f6c0-0def-564c-9b52-f2f1c75fc853
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Swarms of Thargoid vessels have invaded the 42 n Persei, Chun Pindit and Tekkeitjal systems in an apparently coordinated attack.
 Vox Galactica published this report by field correspondent Ernesto Rios:
 “Since the Thargoids conquered HIP 22460 a month ago, their presence has gradually expanded in all directions. But these are the first inhabited systems to be invaded since the Proteus Wave incident, threatening a combined population of over seven million people.”

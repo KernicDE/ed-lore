@@ -6,20 +6,22 @@ date: '3302-10-01'
 source: GitHub
 summary: An anonymous source revealed that the scandal surrounding former senator Kahina Tijani Loren has awoken latent animosity within the Imperial powerbase, bringing attention to Admiral Denton Patreus, Princess Aisling Duval, and Emperor Arissa Lavigny-Duval.
 player_impact: None
-persons: [Kahina Tijani Loren, Admiral Denton Patreus, Princess Aisling Duval, Emperor Arissa Lavigny-Duval]
+persons:
+- Kahina Tijani Loren
+- Admiral Denton Patreus
+- Princess Aisling Duval
+- Emperor Arissa Lavigny-Duval
 groups: []
-locations: [Achenar]
-technologies: []
+locations:
+- Achenar
 topics:
 - scandal
 - succession
+technologies: []
 modern_impact: The Loren scandal exposes deep factional rifts within the Imperial powerbase that continue to shape Imperial politics.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Acrimony on Achenar
-
 
 An anonymous source has indicated that The scandal surrounding former senator Kahina Tijani Loren has awoken latent animosity within the Imperial powerbase. 
 

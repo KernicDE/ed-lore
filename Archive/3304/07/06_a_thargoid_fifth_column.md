@@ -24,9 +24,6 @@ related_uuids:
 - 84b929de-3fba-59cb-853f-7b88bf76a586
 ---
 
-A Thargoid Fifth Column?
-
-
 Amid growing public mistrust of a fringe sect that worships The Thargoids, a report suggests that the group’s members may be undercover Thargoid agents. 
 
 Independent journalist Flint ‘Firemaker’ Lafosse shared his theories via the Rewired news feed: 

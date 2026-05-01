@@ -4,21 +4,18 @@ title: 'Salvation: Friend or Foe?'
 slug: salvation_friend_or_foe
 date: '3307-09-27'
 source: API
-groups:
-- Aegis
+summary: A resistance movement emerges to sabotage Salvation's efforts, with opponents destroying disguised weapon components rather than delivering them.
+player_impact: Some pilots joined the counter-initiative to destroy Salvation's disguised weapon components, while others supported his anti-xeno efforts.
 persons:
 - Salvation
 - Alexei Keel
+groups:
+- Aegis
 topics:
 - alien contact
 - war
 arc_id: thargoid-contact
-summary: A resistance movement emerges to sabotage Salvation's efforts, with opponents
-  destroying disguised weapon components rather than delivering them.
-player_impact: Some pilots joined the counter-initiative to destroy Salvation's disguised
-  weapon components, while others supported his anti-xeno efforts.
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Thargoid activity fundamentally changes the galactic security landscape and drives anti-xeno defence efforts.
 legacy_weight: 5
 significance: high
 ---

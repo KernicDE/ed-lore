@@ -11,19 +11,15 @@ persons:
 - Commander Jayridium
 groups: []
 locations: []
-technologies: []
 topics:
 - sport
 - war
+technologies: []
 arc_id: salome-conspiracy
-modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster
-  and Federal politics.
+modern_impact: The Salomé conspiracy deepens the mystery surrounding the Antares disaster and Federal politics.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Imperial Commanders Support Salomé
-
 
 Reports have been received from Imperial space that Many Imperial pilots are defying The standing kill-on-sight order on Commander Salomé, also known as Kahina Tijani Loren. The pilots pledging to support the disgraced senator are offering escort services and fuel, and have even promised to reward Other Commanders willing to help. 
 

@@ -7,19 +7,22 @@ source: GitHub
 summary: An antique Cobra Mk III interred at the Tionisla Orbital Graveyard transmitted a repeating sequence of encrypted characters containing the clear-text phrase "The vain queen rides a giraffe that remembers her daughter's hero." Intelligence services of the Alliance, Empire, and Federation are investigating.
 player_impact: None
 persons: []
-groups: [Alliance, Empire, Federation]
-locations: [Tionisla, Tionisla Orbital Graveyard]
-technologies: [Cobra Mk III]
+groups:
+- Alliance
+- Empire
+- Federation
+locations:
+- Tionisla
+- Tionisla Orbital Graveyard
 topics:
 - cyberattack
 - ship
+technologies:
+- Cobra Mk III
 modern_impact: The encrypted beacon transmission remains an unsolved mystery, highlighting ongoing galactic enigmas that predate known contact.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Curious Transmission Partially Decoded
-
 
 In early August, an antique Cobra Mk III was interred at The Tionisla Orbital Graveyard. Shortly before the ship was laid to rest, a beacon aboard the Vessel transmitted a repeating sequence of curious characters. 
 

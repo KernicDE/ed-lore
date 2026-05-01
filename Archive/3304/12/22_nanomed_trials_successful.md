@@ -24,9 +24,6 @@ related_uuids:
 - 79d31e82-72c0-55c6-a4aa-acb8830314f8
 ---
 
-Nanomed Trials Successful
-
-
 Clinical trials for new nanomedicines developed by Vitadyne Labs have delivered outstanding results. 
 
 Observers from The Interstellar Health Organisation summarised: 

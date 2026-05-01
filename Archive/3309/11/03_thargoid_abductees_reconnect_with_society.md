@@ -4,7 +4,11 @@ title: Thargoid Abductees Reconnect with Society
 slug: thargoid_abductees_reconnect_with_society
 date: '3309-11-03'
 source: API
-entities: []
+summary: Aegis reports abductees in quarantine can now receive family visits and comms access, while Azimuth Biotech demands exclusive control over returnee processing.
+player_impact: Pilots are extracting bio-storage capsules from Thargoid motherships at high risk.
+persons:
+- Angela Corcoran
+- Nassim Qadir
 groups:
 - Aegis
 - Alliance
@@ -13,13 +17,9 @@ locations: []
 topics:
 - humanitarian
 - medicine
+entities: []
 arc_id: null
-modern_impact: "Corcoran's reassurance — 'these test results remain negative' — contrasts with Qadir's alarmism — 'they should not be treated like normal people.' Azimuth's proposal for 'exclusive control of processing all those recovered from the Titans' is a blatant power grab. The tension between Aegis's humanitarian approach and Azimuth's opportunism is a recurring theme."
-persons:
-- Angela Corcoran
-- Nassim Qadir
-player_impact: "Pilots are extracting bio-storage capsules from Thargoid motherships at high risk."
-summary: "Aegis reports abductees in quarantine can now receive family visits and comms access, while Azimuth Biotech demands exclusive control over returnee processing."
+modern_impact: Corcoran's reassurance — 'these test results remain negative' — contrasts with Qadir's alarmism — 'they should not be treated like normal people.' Azimuth's proposal for 'exclusive control of processing all those recovered from the Titans' is a blatant power grab. The tension between Aegis's humanitarian approach and Azimuth's opportunism is a recurring theme.
 legacy_weight: 5
 significance: high
 related_uuids:

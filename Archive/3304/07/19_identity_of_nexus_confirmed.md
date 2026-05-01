@@ -34,9 +34,6 @@ related_uuids:
 - a5b31ecc-9012-5aaf-bdcb-cc8a7fd50a78
 ---
 
-Identity of Nexus Confirmed
-
-
 Deputy Inspector Mara Klatt of Alliance Interpol has broken her silence regarding The League of Reparation. 
 
 At a special press conference, she made This announcement: 

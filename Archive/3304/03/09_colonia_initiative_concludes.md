@@ -22,9 +22,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Colonia Initiative Concludes
-
-
 The Colonia Council has announced that Its campaign to build a security installation in the Colonia region has been warmly received by the galactic community. Large quantities of material were delivered to Dove Enigma over the past week, allowing the initiative to move to the construction phase. 
 
 A spokesperson for the Colonia Council, Which is overseeing the campaign, gave The following statement: 

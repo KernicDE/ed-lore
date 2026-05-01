@@ -4,10 +4,10 @@ title: Empire Reaches Out to Marlinists
 slug: empire_reaches_out_to_marlinists
 date: '3308-03-29'
 source: API
-arc_id: nmla-terrorism
+summary: Emperor Arissa proposes reconnecting the Marlinist Colonies with the Empire.
+player_impact: Not specifically mentioned — this is a diplomatic report.
 persons:
 - Arissa Lavigny-Duval
-entities: []
 groups:
 - Imperial Navy
 - Marlinist
@@ -19,9 +19,11 @@ topics:
 - independence
 - succession
 - terrorism
-summary: Emperor Arissa proposes reconnecting the Marlinist Colonies with the Empire.
-player_impact: Not specifically mentioned — this is a diplomatic report.
-modern_impact: "\"Emperor Arissa Lavigny-Duval has outlined a plan for the Marlinist Colonies to be officially reconnected with the Empire.\" The Emperor's outreach to the Marlinists represents a remarkable policy reversal after years of treating them as terrorists."
+entities: []
+arc_id: nmla-terrorism
+modern_impact: '"Emperor Arissa Lavigny-Duval has outlined a plan for the Marlinist Colonies to be officially reconnected with the Empire." The Emperor''s outreach to the Marlinists represents a remarkable policy reversal after years of treating them as terrorists.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 00d01961-877a-52b8-a4ce-337aaa44ae3f
 - b68796e4-4524-597f-af53-35eebba951e0
@@ -33,10 +35,7 @@ related_uuids:
 - e899c6a7-d0d6-5407-a5b7-8a422e4753d7
 - 2ea3fdf7-8814-5eda-9967-368c424dfcb0
 - 37702c1f-2c71-55fb-932e-b8dfeb29d626
-legacy_weight: 5
-significance: high
 ---
-
 
 Emperor Arissa Lavigny-Duval has outlined a plan for The Marlinist Colonies to be officially reconnected With the Empire.
 The Marlin Standard published an exclusive report from Prime Consul Kayode Tau, after he attended a diplomatic meeting on Capitol:

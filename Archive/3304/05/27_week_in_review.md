@@ -44,9 +44,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Terrorist group The League of Reparation has committed three Further murders in Federation space. 

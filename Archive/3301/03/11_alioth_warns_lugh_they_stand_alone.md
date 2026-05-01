@@ -4,8 +4,6 @@ title: Alioth Warns Lugh They Stand Alone
 slug: alioth_warns_lugh_they_stand_alone
 date: '3301-03-11'
 source: GitHub
-entities:
-- Edmund Mahon
 groups:
 - Alliance
 locations:
@@ -15,15 +13,13 @@ topics:
 - independence
 - ship
 - war
+entities:
+- Edmund Mahon
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence
-  through Mahon's trade agreements.
+modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence through Mahon's trade agreements.
 legacy_weight: 3
 significance: medium
 ---
-
-Alioth Warns Lugh They Stand Alone
-
 
 Speaking before a gathering of The Alliance Assembly today, Prime Minister Edmund Mahon has issued a warning to The Crimson State Group that it stands alone in Its opposition to the Federation’s continued governance of Lugh. 
 

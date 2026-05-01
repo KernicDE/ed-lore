@@ -13,17 +13,14 @@ groups:
 locations:
 - Tionisla
 - Syreadiae JX-F c0
-technologies: []
 topics:
 - ship
+technologies: []
 arc_id: raxxla-mystery
 modern_impact: The enduring Raxxla mystery continues to captivate explorers.
 legacy_weight: 2
 significance: low
 ---
-
-Freelance Report: Formidine Rift Discovery
-
 
 A few days ago, a curious message was discovered by The Hamsters, a group of EM-transmission enthusiasts in the Tionisla system. A short time later, a combined effort from the Children of Raxxla and Several Other groups decoded the message and discovered it pointed to the Syreadiae JX-F c0 system in the so-called Formidine Rift. 
 

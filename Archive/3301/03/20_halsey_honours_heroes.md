@@ -4,6 +4,12 @@ title: Halsey Honours Heroes
 slug: halsey_honours_heroes
 date: '3301-03-20'
 source: GitHub
+locations:
+- Hartsfield
+- Lugh
+topics:
+- ship
+- war
 entities:
 - BadBjarne
 - Crownan
@@ -12,21 +18,11 @@ entities:
 - Nightwulf
 - Pablo-Diablo
 - Ranmust
-locations:
-- Hartsfield
-- Lugh
-topics:
-- ship
-- war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3
 significance: medium
 ---
-
-Halsey Honours Heroes
-
 
 Despite The actions of undercover operatives acting on behalf of The Crimson State Group aboard Hartsfield Market, the Federation Continues to dominate the skies of Lugh. 
 

@@ -4,6 +4,8 @@ title: Simguru Offers to Share Tomorrow Today
 slug: simguru_offers_to_share_tomorrow_today
 date: '3301-06-14'
 source: GitHub
+summary: Simguru Pranav Antal addressed rumours of Utopian negotiations with Winters supporters at the original commune in Antal. He praised Sol as humanity's birthplace but described the Federation as an elderly relative unable to guide its children. He invited Federation citizens to study and share in Utopia's abundance, but rejected any formal alliance, stating Utopia would not become tangled in petty politics. He affirmed 'our goods are for sale, but our integrity is not.' Utopia continues seeking large metal supplies delivered to Lobachevsky Station.
+player_impact: Traders can deliver metals to Lobachevsky Station in Antal to supply Utopia's workshops.
 persons:
 - Pranav Antal
 - Felicia Winters
@@ -18,18 +20,11 @@ topics:
 - diplomacy
 - trade
 - technology
-summary: Simguru Pranav Antal addressed rumours of Utopian negotiations with Winters supporters at the original commune in Antal. He praised Sol as humanity's birthplace but described the Federation as an elderly relative unable to guide its children. He invited Federation citizens to study and share in Utopia's abundance, but rejected any formal alliance, stating Utopia would not become tangled in petty politics. He affirmed 'our goods are for sale, but our integrity is not.' Utopia continues seeking large metal supplies delivered to Lobachevsky Station.
-player_impact: Traders can deliver metals to Lobachevsky Station in Antal to supply Utopia's workshops.
 modern_impact: Antal's rejection of political alliances while offering open trade defines Utopia's stance as independent and commercially engaged but politically neutral.
 legacy_weight: 2
 significance: medium
 ---
 
-Simguru Offers to Share Tomorrow Today
-
-
-Simguru Offers to Share Tomorrow Today  
- 
 Simguru Pranav Antal made an appearance at The original Utopian commune in Antal today, to address rumours that The Utopians had entered negotiations to ally themselves With Shadow President Winters’ supporters.  
 
 “It is only right for us to honour what came before us. Sol is the birthplace of Our race, the shining jewel of Our galaxy. At least, it is now that it has been restored to Its former glory.” 

@@ -4,25 +4,21 @@ title: Golconda Receives Vital Aid
 slug: golconda_receives_vital_aid
 date: '3305-11-14'
 source: GitHub
-groups:
-- Upaniklis Vision Incorporated
-- Interstellar Health Organisation
+summary: The initiative to supply the Golconda with essential medicines and materials concludes successfully. The colonists gratefully accept the aid, and early indications suggest the antiviral treatment is halting the "wasting kiss" outbreak.
+player_impact: Pilots who delivered supplies or provided security can collect rewards at Fozard Port in Upaniklis.
 persons:
 - Itsuko Harada
 - Ivan Johansen
+groups:
+- Upaniklis Vision Incorporated
+- Interstellar Health Organisation
 locations:
 - Upaniklis
 topics:
 - medicine
 - ship
 - humanitarian
-summary: The initiative to supply the Golconda with essential medicines and materials concludes
-  successfully. The colonists gratefully accept the aid, and early indications suggest the
-  antiviral treatment is halting the "wasting kiss" outbreak.
-player_impact: Pilots who delivered supplies or provided security can collect rewards at
-  Fozard Port in Upaniklis.
-modern_impact: The successful aid mission establishes trust between the Golconda and the
-  galaxy, paving the way for future cultural exchange.
+modern_impact: The successful aid mission establishes trust between the Golconda and the galaxy, paving the way for future cultural exchange.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -30,9 +26,6 @@ related_uuids:
 - 77f63b7c-170a-56cf-846f-ba1b81cec78c
 - 0b425e04-a017-5e75-b8a3-f9326947de40
 ---
-
-Golconda Receives Vital Aid
-
 
 The initiative in The Upaniklis system to provide the generation ship Golconda With essential supplies has concluded successfully. 
 

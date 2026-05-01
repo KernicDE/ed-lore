@@ -4,7 +4,10 @@ title: Aegis confirm change in Thargoid Strategy
 slug: aegis_confirm_change_in_thargoid_strategy
 date: '3310-07-04'
 source: API
-entities: []
+summary: Aegis confirms the Thargoids have shifted to a more defensive stance, forgoing expansion to prioritise Titan defence and targeting populated systems without scouting. Dr. Jeong-Hui Shing theorises they are gathering data and probing defences.
+player_impact: Pilots are encouraged to take up arms and participate in the defence of forward ports in counterstrike systems around the weakest remaining Titan.
+persons:
+- Jeong-Hui Shing
 groups:
 - Aegis
 locations: []
@@ -12,12 +15,9 @@ topics:
 - alien contact
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Shing's analysis — 'Foregoing expansion to prioritise the defence of their remaining Titans is intelligent, not desperate' — reframes the Thargoid threat from mindless aggression to calculated strategy. His observation that they are 'gathering data. Probing our defences' suggests the Thargoids are learning and adapting. The tactical response — reactivating ports as forward operating bases — shows Aegis adapting in turn."
-persons:
-- Jeong-Hui Shing
-player_impact: "Pilots are encouraged to take up arms and participate in the defence of forward ports in counterstrike systems around the weakest remaining Titan."
-summary: "Aegis confirms the Thargoids have shifted to a more defensive stance, forgoing expansion to prioritise Titan defence and targeting populated systems without scouting. Dr. Jeong-Hui Shing theorises they are gathering data and probing defences."
+modern_impact: Shing's analysis — 'Foregoing expansion to prioritise the defence of their remaining Titans is intelligent, not desperate' — reframes the Thargoid threat from mindless aggression to calculated strategy. His observation that they are 'gathering data. Probing our defences' suggests the Thargoids are learning and adapting. The tactical response — reactivating ports as forward operating bases — shows Aegis adapting in turn.
 legacy_weight: 5
 significance: high
 related_uuids:

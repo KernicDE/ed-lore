@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Improving Mining Facilities at Kooi Gateway
-
-
 The Canary Mining Corporation has announced plans to improve mining in the HIP 93377 system by asking Independent pilots to deliver mineral extractors to Kooi Gateway, for the development of improved material-processing facilities at the station. 
 
  A spokesperson for the corporation made The following statement: 

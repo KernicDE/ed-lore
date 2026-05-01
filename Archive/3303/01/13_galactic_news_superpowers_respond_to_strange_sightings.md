@@ -15,21 +15,18 @@ groups:
 - Empire
 - Federation
 locations: []
-technologies: []
 topics:
 - alien contact
 - diplomacy
 - investigation
 - ship
 - war
+technologies: []
 arc_id: thargoid-contact
 modern_impact: Divergent superpower responses to first Thargoid sightings reveal differing strategic postures toward alien contact.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Superpowers Respond to Strange Sightings
-
 
 Following Several sightings of mysterious spacecraft, The leaders of the galaxy's three superpowers have released official statements. 
 

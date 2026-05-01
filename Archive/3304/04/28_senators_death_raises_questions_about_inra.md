@@ -31,9 +31,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Senator’s Death Raises Questions about INRA
-
-
 The murder of Imperial Senator Nestor Cartesius has led to widespread public speculation, along With an increased interest in the activities of the Intergalactic Naval Reserve Arm. 
 
 Dr Oskar Kincaid, an Alliance historian, examined the backdrop to the case: 

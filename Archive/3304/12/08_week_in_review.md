@@ -43,9 +43,6 @@ related_uuids:
 - 8cc43f3f-da2a-5399-af1a-6a0bd65d1bab
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 Two corporations have merged to form One of The largest pharmaceutical companies in the galaxy. Allied Medical Industries has united With Neosalve Inc. to create Neomedical Industries, Which will sell drugs, equipment and services to both Alliance and independent systems. 

@@ -14,19 +14,16 @@ locations:
 - Maia
 - Merope
 - Pleiades Nebula
-technologies: []
 topics:
 - alien contact
 - investigation
 - ship
+technologies: []
 arc_id: unknown-artefacts
 modern_impact: Admiral Aden Tanner's appointment as Chief of Federal Security establishes the framework for official superpower investigation of Thargoid vessels.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Alien Tsar Makes Statement
-
 
 It has now been Several months since The galaxy's superpowers commented on the mysterious spacecraft seen throughout human-inhabited space. 
 

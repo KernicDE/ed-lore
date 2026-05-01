@@ -20,14 +20,10 @@ topics:
 - research
 - war
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Canonn Launches Outpost Campaign
-
 
 The Canonn Interstellar Research Group has launched a campaign to construct a state-of-the-art research outpost in the Col 285 Sector IX-T d3-43 system to support Its ongoing research into the Unknown Artefacts. As part of This initiative, the organisation has placed an open order for palladium, promising to generously reward pilots who deliver the necessary materials to Thompson Dock in the Varati system. 
 

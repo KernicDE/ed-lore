@@ -50,9 +50,6 @@ related_uuids:
 - 85671224-8822-5716-bb08-0e7ac30ff584
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 An anonymous source has revealed that Maddox Hurd, owner of technology company Herculean Machines, was previously investigated by The Federal Security Service. The source disclosed that Hurd accepted financial contributions from individuals connected to criminal networks when establishing his company. In the wake of the news, a number of Herculean Machines’ corporate investors have withdrawn their support. 

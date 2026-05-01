@@ -60,8 +60,6 @@ related_uuids:
 - 518459bd-b04c-5043-bae8-6aa576f868e5
 - 041680e0-ca6d-5681-8657-65ba736abcde
 ---
-Week in Review
-
 
 Here are This week’s major stories. 
 

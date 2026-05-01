@@ -17,14 +17,10 @@ topics:
 - investigation
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Firefly Fandango Theory Disproven
-
 
 Weeks after Dr Arcanonn shared Commander Engalo's report of a 'firefly fandango' between The Unknown Artefacts and meta-alloys, he has issued This update: 
 

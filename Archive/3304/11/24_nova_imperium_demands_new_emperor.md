@@ -29,9 +29,6 @@ related_uuids:
 - e83ed9a3-d349-5a04-a90a-323cf0cec25c
 ---
 
-Nova Imperium Demands New Emperor
-
-
 Isolationist group Nova Imperium has declared Its intention to install a new Emperor. 
 
 The group’s leader, recently identified as ex-navy admiral Duke Kaeso Mordanticus and known As the Imperator, said: 

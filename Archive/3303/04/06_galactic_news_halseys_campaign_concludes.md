@@ -12,18 +12,15 @@ groups: []
 locations:
 - Dirichlet Orbital
 - Yum Kamcabi
-technologies: []
 topics:
 - construction
 - humanitarian
 - war
+technologies: []
 modern_impact: Halsey's humanitarian campaign establishes her ongoing role as an independent advocate for war refugees outside Federal politics.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Halsey's Campaign Concludes
-
 
 Former Federal President Jasmina Halsey has announced that her campaign to provide relief for those at Dirichlet Orbital has been a resounding success. Hundreds of pilots supported The campaign by eliminating agitators in Yum Kamcabi and delivering supplies to the starport. 
 

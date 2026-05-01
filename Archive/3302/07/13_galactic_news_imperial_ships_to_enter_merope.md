@@ -4,6 +4,13 @@ title: Galactic News  Imperial Ships to Enter Merope
 slug: galactic_news_imperial_ships_to_enter_merope
 date: '3302-07-13'
 source: GitHub
+summary: Following Senator Zemina Torval's criticism of the Federal blockade in Merope, Admiral Denton Patreus announced that an Imperial fleet will be dispatched to the system under his personal command. Patreus did not clarify whether the fleet would engage Federal forces or establish a counter-blockade.
+player_impact: None
+persons:
+- Zemina Torval
+- Admiral Denton Patreus
+groups:
+- Empire
 locations:
 - Capitol
 - Merope
@@ -12,27 +19,13 @@ topics:
 - diplomacy
 - ship
 - war
-arc_id: thargoid-contact
-modern_impact: Signals the Empire's direct military response to Federal expansion
-  in the Pleiades, raising the risk of open superpower conflict over alien resources.
-legacy_weight: 5
-significance: high
-summary: Following Senator Zemina Torval's criticism of the Federal blockade in Merope,
-  Admiral Denton Patreus announced that an Imperial fleet will be dispatched to the
-  system under his personal command. Patreus did not clarify whether the fleet would
-  engage Federal forces or establish a counter-blockade.
-player_impact: None
-persons:
-- Zemina Torval
-- Admiral Denton Patreus
-groups:
-- Empire
 technologies:
 - Federal battlecruiser
+arc_id: thargoid-contact
+modern_impact: Signals the Empire's direct military response to Federal expansion in the Pleiades, raising the risk of open superpower conflict over alien resources.
+legacy_weight: 5
+significance: high
 ---
-
-Galactic News: Imperial Ships to Enter Merope
-
 
 Following a recent statement from Senator Zemina Torval in Which The seasoned politician criticised the deployment of Federal battlecruisers in the Merope system, Admiral Denton Patreus has entered the debate. At a hastily organised press conference on Capitol, Admiral Patreus addressed the Federal intervention: 
 

@@ -17,9 +17,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Freelance Report: The Alien Wreck
-
-
 As Independent pilots flock to the mysterious wreckage in the Pleiades, Many have been speculating on the meaning of the discovery. Some believe the wreck is of Thargoid origin, but that rumour has little evidence to support it. 
 
 One pilot who visited the site shared his opinion: 

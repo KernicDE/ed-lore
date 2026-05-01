@@ -31,9 +31,6 @@ related_uuids:
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
-Ulyanov Arrested
-
-
 Dr Alfred Ulyanov, a leading exotheologian and an authority on The Far God cult, has been apprehended as a suspected Thargoid sympathiser. 
 
 The arrest took place at Dr Ulyanov’s home in the Rana system, where he and his family were taken into custody by the Federal Intelligence Agency. Research materials and computer systems were also removed from the property, According to witnesses. 

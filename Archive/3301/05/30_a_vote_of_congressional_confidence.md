@@ -4,18 +4,15 @@ title: A Vote of Congressional Confidence
 slug: a_vote_of_congressional_confidence
 date: '3301-05-30'
 source: GitHub
-entities:
-- Hudson placed
 locations:
 - Eugene
 - Madison
+entities:
+- Hudson placed
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-A Vote of Congressional Confidence
-
 
 There is blood in The water and The politicians have begun hunting their prey. 
 

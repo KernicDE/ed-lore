@@ -4,7 +4,13 @@ title: Positive Results from Maelstrom Probes
 slug: positive_results_from_maelstrom_probes
 date: '3309-04-27'
 source: API
-entities: []
+summary: Aegis's prototype Thargoid pulse neutralisers successfully protect probes through the Maelstrom energy surge, though contact is lost shortly after; manned testing confirms combat utility.
+player_impact: Not specifically mentioned — this is a research report.
+persons:
+- Alba Tesreau
+- Ram Tah
+- Professor Palin
+- Aden Tanner
 groups:
 - Aegis
 locations:
@@ -16,15 +22,9 @@ topics:
 - exploration
 - research
 - war
+entities: []
 arc_id: thargoid-titan-war
-modern_impact: "Tesreau's scientific explanation — 'unclassified relics recovered from Thargoid surface sites... when receiving a modulated electrical charge, the unclassified relics emitted an energy field on similar frequencies to the Maelstrom's pulse' — is detailed. The loss of probe contact — 'broadcasts from the probes were lost shortly afterwards' — adds mystery. Tanner's practical testing — 'protects against ship system disruption in a similar way to the existing shutdown field neutraliser' — provides tactical information."
-persons:
-- Alba Tesreau
-- Ram Tah
-- Professor Palin
-- Aden Tanner
-player_impact: "Not specifically mentioned — this is a research report."
-summary: "Aegis's prototype Thargoid pulse neutralisers successfully protect probes through the Maelstrom energy surge, though contact is lost shortly after; manned testing confirms combat utility."
+modern_impact: Tesreau's scientific explanation — 'unclassified relics recovered from Thargoid surface sites... when receiving a modulated electrical charge, the unclassified relics emitted an energy field on similar frequencies to the Maelstrom's pulse' — is detailed. The loss of probe contact — 'broadcasts from the probes were lost shortly afterwards' — adds mystery. Tanner's practical testing — 'protects against ship system disruption in a similar way to the existing shutdown field neutraliser' — provides tactical information.
 legacy_weight: 5
 significance: high
 related_uuids:

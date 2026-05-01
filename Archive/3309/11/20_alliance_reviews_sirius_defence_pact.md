@@ -4,7 +4,12 @@ title: Alliance Reviews Sirius Defence Pact
 slug: alliance_reviews_sirius_defence_pact
 date: '3309-11-20'
 source: API
-entities: []
+summary: The Alliance Assembly approves a formal evaluation of the Sirius defence pact, with Kaine attacking Sirius's failures and Glass defending their behind-the-scenes work.
+player_impact: Not specifically mentioned — this is a political report.
+persons:
+- Nakato Kaine
+- Nikolas Glass
+- Edmund Mahon
 groups:
 - Alliance
 - Sirius Corporation
@@ -14,14 +19,9 @@ topics:
 - corporate expansion
 - investigation
 - politics
+entities: []
 arc_id: null
-modern_impact: "Kaine's litany of failures — 'capital ships promised... remain on the drawing board', 'Sirius Navy isn't even engaging' — is a comprehensive indictment. Glass's defence — 'Sirius technicians have retrofitted many ageing ADF ships' — is underwhelming. The Old Worlds Gazette's observation that 'Operation Tyndareus... was over a year ago' underscores the pact's declining returns. Mahon's political pressure to 'abandon his commitment to Sirius' frames the personal cost."
-persons:
-- Nakato Kaine
-- Nikolas Glass
-- Edmund Mahon
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "The Alliance Assembly approves a formal evaluation of the Sirius defence pact, with Kaine attacking Sirius's failures and Glass defending their behind-the-scenes work."
+modern_impact: Kaine's litany of failures — 'capital ships promised... remain on the drawing board', 'Sirius Navy isn't even engaging' — is a comprehensive indictment. Glass's defence — 'Sirius technicians have retrofitted many ageing ADF ships' — is underwhelming. The Old Worlds Gazette's observation that 'Operation Tyndareus... was over a year ago' underscores the pact's declining returns. Mahon's political pressure to 'abandon his commitment to Sirius' frames the personal cost.
 legacy_weight: 5
 significance: high
 related_uuids:

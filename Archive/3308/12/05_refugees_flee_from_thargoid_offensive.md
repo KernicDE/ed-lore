@@ -4,28 +4,24 @@ title: Refugees Flee from Thargoid Offensive
 slug: refugees_flee_from_thargoid_offensive
 date: '3308-12-05'
 source: API
-arc_id: null
+summary: Millions of people are being evacuated from systems that have suffered devastating attacks by Thargoid fleets.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Justine Kemp
 topics:
 - alien contact
 - humanitarian
 - war
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: Millions of people are being evacuated from systems that have suffered devastating
-  attacks by Thargoid fleets.
-modern_impact: '"As per newly established procedures, all contracted transports carrying
-  refugees from systems facing Thargoid invasio..." This perspective highlights the
-  broader stakes and continues to shape contemporary debates.'
+arc_id: null
+modern_impact: '"As per newly established procedures, all contracted transports carrying refugees from systems facing Thargoid invasio..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 68d67987-f586-5c3e-b52e-608926db50ba
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 - 1bc4f61f-b1a2-5e7a-ba56-41659e56ebcb
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - f052748e-b6ee-52c8-9657-75e06d0e3612
-legacy_weight: 5
-significance: high
 ---
 
 Millions of people are being evacuated from systems that have suffered devastating attacks by Thargoid fleets.

@@ -4,26 +4,23 @@ title: Eurybia Blue Mafia Resists Imperial Forces
 slug: eurybia_blue_mafia_resists_imperial_forces
 date: '3306-10-08'
 source: GitHub
-groups:
-- Pilots Federation
-- Eurybia Blue Mafia
-- Keltim Empire League
+summary: The Eurybia Blue Mafia successfully fights off Imperial forces attempting to capture engineer Liz Ryder. Both sides offer rewards to supporting pilots.
+player_impact: Pilots who supported either side can collect rewards at their respective starports.
 persons:
 - Liz Ryder
 - Ana Westergard
 - Rocco Gandara
+groups:
+- Pilots Federation
+- Eurybia Blue Mafia
+- Keltim Empire League
 locations:
 - Eurybia
 topics:
 - terrorism
 - war
 - independence
-summary: The Eurybia Blue Mafia successfully fights off Imperial forces attempting to
-  capture engineer Liz Ryder. Both sides offer rewards to supporting pilots.
-player_impact: Pilots who supported either side can collect rewards at their respective
-  starports.
-modern_impact: The anarchist victory defies Imperial authority and keeps Liz Ryder out
-  of custody.
+modern_impact: The anarchist victory defies Imperial authority and keeps Liz Ryder out of custody.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -31,10 +28,7 @@ related_uuids:
 - ac1ee566-f2a3-5093-9d2a-ba2fe98f7346
 ---
 
-Eurybia Blue Mafia Resists Imperial Forces
-
-
-*Pilots Federation ALERT: For The attention of all Commanders* 
+**Pilots Federation ALERT: For The attention of all Commanders** 
 
 Conflict between Keltim Empire League and Eurybia Blue Mafia in Eurybia has ended. 
 

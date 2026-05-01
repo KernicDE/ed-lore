@@ -20,14 +20,10 @@ topics:
 - exploration
 - research
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Freelance Report: Dr Arcanonn Speculates on Palin's Disappearance
-
 
 Dr Arcanonn of The Canonn Interstellar Research Group has spoken out about the disappearance of Professor Ishmael Palin: 
 

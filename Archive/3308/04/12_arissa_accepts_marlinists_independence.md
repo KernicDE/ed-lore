@@ -4,7 +4,8 @@ title: Arissa Accepts Marlinists’ Independence
 slug: arissa_accepts_marlinists_independence
 date: '3308-04-12'
 source: API
-arc_id: nmla-terrorism
+summary: Emperor Arissa formally recognises the Marlinist Colonies' autonomy with the condition of intelligence collaboration against the NMLA.
+player_impact: Not specifically mentioned — this is a diplomatic report.
 persons:
 - Arissa Lavigny-Duval
 - Kayode Tau
@@ -18,14 +19,13 @@ topics:
 - espionage
 - succession
 - terrorism
-player_impact: Not specifically mentioned — this is a diplomatic report.
-summary: Emperor Arissa formally recognises the Marlinist Colonies' autonomy with the condition of intelligence collaboration against the NMLA.
-modern_impact: "\"However, there was a proviso to Emperor Arissa's acceptance of the decision. She insisted that the Marlinist Colonies must work with the Empire's intelligence agencies to prevent any resurgence of the NMLA or similar terrorist groups.\" The conditional recognition demonstrates how the NMLA threat continued to shape Imperial-Marlinist relations even after the colonies achieved independence."
+arc_id: nmla-terrorism
+modern_impact: '"However, there was a proviso to Emperor Arissa''s acceptance of the decision. She insisted that the Marlinist Colonies must work with the Empire''s intelligence agencies to prevent any resurgence of the NMLA or similar terrorist groups." The conditional recognition demonstrates how the NMLA threat continued to shape Imperial-Marlinist relations even after the colonies achieved independence.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 591b8cea-0c09-5ade-925e-ef43b8011c1e
 - c8ab379b-af61-5fb9-8a8e-ca754524ddb7
-legacy_weight: 5
-significance: high
 ---
 
 Following a referendum by The Marlinist Colonies, Emperor Arissa Lavigny-Duval has formally recognised their autonomous status.

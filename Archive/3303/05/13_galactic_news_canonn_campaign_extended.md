@@ -10,18 +10,15 @@ persons: []
 groups:
 - Canonn Interstellar Research Group
 locations: []
-technologies:
-- Gnosis
 topics:
 - research
 - ship
+technologies:
+- Gnosis
 modern_impact: Extended Canonn campaign for the Gnosis research vessel demonstrates strong community support for independent scientific initiatives.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Canonn Campaign Extended
-
 
 The appeal from the Canonn Interstellar Research Group for materials for a new research Vessel has received an unprecedented level of support. The organisation has therefore decided to extend Its original targets. 
 

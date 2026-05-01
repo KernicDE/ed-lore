@@ -52,9 +52,6 @@ related_uuids:
 - fb63c2c1-0ae1-571e-b259-64552a8d4ba3
 ---
 
-Week in Review
-
-
 Here are This week’s major stories. 
 
 The Alliance Assembly has decided not to adopt President Gibson Kincaid’s proposed changes to the constitution, and has ruled against imbuing the role of president With executive powers. The Assembly has agreed to update the role, however, With the creation of a new non-political department known As the Office of the Alliance President. The presidential term has also been extended to three years. 

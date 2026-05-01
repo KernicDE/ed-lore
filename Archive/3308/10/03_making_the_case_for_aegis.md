@@ -4,7 +4,8 @@ title: Making the Case for Aegis
 slug: making_the_case_for_aegis
 date: '3308-10-03'
 source: API
-arc_id: salvation-azimuth
+summary: A three-day symposium has begun that will outline proposals to reform Aegis, the tri-superpower anti-xeno agency.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Alba Tesreau
 - Angela Corcoran
@@ -26,21 +27,16 @@ topics:
 - diplomacy
 - research
 - war
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: A three-day symposium has begun that will outline proposals to reform Aegis,
-  the tri-superpower anti-xeno agency.
-modern_impact: '"In the aftermath of HIP 22460’s failure to end the war, humanity
-  remains locked in this fight against the Thargoids. ..." This call for collaboration
-  continues to resonate in discussions about superpower unity against the Thargoids.'
+arc_id: salvation-azimuth
+modern_impact: '"In the aftermath of HIP 22460’s failure to end the war, humanity remains locked in this fight against the Thargoids. ..." This call for collaboration continues to resonate in discussions about superpower unity against the Thargoids.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 4e1477c4-93b5-5496-a2b9-86e95c248866
 - 005ebf22-d1c0-50cd-ae57-373efc6bdcde
 - f7438e0e-89eb-5e2d-b974-7147bf67d4b1
 - cbe79040-1b75-50b1-9aad-bc544ff2b6be
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
-legacy_weight: 5
-significance: high
 ---
 
 A three-day symposium has begun that will outline proposals to reform Aegis, the tri-superpower anti-xeno agency.

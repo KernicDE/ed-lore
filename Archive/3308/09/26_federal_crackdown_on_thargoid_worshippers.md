@@ -4,6 +4,8 @@ title: Federal Crackdown on Thargoid Worshippers
 slug: federal_crackdown_on_thargoid_worshippers
 date: '3308-09-26'
 source: API
+summary: The Federal government declares the Order of the Far God a potential enemy of the state, ordering military seizure of hive-chapels, while Shadow President Felicia Winters condemns the crackdown as political scapegoating.
+player_impact: Not specifically mentioned — this is a government policy announcement.
 persons:
 - Felicia Winters
 - Lana Berkovich
@@ -23,13 +25,7 @@ topics:
 - espionage
 - crime
 arc_id: thargoid-contact
-summary: The Federal government declares the Order of the Far God a potential enemy
-  of the state, ordering military seizure of hive-chapels, while Shadow President Felicia
-  Winters condemns the crackdown as political scapegoating.
-player_impact: Not specifically mentioned — this is a government policy announcement.
-modern_impact: The Federal crackdown on the Far God cult marks an escalation in domestic
-  counter-xeno policy, treating religious worship as treason and deepening civil liberties
-  concerns.
+modern_impact: The Federal crackdown on the Far God cult marks an escalation in domestic counter-xeno policy, treating religious worship as treason and deepening civil liberties concerns.
 legacy_weight: 4
 significance: high
 related_uuids:

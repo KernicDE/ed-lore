@@ -4,30 +4,23 @@ title: Freelance Report  Debate over Federal Intervention Continues
 slug: freelance_report_debate_over_federal_intervention_continues
 date: '3302-07-04'
 source: GitHub
-locations:
-- Merope
-topics:
-- war
-arc_id: barnacle-meta-alloy
-modern_impact: Captures the earliest pilot-community polarization over barnacle rights
-  and Federal intervention, a debate that will resurface throughout the Pleiades
-  crisis.
-legacy_weight: 4
-significance: high
-summary: Commanders across the galaxy are divided over the presence of the Federal
-  battle cruiser Thanatos at Merope 2 A, with some supporting the Federation's efforts
-  to conserve barnacles and others condemning the restriction on access to meta-alloys.
+summary: Commanders across the galaxy are divided over the presence of the Federal battle cruiser Thanatos at Merope 2 A, with some supporting the Federation's efforts to conserve barnacles and others condemning the restriction on access to meta-alloys.
 player_impact: None
 persons:
 - Commander BluWolve
 groups:
 - Federation
+locations:
+- Merope
+topics:
+- war
 technologies:
 - Thanatos
+arc_id: barnacle-meta-alloy
+modern_impact: Captures the earliest pilot-community polarization over barnacle rights and Federal intervention, a debate that will resurface throughout the Pleiades crisis.
+legacy_weight: 4
+significance: high
 ---
-
-Freelance Report: Debate over Federal Intervention Continues
-
 
 As the debate rages over The presence of the Federal battle cruiser Thanatos at Merope 2 A, public opinion has reached a crescendo. Commanders throughout the galaxy are weighing in. Is the Federal presence warranted? 
 

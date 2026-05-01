@@ -14,19 +14,16 @@ groups:
 locations:
 - Procyon
 - Cormack Hub
-technologies: []
 topics:
 - construction
 - corporate expansion
 - medicine
 - research
+technologies: []
 modern_impact: Sirius Corporation commits to ending Unknown Artefact disruption of starports through corporate-led research.
 legacy_weight: 2
 significance: low
 ---
-
-Galactic News: Sirius Corporation Campaign Ends
-
 
 A spokesperson for The Sirius Corporation has announced that Its appeal for microresources has been enthusiastically received by The galactic community. Hundreds of pilots responded to the corporation's appeal by delivering unknown fragments, untypical shield scans and aberrant shield pattern analysis to Cormack Hub in the Procyon system. 
 

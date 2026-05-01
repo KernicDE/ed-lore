@@ -4,6 +4,8 @@ title: Report Raises Concerns about Operation Davy Jones
 slug: report_raises_concerns_about_operation_davy_jones
 date: '3301-08-25'
 source: GitHub
+summary: The Stratis Information Group published a study of Operation Davy Jones, the Imperial Navy's conflict with Archon Delaine. The report claims ridding the Pegasi sector of the Kumo Crew is merely a cover for aggressive Imperial expansion into Federation-aligned systems. Analyst Marcus Orrin stated the Imperial Navy has invested too much to simply withdraw after hostilities end, predicting a prolonged occupation. The findings suggest Imperial motives in the Pegasi Pirate War extend beyond anti-piracy.
+player_impact: None
 persons:
 - Driggers
 - Marcus Orrin
@@ -20,18 +22,11 @@ topics:
 - research
 - war
 arc_id: kumo-crew-rise
-summary: The Stratis Information Group published a study of Operation Davy Jones, the Imperial Navy's conflict with Archon Delaine. The report claims ridding the Pegasi sector of the Kumo Crew is merely a cover for aggressive Imperial expansion into Federation-aligned systems. Analyst Marcus Orrin stated the Imperial Navy has invested too much to simply withdraw after hostilities end, predicting a prolonged occupation. The findings suggest Imperial motives in the Pegasi Pirate War extend beyond anti-piracy.
-player_impact: None
 modern_impact: Independent think-tank report questions whether Operation Davy Jones is truly about piracy or is a pretext for Imperial territorial expansion.
 legacy_weight: 3
 significance: medium
 ---
 
-Report Raises Concerns about Operation Davy Jones
-
-
-Report Raises Concerns about Operation Davy Jones 
- 
 The Stratis Information Group, an Independent think-tank of political, defence, and economics analysts, has published an in-depth study of Operation Davy Jones, The ongoing conflict between the Imperial Navy and the forces of Archon Delaine. 
 
 Aside from providing statistics regarding the current Imperial deployment, the report raises concerns about the overall purpose of the operation, stating that: “The current premise of ridding the Pegasi sector of the Kumo Crew is merely a cover for aggressive Imperial expansion into Federation-aligned systems.” 

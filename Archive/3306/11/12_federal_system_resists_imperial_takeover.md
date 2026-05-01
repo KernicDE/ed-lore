@@ -4,20 +4,18 @@ title: Federal System Resists Imperial Takeover
 slug: federal_system_resists_imperial_takeover
 date: '3306-11-12'
 source: GitHub
-groups:
-- LTT 1935 Confederacy
-- L.Y.S Corp
+summary: The Federation successfully maintains control of the LTT 1935 system after a battle against Imperial forces investigating NMLA bomb-making material deliveries.
+player_impact: Federal auxiliaries and independent pilots defended LTT 1935 from Imperial occupation.
 persons:
 - Ernest Harris
 - Axel Cyprian
+groups:
+- LTT 1935 Confederacy
+- L.Y.S Corp
 topics:
 - investigation
 - terrorism
 - war
-summary: The Federation successfully maintains control of the LTT 1935 system after a
-  battle against Imperial forces investigating NMLA bomb-making material deliveries.
-player_impact: Federal auxiliaries and independent pilots defended LTT 1935 from Imperial
-  occupation.
 modern_impact: Federal political developments shape superpower relations.
 legacy_weight: 3
 significance: medium
@@ -25,10 +23,7 @@ related_uuids:
 - c567d3a4-1255-56d4-806c-18850b5c46aa
 ---
 
-Federal System Resists Imperial Takeover
-
-
-*Pilots Federation ALERT* 
+**Pilots Federation ALERT** 
 
 The Federation has successfully maintained control of The LTT 1935 system, following a battle against local Imperial forces. The conflict was caused by an Imperial investigation that traced deliveries of bomb-making materials from This system to an NMLA workshop.  
 

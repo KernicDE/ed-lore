@@ -4,6 +4,11 @@ title: Mystery Of Missing Exobiology Protégé Deepens
 slug: mystery_of_missing_exobiology_protégé_deepens
 date: '3311-09-02'
 source: API
+summary: Professor Frank Raddix's appeal to find missing exobiologist Terri Tora led thousands of pilots to the permit-locked HIP 87621. The October Consortium claimed two megaships in the region were on routine survey and denied knowledge of Tora's whereabouts.
+player_impact: Thousands of pilots participated in the search for Terri Tora, piecing together encrypted comms data across multiple systems to confirm her final location at the permit-locked HIP 87621.
+persons:
+- Terri Tora
+- Frank Raddix
 groups:
 - October Consortium
 locations:
@@ -11,14 +16,9 @@ locations:
 topics:
 - research
 - investigation
-arc_id: hip87621-conflict
-persons:
-- Terri Tora
-- Frank Raddix
 technologies: []
-player_impact: "Thousands of pilots participated in the search for Terri Tora, piecing together encrypted comms data across multiple systems to confirm her final location at the permit-locked HIP 87621."
-summary: "Professor Frank Raddix's appeal to find missing exobiologist Terri Tora led thousands of pilots to the permit-locked HIP 87621. The October Consortium claimed two megaships in the region were on routine survey and denied knowledge of Tora's whereabouts."
-modern_impact: "Professor Raddix's three questions — why is access restricted, who operates the permit, and what did Terri find — frame the narrative that drives the entire HIP 87621 arc. The October Consortium's claim of a 'routine survey expedition' becomes less credible with each new revelation, culminating in Lexi October's October 3311 admission that the Consortium has controlled the system for over a decade."
+arc_id: hip87621-conflict
+modern_impact: Professor Raddix's three questions — why is access restricted, who operates the permit, and what did Terri find — frame the narrative that drives the entire HIP 87621 arc. The October Consortium's claim of a 'routine survey expedition' becomes less credible with each new revelation, culminating in Lexi October's October 3311 admission that the Consortium has controlled the system for over a decade.
 legacy_weight: 4
 significance: high
 related_uuids:

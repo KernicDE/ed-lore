@@ -14,17 +14,14 @@ groups:
 locations:
 - Merope
 - Maia
-technologies: []
 topics:
 - war
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: The Merope conflict demonstrates how Federal-Imperial proxy warfare shifts between systems in the Pleiades region.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Federal-Imperial Conflict in Merope
-
 
 Authorities in The Merope system have reported conflict between the Pleiades Resource Enterprise, a Federal organisation, and the Merope Expeditionary Fleet, an Imperial organisation. The clash represents the latest development in the ongoing proxy war between the Empire and the Federation. 
 

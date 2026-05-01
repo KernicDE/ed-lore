@@ -16,21 +16,17 @@ groups:
 locations:
 - Pleiades Nebula
 - Merope
-technologies:
-- Majestic-class Interdictor
-- meta-alloys
 topics:
 - alien contact
 - war
+technologies:
+- Majestic-class Interdictor
+- meta-alloys
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Empire Pulls Out of Pleiades
-
 
 In The wake of reports that the Federation has withdrawn from the Pleiades Nebula, Authorities in the region have confirmed that the Empire has followed suit. The development, predicted by Many, appears to signal the end of the Federal-Imperial cold war. 
 

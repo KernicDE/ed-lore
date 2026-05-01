@@ -4,20 +4,20 @@ title: Zorgon Peterson Event Reveals New Exploration Vessel
 slug: zorgon_peterson_event_reveals_new_exploration_vessel
 date: '3310-10-15'
 source: API
+summary: Zorgon Peterson unveils the Mandalay, its first new vessel in six years, designed as a premium medium-sized exploration craft with SCO frame shift drive support.
+player_impact: Not specifically mentioned — this is a ship announcement article.
+persons:
+- Devin Kaneda
 groups:
 - Faulcon DeLacy
 - Zorgon Peterson
 topics:
 - exploration
 - ship
-modern_impact: "Kaneda's framing — 'With the Mamba... speed. With the Fer-de-Lance... military design. Now with the Mandalay... premium exploration' — establishes Zorgon Peterson's brand strategy of dominating niche markets. The mention of Faulcon DeLacy's interest hints at corporate rivalry that will become significant."
-persons:
-- Devin Kaneda
 technologies:
 - Mandalay
 - SCO frame shift drive
-player_impact: "Not specifically mentioned — this is a ship announcement article."
-summary: "Zorgon Peterson unveils the Mandalay, its first new vessel in six years, designed as a premium medium-sized exploration craft with SCO frame shift drive support."
+modern_impact: Kaneda's framing — 'With the Mamba... speed. With the Fer-de-Lance... military design. Now with the Mandalay... premium exploration' — establishes Zorgon Peterson's brand strategy of dominating niche markets. The mention of Faulcon DeLacy's interest hints at corporate rivalry that will become significant.
 legacy_weight: 2
 significance: low
 related_uuids:

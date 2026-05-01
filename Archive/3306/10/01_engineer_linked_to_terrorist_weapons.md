@@ -4,28 +4,24 @@ title: Engineer Linked to Terrorist Weapons
 slug: engineer_linked_to_terrorist_weapons
 date: '3306-10-01'
 source: GitHub
+summary: The Imperial Internal Security Service links explosives used in terrorist attacks on Imperial starports to engineer Liz Ryder, protected by the Eurybia Blue Mafia. The IISS declares war on the anarchist faction to capture her.
+player_impact: Pilots were asked to support the Keltim Empire League against the Eurybia Blue Mafia.
+persons:
+- Liz Ryder
+- Ana Westergard
+- Rocco Gandara
 groups:
 - Imperial Internal Security Service
 - Pilots Federation
 - Eurybia Blue Mafia
 - Keltim Empire League
-persons:
-- Liz Ryder
-- Ana Westergard
-- Rocco Gandara
 locations:
 - Eurybia
 topics:
 - terrorism
 - war
 - engineering
-summary: The Imperial Internal Security Service links explosives used in terrorist attacks
-  on Imperial starports to engineer Liz Ryder, protected by the Eurybia Blue Mafia.
-  The IISS declares war on the anarchist faction to capture her.
-player_impact: Pilots were asked to support the Keltim Empire League against the Eurybia
-  Blue Mafia.
-modern_impact: Liz Ryder's connection to NMLA explosives becomes a major plot point in
-  the Imperial counter-terrorism campaign.
+modern_impact: Liz Ryder's connection to NMLA explosives becomes a major plot point in the Imperial counter-terrorism campaign.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -33,10 +29,7 @@ related_uuids:
 - ac1ee566-f2a3-5093-9d2a-ba2fe98f7346
 ---
 
-Engineer Linked to Terrorist Weapons
-
-
-*Pilots Federation ALERT: For The attention of all Commanders* 
+**Pilots Federation ALERT: For The attention of all Commanders** 
 
 Conflict between Keltim Empire League and Eurybia Blue Mafia in the Eurybia system. 
 

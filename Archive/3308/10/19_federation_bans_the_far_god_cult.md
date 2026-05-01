@@ -4,7 +4,8 @@ title: Federation Bans the Far God Cult
 slug: federation_bans_the_far_god_cult
 date: '3308-10-19'
 source: API
-arc_id: null
+summary: President Hudson has approved a congressional bill to make the Order of the Far God illegal within all Federal systems.
+player_impact: This article focuses on political and strategic developments without direct pilot involvement.
 persons:
 - Felicia Winters
 - Lana Berkovich
@@ -14,21 +15,16 @@ topics:
 - crime
 - espionage
 - festival
-player_impact: This article focuses on political and strategic developments without
-  direct pilot involvement.
-summary: President Hudson has approved a congressional bill to make the Order of the
-  Far God illegal within all Federal systems.
-modern_impact: '"The Thargoids are categorised as an enemy of the state, and the Federal
-  Accord forbids any citizen from providing aid..." Federal political maneuvering
-  illustrates the struggle to balance civil liberties with wartime imperatives.'
+arc_id: null
+modern_impact: '"The Thargoids are categorised as an enemy of the state, and the Federal Accord forbids any citizen from providing aid..." Federal political maneuvering illustrates the struggle to balance civil liberties with wartime imperatives.'
+legacy_weight: 4
+significance: high
 related_uuids:
 - d13f9e74-42b1-59d1-a7d0-33adf8d04246
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
 - b732f29c-e035-57f4-a102-dd4fe86446fb
 - b6b43833-9bdc-552c-b2f9-cd90f35ea2de
 - 65a5afae-1ea4-5228-9d0c-31571eecf333
-legacy_weight: 4
-significance: high
 ---
 
 President Hudson has approved a congressional bill to make the Order of the Far God illegal within all Federal systems.

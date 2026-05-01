@@ -16,9 +16,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Torval Handles The Help in Synteini
-
-
 Corporations operating under The direction of Senator Zemina Torval have been making waves throughout the Empire This week, as shipments of unregulated slaves continue to pour into Imperially -sanctioned slave training centres in Synteini. 
 
 Despite the questionable legal nature of the Senator’s import operations, the Senate has so Far elected to not address the issue at any officially held quorum. 

@@ -24,9 +24,6 @@ related_uuids:
 - 041680e0-ca6d-5681-8657-65ba736abcde
 ---
 
-Refugee Centre Initiative
-
-
 Due to heightened military action In The core systems, Senator Caspian Leopold has launched an initiative to construct a rehabilitation centre for those affected by the ongoing conflict. 
 
 A spokesperson for Senator Leopold gave The following statement to the media: 

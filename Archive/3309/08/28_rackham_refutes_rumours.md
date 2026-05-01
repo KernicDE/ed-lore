@@ -4,6 +4,11 @@ title: Rackham Refutes Rumours
 slug: rackham_refutes_rumours
 date: '3309-08-28'
 source: API
+summary: Zachary Rackham denies being 'Calico Zack' and threatens legal action against Bryanna Blanco, while Blanco hires Wallglass to find irrefutable proof.
+player_impact: Not specifically mentioned — this is a political and media report.
+persons:
+- Zachary Rackham
+- Bryanna Blanco
 groups:
 - Federal Times
 - Wallglass
@@ -15,12 +20,7 @@ topics:
 - investigation
 - piracy
 - scandal
-modern_impact: "Rackham's interview — 'I've always been highly amused by these stories... No doubt they've helped boost sales of The Federal Times' — is dismissive. His legal threat is standard. Blanco's response — 'Rackham does have one genuine talent: covering his tracks... I've turned to the professionals' — shows determination. Her closing — 'if I'm proved wrong, then Calico Zack can take his shot at stealing the entire Federation' — is dramatic."
-persons:
-- Zachary Rackham
-- Bryanna Blanco
-player_impact: "Not specifically mentioned — this is a political and media report."
-summary: "Zachary Rackham denies being 'Calico Zack' and threatens legal action against Bryanna Blanco, while Blanco hires Wallglass to find irrefutable proof."
+modern_impact: 'Rackham''s interview — ''I''ve always been highly amused by these stories... No doubt they''ve helped boost sales of The Federal Times'' — is dismissive. His legal threat is standard. Blanco''s response — ''Rackham does have one genuine talent: covering his tracks... I''ve turned to the professionals'' — shows determination. Her closing — ''if I''m proved wrong, then Calico Zack can take his shot at stealing the entire Federation'' — is dramatic.'
 legacy_weight: 2
 significance: low
 related_uuids:

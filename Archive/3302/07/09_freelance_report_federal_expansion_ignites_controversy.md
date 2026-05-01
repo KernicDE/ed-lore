@@ -4,20 +4,7 @@ title: Freelance Report  Federal Expansion Ignites Controversy
 slug: freelance_report_federal_expansion_ignites_controversy
 date: '3302-07-09'
 source: GitHub
-topics:
-- alien contact
-- research
-- ship
-- war
-arc_id: thargoid-contact
-modern_impact: Amplifies pilot suspicion of Federal secrecy regarding alien discoveries,
-  a theme that will resurface as more Thargoid evidence emerges.
-legacy_weight: 5
-significance: high
-summary: A Federal Naval Reserve commander has expressed concerns that the Federation's
-  expansion into the Pleiades Nebula is motivated by a desire to conceal evidence
-  of non-human entities. He cited the history of Unknown Artefacts and Unknown Probes
-  falling from Federation vessels and called for greater transparency.
+summary: A Federal Naval Reserve commander has expressed concerns that the Federation's expansion into the Pleiades Nebula is motivated by a desire to conceal evidence of non-human entities. He cited the history of Unknown Artefacts and Unknown Probes falling from Federation vessels and called for greater transparency.
 player_impact: None
 persons:
 - Commander Corlas
@@ -25,11 +12,17 @@ groups:
 - Federation
 - Federal Naval Reserve
 locations: []
+topics:
+- alien contact
+- research
+- ship
+- war
 technologies: []
+arc_id: thargoid-contact
+modern_impact: Amplifies pilot suspicion of Federal secrecy regarding alien discoveries, a theme that will resurface as more Thargoid evidence emerges.
+legacy_weight: 5
+significance: high
 ---
-
-Freelance Report: Federal Expansion Ignites Controversy
-
 
 The announcement of Federal plans to expand into the Pleiades Nebula, and the Federation's call for the support of Independent pilots, has ignited a firestorm of controversy. Although there is support for the Federation's goals, Many have expressed reservations. 
 

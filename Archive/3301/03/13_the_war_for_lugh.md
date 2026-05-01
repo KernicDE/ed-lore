@@ -14,14 +14,10 @@ topics:
 - independence
 arc_id: lugh-independence
 arc_chapter: War declared
-modern_impact: The Lugh independence movement challenges Federal authority and tests
-  the Alliance's non-intervention principles.
+modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 4
 significance: high
 ---
-
-The War for Lugh
-
 
 President Halsey has today officially declared war on The Crimson State Group. 
 

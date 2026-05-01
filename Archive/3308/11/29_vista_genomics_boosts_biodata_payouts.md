@@ -4,7 +4,8 @@ title: Vista Genomics Boosts Biodata Payouts
 slug: vista_genomics_boosts_biodata_payouts
 date: '3308-11-29'
 source: API
-arc_id: null
+summary: The exobiology company Vista Genomics has increased payments for genetic data collected by independent pilots.
+player_impact: Independent pilots were encouraged to collect and submit genetic data samples.
 persons:
 - Klaus-Peter Sonnek
 groups:
@@ -18,24 +19,19 @@ topics:
 - corporate expansion
 - research
 - war
-player_impact: Independent pilots were encouraged to collect and submit genetic data
-  samples.
-summary: The exobiology company Vista Genomics has increased payments for genetic
-  data collected by independent pilots.
-modern_impact: '"Public and corporate interest in xenology-related fields remains
-  high, but recent Thargoid aggression has increased t..." This perspective highlights
-  the broader stakes and continues to shape contemporary debates.'
+arc_id: null
+modern_impact: '"Public and corporate interest in xenology-related fields remains high, but recent Thargoid aggression has increased t..." This perspective highlights the broader stakes and continues to shape contemporary debates.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - f2680020-36ae-554f-ae92-3a367a9f1d23
 - 9d88d95b-e2d8-5107-bb42-666da4ea00bf
 - 56d06164-e5b6-59b9-ae17-1ddf24d0faf6
 - c45ebc1d-95b6-5134-a0de-b08c6f710fe7
 - bd5a1074-4db4-556d-bd6d-4207d963ce10
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The exobiology company Vista Genomics has increased payments for genetic data collected by independent pilots.
 Dr Klaus-Peter Sonnek , one of the corporation’s research directors, outlined the changes in a press release:
 “Public and corporate interest in xenology-related fields remains high, but recent Thargoid aggression has increased the risk in collecting of such data. Vista Genomics is well-placed to incentivise the continued collection of samples. Therefore, we can officially confirm that substantially improved financial rewards will be offered for all genetic data submitted via our outlets.”

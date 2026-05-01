@@ -4,8 +4,6 @@ title: President Orders Strike on Federal Refugees
 slug: president_orders_strike_on_federal_refugees
 date: '3301-03-23'
 source: GitHub
-entities:
-- President Jasmina Halsey
 groups:
 - Federal Congress
 - Federal Navy
@@ -15,16 +13,14 @@ topics:
 - war
 - politics
 - humanitarian
+entities:
+- President Jasmina Halsey
 arc_id: halsey-presidency
 arc_chapter: Halsey strikes refugees
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
+modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
 legacy_weight: 5
 significance: high
 ---
-
-President Orders Strike on Federal Refugees
-
 
 Disaster struck in Lugh today, following orders given by President Halsey demanding that Federal pilots attack and destroy an unarmed refugee convoy as it fled from The fighting around Lugh 6. It is estimated that 9,322 innocent Federal civilians lost their lives in The attack. 
 

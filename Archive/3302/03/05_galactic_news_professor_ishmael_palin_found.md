@@ -21,14 +21,10 @@ topics:
 - humanitarian
 - research
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Professor Ishmael Palin Found
-
 
 Last week, The Orulas system was the site of a combat operation designed to eliminate the Blue Hang Gang, a ruthless criminal organisation. One of the operation's objectives was to recover the escape pods the criminals were transporting through the system. Thanks to the brave pilots who supported the initiative, the objective was successfully completed, and the recovered pods were delivered to Wilkes Orbital. 
 

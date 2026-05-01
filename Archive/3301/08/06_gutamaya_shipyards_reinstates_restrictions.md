@@ -4,26 +4,21 @@ title: Gutamaya Shipyards Reinstates Restrictions
 slug: gutamaya_shipyards_reinstates_restrictions
 date: '3301-08-06'
 source: GitHub
+summary: Gutamaya Shipyards has reinstated default rank-related restrictions on the Imperial Clipper and Imperial Courier following the Emperor's assassination. Last month, the restrictions were temporarily lifted allowing any pilot with active Imperial Navy rank to purchase the vessels. The offer has now been withdrawn.
+player_impact: Pilots seeking to purchase the Imperial Clipper or Imperial Courier must now meet the standard rank requirements in the Imperial Navy. The temporary unrestricted access period has ended.
 groups:
 - Gutamaya Shipyards
 - Imperial Navy
 locations:
 - Capitol
+topics:
+- ship
 technologies:
 - Imperial Clipper
 - Imperial Courier
-topics:
-- ship
-summary: Gutamaya Shipyards has reinstated default rank-related restrictions on the Imperial Clipper and Imperial Courier following the Emperor's assassination. Last month, the restrictions were temporarily lifted allowing any pilot with active Imperial Navy rank to purchase the vessels. The offer has now been withdrawn.
-player_impact: Pilots seeking to purchase the Imperial Clipper or Imperial Courier must now meet the standard rank requirements in the Imperial Navy. The temporary unrestricted access period has ended.
 modern_impact: Ship availability change affecting Imperial Navy pilots following the Emperor's death.
 legacy_weight: 1
 significance: low
 ---
 
-Gutamaya Shipyards Reinstates Restrictions
-
-
-Gutamaya Shipyards Reinstates Restrictions 
- 
 Last month, Gutamaya Shipyards temporarily lifted The rank-related restrictions on The Imperial Clipper and Imperial Courier, thereby allowing any Independent pilot With an active rank in the Imperial Navy to purchase and fly One of the vessels. Following news of the Emperor’s assassination, however, Gutamaya Shipyards has decided to withdraw This offer, and to reinstate the default restrictions on all their ships.

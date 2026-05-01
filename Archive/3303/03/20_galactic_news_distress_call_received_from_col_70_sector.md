@@ -11,17 +11,14 @@ persons:
 groups: []
 locations:
 - Col 70 Sector
-technologies:
-- Cobra
 topics:
 - ship
+technologies:
+- Cobra
 modern_impact: None
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Distress Call Received from Col 70 Sector
-
 
 Recent reports indicate that a garbled distress call from somewhere in The Col 70 sector has been received. The news has been met With Surprise from some quarters, given that permit restrictions have made the sector relatively inaccessible. 
 

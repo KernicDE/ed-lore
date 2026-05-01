@@ -20,9 +20,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Federal-Imperial Conflict in Mu Koji
-
-
 Security operatives in Mu Koji have reported that The Empire and Federation have launched rival military operations in the system. 
 
 Both superpowers have fleets stationed in Mu Koji, and both have launched attacks against these convoys With the aim of securing valuable enemy intelligence.  

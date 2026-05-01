@@ -12,14 +12,10 @@ topics:
 - slavery
 - war
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist
-  policies.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
 legacy_weight: 3
 significance: medium
 ---
-
-The War for Falisci
-
 
 Senator Patreus and The Citizens of Tradition have been successful in their crusade against the Falisci Purple Gang. Falisci has fallen to Imperial forces and is currently in the process of being assimilated into Imperial society.  
 

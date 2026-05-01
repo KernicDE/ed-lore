@@ -23,8 +23,6 @@ significance: low
 related_uuids:
 - db044a6e-332e-5023-8f20-a1c27974d897
 ---
-Restoring Order in Fousang
-
 
 Security forces in The Fousang system are reporting that criminal organisations in the area are executing more frequent and audacious raids on civilian traffic.  
 

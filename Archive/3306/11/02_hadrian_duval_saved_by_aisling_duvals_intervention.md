@@ -4,28 +4,22 @@ title: Hadrian Duval Saved by Aisling Duval’s Intervention
 slug: hadrian_duval_saved_by_aisling_duvals_intervention
 date: '3306-11-02'
 source: GitHub
-groups:
-- Nova Imperium
+summary: Princess Aisling Duval intervenes to save Imperator Hadrian Duval after an NMLA assassination attempt, transporting him aboard the INV Achenar's Courage for advanced medical treatment.
+player_impact: None
 persons:
 - Aisling Duval
 - Hadrian Augustus Duval
 - Leo Magnus
+groups:
+- Nova Imperium
 topics:
 - investigation
 - terrorism
 arc_id: nova-imperium
-summary: Princess Aisling Duval intervenes to save Imperator Hadrian Duval after an
-  NMLA assassination attempt, transporting him aboard the INV Achenar's Courage for advanced
-  medical treatment.
-player_impact: None
-modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and
-  creates a schism in Imperial politics.
+modern_impact: The Nova Imperium movement challenges Emperor Arissa's legitimacy and creates a schism in Imperial politics.
 legacy_weight: 4
 significance: high
 ---
-
-Hadrian Duval Saved by Aisling Duval’s Intervention
-
 
 Princess Aisling Duval has provided lifesaving aid to Imperator Hadrian Augustus Duval, who was severely wounded by NMLA terrorists. 
 

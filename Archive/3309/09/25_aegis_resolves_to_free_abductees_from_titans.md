@@ -4,6 +4,12 @@ title: Aegis Resolves to Free Abductees from Titans
 slug: aegis_resolves_to_free_abductees_from_titans
 date: '3309-09-25'
 source: API
+summary: Aegis confirms human life-signs on all Titans and accelerates development of modified sub-surface extraction missiles based on Sirius Corporation blueprints.
+player_impact: Not specifically mentioned — this is a research and development report.
+persons:
+- Ivano Colombera
+- Aden Tanner
+- Li Yong-Rui
 groups:
 - Aegis
 - Sirius Corporation
@@ -13,13 +19,7 @@ topics:
 - humanitarian
 - war
 arc_id: thargoid-titan-war
-modern_impact: "Colombera's explanation — 'a blueprint that repurposes sub-surface displacement missiles... originally designed to extract mineral deposits from within asteroids' — shows the creative engineering. Tanner's caution — 'these missiles are intended for minerals not people, and Thargoid technology is poorly understood' — is appropriately measured. The decision to proceed despite risks reflects the moral urgency."
-persons:
-- Ivano Colombera
-- Aden Tanner
-- Li Yong-Rui
-player_impact: "Not specifically mentioned — this is a research and development report."
-summary: "Aegis confirms human life-signs on all Titans and accelerates development of modified sub-surface extraction missiles based on Sirius Corporation blueprints."
+modern_impact: Colombera's explanation — 'a blueprint that repurposes sub-surface displacement missiles... originally designed to extract mineral deposits from within asteroids' — shows the creative engineering. Tanner's caution — 'these missiles are intended for minerals not people, and Thargoid technology is poorly understood' — is appropriately measured. The decision to proceed despite risks reflects the moral urgency.
 legacy_weight: 4
 significance: high
 related_uuids:

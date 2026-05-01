@@ -4,7 +4,8 @@ title: Additional Services Planned for Colonia Bridge
 slug: additional_services_planned_for_colonia_bridge
 date: '3308-02-17'
 source: API
-arc_id: null
+summary: Brewer Corporation requests further deliveries to add services to Colonia Bridge starports.
+player_impact: Pilots were asked to deliver additional commodities to expand Colonia Bridge starport facilities.
 groups:
 - Brewer Corporation
 - Universal Cartographics
@@ -16,15 +17,13 @@ topics:
 - exploration
 - humanitarian
 - war
-summary: Brewer Corporation requests further deliveries to add services to Colonia Bridge starports.
-player_impact: Pilots were asked to deliver additional commodities to expand Colonia Bridge starport facilities.
-modern_impact: "\"Brewer Corporation has requested a new batch of deliveries to the Alcor and Colonia systems.\" The phased expansion of Colonia Bridge services illustrates the iterative nature of deep-space infrastructure development."
+arc_id: null
+modern_impact: '"Brewer Corporation has requested a new batch of deliveries to the Alcor and Colonia systems." The phased expansion of Colonia Bridge services illustrates the iterative nature of deep-space infrastructure development.'
 legacy_weight: 3
 significance: medium
 ---
 
-
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Brewer Corporation has requested a new batch of deliveries to The Alcor and Colonia systems.
 The Colonia Bridge is comprised of 56 stationary megaships and six starports, providing facilities to travellers between the core systems and the Colonia region. However, the starports are still In a state of construction.
 The megacorp outlined Its latest requirements in a press release:

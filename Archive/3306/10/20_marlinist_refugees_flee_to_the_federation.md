@@ -4,13 +4,15 @@ title: Marlinist Refugees Flee to the Federation
 slug: marlinist_refugees_flee_to_the_federation
 date: '3306-10-20'
 source: GitHub
-groups:
-- Alliance
+summary: The Empire demands extradition of Marlinist refugees who fled to Federation space. Federal Ambassador Rochester requests Congress grant them asylum. Prime Minister Mahon confirms Alliance welcome. Some independent systems offer assistance.
+player_impact: None
 persons:
 - Imogen Luciana
 - Jordan Rochester
 - Edmund Mahon
 - Aisling Duval
+groups:
+- Alliance
 locations:
 - Charunder
 - Ennead
@@ -23,12 +25,7 @@ topics:
 - humanitarian
 - terrorism
 - war
-summary: The Empire demands extradition of Marlinist refugees who fled to Federation space.
-  Federal Ambassador Rochester requests Congress grant them asylum. Prime Minister Mahon
-  confirms Alliance welcome. Some independent systems offer assistance.
-player_impact: None
-modern_impact: The refugee crisis escalates into an inter-superpower diplomatic dispute
-  over extradition and asylum.
+modern_impact: The refugee crisis escalates into an inter-superpower diplomatic dispute over extradition and asylum.
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -37,9 +34,6 @@ related_uuids:
 - 8492d17d-2813-5b47-9b39-485a2ef6ed98
 - 5d9ab4ba-65c3-50f9-9c27-cfbc9bd2f078
 ---
-
-Marlinist Refugees Flee to The Federation
-
 
 The Empire has formally demanded that the Federation extradites all Marlinist political refugees that have fled into their space. 
 

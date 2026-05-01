@@ -15,18 +15,15 @@ locations:
 - California Nebula
 - Tshang City
 - Furuhjelm III-674
-technologies: []
 topics:
 - construction
 - research
+technologies: []
 arc_id: alliance-expansion
 modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence through deep-space outpost construction.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goals: Alliance to Build New Outpost
-
 
 Alliance Prime Minister Edmund Mahon has announced plans to construct a planetary outpost in The California Nebula. In a statement, Mahon explained that the new outpost would serve as a centre for xenobiological and astronomical research. He went on to say: 
 

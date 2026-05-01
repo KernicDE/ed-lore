@@ -9,18 +9,14 @@ player_impact: Gather conductive fabrics for your chosen faction in the final Wi
 persons: []
 groups: []
 locations: []
-technologies: []
 topics:
 - sport
 - trade
-modern_impact: Community competitive event demonstrating the power of organised player
-  factions in shaping galactic politics.
+technologies: []
+modern_impact: Community competitive event demonstrating the power of organised player factions in shaping galactic politics.
 legacy_weight: 1
 significance: low
 ---
-
-Community Goal: Final Stage of Wildcard Competition
-
 
 With the second stage of The Dangerous Games Wildcard competition complete, the third and final stage can now begin. 
 

@@ -4,6 +4,11 @@ title: Titan Cocijo Devastates Sol System
 slug: titan_cocijo_devastates_sol_system
 date: '3310-12-05'
 source: API
+summary: Titan Cocijo arrives in Sol orbit around Earth, unleashing a devastating assault that knocks out most ports, destroys two Farragut battlecruisers, and triggers a massive refugee crisis across 16 systems.
+player_impact: Pilots fought Thargoid forces in Sol and 16 other assaulted systems alongside Federal AX forces. Thousands of AX fleet vessels were lost in the initial conflict.
+persons:
+- Aden Tanner
+- Felicia Winters
 groups:
 - Aegis
 locations:
@@ -15,16 +20,11 @@ topics:
 - alien contact
 - humanitarian
 - war
-arc_id: thargoid-titan-war
-modern_impact: "Tanner's framing — 'The Thargoids have made their final attempt at checkmate' — positions the Battle for Sol as the decisive endgame of the Second Thargoid War. The destruction of FNS Nero and FNS Erebus demonstrates that even the Federation's most powerful warships are vulnerable to Titan-led assaults, a lesson that drives post-war military reform."
-persons:
-- Aden Tanner
-- Felicia Winters
 technologies:
 - Titan Cocijo
 - Farragut battlecruiser
-player_impact: "Pilots fought Thargoid forces in Sol and 16 other assaulted systems alongside Federal AX forces. Thousands of AX fleet vessels were lost in the initial conflict."
-summary: "Titan Cocijo arrives in Sol orbit around Earth, unleashing a devastating assault that knocks out most ports, destroys two Farragut battlecruisers, and triggers a massive refugee crisis across 16 systems."
+arc_id: thargoid-titan-war
+modern_impact: Tanner's framing — 'The Thargoids have made their final attempt at checkmate' — positions the Battle for Sol as the decisive endgame of the Second Thargoid War. The destruction of FNS Nero and FNS Erebus demonstrates that even the Federation's most powerful warships are vulnerable to Titan-led assaults, a lesson that drives post-war military reform.
 legacy_weight: 5
 significance: high
 related_uuids:

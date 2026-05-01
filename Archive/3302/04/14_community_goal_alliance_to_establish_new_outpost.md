@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Alliance to Establish New Outpost
-
-
 Harlyn Tavistok, a senior member of The Alliance Assembly, has announced plans to establish a new outpost on the fringes of inhabited space. According to Tavistok, the new station will provide the Alliance With "a vitally Important new resource, significantly bolstering Our reconnaissance and intelligence-gathering capabilities." An Alliance spokesperson provided Further details: 
 
 "Monitoring activity within human-inhabited space is of central importance to our continued security, but This particular sector currently contains a limited number of operational outposts. Our new station will address this issue." 

@@ -27,9 +27,6 @@ related_uuids:
 - f0f6f3b5-820c-54b2-add3-229e4f9f610e
 ---
 
-Success for Pleiades Restoration Project
-
-
 There has been a positive response to The campaign to fund repairs for starports in the Pleiades Nebula. Huge quantities of construction materials were received, Which will be used to restore Many of the stations damaged by the Thargoids. 
 
 Senior engineer Lilith Galloway made a statement on behalf of Aegis Research: 

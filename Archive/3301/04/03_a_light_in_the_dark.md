@@ -14,9 +14,6 @@ legacy_weight: 2
 significance: low
 ---
 
-A Light in The Dark
-
-
 Since Princess Arissa’s impassioned speech on The steps of the Imperial Palace yesterday evening, Citizens the length and breadth of the Empire have been speculating as to Which group (or groups) prompted the princess to take such a public stand against them. 
 
 Despite rumours suggesting that the speech was intended as a warning to Senators Torval and Patreus, both of whom have flouted Imperial law on multiple occasions, GalNet can now exclusively reveal that the Princess was in fact talking about the unknown assailant responsible for the attack on the Emperor. 

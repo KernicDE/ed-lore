@@ -4,6 +4,8 @@ title: Sirius Corporation Announces New Programme
 slug: sirius_corporation_announces_new_programme
 date: '3301-10-15'
 source: GitHub
+summary: Sirius Corporation CEO Li Yong-Rui announced ambitious revitalization plans for systems brought under corporate control earlier in the year, including HIP 8396, Almagest, Sothis, Ceos, and Robigo. The initiatives rely on independent pilots and contractors, beginning with an appeal for osmium deliveries to HIP 8396. Economist Roberta Unwin characterized this as speculative expansion.
+player_impact: Pilots can participate in Sirius Corporation revitalization initiatives, starting with osmium deliveries to HIP 8396. These community goals offer generous rewards and help develop the affected systems.
 persons:
 - Li Yong-Rui
 - Roberta Unwin
@@ -21,15 +23,10 @@ topics:
 - corporate expansion
 - trade
 arc_id: corporate-history
-summary: Sirius Corporation CEO Li Yong-Rui announced ambitious revitalization plans for systems brought under corporate control earlier in the year, including HIP 8396, Almagest, Sothis, Ceos, and Robigo. The initiatives rely on independent pilots and contractors, beginning with an appeal for osmium deliveries to HIP 8396. Economist Roberta Unwin characterized this as speculative expansion.
-player_impact: Pilots can participate in Sirius Corporation revitalization initiatives, starting with osmium deliveries to HIP 8396. These community goals offer generous rewards and help develop the affected systems.
 modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape several systems' economies.
 legacy_weight: 3
 significance: medium
 ---
-
-Sirius Corporation Announces New Programme
-
 
 Earlier This year, The Sirius Corporation expanded into the systems of HIP 8396, Almagest, Sothis, Ceos, and Robigo. At the time, a number of economists predicted that these systems would witness dramatic change after being brought under Sirius Corp. control, but in fact the affected systems have remained much the same, With citizens reporting little difference to their everyday lives. 
 

@@ -26,9 +26,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: New Farragut Battle Cruiser Complete
-
-
 The Beta Hydri Corporation has announced that The Federal campaign to construct a new Farragut Battle Cruiser is now complete. According to a company spokesperson, the galactic community responded positively to the appeal, resulting in the rapid construction of the new Federal Vessel. Captain G.C. Richards, who oversaw the project, released a brief statement to the media: 
 
 "The Federation extends Its gratitude to all those who supported This initiative. Your hard work has given the Federal Navy a potent new asset." 

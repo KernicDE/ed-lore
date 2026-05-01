@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: The Rahu Operation
-
-
 An Alliance spokesperson has announced that a Naval convoy has been attacked in the Rahu system. The spokesperson also confirmed that criminals have begun targeting the convoy With the intention of taking escape pods from the wreckage. They went on to say: 
 
 "These criminals have just One aim: to abduct Alliance personnel and sell them into illegal slavery. We cannot allow these vile opportunists to take Our comrades captive." 

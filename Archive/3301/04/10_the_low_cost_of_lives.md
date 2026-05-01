@@ -4,17 +4,14 @@ title: The Low Cost of Lives
 slug: the_low_cost_of_lives
 date: '3301-04-10'
 source: GitHub
-entities:
-- Arissa Lavigny-Duval issued
 topics:
 - investigation
+entities:
+- Arissa Lavigny-Duval issued
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low
 ---
-
-The Low Cost of Lives
-
 
 The office of Senator Arissa Lavigny-Duval issued a statement This morning to reveal what information had been collected by members of the Imperial Court loyal to the House of Duval. 
 

@@ -15,14 +15,10 @@ locations:
 topics:
 - research
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
 legacy_weight: 3
 significance: medium
 ---
-
-Galactic News: Canonn Campaign Comes to an End
-
 
 The campaign from the Canonn Interstellar Research Group to establish a new research outpost in the Col 285 Sector IX-T d3-43 system has been enthusiastically received by the galactic community. Hundreds of pilots supported the initiative by delivering palladium to Thompson Dock, prompting a spokesperson for the Canonn to release a brief statement: 
 

@@ -20,9 +20,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: Ishmael Palin on The Road to Recovery
-
-
 Following news that Professor Ishmael Palin was among those rescued in the recent operation against the Blue Hand Gang, medical personnel at Wilkes Orbital have released a statement concerning the professor's current condition: 
 
 "The professor has suffered significant mental and physical trauma, and given his age the magnitude of his experience shouldn't be underestimated. But so Far he's shown remarkable resilience, and we're confident he'll make a full recovery." 

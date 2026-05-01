@@ -4,7 +4,8 @@ title: Jasmina Halsey Returns to the Federation
 slug: jasmina_halsey_returns_to_the_federation
 date: 3307-01-20
 source: API
-arc_id: federal-politics
+summary: Former President Jasmina Halsey has arrived on Mars to stand as a witness in The upcoming trial of Fleet Admiral Lucas Vincent.
+player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Edmund Mahon
 - Felicia Winters
@@ -24,9 +25,10 @@ locations:
 - Mars
 - Olympus Village
 topics: []
-player_impact: Pilots followed these developments through GalNet reports.
-summary: Former President Jasmina Halsey has arrived on Mars to stand as a witness in The upcoming trial of Fleet Admiral Lucas Vincent.
-modern_impact: "\"This event contributed to the evolving political and security landscape of the galaxy in 3307.\""
+arc_id: federal-politics
+modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+legacy_weight: 3
+significance: medium
 related_uuids:
 - 3a299742-113f-5b36-98e2-a791ed35ae34
 - 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
@@ -34,8 +36,6 @@ related_uuids:
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - c917c581-7cd2-54eb-a0cd-ff49b24b1f92
 - 4e4f34c5-f585-58c6-983a-ec7b9135f20d
-legacy_weight: 3
-significance: medium
 ---
 
 Former President Jasmina Halsey has arrived on Mars to stand as a witness in The upcoming trial of Fleet Admiral Lucas Vincent.

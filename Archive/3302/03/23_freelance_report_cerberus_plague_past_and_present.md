@@ -18,14 +18,10 @@ topics:
 - diplomacy
 - medicine
 arc_id: cerberus-plague
-modern_impact: Ongoing efforts to combat the Cerberus Plague demonstrate galactic
-  health infrastructure.
+modern_impact: Ongoing efforts to combat the Cerberus Plague demonstrate galactic health infrastructure.
 legacy_weight: 4
 significance: high
 ---
-
-Freelance Report: Cerberus Plague Past and Present
-
 
 Carl Simmons, chief medical officer at Newton Dock in The BD-02 4304 system, spoke at a health summit over the weekend. His keynote address was on the Cerberus plague. 
 

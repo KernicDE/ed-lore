@@ -19,7 +19,6 @@ groups:
 locations:
 - Pleiades Sector AB-W B2-4
 - Achenar
-technologies: []
 topics:
 - alien contact
 - construction
@@ -27,14 +26,12 @@ topics:
 - research
 - ship
 - trade
+technologies: []
 arc_id: thargoid-contact
 modern_impact: Discovery of the Pleiades wreckage becomes one of the first confirmed finds of non-human ship remains, intensifying scientific and public interest in alien life.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: Mysterious Wreckage Discovered
-
 
 A pair of Independent pilots by The names of Noctrach and Ihazevich has discovered the remains of what appears to be a starship on planet 9a of the Pleiades Sector AB-W B2-4 system. The discovery represents the culmination of a galaxy-wide hunt coordinated by the 'Granger Gang' – a band of miscreants led by the smuggler and bounty hunter Otto Granger. 
 

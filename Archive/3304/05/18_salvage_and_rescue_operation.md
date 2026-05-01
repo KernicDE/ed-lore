@@ -21,9 +21,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Salvage and Rescue Operation
-
-
 A convoy travelling through The core systems has come under attack from a pirate group, and local authorities are requesting assistance in finding survivors. 
 
 The operation is being coordinated by Security Chief Tal Woźniak of United Carnoeck for Equality, who made This announcement: 

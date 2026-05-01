@@ -22,9 +22,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Salvage and Rescue Operation Ends
-
-
 The operation to recover survivors and salvage from a convoy that was attacked In the core systems has been brought to a halt. Search-and-rescue teams from United Carnoeck for Equality were assisted by scores of Independent pilots. 
 
 Security Chief Tal Woźniak thanked those who participated:  

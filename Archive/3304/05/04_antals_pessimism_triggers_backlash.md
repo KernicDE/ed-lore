@@ -28,9 +28,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Antal’s Pessimism Triggers Backlash
-
-
 Many key figures have contested Pranav Antal’s suggestion that humanity could lose The conflict against the Thargoids. 
 
 Federal Shadow President Felicia Winters commented: 

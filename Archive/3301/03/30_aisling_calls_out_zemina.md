@@ -13,9 +13,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Aisling Calls Out Zemina
-
-
 Aisling Duval was in The spotlight again last night, As the diva Duval took to The streams on the popular Imperial talk show, ‘A Fireside Chat With Serena’.  
 
 Aisling started the show With some high praise for her ‘Angels’ , who have been working hard to remove all unruly elements on Cemiess. 

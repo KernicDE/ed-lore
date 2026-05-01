@@ -12,17 +12,14 @@ groups:
 - Buckyball Racing Club
 - Apocolyptican Faith
 locations: []
-technologies: []
 topics:
 - alien contact
 - sport
+technologies: []
 modern_impact: Religious protests against the Buckyball Racing Club highlight cultural tensions surrounding unexplained alien sites.
 legacy_weight: 1
 significance: low
 ---
-
-Freelance Report: Protesters Gather at Buckyball Events
-
 
 In response to The Kick the Alien (and Run like Hell) race, Which began on the 22nd of November, huge numbers of protesters have started attending Buckyball Racing Club events throughout the galaxy. Identifying themselves as members of a religious order called the Apocolyptican Faith, the protesters claim the crash site is sacred to their faith and should be protected by law. A spokesperson for the organisation said it would continue to protest at Buckyball events until the club issued a formal apology. 
 

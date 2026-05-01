@@ -24,9 +24,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Alliance Initiative Concludes
-
-
 The Alliance has announced that Its appeal for mined resources has reached a successful conclusion, having received an overwhelming response from the galactic community. Huge quantities of raw material were delivered to California Gateway over the past week, Which will be used to construct an Ocellus starport in the MEL 22 Sector GM-V C2-8 system. 
 
 With the campaign at an end, Alliance official Torvan Dast issued The following statement: 

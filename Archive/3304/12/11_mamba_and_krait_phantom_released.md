@@ -18,9 +18,6 @@ legacy_weight: 5
 significance: high
 ---
 
-Mamba and Krait Phantom Released
-
-
 Two new ships marketed towards Independent pilots, The Mamba and the Krait Phantom, have just hit the market. 
 
 Zorgon Peterson issued The following press release for Its new Vessel: 

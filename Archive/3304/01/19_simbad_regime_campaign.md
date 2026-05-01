@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Simbad Regime Campaign
-
-
 The Simbad Regime was established over a year ago, and has enjoyed consistent growth With the support of Commanders across the galaxy. Now the group has announced plans to construct a new asteroid base among the rings of Nu Tauri 5. 
 
 In support of This goal, the Simbad Regime has placed an open order for quantities of explosives, beryllium, aluminium and tea. 

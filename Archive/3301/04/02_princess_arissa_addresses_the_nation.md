@@ -14,9 +14,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Princess Arissa Addresses The Nation
-
-
 In what can only be seen as a result of The attack on her alleged father, Princess Arissa Lavigny-Duval has today broken her long silence in an address to the nation on the steps of the Imperial Palace. 
 
 “Honoured citizens of the Empire, my Imperial brothers and sisters, I come before you today not as a Princess or as a Senator, but as a concerned daughter of This nation.” 

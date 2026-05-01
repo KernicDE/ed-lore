@@ -4,6 +4,8 @@ title: Vitadyne Admits Nanomeds of Utopian Origin
 slug: vitadyne_admits_nanomeds_of_utopian_origin
 date: '3305-01-03'
 source: GitHub
+summary: Professor Katrien Rook admits Vitadyne Labs did not invent its nanomedicines but obtained them as salvage from a crashed Utopian transport, sparking a dispute with Pranav Antal over ownership and production rights.
+player_impact: None — background corporate report.
 persons:
 - Katrien Rook
 - Pranav Antal
@@ -14,8 +16,6 @@ groups:
 topics:
 - medicine
 - corporate expansion
-summary: Professor Katrien Rook admits Vitadyne Labs did not invent its nanomedicines but obtained them as salvage from a crashed Utopian transport, sparking a dispute with Pranav Antal over ownership and production rights.
-player_impact: None — background corporate report.
 modern_impact: The Vitadyne-Utopia dispute highlighted the legal and ethical complexities of salvaged alien and advanced technology, setting a precedent for how the IHO would rule on derivative intellectual property.
 legacy_weight: 3
 significance: medium
@@ -24,9 +24,6 @@ related_uuids:
 - 0a245776-7f87-5585-9289-94a24fd31183
 - 35fa328d-8c20-51c9-804f-2563d86c1853
 ---
-
-Vitadyne Admits Nanomeds of Utopian Origin
-
 
 Professor Katrien Rook has responded to Pranav Antal's claim that her company's nanomedicines are of Utopian origin: 
 

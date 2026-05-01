@@ -15,18 +15,14 @@ locations:
 - Daramo
 - Achenar
 - Achenar 6d
-technologies: []
 topics:
 - ship
 - war
-modern_impact: Superpower territorial disputes continue to flare, with rhetoric escalating
-  to historical insults and open use of the term 'enemies'.
+technologies: []
+modern_impact: Superpower territorial disputes continue to flare, with rhetoric escalating to historical insults and open use of the term 'enemies'.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Federal Forces Triumphant
-
 
 Following three days of conflict, The Independents of Daramo have confirmed that the Federation has successfully resisted the Imperial offensive in The Daramo system. In the wake of the victory, Admiral Yorke of the Federal Navy extended his gratitude to the Many pilots who supported the Federation, and added: 
 

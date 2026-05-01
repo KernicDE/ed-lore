@@ -4,6 +4,8 @@ title: Salvation Prepares 'Final Thargoid Battlefield'
 slug: salvation_prepares_final_thargoid_battlefield
 date: '3308-06-30'
 source: API
+summary: Salvation announces the Proteus Wave construction in HIP 22460, declaring it will be the final battlefield to eradicate Thargoids from the galaxy, with superpower navies and Azimuth megaships mobilising for the operation.
+player_impact: Pilots were called to support the Proteus Wave construction by delivering resources to the Heart of Taurus in HIP 22460.
 persons:
 - Morag Halloran
 - Salvation
@@ -25,16 +27,14 @@ topics:
 - war
 - xenoarchaeology
 arc_id: salvation-azimuth
-summary: Salvation announces the Proteus Wave construction in HIP 22460, declaring it will be the final battlefield to eradicate Thargoids from the galaxy, with superpower navies and Azimuth megaships mobilising for the operation.
-player_impact: Pilots were called to support the Proteus Wave construction by delivering resources to the Heart of Taurus in HIP 22460.
 modern_impact: Salvation's declaration that HIP 22460 would be the 'final battlefield' represented the apotheosis of his messianic rhetoric, framing an experimental superweapon as humanity's only hope while superpower navies committed their full forces to his corporate operation.
-related_uuids:
-- 6d163a8d-7539-5b90-955d-f084b5d63e52
 legacy_weight: 5
 significance: high
+related_uuids:
+- 6d163a8d-7539-5b90-955d-f084b5d63e52
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 The HIP 22460 system will be the stage for a decisive strike against the Thargoids by Azimuth Biotech and the superpowers.
 The following message was broadcast across all public channels:
 “This is Salvation. Construction of the Proteus Wave has officially commenced. This version of my anti-xeno superweapon has been designed to bring absolute victory against our adversaries.”

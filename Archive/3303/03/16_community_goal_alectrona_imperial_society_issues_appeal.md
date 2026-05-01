@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Alectrona Imperial Society Issues Appeal
-
-
 The Empire has announced plans to construct an outpost in the Andhrimi system, and has placed an open order for materials for use in the construction. 
 
 The Alectrona Imperial Society has been authorised to coordinate the campaign, and has promised to reward pilots who deliver building fabricators, energy grid assemblies and lithium to Yurchikhin Station in the Andhrimi system. 

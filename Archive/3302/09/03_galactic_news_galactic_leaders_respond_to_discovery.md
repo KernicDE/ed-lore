@@ -26,9 +26,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Galactic Leaders Respond to Discovery
-
-
 The leaders of the galaxy's major powers have responded to the discovery of a mysterious shipwreck in the Pleiades Sector AB-W B2-4 system. 
 
 Speaking from the Imperial Palace on Capitol, Emperor Arissa Lavigny-Duval said: 

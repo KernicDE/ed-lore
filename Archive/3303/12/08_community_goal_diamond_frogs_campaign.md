@@ -23,9 +23,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Diamond Frogs Campaign
-
-
 The Diamond Frogs, a mercenary outfit based on the lawless fringes of the Capricorni sector, have announced plans to build a new installation in the 63 G. Capricorni system. 
 
 The faction’s current base of operations has become virtually uninhabitable, as Its power and cooling systems have been pushed past their limits. 

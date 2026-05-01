@@ -4,6 +4,8 @@ title: Aisling Duval Condemns Autonomy Group
 slug: aisling_duval_condemns_autonomy_group
 date: '3305-06-27'
 source: GitHub
+summary: Princess Aisling Duval condemns Autonomy's mass emancipation of 4,000 Imperial slaves on Eotienses A 3, arguing that forced liberation without legal manumission and welfare support endangers the very people it claims to help.
+player_impact: None — background political report.
 persons:
 - Aisling Duval
 - Garrett Kline
@@ -15,17 +17,12 @@ locations:
 topics:
 - slavery
 - politics
-summary: Princess Aisling Duval condemns Autonomy's mass emancipation of 4,000 Imperial slaves on Eotienses A 3, arguing that forced liberation without legal manumission and welfare support endangers the very people it claims to help.
-player_impact: None — background political report.
 modern_impact: Aisling's public condemnation of Autonomy clarified the distinction between her reformist anti-slavery position and radical emancipation tactics, reinforcing her political identity as a pragmatic abolitionist within the Empire.
 legacy_weight: 2
 significance: medium
 related_uuids:
 - af2a3a5c-8f94-5646-b3c6-c979797cdd11
 ---
-
-Aisling Duval Condemns Autonomy Group
-
 
 Anti-slavery charity Unchain has criticised The radical activist group Autonomy for liberating 4,000 Imperial slaves on Eotienses A 3. 
 

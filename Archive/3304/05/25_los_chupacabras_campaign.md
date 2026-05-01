@@ -21,9 +21,6 @@ legacy_weight: 1
 significance: low
 ---
 
-Los Chupacabras Campaign
-
-
 Los Chupacabras, an Independent faction based in The LFT 926 system, has announced plans for a musical event known As the Jailhouse Rock and Blues Music Festival. 
 
 A spokesperson for the group issued The following statement: 

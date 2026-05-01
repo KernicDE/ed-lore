@@ -15,9 +15,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Imperial Citizens are Meant to Fly
-
-
 Evidently The Senator from Facece wasn’t engaging in empty political posturing when she said that she would find those responsible for The attack on her father. On Arissa’s orders a sizeable number of Counts and Earls have flocked to Facece to help investigate both their fellow nobility and the citizenry under their care.  
 
 Now, In a move doubtlessly spurred by the ongoing investigation, reports coming from Nu state that the Princess Lavigny-Duval has ordered a sizeable fleet of Imperial Clippers be constructed in the shipyards of Syromyatnikov Horizons. The Senator’s office on Facece has stated that the project will be jointly overseen by the Citizens of Tradition and the Gutamaya Corporation. 

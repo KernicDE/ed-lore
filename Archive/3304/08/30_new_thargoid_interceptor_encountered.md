@@ -28,9 +28,6 @@ related_uuids:
 - a4948f46-cb29-57d0-95a7-5e3dbbb32cf0
 ---
 
-New Thargoid Interceptor Encountered
-
-
 Independent pilots have reported engaging a previously unseen type of Thargoid Vessel. 
 
 The Pilots Federation confirmed that Several of Its members have encountered the ship in both the Pleiades Nebula and the core systems. 

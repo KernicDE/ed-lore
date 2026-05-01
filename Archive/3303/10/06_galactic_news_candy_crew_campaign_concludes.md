@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Candy Crew Campaign Concludes
-
-
 A spokesperson for The Candy Crew Guild has announced that Its appeal for palladium, titanium and robotics was enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Bella Port, the organisation’s base of operations. 
 
 The Candy Crew Guild has extended its gratitude to those who supported the campaign. 

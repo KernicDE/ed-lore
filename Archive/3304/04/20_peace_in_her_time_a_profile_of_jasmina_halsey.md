@@ -25,9 +25,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Peace in Her Time: A Profile of Jasmina Halsey
-
-
 Independent journalist Chukwuma Grant has published an article on peace activist and former Federal President Jasmina Halsey. Grant has described The report as a wide-ranging analysis that addresses “the political impact of a politician renouncing politics”. 
 
 Key extracts from the article are reprinted below: 

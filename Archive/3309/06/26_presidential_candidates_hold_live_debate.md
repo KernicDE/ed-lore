@@ -4,20 +4,20 @@ title: Presidential Candidates Hold Live Debate
 slug: presidential_candidates_hold_live_debate
 date: '3309-06-26'
 source: API
-entities: []
+summary: The three Federal presidential candidates clash in a live debate, with personal attacks overshadowing policy discussion and commentators criticizing the tone.
+player_impact: Not specifically mentioned — this is a political report.
+persons:
+- Jerome Archer
+- Felicia Winters
+- Zachary Rackham
 groups: []
 topics:
 - investigation
 - piracy
 - politics
+entities: []
 arc_id: null
-modern_impact: "The debate is a masterclass in political theater. Rackham's jab — 'Lost any megaships recently, Jerome?' — directly references the Dedicant. Winters's counter — 'the Dedicant situation is a direct result of your party's repressive policies on religious expression' — frames the crisis as policy failure. Rackham's zero-tax proposal — 'What our people need... is to pay zero civil taxes' — is absurd populism. Winters's pirate accusation — 'selling off the treasure you stole during your pirate days' — foreshadows the Calico Zack scandal."
-persons:
-- Jerome Archer
-- Felicia Winters
-- Zachary Rackham
-player_impact: "Not specifically mentioned — this is a political report."
-summary: "The three Federal presidential candidates clash in a live debate, with personal attacks overshadowing policy discussion and commentators criticizing the tone."
+modern_impact: The debate is a masterclass in political theater. Rackham's jab — 'Lost any megaships recently, Jerome?' — directly references the Dedicant. Winters's counter — 'the Dedicant situation is a direct result of your party's repressive policies on religious expression' — frames the crisis as policy failure. Rackham's zero-tax proposal — 'What our people need... is to pay zero civil taxes' — is absurd populism. Winters's pirate accusation — 'selling off the treasure you stole during your pirate days' — foreshadows the Calico Zack scandal.
 legacy_weight: 3
 significance: medium
 related_uuids:

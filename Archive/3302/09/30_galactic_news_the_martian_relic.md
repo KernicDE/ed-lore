@@ -11,17 +11,14 @@ groups:
 - Federation
 locations:
 - Pleiades Sector AB-W B2-4
-technologies: []
 topics:
 - alien contact
+technologies: []
 arc_id: thargoid-contact
 modern_impact: Renewed interest in the Martian Relic links ancient Federal secrets to contemporary Thargoid discoveries, deepening the mystery of non-human artefacts.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: The Martian Relic
-
 
 The discovery of mysterious wreckage in the Pleiades Nebula has rekindled interest in the so-called Martian Relic, an object discovered beneath the surface of Mars over One thousand years ago. 
 

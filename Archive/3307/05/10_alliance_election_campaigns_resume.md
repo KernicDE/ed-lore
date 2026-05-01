@@ -4,7 +4,8 @@ title: Alliance Election Campaigns Resume
 slug: alliance_election_campaigns_resume
 date: '3307-05-10'
 source: API
-arc_id: alliance-expansion
+summary: The Alliance prime minister election resumes after being postponed due to the Galactic Summit. Prime Minister Edmund Mahon faces serious challenger Councillor Nakato Kaine, who criticises his expansionist policies and focus on the Sirius Treaty rather than internal trade.
+player_impact: None directly; this is a political analysis piece ahead of the election.
 persons:
 - Edmund Mahon
 - Nakato Kaine
@@ -15,20 +16,19 @@ groups:
 - Alliance Assembly
 locations:
 - Sirius
-technologies: []
 topics:
 - alien contact
 - diplomacy
-player_impact: None directly; this is a political analysis piece ahead of the election.
-summary: The Alliance prime minister election resumes after being postponed due to the Galactic Summit. Prime Minister Edmund Mahon faces serious challenger Councillor Nakato Kaine, who criticises his expansionist policies and focus on the Sirius Treaty rather than internal trade.
+technologies: []
+arc_id: alliance-expansion
 modern_impact: Mahon's eventual re-election despite the controversy cements his long-term leadership but also entrenches the Alliance's expansionist foreign policy, setting the stage for future conflicts over resource allocation.
+legacy_weight: 4
+significance: medium
 related_uuids:
 - 2e84c2f8-630c-5fc3-af4c-327c28dfea88
 - 5cd90cb7-e73b-553f-bdcf-cb7b311cc0df
 - 931d72fb-9b88-566c-a2c3-8b536ea52a59
 - 09b011a1-77a8-5a75-a0c4-c60509f2f440
-legacy_weight: 4
-significance: medium
 ---
 
 The election of the Alliance prime minister will take place on the 27th of May, having been postponed due to the Galactic Summit.

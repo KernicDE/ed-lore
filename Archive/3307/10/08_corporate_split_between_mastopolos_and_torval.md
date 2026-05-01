@@ -4,19 +4,18 @@ title: 'Corporate Split between Mastopolos and Torval '
 slug: corporate_split_between_mastopolos_and_torval
 date: '3307-10-08'
 source: API
-groups:
-- Mastopolos Mining
-- Torval Mining Ltd
+summary: Torval-Mastopolos Mining officially rebrands as Torval Mining Ltd, becoming fully independent from Mastopolos Mining with Zemina Torval as CEO.
+player_impact: None
 persons:
 - Zemina Torval
 - Gabriella Mastopolos
 - Constantia Torval
 - Anton Lagorio
+groups:
+- Mastopolos Mining
+- Torval Mining Ltd
 topics:
 - corporate expansion
-summary: Torval-Mastopolos Mining officially rebrands as Torval Mining Ltd, becoming
-  fully independent from Mastopolos Mining with Zemina Torval as CEO.
-player_impact: None
 modern_impact: Corporate rivalries in the Empire shape mining and transportation markets.
 legacy_weight: 2
 significance: low

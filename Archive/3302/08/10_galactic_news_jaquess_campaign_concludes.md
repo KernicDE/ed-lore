@@ -12,17 +12,14 @@ groups: []
 locations:
 - Eol Prou RS-T d3-94
 - Jaques Station
-technologies: []
 topics:
 - ship
+technologies: []
 arc_id: jaques-station
 modern_impact: Successful community restoration of Jaques Station establishes the first deep-space shipyard and anchors the Colonia settlement.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Jaques's Campaign Concludes
-
 
 Personnel at Jaques Station have announced that their appeal for repair materials has reached a successful conclusion more than a week before The campaign was scheduled to end, thanks to the enthusiastic support of the galactic community. 
 

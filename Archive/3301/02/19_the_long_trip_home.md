@@ -13,9 +13,6 @@ legacy_weight: 2
 significance: low
 ---
 
-The Long Trip Home
-
-
 After a week of wandering in HIP 110620 The Jaques Starport is now making Its way through HIP 110079. GalNet is still no closer to learning the reason behind the station's unexpected return, nor can we ascertain where the cyborg barman's ultimate destination may be. 
 
 A number of well known commanders from all walks of life have been seen coming in and out of Jaques, Which is fast becoming a popular nightspot among young thrillseekers from the Empire, Federation and Alliance alike.  

@@ -22,9 +22,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Alliance Campaign Comes to an End
-
-
 The Alliance has announced that Its appeal for materials has reached a successful conclusion, having received the unalloyed support of the galactic community. Huge quantities of raw materials were delivered to Bulychev Hub over the past week, Which will be used to build an Orbis starport in the Synuefai EB-R c7-5 system. 
 
 As the campaign drew to a close, Alliance official Torvan Dast issued a statement, thanking those who supported the campaign and adding: 

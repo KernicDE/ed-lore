@@ -27,9 +27,6 @@ related_uuids:
 - ee173dbc-3ffb-5704-85cf-8afc6f5094be
 ---
 
-Far God Cult Investigation Ends
-
-
 The Federal Intelligence Agency has terminated Its investigation into the Far God cult. 
 
 Senior Agent Micah Whitefield informed the media: 

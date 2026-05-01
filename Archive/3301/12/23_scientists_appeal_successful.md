@@ -11,20 +11,16 @@ persons:
 groups: []
 locations:
 - Maia
-technologies:
-- evacuation shelters
 topics:
 - construction
 - research
+technologies:
+- evacuation shelters
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 4
 significance: high
 ---
-
-Scientist's Appeal Successful
-
 
 Last week, Professor Ishmael Palin issued a request for evacuation shelters With Which to establish a new research outpost on Maia b1ba in The Maia system. Today, Professor Palin announced that the request had been positively received by the galactic community, and that he and his team were now In a position to start work on their new base of operations. 
 

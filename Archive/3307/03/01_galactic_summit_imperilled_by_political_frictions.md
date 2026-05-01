@@ -4,7 +4,8 @@ title: Galactic Summit Imperilled by Political Frictions
 slug: galactic_summit_imperilled_by_political_frictions
 date: 3307-03-01
 source: API
-arc_id: null
+summary: Delegates at The diplomatic conference have clashed over long-standing political issues, With some threatening to abandon the event.
+player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
 persons:
 - Achenar
 - Felicia Winters
@@ -32,9 +33,10 @@ topics:
 - succession
 - terrorism
 - war
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
-summary: Delegates at The diplomatic conference have clashed over long-standing political issues, With some threatening to abandon the event.
-modern_impact: "\"It is not Utopia's tradition to become involved with politics.\" The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation."
+arc_id: null
+modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
@@ -42,8 +44,6 @@ related_uuids:
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
 - 9243011a-ed83-592c-9dcd-6cefc68679cf
-legacy_weight: 5
-significance: high
 ---
 
 Delegates at The diplomatic conference have clashed over long-standing political issues, With some threatening to abandon the event.

@@ -13,20 +13,17 @@ groups:
 locations:
 - Epsilon Indi
 - London Relay
-technologies: []
 topics:
 - construction
 - corporate expansion
 - crime
 - diplomacy
 - independence
+technologies: []
 modern_impact: Smuggling surge during a major security summit highlights the brazenness of criminal elements and potential terrorism threats.
 legacy_weight: 2
 significance: low
 ---
-
-Increased Smuggling Activity in Epsilon Indi
-
 
 Authorities in The Epsilon Indi system have reported a dramatic increase in smuggling over the past week. Station personnel at London Relay – believed to be the focus of the smuggling activity – declined to provide specifics, but an anonymous source at the starport said: 
 

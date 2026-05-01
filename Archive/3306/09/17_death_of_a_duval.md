@@ -4,6 +4,8 @@ title: Death of a Duval
 slug: death_of_a_duval
 date: '3306-09-17'
 source: GitHub
+summary: Imperial sources confirm Prince Harold Duval was assassinated by NMLA terrorists while travelling to Cemiess. Emperor Arissa announces a state funeral. Aisling Duval expresses grief and vows to support anti-terrorist efforts. Senator Patreus proposes new counter-terrorism initiatives.
+player_impact: None
 persons:
 - Arissa Lavigny-Duval
 - Aisling Duval
@@ -16,13 +18,7 @@ locations:
 topics:
 - terrorism
 - succession
-summary: Imperial sources confirm Prince Harold Duval was assassinated by NMLA terrorists
-  while travelling to Cemiess. Emperor Arissa announces a state funeral. Aisling Duval
-  expresses grief and vows to support anti-terrorist efforts. Senator Patreus proposes
-  new counter-terrorism initiatives.
-player_impact: None
-modern_impact: The official confirmation of Harold Duval's assassination triggers Imperial
-  mourning and intensified counter-terrorism measures.
+modern_impact: The official confirmation of Harold Duval's assassination triggers Imperial mourning and intensified counter-terrorism measures.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,9 +27,6 @@ related_uuids:
 - ea29f582-91a6-5340-9840-3d76cc07f494
 - 079b4589-32a5-5f8b-aa63-4f0f5f719a87
 ---
-
-Death of a Duval
-
 
 Imperial news sources have confirmed that Prince Harold Duval was Assassinated by NMLA terrorists while travelling incognito to The Cemiess system. 
 

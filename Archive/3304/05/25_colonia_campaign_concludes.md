@@ -22,9 +22,6 @@ legacy_weight: 3
 significance: medium
 ---
 
-Colonia Campaign Concludes
-
-
 The campaign to supply a scientific project in Colonia has now concluded. Hundreds of Independent pilots made the journey to deliver microresources to the Colonia Co-operative in the Coeus system. 
 
 Professor Alexei de la Vega, in charge of the research project, made This statement: 

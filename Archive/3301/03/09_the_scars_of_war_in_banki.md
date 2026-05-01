@@ -17,9 +17,6 @@ legacy_weight: 2
 significance: low
 ---
 
-The Scars of War in Banki
-
-
 The Federation may have won the war in the Banki system, but survivors on both sides are still In a struggle for survival. 
 
 After a long and bitter conflict, the Federation was able to clutch a victory (as well as a base) after offering greater incentives for Commanders willing to fight on their side. This strategy drew in throngs of Commanders from throughout the galaxy, tilting the scales decisively in favour of the Federal Navy. 

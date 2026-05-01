@@ -16,20 +16,16 @@ locations:
 - California Nebula
 - Pleiades Nebula
 - California Sector DL-Y D4 C6
-technologies:
-- meta-alloys
 topics:
 - exploration
 - research
+technologies:
+- meta-alloys
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 5
 significance: high
 ---
-
-Freelance Report: Fresh Fruit Meets Bitter Harvest
-
 
 Speaking from The Canonn Interstellar Research Institute, Dr Arcanonn has commented on the current state of barnacle research and lauded the discovery of harvesting sites in the California Nebula: 
 

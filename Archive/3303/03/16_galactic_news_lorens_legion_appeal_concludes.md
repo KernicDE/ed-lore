@@ -22,9 +22,6 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Loren's Legion Appeal Concludes
-
-
 Ambassador Cuthrick Delaney, steward of The Prism system, has announced that the Loren's Legion appeal for Tantalum has been enthusiastically received by the galactic community. Hundreds of Independent pilots responded to the appeal, resulting In a massive influx of deliveries to Hiram's Anchorage, the organisation's base of operations. 
 
 In a statement, Delaney said: 

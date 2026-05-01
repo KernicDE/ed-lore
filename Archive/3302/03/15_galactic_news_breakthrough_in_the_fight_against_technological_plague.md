@@ -20,14 +20,10 @@ topics:
 - medicine
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Breakthrough in The Fight against Technological Plague
-
 
 When Professor Ishmael Palin and his team disappeared en route to Maia b1ba, research into meta-alloys was brought to a near standstill, With only the Canonn Interstellar Research Group continuing to investigate the mysterious material. But recent reports indicate that research has continued in Professor Palin's absence under the helm of Lea Tantaga, a molecular chemist based at Obsidian Orbital. 
 

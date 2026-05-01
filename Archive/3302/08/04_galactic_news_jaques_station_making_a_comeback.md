@@ -12,18 +12,15 @@ groups: []
 locations:
 - Eol Prou RS-T d3-94
 - Jaques Station
-technologies: []
 topics:
 - construction
 - trade
+technologies: []
 arc_id: jaques-station
 modern_impact: Jaques Station's recovery enables deep-space services and paves the way for permanent colonisation of the Colonia region.
 legacy_weight: 4
 significance: high
 ---
-
-Galactic News: Jaques Station Making a Comeback
-
 
 It has been two weeks since Jaques, The owner and operator of Jaques Station, issued an appeal for commodities to repair his beleaguered starport. Since then, scores of pilots from across the galaxy have made the long journey to the Eol Prou RS-T d3-94 system to deliver tantalum, power generators and Other materials to Jaques. 
 

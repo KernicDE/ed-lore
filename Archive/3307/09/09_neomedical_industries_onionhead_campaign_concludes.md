@@ -4,27 +4,24 @@ title: Neomedical Industries Onionhead Campaign Concludes
 slug: neomedical_industries_onionhead_campaign_concludes
 date: '3307-09-09'
 source: API
+summary: Neomedical Industries receives sufficient materials to produce Onionhead gamma strain as a medical treatment, despite Kumo Crew pirate attacks.
+player_impact: Pilots delivered H.E. suits, polymers, and robotics to Crippen Port and fought off pirate attacks.
+persons:
+- Olwyn Kendrick
 groups:
 - Alliance
 - Kumo Crew
 - Neomedical Industries
-persons:
-- Olwyn Kendrick
 topics:
 - corporate expansion
 - narcotics
 - piracy
-summary: Neomedical Industries receives sufficient materials to produce Onionhead gamma
-  strain as a medical treatment, despite Kumo Crew pirate attacks.
-player_impact: Pilots delivered H.E. suits, polymers, and robotics to Crippen Port
-  and fought off pirate attacks.
-modern_impact: The medical applications of onionhead gamma strain remain under clinical
-  study, with pharmaceutical companies competing for market control.
+modern_impact: The medical applications of onionhead gamma strain remain under clinical study, with pharmaceutical companies competing for market control.
 legacy_weight: 2
 significance: low
 ---
 
-*Pilots Federation ALERT*
+**Pilots Federation ALERT**
 The pharmaceutical megacorp has received sufficient materials to produce Onionhead gamma strain as a medical treatment.
 Pilots delivered shipments of H.E. suits, polymers and robotics to Crippen Port in the Haithis system. Payment for these deliveries is now available at the starport from the pharma giant’s corporate partner, Haithis Purple Dynamic Group.
 Bounty vouchers were also offered for all wanted ships, in expectation of pirate attacks coordinated by the Kumo Crew syndicate. Their megaship remains in the Haithis system, Which has raised concerns about Further retaliation from Archon Delaine.

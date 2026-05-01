@@ -28,9 +28,6 @@ related_uuids:
 - 40649b8e-7efb-524e-910e-755101cfd020
 ---
 
-Commodities Appeal Concludes
-
-
 The competing campaigns from technology companies Supratech and Herculean Machines have come to an end. Huge quantities of technological components were contributed to the initiatives, Which will be used to support the manufacture of new personal computers. 
 
 As the Supratech campaign drew to an end, company CEO Scorpio DeVorrow issued The following statement:  

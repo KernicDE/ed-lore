@@ -10,19 +10,16 @@ persons: []
 groups:
 - Aegis
 locations: []
-technologies:
-- Decontamination Limpet
 topics:
 - alien contact
 - ship
+technologies:
+- Decontamination Limpet
 arc_id: thargoid-contact
 modern_impact: The decontamination limpet provides pilots with a critical countermeasure against Thargoid caustic missile attacks.
 legacy_weight: 4
 significance: high
 ---
-
-New Technology from Aegis
-
 
 Aegis has expanded Its roster of anti-Thargoid technologies With a new device – The decontamination limpet. The device is specifically designed to counter the caustic properties of Thargoid missiles. 
 

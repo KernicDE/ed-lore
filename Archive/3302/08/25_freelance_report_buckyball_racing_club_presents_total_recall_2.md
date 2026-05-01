@@ -12,18 +12,15 @@ groups:
 - Buckyball Racing Club
 locations:
 - Cernobog
+topics:
+- sport
 technologies:
 - SRV
 - TrakMark tyres
-topics:
-- sport
 modern_impact: Community racing events like Total Recall 2 showcase the cultural and competitive activities that thrive alongside galactic conflict.
 legacy_weight: 1
 significance: low
 ---
-
-Freelance Report: Buckyball Racing Club Presents Total Recall 2
-
 
 Following The success of the Total Recall race in April, the Buckyball Racing Club has once again been contacted by a leading manufacturer of SRV tyres to help improve Its public profile. Pilots from remote settlements throughout human space have claimed that the latest TrakMark tyres are not fit for purpose, resulting in damage to SRVs after just a few kilometres. It's up to the Buckyball Racing Club to prove them wrong. 
 

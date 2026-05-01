@@ -4,7 +4,8 @@ title: Neo-Marlinists Seek Sanctuary at Marlinist Colonies
 slug: neo_marlinists_seek_sanctuary_at_marlinist_colonies
 date: '3307-04-16'
 source: API
-arc_id: marlinist-refugee
+summary: Survivors of the defeated Neo-Marlinist Order of Mudhrid arrive in the Marlinist Colonies aboard the Steel Majesty, requesting asylum. All three superpowers demand their arrest, but Minister Aaron Whyte cites the Marlinist Charter's right to asylum. The Marlinist Parliament declares an emergency.
+player_impact: None directly; this is a political refugee crisis.
 persons:
 - Arastin Delacroix
 - Aaron Whyte
@@ -25,21 +26,20 @@ locations:
 - Hyades Sector RO-P b6-2
 - Mudhrid
 - Marlinist Colonies
-technologies:
-- Steel Majesty megaship
 topics:
 - crime
 - humanitarian
 - war
-player_impact: None directly; this is a political refugee crisis.
-summary: Survivors of the defeated Neo-Marlinist Order of Mudhrid arrive in the Marlinist Colonies aboard the Steel Majesty, requesting asylum. All three superpowers demand their arrest, but Minister Aaron Whyte cites the Marlinist Charter's right to asylum. The Marlinist Parliament declares an emergency.
+technologies:
+- Steel Majesty megaship
+arc_id: marlinist-refugee
 modern_impact: The asylum crisis tests the Marlinist Colonies' sovereignty and sets the stage for the conditional amnesty deal that provides ACT with critical intelligence about NMLA leadership.
+legacy_weight: 5
+significance: high
 related_uuids:
 - 298e9fd1-c89d-5a54-9760-656167b99d88
 - 772dede3-38b5-52c6-8d0e-21a3bcf19d3e
 - 0fd60cb8-7807-5ad7-bb0b-23b66aeb6ab2
-legacy_weight: 5
-significance: high
 ---
 
 Survivors from The Neo-Marlinist Order of Mudhrid have arrived in the Marlinist Colonies, requesting political asylum from the Empire.

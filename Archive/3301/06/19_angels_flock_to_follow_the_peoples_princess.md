@@ -4,6 +4,8 @@ title: Angels Flock to Follow the People's Princess
 slug: angels_flock_to_follow_the_peoples_princess
 date: '3301-06-19'
 source: GitHub
+summary: Aisling Duval's anti-slavery campaign has gained massive momentum. Despite losing a bet to Zemina Torval in April, thousands of Imperial citizens rallied to Aisling's cause after being touched by her efforts to free, retrain, and rehome millions of slaves. She has become one of the Empire's most influential celebrities. Now Aisling and Torval clash again near the Empire's core systems. After Caspatsuria citizens proved motivated by financial incentives, Aisling's Angels shifted focus to Grovichun's social media networks. Both powers are negotiating with local authorities to establish new command centres.
+player_impact: Pilots can support either Aisling Duval or Zemina Torval in Caspatsuria and Grovichun as the two senators compete for influence near the Imperial core.
 persons:
 - Aisling Duval
 - Zemina Torval
@@ -17,18 +19,11 @@ locations:
 topics:
 - slavery
 - politics
-summary: Aisling Duval's anti-slavery campaign has gained massive momentum. Despite losing a bet to Zemina Torval in April, thousands of Imperial citizens rallied to Aisling's cause after being touched by her efforts to free, retrain, and rehome millions of slaves. She has become one of the Empire's most influential celebrities. Now Aisling and Torval clash again near the Empire's core systems. After Caspatsuria citizens proved motivated by financial incentives, Aisling's Angels shifted focus to Grovichun's social media networks. Both powers are negotiating with local authorities to establish new command centres.
-player_impact: Pilots can support either Aisling Duval or Zemina Torval in Caspatsuria and Grovichun as the two senators compete for influence near the Imperial core.
 modern_impact: Aisling Duval's surge in popularity transforms her from a fringe reformer into a major Imperial political force capable of challenging established senators like Torval.
 legacy_weight: 3
 significance: medium
 ---
 
-Angels Flock to Follow The People's Princess
-
-
-Angels Flock to Follow The People's Princess 
- 
 For months, Aisling's Angels have been working hard to support their mistress in her quest to bring about meaningful social change in the Empire. As part of their efforts, millions of slaves have been set free, retrained and rehomed in accordance With Aisling's wishes. 
 
 When she lost her bet against Zemina Torval back in April, Many within Imperial society thought Aisling's followers would finally realise that she was backing a lost cause and give up. Instead the opposite happened as thousands of Imperial citizens, their hearts touched by the efforts of the people's princess, rallied to her cause. This has turned Aisling into One of the most influential celebrities in the Empire today, to the delight of her powerful backers. 

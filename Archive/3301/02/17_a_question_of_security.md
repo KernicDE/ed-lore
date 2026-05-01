@@ -4,8 +4,6 @@ title: A Question of Security
 slug: a_question_of_security
 date: '3301-02-17'
 source: GitHub
-entities:
-- Denton Patreus received
 locations:
 - Denton
 - Eotienses
@@ -13,15 +11,13 @@ locations:
 topics:
 - crime
 - succession
+entities:
+- Denton Patreus received
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist
-  policies.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
 legacy_weight: 3
 significance: medium
 ---
-
-A Question of Security
-
 
 During a gathering of patrons held on Eotienses earlier today, Senator Denton Patreus received a standing ovation after delivering a stirring speech on The importance of internal security. 
 

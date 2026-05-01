@@ -4,6 +4,8 @@ title: Defence Contractor Denies Safety Violations
 slug: defence_contractor_denies_safety_violations
 date: '3305-02-21'
 source: GitHub
+summary: Weapons manufacturer Prax Incorporated dismisses Federal Times journalist Adley King's accusations of poor safety measures in weapons testing within inhabited sectors, claiming full regulatory compliance.
+player_impact: None — background corporate report.
 persons:
 - Adley King
 - Lucina Prax
@@ -15,15 +17,10 @@ topics:
 - investigation
 - safety
 - scandal
-summary: Weapons manufacturer Prax Incorporated dismisses Federal Times journalist Adley King's accusations of poor safety measures in weapons testing within inhabited sectors, claiming full regulatory compliance.
-player_impact: None — background corporate report.
 modern_impact: Prax's defensive response highlighted the tension between defence industry profit motives and public safety, with the company's record-breaking stock performance suggesting that scrutiny had little impact on its commercial success.
 legacy_weight: 2
 significance: low
 ---
-
-Defence Contractor Denies Safety Violations
-
 
 The weapons manufacturer Prax Incorporated has dismissed accusations of poor safety measures in Its development and testing programs. Concerns were originally raised by Adley King of The Federal Times, as part of an investigation into weapons testing within inhabited sectors. 
 

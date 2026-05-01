@@ -4,7 +4,8 @@ title: Sirius Defends Alliance Territory
 slug: sirius_defends_alliance_territory
 date: '3308-04-13'
 source: API
-arc_id: thargoid-titan-war
+summary: Sirius Corporation deploys megaships to the Coalsack and Witch Head Nebulas to provide anti-xeno support for the Alliance.
+player_impact: Pilots were invited to use Sirius megaships as bases for anti-xeno operations.
 persons:
 - Nikolas Glass
 groups:
@@ -22,17 +23,16 @@ topics:
 - alien contact
 - corporate expansion
 - engineering
-player_impact: Pilots were invited to use Sirius megaships as bases for anti-xeno operations.
-summary: Sirius Corporation deploys megaships to the Coalsack and Witch Head Nebulas to provide anti-xeno support for the Alliance.
-modern_impact: "\"The Coalsack Nebula and Witch Head Nebula regions are where Alliance interests are most at risk from Thargoid attack.\" Sirius Corporation's deployment demonstrated its military capabilities during the trial period of the Alliance strategic defence pact, foreshadowing the deepening corporate-military entanglement in Allied space."
+arc_id: thargoid-titan-war
+modern_impact: '"The Coalsack Nebula and Witch Head Nebula regions are where Alliance interests are most at risk from Thargoid attack." Sirius Corporation''s deployment demonstrated its military capabilities during the trial period of the Alliance strategic defence pact, foreshadowing the deepening corporate-military entanglement in Allied space.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - b391da8e-90b1-55d8-88e0-8ad93ae52300
 - 6632e17b-34c6-59ea-9191-ec8d4d51ea1e
-legacy_weight: 5
-significance: high
 ---
 
-*Pilots’ Federation ALERT*
+**Pilots’ Federation ALERT**
 Sirius Corporation megaships will soon arrive in The Coalsack and Witch Head Nebulas to provide anti-xeno support.
 The three vessels are intended as a demonstration of Sirius Corporation’s military capabilities, prior to the strategic defence pact being ratified by the Alliance Assembly.
 A public statement was provided by Admiral Nikolas Glass, The Sirius Navy representative on the Alliance Council of Admirals:

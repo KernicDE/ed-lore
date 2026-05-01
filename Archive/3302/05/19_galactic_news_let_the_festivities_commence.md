@@ -19,9 +19,6 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: Let The Festivities Commence
-
-
 The Diamond Frogs have announced that their campaign to bring party supplies to Skvortsov Orbital in the 63 G. Capricorni system has been enthusiastically received by the galactic community. A huge number of deliveries were made for the explorers' gala, Which will celebrate the achievements of the Distant Worlds explorers. 
 
 A spokesperson for the Diamond Frogs released a brief statement: 

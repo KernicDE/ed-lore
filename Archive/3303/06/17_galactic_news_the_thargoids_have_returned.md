@@ -12,20 +12,16 @@ persons:
 groups:
 - Federal Times
 locations: []
-technologies: []
 topics:
 - alien contact
 - research
 - ship
+technologies: []
 arc_id: thargoid-contact
-modern_impact: Thargoid activity escalates, fundamentally changing the galactic security
-  landscape and driving the creation of anti-xeno defence forces.
+modern_impact: Thargoid activity escalates, fundamentally changing the galactic security landscape and driving the creation of anti-xeno defence forces.
 legacy_weight: 5
 significance: high
 ---
-
-Galactic News: The Thargoids have Returned
-
 
 Over the past few days, media streams have been abuzz With news that the so-called Unknown Ships are in fact Thargoid vessels, as Many had speculated. The Federal Times, having spent Several days confirming sources and authenticating reports, has now published an in-depth account of the events that led to the revelation. 
 

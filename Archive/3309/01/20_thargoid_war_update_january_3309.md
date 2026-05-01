@@ -4,7 +4,8 @@ title: 'Thargoid War Update: January 3309'
 slug: thargoid_war_update_january_3309
 date: '3309-01-20'
 source: API
-entities: []
+summary: Vox Galactica reporter Jade Sanderlyn summarizes the devastating state of the Second Thargoid War following the arrival of the eight Maelstroms.
+player_impact: Not specifically mentioned — this is a battlefield report.
 persons:
 - Jade Sanderlyn
 - Ishmael Palin
@@ -19,17 +20,16 @@ topics:
 - research
 - war
 - xenoarchaeology
+entities: []
 arc_id: thargoid-titan-war
-player_impact: Not specifically mentioned — this is a battlefield report.
-summary: Vox Galactica reporter Jade Sanderlyn summarizes the devastating state of the Second Thargoid War following the arrival of the eight Maelstroms.
-modern_impact: "\"Until such a breakthrough occurs, we are reliant upon our spacefaring warriors to contain the most destructive adversary the human race has ever faced.\" This update crystallizes the desperation of the early Maelstrom period, highlighting how the loss of Aegis and Salvation left humanity dependent on independent pilots and scattered scientific efforts until a strategic breakthrough could be found."
+modern_impact: '"Until such a breakthrough occurs, we are reliant upon our spacefaring warriors to contain the most destructive adversary the human race has ever faced." This update crystallizes the desperation of the early Maelstrom period, highlighting how the loss of Aegis and Salvation left humanity dependent on independent pilots and scattered scientific efforts until a strategic breakthrough could be found.'
+legacy_weight: 5
+significance: high
 related_uuids:
 - 34e4a763-0bef-5ea7-a31c-23b00dada4b5
 - ef8aa0ef-a1a2-533c-9ce4-1f6693797d4b
 - 44b31919-ccfc-5eaa-afb1-81683c6c10d2
 - cbc7e2da-9850-584f-8605-72985e7a7a9c
-legacy_weight: 5
-significance: high
 ---
 
 Vox Galactica reporter Jade Sanderlyn has published a summary of the current situation in the conflict against the Thargoids.

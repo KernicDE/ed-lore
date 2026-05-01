@@ -15,19 +15,16 @@ locations:
 - Merope
 - PRE Logistics Support Gamma
 - Moni's Hub
-technologies: []
 topics:
 - construction
 - ship
 - war
+technologies: []
 arc_id: pleiades-expansion
 modern_impact: Superpower rivalry in the Pleiades intensifies as both the Empire and Federation establish permanent military and logistical bases.
 legacy_weight: 3
 significance: medium
 ---
-
-Community Goal: Superpower Expansion
-
 
 In recent weeks, both The Empire and the Federation have accelerated their expansion plans in the Maia and Merope systems, deploying Dozens of ships and establishing a number of outposts. The latest phase of these campaigns will see both superpowers constructing bases in the Pleiades region. 
 

@@ -4,21 +4,18 @@ title: Coalsack Nebula Campaign Completes Initial Stages
 slug: coalsack_nebula_campaign_completes_initial_stages
 date: '3306-11-17'
 source: GitHub
-groups:
-- Alliance
+summary: The Alliance Coalsack Nebula campaign successfully prepares the region for exploitation, with four new starports constructed and Thargoid presence reduced by independent pilots.
+player_impact: Pilots delivered commodities and fought Thargoids to secure the Coalsack Nebula for Alliance expansion.
 persons:
 - Morag Halloran
+groups:
+- Alliance
 topics:
 - corporate expansion
 - exploration
 - research
 - war
-summary: The Alliance Coalsack Nebula campaign successfully prepares the region for exploitation,
-  with four new starports constructed and Thargoid presence reduced by independent pilots.
-player_impact: Pilots delivered commodities and fought Thargoids to secure the Coalsack
-  Nebula for Alliance expansion.
-modern_impact: The Coalsack Nebula remains a key region for meta-alloy extraction and
-  Alliance expansion.
+modern_impact: The Coalsack Nebula remains a key region for meta-alloy extraction and Alliance expansion.
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -26,10 +23,7 @@ related_uuids:
 - 1d006eb4-9159-5609-8a8f-bffcce9793b8
 ---
 
-Coalsack Nebula Campaign Completes Initial Stages
-
-
-*Pilots Federation ALERT* 
+**Pilots Federation ALERT** 
 
 An Alliance initiative has successfully prepared The Coalsack Nebula for exploitation and reduced the Thargoids’ presence. 
 

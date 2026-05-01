@@ -6,21 +6,28 @@ date: '3302-10-27'
 source: GitHub
 summary: The EG Pilots, winners of the Dangerous Games, have entered the galactic stage as a new power led by ex-Federal Navy Admiral Yuri Grom. The United Research Council lifted preparatory restrictions near the Clayakarma, Nauo, Gyhldekala, Boga, and Kpaniya systems.
 player_impact: Independent pilots can support the EG Pilots power in its controlled systems.
-persons: [Yuri Grom]
-groups: [EG Pilots, Federal Navy, United Research Council]
-locations: [Clayakarma, Nauo, Gyhldekala, Boga, Kpaniya, Euryale]
-technologies: []
+persons:
+- Yuri Grom
+groups:
+- EG Pilots
+- Federal Navy
+- United Research Council
+locations:
+- Clayakarma
+- Nauo
+- Gyhldekala
+- Boga
+- Kpaniya
+- Euryale
 topics:
 - research
 - sport
 - war
+technologies: []
 modern_impact: Yuri Grom's emergence as an independent Power creates a new political force that challenges both Federal and Imperial influence in the frontier.
 legacy_weight: 1
 significance: low
 ---
-
-Galactic News: Yuri Grom Takes The Stage
-
 
 The Dangerous Games dominated headlines earlier This year, as some of galaxy's most powerful minor factions took part In a brutal battle for supremacy. 
 
