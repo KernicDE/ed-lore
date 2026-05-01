@@ -46,7 +46,6 @@ html, body {
   font-family: var(--font-body);
   font-size: 16px;
   line-height: 1.6;
-  overflow: hidden;
   height: 100%;
 }
 
@@ -54,7 +53,7 @@ html, body {
   height: 100vh;
   display: flex;
   flex-direction: column;
-  overflow-y: auto;
+  overflow: hidden;
 }
 
 /* ── HUD Header ─────────────────────────────────────────────────────────── */
@@ -127,6 +126,7 @@ html, body {
   background: var(--bg-primary);
   border-right: 1px solid var(--border-default);
   position: relative;
+  -webkit-overflow-scrolling: touch;
 }
 
 .context-pane {
@@ -137,6 +137,7 @@ html, body {
   overflow-y: auto;
   background: var(--bg-panel);
   padding: 20px;
+  -webkit-overflow-scrolling: touch;
 }
 
 /* ── Scrollbar ──────────────────────────────────────────────────────────── */
@@ -244,9 +245,7 @@ html, body {
 }
 
 .timeline-item {
-  padding: 14px 24px;
   border-bottom: 1px solid var(--border-default);
-  cursor: pointer;
   transition: background 0.15s;
   position: relative;
 }
@@ -257,15 +256,14 @@ html, body {
 
 .timeline-item.active {
   background: var(--bg-elevated);
-  border-left: 3px solid var(--elite-orange);
 }
 
-.timeline-item.high-significance {
-  border-left: 2px solid var(--elite-red);
-}
-
-.timeline-item.medium-significance {
-  border-left: 2px solid var(--elite-yellow);
+.timeline-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 12px;
+  padding: 14px 24px;
+  cursor: pointer;
 }
 
 .timeline-date {
@@ -283,7 +281,7 @@ html, body {
   line-height: 1.4;
 }
 
-.timeline-item:hover .timeline-title {
+.timeline-header:hover .timeline-title {
   color: var(--elite-orange-glow);
 }
 
@@ -476,42 +474,49 @@ html, body {
   color: var(--text-secondary);
 }
 
-/* ── Threat Level ───────────────────────────────────────────────────────── */
-.threat-level {
+/* ── Year Slider ────────────────────────────────────────────────────────── */
+.year-slider {
   display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 10px 14px;
+  gap: 6px;
+  overflow-x: auto;
+  padding: 10px 0;
+  margin-bottom: 16px;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+.year-slider::-webkit-scrollbar {
+  display: none;
+}
+
+.year-slider-btn {
+  flex-shrink: 0;
+  background: var(--bg-elevated);
+  border: 1px solid var(--border-default);
+  color: var(--text-secondary);
   font-family: var(--font-mono);
-  font-size: 13px;
+  font-size: 12px;
+  padding: 6px 14px;
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
 }
 
-.threat-bar {
-  flex: 1;
-  height: 5px;
-  background: var(--border-default);
-  position: relative;
+.year-slider-btn:hover {
+  border-color: var(--elite-orange-dim);
+  color: var(--elite-orange);
 }
 
-.threat-bar-fill {
-  height: 100%;
-  transition: width 0.5s, background 0.5s;
+.year-slider-btn.active {
+  background: rgba(255, 140, 0, 0.15);
+  border-color: var(--elite-orange);
+  color: var(--elite-orange);
 }
-
-.threat-low .threat-bar-fill { width: 25%; background: var(--elite-green); }
-.threat-medium .threat-bar-fill { width: 50%; background: var(--elite-yellow); }
-.threat-high .threat-bar-fill { width: 75%; background: var(--elite-orange); }
-.threat-critical .threat-bar-fill { width: 100%; background: var(--elite-red); }
 
 /* ── Animations ─────────────────────────────────────────────────────────── */
 @keyframes pulse-glow {
   0%, 100% { opacity: 0.6; }
   50% { opacity: 1; }
-}
-
-@keyframes scanline {
-  0% { transform: translateY(-100%); }
-  100% { transform: translateY(100vh); }
 }
 
 .pulse {
@@ -523,7 +528,6 @@ html, body {
   padding: 18px 24px;
   background: var(--bg-elevated);
   border-top: 1px solid var(--border-glow);
-  margin-top: 10px;
 }
 
 .detail-body {
@@ -637,5 +641,25 @@ html, body {
 @media (max-width: 900px) {
   .context-pane {
     display: none;
+  }
+  .hud-header {
+    padding: 0 12px;
+  }
+  .hud-title {
+    font-size: 14px;
+    letter-spacing: 1px;
+  }
+  .hud-subtitle {
+    display: none;
+  }
+  .timeline-header {
+    padding: 12px 16px;
+  }
+  .detail-view {
+    padding: 14px 16px;
+  }
+  .timeline-year-header {
+    padding: 8px 16px;
+    font-size: 16px;
   }
 }

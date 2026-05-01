@@ -13,7 +13,7 @@ const arc = graphData.arcs[id];
 
 const arcArticles = graphData.articles
   .filter((a) => a.arc_id === id)
-  .sort((a, b) => (a.date || '').localeCompare(b.date || ''));
+  .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 
 const keyEntities = (arc?.key_entities || [])
   .slice(0, 8)
@@ -98,7 +98,7 @@ const sigColors: Record<string, string> = {
           {(art.player_impact || art.modern_impact) && (
             <div style="margin-top: 8px; padding: 8px 10px; background: var(--bg-elevated); border: 1px solid var(--border-glow);">
               <div style="font-family: var(--font-mono); font-size: 10px; color: var(--text-dim); text-transform: uppercase; letter-spacing: 1px; margin-bottom: 8px; padding-bottom: 6px; border-bottom: 1px solid var(--border-default);">
-                Analysis
+                AI Analysis
               </div>
               {art.player_impact && (
                 <div style="margin-bottom: 8px;">

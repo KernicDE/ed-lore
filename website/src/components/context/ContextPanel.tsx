@@ -23,6 +23,8 @@ interface ContextPanelProps {
   entities: Record<string, Entity>;
   arcs: Record<string, Arc>;
   visibleArticles: { arc_id: string | null; entities: string[]; groups: string[]; locations: string[]; topics: string[]; persons: string[]; technologies: string[] }[];
+  allYears: string[];
+  onYearSelect?: (year: string) => void;
 }
 
 function makeEid(name: string): string {
@@ -93,6 +95,8 @@ export default function ContextPanel({
   entities,
   arcs,
   visibleArticles,
+  allYears,
+  onYearSelect,
 }: ContextPanelProps) {
   const isUnlocked = (firstSeen: string | null | undefined) => {
     if (!firstSeen) return true;
@@ -112,18 +116,15 @@ export default function ContextPanel({
       .slice(0, 6);
   }, [visibleArticles, arcs, currentDate]);
 
-  const keyFigures = useMemo(() => {
+  const contextEntities = useMemo(() => {
     const counts = new Map<string, number>();
     visibleArticles.forEach((a) => {
-      // Prefer manually enriched persons/technologies/groups/locations over
-      // rule-based entities which contain sentence fragments
       [...a.persons, ...a.technologies, ...a.groups, ...a.locations].forEach((name) => {
         const eid = makeEid(name);
         counts.set(eid, (counts.get(eid) || 0) + 1);
       });
-      // Only include rule-based entities if they look like proper nouns (no spaces = likely a name)
       a.entities.forEach((name) => {
-        if (name.includes(' ')) return; // skip sentence fragments
+        if (name.includes(' ')) return;
         const eid = makeEid(name);
         counts.set(eid, (counts.get(eid) || 0) + 1);
       });
@@ -136,28 +137,7 @@ export default function ContextPanel({
       .slice(0, 10);
   }, [visibleArticles, entities, currentDate]);
 
-  const threatLevel = useMemo(() => {
-    const topicCounts: Record<string, number> = {};
-    visibleArticles.forEach((a) => {
-      a.topics.forEach((t) => {
-        topicCounts[t] = (topicCounts[t] || 0) + 1;
-      });
-    });
-    const warScore = (topicCounts['war'] || 0) + (topicCounts['terrorism'] || 0) + (topicCounts['alien contact'] || 0);
-    const total = Object.values(topicCounts).reduce((a, b) => a + b, 0) || 1;
-    const ratio = warScore / total;
-    if (ratio > 0.5) return 'critical';
-    if (ratio > 0.3) return 'high';
-    if (ratio > 0.15) return 'medium';
-    return 'low';
-  }, [visibleArticles]);
-
-  const threatLabel = {
-    low: 'Stable',
-    medium: 'Elevated',
-    high: 'Critical',
-    critical: 'Extreme',
-  }[threatLevel];
+  const currentYear = currentDate?.split('-')[0] || '';
 
   const entityTypeLabel: Record<string, string> = {
     person: 'P',
@@ -168,19 +148,23 @@ export default function ContextPanel({
 
   return (
     <div className="context-pane">
-      {/* Threat Level */}
-      <div className="holo-panel red">
-        <div className="holo-title red">Threat Assessment</div>
-        <div className={`threat-level threat-${threatLevel}`}>
-          <span>{threatLabel}</span>
-          <div className="threat-bar">
-            <div className="threat-bar-fill" />
+      {/* Year Slider */}
+      {allYears.length > 0 && (
+        <div className="holo-panel">
+          <div className="holo-title">Jump to Year</div>
+          <div className="year-slider">
+            {allYears.map((year) => (
+              <button
+                key={year}
+                className={`year-slider-btn ${year === currentYear ? 'active' : ''}`}
+                onClick={() => onYearSelect?.(year)}
+              >
+                {year}
+              </button>
+            ))}
           </div>
         </div>
-        <div style={{ fontFamily: 'var(--font-mono)', fontSize: 11, color: 'var(--text-dim)', marginTop: 6 }}>
-          Timeline Date: {currentDate}
-        </div>
-      </div>
+      )}
 
       {/* Related Arcs */}
       {activeArcs.length > 0 && (
@@ -209,11 +193,11 @@ export default function ContextPanel({
         </div>
       )}
 
-      {/* Key Figures */}
-      {keyFigures.length > 0 && (
+      {/* Context */}
+      {contextEntities.length > 0 && (
         <div className="holo-panel">
-          <div className="holo-title">Key Figures</div>
-          {keyFigures.map((fig) => {
+          <div className="holo-title">Context</div>
+          {contextEntities.map((fig) => {
             const classified = !isUnlocked(fig.first_seen_date);
             return (
               <a
@@ -237,7 +221,7 @@ export default function ContextPanel({
         </div>
       )}
 
-      {activeArcs.length === 0 && keyFigures.length === 0 && (
+      {activeArcs.length === 0 && contextEntities.length === 0 && (
         <div className="holo-panel" style={{ textAlign: 'center', padding: 40 }}>
           <div style={{ fontFamily: 'var(--font-mono)', fontSize: 13, color: 'var(--text-dim)' }}>
             No data for this period

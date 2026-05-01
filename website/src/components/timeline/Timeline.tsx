@@ -31,9 +31,6 @@ interface TimelineProps {
   scrollToUuid?: string | null;
 }
 
-const ITEM_HEIGHT = 100;
-const BUFFER = 5;
-
 function wikiLinkToHtml(text: string, baseUrl: string): string {
   return text.replace(/\[\[([^\]]+)\]\]/g, (_match, name) => {
     const eid = name.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
@@ -82,6 +79,41 @@ function TagList({ items, color, baseUrl }: { items: string[]; color: string; ba
   );
 }
 
+function CopyLinkButton({ uuid }: { uuid: string }) {
+  const [copied, setCopied] = useState(false);
+  const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+
+  const handleClick = useCallback((e: React.MouseEvent) => {
+    e.stopPropagation();
+    const url = `${window.location.origin}${baseUrl}/?article=${uuid}`;
+    navigator.clipboard.writeText(url).then(() => {
+      setCopied(true);
+      setTimeout(() => setCopied(false), 2000);
+    });
+  }, [uuid, baseUrl]);
+
+  return (
+    <button
+      onClick={handleClick}
+      title="Copy link to article"
+      style={{
+        background: 'transparent',
+        border: '1px solid var(--border-glow)',
+        color: copied ? 'var(--elite-green)' : 'var(--text-dim)',
+        fontFamily: 'var(--font-mono)',
+        fontSize: 11,
+        padding: '4px 10px',
+        cursor: 'pointer',
+        transition: 'all 0.15s',
+        marginLeft: 'auto',
+        flexShrink: 0,
+      }}
+    >
+      {copied ? 'Copied!' : '🔗 Link'}
+    </button>
+  );
+}
+
 export default function Timeline({
   articles,
   onCenterDateChange,
@@ -91,119 +123,116 @@ export default function Timeline({
   scrollToUuid,
 }: TimelineProps) {
   const containerRef = useRef<HTMLDivElement>(null);
-  const [scrollTop, setScrollTop] = useState(0);
-  const [viewportHeight, setViewportHeight] = useState(800);
+  const itemRefs = useRef<Map<string, HTMLDivElement>>(new Map());
 
   const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
 
+  // Scroll to article on mount when ?article=uuid is present
+  useEffect(() => {
+    if (!scrollToUuid) return;
+    const el = itemRefs.current.get(scrollToUuid);
+    if (el && containerRef.current) {
+      el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+      const art = articles.find((a) => a.uuid === scrollToUuid);
+      if (art) onArticleSelect(art);
+    }
+  }, [scrollToUuid, articles, onArticleSelect]);
+
+  // Report scroll position to parent for context panel
   useEffect(() => {
     const el = containerRef.current;
     if (!el) return;
     const update = () => {
-      const vh = el.clientHeight;
-      const st = el.scrollTop;
-      setViewportHeight(vh);
-      setScrollTop(st);
-      onScrollUpdate?.(st, vh);
+      onScrollUpdate?.(el.scrollTop, el.clientHeight);
+      // Find center article for date display
+      const centerY = el.scrollTop + el.clientHeight / 2;
+      let closest: { idx: number; dist: number } = { idx: 0, dist: Infinity };
+      itemRefs.current.forEach((itemEl, uuid) => {
+        const rect = itemEl.getBoundingClientRect();
+        const containerRect = el.getBoundingClientRect();
+        const itemCenter = rect.top - containerRect.top + rect.height / 2;
+        const dist = Math.abs(itemCenter - el.clientHeight / 2);
+        if (dist < closest.dist) {
+          closest = { idx: articles.findIndex((a) => a.uuid === uuid), dist };
+        }
+      });
+      const art = articles[closest.idx];
+      if (art) onCenterDateChange(art.date);
     };
-    update();
     el.addEventListener('scroll', update, { passive: true });
-    const ro = new ResizeObserver(update);
-    ro.observe(el);
-    return () => {
-      el.removeEventListener('scroll', update);
-      ro.disconnect();
-    };
-  }, [onScrollUpdate]);
+    update();
+    return () => el.removeEventListener('scroll', update);
+  }, [articles, onCenterDateChange, onScrollUpdate]);
 
-  useEffect(() => {
-    if (!scrollToUuid || !containerRef.current) return;
-    const idx = articles.findIndex((a) => a.uuid === scrollToUuid);
-    if (idx === -1) return;
-    const el = containerRef.current;
-    const targetScroll = idx * ITEM_HEIGHT;
-    el.scrollTo({ top: targetScroll, behavior: 'smooth' });
-    const art = articles[idx];
-    if (art) onArticleSelect(art);
-  }, [scrollToUuid, articles, onArticleSelect]);
-
-  useEffect(() => {
-    const centerIdx = Math.floor((scrollTop + viewportHeight / 2) / ITEM_HEIGHT);
-    const art = articles[Math.min(Math.max(0, centerIdx), articles.length - 1)];
-    if (art) onCenterDateChange(art.date);
-  }, [scrollTop, viewportHeight, articles, onCenterDateChange]);
-
-  const startIdx = Math.max(0, Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER);
-  const endIdx = Math.min(articles.length, Math.ceil((scrollTop + viewportHeight) / ITEM_HEIGHT) + BUFFER);
-
-  const topSpacerHeight = startIdx * ITEM_HEIGHT;
-  const bottomSpacerHeight = (articles.length - endIdx) * ITEM_HEIGHT;
-
-  const handleItemClick = useCallback((art: Article) => {
+  const handleHeaderClick = useCallback((art: Article) => {
     onArticleSelect(selectedArticle?.uuid === art.uuid ? null : art);
   }, [onArticleSelect, selectedArticle]);
 
-  const visibleArticles = articles.slice(startIdx, endIdx);
-  const yearHeaders = useMemo(() => {
-    const headers: { year: string; index: number }[] = [];
-    let lastYear = '';
-    visibleArticles.forEach((art, i) => {
+  // Group articles by year for year headers
+  const yearGroups = useMemo(() => {
+    const groups: { year: string; articles: Article[] }[] = [];
+    let currentYear = '';
+    articles.forEach((art) => {
       const year = art.date?.split('-')[0] ?? 'Unknown';
-      if (year !== lastYear) {
-        headers.push({ year, index: startIdx + i });
-        lastYear = year;
+      if (year !== currentYear) {
+        groups.push({ year, articles: [art] });
+        currentYear = year;
+      } else {
+        groups[groups.length - 1].articles.push(art);
       }
     });
-    return headers;
-  }, [visibleArticles, startIdx]);
+    return groups;
+  }, [articles]);
 
   return (
     <div ref={containerRef} className="timeline-pane">
-      <div style={{ paddingTop: topSpacerHeight, paddingBottom: bottomSpacerHeight }}>
-        {visibleArticles.map((art, i) => {
-          const globalIdx = startIdx + i;
-          const isSelected = selectedArticle?.uuid === art.uuid;
-          const sigClass =
-            art.significance === 'high'
-              ? 'high-significance'
-              : art.significance === 'medium'
-              ? 'medium-significance'
-              : '';
-
-          const showYearHeader = yearHeaders.some((h) => h.index === globalIdx);
-
-          return (
-            <div key={art.uuid}>
-              {showYearHeader && (
-                <div className="timeline-year-header">
-                  {art.date?.split('-')[0] || 'Unknown'}
-                </div>
-              )}
+      {yearGroups.map((group) => (
+        <div key={group.year}>
+          <div className="timeline-year-header" data-year={group.year}>
+            {group.year}
+          </div>
+          {group.articles.map((art) => {
+            const isSelected = selectedArticle?.uuid === art.uuid;
+            return (
               <div
-                className={`timeline-item ${sigClass} ${isSelected ? 'active' : ''}`}
-                style={{ minHeight: ITEM_HEIGHT }}
-                onClick={() => handleItemClick(art)}
+                key={art.uuid}
+                ref={(el) => {
+                  if (el) itemRefs.current.set(art.uuid, el);
+                  else itemRefs.current.delete(art.uuid);
+                }}
+                className={`timeline-item ${isSelected ? 'active' : ''}`}
+                data-uuid={art.uuid}
               >
-                <div className="timeline-date">{art.date}</div>
-                <div className="timeline-title">{art.title}</div>
-                {!isSelected && art.summary && (
-                  <div className="timeline-preview">{art.summary}</div>
-                )}
-                <div className="timeline-meta">
-                  {art.arc_id && (
-                    <span className="timeline-badge arc">{art.arc_id.replace(/-/g, ' ')}</span>
-                  )}
-                  {art.topics.slice(0, 2).map((t) => (
-                    <span key={t} className="timeline-badge topic">{t}</span>
-                  ))}
+                {/* Clickable header */}
+                <div
+                  className="timeline-header"
+                  onClick={() => handleHeaderClick(art)}
+                >
+                  <div style={{ flex: 1, minWidth: 0 }}>
+                    <div className="timeline-date">{art.date}</div>
+                    <div className="timeline-title">{art.title}</div>
+                    {!isSelected && art.summary && (
+                      <div className="timeline-preview">{art.summary}</div>
+                    )}
+                    <div className="timeline-meta">
+                      {art.arc_id && (
+                        <span className="timeline-badge arc">{art.arc_id.replace(/-/g, ' ')}</span>
+                      )}
+                      {art.topics.slice(0, 2).map((t) => (
+                        <span key={t} className="timeline-badge topic">{t}</span>
+                      ))}
+                    </div>
+                  </div>
+                  <CopyLinkButton uuid={art.uuid} />
                 </div>
 
+                {/* Expanded detail view — NOT clickable */}
                 {isSelected && (
-                  <div className="detail-view">
-                    {/* Summary Box */}
+                  <div className="detail-view" onClick={(e) => e.stopPropagation()}>
+                    {/* AI Summary Box */}
                     {art.summary && (
                       <div className="detail-summary">
-                        <div className="detail-summary-label">Summary</div>
+                        <div className="detail-summary-label">AI Summary</div>
                         <div className="detail-summary-text">{art.summary}</div>
                       </div>
                     )}
@@ -216,10 +245,10 @@ export default function Timeline({
                       }}
                     />
 
-                    {/* Analysis Box */}
+                    {/* AI Analysis Box */}
                     {(art.player_impact || art.modern_impact) && (
                       <div className="detail-analysis">
-                        <div className="detail-analysis-label">Analysis</div>
+                        <div className="detail-analysis-label">AI Analysis</div>
                         {art.player_impact && (
                           <div className="detail-analysis-section">
                             <div className="detail-analysis-section-label" style={{ color: 'var(--elite-blue)' }}>
@@ -247,10 +276,10 @@ export default function Timeline({
                   </div>
                 )}
               </div>
-            </div>
-          );
-        })}
-      </div>
+            );
+          })}
+        </div>
+      ))}
     </div>
   );
 }

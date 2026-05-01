@@ -48,9 +48,6 @@ interface AppShellProps {
   arcs: Record<string, Arc>;
 }
 
-const ITEM_HEIGHT = 100;
-const BUFFER = 5;
-
 export default function AppShell({ articles, entities, arcs }: AppShellProps) {
   const [currentDate, setCurrentDate] = useState('3312-12-31');
   const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
@@ -64,13 +61,22 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
     return [...articles].sort((a, b) => (b.date || '').localeCompare(a.date || ''));
   }, [articles]);
 
+  // Extract all unique years from articles, sorted descending
+  const allYears = useMemo(() => {
+    const yearSet = new Set<string>();
+    sortedArticles.forEach((a) => {
+      const year = a.date?.split('-')[0];
+      if (year) yearSet.add(year);
+    });
+    return Array.from(yearSet).sort((a, b) => b.localeCompare(a));
+  }, [sortedArticles]);
+
   // Handle ?article=uuid query param on mount (for navigation from entity/arc pages)
   useEffect(() => {
     const params = new URLSearchParams(window.location.search);
     const targetUuid = params.get('article');
     if (targetUuid) {
       setScrollToUuid(targetUuid);
-      // Clean URL without reload
       window.history.replaceState({}, '', window.location.pathname);
     }
   }, []);
@@ -93,6 +99,17 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
     setSearchOpen(false);
     setTimeout(() => setScrollToUuid(null), 1000);
   }, []);
+
+  const handleYearSelect = useCallback((year: string) => {
+    // Find first article of this year (articles are sorted newest first)
+    const idx = sortedArticles.findIndex((a) => a.date?.startsWith(year));
+    if (idx !== -1) {
+      const art = sortedArticles[idx];
+      setScrollToUuid(art.uuid);
+      setSelectedArticle(null);
+      setTimeout(() => setScrollToUuid(null), 1000);
+    }
+  }, [sortedArticles]);
 
   // Listen for header search button click
   useEffect(() => {
@@ -117,10 +134,9 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
     return () => window.removeEventListener('keydown', onKey);
   }, [searchOpen]);
 
+  // Build visible articles for context panel (simpler without virtualization)
   const visibleArticles = useMemo(() => {
-    const startIdx = Math.max(0, Math.floor(scrollTop / ITEM_HEIGHT) - BUFFER);
-    const endIdx = Math.min(sortedArticles.length, Math.ceil((scrollTop + viewportHeight) / ITEM_HEIGHT) + BUFFER);
-    return sortedArticles.slice(startIdx, endIdx).map((a) => ({
+    return sortedArticles.map((a) => ({
       arc_id: a.arc_id,
       entities: a.entities,
       groups: a.groups,
@@ -129,7 +145,7 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
       persons: a.persons || [],
       technologies: a.technologies || [],
     }));
-  }, [scrollTop, viewportHeight, sortedArticles]);
+  }, [sortedArticles]);
 
   return (
     <>
@@ -147,6 +163,8 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
           entities={entities}
           arcs={arcs}
           visibleArticles={visibleArticles}
+          allYears={allYears}
+          onYearSelect={handleYearSelect}
         />
       </div>
       {searchOpen && (
