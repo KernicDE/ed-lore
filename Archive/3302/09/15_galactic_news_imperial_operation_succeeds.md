@@ -4,10 +4,18 @@ title: Galactic News  Imperial Operation Succeeds
 slug: galactic_news_imperial_operation_succeeds
 date: '3302-09-15'
 source: GitHub
+summary: The Xuangu Crimson Major Network has announced the successful conclusion of an Imperial operation to recover intelligence from Federal convoys in the Mu Koji system, despite the Empire suffering heavier ship losses than the Federation.
+player_impact: Pilots who contributed to the initiative can collect their rewards from Aksyonov Hub in the Mu Koji system.
+persons: []
+groups:
+- Xuangu Crimson Major Network
+locations:
+- Mu Koji
+- Aksyonov Hub
+technologies: []
 topics:
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The Imperial victory in Mu Koji secured valuable Federal intelligence at significant material cost, intensifying superpower rivalry.
 legacy_weight: 1
 significance: low
 ---

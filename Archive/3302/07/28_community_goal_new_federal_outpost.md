@@ -4,9 +4,20 @@ title: Community Goal  New Federal Outpost
 slug: community_goal_new_federal_outpost
 date: '3302-07-28'
 source: GitHub
+summary: The Federation announces plans to establish a new planetary outpost on HIP 17225 A 1, a known barnacle site, requesting tantalum, building fabricators and energy grid assemblies to be delivered to Obsidian Orbital in Maia.
+player_impact: Deliver tantalum, building fabricators and energy grid assemblies to Obsidian Orbital in the Maia system to support the new Federal outpost on HIP 17225 A 1.
+persons: []
+groups:
+- Federation
+- Future of Segovan
 locations:
 - Maia
 - Obsidian Orbital
+- HIP 17225 A 1
+technologies:
+- tantalum
+- building fabricators
+- energy grid assemblies
 topics:
 - construction
 - trade

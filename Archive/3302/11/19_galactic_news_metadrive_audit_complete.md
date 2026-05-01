@@ -4,14 +4,29 @@ title: Galactic News  MetaDrive Audit Complete
 slug: galactic_news_metadrive_audit_complete
 date: '3302-11-19'
 source: GitHub
+summary: The independent audit of defunct technology company MetaDrive Inc. has concluded.
+  Former employee Raan Corsen stole the company's Imperial Eagle, which later crashed in
+  the Alioth system, while a series of 'exodus documents' relating to the late chairman
+  Femi Dakarai could not be located.
+player_impact: None
+persons:
+- Femi Dakarai
+- Raan Corsen
+groups:
+- MetaDrive Inc.
+- BigSix
 locations:
 - Alioth
 topics:
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The completion of the MetaDrive audit and the disappearance of the 'exodus
+  documents' raised questions about hidden assets and the circumstances surrounding Femi
+  Dakarai's death.
 legacy_weight: 1
 significance: low
+technologies:
+- Imperial Eagle
 ---
 
 Galactic News: MetaDrive Audit Complete

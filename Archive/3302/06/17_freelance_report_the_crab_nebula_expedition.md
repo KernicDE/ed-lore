@@ -4,16 +4,25 @@ title: Freelance Report  The Crab Nebula Expedition
 slug: freelance_report_the_crab_nebula_expedition
 date: '3302-06-17'
 source: GitHub
-entities:
-- Ian Doncaster
+summary: Over 400 survey vessels depart from Mitterand Hollow in Epsilon Indi for the Crab Nebula Expedition, the largest coordinated exploration fleet since Distant Worlds, with Felicity Farseer and Elvira Martuuk competing to provide the best vessel refits.
+player_impact: Join the Crab Nebula Expedition for a detailed planetary and mineral survey of tens of thousands of systems; expected arrival at Crab Nebula on 5 July 3302.
+persons:
+- Commander Ian Doncaster
+- Felicity Farseer
+- Elvira Martuuk
+groups: []
 locations:
 - Epsilon Indi
+- Mitterand Hollow
 - Sol
+- Crab Nebula
+technologies: []
 topics:
 - exploration
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Major coordinated exploration effort expanding human knowledge of deep
+  space nebulae regions.
 legacy_weight: 2
 significance: low
 ---

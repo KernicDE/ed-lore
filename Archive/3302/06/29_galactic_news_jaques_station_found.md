@@ -4,13 +4,20 @@ title: Galactic News  Jaques Station Found!
 slug: galactic_news_jaques_station_found
 date: '3302-06-29'
 source: GitHub
-entities:
-- Cly also reported that
-- Cly happened upon
+summary: Commander Cly discovers Jaques Station in the Eol Prou RS-T d3-94 system while exploring the Eol Prou AA-A H89 Nebula; the starport is suffering from technical issues believed to be caused by Unknown-Artefact related interference.
+player_impact: None
+persons:
+- Commander Cly
+- Jaques
+groups: []
 locations:
-- Eol Prou
 - Eol Prou RS-T d3-94
+- Eol Prou AA-A H89 Nebula
 - Jaques Station
+- Gliese 1269
+- Beagle Point
+technologies:
+- meta-alloys
 topics:
 - construction
 arc_id: jaques-station

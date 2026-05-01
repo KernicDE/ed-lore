@@ -2,24 +2,32 @@
 id: metadrive-inc
 name: MetaDrive Inc.
 type: faction
-first_seen_date: '3303-02-17'
+first_seen_date: '3302-08-12'
 last_seen_date: '3303-02-17'
-mention_count: 1
+mention_count: 6
 related_entities:
+- chi-orionis
 - sirius-corporation
+- bigsix
+- alioth
+- galactic-finance-times
 ---
 
 <!-- AUTO-GENERATED -->
 
 # MetaDrive Inc.
 
-First mentioned: **3303-02-17**  
+First mentioned: **3302-08-12**  
 Last mentioned: **3303-02-17**  
-Total mentions: **1**
+Total mentions: **6**
 
 ## Related
 
-- [[Sirius Corporation]] (1 co-mentions)
+- [[Chi Orionis]] (3 co-mentions)
+- [[Sirius Corporation]] (3 co-mentions)
+- [[BigSix]] (2 co-mentions)
+- [[Alioth]] (2 co-mentions)
+- [[Galactic Finance Times]] (1 co-mentions)
 
 ## Biography
 

@@ -4,14 +4,19 @@ title: Galactic News  United Research Council Programme Postponed
 slug: galactic_news_united_research_council_programme_postponed
 date: '3302-09-02'
 source: GitHub
-entities:
+summary: Professor Ray Miller announced that the United Research Council's research programme will be temporarily delayed due to political lobbying, with activity restrictions lifted in the Coritab, Darian, Freng and Lunduwalaya systems.
+player_impact: None
+persons:
 - Ray Miller
+groups:
+- United Research Council
 locations:
-- Freng and Lunduwalaya
-topics:
-- research
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- Coritab
+- Darian
+- Freng
+- Lunduwalaya
+technologies: []
+modern_impact: Demonstrates how political interference from major powers can disrupt independent scientific research programmes.
 legacy_weight: 2
 significance: low
 ---

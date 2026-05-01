@@ -4,15 +4,17 @@ title: Galactic News  Federal Appeal Comes to an End
 slug: galactic_news_federal_appeal_comes_to_an_end
 date: '3302-10-06'
 source: GitHub
-locations:
-- Maia
-- Obsidian Orbital
+summary: The Federation announced that its campaign to construct a new outpost in the Maia system received enthusiastic support from hundreds of pilots who delivered construction materials to Obsidian Orbital. The Pleiades Resource Enterprise stated the outpost will help oppose Imperial efforts to control barnacles and meta-alloys.
+player_impact: Pilots who contributed can collect rewards from Obsidian Orbital in the Maia system.
+persons: []
+groups: [Federation, Pleiades Resource Enterprise]
+locations: [Maia, Obsidian Orbital]
+technologies: []
 topics:
 - construction
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Federal expansion into Maia to secure meta-alloy sources escalates superpower competition in the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---

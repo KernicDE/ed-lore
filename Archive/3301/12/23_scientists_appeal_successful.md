@@ -4,12 +4,15 @@ title: Scientist's Appeal Successful
 slug: scientists_appeal_successful
 date: '3301-12-23'
 source: GitHub
-entities:
-- Ishmael Palin issued
-- Palin
-- Palin announced that
+summary: Professor Ishmael Palin announces that his appeal for evacuation shelters to establish a research outpost on Maia b1ba was successful, and the new base should be operational within a week.
+player_impact: None
+persons:
+- Ishmael Palin
+groups: []
 locations:
 - Maia
+technologies:
+- evacuation shelters
 topics:
 - construction
 - research

@@ -9,8 +9,8 @@ key_entities:
 - alliance
 - alliance-assembly
 - pilots-federation
-- edmund-mahon
 - alliance-tribune
+- sirius-corporation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Articles: **31**
 ## Key Figures
 
 - [[Alliance]] (29 mentions)
-- [[Alliance Assembly]] (8 mentions)
+- [[Alliance Assembly]] (9 mentions)
 - [[Pilots Federation]] (7 mentions)
-- [[Edmund Mahon]] (5 mentions)
 - [[Alliance Tribune]] (5 mentions)
+- [[Sirius Corporation]] (4 mentions)
 
 ## Description
 

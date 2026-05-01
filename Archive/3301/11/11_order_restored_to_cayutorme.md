@@ -4,14 +4,19 @@ title: Order Restored to Cayutorme
 slug: order_restored_to_cayutorme
 date: '3301-11-11'
 source: GitHub
-entities:
-- Corrigendum Order Restored
-- Quade
+summary: Imperial forces defeat the Cayutorme Syndicate mercenary fleet, restoring order to the system; leader Kyle Kurowski is missing and captured vessels will be sold at a discount from Adkins Port.
+player_impact: Purchase captured mercenary vessels at a heavy discount from Adkins Port in Cayutorme.
+persons:
+- Kyle Kurowski
+- Admiral Lucius Lavigny
 groups:
 - Cayutorme Syndicate
 - Pilots Federation
+- Imperial Navy
 locations:
 - Cayutorme
+- Adkins Port
+technologies: []
 topics:
 - ship
 - war

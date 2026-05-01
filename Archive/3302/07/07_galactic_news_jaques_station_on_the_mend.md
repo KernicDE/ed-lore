@@ -5,17 +5,24 @@ slug: galactic_news_jaques_station_on_the_mend
 date: '3302-07-07'
 source: GitHub
 locations:
-- Eol Prou
 - Eol Prou RS-T d3-94
 - Jaques Station
 topics:
 - construction
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Highlights the first successful use of meta-alloys for large-scale
+  station repair, validating their utility beyond simple counter-UA applications.
 legacy_weight: 4
 significance: high
+summary: Personnel at Jaques Station report that limited repairs have been completed
+  using meta-alloys donated by independent pilots. The station is seeking funds for
+  a full repair campaign, while increasing numbers of pilots and delegations arrive
+  in the Eol Prou RS-T d3-94 system.
+player_impact: None
+groups: []
+persons: []
+technologies: []
 ---
 
 Galactic News: Jaques Station on The Mend

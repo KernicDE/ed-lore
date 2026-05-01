@@ -4,6 +4,15 @@ title: Freelance Report  Diamond Frogs Reportedly Attacking Traders
 slug: freelance_report_diamond_frogs_reportedly_attacking_traders
 date: '3302-05-20'
 source: GitHub
+summary: Reports indicate that some Diamond Frog ships are participating in piracy against traders delivering liquor and legal narcotics to Skvortsov Orbital for the Distant Worlds Expedition party, in addition to attacks by Eravate extremists.
+player_impact: Pilots delivering supplies to Skvortsov Orbital reported being interdicted by hostile Diamond Frog vessels.
+persons:
+- Virgil Kyle
+groups:
+- Diamond Frogs
+locations:
+- Skvortsov Orbital
+- Eravate
 topics:
 - exploration
 - narcotics

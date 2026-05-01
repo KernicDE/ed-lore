@@ -4,10 +4,18 @@ title: Galactic News  Generation Ships
 slug: galactic_news_generation_ships
 date: '3302-08-19'
 source: GitHub
+summary: Historian Sima Kalhana discussed the history of generation ships, noting that approximately 70,000 are still traversing the galaxy. She raised the possibility that some may reach destinations already colonised during their centuries-long voyages.
+player_impact: None
+persons:
+- Sima Kalhana
+groups: []
+locations: []
+technologies:
+- generation ship
 topics:
 - corporate expansion
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Generation ships remain a persistent mystery, with the potential for future first-contact or rediscovery scenarios as vessels approach unknown destinations.
 legacy_weight: 1
 significance: low
 ---

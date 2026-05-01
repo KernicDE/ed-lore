@@ -3,8 +3,8 @@ id: orula
 name: Orula
 type: location
 first_seen_date: '3302-02-25'
-last_seen_date: '3302-05-12'
-mention_count: 5
+last_seen_date: '3302-03-17'
+mention_count: 4
 related_entities:
 - orulas
 - ishmael-palin
@@ -18,13 +18,13 @@ related_entities:
 # Orula
 
 First mentioned: **3302-02-25**  
-Last mentioned: **3302-05-12**  
-Total mentions: **5**
+Last mentioned: **3302-03-17**  
+Total mentions: **4**
 
 ## Related
 
-- [[Orulas]] (4 co-mentions)
-- [[Ishmael Palin]] (3 co-mentions)
+- [[Orulas]] (3 co-mentions)
+- [[Ishmael Palin]] (2 co-mentions)
 - [[Lawrence]] (2 co-mentions)
 - [[I'm sick of these scumbags running my]] (1 co-mentions)
 - [[We also need volunteers to sweep the]] (1 co-mentions)

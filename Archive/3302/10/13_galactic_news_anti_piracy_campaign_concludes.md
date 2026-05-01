@@ -4,12 +4,18 @@ title: Galactic News  Anti Piracy Campaign Concludes
 slug: galactic_news_anti_piracy_campaign_concludes
 date: '3302-10-13'
 source: GitHub
+summary: Authorities in Slink's Eye announced that the anti-piracy operation successfully cleared the system of pirates, with hundreds of pilots contributing combat support and reactive armour deliveries to Kelleam Ring.
+player_impact: Pilots who contributed can collect rewards from Kelleam Ring.
+persons: [Jaylon Hart]
+groups: [Revolutionary Slink's Eye Liberals]
+locations: [Slink's Eye, Kelleam Ring]
+technologies: []
 topics:
 - independence
 - piracy
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Community anti-piracy operations remain a staple of local system security efforts across the galaxy.
 legacy_weight: 2
 significance: low
 ---

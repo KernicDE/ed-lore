@@ -4,23 +4,33 @@ title: Freelance Report  The Jaques Rescue Mission
 slug: freelance_report_the_jaques_rescue_mission
 date: '3302-07-01'
 source: GitHub
-entities:
-- Cly
 locations:
-- Eol Prou
 - Eol Prou RS-T d3-94
-- Further
 - Jaques Station
 - Maia
+- Synuefai PI-I c26-8
 topics:
 - exploration
 - humanitarian
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Independent pilot-led humanitarian effort demonstrates the community's
+  capacity for large-scale cooperative logistics and sets a precedent for future
+  rescue operations.
 legacy_weight: 4
 significance: high
+summary: A coalition of independent pilots is coordinating a mission to deliver meta-alloys
+  to Jaques Station in the Eol Prou RS-T d3-94 system to repair damage caused by
+  Unknown Artefacts. Pilots are gathering in Maia, with many flying Asp Explorers
+  fitted for long-range trade.
+player_impact: Deliver meta-alloys to Jaques Station in the Eol Prou RS-T d3-94 system.
+persons:
+- Commander Cly
+- Commander Andy B
+groups: []
+technologies:
+- Asp Explorer
+- fuel scoop
 ---
 
 Freelance Report: The Jaques Rescue Mission

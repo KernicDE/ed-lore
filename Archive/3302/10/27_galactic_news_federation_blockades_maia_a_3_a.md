@@ -4,22 +4,19 @@ title: Galactic News  Federation Blockades Maia A 3 a
 slug: galactic_news_federation_blockades_maia_a_3_a
 date: '3302-10-27'
 source: GitHub
-entities:
-- Arissa Lavigny-Duval said
-- Palin announced
-groups:
-- Alliance
-locations:
-- Independent reports from the Maia
-- Maia
+summary: A Farragut-class Battlecruiser blockaded Maia A 3 a near Professor Ishmael Palin's research base, redirecting pilots who strayed too close. Alliance Prime Minister Edmund Mahon called it "an egregious act of oppression" and Emperor Arissa Lavigny-Duval demanded the Federation curtail restrictions on Palin's freedoms.
+player_impact: None
+persons: [Professor Ishmael Palin, Edmund Mahon, Emperor Arissa Lavigny-Duval]
+groups: [Alliance, Federation]
+locations: [Maia, Maia A 3 a]
+technologies: [Farragut-class Battlecruiser]
 topics:
 - research
 - ship
 - succession
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: The Federal blockade of Maia A 3 a around Palin's base escalates superpower tensions over meta-alloy research and foreshadows contested access to alien technology.
 legacy_weight: 4
 significance: high
 ---

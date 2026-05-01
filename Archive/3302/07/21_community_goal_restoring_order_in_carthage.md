@@ -4,14 +4,20 @@ title: Community Goal  Restoring Order in Carthage
 slug: community_goal_restoring_order_in_carthage
 date: '3302-07-21'
 source: GitHub
+summary: Authorities in Carthage report a sharp increase in criminals and issue a kill order on all wanted ships to prevent disruption of Lavigny's Legion's Majestic-class Interdictor campaign.
+player_impact: Hunt wanted ships in the Carthage system and deliver bounty vouchers to Marker Depot to support Lavigny's Legion.
+persons: []
+groups:
+- Lavigny's Legion
 locations:
-- Authorities in the Carthage
 - Carthage
+- Marker Depot
+technologies: []
 topics:
 - crime
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---

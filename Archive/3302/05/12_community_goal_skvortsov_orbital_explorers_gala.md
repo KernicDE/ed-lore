@@ -4,13 +4,17 @@ title: Community Goal  Skvortsov Orbital Explorers' Gala
 slug: community_goal_skvortsov_orbital_explorers_gala
 date: '3302-05-12'
 source: GitHub
-entities:
+summary: O'Malligan's Coffee Bar at Skvortsov Orbital plans a massive party to celebrate the returning Distant Worlds explorers. The Diamond Frogs coordinate with the Pilots Federation to gather alcohol and recreational substances for the gala.
+player_impact: Pilots delivered alcohol and recreational substances to Skvortsov Orbital in the 63 G. Capricorni system for the explorers' gala.
+persons:
 - Paramemetic
 groups:
+- Diamond Frogs
 - Pilots Federation
 - Universal Cartographics
 locations:
-- Capricorni
+- Skvortsov Orbital
+- 63 G. Capricorni system
 topics:
 - exploration
 - festival

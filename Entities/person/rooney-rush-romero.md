@@ -1,0 +1,23 @@
+---
+id: rooney-rush-romero
+name: Rooney 'Rush' Romero
+type: person
+first_seen_date: '3301-11-19'
+last_seen_date: '3301-11-25'
+mention_count: 2
+---
+
+<!-- AUTO-GENERATED -->
+
+# Rooney 'Rush' Romero
+
+First mentioned: **3301-11-19**  
+Last mentioned: **3301-11-25**  
+Total mentions: **2**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

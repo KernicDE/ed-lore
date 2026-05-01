@@ -4,17 +4,31 @@ title: Freelance Report  The Reclamation of Facece
 slug: freelance_report_the_reclamation_of_facece
 date: '3302-07-02'
 source: GitHub
-entities:
-- Anders Blaine
 groups:
+- Imperial Naval Auxiliary
+- Facece Empire Party
+- Allied Facece Order
 - Imperial Herald
 locations:
 - Facece
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Demonstrates the ongoing struggle for system control between Imperial
+  loyalists and opposition forces, highlighting the role of the Imperial Naval Auxiliary
+  in power-play conflicts.
 legacy_weight: 2
 significance: low
+summary: After months of fighting, the Imperial Naval Auxiliary has reinstated the
+  Facece Empire Party as the controlling power of the Facece system. Marquis Endincite
+  coordinated the effort, while Chancellor Anders Blaine is reportedly preparing to
+  commend those involved.
+player_impact: Imperial-aligned pilots are urged to support the Facece Empire Party
+  and ensure its continued dominance in the Facece system.
+persons:
+- Marquis Endincite
+- Chancellor Anders Blaine
+- Commander Corrigendum
+technologies: []
 ---
 
 Freelance Report: The Reclamation of Facece

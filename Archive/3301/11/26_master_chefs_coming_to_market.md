@@ -4,17 +4,25 @@ title: Master Chefs Coming to Market
 slug: master_chefs_coming_to_market
 date: '3301-11-26'
 source: GitHub
+summary: The Revolutionary Noti Values Party confirms its 'Master Chefs' genetically engineered slaves are real and will soon be available for purchase, announcing plans to implant culinary knowledge directly into their cerebellums using Xihe Companions and holographic technology.
+player_impact: Deliver Xihe Companions to support the Revolutionary Noti Values Party's Master Chef implant project.
+persons: []
 groups:
+- Revolutionary Noti Values Party
 - Federal Times
 locations:
 - Noti
 - Weber Gateway
+technologies:
+- Xihe Companions
+- holographic technology
 topics:
 - genetic experiments
 - independence
 - slavery
 - war
-modern_impact: Independence movement challenging established political authority.
+modern_impact: Highlights ongoing ethical controversies surrounding genetic engineering
+  and slavery in the galaxy.
 legacy_weight: 2
 significance: low
 ---

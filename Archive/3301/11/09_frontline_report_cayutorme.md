@@ -4,11 +4,16 @@ title: Frontline Report  Cayutorme
 slug: frontline_report_cayutorme
 date: '3301-11-09'
 source: GitHub
+summary: Imperial Navy forces and auxiliary commanders score major victories against the Cayutorme Syndicate fleet, which may be forced to surrender or face destruction as it deploys reinforcements.
+player_impact: Continue supporting Imperial forces against the Cayutorme Syndicate to ensure their defeat.
+persons:
+- Commander Jack Hilding
 groups:
 - Cayutorme Syndicate
 - Imperial Navy
 locations:
 - Cayutorme
+technologies: []
 arc_id: cayutorme-conflict
 modern_impact: A significant military engagement testing the Empire's ability to project
   force against organized criminal syndicates.

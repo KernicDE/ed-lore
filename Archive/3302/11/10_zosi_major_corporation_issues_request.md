@@ -4,19 +4,31 @@ title: Zosi Major Corporation Issues Request
 slug: zosi_major_corporation_issues_request
 date: '3302-11-10'
 source: GitHub
-entities:
-- Arkady Cole
+summary: The Zosi Major Corporation has placed an open order for thermic alloys, chemical
+  manipulators and industrial firmware for an unspecified research and development project.
+  Dr Arkady Cole, the organisation's chief research scientist, confirmed participating pilots
+  should deliver resources to Citi Enterprise in the Zosi system.
+player_impact: Pilots can deliver thermic alloys, chemical manipulators and industrial
+  firmware to Citi Enterprise in the Zosi system for reimbursement.
+persons:
+- Dr Arkady Cole
+groups:
+- Zosi Major Corporation
 locations:
 - Zosi
+- Citi Enterprise
 topics:
 - corporate expansion
 - cyberattack
 - research
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: The Zosi Major Corporation's resource request for an undisclosed R&D project
+  highlighted the role of independent pilots in supplying materials for corporate research
+  initiatives.
 legacy_weight: 2
 significance: low
+technologies: []
 ---
 
 Zosi Major Corporation Issues Request

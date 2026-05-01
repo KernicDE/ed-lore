@@ -4,13 +4,16 @@ title: Freelance Report  Mysterious Wreck could be an Artefact of the Past
 slug: freelance_report_mysterious_wreck_could_be_an_artefact_of_the_past
 date: '3302-09-01'
 source: GitHub
-entities:
+summary: Professor Steven Eisler of the Okinura Xenobiology Institute speculates that a recently discovered non-human spacecraft wreck likely dates from humanity's first encounters with the Thargoids rather than representing recent activity.
+player_impact: None
+persons:
 - Steven Eisler
-topics:
-- alien contact
+groups:
+- Okinura Xenobiology Institute
+locations: []
+technologies: []
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Early speculation about non-human wreckage in the Pleiades laid groundwork for understanding Thargoid relics.
 legacy_weight: 5
 significance: high
 ---

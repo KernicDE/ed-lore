@@ -4,6 +4,13 @@ title: Galactic News  EG Pilots Dominate First Wildcard Event
 slug: galactic_news_eg_pilots_dominate_first_wildcard_event
 date: '3302-06-09'
 source: GitHub
+summary: The EG Pilots received the largest quantity of gold in the first Dangerous Games Wildcard event, though ultimate victory will not be determined until the end of the three-week campaign.
+player_impact: None
+persons: []
+groups:
+- EG Pilots
+locations: []
+technologies: []
 topics:
 - sport
 - war

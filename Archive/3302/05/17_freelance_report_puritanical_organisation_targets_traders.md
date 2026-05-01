@@ -4,9 +4,17 @@ title: Freelance Report  Puritanical Organisation Targets Traders
 slug: freelance_report_puritanical_organisation_targets_traders
 date: '3302-05-17'
 source: GitHub
-entities:
+summary: An extremist temperance organisation from Eravate begins interdicting and destroying traders delivering legal intoxicants to Skvortsov Orbital for the Distant Worlds Expedition celebration. The Diamond Frogs vow to protect delivery pilots.
+player_impact: Pilots delivering party supplies to Skvortsov Orbital faced attacks from Eravate extremists.
+persons:
 - Felix Dyson
 - Paramemetic
+groups:
+- Diamond Frogs
+locations:
+- Skvortsov Orbital
+- 63 G. Capricorni system
+- Eravate
 topics:
 - exploration
 - festival

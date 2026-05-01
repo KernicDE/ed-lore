@@ -6,11 +6,11 @@ first_seen_date: '3301-11-05'
 last_seen_date: '3302-06-17'
 mention_count: 6
 related_entities:
+- revolution-incorporated
+- london-relay
 - alliance
 - emperors-dawn
-- london-relay-in-the-epsilon-indi
 - federal-times
-- authorities-in-the-epsilon-indi
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **6**
 
 ## Related
 
+- [[Revolution Incorporated]] (2 co-mentions)
+- [[London Relay]] (2 co-mentions)
 - [[Alliance]] (1 co-mentions)
 - [[Emperor's Dawn]] (1 co-mentions)
-- [[London Relay in the Epsilon Indi]] (1 co-mentions)
 - [[Federal Times]] (1 co-mentions)
-- [[Authorities in the Epsilon Indi]] (1 co-mentions)
 
 ## Biography
 

@@ -4,8 +4,16 @@ title: Community Goal  Pranav Antal Requests Exploration Data
 slug: community_goal_pranav_antal_requests_exploration_data
 date: '3302-06-16'
 source: GitHub
+summary: Utopia leader Pranav Antal launches a campaign to gather exploration data to investigate why thousands of people disappear into space each year, though he stresses this is an intelligence-gathering operation rather than a rescue mission.
+player_impact: Deliver exploration data to Terry Port in the Garoku system to support Utopia's investigation into space disappearances.
+persons:
+- Pranav Antal
 groups:
 - Utopia
+locations:
+- Garoku
+- Terry Port
+technologies: []
 topics:
 - exploration
 - humanitarian

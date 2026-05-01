@@ -9,10 +9,21 @@ locations:
 topics:
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Captures the earliest pilot-community polarization over barnacle rights
+  and Federal intervention, a debate that will resurface throughout the Pleiades
+  crisis.
 legacy_weight: 4
 significance: high
+summary: Commanders across the galaxy are divided over the presence of the Federal
+  battle cruiser Thanatos at Merope 2 A, with some supporting the Federation's efforts
+  to conserve barnacles and others condemning the restriction on access to meta-alloys.
+player_impact: None
+persons:
+- Commander BluWolve
+groups:
+- Federation
+technologies:
+- Thanatos
 ---
 
 Freelance Report: Debate over Federal Intervention Continues

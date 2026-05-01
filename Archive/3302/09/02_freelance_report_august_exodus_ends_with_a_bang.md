@@ -4,14 +4,17 @@ title: Freelance Report  August Exodus Ends with a Bang
 slug: freelance_report_august_exodus_ends_with_a_bang
 date: '3302-09-02'
 source: GitHub
+summary: The August Exodus concluded with dozens of independent pilots gathering outside Jaques Station in Colonia for celebrations and a race on the track that would host the first official Colonia Citizens Network event.
+player_impact: None
+persons: []
+groups:
+- Colonia Citizens Network
+- August Exodus team
 locations:
-- Colonia
 - Jaques Station
-topics:
-- sport
+technologies: []
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: The celebration marked the successful establishment of the Colonia colony and the launch of a new frontier racing community.
 legacy_weight: 4
 significance: high
 ---

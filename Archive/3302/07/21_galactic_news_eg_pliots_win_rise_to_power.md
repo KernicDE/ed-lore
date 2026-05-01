@@ -4,8 +4,17 @@ title: Galactic News  EG Pliots win Rise to Power
 slug: galactic_news_eg_pliots_win_rise_to_power
 date: '3302-07-21'
 source: GitHub
+summary: The EG Pilots win the Rise to Power campaign after receiving the most salvaged precious gems in the final heat, earning recognition as a major galactic power.
+player_impact: None
+persons:
+- Trinity Avon
+groups:
+- EG Pilots
+- The Sovereign
 locations:
-- Laura Elizabeth in the Meropis
+- Meropis
+- Laura Elizabeth
+technologies: []
 topics:
 - construction
 - festival

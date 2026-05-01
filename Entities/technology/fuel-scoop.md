@@ -1,19 +1,19 @@
 ---
 id: fuel-scoop
-name: Fuel scoop
+name: fuel scoop
 type: technology
-first_seen_date: '3307-04-12'
-last_seen_date: '3307-04-12'
-mention_count: 1
+first_seen_date: '3302-07-01'
+last_seen_date: '3302-12-23'
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Fuel scoop
+# fuel scoop
 
-First mentioned: **3307-04-12**  
-Last mentioned: **3307-04-12**  
-Total mentions: **1**
+First mentioned: **3302-07-01**  
+Last mentioned: **3302-12-23**  
+Total mentions: **2**
 
 ## Related
 

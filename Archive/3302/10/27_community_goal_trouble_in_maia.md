@@ -4,13 +4,16 @@ title: Community Goal  Trouble in Maia
 slug: community_goal_trouble_in_maia
 date: '3302-10-27'
 source: GitHub
-locations:
-- Maia
+summary: The Ant Hill Mob, Maia's controlling faction, launched an offensive against the Pleiades Resource Enterprise after the Federation stationed a Farragut-class Battlecruiser at Maia A 3 a. Both factions appealed to Imperial and Federal pilots respectively for combat support.
+player_impact: Pilots can support either the Ant Hill Mob or the Pleiades Resource Enterprise in week-long combat operations in the Maia system.
+persons: []
+groups: [Ant Hill Mob, Pleiades Resource Enterprise, Federation]
+locations: [Maia, Maia A 3 a]
+technologies: [Farragut-class Battlecruiser]
 topics:
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: The Ant Hill Mob's resistance to Federal expansion in Maia exemplifies how local factions become proxies in superpower conflicts over strategic resources.
 legacy_weight: 3
 significance: medium
 ---

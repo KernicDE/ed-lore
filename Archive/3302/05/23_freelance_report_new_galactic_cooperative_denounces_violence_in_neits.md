@@ -4,6 +4,16 @@ title: Freelance Report  New Galactic Cooperative Denounces Violence in Neits
 slug: freelance_report_new_galactic_cooperative_denounces_violence_in_neits
 date: '3302-05-23'
 source: GitHub
+summary: The New Galactic Cooperative of Worlds (GalCop) denounces the ongoing violence in the Neits system between Federal and Imperial factions, appealing for an end to hostilities to protect citizens and business interests.
+player_impact: None
+persons:
+- Jahena Yar Savor
+groups:
+- New Galactic Cooperative of Worlds
+- Neits Jet Life Ltd
+- GR 316 Silver Universal Group
+locations:
+- Neits system
 topics:
 - war
 modern_impact: GalNet community report documenting current events in the galaxy.

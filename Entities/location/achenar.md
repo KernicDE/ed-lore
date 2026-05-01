@@ -9,8 +9,8 @@ related_entities:
 - alliance
 - nmla
 - capitol
-- sol
 - imperial-senate
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **71**
 - [[Alliance]] (21 co-mentions)
 - [[NMLA]] (19 co-mentions)
 - [[Capitol]] (18 co-mentions)
-- [[Sol]] (15 co-mentions)
 - [[Imperial Senate]] (15 co-mentions)
+- [[Sol]] (14 co-mentions)
 
 ## Biography
 

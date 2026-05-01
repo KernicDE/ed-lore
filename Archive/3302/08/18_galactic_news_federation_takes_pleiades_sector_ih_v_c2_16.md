@@ -4,11 +4,20 @@ title: Galactic News  Federation Takes Pleiades Sector IH V C2 16
 slug: galactic_news_federation_takes_pleiades_sector_ih_v_c2_16
 date: '3302-08-18'
 source: GitHub
+summary: Following a week of conflict, the Federation has taken control of the Pleiades Sector IH-V C2-16 system from the Imperial Inquisition. The Pleiades Resource Enterprise thanked Federal pilots and framed the victory as liberation from Imperial influence.
+player_impact: None (conflict concluded)
+persons: []
+groups:
+- Pleiades Resource Enterprise
+- Federation
+- Imperial Inquisition
+locations:
+- Pleiades Sector IH-V C2-16
+technologies: []
 topics:
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: Federal seizure of Pleiades Sector IH-V C2-16 marks a strategic victory in the superpower struggle for Pleiades territory and resources.
 legacy_weight: 3
 significance: medium
 ---

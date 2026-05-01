@@ -4,13 +4,23 @@ title: Gutamaya Shipyards Announces the Imperial Fighter
 slug: gutamaya_shipyards_announces_the_imperial_fighter
 date: '3301-12-06'
 source: GitHub
+summary: Gutamaya Shipyards announces the Imperial Fighter, a CQC Championship vessel designed by Pascal Roux as a tribute to the late Emperor Hengist Duval, balancing defence, firepower and manoeuvrability with two small hardpoints.
+player_impact: The Imperial Fighter will be available in CQC Championships in December and on general sale in early 3302.
+persons:
+- Pascal Roux
+- Hengist Duval
 groups:
 - Gutamaya Shipyards
 - Imperial Herald
+locations: []
+technologies:
+- Imperial Fighter
+- Eagle
+- F63 Condor
 topics:
 - ship
 - succession
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The Imperial Fighter expands CQC options and serves as a lasting tribute to Emperor Hengist Duval's legacy.
 legacy_weight: 1
 significance: low
 ---

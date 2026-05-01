@@ -7,10 +7,9 @@ mention_count: 4
 significance: medium
 key_entities:
 - cayutorme-syndicate
-- quade
-- kumo-crew
-- corrigendum-duelling-narratives
 - imperial-navy
+- kumo-crew
+- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +23,9 @@ Articles: **4**
 ## Key Figures
 
 - [[Cayutorme Syndicate]] (4 mentions)
-- [[Quade]] (2 mentions)
+- [[Imperial Navy]] (3 mentions)
 - [[Kumo Crew]] (1 mentions)
-- [[Corrigendum Duelling Narratives]] (1 mentions)
-- [[Imperial Navy]] (1 mentions)
+- [[Pilots Federation]] (1 mentions)
 
 ## Description
 

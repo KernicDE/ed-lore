@@ -8,9 +8,19 @@ locations:
 - Mars
 topics:
 - festival
-modern_impact: Community celebration bringing pilots together.
+modern_impact: Highlights persistent public distrust of the Federal government and
+  the controversial silencing of dissenting political figures.
 legacy_weight: 1
 significance: low
+summary: A growing number of Federal citizens are demanding the release of former
+  President Jasmina Halsey from a secure psychiatric facility on Mars. Protesters
+  believe she was confined to silence her, while her staff maintains she entered
+  voluntarily.
+player_impact: None
+persons:
+- Jasmina Halsey
+groups: []
+technologies: []
 ---
 
 Galactic News: Federal Citizens Call for Halsey's Release

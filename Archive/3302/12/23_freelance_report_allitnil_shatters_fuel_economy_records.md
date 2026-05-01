@@ -4,18 +4,22 @@ title: Freelance Report  Allitnil Shatters Fuel Economy Records
 slug: freelance_report_allitnil_shatters_fuel_economy_records
 date: '3302-12-23'
 source: GitHub
-entities:
+summary: Commander Allitnil has set a new record by travelling from Sol to Jaques Station in Colonia without stopping or equipping a fuel scoop, covering 5,489 hyperspace jumps in nine days aboard an Anaconda.
+player_impact: None
+persons:
 - Allitnil
-- Allitnil travelled mostly
+groups: []
 locations:
 - Colonia
 - Jaques Station
 - Sol
+technologies:
+- Anaconda
+- fuel scoop
 topics:
-- trade
+- exploration
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---

@@ -4,6 +4,13 @@ title: Community Goal  Tantalum for the Wyrd Raiders
 slug: community_goal_tantalum_for_the_wyrd_raiders
 date: '3302-05-05'
 source: GitHub
+summary: The Wyrd Raiders issue an open order for tantalum, citing urgency from an unnamed commercial partner. Rumours suggest the material may be intended for independent engineers.
+player_impact: Pilots delivered tantalum to Gareth Edwards Park in the Wyrd system to support the Wyrd Raiders' campaign.
+groups:
+- Wyrd Raiders
+locations:
+- Wyrd system
+- Gareth Edwards Park
 topics:
 - ship
 - war

@@ -2,24 +2,24 @@
 id: mentor
 name: Mentor
 type: location
-first_seen_date: '3304-03-31'
+first_seen_date: '3301-12-23'
 last_seen_date: '3304-03-31'
-mention_count: 2
+mention_count: 3
 related_entities:
 - aegis
 - lunguni
 - hip-21559
 - irandan
-- pilots-federation
+- lasswitz-terminal
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Mentor
 
-First mentioned: **3304-03-31**  
+First mentioned: **3301-12-23**  
 Last mentioned: **3304-03-31**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
@@ -27,7 +27,7 @@ Total mentions: **2**
 - [[Lunguni]] (2 co-mentions)
 - [[HIP 21559]] (2 co-mentions)
 - [[Irandan]] (2 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
+- [[Lasswitz Terminal]] (1 co-mentions)
 
 ## Biography
 

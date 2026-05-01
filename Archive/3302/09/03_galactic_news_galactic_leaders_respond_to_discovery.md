@@ -4,23 +4,24 @@ title: Galactic News  Galactic Leaders Respond to Discovery
 slug: galactic_news_galactic_leaders_respond_to_discovery
 date: '3302-09-03'
 source: GitHub
-entities:
-- Edmund Mahon struck
-- Zachary Hudson released
+summary: Emperor Arissa Lavigny-Duval, President Zachary Hudson and Alliance Prime Minister Edmund Mahon each issued statements responding to the discovery of a mysterious non-human shipwreck in the Pleiades Sector AB-W B2-4 system.
+player_impact: None
+persons:
+- Arissa Lavigny-Duval
+- Zachary Hudson
+- Edmund Mahon
 groups:
 - Alliance
+- Empire
+- Federation
 locations:
 - Capitol
 - Imperial Palace
-- Mars
 - White House
-topics:
-- ship
-- sport
-- succession
-- war
+- Pleiades Sector AB-W B2-4
+technologies: []
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+modern_impact: Superpower responses to the Pleiades wreck set precedents for how humanity reacts to potential alien contact.
 legacy_weight: 3
 significance: medium
 ---

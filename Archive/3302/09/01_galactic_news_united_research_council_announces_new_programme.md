@@ -4,17 +4,22 @@ title: Galactic News  United Research Council Announces New Programme
 slug: galactic_news_united_research_council_announces_new_programme
 date: '3302-09-01'
 source: GitHub
-entities:
+summary: The United Research Council announced a six-week research programme in systems within 30 light-years of Coritab, Darian, Freng and Lunduwalaya, with the Alliance, Empire and Federation granting the Council exclusive access.
+player_impact: Pilots pledged to major powers will be unable to lay claim to systems in the research area while the project is active.
+persons:
 - Ray Miller
 groups:
+- United Research Council
 - Alliance
+- Empire
+- Federation
 locations:
-- Freng and Lunduwalaya
-- Other
-topics:
-- research
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- Coritab
+- Darian
+- Freng
+- Lunduwalaya
+technologies: []
+modern_impact: Represents rare inter-power scientific cooperation, though political lobbying quickly undermined the effort.
 legacy_weight: 1
 significance: low
 ---

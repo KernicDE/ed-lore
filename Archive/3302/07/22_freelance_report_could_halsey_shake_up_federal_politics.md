@@ -4,9 +4,21 @@ title: Freelance Report  Could Halsey Shake up Federal Politics
 slug: freelance_report_could_halsey_shake_up_federal_politics
 date: '3302-07-22'
 source: GitHub
+summary: Political analyst Emilio Blythe speculates that former President Jasmina Halsey could return to politics and challenge Shadow President Felicia Winters for leadership of the Liberal Party, while the Hands of the Architects cult hopes she will become their prophet.
+player_impact: None
+persons:
+- Jasmina Halsey
+- Emilio Blythe
+- Felicia Winters
+groups:
+- Liberal Party
+- Hands of the Architects
+locations: []
+technologies: []
 topics:
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Halsey's potential return to politics introduces uncertainty into Federal
+  leadership and energises fringe movements.
 legacy_weight: 1
 significance: low
 ---

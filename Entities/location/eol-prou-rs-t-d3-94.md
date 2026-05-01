@@ -4,13 +4,13 @@ name: Eol Prou RS-T d3-94
 type: location
 first_seen_date: '3302-06-29'
 last_seen_date: '3302-12-01'
-mention_count: 13
+mention_count: 14
 related_entities:
-- eol-prou
 - jaques-station
-- cly-also-reported-that
-- cly-happened-upon
-- and-the-navigation
+- beagle-point
+- 80-dd-d-774-ce-2
+- gliese-1269
+- eol-prou-aa-a-h89-nebula
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3302-06-29**  
 Last mentioned: **3302-12-01**  
-Total mentions: **13**
+Total mentions: **14**
 
 ## Related
 
-- [[Eol Prou]] (13 co-mentions)
-- [[Jaques Station]] (11 co-mentions)
-- [[Cly also reported that]] (1 co-mentions)
-- [[Cly happened upon]] (1 co-mentions)
-- [[And the navigation]] (1 co-mentions)
+- [[Jaques Station]] (12 co-mentions)
+- [[Beagle Point]] (4 co-mentions)
+- [[80 DD-D 774-CE-2]] (3 co-mentions)
+- [[Gliese 1269]] (2 co-mentions)
+- [[Eol Prou AA-A H89 Nebula]] (1 co-mentions)
 
 ## Biography
 

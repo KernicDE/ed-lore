@@ -4,15 +4,21 @@ title: Galactic News  Federal Campaign Concludes
 slug: galactic_news_federal_campaign_concludes
 date: '3302-08-11'
 source: GitHub
-entities:
-- Hudson thanked those
+summary: Federal President Zachary Hudson announced the successful conclusion of the campaign to gather construction materials for three new Farragut-class Battlecruisers. Hundreds of pilots delivered materials to Brady Horizons in the Gooheimar system, allowing work on the first vessel to begin.
+player_impact: Collect rewards at Brady Horizons in Gooheimar if you contributed to the campaign.
+persons:
 - Zachary Hudson
+groups:
+- Federation
 locations:
-- Brady Horizons in the Gooheimar
+- Brady Horizons
+- Gooheimar
+technologies:
+- Farragut-class Battlecruiser
 topics:
 - construction
 - war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Federal capital ship construction signals intensified military posturing against the Empire and shapes long-term naval power balances.
 legacy_weight: 2
 significance: low
 ---

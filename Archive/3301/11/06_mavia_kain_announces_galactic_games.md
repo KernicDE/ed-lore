@@ -4,10 +4,22 @@ title: Mavia Kain Announces Galactic Games
 slug: mavia_kain_announces_galactic_games
 date: '3301-11-06'
 source: GitHub
+summary: High Inquisitor Mavia Kain of the Imperial Inquisition announces the Galactic Games for Charity in the Brestla system from 13-15 November, featuring a 200 million credit 'Top Gun' Championship and the first 'Elite Hunger Games' in Mk III Vipers.
+player_impact: Visit Roed Oodergaard Port in Brestla between 18:00 Friday 13th and 06:00 Saturday 14th November to register for the Top Gun Championship; 24 commanders will compete in the Elite Hunger Games final on Sunday at 20:00.
+persons:
+- Mavia Kain
+groups:
+- Imperial Inquisition
+- Princess Margaret Cancer Foundation
+locations:
+- Brestla
+- Roed Oodergaard Port
+technologies:
+- Mk III Viper
 topics:
 - ship
 - sport
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Charity combat tournament brings pilots together for competitive events while supporting cancer research.
 legacy_weight: 1
 significance: low
 ---

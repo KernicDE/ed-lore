@@ -4,17 +4,29 @@ title: Freelance Report  Federal Expansion Brought to a Halt
 slug: freelance_report_federal_expansion_brought_to_a_halt
 date: '3302-07-11'
 source: GitHub
-locations:
-- Ramsbottom Hub in the Segovan
 topics:
 - piracy
 - ship
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Illustrates how player actions and system states can abruptly derail
+  major power infrastructure projects, creating ripple effects across the galactic
+  economy.
 legacy_weight: 4
 significance: high
+summary: The Federal expansion campaign has been halted after Ramsbottom Hub in the
+  Segovan system entered lockdown, leaving thousands of pilots unable to deliver
+  construction materials. Some blame Imperial vessels, while others cite pirates.
+player_impact: None
+persons:
+- Commander BluWolve
+groups:
+- Federation
+- Empire
+locations:
+- Segovan
+- Ramsbottom Hub
+technologies: []
 ---
 
 Freelance Report: Federal Expansion Brought to a Halt

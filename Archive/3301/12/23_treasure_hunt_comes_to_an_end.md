@@ -4,10 +4,16 @@ title: Treasure Hunt Comes to an End
 slug: treasure_hunt_comes_to_an_end
 date: '3301-12-23'
 source: GitHub
+summary: Alfred Jeffress's third treasure hunt ends with two winners, Commanders MAX RED and Sync Mercy, who solved riddles leading through multiple systems to Lasswitz Terminal in Mentor and finally Prism.
+player_impact: None
+persons:
+- Alfred Jeffress
+groups: []
 locations:
-- Competitors were led to multiple
-- Lasswitz Terminal in the Mentor
+- Lasswitz Terminal
+- Mentor
 - Prism
+technologies: []
 topics:
 - ship
 - treasure hunt

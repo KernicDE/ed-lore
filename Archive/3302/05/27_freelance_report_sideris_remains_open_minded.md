@@ -4,12 +4,14 @@ title: Freelance Report  Sideris Remains Open Minded
 slug: freelance_report_sideris_remains_open_minded
 date: '3302-05-27'
 source: GitHub
-entities:
-- Halsey's 'architects' exist
+summary: Cynthia Sideris, chair of Universal Cartographics, comments on Jasmina Halsey's search for the 'architects of creation', noting that while their existence is uncertain, some form of non-human sentience likely exists given the vastness of the galaxy.
+player_impact: None
+persons:
+- Cynthia Sideris
 - Stateira Eleshenar
 groups:
-- Interstellar Press
 - Universal Cartographics
+- Interstellar Press
 topics:
 - alien contact
 - exploration

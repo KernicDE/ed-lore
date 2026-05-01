@@ -4,11 +4,18 @@ title: Galactic News  Imperial Appeal Comes to an End
 slug: galactic_news_imperial_appeal_comes_to_an_end
 date: '3302-08-04'
 source: GitHub
+summary: The Empire's appeal for meta-alloys concluded successfully, with large quantities delivered to Axon Station in the Zagoro system. The Zagoro Imperial Society stated this is the first step in challenging the Federal monopoly on the material.
+player_impact: None
+persons: []
+groups:
+- Zagoro Imperial Society
+- Empire
 locations:
-- Axon Station in the Zagoro
+- Axon Station
+- Zagoro
+technologies: []
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Imperial efforts to break the Federal meta-alloy monopoly mark the beginning of resource-driven superpower rivalry in the Pleiades.
 legacy_weight: 4
 significance: high
 ---

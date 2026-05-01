@@ -4,10 +4,17 @@ title: Community Goal  Final Stage of Wildcard Competition
 slug: community_goal_final_stage_of_wildcard_competition
 date: '3302-06-16'
 source: GitHub
+summary: The third and final stage of the Dangerous Games Wildcard competition begins, asking pilots to gather conductive fabrics for their chosen faction; the overall winner will enter the Dangerous Games to compete for official power status.
+player_impact: Gather conductive fabrics for your chosen faction in the final Wildcard heat to help them enter the Dangerous Games.
+persons: []
+groups: []
+locations: []
+technologies: []
 topics:
 - sport
 - trade
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Community competitive event demonstrating the power of organised player
+  factions in shaping galactic politics.
 legacy_weight: 1
 significance: low
 ---

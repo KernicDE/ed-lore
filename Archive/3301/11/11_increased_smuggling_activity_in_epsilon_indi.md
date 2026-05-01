@@ -4,18 +4,23 @@ title: Increased Smuggling Activity in Epsilon Indi
 slug: increased_smuggling_activity_in_epsilon_indi
 date: '3301-11-11'
 source: GitHub
+summary: Authorities at London Relay in Epsilon Indi report a dramatic spike in smuggling linked to 'Revolution Incorporated' requesting explosives, coinciding with the upcoming security summit.
+player_impact: None
+persons: []
 groups:
 - Federal Times
+- Revolution Incorporated
 locations:
-- Authorities in the Epsilon Indi
 - Epsilon Indi
+- London Relay
+technologies: []
 topics:
 - construction
 - corporate expansion
 - crime
 - diplomacy
 - independence
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+modern_impact: Smuggling surge during a major security summit highlights the brazenness of criminal elements and potential terrorism threats.
 legacy_weight: 2
 significance: low
 ---

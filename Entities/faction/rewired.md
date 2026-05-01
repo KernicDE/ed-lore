@@ -2,9 +2,9 @@
 id: rewired
 name: Rewired
 type: faction
-first_seen_date: '3304-05-31'
+first_seen_date: '3302-06-16'
 last_seen_date: '3304-07-08'
-mention_count: 4
+mention_count: 5
 related_entities:
 - inra
 - aegis
@@ -17,9 +17,9 @@ related_entities:
 
 # Rewired
 
-First mentioned: **3304-05-31**  
+First mentioned: **3302-06-16**  
 Last mentioned: **3304-07-08**  
-Total mentions: **4**
+Total mentions: **5**
 
 ## Related
 

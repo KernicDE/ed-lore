@@ -2,32 +2,32 @@
 id: lavignys-legion
 name: Lavigny's Legion
 type: faction
-first_seen_date: '3303-01-10'
+first_seen_date: '3302-07-21'
 last_seen_date: '3308-09-29'
-mention_count: 3
+mention_count: 6
 related_entities:
+- carthage
+- marker-depot
+- imperial-navy
 - citizens-relief-trust
 - pilots-federation
-- cemiess
-- mackenzie-relay
-- emerald
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Lavigny's Legion
 
-First mentioned: **3303-01-10**  
+First mentioned: **3302-07-21**  
 Last mentioned: **3308-09-29**  
-Total mentions: **3**
+Total mentions: **6**
 
 ## Related
 
+- [[Carthage]] (3 co-mentions)
+- [[Marker Depot]] (3 co-mentions)
+- [[Imperial Navy]] (2 co-mentions)
 - [[Citizens' Relief Trust]] (2 co-mentions)
 - [[Pilots Federation]] (2 co-mentions)
-- [[Cemiess]] (2 co-mentions)
-- [[Mackenzie Relay]] (2 co-mentions)
-- [[Emerald]] (2 co-mentions)
 
 ## Biography
 

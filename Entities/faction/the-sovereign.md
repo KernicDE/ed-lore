@@ -2,32 +2,32 @@
 id: the-sovereign
 name: The Sovereign
 type: faction
-first_seen_date: '3305-01-10'
+first_seen_date: '3302-06-02'
 last_seen_date: '3308-09-15'
-mention_count: 7
+mention_count: 11
 related_entities:
-- thargoid-advocacy-project
-- hip-22460
-- 42-n-persei
-- chun-pindit
-- tekkeitjal
+- alliance-elite-diplomatic-corps
+- border-coalition
+- galcop
+- interstellar-communist-union
+- social-eleu-progressive-party
 ---
 
 <!-- AUTO-GENERATED -->
 
 # The Sovereign
 
-First mentioned: **3305-01-10**  
+First mentioned: **3302-06-02**  
 Last mentioned: **3308-09-15**  
-Total mentions: **7**
+Total mentions: **11**
 
 ## Related
 
-- [[Thargoid Advocacy Project]] (2 co-mentions)
-- [[HIP 22460]] (2 co-mentions)
-- [[42 n Persei]] (2 co-mentions)
-- [[Chun Pindit]] (2 co-mentions)
-- [[Tekkeitjal]] (2 co-mentions)
+- [[Alliance Elite Diplomatic Corps]] (3 co-mentions)
+- [[Border Coalition]] (3 co-mentions)
+- [[GalCop]] (3 co-mentions)
+- [[Interstellar Communist Union]] (3 co-mentions)
+- [[Social Eleu Progressive Party]] (3 co-mentions)
 
 ## Biography
 

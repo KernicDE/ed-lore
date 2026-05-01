@@ -8,8 +8,8 @@ mention_count: 42
 related_entities:
 - maia
 - ishmael-palin
-- merope
 - canonn
+- merope
 - pleiades-nebula
 ---
 
@@ -25,9 +25,9 @@ Total mentions: **42**
 
 - [[Maia]] (28 co-mentions)
 - [[Ishmael Palin]] (8 co-mentions)
-- [[Merope]] (8 co-mentions)
 - [[Canonn]] (7 co-mentions)
-- [[Pleiades Nebula]] (6 co-mentions)
+- [[Merope]] (6 co-mentions)
+- [[Pleiades Nebula]] (5 co-mentions)
 
 ## Biography
 

@@ -4,9 +4,17 @@ title: Galactic News  Jasmina Halsey Discharged
 slug: galactic_news_jasmina_halsey_discharged
 date: '3302-07-15'
 source: GitHub
+summary: Former Federal President Jasmina Halsey is discharged from the Clearwater Clinic psychiatric facility on Mars after two months, having been admitted following claims of encountering super-intelligent beings in space.
+player_impact: None
+persons:
+- Jasmina Halsey
+groups: []
 locations:
 - Mars
-modern_impact: GalNet community report documenting current events in the galaxy.
+- Clearwater Clinic
+technologies: []
+modern_impact: Halsey's discharge and subsequent public statements keep the question of
+  alien intelligence alive in Federal politics.
 legacy_weight: 2
 significance: low
 ---

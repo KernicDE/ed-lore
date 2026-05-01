@@ -2,32 +2,32 @@
 id: bond-hub-in-the-varati
 name: Bond Hub in the Varati
 type: location
-first_seen_date: '3301-11-02'
+first_seen_date: '3302-03-02'
 last_seen_date: '3302-03-02'
-mention_count: 2
+mention_count: 1
 related_entities:
+- d-luffy
+- canonn
 - bond-hub
+- obsidian-orbital
 - varati
-- 64-arietis
-- warkushanui
-- weyn-dock
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Bond Hub in the Varati
 
-First mentioned: **3301-11-02**  
+First mentioned: **3302-03-02**  
 Last mentioned: **3302-03-02**  
-Total mentions: **2**
+Total mentions: **1**
 
 ## Related
 
-- [[Bond Hub]] (2 co-mentions)
-- [[Varati]] (2 co-mentions)
-- [[64 Arietis]] (1 co-mentions)
-- [[Warkushanui]] (1 co-mentions)
-- [[Weyn Dock]] (1 co-mentions)
+- [[D Luffy]] (1 co-mentions)
+- [[Canonn]] (1 co-mentions)
+- [[Bond Hub]] (1 co-mentions)
+- [[Obsidian Orbital]] (1 co-mentions)
+- [[Varati]] (1 co-mentions)
 
 ## Biography
 

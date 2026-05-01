@@ -4,14 +4,19 @@ title: Galactic News  Enthusiastic Response to Federal Appeal
 slug: galactic_news_enthusiastic_response_to_federal_appeal
 date: '3302-09-29'
 source: GitHub
+summary: The Pleiades Resource Enterprise has announced that its Federal appeal for exploration data in the Pleiades Nebula was enthusiastically received, with hundreds of pilots contributing astronomical data.
+player_impact: Pilots who contributed to the initiative can collect their rewards from Pre Logistics Support Gamma in the Pleiades Sector IH-V C2-5 system.
+persons: []
+groups:
+- Pleiades Resource Enterprise
 locations:
-- Pleiades Nebula
+- Pleiades Sector IH-V C2-5
+- Pre Logistics Support Gamma
+technologies: []
 topics:
 - exploration
-- war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: Successful Federal data gathering in the Pleiades strengthens cartographic coverage and supports ongoing investigation of non-human activity in the region.
 legacy_weight: 3
 significance: medium
 ---

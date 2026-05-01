@@ -4,8 +4,15 @@ title: Appeal for Crystalline Spheres Comes to an End
 slug: appeal_for_crystalline_spheres_comes_to_an_end
 date: '3301-12-23'
 source: GitHub
+summary: The Hel Purple Energy Industry's winter solstice appeal for Crystalline Spheres concludes successfully after hundreds of independent pilots delivered the requested commodities to Snow Moon in the Bento system.
+player_impact: None
+persons: []
+groups:
+- Hel Purple Energy Industry
 locations:
-- Snow Moon in the Bento
+- Snow Moon
+- Bento
+technologies: []
 topics:
 - festival
 - ship

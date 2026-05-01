@@ -4,18 +4,19 @@ title: Freelance Report  We Should Have Listened to Dr Lorax
 slug: freelance_report_we_should_have_listened_to_dr_lorax
 date: '3302-09-02'
 source: GitHub
-entities:
-- Hudson's acknowledgement that
-- Lorax
-- Zachary Hudson's claim that
+summary: Six months after Doctor Elana Lorax warned against aggressive harvesting of barnacles, independent pilots report that barnacles on Merope 5c have been entirely depleted despite President Zachary Hudson's stated objective to protect them.
+player_impact: None
+persons:
+- Elana Lorax
+- Zachary Hudson
+- Vindicator Jones
+groups:
+- Federation
 locations:
 - Merope
-topics:
-- alien contact
-- war
+technologies: []
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Early warnings about barnacle depletion proved accurate, foreshadowing later conflicts over Thargoid resources and territory.
 legacy_weight: 5
 significance: high
 ---

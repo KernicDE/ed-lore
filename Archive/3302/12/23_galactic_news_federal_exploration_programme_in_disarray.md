@@ -4,19 +4,29 @@ title: Galactic News  Federal Exploration Programme in Disarray
 slug: galactic_news_federal_exploration_programme_in_disarray
 date: '3302-12-23'
 source: GitHub
+summary: The Federation's exploration data appeal was derailed by a competing initiative from the Children of Raxxla, forcing the resignation of Mars High Astrocartography head Karl Devene and putting Federal exploration projects on hold.
+player_impact: None
+persons:
+- Karl Devene
+- Jackson Trent
+- Salomé
+- Denton Patreus
 groups:
+- Federation
+- Children of Raxxla
+- Mars High Astrocartography
+- The Imperial Citizen
 - Emperor's Dawn
 locations:
-- Mars
+- Mars High
+- Koontz Asylum
+technologies: []
 topics:
 - crime
 - exploration
 - research
-- ship
-- succession
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
-  politics and military policy.
+modern_impact: The Children of Raxxla's successful counter-appeal undermined Federal research efforts and intensified political tensions surrounding exploration data.
 legacy_weight: 5
 significance: high
 ---

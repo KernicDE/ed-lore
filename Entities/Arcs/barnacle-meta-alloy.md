@@ -6,11 +6,11 @@ last_seen_date: '3303-09-09'
 mention_count: 70
 significance: medium
 key_entities:
-- canonn
 - canonn-interstellar-research-group
+- canonn
+- federation
+- empire
 - ishmael-palin
-- arcanonn
-- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Articles: **70**
 
 ## Key Figures
 
-- [[Canonn]] (16 mentions)
-- [[Canonn Interstellar Research Group]] (12 mentions)
-- [[Ishmael Palin]] (11 mentions)
-- [[Arcanonn]] (9 mentions)
-- [[Alliance]] (8 mentions)
+- [[Canonn Interstellar Research Group]] (14 mentions)
+- [[Canonn]] (11 mentions)
+- [[Federation]] (11 mentions)
+- [[Empire]] (9 mentions)
+- [[Ishmael Palin]] (8 mentions)
 
 ## Description
 

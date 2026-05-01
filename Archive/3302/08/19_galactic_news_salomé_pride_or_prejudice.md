@@ -4,11 +4,17 @@ title: Galactic News  Salomé – Pride or Prejudice
 slug: galactic_news_salomé_pride_or_prejudice
 date: '3302-08-19'
 source: GitHub
-entities:
+summary: The Imperial Citizen published a second editorial attacking Commander Salomé, alleging she colluded with terrorists to murder her family and manipulated events to become a senator. The article claims she abandoned the Prism system to pursue personal political ambitions before disappearing and reappearing with dissident organisations.
+player_impact: None
+persons:
 - Salomé
+- Lady Kahina Tijani Loren
+groups:
+- Imperial Citizen
+- Children of Raxxla
 locations:
-- Heroine of the Prism
 - Prism
+technologies: []
 topics:
 - exploration
 - piracy
@@ -17,8 +23,7 @@ topics:
 - terrorism
 - war
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
+modern_impact: The Imperial Citizen's continued attacks on Salomé deepen the political scandal and rally both supporters and detractors around her alleged true identity.
 legacy_weight: 2
 significance: low
 ---

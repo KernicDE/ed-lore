@@ -4,13 +4,18 @@ title: Epsilon Indi Hosts Summit Conference
 slug: epsilon_indi_hosts_summit_conference
 date: '3301-11-05'
 source: GitHub
+summary: London Relay in Epsilon Indi hosts a three-day summit on terrorism and galactic security with Empire, Federation and Alliance representatives; Federal authorities raise concerns about 'Revolution Incorporated' planning a Gunpowder Plot commemoration during the event.
+player_impact: None
+persons: []
 groups:
 - Alliance
 - Emperor's Dawn
+- Revolution Incorporated
 locations:
 - Epsilon Indi
-- London Relay in the Epsilon Indi
+- London Relay
 - Pegasi Sector
+technologies: []
 topics:
 - corporate expansion
 - diplomacy
@@ -20,8 +25,7 @@ topics:
 - terrorism
 - war
 arc_id: imperial-succession
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+modern_impact: Rare trilateral summit on galactic security demonstrates both cooperation and ongoing tensions between superpowers.
 legacy_weight: 4
 significance: high
 ---

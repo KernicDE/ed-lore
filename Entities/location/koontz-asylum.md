@@ -2,28 +2,32 @@
 id: koontz-asylum
 name: Koontz Asylum
 type: location
-first_seen_date: '3303-03-24'
+first_seen_date: '3302-10-28'
 last_seen_date: '3303-03-24'
-mention_count: 1
+mention_count: 4
 related_entities:
-- empire
-- alliance
-- darnielles-progress
+- prism
+- daibo
+- imperial-herald
+- imperial-citizen
+- federation
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Koontz Asylum
 
-First mentioned: **3303-03-24**  
+First mentioned: **3302-10-28**  
 Last mentioned: **3303-03-24**  
-Total mentions: **1**
+Total mentions: **4**
 
 ## Related
 
-- [[Empire]] (1 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Darnielle's Progress]] (1 co-mentions)
+- [[Prism]] (2 co-mentions)
+- [[Daibo]] (2 co-mentions)
+- [[Imperial Herald]] (1 co-mentions)
+- [[Imperial Citizen]] (1 co-mentions)
+- [[Federation]] (1 co-mentions)
 
 ## Biography
 

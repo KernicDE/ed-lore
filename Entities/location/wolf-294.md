@@ -2,9 +2,9 @@
 id: wolf-294
 name: Wolf 294
 type: location
-first_seen_date: '3306-09-21'
+first_seen_date: '3302-08-05'
 last_seen_date: '3306-10-01'
-mention_count: 2
+mention_count: 3
 related_entities:
 - pilots-federation
 - fjorgyn
@@ -17,9 +17,9 @@ related_entities:
 
 # Wolf 294
 
-First mentioned: **3306-09-21**  
+First mentioned: **3302-08-05**  
 Last mentioned: **3306-10-01**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

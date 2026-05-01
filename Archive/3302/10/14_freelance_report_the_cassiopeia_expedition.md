@@ -4,9 +4,15 @@ title: Freelance Report  The Cassiopeia Expedition
 slug: freelance_report_the_cassiopeia_expedition
 date: '3302-10-14'
 source: GitHub
+summary: The Earth Expeditionary Fleet announced a bold expedition beyond the Perseus Arm to locate Cassiopeia A and Tycho's Star, two supernova remnants in the Cassiopeia constellation, passing through the Formidine Rift.
+player_impact: Pilots could join the expedition departing from Chi Orionis in the first week of November 3302.
+persons: [Commander Finn McMillan]
+groups: [Earth Expeditionary Fleet]
+locations: [Chi Orionis, Perseus Arm, Formidine Rift, Cassiopeia]
+technologies: [Frame Shift Drive]
 topics:
 - exploration
-modern_impact: Notable exploration achievement.
+modern_impact: The Cassiopeia Expedition advances deep-space exploration into the Formidine Rift, one of the galaxy's most dangerous regions.
 legacy_weight: 2
 significance: low
 ---

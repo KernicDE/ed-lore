@@ -4,14 +4,23 @@ title: Galactic News  Ram Tah Laboratory Attacked
 slug: galactic_news_ram_tah_laboratory_attacked
 date: '3302-12-02'
 source: GitHub
+summary: The research centre at Felice Dock in the Meene system was severely damaged in an act of vandalism targeting Ram Tah's investigation into the Synuefe XR-H d11-102 ruins, prompting relocation to Phoenix Base with strict security.
+player_impact: None
+persons:
+- Ram Tah
+groups: []
 locations:
-- Felice Dock in the Meene
+- Felice Dock
+- Meene
+- Phoenix Base
+- Synuefe XR-H d11-102
+technologies: []
 topics:
 - construction
 - crime
 - investigation
 - research
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Attack on Ram Tah's laboratory highlights the political and military stakes surrounding ancient site research.
 legacy_weight: 2
 significance: low
 ---

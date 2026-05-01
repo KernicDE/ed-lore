@@ -4,13 +4,18 @@ title: Fake Gem Scam Discovered
 slug: fake_gem_scam_discovered
 date: '3301-12-17'
 source: GitHub
+summary: A massive fraud involving fake precious gems originating from the Prism system has been uncovered, with security services admitting thousands of fakes were sold and costing the economy millions of credits.
+player_impact: None
+persons: []
+groups: []
 locations:
 - Prism
+technologies: []
 topics:
 - crime
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets and local economies.
+modern_impact: Highlights ongoing commodity fraud in the galaxy and the challenges facing local security services.
 legacy_weight: 1
 significance: low
 ---

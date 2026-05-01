@@ -3,8 +3,8 @@ id: stateira-eleshenar
 name: Stateira Eleshenar
 type: person
 first_seen_date: '3302-04-12'
-last_seen_date: '3302-05-27'
-mention_count: 2
+last_seen_date: '3302-04-12'
+mention_count: 1
 related_entities:
 - interstellar-press
 - gorbachev-starport-in-the-sol
@@ -18,12 +18,12 @@ related_entities:
 # Stateira Eleshenar
 
 First mentioned: **3302-04-12**  
-Last mentioned: **3302-05-27**  
-Total mentions: **2**
+Last mentioned: **3302-04-12**  
+Total mentions: **1**
 
 ## Related
 
-- [[Interstellar Press]] (2 co-mentions)
+- [[Interstellar Press]] (1 co-mentions)
 - [[Gorbachev starport in the Sol]] (1 co-mentions)
 - [[Quince]] (1 co-mentions)
 - [[Sol]] (1 co-mentions)

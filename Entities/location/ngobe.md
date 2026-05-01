@@ -2,32 +2,32 @@
 id: ngobe
 name: Ngobe
 type: location
-first_seen_date: '3311-03-19'
+first_seen_date: '3301-11-19'
 last_seen_date: '3311-03-19'
-mention_count: 1
+mention_count: 3
 related_entities:
-- brewer-corporation
-- hip-90578
-- orgen
-- bletii
-- 34-omicron-cephei
+- 49-arietis
+- 64-arietis
+- warkushanui
+- iapodes
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Ngobe
 
-First mentioned: **3311-03-19**  
+First mentioned: **3301-11-19**  
 Last mentioned: **3311-03-19**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Brewer Corporation]] (1 co-mentions)
-- [[HIP 90578]] (1 co-mentions)
-- [[Orgen]] (1 co-mentions)
-- [[Bletii]] (1 co-mentions)
-- [[34 Omicron Cephei]] (1 co-mentions)
+- [[49 Arietis]] (2 co-mentions)
+- [[64 Arietis]] (2 co-mentions)
+- [[Warkushanui]] (2 co-mentions)
+- [[Iapodes]] (2 co-mentions)
+- [[Sol]] (2 co-mentions)
 
 ## Biography
 

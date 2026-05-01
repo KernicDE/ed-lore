@@ -2,28 +2,32 @@
 id: eg-pilots
 name: EG Pilots
 type: faction
-first_seen_date: '3304-03-23'
+first_seen_date: '3302-06-09'
 last_seen_date: '3304-03-23'
-mention_count: 1
+mention_count: 10
 related_entities:
-- eg-union
-- cpc-20-6743
-- lyakhov-dock
+- border-coalition
+- galcop
+- social-eleu-progressive-party
+- the-sovereign
+- alliance-elite-diplomatic-corps
 ---
 
 <!-- AUTO-GENERATED -->
 
 # EG Pilots
 
-First mentioned: **3304-03-23**  
+First mentioned: **3302-06-09**  
 Last mentioned: **3304-03-23**  
-Total mentions: **1**
+Total mentions: **10**
 
 ## Related
 
-- [[EG Union]] (1 co-mentions)
-- [[CPC 20 6743]] (1 co-mentions)
-- [[Lyakhov Dock]] (1 co-mentions)
+- [[Border Coalition]] (3 co-mentions)
+- [[GalCop]] (3 co-mentions)
+- [[Social Eleu Progressive Party]] (3 co-mentions)
+- [[The Sovereign]] (3 co-mentions)
+- [[Alliance Elite Diplomatic Corps]] (2 co-mentions)
 
 ## Biography
 

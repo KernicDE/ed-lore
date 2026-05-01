@@ -2,9 +2,9 @@
 id: liberal-party
 name: Liberal Party
 type: faction
-first_seen_date: '3303-07-01'
+first_seen_date: '3302-07-22'
 last_seen_date: '3309-02-27'
-mention_count: 5
+mention_count: 6
 related_entities:
 - core-dynamics
 - federal-congress
@@ -17,9 +17,9 @@ related_entities:
 
 # Liberal Party
 
-First mentioned: **3303-07-01**  
+First mentioned: **3302-07-22**  
 Last mentioned: **3309-02-27**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 

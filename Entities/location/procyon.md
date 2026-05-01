@@ -10,7 +10,7 @@ related_entities:
 - cormack-hub
 - bonespire-publishing
 - blatrimpe
-- alliance
+- davy-dock
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **6**
 - [[Cormack Hub]] (2 co-mentions)
 - [[Bonespire Publishing]] (2 co-mentions)
 - [[Blatrimpe]] (2 co-mentions)
-- [[Alliance]] (1 co-mentions)
+- [[Davy Dock]] (1 co-mentions)
 
 ## Biography
 

@@ -4,13 +4,17 @@ title: Community Goal  The Battle for Neits
 slug: community_goal_the_battle_for_neits
 date: '3302-05-19'
 source: GitHub
-entities:
+summary: The Neits system erupts into conflict as Federation-aligned Neits Jet Life Ltd clashes with Imperial GR 316 Silver Universal Group. The strategically positioned system has long resisted both superpowers' influence.
+player_impact: Pilots chose sides in the battle for Neits, supporting either the Federal or Imperial faction to determine system control.
+persons:
 - Zachary Hudson
+- Arissa Lavigny-Duval
+groups:
+- Neits Jet Life Ltd
+- GR 316 Silver Universal Group
 locations:
-- Authorities in the
-- But one inhabitant of the
-- The
-- This testimony comes from the Neits
+- Neits system
+- Watson Settlement
 topics:
 - independence
 - ship

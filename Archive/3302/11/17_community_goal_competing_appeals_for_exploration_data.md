@@ -4,17 +4,37 @@ title: Community Goal  Competing Appeals for Exploration Data
 slug: community_goal_competing_appeals_for_exploration_data
 date: '3302-11-17'
 source: GitHub
+summary: The Federal astrocartography department has issued a public request for exploration
+  data from three specific zones: Hawkin's Gap, the Conflux and the Formidine Rift. Meanwhile,
+  the Children of Raxxla has issued an identical request, claiming the data will prove the
+  innocence of their leader, Kahina Loren.
+player_impact: Pilots can travel to Hawkin's Gap, the Conflux or the Formidine Rift and
+  collect exploration data within a 200 light year radius for either the Federal operation
+  or the Children of Raxxla.
+persons:
+- Mark Devene
+- Kahina Loren
+groups:
+- Federal astrocartography department
+- Tau Ceti Crimson Legal Solutions
+- Children of Raxxla
 locations:
-- Sol
-- We want high-quality information on
+- Hawkin's Gap
+- Conflux
+- Formidine Rift
+- PLAA AEC IZ-N C20-1
+- PRU AESCS DL-W C15-37
+- EAFOTS EU-R C4-1
 topics:
 - exploration
 - investigation
 arc_id: raxxla-mystery
-modern_impact: The enduring Raxxla mystery continues to captivate explorers and conspiracy
-  theorists.
+modern_impact: The competing Federal and Children of Raxxla appeals for exploration data
+  from the Formidine Rift, Conflux and Hawkin's Gap intensified the search for evidence
+  related to Kahina Loren's case and deep-space anomalies.
 legacy_weight: 2
 significance: low
+technologies: []
 ---
 
 Community Goal: Competing Appeals for Exploration Data

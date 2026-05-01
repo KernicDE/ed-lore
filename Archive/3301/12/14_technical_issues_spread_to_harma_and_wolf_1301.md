@@ -4,12 +4,19 @@ title: Technical Issues spread to Harma and Wolf 1301
 slug: technical_issues_spread_to_harma_and_wolf_1301
 date: '3301-12-14'
 source: GitHub
+summary: Gabriel Enterprise in Harma and Saunders's Dive in Wolf 1301 report extensive technical failures including system malfunctions and blackouts, part of a spreading wave of station problems.
+player_impact: None
+persons: []
+groups: []
 locations:
 - Harma
+- Gabriel Enterprise
 - Wolf 1301
+- Saunders's Dive
+technologies: []
 topics:
 - construction
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+modern_impact: Further evidence linking Unknown Artefacts to station malfunctions, deepening the mystery of their destructive effects.
 legacy_weight: 2
 significance: low
 ---

@@ -5,7 +5,6 @@ slug: galactic_news_memorial_to_the_highliner_antares_unveiled
 date: '3302-07-01'
 source: GitHub
 groups:
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Sirius
@@ -13,9 +12,18 @@ topics:
 - corporate expansion
 - ship
 arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster.
+modern_impact: Preserves public memory of the Antares disaster and keeps pressure
+  on Sirius Corporation to explain the ship's mysterious destruction.
 legacy_weight: 3
 significance: medium
+summary: The Sirius Corporation has unveiled a memorial to the victims of the Highliner
+  Antares, which was destroyed in 3251. Artist Delvin Hoorgan created the sculpture
+  using debris from the ship and light-bending meta-materials.
+player_impact: None
+persons:
+- Delvin Hoorgan
+technologies:
+- Highliner Antares
 ---
 
 Galactic News: Memorial to The Highliner Antares Unveiled

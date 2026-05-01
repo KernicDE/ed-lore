@@ -4,7 +4,7 @@ name: Tanmark
 type: location
 first_seen_date: '3301-02-24'
 last_seen_date: '3307-07-12'
-mention_count: 9
+mention_count: 8
 related_entities:
 - kappa-fornacis
 - panem
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-24**  
 Last mentioned: **3307-07-12**  
-Total mentions: **9**
+Total mentions: **8**
 
 ## Related
 

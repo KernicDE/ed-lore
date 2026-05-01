@@ -4,13 +4,12 @@ name: Edmund Mahon
 type: person
 first_seen_date: '3301-03-11'
 last_seen_date: '3306-11-09'
-mention_count: 8
+mention_count: 3
 related_entities:
 - alliance
 - alioth
 - lugh
 - lave
-- hip-19072
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +18,14 @@ related_entities:
 
 First mentioned: **3301-03-11**  
 Last mentioned: **3306-11-09**  
-Total mentions: **8**
+Total mentions: **3**
 
 ## Related
 
-- [[Alliance]] (8 co-mentions)
-- [[Alioth]] (3 co-mentions)
+- [[Alliance]] (3 co-mentions)
+- [[Alioth]] (2 co-mentions)
 - [[Lugh]] (1 co-mentions)
 - [[Lave]] (1 co-mentions)
-- [[HIP 19072]] (1 co-mentions)
 
 ## Biography
 

@@ -4,20 +4,25 @@ title: Galactic News  Federation Issues Rebuttal
 slug: galactic_news_federation_issues_rebuttal
 date: '3302-06-25'
 source: GitHub
-entities:
-- Arcanonn
+summary: Admiral Maxton Price of the Federal Navy rejects claims that Farragut Battle Cruisers in Merope made unprovoked attacks on independent pilots, asserting the Federation has no military agenda and will only respond if fired upon.
+player_impact: None
+persons:
+- Admiral Maxton Price
+- Dr Arcanonn
 groups:
-- Canonn
-- Canonn Interstellar Research Group
 - Federal Navy
+- Canonn Interstellar Research Group
 locations:
 - Merope
+technologies:
+- Farragut Battle Cruiser
 topics:
 - investigation
 - research
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Federal military presence at barnacle sites escalates tensions and sets
+  a precedent for superpower resource competition.
 legacy_weight: 2
 significance: low
 ---

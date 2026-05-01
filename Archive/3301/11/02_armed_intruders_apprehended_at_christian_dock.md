@@ -4,19 +4,23 @@ title: Armed Intruders Apprehended at Christian Dock
 slug: armed_intruders_apprehended_at_christian_dock
 date: '3301-11-02'
 source: GitHub
-entities:
-- Ishmael Palin's research into
-- Palin's research
+summary: Security at Christian Dock in Nganji apprehends armed intruders carrying illegal weapons and incendiary explosives who were reportedly trying to break into Professor Ishmael Palin's laboratory containing Unknown Artefacts.
+player_impact: None
+persons:
+- Jason Treeves
+- Ishmael Palin
+groups: []
 locations:
 - Christian Dock
 - Nganji
+technologies:
+- Unknown Artefacts
 topics:
 - cyberattack
 - investigation
 - research
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+modern_impact: First sign that Unknown Artefact research faces organised sabotage, raising stakes for Palin's work.
 legacy_weight: 3
 significance: medium
 ---

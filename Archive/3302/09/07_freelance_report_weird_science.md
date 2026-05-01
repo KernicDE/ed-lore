@@ -4,16 +4,19 @@ title: Freelance Report  Weird Science
 slug: freelance_report_weird_science
 date: '3302-09-07'
 source: GitHub
-entities:
+summary: Naturalist Ulla Burton claimed the mysterious wreckage in the Pleiades Sector AB-W B2-4 system is a giant space crab confused by frame shift emissions, while dismissing Unknown Probes as space fungi and criticising the Canonn Institute.
+player_impact: None
+persons:
+- Ulla Burton
 - Gan
 groups:
-- Canonn
+- Canonn Institute
 - Interstellar Press
-topics:
-- research
+locations:
+- Pleiades Sector AB-W B2-4
+technologies: []
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: Burton's fringe theory highlighted the spectrum of public speculation surrounding the wreckage, from serious research to sensationalist claims.
 legacy_weight: 3
 significance: medium
 ---

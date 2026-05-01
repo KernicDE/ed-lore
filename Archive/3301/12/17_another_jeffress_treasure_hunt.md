@@ -4,6 +4,13 @@ title: Another Jeffress Treasure Hunt
 slug: another_jeffress_treasure_hunt
 date: '3301-12-17'
 source: GitHub
+summary: Eccentric billionaire Alfred Jeffress announces his third galaxy-wide treasure hunt, with a riddle about kings, crowns and jewels leading participants to a mystery object in space for a share of his fortune.
+player_impact: Solve the riddle and find the mystery object to win a share of Jeffress's personal fortune.
+persons:
+- Alfred Jeffress
+groups: []
+locations: []
+technologies: []
 topics:
 - sport
 - treasure hunt

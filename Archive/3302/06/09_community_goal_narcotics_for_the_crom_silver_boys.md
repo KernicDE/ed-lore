@@ -4,10 +4,18 @@ title: Community Goal  Narcotics for the Crom Silver Boys
 slug: community_goal_narcotics_for_the_crom_silver_boys
 date: '3302-06-09'
 source: GitHub
+summary: The Crom Silver Boys crime syndicate claims to have procured the secret recipe for wolf fesh and plans to produce a new variant, placing an open order for rare narcotics needed as ingredients to be delivered to Walheim Enterprise in the Herthe system.
+player_impact: Deliver the requested narcotics to Walheim Enterprise in the Herthe system; exercise caution as most commodities are illegal and security forces will interdict suspicious vessels.
+persons: []
+groups:
+- Crom Silver Boys
 locations:
 - Crom
-- Walheim Enterprise in the Herthe
+- Herthe
+- Walheim Enterprise
 - Wolf 1301
+technologies:
+- wolf fesh
 topics:
 - crime
 - exploration
@@ -15,7 +23,8 @@ topics:
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Crime syndicate drug production demonstrates the black market's resilience
+  against prohibition efforts.
 legacy_weight: 2
 significance: low
 ---

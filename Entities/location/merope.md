@@ -4,13 +4,13 @@ name: Merope
 type: location
 first_seen_date: '3301-10-29'
 last_seen_date: '3308-09-01'
-mention_count: 56
+mention_count: 54
 related_entities:
 - maia
-- canonn
 - canonn-interstellar-research-group
+- federation
 - aegis
-- arcanonn
+- merope-expeditionary-fleet
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-10-29**  
 Last mentioned: **3308-09-01**  
-Total mentions: **56**
+Total mentions: **54**
 
 ## Related
 
-- [[Maia]] (21 co-mentions)
-- [[Canonn]] (13 co-mentions)
+- [[Maia]] (19 co-mentions)
 - [[Canonn Interstellar Research Group]] (13 co-mentions)
+- [[Federation]] (12 co-mentions)
 - [[Aegis]] (10 co-mentions)
-- [[Arcanonn]] (9 co-mentions)
+- [[Merope Expeditionary Fleet]] (9 co-mentions)
 
 ## Biography
 

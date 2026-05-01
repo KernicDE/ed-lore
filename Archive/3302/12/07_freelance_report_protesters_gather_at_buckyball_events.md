@@ -4,14 +4,19 @@ title: Freelance Report  Protesters Gather at Buckyball Events
 slug: freelance_report_protesters_gather_at_buckyball_events
 date: '3302-12-07'
 source: GitHub
+summary: Members of the Apocolyptican Faith have been protesting at Buckyball Racing Club events across the galaxy, claiming the alien crash site used for the Kick the Alien race is sacred and demanding a formal apology.
+player_impact: None
+persons:
+- Timothy Dalen
 groups:
 - Buckyball Racing Club
+- Apocolyptican Faith
+locations: []
+technologies: []
 topics:
 - alien contact
-- festival
 - sport
-- war
-modern_impact: Community celebration bringing pilots together.
+modern_impact: Religious protests against the Buckyball Racing Club highlight cultural tensions surrounding unexplained alien sites.
 legacy_weight: 1
 significance: low
 ---

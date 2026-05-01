@@ -4,10 +4,16 @@ title: Community Goal  The Walter Waldo Appeal
 slug: community_goal_the_walter_waldo_appeal
 date: '3302-10-20'
 source: GitHub
+summary: Gyvatices Crimson Advanced Holdings announced a commemorative fish and coffee festival for the late entrepreneur Walter Waldo, founder of Wonderful Walter's Fish and Coffee Emporium, requesting fish and coffee deliveries to Walter Dock.
+player_impact: Pilots can deliver fish and coffee to Walter Dock in the Gyvatices system for rewards.
+persons: [Walter Waldo]
+groups: [Gyvatices Crimson Advanced Holdings, Wonderful Walter's Fish and Coffee Emporium]
+locations: [Gyvatices, Walter Dock]
+technologies: []
 topics:
 - festival
 - trade
-modern_impact: Community celebration bringing pilots together.
+modern_impact: Community-driven commemorative events showcase the cultural side of galactic life beyond combat and trade.
 legacy_weight: 1
 significance: low
 ---

@@ -9,10 +9,24 @@ topics:
 - trade
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: Demonstrates the Federation's willingness to deploy capital ships to
+  enforce construction timelines and protect supply lines in contested space.
 legacy_weight: 3
 significance: medium
+summary: The Federation has convinced Segovan authorities to lift the lockdown on
+  Ramsbottom Hub after Imperial pilots disrupted the Federal outpost construction
+  campaign. Two Farragut-class Battlecruisers were dispatched to the system, and
+  the Federation has renewed its appeal for pilot support.
+player_impact: Federally aligned pilots are asked to deliver construction materials
+  to Ramsbottom Hub in the Segovan system to support the outpost campaign.
+groups:
+- Federation
+locations:
+- Segovan
+- Ramsbottom Hub
+technologies:
+- Farragut-class Battlecruiser
+persons: []
 ---
 
 Galactic News: Federal Campaign Resumes

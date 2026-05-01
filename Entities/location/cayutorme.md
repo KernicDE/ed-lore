@@ -7,10 +7,10 @@ last_seen_date: '3301-11-11'
 mention_count: 4
 related_entities:
 - cayutorme-syndicate
-- quade
-- kumo-crew
-- corrigendum-duelling-narratives
 - imperial-navy
+- kumo-crew
+- pilots-federation
+- adkins-port
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **4**
 ## Related
 
 - [[Cayutorme Syndicate]] (4 co-mentions)
-- [[Quade]] (2 co-mentions)
+- [[Imperial Navy]] (3 co-mentions)
 - [[Kumo Crew]] (1 co-mentions)
-- [[Corrigendum Duelling Narratives]] (1 co-mentions)
-- [[Imperial Navy]] (1 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
+- [[Adkins Port]] (1 co-mentions)
 
 ## Biography
 

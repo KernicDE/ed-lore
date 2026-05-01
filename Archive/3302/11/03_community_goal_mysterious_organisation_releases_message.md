@@ -4,16 +4,26 @@ title: Community Goal  Mysterious Organisation Releases Message
 slug: community_goal_mysterious_organisation_releases_message
 date: '3302-11-03'
 source: GitHub
+summary: The mysterious organisation Revolution Incorporated has issued a threatening
+  message to media outlets and social networks, calling true believers to Novas A 6 in
+  the Novas system. Security forces in the Novas system have urged the public to ignore
+  the message.
+player_impact: None
+persons: []
+groups:
+- Revolution Incorporated
 locations:
 - Novas
-- Security forces in the Novas
+- Novas A 6
 topics:
 - corporate expansion
 - independence
 - terrorism
-modern_impact: Independence movement challenging established political authority.
+modern_impact: Revolution Incorporated's threatening communications and planned gathering
+  at Novas A 6 signaled ongoing anarchist activity following their earlier explosives order.
 legacy_weight: 2
 significance: low
+technologies: []
 ---
 
 Community Goal: Mysterious Organisation Releases Message

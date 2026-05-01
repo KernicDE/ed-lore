@@ -4,12 +4,20 @@ title: Community Goal  The Dangerous Games Begin
 slug: community_goal_the_dangerous_games_begin
 date: '3302-06-02'
 source: GitHub
-entities:
+summary: Five major factions compete in the Dangerous Games to be recognised as an official power, with smaller factions first competing in three-week Wildcard events; the first Wildcard requires pilots to mine gold for their chosen faction.
+player_impact: Mine gold for your chosen faction in the first Dangerous Games Wildcard event; disrupt rival factions' efforts if desired.
+persons:
 - Trinity Avon
 groups:
-- Alliance
+- Alliance Elite Diplomatic Corps
+- Border Coalition
+- GalCop
+- Interstellar Communist Union
+- Social Eleu Progressive Party
+- The Sovereign
 locations:
 - Pegasi Sector
+technologies: []
 topics:
 - diplomacy
 - piracy

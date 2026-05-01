@@ -4,12 +4,20 @@ title: Galactic News  Exploration Data Appeals Conclude
 slug: galactic_news_exploration_data_appeals_conclude
 date: '3302-12-01'
 source: GitHub
+summary: The Children of Raxxla's appeal for exploration data received strong community support, outperforming a competing Federation initiative. Contributing pilots can now collect rewards at Sereborv Terminal in HR 6421.
+player_impact: Collect rewards from Sereborv Terminal in the HR 6421 system.
+persons: []
+groups:
+- The Children of Raxxla
+- Federation
+locations:
+- Sereborv Terminal
+- HR 6421
+technologies: []
 topics:
 - exploration
-- war
 arc_id: raxxla-mystery
-modern_impact: The enduring Raxxla mystery continues to captivate explorers and conspiracy
-  theorists.
+modern_impact: The enduring Raxxla mystery continues to captivate explorers and conspiracy theorists.
 legacy_weight: 2
 significance: low
 ---

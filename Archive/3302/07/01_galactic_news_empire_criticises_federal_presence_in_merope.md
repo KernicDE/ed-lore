@@ -4,23 +4,31 @@ title: Galactic News  Empire Criticises Federal Presence in Merope
 slug: galactic_news_empire_criticises_federal_presence_in_merope
 date: '3302-07-01'
 source: GitHub
-entities:
-- Torval refused
-- Zemina Torval
 groups:
 - Federal Navy
+- Federation
+- Empire
 locations:
-- Federal battle cruisers in the Merope
 - Merope
+- Daramo
 topics:
 - alien contact
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Early superpower confrontation over Pleiades resources foreshadows
+  the military buildup that will define the Thargoid conflict.
 legacy_weight: 5
 significance: high
+summary: Senator Zemina Torval has condemned the Federation's deployment of warships
+  in the Merope system, accusing it of attempting to claim possession of barnacles
+  and meta-alloys. Admiral Maxton Price of the Federal Navy defended the presence
+  as legitimate, while Torval declined to specify Imperial retaliation.
+player_impact: None
+persons:
+- Zemina Torval
+- Admiral Maxton Price
+technologies: []
 ---
 
 Galactic News: Empire Criticises Federal Presence in Merope

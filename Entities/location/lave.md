@@ -7,8 +7,8 @@ last_seen_date: '3312-01-26'
 mention_count: 36
 related_entities:
 - alliance
-- alioth
 - lave-station
+- alioth
 - sol
 - diso
 ---
@@ -24,8 +24,8 @@ Total mentions: **36**
 ## Related
 
 - [[Alliance]] (14 co-mentions)
+- [[Lave Station]] (10 co-mentions)
 - [[Alioth]] (9 co-mentions)
-- [[Lave Station]] (8 co-mentions)
 - [[Sol]] (7 co-mentions)
 - [[Diso]] (7 co-mentions)
 

@@ -4,20 +4,31 @@ title: Freelance Report  Taskforce Athena Locks Down Segovan
 slug: freelance_report_taskforce_athena_locks_down_segovan
 date: '3302-07-11'
 source: GitHub
-entities:
-- Kyrthak
 groups:
+- Taskforce Athena
 - Federal Security Service
+- Federation
+- Future of Segovan
 locations:
-- Athena
+- Segovan
+- Ramsbottom Hub
 topics:
 - construction
 - trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Represents the first organized Imperial player-led blockade of a Federal
+  construction project, establishing a template for superpower proxy warfare in
+  community goals.
 legacy_weight: 4
 significance: high
+summary: A coalition of Empire-aligned commanders known as Taskforce Athena has declared
+  the Segovan system a no-fly zone and placed Ramsbottom Hub in lockdown. Commander
+  Kyrthak stated the group is combating Federal security services to halt construction
+  of new Federal outposts.
+player_impact: None
+persons:
+- Commander Kyrthak
+technologies: []
 ---
 
 Freelance Report: Taskforce Athena Locks Down Segovan

@@ -10,7 +10,7 @@ related_entities:
 - warkushanui
 - 64-arietis
 - weyn-dock
-- sol
+- varati
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **7**
 - [[Warkushanui]] (6 co-mentions)
 - [[64 Arietis]] (6 co-mentions)
 - [[Weyn Dock]] (6 co-mentions)
-- [[Sol]] (4 co-mentions)
+- [[Varati]] (4 co-mentions)
 
 ## Biography
 

@@ -4,14 +4,16 @@ title: Galactic News  Location of Colonia Outposts Announced
 slug: galactic_news_location_of_colonia_outposts_announced
 date: '3302-10-14'
 source: GitHub
-locations:
-- Colonia
-- Colonia Nebula and the core
+summary: Latugara PLC announced the locations and names of six new outposts between the Colonia Nebula and core systems: Hillary Depot, Amundsen Terminal, Eagle's Landing, Sacaqawea Space Port, Gagarin Gate, and Polo Harbour.
+player_impact: None
+persons: []
+groups: [Latugara PLC]
+locations: [Colonia, Blu Thua AI-A c14-10, Lagoon Sector NI-S b4-10, Eagle Sector IR-W d1-117, Skaudai CH-B d14-34, Gru Hypue KS-T d3-31, Boewnst KS-S c20-959]
+technologies: []
 topics:
 - construction
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: The named Colonia outposts establish waypoints that define the primary deep-space corridor to the frontier, facilitating long-range travel and trade.
 legacy_weight: 4
 significance: high
 ---

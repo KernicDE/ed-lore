@@ -4,9 +4,13 @@ title: Community Goal  Bringing Peace to Ngolibardu
 slug: community_goal_bringing_peace_to_ngolibardu
 date: '3302-05-26'
 source: GitHub
+summary: Rising criminal activity in the Ngolibardu system prompts Ngolibardu Electronics Solutions to place a kill order on all wanted ships and reward pilots who deliver bounty vouchers to Vernadsky Port.
+player_impact: Pilots hunted wanted criminals in the Ngolibardu system and delivered bounty vouchers to Vernadsky Port.
+groups:
+- Ngolibardu Electronics Solutions
 locations:
-- Authorities in the Ngolibardu
-- Sol
+- Ngolibardu system
+- Vernadsky Port
 topics:
 - crime
 - ship

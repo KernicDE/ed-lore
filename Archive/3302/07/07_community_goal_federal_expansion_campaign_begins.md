@@ -7,10 +7,23 @@ source: GitHub
 topics:
 - ship
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: Marks the start of overt Federal infrastructure expansion toward the
+  Pleiades, triggering Imperial opposition and setting the stage for proxy conflicts.
 legacy_weight: 3
 significance: medium
+summary: The Future of Segovan has announced a campaign to construct Federal Naval
+  outposts in the Segovan system and the Pleiades sector. Federation-aligned pilots
+  are asked to deliver construction materials to Ramsbottom Hub.
+player_impact: Deliver insulating membrane, gallium, and power generators to Ramsbottom
+  Hub in the Segovan system.
+groups:
+- The Future of Segovan
+- Federation
+locations:
+- Segovan
+- Ramsbottom Hub
+persons: []
+technologies: []
 ---
 
 Community Goal: Federal Expansion Campaign Begins

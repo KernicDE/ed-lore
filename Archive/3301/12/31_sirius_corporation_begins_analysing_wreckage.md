@@ -4,12 +4,15 @@ title: Sirius Corporation Begins Analysing Wreckage
 slug: sirius_corporation_begins_analysing_wreckage
 date: '3301-12-31'
 source: GitHub
+summary: Sirius Corporation confirms it has received thousands of tonnes of space-borne debris from pilots searching for the Antares, and will begin analysis to determine if any wreckage is from the lost 3251 passenger liner.
+player_impact: None
+persons:
+- Li Yong-Rui
 groups:
-- Sirius Corp
 - Sirius Corporation
-- Sirius Gov
 locations:
 - Sirius
+technologies: []
 topics:
 - corporate expansion
 - research

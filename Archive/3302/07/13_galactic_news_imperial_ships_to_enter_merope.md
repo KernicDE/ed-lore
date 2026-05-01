@@ -4,8 +4,6 @@ title: Galactic News  Imperial Ships to Enter Merope
 slug: galactic_news_imperial_ships_to_enter_merope
 date: '3302-07-13'
 source: GitHub
-entities:
-- Zemina Torval
 locations:
 - Capitol
 - Merope
@@ -15,10 +13,22 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Signals the Empire's direct military response to Federal expansion
+  in the Pleiades, raising the risk of open superpower conflict over alien resources.
 legacy_weight: 5
 significance: high
+summary: Following Senator Zemina Torval's criticism of the Federal blockade in Merope,
+  Admiral Denton Patreus announced that an Imperial fleet will be dispatched to the
+  system under his personal command. Patreus did not clarify whether the fleet would
+  engage Federal forces or establish a counter-blockade.
+player_impact: None
+persons:
+- Zemina Torval
+- Admiral Denton Patreus
+groups:
+- Empire
+technologies:
+- Federal battlecruiser
 ---
 
 Galactic News: Imperial Ships to Enter Merope

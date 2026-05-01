@@ -4,6 +4,13 @@ title: Galactic News  Tantalum Appeal Extended
 slug: galactic_news_tantalum_appeal_extended
 date: '3302-05-11'
 source: GitHub
+summary: The Wyrd Raiders extend their campaign for tantalum, acknowledging that more time is needed for pilots to source the required materials. The campaign is now scheduled to end on 19 May 3302.
+player_impact: Pilots continued delivering tantalum to support the extended Wyrd Raiders campaign.
+groups:
+- Wyrd Raiders
+locations:
+- Wyrd system
+- Gareth Edwards Park
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

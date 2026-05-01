@@ -4,8 +4,16 @@ title: Galactic News  Where is Jaques Station
 slug: galactic_news_where_is_jaques_station
 date: '3302-06-13'
 source: GitHub
+summary: Jaques Station disappears after attempting to jump from Gliese 1269 to Beagle Point, but fragmentary messages received over the past 24 hours suggest the starport and its cyborg owner survived, though their location remains unknown.
+player_impact: None
+persons:
+- Jaques
+groups: []
 locations:
+- Gliese 1269
+- Beagle Point
 - Jaques Station
+technologies: []
 topics:
 - construction
 arc_id: jaques-station

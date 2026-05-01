@@ -6,8 +6,8 @@ first_seen_date: '3302-05-27'
 last_seen_date: '3303-03-24'
 mention_count: 3
 related_entities:
+- maia-system
 - maia
-- ishmael-palin
 - empire
 - alliance
 - koontz-asylum
@@ -23,8 +23,8 @@ Total mentions: **3**
 
 ## Related
 
-- [[Maia]] (2 co-mentions)
-- [[Ishmael Palin]] (1 co-mentions)
+- [[Maia system]] (1 co-mentions)
+- [[Maia]] (1 co-mentions)
 - [[Empire]] (1 co-mentions)
 - [[Alliance]] (1 co-mentions)
 - [[Koontz Asylum]] (1 co-mentions)

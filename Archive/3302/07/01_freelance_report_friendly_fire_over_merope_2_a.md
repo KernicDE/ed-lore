@@ -14,10 +14,23 @@ topics:
 - ship
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Reveals early military tension around barnacle sites in the Pleiades
+  as both superpowers move to control meta-alloy sources.
 legacy_weight: 5
 significance: high
+summary: A Federal Auxiliary Navy captain flying an Asp Explorer was shot down by
+  Federal vessels above Merope 2 A near a barnacle site. Rescue teams from Obsidian
+  Orbital recovered the slightly injured pilot, and the Federal Auxiliary Navy announced
+  a formal inquiry.
+player_impact: None
+persons:
+- Admiral Maxton Price
+groups:
+- Federal Auxiliary Navy
+- Federation
+technologies:
+- Asp Explorer
+- Farragut Battle Cruiser
 ---
 
 Freelance Report: Friendly Fire over Merope 2 A

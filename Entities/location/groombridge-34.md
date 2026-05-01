@@ -5,8 +5,6 @@ type: location
 first_seen_date: '3302-05-09'
 last_seen_date: '3302-05-09'
 mention_count: 1
-related_entities:
-- halsey-so-we-can-find-out
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Halsey so we can find out]] (1 co-mentions)
 
 ## Biography
 

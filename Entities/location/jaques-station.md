@@ -6,11 +6,11 @@ first_seen_date: '3302-05-05'
 last_seen_date: '3308-03-10'
 mention_count: 42
 related_entities:
-- eol-prou
 - eol-prou-rs-t-d3-94
+- beagle-point
 - colonia-council
 - brewer-corporation
-- fuel-rats
+- gliese-1269
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **42**
 
 ## Related
 
-- [[Eol Prou]] (13 co-mentions)
-- [[Eol Prou RS-T d3-94]] (11 co-mentions)
+- [[Eol Prou RS-T d3-94]] (12 co-mentions)
+- [[Beagle Point]] (9 co-mentions)
 - [[Colonia Council]] (8 co-mentions)
 - [[Brewer Corporation]] (7 co-mentions)
-- [[Fuel Rats]] (3 co-mentions)
+- [[Gliese 1269]] (6 co-mentions)
 
 ## Biography
 

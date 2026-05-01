@@ -4,13 +4,16 @@ title: Freelance Report  Looking for Peace, or War
 slug: freelance_report_looking_for_peace_or_war
 date: '3302-05-13'
 source: GitHub
-entities:
-- Derthek
-- Derthek gave
+summary: Dr Derthek, a founding member of the Canonn Interstellar Research Group, embarks on an ambitious project to map the entire War and Peace Nebula (NGC 6357), hoping to discover more barnacles, Unknown Artefacts, or something entirely new.
+player_impact: None
+persons:
+- Dr Derthek
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 - Universal Cartographics
+locations:
+- NGC 6357
+- War and Peace Nebula
 topics:
 - exploration
 - research

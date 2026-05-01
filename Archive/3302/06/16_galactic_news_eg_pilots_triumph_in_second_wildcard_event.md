@@ -4,8 +4,14 @@ title: Galactic News  EG Pilots Triumph in Second Wildcard Event
 slug: galactic_news_eg_pilots_triumph_in_second_wildcard_event
 date: '3302-06-16'
 source: GitHub
+summary: The EG Pilots win the second Dangerous Games Wildcard event in the Bjorti system by accumulating the most bounty vouchers, though the overall Wildcard winner will not be determined until the campaign ends.
+player_impact: None
+persons: []
+groups:
+- EG Pilots
 locations:
 - Bjorti
+technologies: []
 topics:
 - sport
 modern_impact: Competitive event for the pilot community.

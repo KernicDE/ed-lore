@@ -4,15 +4,27 @@ title: Freelance Report  Taking on the Aliens
 slug: freelance_report_taking_on_the_aliens
 date: '3302-11-22'
 source: GitHub
+summary: The Buckyball Racing Club has announced a new 26-kilometre roundtrip SRV race
+  called "Kick the Alien (and Run like Hell)". The event starts at the Noctrach-Ihazevich
+  Research facility and involves driving to a nearby crash site and back.
+player_impact: Competitors can make their run at any time during the two-week event starting
+  26th November and can run as many times as they like.
+persons:
+- Commander Alec Turner
 groups:
 - Buckyball Racing Club
+locations:
+- Noctrach-Ihazevich Research facility
 topics:
 - alien contact
 - research
 - sport
-modern_impact: Competitive event for the pilot community.
+modern_impact: The Buckyball Racing Club's alien-themed SRV race highlighted how pilots
+  were incorporating recent non-human discoveries into competitive community events.
 legacy_weight: 1
 significance: low
+technologies:
+- SRV
 ---
 
 Freelance Report: Taking on The Aliens

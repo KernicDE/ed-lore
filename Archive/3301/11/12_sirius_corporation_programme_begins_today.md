@@ -4,13 +4,16 @@ title: Sirius Corporation Programme Begins Today
 slug: sirius_corporation_programme_begins_today
 date: '3301-11-12'
 source: GitHub
+summary: Sirius Corporation launches an initiative to boost the economy of HIP 8396 through an osmium delivery request, as part of broader efforts to revitalise newly acquired systems.
+player_impact: Deliver osmium to support the economic revitalisation of HIP 8396.
+persons:
+- Li Yong-Rui
 groups:
-- Sirius Corp
 - Sirius Corporation
-- Sirius Gov
 locations:
 - HIP 8396
 - Sirius
+technologies: []
 topics:
 - corporate expansion
 - trade

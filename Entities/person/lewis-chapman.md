@@ -3,11 +3,8 @@ id: lewis-chapman
 name: Lewis Chapman
 type: person
 first_seen_date: '3302-12-15'
-last_seen_date: '3302-12-22'
-mention_count: 2
-related_entities:
-- lp-339-7
-- media-outlets-in-the-lp-339-7
+last_seen_date: '3305-08-29'
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
@@ -15,13 +12,11 @@ related_entities:
 # Lewis Chapman
 
 First mentioned: **3302-12-15**  
-Last mentioned: **3302-12-22**  
-Total mentions: **2**
+Last mentioned: **3305-08-29**  
+Total mentions: **4**
 
 ## Related
 
-- [[LP 339-7]] (1 co-mentions)
-- [[Media outlets in the LP 339-7]] (1 co-mentions)
 
 ## Biography
 

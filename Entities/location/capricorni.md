@@ -2,32 +2,28 @@
 id: capricorni
 name: Capricorni
 type: location
-first_seen_date: '3302-05-12'
+first_seen_date: '3303-12-08'
 last_seen_date: '3303-12-08'
-mention_count: 4
+mention_count: 1
 related_entities:
-- paramemetic
-- pilots-federation
-- universal-cartographics
-- capricorni-is-now-in-the-grip-of-a
 - diamond-frogs
+- 63-g-capricorni
+- skvortsov-orbital
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Capricorni
 
-First mentioned: **3302-05-12**  
+First mentioned: **3303-12-08**  
 Last mentioned: **3303-12-08**  
-Total mentions: **4**
+Total mentions: **1**
 
 ## Related
 
-- [[Paramemetic]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
-- [[Universal Cartographics]] (1 co-mentions)
-- [[Capricorni is now in the grip of a]] (1 co-mentions)
 - [[Diamond Frogs]] (1 co-mentions)
+- [[63 G. Capricorni]] (1 co-mentions)
+- [[Skvortsov Orbital]] (1 co-mentions)
 
 ## Biography
 

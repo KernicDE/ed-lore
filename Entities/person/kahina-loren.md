@@ -2,18 +2,18 @@
 id: kahina-loren
 name: Kahina Loren
 type: person
-first_seen_date: '3303-02-03'
+first_seen_date: '3302-09-30'
 last_seen_date: '3303-02-03'
-mention_count: 1
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Kahina Loren
 
-First mentioned: **3303-02-03**  
+First mentioned: **3302-09-30**  
 Last mentioned: **3303-02-03**  
-Total mentions: **1**
+Total mentions: **4**
 
 ## Related
 

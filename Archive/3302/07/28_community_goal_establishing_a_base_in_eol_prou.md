@@ -4,11 +4,16 @@ title: Community Goal  Establishing a Base in Eol Prou
 slug: community_goal_establishing_a_base_in_eol_prou
 date: '3302-07-28'
 source: GitHub
+summary: The 80 DD-D 774-CE-2 faction launches a campaign to establish a planetary outpost in Eol Prou RS-T d3-94 to support trade and exploration around Jaques Station, requesting mined osmium deliveries.
+player_impact: Deliver mined osmium to Jaques Station in Eol Prou RS-T d3-94 to support construction of the new planetary outpost.
+persons: []
+groups:
+- 80 DD-D 774-CE-2
 locations:
-- And since the
-- Eol Prou
 - Eol Prou RS-T d3-94
 - Jaques Station
+technologies:
+- osmium
 topics:
 - construction
 - exploration

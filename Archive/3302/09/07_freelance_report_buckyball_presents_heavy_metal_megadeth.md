@@ -4,16 +4,19 @@ title: Freelance Report  Buckyball Presents Heavy Metal Megadeth
 slug: freelance_report_buckyball_presents_heavy_metal_megadeth
 date: '3302-09-07'
 source: GitHub
+summary: The Pilots Federation commissioned the Buckyball Racing Club to organise a high-gravity landing event to assess whether ship thrusters need a power increase, with pilots jumping from Cook Gateway in Medzistha to land on Omicron Capricorni B A4 and return.
+player_impact: Participate in the Buckyball Racing Club event from Cook Gateway in Medzistha to Omicron Capricorni B A4 and back between 6th and 11th September.
+persons:
+- Markzx59
 groups:
-- Buckyball Racing Club
 - Pilots Federation
-topics:
-- investigation
-- safety
-- ship
-- sport
-- war
-modern_impact: Ship review and release information for the pilot community.
+- Buckyball Racing Club
+locations:
+- Cook Gateway
+- Medzistha
+- Omicron Capricorni B
+technologies: []
+modern_impact: Player-organised racing events helped assess ship safety limits and influenced understanding of high-gravity planetary operations.
 legacy_weight: 1
 significance: low
 ---

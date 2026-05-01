@@ -1,0 +1,30 @@
+---
+id: federal-auxiliary-navy
+name: Federal Auxiliary Navy
+type: faction
+first_seen_date: '3302-07-01'
+last_seen_date: '3302-07-01'
+mention_count: 1
+related_entities:
+- federation
+- merope
+- obsidian-orbital
+---
+
+<!-- AUTO-GENERATED -->
+
+# Federal Auxiliary Navy
+
+First mentioned: **3302-07-01**  
+Last mentioned: **3302-07-01**  
+Total mentions: **1**
+
+## Related
+
+- [[Federation]] (1 co-mentions)
+- [[Merope]] (1 co-mentions)
+- [[Obsidian Orbital]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

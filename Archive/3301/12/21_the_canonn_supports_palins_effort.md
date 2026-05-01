@@ -4,15 +4,20 @@ title: The Canonn Supports Palin's Effort
 slug: the_canonn_supports_palins_effort
 date: '3301-12-21'
 source: GitHub
-entities:
-- Arcanonn
+summary: Dr Arcanonn of the Canonn Interstellar Research Group supports Professor Ishmael Palin's plan to establish a research base on Maia B1BA near Merope, urging pilots to deliver Evacuation Shelters to Nelson Works in Dahan.
+player_impact: Deliver Evacuation Shelters to Nelson Works in Dahan to help establish Palin's research base on Maia B1BA.
+persons:
+- Dr Arcanonn
 - Ishmael Palin
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Maia
 - Merope
+- Dahan
+- Nelson Works
+technologies:
+- Evacuation Shelters
 topics:
 - research
 arc_id: unknown-artefacts

@@ -2,18 +2,18 @@
 id: lucius-lavigny
 name: Lucius Lavigny
 type: person
-first_seen_date: '3309-08-18'
+first_seen_date: '3302-07-21'
 last_seen_date: '3309-08-18'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Lucius Lavigny
 
-First mentioned: **3309-08-18**  
+First mentioned: **3302-07-21**  
 Last mentioned: **3309-08-18**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

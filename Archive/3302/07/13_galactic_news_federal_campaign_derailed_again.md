@@ -4,20 +4,30 @@ title: Galactic News  Federal Campaign Derailed Again
 slug: galactic_news_federal_campaign_derailed_again
 date: '3302-07-13'
 source: GitHub
-entities:
-- Zachary Hudson issued
-locations:
-- Reports coming in from the Segovan
 topics:
 - construction
 - terrorism
 - trade
 - war
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human
-  intelligence.
+modern_impact: Reveals the first documented use of Unknown Artefacts as offensive
+  weapons against starports, escalating the sabotage tactics employed by Imperial
+  forces.
 legacy_weight: 3
 significance: medium
+summary: The Federal outpost construction campaign in the Segovan system has been
+  disrupted again by Unknown Artefact-related interference at Ramsbottom Hub. Starport
+  personnel blame Imperial pilots, and President Zachary Hudson has condemned the
+  attack as terrorism.
+player_impact: None
+persons:
+- Zachary Hudson
+groups:
+- Federation
+locations:
+- Segovan
+- Ramsbottom Hub
+technologies: []
 ---
 
 Galactic News: Federal Campaign Derailed Again

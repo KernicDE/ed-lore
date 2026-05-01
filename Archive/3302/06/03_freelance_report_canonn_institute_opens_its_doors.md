@@ -4,11 +4,18 @@ title: Freelance Report  Canonn Institute Opens its Doors
 slug: freelance_report_canonn_institute_opens_its_doors
 date: '3302-06-03'
 source: GitHub
-entities:
-- Arcanonn
-- Arcanonn finished by announcing
+summary: The Canonn Institute in Col 285 Sector IX-T d3-43 officially opens as humanity's most advanced Unknown Artefact research centre, with Dr Arcanonn announcing an open order for UAs and meta-alloys to initiate research.
+player_impact: Deliver Unknown Artefacts and meta-alloys to the Canonn Institute to support research.
+persons:
+- Dr Arcanonn
 groups:
-- Canonn
+- Canonn Interstellar Research Group
+locations:
+- Col 285 Sector IX-T d3-43
+- Canonn Institute
+technologies:
+- Unknown Artefacts
+- meta-alloys
 topics:
 - construction
 - research

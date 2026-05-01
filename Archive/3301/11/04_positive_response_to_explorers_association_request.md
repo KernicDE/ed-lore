@@ -4,8 +4,16 @@ title: Positive Response to Explorers' Association Request
 slug: positive_response_to_explorers_association_request
 date: '3301-11-04'
 source: GitHub
+summary: The Explorers' Association confirms pirates in Kaushpoos have been eliminated and palladium deliveries received for the Ocellus starport construction, with a third and final public appeal for resources expected soon.
+player_impact: None
+persons: []
+groups:
+- Explorers' Association
 locations:
 - Kaushpoos
+technologies:
+- palladium
+- Ocellus starport
 topics:
 - construction
 - exploration

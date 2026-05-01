@@ -4,9 +4,18 @@ title: Community Goal  Federal Imperial Conflict in Mu Koji
 slug: community_goal_federal_imperial_conflict_in_mu_koji
 date: '3302-09-08'
 source: GitHub
-topics:
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: The Empire and Federation have launched rival military operations in the Mu Koji system, with the Xuangu Crimson Major Network and Mu Koji Resistance coordinating operations and requesting independent combat pilot support.
+player_impact: Support either the Imperial or Federal operation in Mu Koji by attacking rival convoys to secure enemy intelligence, with rewards promised.
+persons: []
+groups:
+- Empire
+- Federation
+- Xuangu Crimson Major Network
+- Mu Koji Resistance
+locations:
+- Mu Koji
+technologies: []
+modern_impact: Superpower proxy conflicts in independent systems became a recurring pattern of Federal-Imperial rivalry during this era.
 legacy_weight: 2
 significance: low
 ---

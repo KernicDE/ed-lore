@@ -4,11 +4,19 @@ title: Galactic News  Services Suspended at Thoreau Orbital
 slug: galactic_news_services_suspended_at_thoreau_orbital
 date: '3302-09-22'
 source: GitHub
+summary: Thoreau Orbital in the Obotrima system has suspended services following an Imperial campaign to flood the starport with explosives, severely damaging the major skimmer manufacturing centre.
+player_impact: None
+persons: []
 groups:
 - Federal Navy
+locations:
+- Thoreau Orbital
+- Obotrima
+technologies:
+- skimmers
 topics:
 - construction
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: The disabling of Thoreau Orbital's skimmer production highlights the vulnerability of critical defence manufacturing to asymmetric Imperial attacks.
 legacy_weight: 2
 significance: low
 ---

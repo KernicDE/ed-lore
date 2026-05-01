@@ -4,15 +4,23 @@ title: Community Goal  Jaques' Big Jump
 slug: community_goal_jaques_big_jump
 date: '3302-05-05'
 source: GitHub
+summary: Jaques Station, the galaxy's only travelling starport, prepares for an ambitious long-distance jump from Gliese 1269 to Beagle Point. The Fuel Rats coordinate a community fuel-gathering campaign to supply the massive amount of fuel required for the jump.
+player_impact: Pilots delivered fuel to Jaques Station to enable its historic jump to Beagle Point.
+persons:
+- Jaques
 groups:
 - Fuel Rats
 locations:
 - Jaques Station
+- Gliese 1269
+- Beagle Point
 topics:
 - construction
 - humanitarian
 - war
 arc_id: jaques-station
+technologies:
+- Frame Shift Drive
 modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
   opening up deep-space colonisation.
 legacy_weight: 4

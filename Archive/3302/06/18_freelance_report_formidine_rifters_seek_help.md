@@ -4,12 +4,19 @@ title: Freelance Report  Formidine Rifters Seek Help
 slug: freelance_report_formidine_rifters_seek_help
 date: '3302-06-18'
 source: GitHub
-entities:
-- Finn McMillan
+summary: The Formidine Rifters, a collective of explorers mapping the region between the galactic arms past the Heart and Soul Nebula, invite pilots to join them believing there is something beyond the arm that may change humanity's view of the cosmos.
+player_impact: Join the Formidine Rifters in mapping the region beyond the Heart and Soul Nebula toward the galactic arms.
+persons:
+- Commander Finn McMillan
+groups:
+- Earth Expeditionary Fleet
+locations: []
+technologies: []
 topics:
 - exploration
 - war
-modern_impact: Notable exploration achievement.
+modern_impact: The Formidine Rift expedition eventually leads to the discovery of the
+  Zurara and the mysterious Dynasty Expeditions.
 legacy_weight: 2
 significance: low
 ---

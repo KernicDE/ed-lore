@@ -5,18 +5,29 @@ slug: community_goal_searching_for_barnacles
 date: '3302-07-14'
 source: GitHub
 locations:
-- Bauschinger City in the Bava
-- Federal Fleet to the Merope
 - Merope
+- Bava
+- Bauschinger City
 topics:
 - alien contact
 - exploration
 - war
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Marks the Empire's entry into the barnacle race, using exploration
+  data as a proxy tool to counter Federal territorial claims in the Pleiades.
 legacy_weight: 5
 significance: high
+summary: The Empire has launched a campaign to find additional barnacles by asking
+  pilots to deliver exploration data to Bauschinger City in the Bava system. The
+  initiative is widely seen as a response to the Federation's deployment of battle
+  cruisers at barnacle sites in Merope.
+player_impact: Deliver exploration data to Bauschinger City in the Bava system.
+groups:
+- Bava Blue Travel Systems
+- Empire
+- Federation
+persons: []
+technologies: []
 ---
 
 Community Goal: Searching for Barnacles

@@ -4,13 +4,17 @@ title: Duelling Narratives in Cayutorme Conflict
 slug: duelling_narratives_in_cayutorme_conflict
 date: '3301-11-05'
 source: GitHub
-entities:
-- Corrigendum Duelling Narratives
-- Quade
+summary: Imperial naval vessels enter Cayutorme after the deadline for the Cayutorme Syndicate fleet's disbandment passes; Kyle Kurowski denies reports of pilots fighting for both sides while Admiral Lucius Lavigny urges commanders to support the Imperial cause.
+player_impact: Independent pilots can support the Imperial cause against the Cayutorme Syndicate, with the Imperial war chest opened for mercenaries.
+persons:
+- Kyle Kurowski
+- Admiral Lucius Lavigny
 groups:
 - Cayutorme Syndicate
+- Imperial Navy
 locations:
 - Cayutorme
+technologies: []
 topics:
 - ship
 - succession

@@ -2,9 +2,9 @@
 id: zearla
 name: Zearla
 type: location
-first_seen_date: '3305-01-03'
+first_seen_date: '3302-11-18'
 last_seen_date: '3305-01-10'
-mention_count: 2
+mention_count: 3
 related_entities:
 - federal-navy
 - imperial-navy
@@ -17,9 +17,9 @@ related_entities:
 
 # Zearla
 
-First mentioned: **3305-01-03**  
+First mentioned: **3302-11-18**  
 Last mentioned: **3305-01-10**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

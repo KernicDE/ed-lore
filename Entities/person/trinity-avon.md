@@ -3,10 +3,8 @@ id: trinity-avon
 name: Trinity Avon
 type: person
 first_seen_date: '3302-06-02'
-last_seen_date: '3302-06-30'
-mention_count: 3
-related_entities:
-- alliance
+last_seen_date: '3302-07-21'
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
@@ -14,12 +12,11 @@ related_entities:
 # Trinity Avon
 
 First mentioned: **3302-06-02**  
-Last mentioned: **3302-06-30**  
-Total mentions: **3**
+Last mentioned: **3302-07-21**  
+Total mentions: **4**
 
 ## Related
 
-- [[Alliance]] (3 co-mentions)
 
 ## Biography
 

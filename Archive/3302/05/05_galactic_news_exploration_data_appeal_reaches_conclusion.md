@@ -4,6 +4,12 @@ title: Galactic News  Exploration Data Appeal Reaches Conclusion
 slug: galactic_news_exploration_data_appeal_reaches_conclusion
 date: '3302-05-05'
 source: GitHub
+summary: Former Federal President Jasmina Halsey's appeal for exploration data concludes successfully, with hundreds of independent pilots contributing. The submitted data will be analysed to investigate her claims of encountering non-human entities.
+player_impact: Pilots gathered and submitted exploration data in response to Halsey's appeal.
+persons:
+- Jasmina Halsey
+groups:
+- Azaleach Partnership
 topics:
 - exploration
 - investigation

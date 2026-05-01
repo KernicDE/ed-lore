@@ -2,12 +2,12 @@
 id: meene
 name: Meene
 type: location
-first_seen_date: '3303-01-23'
+first_seen_date: '3302-11-03'
 last_seen_date: '3310-07-06'
-mention_count: 23
+mention_count: 26
 related_entities:
-- meene-defence-force
 - phoenix-base
+- meene-defence-force
 - sirius-corporation
 - felice-dock
 - mars
@@ -17,16 +17,16 @@ related_entities:
 
 # Meene
 
-First mentioned: **3303-01-23**  
+First mentioned: **3302-11-03**  
 Last mentioned: **3310-07-06**  
-Total mentions: **23**
+Total mentions: **26**
 
 ## Related
 
+- [[Phoenix Base]] (12 co-mentions)
 - [[Meene Defence Force]] (11 co-mentions)
-- [[Phoenix Base]] (11 co-mentions)
 - [[Sirius Corporation]] (11 co-mentions)
-- [[Felice Dock]] (6 co-mentions)
+- [[Felice Dock]] (9 co-mentions)
 - [[Mars]] (6 co-mentions)
 
 ## Biography

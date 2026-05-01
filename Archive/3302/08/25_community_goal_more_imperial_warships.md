@@ -4,14 +4,23 @@ title: Community Goal  More Imperial Warships
 slug: community_goal_more_imperial_warships
 date: '3302-08-25'
 source: GitHub
+summary: Admiral Denton Patreus announced plans to add three new Majestic-class Interdictors to the Imperial fleet in response to Federal naval expansion. Pilots are asked to deliver autofabricators, tantalum, and superconductors to van de Hulst Vision in the Morai system.
+player_impact: Deliver autofabricators, tantalum, and superconductors to van de Hulst Vision in Morai to support Imperial capital ship construction.
+persons:
+- Denton Patreus
+groups:
+- Morai Nobles
+- Empire
 locations:
-- Hulst Vision in the Morai
+- van de Hulst Vision
+- Morai
+technologies:
+- Majestic-class Interdictor
 topics:
 - ship
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Imperial matching of Federal naval expansion escalates the superpower arms race and draws pilots into resource-driven military campaigns.
 legacy_weight: 4
 significance: high
 ---

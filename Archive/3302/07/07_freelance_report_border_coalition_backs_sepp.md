@@ -8,9 +8,28 @@ topics:
 - diplomacy
 - exploration
 - research
-modern_impact: Notable exploration achievement.
+modern_impact: Shows how minor-power alliances and diplomatic pacts can influence
+  community-driven power-play campaigns, elevating smaller factions into contention.
 legacy_weight: 2
 significance: low
+summary: The Border Coalition has unanimously decided to back the Social Eleu Progressive
+  Party in the Rise to Power campaign after an emergency meeting at Iren's Dock.
+  Duke Tiberius of Mikunn swayed the vote, and a diplomatic summit is scheduled
+  for 13 July to discuss further options.
+player_impact: None
+persons:
+- Duke Tiberius of Mikunn
+- Valentina Tereshkova
+groups:
+- Border Coalition
+- Social Eleu Progressive Party
+- GalCop
+- EG Pilots
+locations:
+- Iren's Dock
+- Mikunn
+- Manite
+technologies: []
 ---
 
 Freelance Report: Border Coalition Backs SEPP

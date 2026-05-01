@@ -4,7 +4,16 @@ title: Community Goal  The Battle for Maia Continues
 slug: community_goal_the_battle_for_maia_continues
 date: '3302-11-10'
 source: GitHub
+summary: Although the Pleiades Resource Enterprise initially gained a foothold in Maia,
+  the Ant Hill Mob is launching a retaliatory assault to push them out. The organisation
+  has devised a two-pronged strategy targeting PRE fighters and requesting battle weapons
+  for system security forces.
+player_impact: Pilots can support the Ant Hill Mob by targeting Pleiades Resource Enterprise
+  fighters and delivering battle weapons to system security forces in the Maia system.
+persons: []
 groups:
+- Ant Hill Mob
+- Pleiades Resource Enterprise
 - Pilots Federation
 locations:
 - Maia
@@ -12,10 +21,11 @@ topics:
 - ship
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: The ongoing conflict between the Ant Hill Mob and the Pleiades Resource
+  Enterprise in Maia demonstrated sustained resistance to corporate expansion in the Pleiades.
 legacy_weight: 3
 significance: medium
+technologies: []
 ---
 
 Community Goal: The Battle for Maia Continues

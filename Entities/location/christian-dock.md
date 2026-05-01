@@ -10,7 +10,7 @@ related_entities:
 - professor-ishmael-palin
 - governor-deacon
 - homeland-scientific-council
-- ishmael-palins-research-into
+- obsidian-orbital
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **4**
 - [[Professor Ishmael Palin]] (1 co-mentions)
 - [[Governor Deacon]] (1 co-mentions)
 - [[Homeland Scientific Council]] (1 co-mentions)
-- [[Ishmael Palin's research into]] (1 co-mentions)
+- [[Obsidian Orbital]] (1 co-mentions)
 
 ## Biography
 

@@ -4,12 +4,16 @@ title: Galactic News  Unknown Probe Breakthrough
 slug: galactic_news_unknown_probe_breakthrough
 date: '3302-07-19'
 source: GitHub
-entities:
-- Rizal72
-- Rizal72's colleagues
+summary: The Canonn Interstellar Research Group announces that Commander Rizal72 discovered Unknown Probes emit an electro-magnetic pulse and a burst of sound when scanned with an advanced discovery scanner; analysis reveals the sound contains an encrypted image of interstellar bodies.
+player_impact: Scan Unknown Probes with an advanced discovery scanner and share recordings with the Canonn for analysis.
+persons:
+- Commander Rizal72
 groups:
-- Canonn
 - Canonn Interstellar Research Group
+locations: []
+technologies:
+- Unknown Probes
+- advanced discovery scanner
 topics:
 - cyberattack
 - research

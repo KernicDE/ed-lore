@@ -4,9 +4,16 @@ title: Explorers' Association Appeal Successful
 slug: explorers_association_appeal_successful
 date: '3301-11-18'
 source: GitHub
+summary: The Explorers' Association confirms the third stage of its starport project is complete, with the new Ocellus starport in Kaushpoos named 'Obsidian Orbital' by public vote and scheduled to open next month.
+player_impact: None
+persons: []
+groups:
+- Explorers' Association
 locations:
 - Kaushpoos
 - Obsidian Orbital
+technologies:
+- Ocellus starport
 topics:
 - construction
 - exploration

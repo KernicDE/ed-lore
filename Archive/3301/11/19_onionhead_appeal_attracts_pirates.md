@@ -4,16 +4,23 @@ title: Onionhead Appeal Attracts Pirates
 slug: onionhead_appeal_attracts_pirates
 date: '3301-11-19'
 source: GitHub
+summary: The Drug Empire of Xelabara's onionhead appeal draws hundreds of pirates to the Xelabara system, targeting traders at Navigator Market; the Xelabara Republic Party offers privateer bonds to combat pilots who clear the spaceways.
+player_impact: Hunt pirates in the Xelabara system and collect privateer bonds from the Xelabara Republic Party.
+persons: []
+groups:
+- Drug Empire of Xelabara
+- Xelabara Republic Party
 locations:
-- According to
-- Reports coming in from the Xelabara
+- Xelabara
+- Navigator Market
+technologies: []
 topics:
 - narcotics
 - piracy
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---

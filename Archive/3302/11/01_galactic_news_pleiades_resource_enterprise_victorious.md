@@ -4,15 +4,26 @@ title: Galactic News  Pleiades Resource Enterprise Victorious
 slug: galactic_news_pleiades_resource_enterprise_victorious
 date: '3302-11-01'
 source: GitHub
+summary: The Pleiades Resource Enterprise has successfully overcome resistance from the
+  Ant Hill Mob to gain a foothold in the Maia system. A spokesperson denied the expansion
+  was orchestrated by Federal officials, stating they acted on their own behalf.
+player_impact: Pilots who contributed to the initiative can collect their rewards from
+  Maia Point in the Maia system.
+persons: []
+groups:
+- Pleiades Resource Enterprise
+- Ant Hill Mob
 locations:
 - Maia
+- Maia Point
 topics:
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: The Pleiades Resource Enterprise's victory over the Ant Hill Mob in Maia
+  demonstrated independent corporate expansion into the Pleiades region.
 legacy_weight: 3
 significance: medium
+technologies: []
 ---
 
 Galactic News: Pleiades Resource Enterprise Victorious

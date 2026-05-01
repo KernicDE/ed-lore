@@ -4,8 +4,13 @@ title: Galactic News  Let the Festivities Commence
 slug: galactic_news_let_the_festivities_commence
 date: '3302-05-19'
 source: GitHub
+summary: The Diamond Frogs announce the successful conclusion of their campaign to bring party supplies to Skvortsov Orbital for the Distant Worlds Expedition gala. Pilots who contributed can now collect their rewards.
+player_impact: Pilots delivered alcohol and recreational substances to Skvortsov Orbital for the Distant Worlds Expedition celebration.
+groups:
+- Diamond Frogs
 locations:
-- Capricorni
+- Skvortsov Orbital
+- 63 G. Capricorni system
 topics:
 - exploration
 - war

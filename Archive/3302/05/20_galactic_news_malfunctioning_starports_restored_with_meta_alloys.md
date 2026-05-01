@@ -4,17 +4,53 @@ title: Galactic News  Malfunctioning Starports Restored with Meta Alloys
 slug: galactic_news_malfunctioning_starports_restored_with_meta_alloys
 date: '3302-05-20'
 source: GitHub
+summary: Several starports previously closed due to Unknown Artefact-related interference have been restored through the application of meta-alloys. Ackerman Market, Gabriel Enterprise, Weyn Dock, and Onnes Gateway are now fully operational, while other stations remain affected.
+player_impact: Pilots delivered meta-alloys to affected starports, restoring services at multiple stations.
 locations:
-- 64 Arietis
-- Gurragchaa Gateway
+- Ackerman Market
+- Eravate
+- Gabriel Enterprise
 - Harma
-- Jaques Station
-- Lave
-- Robigo
-- Robigo Mines
-- Warkushanui
 - Weyn Dock
+- 64 Arietis
+- Onnes Gateway
+- LFT 37
+- Lave Station
+- Lave
+- Ising Dock
+- 109 Piscium
+- Fozard Dock
+- HIP 19934
+- Irens Dock
+- Manite
+- von Bellingshausen Port
+- Almar
+- Haack Gateway
+- Halbangaay
+- Gurragchaa Gateway
+- Warkushanui
+- Korolyov Hub
+- Arawere
+- Lobachevsky Outpost
+- Pic Tok
+- Carter Port
+- Rhea
+- Alexander Freeport
+- HIP 18843
+- Bloch Vision
+- Loperada
+- Love Ring
+- Evejitaka
+- Robigo Mines
+- Robigo
+- Saunders's Dive
 - Wolf 1301
+- Skvortsov Orbital
+- 63 G. Capricorni
+- Kooi Gateway
+- HIP 93377
+- Jaques Station
+- Gliese 1269
 topics:
 - construction
 - medicine

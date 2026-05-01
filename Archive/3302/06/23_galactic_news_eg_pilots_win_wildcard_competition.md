@@ -4,10 +4,20 @@ title: Galactic News  EG Pilots win Wildcard Competition
 slug: galactic_news_eg_pilots_win_wildcard_competition
 date: '3302-06-23'
 source: GitHub
-entities:
+summary: The EG Pilots win the Dangerous Games Wildcard competition after accumulating the most conductive fabrics in the final heat, earning a place to compete against five major factions for official power status starting 30 June.
+player_impact: None
+persons:
 - Trinity Avon
 groups:
-- Alliance
+- EG Pilots
+- Alliance Elite Diplomatic Corps
+- Border Coalition
+- GalCop
+- Interstellar Communist Union
+- Social Eleu Progressive Party
+- The Sovereign
+locations: []
+technologies: []
 topics:
 - diplomacy
 - sport

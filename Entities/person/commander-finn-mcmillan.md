@@ -1,0 +1,23 @@
+---
+id: commander-finn-mcmillan
+name: Commander Finn McMillan
+type: person
+first_seen_date: '3302-06-18'
+last_seen_date: '3302-10-14'
+mention_count: 2
+---
+
+<!-- AUTO-GENERATED -->
+
+# Commander Finn McMillan
+
+First mentioned: **3302-06-18**  
+Last mentioned: **3302-10-14**  
+Total mentions: **2**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

@@ -4,11 +4,13 @@ title: Freelance Report  Distant Worlds Flagship Anticipates Jaques' Arrival
 slug: freelance_report_distant_worlds_flagship_anticipates_jaques_arrival
 date: '3302-05-14'
 source: GitHub
-entities:
+summary: Commander Olivia Vespera, pilot of the Distant Worlds Expedition fleet flagship, remains at Beagle Point prospecting for jumponium materials. She expresses excitement at potentially being the first to greet Jaques Station upon its arrival.
+player_impact: None
+persons:
 - Olivia Vespera
-- Vespera
+- Lisbeth Moore
 locations:
-- Jaques Station
+- Beagle Point
 topics:
 - exploration
 - ship

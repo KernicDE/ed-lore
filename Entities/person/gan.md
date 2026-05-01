@@ -3,14 +3,14 @@ id: gan
 name: Gan
 type: person
 first_seen_date: '3302-01-12'
-last_seen_date: '3302-09-07'
-mention_count: 5
+last_seen_date: '3302-03-14'
+mention_count: 2
 related_entities:
 - interstellar-press
-- canonn
-- utopia
-- maia
 - aislings-angels
+- canonn
+- emperors-grace
+- utopia
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Gan
 
 First mentioned: **3302-01-12**  
-Last mentioned: **3302-09-07**  
-Total mentions: **5**
+Last mentioned: **3302-03-14**  
+Total mentions: **2**
 
 ## Related
 
-- [[Interstellar Press]] (5 co-mentions)
-- [[Canonn]] (2 co-mentions)
-- [[Utopia]] (2 co-mentions)
-- [[Maia]] (2 co-mentions)
+- [[Interstellar Press]] (2 co-mentions)
 - [[Aisling's Angels]] (1 co-mentions)
+- [[Canonn]] (1 co-mentions)
+- [[Emperor's Grace]] (1 co-mentions)
+- [[Utopia]] (1 co-mentions)
 
 ## Biography
 

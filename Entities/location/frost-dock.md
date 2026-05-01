@@ -2,32 +2,32 @@
 id: frost-dock
 name: Frost Dock
 type: location
-first_seen_date: '3303-01-05'
+first_seen_date: '3301-12-22'
 last_seen_date: '3311-12-15'
-mention_count: 3
+mention_count: 6
 related_entities:
 - njambalba
-- sandras-workshop
-- our-dolphs-routes
-- clauss-incorporated
+- clauss-port
 - santa-muerte
+- clauss-incorporated
+- sandras-workshop
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Frost Dock
 
-First mentioned: **3303-01-05**  
+First mentioned: **3301-12-22**  
 Last mentioned: **3311-12-15**  
-Total mentions: **3**
+Total mentions: **6**
 
 ## Related
 
-- [[Njambalba]] (3 co-mentions)
+- [[Njambalba]] (6 co-mentions)
+- [[Clauss Port]] (4 co-mentions)
+- [[Santa Muerte]] (4 co-mentions)
+- [[Clauss Incorporated]] (3 co-mentions)
 - [[Sandra's Workshop]] (2 co-mentions)
-- [[Our Dolph's Routes]] (2 co-mentions)
-- [[Clauss Incorporated]] (1 co-mentions)
-- [[Santa Muerte]] (1 co-mentions)
 
 ## Biography
 

@@ -4,14 +4,20 @@ title: Freelance Report  Fresh Fruit Meets Bitter Harvest
 slug: freelance_report_fresh_fruit_meets_bitter_harvest
 date: '3302-06-07'
 source: GitHub
-entities:
-- Arcanonn
-- Wobblytickle's report
+summary: Dr Arcanonn lauds Commander Wobblytickle's discovery of barnacles in the California Nebula while expressing concern over the loss of several barnacles in the Pleiades Nebula through destruction or exhaustion.
+player_impact: None
+persons:
+- Dr Arcanonn
+- Commander Wobblytickle
+- Commander Nicholas Powell
 groups:
-- Canonn
+- Canonn Interstellar Research Group
 locations:
 - California Nebula
 - Pleiades Nebula
+- California Sector DL-Y D4 C6
+technologies:
+- meta-alloys
 topics:
 - exploration
 - research

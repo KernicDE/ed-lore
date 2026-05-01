@@ -4,16 +4,22 @@ title: Freelance Report  Canonn at Full Tilt
 slug: freelance_report_canonn_at_full_tilt
 date: '3302-06-27'
 source: GitHub
-entities:
-- Arcanonn
-- Arcanonn commented
+summary: Dr Arcanonn responds to Admiral Maxton Price's statement on Federal battle cruisers in Merope, confirms barnacle sites in the Witch Head Nebula, and reveals an Unknown Probe secured by Professor Monkey D Luffy orients itself toward Merope 5 C.
+player_impact: None
+persons:
+- Dr Arcanonn
+- Professor Monkey D Luffy
+- Commander Nicholas Powell
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 - Federal Navy
 locations:
 - Merope
 - Witch Head Nebula
+- Merope 5 C
+technologies:
+- Unknown Probes
+- Unknown Artefacts
 topics:
 - research
 - ship

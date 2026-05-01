@@ -4,12 +4,20 @@ title: Galactic News  Amateurs Partially Decrypt Signal
 slug: galactic_news_amateurs_partially_decrypt_signal
 date: '3302-12-02'
 source: GitHub
+summary: A group called The Hamsters in the Tionisla system claims to have partially decoded an encrypted message from an antique Cobra Mk III at the Tionisla Orbital Graveyard, sharing a sequence of numbers before being taken offline for an expired broadcasting licence.
+player_impact: None
+persons: []
+groups:
+- The Hamsters
 locations:
 - Tionisla
+- Tionisla Orbital Graveyard
+technologies:
+- Cobra Mk III
 topics:
 - cyberattack
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Partial decryption of an antique signal from the Tionisla Orbital Graveyard raises new questions about unexplained phenomena.
 legacy_weight: 1
 significance: low
 ---

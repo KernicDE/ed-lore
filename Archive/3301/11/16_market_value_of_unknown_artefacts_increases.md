@@ -4,13 +4,19 @@ title: Market Value of Unknown Artefacts Increases
 slug: market_value_of_unknown_artefacts_increases
 date: '3301-11-16'
 source: GitHub
+summary: Money Matters reports a dramatic increase in the market value of Unknown Artefacts, with correspondent Roberta Unwin noting such spikes usually require a catalyst and questioning who is paying heavily for the objects.
+player_impact: None
+persons:
+- Roberta Unwin
 groups:
 - Money Matters
+locations: []
+technologies:
+- Unknown Artefacts
 topics:
 - trade
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+modern_impact: Rising UA prices incentivise black-market trade, indirectly fuelling the station malfunction crisis that follows.
 legacy_weight: 3
 significance: medium
 ---

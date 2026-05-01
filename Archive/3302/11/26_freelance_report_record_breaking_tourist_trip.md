@@ -4,19 +4,31 @@ title: Freelance Report  Record Breaking Tourist Trip
 slug: freelance_report_record_breaking_tourist_trip
 date: '3302-11-26'
 source: GitHub
-entities:
-- Duck
+summary: Commander Duck of Death, a seasoned explorer, took a freelance reporter on a
+  record-breaking tourist trip to the far side of the galaxy, visiting the Black in Green
+  Nebula, Sagittarius A*, the Red and Green Glory Nebula, and a planetary ring with a 54
+  million kilometre radius.
+player_impact: Pilots can participate in the booming tourism industry following the Pilots
+  Federation's endorsement of passenger flights.
+persons:
+- Commander Duck of Death
+- Morris Cowley
 groups:
 - Pilots Federation
+- Elite Travel Writers' Cooperative
 locations:
 - Sagittarius A*
-- Sol
+- Beagle Point
 topics:
 - construction
 - exploration
-modern_impact: Notable exploration achievement.
+modern_impact: The booming space tourism industry, enabled by Pilots Federation passenger
+  endorsements and the Beluga liner, opened up the galaxy's most remote wonders to civilian
+  travelers.
 legacy_weight: 1
 significance: low
+technologies:
+- Beluga luxury liner
 ---
 
 Freelance Report: Record-Breaking Tourist Trip

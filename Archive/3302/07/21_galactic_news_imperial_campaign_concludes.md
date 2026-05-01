@@ -4,8 +4,17 @@ title: Galactic News  Imperial Campaign Concludes
 slug: galactic_news_imperial_campaign_concludes
 date: '3302-07-21'
 source: GitHub
+summary: Bava Blue Travel Systems confirms that hundreds of pilots delivered exploration data to Bauschinger City in the Bava system as part of the Imperial campaign to locate more barnacles, the only known source of meta-alloys.
+player_impact: None
+persons: []
+groups:
+- Bava Blue Travel Systems
+- Empire
 locations:
-- Bauschinger City in the Bava
+- Bava
+- Bauschinger City
+technologies:
+- meta-alloys
 topics:
 - exploration
 arc_id: barnacle-meta-alloy

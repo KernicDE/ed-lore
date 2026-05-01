@@ -4,12 +4,18 @@ title: Galactic News  No Sign of Jaques Station
 slug: galactic_news_no_sign_of_jaques_station
 date: '3302-05-26'
 source: GitHub
-entities:
-- Kaii
+summary: Jaques Station has not been heard from since departing for Beagle Point almost a week ago. Explorers at Beagle Point report no sign of the station, and experts speculate that Unknown Artefact-related technical issues may have contributed to the disappearance.
+player_impact: None
+persons:
+- Dr Kaii
+- Kinsley Larson
 groups:
+- Distant Worlds Expedition
 - Federal Times
 locations:
 - Jaques Station
+- Gliese 1269
+- Beagle Point
 topics:
 - construction
 - exploration

@@ -6,9 +6,9 @@ last_seen_date: '3303-04-07'
 mention_count: 35
 significance: medium
 key_entities:
+- canonn-interstellar-research-group
 - canonn
 - ishmael-palin
-- canonn-interstellar-research-group
 - arcanonn
 - federal-times
 ---
@@ -23,10 +23,10 @@ Articles: **35**
 
 ## Key Figures
 
-- [[Canonn]] (15 mentions)
-- [[Ishmael Palin]] (14 mentions)
 - [[Canonn Interstellar Research Group]] (13 mentions)
-- [[Arcanonn]] (6 mentions)
+- [[Canonn]] (11 mentions)
+- [[Ishmael Palin]] (11 mentions)
+- [[Arcanonn]] (4 mentions)
 - [[Federal Times]] (3 mentions)
 
 ## Description

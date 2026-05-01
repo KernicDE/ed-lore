@@ -4,14 +4,21 @@ title: Galactic News  Order Restored to Arque
 slug: galactic_news_order_restored_to_arque
 date: '3302-08-25'
 source: GitHub
+summary: Arque Commodities announced the successful conclusion of its campaign to clear the Arque system of criminals. Hundreds of pilots participated in the operation, and rewards are now available for collection at Austen Town Station.
+player_impact: Collect rewards at Austen Town Station in Arque if you contributed to the campaign.
+persons: []
+groups:
+- Arque Commodities
 locations:
-- Authorities in the Arque
+- Arque
+- Austen Town Station
+technologies: []
 topics:
 - crime
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Successful community security operations like the Arque campaign reinforce the role of independent pilots in maintaining order.
 legacy_weight: 2
 significance: low
 ---

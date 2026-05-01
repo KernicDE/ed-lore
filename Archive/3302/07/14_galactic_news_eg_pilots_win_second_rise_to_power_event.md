@@ -8,9 +8,18 @@ locations:
 - Nervi
 topics:
 - sport
-modern_impact: Competitive event for the pilot community.
+modern_impact: Reinforces the Rise to Power format as a recurring competitive event
+  that rewards unlawful acquisition and factional loyalty.
 legacy_weight: 1
 significance: low
+summary: The second heat of the Rise to Power competition tasked pilots with stealing
+  technical blueprints in the Nervi system. The EG Pilots faction won the stage after
+  receiving the largest quantity of stolen blueprints.
+player_impact: Steal technical blueprints in the Nervi system for your chosen faction.
+groups:
+- EG Pilots
+persons: []
+technologies: []
 ---
 
 Galactic News: EG Pilots win Second Rise to Power Event

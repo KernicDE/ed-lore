@@ -4,8 +4,12 @@ title: Community Goal  The Gathering
 slug: community_goal_the_gathering
 date: '3302-10-13'
 source: GitHub
-locations:
-- Tanmark
+summary: The Annual Galactic Games Organisation will hold the Gathering 3302 at Norman–Mavis's Bingo Palace in the Aramzahd system. The Aramzahd Empire Party has requested rare foods and alcohol, and issued a kill order on wanted ships for event security.
+player_impact: Pilots can deliver Centauri Mega Gin, Giant Irukama Snails, Lavian Brandy, Tanmark Tranquil Tea, and Witchhaul Kobe Beef to Norman–Mavis's Bingo Palace in Aramzahd for rewards, and eliminate wanted ships to ensure safety.
+persons: []
+groups: [Annual Galactic Games Organisation, Aramzahd Empire Party]
+locations: [Aramzahd, Norman–Mavis's Bingo Palace, Guardinia]
+technologies: []
 topics:
 - construction
 - safety
@@ -13,7 +17,7 @@ topics:
 - sport
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The Gathering represents the intersection of commerce, tourism, and pilot labour in major galactic social events.
 legacy_weight: 1
 significance: low
 ---

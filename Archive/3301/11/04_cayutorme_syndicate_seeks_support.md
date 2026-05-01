@@ -4,11 +4,17 @@ title: Cayutorme Syndicate Seeks Support
 slug: cayutorme_syndicate_seeks_support
 date: '3301-11-04'
 source: GitHub
+summary: Imperial investigators confirm ties between Archon Delaine's Kumo Crew and the Cayutorme Syndicate; leader Kyle Kurowski appeals to independent pilots to join his mercenary armada against an impending Imperial invasion.
+player_impact: Independent pilots can join the Cayutorme Syndicate to repel the Imperial invasion, with rich compensation and high-class outfitting access promised.
+persons:
+- Kyle Kurowski
+- Archon Delaine
 groups:
 - Cayutorme Syndicate
 - Kumo Crew
 locations:
 - Cayutorme
+technologies: []
 topics:
 - ship
 arc_id: cayutorme-conflict

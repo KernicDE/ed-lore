@@ -10,7 +10,7 @@ related_entities:
 - obsidian-orbital
 - federal-navy
 - imperial-navy
-- the-daramo
+- independents-of-daramo
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **2**
 - [[Obsidian Orbital]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
 - [[Imperial Navy]] (1 co-mentions)
-- [[The Daramo]] (1 co-mentions)
+- [[Independents of Daramo]] (1 co-mentions)
 
 ## Biography
 

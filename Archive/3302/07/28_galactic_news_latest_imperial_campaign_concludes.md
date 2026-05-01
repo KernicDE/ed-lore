@@ -4,8 +4,19 @@ title: Galactic News  Latest Imperial Campaign Concludes
 slug: galactic_news_latest_imperial_campaign_concludes
 date: '3302-07-28'
 source: GitHub
+summary: Lavigny's Legion confirms its appeal for thallium, thermal cooling units and CMM composites reached a successful conclusion, with scores of pilots supporting the campaign to construct three new Majestic-class Interdictors at Marker Depot in Carthage.
+player_impact: None
+persons: []
+groups:
+- Lavigny's Legion
 locations:
 - Carthage
+- Marker Depot
+technologies:
+- Majestic-class Interdictor
+- thallium
+- thermal cooling units
+- CMM composites
 topics:
 - construction
 modern_impact: Infrastructure project with long-term benefits.

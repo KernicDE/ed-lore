@@ -4,16 +4,27 @@ title: Freelance Report  Strategic Resource Denial
 slug: freelance_report_strategic_resource_denial
 date: '3302-07-08'
 source: GitHub
-locations:
-- Independent
 topics:
 - ship
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Provides an early military analysis of the Pleiades resource struggle,
+  framing the superpower standoff in classic strategic-warfare terms.
 legacy_weight: 5
 significance: high
+summary: Retired General Alexander Lee of United Teaka First argued on Affairs of
+  State that the Federation's presence at barnacle sites is strategic resource denial.
+  He warned that Independent systems suffering from Unknown Artefact damage will be
+  left without meta-alloys as the Empire is forced to respond.
+player_impact: None
+persons:
+- General Alexander Lee
+groups:
+- United Teaka First
+- Federation
+- Empire
+locations: []
+technologies: []
 ---
 
 Freelance Report: Strategic Resource Denial

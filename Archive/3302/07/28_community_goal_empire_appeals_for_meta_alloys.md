@@ -4,6 +4,20 @@ title: Community Goal  Empire Appeals for Meta Alloys
 slug: community_goal_empire_appeals_for_meta_alloys
 date: '3302-07-28'
 source: GitHub
+summary: The Empire issues a galaxy-wide request for meta-alloys through the Zagoro Imperial Society, aiming to prevent any monopoly on the material and coinciding with a Federal campaign to establish an outpost at a known barnacle site on HIP 17225 A 1.
+player_impact: Deliver meta-alloys to Axon Station in the Zagoro system to support the Imperial initiative.
+persons: []
+groups:
+- Zagoro Imperial Society
+- Empire
+locations:
+- Zagoro
+- Axon Station
+- HIP 17225 A 1
+technologies:
+- meta-alloys
+- Unknown Artefacts
+- Unknown Probes
 topics:
 - ship
 - war

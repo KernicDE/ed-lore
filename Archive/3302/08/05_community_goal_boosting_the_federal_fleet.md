@@ -4,13 +4,23 @@ title: Community Goal  Boosting the Federal Fleet
 slug: community_goal_boosting_the_federal_fleet
 date: '3302-08-05'
 source: GitHub
+summary: The Federation announced plans to expand its Navy with three new Farragut-class Battlecruisers. Pilots are requested to deliver autofabricators, tantalum, and superconductors to Brady Horizons in the Gooheimar system.
+player_impact: Deliver autofabricators, tantalum, and superconductors to Brady Horizons in Gooheimar to support Federal capital ship construction.
+persons:
+- Zachary Hudson
 groups:
-- Alliance
+- Federation
+- Workers of Gooheimar Alliance
+locations:
+- Brady Horizons
+- Gooheimar
+technologies:
+- Farragut-class Battlecruiser
 topics:
 - construction
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Federal naval expansion in response to rising Imperial tensions escalates the superpower arms race.
 legacy_weight: 2
 significance: low
 ---

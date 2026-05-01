@@ -4,16 +4,19 @@ title: Galactic News  Imperial Ships Deployed to Pleiades Sector AB W B2 4
 slug: galactic_news_imperial_ships_deployed_to_pleiades_sector_ab_w_b2_4
 date: '3302-09-08'
 source: GitHub
-entities:
+summary: The Empire deployed an Imperial deputation including a Majestic-class Interdictor to the Pleiades Sector AB-W B2-4 system over the non-human shipwreck site, prompting President Zachary Hudson to condemn the action and threaten a Federal response.
+player_impact: None
+persons:
 - Zachary Hudson
+groups:
+- Empire
+- Federation
 locations:
 - Pleiades Sector AB-W B2-4
-topics:
-- alien contact
-- ship
+technologies:
+- Majestic-class Interdictor
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Imperial military deployment to the Pleiades wreck site triggered a direct superpower standoff over control of alien discoveries.
 legacy_weight: 5
 significance: high
 ---

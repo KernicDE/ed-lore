@@ -4,8 +4,19 @@ title: Freelance Report  GalCop Mobilizes to Aid Jaques Station
 slug: freelance_report_galcop_mobilizes_to_aid_jaques_station
 date: '3302-07-23'
 source: GitHub
+summary: The Galactic Cooperative of Worlds pledges to support the repair of Jaques Station by establishing a logistical supply chain and localised resource base in surrounding sectors, using wealth acquired during the Dangerous Games.
+player_impact: Deliver repair materials to Jaques Station in Eol Prou RS-T d3-94; GalCop has established supply chains to support the effort.
+persons:
+- Jahena Yar Savor
+- Commander Felix Dyson
+- Jaques
+groups:
+- Galactic Cooperative of Worlds
 locations:
 - Jaques Station
+- Eol Prou RS-T d3-94
+technologies:
+- meta-alloys
 topics:
 - construction
 - sport

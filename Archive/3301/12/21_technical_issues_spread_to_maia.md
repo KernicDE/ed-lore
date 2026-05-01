@@ -4,14 +4,20 @@ title: Technical Issues Spread to Maia
 slug: technical_issues_spread_to_maia
 date: '3301-12-21'
 source: GitHub
+summary: Gabriel Enterprise in Harma suspends all services except docking and shipyard access due to technical issues, while Obsidian Orbital in Maia becomes the latest station affected by the mysterious malfunctions.
+player_impact: None
+persons: []
+groups: []
 locations:
 - Harma
+- Gabriel Enterprise
 - Maia
 - Obsidian Orbital
+technologies: []
 topics:
 - construction
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Obsidian Orbital's malfunction is particularly significant as it was recently constructed with community effort, demonstrating the UA threat's indiscriminate nature.
 legacy_weight: 1
 significance: low
 ---

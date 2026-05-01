@@ -4,8 +4,17 @@ title: Freelance Report  Meta Alloy Rush
 slug: freelance_report_meta_alloy_rush
 date: '3302-07-18'
 source: GitHub
-entities:
-- Elana Lorax
+summary: Demand for meta-alloys skyrockets as starports place orders to protect against potential malfunctions, alarming conservationists and xenobiologist Dr Elana Lorax who warn that unchecked exploitation may destroy the barnacles before they can be studied.
+player_impact: Deliver meta-alloys to stations with open orders, or assist conservation efforts by harvesting only ripe spikes.
+persons:
+- Dr Elana Lorax
+- Vernon Trask
+groups: []
+locations:
+- Bauschinger City
+technologies:
+- meta-alloys
+- Unknown Artefacts
 topics:
 - construction
 - medicine

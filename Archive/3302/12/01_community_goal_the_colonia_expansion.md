@@ -4,6 +4,9 @@ title: Community Goal  The Colonia Expansion
 slug: community_goal_the_colonia_expansion
 date: '3302-12-01'
 source: GitHub
+summary: The Colonia Council has announced a series of monthly colonisation appeals in the Colonia Nebula, asking pilots to deliver commodities to Jaques Station so competing factions can earn the right to settle surrounding systems.
+player_impact: Deliver specified commodities to Jaques Station on behalf of chosen organisations to earn migration visas and help factions settle in the Colonia Nebula.
+persons: []
 groups:
 - Colonia Council
 locations:
@@ -11,11 +14,11 @@ locations:
 - Eol Prou
 - Eol Prou RS-T d3-94
 - Jaques Station
+technologies: []
 topics:
 - trade
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement, opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---

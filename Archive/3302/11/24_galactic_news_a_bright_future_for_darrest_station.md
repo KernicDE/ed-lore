@@ -4,16 +4,30 @@ title: Galactic News  A Bright Future for D'Arrest Station
 slug: galactic_news_a_bright_future_for_darrest_station
 date: '3302-11-24'
 source: GitHub
+summary: The Uibuth Empire Party announced that its appeal for basic medicines received
+  the unconditional support of the galactic community, with huge quantities delivered to
+  D'Arrest Station in the Uibuth system. Princess Aisling Duval, who funded the effort,
+  expressed gratitude and was assured the outbreak would soon be under control.
+player_impact: Pilots who contributed to the initiative can collect their rewards from
+  D'Arrest Station in the Uibuth system.
+persons:
+- Princess Aisling Duval
+groups:
+- Uibuth Empire Party
 locations:
-- D'Arrest Station in the Uibuth
+- Uibuth
+- D'Arrest Station
 topics:
 - construction
 - humanitarian
 - medicine
 - war
-modern_impact: Humanitarian effort by the pilot community.
+modern_impact: The successful medical relief campaign at D'Arrest Station controlled the
+  outbreak and reinforced Princess Aisling Duval's commitment to her repatriation centre
+  for former slaves.
 legacy_weight: 2
 significance: low
+technologies: []
 ---
 
 Galactic News: A Bright Future for D'Arrest Station

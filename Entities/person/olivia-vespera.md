@@ -5,9 +5,6 @@ type: person
 first_seen_date: '3302-05-14'
 last_seen_date: '3302-05-14'
 mention_count: 1
-related_entities:
-- vespera
-- jaques-station
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,8 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Vespera]] (1 co-mentions)
-- [[Jaques Station]] (1 co-mentions)
 
 ## Biography
 

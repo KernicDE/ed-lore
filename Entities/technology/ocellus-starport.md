@@ -2,18 +2,18 @@
 id: ocellus-starport
 name: Ocellus starport
 type: technology
-first_seen_date: '3303-07-15'
+first_seen_date: '3301-11-04'
 last_seen_date: '3303-07-15'
-mention_count: 1
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Ocellus starport
 
-First mentioned: **3303-07-15**  
+First mentioned: **3301-11-04**  
 Last mentioned: **3303-07-15**  
-Total mentions: **1**
+Total mentions: **4**
 
 ## Related
 

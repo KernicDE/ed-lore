@@ -6,8 +6,9 @@ first_seen_date: '3302-07-21'
 last_seen_date: '3302-07-28'
 mention_count: 3
 related_entities:
-- marker-depot-in-the-carthage
-- authorities-in-the-carthage
+- lavignys-legion
+- marker-depot
+- imperial-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,8 +21,9 @@ Total mentions: **3**
 
 ## Related
 
-- [[Marker Depot in the Carthage]] (1 co-mentions)
-- [[Authorities in the Carthage]] (1 co-mentions)
+- [[Lavigny's Legion]] (3 co-mentions)
+- [[Marker Depot]] (3 co-mentions)
+- [[Imperial Navy]] (1 co-mentions)
 
 ## Biography
 

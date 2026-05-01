@@ -2,9 +2,9 @@
 id: lorens-legion
 name: Loren's Legion
 type: faction
-first_seen_date: '3303-03-02'
+first_seen_date: '3302-10-26'
 last_seen_date: '3303-03-16'
-mention_count: 3
+mention_count: 4
 related_entities:
 - prism
 - hirams-anchorage
@@ -14,14 +14,14 @@ related_entities:
 
 # Loren's Legion
 
-First mentioned: **3303-03-02**  
+First mentioned: **3302-10-26**  
 Last mentioned: **3303-03-16**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
-- [[Prism]] (3 co-mentions)
-- [[Hiram's Anchorage]] (3 co-mentions)
+- [[Prism]] (4 co-mentions)
+- [[Hiram's Anchorage]] (4 co-mentions)
 
 ## Biography
 

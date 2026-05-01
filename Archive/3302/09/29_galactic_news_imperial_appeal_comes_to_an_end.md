@@ -4,16 +4,20 @@ title: Galactic News  Imperial Appeal Comes to an End
 slug: galactic_news_imperial_appeal_comes_to_an_end
 date: '3302-09-29'
 source: GitHub
+summary: The Merope Expeditionary Fleet has concluded its appeal for construction materials after receiving a massive influx of deliveries to Obsidian Orbital in Maia, which will be used to build a new Imperial operating base in the Pleiades Sector AB-W B2-4 system.
+player_impact: Pilots who contributed to the initiative can collect their rewards from Obsidian Orbital in the Maia system.
+persons: []
+groups:
+- Merope Expeditionary Fleet
 locations:
 - Maia
-- Merope
 - Obsidian Orbital
+- Pleiades Sector AB-W B2-4
+technologies: []
 topics:
 - construction
-- war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: Completion of the Imperial base supply campaign secures a permanent Empire foothold in the Pleiades, entrenching superpower rivalry over the region's resources.
 legacy_weight: 3
 significance: medium
 ---

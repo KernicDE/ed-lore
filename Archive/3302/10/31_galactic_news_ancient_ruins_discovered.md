@@ -4,17 +4,19 @@ title: Galactic News  Ancient Ruins Discovered
 slug: galactic_news_ancient_ruins_discovered
 date: '3302-10-31'
 source: GitHub
-locations:
-- Pleiades Sector AB-W B2-4
-- Synuefe XR-H d11-102
+summary: Independent pilot 'xdeath' discovered mysterious ruins in the Synuefe XR-H d11-102 system. Speculation is rife that they are of non-human origin, adding to previous finds including Unknown Artefacts, Unknown Probes, organic structures, and a crash site in Pleiades Sector AB-W B2-4.
+player_impact: None
+persons: [xdeath]
+groups: []
+locations: [Synuefe XR-H d11-102, Pleiades Sector AB-W B2-4]
+technologies: []
 topics:
 - alien contact
 - investigation
 - ship
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Discovery of the Synuefe ruins confirms the existence of a prior non-human civilisation, fundamentally reshaping xenoarchaeology and humanity's understanding of its place in the galaxy.
 legacy_weight: 5
 significance: high
 ---

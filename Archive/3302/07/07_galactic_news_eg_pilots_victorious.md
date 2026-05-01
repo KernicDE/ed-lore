@@ -7,9 +7,23 @@ source: GitHub
 topics:
 - sport
 - war
-modern_impact: Competitive event for the pilot community.
+modern_impact: Demonstrates the competitive community-goal format that allows player
+  factions to earn recognition and potentially ascend to major-power status.
 legacy_weight: 1
 significance: low
+summary: The first heat of the Rise to Power competition required pilots to deliver
+  Gilya signature weapons to Gohar Station in the Jaradharre system. The EG Pilots
+  faction received the largest quantity and won the opening stage.
+player_impact: Gather Gilya signature weapons and deliver them to Gohar Station in
+  the Jaradharre system for your chosen faction.
+groups:
+- EG Pilots
+locations:
+- Gohar Station
+- Jaradharre
+technologies:
+- Gilya signature weapons
+persons: []
 ---
 
 Galactic News: EG Pilots Victorious

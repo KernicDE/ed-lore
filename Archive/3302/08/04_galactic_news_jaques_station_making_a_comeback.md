@@ -4,16 +4,20 @@ title: Galactic News  Jaques Station Making a Comeback
 slug: galactic_news_jaques_station_making_a_comeback
 date: '3302-08-04'
 source: GitHub
+summary: Jaques Station's repair campaign has restored refuelling, restocking, repair, outfitting, and commodities services ahead of schedule. Jaques confirmed that more materials are still needed to complete the starport's restoration.
+player_impact: Continue delivering repair materials to Jaques Station in Eol Prou RS-T d3-94 to help complete restoration.
+persons:
+- Jaques
+groups: []
 locations:
-- Eol Prou
 - Eol Prou RS-T d3-94
 - Jaques Station
+technologies: []
 topics:
 - construction
 - trade
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Jaques Station's recovery enables deep-space services and paves the way for permanent colonisation of the Colonia region.
 legacy_weight: 4
 significance: high
 ---

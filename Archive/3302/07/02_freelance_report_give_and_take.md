@@ -4,22 +4,29 @@ title: Freelance Report  Give and Take
 slug: freelance_report_give_and_take
 date: '3302-07-02'
 source: GitHub
-entities:
-- Gan
 groups:
 - Interstellar Press
 locations:
-- But several
 - Lusonda
-- One
 topics:
 - narcotics
 - piracy
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Illustrates the brutal authority of Archon Delaine and the oppressive
+  tribute system imposed on systems under his control.
 legacy_weight: 4
 significance: high
+summary: Kumo Tribute Day saw representatives from systems under Archon Delaine present
+  lavish gifts to the Pirate Lord, including a live barnacle and a gold-plated Federal
+  Corvette. When Ferdinand Haim of the Lusonda system arrived empty handed, Delaine
+  ordered him to take his own life.
+player_impact: None
+persons:
+- Archon Delaine
+- Ferdinand Haim
+- Commander Gan
+technologies:
+- Federal Corvette
 ---
 
 Freelance Report: Give and Take

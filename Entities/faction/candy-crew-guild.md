@@ -2,9 +2,9 @@
 id: candy-crew-guild
 name: Candy Crew Guild
 type: faction
-first_seen_date: '3303-09-29'
+first_seen_date: '3302-12-06'
 last_seen_date: '3303-10-06'
-mention_count: 2
+mention_count: 3
 related_entities:
 - irusan
 - bella-port
@@ -14,9 +14,9 @@ related_entities:
 
 # Candy Crew Guild
 
-First mentioned: **3303-09-29**  
+First mentioned: **3302-12-06**  
 Last mentioned: **3303-10-06**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

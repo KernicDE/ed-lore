@@ -4,11 +4,17 @@ title: Federation Triumphs over Emperor's Dawn
 slug: federation_triumphs_over_emperors_dawn
 date: '3301-12-16'
 source: GitHub
-entities:
-- Zachary Hudson's response
+summary: The Federal Navy, with support from independent pilots, successfully destroys an Emperor's Dawn outpost in Kausalya after President Zachary Hudson promised severe punishment, with Admiral Kirby declaring the operation an unmitigated success.
+player_impact: None
+persons:
+- Zachary Hudson
+- Admiral Kirby
 groups:
 - Emperor's Dawn
 - Federal Navy
+locations:
+- Kausalya
+technologies: []
 topics:
 - succession
 - terrorism

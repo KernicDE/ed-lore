@@ -9,8 +9,8 @@ related_entities:
 - kumo-crew
 - pilots-federation
 - pegasi-sector-pn-t-c3-14
+- gabriel-enterprise
 - wolf-1301
-- 64-arietis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **21**
 - [[Kumo Crew]] (9 co-mentions)
 - [[Pilots Federation]] (6 co-mentions)
 - [[Pegasi Sector PN-T c3-14]] (6 co-mentions)
+- [[Gabriel Enterprise]] (5 co-mentions)
 - [[Wolf 1301]] (5 co-mentions)
-- [[64 Arietis]] (5 co-mentions)
 
 ## Biography
 

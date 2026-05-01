@@ -4,12 +4,21 @@ title: Freelance Report  Guardian Archangel
 slug: freelance_report_guardian_archangel
 date: '3302-11-26'
 source: GitHub
-entities:
-- Chiggy Vonrictofen
-- Mad Billy
+summary: Commander Chiggy Vonrictofen conducted a dramatic rescue of Commander Felix Macedonica,
+  who was stranded 65,000 light years from home without sufficient germanium to synthesise
+  an FSD injection. Chiggy traveled to Colonia, fitted a mining laser, and crossed 30,000
+  light years to reach Felix within 48 hours.
+player_impact: None
+persons:
+- Commander Felix Macedonica
+- Commander Chiggy Vonrictofen
+- Commander Mad Billy
+groups:
+- Institute for Galactic Exploration and Research
 locations:
 - Colonia
-- Felix before appraising the
+- Jaques Station
+- Beagle Point
 topics:
 - exploration
 - humanitarian
@@ -17,10 +26,15 @@ topics:
 - ship
 - xenoarchaeology
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Commander Chiggy Vonrictofen's extraordinary rescue of Felix Macedonica
+  demonstrated the deep-space solidarity among explorers and the critical importance of
+  synthesis materials on long expeditions.
 legacy_weight: 4
 significance: high
+technologies:
+- Lakon Type-6E
+- mining laser
+- FSD injection
 ---
 
 Freelance Report: Guardian Archangel

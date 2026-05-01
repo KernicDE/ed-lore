@@ -4,17 +4,21 @@ title: Community Goal  80 DD D 774 CE 2 Appeals for Exploration Data
 slug: community_goal_80_dd_d_774_ce_2_appeals_for_exploration_data
 date: '3302-08-25'
 source: GitHub
+summary: The 80 DD-D 774-CE-2 faction based at Jaques Station issued a request for exploration data to support establishing a permanent community in the Colonia Nebula. The faction is offering competitive rewards for data delivered to Jaques Station.
+player_impact: Deliver exploration data to Jaques Station in the Eol Prou RS-T d3-94 system to earn competitive rewards and support the Colonia settlement.
+persons: []
+groups:
+- 80 DD-D 774-CE-2
 locations:
 - Colonia
-- Eol Prou
 - Eol Prou RS-T d3-94
 - Jaques Station
+technologies: []
 topics:
 - exploration
 - war
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: The exploration data drive accelerates mapping of the Colonia region and attracts explorers to the emerging deep-space frontier.
 legacy_weight: 4
 significance: high
 ---

@@ -4,11 +4,15 @@ title: Galactic News  Morrina Aid Campaign Reaches Conclusion
 slug: galactic_news_morrina_aid_campaign_reaches_conclusion
 date: '3302-05-05'
 source: GitHub
+summary: The Spinward Marches Alliance Concern's humanitarian campaign for the Morrina system concludes successfully. Medicines, water purifiers, and power generators delivered to Beaumont Dock will be distributed to those affected by recent conflicts.
+player_impact: Pilots delivered humanitarian supplies to Beaumont Dock in the Morrina system.
 groups:
 - Alliance
 - Pilots Federation
+- Spinward Marches Alliance Concern
 locations:
-- As the
+- Morrina system
+- Beaumont Dock
 topics:
 - exploration
 - humanitarian

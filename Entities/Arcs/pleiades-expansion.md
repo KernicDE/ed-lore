@@ -8,9 +8,9 @@ significance: medium
 key_entities:
 - pleiades-resource-enterprise
 - merope-expeditionary-fleet
-- universal-cartographics
-- brewer-corporation
+- ant-hill-mob
 - explorers-association
+- federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Articles: **37**
 
 ## Key Figures
 
-- [[Pleiades Resource Enterprise]] (5 mentions)
-- [[Merope Expeditionary Fleet]] (5 mentions)
-- [[Universal Cartographics]] (3 mentions)
-- [[Brewer Corporation]] (2 mentions)
-- [[Explorer's Association]] (2 mentions)
+- [[Pleiades Resource Enterprise]] (14 mentions)
+- [[Merope Expeditionary Fleet]] (6 mentions)
+- [[Ant Hill Mob]] (6 mentions)
+- [[Explorer's Association]] (4 mentions)
+- [[Federation]] (4 mentions)
 
 ## Description
 

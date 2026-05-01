@@ -4,6 +4,12 @@ title: Galactic News  Bentonio's Request Rebuffed
 slug: galactic_news_bentonios_request_rebuffed
 date: '3302-05-13'
 source: GitHub
+summary: Arlo Cortez, a member of Jasmina Halsey's personal staff, rebuffs conspiracy theorist Ricardo Bentonio's claims that Halsey has been silenced by governmental powers. Bentonio's request to meet with Halsey is denied.
+player_impact: None
+persons:
+- Arlo Cortez
+- Ricardo Bentonio
+- Jasmina Halsey
 topics:
 - piracy
 modern_impact: Anti-piracy operation protecting trade routes.

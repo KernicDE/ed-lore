@@ -4,15 +4,23 @@ title: Clauss Incorporated Issues Appeal
 slug: clauss_incorporated_issues_appeal
 date: '3301-12-22'
 source: GitHub
+summary: Clauss Incorporated CEO Nicolas St Clauss issues a public appeal for Special Gifts, asking pilots to transport them from Frost Dock in Njambalba to Clauss Port in Santa Muerte, with free ships offered to novice contributors.
+player_impact: Transport Special Gifts from Frost Dock in Njambalba to Clauss Port in Santa Muerte; novice pilots (3-10 hours flight time) may receive free ships.
+persons:
+- Nicolas St Clauss
 groups:
 - Clauss Incorporated
 locations:
-- Clauss Port in the Santa Muerte
+- Frost Dock
+- Njambalba
+- Clauss Port
+- Santa Muerte
+technologies: []
 topics:
 - corporate expansion
 - ship
 - trade
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Seasonal community appeal demonstrating the role of independent pilots in galactic commerce and charitable distribution.
 legacy_weight: 2
 significance: low
 ---

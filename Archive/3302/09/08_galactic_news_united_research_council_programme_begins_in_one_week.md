@@ -4,12 +4,21 @@ title: Galactic News  United Research Council Programme Begins in One Week
 slug: galactic_news_united_research_council_programme_begins_in_one_week
 date: '3302-09-08'
 source: GitHub
+summary: The United Research Council has announced that its postponed research programme will begin on 15 September 3302, encompassing systems within a 30 light-year radius of Clayakarma, Nauo, Gyhldekala, Boga and Kpaniya. During the project, pilots pledged to major powers will be unable to claim these systems, and any preparatory activity will be reset.
+player_impact: Pilots pledged to one of the galaxy's major powers will be unable to lay claim to systems within the programme area while the project is active, and any preparatory activity in these systems will be negated when the programme begins.
+persons: []
+groups:
+- United Research Council
 locations:
-- Boga and Kpaniya
+- Clayakarma
+- Nauo
+- Gyhldekala
+- Boga
+- Kpaniya
+technologies: []
 topics:
 - research
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The United Research Council's programme temporarily restricts power-play expansion in multiple systems, resetting pilot preparations and reshaping territorial dynamics.
 legacy_weight: 2
 significance: low
 ---

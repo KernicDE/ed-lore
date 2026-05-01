@@ -4,9 +4,16 @@ title: Faction Issues Festive Request
 slug: faction_issues_festive_request
 date: '3301-12-17'
 source: GitHub
+summary: The Hel Purple Energy Industry requests Crystalline Spheres from Snow Moon in the Bento system to commemorate the winter solstice festival, offering pilots a week-long delivery contract.
+player_impact: Deliver Crystalline Spheres from Snow Moon in the Bento system to Hel to participate in the winter solstice appeal.
+persons: []
+groups:
+- Hel Purple Energy Industry
 locations:
 - Hel
-- Snow Moon in the Bento
+- Snow Moon
+- Bento
+technologies: []
 topics:
 - festival
 - trade

@@ -4,9 +4,6 @@ title: Galactic News  Zachary Hudson Responds to Imperial Criticism
 slug: galactic_news_zachary_hudson_responds_to_imperial_criticism
 date: '3302-07-02'
 source: GitHub
-entities:
-- Zachary Hudson
-- Zemina Torval asserted that
 locations:
 - Merope
 topics:
@@ -14,10 +11,23 @@ topics:
 - ship
 - war
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Establishes the Federation's official narrative of protective stewardship
+  over barnacle sites, framing the conflict as conservation rather than resource
+  grab.
 legacy_weight: 5
 significance: high
+summary: Federal President Zachary Hudson defended the deployment of Farragut Battle
+  Cruisers in the Merope system, stating that the Federal presence is solely intended
+  to protect the barnacles from exploitation. The statement follows criticism from
+  Senator Zemina Torval.
+player_impact: None
+persons:
+- Zachary Hudson
+- Zemina Torval
+groups:
+- Federation
+technologies:
+- Farragut Battle Cruiser
 ---
 
 Galactic News: Zachary Hudson Responds to Imperial Criticism

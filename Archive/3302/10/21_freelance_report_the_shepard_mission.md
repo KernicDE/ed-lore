@@ -4,11 +4,15 @@ title: Freelance Report  The SHEPARD Mission
 slug: freelance_report_the_shepard_mission
 date: '3302-10-21'
 source: GitHub
-locations:
-- Sol
+summary: A group of independent pilots announced the SHEPARD Mission, a six-month galactic endurance expedition covering 37 waypoints in the Centaurus Reach, Scutum-Centaurus Arm, Styx, and galactic core, including an SRV planetary-circumnavigation race and pulsar-FSD boost climbs.
+player_impact: Pilots could join the SHEPARD Mission departing from the Sol system on 5 November 3302.
+persons: [Commander Parabolus]
+groups: []
+locations: [Sol, Centaurus Reach, Scutum-Centaurus Arm, Styx]
+technologies: [SRV, Pulsar-FSD boost, Frame Shift Drive]
 topics:
 - sport
-modern_impact: Competitive event for the pilot community.
+modern_impact: The SHEPARD Mission pushes the boundaries of long-range exploration and SRV endurance racing, advancing deep-space expedition methodologies.
 legacy_weight: 1
 significance: low
 ---

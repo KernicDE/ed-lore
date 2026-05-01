@@ -4,6 +4,13 @@ title: Galactic News  Colonia Council Initiative Concludes
 slug: galactic_news_colonia_council_initiative_concludes
 date: '3302-11-03'
 source: GitHub
+summary: The Colonia Council announced that its appeal for palladium was a resounding
+  success, with hundreds of pilots delivering materials to Jaques Station. The materials
+  will support further colonisation of the Colonia Nebula and address the growing community's
+  needs.
+player_impact: Pilots who contributed to the initiative can collect their rewards from
+  Jaques Station in the Colonia system.
+persons: []
 groups:
 - Colonia Council
 locations:
@@ -12,10 +19,11 @@ locations:
 topics:
 - war
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: The successful palladium appeal funded infrastructure and colonization
+  efforts in the Colonia Nebula, strengthening the frontier settlement.
 legacy_weight: 4
 significance: high
+technologies: []
 ---
 
 Galactic News: Colonia Council Initiative Concludes

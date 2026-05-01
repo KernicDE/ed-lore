@@ -4,16 +4,21 @@ title: Galactic News  Wildlife Reserve Campaign Concludes
 slug: galactic_news_wildlife_reserve_campaign_concludes
 date: '3302-12-22'
 source: GitHub
-entities:
+summary: The Starship Enterprises Corporation's wildlife reserve campaign in the LP 339-7 system has concluded successfully, with commodities delivered to Whitson Orbital for a reserve on LP 339-7 4 A.
+player_impact: Collect rewards from Whitson Orbital in the LP 339-7 system.
+persons:
 - Lewis Chapman
+groups:
+- Starship Enterprises Corporation
 locations:
-- Media outlets in the LP 339-7
+- LP 339-7
+- LP 339-7 4 A
+- Whitson Orbital
+technologies: []
 topics:
 - corporate expansion
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Successful creation of a wildlife reserve on LP 339-7 4 A highlights corporate efforts to develop new tourist destinations.
 legacy_weight: 2
 significance: low
 ---

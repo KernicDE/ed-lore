@@ -4,18 +4,26 @@ title: Galactic News  The Thargoids
 slug: galactic_news_the_thargoids
 date: '3302-08-12'
 source: GitHub
+summary: Historian Sima Kalhana reviewed the history of Thargoid encounters, from the first reported interdictions in 3125 to the INRA's alleged development of the mycoid virus. The article notes that no credible Thargoid sightings had been reported for centuries, leaving their existence and nature uncertain.
+player_impact: None
+persons:
+- Sima Kalhana
+- Arvan Corto
 groups:
 - Imperial Navy
+- Intergalactic Naval Reserve Arm
 locations:
-- Thargoid hyperdrive
+- Veliaze
+technologies:
+- mycoid virus
+- electronic countermeasure
 topics:
 - alien contact
 - piracy
 - research
 - ship
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Historical context on Thargoid encounters, the mycoid virus, and INRA's covert operations frames contemporary reactions to Unknown Artefacts and Probes.
 legacy_weight: 5
 significance: high
 ---

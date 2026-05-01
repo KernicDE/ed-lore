@@ -4,14 +4,21 @@ title: Community Goal  Restoring Order in Arque
 slug: community_goal_restoring_order_in_arque
 date: '3302-08-18'
 source: GitHub
+summary: Authorities in the Arque system report a sharp increase in criminal activity disrupting trade. Arque Commodities has issued a kill order on wanted ships and will reward pilots who deliver bounty vouchers to Austen Town Station.
+player_impact: Eliminate wanted ships in the Arque system and deliver bounty vouchers to Austen Town Station to earn rewards.
+persons: []
+groups:
+- Arque Commodities
 locations:
-- Authorities in the Arque
+- Arque
+- Austen Town Station
+technologies: []
 topics:
 - crime
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Localised bounty campaigns like Arque's illustrate the reliance on independent pilots for routine system security.
 legacy_weight: 2
 significance: low
 ---

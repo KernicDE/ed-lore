@@ -4,8 +4,16 @@ title: Galactic News  Utopian Campaign Concludes
 slug: galactic_news_utopian_campaign_concludes
 date: '3302-06-23'
 source: GitHub
+summary: Utopia's exploration data appeal concludes successfully; Pranav Antal thanks contributors and announces the data will be analysed to understand why spacefarers disappear, whether through abduction, fuel exhaustion, or unexplained causes.
+player_impact: Collect rewards at Terry Port in the Garoku system if you contributed exploration data to Utopia's campaign.
+persons:
+- Pranav Antal
 groups:
 - Utopia
+locations:
+- Garoku
+- Terry Port
+technologies: []
 topics:
 - exploration
 - war

@@ -4,16 +4,24 @@ title: Clauss Incorporated Appeal Comes to an End
 slug: clauss_incorporated_appeal_comes_to_an_end
 date: '3301-12-31'
 source: GitHub
+summary: Clauss Incorporated's appeal for Special Gifts concludes successfully, with hundreds of pilots transporting commodities from Frost Dock in Njambalba to Clauss Port in Santa Muerte, and hundreds of free ships given to novice pilots.
+player_impact: None
+persons:
+- Nicolas St Clauss
 groups:
 - Clauss Incorporated
 locations:
-- Frost Dock in the Njambalba
+- Frost Dock
+- Njambalba
+- Clauss Port
+- Santa Muerte
+technologies: []
 topics:
 - corporate expansion
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Seasonal charitable appeal demonstrates how corporations leverage pilot networks for galactic-scale distribution.
 legacy_weight: 2
 significance: low
 ---

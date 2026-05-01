@@ -8,9 +8,9 @@ mention_count: 6
 related_entities:
 - jameson-memorial
 - aegis
-- pilots-federation
 - azimuth
 - sirius-corporation
+- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **6**
 
 - [[Jameson Memorial]] (4 co-mentions)
 - [[Aegis]] (3 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
 - [[Azimuth]] (2 co-mentions)
 - [[Sirius Corporation]] (2 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 

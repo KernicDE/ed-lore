@@ -4,18 +4,18 @@ title: Galactic News  Palin Announces Development
 slug: galactic_news_palin_announces_development
 date: '3302-10-26'
 source: GitHub
-entities:
-- Ishmael Palin
-- Palin
-locations:
-- Maia
+summary: Professor Ishmael Palin announced that his research into meta-alloys has revealed previously unidentified properties that could be used to develop robust new materials for combat starship defensive technologies.
+player_impact: None
+persons: [Professor Ishmael Palin]
+groups: [Palin Institute]
+locations: [Maia, Maia A 3 a]
+technologies: [meta-alloys]
 topics:
 - research
 - ship
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Palin's discovery of meta-alloy applications for defensive starship materials opens the door to anti-Thargoid and advanced combat engineering research.
 legacy_weight: 4
 significance: high
 ---

@@ -4,10 +4,15 @@ title: Galactic News  Edmund Mahon Condemns Imperial Federal Sabre Rattling
 slug: galactic_news_edmund_mahon_condemns_imperial_federal_sabre_rattling
 date: '3302-07-30'
 source: GitHub
-entities:
+summary: Alliance Prime Minister Edmund Mahon condemns the Empire and Federation's military posturing over barnacles and meta-alloys, urging both superpowers to consider that the structures may be of non-human origin and should be protected, not fought over.
+player_impact: None
+persons:
 - Edmund Mahon
 groups:
 - Alliance
+locations: []
+technologies:
+- meta-alloys
 topics:
 - alien contact
 - war

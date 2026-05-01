@@ -4,16 +4,23 @@ title: Freelance Report  Old Worlds Zero Gravity Rally
 slug: freelance_report_old_worlds_zero_gravity_rally
 date: '3302-06-10'
 source: GitHub
+summary: The Buckyball Racing Club and Elite Racers compete in the 'Old World Hustle' event in the Lave cluster, combining point-to-point rallies and zero-gravity aerobatics from 11-19 June 3302.
+player_impact: Participate in the Old World Hustle racing event in the Lave cluster from 11-19 June 3302.
+persons:
+- Commander furrycat
 groups:
 - Buckyball Racing Club
+- Elite Racers
 locations:
 - Lave
+- Lave Station
+technologies: []
 topics:
 - construction
 - safety
 - ship
 - sport
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Community celebration bringing pilots together for competitive racing events.
 legacy_weight: 1
 significance: low
 ---

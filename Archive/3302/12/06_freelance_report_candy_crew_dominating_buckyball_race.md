@@ -4,13 +4,22 @@ title: Freelance Report  Candy Crew Dominating Buckyball Race
 slug: freelance_report_candy_crew_dominating_buckyball_race
 date: '3302-12-06'
 source: GitHub
+summary: The Candy Crew Guild is dominating the midpoint of the Kick The Alien Buckyball race, with Commander Nookie Mr.Smith leading followed by Commanders Raijiin and Rewision.
+player_impact: None
+persons:
+- Nookie Mr.Smith
+- Raijiin
+- Rewision
+groups:
+- Candy Crew Guild
+locations: []
+technologies:
+- SRV
 topics:
 - alien contact
-- ship
 - sport
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Community racing event organised by the Buckyball Racing Club around an alien crash site, showcasing pilot competition and skill.
 legacy_weight: 5
 significance: high
 ---

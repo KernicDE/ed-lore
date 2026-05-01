@@ -4,12 +4,21 @@ title: Community Goal  The Battle of Daramo
 slug: community_goal_the_battle_of_daramo
 date: '3302-06-23'
 source: GitHub
+summary: Imperial and Independent forces under Pirate King Archon Delaine attempt to wrest control of the strategically valuable Daramo system from the Federation, prompting both superpowers to issue emergency calls to their aligned pilots.
+player_impact: Support the Federation through the Independents of Daramo or support the Empire through the Vaka Citizens of Tradition to take control of the Daramo system.
+persons:
+- Admiral Yorke
+- Captain Danvers
 groups:
 - Federal Navy
 - Imperial Navy
+- Independents of Daramo
+- Vaka Citizens of Tradition
+- Kumo Crew
 locations:
-- The Daramo
+- Daramo
 - Vaka
+technologies: []
 topics:
 - piracy
 - war

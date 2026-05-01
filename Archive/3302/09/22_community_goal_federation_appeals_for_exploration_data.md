@@ -4,15 +4,20 @@ title: Community Goal  Federation Appeals for Exploration Data
 slug: community_goal_federation_appeals_for_exploration_data
 date: '3302-09-22'
 source: GitHub
+summary: The Federation has issued a public appeal for exploration data in the Pleiades Nebula, coordinated by the Pleiades Resource Enterprise, to gather comprehensive information following the discovery of possible non-human wreckage.
+player_impact: Pilots can sweep the Pleiades Nebula and deliver exploration data to Pre Logistics Support Gamma in the Pleiades Sector IH-V C2-5 system for generous rewards.
+persons: []
+groups:
+- Pleiades Resource Enterprise
 locations:
-- Pleiades Nebula
+- Pleiades Sector IH-V C2-5
+- Pre Logistics Support Gamma
+technologies: []
 topics:
 - alien contact
 - exploration
-- war
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Federal gathering of Pleiades exploration data accelerates mapping of the region and supports investigation of non-human wreckage sites.
 legacy_weight: 5
 significance: high
 ---

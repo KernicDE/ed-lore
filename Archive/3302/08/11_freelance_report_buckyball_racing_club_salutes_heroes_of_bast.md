@@ -4,20 +4,26 @@ title: Freelance Report  Buckyball Racing Club Salutes Heroes of Bast
 slug: freelance_report_buckyball_racing_club_salutes_heroes_of_bast
 date: '3302-08-11'
 source: GitHub
+summary: The Buckyball Racing Club is hosting a tribute race at Hart Station in the Bast system to honour the independent pilots who helped discover and distribute the Ceremonial Heike Tea cure for the Cerberus Plague. The event includes a scramble around medicine-production facilities and a speed run to Brunel City in Heike.
+player_impact: Participate in the Buckyball Racing Club tribute race at Hart Station, with a route through nearby medicine-production facilities to Brunel City in Heike.
+persons:
+- Commander Raiko
 groups:
 - Buckyball Racing Club
 locations:
 - BD-02 4304
+- Newton Dock
 - Bast
 - Hart Station
-- Newton Dock in the BD-02 4304
+- Heike
+- Brunel City
+technologies: []
 topics:
 - medicine
 - ship
 - sport
 arc_id: cerberus-plague
-modern_impact: Ongoing efforts to combat the Cerberus Plague demonstrate galactic
-  health infrastructure.
+modern_impact: The Cerberus Plague cure and this commemorative race illustrate the pivotal role of independent pilots in galactic health crises.
 legacy_weight: 4
 significance: high
 ---

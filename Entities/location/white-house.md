@@ -23,7 +23,7 @@ Total mentions: **12**
 
 ## Related
 
-- [[Mars]] (6 co-mentions)
+- [[Mars]] (5 co-mentions)
 - [[Imperial Palace]] (5 co-mentions)
 - [[Sol]] (3 co-mentions)
 - [[Alliance]] (3 co-mentions)

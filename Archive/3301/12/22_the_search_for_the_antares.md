@@ -4,12 +4,17 @@ title: The Search for the Antares
 slug: the_search_for_the_antares
 date: '3301-12-22'
 source: GitHub
+summary: Sirius Corporation CEO Li Yong-Rui launches an official search for the Antares, a passenger liner lost during its maiden voyage in 3251, asking pilots to deliver wreckage components to Davy Dock in Procyon for analysis.
+player_impact: Deliver wreckage components to Davy Dock in the Procyon system to help Sirius Corporation determine the fate of the Antares.
+persons:
+- Li Yong-Rui
 groups:
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Procyon
+- Davy Dock
 - Sirius
+technologies: []
 topics:
 - corporate expansion
 - independence

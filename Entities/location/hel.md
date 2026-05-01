@@ -6,7 +6,9 @@ first_seen_date: '3301-12-17'
 last_seen_date: '3301-12-17'
 mention_count: 1
 related_entities:
-- snow-moon-in-the-bento
+- hel-purple-energy-industry
+- snow-moon
+- bento
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +21,9 @@ Total mentions: **1**
 
 ## Related
 
-- [[Snow Moon in the Bento]] (1 co-mentions)
+- [[Hel Purple Energy Industry]] (1 co-mentions)
+- [[Snow Moon]] (1 co-mentions)
+- [[Bento]] (1 co-mentions)
 
 ## Biography
 

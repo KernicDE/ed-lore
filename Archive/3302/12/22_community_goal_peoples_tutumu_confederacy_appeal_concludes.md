@@ -4,11 +4,18 @@ title: Community Goal  People's Tutumu Confederacy Appeal Concludes
 slug: community_goal_peoples_tutumu_confederacy_appeal_concludes
 date: '3302-12-22'
 source: GitHub
+summary: The People's Tutumu Confederacy has successfully concluded its seasonal appeal, with hundreds of pilots delivering goods to North Ring in the Tutumu system.
+player_impact: Collect rewards from North Ring in the Tutumu system.
+persons: []
+groups:
+- People's Tutumu Confederacy
 locations:
-- North Ring in the Tutumu
+- North Ring
+- Tutumu
+technologies: []
 topics:
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- trade
+modern_impact: Successful conclusion of a seasonal commodity appeal with strong pilot participation.
 legacy_weight: 2
 significance: low
 ---

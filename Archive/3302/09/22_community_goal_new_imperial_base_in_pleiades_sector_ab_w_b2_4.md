@@ -4,18 +4,21 @@ title: Community Goal  New Imperial Base in Pleiades Sector Ab W B2 4
 slug: community_goal_new_imperial_base_in_pleiades_sector_ab_w_b2_4
 date: '3302-09-22'
 source: GitHub
+summary: The Merope Expeditionary Fleet has been tasked with constructing a new Imperial forward operating base in the Pleiades Sector AB-W B2-4 system to counter Federal attempts to monopolise meta-alloys in the Pleiades Nebula.
+player_impact: Pilots can deliver power generators, tantalum and auto-fabricators to Obsidian Orbital in the Maia system to support construction of the new Imperial base.
+persons: []
+groups:
+- Merope Expeditionary Fleet
 locations:
+- Pleiades Sector AB-W B2-4
 - Maia
-- Merope
 - Obsidian Orbital
-- Obsidian Orbital in the Maia
-- Pleiades Nebula
+technologies: []
 topics:
 - trade
-- war
+- construction
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Imperial base construction in the Pleiades directly contests Federal dominance over meta-alloy sources and escalates superpower competition in the region.
 legacy_weight: 4
 significance: high
 ---

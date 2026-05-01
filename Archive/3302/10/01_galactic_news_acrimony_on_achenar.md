@@ -4,14 +4,16 @@ title: Galactic News  Acrimony on Achenar
 slug: galactic_news_acrimony_on_achenar
 date: '3302-10-01'
 source: GitHub
-entities:
-- Arissa Lavigny-Duval into
-locations:
-- Achenar
+summary: An anonymous source revealed that the scandal surrounding former senator Kahina Tijani Loren has awoken latent animosity within the Imperial powerbase, bringing attention to Admiral Denton Patreus, Princess Aisling Duval, and Emperor Arissa Lavigny-Duval.
+player_impact: None
+persons: [Kahina Tijani Loren, Admiral Denton Patreus, Princess Aisling Duval, Emperor Arissa Lavigny-Duval]
+groups: []
+locations: [Achenar]
+technologies: []
 topics:
 - scandal
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The Loren scandal exposes deep factional rifts within the Imperial powerbase that continue to shape Imperial politics.
 legacy_weight: 2
 significance: low
 ---

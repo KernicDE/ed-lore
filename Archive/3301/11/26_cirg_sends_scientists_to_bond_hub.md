@@ -4,15 +4,20 @@ title: CIRG Sends Scientists to Bond Hub
 slug: cirg_sends_scientists_to_bond_hub
 date: '3301-11-26'
 source: GitHub
-entities:
-- D Luffy
+summary: Over fifty Canonn Interstellar Research Group scientists arrive at Bond Hub in Varati with equipment to investigate the correlation between Unknown Artefacts and station malfunctions, monitoring UAs brought from the Merope shell.
+player_impact: None
+persons:
+- Professor D Luffy
+- Commander Lord Zoltan
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Bond Hub
-- Merope
 - Varati
+- Merope
+- Thompson Dock
+technologies:
+- Unknown Artefacts
 topics:
 - investigation
 - research

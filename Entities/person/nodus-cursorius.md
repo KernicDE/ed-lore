@@ -5,12 +5,6 @@ type: person
 first_seen_date: '3302-08-23'
 last_seen_date: '3302-08-23'
 mention_count: 1
-related_entities:
-- kahina-tijani-loren
-- salomé-hijacked
-- salomés-transmission
-- cemiess
-- prism
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Kahina Tijani Loren]] (1 co-mentions)
-- [[Salomé Hijacked]] (1 co-mentions)
-- [[Salomé's transmission]] (1 co-mentions)
-- [[Cemiess]] (1 co-mentions)
-- [[Prism]] (1 co-mentions)
 
 ## Biography
 

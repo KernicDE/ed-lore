@@ -3,10 +3,11 @@ id: latugara
 name: Latugara
 type: location
 first_seen_date: '3302-09-15'
-last_seen_date: '3302-09-15'
-mention_count: 1
+last_seen_date: '3302-10-13'
+mention_count: 2
 related_entities:
-- love-orbital-in-the-latugara
+- latugara-plc
+- love-orbital
 ---
 
 <!-- AUTO-GENERATED -->
@@ -14,12 +15,13 @@ related_entities:
 # Latugara
 
 First mentioned: **3302-09-15**  
-Last mentioned: **3302-09-15**  
-Total mentions: **1**
+Last mentioned: **3302-10-13**  
+Total mentions: **2**
 
 ## Related
 
-- [[Love Orbital in the Latugara]] (1 co-mentions)
+- [[Latugara PLC]] (2 co-mentions)
+- [[Love Orbital]] (2 co-mentions)
 
 ## Biography
 

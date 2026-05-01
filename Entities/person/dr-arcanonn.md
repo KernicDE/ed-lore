@@ -1,29 +1,22 @@
 ---
 id: dr-arcanonn
-name: Dr. Arcanonn
+name: Dr Arcanonn
 type: person
 first_seen_date: '3301-12-04'
-last_seen_date: '3301-12-04'
-mention_count: 1
-related_entities:
-- canonn-interstellar-research-group
-- maia
-- varati
+last_seen_date: '3303-06-21'
+mention_count: 11
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Dr. Arcanonn
+# Dr Arcanonn
 
 First mentioned: **3301-12-04**  
-Last mentioned: **3301-12-04**  
-Total mentions: **1**
+Last mentioned: **3303-06-21**  
+Total mentions: **11**
 
 ## Related
 
-- [[Canonn Interstellar Research Group]] (1 co-mentions)
-- [[Maia]] (1 co-mentions)
-- [[Varati]] (1 co-mentions)
 
 ## Biography
 

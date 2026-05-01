@@ -4,12 +4,15 @@ title: Freelance Report  The Alien Wreck
 slug: freelance_report_the_alien_wreck
 date: '3302-09-08'
 source: GitHub
-topics:
-- alien contact
-- research
+summary: Independent pilots continue visiting the mysterious wreckage in the Pleiades, with one pilot suggesting it may be centuries old based on the lack of heat signature, though no evidence links it to barnacles, Unknown Artefacts or Unknown Probes.
+player_impact: None
+persons:
+- Cosby714
+groups: []
+locations: []
+technologies: []
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The report reinforced caution against premature conclusions about the wreck's origin and age, noting the absence of hard evidence.
 legacy_weight: 5
 significance: high
 ---

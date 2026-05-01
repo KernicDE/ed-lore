@@ -4,10 +4,16 @@ title: Galactic News  Jaques to Embark for Beagle Point
 slug: galactic_news_jaques_to_embark_for_beagle_point
 date: '3302-05-12'
 source: GitHub
+summary: The Fuel Rats announce that Jaques Station has received sufficient fuel for its proposed jump to Beagle Point. Jaques confirms the station received hundreds of thousands of tonnes of fuel and expects to depart within days.
+player_impact: Pilots contributed hundreds of thousands of tonnes of fuel to enable Jaques Station's jump to Beagle Point.
+persons:
+- Jaques
+- Mischief
 groups:
 - Fuel Rats
 locations:
 - Jaques Station
+- Beagle Point
 topics:
 - construction
 arc_id: jaques-station

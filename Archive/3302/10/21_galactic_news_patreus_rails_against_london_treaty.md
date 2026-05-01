@@ -4,16 +4,18 @@ title: Galactic News  Patreus Rails against London Treaty
 slug: galactic_news_patreus_rails_against_london_treaty
 date: '3302-10-21'
 source: GitHub
-locations:
-- Achenar
-- But stock markets in the core
-- Prism
+summary: Admiral Denton Patreus announced at a military tattoo on Achenar that the Empire will no longer abide by the London Treaty of 3278, which limits capital-ship construction, and will build as many ships as needed. Federal representatives denounced the proposal.
+player_impact: None
+persons: [Admiral Denton Patreus]
+groups: [Federation]
+locations: [Achenar]
+technologies: []
 topics:
 - construction
 - diplomacy
 - ship
 - sport
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Patreus's rejection of the London Treaty signals the beginning of a new capital-ship arms race with far-reaching consequences for inter-superpower stability.
 legacy_weight: 1
 significance: low
 ---

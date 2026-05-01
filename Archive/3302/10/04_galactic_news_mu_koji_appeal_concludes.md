@@ -4,12 +4,16 @@ title: Galactic News  Mu Koji Appeal Concludes
 slug: galactic_news_mu_koji_appeal_concludes
 date: '3302-10-04'
 source: GitHub
-locations:
-- Mu Koji will now be able to keep the
+summary: The Kalana Independents announced that a relief campaign for Mu Koji refugees displaced by the Federal-Imperial conflict was successful, with huge quantities of aid delivered to Bujold Enterprise in the Kalana system.
+player_impact: Pilots who contributed to the campaign can collect rewards from Bujold Enterprise in the Kalana system.
+persons: []
+groups: [The Kalana Independents]
+locations: [Kalana, Bujold Enterprise, Mu Koji]
+technologies: []
 topics:
 - humanitarian
 - war
-modern_impact: Humanitarian effort by the pilot community.
+modern_impact: Successful pilot-led humanitarian relief for Federal-Imperial war refugees demonstrates the galactic community's capacity for mutual aid.
 legacy_weight: 2
 significance: low
 ---

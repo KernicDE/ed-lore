@@ -4,7 +4,16 @@ title: Galactic News  LFT 133 Campaign Concludes
 slug: galactic_news_lft_133_campaign_concludes
 date: '3302-09-08'
 source: GitHub
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: The AEF Legion of LFT 133 has concluded its campaign after receiving an enthusiastic response from the galactic community, resulting in a massive influx of gold deliveries to Sullivan Dock and the neutralisation of disruptive agitators in the region.
+player_impact: None
+persons: []
+groups:
+- AEF Legion of LFT 133
+locations:
+- LFT 133
+- Sullivan Dock
+technologies: []
+modern_impact: The AEF Legion of LFT 133 successfully secured resources and neutralised regional agitators, reinforcing independent system security.
 legacy_weight: 2
 significance: low
 ---

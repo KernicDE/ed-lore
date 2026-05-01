@@ -4,17 +4,22 @@ title: Community Goal  The Colonia Initiative
 slug: community_goal_the_colonia_initiative
 date: '3302-08-18'
 source: GitHub
+summary: The 80 DD-D 774-CE-2 faction launched a campaign to establish a permanent outpost in the Colonia Nebula, building on community interest sparked by Jaques Station's arrival. Pilots are asked to deliver titanium, semiconductors, and robotics to Jaques Station in the Eol Prou RS-T d3-94 system.
+player_impact: Deliver titanium, semiconductors, and robotics to Jaques Station in Eol Prou RS-T d3-94 to support construction of a permanent Colonia outpost.
+persons: []
+groups:
+- 80 DD-D 774-CE-2
 locations:
 - Colonia
-- Eol Prou
 - Eol Prou RS-T d3-94
 - Jaques Station
+- Beagle Point
+technologies: []
 topics:
 - construction
 - war
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: The Colonia Initiative transforms Jaques Station from a temporary waypoint into the foundation of a permanent independent colony.
 legacy_weight: 4
 significance: high
 ---

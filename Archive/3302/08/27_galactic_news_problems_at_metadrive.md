@@ -4,15 +4,21 @@ title: Galactic News  Problems at MetaDrive
 slug: galactic_news_problems_at_metadrive
 date: '3302-08-27'
 source: GitHub
+summary: Independent auditor BigSix reported financial anomalies leading to MetaDrive Inc. being placed in receivership. Sirius Corp unexpectedly volunteered to support the struggling hyperdrive research company, revealing prior licensing talks.
+player_impact: None
+persons:
+- Femi Dakarai
 groups:
+- BigSix
+- MetaDrive Inc.
 - Sirius Corp
 locations:
 - Chi Orionis
-- Sirius
+technologies: []
 topics:
 - research
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Sirius Corp's intervention to save MetaDrive Inc. hints at corporate competition over next-generation hyperdrive technology and potential shifts in FTL research dominance.
 legacy_weight: 1
 significance: low
 ---

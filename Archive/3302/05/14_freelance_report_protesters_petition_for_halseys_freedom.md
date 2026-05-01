@@ -4,10 +4,13 @@ title: Freelance Report  Protesters Petition for Halsey's Freedom
 slug: freelance_report_protesters_petition_for_halseys_freedom
 date: '3302-05-14'
 source: GitHub
-entities:
-- Ethan Naylor embarked
-- Halsey worked hard
+summary: On the first anniversary of the Starship One disaster, supporters of former Federal President Jasmina Halsey gather outside the psychiatric facility on Mars where she is held, demanding her release and protesting her committal.
+player_impact: None
+persons:
 - Jasmina Halsey
+- Ethan Naylor
+- Rachel Young
+- Corrigendum
 locations:
 - Mars
 topics:

@@ -4,11 +4,22 @@ title: Galactic News  Ram Tah Releases Statement
 slug: galactic_news_ram_tah_releases_statement
 date: '3302-11-25'
 source: GitHub
+summary: Engineer Ram Tah, who announced a research programme to uncover the secrets of
+  the Synuefe ruins, has responded to criticism that he is unable to decode the data. He
+  stated that he believes he has made a breakthrough but will not offer untested claims
+  under pressure.
+player_impact: Pilots can deliver data from the Synuefe ruins site to Ram Tah's laboratory.
+persons:
+- Ram Tah
+groups: []
+locations: []
 topics:
 - research
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Ram Tah's cautious response to criticism about his Synuefe ruins research
+  emphasized the importance of rigorous verification before announcing scientific breakthroughs.
 legacy_weight: 2
 significance: low
+technologies: []
 ---
 
 Galactic News: Ram Tah Releases Statement

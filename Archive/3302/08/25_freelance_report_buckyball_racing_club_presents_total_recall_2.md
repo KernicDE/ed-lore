@@ -4,15 +4,20 @@ title: Freelance Report  Buckyball Racing Club Presents Total Recall 2
 slug: freelance_report_buckyball_racing_club_presents_total_recall_2
 date: '3302-08-25'
 source: GitHub
-entities:
+summary: The Buckyball Racing Club announced the Total Recall 2 race in the Cernobog system to demonstrate the durability of TrakMark SRV tyres. The event runs from the 27th of August to the 4th of September.
+player_impact: Participate in the Total Recall 2 race in the Cernobog system from 27 August to 4 September to test TrakMark SRV tyres.
+persons:
 - Alec Turner
 groups:
 - Buckyball Racing Club
 locations:
 - Cernobog
+technologies:
+- SRV
+- TrakMark tyres
 topics:
 - sport
-modern_impact: Competitive event for the pilot community.
+modern_impact: Community racing events like Total Recall 2 showcase the cultural and competitive activities that thrive alongside galactic conflict.
 legacy_weight: 1
 significance: low
 ---

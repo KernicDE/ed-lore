@@ -4,11 +4,22 @@ title: Community Goal  Festive Appeal
 slug: community_goal_festive_appeal
 date: '3302-12-22'
 source: GitHub
+summary: Santa Muerte Co-operative has launched a festive appeal asking pilots to deliver personal gifts from Frost Dock in Njambalba to Clauss Port in Santa Muerte, offering generous rewards and a special prize draw.
+player_impact: Deliver personal gifts from Frost Dock in the Njambalba system to Clauss Port in the Santa Muerte system for financial rewards and festive prizes.
+persons:
+- Nicolas St Clauss
+groups:
+- Santa Muerte Co-operative
+locations:
+- Frost Dock
+- Njambalba
+- Clauss Port
+- Santa Muerte
+technologies: []
 topics:
-- corporate expansion
 - festival
-- war
-modern_impact: Community celebration bringing pilots together.
+- trade
+modern_impact: Festive commodity drive connecting pilots across systems through seasonal trade and rewards.
 legacy_weight: 1
 significance: low
 ---

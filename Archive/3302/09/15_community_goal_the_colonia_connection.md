@@ -4,17 +4,20 @@ title: Community Goal  The Colonia Connection
 slug: community_goal_the_colonia_connection
 date: '3302-09-15'
 source: GitHub
+summary: Latugara PLC has announced plans to construct a series of resupply outposts linking the core systems to the Colonia Nebula community, placing an open order for titanium, computer components and power generators.
+player_impact: Pilots can deliver titanium, computer components and power generators to Love Orbital in the Latugara system to support the construction of outposts to Colonia.
+persons: []
+groups:
+- Latugara PLC
 locations:
-- Colonia
 - Latugara
-- Love Orbital in the Latugara
+- Love Orbital
+technologies: []
 topics:
-- ship
 - trade
-- war
+- construction
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: The Colonia Connection establishes a logistical corridor to deep space, enabling sustained colonisation and trade beyond the core systems.
 legacy_weight: 4
 significance: high
 ---

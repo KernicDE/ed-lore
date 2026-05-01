@@ -4,15 +4,23 @@ title: Galactic News  Federal Forces Triumphant
 slug: galactic_news_federal_forces_triumphant
 date: '3302-06-27'
 source: GitHub
+summary: The Federation successfully resists the Imperial offensive in the Daramo system after three days of conflict; Admiral Yorke thanks supporting pilots and issues a provocative statement about the Empire's origins on Achenar 6d.
+player_impact: None
+persons:
+- Admiral Yorke
 groups:
 - Federal Navy
+- Independents of Daramo
 locations:
+- Daramo
 - Achenar
-- Federation controlled over a thousand
+- Achenar 6d
+technologies: []
 topics:
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Superpower territorial disputes continue to flare, with rhetoric escalating
+  to historical insults and open use of the term 'enemies'.
 legacy_weight: 1
 significance: low
 ---

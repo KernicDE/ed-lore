@@ -4,19 +4,24 @@ title: Freelance Report  Escalation in Merope
 slug: freelance_report_escalation_in_merope
 date: '3302-06-18'
 source: GitHub
-entities:
-- Arcanonn
+summary: Dr Arcanonn of the Canonn condemns the deployment of at least eight Federal Farragut Battle Cruisers in Merope, calling it militarised resource denial and demanding a public inquiry into the Federation's actions near the barnacle sites.
+player_impact: None
+persons:
+- Dr Arcanonn
+- Commander Nicholas Powell
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Merope
+technologies:
+- Farragut Battle Cruiser
 topics:
 - investigation
 - research
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Federal military presence at barnacle sites escalates tensions and sets
+  a precedent for superpower resource competition.
 legacy_weight: 2
 significance: low
 ---

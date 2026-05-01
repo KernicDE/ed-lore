@@ -4,11 +4,22 @@ title: Galactic News  Mysterious Wreckage Discovered
 slug: galactic_news_mysterious_wreckage_discovered
 date: '3302-08-31'
 source: GitHub
-entities:
+summary: Independent pilots Noctrach and Ihazevich discovered mysterious wreckage on planet 9a in the Pleiades Sector AB-W B2-4 system after a galaxy-wide hunt coordinated by the Granger Gang. Experts including Professor Ishmael Palin and veteran Augustus Sym debated whether the remains are of alien origin.
+player_impact: None (discovery already made)
+persons:
+- Noctrach
+- Ihazevich
+- Otto Granger
+- Mahina Dillon
+- Logan Khol
+- Augustus Sym
 - Ishmael Palin
+groups:
+- Granger Gang
 locations:
+- Pleiades Sector AB-W B2-4
 - Achenar
-- Sol
+technologies: []
 topics:
 - alien contact
 - construction
@@ -17,8 +28,7 @@ topics:
 - ship
 - trade
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: Discovery of the Pleiades wreckage becomes one of the first confirmed finds of non-human ship remains, intensifying scientific and public interest in alien life.
 legacy_weight: 5
 significance: high
 ---

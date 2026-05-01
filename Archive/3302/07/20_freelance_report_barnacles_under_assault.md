@@ -4,9 +4,16 @@ title: Freelance Report  Barnacles under Assault
 slug: freelance_report_barnacles_under_assault
 date: '3302-07-20'
 source: GitHub
+summary: The meta-alloy rush has left many barnacles in the Pleiades Nebula barren; Federal vessels have transported huge quantities from Merope, and researchers warn that uncontrolled harvesting risks destroying the structures before they can be properly studied.
+player_impact: Harvest only ripe spikes from barnacles to keep them healthy; avoid over-harvesting to preserve the structures.
+persons:
+- Commander BluWolve
+groups: []
 locations:
 - Merope
 - Pleiades Nebula
+technologies:
+- meta-alloys
 topics:
 - research
 - ship

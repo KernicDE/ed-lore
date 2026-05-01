@@ -3,14 +3,14 @@ id: zemina-torval
 name: Zemina Torval
 type: person
 first_seen_date: '3301-03-01'
-last_seen_date: '3302-07-13'
-mention_count: 7
+last_seen_date: '3301-08-13'
+mention_count: 5
 related_entities:
 - mastopolos-mining
-- capitol
-- merope
 - barham
 - synteini
+- hudson-responded-by-directing
+- zemina-torval-appear
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Zemina Torval
 
 First mentioned: **3301-03-01**  
-Last mentioned: **3302-07-13**  
-Total mentions: **7**
+Last mentioned: **3301-08-13**  
+Total mentions: **5**
 
 ## Related
 
 - [[Mastopolos Mining]] (2 co-mentions)
-- [[Capitol]] (2 co-mentions)
-- [[Merope]] (2 co-mentions)
 - [[Barham]] (1 co-mentions)
 - [[Synteini]] (1 co-mentions)
+- [[Hudson responded by directing]] (1 co-mentions)
+- [[Zemina Torval appear]] (1 co-mentions)
 
 ## Biography
 

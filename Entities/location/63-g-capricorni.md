@@ -2,30 +2,32 @@
 id: 63-g-capricorni
 name: 63 G. Capricorni
 type: location
-first_seen_date: '3303-12-08'
+first_seen_date: '3302-05-20'
 last_seen_date: '3303-12-15'
-mention_count: 3
+mention_count: 4
 related_entities:
 - skvortsov-orbital
 - diamond-frogs
-- capricorni
-- colonia-council
+- ackerman-market
+- eravate
+- gabriel-enterprise
 ---
 
 <!-- AUTO-GENERATED -->
 
 # 63 G. Capricorni
 
-First mentioned: **3303-12-08**  
+First mentioned: **3302-05-20**  
 Last mentioned: **3303-12-15**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
-- [[Skvortsov Orbital]] (3 co-mentions)
+- [[Skvortsov Orbital]] (4 co-mentions)
 - [[Diamond Frogs]] (2 co-mentions)
-- [[Capricorni]] (1 co-mentions)
-- [[Colonia Council]] (1 co-mentions)
+- [[Ackerman Market]] (1 co-mentions)
+- [[Eravate]] (1 co-mentions)
+- [[Gabriel Enterprise]] (1 co-mentions)
 
 ## Biography
 

@@ -4,12 +4,17 @@ title: Freelance Report  The August Exodus
 slug: freelance_report_the_august_exodus
 date: '3302-07-27'
 source: GitHub
+summary: Over 300 pilots have signed up for the August Exodus convoy to Jaques Station in the Colonia Nebula, with the first fleet of 250 departing from Ocshooit on 24 July and a second convoy scheduled for 15 August.
+player_impact: Join the August Exodus convoy to Jaques Station; the second convoy departs on 15 August.
+persons:
+- Commander unrealization
 groups:
 - Interstellar Press
 locations:
 - Colonia
 - Jaques Station
 - Ocshooit
+technologies: []
 topics:
 - exploration
 - war

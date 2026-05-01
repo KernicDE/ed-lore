@@ -4,9 +4,20 @@ title: Community Goal  The Fight for Thoreau Orbital
 slug: community_goal_the_fight_for_thoreau_orbital
 date: '3302-09-15'
 source: GitHub
+summary: Federal intelligence has uncovered an Imperial plot by the Chimechilo Empire League to destabilise Thoreau Orbital in Obotrima by flooding it with explosives. The Obotrima Organisation has countered by requesting Federation-aligned pilots deliver skimmer components and robotics to maintain production.
+player_impact: Imperial pilots can deliver explosives to Thoreau Orbital to support the Chimechilo Empire League, while Federation-aligned pilots can deliver skimmer components and robotics to the Obotrima Organisation to manufacture new skimmers.
+persons: []
+groups:
+- Chimechilo Empire League
+- Obotrima Organisation
+locations:
+- Thoreau Orbital
+- Obotrima
+technologies:
+- skimmers
 topics:
 - construction
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: The fight for Thoreau Orbital demonstrates the vulnerability of strategic manufacturing facilities to asymmetric warfare and superpower proxy conflicts.
 legacy_weight: 2
 significance: low
 ---

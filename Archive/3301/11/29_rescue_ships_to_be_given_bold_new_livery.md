@@ -4,15 +4,21 @@ title: Rescue Ships to be Given Bold New Livery
 slug: rescue_ships_to_be_given_bold_new_livery
 date: '3301-11-29'
 source: GitHub
-entities:
-- Father Cool
+summary: The Pilots Federation and Fuel Rats unveil a distinctive new colour scheme for search-and-rescue vessels, designed by Commander Father Cool of the Fuel Rats Mischief to enable instant recognition and minimise accidental attacks on rescue ships.
+player_impact: None
+persons:
+- Commander Father Cool
 groups:
 - Fuel Rats
 - Pilots Federation
+- Fuel Rats Mischief
+locations: []
+technologies: []
 topics:
 - humanitarian
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Standardised rescue livery improves safety for both rescuers and those
+  in distress across inhabited space.
 legacy_weight: 1
 significance: low
 ---

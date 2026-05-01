@@ -4,12 +4,16 @@ title: Community Goal  LFT 133 in Need
 slug: community_goal_lft_133_in_need
 date: '3302-09-01'
 source: GitHub
+summary: The AEF Legion of LFT 133 has issued an appeal for gold deliveries to Sullivan Dock and placed a kill order on wanted ships operating in the LFT 133 system to protect traders.
+player_impact: Deliver gold to Sullivan Dock in LFT 133 and neutralise wanted ships to earn rewards.
+persons: []
+groups:
+- AEF Legion of LFT 133
 locations:
 - LFT 133
-topics:
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+- Sullivan Dock
+technologies: []
+modern_impact: Community-driven resource gathering and bounty hunting campaign in the LFT 133 system.
 legacy_weight: 1
 significance: low
 ---

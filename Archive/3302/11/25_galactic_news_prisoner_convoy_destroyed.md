@@ -4,13 +4,29 @@ title: Galactic News  Prisoner Convoy Destroyed
 slug: galactic_news_prisoner_convoy_destroyed
 date: '3302-11-25'
 source: GitHub
+summary: A prisoner convoy was interdicted and destroyed in the Daibo system while en
+  route to Koontz Asylum. The convoy was carrying political dissidents, convicted murderers
+  and terrorists, including the infamous Kahina Loren, and all vessels were completely destroyed
+  with no survivors.
+player_impact: None
+persons:
+- Kahina Loren
+- Princess Aisling Duval
+groups: []
 locations:
+- Daibo
+- Koontz Asylum
 - Prism
 topics:
 - terrorism
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The destruction of the prisoner convoy carrying Kahina Loren in the Daibo
+  system eliminated a key figure in the Imperial political crisis and sparked controversy
+  over memorial plans in the Prism system.
 legacy_weight: 2
 significance: low
+technologies:
+- Imperial Cutter
+- Imperial Clipper
 ---
 
 Galactic News: Prisoner Convoy Destroyed

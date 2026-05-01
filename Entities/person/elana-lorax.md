@@ -2,8 +2,8 @@
 id: elana-lorax
 name: Elana Lorax
 type: person
-first_seen_date: '3302-07-18'
-last_seen_date: '3302-07-18'
+first_seen_date: '3302-09-02'
+last_seen_date: '3302-09-02'
 mention_count: 1
 ---
 
@@ -11,8 +11,8 @@ mention_count: 1
 
 # Elana Lorax
 
-First mentioned: **3302-07-18**  
-Last mentioned: **3302-07-18**  
+First mentioned: **3302-09-02**  
+Last mentioned: **3302-09-02**  
 Total mentions: **1**
 
 ## Related

@@ -4,9 +4,18 @@ title: Galactic News  Imperial Prima Donnas Flash their Claws
 slug: galactic_news_imperial_prima_donnas_flash_their_claws
 date: '3302-09-30'
 source: GitHub
+summary: Princess Aisling Duval and former Imperial senator Lady Kahina Loren engaged in a heated impromptu debate organised by The Imperial Citizen, with portions broadcast live ahead of Loren's trial.
+player_impact: None
+persons:
+- Aisling Duval
+- Kahina Loren
+groups:
+- Imperial Citizen
+locations: []
+technologies: []
 topics:
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The public confrontation between Aisling Duval and Kahina Loren intensifies Imperial political drama and shapes public perception ahead of Loren's trial.
 legacy_weight: 2
 significance: low
 ---

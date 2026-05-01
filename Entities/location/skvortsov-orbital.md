@@ -2,30 +2,32 @@
 id: skvortsov-orbital
 name: Skvortsov Orbital
 type: location
-first_seen_date: '3303-12-08'
+first_seen_date: '3302-05-12'
 last_seen_date: '3303-12-15'
-mention_count: 3
+mention_count: 9
 related_entities:
-- 63-g-capricorni
 - diamond-frogs
-- capricorni
-- colonia-council
+- 63-g-capricorni-system
+- 63-g-capricorni
+- eravate
+- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Skvortsov Orbital
 
-First mentioned: **3303-12-08**  
+First mentioned: **3302-05-12**  
 Last mentioned: **3303-12-15**  
-Total mentions: **3**
+Total mentions: **9**
 
 ## Related
 
-- [[63 G. Capricorni]] (3 co-mentions)
-- [[Diamond Frogs]] (2 co-mentions)
-- [[Capricorni]] (1 co-mentions)
-- [[Colonia Council]] (1 co-mentions)
+- [[Diamond Frogs]] (7 co-mentions)
+- [[63 G. Capricorni system]] (4 co-mentions)
+- [[63 G. Capricorni]] (4 co-mentions)
+- [[Eravate]] (3 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 

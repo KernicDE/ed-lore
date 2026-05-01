@@ -24,8 +24,8 @@ Total mentions: **18**
 ## Related
 
 - [[Canonn Interstellar Research Group]] (11 co-mentions)
-- [[Canonn]] (10 co-mentions)
-- [[Bond Hub]] (7 co-mentions)
+- [[Canonn]] (8 co-mentions)
+- [[Bond Hub]] (8 co-mentions)
 - [[64 Arietis]] (6 co-mentions)
 - [[Warkushanui]] (6 co-mentions)
 

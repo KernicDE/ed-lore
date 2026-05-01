@@ -6,9 +6,21 @@ date: '3302-07-14'
 source: GitHub
 topics:
 - construction
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: Confirms the completion of the first Federal outpost in the Segovan
+  expansion chain, creating a permanent Federal foothold on the edge of the Pleiades.
 legacy_weight: 2
 significance: low
+summary: The Future of Segovan has successfully concluded its campaign to construct
+  a Federal outpost, with large quantities of construction materials delivered to
+  Ramsbottom Hub despite Imperial disruption. Construction of the first outpost will
+  proceed as planned.
+player_impact: None
+groups:
+- The Future of Segovan
+locations:
+- Ramsbottom Hub
+persons: []
+technologies: []
 ---
 
 Galactic News: Federal Campaign Concludes

@@ -4,9 +4,19 @@ title: Galactic News  Engineers Reduce Requirements
 slug: galactic_news_engineers_reduce_requirements
 date: '3302-06-16'
 source: GitHub
+summary: The Rewired news feed reports that engineers Broo Tarquin and Didi Vatermann have reduced their material requirements from 100 to 50 units of Fugin Tea and from 200 to 50 units of Lavian Brandy respectively, making ship engineering more accessible.
+player_impact: Take advantage of reduced material requirements to unlock Broo Tarquin and Didi Vatermann engineering services more easily.
+persons:
+- Broo Tarquin
+- Didi Vatermann
+groups:
+- Rewired
+locations: []
+technologies: []
 topics:
 - ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Reduced engineering requirements make ship customisation more accessible
+  to a broader range of pilots.
 legacy_weight: 1
 significance: low
 ---

@@ -4,9 +4,15 @@ title: Galactic News  Halsey Shares Her Vision
 slug: galactic_news_halsey_shares_her_vision
 date: '3302-09-20'
 source: GitHub
+summary: Former Federal President Jasmina Halsey has broken her silence to share what she describes as a compelling vision of a paradise, speaking at Gotham Park in the Alioth system.
+player_impact: None
+persons:
+- Jasmina Halsey
+groups: []
 locations:
 - Alioth
-modern_impact: GalNet community report documenting current events in the galaxy.
+technologies: []
+modern_impact: Halsey's public vision fuels speculation about uncharted regions and influences Federal exploration policy debates.
 legacy_weight: 2
 significance: low
 ---

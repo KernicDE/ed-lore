@@ -4,20 +4,26 @@ title: Freelance Report  Commander Salomé Hijacked in Cemiess
 slug: freelance_report_commander_salomé_hijacked_in_cemiess
 date: '3302-08-23'
 source: GitHub
-entities:
+summary: Commander Salomé of the Children of Raxxla sent a distress call from the Cemiess system reporting an attack by forces with Imperial markings and being boarded. In her final transmission, she linked the Rift, Hawkin's Gap, and the Conflux to strange happenings in the Pleiades before communications were lost.
+player_impact: Search for signs of Commander Salomé in the Cemiess system and surrounding regions, and investigate the connections she mentioned between the Rift, Hawkin's Gap, the Conflux, and the Pleiades.
+persons:
+- Salomé
 - Kahina Tijani Loren
 - Nodus Cursorius
-- Salomé
-- Salomé Hijacked
-- Salomé's transmission
+groups:
+- Children of Raxxla
+- Chapterhouse of Inquisition
+- Imperial Citizen
 locations:
 - Cemiess
 - Prism
+- Hawkin's Gap
+- Pleiades
+technologies: []
 topics:
 - ship
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: Salomé's disappearance and her cryptic final message become a catalyst for community investigations into the Rift, Hawkin's Gap, and Conflux mysteries.
 legacy_weight: 3
 significance: medium
 ---

@@ -4,8 +4,21 @@ title: Galactic News  Knives Drawn
 slug: galactic_news_knives_drawn
 date: '3302-07-22'
 source: GitHub
+summary: Political commentators review the deteriorating Federal-Imperial relationship, tracing it from the Beta Hydri battlecruiser construction in March through the Daramo conflict in June to the current standoff over barnacles and meta-alloys in Merope and the Pleiades.
+player_impact: None
+persons: []
+groups:
+- Federation
+- Empire
 locations:
 - Merope
+- Beta Hydri
+- Daramo
+- Pleiades Nebula
+technologies:
+- Farragut-class Battlecruiser
+- Majestic-class Interdictor
+- meta-alloys
 topics:
 - alien contact
 - construction

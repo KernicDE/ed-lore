@@ -3,14 +3,13 @@ id: kaii
 name: Kaii
 type: person
 first_seen_date: '3302-04-08'
-last_seen_date: '3302-05-26'
-mention_count: 2
+last_seen_date: '3302-04-08'
+mention_count: 1
 related_entities:
 - erimus
 - kahina-tijani-loren
 - mars
 - sol
-- federal-times
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,8 +17,8 @@ related_entities:
 # Kaii
 
 First mentioned: **3302-04-08**  
-Last mentioned: **3302-05-26**  
-Total mentions: **2**
+Last mentioned: **3302-04-08**  
+Total mentions: **1**
 
 ## Related
 
@@ -27,7 +26,6 @@ Total mentions: **2**
 - [[Kahina Tijani Loren]] (1 co-mentions)
 - [[Mars]] (1 co-mentions)
 - [[Sol]] (1 co-mentions)
-- [[Federal Times]] (1 co-mentions)
 
 ## Biography
 

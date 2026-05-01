@@ -4,13 +4,18 @@ title: Community Goal  Ishmael Palin Launches Appeal
 slug: community_goal_ishmael_palin_launches_appeal
 date: '3302-05-12'
 source: GitHub
-entities:
-- Palin
+summary: Professor Ishmael Palin announces his retirement from the Palin Institute and plans to relocate to a research centre on Maia A 3 a to study Unknown Artefacts and meta-alloys. He launches an appeal for building fabricators to construct the new outpost.
+player_impact: Pilots delivered building fabricators to Wilkes Orbital in the Nespeleve system and eliminated hostiles to protect supply runs.
+persons:
+- Ishmael Palin
+groups:
+- Palin Institute
+- Defence Party of Nespeleve
 locations:
-- Maia
-- Orula
-- Orulas
-- Wilkes Orbital in the Nespeleve
+- Maia A 3 a
+- Nespeleve system
+- Wilkes Orbital
+- Orulas system
 topics:
 - construction
 - humanitarian

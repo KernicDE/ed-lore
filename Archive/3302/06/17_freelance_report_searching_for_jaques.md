@@ -4,8 +4,20 @@ title: Freelance Report  Searching for Jaques
 slug: freelance_report_searching_for_jaques
 date: '3302-06-17'
 source: GitHub
+summary: A search for Jaques Station near Beagle Point led by Commander Erimus Kamzel covers nearly 20,000 square kilometres around Darwin's Legacy but finds no trace; one pilot required Fuel Rat rescue and the search was called off due to risks.
+player_impact: None
+persons:
+- Commander 'Erimus' Kamzel
+- Commander Mad Billy
 groups:
 - Fuel Rats
+- Distant Worlds Expedition
+- FGE exploration wings
+locations:
+- Gliese 1269
+- Beagle Point
+- Darwin's Legacy
+technologies: []
 topics:
 - construction
 - exploration

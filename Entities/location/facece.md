@@ -23,7 +23,7 @@ Total mentions: **7**
 
 ## Related
 
-- [[Anders Blaine]] (3 co-mentions)
+- [[Anders Blaine]] (2 co-mentions)
 - [[Imperial Herald]] (2 co-mentions)
 - [[Continues]] (1 co-mentions)
 - [[LTT 9810]] (1 co-mentions)

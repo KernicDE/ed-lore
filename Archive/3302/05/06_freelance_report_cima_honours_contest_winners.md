@@ -4,14 +4,17 @@ title: Freelance Report  CIMA Honours Contest Winners
 slug: freelance_report_cima_honours_contest_winners
 date: '3302-05-06'
 source: GitHub
-entities:
-- Gonzoid
-- Irisa Nyira
-- Kjnpbr
+summary: Benjamin Gorrister, founder of the Carmack Intergalactic Mining Association, honours the winners of the CIMA prospectors competition at Wasden Colony in Halbara. Commander Kjnpbr won first prize for discovering 200 new pristine metallic ring systems.
+player_impact: Commanders competed to discover the most pristine metallic ring systems, with Kjnpbr, Irisa Nyira, and Gonzoid placing top three.
+persons:
+- Benjamin Gorrister
+- Maxim Kammerer
+- Karen Keish
+groups:
+- Carmack Intergalactic Mining Association
 locations:
-- Commander Gonzoid who found 85 new
-- Commander Irisa Nyira who found 100 new
-- Commander Kjnpbr who found 200 new
+- Wasden Colony
+- Halbara
 topics:
 - sport
 modern_impact: Competitive event for the pilot community.

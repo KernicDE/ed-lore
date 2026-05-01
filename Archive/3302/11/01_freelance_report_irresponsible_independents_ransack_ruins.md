@@ -4,14 +4,29 @@ title: Freelance Report  Irresponsible Independents Ransack Ruins
 slug: freelance_report_irresponsible_independents_ransack_ruins
 date: '3302-11-01'
 source: GitHub
+summary: Hundreds of independent pilots have flocked to ancient ruins on planet 1 B of
+  the Synuefe XR-H d11-102 system. Archaeologist Jeremy Grant expressed concern that the
+  site has been damaged by SRV racing, piracy and weapons fire destroying priceless artifacts
+  and obelisk markings.
+player_impact: None
+persons:
+- Jeremy Grant
+- Commander Corrigendum
+groups: []
+locations:
+- Synuefe XR-H d11-102
+- Synuefe XR-H d11-102 1 B
 topics:
 - piracy
 - research
 - sport
 - xenoarchaeology
-modern_impact: Anti-piracy operation protecting trade routes.
+modern_impact: The ransacking of the Synuefe ruins by independent pilots highlighted the
+  need for site protection protocols at archaeological discoveries.
 legacy_weight: 1
 significance: low
+technologies:
+- SRV
 ---
 
 Freelance Report: Irresponsible Independents Ransack Ruins

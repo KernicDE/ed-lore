@@ -4,17 +4,26 @@ title: Freelance Report  Project Endurance
 slug: freelance_report_project_endurance
 date: '3302-06-18'
 source: GitHub
-entities:
-- Dr Simms
-- Sid Solo
-- Simms
+summary: Commanders Dr Simms and Sid Solo return to inhabited space after a 16-month circumnavigation of the galactic core in Faulcon DeLacy Cobras launched from Allen Platform in the Dijkstra system, having departed before many modern conveniences existed.
+player_impact: None
+persons:
+- Commander Dr Simms
+- Commander Sid Solo
+- Commander Sid Funkleton
+groups: []
 locations:
+- Allen Platform
+- Dijkstra
 - Sol
+technologies:
+- Faulcon DeLacy Cobra
+- SRV
 topics:
 - exploration
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Endurance exploration pushes the boundaries of long-duration deep-space
+  travel and highlights how rapidly pilot technology advances.
 legacy_weight: 2
 significance: low
 ---

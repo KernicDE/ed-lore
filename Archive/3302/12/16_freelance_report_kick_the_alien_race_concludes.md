@@ -4,15 +4,21 @@ title: Freelance Report  Kick the Alien Race Concludes
 slug: freelance_report_kick_the_alien_race_concludes
 date: '3302-12-16'
 source: GitHub
-entities:
+summary: The Buckyball Racing Club has announced the winners of the Kick the Alien race, with Commander Nookie Mr.Smith taking first place, and has apologised to the Apocalyptican Faith for treating the crash site as a racetrack.
+player_impact: None
+persons:
+- Nookie Mr.Smith
 - Raijiin
 - Relooops
 groups:
 - Buckyball Racing Club
+- Apocalyptican Faith
+locations: []
+technologies: []
 topics:
 - alien contact
 - sport
-modern_impact: Competitive event for the pilot community.
+modern_impact: Conclusion of the Kick the Alien race and apology to the Apocalyptican Faith marks a notable moment in community-driven events.
 legacy_weight: 1
 significance: low
 ---

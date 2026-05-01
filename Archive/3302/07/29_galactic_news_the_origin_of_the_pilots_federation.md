@@ -4,19 +4,24 @@ title: Galactic News  The Origin of the Pilots Federation
 slug: galactic_news_the_origin_of_the_pilots_federation
 date: '3302-07-29'
 source: GitHub
+summary: Historian Sima Kalhana recounts the foundation of the Pilots Federation in 2805 as a mutual protection and trade-route information sharing organisation for independent pilots, its evolution into the dominant GalNet provider, and its politically neutral stance based in Shinrarta Dezhra.
+player_impact: None
+persons:
+- Sima Kalhana
 groups:
 - Pilots Federation
 locations:
-- Originally a
-- Pilots Federation
 - Shinrarta Dezhra
+technologies:
+- GalNet
 topics:
 - exploration
 - piracy
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The Pilots Federation's GalNet infrastructure and ranking system remain
+  central to independent pilot life across the galaxy.
 legacy_weight: 2
 significance: low
 ---

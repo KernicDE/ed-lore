@@ -4,17 +4,22 @@ title: Trouble in Varati
 slug: trouble_in_varati
 date: '3301-11-02'
 source: GitHub
+summary: Bond Hub in Varati reports technical malfunctions and power failures similar to those affecting 64 Arietis, Warkushanui and Weyn Dock, as the wave of mysterious station problems continues to spread.
+player_impact: None
+persons:
+- Stana Chapple
+groups: []
 locations:
 - 64 Arietis
 - Bond Hub
-- Bond Hub in the Varati
 - Varati
 - Warkushanui
 - Weyn Dock
+technologies: []
 topics:
 - construction
 - war
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+modern_impact: Early evidence of the spreading station malfunction phenomenon later linked to Unknown Artefact proximity.
 legacy_weight: 2
 significance: low
 ---

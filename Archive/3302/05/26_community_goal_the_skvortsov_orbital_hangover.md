@@ -4,9 +4,13 @@ title: Community Goal  The Skvortsov Orbital Hangover
 slug: community_goal_the_skvortsov_orbital_hangover
 date: '3302-05-26'
 source: GitHub
+summary: Following the wildly successful Distant Worlds Expedition gala at Skvortsov Orbital, the 63 G. Capricorni system faces a system-wide hangover. The Diamond Frogs request hazardous environment suits, water purifiers, and coffee to help the system recover.
+player_impact: Pilots delivered hazardous environment suits, water purifiers, and coffee to Skvortsov Orbital to help the system recover from the celebration.
+groups:
+- Diamond Frogs
 locations:
-- Capricorni
-- Capricorni is now in the grip of a
+- Skvortsov Orbital
+- 63 G. Capricorni system
 topics:
 - construction
 - festival

@@ -2,32 +2,32 @@
 id: children-of-raxxla
 name: Children of Raxxla
 type: faction
-first_seen_date: '3303-02-03'
+first_seen_date: '3302-08-19'
 last_seen_date: '3303-04-27'
-mention_count: 3
+mention_count: 8
 related_entities:
-- the-hamsters
-- tionisla
-- hr-6421
-- formidine-rift
-- conflux
+- imperial-citizen
+- prism
+- cemiess
+- hawkins-gap
+- emperors-dawn
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Children of Raxxla
 
-First mentioned: **3303-02-03**  
+First mentioned: **3302-08-19**  
 Last mentioned: **3303-04-27**  
-Total mentions: **3**
+Total mentions: **8**
 
 ## Related
 
-- [[The Hamsters]] (2 co-mentions)
-- [[Tionisla]] (2 co-mentions)
-- [[HR 6421]] (1 co-mentions)
-- [[Formidine Rift]] (1 co-mentions)
-- [[Conflux]] (1 co-mentions)
+- [[Imperial Citizen]] (3 co-mentions)
+- [[Prism]] (3 co-mentions)
+- [[Cemiess]] (2 co-mentions)
+- [[Hawkin's Gap]] (2 co-mentions)
+- [[Emperor's Dawn]] (2 co-mentions)
 
 ## Biography
 

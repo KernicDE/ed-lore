@@ -4,10 +4,18 @@ title: Faction Appeals for Fireworks
 slug: faction_appeals_for_fireworks
 date: '3301-12-30'
 source: GitHub
+summary: Independent Cherets Labour in the Cherets system issues an open contract for Anduliga Fireworks to celebrate New Year, also requesting combat pilots clear spaceways and offering bounty rewards at Buckey Hub.
+player_impact: Deliver Anduliga Fireworks to Buckey Hub in Cherets, or collect bounty vouchers by clearing spaceways of criminals.
+persons: []
+groups:
+- Independent Cherets Labour
 locations:
+- Cherets
+- Buckey Hub
+- Anduliga
 - Achenar
 - Alioth
-- Cherets
+technologies: []
 topics:
 - festival
 - safety

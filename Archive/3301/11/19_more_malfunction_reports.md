@@ -4,21 +4,28 @@ title: More Malfunction Reports
 slug: more_malfunction_reports
 date: '3301-11-19'
 source: GitHub
+summary: Mysterious technical issues continue spreading across starports, now affecting Hinz Hub in Ngobe, Tsunenaga Dock in Iapodes, Li Qing Jao in Sol, and others, with Gurragchaa Gateway in Warkushanui remaining in partial closure.
+player_impact: None
+persons: []
+groups: []
 locations:
 - 49 Arietis
 - 64 Arietis
-- All starports in the affected
-- Arietis and Varati
 - Gurragchaa Gateway
-- Hinz Hub in the Ngobe
-- Sol
-- Tsunenaga Dock in the Iapodes
-- Varati
 - Warkushanui
+- Hinz Hub
+- Ngobe
+- Tsunenaga Dock
+- Iapodes
+- Li Qing Jao
+- Sol
+- Varati
+technologies: []
 topics:
 - construction
 - war
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+modern_impact: The spreading station malfunction crisis foreshadows the discovery of
+  Unknown Artefacts as the cause, fundamentally changing the threat landscape.
 legacy_weight: 2
 significance: low
 ---

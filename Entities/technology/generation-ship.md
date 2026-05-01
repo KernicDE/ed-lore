@@ -1,18 +1,18 @@
 ---
 id: generation-ship
-name: Generation ship
+name: generation ship
 type: technology
-first_seen_date: '3307-04-02'
-last_seen_date: '3307-04-02'
+first_seen_date: '3302-08-19'
+last_seen_date: '3302-08-19'
 mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Generation ship
+# generation ship
 
-First mentioned: **3307-04-02**  
-Last mentioned: **3307-04-02**  
+First mentioned: **3302-08-19**  
+Last mentioned: **3302-08-19**  
 Total mentions: **1**
 
 ## Related

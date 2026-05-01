@@ -4,15 +4,27 @@ title: Galactic News  Narcotics Appeal comes to an End
 slug: galactic_news_narcotics_appeal_comes_to_an_end
 date: '3302-06-16'
 source: GitHub
+summary: The Crom Silver Boys confirm their narcotics appeal was successful and production of crom silver fesh will begin immediately, following the wolf fesh recipe formerly produced in Wolf 1301; rewards available at Walheim Enterprise in Herthe.
+player_impact: Collect rewards at Walheim Enterprise in the Herthe system if you contributed to the Crom Silver Boys narcotics appeal.
+persons:
+- Jimmy 'Ice Pick' Falcone
+groups:
+- Crom Silver Boys
 locations:
-- But reports from the Herthe
+- Herthe
+- Walheim Enterprise
 - Wolf 1301
+- Chorel Survey
+technologies:
+- crom silver fesh
+- wolf fesh
 topics:
 - crime
 - narcotics
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Crime syndicate drug production demonstrates the black market's resilience
+  against prohibition efforts.
 legacy_weight: 2
 significance: low
 ---

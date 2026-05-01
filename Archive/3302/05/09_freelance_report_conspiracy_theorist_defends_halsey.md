@@ -4,8 +4,12 @@ title: Freelance Report  Conspiracy Theorist Defends Halsey
 slug: freelance_report_conspiracy_theorist_defends_halsey
 date: '3302-05-09'
 source: GitHub
-entities:
-- Halsey so we can find out
+summary: Notorious conspiracy theorist Ricardo Bentonio defends former Federal President Jasmina Halsey, claiming she may be a conduit for non-human intelligences he calls the 'Architects of Creation'. He demands access to Halsey to uncover the truth.
+player_impact: None
+persons:
+- Ricardo Bentonio
+- Jasmina Halsey
+- Finn McMillan
 locations:
 - Groombridge 34
 topics:

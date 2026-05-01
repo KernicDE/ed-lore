@@ -4,14 +4,21 @@ title: Community Goal  Bringing Order to Mehet
 slug: community_goal_bringing_order_to_mehet
 date: '3302-06-02'
 source: GitHub
+summary: Mehet Ltd places a kill order on all wanted ships in the Mehet system after a sharp rise in criminals attacking pilots and disrupting trade, offering rewards for bounty vouchers delivered to Schwann Dock.
+player_impact: Hunt wanted ships in the Mehet system and deliver bounty vouchers to Schwann Dock for rewards.
+persons: []
+groups:
+- Mehet Ltd
 locations:
-- Authorities in the Mehet
+- Mehet
+- Schwann Dock
+technologies: []
 topics:
 - crime
 - ship
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low
 ---

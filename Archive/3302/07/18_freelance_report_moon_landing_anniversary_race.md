@@ -4,8 +4,19 @@ title: Freelance Report  Moon Landing Anniversary Race
 slug: freelance_report_moon_landing_anniversary_race
 date: '3302-07-18'
 source: GitHub
+summary: Ex Luna Scientia partners with the Buckyball Racing Club for the Fly Me to the Moon race, celebrating the 1,333rd anniversary of the first Moon landing with a route from Lem Dock in Chaac to Moon Prospect in Turot, including surface rover racing.
+player_impact: Register for the Fly Me to the Moon race starting at Lem Dock in Chaac on 19-21 July; surface racing at Moon Prospect in Turot.
+persons:
+- Commander Aken B
 groups:
 - Buckyball Racing Club
+- Ex Luna Scientia
+locations:
+- Lem Dock
+- Chaac
+- Moon Prospect
+- Turot
+technologies: []
 topics:
 - festival
 - sport

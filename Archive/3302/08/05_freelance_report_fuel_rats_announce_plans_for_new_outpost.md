@@ -4,18 +4,22 @@ title: Freelance Report  Fuel Rats Announce Plans for New Outpost
 slug: freelance_report_fuel_rats_announce_plans_for_new_outpost
 date: '3302-08-05'
 source: GitHub
+summary: The Fuel Rats Mischief announced plans for an extraction outpost near Jaques Station to support deep-space rescue operations. The location was chosen because Jaques Station provides a steady supply of commodities and habitation infrastructure.
+player_impact: None
+persons: []
 groups:
 - Fuel Rats
+- Fuel Rats Mischief
 locations:
 - Jaques Station
 - Sagittarius A*
+technologies: []
 topics:
 - exploration
 - ship
 - trade
 arc_id: jaques-station
-modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
-  opening up deep-space colonisation.
+modern_impact: Fuel Rats expansion near Jaques Station establishes critical deep-space rescue infrastructure for the Colonia corridor.
 legacy_weight: 4
 significance: high
 ---

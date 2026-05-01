@@ -4,16 +4,23 @@ title: Galactic News  Jaques Speaks
 slug: galactic_news_jaques_speaks
 date: '3302-06-30'
 source: GitHub
+summary: Jaques broadcasts his first message since being found in Eol Prou RS-T d3-94, explaining that drive engine and navigation failures forced him to abort his Beagle Point jump, and that Jaques Station will not be jumping again due to superstructure strain.
+player_impact: Deliver meta-alloys to Jaques Station in Eol Prou RS-T d3-94 to help repair the starport.
+persons:
+- Jaques
+groups: []
 locations:
-- And the navigation
-- Eol Prou
 - Eol Prou RS-T d3-94
 - Jaques Station
+- Gliese 1269
+- Beagle Point
+technologies:
+- meta-alloys
 topics:
 - construction
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Jaques Station's journey to Colonia establishes a new frontier settlement,
+  opening up deep-space colonisation.
 legacy_weight: 4
 significance: high
 ---

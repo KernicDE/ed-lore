@@ -3,14 +3,14 @@ id: arawere
 name: Arawere
 type: location
 first_seen_date: '3301-11-25'
-last_seen_date: '3302-01-04'
-mention_count: 2
+last_seen_date: '3302-05-20'
+mention_count: 3
 related_entities:
-- 49-arietis
 - 64-arietis
+- weyn-dock
+- warkushanui
+- 49-arietis
 - gaiman-dock
-- sol
-- varati
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Arawere
 
 First mentioned: **3301-11-25**  
-Last mentioned: **3302-01-04**  
-Total mentions: **2**
+Last mentioned: **3302-05-20**  
+Total mentions: **3**
 
 ## Related
 
+- [[64 Arietis]] (3 co-mentions)
+- [[Weyn Dock]] (3 co-mentions)
+- [[Warkushanui]] (3 co-mentions)
 - [[49 Arietis]] (2 co-mentions)
-- [[64 Arietis]] (2 co-mentions)
 - [[Gaiman Dock]] (2 co-mentions)
-- [[Sol]] (2 co-mentions)
-- [[Varati]] (2 co-mentions)
 
 ## Biography
 

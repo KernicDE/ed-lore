@@ -6,7 +6,9 @@ first_seen_date: '3302-06-09'
 last_seen_date: '3302-06-09'
 mention_count: 1
 related_entities:
-- walheim-enterprise-in-the-herthe
+- crom-silver-boys
+- herthe
+- walheim-enterprise
 - wolf-1301
 ---
 
@@ -20,7 +22,9 @@ Total mentions: **1**
 
 ## Related
 
-- [[Walheim Enterprise in the Herthe]] (1 co-mentions)
+- [[Crom Silver Boys]] (1 co-mentions)
+- [[Herthe]] (1 co-mentions)
+- [[Walheim Enterprise]] (1 co-mentions)
 - [[Wolf 1301]] (1 co-mentions)
 
 ## Biography

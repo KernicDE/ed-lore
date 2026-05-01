@@ -4,24 +4,29 @@ title: Galactic News  Kahina Loren Implicated in Patreus Assassination Attempt
 slug: galactic_news_kahina_loren_implicated_in_patreus_assassination_attempt
 date: '3302-09-19'
 source: GitHub
-entities:
-- Salomé she
+summary: Lady Kahina Tijani Loren, former senator of the Prism system, has been charged in connection with the attempted assassination of Admiral Denton Patreus. Under the alias Commander Salomé, she has been linked to several revolutionary organisations including Emperor's Dawn, and has been moved to Achenar to await trial.
+player_impact: None
+persons:
+- Kahina Tijani Loren
+- Denton Patreus
+- Aisling Duval
 groups:
-- Emperor's Dawn
 - Imperial Senate
+- Emperor's Dawn
+- Children of Raxxla
+- Phoenix Group
+- Dark Wheel
+- Imperial Citizen
 locations:
-- Achenar
-- Cemiess
 - Prism
+- Cemiess
+- Achenar
+technologies: []
 topics:
 - crime
-- independence
 - succession
-- trade
-- war
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
-  politics and military policy.
+modern_impact: The arrest and trial of Kahina Loren deepens the Imperial succession crisis and exposes the intersection of parliamentary politics with underground revolutionary networks.
 legacy_weight: 5
 significance: high
 ---

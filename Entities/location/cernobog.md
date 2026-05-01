@@ -6,7 +6,6 @@ first_seen_date: '3302-08-25'
 last_seen_date: '3302-08-25'
 mention_count: 1
 related_entities:
-- alec-turner
 - buckyball-racing-club
 ---
 
@@ -20,7 +19,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Alec Turner]] (1 co-mentions)
 - [[Buckyball Racing Club]] (1 co-mentions)
 
 ## Biography

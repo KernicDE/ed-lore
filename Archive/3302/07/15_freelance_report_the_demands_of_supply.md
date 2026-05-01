@@ -4,11 +4,7 @@ title: Freelance Report  The Demands of Supply
 slug: freelance_report_the_demands_of_supply
 date: '3302-07-15'
 source: GitHub
-entities:
-- Arcanonn
-- Cora Shaw
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Merope
@@ -17,10 +13,22 @@ topics:
 - research
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+modern_impact: Pioneers data-driven exploration methodology for locating barnacles,
+  demonstrating how independent research groups can shape superpower policy and defuse
+  conflict.
 legacy_weight: 4
 significance: high
+summary: The Canonn Interstellar Research Group has published 'Barnacle Search Criteria'
+  advising commanders on planetary conditions likely to host barnacles. The release
+  follows a meeting between Dr Arcanonn and Professor Cora Shaw, with Arcanonn urging
+  that the Federation and Empire's positions are not irreconcilable.
+player_impact: Search nebulae for rocky or high-metal content worlds matching the
+  specified composition, temperature, and gravity criteria to locate barnacles.
+persons:
+- Dr Arcanonn
+- Professor Cora Shaw
+- Commander Nicholas Powell
+technologies: []
 ---
 
 Freelance Report: The Demands of Supply

@@ -4,11 +4,14 @@ title: Meta Alloy Sale Announced at Darnielle's Progress
 slug: meta_alloy_sale_announced_at_darnielles_progress
 date: '3302-05-27'
 source: GitHub
-entities:
-- Palin
+summary: Business leaders at Darnielle's Progress in the Maia system announce a sale of meta-alloys from their stockpile. Professor Ishmael Palin and other researchers criticise the move as unwise, warning that the full potential of these materials is unknown.
+player_impact: None
+persons:
+- Larry Oldman
+- Ishmael Palin
 locations:
 - Darnielle's Progress
-- Maia
+- Maia system
 topics:
 - research
 arc_id: barnacle-meta-alloy

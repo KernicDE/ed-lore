@@ -4,8 +4,18 @@ title: Faction Issues Appeal for Onionhead
 slug: faction_issues_appeal_for_onionhead
 date: '3301-11-19'
 source: GitHub
+summary: The Drug Empire of Xelabara issues a request for onionhead, the narcotic declared illegal by former President Jasmina Halsey, offering generous incentives to pilots who deliver it to their base in Xelabara.
+player_impact: Deliver onionhead to the Drug Empire of Xelabara's base in Xelabara to earn generous incentives.
+persons:
+- Rooney 'Rush' Romero
+- Jasmina Halsey
+groups:
+- Drug Empire of Xelabara
+- Farmer's Cooperative of Kappa Fornacis
 locations:
+- Xelabara
 - Kappa Fornacis
+technologies: []
 topics:
 - corporate expansion
 - narcotics

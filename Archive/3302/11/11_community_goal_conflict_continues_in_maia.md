@@ -4,8 +4,17 @@ title: Community Goal  Conflict Continues in Maia
 slug: community_goal_conflict_continues_in_maia
 date: '3302-11-11'
 source: GitHub
+summary: Early reports from the Maia system indicate that the Ant Hill Mob has delivered
+  a significant blow to the Pleiades Resource Enterprise using its criminal network connections.
+  In response, the Pleiades Resource Enterprise has placed a kill order on wanted ships
+  operating in Maia and surrounding systems.
+player_impact: Pilots can earn rewards by delivering bounty vouchers to Obsidian Orbital
+  in the Maia system.
+persons: []
+groups:
+- Ant Hill Mob
+- Pleiades Resource Enterprise
 locations:
-- Early reports from the Maia
 - Maia
 - Obsidian Orbital
 topics:
@@ -13,10 +22,12 @@ topics:
 - ship
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: The Pleiades Resource Enterprise's bounty campaign against the Ant Hill
+  Mob's criminal network in Maia showed how corporate factions used independent pilots to
+  suppress organized crime during territorial disputes.
 legacy_weight: 3
 significance: medium
+technologies: []
 ---
 
 Community Goal: Conflict Continues in Maia

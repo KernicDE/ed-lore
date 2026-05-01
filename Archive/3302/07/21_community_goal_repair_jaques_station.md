@@ -4,10 +4,21 @@ title: Community Goal  Repair Jaques Station
 slug: community_goal_repair_jaques_station
 date: '3302-07-21'
 source: GitHub
+summary: Jaques issues an appeal for power generators, tantalum, structural regulators and energy grid assemblies to restore Jaques Station in Eol Prou RS-T d3-94 to full functionality after his failed trip to Beagle Point.
+player_impact: Deliver power generators, tantalum, structural regulators and energy grid assemblies to Jaques Station in Eol Prou RS-T d3-94.
+persons:
+- Jaques
+groups: []
 locations:
-- Eol Prou
 - Eol Prou RS-T d3-94
 - Jaques Station
+- Beagle Point
+technologies:
+- power generators
+- tantalum
+- structural regulators
+- energy grid assemblies
+- meta-alloys
 topics:
 - construction
 - trade

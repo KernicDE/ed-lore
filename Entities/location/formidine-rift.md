@@ -2,30 +2,32 @@
 id: formidine-rift
 name: Formidine Rift
 type: location
-first_seen_date: '3303-02-03'
+first_seen_date: '3302-10-14'
 last_seen_date: '3303-02-03'
-mention_count: 1
+mention_count: 2
 related_entities:
+- earth-expeditionary-fleet
+- chi-orionis
+- perseus-arm
+- cassiopeia
 - children-of-raxxla
-- hr-6421
-- conflux
-- hawkins-gap
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Formidine Rift
 
-First mentioned: **3303-02-03**  
+First mentioned: **3302-10-14**  
 Last mentioned: **3303-02-03**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
+- [[Earth Expeditionary Fleet]] (1 co-mentions)
+- [[Chi Orionis]] (1 co-mentions)
+- [[Perseus Arm]] (1 co-mentions)
+- [[Cassiopeia]] (1 co-mentions)
 - [[Children of Raxxla]] (1 co-mentions)
-- [[HR 6421]] (1 co-mentions)
-- [[Conflux]] (1 co-mentions)
-- [[Hawkin's Gap]] (1 co-mentions)
 
 ## Biography
 

@@ -4,6 +4,13 @@ title: Galactic News  Tantalum Appeal Comes to an End
 slug: galactic_news_tantalum_appeal_comes_to_an_end
 date: '3302-05-19'
 source: GitHub
+summary: The Wyrd Raiders announce the successful conclusion of their tantalum campaign, with massive deliveries received at Gareth Edwards Park. Persistent rumours suggest the tantalum was destined for independent engineers, which the Wyrd Raiders decline to confirm.
+player_impact: Pilots delivered large quantities of tantalum to Gareth Edwards Park in the Wyrd system.
+groups:
+- Wyrd Raiders
+locations:
+- Wyrd system
+- Gareth Edwards Park
 topics:
 - war
 modern_impact: GalNet community report documenting current events in the galaxy.

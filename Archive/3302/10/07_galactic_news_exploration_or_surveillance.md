@@ -4,16 +4,16 @@ title: Galactic News  Exploration or Surveillance
 slug: galactic_news_exploration_or_surveillance
 date: '3302-10-07'
 source: GitHub
-groups:
-- Sirius Corp
-- Sirius Corporation
-locations:
-- Mars
-- Sirius
+summary: Sirius Corporation revealed it has deployed hundreds of deep-space probes and signalling technologies throughout the galaxy, working with Mars High Astrocartography on their design, claiming they offer more reliable coverage than human pilots.
+player_impact: None
+persons: []
+groups: [Sirius Corporation, Mars High Astrocartography]
+locations: [Mars, Sirius]
+technologies: [deep-space probes]
 topics:
 - corporate expansion
 - exploration
-modern_impact: Notable exploration achievement.
+modern_impact: Sirius Corporation's automated deep-space probe network presages corporate dominance over galactic cartography and raises surveillance concerns.
 legacy_weight: 2
 significance: low
 ---

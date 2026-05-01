@@ -5,10 +5,6 @@ type: person
 first_seen_date: '3302-12-09'
 last_seen_date: '3302-12-09'
 mention_count: 1
-related_entities:
-- missingsea-scanned-1
-- universal-cartographics
-- eol-prou
 ---
 
 <!-- AUTO-GENERATED -->
@@ -21,9 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[MissingSea scanned 1]] (1 co-mentions)
-- [[Universal Cartographics]] (1 co-mentions)
-- [[Eol Prou]] (1 co-mentions)
 
 ## Biography
 

@@ -4,10 +4,16 @@ title: Galactic News  Federation Assumes Control of Neits
 slug: galactic_news_federation_assumes_control_of_neits
 date: '3302-05-26'
 source: GitHub
+summary: After a week of intense conflict, Federation-aligned Neits Jet Life Ltd defeats the Imperial GR 316 Silver Universal Group in the Neits system. The Federation now assumes official control, with Federal Navy protection promised.
+player_impact: Pilots supported Neits Jet Life Ltd in defeating the GR 316 Silver Universal Group, securing Federal control of the Neits system.
+persons:
+- Admiral Yorke
 groups:
 - Federal Navy
+- Neits Jet Life Ltd
+- GR 316 Silver Universal Group
 locations:
-- With the
+- Neits system
 topics:
 - ship
 - war

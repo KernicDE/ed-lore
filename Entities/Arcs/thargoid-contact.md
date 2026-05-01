@@ -7,9 +7,9 @@ mention_count: 196
 significance: medium
 key_entities:
 - aegis
+- federation
 - alliance
 - pilots-federation
-- federation
 - empire
 ---
 
@@ -24,10 +24,10 @@ Articles: **196**
 ## Key Figures
 
 - [[Aegis]] (93 mentions)
+- [[Federation]] (30 mentions)
 - [[Alliance]] (27 mentions)
 - [[Pilots Federation]] (23 mentions)
-- [[Federation]] (21 mentions)
-- [[Empire]] (16 mentions)
+- [[Empire]] (21 mentions)
 
 ## Description
 

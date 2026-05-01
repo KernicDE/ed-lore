@@ -4,13 +4,18 @@ title: The Canonn Calls for Halt to Artefact Sales
 slug: the_canonn_calls_for_halt_to_artefact_sales
 date: '3301-12-04'
 source: GitHub
-entities:
-- Dr. Arcanonn
+summary: Dr Arcanonn of the Canonn Interstellar Research Group urges pilots to stop selling Unknown Artefacts, citing a strong correlation between UA sales and station malfunctions at locations including Bond Hub in Varati.
+player_impact: Stop selling Unknown Artefacts to prevent further station shutdowns.
+persons:
+- Dr Arcanonn
 groups:
 - Canonn Interstellar Research Group
 locations:
 - Maia
 - Varati
+- Bond Hub
+technologies:
+- Unknown Artefacts
 topics:
 - unknown artefacts
 - trade

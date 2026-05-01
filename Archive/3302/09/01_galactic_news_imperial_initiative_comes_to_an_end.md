@@ -4,11 +4,18 @@ title: Galactic News  Imperial Initiative Comes to an End
 slug: galactic_news_imperial_initiative_comes_to_an_end
 date: '3302-09-01'
 source: GitHub
-topics:
-- construction
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: Admiral Denton Patreus announced the successful conclusion of an Imperial initiative to construct three new Majestic-class Interdictors, coordinated by the Morai Nobles with supplies delivered to van de Hulst Vision in the Morai system.
+player_impact: Pilots who contributed can collect their rewards from van de Hulst Vision in the Morai system.
+persons:
+- Denton Patreus
+groups:
+- Morai Nobles
+locations:
+- Morai
+- van de Hulst Vision
+technologies:
+- Majestic-class Interdictor
+modern_impact: Imperial capital ship construction demonstrates the Empire's ongoing military expansion and industrial capacity.
 legacy_weight: 2
 significance: low
 ---

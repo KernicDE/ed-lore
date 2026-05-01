@@ -4,6 +4,16 @@ title: Onionhead Appeal Successful
 slug: onionhead_appeal_successful
 date: '3301-11-25'
 source: GitHub
+summary: The Drug Empire of Xelabara announces its onionhead appeal was successful, with spokesperson Rooney 'Rush' Romero thanking traders and combat pilots; rewards can be collected at Navigator Market in Xelabara.
+player_impact: Collect rewards at Navigator Market in Xelabara if you contributed to the onionhead appeal or pirate elimination.
+persons:
+- Rooney 'Rush' Romero
+groups:
+- Drug Empire of Xelabara
+locations:
+- Xelabara
+- Navigator Market
+technologies: []
 topics:
 - narcotics
 - piracy

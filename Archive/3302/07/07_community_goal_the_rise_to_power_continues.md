@@ -7,9 +7,19 @@ source: GitHub
 topics:
 - sport
 - trade
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Represents a structured community event encouraging piracy and theft
+  as competitive mechanics, reinforcing underworld gameplay loops.
 legacy_weight: 1
 significance: low
+summary: The second stage of the Rise to Power competition requires pilots to steal
+  as many technical blueprints as possible for their chosen faction over one week.
+  The faction with the most blueprints will advance toward joining the galaxy's major
+  power players.
+player_impact: Steal technical blueprints for your chosen faction.
+groups: []
+locations: []
+persons: []
+technologies: []
 ---
 
 Community Goal: The Rise to Power Continues

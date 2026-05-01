@@ -2,18 +2,18 @@
 id: majestic-class-interdictor
 name: Majestic-class Interdictor
 type: technology
-first_seen_date: '3303-10-07'
+first_seen_date: '3302-07-21'
 last_seen_date: '3303-10-12'
-mention_count: 2
+mention_count: 9
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Majestic-class Interdictor
 
-First mentioned: **3303-10-07**  
+First mentioned: **3302-07-21**  
 Last mentioned: **3303-10-12**  
-Total mentions: **2**
+Total mentions: **9**
 
 ## Related
 

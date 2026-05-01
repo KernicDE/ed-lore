@@ -4,25 +4,31 @@ title: Services Suspended at Gaiman Dock and Weyn Dock
 slug: services_suspended_at_gaiman_dock_and_weyn_dock
 date: '3301-11-25'
 source: GitHub
+summary: Station services are suspended at Weyn Dock in 64 Arietis and Gaiman Dock in 49 Arietis due to ongoing technical issues, while Korolyov Hub in Arawere becomes the latest affected starport; the Canonn Interstellar Research Group is among scientists working to find a solution.
+player_impact: None
+persons: []
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - 49 Arietis
-- 64 Arietis
-- Arawere
-- Authorities in the 64 Arietis
 - Gaiman Dock
-- Sol
-- Varati
-- Warkushanui
+- 64 Arietis
 - Weyn Dock
+- Arawere
+- Korolyov Hub
+- Warkushanui
+- Varati
+- Ngobe
+- Iapodes
+- Sol
+technologies: []
 topics:
 - construction
 - research
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Escalating station malfunctions deepen the mystery and demonstrate the
+  growing need for scientific intervention.
 legacy_weight: 2
 significance: low
 ---

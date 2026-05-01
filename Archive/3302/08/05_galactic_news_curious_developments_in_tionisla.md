@@ -4,14 +4,23 @@ title: Galactic News  Curious Developments in Tionisla
 slug: galactic_news_curious_developments_in_tionisla
 date: '3302-08-05'
 source: GitHub
+summary: A new vessel was interred at the Tionisla Orbital Graveyard for the first time in over a hundred years, briefly transmitting the repeating message "OTSEAFOTSEAF" before a power failure. The ship was identified as an antique Cobra Mk III with an unusual hull registry.
+player_impact: None
+persons:
+- Grace Mayweather
+groups:
+- Tionisla government
 locations:
 - Tionisla
+- Tionisla Orbital Graveyard
+technologies:
+- Cobra Mk III
 topics:
 - ship
 - sport
 - trade
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The mysterious beacon transmission from the Tionisla graveyard adds to the catalogue of unexplained deep-space signals and anomalies.
 legacy_weight: 1
 significance: low
 ---

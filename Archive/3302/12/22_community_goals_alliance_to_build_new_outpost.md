@@ -4,19 +4,23 @@ title: Community Goals  Alliance to Build New Outpost
 slug: community_goals_alliance_to_build_new_outpost
 date: '3302-12-22'
 source: GitHub
-entities:
+summary: Alliance Prime Minister Edmund Mahon has announced plans to build a research outpost in the California Nebula, asking pilots to deliver construction materials to Tshang City in the Furuhjelm III-674 system and help protect contributors from wanted ships.
+player_impact: Deliver geological equipment, hazardous environment suits, and surface stabilisers to Tshang City in the Furuhjelm III-674 system, and hunt wanted ships for bounty rewards.
+persons:
 - Edmund Mahon
 groups:
 - Alliance
+- 160 SOAR
 locations:
 - California Nebula
+- Tshang City
+- Furuhjelm III-674
+technologies: []
 topics:
 - construction
 - research
-- ship
-- war
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence.
+modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence through deep-space outpost construction.
 legacy_weight: 3
 significance: medium
 ---

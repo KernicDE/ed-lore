@@ -2,32 +2,32 @@
 id: intergalactic-naval-reserve-arm
 name: Intergalactic Naval Reserve Arm
 type: faction
-first_seen_date: '3303-10-12'
+first_seen_date: '3302-08-12'
 last_seen_date: '3308-05-30'
-mention_count: 3
+mention_count: 4
 related_entities:
+- imperial-navy
+- veliaze
 - hermitage
 - core-systems
 - aegis
-- azimuth-biochemicals
-- inra
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Intergalactic Naval Reserve Arm
 
-First mentioned: **3303-10-12**  
+First mentioned: **3302-08-12**  
 Last mentioned: **3308-05-30**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
+- [[Imperial Navy]] (1 co-mentions)
+- [[Veliaze]] (1 co-mentions)
 - [[Hermitage]] (1 co-mentions)
 - [[Core systems]] (1 co-mentions)
 - [[Aegis]] (1 co-mentions)
-- [[Azimuth Biochemicals]] (1 co-mentions)
-- [[INRA]] (1 co-mentions)
 
 ## Biography
 

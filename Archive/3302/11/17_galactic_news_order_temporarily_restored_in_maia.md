@@ -4,6 +4,16 @@ title: Galactic News  Order Temporarily Restored in Maia
 slug: galactic_news_order_temporarily_restored_in_maia
 date: '3302-11-17'
 source: GitHub
+summary: The Pleiades Resource Enterprise announced that its operation to weaken Maia's
+  criminal network has been successful, with hundreds of pilots eliminating agitators in
+  the system. The victory may give the organisation time to recover before the next phase
+  in its fight against the Ant Hill Mob.
+player_impact: Pilots who contributed to the operation can collect their rewards from
+  Obsidian Orbital in the Maia system.
+persons: []
+groups:
+- Pleiades Resource Enterprise
+- Ant Hill Mob
 locations:
 - Maia
 - Obsidian Orbital
@@ -12,10 +22,12 @@ topics:
 - ship
 - war
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+modern_impact: The temporary restoration of order in Maia through the elimination of criminal
+  agitators gave the Pleiades Resource Enterprise breathing room to consolidate its position
+  against the Ant Hill Mob.
 legacy_weight: 3
 significance: medium
+technologies: []
 ---
 
 Galactic News: Order Temporarily Restored in Maia

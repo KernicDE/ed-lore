@@ -4,12 +4,16 @@ title: Freelance Report  A Year of Buckyball Racing
 slug: freelance_report_a_year_of_buckyball_racing
 date: '3302-07-22'
 source: GitHub
-entities:
-- Seneh Freelance Report  A Year
+summary: The Buckyball Racing Club celebrates its first year with 28 races hosted by announcing the BuckyBubble race, starting at Lomas Station in Wolf 359 and navigating through 60 systems shaped like a buckyball molecule.
+player_impact: Join the BuckyBubble race from Lomas Station in Wolf 359, running from 23 July to 7 August.
+persons:
+- Commander Seneh
 groups:
 - Buckyball Racing Club
 locations:
 - Wolf 359
+- Lomas Station
+technologies: []
 topics:
 - sport
 modern_impact: Competitive event for the pilot community.

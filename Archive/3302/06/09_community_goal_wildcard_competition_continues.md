@@ -4,8 +4,13 @@ title: Community Goal  Wildcard Competition Continues
 slug: community_goal_wildcard_competition_continues
 date: '3302-06-09'
 source: GitHub
+summary: The second stage of the Dangerous Games Wildcard competition begins in the Bjorti system, requiring pilots to bounty hunt for their chosen faction over one week.
+player_impact: Head to the Bjorti system and collect bounty vouchers for your chosen faction in the second Wildcard heat.
+persons: []
+groups: []
 locations:
 - Bjorti
+technologies: []
 topics:
 - sport
 modern_impact: Competitive event for the pilot community.

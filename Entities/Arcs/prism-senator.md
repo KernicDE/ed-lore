@@ -8,9 +8,9 @@ significance: medium
 key_entities:
 - kahina-tijani-loren
 - imperial-herald
+- imperial-citizen
 - alliance
 - continues
-- returns
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Articles: **17**
 
 ## Key Figures
 
-- [[Kahina Tijani Loren]] (9 mentions)
+- [[Kahina Tijani Loren]] (7 mentions)
 - [[Imperial Herald]] (4 mentions)
+- [[Imperial Citizen]] (3 mentions)
 - [[Alliance]] (2 mentions)
 - [[Continues]] (1 mentions)
-- [[Returns]] (1 mentions)
 
 ## Description
 

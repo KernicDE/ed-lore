@@ -4,19 +4,24 @@ title: Galactic News  Assassination Attempt on Patreus Thwarted
 slug: galactic_news_assassination_attempt_on_patreus_thwarted
 date: '3302-08-20'
 source: GitHub
+summary: An assassination attempt on Admiral Denton Patreus at Mackenzie Relay in the Cemiess system was thwarted by the Imperial Internal Security Service. The apprehended individuals were identified as members of Emperor's Dawn, but rumours suggest a second party with a grudge against Patreus may have supported the attack.
+player_impact: None
+persons:
+- Denton Patreus
 groups:
 - Emperor's Dawn
 - Imperial Internal Security Service
+- Imperial Citizen
 locations:
 - Cemiess
 - Mackenzie Relay
+technologies: []
 topics:
 - research
 - succession
 - war
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
-  politics and military policy.
+modern_impact: The failed assassination attempt on Patreus exposes ongoing Imperial political instability and the persistence of anti-establishment conspiracies even after Emperor's Dawn's apparent destruction.
 legacy_weight: 5
 significance: high
 ---

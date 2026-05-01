@@ -4,11 +4,16 @@ title: Explorer's Association  Delighted  with Response to Appeal
 slug: explorers_association_delighted_with_response_to_appeal
 date: '3301-12-11'
 source: GitHub
+summary: The Explorer's Association reports that its appeal for exploration data has been positively received, with pilots contributing a wealth of information on uncharted star systems over the past two weeks.
+player_impact: None
+persons: []
 groups:
 - Explorer's Association
+locations: []
+technologies: []
 topics:
 - exploration
-modern_impact: Notable exploration achievement expanding the boundaries of known space.
+modern_impact: Demonstrates the collaborative power of independent pilots in expanding galactic cartography.
 legacy_weight: 2
 significance: low
 ---

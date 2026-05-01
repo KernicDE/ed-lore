@@ -4,8 +4,11 @@ title: Galactic News  Felicia Winters Comments on Halsey's Committal
 slug: galactic_news_felicia_winters_comments_on_halseys_committal
 date: '3302-05-14'
 source: GitHub
-entities:
-- Felicia Winters responded
+summary: Federal Shadow President Felicia Winters comments on former President Jasmina Halsey's hospitalisation, expressing hope that she receives proper treatment while dismissing questions about Halsey's alleged mystical experiences as distasteful.
+player_impact: None
+persons:
+- Felicia Winters
+- Jasmina Halsey
 locations:
 - Mars
 modern_impact: GalNet community report documenting current events in the galaxy.

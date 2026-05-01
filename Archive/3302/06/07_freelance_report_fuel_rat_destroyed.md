@@ -4,13 +4,20 @@ title: Freelance Report  Fuel Rat Destroyed
 slug: freelance_report_fuel_rat_destroyed
 date: '3302-06-07'
 source: GitHub
-locations:
-- One Fuel Rat jumped out of the
+summary: A flight recording reveals the destruction of a Fuel Rat rescue vessel by a Python pilot who feigned distress, attacked after being refuelled, and claimed to be collecting a bounty; both attacker and alleged bounty-setter are now targets of manhunts.
+player_impact: None
+persons:
+- Commander Rorican
+groups:
+- Fuel Rats
+locations: []
+technologies: []
 topics:
 - humanitarian
 - ship
 - war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: First documented attack on Fuel Rat rescue vessels raises concerns about
+  the safety of humanitarian operations in deep space.
 legacy_weight: 1
 significance: low
 ---
