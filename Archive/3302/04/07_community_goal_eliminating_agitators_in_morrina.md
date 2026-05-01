@@ -4,10 +4,14 @@ title: Community Goal  Eliminating Agitators in Morrina
 slug: community_goal_eliminating_agitators_in_morrina
 date: '3302-04-07'
 source: GitHub
+summary: The Morrina system faces widespread civil unrest due to rampant criminal activity. The Morrina Pro-Alliance Party places a kill order on all wanted ships and promises rewards for pilots who deliver bounty vouchers to Barjavel Vision.
+player_impact: Pilots eliminated wanted criminals in the Morrina system and delivered bounty vouchers to Barjavel Vision.
 groups:
 - Alliance
+- Morrina Pro-Alliance Party
 locations:
-- The
+- Morrina system
+- Barjavel Vision
 topics:
 - crime
 - ship

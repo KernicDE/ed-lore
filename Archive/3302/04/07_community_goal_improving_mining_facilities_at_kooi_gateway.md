@@ -4,6 +4,13 @@ title: Community Goal  Improving Mining Facilities at Kooi Gateway
 slug: community_goal_improving_mining_facilities_at_kooi_gateway
 date: '3302-04-07'
 source: GitHub
+summary: The Canary Mining Corporation announces plans to improve mining facilities at Kooi Gateway in the HIP 93377 system by requesting mineral extractors for new material-processing equipment.
+player_impact: Pilots delivered mineral extractors to Kooi Gateway in the HIP 93377 system to improve mining facilities.
+groups:
+- Canary Mining Corporation
+locations:
+- Kooi Gateway
+- HIP 93377 system
 topics:
 - corporate expansion
 - war

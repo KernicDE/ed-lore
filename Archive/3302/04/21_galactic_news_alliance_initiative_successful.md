@@ -4,10 +4,14 @@ title: Galactic News  Alliance Initiative Successful
 slug: galactic_news_alliance_initiative_successful
 date: '3302-04-21'
 source: GitHub
+summary: The Alliance announces that its campaign to establish a new outpost received wholehearted support, with significant quantities of robotics, semi conductors, and auto fabricators delivered to Noti Dock. Imperial and Federal commentators question whether the outpost is a listening post or the first phase of expansion.
+player_impact: Pilots delivered robotics, semi conductors, and auto fabricators to Noti Dock to support the new Alliance outpost construction.
+persons:
+- Harlyn Tavistok
 groups:
 - Alliance
 locations:
-- Noti
+- Noti Dock
 topics:
 - construction
 - war

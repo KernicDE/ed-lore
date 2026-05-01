@@ -4,15 +4,19 @@ title: Freelance Report  Humanity's Dream
 slug: freelance_report_humanitys_dream
 date: '3302-04-12'
 source: GitHub
-entities:
+summary: Pilots gather at the M. Gorbachev starport in the Sol system to commemorate the 1,341st anniversary of Yuri Gagarin's historic first flight into space. The annual event brings pilots from across the galaxy to celebrate humanity's achievement of touching the stars.
+player_impact: None
+persons:
 - Stateira Eleshenar
 groups:
 - Interstellar Press
 locations:
-- Gorbachev starport in the Sol
-- Quince
-- Sol
+- M. Gorbachev starport
+- Sol system
 - Sothis
+- Quince
+- Fehu
+- Canopus
 topics:
 - construction
 - war

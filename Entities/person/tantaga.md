@@ -3,11 +3,8 @@ id: tantaga
 name: Tantaga
 type: person
 first_seen_date: '3302-03-31'
-last_seen_date: '3302-04-01'
-mention_count: 2
-related_entities:
-- lea-tantaga
-- obsidian-orbital
+last_seen_date: '3302-03-31'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
@@ -15,13 +12,11 @@ related_entities:
 # Tantaga
 
 First mentioned: **3302-03-31**  
-Last mentioned: **3302-04-01**  
-Total mentions: **2**
+Last mentioned: **3302-03-31**  
+Total mentions: **1**
 
 ## Related
 
-- [[Lea Tantaga]] (1 co-mentions)
-- [[Obsidian Orbital]] (1 co-mentions)
 
 ## Biography
 

@@ -4,8 +4,17 @@ title: Community Goal  Expanding the Imperial Fleet
 slug: community_goal_expanding_the_imperial_fleet
 date: '3302-04-21'
 source: GitHub
+summary: Admiral Denton Patreus announces plans to expand the Imperial Navy with a new Majestic-Class Interdictor featuring modular interceptor guns. Lieutenant Severin calls for loyal Imperial pilots to deliver supplies to Sagan Port in the Mundjiga system.
+player_impact: Pilots delivered construction materials to Sagan Port in the Mundjiga system to support construction of the new Majestic-Class Interdictor.
+persons:
+- Denton Patreus
+- Lieutenant Severin
 groups:
 - Imperial Navy
+- Mundjiga Patrons of Law
+locations:
+- Sagan Port
+- Mundjiga system
 topics:
 - construction
 - ship

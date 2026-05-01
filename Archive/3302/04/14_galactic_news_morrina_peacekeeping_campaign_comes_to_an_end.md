@@ -4,8 +4,14 @@ title: Galactic News  Morrina Peacekeeping Campaign Comes to an End
 slug: galactic_news_morrina_peacekeeping_campaign_comes_to_an_end
 date: '3302-04-14'
 source: GitHub
+summary: The Morrina Pro-Alliance Party announces the successful conclusion of its campaign to clear the Morrina system of agitators. Hundreds of combat pilots responded, bringing stability to the system.
+player_impact: Pilots eliminated criminals operating in the Morrina system and collected rewards at Barjavel Vision.
 groups:
 - Alliance
+- Morrina Pro-Alliance Party
+locations:
+- Morrina system
+- Barjavel Vision
 topics:
 - crime
 - ship

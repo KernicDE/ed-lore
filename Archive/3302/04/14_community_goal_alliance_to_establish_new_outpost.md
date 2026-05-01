@@ -4,8 +4,14 @@ title: Community Goal  Alliance to Establish New Outpost
 slug: community_goal_alliance_to_establish_new_outpost
 date: '3302-04-14'
 source: GitHub
+summary: Alliance Assembly member Harlyn Tavistok announces plans to establish a new outpost on the fringes of inhabited space to bolster Alliance reconnaissance and intelligence-gathering capabilities. The campaign requests robotics, semi conductors, and auto fabricators.
+player_impact: Pilots delivered robotics, semi conductors, and auto fabricators to Noti Dock to support construction of the new Alliance outpost.
+persons:
+- Harlyn Tavistok
 groups:
 - Alliance
+locations:
+- Noti Dock
 topics:
 - trade
 modern_impact: Trade initiative affecting commodity markets.

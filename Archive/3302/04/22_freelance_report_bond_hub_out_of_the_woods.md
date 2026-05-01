@@ -4,12 +4,16 @@ title: Freelance Report  Bond Hub Out of the Woods
 slug: freelance_report_bond_hub_out_of_the_woods
 date: '3302-04-22'
 source: GitHub
-entities:
-- D Luffy
+summary: Professor D Luffy's team at Bond Hub in the Varati system successfully restores the station to full operation through weeks of meta-alloy harvesting, matching the success achieved at Obsidian Orbital.
+player_impact: Pilots transported meta-alloys between the Pleiades and Varati to help restore Bond Hub to full operation.
+persons:
+- Professor D Luffy
+groups:
+- Obsidian Orbital technical team
 locations:
 - Bond Hub
+- Varati system
 - Obsidian Orbital
-- Varati
 arc_id: barnacle-meta-alloy
 modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
   and fuels the emerging Thargoid contact narrative.

@@ -7,10 +7,10 @@ last_seen_date: '3303-02-23'
 mention_count: 17
 related_entities:
 - pilots-federation
+- george-lucas-station
 - leesti
 - sol
 - jak
-- seneh
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **17**
 ## Related
 
 - [[Pilots Federation]] (3 co-mentions)
+- [[George Lucas station]] (2 co-mentions)
 - [[Leesti]] (2 co-mentions)
 - [[Sol]] (2 co-mentions)
 - [[Jak]] (2 co-mentions)
-- [[Seneh]] (2 co-mentions)
 
 ## Biography
 

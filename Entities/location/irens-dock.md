@@ -2,32 +2,32 @@
 id: irens-dock
 name: Irens Dock
 type: location
-first_seen_date: '3302-05-20'
+first_seen_date: '3302-04-18'
 last_seen_date: '3302-05-20'
-mention_count: 1
+mention_count: 2
 related_entities:
 - manite
+- fozard-dock
+- hip-19934
 - ackerman-market
 - eravate
-- gabriel-enterprise
-- harma
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Irens Dock
 
-First mentioned: **3302-05-20**  
+First mentioned: **3302-04-18**  
 Last mentioned: **3302-05-20**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Manite]] (2 co-mentions)
-- [[Ackerman Market]] (1 co-mentions)
-- [[Eravate]] (1 co-mentions)
-- [[Gabriel Enterprise]] (1 co-mentions)
-- [[Harma]] (1 co-mentions)
+- [[Manite]] (3 co-mentions)
+- [[Fozard Dock]] (2 co-mentions)
+- [[HIP 19934]] (2 co-mentions)
+- [[Ackerman Market]] (2 co-mentions)
+- [[Eravate]] (2 co-mentions)
 
 ## Biography
 

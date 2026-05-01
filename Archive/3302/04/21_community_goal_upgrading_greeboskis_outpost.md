@@ -4,11 +4,16 @@ title: Community Goal  Upgrading Greeboski's Outpost
 slug: community_goal_upgrading_greeboskis_outpost
 date: '3302-04-21'
 source: GitHub
-entities:
-- Arias also called
+summary: Chancellor Zahra Arias of the Sovereign Justice Collective announces plans to upgrade Greeboski's Outpost in the Phiagre system, requesting titanium for infrastructure improvements and calling on pilots to protect delivery traders.
+player_impact: Pilots delivered titanium to Greeboski's Outpost in the Phiagre system and protected traders from hostile forces.
+persons:
 - Zahra Arias
 groups:
+- Sovereign Justice Collective
 - Pilots Federation
+locations:
+- Greeboski's Outpost
+- Phiagre system
 topics:
 - construction
 - independence

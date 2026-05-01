@@ -4,6 +4,14 @@ title: Freelance Report  First Expedition to Rho Cassiopeiae Confirmed
 slug: freelance_report_first_expedition_to_rho_cassiopeiae_confirmed
 date: '3302-04-18'
 source: GitHub
+summary: Commander turkwinif becomes the first pilot to reach Rho Cassiopeiae, a class-F hypergiant visible from Earth located in the difficult-to-navigate Formidine Rift. The journey required careful route planning and numerous FSD fuel injections.
+player_impact: None
+persons:
+- Commander turkwinif
+- Finn McMillan
+locations:
+- Rho Cassiopeiae
+- Formidine Rift
 topics:
 - exploration
 modern_impact: Notable exploration achievement.

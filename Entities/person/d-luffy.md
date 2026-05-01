@@ -3,14 +3,14 @@ id: d-luffy
 name: D Luffy
 type: person
 first_seen_date: '3302-03-02'
-last_seen_date: '3302-04-22'
-mention_count: 2
+last_seen_date: '3302-03-02'
+mention_count: 1
 related_entities:
+- canonn
 - bond-hub
+- bond-hub-in-the-varati
 - obsidian-orbital
 - varati
-- canonn
-- bond-hub-in-the-varati
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # D Luffy
 
 First mentioned: **3302-03-02**  
-Last mentioned: **3302-04-22**  
-Total mentions: **2**
+Last mentioned: **3302-03-02**  
+Total mentions: **1**
 
 ## Related
 
-- [[Bond Hub]] (2 co-mentions)
-- [[Obsidian Orbital]] (2 co-mentions)
-- [[Varati]] (2 co-mentions)
 - [[Canonn]] (1 co-mentions)
+- [[Bond Hub]] (1 co-mentions)
 - [[Bond Hub in the Varati]] (1 co-mentions)
+- [[Obsidian Orbital]] (1 co-mentions)
+- [[Varati]] (1 co-mentions)
 
 ## Biography
 

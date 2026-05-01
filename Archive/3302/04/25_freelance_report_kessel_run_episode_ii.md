@@ -4,12 +4,17 @@ title: Freelance Report  Kessel Run Episode II
 slug: freelance_report_kessel_run_episode_ii
 date: '3302-04-25'
 source: GitHub
-entities:
-- Stern Winter
+summary: The Buckyball Racing Club organises a second 'Kessel Run' race celebrating the antique film series 'Star Wars'. Participants will depart from George Lucas in Leesti, visit every station named 'Kessel', and finish at Solo Orbiter in Altair.
+player_impact: Pilots participated in the Kessel Run race from Leesti to Altair via stations named Kessel.
+persons:
+- Commander Stern Winter
 groups:
 - Buckyball Racing Club
 locations:
 - Leesti
+- George Lucas station
+- Solo Orbiter
+- Altair
 - Sol
 topics:
 - festival

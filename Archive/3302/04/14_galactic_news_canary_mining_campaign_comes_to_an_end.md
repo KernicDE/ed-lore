@@ -4,6 +4,13 @@ title: Galactic News  Canary Mining Campaign Comes to an End
 slug: galactic_news_canary_mining_campaign_comes_to_an_end
 date: '3302-04-14'
 source: GitHub
+summary: The Canary Mining Corporation announces that its improvement programme at Kooi Gateway has received sufficient materials. Hundreds of pilots responded to the appeal, and mining facilities in HIP 93377 will be greatly enhanced.
+player_impact: Pilots delivered equipment to Kooi Gateway in the HIP 93377 system, enabling the Canary Mining Corporation to improve mining facilities.
+groups:
+- Canary Mining Corporation
+locations:
+- Kooi Gateway
+- HIP 93377 system
 topics:
 - corporate expansion
 modern_impact: GalNet community report documenting current events in the galaxy.

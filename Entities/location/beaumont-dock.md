@@ -2,30 +2,30 @@
 id: beaumont-dock
 name: Beaumont Dock
 type: location
-first_seen_date: '3302-05-05'
+first_seen_date: '3302-04-28'
 last_seen_date: '3302-05-05'
-mention_count: 1
+mention_count: 2
 related_entities:
 - alliance
-- pilots-federation
 - spinward-marches-alliance-concern
 - morrina-system
+- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Beaumont Dock
 
-First mentioned: **3302-05-05**  
+First mentioned: **3302-04-28**  
 Last mentioned: **3302-05-05**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
+- [[Alliance]] (2 co-mentions)
+- [[Spinward Marches Alliance Concern]] (2 co-mentions)
+- [[Morrina system]] (2 co-mentions)
 - [[Pilots Federation]] (1 co-mentions)
-- [[Spinward Marches Alliance Concern]] (1 co-mentions)
-- [[Morrina system]] (1 co-mentions)
 
 ## Biography
 

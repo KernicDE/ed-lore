@@ -5,9 +5,6 @@ type: person
 first_seen_date: '3302-04-21'
 last_seen_date: '3302-04-28'
 mention_count: 2
-related_entities:
-- arias-also-called
-- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,8 +17,6 @@ Total mentions: **2**
 
 ## Related
 
-- [[Arias also called]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 

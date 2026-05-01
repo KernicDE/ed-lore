@@ -27,7 +27,7 @@ Total mentions: **22**
 - [[Sirius Corporation]] (6 co-mentions)
 - [[Lave]] (4 co-mentions)
 - [[Alioth]] (4 co-mentions)
-- [[George Lucas station]] (3 co-mentions)
+- [[George Lucas station]] (4 co-mentions)
 
 ## Biography
 

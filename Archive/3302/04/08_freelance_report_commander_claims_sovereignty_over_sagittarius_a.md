@@ -4,8 +4,11 @@ title: Freelance Report  Commander Claims Sovereignty over Sagittarius A
 slug: freelance_report_commander_claims_sovereignty_over_sagittarius_a
 date: '3302-04-08'
 source: GitHub
-entities:
-- Lysianassa
+summary: Commander Lysianassa declares herself 'Queen of Sagittarius A*' after making the 26,000 light-year journey in a heavily armed Federal Corvette. Her claim sparks debate among independent pilots about the legality and morality of asserting sovereignty over a site widely considered humanity's heritage.
+player_impact: None
+persons:
+- Commander Lysianassa
+- Queen Jezza
 locations:
 - Sagittarius A*
 topics:

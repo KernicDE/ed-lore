@@ -4,12 +4,17 @@ title: Freelance Report  Gilya Signature Weapons Return to Markets
 slug: freelance_report_gilya_signature_weapons_return_to_markets
 date: '3302-04-22'
 source: GitHub
-entities:
-- Light Fingers
+summary: Gilya Signature Weapons return to production at Bell Orbital in the Gilya system following intervention from commercial interests, priests from Sacra Oculus, and Pilots Federation Commanders. The system now also produces progenitor cells and combat stabilizers.
+player_impact: Pilots supported the restoration of Gilya Signature Weapons production at Bell Orbital in the Gilya system.
+persons:
+- Commander Light Fingers
 groups:
+- Gilya Law Party
+- Sacra Oculus
 - Pilots Federation
 locations:
-- Bell Orbital in the Gilya
+- Bell Orbital
+- Gilya system
 topics:
 - trade
 modern_impact: Trade initiative affecting commodity markets.

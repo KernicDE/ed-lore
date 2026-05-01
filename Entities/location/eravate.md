@@ -2,32 +2,32 @@
 id: eravate
 name: Eravate
 type: location
-first_seen_date: '3302-05-17'
+first_seen_date: '3302-04-18'
 last_seen_date: '3303-07-07'
-mention_count: 5
+mention_count: 6
 related_entities:
 - skvortsov-orbital
-- diamond-frogs
-- pilots-federation
-- lhs-3447
-- asellus-primus
+- fozard-dock
+- hip-19934
+- irens-dock
+- manite
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Eravate
 
-First mentioned: **3302-05-17**  
+First mentioned: **3302-04-18**  
 Last mentioned: **3303-07-07**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 
-- [[Skvortsov Orbital]] (3 co-mentions)
-- [[Diamond Frogs]] (2 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
-- [[LHS 3447]] (2 co-mentions)
-- [[Asellus Primus]] (2 co-mentions)
+- [[Skvortsov Orbital]] (4 co-mentions)
+- [[Fozard Dock]] (2 co-mentions)
+- [[HIP 19934]] (2 co-mentions)
+- [[Irens Dock]] (2 co-mentions)
+- [[Manite]] (2 co-mentions)
 
 ## Biography
 

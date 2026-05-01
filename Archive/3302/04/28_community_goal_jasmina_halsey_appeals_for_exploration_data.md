@@ -4,6 +4,15 @@ title: Community Goal  Jasmina Halsey Appeals for Exploration Data
 slug: community_goal_jasmina_halsey_appeals_for_exploration_data
 date: '3302-04-28'
 source: GitHub
+summary: Former Federal President Jasmina Halsey launches an appeal for exploration data, believing it will validate her claims of encountering super-intelligent beings in space. The Azaleach Partnership coordinates the campaign from Leoniceno Orbital.
+player_impact: Pilots gathered and delivered exploration data to Leoniceno Orbital to help validate Halsey's claims of non-human contact.
+persons:
+- Jasmina Halsey
+groups:
+- Azaleach Partnership
+locations:
+- Leoniceno Orbital
+- Azaleach
 topics:
 - exploration
 - medicine

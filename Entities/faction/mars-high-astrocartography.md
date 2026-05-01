@@ -2,32 +2,32 @@
 id: mars-high-astrocartography
 name: Mars High Astrocartography
 type: faction
-first_seen_date: '3302-10-07'
+first_seen_date: '3302-04-08'
 last_seen_date: '3302-12-23'
-mention_count: 2
+mention_count: 3
 related_entities:
+- beagle-point
+- formidine-rift
+- norma-expanse
+- sol
 - sirius-corporation
-- mars
-- federation
-- children-of-raxxla
-- the-imperial-citizen
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Mars High Astrocartography
 
-First mentioned: **3302-10-07**  
+First mentioned: **3302-04-08**  
 Last mentioned: **3302-12-23**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
+- [[Beagle Point]] (1 co-mentions)
+- [[Formidine Rift]] (1 co-mentions)
+- [[Norma Expanse]] (1 co-mentions)
+- [[Sol]] (1 co-mentions)
 - [[Sirius Corporation]] (1 co-mentions)
-- [[Mars]] (1 co-mentions)
-- [[Federation]] (1 co-mentions)
-- [[Children of Raxxla]] (1 co-mentions)
-- [[The Imperial Citizen]] (1 co-mentions)
 
 ## Biography
 

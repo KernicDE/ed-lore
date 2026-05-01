@@ -23,7 +23,7 @@ Total mentions: **8**
 
 ## Related
 
-- [[Varati]] (8 co-mentions)
+- [[Varati]] (7 co-mentions)
 - [[64 Arietis]] (4 co-mentions)
 - [[Warkushanui]] (4 co-mentions)
 - [[Weyn Dock]] (4 co-mentions)

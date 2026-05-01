@@ -6,11 +6,11 @@ first_seen_date: '3302-04-12'
 last_seen_date: '3302-04-12'
 mention_count: 1
 related_entities:
-- stateira-eleshenar
 - interstellar-press
-- gorbachev-starport-in-the-sol
-- sol
+- m-gorbachev-starport
+- sol-system
 - sothis
+- fehu
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **1**
 
 ## Related
 
-- [[Stateira Eleshenar]] (1 co-mentions)
 - [[Interstellar Press]] (1 co-mentions)
-- [[Gorbachev starport in the Sol]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
+- [[M. Gorbachev starport]] (1 co-mentions)
+- [[Sol system]] (1 co-mentions)
 - [[Sothis]] (1 co-mentions)
+- [[Fehu]] (1 co-mentions)
 
 ## Biography
 

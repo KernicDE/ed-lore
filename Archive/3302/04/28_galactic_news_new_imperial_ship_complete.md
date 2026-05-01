@@ -4,6 +4,17 @@ title: Galactic News  New Imperial Ship Complete
 slug: galactic_news_new_imperial_ship_complete
 date: '3302-04-28'
 source: GitHub
+summary: Admiral Denton Patreus announces the completion of a new Majestic-Class Interdictor. The Mundjiga Patrons of Law coordinated the construction effort, with the galactic community delivering thousands of tonnes of essential materials to Sagan Port.
+player_impact: Pilots delivered construction materials to Sagan Port in the Mundjiga system to complete the new Majestic-Class Interdictor.
+persons:
+- Denton Patreus
+- Lieutenant Severin
+groups:
+- Imperial Navy
+- Mundjiga Patrons of Law
+locations:
+- Sagan Port
+- Mundjiga system
 topics:
 - construction
 - ship

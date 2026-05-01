@@ -4,7 +4,7 @@ name: Imperial Senate
 type: faction
 first_seen_date: '3301-02-28'
 last_seen_date: '3310-01-11'
-mention_count: 50
+mention_count: 51
 related_entities:
 - marlinist-colonies
 - nmla
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-28**  
 Last mentioned: **3310-01-11**  
-Total mentions: **50**
+Total mentions: **51**
 
 ## Related
 

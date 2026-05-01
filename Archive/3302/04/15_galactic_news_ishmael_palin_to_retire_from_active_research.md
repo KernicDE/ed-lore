@@ -4,12 +4,15 @@ title: Galactic News  Ishmael Palin to Retire from Active Research
 slug: galactic_news_ishmael_palin_to_retire_from_active_research
 date: '3302-04-15'
 source: GitHub
-entities:
-- Cora Shaw
+summary: Professor Ishmael Palin announces his retirement from the Palin Institute, citing 'dark forces' opposing his ideals. He transfers directorship to Professor Cora Shaw and plans to continue personal research into Unknown Artefacts and meta-alloys at his centre on Maia A 3 a.
+player_impact: None
+persons:
 - Ishmael Palin
-- Shaw's ability
+- Cora Shaw
+groups:
+- Palin Institute
 locations:
-- Maia
+- Maia A 3 a
 topics:
 - research
 - ship

@@ -4,13 +4,14 @@ title: Galactic News  Access to Naraka Temporarily Restricted
 slug: galactic_news_access_to_naraka_temporarily_restricted
 date: '3302-04-01'
 source: GitHub
+summary: Universal Cartographics addresses the confusion caused by two systems both named 'Naraka' by temporarily restricting access to one and renaming it. The move is not universally welcomed by local residents.
+player_impact: None
 groups:
 - Universal Cartographics
 locations:
-- Access to the Naraka
 - Naraka
-- Naraka is a
-- That's because there are two
+- Pi-Fang
+- Eranin
 topics:
 - exploration
 modern_impact: Notable exploration achievement.

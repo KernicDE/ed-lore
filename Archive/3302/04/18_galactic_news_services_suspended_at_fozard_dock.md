@@ -4,17 +4,47 @@ title: Galactic News  Services Suspended at Fozard Dock
 slug: galactic_news_services_suspended_at_fozard_dock
 date: '3302-04-18'
 source: GitHub
+summary: Fozard Dock in the HIP 19934 system suspends all services except docking and shipyard access due to Unknown Artefact-related interference, bringing the total number of starports closed by the technological plague to 12.
+player_impact: None
 locations:
-- 49 Arietis
-- 64 Arietis
-- Gaiman Dock
-- Gurragchaa Gateway
+- Fozard Dock
+- HIP 19934
+- Irens Dock
+- Manite
+- Ackerman Market
+- Eravate
+- von Bellingshausen Port
+- Almar
+- Haack Gateway
+- Halbangaay
+- Gabriel Enterprise
 - Harma
-- Robigo
-- Robigo Mines
+- Gurragchaa Gateway
 - Warkushanui
+- Gaiman Dock
+- 49 Arietis
 - Weyn Dock
+- 64 Arietis
+- Korolyov Hub
+- Arawere
+- Lobachevsky Outpost
+- Pic Tok
+- Carter Port
+- Rhea
+- Alexander Freeport
+- HIP 18843
+- Bloch Vision
+- Loperada
+- Love Ring
+- Evejitaka
+- Robigo Mines
+- Robigo
+- Saunders's Dive
 - Wolf 1301
+- Skvortsov Orbital
+- 63 G. Capricorni
+- Hinz Hub
+- Ngobe
 topics:
 - construction
 - medicine

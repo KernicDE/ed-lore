@@ -3,14 +3,14 @@ id: arcanonn
 name: Arcanonn
 type: person
 first_seen_date: '3301-05-07'
-last_seen_date: '3302-04-27'
-mention_count: 14
+last_seen_date: '3302-03-16'
+mention_count: 11
 related_entities:
 - canonn
 - canonn-interstellar-research-group
 - maia
+- 78-ursae-majoris
 - merope
-- ishmael-palin
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Arcanonn
 
 First mentioned: **3301-05-07**  
-Last mentioned: **3302-04-27**  
-Total mentions: **14**
+Last mentioned: **3302-03-16**  
+Total mentions: **11**
 
 ## Related
 
-- [[Canonn]] (14 co-mentions)
-- [[Canonn Interstellar Research Group]] (10 co-mentions)
-- [[Maia]] (4 co-mentions)
-- [[Merope]] (3 co-mentions)
-- [[Ishmael Palin]] (3 co-mentions)
+- [[Canonn]] (11 co-mentions)
+- [[Canonn Interstellar Research Group]] (7 co-mentions)
+- [[Maia]] (3 co-mentions)
+- [[78 Ursae Majoris]] (2 co-mentions)
+- [[Merope]] (2 co-mentions)
 
 ## Biography
 

@@ -4,14 +4,16 @@ title: Freelance Report  Happy Canonn Day!
 slug: freelance_report_happy_canonn_day
 date: '3302-04-27'
 source: GitHub
-entities:
-- Arcanonn
+summary: Dr Arcanonn marks the first anniversary of the Canonn Interstellar Research Group, reflecting on achievements including decoding Unknown Artefact Morse signals, identifying the UA 'shell' around Merope, and researching barnacles on five Pleiades planets.
+player_impact: None
+persons:
+- Dr Arcanonn
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Merope
-- UA 'shell' around the Merope
+- Pleiades
+- Col 285 Sector IX-T d3-43
 topics:
 - research
 arc_id: barnacle-meta-alloy

@@ -2,9 +2,9 @@
 id: azaleach-partnership
 name: Azaleach Partnership
 type: faction
-first_seen_date: '3302-05-05'
+first_seen_date: '3302-04-28'
 last_seen_date: '3302-05-21'
-mention_count: 2
+mention_count: 3
 related_entities:
 - leoniceno-orbital
 - azaleach
@@ -14,14 +14,14 @@ related_entities:
 
 # Azaleach Partnership
 
-First mentioned: **3302-05-05**  
+First mentioned: **3302-04-28**  
 Last mentioned: **3302-05-21**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Leoniceno Orbital]] (1 co-mentions)
-- [[Azaleach]] (1 co-mentions)
+- [[Leoniceno Orbital]] (2 co-mentions)
+- [[Azaleach]] (2 co-mentions)
 
 ## Biography
 

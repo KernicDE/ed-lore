@@ -4,6 +4,14 @@ title: Galactic News  Research Initiative Trumps Federal Campaign
 slug: galactic_news_research_initiative_trumps_federal_campaign
 date: '3302-04-07'
 source: GitHub
+summary: The Federal 'Hand in the Head' campaign against Onionhead receives only modest support, while a competing research initiative organised by the Altair Purple Mob proves more popular. Edward Bores claims success in removing thousands of tonnes from circulation, while the Altair Purple Mob plans further research into Onionhead's purported health benefits.
+player_impact: Pilots supported either the Federal campaign to remove Onionhead or the competing research initiative.
+persons:
+- Edward Bores
+groups:
+- Altair Purple Mob
+locations:
+- Altair
 topics:
 - crime
 - narcotics

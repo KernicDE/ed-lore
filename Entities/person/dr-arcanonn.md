@@ -4,7 +4,7 @@ name: Dr Arcanonn
 type: person
 first_seen_date: '3301-12-04'
 last_seen_date: '3303-06-21'
-mention_count: 11
+mention_count: 15
 ---
 
 <!-- AUTO-GENERATED -->
@@ -13,7 +13,7 @@ mention_count: 11
 
 First mentioned: **3301-12-04**  
 Last mentioned: **3303-06-21**  
-Total mentions: **11**
+Total mentions: **15**
 
 ## Related
 

@@ -5,9 +5,6 @@ type: person
 first_seen_date: '3302-04-01'
 last_seen_date: '3302-04-01'
 mention_count: 1
-related_entities:
-- tantaga
-- obsidian-orbital
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,8 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Tantaga]] (1 co-mentions)
-- [[Obsidian Orbital]] (1 co-mentions)
 
 ## Biography
 

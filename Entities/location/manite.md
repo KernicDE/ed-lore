@@ -2,32 +2,32 @@
 id: manite
 name: Manite
 type: location
-first_seen_date: '3302-05-20'
+first_seen_date: '3302-04-18'
 last_seen_date: '3302-07-07'
-mention_count: 2
+mention_count: 3
 related_entities:
 - irens-dock
+- fozard-dock
+- hip-19934
 - ackerman-market
 - eravate
-- gabriel-enterprise
-- harma
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Manite
 
-First mentioned: **3302-05-20**  
+First mentioned: **3302-04-18**  
 Last mentioned: **3302-07-07**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Irens Dock]] (2 co-mentions)
-- [[Ackerman Market]] (1 co-mentions)
-- [[Eravate]] (1 co-mentions)
-- [[Gabriel Enterprise]] (1 co-mentions)
-- [[Harma]] (1 co-mentions)
+- [[Irens Dock]] (3 co-mentions)
+- [[Fozard Dock]] (2 co-mentions)
+- [[HIP 19934]] (2 co-mentions)
+- [[Ackerman Market]] (2 co-mentions)
+- [[Eravate]] (2 co-mentions)
 
 ## Biography
 

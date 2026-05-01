@@ -4,9 +4,16 @@ title: Freelance Report  Keeping an Eye on Naval Expansion
 slug: freelance_report_keeping_an_eye_on_naval_expansion
 date: '3302-04-29'
 source: GitHub
+summary: Political commentator Walter Astoria defends the new Alliance outpost while criticising Federal and Imperial naval expansion on the talk show 'Affairs of State'. He warns that arms races between superpowers rarely cultivate peace.
+player_impact: None
+persons:
+- Walter Astoria
+- Commander Corrigendum
 groups:
 - Alliance
 - Emperor's Dawn
+locations:
+- Kausalya
 topics:
 - construction
 - ship

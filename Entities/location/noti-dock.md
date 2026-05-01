@@ -2,9 +2,9 @@
 id: noti-dock
 name: Noti Dock
 type: location
-first_seen_date: '3302-05-26'
+first_seen_date: '3302-04-14'
 last_seen_date: '3302-05-26'
-mention_count: 1
+mention_count: 3
 related_entities:
 - alliance
 - hip-19072
@@ -15,13 +15,13 @@ related_entities:
 
 # Noti Dock
 
-First mentioned: **3302-05-26**  
+First mentioned: **3302-04-14**  
 Last mentioned: **3302-05-26**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
+- [[Alliance]] (3 co-mentions)
 - [[HIP 19072]] (1 co-mentions)
 - [[Cooper Research Centre]] (1 co-mentions)
 

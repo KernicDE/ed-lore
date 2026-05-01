@@ -4,11 +4,17 @@ title: Community Goal  Bringing Back the Bourbon
 slug: community_goal_bringing_back_the_bourbon
 date: '3302-04-14'
 source: GitHub
+summary: The United Epsilon Indi Flag recruits pilots for 'Bribes 4 Bourbon', a campaign to decriminalise Indi Bourbon by smuggling rare liquors into Mansfield Orbiter. The Federation denounces the campaign as economic malfeasance.
+player_impact: Pilots smuggled rare liquors including Burnham Bile Distillate, Eranin Pearl Whisky, Leestian Evil Juice, and Wuthielo Ku Froth into Mansfield Orbiter in the Epsilon Indi system.
+persons:
+- Yulia Kuriakova
+groups:
+- United Epsilon Indi Flag
+- Pilots Federation
 locations:
-- Epsilon Indi
-- In a series of illicit meetings with
+- Epsilon Indi system
+- Mansfield Orbiter
 - Leesti
-- Rumours from the Epsilon Indi
 topics:
 - corporate expansion
 - crime

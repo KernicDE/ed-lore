@@ -2,32 +2,32 @@
 id: evejitaka
 name: Evejitaka
 type: location
-first_seen_date: '3302-05-20'
+first_seen_date: '3302-04-18'
 last_seen_date: '3302-05-20'
-mention_count: 1
+mention_count: 2
 related_entities:
+- fozard-dock
+- hip-19934
+- irens-dock
+- manite
 - ackerman-market
-- eravate
-- gabriel-enterprise
-- harma
-- weyn-dock
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Evejitaka
 
-First mentioned: **3302-05-20**  
+First mentioned: **3302-04-18**  
 Last mentioned: **3302-05-20**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Ackerman Market]] (1 co-mentions)
-- [[Eravate]] (1 co-mentions)
-- [[Gabriel Enterprise]] (1 co-mentions)
-- [[Harma]] (1 co-mentions)
-- [[Weyn Dock]] (1 co-mentions)
+- [[Fozard Dock]] (2 co-mentions)
+- [[HIP 19934]] (2 co-mentions)
+- [[Irens Dock]] (2 co-mentions)
+- [[Manite]] (2 co-mentions)
+- [[Ackerman Market]] (2 co-mentions)
 
 ## Biography
 

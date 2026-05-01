@@ -2,9 +2,9 @@
 id: alliance-tribune
 name: Alliance Tribune
 type: faction
-first_seen_date: '3304-07-06'
+first_seen_date: '3302-04-04'
 last_seen_date: '3312-01-26'
-mention_count: 16
+mention_count: 17
 related_entities:
 - alliance
 - alliance-assembly
@@ -17,9 +17,9 @@ related_entities:
 
 # Alliance Tribune
 
-First mentioned: **3304-07-06**  
+First mentioned: **3302-04-04**  
 Last mentioned: **3312-01-26**  
-Total mentions: **16**
+Total mentions: **17**
 
 ## Related
 

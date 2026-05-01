@@ -2,9 +2,9 @@
 id: altair
 name: Altair
 type: location
-first_seen_date: '3304-07-07'
+first_seen_date: '3302-04-07'
 last_seen_date: '3308-05-19'
-mention_count: 5
+mention_count: 7
 related_entities:
 - sol
 - mars
@@ -17,13 +17,13 @@ related_entities:
 
 # Altair
 
-First mentioned: **3304-07-07**  
+First mentioned: **3302-04-07**  
 Last mentioned: **3308-05-19**  
-Total mentions: **5**
+Total mentions: **7**
 
 ## Related
 
-- [[Sol]] (4 co-mentions)
+- [[Sol]] (5 co-mentions)
 - [[Mars]] (4 co-mentions)
 - [[Core Dynamics]] (3 co-mentions)
 - [[Biggs Colony]] (3 co-mentions)

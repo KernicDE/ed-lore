@@ -4,10 +4,15 @@ title: Freelance Report  Firefly Fandango Theory Disproven
 slug: freelance_report_firefly_fandango_theory_disproven
 date: '3302-04-04'
 source: GitHub
-entities:
-- Engalo's report
+summary: Dr Arcanonn announces that the 'firefly fandango' interaction between Unknown Artefacts and meta-alloys is disproven. What appeared to be pairs of dancing fireflies was actually a light diffraction effect from the UA distortion field.
+player_impact: None
+persons:
+- Dr Arcanonn
+- Commander Engalo
+- Locastan
+- Criosx
 groups:
-- Canonn
+- Canonn Interstellar Research Group
 topics:
 - investigation
 - research

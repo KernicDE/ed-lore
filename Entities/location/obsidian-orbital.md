@@ -23,9 +23,9 @@ Total mentions: **42**
 
 ## Related
 
-- [[Maia]] (28 co-mentions)
-- [[Ishmael Palin]] (8 co-mentions)
-- [[Canonn]] (7 co-mentions)
+- [[Maia]] (27 co-mentions)
+- [[Ishmael Palin]] (7 co-mentions)
+- [[Canonn]] (6 co-mentions)
 - [[Merope]] (6 co-mentions)
 - [[Pleiades Nebula]] (5 co-mentions)
 

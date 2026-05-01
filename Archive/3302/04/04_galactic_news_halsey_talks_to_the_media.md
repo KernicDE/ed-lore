@@ -4,10 +4,12 @@ title: Galactic News  Halsey Talks to the Media
 slug: galactic_news_halsey_talks_to_the_media
 date: '3302-04-04'
 source: GitHub
-entities:
-- Halsey what it
+summary: Former Federal President Jasmina Halsey speaks to reporters about the Starship One disaster, describing her experience drifting in space and claiming she encountered 'the true caretakers of our galaxy' — super-intelligent beings who spoke to her in the void.
+player_impact: None
+persons:
+- Jasmina Halsey
 groups:
-- Alliance
+- Alliance Tribune
 topics:
 - ship
 arc_id: halsey-presidency

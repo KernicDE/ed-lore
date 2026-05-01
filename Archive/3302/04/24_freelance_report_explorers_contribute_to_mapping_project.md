@@ -4,8 +4,16 @@ title: Freelance Report  Explorers Contribute to Mapping Project
 slug: freelance_report_explorers_contribute_to_mapping_project
 date: '3302-04-24'
 source: GitHub
+summary: Explorers gather at the Institute of Galactic Exploration and Research at Kippax Ring in the HIP 72043 system to contribute to the Sagittarius-Carina Mission, a project to chart the Sagittarius-Carina Arm from the galactic core to the rim.
+player_impact: Pilots contributed exploration data to the Sagittarius-Carina Mission charting project.
+persons:
+- Commander Corbin Moran
+groups:
+- First Great Expedition
 locations:
-- The
+- Kippax Ring
+- HIP 72043 system
+- Sagittarius-Carina Arm
 topics:
 - exploration
 - research

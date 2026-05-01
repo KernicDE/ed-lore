@@ -4,12 +4,19 @@ title: Galactic News  Congratulations to Distant Worlds Explorers
 slug: galactic_news_congratulations_to_distant_worlds_explorers
 date: '3302-04-08'
 source: GitHub
-entities:
-- Erimus
-- Kaii
-- Salomé
+summary: A transmission from Commander Salomé congratulates Dr Kaii and Commander Erimus on the Distant Worlds Expedition's colossal achievement. Early analysis of recovered data reveals new routes to Beagle Point, the Core, the Formidine Rift, and other regions.
+player_impact: None
+persons:
+- Commander Salomé
+- Dr Kaii
+- Commander Erimus
+- Karl Devene
+groups:
+- Mars High Astrocartography
 locations:
-- Mars
+- Beagle Point
+- Formidine Rift
+- Norma Expanse
 - Sol
 topics:
 - exploration

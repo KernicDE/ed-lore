@@ -2,12 +2,13 @@
 id: morrina-system
 name: Morrina system
 type: location
-first_seen_date: '3302-05-05'
+first_seen_date: '3302-04-07'
 last_seen_date: '3302-05-05'
-mention_count: 1
+mention_count: 4
 related_entities:
 - alliance
-- pilots-federation
+- morrina-pro-alliance-party
+- barjavel-vision
 - spinward-marches-alliance-concern
 - beaumont-dock
 ---
@@ -16,16 +17,17 @@ related_entities:
 
 # Morrina system
 
-First mentioned: **3302-05-05**  
+First mentioned: **3302-04-07**  
 Last mentioned: **3302-05-05**  
-Total mentions: **1**
+Total mentions: **4**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
-- [[Spinward Marches Alliance Concern]] (1 co-mentions)
-- [[Beaumont Dock]] (1 co-mentions)
+- [[Alliance]] (4 co-mentions)
+- [[Morrina Pro-Alliance Party]] (2 co-mentions)
+- [[Barjavel Vision]] (2 co-mentions)
+- [[Spinward Marches Alliance Concern]] (2 co-mentions)
+- [[Beaumont Dock]] (2 co-mentions)
 
 ## Biography
 

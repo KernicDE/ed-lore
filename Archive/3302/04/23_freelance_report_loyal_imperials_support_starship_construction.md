@@ -4,11 +4,18 @@ title: Freelance Report  Loyal Imperials Support Starship Construction
 slug: freelance_report_loyal_imperials_support_starship_construction
 date: '3302-04-23'
 source: GitHub
-entities:
-- Corrigendum
+summary: The Praetorians, a collective of former security contractors, commit their forces to defending the Mundjiga system and traders delivering materials for a new Majestic-class Interdictor. Loren's Legion will operate jointly with the Praetorians, protecting tantalum shipments from Prism.
+player_impact: Pilots delivered tantalum, gallium, and indium to Sagan Port in the Mundjiga system to support construction of the new Majestic-class Interdictor.
+persons:
+- Duke Alden Rowe
+- Commander Corrigendum
 groups:
 - Imperial Navy
+- Praetorians
+- Loren's Legion
 locations:
+- Mundjiga system
+- Sagan Port
 - Prism
 topics:
 - construction

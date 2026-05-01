@@ -4,10 +4,16 @@ title: Galactic News  Indi Bourbon Campaign Comes to an End
 slug: galactic_news_indi_bourbon_campaign_comes_to_an_end
 date: '3302-04-21'
 source: GitHub
+summary: The United Epsilon Indi Flag announces the successful decriminalisation of Indi Bourbon after hundreds of pilots flooded Mansfield Orbiter with illegal rare liquors. Spokesperson Yulia Kuriakova celebrates the victory over corporate interests.
+player_impact: Pilots smuggled rare liquors into Mansfield Orbiter in the Epsilon Indi system, successfully pressuring officials to reclassify Indi Bourbon.
+persons:
+- Yulia Kuriakova
 groups:
+- United Epsilon Indi Flag
 - Pilots Federation
 locations:
-- Epsilon Indi
+- Epsilon Indi system
+- Mansfield Orbiter
 topics:
 - corporate expansion
 - crime

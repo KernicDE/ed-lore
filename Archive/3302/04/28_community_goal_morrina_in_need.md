@@ -4,15 +4,17 @@ title: Community Goal  Morrina in Need
 slug: community_goal_morrina_in_need
 date: '3302-04-28'
 source: GitHub
-entities:
-- Dennehy released
-- Saool
+summary: The Spinward Marches Alliance Concern launches an appeal for basic medicines, water purifiers, and power generators to help the Morrina system recover from recent criminal gang activity and civil unrest. Commanders Saool and Dennehy coordinate the effort.
+player_impact: Pilots delivered basic medicines, water purifiers, and power generators to Beaumont Dock in the Morrina system.
+persons:
+- Commander Saool
+- Commander Dennehy
 groups:
 - Alliance
+- Spinward Marches Alliance Concern
 locations:
-- But we need more supplies to get the
-- Morrina
-- The people of the Morrina
+- Morrina system
+- Beaumont Dock
 topics:
 - crime
 - medicine

@@ -4,9 +4,12 @@ title: Galactic News  Concern over New Ship Modules
 slug: galactic_news_concern_over_new_ship_modules
 date: '3302-04-01'
 source: GitHub
-entities:
+summary: Concerns arise over Professor Lea Tantaga's Unknown Artefact-resistant ship modules, with critics fearing they will facilitate black-market UA trade. The technical team at Obsidian Orbital counters that meta-alloys can instead protect starports from UA-related malfunctions.
+player_impact: None
+persons:
 - Lea Tantaga
-- Tantaga
+groups:
+- Obsidian Orbital technical team
 locations:
 - Obsidian Orbital
 topics:

@@ -4,13 +4,13 @@ name: Ngobe
 type: location
 first_seen_date: '3301-11-19'
 last_seen_date: '3311-03-19'
-mention_count: 3
+mention_count: 4
 related_entities:
 - 49-arietis
 - 64-arietis
 - warkushanui
-- iapodes
-- sol
+- gurragchaa-gateway
+- hinz-hub
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-11-19**  
 Last mentioned: **3311-03-19**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
-- [[49 Arietis]] (2 co-mentions)
-- [[64 Arietis]] (2 co-mentions)
-- [[Warkushanui]] (2 co-mentions)
-- [[Iapodes]] (2 co-mentions)
-- [[Sol]] (2 co-mentions)
+- [[49 Arietis]] (3 co-mentions)
+- [[64 Arietis]] (3 co-mentions)
+- [[Warkushanui]] (3 co-mentions)
+- [[Gurragchaa Gateway]] (2 co-mentions)
+- [[Hinz Hub]] (2 co-mentions)
 
 ## Biography
 

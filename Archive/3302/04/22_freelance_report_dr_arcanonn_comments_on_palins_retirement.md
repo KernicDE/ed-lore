@@ -4,15 +4,16 @@ title: Freelance Report  Dr Arcanonn Comments on Palin's Retirement
 slug: freelance_report_dr_arcanonn_comments_on_palins_retirement
 date: '3302-04-22'
 source: GitHub
-entities:
-- Arcanonn
-- Arcanonn Comments
+summary: Dr Arcanonn of the Canonn Interstellar Research Group expresses solidarity with Professor Ishmael Palin's decision to retire from the Palin Institute. Arcanonn raises concerns about secretive convoys, Palin's abduction, and death threats received by scientists studying Unknown Artefacts and meta-alloys.
+player_impact: None
+persons:
+- Dr Arcanonn
 - Ishmael Palin
 groups:
-- Canonn
 - Canonn Interstellar Research Group
+- Palin Institute
 locations:
-- Maia
+- Maia A 3 a
 - Obsidian Orbital
 topics:
 - research

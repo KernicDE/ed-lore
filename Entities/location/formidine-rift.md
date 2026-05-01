@@ -2,32 +2,32 @@
 id: formidine-rift
 name: Formidine Rift
 type: location
-first_seen_date: '3302-10-14'
+first_seen_date: '3302-04-08'
 last_seen_date: '3303-02-03'
-mention_count: 2
+mention_count: 4
 related_entities:
-- earth-expeditionary-fleet
-- chi-orionis
-- perseus-arm
-- cassiopeia
-- children-of-raxxla
+- mars-high-astrocartography
+- beagle-point
+- norma-expanse
+- sol
+- rho-cassiopeiae
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Formidine Rift
 
-First mentioned: **3302-10-14**  
+First mentioned: **3302-04-08**  
 Last mentioned: **3303-02-03**  
-Total mentions: **2**
+Total mentions: **4**
 
 ## Related
 
-- [[Earth Expeditionary Fleet]] (1 co-mentions)
-- [[Chi Orionis]] (1 co-mentions)
-- [[Perseus Arm]] (1 co-mentions)
-- [[Cassiopeia]] (1 co-mentions)
-- [[Children of Raxxla]] (1 co-mentions)
+- [[Mars High Astrocartography]] (1 co-mentions)
+- [[Beagle Point]] (1 co-mentions)
+- [[Norma Expanse]] (1 co-mentions)
+- [[Sol]] (1 co-mentions)
+- [[Rho Cassiopeiae]] (1 co-mentions)
 
 ## Biography
 

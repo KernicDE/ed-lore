@@ -4,8 +4,15 @@ title: Galactic News  Greeboski's Outpost Campaign Concludes
 slug: galactic_news_greeboskis_outpost_campaign_concludes
 date: '3302-04-28'
 source: GitHub
-entities:
+summary: The Sovereign Justice Collective confirms that sufficient titanium has been received to upgrade Greeboski's Outpost in the Phiagre system. Hundreds of pilots responded to the appeal, and the outpost will now feature state-of-the-art services and facilities.
+player_impact: Pilots delivered titanium to Greeboski's Outpost in the Phiagre system, enabling the infrastructure upgrade.
+persons:
 - Zahra Arias
+groups:
+- Sovereign Justice Collective
+locations:
+- Greeboski's Outpost
+- Phiagre system
 topics:
 - construction
 modern_impact: Infrastructure project with long-term benefits.
