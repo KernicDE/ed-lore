@@ -4,18 +4,21 @@ title: Sirius Corporation Confirms Discovery of Antares Wreckage
 slug: sirius_corporation_confirms_discovery_of_antares_wreckage
 date: '3302-01-13'
 source: GitHub
+persons:
+- Li Yong-Rui
 groups:
-- Sirius Corp
 - Sirius Corporation
 - Sirius Gov
 locations:
 - Sirius
+technologies:
+- Antares drive technology
 topics:
-- corporate expansion
 - research
-- safety
 - ship
 arc_id: antares-mystery
+summary: The Sirius Corporation confirmed the discovery of the Antares wreckage, an innovative passenger liner that disappeared over fifty years ago. CEO Li Yong-Rui stated that analysis confirms the hyperdrive component failure described in the ship's final status report caused the destruction. The corporation hopes to determine the precise cause and potentially reintroduce the Antares's innovative drive technology.
+player_impact: Pilots who contributed to the debris collection effort can expect the analysis to lead to new safety protocols. The discovery may eventually result in new drive technology becoming available.
 modern_impact: Continues the investigation into the Antares disaster.
 legacy_weight: 3
 significance: medium

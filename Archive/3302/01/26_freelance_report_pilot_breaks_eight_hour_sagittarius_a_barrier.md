@@ -4,16 +4,22 @@ title: Freelance Report  Pilot Breaks Eight Hour Sagittarius A  Barrier
 slug: freelance_report_pilot_breaks_eight_hour_sagittarius_a_barrier
 date: '3302-01-26'
 source: GitHub
-entities:
+persons:
 - Alot
-- Alot ultimately succeeded
 - Anuranium
+- Alec Turner
+groups:
+- Buckyball Racing Club
 locations:
-- Sagittarius A*
 - Sol
+- Sagittarius A*
+technologies:
+- Anaconda
 topics:
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- sport
+summary: Commander Alot set a new Buckyball record by traveling from Sol to Sagittarius A* in 7 hours, 56 minutes, and 41 seconds, breaking the eight-hour barrier. The 25,900 light year journey was made in his Anaconda, Rhonda The Anaconda, improving on his previous record and the original 11-hour-46-minute record held by Commander Anuranium.
+player_impact: Pilots interested in speed-running can attempt to beat Commander Alot's Sol-to-Sagittarius A* record. The Buckyball Racing Club tracks official times for this and other endurance challenges.
+modern_impact: Documents the evolution of player-organized long-distance racing records and exploration speed challenges.
 legacy_weight: 1
 significance: low
 ---

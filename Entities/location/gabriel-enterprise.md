@@ -4,13 +4,13 @@ name: Gabriel Enterprise
 type: location
 first_seen_date: '3301-12-14'
 last_seen_date: '3303-08-04'
-mention_count: 7
+mention_count: 8
 related_entities:
 - harma
 - wolf-1301
 - saunderss-dive
-- ackerman-market
-- eravate
+- 64-arietis
+- arawere
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-12-14**  
 Last mentioned: **3303-08-04**  
-Total mentions: **7**
+Total mentions: **8**
 
 ## Related
 
-- [[Harma]] (7 co-mentions)
+- [[Harma]] (8 co-mentions)
 - [[Wolf 1301]] (4 co-mentions)
 - [[Saunders's Dive]] (4 co-mentions)
-- [[Ackerman Market]] (3 co-mentions)
-- [[Eravate]] (3 co-mentions)
+- [[64 Arietis]] (4 co-mentions)
+- [[Arawere]] (4 co-mentions)
 
 ## Biography
 

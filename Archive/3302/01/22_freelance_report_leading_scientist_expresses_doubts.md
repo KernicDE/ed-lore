@@ -4,22 +4,26 @@ title: Freelance Report  Leading Scientist Expresses Doubts
 slug: freelance_report_leading_scientist_expresses_doubts
 date: '3302-01-22'
 source: GitHub
-entities:
-- Palin's base
-- Stateira 'Starcloak' Eleshenar
+persons:
+- Ishmael Palin
 - Violet Belbin
+- Stateira 'Starcloak' Eleshenar
 groups:
+- Xenological Research Institute
 - Interstellar Press
 locations:
 - Maia
 - Obsidian Orbital
 - Pleiades Nebula
+technologies:
+- meta-alloys
 topics:
 - alien contact
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+summary: Professor Violet Belbin of the Xenological Research Institute expressed doubts about Professor Ishmael Palin's meta-alloy research, cautioning that the barnacles could be a form of alien life and that harvesting them might have unforeseen consequences. The XRI is sending a team to Maia to engage with Palin.
+player_impact: Pilots delivering meta-alloys to Obsidian Orbital should be aware that scientists disagree on the safety and implications of harvesting barnacle materials. The Xenological Research Institute urges caution.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---

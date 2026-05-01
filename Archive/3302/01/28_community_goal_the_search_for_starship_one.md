@@ -4,20 +4,23 @@ title: Community Goal  The Search for Starship One
 slug: community_goal_the_search_for_starship_one
 date: '3302-01-28'
 source: GitHub
+persons:
+- Zachary Hudson
+- Jasmina Halsey
 groups:
-- Sirius Corp
-- Sirius Corporation
+- Daurtu Jet Comms PLC
+- Federation
 locations:
 - Azaleach
-- Sirius
+- Leoniceno Orbital
+technologies:
+- Starship One
 topics:
-- corporate expansion
 - investigation
-- research
-- ship
-- war
-arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster.
+arc_id: starship-one-disappearance
+summary: Federal President Zachary Hudson announced a resumed search for Starship One, the presidential vessel that disappeared in May 3301 with then-President Jasmina Halsey aboard. Pilots are invited to deliver wreckage components to Leoniceno Orbital in the Azaleach system for analysis. A mysterious organization called Daurtu Jet Comms PLC is also offering rewards for the search, with even larger payouts than the Federation.
+player_impact: Pilots can search for Starship One wreckage and deliver components to Leoniceno Orbital in Azaleach for Federal rewards, or support Daurtu Jet Comms PLC for potentially higher payouts.
+modern_impact: Reopened one of the most significant mysteries in Federal politics, with implications for the fate of former President Jasmina Halsey.
 legacy_weight: 3
 significance: medium
 ---

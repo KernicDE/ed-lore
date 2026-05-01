@@ -2,32 +2,32 @@
 id: ackerman-market
 name: Ackerman Market
 type: location
-first_seen_date: '3302-02-24'
+first_seen_date: '3302-01-20'
 last_seen_date: '3302-05-20'
-mention_count: 4
+mention_count: 5
 related_entities:
 - eravate
-- von-bellingshausen-port
 - almar
-- haack-gateway
 - halbangaay
+- 64-arietis
+- arawere
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Ackerman Market
 
-First mentioned: **3302-02-24**  
+First mentioned: **3302-01-20**  
 Last mentioned: **3302-05-20**  
-Total mentions: **4**
+Total mentions: **5**
 
 ## Related
 
-- [[Eravate]] (4 co-mentions)
-- [[von Bellingshausen Port]] (3 co-mentions)
-- [[Almar]] (3 co-mentions)
-- [[Haack Gateway]] (3 co-mentions)
-- [[Halbangaay]] (3 co-mentions)
+- [[Eravate]] (5 co-mentions)
+- [[Almar]] (4 co-mentions)
+- [[Halbangaay]] (4 co-mentions)
+- [[64 Arietis]] (4 co-mentions)
+- [[Arawere]] (4 co-mentions)
 
 ## Biography
 

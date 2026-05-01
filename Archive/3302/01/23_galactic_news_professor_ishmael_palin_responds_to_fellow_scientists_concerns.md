@@ -4,20 +4,19 @@ title: Galactic News  Professor Ishmael Palin Responds to Fellow Scientist's Con
 slug: galactic_news_professor_ishmael_palin_responds_to_fellow_scientists_concerns
 date: '3302-01-23'
 source: GitHub
-entities:
-- Belbin
-- Belbin recently released
+persons:
 - Ishmael Palin
-- Ishmael Palin Responds
-- Palin
+- Violet Belbin
 locations:
 - Pleiades Nebula
+technologies:
+- meta-alloys
 topics:
-- construction
 - research
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+summary: Professor Ishmael Palin responded to Professor Violet Belbin's concerns about his meta-alloy research, stating that there is no evidence the material is harmful and that his team will take every precaution. Palin emphasized that he is not rushing to conclusions and is studying the meta-alloys precisely because their ability to counter starport malfunctions is still unknown.
+player_impact: Pilots can continue delivering meta-alloys to Palin's research base with the assurance that safety precautions are being taken, though scientific debate about the implications continues.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---

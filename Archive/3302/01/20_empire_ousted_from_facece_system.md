@@ -4,15 +4,17 @@ title: Empire Ousted from Facece System
 slug: empire_ousted_from_facece_system
 date: '3302-01-20'
 source: GitHub
-entities:
+persons:
 - Anders Blaine
+groups:
+- Allied Facece Order
+- Imperial Navy
 locations:
-- Allied Facece Order took control of the
 - Facece
-- The Facece
 topics:
-- crime
 - independence
+summary: The independent faction Allied Facece Order has seized control of the Facece system from the Empire after achieving strategic victories against Imperial Naval forces. Chancellor Anders Blaine, the system's former primary administrator, vowed that Imperial control would be restored and the rebels held accountable.
+player_impact: The Facece system is now under independent control. Pilots aligned with the Empire may seek to support Imperial efforts to retake the system, while independent pilots may support the Allied Facece Order.
 modern_impact: Independence movement challenging established political authority.
 legacy_weight: 2
 significance: low

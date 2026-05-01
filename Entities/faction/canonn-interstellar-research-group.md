@@ -9,8 +9,8 @@ related_entities:
 - merope
 - varati
 - maia
-- canonn
 - obsidian-orbital
+- varati-system
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **48**
 - [[Merope]] (13 co-mentions)
 - [[Varati]] (8 co-mentions)
 - [[Maia]] (7 co-mentions)
-- [[Canonn]] (6 co-mentions)
 - [[Obsidian Orbital]] (6 co-mentions)
+- [[Varati system]] (6 co-mentions)
 
 ## Biography
 

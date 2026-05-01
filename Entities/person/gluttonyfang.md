@@ -22,7 +22,7 @@ Total mentions: **1**
 ## Related
 
 - [[Corrigendum]] (1 co-mentions)
-- [[Stateira 'Starcloak' Eleshenar]] (1 co-mentions)
+- [[Stateira "Starcloak" Eleshenar]] (1 co-mentions)
 - [[Kumo Crew]] (1 co-mentions)
 
 ## Biography

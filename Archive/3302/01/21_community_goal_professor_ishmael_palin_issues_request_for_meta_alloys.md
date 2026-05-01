@@ -4,23 +4,21 @@ title: Community Goal  Professor Ishmael Palin Issues Request for Meta Alloys
 slug: community_goal_professor_ishmael_palin_issues_request_for_meta_alloys
 date: '3302-01-21'
 source: GitHub
-entities:
+persons:
 - Ishmael Palin
-- Ishmael Palin Issues Request
-- Palin
 locations:
 - Maia
 - Obsidian Orbital
 - Pleiades Nebula
+technologies:
+- meta-alloys
 topics:
 - alien contact
-- construction
-- medicine
 - research
-- war
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+summary: Professor Ishmael Palin issued a community appeal for pilots to deliver meta-alloys to his research base at Obsidian Orbital in the Maia system. Palin hopes to determine whether the material produced by alien barnacles can counter the technological plague affecting starports across the galaxy.
+player_impact: Pilots can deliver meta-alloys to Obsidian Orbital in Maia to help Professor Palin's research and earn rewards. This is a community goal with pledged compensation for contributors.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
 ---

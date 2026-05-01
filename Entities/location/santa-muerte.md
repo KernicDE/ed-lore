@@ -10,7 +10,7 @@ related_entities:
 - njambalba
 - clauss-port
 - clauss-incorporated
-- doot-stopped-by
+- diamond-frogs
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **5**
 - [[Njambalba]] (4 co-mentions)
 - [[Clauss Port]] (4 co-mentions)
 - [[Clauss Incorporated]] (3 co-mentions)
-- [[Doot stopped by]] (1 co-mentions)
+- [[Diamond Frogs]] (1 co-mentions)
 
 ## Biography
 

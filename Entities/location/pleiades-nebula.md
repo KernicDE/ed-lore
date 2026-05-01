@@ -4,13 +4,13 @@ name: Pleiades Nebula
 type: location
 first_seen_date: '3301-10-22'
 last_seen_date: '3307-05-13'
-mention_count: 51
+mention_count: 52
 related_entities:
 - aegis
 - federation
 - maia
 - empire
-- alliance
+- merope
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-10-22**  
 Last mentioned: **3307-05-13**  
-Total mentions: **51**
+Total mentions: **52**
 
 ## Related
 
@@ -27,7 +27,7 @@ Total mentions: **51**
 - [[Federation]] (11 co-mentions)
 - [[Maia]] (10 co-mentions)
 - [[Empire]] (10 co-mentions)
-- [[Alliance]] (9 co-mentions)
+- [[Merope]] (9 co-mentions)
 
 ## Biography
 

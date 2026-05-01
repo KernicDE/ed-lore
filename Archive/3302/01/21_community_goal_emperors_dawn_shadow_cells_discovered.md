@@ -4,23 +4,24 @@ title: Community Goal  Emperor's Dawn 'Shadow' Cells Discovered
 slug: community_goal_emperors_dawn_shadow_cells_discovered
 date: '3302-01-21'
 source: GitHub
-entities:
-- Denton Patreus indicates that
-- Patreus went
+persons:
+- Denton Patreus
 groups:
 - Emperor's Dawn
-- Federal Navy
 - Imperial Internal Security Service
+- Federal Navy
 locations:
-- Ipilyaqa and Ch'i Lin
+- Kausalya
+- Dakshmandi
+- Ipilyaqa
+- Ch'i Lin
 topics:
-- piracy
-- ship
 - succession
 - terrorism
 arc_id: imperial-succession
-modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial
-  politics and military policy.
+summary: Senator Denton Patreus revealed that Emperor's Dawn has survived the Federal Navy's destruction of its Kausalya base through secret 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems. The Imperial Internal Security Service discovered these hidden outposts, and Patreus has authorized privateer bonds for pilots who assist in neutralizing them.
+player_impact: Pilots can earn privateer bonds by helping destroy Emperor's Dawn shadow cells in the Dakshmandi, Ipilyaqa, and Ch'i Lin systems.
+modern_impact: Continued conflict between the Empire and Emperor's Dawn shapes Imperial politics and military policy.
 legacy_weight: 4
 significance: high
 ---

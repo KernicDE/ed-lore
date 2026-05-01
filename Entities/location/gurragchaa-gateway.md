@@ -9,8 +9,8 @@ related_entities:
 - warkushanui
 - 64-arietis
 - 49-arietis
-- harma
-- weyn-dock
+- hinz-hub
+- ngobe
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **9**
 - [[Warkushanui]] (9 co-mentions)
 - [[64 Arietis]] (6 co-mentions)
 - [[49 Arietis]] (5 co-mentions)
-- [[Harma]] (5 co-mentions)
-- [[Weyn Dock]] (5 co-mentions)
+- [[Hinz Hub]] (5 co-mentions)
+- [[Ngobe]] (5 co-mentions)
 
 ## Biography
 

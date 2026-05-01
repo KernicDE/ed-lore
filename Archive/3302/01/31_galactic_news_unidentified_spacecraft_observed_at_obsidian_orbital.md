@@ -4,13 +4,18 @@ title: Galactic News  Unidentified Spacecraft Observed at Obsidian Orbital
 slug: galactic_news_unidentified_spacecraft_observed_at_obsidian_orbital
 date: '3302-01-31'
 source: GitHub
+persons:
+- Chloe Anders
 locations:
-- Christian Dock
 - Obsidian Orbital
+- Christian Dock
+technologies:
+- Diamondback Explorer
 topics:
 - exploration
-- ship
-modern_impact: Ship review and release information for the pilot community.
+summary: "An unidentified Diamondback Explorer with the designation 'S6: 7' performed a high-speed pass and scanned Obsidian Orbital without responding to hails. Chloe Anders of the Christian Dock surveillance team reported the vessel circled the station at close range before departing abruptly, leading to speculation that it was searching for something."
+player_impact: Pilots in the Maia system should be alert for unidentified vessels scanning stations. The purpose of the mysterious Diamondback Explorer remains unknown.
+modern_impact: Adds to the growing mystery around Obsidian Orbital and unexplained activity in the Pleiades region.
 legacy_weight: 1
 significance: low
 ---

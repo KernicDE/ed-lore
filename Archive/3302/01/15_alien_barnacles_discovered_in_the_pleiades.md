@@ -4,24 +4,27 @@ title: Alien 'Barnacles' Discovered in the Pleiades
 slug: alien_barnacles_discovered_in_the_pleiades
 date: '3302-01-15'
 source: GitHub
-entities:
+persons:
 - Arcanonn
 - Octo
 - Snax
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
-- Maia
 - Merope
+- Maia
+- Pleiades Sector JC-U B3-2
 - Pleiades Nebula
+technologies:
+- meta-alloys
+- Unknown Artefacts
 topics:
 - alien contact
 - research
-- ship
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+summary: Dr Arcanonn of the Canonn Interstellar Research Group confirmed the discovery of alien 'barnacle' structures on at least two planets in the Pleiades Nebula. Commander Octo discovered the first barnacles on Merope 5c, with additional sites found on Pleiades Sector JC-U B3-2. The structures produce meta-alloys, emit sounds similar to Unknown Artefacts, bear mysterious markings, and cause ship malfunctions. Crashed ships have been found near many barnacles.
+player_impact: Pilots can visit the barnacle sites on Merope 5c and Pleiades Sector JC-U B3-2 to study meta-alloys, though they should expect ship malfunctions and potential danger from crashed ships in the vicinity.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
 ---

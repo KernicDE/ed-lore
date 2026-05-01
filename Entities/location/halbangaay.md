@@ -2,32 +2,32 @@
 id: halbangaay
 name: Halbangaay
 type: location
-first_seen_date: '3302-02-24'
+first_seen_date: '3302-01-20'
 last_seen_date: '3302-05-20'
-mention_count: 3
+mention_count: 4
 related_entities:
-- ackerman-market
 - eravate
-- von-bellingshausen-port
 - almar
-- haack-gateway
+- 64-arietis
+- arawere
+- harma
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Halbangaay
 
-First mentioned: **3302-02-24**  
+First mentioned: **3302-01-20**  
 Last mentioned: **3302-05-20**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
-- [[Ackerman Market]] (3 co-mentions)
-- [[Eravate]] (3 co-mentions)
-- [[von Bellingshausen Port]] (3 co-mentions)
-- [[Almar]] (3 co-mentions)
-- [[Haack Gateway]] (3 co-mentions)
+- [[Eravate]] (4 co-mentions)
+- [[Almar]] (4 co-mentions)
+- [[64 Arietis]] (4 co-mentions)
+- [[Arawere]] (4 co-mentions)
+- [[Harma]] (4 co-mentions)
 
 ## Biography
 

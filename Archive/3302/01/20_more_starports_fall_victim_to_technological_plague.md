@@ -5,28 +5,52 @@ slug: more_starports_fall_victim_to_technological_plague
 date: '3302-01-20'
 source: GitHub
 locations:
+- Eravate
+- Almar
+- Halbangaay
 - 49 Arietis
 - 64 Arietis
 - Alpha Centauri
-- Bond Hub
-- Coats Hub
-- Gaiman Dock
-- Gurragchaa Gateway
+- Arawere
+- Diaguandri
 - Harma
+- Iapodes
 - Nganji
+- Ngobe
+- Peregrina
+- Pic Tok
+- Rhea
 - Robigo
-- Robigo Mines
 - Sol
 - Varati
 - Warkushanui
-- Weyn Dock
 - Wolf 1301
+- HIP 18843
+- Ackerman Market
+- al-Din Prospect
+- Bond Hub
+- Carter Port
+- Coats Hub
+- Gaiman Dock
+- Gurragchaa Gateway
+- Haack Gateway
+- Hinz Hub
+- Korolyov Hub
+- Li Qing Jao
+- Lobachevsky Outpost
+- Ray Gateway
+- Robigo Mines
+- Saunders's Dive
+- Talos 2
+- Tsunenaga Dock
+- von Bellingshausen Port
+- Vizcaino Enterprise
+- Weyn Dock
 topics:
 - construction
-- medicine
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: The technological plague has spread to 22 systems, with Ackerman Market in Eravate, von Bellingshausen Port in Almar, and Haack Gateway in Halbangaay being the latest starports to suspend all services except docking and shipyard access. A complete list of affected stations is provided.
+player_impact: Pilots should check the list of affected starports before traveling, as many stations across inhabited space have suspended services. Alternative stations should be used for trade, repair, and other services.
+modern_impact: Documents the accelerating spread of the technological plague across inhabited space.
 legacy_weight: 2
 significance: low
 ---

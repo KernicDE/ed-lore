@@ -2,28 +2,32 @@
 id: first-great-expedition
 name: First Great Expedition
 type: faction
-first_seen_date: '3302-04-24'
+first_seen_date: '3302-01-12'
 last_seen_date: '3302-04-24'
-mention_count: 1
+mention_count: 2
 related_entities:
-- kippax-ring
-- hip-72043-system
-- sagittarius-carina-arm
+- pioneers-cooperative
+- utopia
+- lorens-legion
+- communism-interstellar
+- black-birds-squadron
 ---
 
 <!-- AUTO-GENERATED -->
 
 # First Great Expedition
 
-First mentioned: **3302-04-24**  
+First mentioned: **3302-01-12**  
 Last mentioned: **3302-04-24**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Kippax Ring]] (1 co-mentions)
-- [[HIP 72043 system]] (1 co-mentions)
-- [[Sagittarius-Carina Arm]] (1 co-mentions)
+- [[Pioneers Cooperative]] (1 co-mentions)
+- [[Utopia]] (1 co-mentions)
+- [[Loren's Legion]] (1 co-mentions)
+- [[Communism Interstellar]] (1 co-mentions)
+- [[Black Birds Squadron]] (1 co-mentions)
 
 ## Biography
 

@@ -7,8 +7,10 @@ source: GitHub
 locations:
 - Obsidian Orbital
 topics:
-- construction
-modern_impact: Infrastructure project with long-term benefits.
+- safety
+summary: The situation at Obsidian Orbital has worsened, with the station's technical team reporting that the starport is on the verge of suspending services due to escalating malfunctions caused by the technological plague.
+player_impact: Pilots visiting Obsidian Orbital should prepare for potential service suspensions. The station may soon limit operations like other affected starports.
+modern_impact: Documents the deteriorating situation at a community-built station during the technological plague crisis.
 legacy_weight: 2
 significance: low
 ---

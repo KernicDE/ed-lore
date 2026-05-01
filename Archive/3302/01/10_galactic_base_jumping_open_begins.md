@@ -4,11 +4,18 @@ title: Galactic Base Jumping Open Begins
 slug: galactic_base_jumping_open_begins
 date: '3302-01-10'
 source: GitHub
-entities:
-- Burias will be
+persons:
+- Burias
+- MeglaManiac
+- PeachSlicesV
+locations:
+- Njokujinun
+- Nyberg Vision Station
 topics:
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- sport
+summary: The first annual Galactic Base-Jumping Open begins on Planet 1 in the Njokujinun system, with base-jump champion Commander Burias authorizing jumps. The event features a 7.5 km+ qualification final with awards for best crash, longest freefall, and best galactic base jump.
+player_impact: Pilots can participate in the Galactic Base-Jumping Open at Njokujinun Planet 1. Emergency services are available at Nyberg Vision Station.
+modern_impact: Player-organized sporting event demonstrating community-driven activities beyond combat and trade.
 legacy_weight: 2
 significance: low
 ---

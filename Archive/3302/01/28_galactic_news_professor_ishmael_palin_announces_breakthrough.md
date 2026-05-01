@@ -4,17 +4,19 @@ title: Galactic News  Professor Ishmael Palin Announces Breakthrough
 slug: galactic_news_professor_ishmael_palin_announces_breakthrough
 date: '3302-01-28'
 source: GitHub
-entities:
+persons:
 - Ishmael Palin
 locations:
 - Obsidian Orbital
+technologies:
+- meta-alloys
+- Unknown Artefacts
 topics:
-- construction
 - research
-- ship
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+summary: Professor Ishmael Palin confirmed that Unknown Artefacts are the definitive cause of the starport malfunctions. He revealed that UAs can self-repair by extracting metals from their surroundings, including ship hulls and station superstructures, which explains the damage. Whether meta-alloys can counter this process is still under investigation.
+player_impact: Pilots should handle Unknown Artefacts with extreme caution, as even minor damage triggers a self-repair mechanism that extracts metals from nearby structures. Meta-alloy research continues at Obsidian Orbital.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---

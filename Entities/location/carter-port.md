@@ -2,32 +2,32 @@
 id: carter-port
 name: Carter Port
 type: location
-first_seen_date: '3302-02-24'
+first_seen_date: '3302-01-04'
 last_seen_date: '3302-05-20'
-mention_count: 3
+mention_count: 5
 related_entities:
-- ackerman-market
-- eravate
-- von-bellingshausen-port
-- almar
-- haack-gateway
+- 64-arietis
+- arawere
+- harma
+- pic-tok
+- rhea
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Carter Port
 
-First mentioned: **3302-02-24**  
+First mentioned: **3302-01-04**  
 Last mentioned: **3302-05-20**  
-Total mentions: **3**
+Total mentions: **5**
 
 ## Related
 
-- [[Ackerman Market]] (3 co-mentions)
-- [[Eravate]] (3 co-mentions)
-- [[von Bellingshausen Port]] (3 co-mentions)
-- [[Almar]] (3 co-mentions)
-- [[Haack Gateway]] (3 co-mentions)
+- [[64 Arietis]] (5 co-mentions)
+- [[Arawere]] (5 co-mentions)
+- [[Harma]] (5 co-mentions)
+- [[Pic Tok]] (5 co-mentions)
+- [[Rhea]] (5 co-mentions)
 
 ## Biography
 

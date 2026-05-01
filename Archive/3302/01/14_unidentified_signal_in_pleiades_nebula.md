@@ -9,8 +9,9 @@ locations:
 - Obsidian Orbital
 - Pleiades Nebula
 arc_id: pleiades-expansion
-modern_impact: Deep-space starport construction in the Pleiades Nebula opens new frontiers
-  for exploration.
+summary: A fragmentary, unidentified signal was received at Obsidian Orbital in the Maia system. The signal originated approximately 23 light years away, but a local black hole prevented vector determination. Only a degraded string of numbers was extracted, possibly coordinates. Pilots in the region are advised to remain vigilant.
+player_impact: Pilots in the Pleiades Nebula are advised to watch for unidentified signals and offer assistance if needed. The coordinates may lead to a discovery.
+modern_impact: Early indicator of mysterious activity in the Pleiades that would later connect to barnacle and Thargoid discoveries.
 legacy_weight: 3
 significance: medium
 ---

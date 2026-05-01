@@ -8,12 +8,7 @@ locations:
 - 49 Arietis
 - 64 Arietis
 - Arawere
-- Arietis
-- Bond Hub
-- Coats Hub
 - Diaguandri
-- Gaiman Dock
-- Gurragchaa Gateway
 - Harma
 - Nganji
 - Peregrina
@@ -22,12 +17,27 @@ locations:
 - Sol
 - Varati
 - Warkushanui
+- Gabriel Enterprise
+- Gaiman Dock
+- Gurragchaa Gateway
 - Weyn Dock
+- Korolyov Hub
+- Lobachevsky Outpost
+- Carter Port
+- Coats Hub
+- Bond Hub
+- Hinz Hub
+- Ngobe
+- Tsunenaga Dock
+- Li Qing Jao
+- Ray Gateway
+- Vizcaino Enterprise
+- Talos 2
 topics:
 - construction
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: Technical issues at Gabriel Enterprise in the Harma system have worsened, leading to suspension of all services except docking and shipyard access. Seven starports are now closed due to mysterious malfunctions, with additional stations across multiple systems experiencing technical issues.
+player_impact: Pilots should avoid affected starports or expect limited services. The article provides a complete list of stations with suspended or degrading services.
+modern_impact: Documents the early spread of the technological plague that would later be linked to Unknown Artefacts.
 legacy_weight: 2
 significance: low
 ---

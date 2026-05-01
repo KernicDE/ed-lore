@@ -4,13 +4,13 @@ name: Interstellar Press
 type: faction
 first_seen_date: '3301-08-19'
 last_seen_date: '3302-09-07'
-mention_count: 21
+mention_count: 20
 related_entities:
 - alliance
 - kumo-crew
 - alioth
 - imperial-navy
-- stateira-starcloak-eleshenar
+- corrigendum
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-08-19**  
 Last mentioned: **3302-09-07**  
-Total mentions: **21**
+Total mentions: **20**
 
 ## Related
 
@@ -27,7 +27,7 @@ Total mentions: **21**
 - [[Kumo Crew]] (3 co-mentions)
 - [[Alioth]] (3 co-mentions)
 - [[Imperial Navy]] (3 co-mentions)
-- [[Stateira 'Starcloak' Eleshenar]] (3 co-mentions)
+- [[Corrigendum]] (3 co-mentions)
 
 ## Biography
 

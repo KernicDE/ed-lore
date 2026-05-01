@@ -8,9 +8,9 @@ mention_count: 5
 related_entities:
 - 49-arietis
 - 64-arietis
-- bond-hub
-- coats-hub
-- gaiman-dock
+- arawere
+- diaguandri
+- harma
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **5**
 
 - [[49 Arietis]] (3 co-mentions)
 - [[64 Arietis]] (3 co-mentions)
-- [[Bond Hub]] (3 co-mentions)
-- [[Coats Hub]] (3 co-mentions)
-- [[Gaiman Dock]] (3 co-mentions)
+- [[Arawere]] (3 co-mentions)
+- [[Diaguandri]] (3 co-mentions)
+- [[Harma]] (3 co-mentions)
 
 ## Biography
 

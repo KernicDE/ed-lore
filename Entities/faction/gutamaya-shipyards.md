@@ -26,7 +26,7 @@ Total mentions: **5**
 - [[Imperial Navy]] (3 co-mentions)
 - [[Core Dynamics]] (2 co-mentions)
 - [[Corrigendum]] (1 co-mentions)
-- [[Stateira 'Starcloak' Eleshenar]] (1 co-mentions)
+- [[Stateira "Starcloak" Eleshenar]] (1 co-mentions)
 - [[Interstellar Press]] (1 co-mentions)
 
 ## Biography

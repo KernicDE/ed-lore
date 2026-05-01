@@ -10,7 +10,7 @@ related_entities:
 - azaleach-partnership
 - leoniceno-orbital-medical-staff
 - federal-times
-- federal-government
+- daurtu-jet-comms-plc
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **11**
 
 ## Related
 
-- [[Leoniceno Orbital]] (8 co-mentions)
+- [[Leoniceno Orbital]] (9 co-mentions)
 - [[Azaleach Partnership]] (3 co-mentions)
 - [[Leoniceno Orbital medical staff]] (3 co-mentions)
 - [[Federal Times]] (3 co-mentions)
-- [[Federal government]] (2 co-mentions)
+- [[Daurtu Jet Comms PLC]] (2 co-mentions)
 
 ## Biography
 

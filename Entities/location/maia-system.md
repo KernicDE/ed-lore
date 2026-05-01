@@ -24,7 +24,7 @@ Total mentions: **7**
 ## Related
 
 - [[Obsidian Orbital]] (6 co-mentions)
-- [[Pioneer's Cooperative]] (3 co-mentions)
+- [[Pioneers Cooperative]] (3 co-mentions)
 - [[Palin Institute]] (2 co-mentions)
 - [[Maia b1ba]] (2 co-mentions)
 - [[Canonn Interstellar Research Group]] (2 co-mentions)

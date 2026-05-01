@@ -4,16 +4,22 @@ title: Diamond Frogs Contribute to Christmas Initiative
 slug: diamond_frogs_contribute_to_christmas_initiative
 date: '3302-01-04'
 source: GitHub
-entities:
-- Doot stopped by
+persons:
+- Doot
 - Felix Dyson
 groups:
+- Diamond Frogs
 - Pilots Federation
 locations:
 - Santa Muerte
+technologies:
+- Imperial Cutter
+- Faulcon DeLacey Viper Mk IV
 topics:
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- community goal
+summary: "The Diamond Frogs private military contractors completed Operation: Mistle Toad, delivering 250,000 tonnes of personal gifts to the Santa Muerte system. Commander Doot contributed 704 tonnes in an Imperial Cutter. Event organizers also offered new Pilots Federation members a Faulcon DeLacey Viper Mk IV and cash rewards up to 100 million credits for top contributors."
+player_impact: Pilots could deliver personal gifts to Santa Muerte and receive rewards including a Viper Mk IV and up to 100 million credits for top 5% contributors.
+modern_impact: Community initiative demonstrating player-organized charitable operations and seasonal events in the galaxy.
 legacy_weight: 2
 significance: low
 ---

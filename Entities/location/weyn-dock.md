@@ -10,7 +10,7 @@ related_entities:
 - warkushanui
 - 49-arietis
 - gaiman-dock
-- varati
+- arawere
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **9**
 - [[Warkushanui]] (8 co-mentions)
 - [[49 Arietis]] (6 co-mentions)
 - [[Gaiman Dock]] (6 co-mentions)
-- [[Varati]] (5 co-mentions)
+- [[Arawere]] (6 co-mentions)
 
 ## Biography
 

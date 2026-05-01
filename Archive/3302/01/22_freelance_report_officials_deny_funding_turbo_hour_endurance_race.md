@@ -4,15 +4,21 @@ title: Freelance Report  Officials Deny Funding 'Turbo Hour' Endurance Race
 slug: freelance_report_officials_deny_funding_turbo_hour_endurance_race
 date: '3302-01-22'
 source: GitHub
+persons:
+- Hector LeMans
 groups:
 - Buckyball Racing Club
 locations:
-- Unkulcay and Vasak
+- Turbo
+- Kanwar Horizons
+- 49 D Orionis
+- Unkulcay
+- Vasak
 topics:
-- ship
 - sport
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: Officials at Kanwar Horizons in the Turbo system denied funding an unsanctioned Buckyball Racing Club event called the 'Turbo Hour Endurance Race', which is rumored to coincide with the station's annual air show. Station entertainment director Hector LeMans dismissed the allegations and warned racers about strict speed limits.
+player_impact: Pilots interested in the Turbo Hour Endurance Race or the air show should visit Kanwar Horizons in the Turbo system from January 25 to February 12.
+modern_impact: Community racing event highlighting player-organized sporting competitions.
 legacy_weight: 1
 significance: low
 ---

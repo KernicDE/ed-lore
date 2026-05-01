@@ -1,29 +1,33 @@
 ---
 id: pioneers-cooperative
-name: Pioneer's Cooperative
+name: Pioneers Cooperative
 type: faction
-first_seen_date: '3302-03-24'
-last_seen_date: '3302-03-31'
-mention_count: 3
+first_seen_date: '3302-01-12'
+last_seen_date: '3302-01-12'
+mention_count: 1
 related_entities:
-- maia-system
 - obsidian-orbital
-- canonn-interstellar-research-group
+- maia-system
+- utopia
+- lorens-legion
+- communism-interstellar
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Pioneer's Cooperative
+# Pioneers Cooperative
 
-First mentioned: **3302-03-24**  
-Last mentioned: **3302-03-31**  
-Total mentions: **3**
+First mentioned: **3302-01-12**  
+Last mentioned: **3302-01-12**  
+Total mentions: **1**
 
 ## Related
 
+- [[Obsidian Orbital]] (4 co-mentions)
 - [[Maia system]] (3 co-mentions)
-- [[Obsidian Orbital]] (3 co-mentions)
-- [[Canonn Interstellar Research Group]] (1 co-mentions)
+- [[Utopia]] (1 co-mentions)
+- [[Loren's Legion]] (1 co-mentions)
+- [[Communism Interstellar]] (1 co-mentions)
 
 ## Biography
 

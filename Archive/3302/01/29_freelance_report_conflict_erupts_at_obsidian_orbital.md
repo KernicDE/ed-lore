@@ -4,17 +4,19 @@ title: Freelance Report  Conflict Erupts at Obsidian Orbital
 slug: freelance_report_conflict_erupts_at_obsidian_orbital
 date: '3302-01-29'
 source: GitHub
+persons:
+- Manfred Winfred
 locations:
 - Maia
 - Obsidian Orbital
+technologies:
+- meta-alloys
 topics:
-- construction
-- festival
-- ship
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+summary: Anti-meta-alloy protests at Obsidian Orbital turned violent on the final day of Professor Palin's collection drive. Protestors blockaded the station entrance, and at least one pilot gathering meta-alloys was attacked by a Cutter while attempting to dock, losing shields and significant hull integrity before making it through the mail slot.
+player_impact: Pilots visiting Obsidian Orbital in Maia should exercise extreme caution, as anti-meta-alloy protestors have turned violent and are attacking ships attempting to deliver to the station.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---

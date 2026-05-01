@@ -4,19 +4,24 @@ title: The Canonn Searching for Barnacles in the Pleiades
 slug: the_canonn_searching_for_barnacles_in_the_pleiades
 date: '3302-01-08'
 source: GitHub
-entities:
+persons:
 - Arcanonn
+- Socha Korbemile
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
 - Merope
+- Pleiades Nebula
+technologies:
+- meta-alloys
+- Unknown Artefacts
+- planetary landing suite
 topics:
 - research
-- trade
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
-  and fuels the emerging Thargoid contact narrative.
+summary: Dr Arcanonn of the Canonn Interstellar Research Group announced a four-week investigation into meta-alloys and their connection to Unknown Artefacts. The group is conducting a deep planetary survey of Merope and urges pilots with planetary landing suites to search for large barnacles across the Pleiades.
+player_impact: Pilots with planetary landing suites are urged to search for large barnacles on planets in the Pleiades Nebula, particularly around Merope, to help study meta-alloys and their connection to Unknown Artefacts.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---

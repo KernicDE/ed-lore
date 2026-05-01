@@ -2,32 +2,32 @@
 id: al-din-prospect
 name: al-Din Prospect
 type: location
-first_seen_date: '3302-02-24'
+first_seen_date: '3302-01-20'
 last_seen_date: '3302-02-24'
-mention_count: 1
+mention_count: 2
 related_entities:
-- obsidian-orbital-technical-team
-- ackerman-market
 - eravate
-- von-bellingshausen-port
 - almar
+- halbangaay
+- 49-arietis
+- 64-arietis
 ---
 
 <!-- AUTO-GENERATED -->
 
 # al-Din Prospect
 
-First mentioned: **3302-02-24**  
+First mentioned: **3302-01-20**  
 Last mentioned: **3302-02-24**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Obsidian Orbital technical team]] (1 co-mentions)
-- [[Ackerman Market]] (1 co-mentions)
-- [[Eravate]] (1 co-mentions)
-- [[von Bellingshausen Port]] (1 co-mentions)
-- [[Almar]] (1 co-mentions)
+- [[Eravate]] (2 co-mentions)
+- [[Almar]] (2 co-mentions)
+- [[Halbangaay]] (2 co-mentions)
+- [[49 Arietis]] (2 co-mentions)
+- [[64 Arietis]] (2 co-mentions)
 
 ## Biography
 

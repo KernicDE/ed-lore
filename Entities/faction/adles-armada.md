@@ -2,32 +2,32 @@
 id: adles-armada
 name: Adle's Armada
 type: faction
-first_seen_date: '3302-03-16'
+first_seen_date: '3302-01-12'
 last_seen_date: '3303-06-30'
-mention_count: 2
+mention_count: 3
 related_entities:
-- blood-brothers
-- ronin-of-amarak
-- triadius
-- contrail
-- balkan-intergalactic-guerrillas
+- pioneers-cooperative
+- utopia
+- lorens-legion
+- communism-interstellar
+- black-birds-squadron
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Adle's Armada
 
-First mentioned: **3302-03-16**  
+First mentioned: **3302-01-12**  
 Last mentioned: **3303-06-30**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Blood Brothers]] (1 co-mentions)
-- [[Ronin of Amarak]] (1 co-mentions)
-- [[Triadius]] (1 co-mentions)
-- [[Contrail]] (1 co-mentions)
-- [[Balkan Intergalactic Guerrillas]] (1 co-mentions)
+- [[Pioneers Cooperative]] (1 co-mentions)
+- [[Utopia]] (1 co-mentions)
+- [[Loren's Legion]] (1 co-mentions)
+- [[Communism Interstellar]] (1 co-mentions)
+- [[Black Birds Squadron]] (1 co-mentions)
 
 ## Biography
 

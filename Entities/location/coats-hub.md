@@ -10,7 +10,7 @@ related_entities:
 - warkushanui
 - 49-arietis
 - 64-arietis
-- bond-hub
+- arawere
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **4**
 - [[Warkushanui]] (4 co-mentions)
 - [[49 Arietis]] (3 co-mentions)
 - [[64 Arietis]] (3 co-mentions)
-- [[Bond Hub]] (3 co-mentions)
+- [[Arawere]] (3 co-mentions)
 
 ## Biography
 

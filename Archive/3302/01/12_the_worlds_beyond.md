@@ -4,25 +4,37 @@ title: The Worlds Beyond
 slug: the_worlds_beyond
 date: '3302-01-12'
 source: GitHub
-entities:
+persons:
 - Gan
 groups:
+- Pioneers Cooperative
+- Utopia
+- Loren's Legion
+- Communism Interstellar
+- Black Birds Squadron
 - Aisling's Angels
 - Canonn
+- Independent Pilots Consortium
 - Emperor's Grace
-- Interstellar Press
-- Utopia
+- Mercs of Mikunn
+- United German Commanders
+- EXO
+- First Great Expedition
+- the Code
+- Adle's Armada
+- Guardians of Harmony
+- CHIMERA
+- Distant Worlds Admins
+- Hutton Orbital Truckers
 locations:
 - Maia
 - Obsidian Orbital
+- Takurua
 topics:
 - exploration
-- research
-- sport
-- succession
-- war
-- xenoarchaeology
-modern_impact: Notable exploration achievement.
+summary: Utopian delegates and representatives from numerous pilot organizations attended the first symposium of the Pioneers Cooperative, a group supporting expansion into uninhabited space. The success of Obsidian Orbital in Maia and the Utopian commune in Takurua were cited as proof that expansion beyond core systems is viable.
+player_impact: Pilots interested in deep-space expansion can join or support the Pioneers Cooperative and affiliated organizations working to push humanity's frontier beyond the core systems.
+modern_impact: Documents the formation of organized deep-space expansion efforts and cooperative exploration initiatives.
 legacy_weight: 1
 significance: low
 ---

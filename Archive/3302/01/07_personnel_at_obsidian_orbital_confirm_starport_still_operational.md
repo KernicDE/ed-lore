@@ -7,10 +7,10 @@ source: GitHub
 locations:
 - Obsidian Orbital
 topics:
-- construction
-- medicine
 - safety
-modern_impact: Pilot safety initiative with potential regulatory implications.
+summary: Despite being affected by the mysterious starport malfunctions sweeping the galaxy, personnel at Obsidian Orbital are working around the clock to keep all services operational. They have not yet found a solution to the technological plague.
+player_impact: Obsidian Orbital remains fully operational for now, offering pilots a safe harbor in the affected region. The station may need continued community support.
+modern_impact: Demonstrates community-built station resilience during the technological plague crisis.
 legacy_weight: 1
 significance: low
 ---

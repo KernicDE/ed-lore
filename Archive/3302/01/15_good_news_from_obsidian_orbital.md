@@ -7,15 +7,15 @@ source: GitHub
 locations:
 - Obsidian Orbital
 - Pleiades Nebula
+technologies:
+- meta-alloys
 topics:
 - alien contact
-- construction
-- medicine
 - safety
-- trade
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien
-  contact, fundamentally changing humanity's place in the galaxy.
+summary: Following the discovery of alien barnacles in the Pleiades Nebula, technical personnel at Obsidian Orbital conducted an eleventh-hour experiment using meta-alloys. The experiment appears to have countered the mysterious malfunctions affecting the station, bringing cautious optimism that the technological plague may have a cure.
+player_impact: Pilots can deliver meta-alloys to affected starports. Obsidian Orbital's experiment suggests meta-alloys may counter the technological plague, though the exact mechanism and permanence are unknown.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
 ---

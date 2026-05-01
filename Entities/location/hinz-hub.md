@@ -4,7 +4,7 @@ name: Hinz Hub
 type: location
 first_seen_date: '3301-11-19'
 last_seen_date: '3302-04-18'
-mention_count: 3
+mention_count: 5
 related_entities:
 - 49-arietis
 - 64-arietis
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-11-19**  
 Last mentioned: **3302-04-18**  
-Total mentions: **3**
+Total mentions: **5**
 
 ## Related
 
-- [[49 Arietis]] (3 co-mentions)
-- [[64 Arietis]] (3 co-mentions)
-- [[Gurragchaa Gateway]] (3 co-mentions)
-- [[Warkushanui]] (3 co-mentions)
-- [[Ngobe]] (3 co-mentions)
+- [[49 Arietis]] (5 co-mentions)
+- [[64 Arietis]] (5 co-mentions)
+- [[Gurragchaa Gateway]] (5 co-mentions)
+- [[Warkushanui]] (5 co-mentions)
+- [[Ngobe]] (5 co-mentions)
 
 ## Biography
 

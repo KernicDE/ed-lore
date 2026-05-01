@@ -3,8 +3,8 @@ id: anders-blaine
 name: Anders Blaine
 type: person
 first_seen_date: '3301-07-14'
-last_seen_date: '3302-01-20'
-mention_count: 7
+last_seen_date: '3301-09-28'
+mention_count: 6
 related_entities:
 - imperial-navy
 - imperial-palace
@@ -18,8 +18,8 @@ related_entities:
 # Anders Blaine
 
 First mentioned: **3301-07-14**  
-Last mentioned: **3302-01-20**  
-Total mentions: **7**
+Last mentioned: **3301-09-28**  
+Total mentions: **6**
 
 ## Related
 

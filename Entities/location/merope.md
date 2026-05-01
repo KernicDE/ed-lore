@@ -10,7 +10,7 @@ related_entities:
 - canonn-interstellar-research-group
 - federation
 - aegis
-- merope-expeditionary-fleet
+- pleiades-nebula
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **54**
 - [[Canonn Interstellar Research Group]] (13 co-mentions)
 - [[Federation]] (12 co-mentions)
 - [[Aegis]] (10 co-mentions)
-- [[Merope Expeditionary Fleet]] (9 co-mentions)
+- [[Pleiades Nebula]] (9 co-mentions)
 
 ## Biography
 

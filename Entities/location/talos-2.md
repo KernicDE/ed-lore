@@ -2,32 +2,32 @@
 id: talos-2
 name: Talos 2
 type: location
-first_seen_date: '3302-02-24'
+first_seen_date: '3302-01-04'
 last_seen_date: '3302-02-24'
-mention_count: 1
+mention_count: 3
 related_entities:
-- obsidian-orbital-technical-team
-- ackerman-market
-- eravate
-- von-bellingshausen-port
-- almar
+- 49-arietis
+- 64-arietis
+- arawere
+- diaguandri
+- harma
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Talos 2
 
-First mentioned: **3302-02-24**  
+First mentioned: **3302-01-04**  
 Last mentioned: **3302-02-24**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Obsidian Orbital technical team]] (1 co-mentions)
-- [[Ackerman Market]] (1 co-mentions)
-- [[Eravate]] (1 co-mentions)
-- [[von Bellingshausen Port]] (1 co-mentions)
-- [[Almar]] (1 co-mentions)
+- [[49 Arietis]] (3 co-mentions)
+- [[64 Arietis]] (3 co-mentions)
+- [[Arawere]] (3 co-mentions)
+- [[Diaguandri]] (3 co-mentions)
+- [[Harma]] (3 co-mentions)
 
 ## Biography
 

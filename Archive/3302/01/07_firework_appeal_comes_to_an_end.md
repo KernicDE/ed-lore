@@ -4,7 +4,16 @@ title: Firework Appeal Comes to an End
 slug: firework_appeal_comes_to_an_end
 date: '3302-01-07'
 source: GitHub
-modern_impact: GalNet community report documenting current events in the galaxy.
+groups:
+- Independent Cherets Labour
+locations:
+- Cherets
+- Bucky Hub
+topics:
+- community goal
+summary: Independent Cherets Labour announced that its appeal for Anduliga Fireworks was successful, with independent combat pilots protecting delivery routes to Bucky Hub in the Cherets system. Contributors will be rewarded.
+player_impact: Pilots delivered fireworks to Bucky Hub in Cherets and defended traders from agitators. Rewards are available for contributors from la Cosa City.
+modern_impact: Community goal demonstrating cooperative trade and combat defense operations.
 legacy_weight: 2
 significance: low
 ---

@@ -4,12 +4,16 @@ title: Community Goal  Campaign to Develop i Sola Prospect
 slug: community_goal_campaign_to_develop_i_sola_prospect
 date: '3302-01-28'
 source: GitHub
+groups:
+- Imperial Inquisition
 locations:
-- Sol
+- Brestla
+- i Sola Prospect
 topics:
-- ship
-- sport
-modern_impact: Ship review and release information for the pilot community.
+- community goal
+summary: The Imperial Inquisition launched a community campaign to develop the i Sola Prospect outpost on Brestla A1, requesting industrial materials to upgrade the station. If successful, the outpost will become the first planetary station to offer a complete range of services including a comprehensive shipyard.
+player_impact: Pilots can deliver industrial materials to i Sola Prospect on Brestla A1 to help upgrade the outpost. Success will unlock complete outfitting and shipyard services at the first full-service planetary outpost.
+modern_impact: Community goal demonstrating infrastructure development and the expansion of services to planetary outposts.
 legacy_weight: 1
 significance: low
 ---

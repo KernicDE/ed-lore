@@ -9,8 +9,8 @@ related_entities:
 - gaiman-dock
 - warkushanui
 - 64-arietis
+- ngobe
 - weyn-dock
-- gurragchaa-gateway
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **8**
 - [[Gaiman Dock]] (7 co-mentions)
 - [[Warkushanui]] (7 co-mentions)
 - [[64 Arietis]] (7 co-mentions)
+- [[Ngobe]] (6 co-mentions)
 - [[Weyn Dock]] (6 co-mentions)
-- [[Gurragchaa Gateway]] (5 co-mentions)
 
 ## Biography
 

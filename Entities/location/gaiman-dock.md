@@ -27,7 +27,7 @@ Total mentions: **7**
 - [[Warkushanui]] (6 co-mentions)
 - [[64 Arietis]] (6 co-mentions)
 - [[Weyn Dock]] (6 co-mentions)
-- [[Arawere]] (4 co-mentions)
+- [[Arawere]] (5 co-mentions)
 
 ## Biography
 

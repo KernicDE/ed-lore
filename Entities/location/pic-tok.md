@@ -4,13 +4,13 @@ name: Pic Tok
 type: location
 first_seen_date: '3302-01-04'
 last_seen_date: '3302-05-20'
-mention_count: 4
+mention_count: 5
 related_entities:
 - 64-arietis
 - arawere
-- gurragchaa-gateway
 - harma
 - rhea
+- warkushanui
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3302-01-04**  
 Last mentioned: **3302-05-20**  
-Total mentions: **4**
+Total mentions: **5**
 
 ## Related
 
-- [[64 Arietis]] (4 co-mentions)
-- [[Arawere]] (4 co-mentions)
-- [[Gurragchaa Gateway]] (4 co-mentions)
-- [[Harma]] (4 co-mentions)
-- [[Rhea]] (4 co-mentions)
+- [[64 Arietis]] (5 co-mentions)
+- [[Arawere]] (5 co-mentions)
+- [[Harma]] (5 co-mentions)
+- [[Rhea]] (5 co-mentions)
+- [[Warkushanui]] (5 co-mentions)
 
 ## Biography
 

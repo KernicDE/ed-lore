@@ -2,9 +2,9 @@
 id: federation
 name: Federation
 type: faction
-first_seen_date: '3302-07-01'
+first_seen_date: '3302-01-28'
 last_seen_date: '3311-11-27'
-mention_count: 107
+mention_count: 108
 related_entities:
 - empire
 - alliance
@@ -17,9 +17,9 @@ related_entities:
 
 # Federation
 
-First mentioned: **3302-07-01**  
+First mentioned: **3302-01-28**  
 Last mentioned: **3311-11-27**  
-Total mentions: **107**
+Total mentions: **108**
 
 ## Related
 

@@ -4,13 +4,13 @@ name: Rhea
 type: location
 first_seen_date: '3302-01-04'
 last_seen_date: '3311-05-15'
-mention_count: 23
+mention_count: 24
 related_entities:
 - sirius-corporation
-- alliance
 - 64-arietis
 - arawere
-- gurragchaa-gateway
+- harma
+- pic-tok
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3302-01-04**  
 Last mentioned: **3311-05-15**  
-Total mentions: **23**
+Total mentions: **24**
 
 ## Related
 
 - [[Sirius Corporation]] (6 co-mentions)
-- [[Alliance]] (5 co-mentions)
-- [[64 Arietis]] (4 co-mentions)
-- [[Arawere]] (4 co-mentions)
-- [[Gurragchaa Gateway]] (4 co-mentions)
+- [[64 Arietis]] (5 co-mentions)
+- [[Arawere]] (5 co-mentions)
+- [[Harma]] (5 co-mentions)
+- [[Pic Tok]] (5 co-mentions)
 
 ## Biography
 

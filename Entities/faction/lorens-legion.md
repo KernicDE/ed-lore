@@ -2,32 +2,32 @@
 id: lorens-legion
 name: Loren's Legion
 type: faction
-first_seen_date: '3302-04-23'
+first_seen_date: '3302-01-12'
 last_seen_date: '3303-03-16'
-mention_count: 6
+mention_count: 7
 related_entities:
 - prism
 - hirams-anchorage
-- federal-times
-- core-dynamics
-- imperial-navy
+- pioneers-cooperative
+- utopia
+- communism-interstellar
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Loren's Legion
 
-First mentioned: **3302-04-23**  
+First mentioned: **3302-01-12**  
 Last mentioned: **3303-03-16**  
-Total mentions: **6**
+Total mentions: **7**
 
 ## Related
 
 - [[Prism]] (6 co-mentions)
 - [[Hiram's Anchorage]] (4 co-mentions)
-- [[Federal Times]] (1 co-mentions)
-- [[Core Dynamics]] (1 co-mentions)
-- [[Imperial Navy]] (1 co-mentions)
+- [[Pioneers Cooperative]] (1 co-mentions)
+- [[Utopia]] (1 co-mentions)
+- [[Communism Interstellar]] (1 co-mentions)
 
 ## Biography
 

@@ -24,7 +24,7 @@ Total mentions: **5**
 ## Related
 
 - [[Interstellar Press]] (3 co-mentions)
-- [[Stateira 'Starcloak' Eleshenar]] (2 co-mentions)
+- [[Stateira "Starcloak" Eleshenar]] (2 co-mentions)
 - [[Kumo Crew]] (2 co-mentions)
 - [[Jameson Memorial Review]] (2 co-mentions)
 - [[Jameson Memorial]] (2 co-mentions)
