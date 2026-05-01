@@ -9,7 +9,9 @@ related_entities:
 - wolves-of-jonai
 - hr-7047
 - grant-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Jonai%20Merchant%27s%20Guild
 ---
+
 
 <!-- AUTO-GENERATED -->
 

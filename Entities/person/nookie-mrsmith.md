@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-12-06'
 last_seen_date: '3302-12-16'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Nookie%20Mr.Smith
 ---
+
 
 <!-- AUTO-GENERATED -->
 

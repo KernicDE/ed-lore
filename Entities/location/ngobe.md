@@ -11,7 +11,21 @@ related_entities:
 - warkushanui
 - gurragchaa-gateway
 - hinz-hub
+coords:
+  x: -7.84375
+  y: -124.09375
+  z: -164.09375
+allegiance: Independent
+government: Democracy
+controlling_faction: Future of Ngobe
+population: 7029979
+security: Medium
+economy: Service
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Ngobe
+inara_url: https://inara.cz/elite/starsystem/?search=Ngobe
 ---
+
 
 <!-- AUTO-GENERATED -->
 

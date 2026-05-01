@@ -9,7 +9,9 @@ related_entities:
 - universal-cartographics
 - new-yembo
 - hip-101110
+inara_url: https://inara.cz/elite/minorfaction/?search=EAUC
 ---
+
 
 <!-- AUTO-GENERATED -->
 

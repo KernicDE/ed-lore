@@ -11,7 +11,9 @@ related_entities:
 - achenar
 - sirius-corporation
 - imperial-herald
+inara_url: https://inara.cz/elite/minorfaction/?search=Marlinist
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - universal-cartographics
 - brewer-corporation
 - neville-horizons
+inara_url: https://inara.cz/elite/minorfaction/?search=Explorers%27%20Association
 ---
+
 
 <!-- AUTO-GENERATED -->
 

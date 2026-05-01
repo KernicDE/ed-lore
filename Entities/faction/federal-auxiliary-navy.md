@@ -9,7 +9,9 @@ related_entities:
 - federation
 - merope
 - obsidian-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Auxiliary%20Navy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

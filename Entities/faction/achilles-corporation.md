@@ -11,7 +11,9 @@ related_entities:
 - herculean-machines
 - supratech
 - sirius-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Achilles%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

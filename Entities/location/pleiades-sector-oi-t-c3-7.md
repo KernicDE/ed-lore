@@ -11,7 +11,21 @@ related_entities:
 - empire
 - orcus-crag
 - pre-logistics-support-beta
+coords:
+  x: -69.4375
+  y: -180.4375
+  z: -287.625
+allegiance: Empire
+government: Patronage
+controlling_faction: Knights of the People
+population: 50000
+security: Medium
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20OI-T%20c3-7
+inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20OI-T%20c3-7
 ---
+
 
 <!-- AUTO-GENERATED -->
 

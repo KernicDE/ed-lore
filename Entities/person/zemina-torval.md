@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-02-16'
 last_seen_date: '3311-07-17'
 mention_count: 64
+inara_url: https://inara.cz/elite/cmdr-search/?search=Zemina%20Torval
 ---
+
 
 <!-- AUTO-GENERATED -->
 

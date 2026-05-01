@@ -11,7 +11,21 @@ related_entities:
 - novas
 - sosong
 - chanjie
+coords:
+  x: 81.625
+  y: 3.15625
+  z: 20
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Enforcement Division
+population: 19275935
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Lesheima
+inara_url: https://inara.cz/elite/starsystem/?search=Lesheima
 ---
+
 
 <!-- AUTO-GENERATED -->
 

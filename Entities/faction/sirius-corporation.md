@@ -11,7 +11,9 @@ related_entities:
 - alioth
 - utopia
 - reorte
+inara_url: https://inara.cz/elite/minorfaction/?search=Sirius%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

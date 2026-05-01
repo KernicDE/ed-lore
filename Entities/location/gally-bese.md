@@ -11,7 +11,20 @@ related_entities:
 - hr-4979
 - wolf-294
 - lambda-2-tucanae
+coords:
+  x: 128.78125
+  y: -44.1875
+  z: 0.5625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Interstellar Tachyon Fleet
+population: 163180
+security: Medium
+economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Gally%20Bese
+inara_url: https://inara.cz/elite/starsystem/?search=Gally%20Bese
 ---
+
 
 <!-- AUTO-GENERATED -->
 

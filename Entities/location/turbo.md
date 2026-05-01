@@ -11,7 +11,21 @@ related_entities:
 - 49-d-orionis
 - unkulcay
 - vasak
+coords:
+  x: 47.34375
+  y: -52.96875
+  z: -121.90625
+allegiance: Independent
+government: Corporate
+controlling_faction: Turbo Incorporated
+population: 3461673
+security: Low
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Turbo
+inara_url: https://inara.cz/elite/starsystem/?search=Turbo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

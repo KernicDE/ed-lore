@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-03-01'
 last_seen_date: '3305-03-01'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Willard%20Morgenstern
 ---
+
 
 <!-- AUTO-GENERATED -->
 

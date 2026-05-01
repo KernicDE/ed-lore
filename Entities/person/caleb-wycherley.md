@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-06-03'
 last_seen_date: '3309-12-21'
 mention_count: 12
+inara_url: https://inara.cz/elite/cmdr-search/?search=Caleb%20Wycherley
 ---
+
 
 <!-- AUTO-GENERATED -->
 

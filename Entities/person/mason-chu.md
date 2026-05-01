@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-10-23'
 last_seen_date: '3305-10-23'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Mason%20Chu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-05-30'
 last_seen_date: '3301-05-30'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Lieutenant%20Barringer
 ---
+
 
 <!-- AUTO-GENERATED -->
 

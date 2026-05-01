@@ -11,7 +11,21 @@ related_entities:
 - eravate
 - von-bellingshausen-port
 - almar
+coords:
+  x: -8.46875
+  y: -19.21875
+  z: 166.90625
+allegiance: Empire
+government: Patronage
+controlling_faction: The Dark Armada
+population: 5327370
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Manite
+inara_url: https://inara.cz/elite/starsystem/?search=Manite
 ---
+
 
 <!-- AUTO-GENERATED -->
 

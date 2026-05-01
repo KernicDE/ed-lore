@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - imperial-senate
 - merope
+inara_url: https://inara.cz/elite/minorfaction/?search=Task%20Force%20Athena
 ---
+
 
 <!-- AUTO-GENERATED -->
 

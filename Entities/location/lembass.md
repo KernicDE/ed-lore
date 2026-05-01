@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - alliance-expeditionary-pact
 - witch-head-nebula
+coords:
+  x: 385.625
+  y: -388.21875
+  z: -738.09375
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Vanguard Crew
+population: 66750
+security: High
+economy: Agriculture
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Lembass
+inara_url: https://inara.cz/elite/starsystem/?search=Lembass
 ---
+
 
 <!-- AUTO-GENERATED -->
 

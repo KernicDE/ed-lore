@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3307-07-08'
 last_seen_date: '3307-07-23'
 mention_count: 5
+inara_url: https://inara.cz/elite/commodity/?search=Helix%20drug
 ---
+
 
 <!-- AUTO-GENERATED -->
 

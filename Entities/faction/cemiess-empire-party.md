@@ -11,7 +11,9 @@ related_entities:
 - mackenzie-relay
 - iiss
 - emperors-dawn
+inara_url: https://inara.cz/elite/minorfaction/?search=Cemiess%20Empire%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

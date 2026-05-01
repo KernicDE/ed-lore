@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: 10.03125
+  y: -104.3125
+  z: -55.53125
+allegiance: Independent
+government: Corporate
+controlling_faction: Ukrainian Pilots Federation
+population: 413032873
+security: Medium
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Bommatsuri
+inara_url: https://inara.cz/elite/starsystem/?search=Bommatsuri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

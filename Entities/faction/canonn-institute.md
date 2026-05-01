@@ -10,7 +10,9 @@ related_entities:
 - col-285-sector-ix-t-d3-43
 - interstellar-press
 - pleiades-sector-ab-w-b2-4
+inara_url: https://inara.cz/elite/minorfaction/?search=Canonn%20Institute
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3303-12-17'
 last_seen_date: '3303-12-22'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Type-10%20Defender
 ---
+
 
 <!-- AUTO-GENERATED -->
 

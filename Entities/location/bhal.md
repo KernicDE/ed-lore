@@ -11,7 +11,21 @@ related_entities:
 - nauni
 - beaufoy-vision
 - merope
+coords:
+  x: -87.03125
+  y: -71.6875
+  z: -134.65625
+allegiance: Independent
+government: Theocracy
+controlling_faction: House of the Rising CERN
+population: 14458872
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Bhal
+inara_url: https://inara.cz/elite/starsystem/?search=Bhal
 ---
+
 
 <!-- AUTO-GENERATED -->
 

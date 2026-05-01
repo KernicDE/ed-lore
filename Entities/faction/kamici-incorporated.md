@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - kamici
 - gaiman-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Kamici%20Incorporated
 ---
+
 
 <!-- AUTO-GENERATED -->
 

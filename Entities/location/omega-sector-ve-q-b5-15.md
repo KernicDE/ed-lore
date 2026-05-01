@@ -10,7 +10,21 @@ related_entities:
 - deep-space-surveys
 - stuemeae-fg-y-d7561
 - sagittarius-a
+coords:
+  x: -1444.3125
+  y: -85.8125
+  z: 5319.9375
+allegiance: Independent
+government: Corporate
+controlling_faction: Brewer Logistics
+population: 24428
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Omega%20Sector%20VE-Q%20b5-15
+inara_url: https://inara.cz/elite/starsystem/?search=Omega%20Sector%20VE-Q%20b5-15
 ---
+
 
 <!-- AUTO-GENERATED -->
 

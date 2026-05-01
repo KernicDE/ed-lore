@@ -11,7 +11,9 @@ related_entities:
 - topaz
 - imperial-naval-auxiliary
 - allied-facece-order
+inara_url: https://inara.cz/elite/minorfaction/?search=Facece%20Empire%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

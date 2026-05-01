@@ -11,7 +11,21 @@ related_entities:
 - imperial-herald
 - achenar
 - capitol
+coords:
+  x: 89.03125
+  y: -102.625
+  z: 20.875
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Order of Mobius
+population: 3506390
+security: Medium
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Apathaam
+inara_url: https://inara.cz/elite/starsystem/?search=Apathaam
 ---
+
 
 <!-- AUTO-GENERATED -->
 

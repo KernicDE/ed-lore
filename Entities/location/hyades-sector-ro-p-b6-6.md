@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - marlinism-reformation-party
 - free-marlinist-movement
+coords:
+  x: 46.8125
+  y: 6.5
+  z: -134.46875
+allegiance: Independent
+government: Patronage
+controlling_faction: Marlinists of New Chana
+population: 260063416
+security: Medium
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Hyades%20Sector%20RO-P%20b6-6
+inara_url: https://inara.cz/elite/starsystem/?search=Hyades%20Sector%20RO-P%20b6-6
 ---
+
 
 <!-- AUTO-GENERATED -->
 

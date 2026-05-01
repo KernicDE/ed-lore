@@ -9,7 +9,9 @@ related_entities:
 - utopia
 - airman-di
 - chargaff-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Official%20Airman%20Di%20Front
 ---
+
 
 <!-- AUTO-GENERATED -->
 

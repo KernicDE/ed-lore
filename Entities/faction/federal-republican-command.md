@@ -10,7 +10,9 @@ related_entities:
 - aegis
 - kaushpoos-pro-alliance-union
 - kaushpoos
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Republican%20Command
 ---
+
 
 <!-- AUTO-GENERATED -->
 

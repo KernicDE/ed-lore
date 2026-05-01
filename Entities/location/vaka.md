@@ -11,7 +11,21 @@ related_entities:
 - federal-navy
 - imperial-navy
 - independents-of-daramo
+coords:
+  x: 11.125
+  y: -86.3125
+  z: 39.125
+allegiance: Empire
+government: Patronage
+controlling_faction: First Imperial Fleet
+population: 11287012
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Vaka
+inara_url: https://inara.cz/elite/starsystem/?search=Vaka
 ---
+
 
 <!-- AUTO-GENERATED -->
 

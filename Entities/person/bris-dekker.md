@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-12-19'
 last_seen_date: '3308-12-19'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Bris%20Dekker
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - lorens-legion
 - black-birds-squadron
 - aislings-angels
+inara_url: https://inara.cz/elite/minorfaction/?search=Communism%20Interstellar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

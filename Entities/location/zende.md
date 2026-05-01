@@ -9,7 +9,21 @@ related_entities:
 - zende-partners
 - synuefe-en-h-d11-96
 - segnen-exchange
+coords:
+  x: 226.0625
+  y: -134.3125
+  z: -1.75
+allegiance: Independent
+government: Theocracy
+controlling_faction: Sacra Oculus
+population: 4227516
+security: High
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Zende
+inara_url: https://inara.cz/elite/starsystem/?search=Zende
 ---
+
 
 <!-- AUTO-GENERATED -->
 

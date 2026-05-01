@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3307-04-29'
 last_seen_date: '3307-05-06'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Specialised%20legacy%20firmware
 ---
+
 
 <!-- AUTO-GENERATED -->
 

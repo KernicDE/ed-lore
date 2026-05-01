@@ -11,7 +11,9 @@ related_entities:
 - maia
 - obsidian-orbital
 - varati-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Canonn%20Interstellar%20Research%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

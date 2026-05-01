@@ -9,7 +9,9 @@ related_entities:
 - leoniceno-orbital
 - azaleach
 - daurtu-jet-comms-plc
+inara_url: https://inara.cz/elite/minorfaction/?search=Azaleach%20Partnership
 ---
+
 
 <!-- AUTO-GENERATED -->
 

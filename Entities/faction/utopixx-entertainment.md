@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - reynhardt-intellisys
 - sol
+inara_url: https://inara.cz/elite/minorfaction/?search=Utopixx%20Entertainment
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - wagars-reach
 - august-exodus-team
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Colonia%20Citizens%20Network
 ---
+
 
 <!-- AUTO-GENERATED -->
 

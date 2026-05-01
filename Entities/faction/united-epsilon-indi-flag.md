@@ -10,7 +10,9 @@ related_entities:
 - epsilon-indi-system
 - mansfield-orbiter
 - leesti
+inara_url: https://inara.cz/elite/minorfaction/?search=United%20Epsilon%20Indi%20Flag
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - utopia
 - nunus
 - varka
+coords:
+  x: -43.75
+  y: 18.5
+  z: -34.25
+allegiance: Federation
+government: Democracy
+controlling_faction: Blood Brothers from Alrai
+population: 6583054926
+security: High
+economy: Agriculture
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Bonitou
+inara_url: https://inara.cz/elite/starsystem/?search=Bonitou
 ---
+
 
 <!-- AUTO-GENERATED -->
 

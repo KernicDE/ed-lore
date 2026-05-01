@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - meene
 - felice-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Meene%20General%20Industries
 ---
+
 
 <!-- AUTO-GENERATED -->
 

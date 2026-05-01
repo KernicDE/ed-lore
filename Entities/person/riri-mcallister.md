@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-04-13'
 last_seen_date: '3304-11-21'
 mention_count: 15
+inara_url: https://inara.cz/elite/cmdr-search/?search=Riri%20McAllister
 ---
+
 
 <!-- AUTO-GENERATED -->
 

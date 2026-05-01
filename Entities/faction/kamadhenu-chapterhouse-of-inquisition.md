@@ -9,7 +9,9 @@ related_entities:
 - kamadhenu
 - shajn-market
 - colonia-council
+inara_url: https://inara.cz/elite/minorfaction/?search=Kamadhenu%20Chapterhouse%20of%20Inquisition
 ---
+
 
 <!-- AUTO-GENERATED -->
 

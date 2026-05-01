@@ -9,7 +9,9 @@ related_entities:
 - greeboskis-outpost
 - phiagre-system
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Sovereign%20Justice%20Collective
 ---
+
 
 <!-- AUTO-GENERATED -->
 

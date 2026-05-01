@@ -9,7 +9,9 @@ related_entities:
 - pilots-federation
 - reynhardt-intellisys
 - godel-ring
+inara_url: https://inara.cz/elite/minorfaction/?search=NVIDIA
 ---
+
 
 <!-- AUTO-GENERATED -->
 

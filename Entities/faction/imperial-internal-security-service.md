@@ -11,7 +11,9 @@ related_entities:
 - emperors-dawn
 - league-of-reparation
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Internal%20Security%20Service
 ---
+
 
 <!-- AUTO-GENERATED -->
 

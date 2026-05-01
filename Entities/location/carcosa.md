@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - colonia-council
 - the-nameless
+coords:
+  x: -9544.25
+  y: -879.59375
+  z: 19822.03125
+allegiance: Independent
+government: Anarchy
+controlling_faction: The Nameless
+population: 473723
+security: Anarchy
+economy: Service
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Carcosa
+inara_url: https://inara.cz/elite/starsystem/?search=Carcosa
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - pilots-federation
 - universal-cartographics
 - vitadyne-labs
+inara_url: https://inara.cz/elite/minorfaction/?search=Zorgon%20Peterson
 ---
+
 
 <!-- AUTO-GENERATED -->
 

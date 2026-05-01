@@ -9,7 +9,9 @@ related_entities:
 - lp-339-7
 - lp-339-7-4-a
 - whitson-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Starship%20Enterprises%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

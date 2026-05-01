@@ -11,7 +11,21 @@ related_entities:
 - weyn-dock
 - 49-arietis
 - gaiman-dock
+coords:
+  x: -42.625
+  y: -85.125
+  z: 6.25
+allegiance: Independent
+government: Democracy
+controlling_faction: G-CLAN
+population: 1640887409
+security: Medium
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Warkushanui
+inara_url: https://inara.cz/elite/starsystem/?search=Warkushanui
 ---
+
 
 <!-- AUTO-GENERATED -->
 

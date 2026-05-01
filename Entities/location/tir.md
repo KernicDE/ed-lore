@@ -11,7 +11,21 @@ related_entities:
 - alliance
 - inra
 - rewired
+coords:
+  x: -9532.9375
+  y: -923.4375
+  z: 19799.125
+allegiance: Independent
+government: Cooperative
+controlling_faction: HOTCOL
+population: 498590
+security: Medium
+economy: Service
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Tir
+inara_url: https://inara.cz/elite/starsystem/?search=Tir
 ---
+
 
 <!-- AUTO-GENERATED -->
 

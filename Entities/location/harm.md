@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - arjung
+coords:
+  x: 15.34375
+  y: -119.03125
+  z: -84.5625
+allegiance: Independent
+government: Corporate
+controlling_faction: Galactic Rangers
+population: 4659549
+security: Medium
+economy: High Tech
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Harm
+inara_url: https://inara.cz/elite/starsystem/?search=Harm
 ---
+
 
 <!-- AUTO-GENERATED -->
 

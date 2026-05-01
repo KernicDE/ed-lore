@@ -11,7 +11,9 @@ related_entities:
 - imperial-navy
 - vaka-citizens-of-tradition
 - kumo-crew
+inara_url: https://inara.cz/elite/minorfaction/?search=Independents%20of%20Daramo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

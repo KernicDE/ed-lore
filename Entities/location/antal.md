@@ -11,7 +11,21 @@ related_entities:
 - lobachevsky-station
 - neris
 - hip-117972
+coords:
+  x: -142.5
+  y: -91.375
+  z: -66.03125
+allegiance: Independent
+government: Communism
+controlling_faction: Guardians of Harmony
+population: 14826668
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Antal
+inara_url: https://inara.cz/elite/starsystem/?search=Antal
 ---
+
 
 <!-- AUTO-GENERATED -->
 

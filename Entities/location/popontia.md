@@ -11,7 +11,21 @@ related_entities:
 - true-chapters
 - federal-navy
 - ryman-market
+coords:
+  x: 9.0625
+  y: -50.15625
+  z: -57.125
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
+population: 2226203739
+security: Medium
+economy: Agriculture
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Popontia
+inara_url: https://inara.cz/elite/starsystem/?search=Popontia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

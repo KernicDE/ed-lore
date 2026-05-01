@@ -11,7 +11,21 @@ related_entities:
 - hr-4979
 - wolf-294
 - potriti
+coords:
+  x: 125.9375
+  y: -164.5625
+  z: 79.34375
+allegiance: Empire
+government: Patronage
+controlling_faction: Prismatic Imperium
+population: 319870
+security: Medium
+economy: Extraction
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Lambda-2%20Tucanae
+inara_url: https://inara.cz/elite/starsystem/?search=Lambda-2%20Tucanae
 ---
+
 
 <!-- AUTO-GENERATED -->
 

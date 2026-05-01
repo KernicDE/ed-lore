@@ -9,7 +9,9 @@ related_entities:
 - sol
 - balaikda
 - chelomy-vision
+inara_url: https://inara.cz/elite/minorfaction/?search=Chelomy%20Vision%20Fight%20Club
 ---
+
 
 <!-- AUTO-GENERATED -->
 

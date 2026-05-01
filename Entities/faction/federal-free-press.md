@@ -10,7 +10,9 @@ related_entities:
 - true-chapters
 - vox-galactica
 - hip-22460
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Free%20Press
 ---
+
 
 <!-- AUTO-GENERATED -->
 

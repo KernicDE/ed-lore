@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - kooi-gateway
 - hip-93377-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Canary%20Mining%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

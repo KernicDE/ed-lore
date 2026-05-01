@@ -9,7 +9,9 @@ related_entities:
 - chimechilo-empire-league
 - thoreau-orbital
 - obotrima
+inara_url: https://inara.cz/elite/minorfaction/?search=Obotrima%20Organisation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

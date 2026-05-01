@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3303-09-09'
 last_seen_date: '3303-09-09'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Rici%20Stewart
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - pleiades-nebula
 - federation
 - empire
+inara_url: https://inara.cz/elite/minorfaction/?search=Aegis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

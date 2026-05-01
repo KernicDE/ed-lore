@@ -10,7 +10,21 @@ related_entities:
 - harma
 - holloway-bioscience-institute
 - musashi
+coords:
+  x: -21.8125
+  y: -167
+  z: -19.71875
+allegiance: Independent
+government: Corporate
+controlling_faction: Sanctuary Inc
+population: 9020210
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Xi%20Wangda
+inara_url: https://inara.cz/elite/starsystem/?search=Xi%20Wangda
 ---
+
 
 <!-- AUTO-GENERATED -->
 

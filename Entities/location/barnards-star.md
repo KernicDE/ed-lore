@@ -11,7 +11,21 @@ related_entities:
 - alpha-centauri
 - wolf-359
 - luytens-star
+coords:
+  x: -3.03125
+  y: 1.375
+  z: 4.9375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Hutton Orbital Truckers Co-Operative
+population: 1256069
+security: Medium
+economy: Refinery
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Barnard's%20Star
+inara_url: https://inara.cz/elite/starsystem/?search=Barnard's%20Star
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-04-08'
 last_seen_date: '3302-12-23'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Karl%20Devene
 ---
+
 
 <!-- AUTO-GENERATED -->
 

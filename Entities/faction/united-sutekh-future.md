@@ -10,7 +10,9 @@ related_entities:
 - sutekh
 - federation
 - archemides-gateway
+inara_url: https://inara.cz/elite/minorfaction/?search=United%20Sutekh%20Future
 ---
+
 
 <!-- AUTO-GENERATED -->
 

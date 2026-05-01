@@ -11,7 +11,9 @@ related_entities:
 - kappa-fornacis
 - rockforth-corporation
 - bruthanvan-co
+inara_url: https://inara.cz/elite/minorfaction/?search=Scythe%20of%20Panem
 ---
+
 
 <!-- AUTO-GENERATED -->
 

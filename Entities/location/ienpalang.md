@@ -11,7 +11,21 @@ related_entities:
 - zibal-power-co
 - ienpalang-corporation
 - hire-port
+coords:
+  x: 133.53125
+  y: -99.75
+  z: 52.65625
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Guard of Outer Imperial Colonies
+population: 6038704802
+security: Medium
+economy: Tourism
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Ienpalang
+inara_url: https://inara.cz/elite/starsystem/?search=Ienpalang
 ---
+
 
 <!-- AUTO-GENERATED -->
 

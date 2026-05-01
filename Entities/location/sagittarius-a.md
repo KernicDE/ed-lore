@@ -11,7 +11,14 @@ related_entities:
 - stuemeae-fg-y-d7561
 - fuel-rats
 - explorers-anchorage
+coords:
+  x: 25.21875
+  y: -20.90625
+  z: 25899.96875
+edsm_url: https://www.edsm.net/en/system?search=Sagittarius%20A*
+inara_url: https://inara.cz/elite/starsystem/?search=Sagittarius%20A*
 ---
+
 
 <!-- AUTO-GENERATED -->
 

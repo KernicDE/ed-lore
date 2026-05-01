@@ -9,7 +9,20 @@ related_entities:
 - morai-nobles
 - van-de-hulst-vision
 - empire
+coords:
+  x: 49.53125
+  y: -92.28125
+  z: -10.59375
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Self Defense Force
+population: 2437946
+security: Medium
+economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Morai
+inara_url: https://inara.cz/elite/starsystem/?search=Morai
 ---
+
 
 <!-- AUTO-GENERATED -->
 

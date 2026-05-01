@@ -11,7 +11,9 @@ related_entities:
 - faveol-family
 - liaedin
 - volungu
+inara_url: https://inara.cz/elite/minorfaction/?search=Blossum%20family
 ---
+
 
 <!-- AUTO-GENERATED -->
 

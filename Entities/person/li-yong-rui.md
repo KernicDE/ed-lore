@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-06-10'
 last_seen_date: '3311-07-17'
 mention_count: 58
+inara_url: https://inara.cz/elite/cmdr-search/?search=Li%20Yong-Rui
 ---
+
 
 <!-- AUTO-GENERATED -->
 

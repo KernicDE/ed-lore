@@ -10,7 +10,21 @@ related_entities:
 - alliance
 - azimuth
 - sirius-corporation
+coords:
+  x: 39.84375
+  y: 42.15625
+  z: -125.34375
+allegiance: Alliance
+government: Democracy
+controlling_faction: Flat Galaxy Society
+population: 110709
+security: Low
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Andecavi
+inara_url: https://inara.cz/elite/starsystem/?search=Andecavi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

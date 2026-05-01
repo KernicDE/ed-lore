@@ -11,7 +11,9 @@ related_entities:
 - archambault-terminal
 - federal-times
 - zlota-federal-holdings
+inara_url: https://inara.cz/elite/minorfaction/?search=Children%20of%20Tothos
 ---
+
 
 <!-- AUTO-GENERATED -->
 

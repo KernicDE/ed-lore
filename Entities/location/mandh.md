@@ -11,7 +11,21 @@ related_entities:
 - imperial-senate
 - pilots-federation
 - parutis
+coords:
+  x: 45.28125
+  y: -98.53125
+  z: -38.21875
+allegiance: Empire
+government: Corporate
+controlling_faction: Artemis Corporation
+population: 768800945
+security: High
+economy: Industrial
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Mandh
+inara_url: https://inara.cz/elite/starsystem/?search=Mandh
 ---
+
 
 <!-- AUTO-GENERATED -->
 

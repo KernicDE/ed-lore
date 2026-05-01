@@ -11,7 +11,21 @@ related_entities:
 - imperial-navy
 - cuchua
 - anedjete
+coords:
+  x: -15.9375
+  y: -74.75
+  z: 18.21875
+allegiance: Independent
+government: Cooperative
+controlling_faction: Teaka Elite Altruists Bagging Cooperative
+population: 4551427
+security: Medium
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Huichi
+inara_url: https://inara.cz/elite/starsystem/?search=Huichi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

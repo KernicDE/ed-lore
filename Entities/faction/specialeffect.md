@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - vesper-m4
 - slough
+inara_url: https://inara.cz/elite/minorfaction/?search=SpecialEffect
 ---
+
 
 <!-- AUTO-GENERATED -->
 

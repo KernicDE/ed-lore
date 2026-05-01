@@ -10,7 +10,9 @@ related_entities:
 - october-consortium
 - hip-87621
 - exogene-sciences
+inara_url: https://inara.cz/elite/minorfaction/?search=Vista%20Genomics
 ---
+
 
 <!-- AUTO-GENERATED -->
 

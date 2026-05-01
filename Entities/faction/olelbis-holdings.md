@@ -11,7 +11,9 @@ related_entities:
 - sirius-corporation
 - nova-imperium
 - cordova-group
+inara_url: https://inara.cz/elite/minorfaction/?search=Olelbis%20Holdings
 ---
+
 
 <!-- AUTO-GENERATED -->
 

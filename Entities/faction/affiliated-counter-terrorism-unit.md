@@ -11,7 +11,9 @@ related_entities:
 - marlinist-colonies
 - sirius-corporation
 - core-dynamics
+inara_url: https://inara.cz/elite/minorfaction/?search=Affiliated%20Counter-Terrorism%20Unit
 ---
+
 
 <!-- AUTO-GENERATED -->
 

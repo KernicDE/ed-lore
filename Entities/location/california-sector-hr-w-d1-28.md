@@ -11,7 +11,21 @@ related_entities:
 - turner-research-group
 - california-nebula
 - pegasi-sentinel
+coords:
+  x: -329.53125
+  y: -218.5
+  z: -893.71875
+allegiance: Alliance
+government: Theocracy
+controlling_faction: The Allied Order of Exemplars
+population: 10000
+security: Medium
+economy: High Tech
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=California%20Sector%20HR-W%20d1-28
+inara_url: https://inara.cz/elite/starsystem/?search=California%20Sector%20HR-W%20d1-28
 ---
+
 
 <!-- AUTO-GENERATED -->
 

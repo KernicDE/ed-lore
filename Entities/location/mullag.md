@@ -7,7 +7,21 @@ last_seen_date: '3309-06-23'
 mention_count: 2
 related_entities:
 - federal-navy
+coords:
+  x: 0.5
+  y: 35.09375
+  z: -19.1875
+allegiance: Alliance
+government: Confederacy
+controlling_faction: Terran Colonial Forces
+population: 10161422650
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Mullag
+inara_url: https://inara.cz/elite/starsystem/?search=Mullag
 ---
+
 
 <!-- AUTO-GENERATED -->
 

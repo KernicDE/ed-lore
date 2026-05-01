@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-08-19'
 last_seen_date: '3301-08-26'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Angel%20Rose
 ---
+
 
 <!-- AUTO-GENERATED -->
 

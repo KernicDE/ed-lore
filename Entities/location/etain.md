@@ -11,7 +11,21 @@ related_entities:
 - aegis
 - sirius-corporation
 - meene
+coords:
+  x: 12.5
+  y: 35.03125
+  z: -37.1875
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Civitas Dei
+population: 109265
+security: Low
+economy: Colony
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Etain
+inara_url: https://inara.cz/elite/starsystem/?search=Etain
 ---
+
 
 <!-- AUTO-GENERATED -->
 

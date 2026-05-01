@@ -11,7 +11,21 @@ related_entities:
 - kanwar-horizons
 - unkulcay
 - vasak
+coords:
+  x: 71.75
+  y: -47
+  z: -117.5
+allegiance: Independent
+government: Confederacy
+controlling_faction: Brazilian League of Pilots
+population: 29053417
+security: Medium
+economy: Extraction
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=49%20D%20Orionis
+inara_url: https://inara.cz/elite/starsystem/?search=49%20D%20Orionis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

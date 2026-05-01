@@ -11,7 +11,9 @@ related_entities:
 - foster-terminal
 - league-of-reparation
 - alliance-defence-force
+inara_url: https://inara.cz/elite/minorfaction/?search=Colonia%20Co-operative
 ---
+
 
 <!-- AUTO-GENERATED -->
 

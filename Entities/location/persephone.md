@@ -11,7 +11,20 @@ related_entities:
 - quivira-electronics-plc
 - peoples-quivira-for-equality-party
 - godel-dock
+coords:
+  x: 31.59375
+  y: -104.53125
+  z: 8.0625
+allegiance: Empire
+government: Corporate
+controlling_faction: G.O.M. Collective
+population: 150000
+security: Medium
+economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Persephone
+inara_url: https://inara.cz/elite/starsystem/?search=Persephone
 ---
+
 
 <!-- AUTO-GENERATED -->
 

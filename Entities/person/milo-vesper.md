@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-07-06'
 last_seen_date: '3304-09-07'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Milo%20Vesper
 ---
+
 
 <!-- AUTO-GENERATED -->
 

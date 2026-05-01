@@ -11,7 +11,21 @@ related_entities:
 - rockforth-corporation
 - crimson-state-limited
 - orerve-universal-limited
+coords:
+  x: 74.03125
+  y: 48.75
+  z: 64.75
+allegiance: Federation
+government: Corporate
+controlling_faction: Terra-EX Astro Corp
+population: 2500000000
+security: Medium
+economy: Agriculture
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Orerve
+inara_url: https://inara.cz/elite/starsystem/?search=Orerve
 ---
+
 
 <!-- AUTO-GENERATED -->
 

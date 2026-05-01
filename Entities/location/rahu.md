@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - alliance
 - acharya-station
+coords:
+  x: -43.78125
+  y: 62.4375
+  z: -0.25
+allegiance: Alliance
+government: Confederacy
+controlling_faction: Terran Colonial Forces
+population: 130497
+security: Medium
+economy: Military
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Rahu
+inara_url: https://inara.cz/elite/starsystem/?search=Rahu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

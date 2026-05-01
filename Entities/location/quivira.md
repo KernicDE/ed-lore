@@ -11,7 +11,21 @@ related_entities:
 - godel-dock
 - persephone
 - summerland
+coords:
+  x: 33.375
+  y: -112.875
+  z: 1.65625
+allegiance: Empire
+government: Corporate
+controlling_faction: G.O.M. Collective
+population: 37544369
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Quivira
+inara_url: https://inara.cz/elite/starsystem/?search=Quivira
 ---
+
 
 <!-- AUTO-GENERATED -->
 

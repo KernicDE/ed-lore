@@ -11,7 +11,21 @@ related_entities:
 - tau-ceti
 - league-of-reparation
 - inra
+coords:
+  x: 8.375
+  y: -10.84375
+  z: 14.46875
+allegiance: Independent
+government: Dictatorship
+controlling_faction: EG Union
+population: 5035423
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Delta%20Pavonis
+inara_url: https://inara.cz/elite/starsystem/?search=Delta%20Pavonis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

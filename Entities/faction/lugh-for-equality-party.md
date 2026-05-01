@@ -11,7 +11,9 @@ related_entities:
 - lugh-for-equality
 - federal-congress
 - federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Lugh%20for%20Equality%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

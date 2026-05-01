@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - lidpar
 - carlisle-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Union%20of%20Lidpar%20Green%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

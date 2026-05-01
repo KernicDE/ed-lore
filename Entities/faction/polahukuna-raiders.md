@@ -11,7 +11,9 @@ related_entities:
 - banki
 - polahukuna
 - imperial-senate
+inara_url: https://inara.cz/elite/minorfaction/?search=Polahukuna%20Raiders
 ---
+
 
 <!-- AUTO-GENERATED -->
 

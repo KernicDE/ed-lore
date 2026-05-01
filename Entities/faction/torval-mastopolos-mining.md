@@ -9,7 +9,9 @@ related_entities:
 - mastopolos-mining
 - wreaken-construction
 - imperial-senate
+inara_url: https://inara.cz/elite/minorfaction/?search=Torval-Mastopolos%20Mining
 ---
+
 
 <!-- AUTO-GENERATED -->
 

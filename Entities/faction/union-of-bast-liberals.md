@@ -11,7 +11,9 @@ related_entities:
 - heike
 - brunel-city-station
 - altair
+inara_url: https://inara.cz/elite/minorfaction/?search=Union%20of%20Bast%20Liberals
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,9 @@ related_entities:
 - alliance
 - tsu
 - ziemkiewicz-ring
+inara_url: https://inara.cz/elite/minorfaction/?search=Purple%20Power%20Interstellar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

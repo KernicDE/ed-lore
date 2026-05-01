@@ -11,7 +11,9 @@ related_entities:
 - earth
 - leesti
 - maia
+inara_url: https://inara.cz/elite/minorfaction/?search=Hallowed%20Chapter%20of%20LHS%202094
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - federal-intelligence-agency
 - far-god-cult
 - core-dynamics
+inara_url: https://inara.cz/elite/minorfaction/?search=Vox%20Galactica
 ---
+
 
 <!-- AUTO-GENERATED -->
 

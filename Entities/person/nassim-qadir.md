@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3309-01-05'
 last_seen_date: '3309-11-03'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Nassim%20Qadir
 ---
+
 
 <!-- AUTO-GENERATED -->
 

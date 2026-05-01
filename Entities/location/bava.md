@@ -11,7 +11,21 @@ related_entities:
 - bauschinger-city
 - federation
 - merope
+coords:
+  x: 83.40625
+  y: -134.3125
+  z: -80.75
+allegiance: Independent
+government: Cooperative
+controlling_faction: Misfit's of Science and Research
+population: 2234198
+security: Medium
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Bava
+inara_url: https://inara.cz/elite/starsystem/?search=Bava
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-07-07'
 last_seen_date: '3310-11-07'
 mention_count: 22
+inara_url: https://inara.cz/elite/cmdr-search/?search=Cassia%20Carvalho
 ---
+
 
 <!-- AUTO-GENERATED -->
 

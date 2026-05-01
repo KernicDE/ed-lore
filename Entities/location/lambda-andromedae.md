@@ -11,7 +11,21 @@ related_entities:
 - nourse-orbital
 - core-dynamics
 - federal-navy
+coords:
+  x: -78.21875
+  y: -21.40625
+  z: -29.09375
+allegiance: Independent
+government: Corporate
+controlling_faction: Loose Screws Network
+population: 3855056172
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Lambda%20Andromedae
+inara_url: https://inara.cz/elite/starsystem/?search=Lambda%20Andromedae
 ---
+
 
 <!-- AUTO-GENERATED -->
 

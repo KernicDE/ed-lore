@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3311-02-20'
 last_seen_date: '3311-11-11'
 mention_count: 6
+inara_url: https://inara.cz/elite/cmdr-search/?search=Mark%20Rennik
 ---
+
 
 <!-- AUTO-GENERATED -->
 

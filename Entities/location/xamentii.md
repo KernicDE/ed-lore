@@ -11,7 +11,21 @@ related_entities:
 - cantjarisni
 - rajukru
 - hip-10175
+coords:
+  x: -52.15625
+  y: 44.59375
+  z: 90.34375
+allegiance: Independent
+government: Democracy
+controlling_faction: Light of Humanity
+population: 64284
+security: Low
+economy: Military
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Xamentii
+inara_url: https://inara.cz/elite/starsystem/?search=Xamentii
 ---
+
 
 <!-- AUTO-GENERATED -->
 

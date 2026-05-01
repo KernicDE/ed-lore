@@ -11,7 +11,21 @@ related_entities:
 - steel-castle-inc
 - tenche
 - tenche-universal-holdings
+coords:
+  x: 34.78125
+  y: -8.375
+  z: 77.84375
+allegiance: Independent
+government: Corporate
+controlling_faction: CQC Holdings
+population: 26068234
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Nagasairu
+inara_url: https://inara.cz/elite/starsystem/?search=Nagasairu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

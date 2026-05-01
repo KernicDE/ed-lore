@@ -11,7 +11,21 @@ related_entities:
 - interstellar-association-for-agriculture
 - alliance
 - lave-radio-network
+coords:
+  x: 72.15625
+  y: 48.75
+  z: 70.75
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Alliance Rapid-reaction Corps
+population: 4100025331
+security: Medium
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Diso
+inara_url: https://inara.cz/elite/starsystem/?search=Diso
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - felice-dock
 - phoenix-base
 - imperial-internal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=HIP%2029241%20Green%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

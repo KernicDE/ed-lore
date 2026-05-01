@@ -11,7 +11,9 @@ related_entities:
 - freng
 - lunduwalaya
 - clayakarma
+inara_url: https://inara.cz/elite/minorfaction/?search=United%20Research%20Council
 ---
+
 
 <!-- AUTO-GENERATED -->
 

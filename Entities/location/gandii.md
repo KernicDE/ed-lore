@@ -11,7 +11,21 @@ related_entities:
 - camorra-of-krisha
 - krisha
 - lu-hub
+coords:
+  x: -84.4375
+  y: -102.5
+  z: 33.25
+allegiance: Federation
+government: Democracy
+controlling_faction: New Gandii Democrats
+population: 39892034
+security: Medium
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Gandii
+inara_url: https://inara.cz/elite/starsystem/?search=Gandii
 ---
+
 
 <!-- AUTO-GENERATED -->
 

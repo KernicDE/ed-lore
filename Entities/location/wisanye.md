@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - universal-cartographics
 - witch-head-sector-fb-x-c1-7
+coords:
+  x: 387.40625
+  y: -383.71875
+  z: -714.34375
+allegiance: Alliance
+government: Corporate
+controlling_faction: The Allied Commission
+population: 39450
+security: Medium
+economy: High Tech
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Wisanye
+inara_url: https://inara.cz/elite/starsystem/?search=Wisanye
 ---
+
 
 <!-- AUTO-GENERATED -->
 

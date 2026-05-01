@@ -11,7 +11,9 @@ related_entities:
 - worlidge-terminal
 - bluford-orbital
 - lhs-3447-b-1-a
+inara_url: https://inara.cz/elite/minorfaction/?search=LHS%203447%20Dynamic%20and%20Co
 ---
+
 
 <!-- AUTO-GENERATED -->
 

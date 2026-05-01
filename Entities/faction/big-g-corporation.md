@@ -11,7 +11,9 @@ related_entities:
 - djaujas
 - khona
 - dohkwithi
+inara_url: https://inara.cz/elite/minorfaction/?search=Big%20G%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

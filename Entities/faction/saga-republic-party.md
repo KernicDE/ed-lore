@@ -9,7 +9,9 @@ related_entities:
 - saga
 - zudov-terminal
 - mars
+inara_url: https://inara.cz/elite/minorfaction/?search=Saga%20Republic%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

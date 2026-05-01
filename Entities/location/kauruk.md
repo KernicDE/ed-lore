@@ -9,7 +9,21 @@ related_entities:
 - labour-union-of-kauruk
 - moore-terminal
 - gyvatices
+coords:
+  x: 38.46875
+  y: 61.34375
+  z: 82.21875
+allegiance: Independent
+government: Democracy
+controlling_faction: Union of Jath for Equality
+population: 14889089
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Kauruk
+inara_url: https://inara.cz/elite/starsystem/?search=Kauruk
 ---
+
 
 <!-- AUTO-GENERATED -->
 

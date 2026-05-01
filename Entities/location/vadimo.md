@@ -11,7 +11,21 @@ related_entities:
 - inra
 - imperial-internal-security-service
 - utopia
+coords:
+  x: 66.5625
+  y: -62.53125
+  z: 60.84375
+allegiance: Independent
+government: Dictatorship
+controlling_faction: The Sovereign Justice Collective
+population: 367856
+security: Medium
+economy: Refinery
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Vadimo
+inara_url: https://inara.cz/elite/starsystem/?search=Vadimo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

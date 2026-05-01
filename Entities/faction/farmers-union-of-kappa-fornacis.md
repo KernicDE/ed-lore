@@ -11,7 +11,9 @@ related_entities:
 - tanmark
 - cassie-l-peia
 - independent-autahenetsi-labour-party
+inara_url: https://inara.cz/elite/minorfaction/?search=Farmers%20Union%20of%20Kappa%20Fornacis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

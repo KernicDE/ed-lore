@@ -11,7 +11,21 @@ related_entities:
 - vitadyne-labs
 - pilots-federation
 - universal-cartographics
+coords:
+  x: -14.875
+  y: 7.5
+  z: 65.78125
+allegiance: Independent
+government: Corporate
+controlling_faction: Pilots Trade Network
+population: 5254815280
+security: Medium
+economy: Terraforming
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Wally%20Bei
+inara_url: https://inara.cz/elite/starsystem/?search=Wally%20Bei
 ---
+
 
 <!-- AUTO-GENERATED -->
 

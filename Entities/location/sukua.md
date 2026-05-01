@@ -11,7 +11,21 @@ related_entities:
 - hr-7327
 - mikunn
 - sefrys
+coords:
+  x: -42.15625
+  y: -51.59375
+  z: 171.15625
+allegiance: Independent
+government: Feudal
+controlling_faction: The Dukes of Mikunn
+population: 40132
+security: Low
+economy: Extraction
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Sukua
+inara_url: https://inara.cz/elite/starsystem/?search=Sukua
 ---
+
 
 <!-- AUTO-GENERATED -->
 

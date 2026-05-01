@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - alliance-interpol
 - federal-intelligence-agency
+inara_url: https://inara.cz/elite/minorfaction/?search=League%20of%20Reparation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

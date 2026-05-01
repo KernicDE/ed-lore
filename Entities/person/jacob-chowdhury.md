@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-02-14'
 last_seen_date: '3305-02-21'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jacob%20Chowdhury
 ---
+
 
 <!-- AUTO-GENERATED -->
 

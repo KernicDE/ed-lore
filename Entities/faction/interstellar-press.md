@@ -11,7 +11,9 @@ related_entities:
 - alioth
 - utopia
 - mars
+inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Press
 ---
+
 
 <!-- AUTO-GENERATED -->
 

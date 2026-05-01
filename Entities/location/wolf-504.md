@@ -11,7 +11,21 @@ related_entities:
 - ross-47
 - g-99-49
 - wolf-294
+coords:
+  x: 15.3125
+  y: 90.78125
+  z: 39.96875
+allegiance: Alliance
+government: Corporate
+controlling_faction: Wolf 406 Transport & Co
+population: 2594651
+security: Medium
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Wolf%20504
+inara_url: https://inara.cz/elite/starsystem/?search=Wolf%20504
 ---
+
 
 <!-- AUTO-GENERATED -->
 

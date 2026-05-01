@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-12-07'
 last_seen_date: '3309-07-03'
 mention_count: 27
+inara_url: https://inara.cz/elite/cmdr-search/?search=Hadrian%20Augustus%20Duval
 ---
+
 
 <!-- AUTO-GENERATED -->
 

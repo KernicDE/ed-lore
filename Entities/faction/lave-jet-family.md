@@ -11,7 +11,9 @@ related_entities:
 - lave-station
 - diso
 - league-of-reparation
+inara_url: https://inara.cz/elite/minorfaction/?search=Lave%20Jet%20Family
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - federation
 - empire
+inara_url: https://inara.cz/elite/minorfaction/?search=United%20Teaka%20First
 ---
+
 
 <!-- AUTO-GENERATED -->
 

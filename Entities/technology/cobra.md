@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3303-03-20'
 last_seen_date: '3303-03-20'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Cobra
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - sol
 - federal-intelligence-agency
 - federal-times
+inara_url: https://inara.cz/elite/minorfaction/?search=Advocacy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,14 @@ related_entities:
 - independent-explorers-association
 - universal-cartographics
 - perseus-crags
+coords:
+  x: -21382.65625
+  y: -0.84375
+  z: 28866.625
+edsm_url: https://www.edsm.net/en/system?search=Shaulai%20DL-P%20d5-274
+inara_url: https://inara.cz/elite/starsystem/?search=Shaulai%20DL-P%20d5-274
 ---
+
 
 <!-- AUTO-GENERATED -->
 

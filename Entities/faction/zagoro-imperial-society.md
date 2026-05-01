@@ -10,7 +10,9 @@ related_entities:
 - zagoro
 - axon-station
 - hip-17225-a-1
+inara_url: https://inara.cz/elite/minorfaction/?search=Zagoro%20Imperial%20Society
 ---
+
 
 <!-- AUTO-GENERATED -->
 

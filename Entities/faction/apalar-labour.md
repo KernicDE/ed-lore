@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - apalar
 - svavarsson-terminal
+inara_url: https://inara.cz/elite/minorfaction/?search=Apalar%20Labour
 ---
+
 
 <!-- AUTO-GENERATED -->
 

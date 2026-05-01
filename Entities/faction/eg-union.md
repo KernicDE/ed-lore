@@ -11,7 +11,9 @@ related_entities:
 - lyakhov-dock
 - aegis
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=EG%20Union
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - explorers-anchorage
 - beagle-point
 - omega-mining-corporation
+coords:
+  x: 28.6875
+  y: -19.78125
+  z: 25899.6875
+allegiance: Independent
+government: Democracy
+controlling_faction: Deep Space Surveys
+population: 750000
+security: Medium
+economy: Extraction
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Stuemeae%20FG-Y%20d7561
+inara_url: https://inara.cz/elite/starsystem/?search=Stuemeae%20FG-Y%20d7561
 ---
+
 
 <!-- AUTO-GENERATED -->
 

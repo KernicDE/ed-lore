@@ -11,7 +11,9 @@ related_entities:
 - silver-allied-network
 - emperors-grace
 - hr-706
+inara_url: https://inara.cz/elite/minorfaction/?search=Silver%20Universal%20PLC
 ---
+
 
 <!-- AUTO-GENERATED -->
 

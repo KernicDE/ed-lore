@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3310-01-22'
 last_seen_date: '3310-12-02'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Conn%20Montgomery
 ---
+
 
 <!-- AUTO-GENERATED -->
 

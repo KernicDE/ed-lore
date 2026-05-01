@@ -11,7 +11,21 @@ related_entities:
 - 49-arietis
 - varati
 - gurragchaa-gateway
+coords:
+  x: -57.09375
+  y: -90.65625
+  z: -178.34375
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Close Encounters Corps
+population: 6373446
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=64%20Arietis
+inara_url: https://inara.cz/elite/starsystem/?search=64%20Arietis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-06-11'
 last_seen_date: '3307-03-24'
 mention_count: 7
+inara_url: https://inara.cz/elite/cmdr-search/?search=Brad%20Mitchell
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - kumo-city
 - alliance
 - engineers
+inara_url: https://inara.cz/elite/minorfaction/?search=Onionhead
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - federal-navy
 - hors
+inara_url: https://inara.cz/elite/minorfaction/?search=Brightlight%20Training%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

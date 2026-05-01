@@ -11,7 +11,21 @@ related_entities:
 - ngaiawang
 - dornier-terminal
 - federal-navy
+coords:
+  x: 61.65625
+  y: -93.71875
+  z: -14.03125
+allegiance: Empire
+government: Corporate
+controlling_faction: G.O.M. Collective
+population: 7494503
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Dongzi
+inara_url: https://inara.cz/elite/starsystem/?search=Dongzi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - nmla
 - quivira-electronics-plc
 - peoples-quivira-for-equality-party
+coords:
+  x: 28.9375
+  y: -121.09375
+  z: 3.53125
+allegiance: Empire
+government: Patronage
+controlling_faction: The Praetorian Vigil
+population: 25079107
+security: Medium
+economy: Military
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Summerland
+inara_url: https://inara.cz/elite/starsystem/?search=Summerland
 ---
+
 
 <!-- AUTO-GENERATED -->
 

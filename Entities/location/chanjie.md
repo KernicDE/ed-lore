@@ -11,7 +11,21 @@ related_entities:
 - novas
 - sosong
 - plymouth-howl
+coords:
+  x: 75.96875
+  y: 66.09375
+  z: 22.75
+allegiance: Independent
+government: Democracy
+controlling_faction: Sidewinder Syndicate
+population: 2466088
+security: Low
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Ch'anjie
+inara_url: https://inara.cz/elite/starsystem/?search=Ch'anjie
 ---
+
 
 <!-- AUTO-GENERATED -->
 

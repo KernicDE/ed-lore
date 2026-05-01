@@ -11,7 +11,9 @@ related_entities:
 - patrons-principles
 - alioth-independents
 - sublime-order-of-van-maanens-star
+inara_url: https://inara.cz/elite/minorfaction/?search=Chapter%20of%20Isinor
 ---
+
 
 <!-- AUTO-GENERATED -->
 

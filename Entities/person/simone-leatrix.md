@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-12-20'
 last_seen_date: '3304-12-29'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Simone%20Leatrix
 ---
+
 
 <!-- AUTO-GENERATED -->
 

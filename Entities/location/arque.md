@@ -11,7 +11,21 @@ related_entities:
 - arque-commodities
 - austen-town-station
 - maia
+coords:
+  x: 66.5
+  y: 38.0625
+  z: 61.125
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Alliance Rapid-reaction Corps
+population: 111849
+security: Low
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Arque
+inara_url: https://inara.cz/elite/starsystem/?search=Arque
 ---
+
 
 <!-- AUTO-GENERATED -->
 

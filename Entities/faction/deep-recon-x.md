@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - universal-cartographics
 - eol-prou
+inara_url: https://inara.cz/elite/minorfaction/?search=Deep%20Recon%20X
 ---
+
 
 <!-- AUTO-GENERATED -->
 

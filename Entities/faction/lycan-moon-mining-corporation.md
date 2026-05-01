@@ -11,7 +11,9 @@ related_entities:
 - nijotec-syndicate
 - nijotec
 - sol
+inara_url: https://inara.cz/elite/minorfaction/?search=Lycan%20Moon%20Mining%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

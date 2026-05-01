@@ -11,7 +11,9 @@ related_entities:
 - panem
 - quator
 - rockforth-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Bruthanvan%20Co
 ---
+
 
 <!-- AUTO-GENERATED -->
 

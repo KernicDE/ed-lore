@@ -11,7 +11,21 @@ related_entities:
 - warkushanui
 - ngobe
 - sol
+coords:
+  x: -97.125
+  y: -11.78125
+  z: -171.28125
+allegiance: Independent
+government: Democracy
+controlling_faction: Sirius Inc
+population: 154301
+security: Low
+economy: Refinery
+second_economy: Terraforming
+edsm_url: https://www.edsm.net/en/system?search=Iapodes
+inara_url: https://inara.cz/elite/starsystem/?search=Iapodes
 ---
+
 
 <!-- AUTO-GENERATED -->
 

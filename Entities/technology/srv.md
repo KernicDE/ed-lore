@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-06-18'
 last_seen_date: '3303-06-04'
 mention_count: 9
+inara_url: https://inara.cz/elite/commodity/?search=SRV
 ---
+
 
 <!-- AUTO-GENERATED -->
 

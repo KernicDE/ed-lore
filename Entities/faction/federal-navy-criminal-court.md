@@ -11,7 +11,9 @@ related_entities:
 - t-tauri
 - hind-mine
 - advocacy
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Navy%20Criminal%20Court
 ---
+
 
 <!-- AUTO-GENERATED -->
 

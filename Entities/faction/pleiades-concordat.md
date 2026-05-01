@@ -11,7 +11,9 @@ related_entities:
 - agassiz-settlement
 - pilots-federation
 - moore-hub
+inara_url: https://inara.cz/elite/minorfaction/?search=Pleiades%20Concordat
 ---
+
 
 <!-- AUTO-GENERATED -->
 

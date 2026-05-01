@@ -11,7 +11,9 @@ related_entities:
 - facece
 - nehet
 - mictlan
+inara_url: https://inara.cz/elite/minorfaction/?search=Mictlan%20Cartel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

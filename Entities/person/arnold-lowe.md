@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-08-11'
 last_seen_date: '3302-03-15'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Arnold%20Lowe
 ---
+
 
 <!-- AUTO-GENERATED -->
 

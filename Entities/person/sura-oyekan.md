@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3309-05-01'
 last_seen_date: '3309-09-18'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Sura%20Oyekan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

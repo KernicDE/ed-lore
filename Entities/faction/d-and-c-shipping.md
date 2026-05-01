@@ -9,7 +9,9 @@ related_entities:
 - imperial-herald
 - emperors-dawn
 - imperial-internal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=D%20and%20C%20Shipping
 ---
+
 
 <!-- AUTO-GENERATED -->
 

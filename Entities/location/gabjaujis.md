@@ -11,7 +11,21 @@ related_entities:
 - rabh
 - imperial-internal-security-service
 - nmla
+coords:
+  x: 144.625
+  y: -120.375
+  z: 63.84375
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Guard of Outer Imperial Colonies
+population: 11347537360
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Gabjaujis
+inara_url: https://inara.cz/elite/starsystem/?search=Gabjaujis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

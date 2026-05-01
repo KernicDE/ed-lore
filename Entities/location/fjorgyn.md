@@ -11,7 +11,21 @@ related_entities:
 - wolf-294
 - lambda-2-tucanae
 - potriti
+coords:
+  x: 38.375
+  y: -43.71875
+  z: 42.125
+allegiance: Empire
+government: Corporate
+controlling_faction: Fjorgyn Crimson Public Ltd
+population: 321265
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Fjorgyn
+inara_url: https://inara.cz/elite/starsystem/?search=Fjorgyn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

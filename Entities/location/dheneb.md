@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: -24.9375
+  y: -118
+  z: -28.625
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Winged Hussars
+population: 23280443
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Dheneb
+inara_url: https://inara.cz/elite/starsystem/?search=Dheneb
 ---
+
 
 <!-- AUTO-GENERATED -->
 

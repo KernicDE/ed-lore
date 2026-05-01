@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-12-31'
 last_seen_date: '3309-01-16'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Hector%20Duval
 ---
+
 
 <!-- AUTO-GENERATED -->
 

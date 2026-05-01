@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-08-11'
 last_seen_date: '3301-08-11'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Lakon%20Type-9%20Heavy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

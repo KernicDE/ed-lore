@@ -11,7 +11,21 @@ related_entities:
 - antonio-de-andrade-vista
 - khasiri
 - matteucci-terminal
+coords:
+  x: 49.53125
+  y: 15.75
+  z: -91.71875
+allegiance: Independent
+government: Democracy
+controlling_faction: Benelux Commanders
+population: 506459
+security: Medium
+economy: Tourism
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Banki
+inara_url: https://inara.cz/elite/starsystem/?search=Banki
 ---
+
 
 <!-- AUTO-GENERATED -->
 

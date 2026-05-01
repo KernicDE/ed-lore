@@ -11,7 +11,21 @@ related_entities:
 - hartsfield-market
 - alioth
 - lugh-for-equality
+coords:
+  x: 44.65625
+  y: -5.71875
+  z: 27.46875
+allegiance: Independent
+government: Corporate
+controlling_faction: SSL Interstellar PLC
+population: 15281152111
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Lugh
+inara_url: https://inara.cz/elite/starsystem/?search=Lugh
 ---
+
 
 <!-- AUTO-GENERATED -->
 

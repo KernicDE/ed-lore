@@ -11,7 +11,21 @@ related_entities:
 - hr-4979
 - wolf-294
 - lambda-2-tucanae
+coords:
+  x: 52.125
+  y: -51.71875
+  z: -30.15625
+allegiance: Federation
+government: Democracy
+controlling_faction: Progressive Party of Scylla
+population: 232008
+security: Low
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Ninabin
+inara_url: https://inara.cz/elite/starsystem/?search=Ninabin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

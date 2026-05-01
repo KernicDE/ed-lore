@@ -11,7 +11,9 @@ related_entities:
 - interstellar-communist-union
 - social-eleu-progressive-party
 - the-sovereign
+inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Elite%20Diplomatic%20Corps
 ---
+
 
 <!-- AUTO-GENERATED -->
 

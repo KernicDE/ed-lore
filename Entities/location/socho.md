@@ -11,7 +11,21 @@ related_entities:
 - pleiades-sector-ir-w-d1-55
 - the-oracle
 - socho-gold-raiders
+coords:
+  x: -72.4375
+  y: -101.15625
+  z: -141.1875
+allegiance: Independent
+government: Democracy
+controlling_faction: Knights of Isarian
+population: 2946720
+security: Medium
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Socho
+inara_url: https://inara.cz/elite/starsystem/?search=Socho
 ---
+
 
 <!-- AUTO-GENERATED -->
 

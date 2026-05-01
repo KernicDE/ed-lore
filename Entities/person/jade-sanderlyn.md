@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-04-28'
 last_seen_date: '3310-07-10'
 mention_count: 24
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jade%20Sanderlyn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

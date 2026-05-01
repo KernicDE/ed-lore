@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-07-21'
 last_seen_date: '3303-10-12'
 mention_count: 9
+inara_url: https://inara.cz/elite/commodity/?search=Majestic-class%20Interdictor
 ---
+
 
 <!-- AUTO-GENERATED -->
 

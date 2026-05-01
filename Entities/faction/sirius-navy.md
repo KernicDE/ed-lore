@@ -11,7 +11,9 @@ related_entities:
 - federal-navy
 - imperial-navy
 - taurus-mining-ventures
+inara_url: https://inara.cz/elite/minorfaction/?search=Sirius%20Navy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

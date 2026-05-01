@@ -11,7 +11,21 @@ related_entities:
 - arawere
 - huaich
 - ltt-16548
+coords:
+  x: -89.96875
+  y: -42.96875
+  z: 42.09375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Open Pilot's Initiative
+population: 6656965
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=San%20Muss
+inara_url: https://inara.cz/elite/starsystem/?search=San%20Muss
 ---
+
 
 <!-- AUTO-GENERATED -->
 

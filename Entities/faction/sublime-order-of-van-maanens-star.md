@@ -11,7 +11,9 @@ related_entities:
 - patrons-principles
 - chapter-of-isinor
 - alioth-independents
+inara_url: https://inara.cz/elite/minorfaction/?search=Sublime%20Order%20of%20Van%20Maanen%27s%20Star
 ---
+
 
 <!-- AUTO-GENERATED -->
 

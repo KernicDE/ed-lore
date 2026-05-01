@@ -11,7 +11,9 @@ related_entities:
 - guardians-of-tranquillity
 - tarach-tor
 - tranquillity
+inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Leesti%20for%20Equality
 ---
+
 
 <!-- AUTO-GENERATED -->
 

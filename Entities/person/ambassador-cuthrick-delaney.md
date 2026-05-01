@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-10-14'
 last_seen_date: '3303-03-16'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Ambassador%20Cuthrick%20Delaney
 ---
+
 
 <!-- AUTO-GENERATED -->
 

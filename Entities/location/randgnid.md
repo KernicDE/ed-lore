@@ -11,7 +11,21 @@ related_entities:
 - colonia-research-division
 - alliance
 - lakon-spaceways
+coords:
+  x: -9547.125
+  y: -916.5
+  z: 19832.5
+allegiance: Independent
+government: Patronage
+controlling_faction: Last Phoenix Vault
+population: 349705
+security: Medium
+economy: Military
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Randgnid
+inara_url: https://inara.cz/elite/starsystem/?search=Randgnid
 ---
+
 
 <!-- AUTO-GENERATED -->
 

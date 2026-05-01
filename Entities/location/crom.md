@@ -10,7 +10,21 @@ related_entities:
 - herthe
 - walheim-enterprise
 - wolf-1301
+coords:
+  x: 53.0625
+  y: -17.34375
+  z: 8.46875
+allegiance: Independent
+government: Anarchy
+controlling_faction: Crom Silver Boys
+population: 15000
+security: Anarchy
+economy: Extraction
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Crom
+inara_url: https://inara.cz/elite/starsystem/?search=Crom
 ---
+
 
 <!-- AUTO-GENERATED -->
 

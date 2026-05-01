@@ -7,7 +7,21 @@ last_seen_date: '3301-08-09'
 mention_count: 1
 related_entities:
 - russell-networks
+coords:
+  x: -25.4375
+  y: 53.09375
+  z: 90.65625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 7560607
+security: Medium
+economy: Terraforming
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Tulill
+inara_url: https://inara.cz/elite/starsystem/?search=Tulill
 ---
+
 
 <!-- AUTO-GENERATED -->
 

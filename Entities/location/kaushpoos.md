@@ -11,7 +11,21 @@ related_entities:
 - pleiades-nebula
 - alliance
 - brewer-corporation
+coords:
+  x: -1.90625
+  y: 65.1875
+  z: -79.65625
+allegiance: Federation
+government: Democracy
+controlling_faction: Federal Fleet Marine Force
+population: 11419718
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Kaushpoos
+inara_url: https://inara.cz/elite/starsystem/?search=Kaushpoos
 ---
+
 
 <!-- AUTO-GENERATED -->
 

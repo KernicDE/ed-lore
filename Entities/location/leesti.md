@@ -11,7 +11,21 @@ related_entities:
 - lave
 - reorte
 - alioth
+coords:
+  x: 72.75
+  y: 48.75
+  z: 68.25
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Alliance Rapid-reaction Corps
+population: 5000017277
+security: High
+economy: High Tech
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Leesti
+inara_url: https://inara.cz/elite/starsystem/?search=Leesti
 ---
+
 
 <!-- AUTO-GENERATED -->
 

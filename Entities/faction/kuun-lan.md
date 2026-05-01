@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - hip-104292
 - lomonosov-city
+inara_url: https://inara.cz/elite/minorfaction/?search=Kuun-Lan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - imperial-senate
 - wreaken-construction
 - capitol
+inara_url: https://inara.cz/elite/minorfaction/?search=Mastopolos%20Mining
 ---
+
 
 <!-- AUTO-GENERATED -->
 

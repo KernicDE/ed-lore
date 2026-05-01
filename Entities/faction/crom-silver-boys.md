@@ -11,7 +11,9 @@ related_entities:
 - wolf-1301
 - crom
 - chorel-survey
+inara_url: https://inara.cz/elite/minorfaction/?search=Crom%20Silver%20Boys
 ---
+
 
 <!-- AUTO-GENERATED -->
 

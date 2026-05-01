@@ -11,7 +11,9 @@ related_entities:
 - metadrive-inc
 - sirius-corporation
 - canonn
+inara_url: https://inara.cz/elite/minorfaction/?search=Earth%20Defence%20Fleet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

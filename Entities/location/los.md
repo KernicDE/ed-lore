@@ -11,7 +11,21 @@ related_entities:
 - luchtaine
 - asura
 - tir
+coords:
+  x: -9509.34375
+  y: -886.3125
+  z: 19820.125
+allegiance: Independent
+government: Communism
+controlling_faction: ICU Colonial Corps
+population: 265119
+security: Medium
+economy: Service
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Los
+inara_url: https://inara.cz/elite/starsystem/?search=Los
 ---
+
 
 <!-- AUTO-GENERATED -->
 

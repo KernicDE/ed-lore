@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-09-29'
 last_seen_date: '3312-01-22'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Type-11%20Prospector
 ---
+
 
 <!-- AUTO-GENERATED -->
 

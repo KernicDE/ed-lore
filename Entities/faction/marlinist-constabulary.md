@@ -11,7 +11,9 @@ related_entities:
 - imperial-internal-security-service
 - nmla
 - neo-marlinist-liberation-army
+inara_url: https://inara.cz/elite/minorfaction/?search=Marlinist%20Constabulary
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - galactic-interfaith-commune
 - alliance
 - nmla
+inara_url: https://inara.cz/elite/minorfaction/?search=Far%20God%20cult
 ---
+
 
 <!-- AUTO-GENERATED -->
 

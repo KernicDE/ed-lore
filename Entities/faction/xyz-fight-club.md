@@ -11,7 +11,9 @@ related_entities:
 - lomas-racing-news
 - darboux-orbital
 - slough-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=XYZ%20Fight%20Club
 ---
+
 
 <!-- AUTO-GENERATED -->
 

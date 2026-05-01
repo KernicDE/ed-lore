@@ -10,7 +10,9 @@ related_entities:
 - kumo-crew
 - interstellar-press
 - mars
+inara_url: https://inara.cz/elite/minorfaction/?search=Stratis%20Information%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-02-24'
 last_seen_date: '3311-07-17'
 mention_count: 146
+inara_url: https://inara.cz/elite/cmdr-search/?search=Aisling%20Duval
 ---
+
 
 <!-- AUTO-GENERATED -->
 

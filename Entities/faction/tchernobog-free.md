@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - tchernobog
 - vancouver-ring
+inara_url: https://inara.cz/elite/minorfaction/?search=Tchernobog%20Free
 ---
+
 
 <!-- AUTO-GENERATED -->
 

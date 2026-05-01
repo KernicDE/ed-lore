@@ -11,7 +11,9 @@ related_entities:
 - cuchua
 - harma
 - kamadhenu
+inara_url: https://inara.cz/elite/minorfaction/?search=Velites%20Squadron
 ---
+
 
 <!-- AUTO-GENERATED -->
 

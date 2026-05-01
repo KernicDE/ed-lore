@@ -11,7 +11,21 @@ related_entities:
 - varati-system
 - maia
 - merope
+coords:
+  x: -174.75
+  y: 73.375
+  z: -92.84375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Canonn
+population: 432284
+security: Low
+economy: Refinery
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Col%20285%20Sector%20IX-T%20d3-43
+inara_url: https://inara.cz/elite/starsystem/?search=Col%20285%20Sector%20IX-T%20d3-43
 ---
+
 
 <!-- AUTO-GENERATED -->
 

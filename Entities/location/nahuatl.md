@@ -11,7 +11,21 @@ related_entities:
 - imperial-internal-security-service
 - imperial-senate
 - nmla
+coords:
+  x: 65.25
+  y: -85.75
+  z: -6.15625
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Deathwatch
+population: 3358268393
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Nahuatl
+inara_url: https://inara.cz/elite/starsystem/?search=Nahuatl
 ---
+
 
 <!-- AUTO-GENERATED -->
 

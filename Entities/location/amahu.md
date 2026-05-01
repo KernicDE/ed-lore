@@ -11,7 +11,21 @@ related_entities:
 - hip-10175
 - leerham
 - bd-11-4280
+coords:
+  x: -30.40625
+  y: 39.4375
+  z: 77.3125
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 3019918017
+security: High
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Amahu
+inara_url: https://inara.cz/elite/starsystem/?search=Amahu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

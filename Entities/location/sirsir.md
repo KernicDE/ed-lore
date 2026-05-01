@@ -11,7 +11,21 @@ related_entities:
 - league-of-zearla
 - sirsir-co
 - zearla
+coords:
+  x: 105.0625
+  y: 3.9375
+  z: 7.34375
+allegiance: Federation
+government: Corporate
+controlling_faction: Sirsir Co
+population: 720874
+security: Medium
+economy: Military
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Sirsir
+inara_url: https://inara.cz/elite/starsystem/?search=Sirsir
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-12-02'
 last_seen_date: '3312-03-23'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Caspian%20Explorer
 ---
+
 
 <!-- AUTO-GENERATED -->
 

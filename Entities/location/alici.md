@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - coalition-for-legalisation
 - vox-galactica
+coords:
+  x: -86.84375
+  y: -87.96875
+  z: 56.84375
+allegiance: Independent
+government: Confederacy
+controlling_faction: Tethys Independent Crew
+population: 6893163
+security: Low
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Alici
+inara_url: https://inara.cz/elite/starsystem/?search=Alici
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-03-23'
 last_seen_date: '3311-09-25'
 mention_count: 6
+inara_url: https://inara.cz/elite/cmdr-search/?search=Alexei%20Keel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - coalition-of-uteran
 - lp-726-6-free
 - gluscap-labour
+coords:
+  x: 60.9375
+  y: 10.34375
+  z: -1.09375
+allegiance: Federation
+government: Corporate
+controlling_faction: Skeggiko O Blue Electronics Corp
+population: 53140874
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Azaladshu
+inara_url: https://inara.cz/elite/starsystem/?search=Azaladshu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

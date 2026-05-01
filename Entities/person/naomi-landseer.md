@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3306-12-01'
 last_seen_date: '3310-07-30'
 mention_count: 5
+inara_url: https://inara.cz/elite/cmdr-search/?search=Naomi%20Landseer
 ---
+
 
 <!-- AUTO-GENERATED -->
 

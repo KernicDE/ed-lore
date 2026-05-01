@@ -11,7 +11,9 @@ related_entities:
 - federal-intelligence-agency
 - advocacy
 - nmla
+inara_url: https://inara.cz/elite/minorfaction/?search=Proactive%20Detection%20Bureau
 ---
+
 
 <!-- AUTO-GENERATED -->
 

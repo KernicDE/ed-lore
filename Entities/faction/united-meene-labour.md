@@ -9,7 +9,9 @@ related_entities:
 - meene
 - felice-dock
 - synuefe-xr-h-d11-102
+inara_url: https://inara.cz/elite/minorfaction/?search=United%20Meene%20Labour
 ---
+
 
 <!-- AUTO-GENERATED -->
 

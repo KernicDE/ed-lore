@@ -11,7 +11,9 @@ related_entities:
 - patrons-principles
 - blossom-family
 - federal-navy
+inara_url: https://inara.cz/elite/minorfaction/?search=Faveol%20family
 ---
+
 
 <!-- AUTO-GENERATED -->
 

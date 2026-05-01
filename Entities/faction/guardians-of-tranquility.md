@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - tarach-tor
 - tranquility
+inara_url: https://inara.cz/elite/minorfaction/?search=Guardians%20of%20Tranquility
 ---
+
 
 <!-- AUTO-GENERATED -->
 

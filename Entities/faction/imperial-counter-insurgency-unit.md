@@ -9,7 +9,9 @@ related_entities:
 - blue-hand-gang
 - wilkes-orbital
 - achenar
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20counter-insurgency%20unit
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-04-13'
 last_seen_date: '3310-01-08'
 mention_count: 13
+inara_url: https://inara.cz/elite/cmdr-search/?search=Nikolas%20Glass
 ---
+
 
 <!-- AUTO-GENERATED -->
 

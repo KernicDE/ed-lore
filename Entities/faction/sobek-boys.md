@@ -11,7 +11,9 @@ related_entities:
 - alioth
 - seddon-gateway
 - townsend-hub
+inara_url: https://inara.cz/elite/minorfaction/?search=Sobek%20Boys
 ---
+
 
 <!-- AUTO-GENERATED -->
 

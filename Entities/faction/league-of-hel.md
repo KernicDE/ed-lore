@@ -11,7 +11,9 @@ related_entities:
 - hammer-arms
 - adles-armada
 - labour-party-of-caill-reddi
+inara_url: https://inara.cz/elite/minorfaction/?search=League%20of%20Hel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

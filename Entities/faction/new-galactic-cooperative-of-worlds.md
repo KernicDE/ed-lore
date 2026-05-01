@@ -9,7 +9,9 @@ related_entities:
 - neits-jet-life-ltd
 - gr-316-silver-universal-group
 - neits-system
+inara_url: https://inara.cz/elite/minorfaction/?search=New%20Galactic%20Cooperative%20of%20Worlds
 ---
+
 
 <!-- AUTO-GENERATED -->
 

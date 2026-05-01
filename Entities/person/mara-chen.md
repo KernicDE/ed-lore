@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3312-03-17'
 last_seen_date: '3312-04-21'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Mara%20Chen
 ---
+
 
 <!-- AUTO-GENERATED -->
 

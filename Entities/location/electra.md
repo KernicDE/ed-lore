@@ -11,7 +11,21 @@ related_entities:
 - cavalieri
 - arcs-faith
 - artemis-lodge
+coords:
+  x: -86.0625
+  y: -159.9375
+  z: -361.65625
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Hive
+population: 1200000
+security: Medium
+economy: Industrial
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Electra
+inara_url: https://inara.cz/elite/starsystem/?search=Electra
 ---
+
 
 <!-- AUTO-GENERATED -->
 

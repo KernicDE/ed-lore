@@ -11,7 +11,21 @@ related_entities:
 - empire
 - federation
 - gateway
+coords:
+  x: 2.1875
+  y: 6.625
+  z: -7
+allegiance: Federation
+government: Corporate
+controlling_faction: Duamta Gold Creative Corp.
+population: 13327723347
+security: High
+economy: High Tech
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Duamta
+inara_url: https://inara.cz/elite/starsystem/?search=Duamta
 ---
+
 
 <!-- AUTO-GENERATED -->
 

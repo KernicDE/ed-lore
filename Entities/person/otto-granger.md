@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-08-31'
 last_seen_date: '3302-09-09'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Otto%20Granger
 ---
+
 
 <!-- AUTO-GENERATED -->
 

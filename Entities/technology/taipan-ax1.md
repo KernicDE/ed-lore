@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3303-11-11'
 last_seen_date: '3303-11-11'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Taipan%20AX1
 ---
+
 
 <!-- AUTO-GENERATED -->
 

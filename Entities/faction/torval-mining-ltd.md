@@ -11,7 +11,9 @@ related_entities:
 - imperial-senate
 - nmla
 - orion-university
+inara_url: https://inara.cz/elite/minorfaction/?search=Torval%20Mining%20Ltd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

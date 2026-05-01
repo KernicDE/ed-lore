@@ -11,7 +11,9 @@ related_entities:
 - the-rewired
 - wallglass-investigations-agency
 - vox-galactica
+inara_url: https://inara.cz/elite/minorfaction/?search=Jokers%27%20Deck
 ---
+
 
 <!-- AUTO-GENERATED -->
 

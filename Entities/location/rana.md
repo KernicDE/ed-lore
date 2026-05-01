@@ -9,7 +9,21 @@ related_entities:
 - federal-intelligence-agency
 - interstellar-association-of-universities
 - far-god-cult
+coords:
+  x: 6.5
+  y: -21
+  z: -19.65625
+allegiance: Federation
+government: Corporate
+controlling_faction: Earth Defense Fleet
+population: 17566027075
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Rana
+inara_url: https://inara.cz/elite/starsystem/?search=Rana
 ---
+
 
 <!-- AUTO-GENERATED -->
 

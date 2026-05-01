@@ -11,7 +11,9 @@ related_entities:
 - lhs-3447-dynamic-and-co
 - lhs-3447
 - eravate
+inara_url: https://inara.cz/elite/minorfaction/?search=Asellus%20Primus%20Gold%20Legal%20Ind.
 ---
+
 
 <!-- AUTO-GENERATED -->
 

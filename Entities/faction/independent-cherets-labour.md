@@ -11,7 +11,9 @@ related_entities:
 - anduliga
 - achenar
 - alioth
+inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Cherets%20Labour
 ---
+
 
 <!-- AUTO-GENERATED -->
 

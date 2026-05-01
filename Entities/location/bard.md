@@ -11,7 +11,21 @@ related_entities:
 - avalon-system
 - arrhenius-terminal
 - algol-system
+coords:
+  x: -32.40625
+  y: -136.15625
+  z: 55.6875
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Emporium
+population: 22975460
+security: Medium
+economy: Terraforming
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Bard
+inara_url: https://inara.cz/elite/starsystem/?search=Bard
 ---
+
 
 <!-- AUTO-GENERATED -->
 

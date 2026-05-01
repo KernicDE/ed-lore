@@ -11,7 +11,21 @@ related_entities:
 - tanmark
 - harvestport
 - scythe-of-panem
+coords:
+  x: 12.46875
+  y: -66.71875
+  z: -22.90625
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
+population: 7650577
+security: Medium
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Kappa%20Fornacis
+inara_url: https://inara.cz/elite/starsystem/?search=Kappa%20Fornacis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - federation
 - empire
 - pleiades-nebula
+inara_url: https://inara.cz/elite/minorfaction/?search=Coalition%20of%20Othime
 ---
+
 
 <!-- AUTO-GENERATED -->
 

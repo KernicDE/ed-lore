@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-06-30'
 last_seen_date: '3304-12-22'
 mention_count: 20
+inara_url: https://inara.cz/elite/cmdr-search/?search=Juanita%20Bishop
 ---
+
 
 <!-- AUTO-GENERATED -->
 

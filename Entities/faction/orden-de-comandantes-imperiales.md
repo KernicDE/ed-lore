@@ -10,7 +10,9 @@ related_entities:
 - kamocan
 - achenar
 - capitol
+inara_url: https://inara.cz/elite/minorfaction/?search=Orden%20de%20Comandantes%20Imperiales
 ---
+
 
 <!-- AUTO-GENERATED -->
 

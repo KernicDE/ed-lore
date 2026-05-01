@@ -9,7 +9,9 @@ related_entities:
 - aegis
 - wyrd
 - vonarburg-co-operative
+inara_url: https://inara.cz/elite/minorfaction/?search=Wyrd%20Jet%20Power%20Industries
 ---
+
 
 <!-- AUTO-GENERATED -->
 

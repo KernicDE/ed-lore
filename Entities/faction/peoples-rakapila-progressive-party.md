@@ -9,7 +9,9 @@ related_entities:
 - rakapila
 - stone-enterprise
 - supratech
+inara_url: https://inara.cz/elite/minorfaction/?search=People%27s%20Rakapila%20Progressive%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

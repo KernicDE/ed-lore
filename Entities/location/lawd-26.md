@@ -11,7 +11,21 @@ related_entities:
 - crooks-hub
 - core-dynamics
 - federal-navy
+coords:
+  x: 20.90625
+  y: -7.5
+  z: 3.75
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
+population: 25000
+security: Low
+economy: Extraction
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=LAWD%2026
+inara_url: https://inara.cz/elite/starsystem/?search=LAWD%2026
 ---
+
 
 <!-- AUTO-GENERATED -->
 

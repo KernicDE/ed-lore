@@ -11,7 +11,9 @@ related_entities:
 - coalition-of-uteran
 - lp-726-6-free
 - azaladshu
+inara_url: https://inara.cz/elite/minorfaction/?search=Gluscap%20Labour
 ---
+
 
 <!-- AUTO-GENERATED -->
 

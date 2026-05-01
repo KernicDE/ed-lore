@@ -11,7 +11,9 @@ related_entities:
 - facece
 - nehet
 - mictlan
+inara_url: https://inara.cz/elite/minorfaction/?search=Nehet%20Silver%20Ring
 ---
+
 
 <!-- AUTO-GENERATED -->
 

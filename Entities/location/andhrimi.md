@@ -10,7 +10,21 @@ related_entities:
 - yurchikhin-station
 - empire
 - federation
+coords:
+  x: 10.375
+  y: -54.40625
+  z: 18.6875
+allegiance: Independent
+government: Democracy
+controlling_faction: Paladin Consortium
+population: 48597994
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Andhrimi
+inara_url: https://inara.cz/elite/starsystem/?search=Andhrimi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-08-10'
 last_seen_date: '3301-08-10'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Sidewinder
 ---
+
 
 <!-- AUTO-GENERATED -->
 

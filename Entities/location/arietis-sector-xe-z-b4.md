@@ -11,7 +11,21 @@ related_entities:
 - empire
 - orcus-crag
 - pre-logistics-support-beta
+coords:
+  x: -98.78125
+  y: -54.03125
+  z: -199.6875
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 27924
+security: Medium
+economy: Military
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Arietis%20Sector%20XE-Z%20b4
+inara_url: https://inara.cz/elite/starsystem/?search=Arietis%20Sector%20XE-Z%20b4
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - federal-security-service
 - sirius-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Niflhel%20Guardians%20Of%20Tradition
 ---
+
 
 <!-- AUTO-GENERATED -->
 

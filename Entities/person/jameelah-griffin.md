@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-07-26'
 last_seen_date: '3308-08-16'
 mention_count: 7
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jameelah%20Griffin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - tenche
 - nagasairu
 - brewer-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Steel%20Castle%20Inc
 ---
+
 
 <!-- AUTO-GENERATED -->
 

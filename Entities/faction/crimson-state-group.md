@@ -11,7 +11,9 @@ related_entities:
 - lugh-for-equality
 - hartsfield-market
 - alioth
+inara_url: https://inara.cz/elite/minorfaction/?search=Crimson%20State%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

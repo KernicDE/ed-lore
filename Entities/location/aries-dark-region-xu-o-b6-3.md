@@ -8,7 +8,14 @@ mention_count: 1
 related_entities:
 - pleiades-sector-ab-w-b2-4
 - hip-17862
+coords:
+  x: -48.5625
+  y: -163.46875
+  z: -212.125
+edsm_url: https://www.edsm.net/en/system?search=Aries%20Dark%20Region%20XU-O%20b6-3
+inara_url: https://inara.cz/elite/starsystem/?search=Aries%20Dark%20Region%20XU-O%20b6-3
 ---
+
 
 <!-- AUTO-GENERATED -->
 

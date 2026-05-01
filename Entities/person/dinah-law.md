@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-06-21'
 last_seen_date: '3304-06-24'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Dinah%20Law
 ---
+
 
 <!-- AUTO-GENERATED -->
 

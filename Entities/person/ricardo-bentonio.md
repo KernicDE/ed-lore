@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-08-14'
 last_seen_date: '3303-01-28'
 mention_count: 7
+inara_url: https://inara.cz/elite/cmdr-search/?search=Ricardo%20Bentonio
 ---
+
 
 <!-- AUTO-GENERATED -->
 

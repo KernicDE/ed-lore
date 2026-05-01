@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - nova-imperium
 - cordova-group
+coords:
+  x: 89.15625
+  y: 3.46875
+  z: 45.1875
+allegiance: Federation
+government: Corporate
+controlling_faction: Federal Reclamation Co
+population: 4083312
+security: Medium
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Olelbis
+inara_url: https://inara.cz/elite/starsystem/?search=Olelbis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

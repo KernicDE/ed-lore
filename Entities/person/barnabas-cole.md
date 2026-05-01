@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-12-06'
 last_seen_date: '3305-04-11'
 mention_count: 11
+inara_url: https://inara.cz/elite/cmdr-search/?search=Barnabas%20Cole
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - hip-22460
 - 42-n-persei
 - chun-pindit
+inara_url: https://inara.cz/elite/minorfaction/?search=Thargoid%20Advocacy%20Project
 ---
+
 
 <!-- AUTO-GENERATED -->
 

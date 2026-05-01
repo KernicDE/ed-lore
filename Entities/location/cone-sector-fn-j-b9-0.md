@@ -11,7 +11,14 @@ related_entities:
 - pilots-federation
 - pleiades-nebula
 - outotz-st-i-d9-6
+coords:
+  x: 818.25
+  y: 99.59375
+  z: -1944.375
+edsm_url: https://www.edsm.net/en/system?search=Cone%20Sector%20FN-J%20B9-0
+inara_url: https://inara.cz/elite/starsystem/?search=Cone%20Sector%20FN-J%20B9-0
 ---
+
 
 <!-- AUTO-GENERATED -->
 

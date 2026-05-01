@@ -11,7 +11,21 @@ related_entities:
 - 64-arietis
 - arawere
 - harma
+coords:
+  x: -51.9375
+  y: -95.625
+  z: 10.0625
+allegiance: Independent
+government: Democracy
+controlling_faction: G-CLAN
+population: 3994189121
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Halbangaay
+inara_url: https://inara.cz/elite/starsystem/?search=Halbangaay
 ---
+
 
 <!-- AUTO-GENERATED -->
 

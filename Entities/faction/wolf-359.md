@@ -11,7 +11,9 @@ related_entities:
 - buckyball-racing-club
 - lomas-station
 - aegis
+inara_url: https://inara.cz/elite/minorfaction/?search=Wolf%20359
 ---
+
 
 <!-- AUTO-GENERATED -->
 

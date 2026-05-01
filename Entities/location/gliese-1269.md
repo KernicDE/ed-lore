@@ -11,7 +11,21 @@ related_entities:
 - fuel-rats
 - distant-worlds-expedition
 - eol-prou-rs-t-d3-94
+coords:
+  x: -167.4375
+  y: -132.375
+  z: 36.8125
+allegiance: Independent
+government: Democracy
+controlling_faction: Channel Zero
+population: 3928358
+security: Low
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Gliese%201269
+inara_url: https://inara.cz/elite/starsystem/?search=Gliese%201269
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - pilots-federation
 - eravate
 - 63-g-capricorni
+inara_url: https://inara.cz/elite/minorfaction/?search=Diamond%20Frogs
 ---
+
 
 <!-- AUTO-GENERATED -->
 

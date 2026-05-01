@@ -11,7 +11,9 @@ related_entities:
 - djaujas
 - khona
 - dohkwithi
+inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20of%20Independent%20Systems
 ---
+
 
 <!-- AUTO-GENERATED -->
 

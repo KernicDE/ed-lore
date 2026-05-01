@@ -9,7 +9,21 @@ related_entities:
 - universal-cartographics
 - naraka
 - eranin
+coords:
+  x: -34.65625
+  y: 22.84375
+  z: -4.59375
+allegiance: Federation
+government: Democracy
+controlling_faction: Blood Brothers from Alrai
+population: 7591902
+security: Medium
+economy: Refinery
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Pi-Fang
+inara_url: https://inara.cz/elite/starsystem/?search=Pi-Fang
 ---
+
 
 <!-- AUTO-GENERATED -->
 

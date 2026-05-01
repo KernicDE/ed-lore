@@ -11,7 +11,21 @@ related_entities:
 - nmla
 - kamadhenu
 - lave
+coords:
+  x: 49.5
+  y: -104.03125
+  z: 6.3125
+allegiance: Empire
+government: Patronage
+controlling_faction: Nova Paresa
+population: 6467401235
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Eotienses
+inara_url: https://inara.cz/elite/starsystem/?search=Eotienses
 ---
+
 
 <!-- AUTO-GENERATED -->
 

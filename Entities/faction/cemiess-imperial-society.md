@@ -11,7 +11,9 @@ related_entities:
 - nova-imperium
 - vitadyne-labs
 - achenar
+inara_url: https://inara.cz/elite/minorfaction/?search=Cemiess%20Imperial%20Society
 ---
+
 
 <!-- AUTO-GENERATED -->
 

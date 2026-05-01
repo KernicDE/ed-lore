@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - utopia-commune
 - cenker-city
+coords:
+  x: -89.6875
+  y: -97.09375
+  z: -76.875
+allegiance: Independent
+government: Corporate
+controlling_faction: Royal Phoenix Corporation
+population: 5209259
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Gucumadhyas
+inara_url: https://inara.cz/elite/starsystem/?search=Gucumadhyas
 ---
+
 
 <!-- AUTO-GENERATED -->
 

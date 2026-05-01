@@ -11,7 +11,21 @@ related_entities:
 - amahu
 - leerham
 - bd-11-4280
+coords:
+  x: -45.09375
+  y: 43.5625
+  z: 82.6875
+allegiance: Independent
+government: Corporate
+controlling_faction: Oblivion Fleet
+population: 11050870
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Cantjarisni
+inara_url: https://inara.cz/elite/starsystem/?search=Cantjarisni
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - ceeckia-zq-l-c24-0
 - sol
 - federal-times
+inara_url: https://inara.cz/elite/minorfaction/?search=Distant%20Worlds%20Expedition
 ---
+
 
 <!-- AUTO-GENERATED -->
 

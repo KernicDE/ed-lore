@@ -11,7 +11,9 @@ related_entities:
 - proactive-detection-bureau
 - federal-navy
 - mars
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Congress
 ---
+
 
 <!-- AUTO-GENERATED -->
 

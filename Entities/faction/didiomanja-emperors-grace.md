@@ -11,7 +11,9 @@ related_entities:
 - emperors-grace
 - alliance
 - inra
+inara_url: https://inara.cz/elite/minorfaction/?search=Didiomanja%20Emperor%27s%20Grace
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - exogene-sciences
 - wallglass-investigations-agency
 - kumo-crew
+inara_url: https://inara.cz/elite/minorfaction/?search=October%20Consortium
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -10,7 +10,21 @@ related_entities:
 - grovichun
 - achenar
 - capitol
+coords:
+  x: 63.5
+  y: -116.90625
+  z: 48.15625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Celestial Light Brigade
+population: 11931312
+security: Medium
+economy: High Tech
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Caspatsuria
+inara_url: https://inara.cz/elite/starsystem/?search=Caspatsuria
 ---
+
 
 <!-- AUTO-GENERATED -->
 

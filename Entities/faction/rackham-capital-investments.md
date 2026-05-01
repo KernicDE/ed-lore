@@ -11,7 +11,9 @@ related_entities:
 - herculean-machines
 - colonia-hub
 - mars
+inara_url: https://inara.cz/elite/minorfaction/?search=Rackham%20Capital%20Investments
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -7,7 +7,9 @@ last_seen_date: '3305-09-05'
 mention_count: 2
 related_entities:
 - heike
+inara_url: https://inara.cz/elite/minorfaction/?search=Sap%20Core%20Legion
 ---
+
 
 <!-- AUTO-GENERATED -->
 

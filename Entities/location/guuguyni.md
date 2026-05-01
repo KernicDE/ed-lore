@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - guuguyni-empire-consulate
 - shen-terminal
+coords:
+  x: 130.84375
+  y: -96.46875
+  z: 67.5625
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Guard of Outer Imperial Colonies
+population: 18147140
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Guuguyni
+inara_url: https://inara.cz/elite/starsystem/?search=Guuguyni
 ---
+
 
 <!-- AUTO-GENERATED -->
 

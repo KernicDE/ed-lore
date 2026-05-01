@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - meene
 - alliance
+coords:
+  x: 78.78125
+  y: 10.90625
+  z: -49.46875
+allegiance: Federation
+government: Corporate
+controlling_faction: Federal Liberal Command
+population: 23834536
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Loha
+inara_url: https://inara.cz/elite/starsystem/?search=Loha
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-07-06'
 last_seen_date: '3301-08-03'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Andariel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

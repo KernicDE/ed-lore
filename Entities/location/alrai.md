@@ -11,7 +11,21 @@ related_entities:
 - adles-armada
 - blood-brothers
 - ronin-of-amarak
+coords:
+  x: -38.71875
+  y: 12.3125
+  z: -21.625
+allegiance: Federation
+government: Democracy
+controlling_faction: Blood Brothers from Alrai
+population: 12801179
+security: High
+economy: High Tech
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Alrai
+inara_url: https://inara.cz/elite/starsystem/?search=Alrai
 ---
+
 
 <!-- AUTO-GENERATED -->
 

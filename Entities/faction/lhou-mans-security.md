@@ -11,7 +11,9 @@ related_entities:
 - authorities-in-the-lhou-mans
 - enterprise
 - gateway
+inara_url: https://inara.cz/elite/minorfaction/?search=Lhou%20Mans%20Security
 ---
+
 
 <!-- AUTO-GENERATED -->
 

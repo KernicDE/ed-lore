@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - coalsack-sector-vu-0-b6-6
 - musca-dark-region-im-v-c2-24
+coords:
+  x: 432.625
+  y: 2.53125
+  z: 288.6875
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Expeditionary Pact
+population: 1462571
+security: Low
+economy: Extraction
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Musca%20Dark%20Region%20PJ-P%20b6-1
+inara_url: https://inara.cz/elite/starsystem/?search=Musca%20Dark%20Region%20PJ-P%20b6-1
 ---
+
 
 <!-- AUTO-GENERATED -->
 

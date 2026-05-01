@@ -11,7 +11,21 @@ related_entities:
 - eravate
 - gabriel-enterprise
 - harma
+coords:
+  x: 14.4375
+  y: -61.875
+  z: 16.5
+allegiance: Independent
+government: Democracy
+controlling_faction: Paladin Consortium
+population: 554147446
+security: Low
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=LFT%2037
+inara_url: https://inara.cz/elite/starsystem/?search=LFT%2037
 ---
+
 
 <!-- AUTO-GENERATED -->
 

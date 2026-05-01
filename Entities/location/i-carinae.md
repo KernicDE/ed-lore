@@ -8,7 +8,14 @@ mention_count: 2
 related_entities:
 - secret-billionaires
 - somerset-station
+coords:
+  x: 526.125
+  y: -90.96875
+  z: 97.125
+edsm_url: https://www.edsm.net/en/system?search=I%20Carinae
+inara_url: https://inara.cz/elite/starsystem/?search=I%20Carinae
 ---
+
 
 <!-- AUTO-GENERATED -->
 

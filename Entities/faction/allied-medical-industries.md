@@ -11,7 +11,9 @@ related_entities:
 - interstellar-health-organisation
 - vandermeer-corporation
 - vitadyne-labs
+inara_url: https://inara.cz/elite/minorfaction/?search=Allied%20Medical%20Industries
 ---
+
 
 <!-- AUTO-GENERATED -->
 

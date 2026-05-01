@@ -11,7 +11,9 @@ related_entities:
 - mars-high-astrocartography
 - emperors-dawn
 - mars-high
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Imperial%20Citizen
 ---
+
 
 <!-- AUTO-GENERATED -->
 

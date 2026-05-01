@@ -11,7 +11,21 @@ related_entities:
 - camorra-of-krisha
 - gandii
 - fincke-depot
+coords:
+  x: -108.625
+  y: -107.21875
+  z: 14.65625
+allegiance: Independent
+government: Democracy
+controlling_faction: Channel Zero
+population: 107293
+security: Low
+economy: Agriculture
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Krisha
+inara_url: https://inara.cz/elite/starsystem/?search=Krisha
 ---
+
 
 <!-- AUTO-GENERATED -->
 

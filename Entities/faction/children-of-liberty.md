@@ -9,7 +9,9 @@ related_entities:
 - alliance
 - alioth
 - capitol
+inara_url: https://inara.cz/elite/minorfaction/?search=Children%20of%20Liberty
 ---
+
 
 <!-- AUTO-GENERATED -->
 

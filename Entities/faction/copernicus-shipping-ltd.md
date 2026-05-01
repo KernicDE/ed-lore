@@ -11,7 +11,9 @@ related_entities:
 - burnell-station
 - alliance
 - libertas-cooperative
+inara_url: https://inara.cz/elite/minorfaction/?search=Copernicus%20Shipping%20Ltd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

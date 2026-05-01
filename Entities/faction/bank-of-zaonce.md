@@ -11,7 +11,9 @@ related_entities:
 - alliance-assembly
 - alliance-tribune
 - alliance-interpol
+inara_url: https://inara.cz/elite/minorfaction/?search=Bank%20of%20Zaonce
 ---
+
 
 <!-- AUTO-GENERATED -->
 

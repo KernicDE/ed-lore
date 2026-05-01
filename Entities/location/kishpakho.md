@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - coalition-for-legalisation
 - vox-galactica
+coords:
+  x: -7.84375
+  y: 97.125
+  z: 76.90625
+allegiance: Alliance
+government: Corporate
+controlling_faction: Razorback Astronautics
+population: 7272491
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Kishpakho
+inara_url: https://inara.cz/elite/starsystem/?search=Kishpakho
 ---
+
 
 <!-- AUTO-GENERATED -->
 

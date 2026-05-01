@@ -10,7 +10,21 @@ related_entities:
 - buckyball-racing-club
 - cook-gateway
 - medzistha
+coords:
+  x: -52.65625
+  y: -69
+  z: 105.40625
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Free Space Rangers
+population: 37339758
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Omicron%20Capricorni%20B
+inara_url: https://inara.cz/elite/starsystem/?search=Omicron%20Capricorni%20B
 ---
+
 
 <!-- AUTO-GENERATED -->
 

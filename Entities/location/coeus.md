@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - colonia-co-operative
 - foster-terminal
+coords:
+  x: -9531.71875
+  y: -885.3125
+  z: 19839.21875
+allegiance: Independent
+government: Corporate
+controlling_faction: Ukraine Colonist Alliance
+population: 212126
+security: Medium
+economy: Industrial
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Coeus
+inara_url: https://inara.cz/elite/starsystem/?search=Coeus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

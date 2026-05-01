@@ -11,7 +11,21 @@ related_entities:
 - alliance
 - nmla
 - imperial-herald
+coords:
+  x: 67.5
+  y: -119.46875
+  z: 24.84375
+allegiance: Empire
+government: Patronage
+controlling_faction: Achenar Empire League
+population: 16380054761
+security: High
+economy: Refinery
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Achenar
+inara_url: https://inara.cz/elite/starsystem/?search=Achenar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

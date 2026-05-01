@@ -10,7 +10,21 @@ related_entities:
 - daikulcandi
 - gondul
 - maityan
+coords:
+  x: 10.5625
+  y: -10.53125
+  z: 29.75
+allegiance: Independent
+government: Democracy
+controlling_faction: The Dark Wheel
+population: 89672
+security: Medium
+economy: Military
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Santy
+inara_url: https://inara.cz/elite/starsystem/?search=Santy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

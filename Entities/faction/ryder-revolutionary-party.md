@@ -9,7 +9,9 @@ related_entities:
 - palin-institute
 - maia
 - obsidian-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Ryder%20Revolutionary%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

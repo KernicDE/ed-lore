@@ -9,7 +9,21 @@ related_entities:
 - balones-gold-touch-systems
 - tiedemann-dock
 - synuefe
+coords:
+  x: -109.15625
+  y: -54
+  z: -79.96875
+allegiance: Independent
+government: Anarchy
+controlling_faction: Dangus Investigations
+population: 4337438
+security: Anarchy
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Balones
+inara_url: https://inara.cz/elite/starsystem/?search=Balones
 ---
+
 
 <!-- AUTO-GENERATED -->
 

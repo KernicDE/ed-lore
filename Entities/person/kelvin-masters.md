@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3303-04-22'
 last_seen_date: '3306-01-13'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Kelvin%20Masters
 ---
+
 
 <!-- AUTO-GENERATED -->
 

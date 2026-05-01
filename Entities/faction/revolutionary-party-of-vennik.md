@@ -9,7 +9,9 @@ related_entities:
 - vennik-system
 - vennik-1
 - nixon-enterprise
+inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Party%20of%20Vennik
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - blossum-family
 - liaedin
 - volungu
+inara_url: https://inara.cz/elite/minorfaction/?search=Crimson%20Fortune%20Company
 ---
+
 
 <!-- AUTO-GENERATED -->
 

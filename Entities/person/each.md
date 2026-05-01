@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-01-04'
 last_seen_date: '3307-03-26'
 mention_count: 6
+inara_url: https://inara.cz/elite/cmdr-search/?search=Each
 ---
+
 
 <!-- AUTO-GENERATED -->
 

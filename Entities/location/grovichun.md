@@ -10,7 +10,21 @@ related_entities:
 - caspatsuria
 - achenar
 - capitol
+coords:
+  x: 72.90625
+  y: -112.375
+  z: 59.46875
+allegiance: Independent
+government: Patronage
+controlling_faction: The Darkhorse Crew
+population: 5403714
+security: Medium
+economy: Industrial
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Grovichun
+inara_url: https://inara.cz/elite/starsystem/?search=Grovichun
 ---
+
 
 <!-- AUTO-GENERATED -->
 

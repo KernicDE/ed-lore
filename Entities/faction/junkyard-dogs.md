@@ -9,7 +9,9 @@ related_entities:
 - colonia-council
 - eol-prou-lw-l-c8-215
 - tolagarfs-junkjard
+inara_url: https://inara.cz/elite/minorfaction/?search=Junkyard%20Dogs
 ---
+
 
 <!-- AUTO-GENERATED -->
 

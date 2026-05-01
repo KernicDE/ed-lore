@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - qawakana
 - carpini-terminal
+inara_url: https://inara.cz/elite/minorfaction/?search=Knights%20of%20Karma
 ---
+
 
 <!-- AUTO-GENERATED -->
 

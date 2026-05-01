@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-11-26'
 last_seen_date: '3301-11-26'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Xihe%20Companions
 ---
+
 
 <!-- AUTO-GENERATED -->
 

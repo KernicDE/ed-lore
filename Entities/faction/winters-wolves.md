@@ -9,7 +9,9 @@ related_entities:
 - aislings-13th-legion
 - chona
 - smoot-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Winters%27%20Wolves
 ---
+
 
 <!-- AUTO-GENERATED -->
 

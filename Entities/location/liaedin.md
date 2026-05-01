@@ -11,7 +11,21 @@ related_entities:
 - furbaide
 - effinger-port
 - lhs-3505
+coords:
+  x: -32.03125
+  y: -5.8125
+  z: 38.125
+allegiance: Federation
+government: Corporate
+controlling_faction: Volungu Crimson Fortune Company
+population: 53013370
+security: Medium
+economy: Extraction
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Liaedin
+inara_url: https://inara.cz/elite/starsystem/?search=Liaedin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

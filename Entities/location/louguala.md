@@ -11,7 +11,21 @@ related_entities:
 - hip-10175
 - amahu
 - leerham
+coords:
+  x: -30.84375
+  y: 29.15625
+  z: 104.71875
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 1364980518
+security: Medium
+economy: Tourism
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Louguala
+inara_url: https://inara.cz/elite/starsystem/?search=Louguala
 ---
+
 
 <!-- AUTO-GENERATED -->
 

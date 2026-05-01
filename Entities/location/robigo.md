@@ -11,7 +11,21 @@ related_entities:
 - almar
 - halbangaay
 - 64-arietis
+coords:
+  x: -303.40625
+  y: 7.3125
+  z: -314.15625
+allegiance: Independent
+government: Corporate
+controlling_faction: Sirius Corporation
+population: 444782
+security: Medium
+economy: Extraction
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Robigo
+inara_url: https://inara.cz/elite/starsystem/?search=Robigo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

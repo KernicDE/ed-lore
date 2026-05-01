@@ -11,7 +11,21 @@ related_entities:
 - tascheter
 - oduduro
 - kumo-crew
+coords:
+  x: -1.75
+  y: -33.90625
+  z: -32.96875
+allegiance: Federation
+government: Corporate
+controlling_faction: Sirius Special Forces
+population: 1216083
+security: Medium
+economy: Colony
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Akkadia
+inara_url: https://inara.cz/elite/starsystem/?search=Akkadia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-09-20'
 last_seen_date: '3304-11-24'
 mention_count: 16
+inara_url: https://inara.cz/elite/cmdr-search/?search=Ramesh%20Thorne
 ---
+
 
 <!-- AUTO-GENERATED -->
 

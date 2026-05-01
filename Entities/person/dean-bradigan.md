@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3306-09-17'
 last_seen_date: '3306-09-21'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Dean%20Bradigan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

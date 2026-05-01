@@ -11,7 +11,9 @@ related_entities:
 - ceos
 - hip-8396
 - robigo
+inara_url: https://inara.cz/elite/minorfaction/?search=Money%20Matters
 ---
+
 
 <!-- AUTO-GENERATED -->
 

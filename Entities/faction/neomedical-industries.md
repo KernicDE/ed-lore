@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - kumo-crew
 - allied-medical-industries
+inara_url: https://inara.cz/elite/minorfaction/?search=Neomedical%20Industries
 ---
+
 
 <!-- AUTO-GENERATED -->
 

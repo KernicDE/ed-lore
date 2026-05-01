@@ -9,7 +9,21 @@ related_entities:
 - core-dynamics
 - klimuk-ring
 - guaras-blue-creative-partners
+coords:
+  x: -89.65625
+  y: -0.1875
+  z: 2.5
+allegiance: Federation
+government: Corporate
+controlling_faction: Karini Silver United Inc
+population: 6337473
+security: Medium
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Guaras
+inara_url: https://inara.cz/elite/starsystem/?search=Guaras
 ---
+
 
 <!-- AUTO-GENERATED -->
 

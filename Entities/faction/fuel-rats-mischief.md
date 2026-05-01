@@ -11,7 +11,9 @@ related_entities:
 - jaques-station
 - sagittarius-a
 - fuelum
+inara_url: https://inara.cz/elite/minorfaction/?search=Fuel%20Rats%20Mischief
 ---
+
 
 <!-- AUTO-GENERATED -->
 

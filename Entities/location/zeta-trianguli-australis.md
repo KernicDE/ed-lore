@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - wallglass
 - wallglass-investigations-agency
+coords:
+  x: 24.65625
+  y: -10.25
+  z: 29.125
+allegiance: Independent
+government: Patronage
+controlling_faction: Arbor Caelum Internal Defense
+population: 44371970
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Zeta%20Trianguli%20Australis
+inara_url: https://inara.cz/elite/starsystem/?search=Zeta%20Trianguli%20Australis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

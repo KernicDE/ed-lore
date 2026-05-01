@@ -11,7 +11,9 @@ related_entities:
 - neville-horizons
 - aegis
 - federal-republican-command
+inara_url: https://inara.cz/elite/minorfaction/?search=Kaushpoos%20Pro-Alliance%20Union
 ---
+
 
 <!-- AUTO-GENERATED -->
 

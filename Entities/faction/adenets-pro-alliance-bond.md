@@ -11,7 +11,9 @@ related_entities:
 - henslow-market
 - sol
 - adeness
+inara_url: https://inara.cz/elite/minorfaction/?search=Adenets%20Pro-Alliance%20Bond
 ---
+
 
 <!-- AUTO-GENERATED -->
 

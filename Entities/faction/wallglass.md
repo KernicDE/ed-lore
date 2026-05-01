@@ -10,7 +10,9 @@ related_entities:
 - federal-times
 - sol
 - zeta-trianguli-australis
+inara_url: https://inara.cz/elite/minorfaction/?search=Wallglass
 ---
+
 
 <!-- AUTO-GENERATED -->
 

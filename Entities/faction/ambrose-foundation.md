@@ -10,7 +10,9 @@ related_entities:
 - wallglass-investigations-agency
 - jokers-deck
 - diso
+inara_url: https://inara.cz/elite/minorfaction/?search=Ambrose%20Foundation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

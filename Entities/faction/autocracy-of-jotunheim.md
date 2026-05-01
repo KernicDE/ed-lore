@@ -10,7 +10,9 @@ related_entities:
 - yum-kamcabi-purple-life-industry
 - jotunheim
 - big-harrys-monkey-hangout
+inara_url: https://inara.cz/elite/minorfaction/?search=Autocracy%20of%20Jotunheim
 ---
+
 
 <!-- AUTO-GENERATED -->
 

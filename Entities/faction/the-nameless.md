@@ -9,7 +9,9 @@ related_entities:
 - colonia-council
 - carcosa
 - jaques-station
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Nameless
 ---
+
 
 <!-- AUTO-GENERATED -->
 

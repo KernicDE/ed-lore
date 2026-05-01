@@ -9,7 +9,9 @@ related_entities:
 - sol
 - mars
 - prism
+inara_url: https://inara.cz/elite/minorfaction/?search=Sol%20Herald
 ---
+
 
 <!-- AUTO-GENERATED -->
 

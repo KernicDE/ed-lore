@@ -10,7 +10,9 @@ related_entities:
 - torval-mastopolos-mining
 - zearla
 - col-70-sector
+inara_url: https://inara.cz/elite/minorfaction/?search=Wreaken%20Construction
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - imperial-senate
 - emperors-dawn
 - imperial-guard
+coords:
+  x: 128.28125
+  y: -155.625
+  z: 84.21875
+allegiance: Empire
+government: Patronage
+controlling_faction: Prismatic Imperium
+population: 10016390018
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Cubeo
+inara_url: https://inara.cz/elite/starsystem/?search=Cubeo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

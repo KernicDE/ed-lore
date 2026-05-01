@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - ltt-1935-confederacy
 - imperial-internal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=L.Y.S%20Corp
 ---
+
 
 <!-- AUTO-GENERATED -->
 

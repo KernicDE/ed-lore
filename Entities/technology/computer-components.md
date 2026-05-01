@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-11-12'
 last_seen_date: '3301-11-12'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Computer%20Components
 ---
+
 
 <!-- AUTO-GENERATED -->
 

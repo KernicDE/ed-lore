@@ -11,7 +11,9 @@ related_entities:
 - arrhenius-terminal
 - bard
 - algol-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Jeffress%20treasure%20hunt%20organisers
 ---
+
 
 <!-- AUTO-GENERATED -->
 

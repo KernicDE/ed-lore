@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - interstellar-press
 - jaques-station
+coords:
+  x: 19.0625
+  y: 139.40625
+  z: -3.3125
+allegiance: Independent
+government: Patronage
+controlling_faction: Fathers Of The Void
+population: 18064289
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ocshooit
+inara_url: https://inara.cz/elite/starsystem/?search=Ocshooit
 ---
+
 
 <!-- AUTO-GENERATED -->
 

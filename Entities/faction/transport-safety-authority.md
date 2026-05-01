@@ -10,7 +10,9 @@ related_entities:
 - mars
 - artemis
 - laphria-shipyard
+inara_url: https://inara.cz/elite/minorfaction/?search=Transport%20Safety%20Authority
 ---
+
 
 <!-- AUTO-GENERATED -->
 

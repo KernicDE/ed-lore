@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: -11.34375
+  y: -136
+  z: -13.75
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Winged Hussars
+population: 36405827
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Lileni
+inara_url: https://inara.cz/elite/starsystem/?search=Lileni
 ---
+
 
 <!-- AUTO-GENERATED -->
 

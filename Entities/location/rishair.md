@@ -11,7 +11,21 @@ related_entities:
 - imperial-navy
 - chona
 - cosmic-state
+coords:
+  x: 95.71875
+  y: -160.46875
+  z: 40.46875
+allegiance: Independent
+government: Confederacy
+controlling_faction: Browncoat Uprising
+population: 6342671
+security: Medium
+economy: Refinery
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Rishair
+inara_url: https://inara.cz/elite/starsystem/?search=Rishair
 ---
+
 
 <!-- AUTO-GENERATED -->
 

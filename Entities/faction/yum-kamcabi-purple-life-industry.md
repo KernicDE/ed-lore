@@ -11,7 +11,9 @@ related_entities:
 - autocracy-of-jotunheim
 - revolutionary-jotunheim-resistance
 - jotunheim
+inara_url: https://inara.cz/elite/minorfaction/?search=Yum%20Kamcabi%20Purple%20Life%20Industry
 ---
+
 
 <!-- AUTO-GENERATED -->
 

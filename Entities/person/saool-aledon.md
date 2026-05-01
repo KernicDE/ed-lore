@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3303-11-10'
 last_seen_date: '3303-11-10'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Saool%20Aledon
 ---
+
 
 <!-- AUTO-GENERATED -->
 

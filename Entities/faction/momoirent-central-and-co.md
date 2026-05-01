@@ -9,7 +9,9 @@ related_entities:
 - aegis
 - momoirent
 - jahn-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Momoirent%20Central%20and%20Co
 ---
+
 
 <!-- AUTO-GENERATED -->
 

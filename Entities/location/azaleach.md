@@ -11,7 +11,20 @@ related_entities:
 - leoniceno-orbital-medical-staff
 - federal-times
 - federal-navy
+coords:
+  x: -81.28125
+  y: 60.78125
+  z: -121.46875
+allegiance: Independent
+government: Feudal
+controlling_faction: Marquis du Ma'a
+population: 1652129
+security: Low
+economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Azaleach
+inara_url: https://inara.cz/elite/starsystem/?search=Azaleach
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - alliance-defence-force
 - glorious-prospect
 - federal-navy
+coords:
+  x: -46.6875
+  y: -60.0625
+  z: -361.1875
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 94366163
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20CW-U%20B3-2
+inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20CW-U%20B3-2
 ---
+
 
 <!-- AUTO-GENERATED -->
 

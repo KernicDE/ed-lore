@@ -11,7 +11,21 @@ related_entities:
 - tinia
 - furuhjlem-i-645
 - saga
+coords:
+  x: -14.40625
+  y: 19.9375
+  z: 7
+allegiance: Independent
+government: Corporate
+controlling_faction: New Pilots Initiative
+population: 20071718380
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Coriccha
+inara_url: https://inara.cz/elite/starsystem/?search=Coriccha
 ---
+
 
 <!-- AUTO-GENERATED -->
 

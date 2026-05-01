@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-02-25'
 last_seen_date: '3302-02-25'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Doctor%20Elana%20Lorax
 ---
+
 
 <!-- AUTO-GENERATED -->
 

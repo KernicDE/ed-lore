@@ -11,7 +11,9 @@ related_entities:
 - eotienses-silver-universal-plc
 - eotienses
 - kui-hsien
+inara_url: https://inara.cz/elite/minorfaction/?search=Future%20of%20LTT%20911%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

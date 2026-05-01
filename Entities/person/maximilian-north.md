@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3306-12-03'
 last_seen_date: '3309-03-02'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Maximilian%20North
 ---
+
 
 <!-- AUTO-GENERATED -->
 

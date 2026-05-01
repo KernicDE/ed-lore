@@ -11,7 +11,21 @@ related_entities:
 - liberal-party
 - dahan-gateway
 - whitson-hub
+coords:
+  x: -19.75
+  y: 41.78125
+  z: -3.1875
+allegiance: Independent
+government: Corporate
+controlling_faction: New Pilots Initiative
+population: 16837
+security: Low
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Dahan
+inara_url: https://inara.cz/elite/starsystem/?search=Dahan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

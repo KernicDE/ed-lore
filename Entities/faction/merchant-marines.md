@@ -11,7 +11,9 @@ related_entities:
 - mercs-of-mikunn
 - harm
 - arjung
+inara_url: https://inara.cz/elite/minorfaction/?search=Merchant%20Marines
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3303-10-13'
 last_seen_date: '3303-10-13'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Thargoid%20Cyclops%20Tissue%20Sample
 ---
+
 
 <!-- AUTO-GENERATED -->
 

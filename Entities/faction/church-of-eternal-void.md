@@ -11,7 +11,9 @@ related_entities:
 - galactic-interfaith-commune
 - federal-navy
 - cobra-wing
+inara_url: https://inara.cz/elite/minorfaction/?search=Church%20of%20Eternal%20Void
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - pleiades-resource-enterprise
 - obsidian-orbital
 - hip-17692
+inara_url: https://inara.cz/elite/minorfaction/?search=Merope%20Expeditionary%20Fleet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

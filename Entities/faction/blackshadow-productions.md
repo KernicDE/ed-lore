@@ -11,7 +11,9 @@ related_entities:
 - alliance-interpol
 - league-of-reparation
 - church-of-eternal-void
+inara_url: https://inara.cz/elite/minorfaction/?search=Blackshadow%20Productions
 ---
+
 
 <!-- AUTO-GENERATED -->
 

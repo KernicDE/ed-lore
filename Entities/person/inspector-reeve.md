@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-08-16'
 last_seen_date: '3301-08-23'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Inspector%20Reeve
 ---
+
 
 <!-- AUTO-GENERATED -->
 

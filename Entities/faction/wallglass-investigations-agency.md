@@ -11,7 +11,9 @@ related_entities:
 - alliance-interpol
 - perseus-dark-region-kc-v-c2-2
 - zaonce
+inara_url: https://inara.cz/elite/minorfaction/?search=Wallglass%20Investigations%20Agency
 ---
+
 
 <!-- AUTO-GENERATED -->
 

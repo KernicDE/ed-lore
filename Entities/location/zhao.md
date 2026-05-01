@@ -11,7 +11,21 @@ related_entities:
 - alliance
 - federal-intelligence-agency
 - aranbarahun-purple-creative
+coords:
+  x: 108.6875
+  y: -113.46875
+  z: 74.0625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Aisling's Angels
+population: 11496298145
+security: High
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Zhao
+inara_url: https://inara.cz/elite/starsystem/?search=Zhao
 ---
+
 
 <!-- AUTO-GENERATED -->
 

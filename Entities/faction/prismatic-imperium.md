@@ -11,7 +11,9 @@ related_entities:
 - darrest-station
 - prism
 - achenar
+inara_url: https://inara.cz/elite/minorfaction/?search=Prismatic%20Imperium
 ---
+
 
 <!-- AUTO-GENERATED -->
 

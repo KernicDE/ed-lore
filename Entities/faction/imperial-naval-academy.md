@@ -9,7 +9,9 @@ related_entities:
 - pilots-federation
 - achenar
 - achenar-3
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Naval%20Academy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

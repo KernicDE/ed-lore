@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-06-22'
 last_seen_date: '3309-11-23'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Gwendolyn%20Nash
 ---
+
 
 <!-- AUTO-GENERATED -->
 

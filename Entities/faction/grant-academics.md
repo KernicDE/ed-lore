@@ -9,7 +9,9 @@ related_entities:
 - buckyball-racing-club
 - pilots-federation
 - exigus-campus
+inara_url: https://inara.cz/elite/minorfaction/?search=Grant%20Academics
 ---
+
 
 <!-- AUTO-GENERATED -->
 

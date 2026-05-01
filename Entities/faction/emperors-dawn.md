@@ -11,7 +11,9 @@ related_entities:
 - imperial-navy
 - achenar
 - imperial-herald
+inara_url: https://inara.cz/elite/minorfaction/?search=Emperor%27s%20Dawn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

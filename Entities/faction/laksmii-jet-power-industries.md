@@ -9,7 +9,9 @@ related_entities:
 - independents-of-parun
 - parun
 - underwood-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Laksmii%20Jet%20Power%20Industries
 ---
+
 
 <!-- AUTO-GENERATED -->
 

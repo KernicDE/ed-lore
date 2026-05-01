@@ -11,7 +11,21 @@ related_entities:
 - future-of-segovan
 - empire
 - taskforce-athena
+coords:
+  x: -105.8125
+  y: -18.34375
+  z: -127.5625
+allegiance: Independent
+government: Democracy
+controlling_faction: Sirius Inc
+population: 25064133
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Segovan
+inara_url: https://inara.cz/elite/starsystem/?search=Segovan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

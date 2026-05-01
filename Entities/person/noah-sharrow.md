@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-09-14'
 last_seen_date: '3307-09-20'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Noah%20Sharrow
 ---
+
 
 <!-- AUTO-GENERATED -->
 

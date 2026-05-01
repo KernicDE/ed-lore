@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-03-06'
 last_seen_date: '3302-07-02'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Gan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

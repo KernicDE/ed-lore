@@ -8,7 +8,9 @@ mention_count: 3
 related_entities:
 - wyrd-system
 - gareth-edwards-park
+inara_url: https://inara.cz/elite/minorfaction/?search=Wyrd%20Raiders
 ---
+
 
 <!-- AUTO-GENERATED -->
 

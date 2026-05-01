@@ -10,7 +10,21 @@ related_entities:
 - olympus-village
 - enterprise
 - mars
+coords:
+  x: 8.34375
+  y: -72.84375
+  z: 12.84375
+allegiance: Independent
+government: Democracy
+controlling_faction: Paladin Consortium
+population: 5883206
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Tavgi
+inara_url: https://inara.cz/elite/starsystem/?search=Tavgi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

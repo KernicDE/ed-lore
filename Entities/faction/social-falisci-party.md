@@ -9,7 +9,9 @@ related_entities:
 - citizens-of-tradition
 - falisci-purple-gang
 - falisci
+inara_url: https://inara.cz/elite/minorfaction/?search=Social%20Falisci%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -7,7 +7,9 @@ last_seen_date: '3301-04-10'
 mention_count: 1
 related_entities:
 - imperial-court
+inara_url: https://inara.cz/elite/minorfaction/?search=House%20of%20Duval
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,9 @@ related_entities:
 - technology-brokers
 - meene
 - felice-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Guardian%20drones
 ---
+
 
 <!-- AUTO-GENERATED -->
 

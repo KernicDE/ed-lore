@@ -11,7 +11,21 @@ related_entities:
 - alliance
 - federal-intelligence-agency
 - league-of-reparation
+coords:
+  x: 78.96875
+  y: 15.625
+  z: 65.8125
+allegiance: Federation
+government: Corporate
+controlling_faction: Terra-EX Astro Corp
+population: 2051044702
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Aranbarahun
+inara_url: https://inara.cz/elite/starsystem/?search=Aranbarahun
 ---
+
 
 <!-- AUTO-GENERATED -->
 

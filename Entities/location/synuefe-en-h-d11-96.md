@@ -9,7 +9,21 @@ related_entities:
 - zende-partners
 - segnen-exchange
 - zende
+coords:
+  x: 757.125
+  y: -179.3125
+  z: -96.0625
+allegiance: Independent
+government: Corporate
+controlling_faction: Zende Partners
+population: 4196380
+security: High
+economy: Service
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Synuefe%20EN-H%20d11-96
+inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20EN-H%20d11-96
 ---
+
 
 <!-- AUTO-GENERATED -->
 

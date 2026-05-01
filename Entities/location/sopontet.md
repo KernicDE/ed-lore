@@ -11,7 +11,21 @@ related_entities:
 - imperial-navy
 - cuchua
 - anedjete
+coords:
+  x: -60.1875
+  y: -72.09375
+  z: 35.9375
+allegiance: Independent
+government: Confederacy
+controlling_faction: Tethys Independent Crew
+population: 1370413762
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Sopontet
+inara_url: https://inara.cz/elite/starsystem/?search=Sopontet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

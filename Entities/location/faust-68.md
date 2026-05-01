@@ -10,7 +10,21 @@ related_entities:
 - slipher-hub
 - dickensport
 - fomalhaut
+coords:
+  x: 72.34375
+  y: -89.90625
+  z: 46.59375
+allegiance: Empire
+government: Corporate
+controlling_faction: Daily Routine Incorporated
+population: 16530925
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Faust%2068
+inara_url: https://inara.cz/elite/starsystem/?search=Faust%2068
 ---
+
 
 <!-- AUTO-GENERATED -->
 

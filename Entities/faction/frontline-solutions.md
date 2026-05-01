@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - empire
 - federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Frontline%20Solutions
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,9 @@ related_entities:
 - canonn-interstellar-research-group
 - zoline-port
 - ltt-377
+inara_url: https://inara.cz/elite/minorfaction/?search=LTT%20377%20Allied%20Co
 ---
+
 
 <!-- AUTO-GENERATED -->
 

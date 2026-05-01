@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - guuguyni
 - shen-terminal
+inara_url: https://inara.cz/elite/minorfaction/?search=Guuguyni%20Empire%20Consulate
 ---
+
 
 <!-- AUTO-GENERATED -->
 

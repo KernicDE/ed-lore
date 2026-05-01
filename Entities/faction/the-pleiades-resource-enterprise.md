@@ -11,7 +11,9 @@ related_entities:
 - hip-17692
 - blackmount-orbital
 - pleiades-sector-oi-t-c3-7
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Pleiades%20Resource%20Enterprise
 ---
+
 
 <!-- AUTO-GENERATED -->
 

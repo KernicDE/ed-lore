@@ -11,7 +11,21 @@ related_entities:
 - federal-intelligence-agency
 - panem
 - rockforth-corporation
+coords:
+  x: 71.625
+  y: 47.75
+  z: 64.8125
+allegiance: Federation
+government: Corporate
+controlling_faction: Terra-EX Astro Corp
+population: 5079
+security: Low
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Quator
+inara_url: https://inara.cz/elite/starsystem/?search=Quator
 ---
+
 
 <!-- AUTO-GENERATED -->
 

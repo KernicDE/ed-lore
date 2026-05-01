@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - alliance-expeditionary-pact
 - onoros
+coords:
+  x: 351.96875
+  y: -373.46875
+  z: -711.09375
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Expeditionary Pact
+population: 428575
+security: High
+economy: Agriculture
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Shenve
+inara_url: https://inara.cz/elite/starsystem/?search=Shenve
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -10,7 +10,9 @@ related_entities:
 - sirius-corporation
 - chi-orionis
 - alioth
+inara_url: https://inara.cz/elite/minorfaction/?search=BigSix
 ---
+
 
 <!-- AUTO-GENERATED -->
 

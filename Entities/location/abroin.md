@@ -9,7 +9,21 @@ related_entities:
 - abroin-universal-plc
 - campbell-horizons
 - pleiades-nebula
+coords:
+  x: -94.53125
+  y: 110.09375
+  z: -40.5
+allegiance: Alliance
+government: Democracy
+controlling_faction: Pork Chop Platoon
+population: 2836373
+security: Low
+economy: Industrial
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Abroin
+inara_url: https://inara.cz/elite/starsystem/?search=Abroin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

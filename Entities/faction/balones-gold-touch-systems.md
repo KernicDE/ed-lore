@@ -9,7 +9,9 @@ related_entities:
 - balones
 - tiedemann-dock
 - synuefe
+inara_url: https://inara.cz/elite/minorfaction/?search=Balones%20Gold%20Touch%20Systems
 ---
+
 
 <!-- AUTO-GENERATED -->
 

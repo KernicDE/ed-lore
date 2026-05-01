@@ -9,7 +9,21 @@ related_entities:
 - alliance
 - purple-power-interstellar
 - ziemkiewicz-ring
+coords:
+  x: -8.40625
+  y: 99.1875
+  z: 22.3125
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Sol's Salutis Aeternum
+population: 3071895
+security: Medium
+economy: Tourism
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Tsu
+inara_url: https://inara.cz/elite/starsystem/?search=Tsu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

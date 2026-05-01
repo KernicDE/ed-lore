@@ -11,7 +11,21 @@ related_entities:
 - g-99-49
 - wolf-294
 - wolf-504
+coords:
+  x: 4.53125
+  y: -2.875
+  z: -18.25
+allegiance: Federation
+government: Corporate
+controlling_faction: Earth Defense Fleet
+population: 28721
+security: Low
+economy: Colony
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ross%2047
+inara_url: https://inara.cz/elite/starsystem/?search=Ross%2047
 ---
+
 
 <!-- AUTO-GENERATED -->
 

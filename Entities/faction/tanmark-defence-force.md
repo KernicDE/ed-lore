@@ -11,7 +11,9 @@ related_entities:
 - panem
 - tanmark
 - harvestport
+inara_url: https://inara.cz/elite/minorfaction/?search=Tanmark%20Defence%20Force
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - coalsack-nebula
 - musca-dark-region-pj-p-b6-1
 - coalsack-sector-vu-0-b6-6
+coords:
+  x: 458.25
+  y: -8.8125
+  z: 287.09375
+allegiance: Alliance
+government: Corporate
+controlling_faction: The Allied Commission
+population: 356737
+security: Low
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Musca%20Dark%20Region%20IM-V%20C2-24
+inara_url: https://inara.cz/elite/starsystem/?search=Musca%20Dark%20Region%20IM-V%20C2-24
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - dakshmandi
 - imperial-herald
 - imperial-internal-security-service
+coords:
+  x: 98.40625
+  y: -119.875
+  z: 23.09375
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Order of Mobius
+population: 188473
+security: Medium
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Maausk
+inara_url: https://inara.cz/elite/starsystem/?search=Maausk
 ---
+
 
 <!-- AUTO-GENERATED -->
 

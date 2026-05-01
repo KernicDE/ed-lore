@@ -11,7 +11,14 @@ related_entities:
 - virudnir
 - hez-ur
 - mizuchi
+coords:
+  x: -26.125
+  y: -24.625
+  z: 17.34375
+edsm_url: https://www.edsm.net/en/system?search=Mu%20Cassiopeia
+inara_url: https://inara.cz/elite/starsystem/?search=Mu%20Cassiopeia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

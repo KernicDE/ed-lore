@@ -11,7 +11,21 @@ related_entities:
 - beatis
 - cd-39-3269
 - chana
+coords:
+  x: 93.71875
+  y: -21.96875
+  z: 41.375
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Enforcement Division
+population: 4774325401
+security: Medium
+economy: Terraforming
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=234%20G.%20Carinae
+inara_url: https://inara.cz/elite/starsystem/?search=234%20G.%20Carinae
 ---
+
 
 <!-- AUTO-GENERATED -->
 

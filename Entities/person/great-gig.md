@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-07-29'
 last_seen_date: '3301-07-29'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Great%20Gig
 ---
+
 
 <!-- AUTO-GENERATED -->
 

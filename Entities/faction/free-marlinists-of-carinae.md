@@ -11,7 +11,9 @@ related_entities:
 - neo-marlinist-order-of-mudhrid
 - nmla
 - marlin-standard
+inara_url: https://inara.cz/elite/minorfaction/?search=Free%20Marlinists%20of%20Carinae
 ---
+
 
 <!-- AUTO-GENERATED -->
 

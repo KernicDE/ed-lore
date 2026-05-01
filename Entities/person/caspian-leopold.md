@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-05-26'
 last_seen_date: '3309-11-14'
 mention_count: 18
+inara_url: https://inara.cz/elite/cmdr-search/?search=Caspian%20Leopold
 ---
+
 
 <!-- AUTO-GENERATED -->
 

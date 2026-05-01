@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - secoya
 - joy-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Secoya%20Emperor%27s%20Grace
 ---
+
 
 <!-- AUTO-GENERATED -->
 

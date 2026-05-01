@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-03-29'
 last_seen_date: '3305-03-29'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Derrin%20O%27Shea
 ---
+
 
 <!-- AUTO-GENERATED -->
 

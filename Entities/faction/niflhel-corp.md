@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - alliance-interpol
 - league-of-reparation
+inara_url: https://inara.cz/elite/minorfaction/?search=Niflhel%20Corp
 ---
+
 
 <!-- AUTO-GENERATED -->
 

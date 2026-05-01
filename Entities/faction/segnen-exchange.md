@@ -9,7 +9,9 @@ related_entities:
 - zende-partners
 - synuefe-en-h-d11-96
 - zende
+inara_url: https://inara.cz/elite/minorfaction/?search=Segnen%20Exchange
 ---
+
 
 <!-- AUTO-GENERATED -->
 

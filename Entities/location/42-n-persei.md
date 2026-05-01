@@ -11,7 +11,21 @@ related_entities:
 - hip-22460
 - sirius-inc
 - ngalia
+coords:
+  x: -83.5625
+  y: -73.40625
+  z: -244.34375
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 1212538
+security: Medium
+economy: Extraction
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=42%20n%20Persei
+inara_url: https://inara.cz/elite/starsystem/?search=42%20n%20Persei
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - mars-tribune
 - alliance
 - achilles-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Security%20Service
 ---
+
 
 <!-- AUTO-GENERATED -->
 

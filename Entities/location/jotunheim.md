@@ -10,7 +10,21 @@ related_entities:
 - revolutionary-jotunheim-resistance
 - yum-kamcabi-purple-life-industry
 - big-harrys-monkey-hangout
+coords:
+  x: 66.03125
+  y: -110.875
+  z: 52.6875
+allegiance: Independent
+government: Cooperative
+controlling_faction: Celestial Light Brigade
+population: 1532168
+security: Medium
+economy: Extraction
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Jotunheim
+inara_url: https://inara.cz/elite/starsystem/?search=Jotunheim
 ---
+
 
 <!-- AUTO-GENERATED -->
 

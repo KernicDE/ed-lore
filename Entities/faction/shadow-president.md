@@ -11,7 +11,9 @@ related_entities:
 - core-dynamics
 - federal-navy
 - kumo-crew
+inara_url: https://inara.cz/elite/minorfaction/?search=Shadow%20President
 ---
+
 
 <!-- AUTO-GENERATED -->
 

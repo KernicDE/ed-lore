@@ -9,7 +9,9 @@ related_entities:
 - carnoeck
 - bacon-city
 - united-carnoeck-for-equality
+inara_url: https://inara.cz/elite/minorfaction/?search=Bacon%20Cats
 ---
+
 
 <!-- AUTO-GENERATED -->
 

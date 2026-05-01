@@ -11,7 +11,9 @@ related_entities:
 - uibuth-system
 - prism
 - achenar
+inara_url: https://inara.cz/elite/minorfaction/?search=Navigators%20Guild
 ---
+
 
 <!-- AUTO-GENERATED -->
 

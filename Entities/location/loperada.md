@@ -11,7 +11,21 @@ related_entities:
 - von-bellingshausen-port
 - almar
 - haack-gateway
+coords:
+  x: -102.78125
+  y: 97.40625
+  z: -4.0625
+allegiance: Independent
+government: Confederacy
+controlling_faction: The L.O.S.P.
+population: 12390580
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Loperada
+inara_url: https://inara.cz/elite/starsystem/?search=Loperada
 ---
+
 
 <!-- AUTO-GENERATED -->
 

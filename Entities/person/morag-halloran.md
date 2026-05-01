@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3306-11-12'
 last_seen_date: '3308-08-25'
 mention_count: 22
+inara_url: https://inara.cz/elite/cmdr-search/?search=Morag%20Halloran
 ---
+
 
 <!-- AUTO-GENERATED -->
 

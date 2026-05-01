@@ -9,7 +9,9 @@ related_entities:
 - maia
 - obsidian-orbital
 - pleiades-nebula
+inara_url: https://inara.cz/elite/minorfaction/?search=Obsidian%20Orbital%20authorities
 ---
+
 
 <!-- AUTO-GENERATED -->
 

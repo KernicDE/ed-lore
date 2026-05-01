@@ -11,7 +11,9 @@ related_entities:
 - azimuth-biochemicals
 - t-tauri
 - trapezium-sector-yu-x-c1-2
+inara_url: https://inara.cz/elite/minorfaction/?search=Taurus%20Mining%20Ventures
 ---
+
 
 <!-- AUTO-GENERATED -->
 

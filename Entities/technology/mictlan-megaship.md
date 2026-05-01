@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-06-12'
 last_seen_date: '3311-06-26'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Mictlan%20megaship
 ---
+
 
 <!-- AUTO-GENERATED -->
 

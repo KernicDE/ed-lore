@@ -11,7 +11,21 @@ related_entities:
 - hr-4979
 - wolf-294
 - lambda-2-tucanae
+coords:
+  x: -45.125
+  y: 9.375
+  z: -6.4375
+allegiance: Federation
+government: Democracy
+controlling_faction: Blood Brothers from Alrai
+population: 346517
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Eta%20Cephei
+inara_url: https://inara.cz/elite/starsystem/?search=Eta%20Cephei
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -10,7 +10,9 @@ related_entities:
 - grandin-gateway
 - altair-system
 - altair
+inara_url: https://inara.cz/elite/minorfaction/?search=Altair%20Purple%20Mob
 ---
+
 
 <!-- AUTO-GENERATED -->
 

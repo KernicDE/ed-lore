@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - delphi
 - azimuth-biotech
+coords:
+  x: 7.5
+  y: -58.78125
+  z: 18
+allegiance: Independent
+government: Democracy
+controlling_faction: Paladin Consortium
+population: 150816
+security: Medium
+economy: Colony
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Qarato
+inara_url: https://inara.cz/elite/starsystem/?search=Qarato
 ---
+
 
 <!-- AUTO-GENERATED -->
 

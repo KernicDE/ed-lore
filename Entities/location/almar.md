@@ -11,7 +11,21 @@ related_entities:
 - 64-arietis
 - arawere
 - harma
+coords:
+  x: 146.3125
+  y: -149.03125
+  z: -84.96875
+allegiance: Empire
+government: Corporate
+controlling_faction: Leunii Allied PLC
+population: 1713
+security: Low
+economy: Extraction
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Almar
+inara_url: https://inara.cz/elite/starsystem/?search=Almar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

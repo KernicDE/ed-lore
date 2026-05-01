@@ -10,7 +10,14 @@ related_entities:
 - aries-dark-region-db-x-d1-63
 - hip-19026
 - hip-14909
+coords:
+  x: -21.28125
+  y: -76.34375
+  z: -288.15625
+edsm_url: https://www.edsm.net/en/system?search=Col%20285%20Sector%20CV-Y%20d57
+inara_url: https://inara.cz/elite/starsystem/?search=Col%20285%20Sector%20CV-Y%20d57
 ---
+
 
 <!-- AUTO-GENERATED -->
 

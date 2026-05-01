@@ -11,7 +11,9 @@ related_entities:
 - core-dynamics
 - interstellar-press
 - jameson-memorial-review
+inara_url: https://inara.cz/elite/minorfaction/?search=Gutamaya%20Shipyards
 ---
+
 
 <!-- AUTO-GENERATED -->
 

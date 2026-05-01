@@ -11,7 +11,9 @@ related_entities:
 - gluscap-labour
 - lp-726-6-free
 - azaladshu
+inara_url: https://inara.cz/elite/minorfaction/?search=Azaladshu%20Free
 ---
+
 
 <!-- AUTO-GENERATED -->
 

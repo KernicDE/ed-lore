@@ -7,7 +7,14 @@ last_seen_date: '3302-04-18'
 mention_count: 1
 related_entities:
 - formidine-rift
+coords:
+  x: -10467.1875
+  y: -878.59375
+  z: -5035.78125
+edsm_url: https://www.edsm.net/en/system?search=Rho%20Cassiopeiae
+inara_url: https://inara.cz/elite/starsystem/?search=Rho%20Cassiopeiae
 ---
+
 
 <!-- AUTO-GENERATED -->
 

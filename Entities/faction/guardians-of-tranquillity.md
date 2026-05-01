@@ -11,7 +11,9 @@ related_entities:
 - tranquillity
 - leesti
 - diso
+inara_url: https://inara.cz/elite/minorfaction/?search=Guardians%20of%20Tranquillity
 ---
+
 
 <!-- AUTO-GENERATED -->
 

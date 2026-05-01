@@ -9,7 +9,9 @@ related_entities:
 - judas-syndicate
 - beta-hydri
 - jacksons-lighthouse
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20State%20Police
 ---
+
 
 <!-- AUTO-GENERATED -->
 

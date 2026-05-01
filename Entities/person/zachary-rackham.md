@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-06-20'
 last_seen_date: '3312-03-03'
 mention_count: 51
+inara_url: https://inara.cz/elite/cmdr-search/?search=Zachary%20Rackham
 ---
+
 
 <!-- AUTO-GENERATED -->
 

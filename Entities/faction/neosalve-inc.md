@@ -11,7 +11,9 @@ related_entities:
 - interstellar-health-organisation
 - vandermeer-corporation
 - vitadyne-labs
+inara_url: https://inara.cz/elite/minorfaction/?search=Neosalve%20Inc.
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - conservatives-of-bv-phoenicis
 - eotienses-silver-universal-plc
 - eotienses
+coords:
+  x: 41.53125
+  y: -106.09375
+  z: 24.5625
+allegiance: Independent
+government: Corporate
+controlling_faction: 51TH Massilia Corporation
+population: 11044359
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=BV%20Phoenicis
+inara_url: https://inara.cz/elite/starsystem/?search=BV%20Phoenicis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - sirsir-co
 - zearla
 - sirsir
+inara_url: https://inara.cz/elite/minorfaction/?search=League%20of%20Zearla
 ---
+
 
 <!-- AUTO-GENERATED -->
 

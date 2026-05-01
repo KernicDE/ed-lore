@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-06-24'
 last_seen_date: '3301-06-24'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Murishani
 ---
+
 
 <!-- AUTO-GENERATED -->
 

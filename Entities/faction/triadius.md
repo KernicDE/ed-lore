@@ -11,7 +11,9 @@ related_entities:
 - ronin-of-amarak
 - contrail
 - balkan-intergalactic-guerrillas
+inara_url: https://inara.cz/elite/minorfaction/?search=Triadius
 ---
+
 
 <!-- AUTO-GENERATED -->
 

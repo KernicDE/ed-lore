@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-11-11'
 last_seen_date: '3308-09-23'
 mention_count: 6
+inara_url: https://inara.cz/elite/cmdr-search/?search=Elizabeth%20Perez
 ---
+
 
 <!-- AUTO-GENERATED -->
 

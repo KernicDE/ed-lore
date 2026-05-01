@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-05-12'
 last_seen_date: '3301-07-21'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Kazien%20Vantris
 ---
+
 
 <!-- AUTO-GENERATED -->
 

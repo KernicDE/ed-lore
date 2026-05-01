@@ -9,7 +9,9 @@ related_entities:
 - facece-empire-party
 - facece
 - topaz
+inara_url: https://inara.cz/elite/minorfaction/?search=Office%20of%20Imperial%20Statistics
 ---
+
 
 <!-- AUTO-GENERATED -->
 

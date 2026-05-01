@@ -11,7 +11,21 @@ related_entities:
 - hip-16538
 - hip-30944
 - maia
+coords:
+  x: -63.59375
+  y: -147.40625
+  z: -319.09375
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 305894
+security: Medium
+economy: High Tech
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Delphi
+inara_url: https://inara.cz/elite/starsystem/?search=Delphi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

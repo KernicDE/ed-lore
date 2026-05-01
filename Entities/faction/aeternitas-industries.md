@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - aeternitas
 - houtman-city
+inara_url: https://inara.cz/elite/minorfaction/?search=Aeternitas%20Industries
 ---
+
 
 <!-- AUTO-GENERATED -->
 

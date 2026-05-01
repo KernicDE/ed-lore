@@ -11,7 +11,9 @@ related_entities:
 - marlinism-reformation-party
 - free-marlinist-movement
 - imperial-senate
+inara_url: https://inara.cz/elite/minorfaction/?search=Marlinist%20Consulate
 ---
+
 
 <!-- AUTO-GENERATED -->
 

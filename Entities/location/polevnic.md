@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - neris
 - hip-117972
+coords:
+  x: -79.90625
+  y: -87.46875
+  z: -33.53125
+allegiance: Independent
+government: Communism
+controlling_faction: Guardians of Harmony
+population: 1658280
+security: Medium
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Polevnic
+inara_url: https://inara.cz/elite/starsystem/?search=Polevnic
 ---
+
 
 <!-- AUTO-GENERATED -->
 

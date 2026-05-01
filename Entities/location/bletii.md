@@ -11,7 +11,21 @@ related_entities:
 - orgen
 - 34-omicron-cephei
 - klikis
+coords:
+  x: 99.34375
+  y: 6.125
+  z: -166.71875
+allegiance: Independent
+government: Patronage
+controlling_faction: Bletii Independent Union
+population: 6108032
+security: Medium
+economy: Terraforming
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Bletii
+inara_url: https://inara.cz/elite/starsystem/?search=Bletii
 ---
+
 
 <!-- AUTO-GENERATED -->
 

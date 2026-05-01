@@ -10,7 +10,9 @@ related_entities:
 - maia
 - obsidian-orbital
 - pleiades-nebula
+inara_url: https://inara.cz/elite/minorfaction/?search=Xenological%20Research%20Institute
 ---
+
 
 <!-- AUTO-GENERATED -->
 

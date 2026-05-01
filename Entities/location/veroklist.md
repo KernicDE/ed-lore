@@ -11,7 +11,21 @@ related_entities:
 - aegis
 - iiss
 - utopia
+coords:
+  x: 47.3125
+  y: -260.09375
+  z: 73.5625
+allegiance: Independent
+government: Democracy
+controlling_faction: Tom Paine's Crew
+population: 1941
+security: Low
+economy: Extraction
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Veroklist
+inara_url: https://inara.cz/elite/starsystem/?search=Veroklist
 ---
+
 
 <!-- AUTO-GENERATED -->
 

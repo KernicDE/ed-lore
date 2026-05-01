@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-11-26'
 last_seen_date: '3302-11-26'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Beluga%20luxury%20liner
 ---
+
 
 <!-- AUTO-GENERATED -->
 

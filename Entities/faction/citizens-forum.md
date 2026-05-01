@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - eotienses
 - parkinson-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Citizens%27%20Forum
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - revolution-incorporated
 - wright-city
+coords:
+  x: 60.1875
+  y: -1.03125
+  z: -6.03125
+allegiance: Federation
+government: Corporate
+controlling_faction: Tyger Traders
+population: 29867147
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Elli
+inara_url: https://inara.cz/elite/starsystem/?search=Elli
 ---
+
 
 <!-- AUTO-GENERATED -->
 

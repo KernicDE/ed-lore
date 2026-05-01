@@ -11,7 +11,21 @@ related_entities:
 - alpha-centauri
 - barnards-star
 - wolf-359
+coords:
+  x: 45.15625
+  y: 12.125
+  z: 26.96875
+allegiance: Independent
+government: Democracy
+controlling_faction: Law of Demeter
+population: 5328590
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=V886%20Centauri
+inara_url: https://inara.cz/elite/starsystem/?search=V886%20Centauri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

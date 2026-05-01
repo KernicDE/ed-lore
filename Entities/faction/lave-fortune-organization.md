@@ -11,7 +11,9 @@ related_entities:
 - interstellar-press
 - alioth
 - lave
+inara_url: https://inara.cz/elite/minorfaction/?search=Lave%20Fortune%20Organization
 ---
+
 
 <!-- AUTO-GENERATED -->
 

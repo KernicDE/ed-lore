@@ -9,7 +9,9 @@ related_entities:
 - ltt-4961
 - gregs-legacy
 - conway-city
+inara_url: https://inara.cz/elite/minorfaction/?search=NULL
 ---
+
 
 <!-- AUTO-GENERATED -->
 

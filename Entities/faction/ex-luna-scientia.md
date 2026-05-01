@@ -11,7 +11,9 @@ related_entities:
 - chaac
 - moon-prospect
 - turot
+inara_url: https://inara.cz/elite/minorfaction/?search=Ex%20Luna%20Scientia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

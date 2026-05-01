@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-07-08'
 last_seen_date: '3302-07-08'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=General%20Alexander%20Lee
 ---
+
 
 <!-- AUTO-GENERATED -->
 

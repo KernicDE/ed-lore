@@ -10,7 +10,21 @@ related_entities:
 - sirius-corporation
 - star
 - i-assure-you-that-the-sirius
+coords:
+  x: 100.75
+  y: -102.625
+  z: 8.40625
+allegiance: Empire
+government: Patronage
+controlling_faction: Lavigny's Legion
+population: 265876
+security: Medium
+economy: Colony
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Aerial
+inara_url: https://inara.cz/elite/starsystem/?search=Aerial
 ---
+
 
 <!-- AUTO-GENERATED -->
 

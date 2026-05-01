@@ -11,7 +11,21 @@ related_entities:
 - utopia
 - nunus
 - varka
+coords:
+  x: -87.96875
+  y: -18.6875
+  z: 85.8125
+allegiance: Independent
+government: Communism
+controlling_faction: Union Party of Bakonirtari
+population: 1663889883
+security: Medium
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Matlehi
+inara_url: https://inara.cz/elite/starsystem/?search=Matlehi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

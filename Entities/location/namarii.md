@@ -11,7 +11,21 @@ related_entities:
 - ltt-874
 - imperial-navy
 - imperial-internal-security-service
+coords:
+  x: 67.3125
+  y: -120.8125
+  z: -20.53125
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Privateers
+population: 5386073
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Namarii
+inara_url: https://inara.cz/elite/starsystem/?search=Namarii
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - pleiades-sector-ab-w-b2-4
 - achenar
+inara_url: https://inara.cz/elite/minorfaction/?search=Granger%20Gang
 ---
+
 
 <!-- AUTO-GENERATED -->
 

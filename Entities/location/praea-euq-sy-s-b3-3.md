@@ -8,7 +8,14 @@ mention_count: 1
 related_entities:
 - fuel-rats
 - pilots-federation
+coords:
+  x: -13.53125
+  y: -17.125
+  z: 301.03125
+edsm_url: https://www.edsm.net/en/system?search=PRAEA%20EUQ%20SY-S%20B3-3
+inara_url: https://inara.cz/elite/starsystem/?search=PRAEA%20EUQ%20SY-S%20B3-3
 ---
+
 
 <!-- AUTO-GENERATED -->
 

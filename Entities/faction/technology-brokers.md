@@ -7,7 +7,9 @@ last_seen_date: '3304-04-07'
 mention_count: 2
 related_entities:
 - guardian-drones
+inara_url: https://inara.cz/elite/minorfaction/?search=Technology%20brokers
 ---
+
 
 <!-- AUTO-GENERATED -->
 

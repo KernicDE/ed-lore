@@ -11,7 +11,21 @@ related_entities:
 - kumo-crew
 - imperial-navy
 - libertas-cooperative
+coords:
+  x: 99.875
+  y: -110.34375
+  z: -6.25
+allegiance: Empire
+government: Patronage
+controlling_faction: Lavigny's Legion
+population: 206843
+security: Medium
+economy: Military
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Amitrite
+inara_url: https://inara.cz/elite/starsystem/?search=Amitrite
 ---
+
 
 <!-- AUTO-GENERATED -->
 

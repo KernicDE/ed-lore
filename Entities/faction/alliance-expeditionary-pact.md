@@ -11,7 +11,9 @@ related_entities:
 - onoros
 - pilots-federation
 - shenve
+inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Expeditionary%20Pact
 ---
+
 
 <!-- AUTO-GENERATED -->
 

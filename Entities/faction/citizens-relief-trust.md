@@ -11,7 +11,9 @@ related_entities:
 - cemiess
 - mackenzie-relay
 - emerald
+inara_url: https://inara.cz/elite/minorfaction/?search=Citizens%27%20Relief%20Trust
 ---
+
 
 <!-- AUTO-GENERATED -->
 

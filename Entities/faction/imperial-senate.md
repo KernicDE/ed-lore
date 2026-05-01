@@ -11,7 +11,9 @@ related_entities:
 - marlinist-colonies
 - nmla
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Senate
 ---
+
 
 <!-- AUTO-GENERATED -->
 

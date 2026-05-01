@@ -11,7 +11,9 @@ related_entities:
 - california-nebula
 - sirius-corporation
 - pegasi-sector-pn-t-c3-14
+inara_url: https://inara.cz/elite/minorfaction/?search=Kumo%20Crew
 ---
+
 
 <!-- AUTO-GENERATED -->
 

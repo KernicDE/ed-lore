@@ -11,7 +11,9 @@ related_entities:
 - marlinist-colonies
 - achenar
 - imperial-senate
+inara_url: https://inara.cz/elite/minorfaction/?search=NMLA
 ---
+
 
 <!-- AUTO-GENERATED -->
 

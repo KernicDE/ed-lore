@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - kpelidoog
 - hipparchus-terminal
+inara_url: https://inara.cz/elite/minorfaction/?search=Kpelidoog%20Empire%20Assembly
 ---
+
 
 <!-- AUTO-GENERATED -->
 

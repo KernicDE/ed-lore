@@ -10,7 +10,21 @@ related_entities:
 - alliance
 - abel-laboratory
 - arque
+coords:
+  x: 81.875
+  y: 36.875
+  z: 47.53125
+allegiance: Federation
+government: Corporate
+controlling_faction: Federal Reclamation Co
+population: 1500000
+security: Medium
+economy: Agriculture
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Morten-Marte
+inara_url: https://inara.cz/elite/starsystem/?search=Morten-Marte
 ---
+
 
 <!-- AUTO-GENERATED -->
 

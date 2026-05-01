@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-04-15'
 last_seen_date: '3304-10-27'
 mention_count: 7
+inara_url: https://inara.cz/elite/cmdr-search/?search=Cora%20Shaw
 ---
+
 
 <!-- AUTO-GENERATED -->
 

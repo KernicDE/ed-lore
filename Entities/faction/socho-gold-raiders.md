@@ -11,7 +11,9 @@ related_entities:
 - dantec-enterprise
 - rewired
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Socho%20Gold%20Raiders
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-06-30'
 last_seen_date: '3302-03-23'
 mention_count: 8
+inara_url: https://inara.cz/elite/cmdr-search/?search=Carl%20Simmons
 ---
+
 
 <!-- AUTO-GENERATED -->
 

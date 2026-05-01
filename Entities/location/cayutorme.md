@@ -11,7 +11,21 @@ related_entities:
 - kumo-crew
 - pilots-federation
 - adkins-port
+coords:
+  x: 116.3125
+  y: -76.90625
+  z: 8.25
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Union Cosmos
+population: 16579075
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Cayutorme
+inara_url: https://inara.cz/elite/starsystem/?search=Cayutorme
 ---
+
 
 <!-- AUTO-GENERATED -->
 

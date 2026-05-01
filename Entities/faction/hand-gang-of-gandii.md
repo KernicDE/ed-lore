@@ -11,7 +11,9 @@ related_entities:
 - camorra-of-krisha
 - krisha
 - lu-hub
+inara_url: https://inara.cz/elite/minorfaction/?search=Hand%20Gang%20of%20Gandii
 ---
+
 
 <!-- AUTO-GENERATED -->
 

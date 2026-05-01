@@ -11,7 +11,21 @@ related_entities:
 - wolf-1301
 - crom
 - chorel-survey
+coords:
+  x: 57.4375
+  y: -12.71875
+  z: 2.15625
+allegiance: Federation
+government: Corporate
+controlling_faction: Minutemen
+population: 21532829
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Herthe
+inara_url: https://inara.cz/elite/starsystem/?search=Herthe
 ---
+
 
 <!-- AUTO-GENERATED -->
 

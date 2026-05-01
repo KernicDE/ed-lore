@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-08-16'
 last_seen_date: '3307-08-26'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Emmerich%20Koenig
 ---
+
 
 <!-- AUTO-GENERATED -->
 

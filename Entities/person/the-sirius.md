@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-02-18'
 last_seen_date: '3307-03-15'
 mention_count: 12
+inara_url: https://inara.cz/elite/cmdr-search/?search=The%20Sirius
 ---
+
 
 <!-- AUTO-GENERATED -->
 

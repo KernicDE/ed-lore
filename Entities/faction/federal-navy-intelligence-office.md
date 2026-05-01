@@ -11,7 +11,9 @@ related_entities:
 - galactic-interfaith-commune
 - spiritual-freedom-movement
 - mars
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Navy%20Intelligence%20Office
 ---
+
 
 <!-- AUTO-GENERATED -->
 

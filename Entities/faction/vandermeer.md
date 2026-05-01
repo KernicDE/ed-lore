@@ -11,7 +11,9 @@ related_entities:
 - jupiter-division
 - vox-galactica
 - advocacy
+inara_url: https://inara.cz/elite/minorfaction/?search=Vandermeer
 ---
+
 
 <!-- AUTO-GENERATED -->
 

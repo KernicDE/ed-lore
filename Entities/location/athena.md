@@ -11,7 +11,21 @@ related_entities:
 - lomas-racing-news
 - darboux-orbital
 - slough-orbital
+coords:
+  x: 79
+  y: -10.1875
+  z: 3.21875
+allegiance: Federation
+government: Corporate
+controlling_faction: Ice Storm Squadron
+population: 50337911
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Athena
+inara_url: https://inara.cz/elite/starsystem/?search=Athena
 ---
+
 
 <!-- AUTO-GENERATED -->
 

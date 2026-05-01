@@ -11,7 +11,21 @@ related_entities:
 - marlinist-colonies
 - nova-imperium
 - epsilon-fornacis-empire-group
+coords:
+  x: 42.8125
+  y: -89.75
+  z: -41.25
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
+population: 10738806
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Mudhrid
+inara_url: https://inara.cz/elite/starsystem/?search=Mudhrid
 ---
+
 
 <!-- AUTO-GENERATED -->
 

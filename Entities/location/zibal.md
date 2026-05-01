@@ -11,7 +11,21 @@ related_entities:
 - zibal-power-co
 - ienpalang-corporation
 - hire-port
+coords:
+  x: 14.25
+  y: -84.9375
+  z: -68.03125
+allegiance: Independent
+government: Anarchy
+controlling_faction: The Brigade
+population: 26601150
+security: Anarchy
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Zibal
+inara_url: https://inara.cz/elite/starsystem/?search=Zibal
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-10-05'
 last_seen_date: '3304-10-31'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Erin%20Sangster
 ---
+
 
 <!-- AUTO-GENERATED -->
 

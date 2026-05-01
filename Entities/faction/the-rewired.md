@@ -10,7 +10,9 @@ related_entities:
 - jokers-deck
 - diso
 - vega
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Rewired
 ---
+
 
 <!-- AUTO-GENERATED -->
 

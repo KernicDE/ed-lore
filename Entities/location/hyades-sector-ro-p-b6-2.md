@@ -11,7 +11,21 @@ related_entities:
 - marlinism-reformation-party
 - marlinist-parliament
 - alliance
+coords:
+  x: 49.0625
+  y: 1.4375
+  z: -131.28125
+allegiance: Independent
+government: Patronage
+controlling_faction: Exiled Marlinist Assembly of Baltah'Sine
+population: 200035136
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Hyades%20Sector%20RO-P%20b6-2
+inara_url: https://inara.cz/elite/starsystem/?search=Hyades%20Sector%20RO-P%20b6-2
 ---
+
 
 <!-- AUTO-GENERATED -->
 

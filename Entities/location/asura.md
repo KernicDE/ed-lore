@@ -11,7 +11,21 @@ related_entities:
 - luchtaine
 - los
 - tir
+coords:
+  x: -9550.28125
+  y: -916.65625
+  z: 19816.1875
+allegiance: Independent
+government: Confederacy
+controlling_faction: GalCop Colonial Defence Commission
+population: 465564
+security: Low
+economy: Service
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Asura
+inara_url: https://inara.cz/elite/starsystem/?search=Asura
 ---
+
 
 <!-- AUTO-GENERATED -->
 

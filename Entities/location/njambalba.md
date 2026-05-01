@@ -11,7 +11,21 @@ related_entities:
 - santa-muerte
 - clauss-incorporated
 - sandras-workshop
+coords:
+  x: -3.65625
+  y: -153.71875
+  z: 26.46875
+allegiance: Empire
+government: Dictatorship
+controlling_faction: Bureau of Njambalba
+population: 462575
+security: High
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Njambalba
+inara_url: https://inara.cz/elite/starsystem/?search=Njambalba
 ---
+
 
 <!-- AUTO-GENERATED -->
 

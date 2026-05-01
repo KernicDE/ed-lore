@@ -9,7 +9,9 @@ related_entities:
 - federal-navy
 - herculean-machines
 - blatrimpe
+inara_url: https://inara.cz/elite/minorfaction/?search=Blatrimpe%20Allied%20Co%20Commodities
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - gateway
 - dublin-citadel
+coords:
+  x: 82.25
+  y: 48.75
+  z: 68.15625
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Alliance Rapid-reaction Corps
+population: 5200016905
+security: High
+economy: Industrial
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Tionisla
+inara_url: https://inara.cz/elite/starsystem/?search=Tionisla
 ---
+
 
 <!-- AUTO-GENERATED -->
 

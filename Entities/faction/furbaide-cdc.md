@@ -10,7 +10,9 @@ related_entities:
 - effinger-port
 - liaedin
 - lhs-3505
+inara_url: https://inara.cz/elite/minorfaction/?search=Furbaide%20CDC
 ---
+
 
 <!-- AUTO-GENERATED -->
 

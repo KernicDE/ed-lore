@@ -11,7 +11,21 @@ related_entities:
 - revolutionary-noti-value-party
 - aganippe
 - revolutionary-noti-values-party
+coords:
+  x: 72.15625
+  y: 42.8125
+  z: -31.4375
+allegiance: Federation
+government: Corporate
+controlling_faction: Olympus Trading Corp
+population: 39599391
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Noti
+inara_url: https://inara.cz/elite/starsystem/?search=Noti
 ---
+
 
 <!-- AUTO-GENERATED -->
 

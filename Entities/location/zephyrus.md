@@ -11,7 +11,21 @@ related_entities:
 - orio-persean-conflux
 - osprey-stellar-remnant
 - wagars-reach
+coords:
+  x: -21.84375
+  y: 12.59375
+  z: -60.75
+allegiance: Federation
+government: Democracy
+controlling_faction: Blood Brothers from Alrai
+population: 80201
+security: Medium
+economy: Military
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Zephyrus
+inara_url: https://inara.cz/elite/starsystem/?search=Zephyrus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

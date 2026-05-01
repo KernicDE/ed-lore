@@ -11,7 +11,9 @@ related_entities:
 - gandii
 - krisha
 - fincke-depot
+inara_url: https://inara.cz/elite/minorfaction/?search=Camorra%20of%20Krisha
 ---
+
 
 <!-- AUTO-GENERATED -->
 

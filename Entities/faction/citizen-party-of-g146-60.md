@@ -10,7 +10,9 @@ related_entities:
 - workers-party-of-g-176-29
 - graill-redd
 - j-g-ballard-gateway
+inara_url: https://inara.cz/elite/minorfaction/?search=Citizen%20Party%20of%20G146-60
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - brestla-a1
 - sol
 - pleiades-resource-enterprise
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Inquisition
 ---
+
 
 <!-- AUTO-GENERATED -->
 

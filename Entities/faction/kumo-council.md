@@ -11,7 +11,9 @@ related_entities:
 - harma
 - pegasi-sector-pn-t-c3-14
 - pegasi-sentinel
+inara_url: https://inara.cz/elite/minorfaction/?search=Kumo%20Council
 ---
+
 
 <!-- AUTO-GENERATED -->
 

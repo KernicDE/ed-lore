@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-01-31'
 last_seen_date: '3302-01-31'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Chloe%20Anders
 ---
+
 
 <!-- AUTO-GENERATED -->
 

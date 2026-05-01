@@ -11,7 +11,9 @@ related_entities:
 - liberal-party
 - east-india-company
 - autahenetsi
+inara_url: https://inara.cz/elite/minorfaction/?search=Republican%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

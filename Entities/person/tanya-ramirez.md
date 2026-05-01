@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-05-24'
 last_seen_date: '3307-11-19'
 mention_count: 12
+inara_url: https://inara.cz/elite/cmdr-search/?search=Tanya%20Ramirez
 ---
+
 
 <!-- AUTO-GENERATED -->
 

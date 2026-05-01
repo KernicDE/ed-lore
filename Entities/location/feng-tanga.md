@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: 5.75
+  y: -113.125
+  z: -67.3125
+allegiance: Independent
+government: Corporate
+controlling_faction: Ukrainian Pilots Federation
+population: 8985258
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Feng%20Tanga
+inara_url: https://inara.cz/elite/starsystem/?search=Feng%20Tanga
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-05-04'
 last_seen_date: '3301-05-23'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Dr.%20Arcanonn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

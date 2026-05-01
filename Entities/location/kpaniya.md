@@ -11,7 +11,21 @@ related_entities:
 - nauo
 - gyhldekala
 - boga
+coords:
+  x: -38.21875
+  y: 40.0625
+  z: 104
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 45680
+security: Medium
+economy: Refinery
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Kpaniya
+inara_url: https://inara.cz/elite/starsystem/?search=Kpaniya
 ---
+
 
 <!-- AUTO-GENERATED -->
 

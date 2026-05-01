@@ -11,7 +11,9 @@ related_entities:
 - charunder
 - ennead
 - ltt-3607
+inara_url: https://inara.cz/elite/minorfaction/?search=Safeguard%20Interstellar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

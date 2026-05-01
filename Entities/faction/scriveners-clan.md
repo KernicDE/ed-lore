@@ -11,7 +11,9 @@ related_entities:
 - perseus-dark-region-kc-v-c2-2
 - chukchan
 - wallglass-investigations-agency
+inara_url: https://inara.cz/elite/minorfaction/?search=Scriveners%20Clan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

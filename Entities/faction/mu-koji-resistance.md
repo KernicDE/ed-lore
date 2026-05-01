@@ -10,7 +10,9 @@ related_entities:
 - federation
 - xuangu-crimson-major-network
 - mu-koji
+inara_url: https://inara.cz/elite/minorfaction/?search=Mu%20Koji%20Resistance
 ---
+
 
 <!-- AUTO-GENERATED -->
 

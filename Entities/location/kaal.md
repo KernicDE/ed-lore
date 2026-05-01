@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - kuk-silver-fortune-company
 - vercors-station
+coords:
+  x: -18.34375
+  y: 66.71875
+  z: -21.59375
+allegiance: Alliance
+government: Confederacy
+controlling_faction: Terran Colonial Forces
+population: 390853
+security: Medium
+economy: Refinery
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Kaal
+inara_url: https://inara.cz/elite/starsystem/?search=Kaal
 ---
+
 
 <!-- AUTO-GENERATED -->
 

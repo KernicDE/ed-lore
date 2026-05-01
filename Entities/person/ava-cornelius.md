@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-11-15'
 last_seen_date: '3305-11-24'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Ava%20Cornelius
 ---
+
 
 <!-- AUTO-GENERATED -->
 

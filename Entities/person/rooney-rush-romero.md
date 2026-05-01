@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-11-19'
 last_seen_date: '3301-11-25'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Rooney%20%27Rush%27%20Romero
 ---
+
 
 <!-- AUTO-GENERATED -->
 

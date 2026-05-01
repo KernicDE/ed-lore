@@ -11,7 +11,9 @@ related_entities:
 - children-of-raxxla
 - dark-wheel
 - imperial-citizen
+inara_url: https://inara.cz/elite/minorfaction/?search=Phoenix%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

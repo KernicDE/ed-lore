@@ -11,7 +11,17 @@ related_entities:
 - imperial-navy
 - hip-22460
 - hyades
+coords:
+  x: 88.4375
+  y: -74.90625
+  z: -122
+security: Anarchy
+economy: None
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Hyades%20Sector%20FB-N%20b7-6
+inara_url: https://inara.cz/elite/starsystem/?search=Hyades%20Sector%20FB-N%20b7-6
 ---
+
 
 <!-- AUTO-GENERATED -->
 

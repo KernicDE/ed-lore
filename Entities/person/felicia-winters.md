@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - federal-navy
 - hip-87621
+inara_url: https://inara.cz/elite/cmdr-search/?search=Felicia%20Winters
 ---
+
 
 <!-- AUTO-GENERATED -->
 

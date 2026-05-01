@@ -11,7 +11,9 @@ related_entities:
 - olympus-village
 - san-francisco
 - columbus-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Kuiper%20Mining%20Inc.
 ---
+
 
 <!-- AUTO-GENERATED -->
 

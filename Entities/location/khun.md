@@ -10,7 +10,21 @@ related_entities:
 - cremona-prospect
 - federal-times
 - khun-independent-governance
+coords:
+  x: -171.59375
+  y: 19.96875
+  z: -56.96875
+allegiance: Independent
+government: Cooperative
+controlling_faction: Canonn
+population: 154370
+security: Low
+economy: Terraforming
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Khun
+inara_url: https://inara.cz/elite/starsystem/?search=Khun
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - varpet
 - akandinigua
 - tilialas-lament
+inara_url: https://inara.cz/elite/minorfaction/?search=Conservatives%20of%20Tiliala
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - sol
 - lave
 - achenar
+coords:
+  x: -33.65625
+  y: 72.46875
+  z: -20.65625
+allegiance: Alliance
+government: Democracy
+controlling_faction: Alioth Independents
+population: 14900167328
+security: High
+economy: High Tech
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Alioth
+inara_url: https://inara.cz/elite/starsystem/?search=Alioth
 ---
+
 
 <!-- AUTO-GENERATED -->
 

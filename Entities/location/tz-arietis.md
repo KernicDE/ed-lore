@@ -9,7 +9,21 @@ related_entities:
 - azimuth-biotech
 - musashi
 - hind-mine
+coords:
+  x: -5.375
+  y: -10.59375
+  z: -8.5
+allegiance: Federation
+government: Corporate
+controlling_faction: FrogCorp
+population: 63823540
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=TZ%20Arietis
+inara_url: https://inara.cz/elite/starsystem/?search=TZ%20Arietis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

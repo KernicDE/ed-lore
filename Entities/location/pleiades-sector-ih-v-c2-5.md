@@ -11,7 +11,21 @@ related_entities:
 - vox-galactica
 - pilots-federation
 - coalsack-nebula
+coords:
+  x: -78.71875
+  y: -138.03125
+  z: -321.78125
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 1205776
+security: Medium
+economy: Military
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20IH-V%20c2-5
+inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20IH-V%20c2-5
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-07-21'
 last_seen_date: '3311-01-09'
 mention_count: 12
+inara_url: https://inara.cz/elite/cmdr-search/?search=Sofia%20Trevino
 ---
+
 
 <!-- AUTO-GENERATED -->
 

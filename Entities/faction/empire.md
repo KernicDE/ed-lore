@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - azimuth-biotech
 - hip-22460
+inara_url: https://inara.cz/elite/minorfaction/?search=Empire
 ---
+
 
 <!-- AUTO-GENERATED -->
 

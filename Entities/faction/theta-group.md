@@ -11,7 +11,9 @@ related_entities:
 - mudhrid
 - sacrosanct
 - vox-galactica
+inara_url: https://inara.cz/elite/minorfaction/?search=Theta%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - lave
 - lave-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Lave%20Incorporated
 ---
+
 
 <!-- AUTO-GENERATED -->
 

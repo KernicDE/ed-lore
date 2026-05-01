@@ -10,7 +10,21 @@ related_entities:
 - leesti
 - george-lucas-station
 - kessel
+coords:
+  x: 38.21875
+  y: 178.40625
+  z: 437.53125
+allegiance: Independent
+government: Corporate
+controlling_faction: Intergalactic Astronomical Union
+population: 101104
+security: Low
+economy: Industrial
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Jabbah
+inara_url: https://inara.cz/elite/starsystem/?search=Jabbah
 ---
+
 
 <!-- AUTO-GENERATED -->
 

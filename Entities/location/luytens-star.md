@@ -11,7 +11,21 @@ related_entities:
 - aegis
 - pilots-federation
 - sirius-corporation
+coords:
+  x: 6.5625
+  y: 2.34375
+  z: -10.25
+allegiance: Federation
+government: Corporate
+controlling_faction: Earth Defense Fleet
+population: 13151211
+security: High
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Luyten's%20Star
+inara_url: https://inara.cz/elite/starsystem/?search=Luyten's%20Star
 ---
+
 
 <!-- AUTO-GENERATED -->
 

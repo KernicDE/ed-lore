@@ -7,7 +7,9 @@ last_seen_date: '3302-09-09'
 mention_count: 1
 related_entities:
 - chi-orionis
+inara_url: https://inara.cz/elite/minorfaction/?search=Sports%20Zeta%20Weekly
 ---
+
 
 <!-- AUTO-GENERATED -->
 

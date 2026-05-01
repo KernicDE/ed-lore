@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - drevlyada-league
 - drevlyada
+inara_url: https://inara.cz/elite/minorfaction/?search=Namab%20Purple%20Brothers
 ---
+
 
 <!-- AUTO-GENERATED -->
 

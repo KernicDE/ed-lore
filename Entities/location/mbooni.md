@@ -11,7 +11,21 @@ related_entities:
 - lhs-157
 - glorious-prospect
 - maia
+coords:
+  x: 10.53125
+  y: -49.96875
+  z: 7.46875
+allegiance: Independent
+government: Corporate
+controlling_faction: Azimuth Biotech
+population: 50000
+security: Medium
+economy: High Tech
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Mbooni
+inara_url: https://inara.cz/elite/starsystem/?search=Mbooni
 ---
+
 
 <!-- AUTO-GENERATED -->
 

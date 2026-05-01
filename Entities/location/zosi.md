@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - zosi-major-corporation
 - citi-enterprise
+coords:
+  x: -20.03125
+  y: 96.9375
+  z: -37.625
+allegiance: Alliance
+government: Corporate
+controlling_faction: Terran Hydraxi Corporation
+population: 4366492
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Zosi
+inara_url: https://inara.cz/elite/starsystem/?search=Zosi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,9 @@ related_entities:
 - hand-gang-of-gandii
 - gandii
 - lu-hub
+inara_url: https://inara.cz/elite/minorfaction/?search=Gandii%20Justice%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

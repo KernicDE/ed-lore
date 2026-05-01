@@ -10,7 +10,21 @@ related_entities:
 - nelder-city
 - potagos-port
 - pleiades-sector-gw-w-c1-15
+coords:
+  x: 84.625
+  y: -101.40625
+  z: -37
+allegiance: Empire
+government: Feudal
+controlling_faction: Angeli Imperial Enterprises
+population: 3450242187
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Wangal
+inara_url: https://inara.cz/elite/starsystem/?search=Wangal
 ---
+
 
 <!-- AUTO-GENERATED -->
 

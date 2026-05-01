@@ -11,7 +11,21 @@ related_entities:
 - 39-tauri
 - kamorin
 - delta-phoenicis
+coords:
+  x: -19.125
+  y: 10.6875
+  z: 87.34375
+allegiance: Federation
+government: Democracy
+controlling_faction: Federal Expeditionary Armed Response
+population: 12567572
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Asgaa
+inara_url: https://inara.cz/elite/starsystem/?search=Asgaa
 ---
+
 
 <!-- AUTO-GENERATED -->
 

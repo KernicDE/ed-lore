@@ -11,7 +11,21 @@ related_entities:
 - buckey-hub
 - achenar
 - alioth
+coords:
+  x: 124.625
+  y: 2.5
+  z: 61.25
+allegiance: Independent
+government: Corporate
+controlling_faction: ACME Interstellar
+population: 33282
+security: Low
+economy: Refinery
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Anduliga
+inara_url: https://inara.cz/elite/starsystem/?search=Anduliga
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-02-20'
 last_seen_date: '3311-03-19'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Trailblazer%20megaships
 ---
+
 
 <!-- AUTO-GENERATED -->
 

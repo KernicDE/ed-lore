@@ -10,7 +10,21 @@ related_entities:
 - koontz-asylum
 - imperial-herald
 - imperial-citizen
+coords:
+  x: 165.96875
+  y: -169.28125
+  z: 101.3125
+allegiance: Empire
+government: Feudal
+controlling_faction: Imperial Conquistadors
+population: 4650737
+security: Medium
+economy: Extraction
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Daibo
+inara_url: https://inara.cz/elite/starsystem/?search=Daibo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

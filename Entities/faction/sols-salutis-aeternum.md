@@ -9,7 +9,9 @@ related_entities:
 - alliance
 - sirius-corporation
 - di-jian
+inara_url: https://inara.cz/elite/minorfaction/?search=Sol%27s%20Salutis%20Aeternum
 ---
+
 
 <!-- AUTO-GENERATED -->
 

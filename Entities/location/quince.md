@@ -11,7 +11,21 @@ related_entities:
 - sol-system
 - sothis
 - fehu
+coords:
+  x: 57.375
+  y: 341.375
+  z: 333
+allegiance: Independent
+government: Cooperative
+controlling_faction: THE Foundation
+population: 10000000
+security: High
+economy: Agriculture
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Quince
+inara_url: https://inara.cz/elite/starsystem/?search=Quince
 ---
+
 
 <!-- AUTO-GENERATED -->
 

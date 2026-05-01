@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3307-07-19'
 last_seen_date: '3307-07-19'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Suspended%20animation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-07-21'
 last_seen_date: '3307-06-24'
 mention_count: 4
+inara_url: https://inara.cz/elite/commodity/?search=CMM%20composites
 ---
+
 
 <!-- AUTO-GENERATED -->
 

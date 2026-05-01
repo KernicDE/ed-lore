@@ -11,7 +11,21 @@ related_entities:
 - eravate
 - cleve-hub
 - adles-armada
+coords:
+  x: -23.9375
+  y: 40.875
+  z: -1.34375
+allegiance: Pilots Federation
+government: Democracy
+controlling_faction: Pilots' Federation Local Branch
+population: 64998
+security: High
+economy: Extraction
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Asellus%20Primus
+inara_url: https://inara.cz/elite/starsystem/?search=Asellus%20Primus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

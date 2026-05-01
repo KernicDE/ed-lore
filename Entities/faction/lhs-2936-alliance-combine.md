@@ -9,7 +9,9 @@ related_entities:
 - alliance
 - lhs-2936-system
 - fraser-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=LHS%202936%20Alliance%20Combine
 ---
+
 
 <!-- AUTO-GENERATED -->
 

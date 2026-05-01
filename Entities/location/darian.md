@@ -11,7 +11,21 @@ related_entities:
 - freng
 - lunduwalaya
 - alliance
+coords:
+  x: -88.46875
+  y: -16.90625
+  z: 95.40625
+allegiance: Federation
+government: Confederacy
+controlling_faction: Jambojai Partnership
+population: 182977
+security: Low
+economy: Refinery
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Darian
+inara_url: https://inara.cz/elite/starsystem/?search=Darian
 ---
+
 
 <!-- AUTO-GENERATED -->
 

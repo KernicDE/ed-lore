@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-02-15'
 last_seen_date: '3309-10-16'
 mention_count: 102
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jasmina%20Halsey
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - capitol
 - achenar
 - hip-22460
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Navy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

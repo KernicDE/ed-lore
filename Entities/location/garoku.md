@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - utopia
 - terry-port
+coords:
+  x: -99.75
+  y: -58
+  z: -61.15625
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Law Party of Garoku
+population: 548112990
+security: High
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Garoku
+inara_url: https://inara.cz/elite/starsystem/?search=Garoku
 ---
+
 
 <!-- AUTO-GENERATED -->
 

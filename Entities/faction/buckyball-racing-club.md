@@ -11,7 +11,9 @@ related_entities:
 - leesti
 - george-lucas-station
 - sol
+inara_url: https://inara.cz/elite/minorfaction/?search=Buckyball%20Racing%20Club
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-12-06'
 last_seen_date: '3310-12-06'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Imperial%20Sanctum
 ---
+
 
 <!-- AUTO-GENERATED -->
 

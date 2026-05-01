@@ -339,6 +339,32 @@ def build() -> dict[str, Any]:
                 "bio": "", "affiliations": [], "related_entities": [], "related_arcs": [],
             }
 
+    # Merge enriched data from entity files
+    print("Merging enriched entity data...")
+    for subdir in ENTITIES_DIR.iterdir():
+        if not subdir.is_dir() or subdir.name == "Arcs":
+            continue
+        for md_file in subdir.glob("*.md"):
+            eid = md_file.stem
+            if eid not in graph["entities"]:
+                continue
+            content = md_file.read_text(encoding="utf-8")
+            parts = content.split("---", 2)
+            if len(parts) < 3:
+                continue
+            try:
+                fm = yaml.safe_load(parts[1])
+            except Exception:
+                continue
+            rec = graph["entities"][eid]
+            # Merge enriched fields
+            for key in ["coords", "allegiance", "government", "controlling_faction",
+                        "population", "security", "economy", "second_economy",
+                        "edsm_url", "inara_url", "parent_arc", "summary", "description",
+                        "status", "outcome", "phases", "key_entities"]:
+                if key in fm and fm[key] is not None:
+                    rec[key] = fm[key]
+
     # Build arc records
     print("Building arc records...")
     for arc_id, data in arc_mentions.items():
@@ -401,7 +427,7 @@ def write_profiles(graph: dict[str, Any]) -> None:
         path = subdir / f"{eid}.md"
         if path.exists():
             existing = path.read_text(encoding="utf-8")
-            if "<!-- AUTO-GENERATED -->" not in existing and len(existing) > 300:
+            if len(existing) > 300:
                 continue
         fm = {
             "id": eid, "name": rec["name"], "type": rec.get("type", "person"),
@@ -427,7 +453,7 @@ def write_profiles(graph: dict[str, Any]) -> None:
         path = ARCS_DIR / f"{arc_id}.md"
         if path.exists():
             existing = path.read_text(encoding="utf-8")
-            if "<!-- AUTO-GENERATED -->" not in existing and len(existing) > 300:
+            if len(existing) > 300:
                 continue
         fm = {
             "id": arc_id, "name": rec["name"],

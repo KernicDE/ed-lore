@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-02-20'
 last_seen_date: '3311-02-20'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Colonisation%20Beacon
 ---
+
 
 <!-- AUTO-GENERATED -->
 

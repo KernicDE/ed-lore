@@ -11,7 +11,21 @@ related_entities:
 - federal-intelligence-agency
 - vitadyne-labs
 - salvation
+coords:
+  x: 106.1875
+  y: -2.6875
+  z: 67.375
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Enforcement Division
+population: 1615694
+security: Low
+economy: Industrial
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Zlota
+inara_url: https://inara.cz/elite/starsystem/?search=Zlota
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - ronin-of-amarak
 - triadius
 - contrail
+inara_url: https://inara.cz/elite/minorfaction/?search=Balkan%20Intergalactic%20Guerrillas
 ---
+
 
 <!-- AUTO-GENERATED -->
 

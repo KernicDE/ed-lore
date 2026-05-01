@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3303-01-20'
 last_seen_date: '3311-01-29'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jason%20Nygaard
 ---
+
 
 <!-- AUTO-GENERATED -->
 

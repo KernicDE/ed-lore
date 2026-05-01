@@ -11,7 +11,9 @@ related_entities:
 - coalition-of-uteran
 - lp-726-6-free
 - gluscap-labour
+inara_url: https://inara.cz/elite/minorfaction/?search=Neche%20Inc
 ---
+
 
 <!-- AUTO-GENERATED -->
 

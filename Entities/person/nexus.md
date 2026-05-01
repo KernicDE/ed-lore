@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-06-16'
 last_seen_date: '3304-06-21'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Nexus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

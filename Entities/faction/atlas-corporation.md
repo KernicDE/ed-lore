@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - alliance
 - privateers-alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Atlas%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

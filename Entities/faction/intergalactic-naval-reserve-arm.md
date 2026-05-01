@@ -11,7 +11,9 @@ related_entities:
 - hermitage
 - core-systems
 - aegis
+inara_url: https://inara.cz/elite/minorfaction/?search=Intergalactic%20Naval%20Reserve%20Arm
 ---
+
 
 <!-- AUTO-GENERATED -->
 

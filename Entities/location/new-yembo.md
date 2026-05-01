@@ -10,7 +10,21 @@ related_entities:
 - eauc
 - hip-101110
 - explorers-association
+coords:
+  x: -334.625
+  y: -4.46875
+  z: 73.5
+allegiance: Federation
+government: Democracy
+controlling_faction: Values Party of Yembo
+population: 528006
+security: Low
+economy: Extraction
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=New%20Yembo
+inara_url: https://inara.cz/elite/starsystem/?search=New%20Yembo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

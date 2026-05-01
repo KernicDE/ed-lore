@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - military-militia
 - pellegrino-hub
+coords:
+  x: 59.59375
+  y: 48.0625
+  z: 180.40625
+allegiance: Independent
+government: Theocracy
+controlling_faction: Keepers of the Outer Gates
+population: 5728059
+security: High
+economy: Industrial
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=XI-2%20Lupi
+inara_url: https://inara.cz/elite/starsystem/?search=XI-2%20Lupi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

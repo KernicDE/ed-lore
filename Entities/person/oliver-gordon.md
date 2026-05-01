@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-03-06'
 last_seen_date: '3302-03-14'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Oliver%20Gordon
 ---
+
 
 <!-- AUTO-GENERATED -->
 

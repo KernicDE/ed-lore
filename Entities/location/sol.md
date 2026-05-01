@@ -11,7 +11,21 @@ related_entities:
 - federal-congress
 - federal-navy
 - alliance
+coords:
+  x: 0
+  y: 0
+  z: 0
+allegiance: Federation
+government: Democracy
+controlling_faction: Mother Gaia
+population: 18320926115
+security: High
+economy: Refinery
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Sol
+inara_url: https://inara.cz/elite/starsystem/?search=Sol
 ---
+
 
 <!-- AUTO-GENERATED -->
 

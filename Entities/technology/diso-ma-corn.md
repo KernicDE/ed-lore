@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-05-11'
 last_seen_date: '3301-05-11'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Diso%20Ma%20Corn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

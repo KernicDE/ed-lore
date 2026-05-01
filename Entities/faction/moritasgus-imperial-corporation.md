@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - iiss
 - utopia
+inara_url: https://inara.cz/elite/minorfaction/?search=Moritasgus%20Imperial%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

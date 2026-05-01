@@ -11,7 +11,21 @@ related_entities:
 - alliance-of-independent-systems
 - djaujas
 - khona
+coords:
+  x: -63.34375
+  y: 148.21875
+  z: 10.25
+allegiance: Independent
+government: Confederacy
+controlling_faction: Independent Defence Agency
+population: 2769359
+security: Medium
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Dohkwithi
+inara_url: https://inara.cz/elite/starsystem/?search=Dohkwithi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

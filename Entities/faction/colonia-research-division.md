@@ -9,7 +9,9 @@ related_entities:
 - colonia-council
 - randgnid
 - templar-barracks
+inara_url: https://inara.cz/elite/minorfaction/?search=Colonia%20Research%20Division
 ---
+
 
 <!-- AUTO-GENERATED -->
 

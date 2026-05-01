@@ -11,7 +11,9 @@ related_entities:
 - cemiess
 - hawkins-gap
 - emperors-dawn
+inara_url: https://inara.cz/elite/minorfaction/?search=Children%20of%20Raxxla
 ---
+
 
 <!-- AUTO-GENERATED -->
 

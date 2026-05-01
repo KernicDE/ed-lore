@@ -9,7 +9,9 @@ related_entities:
 - holloway-bioscience-institute
 - october-consortium
 - hip-87621
+inara_url: https://inara.cz/elite/cmdr-search/?search=Roy%20Casimir
 ---
+
 
 <!-- AUTO-GENERATED -->
 

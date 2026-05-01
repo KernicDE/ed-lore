@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - fortunes-corsairs
 - chamas
+inara_url: https://inara.cz/elite/minorfaction/?search=Chamash%20Foods
 ---
+
 
 <!-- AUTO-GENERATED -->
 

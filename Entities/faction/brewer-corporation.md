@@ -11,7 +11,9 @@ related_entities:
 - minerva
 - macdonald-settlement
 - hip-90578
+inara_url: https://inara.cz/elite/minorfaction/?search=Brewer%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-05-03'
 last_seen_date: '3305-05-31'
 mention_count: 5
+inara_url: https://inara.cz/elite/cmdr-search/?search=Gan%20Romero
 ---
+
 
 <!-- AUTO-GENERATED -->
 

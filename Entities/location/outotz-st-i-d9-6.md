@@ -11,7 +11,14 @@ related_entities:
 - alliance
 - supratech
 - federal-intelligence-agency
+coords:
+  x: 604.15625
+  y: 153.59375
+  z: -1514.9375
+edsm_url: https://www.edsm.net/en/system?search=Outotz%20ST-I%20d9-6
+inara_url: https://inara.cz/elite/starsystem/?search=Outotz%20ST-I%20d9-6
 ---
+
 
 <!-- AUTO-GENERATED -->
 

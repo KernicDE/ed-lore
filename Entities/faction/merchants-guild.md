@@ -10,7 +10,9 @@ related_entities:
 - prism
 - sol
 - titan
+inara_url: https://inara.cz/elite/minorfaction/?search=Merchants%20Guild
 ---
+
 
 <!-- AUTO-GENERATED -->
 

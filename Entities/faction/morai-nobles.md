@@ -9,7 +9,9 @@ related_entities:
 - van-de-hulst-vision
 - morai
 - empire
+inara_url: https://inara.cz/elite/minorfaction/?search=Morai%20Nobles
 ---
+
 
 <!-- AUTO-GENERATED -->
 

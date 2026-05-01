@@ -11,7 +11,21 @@ related_entities:
 - lem-dock
 - chaac
 - moon-prospect
+coords:
+  x: -21.34375
+  y: 6.4375
+  z: 82.375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Tigurd Shared
+population: 5154485
+security: Medium
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Turot
+inara_url: https://inara.cz/elite/starsystem/?search=Turot
 ---
+
 
 <!-- AUTO-GENERATED -->
 

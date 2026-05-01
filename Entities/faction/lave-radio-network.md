@@ -11,7 +11,9 @@ related_entities:
 - lave
 - diso
 - lave-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Lave%20Radio%20Network
 ---
+
 
 <!-- AUTO-GENERATED -->
 

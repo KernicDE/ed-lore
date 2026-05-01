@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - pilots-federation
 - universal-cartographics
+inara_url: https://inara.cz/elite/minorfaction/?search=Faulcon%20DeLacy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - gateway
 - dublin-citadel
 - lhs-2522
+coords:
+  x: 18.15625
+  y: 72.6875
+  z: -1.09375
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Office of Statistics
+population: 5000000
+security: Medium
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Sharru%20Sector%20FW-W%20c1-19
+inara_url: https://inara.cz/elite/starsystem/?search=Sharru%20Sector%20FW-W%20c1-19
 ---
+
 
 <!-- AUTO-GENERATED -->
 

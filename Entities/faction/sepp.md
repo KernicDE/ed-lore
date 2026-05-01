@@ -11,7 +11,9 @@ related_entities:
 - 9th-legion
 - iridium-wing
 - prismatic-imperium
+inara_url: https://inara.cz/elite/minorfaction/?search=SEPP
 ---
+
 
 <!-- AUTO-GENERATED -->
 

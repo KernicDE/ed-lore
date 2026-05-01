@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-12-06'
 last_seen_date: '3309-01-26'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Zacariah%20Nemo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

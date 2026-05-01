@@ -7,7 +7,14 @@ last_seen_date: '3301-03-18'
 mention_count: 1
 related_entities:
 - sol
+coords:
+  x: -0.5
+  y: 1214.84375
+  z: -0.84375
+edsm_url: https://www.edsm.net/en/system?search=Wregoe%20TV-L%20C24-0
+inara_url: https://inara.cz/elite/starsystem/?search=Wregoe%20TV-L%20C24-0
 ---
+
 
 <!-- AUTO-GENERATED -->
 

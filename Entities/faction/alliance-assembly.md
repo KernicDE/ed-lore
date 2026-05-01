@@ -11,7 +11,9 @@ related_entities:
 - council-of-admirals
 - alliance-defence-force
 - zaonce
+inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Assembly
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - league-of-reparation
 - alioth
 - donaldson-starport
+inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Council%20of%20Admirals
 ---
+
 
 <!-- AUTO-GENERATED -->
 

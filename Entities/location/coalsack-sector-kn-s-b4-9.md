@@ -11,7 +11,21 @@ related_entities:
 - coalsack-nebula
 - musca-dark-region-pj-p-b6-1
 - coalsack-sector-vu-0-b6-6
+coords:
+  x: 405.46875
+  y: 40
+  z: 264.0625
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Protectors
+population: 249673
+security: Low
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Coalsack%20Sector%20KN-S%20B4-9
+inara_url: https://inara.cz/elite/starsystem/?search=Coalsack%20Sector%20KN-S%20B4-9
 ---
+
 
 <!-- AUTO-GENERATED -->
 

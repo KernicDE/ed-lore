@@ -11,7 +11,9 @@ related_entities:
 - long-embedded-systems
 - lurp-ship-systems
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Jick%20Nackson%20Enterprises
 ---
+
 
 <!-- AUTO-GENERATED -->
 

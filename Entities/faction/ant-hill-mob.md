@@ -11,7 +11,9 @@ related_entities:
 - obsidian-orbital
 - federation
 - maia-a-3-a
+inara_url: https://inara.cz/elite/minorfaction/?search=Ant%20Hill%20Mob
 ---
+
 
 <!-- AUTO-GENERATED -->
 

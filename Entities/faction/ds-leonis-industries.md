@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - macrosphere
 - ds-leonis
+inara_url: https://inara.cz/elite/minorfaction/?search=DS%20Leonis%20Industries
 ---
+
 
 <!-- AUTO-GENERATED -->
 

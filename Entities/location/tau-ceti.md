@@ -11,7 +11,21 @@ related_entities:
 - federation
 - mars
 - taylor-colony
+coords:
+  x: -0.375
+  y: -11.40625
+  z: -3.5
+allegiance: Independent
+government: Feudal
+controlling_faction: Equestrian Naval Fleet
+population: 5000152143
+security: High
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Tau%20Ceti
+inara_url: https://inara.cz/elite/starsystem/?search=Tau%20Ceti
 ---
+
 
 <!-- AUTO-GENERATED -->
 

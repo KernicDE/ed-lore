@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-05-07'
 last_seen_date: '3301-05-07'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Hafnium%20178
 ---
+
 
 <!-- AUTO-GENERATED -->
 

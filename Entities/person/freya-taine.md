@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-04-29'
 last_seen_date: '3305-05-30'
 mention_count: 5
+inara_url: https://inara.cz/elite/cmdr-search/?search=Freya%20Taine
 ---
+
 
 <!-- AUTO-GENERATED -->
 

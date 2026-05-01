@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - league-of-reparation
 - sirius-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Council%20of%20Admirals
 ---
+
 
 <!-- AUTO-GENERATED -->
 

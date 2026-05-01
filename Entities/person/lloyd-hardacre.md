@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-09-20'
 last_seen_date: '3304-09-29'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Lloyd%20Hardacre
 ---
+
 
 <!-- AUTO-GENERATED -->
 

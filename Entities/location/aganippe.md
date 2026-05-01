@@ -10,7 +10,21 @@ related_entities:
 - noti
 - weber-gateway
 - federal-times
+coords:
+  x: -11.5625
+  y: 43.8125
+  z: 11.625
+allegiance: Independent
+government: Corporate
+controlling_faction: New Pilots Initiative
+population: 3338466
+security: Medium
+economy: High Tech
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Aganippe
+inara_url: https://inara.cz/elite/starsystem/?search=Aganippe
 ---
+
 
 <!-- AUTO-GENERATED -->
 

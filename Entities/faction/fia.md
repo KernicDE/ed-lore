@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - vox-galactica
 - none-specified
+inara_url: https://inara.cz/elite/minorfaction/?search=FIA
 ---
+
 
 <!-- AUTO-GENERATED -->
 

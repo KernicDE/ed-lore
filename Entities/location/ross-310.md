@@ -11,7 +11,21 @@ related_entities:
 - aegis
 - pilots-federation
 - eg-union
+coords:
+  x: -80.65625
+  y: -6.21875
+  z: -43
+allegiance: Independent
+government: Corporate
+controlling_faction: Loose Screws Network
+population: 2890020160
+security: Medium
+economy: Agriculture
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Ross%20310
+inara_url: https://inara.cz/elite/starsystem/?search=Ross%20310
 ---
+
 
 <!-- AUTO-GENERATED -->
 

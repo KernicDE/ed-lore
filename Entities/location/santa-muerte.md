@@ -11,7 +11,21 @@ related_entities:
 - clauss-port
 - clauss-incorporated
 - diamond-frogs
+coords:
+  x: 94.25
+  y: 46.1875
+  z: 58.03125
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Alliance Rapid-reaction Corps
+population: 71523
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Santa%20Muerte
+inara_url: https://inara.cz/elite/starsystem/?search=Santa%20Muerte
 ---
+
 
 <!-- AUTO-GENERATED -->
 

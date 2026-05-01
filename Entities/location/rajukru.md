@@ -11,7 +11,21 @@ related_entities:
 - amahu
 - leerham
 - bd-11-4280
+coords:
+  x: -96.9375
+  y: 143.4375
+  z: 4.625
+allegiance: Independent
+government: Confederacy
+controlling_faction: Independent Defence Agency
+population: 3470098
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Rajukru
+inara_url: https://inara.cz/elite/starsystem/?search=Rajukru
 ---
+
 
 <!-- AUTO-GENERATED -->
 

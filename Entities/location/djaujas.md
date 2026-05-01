@@ -11,7 +11,21 @@ related_entities:
 - alliance-of-independent-systems
 - khona
 - dohkwithi
+coords:
+  x: -69.09375
+  y: 75.6875
+  z: 10.21875
+allegiance: Alliance
+government: Corporate
+controlling_faction: Andromeda Corporation
+population: 2682764
+security: Medium
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Djaujas
+inara_url: https://inara.cz/elite/starsystem/?search=Djaujas
 ---
+
 
 <!-- AUTO-GENERATED -->
 

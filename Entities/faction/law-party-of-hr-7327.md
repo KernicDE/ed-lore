@@ -11,7 +11,9 @@ related_entities:
 - col-285-sector-vg-1-b24-6
 - sefrys
 - kwatee
+inara_url: https://inara.cz/elite/minorfaction/?search=Law%20Party%20of%20HR%207327
 ---
+
 
 <!-- AUTO-GENERATED -->
 

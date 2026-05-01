@@ -10,7 +10,9 @@ related_entities:
 - sutekh
 - federation
 - archemides-gateway
+inara_url: https://inara.cz/elite/minorfaction/?search=Adad%20Exchange
 ---
+
 
 <!-- AUTO-GENERATED -->
 

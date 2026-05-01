@@ -11,7 +11,9 @@ related_entities:
 - balandin-gateway
 - knight-dock
 - seega-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Marines
 ---
+
 
 <!-- AUTO-GENERATED -->
 

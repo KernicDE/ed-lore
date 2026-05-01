@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-08-06'
 last_seen_date: '3309-02-16'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Chloe%20Sedesi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

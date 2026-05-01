@@ -10,7 +10,9 @@ related_entities:
 - imperial-internal-security-service
 - pilots-federation
 - keltim-empire-league
+inara_url: https://inara.cz/elite/minorfaction/?search=Eurybia%20Blue%20Mafia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

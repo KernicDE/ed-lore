@@ -9,7 +9,9 @@ related_entities:
 - alliance
 - morrina-system
 - barjavel-vision
+inara_url: https://inara.cz/elite/minorfaction/?search=Morrina%20Pro-Alliance%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

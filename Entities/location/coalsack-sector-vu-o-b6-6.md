@@ -11,7 +11,21 @@ related_entities:
 - coalsack-nebula
 - witch-head-nebula
 - shenve
+coords:
+  x: 418.65625
+  y: 24.25
+  z: 304.5625
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Expeditionary Pact
+population: 1560988
+security: Low
+economy: Extraction
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Coalsack%20Sector%20VU-O%20b6-6
+inara_url: https://inara.cz/elite/starsystem/?search=Coalsack%20Sector%20VU-O%20b6-6
 ---
+
 
 <!-- AUTO-GENERATED -->
 

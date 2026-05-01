@@ -11,7 +11,21 @@ related_entities:
 - arawere
 - diaguandri
 - harma
+coords:
+  x: -24.9375
+  y: -80.59375
+  z: -184.34375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Co-operative of Peregrina
+population: 18503
+security: Low
+economy: Extraction
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Peregrina
+inara_url: https://inara.cz/elite/starsystem/?search=Peregrina
 ---
+
 
 <!-- AUTO-GENERATED -->
 

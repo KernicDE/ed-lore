@@ -11,7 +11,21 @@ related_entities:
 - nmla
 - achenar
 - alioth
+coords:
+  x: 110
+  y: -99.96875
+  z: -13.375
+allegiance: Empire
+government: Patronage
+controlling_faction: Lavigny's Legion
+population: 4901406228
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Kamadhenu
+inara_url: https://inara.cz/elite/starsystem/?search=Kamadhenu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

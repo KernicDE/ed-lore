@@ -11,7 +11,21 @@ related_entities:
 - nltt-57216
 - ball-dock
 - cd-37-641
+coords:
+  x: -18.375
+  y: -4.09375
+  z: 49.90625
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Gilgamesh Corps Orbital Protection
+population: 10837506
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ross%20720
+inara_url: https://inara.cz/elite/starsystem/?search=Ross%20720
 ---
+
 
 <!-- AUTO-GENERATED -->
 

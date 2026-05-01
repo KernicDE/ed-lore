@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - harma
 - pegasi-sector-pn-t-c3-14
+coords:
+  x: -9533.46875
+  y: -913.125
+  z: 19819.71875
+allegiance: Independent
+government: Corporate
+controlling_faction: Ukraine Colonist Alliance
+population: 150000
+security: Low
+economy: Industrial
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Eol%20Prou%20PC-K%20c9-91
+inara_url: https://inara.cz/elite/starsystem/?search=Eol%20Prou%20PC-K%20c9-91
 ---
+
 
 <!-- AUTO-GENERATED -->
 

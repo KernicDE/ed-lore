@@ -11,7 +11,21 @@ related_entities:
 - neomedical-industries
 - alignak
 - utopia
+coords:
+  x: -82.15625
+  y: 53.71875
+  z: 10.0625
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Buurian Protectorate
+population: 51147749
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Kuma
+inara_url: https://inara.cz/elite/starsystem/?search=Kuma
 ---
+
 
 <!-- AUTO-GENERATED -->
 

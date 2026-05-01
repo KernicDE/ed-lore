@@ -11,7 +11,21 @@ related_entities:
 - leopold-heckmann-ring
 - evans-port
 - federal-navy
+coords:
+  x: 0.71875
+  y: 10.71875
+  z: 33.28125
+allegiance: Independent
+government: Cooperative
+controlling_faction: Elite Fleet Republican Consortium
+population: 3893844490
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Parutis
+inara_url: https://inara.cz/elite/starsystem/?search=Parutis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3306-10-27'
 last_seen_date: '3307-12-09'
 mention_count: 10
+inara_url: https://inara.cz/elite/cmdr-search/?search=Leo%20Magnus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-06-20'
 last_seen_date: '3311-09-22'
 mention_count: 21
+inara_url: https://inara.cz/elite/cmdr-search/?search=Bryanna%20Blanco
 ---
+
 
 <!-- AUTO-GENERATED -->
 

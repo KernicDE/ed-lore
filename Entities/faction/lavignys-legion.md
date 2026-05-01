@@ -11,7 +11,9 @@ related_entities:
 - imperial-navy
 - velites-squadron
 - carthage
+inara_url: https://inara.cz/elite/minorfaction/?search=Lavigny%27s%20Legion
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -7,7 +7,9 @@ last_seen_date: '3301-10-09'
 mention_count: 1
 related_entities:
 - fuel-rats
+inara_url: https://inara.cz/elite/minorfaction/?search=Olympus%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

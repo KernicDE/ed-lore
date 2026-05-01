@@ -9,7 +9,9 @@ related_entities:
 - pilots-federation
 - sagittarius-a
 - beagle-point
+inara_url: https://inara.cz/elite/minorfaction/?search=Elite%20Travel%20Writers%27%20Cooperative
 ---
+
 
 <!-- AUTO-GENERATED -->
 

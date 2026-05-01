@@ -11,7 +11,9 @@ related_entities:
 - fuleum
 - hip-16996
 - maia
+inara_url: https://inara.cz/elite/minorfaction/?search=Congressional%20Oversight%20Committee
 ---
+
 
 <!-- AUTO-GENERATED -->
 

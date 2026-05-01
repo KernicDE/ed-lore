@@ -11,7 +11,9 @@ related_entities:
 - marlinism-reformation-party
 - imperial-senate
 - hyades-sector-ro-p-b6-2
+inara_url: https://inara.cz/elite/minorfaction/?search=Marlinist%20Parliament
 ---
+
 
 <!-- AUTO-GENERATED -->
 

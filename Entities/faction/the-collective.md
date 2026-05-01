@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - federal-security-service
 - mars-tribune
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Collective
 ---
+
 
 <!-- AUTO-GENERATED -->
 

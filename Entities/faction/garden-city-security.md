@@ -11,7 +11,9 @@ related_entities:
 - garden-city-gallery
 - inra
 - league-of-reparation
+inara_url: https://inara.cz/elite/minorfaction/?search=Garden%20City%20security
 ---
+
 
 <!-- AUTO-GENERATED -->
 

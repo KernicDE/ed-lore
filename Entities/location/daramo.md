@@ -11,7 +11,21 @@ related_entities:
 - federation
 - empire
 - merope
+coords:
+  x: -5.375
+  y: -74
+  z: 21.9375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Teaka Elite Altruists Bagging Cooperative
+population: 2023117559
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Daramo
+inara_url: https://inara.cz/elite/starsystem/?search=Daramo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

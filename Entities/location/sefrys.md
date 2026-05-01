@@ -11,7 +11,21 @@ related_entities:
 - hr-7327
 - law-party-of-hr-7327
 - col-285-sector-vg-1-b24-6
+coords:
+  x: -55.75
+  y: -53
+  z: 161.125
+allegiance: Independent
+government: Feudal
+controlling_faction: The Dukes of Mikunn
+population: 1500902
+security: Medium
+economy: Military
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Sefrys
+inara_url: https://inara.cz/elite/starsystem/?search=Sefrys
 ---
+
 
 <!-- AUTO-GENERATED -->
 

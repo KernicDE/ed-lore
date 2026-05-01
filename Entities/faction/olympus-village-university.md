@@ -10,7 +10,9 @@ related_entities:
 - holloway-bioscience-institute
 - hip-22460
 - olympus-village
+inara_url: https://inara.cz/elite/minorfaction/?search=Olympus%20Village%20University
 ---
+
 
 <!-- AUTO-GENERATED -->
 

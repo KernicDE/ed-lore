@@ -11,7 +11,9 @@ related_entities:
 - ackerman-market
 - eravate
 - von-bellingshausen-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Obsidian%20Orbital%20technical%20team
 ---
+
 
 <!-- AUTO-GENERATED -->
 

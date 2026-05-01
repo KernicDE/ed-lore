@@ -11,7 +11,9 @@ related_entities:
 - pilots-federation
 - nmla
 - dyson-city
+inara_url: https://inara.cz/elite/minorfaction/?search=League%20of%20Mandu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - 78-ursae-majoris
 - maia
 - brewer-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Canonn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

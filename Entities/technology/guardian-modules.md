@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-04-19'
 last_seen_date: '3310-07-06'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Guardian%20modules
 ---
+
 
 <!-- AUTO-GENERATED -->
 

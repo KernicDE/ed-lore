@@ -11,7 +11,21 @@ related_entities:
 - federation
 - empire
 - pleiades-nebula
+coords:
+  x: 2.40625
+  y: -26.4375
+  z: 52.4375
+allegiance: Independent
+government: Anarchy
+controlling_faction: Diamond Frogs
+population: 44364
+security: Anarchy
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Othime
+inara_url: https://inara.cz/elite/starsystem/?search=Othime
 ---
+
 
 <!-- AUTO-GENERATED -->
 

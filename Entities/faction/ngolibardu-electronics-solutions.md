@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - ngolibardu-system
 - vernadsky-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Ngolibardu%20Electronics%20Solutions
 ---
+
 
 <!-- AUTO-GENERATED -->
 

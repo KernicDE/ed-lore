@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-02-29'
 last_seen_date: '3310-12-12'
 mention_count: 8
+inara_url: https://inara.cz/elite/commodity/?search=Caustic%20Sink%20Launcher
 ---
+
 
 <!-- AUTO-GENERATED -->
 

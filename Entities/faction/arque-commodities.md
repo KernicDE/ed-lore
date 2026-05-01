@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - arque
 - austen-town-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Arque%20Commodities
 ---
+
 
 <!-- AUTO-GENERATED -->
 

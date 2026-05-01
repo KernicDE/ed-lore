@@ -9,7 +9,21 @@ related_entities:
 - pleiades-resource-enterprise
 - imperial-inquisition
 - federation
+coords:
+  x: -92
+  y: -143.5
+  z: -341.3125
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 34425
+security: High
+economy: Military
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20IH-V%20c2-16
+inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20IH-V%20c2-16
 ---
+
 
 <!-- AUTO-GENERATED -->
 

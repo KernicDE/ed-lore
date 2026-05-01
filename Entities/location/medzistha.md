@@ -10,7 +10,21 @@ related_entities:
 - buckyball-racing-club
 - cook-gateway
 - omicron-capricorni-b
+coords:
+  x: -44.4375
+  y: -69.6875
+  z: 98.875
+allegiance: Independent
+government: Feudal
+controlling_faction: The Dukes of Mikunn
+population: 1315233
+security: Medium
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Medzistha
+inara_url: https://inara.cz/elite/starsystem/?search=Medzistha
 ---
+
 
 <!-- AUTO-GENERATED -->
 

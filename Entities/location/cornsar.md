@@ -11,7 +11,21 @@ related_entities:
 - aegis
 - t-tauri
 - delphi
+coords:
+  x: -94.15625
+  y: -53.5625
+  z: -15.90625
+allegiance: Independent
+government: Communism
+controlling_faction: Xembala
+population: 353725796
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Cornsar
+inara_url: https://inara.cz/elite/starsystem/?search=Cornsar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

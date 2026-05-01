@@ -9,7 +9,14 @@ related_entities:
 - angeli-imperial-enterprises
 - wangal
 - potagos-port
+coords:
+  x: -76.9375
+  y: -153.71875
+  z: -346.625
+edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20GW-W%20c1-15
+inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20GW-W%20c1-15
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-05-23'
 last_seen_date: '3302-07-23'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jahena%20Yar%20Savor
 ---
+
 
 <!-- AUTO-GENERATED -->
 

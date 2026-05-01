@@ -11,7 +11,21 @@ related_entities:
 - green-enterprise
 - obsidian-orbital-technical-team
 - ackerman-market
+coords:
+  x: -74.625
+  y: -35.03125
+  z: -165.96875
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 9743192
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Ngalia
+inara_url: https://inara.cz/elite/starsystem/?search=Ngalia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

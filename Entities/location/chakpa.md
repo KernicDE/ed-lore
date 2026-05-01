@@ -11,7 +11,21 @@ related_entities:
 - hr-4979
 - wolf-294
 - lambda-2-tucanae
+coords:
+  x: 30.1875
+  y: 145.03125
+  z: 58.03125
+allegiance: Federation
+government: Democracy
+controlling_faction: Workers of HIP 67882 Democrats
+population: 215347
+security: Low
+economy: Refinery
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Chakpa
+inara_url: https://inara.cz/elite/starsystem/?search=Chakpa
 ---
+
 
 <!-- AUTO-GENERATED -->
 

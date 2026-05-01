@@ -11,7 +11,9 @@ related_entities:
 - ngun
 - thiele-orbital
 - eta-horologii
+inara_url: https://inara.cz/elite/minorfaction/?search=Stop%20Slavery%20Stupid
 ---
+
 
 <!-- AUTO-GENERATED -->
 

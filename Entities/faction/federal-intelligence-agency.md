@@ -11,7 +11,9 @@ related_entities:
 - league-of-reparation
 - alliance
 - imperial-internal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Intelligence%20Agency
 ---
+
 
 <!-- AUTO-GENERATED -->
 

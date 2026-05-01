@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-05-27'
 last_seen_date: '3301-05-27'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Guardian%20Wing
 ---
+
 
 <!-- AUTO-GENERATED -->
 

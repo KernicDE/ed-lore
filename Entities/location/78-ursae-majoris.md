@@ -11,7 +11,21 @@ related_entities:
 - hip-53688
 - tinia
 - furuhjlem-i-645
+coords:
+  x: -35.03125
+  y: 72.53125
+  z: -19.9375
+allegiance: Alliance
+government: Confederacy
+controlling_faction: Terran Colonial Forces
+population: 10387930189
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=78%20Ursae%20Majoris
+inara_url: https://inara.cz/elite/starsystem/?search=78%20Ursae%20Majoris
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - bank-of-zaonce
 - alliance-tribune
 - council-of-admirals
+coords:
+  x: 80.75
+  y: 48.75
+  z: 69.25
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Alliance Rapid-reaction Corps
+population: 5300007550
+security: High
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Zaonce
+inara_url: https://inara.cz/elite/starsystem/?search=Zaonce
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - alliance-of-independent-systems
 - djaujas
 - khona
+coords:
+  x: -75.8125
+  y: 110.03125
+  z: -59.75
+allegiance: Independent
+government: Corporate
+controlling_faction: Scallywag Industries
+population: 233688632
+security: Medium
+economy: Terraforming
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Milelbis
+inara_url: https://inara.cz/elite/starsystem/?search=Milelbis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

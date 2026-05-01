@@ -11,7 +11,9 @@ related_entities:
 - galcop
 - interstellar-communist-union
 - social-eleu-progressive-party
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Sovereign
 ---
+
 
 <!-- AUTO-GENERATED -->
 

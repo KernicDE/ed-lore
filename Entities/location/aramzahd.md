@@ -10,7 +10,21 @@ related_entities:
 - normanmaviss-bingo-palace
 - annual-galactic-games-organisation
 - guardinia
+coords:
+  x: 66.46875
+  y: -144.46875
+  z: 29.875
+allegiance: Independent
+government: Democracy
+controlling_faction: United German Commanders
+population: 12042723
+security: High
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Aramzahd
+inara_url: https://inara.cz/elite/starsystem/?search=Aramzahd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

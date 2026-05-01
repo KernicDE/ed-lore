@@ -11,7 +11,21 @@ related_entities:
 - wonderful-walters-fish-and-coffee-emporium
 - labour-union-of-kauruk
 - kauruk
+coords:
+  x: 101.78125
+  y: -126.40625
+  z: -12.78125
+allegiance: Empire
+government: Patronage
+controlling_faction: Lavigny's Legion
+population: 3515633106
+security: Medium
+economy: Agriculture
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Gyvatices
+inara_url: https://inara.cz/elite/starsystem/?search=Gyvatices
 ---
+
 
 <!-- AUTO-GENERATED -->
 

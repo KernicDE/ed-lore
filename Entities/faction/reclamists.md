@@ -9,7 +9,9 @@ related_entities:
 - imperial-citizen
 - prism
 - chione
+inara_url: https://inara.cz/elite/minorfaction/?search=Reclamists
 ---
+
 
 <!-- AUTO-GENERATED -->
 

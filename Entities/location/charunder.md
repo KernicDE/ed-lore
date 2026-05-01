@@ -11,7 +11,21 @@ related_entities:
 - hip-36081
 - ltt-1935
 - thetis
+coords:
+  x: 38.53125
+  y: -10.125
+  z: 11.625
+allegiance: Federation
+government: Corporate
+controlling_faction: Minutemen
+population: 4032857828
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Charunder
+inara_url: https://inara.cz/elite/starsystem/?search=Charunder
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,21 @@ related_entities:
 - sol
 - centaurus-reach
 - scutum-centaurus-arm
+coords:
+  x: -24.3125
+  y: 37.75
+  z: 6.03125
+allegiance: Independent
+government: Corporate
+controlling_faction: New Pilots Initiative
+population: 174037
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Styx
+inara_url: https://inara.cz/elite/starsystem/?search=Styx
 ---
+
 
 <!-- AUTO-GENERATED -->
 

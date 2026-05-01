@@ -11,7 +11,9 @@ related_entities:
 - capitol
 - prism
 - avalon-shipyards
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Dark%20Wheel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

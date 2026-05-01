@@ -11,7 +11,21 @@ related_entities:
 - arawere
 - harma
 - nganji
+coords:
+  x: -41.0625
+  y: -62.15625
+  z: -103.25
+allegiance: Independent
+government: Democracy
+controlling_faction: EXO
+population: 10326175
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Diaguandri
+inara_url: https://inara.cz/elite/starsystem/?search=Diaguandri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

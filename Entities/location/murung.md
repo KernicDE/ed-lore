@@ -11,7 +11,21 @@ related_entities:
 - 39-tauri
 - kamorin
 - delta-phoenicis
+coords:
+  x: -31.5
+  y: 23.6875
+  z: 75.9375
+allegiance: Independent
+government: Democracy
+controlling_faction: Pixel Bandits Security Force
+population: 42931326
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Murung
+inara_url: https://inara.cz/elite/starsystem/?search=Murung
 ---
+
 
 <!-- AUTO-GENERATED -->
 

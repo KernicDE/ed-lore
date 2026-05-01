@@ -9,7 +9,9 @@ related_entities:
 - brewer-corporation
 - universal-cartographics
 - hip-90578
+inara_url: https://inara.cz/elite/minorfaction/?search=Colonia%20Bridge
 ---
+
 
 <!-- AUTO-GENERATED -->
 

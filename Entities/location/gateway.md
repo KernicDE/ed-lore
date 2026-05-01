@@ -11,7 +11,21 @@ related_entities:
 - aegis
 - tionisla
 - dublin-citadel
+coords:
+  x: -11
+  y: 77.84375
+  z: -0.875
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Office of Statistics
+population: 400027502
+security: Medium
+economy: Refinery
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Gateway
+inara_url: https://inara.cz/elite/starsystem/?search=Gateway
 ---
+
 
 <!-- AUTO-GENERATED -->
 

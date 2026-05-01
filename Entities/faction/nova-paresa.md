@@ -10,7 +10,9 @@ related_entities:
 - paresa
 - dyson-city
 - imperial-palace
+inara_url: https://inara.cz/elite/minorfaction/?search=Nova%20Paresa
 ---
+
 
 <!-- AUTO-GENERATED -->
 

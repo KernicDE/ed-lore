@@ -11,7 +11,9 @@ related_entities:
 - federal-navy
 - popontia
 - ryman-market
+inara_url: https://inara.cz/elite/minorfaction/?search=Popontia%20Incorporated
 ---
+
 
 <!-- AUTO-GENERATED -->
 

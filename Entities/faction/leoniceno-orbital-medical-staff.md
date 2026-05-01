@@ -9,7 +9,9 @@ related_entities:
 - leoniceno-orbital
 - azaleach
 - federal-times
+inara_url: https://inara.cz/elite/minorfaction/?search=Leoniceno%20Orbital%20medical%20staff
 ---
+
 
 <!-- AUTO-GENERATED -->
 

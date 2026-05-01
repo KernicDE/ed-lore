@@ -11,7 +11,9 @@ related_entities:
 - potagos-port
 - blido-piru
 - kanai-enterprise
+inara_url: https://inara.cz/elite/minorfaction/?search=Angeli%20Imperial%20Enterprises
 ---
+
 
 <!-- AUTO-GENERATED -->
 

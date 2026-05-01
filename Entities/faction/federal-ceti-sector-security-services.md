@@ -11,7 +11,9 @@ related_entities:
 - panem
 - kappa-fornacis
 - bd-18-394
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Ceti%20Sector%20Security%20Services
 ---
+
 
 <!-- AUTO-GENERATED -->
 

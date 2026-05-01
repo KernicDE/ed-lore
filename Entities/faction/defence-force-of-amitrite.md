@@ -11,7 +11,9 @@ related_entities:
 - kumo-crew
 - imperial-navy
 - libertas-cooperative
+inara_url: https://inara.cz/elite/minorfaction/?search=Defence%20Force%20of%20Amitrite
 ---
+
 
 <!-- AUTO-GENERATED -->
 

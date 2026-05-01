@@ -11,7 +11,21 @@ related_entities:
 - anima
 - alliance
 - roberts-port
+coords:
+  x: 23.875
+  y: 75.1875
+  z: 35.75
+allegiance: Alliance
+government: Corporate
+controlling_faction: Wolf 406 Transport & Co
+population: 29847881
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Fedmich
+inara_url: https://inara.cz/elite/starsystem/?search=Fedmich
 ---
+
 
 <!-- AUTO-GENERATED -->
 

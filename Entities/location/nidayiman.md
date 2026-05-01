@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: -10.40625
+  y: -147.0625
+  z: -76.09375
+allegiance: Empire
+government: Dictatorship
+controlling_faction: Bureau of Nidayiman
+population: 3051631
+security: High
+economy: Extraction
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Nidayiman
+inara_url: https://inara.cz/elite/starsystem/?search=Nidayiman
 ---
+
 
 <!-- AUTO-GENERATED -->
 

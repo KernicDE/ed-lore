@@ -9,7 +9,9 @@ related_entities:
 - imperial-inquisition
 - brestla
 - roed-oodergaard-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Princess%20Margaret%20Cancer%20Foundation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

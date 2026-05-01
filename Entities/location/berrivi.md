@@ -11,7 +11,21 @@ related_entities:
 - kappa-fornacis
 - panem
 - tanmark
+coords:
+  x: -51.34375
+  y: 117.46875
+  z: -32.34375
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Para United
+population: 4120424
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Berrivi
+inara_url: https://inara.cz/elite/starsystem/?search=Berrivi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

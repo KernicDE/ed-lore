@@ -11,7 +11,9 @@ related_entities:
 - vox-galactica
 - federal-intelligence-agency
 - proactive-detection-bureau
+inara_url: https://inara.cz/elite/minorfaction/?search=True%20Chapters
 ---
+
 
 <!-- AUTO-GENERATED -->
 

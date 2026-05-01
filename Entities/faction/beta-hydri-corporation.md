@@ -9,7 +9,9 @@ related_entities:
 - federal-navy
 - stevenson-base
 - beta-hydri-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Beta%20Hydri%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

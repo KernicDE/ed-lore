@@ -11,7 +11,9 @@ related_entities:
 - tionisla-orbital-graveyard
 - sol
 - syreadiae-jx-f-c0
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Hamsters
 ---
+
 
 <!-- AUTO-GENERATED -->
 

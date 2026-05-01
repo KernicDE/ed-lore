@@ -11,7 +11,21 @@ related_entities:
 - artemis-lodge
 - celaeno
 - electra
+coords:
+  x: -76.71875
+  y: -147.34375
+  z: -344.4375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Operation Ida
+population: 1200000
+security: Medium
+economy: Refinery
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Atlas
+inara_url: https://inara.cz/elite/starsystem/?search=Atlas
 ---
+
 
 <!-- AUTO-GENERATED -->
 

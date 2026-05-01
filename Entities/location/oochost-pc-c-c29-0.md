@@ -9,7 +9,14 @@ related_entities:
 - scriveners-clan
 - orion-university
 - vox-galactica
+coords:
+  x: -585
+  y: -300.625
+  z: -1100.28125
+edsm_url: https://www.edsm.net/en/system?search=Oochost%20PC-C%20c29-0
+inara_url: https://inara.cz/elite/starsystem/?search=Oochost%20PC-C%20c29-0
 ---
+
 
 <!-- AUTO-GENERATED -->
 

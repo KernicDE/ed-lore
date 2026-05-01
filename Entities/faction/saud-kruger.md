@@ -8,7 +8,9 @@ mention_count: 3
 related_entities:
 - the-sovereign
 - astrogator-tours
+inara_url: https://inara.cz/elite/minorfaction/?search=Saud%20Kruger
 ---
+
 
 <!-- AUTO-GENERATED -->
 

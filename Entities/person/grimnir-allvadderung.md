@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-07-08'
 last_seen_date: '3301-07-24'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Grimnir%20Allvadderung
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - cartoq
 - avdeyev-settlement
+inara_url: https://inara.cz/elite/minorfaction/?search=Cartoq%20Purple%20Major%20Organisation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

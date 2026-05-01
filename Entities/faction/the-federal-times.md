@@ -11,7 +11,9 @@ related_entities:
 - rackham-capital-investments
 - colonia-hub
 - federal-intelligence-agency
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Federal%20Times
 ---
+
 
 <!-- AUTO-GENERATED -->
 

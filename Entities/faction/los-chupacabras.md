@@ -11,7 +11,9 @@ related_entities:
 - league-of-reparation
 - pilots-federation
 - autocracy-of-tiensei
+inara_url: https://inara.cz/elite/minorfaction/?search=Los%20Chupacabras
 ---
+
 
 <!-- AUTO-GENERATED -->
 

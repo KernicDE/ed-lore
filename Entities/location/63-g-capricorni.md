@@ -11,7 +11,21 @@ related_entities:
 - eravate
 - von-bellingshausen-port
 - almar
+coords:
+  x: -19.1875
+  y: -44.8125
+  z: 52.53125
+allegiance: Independent
+government: Anarchy
+controlling_faction: Diamond Frogs
+population: 9285918498
+security: Anarchy
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=63%20G.%20Capricorni
+inara_url: https://inara.cz/elite/starsystem/?search=63%20G.%20Capricorni
 ---
+
 
 <!-- AUTO-GENERATED -->
 

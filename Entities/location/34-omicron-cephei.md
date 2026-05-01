@@ -11,7 +11,21 @@ related_entities:
 - orgen
 - bletii
 - klikis
+coords:
+  x: -183.15625
+  y: 24.65625
+  z: -84.25
+allegiance: Independent
+government: Cooperative
+controlling_faction: Canonn
+population: 46971
+security: Low
+economy: Service
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=34%20Omicron%20Cephei
+inara_url: https://inara.cz/elite/starsystem/?search=34%20Omicron%20Cephei
 ---
+
 
 <!-- AUTO-GENERATED -->
 

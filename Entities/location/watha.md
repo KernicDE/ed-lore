@@ -11,7 +11,21 @@ related_entities:
 - 39-tauri
 - kamorin
 - delta-phoenicis
+coords:
+  x: -24.5
+  y: 34
+  z: 113.625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 1139858930
+security: High
+economy: Agriculture
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Watha
+inara_url: https://inara.cz/elite/starsystem/?search=Watha
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - north-ring
 - tutumu
+inara_url: https://inara.cz/elite/minorfaction/?search=People%27s%20Tutumu%20Confederacy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

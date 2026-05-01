@@ -11,7 +11,21 @@ related_entities:
 - 46-eridani
 - supratech
 - herculean-machines
+coords:
+  x: 79.4375
+  y: 60.65625
+  z: 74.3125
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Alliance Rapid-reaction Corps
+population: 48727
+security: Low
+economy: Military
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Teorge
+inara_url: https://inara.cz/elite/starsystem/?search=Teorge
 ---
+
 
 <!-- AUTO-GENERATED -->
 

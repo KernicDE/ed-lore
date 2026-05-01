@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - alliance
 - lave
+inara_url: https://inara.cz/elite/minorfaction/?search=Lave%20Radio
 ---
+
 
 <!-- AUTO-GENERATED -->
 

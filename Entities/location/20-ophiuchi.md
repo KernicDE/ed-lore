@@ -11,7 +11,21 @@ related_entities:
 - newton-dock-medical
 - bd-02-4304
 - newton-dock
+coords:
+  x: -14.28125
+  y: 36.1875
+  z: 96.75
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 23460685
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=20%20Ophiuchi
+inara_url: https://inara.cz/elite/starsystem/?search=20%20Ophiuchi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

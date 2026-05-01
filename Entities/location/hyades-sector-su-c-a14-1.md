@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - hyades-sector-lx-t-c3-30
 - fairfax-legacy
+coords:
+  x: 44.3125
+  y: -27
+  z: -133.59375
+allegiance: Independent
+government: Patronage
+controlling_faction: Free Marlinists of Carinae
+population: 60008082
+security: Medium
+economy: High Tech
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Hyades%20Sector%20SU-C%20a14-1
+inara_url: https://inara.cz/elite/starsystem/?search=Hyades%20Sector%20SU-C%20a14-1
 ---
+
 
 <!-- AUTO-GENERATED -->
 

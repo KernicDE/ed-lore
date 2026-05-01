@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - jaques-station
 - eol-prou-rs-t-d3-94
+inara_url: https://inara.cz/elite/minorfaction/?search=Galactic%20Cooperative%20of%20Worlds
 ---
+
 
 <!-- AUTO-GENERATED -->
 

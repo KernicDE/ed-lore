@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - kamici-incorporated
 - gaiman-port
+coords:
+  x: 57.0625
+  y: 37.875
+  z: 0.75
+allegiance: Alliance
+government: Corporate
+controlling_faction: Wolf 406 Transport & Co
+population: 12740028
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Kamici
+inara_url: https://inara.cz/elite/starsystem/?search=Kamici
 ---
+
 
 <!-- AUTO-GENERATED -->
 

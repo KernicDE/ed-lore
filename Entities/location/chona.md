@@ -11,7 +11,21 @@ related_entities:
 - emperors-grace
 - imperial-navy
 - rishair
+coords:
+  x: 108.0625
+  y: -111.46875
+  z: 65.4375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Aisling's Angels
+population: 14985093
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Chona
+inara_url: https://inara.cz/elite/starsystem/?search=Chona
 ---
+
 
 <!-- AUTO-GENERATED -->
 

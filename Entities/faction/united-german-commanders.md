@@ -11,7 +11,9 @@ related_entities:
 - lorens-legion
 - communism-interstellar
 - black-birds-squadron
+inara_url: https://inara.cz/elite/minorfaction/?search=United%20German%20Commanders
 ---
+
 
 <!-- AUTO-GENERATED -->
 

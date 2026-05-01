@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-07-22'
 last_seen_date: '3311-10-30'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Panther%20Clipper
 ---
+
 
 <!-- AUTO-GENERATED -->
 

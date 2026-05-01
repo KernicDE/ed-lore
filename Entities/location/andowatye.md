@@ -7,7 +7,21 @@ last_seen_date: '3308-07-14'
 mention_count: 1
 related_entities:
 - federal-intelligence-agency
+coords:
+  x: 1.84375
+  y: -10.09375
+  z: 94.1875
+allegiance: Independent
+government: Cooperative
+controlling_faction: Tigurd Shared
+population: 26918683
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Andowatye
+inara_url: https://inara.cz/elite/starsystem/?search=Andowatye
 ---
+
 
 <!-- AUTO-GENERATED -->
 

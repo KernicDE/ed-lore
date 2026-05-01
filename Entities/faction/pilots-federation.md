@@ -11,7 +11,9 @@ related_entities:
 - delphi
 - nmla
 - kumo-crew
+inara_url: https://inara.cz/elite/minorfaction/?search=Pilots%20Federation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

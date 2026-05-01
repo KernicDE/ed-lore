@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-10-27'
 last_seen_date: '3311-05-28'
 mention_count: 17
+inara_url: https://inara.cz/elite/cmdr-search/?search=Yuri%20Grom
 ---
+
 
 <!-- AUTO-GENERATED -->
 

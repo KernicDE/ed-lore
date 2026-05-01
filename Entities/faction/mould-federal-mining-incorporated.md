@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - federal-security-service
 - herculean-machines
+inara_url: https://inara.cz/elite/minorfaction/?search=Mould%20Federal%20Mining%20Incorporated
 ---
+
 
 <!-- AUTO-GENERATED -->
 

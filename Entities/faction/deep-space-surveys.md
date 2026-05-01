@@ -11,7 +11,9 @@ related_entities:
 - stuemeae-fg-y-d7561
 - distant-worlds-3
 - explorers-anchorage
+inara_url: https://inara.cz/elite/minorfaction/?search=Deep%20Space%20Surveys
 ---
+
 
 <!-- AUTO-GENERATED -->
 

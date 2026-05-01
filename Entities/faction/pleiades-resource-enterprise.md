@@ -11,7 +11,9 @@ related_entities:
 - merope-expeditionary-fleet
 - obsidian-orbital
 - merope
+inara_url: https://inara.cz/elite/minorfaction/?search=Pleiades%20Resource%20Enterprise
 ---
+
 
 <!-- AUTO-GENERATED -->
 

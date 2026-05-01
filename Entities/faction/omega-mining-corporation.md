@@ -10,7 +10,9 @@ related_entities:
 - omega-sector-ve-q-b5-15
 - stuemeae-fg-y-d7561
 - sagittarius-a
+inara_url: https://inara.cz/elite/minorfaction/?search=Omega%20Mining%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

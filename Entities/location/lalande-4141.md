@@ -11,7 +11,21 @@ related_entities:
 - lwalama
 - federal-times
 - socho-gold-raiders
+coords:
+  x: -39.65625
+  y: -49.59375
+  z: -60.96875
+allegiance: Independent
+government: Corporate
+controlling_faction: Pikum Public Group
+population: 4513309
+security: Low
+economy: Agriculture
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Lalande%204141
+inara_url: https://inara.cz/elite/starsystem/?search=Lalande%204141
 ---
+
 
 <!-- AUTO-GENERATED -->
 

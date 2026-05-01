@@ -10,7 +10,9 @@ related_entities:
 - alliance-council-of-admirals
 - fedmich
 - roberts-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Fedmich%20Electronics%20Partners
 ---
+
 
 <!-- AUTO-GENERATED -->
 

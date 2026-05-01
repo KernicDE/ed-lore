@@ -10,7 +10,9 @@ related_entities:
 - olympus-village
 - rhea
 - white-house
+inara_url: https://inara.cz/elite/cmdr-search/?search=Isolde%20Rochester
 ---
+
 
 <!-- AUTO-GENERATED -->
 

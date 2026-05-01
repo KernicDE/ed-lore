@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: -36.46875
+  y: -122.40625
+  z: -44.4375
+allegiance: Independent
+government: Patronage
+controlling_faction: LPV Corporation
+population: 2995203369
+security: High
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Xi%20Wang%20Mu
+inara_url: https://inara.cz/elite/starsystem/?search=Xi%20Wang%20Mu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

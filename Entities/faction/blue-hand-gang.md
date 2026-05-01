@@ -11,7 +11,9 @@ related_entities:
 - joint-security-taskforce
 - nespeleve-system
 - imperial-counter-insurgency-unit
+inara_url: https://inara.cz/elite/minorfaction/?search=Blue%20Hand%20Gang
 ---
+
 
 <!-- AUTO-GENERATED -->
 

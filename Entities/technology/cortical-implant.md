@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3308-06-10'
 last_seen_date: '3311-06-03'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=cortical%20implant
 ---
+
 
 <!-- AUTO-GENERATED -->
 

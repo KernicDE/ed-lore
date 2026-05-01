@@ -11,7 +11,14 @@ related_entities:
 - sagittarius-a
 - deep-space-surveys
 - eol-prou-rs-t-d3-94
+coords:
+  x: -1111.5625
+  y: -134.21875
+  z: 65269.75
+edsm_url: https://www.edsm.net/en/system?search=Beagle%20Point
+inara_url: https://inara.cz/elite/starsystem/?search=Beagle%20Point
 ---
+
 
 <!-- AUTO-GENERATED -->
 

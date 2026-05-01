@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3303-06-23'
 last_seen_date: '3303-06-30'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Cordelius%20Swainn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

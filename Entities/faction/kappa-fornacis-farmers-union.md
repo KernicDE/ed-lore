@@ -11,7 +11,9 @@ related_entities:
 - harvestport
 - tanmark-defence-force
 - tanmark
+inara_url: https://inara.cz/elite/minorfaction/?search=Kappa%20Fornacis%20Farmers%20Union
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -10,7 +10,9 @@ related_entities:
 - eurybia-blue-mafia
 - eurybia
 - imperial-internal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=Keltim%20Empire%20League
 ---
+
 
 <!-- AUTO-GENERATED -->
 

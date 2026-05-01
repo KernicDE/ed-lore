@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3307-05-06'
 last_seen_date: '3307-05-06'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Harmony%27s%20Shield%20megaship
 ---
+
 
 <!-- AUTO-GENERATED -->
 

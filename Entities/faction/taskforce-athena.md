@@ -11,7 +11,9 @@ related_entities:
 - future-of-segovan
 - segovan
 - ramsbottom-hub
+inara_url: https://inara.cz/elite/minorfaction/?search=Taskforce%20Athena
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - mudhrid
 - marlinist
 - far-god-cult
+inara_url: https://inara.cz/elite/minorfaction/?search=Epsilon%20Fornacis%20Empire%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

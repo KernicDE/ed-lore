@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-09-29'
 last_seen_date: '3311-10-13'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Mk%20II%20Mining%20Multi-Limpet%20Controller
 ---
+
 
 <!-- AUTO-GENERATED -->
 

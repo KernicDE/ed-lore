@@ -11,7 +11,9 @@ related_entities:
 - cemiess
 - mackenzie-relay
 - synteini
+inara_url: https://inara.cz/elite/minorfaction/?search=Empire%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

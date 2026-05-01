@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-02-25'
 last_seen_date: '3302-11-01'
 mention_count: 10
+inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Corrigendum
 ---
+
 
 <!-- AUTO-GENERATED -->
 

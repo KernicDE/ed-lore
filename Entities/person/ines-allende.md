@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-10-13'
 last_seen_date: '3311-04-08'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Ines%20Allende
 ---
+
 
 <!-- AUTO-GENERATED -->
 

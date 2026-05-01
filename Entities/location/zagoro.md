@@ -10,7 +10,21 @@ related_entities:
 - empire
 - axon-station
 - hip-17225-a-1
+coords:
+  x: -32.5
+  y: -174.59375
+  z: -48.75
+allegiance: Empire
+government: Patronage
+controlling_faction: Zagoro Imperial Society
+population: 21833431
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Zagoro
+inara_url: https://inara.cz/elite/starsystem/?search=Zagoro
 ---
+
 
 <!-- AUTO-GENERATED -->
 

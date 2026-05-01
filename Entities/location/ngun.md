@@ -11,7 +11,21 @@ related_entities:
 - mackenzie-relay
 - thiele-orbital
 - eta-horologii
+coords:
+  x: 85.71875
+  y: -122.625
+  z: 8.75
+allegiance: Empire
+government: Patronage
+controlling_faction: Lavigny's Legion
+population: 2336261199
+security: Medium
+economy: Agriculture
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Ngun
+inara_url: https://inara.cz/elite/starsystem/?search=Ngun
 ---
+
 
 <!-- AUTO-GENERATED -->
 

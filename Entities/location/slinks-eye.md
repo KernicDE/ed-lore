@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - revolutionary-slinks-eye-liberals
 - kelleam-ring
+coords:
+  x: -10.125
+  y: -29.6875
+  z: -10.15625
+allegiance: Independent
+government: Feudal
+controlling_faction: Equestrian Naval Fleet
+population: 6198125
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Slink's%20Eye
+inara_url: https://inara.cz/elite/starsystem/?search=Slink's%20Eye
 ---
+
 
 <!-- AUTO-GENERATED -->
 

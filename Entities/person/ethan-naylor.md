@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-02-17'
 last_seen_date: '3302-05-14'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Ethan%20Naylor
 ---
+
 
 <!-- AUTO-GENERATED -->
 

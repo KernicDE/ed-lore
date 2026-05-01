@@ -11,7 +11,21 @@ related_entities:
 - liberal-party
 - dahan
 - dahan-gateway
+coords:
+  x: -19.6875
+  y: 32.6875
+  z: 4.75
+allegiance: Independent
+government: Corporate
+controlling_faction: New Pilots Initiative
+population: 7508467
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Aulin
+inara_url: https://inara.cz/elite/starsystem/?search=Aulin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

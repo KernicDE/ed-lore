@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3303-01-10'
 last_seen_date: '3303-08-25'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Shelby%20Ortega
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -10,7 +10,9 @@ related_entities:
 - njambalba
 - clauss-port
 - santa-muerte
+inara_url: https://inara.cz/elite/minorfaction/?search=Clauss%20Incorporated
 ---
+
 
 <!-- AUTO-GENERATED -->
 

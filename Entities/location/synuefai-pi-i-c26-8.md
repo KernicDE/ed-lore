@@ -9,7 +9,14 @@ related_entities:
 - eol-prou-rs-t-d3-94
 - jaques-station
 - maia
+coords:
+  x: -716.78125
+  y: -85.125
+  z: 92.65625
+edsm_url: https://www.edsm.net/en/system?search=Synuefai%20PI-I%20c26-8
+inara_url: https://inara.cz/elite/starsystem/?search=Synuefai%20PI-I%20c26-8
 ---
+
 
 <!-- AUTO-GENERATED -->
 

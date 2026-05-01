@@ -11,7 +11,21 @@ related_entities:
 - 78-ursae-majoris
 - alioth
 - townshend-hub
+coords:
+  x: -34.46875
+  y: 67.78125
+  z: -21.09375
+allegiance: Alliance
+government: Confederacy
+controlling_faction: Terran Colonial Forces
+population: 16189
+security: Medium
+economy: Extraction
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Sobek
+inara_url: https://inara.cz/elite/starsystem/?search=Sobek
 ---
+
 
 <!-- AUTO-GENERATED -->
 

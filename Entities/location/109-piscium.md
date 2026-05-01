@@ -11,7 +11,21 @@ related_entities:
 - gabriel-enterprise
 - harma
 - weyn-dock
+coords:
+  x: -51.40625
+  y: -69.1875
+  z: -62.15625
+allegiance: Independent
+government: Cooperative
+controlling_faction: MediCorp
+population: 7886895
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=109%20Piscium
+inara_url: https://inara.cz/elite/starsystem/?search=109%20Piscium
 ---
+
 
 <!-- AUTO-GENERATED -->
 

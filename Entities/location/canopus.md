@@ -11,7 +11,21 @@ related_entities:
 - sol-system
 - sothis
 - quince
+coords:
+  x: 276.625
+  y: -131.34375
+  z: -42.4375
+allegiance: Federation
+government: Democracy
+controlling_faction: Exphiay for Equality
+population: 5254
+security: Low
+economy: Extraction
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Canopus
+inara_url: https://inara.cz/elite/starsystem/?search=Canopus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

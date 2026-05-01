@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - namab-purple-brothers
 - drevlyada-league
+coords:
+  x: -40.90625
+  y: -35.4375
+  z: 86.34375
+allegiance: Independent
+government: Anarchy
+controlling_faction: Diamond Frogs
+population: 4525064923
+security: Anarchy
+economy: Industrial
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Drevlyada
+inara_url: https://inara.cz/elite/starsystem/?search=Drevlyada
 ---
+
 
 <!-- AUTO-GENERATED -->
 

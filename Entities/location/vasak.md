@@ -11,7 +11,21 @@ related_entities:
 - kanwar-horizons
 - 49-d-orionis
 - unkulcay
+coords:
+  x: 29.625
+  y: -49.03125
+  z: -126.71875
+allegiance: Independent
+government: Patronage
+controlling_faction: Marlinist Society of Nahuatl
+population: 1350474382
+security: Medium
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Vasak
+inara_url: https://inara.cz/elite/starsystem/?search=Vasak
 ---
+
 
 <!-- AUTO-GENERATED -->
 

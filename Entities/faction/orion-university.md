@@ -11,7 +11,9 @@ related_entities:
 - advocacy
 - canonn-interstellar-research-group
 - vox-galactica
+inara_url: https://inara.cz/elite/minorfaction/?search=Orion%20University
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - federal-security-service
 - sirius-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=New%20Loha%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

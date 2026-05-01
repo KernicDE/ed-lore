@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - lys-corp
 - imperial-internal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=LTT%201935%20Confederacy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

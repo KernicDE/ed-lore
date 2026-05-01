@@ -9,7 +9,9 @@ related_entities:
 - drug-empire-of-xelabara
 - xelabara
 - navigator-market
+inara_url: https://inara.cz/elite/minorfaction/?search=Xelabara%20Republic%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

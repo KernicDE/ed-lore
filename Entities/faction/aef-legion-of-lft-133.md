@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - lft-133
 - sullivan-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=AEF%20Legion%20of%20LFT%20133
 ---
+
 
 <!-- AUTO-GENERATED -->
 

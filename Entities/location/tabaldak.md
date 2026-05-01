@@ -11,7 +11,21 @@ related_entities:
 - ltt-874
 - imperial-navy
 - imperial-internal-security-service
+coords:
+  x: 26
+  y: -121.84375
+  z: 87.90625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Celestial Light Brigade
+population: 64737759
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Tabaldak
+inara_url: https://inara.cz/elite/starsystem/?search=Tabaldak
 ---
+
 
 <!-- AUTO-GENERATED -->
 

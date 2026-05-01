@@ -11,7 +11,21 @@ related_entities:
 - alliance-of-independent-systems
 - djaujas
 - dohkwithi
+coords:
+  x: -123.46875
+  y: 119.21875
+  z: -58.46875
+allegiance: Independent
+government: Anarchy
+controlling_faction: Shadow of the Panda
+population: 211920
+security: Anarchy
+economy: Military
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Khona
+inara_url: https://inara.cz/elite/starsystem/?search=Khona
 ---
+
 
 <!-- AUTO-GENERATED -->
 

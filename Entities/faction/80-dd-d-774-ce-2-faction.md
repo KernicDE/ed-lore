@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - jaques-station
 - eol-prou-rs-t-d3-94
+inara_url: https://inara.cz/elite/minorfaction/?search=80%20DD-D%20774-CE-2%20faction
 ---
+
 
 <!-- AUTO-GENERATED -->
 

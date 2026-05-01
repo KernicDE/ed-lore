@@ -11,7 +11,21 @@ related_entities:
 - saarinen-station
 - jang-di
 - sikorsky-orbital
+coords:
+  x: 19.40625
+  y: -163.1875
+  z: 77.5625
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Winged Hussars
+population: 12390703
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Dinkas
+inara_url: https://inara.cz/elite/starsystem/?search=Dinkas
 ---
+
 
 <!-- AUTO-GENERATED -->
 

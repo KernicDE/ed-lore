@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - specialeffect
 - slough
+coords:
+  x: -3.6875
+  y: -22.53125
+  z: 57
+allegiance: Independent
+government: Democracy
+controlling_faction: The Altruists
+population: 287780
+security: Medium
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Vesper-M4
+inara_url: https://inara.cz/elite/starsystem/?search=Vesper-M4
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - imperial-navy
 - nmla
 - mudhrid
+coords:
+  x: 86.4375
+  y: -197.46875
+  z: 28.78125
+allegiance: Empire
+government: Patronage
+controlling_faction: Nova Paresa
+population: 6019569785
+security: Medium
+economy: Agriculture
+second_economy: Terraforming
+edsm_url: https://www.edsm.net/en/system?search=Paresa
+inara_url: https://inara.cz/elite/starsystem/?search=Paresa
 ---
+
 
 <!-- AUTO-GENERATED -->
 

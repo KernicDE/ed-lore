@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: -33.84375
+  y: -116.8125
+  z: -43.9375
+allegiance: Independent
+government: Patronage
+controlling_faction: LPV Corporation
+population: 1616625493
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Popocassa
+inara_url: https://inara.cz/elite/starsystem/?search=Popocassa
 ---
+
 
 <!-- AUTO-GENERATED -->
 

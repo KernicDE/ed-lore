@@ -11,7 +11,21 @@ related_entities:
 - mars
 - laphria-shipyard
 - october-consortium
+coords:
+  x: 14.28125
+  y: -63.1875
+  z: -24.875
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
+population: 1525606
+security: Medium
+economy: Tourism
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Artemis
+inara_url: https://inara.cz/elite/starsystem/?search=Artemis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

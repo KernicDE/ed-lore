@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - kumo-crew
 - delta-doradus
+coords:
+  x: 93.90625
+  y: -94.15625
+  z: -15.09375
+allegiance: Empire
+government: Dictatorship
+controlling_faction: Shield of the Empire
+population: 44127280
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Guathiti
+inara_url: https://inara.cz/elite/starsystem/?search=Guathiti
 ---
+
 
 <!-- AUTO-GENERATED -->
 

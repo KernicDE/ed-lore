@@ -10,7 +10,9 @@ related_entities:
 - yurchikhin-station
 - empire
 - federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Alectrona%20Imperial%20Society
 ---
+
 
 <!-- AUTO-GENERATED -->
 

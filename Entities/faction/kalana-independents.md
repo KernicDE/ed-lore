@@ -11,7 +11,9 @@ related_entities:
 - bujold-enterprise
 - cutter-club
 - moore-prospect
+inara_url: https://inara.cz/elite/minorfaction/?search=Kalana%20Independents
 ---
+
 
 <!-- AUTO-GENERATED -->
 

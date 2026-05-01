@@ -10,7 +10,21 @@ related_entities:
 - federation
 - mbukuravi
 - kremainn
+coords:
+  x: -30.5
+  y: -8.625
+  z: 58.0625
+allegiance: Independent
+government: Democracy
+controlling_faction: Galactic Freedom Fighters
+population: 74830
+security: Low
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Ngaliba
+inara_url: https://inara.cz/elite/starsystem/?search=Ngaliba
 ---
+
 
 <!-- AUTO-GENERATED -->
 

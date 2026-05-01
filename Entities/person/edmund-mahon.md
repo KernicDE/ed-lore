@@ -7,7 +7,9 @@ last_seen_date: '3306-11-09'
 mention_count: 1
 related_entities:
 - alliance
+inara_url: https://inara.cz/elite/cmdr-search/?search=Edmund%20Mahon
 ---
+
 
 <!-- AUTO-GENERATED -->
 

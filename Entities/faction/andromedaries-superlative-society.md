@@ -7,7 +7,9 @@ last_seen_date: '3304-07-28'
 mention_count: 1
 related_entities:
 - blackshadow-productions
+inara_url: https://inara.cz/elite/minorfaction/?search=Andromedaries%20Superlative%20Society
 ---
+
 
 <!-- AUTO-GENERATED -->
 

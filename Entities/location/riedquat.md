@@ -11,7 +11,21 @@ related_entities:
 - lakon-spaceways
 - teveri-progressive-party
 - diso
+coords:
+  x: 68.84375
+  y: 48.75
+  z: 69.75
+allegiance: Federation
+government: Corporate
+controlling_faction: Terra-EX Astro Corp
+population: 2000000000
+security: Medium
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Riedquat
+inara_url: https://inara.cz/elite/starsystem/?search=Riedquat
 ---
+
 
 <!-- AUTO-GENERATED -->
 

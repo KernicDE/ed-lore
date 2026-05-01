@@ -11,7 +11,9 @@ related_entities:
 - g-99-49
 - wolf-294
 - wolf-504
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20military
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - darian
 - freng
 - alliance
+coords:
+  x: 2.59375
+  y: -57.9375
+  z: 127.84375
+allegiance: Empire
+government: Patronage
+controlling_faction: HIP 96854 Empire League
+population: 39978
+security: Low
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Lunduwalaya
+inara_url: https://inara.cz/elite/starsystem/?search=Lunduwalaya
 ---
+
 
 <!-- AUTO-GENERATED -->
 

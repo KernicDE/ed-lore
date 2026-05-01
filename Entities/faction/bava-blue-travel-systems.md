@@ -11,7 +11,9 @@ related_entities:
 - bauschinger-city
 - federation
 - merope
+inara_url: https://inara.cz/elite/minorfaction/?search=Bava%20Blue%20Travel%20Systems
 ---
+
 
 <!-- AUTO-GENERATED -->
 

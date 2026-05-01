@@ -9,7 +9,14 @@ related_entities:
 - children-of-raxxla
 - the-hamsters
 - tionisla
+coords:
+  x: -9529.4375
+  y: -64.5
+  z: -7428.4375
+edsm_url: https://www.edsm.net/en/system?search=Syreadiae%20JX-F%20c0
+inara_url: https://inara.cz/elite/starsystem/?search=Syreadiae%20JX-F%20c0
 ---
+
 
 <!-- AUTO-GENERATED -->
 

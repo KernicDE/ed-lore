@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - latugara
 - love-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Latugara%20PLC
 ---
+
 
 <!-- AUTO-GENERATED -->
 

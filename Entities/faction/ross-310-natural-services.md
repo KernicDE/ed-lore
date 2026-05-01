@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - pilots-federation
 - eg-union
+inara_url: https://inara.cz/elite/minorfaction/?search=Ross%20310%20Natural%20Services
 ---
+
 
 <!-- AUTO-GENERATED -->
 

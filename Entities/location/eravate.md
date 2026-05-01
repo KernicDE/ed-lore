@@ -11,7 +11,21 @@ related_entities:
 - almar
 - halbangaay
 - 64-arietis
+coords:
+  x: -42.4375
+  y: -3.15625
+  z: 59.65625
+allegiance: Federation
+government: Corporate
+controlling_faction: Adle's Armada
+population: 740394195
+security: Medium
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Eravate
+inara_url: https://inara.cz/elite/starsystem/?search=Eravate
 ---
+
 
 <!-- AUTO-GENERATED -->
 

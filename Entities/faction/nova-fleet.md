@@ -9,7 +9,9 @@ related_entities:
 - alliance
 - pilots-federation
 - frontier
+inara_url: https://inara.cz/elite/minorfaction/?search=Nova%20Fleet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - league-of-reparation
 - pilots-federation
 - los-chupacabras
+coords:
+  x: 18.34375
+  y: -50.75
+  z: 113.28125
+allegiance: Independent
+government: Communism
+controlling_faction: United Fintamkina Left Party
+population: 3228228606
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=T'iensei
+inara_url: https://inara.cz/elite/starsystem/?search=T'iensei
 ---
+
 
 <!-- AUTO-GENERATED -->
 

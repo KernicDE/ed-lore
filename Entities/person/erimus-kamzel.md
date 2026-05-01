@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-01-04'
 last_seen_date: '3305-07-03'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Erimus%20Kamzel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

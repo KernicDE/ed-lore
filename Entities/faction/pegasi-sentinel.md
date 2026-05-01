@@ -11,7 +11,9 @@ related_entities:
 - pilots-federation
 - harma
 - pegasi-sector-pn-t-c3-14
+inara_url: https://inara.cz/elite/minorfaction/?search=Pegasi%20Sentinel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

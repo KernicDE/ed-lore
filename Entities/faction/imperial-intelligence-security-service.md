@@ -10,7 +10,9 @@ related_entities:
 - capitol
 - imperial-palace
 - hall-of-martyrs
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Intelligence%20Security%20Service
 ---
+
 
 <!-- AUTO-GENERATED -->
 

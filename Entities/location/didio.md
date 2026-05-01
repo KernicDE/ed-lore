@@ -11,7 +11,21 @@ related_entities:
 - novas
 - sosong
 - federal-navy
+coords:
+  x: 73
+  y: 68
+  z: 33.03125
+allegiance: Independent
+government: Democracy
+controlling_faction: Sidewinder Syndicate
+population: 1925756065
+security: High
+economy: Industrial
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Didio
+inara_url: https://inara.cz/elite/starsystem/?search=Didio
 ---
+
 
 <!-- AUTO-GENERATED -->
 

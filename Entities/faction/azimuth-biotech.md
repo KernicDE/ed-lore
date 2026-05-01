@@ -11,7 +11,9 @@ related_entities:
 - empire
 - federation
 - aegis
+inara_url: https://inara.cz/elite/minorfaction/?search=Azimuth%20Biotech
 ---
+
 
 <!-- AUTO-GENERATED -->
 

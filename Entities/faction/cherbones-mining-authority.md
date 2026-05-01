@@ -11,7 +11,9 @@ related_entities:
 - lave-system
 - diso-system
 - cherbones-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Cherbones%20Mining%20Authority
 ---
+
 
 <!-- AUTO-GENERATED -->
 

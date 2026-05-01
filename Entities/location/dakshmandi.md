@@ -11,7 +11,21 @@ related_entities:
 - ipilyaqa
 - chi-lin
 - maausk
+coords:
+  x: 106.21875
+  y: -127.65625
+  z: 37.65625
+allegiance: Independent
+government: Feudal
+controlling_faction: White Scar Contingency
+population: 4917879
+security: High
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Dakshmandi
+inara_url: https://inara.cz/elite/starsystem/?search=Dakshmandi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

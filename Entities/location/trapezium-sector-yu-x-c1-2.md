@@ -11,7 +11,14 @@ related_entities:
 - aegis
 - pilots-federation
 - perseus-dark-region-kc-v-c2-2
+coords:
+  x: 573.59375
+  y: -339.46875
+  z: -1167.65625
+edsm_url: https://www.edsm.net/en/system?search=Trapezium%20Sector%20YU-X%20c1-2
+inara_url: https://inara.cz/elite/starsystem/?search=Trapezium%20Sector%20YU-X%20c1-2
 ---
+
 
 <!-- AUTO-GENERATED -->
 

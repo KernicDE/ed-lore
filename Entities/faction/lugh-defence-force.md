@@ -11,7 +11,9 @@ related_entities:
 - lugh-for-equality-party
 - lugh
 - hartsfield-market
+inara_url: https://inara.cz/elite/minorfaction/?search=Lugh%20Defence%20Force
 ---
+
 
 <!-- AUTO-GENERATED -->
 

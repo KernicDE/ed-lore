@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - holloway-bioscience-institute
 - nahuaru
+inara_url: https://inara.cz/elite/minorfaction/?search=Nahuaru%20Crimson%20Bridge%20Int
 ---
+
 
 <!-- AUTO-GENERATED -->
 

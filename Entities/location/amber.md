@@ -10,7 +10,21 @@ related_entities:
 - alliance
 - alioth
 - smith-landing
+coords:
+  x: -36.1875
+  y: 77.3125
+  z: -32.53125
+allegiance: Alliance
+government: Confederacy
+controlling_faction: Terran Colonial Forces
+population: 301089
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Amber
+inara_url: https://inara.cz/elite/starsystem/?search=Amber
 ---
+
 
 <!-- AUTO-GENERATED -->
 

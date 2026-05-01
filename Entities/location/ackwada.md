@@ -11,7 +11,21 @@ related_entities:
 - regulatory-state-of-ackwada
 - duduseklis-empire-league
 - imperial-senate
+coords:
+  x: 42.78125
+  y: -65.3125
+  z: -11.34375
+allegiance: Empire
+government: Corporate
+controlling_faction: G.O.M. Collective
+population: 90021259
+security: Medium
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Ackwada
+inara_url: https://inara.cz/elite/starsystem/?search=Ackwada
 ---
+
 
 <!-- AUTO-GENERATED -->
 

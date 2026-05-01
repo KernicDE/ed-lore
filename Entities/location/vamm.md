@@ -11,7 +11,21 @@ related_entities:
 - alliance-tribune
 - federal-congress
 - federal-security-service
+coords:
+  x: 52.6875
+  y: 78.28125
+  z: 23.6875
+allegiance: Alliance
+government: Corporate
+controlling_faction: Wolf 406 Transport & Co
+population: 11476089533
+security: Medium
+economy: Tourism
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Vamm
+inara_url: https://inara.cz/elite/starsystem/?search=Vamm
 ---
+
 
 <!-- AUTO-GENERATED -->
 

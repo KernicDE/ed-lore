@@ -11,7 +11,21 @@ related_entities:
 - wolf-397-independents
 - federal-times
 - pleiades-sector-ir-w-d1-55
+coords:
+  x: 40
+  y: 79.21875
+  z: -10.40625
+allegiance: Alliance
+government: Corporate
+controlling_faction: Wolf 406 Transport & Co
+population: 351227
+security: Medium
+economy: Colony
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Wolf%20397
+inara_url: https://inara.cz/elite/starsystem/?search=Wolf%20397
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - dakshmandi
 - imperial-internal-security-service
 - imperial-citizen
+coords:
+  x: 22.90625
+  y: -127.8125
+  z: 47.34375
+allegiance: Empire
+government: Dictatorship
+controlling_faction: Imperial Navy Australia
+population: 9242228
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ch'i%20Lin
+inara_url: https://inara.cz/elite/starsystem/?search=Ch'i%20Lin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - hehe-camorra
 - hehe
+inara_url: https://inara.cz/elite/minorfaction/?search=Hehe%20Federal%20Interstellar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

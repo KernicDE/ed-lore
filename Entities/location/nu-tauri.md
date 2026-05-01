@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - simbad-regime
 - parmitano-terminal
+coords:
+  x: 8.65625
+  y: -62.78125
+  z: -98.3125
+allegiance: Independent
+government: Democracy
+controlling_faction: Simbad Regime
+population: 25705817
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Nu%20Tauri
+inara_url: https://inara.cz/elite/starsystem/?search=Nu%20Tauri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

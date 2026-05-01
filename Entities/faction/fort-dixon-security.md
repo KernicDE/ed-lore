@@ -8,7 +8,9 @@ mention_count: 5
 related_entities:
 - vega
 - vox-galactica
+inara_url: https://inara.cz/elite/minorfaction/?search=Fort%20Dixon%20Security
 ---
+
 
 <!-- AUTO-GENERATED -->
 

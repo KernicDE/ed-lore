@@ -11,7 +11,9 @@ related_entities:
 - federal-security-service
 - federal-times
 - federal-intelligence-agency
+inara_url: https://inara.cz/elite/minorfaction/?search=Supratech
 ---
+
 
 <!-- AUTO-GENERATED -->
 

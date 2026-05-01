@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3309-12-21'
 last_seen_date: '3309-12-21'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Nemesis%20protocol
 ---
+
 
 <!-- AUTO-GENERATED -->
 

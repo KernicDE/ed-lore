@@ -11,7 +11,21 @@ related_entities:
 - tiliala
 - akandinigua
 - tilialas-lament
+coords:
+  x: 84.8125
+  y: -20.90625
+  z: -1.40625
+allegiance: Empire
+government: Dictatorship
+controlling_faction: Helgardu Defence Party
+population: 6439789
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Varpet
+inara_url: https://inara.cz/elite/starsystem/?search=Varpet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

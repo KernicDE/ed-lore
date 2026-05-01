@@ -11,7 +11,21 @@ related_entities:
 - independent-autahenetsi-labour-party
 - federal-ceti-sector-security-services
 - panem
+coords:
+  x: 8.59375
+  y: -70
+  z: -29.875
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
+population: 15569808
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Autahenetsi
+inara_url: https://inara.cz/elite/starsystem/?search=Autahenetsi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

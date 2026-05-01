@@ -11,7 +11,9 @@ related_entities:
 - federal-navy
 - hartsfield-market
 - federal-congress
+inara_url: https://inara.cz/elite/minorfaction/?search=Lugh%20for%20Equality
 ---
+
 
 <!-- AUTO-GENERATED -->
 

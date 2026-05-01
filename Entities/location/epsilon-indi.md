@@ -11,7 +11,21 @@ related_entities:
 - alliance
 - emperors-dawn
 - federal-times
+coords:
+  x: 3.125
+  y: -8.875
+  z: 7.125
+allegiance: Independent
+government: Cooperative
+controlling_faction: Hutton Orbital Truckers Co-Operative
+population: 4000005459
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Epsilon%20Indi
+inara_url: https://inara.cz/elite/starsystem/?search=Epsilon%20Indi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

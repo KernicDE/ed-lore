@@ -11,7 +11,21 @@ related_entities:
 - bletii
 - 34-omicron-cephei
 - klikis
+coords:
+  x: 165.46875
+  y: -4.84375
+  z: 79.3125
+allegiance: Independent
+government: Communism
+controlling_faction: Orgen Citizen Party
+population: 12752937
+security: High
+economy: Industrial
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Orgen
+inara_url: https://inara.cz/elite/starsystem/?search=Orgen
 ---
+
 
 <!-- AUTO-GENERATED -->
 

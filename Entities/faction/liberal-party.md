@@ -11,7 +11,9 @@ related_entities:
 - federal-congress
 - alliance
 - core-dynamics
+inara_url: https://inara.cz/elite/minorfaction/?search=Liberal%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

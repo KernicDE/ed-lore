@@ -11,7 +11,21 @@ related_entities:
 - baltahsine
 - beatis
 - cd-39-3269
+coords:
+  x: 59.4375
+  y: -24.28125
+  z: 17
+allegiance: Empire
+government: Feudal
+controlling_faction: Trukampasuk Monarchy
+population: 19896123
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Mazahuanses
+inara_url: https://inara.cz/elite/starsystem/?search=Mazahuanses
 ---
+
 
 <!-- AUTO-GENERATED -->
 

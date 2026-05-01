@@ -10,7 +10,9 @@ related_entities:
 - aramzahd
 - normanmaviss-bingo-palace
 - guardinia
+inara_url: https://inara.cz/elite/minorfaction/?search=Annual%20Galactic%20Games%20Organisation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

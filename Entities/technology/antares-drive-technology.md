@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-01-13'
 last_seen_date: '3302-01-13'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Antares%20drive%20technology
 ---
+
 
 <!-- AUTO-GENERATED -->
 

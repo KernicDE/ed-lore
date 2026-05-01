@@ -11,7 +11,9 @@ related_entities:
 - coalition-of-uteran
 - gluscap-labour
 - proactive-detection-bureau
+inara_url: https://inara.cz/elite/minorfaction/?search=New%20Kuwembaa%20Labour
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,20 @@ related_entities:
 - california-gateway
 - lp-128-32
 - bulychev-hub
+coords:
+  x: -291.59375
+  y: -224.375
+  z: -731.09375
+allegiance: Alliance
+government: Dictatorship
+controlling_faction: Turner Research Group
+population: 15000
+security: Medium
+economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Synuefai%20EB-R%20c7-5
+inara_url: https://inara.cz/elite/starsystem/?search=Synuefai%20EB-R%20c7-5
 ---
+
 
 <!-- AUTO-GENERATED -->
 

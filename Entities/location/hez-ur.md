@@ -11,7 +11,21 @@ related_entities:
 - virudnir
 - mu-cassiopeia
 - mizuchi
+coords:
+  x: 149.96875
+  y: 23.65625
+  z: -85.03125
+allegiance: Independent
+government: Corporate
+controlling_faction: Congressus Tenebris
+population: 147069
+security: Low
+economy: Terraforming
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Hez%20Ur
+inara_url: https://inara.cz/elite/starsystem/?search=Hez%20Ur
 ---
+
 
 <!-- AUTO-GENERATED -->
 

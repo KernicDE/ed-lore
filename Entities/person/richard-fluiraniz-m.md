@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-09-02'
 last_seen_date: '3308-09-02'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Richard%20Fluiraniz%20M
 ---
+
 
 <!-- AUTO-GENERATED -->
 

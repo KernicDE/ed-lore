@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-08-17'
 last_seen_date: '3305-01-03'
 mention_count: 19
+inara_url: https://inara.cz/elite/cmdr-search/?search=Maddox%20Hurd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

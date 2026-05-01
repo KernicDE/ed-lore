@@ -11,7 +11,21 @@ related_entities:
 - bhal
 - armstrong-enterprise
 - beaufoy-vision
+coords:
+  x: -33.5
+  y: -70.1875
+  z: -162.1875
+allegiance: Independent
+government: Corporate
+controlling_faction: Pilot Syndicate 4
+population: 8472134
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Nauni
+inara_url: https://inara.cz/elite/starsystem/?search=Nauni
 ---
+
 
 <!-- AUTO-GENERATED -->
 

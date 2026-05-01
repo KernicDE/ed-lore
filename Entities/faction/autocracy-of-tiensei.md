@@ -11,7 +11,9 @@ related_entities:
 - league-of-reparation
 - pilots-federation
 - los-chupacabras
+inara_url: https://inara.cz/elite/minorfaction/?search=Autocracy%20of%20T%E2%80%99iensei
 ---
+
 
 <!-- AUTO-GENERATED -->
 

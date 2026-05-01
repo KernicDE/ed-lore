@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3309-06-16'
 last_seen_date: '3309-08-03'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jalen%20Locke
 ---
+
 
 <!-- AUTO-GENERATED -->
 

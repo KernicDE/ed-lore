@@ -11,7 +11,9 @@ related_entities:
 - lugh-for-equality
 - hartsfield-market
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Sons%20of%20Conn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - azimuth
 - federal-navy
+inara_url: https://inara.cz/elite/minorfaction/?search=Salvation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

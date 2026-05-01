@@ -11,7 +11,21 @@ related_entities:
 - federal-navy
 - lugh-for-equality
 - crimson-state-group
+coords:
+  x: 40.21875
+  y: -9.78125
+  z: 38.46875
+allegiance: Independent
+government: Patronage
+controlling_faction: Arbor Caelum Internal Defense
+population: 23424554
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Khaka
+inara_url: https://inara.cz/elite/starsystem/?search=Khaka
 ---
+
 
 <!-- AUTO-GENERATED -->
 

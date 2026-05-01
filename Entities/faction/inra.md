@@ -11,7 +11,9 @@ related_entities:
 - league-of-reparation
 - federation
 - dg-canum-venaticorum
+inara_url: https://inara.cz/elite/minorfaction/?search=INRA
 ---
+
 
 <!-- AUTO-GENERATED -->
 

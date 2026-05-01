@@ -10,7 +10,9 @@ related_entities:
 - smith-port
 - leif-enterprise
 - rogue-security
+inara_url: https://inara.cz/elite/minorfaction/?search=Rogue%20Runners
 ---
+
 
 <!-- AUTO-GENERATED -->
 

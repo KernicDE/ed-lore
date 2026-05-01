@@ -11,7 +11,21 @@ related_entities:
 - alliance-expeditionary-pact
 - pilots-federation
 - shenve
+coords:
+  x: 389.71875
+  y: -379.9375
+  z: -724.15625
+allegiance: Empire
+government: Dictatorship
+controlling_faction: The Imperial Exemplars
+population: 608359
+security: High
+economy: High Tech
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Onoros
+inara_url: https://inara.cz/elite/starsystem/?search=Onoros
 ---
+
 
 <!-- AUTO-GENERATED -->
 

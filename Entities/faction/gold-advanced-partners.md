@@ -9,7 +9,9 @@ related_entities:
 - federal-navy
 - banki-gold-gang
 - banki
+inara_url: https://inara.cz/elite/minorfaction/?search=Gold%20Advanced%20Partners
 ---
+
 
 <!-- AUTO-GENERATED -->
 

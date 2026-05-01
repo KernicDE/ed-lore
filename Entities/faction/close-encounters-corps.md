@@ -11,7 +11,9 @@ related_entities:
 - crown-prospect
 - alliance
 - federal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=Close%20Encounters%20Corps
 ---
+
 
 <!-- AUTO-GENERATED -->
 

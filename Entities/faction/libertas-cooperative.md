@@ -11,7 +11,9 @@ related_entities:
 - munshin-manatee-meat
 - alliance
 - federal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=Libertas%20Cooperative
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - hr-4979
 - lambda-2-tucanae
 - potriti
+coords:
+  x: 1
+  y: 4.9375
+  z: -17.53125
+allegiance: Federation
+government: Corporate
+controlling_faction: Earth Defense Fleet
+population: 123372
+security: Low
+economy: Refinery
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Wolf%20294
+inara_url: https://inara.cz/elite/starsystem/?search=Wolf%20294
 ---
+
 
 <!-- AUTO-GENERATED -->
 

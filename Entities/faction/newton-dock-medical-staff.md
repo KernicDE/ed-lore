@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - newton-dock
 - bd-02-4304-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Newton%20Dock%20medical%20staff
 ---
+
 
 <!-- AUTO-GENERATED -->
 

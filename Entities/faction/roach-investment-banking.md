@@ -11,7 +11,9 @@ related_entities:
 - sirius-finance
 - better-green-developments
 - worster-insurance
+inara_url: https://inara.cz/elite/minorfaction/?search=Roach%20Investment%20Banking
 ---
+
 
 <!-- AUTO-GENERATED -->
 

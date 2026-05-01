@@ -11,7 +11,9 @@ related_entities:
 - federal-security-service
 - sol
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Mars%20Tribune
 ---
+
 
 <!-- AUTO-GENERATED -->
 

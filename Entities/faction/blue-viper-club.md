@@ -11,7 +11,9 @@ related_entities:
 - kumo-city
 - pilots-federation
 - harma
+inara_url: https://inara.cz/elite/minorfaction/?search=Blue%20Viper%20Club
 ---
+
 
 <!-- AUTO-GENERATED -->
 

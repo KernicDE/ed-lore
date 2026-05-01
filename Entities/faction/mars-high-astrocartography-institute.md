@@ -7,7 +7,9 @@ last_seen_date: '3303-02-25'
 mention_count: 1
 related_entities:
 - hip-16497
+inara_url: https://inara.cz/elite/minorfaction/?search=Mars%20High%20Astrocartography%20Institute
 ---
+
 
 <!-- AUTO-GENERATED -->
 

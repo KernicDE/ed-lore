@@ -11,7 +11,21 @@ related_entities:
 - awyra-flirble
 - maia
 - obsidian-orbital
+coords:
+  x: 51.40625
+  y: -54.40625
+  z: -30.5
+allegiance: Independent
+government: Anarchy
+controlling_faction: Eurybia Blue Mafia
+population: 145173
+security: Anarchy
+economy: Industrial
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Eurybia
+inara_url: https://inara.cz/elite/starsystem/?search=Eurybia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - kumo-crew
 - pilots-federation
 - adkins-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Cayutorme%20Syndicate
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-02-23'
 last_seen_date: '3302-03-29'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Verity%20Gavroche
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - empire
 - federation
 - alliance
+coords:
+  x: 60.96875
+  y: -72.09375
+  z: 37.40625
+allegiance: Empire
+government: Corporate
+controlling_faction: Magnates of Cemiess
+population: 3416018
+security: Medium
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Sorbago
+inara_url: https://inara.cz/elite/starsystem/?search=Sorbago
 ---
+
 
 <!-- AUTO-GENERATED -->
 

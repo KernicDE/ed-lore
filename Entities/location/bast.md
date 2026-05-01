@@ -11,7 +11,21 @@ related_entities:
 - union-of-bast-liberals
 - newton-dock-medical
 - bd-02-4304
+coords:
+  x: -36.46875
+  y: 16.15625
+  z: -34.9375
+allegiance: Federation
+government: Democracy
+controlling_faction: Blood Brothers from Alrai
+population: 450000
+security: Medium
+economy: Agriculture
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Bast
+inara_url: https://inara.cz/elite/starsystem/?search=Bast
 ---
+
 
 <!-- AUTO-GENERATED -->
 

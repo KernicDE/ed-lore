@@ -11,7 +11,21 @@ related_entities:
 - perseus-dark-region-kc-v-c2-2
 - scriveners-clan
 - wallglass-investigations-agency
+coords:
+  x: 142.65625
+  y: 56.46875
+  z: 40.34375
+allegiance: Independent
+government: Corporate
+controlling_faction: Pisat Electronics & Co
+population: 5135743
+security: Medium
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Chukchan
+inara_url: https://inara.cz/elite/starsystem/?search=Chukchan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

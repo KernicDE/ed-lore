@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-04-11'
 last_seen_date: '3303-05-04'
 mention_count: 5
+inara_url: https://inara.cz/elite/commodity/?search=Imperial%20Clipper
 ---
+
 
 <!-- AUTO-GENERATED -->
 

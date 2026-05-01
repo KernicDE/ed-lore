@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-08-03'
 last_seen_date: '3304-08-11'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Polly%20Cartesius
 ---
+
 
 <!-- AUTO-GENERATED -->
 

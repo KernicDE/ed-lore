@@ -11,7 +11,9 @@ related_entities:
 - steel-castle-inc
 - cqc-holdings
 - tenche
+inara_url: https://inara.cz/elite/minorfaction/?search=Tenche%20Universal%20Holdings
 ---
+
 
 <!-- AUTO-GENERATED -->
 

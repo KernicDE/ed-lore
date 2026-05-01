@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - nu-tauri
 - parmitano-terminal
+inara_url: https://inara.cz/elite/minorfaction/?search=Simbad%20Regime
 ---
+
 
 <!-- AUTO-GENERATED -->
 

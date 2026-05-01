@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-01-15'
 last_seen_date: '3302-01-15'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Octo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

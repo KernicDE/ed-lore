@@ -10,7 +10,9 @@ related_entities:
 - allied-facece-order
 - imperial-herald
 - facece
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Naval%20Auxiliary
 ---
+
 
 <!-- AUTO-GENERATED -->
 

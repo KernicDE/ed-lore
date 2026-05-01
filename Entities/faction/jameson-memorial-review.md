@@ -11,7 +11,9 @@ related_entities:
 - pilots-federation
 - east-india-company
 - universal-cartographics
+inara_url: https://inara.cz/elite/minorfaction/?search=Jameson%20Memorial%20Review
 ---
+
 
 <!-- AUTO-GENERATED -->
 

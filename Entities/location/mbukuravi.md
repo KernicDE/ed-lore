@@ -10,7 +10,21 @@ related_entities:
 - federation
 - ngaliba
 - kremainn
+coords:
+  x: -31.875
+  y: -13.125
+  z: 57.34375
+allegiance: Independent
+government: Feudal
+controlling_faction: Knights of Karma
+population: 93982
+security: Medium
+economy: Agriculture
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Mbukuravi
+inara_url: https://inara.cz/elite/starsystem/?search=Mbukuravi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

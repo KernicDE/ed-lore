@@ -11,7 +11,21 @@ related_entities:
 - wheelock-ring
 - alliance
 - canonn-interstellar-research-group
+coords:
+  x: 17.375
+  y: 31.09375
+  z: 0.5625
+allegiance: Independent
+government: Corporate
+controlling_faction: Sirius Corporation
+population: 20094430
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Zavijah
+inara_url: https://inara.cz/elite/starsystem/?search=Zavijah
 ---
+
 
 <!-- AUTO-GENERATED -->
 

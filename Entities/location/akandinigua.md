@@ -11,7 +11,21 @@ related_entities:
 - tiliala
 - varpet
 - tilialas-lament
+coords:
+  x: 85.65625
+  y: -18.15625
+  z: -4.5625
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Conservatives of Tiliala
+population: 882793
+security: Low
+economy: Extraction
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Akandinigua
+inara_url: https://inara.cz/elite/starsystem/?search=Akandinigua
 ---
+
 
 <!-- AUTO-GENERATED -->
 

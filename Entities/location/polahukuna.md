@@ -10,7 +10,21 @@ related_entities:
 - polahukuna-raiders
 - banki
 - bd03-2338
+coords:
+  x: 59.6875
+  y: 84.5
+  z: -48.71875
+allegiance: Alliance
+government: Democracy
+controlling_faction: Flat Galaxy Society
+population: 6942524
+security: Medium
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Polahukuna
+inara_url: https://inara.cz/elite/starsystem/?search=Polahukuna
 ---
+
 
 <!-- AUTO-GENERATED -->
 

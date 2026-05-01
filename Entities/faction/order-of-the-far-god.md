@@ -11,7 +11,9 @@ related_entities:
 - agassiz-settlement
 - hip-22460
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Order%20of%20the%20Far%20God
 ---
+
 
 <!-- AUTO-GENERATED -->
 

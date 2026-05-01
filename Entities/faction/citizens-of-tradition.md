@@ -11,7 +11,9 @@ related_entities:
 - dornier-terminal
 - falisci-purple-gang
 - dongzi
+inara_url: https://inara.cz/elite/minorfaction/?search=Citizens%20of%20Tradition
 ---
+
 
 <!-- AUTO-GENERATED -->
 

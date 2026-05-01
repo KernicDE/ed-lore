@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-06-30'
 last_seen_date: '3302-07-07'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Gilya%20signature%20weapons
 ---
+
 
 <!-- AUTO-GENERATED -->
 

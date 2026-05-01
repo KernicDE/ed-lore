@@ -11,7 +11,21 @@ related_entities:
 - alioth
 - leesti
 - reorte
+coords:
+  x: -16.5625
+  y: 108.25
+  z: 5.34375
+allegiance: Alliance
+government: Cooperative
+controlling_faction: Sol's Salutis Aeternum
+population: 5186570763
+security: Medium
+economy: Agriculture
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Di%20Jian
+inara_url: https://inara.cz/elite/starsystem/?search=Di%20Jian
 ---
+
 
 <!-- AUTO-GENERATED -->
 

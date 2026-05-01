@@ -11,7 +11,21 @@ related_entities:
 - alioth
 - alliance-defence-force
 - diso
+coords:
+  x: 75.75
+  y: 48.75
+  z: 70.75
+allegiance: Independent
+government: Corporate
+controlling_faction: Lave Radio Network
+population: 25000000000
+security: High
+economy: Agriculture
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Lave
+inara_url: https://inara.cz/elite/starsystem/?search=Lave
 ---
+
 
 <!-- AUTO-GENERATED -->
 

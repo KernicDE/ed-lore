@@ -10,7 +10,21 @@ related_entities:
 - eol-prou
 - orio-persean-conflux
 - wagars-reach
+coords:
+  x: 6.75
+  y: 21.5625
+  z: -53
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Civitas Dei
+population: 8539
+security: Low
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Ishtar
+inara_url: https://inara.cz/elite/starsystem/?search=Ishtar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

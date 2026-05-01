@@ -11,7 +11,21 @@ related_entities:
 - bd03-2338
 - antonio-de-andrade-vista
 - matteucci-terminal
+coords:
+  x: 76.59375
+  y: 76.59375
+  z: -40.0625
+allegiance: Alliance
+government: Corporate
+controlling_faction: Excalibur Arms and Munitions
+population: 12253934
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Khasiri
+inara_url: https://inara.cz/elite/starsystem/?search=Khasiri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

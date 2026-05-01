@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-11-11'
 last_seen_date: '3311-11-11'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Dodec%20starport
 ---
+
 
 <!-- AUTO-GENERATED -->
 

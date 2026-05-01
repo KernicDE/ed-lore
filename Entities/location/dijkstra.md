@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - allen-platform
 - sol
+coords:
+  x: 103.75
+  y: 57.46875
+  z: 73.375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Community of the Vault
+population: 183401
+security: Medium
+economy: Industrial
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Dijkstra
+inara_url: https://inara.cz/elite/starsystem/?search=Dijkstra
 ---
+
 
 <!-- AUTO-GENERATED -->
 

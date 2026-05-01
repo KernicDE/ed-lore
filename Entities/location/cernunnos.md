@@ -10,7 +10,21 @@ related_entities:
 - faust-68
 - dickensport
 - fomalhaut
+coords:
+  x: 59.25
+  y: -151.6875
+  z: 32.5625
+allegiance: Independent
+government: Democracy
+controlling_faction: United German Commanders
+population: 306857
+security: High
+economy: Colony
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Cernunnos
+inara_url: https://inara.cz/elite/starsystem/?search=Cernunnos
 ---
+
 
 <!-- AUTO-GENERATED -->
 

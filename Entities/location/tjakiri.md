@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - imperial-navy
 - kumo-crew
+coords:
+  x: -141.625
+  y: -64.375
+  z: 59.5625
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Buurian Protectorate
+population: 7776780
+security: Low
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Tjakiri
+inara_url: https://inara.cz/elite/starsystem/?search=Tjakiri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

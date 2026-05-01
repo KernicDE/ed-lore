@@ -9,7 +9,17 @@ related_entities:
 - synuefe-zl-j-d10-119
 - synuefe-xo-p-c22-17
 - ic-2391-sector-gw-v-b2-4
+coords:
+  x: 526.5
+  y: -86.375
+  z: -37.9375
+security: Anarchy
+economy: None
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=IC%202391%20Sector%20ZE-A%20d101
+inara_url: https://inara.cz/elite/starsystem/?search=IC%202391%20Sector%20ZE-A%20d101
 ---
+
 
 <!-- AUTO-GENERATED -->
 

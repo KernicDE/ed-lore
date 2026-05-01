@@ -11,7 +11,9 @@ related_entities:
 - sirius-finance
 - roach-investment-banking
 - worster-insurance
+inara_url: https://inara.cz/elite/minorfaction/?search=Better%20Green%20Developments
 ---
+
 
 <!-- AUTO-GENERATED -->
 

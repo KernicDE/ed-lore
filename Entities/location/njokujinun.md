@@ -7,7 +7,21 @@ last_seen_date: '3302-01-10'
 mention_count: 1
 related_entities:
 - nyberg-vision-station
+coords:
+  x: -73.65625
+  y: -33.03125
+  z: -82.09375
+allegiance: Federation
+government: Corporate
+controlling_faction: Njokujinun Federal Systems
+population: 8800575
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Njokujinun
+inara_url: https://inara.cz/elite/starsystem/?search=Njokujinun
 ---
+
 
 <!-- AUTO-GENERATED -->
 

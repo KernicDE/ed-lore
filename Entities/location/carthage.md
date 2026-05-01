@@ -9,7 +9,21 @@ related_entities:
 - lavignys-legion
 - marker-depot
 - imperial-navy
+coords:
+  x: 100.34375
+  y: -102.125
+  z: 7.34375
+allegiance: Empire
+government: Patronage
+controlling_faction: Lavigny's Legion
+population: 82000
+security: Medium
+economy: Refinery
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Carthage
+inara_url: https://inara.cz/elite/starsystem/?search=Carthage
 ---
+
 
 <!-- AUTO-GENERATED -->
 

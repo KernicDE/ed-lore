@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-04-23'
 last_seen_date: '3302-04-23'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Duke%20Alden%20Rowe
 ---
+
 
 <!-- AUTO-GENERATED -->
 

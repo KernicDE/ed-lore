@@ -7,7 +7,21 @@ last_seen_date: '3308-11-24'
 mention_count: 1
 related_entities:
 - hyades
+coords:
+  x: 90.6875
+  y: 6.1875
+  z: -83.09375
+allegiance: Federation
+government: Corporate
+controlling_faction: Deutsche Elite Piloten Interstellar
+population: 2158874970
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Andavandul
+inara_url: https://inara.cz/elite/starsystem/?search=Andavandul
 ---
+
 
 <!-- AUTO-GENERATED -->
 

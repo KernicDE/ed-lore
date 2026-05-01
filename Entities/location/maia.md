@@ -11,7 +11,21 @@ related_entities:
 - pleiades-resource-enterprise
 - aegis
 - pleiades-nebula
+coords:
+  x: -81.78125
+  y: -149.4375
+  z: -343.375
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 139152
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Maia
+inara_url: https://inara.cz/elite/starsystem/?search=Maia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

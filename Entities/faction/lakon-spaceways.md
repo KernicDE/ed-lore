@@ -11,7 +11,9 @@ related_entities:
 - alioth
 - warkushanui
 - warkushanui-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Lakon%20Spaceways
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - vitadyne-labs
 - kuma
 - alignak
+inara_url: https://inara.cz/elite/minorfaction/?search=Vandermeer%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

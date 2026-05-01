@@ -11,7 +11,21 @@ related_entities:
 - imperial-internal-security-service
 - imperial-senate
 - nmla
+coords:
+  x: 103.75
+  y: -43.90625
+  z: -40.4375
+allegiance: Empire
+government: Patronage
+controlling_faction: The 9th Legion
+population: 6982751822
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Chana
+inara_url: https://inara.cz/elite/starsystem/?search=Chana
 ---
+
 
 <!-- AUTO-GENERATED -->
 

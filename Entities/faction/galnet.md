@@ -9,7 +9,9 @@ related_entities:
 - pilots-federation
 - none-specified
 - wallglass-investigations-agency
+inara_url: https://inara.cz/elite/minorfaction/?search=GalNet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

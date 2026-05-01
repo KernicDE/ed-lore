@@ -11,7 +11,9 @@ related_entities:
 - wilkes-orbital
 - palin-institute
 - orulas-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Defence%20Party%20of%20Nespeleve
 ---
+
 
 <!-- AUTO-GENERATED -->
 

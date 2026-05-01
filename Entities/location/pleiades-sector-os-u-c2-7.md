@@ -10,7 +10,17 @@ related_entities:
 - aries-dark-region-db-x-d1-63
 - hip-19026
 - hip-14909
+coords:
+  x: -68.71875
+  y: -229.625
+  z: -325.6875
+security: Anarchy
+economy: None
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20OS-U%20c2-7
+inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20OS-U%20c2-7
 ---
+
 
 <!-- AUTO-GENERATED -->
 

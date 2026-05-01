@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-01-18'
 last_seen_date: '3310-01-25'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Unclassified%20relics
 ---
+
 
 <!-- AUTO-GENERATED -->
 

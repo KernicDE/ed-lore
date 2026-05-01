@@ -11,7 +11,9 @@ related_entities:
 - hel
 - adles-armada
 - labour-party-of-caill-reddi
+inara_url: https://inara.cz/elite/minorfaction/?search=Hammer%20Arms
 ---
+
 
 <!-- AUTO-GENERATED -->
 

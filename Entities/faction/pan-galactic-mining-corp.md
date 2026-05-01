@@ -9,7 +9,9 @@ related_entities:
 - zaonce
 - federal-bar-council
 - interstellar-press
+inara_url: https://inara.cz/elite/minorfaction/?search=Pan%20Galactic%20Mining%20Corp
 ---
+
 
 <!-- AUTO-GENERATED -->
 

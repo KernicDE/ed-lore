@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - interstellar-press
 - alioth
+inara_url: https://inara.cz/elite/minorfaction/?search=Radio%20Sidewinder
 ---
+
 
 <!-- AUTO-GENERATED -->
 

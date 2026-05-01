@@ -11,7 +11,9 @@ related_entities:
 - facece
 - nehet
 - mictlan
+inara_url: https://inara.cz/elite/minorfaction/?search=Patrons%20of%20Law
 ---
+
 
 <!-- AUTO-GENERATED -->
 

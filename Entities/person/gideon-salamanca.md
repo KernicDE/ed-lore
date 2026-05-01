@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-04-26'
 last_seen_date: '3308-04-26'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Gideon%20Salamanca
 ---
+
 
 <!-- AUTO-GENERATED -->
 

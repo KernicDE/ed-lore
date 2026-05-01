@@ -11,7 +11,9 @@ related_entities:
 - chelbin-service-station
 - federal-times
 - pleiades-sector-ir-w-d1-55
+inara_url: https://inara.cz/elite/minorfaction/?search=Wolf%20397%20Independents
 ---
+
 
 <!-- AUTO-GENERATED -->
 

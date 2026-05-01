@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - federal-intelligence-agency
 - league-of-reparation
+inara_url: https://inara.cz/elite/minorfaction/?search=Aranbarahun%20Purple%20Creative
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-11-01'
 last_seen_date: '3308-11-01'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Liam%20Flanagan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

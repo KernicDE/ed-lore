@@ -8,7 +8,9 @@ mention_count: 4
 related_entities:
 - upaniklis
 - interstellar-health-organisation
+inara_url: https://inara.cz/elite/minorfaction/?search=Upaniklis%20Vision%20Incorporated
 ---
+
 
 <!-- AUTO-GENERATED -->
 

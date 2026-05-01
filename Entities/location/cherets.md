@@ -11,7 +11,21 @@ related_entities:
 - anduliga
 - achenar
 - alioth
+coords:
+  x: -65.9375
+  y: 35.53125
+  z: -68.71875
+allegiance: Independent
+government: Feudal
+controlling_faction: Noblemen of Andancan
+population: 1315247213
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Cherets
+inara_url: https://inara.cz/elite/starsystem/?search=Cherets
 ---
+
 
 <!-- AUTO-GENERATED -->
 

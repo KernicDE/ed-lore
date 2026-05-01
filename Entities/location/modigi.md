@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - imperial-navy
 - hyades-sector-fb-n-b7-6
+coords:
+  x: 89.34375
+  y: -92.28125
+  z: -117.4375
+allegiance: Empire
+government: Feudal
+controlling_faction: Reign Of Annihilation
+population: 56457
+security: Low
+economy: Extraction
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Modigi
+inara_url: https://inara.cz/elite/starsystem/?search=Modigi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

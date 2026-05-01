@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - kumo-crew
 - guathiti
+coords:
+  x: 127.15625
+  y: -77.875
+  z: 12.125
+allegiance: Empire
+government: Patronage
+controlling_faction: Lavigny's Legion
+population: 5206335
+security: High
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Delta%20Doradus
+inara_url: https://inara.cz/elite/starsystem/?search=Delta%20Doradus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

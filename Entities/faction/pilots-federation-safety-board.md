@@ -9,7 +9,9 @@ related_entities:
 - alliance
 - alliance-news-network
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Pilots%20Federation%20Safety%20Board
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -10,7 +10,21 @@ related_entities:
 - smith-port
 - leif-enterprise
 - rogue-security
+coords:
+  x: 22.8125
+  y: -165.96875
+  z: 34.9375
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Winged Hussars
+population: 3030580
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Run
+inara_url: https://inara.cz/elite/starsystem/?search=Run
 ---
+
 
 <!-- AUTO-GENERATED -->
 

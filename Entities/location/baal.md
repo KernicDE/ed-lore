@@ -11,7 +11,21 @@ related_entities:
 - nova-imperium
 - pilots-federation
 - capitol
+coords:
+  x: 83.0625
+  y: -140.5
+  z: 8.125
+allegiance: Empire
+government: Patronage
+controlling_faction: The White Templars
+population: 4272655540
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Baal
+inara_url: https://inara.cz/elite/starsystem/?search=Baal
 ---
+
 
 <!-- AUTO-GENERATED -->
 

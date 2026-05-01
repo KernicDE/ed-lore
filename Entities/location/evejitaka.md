@@ -11,7 +11,21 @@ related_entities:
 - von-bellingshausen-port
 - almar
 - haack-gateway
+coords:
+  x: -18.8125
+  y: -63.46875
+  z: 57.0625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Teaka Elite Altruists Bagging Cooperative
+population: 12641679
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Evejitaka
+inara_url: https://inara.cz/elite/starsystem/?search=Evejitaka
 ---
+
 
 <!-- AUTO-GENERATED -->
 

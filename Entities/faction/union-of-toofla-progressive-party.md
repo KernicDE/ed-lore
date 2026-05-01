@@ -11,7 +11,9 @@ related_entities:
 - sirius-corporation
 - universal-cartographics
 - lawd-26
+inara_url: https://inara.cz/elite/minorfaction/?search=Union%20of%20Toofla%20Progressive%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

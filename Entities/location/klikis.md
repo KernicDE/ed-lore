@@ -11,7 +11,21 @@ related_entities:
 - orgen
 - bletii
 - 34-omicron-cephei
+coords:
+  x: 38.28125
+  y: 74.6875
+  z: 163.71875
+allegiance: Independent
+government: Feudal
+controlling_faction: Leaders of Kumbaya
+population: 8277912
+security: Medium
+economy: Industrial
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Klikis
+inara_url: https://inara.cz/elite/starsystem/?search=Klikis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

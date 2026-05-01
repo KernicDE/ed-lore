@@ -11,7 +11,9 @@ related_entities:
 - sirius-corporation
 - mars
 - federal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=Meene%20Defence%20Force
 ---
+
 
 <!-- AUTO-GENERATED -->
 

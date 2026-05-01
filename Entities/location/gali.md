@@ -11,7 +11,21 @@ related_entities:
 - 39-tauri
 - kamorin
 - delta-phoenicis
+coords:
+  x: -57.625
+  y: 43.40625
+  z: 97.5625
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Wolves of Jonai
+population: 1531992549
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Gali
+inara_url: https://inara.cz/elite/starsystem/?search=Gali
 ---
+
 
 <!-- AUTO-GENERATED -->
 

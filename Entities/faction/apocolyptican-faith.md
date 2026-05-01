@@ -7,7 +7,9 @@ last_seen_date: '3302-12-07'
 mention_count: 1
 related_entities:
 - buckyball-racing-club
+inara_url: https://inara.cz/elite/minorfaction/?search=Apocolyptican%20Faith
 ---
+
 
 <!-- AUTO-GENERATED -->
 

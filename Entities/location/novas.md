@@ -11,7 +11,21 @@ related_entities:
 - sosong
 - alliance
 - imperial-navy
+coords:
+  x: 109.03125
+  y: -0.25
+  z: 71.84375
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Enforcement Division
+population: 4993114443
+security: High
+economy: Industrial
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Novas
+inara_url: https://inara.cz/elite/starsystem/?search=Novas
 ---
+
 
 <!-- AUTO-GENERATED -->
 

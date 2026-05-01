@@ -11,7 +11,21 @@ related_entities:
 - steel-castle-inc
 - nagasairu
 - tenche-universal-holdings
+coords:
+  x: -31.125
+  y: -74.15625
+  z: 37.09375
+allegiance: Federation
+government: Confederacy
+controlling_faction: Movement for LP 876-76 League
+population: 65996343
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Tenche
+inara_url: https://inara.cz/elite/starsystem/?search=Tenche
 ---
+
 
 <!-- AUTO-GENERATED -->
 

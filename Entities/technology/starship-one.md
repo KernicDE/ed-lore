@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-05-27'
 last_seen_date: '3302-01-28'
 mention_count: 6
+inara_url: https://inara.cz/elite/commodity/?search=Starship%20One
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - emperors-grace
 - chona
 - cemiess
+inara_url: https://inara.cz/elite/minorfaction/?search=Aisling%27s%20Angels
 ---
+
 
 <!-- AUTO-GENERATED -->
 

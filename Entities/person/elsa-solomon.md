@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-01-28'
 last_seen_date: '3307-01-28'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Elsa%20Solomon
 ---
+
 
 <!-- AUTO-GENERATED -->
 

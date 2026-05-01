@@ -11,7 +11,9 @@ related_entities:
 - bamford-station
 - silver-universal-plc
 - ritchey-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Nationals%20of%20Themiscrya
 ---
+
 
 <!-- AUTO-GENERATED -->
 

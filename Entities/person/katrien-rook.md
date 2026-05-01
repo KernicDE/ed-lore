@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-12-06'
 last_seen_date: '3306-06-09'
 mention_count: 15
+inara_url: https://inara.cz/elite/cmdr-search/?search=Katrien%20Rook
 ---
+
 
 <!-- AUTO-GENERATED -->
 

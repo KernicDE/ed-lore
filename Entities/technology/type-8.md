@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-07-30'
 last_seen_date: '3310-10-31'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Type-8
 ---
+
 
 <!-- AUTO-GENERATED -->
 

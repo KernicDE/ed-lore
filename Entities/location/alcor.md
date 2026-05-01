@@ -11,7 +11,21 @@ related_entities:
 - torval-mining-ltd
 - imperial-senate
 - nmla
+coords:
+  x: -36
+  y: 71.78125
+  z: -15.125
+allegiance: Alliance
+government: Corporate
+controlling_faction: Perez Ring Brewery
+population: 703831
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Alcor
+inara_url: https://inara.cz/elite/starsystem/?search=Alcor
 ---
+
 
 <!-- AUTO-GENERATED -->
 

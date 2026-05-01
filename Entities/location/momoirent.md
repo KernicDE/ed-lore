@@ -9,7 +9,21 @@ related_entities:
 - jahn-dock
 - aegis
 - momoirent-central-and-co
+coords:
+  x: 58.0625
+  y: 13.53125
+  z: 0.90625
+allegiance: Federation
+government: Democracy
+controlling_faction: Revolutionary Momoirent Green Party
+population: 14065471
+security: High
+economy: Refinery
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Momoirent
+inara_url: https://inara.cz/elite/starsystem/?search=Momoirent
 ---
+
 
 <!-- AUTO-GENERATED -->
 

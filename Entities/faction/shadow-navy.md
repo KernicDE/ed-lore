@@ -11,7 +11,9 @@ related_entities:
 - blossum-family
 - liaedin
 - volungu
+inara_url: https://inara.cz/elite/minorfaction/?search=Shadow%20Navy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

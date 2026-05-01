@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - hip-22460
 - azimuth-biotech
+inara_url: https://inara.cz/elite/minorfaction/?search=Federation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3303-10-13'
 last_seen_date: '3303-10-20'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=shutdown-field%20neutraliser
 ---
+
 
 <!-- AUTO-GENERATED -->
 

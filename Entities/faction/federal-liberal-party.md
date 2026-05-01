@@ -11,7 +11,9 @@ related_entities:
 - oduduro
 - akkadia
 - utopia
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Liberal%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

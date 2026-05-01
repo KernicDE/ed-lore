@@ -11,7 +11,9 @@ related_entities:
 - imperial-internal-security-service
 - federal-intelligence-agency
 - wallglass-investigations-agency
+inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Interpol
 ---
+
 
 <!-- AUTO-GENERATED -->
 

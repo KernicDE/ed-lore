@@ -11,7 +11,21 @@ related_entities:
 - nauo
 - gyhldekala
 - kpaniya
+coords:
+  x: -84.84375
+  y: -3.71875
+  z: 98.3125
+allegiance: Independent
+government: Cooperative
+controlling_faction: Ahhent I.D.S.
+population: 84515
+security: Low
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Boga
+inara_url: https://inara.cz/elite/starsystem/?search=Boga
 ---
+
 
 <!-- AUTO-GENERATED -->
 

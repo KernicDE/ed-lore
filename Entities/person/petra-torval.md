@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3309-06-05'
 last_seen_date: '3310-01-11'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Petra%20Torval
 ---
+
 
 <!-- AUTO-GENERATED -->
 

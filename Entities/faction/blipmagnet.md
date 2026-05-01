@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - alpha-centauri
 - hutton-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=BlipMagnet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

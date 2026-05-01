@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-12-01'
 last_seen_date: '3304-12-13'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Imperator%20Mordanticus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - tanmark-posse
 - luca
 - farmers-union-of-kappa-fornacis
+inara_url: https://inara.cz/elite/minorfaction/?search=Defence%20Force%20of%20Tanmark
 ---
+
 
 <!-- AUTO-GENERATED -->
 

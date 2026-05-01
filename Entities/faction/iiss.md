@@ -11,7 +11,9 @@ related_entities:
 - nmla
 - paresa
 - mudhrid
+inara_url: https://inara.cz/elite/minorfaction/?search=IISS
 ---
+
 
 <!-- AUTO-GENERATED -->
 

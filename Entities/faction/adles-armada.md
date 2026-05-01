@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - code
 - lave
+inara_url: https://inara.cz/elite/minorfaction/?search=Adle%27s%20Armada
 ---
+
 
 <!-- AUTO-GENERATED -->
 

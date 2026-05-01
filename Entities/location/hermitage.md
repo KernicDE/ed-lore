@@ -7,7 +7,14 @@ last_seen_date: '3303-10-12'
 mention_count: 1
 related_entities:
 - intergalactic-naval-reserve-arm
+coords:
+  x: -28.75
+  y: 25
+  z: 10.4375
+edsm_url: https://www.edsm.net/en/system?search=Hermitage
+inara_url: https://inara.cz/elite/starsystem/?search=Hermitage
 ---
+
 
 <!-- AUTO-GENERATED -->
 

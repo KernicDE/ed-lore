@@ -11,7 +11,9 @@ related_entities:
 - dajoar
 - eleu
 - 20-ophiuchi
+inara_url: https://inara.cz/elite/minorfaction/?search=Newton%20Dock%20Medical
 ---
+
 
 <!-- AUTO-GENERATED -->
 

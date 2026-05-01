@@ -11,7 +11,21 @@ related_entities:
 - 64-arietis
 - ngobe
 - weyn-dock
+coords:
+  x: -74.25
+  y: -96.53125
+  z: -170.96875
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Close Encounters Corps
+population: 3646038
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=49%20Arietis
+inara_url: https://inara.cz/elite/starsystem/?search=49%20Arietis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

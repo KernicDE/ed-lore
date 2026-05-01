@@ -9,7 +9,9 @@ related_entities:
 - core-dynamics
 - bhattra
 - levinson-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Vodel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

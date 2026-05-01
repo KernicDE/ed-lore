@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-11-22'
 last_seen_date: '3309-04-27'
 mention_count: 10
+inara_url: https://inara.cz/elite/cmdr-search/?search=Karleen%20Troy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

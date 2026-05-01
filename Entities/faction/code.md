@@ -11,7 +11,9 @@ related_entities:
 - adles-armada
 - lave
 - leesti
+inara_url: https://inara.cz/elite/minorfaction/?search=CODE
 ---
+
 
 <!-- AUTO-GENERATED -->
 

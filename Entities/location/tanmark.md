@@ -11,7 +11,21 @@ related_entities:
 - panem
 - cassie-l-peia
 - tanmark-posse
+coords:
+  x: 1.6875
+  y: -77.875
+  z: -30.09375
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
+population: 5061479
+security: Medium
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Tanmark
+inara_url: https://inara.cz/elite/starsystem/?search=Tanmark
 ---
+
 
 <!-- AUTO-GENERATED -->
 

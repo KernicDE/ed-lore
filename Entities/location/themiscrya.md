@@ -11,7 +11,20 @@ related_entities:
 - lily-may
 - bamford-station
 - imperial-slavers-association
+coords:
+  x: 38.3125
+  y: -107.875
+  z: -6.9375
+allegiance: Empire
+government: Corporate
+controlling_faction: G.O.M. Collective
+population: 500000
+security: Medium
+economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Themiscrya
+inara_url: https://inara.cz/elite/starsystem/?search=Themiscrya
 ---
+
 
 <!-- AUTO-GENERATED -->
 

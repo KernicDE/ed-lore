@@ -11,7 +11,21 @@ related_entities:
 - imperial-internal-security-service
 - imperial-senate
 - nmla
+coords:
+  x: 77.9375
+  y: -47.0625
+  z: -12.59375
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Deathwatch
+population: 8229966918
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Beatis
+inara_url: https://inara.cz/elite/starsystem/?search=Beatis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - uibuth
 - darrest-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Uibuth%20Empire%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - dove-enigma
 - randgnid
 - templar-barracks
+inara_url: https://inara.cz/elite/minorfaction/?search=Colonia%20Council
 ---
+
 
 <!-- AUTO-GENERATED -->
 

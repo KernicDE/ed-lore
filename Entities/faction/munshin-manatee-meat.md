@@ -9,7 +9,9 @@ related_entities:
 - libertas-cooperative
 - munshin
 - ocrinoxs-orbiter
+inara_url: https://inara.cz/elite/minorfaction/?search=Munshin%20Manatee%20Meat
 ---
+
 
 <!-- AUTO-GENERATED -->
 

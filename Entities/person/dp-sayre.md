@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3303-01-06'
 last_seen_date: '3303-01-06'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=DP%20Sayre
 ---
+
 
 <!-- AUTO-GENERATED -->
 

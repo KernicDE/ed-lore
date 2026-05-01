@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - i-carinae
 - somerset-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Secret%20Billionaires
 ---
+
 
 <!-- AUTO-GENERATED -->
 

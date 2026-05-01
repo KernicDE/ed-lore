@@ -5,7 +5,9 @@ type: faction
 first_seen_date: '3302-08-26'
 last_seen_date: '3302-08-26'
 mention_count: 1
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Astrocartography%20Department
 ---
+
 
 <!-- AUTO-GENERATED -->
 

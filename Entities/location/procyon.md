@@ -11,7 +11,21 @@ related_entities:
 - bonespire-publishing
 - blatrimpe
 - davy-dock
+coords:
+  x: 6.21875
+  y: 2.65625
+  z: -9.1875
+allegiance: Independent
+government: Corporate
+controlling_faction: Sirius Corporation
+population: 18561357265
+security: Medium
+economy: Agriculture
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Procyon
+inara_url: https://inara.cz/elite/starsystem/?search=Procyon
 ---
+
 
 <!-- AUTO-GENERATED -->
 

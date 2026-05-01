@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - church-of-eternal-void
 - far-god-cult
+inara_url: https://inara.cz/elite/minorfaction/?search=Cobra%20Wing
 ---
+
 
 <!-- AUTO-GENERATED -->
 

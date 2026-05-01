@@ -11,7 +11,21 @@ related_entities:
 - lem-dock
 - moon-prospect
 - turot
+coords:
+  x: 0.4375
+  y: 63.21875
+  z: -9.5
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Office of Statistics
+population: 2118304
+security: Medium
+economy: Refinery
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Chaac
+inara_url: https://inara.cz/elite/starsystem/?search=Chaac
 ---
+
 
 <!-- AUTO-GENERATED -->
 

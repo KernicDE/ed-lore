@@ -11,7 +11,9 @@ related_entities:
 - alliance-elite-diplomatic-corps
 - interstellar-communist-union
 - the-sovereign
+inara_url: https://inara.cz/elite/minorfaction/?search=GalCop
 ---
+
 
 <!-- AUTO-GENERATED -->
 

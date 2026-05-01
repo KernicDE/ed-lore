@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-05-13'
 last_seen_date: '3307-05-13'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Catherine%20Carlisle
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - aegis
 - sol
+coords:
+  x: 157.28125
+  y: 14.96875
+  z: -103.875
+allegiance: Federation
+government: Corporate
+controlling_faction: Federal Liberal Command
+population: 404634980
+security: Low
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Col%20285%20Sector%20BA-P%20c6-18
+inara_url: https://inara.cz/elite/starsystem/?search=Col%20285%20Sector%20BA-P%20c6-18
 ---
+
 
 <!-- AUTO-GENERATED -->
 

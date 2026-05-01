@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - townshend-hub
 - seddon-gateway
+inara_url: https://inara.cz/elite/minorfaction/?search=Alioth%20Independents
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -7,7 +7,9 @@ last_seen_date: '3307-12-24'
 mention_count: 1
 related_entities:
 - none-specified
+inara_url: https://inara.cz/elite/minorfaction/?search=Goldsun%20Media
 ---
+
 
 <!-- AUTO-GENERATED -->
 

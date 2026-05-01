@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-10-22'
 last_seen_date: '3308-11-15'
 mention_count: 5
+inara_url: https://inara.cz/elite/cmdr-search/?search=Casey%20Kilpatrick
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - vandermeer-corporation
 - kumo-crew
 - vox-galactica
+inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Health%20Organisation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

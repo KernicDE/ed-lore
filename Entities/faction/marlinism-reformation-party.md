@@ -11,7 +11,9 @@ related_entities:
 - imperial-senate
 - free-marlinist-movement
 - marlinist-parliament
+inara_url: https://inara.cz/elite/minorfaction/?search=Marlinism%20Reformation%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

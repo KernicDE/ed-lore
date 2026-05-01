@@ -10,7 +10,9 @@ related_entities:
 - imperial-internal-security-service
 - proactive-detection-bureau
 - maelstrom
+inara_url: https://inara.cz/elite/minorfaction/?search=Allied%20Interpol
 ---
+
 
 <!-- AUTO-GENERATED -->
 

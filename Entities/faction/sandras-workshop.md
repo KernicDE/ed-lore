@@ -9,7 +9,9 @@ related_entities:
 - our-dolphs-routes
 - njambalba
 - frost-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Sandra%27s%20Workshop
 ---
+
 
 <!-- AUTO-GENERATED -->
 

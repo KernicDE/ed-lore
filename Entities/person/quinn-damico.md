@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-06-30'
 last_seen_date: '3304-07-26'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Quinn%20Damico
 ---
+
 
 <!-- AUTO-GENERATED -->
 

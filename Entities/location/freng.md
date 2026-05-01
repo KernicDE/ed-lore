@@ -11,7 +11,21 @@ related_entities:
 - darian
 - lunduwalaya
 - alliance
+coords:
+  x: -74.9375
+  y: -10.96875
+  z: 54.125
+allegiance: Independent
+government: Democracy
+controlling_faction: German Pilot Lounge
+population: 2973176
+security: Medium
+economy: Refinery
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Freng
+inara_url: https://inara.cz/elite/starsystem/?search=Freng
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - core-dynamics
 - metadrive-inc
 - chi-orionis
+inara_url: https://inara.cz/elite/minorfaction/?search=Galactic%20Finance%20Times
 ---
+
 
 <!-- AUTO-GENERATED -->
 

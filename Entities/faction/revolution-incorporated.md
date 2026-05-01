@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - emperors-dawn
 - federal-times
+inara_url: https://inara.cz/elite/minorfaction/?search=Revolution%20Incorporated
 ---
+
 
 <!-- AUTO-GENERATED -->
 

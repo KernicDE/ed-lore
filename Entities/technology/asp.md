@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-03-18'
 last_seen_date: '3301-03-18'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Asp
 ---
+
 
 <!-- AUTO-GENERATED -->
 

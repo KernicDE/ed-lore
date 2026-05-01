@@ -11,7 +11,21 @@ related_entities:
 - namarii
 - tabaldak
 - ltt-874
+coords:
+  x: 48.5
+  y: -134.8125
+  z: -10.25
+allegiance: Empire
+government: Corporate
+controlling_faction: ELITE SPACE WINGS
+population: 1372796237
+security: Medium
+economy: Agriculture
+second_economy: Terraforming
+edsm_url: https://www.edsm.net/en/system?search=Shambhala
+inara_url: https://inara.cz/elite/starsystem/?search=Shambhala
 ---
+
 
 <!-- AUTO-GENERATED -->
 

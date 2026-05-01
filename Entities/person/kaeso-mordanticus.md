@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-11-14'
 last_seen_date: '3307-12-02'
 mention_count: 5
+inara_url: https://inara.cz/elite/cmdr-search/?search=Kaeso%20Mordanticus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

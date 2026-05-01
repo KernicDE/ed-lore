@@ -10,7 +10,9 @@ related_entities:
 - reyan-bps
 - mars
 - sol
+inara_url: https://inara.cz/elite/minorfaction/?search=LTT%2015449%20Dynamic%20Incorporated
 ---
+
 
 <!-- AUTO-GENERATED -->
 

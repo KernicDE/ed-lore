@@ -11,7 +11,21 @@ related_entities:
 - arawere
 - harma
 - pic-tok
+coords:
+  x: 58.125
+  y: 22.59375
+  z: -28.59375
+allegiance: Federation
+government: Corporate
+controlling_faction: Federal Liberal Command
+population: 12958908273
+security: High
+economy: Agriculture
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Rhea
+inara_url: https://inara.cz/elite/starsystem/?search=Rhea
 ---
+
 
 <!-- AUTO-GENERATED -->
 

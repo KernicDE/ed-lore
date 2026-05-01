@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - polevnic
 - vitadyne-labs
+inara_url: https://inara.cz/elite/minorfaction/?search=Utopia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

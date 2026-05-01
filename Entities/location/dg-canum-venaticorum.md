@@ -11,7 +11,14 @@ related_entities:
 - azimuth-biochemicals
 - alliance
 - empire
+coords:
+  x: -3.125
+  y: 25.53125
+  z: 2.6875
+edsm_url: https://www.edsm.net/en/system?search=DG%20Canum%20Venaticorum
+inara_url: https://inara.cz/elite/starsystem/?search=DG%20Canum%20Venaticorum
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - norma-expanse
 - sol
 - sirius-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Mars%20High%20Astrocartography
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - marlinist-colonies
 - epsilon-fornacis-empire-group
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Neo-Marlinist%20Order%20of%20Mudhrid
 ---
+
 
 <!-- AUTO-GENERATED -->
 

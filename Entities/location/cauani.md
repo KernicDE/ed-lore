@@ -11,7 +11,21 @@ related_entities:
 - 39-tauri
 - kamorin
 - delta-phoenicis
+coords:
+  x: -60.78125
+  y: 18.78125
+  z: 74.375
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Wolves of Jonai
+population: 6167213027
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Cauani
+inara_url: https://inara.cz/elite/starsystem/?search=Cauani
 ---
+
 
 <!-- AUTO-GENERATED -->
 

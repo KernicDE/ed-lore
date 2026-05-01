@@ -11,7 +11,9 @@ related_entities:
 - vox-galactica
 - pilots-federation
 - vista-genomics
+inara_url: https://inara.cz/elite/minorfaction/?search=Exogene%20Sciences
 ---
+
 
 <!-- AUTO-GENERATED -->
 

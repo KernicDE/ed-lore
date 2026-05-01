@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3312-03-19'
 last_seen_date: '3312-04-26'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Lynda%20Amanda%20ter%20Holt
 ---
+
 
 <!-- AUTO-GENERATED -->
 

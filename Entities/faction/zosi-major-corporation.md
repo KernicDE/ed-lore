@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - zosi
 - citi-enterprise
+inara_url: https://inara.cz/elite/minorfaction/?search=Zosi%20Major%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

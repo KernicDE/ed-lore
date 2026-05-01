@@ -5,7 +5,9 @@ type: faction
 first_seen_date: '3301-05-30'
 last_seen_date: '3301-05-30'
 mention_count: 1
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Transport%20Safety%20Administration
 ---
+
 
 <!-- AUTO-GENERATED -->
 

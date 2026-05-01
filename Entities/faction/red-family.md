@@ -11,7 +11,9 @@ related_entities:
 - federal-security-service
 - olympus-village
 - mars-tribune
+inara_url: https://inara.cz/elite/minorfaction/?search=Red%20Family
 ---
+
 
 <!-- AUTO-GENERATED -->
 

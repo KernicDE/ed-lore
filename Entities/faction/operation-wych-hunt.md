@@ -11,7 +11,9 @@ related_entities:
 - hind-mine
 - glorious-prospect
 - lhs-1163
+inara_url: https://inara.cz/elite/minorfaction/?search=Operation%20Wych-Hunt
 ---
+
 
 <!-- AUTO-GENERATED -->
 

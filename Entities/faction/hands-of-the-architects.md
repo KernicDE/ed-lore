@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - jaques-station
 - liberal-party
+inara_url: https://inara.cz/elite/minorfaction/?search=Hands%20of%20the%20Architects
 ---
+
 
 <!-- AUTO-GENERATED -->
 

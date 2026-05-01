@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - chamash-foods
 - chamas
+inara_url: https://inara.cz/elite/minorfaction/?search=Fortunes%20Corsairs
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-01-11'
 last_seen_date: '3307-03-24'
 mention_count: 7
+inara_url: https://inara.cz/elite/cmdr-search/?search=President%20Zachary%20Hudson
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - watson-settlement
 - new-galactic-cooperative-of-worlds
 - federal-navy
+inara_url: https://inara.cz/elite/minorfaction/?search=Neits%20Jet%20Life%20Ltd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

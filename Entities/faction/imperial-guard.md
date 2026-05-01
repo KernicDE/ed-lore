@@ -11,7 +11,9 @@ related_entities:
 - achenar
 - imperial-naval-infantry
 - imperial-senate
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Guard
 ---
+
 
 <!-- AUTO-GENERATED -->
 

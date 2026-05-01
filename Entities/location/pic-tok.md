@@ -11,7 +11,21 @@ related_entities:
 - harma
 - rhea
 - warkushanui
+coords:
+  x: -81.46875
+  y: -22.875
+  z: -160.84375
+allegiance: Independent
+government: Democracy
+controlling_faction: Sirius Inc
+population: 2592
+security: Low
+economy: Extraction
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Pic%20Tok
+inara_url: https://inara.cz/elite/starsystem/?search=Pic%20Tok
 ---
+
 
 <!-- AUTO-GENERATED -->
 

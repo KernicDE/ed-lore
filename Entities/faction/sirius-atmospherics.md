@@ -11,7 +11,9 @@ related_entities:
 - marlinist-colonies
 - coalsack-nebula
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Sirius%20Atmospherics
 ---
+
 
 <!-- AUTO-GENERATED -->
 

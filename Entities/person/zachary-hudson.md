@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-03-16'
 last_seen_date: '3310-10-31'
 mention_count: 152
+inara_url: https://inara.cz/elite/cmdr-search/?search=Zachary%20Hudson
 ---
+
 
 <!-- AUTO-GENERATED -->
 

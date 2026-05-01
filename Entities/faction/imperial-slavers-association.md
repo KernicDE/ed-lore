@@ -11,7 +11,9 @@ related_entities:
 - aislings-angels
 - future-of-synteini
 - william-sargent-vision
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Slavers%20Association
 ---
+
 
 <!-- AUTO-GENERATED -->
 

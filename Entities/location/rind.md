@@ -11,7 +11,21 @@ related_entities:
 - achenar
 - inra
 - angeli-imperial-enterprises
+coords:
+  x: 77.875
+  y: -79.90625
+  z: 35.9375
+allegiance: Empire
+government: Corporate
+controlling_faction: Daily Routine Incorporated
+population: 2076876040
+security: Medium
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Rind
+inara_url: https://inara.cz/elite/starsystem/?search=Rind
 ---
+
 
 <!-- AUTO-GENERATED -->
 

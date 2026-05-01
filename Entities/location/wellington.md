@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - alliance-expeditionary-pact
 - witch-head-nebula
+coords:
+  x: 386.15625
+  y: -390.75
+  z: -692.53125
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Expeditionary Pact
+population: 494644
+security: High
+economy: Refinery
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Wellington
+inara_url: https://inara.cz/elite/starsystem/?search=Wellington
 ---
+
 
 <!-- AUTO-GENERATED -->
 

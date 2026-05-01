@@ -11,7 +11,9 @@ related_entities:
 - los
 - asura
 - tir
+inara_url: https://inara.cz/elite/minorfaction/?search=Kraken%20Shield%20Specialists
 ---
+
 
 <!-- AUTO-GENERATED -->
 

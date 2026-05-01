@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-11-05'
 last_seen_date: '3302-11-05'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Asp%20Scout
 ---
+
 
 <!-- AUTO-GENERATED -->
 

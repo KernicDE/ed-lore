@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-09-22'
 last_seen_date: '3301-09-22'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Adric%20Claavis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

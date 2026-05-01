@@ -11,7 +11,21 @@ related_entities:
 - aegis
 - alliance
 - privateers-alliance
+coords:
+  x: 21.03125
+  y: -12.5625
+  z: 65.5
+allegiance: Independent
+government: Dictatorship
+controlling_faction: EG Union
+population: 14271466281
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Lambda%20Arae
+inara_url: https://inara.cz/elite/starsystem/?search=Lambda%20Arae
 ---
+
 
 <!-- AUTO-GENERATED -->
 

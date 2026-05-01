@@ -11,7 +11,21 @@ related_entities:
 - namarii
 - tabaldak
 - ltt-874
+coords:
+  x: 92.40625
+  y: -151.46875
+  z: 28.71875
+allegiance: Empire
+government: Patronage
+controlling_faction: Silver Hunter Order
+population: 434780
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Svari
+inara_url: https://inara.cz/elite/starsystem/?search=Svari
 ---
+
 
 <!-- AUTO-GENERATED -->
 

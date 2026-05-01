@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-09-03'
 last_seen_date: '3301-09-18'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Chase%20Fulbright
 ---
+
 
 <!-- AUTO-GENERATED -->
 

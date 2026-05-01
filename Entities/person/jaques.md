@@ -3,17 +3,19 @@ id: jaques
 name: Jaques
 type: person
 aliases:
-  - Jaques the Cyborg
-  - The Cyborg Barman
+- Jaques the Cyborg
+- The Cyborg Barman
 affiliation: Independent
 status: active
-first_seen: "3301-02-12"
-last_seen: "3301-02-19"
+first_seen: '3301-02-12'
+last_seen: '3301-02-19'
 article_count: 2
 related_entities: []
 arcs:
-  - jaques-wandering
+- jaques-wandering
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jaques
 ---
+
 
 # Jaques
 

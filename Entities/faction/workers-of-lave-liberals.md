@@ -11,7 +11,9 @@ related_entities:
 - pro-alliance-league
 - reorte
 - lave
+inara_url: https://inara.cz/elite/minorfaction/?search=Workers%20of%20Lave%20Liberals
 ---
+
 
 <!-- AUTO-GENERATED -->
 

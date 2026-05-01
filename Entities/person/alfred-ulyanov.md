@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-06-16'
 last_seen_date: '3309-08-04'
 mention_count: 25
+inara_url: https://inara.cz/elite/cmdr-search/?search=Alfred%20Ulyanov
 ---
+
 
 <!-- AUTO-GENERATED -->
 

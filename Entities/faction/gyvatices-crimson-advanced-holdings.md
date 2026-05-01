@@ -9,7 +9,9 @@ related_entities:
 - gyvatices
 - walter-dock
 - wonderful-walters-fish-and-coffee-emporium
+inara_url: https://inara.cz/elite/minorfaction/?search=Gyvatices%20Crimson%20Advanced%20Holdings
 ---
+
 
 <!-- AUTO-GENERATED -->
 

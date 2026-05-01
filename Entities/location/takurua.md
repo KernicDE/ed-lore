@@ -11,7 +11,21 @@ related_entities:
 - lorens-legion
 - communism-interstellar
 - black-birds-squadron
+coords:
+  x: -253.8125
+  y: -4.0625
+  z: -254.1875
+allegiance: Independent
+government: Corporate
+controlling_faction: Sirius Corporation
+population: 423373
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Takurua
+inara_url: https://inara.cz/elite/starsystem/?search=Takurua
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3307-06-15'
 last_seen_date: '3307-06-24'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Engineered%20Detailed%20Surface%20Scanner%20V1
 ---
+
 
 <!-- AUTO-GENERATED -->
 

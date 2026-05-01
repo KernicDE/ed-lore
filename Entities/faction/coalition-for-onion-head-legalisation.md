@@ -11,7 +11,9 @@ related_entities:
 - scythe-of-panem
 - kappa-fornacis
 - panem
+inara_url: https://inara.cz/elite/minorfaction/?search=Coalition%20for%20Onion%20Head%20Legalisation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

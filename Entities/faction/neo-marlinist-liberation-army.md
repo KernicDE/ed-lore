@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - achenar
 - marlinist
+inara_url: https://inara.cz/elite/minorfaction/?search=Neo-Marlinist%20Liberation%20Army
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - sirius-corporation
 - vox-galactica
 - alici
+inara_url: https://inara.cz/elite/minorfaction/?search=Coalition%20for%20Legalisation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,9 @@ related_entities:
 - mehet
 - schwann-dock
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Mehet%20Ltd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

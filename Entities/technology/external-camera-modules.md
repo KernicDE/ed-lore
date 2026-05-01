@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-01-29'
 last_seen_date: '3311-01-29'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=External%20Camera%20Modules
 ---
+
 
 <!-- AUTO-GENERATED -->
 

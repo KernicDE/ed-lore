@@ -11,7 +11,9 @@ related_entities:
 - fuel-rats-mischief
 - jaques-station
 - beagle-point
+inara_url: https://inara.cz/elite/minorfaction/?search=Fuel%20Rats
 ---
+
 
 <!-- AUTO-GENERATED -->
 

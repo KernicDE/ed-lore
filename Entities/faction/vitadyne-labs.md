@@ -11,7 +11,9 @@ related_entities:
 - neomedical-industries
 - vandermeer-corporation
 - nova-imperium
+inara_url: https://inara.cz/elite/minorfaction/?search=Vitadyne%20Labs
 ---
+
 
 <!-- AUTO-GENERATED -->
 

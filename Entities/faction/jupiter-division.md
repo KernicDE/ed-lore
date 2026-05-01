@@ -11,7 +11,9 @@ related_entities:
 - victorys-forge-megaship
 - vox-galactica
 - silver-legal-group
+inara_url: https://inara.cz/elite/minorfaction/?search=Jupiter%20Division
 ---
+
 
 <!-- AUTO-GENERATED -->
 

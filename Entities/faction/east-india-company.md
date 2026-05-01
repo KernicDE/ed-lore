@@ -11,7 +11,9 @@ related_entities:
 - kappa-fornacis
 - citizens-of-tradition
 - polahukuna-raiders
+inara_url: https://inara.cz/elite/minorfaction/?search=East%20India%20Company
 ---
+
 
 <!-- AUTO-GENERATED -->
 

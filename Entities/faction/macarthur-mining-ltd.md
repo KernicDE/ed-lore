@@ -11,7 +11,9 @@ related_entities:
 - federal-intelligence-agency
 - aegis
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=MacArthur%20Mining%20Ltd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

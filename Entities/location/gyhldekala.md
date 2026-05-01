@@ -11,7 +11,21 @@ related_entities:
 - nauo
 - boga
 - kpaniya
+coords:
+  x: -3.21875
+  y: -19.59375
+  z: 142.65625
+allegiance: Empire
+government: Patronage
+controlling_faction: The Dark Armada
+population: 8794
+security: Low
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Gyhldekala
+inara_url: https://inara.cz/elite/starsystem/?search=Gyhldekala
 ---
+
 
 <!-- AUTO-GENERATED -->
 

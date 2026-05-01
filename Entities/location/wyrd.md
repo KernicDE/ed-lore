@@ -11,7 +11,21 @@ related_entities:
 - federal-security-service
 - federal-times
 - wyrd-jet-power-industries
+coords:
+  x: -11.625
+  y: 31.53125
+  z: -3.9375
+allegiance: Independent
+government: Corporate
+controlling_faction: New Pilots Initiative
+population: 27519138
+security: Medium
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Wyrd
+inara_url: https://inara.cz/elite/starsystem/?search=Wyrd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

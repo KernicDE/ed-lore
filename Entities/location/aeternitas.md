@@ -11,7 +11,21 @@ related_entities:
 - inra
 - league-of-reparation
 - federal-intelligence-agency
+coords:
+  x: -1.5
+  y: -14.65625
+  z: 56.875
+allegiance: Independent
+government: Dictatorship
+controlling_faction: EG Union
+population: 18561459277
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Aeternitas
+inara_url: https://inara.cz/elite/starsystem/?search=Aeternitas
 ---
+
 
 <!-- AUTO-GENERATED -->
 

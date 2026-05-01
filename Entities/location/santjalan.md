@@ -11,7 +11,21 @@ related_entities:
 - maheou-ti
 - ochoeng
 - newton-dock-medical
+coords:
+  x: -27.09375
+  y: 32.3125
+  z: 106.0625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 10707133
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Santjalan
+inara_url: https://inara.cz/elite/starsystem/?search=Santjalan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-09-23'
 last_seen_date: '3303-05-04'
 mention_count: 6
+inara_url: https://inara.cz/elite/cmdr-search/?search=Raan%20Corsen
 ---
+
 
 <!-- AUTO-GENERATED -->
 

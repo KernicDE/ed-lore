@@ -7,7 +7,9 @@ last_seen_date: '3301-08-09'
 mention_count: 1
 related_entities:
 - tulill
+inara_url: https://inara.cz/elite/minorfaction/?search=Russell%20Networks
 ---
+
 
 <!-- AUTO-GENERATED -->
 

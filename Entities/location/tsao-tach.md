@@ -11,7 +11,21 @@ related_entities:
 - victorys-forge-megaship
 - silver-legal-group
 - vox-galactica
+coords:
+  x: 112.25
+  y: 66.65625
+  z: 20.6875
+allegiance: Federation
+government: Corporate
+controlling_faction: Silver Legal Group
+population: 69053
+security: Low
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Ts'ao%20Tach
+inara_url: https://inara.cz/elite/starsystem/?search=Ts'ao%20Tach
 ---
+
 
 <!-- AUTO-GENERATED -->
 

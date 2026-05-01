@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-07-29'
 last_seen_date: '3302-04-23'
 mention_count: 9
+inara_url: https://inara.cz/elite/cmdr-search/?search=Nigel%20Smeaton
 ---
+
 
 <!-- AUTO-GENERATED -->
 

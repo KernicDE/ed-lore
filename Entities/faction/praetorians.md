@@ -11,7 +11,9 @@ related_entities:
 - mundjiga-system
 - sagan-port
 - prism
+inara_url: https://inara.cz/elite/minorfaction/?search=Praetorians
 ---
+
 
 <!-- AUTO-GENERATED -->
 

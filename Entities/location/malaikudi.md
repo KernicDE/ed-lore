@@ -10,7 +10,21 @@ related_entities:
 - leopold-heckmann-ring
 - parutis
 - evans-port
+coords:
+  x: 97.75
+  y: -41.15625
+  z: -51
+allegiance: Empire
+government: Patronage
+controlling_faction: The 9th Legion
+population: 2612461
+security: High
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Malaikudi
+inara_url: https://inara.cz/elite/starsystem/?search=Malaikudi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

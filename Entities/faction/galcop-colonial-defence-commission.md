@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - ogmar
 - dervish-platform
+inara_url: https://inara.cz/elite/minorfaction/?search=GalCop%20Colonial%20Defence%20Commission
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - council-of-admirals
 - sol
 - ridley-scott
+inara_url: https://inara.cz/elite/minorfaction/?search=Silver%20United%20Solutions
 ---
+
 
 <!-- AUTO-GENERATED -->
 

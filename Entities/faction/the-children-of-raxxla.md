@@ -9,7 +9,9 @@ related_entities:
 - federation
 - sereborv-terminal
 - hr-6421
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Children%20of%20Raxxla
 ---
+
 
 <!-- AUTO-GENERATED -->
 

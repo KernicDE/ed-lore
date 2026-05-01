@@ -11,7 +11,9 @@ related_entities:
 - california-nebula
 - lp-128-32
 - bulychev-hub
+inara_url: https://inara.cz/elite/minorfaction/?search=LP%20128-32%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

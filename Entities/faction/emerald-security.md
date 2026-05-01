@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - cemiess
 - emerald
+inara_url: https://inara.cz/elite/minorfaction/?search=Emerald%20Security
 ---
+
 
 <!-- AUTO-GENERATED -->
 

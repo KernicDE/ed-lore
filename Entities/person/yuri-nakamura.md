@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3303-04-08'
 last_seen_date: '3303-05-04'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Yuri%20Nakamura
 ---
+
 
 <!-- AUTO-GENERATED -->
 

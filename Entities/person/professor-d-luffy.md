@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-11-26'
 last_seen_date: '3302-04-22'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Professor%20D%20Luffy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

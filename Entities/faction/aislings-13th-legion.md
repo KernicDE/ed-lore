@@ -11,7 +11,9 @@ related_entities:
 - ugain
 - winters-wolves
 - smoot-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Aisling%27s%2013th%20Legion
 ---
+
 
 <!-- AUTO-GENERATED -->
 

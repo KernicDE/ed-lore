@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - emerald
 - imperial-senate
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Palace
 ---
+
 
 <!-- AUTO-GENERATED -->
 

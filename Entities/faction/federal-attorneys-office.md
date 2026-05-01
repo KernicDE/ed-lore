@@ -11,7 +11,9 @@ related_entities:
 - azimuth-biotech
 - t-tauri
 - hind-mine
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Attorney%27s%20Office
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -10,7 +10,9 @@ related_entities:
 - holloway-bioscience-institute
 - hip-22460
 - olympus-village
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Science%20Academy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

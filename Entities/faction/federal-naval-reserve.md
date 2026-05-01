@@ -7,7 +7,9 @@ last_seen_date: '3302-07-09'
 mention_count: 1
 related_entities:
 - federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Naval%20Reserve
 ---
+
 
 <!-- AUTO-GENERATED -->
 

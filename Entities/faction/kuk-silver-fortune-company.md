@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - kaal
 - vercors-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Kuk%20Silver%20Fortune%20Company
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3303-08-05'
 last_seen_date: '3311-06-03'
 mention_count: 93
+inara_url: https://inara.cz/elite/cmdr-search/?search=Alba%20Tesreau
 ---
+
 
 <!-- AUTO-GENERATED -->
 

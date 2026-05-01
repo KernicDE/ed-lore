@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-03-11'
 last_seen_date: '3301-03-11'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Federal%20Fighters
 ---
+
 
 <!-- AUTO-GENERATED -->
 

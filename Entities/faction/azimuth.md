@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - alliance
 - bright-sentinel
+inara_url: https://inara.cz/elite/minorfaction/?search=Azimuth
 ---
+
 
 <!-- AUTO-GENERATED -->
 

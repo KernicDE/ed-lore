@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-03-20'
 last_seen_date: '3301-03-20'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Nightwulf
 ---
+
 
 <!-- AUTO-GENERATED -->
 

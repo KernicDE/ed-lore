@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - children-of-raxxla
 - eotienses
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20security%20forces
 ---
+
 
 <!-- AUTO-GENERATED -->
 

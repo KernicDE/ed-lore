@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-10-13'
 last_seen_date: '3301-10-13'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Vulture
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - hip-22460
 - pilots-federation
 - benningtons-rest
+coords:
+  x: -11.5625
+  y: -15.40625
+  z: -181.09375
+allegiance: Independent
+government: Corporate
+controlling_faction: SI Terraforming
+population: 5061013
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Chun%20Pindit
+inara_url: https://inara.cz/elite/starsystem/?search=Chun%20Pindit
 ---
+
 
 <!-- AUTO-GENERATED -->
 

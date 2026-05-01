@@ -11,7 +11,21 @@ related_entities:
 - utopia
 - nunus
 - varka
+coords:
+  x: -129.0625
+  y: -12.84375
+  z: -18
+allegiance: Independent
+government: Cooperative
+controlling_faction: Aseveljet
+population: 6184829
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ewah
+inara_url: https://inara.cz/elite/starsystem/?search=Ewah
 ---
+
 
 <!-- AUTO-GENERATED -->
 

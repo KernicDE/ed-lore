@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-06-02'
 last_seen_date: '3308-06-09'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Captain%20Jonathon%20Forester
 ---
+
 
 <!-- AUTO-GENERATED -->
 

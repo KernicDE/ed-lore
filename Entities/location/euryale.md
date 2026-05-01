@@ -11,7 +11,21 @@ related_entities:
 - united-research-council
 - clayakarma
 - nauo
+coords:
+  x: 35.375
+  y: -68.96875
+  z: 24.8125
+allegiance: Independent
+government: Dictatorship
+controlling_faction: EG Union
+population: 640082
+security: Medium
+economy: High Tech
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Euryale
+inara_url: https://inara.cz/elite/starsystem/?search=Euryale
 ---
+
 
 <!-- AUTO-GENERATED -->
 

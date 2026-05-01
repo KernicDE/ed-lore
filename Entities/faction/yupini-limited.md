@@ -9,7 +9,9 @@ related_entities:
 - imperial-navy
 - nova-imperium
 - paresa
+inara_url: https://inara.cz/elite/minorfaction/?search=Yupini%20Limited
 ---
+
 
 <!-- AUTO-GENERATED -->
 

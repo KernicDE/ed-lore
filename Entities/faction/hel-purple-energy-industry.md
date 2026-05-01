@@ -9,7 +9,9 @@ related_entities:
 - snow-moon
 - bento
 - hel
+inara_url: https://inara.cz/elite/minorfaction/?search=Hel%20Purple%20Energy%20Industry
 ---
+
 
 <!-- AUTO-GENERATED -->
 

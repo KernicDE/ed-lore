@@ -11,7 +11,9 @@ related_entities:
 - social-falisci-partnership
 - social-falisci-partnership-party
 - ngaiawang
+inara_url: https://inara.cz/elite/minorfaction/?search=Falisci%20Purple%20Gang
 ---
+
 
 <!-- AUTO-GENERATED -->
 

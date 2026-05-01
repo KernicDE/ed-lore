@@ -10,7 +10,9 @@ related_entities:
 - j-g-ballard-gateway
 - citizen-party-of-g146-60
 - workers-party-of-g-176-29
+inara_url: https://inara.cz/elite/minorfaction/?search=Graill%20Redd%20Liberals
 ---
+
 
 <!-- AUTO-GENERATED -->
 

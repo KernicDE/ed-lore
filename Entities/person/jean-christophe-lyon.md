@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-09-06'
 last_seen_date: '3307-11-17'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jean-Christophe%20Lyon
 ---
+
 
 <!-- AUTO-GENERATED -->
 

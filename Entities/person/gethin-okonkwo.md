@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-05-19'
 last_seen_date: '3304-12-22'
 mention_count: 16
+inara_url: https://inara.cz/elite/cmdr-search/?search=Gethin%20Okonkwo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

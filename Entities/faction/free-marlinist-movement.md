@@ -11,7 +11,9 @@ related_entities:
 - nmla
 - marlinism-reformation-party
 - achenar
+inara_url: https://inara.cz/elite/minorfaction/?search=Free%20Marlinist%20Movement
 ---
+
 
 <!-- AUTO-GENERATED -->
 

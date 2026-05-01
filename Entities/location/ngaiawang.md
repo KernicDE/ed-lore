@@ -11,7 +11,21 @@ related_entities:
 - dornier-terminal
 - dongzi
 - federal-navy
+coords:
+  x: 62.375
+  y: -89.90625
+  z: -13
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Order of Mobius
+population: 23001240
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ngaiawang
+inara_url: https://inara.cz/elite/starsystem/?search=Ngaiawang
 ---
+
 
 <!-- AUTO-GENERATED -->
 

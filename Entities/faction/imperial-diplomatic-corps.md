@@ -11,7 +11,9 @@ related_entities:
 - marlinist-parliament
 - nmla
 - imperial-senate
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Diplomatic%20Corps
 ---
+
 
 <!-- AUTO-GENERATED -->
 

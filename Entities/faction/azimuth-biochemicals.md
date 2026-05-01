@@ -11,7 +11,9 @@ related_entities:
 - perseus-dark-region-kc-v-c2-2
 - alliance
 - salvation
+inara_url: https://inara.cz/elite/minorfaction/?search=Azimuth%20Biochemicals
 ---
+
 
 <!-- AUTO-GENERATED -->
 

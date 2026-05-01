@@ -11,7 +11,21 @@ related_entities:
 - upaniklis
 - geras
 - uszaa
+coords:
+  x: -12.09375
+  y: -16
+  z: -14.21875
+allegiance: Independent
+government: Cooperative
+controlling_faction: Hutton Orbital Truckers Co-Operative
+population: 3910114
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=George%20Pantazis
+inara_url: https://inara.cz/elite/starsystem/?search=George%20Pantazis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

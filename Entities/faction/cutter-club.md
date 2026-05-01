@@ -10,7 +10,9 @@ related_entities:
 - kalana
 - moore-prospect
 - mu-koji
+inara_url: https://inara.cz/elite/minorfaction/?search=Cutter%20Club
 ---
+
 
 <!-- AUTO-GENERATED -->
 

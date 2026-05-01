@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-02-25'
 last_seen_date: '3307-03-18'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Nearby
 ---
+
 
 <!-- AUTO-GENERATED -->
 

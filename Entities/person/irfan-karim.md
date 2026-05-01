@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3306-12-01'
 last_seen_date: '3311-06-05'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Irfan%20Karim
 ---
+
 
 <!-- AUTO-GENERATED -->
 

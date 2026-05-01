@@ -11,7 +11,9 @@ related_entities:
 - luca
 - panem
 - cassie-l-peia
+inara_url: https://inara.cz/elite/minorfaction/?search=Tanmark%20Posse
 ---
+
 
 <!-- AUTO-GENERATED -->
 

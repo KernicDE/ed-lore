@@ -10,7 +10,9 @@ related_entities:
 - birmingham
 - alliance
 - shifnalport
+inara_url: https://inara.cz/elite/minorfaction/?search=Green%20Party%20of%20Diso
 ---
+
 
 <!-- AUTO-GENERATED -->
 

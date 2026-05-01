@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-09-18'
 last_seen_date: '3302-03-16'
 mention_count: 7
+inara_url: https://inara.cz/elite/cmdr-search/?search=Damon%20Clarke
 ---
+
 
 <!-- AUTO-GENERATED -->
 

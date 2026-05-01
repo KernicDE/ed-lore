@@ -11,7 +11,9 @@ related_entities:
 - sol
 - league-of-reparation
 - lave-radio-network
+inara_url: https://inara.cz/elite/minorfaction/?search=Universal%20Liberty
 ---
+
 
 <!-- AUTO-GENERATED -->
 

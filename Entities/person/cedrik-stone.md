@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-05-09'
 last_seen_date: '3305-05-30'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Cedrik%20Stone
 ---
+
 
 <!-- AUTO-GENERATED -->
 

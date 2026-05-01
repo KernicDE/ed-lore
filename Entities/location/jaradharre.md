@@ -11,7 +11,21 @@ related_entities:
 - alliance-elite-diplomatic-corps
 - border-coalition
 - galcop
+coords:
+  x: 39.53125
+  y: 21.28125
+  z: 56.625
+allegiance: Independent
+government: Corporate
+controlling_faction: Jaradharre Gold Netcoms Services
+population: 17015448
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Jaradharre
+inara_url: https://inara.cz/elite/starsystem/?search=Jaradharre
 ---
+
 
 <!-- AUTO-GENERATED -->
 

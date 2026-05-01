@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - federal-navy
 - brightlight-training-corporation
+coords:
+  x: 37.1875
+  y: -34.71875
+  z: 25.84375
+allegiance: Independent
+government: Anarchy
+controlling_faction: Clan of Hors
+population: 121533
+security: Anarchy
+economy: High Tech
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Hors
+inara_url: https://inara.cz/elite/starsystem/?search=Hors
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - bacon-cats
 - kumo-crew
 - sirius-corporation
+coords:
+  x: 35.96875
+  y: 5.1875
+  z: 1.3125
+allegiance: Federation
+government: Corporate
+controlling_faction: Minutemen
+population: 34220521
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Carnoeck
+inara_url: https://inara.cz/elite/starsystem/?search=Carnoeck
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - pioneers-cooperative
 - utopia
 - communism-interstellar
+inara_url: https://inara.cz/elite/minorfaction/?search=Loren%27s%20Legion
 ---
+
 
 <!-- AUTO-GENERATED -->
 

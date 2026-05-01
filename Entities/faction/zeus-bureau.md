@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - katherineb
 - zeus
+inara_url: https://inara.cz/elite/minorfaction/?search=Zeus%20Bureau
 ---
+
 
 <!-- AUTO-GENERATED -->
 

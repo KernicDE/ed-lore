@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - secoya-emperors-grace
 - joy-port
+coords:
+  x: 64.3125
+  y: -63.625
+  z: 62.375
+allegiance: Independent
+government: Dictatorship
+controlling_faction: The Sovereign Justice Collective
+population: 3338260230
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Secoya
+inara_url: https://inara.cz/elite/starsystem/?search=Secoya
 ---
+
 
 <!-- AUTO-GENERATED -->
 

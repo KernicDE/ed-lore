@@ -11,7 +11,9 @@ related_entities:
 - kumo-crew
 - california-sector-bv-y-c7
 - darwin-research-facility
+inara_url: https://inara.cz/elite/minorfaction/?search=Turner%20Research%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

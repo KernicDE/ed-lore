@@ -11,7 +11,9 @@ related_entities:
 - sirius-finance
 - better-green-developments
 - roach-investment-banking
+inara_url: https://inara.cz/elite/minorfaction/?search=Worster%20Insurance
 ---
+
 
 <!-- AUTO-GENERATED -->
 

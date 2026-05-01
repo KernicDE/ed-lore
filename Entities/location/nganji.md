@@ -11,7 +11,21 @@ related_entities:
 - arawere
 - diaguandri
 - harma
+coords:
+  x: -24.59375
+  y: 36.84375
+  z: -132.09375
+allegiance: Independent
+government: Communism
+controlling_faction: Nagii Union
+population: 50244562
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Nganji
+inara_url: https://inara.cz/elite/starsystem/?search=Nganji
 ---
+
 
 <!-- AUTO-GENERATED -->
 

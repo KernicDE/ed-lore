@@ -11,7 +11,9 @@ related_entities:
 - federal-intelligence-agency
 - federal-security-service
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Times
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - lhs-4031
 - imperial-internal-security-service
 - nmla
+coords:
+  x: 101.03125
+  y: -64.84375
+  z: -13.875
+allegiance: Empire
+government: Patronage
+controlling_faction: Aegis Imperium
+population: 50148625
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Rabh
+inara_url: https://inara.cz/elite/starsystem/?search=Rabh
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - alliance-defence-force
 - council-of-admirals
 - alliance-tribune
+inara_url: https://inara.cz/elite/minorfaction/?search=Old%20Worlds%20Gazette
 ---
+
 
 <!-- AUTO-GENERATED -->
 

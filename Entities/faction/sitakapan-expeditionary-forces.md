@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - sitakapa
 - russell-hub
+inara_url: https://inara.cz/elite/minorfaction/?search=Sitakapan%20Expeditionary%20Forces
 ---
+
 
 <!-- AUTO-GENERATED -->
 

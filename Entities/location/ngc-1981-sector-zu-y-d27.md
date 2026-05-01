@@ -9,7 +9,21 @@ related_entities:
 - distant-worlds
 - deep-space-surveys
 - alrai
+coords:
+  x: 536.6875
+  y: -332.125
+  z: -1112.6875
+allegiance: Independent
+government: Democracy
+controlling_faction: Deep Space Surveys
+population: 255939229
+security: High
+economy: Industrial
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=NGC%201981%20Sector%20ZU-Y%20d27
+inara_url: https://inara.cz/elite/starsystem/?search=NGC%201981%20Sector%20ZU-Y%20d27
 ---
+
 
 <!-- AUTO-GENERATED -->
 

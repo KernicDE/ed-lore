@@ -9,7 +9,9 @@ related_entities:
 - federal-intelligence-agency
 - far-god-cult
 - rana
+inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Association%20of%20Universities
 ---
+
 
 <!-- AUTO-GENERATED -->
 

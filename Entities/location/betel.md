@@ -11,7 +11,21 @@ related_entities:
 - betel-security
 - carrier-enterprise
 - alliance
+coords:
+  x: 43
+  y: -4.0625
+  z: -79.65625
+allegiance: Independent
+government: Democracy
+controlling_faction: Flotta Stellare
+population: 396317
+security: Low
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Betel
+inara_url: https://inara.cz/elite/starsystem/?search=Betel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

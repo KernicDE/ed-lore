@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - zeus-bureau
 - katherineb
+coords:
+  x: 21.4375
+  y: -52.8125
+  z: -25.71875
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
+population: 209112
+security: Low
+economy: Extraction
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Zeus
+inara_url: https://inara.cz/elite/starsystem/?search=Zeus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

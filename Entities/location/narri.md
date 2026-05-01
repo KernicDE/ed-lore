@@ -11,7 +11,21 @@ related_entities:
 - bobko-city
 - aegis
 - iiss
+coords:
+  x: -63.15625
+  y: -80.9375
+  z: -23.125
+allegiance: Independent
+government: Corporate
+controlling_faction: Zentech Enterprises
+population: 4870963
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Narri
+inara_url: https://inara.cz/elite/starsystem/?search=Narri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-05-07'
 last_seen_date: '3310-10-31'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Python%20Mk%20II
 ---
+
 
 <!-- AUTO-GENERATED -->
 

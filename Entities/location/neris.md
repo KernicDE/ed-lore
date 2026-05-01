@@ -11,7 +11,21 @@ related_entities:
 - polevnic
 - hip-117972
 - hip-1389
+coords:
+  x: -111.625
+  y: -109.125
+  z: -55.71875
+allegiance: Independent
+government: Communism
+controlling_faction: Guardians of Harmony
+population: 17300081
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Neris
+inara_url: https://inara.cz/elite/starsystem/?search=Neris
 ---
+
 
 <!-- AUTO-GENERATED -->
 

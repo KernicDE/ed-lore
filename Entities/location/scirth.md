@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: 34.875
+  y: -98.15625
+  z: -69.59375
+allegiance: Independent
+government: Democracy
+controlling_faction: The Late Night Murder Hobos
+population: 10575148403
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Scirth
+inara_url: https://inara.cz/elite/starsystem/?search=Scirth
 ---
+
 
 <!-- AUTO-GENERATED -->
 

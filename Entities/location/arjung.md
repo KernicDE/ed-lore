@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: 15.53125
+  y: -100.1875
+  z: -87.28125
+allegiance: Empire
+government: Patronage
+controlling_faction: Arjung Imperial Society
+population: 23805656
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Arjung
+inara_url: https://inara.cz/elite/starsystem/?search=Arjung
 ---
+
 
 <!-- AUTO-GENERATED -->
 

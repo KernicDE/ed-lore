@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - uibuth-empire-party
 - darrest-station
+coords:
+  x: 140.8125
+  y: -192.96875
+  z: 131.1875
+allegiance: Independent
+government: Communism
+controlling_faction: Adamantine Union
+population: 205094
+security: Medium
+economy: Colony
+second_economy: Terraforming
+edsm_url: https://www.edsm.net/en/system?search=Uibuth
+inara_url: https://inara.cz/elite/starsystem/?search=Uibuth
 ---
+
 
 <!-- AUTO-GENERATED -->
 

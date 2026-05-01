@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3312-02-24'
 last_seen_date: '3312-03-12'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Mk%20II%20Plasma%20Shock%20Accelerator
 ---
+
 
 <!-- AUTO-GENERATED -->
 

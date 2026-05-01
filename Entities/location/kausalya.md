@@ -11,7 +11,21 @@ related_entities:
 - imperial-internal-security-service
 - dakshmandi
 - ipilyaqa
+coords:
+  x: 24.625
+  y: -39.34375
+  z: -18.40625
+allegiance: Empire
+government: Corporate
+controlling_faction: East India Company
+population: 603750583
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Kausalya
+inara_url: https://inara.cz/elite/starsystem/?search=Kausalya
 ---
+
 
 <!-- AUTO-GENERATED -->
 

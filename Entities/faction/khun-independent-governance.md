@@ -10,7 +10,9 @@ related_entities:
 - federal-times
 - khun
 - cremona-prospect
+inara_url: https://inara.cz/elite/minorfaction/?search=Khun%20Independent%20Governance
 ---
+
 
 <!-- AUTO-GENERATED -->
 

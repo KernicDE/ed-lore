@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3303-09-16'
 last_seen_date: '3303-10-14'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Thargoid%20Interceptor
 ---
+
 
 <!-- AUTO-GENERATED -->
 

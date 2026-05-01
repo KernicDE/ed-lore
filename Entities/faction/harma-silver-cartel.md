@@ -9,7 +9,9 @@ related_entities:
 - harma
 - gabriel-enterprise
 - earth
+inara_url: https://inara.cz/elite/minorfaction/?search=Harma%20Silver%20Cartel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

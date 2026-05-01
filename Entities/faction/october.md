@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - aegis
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=October
 ---
+
 
 <!-- AUTO-GENERATED -->
 

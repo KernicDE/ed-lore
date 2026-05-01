@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - traditional-wally-bei-constitution-party
 - wally-bei
+inara_url: https://inara.cz/elite/minorfaction/?search=Wally%20Bei%20Technical
 ---
+
 
 <!-- AUTO-GENERATED -->
 

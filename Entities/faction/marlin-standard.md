@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - federal-times
 - imperial-herald
+inara_url: https://inara.cz/elite/minorfaction/?search=Marlin%20Standard
 ---
+
 
 <!-- AUTO-GENERATED -->
 

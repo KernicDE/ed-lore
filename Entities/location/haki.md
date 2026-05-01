@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - alliance-expeditionary-pact
 - witch-head-nebula
+coords:
+  x: 388.0625
+  y: -395.03125
+  z: -705.125
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Expeditionary Pact
+population: 145825
+security: High
+economy: Agriculture
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Haki
+inara_url: https://inara.cz/elite/starsystem/?search=Haki
 ---
+
 
 <!-- AUTO-GENERATED -->
 

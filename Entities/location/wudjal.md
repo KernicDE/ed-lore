@@ -9,7 +9,21 @@ related_entities:
 - kumo-crew
 - imperial-navy
 - sol
+coords:
+  x: -71.09375
+  y: -36.0625
+  z: -5.90625
+allegiance: Independent
+government: Corporate
+controlling_faction: DaVinci Corp.
+population: 8566681805
+security: High
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Wudjal
+inara_url: https://inara.cz/elite/starsystem/?search=Wudjal
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - colonia-council
 - pilkington-orbital
+coords:
+  x: -9557.8125
+  y: -880.1875
+  z: 19801.5625
+allegiance: Independent
+government: Democracy
+controlling_faction: Likedeeler of Colonia
+population: 468662
+security: Medium
+economy: Service
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Einheriar
+inara_url: https://inara.cz/elite/starsystem/?search=Einheriar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

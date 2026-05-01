@@ -9,7 +9,21 @@ related_entities:
 - fort-dixon-security
 - vox-galactica
 - the-rewired
+coords:
+  x: -21.90625
+  y: 8.125
+  z: 9
+allegiance: Federation
+government: Democracy
+controlling_faction: Vega Independents
+population: 600017409
+security: High
+economy: Agriculture
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Vega
+inara_url: https://inara.cz/elite/starsystem/?search=Vega
 ---
+
 
 <!-- AUTO-GENERATED -->
 

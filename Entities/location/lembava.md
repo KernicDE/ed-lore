@@ -9,7 +9,21 @@ related_entities:
 - sirius-corporation
 - utopia
 - polevnic
+coords:
+  x: -43.25
+  y: -64.34375
+  z: -77.6875
+allegiance: Independent
+government: Corporate
+controlling_faction: Pikum Public Group
+population: 44070788
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Lembava
+inara_url: https://inara.cz/elite/starsystem/?search=Lembava
 ---
+
 
 <!-- AUTO-GENERATED -->
 

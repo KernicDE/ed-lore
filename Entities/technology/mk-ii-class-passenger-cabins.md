@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3312-04-28'
 last_seen_date: '3312-04-28'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Mk%20II%20Class%20Passenger%20Cabins
 ---
+
 
 <!-- AUTO-GENERATED -->
 

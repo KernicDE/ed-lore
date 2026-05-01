@@ -9,7 +9,21 @@ related_entities:
 - federal-intelligence-agency
 - children-of-tothos
 - archambault-terminal
+coords:
+  x: 108.21875
+  y: -11.28125
+  z: 60.78125
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Enforcement Division
+population: 380928446
+security: Medium
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Chun%20Tstar
+inara_url: https://inara.cz/elite/starsystem/?search=Chun%20Tstar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

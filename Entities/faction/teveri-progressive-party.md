@@ -11,7 +11,9 @@ related_entities:
 - lakon-spaceways
 - diso
 - lave
+inara_url: https://inara.cz/elite/minorfaction/?search=Teveri%20Progressive%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

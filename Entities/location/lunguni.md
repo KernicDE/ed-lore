@@ -11,7 +11,21 @@ related_entities:
 - hip-21559
 - irandan
 - pilots-federation
+coords:
+  x: -77.1875
+  y: -123.84375
+  z: -107.375
+allegiance: Independent
+government: Democracy
+controlling_faction: Knights of Isarian
+population: 3100401
+security: Medium
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Lunguni
+inara_url: https://inara.cz/elite/starsystem/?search=Lunguni
 ---
+
 
 <!-- AUTO-GENERATED -->
 

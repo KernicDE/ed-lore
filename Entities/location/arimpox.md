@@ -10,7 +10,21 @@ related_entities:
 - sirius-corporation
 - alioth
 - reorte
+coords:
+  x: -39.90625
+  y: 109.5625
+  z: 10.40625
+allegiance: Alliance
+government: Corporate
+controlling_faction: Razorback Astronautics
+population: 2118186970
+security: High
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Arimpox
+inara_url: https://inara.cz/elite/starsystem/?search=Arimpox
 ---
+
 
 <!-- AUTO-GENERATED -->
 

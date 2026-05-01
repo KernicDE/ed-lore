@@ -11,7 +11,9 @@ related_entities:
 - panem
 - kappa-fornacis
 - bd-18-394
+inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Autahenetsi%20Labour%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

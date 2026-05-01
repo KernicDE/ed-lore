@@ -11,7 +11,20 @@ related_entities:
 - hip-17225
 - hip-17692
 - hip-17892
+coords:
+  x: -88.8125
+  y: -148.71875
+  z: -321.1875
+allegiance: Independent
+government: Cooperative
+controlling_faction: Operation Ida
+population: 1200000
+security: Medium
+economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20KC-V%20c2-4
+inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20KC-V%20c2-4
 ---
+
 
 <!-- AUTO-GENERATED -->
 

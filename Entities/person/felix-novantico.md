@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-04-26'
 last_seen_date: '3305-01-10'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Felix%20Novantico
 ---
+
 
 <!-- AUTO-GENERATED -->
 

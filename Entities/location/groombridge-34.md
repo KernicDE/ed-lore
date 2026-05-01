@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - kruger-60-free
 - jones-estate
+coords:
+  x: -9.90625
+  y: -3.6875
+  z: -5.09375
+allegiance: Independent
+government: Feudal
+controlling_faction: Equestrian Naval Fleet
+population: 9521472
+security: Medium
+economy: High Tech
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Groombridge%2034
+inara_url: https://inara.cz/elite/starsystem/?search=Groombridge%2034
 ---
+
 
 <!-- AUTO-GENERATED -->
 

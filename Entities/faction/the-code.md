@@ -11,7 +11,9 @@ related_entities:
 - kumo-crew
 - harma
 - pioneers-cooperative
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Code
 ---
+
 
 <!-- AUTO-GENERATED -->
 

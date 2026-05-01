@@ -11,7 +11,9 @@ related_entities:
 - eotienses-silver-universal-plc
 - eotienses
 - kui-hsien
+inara_url: https://inara.cz/elite/minorfaction/?search=Conservatives%20of%20BV%20Phoenicis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,21 @@ related_entities:
 - zorgon-peterson
 - vespucci-city
 - brewer-corporation
+coords:
+  x: 97.3125
+  y: 51.625
+  z: 103.125
+allegiance: Independent
+government: Cooperative
+controlling_faction: Community of the Vault
+population: 4030983
+security: Low
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Aiaba
+inara_url: https://inara.cz/elite/starsystem/?search=Aiaba
 ---
+
 
 <!-- AUTO-GENERATED -->
 

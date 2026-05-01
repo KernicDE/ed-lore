@@ -11,7 +11,21 @@ related_entities:
 - kappa-fornacis
 - panem
 - tanmark
+coords:
+  x: 17.09375
+  y: 139.84375
+  z: -7.0625
+allegiance: Independent
+government: Corporate
+controlling_faction: Expanders Corp
+population: 183131396
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Aapelinja
+inara_url: https://inara.cz/elite/starsystem/?search=Aapelinja
 ---
+
 
 <!-- AUTO-GENERATED -->
 

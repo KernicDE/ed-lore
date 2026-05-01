@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-03-15'
 last_seen_date: '3305-03-15'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Aaron%20Salazar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

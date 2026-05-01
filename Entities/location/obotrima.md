@@ -10,7 +10,21 @@ related_entities:
 - chimechilo-empire-league
 - obotrima-organisation
 - federal-navy
+coords:
+  x: 24.1875
+  y: -67.53125
+  z: -0.6875
+allegiance: Independent
+government: Dictatorship
+controlling_faction: EG Union
+population: 89680350
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Obotrima
+inara_url: https://inara.cz/elite/starsystem/?search=Obotrima
 ---
+
 
 <!-- AUTO-GENERATED -->
 

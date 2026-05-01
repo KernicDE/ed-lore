@@ -11,7 +11,9 @@ related_entities:
 - utopia
 - munshin
 - comanga
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Slavers%20Associated
 ---
+
 
 <!-- AUTO-GENERATED -->
 

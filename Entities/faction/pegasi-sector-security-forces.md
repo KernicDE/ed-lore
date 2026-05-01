@@ -11,7 +11,9 @@ related_entities:
 - atlas-corporation
 - privateers-alliance
 - sol
+inara_url: https://inara.cz/elite/minorfaction/?search=Pegasi%20Sector%20security%20forces
 ---
+
 
 <!-- AUTO-GENERATED -->
 

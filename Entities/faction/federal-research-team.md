@@ -11,7 +11,9 @@ related_entities:
 - on-t-b3-2
 - on-t-b3-3
 - on-t-b3-4
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20research%20team
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,9 @@ related_entities:
 - imperial-navy
 - sagan-port
 - mundjiga-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Mundjiga%20Patrons%20of%20Law
 ---
+
 
 <!-- AUTO-GENERATED -->
 

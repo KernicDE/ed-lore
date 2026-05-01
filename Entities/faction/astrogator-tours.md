@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - the-sovereign
 - saud-kruger
+inara_url: https://inara.cz/elite/minorfaction/?search=Astrogator%20Tours
 ---
+
 
 <!-- AUTO-GENERATED -->
 

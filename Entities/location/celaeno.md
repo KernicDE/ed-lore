@@ -11,7 +11,21 @@ related_entities:
 - artemis-lodge
 - atlas
 - electra
+coords:
+  x: -81.09375
+  y: -148.3125
+  z: -337.09375
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 1200000
+security: Medium
+economy: Industrial
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Celaeno
+inara_url: https://inara.cz/elite/starsystem/?search=Celaeno
 ---
+
 
 <!-- AUTO-GENERATED -->
 

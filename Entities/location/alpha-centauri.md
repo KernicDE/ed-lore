@@ -11,7 +11,21 @@ related_entities:
 - hutton-orbital
 - eravate
 - almar
+coords:
+  x: 3.03125
+  y: -0.09375
+  z: 3.15625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Hutton Orbital Truckers Co-Operative
+population: 106811
+security: Medium
+economy: Extraction
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Alpha%20Centauri
+inara_url: https://inara.cz/elite/starsystem/?search=Alpha%20Centauri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

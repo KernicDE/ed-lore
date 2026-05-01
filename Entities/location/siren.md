@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - mars
 - sol
+coords:
+  x: 16.125
+  y: 22.28125
+  z: -77.375
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Civitas Dei
+population: 6011847740
+security: Medium
+economy: Agriculture
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Siren
+inara_url: https://inara.cz/elite/starsystem/?search=Siren
 ---
+
 
 <!-- AUTO-GENERATED -->
 

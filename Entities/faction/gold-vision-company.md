@@ -9,7 +9,9 @@ related_entities:
 - 8th-dragon-squadron
 - eta-draconis
 - swift-terminal
+inara_url: https://inara.cz/elite/minorfaction/?search=Gold%20Vision%20Company
 ---
+
 
 <!-- AUTO-GENERATED -->
 

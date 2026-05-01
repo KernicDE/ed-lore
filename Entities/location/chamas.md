@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - fortunes-corsairs
 - chamash-foods
+coords:
+  x: 79.28125
+  y: 40.25
+  z: 153.125
+allegiance: Independent
+government: Cooperative
+controlling_faction: Fortunes Corsairs
+population: 11751188
+security: Medium
+economy: Refinery
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Chamas
+inara_url: https://inara.cz/elite/starsystem/?search=Chamas
 ---
+
 
 <!-- AUTO-GENERATED -->
 

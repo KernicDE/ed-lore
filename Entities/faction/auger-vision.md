@@ -11,7 +11,9 @@ related_entities:
 - long-embedded-systems
 - lurp-ship-systems
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Auger%20Vision
 ---
+
 
 <!-- AUTO-GENERATED -->
 

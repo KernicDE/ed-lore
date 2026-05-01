@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-12-05'
 last_seen_date: '3311-06-18'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Titan%20Cocijo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

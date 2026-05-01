@@ -9,7 +9,21 @@ related_entities:
 - peoples-rakapila-progressive-party
 - stone-enterprise
 - supratech
+coords:
+  x: -14.90625
+  y: 33.625
+  z: 9.125
+allegiance: Independent
+government: Corporate
+controlling_faction: New Pilots Initiative
+population: 89080
+security: Medium
+economy: Industrial
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Rakapila
+inara_url: https://inara.cz/elite/starsystem/?search=Rakapila
 ---
+
 
 <!-- AUTO-GENERATED -->
 

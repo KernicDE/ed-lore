@@ -11,7 +11,21 @@ related_entities:
 - 39-tauri
 - delta-phoenicis
 - kappa-ophiuchi
+coords:
+  x: -123.875
+  y: -81.59375
+  z: 45.1875
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Buurian Protectorate
+population: 1647658
+security: Low
+economy: Industrial
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Kamorin
+inara_url: https://inara.cz/elite/starsystem/?search=Kamorin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

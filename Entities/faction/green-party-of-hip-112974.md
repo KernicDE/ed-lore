@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - hip-112974
 - la-cosa-city
+inara_url: https://inara.cz/elite/minorfaction/?search=Green%20Party%20of%20HIP%20112974
 ---
+
 
 <!-- AUTO-GENERATED -->
 

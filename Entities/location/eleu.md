@@ -11,7 +11,21 @@ related_entities:
 - newton-dock-medical
 - bd-02-4304
 - newton-dock
+coords:
+  x: -29.65625
+  y: 32.6875
+  z: 104.84375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 2053704512
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Eleu
+inara_url: https://inara.cz/elite/starsystem/?search=Eleu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - arawere
 - ltt-16548
 - san-muss
+coords:
+  x: -97.15625
+  y: -96.28125
+  z: 74.25
+allegiance: Independent
+government: Cooperative
+controlling_faction: 74 G. Aquarii allied
+population: 3834761
+security: Low
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Huaich
+inara_url: https://inara.cz/elite/starsystem/?search=Huaich
 ---
+
 
 <!-- AUTO-GENERATED -->
 

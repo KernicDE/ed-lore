@@ -11,7 +11,9 @@ related_entities:
 - godel-dock
 - stapledon-dock
 - summerland
+inara_url: https://inara.cz/elite/minorfaction/?search=Quivira%20Electronics%20Plc
 ---
+
 
 <!-- AUTO-GENERATED -->
 

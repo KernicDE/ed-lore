@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-09-14'
 last_seen_date: '3305-06-13'
 mention_count: 6
+inara_url: https://inara.cz/elite/cmdr-search/?search=Tashmira%20Silva
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - imperial-herald
 - core-dynamics
 - liberal-party
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Diplomatic%20Corps
 ---
+
 
 <!-- AUTO-GENERATED -->
 

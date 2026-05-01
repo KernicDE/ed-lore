@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - coalition-for-legalisation
 - vox-galactica
+coords:
+  x: -75.34375
+  y: -40.4375
+  z: -56.75
+allegiance: Independent
+government: Anarchy
+controlling_faction: Dragons of Nastrond
+population: 323342
+security: Anarchy
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Nastrond
+inara_url: https://inara.cz/elite/starsystem/?search=Nastrond
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - gyhldekala
 - boga
 - kpaniya
+coords:
+  x: -46.40625
+  y: 7.03125
+  z: 122.09375
+allegiance: Independent
+government: Communism
+controlling_faction: Interstellar Proletarian Vanguard
+population: 37279
+security: Low
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Nauo
+inara_url: https://inara.cz/elite/starsystem/?search=Nauo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

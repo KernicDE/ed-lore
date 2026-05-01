@@ -9,7 +9,9 @@ related_entities:
 - core-dynamics
 - guaras
 - klimuk-ring
+inara_url: https://inara.cz/elite/minorfaction/?search=Guaras%20Blue%20Creative%20Partners
 ---
+
 
 <!-- AUTO-GENERATED -->
 

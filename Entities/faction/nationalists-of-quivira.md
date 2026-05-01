@@ -11,7 +11,9 @@ related_entities:
 - quivira
 - godel-dock
 - brendan-gateway
+inara_url: https://inara.cz/elite/minorfaction/?search=Nationalists%20of%20Quivira
 ---
+
 
 <!-- AUTO-GENERATED -->
 

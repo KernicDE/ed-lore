@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-07-07'
 last_seen_date: '3302-07-07'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Valentina%20Tereshkova
 ---
+
 
 <!-- AUTO-GENERATED -->
 

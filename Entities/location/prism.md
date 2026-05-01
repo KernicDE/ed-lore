@@ -11,7 +11,21 @@ related_entities:
 - lorens-legion
 - achenar
 - sol
+coords:
+  x: -24.53125
+  y: -104
+  z: 52
+allegiance: Empire
+government: Patronage
+controlling_faction: Loren's Legion
+population: 80526
+security: Low
+economy: Colony
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Prism
+inara_url: https://inara.cz/elite/starsystem/?search=Prism
 ---
+
 
 <!-- AUTO-GENERATED -->
 

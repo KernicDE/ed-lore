@@ -11,7 +11,21 @@ related_entities:
 - gliese-972
 - col-285-sector-wa-l-b9-3
 - wredguia-sx-l-d7-92
+coords:
+  x: -139.4375
+  y: 7.46875
+  z: -108.53125
+allegiance: Independent
+government: Cooperative
+controlling_faction: PRYSM Organization
+population: 53706
+security: Medium
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=CAO%20Junga
+inara_url: https://inara.cz/elite/starsystem/?search=CAO%20Junga
 ---
+
 
 <!-- AUTO-GENERATED -->
 

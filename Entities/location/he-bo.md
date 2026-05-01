@@ -9,7 +9,21 @@ related_entities:
 - canonn
 - federal-navy
 - timocani
+coords:
+  x: -34.5
+  y: 69.28125
+  z: -14.71875
+allegiance: Alliance
+government: Corporate
+controlling_faction: Perez Ring Brewery
+population: 24383295269
+security: Medium
+economy: Agriculture
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=He%20Bo
+inara_url: https://inara.cz/elite/starsystem/?search=He%20Bo
 ---
+
 
 <!-- AUTO-GENERATED -->
 

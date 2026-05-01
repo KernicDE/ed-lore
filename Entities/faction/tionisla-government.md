@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - tionisla
 - tionisla-orbital-graveyard
+inara_url: https://inara.cz/elite/minorfaction/?search=Tionisla%20government
 ---
+
 
 <!-- AUTO-GENERATED -->
 

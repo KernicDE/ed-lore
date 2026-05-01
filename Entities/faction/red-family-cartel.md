@@ -10,7 +10,9 @@ related_entities:
 - olympus-village
 - sol
 - federal-times
+inara_url: https://inara.cz/elite/minorfaction/?search=Red%20Family%20Cartel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

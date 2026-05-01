@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - kumo-crew
 - interstellar-press
+coords:
+  x: -16.0625
+  y: -143.09375
+  z: 59.03125
+allegiance: Empire
+government: Feudal
+controlling_faction: Imperial Hegemony of Palaiologos
+population: 29524653
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Contiku
+inara_url: https://inara.cz/elite/starsystem/?search=Contiku
 ---
+
 
 <!-- AUTO-GENERATED -->
 

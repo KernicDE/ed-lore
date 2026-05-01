@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - cartoq-purple-major-organisation
 - avdeyev-settlement
+coords:
+  x: 45.625
+  y: 39.4375
+  z: 60.46875
+allegiance: Federation
+government: Corporate
+controlling_faction: Terra-EX Astro Corp
+population: 569899
+security: Medium
+economy: Military
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Cartoq
+inara_url: https://inara.cz/elite/starsystem/?search=Cartoq
 ---
+
 
 <!-- AUTO-GENERATED -->
 

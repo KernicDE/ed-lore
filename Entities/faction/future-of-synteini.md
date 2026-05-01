@@ -10,7 +10,9 @@ related_entities:
 - synteini
 - lagerkvist-gateway
 - william-sargent-vision
+inara_url: https://inara.cz/elite/minorfaction/?search=Future%20of%20Synteini
 ---
+
 
 <!-- AUTO-GENERATED -->
 

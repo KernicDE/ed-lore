@@ -11,7 +11,21 @@ related_entities:
 - league-of-zearla
 - sirsir-co
 - sirsir
+coords:
+  x: 26.15625
+  y: -52.9375
+  z: 31.625
+allegiance: Independent
+government: Corporate
+controlling_faction: SSL Interstellar PLC
+population: 6435599008
+security: High
+economy: Agriculture
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Zearla
+inara_url: https://inara.cz/elite/starsystem/?search=Zearla
 ---
+
 
 <!-- AUTO-GENERATED -->
 

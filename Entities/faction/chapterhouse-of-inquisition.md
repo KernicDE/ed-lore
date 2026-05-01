@@ -11,7 +11,9 @@ related_entities:
 - cemiess
 - prism
 - hawkins-gap
+inara_url: https://inara.cz/elite/minorfaction/?search=Chapterhouse%20of%20Inquisition
 ---
+
 
 <!-- AUTO-GENERATED -->
 

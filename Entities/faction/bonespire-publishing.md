@@ -11,7 +11,9 @@ related_entities:
 - alliance
 - inra
 - rewired
+inara_url: https://inara.cz/elite/minorfaction/?search=Bonespire%20Publishing
 ---
+
 
 <!-- AUTO-GENERATED -->
 

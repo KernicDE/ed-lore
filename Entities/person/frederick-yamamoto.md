@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-11-21'
 last_seen_date: '3305-06-21'
 mention_count: 8
+inara_url: https://inara.cz/elite/cmdr-search/?search=Frederick%20Yamamoto
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - federal-times
 - rackham-capital-investments
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Grand%20Lottery
 ---
+
 
 <!-- AUTO-GENERATED -->
 

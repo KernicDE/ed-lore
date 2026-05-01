@@ -11,7 +11,9 @@ related_entities:
 - volungu
 - liaedin
 - federal-navy
+inara_url: https://inara.cz/elite/minorfaction/?search=Blossom%20family
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - athena
 - darboux-orbital
 - slough-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Lomas%20Racing%20News
 ---
+
 
 <!-- AUTO-GENERATED -->
 

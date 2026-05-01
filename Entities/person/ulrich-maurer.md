@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3309-10-26'
 last_seen_date: '3309-11-01'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Ulrich%20Maurer
 ---
+
 
 <!-- AUTO-GENERATED -->
 

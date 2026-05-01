@@ -11,7 +11,21 @@ related_entities:
 - sirius
 - gutamaya
 - core-dynamics
+coords:
+  x: 4.3125
+  y: -1.0625
+  z: -27.90625
+allegiance: Federation
+government: Corporate
+controlling_faction: Earth Defense Fleet
+population: 27125644
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Chi%20Orionis
+inara_url: https://inara.cz/elite/starsystem/?search=Chi%20Orionis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

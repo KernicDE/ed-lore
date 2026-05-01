@@ -11,7 +11,9 @@ related_entities:
 - mars
 - sol
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Republican%20Association
 ---
+
 
 <!-- AUTO-GENERATED -->
 

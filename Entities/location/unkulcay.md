@@ -11,7 +11,21 @@ related_entities:
 - kanwar-horizons
 - 49-d-orionis
 - vasak
+coords:
+  x: 30.875
+  y: -56.84375
+  z: -103.46875
+allegiance: Independent
+government: Democracy
+controlling_faction: Galileo Corporation
+population: 5759616
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Unkulcay
+inara_url: https://inara.cz/elite/starsystem/?search=Unkulcay
 ---
+
 
 <!-- AUTO-GENERATED -->
 

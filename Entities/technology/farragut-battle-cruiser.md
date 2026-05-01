@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-06-18'
 last_seen_date: '3302-07-02'
 mention_count: 4
+inara_url: https://inara.cz/elite/commodity/?search=Farragut%20Battle%20Cruiser
 ---
+
 
 <!-- AUTO-GENERATED -->
 

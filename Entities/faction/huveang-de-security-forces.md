@@ -7,7 +7,9 @@ last_seen_date: '3304-03-17'
 mention_count: 1
 related_entities:
 - huveang-de
+inara_url: https://inara.cz/elite/minorfaction/?search=Huveang%20De%20security%20forces
 ---
+
 
 <!-- AUTO-GENERATED -->
 

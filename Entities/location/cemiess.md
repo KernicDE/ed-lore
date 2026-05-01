@@ -11,7 +11,21 @@ related_entities:
 - achenar
 - imperial-palace
 - alliance
+coords:
+  x: 66.0625
+  y: -105.34375
+  z: 27.09375
+allegiance: Empire
+government: Patronage
+controlling_faction: Lavigny's Legion
+population: 10000000000
+security: High
+economy: Refinery
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Cemiess
+inara_url: https://inara.cz/elite/starsystem/?search=Cemiess
 ---
+
 
 <!-- AUTO-GENERATED -->
 

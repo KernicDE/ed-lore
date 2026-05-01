@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-03-29'
 last_seen_date: '3307-07-15'
 mention_count: 8
+inara_url: https://inara.cz/elite/cmdr-search/?search=Lorcan%20Scordato
 ---
+
 
 <!-- AUTO-GENERATED -->
 

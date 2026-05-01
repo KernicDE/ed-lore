@@ -11,7 +11,9 @@ related_entities:
 - explorers-anchorage
 - sagittarius-a
 - beagle-point
+inara_url: https://inara.cz/elite/minorfaction/?search=Rock%20Rats
 ---
+
 
 <!-- AUTO-GENERATED -->
 

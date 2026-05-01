@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-01-10'
 last_seen_date: '3311-06-03'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Proteus%20Wave
 ---
+
 
 <!-- AUTO-GENERATED -->
 

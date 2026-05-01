@@ -9,7 +9,21 @@ related_entities:
 - laksmii-jet-power-industries
 - independents-of-parun
 - underwood-port
+coords:
+  x: -38.09375
+  y: -123.6875
+  z: -60.0625
+allegiance: Independent
+government: Patronage
+controlling_faction: LPV Corporation
+population: 3972743
+security: Medium
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Parun
+inara_url: https://inara.cz/elite/starsystem/?search=Parun
 ---
+
 
 <!-- AUTO-GENERATED -->
 

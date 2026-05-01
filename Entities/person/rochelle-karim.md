@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-02-08'
 last_seen_date: '3305-04-11'
 mention_count: 8
+inara_url: https://inara.cz/elite/cmdr-search/?search=Rochelle%20Karim
 ---
+
 
 <!-- AUTO-GENERATED -->
 

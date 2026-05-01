@@ -11,7 +11,21 @@ related_entities:
 - 160-soar
 - california-nebula
 - california-sector-ba-a-e6
+coords:
+  x: -39
+  y: -8.125
+  z: -87.75
+allegiance: Alliance
+government: Democracy
+controlling_faction: 160 S.O.A.R.
+population: 39062174
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Furuhjelm%20III-674
+inara_url: https://inara.cz/elite/starsystem/?search=Furuhjelm%20III-674
 ---
+
 
 <!-- AUTO-GENERATED -->
 

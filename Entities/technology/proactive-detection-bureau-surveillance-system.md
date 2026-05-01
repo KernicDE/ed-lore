@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3307-04-13'
 last_seen_date: '3307-07-30'
 mention_count: 9
+inara_url: https://inara.cz/elite/commodity/?search=Proactive%20Detection%20Bureau%20surveillance%20system
 ---
+
 
 <!-- AUTO-GENERATED -->
 

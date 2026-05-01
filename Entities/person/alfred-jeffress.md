@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-09-22'
 last_seen_date: '3302-03-29'
 mention_count: 7
+inara_url: https://inara.cz/elite/cmdr-search/?search=Alfred%20Jeffress
 ---
+
 
 <!-- AUTO-GENERATED -->
 

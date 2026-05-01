@@ -9,7 +9,21 @@ related_entities:
 - hel-purple-energy-industry
 - snow-moon
 - hel
+coords:
+  x: 16.46875
+  y: -31.0625
+  z: 1.46875
+allegiance: Federation
+government: Corporate
+controlling_faction: Earth Defense Fleet
+population: 150000000
+security: Medium
+economy: Agriculture
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Bento
+inara_url: https://inara.cz/elite/starsystem/?search=Bento
 ---
+
 
 <!-- AUTO-GENERATED -->
 

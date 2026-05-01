@@ -11,7 +11,21 @@ related_entities:
 - dakshmandi
 - imperial-internal-security-service
 - imperial-citizen
+coords:
+  x: 70.96875
+  y: -134.625
+  z: 53.1875
+allegiance: Empire
+government: Patronage
+controlling_faction: Likedeeler of Michel
+population: 13245059
+security: Medium
+economy: High Tech
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Ipilyaqa
+inara_url: https://inara.cz/elite/starsystem/?search=Ipilyaqa
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-07-13'
 last_seen_date: '3303-03-24'
 mention_count: 10
+inara_url: https://inara.cz/elite/cmdr-search/?search=Admiral%20Denton%20Patreus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

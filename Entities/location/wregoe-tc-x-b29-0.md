@@ -11,7 +11,14 @@ related_entities:
 - azimuth-biochemicals
 - alliance
 - hip-12314
+coords:
+  x: 160.28125
+  y: 137.59375
+  z: -421.875
+edsm_url: https://www.edsm.net/en/system?search=Wregoe%20TC-X%20b29-0
+inara_url: https://inara.cz/elite/starsystem/?search=Wregoe%20TC-X%20b29-0
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -7,7 +7,9 @@ last_seen_date: '3305-06-20'
 mention_count: 2
 related_entities:
 - shana-bei
+inara_url: https://inara.cz/elite/minorfaction/?search=Evangeline%27s%20Elite%20Expeditionary%20Force
 ---
+
 
 <!-- AUTO-GENERATED -->
 

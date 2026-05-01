@@ -11,7 +11,9 @@ related_entities:
 - sol
 - aegis
 - hip-22460
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Navy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

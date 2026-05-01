@@ -11,7 +11,21 @@ related_entities:
 - jang-di
 - sikorsky-orbital
 - dinkas
+coords:
+  x: 10.3125
+  y: -160.53125
+  z: 74.1875
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Winged Hussars
+population: 6255565619
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Kamcha
+inara_url: https://inara.cz/elite/starsystem/?search=Kamcha
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -10,7 +10,21 @@ related_entities:
 - united-sutekh-future
 - federation
 - archemides-gateway
+coords:
+  x: -29.53125
+  y: -50.78125
+  z: 3.125
+allegiance: Empire
+government: Corporate
+controlling_faction: Torval Mining Ltd
+population: 18086109
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Sutekh
+inara_url: https://inara.cz/elite/starsystem/?search=Sutekh
 ---
+
 
 <!-- AUTO-GENERATED -->
 

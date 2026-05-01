@@ -10,7 +10,21 @@ related_entities:
 - daikulcandi
 - gondul
 - santy
+coords:
+  x: 85.46875
+  y: -78.46875
+  z: 59.28125
+allegiance: Empire
+government: Dictatorship
+controlling_faction: United Bese Party
+population: 11674936
+security: High
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Maityan
+inara_url: https://inara.cz/elite/starsystem/?search=Maityan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

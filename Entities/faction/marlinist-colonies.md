@@ -11,7 +11,9 @@ related_entities:
 - marlinism-reformation-party
 - imperial-senate
 - marlinist-parliament
+inara_url: https://inara.cz/elite/minorfaction/?search=Marlinist%20Colonies
 ---
+
 
 <!-- AUTO-GENERATED -->
 

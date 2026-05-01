@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3309-10-05'
 last_seen_date: '3309-12-29'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=pulse%20wave%20xeno%20scanner
 ---
+
 
 <!-- AUTO-GENERATED -->
 

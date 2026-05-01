@@ -11,7 +11,21 @@ related_entities:
 - utopia
 - nunus
 - varka
+coords:
+  x: -7.3125
+  y: -20.28125
+  z: -50.90625
+allegiance: Independent
+government: Patronage
+controlling_faction: Quebecois Patriots
+population: 150000000
+security: Medium
+economy: Service
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=39%20Tauri
+inara_url: https://inara.cz/elite/starsystem/?search=39%20Tauri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-07-11'
 last_seen_date: '3302-07-11'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Kyrthak
 ---
+
 
 <!-- AUTO-GENERATED -->
 

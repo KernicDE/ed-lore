@@ -11,7 +11,21 @@ related_entities:
 - alliance-expeditionary-pact
 - witch-head-nebula
 - onoros
+coords:
+  x: 387.9375
+  y: -387.6875
+  z: -695.4375
+allegiance: Alliance
+government: Corporate
+controlling_faction: The Allied Commission
+population: 406500
+security: High
+economy: Extraction
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Yuanjia
+inara_url: https://inara.cz/elite/starsystem/?search=Yuanjia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

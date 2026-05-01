@@ -9,7 +9,9 @@ related_entities:
 - abroin
 - campbell-horizons
 - pleiades-nebula
+inara_url: https://inara.cz/elite/minorfaction/?search=Abroin%20Universal%20Plc
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - alliance
 - church-of-eternal-void
 - far-god-cult
+coords:
+  x: -30.71875
+  y: -49.6875
+  z: -113.8125
+allegiance: Independent
+government: Democracy
+controlling_faction: Cobra Wing
+population: 20519241
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Ebor
+inara_url: https://inara.cz/elite/starsystem/?search=Ebor
 ---
+
 
 <!-- AUTO-GENERATED -->
 

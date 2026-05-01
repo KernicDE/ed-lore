@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3312-01-08'
 last_seen_date: '3312-03-27'
 mention_count: 5
+inara_url: https://inara.cz/elite/cmdr-search/?search=Hermine%20Delarue
 ---
+
 
 <!-- AUTO-GENERATED -->
 

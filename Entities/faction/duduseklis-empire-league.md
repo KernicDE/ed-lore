@@ -10,7 +10,9 @@ related_entities:
 - pilots-federation
 - regulatory-state-of-ackwada
 - ackwada
+inara_url: https://inara.cz/elite/minorfaction/?search=Duduseklis%20Empire%20League
 ---
+
 
 <!-- AUTO-GENERATED -->
 

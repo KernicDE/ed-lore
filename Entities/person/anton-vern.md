@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-10-11'
 last_seen_date: '3304-10-20'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Anton%20Vern
 ---
+
 
 <!-- AUTO-GENERATED -->
 

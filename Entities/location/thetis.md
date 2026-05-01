@@ -11,7 +11,21 @@ related_entities:
 - hip-36081
 - ltt-1935
 - ltt-3607
+coords:
+  x: 75.53125
+  y: -25.8125
+  z: -22.125
+allegiance: Independent
+government: Democracy
+controlling_faction: Enigma Dyson Syndicate
+population: 16595742
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Thetis
+inara_url: https://inara.cz/elite/starsystem/?search=Thetis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

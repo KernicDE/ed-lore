@@ -10,7 +10,21 @@ related_entities:
 - princess-margaret-cancer-foundation
 - roed-oodergaard-port
 - i-sola-prospect
+coords:
+  x: 159.46875
+  y: -103.75
+  z: -19.6875
+allegiance: Empire
+government: Patronage
+controlling_faction: Heilelang Patron's Principles
+population: 12447301
+security: High
+economy: High Tech
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Brestla
+inara_url: https://inara.cz/elite/starsystem/?search=Brestla
 ---
+
 
 <!-- AUTO-GENERATED -->
 

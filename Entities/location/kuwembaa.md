@@ -11,7 +11,21 @@ related_entities:
 - coalition-of-uteran
 - gluscap-labour
 - azaladshu-free
+coords:
+  x: 159.5625
+  y: 6.59375
+  z: 4.28125
+allegiance: Independent
+government: Democracy
+controlling_faction: New Kuwembaa Labour
+population: 4753423
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Kuwembaa
+inara_url: https://inara.cz/elite/starsystem/?search=Kuwembaa
 ---
+
 
 <!-- AUTO-GENERATED -->
 

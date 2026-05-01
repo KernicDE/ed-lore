@@ -11,7 +11,21 @@ related_entities:
 - bd-02-4304
 - newton-dock
 - sap-core-legion
+coords:
+  x: -76.96875
+  y: 71.90625
+  z: 69.1875
+allegiance: Alliance
+government: Corporate
+controlling_faction: Sap Core Legion
+population: 669482091
+security: Medium
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Heike
+inara_url: https://inara.cz/elite/starsystem/?search=Heike
 ---
+
 
 <!-- AUTO-GENERATED -->
 

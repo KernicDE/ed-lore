@@ -11,7 +11,21 @@ related_entities:
 - alliance-assembly
 - zaonce
 - industry
+coords:
+  x: -42.71875
+  y: 94.46875
+  z: -7.34375
+allegiance: Alliance
+government: Corporate
+controlling_faction: Perez Ring Brewery
+population: 8470496826
+security: High
+economy: Extraction
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=Alkaid
+inara_url: https://inara.cz/elite/starsystem/?search=Alkaid
 ---
+
 
 <!-- AUTO-GENERATED -->
 

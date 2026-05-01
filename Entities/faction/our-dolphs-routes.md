@@ -9,7 +9,9 @@ related_entities:
 - sandras-workshop
 - njambalba
 - frost-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Our%20Dolph%27s%20Routes
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - wregoe
 - nahuaru
 - jaques-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Holloway%20Bioscience%20Institute
 ---
+
 
 <!-- AUTO-GENERATED -->
 

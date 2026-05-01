@@ -10,7 +10,14 @@ related_entities:
 - merope
 - maia
 - pleiades-nebula
+coords:
+  x: -73.625
+  y: -135.75
+  z: -359.71875
+edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20JC-U%20B3-2
+inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20JC-U%20B3-2
 ---
+
 
 <!-- AUTO-GENERATED -->
 

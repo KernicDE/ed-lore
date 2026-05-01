@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: 19.65625
+  y: -136.03125
+  z: -71.40625
+allegiance: Independent
+government: Corporate
+controlling_faction: Galactic Rangers
+population: 42288757
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Badbadzist
+inara_url: https://inara.cz/elite/starsystem/?search=Badbadzist
 ---
+
 
 <!-- AUTO-GENERATED -->
 

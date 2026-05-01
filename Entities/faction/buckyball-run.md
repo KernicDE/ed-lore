@@ -10,7 +10,9 @@ related_entities:
 - sol
 - galileo-station
 - earth
+inara_url: https://inara.cz/elite/minorfaction/?search=Buckyball%20Run
 ---
+
 
 <!-- AUTO-GENERATED -->
 

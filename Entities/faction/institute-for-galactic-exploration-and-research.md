@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - jaques-station
 - beagle-point
+inara_url: https://inara.cz/elite/minorfaction/?search=Institute%20for%20Galactic%20Exploration%20and%20Research
 ---
+
 
 <!-- AUTO-GENERATED -->
 

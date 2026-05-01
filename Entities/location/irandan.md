@@ -11,7 +11,21 @@ related_entities:
 - lunguni
 - mentor
 - pleiades-nebula
+coords:
+  x: -86.375
+  y: -12.40625
+  z: -125.0625
+allegiance: Independent
+government: Democracy
+controlling_faction: Sirius Inc
+population: 315222
+security: Low
+economy: Colony
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Irandan
+inara_url: https://inara.cz/elite/starsystem/?search=Irandan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

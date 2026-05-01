@@ -9,7 +9,21 @@ related_entities:
 - universal-cartographics
 - pi-fang
 - eranin
+coords:
+  x: 84.8125
+  y: 132.1875
+  z: 69.59375
+allegiance: Independent
+government: Cooperative
+controlling_faction: AATP Cooperative
+population: 63747
+security: Low
+economy: High Tech
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Naraka
+inara_url: https://inara.cz/elite/starsystem/?search=Naraka
 ---
+
 
 <!-- AUTO-GENERATED -->
 

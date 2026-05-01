@@ -11,7 +11,9 @@ related_entities:
 - federal-intelligence-agency
 - diso
 - orerve
+inara_url: https://inara.cz/elite/minorfaction/?search=Rockforth%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

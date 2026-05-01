@@ -11,7 +11,21 @@ related_entities:
 - utopia
 - nunus
 - varka
+coords:
+  x: 100.15625
+  y: 6.625
+  z: 17.3125
+allegiance: Independent
+government: Corporate
+controlling_faction: Terrahawk Defense Directorate
+population: 54165582
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Sounti
+inara_url: https://inara.cz/elite/starsystem/?search=Sounti
 ---
+
 
 <!-- AUTO-GENERATED -->
 

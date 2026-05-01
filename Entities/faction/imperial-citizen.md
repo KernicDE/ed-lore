@@ -11,7 +11,9 @@ related_entities:
 - children-of-raxxla
 - cemiess
 - imperial-herald
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Citizen
 ---
+
 
 <!-- AUTO-GENERATED -->
 

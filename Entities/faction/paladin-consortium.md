@@ -9,7 +9,9 @@ related_entities:
 - onnes-gateway
 - lft-37-system
 - diamond-frogs
+inara_url: https://inara.cz/elite/minorfaction/?search=Paladin%20Consortium
 ---
+
 
 <!-- AUTO-GENERATED -->
 

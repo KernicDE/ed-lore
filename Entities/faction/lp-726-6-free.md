@@ -11,7 +11,9 @@ related_entities:
 - coalition-of-uteran
 - gluscap-labour
 - azaladshu
+inara_url: https://inara.cz/elite/minorfaction/?search=Lp%20726-6%20Free
 ---
+
 
 <!-- AUTO-GENERATED -->
 

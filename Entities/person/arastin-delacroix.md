@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-04-01'
 last_seen_date: '3307-11-19'
 mention_count: 8
+inara_url: https://inara.cz/elite/cmdr-search/?search=Arastin%20Delacroix
 ---
+
 
 <!-- AUTO-GENERATED -->
 

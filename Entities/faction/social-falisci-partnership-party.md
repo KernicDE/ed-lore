@@ -11,7 +11,9 @@ related_entities:
 - falisci
 - ngaiawang
 - dornier-terminal
+inara_url: https://inara.cz/elite/minorfaction/?search=Social%20Falisci%20Partnership%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

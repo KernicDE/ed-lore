@@ -11,7 +11,9 @@ related_entities:
 - league-of-reparation
 - alliance-defence-force
 - council-of-admirals
+inara_url: https://inara.cz/elite/minorfaction/?search=United%20Carnoeck%20for%20Equality
 ---
+
 
 <!-- AUTO-GENERATED -->
 

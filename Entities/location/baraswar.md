@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - coalition-for-legalisation
 - vox-galactica
+coords:
+  x: -11.375
+  y: -36.59375
+  z: 60.65625
+allegiance: Independent
+government: Anarchy
+controlling_faction: Diamond Frogs
+population: 3141624
+security: Anarchy
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Baraswar
+inara_url: https://inara.cz/elite/starsystem/?search=Baraswar
 ---
+
 
 <!-- AUTO-GENERATED -->
 

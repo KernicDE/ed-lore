@@ -8,7 +8,9 @@ mention_count: 3
 related_entities:
 - irusan
 - bella-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Candy%20Crew%20Guild
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-05-11'
 last_seen_date: '3301-05-11'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Tycoon%20Ace%20Rimzy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

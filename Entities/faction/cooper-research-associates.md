@@ -9,7 +9,9 @@ related_entities:
 - pleiades-sector-ir-w-d1-55
 - oracle
 - pleiades-nebula
+inara_url: https://inara.cz/elite/minorfaction/?search=Cooper%20Research%20Associates
 ---
+
 
 <!-- AUTO-GENERATED -->
 

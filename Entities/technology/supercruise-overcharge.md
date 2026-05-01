@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-05-03'
 last_seen_date: '3310-05-07'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Supercruise%20Overcharge
 ---
+
 
 <!-- AUTO-GENERATED -->
 

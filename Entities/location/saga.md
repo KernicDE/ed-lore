@@ -11,7 +11,21 @@ related_entities:
 - tinia
 - furuhjlem-i-645
 - delphin
+coords:
+  x: 45.625
+  y: 6.15625
+  z: -133.375
+allegiance: Independent
+government: Patronage
+controlling_faction: Marlinists of New Chana
+population: 918623274
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Saga
+inara_url: https://inara.cz/elite/starsystem/?search=Saga
 ---
+
 
 <!-- AUTO-GENERATED -->
 

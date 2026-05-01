@@ -11,7 +11,9 @@ related_entities:
 - federal-security-service
 - meene
 - federal-times
+inara_url: https://inara.cz/elite/minorfaction/?search=Cordova%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

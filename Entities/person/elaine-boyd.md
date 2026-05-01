@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-08-04'
 last_seen_date: '3302-04-23'
 mention_count: 10
+inara_url: https://inara.cz/elite/cmdr-search/?search=Elaine%20Boyd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

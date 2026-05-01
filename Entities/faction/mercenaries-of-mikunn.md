@@ -11,7 +11,9 @@ related_entities:
 - hr-7327
 - law-party-of-hr-7327
 - col-285-sector-vg-1-b24-6
+inara_url: https://inara.cz/elite/minorfaction/?search=Mercenaries%20of%20Mikunn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

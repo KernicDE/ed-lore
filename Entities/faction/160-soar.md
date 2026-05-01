@@ -11,7 +11,9 @@ related_entities:
 - tshang-city
 - california-nebula
 - california-sector-ba-a-e6
+inara_url: https://inara.cz/elite/minorfaction/?search=160%20SOAR
 ---
+
 
 <!-- AUTO-GENERATED -->
 

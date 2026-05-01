@@ -11,7 +11,9 @@ related_entities:
 - adles-armada
 - hel
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Cosmic%20State
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - pilots-federation
 - kavanagh-spaceframes-ltd
 - harma
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Razor%20Whips
 ---
+
 
 <!-- AUTO-GENERATED -->
 

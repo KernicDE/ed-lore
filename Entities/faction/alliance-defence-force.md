@@ -11,7 +11,9 @@ related_entities:
 - hip-22460
 - federal-navy
 - imperial-navy
+inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Defence%20Force
 ---
+
 
 <!-- AUTO-GENERATED -->
 

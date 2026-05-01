@@ -11,7 +11,9 @@ related_entities:
 - segovan
 - obsidian-orbital
 - hip-17225-a-1
+inara_url: https://inara.cz/elite/minorfaction/?search=Future%20of%20Segovan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - kumo-crew
 - utopia
 - imperial-navy
+coords:
+  x: 101.65625
+  y: -111.3125
+  z: 39.1875
+allegiance: Independent
+government: Cooperative
+controlling_faction: Libertas Co-operative
+population: 150060608
+security: High
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Munshin
+inara_url: https://inara.cz/elite/starsystem/?search=Munshin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

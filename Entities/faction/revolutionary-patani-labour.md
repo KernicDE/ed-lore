@@ -9,7 +9,9 @@ related_entities:
 - yum-kamcabi-purple-life-industry
 - yum-kamcabi
 - dirichlet-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Patani%20Labour
 ---
+
 
 <!-- AUTO-GENERATED -->
 

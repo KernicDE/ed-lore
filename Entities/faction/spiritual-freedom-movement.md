@@ -11,7 +11,9 @@ related_entities:
 - far-god-cult
 - order-of-the-far-god
 - federal-navy-intelligence-office
+inara_url: https://inara.cz/elite/minorfaction/?search=Spiritual%20Freedom%20Movement
 ---
+
 
 <!-- AUTO-GENERATED -->
 

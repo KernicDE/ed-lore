@@ -9,7 +9,9 @@ related_entities:
 - federal-times
 - noti
 - weber-gateway
+inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Noti%20Values%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

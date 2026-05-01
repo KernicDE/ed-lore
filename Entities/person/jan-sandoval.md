@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-06-29'
 last_seen_date: '3305-08-02'
 mention_count: 6
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jan%20Sandoval
 ---
+
 
 <!-- AUTO-GENERATED -->
 

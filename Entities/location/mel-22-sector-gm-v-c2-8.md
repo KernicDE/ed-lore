@@ -11,7 +11,21 @@ related_entities:
 - turner-research-group
 - synuefai-eb-r-c7-5
 - california-gateway
+coords:
+  x: -192.125
+  y: -194.96875
+  z: -471.65625
+allegiance: Alliance
+government: Dictatorship
+controlling_faction: Turner Research Group
+population: 18550
+security: Medium
+economy: High Tech
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=MEL%2022%20Sector%20GM-V%20C2-8
+inara_url: https://inara.cz/elite/starsystem/?search=MEL%2022%20Sector%20GM-V%20C2-8
 ---
+
 
 <!-- AUTO-GENERATED -->
 

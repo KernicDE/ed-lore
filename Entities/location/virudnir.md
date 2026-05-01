@@ -11,7 +11,21 @@ related_entities:
 - hez-ur
 - mu-cassiopeia
 - mizuchi
+coords:
+  x: -12.78125
+  y: 143.28125
+  z: -66.125
+allegiance: Independent
+government: Corporate
+controlling_faction: Expanders Corp
+population: 11810
+security: Low
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Virudnir
+inara_url: https://inara.cz/elite/starsystem/?search=Virudnir
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - better-green-developments
 - roach-investment-banking
 - worster-insurance
+inara_url: https://inara.cz/elite/minorfaction/?search=Wiggins%20Development%20Trust
 ---
+
 
 <!-- AUTO-GENERATED -->
 

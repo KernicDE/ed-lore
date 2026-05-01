@@ -11,7 +11,9 @@ related_entities:
 - lorens-legion
 - communism-interstellar
 - black-birds-squadron
+inara_url: https://inara.cz/elite/minorfaction/?search=Distant%20Worlds%20Admins
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - velites-squadron
 - harma
 - sirius-corporation
+coords:
+  x: -22.90625
+  y: -124.15625
+  z: 22.34375
+allegiance: Empire
+government: Patronage
+controlling_faction: Loren's Legion
+population: 1711615225
+security: Medium
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Cuchua
+inara_url: https://inara.cz/elite/starsystem/?search=Cuchua
 ---
+
 
 <!-- AUTO-GENERATED -->
 

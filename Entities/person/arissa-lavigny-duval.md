@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-04-02'
 last_seen_date: '3311-06-26'
 mention_count: 121
+inara_url: https://inara.cz/elite/cmdr-search/?search=Arissa%20Lavigny-Duval
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: faction
 first_seen_date: '3302-09-01'
 last_seen_date: '3302-09-06'
 mention_count: 2
+inara_url: https://inara.cz/elite/minorfaction/?search=Okinura%20Xenobiology%20Institute
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -10,7 +10,9 @@ related_entities:
 - tanmark
 - christian-dock
 - nganji
+inara_url: https://inara.cz/elite/minorfaction/?search=Homeland%20Scientific%20Council
 ---
+
 
 <!-- AUTO-GENERATED -->
 

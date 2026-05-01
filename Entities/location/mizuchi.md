@@ -11,7 +11,14 @@ related_entities:
 - virudnir
 - hez-ur
 - mu-cassiopeia
+coords:
+  x: 79.84375
+  y: -9.71875
+  z: 51.8125
+edsm_url: https://www.edsm.net/en/system?search=Mizuchi
+inara_url: https://inara.cz/elite/starsystem/?search=Mizuchi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

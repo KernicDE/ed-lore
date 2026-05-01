@@ -11,7 +11,9 @@ related_entities:
 - federal-security-service
 - federal-times
 - achilles-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Herculean%20Machines
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - saarinen-station
 - sikorsky-orbital
 - dinkas
+coords:
+  x: 20.65625
+  y: -166.71875
+  z: 85.90625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Celestial Light Brigade
+population: 5796835958
+security: Medium
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Jang%20Di
+inara_url: https://inara.cz/elite/starsystem/?search=Jang%20Di
 ---
+
 
 <!-- AUTO-GENERATED -->
 

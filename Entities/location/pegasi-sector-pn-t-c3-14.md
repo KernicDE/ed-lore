@@ -11,7 +11,21 @@ related_entities:
 - kumo-city
 - harma
 - kumo-council
+coords:
+  x: -100.71875
+  y: -97.71875
+  z: 15
+allegiance: Independent
+government: Anarchy
+controlling_faction: Harma Silver Cartel
+population: 75000000
+security: Anarchy
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Pegasi%20Sector%20PN-T%20c3-14
+inara_url: https://inara.cz/elite/starsystem/?search=Pegasi%20Sector%20PN-T%20c3-14
 ---
+
 
 <!-- AUTO-GENERATED -->
 

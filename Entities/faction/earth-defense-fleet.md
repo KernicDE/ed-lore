@@ -11,7 +11,9 @@ related_entities:
 - colonia-citizens-network
 - 9th-legion
 - iridium-wing
+inara_url: https://inara.cz/elite/minorfaction/?search=Earth%20Defense%20Fleet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

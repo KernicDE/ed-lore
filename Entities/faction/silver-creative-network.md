@@ -11,7 +11,9 @@ related_entities:
 - betel-security
 - carrier-enterprise
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Silver%20Creative%20Network
 ---
+
 
 <!-- AUTO-GENERATED -->
 

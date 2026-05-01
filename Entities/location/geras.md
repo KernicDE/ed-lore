@@ -11,7 +11,21 @@ related_entities:
 - federal-security-service
 - sirius-corporation
 - nova-imperium
+coords:
+  x: -7.03125
+  y: -12.875
+  z: -56.375
+allegiance: Independent
+government: Patronage
+controlling_faction: Quebecois Patriots
+population: 33423683
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Geras
+inara_url: https://inara.cz/elite/starsystem/?search=Geras
 ---
+
 
 <!-- AUTO-GENERATED -->
 

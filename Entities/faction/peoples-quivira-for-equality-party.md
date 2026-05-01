@@ -11,7 +11,9 @@ related_entities:
 - godel-dock
 - stapledon-dock
 - summerland
+inara_url: https://inara.cz/elite/minorfaction/?search=People%27s%20Quivira%20for%20Equality%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

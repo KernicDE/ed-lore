@@ -10,7 +10,9 @@ related_entities:
 - orulas-system
 - wilkes-orbital
 - nespeleve-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Joint%20Security%20Taskforce
 ---
+
 
 <!-- AUTO-GENERATED -->
 

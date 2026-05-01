@@ -11,7 +11,21 @@ related_entities:
 - furuhjlem-i-645
 - sol
 - mars
+coords:
+  x: 6.8125
+  y: 48.71875
+  z: -33.25
+allegiance: Alliance
+government: Corporate
+controlling_faction: Alliance Office of Statistics
+population: 1232831157
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Tinia
+inara_url: https://inara.cz/elite/starsystem/?search=Tinia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - moisuc-station
 - federation
 - ltt-15449-dynamic-incorporated
+inara_url: https://inara.cz/elite/minorfaction/?search=Reyan%20BPS
 ---
+
 
 <!-- AUTO-GENERATED -->
 

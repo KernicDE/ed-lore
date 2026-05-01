@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-08-25'
 last_seen_date: '3304-08-26'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Meera%20Callanach
 ---
+
 
 <!-- AUTO-GENERATED -->
 

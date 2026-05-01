@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - holloway-bioscience-institute
 - nahuaru-crimson-bridge-int
+coords:
+  x: 46.34375
+  y: 7.5
+  z: 143.59375
+allegiance: Independent
+government: Corporate
+controlling_faction: Scorpius Arms Syndicate
+population: 6057723
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Nahuaru
+inara_url: https://inara.cz/elite/starsystem/?search=Nahuaru
 ---
+
 
 <!-- AUTO-GENERATED -->
 

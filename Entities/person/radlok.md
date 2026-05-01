@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-10-05'
 last_seen_date: '3301-10-05'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Radlok
 ---
+
 
 <!-- AUTO-GENERATED -->
 

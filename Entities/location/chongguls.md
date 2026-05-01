@@ -11,7 +11,21 @@ related_entities:
 - cantjarisni
 - rajukru
 - hip-10175
+coords:
+  x: -45.0625
+  y: 46.9375
+  z: 107.40625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 24363862
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Chongguls
+inara_url: https://inara.cz/elite/starsystem/?search=Chongguls
 ---
+
 
 <!-- AUTO-GENERATED -->
 

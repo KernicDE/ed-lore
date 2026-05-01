@@ -11,7 +11,21 @@ related_entities:
 - utopia
 - imperial-slavers-associated
 - munshin
+coords:
+  x: -91.1875
+  y: -69.65625
+  z: 60.875
+allegiance: Independent
+government: Confederacy
+controlling_faction: Black Widow
+population: 2323078453
+security: Low
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Comanga
+inara_url: https://inara.cz/elite/starsystem/?search=Comanga
 ---
+
 
 <!-- AUTO-GENERATED -->
 

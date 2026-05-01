@@ -11,7 +11,9 @@ related_entities:
 - maia-a-3-a
 - maia-b1ba
 - maia-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Palin%20Institute
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - tenche
 - nagasairu
 - kumo-crew
+inara_url: https://inara.cz/elite/minorfaction/?search=Kavanagh%20Spaceframes%20Ltd
 ---
+
 
 <!-- AUTO-GENERATED -->
 

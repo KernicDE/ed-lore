@@ -10,7 +10,21 @@ related_entities:
 - gondul
 - santy
 - maityan
+coords:
+  x: 57.40625
+  y: -118.4375
+  z: 50.84375
+allegiance: Empire
+government: Feudal
+controlling_faction: Prismatic Knights
+population: 225038
+security: Medium
+economy: Refinery
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Daikulcandi
+inara_url: https://inara.cz/elite/starsystem/?search=Daikulcandi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

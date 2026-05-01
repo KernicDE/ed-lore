@@ -10,7 +10,21 @@ related_entities:
 - federal-liberal-party
 - tascheter
 - akkadia
+coords:
+  x: -7.90625
+  y: -23.375
+  z: -31.625
+allegiance: Federation
+government: Corporate
+controlling_faction: Earth Defense Fleet
+population: 24232635347
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Oduduro
+inara_url: https://inara.cz/elite/starsystem/?search=Oduduro
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-08-04'
 last_seen_date: '3304-09-29'
 mention_count: 12
+inara_url: https://inara.cz/elite/cmdr-search/?search=Micah%20Whitefield
 ---
+
 
 <!-- AUTO-GENERATED -->
 

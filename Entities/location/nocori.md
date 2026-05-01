@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - coalition-for-legalisation
 - vox-galactica
+coords:
+  x: -32.875
+  y: -33.46875
+  z: 72.65625
+allegiance: Independent
+government: Anarchy
+controlling_faction: Diamond Frogs
+population: 3595486
+security: Anarchy
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Nocori
+inara_url: https://inara.cz/elite/starsystem/?search=Nocori
 ---
+
 
 <!-- AUTO-GENERATED -->
 

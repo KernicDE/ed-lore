@@ -11,7 +11,21 @@ related_entities:
 - nijotec-syndicate
 - lycan-moon-mining-corporation
 - sol
+coords:
+  x: -15
+  y: -22.25
+  z: 82.46875
+allegiance: Independent
+government: Democracy
+controlling_faction: The Altruists
+population: 31326
+security: Low
+economy: Colony
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Nijotec
+inara_url: https://inara.cz/elite/starsystem/?search=Nijotec
 ---
+
 
 <!-- AUTO-GENERATED -->
 

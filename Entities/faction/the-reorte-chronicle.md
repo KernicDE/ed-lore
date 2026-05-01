@@ -7,7 +7,9 @@ last_seen_date: '3301-02-22'
 mention_count: 1
 related_entities:
 - sol
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Reorte%20Chronicle
 ---
+
 
 <!-- AUTO-GENERATED -->
 

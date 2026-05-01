@@ -11,7 +11,9 @@ related_entities:
 - federation
 - alliance
 - sorbago
+inara_url: https://inara.cz/elite/minorfaction/?search=Achenar%20Research%20Council
 ---
+
 
 <!-- AUTO-GENERATED -->
 

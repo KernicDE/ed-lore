@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - peacock
 - phillips-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Peacock%20Patrons%20of%20Law
 ---
+
 
 <!-- AUTO-GENERATED -->
 

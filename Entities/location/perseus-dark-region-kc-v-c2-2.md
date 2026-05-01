@@ -11,7 +11,14 @@ related_entities:
 - wallglass-investigations-agency
 - scriveners-clan
 - pilots-federation
+coords:
+  x: -368.03125
+  y: -321.6875
+  z: -1047.625
+edsm_url: https://www.edsm.net/en/system?search=Perseus%20Dark%20Region%20KC-V%20c2-2
+inara_url: https://inara.cz/elite/starsystem/?search=Perseus%20Dark%20Region%20KC-V%20c2-2
 ---
+
 
 <!-- AUTO-GENERATED -->
 

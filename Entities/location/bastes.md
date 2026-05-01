@@ -11,7 +11,21 @@ related_entities:
 - una
 - santjalan
 - shepherd-hub
+coords:
+  x: -44.90625
+  y: 46.1875
+  z: 96.5625
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 2350810
+security: Medium
+economy: Industrial
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Bastes
+inara_url: https://inara.cz/elite/starsystem/?search=Bastes
 ---
+
 
 <!-- AUTO-GENERATED -->
 

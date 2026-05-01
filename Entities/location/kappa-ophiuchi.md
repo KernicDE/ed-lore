@@ -11,7 +11,21 @@ related_entities:
 - 39-tauri
 - kamorin
 - delta-phoenicis
+coords:
+  x: -38.3125
+  y: 44.25
+  z: 70.28125
+allegiance: Independent
+government: Corporate
+controlling_faction: Oblivion Fleet
+population: 3550284859
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Kappa%20Ophiuchi
+inara_url: https://inara.cz/elite/starsystem/?search=Kappa%20Ophiuchi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

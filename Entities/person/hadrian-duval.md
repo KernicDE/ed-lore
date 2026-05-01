@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-01-10'
 last_seen_date: '3309-10-02'
 mention_count: 22
+inara_url: https://inara.cz/elite/cmdr-search/?search=Hadrian%20Duval
 ---
+
 
 <!-- AUTO-GENERATED -->
 

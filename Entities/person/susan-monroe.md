@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-08-21'
 last_seen_date: '3302-03-15'
 mention_count: 5
+inara_url: https://inara.cz/elite/cmdr-search/?search=Susan%20Monroe
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - delphi
 - maia
 - merope
+coords:
+  x: -19.375
+  y: -101.84375
+  z: -141.34375
+allegiance: Federation
+government: Confederacy
+controlling_faction: Workers of Kol Alliance
+population: 2935719
+security: Medium
+economy: Terraforming
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Dan
+inara_url: https://inara.cz/elite/starsystem/?search=Dan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - fedmich
 - roberts-port
 - cowper-dock
+coords:
+  x: 57.65625
+  y: -61.1875
+  z: -36.53125
+allegiance: Empire
+government: Patronage
+controlling_faction: Booty Bay Butchers
+population: 2886847
+security: Low
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Anima
+inara_url: https://inara.cz/elite/starsystem/?search=Anima
 ---
+
 
 <!-- AUTO-GENERATED -->
 

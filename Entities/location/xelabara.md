@@ -11,7 +11,21 @@ related_entities:
 - farmers-cooperative-of-kappa-fornacis
 - kappa-fornacis
 - xelabara-republic-party
+coords:
+  x: -93.40625
+  y: 66.0625
+  z: -44.96875
+allegiance: Alliance
+government: Democracy
+controlling_faction: Spearhead Charter
+population: 240916594
+security: Medium
+economy: Agriculture
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Xelabara
+inara_url: https://inara.cz/elite/starsystem/?search=Xelabara
 ---
+
 
 <!-- AUTO-GENERATED -->
 

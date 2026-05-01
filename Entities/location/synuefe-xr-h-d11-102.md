@@ -11,7 +11,17 @@ related_entities:
 - pleiades-sector-ab-w-b2-4
 - synuefe-xr-h-d11-102-1-b
 - united-meene-labour
+coords:
+  x: 357.34375
+  y: -49.34375
+  z: -74.75
+security: Anarchy
+economy: None
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Synuefe%20XR-H%20d11-102
+inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20XR-H%20d11-102
 ---
+
 
 <!-- AUTO-GENERATED -->
 

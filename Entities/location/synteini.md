@@ -11,7 +11,21 @@ related_entities:
 - future-of-synteini
 - william-sargent-vision
 - imperial-society
+coords:
+  x: 51.78125
+  y: -76.40625
+  z: 28.71875
+allegiance: Independent
+government: Dictatorship
+controlling_faction: The Sovereign Justice Collective
+population: 12756306529
+security: Medium
+economy: Agriculture
+second_economy: Tourism
+edsm_url: https://www.edsm.net/en/system?search=Synteini
+inara_url: https://inara.cz/elite/starsystem/?search=Synteini
 ---
+
 
 <!-- AUTO-GENERATED -->
 

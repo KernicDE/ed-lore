@@ -8,7 +8,21 @@ mention_count: 3
 related_entities:
 - union-party-of-ambika
 - goulart-city
+coords:
+  x: 90.75
+  y: 140.25
+  z: 69.375
+allegiance: Independent
+government: Cooperative
+controlling_faction: AATP Cooperative
+population: 4042241
+security: Low
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Ambika
+inara_url: https://inara.cz/elite/starsystem/?search=Ambika
 ---
+
 
 <!-- AUTO-GENERATED -->
 

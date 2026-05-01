@@ -11,7 +11,9 @@ related_entities:
 - socho-gold-raiders
 - socho
 - alliance-interpol
+inara_url: https://inara.cz/elite/minorfaction/?search=Rewired
 ---
+
 
 <!-- AUTO-GENERATED -->
 

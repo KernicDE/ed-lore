@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-06-27'
 last_seen_date: '3302-06-27'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Professor%20Monkey%20D%20Luffy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

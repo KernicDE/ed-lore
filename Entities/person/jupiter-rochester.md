@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-07-07'
 last_seen_date: '3307-12-28'
 mention_count: 32
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jupiter%20Rochester
 ---
+
 
 <!-- AUTO-GENERATED -->
 

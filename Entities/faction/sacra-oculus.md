@@ -10,7 +10,9 @@ related_entities:
 - pilots-federation
 - bell-orbital
 - gilya-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Sacra%20Oculus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

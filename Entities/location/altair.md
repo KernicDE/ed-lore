@@ -11,7 +11,21 @@ related_entities:
 - mars
 - biggs-colony
 - olympus-village
+coords:
+  x: -12.3125
+  y: -2.75
+  z: 11
+allegiance: Federation
+government: Confederacy
+controlling_faction: Elite Rebel Force
+population: 14696030
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Altair
+inara_url: https://inara.cz/elite/starsystem/?search=Altair
 ---
+
 
 <!-- AUTO-GENERATED -->
 

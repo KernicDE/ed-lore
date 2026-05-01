@@ -9,7 +9,9 @@ related_entities:
 - deep-space-surveys
 - alrai
 - ngc-1981-sector-zu-y-d27
+inara_url: https://inara.cz/elite/minorfaction/?search=Distant%20Worlds
 ---
+
 
 <!-- AUTO-GENERATED -->
 

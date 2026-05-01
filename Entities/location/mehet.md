@@ -9,7 +9,21 @@ related_entities:
 - mehet-ltd
 - schwann-dock
 - pilots-federation
+coords:
+  x: 33.71875
+  y: 12.4375
+  z: 72.5
+allegiance: Independent
+government: Corporate
+controlling_faction: Atlas Corporation
+population: 12180148
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Mehet
+inara_url: https://inara.cz/elite/starsystem/?search=Mehet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

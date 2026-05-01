@@ -7,7 +7,9 @@ last_seen_date: '3304-05-19'
 mention_count: 1
 related_entities:
 - church-of-the-eternal-void
+inara_url: https://inara.cz/elite/minorfaction/?search=Generation%20Omega
 ---
+
 
 <!-- AUTO-GENERATED -->
 

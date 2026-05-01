@@ -11,7 +11,21 @@ related_entities:
 - xuangu-crimson-major-network
 - bujold-enterprise
 - empire
+coords:
+  x: 124.65625
+  y: -24.71875
+  z: 62.46875
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Enforcement Division
+population: 1107574149
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Mu%20Koji
+inara_url: https://inara.cz/elite/starsystem/?search=Mu%20Koji
 ---
+
 
 <!-- AUTO-GENERATED -->
 

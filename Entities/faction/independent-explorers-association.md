@@ -9,7 +9,9 @@ related_entities:
 - universal-cartographics
 - shaulai-dl-p-d5-274
 - perseus-crags
+inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Explorers%20Association
 ---
+
 
 <!-- AUTO-GENERATED -->
 

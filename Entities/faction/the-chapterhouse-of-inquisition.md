@@ -9,7 +9,9 @@ related_entities:
 - lavignys-legion
 - 9th-legion
 - kamadhenu
+inara_url: https://inara.cz/elite/minorfaction/?search=The%20Chapterhouse%20of%20Inquisition
 ---
+
 
 <!-- AUTO-GENERATED -->
 

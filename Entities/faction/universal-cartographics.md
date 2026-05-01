@@ -11,7 +11,9 @@ related_entities:
 - sirius-corporation
 - explorers-association
 - jaques-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Universal%20Cartographics
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - achenar
 - aegis
 - imperial-palace
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Herald
 ---
+
 
 <!-- AUTO-GENERATED -->
 

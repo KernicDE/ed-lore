@@ -9,7 +9,21 @@ related_entities:
 - canonn
 - federal-navy
 - he-bo
+coords:
+  x: 24.625
+  y: 10.75
+  z: -72.40625
+allegiance: Independent
+government: Democracy
+controlling_faction: Flotta Stellare
+population: 85801
+security: Low
+economy: Military
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Timocani
+inara_url: https://inara.cz/elite/starsystem/?search=Timocani
 ---
+
 
 <!-- AUTO-GENERATED -->
 

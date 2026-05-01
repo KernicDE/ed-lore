@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-03-05'
 last_seen_date: '3302-03-24'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Governor%20Lawrence
 ---
+
 
 <!-- AUTO-GENERATED -->
 

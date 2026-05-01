@@ -11,7 +11,9 @@ related_entities:
 - empire
 - federation
 - fort-asch
+inara_url: https://inara.cz/elite/minorfaction/?search=Black%20Flight
 ---
+
 
 <!-- AUTO-GENERATED -->
 

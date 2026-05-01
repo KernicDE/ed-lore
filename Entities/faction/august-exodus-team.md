@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - colonia-citizens-network
 - jaques-station
+inara_url: https://inara.cz/elite/minorfaction/?search=August%20Exodus%20team
 ---
+
 
 <!-- AUTO-GENERATED -->
 

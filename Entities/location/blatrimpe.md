@@ -11,7 +11,21 @@ related_entities:
 - federal-navy
 - herculean-machines
 - alliance
+coords:
+  x: 29.125
+  y: 11.3125
+  z: -15.875
+allegiance: Federation
+government: Corporate
+controlling_faction: Minutemen
+population: 27637512817
+security: Medium
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Blatrimpe
+inara_url: https://inara.cz/elite/starsystem/?search=Blatrimpe
 ---
+
 
 <!-- AUTO-GENERATED -->
 

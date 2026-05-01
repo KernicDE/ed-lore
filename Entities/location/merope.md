@@ -11,7 +11,21 @@ related_entities:
 - federation
 - aegis
 - pleiades-nebula
+coords:
+  x: -78.59375
+  y: -149.625
+  z: -340.53125
+allegiance: Independent
+government: Patronage
+controlling_faction: Anti Xeno Initiative
+population: 861901
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Merope
+inara_url: https://inara.cz/elite/starsystem/?search=Merope
 ---
+
 
 <!-- AUTO-GENERATED -->
 

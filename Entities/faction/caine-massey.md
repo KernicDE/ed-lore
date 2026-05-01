@@ -11,7 +11,9 @@ related_entities:
 - proactive-detection-bureau
 - jupiter-division
 - vox-galactica
+inara_url: https://inara.cz/elite/minorfaction/?search=Caine%20Massey
 ---
+
 
 <!-- AUTO-GENERATED -->
 

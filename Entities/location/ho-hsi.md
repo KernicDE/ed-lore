@@ -9,7 +9,21 @@ related_entities:
 - ho-hsi-jet-comms-limited
 - freedom-party-of-ho-hsi
 - hand-ring
+coords:
+  x: -0.4375
+  y: -11.46875
+  z: 61.28125
+allegiance: Independent
+government: Democracy
+controlling_faction: The Altruists
+population: 24815121
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ho%20Hsi
+inara_url: https://inara.cz/elite/starsystem/?search=Ho%20Hsi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

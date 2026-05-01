@@ -11,7 +11,21 @@ related_entities:
 - 39-tauri
 - kamorin
 - kappa-ophiuchi
+coords:
+  x: 53.90625
+  y: -130.6875
+  z: 14.65625
+allegiance: Independent
+government: Democracy
+controlling_faction: United German Commanders
+population: 15000000
+security: High
+economy: High Tech
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Delta%20Phoenicis
+inara_url: https://inara.cz/elite/starsystem/?search=Delta%20Phoenicis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

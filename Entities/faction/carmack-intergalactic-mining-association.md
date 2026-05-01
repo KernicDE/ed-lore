@@ -8,7 +8,9 @@ mention_count: 3
 related_entities:
 - halbara
 - wasden-colony
+inara_url: https://inara.cz/elite/minorfaction/?search=Carmack%20Intergalactic%20Mining%20Association
 ---
+
 
 <!-- AUTO-GENERATED -->
 

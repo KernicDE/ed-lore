@@ -11,7 +11,21 @@ related_entities:
 - utopia
 - varka
 - sounti
+coords:
+  x: 82.40625
+  y: -203.4375
+  z: 44.125
+allegiance: Independent
+government: Confederacy
+controlling_faction: Confederacy of British Commanders
+population: 11847983271
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Nunus
+inara_url: https://inara.cz/elite/starsystem/?search=Nunus
 ---
+
 
 <!-- AUTO-GENERATED -->
 

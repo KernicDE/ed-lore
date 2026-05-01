@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-07-30'
 last_seen_date: '3310-07-30'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=SCO%20Frame%20Shift%20Drive
 ---
+
 
 <!-- AUTO-GENERATED -->
 

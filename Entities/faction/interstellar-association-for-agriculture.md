@@ -11,7 +11,9 @@ related_entities:
 - diso
 - riedquat
 - vandermeer-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Association%20for%20Agriculture
 ---
+
 
 <!-- AUTO-GENERATED -->
 

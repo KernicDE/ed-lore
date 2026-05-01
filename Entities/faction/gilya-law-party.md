@@ -10,7 +10,9 @@ related_entities:
 - pilots-federation
 - bell-orbital
 - gilya-system
+inara_url: https://inara.cz/elite/minorfaction/?search=Gilya%20Law%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

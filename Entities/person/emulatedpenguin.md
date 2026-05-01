@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3308-09-29'
 last_seen_date: '3308-09-29'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=EmulatedPenguin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

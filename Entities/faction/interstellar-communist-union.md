@@ -11,7 +11,9 @@ related_entities:
 - galcop
 - social-eleu-progressive-party
 - the-sovereign
+inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Communist%20Union
 ---
+
 
 <!-- AUTO-GENERATED -->
 

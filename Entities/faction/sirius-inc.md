@@ -11,7 +11,9 @@ related_entities:
 - green-enterprise
 - pilots-federation
 - maia
+inara_url: https://inara.cz/elite/minorfaction/?search=Sirius%20Inc
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - watson-settlement
 - new-galactic-cooperative-of-worlds
 - federal-navy
+inara_url: https://inara.cz/elite/minorfaction/?search=GR%20316%20Silver%20Universal%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - orgen
 - bletii
 - 34-omicron-cephei
+coords:
+  x: -22.0625
+  y: -64.9375
+  z: -15.125
+allegiance: Independent
+government: Corporate
+controlling_faction: Pan Galactic Mining Corp.
+population: 25005149
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Minerva
+inara_url: https://inara.cz/elite/starsystem/?search=Minerva
 ---
+
 
 <!-- AUTO-GENERATED -->
 

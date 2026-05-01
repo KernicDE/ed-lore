@@ -11,7 +11,9 @@ related_entities:
 - alioth
 - townshend-hub
 - seddon-gateway
+inara_url: https://inara.cz/elite/minorfaction/?search=78%20Ursae%20Majoris%20for%20Equality%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

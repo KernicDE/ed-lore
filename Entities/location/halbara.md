@@ -8,7 +8,21 @@ mention_count: 3
 related_entities:
 - carmack-intergalactic-mining-association
 - wasden-colony
+coords:
+  x: 131.78125
+  y: -108.46875
+  z: 107.96875
+allegiance: Independent
+government: Communism
+controlling_faction: Workers of Halbara People's Party
+population: 3673598
+security: Medium
+economy: Industrial
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Halbara
+inara_url: https://inara.cz/elite/starsystem/?search=Halbara
 ---
+
 
 <!-- AUTO-GENERATED -->
 

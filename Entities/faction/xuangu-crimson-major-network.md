@@ -11,7 +11,9 @@ related_entities:
 - federation
 - mu-koji-resistance
 - aksyonov-hub
+inara_url: https://inara.cz/elite/minorfaction/?search=Xuangu%20Crimson%20Major%20Network
 ---
+
 
 <!-- AUTO-GENERATED -->
 

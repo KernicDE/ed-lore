@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-12-17'
 last_seen_date: '3307-12-17'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Glynn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

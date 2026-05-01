@@ -11,7 +11,21 @@ related_entities:
 - una
 - santjalan
 - shepherd-hub
+coords:
+  x: -27.65625
+  y: 35.25
+  z: 73.09375
+allegiance: Independent
+government: Democracy
+controlling_faction: Pixel Bandits Security Force
+population: 333884405
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Maheou%20Ti
+inara_url: https://inara.cz/elite/starsystem/?search=Maheou%20Ti
 ---
+
 
 <!-- AUTO-GENERATED -->
 

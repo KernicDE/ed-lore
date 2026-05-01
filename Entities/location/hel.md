@@ -11,7 +11,21 @@ related_entities:
 - hammer-arms
 - adles-armada
 - labour-party-of-caill-reddi
+coords:
+  x: -66.03125
+  y: -33.84375
+  z: -69.96875
+allegiance: Independent
+government: Cooperative
+controlling_faction: Aseveljet
+population: 4301515
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Hel
+inara_url: https://inara.cz/elite/starsystem/?search=Hel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

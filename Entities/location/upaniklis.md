@@ -11,7 +11,21 @@ related_entities:
 - empire
 - federation
 - interstellar-health-organisation
+coords:
+  x: -151.21875
+  y: -25
+  z: 77.71875
+allegiance: Independent
+government: Corporate
+controlling_faction: Upaniklis Vision Incorporated
+population: 7172144
+security: Medium
+economy: Military
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Upaniklis
+inara_url: https://inara.cz/elite/starsystem/?search=Upaniklis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

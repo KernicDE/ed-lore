@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - cenker-city
 - gucumadhyas
+inara_url: https://inara.cz/elite/minorfaction/?search=Utopia%20Commune
 ---
+
 
 <!-- AUTO-GENERATED -->
 

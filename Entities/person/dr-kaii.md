@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-04-08'
 last_seen_date: '3302-05-26'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=Dr%20Kaii
 ---
+
 
 <!-- AUTO-GENERATED -->
 

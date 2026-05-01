@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - tir
 - boldens-enterprise
+inara_url: https://inara.cz/elite/minorfaction/?search=Tir%20Technology%20Services
 ---
+
 
 <!-- AUTO-GENERATED -->
 

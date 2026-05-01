@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-11-30'
 last_seen_date: '3312-02-03'
 mention_count: 14
+inara_url: https://inara.cz/elite/cmdr-search/?search=Ernesto%20Rios
 ---
+
 
 <!-- AUTO-GENERATED -->
 

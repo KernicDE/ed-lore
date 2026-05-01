@@ -11,7 +11,9 @@ related_entities:
 - jupiter
 - sol
 - federal-times
+inara_url: https://inara.cz/elite/minorfaction/?search=Core%20Dynamics
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - alliance-salvage-guild
 - pilots-federation
 - chukchan-5-b
+inara_url: https://inara.cz/elite/minorfaction/?search=Pharmasapien
 ---
+
 
 <!-- AUTO-GENERATED -->
 

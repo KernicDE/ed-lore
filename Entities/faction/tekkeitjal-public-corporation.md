@@ -11,7 +11,9 @@ related_entities:
 - pilots-federation
 - 42-n-persei
 - chun-pindit
+inara_url: https://inara.cz/elite/minorfaction/?search=Tekkeitjal%20Public%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

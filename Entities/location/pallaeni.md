@@ -10,7 +10,21 @@ related_entities:
 - beagle-point
 - sagittarius-a
 - deep-space-surveys
+coords:
+  x: 112.6875
+  y: 47.125
+  z: 128.4375
+allegiance: Independent
+government: Cooperative
+controlling_faction: Pallaeni Co-operative
+population: 41011
+security: Low
+economy: Extraction
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Pallaeni
+inara_url: https://inara.cz/elite/starsystem/?search=Pallaeni
 ---
+
 
 <!-- AUTO-GENERATED -->
 

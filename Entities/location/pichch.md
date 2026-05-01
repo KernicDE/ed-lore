@@ -7,7 +7,21 @@ last_seen_date: '3309-04-27'
 mention_count: 1
 related_entities:
 - maelstrom
+coords:
+  x: -47.59375
+  y: -128.6875
+  z: -36.03125
+allegiance: Federation
+government: Theocracy
+controlling_faction: The Order of the Shadow
+population: 4888605
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Pichch
+inara_url: https://inara.cz/elite/starsystem/?search=Pichch
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - federation
 - federal-navy
 - imperial-navy
+coords:
+  x: -82.0625
+  y: 1.625
+  z: -14.4375
+allegiance: Independent
+government: Democracy
+controlling_faction: The Forgotten
+population: 7569725676
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Aiabiko
+inara_url: https://inara.cz/elite/starsystem/?search=Aiabiko
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3309-11-14'
 last_seen_date: '3309-11-14'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Zoe%20Terentia
 ---
+
 
 <!-- AUTO-GENERATED -->
 

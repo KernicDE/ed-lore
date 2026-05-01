@@ -10,7 +10,9 @@ related_entities:
 - interstellar-association-for-agriculture
 - diso
 - orerve
+inara_url: https://inara.cz/elite/minorfaction/?search=Orerve%20Universal%20Limited
 ---
+
 
 <!-- AUTO-GENERATED -->
 

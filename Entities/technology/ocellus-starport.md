@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-11-04'
 last_seen_date: '3303-07-15'
 mention_count: 4
+inara_url: https://inara.cz/elite/commodity/?search=Ocellus%20starport
 ---
+
 
 <!-- AUTO-GENERATED -->
 

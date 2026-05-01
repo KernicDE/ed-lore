@@ -11,7 +11,9 @@ related_entities:
 - lorens-legion
 - communism-interstellar
 - aislings-angels
+inara_url: https://inara.cz/elite/minorfaction/?search=Black%20Birds%20Squadron
 ---
+
 
 <!-- AUTO-GENERATED -->
 

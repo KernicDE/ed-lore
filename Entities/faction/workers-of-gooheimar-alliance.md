@@ -9,7 +9,9 @@ related_entities:
 - federation
 - brady-horizons
 - gooheimar
+inara_url: https://inara.cz/elite/minorfaction/?search=Workers%20of%20Gooheimar%20Alliance
 ---
+
 
 <!-- AUTO-GENERATED -->
 

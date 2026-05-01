@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - hehe-federal-interstellar
 - hehe-camorra
+coords:
+  x: 14.75
+  y: -18.53125
+  z: -101.875
+allegiance: Federation
+government: Democracy
+controlling_faction: Movement for Hehe Progressive Party
+population: 34601622
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Hehe
+inara_url: https://inara.cz/elite/starsystem/?search=Hehe
 ---
+
 
 <!-- AUTO-GENERATED -->
 

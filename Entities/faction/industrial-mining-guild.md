@@ -11,7 +11,9 @@ related_entities:
 - interstellar-health-organisation
 - cemiess-imperial-society
 - wally-bei
+inara_url: https://inara.cz/elite/minorfaction/?search=Industrial%20Mining%20Guild
 ---
+
 
 <!-- AUTO-GENERATED -->
 

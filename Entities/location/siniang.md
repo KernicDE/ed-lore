@@ -11,7 +11,21 @@ related_entities:
 - coalsack-nebula
 - kandulas-truth
 - li-chyou-winds
+coords:
+  x: 354.40625
+  y: -386.625
+  z: -709.21875
+allegiance: Alliance
+government: Corporate
+controlling_faction: The Allied Commission
+population: 486030
+security: High
+economy: Extraction
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Siniang
+inara_url: https://inara.cz/elite/starsystem/?search=Siniang
 ---
+
 
 <!-- AUTO-GENERATED -->
 

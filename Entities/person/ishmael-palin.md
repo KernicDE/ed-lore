@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-09-13'
 last_seen_date: '3310-02-15'
 mention_count: 71
+inara_url: https://inara.cz/elite/cmdr-search/?search=Ishmael%20Palin
 ---
+
 
 <!-- AUTO-GENERATED -->
 

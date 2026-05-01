@@ -11,7 +11,21 @@ related_entities:
 - azimuth
 - sirius-corporation
 - pilots-federation
+coords:
+  x: 55.71875
+  y: 17.59375
+  z: 27.15625
+allegiance: Pilots Federation
+government: Democracy
+controlling_faction: Pilots' Federation Local Branch
+population: 85287324
+security: High
+economy: High Tech
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Shinrarta%20Dezhra
+inara_url: https://inara.cz/elite/starsystem/?search=Shinrarta%20Dezhra
 ---
+
 
 <!-- AUTO-GENERATED -->
 

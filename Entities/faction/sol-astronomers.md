@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - sol
 - sedna
+inara_url: https://inara.cz/elite/minorfaction/?search=Sol%20astronomers
 ---
+
 
 <!-- AUTO-GENERATED -->
 

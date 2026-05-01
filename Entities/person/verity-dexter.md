@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-07-13'
 last_seen_date: '3307-07-29'
 mention_count: 4
+inara_url: https://inara.cz/elite/cmdr-search/?search=Verity%20Dexter
 ---
+
 
 <!-- AUTO-GENERATED -->
 

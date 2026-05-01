@@ -11,7 +11,21 @@ related_entities:
 - lalande-4141
 - federal-times
 - socho-gold-raiders
+coords:
+  x: 20.625
+  y: -85.5625
+  z: 59.875
+allegiance: Empire
+government: Feudal
+controlling_faction: Praetorian Curiate Assembly
+population: 6731401681
+security: High
+economy: Agriculture
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Lwalama
+inara_url: https://inara.cz/elite/starsystem/?search=Lwalama
 ---
+
 
 <!-- AUTO-GENERATED -->
 

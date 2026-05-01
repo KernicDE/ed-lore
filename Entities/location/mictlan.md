@@ -11,7 +11,21 @@ related_entities:
 - ltt-9810
 - silver-allied-network
 - xuesen-orbital
+coords:
+  x: 49.34375
+  y: -93.9375
+  z: 2.375
+allegiance: Empire
+government: Corporate
+controlling_faction: G.O.M. Collective
+population: 32971028
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Mictlan
+inara_url: https://inara.cz/elite/starsystem/?search=Mictlan
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - merope-expeditionary-fleet
 - maia
 - obsidian-orbital
+coords:
+  x: -137.5625
+  y: -118.25
+  z: -380.4375
+allegiance: Independent
+government: Democracy
+controlling_faction: Marauders Vanguard
+population: 26652
+security: High
+economy: Military
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20AB-W%20B2-4
+inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20AB-W%20B2-4
 ---
+
 
 <!-- AUTO-GENERATED -->
 

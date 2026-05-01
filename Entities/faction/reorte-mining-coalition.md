@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - alliance
 - reorte
+inara_url: https://inara.cz/elite/minorfaction/?search=Reorte%20Mining%20Coalition
 ---
+
 
 <!-- AUTO-GENERATED -->
 

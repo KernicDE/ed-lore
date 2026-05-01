@@ -11,7 +11,9 @@ related_entities:
 - triadius
 - contrail
 - balkan-intergalactic-guerrillas
+inara_url: https://inara.cz/elite/minorfaction/?search=Blood%20Brothers
 ---
+
 
 <!-- AUTO-GENERATED -->
 

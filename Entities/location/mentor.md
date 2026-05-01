@@ -11,7 +11,21 @@ related_entities:
 - hip-21559
 - irandan
 - lasswitz-terminal
+coords:
+  x: -27.65625
+  y: -3.5
+  z: -85.53125
+allegiance: Federation
+government: Democracy
+controlling_faction: The Fatherhood
+population: 3126145281
+security: Medium
+economy: Agriculture
+second_economy: Terraforming
+edsm_url: https://www.edsm.net/en/system?search=Mentor
+inara_url: https://inara.cz/elite/starsystem/?search=Mentor
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -8,7 +8,21 @@ mention_count: 1
 related_entities:
 - sol-astronomers
 - sol
+coords:
+  x: 94.21875
+  y: 2.03125
+  z: -12.3125
+allegiance: Federation
+government: Corporate
+controlling_faction: Ice Storm Squadron
+population: 272502
+security: Medium
+economy: Extraction
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Sedna
+inara_url: https://inara.cz/elite/starsystem/?search=Sedna
 ---
+
 
 <!-- AUTO-GENERATED -->
 

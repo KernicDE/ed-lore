@@ -11,7 +11,9 @@ related_entities:
 - canonn
 - maia
 - merope
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Government
 ---
+
 
 <!-- AUTO-GENERATED -->
 

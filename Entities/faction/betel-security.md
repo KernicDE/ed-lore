@@ -11,7 +11,9 @@ related_entities:
 - betel
 - carrier-enterprise
 - amphipolis
+inara_url: https://inara.cz/elite/minorfaction/?search=Betel%20security
 ---
+
 
 <!-- AUTO-GENERATED -->
 

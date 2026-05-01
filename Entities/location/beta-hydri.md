@@ -11,7 +11,21 @@ related_entities:
 - macarthur-mining-ltd
 - federation
 - sol
+coords:
+  x: 15.28125
+  y: -15.6875
+  z: 10.5625
+allegiance: Federation
+government: Corporate
+controlling_faction: Beta Hydri Corporation
+population: 6000029910
+security: High
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Beta%20Hydri
+inara_url: https://inara.cz/elite/starsystem/?search=Beta%20Hydri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

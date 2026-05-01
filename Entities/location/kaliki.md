@@ -11,7 +11,21 @@ related_entities:
 - mercs-of-mikunn
 - merchant-marines
 - harm
+coords:
+  x: 37.46875
+  y: -94.15625
+  z: -48.09375
+allegiance: Empire
+government: Corporate
+controlling_faction: Artemis Corporation
+population: 8306659
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Kaliki
+inara_url: https://inara.cz/elite/starsystem/?search=Kaliki
 ---
+
 
 <!-- AUTO-GENERATED -->
 

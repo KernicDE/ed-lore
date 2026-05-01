@@ -9,7 +9,17 @@ related_entities:
 - synuefe-xr-h-d11-102
 - synuefe-nl-n-c23-4
 - synuefe-tp-f-b44-0
+coords:
+  x: 814.71875
+  y: -222.78125
+  z: -151.15625
+security: Anarchy
+economy: None
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Synuefe%20LY-I%20b42-2
+inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20LY-I%20b42-2
 ---
+
 
 <!-- AUTO-GENERATED -->
 

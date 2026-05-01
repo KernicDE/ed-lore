@@ -11,7 +11,21 @@ related_entities:
 - lakon-spaceways
 - teveri-progressive-party
 - diso
+coords:
+  x: 65.59375
+  y: 58.90625
+  z: 85.90625
+allegiance: Independent
+government: Democracy
+controlling_faction: Union of Jath for Equality
+population: 10748010
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Teveri
+inara_url: https://inara.cz/elite/starsystem/?search=Teveri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

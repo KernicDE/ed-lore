@@ -11,7 +11,9 @@ related_entities:
 - alliance-elite-diplomatic-corps
 - bd-22-3573
 - planck-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Wolf%20406%20Transport%20Co
 ---
+
 
 <!-- AUTO-GENERATED -->
 

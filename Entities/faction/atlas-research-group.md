@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - merope
 - pleiades-nebula
+inara_url: https://inara.cz/elite/minorfaction/?search=Atlas%20Research%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

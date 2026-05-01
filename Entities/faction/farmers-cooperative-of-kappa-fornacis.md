@@ -9,7 +9,9 @@ related_entities:
 - drug-empire-of-xelabara
 - xelabara
 - kappa-fornacis
+inara_url: https://inara.cz/elite/minorfaction/?search=Farmer%27s%20Cooperative%20of%20Kappa%20Fornacis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

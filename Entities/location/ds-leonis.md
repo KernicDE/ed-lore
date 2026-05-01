@@ -8,7 +8,21 @@ mention_count: 2
 related_entities:
 - macrosphere
 - ds-leonis-industries
+coords:
+  x: 10.25
+  y: 34.875
+  z: -12.34375
+allegiance: Alliance
+government: Corporate
+controlling_faction: Remlok Industries
+population: 10010869
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=DS%20Leonis
+inara_url: https://inara.cz/elite/starsystem/?search=DS%20Leonis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

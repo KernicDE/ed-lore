@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-12-14'
 last_seen_date: '3309-10-10'
 mention_count: 6
+inara_url: https://inara.cz/elite/cmdr-search/?search=Himari%20Grey
 ---
+
 
 <!-- AUTO-GENERATED -->
 

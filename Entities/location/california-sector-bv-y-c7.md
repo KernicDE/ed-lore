@@ -10,7 +10,21 @@ related_entities:
 - darwin-research-facility
 - california-nebula
 - turner-research-group
+coords:
+  x: -342.3125
+  y: -219.28125
+  z: -952.71875
+allegiance: Alliance
+government: Theocracy
+controlling_faction: The Allied Order of Exemplars
+population: 29245
+security: Medium
+economy: Agriculture
+second_economy: Service
+edsm_url: https://www.edsm.net/en/system?search=California%20Sector%20BV-Y%20c7
+inara_url: https://inara.cz/elite/starsystem/?search=California%20Sector%20BV-Y%20c7
 ---
+
 
 <!-- AUTO-GENERATED -->
 

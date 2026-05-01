@@ -11,7 +11,9 @@ related_entities:
 - alliance-defence-force
 - zaonce
 - alioth
+inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Tribune
 ---
+
 
 <!-- AUTO-GENERATED -->
 

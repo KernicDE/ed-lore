@@ -7,7 +7,9 @@ last_seen_date: '3301-07-24'
 mention_count: 4
 related_entities:
 - carns
+inara_url: https://inara.cz/elite/minorfaction/?search=Humason%20Orbital
 ---
+
 
 <!-- AUTO-GENERATED -->
 

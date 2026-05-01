@@ -11,7 +11,9 @@ related_entities:
 - aegis
 - pilots-federation
 - colonia-council
+inara_url: https://inara.cz/elite/minorfaction/?search=Arek%20Crimson%20Vision%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

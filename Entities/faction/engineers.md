@@ -11,7 +11,9 @@ related_entities:
 - sirius-inc
 - pilots-federation
 - delphi
+inara_url: https://inara.cz/elite/minorfaction/?search=Engineers
 ---
+
 
 <!-- AUTO-GENERATED -->
 

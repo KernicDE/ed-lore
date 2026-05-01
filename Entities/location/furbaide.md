@@ -11,7 +11,21 @@ related_entities:
 - lhs-3505
 - furbaide-cdc
 - volungu
+coords:
+  x: -28.5625
+  y: -10.65625
+  z: 28.8125
+allegiance: Federation
+government: Corporate
+controlling_faction: Gold Legal Solutions
+population: 5946094
+security: Medium
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Furbaide
+inara_url: https://inara.cz/elite/starsystem/?search=Furbaide
 ---
+
 
 <!-- AUTO-GENERATED -->
 

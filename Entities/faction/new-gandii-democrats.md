@@ -11,7 +11,9 @@ related_entities:
 - camorra-of-krisha
 - krisha-systems-corporation
 - gandii
+inara_url: https://inara.cz/elite/minorfaction/?search=New%20Gandii%20Democrats
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,9 @@ related_entities:
 - zlota
 - children-of-tothos
 - federal-intelligence-agency
+inara_url: https://inara.cz/elite/minorfaction/?search=Zlota%20Federal%20Holdings
 ---
+
 
 <!-- AUTO-GENERATED -->
 

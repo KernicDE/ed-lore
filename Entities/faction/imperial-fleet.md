@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - kumo-crew
 - ngam
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Fleet
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - facece-empire-party
 - imperial-herald
 - simpson-depot
+coords:
+  x: 64.28125
+  y: -111.4375
+  z: 25.1875
+allegiance: Empire
+government: Patronage
+controlling_faction: Facece Empire Party
+population: 10880630357
+security: High
+economy: Military
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Facece
+inara_url: https://inara.cz/elite/starsystem/?search=Facece
 ---
+
 
 <!-- AUTO-GENERATED -->
 

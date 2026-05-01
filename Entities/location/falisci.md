@@ -11,7 +11,21 @@ related_entities:
 - dornier-terminal
 - falisci-purple-gang
 - dongzi
+coords:
+  x: 61.375
+  y: -91.0625
+  z: -14.8125
+allegiance: Empire
+government: Patronage
+controlling_faction: Verne Partners LLP
+population: 224573
+security: Low
+economy: Colony
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Falisci
+inara_url: https://inara.cz/elite/starsystem/?search=Falisci
 ---
+
 
 <!-- AUTO-GENERATED -->
 

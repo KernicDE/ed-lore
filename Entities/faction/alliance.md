@@ -11,7 +11,9 @@ related_entities:
 - federation
 - alioth
 - empire
+inara_url: https://inara.cz/elite/minorfaction/?search=Alliance
 ---
+
 
 <!-- AUTO-GENERATED -->
 

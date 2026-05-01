@@ -9,7 +9,9 @@ related_entities:
 - deep-space-surveys
 - beagle-point
 - ram-tah
+inara_url: https://inara.cz/elite/minorfaction/?search=Distant%20Worlds%203
 ---
+
 
 <!-- AUTO-GENERATED -->
 

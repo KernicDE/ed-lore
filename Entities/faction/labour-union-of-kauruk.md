@@ -9,7 +9,9 @@ related_entities:
 - kauruk
 - moore-terminal
 - gyvatices
+inara_url: https://inara.cz/elite/minorfaction/?search=Labour%20Union%20of%20Kauruk
 ---
+
 
 <!-- AUTO-GENERATED -->
 

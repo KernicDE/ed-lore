@@ -11,7 +11,21 @@ related_entities:
 - freng
 - lunduwalaya
 - alliance
+coords:
+  x: -33.6875
+  y: -41.3125
+  z: 102.84375
+allegiance: Independent
+government: Communism
+controlling_faction: Worker's Party of Coritab
+population: 3540779
+security: Medium
+economy: Industrial
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Coritab
+inara_url: https://inara.cz/elite/starsystem/?search=Coritab
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-02-15'
 last_seen_date: '3302-07-22'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Seneh
 ---
+
 
 <!-- AUTO-GENERATED -->
 

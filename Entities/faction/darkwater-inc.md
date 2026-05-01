@@ -9,7 +9,9 @@ related_entities:
 - imperial-navy
 - nmla
 - summerland
+inara_url: https://inara.cz/elite/minorfaction/?search=Darkwater%20Inc
 ---
+
 
 <!-- AUTO-GENERATED -->
 

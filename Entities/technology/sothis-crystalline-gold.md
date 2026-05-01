@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3301-09-25'
 last_seen_date: '3301-09-25'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Sothis%20Crystalline%20Gold
 ---
+
 
 <!-- AUTO-GENERATED -->
 

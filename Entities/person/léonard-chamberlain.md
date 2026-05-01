@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3301-04-23'
 last_seen_date: '3301-05-22'
 mention_count: 2
+inara_url: https://inara.cz/elite/cmdr-search/?search=L%C3%A9onard%20Chamberlain
 ---
+
 
 <!-- AUTO-GENERATED -->
 

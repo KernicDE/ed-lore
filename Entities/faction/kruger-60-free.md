@@ -9,7 +9,9 @@ related_entities:
 - jones-estate
 - groombridge-34
 - kruger-60
+inara_url: https://inara.cz/elite/minorfaction/?search=Kruger%2060%20Free
 ---
+
 
 <!-- AUTO-GENERATED -->
 

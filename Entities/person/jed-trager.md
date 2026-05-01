@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-07-13'
 last_seen_date: '3309-03-07'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jed%20Trager
 ---
+
 
 <!-- AUTO-GENERATED -->
 

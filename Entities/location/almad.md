@@ -11,7 +11,21 @@ related_entities:
 - mictlan-cartel
 - facece
 - nehet
+coords:
+  x: 97.875
+  y: -116.75
+  z: -31.96875
+allegiance: Empire
+government: Feudal
+controlling_faction: Imperial Concilium
+population: 10914548
+security: High
+economy: High Tech
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Almad
+inara_url: https://inara.cz/elite/starsystem/?search=Almad
 ---
+
 
 <!-- AUTO-GENERATED -->
 

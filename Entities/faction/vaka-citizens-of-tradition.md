@@ -11,7 +11,9 @@ related_entities:
 - independents-of-daramo
 - kumo-crew
 - daramo
+inara_url: https://inara.cz/elite/minorfaction/?search=Vaka%20Citizens%20of%20Tradition
 ---
+
 
 <!-- AUTO-GENERATED -->
 

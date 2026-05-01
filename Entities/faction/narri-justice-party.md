@@ -11,7 +11,9 @@ related_entities:
 - bobko-city
 - aegis
 - iiss
+inara_url: https://inara.cz/elite/minorfaction/?search=Narri%20Justice%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

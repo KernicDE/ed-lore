@@ -11,7 +11,9 @@ related_entities:
 - bigsix
 - alioth
 - galactic-finance-times
+inara_url: https://inara.cz/elite/minorfaction/?search=MetaDrive%20Inc.
 ---
+
 
 <!-- AUTO-GENERATED -->
 

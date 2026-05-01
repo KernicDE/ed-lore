@@ -11,7 +11,21 @@ related_entities:
 - oracle
 - arcs-faith
 - artemis-lodge
+coords:
+  x: -88.5
+  y: -159.6875
+  z: -366.28125
+allegiance: Independent
+government: Cooperative
+controlling_faction: The Hive
+population: 1212636
+security: Medium
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Taygeta
+inara_url: https://inara.cz/elite/starsystem/?search=Taygeta
 ---
+
 
 <!-- AUTO-GENERATED -->
 

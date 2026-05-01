@@ -11,7 +11,9 @@ related_entities:
 - rishair
 - cosmic-state
 - hammer-arms
+inara_url: https://inara.cz/elite/minorfaction/?search=Emperor%27s%20Grace
 ---
+
 
 <!-- AUTO-GENERATED -->
 

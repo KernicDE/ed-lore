@@ -11,7 +11,21 @@ related_entities:
 - alliance
 - azimuth-biotech
 - empire
+coords:
+  x: -16.25
+  y: -1.625
+  z: -10.5625
+allegiance: Federation
+government: Confederacy
+controlling_faction: Marine Forces Special Operations Command
+population: 9000007098
+security: High
+economy: Agriculture
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Eta%20Cassiopeiae
+inara_url: https://inara.cz/elite/starsystem/?search=Eta%20Cassiopeiae
 ---
+
 
 <!-- AUTO-GENERATED -->
 

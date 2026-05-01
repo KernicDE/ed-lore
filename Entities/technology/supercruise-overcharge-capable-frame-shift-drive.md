@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-06-20'
 last_seen_date: '3310-06-20'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Supercruise%20Overcharge%20capable%20Frame%20Shift%20Drive
 ---
+
 
 <!-- AUTO-GENERATED -->
 

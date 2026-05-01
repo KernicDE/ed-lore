@@ -11,7 +11,9 @@ related_entities:
 - imperial-guard
 - achenar
 - hall-of-martyrs
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Naval%20Infantry
 ---
+
 
 <!-- AUTO-GENERATED -->
 

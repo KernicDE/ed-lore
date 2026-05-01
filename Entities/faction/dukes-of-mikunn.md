@@ -11,7 +11,9 @@ related_entities:
 - hr-7327
 - alliance
 - federal-navy
+inara_url: https://inara.cz/elite/minorfaction/?search=Dukes%20of%20Mikunn
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - ceos
 - hip-8396
 - robigo
+coords:
+  x: -274.65625
+  y: -10.8125
+  z: -271.34375
+allegiance: Independent
+government: Corporate
+controlling_faction: Seven Keys Alliance
+population: 423224
+security: High
+economy: Agriculture
+second_economy: Terraforming
+edsm_url: https://www.edsm.net/en/system?search=Almagest
+inara_url: https://inara.cz/elite/starsystem/?search=Almagest
 ---
+
 
 <!-- AUTO-GENERATED -->
 

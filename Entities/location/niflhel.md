@@ -11,7 +11,21 @@ related_entities:
 - league-of-reparation
 - niflhel-guardians-of-tradition
 - universal-liberty
+coords:
+  x: 68.8125
+  y: -148.25
+  z: 47.9375
+allegiance: Independent
+government: Democracy
+controlling_faction: United German Commanders
+population: 5777858
+security: High
+economy: Refinery
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Niflhel
+inara_url: https://inara.cz/elite/starsystem/?search=Niflhel
 ---
+
 
 <!-- AUTO-GENERATED -->
 

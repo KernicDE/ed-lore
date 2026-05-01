@@ -9,7 +9,9 @@ related_entities:
 - buckyball-racing-club
 - lave
 - lave-station
+inara_url: https://inara.cz/elite/minorfaction/?search=Elite%20Racers
 ---
+
 
 <!-- AUTO-GENERATED -->
 

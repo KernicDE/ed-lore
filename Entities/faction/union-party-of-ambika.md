@@ -8,7 +8,9 @@ mention_count: 3
 related_entities:
 - ambika
 - goulart-city
+inara_url: https://inara.cz/elite/minorfaction/?search=Union%20Party%20of%20Ambika
 ---
+
 
 <!-- AUTO-GENERATED -->
 

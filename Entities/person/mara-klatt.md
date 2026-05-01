@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3304-06-28'
 last_seen_date: '3307-05-21'
 mention_count: 14
+inara_url: https://inara.cz/elite/cmdr-search/?search=Mara%20Klatt
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - emperors-grace
 - house-of-duval
 - xuesen-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Court
 ---
+
 
 <!-- AUTO-GENERATED -->
 

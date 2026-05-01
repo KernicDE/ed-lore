@@ -11,7 +11,9 @@ related_entities:
 - imperial-herald
 - imperial-navy
 - alliance
+inara_url: https://inara.cz/elite/minorfaction/?search=Nova%20Imperium
 ---
+
 
 <!-- AUTO-GENERATED -->
 

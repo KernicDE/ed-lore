@@ -11,7 +11,21 @@ related_entities:
 - crown-prospect
 - alliance
 - federal-security-service
+coords:
+  x: -11.5
+  y: -84.5625
+  z: -162.65625
+allegiance: Independent
+government: Dictatorship
+controlling_faction: Close Encounters Corps
+population: 1706347
+security: Medium
+economy: Extraction
+second_economy: Colony
+edsm_url: https://www.edsm.net/en/system?search=Kagutsuchi
+inara_url: https://inara.cz/elite/starsystem/?search=Kagutsuchi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

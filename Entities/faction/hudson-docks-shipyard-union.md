@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - core-dynamics
 - hudson-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Hudson%20Dock%27s%20Shipyard%20Union
 ---
+
 
 <!-- AUTO-GENERATED -->
 

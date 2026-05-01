@@ -11,7 +11,21 @@ related_entities:
 - hip-22460
 - pilots-federation
 - benningtons-rest
+coords:
+  x: 76.5625
+  y: 9.34375
+  z: -183.4375
+allegiance: Independent
+government: Corporate
+controlling_faction: Indigo Technologies
+population: 1024237
+security: Low
+economy: Industrial
+second_economy: None
+edsm_url: https://www.edsm.net/en/system?search=Tekkeitjal
+inara_url: https://inara.cz/elite/starsystem/?search=Tekkeitjal
 ---
+
 
 <!-- AUTO-GENERATED -->
 

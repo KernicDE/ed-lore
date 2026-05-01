@@ -11,7 +11,21 @@ related_entities:
 - kumo-crew
 - kumo-council
 - pilots-federation
+coords:
+  x: -352.78125
+  y: 10.5
+  z: -346.34375
+allegiance: Federation
+government: Democracy
+controlling_faction: Federation Unite!
+population: 440244
+security: High
+economy: Agriculture
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Sothis
+inara_url: https://inara.cz/elite/starsystem/?search=Sothis
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - inra
 - imperial-internal-security-service
 - utopia
+inara_url: https://inara.cz/elite/minorfaction/?search=Vadimo%20Patrons%20of%20Law
 ---
+
 
 <!-- AUTO-GENERATED -->
 

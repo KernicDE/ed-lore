@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - pan-galactic-mining-corp
 - zaonce
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Bar%20Council
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,9 @@ related_entities:
 - achenar
 - inra
 - angeli-imperial-enterprises
+inara_url: https://inara.cz/elite/minorfaction/?search=Rind%20Gold%20Electronics%20Org
 ---
+
 
 <!-- AUTO-GENERATED -->
 

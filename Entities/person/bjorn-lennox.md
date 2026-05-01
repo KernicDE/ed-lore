@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3305-04-25'
 last_seen_date: '3305-05-31'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Bjorn%20Lennox
 ---
+
 
 <!-- AUTO-GENERATED -->
 

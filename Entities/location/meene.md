@@ -11,7 +11,21 @@ related_entities:
 - sirius-corporation
 - felice-dock
 - mars
+coords:
+  x: 118.78125
+  y: -56.4375
+  z: -97.1875
+allegiance: Independent
+government: Confederacy
+controlling_faction: Brazilian League of Pilots
+population: 10893550
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Meene
+inara_url: https://inara.cz/elite/starsystem/?search=Meene
 ---
+
 
 <!-- AUTO-GENERATED -->
 

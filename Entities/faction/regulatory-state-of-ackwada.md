@@ -10,7 +10,9 @@ related_entities:
 - pilots-federation
 - duduseklis-empire-league
 - ackwada
+inara_url: https://inara.cz/elite/minorfaction/?search=Regulatory%20State%20of%20Ackwada
 ---
+
 
 <!-- AUTO-GENERATED -->
 

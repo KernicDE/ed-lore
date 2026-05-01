@@ -11,7 +11,9 @@ related_entities:
 - tsao-tach
 - victorys-forge-megaship
 - pilots-federation
+inara_url: https://inara.cz/elite/minorfaction/?search=Silver%20Legal%20Group
 ---
+
 
 <!-- AUTO-GENERATED -->
 

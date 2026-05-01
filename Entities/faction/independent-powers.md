@@ -10,7 +10,9 @@ related_entities:
 - federation
 - alliance
 - hip-87621
+inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Powers
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - alliance
 - alliance-interpol
 - league-of-reparation
+coords:
+  x: 122.625
+  y: -0.8125
+  z: -47.28125
+allegiance: Independent
+government: Feudal
+controlling_faction: Ryders of the Void
+population: 31778844
+security: High
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Deciat
+inara_url: https://inara.cz/elite/starsystem/?search=Deciat
 ---
+
 
 <!-- AUTO-GENERATED -->
 

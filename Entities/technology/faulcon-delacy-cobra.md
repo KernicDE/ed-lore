@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-06-18'
 last_seen_date: '3302-06-18'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=Faulcon%20DeLacy%20Cobra
 ---
+
 
 <!-- AUTO-GENERATED -->
 

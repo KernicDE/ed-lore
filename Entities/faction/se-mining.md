@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - starship-enterprises
 - lp-339-7
+inara_url: https://inara.cz/elite/minorfaction/?search=SE%20Mining
 ---
+
 
 <!-- AUTO-GENERATED -->
 

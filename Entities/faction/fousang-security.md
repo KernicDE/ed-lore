@@ -9,7 +9,9 @@ related_entities:
 - blue-creative-company
 - fousang
 - akers-orbital
+inara_url: https://inara.cz/elite/minorfaction/?search=Fousang%20security
 ---
+
 
 <!-- AUTO-GENERATED -->
 

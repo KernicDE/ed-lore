@@ -29,6 +29,13 @@ const typeLabels: Record<string, string> = {
   location: 'System / Location',
   technology: 'Technology / Ship',
 };
+
+function formatNumber(n: number): string {
+  if (n >= 1_000_000_000) return (n / 1_000_000_000).toFixed(1) + 'B';
+  if (n >= 1_000_000) return (n / 1_000_000).toFixed(1) + 'M';
+  if (n >= 1_000) return (n / 1_000).toFixed(1) + 'K';
+  return String(n);
+}
 ---
 
 <BaseLayout title={`${entity?.name || id} — GalNet Chronicle`}>
@@ -64,6 +71,57 @@ const typeLabels: Record<string, string> = {
         </div>
       )}
     </div>
+
+    {/* Location data from EDSM */}
+    {entity?.type === 'location' && (
+      <div class="holo-panel">
+        <div class="holo-title">System Data</div>
+        {entity?.coords && (
+          <div style="font-family: var(--font-mono); font-size: 12px; color: var(--text-secondary); margin-bottom: 8px;">
+            Coordinates: [{entity.coords.x}, {entity.coords.y}, {entity.coords.z}]
+          </div>
+        )}
+        <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 8px; font-size: 13px;">
+          {entity?.allegiance && (
+            <div><span style="color: var(--text-dim);">Allegiance:</span> <span style="color: var(--text-primary);">{entity.allegiance}</span></div>
+          )}
+          {entity?.government && (
+            <div><span style="color: var(--text-dim);">Government:</span> <span style="color: var(--text-primary);">{entity.government}</span></div>
+          )}
+          {entity?.controlling_faction && (
+            <div><span style="color: var(--text-dim);">Controlling Faction:</span> <span style="color: var(--text-primary);">{entity.controlling_faction}</span></div>
+          )}
+          {entity?.security && (
+            <div><span style="color: var(--text-dim);">Security:</span> <span style="color: var(--text-primary);">{entity.security}</span></div>
+          )}
+          {entity?.economy && (
+            <div><span style="color: var(--text-dim);">Economy:</span> <span style="color: var(--text-primary);">{entity.economy}</span></div>
+          )}
+          {entity?.population && (
+            <div><span style="color: var(--text-dim);">Population:</span> <span style="color: var(--text-primary);">{formatNumber(entity.population)}</span></div>
+          )}
+        </div>
+      </div>
+    )}
+
+    {/* External links */}
+    {(entity?.edsm_url || entity?.inara_url) && (
+      <div class="holo-panel blue">
+        <div class="holo-title blue">External References</div>
+        <div style="display: flex; gap: 12px; flex-wrap: wrap;">
+          {entity?.edsm_url && (
+            <a href={entity.edsm_url} target="_blank" rel="noopener" style="font-family: var(--font-mono); font-size: 12px; color: var(--elite-blue); text-decoration: none; border: 1px solid var(--elite-blue-dim); padding: 6px 14px;">
+              EDSM ↗
+            </a>
+          )}
+          {entity?.inara_url && (
+            <a href={entity.inara_url} target="_blank" rel="noopener" style="font-family: var(--font-mono); font-size: 12px; color: var(--elite-blue); text-decoration: none; border: 1px solid var(--elite-blue-dim); padding: 6px 14px;">
+              Inara ↗
+            </a>
+          )}
+        </div>
+      </div>
+    )}
 
     {related.length > 0 && (
       <div class="holo-panel blue">

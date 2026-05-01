@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-02-15'
 last_seen_date: '3310-02-15'
 mention_count: 1
+inara_url: https://inara.cz/elite/commodity/?search=nanites
 ---
+
 
 <!-- AUTO-GENERATED -->
 

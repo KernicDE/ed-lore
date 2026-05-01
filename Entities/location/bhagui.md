@@ -11,7 +11,21 @@ related_entities:
 - alliance
 - federal-security-service
 - herculean-machines
+coords:
+  x: 69.59375
+  y: 62.5625
+  z: 124.46875
+allegiance: Federation
+government: Corporate
+controlling_faction: Mould Federal Mining Incorporated
+population: 4541134
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Bhagui
+inara_url: https://inara.cz/elite/starsystem/?search=Bhagui
 ---
+
 
 <!-- AUTO-GENERATED -->
 

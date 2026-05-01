@@ -9,7 +9,9 @@ related_entities:
 - far-god-cult
 - zavijah
 - wheelock-ring
+inara_url: https://inara.cz/elite/minorfaction/?search=LHS%202541%20Alliance%20Combine
 ---
+
 
 <!-- AUTO-GENERATED -->
 

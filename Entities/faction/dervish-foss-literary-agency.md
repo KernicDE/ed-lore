@@ -9,7 +9,9 @@ related_entities:
 - bonespire-publishing
 - rhea-archipelago
 - skyglow-havens
+inara_url: https://inara.cz/elite/minorfaction/?search=Dervish-Foss%20Literary%20Agency
 ---
+
 
 <!-- AUTO-GENERATED -->
 

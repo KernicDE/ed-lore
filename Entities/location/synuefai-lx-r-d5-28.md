@@ -11,7 +11,20 @@ related_entities:
 - bd22-4939
 - hansfords-landing
 - turner-research-group
+coords:
+  x: -244.5625
+  y: -218.5
+  z: -574.96875
+allegiance: Alliance
+government: Corporate
+controlling_faction: Spinward Marches Hydroponics
+population: 751838
+security: Medium
+economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=Synuefai%20LX-R%20d5-28
+inara_url: https://inara.cz/elite/starsystem/?search=Synuefai%20LX-R%20d5-28
 ---
+
 
 <!-- AUTO-GENERATED -->
 

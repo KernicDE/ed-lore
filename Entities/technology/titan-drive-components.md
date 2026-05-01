@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3310-03-21'
 last_seen_date: '3310-04-04'
 mention_count: 2
+inara_url: https://inara.cz/elite/commodity/?search=Titan%20Drive%20Components
 ---
+
 
 <!-- AUTO-GENERATED -->
 

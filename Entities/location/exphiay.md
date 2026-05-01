@@ -11,7 +11,21 @@ related_entities:
 - sirius-finance
 - better-green-developments
 - roach-investment-banking
+coords:
+  x: 283.84375
+  y: -128.25
+  z: -38.9375
+allegiance: Federation
+government: Democracy
+controlling_faction: Exphiay for Equality
+population: 135982
+security: Medium
+economy: Colony
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Exphiay
+inara_url: https://inara.cz/elite/starsystem/?search=Exphiay
 ---
+
 
 <!-- AUTO-GENERATED -->
 

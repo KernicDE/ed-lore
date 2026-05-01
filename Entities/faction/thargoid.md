@@ -10,7 +10,9 @@ related_entities:
 - federal-navy
 - sol
 - hip-18085
+inara_url: https://inara.cz/elite/minorfaction/?search=Thargoid
 ---
+
 
 <!-- AUTO-GENERATED -->
 

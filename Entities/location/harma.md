@@ -11,7 +11,21 @@ related_entities:
 - pilots-federation
 - pegasi-sector-pn-t-c3-14
 - wolf-1301
+coords:
+  x: -99.25
+  y: -100.96875
+  z: 20.40625
+allegiance: Independent
+government: Anarchy
+controlling_faction: Harma Silver Cartel
+population: 27790025
+security: Anarchy
+economy: Industrial
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Harma
+inara_url: https://inara.cz/elite/starsystem/?search=Harma
 ---
+
 
 <!-- AUTO-GENERATED -->
 

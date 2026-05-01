@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - hip-110028
 - zander-dock
+inara_url: https://inara.cz/elite/minorfaction/?search=Winged%20Hussars
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3307-04-15'
 last_seen_date: '3307-04-30'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Orbis%20starport
 ---
+
 
 <!-- AUTO-GENERATED -->
 

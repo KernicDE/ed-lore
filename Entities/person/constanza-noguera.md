@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-06-29'
 last_seen_date: '3307-07-08'
 mention_count: 3
+inara_url: https://inara.cz/elite/cmdr-search/?search=Constanza%20Noguera
 ---
+
 
 <!-- AUTO-GENERATED -->
 

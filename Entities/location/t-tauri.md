@@ -11,7 +11,21 @@ related_entities:
 - taurus-mining-ventures
 - azimuth-biochemicals
 - aegis
+coords:
+  x: -32.96875
+  y: -206.40625
+  z: -557.3125
+allegiance: Independent
+government: Corporate
+controlling_faction: Azimuth Biotech
+population: 21264
+security: Medium
+economy: Extraction
+second_economy: Agriculture
+edsm_url: https://www.edsm.net/en/system?search=T%20Tauri
+inara_url: https://inara.cz/elite/starsystem/?search=T%20Tauri
 ---
+
 
 <!-- AUTO-GENERATED -->
 

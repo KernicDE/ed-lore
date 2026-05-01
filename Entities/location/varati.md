@@ -11,7 +11,21 @@ related_entities:
 - bond-hub
 - warkushanui
 - weyn-dock
+coords:
+  x: -178.65625
+  y: 77.125
+  z: -87.125
+allegiance: Independent
+government: Cooperative
+controlling_faction: Canonn
+population: 9111872
+security: Medium
+economy: Industrial
+second_economy: Extraction
+edsm_url: https://www.edsm.net/en/system?search=Varati
+inara_url: https://inara.cz/elite/starsystem/?search=Varati
 ---
+
 
 <!-- AUTO-GENERATED -->
 

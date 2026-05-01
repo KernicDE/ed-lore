@@ -9,7 +9,9 @@ related_entities:
 - citizens-of-tradition
 - facece
 - syromyatnikov-horizons
+inara_url: https://inara.cz/elite/minorfaction/?search=Gutamaya%20Corporation
 ---
+
 
 <!-- AUTO-GENERATED -->
 

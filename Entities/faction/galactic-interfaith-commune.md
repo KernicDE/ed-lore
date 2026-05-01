@@ -11,7 +11,9 @@ related_entities:
 - church-of-eternal-void
 - spiritual-freedom-movement
 - hip-22460
+inara_url: https://inara.cz/elite/minorfaction/?search=Galactic%20Interfaith%20Commune
 ---
+
 
 <!-- AUTO-GENERATED -->
 

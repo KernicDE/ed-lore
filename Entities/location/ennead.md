@@ -11,7 +11,21 @@ related_entities:
 - hip-36081
 - ltt-1935
 - thetis
+coords:
+  x: 40.6875
+  y: -26.59375
+  z: 3.71875
+allegiance: Independent
+government: Dictatorship
+controlling_faction: EG Union
+population: 3165243943
+security: High
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ennead
+inara_url: https://inara.cz/elite/starsystem/?search=Ennead
 ---
+
 
 <!-- AUTO-GENERATED -->
 

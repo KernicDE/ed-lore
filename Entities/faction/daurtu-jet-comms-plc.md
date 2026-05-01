@@ -10,7 +10,9 @@ related_entities:
 - leoniceno-orbital
 - federation
 - azaleach-partnership
+inara_url: https://inara.cz/elite/minorfaction/?search=Daurtu%20Jet%20Comms%20PLC
 ---
+
 
 <!-- AUTO-GENERATED -->
 

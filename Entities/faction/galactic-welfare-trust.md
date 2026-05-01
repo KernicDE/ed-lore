@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - birmingham
 - simpsons-eden
+inara_url: https://inara.cz/elite/minorfaction/?search=Galactic%20Welfare%20Trust
 ---
+
 
 <!-- AUTO-GENERATED -->
 

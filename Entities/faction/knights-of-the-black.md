@@ -9,7 +9,9 @@ related_entities:
 - federal-navy
 - mars
 - sol
+inara_url: https://inara.cz/elite/minorfaction/?search=Knights%20of%20the%20Black
 ---
+
 
 <!-- AUTO-GENERATED -->
 

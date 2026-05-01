@@ -11,7 +11,9 @@ related_entities:
 - zibal
 - ienpalang
 - hire-port
+inara_url: https://inara.cz/elite/minorfaction/?search=Zibal%20Power%20Co
 ---
+
 
 <!-- AUTO-GENERATED -->
 

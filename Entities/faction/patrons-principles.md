@@ -11,7 +11,9 @@ related_entities:
 - volungu
 - liaedin
 - sirius-corporation
+inara_url: https://inara.cz/elite/minorfaction/?search=Patron%27s%20Principles
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-03-23'
 last_seen_date: '3302-03-23'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Dr%20Lucy%20Ingles
 ---
+
 
 <!-- AUTO-GENERATED -->
 

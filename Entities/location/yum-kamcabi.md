@@ -9,7 +9,21 @@ related_entities:
 - dirichlet-orbital
 - yum-kamcabi-purple-life-industry
 - revolutionary-patani-labour
+coords:
+  x: 35.84375
+  y: 97.65625
+  z: -14.21875
+allegiance: Independent
+government: Corporate
+controlling_faction: Dark Echo
+population: 246938
+security: Medium
+economy: Refinery
+second_economy: Terraforming
+edsm_url: https://www.edsm.net/en/system?search=Yum%20Kamcabi
+inara_url: https://inara.cz/elite/starsystem/?search=Yum%20Kamcabi
 ---
+
 
 <!-- AUTO-GENERATED -->
 

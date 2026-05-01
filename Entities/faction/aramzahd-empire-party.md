@@ -10,7 +10,9 @@ related_entities:
 - normanmaviss-bingo-palace
 - annual-galactic-games-organisation
 - guardinia
+inara_url: https://inara.cz/elite/minorfaction/?search=Aramzahd%20Empire%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

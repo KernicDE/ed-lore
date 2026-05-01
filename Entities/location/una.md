@@ -11,7 +11,21 @@ related_entities:
 - maheou-ti
 - ochoeng
 - newton-dock-medical
+coords:
+  x: -11.09375
+  y: 41.09375
+  z: 90.53125
+allegiance: Independent
+government: Cooperative
+controlling_faction: Social Eleu Progressive Party
+population: 20586513
+security: High
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Una
+inara_url: https://inara.cz/elite/starsystem/?search=Una
 ---
+
 
 <!-- AUTO-GENERATED -->
 

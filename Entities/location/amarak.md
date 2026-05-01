@@ -11,7 +11,21 @@ related_entities:
 - ronin-of-amarak
 - triadius
 - contrail
+coords:
+  x: -68.4375
+  y: 26
+  z: 26.46875
+allegiance: Independent
+government: Democracy
+controlling_faction: German Pilot Lounge
+population: 10281608
+security: Medium
+economy: High Tech
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Amarak
+inara_url: https://inara.cz/elite/starsystem/?search=Amarak
 ---
+
 
 <!-- AUTO-GENERATED -->
 

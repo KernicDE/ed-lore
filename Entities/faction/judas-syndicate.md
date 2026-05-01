@@ -9,7 +9,9 @@ related_entities:
 - federal-state-police
 - beta-hydri
 - jacksons-lighthouse
+inara_url: https://inara.cz/elite/minorfaction/?search=Judas%20Syndicate
 ---
+
 
 <!-- AUTO-GENERATED -->
 

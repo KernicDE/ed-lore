@@ -11,7 +11,9 @@ related_entities:
 - ethgreze
 - utopia
 - aegis
+inara_url: https://inara.cz/elite/minorfaction/?search=Achilles%20Aerospace
 ---
+
 
 <!-- AUTO-GENERATED -->
 

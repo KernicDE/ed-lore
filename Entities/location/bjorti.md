@@ -7,7 +7,21 @@ last_seen_date: '3302-06-16'
 mention_count: 2
 related_entities:
 - eg-pilots
+coords:
+  x: 89.09375
+  y: -175
+  z: -62.84375
+allegiance: Empire
+government: Patronage
+controlling_faction: Coffin Dodgers Inc.
+population: 5196972
+security: High
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Bjorti
+inara_url: https://inara.cz/elite/starsystem/?search=Bjorti
 ---
+
 
 <!-- AUTO-GENERATED -->
 

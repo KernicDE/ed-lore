@@ -11,7 +11,9 @@ related_entities:
 - godel-ring
 - utopixx-entertainment
 - sol
+inara_url: https://inara.cz/elite/minorfaction/?search=Reynhardt%20IntelliSys
 ---
+
 
 <!-- AUTO-GENERATED -->
 

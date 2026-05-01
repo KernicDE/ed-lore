@@ -11,7 +11,21 @@ related_entities:
 - sol-system
 - sothis
 - quince
+coords:
+  x: 46.375
+  y: -448.6875
+  z: -127.125
+allegiance: Empire
+government: Patronage
+controlling_faction: The Emperor's Will
+population: 3014684
+security: Medium
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Fehu
+inara_url: https://inara.cz/elite/starsystem/?search=Fehu
 ---
+
 
 <!-- AUTO-GENERATED -->
 

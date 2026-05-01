@@ -11,7 +11,21 @@ related_entities:
 - friends-of-kui-hsien
 - future-of-ltt-911-party
 - conservatives-of-bv-phoenicis
+coords:
+  x: 45.15625
+  y: -101.46875
+  z: 11.875
+allegiance: Empire
+government: Corporate
+controlling_faction: G.O.M. Collective
+population: 90509
+security: Medium
+economy: Military
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Kui%20Hsien
+inara_url: https://inara.cz/elite/starsystem/?search=Kui%20Hsien
 ---
+
 
 <!-- AUTO-GENERATED -->
 

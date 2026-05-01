@@ -11,7 +11,9 @@ related_entities:
 - ronin-of-amarak
 - triadius
 - balkan-intergalactic-guerrillas
+inara_url: https://inara.cz/elite/minorfaction/?search=Contrail
 ---
+
 
 <!-- AUTO-GENERATED -->
 

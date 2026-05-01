@@ -11,7 +11,9 @@ related_entities:
 - social-eleu-progressive-party
 - the-sovereign
 - alliance-elite-diplomatic-corps
+inara_url: https://inara.cz/elite/minorfaction/?search=EG%20Pilots
 ---
+
 
 <!-- AUTO-GENERATED -->
 

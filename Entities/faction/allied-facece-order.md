@@ -11,7 +11,9 @@ related_entities:
 - imperial-navy
 - capitol
 - imperial-naval-auxiliary
+inara_url: https://inara.cz/elite/minorfaction/?search=Allied%20Facece%20Order
 ---
+
 
 <!-- AUTO-GENERATED -->
 

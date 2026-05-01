@@ -11,7 +11,21 @@ related_entities:
 - rhea
 - gresley-dock
 - ito-orbital
+coords:
+  x: -14.78125
+  y: 19.65625
+  z: -15.25
+allegiance: Federation
+government: Corporate
+controlling_faction: Earth Defense Fleet
+population: 2121852318
+security: High
+economy: Agriculture
+second_economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=Nanomam
+inara_url: https://inara.cz/elite/starsystem/?search=Nanomam
 ---
+
 
 <!-- AUTO-GENERATED -->
 

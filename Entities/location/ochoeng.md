@@ -11,7 +11,21 @@ related_entities:
 - una
 - santjalan
 - shepherd-hub
+coords:
+  x: -139.0625
+  y: -2.3125
+  z: -6.65625
+allegiance: Independent
+government: Democracy
+controlling_faction: Muro Independents
+population: 591968341
+security: Medium
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ochoeng
+inara_url: https://inara.cz/elite/starsystem/?search=Ochoeng
 ---
+
 
 <!-- AUTO-GENERATED -->
 

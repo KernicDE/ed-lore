@@ -8,7 +8,9 @@ mention_count: 2
 related_entities:
 - slinks-eye
 - kelleam-ring
+inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Slink%27s%20Eye%20Liberals
 ---
+
 
 <!-- AUTO-GENERATED -->
 

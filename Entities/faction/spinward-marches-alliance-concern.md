@@ -11,7 +11,9 @@ related_entities:
 - beaumont-dock
 - synuefai-lx-r-d5-28
 - bd22-4939
+inara_url: https://inara.cz/elite/minorfaction/?search=Spinward%20Marches%20Alliance%20Concern
 ---
+
 
 <!-- AUTO-GENERATED -->
 

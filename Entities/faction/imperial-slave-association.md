@@ -9,7 +9,9 @@ related_entities:
 - imperial-senate
 - capitol
 - imperial-navy
+inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Slave%20Association
 ---
+
 
 <!-- AUTO-GENERATED -->
 

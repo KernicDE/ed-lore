@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3309-01-16'
 last_seen_date: '3309-10-02'
 mention_count: 7
+inara_url: https://inara.cz/elite/cmdr-search/?search=Gudrun%20Vestergaard
 ---
+
 
 <!-- AUTO-GENERATED -->
 

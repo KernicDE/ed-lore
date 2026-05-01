@@ -11,7 +11,9 @@ related_entities:
 - bd-22-3573
 - forrester-station
 - rhea
+inara_url: https://inara.cz/elite/minorfaction/?search=Justice%20Party
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - tinia
 - furuhjlem-i-645
 - saga
+coords:
+  x: -20.125
+  y: 19.28125
+  z: 19
+allegiance: Alliance
+government: Feudal
+controlling_faction: Nobles of Dagr
+population: 3253741394
+security: Medium
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Ross%20860
+inara_url: https://inara.cz/elite/starsystem/?search=Ross%20860
 ---
+
 
 <!-- AUTO-GENERATED -->
 

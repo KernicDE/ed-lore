@@ -11,7 +11,21 @@ related_entities:
 - imperial-navy
 - 234-g-carinae
 - beatis
+coords:
+  x: 85.15625
+  y: -56.3125
+  z: 40.34375
+allegiance: Empire
+government: Patronage
+controlling_faction: CD-87 103 Imperial Society
+population: 2006500
+security: Medium
+economy: Agriculture
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Baltah'Sine
+inara_url: https://inara.cz/elite/starsystem/?search=Baltah'Sine
 ---
+
 
 <!-- AUTO-GENERATED -->
 

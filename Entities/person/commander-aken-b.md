@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-07-18'
 last_seen_date: '3302-07-18'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Aken%20B
 ---
+
 
 <!-- AUTO-GENERATED -->
 

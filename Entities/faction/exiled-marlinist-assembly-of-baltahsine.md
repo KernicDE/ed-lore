@@ -11,7 +11,9 @@ related_entities:
 - marlinist-parliament
 - nmla
 - hyades-sector-ro-p-b6-2
+inara_url: https://inara.cz/elite/minorfaction/?search=Exiled%20Marlinist%20Assembly%20of%20Baltah%27Sine
 ---
+
 
 <!-- AUTO-GENERATED -->
 

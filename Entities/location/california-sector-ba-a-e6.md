@@ -11,7 +11,20 @@ related_entities:
 - furuhjelm-iii-674
 - tshang-city
 - california-nebula
+coords:
+  x: -319.8125
+  y: -216.75
+  z: -913.46875
+allegiance: Alliance
+government: Dictatorship
+controlling_faction: Turner Research Group
+population: 10000
+security: Medium
+economy: High Tech
+edsm_url: https://www.edsm.net/en/system?search=California%20Sector%20BA-A%20E6
+inara_url: https://inara.cz/elite/starsystem/?search=California%20Sector%20BA-A%20E6
 ---
+
 
 <!-- AUTO-GENERATED -->
 

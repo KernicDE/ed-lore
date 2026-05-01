@@ -8,7 +8,9 @@ mention_count: 1
 related_entities:
 - abres
 - torrance
+inara_url: https://inara.cz/elite/minorfaction/?search=Pangborn%20Dock
 ---
+
 
 <!-- AUTO-GENERATED -->
 

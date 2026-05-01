@@ -11,7 +11,9 @@ related_entities:
 - advocacy
 - sol
 - federal-congress
+inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Justice%20Department
 ---
+
 
 <!-- AUTO-GENERATED -->
 

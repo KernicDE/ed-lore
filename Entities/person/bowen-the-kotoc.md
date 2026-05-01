@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3302-04-19'
 last_seen_date: '3302-04-19'
 mention_count: 1
+inara_url: https://inara.cz/elite/cmdr-search/?search=Bowen%20the%20Kotoc
 ---
+
 
 <!-- AUTO-GENERATED -->
 

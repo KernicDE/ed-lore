@@ -11,7 +11,21 @@ related_entities:
 - money-matters
 - almagest
 - hip-8396
+coords:
+  x: -348.65625
+  y: 13.875
+  z: -339.21875
+allegiance: Federation
+government: Democracy
+controlling_faction: Federation Unite!
+population: 511342
+security: Medium
+economy: High Tech
+second_economy: Terraforming
+edsm_url: https://www.edsm.net/en/system?search=Ceos
+inara_url: https://inara.cz/elite/starsystem/?search=Ceos
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: person
 first_seen_date: '3307-03-24'
 last_seen_date: '3311-07-17'
 mention_count: 40
+inara_url: https://inara.cz/elite/cmdr-search/?search=Jerome%20Archer
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - george-pantazis
 - upaniklis
 - geras
+coords:
+  x: 68.84375
+  y: 48.75
+  z: 74.75
+allegiance: Independent
+government: Corporate
+controlling_faction: Delta Squadron
+population: 3200014163
+security: Low
+economy: Industrial
+second_economy: Military
+edsm_url: https://www.edsm.net/en/system?search=Uszaa
+inara_url: https://inara.cz/elite/starsystem/?search=Uszaa
 ---
+
 
 <!-- AUTO-GENERATED -->
 

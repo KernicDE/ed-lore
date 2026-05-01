@@ -10,7 +10,9 @@ related_entities:
 - run
 - smith-port
 - leif-enterprise
+inara_url: https://inara.cz/elite/minorfaction/?search=Rogue%20Security
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3311-11-13'
 last_seen_date: '3312-04-15'
 mention_count: 8
+inara_url: https://inara.cz/elite/commodity/?search=Radicoida%20unica
 ---
+
 
 <!-- AUTO-GENERATED -->
 

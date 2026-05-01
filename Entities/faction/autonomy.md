@@ -11,7 +11,9 @@ related_entities:
 - vox-galactica
 - unchain
 - imperial-internal-security-service
+inara_url: https://inara.cz/elite/minorfaction/?search=Autonomy
 ---
+
 
 <!-- AUTO-GENERATED -->
 

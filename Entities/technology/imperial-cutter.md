@@ -5,7 +5,9 @@ type: technology
 first_seen_date: '3302-01-04'
 last_seen_date: '3302-11-25'
 mention_count: 3
+inara_url: https://inara.cz/elite/commodity/?search=Imperial%20Cutter
 ---
+
 
 <!-- AUTO-GENERATED -->
 

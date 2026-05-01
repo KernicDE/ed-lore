@@ -9,7 +9,9 @@ related_entities:
 - freedom-party-of-ho-hsi
 - ho-hsi
 - hand-ring
+inara_url: https://inara.cz/elite/minorfaction/?search=Ho%20Hsi%20Jet%20Comms%20Limited
 ---
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,21 @@ related_entities:
 - bujold-enterprise
 - cutter-club
 - moore-prospect
+coords:
+  x: 131.78125
+  y: -12.96875
+  z: 60.03125
+allegiance: Empire
+government: Patronage
+controlling_faction: Imperial Enforcement Division
+population: 1829345
+security: Medium
+economy: Extraction
+second_economy: Industrial
+edsm_url: https://www.edsm.net/en/system?search=Kalana
+inara_url: https://inara.cz/elite/starsystem/?search=Kalana
 ---
+
 
 <!-- AUTO-GENERATED -->
 

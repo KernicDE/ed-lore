@@ -11,7 +11,9 @@ related_entities:
 - universal-cartographics
 - kaushpoos
 - neville-horizons
+inara_url: https://inara.cz/elite/minorfaction/?search=Pacap%20Limited
 ---
+
 
 <!-- AUTO-GENERATED -->
 

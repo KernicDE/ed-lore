@@ -11,7 +11,21 @@ related_entities:
 - liberal-party
 - dahan
 - dahan-gateway
+coords:
+  x: -22.84375
+  y: 36.53125
+  z: -1.1875
+allegiance: Alliance
+government: Confederacy
+controlling_faction: Terran Colonial Forces
+population: 459296
+security: Medium
+economy: Agriculture
+second_economy: Refinery
+edsm_url: https://www.edsm.net/en/system?search=Eranin
+inara_url: https://inara.cz/elite/starsystem/?search=Eranin
 ---
+
 
 <!-- AUTO-GENERATED -->
 
