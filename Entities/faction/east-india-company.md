@@ -2,32 +2,32 @@
 id: east-india-company
 name: East India Company
 type: faction
-first_seen_date: '3301-03-26'
+first_seen_date: '3301-02-28'
 last_seen_date: '3301-09-06'
-mention_count: 7
+mention_count: 8
 related_entities:
 - federal-navy
+- imperial-senate
 - kappa-fornacis
-- alliance
-- crimson-state-group
-- sons-of-conn
+- citizens-of-tradition
+- polahukuna-raiders
 ---
 
 <!-- AUTO-GENERATED -->
 
 # East India Company
 
-First mentioned: **3301-03-26**  
+First mentioned: **3301-02-28**  
 Last mentioned: **3301-09-06**  
-Total mentions: **7**
+Total mentions: **8**
 
 ## Related
 
-- [[Federal Navy]] (4 co-mentions)
+- [[Federal Navy]] (5 co-mentions)
+- [[Imperial Senate]] (2 co-mentions)
 - [[Kappa Fornacis]] (2 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Crimson State Group]] (1 co-mentions)
-- [[Sons of Conn]] (1 co-mentions)
+- [[Citizens of Tradition]] (1 co-mentions)
+- [[Polahukuna Raiders]] (1 co-mentions)
 
 ## Biography
 

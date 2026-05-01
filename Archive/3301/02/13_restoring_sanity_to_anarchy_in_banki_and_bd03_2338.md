@@ -4,16 +4,21 @@ title: Restoring Sanity to Anarchy in Banki and BD+03 2338
 slug: restoring_sanity_to_anarchy_in_banki_and_bd03_2338
 date: '3301-02-13'
 source: GitHub
+summary: The Federal Navy is moving into position around Banki and BD+03 2338 as independent commanders gather at Antonio De Andrade Vista in Banki and Matteucci Terminal in Khasiri for final engagements against Federal rebels. The Navy issued an evacuation warning, stating unidentified ships will be treated as enemy combatants. Loyal Federation members are requested to report for orders, with non-combat roles available for conscientious objectors.
+player_impact: Pilots can support Federal forces at Antonio De Andrade Vista in Banki or Matteucci Terminal in Khasiri to combat rebel forces. Non-combat support roles are available.
+persons: []
 groups:
 - Federal Navy
 locations:
 - Banki
+- BD+03 2338
+- Antonio De Andrade Vista
+- Khasiri
+- Matteucci Terminal
 topics:
-- independence
-- ship
 - war
 arc_id: banki-liberation
-modern_impact: The Banki liberation campaign demonstrates the power of organised independent pilot action.
+modern_impact: The Banki liberation campaign demonstrated the power of organised independent pilot action in supporting Federal military operations.
 legacy_weight: 2
 significance: low
 ---

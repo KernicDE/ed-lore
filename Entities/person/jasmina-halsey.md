@@ -2,18 +2,18 @@
 id: jasmina-halsey
 name: Jasmina Halsey
 type: person
-first_seen_date: '3301-03-09'
+first_seen_date: '3301-02-15'
 last_seen_date: '3309-10-16'
-mention_count: 97
+mention_count: 102
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Jasmina Halsey
 
-First mentioned: **3301-03-09**  
+First mentioned: **3301-02-15**  
 Last mentioned: **3309-10-16**  
-Total mentions: **97**
+Total mentions: **102**
 
 ## Related
 

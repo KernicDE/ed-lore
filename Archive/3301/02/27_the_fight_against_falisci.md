@@ -4,20 +4,23 @@ title: The Fight Against Falisci
 slug: the_fight_against_falisci
 date: '3301-02-27'
 source: GitHub
+summary: Despite Senator Patreus's warning, Falisci pirates continue plundering traders en route to Dongzi and Ngaiawang. Citizens of Tradition warships, known for their support of Patreus, have been spotted massing on Falisci's borders. Commander Shole of the Citizens of Tradition stated they have orders to protect traders and warned Falisci pirates against crossing the border. Imperial commanders willing to join the fight should seek out the Citizens of Tradition at Dornier Terminal in Ngaiawang.
+player_impact: Imperial pilots can join the Citizens of Tradition at Dornier Terminal in Ngaiawang to defend trade routes against Falisci pirates.
+persons:
+- Denton Patreus
+- Commander Shole
+groups:
+- Citizens of Tradition
 locations:
-- Denton
 - Falisci
 - Ngaiawang
+- Dongzi
+- Dornier Terminal
 topics:
 - piracy
-- ship
-- trade
 - war
-entities:
-- Denton Patreus
-- Shole
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies and his use of proxy forces to secure Imperial trade routes.
 legacy_weight: 3
 significance: medium
 ---

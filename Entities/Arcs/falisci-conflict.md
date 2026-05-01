@@ -8,9 +8,9 @@ significance: medium
 key_entities:
 - citizens-of-tradition
 - falisci-purple-gang
-- denton-patreus
-- denton-patreus-received
-- shole
+- federal-navy
+- imperial-senate
+- east-india-company
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Articles: **6**
 
 ## Key Figures
 
-- [[Citizens of Tradition]] (3 mentions)
+- [[Citizens of Tradition]] (5 mentions)
 - [[Falisci Purple Gang]] (3 mentions)
-- [[Denton Patreus]] (2 mentions)
-- [[Denton Patreus received]] (1 mentions)
-- [[Shole]] (1 mentions)
+- [[Federal Navy]] (1 mentions)
+- [[Imperial Senate]] (1 mentions)
+- [[East India Company]] (1 mentions)
 
 ## Description
 

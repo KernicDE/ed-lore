@@ -2,32 +2,21 @@
 id: denton-patreus
 name: Denton Patreus
 type: person
-first_seen_date: '3301-02-27'
-last_seen_date: '3301-02-28'
-mention_count: 2
-related_entities:
-- denton
-- falisci
-- ngaiawang
-- shole
-- federal-navy
+first_seen_date: '3301-02-16'
+last_seen_date: '3311-11-27'
+mention_count: 120
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Denton Patreus
 
-First mentioned: **3301-02-27**  
-Last mentioned: **3301-02-28**  
-Total mentions: **2**
+First mentioned: **3301-02-16**  
+Last mentioned: **3311-11-27**  
+Total mentions: **120**
 
 ## Related
 
-- [[Denton]] (2 co-mentions)
-- [[Falisci]] (2 co-mentions)
-- [[Ngaiawang]] (2 co-mentions)
-- [[Shole]] (1 co-mentions)
-- [[Federal Navy]] (1 co-mentions)
 
 ## Biography
 

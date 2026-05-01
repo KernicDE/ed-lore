@@ -4,12 +4,19 @@ title: Patreus Slave Sale Ends
 slug: patreus_slave_sale_ends
 date: '3301-02-16'
 source: GitHub
+summary: The temporary sale of Imperial Slaves from Durius has ended after 12,070 citizens underwent debt relief retraining and were exported to other parts of the Empire. The arrangement was facilitated by a business partnership between Senator Patreus and Senator Torval. Patreus praised the citizens for 'freely entering the honourable Imperial tradition' and voluntarily becoming Imperial Slaves until their debts were repaid. The remaining citizenry are now in good financial standing.
+player_impact: None directly; the temporary slave sale from Durius has concluded.
+persons:
+- Denton Patreus
+- Zemina Torval
+groups: []
+locations:
+- Durius
 topics:
-- humanitarian
 - slavery
-modern_impact: Humanitarian effort by the pilot community to assist those in need.
-legacy_weight: 2
-significance: low
+modern_impact: The Durius slave sale exemplified how Imperial debt bondage operated as a formalised system of labour under the guise of voluntary obligation.
+legacy_weight: 3
+significance: medium
 ---
 
 It's been an interesting week for The people of Durius as they continue to undergo assimilation into The greater Imperial fold.  

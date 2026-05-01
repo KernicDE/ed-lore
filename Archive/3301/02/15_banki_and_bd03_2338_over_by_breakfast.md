@@ -4,19 +4,24 @@ title: Banki and BD+03 2338   Over by Breakfast!
 slug: banki_and_bd03_2338_over_by_breakfast
 date: '3301-02-15'
 source: GitHub
+summary: Admiral Vincent expressed pleasure over Federal Forces' progress reclaiming Banki and BD+03 2338. He stated the conflicts began when lawless thugs invaded peaceful neighbours and vowed that the Federation would not stand idle despite President Halsey's distractions in finding a replacement for the late Vice President Smeaton. Vincent declared all foreign and domestic terrorist rebels would be dealt with decisively, predicting the fighting would be over by breakfast thanks to pinpoint strikes by ground troops.
+player_impact: Federal pilots can join the final push to reclaim Banki and BD+03 2338 from rebel forces, with combat expected to conclude quickly.
+persons:
+- Admiral Vincent
+- Jasmina Halsey
+- Smeaton
+groups:
+- Federal Navy
 locations:
 - Banki
+- BD+03 2338
 topics:
-- independence
-- terrorism
 - war
-entities:
-- Halsey might be facing
-- Smeaton
-arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
-legacy_weight: 4
-significance: high
+- terrorism
+arc_id: banki-liberation
+modern_impact: Admiral Vincent's confident prediction of a swift victory in Banki highlighted the Federal military's aggressive posture toward separatist movements.
+legacy_weight: 3
+significance: medium
 ---
 
 In a speech delivered from Navy Headquarters, Admiral Vincent has expressed his pleasure over The progress being made by Federal Forces engaged in The reclamation of Banki and BD+03 2338. 

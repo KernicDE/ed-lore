@@ -4,15 +4,19 @@ title: Station Construction Now Underway
 slug: station_construction_now_underway
 date: '3301-02-18'
 source: GitHub
+summary: The EAUC Exploration Ocellus station construction is well underway thanks to 4,871 commanders contributing over 8.1 million tons of metal. Universal Cartographics thanked the committee for choosing the mineral-rich HIP 101110 system (now named New Yembo) as the launch site, and Zimm_Macugz for organising 150,000 tonnes of raw materials. The station is expected to begin its maiden voyage to New Yembo within days.
+player_impact: Pilots who contributed metals to the EAUC station project helped build a new exploration outpost in New Yembo.
+persons:
+- Zimm_Macugz
 groups:
 - Universal Cartographics
+- EAUC
 locations:
 - New Yembo
+- HIP 101110
 topics:
-- construction
-- corporate expansion
 - exploration
-modern_impact: Notable exploration achievement expanding the boundaries of known space.
+modern_impact: The EAUC Exploration Ocellus in New Yembo became a significant waypoint for explorers venturing into the outer reaches of occupied space.
 legacy_weight: 2
 significance: low
 ---

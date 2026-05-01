@@ -24,7 +24,7 @@ Total mentions: **30**
 ## Related
 
 - [[Mackenzie Relay]] (11 co-mentions)
-- [[Emerald]] (8 co-mentions)
+- [[Emerald]] (9 co-mentions)
 - [[Achenar]] (6 co-mentions)
 - [[Imperial Palace]] (6 co-mentions)
 - [[Alliance]] (6 co-mentions)

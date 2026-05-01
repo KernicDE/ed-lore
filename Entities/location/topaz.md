@@ -2,32 +2,32 @@
 id: topaz
 name: Topaz
 type: location
-first_seen_date: '3301-04-28'
+first_seen_date: '3301-02-12'
 last_seen_date: '3301-08-18'
-mention_count: 2
+mention_count: 3
 related_entities:
+- hip-110620
 - imperial-senate
 - emperors-grace
 - imperial-court
 - facece-empire-party
-- office-of-imperial-statistics
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Topaz
 
-First mentioned: **3301-04-28**  
+First mentioned: **3301-02-12**  
 Last mentioned: **3301-08-18**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
+- [[HIP 110620]] (1 co-mentions)
 - [[Imperial Senate]] (1 co-mentions)
 - [[Emperor's Grace]] (1 co-mentions)
 - [[Imperial Court]] (1 co-mentions)
 - [[Facece Empire Party]] (1 co-mentions)
-- [[Office of Imperial Statistics]] (1 co-mentions)
 
 ## Biography
 

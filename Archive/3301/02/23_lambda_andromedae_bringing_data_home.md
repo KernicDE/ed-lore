@@ -4,18 +4,20 @@ title: Lambda Andromedae  Bringing Data Home
 slug: lambda_andromedae_bringing_data_home
 date: '3301-02-23'
 source: GitHub
+summary: The Sirius Corporation announced plans to launch new colonial outposts at the edges of occupied space, inspired by Universal Cartographics' expansion push. Junior Vice President Ana Quin of Interstellar Logistics stated the board had finally approved the project and they have the technology and volunteers. Sirius is offering substantial rewards for explorers who bring usable exploration data containing potential colony sites to Nourse Orbital in Lambda Andromedae.
+player_impact: Explorers can deliver exploration data to Nourse Orbital in Lambda Andromedae for substantial monetary rewards to support Sirius Corporation's colonial expansion.
+persons:
+- Ana Quin
 groups:
-- Sirius Corp
 - Sirius Corporation
 - Universal Cartographics
 locations:
 - Lambda Andromedae
 - Sirius
+- Nourse Orbital
 topics:
-- corporate expansion
 - exploration
-- war
-modern_impact: Notable exploration achievement expanding the boundaries of known space.
+modern_impact: Sirius Corporation's colonial outpost initiative represented a major corporate push to expand human settlement to the fringes of occupied space.
 legacy_weight: 2
 significance: low
 ---

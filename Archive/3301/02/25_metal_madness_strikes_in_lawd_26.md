@@ -4,10 +4,18 @@ title: Metal Madness Strikes in LAWD 26
 slug: metal_madness_strikes_in_lawd_26
 date: '3301-02-25'
 source: GitHub
+summary: A metal rush has begun in LAWD 26 after the discovery of a pristine mining site by the late prospector Hank Stone. Thousands of entrepreneurs are heading to the region to strike it rich before major mining corporations establish a presence. Raw gold from Stone's discovery was found aboard his abandoned Sidewinder at Crook's Hub in Toolfa. The window for independent miners is limited before corporate strip-mining operations move in.
+player_impact: Miners and traders can capitalise on the metal rush in LAWD 26 before major corporations establish operations in the system.
+persons:
+- Hank Stone
+groups: []
+locations:
+- LAWD 26
+- Toolfa
+- Crook's Hub
 topics:
-- construction
-- corporate expansion
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+- exploration
+modern_impact: The LAWD 26 metal rush exemplified the brief windows of opportunity for independent prospectors before corporate interests dominated resource-rich systems.
 legacy_weight: 2
 significance: low
 ---

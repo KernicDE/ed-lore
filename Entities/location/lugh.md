@@ -23,7 +23,7 @@ Total mentions: **21**
 
 ## Related
 
-- [[Crimson State Group]] (14 co-mentions)
+- [[Crimson State Group]] (15 co-mentions)
 - [[Federal Navy]] (10 co-mentions)
 - [[Hartsfield Market]] (6 co-mentions)
 - [[Alioth]] (5 co-mentions)

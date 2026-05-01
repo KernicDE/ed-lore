@@ -4,7 +4,18 @@ title: The Legend Returns
 slug: the_legend_returns
 date: '3301-02-12'
 source: GitHub
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: Jaques Station, the famous travelling station run by the cyborg barkeep Jaques, was spotted in HIP 110620 by an intrepid commander. Jaques had begun his epic journey from orbit around the moon of Topaz into the great unknown. When asked about his travels by Emma Hallows, the robotic barkeep responded that people should 'come buy a drink and find out for themselves.'
+player_impact: Pilots can visit Jaques Station in HIP 110620 and hear tales from the legendary travelling barkeep.
+persons:
+- Jaques
+- Emma Hallows
+groups: []
+locations:
+- HIP 110620
+- Topaz
+topics:
+- exploration
+modern_impact: Jaques Station's ongoing journey became one of the most beloved mysteries in the galaxy, drawing explorers to seek out the wandering barkeep.
 legacy_weight: 2
 significance: low
 ---

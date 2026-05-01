@@ -7,6 +7,8 @@ last_seen_date: '3301-03-05'
 mention_count: 2
 related_entities:
 - universal-cartographics
+- eauc
+- hip-101110
 - explorers-association
 ---
 
@@ -21,6 +23,8 @@ Total mentions: **2**
 ## Related
 
 - [[Universal Cartographics]] (2 co-mentions)
+- [[EAUC]] (1 co-mentions)
+- [[HIP 101110]] (1 co-mentions)
 - [[Explorers' Association]] (1 co-mentions)
 
 ## Biography

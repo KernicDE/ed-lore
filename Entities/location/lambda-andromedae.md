@@ -8,9 +8,9 @@ mention_count: 2
 related_entities:
 - sirius-corporation
 - universal-cartographics
+- nourse-orbital
 - core-dynamics
 - federal-navy
-- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **2**
 
 - [[Sirius Corporation]] (2 co-mentions)
 - [[Universal Cartographics]] (2 co-mentions)
+- [[Nourse Orbital]] (2 co-mentions)
 - [[Core Dynamics]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
 
 ## Biography
 

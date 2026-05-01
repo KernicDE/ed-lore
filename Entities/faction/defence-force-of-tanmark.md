@@ -2,32 +2,32 @@
 id: defence-force-of-tanmark
 name: Defence Force of Tanmark
 type: faction
-first_seen_date: '3301-03-03'
+first_seen_date: '3301-02-24'
 last_seen_date: '3301-03-06'
-mention_count: 2
+mention_count: 3
 related_entities:
-- tanmark-posse
 - tanmark
-- luca
-- panem
 - cassie-l-peia
+- tanmark-posse
+- luca
+- farmers-union-of-kappa-fornacis
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Defence Force of Tanmark
 
-First mentioned: **3301-03-03**  
+First mentioned: **3301-02-24**  
 Last mentioned: **3301-03-06**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
+- [[Tanmark]] (3 co-mentions)
+- [[Cassie-L-Peia]] (2 co-mentions)
 - [[Tanmark Posse]] (2 co-mentions)
-- [[Tanmark]] (2 co-mentions)
 - [[Luca]] (2 co-mentions)
-- [[Panem]] (1 co-mentions)
-- [[Cassie-L-Peia]] (1 co-mentions)
+- [[Farmers Union of Kappa Fornacis]] (1 co-mentions)
 
 ## Biography
 

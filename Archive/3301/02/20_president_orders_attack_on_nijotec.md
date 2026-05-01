@@ -4,17 +4,23 @@ title: President Orders Attack on Nijotec
 slug: president_orders_attack_on_nijotec
 date: '3301-02-20'
 source: GitHub
+summary: President Halsey ordered an all-out assault on the Nijotec region, accusing the Nijotec Syndicate of preying on the weak and declaring that criminal independent states have 'no place in greater galactic society.' She cited the liberations of Nijotec, Banki, and BD+03 2338 as warnings to dictators. Nijotec, home to 21,500 people, was once rich in minerals but has been strip-mined to near exhaustion. The Lycan Moon Mining Corporation's abandonment of the region allowed the Syndicate to flourish.
+player_impact: Federal pilots can participate in the assault on Nijotec to combat the Nijotec Syndicate and support the liberation effort.
+persons:
+- Jasmina Halsey
 groups:
 - Federal Congress
 - Federal Navy
+- Nijotec Syndicate
+- Lycan Moon Mining Corporation
 locations:
 - Nijotec
 - Sol
+- Banki
+- BD+03 2338
 topics:
 - war
 - politics
-entities:
-- President Jasmina Halsey
 arc_id: halsey-presidency
 arc_chapter: Halsey orders strike
 modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.

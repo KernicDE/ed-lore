@@ -4,20 +4,22 @@ title: Lugh Makes a Bold Step Towards Independence
 slug: lugh_makes_a_bold_step_towards_independence
 date: '3301-02-22'
 source: GitHub
+summary: Éamonn Uí Laoghire, spokesperson for Lugh's independence bid, arrived in Alioth to seek Alliance recognition. Though not yet granted an official audience, he addressed large crowds of supporters on the steps of the state residence. Uí Laoghire stated that Lugh was settled by a sovereign people of one lineage and one religion, with 87% popular support for the Crimson State Group. He called on the Alliance to recognise the legitimacy of a free and democratic Lugh, citing the Federal Navy as the only obstacle to the people's will.
+player_impact: Pilots sympathetic to Lugh's independence can support the Crimson State Group's diplomatic efforts and advocate for Alliance recognition.
+persons:
+- Éamonn Uí Laoghire
 groups:
 - Alliance
 - Federal Navy
+- Crimson State Group
 locations:
 - Alioth
-- Independence
 - Lugh
-- Since its earliest inception the Lugh
-- The Alioth
 topics:
 - independence
-- war
+- diplomacy
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
+modern_impact: Uí Laoghire's appeal to the Alliance marked a strategic attempt to gain superpower legitimacy for Lugh's independence movement.
 legacy_weight: 3
 significance: medium
 ---

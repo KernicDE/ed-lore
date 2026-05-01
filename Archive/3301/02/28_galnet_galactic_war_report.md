@@ -4,22 +4,28 @@ title: GalNet Galactic War Report
 slug: galnet_galactic_war_report
 date: '3301-02-28'
 source: GitHub
+summary: 'Two war updates: (1) The Federal Navy-Polahukuna Raiders conflict shifted as the Federation began construction of a new Farragut-class battlecruiser at Hudson Dock in BD+03 2338. Raiders appear to have withdrawn, but traders supplying Hudson Dock face attacks from Imperial mercenaries known as the East India Company. The Imperial Senate denies knowledge of the attacks. (2) In Imperial space, the Citizens of Tradition, acting under Senator Denton Patreus authority, launched a full-scale invasion of Falisci to secure spaceways around Dongzi and Ngaiawang, operating from Dornier Terminal in Ngaiawang.'
+player_impact: Pilots can support Federal capital ship construction in BD+03 2338, defend traders from East India Company attacks, or join the Falisci invasion under Citizens of Tradition command.
+persons:
+- Denton Patreus
 groups:
 - Federal Navy
 - Imperial Senate
+- Citizens of Tradition
+- East India Company
+- Polahukuna Raiders
 locations:
-- Denton
+- BD+03 2338
+- Hudson Dock
 - Falisci
 - Ngaiawang
+- Dongzi
+- Dornier Terminal
 topics:
-- crime
-- ship
-- trade
 - war
-entities:
-- Denton Patreus
+- piracy
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
+modern_impact: The concurrent Federal and Imperial military operations highlighted the complex proxy warfare dynamics between the superpowers during this period.
 legacy_weight: 3
 significance: medium
 ---

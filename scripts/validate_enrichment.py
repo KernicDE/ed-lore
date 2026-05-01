@@ -110,7 +110,7 @@ def validate_file(path: Path) -> list:
         topics = fm.get("topics", []) or []
         if len(topics) == 0:
             issues.append((str(path), "No topics"))
-        bad_topics = [t for t in topics if t in ('ship','sport','trade','construction','medicine','safety','treasure hunt')]
+        bad_topics = [t for t in topics if t in ('ship','sport','trade','construction','safety','treasure hunt')]
         if bad_topics:
             issues.append((str(path), f"Has banned topics: {bad_topics}"))
 

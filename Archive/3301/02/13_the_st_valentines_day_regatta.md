@@ -4,14 +4,17 @@ title: The St. Valentine's Day Regatta
 slug: the_st_valentines_day_regatta
 date: '3301-02-13'
 source: GitHub
+summary: Captain Millington announced details of the St. Valentine's Regatta, one of the most prestigious events on the racing calendar. Beginning in Kumbaya, the race follows a gruelling 500-light-year route through dangerous sectors. In its 37-year history, the race has never been won by a pilot without exemplary skill, and many winners became legends. Commander Kitiara is handling last-minute entrants.
+player_impact: Pilots can enter the St. Valentine's Regatta by contacting Commander Kitiara. The race begins on the 14th and covers 500 light-years from Kumbaya.
+persons:
+- Captain Millington
+- Commander Kitiara
+groups: []
 locations:
 - Kumbaya
 topics:
-- sport
-- war
-entities:
-- Kitiara
-modern_impact: Competitive event for the pilot community.
+- exploration
+modern_impact: The St. Valentine's Regatta remained one of the galaxy's most challenging and prestigious racing events, testing pilot skill across dangerous sectors.
 legacy_weight: 1
 significance: low
 ---

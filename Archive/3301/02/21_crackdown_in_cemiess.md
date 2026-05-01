@@ -4,14 +4,20 @@ title: Crackdown in Cemiess
 slug: crackdown_in_cemiess
 date: '3301-02-21'
 source: GitHub
+summary: Crime on Emerald in Cemiess has risen over 300% following the influx of emancipated Imperial Slaves. Local social sites are flooded with complaints from long-term residents fearing for their families' safety. Commissioner Chamberlain of Emerald Security announced a temporary curfew and advised citizens to remain calm, stating the crime increase is typical after large population movements and will subside as new residents integrate.
+player_impact: Pilots visiting Cemiess should be aware of the temporary curfew on Emerald and increased security presence.
+persons:
+- Commissioner Chamberlain
+groups:
+- Emerald Security
 locations:
 - Cemiess
+- Emerald
 topics:
 - crime
-- safety
 - slavery
-modern_impact: Pilot safety initiative with potential regulatory implications for starship design.
-legacy_weight: 1
+modern_impact: The Cemiess crime wave highlighted the social friction caused by large-scale slave emancipation without adequate integration support.
+legacy_weight: 2
 significance: low
 ---
 

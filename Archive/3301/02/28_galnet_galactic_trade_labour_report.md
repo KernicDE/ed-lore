@@ -4,25 +4,27 @@ title: GalNet Galactic Trade Labour Report
 slug: galnet_galactic_trade_labour_report
 date: '3301-02-28'
 source: GitHub
+summary: 'Three trade and labour updates: (1) Semi-professional miners from Sol have increased demand for Mineral Extractors in LAWD 26, with the Union of Toofla Progressive Party offering excellent rates and selling gold at discounted prices. (2) The Sirius Corporation announced 8 new colonisation candidate systems identified by explorers, with a deadline approaching for submissions to Nourse Orbital in Lambda Andromedae. (3) Core Dynamics seeks a large copper supply for the new Federal capital ship at Hudson Dock in BD+03 2338, but faces pirate and mercenary interference, with requests for Federal Navy security funding still pending.'
+player_impact: Traders can sell Mineral Extractors in LAWD 26, explorers can submit data to Lambda Andromedae before the deadline, and miners can deliver copper to BD+03 2338.
+persons: []
 groups:
 - Core Dynamics
 - Federal Navy
-- Sirius Corp
 - Sirius Corporation
 - Universal Cartographics
+- Union of Toofla Progressive Party
 locations:
+- LAWD 26
 - Lambda Andromedae
-- Sirius
+- Nourse Orbital
+- BD+03 2338
+- Hudson Dock
 - Sol
+- Sirius
 topics:
-- construction
-- corporate expansion
 - exploration
 - piracy
-- research
-- ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The GalNet trade report aggregated multiple economic opportunities and challenges across Federal and corporate space during a period of expanding colonial ambitions.
 legacy_weight: 2
 significance: low
 ---

@@ -6,10 +6,10 @@ first_seen_date: '3301-02-27'
 last_seen_date: '3301-03-07'
 mention_count: 3
 related_entities:
+- citizens-of-tradition
 - falisci
-- denton-patreus
-- denton
-- shole
+- dornier-terminal
+- dongzi
 - federal-navy
 ---
 
@@ -23,10 +23,10 @@ Total mentions: **3**
 
 ## Related
 
+- [[Citizens of Tradition]] (3 co-mentions)
 - [[Falisci]] (3 co-mentions)
-- [[Denton Patreus]] (2 co-mentions)
-- [[Denton]] (2 co-mentions)
-- [[Shole]] (1 co-mentions)
+- [[Dornier Terminal]] (3 co-mentions)
+- [[Dongzi]] (2 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
 
 ## Biography

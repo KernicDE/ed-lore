@@ -4,14 +4,20 @@ title: New VP Appointed
 slug: new_vp_appointed
 date: '3301-02-17'
 source: GitHub
+summary: Congressman Ethan Naylor of Siren was formally sworn in as Federal Vice President in a ceremony on Mars. The appointment is controversial as Naylor is the first frontier-world Congressman to hold Federal leadership. Some speculate Halsey is responding to criticism that her government is too Sol-centric. In his speech, Naylor pledged to ensure frontier Federal States receive the attention they deserve.
+player_impact: None directly; Naylor's appointment may shift Federal policy focus toward frontier systems.
+persons:
+- Ethan Naylor
+- Jasmina Halsey
+groups: []
 locations:
 - Mars
 - Sol
+- Siren
 topics:
-- construction
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+- politics
+modern_impact: Ethan Naylor's appointment as Vice President was a controversial attempt by Halsey to address criticism of Sol-centric governance, though it did little to halt her political decline.
+legacy_weight: 2
 significance: low
 ---
 

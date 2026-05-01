@@ -4,16 +4,21 @@ title: Underground Racers Spotted In and Around Sol
 slug: underground_racers_spotted_in_and_around_sol
 date: '3301-02-14'
 source: GitHub
+summary: CMDRs piloting Core Dynamics Eagle Fighters were spotted conducting high-speed races near Sol. Traders at Ashby City in Luyten's Star reported pilots performing dangerous manoeuvres through docking slots and around stations. Similar reports came from Altair's Solo Orbiter Station. The pilots carried retracted hardpoints and no combat equipment. Federal Security Forces have not intervened, suggesting tacit approval of the underground racing circuit that reportedly began around the Earth-Moon system.
+player_impact: Pilots can participate in or observe underground racing events near Sol, Luyten's Star, and Altair.
+persons:
+- CMDR FatHaggard
 groups:
 - Core Dynamics
 locations:
-- Luyten's Star
 - Sol
+- Luyten's Star
+- Ashby City
+- Altair
+- Solo Orbiter Station
 topics:
-- ship
-- sport
-- trade
-modern_impact: Ship review and release information for the pilot community.
+- crime
+modern_impact: Underground racing circuits near Sol demonstrated the growing pilot subculture of unsanctioned competitive flight that authorities often overlooked.
 legacy_weight: 1
 significance: low
 ---

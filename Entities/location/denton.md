@@ -2,32 +2,30 @@
 id: denton
 name: Denton
 type: location
-first_seen_date: '3301-02-17'
+first_seen_date: '3301-09-28'
 last_seen_date: '3301-09-28'
-mention_count: 4
+mention_count: 1
 related_entities:
-- falisci
-- denton-patreus
-- ngaiawang
+- imperial-herald
 - imperial-senate
-- denton-patreus-received
+- emperors-dawn
+- capitol
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Denton
 
-First mentioned: **3301-02-17**  
+First mentioned: **3301-09-28**  
 Last mentioned: **3301-09-28**  
-Total mentions: **4**
+Total mentions: **1**
 
 ## Related
 
-- [[Falisci]] (3 co-mentions)
-- [[Denton Patreus]] (2 co-mentions)
-- [[Ngaiawang]] (2 co-mentions)
-- [[Imperial Senate]] (2 co-mentions)
-- [[Denton Patreus received]] (1 co-mentions)
+- [[Imperial Herald]] (1 co-mentions)
+- [[Imperial Senate]] (1 co-mentions)
+- [[Emperor's Dawn]] (1 co-mentions)
+- [[Capitol]] (1 co-mentions)
 
 ## Biography
 

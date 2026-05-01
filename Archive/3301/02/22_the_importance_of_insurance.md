@@ -4,16 +4,18 @@ title: The Importance of Insurance
 slug: the_importance_of_insurance
 date: '3301-02-22'
 source: GitHub
+summary: Commander Gui returned to Sol with a newly purchased Anaconda but, after equipping it, collided with an incoming Type 9. Without 4 million credits to cover the insurance excess, he was forced back to a budget Sidewinder, losing 80 million credits in a single incident. Commander Sheehy of The Reorte Chronicle warns all pilots to always check rebuy costs before launching, noting that 200,000 credits is insufficient to cover a premium vessel's replacement cost.
+player_impact: All pilots should verify their rebuy costs before undocking and maintain sufficient credits to cover insurance excess on their vessels.
+persons:
+- Commander Gui
+- Commander Sheehy
+groups:
+- The Reorte Chronicle
 locations:
-- Always check your rebuy costs in your
 - Sol
 topics:
-- ship
-- war
-entities:
-- Gui returned home
-- Sheehy
-modern_impact: Ship review and release information for the pilot community.
+- politics
+modern_impact: Commander Gui's costly mistake became a frequently cited cautionary tale about the importance of maintaining adequate insurance coverage.
 legacy_weight: 1
 significance: low
 ---

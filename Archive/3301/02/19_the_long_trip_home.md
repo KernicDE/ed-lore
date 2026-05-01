@@ -4,11 +4,18 @@ title: The Long Trip Home
 slug: the_long_trip_home
 date: '3301-02-19'
 source: GitHub
+summary: Jaques Station is now travelling through HIP 110079 after a week in HIP 110620. The reason for the station's unexpected return from exile remains unknown, as does its ultimate destination. Jaques has become a popular nightspot for thrillseekers from all three superpowers. The cyborg barman appears content to wander the stars in the company of his people, accompanied by dark electric beats.
+player_impact: Pilots can visit Jaques Station in HIP 110079, which has become a popular social hub for pilots from all factions.
+persons:
+- Jaques
 groups:
 - Alliance
+locations:
+- HIP 110079
+- HIP 110620
 topics:
-- construction
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+- exploration
+modern_impact: Jaques Station's wandering journey continued to captivate the galaxy, drawing visitors from across superpower boundaries to its unique mobile venue.
 legacy_weight: 2
 significance: low
 ---
