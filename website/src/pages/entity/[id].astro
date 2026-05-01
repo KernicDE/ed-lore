@@ -14,7 +14,7 @@ const entity = graphData.entities[id];
 const entityArticles = graphData.articles
   .filter((a) => {
     const allNames = [...a.entities, ...a.groups, ...a.locations, ...(a.persons || []), ...(a.technologies || [])];
-    return allNames.some((n) => n.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '') === id);
+    return allNames.some((n) => n.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '') === id);
   })
   .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
 

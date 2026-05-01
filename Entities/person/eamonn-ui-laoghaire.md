@@ -1,5 +1,5 @@
 ---
-id: éamonn-uí-laoghaire
+id: eamonn-ui-laoghaire
 name: Éamonn Uí Laoghaire
 type: person
 first_seen_date: '3301-03-10'

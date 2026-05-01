@@ -28,7 +28,12 @@ interface ContextPanelProps {
 }
 
 function makeEid(name: string): string {
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+  return name
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w-]/g, '');
 }
 
 /** Exclude sentence-fragment false positives from entity extraction */

@@ -8,6 +8,7 @@ from __future__ import annotations
 
 import json
 import re
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
@@ -124,7 +125,10 @@ def normalize_location(name: str) -> str | None:
 
 
 def make_entity_id(name: str) -> str:
-    return re.sub(r"[^\w-]", "", name.lower().replace(" ", "-"))
+    # Normalize Unicode: decompose accents, strip combining marks, then remove non-word chars
+    n = unicodedata.normalize("NFD", name)
+    n = "".join(c for c in n if unicodedata.category(c) != "Mn")
+    return re.sub(r"[^\w-]", "", n.lower().replace(" ", "-"))
 
 
 def build() -> dict[str, Any]:

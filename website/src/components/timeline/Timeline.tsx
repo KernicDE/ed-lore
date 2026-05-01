@@ -36,13 +36,18 @@ interface TimelineProps {
 
 function wikiLinkToHtml(text: string, baseUrl: string): string {
   return text.replace(/\[\[([^\]]+)\]\]/g, (_match, name) => {
-    const eid = name.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+    const eid = makeEntityId(name);
     return `<a href="${baseUrl}/entity/${eid}/" class="wiki-link">${name}</a>`;
   });
 }
 
 function makeEntityId(name: string): string {
-  return name.toLowerCase().replace(/\s+/g, '-').replace(/[^\w-]/g, '');
+  return name
+    .normalize('NFD')
+    .replace(/[\u0300-\u036f]/g, '')
+    .toLowerCase()
+    .replace(/\s+/g, '-')
+    .replace(/[^\w-]/g, '');
 }
 
 function TagList({ items, color, baseUrl }: { items: string[]; color: string; baseUrl: string }) {

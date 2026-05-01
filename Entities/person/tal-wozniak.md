@@ -1,5 +1,5 @@
 ---
-id: tal-woźniak
+id: tal-wozniak
 name: Tal Woźniak
 type: person
 first_seen_date: '3304-05-18'

@@ -1,5 +1,5 @@
 ---
-id: commander-salomé
+id: commander-salome
 name: Commander Salomé
 type: person
 first_seen_date: '3302-03-29'

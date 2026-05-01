@@ -1,5 +1,5 @@
 ---
-id: cormac-uí-laoghire
+id: cormac-ui-laoghire
 name: Cormac Uí Laoghire
 type: person
 first_seen_date: '3301-03-26'
