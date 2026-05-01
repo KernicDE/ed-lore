@@ -474,6 +474,93 @@ html, body {
   color: var(--text-secondary);
 }
 
+/* ── Timeline Mobile Slider Bar ─────────────────────────────────────────── */
+.timeline-slider-bar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: linear-gradient(180deg, var(--bg-primary) 0%, rgba(8,10,15,0.98) 100%);
+  border-bottom: 1px solid var(--border-default);
+  padding: 10px 16px 6px;
+}
+
+.timeline-slider-bar::after {
+  content: '';
+  position: absolute;
+  bottom: -1px;
+  left: 0;
+  right: 0;
+  height: 1px;
+  background: linear-gradient(90deg, transparent, var(--elite-orange-dim), transparent);
+}
+
+.timeline-slider-label {
+  font-family: var(--font-hud);
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--elite-orange);
+  letter-spacing: 2px;
+  text-align: center;
+  margin-bottom: 4px;
+}
+
+.timeline-slider-ticks {
+  display: flex;
+  justify-content: space-between;
+  font-family: var(--font-mono);
+  font-size: 9px;
+  color: var(--text-dim);
+  margin-top: 2px;
+  padding: 0 2px;
+}
+
+.timeline-range-input {
+  width: 100%;
+  height: 4px;
+  -webkit-appearance: none;
+  appearance: none;
+  background: var(--border-glow);
+  border-radius: 2px;
+  outline: none;
+  cursor: pointer;
+  margin: 0;
+}
+
+.timeline-range-input::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--elite-orange);
+  border: 2px solid var(--bg-primary);
+  box-shadow: 0 0 8px rgba(255, 140, 0, 0.5);
+  cursor: pointer;
+}
+
+.timeline-range-input::-moz-range-thumb {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  background: var(--elite-orange);
+  border: 2px solid var(--bg-primary);
+  box-shadow: 0 0 8px rgba(255, 140, 0, 0.5);
+  cursor: pointer;
+}
+
+.timeline-range-input::-moz-range-track {
+  height: 4px;
+  background: var(--border-glow);
+  border-radius: 2px;
+}
+
+/* Hide mobile slider on desktop (context panel has its own) */
+@media (min-width: 901px) {
+  .timeline-slider-bar {
+    display: none;
+  }
+}
+
 /* ── Year Slider ────────────────────────────────────────────────────────── */
 .year-range-input {
   width: 100%;

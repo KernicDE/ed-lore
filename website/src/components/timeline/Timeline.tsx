@@ -124,8 +124,23 @@ export default function Timeline({
 }: TimelineProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const itemRefs = useRef<Map<string, HTMLDivElement>>(new Map());
+  const yearHeaderRefs = useRef<Map<string, HTMLDivElement>>(new Map());
 
   const baseUrl = (import.meta.env.BASE_URL || '').replace(/\/$/, '');
+
+  const prevSelectedUuid = useRef<string | null>(null);
+
+  // Extract unique years (oldest → newest for slider)
+  const sliderYears = useMemo(() => {
+    const set = new Set<string>();
+    articles.forEach((a) => {
+      const y = a.date?.split('-')[0];
+      if (y) set.add(y);
+    });
+    return Array.from(set).sort((a, b) => a.localeCompare(b));
+  }, [articles]);
+
+  const [visibleYear, setVisibleYear] = useState(sliderYears[sliderYears.length - 1] || '');
 
   // Scroll to article on mount when ?article=uuid is present
   useEffect(() => {
@@ -138,13 +153,50 @@ export default function Timeline({
     }
   }, [scrollToUuid, articles, onArticleSelect]);
 
-  // Report scroll position to parent for context panel
+  // When a new article is selected, scroll it to the top of the viewport
+  useEffect(() => {
+    if (!selectedArticle) {
+      prevSelectedUuid.current = null;
+      return;
+    }
+    if (prevSelectedUuid.current === selectedArticle.uuid) return;
+    prevSelectedUuid.current = selectedArticle.uuid;
+
+    const el = itemRefs.current.get(selectedArticle.uuid);
+    const container = containerRef.current;
+    if (!el || !container) return;
+
+    requestAnimationFrame(() => {
+      const containerRect = container.getBoundingClientRect();
+      const elRect = el.getBoundingClientRect();
+      const targetScroll = container.scrollTop + (elRect.top - containerRect.top) - 8;
+      container.scrollTo({ top: Math.max(0, targetScroll), behavior: 'smooth' });
+    });
+  }, [selectedArticle]);
+
+  // Report scroll position + track visible year
   useEffect(() => {
     const el = containerRef.current;
     if (!el) return;
     const update = () => {
       onScrollUpdate?.(el.scrollTop, el.clientHeight);
-      // Find center article for date display
+
+      // Find which year header is currently at/near the top
+      let bestYear = '';
+      let bestTop = -Infinity;
+      yearHeaderRefs.current.forEach((headerEl, year) => {
+        const rect = headerEl.getBoundingClientRect();
+        const containerRect = el.getBoundingClientRect();
+        const top = rect.top - containerRect.top;
+        // We want the header that is at or just above the viewport top
+        if (top <= 40 && top > bestTop) {
+          bestTop = top;
+          bestYear = year;
+        }
+      });
+      if (bestYear) setVisibleYear(bestYear);
+
+      // Also update center date for context panel
       const centerY = el.scrollTop + el.clientHeight / 2;
       let closest: { idx: number; dist: number } = { idx: 0, dist: Infinity };
       itemRefs.current.forEach((itemEl, uuid) => {
@@ -168,7 +220,23 @@ export default function Timeline({
     onArticleSelect(selectedArticle?.uuid === art.uuid ? null : art);
   }, [onArticleSelect, selectedArticle]);
 
-  // Group articles by year for year headers
+  const handleSliderChange = useCallback((e: React.ChangeEvent<HTMLInputElement>) => {
+    const idx = parseInt(e.target.value, 10);
+    const year = sliderYears[idx];
+    if (!year) return;
+
+    // Find first article of this year and scroll to it
+    const firstArt = articles.find((a) => a.date?.startsWith(year));
+    if (firstArt && containerRef.current) {
+      const el = itemRefs.current.get(firstArt.uuid);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        onArticleSelect(null); // close any open article
+      }
+    }
+  }, [sliderYears, articles, onArticleSelect]);
+
+  // Group articles by year for rendering
   const yearGroups = useMemo(() => {
     const groups: { year: string; articles: Article[] }[] = [];
     let currentYear = '';
@@ -184,11 +252,39 @@ export default function Timeline({
     return groups;
   }, [articles]);
 
+  const sliderIndex = sliderYears.indexOf(visibleYear);
+
   return (
     <div ref={containerRef} className="timeline-pane">
+      {/* Mobile year slider — sticky at top */}
+      {sliderYears.length > 0 && (
+        <div className="timeline-slider-bar">
+          <div className="timeline-slider-label">{visibleYear}</div>
+          <input
+            type="range"
+            min={0}
+            max={sliderYears.length - 1}
+            value={Math.max(0, sliderIndex)}
+            onChange={handleSliderChange}
+            className="timeline-range-input"
+          />
+          <div className="timeline-slider-ticks">
+            <span>{sliderYears[0]}</span>
+            <span>{sliderYears[sliderYears.length - 1]}</span>
+          </div>
+        </div>
+      )}
+
       {yearGroups.map((group) => (
         <div key={group.year}>
-          <div className="timeline-year-header" data-year={group.year}>
+          <div
+            className="timeline-year-header"
+            data-year={group.year}
+            ref={(el) => {
+              if (el) yearHeaderRefs.current.set(group.year, el);
+              else yearHeaderRefs.current.delete(group.year);
+            }}
+          >
             {group.year}
           </div>
           {group.articles.map((art) => {
@@ -229,23 +325,18 @@ export default function Timeline({
                 {/* Expanded detail view — NOT clickable */}
                 {isSelected && (
                   <div className="detail-view" onClick={(e) => e.stopPropagation()}>
-                    {/* AI Summary Box */}
                     {art.summary && (
                       <div className="detail-summary">
                         <div className="detail-summary-label">AI Summary</div>
                         <div className="detail-summary-text">{art.summary}</div>
                       </div>
                     )}
-
-                    {/* Full body */}
                     <div
                       className="detail-body"
                       dangerouslySetInnerHTML={{
                         __html: wikiLinkToHtml(art.body_full, baseUrl),
                       }}
                     />
-
-                    {/* AI Analysis Box */}
                     {(art.player_impact || art.modern_impact) && (
                       <div className="detail-analysis">
                         <div className="detail-analysis-label">AI Analysis</div>
@@ -267,8 +358,6 @@ export default function Timeline({
                         )}
                       </div>
                     )}
-
-                    {/* Tags */}
                     <TagList items={art.persons || []} color="var(--elite-blue)" baseUrl={baseUrl} />
                     <TagList items={art.groups || []} color="var(--elite-orange)" baseUrl={baseUrl} />
                     <TagList items={art.technologies || []} color="var(--elite-green)" baseUrl={baseUrl} />
