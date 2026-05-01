@@ -748,10 +748,10 @@ html, body {
 /* ── Audio Player ───────────────────────────────────────────────────────── */
 .audio-player-bar {
   position: fixed;
-  top: 50%;
+  top: 0;
   right: 140px;
-  transform: translateY(-50%);
   z-index: 100;
+  height: 56px;
   display: flex;
   align-items: center;
 }
@@ -760,10 +760,9 @@ html, body {
   display: flex;
   align-items: center;
   gap: 10px;
-  background: rgba(8, 10, 15, 0.9);
-  border-radius: var(--panel-radius);
+  background: transparent;
+  border: none;
   padding: 6px 14px;
-  backdrop-filter: blur(4px);
 }
 
 .audio-play-btn {
