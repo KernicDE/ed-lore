@@ -12,6 +12,12 @@ related_entities:
 - achenar
 - hall-of-martyrs
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Naval%20Infantry
+bio: 'Imperial Naval Infantry is a navy active in Elite Dangerous lore from 3301-08-05
+  to 3301-10-18. Frequently associated with Capitol, Imperial Palace, Imperial Guard.
+  Key activities include: Emperor Hengist Duval died en route to the Imperial Navy
+  Medical Facility near the Imperial Palace after being stabbed during his wedding
+  ceremony.; Arissa Lavigny-Duval was crowned Emperor in a ceremony at the Imperial
+  Palace in Capitol.'
 ---
 
 

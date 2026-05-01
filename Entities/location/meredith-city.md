@@ -11,6 +11,11 @@ related_entities:
 - aegis
 - socho-gold-raiders
 - pilots-federation
+bio: Meredith City is a star system in the Elite Dangerous universe, significant from
+  3304-05-25 to 3304-06-03. Associated with Los Chupacabras. In support of the event,
+  they have placed an open order for beer, tobacco, coffee and narcotics, and promised
+  rewards to pilots who deliver these commodities to Meredith City. Scores of pilots
+  delivered commodities to Meredith City.
 ---
 
 <!-- AUTO-GENERATED -->

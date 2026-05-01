@@ -8,6 +8,10 @@ mention_count: 4
 related_entities:
 - lorens-legion
 - prism
+bio: Hiram's Anchorage is a star system in the Elite Dangerous universe, significant
+  from 3302-10-26 to 3303-03-16. Associated with Loren's Legion. The organisation's
+  facility at Hiram's Anchorage is running at full capacity. Hundreds of pilots delivered
+  materials to Hiram's Anchorage.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,12 @@ related_entities:
 - merope-expeditionary-fleet
 - the-pleiades-resource-enterprise
 - merope
+bio: 'Blackmount Orbital is a starport in Elite Dangerous, significant from 3303-07-07
+  to 3304-01-19. Associated with Federation, The Pleiades Resource Enterprise. Notable
+  events include: The Federation announces plans to construct a survey outpost in
+  HIP 17692 to monitor Thargoid activity near the Pleiades.; The Federation announces
+  the successful conclusion of its campaign to construct a new outpost in HIP 17692
+  for monitoring Thargoid activity.'
 ---
 
 <!-- AUTO-GENERATED -->

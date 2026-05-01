@@ -12,6 +12,12 @@ related_entities:
 - federal-intelligence-agency
 - federal-times
 inara_url: https://inara.cz/elite/minorfaction/?search=Advocacy
+bio: 'Advocacy is a organization active in Elite Dangerous lore from 3307-04-13 to
+  3308-09-26. Frequently associated with Sol, Proactive Detection Bureau. Key activities
+  include: Widespread calls emerge to prosecute Azimuth Biotech for its role in the
+  HIP 22460 massacre, with Advocacy director Rhiannon Grady demanding crimin...; The
+  Federal government declares the Order of the Far God a potential enemy of the state,
+  ordering military seizure of hive-chapels, while Shadow Pr...'
 ---
 
 

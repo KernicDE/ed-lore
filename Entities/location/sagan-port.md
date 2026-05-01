@@ -11,6 +11,12 @@ related_entities:
 - mundjiga-patrons-of-law
 - praetorians
 - lorens-legion
+bio: Sagan Port is a starport in the Elite Dangerous universe, significant from 3302-04-21
+  to 3302-04-28. Associated with Imperial Navy, Mundjiga Patrons of Law. Lieutenant
+  Severin calls for loyal Imperial pilots to deliver supplies to Sagan Port in the
+  Mundjiga system. The Mundjiga Patrons of Law coordinated the construction effort,
+  with the galactic community delivering thousands of tonnes of essential materials
+  to Sagan Port.
 ---
 
 <!-- AUTO-GENERATED -->

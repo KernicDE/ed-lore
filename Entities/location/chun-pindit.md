@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Chun%20Pindit
 inara_url: https://inara.cz/elite/starsystem/?search=Chun%20Pindit
+bio: Chun Pindit is a star system in the Elite Dangerous universe, significant from
+  3308-09-12 to 3308-09-30.
 ---
 
 

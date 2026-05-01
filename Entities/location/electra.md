@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Electra
 inara_url: https://inara.cz/elite/starsystem/?search=Electra
+bio: Electra is a star system in the Elite Dangerous universe, significant from 3303-11-16
+  to 3303-12-02. Associated with Aegis, Pilots Federation. A new kind of Thargoid
+  vessel, classified as the Basilisk Interceptor by the Pilots Federation, has been
+  encountered in the Electra system. The operation will focus on Electra, where high
+  concentrations of Thargoid vessels have been reported.
 ---
 
 

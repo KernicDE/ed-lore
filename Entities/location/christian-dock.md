@@ -11,6 +11,12 @@ related_entities:
 - obsidian-orbital
 - canonn-interstellar-research-group
 - maia
+bio: Christian Dock is a starport in the Elite Dangerous universe, significant from
+  3301-10-26 to 3302-02-05. Associated with Homeland Scientific Council. The new independent
+  effort is based at Christian Dock in the Nganji system, near where the objects were
+  discovered. Chloe Anders of the Christian Dock surveillance team reported the vessel
+  circled the station at close range before departing abruptly, leading to speculation
+  that it was searching for something.
 ---
 
 <!-- AUTO-GENERATED -->

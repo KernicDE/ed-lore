@@ -11,6 +11,12 @@ related_entities:
 - canonn-interstellar-research-group
 - merope
 - pleiades-nebula
+bio: 'Obsidian Orbital is a starport in Elite Dangerous, significant from 3301-11-18
+  to 3307-12-14. Associated with Canonn Interstellar Research Group. Notable events
+  include: Following the discovery of alien barnacles in the Pleiades Nebula, technical
+  personnel at Obsidian Orbital conducted an eleventh-hour experiment us...; Professor
+  Ishmael Palin issued a community appeal for pilots to deliver meta-alloys to his
+  research base at Obsidian Orbital in the Maia system.'
 ---
 
 <!-- AUTO-GENERATED -->

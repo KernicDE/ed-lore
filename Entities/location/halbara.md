@@ -21,6 +21,10 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Halbara
 inara_url: https://inara.cz/elite/starsystem/?search=Halbara
+bio: Halbara is a star system in the Elite Dangerous universe, significant from 3302-02-22
+  to 3302-05-06. Associated with Carmack Intergalactic Mining Association. Benjamin
+  Gorrister, founder of the Carmack Intergalactic Mining Association, honours the
+  winners of the CIMA prospectors competition at Wasden Colony in Halbara.
 ---
 
 

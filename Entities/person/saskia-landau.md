@@ -6,6 +6,12 @@ first_seen_date: '3307-11-25'
 last_seen_date: '3308-04-12'
 mention_count: 6
 inara_url: https://inara.cz/elite/cmdr-search/?search=Saskia%20Landau
+bio: 'Saskia Landau is a Emperor in Elite Dangerous lore, active from 3307-11-25 to
+  3308-04-12. Affiliated with NMLA, Far God cult. Notable activities include: The
+  Neo-Marlinist Order of Mudhrid and the Epsilon Fornacis Empire Group declare war
+  in the Mudhrid system, with the NMLA defending Theta Seven abo...; The Epsilon Fornacis
+  Empire Group defeats the Neo-Marlinist Order of Mudhrid, with ACT commandos led
+  by Milo Castile retaking the Steel Majesty meg...'
 ---
 
 

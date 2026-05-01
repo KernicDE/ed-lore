@@ -11,6 +11,10 @@ related_entities:
 - capitol
 - imperial-palace
 - alliance
+bio: Trask is a star system in the Elite Dangerous universe, significant from 3308-02-16
+  to 3309-04-25. Associated with Kumo Crew. Details emerge about Vidar Trask's failed
+  coup against Archon Delaine, masterminded with Kay Volantyne of the Blue Viper Club
+  dredger clan.
 ---
 
 <!-- AUTO-GENERATED -->

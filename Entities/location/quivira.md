@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Quivira
 inara_url: https://inara.cz/elite/starsystem/?search=Quivira
+bio: 'Quivira is a system in Elite Dangerous, significant from 3301-04-13 to 3301-08-13.
+  Associated with People''s Quivira for Equality Party, Quivira Electronics Plc. Notable
+  events include: Senator Denton Patreus officially declared war on Quivira, with
+  thousands of Imperial vessels attacking non-Imperial ships.; Senator Denton Patreus
+  declared war on Quivira, sending thousands of Imperial vessels to attack non-Imperial
+  ships.'
 ---
 
 

@@ -20,6 +20,11 @@ economy: None
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Hyades%20Sector%20FB-N%20b7-6
 inara_url: https://inara.cz/elite/starsystem/?search=Hyades%20Sector%20FB-N%20b7-6
+bio: Hyades Sector FB-N b7-6 is a star system in the Elite Dangerous universe, significant
+  from 3308-11-28 to 3309-01-03. Associated with Imperial Navy, Federal Navy. The
+  Taranis anomaly has arrived in Hyades Sector FB-N b7-6, triggering a ferocious wave
+  of Thargoid attacks in the region. The Hyades Sector FB-N b7-6 system has been identified
+  as the location where the rogue signal source named Taranis will finally arrive.
 ---
 
 

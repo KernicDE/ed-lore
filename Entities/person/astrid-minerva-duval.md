@@ -6,6 +6,12 @@ first_seen_date: '3307-04-05'
 last_seen_date: '3307-12-02'
 mention_count: 8
 inara_url: https://inara.cz/elite/cmdr-search/?search=Astrid%20Minerva-Duval
+bio: 'Astrid Minerva-Duval is a Terrorist in Elite Dangerous lore, active from 3307-04-05
+  to 3307-12-02. Affiliated with Nova Imperium, NMLA. Notable activities include:
+  Imperator Hadrian Augustus Duval of Nova Imperium marries his consort Astrid Minerva
+  in a closed ceremony attended by Princess Aisling Duval.; Independent journalist
+  Flint ''Firemaker'' Lafosse publishes classified ACT information allegedly from
+  Neo-Marlinist survivors claiming that Hadrian ...'
 ---
 
 

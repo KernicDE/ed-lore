@@ -12,6 +12,9 @@ related_entities:
 - alliance
 - libertas-cooperative
 inara_url: https://inara.cz/elite/minorfaction/?search=Copernicus%20Shipping%20Ltd
+bio: Copernicus Shipping Ltd is a organization in the Elite Dangerous universe, active
+  from 3304-09-20 to 3304-09-28. Frequently linked with Federal Security Service,
+  Achilles Corporation, Burnell Station.
 ---
 
 

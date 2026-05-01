@@ -24,6 +24,10 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Delta%20Pavonis
 inara_url: https://inara.cz/elite/starsystem/?search=Delta%20Pavonis
+bio: Delta Pavonis is a star system in the Elite Dangerous universe, significant from
+  3302-02-25 to 3307-12-31. Associated with Canonn Interstellar Research Group. Two
+  Pilots' Federation members were also killed in the Rhea and Delta Pavonis systems,
+  their ships laser-branded 'FOR JAMESON'.
 ---
 
 

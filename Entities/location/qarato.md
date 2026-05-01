@@ -24,6 +24,10 @@ economy: Colony
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Qarato
 inara_url: https://inara.cz/elite/starsystem/?search=Qarato
+bio: Qarato is a star system in the Elite Dangerous universe, significant from 3307-12-09
+  to 3308-09-01. Associated with Pilots Federation. Azimuth Biotech director Torben
+  Rademaker condemns Operation Wych Hunt protestors as alien-loving traitors after
+  Azimuth assets are expelled from Merope and Qarato and Hind Mine is attacked.
 ---
 
 

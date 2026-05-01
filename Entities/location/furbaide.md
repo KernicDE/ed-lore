@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Furbaide
 inara_url: https://inara.cz/elite/starsystem/?search=Furbaide
+bio: Furbaide is a star system in the Elite Dangerous universe, significant from 3301-02-17
+  to 3301-02-26. Associated with Furbaide CDC. The Volungu Blight has spread unchecked
+  despite containment efforts in Liaedin, LHS 3505, and Furbaide, claiming hundreds
+  of lives since it first appeared 24 hours ago. A rapid response team has been established
+  aboard Effinger Port in Furbaide to find a cure.
 ---
 
 

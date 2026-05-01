@@ -12,6 +12,13 @@ related_entities:
 - explorers-association
 - jaques-station
 inara_url: https://inara.cz/elite/minorfaction/?search=Universal%20Cartographics
+bio: 'Universal Cartographics is a organization active in Elite Dangerous lore from
+  3301-02-18 to 3311-02-19. Frequently associated with Brewer Corporation, Pilots
+  Federation, Sirius Corporation. Key activities include: Dr Derthek, a founding member
+  of the Canonn Interstellar Research Group, embarks on an ambitious project to map
+  the entire War and Peace Nebula (NG...; Cynthia Sideris, chair of Universal Cartographics,
+  comments on Jasmina Halsey''s search for the ''architects of creation'', noting
+  that while their ex...'
 ---
 
 

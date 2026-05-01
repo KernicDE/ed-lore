@@ -11,6 +11,12 @@ related_entities:
 - dajoar
 - eleu
 - 20-ophiuchi
+bio: 'Newton Dock is a starport in Elite Dangerous, significant from 3301-06-30 to
+  3302-08-11. Associated with Newton Dock Medical. Notable events include: Medical
+  personnel at Hart Station praised 765 independent pilots who delivered medicines
+  to the Bast system.; Chief Medical Officer Carl Simmons confirmed isolated Cerberus
+  Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed to be travellers from
+  BD...'
 ---
 
 <!-- AUTO-GENERATED -->

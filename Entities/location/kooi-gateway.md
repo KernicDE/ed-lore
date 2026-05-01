@@ -11,6 +11,12 @@ related_entities:
 - ackerman-market
 - eravate
 - gabriel-enterprise
+bio: Kooi Gateway is a star system in the Elite Dangerous universe, significant from
+  3302-04-07 to 3302-05-20. Associated with Canary Mining Corporation. Ackerman Market,
+  Gabriel Enterprise, Weyn Dock, and Onnes Gateway are now fully operational, while
+  other stations remain affected. The Canary Mining Corporation announces plans to
+  improve mining facilities at Kooi Gateway in the HIP 93377 system by requesting
+  mineral extractors for new material-processing equipment.
 ---
 
 <!-- AUTO-GENERATED -->

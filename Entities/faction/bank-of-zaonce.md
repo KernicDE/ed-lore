@@ -12,6 +12,12 @@ related_entities:
 - alliance-tribune
 - alliance-interpol
 inara_url: https://inara.cz/elite/minorfaction/?search=Bank%20of%20Zaonce
+bio: 'Bank of Zaonce is a organization active in Elite Dangerous lore from 3301-05-01
+  to 3305-06-13. Frequently associated with Zaonce, Alliance. Key activities include:
+  President Gibson Kincaid is removed from office by the Alliance Assembly on charges
+  of treason, murder and corruption, and is detained while attemp...; President Gibson
+  Kincaid is accused of receiving billions in undeclared campaign funds from the Bank
+  of Zaonce, prompting the Alliance Assembly to ...'
 ---
 
 

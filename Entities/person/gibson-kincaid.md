@@ -6,6 +6,12 @@ first_seen_date: '3304-09-01'
 last_seen_date: '3305-07-27'
 mention_count: 33
 inara_url: https://inara.cz/elite/cmdr-search/?search=Gibson%20Kincaid
+bio: 'Gibson Kincaid is a President in Elite Dangerous lore, active from 3304-09-01
+  to 3305-07-27. Affiliated with Alliance. Notable activities include: Weekly summary
+  covering the appearance of Thargoid Hydra vessels in the Pleiades Nebula and core
+  systems, Aegis Core''s relocation from Socho to Sol...; Weekly summary covering
+  the Alliance Assembly''s agreement to vote on Kincaid''s constitutional changes,
+  the fire destroying Supratech''s facility, in...'
 ---
 
 

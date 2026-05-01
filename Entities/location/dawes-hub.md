@@ -11,6 +11,10 @@ related_entities:
 - alliance
 - nmla
 - capitol
+bio: Dawes Hub is a star system in the Elite Dangerous universe, significant from
+  3301-10-15 to 3307-03-29. Associated with Imperial Navy. Emperor Arissa Lavigny-Duval
+  expressed gratitude to the hundreds of pilots who delivered slaves as coronation
+  gifts to Dawes Hub in Achenar.
 ---
 
 <!-- AUTO-GENERATED -->

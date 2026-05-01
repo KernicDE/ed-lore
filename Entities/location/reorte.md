@@ -24,6 +24,11 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Reorte
 inara_url: https://inara.cz/elite/starsystem/?search=Reorte
+bio: 'Reorte is a system in Elite Dangerous, significant from 3301-04-26 to 3311-12-02.
+  Associated with Alliance, Sirius Corporation. Notable events include: The Reorte
+  Mining Coalition succeeds in forcing Sirius Corporation to withdraw from the Reorte
+  system.; The Reorte Pro-Alliance League''s victory ensures Reorte remains within
+  the Alliance.'
 ---
 
 

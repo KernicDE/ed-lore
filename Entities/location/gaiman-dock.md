@@ -11,6 +11,11 @@ related_entities:
 - 64-arietis
 - weyn-dock
 - arawere
+bio: 'Gaiman Dock is a starport in Elite Dangerous, significant from 3301-10-23 to
+  3303-12-02. Notable events include: The technological plague continues to affect
+  starports across inhabited space.; Aegis has announced plans to dramatically expand
+  its research division with over twenty new laboratories at starports across the
+  galaxy.'
 ---
 
 <!-- AUTO-GENERATED -->

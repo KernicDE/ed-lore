@@ -11,6 +11,12 @@ related_entities:
 - musashi
 - pleiades-sector-cw-u-b3-2
 - azimuth
+bio: 'Glorious Prospect is a system in Elite Dangerous, significant from 3308-06-30
+  to 3309-01-26. Associated with Azimuth Biotech. Notable events include: Salvation
+  announces the Proteus Wave construction in HIP 22460, declaring it will be the final
+  battlefield to eradicate Thargoids from the galaxy, ...; Azimuth Biotech launches
+  a mining campaign to deliver raw materials to the Glorious Prospect megaship in
+  LHS 157, seeking to rebuild corporate infr...'
 ---
 
 <!-- AUTO-GENERATED -->

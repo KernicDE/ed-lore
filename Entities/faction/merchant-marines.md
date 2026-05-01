@@ -12,6 +12,11 @@ related_entities:
 - harm
 - arjung
 inara_url: https://inara.cz/elite/minorfaction/?search=Merchant%20Marines
+bio: Merchant Marines is a naval in the Elite Dangerous universe, active from 3301-04-15
+  to 3301-08-24. Frequently linked with Lileni, Harm, Mercs of Mikunn. Shadow President
+  Hudson returned to Mars and praised the Merchant Marines as 'heroes' for their unsanctioned
+  operations against Imperial traders in Empire space. Commander Nyluss of the Merchant
+  Marines called on Federation pilots to oppose the encroachment on their worlds.
 ---
 
 

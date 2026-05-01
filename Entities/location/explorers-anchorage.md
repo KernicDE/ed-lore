@@ -11,6 +11,11 @@ related_entities:
 - sagittarius-a
 - beagle-point
 - rock-rats
+bio: Explorer's Anchorage is a star system in the Elite Dangerous universe, significant
+  from 3305-03-07 to 3305-03-21. Associated with Deep Space Surveys. The Distant Worlds
+  II resource-gathering campaign concludes successfully, with Explorer's Anchorage
+  established as a scientific installation to study the supermassive black hole at
+  Sagittarius A*.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,12 @@ first_seen_date: '3301-11-26'
 last_seen_date: '3302-04-22'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Professor%20D%20Luffy
+bio: Professor D Luffy is a scientist in the Elite Dangerous universe, active from
+  3301-11-26 to 3302-04-22. Closely associated with Canonn Interstellar Research Group.
+  Professor D Luffy at Bond Hub in the Varati system appeals for meta-alloys to reverse
+  the technological plague affecting stations. Professor D Luffy's team at Bond Hub
+  in the Varati system successfully restores the station to full operation through
+  weeks of meta-alloy harvesting, matching the success achieved at Obsidian Orbital.
 ---
 
 

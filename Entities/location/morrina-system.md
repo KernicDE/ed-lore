@@ -11,6 +11,18 @@ related_entities:
 - barjavel-vision
 - spinward-marches-alliance-concern
 - beaumont-dock
+coords:
+  x: -97.65625
+  y: 81.96875
+  z: 0.4375
+population: 944213230
+edsm_url: https://www.edsm.net/en/system?search=Morrina
+bio: Morrina system is a star system in the Elite Dangerous universe, significant
+  from 3302-04-07 to 3302-05-05. Associated with Alliance, Morrina Pro-Alliance Party,
+  Spinward Marches Alliance Concern. The Morrina system faces widespread civil unrest
+  due to rampant criminal activity. The Morrina Pro-Alliance Party places a kill order
+  on all wanted ships and promises rewards for pilots who deliver bounty vouchers
+  to Barjavel Vision.
 ---
 
 <!-- AUTO-GENERATED -->

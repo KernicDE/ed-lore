@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Maia
 inara_url: https://inara.cz/elite/starsystem/?search=Maia
+bio: 'Maia is a system in Elite Dangerous, significant from 3301-07-10 to 3308-09-01.
+  Associated with Pleiades Resource Enterprise, Aegis. Notable events include: Dr
+  Arcanonn''s Canonn research team discovered that Unknown Artefacts emit a distorted
+  morse code signal broadcasting the identity of the nearest ce...; The Canonn Interstellar
+  Research Group decoded part of the transmissions from Unknown Artefacts (AEOs),
+  discovering they contain schematic diagrams...'
 ---
 
 

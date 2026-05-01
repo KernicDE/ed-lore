@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Betel
 inara_url: https://inara.cz/elite/starsystem/?search=Betel
+bio: Betel is a star system in the Elite Dangerous universe, significant from 3304-08-24
+  to 3304-09-02. Associated with Betel Free, Silver Creative Network, Betel security.
+  Authorities confirm the conflict between the Silver Creative Network and Betel Free
+  in the Betel system has ended. General Hollis of Betel security expresses hope for
+  a period of prolonged peace.
 ---
 
 

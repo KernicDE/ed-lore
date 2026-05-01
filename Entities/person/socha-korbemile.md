@@ -6,6 +6,11 @@ first_seen_date: '3302-01-08'
 last_seen_date: '3302-04-19'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Socha%20Korbemile
+bio: Socha Korbemile is a pilot in the Elite Dangerous universe, active from 3302-01-08
+  to 3302-04-19. Closely associated with Canonn Interstellar Research Group. The investigation
+  identifies Socha Korbemile as a leak and explores links to Varati-based groups and
+  Dr Huros, a militant alien-life advocate. Her pilot log reveals her ship was sabotaged
+  by former Canonn member Socha Korbemile.
 ---
 
 

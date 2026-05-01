@@ -21,6 +21,11 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Ambika
 inara_url: https://inara.cz/elite/starsystem/?search=Ambika
+bio: Ambika is a star system in the Elite Dangerous universe, significant from 3302-08-04
+  to 3302-08-11. Associated with Union Party of Ambika. Authorities in the Ambika
+  system report severe famine and civil unrest. The Union Party of Ambika has launched
+  a campaign requesting pilots deliver food to Goulart City and neutralise pirates
+  operating in the system.
 ---
 
 

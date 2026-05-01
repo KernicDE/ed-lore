@@ -11,6 +11,12 @@ related_entities:
 - leoniceno-orbital-medical-staff
 - daurtu-jet-comms-plc
 - federal-government
+bio: 'Leoniceno Orbital is a starport in Elite Dangerous, significant from 3301-05-27
+  to 3302-05-21. Associated with Azaleach Partnership, Leoniceno Orbital medical staff.
+  Notable events include: Three ships from Starship One''s Guardian Wing made contact
+  with Navy HQ but could not explain the disappearance.; President Zachary Hudson
+  announces that the search for Starship One survivors received an overwhelmingly
+  positive response.'
 ---
 
 <!-- AUTO-GENERATED -->

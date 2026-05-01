@@ -12,6 +12,12 @@ related_entities:
 - pilots-federation
 - harma
 inara_url: https://inara.cz/elite/minorfaction/?search=Blue%20Viper%20Club
+bio: Blue Viper Club is a organization in the Elite Dangerous universe, active from
+  3307-07-02 to 3307-07-20. Frequently linked with Kumo Crew, Pegasi Sector PN-T c3-14,
+  Kumo City. A Blue Viper Club dredger enters the Pegasi Sector PN-T c3-14 system
+  and takes position near Kumo City. The Kumo Crew syndicate requests deliveries to
+  mass-produce 'helix', a recreational drug believed to originate from the Blue Viper
+  Club dredger.
 ---
 
 

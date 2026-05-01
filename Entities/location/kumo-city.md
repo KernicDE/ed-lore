@@ -11,6 +11,11 @@ related_entities:
 - pilots-federation
 - blue-viper-club
 - harma
+bio: 'Kumo City is a system in Elite Dangerous, significant from 3307-07-02 to 3308-05-24.
+  Associated with Kumo Crew, Pilots Federation. Notable events include: A Blue Viper
+  Club dredger enters the Pegasi Sector PN-T c3-14 system and takes position near
+  Kumo City.; The Kumo Crew syndicate requests deliveries to mass-produce ''helix'',
+  a recreational drug believed to originate from the Blue Viper Club dredger.'
 ---
 
 <!-- AUTO-GENERATED -->

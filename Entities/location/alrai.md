@@ -24,6 +24,11 @@ economy: High Tech
 second_economy: Service
 edsm_url: https://www.edsm.net/en/system?search=Alrai
 inara_url: https://inara.cz/elite/starsystem/?search=Alrai
+bio: Alrai is a star system in the Elite Dangerous universe, significant from 3302-03-16
+  to 3312-01-17. Associated with Deep Space Surveys, Distant Worlds, Balkan Intergalactic
+  Guerrillas. Contributing pilots may collect rewards at Surveyor's Reach in Alrai.
+  Competitors included Blood Brothers from Alrai, Ronin of Amarak, Triadius, Contrail,
+  and the Balkan Intergalactic Guerrillas.
 ---
 
 

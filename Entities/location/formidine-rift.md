@@ -11,6 +11,12 @@ related_entities:
 - norma-expanse
 - sol
 - rho-cassiopeiae
+bio: Formidine Rift is a star system in the Elite Dangerous universe, significant
+  from 3302-04-08 to 3303-02-03. Associated with Mars High Astrocartography. Early
+  analysis of recovered data reveals new routes to Beagle Point, the Core, the Formidine
+  Rift, and other regions. Commander turkwinif becomes the first pilot to reach Rho
+  Cassiopeiae, a class-F hypergiant visible from Earth located in the difficult-to-navigate
+  Formidine Rift.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,11 @@ related_entities:
 - federal-security-service
 - sirius-corporation
 inara_url: https://inara.cz/elite/minorfaction/?search=Ndozins%20State%20Inc
+bio: Ndozins State Inc is a organization in the Elite Dangerous universe, active from
+  3304-11-01 to 3304-11-08. Frequently linked with Geras, Geras First, Federal Security
+  Service. The conflict between Geras First and Ndozins State Inc in the Geras system
+  concludes. Hostilities between Geras First and Ndozins State Inc in the Geras system
+  escalate into all-out war after months of reciprocal attacks.
 ---
 
 

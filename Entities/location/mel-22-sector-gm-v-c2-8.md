@@ -24,6 +24,12 @@ economy: High Tech
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=MEL%2022%20Sector%20GM-V%20C2-8
 inara_url: https://inara.cz/elite/starsystem/?search=MEL%2022%20Sector%20GM-V%20C2-8
+bio: MEL 22 Sector GM-V C2-8 is a star system in the Elite Dangerous universe, significant
+  from 3304-07-27 to 3304-08-03. Associated with Alliance, Turner Research Group.
+  The Alliance announces the successful conclusion of its appeal for mined resources
+  to construct an Ocellus starport in the MEL 22 Sector GM-V C2-8 system. The Alliance
+  announces plans to build an Ocellus starport in the MEL 22 Sector GM-V C2-8 system
+  to bridge the gap between core systems and Alliance outposts in the California Nebula.
 ---
 
 

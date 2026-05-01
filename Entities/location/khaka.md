@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Khaka
 inara_url: https://inara.cz/elite/starsystem/?search=Khaka
+bio: Khaka is a star system in the Elite Dangerous universe, significant from 3301-03-20
+  to 3301-03-26. Associated with Lugh for Equality, Federal Navy, Crimson State Group.
+  Congress temporarily withdrew the Federal Navy from Lugh, diverting vessels to Qureshi
+  Enterprise in Khaka pending a decision on how to end the conflict.
 ---
 
 

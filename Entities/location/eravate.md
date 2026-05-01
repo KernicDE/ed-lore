@@ -24,6 +24,10 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Eravate
 inara_url: https://inara.cz/elite/starsystem/?search=Eravate
+bio: 'Eravate is a system in Elite Dangerous, significant from 3302-01-20 to 3303-07-07.
+  Notable events include: The technological plague continues to affect starports across
+  inhabited space.; An Alliance of Commanders including Kermit Laphroaig, ThatDamnRanga,
+  Ollobrains, and Zenith Ddraiglas forms to saturate Ackerman Market in Eravate ...'
 ---
 
 

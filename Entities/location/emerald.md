@@ -11,6 +11,12 @@ related_entities:
 - federal-navy
 - imperial-herald
 - sol
+bio: 'Emerald is a system in Elite Dangerous, significant from 3301-02-21 to 3308-09-29.
+  Associated with Imperial Palace. Notable events include: Weekly summary covering
+  Thargoids being repelled from core systems to Bhal, three starports restored to
+  full functionality, Aisling Duval''s engagem...; Weekly summary covering Chief Inspector
+  Kay Kilbride''s murder by the League of Reparation, reactions to Aisling Duval and
+  Jordan Rochester''s engage...'
 ---
 
 <!-- AUTO-GENERATED -->

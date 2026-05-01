@@ -11,6 +11,11 @@ related_entities:
 - earth
 - federation
 - children-of-raxxla
+bio: Mars High is a star system in the Elite Dangerous universe, significant from
+  3301-03-06 to 3302-12-23. Senator Kahina Tijani Loren's Imperial Courier was denied
+  docking clearance at Mars High. Senator Kahina Tijani Loren's Imperial Courier was
+  fined at Mars High for activating boosters within the station, causing a deafening
+  roar and cracking the docking administration office windows.
 ---
 
 <!-- AUTO-GENERATED -->

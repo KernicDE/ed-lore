@@ -12,6 +12,13 @@ related_entities:
 - alliance-defence-force
 - council-of-admirals
 inara_url: https://inara.cz/elite/minorfaction/?search=United%20Carnoeck%20for%20Equality
+bio: 'United Carnoeck for Equality is a organization active in Elite Dangerous lore
+  from 3301-10-08 to 3304-05-27. Frequently associated with Carnoeck, Bacon City,
+  Alliance Defence Force. Key activities include: This week''s major stories include
+  the murder of Fleet Admiral Tulimaq Buchanan of the Alliance Council of Admirals
+  by the League of Reparation, lin...; This week''s major stories include three further
+  League of Reparation murders in Federation space, including two Pilots'' Federation
+  members whose sh...'
 ---
 
 

@@ -24,6 +24,11 @@ economy: Colony
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Etain
 inara_url: https://inara.cz/elite/starsystem/?search=Etain
+bio: Etain is a star system in the Elite Dangerous universe, significant from 3304-11-28
+  to 3307-07-19. Associated with Far God cult, Achilles Corporation, Aegis. Exotheologian
+  Dr Alfred Ulyanov discusses abandoned Far God outposts discovered in the Etain system.
+  Evidence indicates both Etain 4a and 4c settlements were attacked, but whether by
+  Thargoids or humans remains unclear.
 ---
 
 

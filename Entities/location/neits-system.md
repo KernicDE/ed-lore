@@ -11,6 +11,17 @@ related_entities:
 - watson-settlement
 - new-galactic-cooperative-of-worlds
 - federal-navy
+coords:
+  x: 9.84375
+  y: -68.28125
+  z: -9.875
+population: 460105
+edsm_url: https://www.edsm.net/en/system?search=Neits
+bio: Neits system is a star system in the Elite Dangerous universe, significant from
+  3302-05-19 to 3302-05-26. Associated with GR 316 Silver Universal Group, Neits Jet
+  Life Ltd. The Neits system erupts into conflict as Federation-aligned Neits Jet
+  Life Ltd clashes with Imperial GR 316 Silver Universal Group. The strategically
+  positioned system has long resisted both superpowers' influence.
 ---
 
 <!-- AUTO-GENERATED -->

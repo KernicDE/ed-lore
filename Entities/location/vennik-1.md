@@ -9,6 +9,12 @@ related_entities:
 - revolutionary-party-of-vennik
 - vennik-system
 - nixon-enterprise
+bio: Vennik 1 is a star system in the Elite Dangerous universe, significant from 3302-03-17
+  to 3302-03-31. Associated with Revolutionary Party of Vennik. The Revolutionary
+  Party of Vennik enters the final stage of its decades-long terraforming project
+  for Vennik 1. The Revolutionary Party of Vennik extends its terraforming campaign
+  for Vennik 1 by one week due to insufficient supplies of land-enrichment systems
+  in nearby systems.
 ---
 
 <!-- AUTO-GENERATED -->

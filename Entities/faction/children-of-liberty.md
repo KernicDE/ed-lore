@@ -10,6 +10,13 @@ related_entities:
 - alioth
 - capitol
 inara_url: https://inara.cz/elite/minorfaction/?search=Children%20of%20Liberty
+bio: Children of Liberty is a organization in the Elite Dangerous universe, active
+  from 3301-08-07 to 3302-08-04. Frequently linked with Alliance, Alioth, Capitol.
+  The Children of Liberty issued a statement criticizing Alliance Prime Minister Edmund
+  Mahon for tolerating authoritarian governments within Alliance member systems. The
+  Children of Liberty issued a statement arguing the Empire is at a crossroads not
+  just over succession but over whether the next leader will be answerable to the
+  people.
 ---
 
 

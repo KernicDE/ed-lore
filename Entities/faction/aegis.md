@@ -12,6 +12,12 @@ related_entities:
 - federation
 - empire
 inara_url: https://inara.cz/elite/minorfaction/?search=Aegis
+bio: 'Aegis is a organization active in Elite Dangerous lore from 3303-08-05 to 3311-06-18.
+  Frequently associated with Alliance, Salvation, Maelstrom. Key activities include:
+  Professor Alba Tesreau of the Achenar Research Council announces the formation of
+  Aegis, a joint superpower initiative of scientists from the Empir...; Admiral Aden
+  Tanner, Chief of Federal Security, is now liaising with Aegis, sparking speculation
+  that the Empire-Federation cold war could be thawing.'
 ---
 
 

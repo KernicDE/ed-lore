@@ -23,6 +23,12 @@ security: Low
 economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Azaleach
 inara_url: https://inara.cz/elite/starsystem/?search=Azaleach
+bio: 'Azaleach is a system in Elite Dangerous, significant from 3301-05-26 to 3307-01-27.
+  Associated with Azaleach Partnership, Leoniceno Orbital medical staff. Notable events
+  include: Secretary of State Felicia Winters assumed the role of Acting President
+  after contact was lost with Spaceflight One carrying President Halsey and V...;
+  Three ships from Starship One''s Guardian Wing made contact with Navy HQ but could
+  not explain the disappearance.'
 ---
 
 

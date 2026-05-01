@@ -10,6 +10,10 @@ related_entities:
 - azaleach
 - daurtu-jet-comms-plc
 inara_url: https://inara.cz/elite/minorfaction/?search=Azaleach%20Partnership
+bio: Azaleach Partnership is a organization in the Elite Dangerous universe, active
+  from 3302-02-04 to 3302-05-21. Frequently linked with Leoniceno Orbital, Azaleach,
+  Daurtu Jet Comms PLC. The Azaleach Partnership coordinates the campaign from Leoniceno
+  Orbital.
 ---
 
 

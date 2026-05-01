@@ -11,6 +11,12 @@ related_entities:
 - alliance
 - shifnalport
 - leesti
+bio: Birmingham is a star system in the Elite Dangerous universe, significant from
+  3301-05-08 to 3305-10-11. Associated with Alliance, Green Party of Diso. The Green
+  Party of Diso's rejuvenation project for Birmingham succeeded spectacularly when
+  5,187 commanders delivered over 15 million tonnes of machinery in just 65 hours.
+  The Alliance Festival of Culture concludes with a week-long food and drink celebration
+  in Birmingham, Diso.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,9 @@ first_seen_date: '3305-02-09'
 last_seen_date: '3305-03-02'
 mention_count: 4
 inara_url: https://inara.cz/elite/cmdr-search/?search=Oksana%20Ambrose
+bio: Oksana Ambrose is a journalist in the Elite Dangerous universe, active from 3305-02-09
+  to 3305-03-02. Closely associated with Ambrose Foundation, Wallglass Investigations
+  Agency, Jokers' Deck.
 ---
 
 

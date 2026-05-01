@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Ebor
 inara_url: https://inara.cz/elite/starsystem/?search=Ebor
+bio: Ebor is a star system in the Elite Dangerous universe, significant from 3304-07-13
+  to 3304-07-22. Associated with Cobra Wing. Cobra Wing launches an initiative to
+  build a new research outpost in the Ebor system focused on Thargoid inter-species
+  communication research. Cobra Wing announces its Ebor research outpost campaign
+  was enthusiastically received.
 ---
 
 

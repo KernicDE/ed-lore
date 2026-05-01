@@ -24,6 +24,11 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Ackwada
 inara_url: https://inara.cz/elite/starsystem/?search=Ackwada
+bio: Ackwada is a star system in the Elite Dangerous universe, significant from 3306-09-30
+  to 3306-10-14. Associated with Imperial Internal Security Service, Duduseklis Empire
+  League, Pilots Federation. Martial law is declared in Ackwada, Beatis, Chana and
+  Nahuatl. The Empire targets the Duduseklis Empire League in Ackwada, suspecting
+  it of NMLA recruitment.
 ---
 
 

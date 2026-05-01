@@ -12,6 +12,10 @@ related_entities:
 - house-of-duval
 - xuesen-orbital
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Court
+bio: Imperial Court is a organization in the Elite Dangerous universe, active from
+  3301-04-10 to 3301-04-28. Frequently linked with Mictlan, Nehet, Emperor's Grace.
+  Senator Arissa Lavigny-Duval revealed on 'Question Everything' that information
+  from loyal Imperial citizens has proven invaluable in hunting the Emperor's attackers.
 ---
 
 

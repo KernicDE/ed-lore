@@ -24,6 +24,11 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Una
 inara_url: https://inara.cz/elite/starsystem/?search=Una
+bio: Una is a star system in the Elite Dangerous universe, significant from 3301-07-23
+  to 3301-08-06. Associated with Newton Dock Medical. The Cerberus Plague has reached
+  Hart Station in Bast, Hoard Orbital in Una, and Cantor Terminal in Santjalan. Despite
+  a cure being found, the Cerberus Plague continues to affect starports in Bastes,
+  Maheou Ti, Ochoeng, Una, and Santjalan.
 ---
 
 

@@ -12,6 +12,12 @@ related_entities:
 - federal-intelligence-agency
 - wallglass-investigations-agency
 inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Interpol
+bio: 'Alliance Interpol is a organization active in Elite Dangerous lore from 3304-06-15
+  to 3307-06-14. Frequently associated with Alliance, League of Reparation. Key activities
+  include: Weekly summary covering Thargoids being repelled from core systems to Bhal,
+  three starports restored to full functionality, Aisling Duval''s engagem...; Weekly
+  summary covering Chief Inspector Kay Kilbride''s murder by the League of Reparation,
+  reactions to Aisling Duval and Jordan Rochester''s engage...'
 ---
 
 

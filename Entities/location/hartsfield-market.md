@@ -11,6 +11,11 @@ related_entities:
 - federal-navy
 - lugh-for-equality
 - khaka
+bio: 'Hartsfield Market is a system in Elite Dangerous, significant from 3301-03-13
+  to 3301-03-26. Associated with Crimson State Group, Federal Navy, Lugh for Equality.
+  Notable events include: President Halsey officially declared war on the Crimson
+  State Group in Lugh.; The Crimson State Group and Sons of Conn captured Hartsfield
+  Market from the Lugh for Equality Party in a devastating blow for the Federation.'
 ---
 
 <!-- AUTO-GENERATED -->

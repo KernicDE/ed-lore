@@ -24,6 +24,11 @@ economy: Military
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Amitrite
 inara_url: https://inara.cz/elite/starsystem/?search=Amitrite
+bio: Amitrite is a star system in the Elite Dangerous universe, significant from 3301-09-23
+  to 3301-09-29. Associated with Defence Force of Amitrite, Kumo Crew, Imperial Navy.
+  Pirates attacked refugees fleeing the Pegasi Pirate War in the Amitrite system.
+  The Defence Force of Amitrite warned their forces were stretched too thin and urged
+  refugees to avoid the system or fly in convoys.
 ---
 
 

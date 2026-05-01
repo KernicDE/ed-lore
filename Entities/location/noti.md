@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Noti
 inara_url: https://inara.cz/elite/starsystem/?search=Noti
+bio: 'Noti is a system in Elite Dangerous, significant from 3301-10-08 to 3303-11-17.
+  Associated with Federal Times, Revolutionary Noti Value Party. Notable events include:
+  Federal Times reporter Marc Garfield claimed to have witnessed a secret ''master
+  chef'' training facility at Weber Gateway in the Noti system, where ...; An anonymous
+  message claimed that clandestine genetic experiments in the Noti system have created
+  ''Master Chefs'' — slaves subjected to brutal train...'
 ---
 
 

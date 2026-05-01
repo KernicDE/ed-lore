@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Furuhjelm%20III-674
 inara_url: https://inara.cz/elite/starsystem/?search=Furuhjelm%20III-674
+bio: Furuhjelm III-674 is a star system in the Elite Dangerous universe, significant
+  from 3302-10-13 to 3303-01-05. Associated with Alliance, 160 SOAR. 160 SOAR is coordinating
+  an appeal for geological equipment, hazardous-environment suits, and pesticides
+  to be delivered to Tshang City in the Furuhjelm III-674 system.
 ---
 
 

@@ -11,6 +11,11 @@ related_entities:
 - eravate
 - 63-g-capricorni-system
 - ackerman-market
+bio: 'Skvortsov Orbital is a starport in Elite Dangerous, significant from 3302-02-24
+  to 3303-12-15. Associated with Diamond Frogs. Notable events include: The technological
+  plague continues to affect starports across inhabited space.; Several starports
+  previously closed due to Unknown Artefact-related interference have been restored
+  through the application of meta-alloys.'
 ---
 
 <!-- AUTO-GENERATED -->

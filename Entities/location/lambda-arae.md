@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Lambda%20Arae
 inara_url: https://inara.cz/elite/starsystem/?search=Lambda%20Arae
+bio: Lambda Arae is a star system in the Elite Dangerous universe, significant from
+  3304-04-06 to 3304-04-15. Associated with Atlas Corporation, Aegis, Pegasi Sector
+  security forces. The Atlas Corporation has launched a campaign to build the ACS
+  Overwatch megaship in the Lambda Arae system. The Atlas Corporation has announced
+  the successful conclusion of its campaign to build a megaship in the Lambda Arae
+  system.
 ---
 
 

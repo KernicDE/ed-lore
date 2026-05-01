@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Cuchua
 inara_url: https://inara.cz/elite/starsystem/?search=Cuchua
+bio: Cuchua is a star system in the Elite Dangerous universe, significant from 3301-07-08
+  to 3301-07-24. Associated with Kumo Crew, Lavigny's Legion. Senators Patreus and
+  Lavigny-Duval launched a united Imperial offensive against the Kumo Crew after Cuchua
+  came under attack. Lavigny's Legion deployed to assist Patreus's forces, with the
+  Velites Squadron spearheading operations code-named 'Charybdis' and 'Davy Jones'
+  in Cuchua and Harma.
 ---
 
 

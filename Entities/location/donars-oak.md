@@ -11,6 +11,9 @@ related_entities:
 - pleiades-nebula
 - federal-intelligence-agency
 - federal-times
+bio: Donar's Oak is a star system in the Elite Dangerous universe, significant from
+  3304-08-10 to 3307-12-14. Associated with Aegis, Federal Times. Hundreds of pilots
+  delivered stranded survivors and commodities to Donar's Oak.
 ---
 
 <!-- AUTO-GENERATED -->

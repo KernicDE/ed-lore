@@ -11,6 +11,10 @@ related_entities:
 - aegis
 - alliance
 - privateers-alliance
+bio: Redi Market is a star system in the Elite Dangerous universe, significant from
+  3304-04-06 to 3304-04-15. Associated with Atlas Corporation, Aegis, Pegasi Sector
+  security forces. Hundreds of pilots delivered commodities to Redi Market and eliminated
+  agitators in Lambda Arae to protect traders.
 ---
 
 <!-- AUTO-GENERATED -->

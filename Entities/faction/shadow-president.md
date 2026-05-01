@@ -12,6 +12,11 @@ related_entities:
 - federal-navy
 - kumo-crew
 inara_url: https://inara.cz/elite/minorfaction/?search=Shadow%20President
+bio: 'Shadow President is a organization active in Elite Dangerous lore from 3309-10-05
+  to 3310-08-29. Frequently associated with Alliance. Key activities include: The
+  organisation Aegis has expressed support for Utopia’s offer to host a Galactic Summit
+  for All three superpowers.; Political fallout has been intense after The NMLA simultaneously
+  bombed nine starports in the Alliance, Empire and Federation.'
 ---
 
 

@@ -11,6 +11,12 @@ related_entities:
 - lave-jet-family
 - diso
 - lave-system
+bio: 'Lave Station is a starport in Elite Dangerous, significant from 3302-03-03 to
+  3304-06-15. Associated with Lave Radio Network, Lave Jet Family. Notable events
+  include: Several starports previously closed due to Unknown Artefact-related interference
+  have been restored through the application of meta-alloys.; Fleet Admiral Tulimaq
+  Buchanan of the Alliance Council of Admirals has been murdered by the League of
+  Reparation.'
 ---
 
 <!-- AUTO-GENERATED -->

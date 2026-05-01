@@ -11,6 +11,12 @@ related_entities:
 - col-285-sector-ix-t-d3-43
 - bond-hub
 - varati
+bio: 'Thompson Dock is a starport in Elite Dangerous, significant from 3301-11-26
+  to 3302-04-19. Associated with Canonn Interstellar Research Group. Notable events
+  include: Over fifty Canonn Interstellar Research Group scientists arrive at Bond
+  Hub in Varati with equipment to investigate the correlation between Unknown...;
+  The Canonn Interstellar Research Group launches a campaign to construct a state-of-the-art
+  research outpost in the Col 285 Sector IX-T d3-43 system...'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,12 @@ first_seen_date: '3304-06-15'
 last_seen_date: '3309-09-05'
 mention_count: 15
 inara_url: https://inara.cz/elite/cmdr-search/?search=Flint%20Lafosse
+bio: 'Flint Lafosse is a Journalist in Elite Dangerous lore, active from 3304-06-15
+  to 3309-09-05. Affiliated with Rewired, The Rewired. Notable activities include:
+  Weekly summary covering Aisling Duval''s anti-slavery campaign merging with Universal
+  Liberty to form Unchain, Lori Jameson''s denunciation of the Le...; Independent
+  journalist Flint ''Firemaker'' Lafosse publishes classified ACT information allegedly
+  from Neo-Marlinist survivors claiming that Hadrian ...'
 ---
 
 

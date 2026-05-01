@@ -11,6 +11,9 @@ related_entities:
 - merope-expeditionary-fleet
 - merope
 - monis-hub
+bio: PRE Logistics Support Gamma is a starport in the Elite Dangerous universe, significant
+  from 3302-09-22 to 3303-06-02. Associated with Pleiades Resource Enterprise, Merope
+  Expeditionary Fleet.
 ---
 
 <!-- AUTO-GENERATED -->

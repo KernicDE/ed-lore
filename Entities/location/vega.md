@@ -22,6 +22,12 @@ economy: Agriculture
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Vega
 inara_url: https://inara.cz/elite/starsystem/?search=Vega
+bio: 'Vega is a system in Elite Dangerous, significant from 3305-04-25 to 3305-05-31.
+  Associated with Fort Dixon Security, Vox Galactica. Notable events include: Commander
+  Bjorn Lennox''s Diamondback Explorer is stolen from Fort Dixon in the Vega system
+  by an unknown thief who bypassed all security protocols,...; Fort Dixon Security
+  identifies starship technician Gan Romero as the individual who stole a docked Diamondback
+  Explorer in the Vega system, though ...'
 ---
 
 

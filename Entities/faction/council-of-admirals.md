@@ -12,6 +12,13 @@ related_entities:
 - league-of-reparation
 - sirius-corporation
 inara_url: https://inara.cz/elite/minorfaction/?search=Council%20of%20Admirals
+bio: 'Council of Admirals is a government active in Elite Dangerous lore from 3301-05-02
+  to 3308-09-23. Frequently associated with Alliance Defence Force, Alliance Assembly,
+  Alliance. Key activities include: This week''s major stories include the murder
+  of Fleet Admiral Tulimaq Buchanan of the Alliance Council of Admirals by the League
+  of Reparation, lin...; Commodore Morag Halloran reveals that hundreds of naval officers
+  from all three superpowers and Sirius have resigned to join Salvation''s anti-xeno
+  ...'
 ---
 
 

@@ -12,6 +12,11 @@ related_entities:
 - wallglass-investigations-agency
 - kumo-crew
 inara_url: https://inara.cz/elite/minorfaction/?search=October%20Consortium
+bio: 'October Consortium is a organization active in Elite Dangerous lore from 3307-10-05
+  to 3312-04-30. Frequently associated with HIP 87621, Holloway Bioscience Institute.
+  Key activities include: Aegis confirms that special advisor Seo Jin-ae has taken
+  a hiatus from her duties.; Professor Frank Raddix''s appeal to find missing exobiologist
+  Terri Tora led thousands of pilots to the permit-locked HIP 87621.'
 ---
 
 

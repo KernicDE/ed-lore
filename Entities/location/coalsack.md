@@ -11,6 +11,16 @@ related_entities:
 - aegis
 - witch-head
 - sirius-corporation
+coords:
+  x: 510.53125
+  y: -58.28125
+  z: 281.84375
+edsm_url: https://www.edsm.net/en/system?search=Coalsack
+bio: 'Coalsack is a system in Elite Dangerous, significant from 3307-01-07 to 3308-11-15.
+  Associated with Alliance, Aegis. Notable events include: Starports in The Coalsack
+  and Witch Head Nebulas have been damaged during full-scale Thargoid incursions.;
+  Edmund Mahon has launched a political campaign to be elected As the Alliance’s leader
+  for a second term.'
 ---
 
 <!-- AUTO-GENERATED -->

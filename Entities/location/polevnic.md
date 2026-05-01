@@ -24,6 +24,10 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Polevnic
 inara_url: https://inara.cz/elite/starsystem/?search=Polevnic
+bio: 'Polevnic is a system in Elite Dangerous, significant from 3301-06-06 to 3310-08-15.
+  Associated with Utopia, Sirius Corporation. Notable events include: Utopia''s compound
+  on Antal has long displayed technology years ahead of its time.; Profile of Simguru
+  Pranav Antal, heir to Rishi Antal''s legacy of transcendental technology.'
 ---
 
 

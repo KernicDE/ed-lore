@@ -24,6 +24,12 @@ economy: Refinery
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Niflhel
 inara_url: https://inara.cz/elite/starsystem/?search=Niflhel
+bio: 'Niflhel is a system in Elite Dangerous, significant from 3304-06-15 to 3304-11-03.
+  Associated with Niflhel Corp. Notable events include: Senator Caspian Leopold launches
+  an initiative to construct a rehabilitation centre for civilians affected by heightened
+  military action in the cor...; Weekly summary covering Aisling Duval''s anti-slavery
+  campaign merging with Universal Liberty to form Unchain, Lori Jameson''s denunciation
+  of the Le...'
 ---
 
 

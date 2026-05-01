@@ -6,6 +6,9 @@ first_seen_date: '3301-03-18'
 last_seen_date: '3302-05-20'
 mention_count: 4
 inara_url: https://inara.cz/elite/cmdr-search/?search=Virgil%20Kyle
+bio: Virgil Kyle is a commander in the Elite Dangerous universe, active from 3301-03-18
+  to 3302-05-20. Closely associated with Children of Liberty. Kyle described the view
+  of the Milky Way from the system as spectacular and invited other explorers to visit.
 ---
 
 

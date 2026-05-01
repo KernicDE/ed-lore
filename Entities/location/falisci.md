@@ -24,6 +24,11 @@ economy: Colony
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Falisci
 inara_url: https://inara.cz/elite/starsystem/?search=Falisci
+bio: 'Falisci is a system in Elite Dangerous, significant from 3301-02-17 to 3301-03-27.
+  Associated with Citizens of Tradition, Falisci Purple Gang. Notable events include:
+  Senator Denton Patreus received a standing ovation on Eotienses after a speech on
+  internal security.; Despite Senator Patreus''s warning, Falisci pirates continue
+  plundering traders en route to Dongzi and Ngaiawang.'
 ---
 
 

@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Blatrimpe
 inara_url: https://inara.cz/elite/starsystem/?search=Blatrimpe
+bio: Blatrimpe is a star system in the Elite Dangerous universe, significant from
+  3304-07-05 to 3305-01-03. Associated with Bonespire Publishing, Federal Navy. Bonespire
+  Publishing organises the tour from Blatrimpe to Procyon. CEO Maddox Hurd announces
+  an urgent need for consumer technology, hardware diagnostic sensors, and computer
+  components to be delivered to Boltzmann Hub in the Blatrimpe system.
 ---
 
 

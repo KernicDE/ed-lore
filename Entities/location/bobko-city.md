@@ -11,6 +11,11 @@ related_entities:
 - narri
 - aegis
 - iiss
+bio: Bobko City is a star system in the Elite Dangerous universe, significant from
+  3304-05-04 to 3304-05-13. Associated with Utopia, Narri Justice Party. The Narri
+  Justice Party is overseeing construction and has requested pilots deliver materials
+  to Bobko City while protecting traders from pirates. Traders delivered construction
+  materials to Bobko City for building defences to protect the Sim-Archive.
 ---
 
 <!-- AUTO-GENERATED -->

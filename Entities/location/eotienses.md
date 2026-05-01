@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Eotienses
 inara_url: https://inara.cz/elite/starsystem/?search=Eotienses
+bio: 'Eotienses is a system in Elite Dangerous, significant from 3301-02-17 to 3307-03-25.
+  Notable events include: *Pilots Federation ALERT* Explosions have struck starports
+  across The Alliance, Empire and Federation In a coordinated bombing attack by the
+  NMLA.; Vice President Brad Mitchell and a number of Federal Cabinet members have
+  been killed in The recent terrorist attack on a starport orbiting Earth.'
 ---
 
 

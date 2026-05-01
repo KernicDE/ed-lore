@@ -12,6 +12,11 @@ related_entities:
 - interstellar-communist-union
 - the-sovereign
 inara_url: https://inara.cz/elite/minorfaction/?search=Social%20Eleu%20Progressive%20Party
+bio: Social Eleu Progressive Party is a organization in the Elite Dangerous universe,
+  active from 3302-06-02 to 3302-07-07. Frequently linked with Border Coalition, GalCop,
+  Interstellar Communist Union. The Border Coalition has unanimously decided to back
+  the Social Eleu Progressive Party in the Rise to Power campaign after an emergency
+  meeting at Iren's Dock.
 ---
 
 

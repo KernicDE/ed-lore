@@ -6,6 +6,11 @@ first_seen_date: '3307-08-20'
 last_seen_date: '3309-03-20'
 mention_count: 5
 inara_url: https://inara.cz/elite/cmdr-search/?search=Kit%20Fowler
+bio: Kit Fowler is a journalist in the Elite Dangerous universe, active from 3307-08-20
+  to 3309-03-20. Closely associated with Utopia, Wallglass Investigations Agency.
+  Independent journalist Flint 'Firemaker' Lafosse begins broadcasting Kit Fowler's
+  conspiracy show End Times on the Rewired network, linking Black Flight crimes to
+  Thargoid cover-ups.
 ---
 
 

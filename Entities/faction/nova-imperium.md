@@ -12,6 +12,11 @@ related_entities:
 - imperial-navy
 - alliance
 inara_url: https://inara.cz/elite/minorfaction/?search=Nova%20Imperium
+bio: 'Nova Imperium is a organization active in Elite Dangerous lore from 3304-11-01
+  to 3308-02-21. Frequently associated with Paresa. Key activities include: Weekly
+  summary covering the conclusion of the Fazia Silva homicide investigation with no
+  convictions and Tashmira Silva assuming control of her sis...; Nova Imperium broadcasts
+  a message to Imperial citizens via public media.'
 ---
 
 

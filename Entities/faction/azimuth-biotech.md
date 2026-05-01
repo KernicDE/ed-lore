@@ -12,6 +12,12 @@ related_entities:
 - federation
 - aegis
 inara_url: https://inara.cz/elite/minorfaction/?search=Azimuth%20Biotech
+bio: 'Azimuth Biotech is a organization active in Elite Dangerous lore from 3308-06-20
+  to 3309-07-20. Frequently associated with HIP 22460, Salvation, Federation. Key
+  activities include: Salvation publicly reveals that Taurus Mining Ventures is a
+  front for Azimuth Biotech, admitting his identity as Caleb Wycherley''s successor
+  and cl...; The superpowers announce they will continue collaborating with Azimuth
+  Biotech despite revelations about its past, with military leaders arguing Sa...'
 ---
 
 

@@ -11,6 +11,12 @@ related_entities:
 - aislings-angels
 - future-of-synteini
 - william-sargent-vision
+bio: 'Lagerkvist Gateway is a system in Elite Dangerous, significant from 3301-03-01
+  to 3301-04-21. Associated with Imperial Slavers Association. Notable events include:
+  Senator Zemina Torval accepted a challenge from Aisling Duval to determine whose
+  position on slavery the Empire''s citizens truly support.; Senator Zemina Torval
+  defeated Aisling Duval in their slavery wager, with the Imperial Slavers Association
+  acquiring 2,387,567 unregulated slaves c...'
 ---
 
 <!-- AUTO-GENERATED -->

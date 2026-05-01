@@ -11,6 +11,8 @@ related_entities:
 - alliance
 - empire
 - federation
+bio: Core systems is a star system in the Elite Dangerous universe, significant from
+  3303-10-19 to 3305-04-18. Associated with Aegis, Intergalactic Naval Reserve Arm.
 ---
 
 <!-- AUTO-GENERATED -->

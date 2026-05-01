@@ -9,6 +9,8 @@ related_entities:
 - lavignys-legion
 - carthage
 - imperial-navy
+bio: Marker Depot is a star system in the Elite Dangerous universe, significant from
+  3302-07-21 to 3302-07-28. Associated with Lavigny's Legion.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,10 @@ related_entities:
 - imperial-internal-security-service
 - federal-intelligence-agency
 - league-of-reparation
+bio: New Rossyth is a star system in the Elite Dangerous universe, significant from
+  3304-06-28 to 3304-07-06. Associated with Federal Intelligence Agency, League of
+  Reparation. The trap was sprung in an abandoned foundry in New Rossyth on Turner's
+  World after Kilbride acted on false intelligence about a League cell.
 ---
 
 <!-- AUTO-GENERATED -->

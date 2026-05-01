@@ -11,6 +11,12 @@ related_entities:
 - achenar
 - stop-slavery-stupid
 - emperors-dawn
+bio: 'Mackenzie Relay is a system in Elite Dangerous, significant from 3301-03-06
+  to 3308-09-29. Associated with Imperial Internal Security Service, Stop Slavery
+  Stupid. Notable events include: An assassination attempt on Admiral Denton Patreus
+  at Mackenzie Relay in the Cemiess system was thwarted by the Imperial Internal Security
+  Service.; *Pilots Federation ALERT* Safeguard Interstellar requires deliveries of
+  medicines to treat casualties from The NMLA’s recent terrorist attack.'
 ---
 
 <!-- AUTO-GENERATED -->

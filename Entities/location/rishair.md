@@ -24,6 +24,12 @@ economy: Refinery
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Rishair
 inara_url: https://inara.cz/elite/starsystem/?search=Rishair
+bio: Rishair is a star system in the Elite Dangerous universe, significant from 3301-07-05
+  to 3301-08-14. Associated with Emperor's Grace, Imperial Navy, Aisling's Angels.
+  Aisling Duval's anti-slavery activists were expelled from Rishair after Admiral
+  Brennus of Emperor's Grace intervened. High Inquisitor Mavia Kain of the Imperial
+  Inquisition will meet Admiral Varrwen Mako Brennus of Emperor’s Grace at Lindblad
+  Port in Rishair.
 ---
 
 

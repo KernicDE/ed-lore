@@ -12,6 +12,12 @@ related_entities:
 - citizens-of-tradition
 - polahukuna-raiders
 inara_url: https://inara.cz/elite/minorfaction/?search=East%20India%20Company
+bio: 'East India Company is a corporation active in Elite Dangerous lore from 3301-02-28
+  to 3301-09-06. Frequently associated with Federal Navy, Imperial Senate. Key activities
+  include: Six months after Onionhead was made illegal in Federal space, the Federation
+  launched a violent campaign against Kappa Fornacis farmers led by Geor...; Two war
+  updates: (1) The Federal Navy-Polahukuna Raiders conflict shifted as the Federation
+  began construction of a new Farragut-class battlecruise...'
 ---
 
 

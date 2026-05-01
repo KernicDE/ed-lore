@@ -12,6 +12,12 @@ related_entities:
 - luca
 - farmers-union-of-kappa-fornacis
 inara_url: https://inara.cz/elite/minorfaction/?search=Defence%20Force%20of%20Tanmark
+bio: Defence Force of Tanmark is a organization in the Elite Dangerous universe, active
+  from 3301-02-24 to 3301-03-06. Frequently linked with Tanmark, Cassie-L-Peia, Tanmark
+  Posse. The Defence Force of Tanmark and the Farmers Union of Kappa Fornacis announced
+  success in increasing local Lucan Onionhead production. Conflict broke out between
+  the Defence Force of Tanmark and the Tanmark Posse criminal gang, the main force
+  behind Lucan Onionhead cultivation in hidden facilities on Luca.
 ---
 
 

@@ -11,6 +11,11 @@ related_entities:
 - federal-times
 - federal-congress
 - alliance
+bio: 'Olympus Village is a system in Elite Dangerous, significant from 3304-07-07
+  to 3311-04-30. Notable events include: Weekly summary covering the dismantling of
+  the League of Reparation and Riri McAllister''s arrest, the Church of Eternal Void
+  being declared illegal...; The superpowers agree to shut down Aegis permanently
+  and establish independent anti-xeno taskforces.'
 ---
 
 <!-- AUTO-GENERATED -->

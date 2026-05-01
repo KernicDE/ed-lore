@@ -24,6 +24,11 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Carnoeck
 inara_url: https://inara.cz/elite/starsystem/?search=Carnoeck
+bio: 'Carnoeck is a system in Elite Dangerous, significant from 3301-07-09 to 3304-05-25.
+  Associated with United Carnoeck for Equality, Bacon Cats. Notable events include:
+  This week''s major stories include the murder of Fleet Admiral Tulimaq Buchanan
+  of the Alliance Council of Admirals by the League of Reparation, lin...; Weekly
+  powerplay update covering all major powers.'
 ---
 
 

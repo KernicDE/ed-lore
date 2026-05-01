@@ -24,6 +24,8 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Loperada
 inara_url: https://inara.cz/elite/starsystem/?search=Loperada
+bio: Loperada is a star system in the Elite Dangerous universe, significant from 3302-02-24
+  to 3302-05-20.
 ---
 
 

@@ -9,6 +9,11 @@ related_entities:
 - upaniklis
 - interstellar-health-organisation
 inara_url: https://inara.cz/elite/minorfaction/?search=Upaniklis%20Vision%20Incorporated
+bio: Upaniklis Vision Incorporated is a corporate in the Elite Dangerous universe,
+  active from 3305-11-08 to 3305-11-22. Frequently linked with Upaniklis, Interstellar
+  Health Organisation. An inhabited generation ship, the Golconda, is discovered in
+  the Upaniklis system. The Golconda inhabitants offer a case of their traditional
+  spirit Apa Vietii to the Upaniklis system as a token of gratitude.
 ---
 
 

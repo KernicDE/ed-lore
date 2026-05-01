@@ -10,6 +10,12 @@ related_entities:
 - children-of-tothos
 - federal-intelligence-agency
 inara_url: https://inara.cz/elite/minorfaction/?search=Zlota%20Federal%20Holdings
+bio: Zlota Federal Holdings is a organization in the Elite Dangerous universe, active
+  from 3304-12-06 to 3305-03-01. Frequently linked with Zlota, Children of Tothos,
+  Federal Intelligence Agency. The Children of Tothos, an obscure cult led by Barnabas
+  Cole in the Zlota system, requests rare commodities for an arcane ceremony. The
+  rare commodity delivery initiative for the Children of Tothos cult in the Zlota
+  system concludes successfully.
 ---
 
 

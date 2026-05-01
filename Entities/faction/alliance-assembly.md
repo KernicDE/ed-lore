@@ -12,6 +12,13 @@ related_entities:
 - alliance-defence-force
 - zaonce
 inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Assembly
+bio: 'Alliance Assembly is a government active in Elite Dangerous lore from 3301-03-11
+  to 3308-09-15. Frequently associated with Alliance, Alliance Tribune, Alliance Defence
+  Force. Key activities include: President Gibson Kincaid is removed from office by
+  the Alliance Assembly on charges of treason, murder and corruption, and is detained
+  while attemp...; Commodore Morag Halloran reveals that hundreds of naval officers
+  from all three superpowers and Sirius have resigned to join Salvation''s anti-xeno
+  ...'
 ---
 
 

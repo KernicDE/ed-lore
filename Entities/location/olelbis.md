@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Olelbis
 inara_url: https://inara.cz/elite/starsystem/?search=Olelbis
+bio: Olelbis is a star system in the Elite Dangerous universe, significant from 3304-11-15
+  to 3304-11-24. Associated with Olelbis Holdings, Cordova Group, Mars Tribune. Olelbis
+  Holdings announces an elaborate social function at Polyakov Orbital in the Olelbis
+  system. Olelbis Holdings announces the successful conclusion of its commodity appeal
+  for a social function at Polyakov Orbital.
 ---
 
 

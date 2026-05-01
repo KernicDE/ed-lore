@@ -10,6 +10,11 @@ related_entities:
 - earth
 - pacific-ocean
 - sol
+coords:
+  x: -283.5
+  y: -264.46875
+  z: -888.75
+edsm_url: https://www.edsm.net/en/system?search=California
 ---
 
 <!-- AUTO-GENERATED -->

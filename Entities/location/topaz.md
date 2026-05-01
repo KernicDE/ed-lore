@@ -11,6 +11,11 @@ related_entities:
 - emperors-grace
 - imperial-court
 - facece-empire-party
+bio: Topaz is a star system in the Elite Dangerous universe, significant from 3301-02-12
+  to 3301-08-18. Associated with Emperor's Grace, Imperial Senate. Senator Arissa
+  Lavigny-Duval addressed supporters from the Lavigny family home on Topaz ahead of
+  a closed Senate meeting. Jaques had begun his epic journey from orbit around the
+  moon of Topaz into the great unknown.
 ---
 
 <!-- AUTO-GENERATED -->

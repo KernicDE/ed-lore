@@ -12,6 +12,9 @@ related_entities:
 - kappa-fornacis
 - xelabara-republic-party
 inara_url: https://inara.cz/elite/minorfaction/?search=Drug%20Empire%20of%20Xelabara
+bio: Drug Empire of Xelabara is a organization in the Elite Dangerous universe, active
+  from 3301-11-19 to 3301-11-25. Frequently linked with Xelabara, Navigator Market,
+  Farmer's Cooperative of Kappa Fornacis.
 ---
 
 

@@ -6,6 +6,11 @@ first_seen_date: '3301-08-16'
 last_seen_date: '3301-08-23'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Inspector%20Reeve
+bio: Inspector Reeve is a emperor in the Elite Dangerous universe, active from 3301-08-16
+  to 3301-08-23. Closely associated with Imperial Intelligence Service. Inspector
+  Reeve discovered encrypted data files hidden in the toys of Brendan Paul Darius's
+  six-year-old niece, killed in the family murder. Inspector Reeve described the deaths
+  as the most horrific he had encountered.
 ---
 
 

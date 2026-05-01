@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Chukchan
 inara_url: https://inara.cz/elite/starsystem/?search=Chukchan
+bio: 'Chukchan is a system in Elite Dangerous, significant from 3306-10-29 to 3308-06-23.
+  Associated with Pilots Federation, Azimuth Biochemicals. Notable events include:
+  A dormant communications beacon aboard the 200-year-old ghost ship Adamastor in
+  the Chukchan system suddenly activates, receiving and rebroadcastin...; Independent
+  pilots report receiving anonymous instructions from a figure calling himself "Salvation,"
+  who provides a decryption key for the Adamast...'
 ---
 
 

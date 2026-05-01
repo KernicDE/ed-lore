@@ -24,6 +24,12 @@ economy: High Tech
 second_economy: Service
 edsm_url: https://www.edsm.net/en/system?search=Alioth
 inara_url: https://inara.cz/elite/starsystem/?search=Alioth
+bio: 'Alioth is a system in Elite Dangerous, significant from 3301-02-22 to 3311-09-29.
+  Associated with Alliance, Sirius Corporation. Notable events include: Weekly summary
+  covering Admiral Varma''s arrest, the Church of Eternal Void declaring war on the
+  Far God cult, Aisling Duval''s wedding date announce...; Weekly summary covering
+  Riri McAllister being unmasked as Nexus and framing Admiral Varma, the hunt for
+  League strongholds in Zibal and Ienpalang, ...'
 ---
 
 

@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Stuemeae%20FG-Y%20d7561
 inara_url: https://inara.cz/elite/starsystem/?search=Stuemeae%20FG-Y%20d7561
+bio: 'Stuemeae FG-Y d7561 is a system in Elite Dangerous, significant from 3305-01-17
+  to 3305-07-03. Associated with Deep Space Surveys. Notable events include: The Omega
+  Mining Corporation requests indite, gallite, praseodymium and cobalt deliveries
+  to build an Orbis starport in the Galactic Centre as part...; The Omega Mining Corporation''s
+  resource drive concludes successfully, securing enough materials to build an Orbis
+  starport in the Stuemeae FG-Y d75...'
 ---
 
 

@@ -12,6 +12,11 @@ related_entities:
 - paresa
 - mudhrid
 inara_url: https://inara.cz/elite/minorfaction/?search=IISS
+bio: 'IISS is a organization active in Elite Dangerous lore from 3301-08-28 to 3307-05-21.
+  Frequently associated with Capitol, NMLA. Key activities include: The murder of
+  Imperial Senator Nestor Cartesius has sparked widespread speculation about the INRA.;
+  Imperator Hadrian Augustus Duval of Nova Imperium marries his consort Astrid Minerva
+  in a closed ceremony attended by Princess Aisling Duval.'
 ---
 
 

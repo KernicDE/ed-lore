@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Luyten's%20Star
 inara_url: https://inara.cz/elite/starsystem/?search=Luyten's%20Star
+bio: 'Luyten''s Star is a system in Elite Dangerous, significant from 3301-02-14 to
+  3310-12-18. Associated with Aegis. Notable events include: Seo Jin-ae claims Salvation
+  planned to escape death via the Nemesis Failsafe, a Guardian-based consciousness
+  transfer technology, while the Order o...; Seven of eight rescue megaships deployed
+  near Sol are destroyed by Thargoid forces within minutes of arrival, leaving only
+  Rescue Ship Hutner and R...'
 ---
 
 

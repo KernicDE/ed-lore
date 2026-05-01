@@ -11,6 +11,11 @@ related_entities:
 - inra
 - league-of-reparation
 - federal-intelligence-agency
+bio: Houtman City is a star system in the Elite Dangerous universe, significant from
+  3302-12-08 to 3304-06-10. Associated with Aeternitas Industries, INRA, League of
+  Reparation. Aeternitas Industries has successfully cleared the Aeternitas system
+  of agitators with the help of hundreds of pilots, and rewards are now available
+  at Houtman City.
 ---
 
 <!-- AUTO-GENERATED -->

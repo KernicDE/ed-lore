@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Maausk
 inara_url: https://inara.cz/elite/starsystem/?search=Maausk
+bio: Maausk is a star system in the Elite Dangerous universe, significant from 3301-09-11
+  to 3301-10-08. Associated with Emperor's Dawn, Imperial Navy. The Empire had already
+  eradicated a cell in Maausk. Journalist Katherine Ryder reported from the frontlines
+  of Senator Patreus's campaign against Emperor's Dawn in the Dakshmandi and Maausk
+  systems.
 ---
 
 

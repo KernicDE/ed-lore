@@ -12,6 +12,12 @@ related_entities:
 - chona
 - cemiess
 inara_url: https://inara.cz/elite/minorfaction/?search=Aisling%27s%20Angels
+bio: 'Aisling''s Angels is a organization active in Elite Dangerous lore from 3301-03-30
+  to 3302-01-12. Frequently associated with Imperial Slavers Association. Key activities
+  include: Aisling Duval appeared on the Imperial talk show ''A Fireside Chat With
+  Serena'' and praised her ''Angels'' for cleaning up unruly elements on Cemiess.;
+  Senator Zemina Torval defeated Aisling Duval in their slavery wager, with the Imperial
+  Slavers Association acquiring 2,387,567 unregulated slaves c...'
 ---
 
 

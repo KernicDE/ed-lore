@@ -11,6 +11,14 @@ related_entities:
 - tanmark
 - panem
 - cassie-l-peia
+coords:
+  x: -132.75
+  y: 48.28125
+  z: -41.4375
+population: 45578
+allegiance: Independent
+government: Feudal
+edsm_url: https://www.edsm.net/en/system?search=Luca
 ---
 
 <!-- AUTO-GENERATED -->

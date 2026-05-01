@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Bhagui
 inara_url: https://inara.cz/elite/starsystem/?search=Bhagui
+bio: Bhagui is a star system in the Elite Dangerous universe, significant from 3304-09-27
+  to 3304-10-06. Associated with Mould Federal Mining Incorporated, Herculean Machines,
+  Achilles Corporation. Citizens of the Bhagui system attempt to resurrect the ancient
+  Oktoberfest celebration, an annual Earth tradition. The company places an open order
+  for animal meat, fish, and beer, promising rewards for deliveries to Leavitt Port
+  in the Bhagui system.
 ---
 
 

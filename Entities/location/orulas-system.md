@@ -11,6 +11,18 @@ related_entities:
 - joint-security-taskforce
 - nespeleve-system
 - palin-institute
+coords:
+  x: 76.75
+  y: -141.375
+  z: -120.375
+population: 36697
+edsm_url: https://www.edsm.net/en/system?search=Orulas
+bio: 'Orulas system is a system in Elite Dangerous, significant from 3302-02-25 to
+  3302-05-12. Associated with Blue Hand Gang. Notable events include: Professor Ishmael
+  Palin announces his retirement from the Palin Institute and plans to relocate to
+  a research centre on Maia A 3 a to study Unknown...; Authorities at Wilkes Orbital
+  announce that Professor Ishmael Palin and his research team were among those rescued
+  from the Blue Hand Gang in the O...'
 ---
 
 <!-- AUTO-GENERATED -->

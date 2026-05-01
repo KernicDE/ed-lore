@@ -24,6 +24,10 @@ economy: Extraction
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Veroklist
 inara_url: https://inara.cz/elite/starsystem/?search=Veroklist
+bio: Veroklist is a star system in the Elite Dangerous universe, significant from
+  3304-05-11 to 3304-05-20. Associated with Moritasgus Imperial Corporation, Aegis.
+  The Moritasgus Imperial Corporation successfully completed a commodities appeal
+  in Veroklist. The Empire announced plans for a new Riker-Class Prison Ship in Veroklist.
 ---
 
 

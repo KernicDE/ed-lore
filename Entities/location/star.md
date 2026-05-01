@@ -10,6 +10,11 @@ related_entities:
 - sirius-corporation
 - aerial
 - i-assure-you-that-the-sirius
+coords:
+  x: -1840.5625
+  y: 95.25
+  z: 610.3125
+edsm_url: https://www.edsm.net/en/system?search=Star
 ---
 
 <!-- AUTO-GENERATED -->

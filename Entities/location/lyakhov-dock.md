@@ -11,6 +11,10 @@ related_entities:
 - aegis
 - pilots-federation
 - ross-310-natural-services
+bio: Lyakhov Dock is a starport in the Elite Dangerous universe, significant from
+  3304-03-23 to 3304-04-07. Associated with EG Union, Aegis, Ross 310 Cartel. Hundreds
+  of pilots delivered commodities to Lyakhov Dock and eliminated agitators in surrounding
+  systems to ensure trader safety.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,12 @@ related_entities:
 - advocacy
 - nmla
 inara_url: https://inara.cz/elite/minorfaction/?search=Proactive%20Detection%20Bureau
+bio: 'Proactive Detection Bureau is a organization active in Elite Dangerous lore
+  from 3307-04-06 to 3309-02-07. Frequently associated with Sol, Federal Congress.
+  Key activities include: The Federal Intelligence Agency establishes the Proactive
+  Detection Bureau to scan civilian communications for terrorist activity following
+  congres...; The Azaladshu Free faction secedes from the Federation, declaring its
+  four systems independent in protest against surveillance laws.'
 ---
 
 

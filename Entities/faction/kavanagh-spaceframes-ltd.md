@@ -12,6 +12,11 @@ related_entities:
 - nagasairu
 - kumo-crew
 inara_url: https://inara.cz/elite/minorfaction/?search=Kavanagh%20Spaceframes%20Ltd
+bio: 'Kavanagh Spaceframes Ltd is a organization active in Elite Dangerous lore from
+  3306-09-11 to 3307-04-22. Frequently associated with Pilots Federation, Steel Castle
+  Inc, Tenche. Key activities include: The Kumo Crew syndicate launches a campaign
+  to construct up to five new Orbis starports in uninhabited systems near key trading
+  regions.; The Kumo Crew''s starport construction campaign concludes successfully.'
 ---
 
 

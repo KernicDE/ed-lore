@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Segovan
 inara_url: https://inara.cz/elite/starsystem/?search=Segovan
+bio: 'Segovan is a system in Elite Dangerous, significant from 3302-07-07 to 3302-07-13.
+  Associated with Federation, Future of Segovan, Empire. Notable events include: The
+  Federal expansion campaign has been halted after Ramsbottom Hub in the Segovan system
+  entered lockdown, leaving thousands of pilots unable to d...; A coalition of Empire-aligned
+  commanders known as Taskforce Athena has declared the Segovan system a no-fly zone
+  and placed Ramsbottom Hub in lockd...'
 ---
 
 

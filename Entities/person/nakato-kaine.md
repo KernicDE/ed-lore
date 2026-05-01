@@ -6,6 +6,12 @@ first_seen_date: '3306-12-24'
 last_seen_date: '3311-11-27'
 mention_count: 27
 inara_url: https://inara.cz/elite/cmdr-search/?search=Nakato%20Kaine
+bio: 'Nakato Kaine is a Ceo in Elite Dangerous lore, active from 3306-12-24 to 3311-11-27.
+  Affiliated with Alliance, Sirius Corporation. Notable activities include: Historian
+  Sima Kalhana continues her review of 3307, covering the Proactive Detection Bureau,
+  ACT''s early victories, Salvation''s emergence, the Ale...; The Alliance-Sirius
+  Corporation anti-xeno defence pact enters its final approval stage before an Assembly
+  vote.'
 ---
 
 

@@ -11,6 +11,12 @@ related_entities:
 - salvation
 - azimuth-biotech
 - heart-of-taurus
+bio: 'Bright Sentinel is a system in Elite Dangerous, significant from 3308-06-30
+  to 3309-12-11. Associated with Salvation, Azimuth, Azimuth Biotech. Notable events
+  include: Salvation announces the Proteus Wave construction in HIP 22460, declaring
+  it will be the final battlefield to eradicate Thargoids from the galaxy, ...; Azimuth
+  Biotech requests medical and military commodity deliveries to the Heart of Taurus
+  in HIP 22460 to support Proteus Wave construction and def...'
 ---
 
 <!-- AUTO-GENERATED -->

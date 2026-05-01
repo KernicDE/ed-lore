@@ -24,6 +24,8 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Daramo
 inara_url: https://inara.cz/elite/starsystem/?search=Daramo
+bio: Daramo is a star system in the Elite Dangerous universe, significant from 3302-06-23
+  to 3302-07-22. Associated with Federal Navy, Independents of Daramo, Federation.
 ---
 
 

@@ -24,6 +24,11 @@ economy: High Tech
 second_economy: Terraforming
 edsm_url: https://www.edsm.net/en/system?search=Ceos
 inara_url: https://inara.cz/elite/starsystem/?search=Ceos
+bio: Ceos is a star system in the Elite Dangerous universe, significant from 3301-10-15
+  to 3304-03-24. Associated with Sirius Corporation, Money Matters. Sirius Corporation
+  announced expansion in Ceos and Sothis with new starports, settlements and megaships.
+  Technical personnel at New Dawn Station in the Ceos system announced that meta-alloys
+  can now be applied twice as efficiently to counter Unknown Artefact-related interference.
 ---
 
 

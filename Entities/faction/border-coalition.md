@@ -12,6 +12,11 @@ related_entities:
 - interstellar-communist-union
 - the-sovereign
 inara_url: https://inara.cz/elite/minorfaction/?search=Border%20Coalition
+bio: Border Coalition is a religious in the Elite Dangerous universe, active from
+  3302-06-02 to 3302-07-07. Frequently linked with GalCop, Social Eleu Progressive
+  Party, Interstellar Communist Union. The Border Coalition has unanimously decided
+  to back the Social Eleu Progressive Party in the Rise to Power campaign after an
+  emergency meeting at Iren's Dock.
 ---
 
 

@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Zlota
 inara_url: https://inara.cz/elite/starsystem/?search=Zlota
+bio: 'Zlota is a system in Elite Dangerous, significant from 3304-12-06 to 3308-05-12.
+  Associated with Children of Tothos, Zlota Federal Holdings, Federal Intelligence
+  Agency. Notable events include: The superpowers offer bounties on Thargoid vessels
+  while Salvation constructs anti-xeno superweapons.; Salvation''s anti-xeno superweapons
+  completely repel Thargoid forces from Didio, Novas, and Sosong.'
 ---
 
 

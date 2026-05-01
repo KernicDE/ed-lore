@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20CW-U%20B3-2
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20CW-U%20B3-2
+bio: 'Pleiades Sector CW-U B3-2 is a system in Elite Dangerous, significant from 3308-06-30
+  to 3308-08-11. Associated with Azimuth Biotech, Alliance Defence Force. Notable
+  events include: Salvation announces the Proteus Wave construction in HIP 22460,
+  declaring it will be the final battlefield to eradicate Thargoids from the galaxy,
+  ...; Vox Galactica reporter Jade Sanderlyn broadcasts from HIP 22460 describing
+  intense fighting, seven capital ships with experimental weaponry, and Si...'
 ---
 
 

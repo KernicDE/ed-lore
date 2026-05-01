@@ -11,6 +11,10 @@ related_entities:
 - achenar
 - inra
 - angeli-imperial-enterprises
+bio: Wegner Market is a star system in the Elite Dangerous universe, significant from
+  3304-04-13 to 3304-04-22. Associated with Rind Gold Electronics Org, INRA. Large
+  quantities of research materials and mined resources were delivered to Wegner Market,
+  allowing the Empire to proceed with constructing a new pilot-training centre.
 ---
 
 <!-- AUTO-GENERATED -->

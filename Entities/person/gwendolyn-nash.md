@@ -6,6 +6,10 @@ first_seen_date: '3305-06-22'
 last_seen_date: '3309-11-23'
 mention_count: 4
 inara_url: https://inara.cz/elite/cmdr-search/?search=Gwendolyn%20Nash
+bio: Gwendolyn Nash is a terrorist in the Elite Dangerous universe, active from 3305-06-22
+  to 3309-11-23. Closely associated with Autonomy, Vox Galactica, NMLA. Torval Mining
+  Ltd's mining campaign concludes successfully, with Nash analysing the Torval family
+  dynamics and Zemina's potential retirement.
 ---
 
 

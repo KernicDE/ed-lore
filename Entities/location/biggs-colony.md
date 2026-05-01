@@ -11,6 +11,11 @@ related_entities:
 - sol
 - mars
 - olympus-village
+bio: 'Biggs Colony is a system in Elite Dangerous, significant from 3304-05-24 to
+  3308-09-28. Notable events include: Weekly summary covering the dismantling of the
+  League of Reparation and Riri McAllister''s arrest, the Church of Eternal Void being
+  declared illegal...; Professor Alba Tesreau announces a media forum to propose reinstating
+  Aegis as a reformed tri-superpower anti-xeno research agency, citing the ACT ...'
 ---
 
 <!-- AUTO-GENERATED -->

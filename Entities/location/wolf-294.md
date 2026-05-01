@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Wolf%20294
 inara_url: https://inara.cz/elite/starsystem/?search=Wolf%20294
+bio: Wolf 294 is a star system in the Elite Dangerous universe, significant from 3302-08-05
+  to 3306-10-01.
 ---
 
 

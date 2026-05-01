@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=78%20Ursae%20Majoris
 inara_url: https://inara.cz/elite/starsystem/?search=78%20Ursae%20Majoris
+bio: '78 Ursae Majoris is a system in Elite Dangerous, significant from 3301-03-17
+  to 3301-05-31. Associated with Alioth Independents. Notable events include: The
+  system of 78 Ursae Majoris, home to over 10 billion people, erupted into civil war
+  hours after news broke that it planned to secede from the Fe...; President Jasmina
+  Halsey announced a tour of Federal frontier systems to build stronger links between
+  Sol and distant colonies.'
 ---
 
 

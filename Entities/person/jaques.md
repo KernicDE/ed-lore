@@ -14,6 +14,11 @@ related_entities: []
 arcs:
 - jaques-wandering
 inara_url: https://inara.cz/elite/cmdr-search/?search=Jaques
+bio: Jaques is a pilot in the Elite Dangerous universe, active from 3301-02-12 to
+  3302-08-10. Jaques Station, the galaxy's only travelling starport, prepares for
+  an ambitious long-distance jump from Gliese 1269 to Beagle Point. The Fuel Rats
+  announce that Jaques Station has received sufficient fuel for its proposed jump
+  to Beagle Point.
 ---
 
 
@@ -41,3 +46,8 @@ Jaques becomes a legendary figure whose wanderings eventually lead him to the Co
 ## Appearances
 - [[3301-02-12-the_legend_returns|The Legend Returns]]
 - [[3301-02-19-the_long_trip_home|The Long Trip Home]]
+
+
+## Biography
+
+*[To be enriched]*

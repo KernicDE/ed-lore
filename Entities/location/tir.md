@@ -24,6 +24,10 @@ economy: Service
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Tir
 inara_url: https://inara.cz/elite/starsystem/?search=Tir
+bio: Tir is a star system in the Elite Dangerous universe, significant from 3304-06-29
+  to 3304-08-29. Associated with Tir Technology Services. Tir Technology Services
+  is running a campaign to deliver commodities to Bolden's Enterprise in the Tir system.
+  Hundreds of independent pilots delivered commodities to Tir Technology Services.
 ---
 
 

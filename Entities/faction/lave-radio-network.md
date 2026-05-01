@@ -12,6 +12,12 @@ related_entities:
 - diso
 - lave-system
 inara_url: https://inara.cz/elite/minorfaction/?search=Lave%20Radio%20Network
+bio: 'Lave Radio Network is a media active in Elite Dangerous lore from 3302-03-03
+  to 3304-06-17. Frequently associated with Lave Station, Lave Jet Family, Lave. Key
+  activities include: Weekly summary covering Aisling Duval''s anti-slavery campaign
+  merging with Universal Liberty to form Unchain, Lori Jameson''s denunciation of
+  the Le...; Weekly summary covering the murder of INRA descendant Luca Hem by the
+  League of Reparation, Aisling Duval hosting Jordan Rochester and Caspian Leop...'
 ---
 
 

@@ -6,6 +6,12 @@ first_seen_date: '3305-01-04'
 last_seen_date: '3310-03-12'
 mention_count: 7
 inara_url: https://inara.cz/elite/cmdr-search/?search=Leon%20Banerjee
+bio: 'Leon Banerjee is a Commander in Elite Dangerous lore, active from 3305-01-04
+  to 3310-03-12. Affiliated with Vox Galactica, Aegis. Notable activities include:
+  The second Distant Worlds expedition prepares to launch, with nearly four thousand
+  Commanders set to travel over 200,000 light years through the ga...; Aegis and Azimuth
+  Biotech launch rival campaigns to collect Titan tissue samples, with Aegis promising
+  research advancements and Azimuth promising ...'
 ---
 
 

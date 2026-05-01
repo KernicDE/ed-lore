@@ -12,6 +12,12 @@ related_entities:
 - vitadyne-labs
 - achenar
 inara_url: https://inara.cz/elite/minorfaction/?search=Cemiess%20Imperial%20Society
+bio: Cemiess Imperial Society is a organization in the Elite Dangerous universe, active
+  from 3304-12-20 to 3304-12-29. Frequently linked with Cemiess, Mackenzie Relay,
+  Nova Imperium. Imperial Senator Simone Leatrix announces a week of revelry at her
+  mountaintop residence on Capitol in the Achenar system. The Cemiess Imperial Society
+  organises deliveries of food and refined jewels to Mackenzie Relay in the Cemiess
+  system to feed guests and decorate the residence.
 ---
 
 

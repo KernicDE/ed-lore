@@ -11,6 +11,10 @@ related_entities:
 - gurragchaa-gateway
 - warkushanui
 - ngobe
+bio: 'Hinz Hub is a system in Elite Dangerous, significant from 3301-11-19 to 3302-04-18.
+  Notable events include: The technological plague continues to affect starports across
+  inhabited space.; Fozard Dock in the HIP 19934 system suspends all services except
+  docking and shipyard access due to Unknown Artefact-related interference, bringing...'
 ---
 
 <!-- AUTO-GENERATED -->

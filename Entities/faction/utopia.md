@@ -12,6 +12,12 @@ related_entities:
 - polevnic
 - vitadyne-labs
 inara_url: https://inara.cz/elite/minorfaction/?search=Utopia
+bio: 'Utopia is a organization active in Elite Dangerous lore from 3301-06-06 to 3310-11-07.
+  Frequently associated with Sirius Corporation, Alliance, Aegis. Key activities include:
+  Reactions to the discovery of new Guardian sites and Ram Tah''s Guardian-inspired
+  technologies have been varied.; Simguru Pranav Antal has addressed the possibility
+  that humanity may lose the conflict against the Thargoids, proposing the Sim-Archive
+  as a means ...'
 ---
 
 

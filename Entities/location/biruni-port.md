@@ -11,6 +11,12 @@ related_entities:
 - league-of-reparation
 - universal-liberty
 - unchain
+bio: 'Biruni Port is a starport in Elite Dangerous, significant from 3304-06-15 to
+  3304-11-01. Associated with Niflhel Corp. Notable events include: Senator Caspian
+  Leopold launches an initiative to construct a rehabilitation centre for civilians
+  affected by heightened military action in the cor...; Weekly summary covering Aisling
+  Duval''s anti-slavery campaign merging with Universal Liberty to form Unchain, Lori
+  Jameson''s denunciation of the Le...'
 ---
 
 <!-- AUTO-GENERATED -->

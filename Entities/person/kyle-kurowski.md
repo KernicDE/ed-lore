@@ -6,6 +6,11 @@ first_seen_date: '3301-11-04'
 last_seen_date: '3301-11-11'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Kyle%20Kurowski
+bio: Kyle Kurowski is a pilot in the Elite Dangerous universe, active from 3301-11-04
+  to 3301-11-11. Closely associated with Cayutorme Syndicate, Imperial Navy, Kumo
+  Crew. Imperial forces defeat the Cayutorme Syndicate mercenary fleet, restoring
+  order to the system; leader Kyle Kurowski is missing and captured vessels will be
+  sold at a discount from Adkins Port.
 ---
 
 

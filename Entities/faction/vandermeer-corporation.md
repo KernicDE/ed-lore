@@ -12,6 +12,11 @@ related_entities:
 - kuma
 - alignak
 inara_url: https://inara.cz/elite/minorfaction/?search=Vandermeer%20Corporation
+bio: 'Vandermeer Corporation is a corporation active in Elite Dangerous lore from
+  3304-12-05 to 3307-08-24. Frequently associated with Neomedical Industries, Interstellar
+  Health Organisation, Vitadyne Labs. Key activities include: The IAA confirms mass
+  crop spoilage is caused by a new advanced blight of unknown origin.; The blight
+  pathogen mutates into a self-sufficient form capable of surviving without the fertiliser.'
 ---
 
 

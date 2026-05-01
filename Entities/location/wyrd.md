@@ -24,6 +24,9 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Wyrd
 inara_url: https://inara.cz/elite/starsystem/?search=Wyrd
+bio: Wyrd is a star system in the Elite Dangerous universe, significant from 3301-08-25
+  to 3303-10-13. Associated with Aegis, Federal Security Service. Federal Times reporter
+  Elaine Boyd was found dead in a low-rent hotel in Wyrd after an anonymous tip-off.
 ---
 
 

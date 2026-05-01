@@ -11,6 +11,17 @@ related_entities:
 - defence-party-of-nespeleve
 - maia-a-3-a
 - joint-security-taskforce
+coords:
+  x: 68
+  y: -141.28125
+  z: -105.25
+population: 19325787
+edsm_url: https://www.edsm.net/en/system?search=Nespeleve
+bio: Nespeleve system is a star system in the Elite Dangerous universe, significant
+  from 3302-02-25 to 3302-05-19. Associated with Defence Party of Nespeleve. Rose
+  Trebek, a former soldier, establishes the Joint Security Taskforce to clean up the
+  Orulas system from the ruthless Blue Hand Gang. Pilots are needed to intercept convoys
+  carrying stolen escape pods and sweep the system of criminal vessels.
 ---
 
 <!-- AUTO-GENERATED -->

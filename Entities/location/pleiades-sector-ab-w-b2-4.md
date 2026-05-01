@@ -24,6 +24,12 @@ economy: Military
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20AB-W%20B2-4
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20AB-W%20B2-4
+bio: 'Pleiades Sector AB-W B2-4 is a system in Elite Dangerous, significant from 3302-08-31
+  to 3303-10-14. Associated with Federation, Empire. Notable events include: Independent
+  pilots Noctrach and Ihazevich discovered mysterious wreckage on planet 9a in the
+  Pleiades Sector AB-W B2-4 system after a galaxy-wide h...; The Empire deployed an
+  Imperial deputation including a Majestic-class Interdictor to the Pleiades Sector
+  AB-W B2-4 system over the non-human shipwr...'
 ---
 
 

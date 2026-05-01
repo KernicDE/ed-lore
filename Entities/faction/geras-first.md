@@ -12,6 +12,11 @@ related_entities:
 - federal-security-service
 - sirius-corporation
 inara_url: https://inara.cz/elite/minorfaction/?search=Geras%20First
+bio: Geras First is a organization in the Elite Dangerous universe, active from 3304-11-01
+  to 3304-11-08. Frequently linked with Geras, Ndozins State Inc, Federal Security
+  Service. The conflict between Geras First and Ndozins State Inc in the Geras system
+  concludes. Hostilities between Geras First and Ndozins State Inc in the Geras system
+  escalate into all-out war after months of reciprocal attacks.
 ---
 
 

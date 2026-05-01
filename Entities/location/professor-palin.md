@@ -11,6 +11,13 @@ related_entities:
 - ram-tah
 - clement-orbital
 - federal-navy
+bio: Professor Palin is a star system in the Elite Dangerous universe, significant
+  from 3309-04-27 to 3309-06-01. Associated with Aegis. Aegis requests materials to
+  mass-produce the Thargoid pulse neutraliser, a module enabling ships to penetrate
+  Maelstrom energy waves, based on Guardian-Thargoid research by Ram Tah and Palin.
+  Professor Tesreau delivers a formal public address on Aegis's transformation, formally
+  designating the motherships as 'Titans' and announcing the pulse wave xeno scanner
+  project.
 ---
 
 <!-- AUTO-GENERATED -->

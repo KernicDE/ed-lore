@@ -12,6 +12,11 @@ related_entities:
 - t-tauri
 - hind-mine
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Attorney%27s%20Office
+bio: Federal Attorney's Office is a organization in the Elite Dangerous universe,
+  active from 3306-09-12 to 3308-09-16. Frequently linked with Federal Navy. The Federal
+  Attorney's Office concludes that Starship One was destroyed by deliberate sabotage
+  in 3301. Chief Technician Rory Webster of the Federal Navy Engineering Corps is
+  arrested for sabotaging Starship One.
 ---
 
 

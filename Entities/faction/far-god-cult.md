@@ -12,6 +12,12 @@ related_entities:
 - alliance
 - nmla
 inara_url: https://inara.cz/elite/minorfaction/?search=Far%20God%20cult
+bio: 'Far God cult is a religious active in Elite Dangerous lore from 3304-07-12 to
+  3308-09-23. Frequently associated with Federal Intelligence Agency. Key activities
+  include: The Church of Eternal Void, which worships the Guardians, declares war
+  on the Far God cult.; Weekly summary covering Admiral Varma''s arrest, the Church
+  of Eternal Void declaring war on the Far God cult, Aisling Duval''s wedding date
+  announce...'
 ---
 
 

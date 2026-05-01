@@ -11,6 +11,11 @@ related_entities:
 - imperial-internal-security-service
 - imperial-navy
 - sirius-corporation
+bio: Polyakov Orbital is a starport in the Elite Dangerous universe, significant from
+  3304-11-15 to 3304-11-22. Associated with Olelbis Holdings, Federal Times, Cordova
+  Group. Olelbis Holdings announces an elaborate social function at Polyakov Orbital
+  in the Olelbis system. Olelbis Holdings announces the successful conclusion of its
+  commodity appeal for a social function at Polyakov Orbital.
 ---
 
 <!-- AUTO-GENERATED -->

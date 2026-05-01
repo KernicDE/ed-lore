@@ -24,6 +24,12 @@ economy: Military
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Facece
 inara_url: https://inara.cz/elite/starsystem/?search=Facece
+bio: 'Facece is a system in Elite Dangerous, significant from 3301-03-20 to 3302-07-02.
+  Associated with Allied Facece Order. Notable events include: Arissa Lavigny-Duval
+  directed attacks on the Nehet Silver Ring under Patrons of Law guidance, bringing
+  crime to manageable levels.; Following her address from the Imperial Palace, Princess
+  Arissa Lavigny-Duval revealed her speech was directed at the unknown assailant who
+  attacke...'
 ---
 
 

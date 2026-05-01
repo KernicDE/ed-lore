@@ -6,6 +6,8 @@ first_seen_date: '3309-01-31'
 last_seen_date: '3309-09-07'
 mention_count: 5
 inara_url: https://inara.cz/elite/cmdr-search/?search=Skylar%20Anderson
+bio: Skylar Anderson is a emperor in the Elite Dangerous universe, active from 3309-01-31
+  to 3309-09-07. Closely associated with Aegis.
 ---
 
 

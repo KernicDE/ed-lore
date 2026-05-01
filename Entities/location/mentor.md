@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Terraforming
 edsm_url: https://www.edsm.net/en/system?search=Mentor
 inara_url: https://inara.cz/elite/starsystem/?search=Mentor
+bio: Mentor is a star system in the Elite Dangerous universe, significant from 3301-12-23
+  to 3304-03-31. Associated with Aegis. Admiral Aden Tanner announced the Acropolis
+  has been dispatched to Lunguni while the Vanguard operates in Mentor, but both will
+  periodically relocate for strategic effectiveness. Alfred Jeffress's third treasure
+  hunt ends with two winners, Commanders MAX RED and Sync Mercy, who solved riddles
+  leading through multiple systems to Lasswitz Terminal in Mentor and finally Prism.
 ---
 
 

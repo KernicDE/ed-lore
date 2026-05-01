@@ -10,6 +10,12 @@ related_entities:
 - wreaken-construction
 - imperial-senate
 inara_url: https://inara.cz/elite/minorfaction/?search=Torval-Mastopolos%20Mining
+bio: 'Torval-Mastopolos Mining is a organization active in Elite Dangerous lore from
+  3307-08-10 to 3307-10-01. Frequently associated with Mastopolos Mining, Wreaken
+  Construction. Key activities include: Senator Zemina Torval establishes Torval-Mastopolos
+  Mining, an autonomous offshoot of Mastopolos Mining, signaling a potential rift
+  with CEO Gabrie...; Torval-Mastopolos Mining and Wreaken Construction both establish
+  headquarters in the LTT 198 system, escalating their long-standing corporate rivalry.'
 ---
 
 

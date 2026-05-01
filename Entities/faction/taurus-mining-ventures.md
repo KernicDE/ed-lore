@@ -12,6 +12,12 @@ related_entities:
 - t-tauri
 - trapezium-sector-yu-x-c1-2
 inara_url: https://inara.cz/elite/minorfaction/?search=Taurus%20Mining%20Ventures
+bio: 'Taurus Mining Ventures is a organization active in Elite Dangerous lore from
+  3307-05-07 to 3308-06-29. Frequently associated with Aegis, Salvation, Azimuth Biochemicals.
+  Key activities include: The mysterious figure ''Salvation'' sends a message to pilots
+  who discovered the Hesperus, authorising Taurus Mining Ventures to pay for logs
+  and pro...; Pilots discover the Proteus, an Anaconda from the Hesperus, at a historical
+  battlefield on Trapezium Sector YU-X c1-2 1a.'
 ---
 
 

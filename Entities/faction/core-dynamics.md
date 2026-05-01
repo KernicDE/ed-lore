@@ -12,6 +12,11 @@ related_entities:
 - sol
 - federal-times
 inara_url: https://inara.cz/elite/minorfaction/?search=Core%20Dynamics
+bio: 'Core Dynamics is a organization active in Elite Dangerous lore from 3301-02-14
+  to 3312-03-12. Frequently associated with Federal Navy, Alliance, Jupiter. Key activities
+  include: Core Dynamics has announced a construction initiative to accelerate production
+  and replace ships lost to Thargoid attacks.; Core Dynamics has announced the successful
+  conclusion of its construction initiative.'
 ---
 
 

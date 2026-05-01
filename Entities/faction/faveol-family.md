@@ -12,6 +12,12 @@ related_entities:
 - blossom-family
 - federal-navy
 inara_url: https://inara.cz/elite/minorfaction/?search=Faveol%20family
+bio: Faveol family is a organization in the Elite Dangerous universe, active from
+  3301-04-27 to 3301-05-25. Frequently linked with Volungu, Liaedin, Blossom family.
+  She stated that recent destabilisation in Liaedin was a deliberate act by unruly
+  Faveol family members attempting to expand into Volungu. Federal pilots successfully
+  repelled an attack on Volungu by the Patron's Principles, a group of young Faveol
+  family members from Liaedin seeking glory.
 ---
 
 

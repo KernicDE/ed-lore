@@ -11,6 +11,8 @@ related_entities:
 - league-of-mandu
 - pilots-federation
 - imperial-herald
+bio: Dyson City is a star system in the Elite Dangerous universe, significant from
+  3307-05-06 to 3307-12-09. Associated with Nova Imperium, League of Mandu.
 ---
 
 <!-- AUTO-GENERATED -->

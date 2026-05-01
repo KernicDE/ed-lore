@@ -24,6 +24,12 @@ economy: Refinery
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Col%20285%20Sector%20IX-T%20d3-43
 inara_url: https://inara.cz/elite/starsystem/?search=Col%20285%20Sector%20IX-T%20d3-43
+bio: Col 285 Sector IX-T d3-43 is a star system in the Elite Dangerous universe, significant
+  from 3302-03-10 to 3302-06-03. Associated with Canonn Interstellar Research Group.
+  The Canonn Interstellar Research Group launches a campaign to construct a state-of-the-art
+  research outpost in the Col 285 Sector IX-T d3-43 system for Unknown Artefact research.
+  The Canonn Interstellar Research Group announces the successful conclusion of its
+  campaign to establish a research outpost in the Col 285 Sector IX-T d3-43 system.
 ---
 
 

@@ -12,6 +12,12 @@ related_entities:
 - mars
 - federal-security-service
 inara_url: https://inara.cz/elite/minorfaction/?search=Meene%20Defence%20Force
+bio: 'Meene Defence Force is a organization active in Elite Dangerous lore from 3304-10-19
+  to 3304-11-30. Frequently associated with Meene, Phoenix Base, Ram Tah. Key activities
+  include: Weekly summary covering Gibson Kincaid''s re-election as Alliance President,
+  the foiled raid on Ram Tah''s Phoenix Base, the FSS targeting The Mars T...; Weekly
+  summary covering the mercenary incursion against Ram Tah''s Phoenix Base in Meene,
+  the FSS suspension of Lieutenant Inspector Ramesh Thorne, ...'
 ---
 
 

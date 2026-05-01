@@ -11,6 +11,12 @@ related_entities:
 - munshin-manatee-meat
 - pilots-federation
 - imperial-navy
+bio: 'Ocrinox''s Orbiter is a system in Elite Dangerous, significant from 3301-09-16
+  to 3304-09-22. Associated with Libertas Cooperative, Munshin Manatee Meat. Notable
+  events include: Weekly summary covering Vanya Driscoll''s analysis of Alliance presidential
+  candidates, Lloyd Hardacre''s arrest after his robot exposed corporate fr...; Officials
+  at Ocrinox''s Orbiter announced plans to build a state-of-the-art resettlement facility
+  for Pegasi Pirate War refugees.'
 ---
 
 <!-- AUTO-GENERATED -->

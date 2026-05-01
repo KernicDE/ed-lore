@@ -22,6 +22,11 @@ economy: Industrial
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Gooheimar
 inara_url: https://inara.cz/elite/starsystem/?search=Gooheimar
+bio: Gooheimar is a star system in the Elite Dangerous universe, significant from
+  3302-08-04 to 3302-08-11. Associated with Federation, Workers of Gooheimar Alliance.
+  Pilots are requested to deliver autofabricators, tantalum, and superconductors to
+  Brady Horizons in the Gooheimar system. Hundreds of pilots delivered materials to
+  Brady Horizons in the Gooheimar system, allowing work on the first vessel to begin.
 ---
 
 

@@ -11,6 +11,12 @@ related_entities:
 - explorers-association
 - universal-cartographics
 - pleiades-nebula
+bio: Neville Horizons is a star system in the Elite Dangerous universe, significant
+  from 3301-10-22 to 3303-08-18. Associated with Universal Cartographics, Brewer Corporation,
+  Explorers' Association. The Kaushpoos Pro-Alliance Union will oversee the campaign
+  at Neville Horizons in the Kaushpoos system. The Alliance announces the successful
+  conclusion of its research initiative, with huge quantities of resources delivered
+  to Neville Horizons.
 ---
 
 <!-- AUTO-GENERATED -->

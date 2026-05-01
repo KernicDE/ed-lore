@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Azaladshu
 inara_url: https://inara.cz/elite/starsystem/?search=Azaladshu
+bio: Azaladshu is a star system in the Elite Dangerous universe, significant from
+  3307-06-29 to 3307-07-21. Associated with Coalition of Uteran, Lp 726-6 Free, Azaladshu
+  Free. The Azaladshu Free faction secedes from the Federation, declaring its four
+  systems independent in protest against surveillance laws. Azaladshu Free defeats
+  Neche Inc and retains independence from the Federation.
 ---
 
 

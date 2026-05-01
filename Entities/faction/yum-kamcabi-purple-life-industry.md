@@ -12,6 +12,12 @@ related_entities:
 - revolutionary-jotunheim-resistance
 - jotunheim
 inara_url: https://inara.cz/elite/minorfaction/?search=Yum%20Kamcabi%20Purple%20Life%20Industry
+bio: 'Yum Kamcabi Purple Life Industry is a organization active in Elite Dangerous
+  lore from 3303-02-02 to 3303-06-09. Frequently associated with Dirichlet Orbital,
+  Yum Kamcabi, Jotunheim. Key activities include: Former Federal President Jasmina
+  Halsey announces plans to build a rehabilitation centre for victims of the Federal-Imperial
+  conflict.; Former Federal President Jasmina Halsey''s campaign to establish a rehabilitation
+  centre for war victims concludes successfully.'
 ---
 
 

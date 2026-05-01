@@ -12,6 +12,12 @@ related_entities:
 - obsidian-orbital
 - varati-system
 inara_url: https://inara.cz/elite/minorfaction/?search=Canonn%20Interstellar%20Research%20Group
+bio: 'Canonn Interstellar Research Group is a research active in Elite Dangerous lore
+  from 3301-09-27 to 3307-11-09. Frequently associated with Merope, Varati. Key activities
+  include: The Canonn Interstellar Research Group decoded part of the transmissions
+  from Unknown Artefacts (AEOs), discovering they contain schematic diagrams...; Dr
+  Arcanonn of the Canonn Interstellar Research Group confirmed the discovery of alien
+  ''barnacle'' structures on at least two planets in the Pleiade...'
 ---
 
 

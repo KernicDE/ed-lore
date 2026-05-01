@@ -11,6 +11,11 @@ related_entities:
 - union-of-bast-liberals
 - newton-dock-medical
 - bd-02-4304
+bio: 'Hart Station is a starport in Elite Dangerous, significant from 3301-07-23 to
+  3302-08-11. Associated with Union of Bast Liberals, Newton Dock Medical. Notable
+  events include: Medical personnel at Hart Station praised 765 independent pilots
+  who delivered medicines to the Bast system.; The Cerberus Plague has reached Hart
+  Station in Bast, Hoard Orbital in Una, and Cantor Terminal in Santjalan.'
 ---
 
 <!-- AUTO-GENERATED -->

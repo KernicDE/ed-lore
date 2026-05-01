@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Liaedin
 inara_url: https://inara.cz/elite/starsystem/?search=Liaedin
+bio: 'Liaedin is a system in Elite Dangerous, significant from 3301-02-17 to 3301-05-25.
+  Associated with Faveol family. Notable events include: The Volungu Blight has spread
+  unchecked despite containment efforts in Liaedin, LHS 3505, and Furbaide, claiming
+  hundreds of lives since it first a...; Medical staff aboard Effinger Port achieved
+  a breakthrough in treating the Volungu Blight after doctors supplied by Aisling
+  Duval identified the pa...'
 ---
 
 

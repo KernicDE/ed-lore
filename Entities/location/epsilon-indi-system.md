@@ -11,6 +11,20 @@ related_entities:
 - mansfield-orbiter
 - buckyball-racing-club
 - schneider-relay
+coords:
+  x: 3.125
+  y: -8.875
+  z: 7.125
+population: 4000005459
+allegiance: Independent
+government: Cooperative
+edsm_url: https://www.edsm.net/en/system?search=Epsilon%20Indi
+bio: Epsilon Indi system is a star system in the Elite Dangerous universe, significant
+  from 3302-03-30 to 3302-04-21. Associated with Pilots Federation, United Epsilon
+  Indi Flag, Buckyball Racing Club. The United Epsilon Indi Flag recruits pilots for
+  'Bribes 4 Bourbon', a campaign to decriminalise Indi Bourbon by smuggling rare liquors
+  into Mansfield Orbiter. The event will run from Schneider Relay in the Epsilon Indi
+  system.
 ---
 
 <!-- AUTO-GENERATED -->

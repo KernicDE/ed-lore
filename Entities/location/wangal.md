@@ -23,6 +23,11 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Wangal
 inara_url: https://inara.cz/elite/starsystem/?search=Wangal
+bio: 'Wangal is a system in Elite Dangerous, significant from 3303-12-15 to 3304-02-02.
+  Associated with Angeli Imperial Enterprises. Notable events include: Angeli Imperial
+  Enterprises has announced plans to build a Dionysus-class Agricultural Vessel to
+  support resource-extraction operations in the Plei...; Angeli Imperial Enterprises
+  has announced the successful conclusion of its commodity appeal.'
 ---
 
 

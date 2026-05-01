@@ -24,6 +24,8 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Kalana
 inara_url: https://inara.cz/elite/starsystem/?search=Kalana
+bio: Kalana is a star system in the Elite Dangerous universe, significant from 3302-09-29
+  to 3302-10-04. Associated with Kalana Independents.
 ---
 
 

@@ -24,6 +24,8 @@ economy: Extraction
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Almar
 inara_url: https://inara.cz/elite/starsystem/?search=Almar
+bio: Almar is a star system in the Elite Dangerous universe, significant from 3302-01-20
+  to 3302-05-20.
 ---
 
 

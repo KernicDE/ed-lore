@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Arawere
 inara_url: https://inara.cz/elite/starsystem/?search=Arawere
+bio: 'Arawere is a system in Elite Dangerous, significant from 3301-06-24 to 3302-05-20.
+  Notable events include: The technological plague continues to affect starports across
+  inhabited space.; Several starports previously closed due to Unknown Artefact-related
+  interference have been restored through the application of meta-alloys.'
 ---
 
 

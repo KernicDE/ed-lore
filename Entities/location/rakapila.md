@@ -22,6 +22,11 @@ economy: Industrial
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Rakapila
 inara_url: https://inara.cz/elite/starsystem/?search=Rakapila
+bio: Rakapila is a star system in the Elite Dangerous universe, significant from 3303-06-30
+  to 3305-02-07. Associated with People's Rakapila Progressive Party, Supratech. The
+  People's Rakapila Progressive Party has issued a request for domestic appliances,
+  consumer technology and clothing to stimulate the Rakapila system's economy following
+  a population spike.
 ---
 
 

@@ -10,6 +10,14 @@ related_entities:
 - federal-liberal-party
 - oduduro
 - akkadia
+coords:
+  x: -14.1875
+  y: -33.28125
+  z: -103.46875
+population: 776359
+allegiance: Independent
+government: Democracy
+edsm_url: https://www.edsm.net/en/system?search=Tascheter
 ---
 
 <!-- AUTO-GENERATED -->

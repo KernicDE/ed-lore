@@ -24,6 +24,13 @@ economy: Refinery
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Volungu
 inara_url: https://inara.cz/elite/starsystem/?search=Volungu
+bio: Volungu is a star system in the Elite Dangerous universe, significant from 3301-02-26
+  to 3301-05-25. Associated with Faveol family, Blossom family, Patron's Principles.
+  Medical staff aboard Effinger Port achieved a breakthrough in treating the Volungu
+  Blight after doctors supplied by Aisling Duval identified the pathogen. While too
+  late for the thousands who died in Volungu, Furbaide, Liaedin, and LHS 3505, the
+  cure brings relief to hundreds of thousands currently awaiting treatment aboard
+  local stations.
 ---
 
 

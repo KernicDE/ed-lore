@@ -24,6 +24,11 @@ economy: Refinery
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Vadimo
 inara_url: https://inara.cz/elite/starsystem/?search=Vadimo
+bio: Vadimo is a star system in the Elite Dangerous universe, significant from 3304-04-27
+  to 3304-05-04. Associated with Vadimo Patrons of Law, Imperial Internal Security
+  Service, INRA. The Vadimo Patrons of Law announced an elaborate soirée in Vadimo.
+  The Vadimo Patrons of Law, an Imperial organisation based in Vadimo, has announced
+  plans to host an elaborate soirée.
 ---
 
 

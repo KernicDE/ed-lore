@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Altair
 inara_url: https://inara.cz/elite/starsystem/?search=Altair
+bio: 'Altair is a system in Elite Dangerous, significant from 3301-02-14 to 3308-05-19.
+  Associated with Core Dynamics. Notable events include: Weekly summary covering the
+  dismantling of the League of Reparation and Riri McAllister''s arrest, the Church
+  of Eternal Void being declared illegal...; Fresh outbreaks of the Cerberus Plague
+  are appearing in new systems while medical teams work to deliver antidotes elsewhere.'
 ---
 
 

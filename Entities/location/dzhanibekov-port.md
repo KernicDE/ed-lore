@@ -11,6 +11,12 @@ related_entities:
 - aegis
 - socho-gold-raiders
 - pilots-federation
+bio: Dzhanibekov Port is a starport in the Elite Dangerous universe, significant from
+  3304-05-25 to 3304-06-03. Associated with Autocracy of T’iensei. Authorities in
+  the T’iensei system have reported a sharp increase in criminals attacking pilots
+  and disrupting trade. The Autocracy of T’iensei has placed a kill order on all ships
+  on its wanted list and promised rewards to pilots who deliver bounty vouchers to
+  Dzhanibekov Port.
 ---
 
 <!-- AUTO-GENERATED -->

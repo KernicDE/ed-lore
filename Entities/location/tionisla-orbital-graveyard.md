@@ -11,6 +11,11 @@ related_entities:
 - alliance
 - empire
 - federation
+bio: Tionisla Orbital Graveyard is a starport in the Elite Dangerous universe, significant
+  from 3302-08-05 to 3302-12-02. Associated with Tionisla government, Federation.
+  A new vessel was interred at the Tionisla Orbital Graveyard for the first time in
+  over a hundred years, briefly transmitting the repeating message "OTSEAFOTSEAF"
+  before a power failure.
 ---
 
 <!-- AUTO-GENERATED -->

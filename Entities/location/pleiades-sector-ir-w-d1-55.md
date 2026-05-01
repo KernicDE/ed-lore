@@ -11,6 +11,12 @@ related_entities:
 - the-oracle
 - oracle
 - socho
+bio: 'Pleiades Sector IR-W d1-55 is a system in Elite Dangerous, significant from
+  3303-07-15 to 3304-08-19. Associated with Aegis. Notable events include: Aegis recruits
+  engineers Liz Ryder and Ishmael Palin to develop new defensive and offensive technologies
+  against the Thargoids.; Aegis confirms it will widen its remit to include defence
+  as well as research, following the recent Thargoid attack in the Pleiades Sector
+  IR-W d1-...'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,10 @@ related_entities:
 - gurragchaa-gateway
 - warkushanui
 - hinz-hub
+bio: Tsunenaga Dock is a starport in the Elite Dangerous universe, significant from
+  3301-11-19 to 3302-02-24. Technical issues at Gabriel Enterprise in the Harma system
+  have worsened, leading to suspension of all services except docking and shipyard
+  access.
 ---
 
 <!-- AUTO-GENERATED -->

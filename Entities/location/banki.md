@@ -24,6 +24,11 @@ economy: Tourism
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Banki
 inara_url: https://inara.cz/elite/starsystem/?search=Banki
+bio: 'Banki is a system in Elite Dangerous, significant from 3301-02-13 to 3301-03-09.
+  Associated with Federal Navy. Notable events include: President Halsey ordered an
+  all-out assault on the Nijotec region, accusing the Nijotec Syndicate of preying
+  on the weak and declaring that crimina...; Admiral Vincent expressed pleasure over
+  Federal Forces'' progress reclaiming Banki and BD+03 2338.'
 ---
 
 

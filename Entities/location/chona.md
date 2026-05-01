@@ -24,6 +24,11 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Chona
 inara_url: https://inara.cz/elite/starsystem/?search=Chona
+bio: Chona is a star system in the Elite Dangerous universe, significant from 3301-07-05
+  to 3301-08-03. Associated with Aisling's Angels, Aisling's 13th Legion, Imperial
+  Navy. The Thirteenth Legion established its base on Chona. The treaty, originally
+  signed on July 17th 3301 to focus on the Imperial offensive against Archon Delaine,
+  was dissolved in a press conference aboard Smoot Station in Chona.
 ---
 
 

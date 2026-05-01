@@ -11,6 +11,10 @@ related_entities:
 - sol
 - foresters-choice
 - alliance
+bio: 'Golconda is a system in Elite Dangerous, significant from 3308-05-13 to 3308-12-30.
+  Notable events include: Sima Kalhana continues her review of the most significant
+  historical events that occurred during the past year.; The Artificers Clan dredger
+  enters the Upaniklis system and begins examining the abandoned generation ship Golconda.'
 ---
 
 <!-- AUTO-GENERATED -->

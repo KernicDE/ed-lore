@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Lugh
 inara_url: https://inara.cz/elite/starsystem/?search=Lugh
+bio: 'Lugh is a system in Elite Dangerous, significant from 3301-02-22 to 3301-03-26.
+  Associated with Crimson State Group, Federal Navy. Notable events include: President
+  Halsey ordered Federal pilots to attack and destroy an unarmed refugee convoy fleeing
+  Lugh 6, killing an estimated 9,322 innocent Federal...; Chaos erupted in Alioth
+  when Éamonn Uí Laoghire addressed crowds after his second failed attempt to gain
+  an Alliance audience.'
 ---
 
 

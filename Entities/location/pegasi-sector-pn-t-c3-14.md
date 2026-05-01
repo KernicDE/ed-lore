@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Pegasi%20Sector%20PN-T%20c3-14
 inara_url: https://inara.cz/elite/starsystem/?search=Pegasi%20Sector%20PN-T%20c3-14
+bio: 'Pegasi Sector PN-T c3-14 is a system in Elite Dangerous, significant from 3307-04-15
+  to 3308-05-24. Associated with Kumo Crew, Pilots Federation. Notable events include:
+  The Kumo Crew syndicate launches a campaign to construct up to five new Orbis starports
+  in uninhabited systems near key trading regions.; The Kumo Crew''s starport construction
+  campaign concludes successfully.'
 ---
 
 

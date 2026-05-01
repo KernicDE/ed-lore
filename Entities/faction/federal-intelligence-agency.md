@@ -12,6 +12,12 @@ related_entities:
 - alliance
 - imperial-internal-security-service
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Intelligence%20Agency
+bio: 'Federal Intelligence Agency is a organization active in Elite Dangerous lore
+  from 3301-07-19 to 3309-03-31. Frequently associated with Far God cult, Federal
+  Times, League of Reparation. Key activities include: Weekly summary covering the
+  foiled assassination attempt on Aisling Duval, Riri McAllister being shot during
+  her trial, the FIA investigation into ...; The FIA apprehends further Far God cult
+  members to determine if they communicate with Thargoids.'
 ---
 
 

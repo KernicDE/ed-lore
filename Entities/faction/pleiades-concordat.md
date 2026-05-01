@@ -12,6 +12,11 @@ related_entities:
 - pilots-federation
 - moore-hub
 inara_url: https://inara.cz/elite/minorfaction/?search=Pleiades%20Concordat
+bio: Pleiades Concordat is a organization in the Elite Dangerous universe, active
+  from 3307-07-19 to 3307-11-16. Frequently linked with Order of the Far God, Agassiz
+  Settlement, The Panjabell. The Pleiades Concordat requests deliveries to support
+  the Far God cult in outfitting missionary megaships. The Pleiades Concordat's initiative
+  concludes successfully.
 ---
 
 

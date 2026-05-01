@@ -11,6 +11,10 @@ related_entities:
 - socho-gold-raiders
 - league-of-reparation
 - pleiades-sector-ir-w-d1-55
+bio: 'Dantec Enterprise is a system in Elite Dangerous, significant from 3304-03-16
+  to 3304-08-31. Associated with Aegis. Notable events include: Following Thargoid
+  incursions into the core systems, Aegis Core has launched a counter-Thargoid operation
+  in Socho.; The operation to clear Socho of Thargoids has concluded successfully.'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -24,6 +24,9 @@ economy: Colony
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Irandan
 inara_url: https://inara.cz/elite/starsystem/?search=Irandan
+bio: Irandan is a star system in the Elite Dangerous universe, significant from 3304-03-30
+  to 3304-03-31. Associated with Aegis. The Vanguard and Acropolis will remain on
+  standby in HIP 21559 and Irandan until needed.
 ---
 
 

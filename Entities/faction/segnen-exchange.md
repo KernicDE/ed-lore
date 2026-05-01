@@ -10,6 +10,13 @@ related_entities:
 - synuefe-en-h-d11-96
 - zende
 inara_url: https://inara.cz/elite/minorfaction/?search=Segnen%20Exchange
+bio: Segnen Exchange is a organization in the Elite Dangerous universe, active from
+  3305-05-09 to 3305-05-30. Frequently linked with Zende Partners, Synuefe EN-H d11-96,
+  Zende. Zende Partners defeats Segnen Exchange's expansion attempt in Synuefe EN-H
+  d11-96, securing control of both outposts and beginning manufacture of the Advanced
+  Multi-cannon at The Prospect. Segnen Exchange announces plans to build Indigo Dock
+  in Synuefe EN-H d11-96, positioning itself as a rival to Zende Partners in the burgeoning
+  Guardian technology research market.
 ---
 
 

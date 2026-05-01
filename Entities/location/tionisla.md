@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Tionisla
 inara_url: https://inara.cz/elite/starsystem/?search=Tionisla
+bio: 'Tionisla is a system in Elite Dangerous, significant from 3302-08-05 to 3310-08-29.
+  Associated with Alliance, Sirius Corporation. Notable events include: The Alliance
+  has entered a period of political campaigning prior to the election of a new prime
+  minister.; Nakato Kaine''s Tionisla delivery campaign fails to reach its target,
+  with Yong-Rui blaming Assembly obstruction and Kaine reaffirming Alliance self...'
 ---
 
 

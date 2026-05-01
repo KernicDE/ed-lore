@@ -12,6 +12,12 @@ related_entities:
 - alioth
 - empire
 inara_url: https://inara.cz/elite/minorfaction/?search=Alliance
+bio: 'Alliance is a organization active in Elite Dangerous lore from 3301-02-19 to
+  3312-02-20. Frequently associated with Sirius Corporation, Aegis, Federation. Key
+  activities include: Members of Congress gathered on Mars for Shadow President Zachary
+  Hudson''s Vote of No Confidence against the Liberal Administration.; Alliance Prime
+  Minister Edmund Mahon condemns the Empire and Federation''s military posturing over
+  barnacles and meta-alloys, urging both superpower...'
 ---
 
 

@@ -10,6 +10,9 @@ related_entities:
 - children-of-tothos
 - federal-times
 - chun-tstar
+bio: Archambault Terminal is a star system in the Elite Dangerous universe, significant
+  from 3305-03-14 to 3305-04-11. Associated with Children of Tothos, Federal Intelligence
+  Agency, Federal Times.
 ---
 
 <!-- AUTO-GENERATED -->

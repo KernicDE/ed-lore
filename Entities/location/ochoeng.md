@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Ochoeng
 inara_url: https://inara.cz/elite/starsystem/?search=Ochoeng
+bio: Ochoeng is a star system in the Elite Dangerous universe, significant from 3301-07-23
+  to 3301-08-06. Fresh Cerberus Plague cases caused mass panic at Shepherd Hub in
+  Bastes, Yegorov Station in Maheou Ti, and Roddenberry Gateway in Ochoeng. Despite
+  a cure being found, the Cerberus Plague continues to affect starports in Bastes,
+  Maheou Ti, Ochoeng, Una, and Santjalan.
 ---
 
 

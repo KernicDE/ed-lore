@@ -11,6 +11,12 @@ related_entities:
 - future-of-segovan
 - empire
 - taskforce-athena
+bio: 'Ramsbottom Hub is a system in Elite Dangerous, significant from 3302-07-07 to
+  3302-07-14. Associated with Federation, Future of Segovan, Empire. Notable events
+  include: The Federal expansion campaign has been halted after Ramsbottom Hub in
+  the Segovan system entered lockdown, leaving thousands of pilots unable to d...;
+  A coalition of Empire-aligned commanders known as Taskforce Athena has declared
+  the Segovan system a no-fly zone and placed Ramsbottom Hub in lockd...'
 ---
 
 <!-- AUTO-GENERATED -->

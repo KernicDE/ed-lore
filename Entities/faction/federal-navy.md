@@ -12,6 +12,12 @@ related_entities:
 - aegis
 - hip-22460
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Navy
+bio: 'Federal Navy is a navy active in Elite Dangerous lore from 3301-02-13 to 3312-02-20.
+  Frequently associated with Imperial Navy, Alliance, Sol. Key activities include:
+  President Halsey ordered Federal pilots to attack and destroy an unarmed refugee
+  convoy fleeing Lugh 6, killing an estimated 9,322 innocent Federal...; Secretary
+  of State Felicia Winters assumed the role of Acting President after contact was
+  lost with Spaceflight One carrying President Halsey and V...'
 ---
 
 

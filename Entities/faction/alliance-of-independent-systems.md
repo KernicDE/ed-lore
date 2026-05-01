@@ -12,6 +12,12 @@ related_entities:
 - khona
 - dohkwithi
 inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20of%20Independent%20Systems
+bio: Alliance of Independent Systems is a organization in the Elite Dangerous universe,
+  active from 3301-03-03 to 3301-04-26. Frequently linked with Milelbis, Big G Corporation,
+  Hip 54692. Prime Minister Edmund Mahon warned the Crimson State Group that the Alliance
+  would not intervene in Federal governance of Lugh, stating no laws were broken and
+  no rights abused. He declared that until Lugh fully secedes from the Federation,
+  any application to join the Alliance would be automatically rejected.
 ---
 
 

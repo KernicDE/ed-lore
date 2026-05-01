@@ -24,6 +24,11 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Beta%20Hydri
 inara_url: https://inara.cz/elite/starsystem/?search=Beta%20Hydri
+bio: 'Beta Hydri is a system in Elite Dangerous, significant from 3301-07-19 to 3308-05-19.
+  Associated with Federal Times, MacArthur Mining Ltd. Notable events include: Historian
+  Sima Kalhana covers the first Federation-Achenar war (2323-2325).; Political commentators
+  review the deteriorating Federal-Imperial relationship, tracing it from the Beta
+  Hydri battlecruiser construction in March t...'
 ---
 
 

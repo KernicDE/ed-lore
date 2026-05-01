@@ -12,6 +12,12 @@ related_entities:
 - obsidian-orbital
 - merope
 inara_url: https://inara.cz/elite/minorfaction/?search=Pleiades%20Resource%20Enterprise
+bio: 'Pleiades Resource Enterprise is a corporation active in Elite Dangerous lore
+  from 3302-08-11 to 3303-07-07. Frequently associated with Maia, Ant Hill Mob, Merope
+  Expeditionary Fleet. Key activities include: The Federation has issued a public
+  appeal for exploration data in the Pleiades Nebula, coordinated by the Pleiades
+  Resource Enterprise, to gather c...; The Federation announces plans to construct
+  a survey outpost in HIP 17692 to monitor Thargoid activity near the Pleiades.'
 ---
 
 

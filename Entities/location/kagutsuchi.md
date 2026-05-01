@@ -24,6 +24,10 @@ economy: Extraction
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Kagutsuchi
 inara_url: https://inara.cz/elite/starsystem/?search=Kagutsuchi
+bio: Kagutsuchi is a star system in the Elite Dangerous universe, significant from
+  3304-10-11 to 3304-10-20. Associated with Close Encounters Corps, Rackham Capital
+  Investments. An open order for muon imagers is placed, with deliveries to Crown
+  Prospect in the Kagutsuchi system.
 ---
 
 

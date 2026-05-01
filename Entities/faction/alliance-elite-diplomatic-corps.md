@@ -12,6 +12,13 @@ related_entities:
 - social-eleu-progressive-party
 - the-sovereign
 inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Elite%20Diplomatic%20Corps
+bio: 'Alliance Elite Diplomatic Corps is a corporation active in Elite Dangerous lore
+  from 3301-04-26 to 3302-06-30. Frequently associated with Social Eleu Progressive
+  Party, Interstellar Communist Union, The Sovereign. Key activities include: After
+  three weeks of operations, the Alliance Elite Diplomatic Corps returned control
+  of Reorte to an Alliance-aligned faction.; Silver United Solutions deputised 5,535
+  pilots over a weekend to crush the Zaonce Jet Gang and other pirate crews terrorising
+  the Old Worlds.'
 ---
 
 

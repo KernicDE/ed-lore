@@ -11,6 +11,12 @@ related_entities:
 - 80-dd-d-774-ce-2
 - gliese-1269
 - eol-prou-aa-a-h89-nebula
+bio: 'Eol Prou RS-T d3-94 is a system in Elite Dangerous, significant from 3302-06-29
+  to 3302-12-01. Associated with 80 DD-D 774-CE-2. Notable events include: Commander
+  Cly discovers Jaques Station in the Eol Prou RS-T d3-94 system while exploring the
+  Eol Prou AA-A H89 Nebula; the starport is suffering fr...; Jaques broadcasts his
+  first message since being found in Eol Prou RS-T d3-94, explaining that drive engine
+  and navigation failures forced him to ab...'
 ---
 
 <!-- AUTO-GENERATED -->

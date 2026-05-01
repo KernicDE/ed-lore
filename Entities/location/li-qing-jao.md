@@ -11,6 +11,8 @@ related_entities:
 - gurragchaa-gateway
 - warkushanui
 - hinz-hub
+bio: Li Qing Jao is a star system in the Elite Dangerous universe, significant from
+  3301-11-19 to 3302-02-24.
 ---
 
 <!-- AUTO-GENERATED -->

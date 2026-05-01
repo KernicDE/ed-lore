@@ -24,6 +24,8 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Charunder
 inara_url: https://inara.cz/elite/starsystem/?search=Charunder
+bio: Charunder is a star system in the Elite Dangerous universe, significant from
+  3306-10-20 to 3306-10-29.
 ---
 
 

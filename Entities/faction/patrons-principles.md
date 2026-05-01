@@ -12,6 +12,12 @@ related_entities:
 - liaedin
 - sirius-corporation
 inara_url: https://inara.cz/elite/minorfaction/?search=Patron%27s%20Principles
+bio: Patron's Principles is a organization in the Elite Dangerous universe, active
+  from 3301-03-27 to 3301-04-30. Frequently linked with Blossom family, Volungu, Liaedin.
+  A skirmish broke out between Imperial and Federal forces in Volungu after the Patron's
+  Principles, an Empire-aligned organisation from Liaedin, attempted to expand beyond
+  Liaedin's borders. Chancellor Blaine stated the Patron's Principles acted without
+  Imperial Senate support.
 ---
 
 

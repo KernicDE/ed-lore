@@ -24,6 +24,12 @@ economy: Terraforming
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Wally%20Bei
 inara_url: https://inara.cz/elite/starsystem/?search=Wally%20Bei
+bio: Wally Bei is a star system in the Elite Dangerous universe, significant from
+  3304-12-13 to 3304-12-22. Associated with Wally Bei Technical, Traditional Wally
+  Bei Constitution Party, Vitadyne Labs. Conflict erupts between Wally Bei Technical
+  and the Traditional Wally Bei Constitution Party in the Wally Bei system. Wally
+  Bei Technical accuses its rival of transporting stolen food shipments, which the
+  Constitution Party denies as slander.
 ---
 
 

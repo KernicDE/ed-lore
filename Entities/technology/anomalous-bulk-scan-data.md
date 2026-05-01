@@ -6,6 +6,11 @@ first_seen_date: '3307-04-29'
 last_seen_date: '3307-07-22'
 mention_count: 4
 inara_url: https://inara.cz/elite/commodity/?search=Anomalous%20bulk%20scan%20data
+bio: Anomalous bulk scan data is a technology in the Elite Dangerous universe, mentioned
+  from 3307-04-29 to 3307-07-22. Developed or used by Pilots Federation, Zachary Hudson.
+  Hudson seeks data to expand surveillance capabilities while Winters aims to develop
+  privacy-protection technology. President Hudson's data delivery campaign outperforms
+  Shadow President Winters' competing privacy-protection initiative.
 ---
 
 

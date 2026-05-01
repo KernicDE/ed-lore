@@ -12,6 +12,11 @@ related_entities:
 - universal-cartographics
 - vitadyne-labs
 inara_url: https://inara.cz/elite/minorfaction/?search=Zorgon%20Peterson
+bio: 'Zorgon Peterson is a organization active in Elite Dangerous lore from 3304-12-11
+  to 3312-04-28. Frequently associated with Faulcon DeLacy, Aiaba. Key activities
+  include: Two new ships marketed toward independent pilots are released.; Zorgon
+  Peterson confirmed the Panther Clipper entered full-scale production after community
+  support in Aiaba, while Brewer Corporation simultaneous...'
 ---
 
 

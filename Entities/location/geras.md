@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Geras
 inara_url: https://inara.cz/elite/starsystem/?search=Geras
+bio: Geras is a star system in the Elite Dangerous universe, significant from 3304-11-01
+  to 3308-05-12. Associated with Ndozins State Inc, Geras First, Federal Security
+  Service. The conflict between Geras First and Ndozins State Inc in the Geras system
+  concludes. Hostilities between Geras First and Ndozins State Inc in the Geras system
+  escalate into all-out war after months of reciprocal attacks.
 ---
 
 

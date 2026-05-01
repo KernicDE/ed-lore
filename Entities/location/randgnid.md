@@ -24,6 +24,10 @@ economy: Military
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Randgnid
 inara_url: https://inara.cz/elite/starsystem/?search=Randgnid
+bio: Randgnid is a star system in the Elite Dangerous universe, significant from 3304-08-17
+  to 3304-08-26. Associated with Colonia Council, Colonia Research Division. The Colonia
+  Research Division asks pilots to deliver mined resources to Templar Barracks in
+  the Randgnid system.
 ---
 
 

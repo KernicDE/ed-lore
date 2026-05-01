@@ -24,6 +24,8 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Diaguandri
 inara_url: https://inara.cz/elite/starsystem/?search=Diaguandri
+bio: Diaguandri is a star system in the Elite Dangerous universe, significant from
+  3302-01-04 to 3302-02-24.
 ---
 
 

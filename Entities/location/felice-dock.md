@@ -11,6 +11,11 @@ related_entities:
 - synuefe-xr-h-d11-102
 - phoenix-base
 - meene-defence-force
+bio: 'Felice Dock is a starport in Elite Dangerous, significant from 3302-11-03 to
+  3304-11-15. Associated with United Meene Labour. Notable events include: Engineer
+  Ram Tah''s appeal for data from the Synuefe ruins concludes successfully.; Ram Tah,
+  the galaxy''s foremost expert on the Guardians, has revealed that his research funding
+  will soon end.'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,12 @@ related_entities:
 - pleiades-nebula
 - cooper-research-associates
 - taygeta
+bio: 'Oracle is a system in Elite Dangerous, significant from 3303-07-15 to 3305-07-04.
+  Associated with Aegis, Cooper Research Associates. Notable events include: With
+  Thargoid attacks becoming regular in the Pleiades Nebula, Aegis has funded a military
+  operation dubbed Operation Andronicus in the Pleiades Se...; Cooper Research Associates
+  have launched a rescue operation to recover personal effects, data, and people from
+  Thargoid attack sites in the Pleiade...'
 ---
 
 <!-- AUTO-GENERATED -->

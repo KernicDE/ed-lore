@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Terraforming
 edsm_url: https://www.edsm.net/en/system?search=Paresa
 inara_url: https://inara.cz/elite/starsystem/?search=Paresa
+bio: 'Paresa is a system in Elite Dangerous, significant from 3305-01-05 to 3309-06-05.
+  Associated with Nova Imperium, Imperial Herald. Notable events include: The Empire
+  declares open conflict with Nova Imperium in the Paresa system, with Senator Patreus
+  calling on Imperial auxiliaries to support Yupini L...; Nova Imperium is defeated
+  in the Battle of Paresa by Imperial forces led by Yupini Limited, with Senator Patreus
+  warning that the Empire will not t...'
 ---
 
 

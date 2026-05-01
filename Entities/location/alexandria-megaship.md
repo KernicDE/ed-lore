@@ -11,6 +11,10 @@ related_entities:
 - pilots-federation
 - alliance
 - empire
+bio: Alexandria megaship is a star system in the Elite Dangerous universe, significant
+  from 3307-04-22 to 3307-07-27. Associated with Aegis, Pilots Federation. The Alexandria
+  megaship jumps from Delphi to HIP 16538, triggering a Thargoid attack. The Federal
+  Navy warns the Alexandria megaship not to enter any Federal system.
 ---
 
 <!-- AUTO-GENERATED -->

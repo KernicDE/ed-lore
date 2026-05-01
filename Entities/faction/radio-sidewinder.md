@@ -12,6 +12,8 @@ related_entities:
 - interstellar-press
 - alioth
 inara_url: https://inara.cz/elite/minorfaction/?search=Radio%20Sidewinder
+bio: Radio Sidewinder is a organization in the Elite Dangerous universe, active from
+  3301-08-26 to 3302-03-22. Frequently linked with Fuel Rats.
 ---
 
 

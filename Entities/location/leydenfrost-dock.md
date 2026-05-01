@@ -11,6 +11,11 @@ related_entities:
 - emperors-grace
 - alliance
 - inra
+bio: Leydenfrost Dock is a starport in the Elite Dangerous universe, significant from
+  3304-07-06 to 3304-07-15. Associated with Didiomanja Emperor's Grace, Emperor's
+  Grace. Large quantities of exotic food, drink, and mined resources were delivered
+  to Leydenfrost Dock, allowing a sumptuous banquet and the construction of a monument
+  honouring Admiral Mira Tiverion.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=42%20n%20Persei
 inara_url: https://inara.cz/elite/starsystem/?search=42%20n%20Persei
+bio: '42 n Persei is a system in Elite Dangerous, significant from 3304-01-05 to 3308-09-30.
+  Associated with Sirius Inc. Notable events include: Thargoid vessels invade the
+  inhabited systems 42 n Persei, Chun Pindit and Tekkeitjal in a coordinated attack,
+  the first such incursion since the P...; Xeno-peace activist Timothy Culver argues
+  that Thargoid incursions are defensive reprisals for the Proteus Wave and mycoid
+  bioweapon, calling for d...'
 ---
 
 

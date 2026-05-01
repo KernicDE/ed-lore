@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20OI-T%20c3-7
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20OI-T%20c3-7
+bio: Pleiades Sector OI-T c3-7 is a star system in the Elite Dangerous universe, significant
+  from 3303-06-04 to 3304-03-04. Associated with Federation. The new operation targets
+  Pleiades Sector OI-T c3-7 and Arietis Sector XE-Z b4, where large concentrations
+  of Thargoid ships have been reported. The Merope Expeditionary Fleet will oversee
+  combat operations while the Pleiades Resource Enterprise coordinates rescue and
+  recovery.
 ---
 
 

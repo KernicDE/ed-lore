@@ -11,6 +11,12 @@ related_entities:
 - jameson-memorial-review
 - aegis
 - azimuth
+bio: 'Jameson Memorial is a system in Elite Dangerous, significant from 3301-09-06
+  to 3310-10-02. Associated with Jameson Memorial Review, Interstellar Press, Sirius
+  Corporation. Notable events include: A Thargoid invasion fleet emerges in Shinrarta
+  Dezhra, catching AX forces by surprise.; The Thargoid invasion fleet in Shinrarta
+  Dezhra is successfully repelled, with acting starport commander Florian Baljak praising
+  the thousands of C...'
 ---
 
 <!-- AUTO-GENERATED -->

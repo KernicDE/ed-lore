@@ -11,6 +11,12 @@ related_entities:
 - alliance
 - kumo-crew
 - california-nebula
+bio: 'Coalsack Nebula is a region in Elite Dangerous, significant from 3306-11-26
+  to 3308-11-15. Associated with Pilots Federation, Sirius Corporation, Alliance.
+  Notable events include: Thargoid forces invade the Delphi system and multiple systems
+  in the California, Coalsack and Pleiades Nebulas.; Commodore Morag Halloran reveals
+  that hundreds of naval officers from all three superpowers and Sirius have resigned
+  to join Salvation''s anti-xeno ...'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -72,6 +72,16 @@ function formatNumber(n: number): string {
       )}
     </div>
 
+    {/* Bio / Description */}
+    {entity?.bio && (
+      <div class="holo-panel">
+        <div class="holo-title">Description</div>
+        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+          {entity.bio}
+        </div>
+      </div>
+    )}
+
     {/* Location data from EDSM */}
     {entity?.type === 'location' && (
       <div class="holo-panel">

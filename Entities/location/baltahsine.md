@@ -24,6 +24,9 @@ economy: Agriculture
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Baltah'Sine
 inara_url: https://inara.cz/elite/starsystem/?search=Baltah'Sine
+bio: Baltah'Sine is a star system in the Elite Dangerous universe, significant from
+  3306-10-16 to 3307-12-20. Associated with NMLA, Marlinist Colonies. The Exiled Marlinist
+  Assembly of Baltah'Sine takes control under Minister Octavia Volkov.
 ---
 
 

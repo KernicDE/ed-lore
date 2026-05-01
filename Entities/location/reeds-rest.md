@@ -11,6 +11,10 @@ related_entities:
 - obsidian-orbital
 - aegis
 - bhal
+bio: Reed's Rest is a star system in the Elite Dangerous universe, significant from
+  3304-01-13 to 3307-12-14. Associated with Aegis. Reed's Rest in Merope and Obsidian
+  Orbital in Maia have become the latest starports targeted by Thargoid attacks. Three
+  starports damaged by Thargoid forces are restored to full functionality.
 ---
 
 <!-- AUTO-GENERATED -->

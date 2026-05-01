@@ -11,6 +11,11 @@ related_entities:
 - panem
 - tanmark-defence-force
 - tanmark
+bio: Harvestport is a starport in the Elite Dangerous universe, significant from 3301-03-19
+  to 3301-04-02. Associated with Kappa Fornacis Farmers Union. Georgio Algeria announced
+  to crowds at Harvestport that 'you can't stop the crop' and that people want '100%
+  organic, original blend Onionhead'. Thousands of traders have returned to Kappa
+  Fornacis after Onionhead became available again on Harvestport.
 ---
 
 <!-- AUTO-GENERATED -->

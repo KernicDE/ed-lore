@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Munshin
 inara_url: https://inara.cz/elite/starsystem/?search=Munshin
+bio: 'Munshin is a system in Elite Dangerous, significant from 3301-08-13 to 3304-09-22.
+  Associated with Libertas Cooperative, Kumo Crew. Notable events include: Weekly
+  summary covering Maddox Hurd''s criminal connections causing investor flight from
+  Herculean Machines, the announcement of Alliance presidenti...; Weekly summary covering
+  Vanya Driscoll''s analysis of Alliance presidential candidates, Lloyd Hardacre''s
+  arrest after his robot exposed corporate fr...'
 ---
 
 

@@ -11,6 +11,8 @@ related_entities:
 - arawere
 - diaguandri
 - harma
+bio: Ray Gateway is a star system in the Elite Dangerous universe, significant from
+  3302-01-04 to 3302-02-24.
 ---
 
 <!-- AUTO-GENERATED -->

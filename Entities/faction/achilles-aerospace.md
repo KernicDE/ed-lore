@@ -12,6 +12,12 @@ related_entities:
 - utopia
 - aegis
 inara_url: https://inara.cz/elite/minorfaction/?search=Achilles%20Aerospace
+bio: 'Achilles Aerospace is a organization active in Elite Dangerous lore from 3310-03-21
+  to 3310-10-31. Frequently associated with Sirius Corporation, Faulcon DeLacy. Key
+  activities include: Achilles Aerospace asks pilots to retrieve Titan Drive Components
+  from the Taranis wreckage to advance their research into Thargoid travel technolo...;
+  Achilles Aerospace releases the full range of Supercruise Overcharge drives and
+  upgrades, with Dr.'
 ---
 
 

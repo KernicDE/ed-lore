@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Nauni
 inara_url: https://inara.cz/elite/starsystem/?search=Nauni
+bio: Nauni is a star system in the Elite Dangerous universe, significant from 3304-06-22
+  to 3308-02-11. Associated with Aegis. Carter Armstrong of Aegis Core announces Armstrong
+  Enterprise in the Bhal system and Beaufoy Vision in the Nauni system are now open.
+  Thargoid forces launch heavy assaults on the Dan, HIP 12314, and Nauni systems.
 ---
 
 

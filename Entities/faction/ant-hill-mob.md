@@ -12,6 +12,12 @@ related_entities:
 - federation
 - maia-a-3-a
 inara_url: https://inara.cz/elite/minorfaction/?search=Ant%20Hill%20Mob
+bio: 'Ant Hill Mob is a organization active in Elite Dangerous lore from 3302-10-27
+  to 3302-11-17. Frequently associated with Pleiades Resource Enterprise, Maia, Obsidian
+  Orbital. Key activities include: The Ant Hill Mob, Maia''s controlling faction,
+  launched an offensive against the Pleiades Resource Enterprise after the Federation
+  stationed a Farra...; The Pleiades Resource Enterprise has successfully overcome
+  resistance from the Ant Hill Mob to gain a foothold in the Maia system.'
 ---
 
 

@@ -11,6 +11,17 @@ related_entities:
 - hip-10792
 - turner-research-group
 - california-nebula
+coords:
+  x: -117.40625
+  y: -138.6875
+  z: -3.25
+edsm_url: https://www.edsm.net/en/system?search=Pegasi
+bio: 'Pegasi is a system in Elite Dangerous, significant from 3308-04-26 to 3310-10-25.
+  Associated with Kumo Crew, Alliance. Notable events include: Archon Delaine mobilizes
+  the Kumo Crew to defend the California Nebula from Thargoid invasions, drawing skepticism
+  from the Turner Research Group.; The Kumo Crew''s defence of the California Nebula
+  succeeds, but its attempt to seize control of local ports is repelled by communities
+  and the Turne...'
 ---
 
 <!-- AUTO-GENERATED -->

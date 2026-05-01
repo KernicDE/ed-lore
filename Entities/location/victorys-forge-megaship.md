@@ -11,6 +11,10 @@ related_entities:
 - tsao-tach
 - silver-legal-group
 - vox-galactica
+bio: Victory's Forge megaship is a star system in the Elite Dangerous universe, significant
+  from 3307-06-02 to 3307-06-21. Associated with Jupiter Division, Core Dynamics.
+  The faction has retaken control of multiple systems and its megaship Victory's Forge
+  repelled Federal troops.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,12 @@ related_entities:
 - inra
 - rewired
 inara_url: https://inara.cz/elite/minorfaction/?search=Bonespire%20Publishing
+bio: 'Bonespire Publishing is a organization active in Elite Dangerous lore from 3304-07-05
+  to 3304-11-17. Frequently associated with Blatrimpe, Procyon, Imperial Herald. Key
+  activities include: Weekly summary covering League of Reparation raids, the Thargoid
+  fifth column theory, Jordan Rochester''s profile, Olav Redcourt''s book tour, the
+  Di...; Celebrated author Olav Redcourt begins a promotional tour visiting over fifty
+  destinations throughout the core systems for his new novel ''Corsair K...'
 ---
 
 

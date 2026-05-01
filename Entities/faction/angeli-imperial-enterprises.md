@@ -12,6 +12,12 @@ related_entities:
 - blido-piru
 - kanai-enterprise
 inara_url: https://inara.cz/elite/minorfaction/?search=Angeli%20Imperial%20Enterprises
+bio: 'Angeli Imperial Enterprises is a corporation active in Elite Dangerous lore
+  from 3303-12-15 to 3304-04-29. Frequently associated with Wangal, Nelder City, Potagos
+  Port. Key activities include: This week''s major stories include the murder of Imperial
+  Senator Nestor Cartesius at his home on Capitol, with a note reading ''For Jameson''
+  left at...; This week''s major stories include Simguru Pranav Antal addressing the
+  possibility of humanity losing the Thargoid conflict and proposing the Sim-Ar...'
 ---
 
 

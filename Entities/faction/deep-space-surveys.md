@@ -12,6 +12,13 @@ related_entities:
 - distant-worlds-3
 - explorers-anchorage
 inara_url: https://inara.cz/elite/minorfaction/?search=Deep%20Space%20Surveys
+bio: 'Deep Space Surveys is a organization active in Elite Dangerous lore from 3305-01-04
+  to 3312-04-26. Frequently associated with Sagittarius A*, Beagle Point, Stuemeae
+  FG-Y d7561. Key activities include: The second Distant Worlds expedition prepares
+  to launch, with nearly four thousand Commanders set to travel over 200,000 light
+  years through the ga...; The Omega Mining Corporation requests indite, gallite,
+  praseodymium and cobalt deliveries to build an Orbis starport in the Galactic Centre
+  as part...'
 ---
 
 

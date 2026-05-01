@@ -6,6 +6,11 @@ first_seen_date: '3302-01-08'
 last_seen_date: '3303-10-12'
 mention_count: 25
 inara_url: https://inara.cz/elite/commodity/?search=meta-alloys
+bio: 'meta-alloys is a technology in Elite Dangerous, mentioned from 3302-01-08 to
+  3303-10-12. Key developments: Dr Arcanonn of the Canonn Interstellar Research Group
+  confirmed the discovery of alien ''barnacle'' structures on at least two planets
+  in the Pleiade...; Following the discovery of alien barnacles in the Pleiades Nebula,
+  technical personnel at Obsidian Orbital conducted an eleventh-hour experiment us...'
 ---
 
 

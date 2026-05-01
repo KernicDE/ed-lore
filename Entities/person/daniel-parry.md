@@ -6,6 +6,8 @@ first_seen_date: '3309-02-10'
 last_seen_date: '3309-05-12'
 mention_count: 5
 inara_url: https://inara.cz/elite/cmdr-search/?search=Daniel%20Parry
+bio: Daniel Parry is a prominent figure in the Elite Dangerous universe, active from
+  3309-02-10 to 3309-05-12. Closely associated with Aegis, Federal Navy.
 ---
 
 

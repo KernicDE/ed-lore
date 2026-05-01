@@ -11,6 +11,11 @@ related_entities:
 - eravate
 - von-bellingshausen-port
 - almar
+bio: Iren's Dock is a starport in the Elite Dangerous universe, significant from 3302-02-24
+  to 3302-07-07. Ackerman Market, Gabriel Enterprise, Weyn Dock, and Onnes Gateway
+  are now fully operational, while other stations remain affected. The Border Coalition
+  has unanimously decided to back the Social Eleu Progressive Party in the Rise to
+  Power campaign after an emergency meeting at Iren's Dock.
 ---
 
 <!-- AUTO-GENERATED -->

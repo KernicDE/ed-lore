@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Kappa%20Fornacis
 inara_url: https://inara.cz/elite/starsystem/?search=Kappa%20Fornacis
+bio: 'Kappa Fornacis is a system in Elite Dangerous, significant from 3301-02-24 to
+  3307-07-20. Associated with Kappa Fornacis Farmers Union. Notable events include:
+  Federal Congress shows rare unity as members rally around President Zachary Hudson
+  following reports of Thargoid attacks in the Pleiades.; Six months after Onionhead
+  was made illegal in Federal space, the Federation launched a violent campaign against
+  Kappa Fornacis farmers led by Geor...'
 ---
 
 

@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Ross%20310
 inara_url: https://inara.cz/elite/starsystem/?search=Ross%20310
+bio: Ross 310 is a star system in the Elite Dangerous universe, significant from 3304-03-30
+  to 3304-04-07. Associated with Ross 310 Cartel, Ross 310 Natural Services, Aegis.
+  Conflict erupted in Ross 310 between Ross 310 Natural Services and the Ross 310
+  Cartel. The EG Union successfully concluded its campaign to build a shipyard in
+  Ross 720.
 ---
 
 

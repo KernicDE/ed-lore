@@ -12,6 +12,11 @@ related_entities:
 - victorys-forge-megaship
 - pilots-federation
 inara_url: https://inara.cz/elite/minorfaction/?search=Silver%20Legal%20Group
+bio: Silver Legal Group is a organization in the Elite Dangerous universe, active
+  from 3307-06-03 to 3307-06-21. Frequently linked with Jupiter Division, Core Dynamics,
+  Victory's Forge megaship. Core Dynamics and its ally the Silver Legal Group battle
+  Jupiter Division in the Ts'ao Tach system. Jupiter Division is defeated by the Silver
+  Legal Group in the Ts'ao Tach system.
 ---
 
 

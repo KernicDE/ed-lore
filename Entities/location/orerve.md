@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Orerve
 inara_url: https://inara.cz/elite/starsystem/?search=Orerve
+bio: 'Orerve is a system in Elite Dangerous, significant from 3305-09-13 to 3305-10-31.
+  Associated with Interstellar Association for Agriculture, Rockforth Corporation.
+  Notable events include: The IAA confirms Rockforth''s EX7 fertiliser is linked to
+  the blight.; The IAA, Rockforth, Vandermeer and Neomedical develop an agronomic
+  treatment that reverses the blight''s effects.'
 ---
 
 

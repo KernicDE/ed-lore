@@ -24,6 +24,12 @@ economy: Refinery
 second_economy: Service
 edsm_url: https://www.edsm.net/en/system?search=Sol
 inara_url: https://inara.cz/elite/starsystem/?search=Sol
+bio: 'Sol is a system in Elite Dangerous, significant from 3301-02-08 to 3311-12-18.
+  Associated with Federal Times, Federal Navy. Notable events include: President Halsey
+  ordered Federal pilots to attack and destroy an unarmed refugee convoy fleeing Lugh
+  6, killing an estimated 9,322 innocent Federal...; Members of Congress gathered
+  on Mars for Shadow President Zachary Hudson''s Vote of No Confidence against the
+  Liberal Administration.'
 ---
 
 

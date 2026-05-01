@@ -11,6 +11,11 @@ related_entities:
 - federal-congress
 - federal-security-service
 - herculean-machines
+bio: Hume Orbital is a starport in the Elite Dangerous universe, significant from
+  3304-10-05 to 3304-10-31. Associated with Alliance. Alliance presidential candidate
+  Fazia Silva is found dead at Hume Orbital, believed to have been murdered by poison.
+  Inspector Erin Sangster officially rules the death a homicide involving sophisticated
+  nerve toxin and professional assassins who circumvented security at Hume Orbital.
 ---
 
 <!-- AUTO-GENERATED -->

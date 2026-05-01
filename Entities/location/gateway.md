@@ -24,6 +24,11 @@ economy: Refinery
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Gateway
 inara_url: https://inara.cz/elite/starsystem/?search=Gateway
+bio: 'Gateway is a system in Elite Dangerous, significant from 3307-05-20 to 3312-04-28.
+  Associated with Alliance, NMLA. Notable events include: Vice President Brad Mitchell
+  and a number of Federal Cabinet members have been killed in The recent terrorist
+  attack on a starport orbiting Earth.; Political fallout has been intense after The
+  NMLA simultaneously bombed nine starports in the Alliance, Empire and Federation.'
 ---
 
 

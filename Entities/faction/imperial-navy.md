@@ -12,6 +12,12 @@ related_entities:
 - achenar
 - hip-22460
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Navy
+bio: 'Imperial Navy is a navy active in Elite Dangerous lore from 3301-07-05 to 3312-02-20.
+  Frequently associated with Federal Navy, Alliance. Key activities include: Emperor
+  Hengist Duval died en route to the Imperial Navy Medical Facility near the Imperial
+  Palace after being stabbed during his wedding ceremony.; Security was drastically
+  increased in Capitol ahead of Arissa Lavigny-Duval''s coronation ceremony due to
+  threats from Emperor''s Dawn.'
 ---
 
 

@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Eurybia
 inara_url: https://inara.cz/elite/starsystem/?search=Eurybia
+bio: 'Eurybia is a system in Elite Dangerous, significant from 3303-09-22 to 3307-02-12.
+  Associated with Eurybia Blue Mafia. Notable events include: Aegis recruits engineers
+  Liz Ryder and Ishmael Palin to develop new defensive and offensive technologies
+  against the Thargoids.; Aegis announces the successful conclusion of its appeal
+  for Thargoid-related materials.'
 ---
 
 

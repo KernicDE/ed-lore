@@ -11,6 +11,10 @@ related_entities:
 - bava
 - federation
 - merope
+bio: Bauschinger City is a star system in the Elite Dangerous universe, significant
+  from 3302-07-14 to 3302-07-21. Associated with Bava Blue Travel Systems, Empire.
+  The Empire has launched a campaign to find additional barnacles by asking pilots
+  to deliver exploration data to Bauschinger City in the Bava system.
 ---
 
 <!-- AUTO-GENERATED -->

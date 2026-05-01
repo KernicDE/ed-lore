@@ -11,6 +11,19 @@ related_entities:
 - worlidge-terminal
 - bluford-orbital
 - lhs-3447-b-1-a
+coords:
+  x: -43.1875
+  y: -5.28125
+  z: 56.15625
+population: 1148257346
+allegiance: Pilots Federation
+government: Democracy
+edsm_url: https://www.edsm.net/en/system?search=LHS%203447
+bio: LHS 3447 system is a star system in the Elite Dangerous universe, significant
+  from 3302-02-25 to 3302-03-10. Associated with LHS 3447 Dynamic and Co, Pilots Federation.
+  The Pilots Federation and LHS 3447 Dynamic and Co announce plans to construct a
+  new Orbis starport named Bluford Orbital in LHS 3447. The station will orbit LHS
+  3447 B 1 a, providing a valuable trade and resupply hub for miners in the system.
 ---
 
 <!-- AUTO-GENERATED -->

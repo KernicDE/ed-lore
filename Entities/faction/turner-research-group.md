@@ -12,6 +12,12 @@ related_entities:
 - california-sector-bv-y-c7
 - darwin-research-facility
 inara_url: https://inara.cz/elite/minorfaction/?search=Turner%20Research%20Group
+bio: 'Turner Research Group is a research active in Elite Dangerous lore from 3303-05-05
+  to 3309-02-09. Frequently associated with Alliance, California Nebula, Kumo Crew.
+  Key activities include: Weekly summary covering the dismantling of the League of
+  Reparation and Riri McAllister''s arrest, the Church of Eternal Void being declared
+  illegal...; Archon Delaine mobilizes the Kumo Crew to defend the California Nebula
+  from Thargoid invasions, drawing skepticism from the Turner Research Group.'
 ---
 
 

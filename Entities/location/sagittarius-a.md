@@ -17,6 +17,12 @@ coords:
   z: 25899.96875
 edsm_url: https://www.edsm.net/en/system?search=Sagittarius%20A*
 inara_url: https://inara.cz/elite/starsystem/?search=Sagittarius%20A*
+bio: 'Sagittarius A* is a system in Elite Dangerous, significant from 3301-04-23 to
+  3305-07-03. Associated with Deep Space Surveys. Notable events include: The second
+  Distant Worlds expedition prepares to launch, with nearly four thousand Commanders
+  set to travel over 200,000 light years through the ga...; The Fuel Rats Mischief
+  announced plans for an extraction outpost near Jaques Station to support deep-space
+  rescue operations.'
 ---
 
 

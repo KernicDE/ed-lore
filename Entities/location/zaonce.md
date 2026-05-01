@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Zaonce
 inara_url: https://inara.cz/elite/starsystem/?search=Zaonce
+bio: 'Zaonce is a system in Elite Dangerous, significant from 3301-05-01 to 3308-11-15.
+  Associated with Alliance, Alliance Assembly, Bank of Zaonce. Notable events include:
+  President Gibson Kincaid is removed from office by the Alliance Assembly on charges
+  of treason, murder and corruption, and is detained while attemp...; The announcement
+  that the rogue signal sources heading towards the core systems are Thargoid in origin
+  has caused unease within the general public.'
 ---
 
 

@@ -11,6 +11,11 @@ related_entities:
 - alliance
 - church-of-eternal-void
 - far-god-cult
+bio: Morris Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3304-07-13 to 3304-07-22. Associated with Cobra Wing. They place an open order
+  for commodities and a kill order on wanted ships to protect traders delivering to
+  Morris Enterprise. Scores of pilots delivered commodities to Morris Enterprise and
+  eliminated agitators.
 ---
 
 <!-- AUTO-GENERATED -->

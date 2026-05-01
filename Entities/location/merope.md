@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Merope
 inara_url: https://inara.cz/elite/starsystem/?search=Merope
+bio: 'Merope is a system in Elite Dangerous, significant from 3301-07-10 to 3308-09-01.
+  Associated with Canonn Interstellar Research Group, Federation, Aegis. Notable events
+  include: Dr Arcanonn''s Canonn research team discovered that Unknown Artefacts emit
+  a distorted morse code signal broadcasting the identity of the nearest ce...; Dr
+  Arcanonn of the Canonn Interstellar Research Group confirmed the discovery of alien
+  ''barnacle'' structures on at least two planets in the Pleiade...'
 ---
 
 

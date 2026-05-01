@@ -12,6 +12,12 @@ related_entities:
 - achenar
 - imperial-senate
 inara_url: https://inara.cz/elite/minorfaction/?search=NMLA
+bio: 'NMLA is a organization active in Elite Dangerous lore from 3306-09-10 to 3308-07-06.
+  Frequently associated with Marlinist, Alliance, Achenar. Key activities include:
+  The NMLA launches coordinated terrorist attacks on four Imperial starports — Mackenzie
+  Relay in Cemiess, Tsiolkovsky Terminal in Gabjaujis, Garrido...; The IISS confirms
+  the NMLA starport bombings used customised explosives incorporating Thargoid technology
+  and caustic enzymes.'
 ---
 
 

@@ -11,6 +11,12 @@ related_entities:
 - colonia-council
 - eol-prou-rs-t-d3-94
 - deep-recon-x
+bio: 'Eol Prou is a system in Elite Dangerous, significant from 3302-12-01 to 3307-01-14.
+  Associated with Colonia Co-operative, Colonia Council, Deep Recon X. Notable events
+  include: *Pilots Federation ALERT* The Holloway Bioscience Institute has rewarded
+  pilots who delivered living matter extracted from space-dwelling organisms.; The
+  Colonia Council has announced a series of monthly colonisation appeals in the Colonia
+  Nebula, asking pilots to deliver commodities to Jaques St...'
 ---
 
 <!-- AUTO-GENERATED -->

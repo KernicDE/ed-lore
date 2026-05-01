@@ -9,6 +9,16 @@ related_entities:
 - paladin-consortium
 - onnes-gateway
 - diamond-frogs
+coords:
+  x: 14.4375
+  y: -61.875
+  z: 16.5
+population: 554147446
+allegiance: Independent
+government: Democracy
+edsm_url: https://www.edsm.net/en/system?search=LFT%2037
+bio: LFT 37 system is a star system in the Elite Dangerous universe, significant from
+  3302-02-04 to 3302-02-11. Associated with Paladin Consortium, Diamond Frogs.
 ---
 
 <!-- AUTO-GENERATED -->

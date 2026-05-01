@@ -11,6 +11,12 @@ related_entities:
 - sol
 - brestla
 - jameson-memorial
+bio: i Sola Prospect is a star system in the Elite Dangerous universe, significant
+  from 3302-01-28 to 3302-02-17. Associated with Imperial Inquisition. Mavia Kain
+  of the Imperial Inquisition announces the successful campaign to develop i Sola
+  Prospect on Brestla A1. The Imperial Inquisition launched a community campaign to
+  develop the i Sola Prospect outpost on Brestla A1, requesting industrial materials
+  to upgrade the station.
 ---
 
 <!-- AUTO-GENERATED -->

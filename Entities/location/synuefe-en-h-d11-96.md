@@ -22,6 +22,13 @@ economy: Service
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Synuefe%20EN-H%20d11-96
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20EN-H%20d11-96
+bio: Synuefe EN-H d11-96 is a star system in the Elite Dangerous universe, significant
+  from 3305-05-09 to 3305-05-30. Associated with Zende Partners, Segnen Exchange.
+  Zende Partners launches a weekly megaship transport service from Zende to Synuefe
+  EN-H d11-96, establishing The Prospect outpost in Guardian space to support research
+  and technology development. Zende Partners defeats Segnen Exchange's expansion attempt
+  in Synuefe EN-H d11-96, securing control of both outposts and beginning manufacture
+  of the Advanced Multi-cannon at The Prospect.
 ---
 
 

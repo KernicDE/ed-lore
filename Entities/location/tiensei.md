@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=T'iensei
 inara_url: https://inara.cz/elite/starsystem/?search=T'iensei
+bio: T'iensei is a star system in the Elite Dangerous universe, significant from 3304-05-25
+  to 3304-06-03. Associated with Autocracy of T’iensei, League of Reparation, Los
+  Chupacabras. The Autocracy of T'iensei placed kill orders on criminals in their
+  system. The Autocracy of T'iensei announces its campaign to clear the system of
+  agitators has been successful.
 ---
 
 

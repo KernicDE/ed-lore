@@ -9,6 +9,14 @@ related_entities:
 - diamond-frogs
 - 63-g-capricorni
 - skvortsov-orbital
+coords:
+  x: -42.875
+  y: -97.65625
+  z: 60.25
+population: 236930
+allegiance: Federation
+government: Democracy
+edsm_url: https://www.edsm.net/en/system?search=Capricorni
 ---
 
 <!-- AUTO-GENERATED -->

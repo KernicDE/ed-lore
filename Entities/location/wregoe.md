@@ -11,6 +11,16 @@ related_entities:
 - holloway-bioscience-institute
 - wregoe-tc-x-b29-0
 - hip-22460
+coords:
+  x: -47.28125
+  y: -16.0625
+  z: -1059.1875
+edsm_url: https://www.edsm.net/en/system?search=Wregoe
+bio: 'Wregoe is a system in Elite Dangerous, significant from 3308-01-22 to 3309-08-31.
+  Associated with Aegis, Azimuth Biochemicals, Holloway Bioscience Institute. Notable
+  events include: Data from the Alexandria reveals Azimuth Biochemicals orchestrated
+  the megaship''s destruction.; Aegis leaders petition the superpowers for reinstatement
+  amid evidence of Azimuth''s return.'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Eol%20Prou%20PC-K%20c9-91
 inara_url: https://inara.cz/elite/starsystem/?search=Eol%20Prou%20PC-K%20c9-91
+bio: Eol Prou PC-K c9-91 is a star system in the Elite Dangerous universe, significant
+  from 3307-04-15 to 3307-04-30. Associated with Pilots Federation.
 ---
 
 

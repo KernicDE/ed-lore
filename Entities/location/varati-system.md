@@ -11,6 +11,19 @@ related_entities:
 - obsidian-orbital
 - bond-hub
 - col-285-sector-ix-t-d3-43
+coords:
+  x: -178.65625
+  y: 77.125
+  z: -87.125
+population: 9111872
+allegiance: Independent
+government: Cooperative
+edsm_url: https://www.edsm.net/en/system?search=Varati
+bio: 'Varati system is a system in Elite Dangerous, significant from 3302-02-25 to
+  3302-04-22. Associated with Canonn Interstellar Research Group. Notable events include:
+  Dr Arcanonn responds to calls for more meta-alloys to be shipped to affected stations.;
+  Professor D Luffy at Bond Hub in the Varati system appeals for meta-alloys to reverse
+  the technological plague affecting stations.'
 ---
 
 <!-- AUTO-GENERATED -->

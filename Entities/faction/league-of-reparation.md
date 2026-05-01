@@ -12,6 +12,12 @@ related_entities:
 - alliance-interpol
 - federal-intelligence-agency
 inara_url: https://inara.cz/elite/minorfaction/?search=League%20of%20Reparation
+bio: 'League of Reparation is a organization active in Elite Dangerous lore from 3304-05-05
+  to 3304-11-21. Frequently associated with Alliance, Imperial Internal Security Service.
+  Key activities include: This week''s major stories include the murder of Fleet Admiral
+  Tulimaq Buchanan of the Alliance Council of Admirals by the League of Reparation,
+  lin...; Weekly summary covering the Socho system being overtaken by the Socho Gold
+  Raiders, Aegis''s Eagle Eye success in repelling Thargoids, five ships de...'
 ---
 
 

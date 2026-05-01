@@ -11,6 +11,11 @@ related_entities:
 - lhs-3505
 - furbaide-cdc
 - volungu
+bio: Effinger Port is a starport in the Elite Dangerous universe, significant from
+  3301-02-17 to 3301-02-26. Associated with Furbaide CDC. A rapid response team has
+  been established aboard Effinger Port in Furbaide to find a cure. Dr Miriam Fletcher,
+  head of the Furbaide CDC, requested that anyone shipping basic medicines divert
+  to Effinger Port to donate supplies needed to stop the Blight's spread.
 ---
 
 <!-- AUTO-GENERATED -->

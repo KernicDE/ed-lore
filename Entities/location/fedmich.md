@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Fedmich
 inara_url: https://inara.cz/elite/starsystem/?search=Fedmich
+bio: 'Fedmich is a system in Elite Dangerous, significant from 3303-01-26 to 3304-09-29.
+  Associated with Herculean Machines, Supratech. Notable events include: Weekly summary
+  covering Vanya Driscoll''s analysis of Alliance presidential candidates, Lloyd Hardacre''s
+  arrest after his robot exposed corporate fr...; An Alliance convoy transporting
+  personnel and military equipment is attacked in the Fedmich system.'
 ---
 
 

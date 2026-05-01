@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Diso
 inara_url: https://inara.cz/elite/starsystem/?search=Diso
+bio: 'Diso is a system in Elite Dangerous, significant from 3301-05-08 to 3307-01-19.
+  Associated with Interstellar Association for Agriculture. Notable events include:
+  Edmund Mahon has launched a political campaign to be elected As the Alliance’s leader
+  for a second term.; Weekly summary covering the murder of INRA descendant Luca Hem
+  by the League of Reparation, Aisling Duval hosting Jordan Rochester and Caspian
+  Leop...'
 ---
 
 

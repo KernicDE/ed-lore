@@ -12,6 +12,12 @@ related_entities:
 - zaonce
 - alioth
 inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Tribune
+bio: 'Alliance Tribune is a organization active in Elite Dangerous lore from 3302-04-04
+  to 3312-01-26. Frequently associated with Alliance, Alliance Assembly. Key activities
+  include: Classified footage from the Battle of HIP 22460 is leaked to newsfeeds,
+  revealing the so-called ''Thargoid roar'' and fuelling public anxiety as inte...;
+  The Alliance-Sirius strategic defence pact is fully ratified, with Admiral Nikolas
+  Glass announcing Operation Tyndareus, a new anti-xeno taskforce ...'
 ---
 
 

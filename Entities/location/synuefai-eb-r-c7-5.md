@@ -23,6 +23,12 @@ security: Medium
 economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Synuefai%20EB-R%20c7-5
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefai%20EB-R%20c7-5
+bio: 'Synuefai EB-R c7-5 is a system in Elite Dangerous, significant from 3304-02-02
+  to 3304-08-05. Associated with Alliance. Notable events include: Weekly summary
+  covering the foiled assassination attempt on Aisling Duval, Riri McAllister being
+  shot during her trial, the FIA investigation into ...; The Alliance has announced
+  plans to build an Orbis starport in the Synuefai EB-R c7-5 system, between the core
+  systems and the Alliance''s Californi...'
 ---
 
 

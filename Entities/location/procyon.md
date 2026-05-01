@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Procyon
 inara_url: https://inara.cz/elite/starsystem/?search=Procyon
+bio: 'Procyon is a system in Elite Dangerous, significant from 3301-12-22 to 3310-10-16.
+  Associated with Sirius Corporation. Notable events include: Aegis scientists at
+  the Xenological Science Symposium on Procyon discuss how Thargoid Titan wreckage
+  could accelerate multiple scientific fields, w...; Weekly summary covering League
+  of Reparation raids, the Thargoid fifth column theory, Jordan Rochester''s profile,
+  Olav Redcourt''s book tour, the Di...'
 ---
 
 

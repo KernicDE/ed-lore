@@ -6,6 +6,11 @@ first_seen_date: '3307-01-13'
 last_seen_date: '3307-10-05'
 mention_count: 12
 inara_url: https://inara.cz/elite/cmdr-search/?search=Rochester
+bio: 'Rochester is a Ceo in Elite Dangerous lore, active from 3307-01-13 to 3307-10-05.
+  Affiliated with Core Dynamics. Notable activities include: President Zachary Hudson
+  and Shadow President Felicia Winters will both attend The diplomatic conference
+  in The Sirius system.; Alliance, Empire and Federation leaders have held their first
+  ever face-to-face discussions at The diplomatic conference in The Sirius system.'
 ---
 
 

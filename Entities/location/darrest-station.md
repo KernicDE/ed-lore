@@ -11,6 +11,10 @@ related_entities:
 - uibuth-system
 - prism
 - uibuth-empire-party
+bio: D'Arrest Station is a starport in the Elite Dangerous universe, significant from
+  3302-02-18 to 3302-11-24. Associated with Navigators Guild, Prismatic Imperium.
+  Hundreds of pilots delivered slaves to the new colony at D'Arrest Station in the
+  Uibuth system.
 ---
 
 <!-- AUTO-GENERATED -->

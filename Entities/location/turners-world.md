@@ -11,6 +11,13 @@ related_entities:
 - imperial-internal-security-service
 - alliance
 - federal-intelligence-agency
+bio: 'Turner''s World is a system in Elite Dangerous, significant from 3304-06-09
+  to 3304-08-05. Associated with League of Reparation, Imperial Internal Security
+  Service, Alliance. Notable events include: Weekly summary covering Chief Inspector
+  Kay Kilbride''s murder by the League of Reparation, reactions to Aisling Duval and
+  Jordan Rochester''s engage...; Weekly summary covering the foiled assassination
+  attempt on Aisling Duval, Riri McAllister being shot during her trial, the FIA investigation
+  into ...'
 ---
 
 <!-- AUTO-GENERATED -->

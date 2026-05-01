@@ -24,6 +24,8 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Halbangaay
 inara_url: https://inara.cz/elite/starsystem/?search=Halbangaay
+bio: Halbangaay is a star system in the Elite Dangerous universe, significant from
+  3302-01-20 to 3302-05-20.
 ---
 
 

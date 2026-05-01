@@ -24,6 +24,11 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Chi%20Orionis
 inara_url: https://inara.cz/elite/starsystem/?search=Chi%20Orionis
+bio: 'Chi Orionis is a system in Elite Dangerous, significant from 3302-08-12 to 3302-10-14.
+  Associated with MetaDrive Inc., Gutamaya, Galactic Finance Times. Notable events
+  include: The Galactic Finance Times reported evidence of a significant economic
+  downturn among major corporations including Sirius, Gutamaya, and Core Dynam...;
+  Independent auditor BigSix reported financial anomalies leading to MetaDrive Inc.'
 ---
 
 

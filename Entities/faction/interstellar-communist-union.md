@@ -12,6 +12,9 @@ related_entities:
 - social-eleu-progressive-party
 - the-sovereign
 inara_url: https://inara.cz/elite/minorfaction/?search=Interstellar%20Communist%20Union
+bio: Interstellar Communist Union is a organization in the Elite Dangerous universe,
+  active from 3302-06-02 to 3302-06-30. Frequently linked with Alliance Elite Diplomatic
+  Corps, Border Coalition, The Sovereign.
 ---
 
 

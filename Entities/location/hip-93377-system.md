@@ -8,6 +8,14 @@ mention_count: 2
 related_entities:
 - canary-mining-corporation
 - kooi-gateway
+coords:
+  x: -93.53125
+  y: 9.9375
+  z: 83.25
+population: 4324366
+allegiance: Independent
+government: Dictatorship
+edsm_url: https://www.edsm.net/en/system?search=HIP%2093377
 ---
 
 <!-- AUTO-GENERATED -->

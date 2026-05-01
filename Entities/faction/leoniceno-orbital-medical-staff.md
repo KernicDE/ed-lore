@@ -10,6 +10,12 @@ related_entities:
 - azaleach
 - federal-times
 inara_url: https://inara.cz/elite/minorfaction/?search=Leoniceno%20Orbital%20medical%20staff
+bio: Leoniceno Orbital medical staff is a medical in the Elite Dangerous universe,
+  active from 3302-03-23 to 3302-03-29. Frequently linked with Leoniceno Orbital,
+  Azaleach. Medical personnel at Leoniceno Orbital announce they will soon bring former
+  Federal President Jasmina Halsey out of her induced coma. President Zachary Hudson
+  confirms that former President Jasmina Halsey has been brought out of her induced
+  coma at Leoniceno Orbital.
 ---
 
 

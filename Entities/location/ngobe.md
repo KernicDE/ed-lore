@@ -24,6 +24,10 @@ economy: Service
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Ngobe
 inara_url: https://inara.cz/elite/starsystem/?search=Ngobe
+bio: 'Ngobe is a system in Elite Dangerous, significant from 3301-11-19 to 3311-03-19.
+  Notable events include: The technological plague continues to affect starports across
+  inhabited space.; Fozard Dock in the HIP 19934 system suspends all services except
+  docking and shipyard access due to Unknown Artefact-related interference, bringing...'
 ---
 
 

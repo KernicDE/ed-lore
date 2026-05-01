@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Didio
 inara_url: https://inara.cz/elite/starsystem/?search=Didio
+bio: 'Didio is a system in Elite Dangerous, significant from 3308-04-21 to 3308-06-29.
+  Associated with Salvation, Alliance. Notable events include: Thargoid fleets invade
+  the Didio, Novas, and Sosong systems, placing over ten billion lives at risk.; Sirius
+  Corporation claims the Thargoid incursions prove the necessity of its strategic
+  defence pact with the Alliance.'
 ---
 
 

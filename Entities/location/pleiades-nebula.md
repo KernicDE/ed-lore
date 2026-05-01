@@ -11,6 +11,12 @@ related_entities:
 - maia
 - empire
 - merope
+bio: 'Pleiades Nebula is a region in Elite Dangerous, significant from 3301-10-22
+  to 3307-05-13. Associated with Aegis, Federation. Notable events include: Dr Arcanonn
+  of the Canonn Interstellar Research Group confirmed the discovery of alien ''barnacle''
+  structures on at least two planets in the Pleiade...; Following the discovery of
+  alien barnacles in the Pleiades Nebula, technical personnel at Obsidian Orbital
+  conducted an eleventh-hour experiment us...'
 ---
 
 <!-- AUTO-GENERATED -->

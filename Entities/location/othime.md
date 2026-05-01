@@ -24,6 +24,11 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Othime
 inara_url: https://inara.cz/elite/starsystem/?search=Othime
+bio: Othime is a star system in the Elite Dangerous universe, significant from 3304-03-09
+  to 3304-03-16. Associated with Coalition of Othime, Aegis. The Coalition of Othime
+  announced plans to build a new asteroid base for refinery expansion. The Coalition
+  of Othime has announced plans to develop refinery facilities in the Othime system
+  by constructing a new asteroid base.
 ---
 
 

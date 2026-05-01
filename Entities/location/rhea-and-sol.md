@@ -11,6 +11,8 @@ related_entities:
 - alioth
 - eotienses
 - kamadhenu
+bio: Rhea and Sol is a star system in the Elite Dangerous universe, significant from
+  3307-03-12 to 3307-03-25. Associated with NMLA.
 ---
 
 <!-- AUTO-GENERATED -->

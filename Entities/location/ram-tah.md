@@ -11,6 +11,10 @@ related_entities:
 - professor-palin
 - clement-orbital
 - federal-navy
+bio: Ram Tah is a star system in the Elite Dangerous universe, significant from 3309-04-27
+  to 3312-04-26. Associated with Aegis, Sirius Corporation. Reactions to the discovery
+  of new Guardian sites and Ram Tah's Guardian-inspired technologies have been varied.
+  Aegis has published a report based on engineer Ram Tah's decrypted Guardian logs.
 ---
 
 <!-- AUTO-GENERATED -->

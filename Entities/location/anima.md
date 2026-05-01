@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Anima
 inara_url: https://inara.cz/elite/starsystem/?search=Anima
+bio: Anima is a star system in the Elite Dangerous universe, significant from 3304-09-20
+  to 3304-09-29. Associated with Supratech, Herculean Machines. Herculean Machines
+  requests Consumer Technology, Hardware Diagnostic Sensors, and Computer Components
+  delivered to Cowper Dock in the Anima system.
 ---
 
 

@@ -11,6 +11,11 @@ related_entities:
 - hip-22460
 - azimuth
 - federal-navy
+bio: 'Musashi is a system in Elite Dangerous, significant from 3308-01-05 to 3310-09-19.
+  Associated with Salvation, Azimuth Biotech, Azimuth. Notable events include: Ram
+  Tah''s testimony about Salvation''s Guardian-based superweapon suspends Admiral
+  Tanner''s court martial.; Taurus Mining Ventures begins research in Synuefe on a
+  Guardian-related site for Salvation.'
 ---
 
 <!-- AUTO-GENERATED -->

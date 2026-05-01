@@ -12,6 +12,13 @@ related_entities:
 - interstellar-communist-union
 - social-eleu-progressive-party
 inara_url: https://inara.cz/elite/minorfaction/?search=The%20Sovereign
+bio: 'The Sovereign is a organization active in Elite Dangerous lore from 3302-06-02
+  to 3308-09-15. Frequently associated with Social Eleu Progressive Party, Interstellar
+  Communist Union, GalCop. Key activities include: A grassroots xeno-peace movement
+  gains traction following the Battle of HIP 22460, promoting diplomatic dialogue
+  with Thargoids through media figur...; Xeno-peace activist Timothy Culver argues
+  that Thargoid incursions are defensive reprisals for the Proteus Wave and mycoid
+  bioweapon, calling for d...'
 ---
 
 

@@ -12,6 +12,13 @@ related_entities:
 - emperors-grace
 - hr-706
 inara_url: https://inara.cz/elite/minorfaction/?search=Silver%20Allied%20Network
+bio: Silver Allied Network is a media in the Elite Dangerous universe, active from
+  3301-04-20 to 3301-04-27. Frequently linked with Mictlan, Nehet, Emperor's Grace.
+  There, investigators found a rogue division of the LTT 9810 Silver Allied Network
+  had been providing financial consultancy to Imperial crime families. Forensic accountants
+  working for Princess Arissa Lavigny-Duval uncovered that rogue members of Silver
+  Allied Network channelled attack funds through Silver Universal Plc to an account
+  in HR 706.
 ---
 
 

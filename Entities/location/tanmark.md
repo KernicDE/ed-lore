@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Tanmark
 inara_url: https://inara.cz/elite/starsystem/?search=Tanmark
+bio: 'Tanmark is a system in Elite Dangerous, significant from 3301-02-24 to 3307-07-12.
+  Associated with Defence Force of Tanmark. Notable events include: The Canonn Interstellar
+  Research Group decoded part of the transmissions from Unknown Artefacts (AEOs),
+  discovering they contain schematic diagrams...; The Defence Force of Tanmark and
+  the Farmers Union of Kappa Fornacis announced success in increasing local Lucan
+  Onionhead production.'
 ---
 
 

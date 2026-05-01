@@ -12,6 +12,11 @@ related_entities:
 - sirius-corporation
 - pegasi-sector-pn-t-c3-14
 inara_url: https://inara.cz/elite/minorfaction/?search=Kumo%20Crew
+bio: 'Kumo Crew is a criminal active in Elite Dangerous lore from 3301-05-14 to 3310-08-22.
+  Frequently associated with Alliance, Harma, California Nebula. Key activities include:
+  Pirate warlord Archon Delaine has unexpectedly appeared at The diplomatic conference
+  and demanded to participate as a political delegate.; Thargoid forces invade the
+  Delphi system and multiple systems in the California, Coalsack and Pleiades Nebulas.'
 ---
 
 

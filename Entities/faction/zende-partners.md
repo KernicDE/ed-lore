@@ -10,6 +10,12 @@ related_entities:
 - segnen-exchange
 - zende
 inara_url: https://inara.cz/elite/minorfaction/?search=Zende%20Partners
+bio: 'Zende Partners is a organization active in Elite Dangerous lore from 3305-04-29
+  to 3305-05-30. Frequently associated with Synuefe EN-H d11-96, Segnen Exchange,
+  Zende. Key activities include: Zende Partners launches a weekly megaship transport
+  service from Zende to Synuefe EN-H d11-96, establishing The Prospect outpost in
+  Guardian space ...; Zende Partners calls for increased deliveries of Guardian commodities
+  to The Prospect in Synuefe EN-H d11-96, seeking to secure a technology broker...'
 ---
 
 

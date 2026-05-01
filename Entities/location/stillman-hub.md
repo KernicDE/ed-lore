@@ -11,6 +11,9 @@ related_entities:
 - nmla
 - pilots-federation
 - marlinism-reformation-party
+bio: Stillman Hub is a star system in the Elite Dangerous universe, significant from
+  3307-07-15 to 3308-04-21. The NMLA bombs Stillman Hub in HIP 22550 and Tilman Point
+  in Hyades Sector RO-P b6-6, killing tens of thousands.
 ---
 
 <!-- AUTO-GENERATED -->

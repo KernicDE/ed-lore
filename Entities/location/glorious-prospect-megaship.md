@@ -11,6 +11,8 @@ related_entities:
 - taurus-mining-ventures
 - pmd2009-48
 - archimedes-megaship
+bio: Glorious Prospect megaship is a star system in the Elite Dangerous universe,
+  significant from 3307-06-18 to 3307-07-01. Associated with Aegis, Pilots Federation.
 ---
 
 <!-- AUTO-GENERATED -->

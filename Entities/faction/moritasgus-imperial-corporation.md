@@ -12,6 +12,11 @@ related_entities:
 - iiss
 - utopia
 inara_url: https://inara.cz/elite/minorfaction/?search=Moritasgus%20Imperial%20Corporation
+bio: Moritasgus Imperial Corporation is a corporate in the Elite Dangerous universe,
+  active from 3304-05-11 to 3304-05-20. Frequently linked with Veroklist, Vaucouleurs
+  Vision, Aegis. The Moritasgus Imperial Corporation successfully completed a commodities
+  appeal in Veroklist. The ship will house criminals who accepted Imperial slavery
+  but proved too dangerous for corrective punishment.
 ---
 
 

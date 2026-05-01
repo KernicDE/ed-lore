@@ -24,6 +24,10 @@ economy: Extraction
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=LAWD%2026
 inara_url: https://inara.cz/elite/starsystem/?search=LAWD%2026
+bio: LAWD 26 is a star system in the Elite Dangerous universe, significant from 3301-02-16
+  to 3301-02-28. A metal rush has begun in LAWD 26 after the discovery of a pristine
+  mining site by the late prospector Hank Stone. The ship's owner, Hank Stone, had
+  spent the last month mining precious metals in the LAWD 26 system.
 ---
 
 

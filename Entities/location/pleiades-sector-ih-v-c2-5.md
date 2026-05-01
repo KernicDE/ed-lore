@@ -24,6 +24,8 @@ economy: Military
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20IH-V%20c2-5
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20IH-V%20c2-5
+bio: Pleiades Sector IH-V c2-5 is a star system in the Elite Dangerous universe, significant
+  from 3302-09-22 to 3307-12-21. Associated with Pleiades Resource Enterprise.
 ---
 
 

@@ -12,6 +12,11 @@ related_entities:
 - federal-navy
 - cobra-wing
 inara_url: https://inara.cz/elite/minorfaction/?search=Church%20of%20Eternal%20Void
+bio: 'Church of Eternal Void is a religious active in Elite Dangerous lore from 3304-07-12
+  to 3304-10-10. Frequently associated with Far God cult. Key activities include:
+  The Church of Eternal Void, which worships the Guardians, declares war on the Far
+  God cult.; Weekly summary covering Admiral Varma''s arrest, the Church of Eternal
+  Void declaring war on the Far God cult, Aisling Duval''s wedding date announce...'
 ---
 
 

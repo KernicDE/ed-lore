@@ -11,6 +11,18 @@ related_entities:
 - imperial-senate
 - imperial-herald
 - imperial-navy
+coords:
+  x: 67.5
+  y: -119.46875
+  z: 24.84375
+population: 16380054761
+allegiance: Empire
+government: Patronage
+edsm_url: https://www.edsm.net/en/system?search=Achenar
+bio: 'Capitol is a system in Elite Dangerous, significant from 3301-03-12 to 3311-04-08.
+  Associated with Imperial Palace. Notable events include: Historian Sima Kalhana
+  covers the Empire''s founding.; Historian Sima Kalhana covers the first Federation-Achenar
+  war (2323-2325).'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Mu%20Koji
 inara_url: https://inara.cz/elite/starsystem/?search=Mu%20Koji
+bio: 'Mu Koji is a system in Elite Dangerous, significant from 3302-09-08 to 3302-10-04.
+  Associated with Kalana Independents, Xuangu Crimson Major Network, Mu Koji Resistance.
+  Notable events include: The Empire and Federation have launched rival military operations
+  in the Mu Koji system, with the Xuangu Crimson Major Network and Mu Koji Resistan...;
+  The Xuangu Crimson Major Network has announced the successful conclusion of an Imperial
+  operation to recover intelligence from Federal convoys in t...'
 ---
 
 

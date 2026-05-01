@@ -12,6 +12,12 @@ related_entities:
 - free-marlinist-movement
 - marlinist-parliament
 inara_url: https://inara.cz/elite/minorfaction/?search=Marlinism%20Reformation%20Party
+bio: 'Marlinism Reformation Party is a organization active in Elite Dangerous lore
+  from 3307-04-16 to 3307-07-29. Frequently associated with Marlinist Colonies, NMLA.
+  Key activities include: Survivors of the defeated Neo-Marlinist Order of Mudhrid
+  arrive in the Marlinist Colonies aboard the Steel Majesty, requesting asylum.; Senator
+  Lorcan Scordato negotiates a conditional amnesty for the Neo-Marlinist Order of
+  Mudhrid.'
 ---
 
 

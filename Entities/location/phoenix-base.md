@@ -11,6 +11,12 @@ related_entities:
 - sirius-corporation
 - mars
 - federal-security-service
+bio: 'Phoenix Base is a outpost in Elite Dangerous, significant from 3302-12-02 to
+  3304-11-30. Associated with Meene Defence Force, Sirius Corporation. Notable events
+  include: Weekly summary covering Gibson Kincaid''s re-election as Alliance President,
+  the foiled raid on Ram Tah''s Phoenix Base, the FSS targeting The Mars T...; Weekly
+  summary covering the Alliance Assembly''s decision to create the Office of the Alliance
+  President without executive powers, Sirius Corporatio...'
 ---
 
 <!-- AUTO-GENERATED -->

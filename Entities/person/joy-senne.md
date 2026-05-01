@@ -6,6 +6,12 @@ first_seen_date: '3308-07-13'
 last_seen_date: '3309-02-07'
 mention_count: 9
 inara_url: https://inara.cz/elite/cmdr-search/?search=Joy%20Senne
+bio: 'Joy Senne is a Diplomat in Elite Dangerous lore, active from 3308-07-13 to 3309-02-07.
+  Affiliated with Alliance. Notable activities include: Vox Galactica reports from
+  the front lines as coalition forces battle Thargoid swarms while Salvation''s superweapon
+  nears completion.; A grassroots xeno-peace movement gains traction following the
+  Battle of HIP 22460, promoting diplomatic dialogue with Thargoids through media
+  figur...'
 ---
 
 

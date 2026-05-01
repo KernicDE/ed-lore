@@ -12,6 +12,12 @@ related_entities:
 - harma
 - kamadhenu
 inara_url: https://inara.cz/elite/minorfaction/?search=Velites%20Squadron
+bio: Velites Squadron is a organization in the Elite Dangerous universe, active from
+  3301-07-08 to 3301-07-29. Frequently linked with Lavigny's Legion, Kumo Crew, Harma.
+  Lavigny's Legion deployed to assist Patreus's forces, with the Velites Squadron
+  spearheading operations code-named 'Charybdis' and 'Davy Jones' in Cuchua and Harma.
+  He proposed training wings for what became the Velites Squadron, known for stealthy
+  precision strikes.
 ---
 
 

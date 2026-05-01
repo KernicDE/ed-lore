@@ -12,6 +12,12 @@ related_entities:
 - alioth
 - donaldson-starport
 inara_url: https://inara.cz/elite/minorfaction/?search=Alliance%20Council%20of%20Admirals
+bio: Alliance Council of Admirals is a government in the Elite Dangerous universe,
+  active from 3303-01-26 to 3304-11-21. Frequently linked with Alliance, Alioth, League
+  of Reparation. Admiral George Varma of the Alliance Council of Admirals is arrested
+  by the League of Reparation taskforce at Donaldson starport in Alioth. Seutonia
+  accuses Varma of redirecting Alliance Defence Force cargo to terrorist cells and
+  being Nexus.
 ---
 
 

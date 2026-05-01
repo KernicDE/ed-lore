@@ -10,6 +10,12 @@ related_entities:
 - lft-37-system
 - diamond-frogs
 inara_url: https://inara.cz/elite/minorfaction/?search=Paladin%20Consortium
+bio: Paladin Consortium is a organization in the Elite Dangerous universe, active
+  from 3302-02-04 to 3302-02-11. Frequently linked with LFT 37 system, Onnes Gateway,
+  Diamond Frogs. The Paladin Consortium liberated Imperial slaves at Onnes Gateway
+  in LFT 37 but bureaucratic delays prevent them from legally obtaining housing or
+  employment. The Consortium appeals for water purifiers to ensure basic sanitation
+  while awaiting official release.
 ---
 
 

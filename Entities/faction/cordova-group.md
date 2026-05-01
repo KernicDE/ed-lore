@@ -12,6 +12,12 @@ related_entities:
 - meene
 - federal-times
 inara_url: https://inara.cz/elite/minorfaction/?search=Cordova%20Group
+bio: 'Cordova Group is a organization active in Elite Dangerous lore from 3304-09-06
+  to 3304-11-24. Frequently associated with Mars, Mars Tribune, Federal Security Service.
+  Key activities include: Weekly summary covering Gibson Kincaid''s re-election as
+  Alliance President, the foiled raid on Ram Tah''s Phoenix Base, the FSS targeting
+  The Mars T...; Weekly summary covering the Alliance Assembly''s decision to create
+  the Office of the Alliance President without executive powers, Sirius Corporatio...'
 ---
 
 

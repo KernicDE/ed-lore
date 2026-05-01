@@ -24,6 +24,12 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Santa%20Muerte
 inara_url: https://inara.cz/elite/starsystem/?search=Santa%20Muerte
+bio: 'Santa Muerte is a system in Elite Dangerous, significant from 3301-12-22 to
+  3303-01-05. Associated with Clauss Incorporated. Notable events include: Clauss
+  Incorporated CEO Nicolas St Clauss issues a public appeal for Special Gifts, asking
+  pilots to transport them from Frost Dock in Njambalba to...; Clauss Incorporated''s
+  appeal for Special Gifts concludes successfully, with hundreds of pilots transporting
+  commodities from Frost Dock in Njambalb...'
 ---
 
 

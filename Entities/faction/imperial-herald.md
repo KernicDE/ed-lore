@@ -12,6 +12,11 @@ related_entities:
 - aegis
 - imperial-palace
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Herald
+bio: 'Imperial Herald is a media active in Elite Dangerous lore from 3301-05-06 to
+  3311-03-13. Frequently associated with Capitol, Alliance. Key activities include:
+  Senator Kahina Tijani Loren of Prism has disappeared from her Imperial suite on
+  Capitol.; The Federation''s appeal for construction materials concluded successfully,
+  with thousands of tonnes delivered to Obsidian Orbital for a new outpost...'
 ---
 
 

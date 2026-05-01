@@ -11,6 +11,11 @@ related_entities:
 - imperial-herald
 - alliance
 - federation
+bio: Avalon shipyards is a star system in the Elite Dangerous universe, significant
+  from 3301-05-02 to 3301-07-21. Associated with Imperial Herald. Leaked images from
+  the Avalon shipyards suggest Senator Kahina Tijani Loren's Imperial Courier 'Seven
+  Veils' is undergoing significant upgrades to drives, shields and frame-shift drive
+  components.
 ---
 
 <!-- AUTO-GENERATED -->

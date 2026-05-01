@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Harma
 inara_url: https://inara.cz/elite/starsystem/?search=Harma
+bio: 'Harma is a system in Elite Dangerous, significant from 3301-06-03 to 3309-07-20.
+  Associated with Kumo Crew, Pilots Federation. Notable events include: Azimuth requests
+  rare commodities for its business convention and offers pre-engineered AX Multi-Cannons
+  as rewards, while Corcoran criticizes the ...; Azimuth''s convention succeeds and
+  the new Overcharged Gimballed AX Multi-Cannon with Auto Loader is released, with
+  speculation about Holloway Biosc...'
 ---
 
 

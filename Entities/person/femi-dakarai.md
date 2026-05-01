@@ -6,6 +6,10 @@ first_seen_date: '3302-08-12'
 last_seen_date: '3302-11-19'
 mention_count: 4
 inara_url: https://inara.cz/elite/cmdr-search/?search=Femi%20Dakarai
+bio: Femi Dakarai is a prominent figure in the Elite Dangerous universe, active from
+  3302-08-12 to 3302-11-19. Closely associated with MetaDrive Inc., BigSix, Gutamaya.
+  Femi Dakarai, chairman of hyperdrive-research company MetaDrive Inc., has passed
+  away in the Chi Orionis system following a short illness attributed to overwork.
 ---
 
 

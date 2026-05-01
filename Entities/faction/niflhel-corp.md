@@ -12,6 +12,11 @@ related_entities:
 - alliance-interpol
 - league-of-reparation
 inara_url: https://inara.cz/elite/minorfaction/?search=Niflhel%20Corp
+bio: Niflhel Corp is a corporate in the Elite Dangerous universe, active from 3304-06-15
+  to 3304-06-24. Frequently linked with Biruni Port, Niflhel, Rackham Capital Investments.
+  The Niflhel Corp places an open order for Cobalt, Semiconductors and Synthetic Fabrics,
+  to be delivered to Biruni Port in the Niflhel system. Hundreds of pilots delivered
+  commodities to Biruni Port in the Niflhel system and protected traders.
 ---
 
 

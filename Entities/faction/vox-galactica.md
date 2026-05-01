@@ -12,6 +12,13 @@ related_entities:
 - far-god-cult
 - core-dynamics
 inara_url: https://inara.cz/elite/minorfaction/?search=Vox%20Galactica
+bio: 'Vox Galactica is a organization active in Elite Dangerous lore from 3304-09-12
+  to 3312-04-30. Frequently associated with Pilots Federation, Interstellar Health
+  Organisation. Key activities include: The second Distant Worlds expedition prepares
+  to launch, with nearly four thousand Commanders set to travel over 200,000 light
+  years through the ga...; Independent pilots report receiving anonymous instructions
+  from a figure calling himself "Salvation," who provides a decryption key for the
+  Adamast...'
 ---
 
 

@@ -12,6 +12,11 @@ related_entities:
 - church-of-eternal-void
 - far-god-cult
 inara_url: https://inara.cz/elite/minorfaction/?search=Cobra%20Wing
+bio: Cobra Wing is a organization in the Elite Dangerous universe, active from 3304-07-13
+  to 3304-07-22. Frequently linked with Ebor, Morris Enterprise. Cobra Wing launches
+  an initiative to build a new research outpost in the Ebor system focused on Thargoid
+  inter-species communication research. Cobra Wing announces its Ebor research outpost
+  campaign was enthusiastically received.
 ---
 
 

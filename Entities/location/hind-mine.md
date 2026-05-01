@@ -11,6 +11,12 @@ related_entities:
 - federal-navy
 - taurus-mining-ventures
 - cornsar
+bio: 'Hind Mine is a system in Elite Dangerous, significant from 3307-12-17 to 3309-01-12.
+  Associated with Azimuth Biotech, Taurus Mining Ventures. Notable events include:
+  Commodore Morag Halloran reveals that hundreds of naval officers from all three
+  superpowers and Sirius have resigned to join Salvation''s anti-xeno ...; Part two
+  traces Aegis from its 3303 creation through the Alexandria disaster, Admiral Tanner''s
+  rogue assault on Hind Mine, and its dissolution foll...'
 ---
 
 <!-- AUTO-GENERATED -->

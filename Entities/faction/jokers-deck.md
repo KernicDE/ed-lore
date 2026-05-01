@@ -12,6 +12,10 @@ related_entities:
 - wallglass-investigations-agency
 - vox-galactica
 inara_url: https://inara.cz/elite/minorfaction/?search=Jokers%27%20Deck
+bio: 'Jokers'' Deck is a organization in the Elite Dangerous universe, active from
+  3305-02-23 to 3305-03-09. Frequently linked with Diso, Ambrose Foundation, The Rewired.
+  Key milestones: Supratech rescue (3305), Joker''s Deck incident (3307), and current
+  control of HIP 87621 through October Accords.'
 ---
 
 

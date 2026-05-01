@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Kamadhenu
 inara_url: https://inara.cz/elite/starsystem/?search=Kamadhenu
+bio: 'Kamadhenu is a system in Elite Dangerous, significant from 3301-05-23 to 3310-01-04.
+  Associated with Alliance. Notable events include: *Pilots Federation ALERT* Explosions
+  have struck starports across The Alliance, Empire and Federation In a coordinated
+  bombing attack by the NMLA.; Vice President Brad Mitchell and a number of Federal
+  Cabinet members have been killed in The recent terrorist attack on a starport orbiting
+  Earth.'
 ---
 
 

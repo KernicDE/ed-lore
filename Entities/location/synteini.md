@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Synteini
 inara_url: https://inara.cz/elite/starsystem/?search=Synteini
+bio: 'Synteini is a system in Elite Dangerous, significant from 3301-03-01 to 3310-01-11.
+  Associated with Imperial Slavers Association. Notable events include: Senator Zemina
+  Torval accepted a challenge from Aisling Duval to determine whose position on slavery
+  the Empire''s citizens truly support.; The ''Great Slaver Showdown'' between Zemina
+  Torval and Aisling Duval concluded with Torval''s victory.'
 ---
 
 

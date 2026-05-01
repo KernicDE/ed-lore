@@ -17,6 +17,12 @@ coords:
   z: -1167.65625
 edsm_url: https://www.edsm.net/en/system?search=Trapezium%20Sector%20YU-X%20c1-2
 inara_url: https://inara.cz/elite/starsystem/?search=Trapezium%20Sector%20YU-X%20c1-2
+bio: 'Trapezium Sector YU-X c1-2 is a system in Elite Dangerous, significant from
+  3307-06-18 to 3309-08-17. Associated with Taurus Mining Ventures, Azimuth Biochemicals,
+  Aegis. Notable events include: Pilots discover the Proteus, an Anaconda from the
+  Hesperus, at a historical battlefield on Trapezium Sector YU-X c1-2 1a.; Aegis and
+  Taurus Mining Ventures launch rival Guardian artefact collection campaigns in PMD2009
+  48.'
 ---
 
 

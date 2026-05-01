@@ -11,6 +11,12 @@ related_entities:
 - bd03-2338
 - sirius-corporation
 - universal-cartographics
+bio: 'Hudson Dock is a starport in Elite Dangerous, significant from 3301-02-27 to
+  3301-03-19. Associated with Core Dynamics, Federal Navy, Universal Cartographics.
+  Notable events include: Core Dynamics announced a new partnership stage with the
+  Federal Navy to construct several new capital ships, with the first already under
+  construc...; Two war updates: (1) The Federal Navy-Polahukuna Raiders conflict shifted
+  as the Federation began construction of a new Farragut-class battlecruise...'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,8 @@ first_seen_date: '3309-06-16'
 last_seen_date: '3309-08-03'
 mention_count: 4
 inara_url: https://inara.cz/elite/cmdr-search/?search=Jalen%20Locke
+bio: Jalen Locke is a prominent figure in the Elite Dangerous universe, active from
+  3309-06-16 to 3309-08-03. Closely associated with Imperial Navy, Federal Navy.
 ---
 
 

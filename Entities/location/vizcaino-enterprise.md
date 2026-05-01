@@ -11,6 +11,10 @@ related_entities:
 - arawere
 - diaguandri
 - harma
+bio: Vizcaino Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3302-01-04 to 3302-02-24. Technical issues at Gabriel Enterprise in the Harma
+  system have worsened, leading to suspension of all services except docking and shipyard
+  access.
 ---
 
 <!-- AUTO-GENERATED -->

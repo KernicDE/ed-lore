@@ -11,6 +11,12 @@ related_entities:
 - polevnic
 - neris
 - hip-117972
+bio: Lobachevsky Station is a starport in the Elite Dangerous universe, significant
+  from 3301-06-06 to 3301-06-14. Associated with Utopia. Utopia requires approximately
+  30 million tonnes of assorted metals monthly and offers bonuses to traders who deliver
+  large supplies to Lobachevsky Station in Antal. He affirmed 'our goods are for sale,
+  but our integrity is not.' Utopia continues seeking large metal supplies delivered
+  to Lobachevsky Station.
 ---
 
 <!-- AUTO-GENERATED -->

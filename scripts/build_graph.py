@@ -362,7 +362,7 @@ def build() -> dict[str, Any]:
             for key in ["coords", "allegiance", "government", "controlling_faction",
                         "population", "security", "economy", "second_economy",
                         "edsm_url", "inara_url", "parent_arc", "summary", "description",
-                        "status", "outcome", "phases", "key_entities"]:
+                        "status", "outcome", "phases", "key_entities", "bio"]:
                 if key in fm and fm[key] is not None:
                     rec[key] = fm[key]
 

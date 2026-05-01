@@ -11,6 +11,12 @@ related_entities:
 - turner-research-group
 - coalsack-nebula
 - pilots-federation
+bio: 'California Nebula is a region in Elite Dangerous, significant from 3302-06-07
+  to 3309-03-09. Associated with Alliance, Kumo Crew, Turner Research Group. Notable
+  events include: Dr Arcanonn lauds Commander Wobblytickle''s discovery of barnacles
+  in the California Nebula while expressing concern over the loss of several barnac...;
+  Weekly summary covering the dismantling of the League of Reparation and Riri McAllister''s
+  arrest, the Church of Eternal Void being declared illegal...'
 ---
 
 <!-- AUTO-GENERATED -->

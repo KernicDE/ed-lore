@@ -12,6 +12,12 @@ related_entities:
 - synuefai-lx-r-d5-28
 - bd22-4939
 inara_url: https://inara.cz/elite/minorfaction/?search=Spinward%20Marches%20Alliance%20Concern
+bio: Spinward Marches Alliance Concern is a organization in the Elite Dangerous universe,
+  active from 3302-04-28 to 3303-11-17. Frequently linked with Alliance, Morrina system,
+  Beaumont Dock. The Spinward Marches Alliance Concern's humanitarian campaign for
+  the Morrina system concludes successfully. Senior operative Saool Aledon stated
+  they want to leverage their expertise to support Alliance operations far from the
+  core systems.
 ---
 
 

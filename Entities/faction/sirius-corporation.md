@@ -12,6 +12,12 @@ related_entities:
 - utopia
 - reorte
 inara_url: https://inara.cz/elite/minorfaction/?search=Sirius%20Corporation
+bio: 'Sirius Corporation is a corporation active in Elite Dangerous lore from 3301-02-23
+  to 3311-07-17. Frequently associated with Alliance, Aegis. Key activities include:
+  This week''s major stories include Aegis publishing a Thargoid report based on Ram
+  Tah''s decrypted Guardian logs, revealing the two species'' ancient...; Weekly summary
+  covering the Alliance Assembly''s decision to create the Office of the Alliance
+  President without executive powers, Sirius Corporatio...'
 ---
 
 

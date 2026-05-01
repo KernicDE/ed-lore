@@ -12,6 +12,12 @@ related_entities:
 - league-of-reparation
 - alliance
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Internal%20Security%20Service
+bio: 'Imperial Internal Security Service is a organization active in Elite Dangerous
+  lore from 3301-06-08 to 3312-02-10. Frequently associated with NMLA, Capitol, Emperor''s
+  Dawn. Key activities include: Princess Aisling Duval revealed that some of Chancellor
+  Anders Blaine''s advisors had connections to Emperor''s Dawn, the same insurgent
+  group linked...; A leaked internal document from Emperor''s Dawn revealed the group''s
+  radical agenda: demanding the right to appoint a new Emperor, disbanding the Im...'
 ---
 
 

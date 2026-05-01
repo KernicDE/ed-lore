@@ -11,6 +11,12 @@ related_entities:
 - imperial-naval-infantry
 - imperial-guard
 - imperial-intelligence-security-service
+bio: 'Hall of Martyrs is a system in Elite Dangerous, significant from 3301-08-06
+  to 3304-08-03. Associated with Imperial Palace, Imperial Naval Infantry, Imperial
+  Guard. Notable events include: Chancellor Anders Blaine declared the beginning of
+  the four-week official mourning period for Emperor Hengist Duval.; Senator Patreus
+  and his followers endured abuse on Capitol over his connection to assassin Brendan
+  Paul Darius.'
 ---
 
 <!-- AUTO-GENERATED -->

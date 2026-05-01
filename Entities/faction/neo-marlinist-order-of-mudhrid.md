@@ -12,6 +12,12 @@ related_entities:
 - epsilon-fornacis-empire-group
 - alliance
 inara_url: https://inara.cz/elite/minorfaction/?search=Neo-Marlinist%20Order%20of%20Mudhrid
+bio: 'Neo-Marlinist Order of Mudhrid is a religious active in Elite Dangerous lore
+  from 3307-04-01 to 3307-12-29. Frequently associated with NMLA, Mudhrid, Epsilon
+  Fornacis Empire Group. Key activities include: The Epsilon Fornacis Empire Group
+  attacks the Neo-Marlinist Order of Mudhrid after ACT confirms the faction provided
+  logistical support for the NML...; The Neo-Marlinist Order of Mudhrid is defeated
+  in the Mudhrid system by Imperial forces.'
 ---
 
 

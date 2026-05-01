@@ -11,6 +11,9 @@ related_entities:
 - halbangaay
 - 64-arietis
 - arawere
+bio: Haack Gateway is a star system in the Elite Dangerous universe, significant from
+  3302-01-20 to 3302-05-20. Ackerman Market, Gabriel Enterprise, Weyn Dock, and Onnes
+  Gateway are now fully operational, while other stations remain affected.
 ---
 
 <!-- AUTO-GENERATED -->

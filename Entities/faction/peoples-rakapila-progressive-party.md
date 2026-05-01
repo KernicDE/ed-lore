@@ -10,6 +10,11 @@ related_entities:
 - stone-enterprise
 - supratech
 inara_url: https://inara.cz/elite/minorfaction/?search=People%27s%20Rakapila%20Progressive%20Party
+bio: People's Rakapila Progressive Party is a organization in the Elite Dangerous
+  universe, active from 3303-06-30 to 3305-02-07. Frequently linked with Rakapila,
+  Stone Enterprise, Supratech. The People's Rakapila Progressive Party has issued
+  a request for domestic appliances, consumer technology and clothing to stimulate
+  the Rakapila system's economy following a population spike.
 ---
 
 

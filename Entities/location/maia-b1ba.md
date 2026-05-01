@@ -11,6 +11,10 @@ related_entities:
 - maia-system
 - canonn-interstellar-research-group
 - maia
+bio: Maia b1ba is a star system in the Elite Dangerous universe, significant from
+  3302-02-07 to 3302-02-15. Associated with Palin Institute. Professor Ishmael Palin
+  reassures the public that his research outpost on Maia b1ba will proceed despite
+  delays. Professor Ishmael Palin and his team have disappeared en route to Maia b1ba.
 ---
 
 <!-- AUTO-GENERATED -->

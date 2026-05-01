@@ -24,6 +24,11 @@ economy: High Tech
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Shinrarta%20Dezhra
 inara_url: https://inara.cz/elite/starsystem/?search=Shinrarta%20Dezhra
+bio: 'Shinrarta Dezhra is a system in Elite Dangerous, significant from 3302-07-29
+  to 3310-11-25. Associated with Aegis, Sirius Corporation, Azimuth. Notable events
+  include: A Thargoid invasion fleet emerges in Shinrarta Dezhra, catching AX forces
+  by surprise.; The Thargoid invasion fleet in Shinrarta Dezhra is successfully repelled,
+  with acting starport commander Florian Baljak praising the thousands of C...'
 ---
 
 

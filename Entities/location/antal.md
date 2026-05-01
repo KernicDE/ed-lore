@@ -24,6 +24,10 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Antal
 inara_url: https://inara.cz/elite/starsystem/?search=Antal
+bio: 'Antal is a system in Elite Dangerous, significant from 3301-06-06 to 3301-08-01.
+  Associated with Utopia. Notable events include: Utopia''s compound on Antal has
+  long displayed technology years ahead of its time.; Profile of Simguru Pranav Antal,
+  heir to Rishi Antal''s legacy of transcendental technology.'
 ---
 
 

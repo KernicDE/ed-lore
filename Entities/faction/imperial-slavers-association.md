@@ -12,6 +12,12 @@ related_entities:
 - future-of-synteini
 - william-sargent-vision
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Slavers%20Association
+bio: 'Imperial Slavers Association is a organization active in Elite Dangerous lore
+  from 3301-03-01 to 3301-06-13. Frequently associated with Lagerkvist Gateway, Synteini.
+  Key activities include: Senator Zemina Torval defeated Aisling Duval in their slavery
+  wager, with the Imperial Slavers Association acquiring 2,387,567 unregulated slaves
+  c...; The ''Great Slaver Showdown'' between Zemina Torval and Aisling Duval concluded
+  with Torval''s victory.'
 ---
 
 

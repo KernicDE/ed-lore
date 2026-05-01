@@ -11,6 +11,9 @@ related_entities:
 - sirius-corporation
 - sirius-atmospherics
 - core-dynamics
+bio: Ashby City is a star system in the Elite Dangerous universe, significant from
+  3301-02-14 to 3307-06-24. Traders at Ashby City in Luyten's Star reported pilots
+  performing dangerous manoeuvres through docking slots and around stations.
 ---
 
 <!-- AUTO-GENERATED -->

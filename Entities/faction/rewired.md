@@ -12,6 +12,11 @@ related_entities:
 - socho
 - alliance-interpol
 inara_url: https://inara.cz/elite/minorfaction/?search=Rewired
+bio: 'Rewired is a organization active in Elite Dangerous lore from 3302-06-16 to
+  3304-07-08. Frequently associated with INRA. Key activities include: The Socho system,
+  headquarters of Aegis Core, has been overtaken by the Socho Gold Raiders criminal
+  faction.; Independent journalist Flint ''Firemaker'' Lafosse publishes a theory
+  linking the League of Reparation to unsolved homicides going back one to five y...'
 ---
 
 

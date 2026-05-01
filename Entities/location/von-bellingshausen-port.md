@@ -11,6 +11,10 @@ related_entities:
 - halbangaay
 - 64-arietis
 - arawere
+bio: von Bellingshausen Port is a starport in the Elite Dangerous universe, significant
+  from 3302-01-20 to 3302-05-20. The technological plague continues to affect starports
+  across inhabited space. Multiple starports have suspended services or are experiencing
+  technical issues due to Unknown Artefact interference.
 ---
 
 <!-- AUTO-GENERATED -->

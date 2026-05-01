@@ -11,6 +11,12 @@ related_entities:
 - warkushanui
 - weyn-dock
 - canonn-interstellar-research-group
+bio: 'Bond Hub is a system in Elite Dangerous, significant from 3301-11-02 to 3302-04-22.
+  Associated with Canonn Interstellar Research Group. Notable events include: Professor
+  D Luffy at Bond Hub in the Varati system appeals for meta-alloys to reverse the
+  technological plague affecting stations.; Dr Arcanonn of the Canonn Interstellar
+  Research Group urges pilots to stop selling Unknown Artefacts, citing a strong correlation
+  between UA sales ...'
 ---
 
 <!-- AUTO-GENERATED -->

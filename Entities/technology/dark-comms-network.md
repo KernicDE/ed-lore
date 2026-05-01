@@ -6,6 +6,10 @@ first_seen_date: '3307-04-23'
 last_seen_date: '3307-07-26'
 mention_count: 4
 inara_url: https://inara.cz/elite/commodity/?search=Dark-comms%20network
+bio: Dark-comms network is a technology in the Elite Dangerous universe, mentioned
+  from 3307-04-23 to 3307-07-26. Developed or used by NMLA, Zachary Hudson, Felicia
+  Winters. Senior Agent Tanya Ramirez reports no significant breakthroughs due to
+  the NMLA's dark-comms network and compartmentalised cells.
 ---
 
 

@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Heike
 inara_url: https://inara.cz/elite/starsystem/?search=Heike
+bio: 'Heike is a system in Elite Dangerous, significant from 3301-07-29 to 3305-09-05.
+  Notable events include: Medical personnel at Hart Station praised 765 independent
+  pilots who delivered medicines to the Bast system.; The Buckyball Racing Club is
+  hosting a tribute race at Hart Station in the Bast system to honour the independent
+  pilots who helped discover and dis...'
 ---
 
 

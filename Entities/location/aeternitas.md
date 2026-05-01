@@ -24,6 +24,13 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Aeternitas
 inara_url: https://inara.cz/elite/starsystem/?search=Aeternitas
+bio: Aeternitas is a star system in the Elite Dangerous universe, significant from
+  3302-12-08 to 3304-06-10. Associated with Aeternitas Industries, INRA, League of
+  Reparation. Aeternitas Industries has issued a kill order on wanted ships in the
+  Aeternitas system to counter a sharp rise in criminal activity disrupting trade
+  and attacking pilots. Aeternitas Industries has successfully cleared the Aeternitas
+  system of agitators with the help of hundreds of pilots, and rewards are now available
+  at Houtman City.
 ---
 
 

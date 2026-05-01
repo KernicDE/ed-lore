@@ -12,6 +12,11 @@ related_entities:
 - phoenix-base
 - imperial-internal-security-service
 inara_url: https://inara.cz/elite/minorfaction/?search=HIP%2029241%20Green%20Party
+bio: HIP 29241 Green Party is a organization in the Elite Dangerous universe, active
+  from 3304-11-08 to 3304-11-17. Frequently linked with Meene Defence Force, Meene,
+  Felice Dock. The HIP 29241 Green Party oversees the initiative. The HIP 29241 Green
+  Party announces the successful conclusion of its escape pod recovery operation in
+  the Meene system.
 ---
 
 

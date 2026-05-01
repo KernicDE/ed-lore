@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Kausalya
 inara_url: https://inara.cz/elite/starsystem/?search=Kausalya
+bio: Kausalya is a star system in the Elite Dangerous universe, significant from 3301-12-16
+  to 3302-04-29. Associated with Emperor's Dawn, Federal Navy. Senator Denton Patreus
+  revealed that Emperor's Dawn has survived the Federal Navy's destruction of its
+  Kausalya base through secret 'shadow' cells in the Dakshmandi, Ipilyaqa, and Ch'i
+  Lin systems.
 ---
 
 

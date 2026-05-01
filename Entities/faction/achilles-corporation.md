@@ -12,6 +12,13 @@ related_entities:
 - supratech
 - sirius-corporation
 inara_url: https://inara.cz/elite/minorfaction/?search=Achilles%20Corporation
+bio: 'Achilles Corporation is a corporation active in Elite Dangerous lore from 3304-08-17
+  to 3307-12-17. Frequently associated with Federal Security Service, Herculean Machines,
+  Federal Times. Key activities include: Weekly summary covering Dr Alfred Ulyanov''s
+  comments on abandoned Far God outposts in the Etain system, Aegis''s breakthrough
+  neutralising Thargoid ...; Weekly summary covering Fazia Silva''s murder during
+  the Alliance presidential race, Herculean Machines'' dominant performance at the
+  Rackham Ultrate...'
 ---
 
 

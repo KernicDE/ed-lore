@@ -23,6 +23,12 @@ economy: Agriculture
 second_economy: Service
 edsm_url: https://www.edsm.net/en/system?search=California%20Sector%20BV-Y%20c7
 inara_url: https://inara.cz/elite/starsystem/?search=California%20Sector%20BV-Y%20c7
+bio: California Sector BV-Y c7 is a star system in the Elite Dangerous universe, significant
+  from 3303-05-05 to 3304-01-05. Associated with Alliance, Turner Research Group.
+  The Alliance announced plans to construct a new outpost in the California Nebula,
+  supported by the Turner Research Group, with an open order for construction materials.
+  The Alliance's appeal for construction materials for a new California Nebula outpost
+  concluded successfully with massive pilot support.
 ---
 
 

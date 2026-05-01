@@ -23,6 +23,12 @@ security: Medium
 economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Themiscrya
 inara_url: https://inara.cz/elite/starsystem/?search=Themiscrya
+bio: Themiscrya is a star system in the Elite Dangerous universe, significant from
+  3301-03-31 to 3301-04-08. Associated with Nationals of Themiscrya, Silver Universal
+  PLC. Senator Denton Patreus has demanded repayment of a heavy debt from the Nationals
+  of Themiscrya, who borrowed from him last year to initiate regime change. Senator
+  Patreus reached a new debt agreement with Themiscrya, while Silver Universal PLC
+  announced interest rate hikes on outstanding debts.
 ---
 
 

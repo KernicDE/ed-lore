@@ -12,6 +12,11 @@ related_entities:
 - chukchan
 - wallglass-investigations-agency
 inara_url: https://inara.cz/elite/minorfaction/?search=Scriveners%20Clan
+bio: 'Scriveners Clan is a organization active in Elite Dangerous lore from 3307-04-27
+  to 3308-06-23. Frequently associated with Orion University, Azimuth Biochemicals,
+  Perseus Dark Region KC-V c2-2. Key activities include: Francesca Wolfe details the
+  discovery of the Hesperus alongside the Scriveners Clan dredger in the Perseus Dark
+  Region.; Pilots report new contact from ''Salvation'' near the Hesperus and Adamastor.'
 ---
 
 

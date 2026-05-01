@@ -12,6 +12,10 @@ related_entities:
 - colonia-hub
 - federal-intelligence-agency
 inara_url: https://inara.cz/elite/minorfaction/?search=The%20Federal%20Times
+bio: The Federal Times is a media in the Elite Dangerous universe, active from 3304-06-20
+  to 3308-09-15. Frequently linked with True Chapters, HIP 22460, Rackham Capital
+  Investments. Financial journalist Bryanna Blanco of The Federal Times notes the
+  donation's curious timing before a company-wide audit, suggesting tax implications.
 ---
 
 

@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Narri
 inara_url: https://inara.cz/elite/starsystem/?search=Narri
+bio: Narri is a star system in the Elite Dangerous universe, significant from 3304-05-04
+  to 3304-05-13. Associated with Utopia, Narri Justice Party. The Utopia commune has
+  launched a project to build a military installation in the Narri system to defend
+  the Sim-Archive from potential Thargoid attack. The Narri Justice Party is overseeing
+  construction and has requested pilots deliver materials to Bobko City while protecting
+  traders from pirates.
 ---
 
 

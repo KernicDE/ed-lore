@@ -24,6 +24,8 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Minerva
 inara_url: https://inara.cz/elite/starsystem/?search=Minerva
+bio: Minerva is a star system in the Elite Dangerous universe, significant from 3311-02-20
+  to 3311-03-19. Associated with Brewer Corporation.
 ---
 
 

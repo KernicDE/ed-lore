@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: Terraforming
 edsm_url: https://www.edsm.net/en/system?search=Iapodes
 inara_url: https://inara.cz/elite/starsystem/?search=Iapodes
+bio: Iapodes is a star system in the Elite Dangerous universe, significant from 3301-11-19
+  to 3302-02-24.
 ---
 
 

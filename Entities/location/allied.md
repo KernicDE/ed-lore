@@ -11,6 +11,8 @@ related_entities:
 - alioth
 - reorte
 - rhea
+bio: Allied is a star system in the Elite Dangerous universe, significant from 3308-01-14
+  to 3309-06-12. Associated with Alliance, Sirius Corporation.
 ---
 
 <!-- AUTO-GENERATED -->

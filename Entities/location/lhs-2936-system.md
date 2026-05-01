@@ -9,6 +9,14 @@ related_entities:
 - alliance
 - lhs-2936-alliance-combine
 - fraser-orbital
+coords:
+  x: -31.6875
+  y: 55.5625
+  z: 0.5
+population: 26165555
+allegiance: Alliance
+government: Democracy
+edsm_url: https://www.edsm.net/en/system?search=LHS%202936
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,12 @@ related_entities:
 - wallglass-investigations-agency
 - fia
 - vox-galactica
+bio: 'none specified is a system in Elite Dangerous, significant from 3307-12-10 to
+  3307-12-27. Associated with Pilots Federation, GalNet. Notable events include: Evidence
+  suggests the Winking Cat has sold stolen artworks to private collectors including
+  Elias Metaxas, raising questions about the thief''s motiv...; Detective Erik Gunnarson
+  reveals the Winking Cat thief has sent a cryptic message hinting at an upcoming
+  ''hunt'' scheduled over the next three weeks.'
 ---
 
 <!-- AUTO-GENERATED -->

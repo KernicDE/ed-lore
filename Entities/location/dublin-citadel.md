@@ -11,6 +11,9 @@ related_entities:
 - gateway
 - tionisla
 - brett-high
+bio: Dublin Citadel is a star system in the Elite Dangerous universe, significant
+  from 3307-05-20 to 3307-06-25. Pilots who contributed can collect rewards from Dublin
+  Citadel.
 ---
 
 <!-- AUTO-GENERATED -->

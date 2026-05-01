@@ -24,6 +24,12 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Meene
 inara_url: https://inara.cz/elite/starsystem/?search=Meene
+bio: 'Meene is a system in Elite Dangerous, significant from 3302-11-03 to 3310-07-06.
+  Associated with Meene Defence Force, Sirius Corporation. Notable events include:
+  Weekly summary covering Gibson Kincaid''s re-election as Alliance President, the
+  foiled raid on Ram Tah''s Phoenix Base, the FSS targeting The Mars T...; Weekly
+  summary covering the Alliance Assembly''s decision to create the Office of the Alliance
+  President without executive powers, Sirius Corporatio...'
 ---
 
 

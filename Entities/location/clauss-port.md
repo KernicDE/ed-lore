@@ -11,6 +11,10 @@ related_entities:
 - santa-muerte
 - clauss-incorporated
 - santa-muerte-co-operative
+bio: Clauss Port is a starport in the Elite Dangerous universe, significant from 3301-12-22
+  to 3303-01-05. Associated with Clauss Incorporated. Clauss Incorporated concludes
+  its festive appeal to transport personal gifts from Frost Dock in Njambalba to Clauss
+  Port in Santa Muerte. CEO Nicolas St Clauss thanked participants.
 ---
 
 <!-- AUTO-GENERATED -->

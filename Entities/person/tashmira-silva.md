@@ -6,6 +6,12 @@ first_seen_date: '3304-09-14'
 last_seen_date: '3305-06-13'
 mention_count: 6
 inara_url: https://inara.cz/elite/cmdr-search/?search=Tashmira%20Silva
+bio: 'Tashmira Silva is a President in Elite Dangerous lore, active from 3304-09-14
+  to 3305-06-13. Affiliated with Alliance, Alliance Interpol. Notable activities include:
+  Weekly summary covering the conclusion of the Fazia Silva homicide investigation
+  with no convictions and Tashmira Silva assuming control of her sis...; President
+  Gibson Kincaid is removed from office by the Alliance Assembly on charges of treason,
+  murder and corruption, and is detained while attemp...'
 ---
 
 

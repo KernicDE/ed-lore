@@ -11,6 +11,11 @@ related_entities:
 - federation
 - defence-party-of-nespeleve
 - nespeleve-system
+bio: 'Maia A 3 a is a system in Elite Dangerous, significant from 3302-04-15 to 3303-09-09.
+  Associated with Palin Institute, Federation. Notable events include: Professor Ishmael
+  Palin announces his retirement from the Palin Institute, citing ''dark forces''
+  opposing his ideals.; Dr Arcanonn of the Canonn Interstellar Research Group expresses
+  solidarity with Professor Ishmael Palin''s decision to retire from the Palin Institute.'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,12 @@ related_entities:
 - alliance
 - league-of-reparation
 - unchain
+bio: Barnes Terminal is a star system in the Elite Dangerous universe, significant
+  from 3304-08-03 to 3304-08-12. Associated with Aranbarahun Purple Creative. An open
+  order is placed for various commodities to be delivered to Barnes Terminal in the
+  Aranbarahun system, with a kill order on wanted ships to protect traders. Scores
+  of pilots delivered commodities to Barnes Terminal and eliminated agitators to ensure
+  trader safety.
 ---
 
 <!-- AUTO-GENERATED -->

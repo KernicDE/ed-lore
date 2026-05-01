@@ -11,6 +11,11 @@ related_entities:
 - empire
 - alliance
 - koontz-asylum
+bio: Darnielle's Progress is a star system in the Elite Dangerous universe, significant
+  from 3302-05-27 to 3303-03-24. Business leaders at Darnielle's Progress in the Maia
+  system announce a sale of meta-alloys from their stockpile. A carefully orchestrated
+  heist steals a large quantity of meta-alloys from Darnielle's Progress in the Maia
+  system.
 ---
 
 <!-- AUTO-GENERATED -->

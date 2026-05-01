@@ -11,6 +11,10 @@ related_entities:
 - 49-arietis
 - 64-arietis
 - arawere
+bio: Coats Hub is a star system in the Elite Dangerous universe, significant from
+  3301-10-16 to 3302-02-24. Technician Sam Norris at Coats Hub reported that Gurragchaa
+  Gateway appeared to be suffering worse conditions, though stable comms could not
+  be established to confirm the extent.
 ---
 
 <!-- AUTO-GENERATED -->

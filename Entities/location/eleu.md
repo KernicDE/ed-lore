@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Eleu
 inara_url: https://inara.cz/elite/starsystem/?search=Eleu
+bio: Eleu is a star system in the Elite Dangerous universe, significant from 3301-07-14
+  to 3301-08-06. Associated with Newton Dock Medical. Chief Medical Officer Carl Simmons
+  confirmed isolated Cerberus Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed
+  to be travellers from BD-02 4304 before restrictions were imposed. Dajoar, Eleu,
+  and 20 Ophiuchi declared states of emergency due to the Cerberus Plague and called
+  on bounty hunters and combat pilots to protect relief efforts.
 ---
 
 

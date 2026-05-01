@@ -11,6 +11,8 @@ related_entities:
 - the-panjabell
 - pilots-federation
 - moore-hub
+bio: Agassiz Settlement is a outpost in the Elite Dangerous universe, significant
+  from 3307-07-19 to 3307-07-29. Associated with Order of the Far God, Pleiades Concordat.
 ---
 
 <!-- AUTO-GENERATED -->

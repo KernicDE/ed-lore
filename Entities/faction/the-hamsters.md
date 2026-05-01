@@ -12,6 +12,11 @@ related_entities:
 - sol
 - syreadiae-jx-f-c0
 inara_url: https://inara.cz/elite/minorfaction/?search=The%20Hamsters
+bio: The Hamsters is a organization in the Elite Dangerous universe, active from 3302-12-02
+  to 3303-04-27. Frequently linked with Tionisla, Children of Raxxla, Tionisla Orbital
+  Graveyard. A group called The Hamsters in the Tionisla system discovered a cryptic
+  rhyme hidden in exploration data gathered by the Children of Raxxla, sparking community
+  investigation.
 ---
 
 

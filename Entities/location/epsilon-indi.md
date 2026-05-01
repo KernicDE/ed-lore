@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Epsilon%20Indi
 inara_url: https://inara.cz/elite/starsystem/?search=Epsilon%20Indi
+bio: Epsilon Indi is a star system in the Elite Dangerous universe, significant from
+  3301-11-05 to 3302-06-17. Associated with Revolution Incorporated, Emperor's Dawn,
+  Alliance. Authorities at London Relay in Epsilon Indi report a dramatic spike in
+  smuggling linked to 'Revolution Incorporated' requesting explosives, coinciding
+  with the upcoming security summit.
 ---
 
 

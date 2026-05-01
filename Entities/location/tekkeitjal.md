@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Tekkeitjal
 inara_url: https://inara.cz/elite/starsystem/?search=Tekkeitjal
+bio: Tekkeitjal is a star system in the Elite Dangerous universe, significant from
+  3308-09-12 to 3308-09-30.
 ---
 
 

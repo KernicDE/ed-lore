@@ -11,6 +11,11 @@ related_entities:
 - oracle
 - arcs-faith
 - artemis-lodge
+bio: Titan's Daughter is a star system in the Elite Dangerous universe, significant
+  from 3303-12-02 to 3303-12-21. Associated with Aegis. The affected stations are
+  Titan's Daughter in Taygeta, Liman Legacy in HIP 16753, and the Oracle in Pleiades
+  Sector IR-W d1-55. They encouraged independent pilots to deliver food, water, basic
+  medicines, and natural fabrics to Titan's Daughter and other affected stations.
 ---
 
 <!-- AUTO-GENERATED -->

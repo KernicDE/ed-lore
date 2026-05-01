@@ -11,6 +11,11 @@ related_entities:
 - nespeleve-system
 - joint-security-taskforce
 - defence-party-of-nespeleve
+bio: 'Wilkes Orbital is a starport in Elite Dangerous, significant from 3302-02-25
+  to 3302-05-19. Associated with Blue Hand Gang. Notable events include: Governor
+  Lawrence announces the successful conclusion of the Ceremonial Heike Tea appeal
+  at Wilkes Orbital.; Professor Ishmael Palin announces his retirement from the Palin
+  Institute and plans to relocate to a research centre on Maia A 3 a to study Unknown...'
 ---
 
 <!-- AUTO-GENERATED -->

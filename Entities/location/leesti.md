@@ -24,6 +24,11 @@ economy: High Tech
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Leesti
 inara_url: https://inara.cz/elite/starsystem/?search=Leesti
+bio: 'Leesti is a system in Elite Dangerous, significant from 3301-04-03 to 3308-09-23.
+  Associated with Alliance, Sirius Corporation. Notable events include: The Reorte
+  Mining Coalition succeeds in forcing Sirius Corporation to withdraw from the Reorte
+  system.; Sirius Corporation organises humanitarian support for the Didio system
+  under Thargoid attack.'
 ---
 
 

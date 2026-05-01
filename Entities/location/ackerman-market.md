@@ -11,6 +11,11 @@ related_entities:
 - halbangaay
 - 64-arietis
 - arawere
+bio: 'Ackerman Market is a system in Elite Dangerous, significant from 3302-01-20
+  to 3302-05-20. Notable events include: The technological plague continues to affect
+  starports across inhabited space.; An Alliance of Commanders including Kermit Laphroaig,
+  ThatDamnRanga, Ollobrains, and Zenith Ddraiglas forms to saturate Ackerman Market
+  in Eravate ...'
 ---
 
 <!-- AUTO-GENERATED -->

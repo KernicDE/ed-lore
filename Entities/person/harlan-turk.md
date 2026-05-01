@@ -6,6 +6,11 @@ first_seen_date: '3305-11-15'
 last_seen_date: '3309-09-22'
 mention_count: 6
 inara_url: https://inara.cz/elite/cmdr-search/?search=Harlan%20Turk
+bio: 'Harlan Turk is a President in Elite Dangerous lore, active from 3305-11-15 to
+  3309-09-22. Affiliated with Empire. Notable activities include: The Empire and Federation
+  both deploy megaships to Upaniklis with competing proposals for the Golconda crew.;
+  The Empire and Federation launch rival initiatives to provide a new home for the
+  Golconda crew.'
 ---
 
 

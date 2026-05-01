@@ -11,6 +11,8 @@ related_entities:
 - von-bellingshausen-port
 - almar
 - haack-gateway
+bio: Bloch Vision is a star system in the Elite Dangerous universe, significant from
+  3302-02-24 to 3302-05-20.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,12 @@ related_entities:
 - azimuth-biotech
 - alliance-defence-force
 - federal-navy
+bio: 'Heart of Taurus is a system in Elite Dangerous, significant from 3308-04-07
+  to 3308-11-03. Associated with Salvation, Azimuth Biotech. Notable events include:
+  Salvation announces the Proteus Wave construction in HIP 22460, declaring it will
+  be the final battlefield to eradicate Thargoids from the galaxy, ...; Azimuth Biotech
+  requests medical and military commodity deliveries to the Heart of Taurus in HIP
+  22460 to support Proteus Wave construction and def...'
 ---
 
 <!-- AUTO-GENERATED -->

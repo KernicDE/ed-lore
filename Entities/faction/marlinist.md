@@ -12,6 +12,11 @@ related_entities:
 - sirius-corporation
 - imperial-herald
 inara_url: https://inara.cz/elite/minorfaction/?search=Marlinist
+bio: 'Marlinist is a organization active in Elite Dangerous lore from 3307-01-01 to
+  3309-03-06. Frequently associated with NMLA, Alliance. Key activities include: Edmund
+  Mahon has launched a political campaign to be elected As the Alliance’s leader for
+  a second term.; Leaders from The Alliance, Empire and Federation have agreed a series
+  of minor treaties at the diplomatic gathering in The Sirius system.'
 ---
 
 

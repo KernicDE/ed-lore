@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Sothis
 inara_url: https://inara.cz/elite/starsystem/?search=Sothis
+bio: 'Sothis is a system in Elite Dangerous, significant from 3301-09-25 to 3307-04-30.
+  Associated with Sirius Corporation. Notable events include: This week''s major stories
+  include Aegis publishing a Thargoid report based on Ram Tah''s decrypted Guardian
+  logs, revealing the two species'' ancient...; Sirius Corporation CEO Li Yong-Rui
+  announced ambitious revitalization plans for systems brought under corporate control
+  earlier in the year, includ...'
 ---
 
 

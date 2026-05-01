@@ -11,6 +11,20 @@ related_entities:
 - federal-times
 - federal-navy
 - hip-54530
+coords:
+  x: 0
+  y: 0
+  z: 0
+population: 18320926115
+allegiance: Federation
+government: Democracy
+edsm_url: https://www.edsm.net/en/system?search=Sol
+bio: 'Jupiter is a system in Elite Dangerous, significant from 3304-09-09 to 3309-10-13.
+  Associated with Core Dynamics, Alliance. Notable events include: Weekly summary
+  covering the Alliance Assembly''s agreement to vote on Kincaid''s constitutional
+  changes, the fire destroying Supratech''s facility, in...; President Zachary Hudson
+  and Shadow President Felicia Winters will both attend The diplomatic conference
+  in The Sirius system.'
 ---
 
 <!-- AUTO-GENERATED -->

@@ -9,6 +9,11 @@ related_entities:
 - yum-kamcabi
 - yum-kamcabi-purple-life-industry
 - revolutionary-patani-labour
+bio: Dirichlet Orbital is a starport in the Elite Dangerous universe, significant
+  from 3303-02-02 to 3303-04-06. Associated with Yum Kamcabi Purple Life Industry,
+  Revolutionary Patani Labour. Hundreds of pilots delivered construction materials
+  to Dirichlet Orbital. Former Federal President Jasmina Halsey appealed for relief
+  for refugees at Dirichlet Orbital in the Yum Kamcabi system.
 ---
 
 <!-- AUTO-GENERATED -->

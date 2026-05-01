@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Evejitaka
 inara_url: https://inara.cz/elite/starsystem/?search=Evejitaka
+bio: Evejitaka is a star system in the Elite Dangerous universe, significant from
+  3302-02-24 to 3302-05-20.
 ---
 
 

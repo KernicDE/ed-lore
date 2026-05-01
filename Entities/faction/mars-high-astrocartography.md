@@ -12,6 +12,8 @@ related_entities:
 - sol
 - sirius-corporation
 inara_url: https://inara.cz/elite/minorfaction/?search=Mars%20High%20Astrocartography
+bio: Mars High Astrocartography is a organization in the Elite Dangerous universe,
+  active from 3302-04-08 to 3302-12-23. Frequently linked with Beagle Point.
 ---
 
 

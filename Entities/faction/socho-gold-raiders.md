@@ -12,6 +12,12 @@ related_entities:
 - rewired
 - pilots-federation
 inara_url: https://inara.cz/elite/minorfaction/?search=Socho%20Gold%20Raiders
+bio: Socho Gold Raiders is a organization in the Elite Dangerous universe, active
+  from 3304-05-31 to 3304-08-31. Frequently linked with Aegis, Socho, Dantec Enterprise.
+  The Socho system, headquarters of Aegis Core, has been overtaken by the Socho Gold
+  Raiders criminal faction. A courier carrying a message from Aegis scientist Dr Mia
+  Valencourt escaped and broadcast an urgent plea for help, describing how the Raiders
+  faked a Thargoid signal to ambush security forces.
 ---
 
 

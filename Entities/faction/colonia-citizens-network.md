@@ -12,6 +12,12 @@ related_entities:
 - august-exodus-team
 - pilots-federation
 inara_url: https://inara.cz/elite/minorfaction/?search=Colonia%20Citizens%20Network
+bio: 'Colonia Citizens Network is a media active in Elite Dangerous lore from 3302-09-02
+  to 3303-06-04. Frequently associated with Jaques Station, Wagar''s Reach, Orio-Persean
+  Conflux. Key activities include: The August Exodus concluded with dozens of independent
+  pilots gathering outside Jaques Station in Colonia for celebrations and a race on
+  the track ...; Fungal growths have been discovered on the airless world Colonia
+  3 C A in the Colonia system.'
 ---
 
 

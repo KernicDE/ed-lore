@@ -12,6 +12,12 @@ related_entities:
 - perseus-dark-region-kc-v-c2-2
 - zaonce
 inara_url: https://inara.cz/elite/minorfaction/?search=Wallglass%20Investigations%20Agency
+bio: 'Wallglass Investigations Agency is a organization active in Elite Dangerous
+  lore from 3305-02-15 to 3309-09-18. Frequently associated with Pilots Federation.
+  Key activities include: President Gibson Kincaid is removed from office by the Alliance
+  Assembly on charges of treason, murder and corruption, and is detained while attemp...;
+  Francesca Wolfe details the discovery of the Hesperus alongside the Scriveners Clan
+  dredger in the Perseus Dark Region.'
 ---
 
 
