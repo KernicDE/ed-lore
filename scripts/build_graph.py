@@ -20,6 +20,7 @@ ARCHIVE_DIR = BASE_DIR / "Archive"
 ENTITIES_DIR = BASE_DIR / "Entities"
 ARCS_DIR = ENTITIES_DIR / "Arcs"
 OUTPUT_FILE = BASE_DIR / "lore_graph.json"
+WEBSITE_DATA_DIR = BASE_DIR / "website" / "public" / "data"
 
 MERGE_ALIASES: dict[str, str] = {
     "Sirius Corp": "Sirius Corporation",
@@ -455,6 +456,19 @@ def main() -> int:
     graph = build()
     OUTPUT_FILE.write_text(json.dumps(graph, indent=2, ensure_ascii=False), encoding="utf-8")
     print(f"Articles: {graph['meta']['article_count']}, Entities: {graph['meta']['entity_count']}, Arcs: {graph['meta']['arc_count']}")
+
+    print("Writing split JSON for async loading...")
+    WEBSITE_DATA_DIR.mkdir(parents=True, exist_ok=True)
+    meta = {
+        **graph,
+        "articles": [{k: v for k, v in a.items() if k != "body_full"} for a in graph["articles"]],
+    }
+    bodies = {a["uuid"]: a.get("body_full", "") for a in graph["articles"]}
+    (WEBSITE_DATA_DIR / "galnet-meta.json").write_text(json.dumps(meta, ensure_ascii=False), encoding="utf-8")
+    (WEBSITE_DATA_DIR / "galnet-bodies.json").write_text(json.dumps(bodies, ensure_ascii=False), encoding="utf-8")
+    print(f"  galnet-meta.json: {(WEBSITE_DATA_DIR / 'galnet-meta.json').stat().st_size // 1024}KB")
+    print(f"  galnet-bodies.json: {(WEBSITE_DATA_DIR / 'galnet-bodies.json').stat().st_size // 1024}KB")
+
     print("Writing profiles...")
     write_profiles(graph)
     print("Done.")

@@ -1,4 +1,4 @@
-import { useState, useCallback, useMemo, useEffect } from 'react';
+import { useState, useCallback, useMemo, useEffect, useRef } from 'react';
 import Timeline from './timeline/Timeline';
 import ContextPanel from './context/ContextPanel';
 import CommandConsole from './hud/CommandConsole';
@@ -13,7 +13,6 @@ interface Article {
   summary: string;
   player_impact: string;
   modern_impact: string;
-  body_full: string;
   body_preview: string;
   entities: string[];
   groups: string[];
@@ -42,19 +41,53 @@ interface Arc {
   key_entities: { id: string; mentions: number }[];
 }
 
-interface AppShellProps {
-  articles: Article[];
-  entities: Record<string, Entity>;
-  arcs: Record<string, Arc>;
-}
+const BASE = (import.meta.env.BASE_URL || '/').replace(/\/$/, '');
 
-export default function AppShell({ articles, entities, arcs }: AppShellProps) {
+export default function AppShell() {
+  const [articles, setArticles] = useState<Article[]>([]);
+  const [entities, setEntities] = useState<Record<string, Entity>>({});
+  const [arcs, setArcs] = useState<Record<string, Arc>>({});
+  const [loading, setLoading] = useState(true);
+
+  // Lazy body cache: null = not loaded, {} = loading started, {...} = loaded
+  const [bodies, setBodies] = useState<Record<string, string> | null>(null);
+  const bodiesLoading = useRef(false);
+
   const [currentDate, setCurrentDate] = useState('3312-12-31');
   const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
   const [scrollTop, setScrollTop] = useState(0);
   const [viewportHeight, setViewportHeight] = useState(800);
   const [scrollToUuid, setScrollToUuid] = useState<string | null>(null);
   const [searchOpen, setSearchOpen] = useState(false);
+
+  useEffect(() => {
+    fetch(`${BASE}/data/galnet-meta.json`)
+      .then((r) => r.json())
+      .then((data) => {
+        setArticles(data.articles);
+        setEntities(data.entities);
+        setArcs(data.arcs);
+        setLoading(false);
+      });
+  }, []);
+
+  const loadBodies = useCallback(() => {
+    if (bodies !== null || bodiesLoading.current) return;
+    bodiesLoading.current = true;
+    fetch(`${BASE}/data/galnet-bodies.json`)
+      .then((r) => r.json())
+      .then((data) => setBodies(data));
+  }, [bodies]);
+
+  // Handle ?article=uuid query param on mount (for navigation from entity/arc pages)
+  useEffect(() => {
+    const params = new URLSearchParams(window.location.search);
+    const targetUuid = params.get('article');
+    if (targetUuid) {
+      setScrollToUuid(targetUuid);
+      window.history.replaceState({}, '', window.location.pathname);
+    }
+  }, []);
 
   // Newest first (descending)
   const sortedArticles = useMemo(() => {
@@ -70,16 +103,6 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
     });
     return Array.from(yearSet).sort((a, b) => b.localeCompare(a));
   }, [sortedArticles]);
-
-  // Handle ?article=uuid query param on mount (for navigation from entity/arc pages)
-  useEffect(() => {
-    const params = new URLSearchParams(window.location.search);
-    const targetUuid = params.get('article');
-    if (targetUuid) {
-      setScrollToUuid(targetUuid);
-      window.history.replaceState({}, '', window.location.pathname);
-    }
-  }, []);
 
   const handleCenterDateChange = useCallback((date: string) => {
     setCurrentDate(date);
@@ -101,7 +124,6 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
   }, []);
 
   const handleYearSelect = useCallback((year: string) => {
-    // Find first article of this year (articles are sorted newest first)
     const idx = sortedArticles.findIndex((a) => a.date?.startsWith(year));
     if (idx !== -1) {
       const art = sortedArticles[idx];
@@ -134,7 +156,6 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
     return () => window.removeEventListener('keydown', onKey);
   }, [searchOpen]);
 
-  // Build visible articles for context panel (simpler without virtualization)
   const visibleArticles = useMemo(() => {
     return sortedArticles.map((a) => ({
       arc_id: a.arc_id,
@@ -147,11 +168,30 @@ export default function AppShell({ articles, entities, arcs }: AppShellProps) {
     }));
   }, [sortedArticles]);
 
+  if (loading) {
+    return (
+      <div style={{
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+        height: '60vh',
+        fontFamily: 'var(--font-mono)',
+        color: 'var(--elite-orange)',
+        fontSize: 14,
+        letterSpacing: '0.1em',
+      }}>
+        Loading GalNet archive…
+      </div>
+    );
+  }
+
   return (
     <>
       <div className="main-layout">
         <Timeline
           articles={sortedArticles}
+          bodies={bodies}
+          onNeedBodies={loadBodies}
           onCenterDateChange={handleCenterDateChange}
           onArticleSelect={handleArticleSelect}
           selectedArticle={selectedArticle}

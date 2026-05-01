@@ -8,7 +8,6 @@ interface Article {
   arc_id: string | null;
   significance: string;
   modern_impact: string;
-  body_full: string;
   body_preview: string;
   entities: string[];
   groups: string[];
@@ -24,6 +23,8 @@ interface Article {
 
 interface TimelineProps {
   articles: Article[];
+  bodies: Record<string, string> | null;
+  onNeedBodies: () => void;
   onCenterDateChange: (date: string) => void;
   onArticleSelect: (article: Article | null) => void;
   selectedArticle: Article | null;
@@ -116,6 +117,8 @@ function CopyLinkButton({ uuid }: { uuid: string }) {
 
 export default function Timeline({
   articles,
+  bodies,
+  onNeedBodies,
   onCenterDateChange,
   onArticleSelect,
   selectedArticle,
@@ -323,7 +326,10 @@ export default function Timeline({
                 </div>
 
                 {/* Expanded detail view — NOT clickable */}
-                {isSelected && (
+                {isSelected && (() => {
+                  if (bodies === null) { onNeedBodies(); }
+                  const bodyHtml = bodies ? bodies[art.uuid] ?? '' : null;
+                  return (
                   <div className="detail-view" onClick={(e) => e.stopPropagation()}>
                     {art.summary && (
                       <div className="detail-summary">
@@ -331,12 +337,18 @@ export default function Timeline({
                         <div className="detail-summary-text">{art.summary}</div>
                       </div>
                     )}
+                    {bodyHtml === null ? (
+                      <div className="detail-body" style={{ color: 'var(--text-dim)', fontStyle: 'italic' }}>
+                        Loading…
+                      </div>
+                    ) : (
                     <div
                       className="detail-body"
                       dangerouslySetInnerHTML={{
-                        __html: wikiLinkToHtml(art.body_full, baseUrl),
+                        __html: wikiLinkToHtml(bodyHtml, baseUrl),
                       }}
                     />
+                    )}
                     {(art.player_impact || art.modern_impact) && (
                       <div className="detail-analysis">
                         <div className="detail-analysis-label">AI Analysis</div>
@@ -363,7 +375,8 @@ export default function Timeline({
                     <TagList items={art.technologies || []} color="var(--elite-green)" baseUrl={baseUrl} />
                     <TagList items={art.entities || []} color="var(--elite-yellow)" baseUrl={baseUrl} />
                   </div>
-                )}
+                  );
+                })()}
               </div>
             );
           })}
