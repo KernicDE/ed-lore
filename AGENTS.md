@@ -9,12 +9,12 @@
 This project is **"The GalNet Chronicle"** — an archive and knowledge system for *Elite: Dangerous* GalNet articles.
 
 **Current state:**
-- ~2,550 Markdown articles in `Archive/YYYY/MM/DD_slug.md` (in-game year/month/day)
+- 2,543 Markdown articles in `Archive/YYYY/MM/DD_slug.md` (in-game year/month/day)
 - Entity profiles in `Entities/` (persons, factions, arcs, technologies, locations)
 - Static website built with **Astro 6.2 + React 19**, deployed to **GitHub Pages**
-- Data pipeline: `scripts/build_graph.py` → `lore_graph.json` → website
+- Data pipeline: `scripts/build_graph.py` → `lore_graph.json` + split async JSON → website
 
-**Output:** ~2,240 static pages (articles, entities, arcs, timeline) deployed to `https://kernicde.github.io/ed-lore/`
+**Output:** ~3,264 static pages (articles, entities, arcs, timeline) deployed to `https://kernicde.github.io/ed-lore/`
 
 ---
 
@@ -44,7 +44,8 @@ ed-lore/
 ├── prompt.md                  # High-level product vision
 ├── AGENTS.md                  # This file
 ├── scripts/
-│   ├── build_graph.py         # Builds lore_graph.json from Archive/ + Entities/
+│   ├── build_graph.py         # Builds lore_graph.json + split async JSON
+│   ├── format_articles.py     # Idempotent formatting pass for all Archive/*.md
 │   └── validate_enrichment.py # Validates article frontmatter
 ├── Archive/                   # Canonical article archive (YYYY/MM/DD_slug.md)
 │   ├── 3301/02/08_....md
@@ -60,6 +61,10 @@ ed-lore/
     ├── src/
     │   └── data/
     │       └── lore_graph.json   # MUST copy root lore_graph.json here before build
+    ├── public/
+    │   └── data/
+    │       ├── galnet-meta.json  # Articles (no body_full) + entities + arcs — loaded async
+    │       └── galnet-bodies.json # {uuid: body_full} — loaded lazily on first expand
     ├── astro.config.mjs
     └── package.json
 ```
@@ -138,20 +143,23 @@ Legitimate exceptions exist (e.g. `medicine` for Titan quarantine articles).
 python scripts/build_graph.py
 ```
 
-This reads all articles in `Archive/` and entity files in `Entities/`, then writes `lore_graph.json` to the repo root.
+Reads all articles in `Archive/` and entity files in `Entities/`, then writes:
+- `lore_graph.json` — full graph (used by entity/arc static pages)
+- `website/public/data/galnet-meta.json` — articles without `body_full` + entities + arcs (~6.7MB, loaded async by the timeline)
+- `website/public/data/galnet-bodies.json` — `{uuid: body_full}` map (~3.1MB, loaded lazily on first article expand)
 
 **Critical:** The script handles `None`/null values in list fields safely:
 ```python
 for g in fm.get("groups") or []:
 ```
 
-### Step 2: Copy to website
+### Step 2: Copy to website (for entity/arc pages only)
 
 ```bash
 cp lore_graph.json website/src/data/lore_graph.json
 ```
 
-The Astro build reads from `website/src/data/lore_graph.json`, NOT from the repo root.
+Only needed for entity/arc static page generation. The main index.astro no longer imports it — it fetches `galnet-meta.json` async at runtime.
 
 ### Step 3: Build
 
@@ -159,11 +167,21 @@ The Astro build reads from `website/src/data/lore_graph.json`, NOT from the repo
 cd website && pnpm build
 ```
 
-Output goes to `website/dist/`.
+Output goes to `website/dist/`. The `public/data/*.json` files are automatically included.
 
 ### Step 4: Deploy
 
 GitHub Actions deploys automatically on push to `main`. The workflow is in `.github/workflows/`.
+
+### Formatting pass (optional, idempotent)
+
+```bash
+python scripts/format_articles.py           # full run
+python scripts/format_articles.py --dry-run  # preview only
+python scripts/format_articles.py --sample 5 # test on 5 files
+```
+
+Normalizes YAML key order, strips duplicate titles, collapses blank lines, normalizes `*italic*` → `**bold**`. Safe to re-run any time. See `project_formatting.md` in Claude memory for details and known broken files.
 
 ---
 
@@ -245,12 +263,13 @@ When new persons or groups are introduced in articles, the build script may crea
 | Install Python deps | `pip install pyyaml httpx tqdm` |
 | Fetch / refresh archive | `python fetch.py` *(destructive)* |
 | Validate enrichment | `python scripts/validate_enrichment.py` |
-| Build graph | `python scripts/build_graph.py` |
+| Build graph + split JSON | `python scripts/build_graph.py` |
 | Copy graph to website | `cp lore_graph.json website/src/data/lore_graph.json` |
+| Format archive articles | `python scripts/format_articles.py` |
 | Build website | `cd website && pnpm build` |
 | Count articles | `find Archive -type f \| wc -l` |
 | Push to GitHub | `git push origin main` |
 
 ---
 
-*Last updated: 2026-04-30*
+*Last updated: 2026-05-01*

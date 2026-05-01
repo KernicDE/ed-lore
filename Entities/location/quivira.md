@@ -4,13 +4,13 @@ name: Quivira
 type: location
 first_seen_date: '3301-05-01'
 last_seen_date: '3301-08-13'
-mention_count: 2
+mention_count: 8
 related_entities:
-- quivira-electronics-plc
 - peoples-quivira-for-equality-party
-- bank-of-zaonce
-- silver-universal-plc
-- zaonce
+- quivira-electronics-plc
+- godel-dock
+- persephone
+- summerland
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-05-01**  
 Last mentioned: **3301-08-13**  
-Total mentions: **2**
+Total mentions: **8**
 
 ## Related
 
-- [[Quivira Electronics Plc]] (1 co-mentions)
-- [[People's Quivira for Equality Party]] (1 co-mentions)
-- [[Bank of Zaonce]] (1 co-mentions)
-- [[Silver Universal Plc]] (1 co-mentions)
-- [[Zaonce]] (1 co-mentions)
+- [[People's Quivira for Equality Party]] (5 co-mentions)
+- [[Quivira Electronics Plc]] (4 co-mentions)
+- [[Godel Dock]] (4 co-mentions)
+- [[Persephone]] (4 co-mentions)
+- [[Summerland]] (3 co-mentions)
 
 ## Biography
 

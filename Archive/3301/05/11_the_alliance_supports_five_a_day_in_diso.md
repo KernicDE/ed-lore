@@ -4,16 +4,28 @@ title: The Alliance Supports Five a Day in Diso!
 slug: the_alliance_supports_five_a_day_in_diso
 date: '3301-05-11'
 source: GitHub
+summary: The Green Party of Diso's rejuvenation project for Birmingham succeeded spectacularly when 5,187 commanders delivered over 15 million tonnes of machinery in just 65 hours. Top contributors included Broker Mrozak, Broker HawX, Tycoon Ace Rimzy, Tycoon Thalios Abraxas and Broker Del Boy. An increased supply of Diso Ma Corn has been released to markets aboard Shifnalport to stimulate the Old World sector economy.
+player_impact: Pilots who signed up and delivered machinery to the Green Party of Diso contributed to the project's success. Diso Ma Corn supply has increased at Shifnalport.
+persons:
+- Broker Mrozak
+- Broker HawX
+- Tycoon Ace Rimzy
+- Tycoon Thalios Abraxas
+- Broker Del Boy
 groups:
+- Green Party of Diso
 - Alliance
 locations:
-- Birmingham
 - Diso
+- Birmingham
+- Shifnalport
+technologies:
+- Diso Ma Corn
+- Machinery
 topics:
-- ship
 - trade
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+modern_impact: Demonstrates the scale of player-driven economic initiatives in the Old Worlds, with thousands of commanders delivering millions of tonnes in mere days.
+legacy_weight: 2
 significance: low
 ---
 

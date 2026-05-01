@@ -4,27 +4,28 @@ title: Prism Senator Summoned to Achenar
 slug: prism_senator_summoned_to_achenar
 date: '3301-05-06'
 source: GitHub
+summary: Senator Kahina Tijani Loren's Imperial Courier 'Seven Veils' departed Avalon shipyards and rendezvoused with the Imperial Interdictor Atticus under Admiral Brice's command, reportedly en route to Achenar. The Imperial Herald hailed her as a 'true daughter of the Empire'. Loren's political stance remains ambiguous—she reportedly supports slavery as a safety net, ordered executions of Prism revolutionaries, yet favours closer ties with the Federation and Alliance. Her Sol visit boosted her Federal profile, possibly as a political gambit.
+player_impact: None directly; Loren's movements and political positioning may influence future Imperial power dynamics.
+persons:
+- Kahina Tijani Loren
+- Admiral Brice
 groups:
-- Alliance
 - Imperial Herald
+- Alliance
+- Federation
 locations:
 - Achenar
-- Her recent trip to the Sol
 - Prism
 - Sol
+- Avalon shipyards
 topics:
 - independence
-- safety
-- ship
 - slavery
 - war
-entities:
-- Loren
-- Summoned
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
-legacy_weight: 2
-significance: low
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue and her ambiguous position in Imperial politics.
+legacy_weight: 3
+significance: medium
 ---
 
 Senator Kahina Tijani Loren’s Imperial Courier was seen departing early morning local time from The Avalon shipyards. It rendezvoused With the Imperial Interdictor Atticus, Admiral Brice last known to be in command. 

@@ -4,14 +4,25 @@ title: Terrorism Claims Against Wolzan and the Shadow Navy Denounced by Crimson 
 slug: terrorism_claims_against_wolzan_and_the_shadow_navy_denounced_by_crimson_fortune_company
 date: '3301-05-25'
 source: GitHub
+summary: Crimson Fortune Company CEO Ellie Blossum denounced claims that Commander Wolzan and the Shadow Navy were terrorists. She stated that recent destabilisation in Liaedin was a deliberate act by unruly Faveol family members attempting to expand into Volungu. Blossum thanked Wolzan, the Shadow Navy, and Federal pilots who aided during the Liaedin blockade, asserting that without their efforts, enemies of the Federation would be using Liaedin as a staging area.
+player_impact: Pilots who supported the Liaedin blockade are recognised by the Crimson Fortune Company. The system remains contested between corporate families.
+persons:
+- Ellie Blossum
+- Commander Wolzan
+groups:
+- Crimson Fortune Company
+- Shadow Navy
+- Faveol family
+- Blossum family
+locations:
+- Liaedin
+- Volungu
 topics:
 - corporate expansion
 - terrorism
-entities:
-- Wolzan
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Illustrates the corporate proxy wars fought between powerful families in Federal systems, with mercenary pilots caught in the middle.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Ellie Blossum, The CEO of the Crimson Fortune Company, has today issued a statement regarding the recent unrest in Liaedin. 

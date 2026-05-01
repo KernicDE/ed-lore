@@ -2,18 +2,18 @@
 id: unknown-artefacts
 name: Unknown Artefacts
 type: technology
-first_seen_date: '3301-10-01'
+first_seen_date: '3301-05-20'
 last_seen_date: '3302-08-30'
-mention_count: 17
+mention_count: 18
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Unknown Artefacts
 
-First mentioned: **3301-10-01**  
+First mentioned: **3301-05-20**  
 Last mentioned: **3302-08-30**  
-Total mentions: **17**
+Total mentions: **18**
 
 ## Related
 

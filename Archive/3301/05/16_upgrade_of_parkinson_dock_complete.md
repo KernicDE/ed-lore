@@ -4,14 +4,24 @@ title: Upgrade of Parkinson Dock Complete
 slug: upgrade_of_parkinson_dock_complete
 date: '3301-05-16'
 source: GitHub
+summary: Parkinson Dock in Eotienses completed a major upgrade after two weeks of construction by 70,000 engineers. 2,267 commanders delivered over 8.2 million tonnes of industrial materials. The station now houses advanced factories and serves as a dedicated research and development hub for new military technologies. Top contributors honoured include Viscount Plo Koon, Baron Coiling Dragon, Earl Prawnetto, Earl Morton and Baron Kosmetas.
+player_impact: Pilots who contributed industrial materials to Parkinson Dock helped complete the upgrade. The station now offers R&D for military technologies.
+persons:
+- Viscount Plo Koon
+- Baron Coiling Dragon
+- Earl Prawnetto
+- Earl Morton
+- Baron Kosmetas
+groups:
+- Eotienses Citizens' Forum
 locations:
 - Eotienses
+- Parkinson Dock
 topics:
 - construction
 - research
-- ship
 - trade
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Major infrastructure upgrade demonstrating the scale of player-driven construction projects in power-controlled systems.
 legacy_weight: 2
 significance: low
 ---

@@ -3,8 +3,8 @@ id: naylor
 name: Naylor
 type: person
 first_seen_date: '3301-03-31'
-last_seen_date: '3301-05-26'
-mention_count: 3
+last_seen_date: '3301-04-10'
+mention_count: 2
 related_entities:
 - halsey-earlier-this-morning
 - hudson-will-be
@@ -16,8 +16,8 @@ related_entities:
 # Naylor
 
 First mentioned: **3301-03-31**  
-Last mentioned: **3301-05-26**  
-Total mentions: **3**
+Last mentioned: **3301-04-10**  
+Total mentions: **2**
 
 ## Related
 

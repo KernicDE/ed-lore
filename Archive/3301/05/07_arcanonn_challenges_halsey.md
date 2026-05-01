@@ -4,18 +4,25 @@ title: Arcanonn Challenges Halsey
 slug: arcanonn_challenges_halsey
 date: '3301-05-07'
 source: GitHub
+summary: Dr Arcanonn and the Canonn team intensified research on the recovered Unknown Artefact with assistance from scientists and commanders across populated space. Despite tests including exposure to Hafnium 178, the object defies analysis. Arcanonn publicly accused Federal authorities of withholding information about the artefact's origins, demanding transparency on behalf of humanity and warning of both huge scientific potential and great dangers.
+player_impact: Pilots can assist Canonn research efforts. The artefacts emit damaging radiation and should be transported with caution.
+persons:
+- Dr Arcanonn
 groups:
 - Canonn
+- Federation
+locations: []
+technologies:
+- Unknown Artefact
+- Hafnium 178
+- frame-shift drive
 topics:
 - exploration
 - research
-- war
-entities:
-- Arcanonn
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
-legacy_weight: 3
-significance: medium
+modern_impact: Arcanonn's challenge to Federal secrecy over Unknown Artefacts established the narrative of government cover-ups regarding alien technology.
+legacy_weight: 4
+significance: high
 ---
 
 Research into The recently recovered Unknown Artefact has intensified. Scientists, Engineers and Commanders are flocking to assist Dr Arcanonn and his team from all across Populated space, political allegiances temporarily forgotten in The search for answers.  

@@ -4,15 +4,19 @@ title: Hudson Calls for Vote of No Confidence
 slug: hudson_calls_for_vote_of_no_confidence
 date: '3301-05-29'
 source: GitHub
+summary: Shadow President Zachary Hudson called for a vote of no confidence against Halsey's administration, stating the Federation needed to end the weak administration and return to stability. He claimed Halsey had been trying to raise frontier support because she knew the vote was coming. He declared that the Federation does not allow 'the whims of our dead to dictate terms to the living'.
+player_impact: None directly; Hudson's motion set in motion the political transition that would see him assume the presidency.
+persons:
+- Zachary Hudson
+- Jasmina Halsey
+groups: []
 locations:
 - Mars
 topics:
-- war
-entities:
-- Zachary Hudson
+- politics
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
-legacy_weight: 4
+modern_impact: Hudson's vote of no confidence exploited Halsey's disappearance to seize power, marking a pivotal moment in Federal political history.
+legacy_weight: 5
 significance: high
 ---
 

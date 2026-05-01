@@ -4,15 +4,22 @@ title: President Misses Meeting
 slug: president_misses_meeting
 date: '3301-05-26'
 source: GitHub
+summary: President Halsey missed her scheduled meeting with Saga delegates aboard Zudov Terminal. Maisy Stevenson, leader of the Saga Republic Party, stated that Starflight One failed to arrive 38 hours prior and that Mars claimed the President took a last-minute detour. Stevenson expressed disappointment that Saga's preparations went to waste.
+player_impact: None directly; early indication that something went wrong with the President's itinerary before the official disappearance announcement.
+persons:
+- Maisy Stevenson
+- Jasmina Halsey
+groups:
+- Saga Republic Party
 locations:
+- Saga
+- Zudov Terminal
 - Mars
-topics:
-- ship
-entities:
-- Misses Meeting
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+technologies:
+- Starflight One
+modern_impact: First public indication that Halsey's tour had gone awry, preceding the official announcement of Spaceflight One's disappearance.
+legacy_weight: 3
+significance: medium
 ---
 
 Reports coming in from Saga indicate that The President has missed her scheduled meeting With delegates aboard Zudov Terminal. Maisy Stevenson, The leader of the Saga Republic Party, expressed her concern to GalNet in The following statement: 

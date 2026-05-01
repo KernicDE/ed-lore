@@ -6,10 +6,11 @@ first_seen_date: '3301-05-31'
 last_seen_date: '3301-05-31'
 mention_count: 1
 related_entities:
-- alliance
+- alioth-independents
+- sobek-boys
 - 78-ursae-majoris
 - alioth
-- the
+- townshend-hub
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,10 +23,11 @@ Total mentions: **1**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
+- [[Alioth Independents]] (1 co-mentions)
+- [[Sobek Boys]] (1 co-mentions)
 - [[78 Ursae Majoris]] (1 co-mentions)
 - [[Alioth]] (1 co-mentions)
-- [[The]] (1 co-mentions)
+- [[Townshend Hub]] (1 co-mentions)
 
 ## Biography
 

@@ -4,17 +4,24 @@ title: Shades of the Antares Incident
 slug: shades_of_the_antares_incident
 date: '3301-05-27'
 source: GitHub
+summary: Acting President Felicia Winters addressed Starship One's disappearance, stating early investigations suggested an explosive drive failure in hyperspace that catapulted all three Guardian Wing ships out. She drew parallels to the Highliner Antares disaster of 3251. Winters revealed Starship One's engines experienced an unexpected power surge seconds before the final jump, and vowed search efforts would continue.
+player_impact: None directly; the official explanation of drive failure parallels the historic Antares mystery.
+persons:
+- Felicia Winters
+- Jasmina Halsey
+groups: []
+locations: []
+technologies:
+- Starship One
+- Highliner Antares
+- Guardian Wing
+- Frame Shift Drive
 topics:
-- diplomacy
 - investigation
-- ship
-- terrorism
-entities:
-- Felicia Winters made
 arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery with implications for hyperdrive safety.
-legacy_weight: 3
-significance: medium
+modern_impact: Parallels drawn between Starship One and the Antares disaster created lasting speculation about hyperdrive safety and potential cover-ups.
+legacy_weight: 4
+significance: high
 ---
 
 At a press conference held earlier today, Acting Federal President Felicia Winters made a personal appearance to address The rdisappearance of Starship One after failing to re-enter normal space following a routine hyperspace jump. 

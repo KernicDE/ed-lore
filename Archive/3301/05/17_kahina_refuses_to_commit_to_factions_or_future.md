@@ -4,19 +4,27 @@ title: Kahina Refuses to Commit to Factions or Future
 slug: kahina_refuses_to_commit_to_factions_or_future
 date: '3301-05-17'
 source: GitHub
+summary: Senator Kahina Tijani Loren, staying as a guest on Capitol at Chancellor Blaine's request, continues to dismiss questions about her political intentions. Ambassador Cuthrick Delaney, known for his role in ending Dr. Walden's dictatorship on Lave, has been seen in frequent conversation with her. Speculation continues about whether she will align with Patreus, Torval, or make her own play. Her ship has received significant modifications including a state-of-the-art fuel scoop and a custom Gutamaya discovery scanner.
+player_impact: None directly; Loren's political ambiguity and ship modifications suggest potential future movements that may affect Imperial power dynamics.
+persons:
+- Kahina Tijani Loren
+- Chancellor Blaine
+- Cuthrick Delaney
+- Dr. Walden
+groups: []
 locations:
+- Capitol
 - Lave
 - Prism
+technologies:
+- fuel scoop
+- Gutamaya discovery scanner
 topics:
-- ship
 - slavery
-entities:
-- Kahina Tijani Loren
-- Walden
 arc_id: prism-senator
 modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
-legacy_weight: 2
-significance: low
+legacy_weight: 3
+significance: medium
 ---
 
 Senator Kahina Tijani Loren, currently residing as a guest on Capital at The request of Chancellor Blaine, remains completely ambivalent to inquiries into her intentions. She has airily dismissed questions regarding her purpose or what was said to her at The reception to Which she was Summoned and Continues to ignore requests from the press. 

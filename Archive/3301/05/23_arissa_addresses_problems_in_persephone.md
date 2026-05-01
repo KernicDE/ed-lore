@@ -4,15 +4,23 @@ title: Arissa Addresses Problems in Persephone
 slug: arissa_addresses_problems_in_persephone
 date: '3301-05-23'
 source: GitHub
+summary: Princess Arissa Lavigny-Duval addressed concerns from Persephone residents about a plague outbreak brought by Quivira refugees. She downplayed the illness risk to locals, blaming malnutrition and poor vaccination among refugees, and shifted focus to a 600% increase in pirate activity since Patreus's military intervention. She stated helping Quivira refugees was Patreus's responsibility, not hers, though she offered assistance to Aisling Duval if requested.
+player_impact: Pilots in Persephone face heightened pirate activity. Refugee-related humanitarian and medical issues persist in the system.
+persons:
+- Arissa Lavigny-Duval
+- Aisling Duval
+- Denton Patreus
+groups: []
 locations:
 - Kamadhenu
+- Persephone
+- Quivira
 topics:
 - humanitarian
 - medicine
 - piracy
-arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
-legacy_weight: 3
+modern_impact: Highlights the humanitarian and public health consequences of military conflicts as refugee populations spread disease and attract criminal elements.
+legacy_weight: 2
 significance: medium
 ---
 

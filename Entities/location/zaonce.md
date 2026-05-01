@@ -23,7 +23,7 @@ Total mentions: **19**
 
 ## Related
 
-- [[Alliance]] (13 co-mentions)
+- [[Alliance]] (12 co-mentions)
 - [[Alliance Assembly]] (6 co-mentions)
 - [[Bank of Zaonce]] (5 co-mentions)
 - [[Alliance Tribune]] (5 co-mentions)

@@ -4,16 +4,25 @@ title: The Sinner, the Saint and the Saviour
 slug: the_sinner_the_saint_and_the_saviour
 date: '3301-05-13'
 source: GitHub
+summary: Senator Denton Patreus declared war on Quivira, sending thousands of Imperial vessels to attack non-Imperial ships. Most residents were evacuated thanks to independent and Federal commanders. In response to the humanitarian crisis, Aisling Duval and Arissa Lavigny-Duval both set up campaigns to help displaced refugees. Aisling's agents operate from Henry O'Hare's Hanger in Summerland, while Arissa's agents work aboard Lambardelli's Legacy in Persephone.
+player_impact: Pilots can sign up to help refugee efforts at Henry O'Hare's Hanger in Summerland (Aisling) or Lambardelli's Legacy in Persephone (Arissa).
+persons:
+- Denton Patreus
+- Aisling Duval
+- Arissa Lavigny-Duval
+groups: []
 locations:
-- Denton
+- Quivira
 - Summerland
+- Persephone
+- Henry O'Hare's Hanger
+- Lambardelli's Legacy
 topics:
 - humanitarian
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+modern_impact: Highlights how Imperial senators leveraged humanitarian crises for political advantage, with Aisling and Arissa competing for refugee support.
+legacy_weight: 3
+significance: medium
 ---
 
 Two days ago, Senator Denton Patreus officially declared War on the impoverished system of Quivira. Thousands of vessels loyal to Patreus have been pouring into Quivira ever since, bringing death and destruction to any non-Imperial ships that they find. 

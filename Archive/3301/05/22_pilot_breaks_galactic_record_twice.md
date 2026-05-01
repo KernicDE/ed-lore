@@ -4,16 +4,23 @@ title: Pilot Breaks Galactic Record Twice
 slug: pilot_breaks_galactic_record_twice
 date: '3301-05-22'
 source: GitHub
+summary: Commander Alot broke the galactic record for the Buckyball Run A* rally race twice in less than a month, reducing his time to Sagittarius A* from 11 hours 46 minutes to 9 hours 39 minutes. His first record was set in a Lakon Spaceways Asp named 'Big Bird'; his current record was achieved in a Faulcon DeLacy Anaconda named 'Rhonda'. Commander Kligg subsequently surpassed Alot's record by 8 minutes using an Anaconda named 'Rub Tub'.
+player_impact: Pilots can participate in the Buckyball Run A* race, a 26,000 light year rally to Sagittarius A*.
+persons:
+- Commander Alot
+- Commander Kligg
+- Léonard Chamberlain
+groups:
+- Buckyball Run
 locations:
 - Sagittarius A*
+technologies:
+- Faulcon DeLacy Anaconda
+- Lakon Spaceways Asp
 topics:
 - sport
-entities:
-- Alot
-- Alot by
-- Kligg
-modern_impact: Competitive event for the pilot community.
-legacy_weight: 1
+modern_impact: Player-organised racing events like the Buckyball Run established a vibrant competitive community around exploration and speed records.
+legacy_weight: 2
 significance: low
 ---
 

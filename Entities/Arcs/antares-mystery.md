@@ -8,7 +8,7 @@ significance: medium
 key_entities:
 - sirius-corporation
 - federal-times
-- felicia-winters-made
+- federal-transport-safety-administration
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,7 +23,7 @@ Articles: **11**
 
 - [[Sirius Corporation]] (9 mentions)
 - [[Federal Times]] (2 mentions)
-- [[Felicia Winters made]] (1 mentions)
+- [[Federal Transport Safety Administration]] (1 mentions)
 
 ## Description
 

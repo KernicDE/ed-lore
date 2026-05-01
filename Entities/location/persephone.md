@@ -2,32 +2,32 @@
 id: persephone
 name: Persephone
 type: location
-first_seen_date: '3302-03-29'
+first_seen_date: '3301-05-11'
 last_seen_date: '3302-03-29'
-mention_count: 1
+mention_count: 5
 related_entities:
-- jeffress-treasure-hunt-organisers
-- avalon-system
-- arrhenius-terminal
-- bard
-- algol-system
+- quivira
+- summerland
+- quivira-electronics-plc
+- peoples-quivira-for-equality-party
+- godel-dock
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Persephone
 
-First mentioned: **3302-03-29**  
+First mentioned: **3301-05-11**  
 Last mentioned: **3302-03-29**  
-Total mentions: **1**
+Total mentions: **5**
 
 ## Related
 
-- [[Jeffress treasure hunt organisers]] (1 co-mentions)
-- [[Avalon system]] (1 co-mentions)
-- [[Arrhenius Terminal]] (1 co-mentions)
-- [[Bard]] (1 co-mentions)
-- [[Algol system]] (1 co-mentions)
+- [[Quivira]] (4 co-mentions)
+- [[Summerland]] (3 co-mentions)
+- [[Quivira Electronics Plc]] (2 co-mentions)
+- [[People's Quivira for Equality Party]] (2 co-mentions)
+- [[Godel Dock]] (2 co-mentions)
 
 ## Biography
 

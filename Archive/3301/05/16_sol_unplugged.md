@@ -4,17 +4,21 @@ title: Sol Unplugged
 slug: sol_unplugged
 date: '3301-05-16'
 source: GitHub
+summary: Utopixx Entertainment, a subsidiary of Reynhardt Intellisys, posted an operating loss of nearly 5 trillion credits for the first time in almost a decade, causing a 14% share price drop. The company attributed losses partly to development of new VR-Streams including the latest CQC franchise instalment. In-sim purchases in Federal markets have declined across multiple media companies, though the cause remains unclear.
+player_impact: None directly; declining media consumption in Federal markets may reflect broader economic or political unease.
+persons: []
 groups:
-- Alliance
+- Utopixx Entertainment
+- Reynhardt Intellisys
 locations:
-- Federal
 - Sol
+technologies:
+- VR-Streams
+- CQC franchise
 topics:
-- construction
 - corporate expansion
 - research
-- war
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+modern_impact: Economic indicator revealing declining consumer confidence in Federal markets, foreshadowing broader political instability.
 legacy_weight: 2
 significance: low
 ---

@@ -1,18 +1,18 @@
 ---
 id: power-generators
-name: power generators
+name: Power Generators
 type: technology
-first_seen_date: '3302-07-21'
-last_seen_date: '3302-07-21'
+first_seen_date: '3301-05-08'
+last_seen_date: '3301-05-08'
 mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# power generators
+# Power Generators
 
-First mentioned: **3302-07-21**  
-Last mentioned: **3302-07-21**  
+First mentioned: **3301-05-08**  
+Last mentioned: **3301-05-08**  
 Total mentions: **1**
 
 ## Related

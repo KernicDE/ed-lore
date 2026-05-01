@@ -3,14 +3,14 @@ id: kahina-tijani-loren
 name: Kahina Tijani Loren
 type: person
 first_seen_date: '3301-03-27'
-last_seen_date: '3301-05-17'
-mention_count: 5
+last_seen_date: '3301-04-02'
+mention_count: 2
 related_entities:
+- mars
 - prism
 - alliance
-- mars
-- sol
-- imperial-herald
+- alioth
+- cambridge
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Kahina Tijani Loren
 
 First mentioned: **3301-03-27**  
-Last mentioned: **3301-05-17**  
-Total mentions: **5**
+Last mentioned: **3301-04-02**  
+Total mentions: **2**
 
 ## Related
 
-- [[Prism]] (5 co-mentions)
-- [[Alliance]] (2 co-mentions)
 - [[Mars]] (2 co-mentions)
-- [[Sol]] (2 co-mentions)
-- [[Imperial Herald]] (2 co-mentions)
+- [[Prism]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Alioth]] (1 co-mentions)
+- [[Cambridge]] (1 co-mentions)
 
 ## Biography
 

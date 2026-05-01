@@ -1,19 +1,19 @@
 ---
 id: water-purifiers
-name: Water purifiers
+name: Water Purifiers
 type: technology
-first_seen_date: '3307-04-15'
-last_seen_date: '3307-04-22'
-mention_count: 2
+first_seen_date: '3301-05-08'
+last_seen_date: '3301-05-08'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Water purifiers
+# Water Purifiers
 
-First mentioned: **3307-04-15**  
-Last mentioned: **3307-04-22**  
-Total mentions: **2**
+First mentioned: **3301-05-08**  
+Last mentioned: **3301-05-08**  
+Total mentions: **1**
 
 ## Related
 

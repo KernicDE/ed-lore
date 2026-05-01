@@ -3,14 +3,14 @@ id: godel-dock
 name: Godel Dock
 type: location
 first_seen_date: '3301-05-01'
-last_seen_date: '3301-05-01'
-mention_count: 1
+last_seen_date: '3301-05-19'
+mention_count: 4
 related_entities:
 - quivira-electronics-plc
 - peoples-quivira-for-equality-party
-- bank-of-zaonce
-- silver-universal-plc
 - quivira
+- stapledon-dock
+- summerland
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Godel Dock
 
 First mentioned: **3301-05-01**  
-Last mentioned: **3301-05-01**  
-Total mentions: **1**
+Last mentioned: **3301-05-19**  
+Total mentions: **4**
 
 ## Related
 
-- [[Quivira Electronics Plc]] (1 co-mentions)
-- [[People's Quivira for Equality Party]] (1 co-mentions)
-- [[Bank of Zaonce]] (1 co-mentions)
-- [[Silver Universal Plc]] (1 co-mentions)
-- [[Quivira]] (1 co-mentions)
+- [[Quivira Electronics Plc]] (4 co-mentions)
+- [[People's Quivira for Equality Party]] (4 co-mentions)
+- [[Quivira]] (4 co-mentions)
+- [[Stapledon Dock]] (2 co-mentions)
+- [[Summerland]] (2 co-mentions)
 
 ## Biography
 

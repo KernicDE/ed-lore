@@ -4,19 +4,35 @@ title: President Halsey Sets Out from Sol
 slug: president_halsey_sets_out_from_sol
 date: '3301-05-13'
 source: GitHub
+summary: President Jasmina Halsey departed Mars aboard the presidential battlecruiser Space Flight One to begin her tour of Federal frontier systems. Twelve systems were revealed as part of her itinerary: Hip 53688, Tinia, Aleumoxii, 78 Ursae Majoris, Dietri, Su, Furuhjlem I-645, Saga, Delphin, Nanomam, Coriccha and Ross 860. Vice President Naylor accompanies Halsey, while Secretary of State Madam Winters oversees operations on Mars.
+player_impact: None directly; pilots may notice increased Federal security in the listed frontier systems during the presidential tour.
+persons:
+- Jasmina Halsey
+- Vice President Naylor
+- Madam Winters
+groups: []
 locations:
-- 78 Ursae Majoris
-- Federal frontier
-- Mars
 - Sol
+- Mars
+- Hip 53688
+- Tinia
+- Aleumoxii
+- 78 Ursae Majoris
+- Dietri
+- Su
+- Furuhjlem I-645
+- Saga
+- Delphin
+- Nanomam
+- Coriccha
+- Ross 860
+technologies:
+- Space Flight One
 topics:
-- war
-entities:
-- Halsey Sets Out
-- Halsey intends
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- diplomacy
+modern_impact: Documents Halsey's attempt to reconnect with frontier systems during a period of declining Federal cohesion, shortly before her disappearance.
+legacy_weight: 3
+significance: medium
 ---
 
 The crowds were out in force on Mars today, as residents gathered to watch The presidential battlecruiser, Space Flight One, depart on the start of President Halsey’s tour of Federal frontier systems. 

@@ -4,14 +4,23 @@ title: Federal State of Emergency  Winters Declared Acting President
 slug: federal_state_of_emergency_winters_declared_acting_president
 date: '3301-05-26'
 source: GitHub
+summary: Secretary of State Felicia Winters assumed the role of Acting President after contact was lost with Spaceflight One carrying President Halsey and Vice President Naylor. The ship went dark 12 hours after entering hyperspace following an unscheduled detour to Azaleach. Navy squadrons were scrambled to search for the missing vessel. Winters announced she would serve as Acting President to maintain the chain of command during the crisis.
+player_impact: None directly; Federal Navy search operations are underway. The disappearance of Spaceflight One creates significant political uncertainty.
+persons:
+- Felicia Winters
+- Jasmina Halsey
+- Vice President Naylor
+groups:
+- Federal Navy
+locations:
+- Azaleach
+technologies:
+- Spaceflight One
 topics:
-- ship
-- sport
-entities:
-- Naylor
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+- politics
+modern_impact: Halsey's disappearance marked a pivotal moment in Federal history, leading to Winters' temporary presidency and ultimately Hudson's rise to power.
+legacy_weight: 5
+significance: high
 ---
 
 At 15:00 hours universal galactic time on 26th May 3301, Secretary of State Felicia Winters assumed The role of Acting President of The Federation in the wake of the disappearance of Spaceflight One. 

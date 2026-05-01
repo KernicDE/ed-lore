@@ -1,19 +1,19 @@
 ---
 id: frame-shift-drive
-name: Frame Shift Drive
+name: frame-shift drive
 type: technology
-first_seen_date: '3302-05-05'
-last_seen_date: '3310-05-07'
-mention_count: 6
+first_seen_date: '3301-05-07'
+last_seen_date: '3301-05-07'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Frame Shift Drive
+# frame-shift drive
 
-First mentioned: **3302-05-05**  
-Last mentioned: **3310-05-07**  
-Total mentions: **6**
+First mentioned: **3301-05-07**  
+Last mentioned: **3301-05-07**  
+Total mentions: **1**
 
 ## Related
 

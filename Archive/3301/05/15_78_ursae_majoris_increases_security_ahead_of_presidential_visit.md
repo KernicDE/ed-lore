@@ -4,17 +4,23 @@ title: 78 Ursae Majoris Increases Security Ahead of Presidential Visit
 slug: 78_ursae_majoris_increases_security_ahead_of_presidential_visit
 date: '3301-05-15'
 source: GitHub
+summary: Residents of 78 Ursae Majoris prepared Seddon Gateway for President Halsey's visit with festivities and cultural displays. The Alioth Independents launched a security initiative offering bonuses to bounty hunters and a military campaign against the Sobek Boys cartel. Mayor Andrew Bailey of Townsend Hub announced both operations would run from Townsend Hub.
+player_impact: Pilots can earn bounty hunting bonuses in the local cluster or sign up for the military campaign against the Sobek Boys at Townsend Hub.
+persons:
+- Andrew Bailey
+- Jasmina Halsey
 groups:
-- Alliance
+- Alioth Independents
+- Sobek Boys
 locations:
 - 78 Ursae Majoris
 - Alioth
+- Seddon Gateway
+- Townsend Hub
 topics:
 - crime
 - war
-entities:
-- Halsey arrives
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Demonstrates the security preparations and anti-cartel operations undertaken by Alliance-aligned factions during high-profile diplomatic visits.
 legacy_weight: 2
 significance: low
 ---

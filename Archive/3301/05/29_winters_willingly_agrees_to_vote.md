@@ -4,13 +4,19 @@ title: Winters Willingly Agrees to Vote
 slug: winters_willingly_agrees_to_vote
 date: '3301-05-29'
 source: GitHub
-topics:
-- diplomacy
-entities:
-- Felicia Winters held
+summary: Acting President Felicia Winters agreed to Hudson's call for a vote of no confidence, scheduling Congress to meet on Monday. She expressed sadness over Halsey's loss and disappointment with opposition fear-mongering, but acknowledged the need to follow democratic process. Winters promised to serve as president if chosen by Congress.
+player_impact: None directly; the scheduled congressional vote will determine the Federation's leadership going forward.
+persons:
+- Felicia Winters
+- Zachary Hudson
 - Jasmina Halsey
+groups: []
+locations: []
+topics:
+- politics
+- diplomacy
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
+modern_impact: Winters' graceful acceptance of the vote process contrasted with Hudson's aggression, highlighting her commitment to democratic norms.
 legacy_weight: 4
 significance: high
 ---

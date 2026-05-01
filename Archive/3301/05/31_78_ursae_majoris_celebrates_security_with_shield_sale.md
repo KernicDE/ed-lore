@@ -4,23 +4,27 @@ title: 78 Ursae Majoris Celebrates Security with Shield Sale
 slug: 78_ursae_majoris_celebrates_security_with_shield_sale
 date: '3301-05-31'
 source: GitHub
+summary: 78 Ursae Majoris was secured after independent pilots participated in a security campaign led by Mayor Andrew Bailey of the Alioth Independents. Pilots fought criminal elements in Alliance territory and engaged in a military campaign against the Sobek Boys criminal syndicate based in the Sobek system. Mercenary pilot Ivan Shevchenko noted the Sobek Boys were well-organised with heavily reinforced ships, making them a formidable opponent.
+player_impact: Pilots who participated in the security campaign against pirates and the Sobek Boys helped secure 78 Ursae Majoris and Alliance territory.
+persons:
+- Andrew Bailey
+- Jasmina Halsey
+- Ivan Shevchenko
 groups:
-- Alliance
+- Alioth Independents
+- Sobek Boys
 locations:
 - 78 Ursae Majoris
 - Alioth
 - Sobek
-- The
+- Townshend Hub
 topics:
 - crime
 - piracy
-- safety
-- ship
 - war
-arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
-legacy_weight: 4
-significance: high
+modern_impact: Successful anti-piracy coalition in 78 Ursae Majoris demonstrated the effectiveness of independent pilot militias against organised criminal syndicates.
+legacy_weight: 3
+significance: medium
 ---
 
 After a series of skirmishes between Independent pilots and pirates, as well As the drawn out battle against The Sobek Boys, 78 Ursae Majoris was facing a security threat in The Run-up to Federal President Jasmina Halsey’s planned visit. News of the catastrophic accident that is believed to have consumed Starship One, and taken the President’s life, has been spreading through the galaxy, but 78 Ursae Majoris has now been secured. 

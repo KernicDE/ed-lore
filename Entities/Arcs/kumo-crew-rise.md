@@ -3,7 +3,7 @@ id: kumo-crew-rise
 name: Kumo Crew Rise
 first_seen_date: '3301-05-14'
 last_seen_date: '3307-07-15'
-mention_count: 42
+mention_count: 41
 significance: medium
 key_entities:
 - kumo-crew
@@ -19,7 +19,7 @@ key_entities:
 
 First seen: **3301-05-14**  
 Last seen: **3307-07-15**  
-Articles: **42**
+Articles: **41**
 
 ## Key Figures
 

@@ -8,9 +8,9 @@ significance: medium
 key_entities:
 - canonn-interstellar-research-group
 - canonn
+- federation
 - federal-times
 - blue-hand-gang
-- federal-navy
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Articles: **35**
 
 - [[Canonn Interstellar Research Group]] (13 mentions)
 - [[Canonn]] (4 mentions)
+- [[Federation]] (3 mentions)
 - [[Federal Times]] (3 mentions)
 - [[Blue Hand Gang]] (3 mentions)
-- [[Federal Navy]] (2 mentions)
 
 ## Description
 

@@ -4,20 +4,24 @@ title: Anti Federation Terrorists Linked to Artefact Research
 slug: anti_federation_terrorists_linked_to_artefact_research
 date: '3301-05-20'
 source: GitHub
+summary: Hundreds of tons of bio-waste were dumped around stations in 78 Ursae Majoris during preparations for President Halsey's visit. A group calling themselves 'The Canonn' claimed responsibility, stating they would use any means to pressure the Federation into revealing information about Unknown Artefacts. Dr. Arcanonn denied involvement but sympathised with their frustration, urging all citizens to petition their governments for disclosure and calling on Chief Xeno-Chemist Lyran Betar to collaborate on research.
+player_impact: Pilots in 78 Ursae Majoris may encounter disruptions from protest actions. Arcanonn's appeal may lead to further community-driven research efforts.
+persons:
+- Dr. Arcanonn
+- Lyran Betar
+- Jasmina Halsey
 groups:
-- Alliance
 - Canonn
+- Federation
 locations:
 - 78 Ursae Majoris
-- This
+technologies:
+- Unknown Artefacts
 topics:
 - research
 - terrorism
-entities:
-- Arcanonn
-- Halsey's arrival as part
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
+modern_impact: Demonstrates the escalation from scientific inquiry to direct action as commanders grew frustrated with Federal secrecy over alien artefacts.
 legacy_weight: 3
 significance: medium
 ---

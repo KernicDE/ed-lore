@@ -23,7 +23,7 @@ Total mentions: **67**
 
 ## Related
 
-- [[Alliance]] (49 co-mentions)
+- [[Alliance]] (47 co-mentions)
 - [[Sirius Corporation]] (14 co-mentions)
 - [[Sol]] (10 co-mentions)
 - [[Lave]] (9 co-mentions)

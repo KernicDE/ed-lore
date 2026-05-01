@@ -4,14 +4,19 @@ title: A Vote of Congressional Confidence
 slug: a_vote_of_congressional_confidence
 date: '3301-05-30'
 source: GitHub
-locations:
-- Eugene
-- Madison
-entities:
-- Hudson placed
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: Shadow President Hudson's motion for a vote of no confidence against Halsey's administration was accepted and scheduled for Monday. If successful, the Shadow President would form a new administration for congressional approval; if that fails, a full election is triggered. The last such mid-term transition occurred in 3264 when Antonia Madison ousted Eugene Cooper.
+player_impact: None directly; the outcome of Monday's vote will determine whether Hudson becomes President or a full congressional election is called.
+persons:
+- Zachary Hudson
+- Eugene Cooper
+- Antonia Madison
+groups: []
+locations: []
+topics:
+- politics
+modern_impact: The procedural mechanics of the vote of no confidence set the stage for Hudson's rapid ascension to the presidency.
+legacy_weight: 4
+significance: high
 ---
 
 There is blood in The water and The politicians have begun hunting their prey. 

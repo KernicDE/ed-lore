@@ -7,10 +7,10 @@ last_seen_date: '3305-10-11'
 mention_count: 4
 related_entities:
 - diso
+- green-party-of-diso
 - alliance
+- shifnalport
 - leesti
-- galactic-welfare-trust
-- simpsons-eden
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **4**
 ## Related
 
 - [[Diso]] (3 co-mentions)
+- [[Green Party of Diso]] (2 co-mentions)
 - [[Alliance]] (2 co-mentions)
+- [[Shifnalport]] (1 co-mentions)
 - [[Leesti]] (1 co-mentions)
-- [[Galactic Welfare Trust]] (1 co-mentions)
-- [[Simpson's Eden]] (1 co-mentions)
 
 ## Biography
 

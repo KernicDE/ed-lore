@@ -2,18 +2,18 @@
 id: antonia-madison
 name: Antonia Madison
 type: person
-first_seen_date: '3309-10-16'
+first_seen_date: '3301-05-30'
 last_seen_date: '3309-10-16'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Antonia Madison
 
-First mentioned: **3309-10-16**  
+First mentioned: **3301-05-30**  
 Last mentioned: **3309-10-16**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

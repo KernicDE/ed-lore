@@ -4,13 +4,13 @@ name: Prism
 type: location
 first_seen_date: '3301-03-06'
 last_seen_date: '3303-03-16'
-mention_count: 33
+mention_count: 32
 related_entities:
 - mars
 - imperial-citizen
 - lorens-legion
-- kahina-tijani-loren
 - achenar
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-03-06**  
 Last mentioned: **3303-03-16**  
-Total mentions: **33**
+Total mentions: **32**
 
 ## Related
 
 - [[Mars]] (7 co-mentions)
 - [[Imperial Citizen]] (6 co-mentions)
 - [[Loren's Legion]] (6 co-mentions)
-- [[Kahina Tijani Loren]] (5 co-mentions)
 - [[Achenar]] (5 co-mentions)
+- [[Sol]] (4 co-mentions)
 
 ## Biography
 

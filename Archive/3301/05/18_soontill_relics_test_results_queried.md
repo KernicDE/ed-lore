@@ -4,16 +4,22 @@ title: Soontill Relics Test Results Queried
 slug: soontill_relics_test_results_queried
 date: '3301-05-18'
 source: GitHub
+summary: Scientific tests on Soontill relics sold on the open market proved inconclusive. Chief Xeno-Chemist Lyran Betar confirmed no known human technology could have created them, yet they do not align with known Thargoid materials. Isotopic dating suggests they are tens of thousands of years old. Historian Jean Molyneaux cautioned against assuming all ancient human cultures were the same species. Further testing is underway on Mars and Capitol.
+player_impact: None directly; the ongoing mystery of Soontill relics continues to fuel speculation about alien origins and ancient civilizations.
+persons:
+- Lyran Betar
+- Jean Molyneaux
+groups: []
 locations:
 - Capitol
 - Mars
+technologies:
+- Soontill Relics
 topics:
-- construction
 - research
-- war
-modern_impact: Infrastructure project with long-term benefits for the affected region.
-legacy_weight: 2
-significance: low
+modern_impact: Early scientific examination of alien relics that would later become central to understanding ancient non-human civilizations.
+legacy_weight: 3
+significance: medium
 ---
 
 As Further alien artefacts claiming to be from Soontill are being sold on The open market, The results of the initial scientific tests have been revealed. 

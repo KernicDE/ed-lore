@@ -10,7 +10,7 @@ related_entities:
 - tanmark
 - scythe-of-panem
 - kappa-fornacis-farmers-union
-- east-india-company
+- autahenetsi
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **13**
 - [[Tanmark]] (3 co-mentions)
 - [[Scythe of Panem]] (3 co-mentions)
 - [[Kappa Fornacis Farmers Union]] (2 co-mentions)
-- [[East India Company]] (2 co-mentions)
+- [[Autahenetsi]] (2 co-mentions)
 
 ## Biography
 

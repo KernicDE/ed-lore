@@ -6,9 +6,9 @@ last_seen_date: '3302-10-28'
 mention_count: 17
 significance: medium
 key_entities:
-- kahina-tijani-loren
 - imperial-herald
 - imperial-citizen
+- kahina-tijani-loren
 - alliance
 - continues
 ---
@@ -23,9 +23,9 @@ Articles: **17**
 
 ## Key Figures
 
-- [[Kahina Tijani Loren]] (5 mentions)
 - [[Imperial Herald]] (4 mentions)
 - [[Imperial Citizen]] (4 mentions)
+- [[Kahina Tijani Loren]] (2 mentions)
 - [[Alliance]] (2 mentions)
 - [[Continues]] (1 mentions)
 

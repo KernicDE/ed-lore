@@ -4,13 +4,22 @@ title: Old World Resurgence in Diso
 slug: old_world_resurgence_in_diso
 date: '3301-05-08'
 source: GitHub
+summary: The Green Party of Diso announced a rejuvenation project to increase production of Diso Ma Corn, a unique cash crop grown only on Birmingham due to the planet's special soil nutrients and solar wave bombardment. The party placed orders for 15 million tonnes of machinery including Atmospheric Processors, Crop Harvesters, Power Generators and Water Purifiers. Pilots must sign up as active participants before selling machinery to earn personal bonuses.
+player_impact: Pilots can earn bonuses by selling Atmospheric Processors, Crop Harvesters, Power Generators and Water Purifiers to the Diso Green Party after signing up.
+persons: []
+groups:
+- Green Party of Diso
 locations:
-- Birmingham
 - Diso
+- Birmingham
+technologies:
+- Atmospheric Processors
+- Crop Harvesters
+- Power Generators
+- Water Purifiers
 topics:
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets and local economies.
+modern_impact: Early example of player-driven economic development in the Old Worlds through commodity delivery initiatives.
 legacy_weight: 2
 significance: low
 ---

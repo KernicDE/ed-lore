@@ -4,21 +4,27 @@ title: Federal Search Efforts Continue
 slug: federal_search_efforts_continue
 date: '3301-05-27'
 source: GitHub
+summary: Three ships from Starship One's Guardian Wing made contact with Navy HQ but could not explain the disappearance. Despite extensive searches along Spaceflight One's secured route, no trace was found. Core Dynamics and Sirius Corporation specialists analysed wake and uplink data, theorising a rare misjump or catastrophic drive failure. A Guardian Wing crew member described a terrible shock wave during hyperspace entry that caused uncontrolled exit into deep space. The Federal Navy requested pilots sign up for search and rescue duty at Leoniceno Orbital in Azaleach.
+player_impact: Pilots can join the search and rescue operation by signing up at Leoniceno Orbital in Azaleach.
+persons:
+- Jasmina Halsey
 groups:
 - Core Dynamics
 - Federal Navy
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Sirius
+- Azaleach
+- Leoniceno Orbital
+technologies:
+- Starship One
+- Spaceflight One
+- Guardian Wing
 topics:
-- corporate expansion
 - humanitarian
-- ship
-- slavery
-- sport
+- investigation
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
+modern_impact: The search for Starship One established the mystery surrounding Halsey's disappearance and involved major corporations in the investigation.
 legacy_weight: 4
 significance: high
 ---

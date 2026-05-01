@@ -4,13 +4,13 @@ name: Avalon shipyards
 type: location
 first_seen_date: '3301-05-02'
 last_seen_date: '3301-07-21'
-mention_count: 2
+mention_count: 3
 related_entities:
 - prism
 - sol
 - imperial-herald
-- imperial-citizen
-- the-dark-wheel
+- alliance
+- federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-05-02**  
 Last mentioned: **3301-07-21**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Prism]] (2 co-mentions)
-- [[Sol]] (1 co-mentions)
-- [[Imperial Herald]] (1 co-mentions)
-- [[Imperial Citizen]] (1 co-mentions)
-- [[The Dark Wheel]] (1 co-mentions)
+- [[Prism]] (3 co-mentions)
+- [[Sol]] (2 co-mentions)
+- [[Imperial Herald]] (2 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Federation]] (1 co-mentions)
 
 ## Biography
 

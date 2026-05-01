@@ -6,11 +6,11 @@ first_seen_date: '3301-05-11'
 last_seen_date: '3308-02-24'
 mention_count: 7
 related_entities:
+- quivira
+- persephone
 - nmla
-- denton
-- denton-patreus
-- patreus-now-intends
-- patreus-continued-their-assault
+- quivira-electronics-plc
+- peoples-quivira-for-equality-party
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **7**
 
 ## Related
 
+- [[Quivira]] (3 co-mentions)
+- [[Persephone]] (3 co-mentions)
 - [[NMLA]] (3 co-mentions)
-- [[Denton]] (2 co-mentions)
-- [[Denton Patreus]] (1 co-mentions)
-- [[Patreus now intends]] (1 co-mentions)
-- [[Patreus continued their assault]] (1 co-mentions)
+- [[Quivira Electronics Plc]] (2 co-mentions)
+- [[People's Quivira for Equality Party]] (2 co-mentions)
 
 ## Biography
 

@@ -4,17 +4,24 @@ title: Eyes on Quivira
 slug: eyes_on_quivira
 date: '3301-05-05'
 source: GitHub
-locations:
-- Denton
-- Turmoil hit the small
-topics:
-- ship
-- war
-entities:
+summary: Thousands of Imperial pilots descended on Quivira to enforce Senator Patreus's debt claim. After Imperial ground troops seized Godel Dock, the People's Quivira for Equality Party retreated to Brendan Gateway before launching a counterattack with independent and Federal pilots. They successfully forced Quivira Electronics Plc back to Stapledon Dock, reigniting the war with no quarter offered.
+player_impact: Pilots can defend Quivira by signing up at Godel Dock, or support Imperial reclamation efforts at Stapledon Dock.
+persons:
 - Denton Patreus
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+groups:
+- People's Quivira for Equality Party
+- Nationalists of Quivira
+- Quivira Electronics Plc
+locations:
+- Quivira
+- Godel Dock
+- Brendan Gateway
+- Stapledon Dock
+topics:
+- war
+modern_impact: Demonstrates the brutal back-and-forth of system conflicts driven by debt enforcement and local resistance.
+legacy_weight: 2
+significance: medium
 ---
 
 Turmoil hit The small system of Quivira late last week, as thousands of Imperial pilots descended to deliver The wrath of Senator Denton Patreus on his debtors. In the first two days of the war, tens of thousands of Independent pilots lost their lives while bravely attempting to hold off Imperial forces from taking Godel Dock. 

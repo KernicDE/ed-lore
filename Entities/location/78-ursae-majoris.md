@@ -4,13 +4,13 @@ name: 78 Ursae Majoris
 type: location
 first_seen_date: '3301-03-17'
 last_seen_date: '3301-05-31'
-mention_count: 9
+mention_count: 8
 related_entities:
-- federal-frontier
+- alioth-independents
 - alioth
-- alliance
-- lugh
-- the
+- townshend-hub
+- seddon-gateway
+- sobek-boys
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-03-17**  
 Last mentioned: **3301-05-31**  
-Total mentions: **9**
+Total mentions: **8**
 
 ## Related
 
-- [[Federal frontier]] (3 co-mentions)
+- [[Alioth Independents]] (3 co-mentions)
 - [[Alioth]] (3 co-mentions)
-- [[Alliance]] (3 co-mentions)
-- [[Lugh]] (2 co-mentions)
-- [[The]] (2 co-mentions)
+- [[Townshend Hub]] (2 co-mentions)
+- [[Seddon Gateway]] (2 co-mentions)
+- [[Sobek Boys]] (2 co-mentions)
 
 ## Biography
 

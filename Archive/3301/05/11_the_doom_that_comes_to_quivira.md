@@ -4,18 +4,30 @@ title: The Doom That Comes To Quivira
 slug: the_doom_that_comes_to_quivira
 date: '3301-05-11'
 source: GitHub
+summary: Senator Denton Patreus officially declared war on Quivira, with thousands of Imperial vessels attacking non-Imperial ships. The People's Quivira for Equality Party evacuated millions of refugees to Summerland and Persephone, thanks to independent and Federal commanders including Maclolie, Tavok, Reliant, Morningstar and Aydro. Imperial Majestic class Interdictors have been spotted entering Quivira, as Patreus intends to drive all Independent influences from the system.
+player_impact: Pilots can help defend Quivira or assist in refugee evacuation efforts. Imperial forces are escalating with Majestic class Interdictors.
+persons:
+- Denton Patreus
+- Commander Maclolie
+- Commander Tavok
+- Commander Reliant
+- Commander Morningstar
+- Commander Aydro
+groups:
+- Quivira Electronics Plc
+- People's Quivira for Equality Party
 locations:
-- Denton
+- Quivira
 - Summerland
+- Persephone
+- Godel Dock
+- Stapledon Dock
 topics:
 - humanitarian
 - war
-entities:
-- Denton Patreus
-- Patreus now intends
-modern_impact: Humanitarian effort by the pilot community to assist those in need.
-legacy_weight: 2
-significance: low
+modern_impact: Illustrates the humanitarian cost of Imperial debt enforcement and the role of independent pilots in evacuating civilians from war zones.
+legacy_weight: 3
+significance: medium
 ---
 
 For The last week Civil War has ravaged the Independent nation of Quivira. 

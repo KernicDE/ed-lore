@@ -4,18 +4,22 @@ title: Federation Accused of Cover up
 slug: federation_accused_of_cover_up
 date: '3301-05-17'
 source: GitHub
+summary: Dr. Arcanonn accused the Federal government of an information blackout regarding Unknown Artefacts, claiming they refuse to acknowledge Federation ships were transporting them and have provided only cryptic responses. Arcanonn called on all humans regardless of allegiance to demand answers, warning of consequences if information is not forthcoming. Reports also suggest unidentified combat ships are shadowing Federation convoys.
+player_impact: Pilots may encounter unidentified combat ships shadowing Federation convoys. Arcanonn's call to action may lead to further community efforts to uncover the truth.
+persons:
+- Dr. Arcanonn
 groups:
 - Canonn
+- Federation
+locations: []
+technologies:
+- Unknown Artefact
 topics:
 - investigation
 - research
-- ship
-entities:
-- Arcanonn
-- Arcanonn declined
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+modern_impact: Escalated tensions between the scientific community and Federal authorities over alien artefact secrecy, fuelling conspiracy theories.
+legacy_weight: 3
+significance: medium
 ---
 
 Despite pleas for information from The Scientific cross-faction coalition, The Federal Authorities remain tight lipped. According to sources close to Dr. Arcanonn and his team, Halsey's government have refused to even acknowledge that Federation ships have been transporting the artefacts through Populated space, despite mounting evidence. The authorities have also been accused of providing the scientist With nothing more than cryptic responses designed to stall their investigations. 

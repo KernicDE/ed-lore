@@ -1,19 +1,19 @@
 ---
 id: dr-arcanonn
-name: Dr Arcanonn
+name: Dr. Arcanonn
 type: person
-first_seen_date: '3301-07-10'
-last_seen_date: '3303-06-21'
-mention_count: 24
+first_seen_date: '3301-05-04'
+last_seen_date: '3301-05-23'
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Dr Arcanonn
+# Dr. Arcanonn
 
-First mentioned: **3301-07-10**  
-Last mentioned: **3303-06-21**  
-Total mentions: **24**
+First mentioned: **3301-05-04**  
+Last mentioned: **3301-05-23**  
+Total mentions: **4**
 
 ## Related
 
