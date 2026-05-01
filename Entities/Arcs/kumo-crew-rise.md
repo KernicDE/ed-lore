@@ -11,7 +11,22 @@ key_entities:
 - pilots-federation
 - lavignys-legion
 - kumo-council
+description: Archon Delaine's brutal expansion of the Kumo Crew across the Pegasi
+  Sector. Styling himself as Pirate King, Delaine demanded tribute from systems, clashed
+  with Federal and Imperial forces, and attempted to forge a unified pirate federation
+  through violence and intimidation.
+summary: Archon Delaine's brutal consolidation of the Kumo Crew pirate syndicate,
+  expanding their territory through violence and intimidation across the Pegasi Sector.
+status: Ongoing
+outcome: The Kumo Crew continues to control the Pegasi Sector through force and intimidation,
+  surviving multiple challenges to Delaine's leadership.
+phases:
+- Initial events (3301-05-14)
+- Escalation (3301-08-19)
+- Resolution (3307-07-15)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

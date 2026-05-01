@@ -11,7 +11,22 @@ key_entities:
 - imperial-navy
 - yupini-limited
 - imperial-senate
+description: The rise and rapid fall of Nova Imperium, a hardline Imperial splinter
+  faction advocating isolationism and traditional values under Imperator Mordanticus.
+  The movement was crushed in the Battle of Paresa, where Imperial forces led by Senator
+  Patreus decisively defeated the rebellion.
+summary: The rise and rapid fall of Nova Imperium, a hardline Imperial splinter faction
+  led by Hadrian Duval that challenged the legitimacy of Emperor Arissa Lavigny-Duval.
+status: Dissolved
+outcome: Hadrian Duval surrendered and was pardoned by the Emperor. Nova Imperium's
+  members were reintegrated or imprisoned, ending the separatist threat.
+phases:
+- Initial events (3305-01-05)
+- Escalation (3305-04-13)
+- Resolution (3308-10-21)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

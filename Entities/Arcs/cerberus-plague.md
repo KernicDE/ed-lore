@@ -11,7 +11,22 @@ key_entities:
 - dukes-of-mikunn
 - mercenaries-of-mikunn
 - newton-dock-medical-staff
+description: A devastating pathogen outbreak that originated aboard Newton Dock in
+  BD-02 4304 and rapidly spread to multiple systems including Dajoar, Eleu, Bast,
+  and Santjalan. The plague forced starport shutdowns and required coordinated medical
+  and military intervention to contain.
+summary: A deadly pandemic that swept through multiple systems, requiring a massive
+  coordinated effort by pilots to deliver medicines and establish quarantine zones.
+status: Resolved
+outcome: The plague was eventually contained through mass distribution of medicines
+  by independent pilots, saving millions of lives across affected systems.
+phases:
+- Initial events (3301-06-30)
+- Escalation (3301-08-02)
+- Resolution (3302-08-11)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

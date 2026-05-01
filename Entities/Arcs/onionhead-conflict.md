@@ -11,7 +11,22 @@ key_entities:
 - Tanmark Posse
 - Farmers Union of Kappa Fornacis
 parent_arc: alliance-expansion
+description: The struggle over the cultivation, distribution, and legality of Lucan
+  Onionhead — a psychoactive plant native to Kappa Fornacis. The conflict pits Federal
+  authorities, who ban the drug, against frontier farmers and criminal organisations
+  who see it as a lucrative cash crop.
+phases:
+- 'Phase 1: Tanmark Cultivation (3301-02-24)'
+- 'Phase 2: Tanmark Posse Crackdown (3301-03-03)'
+summary: The struggle over Lucan Onionhead cultivation and distribution, pitting Federal
+  drug enforcement against frontier farmers and criminal organizations.
+status: Ongoing
+outcome: Onionhead remains banned in Federation space but thrives in independent systems.
+  The conflict set precedents for Federal drug enforcement policies.
+significance: medium
 ---
+
+
 
 
 # Onionhead Conflict

@@ -9,7 +9,22 @@ key_entities:
 - lorens-legion
 - imperial-intelligence-services
 - alliance
+description: The conspiracy surrounding Commander Salomé—formerly Senator Kahina Tijani
+  Loren—and her flight from Imperial justice. Covert messages from the Col 70 Sector,
+  secret support networks, and the mysterious organization backing her escape formed
+  a web of intrigue across superpower boundaries.
+summary: The conspiracy surrounding Commander Salomé (formerly Senator Kahina Loren),
+  her secret message, and the controversial circumstances of her death.
+status: Concluded
+outcome: Salomé was killed while transporting a secret message. The contents were
+  partially revealed, suggesting dark truths about the Thargoid conflict.
+phases:
+- Initial events (3303-03-02)
+- Escalation (3303-04-01)
+- Resolution (3303-05-04)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

@@ -64,6 +64,56 @@ const sigColors: Record<string, string> = {
       )}
     </div>
 
+    {arc?.summary && (
+      <div class="holo-panel">
+        <div class="holo-title">Summary</div>
+        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+          {arc.summary}
+        </div>
+      </div>
+    )}
+
+    {arc?.description && (
+      <div class="holo-panel">
+        <div class="holo-title">Overview</div>
+        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+          {arc.description}
+        </div>
+      </div>
+    )}
+
+    {arc?.status && (
+      <div class="holo-panel">
+        <div class="holo-title">Status</div>
+        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+          {arc.status}
+        </div>
+      </div>
+    )}
+
+    {arc?.outcome && (
+      <div class="holo-panel">
+        <div class="holo-title">Outcome</div>
+        <div style="font-size: 14px; color: var(--text-secondary); line-height: 1.6;">
+          {arc.outcome}
+        </div>
+      </div>
+    )}
+
+    {arc?.phases && arc.phases.length > 0 && (
+      <div class="holo-panel">
+        <div class="holo-title">Phases</div>
+        <div style="display: flex; flex-direction: column; gap: 8px;">
+          {arc.phases.map((phase: string, idx: number) => (
+            <div style="display: flex; align-items: center; gap: 12px;">
+              <span style="font-family: var(--font-mono); font-size: 11px; color: var(--elite-blue); min-width: 24px;">{String(idx + 1).padStart(2, '0')}</span>
+              <span style="font-size: 13px; color: var(--text-primary);">{phase}</span>
+            </div>
+          ))}
+        </div>
+      </div>
+    )}
+
     {keyEntities.length > 0 && (
       <div class="holo-panel">
         <div class="holo-title">Key Figures</div>

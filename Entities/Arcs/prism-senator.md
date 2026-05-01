@@ -11,7 +11,22 @@ key_entities:
 - alliance
 - merchants-guild
 - sol-herald
+description: The remarkable political journey of Senator Kahina Tijani Loren, known
+  as the Prism Senator. Her diplomatic tour through Federal space, unconventional
+  tactics, and later transformation into the fugitive Commander Salomé made her one
+  of the most controversial figures in Imperial politics.
+summary: The political career of Senator Kahina Tijani Loren, her mysterious disappearance,
+  and the revelations about her connections to the Prism system.
+status: Unresolved
+outcome: Senator Loren disappeared under mysterious circumstances. Her ultimate fate
+  and the full truth about Prism remain unknown.
+phases:
+- Initial events (3301-03-06)
+- Escalation (3301-05-02)
+- Resolution (3302-10-28)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

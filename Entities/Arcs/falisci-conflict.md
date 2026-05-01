@@ -11,7 +11,23 @@ key_entities:
 - federal-navy
 - imperial-senate
 - east-india-company
+description: Senator Denton Patreus's campaign against the Falisci Purple Gang, a
+  pirate organization terrorizing traders in the region. With support from the Citizens
+  of Tradition faction, Imperial forces ultimately defeated the gang and assimilated
+  Falisci into Imperial space.
+summary: Senator Patreus's military campaign to eradicate the Falisci Purple Gang,
+  a pirate syndicate terrorizing traders, resulting in Imperial annexation of the
+  region.
+status: Resolved
+outcome: The Falisci Purple Gang was destroyed. Imperial forces secured the system,
+  which was subsequently absorbed into Patreus's sphere of influence.
+phases:
+- Initial events (3301-02-17)
+- Escalation (3301-03-04)
+- Resolution (3301-03-27)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

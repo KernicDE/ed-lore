@@ -11,7 +11,22 @@ key_entities:
 - merope-expeditionary-fleet
 - ant-hill-mob
 - federation
+description: Corporate and exploratory expansion into the Pleiades Nebula, featuring
+  the construction of Obsidian Orbital and other deep-space platforms. Tensions arose
+  between mining operations, scientific research groups, and the growing Thargoid
+  presence in the region.
+summary: Corporate and independent expansion into the Pleiades Nebula, driven by Thargoid-related
+  discoveries and meta-alloy exploitation.
+status: Ongoing
+outcome: The Pleiades became a contested zone between human corporations and Thargoid
+  forces, with multiple research outposts and military installations established.
+phases:
+- Initial events (3301-03-05)
+- Escalation (3302-10-27)
+- Resolution (3304-01-05)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

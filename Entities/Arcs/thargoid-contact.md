@@ -11,7 +11,23 @@ key_entities:
 - alliance
 - pilots-federation
 - empire
+description: Humanity's first documented encounters with the Thargoids, beginning
+  with barnacle discoveries in the Pleiades and escalating to direct ship-to-ship
+  contact. The scientific response led by Aegis, and the superpowers' military preparations,
+  marked the opening chapter of the Second Thargoid War.
+summary: Humanity's first documented encounters with the Thargoids, initially misunderstood
+  alien flower-like vessels that would later reveal themselves as a deadly invasive
+  species.
+status: Escalated to War
+outcome: Initial peaceful contact escalated into full-scale war. The Thargoids proved
+  to be a technologically superior hostile species.
+phases:
+- Initial events (3302-01-15)
+- Escalation (3304-02-16)
+- Resolution (3309-08-14)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,23 @@ key_entities:
 - federation
 - federal-congress
 - proactive-detection-bureau
+description: The turbulent domestic political landscape of the Federation, spanning
+  President Halsey's controversial military actions, Shadow President Zachary Hudson's
+  successful no-confidence vote, the rise of the Proactive Detection Bureau, and ongoing
+  debates over Federal security versus civil liberties.
+summary: The tumultuous political landscape of the Federation under Presidents Halsey
+  and Hudson, marked by internal divisions, corporate influence, and shifting military
+  priorities.
+status: Ongoing
+outcome: The Federation remains divided between corporate interests, progressive reformers,
+  and military hardliners, with no clear resolution in sight.
+phases:
+- Initial events (3301-02-15)
+- Escalation (3307-04-29)
+- Resolution (3310-10-31)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

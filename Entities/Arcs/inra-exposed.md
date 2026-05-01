@@ -11,7 +11,23 @@ key_entities:
 - imperial-internal-security-service
 - angeli-imperial-enterprises
 - rind-gold-electronics-org
+description: The exposure of the Intergalactic Naval Reserve Arm (INRA), a covert
+  organization from the First Thargoid War. The truth emerged through the League of
+  Reparation's assassinations of individuals linked to INRA's ethically dubious research
+  and biological weapons programs.
+summary: The revelation of the Intergalactic Naval Reserve Arm's dark history, including
+  unethical experiments on Thargoids and human subjects during the first Thargoid
+  war.
+status: Revealed
+outcome: The INRA revelations shocked the galaxy, damaged superpower credibility,
+  and fueled anti-establishment sentiment among independent pilots.
+phases:
+- Initial events (3304-04-21)
+- Escalation (3304-05-05)
+- Resolution (3304-05-24)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

@@ -381,6 +381,27 @@ def build() -> dict[str, Any]:
             "significance": "medium",
         }
 
+    # Merge enriched arc data from Arcs/ markdown frontmatter
+    print("Merging enriched arc data...")
+    for arc_id, rec in graph["arcs"].items():
+        path = ARCS_DIR / f"{arc_id}.md"
+        if path.exists():
+            text = path.read_text(encoding="utf-8")
+            if not text.startswith("---"):
+                continue
+            parts = text.split("---", 2)
+            if len(parts) < 3:
+                continue
+            try:
+                fm = yaml.safe_load(parts[1])
+            except Exception:
+                continue
+            if not isinstance(fm, dict):
+                continue
+            for key in ["description", "summary", "status", "outcome", "phases", "significance", "key_entities"]:
+                if key in fm and fm[key] is not None:
+                    rec[key] = fm[key]
+
     # Co-occurrence
     print("Building co-occurrence matrix...")
     cooccurrence: dict[str, dict[str, int]] = {}

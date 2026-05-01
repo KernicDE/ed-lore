@@ -2,14 +2,28 @@
 id: imperial-succession
 name: Imperial Succession Crisis
 type: arc
-start_date: "3301-03-12"
+start_date: '3301-03-12'
 end_date: null
 article_count: 2
 key_entities:
-  - Chancellor Anders Blaine
-  - Senator Denton Patreus
-  - Emperor Hengist Duval
+- Chancellor Anders Blaine
+- Senator Denton Patreus
+- Emperor Hengist Duval
+description: The brewing political crisis surrounding Emperor Hengist Duval's failing
+  health. With the Emperor unable to rule and no clear succession plan, Imperial power
+  brokers manoeuvre for position while Chancellor Blaine struggles to maintain order.
+phases:
+- 'Phase 1: Patreus Challenges Blaine (3301-03-12)'
+- 'Phase 2: Blaine Holds the Line (3301-03-14)'
+summary: The crisis surrounding Emperor Hengist Duval's failing health and the power
+  vacuum it created among Imperial senators and Chancellor Blaine.
+status: Resolved
+outcome: Emperor Hengist Duval eventually recovered temporarily, then died. Arissa
+  Lavigny-Duval was crowned Emperor, stabilizing the succession.
+significance: medium
 ---
+
+
 
 # Imperial Succession Crisis
 

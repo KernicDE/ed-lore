@@ -11,7 +11,22 @@ key_entities:
 - federation
 - federal-times
 - blue-hand-gang
+description: The mystery of Unknown Artefacts—later identified as Thargoid sensors—recovered
+  from Federal Navy convoys by the Canonn research group. Their discovery of star
+  system coordinates encoded in the artefacts' signals, and the devices' corrosive
+  effect on starport systems, foreshadowed the Thargoid return.
+summary: The mystery of Unknown Artefacts—later identified as Thargoid probes—that
+  caused equipment malfunctions and hinted at alien presence before open contact.
+status: Identified
+outcome: Unknown Artefacts were identified as Thargoid probes. They were harbingers
+  of the Thargoid return and are now studied for intelligence value.
+phases:
+- Initial events (3301-05-04)
+- Escalation (3301-12-21)
+- Resolution (3303-04-07)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

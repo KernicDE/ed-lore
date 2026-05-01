@@ -11,7 +11,22 @@ key_entities:
 - alliance
 - nova-imperium
 - neo-marlinist-order-of-mudhrid
+description: The devastating terrorist campaign by the Neo-Marlinist Liberation Army
+  (NMLA), culminating in the simultaneous bombing of nine starports across all three
+  superpowers—the 'Nine Martyrs' attack. The aftermath saw the creation of anti-NMLA
+  intelligence units and far-reaching security measures.
+summary: The Neo-Marlinist Liberation Army's campaign of terror against the Empire,
+  using starport bombings and political assassinations to destabilize Imperial rule.
+status: Suppressed
+outcome: The NMLA leadership was largely eliminated, though splinter cells may remain
+  active. The terrorist campaign failed to achieve its political goals.
+phases:
+- Initial events (3307-03-11)
+- Escalation (3307-10-15)
+- Resolution (3308-07-06)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

@@ -9,7 +9,21 @@ key_entities:
 - Éamonn Uí Laoghire
 - The Crimson State Group
 parent_arc: alliance-expansion
+description: The Crimson State Group's bid to secure independence for the Lugh system
+  from Federal control. With 87% popular support, they appeal to the Alliance for
+  diplomatic recognition, framing their struggle as one of self-determination against
+  Federal military occupation.
+phases:
+- 'Phase 1: Diplomatic Appeal (3301-02-22)'
+summary: The Crimson State Group's bid for independence from Federal control in the
+  Lugh system, testing Alliance-Federation relations and frontier sovereignty.
+status: Resolved
+outcome: The Federal Navy crushed the independence movement. The Alliance declined
+  full intervention, and Lugh remained under Federal control.
+significance: medium
 ---
+
+
 
 
 # Lugh Independence Crisis

@@ -10,7 +10,22 @@ key_entities:
 - distant-worlds-3
 - distant-worlds
 - vox-galactica
+description: The third Distant Worlds expedition, a massive community-driven deep-space
+  exploration initiative. Thousands of pilots journeyed to Beagle Point and beyond,
+  constructing deep-space infrastructure and conducting stellar surveys in the galactic
+  core and outer regions.
+summary: A massive community expedition to the far reaches of the galaxy, pushing
+  exploration boundaries and establishing new waypoints in uncharted space.
+status: Completed
+outcome: The expedition successfully reached its destination, mapping thousands of
+  new systems and establishing permanent outposts in the galactic core region.
+phases:
+- Initial events (3305-01-04)
+- Escalation (3312-03-19)
+- Resolution (3312-04-26)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,22 @@ key_entities:
 - azimuth-biotech
 - aegis
 - azimuth
+description: The emergence of the mysterious figure known as Salvation and his connection
+  to Azimuth Biotech. Through the Adamastor and Hesperus ghost ships, Salvation unveiled
+  an anti-Thargoid superweapon agenda that challenged Aegis's approach and drew all
+  three superpowers into his shadowy schemes.
+summary: The emergence of Salvation, a mysterious figure offering anti-Thargoid superweapons,
+  later revealed to be connected to the shadowy Azimuth Biocorporation.
+status: Revealed
+outcome: Salvation's true identity and Azimuth's role were exposed. The superweapons
+  were deployed with mixed success, raising ethical questions.
+phases:
+- Initial events (3307-04-08)
+- Escalation (3308-07-22)
+- Resolution (3309-12-21)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

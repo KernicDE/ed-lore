@@ -11,7 +11,23 @@ key_entities:
 - leoniceno-orbital-medical-staff
 - federal-congress
 - federal-times
+description: The controversial presidency of Jasmina Halsey, characterized by aggressive
+  military interventions, the tragic Starship One disappearance, political attacks
+  from Shadow President Hudson, and an eventual vote of no confidence that reshaped
+  Federal leadership.
+summary: The controversial presidency of Jasmina Halsey, characterized by idealistic
+  diplomacy, progressive policies, and eventual political downfall following the Starship
+  One disaster.
+status: Concluded
+outcome: President Halsey lost the election to Zachary Hudson following the Starship
+  One disaster and her subsequent disappearance during a spiritual journey.
+phases:
+- Initial events (3301-02-20)
+- Escalation (3301-08-14)
+- Resolution (3302-05-14)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

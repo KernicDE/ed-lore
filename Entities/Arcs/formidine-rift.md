@@ -11,7 +11,21 @@ key_entities:
 - order-of-the-far-god
 - pleiades-concordat
 - scriveners-clan
+description: Investigations into the mysteries of the Formidine Rift, including abandoned
+  generation ships, the nomadic Scriveners Clan dredger stripping the Hesperus, and
+  the expansion of the Far God cult's missionary megaships into deep space.
+summary: The mystery of the Formidine Rift, an unexplored region where an expedition
+  vanished, later revealing hidden human settlements and Thargoid-related secrets.
+status: Partially Resolved
+outcome: Expeditions confirmed the existence of abandoned settlements and Thargoid-related
+  structures, but many questions about the original expedition's fate remain.
+phases:
+- Initial events (3307-04-02)
+- Escalation (3307-07-19)
+- Resolution (3307-07-29)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

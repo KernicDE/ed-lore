@@ -11,7 +11,22 @@ key_entities:
 - marlinism-reformation-party
 - marlinist-parliament
 - free-marlinist-movement
+description: The political establishment and evolution of the Marlinist Colonies,
+  founded by refugees from the Empire seeking democratic governance. Senator Lorcan
+  Scordato's diplomatic overtures, internal power struggles, and the formation of
+  the Marlinist Consulate shaped this unique political experiment.
+summary: The mass exodus of Marlinist refugees from the Empire following NMLA terrorist
+  attacks, creating a humanitarian crisis and political tension between superpowers.
+status: Ongoing
+outcome: Marlinist colonies were established in independent space. The crisis reshaped
+  Imperial politics and created new diplomatic tensions.
+phases:
+- Initial events (3307-04-09)
+- Escalation (3307-07-13)
+- Resolution (3307-07-22)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 

@@ -11,7 +11,22 @@ key_entities:
 - colonia-citizens-network
 - colonia-co-operative
 - fuel-rats
+description: The epic saga of Jaques Station, the galaxy's only travelling starport.
+  Its ambitious attempted jump to Beagle Point ended in disaster and disappearance,
+  but the station was eventually rediscovered in what became the Colonia region, sparking
+  a new wave of colonization.
+summary: The epic journey of Jaques Station, a mobile Orbis starport that was accidentally
+  launched into deep space and later recovered, becoming a symbol of human resilience.
+status: Resolved
+outcome: Jaques Station was located in the Colonia region. The rescue effort established
+  the Colonia Connection highway and sparked colonization of the region.
+phases:
+- Initial events (3302-05-05)
+- Escalation (3303-04-14)
+- Resolution (3307-11-26)
 ---
+
+
 
 <!-- AUTO-GENERATED -->
 
