@@ -107,11 +107,46 @@ function CopyLinkButton({ uuid }: { uuid: string }) {
         padding: '4px 10px',
         cursor: 'pointer',
         transition: 'all 0.15s',
-        marginLeft: 'auto',
         flexShrink: 0,
       }}
     >
       {copied ? 'Copied!' : '🔗 Link'}
+    </button>
+  );
+}
+
+function PlayAudioButton({ uuid, title }: { uuid: string; title: string }) {
+  const handleClick = useCallback((e: React.MouseEvent) => {
+    e.stopPropagation();
+    window.dispatchEvent(new CustomEvent('galnet-audio-play', { detail: { uuid, title } }));
+  }, [uuid, title]);
+
+  return (
+    <button
+      onClick={handleClick}
+      title="Play audio"
+      style={{
+        background: 'transparent',
+        border: '1px solid var(--elite-orange-dim)',
+        color: 'var(--elite-orange)',
+        fontFamily: 'var(--font-mono)',
+        fontSize: 11,
+        padding: '4px 10px',
+        cursor: 'pointer',
+        transition: 'all 0.15s',
+        flexShrink: 0,
+        marginTop: 6,
+      }}
+      onMouseEnter={(e) => {
+        (e.currentTarget as HTMLElement).style.background = 'var(--elite-orange)';
+        (e.currentTarget as HTMLElement).style.color = 'var(--bg-primary)';
+      }}
+      onMouseLeave={(e) => {
+        (e.currentTarget as HTMLElement).style.background = 'transparent';
+        (e.currentTarget as HTMLElement).style.color = 'var(--elite-orange)';
+      }}
+    >
+      ▶ Audio
     </button>
   );
 }
@@ -174,7 +209,8 @@ export default function Timeline({
     requestAnimationFrame(() => {
       const containerRect = container.getBoundingClientRect();
       const elRect = el.getBoundingClientRect();
-      const targetScroll = container.scrollTop + (elRect.top - containerRect.top) - 8;
+      const stickyHeaderOffset = 52; // account for sticky year header
+      const targetScroll = container.scrollTop + (elRect.top - containerRect.top) - stickyHeaderOffset;
       container.scrollTo({ top: Math.max(0, targetScroll), behavior: 'smooth' });
     });
   }, [selectedArticle]);
@@ -338,7 +374,10 @@ export default function Timeline({
                       ))}
                     </div>
                   </div>
-                  <CopyLinkButton uuid={art.uuid} />
+                  <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 'auto', flexShrink: 0 }}>
+                    <CopyLinkButton uuid={art.uuid} />
+                    <PlayAudioButton uuid={art.uuid} title={art.title} />
+                  </div>
                 </div>
 
                 {/* Expanded detail view — NOT clickable */}

@@ -748,10 +748,10 @@ html, body {
 /* ── Audio Player ───────────────────────────────────────────────────────── */
 .audio-player-bar {
   position: fixed;
-  top: 0;
+  top: 50%;
   right: 140px;
+  transform: translateY(-50%);
   z-index: 100;
-  height: 48px;
   display: flex;
   align-items: center;
 }
@@ -761,7 +761,6 @@ html, body {
   align-items: center;
   gap: 10px;
   background: rgba(8, 10, 15, 0.9);
-  border: 1px solid var(--border-glow);
   border-radius: var(--panel-radius);
   padding: 6px 14px;
   backdrop-filter: blur(4px);
@@ -823,6 +822,7 @@ html, body {
     right: 8px;
     top: auto;
     bottom: 8px;
+    transform: none;
     height: auto;
   }
   .audio-player {

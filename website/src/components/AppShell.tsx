@@ -56,6 +56,7 @@ export default function AppShell() {
 
   const [currentDate, setCurrentDate] = useState('3312-12-31');
   const [selectedArticle, setSelectedArticle] = useState<Article | null>(null);
+  const [audioArticle, setAudioArticle] = useState<Article | null>(null);
   const [scrollTop, setScrollTop] = useState(0);
   const [viewportHeight, setViewportHeight] = useState(800);
   const [scrollToUuid, setScrollToUuid] = useState<string | null>(null);
@@ -113,6 +114,16 @@ export default function AppShell() {
   const handleArticleSelect = useCallback((article: Article | null) => {
     setSelectedArticle(article);
   }, []);
+
+  // Listen for audio play button clicks from timeline articles
+  useEffect(() => {
+    const handler = (e: CustomEvent<{ uuid: string; title: string }>) => {
+      const art = articles.find((a) => a.uuid === e.detail.uuid);
+      if (art) setAudioArticle(art);
+    };
+    window.addEventListener('galnet-audio-play', handler as EventListener);
+    return () => window.removeEventListener('galnet-audio-play', handler as EventListener);
+  }, [articles]);
 
   const handleScrollUpdate = useCallback((st: number, vh: number) => {
     setScrollTop(st);
@@ -218,7 +229,7 @@ export default function AppShell() {
         />
       </div>
       <div className="audio-player-bar">
-        <AudioPlayer article={selectedArticle} />
+        <AudioPlayer article={audioArticle} />
       </div>
       {searchOpen && (
         <CommandConsole

@@ -22,7 +22,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
 
   const audioUrl = article ? `${BASE}/audio/${article.uuid}.mp3` : null;
 
-  // Stop and reset when article changes
+  // Load and auto-play when article changes
   useEffect(() => {
     setIsPlaying(false);
     setCurrentTime(0);
@@ -36,6 +36,37 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
     if (rafRef.current) {
       cancelAnimationFrame(rafRef.current);
     }
+
+    if (!audioUrl) return;
+
+    const audio = new Audio(audioUrl);
+    audioRef.current = audio;
+
+    audio.addEventListener('loadedmetadata', () => {
+      setDuration(audio.duration || 0);
+    });
+
+    audio.addEventListener('ended', () => {
+      setIsPlaying(false);
+      setCurrentTime(0);
+    });
+
+    audio.addEventListener('error', () => {
+      setError('Audio not available');
+      setIsPlaying(false);
+    });
+
+    audio.addEventListener('canplay', () => {
+      setError(null);
+    });
+
+    audio.play().then(() => {
+      setIsPlaying(true);
+      setError(null);
+      rafRef.current = requestAnimationFrame(updateTime);
+    }).catch(() => {
+      setError('Audio not available');
+    });
   }, [article?.uuid]);
 
   const updateTime = useCallback(() => {
@@ -112,7 +143,7 @@ export default function AudioPlayer({ article }: AudioPlayerProps) {
   if (!article) {
     return (
       <div className="audio-player">
-        <span style={{ fontSize: 11, color: 'var(--text-dim)' }}>Select an article to play audio</span>
+        <span style={{ fontSize: 11, color: 'var(--text-dim)' }}>Click ▶ Audio on an article to play</span>
       </div>
     );
   }
