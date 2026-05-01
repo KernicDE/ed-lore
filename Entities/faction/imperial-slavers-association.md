@@ -2,26 +2,32 @@
 id: imperial-slavers-association
 name: Imperial Slavers Association
 type: faction
-first_seen_date: '3301-06-13'
+first_seen_date: '3301-04-08'
 last_seen_date: '3301-06-13'
-mention_count: 1
+mention_count: 4
 related_entities:
-- kumo-crew
-- harma
+- lagerkvist-gateway
+- aislings-angels
+- synteini
+- silver-universal-plc
+- themiscrya
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Imperial Slavers Association
 
-First mentioned: **3301-06-13**  
+First mentioned: **3301-04-08**  
 Last mentioned: **3301-06-13**  
-Total mentions: **1**
+Total mentions: **4**
 
 ## Related
 
-- [[Kumo Crew]] (1 co-mentions)
-- [[Harma]] (1 co-mentions)
+- [[Lagerkvist Gateway]] (3 co-mentions)
+- [[Aisling's Angels]] (2 co-mentions)
+- [[Synteini]] (2 co-mentions)
+- [[Silver Universal PLC]] (1 co-mentions)
+- [[Themiscrya]] (1 co-mentions)
 
 ## Biography
 

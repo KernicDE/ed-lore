@@ -4,7 +4,7 @@ name: Alliance
 type: faction
 first_seen_date: '3301-02-19'
 last_seen_date: '3312-02-20'
-mention_count: 368
+mention_count: 367
 related_entities:
 - sirius-corporation
 - aegis
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-19**  
 Last mentioned: **3312-02-20**  
-Total mentions: **368**
+Total mentions: **367**
 
 ## Related
 

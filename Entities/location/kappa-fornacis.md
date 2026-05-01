@@ -8,8 +8,8 @@ mention_count: 13
 related_entities:
 - panem
 - tanmark
-- scythe-of-panem
 - kappa-fornacis-farmers-union
+- scythe-of-panem
 - autahenetsi
 ---
 
@@ -25,8 +25,8 @@ Total mentions: **13**
 
 - [[Panem]] (9 co-mentions)
 - [[Tanmark]] (3 co-mentions)
+- [[Kappa Fornacis Farmers Union]] (3 co-mentions)
 - [[Scythe of Panem]] (3 co-mentions)
-- [[Kappa Fornacis Farmers Union]] (2 co-mentions)
 - [[Autahenetsi]] (2 co-mentions)
 
 ## Biography

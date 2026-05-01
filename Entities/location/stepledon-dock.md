@@ -26,7 +26,7 @@ Total mentions: **1**
 - [[Quivira Electronics Plc]] (1 co-mentions)
 - [[People's Quivira for Equality Party]] (1 co-mentions)
 - [[Bank of Zaonce]] (1 co-mentions)
-- [[Silver Universal Plc]] (1 co-mentions)
+- [[Silver Universal PLC]] (1 co-mentions)
 - [[Quivira]] (1 co-mentions)
 
 ## Biography

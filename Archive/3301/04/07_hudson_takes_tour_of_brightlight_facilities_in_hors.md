@@ -4,14 +4,20 @@ title: Hudson Takes Tour of Brightlight Facilities in Hors
 slug: hudson_takes_tour_of_brightlight_facilities_in_hors
 date: '3301-04-07'
 source: GitHub
+summary: Shadow President Hudson, accompanied by Admiral Vincent's aides, visited the Hors system to meet Duke Sanders and discuss extending Brightlight Training's Federal contracts. Following recent communication failures between the President and the Federal Navy, Admiral Vincent is seeking to modernise officer training. Brightlight has reportedly begun ramping up operations in preparation for a services deployment.
+player_impact: None directly; Brightlight's expansion may lead to improved training facilities for Federal naval personnel.
+persons:
+- Zachary Hudson
+- Admiral Vincent
+- Duke Sanders
 groups:
 - Federal Navy
+- Brightlight Training Corporation
 locations:
 - Hors
 topics:
 - corporate expansion
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Hudson's alignment with military contractors like Brightlight signalled his intent to strengthen Federal military capabilities.
 legacy_weight: 2
 significance: low
 ---

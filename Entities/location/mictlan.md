@@ -2,32 +2,32 @@
 id: mictlan
 name: Mictlan
 type: location
-first_seen_date: '3309-01-27'
+first_seen_date: '3301-04-15'
 last_seen_date: '3309-01-27'
-mention_count: 1
+mention_count: 5
 related_entities:
-- kumo-crew
-- alliance
-- turner-research-group
-- california-nebula
-- pegasi
+- nehet
+- imperial-court
+- ltt-9810
+- silver-allied-network
+- xuesen-orbital
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Mictlan
 
-First mentioned: **3309-01-27**  
+First mentioned: **3301-04-15**  
 Last mentioned: **3309-01-27**  
-Total mentions: **1**
+Total mentions: **5**
 
 ## Related
 
-- [[Kumo Crew]] (1 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Turner Research Group]] (1 co-mentions)
-- [[California Nebula]] (1 co-mentions)
-- [[Pegasi]] (1 co-mentions)
+- [[Nehet]] (4 co-mentions)
+- [[Imperial Court]] (2 co-mentions)
+- [[LTT 9810]] (2 co-mentions)
+- [[Silver Allied Network]] (2 co-mentions)
+- [[Xuesen Orbital]] (1 co-mentions)
 
 ## Biography
 

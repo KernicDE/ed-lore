@@ -3,7 +3,7 @@ id: halsey-presidency
 name: Halsey Presidency
 first_seen_date: '3301-02-20'
 last_seen_date: '3302-05-14'
-mention_count: 18
+mention_count: 17
 significance: medium
 key_entities:
 - federal-navy
@@ -19,7 +19,7 @@ key_entities:
 
 First seen: **3301-02-20**  
 Last seen: **3302-05-14**  
-Articles: **18**
+Articles: **17**
 
 ## Key Figures
 

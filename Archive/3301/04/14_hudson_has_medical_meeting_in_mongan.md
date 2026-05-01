@@ -4,14 +4,20 @@ title: Hudson has Medical Meeting in Mongan
 slug: hudson_has_medical_meeting_in_mongan
 date: '3301-04-14'
 source: GitHub
+summary: Shadow President Hudson visited Reyan BPS headquarters aboard Moisuc Station in Mongan to meet CEO Sam Reyan. They discussed a potential universal healthcare scheme, improved supply chains for frontier worlds, and undisclosed projects under Federal Navy purview. The deals could be worth trillions of credits to Reyan BPS, which has traditionally struggled to secure congressional contracts.
+player_impact: None directly; Hudson's corporate alliance-building with healthcare giants signals his policy priorities and growing support base.
+persons:
+- Zachary Hudson
+- Sam Reyan
 groups:
 - Federal Navy
+- Reyan BPS
+locations:
+- Mongan
+- Moisuc Station
 topics:
 - corporate expansion
-- medicine
-entities:
-- Hudson met
-modern_impact: Medical crisis or health initiative affecting galactic populations.
+modern_impact: Hudson's courting of Reyan BPS demonstrated his strategy of aligning with corporate interests to build a power base outside traditional political channels.
 legacy_weight: 2
 significance: low
 ---

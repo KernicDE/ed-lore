@@ -4,18 +4,26 @@ title: Silver Allied Network Implicated in Attack on Emperor!
 slug: silver_allied_network_implicated_in_attack_on_emperor
 date: '3301-04-20'
 source: GitHub
+summary: Princess Arissa's fleet disrupted criminal operations in Nehet and Mictlan, uncovering evidence that led to LTT 9810. There, investigators found a rogue division of the LTT 9810 Silver Allied Network had been providing financial consultancy to Imperial crime families. Senator Torval and SAN's board denied knowledge and opened their records to Arissa's investigators, who are tracing payments believed to lead back to the attack's organisers. Arissa requested her fleet remain near Achenar for the next phase.
+player_impact: Pilots in Arissa's fleet should remain near Achenar for the next stage of the investigation into the Emperor's assassination attempt.
+persons:
+- Arissa Lavigny-Duval
+- Zemina Torval
+- Emperor Hengist Duval
+groups:
+- Silver Allied Network
 locations:
 - Achenar
+- Nehet
+- Mictlan
 - LTT 9810
 topics:
 - crime
 - investigation
-- sport
 - succession
-- war
-modern_impact: Competitive event for the pilot community.
-legacy_weight: 1
-significance: low
+modern_impact: The Silver Allied Network's implication revealed the financial infrastructure behind the assassination plot, linking corporate crime to political violence.
+legacy_weight: 4
+significance: high
 ---
 
 Thousands of Imperial bounty hunters answered The call of Princess Arissa over The last week, joining her in the hunt to uncover the identity of the cabal behind the cowardly attack on the ailing Emperor. 

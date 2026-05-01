@@ -4,11 +4,21 @@ title: Victory in Volungu for Federal Forces
 slug: victory_in_volungu_for_federal_forces
 date: '3301-04-30'
 source: GitHub
+summary: Federal pilots successfully repelled an attack on Volungu by the Patron's Principles, a group of young Faveol family members from Liaedin seeking glory. The centuries-old feud between the Faveols and Blossoms threatened to reignite, but thousands of Federal pilots flocked to Volungu and neutralised the threat within days. The Patron's Principles leadership apologised and an uneasy peace was restored.
+player_impact: Federal pilots who defended Volungu helped maintain peace in the region. The conflict has been resolved for now.
+persons: []
+groups:
+- Patron's Principles
+- Faveol family
+- Blossom family
+locations:
+- Volungu
+- Liaedin
 topics:
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+- diplomacy
+modern_impact: The swift Federal victory in Volungu demonstrated the effectiveness of independent pilot militias in resolving local conflicts before they escalated.
+legacy_weight: 2
 significance: low
 ---
 

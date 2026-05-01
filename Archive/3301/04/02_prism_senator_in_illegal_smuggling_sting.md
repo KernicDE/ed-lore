@@ -4,13 +4,17 @@ title: Prism Senator in Illegal Smuggling Sting
 slug: prism_senator_in_illegal_smuggling_sting
 date: '3301-04-02'
 source: GitHub
+summary: Senator Kahina Tijani Loren was presented with Gerasian Liquor at a concert in London during her Federation visit. The beverage is outlawed in the Empire, though the representatives claimed ignorance. Federation officials denied it was a deliberate ploy. Loren received the gift graciously, joking she would drink it all before returning home.
+player_impact: None directly; minor diplomatic incident during Loren's controversial tour of Federation space.
+persons:
+- Kahina Tijani Loren
+groups: []
 locations:
 - Prism
+- London
 topics:
 - crime
 - scandal
-- sport
-- war
 arc_id: prism-senator
 modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2

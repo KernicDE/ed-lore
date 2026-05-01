@@ -2,32 +2,32 @@
 id: volungu
 name: Volungu
 type: location
-first_seen_date: '3301-05-25'
+first_seen_date: '3301-04-27'
 last_seen_date: '3301-05-25'
-mention_count: 1
+mention_count: 3
 related_entities:
-- crimson-fortune-company
-- shadow-navy
 - faveol-family
-- blossum-family
 - liaedin
+- patrons-principles
+- blossom-family
+- federal-navy
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Volungu
 
-First mentioned: **3301-05-25**  
+First mentioned: **3301-04-27**  
 Last mentioned: **3301-05-25**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Crimson Fortune Company]] (1 co-mentions)
-- [[Shadow Navy]] (1 co-mentions)
-- [[Faveol family]] (1 co-mentions)
-- [[Blossum family]] (1 co-mentions)
-- [[Liaedin]] (1 co-mentions)
+- [[Faveol family]] (3 co-mentions)
+- [[Liaedin]] (3 co-mentions)
+- [[Patron's Principles]] (2 co-mentions)
+- [[Blossom family]] (2 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
 
 ## Biography
 

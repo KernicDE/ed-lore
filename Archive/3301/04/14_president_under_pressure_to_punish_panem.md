@@ -4,18 +4,22 @@ title: President Under Pressure to Punish Panem
 slug: president_under_pressure_to_punish_panem
 date: '3301-04-14'
 source: GitHub
+summary: Shadow President Hudson demanded President Halsey act against the continued spread of Onionhead throughout Federal space, with reports suggesting sales increased by as much as 800% in some regions. Congress called on Halsey to attack Onionhead plantations on Panem, but she resisted, arguing that an all-out assault would only drive production underground, citing Lucan Onionhead as proof.
+player_impact: None directly; the political deadlock over Onionhead policy highlights Halsey's reluctance to use military force against civilian agricultural targets.
+persons:
+- Zachary Hudson
+- Jasmina Halsey
+groups: []
 locations:
 - Panem
 topics:
 - crime
 - narcotics
-entities:
-- Halsey address
-- Under Pressure
+- politics
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
-legacy_weight: 4
-significance: high
+modern_impact: Halsey's refusal to attack Panem demonstrated her pragmatic approach to prohibition, but provided Hudson with another attack vector against her leadership.
+legacy_weight: 3
+significance: medium
 ---
 
 Shadow President Hudson appeared before Congress earlier today to demand that President Halsey address The continued spread of Onionhead throughout Federal space. 

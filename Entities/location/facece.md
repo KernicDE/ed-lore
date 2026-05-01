@@ -4,13 +4,13 @@ name: Facece
 type: location
 first_seen_date: '3301-04-03'
 last_seen_date: '3302-07-02'
-mention_count: 7
+mention_count: 8
 related_entities:
 - allied-facece-order
+- syromyatnikov-horizons
 - facece-empire-party
 - imperial-herald
-- continues
-- ltt-9810
+- simpson-depot
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-04-03**  
 Last mentioned: **3302-07-02**  
-Total mentions: **7**
+Total mentions: **8**
 
 ## Related
 
 - [[Allied Facece Order]] (3 co-mentions)
+- [[Syromyatnikov Horizons]] (2 co-mentions)
 - [[Facece Empire Party]] (2 co-mentions)
 - [[Imperial Herald]] (2 co-mentions)
-- [[Continues]] (1 co-mentions)
-- [[LTT 9810]] (1 co-mentions)
+- [[Simpson Depot]] (1 co-mentions)
 
 ## Biography
 

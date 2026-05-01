@@ -4,11 +4,17 @@ title: Public Polled on President
 slug: public_polled_on_president
 date: '3301-04-12'
 source: GitHub
-entities:
-- Halsey even stand
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: A GalPoll survey revealed President Jasmina Halsey's approval rating had fallen to 16%, the lowest of any President who remained in office in Federation history. Anonymous responses ranged from harsh criticism of her military actions and perceived incompetence to sympathetic acknowledgement of her good intentions but poor fit for the presidency.
+player_impact: None directly; Halsey's historically low approval rating reflects widespread public dissatisfaction with her administration.
+persons:
+- Jasmina Halsey
+groups: []
+locations: []
+topics:
+- politics
+modern_impact: Halsey's record-low approval rating made her politically vulnerable and set the stage for Hudson's successful vote of no confidence.
+legacy_weight: 3
+significance: medium
 ---
 
 Recent GalPoll results show that The President's popularity Continues to fall, With her approval rating now down to an abysmal 16%, The lowest approval rating of any President to have ever remained in office in the history of the Federation. 

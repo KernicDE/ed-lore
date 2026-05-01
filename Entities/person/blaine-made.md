@@ -3,8 +3,8 @@ id: blaine-made
 name: Blaine made
 type: person
 first_seen_date: '3301-03-14'
-last_seen_date: '3301-04-02'
-mention_count: 2
+last_seen_date: '3301-03-14'
+mention_count: 1
 related_entities:
 - denton
 ---
@@ -14,8 +14,8 @@ related_entities:
 # Blaine made
 
 First mentioned: **3301-03-14**  
-Last mentioned: **3301-04-02**  
-Total mentions: **2**
+Last mentioned: **3301-03-14**  
+Total mentions: **1**
 
 ## Related
 

@@ -2,32 +2,32 @@
 id: east-india-company
 name: East India Company
 type: faction
-first_seen_date: '3301-05-03'
+first_seen_date: '3301-04-15'
 last_seen_date: '3301-09-06'
-mention_count: 4
+mention_count: 6
 related_entities:
-- kappa-fornacis
-- the-code
-- eotienses
 - federal-navy
-- republican-party
+- kappa-fornacis
+- mercs-of-mikunn
+- merchant-marines
+- harm
 ---
 
 <!-- AUTO-GENERATED -->
 
 # East India Company
 
-First mentioned: **3301-05-03**  
+First mentioned: **3301-04-15**  
 Last mentioned: **3301-09-06**  
-Total mentions: **4**
+Total mentions: **6**
 
 ## Related
 
+- [[Federal Navy]] (3 co-mentions)
 - [[Kappa Fornacis]] (2 co-mentions)
-- [[The Code]] (1 co-mentions)
-- [[Eotienses]] (1 co-mentions)
-- [[Federal Navy]] (1 co-mentions)
-- [[Republican Party]] (1 co-mentions)
+- [[Mercs of Mikunn]] (1 co-mentions)
+- [[Merchant Marines]] (1 co-mentions)
+- [[Harm]] (1 co-mentions)
 
 ## Biography
 

@@ -2,9 +2,9 @@
 id: quivira
 name: Quivira
 type: location
-first_seen_date: '3301-05-01'
+first_seen_date: '3301-04-13'
 last_seen_date: '3301-08-13'
-mention_count: 8
+mention_count: 9
 related_entities:
 - peoples-quivira-for-equality-party
 - quivira-electronics-plc
@@ -17,9 +17,9 @@ related_entities:
 
 # Quivira
 
-First mentioned: **3301-05-01**  
+First mentioned: **3301-04-13**  
 Last mentioned: **3301-08-13**  
-Total mentions: **8**
+Total mentions: **9**
 
 ## Related
 

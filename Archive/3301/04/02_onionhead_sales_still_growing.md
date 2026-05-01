@@ -4,10 +4,21 @@ title: Onionhead Sales Still Growing
 slug: onionhead_sales_still_growing
 date: '3301-04-02'
 source: GitHub
+summary: Despite the Federal ban, Onionhead sales continue to grow from Panem's Harvestport, with supply reaching as far as Berrivi and Aapelinja. The Tanmark Defence Force purged plantations from their world, but Panem remains defiant. Political pundits suggest President Halsey's low polling numbers have paralysed her from acting against the resurgence. Georgio Algeria and the Kappa Fornacis Farmers Union continue profiting while preparing for potential Federal blowback.
+player_impact: Pilots may encounter Onionhead smuggling operations in the affected systems. The Federation's inaction leaves the drug trade largely unchecked.
+persons:
+- Georgio Algeria
+- Jasmina Halsey
+groups:
+- Tanmark Defence Force
+- Kappa Fornacis Farmers Union
 locations:
 - Kappa Fornacis
 - Panem
 - Tanmark
+- Harvestport
+- Berrivi
+- Aapelinja
 topics:
 - narcotics
 arc_id: onionhead-conflict

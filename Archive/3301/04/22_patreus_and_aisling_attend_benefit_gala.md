@@ -4,12 +4,17 @@ title: Patreus and Aisling Attend Benefit Gala
 slug: patreus_and_aisling_attend_benefit_gala
 date: '3301-04-22'
 source: GitHub
+summary: Senator Denton Patreus and Aisling Duval attended 'A Dinner to Defeat Dementia' charity gala on Capitol, mingling with Senators and CEOs before dancing energetically. Aisling wore a demure red gown while Patreus dressed casually. They were accompanied by Aisling's new entourage of a dozen young orphans, dubbed 'Aisling's Cherubs', who entertained guests with singing, dancing and poetry recitals.
+player_impact: None directly; the public appearance continues speculation about a relationship or alliance between Patreus and Aisling Duval.
+persons:
+- Denton Patreus
+- Aisling Duval
+groups: []
 locations:
 - Capitol
-- Denton
 topics:
 - corporate expansion
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: The charity appearance reinforced the public perception of Patreus and Aisling as a power couple, potentially masking deeper political calculations.
 legacy_weight: 2
 significance: low
 ---

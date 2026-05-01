@@ -4,17 +4,32 @@ title: Exphiay Entertains Shadow President
 slug: exphiay_entertains_shadow_president
 date: '3301-04-10'
 source: GitHub
+summary: Shadow President Hudson attended the 153rd annual Exphiay Bankers' Ball alongside Frank Hall of Gallant Investment, Paul Wiggins of Wiggins Development Trust, and Patricia Spellman of Sirius Finance. The exclusive event discussed fiscal responsibility amid failing Federal leadership. President Halsey and Vice President Naylor were reportedly not invited, and several liberal-leaning corporations were deliberately blocked from attending.
+player_impact: None directly; the event highlights Hudson's alliance with corporate power brokers and his exclusion of Halsey-aligned interests.
+persons:
+- Zachary Hudson
+- Frank Hall
+- Paul Wiggins
+- Patricia Spellman
+- Jasmina Halsey
+- Vice President Naylor
+groups:
+- Gallant Investment
+- Wiggins Development Trust
+- Sirius Finance
+- Better Green Developments
+- Roach Investment Banking
+- Worster Insurance
+- Lycan Moon Mining
+- Benton's Natural Remedies
 locations:
-- Banki
+- Exphiay
 - Sirius
 topics:
 - corporate expansion
-- ship
-entities:
-- Hudson will be
-- Naylor
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+- politics
+modern_impact: Hudson's courtship of corporate elites at exclusive events foreshadowed his business-friendly presidency and marginalisation of liberal interests.
+legacy_weight: 2
 significance: low
 ---
 

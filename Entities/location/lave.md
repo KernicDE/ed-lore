@@ -23,7 +23,7 @@ Total mentions: **33**
 
 ## Related
 
-- [[Alliance]] (13 co-mentions)
+- [[Alliance]] (12 co-mentions)
 - [[Lave Station]] (10 co-mentions)
 - [[Alioth]] (9 co-mentions)
 - [[Alliance Defence Force]] (6 co-mentions)

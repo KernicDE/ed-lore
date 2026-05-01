@@ -4,13 +4,23 @@ title: The Low Cost of Lives
 slug: the_low_cost_of_lives
 date: '3301-04-10'
 source: GitHub
+summary: Senator Arissa Lavigny-Duval's office revealed that interrogation of the would-be assassin yielded the name of the organisation behind the attack on Emperor Hengist Duval. Investigators Count von Auerburg, Earl Rednam and Earl Khaelmin were dispatched and have identified where to concentrate efforts next. Arissa vowed to catch those responsible and make them pay.
+player_impact: None directly; Arissa's investigation into the assassination attempt continues, with new leads emerging.
+persons:
+- Arissa Lavigny-Duval
+- Count von Auerburg
+- Earl Rednam
+- Earl Khaelmin
+- Emperor Hengist Duval
+groups:
+- Imperial Court
+- House of Duval
+locations: []
 topics:
 - investigation
-entities:
-- Arissa Lavigny-Duval issued
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+modern_impact: Arissa's systematic investigation into her father's assassination attempt demonstrated her methodical approach to justice and security.
+legacy_weight: 3
+significance: medium
 ---
 
 The office of Senator Arissa Lavigny-Duval issued a statement This morning to reveal what information had been collected by members of the Imperial Court loyal to the House of Duval. 

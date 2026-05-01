@@ -4,14 +4,20 @@ title: Kui Hsien and Quivira Refuse Raise in Rates
 slug: kui_hsien_and_quivira_refuse_raise_in_rates
 date: '3301-04-13'
 source: GitHub
+summary: Silver Universal PLC, Senator Patreus's financial arm, announced interest rate hikes on outstanding loans. While most independent systems negotiated refinancing, Kui Hsien and Quivira refused to acknowledge Silver Universal's legal right to increase rates and halted all payments. The move is considered dangerous given Patreus's history with debtors who refuse to pay.
+player_impact: Pilots in Kui Hsien and Quivira may face escalating conflict as Patreus responds to the payment refusal.
+persons:
+- Denton Patreus
+groups:
+- Silver Universal PLC
 locations:
 - Kui Hsien
+- Quivira
 topics:
 - corporate expansion
-- festival
-modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
-legacy_weight: 1
-significance: low
+modern_impact: Kui Hsien and Quivira's defiance of Patreus's rate hikes foreshadowed the military conflicts that would erupt over Imperial debt enforcement.
+legacy_weight: 2
+significance: medium
 ---
 
 Last week it was announced that Silver Universal PLC, The financial branch of The military corporate conglomerate led by Senator Patreus, would be raising interest rates on all outstanding loan agreements. 

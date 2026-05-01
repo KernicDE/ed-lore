@@ -4,19 +4,25 @@ title: President Halsey Announces Tour of Frontier Systems
 slug: president_halsey_announces_tour_of_frontier_systems
 date: '3301-04-28'
 source: GitHub
+summary: President Jasmina Halsey announced a tour of Federal frontier systems to build stronger links between Sol and distant colonies. Frontier systems have long complained that Mars Congress failed to support fledgling colonies. Local leaders will discuss how Sol can better support frontier governments and enterprises. Announced destinations include Hip 53688, Tinia, 78 Ursae Majoris, Su and Furuhjlem I-645.
+player_impact: None directly; pilots in listed frontier systems may see increased Federal presence during the President's tour.
+persons:
+- Jasmina Halsey
+groups: []
 locations:
-- 78 Ursae Majoris
-- Federal frontier
-- Mars
 - Sol
+- Mars
+- Hip 53688
+- Tinia
+- 78 Ursae Majoris
+- Su
+- Furuhjlem I-645
 topics:
-- construction
-entities:
-- Halsey Announces Tour
-- Halsey will soon be setting off
-modern_impact: Infrastructure project with long-term benefits for the affected region.
-legacy_weight: 2
-significance: low
+- diplomacy
+- politics
+modern_impact: Halsey's frontier tour was conceived as a political lifeline to boost her abysmal approval ratings, but would ultimately lead to her disappearance.
+legacy_weight: 3
+significance: medium
 ---
 
 The President’s office has today announced that President Halsey will soon be setting off on a tour of The Federal frontier systems. 

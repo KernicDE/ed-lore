@@ -4,14 +4,21 @@ title: Patreus and the Princess Share Food for Thought
 slug: patreus_and_the_princess_share_food_for_thought
 date: '3301-04-13'
 source: GitHub
+summary: Senator Denton Patreus and Aisling Duval were spotted dining at the exclusive pop-up restaurant Fodder on Capitol, consuming several bottles of Chateau De Aegaeon over a three-hour meal. Afterward, the pair reportedly retired to Patreus's ship, the Imperial Freedom, which departed Capitol for Eotienses with Aisling onboard.
+player_impact: None directly; the dinner fuels speculation about a political alliance between Patreus and Aisling Duval.
+persons:
+- Denton Patreus
+- Aisling Duval
+groups: []
 locations:
 - Capitol
-- Denton
 - Eotienses
+technologies:
+- Imperial Freedom
 topics:
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+- scandal
+modern_impact: The public dinner between Patreus and Aisling fuelled rumours of an alliance that could reshape Imperial power dynamics.
+legacy_weight: 2
 significance: low
 ---
 

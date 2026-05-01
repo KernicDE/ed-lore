@@ -4,19 +4,34 @@ title: Imperial Law and Order  Investigation into Attack on Emperor Continues
 slug: imperial_law_and_order_investigation_into_attack_on_emperor_continues
 date: '3301-04-16'
 source: GitHub
+summary: Arissa Lavigny-Duval directed attacks on the Nehet Silver Ring under Patrons of Law guidance, bringing crime to manageable levels. Evidence uncovered pointed to Almad criminals facilitating the Emperor's attack. Simultaneously, pilots crushed the Mictlan Cartel, and inquisitors extracted information about a previously unknown underworld consultancy believed to be based near LTT 9810. Commanders can sign up at Heinkel City in Almad and Gutierrez Terminal in LTT 9810.
+player_impact: Pilots can join the investigation at Heinkel City in Almad or Gutierrez Terminal in LTT 9810. Imperial Clippers remain available at discount from Syromyatnikov Horizons in Nu.
+persons:
+- Arissa Lavigny-Duval
+- Emperor Hengist Duval
+groups:
+- Patrons of Law
+- Nehet Silver Ring
+- Mictlan Cartel
 locations:
 - Facece
+- Nehet
+- Mictlan
+- Almad
 - LTT 9810
+- Heinkel City
+- Gutierrez Terminal
+- Nu
+- Syromyatnikov Horizons
+technologies:
+- Imperial Clipper
 topics:
 - crime
 - investigation
-- ship
 - succession
-entities:
-- Continues
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+modern_impact: Arissa's multi-system offensive against criminal networks uncovered the first concrete evidence linking organised crime to the Emperor's assassination attempt.
+legacy_weight: 4
+significance: high
 ---
 
 Arissa Lavigny-Duval’s ongoing investigation in to The attack on The Emperor took the Princess to Nehet yesterday, where the Senator from Facece directed her followers to launch an all out attack on the Nehet Silver Ring. 

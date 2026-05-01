@@ -4,20 +4,24 @@ title: Prism Senator Returns to Empire
 slug: prism_senator_returns_to_empire
 date: '3301-04-02'
 source: GitHub
+summary: Senator Kahina Tijani Loren completed her tour of the Sol system and returned to the Empire, accompanied by a large flotilla to the boundary of Federation influence where she rendezvoused with the Imperial Interdictor Lucius. When asked about her trip by the Sol Herald, she called it 'most enlightening' and joked about Federation protocols. When asked if Mars High docking officials were friends or rivals, she replied 'Neither'.
+player_impact: None directly; Loren's Federation tour concludes with her return to Imperial space under naval escort.
+persons:
+- Kahina Tijani Loren
+groups:
+- Sol Herald
 locations:
-- After completing her tour of the Sol
+- Sol
 - Mars
 - Prism
-- Sol
+technologies:
+- Imperial Interdictor Lucius
 topics:
-- ship
-entities:
-- Kahina Tijani Loren
-- Returns
+- diplomacy
 arc_id: prism-senator
 modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 After completing her tour of The Sol system and meeting Several high ranking officials within The Federation, Senator Kahina Tijani Loren has returned to the Empire. 

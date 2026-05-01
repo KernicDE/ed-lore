@@ -4,10 +4,15 @@ title: When Worlds Collide
 slug: when_worlds_collide
 date: '3301-04-10'
 source: GitHub
+summary: A resurgence in physical nightclubs among under-40s across the Federation has seen over 30% visit a nightclub in the last month, up from 12% the previous year. The shift has poured billions of credits into local economies, sparking expansion in previously stagnant systems. However, dozens of regions reported increased violent crimes linked to youth gatherings, raising concerns about wider implications.
+player_impact: None directly; economic booms in nightclub-heavy systems may create new trade and bounty hunting opportunities.
+persons: []
+groups: []
+locations: []
 topics:
 - crime
-- trade
-modern_impact: Trade initiative affecting commodity markets and local economies.
+- corporate expansion
+modern_impact: Cultural shift from virtual to physical entertainment boosted local Federal economies while simultaneously increasing urban crime rates.
 legacy_weight: 2
 significance: low
 ---

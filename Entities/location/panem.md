@@ -9,8 +9,8 @@ related_entities:
 - kappa-fornacis
 - scythe-of-panem
 - tanmark
-- federal-intelligence-agency
 - kappa-fornacis-farmers-union
+- federal-intelligence-agency
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **14**
 - [[Kappa Fornacis]] (9 co-mentions)
 - [[Scythe of Panem]] (5 co-mentions)
 - [[Tanmark]] (3 co-mentions)
+- [[Kappa Fornacis Farmers Union]] (3 co-mentions)
 - [[Federal Intelligence Agency]] (3 co-mentions)
-- [[Kappa Fornacis Farmers Union]] (2 co-mentions)
 
 ## Biography
 

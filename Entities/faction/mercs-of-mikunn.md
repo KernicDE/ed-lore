@@ -2,32 +2,32 @@
 id: mercs-of-mikunn
 name: Mercs of Mikunn
 type: faction
-first_seen_date: '3302-01-12'
+first_seen_date: '3301-04-15'
 last_seen_date: '3302-01-12'
-mention_count: 1
+mention_count: 2
 related_entities:
-- pioneers-cooperative
-- utopia
-- lorens-legion
-- communism-interstellar
-- black-birds-squadron
+- east-india-company
+- federal-navy
+- merchant-marines
+- harm
+- arjung
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Mercs of Mikunn
 
-First mentioned: **3302-01-12**  
+First mentioned: **3301-04-15**  
 Last mentioned: **3302-01-12**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Pioneers Cooperative]] (1 co-mentions)
-- [[Utopia]] (1 co-mentions)
-- [[Loren's Legion]] (1 co-mentions)
-- [[Communism Interstellar]] (1 co-mentions)
-- [[Black Birds Squadron]] (1 co-mentions)
+- [[East India Company]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Merchant Marines]] (1 co-mentions)
+- [[Harm]] (1 co-mentions)
+- [[Arjung]] (1 co-mentions)
 
 ## Biography
 

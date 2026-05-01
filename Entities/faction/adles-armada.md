@@ -2,32 +2,32 @@
 id: adles-armada
 name: Adle's Armada
 type: faction
-first_seen_date: '3301-06-22'
+first_seen_date: '3301-04-03'
 last_seen_date: '3303-06-30'
-mention_count: 5
+mention_count: 6
 related_entities:
+- cosmic-state
 - emperors-grace
-- federation
-- ngaliba
-- mbukuravi
-- kremainn
+- alliance
+- code
+- lave
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Adle's Armada
 
-First mentioned: **3301-06-22**  
+First mentioned: **3301-04-03**  
 Last mentioned: **3303-06-30**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 
+- [[Cosmic State]] (2 co-mentions)
 - [[Emperor's Grace]] (2 co-mentions)
-- [[Federation]] (1 co-mentions)
-- [[Ngaliba]] (1 co-mentions)
-- [[Mbukuravi]] (1 co-mentions)
-- [[Kremainn]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[CODE]] (1 co-mentions)
+- [[Lave]] (1 co-mentions)
 
 ## Biography
 

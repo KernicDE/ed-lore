@@ -4,14 +4,19 @@ title: Travel Advisory for NGC 6124
 slug: travel_advisory_for_ngc_6124
 date: '3301-04-25'
 source: GitHub
+summary: Explorer Lance 'Spacecat' D. survived warping into the corona of the 'B' Star in NGC 6124 SECTOR DW-N C6-10, which is abnormally close to the 'A' Star. He survived thanks to quick reflexes, an auto field maintenance unit and his Type-6 transporter, now nicknamed the 'Sundiver'. He issued a travel advisory warning other explorers to avoid the system and reprimanded the previous explorer for failing to issue such a warning.
+player_impact: Explorers should avoid system NGC 6124 SECTOR DW-N C6-10 due to dangerously close binary stars.
+persons:
+- Lance 'Spacecat' D.
+groups: []
 locations:
-- A Travel Advisory is issued for
-- He reprimands the
-- This
+- NGC 6124 SECTOR DW-N C6-10
+technologies:
+- Type-6
+- auto field maintenance unit
 topics:
 - exploration
-- war
-modern_impact: Notable exploration achievement expanding the boundaries of known space.
+modern_impact: Player-generated travel advisories established an important safety tradition for the exploration community, highlighting dangers in poorly mapped systems.
 legacy_weight: 2
 significance: low
 ---

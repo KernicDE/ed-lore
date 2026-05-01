@@ -4,11 +4,13 @@ name: Kappa Fornacis Farmers Union
 type: faction
 first_seen_date: '3301-03-19'
 last_seen_date: '3301-06-18'
-mention_count: 2
+mention_count: 3
 related_entities:
 - kappa-fornacis
 - panem
-- east-india-company
+- tanmark-defence-force
+- tanmark
+- harvestport
 ---
 
 <!-- AUTO-GENERATED -->
@@ -17,13 +19,15 @@ related_entities:
 
 First mentioned: **3301-03-19**  
 Last mentioned: **3301-06-18**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Kappa Fornacis]] (2 co-mentions)
-- [[Panem]] (2 co-mentions)
-- [[East India Company]] (1 co-mentions)
+- [[Kappa Fornacis]] (3 co-mentions)
+- [[Panem]] (3 co-mentions)
+- [[Tanmark Defence Force]] (1 co-mentions)
+- [[Tanmark]] (1 co-mentions)
+- [[Harvestport]] (1 co-mentions)
 
 ## Biography
 

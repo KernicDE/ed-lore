@@ -4,13 +4,26 @@ title: Race to Center of Galaxy Starts in Sol
 slug: race_to_center_of_galaxy_starts_in_sol
 date: '3301-04-23'
 source: GitHub
+summary: The Buckyball Run A*, a permanent endurance rally race to Sagittarius A*, began with pilots gathering at Galileo station near Earth in Sol. Unlike previous Buckyball Runs, this challenge remains permanently open. Spokesperson Mirana Ortilano explained the finish line's significance as the centre of the Milky Way. At time of broadcast, Commander Anuranium held the record in a Faulcon DeLacy Anaconda.
+player_impact: Pilots can register for the Buckyball Run A* and attempt to set the fastest time from Sol to Sagittarius A*.
+persons:
+- Mirana Ortilano
+- Commander Anuranium
+- Léonard Chamberlain
+groups:
+- Buckyball Run
 locations:
-- Sagittarius A*
 - Sol
+- Sagittarius A*
+- Galileo station
+- Earth
+technologies:
+- Faulcon DeLacy Anaconda
 topics:
 - sport
-modern_impact: Competitive event for the pilot community.
-legacy_weight: 1
+- exploration
+modern_impact: The Buckyball Run A* established a permanent player-driven endurance challenge that inspired generations of explorers to race to the galactic centre.
+legacy_weight: 2
 significance: low
 ---
 

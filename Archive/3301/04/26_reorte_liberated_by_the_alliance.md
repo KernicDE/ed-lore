@@ -4,19 +4,26 @@ title: Reorte Liberated by the Alliance
 slug: reorte_liberated_by_the_alliance
 date: '3301-04-26'
 source: GitHub
+summary: After three weeks of operations, the Alliance Elite Diplomatic Corps returned control of Reorte to an Alliance-aligned faction. A pirate group had attempted to rename the Lave Cluster the 'New Caribbean', but undercover AEDC agents worked with local groups to prepare for a swift retaking of Davies High. Alliance approval in Reorte now stands at 93%. In Lave, Alliance faction influence exceeds 80%. Attention now turns to Leesti as the next target for Alliance reclamation.
+player_impact: Pilots supported the Alliance recapture of Reorte. Alliance forces may soon move on Leesti to complete Old Worlds reclamation.
+persons: []
 groups:
-- Alliance
+- Alliance Elite Diplomatic Corps
+- Alliance of Independent Systems
+- Workers of Lave Liberals
+- Pro-Alliance League
 locations:
+- Reorte
 - Lave
 - Leesti
+- Davies High
 topics:
 - diplomacy
 - piracy
-- trade
 - war
-modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
-legacy_weight: 2
-significance: low
+modern_impact: The Alliance's successful reclamation of Reorte demonstrated the effectiveness of coordinated diplomatic and military operations in the Old Worlds.
+legacy_weight: 3
+significance: medium
 ---
 
 After 3 weeks of intense activity in The Lave Cluster, The Alliance Elite Diplomatic Corps (AEDC) has managed to return control of Reorte to an Alliance aligned faction. 

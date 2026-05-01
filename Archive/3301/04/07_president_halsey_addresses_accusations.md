@@ -4,17 +4,20 @@ title: President Halsey Addresses Accusations
 slug: president_halsey_addresses_accusations
 date: '3301-04-07'
 source: GitHub
+summary: President Jasmina Halsey directly addressed Shadow President Hudson's campaign to remove her from office during a rare appearance on 'Face The People'. She expressed disappointment with Hudson's conduct, denied personal responsibility for Federal Navy supply line failures and civilian casualties from misidentified targets, and claimed mistakes were worsened by internal interference. She vowed to continue serving as President for a very long time.
+player_impact: None directly; Halsey's defensive address revealed her deteriorating political position and inability to quell internal opposition.
+persons:
+- Jasmina Halsey
+- Zachary Hudson
 groups:
 - Federal Navy
+locations: []
 topics:
 - scandal
-entities:
-- Halsey Addresses Accusations
-- Hudson's campaign
-- Jasmina Halsey
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- politics
+modern_impact: Halsey's televised defence against Hudson's attacks demonstrated the depth of the political crisis consuming her administration.
+legacy_weight: 3
+significance: medium
 ---
 
 President Jasmina Halsey has finally chosen to directly address Shadow President Hudson's campaign to see her removed from office. In a statement issued during a rare appearance on ‘Face The People’, The President had This to say about her current situation:  

@@ -4,18 +4,25 @@ title: Operation Tomahawk Aims to Rid Lave of CODE Threat
 slug: operation_tomahawk_aims_to_rid_lave_of_code_threat
 date: '3301-04-03'
 source: GitHub
+summary: As the war in Lave continues between CODE and Cosmic State, Cosmic State has allied with Adle's Armada in Operation Tomahawk. CODE is reportedly charging traders for 'travel passes' in the Lave system, claiming they provide protection against CODE attacks. Cosmic State asserts that CMDRs Silk and Kudach are heading the operation to free Lave and potentially Leesti from the CODE threat.
+player_impact: Pilots can support Operation Tomahawk to combat CODE's extortion racket in Lave and Leesti, or trade carefully in Lave where travel passes may be demanded.
+persons:
+- CMDR Silk
+- CMDR Kudach
 groups:
 - Alliance
+- CODE
+- Cosmic State
+- Adle's Armada
 locations:
 - Lave
 - Leesti
 topics:
-- scandal
-- trade
+- piracy
 - war
-modern_impact: Trade initiative affecting commodity markets and local economies.
-legacy_weight: 2
-significance: low
+modern_impact: Operation Tomahawk demonstrated early organised resistance to CODE's dominance in the Lave cluster, a precursor to later conflicts over the Old Worlds.
+legacy_weight: 3
+significance: medium
 ---
 
 As the war in Lave Continues between CODE and Cosmic State, reports have emerged to suggest that Cosmic State have chosen Adle's Armada as unlikely allies in what's being called Operation Tomahawk. 

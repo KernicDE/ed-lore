@@ -9,8 +9,8 @@ related_entities:
 - alliance
 - sirius-corporation
 - lave
+- reorte
 - alioth
-- george-lucas-station
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **22**
 
 ## Related
 
-- [[Alliance]] (13 co-mentions)
+- [[Alliance]] (12 co-mentions)
 - [[Sirius Corporation]] (6 co-mentions)
 - [[Lave]] (4 co-mentions)
+- [[Reorte]] (4 co-mentions)
 - [[Alioth]] (4 co-mentions)
-- [[George Lucas station]] (4 co-mentions)
 
 ## Biography
 

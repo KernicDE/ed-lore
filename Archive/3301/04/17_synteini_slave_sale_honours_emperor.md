@@ -4,18 +4,24 @@ title: Synteini Slave Sale Honours Emperor
 slug: synteini_slave_sale_honours_emperor
 date: '3301-04-17'
 source: GitHub
+summary: The 'Great Slaver Showdown' between Zemina Torval and Aisling Duval concluded with Torval's victory. The Imperial Slavers Association provided for 2,387,567 non-citizens compared to Aisling's Angels freeing 1,149,756 slaves. In honour of Emperor Hengist Duval, Torval authorised the sale of 5 million Imperial Slaves at 20% off regular retail price at Lagerkvist Gateway in Synteini.
+player_impact: Pilots can purchase Imperial Slaves at a 20% discount at Lagerkvist Gateway in Synteini, though stock levels are initially low.
+persons:
+- Zemina Torval
+- Aisling Duval
+- Emperor Hengist Duval
+groups:
+- Imperial Slavers Association
+- Aisling's Angels
 locations:
 - Synteini
+- Lagerkvist Gateway
 topics:
 - slavery
-- sport
 - succession
-- war
-entities:
-- Torval released
-modern_impact: Competitive event for the pilot community.
-legacy_weight: 1
-significance: low
+modern_impact: Torval's victory and subsequent slave sale reinforced traditional Imperial slavery practices and her dominant position in the succession struggle.
+legacy_weight: 3
+significance: medium
 ---
 
 Last week Zemina Torval and Aisling Duval went head to head In a contest Imperial citizens have dubbed The ‘Great Slaver Showdown’. Both parties used The competition as an excuse to promote their own radical philosophies regarding the laws surrounding Imperial Slavery, and it looks like we finally know whose stance the Imperial public supports more. 

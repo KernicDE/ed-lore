@@ -2,26 +2,32 @@
 id: merchant-marines
 name: Merchant Marines
 type: faction
-first_seen_date: '3301-08-24'
+first_seen_date: '3301-04-15'
 last_seen_date: '3301-08-24'
-mention_count: 1
+mention_count: 4
 related_entities:
-- kumo-crew
-- lavignys-legion
+- east-india-company
+- federal-navy
+- mercs-of-mikunn
+- harm
+- arjung
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Merchant Marines
 
-First mentioned: **3301-08-24**  
+First mentioned: **3301-04-15**  
 Last mentioned: **3301-08-24**  
-Total mentions: **1**
+Total mentions: **4**
 
 ## Related
 
-- [[Kumo Crew]] (1 co-mentions)
-- [[Lavigny's Legion]] (1 co-mentions)
+- [[East India Company]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Mercs of Mikunn]] (1 co-mentions)
+- [[Harm]] (1 co-mentions)
+- [[Arjung]] (1 co-mentions)
 
 ## Biography
 

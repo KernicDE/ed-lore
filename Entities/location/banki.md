@@ -3,14 +3,12 @@ id: banki
 name: Banki
 type: location
 first_seen_date: '3301-02-13'
-last_seen_date: '3301-04-10'
-mention_count: 5
+last_seen_date: '3301-03-09'
+mention_count: 4
 related_entities:
 - federal-navy
 - halsey-might-be-facing
 - smeaton
-- hudson-will-be
-- naylor
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +16,14 @@ related_entities:
 # Banki
 
 First mentioned: **3301-02-13**  
-Last mentioned: **3301-04-10**  
-Total mentions: **5**
+Last mentioned: **3301-03-09**  
+Total mentions: **4**
 
 ## Related
 
 - [[Federal Navy]] (2 co-mentions)
 - [[Halsey might be facing]] (1 co-mentions)
 - [[Smeaton]] (1 co-mentions)
-- [[Hudson will be]] (1 co-mentions)
-- [[Naylor]] (1 co-mentions)
 
 ## Biography
 

@@ -4,18 +4,24 @@ title: Torval Apologises for Synteini Slave Snafu
 slug: torval_apologises_for_synteini_slave_snafu
 date: '3301-04-21'
 source: GitHub
+summary: The Imperial Slavers Association's planned sale of 5 million discounted Imperial Slaves at Lagerkvist Gateway was delayed when Princess Arissa's agents seized the shipment in LTT 9810 as part of their investigation. Senator Zemina Torval was reportedly furious but later apologised, acknowledging the investigators acted with the Emperor's best interests at heart. A fresh shipment is now being prepared for sale at Lagerkvist Gateway.
+player_impact: Pilots can purchase discounted Imperial Slaves at Lagerkvist Gateway in Synteini, though stock levels will remain low until the new shipment arrives.
+persons:
+- Zemina Torval
+- Arissa Lavigny-Duval
+- Emperor Hengist Duval
+groups:
+- Imperial Slavers Association
 locations:
 - LTT 9810
 - Synteini
+- Lagerkvist Gateway
 topics:
-- investigation
-- ship
 - slavery
-- succession
-- trade
-modern_impact: Ship review and release information for the pilot community.
+- investigation
+modern_impact: The incident illustrated the tension between Arissa's investigation and Torval's commercial interests, forcing Torval to publicly defer to the anti-assassination inquiry.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Last weekend The Imperial Slavers Association was supposed to make 5 million Imperial Slaves available for a significant discount in The markets aboard Lagerkvist Gateway. Much to the dismay of Hundreds of eager Imperial traders, the slaves (and their associated discount) were delayed by members of Princess Lavigny-Duval’s retinue as they attempted to pass through LTT 9810. 

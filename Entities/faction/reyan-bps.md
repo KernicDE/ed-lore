@@ -2,30 +2,32 @@
 id: reyan-bps
 name: Reyan BPS
 type: faction
-first_seen_date: '3301-06-11'
+first_seen_date: '3301-04-14'
 last_seen_date: '3301-06-11'
-mention_count: 1
+mention_count: 2
 related_entities:
+- federal-navy
+- mongan
+- moisuc-station
 - federation
 - ltt-15449-dynamic-incorporated
-- mars
-- sol
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Reyan BPS
 
-First mentioned: **3301-06-11**  
+First mentioned: **3301-04-14**  
 Last mentioned: **3301-06-11**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
+- [[Federal Navy]] (1 co-mentions)
+- [[Mongan]] (1 co-mentions)
+- [[Moisuc Station]] (1 co-mentions)
 - [[Federation]] (1 co-mentions)
 - [[LTT 15449 Dynamic Incorporated]] (1 co-mentions)
-- [[Mars]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
 
 ## Biography
 

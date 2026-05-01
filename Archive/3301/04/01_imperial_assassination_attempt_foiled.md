@@ -4,6 +4,13 @@ title: Imperial Assassination Attempt Foiled
 slug: imperial_assassination_attempt_foiled
 date: '3301-04-01'
 source: GitHub
+summary: An assassination attempt on Emperor Hengist Duval was foiled at the Imperial Palace on Capitol after a janitor noticed the Palace pharmacy had been left unlocked. A full inventory revealed tampering with the Emperor's medication. Chancellor Blaine confirmed that had the attack gone undetected much longer, the Emperor would almost certainly have been killed. The assassin was captured thanks to Princess Arissa's agents and is undergoing questioning.
+player_impact: Citizens with information about the assassination attempt should contact Capitol Security.
+persons:
+- Emperor Hengist Duval
+- Chancellor Blaine
+- Princess Arissa Lavigny-Duval
+groups: []
 locations:
 - Capitol
 - Imperial Palace
@@ -11,9 +18,9 @@ topics:
 - investigation
 - medicine
 - succession
-modern_impact: Medical crisis or health initiative affecting galactic populations.
-legacy_weight: 2
-significance: low
+modern_impact: Foiled assassination attempt on the Emperor heightened tensions around Imperial succession and revealed vulnerabilities in Palace security.
+legacy_weight: 4
+significance: high
 ---
 
 According to sources within The Imperial Palace on Capitol an attempt to end The Emperor’s life was foiled late last night. 

@@ -4,14 +4,25 @@ title: The Talons of Justice
 slug: the_talons_of_justice
 date: '3301-04-15'
 source: GitHub
+summary: Senator Arissa Lavigny-Duval revealed on 'Question Everything' that information from loyal Imperial citizens has proven invaluable in hunting the Emperor's attackers. Agents uncovered two potential locations holding answers. She called on pilots to assist her investigative task force, with sign-ups available at Xuesen Orbital in Nehet and Kowal Dock in Mictlan.
+player_impact: Pilots can sign up to assist Arissa's investigative task force at Xuesen Orbital in Nehet or Kowal Dock in Mictlan to help uncover the conspiracy behind the assassination attempt.
+persons:
+- Arissa Lavigny-Duval
+- Emperor Hengist Duval
+groups:
+- Imperial Court
+locations:
+- Xuesen Orbital
+- Nehet
+- Kowal Dock
+- Mictlan
 topics:
 - crime
 - investigation
 - succession
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+modern_impact: Arissa's expansion of the investigation into Nehet and Mictlan demonstrated her methodical approach to rooting out the conspiracy against the Emperor.
+legacy_weight: 3
+significance: medium
 ---
 
 During an exclusive interview With the popular Imperial politics programme, ‘Question Everything’, Senator Arissa Lavigny-Duval provided some new insight into The ongoing investigation into the attempted assassination of Emperor Hengist Duval. 

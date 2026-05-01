@@ -4,13 +4,36 @@ title: East India Company Announces Galactic Silk Road
 slug: east_india_company_announces_galactic_silk_road
 date: '3301-04-15'
 source: GitHub
+summary: The East India Company announced the Galactic Silk Road, a public trade route featuring seventeen highly profitable stops across civilised space. CMDR Bunny, the route's spokesperson, stated the organisation would provide protection to traders and has arranged patrols with the Federal Navy, Mercs of Mikunn, Merchant Marines and other factions. The route includes stations such as Gentil Hub in Harm, Hiya Orbital in Arjung, and Kagawa Vision in Nidayiman.
+player_impact: Pilots can travel the Galactic Silk Road with EIC protection and faction patrols, offering safer trading across seventeen profitable systems.
+persons:
+- CMDR Bunny
 groups:
+- East India Company
 - Federal Navy
+- Mercs of Mikunn
+- Merchant Marines
 locations:
-- Austin
+- Harm
+- Arjung
+- Scirth
+- Kaliki
+- Bommatsuri
+- Feng Tanga
+- HIP 9989
+- Popocassa
+- Lileni
+- Xi Wang Mu
+- Dheneb
+- HIP 7916
+- HIP 8830
+- HIP 9753
+- HR 827
+- Badbadzist
+- Nidayiman
 topics:
-- trade
-modern_impact: Trade initiative affecting commodity markets and local economies.
+- corporate expansion
+modern_impact: The Galactic Silk Road established one of the first major player-organised protected trade routes, setting a precedent for cooperative trading initiatives.
 legacy_weight: 2
 significance: low
 ---

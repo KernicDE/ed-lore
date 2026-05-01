@@ -4,15 +4,26 @@ title: The Hunt for Justice
 slug: the_hunt_for_justice
 date: '3301-04-20'
 source: GitHub
+summary: Senator Denton Patreus began debt reclamation against Kui Hsien after the Friends of Kui Hsien cooperative council, unable to repay arms debts incurred during their war with the Federal-aligned Future of LTT 911 Party, refused to meet financial demands. Despite local traders' efforts to stimulate the economy, Patreus authorised the Conservatives of BV Phoenicis to begin forfeiture. Imperial mercenaries can sign up for reclamation duty aboard Aoki Dock in BV Phoenicis.
+player_impact: Pilots can sign up as Imperial mercenaries for debt reclamation operations at Aoki Dock in BV Phoenicis.
+persons:
+- Denton Patreus
+groups:
+- Friends of Kui Hsien
+- Future of LTT 911 Party
+- Conservatives of BV Phoenicis
+- Eotienses Silver Universal PLC
 locations:
 - Eotienses
 - Kui Hsien
+- BV Phoenicis
+- Aoki Dock
+- LTT 911
 topics:
-- trade
 - war
-modern_impact: Trade initiative affecting commodity markets and local economies.
+modern_impact: Another example of Patreus's debt-based military enforcement, demonstrating how Imperial power players exploited post-war economic devastation.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Senator Patreus has today begun The process of sending his agents to reclaim the debt owed to him by the government of Kui Hsien. 

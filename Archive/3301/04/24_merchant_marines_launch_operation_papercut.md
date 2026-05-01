@@ -4,17 +4,21 @@ title: Merchant Marines Launch Operation Papercut
 slug: merchant_marines_launch_operation_papercut
 date: '3301-04-24'
 source: GitHub
+summary: The Merchant Marines, a group of Federal commanders, launched unauthorised attacks against Imperial traders in Eotienses and began blockading the system to stop industrial materials reaching Parkinson Dock. They fear high-tech production could turn Eotienses into a catalyst for Patreus's Imperial war machine. Traders receive a single warning to leave; further action results in aggressive coercion. President Halsey's office had not responded to requests for comment at time of press.
+player_impact: Pilots in Eotienses may encounter Merchant Marine blockades. Imperial traders are being interdicted and warned to leave the system.
+persons:
+- Denton Patreus
+- Jasmina Halsey
+groups:
+- Merchant Marines
 locations:
-- Denton
 - Eotienses
-- We plan to blockade the Eotienses
+- Parkinson Dock
 topics:
-- trade
 - war
-arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
-legacy_weight: 4
-significance: high
+modern_impact: The unauthorised Federal blockade of Eotienses demonstrated the growing militarisation of independent pilot groups and their willingness to act across superpower borders.
+legacy_weight: 3
+significance: medium
 ---
 
 Reports coming in from Eotienses indicate that a group of Federal Commanders, known As the Merchant Marines, are currently engaged In a series of unauthorised attacks against Imperial traders in The employ of Senator Patreus.    

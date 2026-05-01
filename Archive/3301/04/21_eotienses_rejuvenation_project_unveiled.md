@@ -4,15 +4,18 @@ title: Eotienses Rejuvenation Project Unveiled
 slug: eotienses_rejuvenation_project_unveiled
 date: '3301-04-21'
 source: GitHub
+summary: Senator Denton Patreus announced an initiative to rejuvenate Parkinson Dock in Eotienses to promote high-tech goods development, overseen by the Citizens' Forum. The project aims to bring thousands of new jobs, with Imperial corporations bidding fiercely for presence aboard the station. Most space is rumoured to be reserved for businesses with ties to the Senator. The Citizens' Forum has placed large orders for industrial materials to begin repurposing the facilities.
+player_impact: Pilots can deliver industrial materials to Parkinson Dock to support the rejuvenation project and earn rewards.
+persons:
+- Denton Patreus
+groups:
+- Citizens' Forum
 locations:
-- Denton
 - Eotienses
+- Parkinson Dock
 topics:
 - corporate expansion
-- war
-entities:
-- Denton Patreus
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Patreus's rejuvenation project consolidated his influence as both an arms dealer and economic power broker in his home system.
 legacy_weight: 2
 significance: low
 ---

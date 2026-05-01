@@ -4,15 +4,20 @@ title: Investigation into Assassination Attempt Ongoing
 slug: investigation_into_assassination_attempt_ongoing
 date: '3301-04-02'
 source: GitHub
+summary: Chancellor Blaine appeared before the Senate regarding the assassination attempt on Emperor Hengist Duval. He refused to clarify the line of succession but assured senators the Emperor's health was stable despite the setback. The assassin was captured thanks to Princess Arissa's agents and is undergoing questioning. Blaine vowed forensic teams would find who ordered the attack and bring them to justice.
+player_impact: Citizens with information about the assassination attempt should contact authorities. The investigation continues with full Imperial security resources.
+persons:
+- Chancellor Blaine
+- Princess Arissa Lavigny-Duval
+- Emperor Hengist Duval
+groups: []
+locations: []
 topics:
 - investigation
 - succession
-- war
-entities:
-- Blaine made
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+modern_impact: Ongoing investigation into the Emperor's assassination attempt kept Imperial succession tensions high and demonstrated Arissa's loyalty.
+legacy_weight: 3
+significance: medium
 ---
 
 Chancellor Blaine made an appearance before The Senate today to answer questions regarding The recent assassination attempt on the Emperor's life. The Chancellor remained stoic as he once again turned aside calls to clarify the line of succession, saying: 

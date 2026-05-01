@@ -4,15 +4,26 @@ title: Imperial Citizens are Meant to Fly
 slug: imperial_citizens_are_meant_to_fly
 date: '3301-04-11'
 source: GitHub
+summary: Princess Arissa Lavigny-Duval ordered the construction of a sizeable fleet of Imperial Clippers at Syromyatnikov Horizons shipyards in Nu, jointly overseen by the Citizens of Tradition and Gutamaya Corporation. The move follows her mobilisation of Counts and Earls to Facece to investigate the assassination attempt on Emperor Hengist Duval. Arissa stated the fleet would be 'a lance of light' to purge darkness and corruption from the Empire.
+player_impact: None directly; Arissa's military buildup signals her intention to take a more active security role in Imperial affairs.
+persons:
+- Arissa Lavigny-Duval
+- Emperor Hengist Duval
+groups:
+- Citizens of Tradition
+- Gutamaya Corporation
 locations:
 - Facece
+- Nu
+- Syromyatnikov Horizons
+technologies:
+- Imperial Clipper
 topics:
-- corporate expansion
 - investigation
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+- corporate expansion
+modern_impact: Arissa's construction of a personal fleet demonstrated her transition from political figure to active military power in the Imperial succession struggle.
+legacy_weight: 3
+significance: medium
 ---
 
 Evidently The Senator from Facece wasn’t engaging in empty political posturing when she said that she would find those responsible for The attack on her father. On Arissa’s orders a sizeable number of Counts and Earls have flocked to Facece to help investigate both their fellow nobility and the citizenry under their care.  

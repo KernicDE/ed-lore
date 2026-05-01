@@ -2,18 +2,18 @@
 id: faulcon-delacy-anaconda
 name: Faulcon DeLacy Anaconda
 type: technology
-first_seen_date: '3301-05-22'
+first_seen_date: '3301-04-23'
 last_seen_date: '3301-05-22'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Faulcon DeLacy Anaconda
 
-First mentioned: **3301-05-22**  
+First mentioned: **3301-04-23**  
 Last mentioned: **3301-05-22**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
