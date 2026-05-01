@@ -4,12 +4,18 @@ title: Restoring Order in T’iensei
 slug: restoring_order_in_tiensei
 date: '3304-05-25'
 source: GitHub
+summary: Authorities in the T’iensei system have reported a sharp increase in criminals attacking pilots and disrupting trade. The Autocracy of T’iensei has placed a kill order on all ships on its wanted list and promised rewards to pilots who deliver bounty vouchers to Dzhanibekov Port.
+player_impact: Pilots can earn rewards by delivering bounty vouchers to Dzhanibekov Port in the T’iensei system.
+persons: []
+groups:
+- Autocracy of T’iensei
+locations:
+- T’iensei
+- Dzhanibekov Port
 topics:
 - crime
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Bounty hunting campaigns continue to be used by local authorities to restore order in systems facing criminal uprisings.
 legacy_weight: 2
 significance: low
 ---

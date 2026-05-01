@@ -4,18 +4,24 @@ title: Defending the Sim Archive
 slug: defending_the_sim_archive
 date: '3304-05-04'
 source: GitHub
-entities:
+summary: The Utopia commune has launched a project to build a military installation in the Narri system to defend the Sim-Archive from potential Thargoid attack. Dr Leigh Constantinides announced the project, citing strategist Marquis Novantico's observations. The Narri Justice Party is overseeing construction and has requested pilots deliver materials to Bobko City while protecting traders from pirates.
+player_impact: Pilots can deliver construction materials to Bobko City in the Narri system and earn rewards from bounty vouchers for eliminating pirates.
+persons:
 - Leigh Constantinides
+- Marquis Novantico
 groups:
 - Utopia
+- Narri Justice Party
+locations:
+- Narri
+- Bobko City
 topics:
 - alien contact
 - construction
-- ship
+- piracy
 - trade
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Utopia's proactive defence of the Sim-Archive reflects growing awareness that cultural preservation requires physical protection during the Thargoid conflict.
 legacy_weight: 5
 significance: high
 ---

@@ -4,18 +4,20 @@ title: Genesis of the Thargoids
 slug: genesis_of_the_thargoids
 date: '3304-04-07'
 source: GitHub
-entities:
+summary: Professor Cora Shaw, director of the Palin Institute, has published a paper speculating on Thargoid origins. She suggests they may have evolved in a harsh ammonia-based environment, are expert bioengineers who augmented their own biology, and could be nomadic or even extragalactic or extra-universal in origin. She also theorizes they might originate from hyperspace itself.
+player_impact: None explicitly stated.
+persons:
 - Cora Shaw
+groups:
+- Palin Institute
+locations:
+- Colonia
 topics:
 - alien contact
-- engineering
 - exploration
-- ship
-- war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Scientific speculation about Thargoid origins continues to expand, ranging from evolutionary biology to extra-universal hypotheses.
 legacy_weight: 5
 significance: high
 ---

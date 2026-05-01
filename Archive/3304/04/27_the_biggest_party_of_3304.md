@@ -4,15 +4,17 @@ title: The Biggest Party of 3304
 slug: the_biggest_party_of_3304
 date: '3304-04-27'
 source: GitHub
+summary: The Vadimo Patrons of Law, an Imperial organisation based in Vadimo, has announced plans to host an elaborate soirée. A spokesperson stated they want to give the people of Vadimo a chance to forget their worries amid the Thargoid threat. They have placed an open order for commodities and promised rewards to pilots who deliver goods to Sikorsky Station, along with kill orders on wanted ships to protect traders.
+player_impact: Pilots can deliver commodities to Sikorsky Station in the Vadimo system and earn rewards.
+persons: []
+groups:
+- Vadimo Patrons of Law
 locations:
 - Vadimo
-- We want this to be the best party the
+- Sikorsky Station
 topics:
-- alien contact
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Community celebrations continue to provide social relief for populations living under the shadow of the Thargoid conflict.
 legacy_weight: 2
 significance: low
 ---

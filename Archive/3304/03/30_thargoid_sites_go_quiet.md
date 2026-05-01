@@ -4,18 +4,21 @@ title: Thargoid Sites Go Quiet
 slug: thargoid_sites_go_quiet
 date: '3304-03-30'
 source: GitHub
+summary: Admiral Aden Tanner has announced that Thargoid structures under surveillance in the Pleiades Nebula are currently dormant, with no energy-level fluctuations detected for several days. The Eagle Eye initiative has allowed Aegis to predict attack locations. The Vanguard and Acropolis will remain on standby in HIP 21559 and Irandan until needed.
+player_impact: None explicitly stated.
+persons:
+- Aden Tanner
 groups:
 - Aegis
 locations:
-- Aegis
 - Pleiades Nebula
+- HIP 21559
+- Irandan
 topics:
 - alien contact
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Temporary lulls in Thargoid activity demonstrate the value of surveillance initiatives like Eagle Eye for predicting attack patterns.
 legacy_weight: 5
 significance: high
 ---

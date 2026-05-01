@@ -4,28 +4,24 @@ title: Imperial Senator Murdered
 slug: imperial_senator_murdered
 date: '3304-04-21'
 source: GitHub
-entities:
-- Arissa Lavigny-Duval made
-- Cartesius
-- John Jameson
-- Murdered
+summary: Imperial Senator Nestor Cartesius has been found dead at his home on Capitol, his death treated as a homicide. Captain Niamh Seutonia of the Imperial Internal Security Service confirmed a note reading 'For Jameson' was left by the murderer. IISS analysts confirmed Cartesius was directly descended from a senior INRA member, suggesting revenge as the motive connected to the recent rediscovery of INRA outposts and Commander Jameson's ship. Emperor Arissa Lavigny-Duval vowed to bring the perpetrators to justice.
+player_impact: None explicitly stated.
+persons:
 - Nestor Cartesius
+- Niamh Seutonia
+- Arissa Lavigny-Duval
+- John Jameson
 groups:
-- IISS
-- INRA
 - Imperial Internal Security Service
+- INRA
 locations:
 - Capitol
 topics:
 - crime
-- diplomacy
 - investigation
-- research
-- ship
 - succession
 arc_id: inra-exposed
-modern_impact: Revelations about INRA's dark history reshape public understanding
-  of the Thargoid conflict and superpower accountability.
+modern_impact: Revelations about INRA's dark history reshape public understanding of the Thargoid conflict and superpower accountability.
 legacy_weight: 4
 significance: high
 ---

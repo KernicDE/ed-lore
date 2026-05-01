@@ -4,16 +4,20 @@ title: Fringe Doomsayer Cults on the Rise
 slug: fringe_doomsayer_cults_on_the_rise
 date: '3304-05-19'
 source: GitHub
+summary: Independent reporter Gethin Okonkwo has highlighted the rise of radical doomsayer cults in the core systems, driven by fears of the Thargoid threat. Groups such as the Church of the Eternal Void and Generation Omega are attracting thousands of followers, with some planning mass euthanasia centres. Authorities have restated that the Thargoid threat is being controlled.
+player_impact: None explicitly stated.
+persons:
+- Gethin Okonkwo
+groups:
+- Church of the Eternal Void
+- Generation Omega
 locations:
-- Authorities in the core
+- Colonia
 topics:
 - alien contact
-- construction
-- war
-- xenoarchaeology
+- religion
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The psychological impact of the Thargoid threat continues to fuel radical belief systems and social unrest in populated systems.
 legacy_weight: 5
 significance: high
 ---

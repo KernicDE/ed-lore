@@ -4,6 +4,10 @@ title: Salvage and Rescue Operation Ends
 slug: salvage_and_rescue_operation_ends
 date: '3304-05-25'
 source: GitHub
+summary: The operation to recover survivors and salvage from a convoy attacked by pirates in the core systems has concluded. Search-and-rescue teams from United Carnoeck for Equality were assisted by scores of independent pilots. Security Chief Tal Woźniak thanked participants and stated that recovered data will help track down the pirate group responsible.
+player_impact: Pilots who contributed to the operation can now collect their rewards from Bacon City in the Carnoeck system.
+persons:
+- Tal Woźniak
 groups:
 - United Carnoeck for Equality
 locations:
@@ -13,8 +17,7 @@ topics:
 - humanitarian
 - piracy
 - safety
-- war
-modern_impact: Anti-piracy operation protecting trade routes.
+modern_impact: Search-and-rescue operations remain critical for recovering survivors and evidence from pirate attacks in the core systems.
 legacy_weight: 1
 significance: low
 ---

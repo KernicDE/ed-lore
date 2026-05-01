@@ -4,24 +4,29 @@ title: Senator’s Death Raises Questions about INRA
 slug: senators_death_raises_questions_about_inra
 date: '3304-04-28'
 source: GitHub
-entities:
+summary: The murder of Imperial Senator Nestor Cartesius has sparked widespread speculation about the INRA. Dr Oskar Kincaid, an Alliance historian, examined the INRA’s history of biochemical warfare against Thargoids and rumours of experimentation. Editor Jast Fernández suggested the killer was motivated by the discovery of Commander Jameson’s ship logs proving the INRA manipulated and sacrificed him. Senator Pal Vespasian appealed for the Cartesius family to be given space to grieve. Captain Niamh Seutonia stated the IISS is pursuing forensic leads.
+player_impact: None explicitly stated.
+persons:
 - Nestor Cartesius
 - Oskar Kincaid
+- Jast Fernández
+- Pal Vespasian
+- Niamh Seutonia
+- John Jameson
 groups:
 - Alliance
 - IISS
 - INRA
-- Intergalactic Naval Reserve Arm
+locations:
+- Capitol
 topics:
 - alien contact
 - crime
 - investigation
 - research
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The murder of Senator Cartesius catalyzed public interest in INRA’s dark history and the legacy of Commander Jameson’s betrayal.
 legacy_weight: 5
 significance: high
 ---

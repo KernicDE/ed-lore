@@ -4,14 +4,25 @@ title: Week in Review
 slug: week_in_review
 date: '3304-05-20'
 source: GitHub
-entities:
+summary: This week's major stories include the murder of Fleet Admiral Tulimaq Buchanan of the Alliance Council of Admirals by the League of Reparation, linked to his ancestor's role in INRA. Fringe doomsayer cults are rising in the core systems due to Thargoid fears. Scientists in Colonia led by Professor Alexei de la Vega are investigating regional expansion potential. A convoy in the core systems was attacked by pirates, with search-and-rescue teams requesting pilot assistance. The Moritasgus Imperial Corporation successfully completed a commodities appeal in Veroklist.
+player_impact: Pilots can assist the Colonia microresources campaign, the salvage and rescue operation for the attacked convoy, or collect rewards from the Veroklist campaign.
+persons:
 - Alexei de la Vega
+- Tulimaq Buchanan
+- Tal Woźniak
 groups:
-- Alliance
+- League of Reparation
+- Alliance Defence Force
+- Council of Admirals
 - INRA
+- Moritasgus Imperial Corporation
+- United Carnoeck for Equality
+- Colonia Co-operative
 locations:
 - Colonia
 - Veroklist
+- Lave
+- Carnoeck
 topics:
 - alien contact
 - corporate expansion
@@ -20,9 +31,9 @@ topics:
 - piracy
 - research
 - trade
+- terrorism
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Multiple concurrent crises — terrorism, piracy, and xeno-threats — demonstrate the complex security challenges facing the galaxy in 3304.
 legacy_weight: 5
 significance: high
 ---

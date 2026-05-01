@@ -4,18 +4,25 @@ title: The Courtship of Aisling Duval
 slug: the_courtship_of_aisling_duval
 date: '3304-05-26'
 source: GitHub
-entities:
+summary: Entertainment journalist Solomon Helios identified three potential romantic suitors for Princess Aisling Duval in a special broadcast. Senator Caspian Leopold, anti-slavery campaigner Jarl Toredo of Universal Liberty, and Federal Ambassador Jordan Rochester were named as possible matches, following Aisling's rejection of Admiral Denton Patreus.
+player_impact: None explicitly stated.
+persons:
+- Solomon Helios
+- Aisling Duval
 - Caspian Leopold
+- Jarl Toredo
+- Jordan Rochester
+- Denton Patreus
+groups:
+- Universal Liberty
 locations:
-- Prism
+- Emerald
 - Sol
 topics:
-- construction
-- ship
+- politics
 - slavery
 - succession
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Aisling Duval's political and personal life remains a subject of public fascination, influencing perceptions of the Imperial succession.
 legacy_weight: 2
 significance: low
 ---

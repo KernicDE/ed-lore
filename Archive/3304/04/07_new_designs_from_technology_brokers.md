@@ -4,16 +4,21 @@ title: New Designs from Technology Brokers
 slug: new_designs_from_technology_brokers
 date: '3304-04-07'
 source: GitHub
-locations:
+summary: Engineer Ram Tah has developed new Guardian-inspired modules now available from technology brokers, following his acquisition of data from Guardian sites. Pilots can purchase a Guardian power distributor, a Guardian FSD booster, and a Guardian shard cannon in fixed and turreted versions.
+player_impact: Pilots can purchase Guardian power distributors, FSD boosters, and shard cannons (fixed and turreted) from technology brokers.
+persons:
 - Ram Tah
+groups:
+- Technology brokers
+locations:
+- Colonia
 topics:
 - alien contact
 - engineering
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Guardian-human hybrid technology provides pilots with additional resilience and firepower against Thargoid forces.
 legacy_weight: 4
 significance: high
 ---

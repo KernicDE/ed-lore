@@ -4,21 +4,21 @@ title: Pirates vs Thargoids
 slug: pirates_vs_thargoids
 date: '3304-04-14'
 source: GitHub
-entities:
+summary: Dr Jin Rameer of an independent socio-political think tank published a report suggesting piracy has declined since the Thargoids' return, proposing that the alien threat has either strengthened community bonds or redirected criminals toward fighting non-human targets. However, security forces in the Pegasi Sector refuted this, stating the Kumo Crew has raided dozens of systems while security forces are tied up with the Thargoids.
+player_impact: None explicitly stated.
+persons:
 - Jin Rameer
-- Rameer needs
+- Archon Delaine
 groups:
 - Kumo Crew
 locations:
 - Pegasi Sector
-- The Kumo Crew have raided dozens of
 topics:
 - alien contact
 - crime
 - piracy
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Thargoid conflict's impact on criminal behaviour remains contested, with some arguing it unites humanity while others note pirates exploit the distraction.
 legacy_weight: 4
 significance: high
 ---

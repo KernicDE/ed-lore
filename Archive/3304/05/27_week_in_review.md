@@ -4,16 +4,29 @@ title: Week in Review
 slug: week_in_review
 date: '3304-05-27'
 source: GitHub
-entities:
+summary: This week's major stories include three further League of Reparation murders in Federation space, including two Pilots' Federation members whose ships were branded 'FOR JAMESON'. Commodore Riri McAllister was appointed to the Alliance Council of Admirals. Entertainment journalist Solomon Helios identified three potential suitors for Princess Aisling Duval. Los Chupacabras announced the Jailhouse Rock and Blues Music Festival in LFT 926. The Autocracy of T'iensei placed kill orders on criminals in their system. A salvage and rescue operation concluded successfully in the core systems, and a Colonia microresources campaign also succeeded.
+player_impact: Pilots who delivered commodities to Los Chupacabras for the music festival, bounty vouchers to T'iensei, or participated in the salvage and rescue or Colonia campaigns can collect rewards.
+persons:
 - Caspian Leopold
+- Riri McAllister
+- Solomon Helios
+- Aisling Duval
+- Denton Patreus
+- Jarl Toredo
+- Jordan Rochester
 groups:
-- Alliance
-- Pilots Federation
+- League of Reparation
+- Pilots' Federation
+- Alliance Defence Force
+- Council of Admirals
+- Los Chupacabras
+- Autocracy of T'iensei
+- United Carnoeck for Equality
+- Colonia Co-Operative
 locations:
-- Colonia
-- In the core
 - LFT 926
-- Meredith City in the LFT 926
+- Colonia
+- T'iensei
 - Sol
 topics:
 - crime
@@ -26,8 +39,7 @@ topics:
 - trade
 - war
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Multiple concurrent community initiatives demonstrate the breadth of pilot engagement across humanitarian, commercial, and military operations.
 legacy_weight: 3
 significance: medium
 ---

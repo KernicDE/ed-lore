@@ -4,11 +4,16 @@ title: Temporary Tax Freeze Announced
 slug: temporary_tax_freeze_announced
 date: '3304-05-24'
 source: GitHub
+summary: A galaxy-wide suspension of revenue tax has been announced by all three superpowers, running from 24th to 30th May 3304. Profit margins for everyday commodities will increase during the moratorium. Independent Engineers have agreed to support the freeze by offering designs in exchange for more readily available materials.
+player_impact: Traders will earn more for their goods during the tax suspension. Independent Engineers are offering designs in exchange for more readily available materials.
+persons: []
+groups:
+- Independent Engineers
+locations:
+- Colonia
 topics:
-- engineering
 - trade
-- war
-modern_impact: Engineering developments offer pilots new ship customisation options.
+modern_impact: Temporary economic measures continue to be used by superpowers to stimulate trade during periods of galactic instability.
 legacy_weight: 2
 significance: low
 ---

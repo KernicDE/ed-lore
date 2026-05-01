@@ -4,25 +4,29 @@ title: Week in Review
 slug: week_in_review
 date: '3304-04-07'
 source: GitHub
+summary: This week's major stories include Aegis constructing two megaships, the Acropolis and the Vanguard, to coordinate anti-Thargoid operations and support independent pilots. Pilots responded to the Aegis report on Thargoid history with mixed reactions. Conflict erupted in Ross 310 between Ross 310 Natural Services and the Ross 310 Cartel. The EG Union successfully concluded its campaign to build a shipyard in Ross 720.
+player_impact: Pilots can support either Ross 310 Natural Services or the Ross 310 Cartel in the ongoing conflict. Pilots who supported the EG Union campaign can collect rewards from Lyakhov Dock in Ross 720.
+persons: []
 groups:
 - Aegis
-- Pilots Federation
+- Pilots' Federation
+- Ross 310 Natural Services
+- Ross 310 Cartel
+- EG Union
 locations:
-- Aegis
 - Ross 310
-- Ross 720 and surrounding
+- Ross 720
+- Lyakhov Dock
 topics:
 - alien contact
 - construction
 - crime
 - safety
-- ship
 - trade
 - war
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Aegis's new megaships represent a significant escalation in coordinated anti-xeno defence infrastructure.
 legacy_weight: 4
 significance: high
 ---

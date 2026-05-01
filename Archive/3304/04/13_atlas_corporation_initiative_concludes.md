@@ -4,15 +4,19 @@ title: Atlas Corporation Initiative Concludes
 slug: atlas_corporation_initiative_concludes
 date: '3304-04-13'
 source: GitHub
+summary: The Atlas Corporation has announced the successful conclusion of its campaign to build a megaship in the Lambda Arae system. Hundreds of pilots delivered commodities to Redi Market and eliminated agitators in Lambda Arae to protect traders.
+player_impact: Pilots who contributed can collect rewards from Redi Market in the Lambda Arae system.
+persons: []
+groups:
+- Atlas Corporation
 locations:
-- Atlas
+- Lambda Arae
+- Redi Market
 topics:
 - construction
 - corporate expansion
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Corporate megaship construction projects continue to expand commercial and logistical capabilities across the galaxy.
 legacy_weight: 2
 significance: low
 ---

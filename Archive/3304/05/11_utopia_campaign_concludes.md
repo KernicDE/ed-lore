@@ -4,17 +4,21 @@ title: Utopia Campaign Concludes
 slug: utopia_campaign_concludes
 date: '3304-05-11'
 source: GitHub
-entities:
+summary: The Utopia campaign to construct a military installation in the Narri system has concluded. Traders delivered construction materials to Bobko City for building defences to protect the Sim-Archive. Independent pilots also protected the operation by eliminating pirate vessels. Dr Leigh Constantinides thanked supporters on behalf of Utopia.
+player_impact: Pilots who contributed can collect rewards from Bobko City in the Narri system.
+persons:
 - Leigh Constantinides
 groups:
 - Utopia
+- Narri Justice Party
+locations:
+- Narri
+- Bobko City
 topics:
 - construction
 - piracy
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Utopia's ongoing efforts to protect the Sim-Archive reflect growing awareness of the need to safeguard humanity's cultural and historical knowledge.
 legacy_weight: 2
 significance: low
 ---

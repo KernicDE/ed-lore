@@ -4,20 +4,22 @@ title: Utopia Plans for Humanity’s Extinction
 slug: utopia_plans_for_humanitys_extinction
 date: '3304-04-26'
 source: GitHub
-entities:
+summary: Simguru Pranav Antal has addressed the possibility that humanity may lose the conflict against the Thargoids, proposing the Sim-Archive as a means of preserving humankind’s essence should physical existence end. Commander Solveig Smith, who has fought Thargoids in the Pleiades, dismissed the pessimism. Marquis Felix Novantico, a retired Imperial Navy strategist, noted that increased security for the Sim-Archive is logically sound as it could provide the Thargoids with valuable intelligence about human psychology.
+player_impact: None explicitly stated.
+persons:
+- Pranav Antal
 - Solveig Smith
+- Felix Novantico
 groups:
 - Imperial Navy
 - Utopia
 locations:
-- Sol
+- Pleiades
 topics:
 - alien contact
-- sport
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Utopia’s contingency planning for humanity’s survival highlights the existential anxieties triggered by the Thargoid conflict.
 legacy_weight: 5
 significance: high
 ---

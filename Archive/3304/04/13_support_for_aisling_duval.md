@@ -4,18 +4,23 @@ title: Support for Aisling Duval
 slug: support_for_aisling_duval
 date: '3304-04-13'
 source: GitHub
-entities:
+summary: Princess Aisling Duval's recent criticism of Aegis has attracted support from Imperial Senator Pal Vespasian, who said she correctly gauged the public mood. Alliance Commodore Riri McAllister refuted claims of unequal contributions to Aegis but agreed greater transparency would help. Media editor Jast Fernández speculated that Aisling may be maturing politically or revealing a genuine critical faculty beneath her public persona.
+player_impact: None explicitly stated.
+persons:
+- Aisling Duval
 - Pal Vespasian
+- Riri McAllister
+- Jast Fernández
 groups:
 - Aegis
-- Alliance
+- Alliance Defence Force
 locations:
-- Aegis
+- Colonia
 topics:
 - alien contact
+- politics
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Aisling Duval's evolving public critique of Aegis signals growing political sophistication and reflects genuine public anxiety about anti-xeno defence.
 legacy_weight: 4
 significance: high
 ---

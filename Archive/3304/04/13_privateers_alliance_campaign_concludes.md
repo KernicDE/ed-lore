@@ -4,8 +4,14 @@ title: Privateer’s Alliance Campaign Concludes
 slug: privateers_alliance_campaign_concludes
 date: '3304-04-13'
 source: GitHub
+summary: The Privateer’s Alliance has announced the successful conclusion of its commodities appeal, with a massive influx of deliveries to Barjavel Station. Construction will now begin on a new military installation in the HIP 33368 system to resist the Thargoid threat.
+player_impact: Pilots who contributed can collect rewards from Barjavel Station in the HIP 33368 system.
+persons: []
 groups:
-- Alliance
+- Privateer’s Alliance
+locations:
+- HIP 33368
+- Barjavel Station
 topics:
 - alien contact
 - construction
@@ -13,8 +19,7 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The Privateer’s Alliance military installation in HIP 33368 adds to the network of independent defences against the Thargoid threat.
 legacy_weight: 5
 significance: high
 ---

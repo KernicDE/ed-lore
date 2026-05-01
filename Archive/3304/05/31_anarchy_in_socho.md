@@ -4,16 +4,17 @@ title: Anarchy in Socho
 slug: anarchy_in_socho
 date: '3304-05-31'
 source: GitHub
-entities:
+summary: The Socho system, headquarters of Aegis Core, has been overtaken by the Socho Gold Raiders criminal faction. A courier carrying a message from Aegis scientist Dr Mia Valencourt escaped and broadcast an urgent plea for help, describing how the Raiders faked a Thargoid signal to ambush security forces. Professor Alba Tesreau implored the galactic community to help free Socho, warning that vital anti-Thargoid research is at risk.
+player_impact: Pilots are urged to help free Socho from the Socho Gold Raiders to protect Aegis Core's vital research.
+persons:
 - Alba Tesreau
-- Mia Valencourt managed
+- Mia Valencourt
 groups:
 - Aegis
+- Socho Gold Raiders
+- Rewired
 locations:
-- Aegis
 - Socho
-- The
-- The Socho
 topics:
 - alien contact
 - construction
@@ -21,8 +22,7 @@ topics:
 - research
 - ship
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The takeover of Aegis Core by criminals demonstrates the vulnerability of critical anti-xeno research infrastructure to internal threats.
 legacy_weight: 4
 significance: high
 ---

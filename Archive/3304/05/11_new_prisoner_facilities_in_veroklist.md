@@ -4,16 +4,21 @@ title: New Prisoner Facilities in Veroklist
 slug: new_prisoner_facilities_in_veroklist
 date: '3304-05-11'
 source: GitHub
+summary: The Empire has announced plans to construct a new Riker-Class Prison Ship in the Veroklist system. The ship will house criminals who accepted Imperial slavery but proved too dangerous for corrective punishment. The Moritasgus Imperial Corporation is overseeing the initiative and has placed orders for Imperial slaves and non-lethal weapons, as well as kill orders on wanted ships to protect traders.
+player_impact: Pilots can deliver Imperial slaves and non-lethal weapons to Vaucouleurs Vision in the Veroklist system, and earn rewards from bounty vouchers.
+persons:
+- Arnold Cochran
+groups:
+- Moritasgus Imperial Corporation
 locations:
-- Vaucouleurs Vision in the Veroklist
+- Veroklist
+- Vaucouleurs Vision
 topics:
 - corporate expansion
 - crime
-- ship
 - slavery
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Imperial correctional infrastructure continues to expand, reflecting the Empire's reliance on slavery as a penal mechanism.
 legacy_weight: 2
 significance: low
 ---

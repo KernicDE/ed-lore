@@ -4,14 +4,22 @@ title: Week in Review
 slug: week_in_review
 date: '3304-05-13'
 source: GitHub
-entities:
+summary: This week's major stories include Admiral Aden Tanner reassuring the public that Thargoid incursions into the core systems are contained and not a full-scale invasion. The tri-power taskforce investigating the League of Reparation, responsible for Senator Nestor Cartesius's murder, has made significant progress with Captain Niamh Seutonia confirming the group is better organised than first suspected. The Empire announced plans for a new Riker-Class Prison Ship in Veroklist. The Utopia campaign to construct military defences for the Sim-Archive has concluded successfully.
+player_impact: Pilots who delivered construction materials to Bobko City or protected the Utopia operation can collect rewards.
+persons:
 - Nestor Cartesius
+- Aden Tanner
+- Niamh Seutonia
 groups:
 - Aegis
 - IISS
 - Utopia
+- Moritasgus Imperial Corporation
+- Narri Justice Party
 locations:
-- Aegis
+- Veroklist
+- Narri
+- Bobko City
 topics:
 - alien contact
 - construction
@@ -22,8 +30,7 @@ topics:
 - slavery
 - trade
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Multiple concurrent crises — Thargoid containment, terrorism, and infrastructure projects — illustrate the complex challenges facing the galaxy.
 legacy_weight: 4
 significance: high
 ---

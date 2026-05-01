@@ -4,11 +4,18 @@ title: Rind Gold Electronics Org Campaign Concludes
 slug: rind_gold_electronics_org_campaign_concludes
 date: '3304-04-20'
 source: GitHub
+summary: The Rind Gold Electronics Org has announced the successful conclusion of its campaign. Large quantities of research materials and mined resources were delivered to Wegner Market, allowing the Empire to proceed with constructing a new pilot-training centre. A spokesperson stated that as dangers facing humanity become more potent, cultivating the human mind and unlocking its potential is essential.
+player_impact: Pilots who contributed can collect their rewards from Wegner Market in the Rind system.
+persons: []
+groups:
+- Rind Gold Electronics Org
+locations:
+- Rind
+- Wegner Market
 topics:
 - construction
 - research
-- war
-modern_impact: Infrastructure project with long-term benefits.
+modern_impact: The new pilot-training centre represents ongoing investment in human skill development as a complement to technological advancement.
 legacy_weight: 2
 significance: low
 ---

@@ -4,14 +4,20 @@ title: Veroklist Campaign Concludes
 slug: veroklist_campaign_concludes
 date: '3304-05-18'
 source: GitHub
+summary: The Moritasgus Imperial Corporation has announced the successful conclusion of its commodities appeal in the Veroklist system. Hundreds of pilots delivered commodities to Vaucouleurs Vision and protected traders. Superintendent Arnold Cochran stated the expanded facilities can now safely contain some of the Empire's worst criminals.
+player_impact: Pilots who contributed can collect rewards from Vaucouleurs Vision in the Veroklist system.
+persons:
+- Arnold Cochran
+groups:
+- Moritasgus Imperial Corporation
 locations:
 - Veroklist
+- Vaucouleurs Vision
 topics:
 - corporate expansion
 - crime
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets.
+modern_impact: Imperial corporate expansion continues to strengthen security infrastructure in peripheral systems.
 legacy_weight: 2
 significance: low
 ---

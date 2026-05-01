@@ -4,17 +4,21 @@ title: The Rekohu Project
 slug: the_rekohu_project
 date: '3304-04-20'
 source: GitHub
-entities:
+summary: Angeli Imperial Enterprises has announced the Rekohu Project to build a Bowman-class science vessel. Once complete, the megaship will be deployed to the PLAA AIN Sector to research life on Earth-like worlds and increase crop biodiversity. Commander Blain Crighton stated the project aims to find new ways to keep even the poorest fed.
+player_impact: Pilots can deliver commodities to Kanai Enterprise in the Blido Piru system and earn rewards. Kill orders on wanted ships protect traders.
+persons:
 - Blain Crighton
+groups:
+- Angeli Imperial Enterprises
 locations:
-- Kanai Enterprise in the Blido Piru
+- Blido Piru
+- Kanai Enterprise
+- PLAA AIN Sector
 topics:
 - construction
 - research
-- ship
 - trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Scientific megaship projects like the Rekohu demonstrate corporate investment in addressing galactic food security through biodiversity research.
 legacy_weight: 2
 significance: low
 ---

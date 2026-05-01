@@ -4,10 +4,14 @@ title: Privateers Alliance Campaign
 slug: privateers_alliance_campaign
 date: '3304-04-06'
 source: GitHub
+summary: The Privateer's Alliance has announced plans to build a military installation in the HIP 33368 system to defend the core systems from Thargoid forces in the Pleiades. The organisation requests galactic community support and pledges rewards for commodity deliveries.
+player_impact: Pilots can deliver commodities to Barjavel Station in the HIP 33368 system and earn rewards.
+persons: []
 groups:
-- Alliance
+- Privateer's Alliance
 locations:
-- Barjavel Station in the HIP 33368
+- HIP 33368
+- Barjavel Station
 topics:
 - alien contact
 - construction
@@ -15,8 +19,7 @@ topics:
 - trade
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Independent military installations like the Privateer's Alliance base in HIP 33368 expand the defensive perimeter against Thargoid incursions.
 legacy_weight: 5
 significance: high
 ---

@@ -4,14 +4,26 @@ title: Week in Review
 slug: week_in_review
 date: '3304-04-15'
 source: GitHub
+summary: This week's major stories include Princess Aisling Duval's criticism of Aegis attracting support from Imperial senators and Alliance Commodore Riri McAllister. A report suggests piracy has declined since the Thargoids' return, though Pegasi Sector security forces dispute this. The Empire announced plans for a new pilot-training centre. Astronomers in Sol may have detected a signal from the ancient New Horizons probe. The Atlas Corporation's megaship campaign and the Privateer's Alliance military installation campaign both concluded successfully.
+player_impact: Pilots who supported the Atlas Corporation or Privateer's Alliance campaigns can collect rewards from Redi Market in Lambda Arae or Barjavel Station in HIP 33368.
+persons:
+- Aisling Duval
+- Pal Vespasian
+- Riri McAllister
+- Jast Fernández
 groups:
 - Aegis
 - Alliance
+- Atlas Corporation
+- Privateer's Alliance
+- Pegasi Sector security forces
 locations:
-- Aegis
-- Atlas
 - Pegasi Sector
 - Sol
+- Lambda Arae
+- HIP 33368
+- Redi Market
+- Barjavel Station
 topics:
 - alien contact
 - construction
@@ -19,11 +31,9 @@ topics:
 - exploration
 - piracy
 - research
-- ship
 - trade
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: The interplay between Thargoid threats, political criticism of Aegis, and concurrent community projects illustrates the multifaceted challenges of 3304.
 legacy_weight: 4
 significance: high
 ---

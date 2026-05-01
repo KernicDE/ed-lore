@@ -4,16 +4,23 @@ title: Peace in Her Time  A Profile of Jasmina Halsey
 slug: peace_in_her_time_a_profile_of_jasmina_halsey
 date: '3304-04-20'
 source: GitHub
+summary: Independent journalist Chukwuma Grant published a profile of former Federal President Jasmina Halsey, now a peace activist and advisor to Alliance Prime Minister Edmund Mahon. The article examines her political transformation following Starship One's destruction, her claims of encountering super-intelligent beings, and questions whether she is a visionary, a lunatic, or a brilliant political manipulator. Critics in the Alliance have questioned why their leader takes advice from a former psychiatric patient.
+player_impact: None explicitly stated.
+persons:
+- Chukwuma Grant
+- Jasmina Halsey
+- Edmund Mahon
 groups:
 - Alliance
+- Federation
+locations:
+- Colonia
 topics:
 - alien contact
-- research
-- ship
+- politics
 - xenoarchaeology
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Jasmina Halsey's transformation from Federal President to Alliance peace advisor remains a subject of debate, reflecting the blurred lines between politics, spirituality, and extraterrestrial contact.
 legacy_weight: 4
 significance: high
 ---

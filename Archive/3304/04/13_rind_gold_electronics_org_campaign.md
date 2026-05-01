@@ -4,12 +4,19 @@ title: Rind Gold Electronics Org Campaign
 slug: rind_gold_electronics_org_campaign
 date: '3304-04-13'
 source: GitHub
+summary: The Empire has announced an initiative to bolster military strength through a new pilot-training programme. The Rind Gold Electronics Org is overseeing the initiative, which uses a state-of-the-art training programme developed by a research group in Achenar to cultivate reflexes, coordination, perception and cognitive abilities. The organisation has placed orders for research materials and mined resources to construct a dedicated training centre.
+player_impact: Pilots can deliver research materials and mined resources to support the construction of the training centre and earn rewards.
+persons: []
+groups:
+- Rind Gold Electronics Org
 locations:
 - Achenar
+- Rind
+- Wegner Market
 topics:
 - research
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- construction
+modern_impact: Investment in next-generation pilot training reflects the Empire's long-term military preparedness strategy.
 legacy_weight: 1
 significance: low
 ---

@@ -4,13 +4,21 @@ title: Commodore McAllister Appointed to Council of Admirals
 slug: commodore_mcallister_appointed_to_council_of_admirals
 date: '3304-05-25'
 source: GitHub
+summary: Commodore Riri McAllister of the Alliance Defence Force has been appointed to the Council of Admirals and promoted to Rear Admiral, filling the vacancy left by Fleet Admiral Tulimaq Buchanan who was assassinated by the League of Reparation. Admiral George Varma defended the appointment, citing McAllister's combat record and strategic abilities.
+player_impact: None explicitly stated.
+persons:
+- Riri McAllister
+- Tulimaq Buchanan
+- George Varma
 groups:
-- Alliance
+- Alliance Defence Force
+- Council of Admirals
+- League of Reparation
 locations:
 - Lave
 topics:
 - terrorism
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Rear Admiral Riri McAllister's appointment strengthens Alliance military leadership during the League of Reparation crisis.
 legacy_weight: 2
 significance: low
 ---

@@ -4,21 +4,23 @@ title: Aisling Duval Criticises Aegis
 slug: aisling_duval_criticises_aegis
 date: '3304-04-06'
 source: GitHub
+summary: Princess Aisling Duval has publicly criticised Aegis, questioning whether all superpowers have invested equally and expressing concern over the lack of clear strategy against the Thargoids. The Federal Times sarcastically rebutted her claims by listing Aegis's achievements. An Alliance media spokesperson dismissed her comments as attention-seeking.
+player_impact: None explicitly stated.
+persons:
+- Aisling Duval
 groups:
 - Aegis
 - Alliance
 - Federal Times
+- Empire
 locations:
-- Aegis
+- Colonia
 topics:
 - alien contact
-- construction
 - research
-- ship
 - war
 arc_id: thargoid-contact
-modern_impact: Thargoid activity fundamentally changes the galactic security landscape
-  and drives anti-xeno defence efforts.
+modern_impact: Aisling Duval's critique of Aegis sparked debate about transparency and equitable burden-sharing in the anti-xeno effort.
 legacy_weight: 5
 significance: high
 ---

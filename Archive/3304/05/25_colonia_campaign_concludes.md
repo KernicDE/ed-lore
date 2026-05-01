@@ -4,16 +4,20 @@ title: Colonia Campaign Concludes
 slug: colonia_campaign_concludes
 date: '3304-05-25'
 source: GitHub
-entities:
+summary: The campaign to supply a scientific project in Colonia has concluded. Hundreds of independent pilots delivered microresources to the Colonia Co-operative in the Coeus system. Professor Alexei de la Vega stated the materials will establish a framework for how the region can expand.
+player_impact: Pilots who contributed can collect rewards from Foster Terminal in the Coeus system.
+persons:
 - Alexei de la Vega
+groups:
+- Colonia Co-Operative
 locations:
 - Colonia
+- Coeus
+- Foster Terminal
 topics:
 - research
-- war
 arc_id: jaques-station
-modern_impact: Colonia continues to grow as a deep-space settlement, offering new
-  opportunities for exploration and colonisation.
+modern_impact: Colonia continues to grow as a deep-space settlement, with scientific projects charting a roadmap for regional expansion.
 legacy_weight: 3
 significance: medium
 ---
