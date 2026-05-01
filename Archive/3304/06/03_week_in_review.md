@@ -1,10 +1,15 @@
 ---
+
 uuid: 60f99547-6620-511f-9d5a-a610a2c0ff18
 title: Week in Review
 slug: week_in_review
 date: '3304-06-03'
 source: GitHub
-summary: Weekly summary covering the Socho system being overtaken by the Socho Gold Raiders, Aegis's Eagle Eye success in repelling Thargoids, five ships destroyed by the League of Reparation with the discovery of the 'Nexus' coordinator, two starport repair campaigns in the Pleiades, the Los Chupacabras music festival, and the Autocracy of T'iensei clearing criminals.
+summary: Weekly summary covering the Socho system being overtaken by the Socho Gold
+  Raiders, Aegis's Eagle Eye success in repelling Thargoids, five ships destroyed
+  by the League of Reparation with the discovery of the 'Nexus' coordinator, two starport
+  repair campaigns in the Pleiades, the Los Chupacabras music festival, and the Autocracy
+  of T'iensei clearing criminals.
 player_impact: None
 persons:
 - Mia Valencourt
@@ -41,7 +46,9 @@ topics:
 - terrorism
 - culture
 - war
-modern_impact: This week spans criminal occupation of Aegis headquarters, Thargoid warfare, terrorism revelations, and community festivals, illustrating the breadth of galactic affairs.
+modern_impact: This week spans criminal occupation of Aegis headquarters, Thargoid
+  warfare, terrorism revelations, and community festivals, illustrating the breadth
+  of galactic affairs.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -52,6 +59,7 @@ related_uuids:
 - 56423215-1d94-5955-9b5b-942c39132b7b
 - 6c73a7e2-e5c8-54ae-a8be-12b073c86722
 ---
+
 
 Here are This week’s major stories. 
 
@@ -65,6 +73,6 @@ In Other news, two campaigns have been launched to repair starports in the Pleia
 
 Los Chupacabras have announced that their plan to host a music festival in the LFT 926 system has been enthusiastically received by the galactic community. Scores of pilots supported the initiative by delivering commodities to Meredith City, the organisation’s base of operations. 
 
-Finally, the Autocracy of T’iensei has announced that its campaign to clear the T’iensei system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
+Finally, the Autocracy of T'iensei has announced that its campaign to clear the T'iensei system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
 And those are the main stories this week.

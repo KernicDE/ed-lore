@@ -1,12 +1,23 @@
 ---
+id: mara-klatt
 name: Mara Klatt
-aliases:
-- Inspector Mara Klatt
 type: person
-affiliation:
-- ACT
-role: ACT Inspector
-status: active
+first_seen_date: '3304-06-28'
+last_seen_date: '3307-05-21'
+mention_count: 14
 ---
 
-Mara Klatt is an inspector with the Affiliated Counter-Terrorism unit (ACT), the inter-superpower taskforce formed to investigate the NMLA bombing campaign. She has provided public briefings on ACT's progress in uncovering the NMLA's logistical network and modus operandi, including the revelation that the terrorist group recruited disenfranchised leaders by promising them increased status in a future Republic.
+<!-- AUTO-GENERATED -->
+
+# Mara Klatt
+
+First mentioned: **3304-06-28**  
+Last mentioned: **3307-05-21**  
+Total mentions: **14**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

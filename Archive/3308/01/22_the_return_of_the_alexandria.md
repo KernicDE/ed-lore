@@ -1,11 +1,14 @@
 ---
+
 uuid: 967aa94a-f950-5777-8fca-15696a250f64
 title: The Return of the Alexandria
 slug: the_return_of_the_alexandria
 date: '3308-01-22'
 source: API
-summary: The missing Aegis megaship Alexandria is discovered in the Wregoe TC-X B29-0 system with evidence of Azimuth's involvement.
-player_impact: A select group of independent pilots helped search for and discover the missing Alexandria megaship.
+summary: The missing Aegis megaship Alexandria is discovered in the Wregoe TC-X B29-0
+  system with evidence of Azimuth's involvement.
+player_impact: A select group of independent pilots helped search for and discover
+  the missing Alexandria megaship.
 persons:
 - Alba Tesreau
 groups:
@@ -13,14 +16,16 @@ groups:
 locations:
 - Guardian
 - Wregoe
-- Wregoe TC-X B29-0
+- Wregoe TC-X b29-0
 topics:
 - alien contact
 - research
 - xenoarchaeology
 entities: []
 arc_id: salvation-azimuth
-modern_impact: '"The Aegis megaship Alexandria, which vanished in hyperspace seven months ago, has been found." The discovery of the Alexandria wreckage provides crucial forensic evidence of Azimuth''s sabotage and vindicates Aegis''s warnings.'
+modern_impact: '"The Aegis megaship Alexandria, which vanished in hyperspace seven
+  months ago, has been found." The discovery of the Alexandria wreckage provides crucial
+  forensic evidence of Azimuth''s sabotage and vindicates Aegis''s warnings.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -36,8 +41,9 @@ related_uuids:
 - 8f436007-f00f-535c-af52-d16273c91cc0
 ---
 
+
 **Pilots’ Federation ALERT**
-The Aegis megaship Alexandria, Which vanished in hyperspace seven months ago, has been Found in the Wregoe TC-X B29-0 system.
+The Aegis megaship Alexandria, Which vanished in hyperspace seven months ago, has been Found in the Wregoe TC-X b29-0 system.
 A select group of Independent pilots Located the Alexandria following a search instigated by Professor Alba Tesreau, former head of research at Aegis. She was forced to resign as a result of the Baumann Report, which was instigated by the controversial loss of This megaship.
 In June 3307, the Alexandria was pursued by Thargoid vessels due to a considerable number of Guardian artefacts held on board. It initiated a hyperspace jump to the HIP 30944 system to offload Its cargo but never arrived. The megaship was assumed to have been hyperdicted by the Thargoids, resulting in the death of all four thousand crewmembers.
 According to on-site witnesses, the remains of the Alexandria are currently scattered across the planetary rings of Wregoe TC-X b29-0 AB 2 A. Ships are investigating the debris, but so Far have not reported finding any survivors or Guardian relics.

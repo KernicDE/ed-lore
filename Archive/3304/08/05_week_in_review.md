@@ -4,7 +4,10 @@ title: Week in Review
 slug: week_in_review
 date: '3304-08-05'
 source: GitHub
-summary: Weekly summary covering the foiled assassination attempt on Aisling Duval, Riri McAllister being shot during her trial, the FIA investigation into the Far God cult, Aranbarahun Purple Creative's cargo ship campaign, Olav Redcourt abandoning his book tour, and the Alliance's successful starport construction initiative.
+summary: Weekly summary covering the foiled assassination attempt on Aisling Duval,
+  Riri McAllister being shot during her trial, the FIA investigation into the Far
+  God cult, Aranbarahun Purple Creative's cargo ship campaign, Olav Redcourt abandoning
+  his book tour, and the Alliance's successful starport construction initiative.
 player_impact: None
 persons:
 - Aisling Duval
@@ -30,7 +33,7 @@ locations:
 - Zhao
 - Turner's World
 - Capitol
-- Synuefai EB-R C7-5
+- Synuefai EB-R c7-5
 - California Gateway
 topics:
 - alien contact
@@ -41,7 +44,9 @@ topics:
 - trade
 - politics
 - religion
-modern_impact: This week spans political violence, terrorism trials, religious persecution, and artistic rebellion, illustrating the volatile intersection of security and civil liberties in the galaxy.
+modern_impact: This week spans political violence, terrorism trials, religious persecution,
+  and artistic rebellion, illustrating the volatile intersection of security and civil
+  liberties in the galaxy.
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -52,6 +57,7 @@ related_uuids:
 - 56f4cda2-9705-5b62-a5f5-cfd9aca1188b
 - 400a59da-3feb-50c0-95c2-68ea9c6f4ef2
 ---
+
 
 Here are This week’s major stories. 
 

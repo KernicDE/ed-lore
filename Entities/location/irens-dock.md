@@ -1,10 +1,10 @@
 ---
 id: irens-dock
-name: Irens Dock
+name: Iren's Dock
 type: location
 first_seen_date: '3302-02-24'
-last_seen_date: '3302-05-20'
-mention_count: 3
+last_seen_date: '3302-07-07'
+mention_count: 4
 related_entities:
 - manite
 - ackerman-market
@@ -15,11 +15,11 @@ related_entities:
 
 <!-- AUTO-GENERATED -->
 
-# Irens Dock
+# Iren's Dock
 
 First mentioned: **3302-02-24**  
-Last mentioned: **3302-05-20**  
-Total mentions: **3**
+Last mentioned: **3302-07-07**  
+Total mentions: **4**
 
 ## Related
 

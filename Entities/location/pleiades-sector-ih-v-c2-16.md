@@ -3,8 +3,8 @@ id: pleiades-sector-ih-v-c2-16
 name: Pleiades Sector IH-V c2-16
 type: location
 first_seen_date: '3302-08-11'
-last_seen_date: '3302-08-11'
-mention_count: 1
+last_seen_date: '3302-08-18'
+mention_count: 2
 related_entities:
 - pleiades-resource-enterprise
 - imperial-inquisition
@@ -16,8 +16,8 @@ related_entities:
 # Pleiades Sector IH-V c2-16
 
 First mentioned: **3302-08-11**  
-Last mentioned: **3302-08-11**  
-Total mentions: **1**
+Last mentioned: **3302-08-18**  
+Total mentions: **2**
 
 ## Related
 

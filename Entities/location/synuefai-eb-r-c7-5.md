@@ -3,8 +3,8 @@ id: synuefai-eb-r-c7-5
 name: Synuefai EB-R c7-5
 type: location
 first_seen_date: '3304-02-02'
-last_seen_date: '3304-02-09'
-mention_count: 2
+last_seen_date: '3304-08-05'
+mention_count: 5
 related_entities:
 - alliance
 - california-nebula
@@ -18,8 +18,8 @@ related_entities:
 # Synuefai EB-R c7-5
 
 First mentioned: **3304-02-02**  
-Last mentioned: **3304-02-09**  
-Total mentions: **2**
+Last mentioned: **3304-08-05**  
+Total mentions: **5**
 
 ## Related
 

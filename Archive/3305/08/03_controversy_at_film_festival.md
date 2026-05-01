@@ -1,4 +1,5 @@
 ---
+
 uuid: d75ed40e-ae55-56fe-8ab3-f318650a324c
 title: Controversy at Film Festival
 slug: controversy_at_film_festival
@@ -19,11 +20,12 @@ legacy_weight: 2
 significance: low
 ---
 
+
 The Leesti system played host to The second week of the Alliance Festival of Culture, where a new film production has caused minor controversy. 
 
 The Alliance Tribune’s cultural correspondent Corinne Macintyre offered these details: 
 
-“A grand celebration of cinematic art took place at George Lucas station, featuring a wide range of traditional and interactive media from Dozens of systems.” 
+“A grand celebration of cinematic art took place at George Lucas Station, featuring a wide range of traditional and interactive media from Dozens of systems.” 
 
 “The talking point was undoubtedly ‘Unity’, a historical drama from award-winning director Hal Raskin. It portrays Alliance founders Mic Turner and Meredith Argent as rivals who faked their romance to rally political support.”  
 

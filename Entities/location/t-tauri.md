@@ -4,7 +4,7 @@ name: T Tauri
 type: location
 first_seen_date: '3307-05-07'
 last_seen_date: '3309-01-30'
-mention_count: 12
+mention_count: 13
 related_entities:
 - azimuth-biotech
 - hind-mine
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3307-05-07**  
 Last mentioned: **3309-01-30**  
-Total mentions: **12**
+Total mentions: **13**
 
 ## Related
 

@@ -24,7 +24,7 @@ Total mentions: **3**
 ## Related
 
 - [[Leesti]] (3 co-mentions)
-- [[George Lucas station]] (2 co-mentions)
+- [[George Lucas Station]] (2 co-mentions)
 - [[Guardians of Tranquillity]] (1 co-mentions)
 - [[Tarach Tor]] (1 co-mentions)
 - [[Tranquillity]] (1 co-mentions)

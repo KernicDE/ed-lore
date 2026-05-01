@@ -23,7 +23,7 @@ Total mentions: **4**
 
 ## Related
 
-- [[Irens Dock]] (4 co-mentions)
+- [[Iren's Dock]] (4 co-mentions)
 - [[Ackerman Market]] (3 co-mentions)
 - [[Eravate]] (3 co-mentions)
 - [[von Bellingshausen Port]] (3 co-mentions)

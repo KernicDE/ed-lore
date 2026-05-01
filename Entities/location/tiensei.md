@@ -1,10 +1,10 @@
 ---
 id: tiensei
-name: T’iensei
+name: T'iensei
 type: location
 first_seen_date: '3304-05-25'
-last_seen_date: '3304-05-25'
-mention_count: 1
+last_seen_date: '3304-06-03'
+mention_count: 4
 related_entities:
 - autocracy-of-tiensei
 - dzhanibekov-port
@@ -15,11 +15,11 @@ related_entities:
 
 <!-- AUTO-GENERATED -->
 
-# T’iensei
+# T'iensei
 
 First mentioned: **3304-05-25**  
-Last mentioned: **3304-05-25**  
-Total mentions: **1**
+Last mentioned: **3304-06-03**  
+Total mentions: **4**
 
 ## Related
 

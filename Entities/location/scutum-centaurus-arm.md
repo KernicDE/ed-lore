@@ -1,10 +1,10 @@
 ---
 id: scutum-centaurus-arm
-name: Scutum-Centaurus arm
+name: Scutum-Centaurus Arm
 type: location
 first_seen_date: '3301-03-01'
-last_seen_date: '3301-03-01'
-mention_count: 1
+last_seen_date: '3302-10-21'
+mention_count: 2
 related_entities:
 - eactainds-gn-w-c1-6
 - sol
@@ -14,11 +14,11 @@ related_entities:
 
 <!-- AUTO-GENERATED -->
 
-# Scutum-Centaurus arm
+# Scutum-Centaurus Arm
 
 First mentioned: **3301-03-01**  
-Last mentioned: **3301-03-01**  
-Total mentions: **1**
+Last mentioned: **3302-10-21**  
+Total mentions: **2**
 
 ## Related
 

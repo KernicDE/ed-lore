@@ -1,10 +1,23 @@
 ---
+id: theodore-sullivan
 name: Theodore Sullivan
 type: person
-affiliation:
-- Silver Legal Group
-role: Director of the Silver Legal Group
-status: active
+first_seen_date: '3307-06-10'
+last_seen_date: '3307-06-10'
+mention_count: 1
 ---
 
-Theodore Sullivan is the director of the Silver Legal Group, a Federal faction allied with Core Dynamics that fought against Jupiter Division in the Ts'ao Tach system. He confirmed payments to pilots who supported the Silver Legal Group's campaign.
+<!-- AUTO-GENERATED -->
+
+# Theodore Sullivan
+
+First mentioned: **3307-06-10**  
+Last mentioned: **3307-06-10**  
+Total mentions: **1**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

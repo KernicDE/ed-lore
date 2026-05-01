@@ -26,7 +26,7 @@ Total mentions: **2**
 - [[Merope Expeditionary Fleet]] (2 co-mentions)
 - [[Pleiades Resource Enterprise]] (2 co-mentions)
 - [[Merope]] (2 co-mentions)
-- [[Pre Logistics Support Gamma]] (2 co-mentions)
+- [[PRE Logistics Support Gamma]] (2 co-mentions)
 - [[Maia]] (1 co-mentions)
 
 ## Biography

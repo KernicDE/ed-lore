@@ -7,10 +7,10 @@ last_seen_date: '3304-03-16'
 mention_count: 3
 related_entities:
 - othime
-- levi-montalcini-dock
 - aegis
 - federation
 - empire
+- pleiades-nebula
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **3**
 ## Related
 
 - [[Othime]] (3 co-mentions)
-- [[Levi-Montalcini Dock]] (2 co-mentions)
 - [[Aegis]] (1 co-mentions)
 - [[Federation]] (1 co-mentions)
 - [[Empire]] (1 co-mentions)
+- [[Pleiades Nebula]] (1 co-mentions)
 
 ## Biography
 

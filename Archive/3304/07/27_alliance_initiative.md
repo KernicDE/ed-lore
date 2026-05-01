@@ -4,8 +4,13 @@ title: Alliance Initiative
 slug: alliance_initiative
 date: '3304-07-27'
 source: GitHub
-summary: The Alliance announces plans to build an Ocellus starport in the MEL 22 Sector GM-V C2-8 system to bridge the gap between core systems and Alliance outposts in the California Nebula. Alliance official Torvan Dast states the initiative will ensure traveller safety. The Turner Research Group places an open order for mined resources and issues a kill order on wanted ships to protect traders.
-player_impact: Independent pilots can deliver mined resources for the construction. The campaign runs for one week.
+summary: The Alliance announces plans to build an Ocellus starport in the MEL 22 Sector
+  GM-V C2-8 system to bridge the gap between core systems and Alliance outposts in
+  the California Nebula. Alliance official Torvan Dast states the initiative will
+  ensure traveller safety. The Turner Research Group places an open order for mined
+  resources and issues a kill order on wanted ships to protect traders.
+player_impact: Independent pilots can deliver mined resources for the construction.
+  The campaign runs for one week.
 persons:
 - Torvan Dast
 groups:
@@ -14,17 +19,19 @@ groups:
 locations:
 - California Nebula
 - MEL 22 Sector GM-V C2-8
-- Synuefai EB-R C7-5
+- Synuefai EB-R c7-5
 - California Gateway
 topics:
 - construction
 - trade
-modern_impact: The new starport expands Alliance infrastructure in the California Nebula, supporting trade routes and colonisation in the frontier region.
+modern_impact: The new starport expands Alliance infrastructure in the California
+  Nebula, supporting trade routes and colonisation in the frontier region.
 legacy_weight: 1
 significance: low
 related_uuids:
 - 400a59da-3feb-50c0-95c2-68ea9c6f4ef2
 ---
+
 
 The Alliance has announced plans to build an Ocellus starport in the MEL 22 Sector GM-V C2-8 system, to Further Bridge the gap between the core systems and the Alliance’s outposts in the California Nebula. 
 

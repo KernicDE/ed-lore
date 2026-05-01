@@ -1,10 +1,10 @@
 ---
 id: george-lucas-station
-name: George Lucas station
+name: George Lucas Station
 type: location
 first_seen_date: '3301-10-26'
-last_seen_date: '3302-04-25'
-mention_count: 2
+last_seen_date: '3303-11-24'
+mention_count: 4
 related_entities:
 - leesti
 - buckyball-racing-club
@@ -15,11 +15,11 @@ related_entities:
 
 <!-- AUTO-GENERATED -->
 
-# George Lucas station
+# George Lucas Station
 
 First mentioned: **3301-10-26**  
-Last mentioned: **3302-04-25**  
-Total mentions: **2**
+Last mentioned: **3303-11-24**  
+Total mentions: **4**
 
 ## Related
 

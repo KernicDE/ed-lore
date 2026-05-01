@@ -26,7 +26,7 @@ Total mentions: **7**
 - [[Aegis]] (4 co-mentions)
 - [[Azimuth Biochemicals]] (3 co-mentions)
 - [[Holloway Bioscience Institute]] (3 co-mentions)
-- [[Wregoe TC-X B29-0]] (2 co-mentions)
+- [[Wregoe TC-X b29-0]] (2 co-mentions)
 - [[HIP 22460]] (1 co-mentions)
 
 ## Biography

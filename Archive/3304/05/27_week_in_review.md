@@ -1,11 +1,21 @@
 ---
+
 uuid: fe2ef902-f105-5e82-bf79-83ee66c58228
 title: Week in Review
 slug: week_in_review
 date: '3304-05-27'
 source: GitHub
-summary: This week's major stories include three further League of Reparation murders in Federation space, including two Pilots' Federation members whose ships were branded 'FOR JAMESON'. Commodore Riri McAllister was appointed to the Alliance Council of Admirals. Entertainment journalist Solomon Helios identified three potential suitors for Princess Aisling Duval. Los Chupacabras announced the Jailhouse Rock and Blues Music Festival in LFT 926. The Autocracy of T'iensei placed kill orders on criminals in their system. A salvage and rescue operation concluded successfully in the core systems, and a Colonia microresources campaign also succeeded.
-player_impact: Pilots who delivered commodities to Los Chupacabras for the music festival, bounty vouchers to T'iensei, or participated in the salvage and rescue or Colonia campaigns can collect rewards.
+summary: This week's major stories include three further League of Reparation murders
+  in Federation space, including two Pilots' Federation members whose ships were branded
+  'FOR JAMESON'. Commodore Riri McAllister was appointed to the Alliance Council of
+  Admirals. Entertainment journalist Solomon Helios identified three potential suitors
+  for Princess Aisling Duval. Los Chupacabras announced the Jailhouse Rock and Blues
+  Music Festival in LFT 926. The Autocracy of T'iensei placed kill orders on criminals
+  in their system. A salvage and rescue operation concluded successfully in the core
+  systems, and a Colonia microresources campaign also succeeded.
+player_impact: Pilots who delivered commodities to Los Chupacabras for the music festival,
+  bounty vouchers to T'iensei, or participated in the salvage and rescue or Colonia
+  campaigns can collect rewards.
 persons:
 - Caspian Leopold
 - Riri McAllister
@@ -39,10 +49,12 @@ topics:
 - trade
 - war
 arc_id: jaques-station
-modern_impact: Multiple concurrent community initiatives demonstrate the breadth of pilot engagement across humanitarian, commercial, and military operations.
+modern_impact: Multiple concurrent community initiatives demonstrate the breadth of
+  pilot engagement across humanitarian, commercial, and military operations.
 legacy_weight: 3
 significance: medium
 ---
+
 
 Here are This week’s major stories. 
 
@@ -56,7 +68,7 @@ Meanwhile, entertainment journalist Solomon Helios has been speculating about th
 
 In Other news, Los Chupacabras, an Independent faction based in the LFT 926 system, has announced plans for a musical event known As the Jailhouse Rock and Blues Music Festival. In support of the event, Los Chupacabras have placed an open order for quantities of beer, tobacco, coffee and narcotics, and have promised to reward pilots who deliver these commodities to Meredith City in the LFT 926 system. 
 
-Authorities in the T’iensei system have reported a sharp increase in The number of criminals operating in the area. To counter this threat, the Autocracy of T’iensei has placed a kill order on all ships on Its wanted list, and has promised to reward pilots who deliver bounty vouchers to Dzhanibekov Port. 
+Authorities in the T'iensei system have reported a sharp increase in The number of criminals operating in the area. To counter this threat, the Autocracy of T'iensei has placed a kill order on all ships on Its wanted list, and has promised to reward pilots who deliver bounty vouchers to Dzhanibekov Port. 
 
 Finally, two community-led initiatives reached successful conclusions this week. In the core systems, an operation to recover survivors and salvage from a convoy attacked by pirates was supported by scores of independent pilots, while in Colonia, Hundreds of Commanders delivered microresources to the Colonia Co-Operative, Which is investigating the region’s potential to support larger populations in the future. 
 

@@ -1,11 +1,23 @@
 ---
+id: verity-dexter
 name: Verity Dexter
 type: person
-affiliation:
-- Marlinism Reformation Party
-- Marlinist Colonies
-role: Candidate for Marlinist Consulate Prime Consul
-status: active
+first_seen_date: '3307-07-13'
+last_seen_date: '3307-07-29'
+mention_count: 4
 ---
 
-Verity Dexter is a candidate from the Marlinism Reformation Party who ran for prime consul of the Marlinist Consulate. She advocated for representing the Neo-Marlinist fringe and negotiating peace with the NMLA, receiving support from Senator Lorcan Scordato. She lost the election to Kayode Tau of the Free Marlinist Movement.
+<!-- AUTO-GENERATED -->
+
+# Verity Dexter
+
+First mentioned: **3307-07-13**  
+Last mentioned: **3307-07-29**  
+Total mentions: **4**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

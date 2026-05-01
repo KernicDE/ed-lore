@@ -26,7 +26,7 @@ Total mentions: **18**
 - [[Grant Academics]] (4 co-mentions)
 - [[Pilots Federation]] (3 co-mentions)
 - [[Leesti]] (2 co-mentions)
-- [[George Lucas station]] (2 co-mentions)
+- [[George Lucas Station]] (2 co-mentions)
 - [[Sol]] (2 co-mentions)
 
 ## Biography

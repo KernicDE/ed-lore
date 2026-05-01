@@ -10,7 +10,7 @@ related_entities:
 - mercenaries-of-mikunn
 - hr-7327
 - mikunn
-- sefry
+- sefrys
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **1**
 - [[Mercenaries of Mikunn]] (1 co-mentions)
 - [[HR 7327]] (1 co-mentions)
 - [[Mikunn]] (1 co-mentions)
-- [[Sefry]] (1 co-mentions)
+- [[Sefrys]] (1 co-mentions)
 
 ## Biography
 

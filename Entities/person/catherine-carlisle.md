@@ -1,12 +1,23 @@
 ---
+id: catherine-carlisle
 name: Catherine Carlisle
-aliases:
-- Ambassador Catherine Carlisle
 type: person
-affiliation:
-- Federal Diplomatic Corps
-role: Ambassador
-status: active
+first_seen_date: '3307-05-13'
+last_seen_date: '3307-05-13'
+mention_count: 1
 ---
 
-Ambassador Catherine Carlisle is a member of the Federal Diplomatic Corps. She issued a statement following Nova Imperium's victory over the League of Mandu in the Paresa system, acknowledging that Federal intermediaries had acted hastily and would depart from Imperial space.
+<!-- AUTO-GENERATED -->
+
+# Catherine Carlisle
+
+First mentioned: **3307-05-13**  
+Last mentioned: **3307-05-13**  
+Total mentions: **1**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

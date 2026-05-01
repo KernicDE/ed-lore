@@ -19,7 +19,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[Scutum-Centaurus arm]] (1 co-mentions)
+- [[Scutum-Centaurus Arm]] (1 co-mentions)
 
 ## Biography
 

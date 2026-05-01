@@ -1,10 +1,14 @@
 ---
+
 uuid: 7eaaa54a-2715-5e47-8a73-ec469ab90965
 title: Galactic News  Technological Plague Continues to Threaten Starports
 slug: galactic_news_technological_plague_continues_to_threaten_starports
 date: '3302-02-24'
 source: GitHub
-summary: The technological plague continues to affect starports across inhabited space. Despite meta-alloys alleviating issues at Obsidian Orbital, Professor Palin's disappearance halted further research. Multiple starports have suspended services or are experiencing technical issues due to Unknown Artefact interference.
+summary: The technological plague continues to affect starports across inhabited space.
+  Despite meta-alloys alleviating issues at Obsidian Orbital, Professor Palin's disappearance
+  halted further research. Multiple starports have suspended services or are experiencing
+  technical issues due to Unknown Artefact interference.
 player_impact: None
 persons:
 - Ishmael Palin
@@ -31,7 +35,7 @@ locations:
 - Pic Tok
 - Carter Port
 - Rhea
-- Irens Dock
+- Iren's Dock
 - Manite
 - Bloch Vision
 - Loperada
@@ -71,14 +75,16 @@ topics:
 - research
 - war
 arc_id: barnacle-meta-alloy
-modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades and fuels the emerging Thargoid contact narrative.
+modern_impact: The barnacle/meta-alloy phenomenon drives expansion into the Pleiades
+  and fuels the emerging Thargoid contact narrative.
 legacy_weight: 4
 significance: high
 ---
 
+
 It has been over a month since personnel at Obsidian Orbital reported that meta-alloys had been used to alleviate The starport's ongoing technical issues. Since then, there has been widespread speculation that the meta-alloys might hold the key to eradicating the technological plague that has blighted so Many starports in recent months. But the only attempt to verify the theory was brought to an abrupt end With the mysterious disappearance of Professor Ishmael Palin, who had been researching the meta-alloys. 
 
-A member of the technical team at Irens Dock in the Manite system, One of the latest starports to experience technical issues, commented on the situation: 
+A member of the technical team at Iren's Dock in the Manite system, One of the latest starports to experience technical issues, commented on the situation: 
 
 "When I heard the news from Obsidian Orbital I expected people to start taking meta-alloys to the Other affected starports, but that hasn't happened. Maybe people are being cautious - after all, we don't know for sure that the meta-alloys can help. But if you ask me, it's worth a shot." 
 
@@ -108,7 +114,7 @@ Carter Port, Rhea
 
 Starports experiencing technical issues: 
 
-Irens Dock, Manite 
+Iren's Dock, Manite 
 
 Bloch Vision, Loperada 
 

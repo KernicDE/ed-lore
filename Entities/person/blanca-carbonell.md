@@ -1,10 +1,23 @@
 ---
+id: blanca-carbonell
 name: Blanca Carbonell
 type: person
-affiliation:
-- Jupiter Division
-role: Vice-Executive of Jupiter Division
-status: active
+first_seen_date: '3307-06-03'
+last_seen_date: '3307-06-03'
+mention_count: 1
 ---
 
-Blanca Carbonell is a senior leader and Vice-Executive of Jupiter Division, the corporatist breakaway faction from Core Dynamics. She has broadcast calls to arms defending Jupiter Division's vision of corporate rule for the Federation.
+<!-- AUTO-GENERATED -->
+
+# Blanca Carbonell
+
+First mentioned: **3307-06-03**  
+Last mentioned: **3307-06-03**  
+Total mentions: **1**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

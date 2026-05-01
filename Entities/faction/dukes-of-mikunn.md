@@ -7,10 +7,10 @@ last_seen_date: '3301-07-27'
 mention_count: 3
 related_entities:
 - mercenaries-of-mikunn
+- sefrys
 - hr-7327
 - alliance
 - federal-navy
-- crimson-state-group
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **3**
 ## Related
 
 - [[Mercenaries of Mikunn]] (2 co-mentions)
+- [[Sefrys]] (2 co-mentions)
 - [[HR 7327]] (2 co-mentions)
 - [[Alliance]] (1 co-mentions)
 - [[Federal Navy]] (1 co-mentions)
-- [[Crimson State Group]] (1 co-mentions)
 
 ## Biography
 

@@ -1,6 +1,6 @@
 ---
 id: merope-5c
-name: Merope 5c
+name: Merope 5 C
 type: location
 first_seen_date: '3302-08-20'
 last_seen_date: '3302-08-20'
@@ -9,6 +9,7 @@ related_entities:
 - canonn-interstellar-research-group
 - merope
 ---
+
 
 <!-- AUTO-GENERATED -->
 

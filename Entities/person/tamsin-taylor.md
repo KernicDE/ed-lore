@@ -1,10 +1,23 @@
 ---
+id: tamsin-taylor
 name: Tamsin Taylor
 type: person
-affiliation:
-- Marlinist Colonies
-role: Marlinist Minister
-status: active
+first_seen_date: '3307-04-09'
+last_seen_date: '3307-04-16'
+mention_count: 2
 ---
 
-Tamsin Taylor is a minister in the Marlinist Parliament. She has urged cooperation with the Empire during crises involving Neo-Marlinist refugees and worked alongside other ministers to maintain stability in the Marlinist Colonies during the NMLA terrorism crisis.
+<!-- AUTO-GENERATED -->
+
+# Tamsin Taylor
+
+First mentioned: **3307-04-09**  
+Last mentioned: **3307-04-16**  
+Total mentions: **2**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

@@ -1,10 +1,23 @@
 ---
+id: patience-middleton
 name: Patience Middleton
 type: person
-affiliation:
-- Taurus Mining Ventures
-role: Representative for Taurus Mining Ventures
-status: active
+first_seen_date: '3307-05-07'
+last_seen_date: '3307-11-18'
+mention_count: 7
 ---
 
-Patience Middleton is a representative of Taurus Mining Ventures, the corporation contracted by the mysterious figure known as "Salvation" to handle logistics and payments. She has publicly offered rewards for delivering Guardian artefacts and Hesperus logs, and has broadcast Salvation's messages to independent pilots.
+<!-- AUTO-GENERATED -->
+
+# Patience Middleton
+
+First mentioned: **3307-05-07**  
+Last mentioned: **3307-11-18**  
+Total mentions: **7**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

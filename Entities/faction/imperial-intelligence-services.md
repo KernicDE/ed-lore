@@ -19,7 +19,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[COL 70 sector]] (1 co-mentions)
+- [[Col 70 Sector]] (1 co-mentions)
 
 ## Biography
 

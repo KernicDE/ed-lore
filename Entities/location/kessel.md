@@ -24,7 +24,7 @@ Total mentions: **1**
 
 - [[Buckyball Racing Club]] (1 co-mentions)
 - [[Leesti]] (1 co-mentions)
-- [[George Lucas station]] (1 co-mentions)
+- [[George Lucas Station]] (1 co-mentions)
 - [[Jabbah]] (1 co-mentions)
 
 ## Biography

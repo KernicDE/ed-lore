@@ -23,7 +23,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[T’iensei]] (4 co-mentions)
+- [[T'iensei]] (4 co-mentions)
 - [[Dzhanibekov Port]] (3 co-mentions)
 - [[League of Reparation]] (2 co-mentions)
 - [[Pilots Federation]] (2 co-mentions)

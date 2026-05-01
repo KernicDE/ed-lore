@@ -1,10 +1,23 @@
 ---
+id: amrita-ross
 name: Amrita Ross
 type: person
-affiliation:
-- Marlinist Colonies
-role: Marlinist Minister
-status: active
+first_seen_date: '3306-12-21'
+last_seen_date: '3307-08-27'
+mention_count: 8
 ---
 
-Amrita Ross is a minister in the Marlinist Parliament. She has advocated for future reintegration with the Empire and urged cooperation with Imperial authorities during the Neo-Marlinist refugee crisis. She represents a moderate faction within the Marlinist government that seeks diplomatic solutions rather than revolutionary confrontation.
+<!-- AUTO-GENERATED -->
+
+# Amrita Ross
+
+First mentioned: **3306-12-21**  
+Last mentioned: **3307-08-27**  
+Total mentions: **8**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

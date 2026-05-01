@@ -1,6 +1,6 @@
 ---
 id: smithport
-name: Smithport
+name: Smith Port
 type: location
 first_seen_date: '3303-12-01'
 last_seen_date: '3303-12-08'
@@ -11,6 +11,7 @@ related_entities:
 - leif-enterprise
 - rogue-security
 ---
+
 
 <!-- AUTO-GENERATED -->
 

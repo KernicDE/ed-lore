@@ -1,4 +1,5 @@
 ---
+
 uuid: bec984cb-7b99-5d2b-b2c0-db79e4a2a55c
 title: Galactic News  New Aegis Initiative
 slug: galactic_news_new_aegis_initiative
@@ -36,6 +37,7 @@ modern_impact: Aegis's massive laboratory expansion represents an unprecedented 
 legacy_weight: 4
 significance: high
 ---
+
 
 Aegis has announced plans to dramatically expand Its research division With the creation of over twenty new laboratories, situated at starports across The galaxy. 
 
@@ -91,7 +93,7 @@ Obsidian Orbital, Maia
 
 Reed's Rest, Merope 
 
-Rix Depot, Pleiades Sector IH-V C2-5 
+Rix Depot, Pleiades Sector IH-V c2-5 
 
 The Oracle, Pleiades Sector IR-W d1-55 
 

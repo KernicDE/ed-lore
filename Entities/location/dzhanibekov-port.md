@@ -24,7 +24,7 @@ Total mentions: **3**
 ## Related
 
 - [[Autocracy of T’iensei]] (3 co-mentions)
-- [[T’iensei]] (3 co-mentions)
+- [[T'iensei]] (3 co-mentions)
 - [[Aegis]] (1 co-mentions)
 - [[Socho Gold Raiders]] (1 co-mentions)
 - [[Pilots Federation]] (1 co-mentions)

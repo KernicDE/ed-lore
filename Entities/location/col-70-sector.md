@@ -1,10 +1,10 @@
 ---
 id: col-70-sector
-name: COL 70 sector
+name: Col 70 Sector
 type: location
 first_seen_date: '3303-01-27'
-last_seen_date: '3303-01-27'
-mention_count: 1
+last_seen_date: '3308-09-23'
+mention_count: 4
 related_entities:
 - wreaken-construction
 - imperial-intelligence-services
@@ -15,11 +15,11 @@ related_entities:
 
 <!-- AUTO-GENERATED -->
 
-# COL 70 sector
+# Col 70 Sector
 
 First mentioned: **3303-01-27**  
-Last mentioned: **3303-01-27**  
-Total mentions: **1**
+Last mentioned: **3308-09-23**  
+Total mentions: **4**
 
 ## Related
 

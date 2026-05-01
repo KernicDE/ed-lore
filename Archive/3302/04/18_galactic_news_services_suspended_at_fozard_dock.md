@@ -1,15 +1,18 @@
 ---
+
 uuid: 31e075c4-bef3-526b-ab00-c7c737361799
 title: Galactic News  Services Suspended at Fozard Dock
 slug: galactic_news_services_suspended_at_fozard_dock
 date: '3302-04-18'
 source: GitHub
-summary: Fozard Dock in the HIP 19934 system suspends all services except docking and shipyard access due to Unknown Artefact-related interference, bringing the total number of starports closed by the technological plague to 12.
+summary: Fozard Dock in the HIP 19934 system suspends all services except docking
+  and shipyard access due to Unknown Artefact-related interference, bringing the total
+  number of starports closed by the technological plague to 12.
 player_impact: None
 locations:
 - Fozard Dock
 - HIP 19934
-- Irens Dock
+- Iren's Dock
 - Manite
 - Ackerman Market
 - Eravate
@@ -51,16 +54,18 @@ topics:
 - ship
 - war
 arc_id: unknown-artefacts
-modern_impact: Continued research into alien artefacts advances understanding of non-human intelligence.
+modern_impact: Continued research into alien artefacts advances understanding of non-human
+  intelligence.
 legacy_weight: 3
 significance: medium
 ---
+
 
 Authorities at Fozard Dock in The HIP 19934 system have announced the immediate suspension of all services due to Unknown Artefact-related interference. Starport personnel have confirmed that only docking and shipyard access remain available. This brings the total number of starports closed as a result of the technological plague to 12. The affected stations are: 
 
 Fozard Dock, HIP 19934 
 
-Irens Dock, Manite 
+Iren's Dock, Manite 
 
 Ackerman Market, Eravate 
 

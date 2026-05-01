@@ -20,8 +20,8 @@ Total mentions: **1**
 
 ## Related
 
-- [[Coalition of Othime]] (2 co-mentions)
-- [[Othime]] (2 co-mentions)
+- [[Coalition of Othime]] (1 co-mentions)
+- [[Othime]] (1 co-mentions)
 
 ## Biography
 

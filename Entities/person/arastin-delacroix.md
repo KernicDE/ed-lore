@@ -1,14 +1,23 @@
 ---
+id: arastin-delacroix
 name: Arastin Delacroix
-aliases:
-- Landgrave Delacroix
-- Landgrave of Mudhrid
 type: person
-affiliation:
-- Neo-Marlinist Order of Mudhrid
-- NMLA
-role: Leader of the Neo-Marlinist Order of Mudhrid
-status: deceased
+first_seen_date: '3307-04-01'
+last_seen_date: '3307-11-19'
+mention_count: 8
 ---
 
-Arastin Delacroix, styled Landgrave of Mudhrid, was the ruler of the Neo-Marlinist Order of Mudhrid and a key logistical supporter of the NMLA terrorist campaign. After ACT confirmed his faction's role in transporting enzyme bombs for the Nine Martyrs attacks, Imperial forces defeated his faction in battle. Delacroix fled aboard the Steel Majesty megaship to the Marlinist Colonies, where he was eventually granted conditional amnesty in exchange for cooperating with ACT and revealing NMLA leadership secrets. He was later executed by the NMLA for betrayal.
+<!-- AUTO-GENERATED -->
+
+# Arastin Delacroix
+
+First mentioned: **3307-04-01**  
+Last mentioned: **3307-11-19**  
+Total mentions: **8**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

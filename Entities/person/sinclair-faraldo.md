@@ -1,10 +1,23 @@
 ---
+id: sinclair-faraldo
 name: Sinclair Faraldo
 type: person
-affiliation:
-- Sirius Corporation
-role: Marketing Director for Sirius Corporation
-status: active
+first_seen_date: '3307-06-17'
+last_seen_date: '3307-07-23'
+mention_count: 3
 ---
 
-Sinclair Faraldo is the marketing director for Sirius Corporation. He has publicly announced the mass production of the Engineered Detailed Surface Scanner V1 and defended Sirius Corporation against allegations of involvement in distributing onionhead gamma strain.
+<!-- AUTO-GENERATED -->
+
+# Sinclair Faraldo
+
+First mentioned: **3307-06-17**  
+Last mentioned: **3307-07-23**  
+Total mentions: **3**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

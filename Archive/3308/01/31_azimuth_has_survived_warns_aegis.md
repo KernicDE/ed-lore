@@ -1,4 +1,5 @@
 ---
+
 uuid: 7f67c12a-9831-57d7-bb70-4905b0d58356
 title: ‘Azimuth has Survived’ Warns Aegis
 slug: azimuth_has_survived_warns_aegis
@@ -39,8 +40,9 @@ related_uuids:
 - 8f436007-f00f-535c-af52-d16273c91cc0
 ---
 
+
 Information recovered from The Alexandria has prompted Aegis to insist that it was not responsible for the loss of the megaship’s crew and cargo.
-The wreckage of the Alexandria was recently Located in the Wregoe TC-X B29-0 system. There were no survivors, but fragments of the commanding officer’s log were Found.
+The wreckage of the Alexandria was recently Located in the Wregoe TC-X b29-0 system. There were no survivors, but fragments of the commanding officer’s log were Found.
 Chief Administrator Carter Armstrong published This statement on behalf of Aegis:
 “The logs made by Captain Jacob Morales tell a bleak tale. The Alexandria was deliberately sabotaged to leave it stranded and powerless. They were met by an unidentified group posing as a rescue team, who slaughtered most of the crew and hijacked the Guardian artefacts. The survivors later made a desperate attempt to initiate the hyperdrive, Which sadly led to their destruction.”
 “We can now prove that the Alexandria’s loss was not caused by negligence, as claimed by the Baumann Report. In reality, the megaship was snared In a trap laid by an organised quasi-military force.”

@@ -16,7 +16,7 @@ locations:
 - HR 7327
 - Mikunn
 - Sukua
-- Sefry
+- Sefrys
 topics:
 - medicine
 - plague

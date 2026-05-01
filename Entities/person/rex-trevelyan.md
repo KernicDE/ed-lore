@@ -1,10 +1,23 @@
 ---
+id: rex-trevelyan
 name: Rex Trevelyan
 type: person
-aliases:
-- Commander Rex Trevelyan
-role: Independent Commander
-status: active
+first_seen_date: '3307-04-19'
+last_seen_date: '3307-04-27'
+mention_count: 2
 ---
 
-Commander Rex Trevelyan is an independent pilot who was among the first to receive contact from the mysterious figure known as "Salvation" during the Adamastor incident in 3307. He provided a public statement to Vox Galactica about receiving a decryption key that allowed pilots to decode the Adamastor's mysterious signal, revealing it to be an automatic SOS from its sister ship, the Hesperus.
+<!-- AUTO-GENERATED -->
+
+# Rex Trevelyan
+
+First mentioned: **3307-04-19**  
+Last mentioned: **3307-04-27**  
+Total mentions: **2**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

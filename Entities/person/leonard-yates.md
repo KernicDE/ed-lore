@@ -1,10 +1,23 @@
 ---
+id: leonard-yates
 name: Leonard Yates
 type: person
-affiliation:
-- Order of the Far God
-role: Eighty-Ninth Adherent of the Sixtieth Chapter
-status: active
+first_seen_date: '3307-07-22'
+last_seen_date: '3307-07-29'
+mention_count: 2
 ---
 
-Leonard Yates is a convert to the Far God cult, formerly from Agassiz Settlement. He took the religious title of Eighty-Ninth Adherent of the Sixtieth Chapter and publicly expressed gratitude for galactic community support in outfitting the cult's missionary megaships.
+<!-- AUTO-GENERATED -->
+
+# Leonard Yates
+
+First mentioned: **3307-07-22**  
+Last mentioned: **3307-07-29**  
+Total mentions: **2**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

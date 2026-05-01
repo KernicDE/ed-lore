@@ -1,10 +1,23 @@
 ---
+id: constanza-noguera
 name: Constanza Noguera
 type: person
-affiliation:
-- Azaladshu Free
-role: Mayor of Azaladshu Free
-status: active
+first_seen_date: '3307-06-29'
+last_seen_date: '3307-07-08'
+mention_count: 3
 ---
 
-Mayor Constanza Noguera is the leader of Azaladshu Free, the Federal faction that seceded from the Federation in 3307 in protest against the Proactive Detection Bureau's surveillance laws. She declared that a Federation that abuses its citizens' rights has no authority, inspiring multiple other factions to follow suit.
+<!-- AUTO-GENERATED -->
+
+# Constanza Noguera
+
+First mentioned: **3307-06-29**  
+Last mentioned: **3307-07-08**  
+Total mentions: **3**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

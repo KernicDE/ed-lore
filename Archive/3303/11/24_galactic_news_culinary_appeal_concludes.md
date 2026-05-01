@@ -1,4 +1,5 @@
 ---
+
 uuid: 0c4c43c4-ebae-5aa6-bf6e-dd9ef98b6ed7
 title: Galactic News  Culinary Appeal Concludes
 slug: galactic_news_culinary_appeal_concludes
@@ -20,7 +21,8 @@ legacy_weight: 2
 significance: low
 ---
 
-Independent Leesti for Equality has announced that Its appeal for rare food and drink has been enthusiastically received by The galactic community, resulting In a massive influx of deliveries to George Lucas station, the organisation’s base of operations. 
+
+Independent Leesti for Equality has announced that Its appeal for rare food and drink has been enthusiastically received by The galactic community, resulting In a massive influx of deliveries to George Lucas Station, the organisation’s base of operations. 
 
 Elias Hampton, a spokesperson for Independent Leesti for Equality, said: 
 

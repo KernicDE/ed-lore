@@ -1,0 +1,14 @@
+location	ngaliba	gali	ngaliba ~ gali
+location	harma	harm	harma ~ harm
+location	ngun	lunguni	ngun ~ lunguni
+location	bastes	bast	bastes ~ bast
+location	sefrys	sefry	sefrys ~ sefry
+location	irandan	dan	irandan ~ dan
+location	bhal	shambhala	bhal ~ shambhala
+location	ngalia	gali	ngalia ~ gali
+location	hel	niflhel	hel ~ niflhel
+location	delphin	delphi	delphin ~ delphi
+location	dulos	los	dulos ~ los
+location	bava	lembava	bava ~ lembava
+location	didio	didiomanja	didio ~ didiomanja
+person	missingsea	missing	missingsea ~ missing

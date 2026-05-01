@@ -8,7 +8,7 @@ mention_count: 2
 related_entities:
 - rogue-runners
 - run
-- smithport
+- smith-port
 - rogue-security
 ---
 
@@ -24,7 +24,7 @@ Total mentions: **2**
 
 - [[Rogue Runners]] (2 co-mentions)
 - [[Run]] (2 co-mentions)
-- [[Smithport]] (2 co-mentions)
+- [[Smith Port]] (2 co-mentions)
 - [[Rogue Security]] (1 co-mentions)
 
 ## Biography

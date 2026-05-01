@@ -8,7 +8,7 @@ mention_count: 1
 related_entities:
 - rogue-runners
 - run
-- smithport
+- smith-port
 - leif-enterprise
 ---
 
@@ -24,7 +24,7 @@ Total mentions: **1**
 
 - [[Rogue Runners]] (1 co-mentions)
 - [[Run]] (1 co-mentions)
-- [[Smithport]] (1 co-mentions)
+- [[Smith Port]] (1 co-mentions)
 - [[Leif Enterprise]] (1 co-mentions)
 
 ## Biography
