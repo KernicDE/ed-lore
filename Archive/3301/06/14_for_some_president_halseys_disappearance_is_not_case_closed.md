@@ -1,17 +1,28 @@
 ---
 uuid: cd6b06fb-bcc9-5e09-9d74-2728b8bfc2d2
-title: For Some, President Halsey's Disappearance Is Not  Case Closed
+title: For Some, President Halsey's Disappearance Is Not Case Closed
 slug: for_some_president_halseys_disappearance_is_not_case_closed
 date: '3301-06-14'
 source: GitHub
+persons:
+- Jasmina Halsey
+- Felicia Winters
+- Zachary Hudson
+groups:
+- Knights of the Black
+- Federal Navy
+locations:
+- Mars
+- Sol
 topics:
-- safety
-- ship
-arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
-legacy_weight: 4
-significance: high
+- investigation
+- conspiracy
+arc_id: starship-one-disappearance
+summary: The Knights of the Black, a group sworn to defend human systems against alien aggression, doubts the official explanation for President Halsey's disappearance. Their founder noted that Winters insisted on mechanical failure from the beginning while Hudson believed sabotage until becoming President himself. He suggested the Federation is covering up something and that such a well-orchestrated strike would indicate an alien threat. Though not actively searching for Starship One, the group claims they are 'keeping our eyes peeled.'
+player_impact: None
+modern_impact: Conspiracy theories about Starship One's disappearance persist despite official rulings, with some groups suspecting alien involvement or Federal cover-up.
+legacy_weight: 3
+significance: medium
 ---
 
 For Some, President Halsey's Disappearance Is Not "Case Closed"

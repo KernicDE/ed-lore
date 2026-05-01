@@ -4,13 +4,22 @@ title: The Savage Side of Imperial Slavery
 slug: the_savage_side_of_imperial_slavery
 date: '3301-06-13'
 source: GitHub
+persons:
+- Archon Delaine
 groups:
 - Kumo Crew
+- Imperial Slavers Association
+locations:
+- Harma
+- Pegasi Sector
 topics:
 - slavery
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- crime
+summary: Hundreds of Imperial commanders crossed into Kumo Crew territory to sell Imperial Slaves on black markets controlled by Archon Delaine. Under Imperial law, selling Imperial Slaves to non-Imperial citizens or outside Imperial space is prohibited, with offenders risking enslavement themselves. Frontier security services often turn a blind eye. The Imperial Slavers Association condemned the practice, stating any members caught will be removed from the guild and reported to authorities. The Kumo Crew's plans for the purchased slaves remain unknown but are assumed to be unpleasant.
+player_impact: Imperial pilots should avoid selling Imperial Slaves to Kumo Crew black markets, as the ISA is monitoring and reporting offenders.
+modern_impact: Mass sale of Imperial Slaves to Kumo Crew black markets exposes the brutal reality of Imperial slavery's fringes and the limits of enforcement.
+legacy_weight: 3
+significance: medium
 ---
 
 The Savage Side of Imperial Slavery

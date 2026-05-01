@@ -2,9 +2,9 @@
 id: lavignys-legion
 name: Lavigny's Legion
 type: faction
-first_seen_date: '3301-07-08'
+first_seen_date: '3301-06-08'
 last_seen_date: '3308-09-29'
-mention_count: 13
+mention_count: 14
 related_entities:
 - kumo-crew
 - kamadhenu
@@ -17,9 +17,9 @@ related_entities:
 
 # Lavigny's Legion
 
-First mentioned: **3301-07-08**  
+First mentioned: **3301-06-08**  
 Last mentioned: **3308-09-29**  
-Total mentions: **13**
+Total mentions: **14**
 
 ## Related
 

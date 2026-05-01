@@ -4,19 +4,23 @@ title: The Pilots Federation Supports Fuel Rat Initiative
 slug: the_pilots_federation_supports_fuel_rat_initiative
 date: '3301-06-24'
 source: GitHub
-entities:
-- Murishani
+summary: The Pilots Federation backs the Fuel Rats, a group of independent pilots who patrol the fringes of civilisation to rescue traders and explorers who have run out of fuel. An estimated 63% of all deep space losses are attributed to fuel exhaustion. Commander Murishani of the Fuel Rats issued public guidance on what to do during a fuel shortage.
+player_impact: Pilots can contact the Fuel Rats for emergency fuel assistance in deep space. The Pilots Federation maintains a list of active Fuel Rat members.
+persons:
+- Commander Murishani
 groups:
 - Fuel Rats
 - Pilots Federation
+locations: []
+technologies: []
 topics:
 - exploration
 - piracy
 - ship
 - trade
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+modern_impact: Formal recognition of the Fuel Rats by the Pilots Federation established them as a legitimate player-driven rescue service.
+legacy_weight: 3
+significance: medium
 ---
 
 The Pilots Federation Supports Fuel Rat Initiative

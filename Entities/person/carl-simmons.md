@@ -2,18 +2,18 @@
 id: carl-simmons
 name: Carl Simmons
 type: person
-first_seen_date: '3301-07-14'
+first_seen_date: '3301-06-30'
 last_seen_date: '3302-03-23'
-mention_count: 7
+mention_count: 8
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Carl Simmons
 
-First mentioned: **3301-07-14**  
+First mentioned: **3301-06-30**  
 Last mentioned: **3302-03-23**  
-Total mentions: **7**
+Total mentions: **8**
 
 ## Related
 

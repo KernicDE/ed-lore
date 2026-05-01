@@ -4,14 +4,21 @@ title: The Federation Unites in the Face of Tragedy
 slug: the_federation_unites_in_the_face_of_tragedy
 date: '3301-06-09'
 source: GitHub
-entities:
+persons:
+- Zachary Hudson
 - Jasmina Halsey
-- Zachary Hudson turns out
+groups:
+- Federation
+locations:
+- Mars
+- Sol
 topics:
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+- politics
+summary: Despite fears that Hudson's rise would destabilise the Federation, the majority of Federal worlds have stabilised since he assumed office. Political pundits had predicted internal strife following Halsey's disappearance, but personal politics were largely put aside. The overwhelming majority of Federal organisations chose to stand united for the good of the Federation. How long this coalition will last remains uncertain, but for now Federal residents can rest easy knowing the Federation stands united.
+player_impact: None
+modern_impact: Unexpected Federal unity following Hudson's ascension temporarily stabilises the superpower despite fears of internal strife.
+legacy_weight: 3
+significance: medium
 ---
 
 The Federation Unites in The Face of Tragedy

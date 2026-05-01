@@ -1,14 +1,27 @@
 ---
 uuid: cc1264c1-17e7-5557-a315-700f04a2f4d9
-title: Who is Brad Mitchell  The New Federal VP!
+title: Who is Brad Mitchell – The New Federal VP!
 slug: who_is_brad_mitchell_the_new_federal_vp
 date: '3301-06-11'
 source: GitHub
+persons:
+- Brad Mitchell
+- Zachary Hudson
+groups:
+- Federation
+- LTT 15449 Dynamic Incorporated
+- Reyan BPS
+locations:
+- Mars
+- Sol
 topics:
+- politics
 - corporate expansion
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: Profile of new Federal Vice President Brad Mitchell. He began as a travelling salesman for LTT 15449 Dynamic Incorporated, rapidly climbing to President of Sales at Reyan BPS and becoming wealthy before entering politics. Mitchell has a reputation for getting things done but has made enemies. His extensive travel throughout Federal space makes him well-versed in frontier system needs, and he is well-liked there. His appointment is seen as Hudson's signal that he plans to support the frontier on every level, viewed positively by border residents.
+player_impact: None
+modern_impact: Appointment of corporate veteran Brad Mitchell as VP signals Hudson's intent to prioritise frontier economic development and corporate interests.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Who is Brad Mitchell? The New Federal VP!

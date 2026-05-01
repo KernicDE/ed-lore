@@ -4,19 +4,24 @@ title: Federal President Hudson Looks to the Future
 slug: federal_president_hudson_looks_to_the_future
 date: '3301-06-13'
 source: GitHub
-entities:
-- Hudson Looks
-- Hudson hinted
+persons:
+- Zachary Hudson
 groups:
 - Core Dynamics
+- Federal Navy
+- Federal Congress
 locations:
 - Mars
+- Quenisset
+- Sol
 topics:
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+- military
+- politics
+summary: President Hudson addressed business leaders at the Banqueting Hall in Quenisset, Mars, announcing new programmes to motivate Federal youth. He criticised sim addiction and promised exciting training programmes to engage young people in the real world, with the first announcement to Congress on Tuesday 16th. He called for a stronger military to counter Imperial expansion and regain respect from frontier worlds. Congress agreed to substantial military spending increases, with naval shipyards at maximum capacity. Commentators speculated about conscription but Hudson denied it, saying 'I believe in carrot, not stick.' Core Dynamics share price hit an all-time high, noted by cynics as payback for long-time Hudson backing.
+player_impact: None
+modern_impact: Hudson's speech signals major Federal military expansion and youth engagement programmes, benefiting Core Dynamics and shifting focus toward combating Imperial growth.
+legacy_weight: 4
+significance: high
 ---
 
 Federal President Hudson Looks to The Future

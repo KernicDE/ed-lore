@@ -2,18 +2,18 @@
 id: varrwen-mako-brennus
 name: Varrwen Mako Brennus
 type: person
-first_seen_date: '3301-07-05'
+first_seen_date: '3301-06-08'
 last_seen_date: '3301-08-14'
-mention_count: 3
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Varrwen Mako Brennus
 
-First mentioned: **3301-07-05**  
+First mentioned: **3301-06-08**  
 Last mentioned: **3301-08-14**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 

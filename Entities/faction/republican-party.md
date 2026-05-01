@@ -2,32 +2,32 @@
 id: republican-party
 name: Republican Party
 type: faction
-first_seen_date: '3301-07-30'
+first_seen_date: '3301-06-11'
 last_seen_date: '3309-02-27'
-mention_count: 3
+mention_count: 4
 related_entities:
-- liberal-party
 - federal-navy
-- federation
-- mars
-- sol
+- kappa-fornacis
+- liberal-party
+- east-india-company
+- autahenetsi
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Republican Party
 
-First mentioned: **3301-07-30**  
+First mentioned: **3301-06-11**  
 Last mentioned: **3309-02-27**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 
+- [[Federal Navy]] (2 co-mentions)
+- [[Kappa Fornacis]] (2 co-mentions)
 - [[Liberal Party]] (2 co-mentions)
-- [[Federal Navy]] (1 co-mentions)
-- [[Federation]] (1 co-mentions)
-- [[Mars]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
+- [[East India Company]] (1 co-mentions)
+- [[Autahenetsi]] (1 co-mentions)
 
 ## Biography
 

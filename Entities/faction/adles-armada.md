@@ -2,32 +2,32 @@
 id: adles-armada
 name: Adle's Armada
 type: faction
-first_seen_date: '3301-07-16'
+first_seen_date: '3301-06-22'
 last_seen_date: '3303-06-30'
-mention_count: 4
+mention_count: 5
 related_entities:
 - emperors-grace
-- cosmic-state
-- hammer-arms
-- labour-party-of-caill-reddi
-- league-of-hel
+- federation
+- ngaliba
+- mbukuravi
+- kremainn
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Adle's Armada
 
-First mentioned: **3301-07-16**  
+First mentioned: **3301-06-22**  
 Last mentioned: **3303-06-30**  
-Total mentions: **4**
+Total mentions: **5**
 
 ## Related
 
 - [[Emperor's Grace]] (2 co-mentions)
-- [[Cosmic State]] (1 co-mentions)
-- [[Hammer Arms]] (1 co-mentions)
-- [[Labour Party of Caill Reddi]] (1 co-mentions)
-- [[League of Hel]] (1 co-mentions)
+- [[Federation]] (1 co-mentions)
+- [[Ngaliba]] (1 co-mentions)
+- [[Mbukuravi]] (1 co-mentions)
+- [[Kremainn]] (1 co-mentions)
 
 ## Biography
 

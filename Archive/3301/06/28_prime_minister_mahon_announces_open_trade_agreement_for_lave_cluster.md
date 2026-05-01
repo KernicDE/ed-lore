@@ -4,10 +4,13 @@ title: Prime Minister Mahon announces open trade agreement for Lave cluster
 slug: prime_minister_mahon_announces_open_trade_agreement_for_lave_cluster
 date: '3301-06-28'
 source: GitHub
-entities:
+summary: Prime Minister Edmund Mahon thanked independent pilots who supported his initiative to strengthen economic bonds with the Old Worlds in the Lave cluster. He announced an open trade agreement granting all traders safe passage and commissioned the Alliance Defence Force to establish a permanent presence in the sector to protect civilian traders from piracy and crime.
+player_impact: Pilots gain safe passage for trading in the Lave cluster. The Alliance Defence Force will deploy to protect traders from piracy.
+persons:
 - Edmund Mahon
 groups:
 - Alliance
+- Alliance Defence Force
 locations:
 - Alioth
 - Lave
@@ -20,8 +23,7 @@ topics:
 - trade
 - war
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence
-  through Mahon's trade agreements.
+modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence through Mahon's trade agreements.
 legacy_weight: 3
 significance: medium
 ---

@@ -4,17 +4,27 @@ title: A Vision of the Future
 slug: a_vision_of_the_future
 date: '3301-06-06'
 source: GitHub
+persons:
+- Pranav Antal
+- Rishi Antal
 groups:
 - Utopia
+locations:
+- Antal
+- Polevnic
+- Neris
+- HIP 117972
+- HIP 1389
+- Lobachevsky Station
 topics:
-- exploration
-- independence
 - research
 - trade
-- war
-modern_impact: Notable exploration achievement expanding the boundaries of known space.
+- technology
+summary: Utopia's compound on Antal has long displayed technology years ahead of its time. Under Simguru Pranav Antal, the Utopian Commune Programme expanded to Polevnic, Neris, HIP 117972, and HIP 1389. Hundreds of thousands of scientists and engineers have joined, developing new technologies for mass production. Utopia requires approximately 30 million tonnes of assorted metals monthly and offers bonuses to traders who deliver large supplies to Lobachevsky Station in Antal.
+player_impact: Traders can deliver assorted metals to Lobachevsky Station in Antal for monthly bonuses from Utopia.
+modern_impact: Utopia's rapid expansion and advanced technology programme positions it as a growing independent power with ambitious communal ideals.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 A Vision of The Future

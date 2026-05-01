@@ -4,13 +4,13 @@ name: Sol
 type: location
 first_seen_date: '3301-02-08'
 last_seen_date: '3311-12-18'
-mention_count: 137
+mention_count: 145
 related_entities:
 - mars
 - federal-times
 - federal-congress
+- federal-navy
 - alliance
-- aegis
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-02-08**  
 Last mentioned: **3311-12-18**  
-Total mentions: **137**
+Total mentions: **145**
 
 ## Related
 
-- [[Mars]] (27 co-mentions)
+- [[Mars]] (36 co-mentions)
 - [[Federal Times]] (26 co-mentions)
-- [[Federal Congress]] (21 co-mentions)
+- [[Federal Congress]] (24 co-mentions)
+- [[Federal Navy]] (22 co-mentions)
 - [[Alliance]] (21 co-mentions)
-- [[Aegis]] (18 co-mentions)
 
 ## Biography
 

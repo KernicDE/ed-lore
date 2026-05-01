@@ -4,15 +4,24 @@ title: Federal Vigilantes Defy All Galactic Powers
 slug: federal_vigilantes_defy_all_galactic_powers
 date: '3301-06-22'
 source: GitHub
+persons:
+- Tyllerius Adle III
+- Tyllerius Adle
+groups:
+- Adle's Armada
+- Federation
 locations:
+- Ngaliba
+- Mbukuravi
 - Kremainn
-- Mbukuravi and Kremainn
 topics:
-- slavery
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- politics
+- independence
+summary: Adle's Armada, a long-standing Federal-leaning vigilante group, declared itself a sovereign power independent of all galactic powers. Post Commander Tyllerius Adle originally pulled his force from a classified inter-factional combat force in 3200, rebranding as Adle's Armada. The group recruits only the finest combat pilots with clean consciences and has historically defended the defenceless. They will now operate as their own power primarily in Ngaliba, Mbukuravi, and Kremainn, creating their own governance system. Congress offered no comment at time of press.
+player_impact: Combat pilots with clean records may be recruited by Adle's Armada to operate in Ngaliba, Mbukuravi, and Kremainn as an independent vigilante force.
+modern_impact: Adle's Armada's declaration of sovereignty establishes a new independent power born from Federal military roots, rejecting all superpower allegiances.
+legacy_weight: 3
+significance: medium
 ---
 
 Federal Vigilantes Defy All Galactic Powers

@@ -4,16 +4,27 @@ title: Blaine Address State of the Emperor
 slug: blaine_address_state_of_the_emperor
 date: '3301-06-20'
 source: GitHub
-entities:
-- Blaine made
-- Chancellor Blaine made
+persons:
+- Anders Blaine
 - Hengist Duval
+- Arissa Lavigny-Duval
+- Aristide de Lavigny
+groups:
+- Imperial Senate
+- Imperial Palace
+locations:
+- Capitol
+- Imperial Palace
+- Achenar
 topics:
-- sport
+- medicine
 - succession
-modern_impact: Competitive event for the pilot community.
-legacy_weight: 1
-significance: low
+- politics
+summary: Chancellor Anders Blaine addressed the Senate with an update on Emperor Hengist Duval's health following the assassination attempt over a month prior. He reported the Emperor is recovering nicely, with physicians successfully removing toxins. Blaine praised Princess Arissa Lavigny-Duval for her assistance in tracking down conspirators, noting her father Aristide would be proud. He announced the Emperor is showing signs of returning to good health and will likely make a full recovery if healing continues at its current rate.
+player_impact: None
+modern_impact: Blaine's optimistic health update on Emperor Hengist Duval temporarily eases succession concerns and highlights Arissa Lavigny-Duval's role in restoring imperial justice.
+legacy_weight: 4
+significance: high
 ---
 
 Blaine Address State of The Emperor

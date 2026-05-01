@@ -8,6 +8,7 @@ mention_count: 2
 related_entities:
 - kappa-fornacis
 - panem
+- east-india-company
 ---
 
 <!-- AUTO-GENERATED -->
@@ -22,6 +23,7 @@ Total mentions: **2**
 
 - [[Kappa Fornacis]] (2 co-mentions)
 - [[Panem]] (2 co-mentions)
+- [[East India Company]] (1 co-mentions)
 
 ## Biography
 

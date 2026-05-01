@@ -4,18 +4,30 @@ title: Federation Goes All In
 slug: federation_goes_all_in
 date: '3301-06-10'
 source: GitHub
+persons:
+- Edmund Mahon
+- Zachary Hudson
+- Felicia Winters
 groups:
 - Alliance
+- Federal Republican Association
+- Liberal Party
 locations:
-- Federal
-- Sol
+- Dahan
+- Dahan Gateway
+- Whitson Hub
+- Aulin
+- Aulin Enterprise
+- Eranin
 topics:
+- politics
 - war
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
-legacy_weight: 4
-significance: high
+summary: Following the failed Federal invasion of Eranin in late 3300, Federal and Alliance campaigners clashed politically in the Dahan sector. Mahon supporters successfully convinced many residents that Alliance membership was preferable to Federal taxation, but lacked resources to capitalise. The real winner appears to be Shadow President Winters, whose Liberals took the lead in historically Republican Aulin and are establishing a new command centre aboard Aulin Enterprise. Republican and Liberal party members have been recruiting supporters around the clock.
+player_impact: Pilots can support Federal or Alliance political campaigns in Dahan and Aulin, influencing which power gains influence in the sector.
+modern_impact: Political battle between Federation and Alliance in Dahan reveals Winters' Liberals gaining ground even in traditionally Republican strongholds.
+legacy_weight: 3
+significance: medium
 ---
 
 Federation Goes All In

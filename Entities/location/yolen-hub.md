@@ -2,9 +2,9 @@
 id: yolen-hub
 name: Yolen Hub
 type: location
-first_seen_date: '3301-07-03'
+first_seen_date: '3301-06-23'
 last_seen_date: '3301-07-03'
-mention_count: 1
+mention_count: 2
 related_entities:
 - kumo-crew
 - utopia
@@ -15,15 +15,15 @@ related_entities:
 
 # Yolen Hub
 
-First mentioned: **3301-07-03**  
+First mentioned: **3301-06-23**  
 Last mentioned: **3301-07-03**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Kumo Crew]] (1 co-mentions)
-- [[Utopia]] (1 co-mentions)
-- [[HIP 116213]] (1 co-mentions)
+- [[Kumo Crew]] (2 co-mentions)
+- [[Utopia]] (2 co-mentions)
+- [[HIP 116213]] (2 co-mentions)
 
 ## Biography
 

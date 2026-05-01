@@ -4,17 +4,21 @@ title: Chaos in the Kumo Crew
 slug: chaos_in_the_kumo_crew
 date: '3301-06-18'
 source: GitHub
+persons:
+- Archon Delaine
 groups:
 - Kumo Crew
 locations:
 - Harma
+- Pegasi Sector
 topics:
 - crime
 - piracy
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Archon Delaine's acceptance of new members into the Kumo Crew has caused infighting and infiltration, stalling their takeover of the Pegasi sector. The Pirate King is reportedly furious at chaotic and treacherous actions being carried out in his name. Kumo Crew enforcers have been dispatched to deal with the matter personally. Those blocking Kumo Crew expansion throughout Pegasi are warned they will pay the price for defiance.
+player_impact: Kumo Crew-aligned pilots should expect internal purges and enforcer crackdowns as Delaine consolidates control over his organisation.
+modern_impact: Growing pains within the Kumo Crew reveal the difficulty of maintaining discipline while rapidly expanding a criminal empire.
 legacy_weight: 3
 significance: medium
 ---

@@ -9,8 +9,8 @@ related_entities:
 - sirius-corporation
 - alliance
 - aegis
+- polevnic
 - vitadyne-labs
-- interstellar-health-organisation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **49**
 - [[Sirius Corporation]] (12 co-mentions)
 - [[Alliance]] (10 co-mentions)
 - [[Aegis]] (9 co-mentions)
+- [[Polevnic]] (7 co-mentions)
 - [[Vitadyne Labs]] (7 co-mentions)
-- [[Interstellar Health Organisation]] (6 co-mentions)
 
 ## Biography
 

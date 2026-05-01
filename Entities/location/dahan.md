@@ -2,30 +2,32 @@
 id: dahan
 name: Dahan
 type: location
-first_seen_date: '3301-12-21'
+first_seen_date: '3301-06-10'
 last_seen_date: '3301-12-21'
-mention_count: 1
+mention_count: 2
 related_entities:
-- canonn-interstellar-research-group
-- maia
-- merope
-- nelson-works
+- alliance
+- federal-republican-association
+- liberal-party
+- dahan-gateway
+- whitson-hub
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Dahan
 
-First mentioned: **3301-12-21**  
+First mentioned: **3301-06-10**  
 Last mentioned: **3301-12-21**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Canonn Interstellar Research Group]] (1 co-mentions)
-- [[Maia]] (1 co-mentions)
-- [[Merope]] (1 co-mentions)
-- [[Nelson Works]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Federal Republican Association]] (1 co-mentions)
+- [[Liberal Party]] (1 co-mentions)
+- [[Dahan Gateway]] (1 co-mentions)
+- [[Whitson Hub]] (1 co-mentions)
 
 ## Biography
 

@@ -4,18 +4,25 @@ title: Kappa Fornacis Calls Federal Freedom Into Question
 slug: kappa_fornacis_calls_federal_freedom_into_question
 date: '3301-06-18'
 source: GitHub
+persons:
+- Georgio Algeria
+- Zemina Torval
+- Zachary Hudson
 groups:
 - Kappa Fornacis Farmers Union
+- East India Company
 locations:
 - Kappa Fornacis
 - Panem
 topics:
-- corporate expansion
+- narcotics
+- politics
 - slavery
-- trade
-modern_impact: Trade initiative affecting commodity markets and local economies.
-legacy_weight: 2
-significance: low
+summary: Following a reported trade deal with one of Senator Zemina Torval's corporations, Kappa Fornacis Farmers Union spokesman Georgio Algeria mocked President Hudson's anti-drug stance. He defended Onionhead cultivation and criticised Federal military recruitment as a form of slavery. He noted that while Imperial slavery is not ideal, at least the Empire is 'doing something about it.' The farmers' newfound confidence signals growing defiance of Federal prohibition policies.
+player_impact: Pilots can expect continued Onionhead production in Kappa Fornacis despite Federal crackdowns, with potential Imperial trade connections.
+modern_impact: Kappa Fornacis farmers openly challenge Federal authority, comparing military conscription to slavery and aligning with Imperial trade interests.
+legacy_weight: 3
+significance: medium
 ---
 
 Kappa Fornacis Calls Federal Freedom Into Question

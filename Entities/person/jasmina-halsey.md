@@ -3,8 +3,8 @@ id: jasmina-halsey
 name: Jasmina Halsey
 type: person
 first_seen_date: '3301-04-07'
-last_seen_date: '3301-06-09'
-mention_count: 4
+last_seen_date: '3301-05-29'
+mention_count: 3
 related_entities:
 - halsey-addresses-accusations
 - hudsons-campaign
@@ -18,8 +18,8 @@ related_entities:
 # Jasmina Halsey
 
 First mentioned: **3301-04-07**  
-Last mentioned: **3301-06-09**  
-Total mentions: **4**
+Last mentioned: **3301-05-29**  
+Total mentions: **3**
 
 ## Related
 

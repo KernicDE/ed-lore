@@ -4,21 +4,27 @@ title: Controlling the Credit Crops
 slug: controlling_the_credit_crops
 date: '3301-06-11'
 source: GitHub
-entities:
-- Hudson responded by directing
+persons:
+- Georgio Algeria
 - Zemina Torval
-- Zemina Torval appear
+- Zachary Hudson
+groups:
+- East India Company
+- Federal Navy
+- Republican Party
 locations:
 - Kappa Fornacis
+- Autahenetsi
 topics:
 - narcotics
 - trade
 - war
 arc_id: onionhead-conflict
-modern_impact: The Onionhead conflict highlights tensions between Federal prohibition
-  and local agricultural economies.
-legacy_weight: 3
-significance: medium
+summary: Six months after Onionhead was made illegal in Federal space, the Federation launched a violent campaign against Kappa Fornacis farmers led by Georgio Algeria. Federal marines invaded fields and battle cruisers rained fire. The farmers created a new strain of Onionhead and expanded operations, working with the East India Company, an Imperial trade organisation in which Senator Zemina Torval is a major shareholder. President Hudson responded by sending Republican supporters to permanently establish themselves in Autahenetsi as a deterrent. Neither the East India Company nor Senator Torval appeared intimidated by Federal efforts.
+player_impact: Pilots can support Onionhead farmers in Kappa Fornacis or participate in Federal suppression operations in Autahenetsi.
+modern_impact: Onionhead conflict escalates into an Imperial-Federal proxy dispute, with Torval's East India Company openly defying Federal prohibition.
+legacy_weight: 4
+significance: high
 ---
 
 Controlling The Credit Crops

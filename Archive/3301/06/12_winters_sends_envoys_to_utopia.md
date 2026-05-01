@@ -4,11 +4,26 @@ title: Winters Sends Envoys to Utopia
 slug: winters_sends_envoys_to_utopia
 date: '3301-06-12'
 source: GitHub
+persons:
+- Felicia Winters
+- Pranav Antal
 groups:
 - Utopia
-modern_impact: GalNet community report documenting current events in the galaxy.
+- Federal Liberal Party
+locations:
+- Polevnic
+- Tanner Settlement
+- Antal
+- Lobachevsky Station
+topics:
+- diplomacy
+- politics
+- trade
+summary: Emissaries of Shadow President Felicia Winters were spotted meeting Utopian representatives aboard Tanner Settlement in Polevnic. A spokesman dismissed it as routine, but pundits speculate the visit could signal support for sim gaming or a metals trade deal, given Utopia's large order of assorted metals for delivery to Antal. Winters' outreach to Utopia contrasts with the previous administration's hard-line stance against sim addiction.
+player_impact: Traders delivering metals to Lobachevsky Station in Antal may find increased demand from Utopia.
+modern_impact: Winters' diplomatic outreach to Utopia suggests a softer Federal approach to the independent commune, potentially opening trade channels.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Winters Sends Envoys to Utopia?

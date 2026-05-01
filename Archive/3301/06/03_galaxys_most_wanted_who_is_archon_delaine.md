@@ -1,24 +1,26 @@
 ---
 uuid: bef2abfe-a325-5747-a81a-6c1c086c9b19
-title: Galaxy's Most Wanted  Who is Archon Delaine
+title: Galaxy's Most Wanted – Who is Archon Delaine
 slug: galaxys_most_wanted_who_is_archon_delaine
 date: '3301-06-03'
 source: GitHub
+persons:
+- Archon Delaine
 groups:
 - Kumo Crew
 locations:
-- The
+- Pegasi Sector
+- Harma
 topics:
 - crime
-- narcotics
 - piracy
-- ship
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
-legacy_weight: 3
-significance: medium
+summary: Profile of Archon Delaine, the self-styled Pirate King. At age 15 he beat the Kumo Crew's previous leader to death and assumed control. Over 20 years he defeated every challenger, then restructured the Kumo Crew from a loose drug cartel into a disciplined criminal syndicate. He rules by fear, rewarding loyalty and crushing opposition. Though primarily active in the Pegasi sector, reports indicate Kumo Crew members are beginning to expand beyond it.
+player_impact: Pilots in Pegasi sector should be extremely vigilant against Kumo Crew pirates and their expanding operations.
+modern_impact: Profile establishes Archon Delaine as one of the galaxy's most dangerous criminals, transforming the Kumo Crew into a major organised threat.
+legacy_weight: 4
+significance: high
 ---
 
 Galaxy's Most Wanted: Who is Archon Delaine?

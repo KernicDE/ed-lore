@@ -4,22 +4,27 @@ title: Emperor's Grace Reaffirms Loyalty to Patreus
 slug: emperors_grace_reaffirms_loyalty_to_patreus
 date: '3301-06-08'
 source: GitHub
-entities:
+persons:
+- Varrwen Mako Brennus
+- Denton Patreus
+- Hengist Duval
 - Light Fingers
-- Patreus demonstrated support
 groups:
 - Emperor's Grace
 - Imperial Senate
+- Imperial Internal Security Service
 locations:
-- Denton
+- Capitol
+- Achenar
+- Eotienses
 topics:
+- politics
 - crime
-- scandal
-- sport
-- succession
-modern_impact: Competitive event for the pilot community.
-legacy_weight: 1
-significance: low
+summary: On Admiral Varrwen Mako Brennus's personal order, all Emperor's Grace members are instructed to support Senator Denton Patreus. Patreus had defended Emperor's Grace when senior members were falsely accused of treason before the Imperial Senate. Emperor's Grace was also instrumental in finding the criminals behind the assassination attempt on Emperor Hengist Duval. Brennus declared to a packed audience that 'we never forget our friends and we always remember our enemies.'
+player_impact: Pilots aligned with Emperor's Grace can extend support to Senator Patreus's operations.
+modern_impact: Emperor's Grace's public loyalty to Patreus strengthens his position in the Imperial power structure and rewards his past defence of the organisation.
+legacy_weight: 3
+significance: medium
 ---
 
 Emperor's Grace Reaffirms Loyalty to Patreus

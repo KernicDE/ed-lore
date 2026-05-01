@@ -3,14 +3,14 @@ id: federal-politics
 name: Federal Politics
 first_seen_date: '3301-02-15'
 last_seen_date: '3310-10-31'
-mention_count: 75
+mention_count: 74
 significance: medium
 key_entities:
 - federal-times
 - core-dynamics
 - federation
+- federal-congress
 - proactive-detection-bureau
-- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ key_entities:
 
 First seen: **3301-02-15**  
 Last seen: **3310-10-31**  
-Articles: **75**
+Articles: **74**
 
 ## Key Figures
 
 - [[Federal Times]] (20 mentions)
 - [[Core Dynamics]] (15 mentions)
 - [[Federation]] (13 mentions)
+- [[Federal Congress]] (10 mentions)
 - [[Proactive Detection Bureau]] (10 mentions)
-- [[Alliance]] (9 mentions)
 
 ## Description
 

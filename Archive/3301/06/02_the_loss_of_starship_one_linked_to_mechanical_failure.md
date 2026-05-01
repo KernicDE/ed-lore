@@ -4,16 +4,23 @@ title: The Loss of Starship One Linked to Mechanical Failure
 slug: the_loss_of_starship_one_linked_to_mechanical_failure
 date: '3301-06-02'
 source: GitHub
+persons:
+- Jasmina Halsey
 groups:
 - Federal Navy
+locations:
+- Mars
+- Sol
 topics:
-- research
+- investigation
 - ship
-arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
-  with implications for hyperdrive safety.
-legacy_weight: 3
-significance: medium
+- research
+arc_id: starship-one-disappearance
+summary: The Federal Navy released its official 600,000-word report into the disappearance of Starship One. The report confirms the abnormal energy signature detected prior to the last known jump was caused by mechanical failure. An in-depth comparison with the Highliner Antares disaster found remarkable similarities in the failure mode. A power surge in the central power plant caused core systems to overload. Investigators found no signs of foul play after reviewing hours of evidence and video feeds, concluding the loss was a complex multi-stage engine failure.
+player_impact: None
+modern_impact: Official ruling that Starship One was lost to mechanical failure rather than sabotage closes the immediate investigation but leaves questions about the Antares connection.
+legacy_weight: 4
+significance: high
 ---
 
 The Loss of Starship One Linked to Mechanical Failure

@@ -2,12 +2,12 @@
 id: newton-dock
 name: Newton Dock
 type: location
-first_seen_date: '3301-07-14'
+first_seen_date: '3301-06-30'
 last_seen_date: '3302-08-11'
-mention_count: 5
+mention_count: 6
 related_entities:
-- newton-dock-medical
 - bd-02-4304
+- newton-dock-medical
 - dajoar
 - eleu
 - 20-ophiuchi
@@ -17,14 +17,14 @@ related_entities:
 
 # Newton Dock
 
-First mentioned: **3301-07-14**  
+First mentioned: **3301-06-30**  
 Last mentioned: **3302-08-11**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 
+- [[BD-02 4304]] (4 co-mentions)
 - [[Newton Dock Medical]] (3 co-mentions)
-- [[BD-02 4304]] (3 co-mentions)
 - [[Dajoar]] (2 co-mentions)
 - [[Eleu]] (2 co-mentions)
 - [[20 Ophiuchi]] (2 co-mentions)

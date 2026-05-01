@@ -10,7 +10,7 @@ related_entities:
 - lave-station
 - alioth
 - sol
-- diso
+- alliance-defence-force
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **33**
 - [[Lave Station]] (10 co-mentions)
 - [[Alioth]] (9 co-mentions)
 - [[Sol]] (7 co-mentions)
-- [[Diso]] (6 co-mentions)
+- [[Alliance Defence Force]] (6 co-mentions)
 
 ## Biography
 

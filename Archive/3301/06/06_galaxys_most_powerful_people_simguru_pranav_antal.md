@@ -1,17 +1,28 @@
 ---
 uuid: 42370e8a-3a35-5de0-bad0-d3716423bdc7
-title: Galaxy's Most Powerful People  Simguru Pranav Antal
+title: Galaxy's Most Powerful People – Simguru Pranav Antal
 slug: galaxys_most_powerful_people_simguru_pranav_antal
 date: '3301-06-06'
 source: GitHub
+persons:
+- Pranav Antal
+- Rishi Antal
 groups:
 - Utopia
+locations:
+- Antal
+- Polevnic
+- Neris
+- HIP 117972
+- HIP 1389
 topics:
-- corporate expansion
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- politics
+- technology
+summary: Profile of Simguru Pranav Antal, heir to Rishi Antal's legacy of transcendental technology. Despite predictions that Utopia would collapse without its founder, Pranav expanded the Utopian Commune Programme to multiple systems. He told GalNet that imposing order through innovation and understanding is key to humanity's happiness, and that mastering oneself is necessary to master the worlds around us.
+player_impact: None
+modern_impact: Profile establishes Pranav Antal as a visionary leader expanding Utopia's influence through advanced communal technology.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Galaxy's Most Powerful People: Simguru Pranav Antal

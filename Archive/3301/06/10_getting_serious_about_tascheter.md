@@ -4,16 +4,26 @@ title: Getting Serious About Tascheter
 slug: getting_serious_about_tascheter
 date: '3301-06-10'
 source: GitHub
+persons:
+- Felicia Winters
+- Li Yong-Rui
 groups:
 - Sirius Corp
 - Sirius Corporation
+- Federal Liberal Party
 locations:
+- Tascheter
+- Oduduro
+- Akkadia
 - Sirius
 topics:
 - corporate expansion
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- politics
+summary: Shadow President Felicia Winters began her tenure by challenging her former employer Sirius Corporation for influence in the Tascheter sector. Winters' media agents are spreading information packages in Oduduro to keep residents within the Federation. Meanwhile, Sirius Corporation representatives have been negotiating potential mergers with Akkadia Inc and Akkadia Crimson Allied Organisation in neighbouring Akkadia. Both powers have enjoyed success, but only one can become dominant in the sector. Relations remain cordial for now, but final preparations for a territorial showdown are underway.
+player_impact: Pilots can support either Winters' Federal campaign in Oduduro or Sirius Corp's corporate expansion in Akkadia.
+modern_impact: Winters-Sirius rivalry in Tascheter demonstrates the friction between Federal political interests and corporate expansion.
+legacy_weight: 3
+significance: medium
 ---
 
 Getting Serious About Tascheter

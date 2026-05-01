@@ -2,9 +2,9 @@
 id: arawere
 name: Arawere
 type: location
-first_seen_date: '3301-11-25'
+first_seen_date: '3301-06-24'
 last_seen_date: '3302-05-20'
-mention_count: 6
+mention_count: 7
 related_entities:
 - 64-arietis
 - weyn-dock
@@ -17,9 +17,9 @@ related_entities:
 
 # Arawere
 
-First mentioned: **3301-11-25**  
+First mentioned: **3301-06-24**  
 Last mentioned: **3302-05-20**  
-Total mentions: **6**
+Total mentions: **7**
 
 ## Related
 

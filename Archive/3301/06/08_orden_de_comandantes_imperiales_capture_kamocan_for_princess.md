@@ -4,11 +4,23 @@ title: Orden de Comandantes Imperiales Capture Kamocan for Princess
 slug: orden_de_comandantes_imperiales_capture_kamocan_for_princess
 date: '3301-06-08'
 source: GitHub
+persons:
+- Arissa Lavigny-Duval
+groups:
+- Orden de Comandantes Imperiales
+- Lavigny's Legion
+locations:
+- Kamocan
+- Achenar
+- Capitol
 topics:
+- politics
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: The Hispanic chivalric order Orden de Comandantes Imperiales announced that Kamocan has officially entered the Imperial fold under Princess Arissa Lavigny-Duval. After an extended campaign, the noblemen of the order turned the system's allegiance to the Princess. The highly populated Hispanic region has seen many citizens swear to follow Lavigny-Duval in her quest to restore law and order to the Empire. The order is confident their systems will prosper under her influence as the only real heir to the throne.
+player_impact: Imperial pilots supporting Arissa Lavigny-Duval can participate in expansion efforts in Kamocan and surrounding Hispanic-populated systems.
+modern_impact: Orden de Comandantes Imperiales' capture of Kamocan for Lavigny-Duval expands her influence in a key demographic region of the Empire.
+legacy_weight: 3
+significance: medium
 ---
 
 Orden de Comandantes Imperiales Capture Kamocan for Princess

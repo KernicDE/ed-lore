@@ -4,13 +4,13 @@ name: Mars
 type: location
 first_seen_date: '3301-02-17'
 last_seen_date: '3311-12-18'
-mention_count: 83
+mention_count: 88
 related_entities:
 - sol
 - federal-times
 - alliance
-- federal-security-service
 - mars-tribune
+- federal-security-service
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-02-17**  
 Last mentioned: **3311-12-18**  
-Total mentions: **83**
+Total mentions: **88**
 
 ## Related
 
-- [[Sol]] (27 co-mentions)
+- [[Sol]] (36 co-mentions)
 - [[Federal Times]] (17 co-mentions)
 - [[Alliance]] (15 co-mentions)
+- [[Mars Tribune]] (15 co-mentions)
 - [[Federal Security Service]] (14 co-mentions)
-- [[Mars Tribune]] (14 co-mentions)
 
 ## Biography
 

@@ -4,8 +4,14 @@ title: GalNet Powers Update Incoming
 slug: galnet_powers_update_incoming
 date: '3301-06-24'
 source: GitHub
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
+summary: GalNet announces that updated statistics and activities for all major powers will be released the following morning. Commanders are reminded to deliver any vouchers and cargo before the update occurs.
+player_impact: Pilots active with powers are reminded to deliver vouchers and cargo before the update to secure their standing.
+persons: []
+groups: []
+locations: []
+technologies: []
+modern_impact: Routine GalNet powers update announcement reminding commanders to complete deliveries.
+legacy_weight: 1
 significance: low
 ---
 

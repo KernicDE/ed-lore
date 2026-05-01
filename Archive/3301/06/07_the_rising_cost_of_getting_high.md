@@ -4,13 +4,22 @@ title: The Rising Cost of Getting High
 slug: the_rising_cost_of_getting_high
 date: '3301-06-07'
 source: GitHub
+persons:
+- Zachary Hudson
+groups:
+- Federation
+locations:
+- Mars
+- Sol
 topics:
 - narcotics
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets and local economies.
+- crime
+summary: Following Hudson's rise to the presidency, many Federation systems have taken a firmer stance against illegal narcotics. Prohibition has increased both risk and reward for traffickers. With supply unable to meet demand, buyers are paying prices unimaginable weeks ago. Stricter penalties may dissuade infrequent users but core demand remains. Smugglers have seen profits rise by as much as 5000%, with further increases expected as more systems crack down on illicit goods.
+player_impact: Smugglers can expect exceptionally high profits for illegal narcotics in Federation space, but face increased security and harsher penalties.
+modern_impact: Hudson's anti-narcotics crackdown creates a booming black market with massively inflated prices for illegal drugs across Federation systems.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 The Rising Cost of Getting High

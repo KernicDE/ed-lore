@@ -2,18 +2,18 @@
 id: brad-mitchell
 name: Brad Mitchell
 type: person
-first_seen_date: '3306-11-18'
+first_seen_date: '3301-06-11'
 last_seen_date: '3307-03-24'
-mention_count: 6
+mention_count: 7
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Brad Mitchell
 
-First mentioned: **3306-11-18**  
+First mentioned: **3301-06-11**  
 Last mentioned: **3307-03-24**  
-Total mentions: **6**
+Total mentions: **7**
 
 ## Related
 

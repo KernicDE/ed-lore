@@ -4,15 +4,27 @@ title: Only The Strong Survive The Frontier
 slug: only_the_strong_survive_the_frontier
 date: '3301-06-12'
 source: GitHub
+persons:
+- Archon Delaine
 groups:
 - Kumo Crew
+- Hand Gang of Gandii
+- Camorra of Krisha
+- Krisha Systems Corporation
+- New Gandii Democrats
+locations:
+- Gandii
+- Krisha
+- Babbage Station
+- Fincke Depot
 topics:
-- corporate expansion
 - crime
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: The Hand Gang of Gandii and Camorra of Krisha's call for Kumo Crew allies yielded disappointing recruitment. Both crews failed to attract more than a few hundred freebooters. The Camorra found themselves severely outgunned by the Krisha Systems Corporation and their assault on Fincke Depot ended in total failure, with survivors fleeing or being hunted by former allies. The Hand Gang fared better, establishing themselves as a credible threat at Babbage Station in Gandii, causing the New Gandii Democrats to reconsider opposing Archon Delaine.
+player_impact: Kumo Crew-aligned pilots can support the Hand Gang in Gandii. The Camorra's defeat in Krisha demonstrates the risks of failed pirate uprisings.
+modern_impact: Mixed results for Kumo Crew expansion attempts show that pirate takeovers succeed or fail based on recruitment and local resistance.
+legacy_weight: 3
+significance: medium
 ---
 
 Only The Strong Survive The Frontier

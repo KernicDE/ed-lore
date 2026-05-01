@@ -4,21 +4,25 @@ title: Federal Congress Prepares for Vote
 slug: federal_congress_prepares_for_vote
 date: '3301-06-01'
 source: GitHub
-entities:
-- Halsey no longer appears
-- Hudson's call
+persons:
+- Zachary Hudson
+- Jasmina Halsey
+- Felicia Winters
 groups:
 - Alliance
 - Federal Congress
 - Federal Navy
+- Liberal Party
 locations:
 - Mars
+- Sol
 topics:
-- crime
+- politics
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
-legacy_weight: 4
+summary: Members of Congress gathered on Mars for Shadow President Zachary Hudson's Vote of No Confidence against the Liberal Administration. Hudson cited the loss of dozens of member states to the Alliance, rising crime rates, and a weakened Federal Navy as failures of Halsey's presidency. With President Halsey disappeared, Congress could elect Acting President Felicia Winters instead. Despite Winters' popularity, pundits believed Hudson would carry the day.
+player_impact: None
+modern_impact: Vote of No Confidence sets the stage for a dramatic shift in Federal leadership, with Hudson poised to seize the presidency.
+legacy_weight: 5
 significance: high
 ---
 
