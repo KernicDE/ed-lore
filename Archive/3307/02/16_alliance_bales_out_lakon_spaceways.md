@@ -7,10 +7,7 @@ source: API
 summary: The Alliance Assembly has approved purchasing a majority sharehold in Lakon Spaceways, gaining partial ownership of the shipbuilding company.
 player_impact: The corporate takeover generated significant market and political interest among pilots.
 persons:
-- Its
 - Jupiter Rochester
-- The Alioth
-- Which
 groups:
 - Alliance
 - Core Dynamics
