@@ -2,7 +2,7 @@
 uuid: ddd18d21-0b9c-53db-a8e0-d3969750145c
 title: Federal Research Programme Terminated
 slug: federal_research_programme_terminated
-date: 3301-09-20
+date: '3301-09-20'
 source: GitHub
 persons:
 - Ishmael Palin

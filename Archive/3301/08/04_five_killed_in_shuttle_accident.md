@@ -4,21 +4,23 @@ title: Five Killed in Shuttle Accident
 slug: five_killed_in_shuttle_accident
 date: '3301-08-04'
 source: GitHub
+persons:
+- Elaine Boyd
+- Sean Richards
 groups:
 - Federal Times
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Sirius
+- Patterson Enterprise
 topics:
-- corporate expansion
 - investigation
 - safety
 - ship
-- war
 arc_id: antares-mystery
-modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery
-  with implications for hyperdrive safety.
+summary: A Sirius Corporation shuttle was destroyed when its docking computer failed on approach to Patterson Enterprise in the Sirius system. The boost protocol activated instead of being disabled, causing the shuttle to crash into the station. All five aboard were killed, including senior consultant engineer Sean Richards, who helped compile the incident report on Starship One's disappearance and was part of the original Antares enquiry task force 50 years earlier.
+player_impact: The shuttle crash raises questions about docking computer reliability. Pilots should remain vigilant during automated docking procedures.
+modern_impact: Continues the investigation into the Antares disaster, a 50-year mystery with implications for hyperdrive safety.
 legacy_weight: 3
 significance: medium
 ---

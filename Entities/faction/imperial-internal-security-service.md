@@ -7,9 +7,9 @@ last_seen_date: '3312-02-10'
 mention_count: 53
 related_entities:
 - nmla
+- emperors-dawn
 - league-of-reparation
 - alliance
-- emperors-dawn
 - capitol
 ---
 
@@ -24,10 +24,10 @@ Total mentions: **53**
 ## Related
 
 - [[NMLA]] (11 co-mentions)
+- [[Emperor's Dawn]] (10 co-mentions)
 - [[League of Reparation]] (10 co-mentions)
 - [[Alliance]] (10 co-mentions)
-- [[Emperor's Dawn]] (9 co-mentions)
-- [[Capitol]] (8 co-mentions)
+- [[Capitol]] (9 co-mentions)
 
 ## Biography
 

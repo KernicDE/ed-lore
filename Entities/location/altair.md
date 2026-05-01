@@ -2,9 +2,9 @@
 id: altair
 name: Altair
 type: location
-first_seen_date: '3302-04-07'
+first_seen_date: '3301-08-06'
 last_seen_date: '3308-05-19'
-mention_count: 7
+mention_count: 8
 related_entities:
 - sol
 - mars
@@ -17,9 +17,9 @@ related_entities:
 
 # Altair
 
-First mentioned: **3302-04-07**  
+First mentioned: **3301-08-06**  
 Last mentioned: **3308-05-19**  
-Total mentions: **7**
+Total mentions: **8**
 
 ## Related
 

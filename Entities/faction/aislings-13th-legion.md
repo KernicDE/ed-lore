@@ -1,0 +1,30 @@
+---
+id: aislings-13th-legion
+name: Aisling's 13th Legion
+type: faction
+first_seen_date: '3301-08-03'
+last_seen_date: '3301-08-03'
+mention_count: 1
+related_entities:
+- winters-wolves
+- chona
+- smoot-station
+---
+
+<!-- AUTO-GENERATED -->
+
+# Aisling's 13th Legion
+
+First mentioned: **3301-08-03**  
+Last mentioned: **3301-08-03**  
+Total mentions: **1**
+
+## Related
+
+- [[Winters' Wolves]] (1 co-mentions)
+- [[Chona]] (1 co-mentions)
+- [[Smoot Station]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

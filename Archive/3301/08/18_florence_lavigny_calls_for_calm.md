@@ -4,14 +4,20 @@ title: Florence Lavigny Calls for Calm
 slug: florence_lavigny_calls_for_calm
 date: '3301-08-18'
 source: GitHub
-entities:
+persons:
+- Florence Lavigny
 - Hengist Duval
+- Aristide Lavigny
+groups:
+- Imperial Palace
 locations:
 - Capitol
 - Imperial Palace
 topics:
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: In her first public appearance since Emperor Hengist Duval’s death on their wedding day, Florence Lavigny called for proper decorum and quiet reflection instead of the unpleasantness seen on Capitol. She maintained regal dignity despite her devastation, offering a glimpse of what she might have been as Empress Regent. She recalled anecdotes from the Emperor’s youth and her life with her first husband Prince Aristide Lavigny, bringing smiles to sombre reporters.
+player_impact: None
+modern_impact: Florence Lavigny’s public appeal for calm during rising tensions on Capitol following the Emperor’s assassination.
 legacy_weight: 2
 significance: low
 ---

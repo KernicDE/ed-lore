@@ -1,20 +1,25 @@
 ---
 uuid: 345cb822-35d0-50ee-a245-6e79e65f2844
-title: President’s Bodyguard Found Murdered
+title: President's Bodyguard Found Murdered
 slug: presidents_bodyguard_found_murdered
 date: '3301-08-21'
 source: GitHub
-entities:
-- Monroe
+persons:
 - Susan Monroe
+- Elaine Boyd
 groups:
 - Federal Security Service
 - Federal Times
+locations:
+- Sol
 topics:
+- crime
 - investigation
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: Agent Susan Monroe of the Presidential Protection Detail was found murdered in her home, with evidence her residence had been searched. The cause was multiple stab wounds. The Federal Security Service identified Elaine Boyd, a Federal Times reporter romantically involved with Monroe, as a person of interest. Boyd's whereabouts are unknown and the FSS urges anyone with information to contact authorities. The Federal Times refused to comment.
+player_impact: None
+modern_impact: Murder of a Presidential Protection Detail agent and the disappearance of a Federal Times reporter raises serious security concerns.
+legacy_weight: 3
+significance: medium
 ---
 
 President’s Bodyguard Found Murdered

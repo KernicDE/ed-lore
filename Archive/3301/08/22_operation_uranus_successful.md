@@ -1,24 +1,25 @@
 ---
 uuid: 2d0a01c2-cb28-50e3-a6aa-9383f7359983
-title: '''Operation Uranus’ Successful'
+title: 'Operation Uranus Successful'
 slug: operation_uranus_successful
 date: '3301-08-22'
 source: GitHub
-entities:
+persons:
+- Archon Delaine
 - Mikalus
-- Patreus failed
 groups:
-- Alliance
-- Interstellar Press
 - Kumo Crew
+- Interstellar Press
 locations:
-- Kumo Crew struck hard at
+- Contiku
+- Pegasi Sector
 topics:
 - piracy
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Archon Delaine launched Operation Uranus, a multi-pronged Kumo Crew counter-attack against systems under Senator Patreus's influence. The campaign successfully pushed Contiku into turmoil. Imperial commanders reported increased Kumo Crew raids within Imperial space. Despite a combined Imperial task force besieging the Pegasi sector, Patreus loyalists failed to prevent the counter-attack, potentially jeopardizing the alliance between Imperial powers and strengthening opposition to the war.
+player_impact: Combat pilots should expect intensified Kumo Crew activity in systems under Patreus's influence. The pirate counter-offensive has shifted momentum in the Pegasi Pirate War.
+modern_impact: Kumo Crew counter-attack demonstrates Archon Delaine's resilience and threatens Imperial unity in the Pegasi sector.
 legacy_weight: 3
 significance: medium
 ---

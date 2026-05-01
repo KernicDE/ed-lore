@@ -2,18 +2,18 @@
 id: mavia-kain
 name: Mavia Kain
 type: person
-first_seen_date: '3301-11-06'
+first_seen_date: '3301-08-14'
 last_seen_date: '3302-02-05'
-mention_count: 2
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Mavia Kain
 
-First mentioned: **3301-11-06**  
+First mentioned: **3301-08-14**  
 Last mentioned: **3302-02-05**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

@@ -4,17 +4,23 @@ title: Patreus Reacts Angrily to Crowd’s Taunts
 slug: patreus_reacts_angrily_to_crowds_taunts
 date: '3301-08-10'
 source: GitHub
-entities:
+persons:
 - Denton Patreus
+- Brendan Paul Darius
+- Florence Lavigny
+groups:
+- Imperial Senate
 locations:
-- Denton
+- Capitol
 topics:
 - investigation
 - scandal
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: Senator Denton Patreus responded angrily to accusations linking him to Brendan Paul Darius, the Emperor’s assassin. A vocal minority outside the Senate taunted Patreus over the connection. Patreus called the notion offensive, stating that while it brought him dishonour that a man in his employ committed such an act, it was done without his knowledge. He pledged full cooperation with the investigation. Commentators agree the direct accusations are ridiculous, but speculation continues about Darius’s motive and whether he acted alone.
+player_impact: None
+modern_impact: Senator Patreus publicly defends himself against accusations of involvement in the Emperor’s assassination.
+legacy_weight: 3
+significance: medium
 ---
 
 Patreus Reacts Angrily to Crowd’s Taunts

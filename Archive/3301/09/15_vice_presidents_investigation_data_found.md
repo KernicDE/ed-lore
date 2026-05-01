@@ -2,7 +2,7 @@
 uuid: f5911935-7f3f-5c4b-aea7-90de0e7334f5
 title: Vice President’s Investigation Data Found
 slug: vice_presidents_investigation_data_found
-date: 3301-09-15
+date: '3301-09-15'
 source: GitHub
 persons:
 - Nigel Smeaton

@@ -4,17 +4,20 @@ title: Meet the Powers – Zemina Torval
 slug: meet_the_powers_zemina_torval
 date: '3301-08-03'
 source: GitHub
-entities:
-- Torval represents
+persons:
 - Zemina Torval
+- Marcus Macmillan
 groups:
 - Imperial Senate
 - Mastopolos Mining
+locations:
+- Capitol
 topics:
-- construction
 - slavery
-- war
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+- politics
+summary: Political commentator Marcus Macmillan profiles Senator Zemina Torval, a traditionalist in the Imperial Senate known for her paradoxical views on Imperial slavery. She condemns those who fail to care for slaves properly while maintaining that they form the foundation of the Empire. She prefers diplomacy but commands a substantial military fleet. As controlling shareholder of Mastopolos Mining, she focuses on building a dynasty and legacy for future generations.
+player_impact: None
+modern_impact: Profile of a major Imperial power leader influencing slavery policy and Senate politics.
 legacy_weight: 2
 significance: low
 ---

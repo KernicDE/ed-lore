@@ -2,7 +2,7 @@
 uuid: 680cc302-2940-5f36-9420-81443a849e39
 title: Chancellor Blaine Confirms Senate Investigation
 slug: chancellor_blaine_confirms_senate_investigation
-date: 3301-09-21
+date: '3301-09-21'
 source: GitHub
 persons:
 - Anders Blaine

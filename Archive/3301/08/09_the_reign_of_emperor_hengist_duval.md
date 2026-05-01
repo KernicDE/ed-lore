@@ -4,16 +4,26 @@ title: The Reign of Emperor Hengist Duval
 slug: the_reign_of_emperor_hengist_duval
 date: '3301-08-09'
 source: GitHub
-entities:
+persons:
 - Hengist Duval
+- Sima Kalhana
+- Hender Saik Duval
+- Hesketh Duval
+- Harold Duval
+- Arissa Lavigny-Duval
+- Florence Lavigny
+- Zachary Hudson
+- Denton Patreus
+- Aisling Duval
 locations:
-- This sped up travel between stars
+- Achenar
 topics:
 - succession
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: Historian Sima Kalhana recounts key moments from Emperor Hengist Duval’s life. Born in 3163, he became the 15th Emperor in the Duval bloodline in 3233. His reign saw the cold war with the Federation thaw, then recently resume. The Frame Shift Drive was introduced during his rule. He fell ill in 3300, slipped into a coma at the turn of 3301, then recovered. He decreed his only legitimate child Harold unfit to rule, and supported Arissa Lavigny-Duval’s claim by announcing marriage to her mother Florence Lavigny, intending to formally adopt Arissa. His murder left the succession unclear.
+player_impact: None
+modern_impact: Retrospective on Emperor Hengist Duval’s reign and the succession crisis triggered by his assassination.
+legacy_weight: 4
+significance: high
 ---
 
 The Reign of Emperor Hengist Duval

@@ -10,7 +10,7 @@ related_entities:
 - torval-mining-ltd
 - imperial-senate
 - wreaken-construction
-- zemina-torval
+- capitol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **12**
 - [[Torval Mining Ltd]] (4 co-mentions)
 - [[Imperial Senate]] (3 co-mentions)
 - [[Wreaken Construction]] (3 co-mentions)
-- [[Zemina Torval]] (2 co-mentions)
+- [[Capitol]] (2 co-mentions)
 
 ## Biography
 

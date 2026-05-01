@@ -4,17 +4,17 @@ title: A Brief Look Back
 slug: a_brief_look_back
 date: '3301-08-19'
 source: GitHub
-entities:
+persons:
 - Angel Rose
+- Maugvahnna Rose
+- Dread Katherine
 topics:
-- construction
-- corporate expansion
 - crime
-- independence
 - piracy
-- trade
-modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
-legacy_weight: 2
+summary: This article revisits three colourful figures from recent history. Commander Angel Rose grew up on a starport, became a trader, then was drawn into crime and reluctant assassination, ultimately joining pirates featured on the Underground Channel. Her mother Maugvahnna Rose was a ruthless social climber who became a starport captain and played a small part in her daughter’s criminal path. Pirate Dread Katherine was kidnapped at 19, developed a hatred of men, and became one of the most feared pirates in her region.
+player_impact: None
+modern_impact: Profiles of three individuals who shaped the galaxy from society’s margins.
+legacy_weight: 1
 significance: low
 ---
 

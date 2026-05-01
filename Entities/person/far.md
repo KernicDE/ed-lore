@@ -2,26 +2,21 @@
 id: far
 name: Far
 type: person
-first_seen_date: '3301-08-18'
-last_seen_date: '3301-08-18'
-mention_count: 1
-related_entities:
-- facece
-- many-local
+first_seen_date: '3307-01-18'
+last_seen_date: '3307-03-23'
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Far
 
-First mentioned: **3301-08-18**  
-Last mentioned: **3301-08-18**  
-Total mentions: **1**
+First mentioned: **3307-01-18**  
+Last mentioned: **3307-03-23**  
+Total mentions: **3**
 
 ## Related
 
-- [[Facece]] (1 co-mentions)
-- [[Many local]] (1 co-mentions)
 
 ## Biography
 

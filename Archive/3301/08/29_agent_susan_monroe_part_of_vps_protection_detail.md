@@ -1,21 +1,27 @@
 ---
 uuid: 4f5bb72d-f757-5aea-bac2-311684658508
-title: Agent Susan Monroe Part of VP’s Protection Detail
+title: Agent Susan Monroe Part of VP's Protection Detail
 slug: agent_susan_monroe_part_of_vps_protection_detail
 date: '3301-08-29'
 source: GitHub
-entities:
-- Monroe
+persons:
 - Susan Monroe
-- Susan Monroe Part
+- Elaine Boyd
+- Nigel Smeaton
 groups:
 - Federal Security Service
 - Federal Times
+locations:
+- Sol
+- Mars
 topics:
+- crime
 - investigation
+- conspiracy
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
+summary: The Federal Times revealed that Agent Susan Monroe, whom Elaine Boyd was accused of murdering, was part of Vice President Nigel Smeaton's protection detail at the time of his death. This strengthens the likelihood that Monroe willingly provided Boyd with information. The Federal Security Service insists Monroe was an unwilling participant and claims evidence links her death to Boyd. The Federal Times chief editor called the FSS claims nonsense and vowed to continue investigating until the truth is revealed.
+player_impact: None
+modern_impact: Revelation that murdered agent Susan Monroe was on Vice President Smeaton's protection detail deepens the Federal conspiracy, suggesting her death may be connected to the Antares investigation.
 legacy_weight: 4
 significance: high
 ---

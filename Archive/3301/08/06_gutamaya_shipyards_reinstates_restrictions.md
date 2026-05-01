@@ -7,10 +7,16 @@ source: GitHub
 groups:
 - Gutamaya Shipyards
 - Imperial Navy
+locations:
+- Capitol
+technologies:
+- Imperial Clipper
+- Imperial Courier
 topics:
 - ship
-- succession
-modern_impact: Ship review and release information for the pilot community.
+summary: Gutamaya Shipyards has reinstated default rank-related restrictions on the Imperial Clipper and Imperial Courier following the Emperor's assassination. Last month, the restrictions were temporarily lifted allowing any pilot with active Imperial Navy rank to purchase the vessels. The offer has now been withdrawn.
+player_impact: Pilots seeking to purchase the Imperial Clipper or Imperial Courier must now meet the standard rank requirements in the Imperial Navy. The temporary unrestricted access period has ended.
+modern_impact: Ship availability change affecting Imperial Navy pilots following the Emperor's death.
 legacy_weight: 1
 significance: low
 ---

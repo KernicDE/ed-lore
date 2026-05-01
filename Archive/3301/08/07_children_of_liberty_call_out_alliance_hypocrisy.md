@@ -4,13 +4,18 @@ title: Children of Liberty call out Alliance Hypocrisy
 slug: children_of_liberty_call_out_alliance_hypocrisy
 date: '3301-08-07'
 source: GitHub
-entities:
-- Virgil Kyle Children
+persons:
+- Virgil Kyle
 groups:
 - Alliance
+- Children of Liberty
+locations:
+- Alioth
 topics:
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- politics
+summary: The group 'Children of Liberty' publicly criticized the Alliance for what it called 'rampant hypocrisy,' claiming a huge gap exists between the Alliance's professed ideals of liberty and the reality in many member systems. The group accused the Alliance of tolerating despotism and tyranny within its borders and called on Alliance supporters to back democratic factions over autocratic ones in affected systems.
+player_impact: Pilots operating in Alliance space may encounter political tensions between democratic and autocratic factions. Supporting democratic-aligned factions aligns with the Children of Liberty's stated goals.
+modern_impact: Political critique of Alliance governance highlighting tensions between ideals and practice in member systems.
 legacy_weight: 1
 significance: low
 ---

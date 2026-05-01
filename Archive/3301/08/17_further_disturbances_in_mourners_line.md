@@ -4,17 +4,22 @@ title: Further Disturbances in Mourners' Line
 slug: further_disturbances_in_mourners_line
 date: '3301-08-17'
 source: GitHub
+persons:
+- Denton Patreus
+- Brendan Paul Darius
+- Hengist Duval
 groups:
 - Imperial Guard
 - Imperial Naval Infantry
 locations:
-- Denton
+- Capitol
+- Hall of Martyrs
 topics:
-- festival
 - succession
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
-legacy_weight: 1
+summary: Imperial Naval Infantry intervened as protesters opposed to Senator Patreus’s connection to assassin Brendan Paul Darius attempted to prevent access by Patreus’s allies at the Hall of Martyrs. Agitators resisted peaceful resolution and a riot squad was deployed. Smaller disturbances flared throughout the night, forcing mourners to flee. Calm was eventually restored and an Imperial Guard company was stationed to secure the Hall entrance, with a full regiment of Naval Infantry moved into the city.
+player_impact: Pilots visiting Capitol should expect heightened security and potential unrest around the Hall of Martyrs during the mourning period.
+modern_impact: Rising tensions in the mourners’ line reflect public anger over Patreus’s connection to the Emperor’s assassin.
+legacy_weight: 2
 significance: low
 ---
 

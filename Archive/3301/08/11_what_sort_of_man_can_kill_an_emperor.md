@@ -4,19 +4,21 @@ title: What Sort of Man Can Kill an Emperor
 slug: what_sort_of_man_can_kill_an_emperor
 date: '3301-08-11'
 source: GitHub
-entities:
-- Patreus known
+persons:
+- Brendan Paul Darius
+- Denton Patreus
+- Hengist Duval
 groups:
 - Imperial Herald
 locations:
 - Eotienses
 topics:
-- construction
-- ship
 - succession
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: The Imperial Herald profiled Brendan Paul Darius, the man allegedly responsible for Emperor Hengist Duval’s assassination. Darius grew up in Eotienses, where his parents were a wealthy client family under Senator Patreus. After education in history and ethics, he served as an officer on one of Patreus’s Majestic-class Interdictors, rising to captain. After two decades of military service he joined Patreus’s liaison team and became a patron. The article describes a man dedicated to service and traditional values, leaving the question of why he killed his Emperor unanswered.
+player_impact: None
+modern_impact: Profile of the Emperor’s assassin revealing his background and connection to Senator Patreus.
+legacy_weight: 3
+significance: medium
 ---
 
 What Sort of Man Can Kill an Emperor?

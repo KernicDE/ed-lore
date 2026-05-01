@@ -23,8 +23,8 @@ Total mentions: **107**
 
 ## Related
 
-- [[Sol]] (22 co-mentions)
-- [[Mars]] (15 co-mentions)
+- [[Sol]] (26 co-mentions)
+- [[Mars]] (17 co-mentions)
 - [[Federal Intelligence Agency]] (13 co-mentions)
 - [[Federal Security Service]] (11 co-mentions)
 - [[Alliance]] (11 co-mentions)

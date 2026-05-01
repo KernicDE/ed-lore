@@ -4,21 +4,23 @@ title: Federation Continues Debate on War
 slug: federation_continues_debate_on_war
 date: '3301-08-19'
 source: GitHub
-entities:
+persons:
 - Zonr
+- Archon Delaine
 groups:
 - Interstellar Press
 - Kumo Crew
 locations:
-- Federation
 - Mars
+- Pegasi Sector
 topics:
 - diplomacy
 - piracy
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Dissent is growing in Federation Congress over the Pegasi sector. Congressman McRand argued the Federation looks feckless tolerating lawlessness in its sphere, while Congresswoman Faye warned against joining the same war as the Empire, saying she trusts Empire pilots little more than Archon Delaine. Over 140 Federation systems and 89 billion citizens are under Kumo Crew control. The debate over a more active stance continues.
+player_impact: Federation pilots should monitor Congressional decisions regarding the Pegasi Pirate War. A more active Federal stance could create new combat and diplomatic opportunities.
+modern_impact: Federal political debate over whether to intervene in the Pegasi Pirate War against Archon Delaine.
 legacy_weight: 3
 significance: medium
 ---

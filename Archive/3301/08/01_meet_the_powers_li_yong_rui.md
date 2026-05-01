@@ -4,19 +4,21 @@ title: Meet the Powers – Li Yong Rui
 slug: meet_the_powers_li_yong_rui
 date: '3301-08-01'
 source: GitHub
-entities:
+persons:
 - Li Yong-Rui
+- Marcus Macmillan
+- Sima Kalhana
 groups:
-- Sirius Corp
 - Sirius Corporation
 - Sirius Gov
 locations:
 - Sirius
 topics:
 - corporate expansion
-- sport
 - trade
-modern_impact: Trade initiative affecting commodity markets and local economies.
+summary: Political commentator Marcus Macmillan profiles Sirius Gov CEO Li Yong-Rui. The Li dynasty's involvement with the Sirius Corporation traces back nearly 800 years. Li Yong-Rui earned doctorates in physics, politics, and economics by age 25, joined Sirius straight from college, and became Vice President of Forecasting at 35. He now leads Sirius Corporation's Sirius Gov division, demonstrating proven business acumen and insight into effective governance.
+player_impact: None
+modern_impact: Profile of a major power leader shaping corporate governance and trade in the galaxy.
 legacy_weight: 1
 significance: low
 ---

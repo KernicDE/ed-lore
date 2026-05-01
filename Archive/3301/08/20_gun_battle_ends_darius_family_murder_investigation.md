@@ -4,15 +4,20 @@ title: Gun Battle Ends Darius Family Murder Investigation
 slug: gun_battle_ends_darius_family_murder_investigation
 date: '3301-08-20'
 source: GitHub
+persons:
+- Brendan Paul Darius
+- Hengist Duval
+- Inspector Reeve
+groups:
+- Imperial Intelligence Service
 locations:
 - Eotienses
 topics:
-- construction
+- crime
 - investigation
-- scandal
-- succession
-- war
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+summary: The hunt for the Darius family killers ended in a firefight with local security forces on Eotienses. All suspects, believed to be local vigilantes seeking revenge for Brendan Paul Darius's assassination of Emperor Hengist Duval, were killed. Inspector Reeve stated the suspects were heavily armed and opened fire as officers entered the building. He refused to answer why the family was not in protective custody or how guards were subdued without fatalities. A witness claimed no attempt was made to arrest the suspects, which Reeve denied.
+player_impact: None
+modern_impact: Violent end to the Darius family murder investigation raises questions about vigilante justice and security failures.
 legacy_weight: 2
 significance: low
 ---

@@ -4,17 +4,22 @@ title: Where's Walden Now
 slug: wheres_walden_now
 date: '3301-08-10'
 source: GitHub
+persons:
+- Hans Walden
+groups:
+- Lave Fortune Organization
+- Lave Defence Party
+- Workers of Lave
 locations:
 - Lave
+- Lave II
 topics:
-- festival
-- genetic experiments
-- piracy
+- history
 - research
-- sport
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
-legacy_weight: 1
+summary: Thirty-six years after the last Walden Day on Lave, the planet has moved on from its dictatorial past. Capitalist competition now exists between the LFO, Defence Party, and Workers of Lave. But questions remain about Doctor Hans Walden’s fate. Though executed live on vidscreen, evidence including clone research, journals, and patents sold to Imperial contractors suggests he experimented with duplicating his own genetics. No hidden labs have been found since 3265, and rumours of a secret colony on Lave II remain unconfirmed. The article asks: was that execution the only Walden?
+player_impact: Pilots visiting Lave can witness a system transformed from dictatorship to competitive capitalism, with lingering mysteries about its former ruler.
+modern_impact: Explores the lingering mystery of Lave’s former dictator Hans Walden and rumours of clone survival.
+legacy_weight: 2
 significance: low
 ---
 

@@ -4,17 +4,22 @@ title: Civil Aid Crisis as Millions of Mourners Fill Capitol
 slug: civil_aid_crisis_as_millions_of_mourners_fill_capitol
 date: '3301-08-26'
 source: GitHub
+persons:
+- Hengist Duval
 groups:
 - Imperial Navy
 locations:
 - Capitol
+- Achenar
 topics:
 - humanitarian
-- medicine
 - succession
-modern_impact: Humanitarian effort by the pilot community to assist those in need.
-legacy_weight: 1
-significance: low
+- funeral
+summary: Capitol faces a civil aid crisis as millions of mourners fill the streets awaiting their chance to view Emperor Hengist Duval's body before the funeral. The planetary population has reached an all-time high, straining emergency services beyond capacity. Strategic reserves of food, medical supplies, and shelters are being deployed. Extra troops have been drafted for security and aid distribution. Imperial Navy personnel are providing medical and rescue services. Many mourners are refusing to leave after paying respects, wanting to witness the funeral.
+player_impact: None
+modern_impact: Massive influx of mourners to Capitol demonstrates the profound impact of Emperor Hengist Duval's death on the Imperial populace.
+legacy_weight: 2
+significance: medium
 ---
 
 Civil Aid Crisis as Millions of Mourners Fill Capitol

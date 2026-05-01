@@ -2,7 +2,7 @@
 uuid: 593b3802-9ce4-5705-a1a4-9470120e3676
 title: The Truth about Emperor’s Dawn
 slug: the_truth_about_emperors_dawn
-date: 3301-09-10
+date: '3301-09-10'
 source: GitHub
 groups:
 - Imperial Herald

@@ -4,14 +4,20 @@ title: Commodities needed in the Kamcha, Dinkas and Jang Di Systems
 slug: commodities_needed_in_the_kamcha_dinkas_and_jang_di_systems
 date: '3301-08-20'
 source: GitHub
+groups:
+- Emperor's Dawn
 locations:
 - Kamcha
+- Saarinen Station
+- Jang Di
+- Sikorsky Orbital
+- Dinkas
+- Blaauw Port
 topics:
-- construction
-- succession
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets and local economies.
+summary: The mysterious organisation Emperor's Dawn has issued open contracts for commodities to be delivered to specific starports. Battle Weapons go to Saarinen Station in Kamcha, Ceremonial Heike Tea to Sikorsky Orbital in Jang Di, and Toxic Waste to Blaauw Port in Dinkas. Based in the Kamcha system, Emperor's Dawn appears to have considerable resources and is offering lucrative payments to participating traders.
+player_impact: Traders can deliver Battle Weapons to Kamcha, Ceremonial Heike Tea to Jang Di, and Toxic Waste to Dinkas for Emperor's Dawn contracts. The organisation is paying well for these commodities.
+modern_impact: Mysterious organisation Emperor's Dawn begins making itself known through commodity contracts across multiple systems.
 legacy_weight: 2
 significance: low
 ---

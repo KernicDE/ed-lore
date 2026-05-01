@@ -1,28 +1,40 @@
 ---
 uuid: c267b84b-57a2-5a63-8d0d-e2363834a969
-title: Athena System Hosts ‘XYZ Fight Club’
+title: Athena System Hosts XYZ Fight Club
 slug: athena_system_hosts_xyz_fight_club
 date: '3301-08-26'
 source: GitHub
-entities:
-- Angel Rose marred
+persons:
 - Edgar Starwalker
-- Louise
+- Angel Rose
+- Synaptic
+- Louise of Darkwater
+- Bodmans
+- Old Sauveur
 - Rainy Day
-- Synaptic made notable use
+- DJTruthsayer
+- Estelath
+- Ace Rimzy
+- Jankster
+- Danten
+- Rhea
+- Lynk1973
 groups:
-- Interstellar Press
 - XYZ Fight Club
+- Interstellar Press
+- Lomas Racing News
 locations:
 - Athena
+- Darboux Orbital
+- Slough Orbital
 - Sol
 topics:
-- crime
-- safety
-- ship
 - sport
-- war
-modern_impact: Ship review and release information for the pilot community.
+- combat
+- ship
+summary: The XYZ Fight Club gladiatorial tournament took place in the Athena system. Despite a criminal attack on participant Commander Angel Rose forcing evacuation of Darboux Orbital, contingency arenas allowed the event to continue. Light-class rounds featured fast-paced jousting with Bodmans and Rainy Day advancing. Medium-class combat involved Couriers, Vipers, and Diamondback Scouts. Bodmans and Old Sauveur reached both finals, with Old Sauveur winning light-class in Eagles and Bodmans taking medium-class in Couriers after a protracted defensive battle.
+player_impact: Combat-oriented pilots can participate in or spectate player-organised fight club tournaments. Various ship classes from Eagles to Diamondback Scouts are used in competitive combat events.
+modern_impact: Player-organised combat tournament demonstrating the growing community events in the galaxy.
 legacy_weight: 1
 significance: low
 ---

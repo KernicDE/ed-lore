@@ -4,16 +4,22 @@ title: Famous Reporter Commits Suicide
 slug: famous_reporter_commits_suicide
 date: '3301-08-25'
 source: GitHub
-entities:
-- Commits Suicide
+persons:
+- Elaine Boyd
+- Susan Monroe
 groups:
 - Federal Security Service
 - Federal Times
+locations:
+- Wyrd
 topics:
+- crime
 - investigation
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: Federal Times reporter Elaine Boyd was found dead in a low-rent hotel in Wyrd after an anonymous tip-off. Boyd had been accused of murdering her partner, Agent Susan Monroe of the Presidential Protection Detail. The FSS is assisting local police in investigating her death. An off-the-record source revealed a suicide note allegedly stating she could no longer live with the guilt. The Federal Times has refused to comment.
+player_impact: None
+modern_impact: Apparent suicide of a Federal Times reporter accused of murdering a Presidential Protection agent deepens the Federal scandal.
+legacy_weight: 3
+significance: medium
 ---
 
 Famous Reporter Commits Suicide

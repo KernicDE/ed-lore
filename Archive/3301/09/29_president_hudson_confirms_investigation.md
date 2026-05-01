@@ -2,7 +2,7 @@
 uuid: 5677c891-a942-5f45-a9a9-078762eb519e
 title: President Hudson Confirms Investigation
 slug: president_hudson_confirms_investigation
-date: 3301-09-29
+date: '3301-09-29'
 source: GitHub
 persons:
 - Zachary Hudson

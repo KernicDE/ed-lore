@@ -2,7 +2,7 @@
 uuid: 67996190-eb1c-5c3a-b4a7-9db62d284e6f
 title: Senator Arissa Lavigny Duval Calls Impromptu Press Conference
 slug: senator_arissa_lavigny_duval_calls_impromptu_press_conference
-date: 3301-09-15
+date: '3301-09-15'
 source: GitHub
 persons:
 - Arissa Lavigny-Duval
@@ -11,13 +11,10 @@ groups:
 locations: []
 technologies: []
 topics:
-- construction
-- diplomacy
 - succession
-- war
 summary: Senator Arissa Lavigny-Duval called an impromptu press conference after Senate deliberations, stating the Empire needs stability and continuity. She shared that Emperor Hengist Duval had shared a vision with her during his recovery. When asked if she considered herself the heir, she deferred to the Senate's decision while committing to work toward the Emperor's vision regardless of the outcome.
 player_impact: None
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+modern_impact: Key moment in the Imperial succession crisis as candidates position themselves for the throne.
 legacy_weight: 2
 significance: low
 ---

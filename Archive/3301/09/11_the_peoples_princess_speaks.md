@@ -2,7 +2,7 @@
 uuid: d1ba606a-a92d-5487-bee8-5a38e8fd3580
 title: The People’s Princess Speaks
 slug: the_peoples_princess_speaks
-date: 3301-09-11
+date: '3301-09-11'
 source: GitHub
 persons:
 - Aisling Duval

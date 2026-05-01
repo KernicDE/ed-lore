@@ -2,7 +2,7 @@
 uuid: bcb562fa-eb2b-5f2c-b686-b882a405b132
 title: Hutton Mug Appeal Successful
 slug: hutton_mug_appeal_successful
-date: 3301-09-18
+date: '3301-09-18'
 source: GitHub
 persons:
 - Chase Fulbright

@@ -4,22 +4,25 @@ title: Torval Offers Support to Patreus
 slug: torval_offers_support_to_patreus
 date: '3301-08-13'
 source: GitHub
-entities:
-- Patreus about his connection
+persons:
 - Zemina Torval
+- Denton Patreus
+- Hengist Duval
+- Brendan Paul Darius
 groups:
 - Imperial Naval Infantry
 - Mastopolos Mining
 locations:
 - Capitol
-- Denton
+- Hall of Martyrs
 topics:
-- independence
 - scandal
 - succession
-modern_impact: Independence movement challenging established political authority.
-legacy_weight: 2
-significance: low
+summary: Senator Patreus and his followers endured abuse on Capitol over his connection to assassin Brendan Paul Darius. Violence escalated when a mob tried to prevent Patreus entering the Hall of Martyrs; Imperial Naval Infantry separated the parties. Senator Zemina Torval condemned the behaviour at a Mastopolos Mining event, calling it near-barbarism and saying such rebels should be cast out of the Empire. She defended Patreus, stating his loyalty to the Emperor is unquestioned and anyone suggesting otherwise is a fool.
+player_impact: None
+modern_impact: Senator Torval publicly defends Patreus against accusations of involvement in the Emperor’s assassination.
+legacy_weight: 3
+significance: medium
 ---
 
 Torval Offers Support to Patreus

@@ -4,13 +4,22 @@ title: Children of Liberty Offer Prescription for Empire's Future
 slug: children_of_liberty_offer_prescription_for_empires_future
 date: '3301-08-20'
 source: GitHub
-entities:
-- Virgil Kyle Children
+persons:
+- Virgil Kyle
+- Hengist Duval
+- Marlin Duval
+- Aisling Duval
+groups:
+- Children of Liberty
+locations:
+- Capitol
 topics:
-- sport
+- politics
 - succession
-modern_impact: Competitive event for the pilot community.
-legacy_weight: 1
+summary: The Children of Liberty issued a statement arguing the Empire is at a crossroads not just over succession but over whether the next leader will be answerable to the people. They claim Marlin Duval’s vision of representative democracy has been twisted by her brother’s progeny. While lamenting that no current claimant seems qualified to restore liberty, they noted Aisling Duval embraces the most democratic methods of all candidates and suggested she could win freedom-lovers’ support by returning the Empire to its democratic roots.
+player_impact: None
+modern_impact: Political pressure group advocates for democratic reform in the Empire during the succession crisis.
+legacy_weight: 2
 significance: low
 ---
 

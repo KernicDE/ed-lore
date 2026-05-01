@@ -2,9 +2,9 @@
 id: beta-hydri
 name: Beta Hydri
 type: location
-first_seen_date: '3302-07-22'
+first_seen_date: '3301-08-10'
 last_seen_date: '3308-05-19'
-mention_count: 9
+mention_count: 10
 related_entities:
 - homeland
 - federal-times
@@ -17,9 +17,9 @@ related_entities:
 
 # Beta Hydri
 
-First mentioned: **3302-07-22**  
+First mentioned: **3301-08-10**  
 Last mentioned: **3308-05-19**  
-Total mentions: **9**
+Total mentions: **10**
 
 ## Related
 

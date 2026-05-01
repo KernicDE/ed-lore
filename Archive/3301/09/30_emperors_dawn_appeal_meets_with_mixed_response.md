@@ -2,7 +2,7 @@
 uuid: 66b52278-c781-51c6-9fa2-3df210c10f61
 title: Emperor's Dawn Appeal Meets with Mixed Response
 slug: emperors_dawn_appeal_meets_with_mixed_response
-date: 3301-09-30
+date: '3301-09-30'
 source: GitHub
 groups:
 - Emperor's Dawn

@@ -2,7 +2,7 @@
 uuid: 5315a6f6-6131-599c-9440-56da84f9b974
 title: Did Aisling Duval Know About Emperor’s Dawn
 slug: did_aisling_duval_know_about_emperors_dawn
-date: 3301-09-18
+date: '3301-09-18'
 source: GitHub
 persons:
 - Aisling Duval
@@ -13,12 +13,11 @@ groups:
 locations: []
 technologies: []
 topics:
-- ship
-- succession
+- scandal
 - terrorism
 summary: The Imperial Herald published an exposé alleging links between Princess Aisling Duval's inner council and Emperor's Dawn funding sources. While no direct connection to Aisling was alleged, patron and industrialist Damon Clarke's company, D and C Shipping, apparently funded weapon shipments to known Emperor's Dawn members three years ago. Clarke was unavailable for comment, with his company defending its legitimate shipping operations.
 player_impact: The scandal has caused a dramatic fall in Aisling Duval's popularity polls. Pilots should monitor the situation as the Imperial Senate investigation unfolds and Clarke remains at large.
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Major scandal in the Imperial succession crisis linking Aisling Duval's circle to Emperor's Dawn funding.
 legacy_weight: 2
 significance: low
 ---

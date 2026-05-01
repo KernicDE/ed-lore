@@ -4,18 +4,22 @@ title: Official Period of Mourning Begins
 slug: official_period_of_mourning_begins
 date: '3301-08-06'
 source: GitHub
-entities:
-- Anders Blaine held
+persons:
+- Anders Blaine
+groups:
+- Imperial Guard
+- Imperial Intelligence Security Service
 locations:
+- Capitol
 - Imperial Palace
+- Hall of Martyrs
 topics:
-- diplomacy
-- investigation
 - succession
-- war
-modern_impact: Diplomatic development with implications for inter-superpower relations.
-legacy_weight: 2
-significance: low
+summary: Chancellor Anders Blaine declared the beginning of the four-week official mourning period for Emperor Hengist Duval. The Emperor's body was placed in the Hall of Martyrs for public viewing. Blaine refused to answer questions about the assassination investigation, stating succession would be handled after the funeral. Dignitaries wore black sashes of mourning, which by tradition will be burned during internment. The Hall of Martyrs, constructed over 600 years ago beneath the Imperial Palace, contains 16,032 obsidian pillars and is open only during mourning periods.
+player_impact: Pilots visiting Capitol during the mourning period should expect large crowds, security measures, and restricted access around the Imperial Palace and Hall of Martyrs.
+modern_impact: Official commencement of the Imperial mourning period following Emperor Hengist Duval's assassination.
+legacy_weight: 3
+significance: medium
 ---
 
 Official Period of Mourning Begins

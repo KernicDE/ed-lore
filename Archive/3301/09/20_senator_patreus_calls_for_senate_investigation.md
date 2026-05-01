@@ -2,7 +2,7 @@
 uuid: 4a80c69b-1bec-56f2-9d2b-dc4064b6e69d
 title: Senator Patreus Calls for Senate Investigation
 slug: senator_patreus_calls_for_senate_investigation
-date: 3301-09-20
+date: '3301-09-20'
 source: GitHub
 persons:
 - Denton Patreus

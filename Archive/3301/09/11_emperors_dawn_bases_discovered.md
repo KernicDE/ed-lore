@@ -2,7 +2,7 @@
 uuid: 21f00823-6b7b-5a13-a90a-8b2d02c766fb
 title: Emperor’s Dawn Bases Discovered
 slug: emperors_dawn_bases_discovered
-date: 3301-09-11
+date: '3301-09-11'
 source: GitHub
 persons:
 - Denton Patreus

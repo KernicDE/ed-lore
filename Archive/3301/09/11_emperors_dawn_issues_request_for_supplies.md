@@ -2,7 +2,7 @@
 uuid: c29c0055-acb8-5a02-bef8-e8af2b2653c6
 title: Emperor’s Dawn Issues Request for Supplies
 slug: emperors_dawn_issues_request_for_supplies
-date: 3301-09-11
+date: '3301-09-11'
 source: GitHub
 persons:
 - Denton Patreus

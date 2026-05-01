@@ -23,7 +23,7 @@ Total mentions: **36**
 
 ## Related
 
-- [[Mars]] (12 co-mentions)
+- [[Mars]] (14 co-mentions)
 - [[Federal Times]] (11 co-mentions)
 - [[Mars Tribune]] (9 co-mentions)
 - [[Alliance]] (9 co-mentions)

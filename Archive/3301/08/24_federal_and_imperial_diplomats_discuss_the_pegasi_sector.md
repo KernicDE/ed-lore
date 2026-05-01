@@ -4,20 +4,23 @@ title: Federal and Imperial Diplomats Discuss the Pegasi Sector
 slug: federal_and_imperial_diplomats_discuss_the_pegasi_sector
 date: '3301-08-24'
 source: GitHub
-entities:
-- Corrigendum
+persons:
 - Nyluss
+- Corrigendum
+- Archon Delaine
 groups:
 - Kumo Crew
+- Lavigny's Legion
+- Merchant Marines
 locations:
 - Pegasi Sector
 topics:
 - diplomacy
-- humanitarian
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Federation and Imperial commanders met to discuss cooperation against the Kumo Crew in the Pegasi sector. Commander Nyluss of the Merchant Marines called on Federation pilots to oppose the encroachment on their worlds. Commander Corrigendum of Lavigny's Legion welcomed cooperation but asked Federal and Imperial commanders to give each other a wide berth while working toward bringing Archon Delaine to justice. The meeting represents rare superpower cooperation driven by the humanitarian crisis.
+player_impact: Federation and Imperial pilots operating in the Pegasi sector are encouraged to cooperate against the Kumo Crew while avoiding conflicts with each other.
+modern_impact: Rare Federal-Imperial cooperation emerges in response to the Kumo Crew threat in the Pegasi sector.
 legacy_weight: 3
 significance: medium
 ---

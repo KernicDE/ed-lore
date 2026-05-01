@@ -5,13 +5,24 @@ slug: fight_against_cerberus_plague_gains_ground
 date: '3301-08-06'
 source: GitHub
 locations:
+- Dajoar
+- Bastes
+- Maheou Ti
+- Eleu
+- Ochoeng
+- 20 Ophiuchi
+- Una
+- Santjalan
 - BD-02 4304
-- Bast
+- Chongguls
+- Xamentii
+- G 139-50
 topics:
 - medicine
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague
-  that killed over 100,000.
+summary: The fight against the Cerberus Plague is gaining ground as medical teams deliver antidotes to affected systems. The plague has been eradicated from Dajoar, Bastes, Maheou Ti, Eleu, Ochoeng, 20 Ophiuchi, Una, Santjalan, BD-02 4304, Chongguls, Xamentii, and G 139-50. Efforts continue to help those still suffering from the disease.
+player_impact: Pilots delivering Ceremonial Heike Tea and medical supplies have contributed to eradicating the plague in multiple systems. Continue supporting relief efforts to eliminate the disease entirely.
+modern_impact: Marks a significant phase in the fight against a devastating plague that killed over 100,000.
 legacy_weight: 4
 significance: high
 ---

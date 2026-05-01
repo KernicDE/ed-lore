@@ -4,7 +4,7 @@ name: Pilots Federation
 type: faction
 first_seen_date: '3301-03-27'
 last_seen_date: '3312-02-10'
-mention_count: 135
+mention_count: 136
 related_entities:
 - aegis
 - alliance
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-03-27**  
 Last mentioned: **3312-02-10**  
-Total mentions: **135**
+Total mentions: **136**
 
 ## Related
 

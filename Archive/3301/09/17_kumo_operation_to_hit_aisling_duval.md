@@ -2,7 +2,7 @@
 uuid: d61bb826-4377-52de-ae4a-3ddce1c975e9
 title: Kumo Operation to Hit Aisling Duval
 slug: kumo_operation_to_hit_aisling_duval
-date: 3301-09-17
+date: '3301-09-17'
 source: GitHub
 persons:
 - Archon Delaine

@@ -2,7 +2,7 @@
 uuid: 012c1d4a-4b45-52ab-aefb-91b6915d063d
 title: Aisling Duval Issues Statement
 slug: aisling_duval_issues_statement
-date: 3301-09-19
+date: '3301-09-19'
 source: GitHub
 persons:
 - Aisling Duval

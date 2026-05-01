@@ -4,13 +4,23 @@ title: Portrait of a Bounty Hunter
 slug: portrait_of_a_bounty_hunter
 date: '3301-08-10'
 source: GitHub
+persons:
+- Ziva Eschel
+- Maugvahnna Rose
+groups:
+- Federal State Police
+- Judas Syndicate
 locations:
-- Jackson
-- Viper pilot in the Beta Hydri
+- Beta Hydri
+- Jackson’s Lighthouse
+technologies:
+- Sidewinder
+- Fer-de-lance
 topics:
-- exploration
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- crime
+summary: This article profiles bounty hunter Ziva Eschel, who began her career in the Federal State Police as a Viper pilot in Beta Hydri. After she and her partner were imprisoned by the Judas Syndicate on the Black Mausoleum, her partner was executed and the killers escaped justice. Eschel quit the force, acquired a Sidewinder, and built a reputation as a cautious, dangerous, and law-abiding bounty hunter. She eventually upgraded to the Dragon Queen, a highly customised Fer-de-lance. She and the Dragon Queen were last seen heading for Jackson’s Lighthouse, possibly pursuing the notorious Red Hourglass.
+player_impact: None
+modern_impact: Profile of a legendary bounty hunter illustrating the dangerous profession operating on the margins of galactic society.
 legacy_weight: 1
 significance: low
 ---

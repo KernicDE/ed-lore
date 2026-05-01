@@ -2,24 +2,28 @@
 id: children-of-liberty
 name: Children of Liberty
 type: faction
-first_seen_date: '3302-08-04'
+first_seen_date: '3301-08-07'
 last_seen_date: '3302-08-04'
-mention_count: 1
+mention_count: 3
 related_entities:
 - alliance
+- alioth
+- capitol
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Children of Liberty
 
-First mentioned: **3302-08-04**  
+First mentioned: **3301-08-07**  
 Last mentioned: **3302-08-04**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
+- [[Alliance]] (2 co-mentions)
+- [[Alioth]] (1 co-mentions)
+- [[Capitol]] (1 co-mentions)
 
 ## Biography
 

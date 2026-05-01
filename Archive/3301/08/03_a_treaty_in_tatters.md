@@ -4,10 +4,19 @@ title: A Treaty in Tatters
 slug: a_treaty_in_tatters
 date: '3301-08-03'
 source: GitHub
-entities:
-- Andariel A Treaty
+persons:
+- Andariel
+groups:
+- Aisling's 13th Legion
+- Winters' Wolves
+locations:
+- Chona
+- Smoot Station
 topics:
 - diplomacy
+- war
+summary: Legate Andariel of Aisling's 13th Legion officially ended the ceasefire with Winters' Wolves, citing reports of Winters' supporters undermining Aisling's control systems. The treaty, originally signed on July 17th 3301 to focus on the Imperial offensive against Archon Delaine, was dissolved in a press conference aboard Smoot Station in Chona. With Delaine's forces weakening, speculation arose that the 13th Legion used false-flag tactics to resume hostilities with Winters.
+player_impact: None
 modern_impact: Diplomatic development with implications for inter-superpower relations.
 legacy_weight: 2
 significance: low

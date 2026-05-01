@@ -4,16 +4,20 @@ title: Claims of Federal Involvement
 slug: claims_of_federal_involvement
 date: '3301-08-21'
 source: GitHub
-entities:
+persons:
 - Hengist Duval
+- Ricardo Bentonio
+groups:
+- Federal Navy
 locations:
 - Capitol
 topics:
-- piracy
+- conspiracy
 - succession
-- war
-modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
-legacy_weight: 2
+summary: Some paranoid Imperial citizens suspect the Federation was behind Emperor Hengist Duval's assassination. No authority takes these claims seriously, but unanswered questions fuel unrest among mourners on Capitol. Most consider the idea of the Federation risking all-out war far-fetched. Conspiracy theorist Ricardo Bentonio claims the Emperor is not dead but his human host was transformed, and the being known as Hengist Duval returned to the Andromeda galaxy.
+player_impact: None
+modern_impact: Conspiracy theories about Federal involvement and alien transformation circulate following the Emperor's assassination.
+legacy_weight: 1
 significance: low
 ---
 

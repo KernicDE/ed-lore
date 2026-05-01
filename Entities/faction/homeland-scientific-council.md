@@ -8,7 +8,6 @@ mention_count: 2
 related_entities:
 - hip-102128
 - tanmark
-- fort-harrison
 - christian-dock
 - nganji
 ---
@@ -25,7 +24,6 @@ Total mentions: **2**
 
 - [[HIP 102128]] (1 co-mentions)
 - [[Tanmark]] (1 co-mentions)
-- [[Fort Harrison]] (1 co-mentions)
 - [[Christian Dock]] (1 co-mentions)
 - [[Nganji]] (1 co-mentions)
 

@@ -4,7 +4,7 @@ name: Eotienses
 type: location
 first_seen_date: '3301-02-17'
 last_seen_date: '3307-03-25'
-mention_count: 27
+mention_count: 29
 related_entities:
 - alioth
 - nmla
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-02-17**  
 Last mentioned: **3307-03-25**  
-Total mentions: **27**
+Total mentions: **29**
 
 ## Related
 

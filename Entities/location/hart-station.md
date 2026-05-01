@@ -7,10 +7,10 @@ last_seen_date: '3302-08-11'
 mention_count: 7
 related_entities:
 - bast
+- union-of-bast-liberals
 - bd-02-4304
+- heike
 - cantor-terminal-in-the-santjalan
-- hoard-orbital-in-the-una
-- hospitals-and-care-facilities-in-these
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **7**
 ## Related
 
 - [[Bast]] (7 co-mentions)
+- [[Union of Bast Liberals]] (3 co-mentions)
 - [[BD-02 4304]] (2 co-mentions)
+- [[Heike]] (2 co-mentions)
 - [[Cantor Terminal in the Santjalan]] (1 co-mentions)
-- [[Hoard Orbital in the Una]] (1 co-mentions)
-- [[Hospitals and care facilities in these]] (1 co-mentions)
 
 ## Biography
 

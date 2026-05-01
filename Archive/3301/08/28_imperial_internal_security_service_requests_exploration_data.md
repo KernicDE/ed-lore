@@ -4,21 +4,27 @@ title: Imperial Internal Security Service Requests Exploration Data
 slug: imperial_internal_security_service_requests_exploration_data
 date: '3301-08-28'
 source: GitHub
-entities:
+persons:
 - Cope
+- Hengist Duval
 groups:
-- IISS
 - Imperial Internal Security Service
+- IISS
+- Emperor's Dawn
+- Cemiess Empire Party
 locations:
 - Cemiess
 - Mackenzie Relay
+- Capitol
 topics:
 - exploration
-- research
-- succession
-modern_impact: Notable exploration achievement expanding the boundaries of known space.
-legacy_weight: 2
-significance: low
+- investigation
+- terrorism
+summary: The Imperial Internal Security Service issued an unprecedented open contract for exploration data, claiming it is for a comprehensive revision of their information networks. IISS Agent Cope denied rumours that the data is meant to locate Emperor's Dawn, but this was undermined by an Imperial Citizen article claiming to have intercepted an IISS communiqué explicitly recommending gathering astrological data to filter for Emperor's Dawn's movements and bases. The request is being managed by the Cemiess Empire Party, with pilots directed to deliver data to Mackenzie Relay.
+player_impact: Explorers can sell exploration data to Mackenzie Relay in Cemiess, ostensibly for IISS database updates but likely contributing to the hunt for Emperor's Dawn bases.
+modern_impact: IISS's unusual request for exploration data, combined with the intercepted communiqué, reveals an intelligence operation targeting Emperor's Dawn while maintaining public deniability.
+legacy_weight: 3
+significance: medium
 ---
 
 Imperial Internal Security Service Requests Exploration Data

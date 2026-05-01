@@ -2,30 +2,28 @@
 id: imperial-slave-association
 name: Imperial Slave Association
 type: faction
-first_seen_date: '3301-09-14'
+first_seen_date: '3301-08-21'
 last_seen_date: '3301-09-14'
-mention_count: 1
+mention_count: 2
 related_entities:
-- imperial-navy
 - imperial-senate
-- interstellar-press
 - capitol
+- imperial-navy
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Imperial Slave Association
 
-First mentioned: **3301-09-14**  
+First mentioned: **3301-08-21**  
 Last mentioned: **3301-09-14**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
+- [[Imperial Senate]] (2 co-mentions)
+- [[Capitol]] (2 co-mentions)
 - [[Imperial Navy]] (1 co-mentions)
-- [[Imperial Senate]] (1 co-mentions)
-- [[Interstellar Press]] (1 co-mentions)
-- [[Capitol]] (1 co-mentions)
 
 ## Biography
 

@@ -2,7 +2,7 @@
 uuid: 8886f6d6-5ff4-5c95-bae9-600ab18b99af
 title: Sothis Crystalline Gold
 slug: sothis_crystalline_gold
-date: 3301-09-25
+date: '3301-09-25'
 source: GitHub
 groups: []
 locations:

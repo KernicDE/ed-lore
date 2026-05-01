@@ -4,16 +4,24 @@ title: Chancellor Blaine Issues Statement
 slug: chancellor_blaine_issues_statement
 date: '3301-08-07'
 source: GitHub
-entities:
-- Blaine Issues Statement
+persons:
+- Anders Blaine
+- Brendan Paul Darius
+- Denton Patreus
 groups:
 - Imperial Guard
+- Imperial Intelligence Security Service
+locations:
+- Capitol
+- Imperial Palace
 topics:
 - investigation
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: Chancellor Anders Blaine accepted governance of the Empire until the succession is determined. He identified the assassin as Brendan Paul Darius, confirmed by Senator Patreus as a member of his entourage. Darius killed the Emperor with a concealed blade and was killed by the Emperor's Guard. A separate investigation was launched into how the weapon was smuggled in. Blaine stated Darius's motive remains unknown.
+player_impact: The assassination investigation continues. Pilots should expect heightened security and potential travel restrictions in Imperial systems, particularly Capitol.
+modern_impact: Key revelation in the investigation of Emperor Hengist Duval's assassination.
+legacy_weight: 4
+significance: high
 ---
 
 Chancellor Blaine Issues Statement

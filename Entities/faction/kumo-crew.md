@@ -23,7 +23,7 @@ Total mentions: **70**
 
 ## Related
 
-- [[Alliance]] (17 co-mentions)
+- [[Alliance]] (16 co-mentions)
 - [[California Nebula]] (10 co-mentions)
 - [[Harma]] (9 co-mentions)
 - [[Sirius Corporation]] (9 co-mentions)

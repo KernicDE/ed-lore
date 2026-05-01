@@ -4,18 +4,22 @@ title: Pirate POWs Pack Prisons
 slug: pirate_pows_pack_prisons
 date: '3301-08-17'
 source: GitHub
+persons:
+- Corrigendum
+groups:
+- Pilots Federation
 locations:
 - Pegasi Sector
 topics:
 - crime
 - piracy
-- ship
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
-legacy_weight: 3
-significance: medium
+summary: The Pegasi Pirate War has created a massive prisoner-of-war problem for the Empire. Thousands of Kumo Crew pirates have been extradited to Imperial space, straining logistics across hundreds of locations. Many await judgement by the Pilots Federation, others face Imperial courts. Sources indicate the Empire has begun searching for a suitable penal station capable of holding all prisoners.
+player_impact: None
+modern_impact: Logistical crisis from the Pegasi Pirate War highlighting the scale of Kumo Crew captures.
+legacy_weight: 2
+significance: low
 ---
 
 Pirate POWs Pack Prisons

@@ -4,27 +4,28 @@ title: Rescued from the Kumo Crew
 slug: rescued_from_the_kumo_crew
 date: '3301-08-13'
 source: GitHub
-entities:
-- Quade Rescued
+persons:
+- Aasha
+- Quade
 groups:
 - Kumo Crew
-- Sirius Corp
 - Sirius Corporation
 - Utopia
+- Imperial Slavers Associated
 locations:
 - Munshin
-- Sirius
+- Comanga
+- Pegasi Sector
+- Quivira
 topics:
-- corporate expansion
 - crime
 - humanitarian
 - piracy
-- safety
-- ship
 - slavery
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Imperial commanders participating in the United Offensive have rescued scores of marked slaves from Kumo Crew vessels in the Pegasi sector. Working with Sirius Corporation commanders, the rescued are relocated to safety. Former slave Aasha, a mechanical engineer originally under a Quivira contract with Silver Universal PLC, became the face of the rescue after being found in stasis among pirates. Imperial Slavers Associated stated rescued slaves’ contracts would be nullified. Unconfirmed rumours suggest Utopians are also assisting relocation efforts.
+player_impact: Combat pilots can participate in the United Offensive to rescue slaves from Kumo Crew vessels in the Pegasi sector. Rescued Imperial slaves have their contracts nullified and are relocated to safety.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---

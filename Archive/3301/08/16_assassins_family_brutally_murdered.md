@@ -1,18 +1,25 @@
 ---
 uuid: bef5e1fc-35e0-511b-81be-d0e22866b0e2
-title: Assassin’s Family Brutally Murdered
+title: Assassin's Family Brutally Murdered
 slug: assassins_family_brutally_murdered
 date: '3301-08-16'
 source: GitHub
-entities:
+persons:
+- Brendan Paul Darius
 - Hengist Duval
+- Inspector Reeve
+groups:
+- Imperial Intelligence Service
 locations:
 - Eotienses
 topics:
-- succession
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- crime
+- investigation
+summary: The immediate family of Brendan Paul Darius, including his mother, father, sister, and six-year-old niece, were found murdered at their home on Eotienses. Inspector Reeve described the deaths as the most horrific he had encountered. A light protection detail had been placed on the family after Darius was identified as the Emperor’s assassin. Reeve did not comment on how the killers subdued the guards without fatalities. He promised swift justice and appealed for information.
+player_impact: None
+modern_impact: Brutal murder of the assassin’s family raises questions about vigilante justice and the adequacy of protective custody.
+legacy_weight: 3
+significance: medium
 ---
 
 Assassin’s Family Brutally Murdered

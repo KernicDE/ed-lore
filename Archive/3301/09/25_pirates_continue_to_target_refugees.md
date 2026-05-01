@@ -2,7 +2,7 @@
 uuid: 9069aed4-699d-50b4-9ca4-27efbf4560d6
 title: Pirates Continue to Target Refugees
 slug: pirates_continue_to_target_refugees
-date: 3301-09-25
+date: '3301-09-25'
 source: GitHub
 groups:
 - Defence Force of Amitrite

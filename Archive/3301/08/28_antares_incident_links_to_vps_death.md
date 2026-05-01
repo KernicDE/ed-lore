@@ -1,21 +1,26 @@
 ---
 uuid: 757b224e-8344-5914-a83c-7b36144d25a6
-title: Antares Incident Links to VP’s Death
+title: Antares Incident Links to VP's Death
 slug: antares_incident_links_to_vps_death
 date: '3301-08-28'
 source: GitHub
-entities:
+persons:
+- Elaine Boyd
 - Nigel Smeaton
 groups:
 - Federal Times
+locations:
+- Sol
+- Luyten's Star
+- Alioth
 topics:
 - crime
-- cyberattack
 - investigation
-- safety
+- conspiracy
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
+summary: Encrypted data packages automatically sent by Elaine Boyd upon her death revealed a connection between Vice President Nigel Smeaton's death and the Antares Incident. Smeaton was related to a crew member aboard the Highliner Antares, which disappeared 50 years ago. Boyd discovered Smeaton was conducting a private off-the-books investigation into the incident, suspecting sabotage rather than drive component failure. He had spoken to senior officers involved in the original inquiry. Boyd's information implies Smeaton may have been killed to stop his investigation.
+player_impact: None
+modern_impact: Major revelation linking the Antares Incident to Vice President Smeaton's death, suggesting a far-reaching conspiracy spanning decades.
 legacy_weight: 4
 significance: high
 ---

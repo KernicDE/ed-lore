@@ -12,8 +12,6 @@ locations:
 technologies:
 - Federal Gunship
 - Federal Dropship
-- Farragut Battle Cruiser
-- Eagle Mk II
 topics:
 - ship
 summary: Core Dynamics unveiled the Federal Gunship, a combat vessel designed as a superior fighter escort for the Federal Navy. With seven external hardpoints (two small, four medium, one large) and advanced armor and shields, it outclasses the Federal Dropship in combat but sacrifices speed and maneuverability with a top speed of 170 and boost of 280. Available to Ensign-rank pilots and above for 45,814,000 CR.

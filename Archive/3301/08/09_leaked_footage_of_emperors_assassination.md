@@ -4,16 +4,23 @@ title: Leaked Footage of Emperor’s Assassination
 slug: leaked_footage_of_emperors_assassination
 date: '3301-08-09'
 source: GitHub
-entities:
-- Anders Blaine condemned
-- Patreus himself
+persons:
+- Hengist Duval
+- Brendan Paul Darius
+- Denton Patreus
+- Anders Blaine
+groups:
+- Russell Networks
 locations:
 - Tulill
 topics:
+- scandal
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: Independent newsfeed Russell Networks in the Tulill system broadcast claimed holographic footage of Emperor Hengist Duval’s assassination. Imperial networks refused to show it and society was outraged. The unverified recording shows someone resembling Brendan Paul Darius lunging from Senator Patreus’s entourage, stabbing the Emperor repeatedly until taken down by guards. Others in Patreus’s entourage, including Patreus himself, appeared genuinely shocked and attempted to stop the attacker. Chancellor Anders Blaine condemned the broadcast.
+player_impact: None
+modern_impact: Controversial broadcast of alleged assassination footage fuels debate about the Emperor’s murder and Patreus’s involvement.
+legacy_weight: 3
+significance: medium
 ---
 
 Leaked Footage of Emperor’s Assassination

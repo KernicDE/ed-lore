@@ -4,24 +4,24 @@ title: Emperor Hengist Duval Dead
 slug: emperor_hengist_duval_dead
 date: '3301-08-05'
 source: GitHub
-entities:
+persons:
+- Hengist Duval
 - Anders Blaine
-- Blaine refused
-- Hengist Duval Dead
-- Hengist Duval died en route
+- Denton Patreus
 groups:
 - Imperial Naval Infantry
 - Imperial Navy
 locations:
-- Denton
+- Capitol
 - Imperial Palace
 topics:
 - investigation
-- medicine
 - succession
-modern_impact: Medical crisis or health initiative affecting galactic populations.
-legacy_weight: 2
-significance: low
+summary: Emperor Hengist Duval died en route to the Imperial Navy Medical Facility near the Imperial Palace after being stabbed during his wedding ceremony. Chancellor Anders Blaine confirmed the Emperor was attacked by a member of the congregation. An Imperial Intelligence Service source identified the attacker as belonging to Senator Denton Patreus's party. Patreus was unavailable for comment. The Imperial Naval Infantry began ushering people home as the official mourning period began.
+player_impact: The Emperor's death triggers a succession crisis. Pilots should expect significant political turbulence across Imperial space and potential restrictions in the Capitol system.
+modern_impact: Confirms the death of Emperor Hengist Duval, triggering the Imperial succession crisis.
+legacy_weight: 5
+significance: high
 ---
 
 Emperor Hengist Duval Dead

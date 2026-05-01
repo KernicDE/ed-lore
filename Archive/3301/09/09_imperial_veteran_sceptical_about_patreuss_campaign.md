@@ -2,7 +2,7 @@
 uuid: b79fa0f7-dda1-56fe-898e-906bb49857f8
 title: Imperial Veteran Sceptical about Patreus’s Campaign
 slug: imperial_veteran_sceptical_about_patreuss_campaign
-date: 3301-09-09
+date: '3301-09-09'
 source: GitHub
 persons:
 - Denton Patreus

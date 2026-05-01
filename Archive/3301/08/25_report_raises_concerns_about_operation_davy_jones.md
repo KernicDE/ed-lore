@@ -4,21 +4,25 @@ title: Report Raises Concerns about Operation Davy Jones
 slug: report_raises_concerns_about_operation_davy_jones
 date: '3301-08-25'
 source: GitHub
-entities:
+persons:
 - Driggers
+- Marcus Orrin
+- Archon Delaine
 groups:
 - Imperial Navy
-- Interstellar Press
 - Kumo Crew
+- Stratis Information Group
+- Interstellar Press
 locations:
 - Mars
+- Pegasi Sector
 topics:
 - research
-- trade
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: The Stratis Information Group published a study of Operation Davy Jones, the Imperial Navy's conflict with Archon Delaine. The report claims ridding the Pegasi sector of the Kumo Crew is merely a cover for aggressive Imperial expansion into Federation-aligned systems. Analyst Marcus Orrin stated the Imperial Navy has invested too much to simply withdraw after hostilities end, predicting a prolonged occupation. The findings suggest Imperial motives in the Pegasi Pirate War extend beyond anti-piracy.
+player_impact: None
+modern_impact: Independent think-tank report questions whether Operation Davy Jones is truly about piracy or is a pretext for Imperial territorial expansion.
 legacy_weight: 3
 significance: medium
 ---

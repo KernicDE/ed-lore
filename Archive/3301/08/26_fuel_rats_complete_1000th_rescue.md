@@ -4,11 +4,16 @@ title: Fuel Rats Complete 1,000th Rescue
 slug: fuel_rats_complete_1000th_rescue
 date: '3301-08-26'
 source: GitHub
-entities:
+persons:
 - Ceska Zbrojovka
-- Ghetto King
 - Paul Kavinsky
 - Rusticolus
+- TheHairyMob
+- Anuranium
+- Domaq
+- Ghetto King
+- Aitken
+- Dardevel
 groups:
 - Fuel Rats
 - Radio Sidewinder News
@@ -17,11 +22,12 @@ locations:
 topics:
 - exploration
 - humanitarian
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+- community
+summary: The Fuel Rats emergency fuel delivery service surpassed 1,000 rescues since launching two months prior. Notable rescues included Commander Paul Kavinsky and Rusticolus making an incredible high-speed transition to over 31,500 light years from inhabited space to rescue TheHairyMob, who had five months of exploration data. Anuranium and Domaq located a stranded commander 2,800 light years above the galactic plane near Sagittarius A* despite limited nearby stars. Aitken and Dardevel saved Commander Ghetto King with only two seconds of emergency air remaining.
+player_impact: Commanders running out of fuel anywhere in the galaxy can call the Fuel Rats for emergency refuelling. The service operates even in deep space far from the bubble.
+modern_impact: Milestone for the Fuel Rats player group, demonstrating organised humanitarian rescue operations across the galaxy.
+legacy_weight: 2
+significance: medium
 ---
 
 Fuel Rats Complete 1,000th Rescue

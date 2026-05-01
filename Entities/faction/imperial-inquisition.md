@@ -2,9 +2,9 @@
 id: imperial-inquisition
 name: Imperial Inquisition
 type: faction
-first_seen_date: '3301-11-06'
+first_seen_date: '3301-08-14'
 last_seen_date: '3302-08-18'
-mention_count: 6
+mention_count: 7
 related_entities:
 - i-sola-prospect
 - brestla
@@ -17,9 +17,9 @@ related_entities:
 
 # Imperial Inquisition
 
-First mentioned: **3301-11-06**  
+First mentioned: **3301-08-14**  
 Last mentioned: **3302-08-18**  
-Total mentions: **6**
+Total mentions: **7**
 
 ## Related
 

@@ -4,16 +4,19 @@ title: Apalar System Calls for Aid
 slug: apalar_system_calls_for_aid
 date: '3301-08-12'
 source: GitHub
-entities:
-- Jordan did not directly address
+persons:
+- Omar Jordan
+groups:
+- Apalar Labour
 locations:
 - Apalar
-- Denton
-- Our
+- Svavarsson Terminal
 topics:
 - trade
 - war
-modern_impact: Trade initiative affecting commodity markets and local economies.
+summary: The Apalar system government invited independent pilots to help elevate their economy. Governor Omar Jordan of Svavarsson Terminal stated the system is strategically positioned between Archon Delaine, Zachary Hudson, Zemina Torval, and Denton Patreus territories. While not directly addressing the threat, the appeal is understood to be partly motivated by a desire to counter Archon Delaine’s proximity. A stronger economy could attract protection from another power. Apalar Labour is offering rewards for delivering industrial materials to Svavarsson Terminal.
+player_impact: Traders can deliver industrial materials to Svavarsson Terminal in the Apalar system to earn rewards and help the system strengthen its economy against potential pirate threats.
+modern_impact: Economic development initiative by an independent system seeking to strengthen its position between major powers.
 legacy_weight: 2
 significance: low
 ---

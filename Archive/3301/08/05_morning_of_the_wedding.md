@@ -4,16 +4,22 @@ title: Morning of the Wedding
 slug: morning_of_the_wedding
 date: '3301-08-05'
 source: GitHub
+persons:
+- Sergeant Jenner
 groups:
 - Alliance
 - Imperial Navy
+- Imperial Naval Infantry
+locations:
+- Capitol
+- Imperial Palace
 topics:
 - festival
-- war
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
-legacy_weight: 1
-significance: low
+summary: On the morning of Emperor Hengist Duval's wedding to Florence Lavigny, well-wishers lined the procession route throughout the night. Billions were expected to watch the event live. Even Alliance citizens joined the celebrations. The Imperial Navy and Naval Infantry provided security in dress whites. Sergeant Jenner, one of the elite guards selected to escort the procession, called it the greatest honour of her 30-year career.
+player_impact: None
+modern_impact: Final hours before the assassination of Emperor Hengist Duval at his wedding ceremony.
+legacy_weight: 3
+significance: medium
 ---
 
 Morning of The Wedding

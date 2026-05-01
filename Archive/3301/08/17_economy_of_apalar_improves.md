@@ -4,10 +4,16 @@ title: Economy of Apalar Improves
 slug: economy_of_apalar_improves
 date: '3301-08-17'
 source: GitHub
+groups:
+- Apalar Labour
+locations:
+- Apalar
+- Svavarsson Terminal
 topics:
 - trade
-- war
-modern_impact: Trade initiative affecting commodity markets and local economies.
+summary: Officials at Svavarsson Terminal announced that sufficient industrial materials have been delivered to elevate the Apalar system’s economy. Independent pilots from across the galaxy responded enthusiastically to the government’s request. Apalar Labour will announce when rewards for participating pilots become available.
+player_impact: Pilots who delivered industrial materials to Svavarsson Terminal in Apalar can expect pending rewards. The system’s economy is now on track for improvement.
+modern_impact: Successful community trade initiative boosting an independent system’s economy.
 legacy_weight: 2
 significance: low
 ---

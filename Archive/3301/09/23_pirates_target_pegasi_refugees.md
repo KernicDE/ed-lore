@@ -2,7 +2,7 @@
 uuid: 22d876c4-5b42-5085-a8a6-6ed58448ef84
 title: Pirates Target Pegasi Refugees
 slug: pirates_target_pegasi_refugees
-date: 3301-09-23
+date: '3301-09-23'
 source: GitHub
 persons:
 - Quade

@@ -4,13 +4,18 @@ title: Imperial Slave Association Audited
 slug: imperial_slave_association_audited
 date: '3301-08-21'
 source: GitHub
+persons:
+- Corrigendum
 groups:
 - Imperial Senate
+- Imperial Slave Association
+locations:
+- Capitol
 topics:
-- ship
 - slavery
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: A special Imperial Senate committee conducted a surprise audit of the Imperial Slave Association. The committee found numerous transportation regulation violations near Imperial borders, leading to indictments of border-security officers and pilots. No serious treatment violations were uncovered, though warnings were issued to those holding slaves beyond their fixed term. Affected slaves were restored to citizenship and reimbursed for excess labour. The ISA reiterated that selling Imperial slaves to non-Imperials or beyond Imperial space is strictly prohibited.
+player_impact: Pilots transporting Imperial slaves should ensure full compliance with regulations. Violations near borders are being actively prosecuted, and slaves held beyond their term may be freed with reimbursement claims.
+modern_impact: Imperial Senate audit of the ISA exposes transportation violations while affirming slave protection policies.
 legacy_weight: 2
 significance: low
 ---

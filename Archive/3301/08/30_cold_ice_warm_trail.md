@@ -4,18 +4,24 @@ title: Cold Ice, Warm Trail
 slug: cold_ice_warm_trail
 date: '3301-08-30'
 source: GitHub
-entities:
-- Corrigendum Cold Ice
+persons:
+- Corrigendum
+- Archon Delaine
 groups:
 - Imperial Navy
 - Kumo Crew
 locations:
 - Tjakiri
+- Pegasi Sector
 topics:
 - war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- investigation
+arc_id: kumo-crew-rise
+summary: An Imperial Navy commando unit raided a hidden Kumo Crew forward command post in the Tjakiri system, finding evidence of recent occupation including ice in a glass. DNA from stray hair follicles matched Archon Delaine, suggesting the pirate lord had been there mere minutes before the raid. The near-capture highlights the difficulty of apprehending the galaxy's most wanted man despite the ongoing Imperial offensive.
+player_impact: Combat pilots supporting the Imperial Navy should remain vigilant in Tjakiri and surrounding systems, as Kumo Crew command posts may still be active in the region.
+modern_impact: Near-miss capture of Archon Delaine demonstrates both the proximity of Imperial forces and the pirate lord's continued evasion.
+legacy_weight: 3
+significance: medium
 ---
 
 Cold Ice, Warm Trail

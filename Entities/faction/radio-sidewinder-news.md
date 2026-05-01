@@ -7,10 +7,7 @@ last_seen_date: '3301-10-05'
 mention_count: 2
 related_entities:
 - fuel-rats
-- ceska-zbrojovka
-- ghetto-king
-- paul-kavinsky
-- rusticolus
+- sagittarius-a
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +21,7 @@ Total mentions: **2**
 ## Related
 
 - [[Fuel Rats]] (2 co-mentions)
-- [[Ceska Zbrojovka]] (1 co-mentions)
-- [[Ghetto King]] (1 co-mentions)
-- [[Paul Kavinsky]] (1 co-mentions)
-- [[Rusticolus]] (1 co-mentions)
+- [[Sagittarius A*]] (1 co-mentions)
 
 ## Biography
 

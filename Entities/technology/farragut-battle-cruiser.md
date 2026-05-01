@@ -2,18 +2,18 @@
 id: farragut-battle-cruiser
 name: Farragut Battle Cruiser
 type: technology
-first_seen_date: '3301-09-07'
+first_seen_date: '3302-06-18'
 last_seen_date: '3302-07-02'
-mention_count: 5
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Farragut Battle Cruiser
 
-First mentioned: **3301-09-07**  
+First mentioned: **3302-06-18**  
 Last mentioned: **3302-07-02**  
-Total mentions: **5**
+Total mentions: **4**
 
 ## Related
 

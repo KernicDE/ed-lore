@@ -2,9 +2,9 @@
 id: lavignys-legion
 name: Lavigny's Legion
 type: faction
-first_seen_date: '3302-07-21'
+first_seen_date: '3301-08-24'
 last_seen_date: '3308-09-29'
-mention_count: 6
+mention_count: 7
 related_entities:
 - carthage
 - marker-depot
@@ -17,9 +17,9 @@ related_entities:
 
 # Lavigny's Legion
 
-First mentioned: **3302-07-21**  
+First mentioned: **3301-08-24**  
 Last mentioned: **3308-09-29**  
-Total mentions: **6**
+Total mentions: **7**
 
 ## Related
 

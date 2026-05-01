@@ -2,7 +2,7 @@
 uuid: e3f3df5a-f54e-55dd-aa67-6d8d75ce6e4e
 title: Shadow President Winters Calls for Investigation
 slug: shadow_president_winters_calls_for_investigation
-date: 3301-09-28
+date: '3301-09-28'
 source: GitHub
 persons:
 - Felicia Winters

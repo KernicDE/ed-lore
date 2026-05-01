@@ -4,22 +4,28 @@ title: Democracy Threatened in Old Worlds
 slug: democracy_threatened_in_old_worlds
 date: '3301-08-20'
 source: GitHub
+persons:
+- Edmund Mahon
+- Kulzar
+- Leonard Chamberlain
 groups:
 - Alliance
-- Interstellar Press
 - Pilots Federation
+- Lave Fortune Organization
+- Interstellar Press
 locations:
 - Alioth
 - Lave
-- Lave will become the third
 - Leesti
-- The Lave
+- Reorte
 topics:
 - corporate expansion
+- politics
 - trade
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence
-  through Mahon's trade agreements.
+summary: Allegations surfaced that elements within the Pilots Federation are undermining democratic factions in the Old Worlds to push corporate governments into power and strengthen trade agreements with Alioth. The Lave Fortune Organization has become the most influential faction in Lave with independent pilot support. If successful, Lave would become the third system after Leesti and Reorte to have its democratic government overthrown by a corporation. Commentators fear Prime Minister Edmund Mahon is undercutting Alliance principles to protect trade interests. His office has not responded.
+player_impact: Pilots should be aware that supporting corporate factions in Old Worlds systems may be undermining democratic governments. Those favouring democracy should consider backing democratic-aligned factions instead.
+modern_impact: Allegations of corporate interference in Old Worlds democracy raise questions about Alliance values and Prime Minister Mahon's trade policies.
 legacy_weight: 3
 significance: medium
 ---

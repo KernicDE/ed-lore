@@ -2,7 +2,7 @@
 uuid: 3fc850f4-b172-5baf-b891-1ec2e744425a
 title: Shelter from the Storm
 slug: shelter_from_the_storm
-date: 3301-09-22
+date: '3301-09-22'
 source: GitHub
 persons:
 - Adric Claavis

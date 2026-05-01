@@ -10,14 +10,13 @@ locations:
 - Achenar
 - Capitol
 - Imperial Palace
+- Hall of Martyrs
 topics:
-- construction
-- festival
-- slavery
 - succession
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
-legacy_weight: 1
+summary: Millions of senators, patrons, clients, citizens and slaves from across the Empire are journeying to the Hall of Martyrs on Capitol to pay respects to Emperor Hengist Duval. The queue stretches several miles with waiting times measured in days. Palace officials announced viewings will continue around the clock until funeral preparations begin. The Imperial Naval Infantry stations along the line provide welfare support, while local residents offer food and drink. Those unable to travel have created memorials in their own cities and colonies.
+player_impact: Pilots visiting Capitol should expect extreme crowds, long queues, and heightened security around the Imperial Palace and Hall of Martyrs during the mourning period.
+modern_impact: Massive public mourning demonstrating the deep affection Imperial citizens held for Emperor Hengist Duval.
+legacy_weight: 2
 significance: low
 ---
 

@@ -10,7 +10,7 @@ related_entities:
 - didiomanja
 - leydenfrost-dock
 - denton
-- alliance
+- rishair
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **10**
 - [[Didiomanja]] (3 co-mentions)
 - [[Leydenfrost Dock]] (3 co-mentions)
 - [[Denton]] (2 co-mentions)
-- [[Alliance]] (2 co-mentions)
+- [[Rishair]] (2 co-mentions)
 
 ## Biography
 

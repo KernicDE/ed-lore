@@ -2,7 +2,7 @@
 uuid: 2a25a3ae-9010-5554-8f52-0731676ebd52
 title: Senator Arissa Lavigny Duval Gains More Powerful Support
 slug: senator_arissa_lavigny_duval_gains_more_powerful_support
-date: 3301-09-28
+date: '3301-09-28'
 source: GitHub
 persons:
 - Arissa Lavigny-Duval
@@ -20,7 +20,6 @@ locations:
 technologies: []
 topics:
 - succession
-- terrorism
 arc_id: imperial-succession
 summary: Senator Arissa Lavigny-Duval consolidated her position as the frontrunner for Emperor following Senator Patreus's public endorsement. She already enjoyed Chancellor Blaine's support, and Senator Torval's backing further strengthened her claim. The Imperial Herald's revelations about Aisling Duval's alleged links to Emperor's Dawn severely damaged the Princess's ratings and Senate support.
 player_impact: The Imperial succession is consolidating around Arissa Lavigny-Duval. Pilots should expect the Senate to reach a decision soon, with significant implications for Imperial policy and power dynamics.

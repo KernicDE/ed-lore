@@ -4,7 +4,7 @@ name: Lave
 type: location
 first_seen_date: '3301-04-03'
 last_seen_date: '3312-01-26'
-mention_count: 34
+mention_count: 33
 related_entities:
 - alliance
 - lave-station
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-04-03**  
 Last mentioned: **3312-01-26**  
-Total mentions: **34**
+Total mentions: **33**
 
 ## Related
 

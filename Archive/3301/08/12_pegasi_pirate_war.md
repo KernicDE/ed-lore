@@ -4,20 +4,21 @@ title: Pegasi Pirate War
 slug: pegasi_pirate_war
 date: '3301-08-12'
 source: GitHub
-entities:
-- Corrigendum Pegasi Pirate War
+persons:
+- Archon Delaine
 groups:
 - Kumo Crew
+- Imperial Fleet
 locations:
 - Pegasi Sector
-- Sieges of certain
+- Ngam
 topics:
 - piracy
-- ship
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Archon Delaine’s advance toward Imperial territory was halted last month as Operation Davy Jones forces were joined by Imperial Fleet detachments. The conflict is now called the Pegasi Pirate War. Tens of thousands of ships have been impounded or destroyed across hundreds of systems. The Kumo Crew uses asymmetric tactics to avoid decisive battles. Sieges of systems like Ngam have been repeatedly broken by the Empire and re-laid by pirates. The war of attrition continues with no clear advantage for either side.
+player_impact: Combat pilots can join the Imperial offensive against the Kumo Crew in the Pegasi Sector. The conflict offers opportunities for combat bonds and contributing to the war effort against Archon Delaine.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---

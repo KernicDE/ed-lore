@@ -2,7 +2,7 @@
 uuid: 2ef47a0a-7b3e-5b95-ad44-740dd29c6b60
 title: New Combat Fighter from Gutamaya Shipyards
 slug: new_combat_fighter_from_gutamaya_shipyards
-date: 3301-09-10
+date: '3301-09-10'
 source: GitHub
 groups:
 - Gutamaya Shipyards

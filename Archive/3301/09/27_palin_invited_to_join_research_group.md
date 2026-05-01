@@ -2,7 +2,7 @@
 uuid: a9ccd499-b9ef-5bb3-be68-dfb161b531b9
 title: Palin Invited to Join Research Group
 slug: palin_invited_to_join_research_group
-date: 3301-09-27
+date: '3301-09-27'
 source: GitHub
 persons:
 - Ishmael Palin

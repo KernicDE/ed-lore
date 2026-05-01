@@ -1,18 +1,28 @@
 ---
 uuid: 9d0148b2-d0ec-597d-a16f-c88c72bf49ff
-title: Emperor’s Killer Not Working Alone
+title: Emperor's Killer Not Working Alone
 slug: emperors_killer_not_working_alone
 date: '3301-08-23'
 source: GitHub
-entities:
+persons:
 - Anders Blaine
+- Brendan Paul Darius
+- Hengist Duval
+- Inspector Reeve
+- Aisling Duval
+groups:
+- Emperor's Dawn
+locations:
+- Capitol
+- Eotienses
 topics:
-- cyberattack
 - investigation
-- succession
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- terrorism
+summary: Chancellor Anders Blaine announced a breakthrough in the assassination investigation. Inspector Reeve discovered encrypted data files hidden in the toys of Brendan Paul Darius's six-year-old niece, killed in the family murder. The files revealed Emperor's Dawn, an ultra-traditionalist movement fearing the erosion of imperial values. The group's exact motive remains unknown, but Princess Aisling Duval was also discovered to be a target. Her security has been increased. Blaine called the group a hideous cancer that will be hunted down and eradicated.
+player_impact: None
+modern_impact: Revelation of Emperor's Dawn as a terrorist organisation behind the assassination transforms the investigation into a hunt for a larger conspiracy.
+legacy_weight: 4
+significance: high
 ---
 
 Emperor’s Killer Not Working Alone?

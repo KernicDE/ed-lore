@@ -4,12 +4,21 @@ title: Emperor Hengist Duval Attacked During Wedding
 slug: emperor_hengist_duval_attacked_during_wedding
 date: '3301-08-05'
 source: GitHub
+persons:
+- Hengist Duval
+- Brendan Paul Darius
+groups:
+- Imperial Guard
+locations:
+- Capitol
+- Imperial Palace
 topics:
-- slavery
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: Emperor Hengist Duval was attacked by a high-ranking official during his wedding ceremony to Florence Lavigny. A total comms blackout was imposed following the incident. Sources indicated the assailant was killed but managed to injure the Emperor before dying. Millions of citizens and slaves waiting along the procession route stood in stunned silence as news spread.
+player_impact: None
+modern_impact: Breaking news of the assassination attempt on Emperor Hengist Duval during his wedding.
+legacy_weight: 5
+significance: high
 ---
 
 Emperor Hengist Duval Attacked During Wedding

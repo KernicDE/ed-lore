@@ -4,18 +4,21 @@ title: Aliens Kidnapped the President
 slug: aliens_kidnapped_the_president
 date: '3301-08-14'
 source: GitHub
-entities:
-- The spectre
+persons:
+- Jasmina Halsey
+- Ricardo Bentonio
 groups:
 - Federal Navy
+locations:
+- Sol
 topics:
-- piracy
-- ship
+- conspiracy
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics
-  and set the stage for her eventual removal.
-legacy_weight: 4
-significance: high
+summary: Conspiracy theorist Ricardo Bentonio claimed on his show The Hidden World that President Halsey was kidnapped by aliens when Starship One disappeared. He dismissed the official report findings, claiming she was taken for alien purposes and not by the lizard people from Andromeda, which he asserted is the Imperial Dynasty. Federal Navy officials refused to comment, while one Congressman was overheard joking about Bentonio’s theories.
+player_impact: None
+modern_impact: Conspiracy theories about President Halsey’s disappearance persist despite official findings, reflecting public distrust.
+legacy_weight: 2
+significance: low
 ---
 
 Aliens Kidnapped The President

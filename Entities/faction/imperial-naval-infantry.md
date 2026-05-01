@@ -4,13 +4,13 @@ name: Imperial Naval Infantry
 type: faction
 first_seen_date: '3301-08-05'
 last_seen_date: '3301-10-18'
-mention_count: 7
+mention_count: 8
 related_entities:
-- imperial-palace
 - capitol
+- imperial-palace
 - imperial-guard
-- denton
 - achenar
+- hall-of-martyrs
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-08-05**  
 Last mentioned: **3301-10-18**  
-Total mentions: **7**
+Total mentions: **8**
 
 ## Related
 
-- [[Imperial Palace]] (5 co-mentions)
-- [[Capitol]] (5 co-mentions)
+- [[Capitol]] (8 co-mentions)
+- [[Imperial Palace]] (6 co-mentions)
 - [[Imperial Guard]] (4 co-mentions)
-- [[Denton]] (3 co-mentions)
 - [[Achenar]] (3 co-mentions)
+- [[Hall of Martyrs]] (3 co-mentions)
 
 ## Biography
 

@@ -2,18 +2,18 @@
 id: ricardo-bentonio
 name: Ricardo Bentonio
 type: person
-first_seen_date: '3302-02-29'
+first_seen_date: '3301-08-14'
 last_seen_date: '3303-01-28'
-mention_count: 5
+mention_count: 7
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Ricardo Bentonio
 
-First mentioned: **3302-02-29**  
+First mentioned: **3301-08-14**  
 Last mentioned: **3303-01-28**  
-Total mentions: **5**
+Total mentions: **7**
 
 ## Related
 

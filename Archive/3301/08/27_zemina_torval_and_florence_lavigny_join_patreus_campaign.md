@@ -1,18 +1,30 @@
 ---
 uuid: 25511a31-ca0a-5097-813f-644dfd0c1702
-title: Zemina Torval and Florence Lavigny Join Patreus’ Campaign
+title: Zemina Torval and Florence Lavigny Join Patreus Campaign
 slug: zemina_torval_and_florence_lavigny_join_patreus_campaign
 date: '3301-08-27'
 source: GitHub
+persons:
+- Denton Patreus
+- Zemina Torval
+- Florence Lavigny
+- Hengist Duval
+- Brendan Paul Darius
+- Aristide de Lavigny
+groups:
+- Emperor's Dawn
 locations:
-- Denton
+- Capitol
 topics:
 - piracy
 - succession
 - war
-modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
-legacy_weight: 2
-significance: low
+- politics
+summary: Senator Patreus has gained renewed support since declaring war against Emperor's Dawn, the group claiming responsibility for Emperor Hengist Duval's assassination. Senator Zemina Torval declared her support and instructed her followers to join the campaign. Florence Lavigny also spoke out for unity, defending Patreus's honour and stating he was not involved in the murder. Patreus's influence had waned after his association with assassin Brendan Paul Darius, but his decisive action against Emperor's Dawn has raised his political profile and gained support from Senate heavyweights.
+player_impact: Pilots aligned with Patreus, Torval, or Lavigny can participate in the campaign against Emperor's Dawn.
+modern_impact: Patreus's anti-Emperor's Dawn campaign rehabilitates his political standing and consolidates Senate support behind his military action.
+legacy_weight: 3
+significance: medium
 ---
 
 Zemina Torval and Florence Lavigny Join Patreus’ Campaign

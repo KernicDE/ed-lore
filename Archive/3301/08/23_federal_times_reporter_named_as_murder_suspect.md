@@ -4,18 +4,23 @@ title: Federal Times Reporter Named as Murder Suspect
 slug: federal_times_reporter_named_as_murder_suspect
 date: '3301-08-23'
 source: GitHub
-entities:
-- Monroe
-- Named as Murder Suspect
+persons:
 - Susan Monroe
+- Elaine Boyd
 groups:
 - Federal Security Service
 - Federal Times
+locations:
+- Sol
+- Mars
 topics:
 - crime
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- investigation
+summary: The Federal Security Service upgraded Federal Times reporter Elaine Boyd from person of interest to suspect in the murder of Agent Susan Monroe. The FSS believes Boyd was using her romantic relationship with Monroe to access confidential information. It is unknown whether Monroe was a willing participant. Boyd is considered dangerous and should not be approached. The Federal Times chief editor expressed disbelief, stating they had not heard from Boyd for several days.
+player_impact: None
+modern_impact: Federal Times reporter becomes prime suspect in the murder of a Presidential Protection Detail agent, deepening the Federal political scandal.
+legacy_weight: 3
+significance: medium
 ---
 
 Federal Times Reporter Named as Murder Suspect

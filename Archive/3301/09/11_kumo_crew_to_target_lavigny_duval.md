@@ -2,7 +2,7 @@
 uuid: c480985d-96e0-5c3a-a305-91da4a6ffbbe
 title: Kumo Crew to Target Lavigny Duval
 slug: kumo_crew_to_target_lavigny_duval
-date: 3301-09-11
+date: '3301-09-11'
 source: GitHub
 persons:
 - Archon Delaine

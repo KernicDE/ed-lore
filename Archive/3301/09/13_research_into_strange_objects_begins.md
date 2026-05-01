@@ -2,7 +2,7 @@
 uuid: 4b65d609-766a-55a9-865e-b4a2486fd447
 title: Research into Strange Objects Begins
 slug: research_into_strange_objects_begins
-date: 3301-09-13
+date: '3301-09-13'
 source: GitHub
 persons:
 - Ishmael Palin
@@ -11,7 +11,6 @@ groups:
 locations:
 - HIP 102128
 - Tanmark
-- Fort Harrison
 technologies:
 - Unknown Artefact
 - Anomalous Extraterrestrial Object

@@ -4,15 +4,29 @@ title: Further Outbreaks of Cerberus Plague
 slug: further_outbreaks_of_cerberus_plague
 date: '3301-08-06'
 source: GitHub
+groups:
+- Union of Bast Liberals
 locations:
-- Bast
+- Altair
+- 39 Tauri
+- Kamorin
+- Delta Phoenicis
+- Kappa Ophiuchi
+- Murung
+- LTT 14850
+- Gali
+- Cauani
+- LTT 6705
+- Watha
+- Asgaa
+- Svent
 topics:
 - medicine
 - piracy
-- war
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague
-  that killed over 100,000.
+summary: Fresh outbreaks of the Cerberus Plague are appearing in new systems while medical teams work to deliver antidotes elsewhere. Newly affected systems include Altair, 39 Tauri, Kamorin, Delta Phoenicis, Kappa Ophiuchi, Murung, LTT 14850, Gali, Cauani, LTT 6705, Watha, Asgaa, and Svent. The Union of Bast Liberals is offering rewards to pilots who eliminate pirates targeting medical supply convoys in the Bast system.
+player_impact: Combat pilots can earn rewards in the Bast system by destroying pirates targeting medical supply convoys. Continue supporting antidote delivery efforts to help contain the plague.
+modern_impact: Marks a significant phase in the fight against a devastating plague that killed over 100,000.
 legacy_weight: 3
 significance: medium
 ---
