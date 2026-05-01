@@ -88,6 +88,14 @@ Live site: https://kernicde.github.io/ed-lore/
 
 ---
 
+## Security & Secrets
+
+**API keys, tokens, and passwords must NEVER be committed to this repository or shown in any code/output.**
+- No `.env` files, no hardcoded keys in scripts, no secrets in workflow files
+- The repo is public on GitHub — treat everything as publicly visible
+- If an external API requires a key (e.g. Inara, EDSM), it must be passed via environment variables at runtime, never stored in source control
+- `.gitignore` blocks `.env*`, `*.key`, and `secrets/` — verify before committing
+
 ## Workflow Philosophy
 
 ### Enrichment over extraction

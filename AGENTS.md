@@ -4,6 +4,16 @@
 
 ---
 
+## 0. Security & Secrets (CRITICAL)
+
+**API keys, tokens, passwords, and any secrets must NEVER be committed to this repository or shown in code/output.**
+- This is a **public GitHub repo** — all commits, issues, and workflow logs are visible
+- No hardcoded credentials in Python scripts, Astro components, or workflow YAML files
+- No `.env` files committed (`.gitignore` blocks `.env*`, `*.key`, `secrets/`)
+- If an external API requires authentication (e.g. Inara API, EDSM), the key must be passed via **environment variables at runtime only**
+- Never echo secrets in CI logs or local output
+- If a key is accidentally committed: rotate it immediately, scrub from git history
+
 ## 1. Project Overview
 
 This project is **"The GalNet Chronicle"** — an archive and knowledge system for *Elite: Dangerous* GalNet articles.
