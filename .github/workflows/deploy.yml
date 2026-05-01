@@ -37,20 +37,10 @@ jobs:
           python-version: '3.12'
 
       - name: Install Python deps
-        run: pip install pyyaml edge-tts
-
-      - name: Restore audio cache
-        uses: actions/cache@v4
-        with:
-          path: website/public/audio
-          key: audio-deploy-${{ hashFiles('scripts/audio_manifest.json') }}
-          restore-keys: audio-deploy-
+        run: pip install pyyaml
 
       - name: Generate lore_graph.json
         run: python3 scripts/build_graph.py
-
-      - name: Generate audio (incremental)
-        run: python3 scripts/generate_audio.py --sort recent --concurrency 8
 
       - name: Install Node dependencies
         run: |
