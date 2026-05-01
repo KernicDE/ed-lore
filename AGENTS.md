@@ -171,7 +171,18 @@ Output goes to `website/dist/`. The `public/data/*.json` files are automatically
 
 ### Step 4: Deploy
 
-GitHub Actions deploys automatically on push to `main`. The workflow is in `.github/workflows/`.
+**CRITICAL:** Deployment is handled by the GitHub Actions workflow `.github/workflows/deploy.yml`. It triggers **only on pushes to `main`**.
+
+The `git subtree push --prefix website/dist origin gh-pages` approach is **legacy and inactive**. Pushing to the `gh-pages` branch does **not** trigger a deployment.
+
+**Correct deployment flow:**
+1. Make your changes (enrich articles, fix bugs, etc.)
+2. Build locally: `python scripts/build_graph.py && cd website && pnpm build`
+3. Commit everything (including `website/dist/` changes if you want them tracked, though the CI rebuilds from scratch)
+4. Push to `main`: `git push origin main`
+5. The GitHub Actions workflow will rebuild and deploy to GitHub Pages automatically
+
+Monitor deployment status at: https://github.com/KernicDE/ed-lore/actions
 
 ### Formatting pass (optional, idempotent)
 
@@ -252,7 +263,10 @@ When new persons or groups are introduced in articles, the build script may crea
 - Repository: `https://github.com/KernicDE/ed-lore.git`
 - Branch: `main`
 - The `gh` CLI is authenticated for user **KernicDE**
-- GitHub Actions auto-deploys the website on every push to `main`
+- GitHub Actions auto-deploys the website on every push to `main` via `.github/workflows/deploy.yml`
+- **Do not use** `git subtree push` to `gh-pages` — it is legacy and does not trigger deployments
+- The CI pipeline rebuilds the site from scratch (runs `build_graph.py`, `pnpm install`, `pnpm build`, then `deploy-pages`)
+- Always verify deployment succeeded at https://github.com/KernicDE/ed-lore/deployments
 
 ---
 
@@ -268,7 +282,8 @@ When new persons or groups are introduced in articles, the build script may crea
 | Format archive articles | `python scripts/format_articles.py` |
 | Build website | `cd website && pnpm build` |
 | Count articles | `find Archive -type f \| wc -l` |
-| Push to GitHub | `git push origin main` |
+| Push to GitHub (triggers deploy) | `git push origin main` |
+| Check deployment status | https://github.com/KernicDE/ed-lore/actions |
 
 ---
 
