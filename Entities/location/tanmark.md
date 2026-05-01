@@ -8,9 +8,9 @@ mention_count: 8
 related_entities:
 - kappa-fornacis
 - panem
-- hip-102128
-- news-is-coming-out-of-the-tanmark
-- tanmark-defence-force
+- defence-force-of-tanmark
+- tanmark-posse
+- luca
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **8**
 
 - [[Kappa Fornacis]] (3 co-mentions)
 - [[Panem]] (3 co-mentions)
-- [[HIP 102128]] (2 co-mentions)
-- [[News is coming out of the Tanmark]] (1 co-mentions)
-- [[Tanmark Defence Force]] (1 co-mentions)
+- [[Defence Force of Tanmark]] (2 co-mentions)
+- [[Tanmark Posse]] (2 co-mentions)
+- [[Luca]] (2 co-mentions)
 
 ## Biography
 

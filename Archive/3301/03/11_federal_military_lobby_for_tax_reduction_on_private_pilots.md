@@ -4,13 +4,17 @@ title: Federal Military Lobby for Tax Reduction on Private Pilots
 slug: federal_military_lobby_for_tax_reduction_on_private_pilots
 date: '3301-03-11'
 source: GitHub
+summary: Admiral Vincent and the Federal Navy are lobbying to lower taxes on combat-capable spacecraft to encourage Federal pilots to become more battle-ready amid heightened tensions. If successful, the Imperial armament program would likely be forced to follow suit or risk being undermined by increased Federal combat capabilities.
+player_impact: None directly; tax reductions on combat ships would make Federal military vessels more affordable for private pilots.
+persons:
+- Admiral Vincent
 groups:
 - Federal Navy
 locations:
 - Mars
 topics:
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+- politics
+modern_impact: Federal military lobbying for tax breaks on combat ships signalled an arms race mentality that would escalate tensions with the Empire.
 legacy_weight: 2
 significance: low
 ---

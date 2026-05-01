@@ -2,9 +2,9 @@
 id: alliance-assembly
 name: Alliance Assembly
 type: faction
-first_seen_date: '3302-07-15'
+first_seen_date: '3301-03-11'
 last_seen_date: '3308-09-15'
-mention_count: 23
+mention_count: 24
 related_entities:
 - alliance
 - alliance-tribune
@@ -17,9 +17,9 @@ related_entities:
 
 # Alliance Assembly
 
-First mentioned: **3302-07-15**  
+First mentioned: **3301-03-11**  
 Last mentioned: **3308-09-15**  
-Total mentions: **23**
+Total mentions: **24**
 
 ## Related
 

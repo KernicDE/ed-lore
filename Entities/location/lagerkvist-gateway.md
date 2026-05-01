@@ -2,32 +2,32 @@
 id: lagerkvist-gateway
 name: Lagerkvist Gateway
 type: location
-first_seen_date: '3301-04-01'
+first_seen_date: '3301-03-01'
 last_seen_date: '3301-04-21'
-mention_count: 4
+mention_count: 6
 related_entities:
-- synteini
 - imperial-slavers-association
+- synteini
 - aislings-angels
-- imperial-society
-- stop-slavery-stupid
+- future-of-synteini
+- william-sargent-vision
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Lagerkvist Gateway
 
-First mentioned: **3301-04-01**  
+First mentioned: **3301-03-01**  
 Last mentioned: **3301-04-21**  
-Total mentions: **4**
+Total mentions: **6**
 
 ## Related
 
-- [[Synteini]] (3 co-mentions)
-- [[Imperial Slavers Association]] (3 co-mentions)
+- [[Imperial Slavers Association]] (5 co-mentions)
+- [[Synteini]] (5 co-mentions)
 - [[Aisling's Angels]] (2 co-mentions)
-- [[Imperial Society]] (1 co-mentions)
-- [[Stop Slavery Stupid]] (1 co-mentions)
+- [[Future of Synteini]] (1 co-mentions)
+- [[William Sargent Vision]] (1 co-mentions)
 
 ## Biography
 

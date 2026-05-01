@@ -2,18 +2,18 @@
 id: georgio-algeria
 name: Georgio Algeria
 type: person
-first_seen_date: '3301-04-02'
+first_seen_date: '3301-03-19'
 last_seen_date: '3301-06-18'
-mention_count: 3
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Georgio Algeria
 
-First mentioned: **3301-04-02**  
+First mentioned: **3301-03-19**  
 Last mentioned: **3301-06-18**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 

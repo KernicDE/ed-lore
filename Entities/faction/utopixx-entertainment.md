@@ -20,7 +20,7 @@ Total mentions: **1**
 
 ## Related
 
-- [[Reynhardt Intellisys]] (1 co-mentions)
+- [[Reynhardt IntelliSys]] (1 co-mentions)
 - [[Sol]] (1 co-mentions)
 
 ## Biography

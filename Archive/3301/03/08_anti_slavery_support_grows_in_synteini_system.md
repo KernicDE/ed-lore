@@ -4,17 +4,23 @@ title: Anti Slavery Support Grows in Synteini System
 slug: anti_slavery_support_grows_in_synteini_system
 date: '3301-03-08'
 source: GitHub
+summary: The Future of Synteini party called on commanders to protest the Imperial Slavers Association's new facility in Synteini, citing the anniversary of the Act Prohibiting Importation of Slaves. They urged pilots to do business at William Sargent Vision instead of Lagerkvist Gateway to starve the ISA and push Senator Torval out of Synteini. Lagerkvist Gateway orbits the second planet; William Sargent Vision orbits the fourth.
+player_impact: Pilots can support anti-slavery efforts by trading at William Sargent Vision in Synteini instead of Lagerkvist Gateway.
+persons:
+- CMDR Boter
+- Zemina Torval
+groups:
+- Future of Synteini
+- Imperial Slavers Association
 locations:
 - Synteini
+- Lagerkvist Gateway
+- William Sargent Vision
 topics:
-- festival
 - slavery
-- trade
-entities:
-- Zemina Torval where it counts -
-modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
-legacy_weight: 1
-significance: low
+modern_impact: Grassroots opposition to Torval's slave operations in Synteini demonstrated that Imperial slavery faced resistance even within traditionally loyal systems.
+legacy_weight: 2
+significance: medium
 ---
 
 The Future of Synteini party is calling on all Commanders to protest The actions of the Imperial Slavers Association in the Synteini system. 

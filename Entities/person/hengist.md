@@ -2,32 +2,21 @@
 id: hengist
 name: Hengist
 type: person
-first_seen_date: '3301-03-12'
-last_seen_date: '3301-03-12'
+first_seen_date: '3308-10-21'
+last_seen_date: '3308-10-21'
 mention_count: 1
-related_entities:
-- blaine-should-release
-- denton-patreus
-- hengist-really
-- imperial-senate
-- denton
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Hengist
 
-First mentioned: **3301-03-12**  
-Last mentioned: **3301-03-12**  
+First mentioned: **3308-10-21**  
+Last mentioned: **3308-10-21**  
 Total mentions: **1**
 
 ## Related
 
-- [[Blaine should release]] (1 co-mentions)
-- [[Denton Patreus]] (1 co-mentions)
-- [[Hengist really]] (1 co-mentions)
-- [[Imperial Senate]] (1 co-mentions)
-- [[Denton]] (1 co-mentions)
 
 ## Biography
 

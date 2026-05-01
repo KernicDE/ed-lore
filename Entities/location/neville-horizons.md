@@ -25,7 +25,7 @@ Total mentions: **4**
 
 - [[Kaushpoos]] (4 co-mentions)
 - [[Brewer Corporation]] (2 co-mentions)
-- [[Explorer's Association]] (2 co-mentions)
+- [[Explorers' Association]] (2 co-mentions)
 - [[Universal Cartographics]] (2 co-mentions)
 - [[Pleiades Nebula]] (2 co-mentions)
 

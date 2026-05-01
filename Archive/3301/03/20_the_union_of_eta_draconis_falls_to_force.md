@@ -4,14 +4,21 @@ title: The Union of Eta Draconis Falls to Force
 slug: the_union_of_eta_draconis_falls_to_force
 date: '3301-03-20'
 source: GitHub
+summary: A covert raid by Gold Vision Company special operations forces captured Swift Terminal in Eta Draconis. Silent Sidewinders penetrated the starport, captured the main control terminal, shut down docking bay power, and allowed the main assault force unrestricted access. President Vondell praised the 8th Dragon Squadron and promised peace and prosperity for Eta Draconis.
+player_impact: Pilots may encounter conflict or support operations in Eta Draconis as the Gold Vision Company consolidates control.
+persons:
+- President Vondell
+groups:
+- Gold Vision Company
+- 8th Dragon Squadron
+locations:
+- Eta Draconis
+- Swift Terminal
 topics:
-- construction
 - war
-entities:
-- Vondell
-modern_impact: Infrastructure project with long-term benefits for the affected region.
-legacy_weight: 2
-significance: low
+modern_impact: The Gold Vision Company's takeover of Eta Draconis demonstrated how corporate military forces could seize control of systems with minimal Federal response.
+legacy_weight: 3
+significance: medium
 ---
 
 Inside sources report that a covert raid, carried out by special operation forces acting on behalf of The Gold Vision Company, has led to the capture of Swift Terminal in Eta Draconis.  

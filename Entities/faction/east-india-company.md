@@ -2,32 +2,32 @@
 id: east-india-company
 name: East India Company
 type: faction
-first_seen_date: '3301-04-15'
+first_seen_date: '3301-03-26'
 last_seen_date: '3301-09-06'
-mention_count: 6
+mention_count: 7
 related_entities:
 - federal-navy
 - kappa-fornacis
-- mercs-of-mikunn
-- merchant-marines
-- harm
+- alliance
+- crimson-state-group
+- sons-of-conn
 ---
 
 <!-- AUTO-GENERATED -->
 
 # East India Company
 
-First mentioned: **3301-04-15**  
+First mentioned: **3301-03-26**  
 Last mentioned: **3301-09-06**  
-Total mentions: **6**
+Total mentions: **7**
 
 ## Related
 
-- [[Federal Navy]] (3 co-mentions)
+- [[Federal Navy]] (4 co-mentions)
 - [[Kappa Fornacis]] (2 co-mentions)
-- [[Mercs of Mikunn]] (1 co-mentions)
-- [[Merchant Marines]] (1 co-mentions)
-- [[Harm]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Crimson State Group]] (1 co-mentions)
+- [[Sons of Conn]] (1 co-mentions)
 
 ## Biography
 

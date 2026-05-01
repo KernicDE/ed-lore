@@ -4,15 +4,19 @@ title: Prism Senator Continues to Woo Federation Residents
 slug: prism_senator_continues_to_woo_federation_residents
 date: '3301-03-17'
 source: GitHub
+summary: Senator Kahina Tijani Loren's unofficial entourage toured the outer gas giants of the Sol system, greeted by hundreds of privately owned Federation-registered vessels. Mars diplomatic representatives turned down interview requests, with one aide privately dismissing Loren as a 'jumped-up Imperial prima donna'. At a Merchants Guild reception on Titan, Loren responded to accusations of Imperial arrogance by saying 'We Imperials often do get accused of being arrogant and overbearing, but at least we're good at it.'
+player_impact: None directly; Loren's tour continues to generate public interest and diplomatic friction between the Empire and Federation.
+persons:
+- Kahina Tijani Loren
+groups:
+- Merchants Guild
 locations:
 - Mars
 - Prism
 - Sol
+- Titan
 topics:
 - diplomacy
-- ship
-entities:
-- Continues
 arc_id: prism-senator
 modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2

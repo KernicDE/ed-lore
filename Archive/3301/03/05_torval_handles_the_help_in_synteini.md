@@ -4,16 +4,21 @@ title: Torval Handles the Help in Synteini
 slug: torval_handles_the_help_in_synteini
 date: '3301-03-05'
 source: GitHub
+summary: Senator Zemina Torval's corporations continued importing unregulated slaves into sanctioned training centres in Synteini despite questionable legal status. The Senate has not addressed the issue at official quorum. Political commentators suggest the lack of opposition signals Chancellor Blaine's waning power, though sources close to Blaine claim he is simply too busy to deal with Torval's attempts to exploit the Emperor's condition.
+player_impact: None directly; Torval's slave import operations continue unchecked, reinforcing her position as a major pro-slavery power in the Empire.
+persons:
+- Zemina Torval
+- Chancellor Blaine
+groups: []
 locations:
 - Synteini
 topics:
-- corporate expansion
-- ship
 - slavery
 - succession
-modern_impact: Ship review and release information for the pilot community.
+- corporate expansion
+modern_impact: Torval's unchecked slave import operations demonstrated the power vacuum in the Senate as the Emperor's health declined.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Corporations operating under The direction of Senator Zemina Torval have been making waves throughout the Empire This week, as shipments of unregulated slaves continue to pour into Imperially -sanctioned slave training centres in Synteini. 

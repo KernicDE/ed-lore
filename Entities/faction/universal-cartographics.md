@@ -9,8 +9,8 @@ related_entities:
 - brewer-corporation
 - pilots-federation
 - sirius-corporation
+- explorers-association
 - jaques-station
-- canonn
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **35**
 - [[Brewer Corporation]] (7 co-mentions)
 - [[Pilots Federation]] (6 co-mentions)
 - [[Sirius Corporation]] (4 co-mentions)
+- [[Explorers' Association]] (3 co-mentions)
 - [[Jaques Station]] (3 co-mentions)
-- [[Canonn]] (3 co-mentions)
 
 ## Biography
 

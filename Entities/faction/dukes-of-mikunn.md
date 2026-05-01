@@ -2,32 +2,32 @@
 id: dukes-of-mikunn
 name: Dukes of Mikunn
 type: faction
-first_seen_date: '3301-06-08'
+first_seen_date: '3301-03-26'
 last_seen_date: '3301-07-27'
-mention_count: 2
+mention_count: 3
 related_entities:
 - mercenaries-of-mikunn
 - hr-7327
-- law-party-of-hr-7327
-- col-285-sector-vg-1-b24-6
-- sefrys
+- alliance
+- federal-navy
+- crimson-state-group
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Dukes of Mikunn
 
-First mentioned: **3301-06-08**  
+First mentioned: **3301-03-26**  
 Last mentioned: **3301-07-27**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
 - [[Mercenaries of Mikunn]] (2 co-mentions)
 - [[HR 7327]] (2 co-mentions)
-- [[Law Party of HR 7327]] (1 co-mentions)
-- [[COL 285 Sector VG-1 B24-6]] (1 co-mentions)
-- [[Sefrys]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Crimson State Group]] (1 co-mentions)
 
 ## Biography
 

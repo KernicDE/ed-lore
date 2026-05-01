@@ -4,19 +4,23 @@ title: Alioth Warns Lugh They Stand Alone
 slug: alioth_warns_lugh_they_stand_alone
 date: '3301-03-11'
 source: GitHub
+summary: Prime Minister Edmund Mahon warned the Crimson State Group that the Alliance would not intervene in Federal governance of Lugh, stating no laws were broken and no rights abused. He declared that until Lugh fully secedes from the Federation, any application to join the Alliance would be automatically rejected. The news is a blow to Lugh's independence movement, which must now find allies closer to home.
+player_impact: None directly; the Alliance's refusal to support Lugh means independence fighters must rely solely on local resources and independent pilots.
+persons:
+- Edmund Mahon
 groups:
-- Alliance
+- Alliance Assembly
+- Alliance of Independent Systems
+- Crimson State Group
 locations:
 - Alioth
 - Lugh
 topics:
 - independence
-- ship
+- diplomacy
 - war
-entities:
-- Edmund Mahon
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence through Mahon's trade agreements.
+modern_impact: The Alliance's non-intervention stance in Lugh demonstrated Mahon's commitment to diplomatic neutrality, even when ideological sympathies might suggest otherwise.
 legacy_weight: 3
 significance: medium
 ---

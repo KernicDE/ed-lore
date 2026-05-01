@@ -4,16 +4,19 @@ title: Demand for Original Onionhead Higher Than Ever
 slug: demand_for_original_onionhead_higher_than_ever
 date: '3301-03-25'
 source: GitHub
+summary: Thousands of traders have returned to Kappa Fornacis after Onionhead became available again on Harvestport. Demand for the original strain remains high despite Federal attempts to eradicate it. Street prices had skyrocketed by several hundred percent but are expected to level out with the new supply. The Federation is preoccupied with Lugh but will likely turn its attention back to Panem once the war ends.
+player_impact: Traders can purchase original blend Onionhead at Harvestport in Kappa Fornacis, though Federal crackdowns may resume after the Lugh war.
+persons: []
+groups:
+- Kappa Fornacis Farmers Union
 locations:
 - Kappa Fornacis
-- Lugh
 - Panem
+- Harvestport
 topics:
 - narcotics
-- trade
-- war
-arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
+arc_id: onionhead-conflict
+modern_impact: The Onionhead conflict highlights tensions between Federal prohibition and local agricultural economies.
 legacy_weight: 3
 significance: medium
 ---

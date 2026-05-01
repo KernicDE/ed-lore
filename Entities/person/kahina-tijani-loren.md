@@ -2,32 +2,21 @@
 id: kahina-tijani-loren
 name: Kahina Tijani Loren
 type: person
-first_seen_date: '3301-03-27'
-last_seen_date: '3301-03-27'
-mention_count: 1
-related_entities:
-- alliance
-- alioth
-- cambridge
-- mars
-- prism
+first_seen_date: '3301-03-06'
+last_seen_date: '3303-05-04'
+mention_count: 28
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Kahina Tijani Loren
 
-First mentioned: **3301-03-27**  
-Last mentioned: **3301-03-27**  
-Total mentions: **1**
+First mentioned: **3301-03-06**  
+Last mentioned: **3303-05-04**  
+Total mentions: **28**
 
 ## Related
 
-- [[Alliance]] (1 co-mentions)
-- [[Alioth]] (1 co-mentions)
-- [[Cambridge]] (1 co-mentions)
-- [[Mars]] (1 co-mentions)
-- [[Prism]] (1 co-mentions)
 
 ## Biography
 

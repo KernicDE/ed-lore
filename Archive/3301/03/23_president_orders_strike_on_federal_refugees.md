@@ -4,17 +4,23 @@ title: President Orders Strike on Federal Refugees
 slug: president_orders_strike_on_federal_refugees
 date: '3301-03-23'
 source: GitHub
+summary: President Halsey ordered Federal pilots to attack and destroy an unarmed refugee convoy fleeing Lugh 6, killing an estimated 9,322 innocent Federal civilians. Halsey claimed Joint Intelligence Committee evidence placed Crimson State Group leader Éamonn Uí Laoghire aboard one of the transports, but CSG sources say this was fabricated. Shadow President Hudson vowed to launch an official investigation once the crisis ends.
+player_impact: Federal pilots may have been ordered to attack refugee convoys in Lugh. Shadow President Hudson's promised investigation could have long-term political consequences.
+persons:
+- Jasmina Halsey
+- Éamonn Uí Laoghire
+- Zachary Hudson
 groups:
 - Federal Congress
 - Federal Navy
+- Crimson State Group
 locations:
+- Lugh
 - Sol
 topics:
 - war
 - politics
 - humanitarian
-entities:
-- President Jasmina Halsey
 arc_id: halsey-presidency
 arc_chapter: Halsey strikes refugees
 modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.

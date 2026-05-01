@@ -4,20 +4,28 @@ title: Core Dynamics Completes Work on New Capital Ship
 slug: core_dynamics_completes_work_on_new_capital_ship
 date: '3301-03-11'
 source: GitHub
+summary: Core Dynamics and the Federal Navy announced the FNS Nevermore, a Farragut-Class Battlecruiser. The FCB carries multiple squadrons of Federal Fighters and Federal Corvettes across hundreds of light years with extraordinarily heavy firepower. Commander Sam Ishum braved the blockade of BD+03 2338 to deliver 86,000 tonnes of copper to Hudson Dock. To celebrate, Core Dynamics supplied Hudson Dock with discounted Federal Dropships.
+player_impact: Pilots can purchase discounted Federal Dropships at Hudson Dock. The FNS Nevermore enhances Federal naval projection capabilities.
+persons:
+- Commander Sam Ishum
 groups:
 - Core Dynamics
 - Federal Navy
+locations:
+- BD+03 2338
+- Hudson Dock
+technologies:
+- FNS Nevermore
+- Farragut-Class Battlecruiser
+- Federal Fighters
+- Federal Corvettes
+- Federal Dropship
 topics:
 - construction
-- ship
-- trade
 - war
-entities:
-- Ishum
-- Sam Ishum
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+modern_impact: The FNS Nevermore represented a significant escalation in Federal capital ship capabilities, matching Imperial Majestic-class Interdictors.
+legacy_weight: 3
+significance: medium
 ---
 
 Core Dynamics, in association With the Federal Navy, are pleased to announce The latest addition to The Federal capital ship family, the FNS Nevermore. 

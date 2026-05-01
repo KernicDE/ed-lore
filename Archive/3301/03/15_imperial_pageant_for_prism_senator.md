@@ -4,14 +4,18 @@ title: Imperial Pageant for Prism Senator
 slug: imperial_pageant_for_prism_senator
 date: '3301-03-15'
 source: GitHub
+summary: Dozens of independent commanders volunteered to escort Senator Kahina Tijani Loren's Imperial Courier through Federal space in protest at her perceived shabby treatment by Federation hosts. The unofficial escort of privately owned Imperial Cutters caused embarrassment to the Federation, who could not prevent newsfeed images of what appeared to be an Imperial fleet in core Federation worlds. When asked about her welcome, Loren replied 'When I receive one, I shall let you know.'
+player_impact: None directly; Loren's unofficial escort demonstrated Imperial citizen solidarity and embarrassed Federal diplomatic protocols.
+persons:
+- Kahina Tijani Loren
+groups: []
 locations:
 - Mars
 - Prism
 topics:
-- festival
-- ship
+- diplomacy
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
+modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue and the power of unofficial citizen diplomacy.
 legacy_weight: 2
 significance: low
 ---

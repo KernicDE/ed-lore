@@ -4,17 +4,26 @@ title: The War for Lugh
 slug: the_war_for_lugh
 date: '3301-03-13'
 source: GitHub
+summary: President Halsey officially declared war on the Crimson State Group in Lugh. The independence movement had achieved 91% approval among locals, though the Lugh for Equality Party disputed this claiming less than 30% were politically engaged. Federal pilots loyal to the Federation should sign up at Hartsfield Market, though backup may be delayed. In response, Éamonn Uí Laoghaire offered generous payouts to independent pilots supporting Lugh at Balandin Gateway.
+player_impact: Pilots can support the Federation at Hartsfield Market in Lugh or join the Crimson State Group at Balandin Gateway for generous payouts.
+persons:
+- Jasmina Halsey
+- Éamonn Uí Laoghaire
 groups:
 - Lugh Defence Force
 - Federal Navy
+- Crimson State Group
+- Lugh for Equality Party
 locations:
 - Lugh
+- Hartsfield Market
+- Balandin Gateway
 topics:
 - war
 - independence
 arc_id: lugh-independence
 arc_chapter: War declared
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
+modern_impact: Halsey's declaration of war on Lugh's independence movement triggered one of the most brutal Federal military campaigns of her presidency.
 legacy_weight: 4
 significance: high
 ---

@@ -4,6 +4,11 @@ title: Alliance Shines Light on Prism Senator
 slug: alliance_shines_light_on_prism_senator
 date: '3301-03-27'
 source: GitHub
+summary: Alliance representatives from Alioth sent an open letter inviting Senator Kahina Tijani Loren to visit Alliance star-systems, promising her trip would be free of 'bungling bureaucracy, petty-minded procrastinators and deranged docking debacles.' The invitation was placed on the diplomatic agenda after assurances that paperwork would be checked and landing pads reserved. Loren is currently on Earth, having been greeted by cheering crowds at Cambridge spaceport before meeting Ambassador Waite in London. The Mail on Mars praised her for improving Imperial-Federation relations more than decades of ambassadors.
+player_impact: None directly; Loren's tour continues to generate cross-superpower diplomatic interest and speculation about her true agenda.
+persons:
+- Kahina Tijani Loren
+- Ambassador Waite
 groups:
 - Alliance
 locations:
@@ -11,10 +16,10 @@ locations:
 - Cambridge
 - Mars
 - Prism
+- London
+- Earth
 topics:
 - diplomacy
-entities:
-- Kahina Tijani Loren
 arc_id: prism-senator
 modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2

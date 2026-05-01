@@ -4,10 +4,19 @@ title: Patreus and the Princess
 slug: patreus_and_the_princess
 date: '3301-03-20'
 source: GitHub
+summary: Senator Denton Patreus and Aisling Duval were spotted shopping in the Facece fashion halls, accompanied by a vast entourage. The couple walked hand in hand while security cleared paths for them. They spent three hours browsing before retiring to Patreus's ship for dinner.
+player_impact: None directly; continued public appearances fuel speculation about a political or romantic alliance between Patreus and Aisling.
+persons:
+- Denton Patreus
+- Aisling Duval
+groups: []
+locations:
+- Facece
 topics:
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+- succession
+- scandal
+modern_impact: The Patreus-Aisling pairing became one of the most watched potential alliances in Imperial politics, capable of reshaping the succession struggle.
+legacy_weight: 2
 significance: low
 ---
 

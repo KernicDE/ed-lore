@@ -4,16 +4,21 @@ title: Navy Withdraws from Lugh – Fighting Continues
 slug: navy_withdraws_from_lugh_fighting_continues
 date: '3301-03-25'
 source: GitHub
+summary: Congress temporarily withdrew the Federal Navy from Lugh, diverting vessels to Qureshi Enterprise in Khaka pending a decision on how to end the conflict. Despite the official withdrawal, Lugh remains embroiled in civil war between the Crimson State Group and Lugh for Equality Party. Lugh for Equality controls the skies while the CSG has an advantage in ground troop armaments. Neither side appears willing to surrender without a decisive outcome.
+player_impact: Pilots can support either the Crimson State Group or Lugh for Equality Party in the ongoing civil war, or deliver weapons and supplies to the side of their choice.
+persons: []
 groups:
 - Federal Navy
 - Lugh for Equality
+- Crimson State Group
 locations:
 - Lugh
+- Qureshi Enterprise
+- Khaka
 topics:
-- ship
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
+modern_impact: The Federal Navy's withdrawal from Lugh created a power vacuum that allowed the Crimson State Group to consolidate control and demonstrated the limits of Federal military commitment.
 legacy_weight: 3
 significance: medium
 ---

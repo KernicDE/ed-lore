@@ -2,32 +2,32 @@
 id: alliance-of-independent-systems
 name: Alliance of Independent Systems
 type: faction
-first_seen_date: '3301-04-26'
+first_seen_date: '3301-03-03'
 last_seen_date: '3301-04-26'
-mention_count: 1
+mention_count: 3
 related_entities:
-- alliance-elite-diplomatic-corps
-- workers-of-lave-liberals
-- pro-alliance-league
-- reorte
-- lave
+- alliance
+- big-g-corporation
+- djaujas
+- khona
+- dohkwithi
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Alliance of Independent Systems
 
-First mentioned: **3301-04-26**  
+First mentioned: **3301-03-03**  
 Last mentioned: **3301-04-26**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Alliance Elite Diplomatic Corps]] (1 co-mentions)
-- [[Workers of Lave Liberals]] (1 co-mentions)
-- [[Pro-Alliance League]] (1 co-mentions)
-- [[Reorte]] (1 co-mentions)
-- [[Lave]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Big G Corporation]] (1 co-mentions)
+- [[Djaujas]] (1 co-mentions)
+- [[Khona]] (1 co-mentions)
+- [[Dohkwithi]] (1 co-mentions)
 
 ## Biography
 

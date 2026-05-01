@@ -4,15 +4,21 @@ title: Pirates Prospering in Tanmark
 slug: pirates_prospering_in_tanmark
 date: '3301-03-06'
 source: GitHub
+summary: Despite the Defence Force of Tanmark's success against the Tanmark Posse on Luca, hundreds of unmarked pirate ships began attacking traders in the Tanmark system. The criminal wave was sparked by an economic boom from increased Lucan Onionhead production. The Defence Force limited trader access to Onionhead to reduce targeting, but is now offering to empty storerooms once security is restored. Pilots can sign up for security duty aboard Cassie-L-Peia in Tanmark.
+player_impact: Pilots can sign up for the Tanmark security initiative at Cassie-L-Peia to combat piracy and earn access to Lucan Onionhead stocks.
+persons: []
+groups:
+- Defence Force of Tanmark
+- Tanmark Posse
 locations:
 - Tanmark
+- Luca
+- Cassie-L-Peia
 topics:
 - crime
 - narcotics
 - piracy
-- ship
-- trade
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: The Tanmark piracy surge demonstrated how narcotics booms attract criminal elements, creating cycles of violence even after initial law enforcement successes.
 legacy_weight: 2
 significance: low
 ---

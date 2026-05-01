@@ -2,32 +2,30 @@
 id: titan
 name: Titan
 type: location
-first_seen_date: '3303-04-17'
-last_seen_date: '3303-12-21'
-mention_count: 5
+first_seen_date: '3301-03-17'
+last_seen_date: '3301-03-17'
+mention_count: 1
 related_entities:
-- taygeta
-- aegis
-- oracle
+- merchants-guild
+- mars
+- prism
 - sol
-- tionisla
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Titan
 
-First mentioned: **3303-04-17**  
-Last mentioned: **3303-12-21**  
-Total mentions: **5**
+First mentioned: **3301-03-17**  
+Last mentioned: **3301-03-17**  
+Total mentions: **1**
 
 ## Related
 
-- [[Taygeta]] (4 co-mentions)
-- [[Aegis]] (3 co-mentions)
-- [[Oracle]] (2 co-mentions)
+- [[Merchants Guild]] (1 co-mentions)
+- [[Mars]] (1 co-mentions)
+- [[Prism]] (1 co-mentions)
 - [[Sol]] (1 co-mentions)
-- [[Tionisla]] (1 co-mentions)
 
 ## Biography
 

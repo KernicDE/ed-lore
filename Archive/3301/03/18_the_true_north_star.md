@@ -4,15 +4,21 @@ title: The True North Star
 slug: the_true_north_star
 date: '3301-03-18'
 source: GitHub
+summary: Explorer Virgil Kyle, commander of the Asp 'Spirit of Indianapolis', claims to have been the first to visit Sol's 'true North Star' at Wregoe TV-L C24-0, over 1,200 light-years north of Sol's position in the galactic plane. Due to jump distances, the system is only reachable by Asps and Anacondas fitted for near-maximum jump ranges. Kyle described the view of the Milky Way from the system as spectacular and invited other explorers to visit.
+player_impact: Explorers with high-jump-range Asps or Anacondas can visit Wregoe TV-L C24-0 to see the spectacular view.
+persons:
+- Virgil Kyle
+groups: []
 locations:
-- Indianapolis
-- Milky Way from the
 - Sol
+- Wregoe TV-L C24-0
+technologies:
+- Asp
+- Anaconda
 topics:
 - exploration
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
+modern_impact: Kyle's discovery of Sol's 'true North Star' became a popular destination for explorers seeking unique galactic perspectives.
+legacy_weight: 2
 significance: low
 ---
 

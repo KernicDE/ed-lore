@@ -2,32 +2,32 @@
 id: earth
 name: Earth
 type: location
-first_seen_date: '3301-04-23'
+first_seen_date: '3301-03-20'
 last_seen_date: '3311-06-03'
-mention_count: 17
+mention_count: 19
 related_entities:
 - sol
+- mars
 - federal-times
 - aegis
-- federal-navy
-- pacific-ocean
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Earth
 
-First mentioned: **3301-04-23**  
+First mentioned: **3301-03-20**  
 Last mentioned: **3311-06-03**  
-Total mentions: **17**
+Total mentions: **19**
 
 ## Related
 
 - [[Sol]] (10 co-mentions)
+- [[Mars]] (4 co-mentions)
 - [[Federal Times]] (4 co-mentions)
 - [[Aegis]] (4 co-mentions)
-- [[Federal Navy]] (3 co-mentions)
-- [[Pacific Ocean]] (2 co-mentions)
+- [[Alliance]] (3 co-mentions)
 
 ## Biography
 

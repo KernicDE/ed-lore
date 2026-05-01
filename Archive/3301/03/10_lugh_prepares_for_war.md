@@ -4,13 +4,20 @@ title: Lugh Prepares for War
 slug: lugh_prepares_for_war
 date: '3301-03-10'
 source: GitHub
+summary: Crimson State Group representatives on Alioth were forced to depart hastily as Federal checkpoints were established around local exit points. The Federation is showing its hand in the conflict with Lugh. Ambassador Éamonn Uí Laoghaire declared Lugh a sovereign state and invoked ancient prophecy from the 'Leabhar Gabhála Lugh' that the Sons of Conn would aid Lugh in its time of need.
+player_impact: None directly; Federal military buildup around Lugh signals imminent conflict. Pilots may find opportunities to support either Federal or independence forces.
+persons:
+- Éamonn Uí Laoghaire
 groups:
+- Crimson State Group
 - Alliance
+- Federation
 locations:
 - Alioth
 - Lugh
 topics:
 - war
+- independence
 arc_id: lugh-independence
 modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3

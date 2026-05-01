@@ -2,9 +2,9 @@
 id: facece
 name: Facece
 type: location
-first_seen_date: '3301-04-03'
+first_seen_date: '3301-03-20'
 last_seen_date: '3302-07-02'
-mention_count: 8
+mention_count: 9
 related_entities:
 - allied-facece-order
 - syromyatnikov-horizons
@@ -17,9 +17,9 @@ related_entities:
 
 # Facece
 
-First mentioned: **3301-04-03**  
+First mentioned: **3301-03-20**  
 Last mentioned: **3302-07-02**  
-Total mentions: **8**
+Total mentions: **9**
 
 ## Related
 

@@ -4,21 +4,24 @@ title: Unknown Explorer Returns From NGC 3199 Nebula
 slug: unknown_explorer_returns_from_ngc_3199_nebula
 date: '3301-03-27'
 source: GitHub
+summary: Commander Swift Arrow announced his return from the NGC 3199 Nebula, claiming to be the first to fully map the entire NGC 3199 Sector and the second explorer to visit it. All but 5 of the 750 systems were fully scanned for the first time. The 35,000 light-year journey took approximately 5 weeks. Multiple factions including Sirius Corporation, Patron's Principles, Chapter of Isinor, Alioth Independents, and Sublime Order of Van Maanen's Star bid on the data, with Patron's Principles paying 37.3 million credits. The total data value was nearly 71 million credits. Swift Arrow plans to release a guide to the sector.
+player_impact: Explorers can use Swift Arrow's upcoming guide to plan trips to the NGC 3199 sector, identifying points of interest and systems to avoid.
+persons:
+- Commander Swift Arrow
+- Commander Celmascant
 groups:
-- Sirius Corp
 - Sirius Corporation
 - Universal Cartographics
+- Patron's Principles
+- Chapter of Isinor
+- Alioth Independents
+- Sublime Order of Van Maanen's Star
 locations:
 - Alioth
 - Sirius
 topics:
-- corporate expansion
 - exploration
-- research
-entities:
-- Returns From NGC 3199 Nebula
-- Swift Arrow
-modern_impact: Notable exploration achievement expanding the boundaries of known space.
+modern_impact: Commander Swift Arrow's comprehensive mapping of the NGC 3199 Sector set a benchmark for systematic deep-space exploration.
 legacy_weight: 2
 significance: low
 ---

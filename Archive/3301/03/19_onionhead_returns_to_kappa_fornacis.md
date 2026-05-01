@@ -4,11 +4,17 @@ title: Onionhead Returns to Kappa Fornacis
 slug: onionhead_returns_to_kappa_fornacis
 date: '3301-03-19'
 source: GitHub
+summary: The Kappa Fornacis Farmers Union resumed Onionhead sales in ports around Panem. Georgio Algeria announced to crowds at Harvestport that 'you can't stop the crop' and that people want '100% organic, original blend Onionhead'. President Halsey's office stated the matter would be dealt with in due course.
+player_impact: Pilots may find Onionhead available in Panem ports. Federal response remains pending.
+persons:
+- Georgio Algeria
+- Jasmina Halsey
 groups:
 - Kappa Fornacis Farmers Union
 locations:
 - Kappa Fornacis
 - Panem
+- Harvestport
 topics:
 - narcotics
 arc_id: onionhead-conflict

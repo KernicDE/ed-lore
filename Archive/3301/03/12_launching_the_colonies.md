@@ -4,17 +4,25 @@ title: Launching the Colonies
 slug: launching_the_colonies
 date: '3301-03-12'
 source: GitHub
+summary: The Sirius Corporation announced the launch of 9 new colonial outposts to be deployed within 14 days, returning to its roots as a corporate coloniser. The chosen systems include Gliese 97.2, HIP 8396, Col 285 Sector WA-L b9-3, CAO Junga, and the Wredguia Colony Cluster comprising Wredguia SX-L D7-92, Wredguia SX-L d7-91, Wredguia WD-K D8-66, Wredguia QA-N b34-4 and Wredguia XD-K d8-78.
+player_impact: None directly; new Sirius Corporation colonies may create economic and exploration opportunities in the designated systems.
+persons: []
 groups:
-- Sirius Corp
 - Sirius Corporation
 locations:
-- HIP 8396
 - Sirius
-- The 9
-- The colonists settled in the Sirius
+- HIP 8396
+- Gliese 97.2
+- Col 285 Sector WA-L b9-3
+- CAO Junga
+- Wredguia SX-L D7-92
+- Wredguia SX-L d7-91
+- Wredguia WD-K D8-66
+- Wredguia QA-N b34-4
+- Wredguia XD-K d8-78
 topics:
 - corporate expansion
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Sirius Corporation's colonisation programme expanded human presence beyond occupied space, continuing a thousand-year tradition of corporate-led settlement.
 legacy_weight: 2
 significance: low
 ---

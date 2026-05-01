@@ -9,8 +9,8 @@ key_entities:
 - imperial-herald
 - imperial-citizen
 - alliance
-- continues
-- kahina-tijani-loren
+- merchants-guild
+- sol-herald
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Articles: **17**
 - [[Imperial Herald]] (4 mentions)
 - [[Imperial Citizen]] (4 mentions)
 - [[Alliance]] (2 mentions)
-- [[Continues]] (1 mentions)
-- [[Kahina Tijani Loren]] (1 mentions)
+- [[Merchants Guild]] (1 mentions)
+- [[Sol Herald]] (1 mentions)
 
 ## Description
 

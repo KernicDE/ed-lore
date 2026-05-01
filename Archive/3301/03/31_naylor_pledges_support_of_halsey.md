@@ -4,13 +4,20 @@ title: Naylor Pledges Support of Halsey
 slug: naylor_pledges_support_of_halsey
 date: '3301-03-31'
 source: GitHub
-entities:
-- Halsey earlier this morning
+summary: Vice President Naylor publicly swore to continue supporting President Halsey following Shadow President Hudson's attack. Naylor defended Halsey's difficult decisions, stating he would have made the same choices with the same information. He condemned Hudson's 'vitriol' and reminded the public that the people chose Halsey, not Hudson, and that he would follow the people's choice until they say otherwise.
+player_impact: None directly; Naylor's support temporarily bolsters Halsey's position but underscores the deepening split in Federal leadership.
+persons:
 - Naylor
+- Jasmina Halsey
+- Zachary Hudson
+groups: []
+locations: []
+topics:
+- politics
 arc_id: halsey-presidency
-modern_impact: President Halsey's controversial military orders strain Federal politics and set the stage for her eventual removal.
-legacy_weight: 4
-significance: high
+modern_impact: Naylor's loyalty to Halsey highlighted the personal and political divisions within the Federal executive branch during the crisis.
+legacy_weight: 3
+significance: medium
 ---
 
 After Shadow President Hudson’s scathing attack on President Halsey earlier This morning, Vice President Naylor has sworn to continue his support of President Halsey. 

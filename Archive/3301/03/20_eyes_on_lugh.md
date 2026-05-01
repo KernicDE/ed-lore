@@ -4,16 +4,25 @@ title: Eyes on Lugh
 slug: eyes_on_lugh
 date: '3301-03-20'
 source: GitHub
+summary: Federal forces continue to dominate Lugh, shredding Crimson State Group air defences. The CSG fleet has adopted defensive positions around Balandin Gateway and Knight Dock. Federal Marines secured Seega Port with minimal losses and are working to secure Read Gateway as a staging post for attacks against Crimson State starports. Despite millions already dead, rumours suggest the CSG is preparing a last desperate stand. Hundreds of refugee ships are fleeing Lugh 6 to escape the fighting.
+player_impact: Pilots can support Federal forces in securing Read Gateway and attacking Crimson State positions, or assist refugee ships fleeing Lugh 6.
+persons: []
+groups:
+- Federal Marines
+- Crimson State Group
 locations:
 - Lugh
+- Balandin Gateway
+- Knight Dock
+- Seega Port
+- Read Gateway
+- Lugh 6
 topics:
-- construction
-- humanitarian
-- ship
 - war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+- humanitarian
+modern_impact: The relentless Federal advance in Lugh created a humanitarian crisis as civilians fled the conflict zone in massive numbers.
+legacy_weight: 3
+significance: medium
 ---
 
 Federal forces continue to dominate The skies of Lugh. The Crimson State Group’s air defences have been all but shredded, With the majority of their fleet now adopting a Defensive position around Balandin Gateway and Knight Dock. 

@@ -4,24 +4,29 @@ title: Halsey Honours Heroes
 slug: halsey_honours_heroes
 date: '3301-03-20'
 source: GitHub
+summary: President Halsey honoured Federal commanders who made the greatest contributions to the Lugh war effort. Commander Nightwulf removed almost 14,000 enemy combatants. Commander Darius Torkalar shipped 3,000 tonnes of weapons. They were aided by Post Commanders Crownan and Pablo-Diablo, Petty Officer Dave Lukewski III, and Brokers BadBjarne and Ranmust, along with Merchant Commander Vorian Artreides. Despite CSG undercover operatives on Hartsfield Market, the Federation continues to dominate Lugh's skies.
+player_impact: Pilots who contributed significantly to the Federal war effort in Lugh may receive honours and recognition.
+persons:
+- Jasmina Halsey
+- Commander Nightwulf
+- Commander Darius Torkalar
+- Post Commander Crownan
+- Post Commander Pablo-Diablo
+- Petty Officer Dave Lukewski III
+- Commander BadBjarne
+- Commander Ranmust
+- Commander Vorian Artreides
+groups: []
 locations:
-- Hartsfield
 - Lugh
+- Hartsfield Market
+- Khaka
 topics:
-- ship
 - war
-entities:
-- BadBjarne
-- Crownan
-- Darius Torkalar
-- Halsey honours those heroes
-- Nightwulf
-- Pablo-Diablo
-- Ranmust
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
-legacy_weight: 3
-significance: medium
+modern_impact: Halsey's public honours for Lugh commanders served as political theatre to bolster her image during the controversial war.
+legacy_weight: 2
+significance: low
 ---
 
 Despite The actions of undercover operatives acting on behalf of The Crimson State Group aboard Hartsfield Market, the Federation Continues to dominate the skies of Lugh. 

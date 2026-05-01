@@ -4,12 +4,17 @@ title: Prism Senator will not be late, not even slightly
 slug: prism_senator_will_not_be_late_not_even_slightly
 date: '3301-03-06'
 source: GitHub
+summary: Senator Kahina Tijani Loren's Imperial Courier was denied docking clearance at Mars High. Official reports claim she attempted to dock without permission and refused hails. Unofficial trader reports suggest Mars High personnel routed her to the back of the queue unnecessarily, and she positioned her ship in the docking entrance refusing to move until granted a landing pad. Loren later stated 'As I said before, I don't like to be late.'
+player_impact: None directly; minor diplomatic incident during Loren's Federation visit highlighting tensions between Imperial and Federal administrative protocols.
+persons:
+- Kahina Tijani Loren
+groups: []
 locations:
 - Mars
 - Prism
+- Mars High
 topics:
-- ship
-- trade
+- diplomacy
 arc_id: prism-senator
 modern_impact: The Prism Senator's activities highlight cross-superpower political intrigue.
 legacy_weight: 2

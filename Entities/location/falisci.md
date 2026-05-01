@@ -8,9 +8,9 @@ mention_count: 6
 related_entities:
 - denton
 - ngaiawang
+- citizens-of-tradition
+- falisci-purple-gang
 - denton-patreus
-- denton-patreus-received
-- eotienses
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **6**
 
 - [[Denton]] (3 co-mentions)
 - [[Ngaiawang]] (3 co-mentions)
+- [[Citizens of Tradition]] (3 co-mentions)
+- [[Falisci Purple Gang]] (3 co-mentions)
 - [[Denton Patreus]] (2 co-mentions)
-- [[Denton Patreus received]] (1 co-mentions)
-- [[Eotienses]] (1 co-mentions)
 
 ## Biography
 

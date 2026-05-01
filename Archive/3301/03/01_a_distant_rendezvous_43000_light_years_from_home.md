@@ -4,11 +4,19 @@ title: A Distant Rendezvous – 43,000 Light Years from Home
 slug: a_distant_rendezvous_43000_light_years_from_home
 date: '3301-03-01'
 source: GitHub
+summary: CMDR R4nger0 and CMDR Kamzel rendezvoused at EACTAINDS GN-W C1-6 on the far side of the galaxy, 43,000 light years from home. R4nger0 was crossing the galaxy in a Sidewinder; Kamzel was returning from an 8-week survey along the galactic outer rim. It was the first human contact either had in weeks. They jointly surveyed the system, shared Lavian Brandy, and parted ways. Some observers called for the system to be renamed 'Rendezvous Point'.
+player_impact: None directly; inspirational exploration achievement demonstrating the spirit of deep space adventuring.
+persons:
+- CMDR R4nger0
+- CMDR Kamzel
+groups: []
+locations:
+- EACTAINDS GN-W C1-6
+- Scutum-Centaurus arm
 topics:
 - exploration
-- war
-modern_impact: Notable exploration achievement expanding the boundaries of known space.
-legacy_weight: 1
+modern_impact: Historic deep space rendezvous that inspired explorers and demonstrated the viability of extreme long-range expeditions.
+legacy_weight: 2
 significance: low
 ---
 

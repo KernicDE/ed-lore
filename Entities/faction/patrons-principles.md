@@ -2,24 +2,24 @@
 id: patrons-principles
 name: Patron's Principles
 type: faction
-first_seen_date: '3301-04-27'
+first_seen_date: '3301-03-27'
 last_seen_date: '3301-04-30'
-mention_count: 2
+mention_count: 3
 related_entities:
 - faveol-family
 - blossom-family
 - volungu
 - liaedin
-- federal-navy
+- sirius-corporation
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Patron's Principles
 
-First mentioned: **3301-04-27**  
+First mentioned: **3301-03-27**  
 Last mentioned: **3301-04-30**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
@@ -27,7 +27,7 @@ Total mentions: **2**
 - [[Blossom family]] (2 co-mentions)
 - [[Volungu]] (2 co-mentions)
 - [[Liaedin]] (2 co-mentions)
-- [[Federal Navy]] (1 co-mentions)
+- [[Sirius Corporation]] (1 co-mentions)
 
 ## Biography
 

@@ -4,8 +4,12 @@ title: Unity Starport Officially Opens in New Yembo
 slug: unity_starport_officially_opens_in_new_yembo
 date: '3301-03-05'
 source: GitHub
+summary: The first Deep Space Exploration Platform sponsored by the Explorers' Association and Universal Cartographics officially opened in New Yembo. Thousands of commanders provided materials for the Ocellus station, which took tens of thousands of workers just three weeks to complete. After debates between EA and UC committee members, the station was named Unity in honour of the collaborative effort.
+player_impact: Pilots who contributed materials helped build Unity Starport, a new deep-space exploration hub on the edges of human-occupied space.
+persons: []
 groups:
 - Universal Cartographics
+- Explorers' Association
 locations:
 - New Yembo
 topics:

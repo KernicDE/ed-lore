@@ -7,6 +7,7 @@ last_seen_date: '3301-03-05'
 mention_count: 2
 related_entities:
 - universal-cartographics
+- explorers-association
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,6 +21,7 @@ Total mentions: **2**
 ## Related
 
 - [[Universal Cartographics]] (2 co-mentions)
+- [[Explorers' Association]] (1 co-mentions)
 
 ## Biography
 

@@ -4,14 +4,20 @@ title: Falisci in Flames
 slug: falisci_in_flames
 date: '3301-03-04'
 source: GitHub
+summary: Imperial forces decimated the Falisci Purple Gang's fleet five days after the Citizens of Tradition declared war against them. Only a handful of pirates remain to defend their territory against the Citizens of Tradition and thousands of loyal Imperial citizens who flocked to Falisci. The Federally aligned Social Falisci Partnership is attempting to bolster the Purple Gang's numbers in a likely futile effort to stop Senator Patreus from taking control of the sector.
+player_impact: Pilots can support the Citizens of Tradition in Falisci against the Purple Gang, or aid the Social Falisci Partnership in defending pirate holdings.
+persons: []
+groups:
+- Citizens of Tradition
+- Falisci Purple Gang
+- Social Falisci Partnership
 locations:
 - Falisci
 topics:
 - piracy
-- ship
 - war
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies through proxy military actions.
 legacy_weight: 3
 significance: medium
 ---

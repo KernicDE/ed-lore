@@ -4,15 +4,21 @@ title: Federal Congress Calls Emergency Session
 slug: federal_congress_calls_emergency_session
 date: '3301-03-09'
 source: GitHub
+summary: The Federal Congress held an emergency session to address the Crimson State Group's attempt to force Lugh to secede. Lugh is home to 15.3 billion residents supported by vast natural resources. President Halsey condemned the Crimson State Group as religious fanatics and terrorists petitioning a foreign power to overthrow a democratically elected government, warning the Federation would respond with necessary force if the secession attempt continued.
+player_impact: None directly; heightened Federal military readiness in Lugh as the Federation prepares to counter the Crimson State Group's independence push.
+persons:
+- Jasmina Halsey
 groups:
 - Federal Congress
+- Crimson State Group
 locations:
 - Lugh
 topics:
 - terrorism
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- diplomacy
+modern_impact: Halsey's hardline stance against Lugh's independence movement set the stage for the brutal Federal military response that would follow.
+legacy_weight: 3
+significance: medium
 ---
 
 An emergency special session of The Federal Congress was held today to discuss how best to deal With the Crimson State Group’s attempt to force Lugh to secede from The Federation. 

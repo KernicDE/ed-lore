@@ -4,12 +4,18 @@ title: Explorers Needed for Alliance Colonisation Programme
 slug: explorers_needed_for_alliance_colonisation_programme
 date: '3301-03-27'
 source: GitHub
+summary: The Alliance announced a two-week exploration data collection initiative for a new colonisation programme launching later in the year. The Alliance criticised the galaxy's focus on greed and war, positioning colonisation as a path to a better future. Commanders are invited to deliver exploration data related to potential colony sites to Purple Power Interstellar aboard Ziemkiewicz Ring in Tsu.
+player_impact: Explorers can deliver exploration data to Ziemkiewicz Ring in Tsu to support the Alliance colonisation initiative and potentially earn rewards.
+persons: []
 groups:
 - Alliance
+- Purple Power Interstellar
+locations:
+- Tsu
+- Ziemkiewicz Ring
 topics:
 - exploration
-- war
-modern_impact: Notable exploration achievement expanding the boundaries of known space.
+modern_impact: The Alliance colonisation programme represented an early attempt to expand human settlement beyond occupied space through organised exploration.
 legacy_weight: 2
 significance: low
 ---

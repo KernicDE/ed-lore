@@ -4,16 +4,23 @@ title: The War for Lugh  The Turning Point
 slug: the_war_for_lugh_the_turning_point
 date: '3301-03-26'
 source: GitHub
+summary: The turning point in the Lugh war came during the Federation's attack on Read Gateway. Cormac Uí Laoghire personally led the defence, achieving the Crimson State Group's first victory after several days of fighting. The defence succeeded largely because the Federation ran low on weapons. The CSG then used intelligence from Operation Dullahan to attack Hartsfield Market. Despite Federal air superiority, the CSG tricked President Halsey into ordering a strike against Federal refugees, undermining her position.
+player_impact: Pilots who defended Read Gateway or participated in Operation Dullahan contributed to the turning point that shifted momentum toward the Crimson State Group.
+persons:
+- Cormac Uí Laoghire
+- Jasmina Halsey
+groups:
+- Crimson State Group
 locations:
-- Hartsfield
 - Lugh
+- Read Gateway
+- Hartsfield Market
 topics:
-- humanitarian
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
-legacy_weight: 3
-significance: medium
+modern_impact: The defence of Read Gateway and the Hartsfield operation marked the moment when the Lugh rebellion transitioned from defensive survival to offensive capability.
+legacy_weight: 4
+significance: high
 ---
 
 The turning point in the war came during the Federation’s attack on Read Gateway. 

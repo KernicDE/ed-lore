@@ -4,12 +4,18 @@ title: NVIDIA GeForce GTX Titan Black Prototypes Revealed
 slug: nvidia_geforce_gtx_titan_black_prototypes_revealed
 date: '3301-03-27'
 source: GitHub
+summary: NVIDIA labs, in association with Reynhardt IntelliSys, announced that prototypes of the GeForce GTX Titan Black graphics card are available from one exclusive outlet. The cutting-edge display module offers uncompromising performance and processing power. To celebrate the pre-release, NVIDIA is offering a competition where the first five pilots to sell a canister of prototypes back to NVIDIA HQ aboard Godel Ring will win a commercial grade model. Prototypes must be transported under Pilots Federation 'open play' rules to be eligible.
+player_impact: Pilots can hunt for NVIDIA GeForce GTX Titan Black prototype canisters and return them to Godel Ring for a chance to win a commercial grade model.
+persons: []
 groups:
 - Pilots Federation
+- NVIDIA
+- Reynhardt IntelliSys
+locations:
+- Godel Ring
 topics:
-- sport
-- war
-modern_impact: Competitive event for the pilot community.
+- technology
+modern_impact: The NVIDIA promotion was a meta-event blending in-universe technology with real-world gaming hardware marketing.
 legacy_weight: 1
 significance: low
 ---

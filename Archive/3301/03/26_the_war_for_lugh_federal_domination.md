@@ -4,19 +4,25 @@ title: The War for Lugh  Federal Domination
 slug: the_war_for_lugh_federal_domination
 date: '3301-03-26'
 source: GitHub
+summary: A retrospective on the first two weeks of the Lugh war. After Éamonn Uí Laoghire sought Alliance support for Lugh's independence, President Halsey ordered the Federal Navy to suppress the uprising. Federal pilots dominated the skies initially, with the Sons of Conn suffering heavy casualties. Guerrilla forces including the Dukes of Mikunn, Emperor's Grace, and East India Company kept Federal attention diverted while the CSG obtained intelligence and weapons. Despite CSG efforts, Federal forces tore through air defences and stormed Seega Port.
+player_impact: Pilots who joined the Federal side dominated the early stages of the Lugh war, while those supporting the CSG engaged in guerrilla tactics to slow the Federal advance.
+persons:
+- Éamonn Uí Laoghire
+- Jasmina Halsey
 groups:
 - Alliance
 - Federal Navy
+- Crimson State Group
+- Sons of Conn
+- Dukes of Mikunn
+- Emperor's Grace
+- East India Company
 locations:
 - Lugh
-- Lugh as an independent
+- Seega Port
 topics:
 - independence
-- sport
-- succession
 - war
-entities:
-- Jasmina Halsey ordered
 arc_id: lugh-independence
 modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3

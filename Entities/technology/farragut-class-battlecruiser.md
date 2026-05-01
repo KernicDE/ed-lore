@@ -1,19 +1,19 @@
 ---
 id: farragut-class-battlecruiser
-name: Farragut-class Battlecruiser
+name: Farragut-Class Battlecruiser
 type: technology
-first_seen_date: '3302-07-11'
-last_seen_date: '3303-09-22'
-mention_count: 11
+first_seen_date: '3301-03-11'
+last_seen_date: '3301-03-11'
+mention_count: 1
 ---
 
 <!-- AUTO-GENERATED -->
 
-# Farragut-class Battlecruiser
+# Farragut-Class Battlecruiser
 
-First mentioned: **3302-07-11**  
-Last mentioned: **3303-09-22**  
-Total mentions: **11**
+First mentioned: **3301-03-11**  
+Last mentioned: **3301-03-11**  
+Total mentions: **1**
 
 ## Related
 

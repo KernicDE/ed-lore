@@ -9,6 +9,8 @@ related_entities:
 - federal-navy
 - halsey-might-be-facing
 - smeaton
+- banki-gold-gang
+- gold-advanced-partners
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,6 +26,8 @@ Total mentions: **4**
 - [[Federal Navy]] (2 co-mentions)
 - [[Halsey might be facing]] (1 co-mentions)
 - [[Smeaton]] (1 co-mentions)
+- [[Banki Gold Gang]] (1 co-mentions)
+- [[Gold Advanced Partners]] (1 co-mentions)
 
 ## Biography
 

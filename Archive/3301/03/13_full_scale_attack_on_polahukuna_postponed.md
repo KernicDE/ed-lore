@@ -4,17 +4,20 @@ title: Full Scale Attack on Polahukuna Postponed
 slug: full_scale_attack_on_polahukuna_postponed
 date: '3301-03-13'
 source: GitHub
+summary: President Halsey's declaration of war diverted the FNS Nevermore from its planned attack on Polahukuna to the offensive against Lugh. Due to Operation Arm Chop, the Nevermore lacks a full fighter contingent and cannot depart for Lugh until its personal fleet is complete. Core Dynamics estimates six to seven days before the capital ship can join Federal forces, remaining at Hudson Dock until then.
+player_impact: None directly; the FNS Nevermore's delayed deployment affects Federal military planning for the Lugh offensive.
+persons:
+- Jasmina Halsey
 groups:
 - Core Dynamics
 - Federal Navy
 locations:
 - Lugh
+- Hudson Dock
+technologies:
+- FNS Nevermore
 topics:
-- construction
-- ship
 - war
-entities:
-- Halsey earlier today
 arc_id: lugh-independence
 modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
 legacy_weight: 3

@@ -4,18 +4,22 @@ title: Faith in President Falling
 slug: faith_in_president_falling
 date: '3301-03-23'
 source: GitHub
+summary: President Halsey's approval rating has crashed to 26%, with 43% strongly disapproving of her policies. Her mismanagement of the Lugh war has caused countless civilian deaths, and Hartsfield Market appears certain to fall to rebel forces. Equipment shortages caused by poor supply chain planning are being blamed for the Federation's failure to protect Hartsfield, which controls Lugh's satellite defence system.
+player_impact: Federal pilots in Lugh face deteriorating conditions and equipment shortages as Halsey's mismanagement undermines the war effort.
+persons:
+- Jasmina Halsey
+groups:
+- Crimson State Group
 locations:
-- Hartsfield
 - Lugh
+- Hartsfield
 topics:
-- independence
 - war
-entities:
-- Falling
+- politics
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
-legacy_weight: 3
-significance: medium
+modern_impact: Halsey's plummeting approval ratings during the Lugh war set the stage for her eventual political downfall and removal from office.
+legacy_weight: 4
+significance: high
 ---
 
 Recent popularity polls have scored The President at a shockingly low 26% approval rating, With 43% of those questioned stating that they strongly disapprove of The President’s current policy decisions. 

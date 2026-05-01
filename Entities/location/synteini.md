@@ -8,9 +8,9 @@ mention_count: 7
 related_entities:
 - lagerkvist-gateway
 - imperial-slavers-association
-- barham
-- zemina-torval
-- zemina-torval-where-it-counts--
+- future-of-synteini
+- william-sargent-vision
+- imperial-society
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **7**
 
 ## Related
 
-- [[Lagerkvist Gateway]] (3 co-mentions)
-- [[Imperial Slavers Association]] (2 co-mentions)
-- [[Barham]] (1 co-mentions)
-- [[Zemina Torval]] (1 co-mentions)
-- [[Zemina Torval where it counts -]] (1 co-mentions)
+- [[Lagerkvist Gateway]] (5 co-mentions)
+- [[Imperial Slavers Association]] (4 co-mentions)
+- [[Future of Synteini]] (1 co-mentions)
+- [[William Sargent Vision]] (1 co-mentions)
+- [[Imperial Society]] (1 co-mentions)
 
 ## Biography
 

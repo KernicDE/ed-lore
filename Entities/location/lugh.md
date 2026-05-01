@@ -6,9 +6,9 @@ first_seen_date: '3301-02-22'
 last_seen_date: '3301-03-26'
 mention_count: 21
 related_entities:
+- crimson-state-group
 - federal-navy
-- hartsfield
-- alliance
+- hartsfield-market
 - alioth
 - lugh-for-equality
 ---
@@ -23,9 +23,9 @@ Total mentions: **21**
 
 ## Related
 
-- [[Federal Navy]] (9 co-mentions)
-- [[Hartsfield]] (6 co-mentions)
-- [[Alliance]] (5 co-mentions)
+- [[Crimson State Group]] (14 co-mentions)
+- [[Federal Navy]] (10 co-mentions)
+- [[Hartsfield Market]] (6 co-mentions)
 - [[Alioth]] (5 co-mentions)
 - [[Lugh for Equality]] (5 co-mentions)
 

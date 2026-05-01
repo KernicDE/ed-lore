@@ -4,17 +4,19 @@ title: Rebels Declare War on the Federation in 78 Ursae Majoris
 slug: rebels_declare_war_on_the_federation_in_78_ursae_majoris
 date: '3301-03-17'
 source: GitHub
+summary: The system of 78 Ursae Majoris, home to over 10 billion people, erupted into civil war hours after news broke that it planned to secede from the Federation. Local farmer Gryph Jones criticised both the revolutionaries and the Federal government, suggesting the Federation's focus on distant conflicts like Lugh and Onionhead had left frontier systems like his neglected.
+player_impact: Pilots may encounter conflict in 78 Ursae Majoris as rebels and Federal forces clash over secession.
+persons:
+- Gryph Jones
+groups: []
 locations:
 - 78 Ursae Majoris
 - Lugh
-- The
 topics:
-- crime
 - independence
-- narcotics
 - war
 arc_id: lugh-independence
-modern_impact: The Lugh independence movement challenges Federal authority and tests the Alliance's non-intervention principles.
+modern_impact: The 78 Ursae Majoris rebellion demonstrated how Federal preoccupation with distant wars like Lugh created instability closer to home.
 legacy_weight: 3
 significance: medium
 ---

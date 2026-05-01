@@ -22,7 +22,7 @@ Total mentions: **1**
 ## Related
 
 - [[Sol]] (1 co-mentions)
-- [[Scutum-Centaurus Arm]] (1 co-mentions)
+- [[Scutum-Centaurus arm]] (1 co-mentions)
 - [[Styx]] (1 co-mentions)
 
 ## Biography

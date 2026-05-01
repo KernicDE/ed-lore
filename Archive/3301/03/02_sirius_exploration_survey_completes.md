@@ -4,8 +4,10 @@ title: Sirius Exploration Survey Completes
 slug: sirius_exploration_survey_completes
 date: '3301-03-02'
 source: GitHub
+summary: The Sirius Corporation announced the completion of the reconnaissance phase of its latest colonisation project. Hundreds of scout ships gathered data on tens of thousands of potential candidate systems, with several dozen promising targets identified. Scientists, sociologists and logistics officers are analysing the data to select the best candidates for colonisation.
+player_impact: None directly; the survey results may lead to new colonisation opportunities in the surveyed regions.
+persons: []
 groups:
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Sirius
@@ -13,8 +15,7 @@ topics:
 - corporate expansion
 - exploration
 - research
-- ship
-modern_impact: Ship review and release information for the pilot community.
+modern_impact: Sirius Corporation's systematic colonisation surveys established the foundation for future expansion into uninhabited systems.
 legacy_weight: 2
 significance: low
 ---

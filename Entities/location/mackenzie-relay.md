@@ -9,8 +9,8 @@ related_entities:
 - cemiess
 - imperial-internal-security-service
 - achenar
+- stop-slavery-stupid
 - emperors-dawn
-- cemiess-empire-party
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **11**
 - [[Cemiess]] (11 co-mentions)
 - [[Imperial Internal Security Service]] (3 co-mentions)
 - [[Achenar]] (3 co-mentions)
+- [[Stop Slavery Stupid]] (2 co-mentions)
 - [[Emperor's Dawn]] (2 co-mentions)
-- [[Cemiess Empire Party]] (2 co-mentions)
 
 ## Biography
 

@@ -6,11 +6,11 @@ first_seen_date: '3301-03-02'
 last_seen_date: '3301-03-26'
 mention_count: 5
 related_entities:
+- crimson-state-group
 - lugh
 - federal-navy
-- hartsfield
+- hartsfield-market
 - federal-congress
-- alioth
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **5**
 
 ## Related
 
+- [[Crimson State Group]] (5 co-mentions)
 - [[Lugh]] (5 co-mentions)
 - [[Federal Navy]] (3 co-mentions)
-- [[Hartsfield]] (3 co-mentions)
+- [[Hartsfield Market]] (3 co-mentions)
 - [[Federal Congress]] (2 co-mentions)
-- [[Alioth]] (1 co-mentions)
 
 ## Biography
 

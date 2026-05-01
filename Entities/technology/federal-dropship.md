@@ -2,18 +2,18 @@
 id: federal-dropship
 name: Federal Dropship
 type: technology
-first_seen_date: '3301-09-07'
+first_seen_date: '3301-03-11'
 last_seen_date: '3301-09-07'
-mention_count: 1
+mention_count: 2
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Federal Dropship
 
-First mentioned: **3301-09-07**  
+First mentioned: **3301-03-11**  
 Last mentioned: **3301-09-07**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 

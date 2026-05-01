@@ -4,11 +4,22 @@ title: Alliance Terraforming Initiative Set to Enter Final Stage
 slug: alliance_terraforming_initiative_set_to_enter_final_stage
 date: '3301-03-03'
 source: GitHub
+summary: The Big G Corporation and the Alliance of Independent Systems announced that a dozen planets in the Alliance terraforming programme are ready for final biochemical transformation. The first set includes Djaujas A 1, Khona 3, Dohkwithi A 1, Hip 54692 3 and Milelbis 4. Big G Corp will handle the process using their patented World Blending Technology, while independent contractors are encouraged to visit Big G representatives to fill stock orders.
+player_impact: Pilots can visit Big G representatives to take advantage of stock orders for the terraforming programme.
+persons: []
 groups:
 - Alliance
+- Big G Corporation
+- Alliance of Independent Systems
+locations:
+- Djaujas
+- Khona
+- Dohkwithi
+- Hip 54692
+- Milelbis
 topics:
 - corporate expansion
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Alliance terraforming initiatives demonstrated the superpower's commitment to expanding habitable worlds through corporate partnerships.
 legacy_weight: 2
 significance: low
 ---

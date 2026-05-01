@@ -2,14 +2,14 @@
 id: harvestport
 name: Harvestport
 type: location
-first_seen_date: '3301-04-02'
+first_seen_date: '3301-03-19'
 last_seen_date: '3301-04-02'
-mention_count: 1
+mention_count: 3
 related_entities:
-- tanmark-defence-force
 - kappa-fornacis-farmers-union
 - kappa-fornacis
 - panem
+- tanmark-defence-force
 - tanmark
 ---
 
@@ -17,16 +17,16 @@ related_entities:
 
 # Harvestport
 
-First mentioned: **3301-04-02**  
+First mentioned: **3301-03-19**  
 Last mentioned: **3301-04-02**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
+- [[Kappa Fornacis Farmers Union]] (3 co-mentions)
+- [[Kappa Fornacis]] (3 co-mentions)
+- [[Panem]] (3 co-mentions)
 - [[Tanmark Defence Force]] (1 co-mentions)
-- [[Kappa Fornacis Farmers Union]] (1 co-mentions)
-- [[Kappa Fornacis]] (1 co-mentions)
-- [[Panem]] (1 co-mentions)
 - [[Tanmark]] (1 co-mentions)
 
 ## Biography

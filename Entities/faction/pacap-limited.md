@@ -24,7 +24,7 @@ Total mentions: **1**
 ## Related
 
 - [[Brewer Corporation]] (1 co-mentions)
-- [[Explorer's Association]] (1 co-mentions)
+- [[Explorers' Association]] (1 co-mentions)
 - [[Universal Cartographics]] (1 co-mentions)
 - [[Kaushpoos]] (1 co-mentions)
 - [[Neville Horizons]] (1 co-mentions)

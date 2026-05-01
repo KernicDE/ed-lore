@@ -4,16 +4,21 @@ title: Falisci  Democracy Denied
 slug: falisci_democracy_denied
 date: '3301-03-27'
 source: GitHub
+summary: Senator Patreus and the Citizens of Tradition defeated the Falisci Purple Gang in a week-long war, putting the gang's leadership in chains and its members into Imperial slavery. Then the Social Falisci Party, backed by Federal squadrons, attempted to exert influence but was repelled by Imperial pilots. With the Federation retreating, Falisci remains under Imperial control despite devastation and the enslavement of its former rulers.
+player_impact: Pilots can support Imperial forces in maintaining control of Falisci or assist Federal-backed groups attempting to challenge Imperial dominance.
+persons:
+- Denton Patreus
+groups:
+- Citizens of Tradition
+- Falisci Purple Gang
+- Social Falisci Party
 locations:
 - Falisci
-- In recent weeks the tiny
 topics:
-- ship
-- slavery
-- succession
 - war
+- slavery
 arc_id: falisci-conflict
-modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies.
+modern_impact: The Falisci conflict demonstrates Senator Patreus's aggressive expansionist policies and the use of Imperial slavery as a tool of conquest.
 legacy_weight: 3
 significance: medium
 ---

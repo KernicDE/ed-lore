@@ -4,17 +4,22 @@ title: Internal Strife Strikes Tanmark
 slug: internal_strife_strikes_tanmark
 date: '3301-03-03'
 source: GitHub
+summary: Conflict broke out between the Defence Force of Tanmark and the Tanmark Posse criminal gang, the main force behind Lucan Onionhead cultivation in hidden facilities on Luca. Fighting remained confined to Luca's surface as security forces raided Posse holdings. The conflict arose after the Posse misled the Defence Force into believing Onionhead cultivation would be short-term, but the crop was genetically modified to prevent natural offspring, prompting pre-emptive action to prevent Luca suffering Panem's fate.
+player_impact: Pilots in Tanmark may encounter heightened security activity. The Onionhead trade in the system is being disrupted.
+persons: []
+groups:
+- Defence Force of Tanmark
+- Tanmark Posse
 locations:
-- News is coming out of the Tanmark
-- Panem
 - Tanmark
+- Luca
+- Panem
 topics:
 - crime
 - narcotics
-- safety
 - war
-modern_impact: Pilot safety initiative with potential regulatory implications for starship design.
-legacy_weight: 1
+modern_impact: Tanmark's internal conflict over Onionhead cultivation demonstrated the difficulty of controlling narcotics production even within law enforcement jurisdictions.
+legacy_weight: 2
 significance: low
 ---
 

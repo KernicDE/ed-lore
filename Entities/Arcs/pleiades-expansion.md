@@ -24,7 +24,7 @@ Articles: **37**
 ## Key Figures
 
 - [[Pleiades Resource Enterprise]] (14 mentions)
-- [[Explorer's Association]] (6 mentions)
+- [[Explorers' Association]] (7 mentions)
 - [[Merope Expeditionary Fleet]] (6 mentions)
 - [[Ant Hill Mob]] (6 mentions)
 - [[Federation]] (4 mentions)

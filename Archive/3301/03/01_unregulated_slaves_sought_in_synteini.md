@@ -4,14 +4,19 @@ title: Unregulated Slaves Sought in Synteini
 slug: unregulated_slaves_sought_in_synteini
 date: '3301-03-01'
 source: GitHub
+summary: The Imperial Slavers Association, in conjunction with Senator Zemina Torval, opened a new slave training facility aboard Lagerkvist Gateway in Synteini. The facility features skill implantation terminals and body sculpting shops. Commander Barham of the ISA stated the centre will demonstrate how to bring unregulated workforce up to Imperial standards.
+player_impact: Pilots can deliver unregulated slaves to the ISA training facility at Lagerkvist Gateway in Synteini.
+persons:
+- Commander Barham
+- Zemina Torval
+groups:
+- Imperial Slavers Association
 locations:
 - Synteini
+- Lagerkvist Gateway
 topics:
 - slavery
-entities:
-- Barham
-- Zemina Torval
-modern_impact: GalNet community report documenting current events in the galaxy.
+modern_impact: Expansion of Imperial slavery infrastructure under Torval's patronage reinforced traditional Imperial labour practices.
 legacy_weight: 2
 significance: low
 ---

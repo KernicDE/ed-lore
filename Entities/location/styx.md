@@ -23,7 +23,7 @@ Total mentions: **1**
 
 - [[Sol]] (1 co-mentions)
 - [[Centaurus Reach]] (1 co-mentions)
-- [[Scutum-Centaurus Arm]] (1 co-mentions)
+- [[Scutum-Centaurus arm]] (1 co-mentions)
 
 ## Biography
 
