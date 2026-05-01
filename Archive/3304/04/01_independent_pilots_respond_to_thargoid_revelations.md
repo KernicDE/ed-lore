@@ -23,16 +23,16 @@ legacy_weight: 4
 significance: high
 ---
 
-[[Independent]] Pilots Respond to [[Thargoid]] Revelations
+Independent Pilots Respond to Thargoid Revelations
 
 
-Following [[The]] recent [[Aegis]] report detailing the Thargoids’ history, [[Many]] members of the [[Pilots Federation]] have made public statements. 
+Following The recent Aegis report detailing the Thargoids’ history, Many members of the Pilots Federation have made public statements. 
 
-“Everything is different now,” said [[One]] Commander. “It was disturbing enough when the Thargoids returned. To find out they’ve been around for millions of years, and that even the Guardians had trouble stopping them… It’s like being told that the ancient gods, the vengeful ones who smite from above, were real all along.” 
+“Everything is different now,” said One Commander. “It was disturbing enough when the Thargoids returned. To find out they’ve been around for millions of years, and that even the Guardians had trouble stopping them… It’s like being told that the ancient gods, the vengeful ones who smite from above, were real all along.” 
 
-[[Other]] pilots had more practical concerns about the impact on the galactic community: 
+Other pilots had more practical concerns about the impact on the galactic community: 
 
-“What worries me is when they start up their strip-mining operation, [[Which]] seems to be on the cards,” said an experienced trader. “I transport ores and metals between [[Dozens of]] planets. If those planets end up being gutted of minerals, that’s my livelihood gone out the airlock.” 
+“What worries me is when they start up their strip-mining operation, Which seems to be on the cards,” said an experienced trader. “I transport ores and metals between Dozens of planets. If those planets end up being gutted of minerals, that’s my livelihood gone out the airlock.” 
 
 There were also emotional comments from those who value space exploration: 
 
@@ -40,4 +40,4 @@ There were also emotional comments from those who value space exploration:
 
 However, one seasoned Commander struck a belligerent tone: 
 
-“All the Aegis report tells us is that these alien scumbags can be beaten. The Guardians did it once – now it’s [[Our]] turn. I’ve fought the Thargoids in the Pleiades and I know they’re not invincible. [[With]] Aegis’s new weapons and now their megaships, we can make those insects wish they’d stayed in their hives.”
+“All the Aegis report tells us is that these alien scumbags can be beaten. The Guardians did it once – now it’s Our turn. I’ve fought the Thargoids in the Pleiades and I know they’re not invincible. With Aegis’s new weapons and now their megaships, we can make those insects wish they’d stayed in their hives.”

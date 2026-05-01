@@ -35,10 +35,10 @@ legacy_weight: 3
 significance: medium
 ---
 
-*[[Pilots Federation]] ALERT*
-[[The]] corporate faction [[Jupiter]] Division has been defeated by the Silver Legal Group in the Ts'ao [[Tach]] system.
-The breakaway faction from [[Core Dynamics]] was unable to resist efforts by [[Its]] parent company to recover ships and resources. Jupiter Division will soon be subsumed by Core Enterprises, a subsidiary of Core Dynamics.
-[[Owen McKenna]], the CEO of Core Dynamics, declared:
-“Thanks to the Silver Legal Group and [[Other]] loyal allies of the Federation, we have finally crushed [[This]] criminal [[Enterprise]]. Let this be an end to the delusions of [[Jupiter Rochester]].”
-[[Many]] newsfeeds believe that Jupiter Division’s defeat will have a negative impact on the corporatist movement that has recently emerged within some Federal systems.
+*Pilots Federation ALERT*
+The corporate faction Jupiter Division has been defeated by the Silver Legal Group in the Ts'ao Tach system.
+The breakaway faction from Core Dynamics was unable to resist efforts by Its parent company to recover ships and resources. Jupiter Division will soon be subsumed by Core Enterprises, a subsidiary of Core Dynamics.
+Owen McKenna, the CEO of Core Dynamics, declared:
+“Thanks to the Silver Legal Group and Other loyal allies of the Federation, we have finally crushed This criminal Enterprise. Let this be an end to the delusions of Jupiter Rochester.”
+Many newsfeeds believe that Jupiter Division’s defeat will have a negative impact on the corporatist movement that has recently emerged within some Federal systems.
 Director Theodore Sullivan of the Silver Legal Group confirmed that those who fought on their side can now collect payments from the Iron Wings of Justice megaship in the Ts'ao Tach system.

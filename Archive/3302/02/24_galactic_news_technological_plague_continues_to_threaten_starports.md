@@ -36,38 +36,38 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Technological Plague [[Continues]] to Threaten Starports
+Galactic News: Technological Plague Continues to Threaten Starports
 
 
-It has been over a month since personnel at [[Obsidian Orbital]] reported that meta-alloys had been used to alleviate [[The]] starport's ongoing technical issues. Since then, there has been widespread speculation that the meta-alloys might hold the key to eradicating the technological plague that has blighted so [[Many]] starports in recent months. [[But the]] only attempt to verify the theory was brought to an abrupt end [[With the]] mysterious disappearance of [[Professor Ishmael Palin]], who had been researching the meta-alloys. 
+It has been over a month since personnel at Obsidian Orbital reported that meta-alloys had been used to alleviate The starport's ongoing technical issues. Since then, there has been widespread speculation that the meta-alloys might hold the key to eradicating the technological plague that has blighted so Many starports in recent months. But the only attempt to verify the theory was brought to an abrupt end With the mysterious disappearance of Professor Ishmael Palin, who had been researching the meta-alloys. 
 
-A member of the technical team at Irens Dock in the Manite system, [[One]] of the latest starports to experience technical issues, commented on the situation: 
+A member of the technical team at Irens Dock in the Manite system, One of the latest starports to experience technical issues, commented on the situation: 
 
-"When I heard the news from Obsidian Orbital I expected people to start taking meta-alloys to the [[Other]] affected starports, but that hasn't happened. Maybe people are being cautious - after all, we don't know for sure that the meta-alloys can help. But if you ask me, it's worth a shot." 
+"When I heard the news from Obsidian Orbital I expected people to start taking meta-alloys to the Other affected starports, but that hasn't happened. Maybe people are being cautious - after all, we don't know for sure that the meta-alloys can help. But if you ask me, it's worth a shot." 
 
 The latest data on affected starports follows. 
 
-Starports where services have been [[Suspended]]: 
+Starports where services have been Suspended: 
 
 Ackerman Market, Eravate 
 
 von Bellingshausen Port, Almar 
 
-Haack [[Gateway]], Halbangaay 
+Haack Gateway, Halbangaay 
 
-Gabriel [[Enterprise]], [[Harma]] 
+Gabriel Enterprise, Harma 
 
-[[Gurragchaa Gateway]], [[Warkushanui]] 
+Gurragchaa Gateway, Warkushanui 
 
-[[Gaiman Dock]], [[49 Arietis]] 
+Gaiman Dock, 49 Arietis 
 
-[[Weyn Dock]], [[64 Arietis]] 
+Weyn Dock, 64 Arietis 
 
-Korolyov Hub, [[Arawere]] 
+Korolyov Hub, Arawere 
 
-Lobachevsky Outpost, [[Pic Tok]] 
+Lobachevsky Outpost, Pic Tok 
 
-Carter Port, [[Rhea]] 
+Carter Port, Rhea 
 
 Starports experiencing technical issues: 
 
@@ -75,32 +75,32 @@ Irens Dock, Manite
 
 Bloch Vision, Loperada 
 
-Skvortsov Orbital, 63 G. [[Capricorni]] 
+Skvortsov Orbital, 63 G. Capricorni 
 
 Tall Enterprise, Ngalia 
 
 Love Ring,  Evejitaka 
 
-al-Din Prospect, [[Alpha Centauri]] 
+al-Din Prospect, Alpha Centauri 
 
-[[Robigo Mines]], [[Robigo]] 
+Robigo Mines, Robigo 
 
-Saunders's Dive, [[Wolf 1301]] 
+Saunders's Dive, Wolf 1301 
 
 Alexander Freeport, HIP 18843 
 
-[[Coats Hub]], Warkushanui 
+Coats Hub, Warkushanui 
 
-[[Bond Hub]], [[Varati]] 
+Bond Hub, Varati 
 
 Hinz Hub, Ngobe 
 
 Tsunenaga Dock, Iapodes 
 
-Li Qing Jao, [[Sol]] 
+Li Qing Jao, Sol 
 
-Ray Gateway, [[Diaguandri]] 
+Ray Gateway, Diaguandri 
 
-Vizcaino Enterprise, [[Nganji]] 
+Vizcaino Enterprise, Nganji 
 
-Talos 2, [[Peregrina]]
+Talos 2, Peregrina

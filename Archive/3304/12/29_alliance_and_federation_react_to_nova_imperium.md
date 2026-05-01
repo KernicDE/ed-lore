@@ -30,17 +30,17 @@ related_uuids:
 - ee4ca040-662c-5763-b220-4db105a7fd77
 ---
 
-[[Alliance]] and Federation React to [[Nova Imperium]]
+Alliance and Federation React to Nova Imperium
 
 
-[[The]] leaders of the Alliance and the Federation have commented on the rise of the isolationist group Nova Imperium. 
+The leaders of the Alliance and the Federation have commented on the rise of the isolationist group Nova Imperium. 
 
-Prime Minister [[Edmund Mahon told]] the Alliance Assembly: 
+Prime Minister Edmund Mahon told the Alliance Assembly: 
 
-“The civil unrest in the Empire is an internal matter, but it would be a major concern if it resulted [[In a]] policy change regarding inter-superpower cooperation. We are therefore watching the situation closely.” 
+“The civil unrest in the Empire is an internal matter, but it would be a major concern if it resulted In a policy change regarding inter-superpower cooperation. We are therefore watching the situation closely.” 
 
-In Congress, [[President Zachary Hudson]] said: 
+In Congress, President Zachary Hudson said: 
 
-“If Nova Imperium comes to power and the Empire ceases contributions to [[Aegis]], [[Our]] combined defences against the [[Thargoid]] threat will be jeopardised. In such a case, the Federation would be forced to intervene in order to safeguard humanity’s future.” 
+“If Nova Imperium comes to power and the Empire ceases contributions to Aegis, Our combined defences against the Thargoid threat will be jeopardised. In such a case, the Federation would be forced to intervene in order to safeguard humanity’s future.” 
 
-[[Independent]] sources have confirmed that [[Federal Navy]] resupplies have increased in frequency. Fleet manoeuvres have also taken place in regions bordering Imperial territory.
+Independent sources have confirmed that Federal Navy resupplies have increased in frequency. Fleet manoeuvres have also taken place in regions bordering Imperial territory.

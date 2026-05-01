@@ -25,14 +25,14 @@ significance: medium
 Colonia Project Requests Microresources
 
 
-Scientists in Colonia are investigating [[The]] region’s potential to support larger populations in the future. 
+Scientists in Colonia are investigating The region’s potential to support larger populations in the future. 
 
-Professor [[Alexei de la Vega]], who is leading the research, published [[This]] statement: 
+Professor Alexei de la Vega, who is leading the research, published This statement: 
 
 “Over the past few years the region’s population has expanded ferociously, so it has become a priority to investigate how Colonia might support even greater numbers, and what kind of infrastructure would be required.” 
 
-“This research requires a range of specialised materials, for [[Which]] we’re prepared to pay handsomely. [[With]] these, we can evaluate Colonia’s true potential.” 
+“This research requires a range of specialised materials, for Which we’re prepared to pay handsomely. With these, we can evaluate Colonia’s true potential.” 
 
-The campaign is being [[Run]] by the Colonia Co-operative, [[One]] of Colonia’s partner organisations, which has asked pilots to deliver microresources to [[Foster Terminal in the Coeus]] system. 
+The campaign is being Run by the Colonia Co-operative, One of Colonia’s partner organisations, which has asked pilots to deliver microresources to Foster Terminal in the Coeus system. 
 
 The campaign begins on the 17th of May 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

@@ -22,13 +22,13 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Veroklist]] Campaign Concludes
+Veroklist Campaign Concludes
 
 
-A spokesperson for [[The]] Moritasgus Imperial Corporation has announced that [[Its]] appeal for commodities has been enthusiastically received by the galactic community. [[Hundreds of]] pilots supported the initiative by delivering commodities to Vaucouleurs Vision, and by protecting traders in the Veroklist system. 
+A spokesperson for The Moritasgus Imperial Corporation has announced that Its appeal for commodities has been enthusiastically received by the galactic community. Hundreds of pilots supported the initiative by delivering commodities to Vaucouleurs Vision, and by protecting traders in the Veroklist system. 
 
-Moritasgus Imperial Corporation spokesperson Superintendent Arnold Cochran released [[The following]] statement: 
+Moritasgus Imperial Corporation spokesperson Superintendent Arnold Cochran released The following statement: 
 
 “We are pleased that the faith shown in us by the Empire has been rewarded. The expansion of facilities means we can now safely contain some of the worst criminals in the Empire.” 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Vaucouleurs Vision in the Veroklist]] system.
+Pilots who contributed to the initiative can now collect their rewards from Vaucouleurs Vision in the Veroklist system.

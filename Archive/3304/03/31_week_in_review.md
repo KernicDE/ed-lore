@@ -38,14 +38,14 @@ significance: high
 Week in Review
 
 
-Here are [[This]] week’s major stories. 
+Here are This week’s major stories. 
 
-[[Aegis]] has constructed two megaships, [[The]] Acropolis and the Vanguard, to help counter the [[Thargoid]] threat. These ships will coordinate anti-Thargoid operations and support [[Independent]] pilots. Aegis has confirmed that both vessels will periodically relocate to wherever they can be strategically effective. 
+Aegis has constructed two megaships, The Acropolis and the Vanguard, to help counter the Thargoid threat. These ships will coordinate anti-Thargoid operations and support Independent pilots. Aegis has confirmed that both vessels will periodically relocate to wherever they can be strategically effective. 
 
-Meanwhile, [[Many]] members of the [[Pilots Federation]] have responded to the recent Aegis report detailing the Thargoids’ history. [[One]] Commander admitted he was disturbed to discover that the Thargoids had been around for millions of years, and that even the Guardians had [[Found]] it difficult to stop them. But [[Other]] pilots were more forthright, [[With]] one reminding the galactic community that the Thargoids are not invincible. 
+Meanwhile, Many members of the Pilots Federation have responded to the recent Aegis report detailing the Thargoids’ history. One Commander admitted he was disturbed to discover that the Thargoids had been around for millions of years, and that even the Guardians had Found it difficult to stop them. But Other pilots were more forthright, With one reminding the galactic community that the Thargoids are not invincible. 
 
-In other news, conflict has erupted between [[Ross 310]] Natural Services, the controlling faction of the Ross 310 system, and the Ross 310 Cartel, a criminal organisation also based in the region. It is understood that the Ross 310 Cartel is attempting to overthrow Ross 310 Natural Services and assume control of the system. Both organisations have issued calls for aid, appealing to independent combat pilots for support. 
+In other news, conflict has erupted between Ross 310 Natural Services, the controlling faction of the Ross 310 system, and the Ross 310 Cartel, a criminal organisation also based in the region. It is understood that the Ross 310 Cartel is attempting to overthrow Ross 310 Natural Services and assume control of the system. Both organisations have issued calls for aid, appealing to independent combat pilots for support. 
 
-Finally, the EG Union has announced that [[Its]] campaign to build a shipyard in Ross 720 has received the wholehearted support of the galactic community. [[Hundreds of]] pilots supported the initiative by delivering commodities to Lyakhov Dock, and by eliminating agitators in [[Ross 720 and surrounding]] systems, thereby ensuring the safety of traders. 
+Finally, the EG Union has announced that Its campaign to build a shipyard in Ross 720 has received the wholehearted support of the galactic community. Hundreds of pilots supported the initiative by delivering commodities to Lyakhov Dock, and by eliminating agitators in Ross 720 and surrounding systems, thereby ensuring the safety of traders. 
 
 And those are the main stories this week.

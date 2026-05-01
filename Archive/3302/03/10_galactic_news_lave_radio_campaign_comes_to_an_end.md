@@ -11,11 +11,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: [[Lave]] Radio Campaign Comes to an End
+Galactic News: Lave Radio Campaign Comes to an End
 
 
-[[The Lave]] Radio Network has announced that [[Its]] campaign to create a new interstellar transmitter has been a resounding success. [[The]] galactic community responded enthusiastically to the campaign, delivering large quantities of [[Cherbones]] Blood Crystals to Lave Station for use in the new transmitter. [[In a]] brief statement, the network extended its gratitude to those who supported the campaign: 
+The Lave Radio Network has announced that Its campaign to create a new interstellar transmitter has been a resounding success. The galactic community responded enthusiastically to the campaign, delivering large quantities of Cherbones Blood Crystals to Lave Station for use in the new transmitter. In a brief statement, the network extended its gratitude to those who supported the campaign: 
 
-"We would like to thank all those who responded to [[Our]] appeal, and helped to keep us broadcasting. We promise to take better care of [[This]] transmitter, and not to use its parts to fix the vending machine." 
+"We would like to thank all those who responded to Our appeal, and helped to keep us broadcasting. We promise to take better care of This transmitter, and not to use its parts to fix the vending machine." 
 
 The Lave Radio Network confirmed that the new transmitter would be operational within a matter of hours.

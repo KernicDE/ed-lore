@@ -36,13 +36,13 @@ legacy_weight: 4
 significance: medium
 ---
 
-*[[Pilots Federation]] ALERT*
-Data deliveries are required by competing initiatives to increase or decrease civilian surveillance in [[The]] Federation. 
-[[President Zachary Hudson]] has asked the public to contribute to making the Proactive Detection Bureau more effective:
-“The PDB requires access to lesser-known comms channels where terrorists and criminals lurk. Supplying it [[With]] data from multiple sources will allow us to root out more potential threats.”
-To counter [[This]] campaign, [[Shadow President]] [[Felicia Winters aims]] to protect personal communications from being intercepted:
+*Pilots Federation ALERT*
+Data deliveries are required by competing initiatives to increase or decrease civilian surveillance in The Federation. 
+President Zachary Hudson has asked the public to contribute to making the Proactive Detection Bureau more effective:
+“The PDB requires access to lesser-known comms channels where terrorists and criminals lurk. Supplying it With data from multiple sources will allow us to root out more potential threats.”
+To counter This campaign, Shadow President Felicia Winters aims to protect personal communications from being intercepted:
 “My duty is to help citizens preserve their constitutional right to privacy. If enough data can be gathered for baseline testing, we will distribute legal technology and techniques to secure against government intrusion.”
-Both campaigns require deliveries of [[The following]] data types: anomalous bulk scan data, exceptional scrambled emission data, specialised legacy firmware and unusual encrypted files.
-To support President Hudson, pilots should deliver data to [[Gresley Dock in the Nanomam]] system.
-To support Shadow President Winters, pilots should deliver data to [[Ito Orbital in the Rhea]] system.
-Political analysts believe that since Hudson and Winters are organising these projects personally, there may be repercussions for the security and stability of the systems where [[Each]] has influence.
+Both campaigns require deliveries of The following data types: anomalous bulk scan data, exceptional scrambled emission data, specialised legacy firmware and unusual encrypted files.
+To support President Hudson, pilots should deliver data to Gresley Dock in the Nanomam system.
+To support Shadow President Winters, pilots should deliver data to Ito Orbital in the Rhea system.
+Political analysts believe that since Hudson and Winters are organising these projects personally, there may be repercussions for the security and stability of the systems where Each has influence.

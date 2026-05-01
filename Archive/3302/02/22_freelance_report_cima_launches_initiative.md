@@ -14,11 +14,11 @@ significance: low
 Freelance Report: CIMA Launches Initiative
 
 
-Benjamin Gorrister, founder of [[The]] Carmack Intergalactic Mining Association, has announced an initiative to discover the location of pristine metallic rings. [[With]] nearly 300 locations identified so [[Far]], the CIMA is currently leading the way in data collection on pristine metallic rings. [[In a]] statement, Gorrister said: 
+Benjamin Gorrister, founder of The Carmack Intergalactic Mining Association, has announced an initiative to discover the location of pristine metallic rings. With nearly 300 locations identified so Far, the CIMA is currently leading the way in data collection on pristine metallic rings. In a statement, Gorrister said: 
 
-"In memory of George Washington Carmack, who triggered the greatest gold rush in human history, we are offering rewards to all Commanders who provide us [[With the]] location of new pristine metallic rings. [[Each]] new discovery will be rewarded with 100,000 credits. We will give an additional 30 million credits to the pilot contributing the most information, 20 million credits to the second-place contributor, and 10 million credits to the third-place contributor. May the best prospector win!" 
+"In memory of George Washington Carmack, who triggered the greatest gold rush in human history, we are offering rewards to all Commanders who provide us With the location of new pristine metallic rings. Each new discovery will be rewarded with 100,000 credits. We will give an additional 30 million credits to the pilot contributing the most information, 20 million credits to the second-place contributor, and 10 million credits to the third-place contributor. May the best prospector win!" 
 
-The event will [[Run]] for 42 days, starting on the 21st of February 3302. 
+The event will Run for 42 days, starting on the 21st of February 3302. 
 
 Karen Keish 
 

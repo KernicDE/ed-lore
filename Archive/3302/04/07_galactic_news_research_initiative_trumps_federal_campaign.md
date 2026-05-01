@@ -17,10 +17,10 @@ significance: low
 Galactic News: Research Initiative Trumps Federal Campaign
 
 
-[[The]] Federal campaign against [[Onionhead]] suffered a setback [[This]] week when [[Its]] 'Hand in the Head' initiative received only modest support from the galactic community. Despite the best efforts of Federal campaigners, a competing scheme to support [[Further]] research into the drug proved more popular [[With the]] public. But although the Federal campaign enjoyed only limited success, 'Onionhead tzar' Edward Bores remained bullish. 
+The Federal campaign against Onionhead suffered a setback This week when Its 'Hand in the Head' initiative received only modest support from the galactic community. Despite the best efforts of Federal campaigners, a competing scheme to support Further research into the drug proved more popular With the public. But although the Federal campaign enjoyed only limited success, 'Onionhead tzar' Edward Bores remained bullish. 
 
 "It's true that we hoped to receive more support," said Bores, "but this is still a significant success. Thousands of tonnes of Onionhead have now been removed from circulation, weakening the criminal networks that thrive on the sale and distribution of this dangerous drug." 
 
-Meanwhile, the [[Altair]] Purple Mob, [[Which]] organised the competing campaign, expressed its satisfaction at the outcome: 
+Meanwhile, the Altair Purple Mob, Which organised the competing campaign, expressed its satisfaction at the outcome: 
 
 "Outlawing substances like Onionhead serves only to criminalise otherwise law-abiding citizens and put money in the pockets of criminals. Thanks to the galactic community, we now have the means to conduct further research into Onionhead and prove beyond doubt that not only is it harmless, it possesses considerable health benefits."

@@ -34,10 +34,10 @@ significance: high
 ---
 
 
-[[The]] [[Independent]] inquiry into [[Aegis]] has delivered [[Its]] final conclusions and recommended that the organisation be closed down.
-Dr [[Paul Baumann]], who chaired the board of inquiry, summarised the detailed report:
-“Aegis was established on solid foundations in 3303 [[With]] strong leadership. Over the years, poor mid-level management and general negligence reduced its effectiveness. A silo mentality developed, with [[Each]] department focusing on itself rather than strategic goals.”
-“Reduced funding undoubtedly contributed to low morale among staff and a lack of any [[Further]] breakthroughs in AX technology. But a reliance on independent pilots to combat the Thargoids became normalised, with some staff considering them ‘disposable mercenaries’.”
-“More specifically, the loss of the megaship Alexandria and the illegal attack against Hind Mine are both catastrophes that could have been anticipated and prevented. [[This]] board cannot in all conscience recommend any scenario that might enable further loss of life in Aegis’s name.”
-Observers have noted that the Baumann Report, as it is commonly referred to, does not discuss [[Salvation]] or suggest methods of replacing Aegis.
-In related news, the court martial of Admiral Aden Tanner has concluded with a verdict of guilty and a dishonourable discharge from the [[Federal Navy]]. However, his sentencing has been postponed by request from newly promoted Fleet Admiral Tayo Maikori, who has ordered a full review of evidence provided by [[Ram Tah]].
+The Independent inquiry into Aegis has delivered Its final conclusions and recommended that the organisation be closed down.
+Dr Paul Baumann, who chaired the board of inquiry, summarised the detailed report:
+“Aegis was established on solid foundations in 3303 With strong leadership. Over the years, poor mid-level management and general negligence reduced its effectiveness. A silo mentality developed, with Each department focusing on itself rather than strategic goals.”
+“Reduced funding undoubtedly contributed to low morale among staff and a lack of any Further breakthroughs in AX technology. But a reliance on independent pilots to combat the Thargoids became normalised, with some staff considering them ‘disposable mercenaries’.”
+“More specifically, the loss of the megaship Alexandria and the illegal attack against Hind Mine are both catastrophes that could have been anticipated and prevented. This board cannot in all conscience recommend any scenario that might enable further loss of life in Aegis’s name.”
+Observers have noted that the Baumann Report, as it is commonly referred to, does not discuss Salvation or suggest methods of replacing Aegis.
+In related news, the court martial of Admiral Aden Tanner has concluded with a verdict of guilty and a dishonourable discharge from the Federal Navy. However, his sentencing has been postponed by request from newly promoted Fleet Admiral Tayo Maikori, who has ordered a full review of evidence provided by Ram Tah.

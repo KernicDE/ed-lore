@@ -26,15 +26,15 @@ related_uuids:
 - d33c2337-8ce6-5941-ade9-90a742c87559
 ---
 
-[[Aegis]] Hails Eagle Eye Success
+Aegis Hails Eagle Eye Success
 
 
-Aegis has announced that [[Its]] Eagle Eye initiative is proving to be a great success, and has helped to repel [[Thargoid forces from]] systems in [[The]] [[Pleiades Nebula]]. 
+Aegis has announced that Its Eagle Eye initiative is proving to be a great success, and has helped to repel Thargoid forces from systems in The Pleiades Nebula. 
 
-The Eagle Eye orbital surveillance installations were established earlier [[This]] year to monitor transmissions from known [[Thargoid]] surface sites. This data is then made available to [[Independent]] pilots.  
+The Eagle Eye orbital surveillance installations were established earlier This year to monitor transmissions from known Thargoid surface sites. This data is then made available to Independent pilots.  
 
-In an interview [[With the]] [[Federal Times]], Admiral Aden Tanner remarked: 
+In an interview With the Federal Times, Admiral Aden Tanner remarked: 
 
 “I have no doubt that without this surveillance data, more starports in the Pleiades would have been attacked and damaged. Only last week, Thargoid incursions in the Lwalama and Lalande 4141 systems were vigorously resisted thanks to the early warnings provided by Eagle Eye.” 
 
-“We all owe a huge debt of gratitude to those brave Commanders who have engaged the Thargoids in battle. Aegis was established to help protect the galaxy, and [[With]] the help of courageous members of the galactic community we will assuredly triumph.”
+“We all owe a huge debt of gratitude to those brave Commanders who have engaged the Thargoids in battle. Aegis was established to help protect the galaxy, and With the help of courageous members of the galactic community we will assuredly triumph.”

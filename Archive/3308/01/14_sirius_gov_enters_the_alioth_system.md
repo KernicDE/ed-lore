@@ -32,8 +32,8 @@ significance: high
 ---
 
 
-Prime Minister [[Edmund Mahon]] has invited [[Sirius Corporation]] to establish a permanent presence within [[The]] [[Alliance]].
+Prime Minister Edmund Mahon has invited Sirius Corporation to establish a permanent presence within The Alliance.
 The Alliance Tribune’s political correspondent Vanya Driscoll reported:
-“Sirius Corporation’s new role as a strategic defence partner has expanded swiftly, [[With]] a Sirius faction established in [[The Alioth]] system to represent the megacorp. In addition, [[Several]] megaships have arrived in [[Other]] [[Allied]] systems to provide support.” 
-“The Alliance Defence Force and some government departments now have official advisors from Sirius Corporation on their staff. Prime Minister Mahon announced that these developments will streamline joint operations with [[The Sirius]] Navy, and in turn provide effective countermeasures against [[Thargoid]] aggression.”
-“But Councillor Nakato Kaine claims that the presence of Sirius Gov is illegal as it was not ratified by the Assembly. She has pointed out that since the defence pact makes [[This]] a classified military matter, any civil action to reverse Mahon’s executive decision has been deliberately blocked.”
+“Sirius Corporation’s new role as a strategic defence partner has expanded swiftly, With a Sirius faction established in The Alioth system to represent the megacorp. In addition, Several megaships have arrived in Other Allied systems to provide support.” 
+“The Alliance Defence Force and some government departments now have official advisors from Sirius Corporation on their staff. Prime Minister Mahon announced that these developments will streamline joint operations with The Sirius Navy, and in turn provide effective countermeasures against Thargoid aggression.”
+“But Councillor Nakato Kaine claims that the presence of Sirius Gov is illegal as it was not ratified by the Assembly. She has pointed out that since the defence pact makes This a classified military matter, any civil action to reverse Mahon’s executive decision has been deliberately blocked.”

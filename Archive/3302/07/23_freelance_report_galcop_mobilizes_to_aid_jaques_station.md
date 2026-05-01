@@ -17,13 +17,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: GalCop Mobilizes to Aid [[Jaques Station]]
+Freelance Report: GalCop Mobilizes to Aid Jaques Station
 
 
-Since contact [[With]] Jaques Station was re-established, a substantial effort from [[Independent]] pilots to deliver meta-alloys to [[The]] stricken starport has returned it to partial functionality. 
+Since contact With Jaques Station was re-established, a substantial effort from Independent pilots to deliver meta-alloys to The stricken starport has returned it to partial functionality. 
 
-[[With the]] commodities market now open, Jaques has issued an appeal for the components needed to restore his station to full operational status. The Galactic Cooperative of Worlds has pledged to ensure the success of the initiative, having secured a logistical supply chain and established an operational beachhead in the surrounding sectors. 
+With the commodities market now open, Jaques has issued an appeal for the components needed to restore his station to full operational status. The Galactic Cooperative of Worlds has pledged to ensure the success of the initiative, having secured a logistical supply chain and established an operational beachhead in the surrounding sectors. 
 
-Jahena Yar Savor, GalCop's Chief Executive Officer, said that the Cooperative would "establish a localised resource base in the systems surrounding Jaques in order to offset the financial burden of securing these resources. [[Many]] of [[Our]] pilots and member organisations acquired substantial wealth during the Dangerous Games, and we thought it would only be fair to use these assets to aid a friend." 
+Jahena Yar Savor, GalCop's Chief Executive Officer, said that the Cooperative would "establish a localised resource base in the systems surrounding Jaques in order to offset the financial burden of securing these resources. Many of Our pilots and member organisations acquired substantial wealth during the Dangerous Games, and we thought it would only be fair to use these assets to aid a friend." 
 
-'Disc' Commander [[Felix Dyson]] - Radio Skvortsov
+'Disc' Commander Felix Dyson - Radio Skvortsov

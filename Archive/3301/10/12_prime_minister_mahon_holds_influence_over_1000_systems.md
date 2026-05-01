@@ -21,11 +21,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-Prime Minister [[Mahon Holds Influence over 1]],000 Systems
+Prime Minister Mahon Holds Influence over 1,000 Systems
 
 
-[[The]] office of [[Edmund Mahon]] has announced the signing of the Prime Minister's [[One]] thousandth trade agreement. [[This]] is a momentous achievement for the Prime Minister and his supporters, and a testament to the hard work and dedication of [[Independent]] pilots throughout the [[Alliance]]. The achievement is impressive given the Prime Minister's relatively small number of supporters. It is also [[Important]] to remember that Mahon's space doesn't have the reach of the combined borders of the Federation, and has [[Far]] less than the Empire. It is evidence that the Alliance should be counted among the galaxy's major powers, and a pointed reminder that it intends to maintain [[Its]] autonomy. 
+The office of Edmund Mahon has announced the signing of the Prime Minister's One thousandth trade agreement. This is a momentous achievement for the Prime Minister and his supporters, and a testament to the hard work and dedication of Independent pilots throughout the Alliance. The achievement is impressive given the Prime Minister's relatively small number of supporters. It is also Important to remember that Mahon's space doesn't have the reach of the combined borders of the Federation, and has Far less than the Empire. It is evidence that the Alliance should be counted among the galaxy's major powers, and a pointed reminder that it intends to maintain Its autonomy. 
 
-Commander [[NOIR1787]] 
+Commander NOIR1787 
 
-[[Alioth]] Guardian | [[Interstellar Press]]
+Alioth Guardian | Interstellar Press

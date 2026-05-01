@@ -13,17 +13,17 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: [[The]] Battle for Jotunheim
+Community Goal: The Battle for Jotunheim
 
 
-Recent reports from Jotunheim indicate that the Autocracy of Jotunheim, an Imperial-aligned organisation, has entered the system [[With]] a remit to bring it under Imperial control. 
+Recent reports from Jotunheim indicate that the Autocracy of Jotunheim, an Imperial-aligned organisation, has entered the system With a remit to bring it under Imperial control. 
 
-Regional authorities have opposed the incursion, and have authorised the Revolutionary Jotunheim Resistance to drive the Autocracy of Jotunheim from the system. The Revolutionary Jotunheim Resistance has also issued a call to [[Independent]] combat pilots for support, promising to reward those who lend their aid. The Autocracy of Jotunheim has issued a similar plea. 
+Regional authorities have opposed the incursion, and have authorised the Revolutionary Jotunheim Resistance to drive the Autocracy of Jotunheim from the system. The Revolutionary Jotunheim Resistance has also issued a call to Independent combat pilots for support, promising to reward those who lend their aid. The Autocracy of Jotunheim has issued a similar plea. 
 
-Meanwhile, peace activist [[Jasmina Halsey]] has surprised commentators by placing an open order for performance enhancers, armour and military grade fabrics, [[Which]] she has pledged to donate to the Revolutionary Jotunheim Resistance in support of [[Its]] operation. The Yum Kamcabi Purple Life Industry is coordinating Halsey’s appeal. 
+Meanwhile, peace activist Jasmina Halsey has surprised commentators by placing an open order for performance enhancers, armour and military grade fabrics, Which she has pledged to donate to the Revolutionary Jotunheim Resistance in support of Its operation. The Yum Kamcabi Purple Life Industry is coordinating Halsey’s appeal. 
 
-Anticipating the furore her decision would cause, Halsey released [[The following]] statement: 
+Anticipating the furore her decision would cause, Halsey released The following statement: 
 
-“I know I will be criticised for intervening in [[This]] conflict. But if those who oppose this war believe it can be stopped through peaceful protest alone, they are mistaken. If we do not help the people of Jotunheim, they will lose their homeland. We cannot stand idly by.” 
+“I know I will be criticised for intervening in This conflict. But if those who oppose this war believe it can be stopped through peaceful protest alone, they are mistaken. If we do not help the people of Jotunheim, they will lose their homeland. We cannot stand idly by.” 
 
-[[All three]] campaigns begin on the 1st of June 3303 and will [[Run]] for [[One]] week. If any of the factions involved meets its targets earlier than planned, its campaign will end immediately.
+All three campaigns begin on the 1st of June 3303 and will Run for One week. If any of the factions involved meets its targets earlier than planned, its campaign will end immediately.

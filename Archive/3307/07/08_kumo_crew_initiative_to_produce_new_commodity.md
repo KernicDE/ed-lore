@@ -39,11 +39,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-*[[Pilots Federation]] ALERT*
-[[The]] [[Kumo Crew]] syndicate is requesting deliveries to mass-produce a recreational drug named ‘helix’.
-The drug is believed to originate [[With the]] Blue Viper Club, a nomadic clan travelling aboard an ancient [[Dredger]] that recently appeared near Kumo City station.
-Arch-Corsair Kay Volantyne, representing the Kumo Council, provided details to local newsfeed The [[Pegasi]] Sentinel:
-“Helix will change lives across the galaxy! Derived from high-quality organic crops, and [[With]] [[Many]] medicinal and psychological benefits, it is guaranteed to bring contentment.”
-“All we need to kick-start manufacture are deliveries of agronomic treatment, liquid oxygen and performance enhancers to Kumo City in the [[Pegasi Sector PN-T c3-14]] system. The Kumo Council also offers generous bounties on all wanted ships to protect traders carrying these commodities.”
-Many authorities have registered concern that [[This]] will exacerbate drug addiction and misuse, [[Which]] are common social problems. However, some markets have shown interest in the potential new product.
-Vox Galactica has reported rumours that helix may be a previously unknown strain of [[Onionhead]], a highly popular psychedelic. It remains unknown whether the Blue Viper Club cultivated helix aboard their dredger or acquired it from another source.
+*Pilots Federation ALERT*
+The Kumo Crew syndicate is requesting deliveries to mass-produce a recreational drug named ‘helix’.
+The drug is believed to originate With the Blue Viper Club, a nomadic clan travelling aboard an ancient Dredger that recently appeared near Kumo City station.
+Arch-Corsair Kay Volantyne, representing the Kumo Council, provided details to local newsfeed The Pegasi Sentinel:
+“Helix will change lives across the galaxy! Derived from high-quality organic crops, and With Many medicinal and psychological benefits, it is guaranteed to bring contentment.”
+“All we need to kick-start manufacture are deliveries of agronomic treatment, liquid oxygen and performance enhancers to Kumo City in the Pegasi Sector PN-T c3-14 system. The Kumo Council also offers generous bounties on all wanted ships to protect traders carrying these commodities.”
+Many authorities have registered concern that This will exacerbate drug addiction and misuse, Which are common social problems. However, some markets have shown interest in the potential new product.
+Vox Galactica has reported rumours that helix may be a previously unknown strain of Onionhead, a highly popular psychedelic. It remains unknown whether the Blue Viper Club cultivated helix aboard their dredger or acquired it from another source.

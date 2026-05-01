@@ -32,12 +32,12 @@ related_uuids:
 Cult Obtains Nuclear Weapon
 
 
-[[The]] Federal Intelligence Agency has announced that a stolen nuclear weapon known [[As the]] Lucifer Device is in the possession of a fringe cult known as the Children of Tothos. 
+The Federal Intelligence Agency has announced that a stolen nuclear weapon known As the Lucifer Device is in the possession of a fringe cult known as the Children of Tothos. 
 
-Senior Agent [[Rochelle Karim gave]] [[The following]] statement: 
+Senior Agent Rochelle Karim gave The following statement: 
 
-"[[Several]] executives at [[Zlota]] Federal Holdings have confessed to being secret members of the Children of Tothos. They were present for a ceremony held by the cult's leader, Barnabas Cole, last December." 
+"Several executives at Zlota Federal Holdings have confessed to being secret members of the Children of Tothos. They were present for a ceremony held by the cult's leader, Barnabas Cole, last December." 
 
-"[[One]] executive, Councillor Willard Morgenstern, was also covertly funding an unrelated criminal [[Enterprise]] to develop portable nuclear weapons. While under the influence of various substances, Councillor Morgenstern disclosed details of the research outpost to the cult." 
+"One executive, Councillor Willard Morgenstern, was also covertly funding an unrelated criminal Enterprise to develop portable nuclear weapons. While under the influence of various substances, Councillor Morgenstern disclosed details of the research outpost to the cult." 
 
-"We believe that Barnabas Cole and his followers used [[This]] information to raid the outpost and obtain the Lucifer Device. The FIA is conducting an interstellar manhunt to locate these individuals, and are treating them as highly dangerous suspects."
+"We believe that Barnabas Cole and his followers used This information to raid the outpost and obtain the Lucifer Device. The FIA is conducting an interstellar manhunt to locate these individuals, and are treating them as highly dangerous suspects."

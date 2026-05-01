@@ -32,19 +32,19 @@ legacy_weight: 5
 significance: high
 ---
 
-[[The]] Guardians: The Galaxy Reacts
+The Guardians: The Galaxy Reacts
 
 
-There has been a range of reactions to the discovery of new Guardian sites, and to [[Ram Tah]]’s development of Guardian-inspired technologies. 
+There has been a range of reactions to the discovery of new Guardian sites, and to Ram Tah’s development of Guardian-inspired technologies. 
 
-Federal [[President Zachary Hudson]] said: “The Federation congratulates Ram Tah on his success. Anything that helps us defend [[Our]] citizens from [[Thargoid]] aggression is welcome.” 
+Federal President Zachary Hudson said: “The Federation congratulates Ram Tah on his success. Anything that helps us defend Our citizens from Thargoid aggression is welcome.” 
 
-Imperial Admiral [[Denton Patreus]] echoed [[This]] sentiment: “I am pleased to hear that new, more powerful armaments are being produced. These will provide a tactical advantage in our conflict [[With the]] Thargoids.” 
+Imperial Admiral Denton Patreus echoed This sentiment: “I am pleased to hear that new, more powerful armaments are being produced. These will provide a tactical advantage in our conflict With the Thargoids.” 
 
-[[Alliance]] Prime Minister [[Edmund Mahon struck]] a more balanced tone: “Information is wealth, and Ram Tah’s efforts to expand the boundaries of science and knowledge will make us rich indeed.” 
+Alliance Prime Minister Edmund Mahon struck a more balanced tone: “Information is wealth, and Ram Tah’s efforts to expand the boundaries of science and knowledge will make us rich indeed.” 
 
   
 
-Meanwhile, Simguru Pranav Antal of [[Utopia]] looked to the future: “There is enormous potential for humanity to benefit from the technology of our galactic predecessors, and we look forward to sharing whatever prosperity these new discoveries may bring.” 
+Meanwhile, Simguru Pranav Antal of Utopia looked to the future: “There is enormous potential for humanity to benefit from the technology of our galactic predecessors, and we look forward to sharing whatever prosperity these new discoveries may bring.” 
 
-Finally, Professor [[Alba Tesreau]], head of research at [[Aegis]], commented: “I have already contacted Ram Tah [[With]] the hope that Aegis can study his new data. Understanding more about the Guardians may enhance our knowledge of the Thargoids, and perhaps help us to comprehend their motives.”
+Finally, Professor Alba Tesreau, head of research at Aegis, commented: “I have already contacted Ram Tah With the hope that Aegis can study his new data. Understanding more about the Guardians may enhance our knowledge of the Thargoids, and perhaps help us to comprehend their motives.”

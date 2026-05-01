@@ -31,18 +31,18 @@ related_uuids:
 Guardian-Worshipping Church Declared Illegal
 
 
-[[The]] Church of Eternal Void, a fringe group that venerates the Guardians, has been declared illegal in [[Every]] system where it operates. 
+The Church of Eternal Void, a fringe group that venerates the Guardians, has been declared illegal in Every system where it operates. 
 
-Cardinal Hieronymous and [[Other]] senior members of the Church have been arrested for inciting acts of violence against the so-called ‘[[Far]] God’ sect, [[Which]] worships the Thargoids. The death toll among the Far God sect is now in the hundreds, [[With]] [[Many]] more injured. 
+Cardinal Hieronymous and Other senior members of the Church have been arrested for inciting acts of violence against the so-called ‘Far God’ sect, Which worships the Thargoids. The death toll among the Far God sect is now in the hundreds, With Many more injured. 
 
 Councillor Quinn Damico praised the declaration: 
 
-“All citizens have the freedom to practise any religion they choose, provided that religion does not sanction homicide. Authorities have made the right move to prevent [[Further]] bloodshed.” 
+“All citizens have the freedom to practise any religion they choose, provided that religion does not sanction homicide. Authorities have made the right move to prevent Further bloodshed.” 
 
 The decision was condemned by Juanita Bishop, who runs a campaign against the Far God sect: 
 
-“So the sick [[Thargoid]]-lovers can walk free, while those [[With the]] courage to oppose them are put behind bars. It’s the traitors who worship the enemy that should be illegal! [[This]] perversion of justice will backfire on us, mark my words.” 
+“So the sick Thargoid-lovers can walk free, while those With the courage to oppose them are put behind bars. It’s the traitors who worship the enemy that should be illegal! This perversion of justice will backfire on us, mark my words.” 
 
-Dr [[Jameelah Griffin]] of the Galactic Interfaith Commune made this statement: 
+Dr Jameelah Griffin of the Galactic Interfaith Commune made this statement: 
 
 “The ability to distinguish between laws and beliefs is the mark of a civilised society. In this case we consider the Far God sect to be the victim rather than the aggressor, despite the controversial nature of their faith.”

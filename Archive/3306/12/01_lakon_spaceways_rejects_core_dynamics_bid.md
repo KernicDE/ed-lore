@@ -23,19 +23,19 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Lakon Spaceways]] Rejects [[Core Dynamics]] Bid
+Lakon Spaceways Rejects Core Dynamics Bid
 
 
-A proposal by [[The]] Federal corporation Core Dynamics to purchase the construction company Lakon Spaceways has been officially rejected. 
+A proposal by The Federal corporation Core Dynamics to purchase the construction company Lakon Spaceways has been officially rejected. 
 
-Naomi Landseer, chairperson of Lakon’s board of directors, made [[This]] statement: 
+Naomi Landseer, chairperson of Lakon’s board of directors, made This statement: 
 
-“We thank Mr [[Rochester]] and his team for their approach. However, I can confirm that Lakon Spaceways will remain an [[Independent]] company.” 
+“We thank Mr Rochester and his team for their approach. However, I can confirm that Lakon Spaceways will remain an Independent company.” 
 
-Business reporter Irfan Karim analysed the situation more closely for The [[Alliance]] Tribune: 
+Business reporter Irfan Karim analysed the situation more closely for The Alliance Tribune: 
 
-“This decision has surprised [[Many]] analysts, considering the persistent rumours that Lakon is in [[Far]] greater difficulty than financial statements would suggest. Although [[Its]] shipbuilding partnership [[With the]] Alliance proved highly lucrative, insiders believe that the firm has overstretched itself in terms of resources and manpower.” 
+“This decision has surprised Many analysts, considering the persistent rumours that Lakon is in Far greater difficulty than financial statements would suggest. Although Its shipbuilding partnership With the Alliance proved highly lucrative, insiders believe that the firm has overstretched itself in terms of resources and manpower.” 
 
-“There have also been public comments from high-profile shareholders in Lakon, who are pressuring the board to accept ownership by Core Dynamics. Some complain of [[Falling]] dividends, while others accuse Ms Landseer of focusing exclusively on Alliance contracts.” 
+“There have also been public comments from high-profile shareholders in Lakon, who are pressuring the board to accept ownership by Core Dynamics. Some complain of Falling dividends, while others accuse Ms Landseer of focusing exclusively on Alliance contracts.” 
 
-A spokesperson for Core Dynamics confirmed that the offer to purchase Lakon Spaceways has not yet been withdrawn, and that CEO [[Jupiter Rochester]] is looking at all available options.
+A spokesperson for Core Dynamics confirmed that the offer to purchase Lakon Spaceways has not yet been withdrawn, and that CEO Jupiter Rochester is looking at all available options.

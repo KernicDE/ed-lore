@@ -26,13 +26,13 @@ related_uuids:
 Heiress's Fortune Lost to Gambling
 
 
-It has been revealed that Lady Talitha Ambrose's 300 billion credit fortune vanished as a result of her participation [[In a]] powerful gambling ring. 
+It has been revealed that Lady Talitha Ambrose's 300 billion credit fortune vanished as a result of her participation In a powerful gambling ring. 
 
-Confirmation came when Baroness Oksana Ambrose shared a report from [[The]] [[Wallglass Investigations Agency]]: 
+Confirmation came when Baroness Oksana Ambrose shared a report from The Wallglass Investigations Agency: 
 
-"Multiple sources verify that Lady Talitha has been a member of Jokers' Deck for years. At the group's most recent event, she bet [[The entire]] Ambrose Foundation during an epic game of high-stakes deadlock poker, and eventually lost. Lady Talitha was apparently devastated, fleeing the venue soon after." 
+"Multiple sources verify that Lady Talitha has been a member of Jokers' Deck for years. At the group's most recent event, she bet The entire Ambrose Foundation during an epic game of high-stakes deadlock poker, and eventually lost. Lady Talitha was apparently devastated, fleeing the venue soon after." 
 
-"Some attendees believe that the game was rigged by [[One]] or more [[Other]] players, who aimed to exploit Lady Talitha's well-known gambling addiction." 
+"Some attendees believe that the game was rigged by One or more Other players, who aimed to exploit Lady Talitha's well-known gambling addiction." 
 
 "The organisers of Jokers' Deck remain anonymous and untraceable, so retrieving the family's assets is unlikely." 
 

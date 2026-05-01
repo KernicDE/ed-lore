@@ -16,13 +16,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: [[Abroin]] Universal PLC Campaign Concludes
+Galactic News: Abroin Universal PLC Campaign Concludes
 
 
-A press release from [[The]] Abroin Universal PLC has confirmed that the organisation’s appeal for construction materials has been enthusiastically received by the galactic community. [[Hundreds of]] pilots responded to the appeal by delivering commodities to Campbell Horizons, the organisation’s base of operations, and by eliminating pilots in the Abroin system in order to protect traders. 
+A press release from The Abroin Universal PLC has confirmed that the organisation’s appeal for construction materials has been enthusiastically received by the galactic community. Hundreds of pilots responded to the appeal by delivering commodities to Campbell Horizons, the organisation’s base of operations, and by eliminating pilots in the Abroin system in order to protect traders. 
 
-[[As the]] campaign drew to a close, a spokesperson for the organisation gave a brief statement: 
+As the campaign drew to a close, a spokesperson for the organisation gave a brief statement: 
 
-“We have been brought into contact [[With]] an intelligent, space-faring species. Just think of what we could learn from them! With luck, [[This]] outpost will herald a whole new era of scientific research.” 
+“We have been brought into contact With an intelligent, space-faring species. Just think of what we could learn from them! With luck, This outpost will herald a whole new era of scientific research.” 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Campbell Horizons in the Abroin]] system.
+Pilots who contributed to the initiative can now collect their rewards from Campbell Horizons in the Abroin system.

@@ -29,27 +29,27 @@ related_uuids:
 - a987debf-f78b-5533-84b9-48a6a845b2e2
 ---
 
-An Interview [[With]] [[Aisling Duval]]
+An Interview With Aisling Duval
 
 
 Princess Aisling Duval has discussed her forthcoming marriage in an exclusive interview with entertainment journalist Solomon Helios. 
 
-[[The]] princess spoke openly about [[Many]] topics, including the impact of her announcement: 
+The princess spoke openly about Many topics, including the impact of her announcement: 
 
 “I was as surprised as everyone else! After the ball for the Federal delegation, things moved very quickly. Perhaps I should have been more patient, but I wanted people to know my intentions as soon as possible.” 
 
-On her relationship with Federal Ambassador Jordan [[Rochester]], she said: 
+On her relationship with Federal Ambassador Jordan Rochester, she said: 
 
-“I had met Jordan a few times at diplomatic events, and we always got on well. He’s much warmer and funnier than [[One]] would expect an ambassador to be. I don’t know how I managed without him for so long.” 
+“I had met Jordan a few times at diplomatic events, and we always got on well. He’s much warmer and funnier than One would expect an ambassador to be. I don’t know how I managed without him for so long.” 
 
-She also tackled criticism from Senator [[Zemina Torval]], among others: 
+She also tackled criticism from Senator Zemina Torval, among others: 
 
-“Any negativity around [[This]] wedding is based on prejudice and fear. Shouldn’t we all be free to love whomever we wish? Maybe if Zemina was capable of such an emotion, she might understand.” 
+“Any negativity around This wedding is based on prejudice and fear. Shouldn’t we all be free to love whomever we wish? Maybe if Zemina was capable of such an emotion, she might understand.” 
 
 Regarding the future, Princess Duval revealed: 
 
-“Jordan and I see this marriage as an opportunity for change. Imagine a galaxy where both superpowers work hand in hand, and support [[Each]] [[Other]] in times of hardship. Now that’s a true marriage.” 
+“Jordan and I see this marriage as an opportunity for change. Imagine a galaxy where both superpowers work hand in hand, and support Each Other in times of hardship. Now that’s a true marriage.” 
 
 Solomon Helios concluded the interview with this comment: 
 
-“I’d like to sincerely thank Her Imperial Highness for speaking to us, and I’m especially happy to have received an invitation to the wedding of the century! I’ll be reporting on [[Every]] detail of this historic union in weeks to come.”
+“I’d like to sincerely thank Her Imperial Highness for speaking to us, and I’m especially happy to have received an invitation to the wedding of the century! I’ll be reporting on Every detail of this historic union in weeks to come.”

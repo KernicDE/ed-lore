@@ -28,17 +28,17 @@ related_uuids:
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
-Inside [[The]] [[Far]] God Cult
+Inside The Far God Cult
 
 
-[[Independent]] reporter Gethin Okonkwo, who was previously thought [[Missing]], has revealed that he has been living undercover within the Far God cult for the past three months. 
+Independent reporter Gethin Okonkwo, who was previously thought Missing, has revealed that he has been living undercover within the Far God cult for the past three months. 
 
 In an op-ed piece, Mr Okonkwo shared his experiences: 
 
-“I was fascinated by Dr [[Ulyanov]]’s research and I desperately wanted to understand [[This]] doomsayer cult [[Further]], so I decided to covertly study the Far God sect by posing as an adherent.” 
+“I was fascinated by Dr Ulyanov’s research and I desperately wanted to understand This doomsayer cult Further, so I decided to covertly study the Far God sect by posing as an adherent.” 
 
-“During this time, I visited hive-chapels in [[Several]] different systems, narrowly escaping death when [[One]] was attacked by the Church of Eternal Void. On [[Many]] occasions, I was physically and verbally abused by members of the public, including Juanita Bishop’s campaign followers.” 
+“During this time, I visited hive-chapels in Several different systems, narrowly escaping death when One was attacked by the Church of Eternal Void. On Many occasions, I was physically and verbally abused by members of the public, including Juanita Bishop’s campaign followers.” 
 
-“At no point did I see evidence of actual contact [[With the]] Thargoids, bar the occasional use of alien material as holy artefacts. Most worshippers are essentially fatalists, attracted to the idea of an apocalypse. Some are convinced that they alone will survive the Far God’s manifestation. It is a strange and often contradictory faith, but no less so than [[Other]] religions.” 
+“At no point did I see evidence of actual contact With the Thargoids, bar the occasional use of alien material as holy artefacts. Most worshippers are essentially fatalists, attracted to the idea of an apocalypse. Some are convinced that they alone will survive the Far God’s manifestation. It is a strange and often contradictory faith, but no less so than Other religions.” 
 
-“I recorded my experiences within the sect using concealed micro-cameras. I am voluntarily sharing this data [[With]] the Federal Intelligence Agency to prove that the Far God sect is not dangerous, and with the hope of ending [[Its]] persecution.”
+“I recorded my experiences within the sect using concealed micro-cameras. I am voluntarily sharing this data With the Federal Intelligence Agency to prove that the Far God sect is not dangerous, and with the hope of ending Its persecution.”

@@ -40,11 +40,11 @@ legacy_weight: 5
 significance: high
 ---
 
-*[[Pilots Federation]] ALERT*
-Commanders in [[The]] [[Chukchan]] and Perseus Dark Region KC-V c2-2 systems have reported being contacted by ‘[[Salvation]]’.
-The anonymous individual is known to have an interest in the [[Adamastor]] and the [[Hesperus]], the ‘ghost ships’ within those systems. Both of the derelict megaships were operated 200 years ago by [[Azimuth Biochemicals]].
+*Pilots Federation ALERT*
+Commanders in The Chukchan and Perseus Dark Region KC-V c2-2 systems have reported being contacted by ‘Salvation’.
+The anonymous individual is known to have an interest in the Adamastor and the Hesperus, the ‘ghost ships’ within those systems. Both of the derelict megaships were operated 200 years ago by Azimuth Biochemicals.
 Commander Tyler Thorsen told Vox Galactica:
-“I was taking some sightseers on a trip round the Hesperus, and getting as close as I dared to the Scriveners Clan [[Dredger]]. I scanned the tourist beacon for them, and suddenly received a direct message from [[This]] ‘Salvation’ guy.”
-“He asked me to track down some old signal beacons, [[Which]] are listening posts configured to retransmit long-range comms. Apparently these could help locate the survivors from the megaship. [[But the]] Hesperus is ancient history. Surely there can’t be anything or anyone left to find?”
-In April, ‘Salvation’ unofficially recruited [[Independent]] pilots to locate the Hesperus, and to deliver [[Its]] surviving logs to Taurus Mining Ventures. 
-The Pilots Federation is running an inquiry into ‘Salvation’ and his associates. Commanders are being cautioned against undertaking tasks for what may be an illegal [[Enterprise]].
+“I was taking some sightseers on a trip round the Hesperus, and getting as close as I dared to the Scriveners Clan Dredger. I scanned the tourist beacon for them, and suddenly received a direct message from This ‘Salvation’ guy.”
+“He asked me to track down some old signal beacons, Which are listening posts configured to retransmit long-range comms. Apparently these could help locate the survivors from the megaship. But the Hesperus is ancient history. Surely there can’t be anything or anyone left to find?”
+In April, ‘Salvation’ unofficially recruited Independent pilots to locate the Hesperus, and to deliver Its surviving logs to Taurus Mining Ventures. 
+The Pilots Federation is running an inquiry into ‘Salvation’ and his associates. Commanders are being cautioned against undertaking tasks for what may be an illegal Enterprise.

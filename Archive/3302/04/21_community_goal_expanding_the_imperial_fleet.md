@@ -16,15 +16,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Expanding [[The]] Imperial Fleet
+Community Goal: Expanding The Imperial Fleet
 
 
-Admiral [[Denton Patreus]] has announced plans to expand the [[Imperial Navy]] [[With]] a new Majestic-Class Interdictor. The formidable [[Vessel]] will boast a range of imposing weaponry, including an array of modular interceptor guns. 
+Admiral Denton Patreus has announced plans to expand the Imperial Navy With a new Majestic-Class Interdictor. The formidable Vessel will boast a range of imposing weaponry, including an array of modular interceptor guns. 
 
 Lieutenant Severin, who is overseeing the ship's construction, issued a statement to the media: 
 
-"I know there are some who would question the need for [[This]] vessel. To those individuals, I say this: just how safe do you feel? We live in an age in [[Which]] even Emperors can be [[Murdered]]. An age in which [[Our]] enemies' faces are not known to us, and betrayal and deceit are encountered at [[Every]] turn. The need for a strong, battle-ready navy has never been greater." 
+"I know there are some who would question the need for This vessel. To those individuals, I say this: just how safe do you feel? We live in an age in Which even Emperors can be Murdered. An age in which Our enemies' faces are not known to us, and betrayal and deceit are encountered at Every turn. The need for a strong, battle-ready navy has never been greater." 
 
 "In order to complete production as swiftly as possible, we have placed an open order for supplies, and have authorised the Mundjiga Patrons of Law to reward pilots who deliver materials to our base of operations at Sagan Port. I implore all those who are loyal to the Empire to support this operation." 
 
-The campaign begins on the 21st of April 3302 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 21st of April 3302 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

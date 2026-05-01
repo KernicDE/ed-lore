@@ -27,15 +27,15 @@ related_uuids:
 - fd541582-b2a7-54f3-82c3-c49d93acf99b
 ---
 
-[[The]] New Imperator
+The New Imperator
 
 
-Hadrian Augustus Duval has broadcast a message following the purge of isolationist group [[Nova Imperium]]: 
+Hadrian Augustus Duval has broadcast a message following the purge of isolationist group Nova Imperium: 
 
-"Arissa [[Lavigny-Duval]] has revealed the true face of her regime – [[One]] based on brutality and terror. The callous execution of Imperator Mordanticus, in conjunction [[With]] thousands of Imperial citizens, shows her desperation to cling onto power at any cost." 
+"Arissa Lavigny-Duval has revealed the true face of her regime – One based on brutality and terror. The callous execution of Imperator Mordanticus, in conjunction With thousands of Imperial citizens, shows her desperation to cling onto power at any cost." 
 
-"Nova Imperium survives in the Paresa system, a single light in the darkness. We stand for an Empire that respects everyone, from slaves to senators. I truly hope that any who value honour and tradition will help keep [[Our]] spark alive." 
+"Nova Imperium survives in the Paresa system, a single light in the darkness. We stand for an Empire that respects everyone, from slaves to senators. I truly hope that any who value honour and tradition will help keep Our spark alive." 
 
-"Our martyred leader will never be forgotten. In his honour, I have taken the title of Imperator Duval, until such time [[As the]] people choose me as their rightful emperor."  
+"Our martyred leader will never be forgotten. In his honour, I have taken the title of Imperator Duval, until such time As the people choose me as their rightful emperor."  
 
 "Memento Mordanticus!"

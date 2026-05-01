@@ -31,9 +31,9 @@ significance: low
 ---
 
 *Pilots’ Federation ALERT*
-[[The]] [[Kumo Crew]] syndicate has engaged in open warfare on the pirate insurrectionists gathered in the [[HIP 10792]] system.
-A recent coup attempt led by Arch-Corsair Vidar [[Trask]], formerly [[One]] of the senior members of the Kumo Council, has failed. His forces were unable to eliminate Delaine and take control of the criminal organisation.
-The rebels’ vessels have concentrated in HIP 10792. Trask is commanding a coalition of loyalists, [[Independent]] pirate gangs and as-yet unidentified mercenaries, collectively calling themselves the Trask Death Corsairs.
-Despite suffering from some visible wounds as a result of the assassination attempt, Archon Delaine broadcast [[This]] message:
-“Trask has betrayed all of us, and for that I want him crushed! I will pay well to wipe out [[Every]] single traitor who fights in his name.”
-The Kumo Council faction will reward all independent pilots supporting [[Its]] operation against the Trask Death Corsairs in the HIP 10792 system, [[Which]] is being orchestrated from Crimson Exchange.
+The Kumo Crew syndicate has engaged in open warfare on the pirate insurrectionists gathered in the HIP 10792 system.
+A recent coup attempt led by Arch-Corsair Vidar Trask, formerly One of the senior members of the Kumo Council, has failed. His forces were unable to eliminate Delaine and take control of the criminal organisation.
+The rebels’ vessels have concentrated in HIP 10792. Trask is commanding a coalition of loyalists, Independent pirate gangs and as-yet unidentified mercenaries, collectively calling themselves the Trask Death Corsairs.
+Despite suffering from some visible wounds as a result of the assassination attempt, Archon Delaine broadcast This message:
+“Trask has betrayed all of us, and for that I want him crushed! I will pay well to wipe out Every single traitor who fights in his name.”
+The Kumo Council faction will reward all independent pilots supporting Its operation against the Trask Death Corsairs in the HIP 10792 system, Which is being orchestrated from Crimson Exchange.

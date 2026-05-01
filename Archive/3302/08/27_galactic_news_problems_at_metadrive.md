@@ -20,9 +20,9 @@ significance: low
 Galactic News: Problems at MetaDrive?
 
 
-[[Independent]] auditor BigSix has reported various anomalies in [[The]] accounts of MetaDrive Inc., a company based in the [[Chi Orionis]] system specialising in hyperdrive research. 
+Independent auditor BigSix has reported various anomalies in The accounts of MetaDrive Inc., a company based in the Chi Orionis system specialising in hyperdrive research. 
 
-Reviewing the company's financial records, assessors [[Found]] evidence of a series of payments to undisclosed suppliers but none of the corresponding checks and balances. 
+Reviewing the company's financial records, assessors Found evidence of a series of payments to undisclosed suppliers but none of the corresponding checks and balances. 
 
 "It's a big mess," said the senior auditor of BigSix. "The company is being placed in receivership. It needs a buyer, and quickly." 
 

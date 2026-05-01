@@ -25,7 +25,7 @@ related_uuids:
 Author Abandons Interstellar Book Tour
 
 
-Celebrated author Olav Redcourt has abandoned [[The]] promotional tour for his latest novel, halfway through a two-month circuit of fifty systems. 
+Celebrated author Olav Redcourt has abandoned The promotional tour for his latest novel, halfway through a two-month circuit of fifty systems. 
 
 Reporters managed to catch Mr Redcourt as he was storming off the passenger liner where he has spent the last four weeks. He told them: 
 
@@ -33,8 +33,8 @@ Reporters managed to catch Mr Redcourt as he was storming off the passenger line
 
 A statement was released by Bonespire Publishing: 
 
-“Unfortunately [[This]] incident constitutes a breach of contract, as Mr Redcourt has only produced fourteen Corsair King novels, rather than the twenty-[[Five]] we agreed. We hope we can convince him to resume the tour and continue [[With the]] series.” 
+“Unfortunately This incident constitutes a breach of contract, as Mr Redcourt has only produced fourteen Corsair King novels, rather than the twenty-Five we agreed. We hope we can convince him to resume the tour and continue With the series.” 
 
 Margaux Hist, the author’s agent, commented: 
 
-“Olav’s a true artist, so I’m sure fans will understand that he wants a little creative freedom. I can’t tell you anything about the new title yet, but science-fiction is a niche genre [[With]] a tiny audience, so I hope it sells well enough to pay Olav’s legal bills.”
+“Olav’s a true artist, so I’m sure fans will understand that he wants a little creative freedom. I can’t tell you anything about the new title yet, but science-fiction is a niche genre With a tiny audience, so I hope it sells well enough to pay Olav’s legal bills.”

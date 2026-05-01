@@ -24,12 +24,12 @@ Cerberus Plague Breakthrough
 
 Cerberus Plague Breakthrough 
  
-Medical personnel at [[Hart Station]] were unanimous in their praise for [[The]] [[Many]] Commanders who delivered medicines to [[The]] [[Bast]] System as part of an ongoing effort to help those afflicted [[With the]] Cerberus Plague. A spokesperson at [[Hart Station]] released [[The following]] statement: 
+Medical personnel at Hart Station were unanimous in their praise for The Many Commanders who delivered medicines to The Bast System as part of an ongoing effort to help those afflicted With the Cerberus Plague. A spokesperson at Hart Station released The following statement: 
 
-“We are immensely grateful to the 765 [[Independent]] pilots who delivered medicine to the primary care facility here at Hart Station. Through their charitable efforts, we were able to bring relief to thousands of patients, and also to devote time we would not otherwise have had to [[Our]] ongoing search for a cure. What’s more, we think we may have made a breakthrough in that area. So to all those who contributed, we just want to say a heartfelt thank you.” 
+“We are immensely grateful to the 765 Independent pilots who delivered medicine to the primary care facility here at Hart Station. Through their charitable efforts, we were able to bring relief to thousands of patients, and also to devote time we would not otherwise have had to Our ongoing search for a cure. What’s more, we think we may have made a breakthrough in that area. So to all those who contributed, we just want to say a heartfelt thank you.” 
 
-Apparently, patients at Hart Station who were offered Ceremonial [[Heike]] Tea showed some improvement in their health. When [[Other]] patients experienced similar recoveries, the local team ran tests and sent samples to [[Carl Simmons]], Chief Medical Officer of Newton Dock in [[BD-02 4304]], who is leading research into a cure. He offered [[The following]] brief statement: 
+Apparently, patients at Hart Station who were offered Ceremonial Heike Tea showed some improvement in their health. When Other patients experienced similar recoveries, the local team ran tests and sent samples to Carl Simmons, Chief Medical Officer of Newton Dock in BD-02 4304, who is leading research into a cure. He offered The following brief statement: 
 
-“Patients were offered the tea simply to lift their spirits, but it apparently contains ingredients that can actually cure those afflicted [[With]] the pathogen. The tea is quite rare, however, and is only [[Found]] in [[Heike]], so I suspect it will be quite a challenge to gather the quantities that we need.” 
+“Patients were offered the tea simply to lift their spirits, but it apparently contains ingredients that can actually cure those afflicted With the pathogen. The tea is quite rare, however, and is only Found in Heike, so I suspect it will be quite a challenge to gather the quantities that we need.” 
 
-We can only hope [[This]] news signals a turning point in the fight against the Cerberus Plague.
+We can only hope This news signals a turning point in the fight against the Cerberus Plague.

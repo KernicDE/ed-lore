@@ -33,10 +33,10 @@ legacy_weight: 5
 significance: high
 ---
 
-[[The]] [[Affiliated Counter-Terrorism unit]] (ACT), formed by [[All three]] superpowers to combat the NMLA, has launched [[Its]] investigation.
-The organisation has been working closely [[With]] [[Alliance]] Interpol, the [[Imperial Internal Security Service]] and the Federal Intelligence Agency to collate data on the terrorist strikes against nine starports.
-Captain Niamh Seutonia, [[One]] of ACT’s joint leaders, told the media:
+The Affiliated Counter-Terrorism unit (ACT), formed by All three superpowers to combat the NMLA, has launched Its investigation.
+The organisation has been working closely With Alliance Interpol, the Imperial Internal Security Service and the Federal Intelligence Agency to collate data on the terrorist strikes against nine starports.
+Captain Niamh Seutonia, One of ACT’s joint leaders, told the media:
 “Initial forensic results from the targeted stations suggest the use of a more compact bomb design than in previous attacks, possibly constructed on-site. Worryingly, the NMLA’s new generation of weapons seem to be easier to transport and conceal.”
-“The good news is that a comparison of reports has revealed one very promising lead. I will personally take a team to follow [[This]] up, and we’re hoping for an early breakthrough.”
+“The good news is that a comparison of reports has revealed one very promising lead. I will personally take a team to follow This up, and we’re hoping for an early breakthrough.”
 Inspector Mara Klatt also provided a brief progress report:
-“[[Our]] working theory is that the NMLA employs an undetectable interstellar communications system to coordinate its attacks. A similar dark-comms network was used by the League of Reparation before we decrypted it, but this version is evidently more sophisticated. We are liaising with local security services to gather evidence.”
+“Our working theory is that the NMLA employs an undetectable interstellar communications system to coordinate its attacks. A similar dark-comms network was used by the League of Reparation before we decrypted it, but this version is evidently more sophisticated. We are liaising with local security services to gather evidence.”

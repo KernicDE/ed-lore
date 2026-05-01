@@ -32,21 +32,21 @@ related_uuids:
 - 854463fb-b94a-5ead-a7af-4b56d65e1350
 ---
 
-Federation Delivers [[Golconda]]’s New Home
+Federation Delivers Golconda’s New Home
 
 
-[[The]] Federation has won the bid to provide the Golconda’s population [[With]] a permanent home, beating a rival effort by the Empire. 
+The Federation has won the bid to provide the Golconda’s population With a permanent home, beating a rival effort by the Empire. 
 
-Both campaigns received support from the galactic community, [[But the]] initiative to create a new orbital outpost for the generation ship’s inhabitants ultimately proved more popular than the construction of a planetary port. 
+Both campaigns received support from the galactic community, But the initiative to create a new orbital outpost for the generation ship’s inhabitants ultimately proved more popular than the construction of a planetary port. 
 
 An official message from the Golconda confirmed that the colonists were impressed by the superpower’s success, and have agreed to migrate to the outpost once it has been completed. The outpost will be named Forester’s Choice to honour the captain of the Golconda, Jonathon Forester.  
 
 The Golconda crew have also accepted the status of a Federal partner while retaining their autonomy. 
 
-Congressman Harlan Turk made [[This]] statement: 
+Congressman Harlan Turk made This statement: 
 
 “We are proud to offer a fresh start to a society descended from the Federation’s forebears. Their unique culture will continue to thrive among the stars at an outpost that enjoys Federal protection.” 
 
-Imperial Senator [[Ava Cornelius sent]] a message of goodwill to Captain Forester and his crew. She admitted disappointment at the Golconda’s decision but wished the colonists peace and prosperity for the future. 
+Imperial Senator Ava Cornelius sent a message of goodwill to Captain Forester and his crew. She admitted disappointment at the Golconda’s decision but wished the colonists peace and prosperity for the future. 
 
-Supporters of the Imperial and Federal campaigns can now collect outstanding rewards from their respective megaships in the [[Upaniklis]] system.
+Supporters of the Imperial and Federal campaigns can now collect outstanding rewards from their respective megaships in the Upaniklis system.

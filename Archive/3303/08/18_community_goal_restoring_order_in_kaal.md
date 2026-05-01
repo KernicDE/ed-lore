@@ -19,8 +19,8 @@ significance: low
 Community Goal: Restoring Order in Kaal
 
 
-[[Authorities in [[The]] Kaal]] system have reported a sharp increase in [[The number of]] criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
+Authorities in The Kaal system have reported a sharp increase in The number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 
-To counter [[This]] threat, the Kuk Silver Fortune Company has placed a kill order on all ships on [[Its]] wanted list, and has promised to reward pilots who deliver bounty vouchers to Vercors Station. 
+To counter This threat, the Kuk Silver Fortune Company has placed a kill order on all ships on Its wanted list, and has promised to reward pilots who deliver bounty vouchers to Vercors Station. 
 
-The campaign begins on 17th of August 3303 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on 17th of August 3303 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

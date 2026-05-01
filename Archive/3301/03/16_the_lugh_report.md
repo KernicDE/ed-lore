@@ -20,11 +20,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[The]] [[Lugh]] Report
+The Lugh Report
 
 
-[[The]] fighting has been fierce in the [[Lugh]] system [[This]] past weekend. [[Hundreds of]] thousands of ships have been shot down and millions have lost their lives in the opening salvo of the war. 
+The fighting has been fierce in the Lugh system This past weekend. Hundreds of thousands of ships have been shot down and millions have lost their lives in the opening salvo of the war. 
 
-Federal pilots are currently dominating the skies of Lugh, where they outnumber the native Crimson State Group 2 to 1. The Crimson State defences are in particularly bad shape, [[With]] reporters on the ground claiming that we are just days away from the first CSG outpost [[Falling]] to the [[Federal Navy]]. 
+Federal pilots are currently dominating the skies of Lugh, where they outnumber the native Crimson State Group 2 to 1. The Crimson State defences are in particularly bad shape, With reporters on the ground claiming that we are just days away from the first CSG outpost Falling to the Federal Navy. 
 
-However, reports are coming in that spies loyal to the Crimson State Group are currently working to seriously undermine the [[Lugh for Equality]] Party on their home station of [[Hartsfield]] Market. If the undercover operatives succeed at their task before the Federation manages to stamp them out, the Crimson State Group could snatch [[Hartsfield]] Market (and control of the system) from out of the Federation’s grasp.
+However, reports are coming in that spies loyal to the Crimson State Group are currently working to seriously undermine the Lugh for Equality Party on their home station of Hartsfield Market. If the undercover operatives succeed at their task before the Federation manages to stamp them out, the Crimson State Group could snatch Hartsfield Market (and control of the system) from out of the Federation’s grasp.

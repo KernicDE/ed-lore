@@ -21,15 +21,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: [[Sirius Corporation]] Enters [[Merope]]
+Galactic News: Sirius Corporation Enters Merope
 
 
-A number of media outlets have reported that [[The Sirius]] Corporation has entered [[The]] Merope system, establishing two new outposts. 
+A number of media outlets have reported that The Sirius Corporation has entered The Merope system, establishing two new outposts. 
 
 Although the mega-corporation has asserted that the outposts will support mining operations in the region, commentators have speculated that Sirius is positioning itself to take control of the system’s barnacles. 
 
-Daxton Sung of the [[Imperial Herald]] commented: 
+Daxton Sung of the Imperial Herald commented: 
 
-“Right now, the Federation controls Merope. But Sirius is playing the long game. They’ve positioned themselves close to the barnacles so that if the [[Federation pulls out of the]] system, they can swoop in and start hoovering up meta-alloys.” 
+“Right now, the Federation controls Merope. But Sirius is playing the long game. They’ve positioned themselves close to the barnacles so that if the Federation pulls out of the system, they can swoop in and start hoovering up meta-alloys.” 
 
-The new outposts will no doubt be a boon to [[Independent]] pilots in Merope, giving them access to a wide range of services.
+The new outposts will no doubt be a boon to Independent pilots in Merope, giving them access to a wide range of services.

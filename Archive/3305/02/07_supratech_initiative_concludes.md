@@ -25,12 +25,12 @@ significance: low
 Supratech Initiative Concludes
 
 
-A commodity drive to revive technology company Supratech has ended successfully, [[With]] large numbers of materials being delivered. 
+A commodity drive to revive technology company Supratech has ended successfully, With large numbers of materials being delivered. 
 
-[[Scorpio DeVorrow]], CEO of Supratech, announced: 
+Scorpio DeVorrow, CEO of Supratech, announced: 
 
-"We are immensely grateful to Lexi [[October]] for her timely investment, to [[The]] People's Rakapila Progressive Party for organising the campaign, and to all the traders who delivered these commodities. [[This]] has brought the company back from the brink, and secured [[Our]] future." 
+"We are immensely grateful to Lexi October for her timely investment, to The People's Rakapila Progressive Party for organising the campaign, and to all the traders who delivered these commodities. This has brought the company back from the brink, and secured Our future." 
 
 Business analysts have suggested that adding Supratech to her investment portfolio reveals Lexi October's ambitions to break into the lucrative personal-computer market. 
 
-Contributors to the initiative can now collect their rewards from [[Stone [[Enterprise]] in the Rakapila]] system.
+Contributors to the initiative can now collect their rewards from Stone Enterprise in the Rakapila system.

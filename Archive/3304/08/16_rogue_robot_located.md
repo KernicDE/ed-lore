@@ -25,16 +25,16 @@ related_uuids:
 - a47511e4-11cb-57b4-b384-567a1452d38b
 ---
 
-Rogue Robot [[Located]]
+Rogue Robot Located
 
 
-A mining robot that went out of control on [[Homeland in [[The]] Beta Hydri]] system has been located and disabled. 
+A mining robot that went out of control on Homeland in The Beta Hydri system has been located and disabled. 
 
-The MacArthur Mining Ltd DG090 machine disappeared after self-activating and tunnelling underground. It remained lost for [[Several]] days before being discovered over a hundred kilometres from where it malfunctioned. 
+The MacArthur Mining Ltd DG090 machine disappeared after self-activating and tunnelling underground. It remained lost for Several days before being discovered over a hundred kilometres from where it malfunctioned. 
 
-Security Chief Sara Kulkarni gave [[This]] report: 
+Security Chief Sara Kulkarni gave This report: 
 
-“[[Our]] sensor drones detected the robot as it surfaced in the Blue Peaks mountain range. We believe it was obeying [[Its]] primary programming by homing in on mineral ores. [[Federal Navy]] gunships were immediately dispatched. Once located, the robot was partially destroyed from the air before it could cause any [[Further]] damage.” 
+“Our sensor drones detected the robot as it surfaced in the Blue Peaks mountain range. We believe it was obeying Its primary programming by homing in on mineral ores. Federal Navy gunships were immediately dispatched. Once located, the robot was partially destroyed from the air before it could cause any Further damage.” 
 
 Director Chen Emerson of MacArthur Mining Ltd commented: 
 

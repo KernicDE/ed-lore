@@ -25,12 +25,12 @@ significance: low
 Sap Core Legion Initiative Concludes
 
 
-A commodity drive hosted by [[The]] Sap Core Legion faction has ended successfully, resulting in the construction of a medical facility in the [[Heike]] system. 
+A commodity drive hosted by The Sap Core Legion faction has ended successfully, resulting in the construction of a medical facility in the Heike system. 
 
-[[With]] [[Independent]] pilots having provided commodities in large numbers, Swords Rest Medical Facility has now entered operation around Heike 1. 
+With Independent pilots having provided commodities in large numbers, Swords Rest Medical Facility has now entered operation around Heike 1. 
 
-Professor [[Macklin Fox offered these words]] of thanks to contributors: 
+Professor Macklin Fox offered these words of thanks to contributors: 
 
-“I am pleased by the response to [[This]] initiative and appreciate the efforts of all involved. Access to off-world medical facilities is not just an [[Allied]] issue - it is an issue for the galaxy.” 
+“I am pleased by the response to This initiative and appreciate the efforts of all involved. Access to off-world medical facilities is not just an Allied issue - it is an issue for the galaxy.” 
 
-Commanders who contributed to the campaign can now collect their rewards from [[Braun [[Enterprise]] in the Heike]] system.
+Commanders who contributed to the campaign can now collect their rewards from Braun Enterprise in the Heike system.

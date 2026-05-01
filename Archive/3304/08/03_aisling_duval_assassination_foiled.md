@@ -30,17 +30,17 @@ related_uuids:
 - c29acb57-2dff-58fc-95b5-009815fe9be9
 ---
 
-[[Aisling Duval]] Assassination Foiled
+Aisling Duval Assassination Foiled
 
 
-An attempt to assassinate Princess Aisling Duval has been prevented by [[The]] [[Imperial Internal Security Service]]. 
+An attempt to assassinate Princess Aisling Duval has been prevented by The Imperial Internal Security Service. 
 
-[[The attempt occurred in the Zhao]] system during a fundraising event for Unchain, the anti-slavery charity formed by the princess and campaigner Jarl Toredo.  
+The attempt occurred in the Zhao system during a fundraising event for Unchain, the anti-slavery charity formed by the princess and campaigner Jarl Toredo.  
 
-Captain Takio Diomedes of the [[IISS]] gave [[This]] statement: 
+Captain Takio Diomedes of the IISS gave This statement: 
 
-“Shortly after the fundraiser began, Princess Duval’s security detail detected explosive charges in key locations across the event centre. We immediately evacuated the building. The explosives, [[Which]] were of amateur design, were disabled. Forensic analysis is underway to determine their origin.” 
+“Shortly after the fundraiser began, Princess Duval’s security detail detected explosive charges in key locations across the event centre. We immediately evacuated the building. The explosives, Which were of amateur design, were disabled. Forensic analysis is underway to determine their origin.” 
 
-Aisling Duval has not addressed the incident, and is continuing her fundraising duties for Unchain. Her fiancé, Federal Ambassador Jordan [[Rochester]], made this comment: 
+Aisling Duval has not addressed the incident, and is continuing her fundraising duties for Unchain. Her fiancé, Federal Ambassador Jordan Rochester, made this comment: 
 
-“Had the explosives not been [[Found]], they would have killed [[Hundreds of]] innocent people. Aisling and I are grateful to both Federal and Imperial security services, which are working together to ensure [[Our]] safety. This is a splendid example of inter-power cooperation, which we hope will soon be commonplace.”
+“Had the explosives not been Found, they would have killed Hundreds of innocent people. Aisling and I are grateful to both Federal and Imperial security services, which are working together to ensure Our safety. This is a splendid example of inter-power cooperation, which we hope will soon be commonplace.”

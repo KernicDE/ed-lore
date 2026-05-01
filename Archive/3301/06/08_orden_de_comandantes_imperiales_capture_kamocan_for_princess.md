@@ -16,8 +16,8 @@ Orden de Comandantes Imperiales Capture Kamocan for Princess
 
 Orden de Comandantes Imperiales Capture Kamocan for Princess 
  
-[[The]] famous Hispanic chivalric order has been operating day and night to ensure that Kamocan turns [[Its]] allegiance to Princess Arissa [[Lavigny-Duval]]. [[The]] noblemen of the Orden de Comandantes Imperiales have been working hard to turn Kamocan to the support of the Princess, and after an extended campaign, the Orden de Comandantes Imperiales is pleased to announce that Kamocan has now officially entered the Imperial fold. 
+The famous Hispanic chivalric order has been operating day and night to ensure that Kamocan turns Its allegiance to Princess Arissa Lavigny-Duval. The noblemen of the Orden de Comandantes Imperiales have been working hard to turn Kamocan to the support of the Princess, and after an extended campaign, the Orden de Comandantes Imperiales is pleased to announce that Kamocan has now officially entered the Imperial fold. 
 
-[[This]] area of Imperial space is highly [[Populated]] [[With]] people from Hispanic backgrounds, [[Many]] of whom have now sworn to follow the Princess [[Lavigny-Duval]] in her quest to restore law and order to the Empire. 
+This area of Imperial space is highly Populated With people from Hispanic backgrounds, Many of whom have now sworn to follow the Princess Lavigny-Duval in her quest to restore law and order to the Empire. 
 
 The Orden de Comandantes Imperiales are confident that their systems will prosper through the influence of their beloved leader, the only real heir to the Throne.

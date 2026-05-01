@@ -17,13 +17,13 @@ legacy_weight: 5
 significance: high
 ---
 
-Freelance Report: Attempt to Sabotage [[Jaques Station]] Thwarted
+Freelance Report: Attempt to Sabotage Jaques Station Thwarted
 
 
-Three individuals carrying pamphlets identifying them as members of '[[The]] Hands of the Architects' have been apprehended at Jaques Station. Starport personnel discovered the individuals attempting to modify the station's [[Frame Shift Drive]]. 
+Three individuals carrying pamphlets identifying them as members of 'The Hands of the Architects' have been apprehended at Jaques Station. Starport personnel discovered the individuals attempting to modify the station's Frame Shift Drive. 
 
-A station spokesperson said: "The individuals are apparently members of a cult that arose shortly after [[Jasmina Halsey]] first claimed to have encountered super-intelligent, non-human life. Materials confiscated from the individuals indicate that they hoped to force a mis-jump during Jaques's forthcoming journey to [[Beagle Point]]. Apparently they thought [[This]] would give them an opportunity to meet Halsey's 'architects'." 
+A station spokesperson said: "The individuals are apparently members of a cult that arose shortly after Jasmina Halsey first claimed to have encountered super-intelligent, non-human life. Materials confiscated from the individuals indicate that they hoped to force a mis-jump during Jaques's forthcoming journey to Beagle Point. Apparently they thought This would give them an opportunity to meet Halsey's 'architects'." 
 
-The would-be saboteurs are currently being held in custody at Jaques Station while starport personnel discuss possible extradition [[With]] [[Nearby]] systems. 
+The would-be saboteurs are currently being held in custody at Jaques Station while starport personnel discuss possible extradition With Nearby systems. 
 
 Jaiotu

@@ -20,15 +20,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: [[The]] August Exodus
+Freelance Report: The August Exodus
 
 
-[[With the]] possibility of war between the Federation and the Empire looming, a number of intrepid explorers have banded together to establish a new way of life among the stars. Over 300 pilots from across inhabited space have signed up to take part in the largest convoy ever assembled, designated the August Exodus – A Jaunt to Jaques. 
+With the possibility of war between the Federation and the Empire looming, a number of intrepid explorers have banded together to establish a new way of life among the stars. Over 300 pilots from across inhabited space have signed up to take part in the largest convoy ever assembled, designated the August Exodus – A Jaunt to Jaques. 
 
-The first convoy, comprising 250 pilots, set off from the [[Ocshooit]] system on the 24th of July, and is expected to reach [[Jaques Station]] within two weeks. The second convoy is being assembled, and almost 60 pilots have signed up so [[Far]]. It will depart on the 15th of August. 
+The first convoy, comprising 250 pilots, set off from the Ocshooit system on the 24th of July, and is expected to reach Jaques Station within two weeks. The second convoy is being assembled, and almost 60 pilots have signed up so Far. It will depart on the 15th of August. 
 
-It is hoped that [[This]] monumental effort will not only return Jaques Station to full operational power, but also usher in the birth of a new colony in the Colonia Nebula, where Jaques is currently [[Located]]. 
+It is hoped that This monumental effort will not only return Jaques Station to full operational power, but also usher in the birth of a new colony in the Colonia Nebula, where Jaques is currently Located. 
 
 Commander unrealization 
 
-Zandu Science Journal | [[Interstellar Press]]
+Zandu Science Journal | Interstellar Press

@@ -27,13 +27,13 @@ legacy_weight: 1
 significance: low
 ---
 
-[[The]] Worlds Beyond
+The Worlds Beyond
 
 
-Utopian delegates returned today from the first symposium of the Pioneers Cooperative, a group dedicated to supporting expansion into uninhabited space. Also attending were representatives from Loren's Legion, Communism Interstellar, the Black Birds Squadron, [[Aisling's Angels]], the [[Canonn]], the [[Independent]] Pilots Consortium, [[Emperor's Grace]], the Mercs of Mikunn, United German Commanders, EXO, the First Great Expedition, the Code, Adle's Armada, the Guardians of Harmony, CHIMERA, the [[Distant Worlds]] Admins and the Hutton Orbital Truckers. 
+Utopian delegates returned today from the first symposium of the Pioneers Cooperative, a group dedicated to supporting expansion into uninhabited space. Also attending were representatives from Loren's Legion, Communism Interstellar, the Black Birds Squadron, Aisling's Angels, the Canonn, the Independent Pilots Consortium, Emperor's Grace, the Mercs of Mikunn, United German Commanders, EXO, the First Great Expedition, the Code, Adle's Armada, the Guardians of Harmony, CHIMERA, the Distant Worlds Admins and the Hutton Orbital Truckers. 
 
-"To live is to grow, and mankind must push ever outwards", said [[One]] attending Utopian explorer. "Humanity has come here today, unified, under a banner of progress, and [[Utopia]] is proud to add [[Its]] support to [[This]] noble venture. [[Our]] commune in Takurua demonstrated that expansion beyond the core systems is possible, and the success of [[Obsidian Orbital]] in [[Maia]] shows that mankind has a shared desire to expand the frontiers of human space and scientific understanding." 
+"To live is to grow, and mankind must push ever outwards", said One attending Utopian explorer. "Humanity has come here today, unified, under a banner of progress, and Utopia is proud to add Its support to This noble venture. Our commune in Takurua demonstrated that expansion beyond the core systems is possible, and the success of Obsidian Orbital in Maia shows that mankind has a shared desire to expand the frontiers of human space and scientific understanding." 
 
-Commander [[Gan]] 
+Commander Gan 
 
-Utopia News Network | [[Interstellar Press]]
+Utopia News Network | Interstellar Press

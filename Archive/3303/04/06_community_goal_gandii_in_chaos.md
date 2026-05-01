@@ -18,12 +18,12 @@ significance: low
 Community Goal: Gandii in Chaos
 
 
-[[Recent reports from [[The]] Gandii]] system indicate that conflict has erupted between the Hand Gang of Gandii, an organisation closely [[Allied]] [[With]] self-styled 'pirate king' Archon Delaine, and the Gandii Justice Party. 
+Recent reports from The Gandii system indicate that conflict has erupted between the Hand Gang of Gandii, an organisation closely Allied With self-styled 'pirate king' Archon Delaine, and the Gandii Justice Party. 
 
-[[This]] is not the first time the Gandii Justice Party has traded blows [[With the]] Hand Gang of Gandii, although the scale of the conflict dwarfs that of previous skirmishes. 
+This is not the first time the Gandii Justice Party has traded blows With the Hand Gang of Gandii, although the scale of the conflict dwarfs that of previous skirmishes. 
 
-Security forces in Gandii released [[The following]] statement: 
+Security forces in Gandii released The following statement: 
 
-"[[Our]] operatives have confirmed that both factions are offering privateer bonds to combat pilots who support their cause. But naturally we do not condone any course of action that could escalate, or perpetuate, this conflict." 
+"Our operatives have confirmed that both factions are offering privateer bonds to combat pilots who support their cause. But naturally we do not condone any course of action that could escalate, or perpetuate, this conflict." 
 
-Both the Hand Gang of Gandii and the Gandii Justice Party have set out week-long operations to overcome their rivals, [[Which]] will begin on the 6th of April 3303.
+Both the Hand Gang of Gandii and the Gandii Justice Party have set out week-long operations to overcome their rivals, Which will begin on the 6th of April 3303.

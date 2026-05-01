@@ -28,12 +28,12 @@ significance: medium
 Community Goal: Dionysus Rising
 
 
-Sirius Inc has announced plans to construct a flight-operations megaship in [[The]] 42 n Persei system, [[Which]] occupies a strategic position on the route to [[Maia]]. The [[Vessel]], which will be named the Dionysus, will dramatically improve services in 42 n Persei. 
+Sirius Inc has announced plans to construct a flight-operations megaship in The 42 n Persei system, Which occupies a strategic position on the route to Maia. The Vessel, which will be named the Dionysus, will dramatically improve services in 42 n Persei. 
 
-Senior Aide Humberto Guthrie, speaking on behalf of Sirius Inc, released [[The following]] statement: 
+Senior Aide Humberto Guthrie, speaking on behalf of Sirius Inc, released The following statement: 
 
-“We are disturbed by recent events in the Pleiades and the vulnerability of [[Our]] systems. If the superpowers cannot protect us, we will protect ourselves.” 
+“We are disturbed by recent events in the Pleiades and the vulnerability of Our systems. If the superpowers cannot protect us, we will protect ourselves.” 
 
-In support of [[This]] campaign, Sirius Inc has placed an open order for various commodities, and has promised to reward pilots who deliver these goods to [[Green [[Enterprise]] in the Ngalia]] system. The organisation has also placed a kill order on all ships on [[Its]] wanted list, to ensure that those delivering commodities to Green Enterprise can do so safely. 
+In support of This campaign, Sirius Inc has placed an open order for various commodities, and has promised to reward pilots who deliver these goods to Green Enterprise in the Ngalia system. The organisation has also placed a kill order on all ships on Its wanted list, to ensure that those delivering commodities to Green Enterprise can do so safely. 
 
-The campaign begins on the 4th of January 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 4th of January 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

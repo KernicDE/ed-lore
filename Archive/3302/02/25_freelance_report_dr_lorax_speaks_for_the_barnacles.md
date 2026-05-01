@@ -16,15 +16,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: Dr [[Lorax Speaks]] for [[The]] Barnacles
+Freelance Report: Dr Lorax Speaks for The Barnacles
 
 
-Doctor [[Elana Lorax]], a leading contributor in the field of xeno biology, has released a statement to the media: 
+Doctor Elana Lorax, a leading contributor in the field of xeno biology, has released a statement to the media: 
 
-"Before we reached for the stars we destroyed countless species on [[Our]] homeworld. Similarly, the colonization of Tau Ceti, [[Delta Pavonis]], [[Achenar and [[Many]] other]] systems resulted in the mass extinction of native life."  
+"Before we reached for the stars we destroyed countless species on Our homeworld. Similarly, the colonization of Tau Ceti, Delta Pavonis, Achenar and Many other systems resulted in the mass extinction of native life."  
 
-"But humanity has yet to learn [[Its]] lesson. The cry for meta-alloys is not unlike the lust for beaver-pelt top hats in ancient times. Thousands of barnacles have been destroyed, and for what? Defunct stations can be replaced. If the barnacles are destroyed for their meta-alloys we will lose their secrets forever." 
+"But humanity has yet to learn Its lesson. The cry for meta-alloys is not unlike the lust for beaver-pelt top hats in ancient times. Thousands of barnacles have been destroyed, and for what? Defunct stations can be replaced. If the barnacles are destroyed for their meta-alloys we will lose their secrets forever." 
 
-Doctor [[Lorax]] continued: "[[With]] a little patience we could unlock the secrets of the barnacle. Xeno biologists and chemists could learn to synthesize meta-alloys, given time. Unfortunately it seems humanity is going to destroy another unique lifeform for short-term, and short-sighted, gain." 
+Doctor Lorax continued: "With a little patience we could unlock the secrets of the barnacle. Xeno biologists and chemists could learn to synthesize meta-alloys, given time. Unfortunately it seems humanity is going to destroy another unique lifeform for short-term, and short-sighted, gain." 
 
-Commander [[Corrigendum]]
+Commander Corrigendum

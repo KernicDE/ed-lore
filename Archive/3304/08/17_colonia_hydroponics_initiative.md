@@ -29,12 +29,12 @@ related_uuids:
 Colonia Hydroponics Initiative
 
 
-[[Authorities in]] Colonia have decided to build a state-of-[[The]]-art hydroponics facility, due to research projecting a possible food shortage in the region. 
+Authorities in Colonia have decided to build a state-of-The-art hydroponics facility, due to research projecting a possible food shortage in the region. 
 
-Professor [[Diana VanCleef]], a scientific adviser to the [[Colonia Council]], gave [[The following]] statement: 
+Professor Diana VanCleef, a scientific adviser to the Colonia Council, gave The following statement: 
 
-“The growing populace of Colonia means we need to provide a reliable and sustainable source of food for the region. We aim to address [[This]] by building a new hydroponics facility that will serve Colonia for generations to come.” 
+“The growing populace of Colonia means we need to provide a reliable and sustainable source of food for the region. We aim to address This by building a new hydroponics facility that will serve Colonia for generations to come.” 
 
-The campaign is being [[Run]] by Colonia Research Division, [[One]] of Colonia’s partner organisations, [[Which]] has asked pilots to deliver the requested mined resources to [[Templar Barracks in the Randgnid]] system. 
+The campaign is being Run by Colonia Research Division, One of Colonia’s partner organisations, Which has asked pilots to deliver the requested mined resources to Templar Barracks in the Randgnid system. 
 
 The campaign begins on the 16th of August 3304 and will run for one week. If the final target is met earlier than planned, the campaign will end immediately.

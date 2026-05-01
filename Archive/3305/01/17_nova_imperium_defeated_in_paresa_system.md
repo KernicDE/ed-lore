@@ -29,13 +29,13 @@ related_uuids:
 - 996b2c0c-14a6-5c4e-87cd-a2ab4fb5c284
 ---
 
-[[Nova Imperium]] Defeated in [[Paresa]] System
+Nova Imperium Defeated in Paresa System
 
 
-[[The]] conflict in [[The]] Paresa system has ended [[With]] Nova Imperium being defeated by Imperial organisation Yupini Limited. 
+The conflict in The Paresa system has ended With Nova Imperium being defeated by Imperial organisation Yupini Limited. 
 
-[[As the]] conflict drew to a close, [[Senator Denton Patreus]] made [[The following]] statement: 
+As the conflict drew to a close, Senator Denton Patreus made The following statement: 
 
-"[[With the]] aid of [[Our]] loyal Imperial auxiliaries, the isolationists' forces have been significantly depleted. Let [[This]] be a warning to others – the Empire will not tolerate insurrection." 
+"With the aid of Our loyal Imperial auxiliaries, the isolationists' forces have been significantly depleted. Let This be a warning to others – the Empire will not tolerate insurrection." 
 
 Pilots who participated in the conflict can now collect their rewards from Dyson City in the Paresa system.

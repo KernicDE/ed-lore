@@ -25,8 +25,8 @@ significance: medium
 Full Scale Attack on Polahukuna Postponed
 
 
-Following [[The]] declaration of war by President [[Halsey earlier today]], [[The]] [[Federal Navy]]’s attack on Polahukuna has been postponed indefinitely. Instead the newly built Capital Ship  , the FNS Nevermore, will be diverted to help [[With the]] offensive against [[Lugh]]. 
+Following The declaration of war by President Halsey earlier today, The Federal Navy’s attack on Polahukuna has been postponed indefinitely. Instead the newly built Capital Ship  , the FNS Nevermore, will be diverted to help With the offensive against Lugh. 
 
-Unfortunately, due to the actions of Operation Arm Chop , the FNS Nevermore is not yet equipped [[With]] a full contingent of fighters. As a result, the FNS Nevermore will not be able to set off for [[Lugh]] until the construction of [[Its]] personal fleet is complete. 
+Unfortunately, due to the actions of Operation Arm Chop , the FNS Nevermore is not yet equipped With a full contingent of fighters. As a result, the FNS Nevermore will not be able to set off for Lugh until the construction of Its personal fleet is complete. 
 
-[[Core Dynamics]] estimate that it will be another six or seven days before the FNS Nevermore will be able to join Federal forces in their attack on Lugh, until [[Which]] time it will remain safely harboured in Hudson Dock.
+Core Dynamics estimate that it will be another six or seven days before the FNS Nevermore will be able to join Federal forces in their attack on Lugh, until Which time it will remain safely harboured in Hudson Dock.

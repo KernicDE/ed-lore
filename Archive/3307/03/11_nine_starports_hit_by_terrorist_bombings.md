@@ -58,19 +58,19 @@ legacy_weight: 5
 significance: high
 ---
 
-*[[Pilots Federation]] ALERT*
-Explosions have struck starports across [[The]] [[Alliance]], Empire and Federation [[In a]] coordinated bombing attack by the NMLA.
-[[The capital]] systems of [[All three]] superpowers – [[Achenar]], [[Alioth]] and [[Sol]] – have been targeted by the terrorists, as well as six [[Other]] high-population systems. Precise casualty numbers are unavailable, [[But several]] hundred thousand people have been killed [[With]] [[Many]] more injured.
-There are urgent calls for [[Independent]] pilots to rescue survivors and support repair operations at all nine locations:
-[[Dawes Hub in the Achenar]] system
-[[Donaldson in the Alioth]] system
-[[Dublin Citadel in the Gateway]] system
-[[Hahn [[Gateway]] in the Nanomam]] system
-[[Ito Orbital in the Rhea]] system
-[[Lave Station in the Lave]] system
-[[Li Qing Jao in the Sol]] system
-[[Parkinson Dock in the Eotienses]] system
-[[Shajn Market in the Kamadhenu]] system
-The explosive damage to [[Each]] station is consistent with corrosive enzyme weapons previously used by the NMLA. [[This has triggered automated]] systems designed to respond to [[Thargoid]] assaults.
-The Alliance Defence Force, [[Federal Navy]] and [[Imperial Navy]] are on full alert. Other military and security forces [[Across the core]] systems are preparing for possible [[Further]] attacks.
-The Galactic Summit has been temporarily [[Suspended]] while Alliance, Empire and Federation leaders respond to the emergency. A full lockdown is in effect in [[The Sirius]] system, where the scheduled bounty hunting and trade initiatives have been cancelled.
+*Pilots Federation ALERT*
+Explosions have struck starports across The Alliance, Empire and Federation In a coordinated bombing attack by the NMLA.
+The capital systems of All three superpowers – Achenar, Alioth and Sol – have been targeted by the terrorists, as well as six Other high-population systems. Precise casualty numbers are unavailable, But several hundred thousand people have been killed With Many more injured.
+There are urgent calls for Independent pilots to rescue survivors and support repair operations at all nine locations:
+Dawes Hub in the Achenar system
+Donaldson in the Alioth system
+Dublin Citadel in the Gateway system
+Hahn Gateway in the Nanomam system
+Ito Orbital in the Rhea system
+Lave Station in the Lave system
+Li Qing Jao in the Sol system
+Parkinson Dock in the Eotienses system
+Shajn Market in the Kamadhenu system
+The explosive damage to Each station is consistent with corrosive enzyme weapons previously used by the NMLA. This has triggered automated systems designed to respond to Thargoid assaults.
+The Alliance Defence Force, Federal Navy and Imperial Navy are on full alert. Other military and security forces Across the core systems are preparing for possible Further attacks.
+The Galactic Summit has been temporarily Suspended while Alliance, Empire and Federation leaders respond to the emergency. A full lockdown is in effect in The Sirius system, where the scheduled bounty hunting and trade initiatives have been cancelled.

@@ -22,13 +22,13 @@ related_uuids:
 - 518459bd-b04c-5043-bae8-6aa576f868e5
 - e9563810-0611-5080-9952-cdd072acdc90
 ---
-[[Aegis]] Installation Operation Complete
+Aegis Installation Operation Complete
 
 
-[[The]] operation to support construction of an Aegis military facility in the [[Pleiades Sector IR-W d1-55]] has reached a successful conclusion. [[Hundreds of]] pilots supported the initiative by delivering mined resources to The [[Oracle]], and by protecting traders in the system. 
+The operation to support construction of an Aegis military facility in the Pleiades Sector IR-W d1-55 has reached a successful conclusion. Hundreds of pilots supported the initiative by delivering mined resources to The Oracle, and by protecting traders in the system. 
 
-An Aegis spokesperson made [[The following]] statement: 
+An Aegis spokesperson made The following statement: 
 
-“[[Every]] pilot who contributed to [[This]] operation should feel a great deal of pride in what they’ve achieved. The construction of this military installation will allow us to more effectively resist external aggression.” 
+“Every pilot who contributed to This operation should feel a great deal of pride in what they’ve achieved. The construction of this military installation will allow us to more effectively resist external aggression.” 
 
 Pilots who contributed to the initiative can now collect their rewards from The Oracle in the Pleiades Sector IR-W d1-55.

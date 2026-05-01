@@ -37,12 +37,12 @@ legacy_weight: 2
 significance: low
 ---
 
-*[[Pilots Federation]] ALERT*
-[[Sirius Corporation]] has received more data than [[Utopia]] and will therefore host [[The]] Galactic Summit.
-Both organisations proposed to organise a diplomatic conference for the [[Alliance]], Empire and Federation. After calling on the galactic community to gather data that would support security operations, [[Many]] pilots handed in anomalous bulk scan data, atypical disrupted wake echoes, exceptional scrambled emission data and unusual encrypted files.
-[[All three]] superpower governments confirmed that due to [[Its]] success in preparing effective security systems, they will accept Sirius Corporation [[As the]] neutral territory for the conference.
-CEO [[Li Yong-Rui]] made [[This]] announcement:
-“Thank you to all the [[Independent]] pilots who supported us. Sirius will now begin work preparing for the first Galactic Summit, [[Which]] we hope will increase peace and prosperity across the galaxy.”
+*Pilots Federation ALERT*
+Sirius Corporation has received more data than Utopia and will therefore host The Galactic Summit.
+Both organisations proposed to organise a diplomatic conference for the Alliance, Empire and Federation. After calling on the galactic community to gather data that would support security operations, Many pilots handed in anomalous bulk scan data, atypical disrupted wake echoes, exceptional scrambled emission data and unusual encrypted files.
+All three superpower governments confirmed that due to Its success in preparing effective security systems, they will accept Sirius Corporation As the neutral territory for the conference.
+CEO Li Yong-Rui made This announcement:
+“Thank you to all the Independent pilots who supported us. Sirius will now begin work preparing for the first Galactic Summit, Which we hope will increase peace and prosperity across the galaxy.”
 Pilots who delivered to Sirius Corporation can collect their rewards from Goldstein Port in the Lembava system.
-Simguru Pranav Antal expressed disappointment, but confirmed that all who contributed to Utopia’s initiative will be rewarded at [[Tanner Settlement in the Polevnic]] system. 
+Simguru Pranav Antal expressed disappointment, but confirmed that all who contributed to Utopia’s initiative will be rewarded at Tanner Settlement in the Polevnic system. 
 Sirius Corporation has stated that the Galactic Summit is provisionally scheduled to take place over a three-week period in late February and early March.

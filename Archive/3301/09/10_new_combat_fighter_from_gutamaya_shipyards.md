@@ -15,15 +15,15 @@ legacy_weight: 1
 significance: low
 ---
 
-New Combat Fighter from [[Gutamaya Shipyards]]
+New Combat Fighter from Gutamaya Shipyards
 
 
-New Combat Fighter from [[Gutamaya Shipyards]]  
+New Combat Fighter from Gutamaya Shipyards  
  
-[[One]] of [[The]] defining characteristics of [[The]] Eagle Mk II is [[Its]] peerless manoeuvrability, so when it was announced that the successor to the popular fighter would be less manoeuvrable than the ship it was replacing, eyebrows were raised. It seems, however, that there was little cause for concern, as while the new Eagle doesn’t quite rival [[Its]] predecessor in terms of agility, it outclasses it in virtually all [[Other]] respects. 
+One of The defining characteristics of The Eagle Mk II is Its peerless manoeuvrability, so when it was announced that the successor to the popular fighter would be less manoeuvrable than the ship it was replacing, eyebrows were raised. It seems, however, that there was little cause for concern, as while the new Eagle doesn’t quite rival Its predecessor in terms of agility, it outclasses it in virtually all Other respects. 
 
-Not only is the new Eagle faster than its predecessor, [[With]] a top speed of 300 and a boost speed of 400, it is also has a superior combat profile, boasting advanced armour and shields, and [[With]] [[The small]] hardpoint of the Mk II replaced with a medium hardpoint. These new features are supported by an improved power plant, although these enhancements do of course mean extra weight, resulting [[In a]] base jump range of 10 LY. 
+Not only is the new Eagle faster than its predecessor, With a top speed of 300 and a boost speed of 400, it is also has a superior combat profile, boasting advanced armour and shields, and With The small hardpoint of the Mk II replaced with a medium hardpoint. These new features are supported by an improved power plant, although these enhancements do of course mean extra weight, resulting In a base jump range of 10 LY. 
 
-The [[Other]] major change introduced [[With the]] new Eagle is that it has been manufactured by Gutamaya Shipyards rather than [[Core Dynamics]], who produced the Eagle Mk II. The result, as [[One]] might expect, is a sleeker, more elegant [[Vessel]], albeit one that has retained the menacing profile of the earlier model. Additionally, the [[Vessel]] has been produced specifically for the [[Imperial Navy]], meaning that pilots will need to hold a rank of Outsider or above in the [[Imperial Navy]] to fly it. 
+The Other major change introduced With the new Eagle is that it has been manufactured by Gutamaya Shipyards rather than Core Dynamics, who produced the Eagle Mk II. The result, as One might expect, is a sleeker, more elegant Vessel, albeit one that has retained the menacing profile of the earlier model. Additionally, the Vessel has been produced specifically for the Imperial Navy, meaning that pilots will need to hold a rank of Outsider or above in the Imperial Navy to fly it. 
 
 The Imperial Eagle is expected to retail at 110,825 CR.

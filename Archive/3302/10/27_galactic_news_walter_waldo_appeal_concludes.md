@@ -18,7 +18,7 @@ significance: low
 Galactic News: Walter Waldo Appeal Concludes
 
 
-A spokesperson for Gyvatices Crimson Advanced Holdings has announced that [[Its]] appeal for fish and coffee was enthusiastically received by [[The]] galactic community, resulting [[In a]] massive influx of deliveries to [[Walter Dock in the Gyvatices]] system. The commodities will be used in a special fish and coffee festival to honour the late entrepreneur Walter Waldo. 
+A spokesperson for Gyvatices Crimson Advanced Holdings has announced that Its appeal for fish and coffee was enthusiastically received by The galactic community, resulting In a massive influx of deliveries to Walter Dock in the Gyvatices system. The commodities will be used in a special fish and coffee festival to honour the late entrepreneur Walter Waldo. 
 
 Gyvatices Crimson Advanced Holdings has extended its gratitude to those who supported the campaign. 
 

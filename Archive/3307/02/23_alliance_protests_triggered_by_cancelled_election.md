@@ -29,10 +29,10 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[The]] postponement of the election for a new prime minister has led to widespread public disorder across [[Alliance]] systems.
-The Alliance Assembly vote was scheduled for Thursday the 25th of February. [[This]] date clashed [[With the]] start of the Galactic Summit, causing incumbent Prime Minister [[Edmund Mahon]] to propose that the election be delayed for three months.
-On [[Many]] Alliance worlds, large-scale protest marches have placed pressure on local police forces. Some civil leaders have condemned Mahon for using the diplomatic conference as an excuse to extend his term of office.
+The postponement of the election for a new prime minister has led to widespread public disorder across Alliance systems.
+The Alliance Assembly vote was scheduled for Thursday the 25th of February. This date clashed With the start of the Galactic Summit, causing incumbent Prime Minister Edmund Mahon to propose that the election be delayed for three months.
+On Many Alliance worlds, large-scale protest marches have placed pressure on local police forces. Some civil leaders have condemned Mahon for using the diplomatic conference as an excuse to extend his term of office.
 Mahon has referred to the unrest as being caused by a “vocal minority of agitators”, and insisted that the delay is in the Alliance’s best interests.
-Councillor Nakato Kaine, Mahon’s main rival, has given the protests her full support. She has become a figurehead for public dissent, [[With]] some political pundits suggesting that she might have won the election had it been held this week.
+Councillor Nakato Kaine, Mahon’s main rival, has given the protests her full support. She has become a figurehead for public dissent, With some political pundits suggesting that she might have won the election had it been held this week.
 Speaking to The Alliance Tribune, Councillor Kaine said:
-“This is the latest [[In a]] string of short-sighted decisions, and it’s clear that the people no longer trust their prime minister. For this reason, despite believing the Galactic Summit to be a waste of time, I will be attending the conference to ensure that Mahon’s agenda does not dominate proceedings.”
+“This is the latest In a string of short-sighted decisions, and it’s clear that the people no longer trust their prime minister. For this reason, despite believing the Galactic Summit to be a waste of time, I will be attending the conference to ensure that Mahon’s agenda does not dominate proceedings.”

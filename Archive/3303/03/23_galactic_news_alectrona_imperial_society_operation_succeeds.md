@@ -15,8 +15,8 @@ significance: low
 Galactic News: Alectrona Imperial Society Operation Succeeds
 
 
-A spokesperson for [[The]] Alectrona Imperial Society has announced that [[Its]] appeal for construction materials has reached a successful conclusion. 
+A spokesperson for The Alectrona Imperial Society has announced that Its appeal for construction materials has reached a successful conclusion. 
 
-[[Hundreds of]] [[Independent]] pilots supported the operation, and the Alectrona Imperial Society will be able to begin construction of an outpost in the Andhrimi system at some point in the future. 
+Hundreds of Independent pilots supported the operation, and the Alectrona Imperial Society will be able to begin construction of an outpost in the Andhrimi system at some point in the future. 
 
-A spokesperson for the Alectrona Imperial Society thanked those who supported the operation. Pilots who contributed to the initiative can now collect their rewards from [[Yurchikhin Station in the Andhrimi]] system.
+A spokesperson for the Alectrona Imperial Society thanked those who supported the operation. Pilots who contributed to the initiative can now collect their rewards from Yurchikhin Station in the Andhrimi system.

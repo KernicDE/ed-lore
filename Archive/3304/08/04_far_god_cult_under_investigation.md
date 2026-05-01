@@ -27,18 +27,18 @@ related_uuids:
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
-[[Far]] God Cult under Investigation
+Far God Cult under Investigation
 
 
-[[The]] Federal Intelligence Agency has launched an investigation into the Far God cult. [[Several]] members of the sect have been arrested for interrogation. 
+The Federal Intelligence Agency has launched an investigation into the Far God cult. Several members of the sect have been arrested for interrogation. 
 
-Senior Agent [[Micah Whitefield]] of the FIA released [[This]] statement: 
+Senior Agent Micah Whitefield of the FIA released This statement: 
 
-“Given the organisation’s proclaimed interest in the Thargoids, it is vital that we confirm they are not in contact [[With]] [[Thargoid]] forces, or being influenced by them. The FIA is working with local security agencies across [[Many]] systems to ascertain the truth.” 
+“Given the organisation’s proclaimed interest in the Thargoids, it is vital that we confirm they are not in contact With Thargoid forces, or being influenced by them. The FIA is working with local security agencies across Many systems to ascertain the truth.” 
 
 The Rewired news service has broadcast footage of armed Federal troops forcing their way into the cult’s hive-chapels and dragging cult members into armoured vehicles. There was no sign of resistance from the Far God adherents.  
 
-[[Other]] video feeds show groups of citizens trying to shield the Far God worshippers, while rival groups can be seen cheering on the soldiers. 
+Other video feeds show groups of citizens trying to shield the Far God worshippers, while rival groups can be seen cheering on the soldiers. 
 
 Juanita Bishop, who runs a campaign against the Far God sect, told the media: 
 

@@ -24,15 +24,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-Freelance Report: Dr [[Arcanonn Speculates]] on Palin's Disappearance
+Freelance Report: Dr Arcanonn Speculates on Palin's Disappearance
 
 
-Dr [[Arcanonn]] of [[The]] [[Canonn Interstellar Research Group]] has spoken out about the disappearance of [[Professor Ishmael Palin]]: 
+Dr Arcanonn of The Canonn Interstellar Research Group has spoken out about the disappearance of Professor Ishmael Palin: 
 
-"I hope that the professor is safe, but I feel a growing sense that he is no longer [[With]] us. As was recently made public, I am currently in hiding because a credible threat to my life was received. My fear is that the dark forces that sought to end my life have intercepted Palin on his way to [[Maia]] b1ba." 
+"I hope that the professor is safe, but I feel a growing sense that he is no longer With us. As was recently made public, I am currently in hiding because a credible threat to my life was received. My fear is that the dark forces that sought to end my life have intercepted Palin on his way to Maia b1ba." 
 
-"We were told that the Diamondback Explorer that made the 'high-speed pass' at [[Obsidian Orbital]] appeared to be looking for something. Could it have been looking for the professor?" 
+"We were told that the Diamondback Explorer that made the 'high-speed pass' at Obsidian Orbital appeared to be looking for something. Could it have been looking for the professor?" 
 
-"We didn't always see eye to eye, but [[Professor Palin]] is – or was – a great scientist and he is sorely missed." 
+"We didn't always see eye to eye, but Professor Palin is – or was – a great scientist and he is sorely missed." 
 
-Commander [[Lord Zoltan]]
+Commander Lord Zoltan

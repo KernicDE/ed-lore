@@ -14,8 +14,8 @@ significance: low
 Galactic News: Ambika Campaign Concludes
 
 
-[[The]] Union Party of Ambika has announced that [[Its]] two-pronged relief campaign has received the full support of the galactic community. Huge deliveries of food were received at Goulart City, and the agitators attempting to disrupt the relief operation have been neutralised. 
+The Union Party of Ambika has announced that Its two-pronged relief campaign has received the full support of the galactic community. Huge deliveries of food were received at Goulart City, and the agitators attempting to disrupt the relief operation have been neutralised. 
 
 A spokesperson for the organisation released a brief statement: 
 
-"We are deeply grateful to all those who supported [[This]] campaign. Without your intervention, I fear that Ambika could have been plunged into a humanitarian crisis. The food supplies delivered to Goulart City will now be distributed throughout the system."
+"We are deeply grateful to all those who supported This campaign. Without your intervention, I fear that Ambika could have been plunged into a humanitarian crisis. The food supplies delivered to Goulart City will now be distributed throughout the system."

@@ -22,15 +22,15 @@ related_uuids:
 - 1d1717b5-b0bc-5c82-b40a-1405948417df
 ---
 
-Hostilities Erupt in [[Loha]] System
+Hostilities Erupt in Loha System
 
 
-A long-standing rivalry between two factions in [[The]] Loha system has erupted into full-scale conflict. 
+A long-standing rivalry between two factions in The Loha system has erupted into full-scale conflict. 
 
 The commencement of hostilities was announced on the Vox Galactica news service by Karleen Troy, a freelance warzone reporter: 
 
-“Relations were already strained when Loha Holdings accused [[Its]] rivals of hijacking transport ships and murdering their crews. After the New Loha Party claimed [[This]] was a false flag operation designed to discredit them, diplomacy was rapidly replaced by weapons fire.” 
+“Relations were already strained when Loha Holdings accused Its rivals of hijacking transport ships and murdering their crews. After the New Loha Party claimed This was a false flag operation designed to discredit them, diplomacy was rapidly replaced by weapons fire.” 
 
-“Since neither side has an extensive fleet, both Loha Holdings and the New Loha Party have appealed for support. I’ve received word that they’re offering substantial rewards to [[Independent]] combat pilots who can aid them in this conflict.” 
+“Since neither side has an extensive fleet, both Loha Holdings and the New Loha Party have appealed for support. I’ve received word that they’re offering substantial rewards to Independent combat pilots who can aid them in this conflict.” 
 
-The two factions have set out week-long operations to take control of the system, [[Which]] will begin on the 22nd of November 3304.
+The two factions have set out week-long operations to take control of the system, Which will begin on the 22nd of November 3304.

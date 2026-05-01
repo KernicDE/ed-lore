@@ -28,14 +28,14 @@ related_uuids:
 - 9b7efc43-c412-55ad-a2b0-3c04798a14bc
 ---
 
-Lakon Releases [[Alliance]] Crusader
+Lakon Releases Alliance Crusader
 
 
-[[Lakon Spaceways]] has announced that a new ship, [[The]] Alliance Crusader, will soon be available for purchase. 
+Lakon Spaceways has announced that a new ship, The Alliance Crusader, will soon be available for purchase. 
 
 Meera Callanach, head of military projects at Lakon, gave some details to the media: 
 
-“The Alliance Crusader is mechanically similar to the Alliance Chieftain, [[With]] [[One]] key distinction. [[Our]] [[Engineers]] have removed some internal hardware to accommodate a fighter bay. Inevitably, [[This]] means the Crusader is marginally slower and less manoeuvrable than [[Its]] siblings, but this is compensated by its ability to ferry fighters into a conflict zone.” 
+“The Alliance Crusader is mechanically similar to the Alliance Chieftain, With One key distinction. Our Engineers have removed some internal hardware to accommodate a fighter bay. Inevitably, This means the Crusader is marginally slower and less manoeuvrable than Its siblings, but this is compensated by its ability to ferry fighters into a conflict zone.” 
 
 “The Crusader’s offensive capabilities are enhanced with three internal military compartments. We are confident that the ship will be able to hold its own in any combat situation, especially against the Thargoids.” 
 

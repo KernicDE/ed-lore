@@ -32,12 +32,12 @@ significance: high
 
 
 *Pilots’ Federation ALERT*
-[[The]] [[Affiliated Counter-Terrorism unit]] has launched an effort to locate and decipher the NMLA’s dark-comms network.
-The request was sent by Captain Saskia Landau, [[One]] of ACT’s co-leaders:
-“ACT is working to gain [[Access to the]] [[Omega Grid]] version that was provided to the NMLA by [[Its]] mysterious benefactors. Most of [[Our]] agents seconded from the [[IISS]] have been recalled, and some Senate leaders are blocking our progress. Therefore, we urgently need support from [[Independent]] pilots, [[Which]] will contribute to our wider efforts to decrypt the network.”
-“To begin [[With]], we have triangulated the possible location of an Omega Grid beacon somewhere within the HIP 290 system. If it can be [[Found]], [[This]] will validate our strategy and quickly lead to [[Further]] discoveries.”
-“Messages relayed across this network are likely to be encrypted. Our analysts have put together a partial cipher key from [[Other]] data. Any files recovered from the beacon may help with deducing the rest of the cipher.”
-“[[If the beacon in the HIP 290]] system is found, any pilot who scans it can expect further instruction on subsequent days.”
+The Affiliated Counter-Terrorism unit has launched an effort to locate and decipher the NMLA’s dark-comms network.
+The request was sent by Captain Saskia Landau, One of ACT’s co-leaders:
+“ACT is working to gain Access to the Omega Grid version that was provided to the NMLA by Its mysterious benefactors. Most of Our agents seconded from the IISS have been recalled, and some Senate leaders are blocking our progress. Therefore, we urgently need support from Independent pilots, Which will contribute to our wider efforts to decrypt the network.”
+“To begin With, we have triangulated the possible location of an Omega Grid beacon somewhere within the HIP 290 system. If it can be Found, This will validate our strategy and quickly lead to Further discoveries.”
+“Messages relayed across this network are likely to be encrypted. Our analysts have put together a partial cipher key from Other data. Any files recovered from the beacon may help with deducing the rest of the cipher.”
+“If the beacon in the HIP 290 system is found, any pilot who scans it can expect further instruction on subsequent days.”
 
 The partial cipher key is as follows:
 A = H

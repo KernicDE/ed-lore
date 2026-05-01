@@ -21,17 +21,17 @@ legacy_weight: 3
 significance: medium
 ---
 
-Smuggling on [[The]] Rise in Conflict-Strewn [[Pegasi]] Sector
+Smuggling on The Rise in Conflict-Strewn Pegasi Sector
 
 
-Smuggling on [[The]] Rise in Conflict-Strewn [[Pegasi]] Sector 
+Smuggling on The Rise in Conflict-Strewn Pegasi Sector 
  
-"Let's just say I'm not flying a small ship anymore!" laughed [[One]] Commander, pledged to the [[Kumo Crew]], when [[Asked about the]] ongoing conflict in the Pegasi sector. "We all know that these Imperial types have been flying around and ransacking ships in [[Our]] space, but what have they actually achieved? Archon Delaine has consistently shown us that, under his leadership, we can repel any fleet and make an absurd number of credits in the process. Who is really losing [[This]] fight?" 
+"Let's just say I'm not flying a small ship anymore!" laughed One Commander, pledged to the Kumo Crew, when Asked about the ongoing conflict in the Pegasi sector. "We all know that these Imperial types have been flying around and ransacking ships in Our space, but what have they actually achieved? Archon Delaine has consistently shown us that, under his leadership, we can repel any fleet and make an absurd number of credits in the process. Who is really losing This fight?" 
 
-It is certainly hard to argue [[With the]] Commander’s logic. The combined Imperial fleets have continually undermined [[Kumo Crew]] territory, but they are yet to make any significant headway into smuggler-controlled space. Reports indicate that illegal contraband has risen at alarming rates since the conflict began, and an unusually large quantity of credits has made [[Its]] way into Kumo Crew space from their aggressors' territory. 
+It is certainly hard to argue With the Commander’s logic. The combined Imperial fleets have continually undermined Kumo Crew territory, but they are yet to make any significant headway into smuggler-controlled space. Reports indicate that illegal contraband has risen at alarming rates since the conflict began, and an unusually large quantity of credits has made Its way into Kumo Crew space from their aggressors' territory. 
 
-When asked where these seemingly never-ending credits were flowing from, the Commander had [[This]] to say: "I'm a supplier of goods, some legal and some...not-so legal. People don't care about a line in the sand – they want their trinkets and toys. War is good for business, and business is good." 
+When asked where these seemingly never-ending credits were flowing from, the Commander had This to say: "I'm a supplier of goods, some legal and some...not-so legal. People don't care about a line in the sand – they want their trinkets and toys. War is good for business, and business is good." 
 
-[[With]] no end in sight, it certainly seems [[One]] group will be making the most of the situation while it lasts. 
+With no end in sight, it certainly seems One group will be making the most of the situation while it lasts. 
 
 Commander Shadewarlock

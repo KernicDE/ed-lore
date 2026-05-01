@@ -18,14 +18,14 @@ legacy_weight: 4
 significance: high
 ---
 
-Cerberus Plague [[Continues]] to Affect Starports
+Cerberus Plague Continues to Affect Starports
 
 
-Cerberus Plague [[Continues]] to Affect Starports 
+Cerberus Plague Continues to Affect Starports 
  
-Although a cure for [[The]] Cerberus Plague has been [[Found]], [[The]] disease has not yet been eradicated, and it continues to wreak havoc in certain systems. 
+Although a cure for The Cerberus Plague has been Found, The disease has not yet been eradicated, and it continues to wreak havoc in certain systems. 
 
-[[Starports in the following]] systems have been affected by the plague: 
+Starports in the following systems have been affected by the plague: 
 
 Bastes 
 
@@ -37,7 +37,7 @@ Una
 
 Santjalan 
 
-In these systems, [[The following]] station services are unavailable: 
+In these systems, The following station services are unavailable: 
 
 Re-arming 
 
@@ -53,4 +53,4 @@ Outfitting
 
 Black market 
 
-[[Authorities in the]] relevant systems have reported that services will remain offline until the Cerberus Plague has been either contained or eliminated.
+Authorities in the relevant systems have reported that services will remain offline until the Cerberus Plague has been either contained or eliminated.

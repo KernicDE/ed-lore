@@ -21,12 +21,12 @@ significance: high
 Mamba and Krait Phantom Released
 
 
-Two new ships marketed towards [[Independent]] pilots, [[The]] Mamba and the Krait Phantom, have just hit the market. 
+Two new ships marketed towards Independent pilots, The Mamba and the Krait Phantom, have just hit the market. 
 
-[[Zorgon Peterson]] issued [[The following]] press release for [[Its]] new [[Vessel]]: 
+Zorgon Peterson issued The following press release for Its new Vessel: 
 
 “If it’s speed and firepower you want, the Mamba is for you. Based on a racing prototype, it’s the fastest commercially available starship, and it sports enough hardpoints for a range of devastating weaponry. Whether you’re leaving competitors in the dust or running rings around those pesky Thargoids, think Mamba!” 
 
-[[Faulcon DeLacy]] also released a statement for its latest design: 
+Faulcon DeLacy also released a statement for its latest design: 
 
-“The Krait Phantom offers true multi-role capability, allowing it to be customised for combat, mining or trading. And for explorers, its impressive jump range means you really can reach out to the stars. [[This]] is a ship that can handle it all.”
+“The Krait Phantom offers true multi-role capability, allowing it to be customised for combat, mining or trading. And for explorers, its impressive jump range means you really can reach out to the stars. This is a ship that can handle it all.”

@@ -34,12 +34,12 @@ legacy_weight: 5
 significance: high
 ---
 
-*[[Pilots Federation ALERT*
-[[The]] Mudhrid]] system conflict has ended [[With the]] Epsilon Fornacis Empire Group overcoming the Neo-[[Marlinist]] Order of [[Mudhrid]].
-[[This]] was triggered by ACT discovering that the Neo-Marlinist faction had provided transports and logistical support for the NMLA’s attacks against nine starports.
-The Epsilon Fornacis Empire Group has thanked all pilots who contributed to [[Its]] triumph. Rewards are now available at Payne-Scott City in the Mudhrid system.
-Landgrave Arastin Delacroix, ruler of the Neo-Marlinist Order of Mudhrid, has so [[Far]] evaded capture. He managed to broadcast this message:
-“Those brave warriors who fought for [[Our]] cause can receive recompense at the Steel Majesty. [[One]] day we will slay the Duvals and bring revolution to the Empire!”
+*Pilots Federation ALERT*
+The Mudhrid system conflict has ended With the Epsilon Fornacis Empire Group overcoming the Neo-Marlinist Order of Mudhrid.
+This was triggered by ACT discovering that the Neo-Marlinist faction had provided transports and logistical support for the NMLA’s attacks against nine starports.
+The Epsilon Fornacis Empire Group has thanked all pilots who contributed to Its triumph. Rewards are now available at Payne-Scott City in the Mudhrid system.
+Landgrave Arastin Delacroix, ruler of the Neo-Marlinist Order of Mudhrid, has so Far evaded capture. He managed to broadcast this message:
+“Those brave warriors who fought for Our cause can receive recompense at the Steel Majesty. One day we will slay the Duvals and bring revolution to the Empire!”
 Inspector Mara Klatt of ACT told the media:
-“This is a definite victory against the NMLA. It also provides an insight into their modus operandi – promising disenfranchised or delusional leaders, such as Landgrave Delacroix, increased status in the new Republic should they succeed. We assume they used similar third parties to support the [[Alliance]] and Federation bombings.”
+“This is a definite victory against the NMLA. It also provides an insight into their modus operandi – promising disenfranchised or delusional leaders, such as Landgrave Delacroix, increased status in the new Republic should they succeed. We assume they used similar third parties to support the Alliance and Federation bombings.”
 “Our agents are gathering information, but it’s clear that the NMLA’s network is more advanced and widespread than we first suspected.”

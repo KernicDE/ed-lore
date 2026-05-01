@@ -17,8 +17,8 @@ significance: low
 Galactic News: Faction's Appeal Successful
 
 
-According a statement from [[The]] Green Party of HIP 112974, the faction's recent appeal for [[Onionhead]] has been successful. In the statement, a spokesperson confirmed the faction had received sufficient quantities of the drug to establish a new onionhead-trading operation: 
+According a statement from The Green Party of HIP 112974, the faction's recent appeal for Onionhead has been successful. In the statement, a spokesperson confirmed the faction had received sufficient quantities of the drug to establish a new onionhead-trading operation: 
 
-"We're hugely grateful to all the traders who made deliveries to la Cosa City, and all the pilots who kept the traders safe by clearing the agitators from [[Our]] spaceways. May [[This]] be the start of a long a profitable relationship between the Green Party of HIP 112974 and the galactic community." 
+"We're hugely grateful to all the traders who made deliveries to la Cosa City, and all the pilots who kept the traders safe by clearing the agitators from Our spaceways. May This be the start of a long a profitable relationship between the Green Party of HIP 112974 and the galactic community." 
 
 The Green Party of HIP 112974 has confirmed that those who contributed to the appeal could collect their rewards from la Cosa City in HIP 112974.

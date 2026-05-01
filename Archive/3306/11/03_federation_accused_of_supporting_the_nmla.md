@@ -22,23 +22,23 @@ legacy_weight: 4
 significance: high
 ---
 
-Federation Accused of Supporting [[The]] NMLA
+Federation Accused of Supporting The NMLA
 
 
 The Empire has revealed new evidence that suggests the NMLA terrorist group may be receiving help from elements within the Federation. 
 
-A report from the [[Imperial Internal Security Service]] stated: 
+A report from the Imperial Internal Security Service stated: 
 
-“[[With]] information provided by the engineer [[Liz Ryder]], we [[Located]] an abandoned workshop where explosives had been constructed using her blueprints. Traces were [[Found]] of [[Thargoid]] caustic enzymes, matching the payloads delivered during the starport bombings.” 
+“With information provided by the engineer Liz Ryder, we Located an abandoned workshop where explosives had been constructed using her blueprints. Traces were Found of Thargoid caustic enzymes, matching the payloads delivered during the starport bombings.” 
 
-“Micro-signage on cargo containers identified bulk deliveries of equipment from a Federal system in neutral space, where we believe the NMLA has a second bomb-making facility. [[IISS]] agents are currently investigating to confirm these findings.” 
+“Micro-signage on cargo containers identified bulk deliveries of equipment from a Federal system in neutral space, where we believe the NMLA has a second bomb-making facility. IISS agents are currently investigating to confirm these findings.” 
 
-Federal Ambassador Jordan [[Rochester]] refuted these allegations: 
+Federal Ambassador Jordan Rochester refuted these allegations: 
 
-“The suggestion that we’re responsible for the Empire’s home-grown extremists is laughable. As with their persecution of Marlinists, [[This]] is another excuse for an inability to solve their own problems.” 
+“The suggestion that we’re responsible for the Empire’s home-grown extremists is laughable. As with their persecution of Marlinists, This is another excuse for an inability to solve their own problems.” 
 
 Imperial Ambassador Imogen Luciana responded: 
 
 “There have long been rumours that the NMLA has the Federation’s support, to destabilise the Empire and promote republican propaganda. If true, there will be severe consequences.” 
 
-In related news, some Federal systems are struggling to [[Cope]] with an influx of [[Marlinist]] refugees. Public disobedience, food shortages and epidemics have been reported in the Thetis, [[LTT 1935 and HIP 36081]] systems, due to a lack of additional resources.
+In related news, some Federal systems are struggling to Cope with an influx of Marlinist refugees. Public disobedience, food shortages and epidemics have been reported in the Thetis, LTT 1935 and HIP 36081 systems, due to a lack of additional resources.

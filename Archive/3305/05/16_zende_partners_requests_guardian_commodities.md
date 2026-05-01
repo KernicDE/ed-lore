@@ -28,17 +28,17 @@ related_uuids:
 - 131bcfd7-f26c-5fbf-a041-85731e6a9b55
 ---
 
-[[Zende]] Partners Requests Guardian Commodities
+Zende Partners Requests Guardian Commodities
 
 
-Zende Partners has called for increased deliveries of Guardian commodities in [[Synuefe]] EN-H d11-96, [[The]] newly established hub for Guardian-human technological research. 
+Zende Partners has called for increased deliveries of Guardian commodities in Synuefe EN-H d11-96, The newly established hub for Guardian-human technological research. 
 
-CEO [[Freya Taine made]] [[The following]] announcement: 
+CEO Freya Taine made The following announcement: 
 
-"My company has established a scientific research outpost in Guardian space named The Prospect, [[Which]] also serves [[As the]] termination point for [[Our]] megaship transport service from the Zende system. The next step is to procure a licence that will allow a technology broker to trade from The Prospect." 
+"My company has established a scientific research outpost in Guardian space named The Prospect, Which also serves As the termination point for Our megaship transport service from the Zende system. The next step is to procure a licence that will allow a technology broker to trade from The Prospect." 
 
-"In preparation for [[This]], we invite the galactic community to collect Guardian commodities from [[Nearby]] ancient ruins and bring them to the outpost. This will allow us to provide a stock of existing Guardian-human technology, while also stimulating [[Further]] studies into this extinct civilisation." 
+"In preparation for This, we invite the galactic community to collect Guardian commodities from Nearby ancient ruins and bring them to the outpost. This will allow us to provide a stock of existing Guardian-human technology, while also stimulating Further studies into this extinct civilisation." 
 
 Deliveries should be made to The Prospect in the Synuefe EN-H d11-96 system. 
 
-The appeal begins on the 16th of May 3305 and will [[Run]] for [[One]] week. If the maximum requested total is achieved earlier than planned, Zende Partners will end the campaign immediately.
+The appeal begins on the 16th of May 3305 and will Run for One week. If the maximum requested total is achieved earlier than planned, Zende Partners will end the campaign immediately.

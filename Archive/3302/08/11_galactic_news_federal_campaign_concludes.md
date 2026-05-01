@@ -20,8 +20,8 @@ significance: low
 Galactic News: Federal Campaign Concludes
 
 
-Federal [[President Zachary Hudson]] has announced that [[The]] Federal appeal for construction materials received the enthusiastic support of the galactic community. [[Hundreds of]] [[Independent]] pilots supported the campaign by delivering autofabricators, tantalum and superconductors to [[Brady Horizons in the Gooheimar]] system, [[Which]] will allow the Federation to start work on the first of three new Farragut-class Battlecruisers. 
+Federal President Zachary Hudson has announced that The Federal appeal for construction materials received the enthusiastic support of the galactic community. Hundreds of Independent pilots supported the campaign by delivering autofabricators, tantalum and superconductors to Brady Horizons in the Gooheimar system, Which will allow the Federation to start work on the first of three new Farragut-class Battlecruisers. 
 
-[[In a]] brief statement, President [[Hudson thanked those]] who had contributed to the initiative. 
+In a brief statement, President Hudson thanked those who had contributed to the initiative. 
 
-"I want to thank you for your support. The passionate response to [[This]] appeal gives me hope that the Federation faces a bright future – [[One]] in which we can meet any threat that confronts us."
+"I want to thank you for your support. The passionate response to This appeal gives me hope that the Federation faces a bright future – One in which we can meet any threat that confronts us."

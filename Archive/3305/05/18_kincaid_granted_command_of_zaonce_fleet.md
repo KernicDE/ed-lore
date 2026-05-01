@@ -30,10 +30,10 @@ related_uuids:
 - 508242c8-bd72-5b14-a5ce-fd74e32b0e69
 ---
 
-[[Kincaid]] Granted Command of [[Zaonce]] Fleet
+Kincaid Granted Command of Zaonce Fleet
 
 
-President [[Gibson Kincaid]] has been named commander-in-chief of [[The]] [[Alliance]] Defence Force fleet in the Zaonce system. 
+President Gibson Kincaid has been named commander-in-chief of The Alliance Defence Force fleet in the Zaonce system. 
 
 Journalist Vanya Driscoll reported on the development for The Alliance Tribune:  
 
@@ -41,6 +41,6 @@ Journalist Vanya Driscoll reported on the development for The Alliance Tribune:
 
 "The move is widely perceived to be a deliberate show of strength from President Kincaid, who is currently under investigation for illegal campaign funding. Admiral Yamamoto is known to be a personal friend to Kincaid, from the latter's time as governor of Zaonce." 
 
-"The Council of Admirals has demanded that Yamamoto rescinds [[This]] decree. Admiral Rachel Ziegler condemned the decision as 'political grandstanding that borders on treason'." 
+"The Council of Admirals has demanded that Yamamoto rescinds This decree. Admiral Rachel Ziegler condemned the decision as 'political grandstanding that borders on treason'." 
 
 While President Kincaid has accepted the authority, he has yet to issue any orders to the ADF fleet stationed in Zaonce.

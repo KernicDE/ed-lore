@@ -28,16 +28,16 @@ significance: high
 Terrorism Spreads as Superpower Conflicts Increase
 
 
-Neo-[[Marlinist]] extremists are continuing their campaign of terror, while [[The]] Empire and Federation clash over issues caused by Marlinist refugees. 
+Neo-Marlinist extremists are continuing their campaign of terror, while The Empire and Federation clash over issues caused by Marlinist refugees. 
 
-The [[Imperial Herald]] has featured updates on terrorist activity across the Empire: 
+The Imperial Herald has featured updates on terrorist activity across the Empire: 
 
-“The NMLA has claimed responsibility for over fifty bomb attacks during the last three weeks. These mostly targeted local authority buildings and security forces, killing hundreds. Hit squads have also [[Assassinated]] [[Several]] high-profile individuals connected to the Duvals, including the Emperor’s relative Baron Cesare Lavigny.” 
+“The NMLA has claimed responsibility for over fifty bomb attacks during the last three weeks. These mostly targeted local authority buildings and security forces, killing hundreds. Hit squads have also Assassinated Several high-profile individuals connected to the Duvals, including the Emperor’s relative Baron Cesare Lavigny.” 
 
-“Senior [[IISS]] leaders have admitted to being unprepared for how organised and well-equipped the paramilitary group is. Critics suggest that the mass arrest of Marlinists may have radicalised [[Many]] people who were already sympathetic to the republican ideology.”  
+“Senior IISS leaders have admitted to being unprepared for how organised and well-equipped the paramilitary group is. Critics suggest that the mass arrest of Marlinists may have radicalised Many people who were already sympathetic to the republican ideology.”  
 
-The [[Federal Times]] has focused on the tensions between superpowers: 
+The Federal Times has focused on the tensions between superpowers: 
 
-“[[With]] diplomatic channels closing down, the possibility that the confrontation in [[LTT 1935]] might escalate into all-out war cannot be ignored. There is added pressure from the exodus of millions of Marlinists, whose beliefs align [[With the]] Federation’s democratic principles.” 
+“With diplomatic channels closing down, the possibility that the confrontation in LTT 1935 might escalate into all-out war cannot be ignored. There is added pressure from the exodus of millions of Marlinists, whose beliefs align With the Federation’s democratic principles.” 
 
-“President Hudson is still suffering from reduced congressional support, and many have said that it feels like [[Felicia Winters]] is running the show. But although her humanitarian efforts undoubtedly saved many refugees’ lives, the acceptance of Imperial outcasts into Federal society remains in question.”
+“President Hudson is still suffering from reduced congressional support, and many have said that it feels like Felicia Winters is running the show. But although her humanitarian efforts undoubtedly saved many refugees’ lives, the acceptance of Imperial outcasts into Federal society remains in question.”

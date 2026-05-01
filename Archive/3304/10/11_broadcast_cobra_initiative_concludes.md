@@ -26,12 +26,12 @@ related_uuids:
 Broadcast Cobra Initiative Concludes
 
 
-Broadcast Cobra has announced that [[Its]] appeal for commodities has reached a successful conclusion, having received an overwhelming response from [[The]] galactic community.  
+Broadcast Cobra has announced that Its appeal for commodities has reached a successful conclusion, having received an overwhelming response from The galactic community.  
 
-Vast quantities of thorium, indium and superconductors were delivered to Sopwith Dock over the past week. These will allow construction of a megaship from [[Which]] the organisation will broadcast its take on current events. 
+Vast quantities of thorium, indium and superconductors were delivered to Sopwith Dock over the past week. These will allow construction of a megaship from Which the organisation will broadcast its take on current events. 
 
-Alessandra Koa of Broadcast Cobra issued [[The following]] statement: 
+Alessandra Koa of Broadcast Cobra issued The following statement: 
 
-“We'd like to thank everyone who supported [[This]] campaign. We hope that wherever you are, you're always listening.” 
+“We'd like to thank everyone who supported This campaign. We hope that wherever you are, you're always listening.” 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Sopwith Dock in the HIP 16038]] system.
+Pilots who contributed to the initiative can now collect their rewards from Sopwith Dock in the HIP 16038 system.

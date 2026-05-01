@@ -16,6 +16,6 @@ significance: high
 Galactic News: Imperial Appeal Comes to an End
 
 
-[[The]] Empire's recent request for meta-alloys has been enthusiastically received by the galactic community, [[Which]] has delivered large quantities of the rare material to [[Axon Station in the Zagoro]] system. A spokesperson for the Zagoro Imperial Society, which coordinated the appeal, confirmed that [[Hundreds of]] Imperial-aligned pilots had contributed to the campaign. [[In a]] statement, the spokesperson said: 
+The Empire's recent request for meta-alloys has been enthusiastically received by the galactic community, Which has delivered large quantities of the rare material to Axon Station in the Zagoro system. A spokesperson for the Zagoro Imperial Society, which coordinated the appeal, confirmed that Hundreds of Imperial-aligned pilots had contributed to the campaign. In a statement, the spokesperson said: 
 
-"The Empire sincerely thanks you for your service, but [[This]] is merely the first step in ensuring that the Federal monopoly on this material does not continue unopposed. We cannot rest yet."
+"The Empire sincerely thanks you for your service, but This is merely the first step in ensuring that the Federal monopoly on this material does not continue unopposed. We cannot rest yet."

@@ -38,9 +38,9 @@ legacy_weight: 4
 significance: medium
 ---
 
-There have been mixed responses to [[The]] Proactive Detection Bureau, [[Which]] monitors private communications in the Federation for terrorist activity.
+There have been mixed responses to The Proactive Detection Bureau, Which monitors private communications in the Federation for terrorist activity.
 Mainstream newsfeeds reported on the situation:
-The [[Federal Times]]: “Civil rights groups are united in protest against the PDB. The controversy was also seized upon by the corporatist movement that was formed by [[Jupiter]] Division supporters. Their spokesperson stated: ‘The government has overstepped [[Its]] authority and must be replaced by direct corporate rule.’”
-[[Sol]] Today: “Has everyone already forgotten Li Qing Jao station burning in the night skies above [[Earth]]? Whatever it takes to keep us safe must be done. Only people [[With]] something to hide demand secrecy.”
-Vox Galactica: “Professor [[Irene Ralston]] of [[Olympus Village]] University told us that her political history students received visits by FIA agents for researching Marlinism, despite it being on the curriculum.”
-The Tau Ceti Journal: “Corporations that incurred financial losses in the bombings have welcomed the PDB. But [[Other]] businesses have submitted legal challenges, claiming a right to protect sensitive commercial information. Megacorps such as Caine Massey and Vandermeer are even threatening to withdraw political donations.”
+The Federal Times: “Civil rights groups are united in protest against the PDB. The controversy was also seized upon by the corporatist movement that was formed by Jupiter Division supporters. Their spokesperson stated: ‘The government has overstepped Its authority and must be replaced by direct corporate rule.’”
+Sol Today: “Has everyone already forgotten Li Qing Jao station burning in the night skies above Earth? Whatever it takes to keep us safe must be done. Only people With something to hide demand secrecy.”
+Vox Galactica: “Professor Irene Ralston of Olympus Village University told us that her political history students received visits by FIA agents for researching Marlinism, despite it being on the curriculum.”
+The Tau Ceti Journal: “Corporations that incurred financial losses in the bombings have welcomed the PDB. But Other businesses have submitted legal challenges, claiming a right to protect sensitive commercial information. Megacorps such as Caine Massey and Vandermeer are even threatening to withdraw political donations.”

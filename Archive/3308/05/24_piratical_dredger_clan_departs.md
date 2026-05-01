@@ -29,10 +29,10 @@ legacy_weight: 2
 significance: low
 ---
 
-[[The]] Blue Viper Club [[Dredger]] clan has unexpectedly severed ties [[With the]] [[Kumo Crew]], [[Which]] is currently battling an attempted rebellion.
-No explanations or itinerary were provided when the nomadic tribe’s dredger jumped from the [[Pegasi Sector PN-T c3-14]] system to an unknown destination.
-The Blue Viper Club formed a partnership [[With]] the Kumo Crew syndicate in July 3307, when it provided a new narcotic crop that later became known as [[Onionhead]] gamma strain.
-The [[Pegasi]] Sentinel published [[The following]] exclusive:
-“We have obtained proof that Arch-Corsair Kay Volantyne is still alive, despite rumours that she had been [[Murdered]] by Vidar [[Trask]]. [[Our]] undercover reporter recorded Volantyne and her personal retinue boarding a shuttle at Kumo City starport, which docked with the Blue Viper Club’s dredger a few hours before [[Its]] departure.”
-“Volantyne was born on that [[Vessel]], and acted [[As the]] primary liaison between the spacefaring clan and the Kumo Crew. It seems that she has now abandoned her position to rejoin her people, instead of taking part in the fight against Trask’s followers.”
-“[[This]] raises a disturbing question: were Trask and Volantyne working together to depose Archon Delaine? Last [[October]] they both attended a secret event held by the Jokers’ Deck gambling circle, famed for permitting stakes reaching billions of credits. Did their winnings provide the financial backing for a joint coup?”
+The Blue Viper Club Dredger clan has unexpectedly severed ties With the Kumo Crew, Which is currently battling an attempted rebellion.
+No explanations or itinerary were provided when the nomadic tribe’s dredger jumped from the Pegasi Sector PN-T c3-14 system to an unknown destination.
+The Blue Viper Club formed a partnership With the Kumo Crew syndicate in July 3307, when it provided a new narcotic crop that later became known as Onionhead gamma strain.
+The Pegasi Sentinel published The following exclusive:
+“We have obtained proof that Arch-Corsair Kay Volantyne is still alive, despite rumours that she had been Murdered by Vidar Trask. Our undercover reporter recorded Volantyne and her personal retinue boarding a shuttle at Kumo City starport, which docked with the Blue Viper Club’s dredger a few hours before Its departure.”
+“Volantyne was born on that Vessel, and acted As the primary liaison between the spacefaring clan and the Kumo Crew. It seems that she has now abandoned her position to rejoin her people, instead of taking part in the fight against Trask’s followers.”
+“This raises a disturbing question: were Trask and Volantyne working together to depose Archon Delaine? Last October they both attended a secret event held by the Jokers’ Deck gambling circle, famed for permitting stakes reaching billions of credits. Did their winnings provide the financial backing for a joint coup?”

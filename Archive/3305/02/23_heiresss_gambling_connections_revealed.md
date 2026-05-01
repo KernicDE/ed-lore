@@ -29,12 +29,12 @@ related_uuids:
 Heiress's Gambling Connections Revealed
 
 
-Lady Talitha Ambrose, [[The]] [[Missing]] Ambrose Foundation heiress, has been alleged to have a history of gambling that may explain the sudden loss of her family's entire fortune. 
+Lady Talitha Ambrose, The Missing Ambrose Foundation heiress, has been alleged to have a history of gambling that may explain the sudden loss of her family's entire fortune. 
 
-[[Independent]] journalist Flint 'Firemaker' Lafosse commented on the Rewired news feed: 
+Independent journalist Flint 'Firemaker' Lafosse commented on the Rewired news feed: 
 
-"Baroness Oksana has convinced everyone that her daughter was kidnapped and forced to surrender her vast inheritance. What the baroness failed to mention is that Lady Talitha's name has long been associated [[With]] an exclusive gambling circle named Jokers' Deck." 
+"Baroness Oksana has convinced everyone that her daughter was kidnapped and forced to surrender her vast inheritance. What the baroness failed to mention is that Lady Talitha's name has long been associated With an exclusive gambling circle named Jokers' Deck." 
 
-"Some of the wealthiest individuals in the galaxy are believed to be associated [[With the]] group, including corporate CEOs, senior politicians, minor royals, pirate lords and cartel kingpins. [[Several]] famous names are rumoured to be in Jokers' Deck, including at least [[One]] member of the [[Rochester]] family." 
+"Some of the wealthiest individuals in the galaxy are believed to be associated With the group, including corporate CEOs, senior politicians, minor royals, pirate lords and cartel kingpins. Several famous names are rumoured to be in Jokers' Deck, including at least One member of the Rochester family." 
 
-"Is it possible that Lady Talitha wasn't kidnapped but is instead hiding in shame, having gambled away [[The entire]] Ambrose Foundation?"
+"Is it possible that Lady Talitha wasn't kidnapped but is instead hiding in shame, having gambled away The entire Ambrose Foundation?"

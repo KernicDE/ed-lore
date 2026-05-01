@@ -51,16 +51,16 @@ related_uuids:
 Week in Review
 
 
-Here are [[This]] week’s major stories. 
+Here are This week’s major stories. 
 
-[[The]] three candidates for the [[Alliance]] presidency have spent much of the past week delivering their campaign messages. While incumbent president [[Gibson Kincaid]] has demanded radical change to the constitution, rival candidates Fazia Silva and Elijah Beck have adopted more conservative stances, focusing on economic growth and civil liberty respectively. The new president of the Alliance will be announced in [[October]]. 
+The three candidates for the Alliance presidency have spent much of the past week delivering their campaign messages. While incumbent president Gibson Kincaid has demanded radical change to the constitution, rival candidates Fazia Silva and Elijah Beck have adopted more conservative stances, focusing on economic growth and civil liberty respectively. The new president of the Alliance will be announced in October. 
 
-The Federal Intelligence Agency has terminated [[Its]] investigation into the [[Far]] God cult. [[In a]] statement, the FIA confirmed that information provided by undercover reporter Gethin Okonkwo had cleared the sect of any suspicion. All worshippers who were detained have now been released. 
+The Federal Intelligence Agency has terminated Its investigation into the Far God cult. In a statement, the FIA confirmed that information provided by undercover reporter Gethin Okonkwo had cleared the sect of any suspicion. All worshippers who were detained have now been released. 
 
-In [[Other]] news, rival companies Herculean Machines and Supratech have resumed development of their new personal computers, following successful requests for public support. Both companies have now returned their attention to the Rackham Ultratech Expo, where they will unveil prototypes of their new designs. It is suspected that the amount of commodities [[Each]] company received might be the deciding factor in their commercial success. 
+In Other news, rival companies Herculean Machines and Supratech have resumed development of their new personal computers, following successful requests for public support. Both companies have now returned their attention to the Rackham Ultratech Expo, where they will unveil prototypes of their new designs. It is suspected that the amount of commodities Each company received might be the deciding factor in their commercial success. 
 
-Meanwhile, the personal administration robot of business magnate Lloyd Hardacre, [[Which]] recently revealed evidence of his criminal activity, has been [[Found]] to contain a concealed surveillance program. The revelation came from the [[Federal Security Service]], which found a surveillance program within the robot’s coreware that was covertly copying certain types of data. The FSS now believes that Mr Hardacre was [[The target]] of an undercover spy operation. 
+Meanwhile, the personal administration robot of business magnate Lloyd Hardacre, Which recently revealed evidence of his criminal activity, has been Found to contain a concealed surveillance program. The revelation came from the Federal Security Service, which found a surveillance program within the robot’s coreware that was covertly copying certain types of data. The FSS now believes that Mr Hardacre was The target of an undercover spy operation. 
 
-Finally, [[Citizens of the Bhagui]] system are attempting to resurrect the ancient Oktoberfest celebration, an annual event based on a centuries-old [[Earth]] tradition. Mould Federal Mining Incorporated has agreed to finance the event, and has placing an open order for various commodities. A spokesperson for the organisation promised the festival would be “a party like no other.” 
+Finally, Citizens of the Bhagui system are attempting to resurrect the ancient Oktoberfest celebration, an annual event based on a centuries-old Earth tradition. Mould Federal Mining Incorporated has agreed to finance the event, and has placing an open order for various commodities. A spokesperson for the organisation promised the festival would be “a party like no other.” 
 
 And those are the main stories this week.

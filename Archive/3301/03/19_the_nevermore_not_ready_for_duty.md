@@ -18,18 +18,18 @@ legacy_weight: 2
 significance: low
 ---
 
-[[The]] Nevermore Not Ready for Duty
+The Nevermore Not Ready for Duty
 
 
-[[Core Dynamics]] has been put in [[The]] deeply embarrassing position of having to [[Further]] postpone the maiden voyage of the FNS Nevermore. Representatives of [[Core Dynamics]] have confirmed that [[This]] most recent delay is due to faulty sensor and turret targeting arrays.  
+Core Dynamics has been put in The deeply embarrassing position of having to Further postpone the maiden voyage of the FNS Nevermore. Representatives of Core Dynamics have confirmed that This most recent delay is due to faulty sensor and turret targeting arrays.  
 
-The faults first came to light when [[Engineers]] began running the FNS Nevermore through [[Its]] standard weapon diagnostic checks late last week. [[According to]] Core Dynamics, the FNS Nevermore’s weapon systems gave [[Engineers]] the all clear, but upon attempting to fire on [[The target]] drone ship, the FNS Nevermore instead released a massive volley into Hudson Dock.  
+The faults first came to light when Engineers began running the FNS Nevermore through Its standard weapon diagnostic checks late last week. According to Core Dynamics, the FNS Nevermore’s weapon systems gave Engineers the all clear, but upon attempting to fire on The target drone ship, the FNS Nevermore instead released a massive volley into Hudson Dock.  
 
 The dock’s defence systems then returned fire, causing the Nevermore’s automated battle systems to kick in, resulting in an all-out fight between the two stellar titans.  
 
-It took engineers three hours to regain control of the ship. During [[This]] time [[Dozens of]] people were killed, and [[Hundreds of]] millions of credits in damages were done to both structures. 
+It took engineers three hours to regain control of the ship. During This time Dozens of people were killed, and Hundreds of millions of credits in damages were done to both structures. 
 
-Commander [[Lokquine]], a member of Hudson Dock’s Shipyard Union, had this to say on the matter: 
+Commander Lokquine, a member of Hudson Dock’s Shipyard Union, had this to say on the matter: 
 
 “Well honestly, what do you expect to happen when you build a ship like that out of so much Copper? I told them they should have used Gold, cheap << censored >>.”  
 

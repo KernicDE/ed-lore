@@ -26,6 +26,6 @@ Pirates Continue to Target Refugees
 
 Pirates Continue to Target Refugees 
  
-Reports continue to pour in from [[The]] [[Amitrite]] system of pirates targeting refugees fleeing [[The]] war-torn [[Pegasi]] sector. The refugee transports have been stopping in [[Amitrite]] to refuel while travelling to a resettlement centre in the [[Munshin]] system, leaving them open to attack. 
+Reports continue to pour in from The Amitrite system of pirates targeting refugees fleeing The war-torn Pegasi sector. The refugee transports have been stopping in Amitrite to refuel while travelling to a resettlement centre in the Munshin system, leaving them open to attack. 
 
-In an effort to protect the refugees, the [[Imperial Navy]] and the [[Defence Force of Amitrite]] have issued bounties on the pirates, hoping [[This]] will encourage [[Independent]] pilots to help to alleviate the problem. For those [[With]] combat experience, there is money to be made in Amitrite.
+In an effort to protect the refugees, the Imperial Navy and the Defence Force of Amitrite have issued bounties on the pirates, hoping This will encourage Independent pilots to help to alleviate the problem. For those With combat experience, there is money to be made in Amitrite.

@@ -24,10 +24,10 @@ significance: low
 Angeli Imperial Enterprises Campaign Concludes
 
 
-Angeli Imperial Enterprises has announced that [[Its]] appeal for construction and outfitting materials has been enthusiastically received by [[The]] galactic community, resulting [[In a]] massive influx of deliveries to Nelder City, the organisation’s base of operations. 
+Angeli Imperial Enterprises has announced that Its appeal for construction and outfitting materials has been enthusiastically received by The galactic community, resulting In a massive influx of deliveries to Nelder City, the organisation’s base of operations. 
 
-Patrician Mitchell, spokesperson for the organisation, released [[The following]] statement: 
+Patrician Mitchell, spokesperson for the organisation, released The following statement: 
 
-“Thanks to the efforts of the galaxy’s [[Independent]] pilots, DaMorgs Bar and BBQ will soon be open for business. I can personally recommend the Mortisagus Merlot, the Hazara Stout, the Senor Ping Pinot and the Crighton Cabernet." 
+“Thanks to the efforts of the galaxy’s Independent pilots, DaMorgs Bar and BBQ will soon be open for business. I can personally recommend the Mortisagus Merlot, the Hazara Stout, the Senor Ping Pinot and the Crighton Cabernet." 
 
 Pilots who contributed to the initiative can now collect their rewards from Nelder City in the Wangal system.

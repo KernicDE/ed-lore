@@ -22,18 +22,18 @@ legacy_weight: 1
 significance: low
 ---
 
-[[Emperor's Grace]] Reaffirms Loyalty to Patreus
+Emperor's Grace Reaffirms Loyalty to Patreus
 
 
-[[Emperor's Grace]] Reaffirms Loyalty to Patreus 
+Emperor's Grace Reaffirms Loyalty to Patreus 
  
-On [[The]] personal order of Varrwen Mako Brennus, all members of Emperor's Grace are instructed to extend their support to [[Senator [[Denton]] Patreus]] where possible. 
+On The personal order of Varrwen Mako Brennus, all members of Emperor's Grace are instructed to extend their support to Senator Denton Patreus where possible. 
 
-Senator [[Patreus demonstrated support]] for Emperor's Grace during recent unpleasant circumstances when senior members of Emperor's Grace stood accused of Treason. [[This]] unfounded and scurrilous accusation was disproven before [[The]] [[Imperial Senate]]. Moreover, Emperor's Grace was instrumental in finding the criminals behind the recent assassination attempt on Emperor Duval.  
+Senator Patreus demonstrated support for Emperor's Grace during recent unpleasant circumstances when senior members of Emperor's Grace stood accused of Treason. This unfounded and scurrilous accusation was disproven before The Imperial Senate. Moreover, Emperor's Grace was instrumental in finding the criminals behind the recent assassination attempt on Emperor Duval.  
 
-Explaining the decision to extend support to Senator Patreus, Admiral Brennus declared to a packed audience that "we never forget [[Our]] friends and we always remember [[Our]] enemies." 
+Explaining the decision to extend support to Senator Patreus, Admiral Brennus declared to a packed audience that "we never forget Our friends and we always remember Our enemies." 
 
-Commander [[Light Fingers]] 
+Commander Light Fingers 
 
 Imperial Security Service Lead 
 

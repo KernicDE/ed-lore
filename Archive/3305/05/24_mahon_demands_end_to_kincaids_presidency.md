@@ -30,17 +30,17 @@ related_uuids:
 - 89ca282d-1ecf-588b-90ed-37e0e6c76c13
 ---
 
-Mahon Demands End to [[Kincaid]]'s Presidency
+Mahon Demands End to Kincaid's Presidency
 
 
-Prime Minister [[Edmund Mahon]] has called on President [[Gibson Kincaid]] to step down pending an official inquiry. 
+Prime Minister Edmund Mahon has called on President Gibson Kincaid to step down pending an official inquiry. 
 
-Addressing [[The]] [[Alliance]] Assembly, Mahon said: 
+Addressing The Alliance Assembly, Mahon said: 
 
-"President Kincaid's decision to assume direct command of the [[Zaonce]] fleet, coupled [[With]] allegations of illegal campaign funding, justify the suspension of his presidential term." 
+"President Kincaid's decision to assume direct command of the Zaonce fleet, coupled With allegations of illegal campaign funding, justify the suspension of his presidential term." 
 
-"Kincaid is now being protected by Admiral Yamamoto's ships as well as emissaries from the Office of the Alliance President. [[This]] autocratic behaviour must cease, and Kincaid must cooperate with [[Our]] investigation or face impeachment." 
+"Kincaid is now being protected by Admiral Yamamoto's ships as well as emissaries from the Office of the Alliance President. This autocratic behaviour must cease, and Kincaid must cooperate with Our investigation or face impeachment." 
 
-President [[Kincaid issued]] a response from his private residence in Zaonce: 
+President Kincaid issued a response from his private residence in Zaonce: 
 
-"These false accusations are [[Further]] proof that the Alliance needs a single, strong leader. Unless the Assembly has irrefutable proof of illegality, the constitution states they cannot force me out of office."
+"These false accusations are Further proof that the Alliance needs a single, strong leader. Unless the Assembly has irrefutable proof of illegality, the constitution states they cannot force me out of office."

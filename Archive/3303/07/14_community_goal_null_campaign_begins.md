@@ -20,12 +20,12 @@ significance: low
 Community Goal: NULL Campaign Begins
 
 
-NULL, an [[Independent]] organisation based in LTT 4961, has announced plans to build a new base at Greg's Legacy, a large asteroid named after [[One]] of [[The]] organisation’s founding members. 
+NULL, an Independent organisation based in LTT 4961, has announced plans to build a new base at Greg's Legacy, a large asteroid named after One of The organisation’s founding members. 
 
-The organisation has placed an open order for titanium, aluminium, copper and tea in support of [[This]] initiative, and has promised to reward pilots who deliver these goods to Conway City in LTT 4961. It has also placed a kill order on all ships on [[Its]] wanted list, as part of an initiative to rid the system of corruption and crime. 
+The organisation has placed an open order for titanium, aluminium, copper and tea in support of This initiative, and has promised to reward pilots who deliver these goods to Conway City in LTT 4961. It has also placed a kill order on all ships on Its wanted list, as part of an initiative to rid the system of corruption and crime. 
 
-A spokesperson for NULL released [[The following]] statement: 
+A spokesperson for NULL released The following statement: 
 
-“Having secured the necessary funds, we are now [[In a]] position to offer generous rewards to pilots who support this two-pronged initiative. [[With the]] help of the galaxy’s independent pilots, we hope to both expand the economic power of [[LTT 4961 and bring peace to the]] system.” 
+“Having secured the necessary funds, we are now In a position to offer generous rewards to pilots who support this two-pronged initiative. With the help of the galaxy’s independent pilots, we hope to both expand the economic power of LTT 4961 and bring peace to the system.” 
 
-The operation begins on the 13th of July 3303 and will [[Run]] for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The operation begins on the 13th of July 3303 and will Run for one week. If the final target is met earlier than planned, the campaign will end immediately.

@@ -19,6 +19,6 @@ significance: low
 Appeal for Crystalline Spheres Comes to an End
 
 
-Last week, [[The]] [[Hel]] Purple Energy Industry launched a public appeal for crystalline spheres to commemorate the upcoming winter solstice festival – a tradition from [[Earth]]'s ancient past. [[Hundreds of]] [[Independent]] pilots got into the spirit of the occasion, taking to their ships to deliver the requested commodities to [[Snow Moon in the Bento]] system. A spokesperson for the Hel Purple Energy Industry said: 
+Last week, The Hel Purple Energy Industry launched a public appeal for crystalline spheres to commemorate the upcoming winter solstice festival – a tradition from Earth's ancient past. Hundreds of Independent pilots got into the spirit of the occasion, taking to their ships to deliver the requested commodities to Snow Moon in the Bento system. A spokesperson for the Hel Purple Energy Industry said: 
 
-"We're thrilled [[With]] how it's turned out, we really are. Some said [[This]] appeal didn't have a chance of succeeding, [[But the]] response from the galactic community shows that the winter solstice still means something to people. Now if you'll excuse me, I need to check on the turkey."
+"We're thrilled With how it's turned out, we really are. Some said This appeal didn't have a chance of succeeding, But the response from the galactic community shows that the winter solstice still means something to people. Now if you'll excuse me, I need to check on the turkey."

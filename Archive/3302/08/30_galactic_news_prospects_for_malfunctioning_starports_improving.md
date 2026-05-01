@@ -20,10 +20,10 @@ significance: high
 Galactic News: Prospects for Malfunctioning Starports Improving
 
 
-Technical personnel at New Dawn Station in [[The]] [[Ceos]] system have announced a breakthrough in the ongoing fight against the so-called technological plague. 
+Technical personnel at New Dawn Station in The Ceos system have announced a breakthrough in the ongoing fight against the so-called technological plague. 
 
-Tag Arthurs, head of the starport's technical team, released [[The following]] statement to news feeds: 
+Tag Arthurs, head of the starport's technical team, released The following statement to news feeds: 
 
-"Although [[Our]] understanding of meta-alloys remains incomplete, we are now able to apply them much more efficiently. Consequently, we now need much smaller quantities of meta-alloys to return a malfunctioning starport to functionality – half as much as we used to, in fact." 
+"Although Our understanding of meta-alloys remains incomplete, we are now able to apply them much more efficiently. Consequently, we now need much smaller quantities of meta-alloys to return a malfunctioning starport to functionality – half as much as we used to, in fact." 
 
-"We've also determined that the week immediately following the first signs of Unknown Artefact-related interference is a critical [[One]]. If an affected starport can be supplied [[With]] meta-alloys within that week, it is [[Far]] less likely that the situation at the starport will worsen."
+"We've also determined that the week immediately following the first signs of Unknown Artefact-related interference is a critical One. If an affected starport can be supplied With meta-alloys within that week, it is Far less likely that the situation at the starport will worsen."

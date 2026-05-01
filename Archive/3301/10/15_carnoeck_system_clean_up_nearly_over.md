@@ -21,9 +21,9 @@ legacy_weight: 1
 significance: low
 ---
 
-[[Carnoeck]] System Clean up Nearly Over
+Carnoeck System Clean up Nearly Over
 
 
-Last week, [[United Carnoeck for Equality]] issued a public appeal for help in clearing [[The]] Carnoeck system of pirates and [[Other]] disruptive elements. The agitators had congregated in the Carnoeck system in the wake of the Bacon Protests anniversary celebrations, and were harassing traders and revellers travelling to and from [[Bacon City]]. 
+Last week, United Carnoeck for Equality issued a public appeal for help in clearing The Carnoeck system of pirates and Other disruptive elements. The agitators had congregated in the Carnoeck system in the wake of the Bacon Protests anniversary celebrations, and were harassing traders and revellers travelling to and from Bacon City. 
 
-The response to the appeal was overwhelmingly positive, [[With]] [[Hundreds of]] combat pilots taking to their ships and heading for the Carnoeck system. The resulting conflict lasted for [[Several]] days and raged throughout Carnoeck, and ultimately succeeded in routing the disruptive elements. United Carnoeck for Equality will soon be issuing rewards to pilots who helped to clear the spaceways of agitators.
+The response to the appeal was overwhelmingly positive, With Hundreds of combat pilots taking to their ships and heading for the Carnoeck system. The resulting conflict lasted for Several days and raged throughout Carnoeck, and ultimately succeeded in routing the disruptive elements. United Carnoeck for Equality will soon be issuing rewards to pilots who helped to clear the spaceways of agitators.

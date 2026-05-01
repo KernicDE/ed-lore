@@ -22,13 +22,13 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Alliance]] Campaign Comes to an End
+Alliance Campaign Comes to an End
 
 
-[[The]] Alliance has announced that [[Its]] appeal for materials has reached a successful conclusion, having received the unalloyed support of the galactic community. Huge quantities of raw materials were delivered to Bulychev Hub over the past week, [[Which]] will be used to build an Orbis starport in the Synuefai EB-R c7-5 system. 
+The Alliance has announced that Its appeal for materials has reached a successful conclusion, having received the unalloyed support of the galactic community. Huge quantities of raw materials were delivered to Bulychev Hub over the past week, Which will be used to build an Orbis starport in the Synuefai EB-R c7-5 system. 
 
-[[As the]] campaign drew to a close, Alliance official Torvan Dast issued a statement, thanking those who supported the campaign and adding: 
+As the campaign drew to a close, Alliance official Torvan Dast issued a statement, thanking those who supported the campaign and adding: 
 
-“By providing Alliance convoys and [[Independent]] pilots [[With]] a much-needed resupply point, we hope [[This]] new starport will be the first step in transforming what is currently an outlying enclave into a thriving community.” 
+“By providing Alliance convoys and Independent pilots With a much-needed resupply point, we hope This new starport will be the first step in transforming what is currently an outlying enclave into a thriving community.” 
 
 Construction of the new starport is expected to begin soon. Pilots who contributed to the initiative can now collect their rewards from Bulychev Hub in the LP 128-32 system.

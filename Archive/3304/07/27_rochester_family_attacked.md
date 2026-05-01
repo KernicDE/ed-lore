@@ -36,21 +36,21 @@ related_uuids:
 - 54d3fd1f-f0e9-545c-99f4-94612ad989e6
 ---
 
-[[Rochester]] Family Attacked
+Rochester Family Attacked
 
 
-Members of [[The]] Rochester family have come under personal and political attack following the engagement of Federal Ambassador Jordan Rochester to Princess [[Aisling Duval]]. 
+Members of The Rochester family have come under personal and political attack following the engagement of Federal Ambassador Jordan Rochester to Princess Aisling Duval. 
 
-[[Several]] media outlets shared news of an incident involving Jordan Rochester’s teenage niece: 
+Several media outlets shared news of an incident involving Jordan Rochester’s teenage niece: 
 
-“A physical assault against Kali Rochester was reported on campus at [[Olympus Village]] University yesterday. Students surrounded Ms Rochester and accosted her while chanting anti-Imperial slogans. The assault was repelled by her private security detail.” 
+“A physical assault against Kali Rochester was reported on campus at Olympus Village University yesterday. Students surrounded Ms Rochester and accosted her while chanting anti-Imperial slogans. The assault was repelled by her private security detail.” 
 
-Meanwhile, Kali’s father [[Jupiter Rochester]] was featured [[In a]] financial report from The [[Federal Times]]: 
+Meanwhile, Kali’s father Jupiter Rochester was featured In a financial report from The Federal Times: 
 
-“[[Core Dynamics]] stock dropped by 18 per cent [[This]] month, undoubtedly due to the CEO’s family being linked [[With]] an Imperial princess. [[Jupiter]] Rochester has come under fire from both shareholders and management, who are concerned that [[One]] of the Federation’s bedrocks might be losing his integrity.” 
+“Core Dynamics stock dropped by 18 per cent This month, undoubtedly due to the CEO’s family being linked With an Imperial princess. Jupiter Rochester has come under fire from both shareholders and management, who are concerned that One of the Federation’s bedrocks might be losing his integrity.” 
 
-Questions have also been asked in Congress of [[Isolde Rochester]], Jordan Rochester’s mother. [[Many]] congressmen have demanded assurances that the Federation will not relinquish influence or territory to the Empire in the wake of the marriage. 
+Questions have also been asked in Congress of Isolde Rochester, Jordan Rochester’s mother. Many congressmen have demanded assurances that the Federation will not relinquish influence or territory to the Empire in the wake of the marriage. 
 
-Isolde Rochester released [[The following]] statement: 
+Isolde Rochester released The following statement: 
 
-“Conservative elements always react negatively to change, even when that change is in society’s best interest. My son’s relationship with Her Imperial Highness represents not just a union between the Rochesters and the House of Duval, [[But the]] start of a new era of cooperation that will strengthen us all.”
+“Conservative elements always react negatively to change, even when that change is in society’s best interest. My son’s relationship with Her Imperial Highness represents not just a union between the Rochesters and the House of Duval, But the start of a new era of cooperation that will strengthen us all.”

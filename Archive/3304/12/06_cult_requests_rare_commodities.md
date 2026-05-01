@@ -26,12 +26,12 @@ related_uuids:
 Cult Requests Rare Commodities
 
 
-[[An obscure cult based in [[The]] Zlota]] system has requested a range of rare items for an arcane ceremony. 
+An obscure cult based in The Zlota system has requested a range of rare items for an arcane ceremony. 
 
 A handwritten statement from Barnabas Cole, leader of a group named the Children of Tothos, was submitted to the media: 
 
-“[[This]] is the rite that will unmask us and allow us to see the path – the path we will all take, together, toward freedom.” 
+“This is the rite that will unmask us and allow us to see the path – the path we will all take, together, toward freedom.” 
 
-[[Zlota]] Federal Holdings, [[Which]] is thought to have some connection to the cult, has requested [[Aganippe]] Rush, Motrona Experience Jelly and Onion Head to be delivered to Nusslein-Volhard Settlement in the Zlota system. It has also placed a kill order on all ships on [[Its]] wanted list, to protect those delivering these rare commodities. 
+Zlota Federal Holdings, Which is thought to have some connection to the cult, has requested Aganippe Rush, Motrona Experience Jelly and Onion Head to be delivered to Nusslein-Volhard Settlement in the Zlota system. It has also placed a kill order on all ships on Its wanted list, to protect those delivering these rare commodities. 
 
-The initiative begins on the 6th of December 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The initiative begins on the 6th of December 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

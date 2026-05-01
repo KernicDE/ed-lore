@@ -21,15 +21,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-Community Goal: [[The]] Path to Colonia
+Community Goal: The Path to Colonia
 
 
-The [[Kamadhenu]] Chapterhouse of Inquisition has announced plans to establish a series of starports between the core systems and Colonia to make the daunting voyage a little easier. A total of three starports have been planned, [[Which]] the Chapterhouse hopes will expedite the creation of a freight and passenger service known [[As the]] Blue [[Star]] Line. 
+The Kamadhenu Chapterhouse of Inquisition has announced plans to establish a series of starports between the core systems and Colonia to make the daunting voyage a little easier. A total of three starports have been planned, Which the Chapterhouse hopes will expedite the creation of a freight and passenger service known As the Blue Star Line. 
 
-The Chapterhouse has placed an open order for gold, robotics and auto-fabricators for the first of these starports, and has promised to reward pilots who deliver these commodities to [[Shajn Market in the Kamadhenu]] system. System authorities have also pledged to issue generous rewards for Chapterhouse-issued bounties, to ensure safe delivery of goods to the starport. 
+The Chapterhouse has placed an open order for gold, robotics and auto-fabricators for the first of these starports, and has promised to reward pilots who deliver these commodities to Shajn Market in the Kamadhenu system. System authorities have also pledged to issue generous rewards for Chapterhouse-issued bounties, to ensure safe delivery of goods to the starport. 
 
-Announcing the campaign, Governor [[Shelby Ortega]] said: 
+Announcing the campaign, Governor Shelby Ortega said: 
 
-“The growth of Colonia has been astounding, but [[Its]] continued success depends on developing more substantive infrastructure. Having received the blessing of the [[Colonia Council]], the Chapterhouse of Inquisition intends to realise a vision of trans-galactic commerce that will benefit all of humanity.” 
+“The growth of Colonia has been astounding, but Its continued success depends on developing more substantive infrastructure. Having received the blessing of the Colonia Council, the Chapterhouse of Inquisition intends to realise a vision of trans-galactic commerce that will benefit all of humanity.” 
 
-The first phase of the campaign begins on the 24th of August 3303. The second phase begins on the 31st of August, and the final phase begins on the 7th of September. [[All three]] phases will [[Run]] for [[One]] week unless targets are met earlier than planned.
+The first phase of the campaign begins on the 24th of August 3303. The second phase begins on the 31st of August, and the final phase begins on the 7th of September. All three phases will Run for One week unless targets are met earlier than planned.

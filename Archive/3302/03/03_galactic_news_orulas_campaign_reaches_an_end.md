@@ -16,15 +16,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: [[Orulas]] Campaign Reaches an End
+Galactic News: Orulas Campaign Reaches an End
 
 
-Rose Trebek, leader of [[The]] Joint Security Taskforce, has announced that the operation to clean up the Orulas system has been an overwhelming success. [[According to]] Trebek, [[Hundreds of]] combat pilots supported the initiative to disrupt the operations of the criminal Blue Hand Gang. 
+Rose Trebek, leader of The Joint Security Taskforce, has announced that the operation to clean up the Orulas system has been an overwhelming success. According to Trebek, Hundreds of combat pilots supported the initiative to disrupt the operations of the criminal Blue Hand Gang. 
 
 Trebek released a statement to the media in the wake of the campaign's success: 
 
-"We had two primary objectives: to clear the spaceways of Orulas, and to liberate the escape pods the criminals were transporting through the system. Thanks to the [[Many]] brave combat pilots who supported the initiative, both objectives were successfully completed. The recovered escape pods have been delivered to Wilkes Orbital, and the occupants will now be returned to their families." 
+"We had two primary objectives: to clear the spaceways of Orulas, and to liberate the escape pods the criminals were transporting through the system. Thanks to the Many brave combat pilots who supported the initiative, both objectives were successfully completed. The recovered escape pods have been delivered to Wilkes Orbital, and the occupants will now be returned to their families." 
 
-[[Asked about the]] system's future, Trebek was characteristically pragmatic: 
+Asked about the system's future, Trebek was characteristically pragmatic: 
 
-"The pilots who contributed to [[This]] initiative have done an outstanding job, [[But the]] Blue Hand Gang hasn't been completely destroyed. We've won the battle, but the war is [[Far]] from over."
+"The pilots who contributed to This initiative have done an outstanding job, But the Blue Hand Gang hasn't been completely destroyed. We've won the battle, but the war is Far from over."

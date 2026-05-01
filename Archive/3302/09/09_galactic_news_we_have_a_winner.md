@@ -19,10 +19,10 @@ significance: low
 Galactic News: We Have a Winner!
 
 
-A pilot by [[The]] name of Commander [[Falchion]] has won the Melee Masters arena competition. 
+A pilot by The name of Commander Falchion has won the Melee Masters arena competition. 
 
-[[In a]] tense final bout, Commander [[Falchion appeared]] to give up right on the cusp of victory, but it was revealed to have been a ruse designed to bring his opponent into firing range. 
+In a tense final bout, Commander Falchion appeared to give up right on the cusp of victory, but it was revealed to have been a ruse designed to bring his opponent into firing range. 
 
-A reporter from Sports Zeta Weekly commented: "I had no fingernails by the end of that [[One]]. The sheer moxie of Commander Falchion, to sucker in his opponent like that! Big risk, big payoff. The crowds loved it! A worthy winner." 
+A reporter from Sports Zeta Weekly commented: "I had no fingernails by the end of that One. The sheer moxie of Commander Falchion, to sucker in his opponent like that! Big risk, big payoff. The crowds loved it! A worthy winner." 
 
-Commander Falchion was not available for interview and appears to maintaining a cloak of anonymity, although it is known that he or she is from the [[Chi Orionis]] system.
+Commander Falchion was not available for interview and appears to maintaining a cloak of anonymity, although it is known that he or she is from the Chi Orionis system.

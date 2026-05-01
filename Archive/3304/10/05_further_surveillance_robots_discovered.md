@@ -31,21 +31,21 @@ related_uuids:
 - 42ef6025-276f-5d89-b735-6c4cb293e6fb
 ---
 
-[[Further]] Surveillance Robots Discovered
+Further Surveillance Robots Discovered
 
 
-[[The]] [[Federal Security Service]] has discovered more administration robots fitted [[With]] secret surveillance programs. 
+The Federal Security Service has discovered more administration robots fitted With secret surveillance programs. 
 
 Lieutenant Inspector Ramesh Thorne informed the media: 
 
-“[[Our]] investigation into Lloyd Hardacre’s admin robot, [[Which]] secretly recorded evidence of corporate fraud, has broadened significantly. Acting on reports of unusual behaviour, we have [[Found]] [[Five]] further robots containing hidden surveillance programs.” 
+“Our investigation into Lloyd Hardacre’s admin robot, Which secretly recorded evidence of corporate fraud, has broadened significantly. Acting on reports of unusual behaviour, we have Found Five further robots containing hidden surveillance programs.” 
 
-“In [[Each]] case, the robot was a PA912 model, manufactured by the Achilles Corporation. The robots’ owners are now helping us with our enquiries.” 
+“In Each case, the robot was a PA912 model, manufactured by the Achilles Corporation. The robots’ owners are now helping us with our enquiries.” 
 
-Two of the five owners have been identified. Don Zhao is the CEO of Kuiper Mining Inc., while Anya Blackriver runs a public-relations consultancy with offices in [[Olympus Village]], San Francisco and Columbus station. 
+Two of the five owners have been identified. Don Zhao is the CEO of Kuiper Mining Inc., while Anya Blackriver runs a public-relations consultancy with offices in Olympus Village, San Francisco and Columbus station. 
 
-A spokesperson for the Achilles Corporation gave [[This]] statement: 
+A spokesperson for the Achilles Corporation gave This statement: 
 
-“We are cooperating [[With the]] FSS investigation, and would like to reassure the public that our robots are as trustworthy as ever. This illegal surveillance has nothing whatsoever to do with the Achilles Corporation.” 
+“We are cooperating With the FSS investigation, and would like to reassure the public that our robots are as trustworthy as ever. This illegal surveillance has nothing whatsoever to do with the Achilles Corporation.” 
 
 Over the last decade, the Achilles Corporation has sold over 20 million robots throughout the Federation, including nearly 300,000 PA912 models.

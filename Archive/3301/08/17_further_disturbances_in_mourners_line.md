@@ -18,11 +18,11 @@ legacy_weight: 1
 significance: low
 ---
 
-[[Further]] Disturbances in Mourners' Line
+Further Disturbances in Mourners' Line
 
 
-[[Further]] Disturbances in Mourners' Line 
+Further Disturbances in Mourners' Line 
  
-[[Imperial Naval Infantry]] have once again intervened as protesters – who have taken issue [[With]] [[Senator [[Denton]] Patreus]]’s connection to Brendan Paul Darius, [[The]] Emperor’s murderer – attempted to prevent access to some of Senator Patreus’s allies late last night. [[This]] time [[The]] agitators resisted the soldiers’ efforts to maintain peace. After [[Several]] attempts to peacefully resolve the situation, a riot squad was deployed to restore order. 
+Imperial Naval Infantry have once again intervened as protesters – who have taken issue With Senator Denton Patreus’s connection to Brendan Paul Darius, The Emperor’s murderer – attempted to prevent access to some of Senator Patreus’s allies late last night. This time The agitators resisted the soldiers’ efforts to maintain peace. After Several attempts to peacefully resolve the situation, a riot squad was deployed to restore order. 
 
-The action was efficiently completed, but smaller disturbances and protests flared up throughout the night. All were pacified by the troops but [[Many]] mourners were forced to flee. Calm was eventually restored and an [[Imperial Guard]] company has now been stationed to secure the entrance to the Hall of Martyrs. A full regiment of Naval infantry has also been moved into the city.
+The action was efficiently completed, but smaller disturbances and protests flared up throughout the night. All were pacified by the troops but Many mourners were forced to flee. Calm was eventually restored and an Imperial Guard company has now been stationed to secure the entrance to the Hall of Martyrs. A full regiment of Naval infantry has also been moved into the city.

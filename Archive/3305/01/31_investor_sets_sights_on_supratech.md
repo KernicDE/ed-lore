@@ -26,12 +26,12 @@ related_uuids:
 Investor Sets Sights on Supratech
 
 
-Billionaire investor Lexi [[October]] has announced plans to save technology company Supratech from bankruptcy: 
+Billionaire investor Lexi October has announced plans to save technology company Supratech from bankruptcy: 
 
-"Although Supratech's Torc design proved to be impractical, I feel that a company [[With]] such imagination and expertise deserves another chance to succeed. So I have decided to fund a commodity drive to get Supratech back on [[Its]] feet." 
+"Although Supratech's Torc design proved to be impractical, I feel that a company With such imagination and expertise deserves another chance to succeed. So I have decided to fund a commodity drive to get Supratech back on Its feet." 
 
-"I have invited [[The]] People's Rakapila Progressive Party to organise shipments of Computer components, Auto-fabricators and Hardware diagnostic sensors, [[Which]] will enable Supratech to resume its innovative work." 
+"I have invited The People's Rakapila Progressive Party to organise shipments of Computer components, Auto-fabricators and Hardware diagnostic sensors, Which will enable Supratech to resume its innovative work." 
 
-Deliveries should be made to [[Stone Enterprise in the Rakapila]] system. To protect traders, the People's Rakapila Progressive Party has placed a kill order on all wanted ships in the system. 
+Deliveries should be made to Stone Enterprise in the Rakapila system. To protect traders, the People's Rakapila Progressive Party has placed a kill order on all wanted ships in the system. 
 
-The initiative begins on the 31st of January 3305 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The initiative begins on the 31st of January 3305 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

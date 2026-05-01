@@ -25,12 +25,12 @@ significance: high
 Freelance Report: Fresh Fruit Meets Bitter Harvest
 
 
-Speaking from [[The]] [[Canonn]] Interstellar Research Institute, Dr [[Arcanonn]] has commented on the current state of barnacle research and lauded the discovery of harvesting sites in the [[California Nebula]]: 
+Speaking from The Canonn Interstellar Research Institute, Dr Arcanonn has commented on the current state of barnacle research and lauded the discovery of harvesting sites in the California Nebula: 
 
-"Once again, the efforts of an [[Independent]] explorer have resulted in an exciting discovery. Thanks to Commander [[Wobblytickle's report]] from California Sector DL-Y D4 C6, the long-suspected presence of barnacles in the California Nebula has now been confirmed." 
+"Once again, the efforts of an Independent explorer have resulted in an exciting discovery. Thanks to Commander Wobblytickle's report from California Sector DL-Y D4 C6, the long-suspected presence of barnacles in the California Nebula has now been confirmed." 
 
-But Dr Arcanonn's tone grew notably cooler when speaking about the barnacles of the [[Pleiades Nebula]]: 
+But Dr Arcanonn's tone grew notably cooler when speaking about the barnacles of the Pleiades Nebula: 
 
-"The loss of [[Several]] barnacles – whether through destruction or exhaustion – is naturally of concern to those of us investigating [[This]] enigma." 
+"The loss of Several barnacles – whether through destruction or exhaustion – is naturally of concern to those of us investigating This enigma." 
 
 Commander Nicholas Powell

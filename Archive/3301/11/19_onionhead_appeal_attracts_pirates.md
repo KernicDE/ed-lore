@@ -18,9 +18,9 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Onionhead]] Appeal Attracts Pirates
+Onionhead Appeal Attracts Pirates
 
 
-[[Reports coming in from [[The]] Xelabara]] system indicate that the recent request from the Drug Empire of Xelabara for onionhead has drawn [[Hundreds of]] pirates to the system. [[According to]] system authorities, the pirates are targeting the traders travelling to and from Navigator Market, the hub of the onionhead operation. Fortunately, the Xelabara Republic Party has promised to reward pilots who help eliminate the pirates. A spokesperson for the Xelabara Republic Party said: 
+Reports coming in from The Xelabara system indicate that the recent request from the Drug Empire of Xelabara for onionhead has drawn Hundreds of pirates to the system. According to system authorities, the pirates are targeting the traders travelling to and from Navigator Market, the hub of the onionhead operation. Fortunately, the Xelabara Republic Party has promised to reward pilots who help eliminate the pirates. A spokesperson for the Xelabara Republic Party said: 
 
 "We suspected the increase in trade activity would attract pirates, so we set aside some privateer bonds for combat pilots to help clear the spaceways. So if you own a combat ship and you know how to use it, get yourself over to Xelabara. We need you!"

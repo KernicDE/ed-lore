@@ -33,16 +33,16 @@ related_uuids:
 Terrorist Hit Squad Targets Hadrian Duval
 
 
-Imperator Hadrian Augustus Duval has been severely wounded in an assassination attempt by Neo-[[Marlinist]] extremists. 
+Imperator Hadrian Augustus Duval has been severely wounded in an assassination attempt by Neo-Marlinist extremists. 
 
-[[The]] attack took place at Dyson City in the [[Paresa]] system, headquarters of the isolationist organisation [[Nova Imperium]]. A small team of armed intruders broke into the command deck and opened fire. Three people were killed and four injured, including Hadrian Duval, before his Praetorian Guard eliminated the assassins. 
+The attack took place at Dyson City in the Paresa system, headquarters of the isolationist organisation Nova Imperium. A small team of armed intruders broke into the command deck and opened fire. Three people were killed and four injured, including Hadrian Duval, before his Praetorian Guard eliminated the assassins. 
 
-The NMLA has claimed responsibility. On propaganda channels, the paramilitary group vows to “sever [[Every]] head of the Duval hydra”, and calls for all citizens to rise up and demand democracy. 
+The NMLA has claimed responsibility. On propaganda channels, the paramilitary group vows to “sever Every head of the Duval hydra”, and calls for all citizens to rise up and demand democracy. 
 
-Praetor Leo Magnus, Nova Imperium’s head of security, gave [[This]] statement to Vox Galactica: 
+Praetor Leo Magnus, Nova Imperium’s head of security, gave This statement to Vox Galactica: 
 
-“The Imperator is [[In a]] critical condition but receiving [[Our]] finest medical care. I am personally overseeing an investigation into how the NMLA infiltrated our starport and bypassed security checks.” 
+“The Imperator is In a critical condition but receiving Our finest medical care. I am personally overseeing an investigation into how the NMLA infiltrated our starport and bypassed security checks.” 
 
 “Such attacks are as sickening as they are cowardly, and Nova Imperium stands firmly against these terrorists.” 
 
-Hadrian Duval is the illegitimate grandson of Emperor [[Hengist]]. His father, the late Commander [[Hector Jansen]], was the result of a secret liaison [[With]] a household slave. Although disowned by the Imperial Family, Hadrian claims to be a rightful heir to the throne.
+Hadrian Duval is the illegitimate grandson of Emperor Hengist. His father, the late Commander Hector Jansen, was the result of a secret liaison With a household slave. Although disowned by the Imperial Family, Hadrian claims to be a rightful heir to the throne.

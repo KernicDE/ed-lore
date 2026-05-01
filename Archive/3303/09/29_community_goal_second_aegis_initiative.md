@@ -20,15 +20,15 @@ legacy_weight: 5
 significance: high
 ---
 
-Community Goal: Second [[Aegis]] Initiative
+Community Goal: Second Aegis Initiative
 
 
-Last week, Aegis started developing weapons and technologies to address [[The]] rising [[Thargoid]] threat. While some were dismayed to see Aegis shift to a military focus, the general consensus was that the move was necessary. 
+Last week, Aegis started developing weapons and technologies to address The rising Thargoid threat. While some were dismayed to see Aegis shift to a military focus, the general consensus was that the move was necessary. 
 
-Following news that Aegis is to embark on a second development initiative, Aegis' military liaison Admiral Aden Tanner released [[The following]] statement: 
+Following news that Aegis is to embark on a second development initiative, Aegis' military liaison Admiral Aden Tanner released The following statement: 
 
-"The Thargoids represent a very real threat, and their hostility demands that we take appropriate action. As [[With]] [[Our]] previous initiative, our intention is to collaborate with some of the galaxy's foremost [[Engineers]] to develop efficient anti-Thargoid technologies." 
+"The Thargoids represent a very real threat, and their hostility demands that we take appropriate action. As With Our previous initiative, our intention is to collaborate with some of the galaxy's foremost Engineers to develop efficient anti-Thargoid technologies." 
 
-In support of [[This]] aim, Aegis's corporate partners Wolf 397 Independents have pledged to reward pilots who deliver tantalum, Thargoid Cyclops tissue samples and CMM Composites to Chelbin Service Station in the Wolf 397 system. 
+In support of This aim, Aegis's corporate partners Wolf 397 Independents have pledged to reward pilots who deliver tantalum, Thargoid Cyclops tissue samples and CMM Composites to Chelbin Service Station in the Wolf 397 system. 
 
-The campaign begins on the 28th of September and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 28th of September and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

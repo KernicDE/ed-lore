@@ -25,13 +25,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[Sol]] Today hosted an interview [[With the]] multi-billionaire [[Zachary Rackham]], who is rumoured to be moving into politics.
-From his villa at Lake Rackham, overlooking Homeland’s famous Singing Geysers, [[The]] entrepreneur spoke at length on various topics.
+Sol Today hosted an interview With the multi-billionaire Zachary Rackham, who is rumoured to be moving into politics.
+From his villa at Lake Rackham, overlooking Homeland’s famous Singing Geysers, The entrepreneur spoke at length on various topics.
 On the rise of his business empire:
-“The hard-working folk at Rackham Capital Investments have done me proud in recent years. We’re currently holding financial talks to acquire a major starport company, so watch [[This]] space!”
-On his role [[With]] [[The Beta Hydri]] Corporation:
-“It’s a privilege to support my people in [[Beta Hydri]], by helping to [[Run]] their government. Things are already running smoother after I streamlined a few departments.”
+“The hard-working folk at Rackham Capital Investments have done me proud in recent years. We’re currently holding financial talks to acquire a major starport company, so watch This space!”
+On his role With The Beta Hydri Corporation:
+“It’s a privilege to support my people in Beta Hydri, by helping to Run their government. Things are already running smoother after I streamlined a few departments.”
 On suggestions that he will take part in the Federal presidential election:
-“I’m deeply flattered by calls to stand as an [[Independent]] candidate. But really, an ordinary guy like me as president? I suppose it indicates that people are looking for something different to what Hudson and Winters offer.”
+“I’m deeply flattered by calls to stand as an Independent candidate. But really, an ordinary guy like me as president? I suppose it indicates that people are looking for something different to what Hudson and Winters offer.”
 On Bryanna Blanco’s claims that he was once a pirate:
 “Ah, you have to admire Ms Blanco’s tenacity! But ‘Calico Zack’ sounds like a character from an Olav Redcourt novel, doesn’t he? I should thank her for making me look a lot more impressive than I ever was.”

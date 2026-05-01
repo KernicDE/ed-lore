@@ -26,15 +26,15 @@ related_uuids:
 - 7bf623ab-d7be-566b-a8f8-e36c6e4a35b4
 ---
 
-[[Merope]] Defence Initiative
+Merope Defence Initiative
 
 
-[[The]] [[Atlas]] Research Group has urgently requested military materials to increase security in the Merope system. 
+The Atlas Research Group has urgently requested military materials to increase security in the Merope system. 
 
 Defence Director Jacob Chowdhury said: 
 
-"The [[Thargoid]] presence throughout the [[Pleiades Nebula]] [[Continues]] to be a major threat. To reassure the public, Atlas is investing in improved defences for the Merope system." 
+"The Thargoid presence throughout the Pleiades Nebula Continues to be a major threat. To reassure the public, Atlas is investing in improved defences for the Merope system." 
 
 "Traders are invited to deliver Reactive Armour and Military Grade Fabrics to Reed's Rest. To help protect incoming ships from criminal elements, we have also allocated bounties to all wanted vessels in the system." 
 
-The initiative begins on the 14th of February 3305 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The initiative begins on the 14th of February 3305 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

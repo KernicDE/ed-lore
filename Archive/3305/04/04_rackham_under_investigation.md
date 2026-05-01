@@ -29,12 +29,12 @@ related_uuids:
 Rackham Under Investigation
 
 
-[[The]] [[Federal Times]] has been asked to assist [[With]] a criminal investigation into Rackham Capital Investments. 
+The Federal Times has been asked to assist With a criminal investigation into Rackham Capital Investments. 
 
 Journalist Bryanna Blanco reported on the details: 
 
-"Operatives from the Federal Intelligence Agency have contacted [[Our]] offices regarding the recent deaths at [[Zachary Rackham]]'s company. We are cooperating with their inquiry and have agreed to share all relevant documentation." 
+"Operatives from the Federal Intelligence Agency have contacted Our offices regarding the recent deaths at Zachary Rackham's company. We are cooperating with their inquiry and have agreed to share all relevant documentation." 
 
 "The Federal Times has been monitoring the suspicious activities of 'Calico Zack' for years, so we're relieved that the authorities are at last taking these allegations seriously. Our discoveries about Taja Gavaris – who seems to be clearing the path up the corporate ladder by any means necessary – are of particular concern." 
 
-"We expect Rackham, Gavaris and [[Many]] [[Other]] ex-pirates masquerading as businessmen to answer all charges brought against them."
+"We expect Rackham, Gavaris and Many Other ex-pirates masquerading as businessmen to answer all charges brought against them."

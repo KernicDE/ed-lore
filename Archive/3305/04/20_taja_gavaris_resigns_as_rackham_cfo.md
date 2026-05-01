@@ -28,14 +28,14 @@ related_uuids:
 Taja Gavaris Resigns as Rackham CFO
 
 
-Taja Gavaris, [[The]] CFO of Rackham Capital Investments, has unexpectedly resigned from her position and subsequently emigrated from Federal space. 
+Taja Gavaris, The CFO of Rackham Capital Investments, has unexpectedly resigned from her position and subsequently emigrated from Federal space. 
 
-[[Several]] [[Other]] employees who were loyal to Gavaris resigned alongside her. All chose to waive their final salaries and bonuses, [[Which]] totalled approximately 365 million credits [[According to]] sources within the company. 
+Several Other employees who were loyal to Gavaris resigned alongside her. All chose to waive their final salaries and bonuses, Which totalled approximately 365 million credits According to sources within the company. 
 
-Journalist Bryanna Blanco commented in The [[Federal Times]]: 
+Journalist Bryanna Blanco commented in The Federal Times: 
 
-"It has become apparent that the Federal Intelligence Agents who acquired [[Our]] data on [[Zachary Rackham]] were in fact imposters working for him, employing fake credentials. [[With]] our research, Rackham would be capable of blackmailing fellow ex-pirate Taja Gavaris into resigning – the corporate equivalent of assassinating a rival." 
+"It has become apparent that the Federal Intelligence Agents who acquired Our data on Zachary Rackham were in fact imposters working for him, employing fake credentials. With our research, Rackham would be capable of blackmailing fellow ex-pirate Taja Gavaris into resigning – the corporate equivalent of assassinating a rival." 
 
-"Naturally, we cannot prove [[This]] is what has occurred. But rest assured that we'll continue keeping a close eye on Calico Zack." 
+"Naturally, we cannot prove This is what has occurred. But rest assured that we'll continue keeping a close eye on Calico Zack." 
 
 The Federal Times also confirmed that a donation of 36.5 million credits has been received from Rackham Capital Investments, 'in recognition of the organisation's dedication to ethical journalism'.

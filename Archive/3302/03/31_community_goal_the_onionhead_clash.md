@@ -14,17 +14,17 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: [[The]] [[Onionhead]] Clash
+Community Goal: The Onionhead Clash
 
 
-The ongoing Federal campaign against Onionhead has taken a new turn [[With the]] appointment of an 'Onionhead tzar', who will assume overall responsibility for eliminating the drug from Federal space. Edward Bores, a seasoned government official, has assumed the role, promising to employ "targeted measures" in the fight against the illegal narcotic. 
+The ongoing Federal campaign against Onionhead has taken a new turn With the appointment of an 'Onionhead tzar', who will assume overall responsibility for eliminating the drug from Federal space. Edward Bores, a seasoned government official, has assumed the role, promising to employ "targeted measures" in the fight against the illegal narcotic. 
 
-At a press event, Bores marked his appointment [[With]] the announcement of an innovative new campaign: 
+At a press event, Bores marked his appointment With the announcement of an innovative new campaign: 
 
-"We are launching an initiative called 'Hand in the Head' designed to encourage Federal citizens to surrender any Onionhead in their possession. Individuals who deliver Onionhead to [[Our]] headquarters at Grandin [[Gateway]] in the [[Altair]] system will be generously rewarded. At the end of the campaign, any Onionhead we have received will be destroyed." 
+"We are launching an initiative called 'Hand in the Head' designed to encourage Federal citizens to surrender any Onionhead in their possession. Individuals who deliver Onionhead to Our headquarters at Grandin Gateway in the Altair system will be generously rewarded. At the end of the campaign, any Onionhead we have received will be destroyed." 
 
-Meanwhile, an organisation known [[As the]] Altair Purple Mob has launched a campaign to prove that the drug is harmless, with the ultimate aim of having it reclassified as a non-toxic plant. Like the Federation, the organisation has issued an appeal for quantities of the drug, but unlike the Federation, the Altair Purple Mob intends to study the plant rather than destroy it. A spokesperson for the organisation said: 
+Meanwhile, an organisation known As the Altair Purple Mob has launched a campaign to prove that the drug is harmless, with the ultimate aim of having it reclassified as a non-toxic plant. Like the Federation, the organisation has issued an appeal for quantities of the drug, but unlike the Federation, the Altair Purple Mob intends to study the plant rather than destroy it. A spokesperson for the organisation said: 
 
-"Legalising Onionhead would decriminalise [[Its]] users, provide the Federal government with a new revenue stream, and destabilise the criminal network through [[Which]] the drug is currently bought and sold. It's a no-brainer." 
+"Legalising Onionhead would decriminalise Its users, provide the Federal government with a new revenue stream, and destabilise the criminal network through Which the drug is currently bought and sold. It's a no-brainer." 
 
-The competing campaigns are scheduled to begin on the 31st of March 3302, and will [[Run]] for [[One]] week.
+The competing campaigns are scheduled to begin on the 31st of March 3302, and will Run for One week.

@@ -37,10 +37,10 @@ legacy_weight: 3
 significance: medium
 ---
 
-*[[Pilots Federation]] ALERT*
-[[As the]] Assembly votes for [[Its]] new leader, Prime Minister [[Edmund Mahon]] has requested mined tritium to aid expansion.
-[[The]] new initiative follows on from his successful drive for industrial materials, [[Which]] resulted in large amounts of ceramic composites, polymers and superconductors. Pilots who contributed to [[This]] can now collect their rewards from [[Dublin Citadel in the Gateway]] system.
+*Pilots Federation ALERT*
+As the Assembly votes for Its new leader, Prime Minister Edmund Mahon has requested mined tritium to aid expansion.
+The new initiative follows on from his successful drive for industrial materials, Which resulted in large amounts of ceramic composites, polymers and superconductors. Pilots who contributed to This can now collect their rewards from Dublin Citadel in the Gateway system.
 A competing community drive by Councillor Nakato Kaine, Mahon’s main rival in the election, brought deliveries of copper, micro-controllers and polymers.
-Prime Minister Mahon’s new tritium mining initiative aims to provide a stockpile of fuel to support the [[Alliance]]’s expansion programme. This will involve constructing up to [[Five]] new starports, which are expected to be operational within a month. 
-Mined deposits of tritium can be delivered to Dublin Citadel in the [[Gateway]] system.
+Prime Minister Mahon’s new tritium mining initiative aims to provide a stockpile of fuel to support the Alliance’s expansion programme. This will involve constructing up to Five new starports, which are expected to be operational within a month. 
+Mined deposits of tritium can be delivered to Dublin Citadel in the Gateway system.
 Members of the Alliance Assembly will gather today to cast their votes for a new prime minister. Opinion polls believe Mahon will comfortably win, although acknowledge that Kaine has broad support. The successful candidate will serve as the Alliance head of state for a six-year term.

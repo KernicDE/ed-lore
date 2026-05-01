@@ -31,17 +31,17 @@ related_uuids:
 - d301a71e-cd3f-534a-a092-a45d95e4e2f5
 ---
 
-[[Thargoid]]-Sympathiser Arrests Increase
+Thargoid-Sympathiser Arrests Increase
 
 
-[[The]] Federal Intelligence Agency has increased arrests of potential Thargoid sympathisers, as it [[Continues]] to investigate the [[Far]] God cult.  
+The Federal Intelligence Agency has increased arrests of potential Thargoid sympathisers, as it Continues to investigate the Far God cult.  
 
-[[Independent]] reporter Gethin Okonkwo, who first raised awareness of doomsayer cults [[In the core]] systems, has been reported [[Missing]] and is assumed to have been arrested. [[Many]] others who were researching the Far God sect remain in custody, including leading exotheologian Dr [[Alfred Ulyanov]]. 
+Independent reporter Gethin Okonkwo, who first raised awareness of doomsayer cults In the core systems, has been reported Missing and is assumed to have been arrested. Many others who were researching the Far God sect remain in custody, including leading exotheologian Dr Alfred Ulyanov. 
 
-The FIA has also shut down the Galactic Interfaith Commune and apprehended [[Its]] spokesperson, Dr [[Jameelah Griffin]]. [[Several]] similar organisations, including the Spiritual Freedom Movement, have been closed down. 
+The FIA has also shut down the Galactic Interfaith Commune and apprehended Its spokesperson, Dr Jameelah Griffin. Several similar organisations, including the Spiritual Freedom Movement, have been closed down. 
 
-Independent observers have confirmed that the FIA has discovered [[Further]] empty Far God hive-chapels. The whereabouts of [[Hundreds of]] adherents remains unknown. In an effort to uncover clues, arrests of associates and family members of Far God worshippers has intensified. 
+Independent observers have confirmed that the FIA has discovered Further empty Far God hive-chapels. The whereabouts of Hundreds of adherents remains unknown. In an effort to uncover clues, arrests of associates and family members of Far God worshippers has intensified. 
 
-Senior Agent [[Micah Whitefield gave]] a brief statement: 
+Senior Agent Micah Whitefield gave a brief statement: 
 
-“We will leave no stone unturned in [[Our]] mission to identify Thargoid influences. The disappearance of Far God chapters is clearly a coordinated operation of either human or alien design. We warn anyone who may be harbouring cult members that they are impeding a Federal investigation, and will face criminal charges.”
+“We will leave no stone unturned in Our mission to identify Thargoid influences. The disappearance of Far God chapters is clearly a coordinated operation of either human or alien design. We warn anyone who may be harbouring cult members that they are impeding a Federal investigation, and will face criminal charges.”

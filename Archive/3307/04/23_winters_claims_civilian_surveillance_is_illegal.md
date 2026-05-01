@@ -34,12 +34,12 @@ legacy_weight: 4
 significance: medium
 ---
 
-[[Shadow President]] [[Felicia Winters]] has claimed that [[The]] Proactive Detection Bureau is unconstitutional as it violates the Federal Accord.
+Shadow President Felicia Winters has claimed that The Proactive Detection Bureau is unconstitutional as it violates the Federal Accord.
 In an address before Congress, she said:
-“The Federation’s constitution explicitly guarantees citizens the right to data security and privacy. The PDB tramples over [[This]] by raiding everyone’s personal communications, casting aside decency and dignity so that algorithms can probe into [[Every]] aspect of [[Our]] lives.”
+“The Federation’s constitution explicitly guarantees citizens the right to data security and privacy. The PDB tramples over This by raiding everyone’s personal communications, casting aside decency and dignity so that algorithms can probe into Every aspect of Our lives.”
 “Furthermore, if ACT’s hypothesis is correct and the NMLA is using an advanced dark-comms network, then the PDB’s existence is baseless and unjustifiable.”
-Vice President [[Jerome Archer]] responded:
+Vice President Jerome Archer responded:
 “The Domestic Counter-Terrorism Act is emergency legislation that temporarily suspends constitutional statutes, until we are satisfied that the terrorist threat has been negated.”
-“Following the PDB’s success in uncovering extremist groups, we are widening the search parameters to include [[Other]] related criminal activity.”
+“Following the PDB’s success in uncovering extremist groups, we are widening the search parameters to include Other related criminal activity.”
 Opinion polls suggest that a slim majority of Federal citizens accept that some liberties must be sacrificed in return for increased security.
-However, [[According to]] the civil rights organisation Advocacy, the speed [[With]] [[Which]] the PDB gained access to data hubs suggested that “The infrastructure was already in place – all the government needed was an opportunity to make it legal.”
+However, According to the civil rights organisation Advocacy, the speed With Which the PDB gained access to data hubs suggested that “The infrastructure was already in place – all the government needed was an opportunity to make it legal.”

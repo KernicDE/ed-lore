@@ -28,20 +28,20 @@ related_uuids:
 - faa5ef02-8da5-512b-a56c-8647996a10f9
 ---
 
-Military Strike Against [[Marlinist]] Faction
+Military Strike Against Marlinist Faction
 
 
-*[[Pilots Federation]] ALERT* 
+*Pilots Federation ALERT* 
 
-Conflict between Regulatory State of Ackwada and Duduseklis Empire League in [[The]] Ackwada system. 
+Conflict between Regulatory State of Ackwada and Duduseklis Empire League in The Ackwada system. 
 
-The Empire has targeted a Marlinist faction that is suspected of supporting the [[Neo-Marlinist Liberation Army]] (NMLA). It was recently placed into lockdown for [[Its]] pro-Marlinist stance, during [[Which]] time suspicions were raised of it having a direct connection to the NMLA.   
+The Empire has targeted a Marlinist faction that is suspected of supporting the Neo-Marlinist Liberation Army (NMLA). It was recently placed into lockdown for Its pro-Marlinist stance, during Which time suspicions were raised of it having a direct connection to the NMLA.   
 
-The [[Imperial Internal Security Service]] made [[This]] statement: 
+The Imperial Internal Security Service made This statement: 
 
-“The Duduseklis Empire League is [[One]] of [[Several]] organisations that publicly accepted the principles of Marlinism. [[Our]] intelligence suggests it is allowing the NMLA to radicalise its citizens into becoming activists for the paramilitary group.” 
+“The Duduseklis Empire League is One of Several organisations that publicly accepted the principles of Marlinism. Our intelligence suggests it is allowing the NMLA to radicalise its citizens into becoming activists for the paramilitary group.” 
 
-“Operations to investigate this potential nest of terrorists have been met [[With]] armed resistance. Imperial auxiliaries and [[Independent]] pilots are requested to assist the Regulatory State of Ackwada in defeating all pro-Marlinist forces in the Ackwada system.” 
+“Operations to investigate this potential nest of terrorists have been met With armed resistance. Imperial auxiliaries and Independent pilots are requested to assist the Regulatory State of Ackwada in defeating all pro-Marlinist forces in the Ackwada system.” 
 
 The Duduseklis Empire League broadcast this message: 
 

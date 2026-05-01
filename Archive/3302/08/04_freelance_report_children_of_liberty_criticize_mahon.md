@@ -22,10 +22,10 @@ significance: high
 Freelance Report: Children of Liberty Criticize Mahon
 
 
-[[The]] organization known [[As the]] Children of Liberty has issued a statement criticizing [[Alliance]] Prime Minister [[Edmund Mahon]] for his recent remarks concerning the supposed failings of the Federation and Empire. 
+The organization known As the Children of Liberty has issued a statement criticizing Alliance Prime Minister Edmund Mahon for his recent remarks concerning the supposed failings of the Federation and Empire. 
 
-"Prime Minister Mahon has denounced the 'pettiness and greed' of his political rivals, but he tolerates those same sins among [[Many of the]] [[Alliance's own member]] systems. He wishes to create 'a truly unified society', yet he tolerates ideologies within the Alliance's own borders that are irreconcilably opposed to [[One]] another! [[According to]] a study published in 3301, over 213 million Alliance citizens live under the rule of explicitly authoritarian governments. How can a galactic power that purports to value harmony and self-determination allow a member system to oppress [[Its]] own citizens?" 
+"Prime Minister Mahon has denounced the 'pettiness and greed' of his political rivals, but he tolerates those same sins among Many of the Alliance's own member systems. He wishes to create 'a truly unified society', yet he tolerates ideologies within the Alliance's own borders that are irreconcilably opposed to One another! According to a study published in 3301, over 213 million Alliance citizens live under the rule of explicitly authoritarian governments. How can a galactic power that purports to value harmony and self-determination allow a member system to oppress Its own citizens?" 
 
 The missive, though critical, does conclude on a note of accord: 
 
-"Despite [[Our]] political disagreements, we believe Prime Minister Mahon is absolutely right to call for protection of the barnacles. The rampant exploitation of these structures is not only reckless, it may even be dangerous. Until we know more about their origin and purpose, we should treat the barnacles [[With]] respect...and a healthy dose of caution."
+"Despite Our political disagreements, we believe Prime Minister Mahon is absolutely right to call for protection of the barnacles. The rampant exploitation of these structures is not only reckless, it may even be dangerous. Until we know more about their origin and purpose, we should treat the barnacles With respect...and a healthy dose of caution."

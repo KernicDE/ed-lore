@@ -22,10 +22,10 @@ significance: high
 Community Goal: 80 DD-D 774-CE-2 Appeals for Exploration Data
 
 
-[[The]] 80 DD-D 774-CE-2 faction, an [[Independent]] organisation based at [[Jaques Station]] in the [[Eol Prou RS-T d3-94]] system, has issued a request for exploration data. The request is part of an ongoing initiative to establish a permanent community in the Colonia Nebula. 
+The 80 DD-D 774-CE-2 faction, an Independent organisation based at Jaques Station in the Eol Prou RS-T d3-94 system, has issued a request for exploration data. The request is part of an ongoing initiative to establish a permanent community in the Colonia Nebula. 
 
-A spokesperson for 80 DD-D 774-CE-2 released [[The following]] statement: 
+A spokesperson for 80 DD-D 774-CE-2 released The following statement: 
 
-"If we're going to settle in the Colonia Nebula then we need to know more about it, [[Which]] is why we're currently offering highly competitive rates for exploration data. After all, pilots will be making the trek out to Jaques anyway – might as well make some credits en route." 
+"If we're going to settle in the Colonia Nebula then we need to know more about it, Which is why we're currently offering highly competitive rates for exploration data. After all, pilots will be making the trek out to Jaques anyway – might as well make some credits en route." 
 
-80 DD-D 774-CE-2 has promised to reward pilots who deliver exploration data to Jaques Station in the [[Eol Prou]] RS-T d3-94 system. The campaign begins on the 25th of August 3302 and will [[Run]] for four weeks.
+80 DD-D 774-CE-2 has promised to reward pilots who deliver exploration data to Jaques Station in the Eol Prou RS-T d3-94 system. The campaign begins on the 25th of August 3302 and will Run for four weeks.

@@ -22,11 +22,11 @@ related_uuids:
 - 06d11692-9a08-5fe2-919f-fe95fd287157
 ---
 
-Battle Ceases in [[Wally Bei]] System
+Battle Ceases in Wally Bei System
 
 
-[[The]] conflict between two opposing factions in the Wally Bei system has ended. The fleets of both Wally Bei Technical and the Traditional Wally Bei Constitution Party  were significantly reduced [[In a]] prolonged series of battles. 
+The conflict between two opposing factions in the Wally Bei system has ended. The fleets of both Wally Bei Technical and the Traditional Wally Bei Constitution Party  were significantly reduced In a prolonged series of battles. 
 
 The leaders of both organisations issued a joint statement: 
 
-“We recognise that [[Our]] military leaders overreacted to accusations made by both parties. For humanitarian reasons, we have agreed to bring hostilities to an end. But we will honour the commitment made by [[Independent]] pilots on both sides, who are now authorised to collect their rewards from the Wally Bei system.”
+“We recognise that Our military leaders overreacted to accusations made by both parties. For humanitarian reasons, we have agreed to bring hostilities to an end. But we will honour the commitment made by Independent pilots on both sides, who are now authorised to collect their rewards from the Wally Bei system.”

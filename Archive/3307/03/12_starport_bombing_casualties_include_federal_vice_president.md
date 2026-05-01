@@ -50,10 +50,10 @@ legacy_weight: 5
 significance: high
 ---
 
-Vice President [[Brad Mitchell]] and a number of Federal Cabinet members have been killed in [[The]] recent terrorist attack on a starport orbiting [[Earth]].
-The NMLA planted caustic enzyme explosives at Li Qing Jao station, where a government meeting was taking place. The VP and Cabinet members were confirmed to be among tens of thousands of casualties. Eight [[Other]] starports across [[All three]] superpowers were simultaneously bombed.
-[[President Zachary Hudson]], who was attending the Galactic Summit during the attack, made [[This]] statement:
+Vice President Brad Mitchell and a number of Federal Cabinet members have been killed in The recent terrorist attack on a starport orbiting Earth.
+The NMLA planted caustic enzyme explosives at Li Qing Jao station, where a government meeting was taking place. The VP and Cabinet members were confirmed to be among tens of thousands of casualties. Eight Other starports across All three superpowers were simultaneously bombed.
+President Zachary Hudson, who was attending the Galactic Summit during the attack, made This statement:
 “This atrocity is nothing less than a declaration of war, and we will respond accordingly. For now, we mourn the loss of my close friend Brad Mitchell and other heroes of the Federation. I will personally appoint replacements to their positions soon.”
-The Federation has directly accused the Empire of being responsible, by allowing Neo-[[Marlinist]] bomb-makers to escape from a secret prison facility. The [[Imperial Senate]] reiterated that ‘Serene Harbour’ does not exist and is part of a Federal disinformation campaign.
+The Federation has directly accused the Empire of being responsible, by allowing Neo-Marlinist bomb-makers to escape from a secret prison facility. The Imperial Senate reiterated that ‘Serene Harbour’ does not exist and is part of a Federal disinformation campaign.
 Followers of Marlinism have also received much public criticism. The Marlinist Colonies have repeatedly stressed that they do not support the NMLA and are unconnected to the attacks.
-[[Independent]] pilots have been asked to assist rescue and repair operations in [[The Achenar]], [[Alioth]], [[Eotienses]], [[Gateway]], [[Kamadhenu]], [[Lave]], Nanomam, [[Rhea and Sol]] systems.
+Independent pilots have been asked to assist rescue and repair operations in The Achenar, Alioth, Eotienses, Gateway, Kamadhenu, Lave, Nanomam, Rhea and Sol systems.

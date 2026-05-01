@@ -18,13 +18,13 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Prism]] Senator in Illegal Smuggling Sting?
+Prism Senator in Illegal Smuggling Sting?
 
 
-More scandal accompanied Senator [[Kahina Tijani Loren]]’s continuing visit when she was presented [[With]] a large vial of Gerasian Liquor by representatives at a concert in London. 
+More scandal accompanied Senator Kahina Tijani Loren’s continuing visit when she was presented With a large vial of Gerasian Liquor by representatives at a concert in London. 
 
-[[The]] representatives were apparently unaware that [[The]] beverage has recently been outlawed in the Empire, and anyone caught carrying it within Imperial territory could be subject to severe sanctions. 
+The representatives were apparently unaware that The beverage has recently been outlawed in the Empire, and anyone caught carrying it within Imperial territory could be subject to severe sanctions. 
 
-Federation officials were quick to deny that it was a deliberate ploy to cause [[Further]] inconvenience to the visiting Senator, whose reception has been dogged [[With]] controversy in equal measure to the unexpected popularity she has received from the general populace. 
+Federation officials were quick to deny that it was a deliberate ploy to cause Further inconvenience to the visiting Senator, whose reception has been dogged With controversy in equal measure to the unexpected popularity she has received from the general populace. 
 
 Lady Kahina received the gift in good grace. When questioned about the illegality of the beverage in her home jurisdiction she replied with “They really needn’t worry, I’ll drink it all before I get home.”

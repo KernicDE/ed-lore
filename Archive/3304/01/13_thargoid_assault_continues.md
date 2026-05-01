@@ -23,11 +23,11 @@ legacy_weight: 5
 significance: high
 ---
 
-[[Thargoid]] Assault [[Continues]]
+Thargoid Assault Continues
 
 
-Reed's Rest in [[Merope]] and [[Obsidian Orbital]] in [[Maia]] are [[The]] latest starports to be targeted by the Thargoids. 
+Reed's Rest in Merope and Obsidian Orbital in Maia are The latest starports to be targeted by the Thargoids. 
 
-[[Authorities in the affected]] systems have appealed to [[Independent]] pilots to deliver foods, water, basic medicines and natural fabrics, and to evacuate civilians from the pertinent starports. 
+Authorities in the affected systems have appealed to Independent pilots to deliver foods, water, basic medicines and natural fabrics, and to evacuate civilians from the pertinent starports. 
 
-The attack against Obsidian Orbital is likely to dismay the galactic community, [[As the]] starport – the result of a community initiative involving thousands of pilots – is seen by [[Many]] as a symbol of unity.
+The attack against Obsidian Orbital is likely to dismay the galactic community, As the starport – the result of a community initiative involving thousands of pilots – is seen by Many as a symbol of unity.

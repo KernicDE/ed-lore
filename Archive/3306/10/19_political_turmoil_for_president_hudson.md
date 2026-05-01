@@ -30,14 +30,14 @@ related_uuids:
 Political Turmoil for President Hudson
 
 
-Political support for Federal [[President Zachary Hudson]] has plummeted after [[The]] results of a trial concerning Starship [[One]]’s destruction. 
+Political support for Federal President Zachary Hudson has plummeted after The results of a trial concerning Starship One’s destruction. 
 
-Fleet Admiral Lucas Vincent was charged [[With]] sabotaging the presidential [[Vessel]], leading to [[Hundreds of]] deaths. His close relationship with Hudson has triggered a public outcry and accusations of a conspiracy to assassinate then-[[President Jasmina Halsey]]. 
+Fleet Admiral Lucas Vincent was charged With sabotaging the presidential Vessel, leading to Hundreds of deaths. His close relationship with Hudson has triggered a public outcry and accusations of a conspiracy to assassinate then-President Jasmina Halsey. 
 
 Political analyst Vihaan Niven reported on the situation: 
 
-“The Republican Party is officially [[In a]] state of crisis. President Hudson has refused to make any statement regarding Fleet Admiral Vincent, despite pressure piling up from all corners of the Federation. Over a dozen congressmen have resigned in protest, refusing to be associated with what some newsfeeds are calling ‘the crime of the century’.”  
+“The Republican Party is officially In a state of crisis. President Hudson has refused to make any statement regarding Fleet Admiral Vincent, despite pressure piling up from all corners of the Federation. Over a dozen congressmen have resigned in protest, refusing to be associated with what some newsfeeds are calling ‘the crime of the century’.”  
 
-“[[Shadow President]] [[Felicia Winters]] has stopped short of making direct allegations against Hudson but, in [[Several]] powerful speeches, she stressed that no elected ruler can ever be above the law.” 
+“Shadow President Felicia Winters has stopped short of making direct allegations against Hudson but, in Several powerful speeches, she stressed that no elected ruler can ever be above the law.” 
 
-“Opinion polls suggest that the Liberal Party now has majority support for the first time in years, and that [[Many]] people view Hudson as a symbol of corruption. In 3305, halfway through his term of office, the President won the scheduled congressional vote of no confidence by a slim margin. It is doubtful that his administration would survive if it were to be held today.”
+“Opinion polls suggest that the Liberal Party now has majority support for the first time in years, and that Many people view Hudson as a symbol of corruption. In 3305, halfway through his term of office, the President won the scheduled congressional vote of no confidence by a slim margin. It is doubtful that his administration would survive if it were to be held today.”

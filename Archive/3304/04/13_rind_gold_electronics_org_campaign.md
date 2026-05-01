@@ -24,12 +24,12 @@ significance: low
 Rind Gold Electronics Org Campaign
 
 
-[[The]] Empire has announced an initiative to bolster the superpower’s military strength. The initiative centres on a new training programme designed to create the next generation of starship pilots. 
+The Empire has announced an initiative to bolster the superpower’s military strength. The initiative centres on a new training programme designed to create the next generation of starship pilots. 
 
-A spokesperson for the Rind Gold Electronics Org, [[Which]] is overseeing the initiative, released [[The following]] statement: 
+A spokesperson for the Rind Gold Electronics Org, Which is overseeing the initiative, released The following statement: 
 
-“Over the past six months, a research group based in [[Achenar]] has developed a state-of-the-art training programme designed to cultivate applicants’ reflexes, coordination, perception and cognitive abilities. Provisional tests indicate that students in the full flush of youth, unburdened [[With]] superfluous knowledge, respond extremely well to the programme, resulting in combat pilots of unprecedented skill.” 
+“Over the past six months, a research group based in Achenar has developed a state-of-the-art training programme designed to cultivate applicants’ reflexes, coordination, perception and cognitive abilities. Provisional tests indicate that students in the full flush of youth, unburdened With superfluous knowledge, respond extremely well to the programme, resulting in combat pilots of unprecedented skill.” 
 
-In support of [[This]] initiative, the Rind Gold Electronics Org has placed an open order for research materials, which will be used to manufacture essential apparatus. The organisation has also issued an appeal for a range of mined resources, which will be used to construct a dedicated training centre for the new programme. 
+In support of This initiative, the Rind Gold Electronics Org has placed an open order for research materials, which will be used to manufacture essential apparatus. The organisation has also issued an appeal for a range of mined resources, which will be used to construct a dedicated training centre for the new programme. 
 
-The campaign begins on the 12th of April 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 12th of April 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

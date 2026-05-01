@@ -29,10 +29,10 @@ related_uuids:
 Increased Fear of Spy Robots
 
 
-[[The]] [[Federal Security Service]] has discovered more personal administration robots containing concealed surveillance programs. 
+The Federal Security Service has discovered more personal administration robots containing concealed surveillance programs. 
 
-[[Independent]] reporter Flint ‘Firemaker’ Lafosse discussed the situation on the Rewired news feed: 
+Independent reporter Flint ‘Firemaker’ Lafosse discussed the situation on the Rewired news feed: 
 
-“In recent weeks, [[Hundreds of]] individuals and businesses have destroyed their personal robots. Mass robophobia? Or paranoia that the robots might be secretly recording them? Makes you wonder what these people are trying to hide…” 
+“In recent weeks, Hundreds of individuals and businesses have destroyed their personal robots. Mass robophobia? Or paranoia that the robots might be secretly recording them? Makes you wonder what these people are trying to hide…” 
 
-“[[How many]] millions of robots are spying on us right now? And for what purpose? Is it a coincidence that all the affected models are made by the Achilles Corporation? Maybe blackmailing the rich is their new revenue stream.”
+“How many millions of robots are spying on us right now? And for what purpose? Is it a coincidence that all the affected models are made by the Achilles Corporation? Maybe blackmailing the rich is their new revenue stream.”

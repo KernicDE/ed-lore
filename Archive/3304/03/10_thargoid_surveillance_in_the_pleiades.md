@@ -28,18 +28,18 @@ legacy_weight: 4
 significance: high
 ---
 
-[[Thargoid]] Surveillance in [[The]] Pleiades
+Thargoid Surveillance in The Pleiades
 
 
-[[Aegis]] has launched an operation to monitor Thargoid activity in the [[Pleiades Nebula]]. 
+Aegis has launched an operation to monitor Thargoid activity in the Pleiades Nebula. 
 
-Admiral Aden Tanner, chief military liaison at Aegis, made [[This]] statement: 
+Admiral Aden Tanner, chief military liaison at Aegis, made This statement: 
 
-“[[Our]] new Eagle Eye initiative will closely monitor systems where Thargoid surface sites are known to exist.” 
+“Our new Eagle Eye initiative will closely monitor systems where Thargoid surface sites are known to exist.” 
 
-“We have established orbital surveillance installations at six locations in the Pleiades, [[Which]] will measure energy-level fluctuations and track ship movements. [[Each]] installation is attended by a comms beacon that will collect the data before transmitting it to us for analysis.” 
+“We have established orbital surveillance installations at six locations in the Pleiades, Which will measure energy-level fluctuations and track ship movements. Each installation is attended by a comms beacon that will collect the data before transmitting it to us for analysis.” 
 
-Aegis has confirmed that Eagle Eye installations have been placed in [[The following]] systems: 
+Aegis has confirmed that Eagle Eye installations have been placed in The following systems: 
 
 HIP 17225 
 
@@ -47,12 +47,12 @@ HIP 17692
 
 HIP 17892 
 
-[[HR 1185]] 
+HR 1185 
 
-[[Pleiades Sector IR-W d1-55]] 
+Pleiades Sector IR-W d1-55 
 
 Pleiades Sector KC-V c2-4 
 
-Professor [[Alba Tesreau]] commented: 
+Professor Alba Tesreau commented: 
 
-“My hope is that this initiative will greatly increase our knowledge of the Thargoids. Observing their ‘natural’ activities, outside of combat zones, should [[Further]] our understanding of their behaviour.”
+“My hope is that this initiative will greatly increase our knowledge of the Thargoids. Observing their ‘natural’ activities, outside of combat zones, should Further our understanding of their behaviour.”

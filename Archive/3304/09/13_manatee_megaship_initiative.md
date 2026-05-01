@@ -27,12 +27,12 @@ related_uuids:
 Manatee Megaship Initiative
 
 
-[[The]] [[Libertas Cooperative]] has announced plans to construct a manatee farm on behalf of food supplier [[Munshin]] Manatee Meat. [[This]] will take the form of a megaship, where the creatures will be bred, processed and prepared for distribution. 
+The Libertas Cooperative has announced plans to construct a manatee farm on behalf of food supplier Munshin Manatee Meat. This will take the form of a megaship, where the creatures will be bred, processed and prepared for distribution. 
 
-Progenitor Selena Conley of the Libertas Cooperative issued [[The following]] statement: 
+Progenitor Selena Conley of the Libertas Cooperative issued The following statement: 
 
-“For years, the people of Munshin have been lucky enough to dine on the finest meat in the galaxy. We are proud to be working in association [[With]] Munshin Manatee Meat to help bring their product to a much wider consumer base.” 
+“For years, the people of Munshin have been lucky enough to dine on the finest meat in the galaxy. We are proud to be working in association With Munshin Manatee Meat to help bring their product to a much wider consumer base.” 
 
-To facilitate construction of the manatee farm, the Libertas Cooperative has placed an open order for [[Land enrichment]] systems, animal monitors, aquaponic systems and marine equipment. It promises to reward pilots who deliver these commodities to [[Ocrinox's Orbiter]] in the Munshin system. The organisation has also placed a kill order on all ships on [[Its]] wanted list, to ensure that those contributing material can do so safely. 
+To facilitate construction of the manatee farm, the Libertas Cooperative has placed an open order for Land enrichment systems, animal monitors, aquaponic systems and marine equipment. It promises to reward pilots who deliver these commodities to Ocrinox's Orbiter in the Munshin system. The organisation has also placed a kill order on all ships on Its wanted list, to ensure that those contributing material can do so safely. 
 
-The campaign begins on the 13th of September 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 13th of September 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

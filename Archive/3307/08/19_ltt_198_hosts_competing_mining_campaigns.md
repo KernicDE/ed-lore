@@ -23,12 +23,12 @@ legacy_weight: 2
 significance: low
 ---
 
-*[[Pilots Federation]] ALERT*
-Torval-[[Mastopolos Mining]] and [[Wreaken Construction]] have requested deliveries of mined resources to [[The]] LTT 198 system.
-LTT 198 State Ltd, [[Its]] controlling faction, will only allow [[One]] of the rival corporations to remain permanently. The company [[With the]] most successful campaign will establish a new starport in the permit-controlled system.
-Senator [[Zemina Torval]], who has sole control of the Mastopolos Mining subsidiary, announced:
-“My company is working on an experimental mining laser [[With]] increased range. To achieve [[This]], shipments of mined resources must be delivered in sufficient numbers to the Pride of Bitterwood megaship in LTT 198.”
+*Pilots Federation ALERT*
+Torval-Mastopolos Mining and Wreaken Construction have requested deliveries of mined resources to The LTT 198 system.
+LTT 198 State Ltd, Its controlling faction, will only allow One of the rival corporations to remain permanently. The company With the most successful campaign will establish a new starport in the permit-controlled system.
+Senator Zemina Torval, who has sole control of the Mastopolos Mining subsidiary, announced:
+“My company is working on an experimental mining laser With increased range. To achieve This, shipments of mined resources must be delivered in sufficient numbers to the Pride of Bitterwood megaship in LTT 198.”
 Emmerich Koenig, CEO of Wreaken Construction, outlined a counter-initiative:
-“We will pay handsomely for deliveries of mined resources to the megaship Tobias’s [[Gift in the LTT 198]] system.”
+“We will pay handsomely for deliveries of mined resources to the megaship Tobias’s Gift in the LTT 198 system.”
 Both factions have requested units of coltan, gallite, praseodymium and silver.
 LTT 198 State Ltd will provide all contributors to these initiatives with temporary system permits lasting one week.

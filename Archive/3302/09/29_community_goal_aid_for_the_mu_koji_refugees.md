@@ -18,13 +18,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Aid for [[The]] [[Mu Koji]] Refugees
+Community Goal: Aid for The Mu Koji Refugees
 
 
-Earlier [[This]] month, the Mu Koji system was engulfed in the ongoing conflict between the Empire and the Federation, [[As the]] superpowers staged rival operations to secure enemy intelligence. 
+Earlier This month, the Mu Koji system was engulfed in the ongoing conflict between the Empire and the Federation, As the superpowers staged rival operations to secure enemy intelligence. 
 
-Although the battle only lasted a few days, the collateral damage was severe, resulting in the displacement of thousands of civilians. System authorities have responded by establishing a refugee centre at the Bujold [[Enterprise]] starport, but have [[Found]] themselves unable to provide the [[Many]] refugees [[With]] medicine and shelter. 
+Although the battle only lasted a few days, the collateral damage was severe, resulting in the displacement of thousands of civilians. System authorities have responded by establishing a refugee centre at the Bujold Enterprise starport, but have Found themselves unable to provide the Many refugees With medicine and shelter. 
 
-The Kalana Independents have therefore offered to fund a coordinated relief effort. The organisation has placed an open order for basic medicines and evacuation shelters, and has promised to reward pilots who deliver these commodities to [[Bujold Enterprise in the Kalana]] system. 
+The Kalana Independents have therefore offered to fund a coordinated relief effort. The organisation has placed an open order for basic medicines and evacuation shelters, and has promised to reward pilots who deliver these commodities to Bujold Enterprise in the Kalana system. 
 
-The campaign begins on the 29th of September 3302 and will [[Run]] for [[One]] week. If final targets are met earlier than planned, the campaign will end immediately.
+The campaign begins on the 29th of September 3302 and will Run for One week. If final targets are met earlier than planned, the campaign will end immediately.

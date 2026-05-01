@@ -29,14 +29,14 @@ significance: high
 EG Union Campaign
 
 
-Yuri Grom has announced an initiative to create a new shipyard in [[The]] CPC 20 6743 system. The shipyard will produce capital ships [[With]] [[Which]] to defend human space from both human and alien threats. 
+Yuri Grom has announced an initiative to create a new shipyard in The CPC 20 6743 system. The shipyard will produce capital ships With Which to defend human space from both human and alien threats. 
 
-The EG Union, acting on behalf of Yuri Grom, has placed an open order for various commodities to build the shipyard, and has promised to reward pilots who deliver these commodities to [[Lyakhov Dock in the CPC 20 6743]] system. The organisation has also placed a kill order on all ships on [[Its]] wanted list, to ensure that pilots delivering commodities can do so safely. 
+The EG Union, acting on behalf of Yuri Grom, has placed an open order for various commodities to build the shipyard, and has promised to reward pilots who deliver these commodities to Lyakhov Dock in the CPC 20 6743 system. The organisation has also placed a kill order on all ships on Its wanted list, to ensure that pilots delivering commodities can do so safely. 
 
 The spokesperson elaborated on the nature of the campaign: 
 
-“Recent events have demonstrated that humanity is not prepared for a possible [[Thargoid]] invasion. Building a shipyard for Farragut-class ships is the first step in establishing a [[Defensive]] perimeter.” 
+“Recent events have demonstrated that humanity is not prepared for a possible Thargoid invasion. Building a shipyard for Farragut-class ships is the first step in establishing a Defensive perimeter.” 
 
-“It is essential that traders do not encounter any difficulty when delivering materials, which is why the EG Pilots – Yuri Grom's elite task force – have been asked to eliminate any agitators. We are also asking [[Independent]] combat pilots to help us neutralise any threats.” 
+“It is essential that traders do not encounter any difficulty when delivering materials, which is why the EG Pilots – Yuri Grom's elite task force – have been asked to eliminate any agitators. We are also asking Independent combat pilots to help us neutralise any threats.” 
 
-The campaign begins on the 22nd of March 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 22nd of March 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

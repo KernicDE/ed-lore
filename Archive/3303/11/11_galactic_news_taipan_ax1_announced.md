@@ -22,10 +22,10 @@ significance: high
 Galactic News: Taipan AX1 Announced
 
 
-A spokesperson for [[Faulcon DeLacy]] has announced that [[The]] manufacturer has teamed up [[With]] [[Aegis]] to produce a new version of [[Its]] popular fighter, the Taipan. The spokesperson confirmed that the development was a direct response to the rising [[Thargoid]] threat. 
+A spokesperson for Faulcon DeLacy has announced that The manufacturer has teamed up With Aegis to produce a new version of Its popular fighter, the Taipan. The spokesperson confirmed that the development was a direct response to the rising Thargoid threat. 
 
 Barr Winters, a Faulcon DeLacy engineer who worked on the new Taipan, elaborated on the ship’s specifications: 
 
-“The new Taipan has been equipped with two AX multi-cannons, replacing the default utility mount and small hardpoints. These cannons are slightly punchier than standard, [[Which]] we hope will make the ship particularly effective against Thargoid vessels.” 
+“The new Taipan has been equipped with two AX multi-cannons, replacing the default utility mount and small hardpoints. These cannons are slightly punchier than standard, Which we hope will make the ship particularly effective against Thargoid vessels.” 
 
-The new Taipan, which will be known [[As the]] AX1, is not to be confused [[With the]] existing Aegis Taipan variant. The ship will be available from the 13th of November 3303.
+The new Taipan, which will be known As the AX1, is not to be confused With the existing Aegis Taipan variant. The ship will be available from the 13th of November 3303.

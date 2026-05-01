@@ -32,21 +32,21 @@ related_uuids:
 - 386cbd85-5543-5119-8766-37eb9cb4855c
 ---
 
-Presidential Candidate [[Murdered]]
+Presidential Candidate Murdered
 
 
-Fazia Silva, [[One]] of [[The]] three candidates in the [[Alliance]] presidential race, has been [[Found]] dead. She is believed to have been murdered. 
+Fazia Silva, One of The three candidates in the Alliance presidential race, has been Found dead. She is believed to have been murdered. 
 
 Inspector Erin Sangster of Alliance Interpol informed the media: 
 
-“Ms Silva’s body was found [[In a]] room at Hume Orbital, where she was staying during her presidential campaign. Medical teams detected traces of poison, making [[This]] a suspected homicide.” 
+“Ms Silva’s body was found In a room at Hume Orbital, where she was staying during her presidential campaign. Medical teams detected traces of poison, making This a suspected homicide.” 
 
 There has already been speculation that this was a political killing, motivated by Silva’s proposed changes to Alliance financial policy. The entrepreneur also had fierce rivals in the business world. 
 
 Her sister Tashmira Silva, who has been overseeing the Silva corporate empire, stated: 
 
-“[[Our]] family is devastated – we can’t believe that Fazia has been taken from us. I will honour her by continuing to [[Run]] the companies that she made so successful.” 
+“Our family is devastated – we can’t believe that Fazia has been taken from us. I will honour her by continuing to Run the companies that she made so successful.” 
 
-Condolences have been delivered by Prime Minister [[Edmund Mahon]] and both of Ms Silva’s election rivals, [[Gibson Kincaid]] and Elijah Beck. President [[Kincaid]] said: 
+Condolences have been delivered by Prime Minister Edmund Mahon and both of Ms Silva’s election rivals, Gibson Kincaid and Elijah Beck. President Kincaid said: 
 
 “This tragedy constitutes a direct attack on our democracy. The Alliance’s enemies will do anything they can to destabilise us, including murder. If we are to fight back, we will need strong leadership.”

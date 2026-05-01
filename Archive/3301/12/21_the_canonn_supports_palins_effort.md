@@ -22,15 +22,15 @@ legacy_weight: 4
 significance: high
 ---
 
-[[The]] [[Canonn]] Supports Palin's Effort
+The Canonn Supports Palin's Effort
 
 
-[[Professor Ishmael Palin]] has requested help in establishing a new research base on [[Maia]] B1BA in order to safely study the unknown artefacts. Dr [[Arcanonn]], head of the [[Canonn Interstellar Research Group]], has issued a statement regarding [[This]] endeavour: 
+Professor Ishmael Palin has requested help in establishing a new research base on Maia B1BA in order to safely study the unknown artefacts. Dr Arcanonn, head of the Canonn Interstellar Research Group, has issued a statement regarding This endeavour: 
 
-"I cannot argue [[With the]] logic of establishing a research facility out in the Pleiades, next door to [[Merope]], and I urge all Commanders to deliver as [[Many]] Evacuation Shelters as they can to Nelson Works in Dahan to ensure this facility is completed." 
+"I cannot argue With the logic of establishing a research facility out in the Pleiades, next door to Merope, and I urge all Commanders to deliver as Many Evacuation Shelters as they can to Nelson Works in Dahan to ensure this facility is completed." 
 
-"[[With]] the Canonn throwing [[Its]] resources at this initiative, I will be contacting the professor personally to request laboratory space for my researchers so that we, too, can be involved once the base is established." 
+"With the Canonn throwing Its resources at this initiative, I will be contacting the professor personally to request laboratory space for my researchers so that we, too, can be involved once the base is established." 
 
-"Research into the UAs is not a side project for humanity - it is vital. Make sure you're [[One]] of those making a difference." 
+"Research into the UAs is not a side project for humanity - it is vital. Make sure you're One of those making a difference." 
 
-Commander [[Lord Zoltan]]
+Commander Lord Zoltan

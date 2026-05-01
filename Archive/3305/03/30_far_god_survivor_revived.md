@@ -25,15 +25,15 @@ related_uuids:
 - 754fb641-d6bd-5591-b180-b864e6058ead
 ---
 
-[[Far]] God Survivor Revived
+Far God Survivor Revived
 
 
-[[The]] occupant of a cryogenic pod recovered from an abandoned outpost used by the Far God sect has been revived successfully. 
+The occupant of a cryogenic pod recovered from an abandoned outpost used by the Far God sect has been revived successfully. 
 
-17 year old Kiona O'Connor has been confirmed [[As the]] occupant. Following medical checks and an extended debriefing by the Federal Intelligence Agency, she made [[This]] statement to Vox Galactica: 
+17 year old Kiona O'Connor has been confirmed As the occupant. Following medical checks and an extended debriefing by the Federal Intelligence Agency, she made This statement to Vox Galactica: 
 
 "I'd been homeless for a long time when the monks took me in. I never understood much about the Far God, really…I just needed to get off the streets. A lot of people there were like me." 
 
-"Somehow I ended up at the outpost, where they put us all into [[Suspended]] animation. I've no idea what happened after that. I'm just grateful to be alive. I hope the others are too…I hope they got whatever they were praying for." 
+"Somehow I ended up at the outpost, where they put us all into Suspended animation. I've no idea what happened after that. I'm just grateful to be alive. I hope the others are too…I hope they got whatever they were praying for." 
 
 The FIA has contacted Kiona's father, John O'Connor, and arranged for her to be escorted to her family home.

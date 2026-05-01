@@ -19,15 +19,15 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: Previously Unseen [[Thargoid]] Ships in [[Electra]]
+Galactic News: Previously Unseen Thargoid Ships in Electra
 
 
-Recent reports indicate that a new kind of Thargoid [[Vessel]] has been encountered in [[The]] Electra system. The previously unseen ships were encountered by [[Independent]] pilots investigating the wreckage of the Aida, a Hogan-class cargo vessel that was apparently attacked by Thargoids. 
+Recent reports indicate that a new kind of Thargoid Vessel has been encountered in The Electra system. The previously unseen ships were encountered by Independent pilots investigating the wreckage of the Aida, a Hogan-class cargo vessel that was apparently attacked by Thargoids. 
 
-The Thargoid ship has been classified as a ‘Basilisk’ Interceptor by the [[Pilots Federation]]. 
+The Thargoid ship has been classified as a ‘Basilisk’ Interceptor by the Pilots Federation. 
 
-System security forces in Electra offered [[The following]] assessment: 
+System security forces in Electra offered The following assessment: 
 
 “The Basilisk hits harder than the Cyclops, and it’s tougher too. It also deploys a denser swarm of Thargons. Interestingly, all the Basilisks we’ve encountered are heavily scarred, almost as if they’ve been around longer, taken more punishment.” 
 
-[[Authorities in]] Electra have warned those living in the system to exercise extreme caution, and not to engage Thargoid ships under any circumstances.
+Authorities in Electra have warned those living in the system to exercise extreme caution, and not to engage Thargoid ships under any circumstances.

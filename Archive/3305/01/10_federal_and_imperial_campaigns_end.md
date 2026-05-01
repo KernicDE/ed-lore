@@ -30,16 +30,16 @@ related_uuids:
 Federal and Imperial Campaigns End
 
 
-Supply campaigns for [[The]] Federal and Imperial navies have concluded successfully, [[With]] traders delivering large amounts of military provisions. 
+Supply campaigns for The Federal and Imperial navies have concluded successfully, With traders delivering large amounts of military provisions. 
 
-The League of Zearla, acting on behalf of the [[Federal Navy]], stated: 
+The League of Zearla, acting on behalf of the Federal Navy, stated: 
 
-"[[Many]] thanks to all the pilots who came through for the Federation. You can now collect your rewards at Payson Hub in the Zearla system." 
+"Many thanks to all the pilots who came through for the Federation. You can now collect your rewards at Payson Hub in the Zearla system." 
 
-An announcement was also made by the Sirsir Co, [[Which]] coordinated a similar supply campaign for the [[Imperial Navy]]: 
+An announcement was also made by the Sirsir Co, Which coordinated a similar supply campaign for the Imperial Navy: 
 
 "You have performed a great service for the Empire. Payments have been authorised at Mitchell Hangar in the Sirsir system." 
 
 Marquis Felix Novantico, a retired military strategist, commented: 
 
-"Tensions caused by [[Nova Imperium]] have triggered much activity of [[This]] kind. But for the Federation to do the same suggests concern about a potentially hostile Empire, should Hadrian Duval claim the throne."
+"Tensions caused by Nova Imperium have triggered much activity of This kind. But for the Federation to do the same suggests concern about a potentially hostile Empire, should Hadrian Duval claim the throne."

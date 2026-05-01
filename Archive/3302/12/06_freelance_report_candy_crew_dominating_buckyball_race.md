@@ -18,10 +18,10 @@ significance: high
 Freelance Report: Candy Crew Dominating Buckyball Race
 
 
-[[As the]] Kick [[The]] Alien (and [[Run]] like Hell) race reaches [[Its]] midpoint, the top of the leaderboard is dominated by members of the Candy Crew Guild. Commander Nookie Mr.Smith took the number [[One]] spot on Thursday [[With]] a truly incredible 6 minute 43 second run, while Commanders [[Raijiin]] and Rewision are sitting comfortably in second and third place respectively. 
+As the Kick The Alien (and Run like Hell) race reaches Its midpoint, the top of the leaderboard is dominated by members of the Candy Crew Guild. Commander Nookie Mr.Smith took the number One spot on Thursday With a truly incredible 6 minute 43 second run, while Commanders Raijiin and Rewision are sitting comfortably in second and third place respectively. 
 
-Twenty-three competitors have so [[Far]] hurled their SRVs to the shipwreck and back, while at least [[Five]] more are scheduled to take part. 
+Twenty-three competitors have so Far hurled their SRVs to the shipwreck and back, while at least Five more are scheduled to take part. 
 
-But although [[Hundreds of]] SRVs have raced over the wreckage, it [[Continues]] to show no signs of life. A Buckyball spokesman said, "Either it's dead or it's not a racing fan." 
+But although Hundreds of SRVs have raced over the wreckage, it Continues to show no signs of life. A Buckyball spokesman said, "Either it's dead or it's not a racing fan." 
 
 The race continues throughout next week.

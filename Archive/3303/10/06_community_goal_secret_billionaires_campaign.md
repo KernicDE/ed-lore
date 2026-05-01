@@ -21,12 +21,12 @@ significance: low
 Community Goal: Secret Billionaires' Campaign
 
 
-[[The]] Secret Billionaires, an organisation based in I Carinae, have reported a sharp increase in [[The number of]] criminals operating in their system. [[The organisation has responded [[With]] a]] system-wide operation designed to remove the agitators and restore order. They have placed a kill order on all ships on their wanted list, and have promised to reward pilots who deliver bounty vouchers to Somerset Station. 
+The Secret Billionaires, an organisation based in I Carinae, have reported a sharp increase in The number of criminals operating in their system. The organisation has responded With a system-wide operation designed to remove the agitators and restore order. They have placed a kill order on all ships on their wanted list, and have promised to reward pilots who deliver bounty vouchers to Somerset Station. 
 
 Secret Billionaires spokesperson Commander Afterglow said: 
 
-"After [[One]] of [[Our]] CFOs was pirated, the board decided that a cleanup was long overdue, and they immediately provided credit for an anti-piracy operation." 
+"After One of Our CFOs was pirated, the board decided that a cleanup was long overdue, and they immediately provided credit for an anti-piracy operation." 
 
-"We're therefore [[In a]] position to offer generous rewards to pilots who help us clean up the system. [[With the]] support of the galactic community, we should be able to guarantee the safety of our fellow miners and traders." 
+"We're therefore In a position to offer generous rewards to pilots who help us clean up the system. With the support of the galactic community, we should be able to guarantee the safety of our fellow miners and traders." 
 
-The campaign begins on the 5th of [[October]] 3303 and will [[Run]] for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 5th of October 3303 and will Run for one week. If the final target is met earlier than planned, the campaign will end immediately.

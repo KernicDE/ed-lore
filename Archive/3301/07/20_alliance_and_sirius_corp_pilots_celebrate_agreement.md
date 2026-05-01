@@ -14,7 +14,7 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Alliance]] and Sirius Corp Pilots Celebrate Agreement
+Alliance and Sirius Corp Pilots Celebrate Agreement
 
 
-[[Alliance]] and Sirius Corp Pilots Celebrate Agreement
+Alliance and Sirius Corp Pilots Celebrate Agreement

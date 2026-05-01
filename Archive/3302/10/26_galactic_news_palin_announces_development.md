@@ -23,10 +23,10 @@ significance: high
 Galactic News: Palin Announces Development
 
 
-[[Professor Ishmael Palin]], founder and former director of [[The]] Palin Institute, has released a statement concerning his ongoing research into meta-alloys. 
+Professor Ishmael Palin, founder and former director of The Palin Institute, has released a statement concerning his ongoing research into meta-alloys. 
 
 "I have discovered previously unidentified properties that could make the meta-alloys ideally suited to the development of robust new materials – materials that could be used to great effect in combat starships." 
 
-"My research is still at an early stage and I am [[Far]] from developing a working prototype, [[But the]] early signs are very encouraging. [[This]] discovery could herald a major step forward in the development of [[Defensive]] technologies." 
+"My research is still at an early stage and I am Far from developing a working prototype, But the early signs are very encouraging. This discovery could herald a major step forward in the development of Defensive technologies." 
 
-[[Professor Palin]] has been researching meta-alloys from his personal research base on [[Maia]] A 3 a since he resigned from the Palin Institute in April. He closed his statement [[With]] a promise to share his progress [[With the]] galactic community.
+Professor Palin has been researching meta-alloys from his personal research base on Maia A 3 a since he resigned from the Palin Institute in April. He closed his statement With a promise to share his progress With the galactic community.

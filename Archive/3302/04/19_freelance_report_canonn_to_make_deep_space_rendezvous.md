@@ -24,15 +24,15 @@ legacy_weight: 1
 significance: low
 ---
 
-Freelance Report: [[Canonn]] to Make Deep-Space Rendezvous
+Freelance Report: Canonn to Make Deep-Space Rendezvous
 
 
-An escape pod containing Canonn scientist Shannon Day has been miraculously recovered by an explorer named Commander [[Josh Hawkins]], [[According to]] transmissions received from his ship. 
+An escape pod containing Canonn scientist Shannon Day has been miraculously recovered by an explorer named Commander Josh Hawkins, According to transmissions received from his ship. 
 
-In his transmissions, Commander [[Hawkins revealed that he]] was able to extract Shannon Day's pilot log from her escape pod. From [[This]] he discovered that her ship had been sabotaged by Socha Korbemile, [[The]] former Canonn member who betrayed Dr [[Arcanonn]]. 
+In his transmissions, Commander Hawkins revealed that he was able to extract Shannon Day's pilot log from her escape pod. From This he discovered that her ship had been sabotaged by Socha Korbemile, The former Canonn member who betrayed Dr Arcanonn. 
 
-Now, the [[Canonn Interstellar Research Group]] has announced that two scientists – Commanders Bowen the Kotoc and Julian McCoy – have been dispatched to find Commander [[Hawkins]] and bring Day's escape pod home to [[Thompson Dock in the Varati]] system. 
+Now, the Canonn Interstellar Research Group has announced that two scientists – Commanders Bowen the Kotoc and Julian McCoy – have been dispatched to find Commander Hawkins and bring Day's escape pod home to Thompson Dock in the Varati system. 
 
-When news of Day's rescue reached Dr Arcanonn, he requested that her escape pod be recovered as quickly as possible, but it is not yet known why she is so [[Important]] to the scientist. 
+When news of Day's rescue reached Dr Arcanonn, he requested that her escape pod be recovered as quickly as possible, but it is not yet known why she is so Important to the scientist. 
 
-Commander [[Lord Zoltan]]
+Commander Lord Zoltan

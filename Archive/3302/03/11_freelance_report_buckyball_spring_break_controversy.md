@@ -22,14 +22,14 @@ significance: low
 Freelance Report: Buckyball Spring Break Controversy
 
 
-Accusations of reckless endangerment have been levelled at [[The]] [[Buckyball Racing Club]] regarding [[Its]] upcoming Spring Break chauffeurs event. Commander [[Seneh]], the event organiser, had [[This]] to say: 
+Accusations of reckless endangerment have been levelled at The Buckyball Racing Club regarding Its upcoming Spring Break chauffeurs event. Commander Seneh, the event organiser, had This to say: 
 
 "This event is a community outreach programme. There will be no 'first place' or prizes. While it is true that the club will give performance scores to participating pilots, those scores will be based on the happiness and safety of the escorted students, not on distance travelled or speed." 
 
-She continued: "All participants are [[Pilots Federation]] members, but some are still provisional, myself included! We appreciate that having a documented safety rating from a Grant Academics sanctioned event will help [[Our]] careers, so we intend to respect our passengers and fly [[With the]] utmost care." 
+She continued: "All participants are Pilots Federation members, but some are still provisional, myself included! We appreciate that having a documented safety rating from a Grant Academics sanctioned event will help Our careers, so we intend to respect our passengers and fly With the utmost care." 
 
 Veteran Buckyball pilots will escort students from the Exigus campus of Grant Academics to the biggest tourism hotspots in the region between the 18th and 26th of March. 
 
-Commander [[Jak]] 
+Commander Jak 
 
 Buckyball Racing Club

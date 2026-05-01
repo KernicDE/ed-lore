@@ -27,12 +27,12 @@ significance: high
 Freelance Report: Leading Scientist Expresses Doubts
 
 
-Yesterday, [[Professor Ishmael Palin]] called upon [[Independent]] pilots to deliver meta-alloys – produced by [[The]] newly discovered 'barnacles' in the [[Pleiades Nebula]] – to [[Obsidian Orbital]], suggesting that the material could be the cure for the technological virus spreading through inhabited space. But Professor [[Violet Belbin]] of the Xenological Research Institute has expressed doubts: 
+Yesterday, Professor Ishmael Palin called upon Independent pilots to deliver meta-alloys – produced by The newly discovered 'barnacles' in the Pleiades Nebula – to Obsidian Orbital, suggesting that the material could be the cure for the technological virus spreading through inhabited space. But Professor Violet Belbin of the Xenological Research Institute has expressed doubts: 
 
-"I would caution against assuming that [[This]] material is the answer to [[Our]] problems. The nature of these 'barnacles' is not fully understood. They could be a form of alien life, and harvesting them could have unforeseen consequences. The Xenological Research Institute is sending a team to [[Maia]] and asks that [[Professor Palin]] takes our concerns into consideration." 
+"I would caution against assuming that This material is the answer to Our problems. The nature of these 'barnacles' is not fully understood. They could be a form of alien life, and harvesting them could have unforeseen consequences. The Xenological Research Institute is sending a team to Maia and asks that Professor Palin takes our concerns into consideration." 
 
-Pilots have already started delivering cargo holds full of meta-alloys to Professor [[Palin's base]] of operations at Obsidian Orbital. 
+Pilots have already started delivering cargo holds full of meta-alloys to Professor Palin's base of operations at Obsidian Orbital. 
 
-Commander [[Stateira 'Starcloak' Eleshenar]] 
+Commander Stateira 'Starcloak' Eleshenar 
 
-Zandu Science Journal | [[Interstellar Press]]
+Zandu Science Journal | Interstellar Press

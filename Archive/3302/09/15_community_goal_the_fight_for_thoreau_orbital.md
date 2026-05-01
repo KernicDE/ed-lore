@@ -11,13 +11,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: [[The]] Fight for Thoreau Orbital
+Community Goal: The Fight for Thoreau Orbital
 
 
 Federal intelligence operatives have uncovered an Imperial plot to destabilise the Thoreau Orbital outpost in Obotrima. The starport is a major manufacturing centre for autonomous defence drones, more commonly known as skimmers. 
 
-[[According to]] a leaked report, the Imperial organisation Chimechilo Empire League plans to disrupt skimmer production at Thoreau Orbital by flooding it [[With]] explosives. The Chimechilo Empire League has asked Imperial pilots to support the operation by delivering explosives to Thoreau Orbital. 
+According to a leaked report, the Imperial organisation Chimechilo Empire League plans to disrupt skimmer production at Thoreau Orbital by flooding it With explosives. The Chimechilo Empire League has asked Imperial pilots to support the operation by delivering explosives to Thoreau Orbital. 
 
-To counter [[This]] threat, the Obotrima Organisation has asked Federation-aligned pilots to deliver skimmer components and robotics to the outpost in order to manufacture new skimmers. 
+To counter This threat, the Obotrima Organisation has asked Federation-aligned pilots to deliver skimmer components and robotics to the outpost in order to manufacture new skimmers. 
 
-Both operations are scheduled to [[Run]] for [[One]] week from the 15th of September 3302.
+Both operations are scheduled to Run for One week from the 15th of September 3302.

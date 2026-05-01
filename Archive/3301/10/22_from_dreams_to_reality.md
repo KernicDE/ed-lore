@@ -28,12 +28,12 @@ significance: medium
 From Dreams to Reality
 
 
-For [[The]] past few months, a development group founded by the [[Explorer's Association]] has been working on plans to build a starport in the [[Pleiades Nebula]]. Now, it appears the plans are about to become reality. A spokesperson from the Explorer's Association made [[The following]] statement: 
+For The past few months, a development group founded by the Explorer's Association has been working on plans to build a starport in the Pleiades Nebula. Now, it appears the plans are about to become reality. A spokesperson from the Explorer's Association made The following statement: 
 
-"A starport in the Pleiades Nebula would be of tremendous value to pilots, serving as a reliable resupply point and sanctuary in the depths of space. But breaking into deep space is always costly, not to mention potentially dangerous. Fortunately we have received generous support from the [[Brewer Corporation]], [[Pacap Limited]] and [[Universal Cartographics]], and are now [[In a]] position to begin construction. The first phase of the project involves collecting the necessary materials to create the starport superstructure, and to [[This]] end we are willing to offer generous premiums to pilots delivering metals to [[Neville Horizons]], [[Our]] base of operations. I encourage all those [[With]] an interest in exploration to join this exciting project, and contribute to the next phase of humankind's expansion." 
+"A starport in the Pleiades Nebula would be of tremendous value to pilots, serving as a reliable resupply point and sanctuary in the depths of space. But breaking into deep space is always costly, not to mention potentially dangerous. Fortunately we have received generous support from the Brewer Corporation, Pacap Limited and Universal Cartographics, and are now In a position to begin construction. The first phase of the project involves collecting the necessary materials to create the starport superstructure, and to This end we are willing to offer generous premiums to pilots delivering metals to Neville Horizons, Our base of operations. I encourage all those With an interest in exploration to join this exciting project, and contribute to the next phase of humankind's expansion." 
 
-[[One]] of the pilots involved in the programme was quoted as saying: 
+One of the pilots involved in the programme was quoted as saying: 
 
 "Hopefully, getting a station farther out into uninhabited space will be the first step towards human expansion out into the wider reaches of the galaxy." 
 
-Pilots who wish to contribute to the campaign should deliver metals to [[Neville Horizons in the Kaushpoos]] system.
+Pilots who wish to contribute to the campaign should deliver metals to Neville Horizons in the Kaushpoos system.

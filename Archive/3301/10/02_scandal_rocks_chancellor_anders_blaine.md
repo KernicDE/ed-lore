@@ -27,15 +27,15 @@ legacy_weight: 5
 significance: high
 ---
 
-Scandal Rocks [[Chancellor Anders Blaine]]
+Scandal Rocks Chancellor Anders Blaine
 
 
-Scandal Rocks Chancellor [[Anders Blaine]] 
+Scandal Rocks Chancellor Anders Blaine 
  
-Little has been heard from Princess [[Aisling Duval]] since it was revealed that [[One]] of her key advisors, Patron [[Damon Clarke]], was connected to [[Emperor's Dawn]]. She has reportedly cooperated [[With]] both [[The]] Senate and [[IISS]] investigations into [[The]] allegations, and has vehemently denied any prior knowledge of the link. 
+Little has been heard from Princess Aisling Duval since it was revealed that One of her key advisors, Patron Damon Clarke, was connected to Emperor's Dawn. She has reportedly cooperated With both The Senate and IISS investigations into The allegations, and has vehemently denied any prior knowledge of the link. 
 
-That changed [[This]] morning [[With the]] shattering announcement of her own investigation's findings. [[In a]] statement, Princess Aisling revealed that some of [[Chancellor Anders Blaine]]'s past advisors were connected to the same members of [[Emperor's Dawn]] as Patron [[Damon Clarke]]. She also highlighted that while Patron Clarke's connection to Emperor's Dawn was historic, those within the Chancellor's team were more recent. 
+That changed This morning With the shattering announcement of her own investigation's findings. In a statement, Princess Aisling revealed that some of Chancellor Anders Blaine's past advisors were connected to the same members of Emperor's Dawn as Patron Damon Clarke. She also highlighted that while Patron Clarke's connection to Emperor's Dawn was historic, those within the Chancellor's team were more recent. 
 
-She concluded by listing the names of those implicated. Princess [[Aisling Duval]] has not yet released evidence of the connections. 
+She concluded by listing the names of those implicated. Princess Aisling Duval has not yet released evidence of the connections. 
 
-Chancellor [[Anders Blaine]] denied all knowledge of any connection, and refused to comment [[Further]].
+Chancellor Anders Blaine denied all knowledge of any connection, and refused to comment Further.

@@ -25,8 +25,8 @@ significance: low
 Coalition of Othime Campaign Concludes
 
 
-[[The]] Coalition of Othime has announced that [[Its]] campaign to build a new asteroid base has received the wholehearted support of the galactic community. [[Hundreds of]] pilots supported the appeal by delivering commodities to Levi Montalcini Dock and by eliminating agitators in Othime, thereby ensuring the safety of traders. 
+The Coalition of Othime has announced that Its campaign to build a new asteroid base has received the wholehearted support of the galactic community. Hundreds of pilots supported the appeal by delivering commodities to Levi Montalcini Dock and by eliminating agitators in Othime, thereby ensuring the safety of traders. 
 
-[[Authorities in]] Othime have extended their gratitude to those who participated in the operation. 
+Authorities in Othime have extended their gratitude to those who participated in the operation. 
 
 Pilots who contributed to the initiative can now collect their rewards from Levi-Montalcini Dock in the Othime system.

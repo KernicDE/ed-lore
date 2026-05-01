@@ -22,10 +22,10 @@ significance: high
 Galactic News: Data Appeal Concludes
 
 
-Engineer [[Ram Tah]] has announced that his appeal for data from [[The]] [[Synuefe]] ruins has been enthusiastically received by the galactic community. [[Hundreds of]] [[Independent]] pilots responded to the appeal, resulting [[In a]] massive influx of deliveries to Felice Dock, the campaign's centre of operations. 
+Engineer Ram Tah has announced that his appeal for data from The Synuefe ruins has been enthusiastically received by the galactic community. Hundreds of Independent pilots responded to the appeal, resulting In a massive influx of deliveries to Felice Dock, the campaign's centre of operations. 
 
-[[As the]] campaign drew to a close, Ram Tah released a brief statement. 
+As the campaign drew to a close, Ram Tah released a brief statement. 
 
-"I am hugely grateful to the galactic community for [[Its]] support. It is my hope that [[This]] data will allow us to unlock the monolith network and discover [[Further]] Guardian sites." 
+"I am hugely grateful to the galactic community for Its support. It is my hope that This data will allow us to unlock the monolith network and discover Further Guardian sites." 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Felice Dock in the Meene]] system.
+Pilots who contributed to the initiative can now collect their rewards from Felice Dock in the Meene system.

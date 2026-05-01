@@ -16,8 +16,8 @@ significance: low
 Aisling Opens Art Installation on Emerald
 
 
-[[The]] People’s Princess made an appearance in [[Cemiess]] late last night to attend [[The]] opening of Emerald’s newest art installation, ‘[[Prism]]’s Shades’, a multi-sensory experience that uses experimental light and sound projection technology to stimulate a series of empathic responses from [[Its]] audience. 
+The People’s Princess made an appearance in Cemiess late last night to attend The opening of Emerald’s newest art installation, ‘Prism’s Shades’, a multi-sensory experience that uses experimental light and sound projection technology to stimulate a series of empathic responses from Its audience. 
 
-Aisling dazzled crowds by dressing [[In a]] long-sleeved ruby red evening gown, adorned [[With]] painite sparkles. She accessorised [[With]] an equally stunning tinted visor, fashionably stamped with Aisling’s personal crest. 
+Aisling dazzled crowds by dressing In a long-sleeved ruby red evening gown, adorned With painite sparkles. She accessorised With an equally stunning tinted visor, fashionably stamped with Aisling’s personal crest. 
 
-Surprisingly, the people’s princess only stayed at the installation for a little over an hour. Aisling left the show long before midnight, citing exhaustion from her recent activities in the Summerlands [[As the]] reason behind her early exit.
+Surprisingly, the people’s princess only stayed at the installation for a little over an hour. Aisling left the show long before midnight, citing exhaustion from her recent activities in the Summerlands As the reason behind her early exit.

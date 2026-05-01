@@ -22,19 +22,19 @@ related_uuids:
 - deca2e98-3214-58c6-a3a2-3cf6ed0dddc6
 ---
 
-In [[The]] Shadow of the Blight
+In The Shadow of the Blight
 
 
-[[People across the core]] systems are adapting to food shortages caused by the blight, [[As the]] threat of widespread starvation increases. 
+People across the core systems are adapting to food shortages caused by the blight, As the threat of widespread starvation increases. 
 
-Vox Galactica journalist [[Adalyn Cross]] has been following the situation: 
+Vox Galactica journalist Adalyn Cross has been following the situation: 
 
-“[[With staple foodstuffs scarce in many]] systems, long-forgotten brands have been resurrected, as freeze-dried and preserved goods return to favour. Restaurant menus are being reduced, and new recipes have been devised by innovative chefs – [[Many]] of whom refuse to reveal their ingredients.” 
+“With staple foodstuffs scarce in many systems, long-forgotten brands have been resurrected, as freeze-dried and preserved goods return to favour. Restaurant menus are being reduced, and new recipes have been devised by innovative chefs – Many of whom refuse to reveal their ingredients.” 
 
-“On certain worlds, alternative crops are being imported, [[With the]] extra costs offset by increased taxes. Private companies such as Rackham Capital Investments and Silva Holdings Inc have also donated enormous sums to foodstuff shipments, [[Which]] has been hugely appreciated by the general public. 
+“On certain worlds, alternative crops are being imported, With the extra costs offset by increased taxes. Private companies such as Rackham Capital Investments and Silva Holdings Inc have also donated enormous sums to foodstuff shipments, Which has been hugely appreciated by the general public. 
 
-“[[In a]] curious development, [[One]] direct beneficiary of the blight has been the fishing industry. Pescatarian diets are on the rise, [[With]] many celebrities declaring a newfound passion for seafood dishes in the absence of fresh fruit and vegetables.” 
+“In a curious development, One direct beneficiary of the blight has been the fishing industry. Pescatarian diets are on the rise, With many celebrities declaring a newfound passion for seafood dishes in the absence of fresh fruit and vegetables.” 
 
-Despite [[This]], billions now rely on food cartridges and ration packs that offer only basic nutrition. Welfare charities are shipping aid to wherever it is most needed, but admit that their resources have been stretched to breaking point. 
+Despite This, billions now rely on food cartridges and ration packs that offer only basic nutrition. Welfare charities are shipping aid to wherever it is most needed, but admit that their resources have been stretched to breaking point. 
 
 “With the mutated blight proving so effective at destroying cropland,” said Cross, “Mason Chu’s warning that we may be facing a galaxy-wide scourge looks more likely to become a bitter reality.”

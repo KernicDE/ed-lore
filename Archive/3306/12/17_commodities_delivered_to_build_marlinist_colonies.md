@@ -23,12 +23,12 @@ legacy_weight: 3
 significance: medium
 ---
 
-*[[Pilots Federation]] ALERT*
-[[Sirius Corporation]] has successfully gathered materials to construct new [[Independent]] settlements for [[Marlinist]] emigrants.
-Both [[The]] Empire and the Federation accepted the proposal from Sirius Corporation to establish colonies for the political refugees, who have been the cause of increased tension between the superpowers.
-CEO [[Li Yong-Rui]] made [[This]] announcement:
+*Pilots Federation ALERT*
+Sirius Corporation has successfully gathered materials to construct new Independent settlements for Marlinist emigrants.
+Both The Empire and the Federation accepted the proposal from Sirius Corporation to establish colonies for the political refugees, who have been the cause of increased tension between the superpowers.
+CEO Li Yong-Rui made This announcement:
 “As always, the galactic community’s immense contribution has made this achievement possible. The shipments of atmospheric processors, auto-fabricators, structural regulators and water purifiers will be used to construct new outposts and settlements in 8 uninhabited systems.”
-The Omega Merchant Command is now offering rewards at Ellis [[Gateway]] in the Bd+05 1146 system to all pilots who delivered commodities.
+The Omega Merchant Command is now offering rewards at Ellis Gateway in the Bd+05 1146 system to all pilots who delivered commodities.
 Aaron Whyte, a community leader among the refugees, commented on Vox Galactica:
-“I suppose we should be grateful that these colonies give us a chance of survival. But none of us wanted to set up [[Our]] own kingdoms – only to remove the kings. And [[One]] day, we will.”
+“I suppose we should be grateful that these colonies give us a chance of survival. But none of us wanted to set up Our own kingdoms – only to remove the kings. And One day, we will.”
 The Marlinist population is expected to be transferred from Federal space to the new colonies in early 3307.

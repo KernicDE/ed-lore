@@ -22,15 +22,15 @@ legacy_weight: 4
 significance: high
 ---
 
-[[Distant Worlds]] Expedition Reaches [[Beagle Point]]
+Distant Worlds Expedition Reaches Beagle Point
 
 
-[[The]] Distant Worlds II expedition has reached [[Its]] final destination on the [[Far]] side of the galaxy: the Beagle Point system. 
+The Distant Worlds II expedition has reached Its final destination on the Far side of the galaxy: the Beagle Point system. 
 
 Science correspondent Leon Banerjee reported for Vox Galactica:  
 
-"The Distant Worlds exploratory fleet, comprising thousands of [[Independent]] pilots, set out from the [[Pallaeni]] system on 13th January 3305. Over three months later, after travelling more than 73,000 light years, ships have begun arriving at Beagle Point." 
+"The Distant Worlds exploratory fleet, comprising thousands of Independent pilots, set out from the Pallaeni system on 13th January 3305. Over three months later, after travelling more than 73,000 light years, ships have begun arriving at Beagle Point." 
 
-"Included among the expedition's achievements is the construction of the scientific research station Explorer's Anchorage. [[This]] now serves as a permanent waypoint for travellers to the galactic core, as well as facilitating detailed observation of the supermassive black hole Sagittarius A*." 
+"Included among the expedition's achievements is the construction of the scientific research station Explorer's Anchorage. This now serves as a permanent waypoint for travellers to the galactic core, as well as facilitating detailed observation of the supermassive black hole Sagittarius A*." 
 
 "While Distant Worlds II is coming to a close, its participants will now plot their own routes through unexplored space back towards the core systems."

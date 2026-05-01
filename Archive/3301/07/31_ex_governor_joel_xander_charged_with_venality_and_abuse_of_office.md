@@ -13,13 +13,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Ex-Governor [[Joel Xander Charged]] [[With]] Venality and Abuse of Office
+Ex-Governor Joel Xander Charged With Venality and Abuse of Office
 
 
-Ex-Governor [[Joel Xander Charged]] [[With]] Venality and Abuse of Office 
+Ex-Governor Joel Xander Charged With Venality and Abuse of Office 
  
-Federal prosecutor Kerstin Marling has brought charges against [[The]] former Governor of BD-22 3572, Joel Xander, in [[The]] Federal court in [[Rhea]]. 
+Federal prosecutor Kerstin Marling has brought charges against The former Governor of BD-22 3572, Joel Xander, in The Federal court in Rhea. 
 
-Marling stated that she has evidence that Xander had been receiving financial support from local leaders King Justice II and Supreme Leader Anxo Lino of BD-22 3573 Flag, [[Which]] has led to a dramatic decrease of Federation popularity in the sector. 
+Marling stated that she has evidence that Xander had been receiving financial support from local leaders King Justice II and Supreme Leader Anxo Lino of BD-22 3573 Flag, Which has led to a dramatic decrease of Federation popularity in the sector. 
 
-“It is of utmost importance to show to all the poor people who have suffered because of [[This]] man's corruption that [[This]] was not official Federal policy, [[But the]] work of an individual, who will be treated as a criminal for his deeds.”
+“It is of utmost importance to show to all the poor people who have suffered because of This man's corruption that This was not official Federal policy, But the work of an individual, who will be treated as a criminal for his deeds.”

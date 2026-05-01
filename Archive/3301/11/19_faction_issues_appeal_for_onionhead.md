@@ -17,11 +17,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-Faction Issues Appeal for [[Onionhead]]
+Faction Issues Appeal for Onionhead
 
 
-A faction known [[As the]] Drug Empire of Xelabara has issued a request for [[The]] controversial narcotic onionhead. The drug was once a significant trade commodity, but it suffered a setback last year when former Federal [[President Jasmina Halsey]] declared it illegal in Federal space. Rooney 'Rush' Romero, a spokesperson for the Drug Empire of Xelabara, explained that the appeal is partly intended to revitalise the market: 
+A faction known As the Drug Empire of Xelabara has issued a request for The controversial narcotic onionhead. The drug was once a significant trade commodity, but it suffered a setback last year when former Federal President Jasmina Halsey declared it illegal in Federal space. Rooney 'Rush' Romero, a spokesperson for the Drug Empire of Xelabara, explained that the appeal is partly intended to revitalise the market: 
 
-"The fact is that people want onionhead. The Federation might not like it, but that's their problem – [[Our]] organisation is well within [[Its]] rights to establish a trading operation in Xelabara. Trouble is, although we've got the money, we don't have the merchandise. That's why we're offering generous incentives to pilots who deliver onionhead to our base of operations in Xelabara." 
+"The fact is that people want onionhead. The Federation might not like it, but that's their problem – Our organisation is well within Its rights to establish a trading operation in Xelabara. Trouble is, although we've got the money, we don't have the merchandise. That's why we're offering generous incentives to pilots who deliver onionhead to our base of operations in Xelabara." 
 
-The Drug Empire of Xelabara is not believed to be connected to the Farmer's Cooperative of the [[Kappa Fornacis]] system, onionhead's main producer. The Federation has not released an official statement concerning the request.
+The Drug Empire of Xelabara is not believed to be connected to the Farmer's Cooperative of the Kappa Fornacis system, onionhead's main producer. The Federation has not released an official statement concerning the request.

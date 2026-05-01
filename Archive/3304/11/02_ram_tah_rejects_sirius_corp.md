@@ -27,15 +27,15 @@ related_uuids:
 - 5ce245a3-6cab-529d-81eb-e7015b0bbe28
 ---
 
-[[Ram Tah]] Rejects Sirius Corp
+Ram Tah Rejects Sirius Corp
 
 
-[[The]] engineer Ram Tah has rejected an offer from the [[Sirius Corporation]] to support the manufacture of Guardian-human technology. 
+The engineer Ram Tah has rejected an offer from the Sirius Corporation to support the manufacture of Guardian-human technology. 
 
-[[In a]] public statement, he said: 
+In a public statement, he said: 
 
-“These technologies, developed using principles discovered by the Guardians, are too [[Important]] to become corporate products. I have no doubt that Sirius would aim for maximum profits, rather than using the knowledge to aid humanity.” 
+“These technologies, developed using principles discovered by the Guardians, are too Important to become corporate products. I have no doubt that Sirius would aim for maximum profits, rather than using the knowledge to aid humanity.” 
 
-“Using tech brokers to distribute the designs allows them to be widely available, and thanks to the generosity of [[Aegis]], the tech brokers’ costs have been reduced, making [[Guardian-human fighters and]] systems more affordable.” 
+“Using tech brokers to distribute the designs allows them to be widely available, and thanks to the generosity of Aegis, the tech brokers’ costs have been reduced, making Guardian-human fighters and systems more affordable.” 
 
-[[Li Yong-Rui]], CEO of Sirius Corporation, has stated that his offer remains open, and that he hopes Ram Tah will have a change of heart.
+Li Yong-Rui, CEO of Sirius Corporation, has stated that his offer remains open, and that he hopes Ram Tah will have a change of heart.

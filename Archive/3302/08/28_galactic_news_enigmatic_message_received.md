@@ -16,16 +16,16 @@ significance: low
 Galactic News: Enigmatic Message Received
 
 
-News feeds throughout [[The]] galaxy have received a mysterious message from an as-yet undetermined source. 
+News feeds throughout The galaxy have received a mysterious message from an as-yet undetermined source. 
 
-The message, [[Which]] is reprinted in full below, appears to contain an oblique reference to a particular location, [[But the]] nature of the communiqué makes it hard to determine exactly what it refers to. 
+The message, Which is reprinted in full below, appears to contain an oblique reference to a particular location, But the nature of the communiqué makes it hard to determine exactly what it refers to. 
 
-"We've [[Found]] something. Something incredible. Something the whole galaxy will want to see. The truth." 
+"We've Found something. Something incredible. Something the whole galaxy will want to see. The truth." 
 
 "We could show it to you, but that wouldn't be much fun. So instead we're going to play a little game." 
 
 "It begins on the 28th. We'll be waiting for you." 
 
-The [[Federal Security Service]], aware that the message will pique the interest of the galactic community, said: 
+The Federal Security Service, aware that the message will pique the interest of the galactic community, said: 
 
-"Frankly, I suspect [[This]] is some kind of hoax, but there will inevitably be some who attempt to unravel the mystery. All we can do is urge them to exercise caution."
+"Frankly, I suspect This is some kind of hoax, but there will inevitably be some who attempt to unravel the mystery. All we can do is urge them to exercise caution."

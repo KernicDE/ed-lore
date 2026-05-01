@@ -20,17 +20,17 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: [[Canonn]] Institute Opens [[Its]] Doors
+Freelance Report: Canonn Institute Opens Its Doors
 
 
-Humanity's newest and most advanced Unknown Artefact research centre, [[The]] Canonn Institute in Col 285 Sector IX-T d3-43, is finally open. 
+Humanity's newest and most advanced Unknown Artefact research centre, The Canonn Institute in Col 285 Sector IX-T d3-43, is finally open. 
 
-Dr [[Arcanonn]], under heavy guard, was the first to arrive at the opening ceremony, and he had [[This]] to say: 
+Dr Arcanonn, under heavy guard, was the first to arrive at the opening ceremony, and he had This to say: 
 
-"It is an amazing feeling to stand before after being in hiding for so long. After more than a year of work, the Canonn has become [[One]] of the most open, diligent and dedicated science organisations in inhabited space, and now we have an amazing research centre." 
+"It is an amazing feeling to stand before after being in hiding for so long. After more than a year of work, the Canonn has become One of the most open, diligent and dedicated science organisations in inhabited space, and now we have an amazing research centre." 
 
 "I want to thank those who supported the construction of the institute. I'm looking forward to repaying that faith by sharing the discoveries we make here!" 
 
-Dr [[Arcanonn finished by announcing]] an open order for UAs and meta-alloys to help initiate research at the institute. 
+Dr Arcanonn finished by announcing an open order for UAs and meta-alloys to help initiate research at the institute. 
 
-Commander [[Lord Zoltan]]
+Commander Lord Zoltan

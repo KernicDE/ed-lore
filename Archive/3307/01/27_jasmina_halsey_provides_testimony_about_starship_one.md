@@ -35,9 +35,9 @@ legacy_weight: 2
 significance: low
 ---
 
-Former [[President Jasmina Halsey]] has taken [[The]] witness stand during the trial of Fleet Admiral Lucas Vincent at the Federal High Court.
-Crime correspondent Ethan Takahashi reported the details for The [[Federal Times]]:
-“[[Jasmina Halsey]] confirmed that the orders for Starship [[One]]’s unscheduled stopover in the [[Azaleach]] system came directly from Fleet Admiral Vincent. She added that the presidential itinerary was often altered for various mundane reasons, and at the time [[This]] seemed routine.”
-“Halsey also provided an account of the [[Vessel]]’s destruction, describing the chaos and panic onboard [[As the]] hyperspace misjump caused rapid structural disintegration. She praised her security detail for getting her into a cryogenic stasis pod and launching it moments before Starship One exploded.”
-“During cross-examination, the defence counsel quoted her reported visions after being rescued, when Halsey described meeting the ‘caretakers of [[Our]] galaxy’ and experiencing the ‘infinities of the cosmos’. It was suggested that the testimony of someone suffering from such obvious delusions should be discounted.”
-“Halsey admitted that she no longer has any memory of making those statements, and may have been suffering from post-traumatic shock. She then provided the court [[With]] psychological reports and neural scans from the [[Alliance]]’s finest doctors, medically confirming that she is of sound state of mind.”
+Former President Jasmina Halsey has taken The witness stand during the trial of Fleet Admiral Lucas Vincent at the Federal High Court.
+Crime correspondent Ethan Takahashi reported the details for The Federal Times:
+“Jasmina Halsey confirmed that the orders for Starship One’s unscheduled stopover in the Azaleach system came directly from Fleet Admiral Vincent. She added that the presidential itinerary was often altered for various mundane reasons, and at the time This seemed routine.”
+“Halsey also provided an account of the Vessel’s destruction, describing the chaos and panic onboard As the hyperspace misjump caused rapid structural disintegration. She praised her security detail for getting her into a cryogenic stasis pod and launching it moments before Starship One exploded.”
+“During cross-examination, the defence counsel quoted her reported visions after being rescued, when Halsey described meeting the ‘caretakers of Our galaxy’ and experiencing the ‘infinities of the cosmos’. It was suggested that the testimony of someone suffering from such obvious delusions should be discounted.”
+“Halsey admitted that she no longer has any memory of making those statements, and may have been suffering from post-traumatic shock. She then provided the court With psychological reports and neural scans from the Alliance’s finest doctors, medically confirming that she is of sound state of mind.”

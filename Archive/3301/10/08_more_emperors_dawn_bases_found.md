@@ -32,13 +32,13 @@ legacy_weight: 4
 significance: high
 ---
 
-More [[Emperor's Dawn]] Bases [[Found]]
+More Emperor's Dawn Bases Found
 
 
-Two weeks ago, [[The]] [[Imperial Internal Security Service]] issued a request for exploration data as part of [[Its]] ongoing effort to locate bases belonging to the insurgent organisation Emperor's Dawn. The request resulted [[In a]] raft of fresh astrological data, [[Which]] has since been subjected to rigorous analysis by the [[IISS]]. [[This]] in turn has produced a list of [[Star]] systems that the IISS believes contain Emperor's Dawn bases: [[Namarii]], [[Tabaldak]], [[LTT 874]], [[Shambhala]] and [[Svari]]. 
+Two weeks ago, The Imperial Internal Security Service issued a request for exploration data as part of Its ongoing effort to locate bases belonging to the insurgent organisation Emperor's Dawn. The request resulted In a raft of fresh astrological data, Which has since been subjected to rigorous analysis by the IISS. This in turn has produced a list of Star systems that the IISS believes contain Emperor's Dawn bases: Namarii, Tabaldak, LTT 874, Shambhala and Svari. 
 
-Some commentators have expressed [[Surprise]] at the Empire's decision to release the information, given its importance to the Imperial campaign, but [[Senator [[Denton]] Patreus]], who is leading the fight against Emperor's Dawn, has no reservations: 
+Some commentators have expressed Surprise at the Empire's decision to release the information, given its importance to the Imperial campaign, but Senator Denton Patreus, who is leading the fight against Emperor's Dawn, has no reservations: 
 
-"Surprise is not a significant factor at this stage of the campaign. Let the insurgents prepare for [[Our]] arrival. They cannot hope to withstand the full might of the Empire. We will crush them." 
+"Surprise is not a significant factor at this stage of the campaign. Let the insurgents prepare for Our arrival. They cannot hope to withstand the full might of the Empire. We will crush them." 
 
-Having already eradicated an Emperor's Dawn cell in [[Maausk]], it is assumed that the Empire will soon launch military campaigns against the remaining insurgent bases.
+Having already eradicated an Emperor's Dawn cell in Maausk, it is assumed that the Empire will soon launch military campaigns against the remaining insurgent bases.

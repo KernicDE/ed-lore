@@ -11,13 +11,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: Federal-Imperial Conflict in [[Mu Koji]]
+Community Goal: Federal-Imperial Conflict in Mu Koji
 
 
-Security operatives in Mu Koji have reported that [[The]] Empire and Federation have launched rival military operations in the system. 
+Security operatives in Mu Koji have reported that The Empire and Federation have launched rival military operations in the system. 
 
-Both superpowers have fleets stationed in Mu Koji, and both have launched attacks against these convoys [[With the]] aim of securing valuable enemy intelligence.  
+Both superpowers have fleets stationed in Mu Koji, and both have launched attacks against these convoys With the aim of securing valuable enemy intelligence.  
 
-The Xuangu Crimson Major Network has been authorised to coordinate the Imperial operation, while rival organisation the Mu Koji Resistance is directing the Federal campaign. Both factions have asked [[Independent]] combat pilots for support, promising to reward those who come to their aid. 
+The Xuangu Crimson Major Network has been authorised to coordinate the Imperial operation, while rival organisation the Mu Koji Resistance is directing the Federal campaign. Both factions have asked Independent combat pilots for support, promising to reward those who come to their aid. 
 
-The rival operations are scheduled to [[Run]] for [[One]] week from the 8th of September 3302.
+The rival operations are scheduled to Run for One week from the 8th of September 3302.

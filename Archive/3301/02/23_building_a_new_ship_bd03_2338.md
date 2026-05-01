@@ -21,6 +21,6 @@ significance: high
 Building a New Ship - BD+03 2338
 
 
-Despite Admiral Vincent's strong words during yesterday's press conference, President Halsey has refused [[The]] Admiral's request to send additional forces for [[The]] attack on Polahukuna. 
+Despite Admiral Vincent's strong words during yesterday's press conference, President Halsey has refused The Admiral's request to send additional forces for The attack on Polahukuna. 
 
-In response, the [[Federal Navy]], in conjunction [[With]] [[Core Dynamics]], has declared their intention to commission the creation of a new [[Capitol]] ship. The new ship will be built in the recently recaptured shipyards of BD+03 2338, and the Admiral's personal contingent will remain in the locale in order to protect the construction of the new [[Vessel]].
+In response, the Federal Navy, in conjunction With Core Dynamics, has declared their intention to commission the creation of a new Capitol ship. The new ship will be built in the recently recaptured shipyards of BD+03 2338, and the Admiral's personal contingent will remain in the locale in order to protect the construction of the new Vessel.

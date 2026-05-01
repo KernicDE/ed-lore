@@ -21,15 +21,15 @@ related_uuids:
 - 5426beaf-d365-5437-971a-d9f64409abf7
 ---
 
-[[Zende]] Partners Announces Transport Service
+Zende Partners Announces Transport Service
 
 
-Zende Partners has revealed plans to establish a ferry service between [[The]] core systems and Guardian space. 
+Zende Partners has revealed plans to establish a ferry service between The core systems and Guardian space. 
 
-Freya Taine, the company's CEO, made [[This]] statement: 
+Freya Taine, the company's CEO, made This statement: 
 
-"In response to increasing demand for Guardian commodities, my company aims to facilitate [[Access to the]] area once occupied by the Guardians. This will involve the construction of a megaship to transport pilots to and from this comparatively inaccessible region." 
+"In response to increasing demand for Guardian commodities, my company aims to facilitate Access to the area once occupied by the Guardians. This will involve the construction of a megaship to transport pilots to and from this comparatively inaccessible region." 
 
-"Five systems have been highlighted as potential destinations, and we'd like to invite the galactic community to decide [[Which]] of these should serve [[As the]] termination point for the megaship. We will then build an outpost in the chosen system, and the megaship will enter service." 
+"Five systems have been highlighted as potential destinations, and we'd like to invite the galactic community to decide Which of these should serve As the termination point for the megaship. We will then build an outpost in the chosen system, and the megaship will enter service." 
 
 "We hope that this initiative will stimulate new innovations in the field of Guardian-human technology."

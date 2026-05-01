@@ -14,10 +14,10 @@ significance: low
 Galactic News: Candy Crew Campaign Concludes
 
 
-A spokesperson for [[The]] Candy Crew Guild has announced that [[Its]] appeal for palladium, titanium and robotics was enthusiastically received by the galactic community, resulting [[In a]] massive influx of deliveries to Bella Port, the organisation’s base of operations. 
+A spokesperson for The Candy Crew Guild has announced that Its appeal for palladium, titanium and robotics was enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Bella Port, the organisation’s base of operations. 
 
 The Candy Crew Guild has extended its gratitude to those who supported the campaign. 
 
-“We are extremely happy to announce that [[Our]] plans have succeeded. Work on the Dan Gurney Drive Yards and the Cave Johnson Memorial Science Lab has begun, and these facilities will soon be fully operational. Thank you to all those who supported [[This]] initiative.” 
+“We are extremely happy to announce that Our plans have succeeded. Work on the Dan Gurney Drive Yards and the Cave Johnson Memorial Science Lab has begun, and these facilities will soon be fully operational. Thank you to all those who supported This initiative.” 
 
-Pilots who contributed to the campaign can now collect their rewards from Bella Port in the [[Irusan]] system.
+Pilots who contributed to the campaign can now collect their rewards from Bella Port in the Irusan system.

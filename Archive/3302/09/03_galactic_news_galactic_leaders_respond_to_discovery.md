@@ -28,16 +28,16 @@ significance: medium
 Galactic News: Galactic Leaders Respond to Discovery
 
 
-[[The]] leaders of the galaxy's major powers have responded to the discovery of a mysterious shipwreck in the [[Pleiades Sector AB-W B2-4]] system. 
+The leaders of the galaxy's major powers have responded to the discovery of a mysterious shipwreck in the Pleiades Sector AB-W B2-4 system. 
 
-Speaking from the [[Imperial Palace]] on [[Capitol]], [[Emperor Arissa Lavigny-Duval]] said: 
+Speaking from the Imperial Palace on Capitol, Emperor Arissa Lavigny-Duval said: 
 
-"[[This]] is a potentially momentous discovery that could signify the dawn of a new era. I speak for all Imperial citizens when I say that the Empire faces this new era [[With]] optimism."  
+"This is a potentially momentous discovery that could signify the dawn of a new era. I speak for all Imperial citizens when I say that the Empire faces this new era With optimism."  
 
-Meanwhile, Federal [[President Zachary Hudson]] released a statement from his office at the [[White House]] on [[Mars]]: 
+Meanwhile, Federal President Zachary Hudson released a statement from his office at the White House on Mars: 
 
-"Like [[Many]] of you, I have watched this story unfold with mounting astonishment. I want to assure all Federal citizens – and, indeed, all members of the galactic community – that the Federation is ready for whatever lies ahead." 
+"Like Many of you, I have watched this story unfold with mounting astonishment. I want to assure all Federal citizens – and, indeed, all members of the galactic community – that the Federation is ready for whatever lies ahead." 
 
-[[Alliance]] Prime Minister [[Edmund Mahon struck]] a more measured tone in his statement: 
+Alliance Prime Minister Edmund Mahon struck a more measured tone in his statement: 
 
-"The discovery is unquestionably a remarkable [[One]], but at this stage it would be irresponsible to speculate on [[Its]] implications. I will say only that, at this point in time, the need for solidarity has never been greater. It is my sincerest wish that the human race moves forward as one, united in purpose and philosophy."
+"The discovery is unquestionably a remarkable One, but at this stage it would be irresponsible to speculate on Its implications. I will say only that, at this point in time, the need for solidarity has never been greater. It is my sincerest wish that the human race moves forward as one, united in purpose and philosophy."

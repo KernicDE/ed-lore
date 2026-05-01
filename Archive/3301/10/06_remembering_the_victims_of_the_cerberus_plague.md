@@ -24,15 +24,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Remembering [[The]] Victims of the Cerberus Plague
+Remembering The Victims of the Cerberus Plague
 
 
-The Cerberus Plague was [[One]] of the most devastating outbreaks to blight the galaxy for generations, devastating [[Dozens of]] systems and affecting countless worlds. Official figures place the death toll at over 100,000. 
+The Cerberus Plague was One of the most devastating outbreaks to blight the galaxy for generations, devastating Dozens of systems and affecting countless worlds. Official figures place the death toll at over 100,000. 
 
-As of today, however, the disease is officially considered extinct. [[Carl Simmons]], the specialist who led research into a cure, has confirmed that no new outbreaks of the plague have been reported since early August, and that the disease can therefore be considered eradicated. 
+As of today, however, the disease is officially considered extinct. Carl Simmons, the specialist who led research into a cure, has confirmed that no new outbreaks of the plague have been reported since early August, and that the disease can therefore be considered eradicated. 
 
-[[This]] announcement follows months of work from medical teams across the galaxy, who – [[With the]] support of [[Many]] [[Independent]] pilots – have laboured tirelessly to deliver the Cerberus antidote to those affected by the plague. 
+This announcement follows months of work from medical teams across the galaxy, who – With the support of Many Independent pilots – have laboured tirelessly to deliver the Cerberus antidote to those affected by the plague. 
 
-To mark this event, and in remembrance of those who lost their lives to the Cerberus Plague, officials at [[Hart Station]] have commissioned a special memorial. [[Governor Albrecht]], administrator of Hart Station, unveiled the monument [[With]] [[The following]] words: 
+To mark this event, and in remembrance of those who lost their lives to the Cerberus Plague, officials at Hart Station have commissioned a special memorial. Governor Albrecht, administrator of Hart Station, unveiled the monument With The following words: 
 
-"It is my solemn duty to dedicate this memorial to the many men, women and children whose lives were claimed by the Cerberus Plague. Their light may be gone from the galaxy, but they will live on in [[Our]] hearts."
+"It is my solemn duty to dedicate this memorial to the many men, women and children whose lives were claimed by the Cerberus Plague. Their light may be gone from the galaxy, but they will live on in Our hearts."

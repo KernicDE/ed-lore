@@ -24,12 +24,12 @@ significance: low
 Freelance Report: Humanity's Dream
 
 
-On [[This]] date 1,341 years ago, humanity achieved a dream it had harboured for generations. For [[The]] first time, advanced rocket technology propelled a human being beyond the boundaries of [[Earth]] and into space. 
+On This date 1,341 years ago, humanity achieved a dream it had harboured for generations. For The first time, advanced rocket technology propelled a human being beyond the boundaries of Earth and into space. 
 
-To commemorate Yuri Gagarin's historic flight, pilots gather [[Every]] year at the M. [[Gorbachev starport in the Sol]] system from 18.00 UST onwards to swap first-flight stories and buy rounds at Tereshkova's Hangout. A member of station personnel said: 
+To commemorate Yuri Gagarin's historic flight, pilots gather Every year at the M. Gorbachev starport in the Sol system from 18.00 UST onwards to swap first-flight stories and buy rounds at Tereshkova's Hangout. A member of station personnel said: 
 
-"For some, it's quite a pilgrimage. We've had pilots from [[Sothis]], [[Quince]], Fehu and Canopus in previous years. People want to see the cradle of humanity and remember the moment when the dream of touching the stars was realised. It's a time for looking back and looking forward. We spent [[Many]] millennia dreaming that dream, and it's been just over a thousand years since we achieved it." 
+"For some, it's quite a pilgrimage. We've had pilots from Sothis, Quince, Fehu and Canopus in previous years. People want to see the cradle of humanity and remember the moment when the dream of touching the stars was realised. It's a time for looking back and looking forward. We spent Many millennia dreaming that dream, and it's been just over a thousand years since we achieved it." 
 
-Commander [[Stateira Eleshenar]] 
+Commander Stateira Eleshenar 
 
-Sentient Life | [[Interstellar Press]]
+Sentient Life | Interstellar Press

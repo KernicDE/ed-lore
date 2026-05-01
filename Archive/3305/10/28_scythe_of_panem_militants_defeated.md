@@ -34,22 +34,22 @@ related_uuids:
 - deca2e98-3214-58c6-a3a2-3cf6ed0dddc6
 ---
 
-Scythe of [[Panem]] Militants Defeated
+Scythe of Panem Militants Defeated
 
 
-Scythe of Panem, [[The]] activist group responsible for the crop-destroying blight, has been defeated in the [[Quator]] system. 
+Scythe of Panem, The activist group responsible for the crop-destroying blight, has been defeated in the Quator system. 
 
-Supported by Bruthanvan Co security teams, [[Independent]] pilots were able to neutralise the group’s militant ringleaders. Scythe of Panem members have also been arrested following the raid of an unregistered facility discovered beneath the planetary port Weber Settlement. 
+Supported by Bruthanvan Co security teams, Independent pilots were able to neutralise the group’s militant ringleaders. Scythe of Panem members have also been arrested following the raid of an unregistered facility discovered beneath the planetary port Weber Settlement. 
 
-FIA Agent [[Gino Borstein spoke]] on behalf of the tri-superpower taskforce investigating the blight: 
+FIA Agent Gino Borstein spoke on behalf of the tri-superpower taskforce investigating the blight: 
 
-“Initial questioning has confirmed that Scythe of Panem originally sought revenge for the Federation’s orbital bombing of Onion Head crops on Panem nearly [[Five]] years ago. But a recent change in leadership led them towards more extreme methods, fuelled by anti-capitalist sentiment, [[With the]] objective of disrupting the galactic economy.” 
+“Initial questioning has confirmed that Scythe of Panem originally sought revenge for the Federation’s orbital bombing of Onion Head crops on Panem nearly Five years ago. But a recent change in leadership led them towards more extreme methods, fuelled by anti-capitalist sentiment, With the objective of disrupting the galactic economy.” 
 
-“The term ‘Crops for Crops’ recurs in [[Many of the]] data entries and communications recovered from the underground facility. We believe [[This]] phrase was used as a rallying cry by members.” 
+“The term ‘Crops for Crops’ recurs in Many of the data entries and communications recovered from the underground facility. We believe This phrase was used as a rallying cry by members.” 
 
-Traders are currently transporting the agronomic treatment for the blight pathogen, [[With]] a focus on the [[Diso and Orerve]] systems. As yet there is no official word regarding [[Its]] effectiveness, [[But the]] Interstellar Association for Agriculture remains optimistic. 
+Traders are currently transporting the agronomic treatment for the blight pathogen, With a focus on the Diso and Orerve systems. As yet there is no official word regarding Its effectiveness, But the Interstellar Association for Agriculture remains optimistic. 
 
-Vox Galactica published an opinion piece from journalist [[Adalyn Cross]]: 
+Vox Galactica published an opinion piece from journalist Adalyn Cross: 
 
 “A vital question remains: has the damage already been done? While the originators of the blight have been brought to justice, can a galaxy-wide eradication of food supplies be prevented?”  
 

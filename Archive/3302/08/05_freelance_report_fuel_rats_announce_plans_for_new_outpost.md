@@ -20,12 +20,12 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: [[Fuel Rats]] Announce Plans for New Outpost
+Freelance Report: Fuel Rats Announce Plans for New Outpost
 
 
-Earlier today, [[The]] Fuel Rats Mischief announced plans for an extraction outpost near [[Jaques Station]]. 
+Earlier today, The Fuel Rats Mischief announced plans for an extraction outpost near Jaques Station. 
 
-"We've been considering such a base for quite a while now. Originally the idea was to set up near Sagittarius A* since it's [[One]] of the regions most visited by explorers. The biggest challenge was always supplying the station [[With]] commodities like food and spare parts. Being near Jaques Station will solve [[This]] problem since it's equipped with a habitation ring, and because it's a destination for a steady stream of supply ships." 
+"We've been considering such a base for quite a while now. Originally the idea was to set up near Sagittarius A* since it's One of the regions most visited by explorers. The biggest challenge was always supplying the station With commodities like food and spare parts. Being near Jaques Station will solve This problem since it's equipped with a habitation ring, and because it's a destination for a steady stream of supply ships." 
 
 Asked if the fact that Jaques Station is already serving as a base would render such an operation pointless, the Fuel Rats spokesperson answered: 
 

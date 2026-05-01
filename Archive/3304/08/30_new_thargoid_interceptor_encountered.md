@@ -28,21 +28,21 @@ related_uuids:
 - a4948f46-cb29-57d0-95a7-5e3dbbb32cf0
 ---
 
-New [[Thargoid]] Interceptor Encountered
+New Thargoid Interceptor Encountered
 
 
-[[Independent]] pilots have reported engaging a previously unseen type of Thargoid [[Vessel]]. 
+Independent pilots have reported engaging a previously unseen type of Thargoid Vessel. 
 
-[[The]] [[Pilots Federation]] confirmed that [[Several]] of [[Its]] members have encountered the ship in both the [[Pleiades Nebula]] and the core systems. 
+The Pilots Federation confirmed that Several of Its members have encountered the ship in both the Pleiades Nebula and the core systems. 
 
-Commander Jing-sheng Mendez gave [[This]] account: 
+Commander Jing-sheng Mendez gave This account: 
 
-“My wingmate and I were both hyperdicted while travelling through the Pleiades. We assumed that together we could handle a single Thargoid ship, but this [[One]] really soaked up [[Our]] firepower.” 
+“My wingmate and I were both hyperdicted while travelling through the Pleiades. We assumed that together we could handle a single Thargoid ship, but this One really soaked up Our firepower.” 
 
-“I managed to get away, but Leonie didn’t make it. I’ve already started retooling my Krait [[With]] AX weapons. I want to head back out there…and get some payback.” 
+“I managed to get away, but Leonie didn’t make it. I’ve already started retooling my Krait With AX weapons. I want to head back out there…and get some payback.” 
 
-Admiral Aden Tanner, [[Aegis]]’s chief military liaison, made this statement: 
+Admiral Aden Tanner, Aegis’s chief military liaison, made this statement: 
 
-“We can confirm that this new ship – classified [[As the]] Hydra – is a variant of the Thargoid Interceptor. It is structurally stronger than the Cyclops, Basilisk or Medusa, and releases a larger swarm of Thargon drones.” 
+“We can confirm that this new ship – classified As the Hydra – is a variant of the Thargoid Interceptor. It is structurally stronger than the Cyclops, Basilisk or Medusa, and releases a larger swarm of Thargon drones.” 
 
-In response to this development, the Pilots Federation has sealed off the [[Cone Sector FN-J B9-0]] system, [[Which]] is believed to contain high concentrations of Hydra Interceptors. Despite this, it is understood that the Gnosis, flagship of the [[Canonn Interstellar Research Group]], will attempt to complete its scheduled jump into the now permit-locked system
+In response to this development, the Pilots Federation has sealed off the Cone Sector FN-J B9-0 system, Which is believed to contain high concentrations of Hydra Interceptors. Despite this, it is understood that the Gnosis, flagship of the Canonn Interstellar Research Group, will attempt to complete its scheduled jump into the now permit-locked system

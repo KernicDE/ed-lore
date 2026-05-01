@@ -22,12 +22,12 @@ significance: high
 Non Human Signal Sources in Huveang De
 
 
-Local security services in [[The]] Huveang De system have announced today that there have been no new sightings of Thargoids over the last 24 hours.  
+Local security services in The Huveang De system have announced today that there have been no new sightings of Thargoids over the last 24 hours.  
 
-The head of local security forces released [[The following]] statement: 
+The head of local security forces released The following statement: 
 
-“We do not know why the Thargoids appeared in [[Our]] region of space or why they now appear to have left. We can only speculate as to their motives. However we thank all the brave pilots that came to the system to help defend against [[This]] potentially catastrophic threat.” 
+“We do not know why the Thargoids appeared in Our region of space or why they now appear to have left. We can only speculate as to their motives. However we thank all the brave pilots that came to the system to help defend against This potentially catastrophic threat.” 
 
 There is speculation that the Thargoids planned to attack the system and were held back by the influx of combat pilots engaging them, while others claim that the Thargoids might be exploring or looking for resources and have simply moved on. 
 
-While no [[One]] has reported any [[Further]] sighting in [[Nearby]] systems, security forces in the region remain on high alert.
+While no One has reported any Further sighting in Nearby systems, security forces in the region remain on high alert.

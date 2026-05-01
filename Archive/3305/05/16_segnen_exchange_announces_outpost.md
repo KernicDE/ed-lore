@@ -30,11 +30,11 @@ related_uuids:
 Segnen Exchange Announces Outpost
 
 
-Segnen Exchange has revealed plans to build an outpost in [[The]] [[Synuefe]] EN-H d11-96 system.  
+Segnen Exchange has revealed plans to build an outpost in The Synuefe EN-H d11-96 system.  
 
-CEO [[Cedrik Stone gave]] [[The following]] statement:  
+CEO Cedrik Stone gave The following statement:  
 
-"As [[Zende]] Partners has graciously provided a transport service to Guardian space, it makes sense for my company to support the increased pilot activity in that area. Segnen Exchange can offer a variety of services to those [[Travelling to the]] area." 
+"As Zende Partners has graciously provided a transport service to Guardian space, it makes sense for my company to support the increased pilot activity in that area. Segnen Exchange can offer a variety of services to those Travelling to the area." 
 
 "Segnen Exchange thrives at the forefront of innovation, and the wealth of artefacts soon to flow through Synuefe EN-H d11-96 offers fantastic opportunities in the field of advanced Guardian-human technology." 
 

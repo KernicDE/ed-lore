@@ -14,12 +14,12 @@ significance: low
 Galactic News: Appeal for Materials Concludes
 
 
-A spokesperson for Balones Gold Touch Systems has announced that [[Its]] appeal for materials has been enthusiastically received by [[The]] galactic community, resulting [[In a]] massive influx of deliveries to Tiedemann Dock, the organisation's base of operations. 
+A spokesperson for Balones Gold Touch Systems has announced that Its appeal for materials has been enthusiastically received by The galactic community, resulting In a massive influx of deliveries to Tiedemann Dock, the organisation's base of operations. 
 
-A spokesperson for the organisation released [[The following]] statement: 
+A spokesperson for the organisation released The following statement: 
 
 "Balones Gold Touch Systems extends its deepest gratitude to the galactic community for its support." 
 
-"We know you have questions, but we make you no promises. It will take time to develop these devices. And even when the probes are despatched, we may find nothing. But anything we do discover, we will readily share [[With the]] galactic community." 
+"We know you have questions, but we make you no promises. It will take time to develop these devices. And even when the probes are despatched, we may find nothing. But anything we do discover, we will readily share With the galactic community." 
 
-Pilots who contributed to the initiative are now free to collect their rewards from [[Tiedemann Dock in the Balones]] system.
+Pilots who contributed to the initiative are now free to collect their rewards from Tiedemann Dock in the Balones system.

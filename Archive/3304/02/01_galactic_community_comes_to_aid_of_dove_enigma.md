@@ -28,12 +28,12 @@ significance: high
 Galactic Community Comes to Aid of Dove Enigma
 
 
-An attempt to sabotage [[The]] Dove Enigma, a Wells-class Carrier based in the Colonia system, has been thwarted by the galactic community. 
+An attempt to sabotage The Dove Enigma, a Wells-class Carrier based in the Colonia system, has been thwarted by the galactic community. 
 
-The would-be saboteurs tried to destabilise the [[Vessel]] by flooding [[Its]] black market [[With]] [[Thargoid]] Sensors, [[Which]] have the capacity to damage ships and starports. Fortunately, the assault was countered by a group of pilots who delivered large quantities of meta-alloys to the ailing ship, thereby stabilising it. 
+The would-be saboteurs tried to destabilise the Vessel by flooding Its black market With Thargoid Sensors, Which have the capacity to damage ships and starports. Fortunately, the assault was countered by a group of pilots who delivered large quantities of meta-alloys to the ailing ship, thereby stabilising it. 
 
-The Dove Enigma was specially commissioned by the [[Colonia Council]] as a commemorative gesture for the pilot Commander [[DoveEnigma13]], and as such is of personal significance to [[Many]]. The ship is also the destination of the Enigma Expedition, a collective mission currently charting a course to the Colonia system. 
+The Dove Enigma was specially commissioned by the Colonia Council as a commemorative gesture for the pilot Commander DoveEnigma13, and as such is of personal significance to Many. The ship is also the destination of the Enigma Expedition, a collective mission currently charting a course to the Colonia system. 
 
-An engineer stationed at the Dove Enigma gave [[The following]] statement: 
+An engineer stationed at the Dove Enigma gave The following statement: 
 
-“We’ve received more than enough meta-alloys to stabilise the ship, and the surplus will allow us to safeguard against any [[Further]] sabotage attempts. We’re hugely grateful to the pilots who came to [[Our]] aid. Their efforts are a testament the compassion of the galactic community.”
+“We’ve received more than enough meta-alloys to stabilise the ship, and the surplus will allow us to safeguard against any Further sabotage attempts. We’re hugely grateful to the pilots who came to Our aid. Their efforts are a testament the compassion of the galactic community.”

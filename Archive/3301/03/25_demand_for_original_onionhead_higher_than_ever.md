@@ -19,11 +19,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-Demand for Original [[Onionhead]] Higher Than Ever
+Demand for Original Onionhead Higher Than Ever
 
 
-Thousands of traders have started flocking back to [[Kappa Fornacis]] following [[The]] announcement that [[Onionhead]] is once again available for sale onboard Harvestport. 
+Thousands of traders have started flocking back to Kappa Fornacis following The announcement that Onionhead is once again available for sale onboard Harvestport. 
 
-Demand for [[The]] original strain of Onionhead has remained high over the last few months, despite (or perhaps due to) the Federation’s attempts to completely wipe the plant from the face of the galaxy. Street prices for the totally organic narcotic had skyrocketed by [[Several]] hundred per cent, although the price is expected to level out again now that a new supply has become readily available. 
+Demand for The original strain of Onionhead has remained high over the last few months, despite (or perhaps due to) the Federation’s attempts to completely wipe the plant from the face of the galaxy. Street prices for the totally organic narcotic had skyrocketed by Several hundred per cent, although the price is expected to level out again now that a new supply has become readily available. 
 
-For now the Onionhead trade on [[Kappa Fornacis]] is being allowed to continue unabated, but once the war in [[Lugh]] is over, the Federation is sure to turn [[Its]] attention back to the farmers of [[Panem]].
+For now the Onionhead trade on Kappa Fornacis is being allowed to continue unabated, but once the war in Lugh is over, the Federation is sure to turn Its attention back to the farmers of Panem.

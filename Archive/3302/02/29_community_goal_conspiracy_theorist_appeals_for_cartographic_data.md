@@ -16,10 +16,10 @@ significance: low
 Community Goal: Conspiracy Theorist Appeals for Cartographic Data
 
 
-Notorious conspiracy theorist Ricardo Bentonio has issued an appeal for cartographic data [[With]] [[Which]] to substantiate an extraordinary claim. [[According to]] a recent press statement, Bentonio has unearthed ancient records that prove [[The]] 29th of February 3302, which appears on all galactic calendars, should not exist. He has convinced Kruger 60 Free to fund the [[One]]-day appeal, believing that the cartographic data will prove him correct. 
+Notorious conspiracy theorist Ricardo Bentonio has issued an appeal for cartographic data With Which to substantiate an extraordinary claim. According to a recent press statement, Bentonio has unearthed ancient records that prove The 29th of February 3302, which appears on all galactic calendars, should not exist. He has convinced Kruger 60 Free to fund the One-day appeal, believing that the cartographic data will prove him correct. 
 
 Bentonio elaborated on his theory at a press conference: 
 
-"We're not just talking about computers shutting down or ship systems failing. We're talking about the end of life as we know it! We're talking about the very fabric of space-time collapsing in on itself, and [[The entire]] universe coming to an end!" 
+"We're not just talking about computers shutting down or ship systems failing. We're talking about the end of life as we know it! We're talking about the very fabric of space-time collapsing in on itself, and The entire universe coming to an end!" 
 
-Despite Bentonio having been widely derided as a tin foil hat-wearing crackpot, it's likely that the financial incentives he is offering will earn him some support. Pilots who want to contribute to the initiative are invited to deliver cartographic data to Jones Estate in the [[Groombridge 34]] system on the 29th of February 3302.
+Despite Bentonio having been widely derided as a tin foil hat-wearing crackpot, it's likely that the financial incentives he is offering will earn him some support. Pilots who want to contribute to the initiative are invited to deliver cartographic data to Jones Estate in the Groombridge 34 system on the 29th of February 3302.

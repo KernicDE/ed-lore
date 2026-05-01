@@ -17,11 +17,11 @@ significance: low
 Galactic News: Rahu Operation comes to an End
 
 
-An [[Alliance]] spokesperson has announced that [[Its]] operation to [[The]] crew of an Alliance convoy from opportunistic slavers in the Rahu system has reached a successful conclusion. 
+An Alliance spokesperson has announced that Its operation to The crew of an Alliance convoy from opportunistic slavers in the Rahu system has reached a successful conclusion. 
 
-[[Hundreds of]] [[Independent]] pilots supported the campaign by recovering escape pods from the remains of the convoy and delivering them safely to Acharya Station. Meanwhile, combat pilots neutralised slavers who were attempting to take escape pods from the wreckage. 
+Hundreds of Independent pilots supported the campaign by recovering escape pods from the remains of the convoy and delivering them safely to Acharya Station. Meanwhile, combat pilots neutralised slavers who were attempting to take escape pods from the wreckage. 
 
-[[As the]] operation drew to a close, an Alliance spokesperson made a brief statement: 
+As the operation drew to a close, an Alliance spokesperson made a brief statement: 
 
 "We are immeasurably grateful to the galactic community for its support. Countless members of Alliance personnel have been spared a lifetime of enforced slavery, and we have you to thank for it." 
 

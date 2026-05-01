@@ -27,12 +27,12 @@ related_uuids:
 New Nanomedicine Announced
 
 
-[[Independent]] company Vitadyne Labs has developed an innovative new form of nanomedicine. 
+Independent company Vitadyne Labs has developed an innovative new form of nanomedicine. 
 
-Professor [[Katrien [[Rook]] published]] [[The following]] press release: 
+Professor Katrien Rook published The following press release: 
 
-“Nanomeds are sophisticated pharmaceuticals that use nanoscale materials to repair cell damage on a molecular level. They can heal any injury [[In a]] fraction of [[The]] normal time, and can potentially cure almost any disease and infection.” 
+“Nanomeds are sophisticated pharmaceuticals that use nanoscale materials to repair cell damage on a molecular level. They can heal any injury In a fraction of The normal time, and can potentially cure almost any disease and infection.” 
 
 “Furthermore, regular use of nanomeds affects cellular senescence, drastically slowing the ageing process. In theory, nanomed users will live between 30 and 50 years longer, and will enjoy near-perfect health during those extra decades.” 
 
-“After months of trials we are inviting medical authorities, including the Interstellar Health Organisation, to review [[Our]] data. Pending approval, we hope to have Vitadyne nanomeds on the market soon.”
+“After months of trials we are inviting medical authorities, including the Interstellar Health Organisation, to review Our data. Pending approval, we hope to have Vitadyne nanomeds on the market soon.”

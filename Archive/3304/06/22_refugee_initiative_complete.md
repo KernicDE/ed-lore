@@ -26,10 +26,10 @@ related_uuids:
 Refugee Initiative Complete
 
 
-Senator [[Caspian Leopold]] has announced that his appeal for commodities, in association [[With]] [[Niflhel]] Corp, has been enthusiastically received by [[The]] galactic community. [[Hundreds of]] pilots supported the initiative by delivering commodities to Biruni Port, and by protecting traders in the Niflhel system. 
+Senator Caspian Leopold has announced that his appeal for commodities, in association With Niflhel Corp, has been enthusiastically received by The galactic community. Hundreds of pilots supported the initiative by delivering commodities to Biruni Port, and by protecting traders in the Niflhel system. 
 
-A spokesperson for Senator [[Leopold made]] [[The following]] statement: 
+A spokesperson for Senator Leopold made The following statement: 
 
-“Thanks to the work of [[Many]] brave pilots, we can now begin construction of a rehabilitation centre that will keep innocent families safe from the ravages of war. Senator [[Leopold hopes that this]] is just the beginning, and that through [[Further]] acts of philanthropy he might help spread peace throughout the galaxy.” 
+“Thanks to the work of Many brave pilots, we can now begin construction of a rehabilitation centre that will keep innocent families safe from the ravages of war. Senator Leopold hopes that this is just the beginning, and that through Further acts of philanthropy he might help spread peace throughout the galaxy.” 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Biruni Port in the Niflhel]] system.
+Pilots who contributed to the initiative can now collect their rewards from Biruni Port in the Niflhel system.

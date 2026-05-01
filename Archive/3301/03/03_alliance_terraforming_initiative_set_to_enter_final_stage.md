@@ -13,10 +13,10 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Alliance]] Terraforming Initiative Set to Enter Final Stage
+Alliance Terraforming Initiative Set to Enter Final Stage
 
 
-[[The]] Big G Corporation, in association [[With the]] [[Alliance]] of [[Independent]] Systems, is pleased to announce that a dozen planets involved in [[The]] Alliance terraforming programme are finally ready to undergo their last stage of biochemical transformation. 
+The Big G Corporation, in association With the Alliance of Independent Systems, is pleased to announce that a dozen planets involved in The Alliance terraforming programme are finally ready to undergo their last stage of biochemical transformation. 
 
 The first set of planets to undergo the final stage of terraforming includes: 
 
@@ -30,4 +30,4 @@ Hip 54692 3 in Hip 54692
 
 Milelbis 4 in Milelbis  
 
-While the Big G Corp is expected to handle most of the terraforming process, using their patented and highly secretive World Blending Technology, [[Independent]] contractors are being encouraged to visit [[With]] Big G representatives in order to take advantage of the various stock orders that the company is looking to fill.
+While the Big G Corp is expected to handle most of the terraforming process, using their patented and highly secretive World Blending Technology, Independent contractors are being encouraged to visit With Big G representatives in order to take advantage of the various stock orders that the company is looking to fill.

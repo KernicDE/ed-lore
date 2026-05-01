@@ -27,10 +27,10 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: Services [[Suspended]] at Fozard Dock
+Galactic News: Services Suspended at Fozard Dock
 
 
-Authorities at Fozard Dock in [[The]] HIP 19934 system have announced the immediate suspension of all services due to Unknown Artefact-related interference. Starport personnel have confirmed that only docking and shipyard access remain available. [[This]] brings the total number of starports closed as a result of the technological plague to 12. The affected stations are: 
+Authorities at Fozard Dock in The HIP 19934 system have announced the immediate suspension of all services due to Unknown Artefact-related interference. Starport personnel have confirmed that only docking and shipyard access remain available. This brings the total number of starports closed as a result of the technological plague to 12. The affected stations are: 
 
 Fozard Dock, HIP 19934 
 
@@ -40,23 +40,23 @@ Ackerman Market, Eravate
 
 von Bellingshausen Port, Almar 
 
-Haack [[Gateway]], Halbangaay 
+Haack Gateway, Halbangaay 
 
-Gabriel [[Enterprise]], [[Harma]] 
+Gabriel Enterprise, Harma 
 
-[[Gurragchaa Gateway]], [[Warkushanui]] 
+Gurragchaa Gateway, Warkushanui 
 
-[[Gaiman Dock]], [[49 Arietis]] 
+Gaiman Dock, 49 Arietis 
 
-[[Weyn Dock]], [[64 Arietis]] 
+Weyn Dock, 64 Arietis 
 
-Korolyov Hub, [[Arawere]] 
+Korolyov Hub, Arawere 
 
-Lobachevsky Outpost, [[Pic Tok]] 
+Lobachevsky Outpost, Pic Tok 
 
-Carter Port, [[Rhea]] 
+Carter Port, Rhea 
 
-Meanwhile, [[The following]] starports are still experiencing technical issues: 
+Meanwhile, The following starports are still experiencing technical issues: 
 
 Alexander Freeport, HIP 18843 
 
@@ -64,10 +64,10 @@ Bloch Vision, Loperada
 
 Love Ring, Evejitaka 
 
-[[Robigo Mines]], [[Robigo]] 
+Robigo Mines, Robigo 
 
-Saunders's Dive, [[Wolf 1301]] 
+Saunders's Dive, Wolf 1301 
 
-Skvortsov Orbital, 63 G. [[Capricorni]] 
+Skvortsov Orbital, 63 G. Capricorni 
 
 Hinz Hub, Ngobe

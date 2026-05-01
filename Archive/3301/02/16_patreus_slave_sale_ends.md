@@ -15,11 +15,11 @@ significance: low
 Patreus Slave Sale Ends
 
 
-It's been an interesting week for [[The]] people of Durius as they continue to undergo assimilation into [[The]] greater Imperial fold.  
+It's been an interesting week for The people of Durius as they continue to undergo assimilation into The greater Imperial fold.  
 
-As part of that process, the management team in charge of Durius were able to offer debt relief retraining to 12070 newly minted citizens. As a result, 12070 Imperial Slaves [[Found]] themselves exported from Durius to [[Other]] parts of the Empire over the last week. A move that was partly facilitated through a newly formed business arrangement between Senator Patreus and Senator Torval.  
+As part of that process, the management team in charge of Durius were able to offer debt relief retraining to 12070 newly minted citizens. As a result, 12070 Imperial Slaves Found themselves exported from Durius to Other parts of the Empire over the last week. A move that was partly facilitated through a newly formed business arrangement between Senator Patreus and Senator Torval.  
 
-Senator Patreus has said of [[This]]: 
+Senator Patreus has said of This: 
 
 “I am glad the remaining citizens of Durius have freely entered the honourable Imperial tradition and agreed to repay their share of the debt by voluntarily becoming Imperial Slaves until their debts are fully repaid. I wish them well.” 
 

@@ -28,17 +28,17 @@ related_uuids:
 - 386cbd85-5543-5119-8766-37eb9cb4855c
 ---
 
-[[Kincaid]] Wins Election
+Kincaid Wins Election
 
 
-[[Gibson Kincaid]] has been announced [[As the]] winner of [[The]] [[Alliance]] presidential election. He will continue serving as president of the Alliance. 
+Gibson Kincaid has been announced As the winner of The Alliance presidential election. He will continue serving as president of the Alliance. 
 
-Kincaid obtained a small majority of the public vote, defeating Councillor Elijah Beck. Entrepreneur Fazia Silva, the third candidate in the race, was recently [[Found]] dead, and is the subject of an Interpol investigation. 
+Kincaid obtained a small majority of the public vote, defeating Councillor Elijah Beck. Entrepreneur Fazia Silva, the third candidate in the race, was recently Found dead, and is the subject of an Interpol investigation. 
 
-President [[Kincaid addressed his followers]] at a victory rally: 
+President Kincaid addressed his followers at a victory rally: 
 
-“My thanks go to [[Every]] citizen who saw the wisdom of my vision. I vow to lead you into a glorious future!” 
+“My thanks go to Every citizen who saw the wisdom of my vision. I vow to lead you into a glorious future!” 
 
-Prime Minister [[Edmund Mahon gave]] a statement to the media: 
+Prime Minister Edmund Mahon gave a statement to the media: 
 
-“I offer my congratulations to President Kincaid on being successfully re-elected. The Assembly is continuing to debate his proposal to imbue the presidential role [[With]] executive powers. We have agreed to extend the deadline by [[One]] week, after [[Which]] a parliamentary vote will decide the outcome.”
+“I offer my congratulations to President Kincaid on being successfully re-elected. The Assembly is continuing to debate his proposal to imbue the presidential role With executive powers. We have agreed to extend the deadline by One week, after Which a parliamentary vote will decide the outcome.”

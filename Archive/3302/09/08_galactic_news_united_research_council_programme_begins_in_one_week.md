@@ -14,11 +14,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: United Research Council Programme Begins in [[One]] Week
+Galactic News: United Research Council Programme Begins in One Week
 
 
-[[The]] United Research Council has announced that [[Its]] postponed research programme will begin on the 15th of September 3302. The announcement comes a week after political lobbying prompted the Council to temporarily delay the programme. 
+The United Research Council has announced that Its postponed research programme will begin on the 15th of September 3302. The announcement comes a week after political lobbying prompted the Council to temporarily delay the programme. 
 
-The Council's experiments, [[Which]] are understood to involve monitoring radiation levels and recording the positions of celestial bodies, will encompass all systems within a 30 light-year radius of the Clayakarma, Nauo, Gyhldekala, [[Boga and Kpaniya]] systems. Due to the sensitive nature of these experiments, pilots pledged to one of the galaxy's major powers will be unable to lay claim to these systems while the project is active. Pilots should also be aware that any preparatory activity conducted in these systems will be negated when the programme begins. 
+The Council's experiments, Which are understood to involve monitoring radiation levels and recording the positions of celestial bodies, will encompass all systems within a 30 light-year radius of the Clayakarma, Nauo, Gyhldekala, Boga and Kpaniya systems. Due to the sensitive nature of these experiments, pilots pledged to one of the galaxy's major powers will be unable to lay claim to these systems while the project is active. Pilots should also be aware that any preparatory activity conducted in these systems will be negated when the programme begins. 
 
 The United Research Council will make a final announcement shortly before the programme starts.

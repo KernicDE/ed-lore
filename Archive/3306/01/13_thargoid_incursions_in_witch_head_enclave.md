@@ -26,17 +26,17 @@ related_uuids:
 - e92a5cd2-aa4d-5877-a93a-4f713d672b63
 ---
 
-[[Thargoid]] Incursions in [[Witch Head]] Enclave
+Thargoid Incursions in Witch Head Enclave
 
 
-A series of Thargoid incursions into human-occupied Witch Head systems has alarmed [[The]] region’s colonists. Multiple casualties have been reported, [[With]] pilots caught off-guard by the sudden increase in Thargoid ships. 
+A series of Thargoid incursions into human-occupied Witch Head systems has alarmed The region’s colonists. Multiple casualties have been reported, With pilots caught off-guard by the sudden increase in Thargoid ships. 
 
-The Thargoids had largely withdrawn from the Witch Head enclave following a heavy defeat in July 3305. Following a significant increase in Thargoid activity, Professor [[Alba Tesreau]] of [[Aegis]] Research offered [[The following]] comments to Vox Galactica: 
+The Thargoids had largely withdrawn from the Witch Head enclave following a heavy defeat in July 3305. Following a significant increase in Thargoid activity, Professor Alba Tesreau of Aegis Research offered The following comments to Vox Galactica: 
 
-“Regrettably, the Thargoids were unlikely to surrender [[This]] area of space after a single defeat. Humanity may have established the Witch Head enclave, [[But the]] Thargoids are clearly still intent on driving us out – particularly with so [[Many]] barnacle sites in the region.” 
+“Regrettably, the Thargoids were unlikely to surrender This area of space after a single defeat. Humanity may have established the Witch Head enclave, But the Thargoids are clearly still intent on driving us out – particularly with so Many barnacle sites in the region.” 
 
-With starports at considerable risk of assault, local authorities are hopeful that a defence force can be organised soon. A number of [[Independent]] pilots have already travelled great distances to engage the Thargoid forces. 
+With starports at considerable risk of assault, local authorities are hopeful that a defence force can be organised soon. A number of Independent pilots have already travelled great distances to engage the Thargoid forces. 
 
 Kelvin Masters, a regular pundit for the Rewired network, provided this take: 
 
-“Those people in the Witch Head are crazy if they thought the Thargoids were just going to roll over like good pups. We’re six months down the road from [[Our]] initial expansion into the sector, and the local factions seem to have forgotten they’re living in Thargoid space. There’s a little push-and-shove for influence going on, corporations vying for control. What’s going to happen in the Witch Head enclave now the Thargoids are back in force?”
+“Those people in the Witch Head are crazy if they thought the Thargoids were just going to roll over like good pups. We’re six months down the road from Our initial expansion into the sector, and the local factions seem to have forgotten they’re living in Thargoid space. There’s a little push-and-shove for influence going on, corporations vying for control. What’s going to happen in the Witch Head enclave now the Thargoids are back in force?”

@@ -27,17 +27,17 @@ related_uuids:
 - 432f9416-f1fb-55a0-89b9-82607b354d65
 ---
 
-[[Distant Worlds]] Campaign Concludes
+Distant Worlds Campaign Concludes
 
 
-[[The]] Distant Worlds II expedition has gathered resources for a megaship and installation to be constructed in the Galactic Centre. 
+The Distant Worlds II expedition has gathered resources for a megaship and installation to be constructed in the Galactic Centre. 
 
-Contributors delivered huge amounts of materials to the [[Stuemeae FG-Y d7561]] system. Deep Space Surveys also defended miners by placing a kill order on all wanted ships. 
+Contributors delivered huge amounts of materials to the Stuemeae FG-Y d7561 system. Deep Space Surveys also defended miners by placing a kill order on all wanted ships. 
 
-Commander [[Michael Darkmoor]] of the Rock Rats stated: 
+Commander Michael Darkmoor of the Rock Rats stated: 
 
 "The newly built astrophysics station will enable us to observe high-detail changes to the gravimetric field surrounding Sagittarius A*. We hope to better understand the deeper relationships between extreme gravity and multi-dimensional space." 
 
-The Distant Worlds II exploration fleet will continue [[Its]] journey across the galaxy, towards [[Beagle Point]]. 
+The Distant Worlds II exploration fleet will continue Its journey across the galaxy, towards Beagle Point. 
 
-Those who took part in the campaign can now collect their rewards from [[Explorer's Anchorage]] in the Stuemeae FG-Y d7561 system.
+Those who took part in the campaign can now collect their rewards from Explorer's Anchorage in the Stuemeae FG-Y d7561 system.

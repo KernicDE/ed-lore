@@ -24,10 +24,10 @@ legacy_weight: 5
 significance: high
 ---
 
-NMLA figurehead Theta Seven has taken control of [[The]] Sacrosanct megaship and redirected it to the [[Mudhrid]] system.
-[[Several]] months ago, the leader of Theta Group and his closest aides evaded capture by posing as members of the [[Far]] God cult. [[One]] of their pilgrimage vessels, the Sacrosanct, has now bypassed [[Its]] scheduled flight plan and jumped to Mudhrid.
+NMLA figurehead Theta Seven has taken control of The Sacrosanct megaship and redirected it to the Mudhrid system.
+Several months ago, the leader of Theta Group and his closest aides evaded capture by posing as members of the Far God cult. One of their pilgrimage vessels, the Sacrosanct, has now bypassed Its scheduled flight plan and jumped to Mudhrid.
 ACT’s joint leader Captain Milo Castile broadcast an emergency statement:
 “We can confirm that despite being few in number, the terrorists are in command of the Sacrosanct. Since Far God worshippers are pacifists and fatalistic in nature, it’s likely that they offered little resistance.”
-“Theta Seven has stated that he will wipe out the [[Vessel]]’s entire population if any attempt to seize the vessel is made. [[Our]] intel suggests he possesses caustic enzyme explosives of the type used in the starport bombings, making his threat credible.”
-[[Also in the]] system is the Steel Majesty megaship, recently overtaken by the Neo-[[Marlinist]] Order of Mudhrid. ACT believes that the NMLA is regrouping its forces and aims to provide protection for Theta Seven.
+“Theta Seven has stated that he will wipe out the Vessel’s entire population if any attempt to seize the vessel is made. Our intel suggests he possesses caustic enzyme explosives of the type used in the starport bombings, making his threat credible.”
+Also in the system is the Steel Majesty megaship, recently overtaken by the Neo-Marlinist Order of Mudhrid. ACT believes that the NMLA is regrouping its forces and aims to provide protection for Theta Seven.
 Mudhrid’s ruling faction, the Epsilon Fornacis Empire Group, has ordered system security to shoot down any vessels attempting to pass between the two megaships.

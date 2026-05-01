@@ -21,15 +21,15 @@ legacy_weight: 4
 significance: high
 ---
 
-Freelance Report: [[Canonn]] Scientist Observes Firefly Fandango
+Freelance Report: Canonn Scientist Observes Firefly Fandango
 
 
-Verity Gavroche, official correspondent for [[The]] [[Canonn Interstellar Research Group]], has spoken to Dr [[Arcanonn about]] an exciting new discovery: 
+Verity Gavroche, official correspondent for The Canonn Interstellar Research Group, has spoken to Dr Arcanonn about an exciting new discovery: 
 
-"Over the weekend I was contacted by a Commander [[Engalo]], who told me he'd observed an interaction between the Unknown Artefacts and the barnacle 'flowers' – the source of the meta-alloys." 
+"Over the weekend I was contacted by a Commander Engalo, who told me he'd observed an interaction between the Unknown Artefacts and the barnacle 'flowers' – the source of the meta-alloys." 
 
-"Both the barnacles and the artefacts have features we've nicknamed 'fireflies' – bright specks of light that appear to move of their own volition. Engalo has observed that if you place an artefact near a barnacle, their respective fireflies start flying around together. [[This]] [[Continues]] until the UA is removed." 
+"Both the barnacles and the artefacts have features we've nicknamed 'fireflies' – bright specks of light that appear to move of their own volition. Engalo has observed that if you place an artefact near a barnacle, their respective fireflies start flying around together. This Continues until the UA is removed." 
 
-"I can't thank Commander [[Engalo enough]] for bringing this to my attention. [[With the]] new lab the community is helping us build, we'll soon be able to observe this behaviour under controlled conditions." 
+"I can't thank Commander Engalo enough for bringing this to my attention. With the new lab the community is helping us build, we'll soon be able to observe this behaviour under controlled conditions." 
 
-Commander [[Lord Zoltan]]
+Commander Lord Zoltan

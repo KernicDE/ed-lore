@@ -22,17 +22,17 @@ related_uuids:
 - 4f8a3775-4a85-53e6-b107-a1946b857d3a
 ---
 
-Famous Author [[Missing]]
+Famous Author Missing
 
 
-[[The]] family and colleagues of author Olav Redcourt have reported him missing. A police investigation has so [[Far]] failed to determine his whereabouts. 
+The family and colleagues of author Olav Redcourt have reported him missing. A police investigation has so Far failed to determine his whereabouts. 
 
-Redcourt recently hit the headlines when he terminated his relationship [[With]] his publisher, Bonespire Publishing, midway through a promotional tour. 
+Redcourt recently hit the headlines when he terminated his relationship With his publisher, Bonespire Publishing, midway through a promotional tour. 
 
-In the wake of the author’s disappearance, Bonespire released [[The following]] statement: 
+In the wake of the author’s disappearance, Bonespire released The following statement: 
 
-“We can only assume that Mr Redcourt is trying to avoid paying his fine for contract violation, [[Which]] runs to [[Several]] million credits. Of course, should he agree to continue writing the bestselling Corsair King series, we would be happy to waive the damages.” 
+“We can only assume that Mr Redcourt is trying to avoid paying his fine for contract violation, Which runs to Several million credits. Of course, should he agree to continue writing the bestselling Corsair King series, we would be happy to waive the damages.” 
 
 Literary critic Kayla Shah offered an alternative explanation: 
 
-“Obsessive readers of the Corsair King series have sent death threats to Redcourt for not delivering exactly what they wanted. Now that he’s turned his back on the series, might he have been kidnapped by a rabid fan and forced to write more novels, or even [[Murdered]] as an act of revenge?”
+“Obsessive readers of the Corsair King series have sent death threats to Redcourt for not delivering exactly what they wanted. Now that he’s turned his back on the series, might he have been kidnapped by a rabid fan and forced to write more novels, or even Murdered as an act of revenge?”

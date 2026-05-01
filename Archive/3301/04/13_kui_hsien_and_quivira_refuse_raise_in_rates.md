@@ -15,13 +15,13 @@ legacy_weight: 1
 significance: low
 ---
 
-[[Kui Hsien]] and Quivira Refuse Raise in Rates
+Kui Hsien and Quivira Refuse Raise in Rates
 
 
-Last week it was announced that Silver Universal PLC, [[The]] financial branch of [[The]] military corporate conglomerate led by Senator Patreus, would be raising interest rates on all outstanding loan agreements. 
+Last week it was announced that Silver Universal PLC, The financial branch of The military corporate conglomerate led by Senator Patreus, would be raising interest rates on all outstanding loan agreements. 
 
-Following the news, [[Several]] dozen [[Independent]] systems reached out to Silver Universal PLC to ask to refinance their previously agreed loans. Silver Universal PLC was gracious enough to work [[With]] [[Its]] debtors to come to new arrangements wherever possible. [[In some]] instances, new deals could not be made, but {Imperia} is confident that most of [[Its]] clients will continue to honour their agreements, regardless of any short term difficulties they may currently be facing. 
+Following the news, Several dozen Independent systems reached out to Silver Universal PLC to ask to refinance their previously agreed loans. Silver Universal PLC was gracious enough to work With Its debtors to come to new arrangements wherever possible. In some instances, new deals could not be made, but {Imperia} is confident that most of Its clients will continue to honour their agreements, regardless of any short term difficulties they may currently be facing. 
 
-Unfortunately, not all debtors were willing to face up to their responsibilities. In particular, [[Kui Hsien]] and Quivira have refused to acknowledge Silver Universal PLC’s legal right to increase its rates.  
+Unfortunately, not all debtors were willing to face up to their responsibilities. In particular, Kui Hsien and Quivira have refused to acknowledge Silver Universal PLC’s legal right to increase its rates.  
 
-In protest, both systems have stopped all payments to Silver Universal PLC. A particularly dangerous gambit given the Senator’s history when dealing [[With]] systems that refuse to pay their debts.
+In protest, both systems have stopped all payments to Silver Universal PLC. A particularly dangerous gambit given the Senator’s history when dealing With systems that refuse to pay their debts.

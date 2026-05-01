@@ -26,12 +26,12 @@ related_uuids:
 Restoring Order in Fousang
 
 
-[[Security forces in [[The]] Fousang]] system are reporting that criminal organisations in the area are executing more frequent and audacious raids on civilian traffic.  
+Security forces in The Fousang system are reporting that criminal organisations in the area are executing more frequent and audacious raids on civilian traffic.  
 
-Wing Commander [[Horatio Montange]] of Fousang security had [[This]] to say: 
+Wing Commander Horatio Montange of Fousang security had This to say: 
 
-“[[Our]] resources are stretched [[With the]] [[Thargoid]] threat, and a certain criminal element has taken advantage, increasing their presence in the system and attacking trade convoys. While our forces are continuing to maintain order, the need to defend the system from external threats has had an impact on our overall effectiveness. [[With]] the help of Blue Creative Company we hope to curb this sudden increase in crime, and continue to concentrate our resources on combating the alien insurrection.” 
+“Our resources are stretched With the Thargoid threat, and a certain criminal element has taken advantage, increasing their presence in the system and attacking trade convoys. While our forces are continuing to maintain order, the need to defend the system from external threats has had an impact on our overall effectiveness. With the help of Blue Creative Company we hope to curb this sudden increase in crime, and continue to concentrate our resources on combating the alien insurrection.” 
 
-To counter this threat, the Blue Creative Company has placed a kill order on all ships on [[Its]] wanted list, and has promised to reward pilots who deliver bounty vouchers to Akers Orbital. 
+To counter this threat, the Blue Creative Company has placed a kill order on all ships on Its wanted list, and has promised to reward pilots who deliver bounty vouchers to Akers Orbital. 
 
-The campaign begins on the 28th of June 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 28th of June 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

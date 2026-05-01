@@ -21,13 +21,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Vice President’s Investigation Data [[Found]]
+Vice President’s Investigation Data Found
 
 
-Vice President’s Investigation Data [[Found]] 
+Vice President’s Investigation Data Found 
  
-A spokesman for [[Vice President Nigel Smeaton]]’s family revealed today that a concealed data chit had been recently discovered among his personal belongings. [[The]] information stored on [[The]] device was encrypted but [[With the]] assistance of technicians at the [[Federal Times]] they were able to extract some of the information. 
+A spokesman for Vice President Nigel Smeaton’s family revealed today that a concealed data chit had been recently discovered among his personal belongings. The information stored on The device was encrypted but With the assistance of technicians at the Federal Times they were able to extract some of the information. 
 
-The spokesman stated that the data would not be made public at [[This]] time, but some of the information might enable the authorities to locate the wreckage of the Highliner Antares. The data has been handed over to the [[Sirius Corporation]] as well as investigating officers. 
+The spokesman stated that the data would not be made public at This time, but some of the information might enable the authorities to locate the wreckage of the Highliner Antares. The data has been handed over to the Sirius Corporation as well as investigating officers. 
 
 The family’s spokesman declined to answer any questions.

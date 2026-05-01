@@ -23,12 +23,12 @@ significance: low
 Oktoberfest Supply Campaign Successful
 
 
-Mould Federal Mining Incorporated has confirmed that [[Its]] appeal for commodities to supply an Oktoberfest celebration in [[The]] [[Bhagui]] system has been enthusiastically received by the galactic community.  
+Mould Federal Mining Incorporated has confirmed that Its appeal for commodities to supply an Oktoberfest celebration in The Bhagui system has been enthusiastically received by the galactic community.  
 
-[[Hundreds of]] pilots supported the campaign by delivering commodities to Leavitt Port, and by protecting traders in the Bhagui system. 
+Hundreds of pilots supported the campaign by delivering commodities to Leavitt Port, and by protecting traders in the Bhagui system. 
 
-A spokesperson for Mould Federal Mining Incorporated issued [[The following]] statement:  
+A spokesperson for Mould Federal Mining Incorporated issued The following statement:  
 
-“Thanks to so [[Many]] generous pilots, Bhagui Oktoberfest will now go ahead. Revellers will be able to put aside their differences, forget their troubles and celebrate life.” 
+“Thanks to so Many generous pilots, Bhagui Oktoberfest will now go ahead. Revellers will be able to put aside their differences, forget their troubles and celebrate life.” 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Leavitt Port in the Bhagui]] system.
+Pilots who contributed to the initiative can now collect their rewards from Leavitt Port in the Bhagui system.

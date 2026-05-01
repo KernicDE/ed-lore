@@ -25,14 +25,14 @@ significance: low
 Controversy at Film Festival
 
 
-[[The Leesti]] system played host to [[The]] second week of the [[Alliance]] Festival of Culture, where a new film production has caused minor controversy. 
+The Leesti system played host to The second week of the Alliance Festival of Culture, where a new film production has caused minor controversy. 
 
 The Alliance Tribune’s cultural correspondent Corinne Macintyre offered these details: 
 
-“A grand celebration of cinematic art took place at [[George Lucas station]], featuring a wide range of traditional and interactive media from [[Dozens of]] systems.” 
+“A grand celebration of cinematic art took place at George Lucas station, featuring a wide range of traditional and interactive media from Dozens of systems.” 
 
 “The talking point was undoubtedly ‘Unity’, a historical drama from award-winning director Hal Raskin. It portrays Alliance founders Mic Turner and Meredith Argent as rivals who faked their romance to rally political support.”  
 
-“More traditionalist audiences – and not a few critics – took issue [[With the]] suggestion that the couple’s love was fraudulent, while others applauded it as bold and challenging. But [[This]] lively debate did nothing to dampen spirits at the event, [[Which]] drew appreciative crowds.” 
+“More traditionalist audiences – and not a few critics – took issue With the suggestion that the couple’s love was fraudulent, while others applauded it as bold and challenging. But This lively debate did nothing to dampen spirits at the event, Which drew appreciative crowds.” 
 
-The Alliance Festival of Culture is scheduled to continue over the next [[Five]] weeks.
+The Alliance Festival of Culture is scheduled to continue over the next Five weeks.

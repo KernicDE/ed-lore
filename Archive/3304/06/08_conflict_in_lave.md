@@ -25,12 +25,12 @@ related_uuids:
 - 6b2df088-7279-50b2-bdbe-cd298c161509
 ---
 
-Conflict in [[Lave]]
+Conflict in Lave
 
 
-[[The Lave]] Radio Network, an [[Independent]] organisation based in [[The]] Lave system, has announced plans to broadcast [[Its]] annual conference, [[Which]] [[This]] year will take place in the [[Diso]] system from the 24th to the 25th of June. 
+The Lave Radio Network, an Independent organisation based in The Lave system, has announced plans to broadcast Its annual conference, Which This year will take place in the Diso system from the 24th to the 25th of June. 
 
-To ensure they can share the event [[With]] [[The entire]] galaxy, the Lave Radio Network has placed an open order for various commodities, and has promised to reward pilots who deliver these commodities to [[Lave Station in the Lave]] system. 
+To ensure they can share the event With The entire galaxy, the Lave Radio Network has placed an open order for various commodities, and has promised to reward pilots who deliver these commodities to Lave Station in the Lave system. 
 
 But not everyone is enthusiastic about the event. The Lave Jet Family has responded with a rival campaign expressly designed to undermine the Lave Radio initiative, and has invited pilots to deliver commodities to help construct a signal jammer. 
 

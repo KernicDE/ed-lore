@@ -12,11 +12,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Metal Madness Strikes in [[LAWD 26]]
+Metal Madness Strikes in LAWD 26
 
 
-[[The]] secret is out! There’s a metal rush happening in [[LAWD 26]], [[With]] thousands of entrepreneurs heading to [[The]] region in the hope of making their fortune before [[One]] of the big three mining corporations can establish a presence in the system. 
+The secret is out! There’s a metal rush happening in LAWD 26, With thousands of entrepreneurs heading to The region in the hope of making their fortune before One of the big three mining corporations can establish a presence in the system. 
 
-News first broke about the newly discovered pristine mining site early last week, when a large quantity of raw gold was [[Found]] aboard a Sidewinder that had been abandoned at Crook's Hub Starport in Toolfa. It turned out that the Sidewinder belonged to a Commander Hank Stone (deceased), a well known prospector who had struck it rich when he discovered the previously untapped source of metals. 
+News first broke about the newly discovered pristine mining site early last week, when a large quantity of raw gold was Found aboard a Sidewinder that had been abandoned at Crook's Hub Starport in Toolfa. It turned out that the Sidewinder belonged to a Commander Hank Stone (deceased), a well known prospector who had struck it rich when he discovered the previously untapped source of metals. 
 
 Doubtless it won’t be long before the corporations move in to strip mine the area, but until they do there are some serious credits to be made in LAWD 26 by anyone willing to work hard and get their hands dirty!

@@ -22,9 +22,9 @@ related_uuids:
 - f34b7bf5-b5e4-5225-99e1-c8455243bf42
 ---
 
-[[Aranbarahun]] Campaign Concludes
+Aranbarahun Campaign Concludes
 
 
-A spokesperson for Aranbarahun Purple Creative has announced that [[Its]] campaign to build a cargo ship has been enthusiastically received by [[The]] galactic community. Scores of pilots supported the campaign by delivering commodities to Barnes Terminal and by eliminating agitators in Aranbarahun, thereby ensuring the safety of traders. 
+A spokesperson for Aranbarahun Purple Creative has announced that Its campaign to build a cargo ship has been enthusiastically received by The galactic community. Scores of pilots supported the campaign by delivering commodities to Barnes Terminal and by eliminating agitators in Aranbarahun, thereby ensuring the safety of traders. 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Barnes Terminal in the Aranbarahun]] system.
+Pilots who contributed to the initiative can now collect their rewards from Barnes Terminal in the Aranbarahun system.

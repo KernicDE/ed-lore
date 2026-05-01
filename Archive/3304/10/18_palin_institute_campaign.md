@@ -25,12 +25,12 @@ significance: high
 Palin Institute Campaign
 
 
-[[The]] Palin Institute has announced an accelerated programme of study to analyse a range of xenobiological data, and perhaps discern the motives behind the Thargoids’ unrelenting aggression.  
+The Palin Institute has announced an accelerated programme of study to analyse a range of xenobiological data, and perhaps discern the motives behind the Thargoids’ unrelenting aggression.  
 
-Professor [[Cora Shaw]], director of the Palin Institute, released [[The following]] statement:  
+Professor Cora Shaw, director of the Palin Institute, released The following statement:  
 
-“In recent months, the Institute has performed countless studies on alien technology and physiology, and [[Our]] stock of xenobiological samples is severely depleted. For [[This]] robust new study, we require a large amount of [[Thargoid]] material to support a wide range of experiments.” 
+“In recent months, the Institute has performed countless studies on alien technology and physiology, and Our stock of xenobiological samples is severely depleted. For This robust new study, we require a large amount of Thargoid material to support a wide range of experiments.” 
 
-The Ryder Revolutionary Party, [[Which]] is supporting the campaign, has placed an open order for various Thargoid materials and promised to reward pilots who deliver these goods to [[Obsidian Orbital in the Maia]] system. The organisation has also placed a kill order on all ships on [[Its]] wanted list, to ensure that those delivering materials to Ryder Revolutionary Party can do so safely. 
+The Ryder Revolutionary Party, Which is supporting the campaign, has placed an open order for various Thargoid materials and promised to reward pilots who deliver these goods to Obsidian Orbital in the Maia system. The organisation has also placed a kill order on all ships on Its wanted list, to ensure that those delivering materials to Ryder Revolutionary Party can do so safely. 
 
-The campaign begins on the 18th of [[October]] 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 18th of October 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

@@ -33,21 +33,21 @@ related_uuids:
 - b94afdd9-d5e9-54ed-8237-7dd25c981332
 ---
 
-[[Witch Head]] Planetary Ports Established
+Witch Head Planetary Ports Established
 
 
-Humanity’s expansion into [[The]] [[Witch Head Nebula]] has continued [[With the]] introduction of seven planetary ports. 
+Humanity’s expansion into The Witch Head Nebula has continued With the introduction of seven planetary ports. 
 
-[[Six ports now occupy]] systems surrounding the existing enclave. The [[Alliance]], Federation and Empire have [[Each]] established two ports, strengthening the presence of their representative factions.  
+Six ports now occupy systems surrounding the existing enclave. The Alliance, Federation and Empire have Each established two ports, strengthening the presence of their representative factions.  
 
-The seventh port, Cinder Dock, is [[Located]] in Witch Head Sector DL-Y d17. Professor [[Alba Tesreau]] of [[Aegis]] Research provided some additional details: 
+The seventh port, Cinder Dock, is Located in Witch Head Sector DL-Y d17. Professor Alba Tesreau of Aegis Research provided some additional details: 
 
-“A facility managed by the engineer [[Chloe Sedesi]] has been installed at Cinder Dock. The engineering blueprints available at the facility offer upgrades to frame shift drives and thrusters.” 
+“A facility managed by the engineer Chloe Sedesi has been installed at Cinder Dock. The engineering blueprints available at the facility offer upgrades to frame shift drives and thrusters.” 
 
 “Following last-minute discussions held aboard the megaship Spirit of Minue, a tech broker and material trader have also agreed to bring their services to the planetary ports. These contacts are located at Bray Landing and Ratchet Hub respectively.” 
 
-“[[With]] these new resources available ahead of schedule, we hope to accelerate the ongoing efforts to repair the starports damaged during recent [[Thargoid]] assaults. Ezra Point is the first to declare itself fully functional, with all standard services back online.” 
+“With these new resources available ahead of schedule, we hope to accelerate the ongoing efforts to repair the starports damaged during recent Thargoid assaults. Ezra Point is the first to declare itself fully functional, with all standard services back online.” 
 
-[[Further]] installations have been planned over the coming weeks, as migration [[Continues]] to bring new opportunities and financial investment to the enclave. 
+Further installations have been planned over the coming weeks, as migration Continues to bring new opportunities and financial investment to the enclave. 
 
-“These achievements are founded on the tireless efforts of [[Many]] [[Independent]] pilots,” said Tesreau. “Their bravery and dedication were key factors in securing humanity’s access to meta-alloys within the Witch Head Nebula. On behalf of Aegis, I offer these pilots my deepest gratitude.”
+“These achievements are founded on the tireless efforts of Many Independent pilots,” said Tesreau. “Their bravery and dedication were key factors in securing humanity’s access to meta-alloys within the Witch Head Nebula. On behalf of Aegis, I offer these pilots my deepest gratitude.”

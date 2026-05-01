@@ -21,13 +21,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-Technical Issues in [[Warkushanui]] Intensify
+Technical Issues in Warkushanui Intensify
 
 
-[[Recent reports from [[The]] Warkushanui]] system suggest that the technical issues affecting the region are worsening. [[According to]] the [[Federal Times]], [[Which]] spoke [[With]] station personnel at [[Gurragchaa Gateway]], starports throughout the system are experiencing a range of inexplicable mechanical problems. A technician at Gurragchaa [[Gateway]] said: 
+Recent reports from The Warkushanui system suggest that the technical issues affecting the region are worsening. According to the Federal Times, Which spoke With station personnel at Gurragchaa Gateway, starports throughout the system are experiencing a range of inexplicable mechanical problems. A technician at Gurragchaa Gateway said: 
 
 "We've got malfunctions and breakdowns cropping up all over the starport, so we're in fire-fighting mode at the moment, but no obvious cause has presented itself yet." 
 
-[[As the]] technical problems in Warkushanui intensify, some commentators have drawn attention to the fact that [[The number of]] anomalous extraterrestrial objects (or AEOs) discovered in the system has recently increased. The Federal Times asked staff at Gurragchaa Gateway if there could be a connection between the mysterious objects and the breakdowns, but was told only that "all available lines of enquiry were being explored". 
+As the technical problems in Warkushanui intensify, some commentators have drawn attention to the fact that The number of anomalous extraterrestrial objects (or AEOs) discovered in the system has recently increased. The Federal Times asked staff at Gurragchaa Gateway if there could be a connection between the mysterious objects and the breakdowns, but was told only that "all available lines of enquiry were being explored". 
 
 If these problems persist, it seems likely that station services in Warkushanui will soon be affected.

@@ -22,12 +22,12 @@ Two Dead in Tragic Accident
 
 Two Dead in Tragic Accident 
  
-Two people died [[In a]] crash when a personal transport collided [[With]] a Lakon Type-9 Heavy transport [[Vessel]]. [[The small]] ship, a type used to [[Run]] between orbital facilities, was destroyed in [[The]] impact. [[The small]] [[Vessel]] was ferrying two transport safety officials to [[The]] Laphria Shipyard in the [[Artemis]] system. They were on a knowledge sharing mission. 
+Two people died In a crash when a personal transport collided With a Lakon Type-9 Heavy transport Vessel. The small ship, a type used to Run between orbital facilities, was destroyed in The impact. The small Vessel was ferrying two transport safety officials to The Laphria Shipyard in the Artemis system. They were on a knowledge sharing mission. 
 
-The Transport Safety Authority issued [[The following]] statement from their headquarters on [[Mars]]: 
+The Transport Safety Authority issued The following statement from their headquarters on Mars: 
 
-“[[This]] type of accident is always a terrible tragedy for those involved and the Laphrian authorities have promised full disclosure and co-operation [[With]] [[Our]] investigation.” 
+“This type of accident is always a terrible tragedy for those involved and the Laphrian authorities have promised full disclosure and co-operation With Our investigation.” 
 
 They also reported that the pilot of the Type-9 was being treated for shock. She saw the transport break open only metres from her large window as she approached the station. 
 
-Elaine Boyd from the [[Federal Times]] asked for the identities of the dead and was told that they wouldn’t be disclosed until the next of kin had been identified. She pressed [[Further]] asking if [[One]] of the dead men was Arnold Lowe, a senior investigator in the Starship [[One]] disappearance. She was told ‘no comment’ and no [[Further]] questions were taken.
+Elaine Boyd from the Federal Times asked for the identities of the dead and was told that they wouldn’t be disclosed until the next of kin had been identified. She pressed Further asking if One of the dead men was Arnold Lowe, a senior investigator in the Starship One disappearance. She was told ‘no comment’ and no Further questions were taken.

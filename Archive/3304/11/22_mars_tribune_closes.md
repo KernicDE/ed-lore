@@ -33,17 +33,17 @@ related_uuids:
 - 974273ae-d811-56a4-91c7-d562bba2149a
 ---
 
-[[Mars]] Tribune Closes
+Mars Tribune Closes
 
 
-[[The]] Mars Tribune has been closed and [[Its]] owner arrested in the wake of the spy robot scandal. 
+The Mars Tribune has been closed and Its owner arrested in the wake of the spy robot scandal. 
 
-The announcement was made by Detective Captain Ramesh Thorne, who was recently reinstated to, and promoted by, the [[Federal Security Service]]: 
+The announcement was made by Detective Captain Ramesh Thorne, who was recently reinstated to, and promoted by, the Federal Security Service: 
 
-“Kingsley Cordova, editor Lana Sigrid and [[Other]] employees of The Mars Tribune have been arrested for blackmail and corruption. The newsfeed has been permanently dissolved, and the Cordova Group conglomerate subjected to a government audit.” 
+“Kingsley Cordova, editor Lana Sigrid and Other employees of The Mars Tribune have been arrested for blackmail and corruption. The newsfeed has been permanently dissolved, and the Cordova Group conglomerate subjected to a government audit.” 
 
 “I would like to thank the anonymous whistle-blower who exposed Cordova’s scheme. She has now removed the surveillance program from all Achilles Corporation PA912 robots in exchange for immunity from prosecution.” 
 
-Chief Editor Lena Ravenhill wrote in The [[Federal Times]]: 
+Chief Editor Lena Ravenhill wrote in The Federal Times: 
 
-“The Mars Tribune abandoned its professional ethics in its hunt for salacious headlines, thereby undermining the role of honest journalism in [[Our]] society. We are relieved to see justice done.”
+“The Mars Tribune abandoned its professional ethics in its hunt for salacious headlines, thereby undermining the role of honest journalism in Our society. We are relieved to see justice done.”

@@ -22,17 +22,17 @@ legacy_weight: 5
 significance: high
 ---
 
-[[Aegis]] Responds to Concern over [[Thargoid]] Incursions
+Aegis Responds to Concern over Thargoid Incursions
 
 
-There has been widespread disquiet over recent reports that Thargoid ships have been encountered [[In [[The]] core]] systems. 
+There has been widespread disquiet over recent reports that Thargoid ships have been encountered In The core systems. 
 
 The level of anxiety is exemplified by political spokesperson Councillor Rasmus Tseng, who said: 
 
-“For months now, communities in the core systems have been living [[In a]] state of fear, wondering [[Which]] will be the next to be targeted. The Thargoids have been striking at starports in the region [[One]] by one, and nobody is able to stop them! Why are the powers doing so little? Where are [[Our]] defences, our fleets? [[Surely the core]] systems cannot be so vulnerable?” 
+“For months now, communities in the core systems have been living In a state of fear, wondering Which will be the next to be targeted. The Thargoids have been striking at starports in the region One by one, and nobody is able to stop them! Why are the powers doing so little? Where are Our defences, our fleets? Surely the core systems cannot be so vulnerable?” 
 
 Admiral Aden Tanner, chief military liaison for Aegis, directly addressed these concerns: 
 
-“Reports that the Thargoids are encroaching upon the core systems en masse are grossly overstated. Although they have crossed the threshold, all we have seen so [[Far]] are localised incidents in fringe systems. [[This]] is not a full-scale invasion, and it does not warrant large fleet movements of the kind that have been suggested.” 
+“Reports that the Thargoids are encroaching upon the core systems en masse are grossly overstated. Although they have crossed the threshold, all we have seen so Far are localised incidents in fringe systems. This is not a full-scale invasion, and it does not warrant large fleet movements of the kind that have been suggested.” 
 
-“Rest assured: the enemy is contained. There is no need for panic. Courageous [[Independent]] pilots, armed [[With]] Aegis technology, are doing a superb job at halting the Thargoids’ progress. It’s to be expected that we suffer occasional losses in this conflict, but these do not indicate an impending catastrophe.”
+“Rest assured: the enemy is contained. There is no need for panic. Courageous Independent pilots, armed With Aegis technology, are doing a superb job at halting the Thargoids’ progress. It’s to be expected that we suffer occasional losses in this conflict, but these do not indicate an impending catastrophe.”

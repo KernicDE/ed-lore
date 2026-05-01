@@ -17,13 +17,13 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Prism]] Senator in Illegal Parking Row
+Prism Senator in Illegal Parking Row
 
 
-Returning to [[Earth]] at [[The]] invitation of [[The]] Secretary General, Senator [[Kahina Tijani Loren]]’s Imperial Courier was tagged [[With]] a fine at [[Mars]] High apparently due to activating [[Its]] boosters while still within the station. 
+Returning to Earth at The invitation of The Secretary General, Senator Kahina Tijani Loren’s Imperial Courier was tagged With a fine at Mars High apparently due to activating Its boosters while still within the station. 
 
-Reports indicate [[This]] caused a deafening roar within the docking area and even cracked the windows of the docking administration office. 
+Reports indicate This caused a deafening roar within the docking area and even cracked the windows of the docking administration office. 
 
-Sources close to [[Mars]] High administration were quoted as saying “We are showing restraint! She’s lucky we didn’t obliterate her ship immediately like most parking offenders. What else does she want?” 
+Sources close to Mars High administration were quoted as saying “We are showing restraint! She’s lucky we didn’t obliterate her ship immediately like most parking offenders. What else does she want?” 
 
-Deano Blake, a trader whose Adder has been impounded by Mars officials for [[Several]] weeks due to an inadequately sealed drive plate, told [[Our]] reporters, “Never really thought much of Imperials before [[This]], but I’ve got hand it to this Kahina gal, she’s got style!”
+Deano Blake, a trader whose Adder has been impounded by Mars officials for Several weeks due to an inadequately sealed drive plate, told Our reporters, “Never really thought much of Imperials before This, but I’ve got hand it to this Kahina gal, she’s got style!”

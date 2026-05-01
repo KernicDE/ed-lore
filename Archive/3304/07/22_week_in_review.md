@@ -59,18 +59,18 @@ related_uuids:
 Week in Review
 
 
-Here are [[This]] week’s major stories. 
+Here are This week’s major stories. 
 
-Mara Klatt of [[Alliance]] Interpol has announced that Admiral George Varma, who was arrested last week on suspicion of working [[With]] terrorist organisation [[The]] League of Reparation, was in fact framed by Rear Admiral Riri McAllister. It is now believed that McAllister is Nexus, the League’s central coordinator. 
+Mara Klatt of Alliance Interpol has announced that Admiral George Varma, who was arrested last week on suspicion of working With terrorist organisation The League of Reparation, was in fact framed by Rear Admiral Riri McAllister. It is now believed that McAllister is Nexus, the League’s central coordinator. 
 
-Following this development, information decrypted by a tri-superpower taskforce has revealed the location of [[League strongholds in two]] systems – [[One]] in Imperial and one in Federal space. A two-pronged operation to destroy these enclaves is now underway. 
+Following this development, information decrypted by a tri-superpower taskforce has revealed the location of League strongholds in two systems – One in Imperial and one in Federal space. A two-pronged operation to destroy these enclaves is now underway. 
 
-Princess [[Aisling Duval]] has discussed her forthcoming marriage in an interview with Solomon Helios. The princess insisted that any negativity surrounding the wedding was based on prejudice and fear, saying, “Shouldn’t we all be free to love whomever we wish?” 
+Princess Aisling Duval has discussed her forthcoming marriage in an interview with Solomon Helios. The princess insisted that any negativity surrounding the wedding was based on prejudice and fear, saying, “Shouldn’t we all be free to love whomever we wish?” 
 
-Meanwhile, there has been a spate of violence against the [[Thargoid]]-worshipping [[Far]] God cult, resulting in [[Dozens of]] deaths and [[Hundreds of]] injuries. The Far God cultists have offered no resistance to the aggression. Local security forces have been slow to respond to the incidents, and few arrests have been made. 
+Meanwhile, there has been a spate of violence against the Thargoid-worshipping Far God cult, resulting in Dozens of deaths and Hundreds of injuries. The Far God cultists have offered no resistance to the aggression. Local security forces have been slow to respond to the incidents, and few arrests have been made. 
 
-In [[Other]] news, a thermonuclear weapon, launched over a thousand years ago during [[Earth]]’s Third World War, has been discovered. The intercontinental ballistic missile was [[Found]] beneath the Pacific Ocean, during construction of new undersea habitation off the coast of California. The missile’s uranium core has been disarmed and the risk to local populations nullified. 
+In Other news, a thermonuclear weapon, launched over a thousand years ago during Earth’s Third World War, has been discovered. The intercontinental ballistic missile was Found beneath the Pacific Ocean, during construction of new undersea habitation off the coast of California. The missile’s uranium core has been disarmed and the risk to local populations nullified. 
 
-Finally, a spokesperson for the Cobra Wing has announced that [[Its]] campaign to build a research outpost in the Ebor system has been enthusiastically received by the galactic community. Scores of pilots supported the campaign by delivering commodities to Morris [[Enterprise]] and eliminating agitators in Ebor, thereby ensuring the safety of traders. 
+Finally, a spokesperson for the Cobra Wing has announced that Its campaign to build a research outpost in the Ebor system has been enthusiastically received by the galactic community. Scores of pilots supported the campaign by delivering commodities to Morris Enterprise and eliminating agitators in Ebor, thereby ensuring the safety of traders. 
 
 And those are the main stories this week.

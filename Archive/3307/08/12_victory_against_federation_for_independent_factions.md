@@ -24,11 +24,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-*[[Pilots Federation]] ALERT*
-New Kuwembaa Labour has successfully seceded from [[The]] Federation and inspired [[Other]] systems to declare [[Independence]].
-[[The conflict in the Kuwembaa]] system ended [[With]] Federal loyalists Li Chotep for Equality being defeated. As a result, all systems controlled by New Kuwembaa Labour will remain [[Independent]].
-[[This]] has inspired Selkana Labour, United HIP 108095 Values Party and Mutumu Future to also sever ties [[With the]] Federation, spreading the rebellion across a [[Further]] 28 systems.
-The victory was announced by Governor [[Sonal Mishra]], the leader of New Kuwembaa Labour:
-“We owe a huge debt to all pilots who helped us secure [[Our]] freedom. It is regrettable that we were forced to secede, but this should be a warning to President [[Hudson that he]] is taking the Federation down a dangerous path.”
-[[The rebelling]] systems have now shut down links with the Proactive Detection Bureau, [[Which]] monitors all private and public communications. More Federal factions are now debating secession [[As the]] only way to guarantee their citizens’ privacy rights.
+*Pilots Federation ALERT*
+New Kuwembaa Labour has successfully seceded from The Federation and inspired Other systems to declare Independence.
+The conflict in the Kuwembaa system ended With Federal loyalists Li Chotep for Equality being defeated. As a result, all systems controlled by New Kuwembaa Labour will remain Independent.
+This has inspired Selkana Labour, United HIP 108095 Values Party and Mutumu Future to also sever ties With the Federation, spreading the rebellion across a Further 28 systems.
+The victory was announced by Governor Sonal Mishra, the leader of New Kuwembaa Labour:
+“We owe a huge debt to all pilots who helped us secure Our freedom. It is regrettable that we were forced to secede, but this should be a warning to President Hudson that he is taking the Federation down a dangerous path.”
+The rebelling systems have now shut down links with the Proactive Detection Bureau, Which monitors all private and public communications. More Federal factions are now debating secession As the only way to guarantee their citizens’ privacy rights.
 Pilots who fought for New Kuwembaa Labour can now claim their rewards from Gagnan Port station. Li Chotep for Equality will reimburse Federal auxiliaries at the Fortress Liberty megaship.

@@ -17,15 +17,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Community Goal: [[Utopia]] Research Appeal
+Community Goal: Utopia Research Appeal
 
 
-[[The]] Utopia Commune has issued a request for various commodities to be used [[In a]] forthcoming research and development programme. 
+The Utopia Commune has issued a request for various commodities to be used In a forthcoming research and development programme. 
 
-The enclave has placed an open order for zirconium, conductive ceramics and strange wake solutions, and has promised to reward pilots who deliver these commodities to [[Cenker City in the Gucumadhyas]] system. 
+The enclave has placed an open order for zirconium, conductive ceramics and strange wake solutions, and has promised to reward pilots who deliver these commodities to Cenker City in the Gucumadhyas system. 
 
 Simguru Pranav Antal, leader of the Utopian movement, released a statement outlining the nature of the initiative. 
 
-"We are well aware that [[Independent]] pilots accumulate large quantities of material over the course of their travels. Fortunately, Utopia is willing to pay above-market prices for these materials, [[Which]] will play a central role in [[Our]] forthcoming programme." 
+"We are well aware that Independent pilots accumulate large quantities of material over the course of their travels. Fortunately, Utopia is willing to pay above-market prices for these materials, Which will play a central role in Our forthcoming programme." 
 
-The campaign begins on the 13th of April 3303 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 13th of April 3303 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

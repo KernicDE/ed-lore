@@ -22,14 +22,14 @@ significance: medium
 Galactic News: Chapterhouse Campaign Concludes
 
 
-A spokesperson for [[The]] [[Kamadhenu]] Chapterhouse of Inquisition has announced that [[Its]] plan to establish a series of starports between Colonia and the core systems has received the wholehearted support of the galactic community. 
+A spokesperson for The Kamadhenu Chapterhouse of Inquisition has announced that Its plan to establish a series of starports between Colonia and the core systems has received the wholehearted support of the galactic community. 
 
-[[Hundreds of]] pilots took to their ships to deliver construction materials to Shajn Market over the course of the three-week campaign, allowing the Chapterhouse to achieve its ambitious goals. 
+Hundreds of pilots took to their ships to deliver construction materials to Shajn Market over the course of the three-week campaign, allowing the Chapterhouse to achieve its ambitious goals. 
 
-[[As the]] campaign drew to a close, a spokesperson for the Chapterhouse released a statement: 
+As the campaign drew to a close, a spokesperson for the Chapterhouse released a statement: 
 
-“Thanks to the hard work of the galaxy’s [[Independent]] pilots, construction of the first starport is almost complete, work on the second is well underway and construction of the third will begin soon.” 
+“Thanks to the hard work of the galaxy’s Independent pilots, construction of the first starport is almost complete, work on the second is well underway and construction of the third will begin soon.” 
 
-“We are immeasurably grateful to those who supported [[This]] initiative, and we look forward to a future of increased travel and trade between Colonia and the core.” 
+“We are immeasurably grateful to those who supported This initiative, and we look forward to a future of increased travel and trade between Colonia and the core.” 
 
-Pilots who contributed to the campaign can now collect their rewards from [[Shajn Market in the Kamadhenu]] system.
+Pilots who contributed to the campaign can now collect their rewards from Shajn Market in the Kamadhenu system.

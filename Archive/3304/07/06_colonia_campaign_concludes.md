@@ -27,10 +27,10 @@ related_uuids:
 Colonia Campaign Concludes
 
 
-[[The]] campaign to supply a scientific project in Colonia has now concluded and construction of a resource management centre has begun. [[Hundreds of]] [[Independent]] pilots made the journey to deliver commodities to [[Tir]] Technology Services in the Tir system. 
+The campaign to supply a scientific project in Colonia has now concluded and construction of a resource management centre has begun. Hundreds of Independent pilots made the journey to deliver commodities to Tir Technology Services in the Tir system. 
 
-Professor [[Alexei de la Vega]], in charge of the research project, made [[This]] statement: 
+Professor Alexei de la Vega, in charge of the research project, made This statement: 
 
-“[[With the]] construction of a research centre we will be able to monitor population spikes and manage resource allocation throughout the region.” 
+“With the construction of a research centre we will be able to monitor population spikes and manage resource allocation throughout the region.” 
 
-Pilots who contributed to the project can now collect their rewards from Bolden’s [[Enterprise in the Tir]] system.
+Pilots who contributed to the project can now collect their rewards from Bolden’s Enterprise in the Tir system.

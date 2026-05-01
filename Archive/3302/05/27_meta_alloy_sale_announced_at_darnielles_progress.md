@@ -18,13 +18,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Meta-Alloy Sale Announced at [[Darnielle's Progress]]
+Meta-Alloy Sale Announced at Darnielle's Progress
 
 
-Business leaders [[Darnielle's Progress in [[The]] Maia]] system have announced a sale of meta-alloys. Their spokesman, Larry Oldman, had [[This]] to say. 
+Business leaders Darnielle's Progress in The Maia system have announced a sale of meta-alloys. Their spokesman, Larry Oldman, had This to say. 
 
 "We have a stockpile of meta-alloys, and in the current climate it would be foolish for us to ignore the income potential for them." 
 
-Researchers, including [[Professor Palin]], who operates from the same system, have declared the move as unwise. 
+Researchers, including Professor Palin, who operates from the same system, have declared the move as unwise. 
 
 "We don't know the full potential of these materials, and selling them to just anybody could be a recipe for disaster."

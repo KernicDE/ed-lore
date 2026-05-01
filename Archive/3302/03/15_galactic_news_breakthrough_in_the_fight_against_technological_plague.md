@@ -25,11 +25,11 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Breakthrough in [[The]] Fight against Technological Plague
+Galactic News: Breakthrough in The Fight against Technological Plague
 
 
-When [[Professor Ishmael Palin]] and his team disappeared en route to [[Maia]] b1ba, research into meta-alloys was brought to a near standstill, [[With]] only the [[Canonn Interstellar Research Group]] continuing to investigate the mysterious material. But recent reports indicate that research has continued in Professor [[Palin's absence under]] the helm of [[Lea Tantaga]], a molecular chemist based at [[Obsidian Orbital]]. 
+When Professor Ishmael Palin and his team disappeared en route to Maia b1ba, research into meta-alloys was brought to a near standstill, With only the Canonn Interstellar Research Group continuing to investigate the mysterious material. But recent reports indicate that research has continued in Professor Palin's absence under the helm of Lea Tantaga, a molecular chemist based at Obsidian Orbital. 
 
-"We've known for a while that the ongoing technical issues are the result of molecular interference from the Unknown Artefacts," said [[Tantaga]]. "What we now know is that meta-alloys can be used to neutralise [[This]] interference. In their raw form, the meta-alloys aren't all that effective. And the process of using them to create materials that can counter the artefacts' dangerous self-repair mechanism hasn't yet been perfected. But we're definitely on the right path." 
+"We've known for a while that the ongoing technical issues are the result of molecular interference from the Unknown Artefacts," said Tantaga. "What we now know is that meta-alloys can be used to neutralise This interference. In their raw form, the meta-alloys aren't all that effective. And the process of using them to create materials that can counter the artefacts' dangerous self-repair mechanism hasn't yet been perfected. But we're definitely on the right path." 
 
-In response to this development, authorities at starports affected by the technological plague have opened their markets to the sale of meta-alloys, no doubt hoping to receive [[Further]] quantities of the much-needed material and return their outposts to normality. [[But the]] harvesting of meta-alloys [[Continues]] to prove controversial, with some opining that the so-called 'barnacles' from [[Which]] the materials are derived – and which are destroyed in the harvesting process – should be protected.
+In response to this development, authorities at starports affected by the technological plague have opened their markets to the sale of meta-alloys, no doubt hoping to receive Further quantities of the much-needed material and return their outposts to normality. But the harvesting of meta-alloys Continues to prove controversial, with some opining that the so-called 'barnacles' from Which the materials are derived – and which are destroyed in the harvesting process – should be protected.

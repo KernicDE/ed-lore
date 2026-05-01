@@ -23,17 +23,17 @@ related_uuids:
 - 022febc0-0bac-50a9-ab0b-92002fcb91eb
 ---
 
-A Warning from [[The]] Imperator
+A Warning from The Imperator
 
 
-The isolationist group [[Nova Imperium]] has broadcast a message to Imperial citizens via public media. 
+The isolationist group Nova Imperium has broadcast a message to Imperial citizens via public media. 
 
-The organisation’s leader, known only [[As the]] Imperator, said: 
+The organisation’s leader, known only As the Imperator, said: 
 
-“Imperial citizens, your ruler’s weakness has put you in great danger. If we are to survive the [[Thargoid]] onslaught, we must sever ties [[With the]] Federation and [[Other]], inferior powers, and concentrate on protecting [[Our]] own systems.” 
+“Imperial citizens, your ruler’s weakness has put you in great danger. If we are to survive the Thargoid onslaught, we must sever ties With the Federation and Other, inferior powers, and concentrate on protecting Our own systems.” 
 
 “I call upon those who care about their Imperial birthright to support Nova Imperium. We vow to restore the Empire’s purity and strength, and to lead it into a glorious future.” 
 
-Senator [[Denton Patreus responded]] [[With]] [[The following]] comment: 
+Senator Denton Patreus responded With The following comment: 
 
-“These extremists and their seditious agenda are not worthy of attention. So [[Far]] we have been lenient with them, but [[This]] so-called Imperator would be wise not to test our patience any [[Further]].”
+“These extremists and their seditious agenda are not worthy of attention. So Far we have been lenient with them, but This so-called Imperator would be wise not to test our patience any Further.”

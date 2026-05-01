@@ -25,17 +25,17 @@ related_uuids:
 - 022febc0-0bac-50a9-ab0b-92002fcb91eb
 ---
 
-Report on [[Nova Imperium]] Leaked
+Report on Nova Imperium Leaked
 
 
-A report compiled by [[The]] [[Imperial Internal Security Service]] on isolationist group Nova Imperium has been leaked.  
+A report compiled by The Imperial Internal Security Service on isolationist group Nova Imperium has been leaked.  
 
 The Rewired news service broadcast the report in full: 
 
-“[[This]] document compiles [[Our]] latest intelligence on Nova Imperium, as requested. Although the group has not yet committed any crimes, [[Its]] threat potential should not be underestimated. Its isolationist message resonates [[With]] those fearful of [[Thargoid]] invasion, and its rallying cry of ‘Empire for the Imperials’ aligns [[With the]] more conservative citizenry.” 
+“This document compiles Our latest intelligence on Nova Imperium, as requested. Although the group has not yet committed any crimes, Its threat potential should not be underestimated. Its isolationist message resonates With those fearful of Thargoid invasion, and its rallying cry of ‘Empire for the Imperials’ aligns With the more conservative citizenry.” 
 
 “We have identified the group’s leader, the Imperator, as Duke Kaeso Mordanticus, a former naval admiral from a long line of decorated veterans.” 
 
-“Evidence suggests that Mordanticus still has contacts and influence in the [[Imperial Navy]]. Nova Imperium’s ships are mostly [[Run]] by ex-naval crews, bound by loyalty to their former commanding officer.” 
+“Evidence suggests that Mordanticus still has contacts and influence in the Imperial Navy. Nova Imperium’s ships are mostly Run by ex-naval crews, bound by loyalty to their former commanding officer.” 
 
 “We will continue to monitor Nova Imperium and report on any developments.”

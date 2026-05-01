@@ -26,12 +26,12 @@ related_uuids:
 Cartel Leader Killed
 
 
-Jan Sandoval, co-founder of [[The]] Red Family cartel, has died while in the custody of the Federal Intelligence Agency. 
+Jan Sandoval, co-founder of The Red Family cartel, has died while in the custody of the Federal Intelligence Agency. 
 
-Executive Agent [[Viola [[Trask]] made]] [[The following]] statement: 
+Executive Agent Viola Trask made The following statement: 
 
-"I regret to announce that Jan Sandoval has been [[Found]] dead in the safe house where she was being held. An autopsy revealed traces of a highly sophisticated neurotoxin that [[Our]] security measures were unable to detect." 
+"I regret to announce that Jan Sandoval has been Found dead in the safe house where she was being held. An autopsy revealed traces of a highly sophisticated neurotoxin that Our security measures were unable to detect." 
 
-"We have yet to determine how the neurotoxin was administered, or how the individual responsible accessed the safe house. Internal investigations are underway, but we suspect that the assassin has already fled the [[Sol]] system." 
+"We have yet to determine how the neurotoxin was administered, or how the individual responsible accessed the safe house. Internal investigations are underway, but we suspect that the assassin has already fled the Sol system." 
 
-It is believed that surviving elements of the Red Family arranged [[This]] second, successful attempt on Sandoval's life in response to her cooperation [[With the]] Federal Intelligence Agency. The FIA's operation against the cartel will continue, [[But the]] loss of [[Its]] primary intelligence source has to be considered a significant setback.
+It is believed that surviving elements of the Red Family arranged This second, successful attempt on Sandoval's life in response to her cooperation With the Federal Intelligence Agency. The FIA's operation against the cartel will continue, But the loss of Its primary intelligence source has to be considered a significant setback.

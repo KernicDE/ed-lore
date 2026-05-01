@@ -30,17 +30,17 @@ related_uuids:
 - 079b4589-32a5-5f8b-aa63-4f0f5f719a87
 ---
 
-Terror Attacks Used [[Thargoid]]-Derived Explosives
+Terror Attacks Used Thargoid-Derived Explosives
 
 
-[[The]] [[Imperial Internal Security Service]] has transmitted another urgent bulletin regarding terrorist attacks on starports in the Empire. 
+The Imperial Internal Security Service has transmitted another urgent bulletin regarding terrorist attacks on starports in the Empire. 
 
-“There have been indications that the four starports came under attack by Thargoids. We can confirm that [[This]] is not the case, and there is no evidence of Thargoid vessels in the vicinity.” 
+“There have been indications that the four starports came under attack by Thargoids. We can confirm that This is not the case, and there is no evidence of Thargoid vessels in the vicinity.” 
 
-“Observers reported that some of the damage inflicted on the stations’ infrastructure closely resembled the effect of Thargoid weaponry. [[This was registered by internal sensor]] systems, resulting in automatic emergency broadcasts designed to summon aid during a Thargoid incursion.” 
+“Observers reported that some of the damage inflicted on the stations’ infrastructure closely resembled the effect of Thargoid weaponry. This was registered by internal sensor systems, resulting in automatic emergency broadcasts designed to summon aid during a Thargoid incursion.” 
 
 “Preliminary investigations suggest the use of customised explosive devices that incorporated elements of Thargoid technology. This suggests that the perpetrators have access to unusually sophisticated resources as well as xenological materials.” 
 
-“As yet there is no reason to doubt that the [[Neo-[[Marlinist]] Liberation Army]] (NMLA) is responsible for these attacks. We have received reports of jubilant scenes from some Imperial fringe systems, in territories where Marlinism remains popular.” 
+“As yet there is no reason to doubt that the Neo-Marlinist Liberation Army (NMLA) is responsible for these attacks. We have received reports of jubilant scenes from some Imperial fringe systems, in territories where Marlinism remains popular.” 
 
-Help [[With]] rescue operations is still being requested from the four Imperial starports: [[Mackenzie Relay in the Cemiess]] system, [[Tsiolkovsky Terminal in the Gabjaujis]] system, [[Garrido Market in the LHS 4031]] system, and [[Muller Terminal in the Rabh]] system.
+Help With rescue operations is still being requested from the four Imperial starports: Mackenzie Relay in the Cemiess system, Tsiolkovsky Terminal in the Gabjaujis system, Garrido Market in the LHS 4031 system, and Muller Terminal in the Rabh system.

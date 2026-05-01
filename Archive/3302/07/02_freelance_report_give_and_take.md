@@ -25,14 +25,14 @@ significance: high
 Freelance Report: Give and Take
 
 
-Today marked Kumo Tribute Day, [[Which]] sees representatives from systems under [[The]] control of Archon Delaine curry favour [[With the]] Pirate Lord by presenting him [[With]] lavish gifts. 
+Today marked Kumo Tribute Day, Which sees representatives from systems under The control of Archon Delaine curry favour With the Pirate Lord by presenting him With lavish gifts. 
 
-Highlights included the presentation of [[Several]] Imperial aristocrats, an assortment of rare narcotics and even a live barnacle. [[One]] system gifted a gold-plated Federal Corvette equipped with experimental weapons, much to the Pirate Lord's approval. 
+Highlights included the presentation of Several Imperial aristocrats, an assortment of rare narcotics and even a live barnacle. One system gifted a gold-plated Federal Corvette equipped with experimental weapons, much to the Pirate Lord's approval. 
 
-[[But several]] systems were unable to present anything of value, having fallen on difficult times. One unlucky official named Ferdinand Haim, representing the [[Lusonda]] system, arrived empty handed, pledging his system's undying loyalty as tribute. As silence descended, the Pirate Lord thanked Haim for his gift before ordering him to prove his loyalty by taking his own life. 
+But several systems were unable to present anything of value, having fallen on difficult times. One unlucky official named Ferdinand Haim, representing the Lusonda system, arrived empty handed, pledging his system's undying loyalty as tribute. As silence descended, the Pirate Lord thanked Haim for his gift before ordering him to prove his loyalty by taking his own life. 
 
 As Haim's dead body was removed, one pirate joked: "There's always one who plays the loyalty card. Who do they think we are – the Empire?" 
 
-Commander [[Gan]] 
+Commander Gan 
 
-The Privateer | [[Interstellar Press]]
+The Privateer | Interstellar Press

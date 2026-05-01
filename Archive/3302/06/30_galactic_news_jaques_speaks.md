@@ -21,13 +21,13 @@ significance: high
 Galactic News: Jaques Speaks
 
 
-Following news that [[Jaques Station]] has been [[Found]] in [[The]] [[Eol Prou RS-T d3-94]] system, Jaques has broadcast a message to the media, having apparently restored communications at his starport: 
+Following news that Jaques Station has been Found in The Eol Prou RS-T d3-94 system, Jaques has broadcast a message to the media, having apparently restored communications at his starport: 
 
 "First, I'd like to thank all the pilots who came looking for me." 
 
-"As for what happened, well...I guess it was a little ambitious to try to jump all the way to [[Beagle Point]]. As soon as I entered witch-space, it was clear something was up [[With the]] drive engines. [[And the navigation]] system. And the power distributor." 
+"As for what happened, well...I guess it was a little ambitious to try to jump all the way to Beagle Point. As soon as I entered witch-space, it was clear something was up With the drive engines. And the navigation system. And the power distributor." 
 
-"Pretty soon I realised I had a choice – push on to Beagle Point and arrive as a cloud of shrapnel, or drop into the nearest safe system. I made the only choice I could – to push on. Then I came to my senses and decided to drop into [[Eol Prou]] RS-T d3-94." 
+"Pretty soon I realised I had a choice – push on to Beagle Point and arrive as a cloud of shrapnel, or drop into the nearest safe system. I made the only choice I could – to push on. Then I came to my senses and decided to drop into Eol Prou RS-T d3-94." 
 
 Jaques was asked if he would be making another attempt to reach Beagle Point. 
 

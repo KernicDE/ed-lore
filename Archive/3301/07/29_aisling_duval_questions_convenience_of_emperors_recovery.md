@@ -16,16 +16,16 @@ legacy_weight: 1
 significance: low
 ---
 
-[[Aisling Duval]] Questions Convenience of Emperor’s Recovery
+Aisling Duval Questions Convenience of Emperor’s Recovery
 
 
-[[Aisling Duval]] Questions Convenience of Emperor’s Recovery 
+Aisling Duval Questions Convenience of Emperor’s Recovery 
  
-[[In a]] secretly recorded and unguarded discussion [[With]] [[One]] of her aides, Princess Aisling Duval is allegedly seen to question [[The]] motives of Senator [[Anders Blaine]] and [[Other]] parties close to [[The]] Emperor. 
+In a secretly recorded and unguarded discussion With One of her aides, Princess Aisling Duval is allegedly seen to question The motives of Senator Anders Blaine and Other parties close to The Emperor. 
 
-“How is [[This]] possible? Am I not the most beloved person in the Empire? [[This]] is clear manoeuvring to make sure that Arissa becomes the heir. I can see her annoyingly haughty expression now. That Blaine thinks she will let him carry on doing what he wants .” 
+“How is This possible? Am I not the most beloved person in the Empire? This is clear manoeuvring to make sure that Arissa becomes the heir. I can see her annoyingly haughty expression now. That Blaine thinks she will let him carry on doing what he wants .” 
 
-The recording has received universal condemnation from sources on both sides. Senator [[Blaine refused]] to comment directly, although an aide claimed that an investigation would be initiated. 
+The recording has received universal condemnation from sources on both sides. Senator Blaine refused to comment directly, although an aide claimed that an investigation would be initiated. 
 
 Aisling Duval issued a statement denying the validity of the recording: 
 

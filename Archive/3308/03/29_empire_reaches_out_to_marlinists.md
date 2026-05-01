@@ -38,10 +38,10 @@ significance: high
 ---
 
 
-[[Emperor Arissa Lavigny-Duval]] has outlined a plan for [[The]] [[Marlinist]] Colonies to be officially reconnected [[With the]] Empire.
-The Marlin Standard published an exclusive report from Prime Consul Kayode Tau, after he attended a diplomatic meeting on [[Capitol]]:
+Emperor Arissa Lavigny-Duval has outlined a plan for The Marlinist Colonies to be officially reconnected With the Empire.
+The Marlin Standard published an exclusive report from Prime Consul Kayode Tau, after he attended a diplomatic meeting on Capitol:
 “The essence of Emperor Arissa’s proposal is a pledge to grant the status of Imperial protectorate to the Marlinist Colonies, in return for swearing allegiance to the throne.”
-“In practice, local government would remain autonomous [[But the]] [[Imperial Navy]] and security agencies would have a permanent presence. There would be investment in trade, [[With]] Empire-based companies as preferred partners. New channels of transportation and communication would be opened between Marlinist and Imperial systems.”
+“In practice, local government would remain autonomous But the Imperial Navy and security agencies would have a permanent presence. There would be investment in trade, With Empire-based companies as preferred partners. New channels of transportation and communication would be opened between Marlinist and Imperial systems.”
 “Emperor Arissa and I discussed the issues at length. Following her experience with the Lords of Restoration, Her Majesty now accepts that most believers in Marlinism are not terrorists or revolutionaries. She has, however, insisted that the Empire must be watchful for any Neo-Marlinist resurgence.”
-“When I broached the topic that some senators had suggested absorbing the Marlinist Colonies by force, the Emperor assured me there would be no military action. She spoke of her ‘need to cleanse the wounds left by the NMLA’, and I believe [[This]] is a genuine sentiment.” 
+“When I broached the topic that some senators had suggested absorbing the Marlinist Colonies by force, the Emperor assured me there would be no military action. She spoke of her ‘need to cleanse the wounds left by the NMLA’, and I believe This is a genuine sentiment.” 
 The Marlinist Parliament has received full details of the proposal and is preparing a response.

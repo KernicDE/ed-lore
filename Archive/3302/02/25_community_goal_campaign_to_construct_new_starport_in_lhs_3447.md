@@ -18,10 +18,10 @@ significance: low
 Community Goal: Campaign to Construct New Starport in LHS 3447
 
 
-LHS 3447 is familiar to [[Many]] [[Independent]] pilots, being a popular starting point for those embarking on careers as traders, bounty hunters and explorers. But many of these pilots have bemoaned [[The]] relative inaccessibility of the system's starports. 
+LHS 3447 is familiar to Many Independent pilots, being a popular starting point for those embarking on careers as traders, bounty hunters and explorers. But many of these pilots have bemoaned The relative inaccessibility of the system's starports. 
 
-The [[Pilots Federation]], in association [[With]] LHS 3447 Dynamic and Co, has announced plans to address the issue by constructing a new Orbis starport in LHS 3447. [[According to]] a spokesperson for the organisation, the new starport will orbit LHS 3447 B 1 a, making it particularly valuable to miners exploiting the LHS 3447 AB belt. 
+The Pilots Federation, in association With LHS 3447 Dynamic and Co, has announced plans to address the issue by constructing a new Orbis starport in LHS 3447. According to a spokesperson for the organisation, the new starport will orbit LHS 3447 B 1 a, making it particularly valuable to miners exploiting the LHS 3447 AB belt. 
 
-"The Pilots Federation is all about building a better future for the people who keep the galaxy moving. [[This]] new starport will give those people a valuable new trade and resupply hub, in addition to giving the system's economy a boost." 
+"The Pilots Federation is all about building a better future for the people who keep the galaxy moving. This new starport will give those people a valuable new trade and resupply hub, in addition to giving the system's economy a boost." 
 
-The campaign to construct the starport, [[Which]] will be named 'Bluford Orbital', begins on the 25th of February 3302 and will [[Run]] for two weeks. Pilots who want to support the first phase of the campaign are invited to deliver metals to Worlidge Terminal in LHS 3447.
+The campaign to construct the starport, Which will be named 'Bluford Orbital', begins on the 25th of February 3302 and will Run for two weeks. Pilots who want to support the first phase of the campaign are invited to deliver metals to Worlidge Terminal in LHS 3447.

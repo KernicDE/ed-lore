@@ -35,11 +35,11 @@ legacy_weight: 5
 significance: high
 ---
 
-*[[Pilots Federation]] ALERT*
-[[The]] enigmatic ‘[[Salvation]]’ has sent a message to the Commanders he recently recruited to discover the [[Hesperus]] megaship.
-The [[Vessel]] was [[Found]] in the Perseus Dark Region KC-V C2-2 system, after ‘Salvation’ provided an access key to read [[Its]] automated SOS. Pilots were then encouraged to deliver any surviving logs to Taurus Mining Ventures at the Hind Mine asteroid base in the [[T Tauri]] system.
-Patience Middleton, [[A representative of]] the corporation, announced:
-“‘Salvation’ has authorised us to offer two million credits or ten units of void opals for delivering the Hesperus’s logs. [[This]] contract ends on the 21st of May 3307, after [[Which]] payments will not be available.”
+*Pilots Federation ALERT*
+The enigmatic ‘Salvation’ has sent a message to the Commanders he recently recruited to discover the Hesperus megaship.
+The Vessel was Found in the Perseus Dark Region KC-V C2-2 system, after ‘Salvation’ provided an access key to read Its automated SOS. Pilots were then encouraged to deliver any surviving logs to Taurus Mining Ventures at the Hind Mine asteroid base in the T Tauri system.
+Patience Middleton, A representative of the corporation, announced:
+“‘Salvation’ has authorised us to offer two million credits or ten units of void opals for delivering the Hesperus’s logs. This contract ends on the 21st of May 3307, after Which payments will not be available.”
 “We have been asked to relay the message below.”
-“‘This is Salvation. I call myself this as I cannot yet reveal my identity, but my scientific breakthroughs will literally save all of humanity. The [[Adamastor]] and the Hesperus were just the beginning, as I have always known. For my intrepid agents, there will be [[Further]] work to come.’”
+“‘This is Salvation. I call myself this as I cannot yet reveal my identity, but my scientific breakthroughs will literally save all of humanity. The Adamastor and the Hesperus were just the beginning, as I have always known. For my intrepid agents, there will be Further work to come.’”
 Little is known about Taurus Mining Ventures, and ‘Salvation’ remains anonymous. Commanders are therefore being cautioned against undertaking tasks for a potentially criminal organisation.

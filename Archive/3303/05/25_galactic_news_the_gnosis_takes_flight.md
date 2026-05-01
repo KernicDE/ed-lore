@@ -18,10 +18,10 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: [[The]] Gnosis Takes Flight
+Galactic News: The Gnosis Takes Flight
 
 
-Over the past few days, news feeds in the [[Varati]] system have provided extensive coverage of the maiden voyage of the Gnosis, a scientific-research [[Vessel]] commissioned by the [[Canonn Interstellar Research Group]]. 
+Over the past few days, news feeds in the Varati system have provided extensive coverage of the maiden voyage of the Gnosis, a scientific-research Vessel commissioned by the Canonn Interstellar Research Group. 
 
 The state-of-the art ship is the result of a community initiative that saw the public contribute huge quantities of material. In fact, the response from the galactic community was so positive that construction was completed ahead of schedule. 
 

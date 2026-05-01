@@ -30,17 +30,17 @@ related_uuids:
 - 658df222-9a6d-5eb0-87e6-6fc4621e39c8
 ---
 
-Hunt [[The]] League of Reparation
+Hunt The League of Reparation
 
 
 A tri-superpower taskforce has launched a campaign to track down and eliminate members of terrorist group, the League of Reparation. 
 
-Captain Niamh Seutonia of the [[IISS]], who is a prominent member of the taskforce, made [[This]] announcement: 
+Captain Niamh Seutonia of the IISS, who is a prominent member of the taskforce, made This announcement: 
 
-“[[With the]] arrest of Riri McAllister, otherwise known as Nexus, we now hold the main coordinator of the League of Reparation in custody. Furthermore, decrypted information has revealed the location of [[League strongholds in two separate]] systems, [[One]] in Imperial and one in Federal space.” 
+“With the arrest of Riri McAllister, otherwise known as Nexus, we now hold the main coordinator of the League of Reparation in custody. Furthermore, decrypted information has revealed the location of League strongholds in two separate systems, One in Imperial and one in Federal space.” 
 
 “We are determined to eliminate these terrorists before they can wreak any more havoc, but fully expect tough resistance. Therefore we ask the galactic community to provide support in wiping out these dangerous extremists.” 
 
 The operation in Zibal will be coordinated by Zibal Power Co. Likewise, military action in Ienpalang will be supported by Ienpalang Corporation. 
 
-The campaign begins on the 19th of July 3304 and will [[Run]] for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 19th of July 3304 and will Run for one week. If the final target is met earlier than planned, the campaign will end immediately.

@@ -21,13 +21,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-Controlling [[The]] Credit Crops
+Controlling The Credit Crops
 
 
-Controlling [[The]] Credit Crops  
+Controlling The Credit Crops  
  
-A little over six months ago, the newly discovered naturally occurring plant known as [[Onionhead]] was made illegal throughout all of Federal space. Not long after, in an attempt to stop the spread of [[Onionhead]], the Federation launched a violent campaign against the innocent farmers of [[Kappa Fornacis]], led by the vocal Georgio Algeria. Federal marines invaded the farmers’ fields, and Federal battle cruisers rained fire from the skies. 
+A little over six months ago, the newly discovered naturally occurring plant known as Onionhead was made illegal throughout all of Federal space. Not long after, in an attempt to stop the spread of Onionhead, the Federation launched a violent campaign against the innocent farmers of Kappa Fornacis, led by the vocal Georgio Algeria. Federal marines invaded the farmers’ fields, and Federal battle cruisers rained fire from the skies. 
 
-The now wealthy farmers managed to create a new strain of Onionhead, and so the spread started, working alone and [[With]] others, including the East India Company – an Imperial trade organisation in [[Which]] Senator [[Zemina Torval]] is a major shareholder. 
+The now wealthy farmers managed to create a new strain of Onionhead, and so the spread started, working alone and With others, including the East India Company – an Imperial trade organisation in Which Senator Zemina Torval is a major shareholder. 
 
-In an attempt to warn the Imperial Senator away from [[Kappa Fornacis]], President [[Hudson responded by directing]] a number of prominent Republican Party supporters to begin permanently establishing themselves in Autahenetsi, to change public opinion as a deterrent to farmers, smugglers and Imperials alike. Although at time of press, neither the East India Company nor Senator [[Zemina Torval appear]] to be particularly intimidated by the Federation’s efforts.
+In an attempt to warn the Imperial Senator away from Kappa Fornacis, President Hudson responded by directing a number of prominent Republican Party supporters to begin permanently establishing themselves in Autahenetsi, to change public opinion as a deterrent to farmers, smugglers and Imperials alike. Although at time of press, neither the East India Company nor Senator Zemina Torval appear to be particularly intimidated by the Federation’s efforts.

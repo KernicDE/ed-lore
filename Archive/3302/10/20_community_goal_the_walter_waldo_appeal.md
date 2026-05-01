@@ -12,15 +12,15 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: [[The]] Walter Waldo Appeal
+Community Goal: The Walter Waldo Appeal
 
 
 Gyvatices Crimson Advanced Holdings has announced plans to hold a special commemorative event for the late entrepreneur Walter Waldo. 
 
 Waldo, who passed away last week, was the founder of Wonderful Walter's Fish and Coffee Emporium, a popular galactic franchise. 
 
-A spokesperson for GCAH released [[The following]] statement: 
+A spokesperson for GCAH released The following statement: 
 
-"Walter was a keen fisherman and a true coffee connoisseur, so what better way to celebrate his life than [[With]] a fish and coffee festival. We've placed an open order for fish and coffee in support of the event, and set aside a generous reserve for pilots who deliver these commodities to Walter Dock." 
+"Walter was a keen fisherman and a true coffee connoisseur, so what better way to celebrate his life than With a fish and coffee festival. We've placed an open order for fish and coffee in support of the event, and set aside a generous reserve for pilots who deliver these commodities to Walter Dock." 
 
-The campaign begins on the 20th [[October]] 3302 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 20th October 3302 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

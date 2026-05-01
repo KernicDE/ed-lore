@@ -16,15 +16,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Famous Reporter [[Commits Suicide]]
+Famous Reporter Commits Suicide
 
 
-Famous Reporter [[Commits Suicide]] 
+Famous Reporter Commits Suicide 
  
-[[The]] hunt for Elaine Boyd ended today [[With the]] discovery of her body [[In a]] low-rent hotel in Wyrd. Local law enforcement reported that they received an anonymous tip-off about her location and discovered her body as they gained entry. 
+The hunt for Elaine Boyd ended today With the discovery of her body In a low-rent hotel in Wyrd. Local law enforcement reported that they received an anonymous tip-off about her location and discovered her body as they gained entry. 
 
-[[The]] former reporter of the [[Federal Times]] was accused of murdering her partner, Agent [[Susan Monroe]]. An investigation into her death is already underway and agents from the [[Federal Security Service]] have been granted special access to assist the [[Independent]] local police. 
+The former reporter of the Federal Times was accused of murdering her partner, Agent Susan Monroe. An investigation into her death is already underway and agents from the Federal Security Service have been granted special access to assist the Independent local police. 
 
-The police have so [[Far]] refused to provide any details, but an off-the-record source has revealed that a suicide note was [[Found]]. It allegedly states that she could no longer live [[With]] the guilt of killing her lover. 
+The police have so Far refused to provide any details, but an off-the-record source has revealed that a suicide note was Found. It allegedly states that she could no longer live With the guilt of killing her lover. 
 
-The [[Federal Times]] has so [[Far]] refused to comment on the fate of their reporter.
+The Federal Times has so Far refused to comment on the fate of their reporter.

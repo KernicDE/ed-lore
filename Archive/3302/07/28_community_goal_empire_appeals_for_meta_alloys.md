@@ -17,12 +17,12 @@ significance: high
 Community Goal: Empire Appeals for Meta-Alloys
 
 
-[[As the]] galaxy becomes increasingly focused on [[The]] meta-alloys, the Empire has issued a galaxy-wide request for the controversial material. A spokesperson for the Zagoro Imperial Society, [[Which]] is coordinating the appeal, released [[The following]] statement: 
+As the galaxy becomes increasingly focused on The meta-alloys, the Empire has issued a galaxy-wide request for the controversial material. A spokesperson for the Zagoro Imperial Society, Which is coordinating the appeal, released The following statement: 
 
-"We don't yet know all the applications of the meta-alloys, but their ability to counter the harmful effects of the Unknown Artefacts indicates a potentially significant relationship between them, the Artefacts and, presumably, the unknown probes. It would therefore be unwise to let anyone to establish a monopoly on [[This]] material." 
+"We don't yet know all the applications of the meta-alloys, but their ability to counter the harmful effects of the Unknown Artefacts indicates a potentially significant relationship between them, the Artefacts and, presumably, the unknown probes. It would therefore be unwise to let anyone to establish a monopoly on This material." 
 
-"[[By supporting]] this initiative, you can help ensure that humankind is ideally positioned to meet the future – whatever it may hold." 
+"By supporting this initiative, you can help ensure that humankind is ideally positioned to meet the future – whatever it may hold." 
 
-It is presumably not immaterial that the Empire's initiative coincides [[With]] a Federal campaign to establish a new outpost on the planet HIP 17225 A 1 – a known barnacle site. 
+It is presumably not immaterial that the Empire's initiative coincides With a Federal campaign to establish a new outpost on the planet HIP 17225 A 1 – a known barnacle site. 
 
-The Zagoro Imperial Society has promised to reward pilots who deliver meta-alloys to [[Axon Station in the Zagoro]] system. The campaign begins on the 28th of July 3302 and will [[Run]] for [[One]] week. If the Empire's targets are met earlier than planned, the campaign will end immediately.
+The Zagoro Imperial Society has promised to reward pilots who deliver meta-alloys to Axon Station in the Zagoro system. The campaign begins on the 28th of July 3302 and will Run for One week. If the Empire's targets are met earlier than planned, the campaign will end immediately.

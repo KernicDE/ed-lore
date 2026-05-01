@@ -29,12 +29,12 @@ related_uuids:
 Duradrive Enters Production
 
 
-Technology company Herculean Machines has begun mass production of [[Its]] new device, [[The]] Duradrive personal computer. 
+Technology company Herculean Machines has begun mass production of Its new device, The Duradrive personal computer. 
 
 Following the successful performance of its prototype at the Rackham Ultratech Expo, the company has received corporate funding from a range of sources, including Rackham Capital Investments. 
 
 Maddox Hurd, CEO of Herculean Machines, told the media: 
 
-“As I’ve said before, what people want is a reliable tool that is tough enough to handle anything. I’d like to once again thank the galactic community for providing the commodities that made [[Our]] success possible.” 
+“As I’ve said before, what people want is a reliable tool that is tough enough to handle anything. I’d like to once again thank the galactic community for providing the commodities that made Our success possible.” 
 
-There has been no comment from rival CEO [[Scorpio DeVorrow]].
+There has been no comment from rival CEO Scorpio DeVorrow.

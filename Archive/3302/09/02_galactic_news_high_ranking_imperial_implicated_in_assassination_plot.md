@@ -15,10 +15,10 @@ significance: low
 Galactic News: High-Ranking Imperial Implicated in Assassination Plot
 
 
-[[Sources in [[The]] Achenar]] system have revealed that an individual identified only as 'a senior member of the Imperial hierarchy' has been arrested in connection [[With the]] recent assassination attempt on Admiral [[Denton Patreus]]. 
+Sources in The Achenar system have revealed that an individual identified only as 'a senior member of the Imperial hierarchy' has been arrested in connection With the recent assassination attempt on Admiral Denton Patreus. 
 
 Although the individual's identity is not known, a security officer let slip that the person in question is "no stranger to controversy". The suspect is believed to have been placed under house arrest. 
 
 Speculation abounds as to the identity of the individual and to the evident instability within the Imperial power base. 
 
-"A house divided against itself cannot stand," quipped [[One]] Imperial patron, who asked not to be identified. "History teaches us that much."
+"A house divided against itself cannot stand," quipped One Imperial patron, who asked not to be identified. "History teaches us that much."

@@ -19,9 +19,9 @@ significance: low
 Freelance Report: Commander Claims Sovereignty over Sagittarius A*
 
 
-Unusual news has emerged from [[The]] galactic centre, where an [[Independent]] pilot has declared herself 'Queen of Sagittarius A*'. 
+Unusual news has emerged from The galactic centre, where an Independent pilot has declared herself 'Queen of Sagittarius A*'. 
 
-Commander [[Lysianassa]], the self-proclaimed monarch, made the 26,000 light year journey [[In a]] fully armed Federal Corvette [[With]] heavy bulkheads and prismatic shields. Most explorers [[Travelling to the]] centre of the galaxy are lightly armed, if at all. 
+Commander Lysianassa, the self-proclaimed monarch, made the 26,000 light year journey In a fully armed Federal Corvette With heavy bulkheads and prismatic shields. Most explorers Travelling to the centre of the galaxy are lightly armed, if at all. 
 
 The legality and morality of Commander Lysianassa's right-by-conquest approach has been hotly debated by independent pilots. Lysianassa claims to have brought law and order to an otherwise anarchic system, thus protecting defenceless explorers, but not all agree. Some recognise the authority of 'Her Royal Majesty Queen Lysianassa', but others claim she is nothing more than a criminal with delusions of grandeur. 
 

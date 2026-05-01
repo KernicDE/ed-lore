@@ -23,11 +23,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[Lugh]] Makes a Bold Step Towards [[Independence]]
+Lugh Makes a Bold Step Towards Independence
 
 
-[[The Alioth]] system has been at [[The]] centre of controversy today after [[The]] arrival of Éamonn Uí Laoghire, the leading spokesperson in the current bid for [[Independence]] of the [[Lugh]] system.  
+The Alioth system has been at The centre of controversy today after The arrival of Éamonn Uí Laoghire, the leading spokesperson in the current bid for Independence of the Lugh system.  
 
-While at the time of [[This]] report Ambassador Uí Laoghire has not yet been granted an audience [[With]] [[Alliance]] state officials, he did address the huge throngs of supporters who came out to greet him on the steps of the state residence. 
+While at the time of This report Ambassador Uí Laoghire has not yet been granted an audience With Alliance state officials, he did address the huge throngs of supporters who came out to greet him on the steps of the state residence. 
 
-"[[Since [[Its]] earliest inception the Lugh]] system was settled by a sovereign people of [[One]] lineage and [[One]] religion who have made it their spiritual home. Popular support for The Crimson State Group in the last polls was at 87%. The only thing standing in the way of the will of the people is the [[Federal Navy]]! I have come here today to request that the [[Alliance]] of [[Independent]] Systems recognise the legitimacy of a free and democratic Lugh."
+"Since Its earliest inception the Lugh system was settled by a sovereign people of One lineage and One religion who have made it their spiritual home. Popular support for The Crimson State Group in the last polls was at 87%. The only thing standing in the way of the will of the people is the Federal Navy! I have come here today to request that the Alliance of Independent Systems recognise the legitimacy of a free and democratic Lugh."

@@ -31,17 +31,17 @@ related_uuids:
 - 508242c8-bd72-5b14-a5ce-fd74e32b0e69
 ---
 
-President [[Kincaid]] Illegal Funding Allegations
+President Kincaid Illegal Funding Allegations
 
 
-President [[Gibson Kincaid]] has been accused of receiving illegal campaign funding via [[The]] Bank of [[Zaonce]]. 
+President Gibson Kincaid has been accused of receiving illegal campaign funding via The Bank of Zaonce. 
 
-Councillor Elijah Beck presented evidence to a special session of the [[Alliance]] Assembly: 
+Councillor Elijah Beck presented evidence to a special session of the Alliance Assembly: 
 
-"During September 3304, President Kincaid's re-election campaign received [[Several]] billion credits worth of undeclared funds. I have received data suggesting that these transactions were secretly arranged by a senior figure within the Bank of Zaonce." 
+"During September 3304, President Kincaid's re-election campaign received Several billion credits worth of undeclared funds. I have received data suggesting that these transactions were secretly arranged by a senior figure within the Bank of Zaonce." 
 
-"Regrettably I cannot reveal the source of [[This]] evidence since it constitutes part of an ongoing investigation. However, I call upon the Assembly to open an official inquiry to establish if there was any violation of campaign finance law." 
+"Regrettably I cannot reveal the source of This evidence since it constitutes part of an ongoing investigation. However, I call upon the Assembly to open an official inquiry to establish if there was any violation of campaign finance law." 
 
-Councillor Beck's proposal was approved by a majority vote, after [[Which]] Prime Minister [[Edmund Mahon authorised]] the inquiry to begin immediately. 
+Councillor Beck's proposal was approved by a majority vote, after Which Prime Minister Edmund Mahon authorised the inquiry to begin immediately. 
 
 As yet there has been no comment from President Kincaid.

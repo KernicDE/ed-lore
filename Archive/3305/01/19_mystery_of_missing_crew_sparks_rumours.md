@@ -24,15 +24,15 @@ related_uuids:
 - f186d6a6-0681-528f-995c-21b7e49f1dc3
 ---
 
-Mystery of [[Missing]] Crew Sparks Rumours
+Mystery of Missing Crew Sparks Rumours
 
 
-[[The]] disappearance of famous actor Consuela Knight and the crew of her luxury yacht has sparked a flood of rumours. 
+The disappearance of famous actor Consuela Knight and the crew of her luxury yacht has sparked a flood of rumours. 
 
-[[Independent]] reporter Flint 'Firemaker' Lafosse discussed the mystery on the Rewired news feed: 
+Independent reporter Flint 'Firemaker' Lafosse discussed the mystery on the Rewired news feed: 
 
-"The scientists say [[This]] might be an anomaly that only affects organic tissue. But that doesn't explain the discovery of Consuela Knight's half-eaten meal, does it?"  
+"The scientists say This might be an anomaly that only affects organic tissue. But that doesn't explain the discovery of Consuela Knight's half-eaten meal, does it?"  
 
-"Others think it could be a new [[Thargoid]] weapon that disintegrates humans while leaving ships intact. Or maybe the cultists were right, and the [[Far]] God has started snacking on individuals before it arrives to eat the whole universe." 
+"Others think it could be a new Thargoid weapon that disintegrates humans while leaving ships intact. Or maybe the cultists were right, and the Far God has started snacking on individuals before it arrives to eat the whole universe." 
 
-"For all we know, this has been happening to ships for years. Maybe it usually gets hushed up, [[Which]] is harder to do when a big-name celebrity vanishes. Which of us might be next? Think about that next time you jump into hyperspace…"
+"For all we know, this has been happening to ships for years. Maybe it usually gets hushed up, Which is harder to do when a big-name celebrity vanishes. Which of us might be next? Think about that next time you jump into hyperspace…"

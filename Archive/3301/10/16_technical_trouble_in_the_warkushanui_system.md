@@ -19,15 +19,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Technical Trouble in [[The]] [[Warkushanui]] System
+Technical Trouble in The Warkushanui System
 
 
-[[Reports coming in from the Warkushanui]] system indicate that a number of starports in the region are currently experiencing technical issues. [[According to]] [[Sam Norris]], a technician at [[Coats Hub]], the system's inhabitants are dealing [[With]] a range of problems: 
+Reports coming in from the Warkushanui system indicate that a number of starports in the region are currently experiencing technical issues. According to Sam Norris, a technician at Coats Hub, the system's inhabitants are dealing With a range of problems: 
 
-"We've had power outages, intermittent problems with [[Our]] communications, and issues [[With the]] docking systems, but I've reason to believe that things are worse at [[Gurragchaa Gateway]]. I haven't been able to establish a stable comms link with them for a while, though, so I don't know exactly what the situation is." 
+"We've had power outages, intermittent problems with Our communications, and issues With the docking systems, but I've reason to believe that things are worse at Gurragchaa Gateway. I haven't been able to establish a stable comms link with them for a while, though, so I don't know exactly what the situation is." 
 
 Norris was asked what he thought might be causing the problems: 
 
-"Beats the hell out of me. The generators are fine and I haven't identified any infrastructure issues, so we'll need to [[Run]] some tests before we can be sure." 
+"Beats the hell out of me. The generators are fine and I haven't identified any infrastructure issues, so we'll need to Run some tests before we can be sure." 
 
-The issues in Warkushanui are not believed to be affecting station services at [[This]] time.
+The issues in Warkushanui are not believed to be affecting station services at This time.

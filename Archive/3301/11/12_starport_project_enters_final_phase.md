@@ -27,8 +27,8 @@ significance: medium
 Starport Project Enters Final Phase
 
 
-Two weeks ago, [[The]] Explorers' Association began work on a new Ocellus starport in the [[Pleiades Nebula]]. The project received financial support from the [[Brewer Corporation]] and [[Universal Cartographics]], [[Which]] offered generous premiums to traders providing essential materials for the construction. Now, [[With the]] bulk of the work complete, the [[Explorer's Association]] has announced a third and final appeal for resources: 
+Two weeks ago, The Explorers' Association began work on a new Ocellus starport in the Pleiades Nebula. The project received financial support from the Brewer Corporation and Universal Cartographics, Which offered generous premiums to traders providing essential materials for the construction. Now, With the bulk of the work complete, the Explorer's Association has announced a third and final appeal for resources: 
 
-"Thanks to the hard work and dedication of the galactic community, the new Ocellus starport is almost complete, and we are a hair's breadth from gaining an [[Important]] foothold in the Pleiades Nebula. All that's needed now is [[One]] final push. If you are [[In a]] position to help, we implore you to do so. [[This]] is your last chance to be a part of this historic project." 
+"Thanks to the hard work and dedication of the galactic community, the new Ocellus starport is almost complete, and we are a hair's breadth from gaining an Important foothold in the Pleiades Nebula. All that's needed now is One final push. If you are In a position to help, we implore you to do so. This is your last chance to be a part of this historic project." 
 
-Pilots who want to contribute to the campaign are invited to deliver Computer Components to [[Neville Horizons in the Kaushpoos]] system.
+Pilots who want to contribute to the campaign are invited to deliver Computer Components to Neville Horizons in the Kaushpoos system.

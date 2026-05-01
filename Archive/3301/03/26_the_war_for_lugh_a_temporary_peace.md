@@ -21,13 +21,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[The]] War for [[Lugh]]: A Temporary Peace
+The War for Lugh: A Temporary Peace
 
 
-[[The]] strike against Federal civilians by the [[Federal Navy]], coupled [[With the]] capture of [[Hartsfield]] Market a few hours later, caused mass confusion and disenchantment among Federal pilots operating in the area. Mercenaries who had previously fought for the Federation began defecting en masse, bolstering CSG forces to the point where they almost equalled the Federal forces in size. 
+The strike against Federal civilians by the Federal Navy, coupled With the capture of Hartsfield Market a few hours later, caused mass confusion and disenchantment among Federal pilots operating in the area. Mercenaries who had previously fought for the Federation began defecting en masse, bolstering CSG forces to the point where they almost equalled the Federal forces in size. 
 
-As a result of having gained control of [[Lugh]]’s satellite defence system during the capture of [[Hartsfield]] Market, the Crimson State Group managed to force the retreat of the Federal battlecruiser from [[Its]] position around Lugh 11. Then, [[With]] the help of thousands of mercenary defectors, the Crimson State was able to re-establish control over the majority of Lugh’s airspace. 
+As a result of having gained control of Lugh’s satellite defence system during the capture of Hartsfield Market, the Crimson State Group managed to force the retreat of the Federal battlecruiser from Its position around Lugh 11. Then, With the help of thousands of mercenary defectors, the Crimson State was able to re-establish control over the majority of Lugh’s airspace. 
 
-For now the [[Federal Navy]] has retreated to fallback positions in Khaka and [[Other]] local systems. Reports from Lugh suggest that the [[Lugh for Equality]] Party has established a ceasefire [[With the]] Crimson State Group, as both parties attempt to agree on what course of action would be best for the people of Lugh. 
+For now the Federal Navy has retreated to fallback positions in Khaka and Other local systems. Reports from Lugh suggest that the Lugh for Equality Party has established a ceasefire With the Crimson State Group, as both parties attempt to agree on what course of action would be best for the people of Lugh. 
 
-The system is still rife [[With]] unrest. The war has caused the local populace to resent both the Crimson State Group and the [[Federal Congress]]. Although the CSG has managed to establish their dominance over the system, whether they can keep it in the face of internal and external opposition still remains to be seen.
+The system is still rife With unrest. The war has caused the local populace to resent both the Crimson State Group and the Federal Congress. Although the CSG has managed to establish their dominance over the system, whether they can keep it in the face of internal and external opposition still remains to be seen.

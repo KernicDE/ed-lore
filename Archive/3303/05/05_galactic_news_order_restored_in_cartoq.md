@@ -18,8 +18,8 @@ significance: low
 Galactic News: Order Restored in Cartoq
 
 
-[[The]] Cartoq Purple Major Organisation has announced that [[Its]] campaign to clear the Cartoq system of agitators has been a success. [[Hundreds of]] pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
+The Cartoq Purple Major Organisation has announced that Its campaign to clear the Cartoq system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
-[[Authorities in the Cartoq]] system have extended their gratitude to those who participated in the operation. 
+Authorities in the Cartoq system have extended their gratitude to those who participated in the operation. 
 
 Pilots who contributed to the initiative can now collect their rewards from Avdeyev Settlement in the Cartoq system.

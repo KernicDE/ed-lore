@@ -17,17 +17,17 @@ legacy_weight: 1
 significance: low
 ---
 
-Arissa Prepares to Present Evidence to [[Imperial Senate]]
+Arissa Prepares to Present Evidence to Imperial Senate
 
 
-At a conference held ahead of today’s closed meeting of [[The]] Senate, Senator Arissa Lavigny addressed her supporters [[In a]] speech streamed live from [[The]] Lavigny family home on Topaz. 
+At a conference held ahead of today’s closed meeting of The Senate, Senator Arissa Lavigny addressed her supporters In a speech streamed live from The Lavigny family home on Topaz. 
 
-“The last few weeks have been difficult for us all, but I am pleased to announce that [[Our]] trials are almost over.” 
+“The last few weeks have been difficult for us all, but I am pleased to announce that Our trials are almost over.” 
 
-“Evidence collected by members of the court, [[Which]] includes members of Emperor’s Grace loyal to the house of Duval, has provided my investigators [[With]] irrefutable proof that the leadership of the HR 706 Chapter of Emperor’s Grace did, [[With]] malicious aforethought and intent, act to commit treason most foul against [[Our]] beloved father.” 
+“Evidence collected by members of the court, Which includes members of Emperor’s Grace loyal to the house of Duval, has provided my investigators With irrefutable proof that the leadership of the HR 706 Chapter of Emperor’s Grace did, With malicious aforethought and intent, act to commit treason most foul against Our beloved father.” 
 
-“Today I will prove beyond a shadow of a doubt that the HR 706 Chapter of Emperor’s Grace has allowed itself to become intimately entangled with a villainous network of psychopaths, sociopaths and [[Other]] assorted scum. Among them, the organisation [[Which]] provided the would-be-killer for use in [[This]] foul conspiracy.” 
+“Today I will prove beyond a shadow of a doubt that the HR 706 Chapter of Emperor’s Grace has allowed itself to become intimately entangled with a villainous network of psychopaths, sociopaths and Other assorted scum. Among them, the organisation Which provided the would-be-killer for use in This foul conspiracy.” 
 
-“[[This]] stain against our Empire’s honour will not be allowed to stand. Justice will be done this day.” 
+“This stain against our Empire’s honour will not be allowed to stand. Justice will be done this day.” 
 
 “Hail to the Emperor, bask in his glory.”

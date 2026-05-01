@@ -21,9 +21,9 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Patreus Calls]] on Blaine to Release Emperor’s Medical Records
+Patreus Calls on Blaine to Release Emperor’s Medical Records
 
 
-In an address delivered to [[The]] [[Imperial Senate]] earlier today, [[Senator [[Denton]] Patreus]] has called on Chancellor Blaine to provide [[The]] Senate [[With]] full [[Access to the]] ailing Emperor’s medical records. 
+In an address delivered to The Imperial Senate earlier today, Senator Denton Patreus has called on Chancellor Blaine to provide The Senate With full Access to the ailing Emperor’s medical records. 
 
-“The current situation is untenable,” the Senator said. “How long are we expected to simply accept that Emperor [[Hengist]] is on the road to recovery? It’s been months now and there’s been no sign of the Emperor making a recovery of any kind. For the sake of [[The entire]] Empire, we need to know whether or not Emperor [[Hengist]] is ever going to be able to reclaim the throne. If Emperor [[Hengist really]] is getting better, then Chancellor [[Blaine should release]] the Emperor’s medical records to show the Senate that there is nothing to worry about. If not, we need to establish what needs to be done to secure [[Our]] citizens’ future.”
+“The current situation is untenable,” the Senator said. “How long are we expected to simply accept that Emperor Hengist is on the road to recovery? It’s been months now and there’s been no sign of the Emperor making a recovery of any kind. For the sake of The entire Empire, we need to know whether or not Emperor Hengist is ever going to be able to reclaim the throne. If Emperor Hengist really is getting better, then Chancellor Blaine should release the Emperor’s medical records to show the Senate that there is nothing to worry about. If not, we need to establish what needs to be done to secure Our citizens’ future.”

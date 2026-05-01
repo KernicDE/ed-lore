@@ -18,19 +18,19 @@ legacy_weight: 1
 significance: low
 ---
 
-[[Synteini]] Slave Sale Honours Emperor
+Synteini Slave Sale Honours Emperor
 
 
-Last week [[Zemina Torval]] and [[Aisling Duval]] went head to head [[In a]] contest Imperial citizens have dubbed [[The]] ‘Great Slaver Showdown’. Both parties used [[The]] competition as an excuse to promote their own radical philosophies regarding the laws surrounding Imperial Slavery, and it looks like we finally know whose stance the Imperial public supports more. 
+Last week Zemina Torval and Aisling Duval went head to head In a contest Imperial citizens have dubbed The ‘Great Slaver Showdown’. Both parties used The competition as an excuse to promote their own radical philosophies regarding the laws surrounding Imperial Slavery, and it looks like we finally know whose stance the Imperial public supports more. 
 
-During the course of the competition, Aisling’s Angels freed an impressive 1,149,756 slaves, but [[This]] effort was dwarfed by supporters of the Imperial Slavers Association, who provided a better way of life for 2,387,567 non-citizens.  
+During the course of the competition, Aisling’s Angels freed an impressive 1,149,756 slaves, but This effort was dwarfed by supporters of the Imperial Slavers Association, who provided a better way of life for 2,387,567 non-citizens.  
 
-In recognition of the efforts of everyone who took part in the competition, the office of Senator [[Torval released]] [[The following]] statement to GalNet: 
+In recognition of the efforts of everyone who took part in the competition, the office of Senator Torval released The following statement to GalNet: 
 
 “The ISA would like to thank all participants for the overwhelming support shown for the Imperial Slavers Association and the Imperial way of life we represent.” 
 
-“Sadly even [[Our]] state of the art facilities couldn’t get the almost two and a half million new recruits ready for sale in such a short space of time. However, never let it be said that [[Zemina Torval]] does not keep her promises.” 
+“Sadly even Our state of the art facilities couldn’t get the almost two and a half million new recruits ready for sale in such a short space of time. However, never let it be said that Zemina Torval does not keep her promises.” 
 
-“In honour of the Emperor, for the glory of the House of Duval, and in recognition of all they have done to advance [[Our]] people and culture, Senator Torval has today authorised the sale of 5 million Imperial Slaves, to be made available in the markets of Lagerkvist [[Gateway]]." 
+“In honour of the Emperor, for the glory of the House of Duval, and in recognition of all they have done to advance Our people and culture, Senator Torval has today authorised the sale of 5 million Imperial Slaves, to be made available in the markets of Lagerkvist Gateway." 
 
 “5 million Imperial Slaves. 20% off regular retail price. Only while stocks last.”

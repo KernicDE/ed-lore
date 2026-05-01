@@ -19,8 +19,8 @@ significance: high
 Galactic News: Colonia Campaign Concludes
 
 
-[[The]] 80 DD-D 774-CE-2 faction has announced that [[Its]] campaign to establish a new outpost in the Colonia Nebula has received the unqualified support of the galactic community. [[Hundreds of]] [[Independent]] pilots responded to the appeal, resulting [[In a]] massive influx of deliveries to [[Jaques Station]], the organisation's base of operations. 
+The 80 DD-D 774-CE-2 faction has announced that Its campaign to establish a new outpost in the Colonia Nebula has received the unqualified support of the galactic community. Hundreds of Independent pilots responded to the appeal, resulting In a massive influx of deliveries to Jaques Station, the organisation's base of operations. 
 
 In a statement, a spokesperson for the organisation said: 
 
-"Future generations will look back on [[This]] day [[As the]] dawn of a new era. An era defined not by conflict, but by unity. An era in [[Which]] we made the Colonia Nebula [[Our]] home."
+"Future generations will look back on This day As the dawn of a new era. An era defined not by conflict, but by unity. An era in Which we made the Colonia Nebula Our home."

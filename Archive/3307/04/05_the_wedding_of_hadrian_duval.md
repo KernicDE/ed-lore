@@ -34,11 +34,11 @@ legacy_weight: 5
 significance: high
 ---
 
-Imperator Hadrian Augustus Duval, leader of [[The]] isolationist group [[Nova Imperium]], has married his consort Astrid [[Minerva]] [[In a]] closed ceremony.
-Commander Minerva was a young Imperial pilot who aided Nova Imperium at the Battle of [[Paresa]] in 3305 and became a loyal supporter. Her official title is now Lady Astrid Minerva-Duval.
-Princess [[Aisling Duval]] personally attended her cousin’s wedding at a secure location. She referred to it as “a precious moment of joy in these bleak times”.
-The [[Imperial Palace]] and the Senate have sent congratulatory messages, and the event was covered by mainstream media.
+Imperator Hadrian Augustus Duval, leader of The isolationist group Nova Imperium, has married his consort Astrid Minerva In a closed ceremony.
+Commander Minerva was a young Imperial pilot who aided Nova Imperium at the Battle of Paresa in 3305 and became a loyal supporter. Her official title is now Lady Astrid Minerva-Duval.
+Princess Aisling Duval personally attended her cousin’s wedding at a secure location. She referred to it as “a precious moment of joy in these bleak times”.
+The Imperial Palace and the Senate have sent congratulatory messages, and the event was covered by mainstream media.
 Paresa News Network: “Astrid’s well-deserved rise to nobility has made her fellow Paresans very proud. Everyone at PNN is overjoyed for the happy couple!”
-Eye on [[Achenar]]: “It’s an insult to the noble Duval bloodline when some trigger-jockey from a gutter system can sink her claws into the Emperor’s own nephew.”
-The [[Imperial Herald]]: “Hadrian taking a bride at the age of 20 has surprised [[Many]]. If he becomes the only Duval to produce heirs, it will place pressure on Emperor Arissa and Princess Aisling, neither of whom have consorts.”
-In related news, Nova Imperium vessels are participating in the current conflict against the Neo-Marlinists of [[Mudhrid]]. Praetor Leo Magnus, head of security, is liaising [[With the]] [[IISS]] on anti-terrorism intelligence.
+Eye on Achenar: “It’s an insult to the noble Duval bloodline when some trigger-jockey from a gutter system can sink her claws into the Emperor’s own nephew.”
+The Imperial Herald: “Hadrian taking a bride at the age of 20 has surprised Many. If he becomes the only Duval to produce heirs, it will place pressure on Emperor Arissa and Princess Aisling, neither of whom have consorts.”
+In related news, Nova Imperium vessels are participating in the current conflict against the Neo-Marlinists of Mudhrid. Praetor Leo Magnus, head of security, is liaising With the IISS on anti-terrorism intelligence.

@@ -25,14 +25,14 @@ related_uuids:
 - 852906f2-b606-50ea-b4f4-d3bd4af8e4d3
 ---
 
-Call to Ban [[Far]] God Book
+Call to Ban Far God Book
 
 
-Disgraced politician Juanita Bishop has called for a forthcoming book about [[The]] Far God sect to be banned: 
+Disgraced politician Juanita Bishop has called for a forthcoming book about The Far God sect to be banned: 
 
-“The authors, [[Ulyanov]] and Okonkwo, are known alien sympathisers. [[One]] was arrested as a suspected traitor and the [[Other]] has admitted to being a Far God cultist!” 
+“The authors, Ulyanov and Okonkwo, are known alien sympathisers. One was arrested as a suspected traitor and the Other has admitted to being a Far God cultist!” 
 
-“What they’re writing is nothing more than pro-[[Thargoid]] propaganda. It is an insult to all the brave souls who died trying to keep us safe. The authorities need to prevent [[This]] book from contaminating innocent people [[With]] [[Its]] repulsive ideas.” 
+“What they’re writing is nothing more than pro-Thargoid propaganda. It is an insult to all the brave souls who died trying to keep us safe. The authorities need to prevent This book from contaminating innocent people With Its repulsive ideas.” 
 
 Journalist Gethin Okonkwo, who spent months undercover in the Far God sect, responded: 
 

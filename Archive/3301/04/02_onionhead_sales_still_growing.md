@@ -17,13 +17,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[Onionhead]] Sales Still Growing
+Onionhead Sales Still Growing
 
 
-[[The]] Federal ban may have been enough to scare [[The]] [[Tanmark]] Defence Force into purging Lucan [[Onionhead]] plantations from their world, but [[Panem]] [[Continues]] to stand defiant. 
+The Federal ban may have been enough to scare The Tanmark Defence Force into purging Lucan Onionhead plantations from their world, but Panem Continues to stand defiant. 
 
-It’s been only two weeks since the original Onionhead went back on sale in Harvestport, and already the supply has started flowing as [[Far]] away as Berrivi and Aapelinja. 
+It’s been only two weeks since the original Onionhead went back on sale in Harvestport, and already the supply has started flowing as Far away as Berrivi and Aapelinja. 
 
-So [[Far]] the Federation has done little to stop the resurgence of Onionhead. Political pundits have been quick to suggest that [[This]] lethargy is most likely due to the fact that the President is paralysed by her (low) polling numbers. [[With]] her numbers so low, any mistake could cost the President her presidency.  
+So Far the Federation has done little to stop the resurgence of Onionhead. Political pundits have been quick to suggest that This lethargy is most likely due to the fact that the President is paralysed by her (low) polling numbers. With her numbers so low, any mistake could cost the President her presidency.  
 
-President Halsey’s indecision will come as good news for Georgio Algeria and the [[Kappa Fornacis]] Famers Union, who will doubtless continue growing credits as quickly as they can in preparation for any potential blowback from the Federation.
+President Halsey’s indecision will come as good news for Georgio Algeria and the Kappa Fornacis Famers Union, who will doubtless continue growing credits as quickly as they can in preparation for any potential blowback from the Federation.

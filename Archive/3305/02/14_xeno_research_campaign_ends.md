@@ -29,12 +29,12 @@ related_uuids:
 Xeno-Research Campaign Ends
 
 
-A campaign from [[The]] [[Holloway Bioscience Institute]] to build a xenological research centre has concluded successfully.  
+A campaign from The Holloway Bioscience Institute to build a xenological research centre has concluded successfully.  
 
-Chief researcher Dr [[Roy Casimir]] told the media: 
+Chief researcher Dr Roy Casimir told the media: 
 
-"Thanks to Nahuaru Crimson Bridge Int we now have sufficient materials to build a planetary outpost where [[Our]] scientists can study lifeforms identified by the galactic community." 
+"Thanks to Nahuaru Crimson Bridge Int we now have sufficient materials to build a planetary outpost where Our scientists can study lifeforms identified by the galactic community." 
 
-"We are also grateful for the exploration data provided by [[Many]] pilots, [[Which]] will help us create a new research catalogue." 
+"We are also grateful for the exploration data provided by Many pilots, Which will help us create a new research catalogue." 
 
 Pilots who took part in the campaign can now collect their rewards from Williams Vision in the Nahuaru system.

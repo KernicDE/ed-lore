@@ -29,12 +29,12 @@ President Hudson Confirms Investigation
 
 President Hudson Confirms Investigation 
  
-President Hudson responded today to [[Shadow President]] Winters's call for investigating [[The]] allegations raised by [[The]] [[Federal Times]]. [[In a]] press conference at the [[White House]] on [[Mars]], he said: 
+President Hudson responded today to Shadow President Winters's call for investigating The allegations raised by The Federal Times. In a press conference at the White House on Mars, he said: 
 
-"The allegations raised by the [[Federal Times]] are indeed grave and I have already instructed the responsible agencies to pursue the evidence and determine [[Its]] veracity. If the evidence proves to be true then the wrongdoers will be prosecuted to the full extent of the law." 
+"The allegations raised by the Federal Times are indeed grave and I have already instructed the responsible agencies to pursue the evidence and determine Its veracity. If the evidence proves to be true then the wrongdoers will be prosecuted to the full extent of the law." 
 
-When asked by reporters [[Which]] agency would be responsible for the investigation, he replied that the [[Federal Security Service]] would act [[As the]] lead agency, but resources from any law enforcement agency would be available to assist. 
+When asked by reporters Which agency would be responsible for the investigation, he replied that the Federal Security Service would act As the lead agency, but resources from any law enforcement agency would be available to assist. 
 
-[[Shadow President]] Winters was quick to respond to the President's announcement: 
+Shadow President Winters was quick to respond to the President's announcement: 
 
-"While it is good to see the President responding to genuine concerns, I can't help but notice that he is ignoring [[Our]] call for an open investigation."
+"While it is good to see the President responding to genuine concerns, I can't help but notice that he is ignoring Our call for an open investigation."

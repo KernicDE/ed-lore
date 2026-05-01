@@ -26,12 +26,12 @@ legacy_weight: 4
 significance: high
 ---
 
-[[Epsilon Indi]] Hosts Summit Conference
+Epsilon Indi Hosts Summit Conference
 
 
-[[London Relay in [[The]] Epsilon Indi]] system is to host a summit conference focusing on terrorism and galactic security. Representatives from the Empire, the Federation and the [[Alliance]] are all expected to attend the three-day event, [[Which]] begins next week. Topics for discussion are expected to include [[Emperor's Dawn]] and the ongoing conflict in the [[Pegasi]] Sector. 
+London Relay in The Epsilon Indi system is to host a summit conference focusing on terrorism and galactic security. Representatives from the Empire, the Federation and the Alliance are all expected to attend the three-day event, Which begins next week. Topics for discussion are expected to include Emperor's Dawn and the ongoing conflict in the Pegasi Sector. 
 
-As preparations for the event begin, Federal authorities have raised concerns about an organisation based at London Relay known as 'Revolution Incorporated'. [[According to]] authorities, the group has announced [[Its]] intention to commemorate the Gunpowder Plot – a historic incident dating from [[Earth]]'s distant past – [[With]] "a special event" due to coincide [[With the]] summit. Although the precise nature of the event has not been revealed, authorities are nevertheless uneasy: 
+As preparations for the event begin, Federal authorities have raised concerns about an organisation based at London Relay known as 'Revolution Incorporated'. According to authorities, the group has announced Its intention to commemorate the Gunpowder Plot – a historic incident dating from Earth's distant past – With "a special event" due to coincide With the summit. Although the precise nature of the event has not been revealed, authorities are nevertheless uneasy: 
 
 "It's entirely possible that the organisation's intentions are benign, but since we know so little about it, and given its publicized intention to commemorate an attack on the state, we are obligated to investigate." 
 

@@ -18,8 +18,8 @@ significance: low
 Fake Gem Scam Discovered
 
 
-Word has reached [[This]] reporter over [[The]] past few hours of a massive fraud involving fake precious gems originating from the region of the [[Prism]] system. A security services spokesperson admitted that they had been caught unawares by the scale of the issue, and that thousands of fakes had already been sold: 
+Word has reached This reporter over The past few hours of a massive fraud involving fake precious gems originating from the region of the Prism system. A security services spokesperson admitted that they had been caught unawares by the scale of the issue, and that thousands of fakes had already been sold: 
 
-"We will hunt down the perpetrators of these crimes, [[Which]] have cost the system economy millions of credits." 
+"We will hunt down the perpetrators of these crimes, Which have cost the system economy millions of credits." 
 
 Efforts are now underway to locate the source of these convincing fakes and put an end to their trade. The spokesperson promised that those dealing in these fake gems would be punished to the full extent of the law.

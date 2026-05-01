@@ -17,10 +17,10 @@ significance: low
 Galactic News: Utopian Campaign Concludes
 
 
-A spokesperson for [[The]] technologically progressive enclave [[Utopia]] confirmed that [[Its]] appeal for exploration data has reached a successful conclusion. [[In a]] statement, the spokesperson confirmed that the campaign received the enthusiastic support of the galactic community, resulting in large quantities of fresh exploration data. 
+A spokesperson for The technologically progressive enclave Utopia confirmed that Its appeal for exploration data has reached a successful conclusion. In a statement, the spokesperson confirmed that the campaign received the enthusiastic support of the galactic community, resulting in large quantities of fresh exploration data. 
 
 Simguru Pranav Antal, leader of Utopia and architect of the initiative, released a brief statement to the media: 
 
-"My thanks go to those who took the time to support [[This]] campaign. The data you have provided will now be analysed, and [[With]] luck it will tell us more about what happens to the [[Many]] spacefarers who disappear [[Every]] day, every week, every year. [[How many]] are abducted? How many [[Run]] out of fuel, [[Far]] from home? And how many simply disappear without explanation? Your data will help us answer these questions." 
+"My thanks go to those who took the time to support This campaign. The data you have provided will now be analysed, and With luck it will tell us more about what happens to the Many spacefarers who disappear Every day, every week, every year. How many are abducted? How many Run out of fuel, Far from home? And how many simply disappear without explanation? Your data will help us answer these questions." 
 
 Pilots who contributed to the initiative are now free to collect their rewards from Terry Port in the Garoku system.

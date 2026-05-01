@@ -19,11 +19,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: [[Pilots Federation]] Initiative Concludes
+Galactic News: Pilots Federation Initiative Concludes
 
 
-[[The]] Pilots Federation has announced that [[Its]] campaign to clear the LHS 3447, [[Eravate and Asellus Primus]] systems of agitators has been a success. [[Hundreds of]] combat pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the systems. 
+The Pilots Federation has announced that Its campaign to clear the LHS 3447, Eravate and Asellus Primus systems of agitators has been a success. Hundreds of combat pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the systems. 
 
-The purpose of the initiative was to secure the systems for inexperienced pilots, [[Many]] of whom start their careers there. [[As the]] campaign drew to a close, [[Authorities in the pertinent]] systems reiterated their hope that the success of the initiative would allow peacekeeping forces to maintain lasting peace. 
+The purpose of the initiative was to secure the systems for inexperienced pilots, Many of whom start their careers there. As the campaign drew to a close, Authorities in the pertinent systems reiterated their hope that the success of the initiative would allow peacekeeping forces to maintain lasting peace. 
 
-Pilots who contributed to the initiative can now collect their rewards from Cleve Hub in the Erevate system, [[Beagle 2 Landing in the Asellus Primus]] system or [[Dalton [[Gateway]] in the LHS 3447]] system.
+Pilots who contributed to the initiative can now collect their rewards from Cleve Hub in the Erevate system, Beagle 2 Landing in the Asellus Primus system or Dalton Gateway in the LHS 3447 system.

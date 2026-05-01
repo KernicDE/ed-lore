@@ -13,12 +13,12 @@ legacy_weight: 3
 significance: medium
 ---
 
-Community Goal: [[The]] Fight for Pleiades Sector IH-V C2-16
+Community Goal: The Fight for Pleiades Sector IH-V C2-16
 
 
-Recent reports from the Empire-controlled Pleiades Sector IH-V c2-16 system indicate that the Pleiades Resource [[Enterprise]], a Federal organisation, is preparing to launch an assault [[With the]] aim of taking the region from the Empire. 
+Recent reports from the Empire-controlled Pleiades Sector IH-V c2-16 system indicate that the Pleiades Resource Enterprise, a Federal organisation, is preparing to launch an assault With the aim of taking the region from the Empire. 
 
-A spokesperson for the Imperial Inquisition, [[Which]] is coordinating the Imperial resistance, said: 
+A spokesperson for the Imperial Inquisition, Which is coordinating the Imperial resistance, said: 
 
 "I would not surrender so much as an inch of territory to the Federation – I am certainly not about to surrender Pleiades Sector IH-V c2-16. I hope the Pleiades Resource Enterprise is prepared for a fight." 
 

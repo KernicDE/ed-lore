@@ -23,10 +23,10 @@ Fuel Rat Rescue Operation Saves Millions of Credits
 
 Fuel Rat Rescue Operation Saves Millions of Credits 
  
-"I was on my way back from deep space last week when I made a horrible mistake,” stated Commander Fionn Mac Cumhaill. “Running low on fuel, I [[Found]] a [[Nearby]] Red Dwarf and expected to fill my tanks but when I exited Frameshift I [[Found]] myself staring down a T-Tauri [[With]] nothing but fumes in my tank. I’d failed to reset my target. That’s when I called [[The]] [[Fuel Rats]]." 
+"I was on my way back from deep space last week when I made a horrible mistake,” stated Commander Fionn Mac Cumhaill. “Running low on fuel, I Found a Nearby Red Dwarf and expected to fill my tanks but when I exited Frameshift I Found myself staring down a T-Tauri With nothing but fumes in my tank. I’d failed to reset my target. That’s when I called The Fuel Rats." 
 
-Commanders Beornfrið, Kerenn and [[Anuranium]] responded, locating [[The]] drifting [[Asp Explorer in the PRAEA EUQ SY-S B3-3]] system just as [[Its]] oxygen level dropped to 41 seconds of sustainable life support. 
+Commanders Beornfrið, Kerenn and Anuranium responded, locating The drifting Asp Explorer in the PRAEA EUQ SY-S B3-3 system just as Its oxygen level dropped to 41 seconds of sustainable life support. 
 
-"They saved my Asp and 12 million credits of exploration data" said Mac Cumhaill. "I owe them my [[Pilots Federation]] promotion to 'Pioneer'." 
+"They saved my Asp and 12 million credits of exploration data" said Mac Cumhaill. "I owe them my Pilots Federation promotion to 'Pioneer'." 
 
 The Fuel Rat’s dispatch service is in operation around the clock. When you’re out of fuel don’t hesitate. Make the call.

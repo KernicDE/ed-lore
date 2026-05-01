@@ -19,10 +19,10 @@ significance: high
 Galactic News: Loren's Legion Appeal Concludes
 
 
-Ambassador Cuthrick Delaney, steward of [[The]] [[Prism]] system, has announced that the Loren's Legion appeal for tantalum has been enthusiastically received by the galactic community. [[Hundreds of]] [[Independent]] pilots responded to the appeal, resulting [[In a]] massive influx of deliveries to Hiram's Anchorage, the organisation's base of operations. 
+Ambassador Cuthrick Delaney, steward of The Prism system, has announced that the Loren's Legion appeal for tantalum has been enthusiastically received by the galactic community. Hundreds of Independent pilots responded to the appeal, resulting In a massive influx of deliveries to Hiram's Anchorage, the organisation's base of operations. 
 
 In a statement, Delaney said: 
 
-"Loren's Legion would like to extend [[Its]] gratitude to all the Commanders who rallied to [[Our]] call. Our immediate economic issues have been addressed, thanks to your efforts." 
+"Loren's Legion would like to extend Its gratitude to all the Commanders who rallied to Our call. Our immediate economic issues have been addressed, thanks to your efforts." 
 
 Pilots who contributed to the initiative are now free to collect their rewards from Hiram's Anchorage in the Prism system.

@@ -30,16 +30,16 @@ related_uuids:
 Presidential Candidates Make Final Pledges
 
 
-[[The]] two remaining candidates in the [[Alliance]] presidential race have returned to [[The Alioth]] system to make their final campaign vows. 
+The two remaining candidates in the Alliance presidential race have returned to The Alioth system to make their final campaign vows. 
 
 In the parliamentary chamber of the Assembly, Elijah Beck addressed his fellow council members: 
 
-“The Alliance occupies a unique position, and as such must remain true to [[Its]] principles. My focus as president will be on attracting more [[Independent]] systems to [[Our]] interstellar family.” 
+“The Alliance occupies a unique position, and as such must remain true to Its principles. My focus as president will be on attracting more Independent systems to Our interstellar family.” 
 
-He was followed by the current incumbent, President [[Gibson Kincaid]]:  
+He was followed by the current incumbent, President Gibson Kincaid:  
 
-“Fazia Silva’s assassination was an assault on our democracy. The Alliance’s enemies are growing bold, and we must do the same. I beseech the Assembly to imbue the presidential role [[With]] executive powers, to transform our Alliance into a true superpower capable of challenging its adversaries.” 
+“Fazia Silva’s assassination was an assault on our democracy. The Alliance’s enemies are growing bold, and we must do the same. I beseech the Assembly to imbue the presidential role With executive powers, to transform our Alliance into a true superpower capable of challenging its adversaries.” 
 
-Prime Minister [[Edmund Mahon]] thanked both candidates and wished them good luck in the election. 
+Prime Minister Edmund Mahon thanked both candidates and wished them good luck in the election. 
 
-The public vote will take place on Tuesday the 16th of [[October]] and the results will be announced later that week.
+The public vote will take place on Tuesday the 16th of October and the results will be announced later that week.

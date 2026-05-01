@@ -24,14 +24,14 @@ significance: low
 Thief Strikes Again
 
 
-A number of invaluable art treasures have been stolen from [[The]] Museum of Civilisation on [[Mars]]. 
+A number of invaluable art treasures have been stolen from The Museum of Civilisation on Mars. 
 
-Museum historian Dr [[Imogen Ryang]] said: 
+Museum historian Dr Imogen Ryang said: 
 
-"The stolen pieces include Rembrandt's Self-Portrait [[With]] Two Circles (17th Century), Guernica by Picasso (20th Century) and Terra Absentia by Zoe Okeke (23rd Century). [[Each]] of the works was replaced [[With the]] image of a winking cat." 
+"The stolen pieces include Rembrandt's Self-Portrait With Two Circles (17th Century), Guernica by Picasso (20th Century) and Terra Absentia by Zoe Okeke (23rd Century). Each of the works was replaced With the image of a winking cat." 
 
-"The loss of so [[Many]] cultural artefacts is incalculable. [[This]] despicable criminal should have been hunted down long ago." 
+"The loss of so Many cultural artefacts is incalculable. This despicable criminal should have been hunted down long ago." 
 
-Culture journalist Kioko McGrath published an alternative view in The [[Federal Times]]: 
+Culture journalist Kioko McGrath published an alternative view in The Federal Times: 
 
-"High-profile crimes such [[As this]] have resulted in the 'winking cat' motif becoming a popular anti-establishment symbol, appearing in advertising, graffiti and music. Ironically, the calling card of an art thief is now itself a culturally significant work of art."
+"High-profile crimes such As this have resulted in the 'winking cat' motif becoming a popular anti-establishment symbol, appearing in advertising, graffiti and music. Ironically, the calling card of an art thief is now itself a culturally significant work of art."

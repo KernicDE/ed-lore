@@ -33,10 +33,10 @@ legacy_weight: 4
 significance: medium
 ---
 
-[[The]] Proactive Detection Bureau, [[Which]] monitors all civilian communications in the Federation, has detected [[Several]] home-grown terrorist groups.
+The Proactive Detection Bureau, Which monitors all civilian communications in the Federation, has detected Several home-grown terrorist groups.
 Deputy Director Bethany Blake of the Federal Investigations Agency told the media:
-“[[Our]] combination of sophisticated algorithms and skilled operatives has unearthed over a dozen extremist organisations, all previously unknown. The FIA launched pre-emptive raids on these groups before they were able to strike against civilian targets.”
-“In addition, we have arrested several thousand individuals who were conducting research into terror tactics, radical ideologies and [[Other]] suspicious subjects.”
-“The PDB will continue monitoring all comms networks, and liaising [[With]] local security agencies via the Federal Justice Department.”
-Vice President [[Jerome Archer]] hailed these results as validation of the Domestic Counter-Terrorism Act, and stated that the PDB will help prevent the mass murder of Federal citizens.
-Civil rights groups have claimed that these extremists could have been detected via conventional policing methods, rather than intercepting personal messages. [[Independent]] criminologists added that the statistical likelihood of such amateur groups committing actual attacks is low.
+“Our combination of sophisticated algorithms and skilled operatives has unearthed over a dozen extremist organisations, all previously unknown. The FIA launched pre-emptive raids on these groups before they were able to strike against civilian targets.”
+“In addition, we have arrested several thousand individuals who were conducting research into terror tactics, radical ideologies and Other suspicious subjects.”
+“The PDB will continue monitoring all comms networks, and liaising With local security agencies via the Federal Justice Department.”
+Vice President Jerome Archer hailed these results as validation of the Domestic Counter-Terrorism Act, and stated that the PDB will help prevent the mass murder of Federal citizens.
+Civil rights groups have claimed that these extremists could have been detected via conventional policing methods, rather than intercepting personal messages. Independent criminologists added that the statistical likelihood of such amateur groups committing actual attacks is low.

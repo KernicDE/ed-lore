@@ -15,10 +15,10 @@ significance: low
 Freelance Report: Stanley Steamer's Ransack Rebuttal
 
 
-Following accusations of recklessness from archaeologist Jeremy Grant, noted SRV racer Stanley Steamer has released [[The following]] statement:  
+Following accusations of recklessness from archaeologist Jeremy Grant, noted SRV racer Stanley Steamer has released The following statement:  
 
-"Has Grant actually seen [[The]] site? It's already a pile of rubble! And we believe that rubble is the remains of an ancient racetrack. So by racing around it, we're actually honouring the memory of those who built it." 
+"Has Grant actually seen The site? It's already a pile of rubble! And we believe that rubble is the remains of an ancient racetrack. So by racing around it, we're actually honouring the memory of those who built it." 
 
-"If [[One]] of those highfalutin science nerds can definitively prove I'm wrong, I'll stop driving. But until then, don't go insulting us [[With]] your superpower rhetoric, professor!" 
+"If One of those highfalutin science nerds can definitively prove I'm wrong, I'll stop driving. But until then, don't go insulting us With your superpower rhetoric, professor!" 
 
 Commander Turjan

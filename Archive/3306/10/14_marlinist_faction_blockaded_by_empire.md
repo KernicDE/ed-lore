@@ -30,22 +30,22 @@ related_uuids:
 - 20fdf55d-94b0-55c6-9c70-4c26b0dbc494
 ---
 
-[[Marlinist]] Faction Blockaded by Empire
+Marlinist Faction Blockaded by Empire
 
 
-*[[Pilots Federation]] ALERT* 
+*Pilots Federation ALERT* 
 
-Conflict between Regulatory State of Ackwada and Duduseklis Empire League in [[The]] Ackwada system has concluded. 
+Conflict between Regulatory State of Ackwada and Duduseklis Empire League in The Ackwada system has concluded. 
 
-A Marlinist faction accused for providing recruits to the NMLA terrorist group has been overwhelmed by a combination of Imperial forces and [[Independent]] pilots. [[Several]] megaships were intercepted while attempting to transport large numbers of Marlinist civilians out of the Ackwada system. 
+A Marlinist faction accused for providing recruits to the NMLA terrorist group has been overwhelmed by a combination of Imperial forces and Independent pilots. Several megaships were intercepted while attempting to transport large numbers of Marlinist civilians out of the Ackwada system. 
 
-[[This]] report was delivered by the [[Imperial Internal Security Service]]: 
+This report was delivered by the Imperial Internal Security Service: 
 
-“We have taken [[Many]] Marlinist criminals into custody, despite their efforts to shield the terrorists. Some may have temporarily evaded us, but we are confident that we can track and destroy the [[NMLA cells operating within this]] system.” 
+“We have taken Many Marlinist criminals into custody, despite their efforts to shield the terrorists. Some may have temporarily evaded us, but we are confident that we can track and destroy the NMLA cells operating within this system.” 
 
-“[[Our]] affiliate, the Regulatory State of Ackwada, will distribute rewards at Glorious Destiny to all who contributed to this victory.” 
+“Our affiliate, the Regulatory State of Ackwada, will distribute rewards at Glorious Destiny to all who contributed to this victory.” 
 
-The Duduseklis Empire League broadcast this message to [[Its]] supporters: 
+The Duduseklis Empire League broadcast this message to Its supporters: 
 
 “Thousands of political refugees attempted to flee from persecution onboard megaships. Unfortunately, the Imperial blockade was supported by too many independent pilots, and none were able to escape.” 
 

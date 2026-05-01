@@ -16,7 +16,7 @@ significance: low
 Community Goal: People's Tutumu Confederacy Appeal Concludes
 
 
-[[The]] People's Tutumu Confederacy has released a statement announcing the successful conclusion of [[Its]] seasonal appeal. [[Hundreds of]] pilots responded to the appeal, delivering huge quantities of goods to [[North Ring in the Tutumu]] system. 
+The People's Tutumu Confederacy has released a statement announcing the successful conclusion of Its seasonal appeal. Hundreds of pilots responded to the appeal, delivering huge quantities of goods to North Ring in the Tutumu system. 
 
 In addition to offering generous premiums for the requested items, the People's Tutumu Confederacy also organised a special prize draw. 
 

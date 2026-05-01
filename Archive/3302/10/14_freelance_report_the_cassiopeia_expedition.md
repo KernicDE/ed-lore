@@ -11,15 +11,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Freelance Report: [[The]] Cassiopeia Expedition
+Freelance Report: The Cassiopeia Expedition
 
 
-The [[Earth]] Expeditionary Fleet has announced plans to mount a bold expedition beyond the Perseus Arm to find two stellar objects in the Cassiopeia constellation first noted by Earth astronomers in the distant past. 
+The Earth Expeditionary Fleet has announced plans to mount a bold expedition beyond the Perseus Arm to find two stellar objects in the Cassiopeia constellation first noted by Earth astronomers in the distant past. 
 
-"The Cassiopeia Project differs from [[Other]] expeditions," said Commander [[Finn McMillan]]. "We will attempt to locate two supernova remnants, [[Which]] have yet to be [[Found]] despite numerous attempts from [[Independent]] explorers. [[Our]] targets are Cassiopeia A and Tycho's [[Star]]." 
+"The Cassiopeia Project differs from Other expeditions," said Commander Finn McMillan. "We will attempt to locate two supernova remnants, Which have yet to be Found despite numerous attempts from Independent explorers. Our targets are Cassiopeia A and Tycho's Star." 
 
-"[[This]] is not space tourism. The expedition to Cassiopeia A will take us into an area of space referred to [[As the]] Formidine Rift, which before the advent of the [[Frame Shift Drive]] had a reputation as a kind of Bermuda Triangle. Few who venture into the Rift return to tell the tale." 
+"This is not space tourism. The expedition to Cassiopeia A will take us into an area of space referred to As the Formidine Rift, which before the advent of the Frame Shift Drive had a reputation as a kind of Bermuda Triangle. Few who venture into the Rift return to tell the tale." 
 
-The expedition is expected to depart from [[Chi Orionis]] in the first week of November 3302. 
+The expedition is expected to depart from Chi Orionis in the first week of November 3302. 
 
 Jaiotu

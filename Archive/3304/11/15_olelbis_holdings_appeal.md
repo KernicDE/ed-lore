@@ -21,11 +21,11 @@ related_uuids:
 - 4272c1e0-2c23-5970-8096-14298490fef1
 ---
 
-[[Olelbis]] Holdings Appeal
+Olelbis Holdings Appeal
 
 
-Olelbis Holdings, an organisation based in [[The]] Olelbis system, has announced an elaborate social function at Polyakov Orbital, the faction’s base of operations. 
+Olelbis Holdings, an organisation based in The Olelbis system, has announced an elaborate social function at Polyakov Orbital, the faction’s base of operations. 
 
-In support of [[This]] event, Olelbis Holdings has placed an open order for quantities of Deuringas Truffles, Mokojing Beast Feast and Mulachi Giant Fungus, and has pledged to reward pilots who deliver these commodities to [[Polyakov Orbital in the Olelbis]] system. The organisation has also placed a kill order on all ships on [[Its]] wanted list, to ensure that those contributing commodities to the campaign can do so safely. 
+In support of This event, Olelbis Holdings has placed an open order for quantities of Deuringas Truffles, Mokojing Beast Feast and Mulachi Giant Fungus, and has pledged to reward pilots who deliver these commodities to Polyakov Orbital in the Olelbis system. The organisation has also placed a kill order on all ships on Its wanted list, to ensure that those contributing commodities to the campaign can do so safely. 
 
-The campaign begins on the 15th November 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 15th November 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

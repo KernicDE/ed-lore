@@ -26,16 +26,16 @@ related_uuids:
 Commodity Prices Affected by Market Volatility
 
 
-*[[Pilots Federation]] ALERT* 
+*Pilots Federation ALERT* 
 
-Volatile trading markets have caused widespread price changes on [[Several]] commodities, [[With]] a focus on [[The]] mining sector. 
+Volatile trading markets have caused widespread price changes on Several commodities, With a focus on The mining sector. 
 
-Alongside general market instability, unprecedented stock levels for a range of mined materials such as painite – once the gold standard of [[Many]] systems – mean they now have uncertain futures. 
+Alongside general market instability, unprecedented stock levels for a range of mined materials such as painite – once the gold standard of Many systems – mean they now have uncertain futures. 
 
-Many financial experts predicted [[This]] correction to the markets, and saw it as an inevitable change. Others see this as a direct result of escalating tensions between the Empire and the Federation, with a few dismissing it as a minor anomaly and that prices will rapidly return to normal. 
+Many financial experts predicted This correction to the markets, and saw it as an inevitable change. Others see this as a direct result of escalating tensions between the Empire and the Federation, with a few dismissing it as a minor anomaly and that prices will rapidly return to normal. 
 
-Professor [[Ophelia Kaufmann]], head of economics at Orion [[Independent]] University, observed: 
+Professor Ophelia Kaufmann, head of economics at Orion Independent University, observed: 
 
-“There is certainly historical precedent for volatile markets during periods of political instability. Whatever the real cause or outlook in the short term, commodity values have become [[Far]] more susceptible to market forces.” 
+“There is certainly historical precedent for volatile markets during periods of political instability. Whatever the real cause or outlook in the short term, commodity values have become Far more susceptible to market forces.” 
 
-“This is a notoriously difficult field in [[Which]] to make predictions, but it is likely that prices for some lower-value goods may increase. The only certainty is of [[Further]] fluctuations, but their severity will largely depend on how the precarious situation between superpowers is resolved.”
+“This is a notoriously difficult field in Which to make predictions, but it is likely that prices for some lower-value goods may increase. The only certainty is of Further fluctuations, but their severity will largely depend on how the precarious situation between superpowers is resolved.”

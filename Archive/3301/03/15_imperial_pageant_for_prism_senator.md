@@ -17,13 +17,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Imperial Pageant for [[Prism]] Senator
+Imperial Pageant for Prism Senator
 
 
-In an apparent show of solidarity for [[The]] visiting Senator and in protest at her perceived shabby treatment at [[The]] hands of her Federation hosts, [[Dozens of independent]] Commanders have volunteered to escort Lady [[Kahina Tijani Loren]]'s Imperial Courier through Federal space for the duration of her trip. 
+In an apparent show of solidarity for The visiting Senator and in protest at her perceived shabby treatment at The hands of her Federation hosts, Dozens of independent Commanders have volunteered to escort Lady Kahina Tijani Loren's Imperial Courier through Federal space for the duration of her trip. 
 
 The unofficial escort is primarily composed of Imperial Cutters in private ownership, causing acute embarrassment to the Federation, who are powerless to prevent newsfeed images of what appears to be a sizeable Imperial fleet gallivanting unchallenged against the unmistakeable backdrop of core Federation worlds. 
 
-Lady Kahina was briefly interviewed by The [[Mars]] Herald and was asked, "What do you think of your welcome into Federal space?" 
+Lady Kahina was briefly interviewed by The Mars Herald and was asked, "What do you think of your welcome into Federal space?" 
 
-She replied [[With]] "When I receive [[One]], I shall let you know."
+She replied With "When I receive One, I shall let you know."

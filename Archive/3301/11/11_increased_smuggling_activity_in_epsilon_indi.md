@@ -20,13 +20,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Increased Smuggling Activity in [[Epsilon Indi]]
+Increased Smuggling Activity in Epsilon Indi
 
 
-[[Authorities in [[The]] Epsilon Indi]] system have reported a dramatic increase in smuggling over the past week. Station personnel at London Relay – believed to be the focus of the smuggling activity – declined to provide specifics, but an anonymous source at the starport said: 
+Authorities in The Epsilon Indi system have reported a dramatic increase in smuggling over the past week. Station personnel at London Relay – believed to be the focus of the smuggling activity – declined to provide specifics, but an anonymous source at the starport said: 
 
-"Apparently a group called 'Revolution Incorporated' put out a request for explosives, [[Which]] is why there's been a spike. Of course, the station authorities don't want people to know the station is full of explosives, especially [[With the]] summit conference starting soon, but I gather the response to the request was pretty enthusiastic." 
+"Apparently a group called 'Revolution Incorporated' put out a request for explosives, Which is why there's been a spike. Of course, the station authorities don't want people to know the station is full of explosives, especially With the summit conference starting soon, but I gather the response to the request was pretty enthusiastic." 
 
-The [[Federal Times]] approached Revolution Incorporated for a response to [[This]] statement, but received only a brief, cryptic reply: 
+The Federal Times approached Revolution Incorporated for a response to This statement, but received only a brief, cryptic reply: 
 
 "People have started to forget about old Guy and his friends. We think it's time someone reminded them."

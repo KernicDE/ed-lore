@@ -27,17 +27,17 @@ related_uuids:
 - d610a3c5-945b-5365-9eef-8115c7d3f25e
 ---
 
-[[Further]] Disorder at Port Isabelle
+Further Disorder at Port Isabelle
 
 
-Thousands of forcibly freed Imperial slaves have continued to create turmoil in [[The capital]] city of [[Eotienses]] A 3. 
+Thousands of forcibly freed Imperial slaves have continued to create turmoil in The capital city of Eotienses A 3. 
 
-Vox Galactica featured an on-site report by [[Independent]] journalist Gwendolyn Nash: 
+Vox Galactica featured an on-site report by Independent journalist Gwendolyn Nash: 
 
-“Three weeks after being liberated by [[The]] radical activist group Autonomy, the emancipated have banded together in their desperation for survival. [[Many]] now wield makeshift weapons gathered from the streets." 
+“Three weeks after being liberated by The radical activist group Autonomy, the emancipated have banded together in their desperation for survival. Many now wield makeshift weapons gathered from the streets." 
 
-"[[One]] large group invaded Port Isabelle’s spaceport, causing major disruption to flights. There were scenes of conflict when they attempted to hijack the very ships originally used by Autonomy to transport them." 
+"One large group invaded Port Isabelle’s spaceport, causing major disruption to flights. There were scenes of conflict when they attempted to hijack the very ships originally used by Autonomy to transport them." 
 
 "Others have besieged government buildings, demanding to be officially enslaved again so they can complete their terms of servitude. Many emancipated individuals still beg on the streets, despite charitable donations by some citizens." 
 
-"[[With]] welfare resources overwhelmed by the immigrants, it can only be a matter of time before more drastic solutions are attempted.”
+"With welfare resources overwhelmed by the immigrants, it can only be a matter of time before more drastic solutions are attempted.”

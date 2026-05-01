@@ -15,12 +15,12 @@ legacy_weight: 5
 significance: high
 ---
 
-Freelance Report: Mysterious Wreck could be an Artefact of [[The]] Past
+Freelance Report: Mysterious Wreck could be an Artefact of The Past
 
 
 The discovery of what appears to be the remains of a non-human spacecraft has sent ripples of fear and curiosity through the galaxy. 
 
-"[[Many]] are speculating that [[This]] is evidence of recent [[Thargoid]] activity," said Professor [[Steven Eisler]] of the [[Okinura]] Xenobiology Institute, "but it's more likely that the wreckage dates from [[Our]] first encounters [[With the]] Thargoids." 
+"Many are speculating that This is evidence of recent Thargoid activity," said Professor Steven Eisler of the Okinura Xenobiology Institute, "but it's more likely that the wreckage dates from Our first encounters With the Thargoids." 
 
 "What I find disturbing are the messages and clues that led to this xeno-archaeological find. Someone is deliberately preying on mankind's fear of the unknown, and they need to be held accountable for their actions." 
 

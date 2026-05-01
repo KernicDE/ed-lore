@@ -20,15 +20,15 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: [[Thargoid]] Threat [[Continues]] to Escalate
+Galactic News: Thargoid Threat Continues to Escalate
 
 
-Numerous sources have reported that Thargoid activity has escalated dramatically in recent days, [[With]] attacks from Thargoid Interceptor-class ships becoming increasingly common in [[The]] [[Pleiades Nebula]]. Reports confirm that Imperial, Federal and civilian ships have all been targeted. Images captured by survivors of these attacks show Thargoid ships scanning wreckage and gathering debris, including occupied escape pods. 
+Numerous sources have reported that Thargoid activity has escalated dramatically in recent days, With attacks from Thargoid Interceptor-class ships becoming increasingly common in The Pleiades Nebula. Reports confirm that Imperial, Federal and civilian ships have all been targeted. Images captured by survivors of these attacks show Thargoid ships scanning wreckage and gathering debris, including occupied escape pods. 
 
-As [[Aegis]] continues to analyse the results of these encounters, the organisation’s military liaison, Aden Tanner, released [[The following]] statement: 
+As Aegis continues to analyse the results of these encounters, the organisation’s military liaison, Aden Tanner, released The following statement: 
 
-“We are aware that the Interceptors have started capturing escape pods, although we currently have no way of knowing if [[This]] is a deliberate strategy or simply a symptom of curiosity. That is not to suggest, of course, that the Thargoids’ motives are benign, as it is clear they are not.” 
+“We are aware that the Interceptors have started capturing escape pods, although we currently have no way of knowing if This is a deliberate strategy or simply a symptom of curiosity. That is not to suggest, of course, that the Thargoids’ motives are benign, as it is clear they are not.” 
 
-“Furthermore, the ships we have designated ‘Interceptors’ have started deploying clusters of attack drones, [[Which]] swarm enemy ships while the Interceptor attacks from range. This significantly enhances the risk presented by the Thargoids, and I urge all pilots operating in the Pleiades to exercise caution.” 
+“Furthermore, the ships we have designated ‘Interceptors’ have started deploying clusters of attack drones, Which swarm enemy ships while the Interceptor attacks from range. This significantly enhances the risk presented by the Thargoids, and I urge all pilots operating in the Pleiades to exercise caution.” 
 
 “The question is: What is the Thargoids’ objective? All available resources will be directed to answering this question.”

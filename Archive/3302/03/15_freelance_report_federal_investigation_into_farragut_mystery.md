@@ -19,8 +19,8 @@ significance: low
 Freelance Report: Federal Investigation into Farragut Mystery
 
 
-An official inquiry from [[The]] Congressional Oversight Committee has been launched after reports surfaced of a pirate-aligned Farragut Battle Cruiser striking out at Federation battle groups in the LHS 3447, [[Fuleum and HIP 16996]] systems. The inquiry will also investigate unconfirmed reports of a rogue battle cruiser outside Federation space in the [[Maia]] system. 
+An official inquiry from The Congressional Oversight Committee has been launched after reports surfaced of a pirate-aligned Farragut Battle Cruiser striking out at Federation battle groups in the LHS 3447, Fuleum and HIP 16996 systems. The inquiry will also investigate unconfirmed reports of a rogue battle cruiser outside Federation space in the Maia system. 
 
-Speaking under condition of anonymity, a source within the closed-door hearing said: "The scans said it was a Farragut and the Navy said it was a Farragut, but it's not [[One]] of ours and it had no clear identification code." 
+Speaking under condition of anonymity, a source within the closed-door hearing said: "The scans said it was a Farragut and the Navy said it was a Farragut, but it's not One of ours and it had no clear identification code." 
 
 Commander Tyrit Shadowstalker

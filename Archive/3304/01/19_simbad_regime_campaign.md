@@ -22,12 +22,12 @@ significance: low
 Simbad Regime Campaign
 
 
-[[The]] Simbad Regime was established over a year ago, and has enjoyed consistent growth [[With the]] support of Commanders across the galaxy. Now the group has announced plans to construct a new asteroid base among the rings of Nu Tauri 5. 
+The Simbad Regime was established over a year ago, and has enjoyed consistent growth With the support of Commanders across the galaxy. Now the group has announced plans to construct a new asteroid base among the rings of Nu Tauri 5. 
 
-In support of [[This]] goal, the Simbad Regime has placed an open order for quantities of explosives, beryllium, aluminium and tea. 
+In support of This goal, the Simbad Regime has placed an open order for quantities of explosives, beryllium, aluminium and tea. 
 
-A spokesperson for the organisation released [[The following]] statement: 
+A spokesperson for the organisation released The following statement: 
 
-“In order to secure the support of the galactic community, we are offering generous rewards to pilots who deliver materials to [[Parmitano Terminal in the Nu Tauri]] system.” 
+“In order to secure the support of the galactic community, we are offering generous rewards to pilots who deliver materials to Parmitano Terminal in the Nu Tauri system.” 
 
-The campaign begins on the 18th of January 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 18th of January 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

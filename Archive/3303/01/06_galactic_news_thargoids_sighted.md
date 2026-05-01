@@ -21,14 +21,14 @@ significance: high
 Galactic News: Thargoids Sighted?
 
 
-Media outlets throughout [[The]] galaxy are abuzz [[With]] news of an event that [[Many]] are interpreting as an encounter with non-human life. 
+Media outlets throughout The galaxy are abuzz With news of an event that Many are interpreting as an encounter with non-human life. 
 
-[[According to]] reports, an [[Independent]] pilot by the name of Commander [[DP Sayre]] was interdicted en route to the [[Aries Dark]] Region XU-O b6-3 by a highly unusual ship bearing no resemblance to any known human craft. 
+According to reports, an Independent pilot by the name of Commander DP Sayre was interdicted en route to the Aries Dark Region XU-O b6-3 by a highly unusual ship bearing no resemblance to any known human craft. 
 
-[[As the]] Commander's ship was plucked from hyperspace, all their systems were completely disabled. The mysterious craft subjected the pilot's [[Vessel]] to some kind of scan before departing, at [[Which]] point the hapless Commander's ship returned to life. 
+As the Commander's ship was plucked from hyperspace, all their systems were completely disabled. The mysterious craft subjected the pilot's Vessel to some kind of scan before departing, at Which point the hapless Commander's ship returned to life. 
 
-Commentators reviewing the pilot's recording of the event have noted strong similarities between the mysterious craft and the shipwrecks [[Found]] in the [[Pleiades Sector AB-W B2-4]] and the HIP 17862 system. 
+Commentators reviewing the pilot's recording of the event have noted strong similarities between the mysterious craft and the shipwrecks Found in the Pleiades Sector AB-W B2-4 and the HIP 17862 system. 
 
-Is the ship a [[Thargoid]] vessel? [[This]] is the question many are asking. 
+Is the ship a Thargoid vessel? This is the question many are asking. 
 
 We will continue to bring you up-to-the-minute updates on this story.

@@ -14,6 +14,6 @@ significance: low
 Galactic News: Distress Call Received from Col 70 Sector
 
 
-Recent reports indicate that a garbled distress call from somewhere in [[The]] Col 70 sector has been received. The news has been met [[With]] [[Surprise]] from some quarters, given that permit restrictions have made the sector relatively inaccessible. 
+Recent reports indicate that a garbled distress call from somewhere in The Col 70 sector has been received. The news has been met With Surprise from some quarters, given that permit restrictions have made the sector relatively inaccessible. 
 
-"We're not sure what to make of it," said Perry Hussein, a member of the Federal intelligence community, "but it was definitely a distress call and the ship that sent it appears to have been destroyed. The telemetry indicates it was an older [[Vessel]], perhaps Cobra class."
+"We're not sure what to make of it," said Perry Hussein, a member of the Federal intelligence community, "but it was definitely a distress call and the ship that sent it appears to have been destroyed. The telemetry indicates it was an older Vessel, perhaps Cobra class."

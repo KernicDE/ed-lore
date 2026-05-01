@@ -18,11 +18,11 @@ legacy_weight: 3
 significance: medium
 ---
 
-Unity Starport Officially Opens in [[New Yembo]]
+Unity Starport Officially Opens in New Yembo
 
 
-Today marks [[The]] official opening of [[The]] first Deep Space Exploration Platform being sponsored by the Explorers’ Association in conjunction [[With]] [[Universal Cartographics]]. The station will initially be housed in [[New Yembo]], a resource rich system on the outer edges of human-occupied space. 
+Today marks The official opening of The first Deep Space Exploration Platform being sponsored by the Explorers’ Association in conjunction With Universal Cartographics. The station will initially be housed in New Yembo, a resource rich system on the outer edges of human-occupied space. 
 
-Thousands of Commanders helped provide the materials necessary to build [[This]] new state of the art Ocellus. The actual construction of the station took tens of thousands of workers just three weeks to complete, [[Which]] in itself is a testament to the highly organised and methodical approach that the EAUC collaboration has applied to [[This]] project. 
+Thousands of Commanders helped provide the materials necessary to build This new state of the art Ocellus. The actual construction of the station took tens of thousands of workers just three weeks to complete, Which in itself is a testament to the highly organised and methodical approach that the EAUC collaboration has applied to This project. 
 
-GalNet can also now exclusively reveal that after an impassioned round of debates between EA and UC committee members, the New Yembo starport has been given the name Unity in honour of the collaborative effort that made [[Its]] creation possible.
+GalNet can also now exclusively reveal that after an impassioned round of debates between EA and UC committee members, the New Yembo starport has been given the name Unity in honour of the collaborative effort that made Its creation possible.

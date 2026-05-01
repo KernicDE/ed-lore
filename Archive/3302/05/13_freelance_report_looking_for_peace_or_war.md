@@ -26,14 +26,14 @@ significance: high
 Freelance Report: Looking for Peace, or War?
 
 
-Dr [[Derthek]], a founding member of [[The]] [[Canonn Interstellar Research Group]], has embarked on an ambitious project to map NGC 6357, also known [[As the]] War and Peace Nebula, in [[Its]] entirety. 
+Dr Derthek, a founding member of The Canonn Interstellar Research Group, has embarked on an ambitious project to map NGC 6357, also known As the War and Peace Nebula, in Its entirety. 
 
-Before departing, Dr [[Derthek gave]] a brief interview explaining his motivation: 
+Before departing, Dr Derthek gave a brief interview explaining his motivation: 
 
-"I've examined the Unknown Artefacts, I've seen the barnacles, I've even completed a circumnavigation of the galaxy. [[But the]] estimated 13,000 systems of NGC 6357 have always fascinated me. It's [[One]] of the most prominent sites of massive-[[Star]] formation close to the bubble." 
+"I've examined the Unknown Artefacts, I've seen the barnacles, I've even completed a circumnavigation of the galaxy. But the estimated 13,000 systems of NGC 6357 have always fascinated me. It's One of the most prominent sites of massive-Star formation close to the bubble." 
 
-"I think there's something out there, although I don't know what. But it'll be my home until my ship, the RSV [[Canonn]], has visited [[Every]] single system. I might find more barnacles, more UAs, or something entirely new. Who knows?" 
+"I think there's something out there, although I don't know what. But it'll be my home until my ship, the RSV Canonn, has visited Every single system. I might find more barnacles, more UAs, or something entirely new. Who knows?" 
 
-[[Hundreds of]] fellow scientists have sent messages of support, and [[Universal Cartographics]] is understood to be eagerly awaiting Derthek's return. 
+Hundreds of fellow scientists have sent messages of support, and Universal Cartographics is understood to be eagerly awaiting Derthek's return. 
 
-Commander [[Lord Zoltan]]
+Commander Lord Zoltan

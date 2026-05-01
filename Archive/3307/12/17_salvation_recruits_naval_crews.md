@@ -38,10 +38,10 @@ related_uuids:
 - 2b4db5ae-e575-5f03-bb79-4a02d667f70a
 ---
 
-[[The]] recent counterstrike against the Thargoids has revealed that [[Salvation]] is being unofficially supported by trained military personnel.
-Commodore Morag Halloran was a senior officer [[With the]] [[Alliance]] Defence Force who is now working for Salvation. She sent [[This]] statement to the media:
-“Over the last few years, I have fought hard to protect [[Allied]] interests from the Thargoids. But [[Every]] battle against them felt like a [[Defensive]] measure, a holding action. I’m convinced that these creatures are more than capable of wiping us all out.”
-“When an entire [[Thargoid]] fleet was forced out of the [[Cornsar]] system in September, I approached the Council of Admirals about sending ships to help, but my proposal was rejected. Then Salvation contacted me directly, saying that he required military leadership and my experiences in the [[Coalsack Nebula]] made me an ideal candidate.”
-“Along [[With]] Lieutenant Commander [[Glynn]] and nearly a hundred crewmates, we resigned [[Our]] commissions and headed for Hind Mine. I now command [[Many]] others who were recruited from the Federal, Imperial and Sirius Navies to serve on the Taurus megaships and elsewhere.”
+The recent counterstrike against the Thargoids has revealed that Salvation is being unofficially supported by trained military personnel.
+Commodore Morag Halloran was a senior officer With the Alliance Defence Force who is now working for Salvation. She sent This statement to the media:
+“Over the last few years, I have fought hard to protect Allied interests from the Thargoids. But Every battle against them felt like a Defensive measure, a holding action. I’m convinced that these creatures are more than capable of wiping us all out.”
+“When an entire Thargoid fleet was forced out of the Cornsar system in September, I approached the Council of Admirals about sending ships to help, but my proposal was rejected. Then Salvation contacted me directly, saying that he required military leadership and my experiences in the Coalsack Nebula made me an ideal candidate.”
+“Along With Lieutenant Commander Glynn and nearly a hundred crewmates, we resigned Our commissions and headed for Hind Mine. I now command Many others who were recruited from the Federal, Imperial and Sirius Navies to serve on the Taurus megaships and elsewhere.”
 “I’m aware that some will view my actions as dereliction of duty, but I believe our true duty is to stop the Thargoids at any cost. And as our recent success proves, only Salvation has the means of doing so.”
-The Alliance Assembly, [[Federal Congress]] and [[Imperial Senate]] have all acknowledged the loss of some military personnel to Salvation’s cause. While efforts are being made to prevent [[Further]] losses, it is rumoured that potential concessions include official support for Salvation’s anti-xeno activities.
+The Alliance Assembly, Federal Congress and Imperial Senate have all acknowledged the loss of some military personnel to Salvation’s cause. While efforts are being made to prevent Further losses, it is rumoured that potential concessions include official support for Salvation’s anti-xeno activities.

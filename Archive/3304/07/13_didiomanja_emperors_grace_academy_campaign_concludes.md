@@ -24,12 +24,12 @@ related_uuids:
 - 0313bbef-6e3f-5e5f-84f8-bdbb81d971f9
 ---
 
-[[Didiomanja]] Emperor’s Grace Academy Campaign Concludes
+Didiomanja Emperor’s Grace Academy Campaign Concludes
 
 
-[[The]] Didiomanja Emperor’s Grace Academy has announced that [[Its]] initiative has reached a successful conclusion. Large quantities of exotic food and drink, and mined resources, were delivered to Leydenfrost Dock over the past week, allowing the organisation to host a sumptuous banquet and construct a monument in honour of Admiral Mira Tiverion. 
+The Didiomanja Emperor’s Grace Academy has announced that Its initiative has reached a successful conclusion. Large quantities of exotic food and drink, and mined resources, were delivered to Leydenfrost Dock over the past week, allowing the organisation to host a sumptuous banquet and construct a monument in honour of Admiral Mira Tiverion. 
 
-A spokesperson for the Didiomanja Emperor’s Grace Academy released [[The following]] statement: 
+A spokesperson for the Didiomanja Emperor’s Grace Academy released The following statement: 
 
 “That was a banquet fit for an emperor. The food was sumptuous, the drink exquisite, and the revelry went on well into the early hours. I am certain Admiral Tiverion would have approved.” 
 

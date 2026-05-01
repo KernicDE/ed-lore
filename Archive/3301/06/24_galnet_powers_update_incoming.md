@@ -14,6 +14,6 @@ GalNet Powers Update Incoming
 
 GalNet Powers Update Incoming 
  
-In [[The]] early hours of tomorrow morning GalNet will be releasing [[The]] latest statistics and activities of the major powers. 
+In The early hours of tomorrow morning GalNet will be releasing The latest statistics and activities of the major powers. 
 
-If you are active [[With]] [[One]] of these powers then make sure that any vouchers and cargo have been delivered before [[This]] happens.
+If you are active With One of these powers then make sure that any vouchers and cargo have been delivered before This happens.

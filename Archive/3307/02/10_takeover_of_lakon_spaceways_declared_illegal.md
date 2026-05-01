@@ -37,9 +37,9 @@ legacy_weight: 2
 significance: low
 ---
 
-[[The]] acquisition of [[Lakon Spaceways]] by [[Core Dynamics]] has been revoked following revelations of illegal activity.
-An inquiry by the [[Independent]] Commission for Market Equality stated that former Core Dynamics CEO [[Jupiter Rochester]] “exerted unduly influence on Lakon shareholders, including bribery and blackmail”. [[This]] led to new appointees to the board of directors, who were paid to approve the hostile takeover.
-The inquiry also factored in the recent Federal High Court trial, [[Which]] proved that [[Jupiter]] [[Rochester]] was directly responsible for the destruction of Starship [[One]] in 3301. In both cases, he set up shell companies to move enormous funds via unregistered banking systems.
-Core Dynamics refused to comment on the allegations, but [[Its]] legal team has terminated the transfer process. [[The entire]] corporation is currently in disarray due to [[Several]] departments becoming an independent faction under the name Jupiter Division.
-At Lakon Spaceways, Trent Delaney and several [[Other]] directors have resigned. During an emergency meeting, a majority of stakeholders approved reinstating Naomi Landseer as chairperson.
-[[With]] stock values plummeting and industry confidence low, the future of the company remains uncertain. However, [[Sirius Corporation]] confirmed that it has made preliminary offers with regards to acquiring Lakon as a subsidiary.
+The acquisition of Lakon Spaceways by Core Dynamics has been revoked following revelations of illegal activity.
+An inquiry by the Independent Commission for Market Equality stated that former Core Dynamics CEO Jupiter Rochester “exerted unduly influence on Lakon shareholders, including bribery and blackmail”. This led to new appointees to the board of directors, who were paid to approve the hostile takeover.
+The inquiry also factored in the recent Federal High Court trial, Which proved that Jupiter Rochester was directly responsible for the destruction of Starship One in 3301. In both cases, he set up shell companies to move enormous funds via unregistered banking systems.
+Core Dynamics refused to comment on the allegations, but Its legal team has terminated the transfer process. The entire corporation is currently in disarray due to Several departments becoming an independent faction under the name Jupiter Division.
+At Lakon Spaceways, Trent Delaney and several Other directors have resigned. During an emergency meeting, a majority of stakeholders approved reinstating Naomi Landseer as chairperson.
+With stock values plummeting and industry confidence low, the future of the company remains uncertain. However, Sirius Corporation confirmed that it has made preliminary offers with regards to acquiring Lakon as a subsidiary.

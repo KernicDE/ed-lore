@@ -20,19 +20,19 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[78 Ursae Majoris]] Reacts to President’s Intended Visit
+78 Ursae Majoris Reacts to President’s Intended Visit
 
 
-Following [[The]] rather strange announcement that President [[Halsey will soon be visiting]] [[The]] ex-Federal system of [[78 Ursae Majoris]], GalNet reached out to local leaders and residents to get their thoughts. 
+Following The rather strange announcement that President Halsey will soon be visiting The ex-Federal system of 78 Ursae Majoris, GalNet reached out to local leaders and residents to get their thoughts. 
 
 “I think it’s excellent that President Halsey is finally showing some interest in what’s happening in the region. It’s a shame she won’t be swinging by Townshend, I’m sure my constituents have plenty they want to say to her about the years of neglect the system suffered under Federal rule.” 
 
-Andrew Bailey, Mayor of Townshend Hub – [[Alioth]] Independents 
+Andrew Bailey, Mayor of Townshend Hub – Alioth Independents 
 
-“The people of 78 Ursae Majoris have made their feelings about the years of neglect very clear. That is now behind us. I say if President [[Halsey wishes]] to make amends, then it is very decent of her to come here and do so in person. Let bygones be bygones. We in the 78 Ursae Majoris for Equality Party are looking forward to the President’s visit, and we hope that it will prove to be a productive experience for the residents of Seddon [[Gateway]].” 
+“The people of 78 Ursae Majoris have made their feelings about the years of neglect very clear. That is now behind us. I say if President Halsey wishes to make amends, then it is very decent of her to come here and do so in person. Let bygones be bygones. We in the 78 Ursae Majoris for Equality Party are looking forward to the President’s visit, and we hope that it will prove to be a productive experience for the residents of Seddon Gateway.” 
 
-Mary Silverstein, Seddon [[Gateway]] - Chair of 78 Ursae Majoris for Equality Party 
+Mary Silverstein, Seddon Gateway - Chair of 78 Ursae Majoris for Equality Party 
 
-“I thought the Lughnatics [[Murdered]] Halsey? She’s coming ’ere, you say? Why? I thought we were pretty clear, !*#@ the Feds, we don’t want ’em. Well... ’ere’s ’oping no [[One]] gets any bright ideas about finishing ’er off, [[This]] place was just finally startin’ ta sort itself out.” 
+“I thought the Lughnatics Murdered Halsey? She’s coming ’ere, you say? Why? I thought we were pretty clear, !*#@ the Feds, we don’t want ’em. Well... ’ere’s ’oping no One gets any bright ideas about finishing ’er off, This place was just finally startin’ ta sort itself out.” 
 
 Gryph Jones, 78 Ursae Majoris B 3 - Farmer

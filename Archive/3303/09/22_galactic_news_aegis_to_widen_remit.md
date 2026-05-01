@@ -19,17 +19,17 @@ legacy_weight: 5
 significance: high
 ---
 
-Galactic News: [[Aegis]] to Widen Remit
+Galactic News: Aegis to Widen Remit
 
 
-A spokesperson for Aegis, [[The]] joint-superpower initiative established to coordinate research into the Thargoids, has confirmed that the organisation is to widen [[Its]] remit. 
+A spokesperson for Aegis, The joint-superpower initiative established to coordinate research into the Thargoids, has confirmed that the organisation is to widen Its remit. 
 
-The development is understood to be a response to the recent [[Thargoid]] attack against Federal ships in the [[Pleiades Sector IR-W d1-55]] system. 
+The development is understood to be a response to the recent Thargoid attack against Federal ships in the Pleiades Sector IR-W d1-55 system. 
 
-[[In a]] statement, the spokesperson said: 
+In a statement, the spokesperson said: 
 
-“Aegis has received sanctions from the leaders of [[All three]] superpowers to focus not only on research, but also on defence. [[This]] reflects a belief that Aegis, [[Which]] includes some of the galaxy’s foremost experts on non-human life, is best positioned to coordinate such efforts.” 
+“Aegis has received sanctions from the leaders of All three superpowers to focus not only on research, but also on defence. This reflects a belief that Aegis, Which includes some of the galaxy’s foremost experts on non-human life, is best positioned to coordinate such efforts.” 
 
-“We understand that some will lament this development, [[But the]] decision was arrived at only after careful consideration, and all parties have agreed on its necessity. Rest assured that [[Our]] research initiatives will continue.” 
+“We understand that some will lament this development, But the decision was arrived at only after careful consideration, and all parties have agreed on its necessity. Rest assured that Our research initiatives will continue.” 
 
 It is understood that the organisation’s budget has been dramatically increased.

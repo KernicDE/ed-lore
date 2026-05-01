@@ -38,9 +38,9 @@ legacy_weight: 4
 significance: medium
 ---
 
-Communications intercepted by [[The]] Proactive Detection Bureau are being used to prevent [[Further]] factions from leaving the Federation.
-A report by the civil rights organisation Advocacy proves that the Federal Intelligence Agency is targeting pro-[[Independence]] individuals via their private messages. In [[Many]] cases, they are being arrested for planning to commit crimes against the constitution.
+Communications intercepted by The Proactive Detection Bureau are being used to prevent Further factions from leaving the Federation.
+A report by the civil rights organisation Advocacy proves that the Federal Intelligence Agency is targeting pro-Independence individuals via their private messages. In Many cases, they are being arrested for planning to commit crimes against the constitution.
 Deputy Director Bethany Blake, who runs the PDB, gave a statement to the media:
-“I can confirm that gathering such intelligence is within [[Our]] legal remit. Unilateral declarations of independence are criminal acts that violate the Federal Accord. Therefore we are identifying perpetrators before they cause harm, [[Which]] is precisely what our surveillance network was established to do.”
-In Congress, Vice President [[Jerome Archer defended]] the PDB for boosting arrest rates and saving lives. However, Congressman Bai Zheng remarked that the PDB was “incapable of locating the NMLA, but fantastic at finding enemies among our own people that didn’t previously exist”.
-Both President Hudson and [[Shadow President]] Winters have personally contacted the leaders of many systems within their spheres of influence, aiming to address their concerns and convince them not to secede from the Federation.
+“I can confirm that gathering such intelligence is within Our legal remit. Unilateral declarations of independence are criminal acts that violate the Federal Accord. Therefore we are identifying perpetrators before they cause harm, Which is precisely what our surveillance network was established to do.”
+In Congress, Vice President Jerome Archer defended the PDB for boosting arrest rates and saving lives. However, Congressman Bai Zheng remarked that the PDB was “incapable of locating the NMLA, but fantastic at finding enemies among our own people that didn’t previously exist”.
+Both President Hudson and Shadow President Winters have personally contacted the leaders of many systems within their spheres of influence, aiming to address their concerns and convince them not to secede from the Federation.

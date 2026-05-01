@@ -28,28 +28,28 @@ significance: medium
 Halsey Honours Heroes
 
 
-Despite [[The]] actions of undercover operatives acting on behalf of [[The]] Crimson State Group aboard [[Hartsfield]] Market, the Federation [[Continues]] to dominate the skies of [[Lugh]]. 
+Despite The actions of undercover operatives acting on behalf of The Crimson State Group aboard Hartsfield Market, the Federation Continues to dominate the skies of Lugh. 
 
-Today President [[Halsey honours those heroes]] who have made the greatest contribution to the war effort.  
+Today President Halsey honours those heroes who have made the greatest contribution to the war effort.  
 
 Among them: 
 
-[[Lugh]]’s top gun, Commander [[Nightwulf]], who has managed to singlehandedly remove almost 14,000 enemy combatants from the field of battle. 
+Lugh’s top gun, Commander Nightwulf, who has managed to singlehandedly remove almost 14,000 enemy combatants from the field of battle. 
 
-Khaka’s top logistics officer, Commander [[Darius Torkalar]], who has personally shipped in 3000 tonnes of weapons into the area. 
+Khaka’s top logistics officer, Commander Darius Torkalar, who has personally shipped in 3000 tonnes of weapons into the area. 
 
 They have been heavily aided in their efforts by: 
 
-Post Commander [[Crownan]] 
+Post Commander Crownan 
 
-Post Commander [[Pablo-Diablo]] 
+Post Commander Pablo-Diablo 
 
 Petty Officer Dave Lukewski III 
 
 As well as: 
 
-The Broker known as Commander [[BadBjarne]] 
+The Broker known as Commander BadBjarne 
 
-The Broker known as Commander [[Ranmust]] 
+The Broker known as Commander Ranmust 
 
 The Merchant known as Commander Vorian Artreides

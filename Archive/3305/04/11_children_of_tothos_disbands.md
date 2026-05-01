@@ -29,12 +29,12 @@ related_uuids:
 Children of Tothos Disbands
 
 
-[[The]] Children of Tothos cult has been forcibly disbanded following [[Its]] recent attempt to destroy Archambault Terminal [[With]] a nuclear weapon. 
+The Children of Tothos cult has been forcibly disbanded following Its recent attempt to destroy Archambault Terminal With a nuclear weapon. 
 
-The aftermath of the crisis was described by Ethan Takahashi of the [[Federal Times]]: 
+The aftermath of the crisis was described by Ethan Takahashi of the Federal Times: 
 
-"There has been widespread gratitude to the Federal Intelligence Agency for saving millions of lives. Senior Agent [[Rochelle Karim]] was praised for exploiting Barnabas Cole's acceptance of new followers, giving her tactical team an opportunity to infiltrate the cult's ranks." 
+"There has been widespread gratitude to the Federal Intelligence Agency for saving millions of lives. Senior Agent Rochelle Karim was praised for exploiting Barnabas Cole's acceptance of new followers, giving her tactical team an opportunity to infiltrate the cult's ranks." 
 
-"Celebrations have been coloured by the news that [[Hundreds of]] starport citizens were ritually [[Murdered]] before the cultists could be apprehended. The FIA has vowed to carry out a review of [[Other]] fringe religions with a view to preventing similar tragedies." 
+"Celebrations have been coloured by the news that Hundreds of starport citizens were ritually Murdered before the cultists could be apprehended. The FIA has vowed to carry out a review of Other fringe religions with a view to preventing similar tragedies." 
 
-"Questions are also being [[Asked about the]] regulation of nuclear research. It is unknown if the Lucifer Device was unique or if other portable mass-casualty weapons have been secretly developed."
+"Questions are also being Asked about the regulation of nuclear research. It is unknown if the Lucifer Device was unique or if other portable mass-casualty weapons have been secretly developed."

@@ -19,15 +19,15 @@ legacy_weight: 5
 significance: high
 ---
 
-Community Goal: [[Core Dynamics]] Campaign
+Community Goal: Core Dynamics Campaign
 
 
-Core Dynamics, [[One]] of [[The]] galaxy's largest starship manufacturers, has announced a new construction initiative in response to the rise in [[Thargoid]] attacks. 
+Core Dynamics, One of The galaxy's largest starship manufacturers, has announced a new construction initiative in response to the rise in Thargoid attacks. 
 
-A spokesperson for Core Dynamics released [[The following]] statement: 
+A spokesperson for Core Dynamics released The following statement: 
 
-"[[The number of]] ships lost to Thargoid attacks is increasing rapidly, leaving us [[With]] no option but to accelerate [[Our]] production schedule. But we cannot do [[This]] without the support of the galactic community." 
+"The number of ships lost to Thargoid attacks is increasing rapidly, leaving us With no option but to accelerate Our production schedule. But we cannot do This without the support of the galactic community." 
 
-[[Guaras]] Blue Creative Partners have agreed to oversee the initiative, asking pilots to deliver titanium, power converters and superconductors to [[Klimuk Ring in the Guaras]] system. When the campaign officially ends on the 28th of December 3303, a discount of up to 20 per cent will be applied to the Federal Dropship, Federal Gunship and Federal Assault Ship for one week. Additionally, the rank requirements for those ships will be temporarily lifted. 
+Guaras Blue Creative Partners have agreed to oversee the initiative, asking pilots to deliver titanium, power converters and superconductors to Klimuk Ring in the Guaras system. When the campaign officially ends on the 28th of December 3303, a discount of up to 20 per cent will be applied to the Federal Dropship, Federal Gunship and Federal Assault Ship for one week. Additionally, the rank requirements for those ships will be temporarily lifted. 
 
-The campaign begins on the 21st of December 3303 and will [[Run]] for one week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 21st of December 3303 and will Run for one week. If the final target is met earlier than planned, the campaign will end immediately.

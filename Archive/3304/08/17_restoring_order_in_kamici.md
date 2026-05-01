@@ -25,8 +25,8 @@ related_uuids:
 Restoring Order in Kamici
 
 
-[[Authorities in [[The]] Kamici]] system have reported a distressing rise in [[The number of]] criminals operating in the area. Reports indicate that these felons are attacking pilots travelling in the system, disrupting trade and generally causing mayhem. 
+Authorities in The Kamici system have reported a distressing rise in The number of criminals operating in the area. Reports indicate that these felons are attacking pilots travelling in the system, disrupting trade and generally causing mayhem. 
 
-To counter [[This]] threat, Kamici Incorporated has placed a kill order on all ships on [[Its]] wanted list, and has promised to reward pilots who deliver bounty vouchers to Gaiman Port. 
+To counter This threat, Kamici Incorporated has placed a kill order on all ships on Its wanted list, and has promised to reward pilots who deliver bounty vouchers to Gaiman Port. 
 
-The campaign begins on 16th of August 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on 16th of August 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

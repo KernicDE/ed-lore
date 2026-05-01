@@ -25,9 +25,9 @@ significance: low
 ---
 
 
-Various Imperial allies, ambassadors and nobles have been [[Summoned]] to [[Capitol]] for a series of meetings [[With]] [[Emperor Arissa Lavigny-Duval]].
-Political journalist Cassia Carvalho provided details for [[The]] [[Imperial Herald]]:
-“There are rumours of [[Many]] behind-the-scenes changes among the upper echelons of power since Emperor Arissa returned. But [[This]] latest event was mostly in the public eye and seemed designed to reassure the citizens of her physical presence.”
+Various Imperial allies, ambassadors and nobles have been Summoned to Capitol for a series of meetings With Emperor Arissa Lavigny-Duval.
+Political journalist Cassia Carvalho provided details for The Imperial Herald:
+“There are rumours of Many behind-the-scenes changes among the upper echelons of power since Emperor Arissa returned. But This latest event was mostly in the public eye and seemed designed to reassure the citizens of her physical presence.”
 “Members from all echelons of the Imperial aristocracy arrived at the palace with their entourages. Court ceremonies were held to reaffirm their fealty to Emperor Arissa, all with as much spectacle and grandeur as possible.”
-“Less public were Arissa’s closed sessions with representatives from the Imperial Diplomatic Corps. Laurentin Sharpe, the Empire’s senior ambassador to the [[Alliance]], said: ‘The purpose of these briefings is to update Her Majesty on political developments that occurred during her absence, and to receive guidance for the future.’”
-“Alongside the parade of familiar faces was [[One]] very unexpected figure: Prime Consul Kayode Tau of the [[Marlinist]] Consulate. His megaship, Fairfax Vision, was afforded full diplomatic immunity when it arrived in [[The Achenar]] system. Considering the turbulent history between the Empire and the Marlinist Colonies, what might Arissa be planning?”
+“Less public were Arissa’s closed sessions with representatives from the Imperial Diplomatic Corps. Laurentin Sharpe, the Empire’s senior ambassador to the Alliance, said: ‘The purpose of these briefings is to update Her Majesty on political developments that occurred during her absence, and to receive guidance for the future.’”
+“Alongside the parade of familiar faces was One very unexpected figure: Prime Consul Kayode Tau of the Marlinist Consulate. His megaship, Fairfax Vision, was afforded full diplomatic immunity when it arrived in The Achenar system. Considering the turbulent history between the Empire and the Marlinist Colonies, what might Arissa be planning?”

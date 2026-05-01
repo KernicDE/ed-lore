@@ -21,7 +21,7 @@ Fight Against Cerberus Plague Gains Ground
 
 Fight Against Cerberus Plague Gains Ground 
  
-[[The]] fight against [[The]] Cerberus Plague, [[Which]] to date has claimed thousands of lives, appears to be gaining ground. Following the efforts of medical teams to deliver the antidote to systems affected by the disease, reports have reached us that the plague has been eradicated from [[The following]] systems: 
+The fight against The Cerberus Plague, Which to date has claimed thousands of lives, appears to be gaining ground. Following the efforts of medical teams to deliver the antidote to systems affected by the disease, reports have reached us that the plague has been eradicated from The following systems: 
 
 Dajoar  
 
@@ -39,7 +39,7 @@ Una
 
 Santjalan 
 
-[[BD-02 4304]] 
+BD-02 4304 
 
 Chongguls 
 
@@ -47,4 +47,4 @@ Xamentii
 
 G 139-50 
 
-Meanwhile, the effort to help those suffering from the disease [[Continues]].
+Meanwhile, the effort to help those suffering from the disease Continues.

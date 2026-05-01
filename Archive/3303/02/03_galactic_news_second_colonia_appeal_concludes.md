@@ -19,8 +19,8 @@ significance: medium
 Galactic News: Second Colonia Appeal Concludes
 
 
-[[The]] second [[Colonia Council]] migration appeal has come to an end. [[Hundreds of]] organisations took part in the campaign, delivering huge quantities of material to [[Jaques Station]] in the hope of earning a place in the Colonia Nebula. 
+The second Colonia Council migration appeal has come to an end. Hundreds of organisations took part in the campaign, delivering huge quantities of material to Jaques Station in the hope of earning a place in the Colonia Nebula. 
 
-[[In a]] statement, a spokesperson for the Colonia Council said: 
+In a statement, a spokesperson for the Colonia Council said: 
 
-"We are immensely grateful to those who contributed to [[This]] appeal, [[Which]] has demonstrated the galactic community's ongoing commitment to the Colonia community. The material we have received will be used in various infrastructure projects throughout the region."
+"We are immensely grateful to those who contributed to This appeal, Which has demonstrated the galactic community's ongoing commitment to the Colonia community. The material we have received will be used in various infrastructure projects throughout the region."

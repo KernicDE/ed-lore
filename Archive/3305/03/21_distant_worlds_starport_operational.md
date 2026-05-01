@@ -27,17 +27,17 @@ related_uuids:
 - 2fe7d0b8-beb9-5bd0-9142-90ec74d15b9e
 ---
 
-[[Distant Worlds]] Starport Operational
+Distant Worlds Starport Operational
 
 
-[[The]] first starport constructed in the Galactic Centre region has officially opened [[Its]] doors. 
+The first starport constructed in the Galactic Centre region has officially opened Its doors. 
 
-Explorer's Anchorage, an Orbis starport, has been built in the [[Stuemeae FG-Y d7561]] system as part of the Distant Worlds II expedition. 
+Explorer's Anchorage, an Orbis starport, has been built in the Stuemeae FG-Y d7561 system as part of the Distant Worlds II expedition. 
 
 Councillor Magnolia Gill, the starport administrator, announced its operational status: 
 
-"For the last four weeks we have watched [[Our]] new home take shape, using materials delivered by [[Many]] hard-working pilots. Now it spins in the galaxy's heart, a monument to humanity's ingenuity." 
+"For the last four weeks we have watched Our new home take shape, using materials delivered by Many hard-working pilots. Now it spins in the galaxy's heart, a monument to humanity's ingenuity." 
 
-"As well as serving as a safe haven for future explorers, Explorer's Anchorage is a scientific research installation. We hope to learn more about the supermassive black hole at Sagittarius A* and [[Other]] astronomical phenomena in the Galactic Centre." 
+"As well as serving as a safe haven for future explorers, Explorer's Anchorage is a scientific research installation. We hope to learn more about the supermassive black hole at Sagittarius A* and Other astronomical phenomena in the Galactic Centre." 
 
-The Distant Worlds II exploration fleet is continuing its journey across the galaxy towards [[Beagle Point]].
+The Distant Worlds II exploration fleet is continuing its journey across the galaxy towards Beagle Point.

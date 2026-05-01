@@ -21,11 +21,11 @@ legacy_weight: 1
 significance: low
 ---
 
-[[Alliance]] and Sirius Corp Pilots Celebrate Agreement
+Alliance and Sirius Corp Pilots Celebrate Agreement
 
 
-[[Alliance]] and Sirius Corp Pilots Celebrate Agreement 
+Alliance and Sirius Corp Pilots Celebrate Agreement 
  
-[[The]] commanders of [[The]] Alliance and [[Sirius Corporation]] are today celebrating the [[One]] month anniversary of the Inter-faction Mutual Benefit Agreement (IMBA). [[This]] agreement declared that pilots of both powers shall aid [[One]] another wherever possible towards goals of mutual profit, in the expansion of business and in actions against mutual enemies.  
+The commanders of The Alliance and Sirius Corporation are today celebrating the One month anniversary of the Inter-faction Mutual Benefit Agreement (IMBA). This agreement declared that pilots of both powers shall aid One another wherever possible towards goals of mutual profit, in the expansion of business and in actions against mutual enemies.  
 
-Pilots of both factions have been bringing commodities unique of their region to [[The capital]] of the [[Other]] power as a sign of goodwill and of respect of an agreement between natural allies.
+Pilots of both factions have been bringing commodities unique of their region to The capital of the Other power as a sign of goodwill and of respect of an agreement between natural allies.

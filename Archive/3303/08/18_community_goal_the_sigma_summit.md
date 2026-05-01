@@ -19,13 +19,13 @@ legacy_weight: 1
 significance: low
 ---
 
-Community Goal: [[The]] Sigma Summit
+Community Goal: The Sigma Summit
 
 
-[[Secoya]] [[Emperor's Grace]] has been announced [[As the]] organiser of [[This]] year's Sigma Summit, a three-day conference for some of the Empire's most powerful individuals. Figures from the worlds of finance, politics and entertainment are expected to attend the event, [[Which]] this year will be held in the Secoya system. 
+Secoya Emperor's Grace has been announced As the organiser of This year's Sigma Summit, a three-day conference for some of the Empire's most powerful individuals. Figures from the worlds of finance, politics and entertainment are expected to attend the event, Which this year will be held in the Secoya system. 
 
-The Summit is not without [[Its]] detractors, [[With]] political commentator Sal Riley recently condemning it as "a grotesquely opulent and outmoded display of self-congratulation". Nevertheless, [[The number of]] influential figures in attendance has prompted suggestions that more policy making is concluded at the Summit than in the Senate. 
+The Summit is not without Its detractors, With political commentator Sal Riley recently condemning it as "a grotesquely opulent and outmoded display of self-congratulation". Nevertheless, The number of influential figures in attendance has prompted suggestions that more policy making is concluded at the Summit than in the Senate. 
 
 As the event approaches, Secoya Emperor's Grace has placed an open order for a range of luxury commodities, promising to reward pilots who delivering master chefs, Kamitra cigars and Sanuma decorative meat to Joy Port in the Secoya system. 
 
-The campaign begins on the 17th of August 3303 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 17th of August 3303 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

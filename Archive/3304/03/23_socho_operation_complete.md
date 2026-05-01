@@ -21,13 +21,13 @@ legacy_weight: 5
 significance: high
 ---
 
-[[Socho]] Operation Complete
+Socho Operation Complete
 
 
-[[The]] operation to clear Socho of Thargoids has reached a successful conclusion. Scores of pilots supported the campaign by eliminating [[Thargoid]] vessels in the system, and by delivering alien material to Dantec [[Enterprise]]. 
+The operation to clear Socho of Thargoids has reached a successful conclusion. Scores of pilots supported the campaign by eliminating Thargoid vessels in the system, and by delivering alien material to Dantec Enterprise. 
 
-A spokesperson for [[Aegis]] Core, [[Which]] oversaw the initiative, made [[The following]] statement: 
+A spokesperson for Aegis Core, Which oversaw the initiative, made The following statement: 
 
 “The pilots who took part in the operation have my thanks – they showed some real mettle. I can’t promise the material they delivered will lead to any momentous discoveries, but you never know.” 
 
-Pilots who contributed to the initiative can now collect their rewards from Dantec Enterprise in [[The Socho]] system.
+Pilots who contributed to the initiative can now collect their rewards from Dantec Enterprise in The Socho system.

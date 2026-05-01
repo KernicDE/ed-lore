@@ -27,15 +27,15 @@ related_uuids:
 - d0865fea-f2ad-5f69-a30d-5d82d30413b9
 ---
 
-[[The]] Presidential Power Struggle
+The Presidential Power Struggle
 
 
-[[With the]] [[Alliance]] presidential race gathering speed, political journalist Vanya Driscoll has published an analysis in The Alliance Tribune: 
+With the Alliance presidential race gathering speed, political journalist Vanya Driscoll has published an analysis in The Alliance Tribune: 
 
-“The election of a new president is usually a ceremonial matter, during [[Which]] voters select a public ‘face’ for the Alliance, but [[This]] year is a genuine power struggle – [[One]] that may have major consequences.” 
+“The election of a new president is usually a ceremonial matter, during Which voters select a public ‘face’ for the Alliance, but This year is a genuine power struggle – One that may have major consequences.” 
 
-“Elijah Beck is the only candidate who seems content [[With]] the status quo. By contrast, entrepreneur Fazia Silva promises to boost the economy and increase commerce. Her new financial policies have been welcomed by interstellar corporations and small businesses alike.” 
+“Elijah Beck is the only candidate who seems content With the status quo. By contrast, entrepreneur Fazia Silva promises to boost the economy and increase commerce. Her new financial policies have been welcomed by interstellar corporations and small businesses alike.” 
 
-“President [[Gibson Kincaid]] is causing the most controversy, however. His proposal that the role of president should include executive powers is being taken seriously by the Assembly. [[Kincaid]] claims that having a single controlling voice will enable the Alliance to ‘challenge [[Our]] rivals’ dominance’.” 
+“President Gibson Kincaid is causing the most controversy, however. His proposal that the role of president should include executive powers is being taken seriously by the Assembly. Kincaid claims that having a single controlling voice will enable the Alliance to ‘challenge Our rivals’ dominance’.” 
 
-“There is a surprising amount of support for this combative rhetoric. [[Many]] agree that the Alliance could be stronger, and that Prime Minister Mahon is often hamstrung by bureaucracy. Rumours suggest that the Empire and Federation are watching this election [[Far]] more closely than usual.”
+“There is a surprising amount of support for this combative rhetoric. Many agree that the Alliance could be stronger, and that Prime Minister Mahon is often hamstrung by bureaucracy. Rumours suggest that the Empire and Federation are watching this election Far more closely than usual.”

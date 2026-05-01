@@ -25,12 +25,12 @@ related_uuids:
 Nuclear Weapon Stolen
 
 
-[[The]] Federal Intelligence Agency has discovered that a nuclear weapon has been taken from an unregistered outpost. 
+The Federal Intelligence Agency has discovered that a nuclear weapon has been taken from an unregistered outpost. 
 
-Senior Agent [[Rochelle Karim]] made [[The following]] statement: 
+Senior Agent Rochelle Karim made The following statement: 
 
-"[[Further]] examination of the outpost discovered last week confirms that it was home to unlicensed nuclear research. Personnel at the site were constructing a portable fusion warhead codenamed the Lucifer Device." 
+"Further examination of the outpost discovered last week confirms that it was home to unlicensed nuclear research. Personnel at the site were constructing a portable fusion warhead codenamed the Lucifer Device." 
 
-"[[One]] operational prototype was produced, but we have failed to locate it. [[Our]] assumption is that whoever invaded the base now possesses a movable bomb [[With]] a 300 megaton yield – enough to destroy an entire city." 
+"One operational prototype was produced, but we have failed to locate it. Our assumption is that whoever invaded the base now possesses a movable bomb With a 300 megaton yield – enough to destroy an entire city." 
 
-"[[This]] investigation is a top priority and we are exploring all available leads."
+"This investigation is a top priority and we are exploring all available leads."

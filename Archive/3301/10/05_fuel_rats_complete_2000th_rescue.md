@@ -23,19 +23,19 @@ legacy_weight: 1
 significance: low
 ---
 
-[[Fuel Rats]] Complete 2,000th Rescue
+Fuel Rats Complete 2,000th Rescue
 
 
 Fuel Rats Complete 2,000th Rescue 
  
-In [[The]] 38 days since the Fuel Rats' last made headlines, the group has rescued a [[Further]] 1,000 ships, bringing the total number of Commanders saved from a frustrating insurance experience to 2,000. 
+In The 38 days since the Fuel Rats' last made headlines, the group has rescued a Further 1,000 ships, bringing the total number of Commanders saved from a frustrating insurance experience to 2,000. 
 
-Financial experts have speculated that [[This]] service could have saved the Galactic economy as much as 1 billion credits in insurance buyback premiums, not counting the value of lost cargo, exploration data, and bounty vouchers. 
+Financial experts have speculated that This service could have saved the Galactic economy as much as 1 billion credits in insurance buyback premiums, not counting the value of lost cargo, exploration data, and bounty vouchers. 
 
-[[In a]] statement, the Fuel Rats extended special congratulations to Commander [[KitsuneThe Fluff]] and Commander [[Radlock]] for [[Each]] achieving 100 individual rescues, [[With]] Commander [[KitsuneThe Fluff being]] the first to achieve this distinction. Commander [[Radlok]] was also singled out for praise after completing 100 rescues in just 45 days. 
+In a statement, the Fuel Rats extended special congratulations to Commander KitsuneThe Fluff and Commander Radlock for Each achieving 100 individual rescues, With Commander KitsuneThe Fluff being the first to achieve this distinction. Commander Radlok was also singled out for praise after completing 100 rescues in just 45 days. 
 
 On behalf of the galaxy at large, we thank you for your service, Commanders. The dedication you have shown in saving your fellow spacefarers from misfortune is to be applauded. 
 
-Commander [[Ceska Zbrojovka]] 
+Commander Ceska Zbrojovka 
 
-[[Radio Sidewinder News]]
+Radio Sidewinder News

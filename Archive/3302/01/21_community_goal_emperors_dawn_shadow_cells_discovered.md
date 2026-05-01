@@ -25,13 +25,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Community Goal: [[Emperor's Dawn]] 'Shadow' Cells Discovered
+Community Goal: Emperor's Dawn 'Shadow' Cells Discovered
 
 
-When [[The]] [[Federal Navy]] destroyed the Emperor's Dawn base in the Kausalya system in December, [[Many]] believed the organisation had finally been defeated. The Federal offensive, [[Which]] was supported by a large deputation from the Federal Navy Auxiliary, was swift and merciless, and resulted in the total destruction of the insurgent outpost. But a statement from the office of Imperial Senator [[Denton Patreus indicates that]], against all odds, Emperor's Dawn has endured. 
+When The Federal Navy destroyed the Emperor's Dawn base in the Kausalya system in December, Many believed the organisation had finally been defeated. The Federal offensive, Which was supported by a large deputation from the Federal Navy Auxiliary, was swift and merciless, and resulted in the total destruction of the insurgent outpost. But a statement from the office of Imperial Senator Denton Patreus indicates that, against all odds, Emperor's Dawn has endured. 
 
-"The [[Imperial Internal Security Service]] has discovered that Emperor's Dawn has 'shadow' cells in the [[Dakshmandi]], [[Ipilyaqa and Ch'i Lin]] systems – secret outposts that were apparently designed to protect the organisation's leadership in the event of a military defeat. It is of course vital to the continued security of the Empire and [[Its]] people that these outposts be neutralised as swiftly as possible. If it is not, Emperor's Dawn could re-emerge to threaten the galaxy once again." 
+"The Imperial Internal Security Service has discovered that Emperor's Dawn has 'shadow' cells in the Dakshmandi, Ipilyaqa and Ch'i Lin systems – secret outposts that were apparently designed to protect the organisation's leadership in the event of a military defeat. It is of course vital to the continued security of the Empire and Its people that these outposts be neutralised as swiftly as possible. If it is not, Emperor's Dawn could re-emerge to threaten the galaxy once again." 
 
-Senator [[Patreus went]] on to issue a call to arms: 
+Senator Patreus went on to issue a call to arms: 
 
-"Swiftly neutralising these outposts depends on the support of the galactic community, and to [[This]] end I have authorised the payment of privateer bonds to any pilots who help [[With the]] offensive against Emperor's Dawn. Let us destroy these vile dissidents once and for all."
+"Swiftly neutralising these outposts depends on the support of the galactic community, and to This end I have authorised the payment of privateer bonds to any pilots who help With the offensive against Emperor's Dawn. Let us destroy these vile dissidents once and for all."

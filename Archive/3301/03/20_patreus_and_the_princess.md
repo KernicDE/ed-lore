@@ -11,9 +11,9 @@ legacy_weight: 1
 significance: low
 ---
 
-Patreus and [[The]] Princess
+Patreus and The Princess
 
 
-Senator Patreus and [[Aisling Duval]] have been spotted out and about on Faece [[This]] weekend. [[The]] Empire’s newest power couple took to the fashion halls for a pleasant afternoon shopping spree, accompanied by a vast entourage of followers and hangers-on. 
+Senator Patreus and Aisling Duval have been spotted out and about on Faece This weekend. The Empire’s newest power couple took to the fashion halls for a pleasant afternoon shopping spree, accompanied by a vast entourage of followers and hangers-on. 
 
 The couple walked hand in hand as security cleared the way for them to enter shops and purchase beverages. The pair spent around three hours perusing the goods on offer in the Faece fashion halls, before retiring to Senator Patreus’s ship for a light dinner.

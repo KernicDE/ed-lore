@@ -22,10 +22,10 @@ Imperial Citizenry Pays Tribute to Late Emperor
 
 Imperial Citizenry Pays Tribute to Late Emperor 
  
-[[Far]] from [[The]] Hall of Martyrs, Imperial citizens across [[The]] Empire have been paying tribute to the late Emperor. [[Many local]] system authorities have renamed landmarks and buildings in his honour, and a few have commissioned architects and artists to create new memorials in local capitals. The grandest of these designs has been commissioned by [[The Facece]] Empire Party on Topaz, featuring a modernist interpretation of the late Emperor sat atop a triumphal arch in [[The capital]]'s main square. A statement released by the [[Facece]] Empire Party reads: "[[This]] minimalist sculpture will represent the spirit of the late Emperor, and all those who went before him, as a caretaker watching over the people". 
+Far from The Hall of Martyrs, Imperial citizens across The Empire have been paying tribute to the late Emperor. Many local system authorities have renamed landmarks and buildings in his honour, and a few have commissioned architects and artists to create new memorials in local capitals. The grandest of these designs has been commissioned by The Facece Empire Party on Topaz, featuring a modernist interpretation of the late Emperor sat atop a triumphal arch in The capital's main square. A statement released by the Facece Empire Party reads: "This minimalist sculpture will represent the spirit of the late Emperor, and all those who went before him, as a caretaker watching over the people". 
 
 Pilots’ bars have become more akin to literary salons of late, as commanders attempt to unravel the mystery behind Brendan Paul Darius' motives, and determine the existence of a possible mastermind behind the shocking assassination. 
 
-Perhaps the greatest tributes have come from the ordinary Imperial citizenry. In the days since the Emperor's death, the Office of Imperial Statistics has reported a 16% upsurge in newborn males being named "[[Hengist]]", reflecting the populace's great affection for their late head of state. 
+Perhaps the greatest tributes have come from the ordinary Imperial citizenry. In the days since the Emperor's death, the Office of Imperial Statistics has reported a 16% upsurge in newborn males being named "Hengist", reflecting the populace's great affection for their late head of state. 
 
 Commander Stateira "Starcloak" Eleshenar

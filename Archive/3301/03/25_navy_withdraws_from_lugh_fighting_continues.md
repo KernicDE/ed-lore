@@ -19,13 +19,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-Navy Withdraws from [[Lugh]] – Fighting [[Continues]]
+Navy Withdraws from Lugh – Fighting Continues
 
 
-Following last night’s special session, Congress has decided to temporarily pull [[The]] [[Federal Navy]] from active duty in [[Lugh]]. Navy vessels are currently in [[The]] process of being diverted to Qureshi [[Enterprise]] in Khaka, where they will remain until such time as Congress decides on how to best end the current conflict. 
+Following last night’s special session, Congress has decided to temporarily pull The Federal Navy from active duty in Lugh. Navy vessels are currently in The process of being diverted to Qureshi Enterprise in Khaka, where they will remain until such time as Congress decides on how to best end the current conflict. 
 
-Despite the official withdrawal of the [[Federal Navy]], Lugh [[Continues]] to find itself embroiled in an ongoing civil war between the Crimson State Group and the [[Lugh for Equality]] Party. The outcome of [[Which]] is still [[Far]] from certain. 
+Despite the official withdrawal of the Federal Navy, Lugh Continues to find itself embroiled in an ongoing civil war between the Crimson State Group and the Lugh for Equality Party. The outcome of Which is still Far from certain. 
 
- So [[Far]] on the Federal side, [[Lugh for Equality]] has managed to gain control over the skies of Lugh. On the [[Other]] side of the war, the native Crimson State Group has managed to take a significant advantage in terms of acquiring armaments for their ground troops.  
+ So Far on the Federal side, Lugh for Equality has managed to gain control over the skies of Lugh. On the Other side of the war, the native Crimson State Group has managed to take a significant advantage in terms of acquiring armaments for their ground troops.  
 
-The Federal forces need more guns, while the CSG need more dedicated combat pilots. [[With]] millions of residents having already lost their lives in the fight for an [[Independent]] Lugh, it seems that neither group will give up the fight without a decisive outcome.
+The Federal forces need more guns, while the CSG need more dedicated combat pilots. With millions of residents having already lost their lives in the fight for an Independent Lugh, it seems that neither group will give up the fight without a decisive outcome.

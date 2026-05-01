@@ -27,23 +27,23 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: Analysis from [[The]] Galaxy’s Most Powerful
+Galactic News: Analysis from The Galaxy’s Most Powerful
 
 
-A number of the galaxy’s most powerful figures have commented on the current galactic landscape, addressing issues such [[As the]] return of Thargoids and the recent discovery of outposts formerly occupied by the [[Intergalactic Naval Reserve Arm]]. 
+A number of the galaxy’s most powerful figures have commented on the current galactic landscape, addressing issues such As the return of Thargoids and the recent discovery of outposts formerly occupied by the Intergalactic Naval Reserve Arm. 
 
-[[At a society event in the Cubeo]] system, Princess [[Aisling Duval]] said: 
+At a society event in the Cubeo system, Princess Aisling Duval said: 
 
-“I read the [[INRA]] records, and frankly I was sickened. How could they treat living creatures that way? I’ve heard of governments inventing threats to support their military programmes. Maybe that’s what the INRA was. A smokescreen.” 
+“I read the INRA records, and frankly I was sickened. How could they treat living creatures that way? I’ve heard of governments inventing threats to support their military programmes. Maybe that’s what the INRA was. A smokescreen.” 
 
 Duval was ushered away from reporters by her publicist before she could say any more. 
 
-[[Senator [[Denton]] Patreus]], who has spent little time in the public eye since his defeat of the insurgent organisation Emperor’s Dawn, made [[The following]] statement on the ‘Galaxy Now’ programme: 
+Senator Denton Patreus, who has spent little time in the public eye since his defeat of the insurgent organisation Emperor’s Dawn, made The following statement on the ‘Galaxy Now’ programme: 
 
-“I have reviewed much of the available intelligence on the Thargoids, and it is clear that we are facing a formidable threat. Granted, we do not know the reasons for their hostility, but in my experience such details are rarely [[Important]] – what’s important is knowing where and when to strike.” 
+“I have reviewed much of the available intelligence on the Thargoids, and it is clear that we are facing a formidable threat. Granted, we do not know the reasons for their hostility, but in my experience such details are rarely Important – what’s important is knowing where and when to strike.” 
 
-“The formation of [[Aegis]] is in my view a sound strategy, and represents a sensible response to [[This]] threat. Furthermore, I know Aden Tanner well, and I wholeheartedly believe he is the right man to be guiding Aegis’s military strategy.” 
+“The formation of Aegis is in my view a sound strategy, and represents a sensible response to This threat. Furthermore, I know Aden Tanner well, and I wholeheartedly believe he is the right man to be guiding Aegis’s military strategy.” 
 
-[[Li Yong-Rui]], CEO of the [[Sirius Corporation]], also offered an appraisal of the situation: 
+Li Yong-Rui, CEO of the Sirius Corporation, also offered an appraisal of the situation: 
 
-“If there’s [[One]] thing these INRA logs make plain, it’s that humanity is capable of defeating the Thargoids, especially when we work together. And remember, most of the galaxy is functioning exactly as it always has, despite the presence of these alien aggressors. So let’s maintain some perspective, shall we?”
+“If there’s One thing these INRA logs make plain, it’s that humanity is capable of defeating the Thargoids, especially when we work together. And remember, most of the galaxy is functioning exactly as it always has, despite the presence of these alien aggressors. So let’s maintain some perspective, shall we?”

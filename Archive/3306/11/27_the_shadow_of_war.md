@@ -32,19 +32,19 @@ related_uuids:
 - 5b6c21df-96dd-53ef-bc3f-c12ea9c4838e
 ---
 
-[[The]] Shadow of War
+The Shadow of War
 
 
-NMLA terrorist attacks and the [[Marlinist]] refugee crisis have driven an increase in military spending from both the Empire and the Federation. 
+NMLA terrorist attacks and the Marlinist refugee crisis have driven an increase in military spending from both the Empire and the Federation. 
 
-The [[Federal Times]] has reported on [[President Zachary Hudson]]’s actions: 
+The Federal Times has reported on President Zachary Hudson’s actions: 
 
-“Building on the public outcry following the Neo-Marlinist bombing of a Federal starport, President Hudson has positioned himself once again [[As the]] Federation’s strongman. [[This]] is clearly a calculated effort to regain political power after negative associations from the Starship [[One]] trial.” 
+“Building on the public outcry following the Neo-Marlinist bombing of a Federal starport, President Hudson has positioned himself once again As the Federation’s strongman. This is clearly a calculated effort to regain political power after negative associations from the Starship One trial.” 
 
-“[[Shadow President]] [[Felicia Winters]]’s acceptance of Marlinist refugees has lost popularity, now that terrorists concealed among them have [[Murdered]] thousands. However, cooler heads in Congress agree that provoking the Empire could lead to a [[Far]] greater death toll.” 
+“Shadow President Felicia Winters’s acceptance of Marlinist refugees has lost popularity, now that terrorists concealed among them have Murdered thousands. However, cooler heads in Congress agree that provoking the Empire could lead to a Far greater death toll.” 
 
-The Empire’s response mirrored [[Its]] counterpart, as observed by The [[Imperial Herald]]: 
+The Empire’s response mirrored Its counterpart, as observed by The Imperial Herald: 
 
-“As well as the construction of new capital ships, [[Senator [[Denton]] Patreus]] has also ordered the withdrawal of funding for [[Aegis]]. The Senate’s consensus is that since [[Thargoid]] activity has reduced, the focus should now be on the Federation as well as the internal threat of the NMLA.” 
+“As well as the construction of new capital ships, Senator Denton Patreus has also ordered the withdrawal of funding for Aegis. The Senate’s consensus is that since Thargoid activity has reduced, the focus should now be on the Federation as well as the internal threat of the NMLA.” 
 
 “Cooperation between the superpowers is rapidly coming to an end, leading to a state of interstellar brinkmanship. There is a real possibility that the Neo-Marlinists’ demand for revolutionary change may have broader repercussions than they intended.”

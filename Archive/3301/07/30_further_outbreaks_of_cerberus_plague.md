@@ -15,12 +15,12 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[Further]] Outbreaks of Cerberus Plague
+Further Outbreaks of Cerberus Plague
 
 
-[[Further]] Outbreaks of Cerberus Plague 
+Further Outbreaks of Cerberus Plague 
  
-While medical teams across [[The]] galaxy work to develop [[The]] quantities of antidote needed to eliminate the Cerberus Plague, fresh outbreaks of the disease are appearing in [[Other]] systems. [[Our sources indicate that the following]] systems are currently affected by the Cerberus Plague: 
+While medical teams across The galaxy work to develop The quantities of antidote needed to eliminate the Cerberus Plague, fresh outbreaks of the disease are appearing in Other systems. Our sources indicate that the following systems are currently affected by the Cerberus Plague: 
 
 Chongguls 
 
@@ -42,4 +42,4 @@ BD-11 4280
 
 Louguala 
 
-Any [[Independent]] pilots who wish to help those affected are encouraged to deliver medicines to the systems listed above.
+Any Independent pilots who wish to help those affected are encouraged to deliver medicines to the systems listed above.

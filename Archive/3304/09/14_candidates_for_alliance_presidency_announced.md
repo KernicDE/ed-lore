@@ -30,17 +30,17 @@ related_uuids:
 - a950b069-65d4-569a-b55c-6ce84123e10e
 ---
 
-Candidates for [[Alliance]] Presidency Announced
+Candidates for Alliance Presidency Announced
 
 
-[[The]] candidates in the Alliance presidential election have been announced. 
+The candidates in the Alliance presidential election have been announced. 
 
 Political journalist Vanya Driscoll shared the news in The Alliance Tribune: 
 
-“The candidates running against President [[Gibson Kincaid]], who is seeking a second term, have now launched their campaigns.” 
+“The candidates running against President Gibson Kincaid, who is seeking a second term, have now launched their campaigns.” 
 
-“Fazia Silva is a successful entrepreneur from the [[Vamm]] system. Although lacking political experience, she intends to leverage her business acumen to increase trade and boost economies throughout the Alliance. She has delegated control of her corporate empire to her sister, freeing her to [[Run]] for office.” 
+“Fazia Silva is a successful entrepreneur from the Vamm system. Although lacking political experience, she intends to leverage her business acumen to increase trade and boost economies throughout the Alliance. She has delegated control of her corporate empire to her sister, freeing her to Run for office.” 
 
-“Elijah Beck, by contrast, is a highly experienced politician. [[Hailing from the Leesti]] system, he has served in the Assembly for over four decades. He is generally considered a safe pair of hands, but it’s unlikely that he would bring about any significant changes as president.” 
+“Elijah Beck, by contrast, is a highly experienced politician. Hailing from the Leesti system, he has served in the Assembly for over four decades. He is generally considered a safe pair of hands, but it’s unlikely that he would bring about any significant changes as president.” 
 
-“Recent polls suggest that [[Kincaid]], Silva and Beck are roughly equal in terms of popular support, but it’s still early days. [[All three]] will vigorously campaign for support in the coming weeks, in advance of the public vote on Tuesday the 16th of [[October]].”
+“Recent polls suggest that Kincaid, Silva and Beck are roughly equal in terms of popular support, but it’s still early days. All three will vigorously campaign for support in the coming weeks, in advance of the public vote on Tuesday the 16th of October.”

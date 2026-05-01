@@ -39,10 +39,10 @@ legacy_weight: 4
 significance: medium
 ---
 
-[[The]] [[Affiliated Counter-Terrorism unit]] has published an update on [[Its]] investigation into the [[Neo-[[Marlinist]] Liberation Army]].
-Senior Agent [[Tanya Ramirez]], [[One]] of ACT’s joint leaders, gave a statement to the media:
-“ACT is currently pursuing multiple lines of enquiry, [[Which]] must remain classified for reasons of security. [[Our]] agents are gathering evidence from sites across the [[Alliance]], Empire and Federation.”
-“As yet we cannot report any significant breakthroughs. NMLA activists appear to use a dark-comms network that defies detection. They also compartmentalise their operations, so individual cells have little knowledge of [[Each]] [[Other]].”
-“In recent months, NMLA incidents have been restricted to minor strikes against Imperial authorities, which were dealt [[With]] by local police forces. There has been no activity by Theta Group, the hardcore extremists responsible for the ‘Nine Martyrs’ starport bombings.”
-“The collapse of the Neo-Marlinist Order of [[Mudhrid]] may have deprived the NMLA of their logistical capability to deliver large-scale attacks. But it remains possible that a new wave of terrorist atrocities is being planned.”
-ACT later confirmed that it has recruited additional personnel from Alliance Interpol, the Federal Intelligence Agency, the [[Imperial Internal Security Service]], the Marlinist Constabulary, [[Nova Imperium]]’s Praetorian Guard and the [[Wallglass Investigations Agency]].
+The Affiliated Counter-Terrorism unit has published an update on Its investigation into the Neo-Marlinist Liberation Army.
+Senior Agent Tanya Ramirez, One of ACT’s joint leaders, gave a statement to the media:
+“ACT is currently pursuing multiple lines of enquiry, Which must remain classified for reasons of security. Our agents are gathering evidence from sites across the Alliance, Empire and Federation.”
+“As yet we cannot report any significant breakthroughs. NMLA activists appear to use a dark-comms network that defies detection. They also compartmentalise their operations, so individual cells have little knowledge of Each Other.”
+“In recent months, NMLA incidents have been restricted to minor strikes against Imperial authorities, which were dealt With by local police forces. There has been no activity by Theta Group, the hardcore extremists responsible for the ‘Nine Martyrs’ starport bombings.”
+“The collapse of the Neo-Marlinist Order of Mudhrid may have deprived the NMLA of their logistical capability to deliver large-scale attacks. But it remains possible that a new wave of terrorist atrocities is being planned.”
+ACT later confirmed that it has recruited additional personnel from Alliance Interpol, the Federal Intelligence Agency, the Imperial Internal Security Service, the Marlinist Constabulary, Nova Imperium’s Praetorian Guard and the Wallglass Investigations Agency.

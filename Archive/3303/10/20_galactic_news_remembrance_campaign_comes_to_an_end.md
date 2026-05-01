@@ -14,10 +14,10 @@ significance: low
 Galactic News: Remembrance Campaign Comes to an End
 
 
-A spokesperson for [[The]] Labour Union of Kauruk has announced that the organisation’s Remembrance Week has been resoundingly endorsed by the galactic community. [[Hundreds of]] pilots flocked to Moore Terminal over the past week, taking the opportunity to pay their respects to departed friends and loved ones. 
+A spokesperson for The Labour Union of Kauruk has announced that the organisation’s Remembrance Week has been resoundingly endorsed by the galactic community. Hundreds of pilots flocked to Moore Terminal over the past week, taking the opportunity to pay their respects to departed friends and loved ones. 
 
-[[As the]] campaign drew to a close, the spokesperson released a brief statement: 
+As the campaign drew to a close, the spokesperson released a brief statement: 
 
-“We would like to thank all those who supported [[This]] initiative. We hope it gave you an opportunity not only to celebrate absent friends and family, but also to form new bonds [[With]] [[Other]] members of the galactic community.” 
+“We would like to thank all those who supported This initiative. We hope it gave you an opportunity not only to celebrate absent friends and family, but also to form new bonds With Other members of the galactic community.” 
 
-Pilots who contributed to the campaign can now collect their rewards from [[Moore Terminal in the Kauruk]] system.
+Pilots who contributed to the campaign can now collect their rewards from Moore Terminal in the Kauruk system.

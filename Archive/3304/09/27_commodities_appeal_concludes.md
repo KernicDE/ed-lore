@@ -31,14 +31,14 @@ related_uuids:
 Commodities Appeal Concludes
 
 
-[[The]] competing campaigns from technology companies Supratech and Herculean Machines have come to an end. Huge quantities of technological components were contributed to the initiatives, [[Which]] will be used to support the manufacture of new personal computers. 
+The competing campaigns from technology companies Supratech and Herculean Machines have come to an end. Huge quantities of technological components were contributed to the initiatives, Which will be used to support the manufacture of new personal computers. 
 
-[[As the]] Supratech campaign drew to an end, company CEO [[Scorpio DeVorrow issued]] [[The following]] statement:  
+As the Supratech campaign drew to an end, company CEO Scorpio DeVorrow issued The following statement:  
 
-“I can’t thank the galactic community enough for [[Its]] support. We believe the Torc is something really special, and due to the support we’ve had we can begin manufacture at once.” 
+“I can’t thank the galactic community enough for Its support. We believe the Torc is something really special, and due to the support we’ve had we can begin manufacture at once.” 
 
-His business rival Maddox Hurd, CEO of Herculean Machines, had [[This]] to say: 
+His business rival Maddox Hurd, CEO of Herculean Machines, had This to say: 
 
 “We’ve received an awe-inspiring response, proving that pilots everywhere want technology that can stand the test of time.” 
 
-Pilots who contributed commodities to Supratech can collect their rewards from [[Roberts Port in the Fedmich]] system, while pilots who contributed commodities to Herculean Machines can collect their rewards from Cowper Dock in the Anima system.
+Pilots who contributed commodities to Supratech can collect their rewards from Roberts Port in the Fedmich system, while pilots who contributed commodities to Herculean Machines can collect their rewards from Cowper Dock in the Anima system.

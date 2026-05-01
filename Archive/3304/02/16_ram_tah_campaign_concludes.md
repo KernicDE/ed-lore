@@ -23,13 +23,13 @@ legacy_weight: 4
 significance: high
 ---
 
-[[Ram Tah]] Campaign Concludes
+Ram Tah Campaign Concludes
 
 
-Ram Tah has announced that [[The]] galactic community has responded positively to his appeal for Guardian artefacts, resulting [[In a]] large number of deliveries to Felice Dock. The engineer will now subject the artefacts to extensive analysis. 
+Ram Tah has announced that The galactic community has responded positively to his appeal for Guardian artefacts, resulting In a large number of deliveries to Felice Dock. The engineer will now subject the artefacts to extensive analysis. 
 
-[[As the]] campaign drew to a close, Ram Tah issued [[The following]] statement: 
+As the campaign drew to a close, Ram Tah issued The following statement: 
 
-“My heartfelt thanks go to all those who supported [[This]] initiative. I’ve already started work and I should have something to share [[With]] you soon.” 
+“My heartfelt thanks go to all those who supported This initiative. I’ve already started work and I should have something to share With you soon.” 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Felice Dock in the Meene]] system.
+Pilots who contributed to the initiative can now collect their rewards from Felice Dock in the Meene system.

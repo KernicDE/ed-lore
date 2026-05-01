@@ -24,17 +24,17 @@ related_uuids:
 - af2a3a5c-8f94-5646-b3c6-c979797cdd11
 ---
 
-[[Aisling Duval]] Condemns Autonomy Group
+Aisling Duval Condemns Autonomy Group
 
 
-Anti-slavery charity Unchain has criticised [[The]] radical activist group Autonomy for liberating 4,000 Imperial slaves on [[Eotienses]] A 3. 
+Anti-slavery charity Unchain has criticised The radical activist group Autonomy for liberating 4,000 Imperial slaves on Eotienses A 3. 
 
 Princess Aisling Duval, the charity's patron, told the media: 
 
-"I fully appreciate Garrett Kline's desire to free slaves, [[Which]] I'm sure comes from a place of genuine empathy, but I feel I must condemn his methods. Autonomy's reckless actions have left thousands stranded in Port Isabelle without employment or protection." 
+"I fully appreciate Garrett Kline's desire to free slaves, Which I'm sure comes from a place of genuine empathy, but I feel I must condemn his methods. Autonomy's reckless actions have left thousands stranded in Port Isabelle without employment or protection." 
 
-"Unchain has [[Run]] similar operations to give illegal slaves their freedom, but licensed Imperial slaves require more care. The manumission process must be managed legally by a registered organisation, and [[Each]] individual's wellbeing ensured. You cannot simply set huge numbers of people loose as if they were zoo animals being released into the wild." 
+"Unchain has Run similar operations to give illegal slaves their freedom, but licensed Imperial slaves require more care. The manumission process must be managed legally by a registered organisation, and Each individual's wellbeing ensured. You cannot simply set huge numbers of people loose as if they were zoo animals being released into the wild." 
 
-"My dream is that [[One]] day the Empire will abolish [[The indentured servitude]] system, and that [[Every]] form of slavery will end. But until then, all emancipation efforts must operate within the law." 
+"My dream is that One day the Empire will abolish The indentured servitude system, and that Every form of slavery will end. But until then, all emancipation efforts must operate within the law." 
 
-The situation in Port Isabelle remains tense, [[With]] thousands of emancipated individuals still clustered around makeshift shelters and occupied public buildings, begging for food and credits.
+The situation in Port Isabelle remains tense, With thousands of emancipated individuals still clustered around makeshift shelters and occupied public buildings, begging for food and credits.

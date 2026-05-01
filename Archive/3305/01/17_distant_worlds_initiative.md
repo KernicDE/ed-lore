@@ -28,17 +28,17 @@ related_uuids:
 - 18391d47-7d7f-5403-92e1-d6f8153a3112
 ---
 
-[[Distant Worlds]] Initiative
+Distant Worlds Initiative
 
 
-[[The]] Omega Mining Corporation has requested deliveries of raw materials for a new Orbis starport, to be built in the heart of the galaxy. 
+The Omega Mining Corporation has requested deliveries of raw materials for a new Orbis starport, to be built in the heart of the galaxy. 
 
-The construction of the starport constitutes part of the ambitious Distant Worlds II expedition. Project leader [[Erimus]] Kamzel told the media: 
+The construction of the starport constitutes part of the ambitious Distant Worlds II expedition. Project leader Erimus Kamzel told the media: 
 
-"The Distant Worlds fleet is privileged to be at the forefront of [[This]] ambitious industrial and scientific initiative – humanity's first starport in the Galactic Centre region." 
+"The Distant Worlds fleet is privileged to be at the forefront of This ambitious industrial and scientific initiative – humanity's first starport in the Galactic Centre region." 
 
-[[Independent]] miners are invited to deliver shipments of Indite, Gallite, Praseodymium and Cobalt to Omega Mining Operation in the Omega Sector VE-Q b5-15 system. 
+Independent miners are invited to deliver shipments of Indite, Gallite, Praseodymium and Cobalt to Omega Mining Operation in the Omega Sector VE-Q b5-15 system. 
 
-In order to protect traders, the Omega Mining Corporation has also placed kill orders on all ships on [[Its]] wanted list. 
+In order to protect traders, the Omega Mining Corporation has also placed kill orders on all ships on Its wanted list. 
 
-The initiative begins on the 17th of January 3305 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The initiative begins on the 17th of January 3305 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

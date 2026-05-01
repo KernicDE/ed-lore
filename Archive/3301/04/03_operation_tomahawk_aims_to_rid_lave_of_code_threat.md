@@ -18,13 +18,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Operation Tomahawk Aims to Rid [[Lave]] of CODE Threat
+Operation Tomahawk Aims to Rid Lave of CODE Threat
 
 
-[[As the]] war in [[Lave]] [[Continues]] between CODE and Cosmic State, reports have emerged to suggest that Cosmic State have chosen Adle's Armada as unlikely allies in what's being called Operation Tomahawk. 
+As the war in Lave Continues between CODE and Cosmic State, reports have emerged to suggest that Cosmic State have chosen Adle's Armada as unlikely allies in what's being called Operation Tomahawk. 
 
-[[The]] accusation is that CODE are charging traders and others passers-by for "travel passes" in [[The Lave]] system, [[Which]] are valid only for a set period, and will provide protection against CODE attacks. 
+The accusation is that CODE are charging traders and others passers-by for "travel passes" in The Lave system, Which are valid only for a set period, and will provide protection against CODE attacks. 
 
-These reports would seem to indicate that no visitor to Lave is safe unless a travel pass has been purchased from CODE. It is not clear at [[This]] stage what [[The]] [[Alliance]] reaction is to [[This]] policy, but it seems that as long [[As the]] funds aren't being channelled into the Lavian economy, they are unlikely to take a high view of this practice. 
+These reports would seem to indicate that no visitor to Lave is safe unless a travel pass has been purchased from CODE. It is not clear at This stage what The Alliance reaction is to This policy, but it seems that as long As the funds aren't being channelled into the Lavian economy, they are unlikely to take a high view of this practice. 
 
-Galnet reached out to both CODE and Cosmic State for comment, and although no word has been received from CODE, Cosmic State asserted that CMDRs Silk and Kudach were heading Operation Tomahawk, aiming to free Lave, and now potentially [[Leesti]] also, from the perceived CODE threat.
+Galnet reached out to both CODE and Cosmic State for comment, and although no word has been received from CODE, Cosmic State asserted that CMDRs Silk and Kudach were heading Operation Tomahawk, aiming to free Lave, and now potentially Leesti also, from the perceived CODE threat.

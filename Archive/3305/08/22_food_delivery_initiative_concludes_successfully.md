@@ -28,12 +28,12 @@ related_uuids:
 Food Delivery Initiative Concludes Successfully
 
 
-A campaign to deliver food commodities to [[The]] Chamas system has been declared a success by [[Its]] organisers. 
+A campaign to deliver food commodities to The Chamas system has been declared a success by Its organisers. 
 
 The Fortunes Corsairs efforts to acquire various foods for a glamorous reception were well received. The event, attended by various system officials, appears to have achieved its aim. 
 
-Silas James of the Chamash Foods conglomerate released [[The following]] statement: 
+Silas James of the Chamash Foods conglomerate released The following statement: 
 
-“Due to the overwhelming support from Fortunes Corsairs and [[Other]] [[Independent]] traders, the delicious feast helped make [[Our]] fundraiser a tremendous success. Construction of the new asteroid base will begin immediately.” 
+“Due to the overwhelming support from Fortunes Corsairs and Other Independent traders, the delicious feast helped make Our fundraiser a tremendous success. Construction of the new asteroid base will begin immediately.” 
 
-Contributors to the initiative can now collect their rewards from [[Denton Dock in the Chamas]] system.
+Contributors to the initiative can now collect their rewards from Denton Dock in the Chamas system.

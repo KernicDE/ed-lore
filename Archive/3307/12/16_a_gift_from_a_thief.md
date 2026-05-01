@@ -25,12 +25,12 @@ significance: low
 ---
 
 *Pilots’ Federation ALERT*
-Detective Erik Gunnarson has claimed that [[The]] Winking Cat thief has something planned for the weeks ahead.
-“After [[Our]] investigation into the Jokers’ Deck gambling circle, Wolfe and I were hired to track down their stolen ceremonial playing card. The good news is that we now have the card in our possession. We can hardly claim credit, however: it was posted to us by the [[One]] who stole it!”
-“The ancient joker card arrived via a courier service, [[With]] no data as to [[Its]] point of origin. [[But the]] playing card now has text stamped on the back, [[Which]] I’m convinced is intended to be a public message.”
+Detective Erik Gunnarson has claimed that The Winking Cat thief has something planned for the weeks ahead.
+“After Our investigation into the Jokers’ Deck gambling circle, Wolfe and I were hired to track down their stolen ceremonial playing card. The good news is that we now have the card in our possession. We can hardly claim credit, however: it was posted to us by the One who stole it!”
+“The ancient joker card arrived via a courier service, With no data as to Its point of origin. But the playing card now has text stamped on the back, Which I’m convinced is intended to be a public message.”
 “It simply reads ‘The hunt is on!’ and is followed by two sets of numbers: 
 ‘1, 2, 3: 16th to 30th’
 ‘4, 5, 6: 23rd to 6th’. 
 At the bottom is a drawing of – you guessed it – a smirking, winking cat’s face.”
-“It’s speculation, of course, but some of these numbers must be dates. Perhaps [[This]] ‘hunt’ is scheduled to happen over the next three weeks. Are we being invited to hunt the Winking Cat, or will something else be the prize?”
+“It’s speculation, of course, but some of these numbers must be dates. Perhaps This ‘hunt’ is scheduled to happen over the next three weeks. Are we being invited to hunt the Winking Cat, or will something else be the prize?”
 “The feline thief has been busy of late, purloining everything from prized artwork to prototype robots. Entertainment mogul Oscar Goldsun recently reported that his private collection of rarities had been hit, and there are rumours that WorldCraft corporation’s vaults were somehow broken into. How that crime spree connects to this message is a mystery that we’ve yet to crack.”

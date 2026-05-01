@@ -24,12 +24,12 @@ significance: high
 Protecting Colonia
 
 
-[[As the]] [[Thargoid]] offensive [[Continues]], [[Authorities in]] Colonia have decided to step up security by building a new security installation in [[The]] region. 
+As the Thargoid offensive Continues, Authorities in Colonia have decided to step up security by building a new security installation in The region. 
 
-A spokesperson for the [[Colonia Council]], [[Which]] is overseeing the initiative, gave [[The following]] statement: 
+A spokesperson for the Colonia Council, Which is overseeing the initiative, gave The following statement: 
 
-“[[The Thargoids have now entered the core]] systems, and their hostility shows no signs of abating. Meanwhile, Colonia’s [[Defensive]] capabilities remain limited. It is clear to us that the time to act has come.” 
+“The Thargoids have now entered the core systems, and their hostility shows no signs of abating. Meanwhile, Colonia’s Defensive capabilities remain limited. It is clear to us that the time to act has come.” 
 
 Colonia has agreed to fund the operation, and has placed an open order for various mined resources for use in the construction. Pilots who deliver the requested resources to Dove Enigma in the Colonia system will be generously compensated. 
 
-The campaign begins on the 1st of March 3304 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 1st of March 3304 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

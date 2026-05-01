@@ -16,8 +16,8 @@ significance: low
 Galactic News: Order Restored in Aeternitas
 
 
-Aeternitas Industries has announced that [[Its]] campaign to clear [[The]] Aeternitas system of agitators has been a success. [[Hundreds of]] pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
+Aeternitas Industries has announced that Its campaign to clear The Aeternitas system of agitators has been a success. Hundreds of pilots responded to the appeal, taking to their ships to eliminate the criminals operating in the system. 
 
-[[Authorities in]] Aeternitas have extended their gratitude to those who participated in the operation. 
+Authorities in Aeternitas have extended their gratitude to those who participated in the operation. 
 
 Rewards for those who contributed to the initiative are now available for collection at Houtman City.

@@ -13,13 +13,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Meet [[The]] Powers – Arissa [[Lavigny-Duval]]
+Meet The Powers – Arissa Lavigny-Duval
 
 
-Meet [[The]] Powers – Arissa [[Lavigny-Duval]] 
+Meet The Powers – Arissa Lavigny-Duval 
  
-Continuing [[This]] GalNet exclusive series, political commentator Marcus Macmillan writes his opinion of some of the movers and shakers in 3301. In [[This]] second article he looks at [[One]] of the most respected women in Imperial politics: Senator Arissa Lavigny-Duval . 
+Continuing This GalNet exclusive series, political commentator Marcus Macmillan writes his opinion of some of the movers and shakers in 3301. In This second article he looks at One of the most respected women in Imperial politics: Senator Arissa Lavigny-Duval . 
 
-Arissa Lavigny-Duval’s success as a senator often eclipses the fact that [[As the]] daughter of the late Prince Aristide de Lavigny, she is also a princess by birth. It says much of her character that she prefers to represent herself [[With]] her achievements rather than just her bloodline. In Imperial politics, of course, having the right bloodline is also an asset and she is astute enough to make use of it when she needs to. 
+Arissa Lavigny-Duval’s success as a senator often eclipses the fact that As the daughter of the late Prince Aristide de Lavigny, she is also a princess by birth. It says much of her character that she prefers to represent herself With her achievements rather than just her bloodline. In Imperial politics, of course, having the right bloodline is also an asset and she is astute enough to make use of it when she needs to. 
 
-In popularity she rivals Princess [[Aisling Duval]], partly because she is happy to tackle hard issues head on. Her primary platform is [[One]] of honour and she devotes much of her attention to tackling corruption. She is a familiar face in the Imperial court and her views often reflect those of the Emperor. The planned wedding between [[Emperor [[Hengist]] Duval]] and her mother, Florence Lavigny, will secure her position as next in line if anything should befall the Emperor.
+In popularity she rivals Princess Aisling Duval, partly because she is happy to tackle hard issues head on. Her primary platform is One of honour and she devotes much of her attention to tackling corruption. She is a familiar face in the Imperial court and her views often reflect those of the Emperor. The planned wedding between Emperor Hengist Duval and her mother, Florence Lavigny, will secure her position as next in line if anything should befall the Emperor.

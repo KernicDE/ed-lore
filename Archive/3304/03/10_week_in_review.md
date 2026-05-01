@@ -33,14 +33,14 @@ significance: high
 Week in Review
 
 
-Here are [[This]] week’s major stories. 
+Here are This week’s major stories. 
 
-[[Several]] new Guardian sites have been discovered, resulting [[In a]] wealth of fresh information about [[The]] Guardians’ long-lost civilisation. Some of this information has already been put to practical use by the engineer [[Ram Tah]], who has produced blueprints for new weaponry and power-plant systems based on Guardian designs. 
+Several new Guardian sites have been discovered, resulting In a wealth of fresh information about The Guardians’ long-lost civilisation. Some of this information has already been put to practical use by the engineer Ram Tah, who has produced blueprints for new weaponry and power-plant systems based on Guardian designs. 
 
-Several galactic figureheads reacted to the news. Federal [[President Zachary Hudson]] said: “Anything that helps us defend [[Our]] citizens from [[Thargoid]] aggression is welcome”, while Imperial Admiral [[Denton Patreus]] expressed hope that the new armaments would “provide a tactical advantage in our conflict [[With the]] Thargoids”. 
+Several galactic figureheads reacted to the news. Federal President Zachary Hudson said: “Anything that helps us defend Our citizens from Thargoid aggression is welcome”, while Imperial Admiral Denton Patreus expressed hope that the new armaments would “provide a tactical advantage in our conflict With the Thargoids”. 
 
-Meanwhile, [[Aegis]] has launched an operation to monitor Thargoid activity in the [[Pleiades Nebula]]. The tri-superpower initiative has established orbital surveillance installations at six locations in the Pleiades as part of the Eagle Eye initiative. [[The installations will monitor]] systems where Thargoid surface sites are known to exist. 
+Meanwhile, Aegis has launched an operation to monitor Thargoid activity in the Pleiades Nebula. The tri-superpower initiative has established orbital surveillance installations at six locations in the Pleiades as part of the Eagle Eye initiative. The installations will monitor systems where Thargoid surface sites are known to exist. 
 
-Finally, the Coalition of Othime has announced plans to develop refinery facilities in [[Its]] home system through the construction of a new asteroid base. The organisation hopes that the new base will allow it to compete [[With]] [[Other]] refineries in the region. 
+Finally, the Coalition of Othime has announced plans to develop refinery facilities in Its home system through the construction of a new asteroid base. The organisation hopes that the new base will allow it to compete With Other refineries in the region. 
 
 And those are the main stories this week.

@@ -19,8 +19,8 @@ significance: low
 Community Goal: Restoring Order in Cartoq
 
 
-[[Authorities in [[The]] Cartoq]] system have reported a sharp increase in [[The number of]] criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
+Authorities in The Cartoq system have reported a sharp increase in The number of criminals operating in the area. Reports indicate that the agitators are attacking pilots travelling in the system, disrupting trade and generally causing discord. 
 
-To counter [[This]] threat, the Cartoq Purple Major Organisation has placed a kill order on all wanted ships operating in the Cartoq system, and has promised to reward pilots who deliver bounty vouchers to Avdeyev Settlement. 
+To counter This threat, the Cartoq Purple Major Organisation has placed a kill order on all wanted ships operating in the Cartoq system, and has promised to reward pilots who deliver bounty vouchers to Avdeyev Settlement. 
 
-The campaign begins on 27th of April 3303 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on 27th of April 3303 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

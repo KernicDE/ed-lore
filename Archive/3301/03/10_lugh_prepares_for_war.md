@@ -18,13 +18,13 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[Lugh]] Prepares for War
+Lugh Prepares for War
 
 
-Crimson State Group representatives who were still present on [[Alioth]] were forced to make a hasty departure earlier today, as reports of Federal checkpoints being established around local exit points began to hit [[The]] [[Alliance]] blogosphere.  
+Crimson State Group representatives who were still present on Alioth were forced to make a hasty departure earlier today, as reports of Federal checkpoints being established around local exit points began to hit The Alliance blogosphere.  
 
-It would appear that [[The]] Federation means to finally show [[Its]] hand in what has been a long and arduous game of poker between the Federal goliath and a small but proud people willing to defy the domination of their oppressors.  
+It would appear that The Federation means to finally show Its hand in what has been a long and arduous game of poker between the Federal goliath and a small but proud people willing to defy the domination of their oppressors.  
 
-In the wake of his unsuccessful attempts to reach a favourable conclusion [[With]] representatives of the [[Alliance]], Ambassador Éamonn Uí Laoghaire had [[This]] to say: 
+In the wake of his unsuccessful attempts to reach a favourable conclusion With representatives of the Alliance, Ambassador Éamonn Uí Laoghaire had This to say: 
 
-"[[Lugh]] is a sovereign state. [[This]] is an undeniable truth. An error does not become truth by multiplied propagation, nor does truth become error because nobody sees it! Though the storm clouds gather around us, it has been written in [[Our]] ancient 'Leabhar Gabhála Lugh' that the Sons of Conn will come to Lugh’s aid at his time of direst need. That also is a universal truth."
+"Lugh is a sovereign state. This is an undeniable truth. An error does not become truth by multiplied propagation, nor does truth become error because nobody sees it! Though the storm clouds gather around us, it has been written in Our ancient 'Leabhar Gabhála Lugh' that the Sons of Conn will come to Lugh’s aid at his time of direst need. That also is a universal truth."

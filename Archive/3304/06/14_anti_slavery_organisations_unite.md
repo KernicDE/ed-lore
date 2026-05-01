@@ -27,13 +27,13 @@ related_uuids:
 Anti-Slavery Organisations Unite
 
 
-Princess [[Aisling Duval]]’s anti-slavery campaign has merged [[With]] [[Independent]] charity Universal Liberty. [[The]] rebranded organisation is named Unchain. 
+Princess Aisling Duval’s anti-slavery campaign has merged With Independent charity Universal Liberty. The rebranded organisation is named Unchain. 
 
 The former head of Universal Liberty, Jarl Toredo, made an announcement to the media: 
 
 “There’s no shortage of poverty and suffering within the Empire, however much some may try to hide it. Few have the courage to face the truth, but Princess Duval has been an inspiration. So I’m very pleased that we’re joining forces with her campaign to end slavery.” 
 
-“I was born into slavery. My parents were still slaves when they died. It is for them, and for all human beings treated as less than human, that we demand legal slavery be abolished. I’m proud to be part of Unchain, [[Which]] will spread [[Our]] message across the Empire.” 
+“I was born into slavery. My parents were still slaves when they died. It is for them, and for all human beings treated as less than human, that we demand legal slavery be abolished. I’m proud to be part of Unchain, Which will spread Our message across the Empire.” 
 
 When asked about rumours linking him romantically with Aisling Duval, Toredo said only:  
 

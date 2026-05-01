@@ -24,12 +24,12 @@ related_uuids:
 - 7e6d6a09-c0b5-5c86-b6e1-7dab5e24d303
 ---
 
-Olav Redcourt [[Found]]
+Olav Redcourt Found
 
 
-Popular author Olav Redcourt, who was recently reported [[Missing]], has been found alive and well. 
+Popular author Olav Redcourt, who was recently reported Missing, has been found alive and well. 
 
-Margot Hist of [[The]] Dervish-Foss Literary Agency told the media: 
+Margot Hist of The Dervish-Foss Literary Agency told the media: 
 
 “I can reassure Olav’s fans that he is in good health, and has checked into a writers’ retreat at a remote outpost. I can also reassure Bonespire Publishing that he will soon pay their fees for contractual breach, having sold most of his belongings.” 
 
@@ -37,4 +37,4 @@ Margot Hist of [[The]] Dervish-Foss Literary Agency told the media:
 
 When asked why these facts were not made public sooner, Ms Hist replied: 
 
-“Unfortunately I didn’t know there was concern about Olav’s whereabouts until I returned from holiday – there are no communication facilities at Skyglow Havens on the [[Rhea]] Archipelago.”
+“Unfortunately I didn’t know there was concern about Olav’s whereabouts until I returned from holiday – there are no communication facilities at Skyglow Havens on the Rhea Archipelago.”

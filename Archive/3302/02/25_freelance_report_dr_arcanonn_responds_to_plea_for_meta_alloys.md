@@ -23,15 +23,15 @@ legacy_weight: 5
 significance: high
 ---
 
-Freelance Report: Dr [[Arcanonn Responds]] to Plea for Meta-Alloys
+Freelance Report: Dr Arcanonn Responds to Plea for Meta-Alloys
 
 
-Responding to [[The]] suggestion that more meta-alloys be shipped to stations experiencing technical issues, Dr [[Arcanonn]] of the [[Canonn Interstellar Research Group]] has issued a statement: 
+Responding to The suggestion that more meta-alloys be shipped to stations experiencing technical issues, Dr Arcanonn of the Canonn Interstellar Research Group has issued a statement: 
 
-"[[Many]] teams from the [[Canonn]] Interstellar Research Group have already started collecting meta-alloys. Some have been doing so for many days. But [[One]] thing bothers me. The community painstakingly collected and shipped thousands of tonnes of meta-alloys to [[Obsidian Orbital]] for [[Professor Palin]]. Where did they go? Surely the engineering teams at Obsidian Orbital didn't use them all up?" 
+"Many teams from the Canonn Interstellar Research Group have already started collecting meta-alloys. Some have been doing so for many days. But One thing bothers me. The community painstakingly collected and shipped thousands of tonnes of meta-alloys to Obsidian Orbital for Professor Palin. Where did they go? Surely the engineering teams at Obsidian Orbital didn't use them all up?" 
 
 "I want to urge personnel at Obsidian Orbital to help us by releasing their remaining stock of meta-alloys to the commodities market. Once the existing supply runs out, we will return to the barnacle sites to collect more." 
 
-"Since one of the affected stations is in my home system, I'm as eager as everyone else to deal [[With]] these malfunctions. It seems we have the means to fix the problems, so let's do it." 
+"Since one of the affected stations is in my home system, I'm as eager as everyone else to deal With these malfunctions. It seems we have the means to fix the problems, so let's do it." 
 
-Commander [[Lord Zoltan]]
+Commander Lord Zoltan

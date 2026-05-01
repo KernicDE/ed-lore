@@ -19,13 +19,13 @@ legacy_weight: 2
 significance: low
 ---
 
-President [[Halsey Announces Tour]] of Frontier Systems
+President Halsey Announces Tour of Frontier Systems
 
 
-[[The]] President’s office has today announced that President [[Halsey will soon be setting off]] on a tour of [[The]] [[Federal frontier]] systems. 
+The President’s office has today announced that President Halsey will soon be setting off on a tour of The Federal frontier systems. 
 
-The purported aim of the trip is to build stronger links between [[Sol]] and [[Its]] [[Many]] offspring. For years, [[Federal frontier]] systems have complained that the [[Mars]] Congress has consistently failed to provide adequate support for fledgling Federal colonies.   
+The purported aim of the trip is to build stronger links between Sol and Its Many offspring. For years, Federal frontier systems have complained that the Mars Congress has consistently failed to provide adequate support for fledgling Federal colonies.   
 
-During the tour, local leaders will be given a chance to meet [[With]] President Halsey to discuss what [[Sol]] can do to better support local governments, frontier enterprises and Federal residents. 
+During the tour, local leaders will be given a chance to meet With President Halsey to discuss what Sol can do to better support local governments, frontier enterprises and Federal residents. 
 
-Some of the destinations announced include Hip 53688, Tinia, [[78 Ursae Majoris]], Su and Furuhjlem I-645. [[Other]] destinations are expected to be added at a later date.
+Some of the destinations announced include Hip 53688, Tinia, 78 Ursae Majoris, Su and Furuhjlem I-645. Other destinations are expected to be added at a later date.

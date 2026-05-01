@@ -28,9 +28,9 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Further]] information has emerged regarding Vidar [[Trask]]’s failed attempt to take control of [[The]] [[Kumo Crew]] syndicate.
-The latest findings were reported by The [[Pegasi]] Sentinel:
-“The few survivors from Trask’s shattered army have revealed that over a thousand fighters were supplied by the Blue Viper Club [[Dredger]] clan. Kay Volantyne, [[One]] of [[Its]] leaders, is now confirmed to have masterminded the coup alongside Trask.”
-“Their motivations were as different as their backgrounds. Trask rose to power beside Archon Delaine but became frustrated under his rule, believing that he could reorganise the Kumo Crew along more efficient lines. Volantyne aimed to provide her nomadic tribe [[With]] permanent homes, to be financed by trafficking [[Onionhead]] gamma strain and protected by the syndicate’s might.”
-“We have also learned that the standard of living on the Blue Viper Club dredger has markedly improved in recent months. [[This]] was in accordance [[With the]] terms of the [[Alliance]] that Volantyne brokered between the clan and the Kumo Crew.”
-“[[According to]] [[Engineers]] at Kumo City starport, the dredger’s modernised hyperdrive enables it to make jumps more frequently and over greater distances. This means it could now be almost anywhere within a [[Several]] hundred light year radius, [[Which]] may frustrate Delaine’s vow to hunt down Volantyne and exact revenge for her betrayal.”
+Further information has emerged regarding Vidar Trask’s failed attempt to take control of The Kumo Crew syndicate.
+The latest findings were reported by The Pegasi Sentinel:
+“The few survivors from Trask’s shattered army have revealed that over a thousand fighters were supplied by the Blue Viper Club Dredger clan. Kay Volantyne, One of Its leaders, is now confirmed to have masterminded the coup alongside Trask.”
+“Their motivations were as different as their backgrounds. Trask rose to power beside Archon Delaine but became frustrated under his rule, believing that he could reorganise the Kumo Crew along more efficient lines. Volantyne aimed to provide her nomadic tribe With permanent homes, to be financed by trafficking Onionhead gamma strain and protected by the syndicate’s might.”
+“We have also learned that the standard of living on the Blue Viper Club dredger has markedly improved in recent months. This was in accordance With the terms of the Alliance that Volantyne brokered between the clan and the Kumo Crew.”
+“According to Engineers at Kumo City starport, the dredger’s modernised hyperdrive enables it to make jumps more frequently and over greater distances. This means it could now be almost anywhere within a Several hundred light year radius, Which may frustrate Delaine’s vow to hunt down Volantyne and exact revenge for her betrayal.”

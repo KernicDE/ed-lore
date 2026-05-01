@@ -21,12 +21,12 @@ significance: low
 Temporary Tax Freeze Announced
 
 
-A galaxy-wide suspension of revenue tax has been announced. [[All three]] superpowers are supporting [[The]] freeze, [[Which]] will see profit margins for everyday commodities increase. 
+A galaxy-wide suspension of revenue tax has been announced. All three superpowers are supporting The freeze, Which will see profit margins for everyday commodities increase. 
 
 The temporary alleviation will allow fiscal authorities to complete a much-needed evaluation of galactic taxation. 
 
 The news is expected to be warmly received by traders, who will earn more for their goods for the duration of the moratorium. 
 
-The galaxy’s [[Independent]] [[Engineers]], who constitute a vital part of the galactic economy, have agreed to support the freeze by offering their designs in exchange for more readily available materials. 
+The galaxy’s Independent Engineers, who constitute a vital part of the galactic economy, have agreed to support the freeze by offering their designs in exchange for more readily available materials. 
 
-The tax suspension will [[Run]] from the 24th to the 30th of May 3304.
+The tax suspension will Run from the 24th to the 30th of May 3304.

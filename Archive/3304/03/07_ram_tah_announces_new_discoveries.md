@@ -24,15 +24,15 @@ legacy_weight: 4
 significance: high
 ---
 
-[[Ram Tah]] Announces New Discoveries
+Ram Tah Announces New Discoveries
 
 
-[[The]] engineer Ram Tah has revealed that his recent request for pilots to investigate possible Guardian sites has yielded significant discoveries. He has released [[This]] statement: 
+The engineer Ram Tah has revealed that his recent request for pilots to investigate possible Guardian sites has yielded significant discoveries. He has released This statement: 
 
-“Thanks to [[Many]] courageous Commanders, we have [[Found]] [[Several]] new Guardian sites and recovered a great deal of data. As I theorised, the ruins are not as dead as they seem, since some are actively defended by ancient Guardian drones.” 
+“Thanks to Many courageous Commanders, we have Found Several new Guardian sites and recovered a great deal of data. As I theorised, the ruins are not as dead as they seem, since some are actively defended by ancient Guardian drones.” 
 
-“My analysis of the data has yielded key technological information, much of [[Which]] can be put to immediate practical use. This has allowed me to produce blueprints for new weaponry and power-plant systems based on Guardian designs.” 
+“My analysis of the data has yielded key technological information, much of Which can be put to immediate practical use. This has allowed me to produce blueprints for new weaponry and power-plant systems based on Guardian designs.” 
 
-“I am currently liaising [[With]] technology brokers to manufacture and distribute these devices, which I hope will benefit the galaxy in these troubled times.” 
+“I am currently liaising With technology brokers to manufacture and distribute these devices, which I hope will benefit the galaxy in these troubled times.” 
 
-Ram Tah added that he will continue to rely on the galactic community’s support in unearthing [[Further]] knowledge about the Guardians.
+Ram Tah added that he will continue to rely on the galactic community’s support in unearthing Further knowledge about the Guardians.

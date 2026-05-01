@@ -30,17 +30,17 @@ related_uuids:
 - 9011873f-3bae-55e7-b912-649ade176315
 ---
 
-[[The]] Fall of [[Nova Imperium]]
+The Fall of Nova Imperium
 
 
 Security forces across the Empire have carried out a coordinated purge of the isolationist group Nova Imperium. 
 
 Political journalist Cassia Carvalho reported: 
 
-"Yesterday's executions in the Senate were apparently only the beginning of a coordinated massacre. Nova Imperium members are being put to death, and citizens who supported them are being arrested for treason. [[In a]] single day, the isolationist cause has been crushed." 
+"Yesterday's executions in the Senate were apparently only the beginning of a coordinated massacre. Nova Imperium members are being put to death, and citizens who supported them are being arrested for treason. In a single day, the isolationist cause has been crushed." 
 
-"It seems that [[Emperor Arissa Lavigny-Duval]] – while being accused of weakness – has simply been playing for time, allowing Senator Patreus to position his agents for a simultaneous strike. [[With]] [[This]] show of strength, the Emperor has done much to silence her detractors." 
+"It seems that Emperor Arissa Lavigny-Duval – while being accused of weakness – has simply been playing for time, allowing Senator Patreus to position his agents for a simultaneous strike. With This show of strength, the Emperor has done much to silence her detractors." 
 
-"Despite reactions of horror from some newsfeeds, [[Alliance]] and Federal leaders have made no official comment, perhaps relieved that inter-superpower cooperation against the Thargoids will continue." 
+"Despite reactions of horror from some newsfeeds, Alliance and Federal leaders have made no official comment, perhaps relieved that inter-superpower cooperation against the Thargoids will continue." 
 
-"Nova Imperium remains in control of the [[Paresa]] system, but [[With the]] organisation's power base destroyed, it no longer poses a threat to the Imperial throne."
+"Nova Imperium remains in control of the Paresa system, but With the organisation's power base destroyed, it no longer poses a threat to the Imperial throne."

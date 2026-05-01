@@ -24,13 +24,13 @@ legacy_weight: 5
 significance: high
 ---
 
-Privateer’s [[Alliance]] Campaign Concludes
+Privateer’s Alliance Campaign Concludes
 
 
-A spokesperson for [[The]] Privateer’s Alliance has announced that [[Its]] appeal for commodities has been enthusiastically received by the galactic community, resulting [[In a]] massive influx of deliveries to Barjavel Station, the organisation’s base of operations. 
+A spokesperson for The Privateer’s Alliance has announced that Its appeal for commodities has been enthusiastically received by the galactic community, resulting In a massive influx of deliveries to Barjavel Station, the organisation’s base of operations. 
 
-Construction will now begin on a new military installation in the HIP 33368 system to resist the [[Thargoid]] threat. 
+Construction will now begin on a new military installation in the HIP 33368 system to resist the Thargoid threat. 
 
 The Privateer’s Alliance has extended its gratitude to those who supported the campaign. 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Barjavel Station in the HIP 33368]] system.
+Pilots who contributed to the initiative can now collect their rewards from Barjavel Station in the HIP 33368 system.

@@ -28,19 +28,19 @@ related_uuids:
 - 782581af-3169-5d69-bae8-6418c16cbb47
 ---
 
-[[Zende]] Partners Claim Victory
+Zende Partners Claim Victory
 
 
-[[The conflict in [[The]] [[Synuefe]] EN-H d11-96]] system has ended [[With]] Zende Partners resisting an expansion attempt from Segnen Exchange. 
+The conflict in The Synuefe EN-H d11-96 system has ended With Zende Partners resisting an expansion attempt from Segnen Exchange. 
 
-Zende Partners CEO [[Freya Taine made]] [[The following]] declaration: 
+Zende Partners CEO Freya Taine made The following declaration: 
 
-"[[With the]] support of the galactic community, my company has withstood the violent raids instigated by [[Our]] rivals. Zende Partners will manage both outposts in the system, and the megaship transport service will continue operating on a weekly basis from Zende." 
+"With the support of the galactic community, my company has withstood the violent raids instigated by Our rivals. Zende Partners will manage both outposts in the system, and the megaship transport service will continue operating on a weekly basis from Zende." 
 
 "I am also proud to announce that we have begun manufacture of our new Advanced Multi-cannon at The Prospect, using recently acquired Guardian materials." 
 
-[[In a]] subdued response, Cedrik Stone stated the following:  
+In a subdued response, Cedrik Stone stated the following:  
 
-"Segnen Exchange has decided to withdraw from Synuefe EN-H d11-96 and focus our resources on previously established operations. While [[This]] setback has interfered with our research and development schedule, we will learn from this experience and continue to grow as a company." 
+"Segnen Exchange has decided to withdraw from Synuefe EN-H d11-96 and focus our resources on previously established operations. While This setback has interfered with our research and development schedule, we will learn from this experience and continue to grow as a company." 
 
 Pilots who participated in the conflict can now collect rewards from the Synuefe EN-H d11-96 system. Supporters of Zende Partners must journey to The Prospect, while supporters of Segnen Exchange should visit Indigo Dock.

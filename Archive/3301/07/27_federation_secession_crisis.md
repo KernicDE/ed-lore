@@ -28,8 +28,8 @@ Federation Secession Crisis
 
 Federation Secession Crisis 
  
-Debate [[Continues]] to rage in local governments throughout [[The]] [[Pegasi]] sector over Senator [[Lavigny-Duval's invitation]] to become Imperial citizens. [[The]] debate has reached a fevered pitch [[In some]] systems. 
+Debate Continues to rage in local governments throughout The Pegasi sector over Senator Lavigny-Duval's invitation to become Imperial citizens. The debate has reached a fevered pitch In some systems. 
 
-"[[Our]] petitions for assistance from the Federation have fallen on deaf ears for months now. I’m tired of the demonizing epithets cast at “Imperial slavers” while Federation citizens are being forcibly carried away into slavery by the [[Kumo Crew]]. Hudson and Winters are nothing but spineless cowards and hypocrites,” spat the enraged governor of [[The Wudjal]] system. “The [[Wudjal]] system is home to more Federation citizens than [[The entire]] Imperial population occupied by the [[Kumo Crew]]. Until the Federation honours [[Its]] commitments to us, we will not send a single credit to [[Sol]]. I recommend that [[Every]] governor in the [[Pegasi]] sector open an Imperial embassy. At least Imperial citizenship means something." 
+"Our petitions for assistance from the Federation have fallen on deaf ears for months now. I’m tired of the demonizing epithets cast at “Imperial slavers” while Federation citizens are being forcibly carried away into slavery by the Kumo Crew. Hudson and Winters are nothing but spineless cowards and hypocrites,” spat the enraged governor of The Wudjal system. “The Wudjal system is home to more Federation citizens than The entire Imperial population occupied by the Kumo Crew. Until the Federation honours Its commitments to us, we will not send a single credit to Sol. I recommend that Every governor in the Pegasi sector open an Imperial embassy. At least Imperial citizenship means something." 
 
-Commander [[Corrigendum]]
+Commander Corrigendum

@@ -17,13 +17,13 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: Body [[Found]] at [[Wreaken Construction]] Site
+Galactic News: Body Found at Wreaken Construction Site
 
 
-An unidentified individual has been found dead at a Wreaken Construction site in [[The]] COL 70 sector. The body was disfigured as a result of radiation exposure, and identification has so [[Far]] not been possible. System authorities are conducting an investigation. 
+An unidentified individual has been found dead at a Wreaken Construction site in The COL 70 sector. The body was disfigured as a result of radiation exposure, and identification has so Far not been possible. System authorities are conducting an investigation. 
 
-[[A representative of]] Wreaken Construction responded to the discovery [[With]] a statement: 
+A representative of Wreaken Construction responded to the discovery With a statement: 
 
-"There have been [[Several]] incidents of individuals trying to break into [[Our]] facilities. [[This]] is an unfortunate event, but frankly the victim brought this accident on themselves. Our facilities are secured for a reason – manufacturing is a dangerous business." 
+"There have been Several incidents of individuals trying to break into Our facilities. This is an unfortunate event, but frankly the victim brought this accident on themselves. Our facilities are secured for a reason – manufacturing is a dangerous business." 
 
-Meanwhile, [[Independent]] pilots have reported that Wreaken Construction sites are heavily guarded, and that approaching ships have been aggressively warned away by Wreaken-owned vessels.
+Meanwhile, Independent pilots have reported that Wreaken Construction sites are heavily guarded, and that approaching ships have been aggressively warned away by Wreaken-owned vessels.

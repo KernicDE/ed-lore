@@ -25,12 +25,12 @@ significance: low
 Defence Contractor Denies Safety Violations
 
 
-[[The]] weapons manufacturer Prax Incorporated has dismissed accusations of poor safety measures in [[Its]] development and testing programs. Concerns were originally raised by Adley King of The [[Federal Times]], as part of an investigation into weapons testing within inhabited sectors. 
+The weapons manufacturer Prax Incorporated has dismissed accusations of poor safety measures in Its development and testing programs. Concerns were originally raised by Adley King of The Federal Times, as part of an investigation into weapons testing within inhabited sectors. 
 
-CEO Lucina Prax gave [[This]] press statement: 
+CEO Lucina Prax gave This press statement: 
 
-"I can assure Ms King that my company takes [[Every]] precaution when evaluating its products. We have never – and will never – ignore safety protocols." 
+"I can assure Ms King that my company takes Every precaution when evaluating its products. We have never – and will never – ignore safety protocols." 
 
-"Regarding these accusations, I am aware of the claims being made but have yet to see a single shred of evidence to support them. We act in full compliance [[With the]] most stringent industry regulations." 
+"Regarding these accusations, I am aware of the claims being made but have yet to see a single shred of evidence to support them. We act in full compliance With the most stringent industry regulations." 
 
-"3304 was a record year for Prax Incorporated. The latest version of [[Our]] proprietary threat-recognition firmware propelled our stock to new heights, and we are developing a new system that I believe will be considered revolutionary."
+"3304 was a record year for Prax Incorporated. The latest version of Our proprietary threat-recognition firmware propelled our stock to new heights, and we are developing a new system that I believe will be considered revolutionary."

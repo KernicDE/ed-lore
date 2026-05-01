@@ -22,15 +22,15 @@ legacy_weight: 1
 significance: low
 ---
 
-Adle's Armada Looks to End Illegal Arms Deal in [[Hel]]
+Adle's Armada Looks to End Illegal Arms Deal in Hel
 
 
-Adle's Armada Looks to End Illegal Arms Deal in [[Hel]] 
+Adle's Armada Looks to End Illegal Arms Deal in Hel 
  
-Adle's Armada, a Federally aligned militia group, has responded to reports of an illegal arms deal between [[The]] criminal organization Cosmic State, headed by Hammer Arms CEO [[Grimnir Allvadderung]] and [[The]] Empire aligned [[Emperor's Grace]] leader Vaarwen Mako Brennus.  
+Adle's Armada, a Federally aligned militia group, has responded to reports of an illegal arms deal between The criminal organization Cosmic State, headed by Hammer Arms CEO Grimnir Allvadderung and The Empire aligned Emperor's Grace leader Vaarwen Mako Brennus.  
 
-"[[This]] cannot stand! [[Our]] people of the Labour Party of Caill Reddi cannot bear [[This]] tyrant any longer. He takes the food out people's mouths in order to make back room deals [[With the]] unscrupulous individuals!" says Tyllerius Adle III, Grandson of the groups original founder and current Armada CO.  
+"This cannot stand! Our people of the Labour Party of Caill Reddi cannot bear This tyrant any longer. He takes the food out people's mouths in order to make back room deals With the unscrupulous individuals!" says Tyllerius Adle III, Grandson of the groups original founder and current Armada CO.  
 
-Adle's Armada forces have been laying siege to the League of Hel and have put them into a lockdown state. Citizens formally supporting the arms dealer now question his rule over Jone's Orbital. [[With]] the blockade of supplies to League of Hel combat forces, it will only be a short matter of time before [[The entire]] system is forced into a civil war between hungry citizens and impoverished arms dealers. Time will tell if Hel will become a sovereign Federally aligned system under the Labour Party of Caill Reddi or if the League of Hel will continue [[Its]] weapons trade [[With]] shady individuals. 
+Adle's Armada forces have been laying siege to the League of Hel and have put them into a lockdown state. Citizens formally supporting the arms dealer now question his rule over Jone's Orbital. With the blockade of supplies to League of Hel combat forces, it will only be a short matter of time before The entire system is forced into a civil war between hungry citizens and impoverished arms dealers. Time will tell if Hel will become a sovereign Federally aligned system under the Labour Party of Caill Reddi or if the League of Hel will continue Its weapons trade With shady individuals. 
 
 "For the safety of the people, this will NOT stand!"

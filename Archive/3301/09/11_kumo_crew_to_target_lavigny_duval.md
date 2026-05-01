@@ -21,15 +21,15 @@ legacy_weight: 3
 significance: medium
 ---
 
-[[Kumo Crew]] to Target [[Lavigny-Duval]]
+Kumo Crew to Target Lavigny-Duval
 
 
-[[Kumo Crew]] to Target [[Lavigny-Duval]] 
+Kumo Crew to Target Lavigny-Duval 
  
-Systems under [[The]] sway of Arissa Lavigny-Duval have begun expressing discontent at [[The]] current political situation in the Empire, and the Kumo Crew is taking the opportunity to cause trouble of their own. 
+Systems under The sway of Arissa Lavigny-Duval have begun expressing discontent at The current political situation in the Empire, and the Kumo Crew is taking the opportunity to cause trouble of their own. 
 
-Leaked military intelligence indicates that [[Hundreds of]] Kumo Crew fleets will soon descend on Imperial territory in an effort to cultivate [[Further]] civil unrest. The plan is apparently to force Duval into admitting the foolishness of the [[Pegasi]] War by bringing it as close to home as possible. 
+Leaked military intelligence indicates that Hundreds of Kumo Crew fleets will soon descend on Imperial territory in an effort to cultivate Further civil unrest. The plan is apparently to force Duval into admitting the foolishness of the Pegasi War by bringing it as close to home as possible. 
 
-Operation Uranus saw the Kumo Crew pirates target worlds under the influence of [[Senator [[Denton]] Patreus]], but [[This]] is the first time they have been bold enough to strike farther afield. Only time will tell what impact [[This]] will have on the Imperial power players. 
+Operation Uranus saw the Kumo Crew pirates target worlds under the influence of Senator Denton Patreus, but This is the first time they have been bold enough to strike farther afield. Only time will tell what impact This will have on the Imperial power players. 
 
-Commander [[Mikalus]]
+Commander Mikalus

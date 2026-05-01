@@ -21,13 +21,13 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Imperial Internal Security Service]] Issues another Appeal
+Imperial Internal Security Service Issues another Appeal
 
 
-[[Imperial Internal Security Service]] Issues another Appeal 
+Imperial Internal Security Service Issues another Appeal 
  
-[[In a]] repeat of [[The]] events of last month, [[The]] Imperial Internal Security Service – the organisation responsible for domestic security throughout the Empire – has issued a second public appeal for exploration data. [[This]] time, however, the [[IISS]] is being explicitly clear about the reasons for the request. [[In a]] statement to the media, Agent [[Cope]] of the [[IISS]] said: 
+In a repeat of The events of last month, The Imperial Internal Security Service – the organisation responsible for domestic security throughout the Empire – has issued a second public appeal for exploration data. This time, however, the IISS is being explicitly clear about the reasons for the request. In a statement to the media, Agent Cope of the IISS said: 
 
-“It is clear to us that the insurgent organisation Emperor’s Dawn represents a significant threat to the Empire, and it is therefore essential that [[Its]] ability to inflict harm on Imperial assets and citizens be neutralised as quickly as possible. To [[This]] end, the IISS has authorised the [[Cemiess]] Empire Party to reimburse any pilots providing reliable exploration data. This data will be used to locate bases belonging to Emperor’s Dawn.” 
+“It is clear to us that the insurgent organisation Emperor’s Dawn represents a significant threat to the Empire, and it is therefore essential that Its ability to inflict harm on Imperial assets and citizens be neutralised as quickly as possible. To This end, the IISS has authorised the Cemiess Empire Party to reimburse any pilots providing reliable exploration data. This data will be used to locate bases belonging to Emperor’s Dawn.” 
 
-[[Independent]] pilots interested in participating in this effort should deliver exploration data to [[Mackenzie Relay in the Cemiess]] system.
+Independent pilots interested in participating in this effort should deliver exploration data to Mackenzie Relay in the Cemiess system.

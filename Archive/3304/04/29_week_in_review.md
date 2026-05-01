@@ -36,14 +36,14 @@ significance: high
 Week in Review
 
 
-Here are [[This]] week’s major stories. 
+Here are This week’s major stories. 
 
-Simguru Pranav Antal, leader of [[Utopia]], has addressed [[The]] possibility that humanity may lose the conflict against the Thargoids. [[In a]] public statement, he suggested that the Sim-Archive – a digital repository of human memories – could be the key to humanity’s survival, should the Thargoids overwhelm the human race. 
+Simguru Pranav Antal, leader of Utopia, has addressed The possibility that humanity may lose the conflict against the Thargoids. In a public statement, he suggested that the Sim-Archive – a digital repository of human memories – could be the key to humanity’s survival, should the Thargoids overwhelm the human race. 
 
-Meanwhile, the murder of Imperial Senator [[Nestor Cartesius]] has led to widespread public speculation. [[One]] commentator speculated that the killer was “motivated by the discovery of [[John Jameson]]’s ship, and the logs that prove he was manipulated and sacrificed by the [[INRA]]”. A member of the [[Imperial Internal Security Service]] confirmed that the organisation was pursuing forensic leads from the crime scene. 
+Meanwhile, the murder of Imperial Senator Nestor Cartesius has led to widespread public speculation. One commentator speculated that the killer was “motivated by the discovery of John Jameson’s ship, and the logs that prove he was manipulated and sacrificed by the INRA”. A member of the Imperial Internal Security Service confirmed that the organisation was pursuing forensic leads from the crime scene. 
 
-In [[Other]] news, the [[Vadimo]] Patrons of Law have announced plans to host an elaborate soirée in the Vadimo system. A spokesperson for the organisation said, “We’ve got aggressive aliens on the doorstep and no one seems entirely sure what to do about it. So we thought – why not throw a big party?” 
+In Other news, the Vadimo Patrons of Law have announced plans to host an elaborate soirée in the Vadimo system. A spokesperson for the organisation said, “We’ve got aggressive aliens on the doorstep and no one seems entirely sure what to do about it. So we thought – why not throw a big party?” 
 
-Finally, Angeli Imperial Enterprises has announced that [[Its]] campaign to build a Bowman-class science [[Vessel]] has been enthusiastically received by the galactic community. Scores of pilots supported the initiative by delivering commodities to Kanai [[Enterprise]] and by eliminating agitators in Blido Piru, thereby ensuring the safety of traders. 
+Finally, Angeli Imperial Enterprises has announced that Its campaign to build a Bowman-class science Vessel has been enthusiastically received by the galactic community. Scores of pilots supported the initiative by delivering commodities to Kanai Enterprise and by eliminating agitators in Blido Piru, thereby ensuring the safety of traders. 
 
 And those are the main stories this week.

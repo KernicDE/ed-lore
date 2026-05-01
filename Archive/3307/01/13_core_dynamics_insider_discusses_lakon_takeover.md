@@ -34,9 +34,9 @@ legacy_weight: 2
 significance: low
 ---
 
-An anonymous source within [[The]] shipbuilding corporation [[Core Dynamics]] has revealed details behind [[Its]] hostile takeover of [[Lakon Spaceways]].
-The nameless insider had previously stated that the acquisition of Lakon was the personal project of Core Dynamics CEO [[Jupiter Rochester]]. These additional claims were broadcast via Vox Galactica:
-“In the last few years, [[Rochester]] has purchased [[Many]] companies based outside the Federation, such as Vodel. Lakon Spaceways is just the latest. It seems legal, but he manages these subsidiaries directly and installs his own people there. Some say he’s diversifying his family’s private holdings, rather than expanding the business.”
-“It’s well known that [[Several]] departments only follow Rochester’s directives, and operate in silos unconnected [[With the]] rest of Core Dynamics. Staff refer to them as ‘[[Jupiter]] Division’. Some offices even started using that name, like they’re a separate company within a company.”
-“I’ve heard that some directors are unhappy [[With]] Rochester, but he’s too well-connected to ever get rid of. It’s thanks to him that we have so many military contracts. As always, the rich get away with anything.”
-Core Dynamics declined to comment on [[This]] statement. Naomi Landseer, former chairperson of the Lakon Spaceways board of directors, has asked the [[Independent]] Commission for Market Equality to investigate [[Further]].
+An anonymous source within The shipbuilding corporation Core Dynamics has revealed details behind Its hostile takeover of Lakon Spaceways.
+The nameless insider had previously stated that the acquisition of Lakon was the personal project of Core Dynamics CEO Jupiter Rochester. These additional claims were broadcast via Vox Galactica:
+“In the last few years, Rochester has purchased Many companies based outside the Federation, such as Vodel. Lakon Spaceways is just the latest. It seems legal, but he manages these subsidiaries directly and installs his own people there. Some say he’s diversifying his family’s private holdings, rather than expanding the business.”
+“It’s well known that Several departments only follow Rochester’s directives, and operate in silos unconnected With the rest of Core Dynamics. Staff refer to them as ‘Jupiter Division’. Some offices even started using that name, like they’re a separate company within a company.”
+“I’ve heard that some directors are unhappy With Rochester, but he’s too well-connected to ever get rid of. It’s thanks to him that we have so many military contracts. As always, the rich get away with anything.”
+Core Dynamics declined to comment on This statement. Naomi Landseer, former chairperson of the Lakon Spaceways board of directors, has asked the Independent Commission for Market Equality to investigate Further.

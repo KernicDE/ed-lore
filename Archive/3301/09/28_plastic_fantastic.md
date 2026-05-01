@@ -23,7 +23,7 @@ Plastic Fantastic
 
 Plastic Fantastic 
  
-Having been banned from cockpits for over a year, [[The]] craze of [[The]] Bobblehead is set to return. Although seemingly innocuous, these little plastic figures have been implicated in thousands of accidents across known space, and have even been used by pirates and assassins to murder unwary pilots. But after intense lobbying from various pilot groups and toy manufacturers, production has begun on a new generation of Bobbleheads, [[Which]] will soon grace cockpits. 
+Having been banned from cockpits for over a year, The craze of The Bobblehead is set to return. Although seemingly innocuous, these little plastic figures have been implicated in thousands of accidents across known space, and have even been used by pirates and assassins to murder unwary pilots. But after intense lobbying from various pilot groups and toy manufacturers, production has begun on a new generation of Bobbleheads, Which will soon grace cockpits. 
 
 Security services have released safety advice to commanders regarding these cockpit adornments, reminding pilots to check their Bobblehead for explosives, hidden cameras and illicit drugs, and to ensure the Bobblehead is firmly affixed to the dashboard before undertaking any manoeuvres. 
 

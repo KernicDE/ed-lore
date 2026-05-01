@@ -21,7 +21,7 @@ topics:
 - corporate expansion
 - investigation
 player_impact: The corporate takeover generated significant market and political interest among pilots.
-summary: "*Pilots Federation ALERT* [[The capital]] system of the Alliance now hosts Lakon’s administrative hub and offers a 5% discount on Its ships."
+summary: "*Pilots Federation ALERT* The capital system of the Alliance now hosts Lakon’s administrative hub and offers a 5% discount on Its ships."
 modern_impact: "\"We welcome becoming closer partners with the Alliance.\" The Lakon Spaceways takeover saga demonstrated the Alliance's determination to maintain domestic shipbuilding independence against Federal corporate encroachment."
 related_uuids:
 - aa81f947-721e-52c8-a91e-906bf41c62b8
@@ -34,11 +34,11 @@ legacy_weight: 2
 significance: low
 ---
 
-*[[Pilots Federation ALERT*
-[[The]] capital]] system of the [[Alliance]] now hosts Lakon’s administrative hub and offers a 5% discount on [[Its]] ships.
-The company’s main offices have been relocated to the [[Lakon Spaceways]] Central planetary port on [[Alioth]] 1 a. 
-[[All shipyards within the Alioth]] system are offering a permanent 5% discount on sales of vessels manufactured by Lakon. Pilots will need to obtain a permit for Alioth to take advantage of [[This]] reduction.
+*Pilots Federation ALERT*
+The capital system of the Alliance now hosts Lakon’s administrative hub and offers a 5% discount on Its ships.
+The company’s main offices have been relocated to the Lakon Spaceways Central planetary port on Alioth 1 a. 
+All shipyards within the Alioth system are offering a permanent 5% discount on sales of vessels manufactured by Lakon. Pilots will need to obtain a permit for Alioth to take advantage of This reduction.
 Both the move and the discount reflect the Alliance’s recent purchase of a majority sharehold in the company. This was primarily to retain it as a key defence contractor for the Alliance Defence Force.
 Naomi Landseer, chairperson of the board of directors, announced:
-“We are extremely pleased to be partnered [[With the]] Alliance, especially after recent tumultuous events. Lakon’s highly regarded ships will remain available across the galaxy.”
-The attempted takeover of Lakon Spaceways by [[Core Dynamics]] was revoked due to revelations of illegal practices by its former CEO, [[Jupiter Rochester]]. Federal news sources have reported that a rapid restructure is taking place within Core Dynamics, alongside investigations by the Federal Intelligence Agency.
+“We are extremely pleased to be partnered With the Alliance, especially after recent tumultuous events. Lakon’s highly regarded ships will remain available across the galaxy.”
+The attempted takeover of Lakon Spaceways by Core Dynamics was revoked due to revelations of illegal practices by its former CEO, Jupiter Rochester. Federal news sources have reported that a rapid restructure is taking place within Core Dynamics, alongside investigations by the Federal Intelligence Agency.

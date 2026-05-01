@@ -23,16 +23,16 @@ significance: low
 Community Goal: A Safe Haven
 
 
-A spokesperson for [[The]] [[Pilots Federation]] has announced a new peacekeeping initiative centred on the LHS 3447, [[Eravate and Asellus Primus]] systems. The purpose of the initiative is to minimise criminal activity in these regions and thereby ensure the safety of inexperienced pilots. 
+A spokesperson for The Pilots Federation has announced a new peacekeeping initiative centred on the LHS 3447, Eravate and Asellus Primus systems. The purpose of the initiative is to minimise criminal activity in these regions and thereby ensure the safety of inexperienced pilots. 
 
 The spokesperson elaborated on the nature of the campaign: 
 
-“[[Many of the]] galaxy’s [[Independent]] pilots start their careers in these systems, and we believe they should be able operate without fear of being targeted by opportunistic aggressors.” 
+“Many of the galaxy’s Independent pilots start their careers in these systems, and we believe they should be able operate without fear of being targeted by opportunistic aggressors.” 
 
-“Of course, pilots will not be the only beneficiaries of [[This]] initiative – the people of LHS 3447, Eravate and Asellus Primus will also benefit from the increase in security.” 
+“Of course, pilots will not be the only beneficiaries of This initiative – the people of LHS 3447, Eravate and Asellus Primus will also benefit from the increase in security.” 
 
-[[Authorities in the pertinent]] systems have responded positively to the proposal, [[With]] Governor [[Mandelbaum]], administrator of Cleve Hub, describing it as “a boon to [[Our]] people”. They have also expressed hope that the success of the initiative will allow peacekeeping forces to maintain order once the campaign is over. 
+Authorities in the pertinent systems have responded positively to the proposal, With Governor Mandelbaum, administrator of Cleve Hub, describing it as “a boon to Our people”. They have also expressed hope that the success of the initiative will allow peacekeeping forces to maintain order once the campaign is over. 
 
 The Pilots Federation has called on the galaxy’s independent combat pilots for support, and has authorised Adle’s Armada, LHS 3447 Dynamic and Co, and Asellus Primus Gold Legal Ind. to reward those who support the initiative. 
 
-The campaign begins on the 29th of June 3303 and will [[Run]] for [[One]] week. If the final target is met earlier than planned, the campaign will end immediately.
+The campaign begins on the 29th of June 3303 and will Run for One week. If the final target is met earlier than planned, the campaign will end immediately.

@@ -13,10 +13,10 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: [[Felicia Winters]] Comments on Halsey's Committal
+Galactic News: Felicia Winters Comments on Halsey's Committal
 
 
-At a recent event at [[The]] [[Mars]] Business Society, Federal [[Shadow President]] [[Felicia Winters responded]] to a question concerning the hospitalisation of former Federal [[President Jasmina Halsey]]: 
+At a recent event at The Mars Business Society, Federal Shadow President Felicia Winters responded to a question concerning the hospitalisation of former Federal President Jasmina Halsey: 
 
 "It was clear from the outset that she'd experienced a traumatic event, and that it impacted her psychologically as well as physically. I hope she receives the treatment she needs." 
 

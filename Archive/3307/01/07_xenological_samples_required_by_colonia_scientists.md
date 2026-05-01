@@ -32,10 +32,10 @@ legacy_weight: 4
 significance: high
 ---
 
-*[[Pilots Federation]] ALERT*
-[[The]] [[Holloway Bioscience Institute]] in Colonia is offering high payouts for delivering samples from space-dwelling lifeforms.
-The Holloway Biology Centre on Colonia 7 G is the organisation’s primary research laboratory, [[Which]] specialises in xenological studies. [[Jaques Station]], which is [[Also in the]] Colonia system, has agreed to serve [[As the]] delivery point for [[This]] initiative.
-Chief researcher Dr [[Roy [[Casimir]] outlined]] the requirements:
-“There is still a huge amount to learn about the fascinating structures that grow within the vacuum of space. As [[Our]] stock of specimens is running low, we require fresh tissue samples from living organisms to continue our experimentation programme.”
-“I appreciate that our facility is [[Located]] a considerable distance from the core systems, but we’re willing to offer generous reimbursement for those who make the journey.”
-Pilots are requested to extract any type of tissue sample, including pod mesoglea, from any type of seed pod. These are to be delivered to [[Jaques Station in the Colonia]] system.
+*Pilots Federation ALERT*
+The Holloway Bioscience Institute in Colonia is offering high payouts for delivering samples from space-dwelling lifeforms.
+The Holloway Biology Centre on Colonia 7 G is the organisation’s primary research laboratory, Which specialises in xenological studies. Jaques Station, which is Also in the Colonia system, has agreed to serve As the delivery point for This initiative.
+Chief researcher Dr Roy Casimir outlined the requirements:
+“There is still a huge amount to learn about the fascinating structures that grow within the vacuum of space. As Our stock of specimens is running low, we require fresh tissue samples from living organisms to continue our experimentation programme.”
+“I appreciate that our facility is Located a considerable distance from the core systems, but we’re willing to offer generous reimbursement for those who make the journey.”
+Pilots are requested to extract any type of tissue sample, including pod mesoglea, from any type of seed pod. These are to be delivered to Jaques Station in the Colonia system.

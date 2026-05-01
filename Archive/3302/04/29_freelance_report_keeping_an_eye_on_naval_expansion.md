@@ -23,14 +23,14 @@ significance: high
 Freelance Report: Keeping an Eye on Naval Expansion
 
 
-On [[The]] popular [[Independent]] talk show 'Affairs of State', political commentator Walter Astoria defended the recent construction of a new [[Alliance]] outpost while expressing concern about Federal and Imperial naval expansion. 
+On The popular Independent talk show 'Affairs of State', political commentator Walter Astoria defended the recent construction of a new Alliance outpost while expressing concern about Federal and Imperial naval expansion. 
 
 "Who cares if the new Alliance outpost is a listening post? The Federation and Empire are building capital ships, and they feel threatened by an outpost? Give me a break!" 
 
-"Federal shipyards have been running at maximum capacity since President Hudson's inauguration. Since then, the Federation's only noteworthy naval action was in Kausalya against [[Emperor's Dawn]]." 
+"Federal shipyards have been running at maximum capacity since President Hudson's inauguration. Since then, the Federation's only noteworthy naval action was in Kausalya against Emperor's Dawn." 
 
-"It may be less troubling to see the Empire replenishing [[Its]] forces, given its prolonged campaign against Emperor's Dawn, but a new battle group built around a new Majestic is clearly an attempt to maintain the status quo." 
+"It may be less troubling to see the Empire replenishing Its forces, given its prolonged campaign against Emperor's Dawn, but a new battle group built around a new Majestic is clearly an attempt to maintain the status quo." 
 
-"Review your history – there aren't [[Many]] examples of arms races cultivating peace and mutual understanding. [[This]] doesn't bode well." 
+"Review your history – there aren't Many examples of arms races cultivating peace and mutual understanding. This doesn't bode well." 
 
-Commander [[Corrigendum]]
+Commander Corrigendum

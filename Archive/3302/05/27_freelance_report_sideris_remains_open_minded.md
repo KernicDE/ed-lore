@@ -23,12 +23,12 @@ significance: high
 Freelance Report: Sideris Remains Open Minded
 
 
-Cynthia Sideris, chair of [[Universal Cartographics]], made a brief comment outside UC headquarters [[This]] morning on [[Jasmina Halsey]]'s ostensibly unsuccessful search for [[The]] "architects of creation": 
+Cynthia Sideris, chair of Universal Cartographics, made a brief comment outside UC headquarters This morning on Jasmina Halsey's ostensibly unsuccessful search for The "architects of creation": 
 
-"Whether or not President [[Halsey's 'architects' exist]] is open to question, but chances are that some form of non-human sentience exists in [[Our]] galaxy. We've received data from as [[Far]] as [[Beagle Point]], but even that represents only an infinitesimal fraction of known stars in the galaxy. We can only keep looking." 
+"Whether or not President Halsey's 'architects' exist is open to question, but chances are that some form of non-human sentience exists in Our galaxy. We've received data from as Far as Beagle Point, but even that represents only an infinitesimal fraction of known stars in the galaxy. We can only keep looking." 
 
-President Halsey's psychological review [[Continues]]. 
+President Halsey's psychological review Continues. 
 
-Commander [[Stateira Eleshenar]] 
+Commander Stateira Eleshenar 
 
-Zandu Science Journal | [[Interstellar Press]]
+Zandu Science Journal | Interstellar Press

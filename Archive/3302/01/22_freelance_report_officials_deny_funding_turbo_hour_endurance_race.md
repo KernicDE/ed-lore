@@ -20,11 +20,11 @@ significance: low
 Freelance Report: Officials Deny Funding 'Turbo Hour' Endurance Race
 
 
-Officials at Kanwar Horizons in [[The]] Turbo system have strenuously denied allegations of involvement in an unsanctioned [[Buckyball Racing Club]] event known [[As the]] 'Turbo Hour Endurance Race', [[Which]] will apparently [[Run]] alongside the station's annual air show and starship exhibition. 
+Officials at Kanwar Horizons in The Turbo system have strenuously denied allegations of involvement in an unsanctioned Buckyball Racing Club event known As the 'Turbo Hour Endurance Race', Which will apparently Run alongside the station's annual air show and starship exhibition. 
 
-Station entertainment director Hector LeMans described as "preposterous" claims that the Turbo Blue Netcoms Exchange was secretly bankrolling the race in order to attract larger crowds. "[[Our]] air show is wholesome entertainment, and we don't want it ruined by these Buckyballers and their 'high-octane' shenanigans," he said. 
+Station entertainment director Hector LeMans described as "preposterous" claims that the Turbo Blue Netcoms Exchange was secretly bankrolling the race in order to attract larger crowds. "Our air show is wholesome entertainment, and we don't want it ruined by these Buckyballers and their 'high-octane' shenanigans," he said. 
 
-LeMans had a clear message for anyone tempted by rumours of free ship resprays for the winners: "I'm sure that [[Authorities in the]] 49 D Orionis, [[Unkulcay and Vasak]] systems would agree that racers will find the same strictly-enforced speed limits and standard market prices for fuel and repairs at our stations as any [[Other]] law-abiding pilot." 
+LeMans had a clear message for anyone tempted by rumours of free ship resprays for the winners: "I'm sure that Authorities in the 49 D Orionis, Unkulcay and Vasak systems would agree that racers will find the same strictly-enforced speed limits and standard market prices for fuel and repairs at our stations as any Other law-abiding pilot." 
 
 The air show will run from the 25th of January to the 12th of February. 
 

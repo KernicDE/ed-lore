@@ -17,11 +17,11 @@ legacy_weight: 2
 significance: low
 ---
 
-Garrison Supplies [[Found]] in Criminal Hands
+Garrison Supplies Found in Criminal Hands
 
 
-Numerous civil wars have been fought between criminal groups and system governments throughout Imperial space over [[The]] past month, and corrupt governments and cartels have been overthrown in [[Many]] instances. Investigations into the conflicts have uncovered disturbing connections, as many confiscated weapons and munitions bear serial numbers of garrison supplies stockpiled in the [[Guathiti]] system. 
+Numerous civil wars have been fought between criminal groups and system governments throughout Imperial space over The past month, and corrupt governments and cartels have been overthrown in Many instances. Investigations into the conflicts have uncovered disturbing connections, as many confiscated weapons and munitions bear serial numbers of garrison supplies stockpiled in the Guathiti system. 
 
-Evidence currently points to growing corruption in the Delta Doradus region. Disturbing correlations can be drawn between [[This]] lawless activity and the [[Kumo Crew]]'s influence in systems they seek to overthrow. Imperial investigators have been despatched. 
+Evidence currently points to growing corruption in the Delta Doradus region. Disturbing correlations can be drawn between This lawless activity and the Kumo Crew's influence in systems they seek to overthrow. Imperial investigators have been despatched. 
 
-Commander [[Corrigendum]]
+Commander Corrigendum

@@ -18,8 +18,8 @@ significance: medium
 Galactic News: Superpower Campaigns Conclude
 
 
-[[The]] Empire and the Federation have released statements announcing the successful conclusion of their respective campaigns. Both superpowers received huge quantities of construction material over the past week, allowing them to start work on new outposts in the Pleiades region. 
+The Empire and the Federation have released statements announcing the successful conclusion of their respective campaigns. Both superpowers received huge quantities of construction material over the past week, allowing them to start work on new outposts in the Pleiades region. 
 
-The [[Merope]] Expeditionary Fleet and the Pleiades Resource [[Enterprise]] have extended their gratitude to those who supported their campaigns. 
+The Merope Expeditionary Fleet and the Pleiades Resource Enterprise have extended their gratitude to those who supported their campaigns. 
 
 Pilots who contributed to the Federal initiative can collect their rewards from PRE Logistics Support Gamma, while pilots who supported the Imperial campaign can collect their rewards from Moni's Hub.

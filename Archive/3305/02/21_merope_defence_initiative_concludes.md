@@ -24,14 +24,14 @@ related_uuids:
 - d77c5375-5970-5d66-9b49-e5491ec299ad
 ---
 
-[[Merope]] Defence Initiative Concludes
+Merope Defence Initiative Concludes
 
 
-A military supply campaign to increase security in [[The]] Merope system has concluded successfully. 
+A military supply campaign to increase security in The Merope system has concluded successfully. 
 
-Jacob Chowdhury, Defence Director of the [[Atlas]] Research Group, said: 
+Jacob Chowdhury, Defence Director of the Atlas Research Group, said: 
 
-"[[Our]] gratitude to all the pilots who delivered Reactive Armour and Military Grade Fabrics. These resources will prove vital in enhancing Merope's defences against [[Thargoid]] attacks." 
+"Our gratitude to all the pilots who delivered Reactive Armour and Military Grade Fabrics. These resources will prove vital in enhancing Merope's defences against Thargoid attacks." 
 
 The Atlas Research Group also helped protect traders from piracy by placing kill orders on all wanted ships in the system. 
 

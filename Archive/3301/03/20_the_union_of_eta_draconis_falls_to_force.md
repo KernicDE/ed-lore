@@ -14,13 +14,13 @@ legacy_weight: 2
 significance: low
 ---
 
-[[The]] Union of Eta Draconis Falls to Force
+The Union of Eta Draconis Falls to Force
 
 
-Inside sources report that a covert raid, carried out by special operation forces acting on behalf of [[The]] Gold Vision Company, has led to the capture of Swift Terminal in Eta Draconis.  
+Inside sources report that a covert raid, carried out by special operation forces acting on behalf of The Gold Vision Company, has led to the capture of Swift Terminal in Eta Draconis.  
 
-[[According to]] eye witness accounts, a small team of silent sidewinders managed to penetrate select points of the starport. Special operatives then manoeuvred towards, and captured, the main control terminal. They then shut down all power to the docking bays, allowing the main assault force unrestricted [[Access to the]] port. 
+According to eye witness accounts, a small team of silent sidewinders managed to penetrate select points of the starport. Special operatives then manoeuvred towards, and captured, the main control terminal. They then shut down all power to the docking bays, allowing the main assault force unrestricted Access to the port. 
 
-When asked for comment, President [[Vondell]] of the Gold Vision Company had [[This]] to say: 
+When asked for comment, President Vondell of the Gold Vision Company had This to say: 
 
-“We here at Gold Vision are proud of [[Our]] soldiers who were fighting on the front-lines aboard Swift Terminal and on the surface of B5. I want to give a big thank you to my right hand men and women, the 8th Dragon Squadron. Without them fighting in the black, risking their lives [[Every]] second, [[This]] would have never been possible. This is a new day for us, but rest assured we wish for nothing more than to bring peace and prosperity to the people of Eta Draconis.”
+“We here at Gold Vision are proud of Our soldiers who were fighting on the front-lines aboard Swift Terminal and on the surface of B5. I want to give a big thank you to my right hand men and women, the 8th Dragon Squadron. Without them fighting in the black, risking their lives Every second, This would have never been possible. This is a new day for us, but rest assured we wish for nothing more than to bring peace and prosperity to the people of Eta Draconis.”

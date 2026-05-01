@@ -25,10 +25,10 @@ related_uuids:
 Cobra Wing Campaign Concludes
 
 
-A spokesperson for [[The]] Cobra Wing has announced that [[Its]] campaign to build a research outpost in the Ebor system has been enthusiastically received by the galactic community. Scores of pilots supported the campaign by delivering commodities to Morris [[Enterprise]] and eliminating agitators in Ebor, thereby ensuring the safety of traders. 
+A spokesperson for The Cobra Wing has announced that Its campaign to build a research outpost in the Ebor system has been enthusiastically received by the galactic community. Scores of pilots supported the campaign by delivering commodities to Morris Enterprise and eliminating agitators in Ebor, thereby ensuring the safety of traders. 
 
-A spokesperson for the Cobra Wing released [[The following]] statement: 
+A spokesperson for the Cobra Wing released The following statement: 
 
-“We want to thank all the Commanders who supported [[This]] campaign. We hope that the new outpost helps us communicate [[With]] [[Our]] neighbours and achieve peace.” 
+“We want to thank all the Commanders who supported This campaign. We hope that the new outpost helps us communicate With Our neighbours and achieve peace.” 
 
-Pilots who contributed to the initiative can now collect their rewards from [[Morris Enterprise in the Ebor]] system.
+Pilots who contributed to the initiative can now collect their rewards from Morris Enterprise in the Ebor system.

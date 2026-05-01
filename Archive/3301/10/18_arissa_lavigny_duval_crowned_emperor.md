@@ -27,20 +27,20 @@ legacy_weight: 5
 significance: high
 ---
 
-Arissa [[Lavigny-Duval]] Crowned Emperor
+Arissa Lavigny-Duval Crowned Emperor
 
 
-Today, dawn broke above an expectant [[Capitol]] as Imperial citizens awaited [[The]] coronation of the first female Emperor (the [[Imperial Senate]] having determined that 'Emperor' should be used for both male and female rulers). It looked like [[The entire]] population had come to witness the procession of Arissa Lavigny-Duval through the city to the [[Imperial Palace]]. 
+Today, dawn broke above an expectant Capitol as Imperial citizens awaited The coronation of the first female Emperor (the Imperial Senate having determined that 'Emperor' should be used for both male and female rulers). It looked like The entire population had come to witness the procession of Arissa Lavigny-Duval through the city to the Imperial Palace. 
 
-The crowd's excitement was palpable, but it was undercut by uncertainty over whether the insurgent organisation [[Emperor's Dawn]] would succeed in disrupting the coronation ceremony, as they claimed they would. There have been rumours that Emperor-to-be Arissa refused to travel [[In a]] closed speeder, despite concerns for her safety, and she looked [[Every]] part the Emperor [[As the]] procession made [[Its]] way sedately through the city. 
+The crowd's excitement was palpable, but it was undercut by uncertainty over whether the insurgent organisation Emperor's Dawn would succeed in disrupting the coronation ceremony, as they claimed they would. There have been rumours that Emperor-to-be Arissa refused to travel In a closed speeder, despite concerns for her safety, and she looked Every part the Emperor As the procession made Its way sedately through the city. 
 
-The military and security presence was visible throughout the city, [[With]] Naval Infantry in full dress uniform lining the streets. A full company of [[Imperial Guard]] marched alongside the Senator's vehicle, their stark black uniforms contrasting [[With the]] crisp whites of the Naval Infantry. 
+The military and security presence was visible throughout the city, With Naval Infantry in full dress uniform lining the streets. A full company of Imperial Guard marched alongside the Senator's vehicle, their stark black uniforms contrasting With the crisp whites of the Naval Infantry. 
 
 The procession arrived at the palace at exactly midday, where the senators and Imperial family waited. The brief ceremony was transmitted live throughout the Empire, and screened at key locations in the city so the crowds could watch. The multitude roared their appreciation to the sky as Emperor-to-be Arissa Lavigny-Duval completed her vows of office. 
 
-At the conclusion of the ceremony, [[Emperor Arissa Lavigny-Duval]] offered a few words for her people: 
+At the conclusion of the ceremony, Emperor Arissa Lavigny-Duval offered a few words for her people: 
 
-"[[This]] is a day I cannot compare to any [[Other]]. The trust my fellow senators have shown in me makes me all the more determined to overcome the challenges we will surely face in the coming weeks and months. For too long we have suffered from uncertainty in the wake of the Emperor's death.  
+"This is a day I cannot compare to any Other. The trust my fellow senators have shown in me makes me all the more determined to overcome the challenges we will surely face in the coming weeks and months. For too long we have suffered from uncertainty in the wake of the Emperor's death.  
 
 "I had the great fortune to talk with the late Emperor in his final days, and to learn how he planned to strengthen the Empire in these times of change. In the coming weeks, I will announce the formation of my government and my plans to tackle the threats facing the Empire. 
 

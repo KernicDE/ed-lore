@@ -17,11 +17,11 @@ legacy_weight: 1
 significance: low
 ---
 
-Galactic News: Presidential [[Vessel]] Retired
+Galactic News: Presidential Vessel Retired
 
 
-For [[The]] past six years, the Federation has used a pair of customised Saud Kruger Narwhal Liners (upgraded variants of the successful Beluga Liner) [[As the]] personal vessels of the Federal president. Last year, [[One]] of these vessels was lost [[In a]] tragic accident. Today, the remaining vessel will be retired. 
+For The past six years, the Federation has used a pair of customised Saud Kruger Narwhal Liners (upgraded variants of the successful Beluga Liner) As the personal vessels of the Federal president. Last year, One of these vessels was lost In a tragic accident. Today, the remaining vessel will be retired. 
 
-Bexley Jones, a spokeswoman for [[President Zachary Hudson]], said: "It is of the utmost importance that the ship bearing the callsign 'Starship One' can function as a mobile base of operations for the president, providing him [[With]] everything he needs while off-planet, in addition to offering total safety. Given the Beluga's primary designation as a passenger vessel, we have decided that it is unable meet these demands." 
+Bexley Jones, a spokeswoman for President Zachary Hudson, said: "It is of the utmost importance that the ship bearing the callsign 'Starship One' can function as a mobile base of operations for the president, providing him With everything he needs while off-planet, in addition to offering total safety. Given the Beluga's primary designation as a passenger vessel, we have decided that it is unable meet these demands." 
 
-Jones confirmed that the remaining Narwhal will be replaced with a pair of modified Farragut Battle Cruisers, a mainstay of the [[Federal Navy]]. The formidable vessels are equipped with an extensive array of heavy weaponry, and are capable of transporting multiple Federal Corvettes and a large F63 Condor squadron. "In these dangerous times, it is essential that the presidential vessel be able to offer comprehensive military support, and the Farragut Battle Cruiser can do just that," said Jones.
+Jones confirmed that the remaining Narwhal will be replaced with a pair of modified Farragut Battle Cruisers, a mainstay of the Federal Navy. The formidable vessels are equipped with an extensive array of heavy weaponry, and are capable of transporting multiple Federal Corvettes and a large F63 Condor squadron. "In these dangerous times, it is essential that the presidential vessel be able to offer comprehensive military support, and the Farragut Battle Cruiser can do just that," said Jones.

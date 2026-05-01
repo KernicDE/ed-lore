@@ -29,17 +29,17 @@ related_uuids:
 - d8a5c18a-c8ac-5363-9968-eb4c2f531b62
 ---
 
-Empire Engages [[Nova Imperium]]
+Empire Engages Nova Imperium
 
 
-[[The]] Empire has entered a state of conflict [[With the]] isolationist group Nova Imperium in the [[Paresa]] system.  
+The Empire has entered a state of conflict With the isolationist group Nova Imperium in the Paresa system.  
 
-[[Senator Denton Patreus]] announced: 
+Senator Denton Patreus announced: 
 
-"The loyal Imperials of Yupini Limited have engaged the isolationists' illegal armada. We call upon Imperial auxiliaries to support [[Our]] allies and destroy the Nova Imperium fleet." 
+"The loyal Imperials of Yupini Limited have engaged the isolationists' illegal armada. We call upon Imperial auxiliaries to support Our allies and destroy the Nova Imperium fleet." 
 
 Imperator Mordanticus, leader of Nova Imperium, has requested the support of the galactic community: 
 
-"Nova Imperium's survival depends upon winning [[This]] battle. I urge all those who believe that Hadrian Duval should be the Emperor to support us." 
+"Nova Imperium's survival depends upon winning This battle. I urge all those who believe that Hadrian Duval should be the Emperor to support us." 
 
-The two factions have set out week-long campaigns to overcome their foes, [[Which]] will begin on the 10th of January 3305.
+The two factions have set out week-long campaigns to overcome their foes, Which will begin on the 10th of January 3305.

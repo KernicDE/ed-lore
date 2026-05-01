@@ -14,10 +14,10 @@ significance: low
 Galactic News: Conspiracy Theorist's Appeal Ends
 
 
-Kruger 60 Free has announced that [[The]] galactic community has responded [[With]] surprising enthusiasm to the recent appeal from conspiracy theorist Ricardo Bentonio. [[Hundreds of]] pilots chose to support Bentonio's campaign, bringing him cartographic data so he could prove that the 29th of February 3302 was an 'aberrant day' heralding the imminent collapse of the universe. 
+Kruger 60 Free has announced that The galactic community has responded With surprising enthusiasm to the recent appeal from conspiracy theorist Ricardo Bentonio. Hundreds of pilots chose to support Bentonio's campaign, bringing him cartographic data so he could prove that the 29th of February 3302 was an 'aberrant day' heralding the imminent collapse of the universe. 
 
 Although no indications of universal catastrophe have been reported, Bentonio still appears to believe that the irregular day is a harbinger of humanity's impending doom: 
 
-"It will happen – you mark my words! [[This]] day is an anomaly, and should never have been. It's the end!" 
+"It will happen – you mark my words! This day is an anomaly, and should never have been. It's the end!" 
 
-At the time of writing, the universe [[Continues]] to exist.
+At the time of writing, the universe Continues to exist.

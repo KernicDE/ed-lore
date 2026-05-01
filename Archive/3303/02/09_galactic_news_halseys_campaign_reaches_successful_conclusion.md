@@ -15,12 +15,12 @@ significance: low
 Galactic News: Halsey's Campaign Reaches Successful Conclusion
 
 
-Former Federal [[President Jasmina Halsey]] has announced that her campaign to establish a rehabilitation centre for victims of war has received [[The]] wholehearted support of the galactic community. [[Hundreds of]] pilots supported the campaign by delivering construction materials to Dirichlet Orbital, the campaign's centre. 
+Former Federal President Jasmina Halsey has announced that her campaign to establish a rehabilitation centre for victims of war has received The wholehearted support of the galactic community. Hundreds of pilots supported the campaign by delivering construction materials to Dirichlet Orbital, the campaign's centre. 
 
-[[As the]] campaign drew to a close, [[Jasmina Halsey]] released a statement: 
+As the campaign drew to a close, Jasmina Halsey released a statement: 
 
 "It is clear to me that, in the current political climate, peace cannot be achieved without practical effort. It feels so good to do something that will have a measurable impact." 
 
-"My sincere thanks go to the [[Many]] pilots who supported [[This]] campaign, and to the Yum Kamcabi Purple Life Industry for [[Its]] generous financial support." 
+"My sincere thanks go to the Many pilots who supported This campaign, and to the Yum Kamcabi Purple Life Industry for Its generous financial support." 
 
 Pilots who contributed to the initiative can now collect their rewards from Dirichlet Orbital in the Yum Kamcabi system.

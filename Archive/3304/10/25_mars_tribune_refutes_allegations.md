@@ -29,15 +29,15 @@ related_uuids:
 - c5cb5bec-f7cd-563c-9c57-d8f5ede49843
 ---
 
-[[Mars]] Tribune Refutes Allegations
+Mars Tribune Refutes Allegations
 
 
-[[As the]] [[Federal Security Service]] [[Continues]] [[Its]] investigation into [[The]] Mars Tribune for illegally obtaining the private information of Federal citizens, the newsfeed’s parent company, the Cordova Group, has filed a formal complaint.  
+As the Federal Security Service Continues Its investigation into The Mars Tribune for illegally obtaining the private information of Federal citizens, the newsfeed’s parent company, the Cordova Group, has filed a formal complaint.  
 
-The FSS has established that the administration robots of [[Dozens of]] public figures and wealthy individuals have been fitted [[With]] hidden surveillance programs, and that these programs may be the source of [[Several]] scandals exposed, exclusively, by The Mars Tribune. 
+The FSS has established that the administration robots of Dozens of public figures and wealthy individuals have been fitted With hidden surveillance programs, and that these programs may be the source of Several scandals exposed, exclusively, by The Mars Tribune. 
 
 Kingsley Cordova, billionaire owner of The Mars Tribune, addressed the situation in an editorial: 
 
-“These accusations are an insult to [[Our]] journalistic integrity. Are we to be punished for uncovering liars and criminals? Our readers have always been grateful to us for shining a light into [[Sol]]’s murky corners.” 
+“These accusations are an insult to Our journalistic integrity. Are we to be punished for uncovering liars and criminals? Our readers have always been grateful to us for shining a light into Sol’s murky corners.” 
 
 “I suggest that the FSS treads more cautiously. These robots apparently have access to very sensitive data. Imagine if they publicly broadcasted everything they’d learned about their owners.”

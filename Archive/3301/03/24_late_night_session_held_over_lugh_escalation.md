@@ -19,13 +19,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Late Night Session Held Over [[Lugh]] Escalation
+Late Night Session Held Over Lugh Escalation
 
 
-[[The]] debate in Congress turned ugly tonight, as members of both parties grilled [[The]] President over her mishandling of the Federation’s interests during the last six months. 
+The debate in Congress turned ugly tonight, as members of both parties grilled The President over her mishandling of the Federation’s interests during the last six months. 
 
-Particularly hot topics included the heavy-handed ban against [[Onionhead]], the resultant bombing of [[Panem]], the loss of multiple frontier systems to pirates and apathy, as well as her most recent blunders in the handling of the attack on [[Lugh]]. 
+Particularly hot topics included the heavy-handed ban against Onionhead, the resultant bombing of Panem, the loss of multiple frontier systems to pirates and apathy, as well as her most recent blunders in the handling of the attack on Lugh. 
 
-[[Shadow President]] [[Hudson went so [[Far]] as]] to remark: 
+Shadow President Hudson went so Far as to remark: 
 
-“The [[Federal Navy]] handed you victory in Lugh on a silver platter, and how do you thank them? You murder thousands of [[Our]] own people! The incompetence has to stop and it has to stop now!”
+“The Federal Navy handed you victory in Lugh on a silver platter, and how do you thank them? You murder thousands of Our own people! The incompetence has to stop and it has to stop now!”

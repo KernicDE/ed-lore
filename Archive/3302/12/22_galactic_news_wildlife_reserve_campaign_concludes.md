@@ -21,14 +21,14 @@ significance: low
 Galactic News: Wildlife Reserve Campaign Concludes
 
 
-[[Media outlets in [[The]] LP 339-7]] system have reported that the Starship Enterprises Corporation wildlife reserve campaign has reached a successful conclusion. 
+Media outlets in The LP 339-7 system have reported that the Starship Enterprises Corporation wildlife reserve campaign has reached a successful conclusion. 
 
-[[Hundreds of]] [[Independent]] pilots supported the campaign by delivering essential commodities to Whitson Orbital and neutralising agitators in the [[LP 339-7]] system, allowing those contributing commodities to do so safely. 
+Hundreds of Independent pilots supported the campaign by delivering essential commodities to Whitson Orbital and neutralising agitators in the LP 339-7 system, allowing those contributing commodities to do so safely. 
 
 The commodities will be used to establish a wildlife reserve on the planet LP 339-7 4 A, thereby fulfilling the organisation's ambition to transform LP 339-7 into a popular tourist destination. 
 
-Dr [[Lewis Chapman]], CEO of Starship Enterprises, released [[The following]] statement: 
+Dr Lewis Chapman, CEO of Starship Enterprises, released The following statement: 
 
-"We are delighted [[With the]] response to [[This]] campaign. As we speak, hundreds of animals are being grown in special in vitro chambers. Soon they will be transported to the reserve." 
+"We are delighted With the response to This campaign. As we speak, hundreds of animals are being grown in special in vitro chambers. Soon they will be transported to the reserve." 
 
 Pilots who contributed to the initiative can now collect their rewards from Whitson Orbital in the LP 339-7 system.

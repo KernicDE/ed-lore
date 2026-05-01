@@ -23,10 +23,10 @@ legacy_weight: 3
 significance: medium
 ---
 
-*[[Pilots Federation]] ALERT*
-[[Brewer Corporation]] requests deliveries in [[The]] [[Alcor and Colonia]] systems for the next phase of the [[Colonia Bridge]] project.
-A successful initiative in [[October]] resulted in the placement of 30 dockable megaships at intervals of [[Several]] hundred light years, providing services such as refuelling and repairs. The second phase seeks to establish [[This]] support for the full route between the core systems and the Colonia region.
+*Pilots Federation ALERT*
+Brewer Corporation requests deliveries in The Alcor and Colonia systems for the next phase of the Colonia Bridge project.
+A successful initiative in October resulted in the placement of 30 dockable megaships at intervals of Several hundred light years, providing services such as refuelling and repairs. The second phase seeks to establish This support for the full route between the core systems and the Colonia region.
 A press release from Brewer Corporation stated:
-“We are now ready to continue work on the Colonia [[Bridge]], by constructing additional megaships to fill the middle of the planned route. As before, we require shipments of ceramic composites, computer components and thermal cooling units at [[Macdonald Settlement in the Alcor]] system or [[Jaques Station in the Colonia]] system.”
-“Should deliveries reach sufficient levels, the top 75% of contributors will be awarded an engineered [[Frame Shift Drive]] [[With]] increased range and faster boot sequence. [[Our]] hope is that this encourages deep space explorers and long-distance haulers to take part in the Colonia Bridge project.”
+“We are now ready to continue work on the Colonia Bridge, by constructing additional megaships to fill the middle of the planned route. As before, we require shipments of ceramic composites, computer components and thermal cooling units at Macdonald Settlement in the Alcor system or Jaques Station in the Colonia system.”
+“Should deliveries reach sufficient levels, the top 75% of contributors will be awarded an engineered Frame Shift Drive With increased range and faster boot sequence. Our hope is that this encourages deep space explorers and long-distance haulers to take part in the Colonia Bridge project.”
 As an additional reward, the top ten contributors at Alcor and Colonia will be invited to submit naming suggestions for the new megaships. Submissions will be subject to review by the Brewer Corporation board of directors. To ensure a variety of choice, only pilots who have not yet submitted names for the Colonia Bridge megaships will be eligible.

@@ -24,8 +24,8 @@ significance: high
 Galactic News: Concern over New Ship Modules
 
 
-Recent reports indicate that some members of [[The]] galactic community are concerned about the development of Unknown Artefact-resistant ship modules. Critics of the new technology, developed by Professor [[Lea Tantaga]], have claimed it will facilitate [[Further]] black-market trade of Unknown Artefacts, thus exacerbating the so-called technological plague. 
+Recent reports indicate that some members of The galactic community are concerned about the development of Unknown Artefact-resistant ship modules. Critics of the new technology, developed by Professor Lea Tantaga, have claimed it will facilitate Further black-market trade of Unknown Artefacts, thus exacerbating the so-called technological plague. 
 
-In an attempt to counter the rising concern, a member of the technical team at [[Obsidian Orbital]] released [[The following]] statement: 
+In an attempt to counter the rising concern, a member of the technical team at Obsidian Orbital released The following statement: 
 
-"I know some people are concerned that these new modules might aggravate the technological plague, but there's [[Every]] reason to believe we can use the Unknown Artefact-resistant material developed by Professor [[Tantaga]] to protect [[Our]] starports from UA-related malfunctions. All that's needed is for pilots to deliver meta-alloys to the affected starports. We'll do the rest."
+"I know some people are concerned that these new modules might aggravate the technological plague, but there's Every reason to believe we can use the Unknown Artefact-resistant material developed by Professor Tantaga to protect Our starports from UA-related malfunctions. All that's needed is for pilots to deliver meta-alloys to the affected starports. We'll do the rest."

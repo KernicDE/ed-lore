@@ -24,15 +24,15 @@ legacy_weight: 2
 significance: low
 ---
 
-Galactic News: [[Sirius Corporation]] Campaign Ends
+Galactic News: Sirius Corporation Campaign Ends
 
 
-A spokesperson for [[The Sirius]] Corporation has announced that [[Its]] appeal for microresources has been enthusiastically received by [[The]] galactic community. [[Hundreds of]] pilots responded to the corporation's appeal by delivering unknown fragments, untypical shield scans and aberrant shield pattern analysis to [[Cormack Hub in the Procyon]] system. 
+A spokesperson for The Sirius Corporation has announced that Its appeal for microresources has been enthusiastically received by The galactic community. Hundreds of pilots responded to the corporation's appeal by delivering unknown fragments, untypical shield scans and aberrant shield pattern analysis to Cormack Hub in the Procyon system. 
 
-[[As the]] campaign drew to a close, Li-Yong Rui, CEO of Sirius Gov, released a statement: 
+As the campaign drew to a close, Li-Yong Rui, CEO of Sirius Gov, released a statement: 
 
 "While irresponsible fortune hunters continue to destabilise the galaxy's starports by selling Unknown Artefacts on the black market, the galaxy's superpowers stand idly by, mired in bureaucracy and paralysed by indecision. Well, we say: no more." 
 
-"I will do everything in my power to put an end to the technological plague and restore the galaxy's starports to functionality. The effort to conquer [[This]] epidemic starts now." 
+"I will do everything in my power to put an end to the technological plague and restore the galaxy's starports to functionality. The effort to conquer This epidemic starts now." 
 
-Pilots who contributed to the initiative can now collect their rewards from Cormack Hub in the [[Procyon]] system.
+Pilots who contributed to the initiative can now collect their rewards from Cormack Hub in the Procyon system.

@@ -35,12 +35,12 @@ Computer Companies Resume Development
 
 Rival companies Herculean Machines and Supratech have resumed development of their new personal computers. 
 
-Harlow Nassry, technology journalist at [[The]] [[Federal Times]], has been following events: 
+Harlow Nassry, technology journalist at The Federal Times, has been following events: 
 
-“After the mysterious fire that destroyed Supratech’s factory and the equally mysterious scandal that scared off Herculean Machines’s investors, it seemed like neither company would complete [[Its]] new designs.” 
+“After the mysterious fire that destroyed Supratech’s factory and the equally mysterious scandal that scared off Herculean Machines’s investors, it seemed like neither company would complete Its new designs.” 
 
-“But successful requests for public support have turned that around. Maddox Hurd and [[Scorpio DeVorrow]], the heads of Herculean and Supratech respectively, both received enough materials to produce functional prototypes for the Rackham Ultratech Expo on Wednesday the 3rd of [[October]].” 
+“But successful requests for public support have turned that around. Maddox Hurd and Scorpio DeVorrow, the heads of Herculean and Supratech respectively, both received enough materials to produce functional prototypes for the Rackham Ultratech Expo on Wednesday the 3rd of October.” 
 
-“[[This]] expo is crucial for both companies. Rackham Capital Investments and [[Other]] corporate sponsors will be paying close attention, and [[Zachary Rackham]] himself will be present, eager to get his hands on the latest gadgets.” 
+“This expo is crucial for both companies. Rackham Capital Investments and Other corporate sponsors will be paying close attention, and Zachary Rackham himself will be present, eager to get his hands on the latest gadgets.” 
 
-“Both the customisable Duradrive and the wearable Torc have captured the public imagination, [[But the]] prototypes’ performance is key. The amount of commodities [[Each]] company received might be the deciding factor in their commercial success.”
+“Both the customisable Duradrive and the wearable Torc have captured the public imagination, But the prototypes’ performance is key. The amount of commodities Each company received might be the deciding factor in their commercial success.”

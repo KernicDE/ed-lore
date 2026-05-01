@@ -28,8 +28,8 @@ related_uuids:
 ---
 
 *Pilots’ Federation ALERT*
-Erik Gunnarson of [[The]] [[Wallglass Investigations Agency]] provides an overview of the Winking Cat’s latest escapade.
-“The meaning of the message scrawled on the back of the Jokers’ Deck ceremonial playing card has become clear. [[This]] time, the galaxy’s most infamous larcenist is actually giving away treasure rather than stealing it.”
-“Three mysterious riddles were somehow inserted into the GalNet feed over the last week. Commanders have reported that clues within these riddles led them to three concealed caches, [[Each]] [[In a]] different system.”
-“[[According to]] the dates specified by the Winking Cat, these three caches will only be operational for a two-week period, ending on the 30th of December. We can then deduce that caches four, [[Five]] and six will activate today, and likewise remain available for the next two weeks.”
+Erik Gunnarson of The Wallglass Investigations Agency provides an overview of the Winking Cat’s latest escapade.
+“The meaning of the message scrawled on the back of the Jokers’ Deck ceremonial playing card has become clear. This time, the galaxy’s most infamous larcenist is actually giving away treasure rather than stealing it.”
+“Three mysterious riddles were somehow inserted into the GalNet feed over the last week. Commanders have reported that clues within these riddles led them to three concealed caches, Each In a different system.”
+“According to the dates specified by the Winking Cat, these three caches will only be operational for a two-week period, ending on the 30th of December. We can then deduce that caches four, Five and six will activate today, and likewise remain available for the next two weeks.”
 “This is not the first philanthropic gesture from the Winking Cat. The long-lost painting Penance Street reappeared in 3305 alongside the thief’s signature graphic of a cheeky feline face, but this is a more generous giveaway. Some even see it as a redistribution of wealth, noting that the Winking Cat only ever targets corporations, governments or super-rich individuals.”

@@ -28,11 +28,11 @@ related_uuids:
 Vitadyne Admits Nanomeds of Utopian Origin
 
 
-Professor [[Katrien Rook]] has responded to Pranav Antal's claim that her company's nanomedicines are of Utopian origin: 
+Professor Katrien Rook has responded to Pranav Antal's claim that her company's nanomedicines are of Utopian origin: 
 
-"I confess that Vitadyne Labs did not invent [[The]] nanomeds, but neither did we steal them. We were approached by [[Independent]] pilots who discovered a crashed Utopian transport ship. The recovered cargo canisters were clearly medical in nature, so the foragers sold them to us as legitimate salvage." 
+"I confess that Vitadyne Labs did not invent The nanomeds, but neither did we steal them. We were approached by Independent pilots who discovered a crashed Utopian transport ship. The recovered cargo canisters were clearly medical in nature, so the foragers sold them to us as legitimate salvage." 
 
-"I would be happy to return the original cargo to [[Utopia]] [[With]] [[Our]] apologies. The new nanomeds that we have created are our property, however, and I insist that we be allowed to continue their manufacture." 
+"I would be happy to return the original cargo to Utopia With Our apologies. The new nanomeds that we have created are our property, however, and I insist that we be allowed to continue their manufacture." 
 
 Pranav Antal swiftly issued a reply: 
 

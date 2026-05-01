@@ -22,16 +22,16 @@ legacy_weight: 3
 significance: medium
 ---
 
-Galactic News: No Sign of [[Jaques Station]]
+Galactic News: No Sign of Jaques Station
 
 
-Two weeks ago it was announced that Jaques Station, [[The]] galaxy's most famous travelling starport, would make an incredible long-distance jump from Gliese 1269 to [[Beagle Point]]. The proposed expedition received enthusiastic support from the galactic community, [[Which]] contributed thousands of tonnes of fuel to the ambitious campaign. 
+Two weeks ago it was announced that Jaques Station, The galaxy's most famous travelling starport, would make an incredible long-distance jump from Gliese 1269 to Beagle Point. The proposed expedition received enthusiastic support from the galactic community, Which contributed thousands of tonnes of fuel to the ambitious campaign. 
 
-But despite setting off almost a week ago, no communications have been received from Jaques Station since it departed, and explorers at Beagle Point have reported no sign of the outpost. Dr [[Kaii]], [[One]] of the leaders of the [[Distant Worlds]] Expedition, released [[The following]] statement: 
+But despite setting off almost a week ago, no communications have been received from Jaques Station since it departed, and explorers at Beagle Point have reported no sign of the outpost. Dr Kaii, One of the leaders of the Distant Worlds Expedition, released The following statement: 
 
-"I have received numerous updates from pilots in the vicinity of Beagle Point reporting 'no joy' on the Jacques jump. Members of the fleet have searched [[Nearby]] systems, but there is no sign of the station. A full investigation should be launched as soon as possible." 
+"I have received numerous updates from pilots in the vicinity of Beagle Point reporting 'no joy' on the Jacques jump. Members of the fleet have searched Nearby systems, but there is no sign of the station. A full investigation should be launched as soon as possible." 
 
-Kinsley Larson, an engineering specialist, offered [[This]] assessment to the [[Federal Times]]: 
+Kinsley Larson, an engineering specialist, offered This assessment to the Federal Times: 
 
 "I can't say I'm surprised. A leap like that would be a remarkable feat for a starship, never mind a starport. Even if Jaques Station survived the jump, there are countless things that could have gone wrong and caused it to veer off course. It could be almost anywhere in the galaxy. Assuming it's still in one piece, that is." 
 

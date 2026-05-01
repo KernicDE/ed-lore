@@ -18,13 +18,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: [[Jaques Station]] Making a Comeback
+Galactic News: Jaques Station Making a Comeback
 
 
-It has been two weeks since Jaques, [[The]] owner and operator of Jaques Station, issued an appeal for commodities to repair his beleaguered starport. Since then, scores of pilots from across the galaxy have made the long journey to the [[Eol Prou RS-T d3-94]] system to deliver tantalum, power generators and [[Other]] materials to Jaques. 
+It has been two weeks since Jaques, The owner and operator of Jaques Station, issued an appeal for commodities to repair his beleaguered starport. Since then, scores of pilots from across the galaxy have made the long journey to the Eol Prou RS-T d3-94 system to deliver tantalum, power generators and Other materials to Jaques. 
 
-Although the campaign is scheduled to [[Run]] for two more weeks, Jaques has confirmed that the materials received so [[Far]] have allowed starport personnel to restore some of the station's facilities. 
+Although the campaign is scheduled to Run for two more weeks, Jaques has confirmed that the materials received so Far have allowed starport personnel to restore some of the station's facilities. 
 
-"The moment supplies started arriving [[Our]] teams were hard at work, making repairs and restoring facilities. So I'm very pleased to announce that we can now offer our guests refuelling, restocking, repair and outfitting services, as well [[As the]] option to purchase limpets and mining equipment from our commodities market." 
+"The moment supplies started arriving Our teams were hard at work, making repairs and restoring facilities. So I'm very pleased to announce that we can now offer our guests refuelling, restocking, repair and outfitting services, as well As the option to purchase limpets and mining equipment from our commodities market." 
 
 "But we're not out of the woods yet! We still need more material if we're going to give the old girl a clean bill of health."

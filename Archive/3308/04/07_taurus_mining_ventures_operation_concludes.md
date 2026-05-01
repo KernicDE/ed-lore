@@ -25,9 +25,9 @@ significance: low
 ---
 
 *Pilots’ Federation ALERT*
-A corporate initiative to mine and deliver ores to [[The]] [[Synuefe]] CE-R c21-6 system has ended successfully.
+A corporate initiative to mine and deliver ores to The Synuefe CE-R c21-6 system has ended successfully.
 Taurus Mining Ventures had performed scientific research within the system, claiming that the properties of some natural substances had been altered by an unknown type of local radiation.
-The company’s head of research Dr [[Ruben Carpenter]] announced: 
-“We now have sufficiently large quantities of coltan, lithium hydroxide and methanol monohydrate crystals mined from locations in Synuefe CE-R c21-6. These irradiated ores will be analysed to determine their potential commercial value. [[Samples that were provided from other]] systems will also be very useful in [[Our]] comparative studies.”
-“To all the pilots who assisted in [[This]] endeavour: thank you! Your hard work is greatly appreciated. The [[Heart of Taurus]] megaship will remain in Synuefe CE-R c21-6 for [[Several]] weeks, and you may collect your rewards from there.”
+The company’s head of research Dr Ruben Carpenter announced: 
+“We now have sufficiently large quantities of coltan, lithium hydroxide and methanol monohydrate crystals mined from locations in Synuefe CE-R c21-6. These irradiated ores will be analysed to determine their potential commercial value. Samples that were provided from other systems will also be very useful in Our comparative studies.”
+“To all the pilots who assisted in This endeavour: thank you! Your hard work is greatly appreciated. The Heart of Taurus megaship will remain in Synuefe CE-R c21-6 for Several weeks, and you may collect your rewards from there.”
 Taurus Mining Ventures confirmed that studies to identify the source, effects and application of the local radiation are continuing. The scientific journal The Empirical has reiterated that these ‘atypical radioactive signatures’ have not been independently verified.

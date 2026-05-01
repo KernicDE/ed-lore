@@ -19,13 +19,13 @@ legacy_weight: 2
 significance: low
 ---
 
-Appeal for [[Aganippe]] Rush Comes to an End
+Appeal for Aganippe Rush Comes to an End
 
 
-[[The]] [[Revolutionary [[Noti]] Value Party]], a group based in the Noti system, recently issued an open contract for Aganippe Rush, a rare commodity [[Found]] only in the Aganippe system. Although the faction chose not to publicise the reason for the request, the response was positive, [[With]] [[Hundreds of]] [[Independent]] pilots making the journey to Aganippe to gather quantities of the unusual commodity. Authorities at [[Weber Gateway]], were the deliveries were taken, even had to take on additional staff to deal [[With the]] influx of trade ships. 
+The Revolutionary Noti Value Party, a group based in the Noti system, recently issued an open contract for Aganippe Rush, a rare commodity Found only in the Aganippe system. Although the faction chose not to publicise the reason for the request, the response was positive, With Hundreds of Independent pilots making the journey to Aganippe to gather quantities of the unusual commodity. Authorities at Weber Gateway, were the deliveries were taken, even had to take on additional staff to deal With the influx of trade ships. 
 
 A spokesperson for the Revolutionary Noti Value Party released a brief statement: 
 
-"We are extremely grateful to everyone who contributed to [[This]] initiative. Aganippe Rush is not a widely available commodity, and we appreciate the lengths pilots went to in order to deliver it to us at Weber [[Gateway]]." 
+"We are extremely grateful to everyone who contributed to This initiative. Aganippe Rush is not a widely available commodity, and we appreciate the lengths pilots went to in order to deliver it to us at Weber Gateway." 
 
-The Revolutionary Noti Value Party was asked to elaborate on the reason for [[Its]] request, [[But the]] organisation declined to respond.
+The Revolutionary Noti Value Party was asked to elaborate on the reason for Its request, But the organisation declined to respond.

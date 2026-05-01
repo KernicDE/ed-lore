@@ -21,13 +21,13 @@ legacy_weight: 4
 significance: high
 ---
 
-Galactic News: [[Aegis]] Expanding
+Galactic News: Aegis Expanding
 
 
-Following news that [[The]] Empire and Federation have withdrawn from the [[Pleiades Nebula]], contractors [[In the core]] systems have reported that Aegis is poised to establish a number of outposts in the region. 
+Following news that The Empire and Federation have withdrawn from the Pleiades Nebula, contractors In the core systems have reported that Aegis is poised to establish a number of outposts in the region. 
 
-The reports indicate that Aegis intends to establish more than twenty orbital outposts in the coming months, to support [[Its]] ongoing research and defence initiative. Two of these outposts have already been built, and construction of a third is expected to begin soon. 
+The reports indicate that Aegis intends to establish more than twenty orbital outposts in the coming months, to support Its ongoing research and defence initiative. Two of these outposts have already been built, and construction of a third is expected to begin soon. 
 
 Admiral Aden Tanner, Aegis’s chief military liaison, commented briefly on the news: 
 
-“In my view it is imperative that Aegis has a consolidated presence in the Pleiades, close to the centre of [[Thargoid]] activity. Fortunately [[Our]] backers in the [[Alliance]], Empire and Federation agree [[With]] me.”
+“In my view it is imperative that Aegis has a consolidated presence in the Pleiades, close to the centre of Thargoid activity. Fortunately Our backers in the Alliance, Empire and Federation agree With me.”

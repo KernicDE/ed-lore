@@ -23,14 +23,14 @@ legacy_weight: 2
 significance: low
 ---
 
-[[Lakon Spaceways]] Discounts [[Selected]] Ships
+Lakon Spaceways Discounts Selected Ships
 
 
-*[[Pilots Federation]] ALERT* 
+*Pilots Federation ALERT* 
 
-Temporary price reductions have been announced for [[Several]] Lakon vessels, in an effort to increase short-term profits. 
+Temporary price reductions have been announced for Several Lakon vessels, in an effort to increase short-term profits. 
 
-Lakon Spaceways has applied a 30% discount on sales of [[The following]] ship types: 
+Lakon Spaceways has applied a 30% discount on sales of The following ship types: 
 
 Asp Scout 
 
@@ -42,10 +42,10 @@ Type-7 Transporter
 
 Type-10 Defender 
 
-[[The]] reduced prices are expected to last until the 30th of December 3306. 
+The reduced prices are expected to last until the 30th of December 3306. 
 
-Some industry analysts believe [[This]] is an attempt to increase short-term payouts for Lakon’s shareholders, [[Many]] of whom have complained about [[Falling]] dividends. [[Other]] investors have publicly pressured the company to accept a takeover bid from the Federal corporation [[Core Dynamics]]. 
+Some industry analysts believe This is an attempt to increase short-term payouts for Lakon’s shareholders, Many of whom have complained about Falling dividends. Other investors have publicly pressured the company to accept a takeover bid from the Federal corporation Core Dynamics. 
 
 These issues were addressed by Naomi Landseer, chairperson of Lakon’s board of directors: 
 
-“It is true that profit margins are not as impressive as in previous years, but we can assure all stakeholders and customers that Lakon Spaceways remains financially secure. We project an upswing in military contracts during this turbulent time, and [[Our]] achievements on behalf of the [[Alliance]] position us as [[One]] of the galaxy’s premiere shipbuilders.”
+“It is true that profit margins are not as impressive as in previous years, but we can assure all stakeholders and customers that Lakon Spaceways remains financially secure. We project an upswing in military contracts during this turbulent time, and Our achievements on behalf of the Alliance position us as One of the galaxy’s premiere shipbuilders.”

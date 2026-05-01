@@ -27,17 +27,17 @@ legacy_weight: 4
 significance: high
 ---
 
-Federal Citizens [[Assassinated]] by [[The]] League of Reparation
+Federal Citizens Assassinated by The League of Reparation
 
 
-Terrorist group the League of Reparation has committed three [[Further]] murders in Federation space. 
+Terrorist group the League of Reparation has committed three Further murders in Federation space. 
 
-The body of Ezra Lux-Kumar, a wealthy entrepreneur, was [[Found]] in his home on Biggs Colony yesterday. Local security forces confirmed that the cause was a lethal nerve toxin of the same type used in the murder of Imperial Senator [[Cartesius]]. 
+The body of Ezra Lux-Kumar, a wealthy entrepreneur, was Found in his home on Biggs Colony yesterday. Local security forces confirmed that the cause was a lethal nerve toxin of the same type used in the murder of Imperial Senator Cartesius. 
 
-The [[Pilots Federation]] has also confirmed that two of [[Its]] members have been killed, in the [[Rhea and Delta Pavonis]] systems. The Commanders’ names have not been released, [[But the]] circumstances of their deaths are identical, involving a targeted strike on their ships [[With]] military-grade weapons. In both cases, the hulls of their vessels were laser-branded [[With the]] words ‘FOR JAMESON’. 
+The Pilots Federation has also confirmed that two of Its members have been killed, in the Rhea and Delta Pavonis systems. The Commanders’ names have not been released, But the circumstances of their deaths are identical, involving a targeted strike on their ships With military-grade weapons. In both cases, the hulls of their vessels were laser-branded With the words ‘FOR JAMESON’. 
 
-Senior Agent [[Tanya Ramirez]] of the Federal Intelligence Agency made [[This]] statement: 
+Senior Agent Tanya Ramirez of the Federal Intelligence Agency made This statement: 
 
-“This alarming development confirms that these terrorists are as well organised and widespread as we feared. We offer [[Our]] sincere sympathies to the victims’ families, all of whom have been transported to a secure location for their own protection.” 
+“This alarming development confirms that these terrorists are as well organised and widespread as we feared. We offer Our sincere sympathies to the victims’ families, all of whom have been transported to a secure location for their own protection.” 
 
-“We are collating data from [[All three]] sites and working closely with the tri-power taskforce investigating the League of Reparation. Genealogy databases are being consulted to identify potential targets with ancestry connected to the [[INRA]], so that we might be more proactive in ensuring their safety.”
+“We are collating data from All three sites and working closely with the tri-power taskforce investigating the League of Reparation. Genealogy databases are being consulted to identify potential targets with ancestry connected to the INRA, so that we might be more proactive in ensuring their safety.”

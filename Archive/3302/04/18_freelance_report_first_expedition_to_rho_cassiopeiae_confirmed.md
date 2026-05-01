@@ -14,8 +14,8 @@ significance: low
 Freelance Report: First Expedition to Rho Cassiopeiae Confirmed
 
 
-Commander turkwinif, flying an Anaconda specially outfitted for long-distance hyperspace jumps, has become [[The]] first pilot to reach Rho Cassiopeiae. The class-F hypergiant [[Star]] is notable for being visible to the naked eye from [[Earth]], and for being positioned [[In a]] particularly hard-to-reach area of what explorers call the Formidine Rift. 
+Commander turkwinif, flying an Anaconda specially outfitted for long-distance hyperspace jumps, has become The first pilot to reach Rho Cassiopeiae. The class-F hypergiant Star is notable for being visible to the naked eye from Earth, and for being positioned In a particularly hard-to-reach area of what explorers call the Formidine Rift. 
 
-[[Many]] pilots have previously tried to reach Rho Cassiopeiae, and their lack of success led many to consider [[The star]] beyond the reach of current technology. Commander turkwinif reported that reaching the system required careful route planning and the use of numerous FSD fuel injections. 
+Many pilots have previously tried to reach Rho Cassiopeiae, and their lack of success led many to consider The star beyond the reach of current technology. Commander turkwinif reported that reaching the system required careful route planning and the use of numerous FSD fuel injections. 
 
-Commander [[Finn McMillan]]
+Commander Finn McMillan

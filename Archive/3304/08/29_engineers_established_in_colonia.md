@@ -32,15 +32,15 @@ related_uuids:
 - 46b722c9-bfdf-5a23-acbf-4a2b7bb177fa
 ---
 
-[[Engineers]] Established in Colonia
+Engineers Established in Colonia
 
 
-[[The]] [[Colonia Council]] has announced that four engineers have established bases in the Colonia region, to provide services to [[Independent]] pilots. 
+The Colonia Council has announced that four engineers have established bases in the Colonia region, to provide services to Independent pilots. 
 
 Councillor Giselle Kingspear gave a statement to the media: 
 
-“The Council believes it has a duty to support those who contribute so much to the region’s stability. That’s why we have consulted [[With]] engineers [[In the core]] systems to identify individuals who could offer similar services here in Colonia. Consequently, we now have four engineers at planetary bases in the region.” 
+“The Council believes it has a duty to support those who contribute so much to the region’s stability. That’s why we have consulted With engineers In the core systems to identify individuals who could offer similar services here in Colonia. Consequently, we now have four engineers at planetary bases in the region.” 
 
-“[[Mel Brandon]] is based in Luchtaine, and specialises in laser-based armaments, shields, engines and frame shift drives. [[Etienne Dorn in the Los]] system, once lead engineer for Kraken Shield Specialists, is an expert on sensors, scanners and high-energy weaponry, among [[Other]] things. [[Petra Olmanova is in the Asura]] system, and works with ship armour, countermeasures and explosive weapons, and [[Marsha Hicks]], in the [[Tir]] system, offers upgrades in ballistic weaponry, fuel scoops, refineries and limpets.” 
+“Mel Brandon is based in Luchtaine, and specialises in laser-based armaments, shields, engines and frame shift drives. Etienne Dorn in the Los system, once lead engineer for Kraken Shield Specialists, is an expert on sensors, scanners and high-energy weaponry, among Other things. Petra Olmanova is in the Asura system, and works with ship armour, countermeasures and explosive weapons, and Marsha Hicks, in the Tir system, offers upgrades in ballistic weaponry, fuel scoops, refineries and limpets.” 
 
-“These engineers represent an [[Important]] stage in Colonia’s continued growth. The Council hopes that pilots operating in the region will find them beneficial.”
+“These engineers represent an Important stage in Colonia’s continued growth. The Council hopes that pilots operating in the region will find them beneficial.”

@@ -26,14 +26,14 @@ significance: low
 Theft Ruins New Year Celebration
 
 
-[[The]] theft of a spectacular work of art has soured New Year festivities for thousands of Federal citizens. 
+The theft of a spectacular work of art has soured New Year festivities for thousands of Federal citizens. 
 
-Kioko McGrath, culture correspondent for The [[Federal Times]], reported: 
+Kioko McGrath, culture correspondent for The Federal Times, reported: 
 
-"A colossal holo-sculpture was due to be unveiled at midnight to mark the start of 3305. Inspired by the Federal insignia, the intention was for the sculpture to be visible above [[Olympus Village]], and seen by millions of people." 
+"A colossal holo-sculpture was due to be unveiled at midnight to mark the start of 3305. Inspired by the Federal insignia, the intention was for the sculpture to be visible above Olympus Village, and seen by millions of people." 
 
 "But upon activation, the image that materialised was a gigantic cat's face, winking repeatedly. The original holo-sculpture code was later discovered to have vanished." 
 
-The [[Federal Security Service]] believes the culprit to be the same art thief who stole valuable works on [[Alioth]] and [[Eotienses]] A 3, both of [[Which]] were marked [[With]] an identical 'winking cat' motif. 
+The Federal Security Service believes the culprit to be the same art thief who stole valuable works on Alioth and Eotienses A 3, both of Which were marked With an identical 'winking cat' motif. 
 
 There are no leads at present.
