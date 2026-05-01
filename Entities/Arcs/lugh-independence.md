@@ -2,13 +2,15 @@
 id: lugh-independence
 name: Lugh Independence Crisis
 type: arc
-start_date: "3301-02-22"
+start_date: '3301-02-22'
 end_date: null
 article_count: 1
 key_entities:
-  - Éamonn Uí Laoghire
-  - The Crimson State Group
+- Éamonn Uí Laoghire
+- The Crimson State Group
+parent_arc: alliance-expansion
 ---
+
 
 # Lugh Independence Crisis
 

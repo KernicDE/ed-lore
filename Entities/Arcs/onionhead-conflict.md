@@ -2,15 +2,17 @@
 id: onionhead-conflict
 name: Onionhead Conflict
 type: arc
-start_date: "3301-02-24"
+start_date: '3301-02-24'
 end_date: null
 article_count: 3
 key_entities:
-  - President Halsey
-  - Defence Force of Tanmark
-  - Tanmark Posse
-  - Farmers Union of Kappa Fornacis
+- President Halsey
+- Defence Force of Tanmark
+- Tanmark Posse
+- Farmers Union of Kappa Fornacis
+parent_arc: alliance-expansion
 ---
+
 
 # Onionhead Conflict
 
