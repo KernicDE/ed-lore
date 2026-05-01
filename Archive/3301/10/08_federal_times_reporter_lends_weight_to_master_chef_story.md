@@ -4,8 +4,7 @@ title: Federal Times Reporter Lends Weight to 'Master Chef' Story
 slug: federal_times_reporter_lends_weight_to_master_chef_story
 date: '3301-10-08'
 source: GitHub
-entities:
-- Lends Weight
+persons:
 - Marc Garfield
 groups:
 - Federal Times
@@ -16,9 +15,10 @@ locations:
 - Weber Gateway
 topics:
 - genetic experiments
-- independence
 - slavery
 - trade
+summary: Federal Times reporter Marc Garfield claimed to have witnessed a secret 'master chef' training facility at Weber Gateway in the Noti system, where genetically selected slaves undergo brutal conditioning to become gourmet cooks. He alleged the Revolutionary Noti Value Party's Aganippe Rush appeal was connected to bringing these engineered slaves to market.
+player_impact: Pilots who delivered Aganippe Rush to Weber Gateway may have unwittingly participated in a scheme involving engineered slave labor. The story raises questions about the ethics of certain trade requests.
 modern_impact: Trade initiative affecting commodity markets and local economies.
 legacy_weight: 2
 significance: low

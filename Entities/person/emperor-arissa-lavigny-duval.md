@@ -2,32 +2,21 @@
 id: emperor-arissa-lavigny-duval
 name: Emperor Arissa Lavigny-Duval
 type: person
-first_seen_date: '3301-10-21'
-last_seen_date: '3301-10-21'
-mention_count: 1
-related_entities:
-- senator-denton-patreus
-- emperors-dawn
-- imperial-navy
-- capitol
-- achenar
+first_seen_date: '3302-10-01'
+last_seen_date: '3307-02-12'
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Emperor Arissa Lavigny-Duval
 
-First mentioned: **3301-10-21**  
-Last mentioned: **3301-10-21**  
-Total mentions: **1**
+First mentioned: **3302-10-01**  
+Last mentioned: **3307-02-12**  
+Total mentions: **3**
 
 ## Related
 
-- [[Senator Denton Patreus]] (1 co-mentions)
-- [[Emperor's Dawn]] (1 co-mentions)
-- [[Imperial Navy]] (1 co-mentions)
-- [[Capitol]] (1 co-mentions)
-- [[Achenar]] (1 co-mentions)
 
 ## Biography
 

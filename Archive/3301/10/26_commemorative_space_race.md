@@ -4,19 +4,20 @@ title: Commemorative Space Race
 slug: commemorative_space_race
 date: '3301-10-26'
 source: GitHub
+persons:
+- Stern Winter
 groups:
 - Buckyball Racing Club
 locations:
+- Leesti
 - George Lucas station
 - Jabbah
 - Kessel
-- Leesti
-- Sol
 topics:
-- ship
 - sport
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: "The Buckyball Racing Club, sponsored by Leesti Azure Milk, announced the Kessel Run commemorative race from October 31 to November 15, 3301. Starting at George Lucas station in Leesti and ending in the Jabbah system, participants must dock at every station named 'Kessel' in any order. Three racing classes are offered: Regulation Solo Sidewinder, Regulation Solo Cobra Mk III, and Open Unlimited Spec."
+player_impact: Pilots can participate in the Kessel Run race across multiple systems. The event offers different ship classes, making it accessible to pilots with varying resources and experience levels.
+modern_impact: Community racing event commemorating classic science fiction and engaging pilots in competitive exploration.
 legacy_weight: 1
 significance: low
 ---

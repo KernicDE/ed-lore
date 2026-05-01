@@ -4,9 +4,11 @@ title: Sirius Corporation Announces New Programme
 slug: sirius_corporation_announces_new_programme
 date: '3301-10-15'
 source: GitHub
+persons:
+- Li Yong-Rui
+- Roberta Unwin
 groups:
 - Money Matters
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Almagest
@@ -14,15 +16,14 @@ locations:
 - HIP 8396
 - Robigo
 - Sirius
-- Sirius Corporation expanded into the
 - Sothis
 topics:
 - corporate expansion
 - trade
-- war
 arc_id: corporate-history
-modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape
-  several systems' economies.
+summary: Sirius Corporation CEO Li Yong-Rui announced ambitious revitalization plans for systems brought under corporate control earlier in the year, including HIP 8396, Almagest, Sothis, Ceos, and Robigo. The initiatives rely on independent pilots and contractors, beginning with an appeal for osmium deliveries to HIP 8396. Economist Roberta Unwin characterized this as speculative expansion.
+player_impact: Pilots can participate in Sirius Corporation revitalization initiatives, starting with osmium deliveries to HIP 8396. These community goals offer generous rewards and help develop the affected systems.
+modern_impact: Sirius Corporation's expansion and revitalisation programmes reshape several systems' economies.
 legacy_weight: 3
 significance: medium
 ---

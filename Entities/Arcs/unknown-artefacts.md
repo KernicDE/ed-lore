@@ -24,8 +24,8 @@ Articles: **35**
 ## Key Figures
 
 - [[Canonn Interstellar Research Group]] (13 mentions)
-- [[Canonn]] (7 mentions)
-- [[Ishmael Palin]] (5 mentions)
+- [[Canonn]] (5 mentions)
+- [[Ishmael Palin]] (3 mentions)
 - [[Federal Times]] (3 mentions)
 - [[Blue Hand Gang]] (3 mentions)
 

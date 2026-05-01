@@ -6,8 +6,8 @@ first_seen_date: '3301-10-29'
 last_seen_date: '3303-12-02'
 mention_count: 10
 related_entities:
-- warkushanui
 - weyn-dock
+- warkushanui
 - 49-arietis
 - varati
 - gurragchaa-gateway
@@ -23,8 +23,8 @@ Total mentions: **10**
 
 ## Related
 
-- [[Warkushanui]] (9 co-mentions)
 - [[Weyn Dock]] (9 co-mentions)
+- [[Warkushanui]] (9 co-mentions)
 - [[49 Arietis]] (7 co-mentions)
 - [[Varati]] (6 co-mentions)
 - [[Gurragchaa Gateway]] (6 co-mentions)

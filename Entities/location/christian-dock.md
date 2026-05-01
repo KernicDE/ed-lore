@@ -7,10 +7,10 @@ last_seen_date: '3302-02-05'
 mention_count: 4
 related_entities:
 - nganji
-- professor-ishmael-palin
-- governor-deacon
 - homeland-scientific-council
 - obsidian-orbital
+- canonn-interstellar-research-group
+- maia
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **4**
 ## Related
 
 - [[Nganji]] (2 co-mentions)
-- [[Professor Ishmael Palin]] (1 co-mentions)
-- [[Governor Deacon]] (1 co-mentions)
 - [[Homeland Scientific Council]] (1 co-mentions)
 - [[Obsidian Orbital]] (1 co-mentions)
+- [[Canonn Interstellar Research Group]] (1 co-mentions)
+- [[Maia]] (1 co-mentions)
 
 ## Biography
 

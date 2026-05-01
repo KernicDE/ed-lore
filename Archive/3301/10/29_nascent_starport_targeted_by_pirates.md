@@ -4,6 +4,8 @@ title: Nascent Starport Targeted by Pirates
 slug: nascent_starport_targeted_by_pirates
 date: '3301-10-29'
 source: GitHub
+groups:
+- Explorer's Association
 locations:
 - Kaushpoos
 - Pleiades Nebula
@@ -11,10 +13,10 @@ topics:
 - construction
 - exploration
 - piracy
-- trade
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
-  new frontiers for exploration and potentially first contact.
+summary: Pirates began targeting traders and contractors in the Kaushpoos system, threatening the construction of the new Pleiades Nebula starport. The Explorer's Association set aside a cash reserve to reimburse bounty hunters and appealed for palladium deliveries for the next construction phase. Both combat pilots and traders are needed to keep the project on track.
+player_impact: Bounty hunters can earn rewards clearing pirates from Kaushpoos, while traders can deliver palladium for the starport construction. Both activities support the first deep-space outpost in the Pleiades Nebula.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---

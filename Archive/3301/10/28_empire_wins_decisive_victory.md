@@ -4,24 +4,24 @@ title: Empire Wins Decisive Victory
 slug: empire_wins_decisive_victory
 date: '3301-10-28'
 source: GitHub
-entities:
+persons:
 - Denton Patreus
+- Anthony Corvus
 groups:
 - Emperor's Dawn
+- Imperial Navy
 locations:
-- Denton
-- LTT 874
 - Namarii
 - Tabaldak
-- Tabaldak and LTT 874
+- LTT 874
 topics:
-- ship
 - succession
 - terrorism
 - war
 arc_id: imperial-succession
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+summary: The Empire confirmed the total destruction of all three Emperor's Dawn bases in Namarii, Tabaldak, and LTT 874 after two weeks of combat. Senator Denton Patreus declared the insurgents 'nothing more than petty brigands,' but General Anthony Corvus cautioned that cell organizations can be resilient and the war may not be over until every fighter is destroyed.
+player_impact: Pilots who fought for the Empire in these systems contributed to a major victory. However, vigilance is advised as Emperor's Dawn may still have hidden cells or shadow operations.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

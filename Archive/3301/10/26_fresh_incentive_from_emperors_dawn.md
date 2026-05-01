@@ -7,18 +7,17 @@ source: GitHub
 groups:
 - Emperor's Dawn
 locations:
-- LTT 874
 - Namarii
 - Tabaldak
-- Tabaldak and LTT 874
+- LTT 874
 topics:
-- piracy
 - succession
 - terrorism
 - war
 arc_id: imperial-succession
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+summary: After suffering critical defeats in Namarii, Tabaldak, and LTT 874, Emperor's Dawn announced it would double payments to pilots fighting for its cause. The insurgents claimed that Imperial supporters were mercenaries motivated by money rather than ideals, challenging the Empire's ability to maintain its volunteer forces.
+player_impact: Pilots can choose to fight for Emperor's Dawn at double the previous payout rates in Namarii, Tabaldak, and LTT 874. The increased rewards may shift the balance of forces in these conflict zones.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

@@ -4,11 +4,11 @@ name: Achenar
 type: location
 first_seen_date: '3301-04-20'
 last_seen_date: '3311-04-01'
-mention_count: 71
+mention_count: 72
 related_entities:
 - alliance
-- nmla
 - capitol
+- nmla
 - imperial-senate
 - sol
 ---
@@ -19,13 +19,13 @@ related_entities:
 
 First mentioned: **3301-04-20**  
 Last mentioned: **3311-04-01**  
-Total mentions: **71**
+Total mentions: **72**
 
 ## Related
 
-- [[Alliance]] (21 co-mentions)
+- [[Alliance]] (20 co-mentions)
+- [[Capitol]] (19 co-mentions)
 - [[NMLA]] (19 co-mentions)
-- [[Capitol]] (18 co-mentions)
 - [[Imperial Senate]] (15 co-mentions)
 - [[Sol]] (14 co-mentions)
 

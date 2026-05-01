@@ -4,6 +4,8 @@ title: Construction of New Starport Begins
 slug: construction_of_new_starport_begins
 date: '3301-10-28'
 source: GitHub
+groups:
+- Explorer's Association
 locations:
 - Kaushpoos
 - Pleiades Nebula
@@ -11,8 +13,9 @@ topics:
 - construction
 - exploration
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
-  new frontiers for exploration and potentially first contact.
+summary: Construction began on a new Ocellus starport in the Kaushpoos system in the Pleiades Nebula. The Explorer's Association's appeal for metals was overwhelmingly successful, allowing work on the station superstructure to commence. The starport will serve as a state-of-the-art resupply point for deep-space explorers.
+player_impact: Pilots who contributed metals to the construction effort helped establish the first deep-space starport in the Pleiades Nebula. The next phase of the project will be announced soon.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---

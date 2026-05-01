@@ -4,13 +4,13 @@ name: IISS
 type: faction
 first_seen_date: '3301-08-28'
 last_seen_date: '3307-05-21'
-mention_count: 11
+mention_count: 6
 related_entities:
-- emperors-dawn
-- imperial-internal-security-service
-- capitol
-- achenar
 - cope
+- imperial-internal-security-service
+- cemiess
+- mackenzie-relay
+- nova-imperium
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-08-28**  
 Last mentioned: **3307-05-21**  
-Total mentions: **11**
+Total mentions: **6**
 
 ## Related
 
-- [[Emperor's Dawn]] (4 co-mentions)
-- [[Imperial Internal Security Service]] (3 co-mentions)
-- [[Capitol]] (3 co-mentions)
-- [[Achenar]] (3 co-mentions)
 - [[Cope]] (2 co-mentions)
+- [[Imperial Internal Security Service]] (2 co-mentions)
+- [[Cemiess]] (2 co-mentions)
+- [[Mackenzie Relay]] (2 co-mentions)
+- [[Nova Imperium]] (2 co-mentions)
 
 ## Biography
 

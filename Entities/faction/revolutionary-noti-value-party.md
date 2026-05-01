@@ -9,8 +9,7 @@ related_entities:
 - aganippe
 - noti
 - weber-gateway
-- lends-weight
-- marc-garfield
+- federal-times
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +25,7 @@ Total mentions: **2**
 - [[Aganippe]] (2 co-mentions)
 - [[Noti]] (2 co-mentions)
 - [[Weber Gateway]] (2 co-mentions)
-- [[Lends Weight]] (1 co-mentions)
-- [[Marc Garfield]] (1 co-mentions)
+- [[Federal Times]] (1 co-mentions)
 
 ## Biography
 

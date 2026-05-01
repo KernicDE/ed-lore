@@ -4,20 +4,22 @@ title: Emperor's Dawn Connected to Universal Cartographics Security Breach
 slug: emperors_dawn_connected_to_universal_cartographics_security_breach
 date: '3301-10-12'
 source: GitHub
+persons:
+- Fionn Mac Cumhaill
 groups:
 - Emperor's Dawn
-- IISS
+- Imperial Internal Security Service
 - Universal Cartographics
 topics:
 - cyberattack
 - exploration
 - investigation
-- ship
 - succession
 - war
 arc_id: imperial-succession
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+summary: Universal Cartographics discovered that a contractor with ties to Emperor's Dawn had altered a firmware update for discovery and surface scanners, encrypting exploration data. The compromised firmware was applied to all scanners, nearly halting exploration activity. Universal Cartographics staff worked through the weekend to recover data and replace the firmware, while an arrest warrant was issued for the contractor.
+player_impact: Explorers should verify their scanner firmware is updated. The sabotage was likely designed to hinder IISS efforts to locate Emperor's Dawn bases using exploration data.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

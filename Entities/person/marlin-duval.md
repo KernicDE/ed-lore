@@ -3,14 +3,8 @@ id: marlin-duval
 name: Marlin Duval
 type: person
 first_seen_date: '3301-10-06'
-last_seen_date: '3301-10-06'
-mention_count: 1
-related_entities:
-- arissa-lavigny-duval
-- chancellor-anders-blaine
-- aisling-duval
-- emperor-hengist-duval
-- imperial-senate
+last_seen_date: '3307-03-19'
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +12,11 @@ related_entities:
 # Marlin Duval
 
 First mentioned: **3301-10-06**  
-Last mentioned: **3301-10-06**  
-Total mentions: **1**
+Last mentioned: **3307-03-19**  
+Total mentions: **3**
 
 ## Related
 
-- [[Arissa Lavigny-Duval]] (1 co-mentions)
-- [[Chancellor Anders Blaine]] (1 co-mentions)
-- [[Aisling Duval]] (1 co-mentions)
-- [[Emperor Hengist Duval]] (1 co-mentions)
-- [[Imperial Senate]] (1 co-mentions)
 
 ## Biography
 

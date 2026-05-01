@@ -4,8 +4,9 @@ title: Canonn Interstellar Research Group Announces Breakthrough
 slug: canonn_interstellar_research_group_announces_breakthrough
 date: '3301-10-13'
 source: GitHub
-entities:
-- Commander Mike Juliett Kilo
+persons:
+- Mike Juliett Kilo
+- RedWizzard
 groups:
 - Canonn Interstellar Research Group
 locations:
@@ -13,14 +14,16 @@ locations:
 - Maia
 - Tanmark
 - HIP 102128
+technologies:
+- Unknown Artefacts
+- Vulture
 topics:
-- unknown artefacts
-- alien life
 - research
 arc_id: unknown-artefacts
 arc_chapter: Canonn decodes signal
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+summary: The Canonn Interstellar Research Group decoded part of the transmissions from Unknown Artefacts (AEOs), discovering they contain schematic diagrams of the ships studying them. Commander Mike Juliett Kilo made the breakthrough by feeding a pre-recorded AEO signal into an antique scanner display, revealing a Vulture schematic matching his own ship at the time.
+player_impact: Pilots encountering Unknown Artefacts should be aware that the objects appear to scan and catalog human vessels. The implications of this behavior remain under investigation by the Canonn.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 5
 significance: high
 ---

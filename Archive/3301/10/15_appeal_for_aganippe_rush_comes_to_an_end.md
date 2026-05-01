@@ -11,10 +11,10 @@ locations:
 - Noti
 - Weber Gateway
 topics:
-- independence
-- ship
 - trade
-modern_impact: Ship review and release information for the pilot community.
+summary: The Revolutionary Noti Value Party's appeal for Aganippe Rush concluded successfully, with hundreds of independent pilots delivering the rare commodity to Weber Gateway. The faction declined to explain the purpose of the request, though Federal Times reporter Marc Garfield had previously alleged a connection to engineered 'master chef' slaves.
+player_impact: Pilots who delivered Aganippe Rush to Weber Gateway contributed to a successful community trade initiative, though the ultimate purpose of the request remains unclear.
+modern_impact: Trade initiative affecting commodity markets and local economies.
 legacy_weight: 2
 significance: low
 ---

@@ -4,18 +4,19 @@ title: Preparation for 'Bacon Protests' Anniversary Underway
 slug: preparation_for_bacon_protests_anniversary_underway
 date: '3301-10-02'
 source: GitHub
-entities:
-- Andius Solon Preparation
+persons:
+- Julissa Silver
+- Andius Solon
 groups:
 - Bacon Cats
 locations:
 - Carnoeck
-- Sol
+- Bacon City
 topics:
 - festival
-- piracy
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
+summary: The Bacon Cats cooperative announced plans for a major celebration commemorating the anniversary of the 'Bacon Protests' in the Carnoeck system. The event will feature historic exhibits, free bacon, and libations for all visitors. High demand for goods has already hit the system, with concerns raised about potential pirate activity.
+player_impact: Pilots can deliver goods such as beer and liquor to Carnoeck for the celebrations. Bounty hunters may find work clearing pirates attracted to the event.
+modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---

@@ -4,14 +4,17 @@ title: Technical Issues in 64 Arietis
 slug: technical_issues_in_64_arietis
 date: '3301-10-29'
 source: GitHub
+persons:
+- Laura Bishop
 locations:
 - 64 Arietis
-- Warkushanui
 - Weyn Dock
+- Warkushanui
 topics:
 - construction
-- war
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+summary: Weyn Dock in the 64 Arietis system became the latest starport to experience mysterious technical issues, following similar breakdowns in Warkushanui. Technical supervisor Laura Bishop reported power outages and widespread system failures over the past 24 hours, with the cause still under investigation.
+player_impact: Pilots visiting 64 Arietis should be prepared for potential service disruptions at Weyn Dock. The pattern of malfunctions across multiple systems suggests a systemic issue that may worsen before a solution is found.
+modern_impact: Documents the spreading technological plague affecting starports across inhabited space.
 legacy_weight: 2
 significance: low
 ---

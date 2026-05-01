@@ -7,10 +7,10 @@ last_seen_date: '3310-10-02'
 mention_count: 7
 related_entities:
 - shinrarta-dezhra
-- corrigendum
 - interstellar-press
 - jameson-memorial-review
 - aegis
+- azimuth
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **7**
 ## Related
 
 - [[Shinrarta Dezhra]] (4 co-mentions)
-- [[Corrigendum]] (2 co-mentions)
 - [[Interstellar Press]] (2 co-mentions)
 - [[Jameson Memorial Review]] (2 co-mentions)
 - [[Aegis]] (2 co-mentions)
+- [[Azimuth]] (2 co-mentions)
 
 ## Biography
 

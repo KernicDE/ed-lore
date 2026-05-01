@@ -10,7 +10,7 @@ related_entities:
 - achenar
 - imperial-palace
 - imperial-naval-infantry
-- imperial-senate
+- imperial-internal-security-service
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **14**
 - [[Achenar]] (6 co-mentions)
 - [[Imperial Palace]] (4 co-mentions)
 - [[Imperial Naval Infantry]] (3 co-mentions)
-- [[Imperial Senate]] (3 co-mentions)
+- [[Imperial Internal Security Service]] (3 co-mentions)
 
 ## Biography
 

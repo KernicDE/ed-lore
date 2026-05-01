@@ -4,19 +4,20 @@ title: Technical Trouble in 49 Arietis
 slug: technical_trouble_in_49_arietis
 date: '3301-10-23'
 source: GitHub
+persons:
+- Blake Fry
 groups:
 - Federal Times
 locations:
 - 49 Arietis
-- Arietis
 - Gaiman Dock
 - Warkushanui
 topics:
 - construction
-- war
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+summary: Starports in the 49 Arietis system began experiencing technical problems similar to those in Warkushanui. Gaiman Dock suffered power outages and system failures. Commercial pilot Blake Fry speculated that the issues were connected to Unknown Artefacts (AEOs) being transported to the station, drawing a parallel between the alien objects and the machinery breakdowns.
+player_impact: Pilots visiting 49 Arietis should be prepared for potential service disruptions at Gaiman Dock. The connection to Unknown Artefacts, while unconfirmed, suggests caution when handling AEOs in the vicinity.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---

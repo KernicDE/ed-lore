@@ -15,12 +15,11 @@ locations:
 - Pleiades Nebula
 topics:
 - construction
-- corporate expansion
 - exploration
-- war
 arc_id: pleiades-expansion
-modern_impact: First deep-space starport construction in the Pleiades Nebula, opening
-  new frontiers for exploration and potentially first contact.
+summary: The Explorer's Association, supported by Brewer Corporation, Pacap Limited, and Universal Cartographics, announced the beginning of starport construction in the Pleiades Nebula. The first phase requires metal deliveries to Neville Horizons in Kaushpoos to build the station superstructure. The project aims to create a reliable resupply point for deep-space explorers.
+player_impact: Pilots can deliver metals to Neville Horizons in Kaushpoos to contribute to the first deep-space starport in the Pleiades Nebula. This community goal offers generous premiums and advances human expansion into uninhabited space.
+modern_impact: First deep-space starport construction in the Pleiades Nebula, opening new frontiers for exploration and potentially first contact.
 legacy_weight: 3
 significance: medium
 ---

@@ -4,17 +4,18 @@ title: Sirius Corporation Takes Aim at Pirates
 slug: sirius_corporation_takes_aim_at_pirates
 date: '3301-10-22'
 source: GitHub
+persons:
+- Li Yong-Rui
 groups:
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Robigo
 - Robigo Mines
-- Sirius
 topics:
 - corporate expansion
 - piracy
-- war
+summary: Pirate activity threatened Robigo Mines, a Sirius Corporation outpost in the seldom-visited Robigo system. CEO Li Yong-Rui issued bounties on the pirates and established a substantial reward fund for pilots who help eliminate them, reaffirming the corporation's zero-tolerance approach to threats against its holdings.
+player_impact: Bounty hunters can earn generous rewards by clearing pirates from the Robigo system and protecting Robigo Mines. This is a combat-focused community initiative.
 modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
 legacy_weight: 2
 significance: low

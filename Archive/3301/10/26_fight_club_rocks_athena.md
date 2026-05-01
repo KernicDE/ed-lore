@@ -4,18 +4,19 @@ title: Fight Club Rocks Athena
 slug: fight_club_rocks_athena
 date: '3301-10-26'
 source: GitHub
-entities:
+persons:
 - Estalath
+- Amphetamine Rush
 groups:
 - XYZ Fight Club
 locations:
 - Athena
 - Powell Terminal
 topics:
-- construction
 - sport
-- war
-modern_impact: Infrastructure project with long-term benefits for the affected region.
+summary: The XYZ Fight Club held its 'Cobra Crunch' event at Powell Terminal in the Athena system, featuring an all-on-all Cobra Mk III battle. Commander Estalath emerged as the victor after four hours of combat. Station security issued thousands of credits in fines but reported no significant station damage. System authorities expressed displeasure at hosting a second event.
+player_impact: Pilots interested in organized combat sports can participate in XYZ Fight Club events, typically held at specific stations. Participants should expect fines and should avoid damaging station infrastructure.
+modern_impact: Player-organized combat sporting event demonstrating community-driven PvP activities.
 legacy_weight: 1
 significance: low
 ---

@@ -4,20 +4,21 @@ title: Pioneer Returns from the Depths
 slug: pioneer_returns_from_the_depths
 date: '3301-10-04'
 source: GitHub
-entities:
-- Erimus Pioneer Returns
-- Kommodore set off
+persons:
+- Kommodore
+- Erimus
 groups:
 - Core Dynamics
 - Universal Cartographics
 locations:
 - Sagittarius A*
+technologies:
+- Eagle Mk II
 topics:
-- construction
 - exploration
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: Commander Kommodore returned from a ten-month journey to Sagittarius A* in an Eagle-class starship, cataloguing nearly 3,900 star systems and earning 123 million credits from Universal Cartographics. Core Dynamics expressed interest in permanently displaying the ship as a testament to the Eagle Mk II's durability.
+player_impact: Pilots can undertake extreme long-range exploration in small vessels. The journey demonstrates that even the Eagle Mk II can survive deep-space expeditions with proper preparation.
+modern_impact: Notable exploration achievement demonstrating the capabilities of small ships on extreme long-range journeys.
 legacy_weight: 1
 significance: low
 ---

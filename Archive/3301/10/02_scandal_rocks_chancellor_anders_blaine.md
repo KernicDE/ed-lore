@@ -4,25 +4,25 @@ title: Scandal Rocks Chancellor Anders Blaine
 slug: scandal_rocks_chancellor_anders_blaine
 date: '3301-10-02'
 source: GitHub
-entities:
-- Chancellor Anders Blaine
+persons:
+- Anders Blaine
 - Aisling Duval
 - Damon Clarke
 groups:
 - Imperial Senate
 - Emperor's Dawn
-- IISS
+- Imperial Internal Security Service
 locations:
 - Capitol
 - Achenar
 topics:
 - scandal
 - conspiracy
-- slander
 arc_id: imperial-succession
 arc_chapter: Blaine scandal breaks
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+summary: Princess Aisling Duval revealed that some of Chancellor Anders Blaine's advisors had connections to Emperor's Dawn, the same insurgent group linked to her own advisor Patron Damon Clarke. While Clarke's connection was historic, Blaine's team had more recent ties. Blaine denied all knowledge and refused further comment.
+player_impact: The scandal reshuffles the Imperial succession race, damaging Blaine's standing and leaving Aisling Duval and Arissa Lavigny-Duval as the primary contenders.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 5
 significance: high
 ---

@@ -4,13 +4,15 @@ title: Imperial Succession Vote in Senate Today
 slug: imperial_succession_vote_in_senate_today
 date: '3301-10-05'
 source: GitHub
-entities:
-- Chancellor Anders Blaine
+persons:
+- Anders Blaine
 - Arissa Lavigny-Duval
 - Aisling Duval
-- Senator Denton Patreus
+- Denton Patreus
+- Zemina Torval
 groups:
 - Imperial Senate
+- Emperor's Dawn
 locations:
 - Capitol
 - Achenar
@@ -19,8 +21,9 @@ topics:
 - vote
 arc_id: imperial-succession
 arc_chapter: Vote day
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+summary: The Imperial Senate entered its final day of deliberation over the succession. Chancellor Blaine, once the frontrunner, saw his standing collapse due to the Emperor's Dawn scandal. With Aisling Duval also damaged by her advisor's ties to the insurgents, Senator Arissa Lavigny-Duval emerged as the leading contender, backed by Senators Patreus and Torval.
+player_impact: The Senate's decision will determine the next Emperor. Pilots aligned with Imperial powers should monitor the outcome, as it will shape Imperial policy and military priorities.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 5
 significance: high
 ---

@@ -3,8 +3,8 @@ id: denton
 name: Denton
 type: location
 first_seen_date: '3301-02-17'
-last_seen_date: '3301-10-28'
-mention_count: 38
+last_seen_date: '3301-09-28'
+mention_count: 35
 related_entities:
 - denton-patreus
 - eotienses
@@ -18,12 +18,12 @@ related_entities:
 # Denton
 
 First mentioned: **3301-02-17**  
-Last mentioned: **3301-10-28**  
-Total mentions: **38**
+Last mentioned: **3301-09-28**  
+Total mentions: **35**
 
 ## Related
 
-- [[Denton Patreus]] (15 co-mentions)
+- [[Denton Patreus]] (12 co-mentions)
 - [[Eotienses]] (5 co-mentions)
 - [[Imperial Senate]] (4 co-mentions)
 - [[Capitol]] (4 co-mentions)

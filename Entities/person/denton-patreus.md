@@ -3,14 +3,14 @@ id: denton-patreus
 name: Denton Patreus
 type: person
 first_seen_date: '3301-02-27'
-last_seen_date: '3301-10-28'
-mention_count: 15
+last_seen_date: '3301-09-11'
+mention_count: 12
 related_entities:
 - denton
 - imperial-senate
-- emperors-dawn
-- ltt-874
-- namarii
+- falisci
+- ngaiawang
+- eotienses
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Denton Patreus
 
 First mentioned: **3301-02-27**  
-Last mentioned: **3301-10-28**  
-Total mentions: **15**
+Last mentioned: **3301-09-11**  
+Total mentions: **12**
 
 ## Related
 
-- [[Denton]] (15 co-mentions)
+- [[Denton]] (12 co-mentions)
 - [[Imperial Senate]] (3 co-mentions)
-- [[Emperor's Dawn]] (3 co-mentions)
-- [[LTT 874]] (3 co-mentions)
-- [[Namarii]] (3 co-mentions)
+- [[Falisci]] (2 co-mentions)
+- [[Ngaiawang]] (2 co-mentions)
+- [[Eotienses]] (2 co-mentions)
 
 ## Biography
 

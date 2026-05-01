@@ -10,7 +10,7 @@ related_entities:
 - kumo-crew
 - alioth
 - imperial-navy
-- corrigendum
+- mars
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **20**
 - [[Kumo Crew]] (3 co-mentions)
 - [[Alioth]] (3 co-mentions)
 - [[Imperial Navy]] (3 co-mentions)
-- [[Corrigendum]] (3 co-mentions)
+- [[Mars]] (2 co-mentions)
 
 ## Biography
 

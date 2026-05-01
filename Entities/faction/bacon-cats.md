@@ -3,12 +3,12 @@ id: bacon-cats
 name: Bacon Cats
 type: faction
 first_seen_date: '3301-10-02'
-last_seen_date: '3301-10-02'
-mention_count: 1
+last_seen_date: '3301-10-08'
+mention_count: 2
 related_entities:
-- andius-solon-preparation
 - carnoeck
-- sol
+- bacon-city
+- united-carnoeck-for-equality
 ---
 
 <!-- AUTO-GENERATED -->
@@ -16,14 +16,14 @@ related_entities:
 # Bacon Cats
 
 First mentioned: **3301-10-02**  
-Last mentioned: **3301-10-02**  
-Total mentions: **1**
+Last mentioned: **3301-10-08**  
+Total mentions: **2**
 
 ## Related
 
-- [[Andius Solon Preparation]] (1 co-mentions)
-- [[Carnoeck]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
+- [[Carnoeck]] (2 co-mentions)
+- [[Bacon City]] (2 co-mentions)
+- [[United Carnoeck for Equality]] (1 co-mentions)
 
 ## Biography
 

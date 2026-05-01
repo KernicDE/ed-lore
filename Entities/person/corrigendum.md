@@ -3,14 +3,14 @@ id: corrigendum
 name: Corrigendum
 type: person
 first_seen_date: '3301-07-24'
-last_seen_date: '3301-10-13'
-mention_count: 5
+last_seen_date: '3301-09-14'
+mention_count: 4
 related_entities:
-- interstellar-press
-- stateira-starcloak-eleshenar
 - kumo-crew
-- jameson-memorial-review
-- jameson-memorial
+- interstellar-press
+- gluttonyfang
+- stateira-starcloak-eleshenar
+- nyluss
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Corrigendum
 
 First mentioned: **3301-07-24**  
-Last mentioned: **3301-10-13**  
-Total mentions: **5**
+Last mentioned: **3301-09-14**  
+Total mentions: **4**
 
 ## Related
 
-- [[Interstellar Press]] (3 co-mentions)
-- [[Stateira "Starcloak" Eleshenar]] (2 co-mentions)
 - [[Kumo Crew]] (2 co-mentions)
-- [[Jameson Memorial Review]] (2 co-mentions)
-- [[Jameson Memorial]] (2 co-mentions)
+- [[Interstellar Press]] (2 co-mentions)
+- [[GluttonyFang]] (1 co-mentions)
+- [[Stateira "Starcloak" Eleshenar]] (1 co-mentions)
+- [[Nyluss]] (1 co-mentions)
 
 ## Biography
 

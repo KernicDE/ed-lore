@@ -9,7 +9,9 @@ locations:
 topics:
 - genetic experiments
 - slavery
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: An anonymous message claimed that clandestine genetic experiments in the Noti system have created 'Master Chefs' — slaves subjected to brutal training from childhood to eliminate compassion and empathy, leaving only the desire to cook. The legitimacy of the claim remains unverified.
+player_impact: Pilots should remain vigilant regarding unusual activities in the Noti system. If true, this represents a disturbing escalation in engineered slave labor.
+modern_impact: Raises awareness of potential illegal genetic experimentation and engineered slavery in the galaxy.
 legacy_weight: 2
 significance: low
 ---

@@ -6,18 +6,16 @@ date: '3301-10-08'
 source: GitHub
 groups:
 - United Carnoeck for Equality
+- Bacon Cats
 locations:
 - Bacon City
 - Carnoeck
 topics:
-- construction
 - festival
-- narcotics
 - piracy
-- ship
-- trade
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
+summary: The inaugural Bacon Protests anniversary celebration at Bacon City in Carnoeck attracted revellers and pirates alike. Animal-rights activists blockaded the station, forcing meat-carrying ships to jettison cargo. United Carnoeck for Equality issued a cleanup appeal, offering rewards to bounty hunters who clear the spaceways of agitators.
+player_impact: Bounty hunters can earn rewards by clearing pirates and agitators from the Carnoeck system. Traders should exercise caution when visiting Bacon City in the aftermath of the celebrations.
+modern_impact: Community celebration bringing pilots together for social events and trade opportunities.
 legacy_weight: 1
 significance: low
 ---

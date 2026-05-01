@@ -10,7 +10,7 @@ related_entities:
 - federal-times
 - revolutionary-noti-value-party
 - aganippe
-- lends-weight
+- revolutionary-noti-values-party
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **5**
 - [[Federal Times]] (2 co-mentions)
 - [[Revolutionary Noti Value Party]] (2 co-mentions)
 - [[Aganippe]] (2 co-mentions)
-- [[Lends Weight]] (1 co-mentions)
+- [[Revolutionary Noti Values Party]] (1 co-mentions)
 
 ## Biography
 

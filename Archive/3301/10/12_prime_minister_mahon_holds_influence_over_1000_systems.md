@@ -4,8 +4,8 @@ title: Prime Minister Mahon Holds Influence over 1,000 Systems
 slug: prime_minister_mahon_holds_influence_over_1000_systems
 date: '3301-10-12'
 source: GitHub
-entities:
-- Mahon Holds Influence over 1
+persons:
+- Edmund Mahon
 - NOIR1787
 groups:
 - Alliance
@@ -15,8 +15,9 @@ locations:
 topics:
 - trade
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence
-  through Mahon's trade agreements.
+summary: Prime Minister Edmund Mahon signed his one thousandth trade agreement, a milestone demonstrating the Alliance's growing economic influence. Despite having fewer supporters and less territory than the Federation or Empire, Mahon's diplomatic achievements established the Alliance as a major galactic power committed to maintaining its autonomy.
+player_impact: Pilots operating in Alliance space benefit from Mahon's trade agreements, which create economic opportunities across over 1,000 systems. Independent pilots were instrumental in achieving this milestone.
+modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence through Mahon's trade agreements.
 legacy_weight: 3
 significance: medium
 ---

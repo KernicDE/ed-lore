@@ -4,18 +4,18 @@ title: Olympus Corp Thanks the Fuel Rats
 slug: olympus_corp_thanks_the_fuel_rats
 date: '3301-10-09'
 source: GitHub
-entities:
+persons:
 - F-Zlim
-- Soundwave Olympus Corp Thanks
+- Soundwave
 groups:
 - Fuel Rats
 - Olympus Corporation
 topics:
-- corporate expansion
 - exploration
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
+- humanitarian
+summary: Commander F-Zlim was rescued by the Fuel Rats with only 50 seconds of oxygen remaining after a CO2 leak left his ship, the 'Korblah', stranded without fuel. The Olympus Corporation awarded the first-ever Korblah Medal to Fuel Rats Commanders Orphius and Lokda Babybel for their valiant service.
+player_impact: Pilots undertaking long-range exploration should carry emergency oxygen and know how to contact the Fuel Rats. The rescue demonstrates the critical importance of the Fuel Rats for deep-space safety.
+modern_impact: Highlights the essential role of the Fuel Rats in protecting explorers and the recognition they receive from major corporations.
 legacy_weight: 2
 significance: low
 ---

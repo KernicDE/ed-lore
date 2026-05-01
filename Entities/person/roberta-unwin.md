@@ -2,18 +2,18 @@
 id: roberta-unwin
 name: Roberta Unwin
 type: person
-first_seen_date: '3301-11-16'
+first_seen_date: '3301-10-15'
 last_seen_date: '3310-09-03'
-mention_count: 2
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Roberta Unwin
 
-First mentioned: **3301-11-16**  
+First mentioned: **3301-10-15**  
 Last mentioned: **3310-09-03**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

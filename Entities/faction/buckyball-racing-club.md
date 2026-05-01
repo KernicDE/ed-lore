@@ -7,10 +7,10 @@ last_seen_date: '3303-02-23'
 mention_count: 18
 related_entities:
 - grant-academics
-- sol
 - pilots-federation
-- george-lucas-station
 - leesti
+- george-lucas-station
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **18**
 ## Related
 
 - [[Grant Academics]] (4 co-mentions)
-- [[Sol]] (3 co-mentions)
 - [[Pilots Federation]] (3 co-mentions)
-- [[George Lucas station]] (2 co-mentions)
 - [[Leesti]] (2 co-mentions)
+- [[George Lucas station]] (2 co-mentions)
+- [[Sol]] (2 co-mentions)
 
 ## Biography
 

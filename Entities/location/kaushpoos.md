@@ -23,7 +23,7 @@ Total mentions: **9**
 
 ## Related
 
-- [[Explorer's Association]] (4 co-mentions)
+- [[Explorer's Association]] (6 co-mentions)
 - [[Neville Horizons]] (4 co-mentions)
 - [[Pleiades Nebula]] (4 co-mentions)
 - [[Alliance]] (3 co-mentions)

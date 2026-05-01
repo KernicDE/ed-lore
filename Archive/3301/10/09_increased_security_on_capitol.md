@@ -7,14 +7,16 @@ source: GitHub
 groups:
 - Emperor's Dawn
 - Imperial Guard
+- Imperial Navy
 locations:
 - Achenar
 - Capitol
 topics:
 - succession
 arc_id: imperial-succession
-modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption
-  stance and military focus shape Imperial policy for years to come.
+summary: Security was drastically increased in Capitol ahead of Arissa Lavigny-Duval's coronation ceremony due to threats from Emperor's Dawn. Naval infantry, local police, and Imperial Guard units patrolled the streets. Only invited guests and permit holders were allowed into the Achenar system, preventing offworld citizens from attending.
+player_impact: Pilots without proper permits were barred from the Achenar system during the coronation. The heavy security reflects the serious threat posed by Emperor's Dawn to the Imperial succession.
+modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption stance and military focus shape Imperial policy for years to come.
 legacy_weight: 5
 significance: high
 ---

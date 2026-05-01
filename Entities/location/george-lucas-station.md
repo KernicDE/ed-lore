@@ -8,9 +8,9 @@ mention_count: 2
 related_entities:
 - leesti
 - buckyball-racing-club
-- sol
 - independent-leesti-for-equality
 - jabbah
+- kessel
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **2**
 
 - [[Leesti]] (4 co-mentions)
 - [[Buckyball Racing Club]] (2 co-mentions)
-- [[Sol]] (2 co-mentions)
 - [[Independent Leesti for Equality]] (2 co-mentions)
 - [[Jabbah]] (1 co-mentions)
+- [[Kessel]] (1 co-mentions)
 
 ## Biography
 

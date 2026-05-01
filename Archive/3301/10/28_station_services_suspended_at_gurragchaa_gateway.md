@@ -9,10 +9,9 @@ locations:
 - Warkushanui
 topics:
 - construction
-- ship
-- trade
-- war
-modern_impact: Ship review and release information for the pilot community.
+summary: All services except refuelling and rearming were suspended at Gurragchaa Gateway in the Warkushanui system due to ongoing technical issues. The starport's technical team could not determine the cause and advised patience. Following the announcement, Federal authorities issued an official travel warning advising pilots to avoid the starport entirely.
+player_impact: Pilots should avoid Gurragchaa Gateway until services are restored. Alternative stations in the region should be used for trade, outfitting, and shipyard access. The Federal travel warning underscores the severity of the situation.
+modern_impact: Documents the escalating starport malfunctions that would later be linked to Unknown Artefacts.
 legacy_weight: 2
 significance: low
 ---

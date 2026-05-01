@@ -4,12 +4,12 @@ title: Chancellor Anders Blaine Issues Statement
 slug: chancellor_anders_blaine_issues_statement
 date: '3301-10-04'
 source: GitHub
-entities:
-- Chancellor Anders Blaine
+persons:
+- Anders Blaine
 - Aisling Duval
 groups:
 - Imperial Guard
-- IISS
+- Imperial Internal Security Service
 - Imperial Senate
 locations:
 - Capitol
@@ -17,11 +17,11 @@ locations:
 topics:
 - scandal
 - apology
-- arrest
 arc_id: imperial-succession
 arc_chapter: Blaine apologises
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+summary: Agents of the Imperial Guard and IISS arrested several members of Chancellor Anders Blaine's staff for conducting a slander campaign against Princess Aisling Duval. Blaine admitted the accusations were true, apologized unconditionally to Aisling, and took full responsibility, though he claimed no personal knowledge of the scheme.
+player_impact: The scandal damages Blaine's candidacy for the Imperial throne. Pilots watching the succession should expect Aisling Duval and Arissa Lavigny-Duval to become the dominant contenders.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 5
 significance: high
 ---

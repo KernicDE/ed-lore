@@ -8,15 +8,13 @@ groups:
 - Federal Times
 locations:
 - Gurragchaa Gateway
-- Recent reports from the Warkushanui
 - Warkushanui
 topics:
 - construction
-- exploration
-- war
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+summary: Technical issues in the Warkushanui system worsened, with Gurragchaa Gateway experiencing inexplicable mechanical problems across multiple systems. Technicians were in 'fire-fighting mode' but had not identified a cause. Commentators noted the increase in anomalous extraterrestrial objects (AEOs) discovered in the system, though station staff would not confirm a connection.
+player_impact: Pilots visiting Warkushanui should monitor station status closely. If the problems persist, services may be suspended. The potential link to Unknown Artefacts adds urgency to the situation.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---

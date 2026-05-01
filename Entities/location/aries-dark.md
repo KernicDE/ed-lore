@@ -6,7 +6,6 @@ first_seen_date: '3301-10-13'
 last_seen_date: '3301-10-13'
 mention_count: 1
 related_entities:
-- commander-mike-juliett-kilo
 - canonn-interstellar-research-group
 - maia
 - tanmark
@@ -23,7 +22,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Commander Mike Juliett Kilo]] (1 co-mentions)
 - [[Canonn Interstellar Research Group]] (1 co-mentions)
 - [[Maia]] (1 co-mentions)
 - [[Tanmark]] (1 co-mentions)

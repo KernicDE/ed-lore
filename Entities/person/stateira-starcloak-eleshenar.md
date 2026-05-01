@@ -3,13 +3,13 @@ id: stateira-starcloak-eleshenar
 name: Stateira "Starcloak" Eleshenar
 type: person
 first_seen_date: '3301-07-24'
-last_seen_date: '3301-10-13'
-mention_count: 3
+last_seen_date: '3301-09-01'
+mention_count: 2
 related_entities:
 - corrigendum
-- interstellar-press
 - gluttonyfang
 - kumo-crew
+- interstellar-press
 - utopia
 ---
 
@@ -18,15 +18,15 @@ related_entities:
 # Stateira "Starcloak" Eleshenar
 
 First mentioned: **3301-07-24**  
-Last mentioned: **3301-10-13**  
-Total mentions: **3**
+Last mentioned: **3301-09-01**  
+Total mentions: **2**
 
 ## Related
 
-- [[Corrigendum]] (2 co-mentions)
-- [[Interstellar Press]] (2 co-mentions)
+- [[Corrigendum]] (1 co-mentions)
 - [[GluttonyFang]] (1 co-mentions)
 - [[Kumo Crew]] (1 co-mentions)
+- [[Interstellar Press]] (1 co-mentions)
 - [[Utopia]] (1 co-mentions)
 
 ## Biography

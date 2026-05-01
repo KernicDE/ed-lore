@@ -4,15 +4,19 @@ title: Garrison Supplies Found in Criminal Hands
 slug: garrison_supplies_found_in_criminal_hands
 date: '3301-10-29'
 source: GitHub
+persons:
+- Corrigendum
 groups:
 - Kumo Crew
 locations:
 - Guathiti
+- Delta Doradus
 topics:
 - crime
 - investigation
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: Investigations into recent civil wars in Imperial space revealed that confiscated weapons and munitions bore serial numbers from garrison supplies stockpiled in the Guathiti system. Evidence pointed to growing corruption in the Delta Doradus region, with disturbing correlations to Kumo Crew influence in systems they sought to overthrow. Imperial investigators were dispatched.
+player_impact: Pilots operating in the Delta Doradus region should be alert for Kumo Crew activity and corrupt officials funneling military supplies to criminal organizations. Bounty hunters may find increased opportunities.
+modern_impact: Documents the infiltration of criminal networks into Imperial military supply chains and the resulting corruption.
 legacy_weight: 2
 significance: low
 ---

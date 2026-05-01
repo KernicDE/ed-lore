@@ -7,10 +7,10 @@ last_seen_date: '3301-10-28'
 mention_count: 4
 related_entities:
 - emperors-dawn
-- ltt-874
 - namarii
-- denton-patreus
-- denton
+- ltt-874
+- imperial-navy
+- imperial-internal-security-service
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **4**
 ## Related
 
 - [[Emperor's Dawn]] (4 co-mentions)
-- [[LTT 874]] (4 co-mentions)
 - [[Namarii]] (4 co-mentions)
-- [[Denton Patreus]] (3 co-mentions)
-- [[Denton]] (3 co-mentions)
+- [[LTT 874]] (4 co-mentions)
+- [[Imperial Navy]] (2 co-mentions)
+- [[Imperial Internal Security Service]] (1 co-mentions)
 
 ## Biography
 

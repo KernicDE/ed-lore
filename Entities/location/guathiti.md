@@ -7,6 +7,7 @@ last_seen_date: '3301-10-29'
 mention_count: 1
 related_entities:
 - kumo-crew
+- delta-doradus
 ---
 
 <!-- AUTO-GENERATED -->
@@ -20,6 +21,7 @@ Total mentions: **1**
 ## Related
 
 - [[Kumo Crew]] (1 co-mentions)
+- [[Delta Doradus]] (1 co-mentions)
 
 ## Biography
 

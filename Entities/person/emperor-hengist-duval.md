@@ -3,14 +3,13 @@ id: emperor-hengist-duval
 name: Emperor Hengist Duval
 type: person
 first_seen_date: '3301-07-24'
-last_seen_date: '3301-10-18'
-mention_count: 3
+last_seen_date: '3301-07-24'
+mention_count: 1
 related_entities:
+- chancellor-anders-blaine
 - imperial-senate
 - capitol
 - imperial-palace
-- chancellor-anders-blaine
-- arissa-lavigny-duval
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +17,15 @@ related_entities:
 # Emperor Hengist Duval
 
 First mentioned: **3301-07-24**  
-Last mentioned: **3301-10-18**  
-Total mentions: **3**
+Last mentioned: **3301-07-24**  
+Total mentions: **1**
 
 ## Related
 
-- [[Imperial Senate]] (3 co-mentions)
-- [[Capitol]] (3 co-mentions)
-- [[Imperial Palace]] (3 co-mentions)
-- [[Chancellor Anders Blaine]] (2 co-mentions)
-- [[Arissa Lavigny-Duval]] (2 co-mentions)
+- [[Chancellor Anders Blaine]] (1 co-mentions)
+- [[Imperial Senate]] (1 co-mentions)
+- [[Capitol]] (1 co-mentions)
+- [[Imperial Palace]] (1 co-mentions)
 
 ## Biography
 

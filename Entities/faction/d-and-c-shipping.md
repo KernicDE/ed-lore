@@ -8,7 +8,7 @@ mention_count: 2
 related_entities:
 - imperial-herald
 - emperors-dawn
-- iiss
+- imperial-internal-security-service
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,7 +23,7 @@ Total mentions: **2**
 
 - [[Imperial Herald]] (1 co-mentions)
 - [[Emperor's Dawn]] (1 co-mentions)
-- [[IISS]] (1 co-mentions)
+- [[Imperial Internal Security Service]] (1 co-mentions)
 
 ## Biography
 

@@ -7,10 +7,9 @@ last_seen_date: '3301-10-26'
 mention_count: 1
 related_entities:
 - buckyball-racing-club
+- leesti
 - george-lucas-station
 - jabbah
-- leesti
-- sol
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +23,9 @@ Total mentions: **1**
 ## Related
 
 - [[Buckyball Racing Club]] (1 co-mentions)
+- [[Leesti]] (1 co-mentions)
 - [[George Lucas station]] (1 co-mentions)
 - [[Jabbah]] (1 co-mentions)
-- [[Leesti]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
 
 ## Biography
 

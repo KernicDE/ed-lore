@@ -6,7 +6,6 @@ first_seen_date: '3301-10-26'
 last_seen_date: '3301-10-26'
 mention_count: 1
 related_entities:
-- estalath
 - xyz-fight-club
 - athena
 ---
@@ -21,7 +20,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[Estalath]] (1 co-mentions)
 - [[XYZ Fight Club]] (1 co-mentions)
 - [[Athena]] (1 co-mentions)
 

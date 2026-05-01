@@ -4,20 +4,21 @@ title: Pilots Call for Starship Lighting Enquiry
 slug: pilots_call_for_starship_lighting_enquiry
 date: '3301-10-19'
 source: GitHub
-entities:
+persons:
 - Devenish
+- Jenson Zanetti
 groups:
 - Alliance
 - Alliance News Network
 - Pilots Federation
 - Pilots Federation Safety Board
-locations:
-- The petition calls for all
 topics:
 - investigation
 - safety
 - ship
-modern_impact: Ship review and release information for the pilot community.
+summary: Over 220,000 pilots signed a petition calling for an inquiry into the lack of anti-collision lights on starships and emergency lighting on system-authority vessels. Jenson Zanetti, chairman of the Pilots Federation Safety Board, stated that implementing such lighting would massively decrease fatal collisions in and around space stations.
+player_impact: If adopted, the proposals would require anti-collision lights on all starships and lighting equipment on authority vessels, improving safety near stations. The petition is currently under review.
+modern_impact: Safety initiative demonstrating pilot concerns about collision risks near busy stations.
 legacy_weight: 1
 significance: low
 ---

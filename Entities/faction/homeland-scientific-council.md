@@ -10,7 +10,7 @@ related_entities:
 - palin-refused
 - hip-102128
 - tanmark
-- professor-ishmael-palin
+- christian-dock
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **2**
 - [[Palin refused]] (1 co-mentions)
 - [[HIP 102128]] (1 co-mentions)
 - [[Tanmark]] (1 co-mentions)
-- [[Professor Ishmael Palin]] (1 co-mentions)
+- [[Christian Dock]] (1 co-mentions)
 
 ## Biography
 

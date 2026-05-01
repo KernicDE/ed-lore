@@ -4,30 +4,27 @@ title: More Emperor's Dawn Bases Found
 slug: more_emperors_dawn_bases_found
 date: '3301-10-08'
 source: GitHub
-entities:
+persons:
 - Denton Patreus
 groups:
 - Emperor's Dawn
-- IISS
 - Imperial Internal Security Service
 locations:
-- Denton
-- LTT 874
-- Maausk
 - Namarii
-- Shambhala
-- Surprise
-- Svari
 - Tabaldak
+- LTT 874
+- Shambhala
+- Svari
+- Maausk
 topics:
 - exploration
-- research
 - succession
 - terrorism
 - war
 arc_id: imperial-succession
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+summary: "The Imperial Internal Security Service identified five additional systems containing Emperor's Dawn bases: Namarii, Tabaldak, LTT 874, Shambhala, and Svari. Senator Denton Patreus, leading the campaign against the insurgents, publicly announced the locations and vowed to crush the organization. The Empire had already eradicated a cell in Maausk."
+player_impact: Pilots can support Imperial forces in campaigns against Emperor's Dawn bases in the identified systems. Combat pilots are needed to help destroy the insurgent outposts.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

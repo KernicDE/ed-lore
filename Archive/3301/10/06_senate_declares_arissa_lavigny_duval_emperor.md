@@ -4,11 +4,11 @@ title: Senate Declares Arissa Lavigny Duval Emperor
 slug: senate_declares_arissa_lavigny_duval_emperor
 date: '3301-10-06'
 source: GitHub
-entities:
+persons:
 - Arissa Lavigny-Duval
-- Chancellor Anders Blaine
+- Anders Blaine
 - Aisling Duval
-- Emperor Hengist Duval
+- Hengist Duval
 - Marlin Duval
 groups:
 - Imperial Senate
@@ -20,11 +20,11 @@ locations:
 topics:
 - succession
 - coronation
-- gender
 arc_id: imperial-succession
 arc_chapter: Arissa declared Emperor
-modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption
-  stance and military focus shape Imperial policy for years to come.
+summary: The Imperial Senate declared Arissa Lavigny-Duval the next Emperor by clear majority vote. She will be the first female ruler since Marlin Duval founded the Achenar colony in the 23rd century, carrying the title 'Emperor' under a decree by the late Hengist Duval. Aisling Duval offered her support, while Emperor's Dawn vowed to disrupt the upcoming coronation ceremony.
+player_impact: The succession is decided. Pilots can expect shifts in Imperial policy under Arissa's anti-corruption and military-focused leadership. The coronation ceremony may face security threats from Emperor's Dawn.
+modern_impact: Arissa's coronation establishes a new Imperial era. Her anti-corruption stance and military focus shape Imperial policy for years to come.
 legacy_weight: 5
 significance: high
 ---
