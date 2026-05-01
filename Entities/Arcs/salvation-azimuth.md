@@ -31,4 +31,4 @@ Articles: **106**
 
 ## Description
 
-*[To be enriched]*
+The emergence of the mysterious figure known as Salvation and his connection to Azimuth Biotech. Through the Adamastor and Hesperus ghost ships, Salvation unveiled an anti-Thargoid superweapon agenda that challenged Aegis's approach and drew all three superpowers into his shadowy schemes.

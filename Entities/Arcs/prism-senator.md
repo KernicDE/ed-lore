@@ -31,4 +31,4 @@ Articles: **17**
 
 ## Description
 
-*[To be enriched]*
+The remarkable political journey of Senator Kahina Tijani Loren, known as the Prism Senator. Her diplomatic tour through Federal space, unconventional tactics, and later transformation into the fugitive Commander Salomé made her one of the most controversial figures in Imperial politics.

@@ -31,4 +31,4 @@ Articles: **196**
 
 ## Description
 
-*[To be enriched]*
+Humanity's first documented encounters with the Thargoids, beginning with barnacle discoveries in the Pleiades and escalating to direct ship-to-ship contact. The scientific response led by Aegis, and the superpowers' military preparations, marked the opening chapter of the Second Thargoid War.

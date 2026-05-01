@@ -31,4 +31,4 @@ Articles: **76**
 
 ## Description
 
-*[To be enriched]*
+The devastating terrorist campaign by the Neo-Marlinist Liberation Army (NMLA), culminating in the simultaneous bombing of nine starports across all three superpowers—the 'Nine Martyrs' attack. The aftermath saw the creation of anti-NMLA intelligence units and far-reaching security measures.

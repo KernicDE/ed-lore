@@ -31,4 +31,4 @@ Articles: **135**
 
 ## Description
 
-*[To be enriched]*
+The full-scale Thargoid invasion featuring massive Titan-class vessels that swept across the Coalsack, Witch Head, and Pleiades nebulae. The Alliance-Sirius Corporation defence pact, widespread civilian evacuations, and desperate anti-xeno operations defined this existential conflict for human civilization.

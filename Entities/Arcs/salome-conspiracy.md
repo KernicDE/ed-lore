@@ -27,4 +27,4 @@ Articles: **6**
 
 ## Description
 
-*[To be enriched]*
+The conspiracy surrounding Commander Salomé—formerly Senator Kahina Tijani Loren—and her flight from Imperial justice. Covert messages from the Col 70 Sector, secret support networks, and the mysterious organization backing her escape formed a web of intrigue across superpower boundaries.

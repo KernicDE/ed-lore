@@ -31,4 +31,4 @@ Articles: **19**
 
 ## Description
 
-*[To be enriched]*
+The controversial presidency of Jasmina Halsey, characterized by aggressive military interventions, the tragic Starship One disappearance, political attacks from Shadow President Hudson, and an eventual vote of no confidence that reshaped Federal leadership.

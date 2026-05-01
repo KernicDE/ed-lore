@@ -31,4 +31,4 @@ Articles: **70**
 
 ## Description
 
-*[To be enriched]*
+Scientific investigation of alien barnacle structures discovered in the Pleiades Nebula and the properties of meta-alloys. Led by Professor Ishmael Palin and the Canonn Interstellar Research Group, this research proved crucial in understanding Thargoid biology and technology.

@@ -31,4 +31,4 @@ Articles: **6**
 
 ## Description
 
-*[To be enriched]*
+Investigations into the mysteries of the Formidine Rift, including abandoned generation ships, the nomadic Scriveners Clan dredger stripping the Hesperus, and the expansion of the Far God cult's missionary megaships into deep space.

@@ -31,4 +31,4 @@ Articles: **22**
 
 ## Description
 
-*[To be enriched]*
+The unfolding mystery surrounding the permit-locked HIP 87621 system, the disappearance of exobiologist Terri Tora, and the October Consortium's controversial legal ownership of the system. Billionaire Zachary Rackham's involvement and conflicting claims fueled widespread speculation.

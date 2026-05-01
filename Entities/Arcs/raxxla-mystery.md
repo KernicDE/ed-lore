@@ -31,4 +31,4 @@ Articles: **5**
 
 ## Description
 
-*[To be enriched]*
+The ongoing search for Raxxla, a legendary hidden world or portal. The Children of Raxxla and other groups pursued cryptic clues, uncovering links to the Dynasty Project and the Formidine Rift, while Senator Patreus's flagship was attacked by those seeking to expose the truth.

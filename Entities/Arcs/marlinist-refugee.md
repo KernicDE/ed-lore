@@ -31,4 +31,4 @@ Articles: **6**
 
 ## Description
 
-*[To be enriched]*
+The political establishment and evolution of the Marlinist Colonies, founded by refugees from the Empire seeking democratic governance. Senator Lorcan Scordato's diplomatic overtures, internal power struggles, and the formation of the Marlinist Consulate shaped this unique political experiment.

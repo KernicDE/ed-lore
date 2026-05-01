@@ -31,4 +31,4 @@ Articles: **11**
 
 ## Description
 
-*[To be enriched]*
+Brewer Corporation's ambitious initiative to expand human settlement through the Trailblazer megaship fleet. The program introduced system colonisation modules to the public market, enabling independent pilots to establish new outposts on the galactic frontier.

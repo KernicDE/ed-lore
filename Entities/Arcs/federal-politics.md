@@ -31,4 +31,4 @@ Articles: **78**
 
 ## Description
 
-*[To be enriched]*
+The turbulent domestic political landscape of the Federation, spanning President Halsey's controversial military actions, Shadow President Zachary Hudson's successful no-confidence vote, the rise of the Proactive Detection Bureau, and ongoing debates over Federal security versus civil liberties.

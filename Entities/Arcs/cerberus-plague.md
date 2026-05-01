@@ -31,4 +31,4 @@ Articles: **20**
 
 ## Description
 
-*[To be enriched]*
+A devastating pathogen outbreak that originated aboard Newton Dock in BD-02 4304 and rapidly spread to multiple systems including Dajoar, Eleu, Bast, and Santjalan. The plague forced starport shutdowns and required coordinated medical and military intervention to contain.

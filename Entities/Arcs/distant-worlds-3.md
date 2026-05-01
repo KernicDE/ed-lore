@@ -29,4 +29,4 @@ Articles: **8**
 
 ## Description
 
-*[To be enriched]*
+The third Distant Worlds expedition, a massive community-driven deep-space exploration initiative. Thousands of pilots journeyed to Beagle Point and beyond, constructing deep-space infrastructure and conducting stellar surveys in the galactic core and outer regions.

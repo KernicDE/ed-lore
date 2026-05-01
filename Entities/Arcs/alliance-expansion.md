@@ -31,4 +31,4 @@ Articles: **31**
 
 ## Description
 
-*[To be enriched]*
+The Alliance's diplomatic and economic expansion under Prime Minister Edmund Mahon, encompassing open trade agreements with the Old Worlds and Lave clusters, support for independence movements such as Lugh, and efforts to position the Alliance as a third superpower between the Federation and Empire.

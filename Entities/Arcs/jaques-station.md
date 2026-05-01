@@ -31,4 +31,4 @@ Articles: **57**
 
 ## Description
 
-*[To be enriched]*
+The epic saga of Jaques Station, the galaxy's only travelling starport. Its ambitious attempted jump to Beagle Point ended in disaster and disappearance, but the station was eventually rediscovered in what became the Colonia region, sparking a new wave of colonization.

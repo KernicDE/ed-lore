@@ -31,4 +31,4 @@ Articles: **18**
 
 ## Description
 
-*[To be enriched]*
+The rise and rapid fall of Nova Imperium, a hardline Imperial splinter faction advocating isolationism and traditional values under Imperator Mordanticus. The movement was crushed in the Battle of Paresa, where Imperial forces led by Senator Patreus decisively defeated the rebellion.

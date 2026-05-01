@@ -31,4 +31,4 @@ Articles: **14**
 
 ## Description
 
-*[To be enriched]*
+The archaeological discovery and research of ancient Guardian sites, led by Engineer Ram Tah. This arc uncovered evidence of the extinct Guardian civilization, their technological achievements, and their ancient war with the Thargoids that drove both species to near-extinction.

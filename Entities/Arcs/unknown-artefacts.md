@@ -31,4 +31,4 @@ Articles: **35**
 
 ## Description
 
-*[To be enriched]*
+The mystery of Unknown Artefacts—later identified as Thargoid sensors—recovered from Federal Navy convoys by the Canonn research group. Their discovery of star system coordinates encoded in the artefacts' signals, and the devices' corrosive effect on starport systems, foreshadowed the Thargoid return.

@@ -31,4 +31,4 @@ Articles: **37**
 
 ## Description
 
-*[To be enriched]*
+Corporate and exploratory expansion into the Pleiades Nebula, featuring the construction of Obsidian Orbital and other deep-space platforms. Tensions arose between mining operations, scientific research groups, and the growing Thargoid presence in the region.

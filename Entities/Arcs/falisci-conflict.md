@@ -31,4 +31,4 @@ Articles: **6**
 
 ## Description
 
-*[To be enriched]*
+Senator Denton Patreus's campaign against the Falisci Purple Gang, a pirate organization terrorizing traders in the region. With support from the Citizens of Tradition faction, Imperial forces ultimately defeated the gang and assimilated Falisci into Imperial space.

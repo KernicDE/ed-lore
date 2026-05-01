@@ -27,4 +27,4 @@ Articles: **11**
 
 ## Description
 
-*[To be enriched]*
+The investigation into the disappearance of the Highliner Antares during its maiden voyage and the later loss of Starship One. The mystery centers on potential links to Sirius Corporation's Frame Shift Drive technology, raising questions of malfunction versus deliberate sabotage.

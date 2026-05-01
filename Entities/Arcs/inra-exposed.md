@@ -31,4 +31,4 @@ Articles: **5**
 
 ## Description
 
-*[To be enriched]*
+The exposure of the Intergalactic Naval Reserve Arm (INRA), a covert organization from the First Thargoid War. The truth emerged through the League of Reparation's assassinations of individuals linked to INRA's ethically dubious research and biological weapons programs.

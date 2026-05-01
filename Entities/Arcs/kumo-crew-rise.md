@@ -31,4 +31,4 @@ Articles: **41**
 
 ## Description
 
-*[To be enriched]*
+Archon Delaine's brutal expansion of the Kumo Crew across the Pegasi Sector. Styling himself as Pirate King, Delaine demanded tribute from systems, clashed with Federal and Imperial forces, and attempted to forge a unified pirate federation through violence and intimidation.

@@ -29,4 +29,4 @@ Articles: **4**
 
 ## Description
 
-*[To be enriched]*
+A brief but intense military confrontation in which Imperial Navy forces defeated the Cayutorme Syndicate mercenary fleet. Investigations confirmed ties between the syndicate and Archon Delaine's Kumo Crew, with leader Kyle Kurowski killed during the fighting.
