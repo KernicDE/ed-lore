@@ -6,11 +6,11 @@ first_seen_date: '3302-09-29'
 last_seen_date: '3302-10-04'
 mention_count: 3
 related_entities:
+- kalana-independents
 - mu-koji
 - bujold-enterprise
-- the-kalana-independents
-- kalana-independents
 - cutter-club
+- moore-prospect
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **3**
 
 ## Related
 
+- [[Kalana Independents]] (3 co-mentions)
 - [[Mu Koji]] (3 co-mentions)
 - [[Bujold Enterprise]] (2 co-mentions)
-- [[The Kalana Independents]] (2 co-mentions)
-- [[Kalana Independents]] (1 co-mentions)
 - [[Cutter Club]] (1 co-mentions)
+- [[Moore Prospect]] (1 co-mentions)
 
 ## Biography
 

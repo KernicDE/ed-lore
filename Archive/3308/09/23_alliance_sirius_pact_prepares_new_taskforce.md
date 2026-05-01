@@ -4,7 +4,9 @@ title: Alliance-Sirius Pact Prepares New Taskforce
 slug: alliance_sirius_pact_prepares_new_taskforce
 date: '3308-09-23'
 source: API
-summary: The Alliance-Sirius strategic defence pact is fully ratified, with Admiral Nikolas Glass announcing Operation Tyndareus, a new anti-xeno taskforce named after the megaship lost in HIP 22460.
+summary: The Alliance-Sirius strategic defence pact is fully ratified, with Admiral
+  Nikolas Glass announcing Operation Tyndareus, a new anti-xeno taskforce named after
+  the megaship lost in HIP 22460.
 player_impact: Not specifically mentioned — this is a policy announcement.
 persons:
 - Nikolas Glass
@@ -16,7 +18,7 @@ groups:
 - Alliance Defence Force
 - Council of Admirals
 - Old Worlds Gazette
-- The Alliance Tribune
+- Alliance Tribune
 locations:
 - HIP 22460
 - Leesti
@@ -26,13 +28,17 @@ topics:
 - diplomacy
 - war
 arc_id: thargoid-titan-war
-modern_impact: Operation Tyndareus represents the first concrete military output of the controversial Alliance-Sirius pact, though critics question whether Sirius will deliver meaningful combat capability.
+modern_impact: Operation Tyndareus represents the first concrete military output of
+  the controversial Alliance-Sirius pact, though critics question whether Sirius will
+  deliver meaningful combat capability.
 legacy_weight: 5
 significance: high
 related_uuids:
 - be63c32e-8997-572a-9d07-24701e8fc641
 - bb92f6c0-0def-564c-9b52-f2f1c75fc853
+technologies: []
 ---
+
 
 The anti-xeno strategic defence pact between the Alliance and Sirius Corporation has been fully ratified as a legally binding treaty.
 The Assembly voted to approve the agreement at the end of June, following months of debate. The decision was influenced by the outcome of two competing initiatives to procure resource packages for the Alliance Defence Force (ADF).

@@ -4,8 +4,11 @@ title: ‘Thargoid Roar’ Leaked to Public
 slug: thargoid_roar_leaked_to_public
 date: '3308-09-15'
 source: API
-summary: Classified footage from the Battle of HIP 22460 is leaked to newsfeeds, revealing the so-called 'Thargoid roar' and fuelling public anxiety as intelligence agencies investigate the source.
-player_impact: Pilots were called to continue anti-Thargoid operations in the 42 n Persei, Chun Pindit and Tekkeitjal systems.
+summary: Classified footage from the Battle of HIP 22460 is leaked to newsfeeds, revealing
+  the so-called 'Thargoid roar' and fuelling public anxiety as intelligence agencies
+  investigate the source.
+player_impact: Pilots were called to continue anti-Thargoid operations in the 42 n
+  Persei, Chun Pindit and Tekkeitjal systems.
 persons:
 - Flint Lafosse
 - Jade Sanderlyn
@@ -15,7 +18,7 @@ persons:
 groups:
 - Alliance Tribune
 - The Federal Times
-- The Imperial Herald
+- Imperial Herald
 - The Sovereign
 - Vox Galactica
 - Alliance Assembly
@@ -33,13 +36,17 @@ topics:
 - investigation
 - war
 arc_id: thargoid-titan-war
-modern_impact: The leak exposes military secrecy around HIP 22460 and brings the eerie 'Thargoid roar' to public attention, intensifying fear and speculation about the aliens' true capabilities.
+modern_impact: The leak exposes military secrecy around HIP 22460 and brings the eerie
+  'Thargoid roar' to public attention, intensifying fear and speculation about the
+  aliens' true capabilities.
 legacy_weight: 5
 significance: high
 related_uuids:
 - 38fb5be2-6a83-50df-95d5-b61bec0d0b64
 - 1a532819-1e43-5580-b3bb-f6889fbb028d
+technologies: []
 ---
+
 
 Classified audio-visual footage from the Battle of HIP 22460 has been anonymously submitted to several mainstream newsfeeds.
 The Alliance Tribune, The Federal Times, The Imperial Herald, The Sovereign and Vox Galactica all received databanks salvaged from various wreckages in the HIP 22460 system. Most were obtained from naval vessels, along with a handful recovered from independent ship’s logs.

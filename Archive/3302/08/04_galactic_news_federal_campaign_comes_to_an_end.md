@@ -4,11 +4,14 @@ title: Galactic News  Federal Campaign Comes to an End
 slug: galactic_news_federal_campaign_comes_to_an_end
 date: '3302-08-04'
 source: GitHub
-summary: The Federation's appeal for construction materials concluded successfully, with thousands of tonnes delivered to Obsidian Orbital for a new outpost on HIP 17225 A 1. Opponents claim the outpost is an attempt to control access to barnacles and the meta-alloy trade.
+summary: The Federation's appeal for construction materials concluded successfully,
+  with thousands of tonnes delivered to Obsidian Orbital for a new outpost on HIP
+  17225 A 1. Opponents claim the outpost is an attempt to control access to barnacles
+  and the meta-alloy trade.
 player_impact: None
 persons: []
 groups:
-- The Future of Segovan
+- Future of Segovan
 - Federation
 - Imperial Herald
 locations:
@@ -21,10 +24,12 @@ topics:
 - trade
 technologies: []
 arc_id: thargoid-contact
-modern_impact: Federal expansion into the Pleiades to control meta-alloy access intensifies superpower competition over non-human resources.
+modern_impact: Federal expansion into the Pleiades to control meta-alloy access intensifies
+  superpower competition over non-human resources.
 legacy_weight: 5
 significance: high
 ---
+
 
 A spokesperson for The Future of Segovan has announced that the Federation's appeal for construction materials has come to an end. Thousands of tonnes of material were delivered to Obsidian Orbital This week, Which will be used to construct a new outpost on HIP 17225 A 1. In a brief statement, the spokesperson thanked those who had contributed to the initiative: 
 

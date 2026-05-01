@@ -4,12 +4,15 @@ title: Freelance Report  Attempt to Sabotage Jaques Station Thwarted
 slug: freelance_report_attempt_to_sabotage_jaques_station_thwarted
 date: '3302-05-20'
 source: GitHub
-summary: Three members of the cult 'The Hands of the Architects' are apprehended at Jaques Station while attempting to modify the station's Frame Shift Drive. They hoped to force a mis-jump during the journey to Beagle Point to meet Halsey's alleged 'architects'.
+summary: Three members of the cult 'The Hands of the Architects' are apprehended at
+  Jaques Station while attempting to modify the station's Frame Shift Drive. They
+  hoped to force a mis-jump during the journey to Beagle Point to meet Halsey's alleged
+  'architects'.
 player_impact: None
 persons:
 - Jasmina Halsey
 groups:
-- The Hands of the Architects
+- Hands of the Architects
 locations:
 - Jaques Station
 topics:
@@ -17,10 +20,13 @@ topics:
 - construction
 - war
 arc_id: thargoid-contact
-modern_impact: The emergence of Thargoid ships marks the beginning of active alien contact, fundamentally changing humanity's place in the galaxy.
+modern_impact: The emergence of Thargoid ships marks the beginning of active alien
+  contact, fundamentally changing humanity's place in the galaxy.
 legacy_weight: 5
 significance: high
+technologies: []
 ---
+
 
 Three individuals carrying pamphlets identifying them as members of 'The Hands of the Architects' have been apprehended at Jaques Station. Starport personnel discovered the individuals attempting to modify the station's Frame Shift Drive. 
 

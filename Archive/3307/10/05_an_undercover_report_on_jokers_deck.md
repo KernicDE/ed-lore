@@ -4,7 +4,8 @@ title: 'An Undercover Report on Jokers’ Deck '
 slug: an_undercover_report_on_jokers_deck
 date: '3307-10-05'
 source: API
-summary: Francesca Wolfe of Wallglass Investigations provides an undercover report from inside the Jokers' Deck gambling circle before disappearing.
+summary: Francesca Wolfe of Wallglass Investigations provides an undercover report
+  from inside the Jokers' Deck gambling circle before disappearing.
 player_impact: None
 persons:
 - Francesca Wolfe
@@ -14,7 +15,7 @@ persons:
 - Scorpio DeVorrow
 - Rochester
 - Trask
-- Volantyne
+- Kay Volantyne
 - Zachary Rackham
 - Xiona
 groups:
@@ -23,10 +24,14 @@ groups:
 - October Consortium
 topics:
 - investigation
-modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery in galactic high society.
+modern_impact: The secretive Jokers' Deck gambling circle remains an enduring mystery
+  in galactic high society.
 legacy_weight: 2
 significance: low
+locations: []
+technologies: []
 ---
+
 
 Francesca Wolfe of The Wallglass Investigations Agency provides an inside view of the Jokers’ Deck gambling circle.
 “Gunnarson’s intel was correct. The latest host is multi-billionaire investor Lexi October, the lady who rescued Supratech from bankruptcy. We’re in One of October Consortium’s disused warehouse complexes, Which looks derelict on the outside but is a fabulous glittering palace within. I don’t actually know what planet I’m on, since all the servants – including me With my fake ID – were transported here in total secrecy.”

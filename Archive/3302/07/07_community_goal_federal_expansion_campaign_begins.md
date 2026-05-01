@@ -4,11 +4,14 @@ title: Community Goal  Federal Expansion Campaign Begins
 slug: community_goal_federal_expansion_campaign_begins
 date: '3302-07-07'
 source: GitHub
-summary: The Future of Segovan has announced a campaign to construct Federal Naval outposts in the Segovan system and the Pleiades sector. Federation-aligned pilots are asked to deliver construction materials to Ramsbottom Hub.
-player_impact: Deliver insulating membrane, gallium, and power generators to Ramsbottom Hub in the Segovan system.
+summary: The Future of Segovan has announced a campaign to construct Federal Naval
+  outposts in the Segovan system and the Pleiades sector. Federation-aligned pilots
+  are asked to deliver construction materials to Ramsbottom Hub.
+player_impact: Deliver insulating membrane, gallium, and power generators to Ramsbottom
+  Hub in the Segovan system.
 persons: []
 groups:
-- The Future of Segovan
+- Future of Segovan
 - Federation
 locations:
 - Segovan
@@ -17,10 +20,12 @@ topics:
 - ship
 technologies: []
 arc_id: pleiades-expansion
-modern_impact: Marks the start of overt Federal infrastructure expansion toward the Pleiades, triggering Imperial opposition and setting the stage for proxy conflicts.
+modern_impact: Marks the start of overt Federal infrastructure expansion toward the
+  Pleiades, triggering Imperial opposition and setting the stage for proxy conflicts.
 legacy_weight: 3
 significance: medium
 ---
+
 
 The Future of Segovan, a Federal organisation based in the Segovan system, has announced plans to construct a number of new Federal Naval outposts, starting in Segovan and reaching out into the Pleiades sector. 
 

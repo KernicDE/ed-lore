@@ -10,7 +10,7 @@ related_entities:
 - sirius-corporation
 - alliance-defence-force
 - council-of-admirals
-- the-alliance-tribune
+- alliance-tribune
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **1**
 - [[Sirius Corporation]] (1 co-mentions)
 - [[Alliance Defence Force]] (1 co-mentions)
 - [[Council of Admirals]] (1 co-mentions)
-- [[The Alliance Tribune]] (1 co-mentions)
+- [[Alliance Tribune]] (1 co-mentions)
 
 ## Biography
 

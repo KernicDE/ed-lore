@@ -2,32 +2,32 @@
 id: future-of-segovan
 name: Future of Segovan
 type: faction
-first_seen_date: '3302-07-11'
-last_seen_date: '3302-07-28'
-mention_count: 2
+first_seen_date: '3302-07-07'
+last_seen_date: '3302-08-04'
+mention_count: 5
 related_entities:
 - federation
-- taskforce-athena
-- federal-security-service
-- segovan
 - ramsbottom-hub
+- segovan
+- obsidian-orbital
+- hip-17225-a-1
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Future of Segovan
 
-First mentioned: **3302-07-11**  
-Last mentioned: **3302-07-28**  
-Total mentions: **2**
+First mentioned: **3302-07-07**  
+Last mentioned: **3302-08-04**  
+Total mentions: **5**
 
 ## Related
 
-- [[Federation]] (2 co-mentions)
-- [[Taskforce Athena]] (1 co-mentions)
-- [[Federal Security Service]] (1 co-mentions)
-- [[Segovan]] (1 co-mentions)
-- [[Ramsbottom Hub]] (1 co-mentions)
+- [[Federation]] (4 co-mentions)
+- [[Ramsbottom Hub]] (3 co-mentions)
+- [[Segovan]] (2 co-mentions)
+- [[Obsidian Orbital]] (2 co-mentions)
+- [[HIP 17225 A 1]] (2 co-mentions)
 
 ## Biography
 

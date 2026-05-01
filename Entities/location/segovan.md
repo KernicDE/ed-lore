@@ -8,7 +8,7 @@ mention_count: 5
 related_entities:
 - federation
 - ramsbottom-hub
-- the-future-of-segovan
+- future-of-segovan
 - empire
 - taskforce-athena
 ---
@@ -25,7 +25,7 @@ Total mentions: **5**
 
 - [[Federation]] (5 co-mentions)
 - [[Ramsbottom Hub]] (5 co-mentions)
-- [[The Future of Segovan]] (1 co-mentions)
+- [[Future of Segovan]] (2 co-mentions)
 - [[Empire]] (1 co-mentions)
 - [[Taskforce Athena]] (1 co-mentions)
 

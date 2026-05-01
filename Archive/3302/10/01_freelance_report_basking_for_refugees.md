@@ -4,13 +4,17 @@ title: Freelance Report  Basking for Refugees
 slug: freelance_report_basking_for_refugees
 date: '3302-10-01'
 source: GitHub
-summary: A group of Imperial Commanders called the 'Cutter Club' delivered medicines and evacuation shelters to Mu Koji refugees in the Kalana system, and organised a fundraising event called "Basking for Refugees" at Moore Prospect.
-player_impact: Pilots could participate in the Basking for Refugees fundraising event streamed from Moore Prospect on 2 October 3302 at 22:00 galactic standard time, featuring SRV jumps over rows of Imperial Cutters.
+summary: A group of Imperial Commanders called the 'Cutter Club' delivered medicines
+  and evacuation shelters to Mu Koji refugees in the Kalana system, and organised
+  a fundraising event called "Basking for Refugees" at Moore Prospect.
+player_impact: Pilots could participate in the Basking for Refugees fundraising event
+  streamed from Moore Prospect on 2 October 3302 at 22:00 galactic standard time,
+  featuring SRV jumps over rows of Imperial Cutters.
 persons:
 - Commander PeachSlicesV
 - Commander Corrigendum
 groups:
-- The Kalana Independents
+- Kalana Independents
 - Cutter Club
 locations:
 - Kalana
@@ -23,10 +27,12 @@ topics:
 technologies:
 - Imperial Cutter
 - SRV
-modern_impact: Humanitarian pilot-led relief efforts for Federal-Imperial war refugees establish a template for community aid campaigns.
+modern_impact: Humanitarian pilot-led relief efforts for Federal-Imperial war refugees
+  establish a template for community aid campaigns.
 legacy_weight: 2
 significance: low
 ---
+
 
 A group of well-connected Imperial Commanders has descended on The Kalana system carrying medicines and evacuation shelters. The loosely organized 'Cutter Club', As the group calls itself, has pledged to meet the needs of the Mu Koji refugees. 
 
