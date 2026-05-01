@@ -29,6 +29,7 @@ interface TimelineProps {
   onArticleSelect: (article: Article | null) => void;
   selectedArticle: Article | null;
   onScrollUpdate?: (scrollTop: number, viewportHeight: number) => void;
+  onVisibleArticlesChange?: (visibleUuids: string[]) => void;
   scrollToUuid?: string | null;
 }
 
@@ -123,6 +124,7 @@ export default function Timeline({
   onArticleSelect,
   selectedArticle,
   onScrollUpdate,
+  onVisibleArticlesChange,
   scrollToUuid,
 }: TimelineProps) {
   const containerRef = useRef<HTMLDivElement>(null);
@@ -177,7 +179,7 @@ export default function Timeline({
     });
   }, [selectedArticle]);
 
-  // Report scroll position + track visible year
+  // Report scroll position + track visible year + compute visible articles
   useEffect(() => {
     const el = containerRef.current;
     if (!el) return;
@@ -199,6 +201,20 @@ export default function Timeline({
       });
       if (bestYear) setVisibleYear(bestYear);
 
+      // Compute visible articles (within viewport + padding)
+      const visibleUuids: string[] = [];
+      const containerRect = el.getBoundingClientRect();
+      const pad = 200; // Include articles just above/below viewport
+      itemRefs.current.forEach((itemEl, uuid) => {
+        const rect = itemEl.getBoundingClientRect();
+        const top = rect.top - containerRect.top;
+        const bottom = rect.bottom - containerRect.top;
+        if (bottom >= -pad && top <= el.clientHeight + pad) {
+          visibleUuids.push(uuid);
+        }
+      });
+      onVisibleArticlesChange?.(visibleUuids);
+
       // Also update center date for context panel
       const centerY = el.scrollTop + el.clientHeight / 2;
       let closest: { idx: number; dist: number } = { idx: 0, dist: Infinity };
@@ -217,7 +233,7 @@ export default function Timeline({
     el.addEventListener('scroll', update, { passive: true });
     update();
     return () => el.removeEventListener('scroll', update);
-  }, [articles, onCenterDateChange, onScrollUpdate]);
+  }, [articles, onCenterDateChange, onScrollUpdate, onVisibleArticlesChange]);
 
   const handleHeaderClick = useCallback((art: Article) => {
     onArticleSelect(selectedArticle?.uuid === art.uuid ? null : art);

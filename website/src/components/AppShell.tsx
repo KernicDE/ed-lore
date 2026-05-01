@@ -58,6 +58,7 @@ export default function AppShell() {
   const [scrollTop, setScrollTop] = useState(0);
   const [viewportHeight, setViewportHeight] = useState(800);
   const [scrollToUuid, setScrollToUuid] = useState<string | null>(null);
+  const [visibleUuids, setVisibleUuids] = useState<string[]>([]);
   const [searchOpen, setSearchOpen] = useState(false);
 
   useEffect(() => {
@@ -117,6 +118,10 @@ export default function AppShell() {
     setViewportHeight(vh);
   }, []);
 
+  const handleVisibleArticlesChange = useCallback((uuids: string[]) => {
+    setVisibleUuids(uuids);
+  }, []);
+
   const handleArticleNavigate = useCallback((uuid: string) => {
     setScrollToUuid(uuid);
     setSearchOpen(false);
@@ -157,16 +162,19 @@ export default function AppShell() {
   }, [searchOpen]);
 
   const visibleArticles = useMemo(() => {
-    return sortedArticles.map((a) => ({
-      arc_id: a.arc_id,
-      entities: a.entities,
-      groups: a.groups,
-      locations: a.locations,
-      topics: a.topics,
-      persons: a.persons || [],
-      technologies: a.technologies || [],
-    }));
-  }, [sortedArticles]);
+    const uuidSet = new Set(visibleUuids);
+    return sortedArticles
+      .filter((a) => uuidSet.has(a.uuid))
+      .map((a) => ({
+        arc_id: a.arc_id,
+        entities: a.entities,
+        groups: a.groups,
+        locations: a.locations,
+        topics: a.topics,
+        persons: a.persons || [],
+        technologies: a.technologies || [],
+      }));
+  }, [sortedArticles, visibleUuids]);
 
   if (loading) {
     return (
@@ -196,6 +204,7 @@ export default function AppShell() {
           onArticleSelect={handleArticleSelect}
           selectedArticle={selectedArticle}
           onScrollUpdate={handleScrollUpdate}
+          onVisibleArticlesChange={handleVisibleArticlesChange}
           scrollToUuid={scrollToUuid}
         />
         <ContextPanel
