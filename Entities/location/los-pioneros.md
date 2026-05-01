@@ -11,6 +11,8 @@ related_entities:
 - beta-hydri
 - sol
 - edmondson-high
+bio: 'Los Pioneros is a star system in the Elite Dangerous universe, significant from
+  3308-05-19 to 3308-05-19. Associated with Federal Times. '
 ---
 
 <!-- AUTO-GENERATED -->

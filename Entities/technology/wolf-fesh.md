@@ -6,6 +6,8 @@ first_seen_date: '3302-06-09'
 last_seen_date: '3302-06-16'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=wolf%20fesh
+bio: 'wolf fesh is a technology in the Elite Dangerous universe, mentioned from 3302-06-09
+  to 3302-06-16. Developed or used by Crom Silver Boys. '
 ---
 
 

@@ -9,6 +9,9 @@ related_entities:
 - neits-jet-life-ltd
 - gr-316-silver-universal-group
 - neits-system
+bio: 'Watson Settlement is a outpost in the Elite Dangerous universe, significant
+  from 3302-05-19 to 3302-05-19. Associated with GR 316 Silver Universal Group, Neits
+  Jet Life Ltd. '
 ---
 
 <!-- AUTO-GENERATED -->

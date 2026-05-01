@@ -12,6 +12,9 @@ related_entities:
 - cqc-holdings
 - tenche
 inara_url: https://inara.cz/elite/minorfaction/?search=Tenche%20Universal%20Holdings
+bio: 'Tenche Universal Holdings is a organization in the Elite Dangerous universe,
+  active from 3306-09-17 to 3306-09-17. Frequently linked with Kavanagh Spaceframes
+  Ltd, Steel Castle Inc, Pilots Federation. '
 ---
 
 

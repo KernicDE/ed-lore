@@ -11,6 +11,8 @@ related_entities:
 - sirius-corporation
 - hyades-sector-su-c-a14-1
 - fairfax-legacy
+bio: 'Hyades Sector LX-T c3-30 is a star system in the Elite Dangerous universe, significant
+  from 3308-05-06 to 3308-05-06. Associated with Alliance, Marlinist, Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

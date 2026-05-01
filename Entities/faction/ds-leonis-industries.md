@@ -9,6 +9,8 @@ related_entities:
 - macrosphere
 - ds-leonis
 inara_url: https://inara.cz/elite/minorfaction/?search=DS%20Leonis%20Industries
+bio: 'DS Leonis Industries is a organization in the Elite Dangerous universe, active
+  from 3305-02-28 to 3305-03-07. Frequently linked with DS Leonis, Macrosphere. '
 ---
 
 

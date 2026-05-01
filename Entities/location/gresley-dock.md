@@ -11,6 +11,8 @@ related_entities:
 - nanomam
 - rhea
 - ito-orbital
+bio: 'Gresley Dock is a starport in the Elite Dangerous universe, significant from
+  3307-04-29 to 3307-05-06. Associated with Pilots Federation. '
 ---
 
 <!-- AUTO-GENERATED -->

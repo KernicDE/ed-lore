@@ -10,6 +10,12 @@ related_entities:
 - gregs-legacy
 - conway-city
 inara_url: https://inara.cz/elite/minorfaction/?search=NULL
+bio: NULL is a organization in the Elite Dangerous universe, active from 3303-07-14
+  to 3303-07-21. Frequently linked with LTT 4961, Greg's Legacy, Conway City. NULL,
+  an independent organisation based in LTT 4961, announces plans to build a new base
+  at Greg's Legacy and has placed open orders for titanium, aluminium, copper and
+  tea. NULL announces the successful conclusion of its commodities appeal and system
+  security campaign in LTT 4961.
 ---
 
 

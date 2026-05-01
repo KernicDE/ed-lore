@@ -10,6 +10,10 @@ related_entities:
 - spinward-marches-alliance-concern
 - morrina-system
 - pilots-federation
+bio: Beaumont Dock is a starport in the Elite Dangerous universe, significant from
+  3302-04-28 to 3302-05-05. Associated with Alliance, Spinward Marches Alliance Concern.
+  Medicines, water purifiers, and power generators delivered to Beaumont Dock will
+  be distributed to those affected by recent conflicts.
 ---
 
 <!-- AUTO-GENERATED -->

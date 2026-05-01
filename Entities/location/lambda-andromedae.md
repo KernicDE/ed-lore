@@ -24,6 +24,13 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Lambda%20Andromedae
 inara_url: https://inara.cz/elite/starsystem/?search=Lambda%20Andromedae
+bio: Lambda Andromedae is a star system in the Elite Dangerous universe, significant
+  from 3301-02-23 to 3301-02-28. Associated with Universal Cartographics, Sirius Corporation,
+  Core Dynamics. Sirius is offering substantial rewards for explorers who bring usable
+  exploration data containing potential colony sites to Nourse Orbital in Lambda Andromedae.
+  (2) The Sirius Corporation announced 8 new colonisation candidate systems identified
+  by explorers, with a deadline approaching for submissions to Nourse Orbital in Lambda
+  Andromedae.
 ---
 
 

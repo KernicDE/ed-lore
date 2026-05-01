@@ -12,6 +12,8 @@ related_entities:
 - asura
 - tir
 inara_url: https://inara.cz/elite/minorfaction/?search=Kraken%20Shield%20Specialists
+bio: 'Kraken Shield Specialists is a organization in the Elite Dangerous universe,
+  active from 3304-08-29 to 3304-08-29. Frequently linked with Los, Tir, Asura. '
 ---
 
 

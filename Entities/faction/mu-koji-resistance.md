@@ -11,6 +11,9 @@ related_entities:
 - xuangu-crimson-major-network
 - mu-koji
 inara_url: https://inara.cz/elite/minorfaction/?search=Mu%20Koji%20Resistance
+bio: 'Mu Koji Resistance is a organization in the Elite Dangerous universe, active
+  from 3302-09-08 to 3302-09-08. Frequently linked with Empire, Xuangu Crimson Major
+  Network, Federation. '
 ---
 
 

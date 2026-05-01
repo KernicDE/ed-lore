@@ -18,6 +18,8 @@ economy: None
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=IC%202391%20Sector%20ZE-A%20d101
 inara_url: https://inara.cz/elite/starsystem/?search=IC%202391%20Sector%20ZE-A%20d101
+bio: 'IC 2391 Sector ZE-A d101 is a star system in the Elite Dangerous universe, significant
+  from 3303-01-24 to 3303-01-24. '
 ---
 
 

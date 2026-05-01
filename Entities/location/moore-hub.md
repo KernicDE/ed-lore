@@ -11,6 +11,8 @@ related_entities:
 - order-of-the-far-god
 - the-panjabell
 - agassiz-settlement
+bio: 'Moore Hub is a star system in the Elite Dangerous universe, significant from
+  3307-07-22 to 3307-07-29. Associated with Pleiades Concordat, Pilots Federation. '
 ---
 
 <!-- AUTO-GENERATED -->

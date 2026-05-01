@@ -9,6 +9,9 @@ related_entities:
 - canonn-interstellar-research-group
 - ltt-377
 - ltt-377-allied-co
+bio: 'Zoline Port is a starport in the Elite Dangerous universe, significant from
+  3303-05-12 to 3303-05-19. Associated with Canonn Interstellar Research Group, LTT
+  377 Allied Co. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,11 @@ first_seen_date: '3311-06-12'
 last_seen_date: '3311-06-26'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=Mictlan%20megaship
+bio: Mictlan megaship is a technology in the Elite Dangerous universe, mentioned from
+  3311-06-12 to 3311-06-26. Developed or used by Archon Delaine, Arissa Lavigny-Duval,
+  Jerome Archer. Imperial forces launch a surprise assault on Archon Delaine's flagship,
+  the Mictlan, in Beta-3 Tucani. Imperial Intelligence forced the Mictlan megaship
+  to retreat, and an agent hacked its internal holoscreens to display Imperial propaganda.
 ---
 
 

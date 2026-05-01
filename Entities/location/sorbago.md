@@ -24,6 +24,8 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Sorbago
 inara_url: https://inara.cz/elite/starsystem/?search=Sorbago
+bio: 'Sorbago is a star system in the Elite Dangerous universe, significant from 3303-08-05
+  to 3303-08-05. Associated with Achenar Research Council, Alliance, Empire. '
 ---
 
 

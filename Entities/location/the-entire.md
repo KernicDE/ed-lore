@@ -11,6 +11,8 @@ related_entities:
 - marlinist
 - nmla
 - achenar
+bio: 'The entire is a star system in the Elite Dangerous universe, significant from
+  3307-03-29 to 3307-03-29. Associated with NMLA, Alliance, Marlinist. '
 ---
 
 <!-- AUTO-GENERATED -->

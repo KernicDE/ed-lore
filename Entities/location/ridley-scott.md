@@ -11,6 +11,9 @@ related_entities:
 - council-of-admirals
 - sol
 - zaonce
+bio: 'Ridley Scott is a star system in the Elite Dangerous universe, significant from
+  3301-05-02 to 3301-05-02. Associated with Pilots Federation, Council of Admirals,
+  Silver United Solutions. '
 ---
 
 <!-- AUTO-GENERATED -->

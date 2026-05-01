@@ -9,6 +9,11 @@ related_entities:
 - kamici
 - gaiman-port
 inara_url: https://inara.cz/elite/minorfaction/?search=Kamici%20Incorporated
+bio: Kamici Incorporated is a corporate in the Elite Dangerous universe, active from
+  3304-08-17 to 3304-08-24. Frequently linked with Gaiman Port, Kamici. Authorities
+  in the Kamici system report a rise in criminals attacking pilots and disrupting
+  trade. Kamici Incorporated places a kill order on wanted ships and promises rewards
+  for bounty vouchers delivered to Gaiman Port.
 ---
 
 

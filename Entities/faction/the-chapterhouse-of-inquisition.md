@@ -10,6 +10,11 @@ related_entities:
 - 9th-legion
 - kamadhenu
 inara_url: https://inara.cz/elite/minorfaction/?search=The%20Chapterhouse%20of%20Inquisition
+bio: The Chapterhouse of Inquisition is a organization in the Elite Dangerous universe,
+  active from 3303-01-10 to 3303-01-10. Frequently linked with 9th Legion, Lavigny's
+  Legion, Kamadhenu. Imperial factions The Chapterhouse of Inquisition, Lavigny's
+  Legion, and the 9th Legion issue strict no-fire orders to their pilots regarding
+  alien ship encounters.
 ---
 
 

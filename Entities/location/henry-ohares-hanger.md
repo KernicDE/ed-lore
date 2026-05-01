@@ -10,6 +10,9 @@ related_entities:
 - summerland
 - persephone
 - lambardellis-legacy
+bio: Henry O'Hare's Hanger is a star system in the Elite Dangerous universe, significant
+  from 3301-05-13 to 3301-05-13. Aisling's agents operate from Henry O'Hare's Hanger
+  in Summerland, while Arissa's agents work aboard Lambardelli's Legacy in Persephone.
 ---
 
 <!-- AUTO-GENERATED -->

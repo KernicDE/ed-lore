@@ -24,6 +24,9 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Vaka
 inara_url: https://inara.cz/elite/starsystem/?search=Vaka
+bio: Vaka is a star system in the Elite Dangerous universe, significant from 3302-02-06
+  to 3302-06-23. Associated with Kumo Crew. Commander Doumaz_B reports a mysterious
+  Diamondback Explorer sighting near Zenbei Orbital in Vaka.
 ---
 
 

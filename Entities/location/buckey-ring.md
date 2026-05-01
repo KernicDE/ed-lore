@@ -11,6 +11,8 @@ related_entities:
 - ball-dock
 - cd-37-641
 - raleigh-orbital
+bio: 'Buckey Ring is a star system in the Elite Dangerous universe, significant from
+  3302-03-14 to 3302-03-14. Associated with Buckyball Racing Club. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -9,6 +9,10 @@ related_entities:
 - federal-state-police
 - judas-syndicate
 - beta-hydri
+bio: Jackson’s Lighthouse is a star system in the Elite Dangerous universe, significant
+  from 3301-08-10 to 3301-08-10. Associated with Judas Syndicate, Federal State Police.
+  She and the Dragon Queen were last seen heading for Jackson’s Lighthouse, possibly
+  pursuing the notorious Red Hourglass.
 ---
 
 <!-- AUTO-GENERATED -->

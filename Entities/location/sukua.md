@@ -24,6 +24,10 @@ economy: Extraction
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Sukua
 inara_url: https://inara.cz/elite/starsystem/?search=Sukua
+bio: Sukua is a star system in the Elite Dangerous universe, significant from 3301-07-27
+  to 3301-07-27. Associated with Dukes of Mikunn. Drawing on experience from a similar
+  plague in HR 7327, Mikunn, Sukua, and Sefry, they are moving stockpiled medicine
+  and medical scientists to find the source.
 ---
 
 

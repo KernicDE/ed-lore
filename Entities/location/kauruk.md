@@ -22,6 +22,12 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Kauruk
 inara_url: https://inara.cz/elite/starsystem/?search=Kauruk
+bio: Kauruk is a star system in the Elite Dangerous universe, significant from 3303-10-13
+  to 3303-10-20. Associated with Labour Union of Kauruk. The Labour Union of Kauruk
+  announced the first annual Remembrance Week, giving the galactic community an opportunity
+  to honour absent friends and departed loved ones at Moore Terminal. The Labour Union
+  of Kauruk's Remembrance Week concluded successfully, with hundreds of pilots gathering
+  at Moore Terminal to pay respects to departed friends and loved ones.
 ---
 
 

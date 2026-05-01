@@ -10,6 +10,8 @@ related_entities:
 - prism
 - chione
 inara_url: https://inara.cz/elite/minorfaction/?search=Reclamists
+bio: 'Reclamists is a organization in the Elite Dangerous universe, active from 3302-08-13
+  to 3302-08-13. Frequently linked with Prism, Chione, Imperial Citizen. '
 ---
 
 

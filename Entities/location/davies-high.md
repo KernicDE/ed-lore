@@ -11,6 +11,11 @@ related_entities:
 - alliance-of-independent-systems
 - workers-of-lave-liberals
 - pro-alliance-league
+bio: Davies High is a star system in the Elite Dangerous universe, significant from
+  3301-04-26 to 3311-12-02. Associated with Workers of Lave Liberals, Pro-Alliance
+  League, Alliance Elite Diplomatic Corps. A pirate group had attempted to rename
+  the Lave Cluster the 'New Caribbean', but undercover AEDC agents worked with local
+  groups to prepare for a swift retaking of Davies High.
 ---
 
 <!-- AUTO-GENERATED -->

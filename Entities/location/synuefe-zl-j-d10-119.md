@@ -18,6 +18,8 @@ economy: None
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Synuefe%20ZL-J%20d10-119
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20ZL-J%20d10-119
+bio: 'Synuefe ZL-J d10-119 is a star system in the Elite Dangerous universe, significant
+  from 3303-01-24 to 3303-01-24. '
 ---
 
 

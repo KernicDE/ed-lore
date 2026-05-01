@@ -9,6 +9,10 @@ related_entities:
 - hip-112974
 - la-cosa-city
 inara_url: https://inara.cz/elite/minorfaction/?search=Green%20Party%20of%20HIP%20112974
+bio: Green Party of HIP 112974 is a organization in the Elite Dangerous universe,
+  active from 3302-01-21 to 3302-01-21. Frequently linked with Onionhead, HIP 112974,
+  la Cosa City. The Green Party of HIP 112974 announced that its appeal for Onionhead
+  was successful.
 ---
 
 

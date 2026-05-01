@@ -11,6 +11,11 @@ related_entities:
 - quivira-electronics-plc
 - quivira
 - godel-dock
+bio: Brendan Gateway is a star system in the Elite Dangerous universe, significant
+  from 3301-05-05 to 3301-05-05. Associated with Nationalists of Quivira. After Imperial
+  ground troops seized Godel Dock, the People's Quivira for Equality Party retreated
+  to Brendan Gateway before launching a counterattack with independent and Federal
+  pilots.
 ---
 
 <!-- AUTO-GENERATED -->

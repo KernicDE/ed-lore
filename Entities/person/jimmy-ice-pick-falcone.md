@@ -6,6 +6,8 @@ first_seen_date: '3302-06-16'
 last_seen_date: '3302-06-16'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Jimmy%20%27Ice%20Pick%27%20Falcone
+bio: 'Jimmy ''Ice Pick'' Falcone is a prominent figure in the Elite Dangerous universe,
+  active from 3302-06-16 to 3302-06-16. Closely associated with Crom Silver Boys. '
 ---
 
 

@@ -6,6 +6,8 @@ first_seen_date: '3302-07-04'
 last_seen_date: '3302-07-04'
 mention_count: 1
 inara_url: https://inara.cz/elite/commodity/?search=Thanatos
+bio: 'Thanatos is a technology in the Elite Dangerous universe, mentioned from 3302-07-04
+  to 3302-07-04. Developed or used by Federation, Commander BluWolve. '
 ---
 
 

@@ -10,6 +10,10 @@ related_entities:
 - eta-draconis
 - swift-terminal
 inara_url: https://inara.cz/elite/minorfaction/?search=Gold%20Vision%20Company
+bio: Gold Vision Company is a corporate in the Elite Dangerous universe, active from
+  3301-03-20 to 3301-03-20. Frequently linked with Swift Terminal, Eta Draconis, 8th
+  Dragon Squadron. A covert raid by Gold Vision Company special operations forces
+  captured Swift Terminal in Eta Draconis.
 ---
 
 

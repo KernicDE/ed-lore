@@ -20,6 +20,8 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Kruger%2060
 inara_url: https://inara.cz/elite/starsystem/?search=Kruger%2060
+bio: 'Kruger 60 is a star system in the Elite Dangerous universe, significant from
+  3302-03-01 to 3302-03-01. Associated with Kruger 60 Free. '
 ---
 
 

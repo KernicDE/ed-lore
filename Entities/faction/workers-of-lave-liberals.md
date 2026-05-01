@@ -12,6 +12,11 @@ related_entities:
 - reorte
 - lave
 inara_url: https://inara.cz/elite/minorfaction/?search=Workers%20of%20Lave%20Liberals
+bio: Workers of Lave Liberals is a organization in the Elite Dangerous universe, active
+  from 3301-04-26 to 3301-04-26. Frequently linked with Pro-Alliance League, Davies
+  High, Leesti. A pirate group had attempted to rename the Lave Cluster the 'New Caribbean',
+  but undercover AEDC agents worked with local groups to prepare for a swift retaking
+  of Davies High. In Lave, Alliance faction influence exceeds 80%.
 ---
 
 

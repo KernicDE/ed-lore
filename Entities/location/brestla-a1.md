@@ -10,6 +10,12 @@ related_entities:
 - i-sola-prospect
 - sol
 - jameson-memorial
+bio: Brestla A1 is a star system in the Elite Dangerous universe, significant from
+  3302-02-05 to 3302-02-17. Associated with Imperial Inquisition. Mavia Kain of the
+  Imperial Inquisition announces the successful campaign to develop i Sola Prospect
+  on Brestla A1. Authorities in Brestla announce a 20% price increase for all outfitting
+  and shipyard services at i Sola Prospect, citing high shipping costs from manufacturers'
+  core systems.
 ---
 
 <!-- AUTO-GENERATED -->

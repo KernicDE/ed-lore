@@ -23,6 +23,9 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Daikulcandi
 inara_url: https://inara.cz/elite/starsystem/?search=Daikulcandi
+bio: Daikulcandi is a star system in the Elite Dangerous universe, significant from
+  3311-07-17 to 3311-07-17. Associated with Sirius Corporation. Aisling retained Daikulcandi
+  but lost Gondul and Santy.
 ---
 
 

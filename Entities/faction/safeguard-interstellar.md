@@ -12,6 +12,11 @@ related_entities:
 - ennead
 - ltt-3607
 inara_url: https://inara.cz/elite/minorfaction/?search=Safeguard%20Interstellar
+bio: Safeguard Interstellar is a organization in the Elite Dangerous universe, active
+  from 3306-10-22 to 3306-10-29. Frequently linked with LTT 3607, Fionn Liberals,
+  Charunder. Safeguard Interstellar requests deliveries of basic medicines, clothing,
+  food, and evacuation shelters for Marlinist refugees in Federal systems. Safeguard
+  Interstellar successfully delivers supplies for Marlinist refugees in Federal systems.
 ---
 
 

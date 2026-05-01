@@ -12,6 +12,12 @@ related_entities:
 - panem
 - cassie-l-peia
 inara_url: https://inara.cz/elite/minorfaction/?search=Tanmark%20Posse
+bio: Tanmark Posse is a organization in the Elite Dangerous universe, active from
+  3301-03-03 to 3301-03-06. Frequently linked with Defence Force of Tanmark, Luca,
+  Tanmark. Conflict broke out between the Defence Force of Tanmark and the Tanmark
+  Posse criminal gang, the main force behind Lucan Onionhead cultivation in hidden
+  facilities on Luca. Fighting remained confined to Luca's surface as security forces
+  raided Posse holdings.
 ---
 
 

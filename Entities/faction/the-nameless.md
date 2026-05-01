@@ -10,6 +10,12 @@ related_entities:
 - carcosa
 - jaques-station
 inara_url: https://inara.cz/elite/minorfaction/?search=The%20Nameless
+bio: The Nameless is a organization in the Elite Dangerous universe, active from 3303-10-20
+  to 3303-10-27. Frequently linked with Colonia Council, Carcosa, Jaques Station.
+  The Nameless criminal faction has begun attacking ships in Colonia, prompting the
+  Colonia Council to issue a call to aid for pilots to help restore order and reduce
+  criminal numbers. The conflict between The Nameless criminal faction and the Colonia
+  Council peacekeepers has ended with the Colonia Council victorious.
 ---
 
 

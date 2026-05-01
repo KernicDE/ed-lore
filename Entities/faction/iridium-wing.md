@@ -12,6 +12,9 @@ related_entities:
 - sepp
 - prismatic-imperium
 inara_url: https://inara.cz/elite/minorfaction/?search=Iridium%20Wing
+bio: 'Iridium Wing is a organization in the Elite Dangerous universe, active from
+  3302-11-05 to 3302-11-05. Frequently linked with 9th Legion, Colonia Citizens Network,
+  SEPP. '
 ---
 
 

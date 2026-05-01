@@ -12,6 +12,11 @@ related_entities:
 - bd-22-3573
 - planck-orbital
 inara_url: https://inara.cz/elite/minorfaction/?search=Wolf%20406%20Transport%20Co
+bio: Wolf 406 Transport Co is a organization in the Elite Dangerous universe, active
+  from 3301-07-23 to 3301-07-23. Frequently linked with Alliance Defence Force, Alliance,
+  Wolf 406. Victoria Wolf VI of Wolf 406 Transport Co and Commodore Helena Stone of
+  the Alliance Defence Force launched Operation Augeas to rid BD-22 3573 of criminal
+  elements troubling miners and traders.
 ---
 
 

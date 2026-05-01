@@ -9,6 +9,9 @@ related_entities:
 - imperial-inquisition
 - princess-margaret-cancer-foundation
 - brestla
+bio: 'Roed Oodergaard Port is a starport in the Elite Dangerous universe, significant
+  from 3301-11-06 to 3301-11-06. Associated with Imperial Inquisition, Princess Margaret
+  Cancer Foundation. '
 ---
 
 <!-- AUTO-GENERATED -->

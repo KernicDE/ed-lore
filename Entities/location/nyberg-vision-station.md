@@ -7,6 +7,8 @@ last_seen_date: '3302-01-10'
 mention_count: 1
 related_entities:
 - njokujinun
+bio: 'Nyberg Vision Station is a starport in the Elite Dangerous universe, significant
+  from 3302-01-10 to 3302-01-10. '
 ---
 
 <!-- AUTO-GENERATED -->

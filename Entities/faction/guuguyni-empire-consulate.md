@@ -9,6 +9,11 @@ related_entities:
 - guuguyni
 - shen-terminal
 inara_url: https://inara.cz/elite/minorfaction/?search=Guuguyni%20Empire%20Consulate
+bio: Guuguyni Empire Consulate is a organization in the Elite Dangerous universe,
+  active from 3304-01-19 to 3304-01-26. Frequently linked with Shen Terminal, Guuguyni.
+  Princess Aisling Duval has announced plans to fund a peacekeeping operation in the
+  Guuguyni system to neutralize an illegal slave-trading ring. Princess Aisling Duval's
+  anti-slavery campaign in the Guuguyni system has concluded successfully.
 ---
 
 

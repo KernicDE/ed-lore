@@ -24,6 +24,8 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Xi%20Wang%20Mu
 inara_url: https://inara.cz/elite/starsystem/?search=Xi%20Wang%20Mu
+bio: 'Xi Wang Mu is a star system in the Elite Dangerous universe, significant from
+  3301-04-15 to 3301-04-15. '
 ---
 
 

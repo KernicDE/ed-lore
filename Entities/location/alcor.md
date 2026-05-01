@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Alcor
 inara_url: https://inara.cz/elite/starsystem/?search=Alcor
+bio: 'Alcor is a star system in the Elite Dangerous universe, significant from 3307-12-31
+  to 3307-12-31. Associated with Imperial Senate, Brewer Corporation, EG Union. '
 ---
 
 

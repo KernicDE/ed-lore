@@ -6,6 +6,9 @@ first_seen_date: '3301-02-21'
 last_seen_date: '3301-02-21'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Angel%20Rose
+bio: Commander Angel Rose is a commander in the Elite Dangerous universe, active from
+  3301-02-21 to 3301-02-21. Closely associated with SpecialEffect. Commander Angel
+  Rose is holding private auctions throughout the day on behalf of SpecialEffect.
 ---
 
 

@@ -8,6 +8,10 @@ mention_count: 1
 related_entities:
 - universal-cartographics
 - wisanye
+bio: Witch Head Sector FB-X c1-7 is a star system in the Elite Dangerous universe,
+  significant from 3306-01-14 to 3306-01-14. Associated with Universal Cartographics.
+  Universal Cartographics updates the names of fifteen systems in the Witch Head Enclave
+  to make them more memorable and explorer-friendly.
 ---
 
 <!-- AUTO-GENERATED -->

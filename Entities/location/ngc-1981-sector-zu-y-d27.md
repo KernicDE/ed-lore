@@ -22,6 +22,10 @@ economy: Industrial
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=NGC%201981%20Sector%20ZU-Y%20d27
 inara_url: https://inara.cz/elite/starsystem/?search=NGC%201981%20Sector%20ZU-Y%20d27
+bio: NGC 1981 Sector ZU-Y d27 is a star system in the Elite Dangerous universe, significant
+  from 3312-01-17 to 3312-01-17. Associated with Deep Space Surveys, Distant Worlds.
+  The Distant Worlds III expedition is set to depart from NGC 1981 Sector ZU-Y d27
+  on January 18th.
 ---
 
 

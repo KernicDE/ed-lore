@@ -11,6 +11,12 @@ related_entities:
 - federation
 - azaleach-partnership
 inara_url: https://inara.cz/elite/minorfaction/?search=Daurtu%20Jet%20Comms%20PLC
+bio: Daurtu Jet Comms PLC is a organization in the Elite Dangerous universe, active
+  from 3302-01-28 to 3302-02-04. Frequently linked with Leoniceno Orbital, Azaleach.
+  A mysterious organization called Daurtu Jet Comms PLC is also offering rewards for
+  the search, with even larger payouts than the Federation. President Hudson thanks
+  the galactic community and warns Daurtu Jet Comms PLC against meddling in Federal
+  affairs.
 ---
 
 

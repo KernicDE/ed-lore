@@ -10,6 +10,12 @@ related_entities:
 - alliance
 - alioth
 - amber
+bio: Smith Landing is a star system in the Elite Dangerous universe, significant from
+  3304-09-07 to 3304-09-13. Associated with Alliance, Alioth Independents. An open
+  order is placed for Esuseku Caviar, Ceremonial Heike Tea, and Live Hecate Sea Worms
+  to be delivered to Smith Landing in the Amber system. Huge quantities of Esuseku
+  Caviar, Ceremonial Heike Tea, and Live Hecate Sea Worms were delivered to Smith
+  Landing.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,11 @@ related_entities:
 - saarinen-station
 - jang-di
 - sikorsky-orbital
+bio: Blaauw Port is a starport in the Elite Dangerous universe, significant from 3301-08-20
+  to 3301-08-20. Associated with Emperor's Dawn. The mysterious organisation Emperor's
+  Dawn has issued open contracts for commodities to be delivered to specific starports.
+  Battle Weapons go to Saarinen Station in Kamcha, Ceremonial Heike Tea to Sikorsky
+  Orbital in Jang Di, and Toxic Waste to Blaauw Port in Dinkas.
 ---
 
 <!-- AUTO-GENERATED -->

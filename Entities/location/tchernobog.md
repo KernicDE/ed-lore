@@ -21,6 +21,12 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Tchernobog
 inara_url: https://inara.cz/elite/starsystem/?search=Tchernobog
+bio: Tchernobog is a star system in the Elite Dangerous universe, significant from
+  3302-11-24 to 3302-12-01. Associated with Tchernobog Free. Tchernobog Free, a retail
+  conglomerate based in the Tchernobog system, has placed an open order for domestic
+  appliances, clothing and consumer technology to meet one-day offer demand. Tchernobog
+  Free's appeal for consumer goods was enthusiastically received, with pilots delivering
+  huge quantities to Vancouver Ring to meet high demand from recent one-day deals.
 ---
 
 

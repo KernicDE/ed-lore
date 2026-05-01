@@ -8,6 +8,10 @@ mention_count: 1
 related_entities:
 - colonia-citizens-network
 - pilots-federation
+bio: Colonia 3 C A is a star system in the Elite Dangerous universe, significant from
+  3302-11-01 to 3302-11-01. Associated with Colonia Citizens Network, Pilots Federation.
+  Fungal growths have been discovered on the airless world Colonia 3 C A in the Colonia
+  system.
 ---
 
 <!-- AUTO-GENERATED -->

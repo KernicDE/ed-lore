@@ -9,6 +9,8 @@ related_entities:
 - imperial-citizen
 - reclamists
 - prism
+bio: 'Chione is a star system in the Elite Dangerous universe, significant from 3302-08-13
+  to 3302-08-13. Associated with Reclamists, Imperial Citizen. '
 ---
 
 <!-- AUTO-GENERATED -->

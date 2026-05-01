@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Kuwembaa
 inara_url: https://inara.cz/elite/starsystem/?search=Kuwembaa
+bio: Kuwembaa is a star system in the Elite Dangerous universe, significant from 3307-07-30
+  to 3307-07-30. Associated with Gluscap Labour, New Kuwembaa Labour. New Kuwembaa
+  Labour secedes from the Federation, affecting five systems. President Hudson orders
+  her to abide by constitutional law and redirects the Fortress Liberty megaship to
+  Kuwembaa.
 ---
 
 

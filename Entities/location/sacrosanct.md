@@ -11,6 +11,12 @@ related_entities:
 - theta-group
 - mudhrid
 - vox-galactica
+bio: Sacrosanct is a star system in the Elite Dangerous universe, significant from
+  3307-12-07 to 3307-12-13. Associated with Far God cult, NMLA. ACT faces a tense
+  standoff with Theta Seven, who holds thousands of Far God cultists hostage aboard
+  the Sacrosanct megaship in the Mudhrid system. Theta Seven and his followers sacrifice
+  themselves by destroying the Sacrosanct megaship in Mudhrid, killing thousands of
+  Far God cultists, as ACT confirms the NMLA leader is dead.
 ---
 
 <!-- AUTO-GENERATED -->

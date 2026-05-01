@@ -9,6 +9,8 @@ related_entities:
 - independent-explorers-association
 - universal-cartographics
 - shaulai-dl-p-d5-274
+bio: 'Perseus Crags is a star system in the Elite Dangerous universe, significant
+  from 3308-09-02 to 3308-09-02. Associated with Universal Cartographics. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,8 @@ first_seen_date: '3301-02-13'
 last_seen_date: '3301-02-13'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Captain%20Millington
+bio: Captain Millington is a pilot in the Elite Dangerous universe, active from 3301-02-13
+  to 3301-02-13. Captain Millington announced details of the St.
 ---
 
 

@@ -14,6 +14,10 @@ coords:
   y: -2.75
   z: 11
 edsm_url: https://www.edsm.net/en/system?search=Altair
+bio: Altair system is a star system in the Elite Dangerous universe, significant from
+  3302-03-31 to 3302-03-31. Associated with Federal Government, Altair Purple Mob.
+  Simultaneously, the Altair Purple Mob launches a competing campaign to study the
+  drug and prove it harmless, seeking reclassification as a non-toxic plant.
 ---
 
 <!-- AUTO-GENERATED -->

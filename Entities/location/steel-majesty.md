@@ -11,6 +11,11 @@ related_entities:
 - mudhrid
 - epsilon-fornacis-empire-group
 - neo-marlinist-order-of-mudhrid
+bio: Steel Majesty is a star system in the Elite Dangerous universe, significant from
+  3307-12-02 to 3307-12-07. Associated with Far God cult, NMLA. The Epsilon Fornacis
+  Empire Group defeats the Neo-Marlinist Order of Mudhrid, with ACT commandos led
+  by Milo Castile retaking the Steel Majesty megaship and preventing Theta Seven's
+  escape.
 ---
 
 <!-- AUTO-GENERATED -->

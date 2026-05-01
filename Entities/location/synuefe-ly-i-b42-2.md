@@ -18,6 +18,8 @@ economy: None
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Synuefe%20LY-I%20b42-2
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefe%20LY-I%20b42-2
+bio: 'Synuefe LY-I b42-2 is a star system in the Elite Dangerous universe, significant
+  from 3303-02-10 to 3303-02-10. '
 ---
 
 

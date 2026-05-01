@@ -12,6 +12,9 @@ related_entities:
 - wolf-294
 - wolf-504
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20military
+bio: Federal military is a naval in the Elite Dangerous universe, active from 3302-08-05
+  to 3302-08-05. Frequently linked with Wolf 504, Merope, Canonn Interstellar Research
+  Group. He urged pilots to break the Federal military's monopoly on the probes.
 ---
 
 

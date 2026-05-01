@@ -11,6 +11,11 @@ related_entities:
 - jotunheim
 - big-harrys-monkey-hangout
 inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Jotunheim%20Resistance
+bio: Revolutionary Jotunheim Resistance is a organization in the Elite Dangerous universe,
+  active from 3303-06-02 to 3303-06-09. Frequently linked with Yum Kamcabi Purple
+  Life Industry, Jotunheim, Autocracy of Jotunheim. The Revolutionary Jotunheim Resistance
+  successfully drove the Autocracy of Jotunheim from the system, with significant
+  material support from Jasmina Halsey.
 ---
 
 

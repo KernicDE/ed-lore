@@ -11,6 +11,10 @@ related_entities:
 - luytens-star
 - ashby-city
 - altair
+bio: Solo Orbiter Station is a starport in the Elite Dangerous universe, significant
+  from 3301-02-14 to 3301-02-14. Associated with Core Dynamics. Traders at Ashby City
+  in Luyten's Star reported pilots performing dangerous manoeuvres through docking
+  slots and around stations. Similar reports came from Altair's Solo Orbiter Station.
 ---
 
 <!-- AUTO-GENERATED -->

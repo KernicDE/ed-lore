@@ -12,6 +12,10 @@ related_entities:
 - lomas-station
 - aegis
 inara_url: https://inara.cz/elite/minorfaction/?search=Wolf%20359
+bio: Wolf 359 is a organization in the Elite Dangerous universe, active from 3302-05-19
+  to 3302-05-19. Frequently linked with Hutton Orbital Truckers, Wyrd system, Lomas
+  Station. Pirate leader Don Antonaci of Wolf 359 calls for an 'anything goes' battle
+  royale against the Hutton Orbital Truckers in the Wyrd system.
 ---
 
 

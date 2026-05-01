@@ -11,6 +11,12 @@ related_entities:
 - maheou-ti
 - ochoeng
 - roddenberry-gateway
+bio: Yegorov Station is a starport in the Elite Dangerous universe, significant from
+  3301-07-23 to 3301-07-23. Fresh Cerberus Plague cases caused mass panic at Shepherd
+  Hub in Bastes, Yegorov Station in Maheou Ti, and Roddenberry Gateway in Ochoeng.
+  Station authorities appealed for calm, restricted movement to essential travel only,
+  and declared states of emergency with open contracts for urgent medical and aid
+  supplies.
 ---
 
 <!-- AUTO-GENERATED -->

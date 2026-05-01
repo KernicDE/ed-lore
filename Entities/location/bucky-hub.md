@@ -8,6 +8,11 @@ mention_count: 1
 related_entities:
 - independent-cherets-labour
 - cherets
+bio: Bucky Hub is a star system in the Elite Dangerous universe, significant from
+  3302-01-07 to 3302-01-07. Associated with Independent Cherets Labour. Independent
+  Cherets Labour announced that its appeal for Anduliga Fireworks was successful,
+  with independent combat pilots protecting delivery routes to Bucky Hub in the Cherets
+  system.
 ---
 
 <!-- AUTO-GENERATED -->

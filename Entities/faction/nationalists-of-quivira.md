@@ -12,6 +12,12 @@ related_entities:
 - godel-dock
 - brendan-gateway
 inara_url: https://inara.cz/elite/minorfaction/?search=Nationalists%20of%20Quivira
+bio: Nationalists of Quivira is a organization in the Elite Dangerous universe, active
+  from 3301-05-05 to 3301-05-05. Frequently linked with Brendan Gateway, Stapledon
+  Dock, Quivira. Thousands of Imperial pilots descended on Quivira to enforce Senator
+  Patreus's debt claim. After Imperial ground troops seized Godel Dock, the People's
+  Quivira for Equality Party retreated to Brendan Gateway before launching a counterattack
+  with independent and Federal pilots.
 ---
 
 

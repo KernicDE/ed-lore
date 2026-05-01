@@ -10,6 +10,9 @@ related_entities:
 - facece
 - syromyatnikov-horizons
 inara_url: https://inara.cz/elite/minorfaction/?search=Gutamaya%20Corporation
+bio: 'Gutamaya Corporation is a corporate in the Elite Dangerous universe, active
+  from 3301-04-11 to 3301-04-11. Frequently linked with Facece, Syromyatnikov Horizons,
+  Citizens of Tradition. '
 ---
 
 

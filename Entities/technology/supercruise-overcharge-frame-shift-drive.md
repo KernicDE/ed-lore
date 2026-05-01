@@ -6,6 +6,12 @@ first_seen_date: '3310-05-09'
 last_seen_date: '3310-05-09'
 mention_count: 1
 inara_url: https://inara.cz/elite/commodity/?search=Supercruise%20Overcharge%20Frame%20Shift%20Drive
+bio: Supercruise Overcharge Frame Shift Drive is a technology in the Elite Dangerous
+  universe, mentioned from 3310-05-09 to 3310-05-09. Developed or used by Achilles
+  Aerospace, Faulcon DeLacy, Namin Tirel. Achilles Aerospace releases the full range
+  of Supercruise Overcharge drives and upgrades, with Dr. Namin Tirel revealing the
+  technology was developed using Thargoid drive components recovered by independent
+  pilots.
 ---
 
 

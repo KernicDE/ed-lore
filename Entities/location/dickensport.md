@@ -10,6 +10,8 @@ related_entities:
 - slipher-hub
 - faust-68
 - fomalhaut
+bio: 'Dickensport is a starport in the Elite Dangerous universe, significant from
+  3301-11-04 to 3301-11-04. '
 ---
 
 <!-- AUTO-GENERATED -->

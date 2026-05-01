@@ -11,6 +11,8 @@ related_entities:
 - warkushanui
 - warkushanui-port
 - sulus
+bio: 'Kutshillu is a star system in the Elite Dangerous universe, significant from
+  3304-08-25 to 3304-08-25. Associated with Alliance. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,9 @@ first_seen_date: '3301-03-17'
 last_seen_date: '3301-05-09'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Gryph%20Jones
+bio: Gryph Jones is a president in the Elite Dangerous universe, active from 3301-03-17
+  to 3301-05-09. A local farmer, Gryph Jones, voiced cynicism about Federal intentions
+  and hoped no violence would occur.
 ---
 
 

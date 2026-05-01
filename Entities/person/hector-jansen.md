@@ -6,6 +6,10 @@ first_seen_date: '3306-10-27'
 last_seen_date: '3307-12-02'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Hector%20Jansen
+bio: Hector Jansen is a terrorist in the Elite Dangerous universe, active from 3306-10-27
+  to 3307-12-02. Closely associated with NMLA. Hadrian Duval's wife Astrid gives birth
+  to a son named Hector Mordanticus Duval, prompting celebrations across the Empire
+  and a commodity gathering initiative in Paresa.
 ---
 
 

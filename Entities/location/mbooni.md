@@ -24,6 +24,8 @@ economy: High Tech
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Mbooni
 inara_url: https://inara.cz/elite/starsystem/?search=Mbooni
+bio: 'Mbooni is a star system in the Elite Dangerous universe, significant from 3308-09-01
+  to 3308-09-08. Associated with Pilots Federation, Azimuth Biotech. '
 ---
 
 

@@ -11,6 +11,8 @@ related_entities:
 - imperial-navy
 - nmla
 - achenar
+bio: 'Dawes Hub in the Achenar is a star system in the Elite Dangerous universe, significant
+  from 3307-03-11 to 3307-03-11. Associated with Imperial Navy. '
 ---
 
 <!-- AUTO-GENERATED -->

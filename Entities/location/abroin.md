@@ -22,6 +22,11 @@ economy: Industrial
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Abroin
 inara_url: https://inara.cz/elite/starsystem/?search=Abroin
+bio: Abroin is a star system in the Elite Dangerous universe, significant from 3303-07-21
+  to 3303-07-28. Associated with Abroin Universal Plc. Abroin Universal Plc announces
+  plans to establish a research outpost in the Pleiades Nebula to study Thargoid activity.
+  The organisation has placed an open order for semiconductors, lithium and energy
+  grid assemblies for delivery to Campbell Horizons in the Abroin system.
 ---
 
 

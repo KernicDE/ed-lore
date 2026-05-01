@@ -12,6 +12,9 @@ related_entities:
 - phoenix-group
 - imperial-citizen
 inara_url: https://inara.cz/elite/minorfaction/?search=Dark%20Wheel
+bio: 'Dark Wheel is a organization in the Elite Dangerous universe, active from 3302-09-19
+  to 3302-09-19. Frequently linked with Emperor''s Dawn, Children of Raxxla, Imperial
+  Senate. '
 ---
 
 

@@ -10,6 +10,9 @@ related_entities:
 - betel-free
 - betel-security
 - betel
+bio: 'Amphipolis is a star system in the Elite Dangerous universe, significant from
+  3304-08-31 to 3304-08-31. Associated with Betel Free, Betel security, Silver Creative
+  Network. '
 ---
 
 <!-- AUTO-GENERATED -->

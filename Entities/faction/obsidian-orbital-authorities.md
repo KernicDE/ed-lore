@@ -10,6 +10,10 @@ related_entities:
 - obsidian-orbital
 - pleiades-nebula
 inara_url: https://inara.cz/elite/minorfaction/?search=Obsidian%20Orbital%20authorities
+bio: Obsidian Orbital authorities is a organization in the Elite Dangerous universe,
+  active from 3302-02-27 to 3302-02-27. Frequently linked with Pleiades Nebula, Obsidian
+  Orbital, Maia. Questions arise about the thousands of tonnes of meta-alloys delivered
+  to Obsidian Orbital for Professor Palin before his disappearance.
 ---
 
 

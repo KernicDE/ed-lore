@@ -24,6 +24,10 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Lwalama
 inara_url: https://inara.cz/elite/starsystem/?search=Lwalama
+bio: Lwalama is a star system in the Elite Dangerous universe, significant from 3304-06-01
+  to 3304-06-03. Associated with Aegis, Federal Times. Admiral Aden Tanner tells the
+  Federal Times that without this data, more starports would have been attacked, citing
+  successful resistance in Lwalama and Lalande 4141 due to early warnings.
 ---
 
 

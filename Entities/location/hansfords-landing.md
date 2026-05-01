@@ -11,6 +11,9 @@ related_entities:
 - synuefai-lx-r-d5-28
 - bd22-4939
 - turner-research-group
+bio: 'Hansford''s Landing is a star system in the Elite Dangerous universe, significant
+  from 3303-11-10 to 3303-11-17. Associated with Alliance, Spinward Marches Alliance
+  Concern. '
 ---
 
 <!-- AUTO-GENERATED -->

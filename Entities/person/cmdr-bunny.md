@@ -6,6 +6,10 @@ first_seen_date: '3301-04-15'
 last_seen_date: '3301-04-15'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=CMDR%20Bunny
+bio: CMDR Bunny is a prominent figure in the Elite Dangerous universe, active from
+  3301-04-15 to 3301-04-15. CMDR Bunny, the route's spokesperson, stated the organisation
+  would provide protection to traders and has arranged patrols with the Federal Navy,
+  Mercs of Mikunn, Merchant Marines and other factions.
 ---
 
 

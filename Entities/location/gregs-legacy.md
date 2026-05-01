@@ -9,6 +9,10 @@ related_entities:
 - 'null'
 - ltt-4961
 - conway-city
+bio: Greg's Legacy is a star system in the Elite Dangerous universe, significant from
+  3303-07-14 to 3303-07-21. Associated with NULL. NULL, an independent organisation
+  based in LTT 4961, announces plans to build a new base at Greg's Legacy and has
+  placed open orders for titanium, aluminium, copper and tea.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - pangborn-dock
 - abres
+bio: 'Torrance is a star system in the Elite Dangerous universe, significant from
+  3301-07-06 to 3301-07-06. Associated with Pangborn Dock. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,11 @@ related_entities:
 - silver-universal-plc
 - ritchey-port
 inara_url: https://inara.cz/elite/minorfaction/?search=Nationals%20of%20Themiscrya
+bio: Nationals of Themiscrya is a organization in the Elite Dangerous universe, active
+  from 3301-03-31 to 3301-04-08. Frequently linked with Themiscrya, Lily May, Bamford
+  Station. Senator Denton Patreus has demanded repayment of a heavy debt from the
+  Nationals of Themiscrya, who borrowed from him last year to initiate regime change.
+  The Nationals have stabilised the region but cannot meet their obligations.
 ---
 
 

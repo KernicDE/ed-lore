@@ -6,6 +6,9 @@ first_seen_date: '3303-03-24'
 last_seen_date: '3303-05-04'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Tsu%20Annabelle%20Singh
+bio: Tsu Annabelle Singh is a commander in the Elite Dangerous universe, active from
+  3303-03-24 to 3303-05-04. Closely associated with Alliance. Bounties on Salomé,
+  Tsu Annabelle Singh, Raan Corsen, and Yuri Nakamura have been increased.
 ---
 
 

@@ -9,6 +9,8 @@ related_entities:
 - first-great-expedition
 - kippax-ring
 - hip-72043-system
+bio: 'Sagittarius-Carina Arm is a star system in the Elite Dangerous universe, significant
+  from 3302-04-24 to 3302-04-24. Associated with First Great Expedition. '
 ---
 
 <!-- AUTO-GENERATED -->

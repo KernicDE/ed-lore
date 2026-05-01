@@ -10,6 +10,10 @@ related_entities:
 - hr-6421
 - formidine-rift
 - hawkins-gap
+bio: Conflux is a star system in the Elite Dangerous universe, significant from 3303-02-03
+  to 3303-02-03. Associated with Children of Raxxla. The Children of Raxxla release
+  an analysis of exploration data revealing the Dynasty Project, a covert mission
+  in the 3270s to install beacons in the Formidine Rift, Conflux and Hawkin's Gap.
 ---
 
 <!-- AUTO-GENERATED -->

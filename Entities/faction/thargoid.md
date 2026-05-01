@@ -11,6 +11,8 @@ related_entities:
 - sol
 - hip-18085
 inara_url: https://inara.cz/elite/minorfaction/?search=Thargoid
+bio: 'Thargoid is a organization in the Elite Dangerous universe, active from 3311-06-18
+  to 3311-06-18. Frequently linked with HIP 18085, Federal Navy, Sol. '
 ---
 
 

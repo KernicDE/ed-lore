@@ -10,6 +10,10 @@ related_entities:
 - fousang
 - akers-orbital
 inara_url: https://inara.cz/elite/minorfaction/?search=Blue%20Creative%20Company
+bio: Blue Creative Company is a corporate in the Elite Dangerous universe, active
+  from 3304-06-29 to 3304-06-29. Frequently linked with Fousang security, Fousang,
+  Akers Orbital. The Blue Creative Company issues a kill order on wanted ships and
+  offers rewards for bounty vouchers delivered to Akers Orbital.
 ---
 
 

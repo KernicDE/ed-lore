@@ -11,6 +11,12 @@ related_entities:
 - lhs-3447-system
 - worlidge-terminal
 - lhs-3447-b-1-a
+bio: Bluford Orbital is a starport in the Elite Dangerous universe, significant from
+  3302-02-25 to 3302-03-10. Associated with LHS 3447 Dynamic and Co, Pilots Federation.
+  The Pilots Federation and LHS 3447 Dynamic and Co announce plans to construct a
+  new Orbis starport named Bluford Orbital in LHS 3447. LHS 3447 Dynamic and Co announces
+  the successful conclusion of the campaign to construct Bluford Orbital in the LHS
+  3447 system.
 ---
 
 <!-- AUTO-GENERATED -->

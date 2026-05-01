@@ -6,6 +6,8 @@ first_seen_date: '3307-03-10'
 last_seen_date: '3308-06-23'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Carver
+bio: 'Carver is a prominent figure in the Elite Dangerous universe, active from 3307-03-10
+  to 3308-06-23. Closely associated with Alliance. '
 ---
 
 

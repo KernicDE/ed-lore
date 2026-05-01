@@ -6,6 +6,8 @@ first_seen_date: '3303-01-11'
 last_seen_date: '3303-01-11'
 mention_count: 1
 inara_url: https://inara.cz/elite/commodity/?search=modules
+bio: 'modules is a technology in the Elite Dangerous universe, mentioned from 3303-01-11
+  to 3303-01-11. Developed or used by Independent engineers. '
 ---
 
 

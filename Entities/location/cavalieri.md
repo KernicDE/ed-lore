@@ -9,6 +9,8 @@ related_entities:
 - aegis
 - electra
 - pilots-federation
+bio: 'Cavalieri is a star system in the Elite Dangerous universe, significant from
+  3303-11-24 to 3303-12-01. Associated with Aegis, Pilots Federation. '
 ---
 
 <!-- AUTO-GENERATED -->

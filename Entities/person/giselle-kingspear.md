@@ -6,6 +6,9 @@ first_seen_date: '3304-08-17'
 last_seen_date: '3304-08-29'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Giselle%20Kingspear
+bio: 'Giselle Kingspear is a scientist in the Elite Dangerous universe, active from
+  3304-08-17 to 3304-08-29. Closely associated with Colonia Council, Colonia Research
+  Division. '
 ---
 
 

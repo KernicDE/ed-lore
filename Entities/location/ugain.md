@@ -9,6 +9,10 @@ related_entities:
 - aislings-angels
 - aislings-13th-legion
 - chona
+bio: Ugain is a star system in the Elite Dangerous universe, significant from 3301-07-06
+  to 3301-07-06. Associated with Aisling's 13th Legion. Count Jeffrey Alexander Ryan
+  of Ugain endorsed the effort, noting that while many wanted to support Aisling,
+  few knew how to make their combat contributions effective.
 ---
 
 <!-- AUTO-GENERATED -->

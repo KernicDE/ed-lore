@@ -10,6 +10,12 @@ related_entities:
 - run
 - smith-port
 - rogue-security
+bio: Leif Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3303-12-01 to 3303-12-08. Associated with Rogue Runners, Rogue Security. The
+  Rogue Runners, an independent group based in the Run system, have announced plans
+  to restore and expand Leif Enterprise, an asteroid base. Founder Autumn Leif stated
+  they hope to reinforce the superstructure with meta-alloys to make it resistant
+  to Thargoid Sensor effects.
 ---
 
 <!-- AUTO-GENERATED -->

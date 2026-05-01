@@ -11,6 +11,12 @@ related_entities:
 - quivira
 - godel-dock
 - nationalists-of-quivira
+bio: Stapledon Dock is a starport in the Elite Dangerous universe, significant from
+  3301-05-05 to 3301-05-11. Associated with People's Quivira for Equality Party, Quivira
+  Electronics Plc. After Imperial ground troops seized Godel Dock, the People's Quivira
+  for Equality Party retreated to Brendan Gateway before launching a counterattack
+  with independent and Federal pilots. They successfully forced Quivira Electronics
+  Plc back to Stapledon Dock, reigniting the war with no quarter offered.
 ---
 
 <!-- AUTO-GENERATED -->

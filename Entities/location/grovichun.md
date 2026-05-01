@@ -23,6 +23,9 @@ economy: Industrial
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Grovichun
 inara_url: https://inara.cz/elite/starsystem/?search=Grovichun
+bio: Grovichun is a star system in the Elite Dangerous universe, significant from
+  3301-06-19 to 3301-06-19. After Caspatsuria citizens proved motivated by financial
+  incentives, Aisling's Angels shifted focus to Grovichun's social media networks.
 ---
 
 

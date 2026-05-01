@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - dijkstra
 - sol
+bio: 'Allen Platform is a star system in the Elite Dangerous universe, significant
+  from 3302-06-18 to 3302-06-18. '
 ---
 
 <!-- AUTO-GENERATED -->

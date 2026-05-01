@@ -11,6 +11,8 @@ related_entities:
 - wolf-1301
 - crom
 - chorel-survey
+bio: 'Walheim Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3302-06-09 to 3302-06-16. Associated with Crom Silver Boys. '
 ---
 
 <!-- AUTO-GENERATED -->

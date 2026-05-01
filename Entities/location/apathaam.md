@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Apathaam
 inara_url: https://inara.cz/elite/starsystem/?search=Apathaam
+bio: Apathaam is a star system in the Elite Dangerous universe, significant from 3302-03-16
+  to 3302-03-16. Associated with Emperor's Dawn, Imperial Internal Security Service.
+  Damon Clarke, a prominent industrialist with ties to Emperor's Dawn and Princess
+  Aisling Duval's inner circle, was caught by the IISS in Apathaam and brought back
+  to Achenar.
 ---
 
 

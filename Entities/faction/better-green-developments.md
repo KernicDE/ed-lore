@@ -12,6 +12,8 @@ related_entities:
 - roach-investment-banking
 - worster-insurance
 inara_url: https://inara.cz/elite/minorfaction/?search=Better%20Green%20Developments
+bio: 'Better Green Developments is a organization in the Elite Dangerous universe,
+  active from 3301-04-10 to 3301-04-10. Frequently linked with Worster Insurance. '
 ---
 
 

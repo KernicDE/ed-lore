@@ -24,6 +24,10 @@ economy: Military
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Sefrys
 inara_url: https://inara.cz/elite/starsystem/?search=Sefrys
+bio: Sefrys is a star system in the Elite Dangerous universe, significant from 3301-06-08
+  to 3301-07-27. Associated with Dukes of Mikunn, Mercenaries of Mikunn. The Dukes
+  of Mikunn opened Mercenary's Respite, a new Coriolis station in COL 285 Sector VG-1
+  B24-6, renamed 'Sefrys' in honour of a fallen Mercs commander.
 ---
 
 

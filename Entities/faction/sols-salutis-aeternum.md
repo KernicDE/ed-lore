@@ -10,6 +10,8 @@ related_entities:
 - sirius-corporation
 - di-jian
 inara_url: https://inara.cz/elite/minorfaction/?search=Sol%27s%20Salutis%20Aeternum
+bio: 'Sol''s Salutis Aeternum is a organization in the Elite Dangerous universe, active
+  from 3308-06-16 to 3308-06-16. Frequently linked with Alliance, Sirius Corporation. '
 ---
 
 

@@ -21,6 +21,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Kamici
 inara_url: https://inara.cz/elite/starsystem/?search=Kamici
+bio: Kamici is a star system in the Elite Dangerous universe, significant from 3304-08-17
+  to 3304-08-24. Associated with Kamici Incorporated. Authorities in the Kamici system
+  report a rise in criminals attacking pilots and disrupting trade. Kamici Incorporated
+  places a kill order on wanted ships and promises rewards for bounty vouchers delivered
+  to Gaiman Port.
 ---
 
 

@@ -22,6 +22,12 @@ economy: Military
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20IH-V%20c2-16
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20IH-V%20c2-16
+bio: Pleiades Sector IH-V c2-16 is a star system in the Elite Dangerous universe,
+  significant from 3302-08-11 to 3302-08-18. Associated with Imperial Inquisition,
+  Pleiades Resource Enterprise, Federation. The Pleiades Resource Enterprise is preparing
+  to assault the Empire-controlled Pleiades Sector IH-V c2-16 system. The Imperial
+  Inquisition has called on Empire-aligned pilots to repel the Federal offensive,
+  while the Pleiades Resource Enterprise has summoned Federation-aligned fighters.
 ---
 
 

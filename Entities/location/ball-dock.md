@@ -11,6 +11,8 @@ related_entities:
 - nltt-57216
 - cd-37-641
 - raleigh-orbital
+bio: 'Ball Dock is a starport in the Elite Dangerous universe, significant from 3302-03-14
+  to 3302-03-14. Associated with Buckyball Racing Club. '
 ---
 
 <!-- AUTO-GENERATED -->

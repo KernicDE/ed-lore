@@ -9,6 +9,8 @@ related_entities:
 - united-sutekh-future
 - adad-exchange
 - sutekh
+bio: 'Archemides Gateway is a star system in the Elite Dangerous universe, significant
+  from 3303-02-23 to 3303-02-23. Associated with Adad Exchange, United Sutekh Future. '
 ---
 
 <!-- AUTO-GENERATED -->

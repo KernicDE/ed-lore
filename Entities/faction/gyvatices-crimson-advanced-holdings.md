@@ -10,6 +10,9 @@ related_entities:
 - walter-dock
 - wonderful-walters-fish-and-coffee-emporium
 inara_url: https://inara.cz/elite/minorfaction/?search=Gyvatices%20Crimson%20Advanced%20Holdings
+bio: 'Gyvatices Crimson Advanced Holdings is a organization in the Elite Dangerous
+  universe, active from 3302-10-20 to 3302-10-27. Frequently linked with Gyvatices,
+  Walter Dock, Wonderful Walter''s Fish and Coffee Emporium. '
 ---
 
 

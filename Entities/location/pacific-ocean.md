@@ -11,6 +11,10 @@ related_entities:
 - sol
 - california
 - alliance
+bio: Pacific Ocean is a star system in the Elite Dangerous universe, significant from
+  3304-07-20 to 3304-07-22. Associated with Federal Navy. A thermonuclear missile
+  from Earth's Third World War (2044-2055) is discovered beneath the Pacific Ocean
+  off California during undersea habitation construction.
 ---
 
 <!-- AUTO-GENERATED -->

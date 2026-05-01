@@ -10,6 +10,8 @@ related_entities:
 - alliance
 - abel-laboratory
 - arque
+bio: 'James Sneddon is a star system in the Elite Dangerous universe, significant
+  from 3308-05-05 to 3308-05-12. Associated with Alliance. '
 ---
 
 <!-- AUTO-GENERATED -->

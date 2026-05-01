@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Athena
 inara_url: https://inara.cz/elite/starsystem/?search=Athena
+bio: Athena is a star system in the Elite Dangerous universe, significant from 3301-08-26
+  to 3301-10-26. Associated with XYZ Fight Club. The XYZ Fight Club gladiatorial tournament
+  took place in the Athena system. The XYZ Fight Club held its 'Cobra Crunch' event
+  at Powell Terminal in the Athena system, featuring an all-on-all Cobra Mk III battle.
 ---
 
 

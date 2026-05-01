@@ -20,6 +20,8 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Andavandul
 inara_url: https://inara.cz/elite/starsystem/?search=Andavandul
+bio: 'Andavandul is a star system in the Elite Dangerous universe, significant from
+  3308-11-24 to 3308-11-24. '
 ---
 
 

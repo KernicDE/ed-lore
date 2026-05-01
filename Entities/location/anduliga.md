@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Anduliga
 inara_url: https://inara.cz/elite/starsystem/?search=Anduliga
+bio: 'Anduliga is a star system in the Elite Dangerous universe, significant from
+  3301-12-30 to 3308-05-12. Associated with Independent Cherets Labour. '
 ---
 
 

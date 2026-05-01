@@ -12,6 +12,10 @@ related_entities:
 - leesti
 - diso
 inara_url: https://inara.cz/elite/minorfaction/?search=Guardians%20of%20Tranquillity
+bio: Guardians of Tranquillity is a organization in the Elite Dangerous universe,
+  active from 3303-11-17 to 3303-11-17. Frequently linked with Independent Leesti
+  for Equality, Tarach Tor, Tranquillity. The Guardians denied the event is an attempt
+  to upstage their rivals.
 ---
 
 

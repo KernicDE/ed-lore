@@ -10,6 +10,11 @@ related_entities:
 - lave
 - lave-station
 inara_url: https://inara.cz/elite/minorfaction/?search=Elite%20Racers
+bio: Elite Racers is a organization in the Elite Dangerous universe, active from 3302-06-10
+  to 3302-06-10. Frequently linked with Buckyball Racing Club, Lave Station, Lave.
+  The Buckyball Racing Club and Elite Racers compete in the 'Old World Hustle' event
+  in the Lave cluster, combining point-to-point rallies and zero-gravity aerobatics
+  from 11-19 June 3302.
 ---
 
 

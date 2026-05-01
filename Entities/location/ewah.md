@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Ewah
 inara_url: https://inara.cz/elite/starsystem/?search=Ewah
+bio: Ewah is a star system in the Elite Dangerous universe, significant from 3301-07-09
+  to 3301-07-09. Associated with Utopia. Pranav Antal's expansion into Ewah was blocked.
 ---
 
 

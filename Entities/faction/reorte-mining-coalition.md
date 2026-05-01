@@ -9,6 +9,9 @@ related_entities:
 - alliance
 - reorte
 inara_url: https://inara.cz/elite/minorfaction/?search=Reorte%20Mining%20Coalition
+bio: Reorte Mining Coalition is a organization in the Elite Dangerous universe, active
+  from 3305-12-12 to 3305-12-12. Frequently linked with Alliance, Reorte. The Alliance
+  hosts end-of-year festivities in the Reorte system, with billions of attendees expected.
 ---
 
 

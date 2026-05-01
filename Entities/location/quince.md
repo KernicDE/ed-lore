@@ -24,6 +24,8 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Quince
 inara_url: https://inara.cz/elite/starsystem/?search=Quince
+bio: 'Quince is a star system in the Elite Dangerous universe, significant from 3302-04-12
+  to 3302-04-12. Associated with Interstellar Press. '
 ---
 
 

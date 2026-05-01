@@ -8,6 +8,12 @@ mention_count: 1
 related_entities:
 - aegis
 - maelstrom
+bio: Elvira Martuuk is a star system in the Elite Dangerous universe, significant
+  from 3309-04-24 to 3309-04-24. Associated with Aegis. Materials delivered by pilots
+  will be used to test and mass-produce a shutdown-field neutraliser developed by
+  engineer Elvira Martuuk to counter Thargoid immobilising fields. Aegis develops
+  and begins unmanned testing of the Thargoid pulse neutraliser, building on Elvira
+  Martuuk's 3303 shutdown field neutraliser design.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -24,6 +24,10 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Eranin
 inara_url: https://inara.cz/elite/starsystem/?search=Eranin
+bio: Eranin is a star system in the Elite Dangerous universe, significant from 3301-06-10
+  to 3302-04-01. Associated with Alliance. Following the failed Federal invasion of
+  Eranin in late 3300, Federal and Alliance campaigners clashed politically in the
+  Dahan sector.
 ---
 
 

@@ -22,6 +22,11 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Eta%20Draconis
 inara_url: https://inara.cz/elite/starsystem/?search=Eta%20Draconis
+bio: Eta Draconis is a star system in the Elite Dangerous universe, significant from
+  3301-03-20 to 3301-03-20. Associated with Gold Vision Company, 8th Dragon Squadron.
+  A covert raid by Gold Vision Company special operations forces captured Swift Terminal
+  in Eta Draconis. President Vondell praised the 8th Dragon Squadron and promised
+  peace and prosperity for Eta Draconis.
 ---
 
 

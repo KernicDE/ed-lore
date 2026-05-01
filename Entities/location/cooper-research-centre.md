@@ -9,6 +9,11 @@ related_entities:
 - alliance
 - hip-19072
 - noti-dock
+bio: Cooper Research Centre is a star system in the Elite Dangerous universe, significant
+  from 3302-05-26 to 3302-05-26. Associated with Alliance. Alliance Prime Minister
+  Edmund Mahon announces the completion of the Cooper Research Centre outpost in HIP
+  19072. The station will serve scientific research and bolster Alliance reconnaissance
+  capabilities on the fringes of inhabited space.
 ---
 
 <!-- AUTO-GENERATED -->

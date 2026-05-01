@@ -11,6 +11,9 @@ related_entities:
 - earth
 - leesti
 - maia
+bio: Patterson Vision is a star system in the Elite Dangerous universe, significant
+  from 3303-10-27 to 3303-11-03. Associated with Hallowed Chapter of LHS 2094. Hundreds
+  of pilots delivered goods to Patterson Vision and protected traders from agitators.
 ---
 
 <!-- AUTO-GENERATED -->

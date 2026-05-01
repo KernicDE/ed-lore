@@ -11,6 +11,8 @@ related_entities:
 - atlas
 - celaeno
 - electra
+bio: 'Arc''s Faith is a star system in the Elite Dangerous universe, significant from
+  3303-12-02 to 3303-12-02. '
 ---
 
 <!-- AUTO-GENERATED -->

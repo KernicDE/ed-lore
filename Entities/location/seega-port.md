@@ -11,6 +11,12 @@ related_entities:
 - federal-marines
 - balandin-gateway
 - knight-dock
+bio: Seega Port is a starport in the Elite Dangerous universe, significant from 3301-03-20
+  to 3301-03-26. Associated with Crimson State Group, Federal Marines. Federal Marines
+  secured Seega Port with minimal losses and are working to secure Read Gateway as
+  a staging post for attacks against Crimson State starports. After Éamonn Uí Laoghire
+  sought Alliance support for Lugh's independence, President Halsey ordered the Federal
+  Navy to suppress the uprising.
 ---
 
 <!-- AUTO-GENERATED -->

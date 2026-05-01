@@ -9,6 +9,12 @@ related_entities:
 - cenker-city
 - gucumadhyas
 inara_url: https://inara.cz/elite/minorfaction/?search=Utopia%20Commune
+bio: Utopia Commune is a organization in the Elite Dangerous universe, active from
+  3303-04-14 to 3303-04-21. Frequently linked with Cenker City, Gucumadhyas. The Utopia
+  Commune has issued a request for zirconium, conductive ceramics, and strange wake
+  solutions for a forthcoming research and development programme. The Utopia Commune's
+  campaign for materials reached a successful conclusion, with commodities delivered
+  for a forthcoming research and development programme.
 ---
 
 

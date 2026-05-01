@@ -10,6 +10,13 @@ related_entities:
 - pilots-federation
 - epsilon-indi-system
 - leesti
+bio: Mansfield Orbiter is a star system in the Elite Dangerous universe, significant
+  from 3302-04-14 to 3302-04-21. Associated with Pilots Federation, United Epsilon
+  Indi Flag. The United Epsilon Indi Flag recruits pilots for 'Bribes 4 Bourbon',
+  a campaign to decriminalise Indi Bourbon by smuggling rare liquors into Mansfield
+  Orbiter. The United Epsilon Indi Flag announces the successful decriminalisation
+  of Indi Bourbon after hundreds of pilots flooded Mansfield Orbiter with illegal
+  rare liquors.
 ---
 
 <!-- AUTO-GENERATED -->

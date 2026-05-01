@@ -23,6 +23,9 @@ security: Medium
 economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Synuefai%20LX-R%20d5-28
 inara_url: https://inara.cz/elite/starsystem/?search=Synuefai%20LX-R%20d5-28
+bio: 'Synuefai LX-R d5-28 is a star system in the Elite Dangerous universe, significant
+  from 3303-11-10 to 3303-11-17. Associated with Alliance, Spinward Marches Alliance
+  Concern. '
 ---
 
 

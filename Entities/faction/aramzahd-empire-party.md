@@ -11,6 +11,12 @@ related_entities:
 - annual-galactic-games-organisation
 - guardinia
 inara_url: https://inara.cz/elite/minorfaction/?search=Aramzahd%20Empire%20Party
+bio: Aramzahd Empire Party is a organization in the Elite Dangerous universe, active
+  from 3302-10-13 to 3302-10-20. Frequently linked with Aramzahd, Norman–Mavis's Bingo
+  Palace, Annual Galactic Games Organisation. The Annual Galactic Games Organisation
+  will hold the Gathering 3302 at Norman–Mavis's Bingo Palace in the Aramzahd system.
+  The Aramzahd Empire Party has requested rare foods and alcohol, and issued a kill
+  order on wanted ships for event security.
 ---
 
 

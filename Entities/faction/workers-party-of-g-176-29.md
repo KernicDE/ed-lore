@@ -11,6 +11,9 @@ related_entities:
 - graill-redd
 - j-g-ballard-gateway
 inara_url: https://inara.cz/elite/minorfaction/?search=Workers%20Party%20of%20G%20176-29
+bio: 'Workers Party of G 176-29 is a organization in the Elite Dangerous universe,
+  active from 3302-06-30 to 3302-06-30. Frequently linked with Graill Redd Liberals,
+  J. G. Ballard Gateway, Citizen Party of G146-60. '
 ---
 
 

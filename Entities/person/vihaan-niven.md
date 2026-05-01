@@ -6,6 +6,11 @@ first_seen_date: '3304-09-13'
 last_seen_date: '3306-10-19'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Vihaan%20Niven
+bio: Vihaan Niven is a president in the Elite Dangerous universe, active from 3304-09-13
+  to 3306-10-19. Closely associated with Far God cult, Federal Intelligence Agency,
+  Federal Congress. Political analyst Vihaan Niven notes that some congressmen align
+  with Bishop to appear tough on Thargoids, while others criticise her inhumane rhetoric
+  and proposal to execute citizens without trial.
 ---
 
 

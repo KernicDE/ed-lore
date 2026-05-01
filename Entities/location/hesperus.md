@@ -11,6 +11,8 @@ related_entities:
 - azimuth-biochemicals
 - imperial-navy
 - salvation
+bio: 'Hesperus is a star system in the Elite Dangerous universe, significant from
+  3308-02-07 to 3308-02-07. Associated with Alliance, Imperial Navy, Aegis. '
 ---
 
 <!-- AUTO-GENERATED -->

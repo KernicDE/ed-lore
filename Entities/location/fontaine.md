@@ -10,6 +10,8 @@ related_entities:
 - marlinist-colonies
 - mudhrid
 - baltahsine
+bio: 'Fontaine is a star system in the Elite Dangerous universe, significant from
+  3307-12-20 to 3307-12-20. Associated with NMLA. '
 ---
 
 <!-- AUTO-GENERATED -->

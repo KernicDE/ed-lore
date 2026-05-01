@@ -6,6 +6,8 @@ first_seen_date: '3311-12-02'
 last_seen_date: '3311-12-16'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=Mk%20II%20SCO-enabled%20frame%20shift%20drive
+bio: 'Mk II SCO-enabled frame shift drive is a technology in the Elite Dangerous universe,
+  mentioned from 3311-12-02 to 3311-12-16. Developed or used by Zorgon Peterson. '
 ---
 
 

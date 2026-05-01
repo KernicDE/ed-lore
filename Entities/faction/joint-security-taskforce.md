@@ -11,6 +11,12 @@ related_entities:
 - wilkes-orbital
 - nespeleve-system
 inara_url: https://inara.cz/elite/minorfaction/?search=Joint%20Security%20Taskforce
+bio: Joint Security Taskforce is a organization in the Elite Dangerous universe, active
+  from 3302-02-25 to 3302-03-03. Frequently linked with Blue Hand Gang, Orulas system,
+  Wilkes Orbital. Rose Trebek, a former soldier, establishes the Joint Security Taskforce
+  to clean up the Orulas system from the ruthless Blue Hand Gang. Rose Trebek of the
+  Joint Security Taskforce announces the successful conclusion of the operation to
+  clean up the Orulas system.
 ---
 
 

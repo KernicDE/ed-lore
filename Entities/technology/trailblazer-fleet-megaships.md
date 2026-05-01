@@ -6,6 +6,9 @@ first_seen_date: '3311-04-30'
 last_seen_date: '3311-04-30'
 mention_count: 1
 inara_url: https://inara.cz/elite/commodity/?search=Trailblazer%20fleet%20megaships
+bio: 'Trailblazer fleet megaships is a technology in the Elite Dangerous universe,
+  mentioned from 3311-04-30 to 3311-04-30. Developed or used by Federal Times, Brewer
+  Corporation, Irene Ralston. '
 ---
 
 

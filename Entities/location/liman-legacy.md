@@ -11,6 +11,9 @@ related_entities:
 - hip-16753
 - pleiades-sector-ir-w-d1-55
 - oracle
+bio: Liman Legacy is a star system in the Elite Dangerous universe, significant from
+  3303-12-15 to 3303-12-15. The affected stations are Titan's Daughter in Taygeta,
+  Liman Legacy in HIP 16753, and the Oracle in Pleiades Sector IR-W d1-55.
 ---
 
 <!-- AUTO-GENERATED -->

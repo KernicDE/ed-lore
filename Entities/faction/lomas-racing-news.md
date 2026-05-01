@@ -12,6 +12,8 @@ related_entities:
 - darboux-orbital
 - slough-orbital
 inara_url: https://inara.cz/elite/minorfaction/?search=Lomas%20Racing%20News
+bio: 'Lomas Racing News is a media in the Elite Dangerous universe, active from 3301-08-26
+  to 3301-08-26. Frequently linked with XYZ Fight Club, Athena. '
 ---
 
 

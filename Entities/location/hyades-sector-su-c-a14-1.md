@@ -24,6 +24,8 @@ economy: High Tech
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Hyades%20Sector%20SU-C%20a14-1
 inara_url: https://inara.cz/elite/starsystem/?search=Hyades%20Sector%20SU-C%20a14-1
+bio: 'Hyades Sector SU-C a14-1 is a star system in the Elite Dangerous universe, significant
+  from 3308-05-06 to 3308-05-06. Associated with Alliance, Marlinist, Sirius Corporation. '
 ---
 
 

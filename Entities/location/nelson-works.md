@@ -10,6 +10,8 @@ related_entities:
 - maia
 - merope
 - dahan
+bio: 'Nelson Works is a star system in the Elite Dangerous universe, significant from
+  3301-12-21 to 3301-12-21. Associated with Canonn Interstellar Research Group. '
 ---
 
 <!-- AUTO-GENERATED -->

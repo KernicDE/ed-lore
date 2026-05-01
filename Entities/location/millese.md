@@ -20,6 +20,12 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Millese
 inara_url: https://inara.cz/elite/starsystem/?search=Millese
+bio: Millese is a star system in the Elite Dangerous universe, significant from 3305-06-06
+  to 3305-06-13. Associated with Sagittarius Eye. Sagittarius Eye launches a community
+  appeal for cobalt, titanium and tantalum to construct an asteroid station called
+  The Print Works in the Millese system. Sagittarius Eye's community appeal for construction
+  materials concludes successfully, resulting in the establishment of a new asteroid
+  base named The Print Works in the Millese system.
 ---
 
 

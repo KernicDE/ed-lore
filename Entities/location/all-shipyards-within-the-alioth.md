@@ -10,6 +10,8 @@ related_entities:
 - core-dynamics
 - alioth
 - jupiter
+bio: 'All shipyards within the Alioth is a star system in the Elite Dangerous universe,
+  significant from 3307-02-19 to 3307-02-19. Associated with Core Dynamics, Alliance. '
 ---
 
 <!-- AUTO-GENERATED -->

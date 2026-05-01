@@ -12,6 +12,9 @@ related_entities:
 - prism
 - hawkins-gap
 inara_url: https://inara.cz/elite/minorfaction/?search=Chapterhouse%20of%20Inquisition
+bio: 'Chapterhouse of Inquisition is a organization in the Elite Dangerous universe,
+  active from 3302-08-23 to 3302-08-23. Frequently linked with Children of Raxxla,
+  Cemiess, Prism. '
 ---
 
 

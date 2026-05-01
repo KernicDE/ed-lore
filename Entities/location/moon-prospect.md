@@ -11,6 +11,8 @@ related_entities:
 - lem-dock
 - chaac
 - turot
+bio: 'Moon Prospect is a star system in the Elite Dangerous universe, significant
+  from 3302-07-18 to 3302-07-18. Associated with Buckyball Racing Club, Ex Luna Scientia. '
 ---
 
 <!-- AUTO-GENERATED -->

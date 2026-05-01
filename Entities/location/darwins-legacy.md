@@ -11,6 +11,8 @@ related_entities:
 - fge-exploration-wings
 - gliese-1269
 - beagle-point
+bio: 'Darwin''s Legacy is a star system in the Elite Dangerous universe, significant
+  from 3302-06-17 to 3302-06-17. Associated with FGE exploration wings, Fuel Rats. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,12 @@ related_entities:
 - liaedin
 - volungu
 inara_url: https://inara.cz/elite/minorfaction/?search=Blossum%20family
+bio: Blossum family is a organization in the Elite Dangerous universe, active from
+  3301-05-25 to 3301-05-25. Frequently linked with Faveol family, Liaedin, Shadow
+  Navy. Crimson Fortune Company CEO Ellie Blossum denounced claims that Commander
+  Wolzan and the Shadow Navy were terrorists. She stated that recent destabilisation
+  in Liaedin was a deliberate act by unruly Faveol family members attempting to expand
+  into Volungu.
 ---
 
 

@@ -22,6 +22,12 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Balones
 inara_url: https://inara.cz/elite/starsystem/?search=Balones
+bio: Balones is a star system in the Elite Dangerous universe, significant from 3303-01-05
+  to 3303-01-12. Associated with Balones Gold Touch Systems. Balones Gold Touch Systems
+  appeals for mined osmium, praseodymium, and methanol monohydrate crystals to develop
+  advanced deep-space probes, citing alien shipwrecks and Synuefe ruins as motivation.
+  Balones Gold Touch Systems' appeal for materials to build deep-space probes concludes
+  successfully.
 ---
 
 

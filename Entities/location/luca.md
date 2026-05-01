@@ -19,6 +19,11 @@ population: 45578
 allegiance: Independent
 government: Feudal
 edsm_url: https://www.edsm.net/en/system?search=Luca
+bio: Luca is a star system in the Elite Dangerous universe, significant from 3301-03-03
+  to 3301-03-06. Associated with Defence Force of Tanmark, Tanmark Posse. Conflict
+  broke out between the Defence Force of Tanmark and the Tanmark Posse criminal gang,
+  the main force behind Lucan Onionhead cultivation in hidden facilities on Luca.
+  Fighting remained confined to Luca's surface as security forces raided Posse holdings.
 ---
 
 <!-- AUTO-GENERATED -->

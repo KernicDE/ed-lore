@@ -8,6 +8,8 @@ mention_count: 2
 related_entities:
 - zeus-bureau
 - zeus
+bio: 'KatherineB is a star system in the Elite Dangerous universe, significant from
+  3303-05-19 to 3303-05-26. Associated with Zeus Bureau. '
 ---
 
 <!-- AUTO-GENERATED -->

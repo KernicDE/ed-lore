@@ -10,6 +10,9 @@ related_entities:
 - njambalba
 - frost-dock
 inara_url: https://inara.cz/elite/minorfaction/?search=Sandra%27s%20Workshop
+bio: 'Sandra''s Workshop is a organization in the Elite Dangerous universe, active
+  from 3310-12-20 to 3311-12-15. Frequently linked with Frost Dock, Our Dolph''s Routes,
+  Njambalba. '
 ---
 
 

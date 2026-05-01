@@ -11,6 +11,11 @@ related_entities:
 - alliance-assembly
 - zaonce
 - alkaid
+bio: New Caledonia is a star system in the Elite Dangerous universe, significant from
+  3307-05-17 to 3307-05-28. Associated with Alliance, Alliance Tribune. Mahon defends
+  his record on prosperity at a business conference on Industry in Zaonce, while Kaine
+  criticises Alliance spending on Aegis and Lakon at a protest march on New Caledonia
+  in Alkaid.
 ---
 
 <!-- AUTO-GENERATED -->

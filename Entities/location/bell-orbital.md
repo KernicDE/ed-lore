@@ -10,6 +10,11 @@ related_entities:
 - sacra-oculus
 - pilots-federation
 - gilya-system
+bio: Bell Orbital is a starport in the Elite Dangerous universe, significant from
+  3302-04-22 to 3302-04-22. Associated with Pilots Federation, Sacra Oculus, Gilya
+  Law Party. Gilya Signature Weapons return to production at Bell Orbital in the Gilya
+  system following intervention from commercial interests, priests from Sacra Oculus,
+  and Pilots Federation Commanders.
 ---
 
 <!-- AUTO-GENERATED -->

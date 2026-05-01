@@ -6,6 +6,12 @@ first_seen_date: '3304-07-05'
 last_seen_date: '3304-08-02'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Margaux%20Hist
+bio: Margaux Hist is a emperor in the Elite Dangerous universe, active from 3304-07-05
+  to 3304-08-02. Closely associated with Bonespire Publishing. Redcourt makes cryptic
+  comments about being bounced across space and meat for the sausage factory, which
+  his agent Margaux Hist dismisses as character development thinking. Agent Margaux
+  Hist expresses hope the niche science-fiction genre will sell well enough to cover
+  legal bills.
 ---
 
 

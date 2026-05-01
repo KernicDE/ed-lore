@@ -6,6 +6,8 @@ first_seen_date: '3306-09-12'
 last_seen_date: '3306-10-09'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Milandu%20Okoro
+bio: 'Milandu Okoro is a president in the Elite Dangerous universe, active from 3306-09-12
+  to 3306-10-09. Closely associated with Federal Navy, Federal Attorney''s Office. '
 ---
 
 

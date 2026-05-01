@@ -10,6 +10,10 @@ related_entities:
 - mars
 - prism
 inara_url: https://inara.cz/elite/minorfaction/?search=Sol%20Herald
+bio: Sol Herald is a media in the Elite Dangerous universe, active from 3301-04-02
+  to 3301-04-02. Frequently linked with Prism, Sol, Mars. When asked about her trip
+  by the Sol Herald, she called it 'most enlightening' and joked about Federation
+  protocols.
 ---
 
 

@@ -24,6 +24,10 @@ economy: Refinery
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Kpaniya
 inara_url: https://inara.cz/elite/starsystem/?search=Kpaniya
+bio: Kpaniya is a star system in the Elite Dangerous universe, significant from 3302-09-08
+  to 3302-10-27. Associated with United Research Council. The United Research Council
+  lifted preparatory restrictions near the Clayakarma, Nauo, Gyhldekala, Boga, and
+  Kpaniya systems.
 ---
 
 

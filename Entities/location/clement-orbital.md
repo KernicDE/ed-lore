@@ -11,6 +11,8 @@ related_entities:
 - professor-palin
 - ram-tah
 - federal-navy
+bio: 'Clement Orbital is a starport in the Elite Dangerous universe, significant from
+  3309-05-02 to 3309-05-09. Associated with Aegis. '
 ---
 
 <!-- AUTO-GENERATED -->

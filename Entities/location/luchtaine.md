@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Luchtaine
 inara_url: https://inara.cz/elite/starsystem/?search=Luchtaine
+bio: 'Luchtaine is a star system in the Elite Dangerous universe, significant from
+  3304-08-29 to 3304-08-29. '
 ---
 
 

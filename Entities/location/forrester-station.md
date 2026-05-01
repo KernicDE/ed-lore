@@ -11,6 +11,9 @@ related_entities:
 - bd-22-3573-flag
 - bd-22-3573
 - rhea
+bio: 'Forrester Station is a starport in the Elite Dangerous universe, significant
+  from 3301-07-19 to 3301-07-31. Associated with Federal Intelligence Agency, Justice
+  Party. '
 ---
 
 <!-- AUTO-GENERATED -->

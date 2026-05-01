@@ -10,6 +10,9 @@ related_entities:
 - alliance
 - diso
 - birmingham
+bio: Shifnalport is a starport in the Elite Dangerous universe, significant from 3301-05-11
+  to 3301-05-11. Associated with Alliance. An increased supply of Diso Ma Corn has
+  been released to markets aboard Shifnalport to stimulate the Old World sector economy.
 ---
 
 <!-- AUTO-GENERATED -->

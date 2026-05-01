@@ -12,6 +12,10 @@ related_entities:
 - adles-armada
 - league-of-hel
 inara_url: https://inara.cz/elite/minorfaction/?search=Labour%20Party%20of%20Caill%20Reddi
+bio: Labour Party of Caill Reddi is a organization in the Elite Dangerous universe,
+  active from 3301-07-16 to 3301-07-16. Frequently linked with Adle's Armada, Hammer
+  Arms, League of Hel. The outcome will determine whether Hel becomes a Federally
+  aligned system under the Labour Party of Caill Reddi or continues its weapons trade.
 ---
 
 

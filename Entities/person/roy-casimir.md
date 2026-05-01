@@ -10,6 +10,11 @@ related_entities:
 - october-consortium
 - hip-87621
 inara_url: https://inara.cz/elite/cmdr-search/?search=Roy%20Casimir
+bio: Roy Casimir is a pilot in the Elite Dangerous universe, active from 3312-01-28
+  to 3312-01-28. Closely associated with Holloway Bioscience Institute, Nahuaru Crimson
+  Bridge Int. Roy Casimir publishes first public Radicoida unica study. Dr Roy Casimir
+  of the Holloway Bioscience Institute requests cobalt, indium, tantalum and exploration
+  data to construct a xenological research centre in the Nahuaru system.
 ---
 
 

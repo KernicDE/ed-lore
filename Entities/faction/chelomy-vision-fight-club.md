@@ -10,6 +10,10 @@ related_entities:
 - balaikda
 - chelomy-vision
 inara_url: https://inara.cz/elite/minorfaction/?search=Chelomy%20Vision%20Fight%20Club
+bio: Chelomy Vision Fight Club is a organization in the Elite Dangerous universe,
+  active from 3301-02-08 to 3301-02-08. Frequently linked with Balaikda, Chelomy Vision,
+  Sol. The Chelomy Vision fight club in Balaikda hosts unsanctioned aerial brawls
+  where pilots engage in unsafe combat above the station.
 ---
 
 

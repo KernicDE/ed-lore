@@ -23,6 +23,11 @@ economy: Extraction
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Daibo
 inara_url: https://inara.cz/elite/starsystem/?search=Daibo
+bio: Daibo is a star system in the Elite Dangerous universe, significant from 3302-10-28
+  to 3302-11-25. Kahina Tijani Loren was found guilty of attempted assassination of
+  Admiral Denton Patreus and sentenced to life imprisonment at Koontz Asylum in the
+  Daibo system. A prisoner convoy was interdicted and destroyed in the Daibo system
+  while en route to Koontz Asylum.
 ---
 
 

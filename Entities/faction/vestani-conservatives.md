@@ -9,6 +9,12 @@ related_entities:
 - vestani
 - rose-terminal
 inara_url: https://inara.cz/elite/minorfaction/?search=Vestani%20Conservatives
+bio: Vestani Conservatives is a organization in the Elite Dangerous universe, active
+  from 3303-02-09 to 3303-02-16. Frequently linked with Vestani, Rose Terminal. Vestani
+  Conservatives' Valentine's Day appeal concludes successfully with hundreds of pilots
+  delivering commodities to Rose Terminal. Retailer Vestani Conservatives appeals
+  for luxury commodities including Thrutis Cream, Deuringas Truffles and Esuseku Caviar
+  to meet Valentine's Day demand.
 ---
 
 

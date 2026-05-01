@@ -9,6 +9,12 @@ related_entities:
 - federal-navy
 - hors
 inara_url: https://inara.cz/elite/minorfaction/?search=Brightlight%20Training%20Corporation
+bio: Brightlight Training Corporation is a corporate in the Elite Dangerous universe,
+  active from 3301-04-07 to 3301-04-07. Frequently linked with Federal Navy, Hors.
+  Shadow President Hudson, accompanied by Admiral Vincent's aides, visited the Hors
+  system to meet Duke Sanders and discuss extending Brightlight Training's Federal
+  contracts. Following recent communication failures between the President and the
+  Federal Navy, Admiral Vincent is seeking to modernise officer training.
 ---
 
 

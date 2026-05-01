@@ -11,6 +11,8 @@ related_entities:
 - george-pantazis
 - upaniklis
 - geras
+bio: 'Edmondson High is a star system in the Elite Dangerous universe, significant
+  from 3308-05-12 to 3308-05-19. Associated with Federal Times. '
 ---
 
 <!-- AUTO-GENERATED -->

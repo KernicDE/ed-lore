@@ -10,6 +10,9 @@ related_entities:
 - xelabara
 - navigator-market
 inara_url: https://inara.cz/elite/minorfaction/?search=Xelabara%20Republic%20Party
+bio: 'Xelabara Republic Party is a organization in the Elite Dangerous universe, active
+  from 3301-11-19 to 3301-11-19. Frequently linked with Xelabara, Drug Empire of Xelabara,
+  Navigator Market. '
 ---
 
 

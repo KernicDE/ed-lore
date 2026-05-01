@@ -11,6 +11,10 @@ related_entities:
 - lomas-racing-news
 - athena
 - slough-orbital
+bio: Darboux Orbital is a starport in the Elite Dangerous universe, significant from
+  3301-08-26 to 3301-08-26. Associated with XYZ Fight Club. Despite a criminal attack
+  on participant Commander Angel Rose forcing evacuation of Darboux Orbital, contingency
+  arenas allowed the event to continue.
 ---
 
 <!-- AUTO-GENERATED -->

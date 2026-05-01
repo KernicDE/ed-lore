@@ -11,6 +11,9 @@ related_entities:
 - merope
 - pre-logistics-support-gamma
 - maia
+bio: 'Moni''s Hub is a star system in the Elite Dangerous universe, significant from
+  3303-05-26 to 3303-06-02. Associated with Merope Expeditionary Fleet, Pleiades Resource
+  Enterprise. '
 ---
 
 <!-- AUTO-GENERATED -->

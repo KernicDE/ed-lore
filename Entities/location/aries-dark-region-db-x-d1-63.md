@@ -16,6 +16,8 @@ coords:
   z: -247.03125
 edsm_url: https://www.edsm.net/en/system?search=Aries%20Dark%20Region%20DB-X%20d1-63
 inara_url: https://inara.cz/elite/starsystem/?search=Aries%20Dark%20Region%20DB-X%20d1-63
+bio: 'Aries Dark Region DB-X d1-63 is a star system in the Elite Dangerous universe,
+  significant from 3303-06-28 to 3303-06-28. '
 ---
 
 

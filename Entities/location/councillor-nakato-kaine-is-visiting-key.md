@@ -10,6 +10,10 @@ related_entities:
 - leesti
 - she-has-represented-the-tionisla
 - tionisla
+bio: Councillor Nakato Kaine is visiting key is a star system in the Elite Dangerous
+  universe, significant from 3307-01-22 to 3307-01-22. Associated with Alliance. Councillor
+  Nakato Kaine is visiting key systems across The Alliance as part of her bid to be
+  elected As the next prime minister.
 ---
 
 <!-- AUTO-GENERATED -->

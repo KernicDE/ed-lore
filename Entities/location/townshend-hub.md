@@ -11,6 +11,9 @@ related_entities:
 - alioth
 - 78-ursae-majoris-for-equality-party
 - seddon-gateway
+bio: Townshend Hub is a star system in the Elite Dangerous universe, significant from
+  3301-05-09 to 3301-05-31. Associated with Alioth Independents. Mayor Andrew Bailey
+  of Townshend Hub welcomed the attention but regretted she would not visit Alioth.
 ---
 
 <!-- AUTO-GENERATED -->

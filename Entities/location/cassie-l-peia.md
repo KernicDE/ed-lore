@@ -11,6 +11,12 @@ related_entities:
 - farmers-union-of-kappa-fornacis
 - kappa-fornacis
 - tanmark-posse
+bio: Cassie-L-Peia is a star system in the Elite Dangerous universe, significant from
+  3301-02-24 to 3301-03-06. Associated with Defence Force of Tanmark, Farmers Union
+  of Kappa Fornacis. Hundreds of contractors delivered over 500,000 tons of land enrichment
+  systems to Cassie-L-Peia, allowing specialist farmers from Kappa Fornacis to stimulate
+  mass growth of Lucan Onionhead clones. Pilots can sign up for security duty aboard
+  Cassie-L-Peia in Tanmark.
 ---
 
 <!-- AUTO-GENERATED -->

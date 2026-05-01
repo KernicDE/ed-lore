@@ -10,6 +10,11 @@ related_entities:
 - imperial-slavers-association
 - synteini
 - lagerkvist-gateway
+bio: William Sargent Vision is a star system in the Elite Dangerous universe, significant
+  from 3301-03-08 to 3301-03-08. Associated with Imperial Slavers Association, Future
+  of Synteini. They urged pilots to do business at William Sargent Vision instead
+  of Lagerkvist Gateway to starve the ISA and push Senator Torval out of Synteini.
+  Lagerkvist Gateway orbits the second planet; William Sargent Vision orbits the fourth.
 ---
 
 <!-- AUTO-GENERATED -->

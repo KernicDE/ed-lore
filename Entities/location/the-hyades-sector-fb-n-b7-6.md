@@ -11,6 +11,10 @@ related_entities:
 - imperial-navy
 - hip-22460
 - hyades
+bio: The Hyades Sector FB-N b7-6 is a star system in the Elite Dangerous universe,
+  significant from 3308-11-28 to 3308-11-28. Associated with Federal Navy, Alliance.
+  The Hyades Sector FB-N b7-6 system has been identified as the location where the
+  rogue signal source named Taranis will finally arrive.
 ---
 
 <!-- AUTO-GENERATED -->

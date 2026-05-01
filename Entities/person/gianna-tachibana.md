@@ -6,6 +6,10 @@ first_seen_date: '3304-02-16'
 last_seen_date: '3304-02-16'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Gianna%20Tachibana
+bio: Gianna Tachibana is a senator in the Elite Dangerous universe, active from 3304-02-16
+  to 3304-02-16. Closely associated with Aegis, Imperial Herald. As Thargoid attacks
+  continue in the Pleiades, Imperial Senator Gianna Tachibana has criticized the lack
+  of an effective military response.
 ---
 
 

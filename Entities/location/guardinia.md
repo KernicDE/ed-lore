@@ -10,6 +10,9 @@ related_entities:
 - aramzahd-empire-party
 - aramzahd
 - normanmaviss-bingo-palace
+bio: 'Guardinia is a star system in the Elite Dangerous universe, significant from
+  3302-10-13 to 3302-10-13. Associated with Aramzahd Empire Party, Annual Galactic
+  Games Organisation. '
 ---
 
 <!-- AUTO-GENERATED -->

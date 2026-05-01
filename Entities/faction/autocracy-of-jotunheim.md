@@ -11,6 +11,11 @@ related_entities:
 - jotunheim
 - big-harrys-monkey-hangout
 inara_url: https://inara.cz/elite/minorfaction/?search=Autocracy%20of%20Jotunheim
+bio: Autocracy of Jotunheim is a organization in the Elite Dangerous universe, active
+  from 3303-06-02 to 3303-06-09. Frequently linked with Revolutionary Jotunheim Resistance,
+  Yum Kamcabi Purple Life Industry, Jotunheim. The Revolutionary Jotunheim Resistance
+  successfully drove the Autocracy of Jotunheim from the system, with significant
+  material support from Jasmina Halsey.
 ---
 
 

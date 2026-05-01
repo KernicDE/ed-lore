@@ -9,6 +9,9 @@ related_entities:
 - the-children-of-raxxla
 - federation
 - hr-6421
+bio: Sereborv Terminal is a star system in the Elite Dangerous universe, significant
+  from 3302-12-01 to 3302-12-01. Associated with Federation, The Children of Raxxla.
+  Contributing pilots can now collect rewards at Sereborv Terminal in HR 6421.
 ---
 
 <!-- AUTO-GENERATED -->

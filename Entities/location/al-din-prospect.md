@@ -11,6 +11,8 @@ related_entities:
 - halbangaay
 - 49-arietis
 - 64-arietis
+bio: 'al-Din Prospect is a star system in the Elite Dangerous universe, significant
+  from 3302-01-20 to 3302-02-24. '
 ---
 
 <!-- AUTO-GENERATED -->

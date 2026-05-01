@@ -6,6 +6,10 @@ first_seen_date: '3301-03-20'
 last_seen_date: '3301-03-20'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=President%20Vondell
+bio: President Vondell is a president in the Elite Dangerous universe, active from
+  3301-03-20 to 3301-03-20. Closely associated with Gold Vision Company, 8th Dragon
+  Squadron. President Vondell praised the 8th Dragon Squadron and promised peace and
+  prosperity for Eta Draconis.
 ---
 
 

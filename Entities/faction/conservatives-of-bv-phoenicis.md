@@ -12,6 +12,11 @@ related_entities:
 - eotienses
 - kui-hsien
 inara_url: https://inara.cz/elite/minorfaction/?search=Conservatives%20of%20BV%20Phoenicis
+bio: Conservatives of BV Phoenicis is a organization in the Elite Dangerous universe,
+  active from 3301-04-20 to 3301-04-20. Frequently linked with Friends of Kui Hsien,
+  Kui Hsien, Eotienses. Despite local traders' efforts to stimulate the economy, Patreus
+  authorised the Conservatives of BV Phoenicis to begin forfeiture. Imperial mercenaries
+  can sign up for reclamation duty aboard Aoki Dock in BV Phoenicis.
 ---
 
 

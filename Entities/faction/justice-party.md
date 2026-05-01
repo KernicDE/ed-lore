@@ -12,6 +12,13 @@ related_entities:
 - forrester-station
 - rhea
 inara_url: https://inara.cz/elite/minorfaction/?search=Justice%20Party
+bio: Justice Party is a organization in the Elite Dangerous universe, active from
+  3301-07-19 to 3301-07-31. Frequently linked with BD-22 3573, Federal Intelligence
+  Agency. No official statement was made, but speculation centres on his close relations
+  with local rulers King Justice II of the Justice Party and Supreme Leader Anxo Lino
+  of BD-22 3573 Flag. Marling presented evidence that Xander received financial support
+  from local leaders King Justice II and Supreme Leader Anxo Lino, causing a dramatic
+  decrease in Federation popularity in the sector.
 ---
 
 

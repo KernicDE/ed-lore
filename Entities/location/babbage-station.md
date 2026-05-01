@@ -11,6 +11,11 @@ related_entities:
 - camorra-of-krisha
 - krisha-systems-corporation
 - new-gandii-democrats
+bio: Babbage Station is a starport in the Elite Dangerous universe, significant from
+  3301-06-12 to 3301-06-12. Associated with Kumo Crew, Krisha Systems Corporation,
+  New Gandii Democrats. The Hand Gang fared better, establishing themselves as a credible
+  threat at Babbage Station in Gandii, causing the New Gandii Democrats to reconsider
+  opposing Archon Delaine.
 ---
 
 <!-- AUTO-GENERATED -->

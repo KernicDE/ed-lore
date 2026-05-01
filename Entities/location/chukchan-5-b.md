@@ -11,6 +11,11 @@ related_entities:
 - alliance-salvage-guild
 - azimuth-biochemicals
 - pharmasapien
+bio: Chukchan 5 b is a star system in the Elite Dangerous universe, significant from
+  3307-04-08 to 3307-04-19. Associated with Pilots Federation, Pharmasapien. A dormant
+  communications beacon aboard the 200-year-old ghost ship Adamastor in the Chukchan
+  system suddenly activates, receiving and rebroadcasting an encrypted interstellar
+  signal.
 ---
 
 <!-- AUTO-GENERATED -->

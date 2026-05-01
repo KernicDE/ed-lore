@@ -10,6 +10,8 @@ related_entities:
 - jaques-station
 - gliese-1269
 - beagle-point
+bio: 'Eol Prou AA-A H89 Nebula is a region in the Elite Dangerous universe, significant
+  from 3302-06-29 to 3302-06-29. '
 ---
 
 <!-- AUTO-GENERATED -->

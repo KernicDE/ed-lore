@@ -12,6 +12,12 @@ related_entities:
 - pilots-federation
 - vista-genomics
 inara_url: https://inara.cz/elite/minorfaction/?search=Exogene%20Sciences
+bio: Exogene Sciences is a organization in the Elite Dangerous universe, active from
+  3312-04-30 to 3312-04-30. Frequently linked with HIP 87621, October Consortium,
+  Pilots Federation. Exogene Sciences in HIP 87621 reported that the volume and variety
+  of artefacts recovered by independent pilots across the galaxy will greatly accelerate
+  the Consortium's exobiology research. Lexi October praised participating pilots
+  and confirmed that contributors can now collect their rewards at Exogene Sciences.
 ---
 
 

@@ -11,6 +11,10 @@ related_entities:
 - alioth
 - 78-ursae-majoris-for-equality-party
 - townshend-hub
+bio: Seddon Gateway is a star system in the Elite Dangerous universe, significant
+  from 3301-05-09 to 3301-05-15. Associated with Alioth Independents. Residents of
+  78 Ursae Majoris prepared Seddon Gateway for President Halsey's visit with festivities
+  and cultural displays.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -10,6 +10,11 @@ related_entities:
 - bacon-city
 - united-carnoeck-for-equality
 inara_url: https://inara.cz/elite/minorfaction/?search=Bacon%20Cats
+bio: Bacon Cats is a organization in the Elite Dangerous universe, active from 3301-10-02
+  to 3301-10-08. Frequently linked with Carnoeck, Bacon City, United Carnoeck for
+  Equality. The Bacon Cats cooperative announced plans for a major celebration commemorating
+  the anniversary of the 'Bacon Protests' in the Carnoeck system. The event will feature
+  historic exhibits, free bacon, and libations for all visitors.
 ---
 
 

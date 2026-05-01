@@ -18,6 +18,10 @@ economy: Terraforming
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Frenis
 inara_url: https://inara.cz/elite/starsystem/?search=Frenis
+bio: Frenis is a star system in the Elite Dangerous universe, significant from 3310-10-29
+  to 3310-10-29. Treasure hunter Herman Colt goes missing during an expedition to
+  find Captain Morrigan's final treasure hoard near Frenis, prompting concern from
+  colleague Natasha Moore.
 ---
 
 

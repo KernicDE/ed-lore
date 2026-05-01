@@ -11,6 +11,11 @@ related_entities:
 - coalition-of-uteran
 - gluscap-labour
 - pilots-federation
+bio: Fortress Liberty megaship is a star system in the Elite Dangerous universe, significant
+  from 3307-07-01 to 3307-07-30. Associated with Gluscap Labour, Azaladshu Free, Federal
+  Congress. President Hudson orders her to abide by constitutional law and redirects
+  the Fortress Liberty megaship to Kuwembaa. President Hudson orders Neche Inc to
+  engage the secessionists, deploying the Fortress Liberty megaship.
 ---
 
 <!-- AUTO-GENERATED -->

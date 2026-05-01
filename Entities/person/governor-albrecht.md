@@ -6,6 +6,9 @@ first_seen_date: '3301-10-06'
 last_seen_date: '3301-10-06'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Governor%20Albrecht
+bio: Governor Albrecht is a scientist in the Elite Dangerous universe, active from
+  3301-10-06 to 3301-10-06. A memorial was unveiled at Hart Station in Bast by Governor
+  Albrecht to honor the over 100,000 victims of the devastating outbreak.
 ---
 
 

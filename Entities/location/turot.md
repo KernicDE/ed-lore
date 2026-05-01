@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Turot
 inara_url: https://inara.cz/elite/starsystem/?search=Turot
+bio: 'Turot is a star system in the Elite Dangerous universe, significant from 3302-07-18
+  to 3302-07-18. Associated with Buckyball Racing Club, Ex Luna Scientia. '
 ---
 
 

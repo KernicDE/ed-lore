@@ -6,6 +6,8 @@ first_seen_date: '3302-07-21'
 last_seen_date: '3302-07-21'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Captain%20Alexis%20Corvus
+bio: 'Captain Alexis Corvus is a prominent figure in the Elite Dangerous universe,
+  active from 3302-07-21 to 3302-07-21. Closely associated with Imperial Senate. '
 ---
 
 

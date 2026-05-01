@@ -24,6 +24,8 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=CAO%20Junga
 inara_url: https://inara.cz/elite/starsystem/?search=CAO%20Junga
+bio: 'CAO Junga is a star system in the Elite Dangerous universe, significant from
+  3301-03-12 to 3301-03-12. Associated with Sirius Corporation. '
 ---
 
 

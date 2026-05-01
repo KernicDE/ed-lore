@@ -8,6 +8,8 @@ mention_count: 2
 related_entities:
 - guuguyni-empire-consulate
 - guuguyni
+bio: 'Shen Terminal is a star system in the Elite Dangerous universe, significant
+  from 3304-01-19 to 3304-01-26. Associated with Guuguyni Empire Consulate. '
 ---
 
 <!-- AUTO-GENERATED -->

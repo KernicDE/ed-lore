@@ -9,6 +9,10 @@ related_entities:
 - pleiades-resource-enterprise
 - ant-hill-mob
 - maia
+bio: Maia Point is a star system in the Elite Dangerous universe, significant from
+  3302-11-01 to 3302-11-01. Associated with Ant Hill Mob, Pleiades Resource Enterprise.
+  The Pleiades Resource Enterprise has successfully overcome resistance from the Ant
+  Hill Mob to gain a foothold in the Maia system.
 ---
 
 <!-- AUTO-GENERATED -->

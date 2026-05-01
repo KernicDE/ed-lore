@@ -6,6 +6,11 @@ first_seen_date: '3301-10-13'
 last_seen_date: '3301-10-13'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Mike%20Juliett%20Kilo
+bio: Mike Juliett Kilo is a commander in the Elite Dangerous universe, active from
+  3301-10-13 to 3301-10-13. Closely associated with Canonn Interstellar Research Group.
+  Commander Mike Juliett Kilo made the breakthrough by feeding a pre-recorded AEO
+  signal into an antique scanner display, revealing a Vulture schematic matching his
+  own ship at the time.
 ---
 
 

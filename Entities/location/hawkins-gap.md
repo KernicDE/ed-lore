@@ -11,6 +11,12 @@ related_entities:
 - imperial-citizen
 - cemiess
 - prism
+bio: Hawkin's Gap is a star system in the Elite Dangerous universe, significant from
+  3302-08-23 to 3303-02-03. Associated with Children of Raxxla. In her final transmission,
+  she linked the Rift, Hawkin's Gap, and the Conflux to strange happenings in the
+  Pleiades before communications were lost. The Children of Raxxla release an analysis
+  of exploration data revealing the Dynasty Project, a covert mission in the 3270s
+  to install beacons in the Formidine Rift, Conflux and Hawkin's Gap.
 ---
 
 <!-- AUTO-GENERATED -->

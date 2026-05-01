@@ -10,6 +10,12 @@ related_entities:
 - sagan-port
 - mundjiga-system
 inara_url: https://inara.cz/elite/minorfaction/?search=Mundjiga%20Patrons%20of%20Law
+bio: Mundjiga Patrons of Law is a organization in the Elite Dangerous universe, active
+  from 3302-04-21 to 3302-04-28. Frequently linked with Mundjiga system, Sagan Port,
+  Imperial Navy. Lieutenant Severin calls for loyal Imperial pilots to deliver supplies
+  to Sagan Port in the Mundjiga system. The Mundjiga Patrons of Law coordinated the
+  construction effort, with the galactic community delivering thousands of tonnes
+  of essential materials to Sagan Port.
 ---
 
 

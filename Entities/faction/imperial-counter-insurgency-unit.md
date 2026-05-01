@@ -10,6 +10,9 @@ related_entities:
 - wilkes-orbital
 - achenar
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20counter-insurgency%20unit
+bio: 'Imperial counter-insurgency unit is a organization in the Elite Dangerous universe,
+  active from 3302-03-24 to 3302-03-24. Frequently linked with Blue Hand Gang, Professor
+  Palin, Achenar. '
 ---
 
 

@@ -10,6 +10,11 @@ related_entities:
 - gold-advanced-partners
 - banki
 inara_url: https://inara.cz/elite/minorfaction/?search=Banki%20Gold%20Gang
+bio: Banki Gold Gang is a criminal in the Elite Dangerous universe, active from 3301-03-09
+  to 3301-03-09. Frequently linked with Gold Advanced Partners, Federal Navy, Banki.
+  The Federation won the war in Banki by offering greater incentives to commanders,
+  but survivors face a struggle for survival. The Banki Gold Gang suffered hundreds
+  killed and thousands wounded, with medical supplies stretched thin.
 ---
 
 

@@ -9,6 +9,12 @@ related_entities:
 - alpha-centauri
 - hutton-orbital
 inara_url: https://inara.cz/elite/minorfaction/?search=BlipMagnet
+bio: BlipMagnet is a organization in the Elite Dangerous universe, active from 3301-09-03
+  to 3301-09-18. Frequently linked with Hutton Orbital, Alpha Centauri. BlipMagnet's
+  Hutton Mug appeal proved highly successful, with thousands of independent pilots
+  delivering scrap materials to Hutton Orbital. BlipMagnet announced the Hutton Mug,
+  a commemorative beaker for pilots who complete the epic journey to Hutton Orbital,
+  located 0.22 light years from the nearest star in Alpha Centauri.
 ---
 
 

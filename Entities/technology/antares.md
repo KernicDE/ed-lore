@@ -6,6 +6,10 @@ first_seen_date: '3301-09-02'
 last_seen_date: '3301-09-02'
 mention_count: 1
 inara_url: https://inara.cz/elite/commodity/?search=Antares
+bio: Antares is a technology in the Elite Dangerous universe, mentioned from 3301-09-02
+  to 3301-09-02. Developed or used by Core Dynamics, George Fallside, Federal Times.
+  Core Dynamics responded to Federal Times allegations linking a board member to the
+  Highliner Antares incident.
 ---
 
 

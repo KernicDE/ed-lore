@@ -8,6 +8,10 @@ mention_count: 1
 related_entities:
 - kuun-lan
 - hip-104292
+bio: Lomonosov City is a star system in the Elite Dangerous universe, significant
+  from 3303-10-13 to 3303-10-13. Associated with Kuun-Lan. The Kuun-Lan's appeal for
+  commodities concluded successfully with a massive influx of deliveries to Lomonosov
+  City.
 ---
 
 <!-- AUTO-GENERATED -->

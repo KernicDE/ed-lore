@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=V886%20Centauri
 inara_url: https://inara.cz/elite/starsystem/?search=V886%20Centauri
+bio: 'V886 Centauri is a star system in the Elite Dangerous universe, significant
+  from 3310-12-06 to 3310-12-06. Associated with Wolf 359. '
 ---
 
 

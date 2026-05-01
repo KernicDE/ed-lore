@@ -11,6 +11,9 @@ related_entities:
 - 20-ophiuchi
 - thiel-port
 - crown-terminal
+bio: Finney Dock is a starport in the Elite Dangerous universe, significant from 3301-07-22
+  to 3301-07-22. Unavailable services include re-arming, market, bulletin board, docking,
+  shipyard, outfitting, and black market.
 ---
 
 <!-- AUTO-GENERATED -->

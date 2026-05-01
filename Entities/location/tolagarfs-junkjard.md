@@ -9,6 +9,8 @@ related_entities:
 - colonia-council
 - junkyard-dogs
 - eol-prou-lw-l-c8-215
+bio: 'Tolagarf''s Junkjard is a star system in the Elite Dangerous universe, significant
+  from 3303-05-19 to 3303-05-19. Associated with Colonia Council, Junkyard Dogs. '
 ---
 
 <!-- AUTO-GENERATED -->

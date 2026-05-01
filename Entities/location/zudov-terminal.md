@@ -9,6 +9,9 @@ related_entities:
 - saga-republic-party
 - saga
 - mars
+bio: Zudov Terminal is a star system in the Elite Dangerous universe, significant
+  from 3301-05-26 to 3301-05-26. Associated with Saga Republic Party. President Halsey
+  missed her scheduled meeting with Saga delegates aboard Zudov Terminal.
 ---
 
 <!-- AUTO-GENERATED -->

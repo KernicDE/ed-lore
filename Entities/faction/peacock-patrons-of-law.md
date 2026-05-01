@@ -9,6 +9,12 @@ related_entities:
 - peacock
 - phillips-dock
 inara_url: https://inara.cz/elite/minorfaction/?search=Peacock%20Patrons%20of%20Law
+bio: Peacock Patrons of Law is a organization in the Elite Dangerous universe, active
+  from 3303-02-09 to 3303-02-16. Frequently linked with Phillips Dock, Peacock. The
+  Peacock Patrons of Law place an open order for Robotics, Ion Distributors and Emergency
+  Power Cells to support their operations. The Peacock Patrons of Law's appeal for
+  robotics, ion distributors and emergency power cells concludes with a massive influx
+  of deliveries to Phillips Dock.
 ---
 
 

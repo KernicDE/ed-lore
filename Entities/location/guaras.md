@@ -22,6 +22,11 @@ economy: Industrial
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Guaras
 inara_url: https://inara.cz/elite/starsystem/?search=Guaras
+bio: Guaras is a star system in the Elite Dangerous universe, significant from 3303-12-22
+  to 3303-12-29. Associated with Core Dynamics, Guaras Blue Creative Partners. Guaras
+  Blue Creative Partners is overseeing the initiative, asking pilots to deliver titanium,
+  power converters, and superconductors. Hundreds of pilots delivered materials to
+  Klimuk Ring and eliminated agitators in the Guaras system.
 ---
 
 

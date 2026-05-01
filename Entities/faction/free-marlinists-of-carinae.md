@@ -12,6 +12,9 @@ related_entities:
 - nmla
 - marlin-standard
 inara_url: https://inara.cz/elite/minorfaction/?search=Free%20Marlinists%20of%20Carinae
+bio: 'Free Marlinists of Carinae is a organization in the Elite Dangerous universe,
+  active from 3307-12-16 to 3307-12-16. Frequently linked with Neo-Marlinist Order
+  of Mudhrid, NMLA, HIP 22550. '
 ---
 
 

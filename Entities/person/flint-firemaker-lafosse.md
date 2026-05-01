@@ -6,6 +6,11 @@ first_seen_date: '3306-12-28'
 last_seen_date: '3307-08-20'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Flint%20%27Firemaker%27%20Lafosse
+bio: Flint 'Firemaker' Lafosse is a pirate in the Elite Dangerous universe, active
+  from 3306-12-28 to 3307-08-20. Closely associated with Alliance, Sirius Corporation,
+  Sirius Atmospherics. Independent journalist Flint 'Firemaker' Lafosse begins broadcasting
+  Kit Fowler's conspiracy show End Times on the Rewired network, linking Black Flight
+  crimes to Thargoid cover-ups.
 ---
 
 

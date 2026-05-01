@@ -23,6 +23,8 @@ economy: Extraction
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Pallaeni
 inara_url: https://inara.cz/elite/starsystem/?search=Pallaeni
+bio: 'Pallaeni is a star system in the Elite Dangerous universe, significant from
+  3305-01-04 to 3305-05-02. Associated with Vox Galactica. '
 ---
 
 

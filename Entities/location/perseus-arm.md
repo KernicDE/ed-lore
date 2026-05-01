@@ -10,6 +10,8 @@ related_entities:
 - chi-orionis
 - formidine-rift
 - cassiopeia
+bio: 'Perseus Arm is a star system in the Elite Dangerous universe, significant from
+  3302-10-14 to 3302-10-14. Associated with Earth Expeditionary Fleet. '
 ---
 
 <!-- AUTO-GENERATED -->

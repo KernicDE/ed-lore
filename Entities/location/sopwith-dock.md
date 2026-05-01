@@ -8,6 +8,11 @@ mention_count: 2
 related_entities:
 - broadcast-cobra
 - hip-16038
+bio: Sopwith Dock is a starport in the Elite Dangerous universe, significant from
+  3304-10-04 to 3304-10-11. Associated with Broadcast Cobra. An open order is placed
+  for thorium, indium, and superconductors to be delivered to Sopwith Dock. Vast quantities
+  of thorium, indium, and superconductors were delivered to Sopwith Dock in the HIP
+  16038 system.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,12 @@ first_seen_date: '3307-09-23'
 last_seen_date: '3307-09-30'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Stanislav%20Kruger
+bio: Stanislav Kruger is a prominent figure in the Elite Dangerous universe, active
+  from 3307-09-23 to 3307-09-30. Closely associated with Saud Kruger. Saud Kruger
+  launches a campaign to identify new Earth-like worlds for Astrogator Tours holiday
+  cruises, offering rewards for exploration data and imagery. Saud Kruger successfully
+  collects enormous amounts of Earth-like world exploration data for Astrogator Tours,
+  with tourist beacons planned for promising destinations.
 ---
 
 

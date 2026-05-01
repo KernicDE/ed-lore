@@ -11,6 +11,8 @@ related_entities:
 - chun-pindit
 - tekkeitjal
 - hip-22460
+bio: 'Samuda Terminal is a star system in the Elite Dangerous universe, significant
+  from 3308-09-12 to 3308-09-29. Associated with Pilots Federation. '
 ---
 
 <!-- AUTO-GENERATED -->

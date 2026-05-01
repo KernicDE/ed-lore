@@ -6,6 +6,8 @@ first_seen_date: '3308-09-02'
 last_seen_date: '3308-09-02'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Kelly%20Eldridge
+bio: 'Kelly Eldridge is a commander in the Elite Dangerous universe, active from 3308-09-02
+  to 3308-09-02. Closely associated with Universal Cartographics. '
 ---
 
 

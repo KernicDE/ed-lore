@@ -12,6 +12,9 @@ related_entities:
 - pilots-federation
 - chukchan-5-b
 inara_url: https://inara.cz/elite/minorfaction/?search=Pharmasapien
+bio: 'Pharmasapien is a organization in the Elite Dangerous universe, active from
+  3307-04-08 to 3308-06-23. Frequently linked with Chukchan, Azimuth Biochemicals,
+  Chukchan 5 b. '
 ---
 
 

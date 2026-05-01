@@ -12,6 +12,10 @@ related_entities:
 - on-t-b3-3
 - on-t-b3-4
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20research%20team
+bio: Federal research team is a research in the Elite Dangerous universe, active from
+  3302-02-18 to 3302-02-18. Frequently linked with ON-T B3-2, ON-T B3-1, ON-T B3-4.
+  Researchers believe the front of the ship may have suffered less damage, meaning
+  some crew might have reached escape pods.
 ---
 
 

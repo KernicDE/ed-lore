@@ -24,6 +24,10 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Amarak
 inara_url: https://inara.cz/elite/starsystem/?search=Amarak
+bio: Amarak is a star system in the Elite Dangerous universe, significant from 3302-03-16
+  to 3302-03-16. Associated with Adle's Armada, Blood Brothers, Contrail. Competitors
+  included Blood Brothers from Alrai, Ronin of Amarak, Triadius, Contrail, and the
+  Balkan Intergalactic Guerrillas.
 ---
 
 

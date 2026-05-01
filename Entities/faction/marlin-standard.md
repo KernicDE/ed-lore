@@ -12,6 +12,11 @@ related_entities:
 - federal-times
 - imperial-herald
 inara_url: https://inara.cz/elite/minorfaction/?search=Marlin%20Standard
+bio: Marlin Standard is a organization in the Elite Dangerous universe, active from
+  3307-07-05 to 3307-12-16. Frequently linked with NMLA, Imperial Senate, Marlinism
+  Reformation Party. The NMLA officially confirms the Marlinism Reformation Party
+  as its political representative. The Marlin Standard reports widespread unrest among
+  Marlinists over the NMLA using their parliament as a platform.
 ---
 
 

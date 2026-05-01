@@ -12,6 +12,11 @@ related_entities:
 - winters-wolves
 - smoot-station
 inara_url: https://inara.cz/elite/minorfaction/?search=Aisling%27s%2013th%20Legion
+bio: Aisling's 13th Legion is a organization in the Elite Dangerous universe, active
+  from 3301-07-06 to 3301-08-03. Frequently linked with Chona, Ugain. Aisling Duval's
+  supporters formed the Thirteenth Legion under Commander Andariel to combat interdiction
+  and harassment of humanitarian supply runs. The Thirteenth Legion established its
+  base on Chona.
 ---
 
 

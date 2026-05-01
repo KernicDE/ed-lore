@@ -10,6 +10,8 @@ related_entities:
 - faust-68
 - dickensport
 - fomalhaut
+bio: 'Slipher Hub is a star system in the Elite Dangerous universe, significant from
+  3301-11-04 to 3301-11-04. '
 ---
 
 <!-- AUTO-GENERATED -->

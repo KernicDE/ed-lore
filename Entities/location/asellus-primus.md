@@ -24,6 +24,13 @@ economy: Extraction
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Asellus%20Primus
 inara_url: https://inara.cz/elite/starsystem/?search=Asellus%20Primus
+bio: Asellus Primus is a star system in the Elite Dangerous universe, significant
+  from 3303-06-30 to 3303-07-07. Associated with Pilots Federation, Adle's Armada.
+  The Pilots Federation announced a peacekeeping initiative centred on the LHS 3447,
+  Eravate and Asellus Primus systems to minimise criminal activity and ensure the
+  safety of inexperienced pilots. The Pilots Federation announces the successful conclusion
+  of its campaign to clear agitators from the LHS 3447, Eravate and Asellus Primus
+  systems.
 ---
 
 

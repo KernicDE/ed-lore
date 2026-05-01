@@ -9,6 +9,13 @@ related_entities:
 - tchernobog
 - vancouver-ring
 inara_url: https://inara.cz/elite/minorfaction/?search=Tchernobog%20Free
+bio: Tchernobog Free is a organization in the Elite Dangerous universe, active from
+  3302-11-24 to 3302-12-01. Frequently linked with Tchernobog, Vancouver Ring. Tchernobog
+  Free, a retail conglomerate based in the Tchernobog system, has placed an open order
+  for domestic appliances, clothing and consumer technology to meet one-day offer
+  demand. Tchernobog Free's appeal for consumer goods was enthusiastically received,
+  with pilots delivering huge quantities to Vancouver Ring to meet high demand from
+  recent one-day deals.
 ---
 
 

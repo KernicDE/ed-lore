@@ -11,6 +11,8 @@ related_entities:
 - liberal-party
 - dahan
 - dahan-gateway
+bio: 'Whitson Hub is a star system in the Elite Dangerous universe, significant from
+  3301-06-10 to 3301-06-10. Associated with Alliance. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,11 @@ related_entities:
 - alliance
 - emperors-dawn
 - federal-times
+bio: London Relay is a star system in the Elite Dangerous universe, significant from
+  3301-11-05 to 3301-11-11. Associated with Revolution Incorporated, Emperor's Dawn,
+  Alliance. Authorities at London Relay in Epsilon Indi report a dramatic spike in
+  smuggling linked to 'Revolution Incorporated' requesting explosives, coinciding
+  with the upcoming security summit.
 ---
 
 <!-- AUTO-GENERATED -->

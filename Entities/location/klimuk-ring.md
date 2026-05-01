@@ -9,6 +9,11 @@ related_entities:
 - core-dynamics
 - guaras
 - guaras-blue-creative-partners
+bio: Klimuk Ring is a star system in the Elite Dangerous universe, significant from
+  3303-12-22 to 3303-12-29. Associated with Core Dynamics, Guaras Blue Creative Partners.
+  Hundreds of pilots delivered materials to Klimuk Ring and eliminated agitators in
+  the Guaras system. The materials will support a new wave of manufacturing to replace
+  ships lost in Thargoid attacks.
 ---
 
 <!-- AUTO-GENERATED -->

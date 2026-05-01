@@ -11,6 +11,11 @@ related_entities:
 - imperial-palace
 - hall-of-martyrs
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Intelligence%20Security%20Service
+bio: Imperial Intelligence Security Service is a organization in the Elite Dangerous
+  universe, active from 3301-08-06 to 3301-08-07. Frequently linked with Imperial
+  Palace, Capitol, Imperial Guard. The Hall of Martyrs, constructed over 600 years
+  ago beneath the Imperial Palace, contains 16,032 obsidian pillars and is open only
+  during mourning periods.
 ---
 
 

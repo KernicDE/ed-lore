@@ -17,6 +17,8 @@ coords:
   z: 51.8125
 edsm_url: https://www.edsm.net/en/system?search=Mizuchi
 inara_url: https://inara.cz/elite/starsystem/?search=Mizuchi
+bio: 'Mizuchi is a star system in the Elite Dangerous universe, significant from 3307-04-02
+  to 3307-04-02. '
 ---
 
 

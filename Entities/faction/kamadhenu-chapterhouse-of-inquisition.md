@@ -10,6 +10,12 @@ related_entities:
 - shajn-market
 - colonia-council
 inara_url: https://inara.cz/elite/minorfaction/?search=Kamadhenu%20Chapterhouse%20of%20Inquisition
+bio: Kamadhenu Chapterhouse of Inquisition is a organization in the Elite Dangerous
+  universe, active from 3303-08-25 to 3303-09-15. Frequently linked with Shajn Market,
+  Kamadhenu, Colonia Council. The Kamadhenu Chapterhouse of Inquisition plans to establish
+  three starports between the core systems and Colonia to create the Blue Star Line
+  freight and passenger service. The organisation has placed an open order for gold,
+  robotics and auto-fabricators for delivery to Shajn Market in the Kamadhenu system.
 ---
 
 

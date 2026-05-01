@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Coritab
 inara_url: https://inara.cz/elite/starsystem/?search=Coritab
+bio: 'Coritab is a star system in the Elite Dangerous universe, significant from 3302-09-01
+  to 3302-09-02. Associated with United Research Council. '
 ---
 
 

@@ -11,6 +11,10 @@ related_entities:
 - zaonce
 - heike
 - eotienses
+bio: Brunel Station is a starport in the Elite Dangerous universe, significant from
+  3301-08-26 to 3301-08-26. Associated with Emperor's Dawn, Interstellar Press. Brunel
+  Station in the Heike system is experiencing a tenfold increase in traffic, with
+  nearly 750 ships docking in 24 hours.
 ---
 
 <!-- AUTO-GENERATED -->

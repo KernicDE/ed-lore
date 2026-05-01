@@ -15,6 +15,10 @@ coords:
   z: -7428.4375
 edsm_url: https://www.edsm.net/en/system?search=Syreadiae%20JX-F%20c0
 inara_url: https://inara.cz/elite/starsystem/?search=Syreadiae%20JX-F%20c0
+bio: Syreadiae JX-F c0 is a star system in the Elite Dangerous universe, significant
+  from 3303-04-27 to 3303-04-27. Associated with Children of Raxxla, The Hamsters.
+  A decoded message led pilots to the Syreadiae JX-F c0 system in the Formidine Rift,
+  where the bulk cruiser Zurara was discovered with its crew dead from self-sabotage.
 ---
 
 

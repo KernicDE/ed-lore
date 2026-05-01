@@ -9,6 +9,8 @@ related_entities:
 - jaques-station
 - beagle-point
 inara_url: https://inara.cz/elite/minorfaction/?search=Institute%20for%20Galactic%20Exploration%20and%20Research
+bio: 'Institute for Galactic Exploration and Research is a research in the Elite Dangerous
+  universe, active from 3302-11-26 to 3302-11-26. Frequently linked with Beagle Point. '
 ---
 
 

@@ -11,6 +11,8 @@ related_entities:
 - bd03-2338
 - antonio-de-andrade-vista
 - khasiri
+bio: 'Matteucci Terminal is a star system in the Elite Dangerous universe, significant
+  from 3301-02-13 to 3301-02-13. Associated with Federal Navy. '
 ---
 
 <!-- AUTO-GENERATED -->

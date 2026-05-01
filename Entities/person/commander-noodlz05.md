@@ -6,6 +6,9 @@ first_seen_date: '3303-02-13'
 last_seen_date: '3303-02-13'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Noodlz05
+bio: Commander Noodlz05 is a commander in the Elite Dangerous universe, active from
+  3303-02-13 to 3303-02-13. Commander Noodlz05 and wingmates are specifically thanked
+  for their contributions.
 ---
 
 

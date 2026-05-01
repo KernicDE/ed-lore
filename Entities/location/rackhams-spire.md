@@ -9,6 +9,8 @@ related_entities:
 - federal-times
 - beta-hydri
 - homeland
+bio: 'Rackham''s Spire is a star system in the Elite Dangerous universe, significant
+  from 3308-04-15 to 3308-04-15. Associated with Federal Times. '
 ---
 
 <!-- AUTO-GENERATED -->

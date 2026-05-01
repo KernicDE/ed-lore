@@ -11,6 +11,10 @@ related_entities:
 - citizen-party-of-g146-60
 - workers-party-of-g-176-29
 inara_url: https://inara.cz/elite/minorfaction/?search=Graill%20Redd%20Liberals
+bio: Graill Redd Liberals is a organization in the Elite Dangerous universe, active
+  from 3302-06-30 to 3302-07-07. Frequently linked with J. G. Ballard Gateway, Graill
+  Redd, Workers Party of G 176-29. The Graill Redd Liberals have successfully cleared
+  the Graill Redd system of agitators with the help of hundreds of pilots.
 ---
 
 

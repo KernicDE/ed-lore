@@ -9,6 +9,8 @@ related_entities:
 - epsilon-indi
 - mitterand-hollow
 - sol
+bio: 'Crab Nebula is a region in the Elite Dangerous universe, significant from 3302-06-17
+  to 3302-06-17. '
 ---
 
 <!-- AUTO-GENERATED -->

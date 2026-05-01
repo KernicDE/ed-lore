@@ -11,6 +11,10 @@ related_entities:
 - conservatives-of-bv-phoenicis
 - eotienses-silver-universal-plc
 - eotienses
+bio: Aoki Dock is a starport in the Elite Dangerous universe, significant from 3301-04-20
+  to 3301-04-20. Associated with Friends of Kui Hsien, Conservatives of BV Phoenicis,
+  Future of LTT 911 Party. Imperial mercenaries can sign up for reclamation duty aboard
+  Aoki Dock in BV Phoenicis.
 ---
 
 <!-- AUTO-GENERATED -->

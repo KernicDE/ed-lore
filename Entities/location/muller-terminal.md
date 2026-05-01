@@ -9,6 +9,8 @@ related_entities:
 - aegis
 - maelstrom
 - sirius-corporation
+bio: 'Muller Terminal is a star system in the Elite Dangerous universe, significant
+  from 3309-05-25 to 3309-09-14. Associated with Aegis, Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

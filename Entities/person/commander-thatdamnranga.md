@@ -6,6 +6,8 @@ first_seen_date: '3302-03-17'
 last_seen_date: '3302-03-17'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20ThatDamnRanga
+bio: 'Commander ThatDamnRanga is a commander in the Elite Dangerous universe, active
+  from 3302-03-17 to 3302-03-17. Closely associated with Alliance. '
 ---
 
 

@@ -12,6 +12,11 @@ related_entities:
 - lhs-3447
 - eravate
 inara_url: https://inara.cz/elite/minorfaction/?search=Asellus%20Primus%20Gold%20Legal%20Ind.
+bio: Asellus Primus Gold Legal Ind. is a organization in the Elite Dangerous universe,
+  active from 3303-06-30 to 3303-06-30. Frequently linked with Adle's Armada, LHS
+  3447 Dynamic and Co, Cleve Hub. The Pilots Federation announced a peacekeeping initiative
+  centred on the LHS 3447, Eravate and Asellus Primus systems to minimise criminal
+  activity and ensure the safety of inexperienced pilots.
 ---
 
 

@@ -9,6 +9,9 @@ related_entities:
 - alliance
 - lhs-2936-alliance-combine
 - lhs-2936-system
+bio: Fraser Orbital is a starport in the Elite Dangerous universe, significant from
+  3302-02-04 to 3302-02-11. Associated with LHS 2936 Alliance Combine, Alliance. Contributors
+  will receive discounts at Fraser Orbital shipyard in addition to financial reimbursements.
 ---
 
 <!-- AUTO-GENERATED -->

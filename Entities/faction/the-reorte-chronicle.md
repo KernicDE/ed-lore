@@ -8,6 +8,11 @@ mention_count: 1
 related_entities:
 - sol
 inara_url: https://inara.cz/elite/minorfaction/?search=The%20Reorte%20Chronicle
+bio: The Reorte Chronicle is a organization in the Elite Dangerous universe, active
+  from 3301-02-22 to 3301-02-22. Frequently linked with Sol. Commander Sheehy of The
+  Reorte Chronicle warns all pilots to always check rebuy costs before launching,
+  noting that 200,000 credits is insufficient to cover a premium vessel's replacement
+  cost.
 ---
 
 

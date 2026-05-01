@@ -11,6 +11,8 @@ related_entities:
 - pilots-federation
 - delphi
 - hip-18390
+bio: 'Fort Xeno is a star system in the Elite Dangerous universe, significant from
+  3307-05-13 to 3307-05-13. Associated with Kumo Crew, Pilots Federation. '
 ---
 
 <!-- AUTO-GENERATED -->

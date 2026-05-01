@@ -10,6 +10,12 @@ related_entities:
 - gabriel-enterprise
 - earth
 inara_url: https://inara.cz/elite/minorfaction/?search=Harma%20Silver%20Cartel
+bio: Harma Silver Cartel is a criminal in the Elite Dangerous universe, active from
+  3303-07-28 to 3303-08-04. Frequently linked with Harma, Gabriel Enterprise, Earth.
+  The Harma Silver Cartel announces plans to recreate rum using a 24th-century recipe
+  discovered in a time capsule, placing an open order for rare alcohols. Pirate organisations
+  in the Harma system have threatened to blockade Gabriel Enterprise and attack delivery
+  pilots.
 ---
 
 

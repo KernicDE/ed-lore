@@ -12,6 +12,12 @@ related_entities:
 - sol
 - ridley-scott
 inara_url: https://inara.cz/elite/minorfaction/?search=Silver%20United%20Solutions
+bio: Silver United Solutions is a organization in the Elite Dangerous universe, active
+  from 3301-05-02 to 3301-05-05. Frequently linked with Zaonce, Old Worlds, Pilots
+  Federation. Silver United Solutions deputised 5,535 pilots over a weekend to crush
+  the Zaonce Jet Gang and other pirate crews terrorising the Old Worlds. To celebrate,
+  Silver United organised a discount on all Faulcon DeLacy ships at Ridley Scott Station,
+  including a limited number of Pythons.
 ---
 
 

@@ -8,6 +8,9 @@ mention_count: 1
 related_entities:
 - alliance
 - sirius-corporation
+bio: The Andecavi is a star system in the Elite Dangerous universe, significant from
+  3308-10-06 to 3308-10-06. Associated with Sirius Corporation, Alliance. The Alliance
+  has deployed a reactionary task force to defend the Andecavi system from the Thargoids.
 ---
 
 <!-- AUTO-GENERATED -->

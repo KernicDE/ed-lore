@@ -11,6 +11,9 @@ related_entities:
 - mictlan-cartel
 - facece
 - nehet
+bio: Gutierrez Terminal is a star system in the Elite Dangerous universe, significant
+  from 3301-04-16 to 3301-04-16. Associated with Mictlan Cartel. Commanders can sign
+  up at Heinkel City in Almad and Gutierrez Terminal in LTT 9810.
 ---
 
 <!-- AUTO-GENERATED -->

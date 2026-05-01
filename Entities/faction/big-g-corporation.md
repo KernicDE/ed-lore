@@ -12,6 +12,10 @@ related_entities:
 - khona
 - dohkwithi
 inara_url: https://inara.cz/elite/minorfaction/?search=Big%20G%20Corporation
+bio: Big G Corporation is a corporate in the Elite Dangerous universe, active from
+  3301-03-03 to 3301-03-03. Frequently linked with Hip 54692, Dohkwithi, Milelbis.
+  The Big G Corporation and the Alliance of Independent Systems announced that a dozen
+  planets in the Alliance terraforming programme are ready for final biochemical transformation.
 ---
 
 

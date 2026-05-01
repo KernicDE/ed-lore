@@ -11,6 +11,9 @@ related_entities:
 - hammer-arms
 - adles-armada
 - labour-party-of-caill-reddi
+bio: 'Jones Orbital is a starport in the Elite Dangerous universe, significant from
+  3301-07-16 to 3301-07-16. Associated with Adle''s Armada, Hammer Arms, League of
+  Hel. '
 ---
 
 <!-- AUTO-GENERATED -->

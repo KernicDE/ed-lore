@@ -11,6 +11,9 @@ related_entities:
 - ienpalang-corporation
 - zibal
 - ienpalang
+bio: 'Brundage City is a star system in the Elite Dangerous universe, significant
+  from 3304-07-20 to 3304-07-27. Associated with Ienpalang Corporation, Zibal Power
+  Co. '
 ---
 
 <!-- AUTO-GENERATED -->

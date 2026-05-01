@@ -11,6 +11,10 @@ related_entities:
 - george-lucas-station
 - altair
 - sol
+bio: Solo Orbiter is a star system in the Elite Dangerous universe, significant from
+  3302-04-25 to 3302-04-25. Associated with Buckyball Racing Club. Participants will
+  depart from George Lucas in Leesti, visit every station named 'Kessel', and finish
+  at Solo Orbiter in Altair.
 ---
 
 <!-- AUTO-GENERATED -->

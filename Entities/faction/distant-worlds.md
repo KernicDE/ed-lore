@@ -10,6 +10,13 @@ related_entities:
 - alrai
 - ngc-1981-sector-zu-y-d27
 inara_url: https://inara.cz/elite/minorfaction/?search=Distant%20Worlds
+bio: Distant Worlds is a organization in the Elite Dangerous universe, active from
+  3312-01-08 to 3312-01-17. Frequently linked with Alrai, Deep Space Surveys, NGC
+  1981 Sector ZU-Y d27. The Distant Worlds working group issues a community appeal
+  for mined and manufactured materials to construct a new deep-space facility beyond
+  established survey routes. The Distant Worlds construction material appeal concludes
+  successfully, with target quotas for power generators, bertrandite, and thermal
+  cooling units met ahead of schedule.
 ---
 
 

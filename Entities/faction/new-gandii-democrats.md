@@ -12,6 +12,12 @@ related_entities:
 - krisha-systems-corporation
 - gandii
 inara_url: https://inara.cz/elite/minorfaction/?search=New%20Gandii%20Democrats
+bio: New Gandii Democrats is a organization in the Elite Dangerous universe, active
+  from 3301-06-12 to 3301-06-12. Frequently linked with Krisha, Kumo Crew, Babbage
+  Station. The Hand Gang of Gandii and Camorra of Krisha's call for Kumo Crew allies
+  yielded disappointing recruitment. The Hand Gang fared better, establishing themselves
+  as a credible threat at Babbage Station in Gandii, causing the New Gandii Democrats
+  to reconsider opposing Archon Delaine.
 ---
 
 

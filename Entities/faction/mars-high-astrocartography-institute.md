@@ -8,6 +8,9 @@ mention_count: 1
 related_entities:
 - hip-16497
 inara_url: https://inara.cz/elite/minorfaction/?search=Mars%20High%20Astrocartography%20Institute
+bio: Mars High Astrocartography Institute is a research in the Elite Dangerous universe,
+  active from 3303-02-25 to 3303-02-25. Frequently linked with HIP 16497. Kate Panamen
+  of the Mars High Astrocartography Institute calls the event peculiar.
 ---
 
 

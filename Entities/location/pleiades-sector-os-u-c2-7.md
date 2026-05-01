@@ -19,6 +19,8 @@ economy: None
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20OS-U%20c2-7
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20OS-U%20c2-7
+bio: 'Pleiades Sector OS-U c2-7 is a star system in the Elite Dangerous universe,
+  significant from 3303-06-28 to 3303-06-28. '
 ---
 
 

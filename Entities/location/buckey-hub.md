@@ -11,6 +11,8 @@ related_entities:
 - anduliga
 - achenar
 - alioth
+bio: 'Buckey Hub is a star system in the Elite Dangerous universe, significant from
+  3301-12-30 to 3301-12-30. Associated with Independent Cherets Labour. '
 ---
 
 <!-- AUTO-GENERATED -->

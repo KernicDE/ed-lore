@@ -6,6 +6,8 @@ first_seen_date: '3303-01-12'
 last_seen_date: '3303-01-12'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Esxste
+bio: 'Esxste is a commander in the Elite Dangerous universe, active from 3303-01-12
+  to 3303-01-12. Closely associated with Fuel Rats. '
 ---
 
 

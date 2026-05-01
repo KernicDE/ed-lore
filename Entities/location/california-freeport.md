@@ -11,6 +11,10 @@ related_entities:
 - pilots-federation
 - delphi
 - hip-18390
+bio: California Freeport is a starport in the Elite Dangerous universe, significant
+  from 3307-05-13 to 3307-05-13. Associated with Kumo Crew, Pilots Federation. Thargoid
+  forces invade the Delphi system and multiple systems in the California, Coalsack
+  and Pleiades Nebulas.
 ---
 
 <!-- AUTO-GENERATED -->

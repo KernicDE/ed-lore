@@ -9,6 +9,10 @@ related_entities:
 - silver-universal-plc
 - nationals-of-themiscrya
 - themiscrya
+bio: Ritchey Port is a starport in the Elite Dangerous universe, significant from
+  3301-04-08 to 3301-04-08. Associated with Nationals of Themiscrya, Silver Universal
+  PLC. However, a new debt agreement was reached between Silver Universal PLC and
+  the Nationals of Themiscrya at Ritchey Port, ending imminent legal action.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,8 @@ first_seen_date: '3304-08-25'
 last_seen_date: '3304-08-25'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Gabriel%20Sanchini
+bio: 'Gabriel Sanchini is a ceo in the Elite Dangerous universe, active from 3304-08-25
+  to 3304-08-25. Closely associated with Herculean Machines, Supratech. '
 ---
 
 

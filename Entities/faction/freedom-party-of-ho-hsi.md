@@ -10,6 +10,12 @@ related_entities:
 - ho-hsi
 - hand-ring
 inara_url: https://inara.cz/elite/minorfaction/?search=Freedom%20Party%20of%20Ho%20Hsi
+bio: Freedom Party of Ho Hsi is a organization in the Elite Dangerous universe, active
+  from 3303-09-15 to 3303-09-22. Frequently linked with Ho Hsi Jet Comms Limited,
+  Ho Hsi, Hand Ring. Conflict has erupted in the Ho Hsi system between Ho Hsi Jet
+  Comms Limited and the Freedom Party of Ho Hsi. The Freedom Party of Ho Hsi has withdrawn
+  its forces, and pilots who supported the winning faction can collect rewards from
+  Hand Ring.
 ---
 
 

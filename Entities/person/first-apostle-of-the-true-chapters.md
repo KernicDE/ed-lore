@@ -6,6 +6,8 @@ first_seen_date: '3309-03-23'
 last_seen_date: '3309-03-23'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=First%20Apostle%20of%20the%20True%20Chapters
+bio: 'First Apostle of the True Chapters is a prominent figure in the Elite Dangerous
+  universe, active from 3309-03-23 to 3309-03-23. Closely associated with Aegis. '
 ---
 
 

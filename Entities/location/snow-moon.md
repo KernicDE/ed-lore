@@ -9,6 +9,11 @@ related_entities:
 - hel-purple-energy-industry
 - bento
 - hel
+bio: Snow Moon is a star system in the Elite Dangerous universe, significant from
+  3301-12-17 to 3301-12-23. Associated with Hel Purple Energy Industry. The Hel Purple
+  Energy Industry requests Crystalline Spheres from Snow Moon in the Bento system
+  to commemorate the winter solstice festival, offering pilots a week-long delivery
+  contract.
 ---
 
 <!-- AUTO-GENERATED -->

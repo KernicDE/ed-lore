@@ -23,6 +23,10 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Graill%20Redd
 inara_url: https://inara.cz/elite/starsystem/?search=Graill%20Redd
+bio: Graill Redd is a star system in the Elite Dangerous universe, significant from
+  3302-06-30 to 3302-07-07. Associated with Graill Redd Liberals, Workers Party of
+  G 176-29, Citizen Party of G146-60. The Graill Redd Liberals have successfully cleared
+  the Graill Redd system of agitators with the help of hundreds of pilots.
 ---
 
 

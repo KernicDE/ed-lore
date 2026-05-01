@@ -12,6 +12,10 @@ related_entities:
 - jupiter-division
 - vox-galactica
 inara_url: https://inara.cz/elite/minorfaction/?search=Caine%20Massey
+bio: Caine Massey is a organization in the Elite Dangerous universe, active from 3307-04-13
+  to 3307-04-13. Frequently linked with Olympus Village, Vandermeer, Earth. Caine-Massey
+  CEO Johann Fleischer is assassinated at a Federal Commerce Authority seminar on
+  Mars using a modified Manticore Executioner rifle linked to Imperial agents.
 ---
 
 

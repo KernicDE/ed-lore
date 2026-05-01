@@ -9,6 +9,10 @@ related_entities:
 - alliance
 - core-dynamics
 - sirius-corporation
+bio: Patterson Enterprise in the Sirius is a star system in the Elite Dangerous universe,
+  significant from 3307-03-04 to 3307-03-04. Associated with Core Dynamics, Alliance.
+  *Pilots Federation ALERT* The Empire is aiding Sirius Corporation by offering bounty
+  hunting and trade opportunities to support the Galactic Summit.
 ---
 
 <!-- AUTO-GENERATED -->

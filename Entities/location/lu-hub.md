@@ -11,6 +11,9 @@ related_entities:
 - kumo-crew
 - camorra-of-krisha
 - krisha
+bio: Lu Hub is a star system in the Elite Dangerous universe, significant from 3301-06-05
+  to 3303-04-14. Associated with Hand Gang of Gandii, Kumo Crew. Pirates and mercenaries
+  are invited to aid these crews via Lu Hub and Fincke Depot.
 ---
 
 <!-- AUTO-GENERATED -->

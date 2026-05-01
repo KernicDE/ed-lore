@@ -11,6 +11,9 @@ related_entities:
 - betel
 - betel-security
 - alliance
+bio: 'Carrier Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3304-08-24 to 3304-08-26. Associated with Betel Free, Silver Creative Network,
+  Betel security. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,8 @@ related_entities:
 - 20-ophiuchi
 - thiel-port
 - crown-terminal
+bio: 'Bao Orbital is a starport in the Elite Dangerous universe, significant from
+  3301-07-22 to 3301-07-22. '
 ---
 
 <!-- AUTO-GENERATED -->

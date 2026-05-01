@@ -10,6 +10,9 @@ related_entities:
 - wyrd
 - vonarburg-co-operative
 inara_url: https://inara.cz/elite/minorfaction/?search=Wyrd%20Jet%20Power%20Industries
+bio: 'Wyrd Jet Power Industries is a organization in the Elite Dangerous universe,
+  active from 3303-10-06 to 3303-10-06. Frequently linked with Wyrd, Vonarburg Co-operative,
+  Aegis. '
 ---
 
 

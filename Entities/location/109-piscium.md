@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=109%20Piscium
 inara_url: https://inara.cz/elite/starsystem/?search=109%20Piscium
+bio: '109 Piscium is a star system in the Elite Dangerous universe, significant from
+  3302-05-20 to 3302-05-20. '
 ---
 
 

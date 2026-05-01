@@ -10,6 +10,12 @@ related_entities:
 - tiedemann-dock
 - synuefe
 inara_url: https://inara.cz/elite/minorfaction/?search=Balones%20Gold%20Touch%20Systems
+bio: Balones Gold Touch Systems is a organization in the Elite Dangerous universe,
+  active from 3303-01-05 to 3303-01-12. Frequently linked with Tiedemann Dock, Balones,
+  Synuefe. Balones Gold Touch Systems appeals for mined osmium, praseodymium, and
+  methanol monohydrate crystals to develop advanced deep-space probes, citing alien
+  shipwrecks and Synuefe ruins as motivation. Balones Gold Touch Systems' appeal for
+  materials to build deep-space probes concludes successfully.
 ---
 
 

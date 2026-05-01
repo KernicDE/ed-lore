@@ -8,6 +8,10 @@ mention_count: 1
 related_entities:
 - federal-times
 - sirius-corporation
+bio: Patterson Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3301-08-04 to 3301-08-04. Associated with Federal Times, Sirius Corporation.
+  A Sirius Corporation shuttle was destroyed when its docking computer failed on approach
+  to Patterson Enterprise in the Sirius system.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -24,6 +24,11 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=BV%20Phoenicis
 inara_url: https://inara.cz/elite/starsystem/?search=BV%20Phoenicis
+bio: BV Phoenicis is a star system in the Elite Dangerous universe, significant from
+  3301-04-20 to 3301-04-20. Associated with Friends of Kui Hsien, Conservatives of
+  BV Phoenicis, Future of LTT 911 Party. Despite local traders' efforts to stimulate
+  the economy, Patreus authorised the Conservatives of BV Phoenicis to begin forfeiture.
+  Imperial mercenaries can sign up for reclamation duty aboard Aoki Dock in BV Phoenicis.
 ---
 
 

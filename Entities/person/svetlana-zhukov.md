@@ -6,6 +6,10 @@ first_seen_date: '3301-09-14'
 last_seen_date: '3301-09-14'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Svetlana%20Zhukov
+bio: Svetlana Zhukov is a pilot in the Elite Dangerous universe, active from 3301-09-14
+  to 3301-09-14. Closely associated with Imperial Slave Association, Imperial Senate,
+  Imperial Navy. ISA chairwoman Svetlana Zhukov voiced support, though political commentators
+  doubted the regulations would be approved.
 ---
 
 

@@ -11,6 +11,8 @@ related_entities:
 - christian-dock
 - nganji
 inara_url: https://inara.cz/elite/minorfaction/?search=Homeland%20Scientific%20Council
+bio: 'Homeland Scientific Council is a government in the Elite Dangerous universe,
+  active from 3301-09-13 to 3301-10-26. Frequently linked with HIP 102128, Tanmark. '
 ---
 
 

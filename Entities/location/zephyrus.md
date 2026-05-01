@@ -24,6 +24,10 @@ economy: Military
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Zephyrus
 inara_url: https://inara.cz/elite/starsystem/?search=Zephyrus
+bio: Zephyrus is a star system in the Elite Dangerous universe, significant from 3303-03-03
+  to 3303-03-03. Associated with Colonia Citizens Network. The Mercury Seven expedition
+  departs from Jaques Station in Colonia, inviting pilots to join a multi-stage journey
+  through the Orio-Persean Conflux, Osprey Stellar Remnant, Wagar's Reach and Zephyrus.
 ---
 
 

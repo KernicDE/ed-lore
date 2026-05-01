@@ -12,6 +12,10 @@ related_entities:
 - imperial-navy
 - taurus-mining-ventures
 inara_url: https://inara.cz/elite/minorfaction/?search=Sirius%20Navy
+bio: Sirius Navy is a naval in the Elite Dangerous universe, active from 3307-12-17
+  to 3307-12-17. Frequently linked with Alliance Defence Force, Imperial Senate, Hind
+  Mine. Commodore Morag Halloran reveals that hundreds of naval officers from all
+  three superpowers and Sirius have resigned to join Salvation's anti-xeno crusade.
 ---
 
 

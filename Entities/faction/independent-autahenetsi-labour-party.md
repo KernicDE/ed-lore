@@ -12,6 +12,9 @@ related_entities:
 - kappa-fornacis
 - bd-18-394
 inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Autahenetsi%20Labour%20Party
+bio: 'Independent Autahenetsi Labour Party is a organization in the Elite Dangerous
+  universe, active from 3301-05-24 to 3301-05-24. Frequently linked with Panem, BD-18
+  394, Federal Ceti Sector Security Services. '
 ---
 
 

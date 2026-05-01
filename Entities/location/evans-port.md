@@ -10,6 +10,8 @@ related_entities:
 - malaikudi
 - leopold-heckmann-ring
 - parutis
+bio: 'Evans Port is a starport in the Elite Dangerous universe, significant from 3303-02-23
+  to 3303-02-23. Associated with Buckyball Racing Club. '
 ---
 
 <!-- AUTO-GENERATED -->

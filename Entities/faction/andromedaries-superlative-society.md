@@ -8,6 +8,12 @@ mention_count: 1
 related_entities:
 - blackshadow-productions
 inara_url: https://inara.cz/elite/minorfaction/?search=Andromedaries%20Superlative%20Society
+bio: Andromedaries Superlative Society is a organization in the Elite Dangerous universe,
+  active from 3304-07-28 to 3304-07-28. Frequently linked with Blackshadow Productions.
+  The classic children's animated show Andromedaries, about spacefaring camel-like
+  lifeforms from another galaxy, is being remade for modern audiences after 40 years.
+  Fan society president Ogden Smith defends the reboot as returning to the gritty
+  drama fans enjoyed as children.
 ---
 
 

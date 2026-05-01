@@ -24,6 +24,10 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Clayakarma
 inara_url: https://inara.cz/elite/starsystem/?search=Clayakarma
+bio: Clayakarma is a star system in the Elite Dangerous universe, significant from
+  3302-09-08 to 3302-10-27. Associated with United Research Council. The United Research
+  Council lifted preparatory restrictions near the Clayakarma, Nauo, Gyhldekala, Boga,
+  and Kpaniya systems.
 ---
 
 

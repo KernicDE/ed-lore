@@ -24,6 +24,8 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Aiabiko
 inara_url: https://inara.cz/elite/starsystem/?search=Aiabiko
+bio: 'Aiabiko is a star system in the Elite Dangerous universe, significant from 3308-09-30
+  to 3308-09-30. Associated with Alliance Defence Force, Federal Navy. '
 ---
 
 

@@ -10,6 +10,9 @@ related_entities:
 - silver-universal-plc
 - emperors-grace
 - hr-706
+bio: Laming Orbital is a starport in the Elite Dangerous universe, significant from
+  3301-04-24 to 3301-04-24. Associated with Silver Allied Network, Silver Universal
+  PLC. Pilots can report for active duty aboard Laming Orbital.
 ---
 
 <!-- AUTO-GENERATED -->

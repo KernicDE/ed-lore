@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Lesheima
 inara_url: https://inara.cz/elite/starsystem/?search=Lesheima
+bio: 'Lesheima is a star system in the Elite Dangerous universe, significant from
+  3308-04-28 to 3308-05-12. '
 ---
 
 

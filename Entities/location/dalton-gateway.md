@@ -11,6 +11,8 @@ related_entities:
 - eravate
 - asellus-primus
 - cleve-hub
+bio: 'Dalton Gateway is a star system in the Elite Dangerous universe, significant
+  from 3303-07-07 to 3303-07-07. Associated with Pilots Federation. '
 ---
 
 <!-- AUTO-GENERATED -->

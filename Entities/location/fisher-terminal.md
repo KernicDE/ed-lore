@@ -8,6 +8,9 @@ mention_count: 2
 related_entities:
 - earth-defence-fleet
 - okinura-system
+bio: Fisher Terminal is a star system in the Elite Dangerous universe, significant
+  from 3302-02-11 to 3302-02-18. Associated with Earth Defence Fleet. They request
+  polymers to upgrade Fisher Terminal and offer privateer bonds for eliminating agitators.
 ---
 
 <!-- AUTO-GENERATED -->

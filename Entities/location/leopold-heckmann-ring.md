@@ -10,6 +10,11 @@ related_entities:
 - malaikudi
 - parutis
 - evans-port
+bio: Leopold Heckmann Ring is a star system in the Elite Dangerous universe, significant
+  from 3303-02-23 to 3303-02-23. Associated with Buckyball Racing Club. The Buckyball
+  Racing Club announces its first full-length race of 3303, Tunnel Vision, requiring
+  competitors to navigate tunnels at scientific and military installations between
+  Malaikudi and Parutis.
 ---
 
 <!-- AUTO-GENERATED -->

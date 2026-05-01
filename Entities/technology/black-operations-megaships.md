@@ -6,6 +6,9 @@ first_seen_date: '3311-07-03'
 last_seen_date: '3311-07-03'
 mention_count: 1
 inara_url: https://inara.cz/elite/commodity/?search=black%20operations%20megaships
+bio: 'black operations megaships is a technology in the Elite Dangerous universe,
+  mentioned from 3311-07-03 to 3311-07-03. Developed or used by Jerome Archer, Li
+  Yong-Rui, Empire. '
 ---
 
 

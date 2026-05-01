@@ -11,6 +11,10 @@ related_entities:
 - aegis
 - alliance
 - colonia-council
+bio: Synuefe EN-H is a star system in the Elite Dangerous universe, significant from
+  3304-08-29 to 3304-09-02. Engineer Ram Tah identifies three unusual energy signatures
+  originating from the NGC 2451A sector, the IC 2391 sector, and the Synuefe EN-H
+  region.
 ---
 
 <!-- AUTO-GENERATED -->

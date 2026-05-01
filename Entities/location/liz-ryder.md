@@ -9,6 +9,12 @@ related_entities:
 - eurybia
 - nmla
 - awyra-flirble-in-the-eurybia
+bio: Liz Ryder is a star system in the Elite Dangerous universe, significant from
+  3307-02-04 to 3307-02-12. Associated with Engineers, Aegis, Pilots Federation. Aegis
+  recruits engineers Liz Ryder and Ishmael Palin to develop new defensive and offensive
+  technologies against the Thargoids. Aegis has placed open orders for Thargoid materials,
+  with deliveries directed to Awyra Flirble in Eurybia for Ryder and Obsidian Orbital
+  in Maia for Palin.
 ---
 
 <!-- AUTO-GENERATED -->

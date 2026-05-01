@@ -11,6 +11,9 @@ related_entities:
 - diso
 - orerve
 inara_url: https://inara.cz/elite/minorfaction/?search=Crimson%20State%20Limited
+bio: 'Crimson State Limited is a organization in the Elite Dangerous universe, active
+  from 3305-10-10 to 3305-10-10. Frequently linked with Diso, Interstellar Association
+  for Agriculture, Orerve Universal Limited. '
 ---
 
 

@@ -21,6 +21,10 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Abres
 inara_url: https://inara.cz/elite/starsystem/?search=Abres
+bio: Abres is a star system in the Elite Dangerous universe, significant from 3301-07-06
+  to 3301-07-06. Associated with Pangborn Dock. Pangborn Dock in the Abres system
+  released an open contract for a large quantity of Osmium, a rare transition metal
+  used in starship construction alloys.
 ---
 
 

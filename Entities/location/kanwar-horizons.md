@@ -11,6 +11,8 @@ related_entities:
 - 49-d-orionis
 - unkulcay
 - vasak
+bio: 'Kanwar Horizons is a star system in the Elite Dangerous universe, significant
+  from 3302-01-22 to 3302-01-22. Associated with Buckyball Racing Club. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -9,6 +9,11 @@ related_entities:
 - apalar
 - svavarsson-terminal
 inara_url: https://inara.cz/elite/minorfaction/?search=Apalar%20Labour
+bio: Apalar Labour is a organization in the Elite Dangerous universe, active from
+  3301-08-12 to 3301-08-17. Frequently linked with Apalar, Svavarsson Terminal. The
+  Apalar system government invited independent pilots to help elevate their economy.
+  Apalar Labour is offering rewards for delivering industrial materials to Svavarsson
+  Terminal.
 ---
 
 

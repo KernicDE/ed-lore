@@ -11,6 +11,10 @@ related_entities:
 - coalsack-nebula
 - musca-dark-region-pj-p-b6-1
 - musca-dark-region-im-v-c2-24
+bio: Coalsack Sector VU-0 B6-6 is a star system in the Elite Dangerous universe, significant
+  from 3306-11-26 to 3306-11-26. Associated with Pilots Federation, Alliance. The
+  Alliance opens four new starports in the Coalsack Nebula following their successful
+  campaign.
 ---
 
 <!-- AUTO-GENERATED -->

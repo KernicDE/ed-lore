@@ -6,6 +6,8 @@ first_seen_date: '3308-10-27'
 last_seen_date: '3308-10-27'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Polly%20French
+bio: 'Polly French is a diplomat in the Elite Dangerous universe, active from 3308-10-27
+  to 3308-10-27. Closely associated with Federal Congress. '
 ---
 
 

@@ -9,6 +9,12 @@ related_entities:
 - zosi
 - citi-enterprise
 inara_url: https://inara.cz/elite/minorfaction/?search=Zosi%20Major%20Corporation
+bio: Zosi Major Corporation is a corporate in the Elite Dangerous universe, active
+  from 3302-11-10 to 3302-11-17. Frequently linked with Zosi, Citi Enterprise. The
+  Zosi Major Corporation has placed an open order for thermic alloys, chemical manipulators
+  and industrial firmware for an unspecified research and development project. Dr
+  Arkady Cole, the organisation's chief research scientist, confirmed participating
+  pilots should deliver resources to Citi Enterprise in the Zosi system.
 ---
 
 

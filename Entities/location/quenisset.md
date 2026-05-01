@@ -11,6 +11,10 @@ related_entities:
 - federal-congress
 - mars
 - sol
+bio: Quenisset is a star system in the Elite Dangerous universe, significant from
+  3301-06-13 to 3301-06-13. Associated with Core Dynamics, Federal Navy, Federal Congress.
+  President Hudson addressed business leaders at the Banqueting Hall in Quenisset,
+  Mars, announcing new programmes to motivate Federal youth.
 ---
 
 <!-- AUTO-GENERATED -->

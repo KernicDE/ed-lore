@@ -20,6 +20,8 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Mullag
 inara_url: https://inara.cz/elite/starsystem/?search=Mullag
+bio: 'Mullag is a star system in the Elite Dangerous universe, significant from 3309-06-16
+  to 3309-06-23. Associated with Federal Navy. '
 ---
 
 

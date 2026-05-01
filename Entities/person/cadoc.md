@@ -6,6 +6,8 @@ first_seen_date: '3301-07-24'
 last_seen_date: '3301-07-29'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Cadoc
+bio: 'Cadoc is a pilot in the Elite Dangerous universe, active from 3301-07-24 to
+  3301-07-29. Closely associated with Kumo Crew, Lavigny''s Legion. '
 ---
 
 

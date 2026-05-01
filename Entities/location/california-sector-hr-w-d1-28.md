@@ -24,6 +24,13 @@ economy: High Tech
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=California%20Sector%20HR-W%20d1-28
 inara_url: https://inara.cz/elite/starsystem/?search=California%20Sector%20HR-W%20d1-28
+bio: California Sector HR-W d1-28 is a star system in the Elite Dangerous universe,
+  significant from 3309-02-02 to 3309-02-09. Associated with Kumo Crew, Alliance,
+  Turner Research Group. The Kumo Crew organises a counter-attack against Thargoid
+  invaders in the California Nebula while attempting to expand its influence over
+  local ports. The Kumo Crew's defence of the California Nebula succeeds, but its
+  attempt to seize control of local ports is repelled by communities and the Turner
+  Research Group.
 ---
 
 

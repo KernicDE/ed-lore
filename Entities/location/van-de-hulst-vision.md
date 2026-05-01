@@ -9,6 +9,10 @@ related_entities:
 - morai-nobles
 - morai
 - empire
+bio: van de Hulst Vision is a star system in the Elite Dangerous universe, significant
+  from 3302-08-25 to 3302-09-01. Associated with Morai Nobles, Empire. Pilots are
+  asked to deliver autofabricators, tantalum, and superconductors to van de Hulst
+  Vision in the Morai system.
 ---
 
 <!-- AUTO-GENERATED -->

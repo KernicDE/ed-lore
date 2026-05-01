@@ -11,6 +11,11 @@ related_entities:
 - rhea
 - white-house
 inara_url: https://inara.cz/elite/cmdr-search/?search=Isolde%20Rochester
+bio: Isolde Rochester is a president in the Elite Dangerous universe, active from
+  3310-10-31 to 3310-10-31. Closely associated with Core Dynamics. Princess Aisling
+  Duval announces her engagement to Federal Ambassador Jordan Rochester at a press
+  conference on Emerald. Reactions to Princess Aisling Duval's engagement to Ambassador
+  Jordan Rochester range across the political spectrum.
 ---
 
 

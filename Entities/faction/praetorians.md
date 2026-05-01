@@ -12,6 +12,12 @@ related_entities:
 - sagan-port
 - prism
 inara_url: https://inara.cz/elite/minorfaction/?search=Praetorians
+bio: Praetorians is a organization in the Elite Dangerous universe, active from 3302-04-23
+  to 3302-04-23. Frequently linked with Mundjiga system, Sagan Port, Prism. The Praetorians,
+  a collective of former security contractors, commit their forces to defending the
+  Mundjiga system and traders delivering materials for a new Majestic-class Interdictor.
+  Loren's Legion will operate jointly with the Praetorians, protecting tantalum shipments
+  from Prism.
 ---
 
 

@@ -6,6 +6,8 @@ first_seen_date: '3302-07-19'
 last_seen_date: '3302-07-19'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Rizal72
+bio: 'Commander Rizal72 is a commander in the Elite Dangerous universe, active from
+  3302-07-19 to 3302-07-19. Closely associated with Canonn Interstellar Research Group. '
 ---
 
 

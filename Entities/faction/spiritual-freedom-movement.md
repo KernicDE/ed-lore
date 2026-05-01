@@ -12,6 +12,9 @@ related_entities:
 - order-of-the-far-god
 - federal-navy-intelligence-office
 inara_url: https://inara.cz/elite/minorfaction/?search=Spiritual%20Freedom%20Movement
+bio: 'Spiritual Freedom Movement is a organization in the Elite Dangerous universe,
+  active from 3304-09-08 to 3308-09-26. Frequently linked with Galactic Interfaith
+  Commune, Far God cult, Federal Intelligence Agency. '
 ---
 
 

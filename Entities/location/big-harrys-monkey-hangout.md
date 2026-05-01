@@ -10,6 +10,9 @@ related_entities:
 - autocracy-of-jotunheim
 - yum-kamcabi-purple-life-industry
 - jotunheim
+bio: 'Big Harry''s Monkey Hangout is a star system in the Elite Dangerous universe,
+  significant from 3303-06-09 to 3303-06-09. Associated with Revolutionary Jotunheim
+  Resistance, Yum Kamcabi Purple Life Industry, Autocracy of Jotunheim. '
 ---
 
 <!-- AUTO-GENERATED -->

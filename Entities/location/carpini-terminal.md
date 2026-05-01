@@ -8,6 +8,8 @@ mention_count: 2
 related_entities:
 - knights-of-karma
 - qawakana
+bio: 'Carpini Terminal is a star system in the Elite Dangerous universe, significant
+  from 3303-06-09 to 3303-06-16. Associated with Knights of Karma. '
 ---
 
 <!-- AUTO-GENERATED -->

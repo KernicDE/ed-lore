@@ -9,6 +9,10 @@ related_entities:
 - kumo-crew
 - utopia
 - hip-116213
+bio: Yolen Hub is a star system in the Elite Dangerous universe, significant from
+  3301-06-23 to 3301-07-03. Associated with Kumo Crew, Utopia. Simguru Pranav Antal
+  unveiled Utopia's plans to combat the Kumo Crew in the Pegasi sector at a meeting
+  aboard Yolen Hub in HIP 116213.
 ---
 
 <!-- AUTO-GENERATED -->

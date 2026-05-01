@@ -24,6 +24,9 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Kwatee
 inara_url: https://inara.cz/elite/starsystem/?search=Kwatee
+bio: Kwatee is a star system in the Elite Dangerous universe, significant from 3301-06-08
+  to 3301-06-08. Associated with Law Party of HR 7327, Dukes of Mikunn. Over 1 million
+  tonnes of metal were collected in Kwatee for construction.
 ---
 
 

@@ -6,6 +6,12 @@ first_seen_date: '3303-10-06'
 last_seen_date: '3303-10-13'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=anti-Thargoid%20technologies
+bio: anti-Thargoid technologies is a technology in the Elite Dangerous universe, mentioned
+  from 3303-10-06 to 3303-10-13. Developed or used by Aegis, Aden Tanner. Aegis's
+  appeal for Thargoid-related materials concluded successfully, with hundreds of pilots
+  delivering materials to Chelbin Service Station for anti-Thargoid technology development.
+  Professor Alba Tesreau confirmed the materials are being sent to engineering contractors
+  for anti-Thargoid device development.
 ---
 
 

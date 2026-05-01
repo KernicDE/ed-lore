@@ -9,6 +9,11 @@ related_entities:
 - arque
 - austen-town-station
 inara_url: https://inara.cz/elite/minorfaction/?search=Arque%20Commodities
+bio: Arque Commodities is a organization in the Elite Dangerous universe, active from
+  3302-08-18 to 3302-08-25. Frequently linked with Arque, Austen Town Station. Authorities
+  in the Arque system report a sharp increase in criminal activity disrupting trade.
+  Arque Commodities has issued a kill order on wanted ships and will reward pilots
+  who deliver bounty vouchers to Austen Town Station.
 ---
 
 

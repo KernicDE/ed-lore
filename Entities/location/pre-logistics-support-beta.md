@@ -11,6 +11,10 @@ related_entities:
 - pleiades-sector-oi-t-c3-7
 - arietis-sector-xe-z-b4
 - orcus-crag
+bio: PRE Logistics Support Beta is a starport in the Elite Dangerous universe, significant
+  from 3304-03-02 to 3304-03-04. Associated with Empire. Scores of independent pilots
+  supported the campaign by eliminating Thargoids and recovering black boxes and personal
+  effects from Thargoid attack sites.
 ---
 
 <!-- AUTO-GENERATED -->

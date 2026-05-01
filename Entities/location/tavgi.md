@@ -23,6 +23,10 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Tavgi
 inara_url: https://inara.cz/elite/starsystem/?search=Tavgi
+bio: Tavgi is a star system in the Elite Dangerous universe, significant from 3309-04-04
+  to 3309-04-06. Associated with Imperial Senate. The Caine-Massey/Torval Mining conflict
+  escalates into open combat in the Tavgi system, with both superpowers' naval forces
+  placed on alert.
 ---
 
 

@@ -11,6 +11,8 @@ related_entities:
 - col-285-sector-wa-l-b9-3
 - cao-junga
 - wredguia-sx-l-d7-92
+bio: 'Gliese 97.2 is a star system in the Elite Dangerous universe, significant from
+  3301-03-12 to 3301-03-12. Associated with Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

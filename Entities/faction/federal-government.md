@@ -12,6 +12,12 @@ related_entities:
 - maia
 - merope
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Government
+bio: Federal Government is a government in the Elite Dangerous universe, active from
+  3301-07-10 to 3301-07-10. Frequently linked with Leoniceno Orbital, Azaleach, Merope.
+  Dr Arcanonn's team renewed their plea to the Federal Government to release any classified
+  information about the artefacts. Following former President Jasmina Halsey's rescue
+  from Starship One, some Federal politicians suggest she should serve out the remainder
+  of her term.
 ---
 
 

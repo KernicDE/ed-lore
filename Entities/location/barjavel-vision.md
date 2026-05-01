@@ -9,6 +9,10 @@ related_entities:
 - alliance
 - morrina-pro-alliance-party
 - morrina-system
+bio: Barjavel Vision is a star system in the Elite Dangerous universe, significant
+  from 3302-04-07 to 3302-04-14. Associated with Morrina Pro-Alliance Party, Alliance.
+  The Morrina Pro-Alliance Party places a kill order on all wanted ships and promises
+  rewards for pilots who deliver bounty vouchers to Barjavel Vision.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,8 @@ first_seen_date: '3301-10-23'
 last_seen_date: '3301-10-23'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Blake%20Fry
+bio: 'Blake Fry is a pilot in the Elite Dangerous universe, active from 3301-10-23
+  to 3301-10-23. Closely associated with Federal Times. '
 ---
 
 

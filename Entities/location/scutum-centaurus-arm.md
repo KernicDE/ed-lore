@@ -10,6 +10,8 @@ related_entities:
 - sol
 - centaurus-reach
 - styx
+bio: 'Scutum-Centaurus Arm is a star system in the Elite Dangerous universe, significant
+  from 3301-03-01 to 3302-10-21. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -7,6 +7,8 @@ last_seen_date: '3308-11-23'
 mention_count: 1
 related_entities:
 - hyades
+bio: 'Taranis in the Hyades Sector YO-Q b5-1 is a star system in the Elite Dangerous
+  universe, significant from 3308-11-23 to 3308-11-23. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -10,6 +10,12 @@ related_entities:
 - oracle
 - pleiades-nebula
 inara_url: https://inara.cz/elite/minorfaction/?search=Cooper%20Research%20Associates
+bio: Cooper Research Associates is a research in the Elite Dangerous universe, active
+  from 3303-11-03 to 3303-11-10. Frequently linked with Pleiades Sector IR-W d1-55,
+  Oracle, Pleiades Nebula. Cooper Research Associates have launched a rescue operation
+  to recover personal effects, data, and people from Thargoid attack sites in the
+  Pleiades Nebula. Cooper Research Associates have announced the successful conclusion
+  of their rescue operation.
 ---
 
 

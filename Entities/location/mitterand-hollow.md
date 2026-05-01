@@ -9,6 +9,8 @@ related_entities:
 - epsilon-indi
 - sol
 - crab-nebula
+bio: 'Mitterand Hollow is a star system in the Elite Dangerous universe, significant
+  from 3302-06-17 to 3302-06-17. '
 ---
 
 <!-- AUTO-GENERATED -->

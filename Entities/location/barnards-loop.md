@@ -8,6 +8,11 @@ mention_count: 1
 related_entities:
 - universal-cartographics
 - pilots-federation
+bio: Barnard's Loop is a star system in the Elite Dangerous universe, significant
+  from 3308-09-05 to 3308-09-05. Associated with Pilots Federation, Universal Cartographics.
+  Independent explorers report an unexplained reddish-orange flare near Barnard's
+  Loop that produces strange FSS scanner feedback, with no official scientific explanation
+  yet.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -10,6 +10,10 @@ related_entities:
 - eta-draconis
 - swift-terminal
 inara_url: https://inara.cz/elite/minorfaction/?search=8th%20Dragon%20Squadron
+bio: 8th Dragon Squadron is a organization in the Elite Dangerous universe, active
+  from 3301-03-20 to 3301-03-20. Frequently linked with Swift Terminal, Eta Draconis,
+  Gold Vision Company. President Vondell praised the 8th Dragon Squadron and promised
+  peace and prosperity for Eta Draconis.
 ---
 
 

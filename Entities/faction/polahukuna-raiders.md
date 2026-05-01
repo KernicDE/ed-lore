@@ -12,6 +12,13 @@ related_entities:
 - polahukuna
 - imperial-senate
 inara_url: https://inara.cz/elite/minorfaction/?search=Polahukuna%20Raiders
+bio: Polahukuna Raiders is a organization in the Elite Dangerous universe, active
+  from 3301-02-20 to 3301-02-28. Frequently linked with Federal Navy, BD+03 2338,
+  Polahukuna. Following Federal success in routing rebels from Banki and BD+03 2338,
+  Admiral Vincent declared his intention to pursue the invaders back to their homes
+  in Polahukuna. Vincent stated that the Federation will not allow terrorists to break
+  its laws or brainwash its people, and that the Polahukuna Raiders must learn their
+  actions have consequences.
 ---
 
 

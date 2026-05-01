@@ -6,6 +6,10 @@ first_seen_date: '3302-08-19'
 last_seen_date: '3302-08-19'
 mention_count: 1
 inara_url: https://inara.cz/elite/commodity/?search=generation%20ship
+bio: generation ship is a technology in the Elite Dangerous universe, mentioned from
+  3302-08-19 to 3302-08-19. Developed or used by Sima Kalhana, Erik Gunnarson. Historian
+  Sima Kalhana discussed the history of generation ships, noting that approximately
+  70,000 are still traversing the galaxy.
 ---
 
 

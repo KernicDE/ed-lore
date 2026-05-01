@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Takurua
 inara_url: https://inara.cz/elite/starsystem/?search=Takurua
+bio: Takurua is a star system in the Elite Dangerous universe, significant from 3302-01-12
+  to 3302-01-12. Associated with Adle's Armada, Guardians of Harmony, Utopia. The
+  success of Obsidian Orbital in Maia and the Utopian commune in Takurua were cited
+  as proof that expansion beyond core systems is viable.
 ---
 
 

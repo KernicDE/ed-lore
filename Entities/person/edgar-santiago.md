@@ -6,6 +6,9 @@ first_seen_date: '3304-12-26'
 last_seen_date: '3304-12-26'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Edgar%20Santiago
+bio: Edgar Santiago is a president in the Elite Dangerous universe, active from 3304-12-26
+  to 3304-12-26. Closely associated with Core Dynamics, Federal Navy. Former deputy
+  Edgar Santiago abruptly retired to purchase a luxury starship.
 ---
 
 

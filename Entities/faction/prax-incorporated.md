@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - federal-times
 inara_url: https://inara.cz/elite/minorfaction/?search=Prax%20Incorporated
+bio: 'Prax Incorporated is a corporate in the Elite Dangerous universe, active from
+  3305-02-21 to 3305-02-21. Frequently linked with Federal Times. '
 ---
 
 

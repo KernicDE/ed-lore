@@ -16,6 +16,12 @@ coords:
   z: -359.71875
 edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20JC-U%20B3-2
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20JC-U%20B3-2
+bio: Pleiades Sector JC-U B3-2 is a star system in the Elite Dangerous universe, significant
+  from 3302-01-15 to 3302-01-15. Associated with Canonn Interstellar Research Group.
+  Dr Arcanonn of the Canonn Interstellar Research Group confirmed the discovery of
+  alien 'barnacle' structures on at least two planets in the Pleiades Nebula. Commander
+  Octo discovered the first barnacles on Merope 5c, with additional sites found on
+  Pleiades Sector JC-U B3-2.
 ---
 
 

@@ -12,6 +12,9 @@ related_entities:
 - sirius-corporation
 - core-dynamics
 inara_url: https://inara.cz/elite/minorfaction/?search=Affiliated%20Counter-Terrorism%20Unit
+bio: 'Affiliated Counter-Terrorism Unit is a organization in the Elite Dangerous universe,
+  active from 3307-12-28 to 3308-09-28. Frequently linked with Alliance, Jupiter Division,
+  Achenar. '
 ---
 
 

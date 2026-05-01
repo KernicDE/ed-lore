@@ -8,6 +8,10 @@ mention_count: 2
 related_entities:
 - colonia-council
 - einheriar
+bio: Pilkington Orbital is a starport in the Elite Dangerous universe, significant
+  from 3303-12-08 to 3303-12-16. Associated with Colonia Council. Scores of pilots
+  delivered materials to Pilkington Orbital and eliminated agitators in the Einheriar
+  system to support immigrants fleeing the Thargoid threat.
 ---
 
 <!-- AUTO-GENERATED -->

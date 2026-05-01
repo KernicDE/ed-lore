@@ -9,6 +9,10 @@ related_entities:
 - kamadhenu-chapterhouse-of-inquisition
 - kamadhenu
 - colonia-council
+bio: Shajn Market is a star system in the Elite Dangerous universe, significant from
+  3303-08-25 to 3303-09-15. Associated with Kamadhenu Chapterhouse of Inquisition,
+  Colonia Council. The organisation has placed an open order for gold, robotics and
+  auto-fabricators for delivery to Shajn Market in the Kamadhenu system.
 ---
 
 <!-- AUTO-GENERATED -->

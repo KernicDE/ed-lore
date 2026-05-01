@@ -8,6 +8,8 @@ mention_count: 2
 related_entities:
 - mars
 - alliance
+bio: 'Clearwater Clinic is a star system in the Elite Dangerous universe, significant
+  from 3302-07-15 to 3302-07-29. Associated with Alliance. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -24,6 +24,9 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Nunus
 inara_url: https://inara.cz/elite/starsystem/?search=Nunus
+bio: Nunus is a star system in the Elite Dangerous universe, significant from 3301-07-09
+  to 3301-07-09. Associated with Utopia. Arissa Lavigny-Duval continued rapid expansion
+  but lost Nunus and Varka due to overextension.
 ---
 
 

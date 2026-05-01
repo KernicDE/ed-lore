@@ -21,6 +21,10 @@ economy: Industrial
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Tutumu
 inara_url: https://inara.cz/elite/starsystem/?search=Tutumu
+bio: Tutumu is a star system in the Elite Dangerous universe, significant from 3302-12-22
+  to 3302-12-22. Associated with People's Tutumu Confederacy. The People's Tutumu
+  Confederacy has successfully concluded its seasonal appeal, with hundreds of pilots
+  delivering goods to North Ring in the Tutumu system.
 ---
 
 

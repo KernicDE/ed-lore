@@ -11,6 +11,8 @@ related_entities:
 - 20-ophiuchi
 - thiel-port
 - patrick-terminal
+bio: 'Crown Terminal is a star system in the Elite Dangerous universe, significant
+  from 3301-07-22 to 3301-07-22. '
 ---
 
 <!-- AUTO-GENERATED -->

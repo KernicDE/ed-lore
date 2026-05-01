@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - none-specified
 inara_url: https://inara.cz/elite/minorfaction/?search=WorldCraft
+bio: 'WorldCraft is a organization in the Elite Dangerous universe, active from 3307-12-19
+  to 3307-12-19. Frequently linked with none specified. '
 ---
 
 

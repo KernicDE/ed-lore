@@ -12,6 +12,9 @@ related_entities:
 - kappa-fornacis
 - bd-18-394
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Ceti%20Sector%20Security%20Services
+bio: 'Federal Ceti Sector Security Services is a organization in the Elite Dangerous
+  universe, active from 3301-05-24 to 3301-05-24. Frequently linked with Panem, BD-18
+  394, Artyukhin Ring. '
 ---
 
 

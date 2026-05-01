@@ -11,6 +11,11 @@ related_entities:
 - lugh-defence-force
 - federal-navy
 - lugh-for-equality-party
+bio: Balandin Gateway is a star system in the Elite Dangerous universe, significant
+  from 3301-03-13 to 3301-03-20. Associated with Crimson State Group, Federal Navy.
+  In response, Éamonn Uí Laoghaire offered generous payouts to independent pilots
+  supporting Lugh at Balandin Gateway. The CSG fleet has adopted defensive positions
+  around Balandin Gateway and Knight Dock.
 ---
 
 <!-- AUTO-GENERATED -->

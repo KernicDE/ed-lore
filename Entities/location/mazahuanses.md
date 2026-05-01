@@ -24,6 +24,8 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Mazahuanses
 inara_url: https://inara.cz/elite/starsystem/?search=Mazahuanses
+bio: 'Mazahuanses is a star system in the Elite Dangerous universe, significant from
+  3306-10-16 to 3306-10-16. '
 ---
 
 

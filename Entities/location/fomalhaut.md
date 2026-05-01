@@ -23,6 +23,8 @@ economy: Colony
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Fomalhaut
 inara_url: https://inara.cz/elite/starsystem/?search=Fomalhaut
+bio: 'Fomalhaut is a star system in the Elite Dangerous universe, significant from
+  3301-11-04 to 3301-11-04. '
 ---
 
 

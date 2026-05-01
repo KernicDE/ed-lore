@@ -9,6 +9,9 @@ related_entities:
 - holloway-bioscience-institute
 - nahuaru
 inara_url: https://inara.cz/elite/minorfaction/?search=Nahuaru%20Crimson%20Bridge%20Int
+bio: 'Nahuaru Crimson Bridge Int is a organization in the Elite Dangerous universe,
+  active from 3305-02-14 to 3305-02-14. Frequently linked with Nahuaru, Holloway Bioscience
+  Institute. '
 ---
 
 

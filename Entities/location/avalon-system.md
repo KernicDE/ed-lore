@@ -16,6 +16,10 @@ coords:
   y: -132.96875
   z: 36.1875
 edsm_url: https://www.edsm.net/en/system?search=Avalon
+bio: Avalon system is a star system in the Elite Dangerous universe, significant from
+  3302-03-29 to 3302-03-29. Associated with Jeffress treasure hunt organisers. Thousands
+  of pilots competed, solving riddles that led through Persephone in the Avalon system,
+  Arrhenius Terminal in Bard, and finally to the Algol system.
 ---
 
 <!-- AUTO-GENERATED -->

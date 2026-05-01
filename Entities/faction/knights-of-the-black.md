@@ -10,6 +10,10 @@ related_entities:
 - mars
 - sol
 inara_url: https://inara.cz/elite/minorfaction/?search=Knights%20of%20the%20Black
+bio: Knights of the Black is a organization in the Elite Dangerous universe, active
+  from 3301-06-14 to 3301-06-14. Frequently linked with Federal Navy, Sol. The Knights
+  of the Black, a group sworn to defend human systems against alien aggression, doubts
+  the official explanation for President Halsey's disappearance.
 ---
 
 

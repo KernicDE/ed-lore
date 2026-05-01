@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Autahenetsi
 inara_url: https://inara.cz/elite/starsystem/?search=Autahenetsi
+bio: Autahenetsi is a star system in the Elite Dangerous universe, significant from
+  3301-05-24 to 3301-06-11. Associated with Federal Ceti Sector Security Services.
+  President Hudson responded by sending Republican supporters to permanently establish
+  themselves in Autahenetsi as a deterrent.
 ---
 
 

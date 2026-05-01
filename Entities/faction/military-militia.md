@@ -9,6 +9,9 @@ related_entities:
 - xi-2-lupi
 - pellegrino-hub
 inara_url: https://inara.cz/elite/minorfaction/?search=Military%20Militia
+bio: Military Militia is a naval in the Elite Dangerous universe, active from 3303-03-09
+  to 3303-03-16. Frequently linked with XI-2 Lupi, Pellegrino Hub. The Military Militia's
+  appeal for construction materials concluded successfully.
 ---
 
 

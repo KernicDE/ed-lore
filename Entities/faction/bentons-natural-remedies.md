@@ -12,6 +12,9 @@ related_entities:
 - better-green-developments
 - roach-investment-banking
 inara_url: https://inara.cz/elite/minorfaction/?search=Benton%27s%20Natural%20Remedies
+bio: 'Benton''s Natural Remedies is a organization in the Elite Dangerous universe,
+  active from 3301-04-10 to 3301-04-10. Frequently linked with Worster Insurance,
+  Better Green Developments. '
 ---
 
 

@@ -12,6 +12,9 @@ related_entities:
 - hind-mine
 - advocacy
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Navy%20Criminal%20Court
+bio: 'Federal Navy Criminal Court is a naval in the Elite Dangerous universe, active
+  from 3308-09-16 to 3308-09-21. Frequently linked with Azimuth Biotech, Hind Mine,
+  T Tauri. '
 ---
 
 

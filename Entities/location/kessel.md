@@ -10,6 +10,12 @@ related_entities:
 - leesti
 - george-lucas-station
 - jabbah
+bio: Kessel is a star system in the Elite Dangerous universe, significant from 3301-10-26
+  to 3301-10-26. Associated with Buckyball Racing Club. The Buckyball Racing Club,
+  sponsored by Leesti Azure Milk, announced the Kessel Run commemorative race from
+  October 31 to November 15, 3301. Starting at George Lucas station in Leesti and
+  ending in the Jabbah system, participants must dock at every station named 'Kessel'
+  in any order.
 ---
 
 <!-- AUTO-GENERATED -->

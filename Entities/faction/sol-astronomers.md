@@ -9,6 +9,10 @@ related_entities:
 - sol
 - sedna
 inara_url: https://inara.cz/elite/minorfaction/?search=Sol%20astronomers
+bio: Sol astronomers is a organization in the Elite Dangerous universe, active from
+  3304-04-13 to 3304-04-13. Frequently linked with Sedna, Sol. Astronomers in the
+  Sol system may have detected a signal from New Horizons, a space probe launched
+  in 2006 to study objects in the Kuiper belt.
 ---
 
 

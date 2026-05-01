@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Ross%20720
 inara_url: https://inara.cz/elite/starsystem/?search=Ross%20720
+bio: Ross 720 is a star system in the Elite Dangerous universe, significant from 3302-03-14
+  to 3304-04-07. Associated with Buckyball Racing Club. Conflict erupted in Ross 310
+  between Ross 310 Natural Services and the Ross 310 Cartel. The EG Union successfully
+  concluded its campaign to build a shipyard in Ross 720.
 ---
 
 

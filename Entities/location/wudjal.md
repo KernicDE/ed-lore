@@ -22,6 +22,8 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Wudjal
 inara_url: https://inara.cz/elite/starsystem/?search=Wudjal
+bio: 'Wudjal is a star system in the Elite Dangerous universe, significant from 3301-07-27
+  to 3301-07-27. Associated with Kumo Crew, Imperial Navy. '
 ---
 
 

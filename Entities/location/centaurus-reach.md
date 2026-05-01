@@ -9,6 +9,8 @@ related_entities:
 - sol
 - scutum-centaurus-arm
 - styx
+bio: 'Centaurus Reach is a star system in the Elite Dangerous universe, significant
+  from 3302-10-21 to 3302-10-21. '
 ---
 
 <!-- AUTO-GENERATED -->

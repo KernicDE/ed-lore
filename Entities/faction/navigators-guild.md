@@ -12,6 +12,9 @@ related_entities:
 - prism
 - achenar
 inara_url: https://inara.cz/elite/minorfaction/?search=Navigators%20Guild
+bio: 'Navigators Guild is a organization in the Elite Dangerous universe, active from
+  3302-02-18 to 3302-02-22. Frequently linked with D''Arrest Station, Uibuth system,
+  Prism. '
 ---
 
 

@@ -10,6 +10,9 @@ related_entities:
 - airman-di
 - chargaff-orbital
 inara_url: https://inara.cz/elite/minorfaction/?search=The%20Official%20Airman%20Di%20Front
+bio: The Official Airman Di Front is a organization in the Elite Dangerous universe,
+  active from 3304-02-09 to 3304-02-09. Frequently linked with Chargaff Orbital, Utopia,
+  Airman Di. The Official Airman Di Front will oversee the initiative.
 ---
 
 

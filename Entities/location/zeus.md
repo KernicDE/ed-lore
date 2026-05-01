@@ -21,6 +21,12 @@ economy: Extraction
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Zeus
 inara_url: https://inara.cz/elite/starsystem/?search=Zeus
+bio: Zeus is a star system in the Elite Dangerous universe, significant from 3303-05-19
+  to 3303-05-26. Associated with Zeus Bureau. The Zeus Bureau is hosting a gathering
+  of influential figures and has placed an open order for luxury goods including Giant
+  Irukama Snails, Kamitra Cigars, and Lavian Brandy. The Zeus Bureau's appeal for
+  luxury goods reached a successful conclusion, with the event boosting Zeus's economy
+  and attracting the Wells-class carrier The Midas.
 ---
 
 

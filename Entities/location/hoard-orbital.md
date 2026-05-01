@@ -11,6 +11,9 @@ related_entities:
 - hart-station
 - una
 - santjalan
+bio: Hoard Orbital is a starport in the Elite Dangerous universe, significant from
+  3301-07-23 to 3301-07-23. Associated with Newton Dock Medical. The Cerberus Plague
+  has reached Hart Station in Bast, Hoard Orbital in Una, and Cantor Terminal in Santjalan.
 ---
 
 <!-- AUTO-GENERATED -->

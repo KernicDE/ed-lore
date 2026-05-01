@@ -11,6 +11,10 @@ related_entities:
 - a-spokesperson-for-lhou-mans
 - enterprise
 - gateway
+bio: Authorities in the Lhou Mans is a star system in the Elite Dangerous universe,
+  significant from 3312-04-28 to 3312-04-28. Associated with Lhou Mans Security, Zorgon
+  Peterson. Coordinated criminal attacks damage four ports in Lhou Mans. Authorities
+  call for civilian evacuation and combat support.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -8,6 +8,8 @@ mention_count: 2
 related_entities:
 - sirius-corporation
 - procyon
+bio: 'Cormack Hub is a star system in the Elite Dangerous universe, significant from
+  3303-01-19 to 3303-01-20. Associated with Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

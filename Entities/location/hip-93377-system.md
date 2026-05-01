@@ -16,6 +16,12 @@ population: 4324366
 allegiance: Independent
 government: Dictatorship
 edsm_url: https://www.edsm.net/en/system?search=HIP%2093377
+bio: HIP 93377 system is a star system in the Elite Dangerous universe, significant
+  from 3302-04-07 to 3302-04-14. Associated with Canary Mining Corporation. The Canary
+  Mining Corporation announces plans to improve mining facilities at Kooi Gateway
+  in the HIP 93377 system by requesting mineral extractors for new material-processing
+  equipment. Hundreds of pilots responded to the appeal, and mining facilities in
+  HIP 93377 will be greatly enhanced.
 ---
 
 <!-- AUTO-GENERATED -->

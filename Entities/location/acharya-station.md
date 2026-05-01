@@ -8,6 +8,8 @@ mention_count: 2
 related_entities:
 - alliance
 - rahu
+bio: 'Acharya Station is a starport in the Elite Dangerous universe, significant from
+  3303-02-23 to 3303-03-02. Associated with Alliance. '
 ---
 
 <!-- AUTO-GENERATED -->

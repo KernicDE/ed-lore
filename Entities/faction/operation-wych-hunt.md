@@ -12,6 +12,9 @@ related_entities:
 - glorious-prospect
 - lhs-1163
 inara_url: https://inara.cz/elite/minorfaction/?search=Operation%20Wych-Hunt
+bio: 'Operation Wych-Hunt is a organization in the Elite Dangerous universe, active
+  from 3309-01-03 to 3309-01-19. Frequently linked with HIP 22460, Azimuth Biotech,
+  Hind Mine. '
 ---
 
 

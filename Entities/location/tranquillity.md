@@ -11,6 +11,9 @@ related_entities:
 - tarach-tor
 - leesti
 - diso
+bio: 'Tranquillity is a star system in the Elite Dangerous universe, significant from
+  3303-11-17 to 3303-11-17. Associated with Independent Leesti for Equality, Guardians
+  of Tranquillity. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,9 @@ first_seen_date: '3307-07-08'
 last_seen_date: '3307-07-15'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=Performance%20enhancers
+bio: 'Performance enhancers is a technology in the Elite Dangerous universe, mentioned
+  from 3307-07-08 to 3307-07-15. Developed or used by Archon Delaine, Kumo Crew, Blue
+  Viper Club. '
 ---
 
 

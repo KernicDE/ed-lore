@@ -12,6 +12,11 @@ related_entities:
 - nijotec
 - sol
 inara_url: https://inara.cz/elite/minorfaction/?search=Nijotec%20Syndicate
+bio: Nijotec Syndicate is a criminal in the Elite Dangerous universe, active from
+  3301-02-20 to 3301-02-20. Frequently linked with Federal Navy, Sol, Nijotec. Nijotec,
+  home to 21,500 people, was once rich in minerals but has been strip-mined to near
+  exhaustion. The Lycan Moon Mining Corporation's abandonment of the region allowed
+  the Syndicate to flourish.
 ---
 
 

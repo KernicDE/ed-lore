@@ -17,6 +17,10 @@ population: 236930
 allegiance: Federation
 government: Democracy
 edsm_url: https://www.edsm.net/en/system?search=Capricorni
+bio: Capricorni is a star system in the Elite Dangerous universe, significant from
+  3303-12-08 to 3303-12-08. Associated with Diamond Frogs. The Diamond Frogs, a mercenary
+  outfit based in the Capricorni sector, have announced plans to build a new installation
+  in the 63 G.
 ---
 
 <!-- AUTO-GENERATED -->

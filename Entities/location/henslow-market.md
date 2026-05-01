@@ -10,6 +10,11 @@ related_entities:
 - adenets-pro-alliance-bond
 - adenets
 - sol
+bio: Henslow Market is a star system in the Elite Dangerous universe, significant
+  from 3304-11-29 to 3304-11-29. Associated with Achilles Corporation, Adenets Pro-Alliance
+  Bond. The Adenets Pro-Alliance Bond organises deliveries of robotics, computer components,
+  and microcontrollers to Henslow Market in the Adenets system for manufacturing new
+  PA912 administration robots.
 ---
 
 <!-- AUTO-GENERATED -->

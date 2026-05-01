@@ -12,6 +12,9 @@ related_entities:
 - sol
 - federal-congress
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Justice%20Department
+bio: 'Federal Justice Department is a organization in the Elite Dangerous universe,
+  active from 3307-04-21 to 3307-04-21. Frequently linked with Federal Intelligence
+  Agency, Proactive Detection Bureau. '
 ---
 
 

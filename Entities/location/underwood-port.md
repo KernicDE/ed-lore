@@ -9,6 +9,11 @@ related_entities:
 - laksmii-jet-power-industries
 - independents-of-parun
 - parun
+bio: Underwood Port is a starport in the Elite Dangerous universe, significant from
+  3303-01-12 to 3303-01-19. Associated with Independents of Parun, Laksmii Jet Power
+  Industries. Laksmii Jet Power Industries plans to smuggle weapons into Underwood
+  Port in Parun for guerrilla attacks against the Independents of Parun, the system's
+  controlling faction. Both factions appeal for pilot support.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,11 @@ related_entities:
 - adles-armada
 - labour-party-of-caill-reddi
 inara_url: https://inara.cz/elite/minorfaction/?search=League%20of%20Hel
+bio: League of Hel is a organization in the Elite Dangerous universe, active from
+  3301-07-16 to 3301-07-16. Frequently linked with Adle's Armada, Hammer Arms, Hel.
+  Leader Tyllerius Adle III condemned the deal and laid siege to the League of Hel,
+  putting the system in lockdown. Citizens are turning against the arms dealers, and
+  a civil war may erupt between hungry citizens and the League of Hel.
 ---
 
 

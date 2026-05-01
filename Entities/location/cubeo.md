@@ -24,6 +24,10 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Cubeo
 inara_url: https://inara.cz/elite/starsystem/?search=Cubeo
+bio: Cubeo is a star system in the Elite Dangerous universe, significant from 3303-10-28
+  to 3310-08-02. Associated with Emperor's Dawn, Imperial Senate. Emperor Arissa Lavigny-Duval
+  survives an ambush on her convoy in Cubeo during a harvest festival, with Denton
+  Patreus proposing increased security and the Kumo Crew later linked to the attack.
 ---
 
 

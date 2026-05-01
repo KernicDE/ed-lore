@@ -11,6 +11,9 @@ related_entities:
 - 20-ophiuchi
 - crown-terminal
 - patrick-terminal
+bio: Thiel Port is a starport in the Elite Dangerous universe, significant from 3301-07-22
+  to 3301-07-22. The Cerberus Plague has forced shutdown of key station services across
+  multiple starports in Dajoar, Eleu, and 20 Ophiuchi.
 ---
 
 <!-- AUTO-GENERATED -->

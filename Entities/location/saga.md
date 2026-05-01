@@ -24,6 +24,11 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Saga
 inara_url: https://inara.cz/elite/starsystem/?search=Saga
+bio: Saga is a star system in the Elite Dangerous universe, significant from 3301-05-06
+  to 3301-05-26. President Halsey missed her scheduled meeting with Saga delegates
+  aboard Zudov Terminal. Maisy Stevenson, leader of the Saga Republic Party, stated
+  that Starflight One failed to arrive 38 hours prior and that Mars claimed the President
+  took a last-minute detour.
 ---
 
 

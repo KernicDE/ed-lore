@@ -24,6 +24,10 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Ngun
 inara_url: https://inara.cz/elite/starsystem/?search=Ngun
+bio: Ngun is a star system in the Elite Dangerous universe, significant from 3301-03-06
+  to 3301-03-06. Stop Slavery Stupid announced it would accept Imperial slaves for
+  emancipation at Mackenzie Relay in Cemiess, Thiele Orbital in Ngun and Naubakht
+  City in Eta Horologii.
 ---
 
 

@@ -24,6 +24,9 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Dohkwithi
 inara_url: https://inara.cz/elite/starsystem/?search=Dohkwithi
+bio: Dohkwithi is a star system in the Elite Dangerous universe, significant from
+  3301-03-03 to 3301-03-03. Associated with Alliance, Big G Corporation. The first
+  set includes Djaujas A 1, Khona 3, Dohkwithi A 1, Hip 54692 3 and Milelbis 4.
 ---
 
 

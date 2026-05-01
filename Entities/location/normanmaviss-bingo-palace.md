@@ -10,6 +10,10 @@ related_entities:
 - aramzahd
 - annual-galactic-games-organisation
 - guardinia
+bio: Norman–Mavis's Bingo Palace is a star system in the Elite Dangerous universe,
+  significant from 3302-10-13 to 3302-10-20. Associated with Aramzahd Empire Party,
+  Annual Galactic Games Organisation. The Annual Galactic Games Organisation will
+  hold the Gathering 3302 at Norman–Mavis's Bingo Palace in the Aramzahd system.
 ---
 
 <!-- AUTO-GENERATED -->

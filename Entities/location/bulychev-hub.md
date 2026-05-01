@@ -11,6 +11,9 @@ related_entities:
 - lp-128-32
 - lp-128-32-corporation
 - california-nebula
+bio: Bulychev Hub is a star system in the Elite Dangerous universe, significant from
+  3304-02-02 to 3304-02-09. Associated with Alliance. Huge quantities of raw materials
+  were delivered to Bulychev Hub.
 ---
 
 <!-- AUTO-GENERATED -->

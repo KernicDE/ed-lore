@@ -12,6 +12,13 @@ related_entities:
 - sefrys
 - kwatee
 inara_url: https://inara.cz/elite/minorfaction/?search=Law%20Party%20of%20HR%207327
+bio: Law Party of HR 7327 is a organization in the Elite Dangerous universe, active
+  from 3301-06-08 to 3301-06-08. Frequently linked with Mercenary's Respite, COL 285
+  Sector VG-1 B24-6, Kwatee. Delays were caused by remoteness from high-tech hubs
+  and bureaucratic obstruction by the Law Party of HR 7327, who had initially offered
+  assistance as part of a cease-fire. Ironically, the Law Party lost an election to
+  the Dukes during the truce, giving the Dukes control of both HR 7327 and the new
+  system.
 ---
 
 

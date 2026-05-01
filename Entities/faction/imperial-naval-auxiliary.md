@@ -11,6 +11,10 @@ related_entities:
 - imperial-herald
 - facece
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Naval%20Auxiliary
+bio: Imperial Naval Auxiliary is a naval in the Elite Dangerous universe, active from
+  3302-07-02 to 3302-07-02. Frequently linked with Facece Empire Party, Facece, Allied
+  Facece Order. After months of fighting, the Imperial Naval Auxiliary has reinstated
+  the Facece Empire Party as the controlling power of the Facece system.
 ---
 
 

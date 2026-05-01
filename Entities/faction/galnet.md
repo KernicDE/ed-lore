@@ -10,6 +10,12 @@ related_entities:
 - none-specified
 - wallglass-investigations-agency
 inara_url: https://inara.cz/elite/minorfaction/?search=GalNet
+bio: GalNet is a media in the Elite Dangerous universe, active from 3307-12-21 to
+  3307-12-27. Frequently linked with Pilots Federation, none specified, Shinrarta
+  Dezhra. GalNet apologises for unauthorised articles transmitted on December 17th,
+  18th and 19th, stating their technical teams are investigating the breach. GalNet
+  apologises for a second batch of unauthorised Winking Cat riddles transmitted on
+  December 24th-26th, confirming security protocols have been reinforced.
 ---
 
 

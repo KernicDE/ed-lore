@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - buckyball-racing-club
 inara_url: https://inara.cz/elite/minorfaction/?search=Apocolyptican%20Faith
+bio: 'Apocolyptican Faith is a religious in the Elite Dangerous universe, active from
+  3302-12-07 to 3302-12-07. Frequently linked with Buckyball Racing Club. '
 ---
 
 

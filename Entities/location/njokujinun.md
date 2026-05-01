@@ -20,6 +20,10 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Njokujinun
 inara_url: https://inara.cz/elite/starsystem/?search=Njokujinun
+bio: Njokujinun is a star system in the Elite Dangerous universe, significant from
+  3302-01-10 to 3302-01-10. The first annual Galactic Base-Jumping Open begins on
+  Planet 1 in the Njokujinun system, with base-jump champion Commander Burias authorizing
+  jumps.
 ---
 
 

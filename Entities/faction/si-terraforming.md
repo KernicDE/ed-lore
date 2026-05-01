@@ -12,6 +12,9 @@ related_entities:
 - 42-n-persei
 - chun-pindit
 inara_url: https://inara.cz/elite/minorfaction/?search=SI%20Terraforming
+bio: 'SI Terraforming is a organization in the Elite Dangerous universe, active from
+  3308-09-12 to 3308-09-12. Frequently linked with Sirius Inc, Riemann Colony, Samuda
+  Terminal. '
 ---
 
 

@@ -10,6 +10,10 @@ related_entities:
 - federal-navy
 - beta-hydri
 - homeland
+bio: Blue Peaks is a star system in the Elite Dangerous universe, significant from
+  3304-08-16 to 3304-08-16. Associated with MacArthur Mining Ltd, Federal Navy. Security
+  Chief Sara Kulkarni reports sensor drones detected it surfacing in the Blue Peaks
+  mountain range, where it was homing in on mineral ores.
 ---
 
 <!-- AUTO-GENERATED -->

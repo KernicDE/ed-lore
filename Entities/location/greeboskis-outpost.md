@@ -9,6 +9,12 @@ related_entities:
 - sovereign-justice-collective
 - phiagre-system
 - pilots-federation
+bio: Greeboski's Outpost is a outpost in the Elite Dangerous universe, significant
+  from 3302-04-21 to 3302-04-28. Associated with Sovereign Justice Collective, Pilots
+  Federation. The Sovereign Justice Collective confirms that sufficient titanium has
+  been received to upgrade Greeboski's Outpost in the Phiagre system. Hundreds of
+  pilots responded to the appeal, and the outpost will now feature state-of-the-art
+  services and facilities.
 ---
 
 <!-- AUTO-GENERATED -->

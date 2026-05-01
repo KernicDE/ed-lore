@@ -8,6 +8,10 @@ mention_count: 2
 related_entities:
 - peacock-patrons-of-law
 - peacock
+bio: Phillips Dock is a starport in the Elite Dangerous universe, significant from
+  3303-02-09 to 3303-02-16. Associated with Peacock Patrons of Law. The Peacock Patrons
+  of Law's appeal for robotics, ion distributors and emergency power cells concludes
+  with a massive influx of deliveries to Phillips Dock.
 ---
 
 <!-- AUTO-GENERATED -->

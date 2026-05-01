@@ -21,6 +21,10 @@ economy: Extraction
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Sedna
 inara_url: https://inara.cz/elite/starsystem/?search=Sedna
+bio: Sedna is a star system in the Elite Dangerous universe, significant from 3304-04-13
+  to 3304-04-13. Associated with Sol astronomers. The object's approximate location
+  has been given as roughly 1,726,716 light seconds from the sun and 1,526,050 light
+  seconds from 90377 Sedna, and explorers are encouraged to seek it out.
 ---
 
 

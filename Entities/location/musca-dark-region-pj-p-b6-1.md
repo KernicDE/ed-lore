@@ -24,6 +24,8 @@ economy: Extraction
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Musca%20Dark%20Region%20PJ-P%20b6-1
 inara_url: https://inara.cz/elite/starsystem/?search=Musca%20Dark%20Region%20PJ-P%20b6-1
+bio: 'Musca Dark Region PJ-P b6-1 is a star system in the Elite Dangerous universe,
+  significant from 3306-11-26 to 3308-06-23. Associated with Pilots Federation, Alliance. '
 ---
 
 

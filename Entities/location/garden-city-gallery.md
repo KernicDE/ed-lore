@@ -11,6 +11,10 @@ related_entities:
 - turners-world
 - inra
 - league-of-reparation
+bio: Garden City Gallery is a star system in the Elite Dangerous universe, significant
+  from 3304-06-09 to 3304-06-10. Associated with Garden City security. A valuable
+  digital artwork titled Youscape is stolen from the Garden City Gallery on Turner's
+  World in the Alioth system.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -23,6 +23,9 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Alignak
 inara_url: https://inara.cz/elite/starsystem/?search=Alignak
+bio: 'Alignak is a star system in the Elite Dangerous universe, significant from 3305-01-24
+  to 3305-01-31. Associated with Neomedical Industries, Vandermeer Corporation, Vitadyne
+  Labs. '
 ---
 
 

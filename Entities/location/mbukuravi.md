@@ -23,6 +23,10 @@ economy: Agriculture
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Mbukuravi
 inara_url: https://inara.cz/elite/starsystem/?search=Mbukuravi
+bio: Mbukuravi is a star system in the Elite Dangerous universe, significant from
+  3301-06-22 to 3301-06-22. Associated with Adle's Armada, Federation. They will now
+  operate as their own power primarily in Ngaliba, Mbukuravi, and Kremainn, creating
+  their own governance system.
 ---
 
 

@@ -10,6 +10,8 @@ related_entities:
 - mars
 - prism
 - sol
+bio: 'Titan is a star system in the Elite Dangerous universe, significant from 3301-03-17
+  to 3301-03-17. Associated with Merchants Guild. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,8 @@ related_entities:
 - federation
 - fort-asch
 inara_url: https://inara.cz/elite/minorfaction/?search=Black%20Flight
+bio: 'Black Flight is a organization in the Elite Dangerous universe, active from
+  3308-07-27 to 3308-07-27. Frequently linked with Overlook, HIP 22460, Alliance. '
 ---
 
 

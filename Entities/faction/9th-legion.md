@@ -12,6 +12,11 @@ related_entities:
 - sepp
 - prismatic-imperium
 inara_url: https://inara.cz/elite/minorfaction/?search=9th%20Legion
+bio: 9th Legion is a organization in the Elite Dangerous universe, active from 3302-11-05
+  to 3303-01-10. Frequently linked with Colonia Citizens Network, SEPP, Earth Defense
+  Fleet. Imperial factions The Chapterhouse of Inquisition, Lavigny's Legion, and
+  the 9th Legion issue strict no-fire orders to their pilots regarding alien ship
+  encounters.
 ---
 
 

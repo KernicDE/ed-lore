@@ -23,6 +23,12 @@ economy: High Tech
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Aganippe
 inara_url: https://inara.cz/elite/starsystem/?search=Aganippe
+bio: Aganippe is a star system in the Elite Dangerous universe, significant from 3301-10-08
+  to 3301-10-15. Associated with Revolutionary Noti Value Party, Federal Times. He
+  alleged the Revolutionary Noti Value Party's Aganippe Rush appeal was connected
+  to bringing these engineered slaves to market. The Revolutionary Noti Value Party's
+  appeal for Aganippe Rush concluded successfully, with hundreds of independent pilots
+  delivering the rare commodity to Weber Gateway.
 ---
 
 

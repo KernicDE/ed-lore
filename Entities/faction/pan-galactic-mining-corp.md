@@ -10,6 +10,12 @@ related_entities:
 - federal-bar-council
 - interstellar-press
 inara_url: https://inara.cz/elite/minorfaction/?search=Pan%20Galactic%20Mining%20Corp
+bio: Pan Galactic Mining Corp is a corporate in the Elite Dangerous universe, active
+  from 3302-03-08 to 3302-03-14. Frequently linked with Zaonce, Federal Bar Council.
+  Chef Oliver Gordon is served with a writ by the Pan Galactic Mining Corp demanding
+  he change the name of his restaurant 'PanGalactic'. Chef Oliver Gordon loses his
+  battle over the 'PanGalactic' trademark and is forced to close his restaurant due
+  to spiralling legal costs.
 ---
 
 

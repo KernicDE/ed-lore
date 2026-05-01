@@ -11,6 +11,8 @@ related_entities:
 - federal-intelligence-agency
 - aeternitas
 - houtman-city
+bio: 'Taylor Keep is a star system in the Elite Dangerous universe, significant from
+  3304-06-08 to 3304-06-08. Associated with INRA. '
 ---
 
 <!-- AUTO-GENERATED -->

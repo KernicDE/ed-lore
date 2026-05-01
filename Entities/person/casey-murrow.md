@@ -6,6 +6,8 @@ first_seen_date: '3301-02-19'
 last_seen_date: '3301-02-19'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Casey%20Murrow
+bio: Casey Murrow is a pilot in the Elite Dangerous universe, active from 3301-02-19
+  to 3301-02-19. Valentine Day Regatta, shared his racing philosophy with Casey Murrow.
 ---
 
 

@@ -6,6 +6,8 @@ first_seen_date: '3302-09-02'
 last_seen_date: '3302-09-02'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Elana%20Lorax
+bio: 'Elana Lorax is a president in the Elite Dangerous universe, active from 3302-09-02
+  to 3302-09-02. Closely associated with Federation. '
 ---
 
 

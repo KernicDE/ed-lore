@@ -11,6 +11,9 @@ related_entities:
 - chi-orionis
 - alioth
 inara_url: https://inara.cz/elite/minorfaction/?search=BigSix
+bio: BigSix is a organization in the Elite Dangerous universe, active from 3302-08-27
+  to 3302-11-19. Frequently linked with MetaDrive Inc., Sirius Corporation, Chi Orionis.
+  Independent auditor BigSix reported financial anomalies leading to MetaDrive Inc.
 ---
 
 

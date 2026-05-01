@@ -9,6 +9,9 @@ related_entities:
 - geras-first
 - ndozins-state-inc
 - geras
+bio: Yurchikhin Port is a starport in the Elite Dangerous universe, significant from
+  3304-11-08 to 3304-11-08. Associated with Ndozins State Inc, Geras First. Both factions
+  received support from independent combat pilots but only one emerged victorious.
 ---
 
 <!-- AUTO-GENERATED -->

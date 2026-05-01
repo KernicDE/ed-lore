@@ -12,6 +12,13 @@ related_entities:
 - iiss
 - emperors-dawn
 inara_url: https://inara.cz/elite/minorfaction/?search=Cemiess%20Empire%20Party
+bio: Cemiess Empire Party is a organization in the Elite Dangerous universe, active
+  from 3301-08-28 to 3301-09-18. Frequently linked with Cemiess, Imperial Internal
+  Security Service, Mackenzie Relay. The request is being managed by the Cemiess Empire
+  Party, with pilots directed to deliver data to Mackenzie Relay. Agent Cope authorized
+  the Cemiess Empire Party to reimburse pilots delivering reliable exploration data
+  to Mackenzie Relay in the Cemiess system, as part of efforts to neutralize the insurgent
+  threat.
 ---
 
 

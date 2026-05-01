@@ -9,6 +9,9 @@ related_entities:
 - imperial-internal-security-service
 - marlinist
 - nmla
+bio: 'We know that her ship left the Mudhrid is a star system in the Elite Dangerous
+  universe, significant from 3307-03-25 to 3307-03-25. Associated with NMLA, Imperial
+  Internal Security Service, Marlinist. '
 ---
 
 <!-- AUTO-GENERATED -->

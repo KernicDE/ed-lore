@@ -24,6 +24,10 @@ economy: Terraforming
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Bard
 inara_url: https://inara.cz/elite/starsystem/?search=Bard
+bio: Bard is a star system in the Elite Dangerous universe, significant from 3302-03-29
+  to 3302-03-29. Associated with Jeffress treasure hunt organisers. Thousands of pilots
+  competed, solving riddles that led through Persephone in the Avalon system, Arrhenius
+  Terminal in Bard, and finally to the Algol system.
 ---
 
 

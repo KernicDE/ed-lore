@@ -24,6 +24,8 @@ economy: Terraforming
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=234%20G.%20Carinae
 inara_url: https://inara.cz/elite/starsystem/?search=234%20G.%20Carinae
+bio: '234 G. Carinae is a star system in the Elite Dangerous universe, significant
+  from 3306-10-16 to 3306-10-16. '
 ---
 
 

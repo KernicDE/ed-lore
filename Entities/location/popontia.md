@@ -24,6 +24,8 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Popontia
 inara_url: https://inara.cz/elite/starsystem/?search=Popontia
+bio: 'Popontia is a star system in the Elite Dangerous universe, significant from
+  3308-09-29 to 3309-06-08. Associated with Federal Navy, Popontia Incorporated. '
 ---
 
 

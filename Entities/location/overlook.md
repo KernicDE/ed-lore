@@ -11,6 +11,8 @@ related_entities:
 - black-flight
 - empire
 - federation
+bio: 'Overlook is a star system in the Elite Dangerous universe, significant from
+  3308-07-27 to 3308-07-27. Associated with Black Flight, Alliance, Empire. '
 ---
 
 <!-- AUTO-GENERATED -->

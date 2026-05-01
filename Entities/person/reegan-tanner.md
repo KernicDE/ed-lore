@@ -6,6 +6,11 @@ first_seen_date: '3304-08-31'
 last_seen_date: '3304-09-09'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Reegan%20Tanner
+bio: Reegan Tanner is a pilot in the Elite Dangerous universe, active from 3304-08-31
+  to 3304-09-09. Closely associated with Far God cult, LHS 2541 Alliance Combine.
+  Chancellor Reegan Tanner states the materials will be revered as objects of worship
+  and not used for xenobiological experiments. Chancellor Reegan Tanner thanks contributors
+  and firmly denies rumours that the sect experiments on willing test subjects.
 ---
 
 

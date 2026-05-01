@@ -12,6 +12,9 @@ related_entities:
 - black-birds-squadron
 - aislings-angels
 inara_url: https://inara.cz/elite/minorfaction/?search=Communism%20Interstellar
+bio: 'Communism Interstellar is a organization in the Elite Dangerous universe, active
+  from 3302-01-12 to 3302-01-12. Frequently linked with Adle''s Armada, Guardians
+  of Harmony, Utopia. '
 ---
 
 

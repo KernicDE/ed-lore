@@ -10,6 +10,9 @@ related_entities:
 - zoline-port
 - ltt-377
 inara_url: https://inara.cz/elite/minorfaction/?search=LTT%20377%20Allied%20Co
+bio: 'LTT 377 Allied Co is a organization in the Elite Dangerous universe, active
+  from 3303-05-12 to 3303-05-12. Frequently linked with LTT 377, Zoline Port, Canonn
+  Interstellar Research Group. '
 ---
 
 

@@ -20,6 +20,9 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Lusonda
 inara_url: https://inara.cz/elite/starsystem/?search=Lusonda
+bio: Lusonda is a star system in the Elite Dangerous universe, significant from 3302-07-02
+  to 3302-07-02. Associated with Interstellar Press. When Ferdinand Haim of the Lusonda
+  system arrived empty handed, Delaine ordered him to take his own life.
 ---
 
 

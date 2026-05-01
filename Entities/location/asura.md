@@ -24,6 +24,8 @@ economy: Service
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Asura
 inara_url: https://inara.cz/elite/starsystem/?search=Asura
+bio: 'Asura is a star system in the Elite Dangerous universe, significant from 3304-08-29
+  to 3304-08-29. '
 ---
 
 

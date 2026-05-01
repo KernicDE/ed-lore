@@ -12,6 +12,9 @@ related_entities:
 - metadrive-inc
 - chi-orionis
 inara_url: https://inara.cz/elite/minorfaction/?search=Sirius
+bio: 'Sirius is a organization in the Elite Dangerous universe, active from 3302-08-12
+  to 3302-08-12. Frequently linked with Galactic Finance Times, Core Dynamics, MetaDrive
+  Inc.. '
 ---
 
 

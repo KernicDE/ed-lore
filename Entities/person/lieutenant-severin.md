@@ -6,6 +6,10 @@ first_seen_date: '3302-04-21'
 last_seen_date: '3302-04-28'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Lieutenant%20Severin
+bio: Lieutenant Severin is a admiral in the Elite Dangerous universe, active from
+  3302-04-21 to 3302-04-28. Closely associated with Mundjiga Patrons of Law, Imperial
+  Navy. Lieutenant Severin calls for loyal Imperial pilots to deliver supplies to
+  Sagan Port in the Mundjiga system.
 ---
 
 

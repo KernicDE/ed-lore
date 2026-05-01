@@ -11,6 +11,9 @@ related_entities:
 - utopia
 - federal-congress
 - imperial-senate
+bio: 'Tanner Settlement in the Polevnic is a outpost in the Elite Dangerous universe,
+  significant from 3307-01-21 to 3307-01-28. Associated with Alliance, Sirius Corporation,
+  Utopia. '
 ---
 
 <!-- AUTO-GENERATED -->

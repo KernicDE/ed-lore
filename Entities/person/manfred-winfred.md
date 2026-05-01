@@ -6,6 +6,8 @@ first_seen_date: '3302-01-29'
 last_seen_date: '3302-01-29'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Manfred%20Winfred
+bio: 'Manfred Winfred is a scientist in the Elite Dangerous universe, active from
+  3302-01-29 to 3302-01-29. '
 ---
 
 

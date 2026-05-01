@@ -9,6 +9,11 @@ related_entities:
 - dervish-foss-literary-agency
 - bonespire-publishing
 - rhea-archipelago
+bio: Skyglow Havens is a star system in the Elite Dangerous universe, significant
+  from 3304-11-17 to 3304-11-17. Associated with Dervish-Foss Literary Agency, Bonespire
+  Publishing. Hist explains that she was unaware of the concern because she was on
+  holiday and there are no communication facilities at Skyglow Havens on the Rhea
+  Archipelago.
 ---
 
 <!-- AUTO-GENERATED -->

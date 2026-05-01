@@ -11,6 +11,10 @@ related_entities:
 - bank-of-zaonce
 - silver-universal-plc
 - quivira
+bio: Stepledon Dock is a starport in the Elite Dangerous universe, significant from
+  3301-05-01 to 3301-05-01. Associated with Bank of Zaonce, Silver Universal PLC.
+  Quivira Electronics Plc, acting on Patreus's behalf, seizes Stepledon Dock and hires
+  freelance reclamation agents.
 ---
 
 <!-- AUTO-GENERATED -->

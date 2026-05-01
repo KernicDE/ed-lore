@@ -9,6 +9,11 @@ related_entities:
 - vesper-m4
 - slough
 inara_url: https://inara.cz/elite/minorfaction/?search=SpecialEffect
+bio: SpecialEffect is a organization in the Elite Dangerous universe, active from
+  3301-02-21 to 3301-02-21. Frequently linked with Vesper-M4, Slough. An anonymous
+  donor contributed a case of rare Vesperian Nectar to SpecialEffect, a charity enhancing
+  quality of life for people with physical disabilities. Commander Angel Rose is holding
+  private auctions throughout the day on behalf of SpecialEffect.
 ---
 
 

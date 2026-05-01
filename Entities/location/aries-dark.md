@@ -10,6 +10,8 @@ related_entities:
 - maia
 - tanmark
 - hip-102128
+bio: 'Aries Dark is a star system in the Elite Dangerous universe, significant from
+  3301-10-13 to 3301-10-13. Associated with Canonn Interstellar Research Group. '
 ---
 
 <!-- AUTO-GENERATED -->

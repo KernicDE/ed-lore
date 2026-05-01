@@ -11,6 +11,11 @@ related_entities:
 - alioth
 - mars
 - prism
+bio: Cambridge is a star system in the Elite Dangerous universe, significant from
+  3301-03-27 to 3303-01-20. Associated with Alliance. Loren is currently on Earth,
+  having been greeted by cheering crowds at Cambridge spaceport before meeting Ambassador
+  Waite in London. Federal Times reporter Jason Nygaard notes unusual ship movements
+  around Cambridge on Earth.
 ---
 
 <!-- AUTO-GENERATED -->

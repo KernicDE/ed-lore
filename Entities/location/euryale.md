@@ -24,6 +24,8 @@ economy: High Tech
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Euryale
 inara_url: https://inara.cz/elite/starsystem/?search=Euryale
+bio: 'Euryale is a star system in the Elite Dangerous universe, significant from 3302-10-27
+  to 3302-10-27. Associated with United Research Council, Federal Navy. '
 ---
 
 

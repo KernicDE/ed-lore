@@ -11,6 +11,10 @@ related_entities:
 - newton-dock
 - bast
 - hart-station
+bio: Brunel City is a star system in the Elite Dangerous universe, significant from
+  3302-08-11 to 3302-08-11. Associated with Buckyball Racing Club. The event includes
+  a scramble around medicine-production facilities and a speed run to Brunel City
+  in Heike.
 ---
 
 <!-- AUTO-GENERATED -->

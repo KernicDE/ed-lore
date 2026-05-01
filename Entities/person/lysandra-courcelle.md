@@ -6,6 +6,10 @@ first_seen_date: '3309-10-02'
 last_seen_date: '3309-10-02'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Lysandra%20Courcelle
+bio: Lysandra Courcelle is a emperor in the Elite Dangerous universe, active from
+  3309-10-02 to 3309-10-02. Closely associated with Imperial Senate. Senator Lysandra
+  Courcelle raises concerns about Emperor Arissa's lack of heirs, sparking debate
+  about Imperial succession.
 ---
 
 

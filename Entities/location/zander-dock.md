@@ -8,6 +8,11 @@ mention_count: 2
 related_entities:
 - winged-hussars
 - hip-110028
+bio: Zander Dock is a starport in the Elite Dangerous universe, significant from 3303-09-29
+  to 3303-10-06. Associated with Winged Hussars. The organisation has requested various
+  rare liquors for delivery to Zander Dock to cater to wealthy tourists from core
+  systems. The Winged Hussars' appeal for rare liquors concluded successfully, resulting
+  in a massive influx of deliveries to Zander Dock.
 ---
 
 <!-- AUTO-GENERATED -->

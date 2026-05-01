@@ -20,6 +20,9 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Olgrea
 inara_url: https://inara.cz/elite/starsystem/?search=Olgrea
+bio: Olgrea is a star system in the Elite Dangerous universe, significant from 3305-08-16
+  to 3305-08-16. Associated with Alliance. Local author Hanna Darrold releases the
+  metafictional bestseller 'Chronicles of Olgrea'.
 ---
 
 

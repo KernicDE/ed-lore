@@ -11,6 +11,9 @@ related_entities:
 - authorities-in-the-lhou-mans
 - enterprise
 - gateway
+bio: A spokesperson for Lhou Mans is a star system in the Elite Dangerous universe,
+  significant from 3312-04-28 to 3312-04-28. Associated with Lhou Mans Security, Zorgon
+  Peterson. Coordinated criminal attacks damage four ports in Lhou Mans.
 ---
 
 <!-- AUTO-GENERATED -->

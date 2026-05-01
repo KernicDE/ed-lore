@@ -21,6 +21,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Irusan
 inara_url: https://inara.cz/elite/starsystem/?search=Irusan
+bio: Irusan is a star system in the Elite Dangerous universe, significant from 3303-09-29
+  to 3303-10-06. Associated with Candy Crew Guild. The Candy Crew Guild announces
+  plans to establish a capital shipyard and scientific research vessel in the Irusan
+  system. The organisation has placed an open order for palladium, titanium and robotics
+  for delivery to Bella Port in Irusan.
 ---
 
 

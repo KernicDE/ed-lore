@@ -11,6 +11,8 @@ related_entities:
 - coalsack-nebula
 - siniang
 - li-chyou-winds
+bio: 'Kandula''s Truth is a star system in the Elite Dangerous universe, significant
+  from 3308-04-13 to 3308-04-13. Associated with Alliance, Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

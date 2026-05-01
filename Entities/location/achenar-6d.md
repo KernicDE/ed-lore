@@ -10,6 +10,8 @@ related_entities:
 - independents-of-daramo
 - daramo
 - achenar
+bio: 'Achenar 6d is a star system in the Elite Dangerous universe, significant from
+  3302-06-27 to 3302-06-27. Associated with Independents of Daramo, Federal Navy. '
 ---
 
 <!-- AUTO-GENERATED -->

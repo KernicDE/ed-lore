@@ -9,6 +9,10 @@ related_entities:
 - chelomy-vision-fight-club
 - sol
 - balaikda
+bio: Chelomy Vision is a star system in the Elite Dangerous universe, significant
+  from 3301-02-08 to 3301-02-08. Associated with Chelomy Vision Fight Club. The Chelomy
+  Vision fight club in Balaikda hosts unsanctioned aerial brawls where pilots engage
+  in unsafe combat above the station.
 ---
 
 <!-- AUTO-GENERATED -->

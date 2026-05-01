@@ -8,6 +8,10 @@ mention_count: 2
 related_entities:
 - vestani-conservatives
 - vestani
+bio: Rose Terminal is a star system in the Elite Dangerous universe, significant from
+  3303-02-09 to 3303-02-16. Associated with Vestani Conservatives. Vestani Conservatives'
+  Valentine's Day appeal concludes successfully with hundreds of pilots delivering
+  commodities to Rose Terminal.
 ---
 
 <!-- AUTO-GENERATED -->

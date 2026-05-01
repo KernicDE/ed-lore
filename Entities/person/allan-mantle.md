@@ -6,6 +6,8 @@ first_seen_date: '3308-10-04'
 last_seen_date: '3309-05-23'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Allan%20Mantle
+bio: 'Allan Mantle is a scientist in the Elite Dangerous universe, active from 3308-10-04
+  to 3309-05-23. Closely associated with Aegis, INRA, Azimuth. '
 ---
 
 

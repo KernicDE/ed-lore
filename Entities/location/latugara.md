@@ -21,6 +21,8 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Latugara
 inara_url: https://inara.cz/elite/starsystem/?search=Latugara
+bio: 'Latugara is a star system in the Elite Dangerous universe, significant from
+  3302-09-15 to 3302-10-13. Associated with Latugara PLC. '
 ---
 
 

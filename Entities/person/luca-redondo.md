@@ -6,6 +6,8 @@ first_seen_date: '3309-08-15'
 last_seen_date: '3309-08-15'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Luca%20Redondo
+bio: 'Luca Redondo is a prominent figure in the Elite Dangerous universe, active from
+  3309-08-15 to 3309-08-15. Closely associated with Aegis. '
 ---
 
 

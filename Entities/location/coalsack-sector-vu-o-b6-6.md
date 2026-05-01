@@ -24,6 +24,9 @@ economy: Extraction
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Coalsack%20Sector%20VU-O%20b6-6
 inara_url: https://inara.cz/elite/starsystem/?search=Coalsack%20Sector%20VU-O%20b6-6
+bio: 'Coalsack Sector VU-O b6-6 is a star system in the Elite Dangerous universe,
+  significant from 3307-12-21 to 3307-12-21. Associated with Pilots Federation, Vox
+  Galactica. '
 ---
 
 

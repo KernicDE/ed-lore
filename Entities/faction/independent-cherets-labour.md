@@ -12,6 +12,11 @@ related_entities:
 - achenar
 - alioth
 inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Cherets%20Labour
+bio: Independent Cherets Labour is a organization in the Elite Dangerous universe,
+  active from 3301-12-30 to 3302-01-07. Frequently linked with Cherets, Anduliga,
+  Alioth. Independent Cherets Labour announced that its appeal for Anduliga Fireworks
+  was successful, with independent combat pilots protecting delivery routes to Bucky
+  Hub in the Cherets system.
 ---
 
 

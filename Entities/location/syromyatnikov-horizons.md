@@ -11,6 +11,8 @@ related_entities:
 - gutamaya-corporation
 - patrons-of-law
 - nehet-silver-ring
+bio: 'Syromyatnikov Horizons is a star system in the Elite Dangerous universe, significant
+  from 3301-04-11 to 3301-04-16. Associated with Citizens of Tradition. '
 ---
 
 <!-- AUTO-GENERATED -->

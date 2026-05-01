@@ -11,6 +11,9 @@ related_entities:
 - utopia
 - nunus
 - varka
+bio: Lambla is a star system in the Elite Dangerous universe, significant from 3301-07-09
+  to 3301-07-09. Associated with Utopia. Felicia Winters secured Lambla and Carnoeck
+  but was countered near Imperial space.
 ---
 
 <!-- AUTO-GENERATED -->

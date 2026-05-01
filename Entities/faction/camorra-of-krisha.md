@@ -12,6 +12,12 @@ related_entities:
 - krisha
 - fincke-depot
 inara_url: https://inara.cz/elite/minorfaction/?search=Camorra%20of%20Krisha
+bio: Camorra of Krisha is a organization in the Elite Dangerous universe, active from
+  3301-06-05 to 3301-06-12. Frequently linked with Krisha, Kumo Crew, Fincke Depot.
+  The Hand Gang of Gandii and Camorra of Krisha are attempting to take direct control
+  of systems within Archon's domain; success means acceptance into the Kumo Crew,
+  failure means disappearance. The Hand Gang of Gandii and Camorra of Krisha's call
+  for Kumo Crew allies yielded disappointing recruitment.
 ---
 
 

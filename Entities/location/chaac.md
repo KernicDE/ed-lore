@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Chaac
 inara_url: https://inara.cz/elite/starsystem/?search=Chaac
+bio: 'Chaac is a star system in the Elite Dangerous universe, significant from 3302-07-18
+  to 3302-07-18. Associated with Buckyball Racing Club, Ex Luna Scientia. '
 ---
 
 

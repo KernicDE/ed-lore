@@ -10,6 +10,9 @@ related_entities:
 - eol-prou-lw-l-c8-215
 - tolagarfs-junkjard
 inara_url: https://inara.cz/elite/minorfaction/?search=Junkyard%20Dogs
+bio: 'Junkyard Dogs is a organization in the Elite Dangerous universe, active from
+  3303-05-19 to 3303-05-26. Frequently linked with Eol Prou Lw-L C8-215, Colonia Council,
+  Tolagarf''s Junkjard. '
 ---
 
 

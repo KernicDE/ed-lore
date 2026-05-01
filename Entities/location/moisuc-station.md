@@ -9,6 +9,10 @@ related_entities:
 - federal-navy
 - reyan-bps
 - mongan
+bio: Moisuc Station is a starport in the Elite Dangerous universe, significant from
+  3301-04-14 to 3301-04-14. Associated with Federal Navy, Reyan BPS. Shadow President
+  Hudson visited Reyan BPS headquarters aboard Moisuc Station in Mongan to meet CEO
+  Sam Reyan.
 ---
 
 <!-- AUTO-GENERATED -->

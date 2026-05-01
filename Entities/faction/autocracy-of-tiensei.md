@@ -12,6 +12,11 @@ related_entities:
 - pilots-federation
 - los-chupacabras
 inara_url: https://inara.cz/elite/minorfaction/?search=Autocracy%20of%20T%E2%80%99iensei
+bio: Autocracy of T’iensei is a organization in the Elite Dangerous universe, active
+  from 3304-05-25 to 3304-05-25. Frequently linked with T'iensei, Dzhanibekov Port,
+  Pilots Federation. The Autocracy of T'iensei placed kill orders on criminals in
+  their system. Authorities in the T’iensei system have reported a sharp increase
+  in criminals attacking pilots and disrupting trade.
 ---
 
 

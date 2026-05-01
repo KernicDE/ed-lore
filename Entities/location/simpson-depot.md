@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - facece
 - imperial-palace
+bio: 'Simpson Depot is a star system in the Elite Dangerous universe, significant
+  from 3301-04-03 to 3301-04-03. Associated with Imperial Palace. '
 ---
 
 <!-- AUTO-GENERATED -->

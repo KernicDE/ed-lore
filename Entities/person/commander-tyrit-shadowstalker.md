@@ -6,6 +6,9 @@ first_seen_date: '3302-03-15'
 last_seen_date: '3302-03-15'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Tyrit%20Shadowstalker
+bio: 'Commander Tyrit Shadowstalker is a pirate in the Elite Dangerous universe, active
+  from 3302-03-15 to 3302-03-15. Closely associated with Federal Navy, Congressional
+  Oversight Committee. '
 ---
 
 

@@ -10,6 +10,11 @@ related_entities:
 - fousang
 - akers-orbital
 inara_url: https://inara.cz/elite/minorfaction/?search=Fousang%20security
+bio: Fousang security is a organization in the Elite Dangerous universe, active from
+  3304-06-29 to 3304-06-29. Frequently linked with Blue Creative Company, Fousang,
+  Akers Orbital. Criminal organisations are exploiting the Thargoid threat to increase
+  raids on civilian traffic in the Fousang system. Wing Commander Horatio Montange
+  reports stretched security resources.
 ---
 
 

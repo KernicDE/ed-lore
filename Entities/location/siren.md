@@ -21,6 +21,9 @@ economy: Agriculture
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Siren
 inara_url: https://inara.cz/elite/starsystem/?search=Siren
+bio: Siren is a star system in the Elite Dangerous universe, significant from 3301-02-17
+  to 3301-02-17. Congressman Ethan Naylor of Siren was formally sworn in as Federal
+  Vice President in a ceremony on Mars.
 ---
 
 

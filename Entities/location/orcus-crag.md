@@ -11,6 +11,8 @@ related_entities:
 - pleiades-sector-oi-t-c3-7
 - arietis-sector-xe-z-b4
 - pre-logistics-support-beta
+bio: 'Orcus Crag is a star system in the Elite Dangerous universe, significant from
+  3304-03-02 to 3304-03-04. Associated with Empire. '
 ---
 
 <!-- AUTO-GENERATED -->

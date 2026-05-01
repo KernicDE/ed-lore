@@ -6,6 +6,10 @@ first_seen_date: '3304-07-28'
 last_seen_date: '3304-07-28'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Ogden%20Smith
+bio: Ogden Smith is a president in the Elite Dangerous universe, active from 3304-07-28
+  to 3304-07-28. Closely associated with Andromedaries Superlative Society, Blackshadow
+  Productions. Fan society president Ogden Smith defends the reboot as returning to
+  the gritty drama fans enjoyed as children.
 ---
 
 

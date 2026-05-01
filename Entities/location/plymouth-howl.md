@@ -11,6 +11,8 @@ related_entities:
 - novas
 - sosong
 - chanjie
+bio: 'Plymouth Howl is a star system in the Elite Dangerous universe, significant
+  from 3308-04-28 to 3308-05-12. '
 ---
 
 <!-- AUTO-GENERATED -->

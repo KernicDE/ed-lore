@@ -11,6 +11,8 @@ related_entities:
 - gliese-972
 - cao-junga
 - wredguia-sx-l-d7-92
+bio: 'Col 285 Sector WA-L b9-3 is a star system in the Elite Dangerous universe, significant
+  from 3301-03-12 to 3301-03-12. Associated with Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

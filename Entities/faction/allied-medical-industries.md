@@ -12,6 +12,11 @@ related_entities:
 - vandermeer-corporation
 - vitadyne-labs
 inara_url: https://inara.cz/elite/minorfaction/?search=Allied%20Medical%20Industries
+bio: Allied Medical Industries is a medical in the Elite Dangerous universe, active
+  from 3304-12-05 to 3304-12-08. Frequently linked with Neomedical Industries, Neosalve
+  Inc., Vandermeer Corporation. Allied Medical Industries and Neosalve Inc. merge
+  to form Neomedical Industries, one of the largest pharmaceutical companies in the
+  galaxy.
 ---
 
 

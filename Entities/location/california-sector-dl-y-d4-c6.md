@@ -9,6 +9,9 @@ related_entities:
 - canonn-interstellar-research-group
 - california-nebula
 - pleiades-nebula
+bio: 'California Sector DL-Y D4 C6 is a star system in the Elite Dangerous universe,
+  significant from 3302-06-07 to 3302-06-07. Associated with Canonn Interstellar Research
+  Group. '
 ---
 
 <!-- AUTO-GENERATED -->

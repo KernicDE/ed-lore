@@ -10,6 +10,10 @@ related_entities:
 - xuesen-orbital
 - nehet
 - mictlan
+bio: Kowal Dock is a starport in the Elite Dangerous universe, significant from 3301-04-15
+  to 3301-04-15. Associated with Imperial Court. She called on pilots to assist her
+  investigative task force, with sign-ups available at Xuesen Orbital in Nehet and
+  Kowal Dock in Mictlan.
 ---
 
 <!-- AUTO-GENERATED -->

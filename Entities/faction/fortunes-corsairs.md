@@ -9,6 +9,10 @@ related_entities:
 - chamash-foods
 - chamas
 inara_url: https://inara.cz/elite/minorfaction/?search=Fortunes%20Corsairs
+bio: Fortunes Corsairs is a organization in the Elite Dangerous universe, active from
+  3305-08-15 to 3305-08-22. Frequently linked with Chamash Foods, Chamas. The Fortunes
+  Corsairs organise a food delivery initiative to Chamas to support a fundraising
+  event for a new asteroid base.
 ---
 
 

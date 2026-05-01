@@ -11,6 +11,8 @@ related_entities:
 - azimuth-biotech
 - black-flight
 - empire
+bio: 'Fort Asch is a star system in the Elite Dangerous universe, significant from
+  3308-07-27 to 3311-01-16. Associated with Black Flight, Alliance, Empire. '
 ---
 
 <!-- AUTO-GENERATED -->

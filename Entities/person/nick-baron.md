@@ -6,6 +6,10 @@ first_seen_date: '3301-09-01'
 last_seen_date: '3301-09-01'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Nick%20Baron
+bio: Nick Baron is a president in the Elite Dangerous universe, active from 3301-09-01
+  to 3301-09-01. Closely associated with Core Dynamics, Federal Times. Flight Engineer
+  Nick Baron of Starship One previously worked at Core Dynamics, and financial records
+  showed payments traced through a shell corporation involving Fallside.
 ---
 
 

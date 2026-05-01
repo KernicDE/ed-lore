@@ -11,6 +11,8 @@ related_entities:
 - warkushanui
 - mars
 - sulus
+bio: 'Warkushanui Port is a starport in the Elite Dangerous universe, significant
+  from 3304-08-25 to 3304-08-26. Associated with Alliance, Lakon Spaceways. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,9 @@ related_entities:
 - patrons-principles
 - east-india-company
 - faveol-family
+bio: 'Jemison Refinery is a star system in the Elite Dangerous universe, significant
+  from 3301-04-27 to 3301-04-27. Associated with Faveol family, Imperial Senate, Patron''s
+  Principles. '
 ---
 
 <!-- AUTO-GENERATED -->

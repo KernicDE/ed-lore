@@ -11,6 +11,8 @@ related_entities:
 - sirius-corporation
 - didio
 - leesti
+bio: 'Chariot of Rhea is a star system in the Elite Dangerous universe, significant
+  from 3308-05-05 to 3308-05-05. Associated with Alliance, Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

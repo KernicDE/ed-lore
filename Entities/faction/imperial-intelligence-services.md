@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - col-70-sector
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20intelligence%20services
+bio: 'Imperial intelligence services is a organization in the Elite Dangerous universe,
+  active from 3303-04-08 to 3303-04-08. Frequently linked with Col 70 Sector. '
 ---
 
 

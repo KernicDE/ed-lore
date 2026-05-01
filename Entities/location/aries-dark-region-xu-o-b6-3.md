@@ -14,6 +14,9 @@ coords:
   z: -212.125
 edsm_url: https://www.edsm.net/en/system?search=Aries%20Dark%20Region%20XU-O%20b6-3
 inara_url: https://inara.cz/elite/starsystem/?search=Aries%20Dark%20Region%20XU-O%20b6-3
+bio: Aries Dark Region XU-O b6-3 is a star system in the Elite Dangerous universe,
+  significant from 3303-01-06 to 3303-01-06. Commander DP Sayre reports being interdicted
+  and scanned by a mysterious non-human vessel in the Aries Dark Region XU-O b6-3.
 ---
 
 

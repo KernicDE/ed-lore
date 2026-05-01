@@ -10,6 +10,10 @@ related_entities:
 - transport-safety-authority
 - mars
 - artemis
+bio: Laphria Shipyard is a star system in the Elite Dangerous universe, significant
+  from 3301-08-11 to 3301-08-11. Associated with Federal Times. Two transport safety
+  officials died when their personal transport collided with a Lakon Type-9 Heavy
+  vessel near Laphria Shipyard in the Artemis system.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,9 @@ related_entities:
 - chapter-of-isinor
 - alioth-independents
 inara_url: https://inara.cz/elite/minorfaction/?search=Sublime%20Order%20of%20Van%20Maanen%27s%20Star
+bio: 'Sublime Order of Van Maanen''s Star is a religious in the Elite Dangerous universe,
+  active from 3301-03-27 to 3301-03-27. Frequently linked with Patron''s Principles,
+  Alioth, Universal Cartographics. '
 ---
 
 

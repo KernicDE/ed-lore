@@ -10,6 +10,9 @@ related_entities:
 - noti
 - weber-gateway
 inara_url: https://inara.cz/elite/minorfaction/?search=Revolutionary%20Noti%20Values%20Party
+bio: 'Revolutionary Noti Values Party is a organization in the Elite Dangerous universe,
+  active from 3301-11-26 to 3301-11-26. Frequently linked with Noti, Federal Times,
+  Weber Gateway. '
 ---
 
 

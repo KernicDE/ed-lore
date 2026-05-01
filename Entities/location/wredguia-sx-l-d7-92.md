@@ -24,6 +24,8 @@ economy: Tourism
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Wredguia%20SX-L%20D7-92
 inara_url: https://inara.cz/elite/starsystem/?search=Wredguia%20SX-L%20D7-92
+bio: 'Wredguia SX-L D7-92 is a star system in the Elite Dangerous universe, significant
+  from 3301-03-12 to 3301-03-12. Associated with Sirius Corporation. '
 ---
 
 

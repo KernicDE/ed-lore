@@ -13,6 +13,10 @@ coords:
   z: 10.4375
 edsm_url: https://www.edsm.net/en/system?search=Hermitage
 inara_url: https://inara.cz/elite/starsystem/?search=Hermitage
+bio: Hermitage is a star system in the Elite Dangerous universe, significant from
+  3303-10-12 to 3303-10-12. Associated with Intergalactic Naval Reserve Arm. An abandoned
+  planetary outpost controlled by the Intergalactic Naval Reserve Arm (INRA) has been
+  discovered in the Hermitage system.
 ---
 
 

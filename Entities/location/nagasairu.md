@@ -24,6 +24,9 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Nagasairu
 inara_url: https://inara.cz/elite/starsystem/?search=Nagasairu
+bio: 'Nagasairu is a star system in the Elite Dangerous universe, significant from
+  3306-09-17 to 3306-09-21. Associated with Kavanagh Spaceframes Ltd, Steel Castle
+  Inc, Pilots Federation. '
 ---
 
 

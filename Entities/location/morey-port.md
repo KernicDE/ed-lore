@@ -9,6 +9,10 @@ related_entities:
 - ross-310-natural-services
 - ross-310-cartel
 - ross-310
+bio: Morey Port is a starport in the Elite Dangerous universe, significant from 3304-04-06
+  to 3304-04-06. Associated with Ross 310 Natural Services, Ross 310 Cartel. Both
+  factions received support from independent combat pilots, but ultimately only one
+  victor emerged.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,8 @@ first_seen_date: '3308-10-21'
 last_seen_date: '3308-10-21'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Hengist
+bio: 'Hengist is a prominent figure in the Elite Dangerous universe, active from 3308-10-21
+  to 3308-10-21. Closely associated with Alliance. '
 ---
 
 

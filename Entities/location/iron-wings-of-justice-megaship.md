@@ -11,6 +11,9 @@ related_entities:
 - pilots-federation
 - silver-legal-group
 - tsao-tach
+bio: 'Iron Wings of Justice megaship is a star system in the Elite Dangerous universe,
+  significant from 3307-06-03 to 3307-06-10. Associated with Core Dynamics, Pilots
+  Federation, Jupiter Division. '
 ---
 
 <!-- AUTO-GENERATED -->

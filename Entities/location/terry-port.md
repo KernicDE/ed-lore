@@ -8,6 +8,8 @@ mention_count: 2
 related_entities:
 - utopia
 - garoku
+bio: 'Terry Port is a starport in the Elite Dangerous universe, significant from 3302-06-16
+  to 3302-06-23. Associated with Utopia. '
 ---
 
 <!-- AUTO-GENERATED -->

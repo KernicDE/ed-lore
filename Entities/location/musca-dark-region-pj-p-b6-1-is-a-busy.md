@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - alliance
 - chukchan
+bio: 'Musca Dark Region PJ-P b6-1 is a busy is a star system in the Elite Dangerous
+  universe, significant from 3307-03-10 to 3307-03-10. Associated with Alliance, Wallglass. '
 ---
 
 <!-- AUTO-GENERATED -->

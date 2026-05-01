@@ -18,6 +18,9 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Kumbaya
 inara_url: https://inara.cz/elite/starsystem/?search=Kumbaya
+bio: Kumbaya is a star system in the Elite Dangerous universe, significant from 3301-02-13
+  to 3301-02-13. Beginning in Kumbaya, the race follows a gruelling 500-light-year
+  route through dangerous sectors.
 ---
 
 

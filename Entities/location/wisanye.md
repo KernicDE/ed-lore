@@ -21,6 +21,8 @@ economy: High Tech
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Wisanye
 inara_url: https://inara.cz/elite/starsystem/?search=Wisanye
+bio: 'Wisanye is a star system in the Elite Dangerous universe, significant from 3306-01-14
+  to 3306-01-14. Associated with Universal Cartographics. '
 ---
 
 

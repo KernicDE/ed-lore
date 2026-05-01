@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Jaradharre
 inara_url: https://inara.cz/elite/starsystem/?search=Jaradharre
+bio: Jaradharre is a star system in the Elite Dangerous universe, significant from
+  3302-06-30 to 3302-07-07. Associated with EG Pilots, Interstellar Communist Union.
+  The first heat of the Rise to Power competition required pilots to deliver Gilya
+  signature weapons to Gohar Station in the Jaradharre system.
 ---
 
 

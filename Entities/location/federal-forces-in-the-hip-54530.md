@@ -9,6 +9,10 @@ related_entities:
 - core-dynamics
 - federal-navy
 - jupiter
+bio: Federal forces in the HIP 54530 is a star system in the Elite Dangerous universe,
+  significant from 3307-02-15 to 3307-02-15. Associated with Core Dynamics. Federal
+  citizens are in uproar after The former CEO of Core Dynamics was revealed to have
+  destroyed Starship One to increase company profits.
 ---
 
 <!-- AUTO-GENERATED -->

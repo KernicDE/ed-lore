@@ -21,6 +21,11 @@ economy: Refinery
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Beta-3%20Tucani
 inara_url: https://inara.cz/elite/starsystem/?search=Beta-3%20Tucani
+bio: Beta-3 Tucani is a star system in the Elite Dangerous universe, significant from
+  3311-06-12 to 3311-06-26. Associated with Imperial Navy. Imperial forces launch
+  a surprise assault on Archon Delaine's flagship, the Mictlan, in Beta-3 Tucani.
+  The conflict between Imperial forces and Archon Delaine in Beta-3 Tucani concluded
+  with an Imperial victory.
 ---
 
 

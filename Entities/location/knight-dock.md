@@ -11,6 +11,9 @@ related_entities:
 - lugh
 - balandin-gateway
 - seega-port
+bio: Knight Dock is a starport in the Elite Dangerous universe, significant from 3301-03-20
+  to 3301-03-20. Associated with Federal Marines, Crimson State Group. The CSG fleet
+  has adopted defensive positions around Balandin Gateway and Knight Dock.
 ---
 
 <!-- AUTO-GENERATED -->

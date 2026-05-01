@@ -11,6 +11,10 @@ related_entities:
 - law-party-of-hr-7327
 - sefrys
 - kwatee
+bio: COL 285 Sector VG-1 B24-6 is a star system in the Elite Dangerous universe, significant
+  from 3301-06-08 to 3301-06-08. Associated with Law Party of HR 7327, Dukes of Mikunn.
+  The Dukes of Mikunn opened Mercenary's Respite, a new Coriolis station in COL 285
+  Sector VG-1 B24-6, renamed 'Sefrys' in honour of a fallen Mercs commander.
 ---
 
 <!-- AUTO-GENERATED -->

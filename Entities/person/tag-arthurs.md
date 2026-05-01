@@ -6,6 +6,8 @@ first_seen_date: '3302-08-30'
 last_seen_date: '3302-08-30'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Tag%20Arthurs
+bio: 'Tag Arthurs is a ceo in the Elite Dangerous universe, active from 3302-08-30
+  to 3302-08-30. '
 ---
 
 

@@ -10,6 +10,10 @@ related_entities:
 - sirius-corporation
 - aerial
 - star
+bio: I assure you that the Sirius is a star system in the Elite Dangerous universe,
+  significant from 3307-02-18 to 3307-02-18. Associated with Alliance, Sirius Corporation.
+  *Pilots Federation ALERT* Sirius Corporation has requested deliveries of consumables
+  to Luyten’s Star for The forthcoming diplomatic conference.
 ---
 
 <!-- AUTO-GENERATED -->

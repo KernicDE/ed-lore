@@ -6,6 +6,12 @@ first_seen_date: '3304-05-17'
 last_seen_date: '3304-05-25'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Tulimaq%20Buchanan
+bio: Tulimaq Buchanan is a admiral in the Elite Dangerous universe, active from 3304-05-17
+  to 3304-05-25. Closely associated with Alliance Defence Force, Council of Admirals,
+  League of Reparation. This week's major stories include the murder of Fleet Admiral
+  Tulimaq Buchanan of the Alliance Council of Admirals by the League of Reparation,
+  linked to his ancestor's role in INRA. Fleet Admiral Tulimaq Buchanan of the Alliance
+  Council of Admirals has been murdered by the League of Reparation.
 ---
 
 

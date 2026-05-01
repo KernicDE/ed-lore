@@ -6,6 +6,10 @@ first_seen_date: '3303-11-17'
 last_seen_date: '3303-11-24'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Hunter%20O%27Brien
+bio: Hunter O'Brien is a prominent figure in the Elite Dangerous universe, active
+  from 3303-11-17 to 3303-11-24. Closely associated with Independent Leesti for Equality,
+  Guardians of Tranquillity. Spokesperson General Hunter O'Brien stated the festival
+  will showcase regional cuisine and libations from Tarach Tor's vineyards and breweries.
 ---
 
 

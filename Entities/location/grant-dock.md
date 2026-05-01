@@ -9,6 +9,10 @@ related_entities:
 - wolves-of-jonai
 - hr-7047
 - jonai-merchants-guild
+bio: Grant Dock is a starport in the Elite Dangerous universe, significant from 3303-11-10
+  to 3303-11-17. Associated with Wolves of Jonai, Jonai Merchant's Guild. Hundreds
+  of pilots delivered construction materials to Grant Dock and eliminated agitators
+  in the HR 7047 system.
 ---
 
 <!-- AUTO-GENERATED -->

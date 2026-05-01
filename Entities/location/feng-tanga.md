@@ -24,6 +24,8 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Feng%20Tanga
 inara_url: https://inara.cz/elite/starsystem/?search=Feng%20Tanga
+bio: 'Feng Tanga is a star system in the Elite Dangerous universe, significant from
+  3301-04-15 to 3301-04-15. '
 ---
 
 

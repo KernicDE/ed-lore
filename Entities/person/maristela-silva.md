@@ -6,6 +6,8 @@ first_seen_date: '3308-11-01'
 last_seen_date: '3308-11-01'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Maristela%20Silva
+bio: 'Maristela Silva is a admiral in the Elite Dangerous universe, active from 3308-11-01
+  to 3308-11-01. Closely associated with Imperial Senate, Federal Navy, Alliance. '
 ---
 
 

@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Barnard's%20Star
 inara_url: https://inara.cz/elite/starsystem/?search=Barnard's%20Star
+bio: 'Barnard''s Star is a star system in the Elite Dangerous universe, significant
+  from 3310-12-06 to 3311-01-09. Associated with Aegis, Wolf 359. '
 ---
 
 

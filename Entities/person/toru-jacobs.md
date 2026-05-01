@@ -6,6 +6,10 @@ first_seen_date: '3304-03-30'
 last_seen_date: '3304-03-30'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Toru%20Jacobs
+bio: Toru Jacobs is a pilot in the Elite Dangerous universe, active from 3304-03-30
+  to 3304-03-30. Closely associated with Ross 310 Natural Services, Ross 310 Cartel.
+  Toru Jacobs of Ross 310 Natural Services stated they are doing everything possible
+  to prevent a Cartel takeover.
 ---
 
 

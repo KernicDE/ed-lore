@@ -23,6 +23,13 @@ economy: Extraction
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=New%20Yembo
 inara_url: https://inara.cz/elite/starsystem/?search=New%20Yembo
+bio: New Yembo is a star system in the Elite Dangerous universe, significant from
+  3301-02-18 to 3301-03-05. Associated with Universal Cartographics, EAUC, Explorers'
+  Association. The first Deep Space Exploration Platform sponsored by the Explorers'
+  Association and Universal Cartographics officially opened in New Yembo. Universal
+  Cartographics thanked the committee for choosing the mineral-rich HIP 101110 system
+  (now named New Yembo) as the launch site, and Zimm_Macugz for organising 150,000
+  tonnes of raw materials.
 ---
 
 

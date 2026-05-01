@@ -9,6 +9,11 @@ related_entities:
 - reynhardt-intellisys
 - sol
 inara_url: https://inara.cz/elite/minorfaction/?search=Utopixx%20Entertainment
+bio: Utopixx Entertainment is a organization in the Elite Dangerous universe, active
+  from 3301-05-16 to 3301-05-16. Frequently linked with Sol, Reynhardt IntelliSys.
+  Utopixx Entertainment, a subsidiary of Reynhardt Intellisys, posted an operating
+  loss of nearly 5 trillion credits for the first time in almost a decade, causing
+  a 14% share price drop.
 ---
 
 

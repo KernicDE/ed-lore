@@ -11,6 +11,10 @@ related_entities:
 - normanmaviss-bingo-palace
 - guardinia
 inara_url: https://inara.cz/elite/minorfaction/?search=Annual%20Galactic%20Games%20Organisation
+bio: Annual Galactic Games Organisation is a organization in the Elite Dangerous universe,
+  active from 3302-10-13 to 3302-10-13. Frequently linked with Aramzahd, Aramzahd
+  Empire Party, Norman–Mavis's Bingo Palace. The Annual Galactic Games Organisation
+  will hold the Gathering 3302 at Norman–Mavis's Bingo Palace in the Aramzahd system.
 ---
 
 

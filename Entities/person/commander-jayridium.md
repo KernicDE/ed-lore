@@ -6,6 +6,10 @@ first_seen_date: '3303-04-01'
 last_seen_date: '3303-04-01'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Jayridium
+bio: Commander Jayridium is a pilot in the Elite Dangerous universe, active from 3303-04-01
+  to 3303-04-01. Imperial pilots are defying the kill-on-sight order on Commander
+  Salomé (Kahina Tijani Loren), offering escort services, fuel, and rewards to others
+  willing to help protect her.
 ---
 
 

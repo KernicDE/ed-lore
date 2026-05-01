@@ -11,6 +11,8 @@ related_entities:
 - rackham-capital-investments
 - mars
 - teorge
+bio: 'Vega Devese is a star system in the Elite Dangerous universe, significant from
+  3304-08-25 to 3304-08-25. Associated with Herculean Machines, Supratech. '
 ---
 
 <!-- AUTO-GENERATED -->

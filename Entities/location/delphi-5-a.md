@@ -11,6 +11,10 @@ related_entities:
 - engineers
 - delphi
 - the-oracle
+bio: Delphi 5 a is a star system in the Elite Dangerous universe, significant from
+  3307-05-24 to 3307-05-24. Associated with Sirius Inc, Pilots Federation, Engineers.
+  The Oracle starport in the Delphi system begins tumbling out of orbit after Thargoid
+  attack causes cascading systems failure.
 ---
 
 <!-- AUTO-GENERATED -->

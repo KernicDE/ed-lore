@@ -8,6 +8,10 @@ mention_count: 1
 related_entities:
 - specialeffect
 - vesper-m4
+bio: Slough is a star system in the Elite Dangerous universe, significant from 3301-02-21
+  to 3301-02-21. Associated with SpecialEffect. Vesperian Nectar is produced from
+  Vesperian Orchid flowers on the toxic, acidic planet Slough in Vesper-M4 by the
+  deadly Vesperian Orchid Bee.
 ---
 
 <!-- AUTO-GENERATED -->

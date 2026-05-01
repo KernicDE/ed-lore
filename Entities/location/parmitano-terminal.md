@@ -8,6 +8,10 @@ mention_count: 2
 related_entities:
 - simbad-regime
 - nu-tauri
+bio: Parmitano Terminal is a star system in the Elite Dangerous universe, significant
+  from 3304-01-19 to 3304-01-26. Associated with Simbad Regime. The Simbad Regime
+  has announced that its appeal for construction materials was enthusiastically received,
+  resulting in a massive influx of deliveries to Parmitano Terminal.
 ---
 
 <!-- AUTO-GENERATED -->

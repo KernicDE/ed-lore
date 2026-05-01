@@ -20,6 +20,13 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Shana%20Bei
 inara_url: https://inara.cz/elite/starsystem/?search=Shana%20Bei
+bio: Shana Bei is a star system in the Elite Dangerous universe, significant from
+  3305-06-13 to 3305-06-20. Associated with Evangeline's Elite Expeditionary Force.
+  Evangeline's Elite Expeditionary Force requests superconductors, computer components
+  and insulating membranes from pilots to construct the megaship EFS Archangel in
+  the Shana Bei system. Evangeline's Elite Expeditionary Force successfully completes
+  construction of the megaship EFS Archangel in the Shana Bei system following pilot-supported
+  material deliveries.
 ---
 
 

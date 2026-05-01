@@ -11,6 +11,8 @@ related_entities:
 - eravate
 - von-bellingshausen-port
 - almar
+bio: 'Tall Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3302-02-24 to 3302-02-24. '
 ---
 
 <!-- AUTO-GENERATED -->

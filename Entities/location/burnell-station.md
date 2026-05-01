@@ -9,6 +9,9 @@ related_entities:
 - federal-security-service
 - copernicus-shipping-ltd
 - achilles-corporation
+bio: 'Burnell Station is a starport in the Elite Dangerous universe, significant from
+  3304-09-20 to 3304-09-20. Associated with Copernicus Shipping Ltd, Achilles Corporation,
+  Federal Security Service. '
 ---
 
 <!-- AUTO-GENERATED -->

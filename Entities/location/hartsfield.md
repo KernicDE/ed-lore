@@ -11,6 +11,12 @@ related_entities:
 - pilots-federation
 - chakpa
 - fjorgyn
+bio: Hartsfield is a star system in the Elite Dangerous universe, significant from
+  3301-03-23 to 3306-10-01. Associated with Crimson State Group. Her mismanagement
+  of the Lugh war has caused countless civilian deaths, and Hartsfield Market appears
+  certain to fall to rebel forces. Equipment shortages caused by poor supply chain
+  planning are being blamed for the Federation's failure to protect Hartsfield, which
+  controls Lugh's satellite defence system.
 ---
 
 <!-- AUTO-GENERATED -->

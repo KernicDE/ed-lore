@@ -9,6 +9,8 @@ related_entities:
 - aegis
 - sirius-corporation
 - gateway
+bio: 'Springer Gateway is a star system in the Elite Dangerous universe, significant
+  from 3309-09-28 to 3309-09-28. Associated with Sirius Corporation, Aegis. '
 ---
 
 <!-- AUTO-GENERATED -->

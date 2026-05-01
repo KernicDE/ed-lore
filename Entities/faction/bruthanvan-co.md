@@ -12,6 +12,10 @@ related_entities:
 - quator
 - rockforth-corporation
 inara_url: https://inara.cz/elite/minorfaction/?search=Bruthanvan%20Co
+bio: Bruthanvan Co is a organization in the Elite Dangerous universe, active from
+  3305-10-22 to 3305-10-28. Frequently linked with Scythe of Panem, Quator, Federal
+  Intelligence Agency. Bruthanvan Co security teams and independent pilots neutralise
+  the group's ringleaders.
 ---
 
 

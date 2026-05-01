@@ -10,6 +10,8 @@ related_entities:
 - khun
 - federal-times
 - khun-independent-governance
+bio: 'Cremona Prospect is a star system in the Elite Dangerous universe, significant
+  from 3303-10-13 to 3303-10-20. Associated with Aegis, Khun Independent Governance. '
 ---
 
 <!-- AUTO-GENERATED -->

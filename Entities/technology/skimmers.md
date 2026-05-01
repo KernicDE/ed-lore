@@ -6,6 +6,9 @@ first_seen_date: '3302-09-15'
 last_seen_date: '3302-09-22'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=skimmers
+bio: 'skimmers is a technology in the Elite Dangerous universe, mentioned from 3302-09-15
+  to 3302-09-22. Developed or used by Chimechilo Empire League, Obotrima Organisation,
+  Federal Navy. '
 ---
 
 

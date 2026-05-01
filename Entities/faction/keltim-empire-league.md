@@ -11,6 +11,9 @@ related_entities:
 - eurybia
 - imperial-internal-security-service
 inara_url: https://inara.cz/elite/minorfaction/?search=Keltim%20Empire%20League
+bio: 'Keltim Empire League is a organization in the Elite Dangerous universe, active
+  from 3306-10-01 to 3306-10-08. Frequently linked with Liz Ryder, Pilots Federation,
+  Eurybia. '
 ---
 
 

@@ -11,6 +11,9 @@ related_entities:
 - alliance
 - imperial-senate
 - federal-congress
+bio: 'New Apollo City is a star system in the Elite Dangerous universe, significant
+  from 3308-09-28 to 3308-09-28. Associated with Imperial Senate, Alliance, Federal
+  Congress. '
 ---
 
 <!-- AUTO-GENERATED -->

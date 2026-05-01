@@ -6,6 +6,9 @@ first_seen_date: '3305-10-20'
 last_seen_date: '3305-10-28'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Gino%20Borstein
+bio: 'Gino Borstein is a pilot in the Elite Dangerous universe, active from 3305-10-20
+  to 3305-10-28. Closely associated with Federal Intelligence Agency, Rockforth Corporation,
+  Scythe of Panem. '
 ---
 
 

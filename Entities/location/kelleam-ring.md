@@ -8,6 +8,10 @@ mention_count: 2
 related_entities:
 - revolutionary-slinks-eye-liberals
 - slinks-eye
+bio: Kelleam Ring is a star system in the Elite Dangerous universe, significant from
+  3302-10-06 to 3302-10-13. Associated with Revolutionary Slink's Eye Liberals. The
+  Revolutionary Slink's Eye Liberals placed a kill order on wanted ships and requested
+  deliveries of reactive armour to Kelleam Ring to bolster security.
 ---
 
 <!-- AUTO-GENERATED -->

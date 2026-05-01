@@ -8,6 +8,9 @@ mention_count: 1
 related_entities:
 - lawd-26
 - toolfa
+bio: Crook's Hub is a star system in the Elite Dangerous universe, significant from
+  3301-02-25 to 3301-02-25. Raw gold from Stone's discovery was found aboard his abandoned
+  Sidewinder at Crook's Hub in Toolfa.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -8,6 +8,10 @@ mention_count: 1
 related_entities:
 - ic-2391-sector
 - synuefe-en-h
+bio: NGC 2451A sector is a star system in the Elite Dangerous universe, significant
+  from 3304-08-29 to 3304-08-29. Engineer Ram Tah identifies three unusual energy
+  signatures originating from the NGC 2451A sector, the IC 2391 sector, and the Synuefe
+  EN-H region.
 ---
 
 <!-- AUTO-GENERATED -->

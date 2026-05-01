@@ -12,6 +12,9 @@ related_entities:
 - akkadia
 - utopia
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Liberal%20Party
+bio: 'Federal Liberal Party is a organization in the Elite Dangerous universe, active
+  from 3301-06-10 to 3301-06-12. Frequently linked with Oduduro, Sirius Corporation,
+  Tascheter. '
 ---
 
 

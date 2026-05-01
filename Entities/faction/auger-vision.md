@@ -12,6 +12,9 @@ related_entities:
 - lurp-ship-systems
 - pilots-federation
 inara_url: https://inara.cz/elite/minorfaction/?search=Auger%20Vision
+bio: 'Auger Vision is a organization in the Elite Dangerous universe, active from
+  3308-09-30 to 3308-09-30. Frequently linked with Pilots Federation, Universal Cartographics,
+  Jick Nackson Enterprises. '
 ---
 
 

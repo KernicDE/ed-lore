@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - buckyball-racing-club
 - wolf-359
+bio: 'Lomas Station is a starport in the Elite Dangerous universe, significant from
+  3302-07-22 to 3302-07-22. Associated with Wolf 359, Buckyball Racing Club. '
 ---
 
 <!-- AUTO-GENERATED -->

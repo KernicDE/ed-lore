@@ -6,6 +6,10 @@ first_seen_date: '3302-04-29'
 last_seen_date: '3302-04-29'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Walter%20Astoria
+bio: Walter Astoria is a prominent figure in the Elite Dangerous universe, active
+  from 3302-04-29 to 3302-04-29. Closely associated with Emperor's Dawn, Alliance.
+  Political commentator Walter Astoria defends the new Alliance outpost while criticising
+  Federal and Imperial naval expansion on the talk show 'Affairs of State'.
 ---
 
 

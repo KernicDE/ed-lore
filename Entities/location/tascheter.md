@@ -18,6 +18,10 @@ population: 776359
 allegiance: Independent
 government: Democracy
 edsm_url: https://www.edsm.net/en/system?search=Tascheter
+bio: Tascheter is a star system in the Elite Dangerous universe, significant from
+  3301-06-10 to 3301-06-10. Associated with Federal Liberal Party, Sirius Corporation.
+  Shadow President Felicia Winters began her tenure by challenging her former employer
+  Sirius Corporation for influence in the Tascheter sector.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -8,6 +8,8 @@ mention_count: 2
 related_entities:
 - eotienses
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20Intelligence%20Service
+bio: 'Imperial Intelligence Service is a organization in the Elite Dangerous universe,
+  active from 3301-08-16 to 3301-08-20. Frequently linked with Eotienses. '
 ---
 
 

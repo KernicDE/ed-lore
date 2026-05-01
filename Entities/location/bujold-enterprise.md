@@ -9,6 +9,8 @@ related_entities:
 - kalana-independents
 - mu-koji
 - kalana
+bio: 'Bujold Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3302-09-29 to 3302-10-04. Associated with Kalana Independents. '
 ---
 
 <!-- AUTO-GENERATED -->

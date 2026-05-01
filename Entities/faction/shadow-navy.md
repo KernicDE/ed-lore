@@ -12,6 +12,10 @@ related_entities:
 - liaedin
 - volungu
 inara_url: https://inara.cz/elite/minorfaction/?search=Shadow%20Navy
+bio: Shadow Navy is a naval in the Elite Dangerous universe, active from 3301-05-25
+  to 3301-05-25. Frequently linked with Faveol family, Liaedin, Crimson Fortune Company.
+  Crimson Fortune Company CEO Ellie Blossum denounced claims that Commander Wolzan
+  and the Shadow Navy were terrorists.
 ---
 
 

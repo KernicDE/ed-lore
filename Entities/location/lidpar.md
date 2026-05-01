@@ -21,6 +21,11 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Lidpar
 inara_url: https://inara.cz/elite/starsystem/?search=Lidpar
+bio: Lidpar is a star system in the Elite Dangerous universe, significant from 3303-03-23
+  to 3303-03-30. Associated with Union of Lidpar Green Party. Authorities in the Lidpar
+  system reported a sharp increase in criminals attacking pilots and disrupting trade.
+  The Union of Lidpar Green Party placed a kill order on wanted ships and requested
+  battle weapons, reactive armour and advanced medicines for local security forces.
 ---
 
 

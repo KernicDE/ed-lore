@@ -6,6 +6,8 @@ first_seen_date: '3311-12-02'
 last_seen_date: '3311-12-16'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=Mk%20II%20exploration%20modules
+bio: 'Mk II exploration modules is a technology in the Elite Dangerous universe, mentioned
+  from 3311-12-02 to 3311-12-16. Developed or used by Zorgon Peterson. '
 ---
 
 

@@ -11,6 +11,12 @@ related_entities:
 - council-of-admirals
 - sol
 - zaonce
+bio: Old Worlds is a star system in the Elite Dangerous universe, significant from
+  3301-05-02 to 3301-06-21. Associated with Pilots Federation, Council of Admirals,
+  Silver United Solutions. Prime Minister Edmund Mahon announced an open trade agreement
+  for the Old Worlds cluster, granting safe passage to traders of all affiliations.
+  The Old Worlds have been terrorised by roaming gangs, with the Council of Admirals
+  refusing to intervene in internal security matters.
 ---
 
 <!-- AUTO-GENERATED -->

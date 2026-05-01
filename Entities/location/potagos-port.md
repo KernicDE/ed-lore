@@ -9,6 +9,12 @@ related_entities:
 - angeli-imperial-enterprises
 - wangal
 - pleiades-sector-gw-w-c1-15
+bio: Potagos Port is a starport in the Elite Dangerous universe, significant from
+  3303-12-15 to 3303-12-22. Associated with Angeli Imperial Enterprises. Angeli Imperial
+  Enterprises has announced plans to build a Dionysus-class Agricultural Vessel to
+  support resource-extraction operations in the Pleiades. A massive influx of deliveries
+  to Potagos Port will be used to build a Dionysus-class Agricultural Vessel to support
+  resource-extraction operations in the Pleiades.
 ---
 
 <!-- AUTO-GENERATED -->

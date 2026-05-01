@@ -11,6 +11,8 @@ related_entities:
 - on-t-b3-1
 - on-t-b3-3
 - on-t-b3-4
+bio: 'ON-T B3-2 is a star system in the Elite Dangerous universe, significant from
+  3302-02-18 to 3302-02-18. Associated with Federal research team. '
 ---
 
 <!-- AUTO-GENERATED -->

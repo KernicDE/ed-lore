@@ -6,6 +6,11 @@ first_seen_date: '3301-05-05'
 last_seen_date: '3301-05-05'
 mention_count: 1
 inara_url: https://inara.cz/elite/commodity/?search=Faulcon%20DeLacy%20ships
+bio: Faulcon DeLacy ships is a technology in the Elite Dangerous universe, mentioned
+  from 3301-05-05 to 3301-05-05. Developed or used by Zaonce Jet Gang, Alliance Elite
+  Diplomatic Corps, Silver United Solutions. To celebrate, Silver United organised
+  a discount on all Faulcon DeLacy ships at Ridley Scott Station, including a limited
+  number of Pythons.
 ---
 
 

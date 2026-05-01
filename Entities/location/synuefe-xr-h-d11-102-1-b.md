@@ -7,6 +7,9 @@ last_seen_date: '3302-11-01'
 mention_count: 1
 related_entities:
 - synuefe-xr-h-d11-102
+bio: Synuefe XR-H d11-102 1 B is a star system in the Elite Dangerous universe, significant
+  from 3302-11-01 to 3302-11-01. Hundreds of independent pilots have flocked to ancient
+  ruins on planet 1 B of the Synuefe XR-H d11-102 system.
 ---
 
 <!-- AUTO-GENERATED -->

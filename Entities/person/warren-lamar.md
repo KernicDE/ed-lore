@@ -6,6 +6,10 @@ first_seen_date: '3306-10-15'
 last_seen_date: '3309-02-16'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Warren%20Lamar
+bio: Warren Lamar is a pilot in the Elite Dangerous universe, active from 3306-10-15
+  to 3309-02-16. Closely associated with Alliance, Alliance Expeditionary Pact, Pilots
+  Federation. Captain Warren Lamar calls for independent pilots to help defend the
+  Witch Head Enclave. Captain Warren Lamar praises the pilots' courage.
 ---
 
 

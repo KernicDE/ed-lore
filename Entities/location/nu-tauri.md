@@ -21,6 +21,11 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Nu%20Tauri
 inara_url: https://inara.cz/elite/starsystem/?search=Nu%20Tauri
+bio: Nu Tauri is a star system in the Elite Dangerous universe, significant from 3304-01-19
+  to 3304-01-26. Associated with Simbad Regime. The Simbad Regime, established over
+  a year ago with support from Commanders across the galaxy, has announced plans to
+  construct a new asteroid base among the rings of Nu Tauri 5. The new asteroid base
+  among the rings of Nu Tauri 5 is now under construction.
 ---
 
 

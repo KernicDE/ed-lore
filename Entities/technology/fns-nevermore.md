@@ -6,6 +6,11 @@ first_seen_date: '3301-03-11'
 last_seen_date: '3301-03-19'
 mention_count: 3
 inara_url: https://inara.cz/elite/commodity/?search=FNS%20Nevermore
+bio: FNS Nevermore is a technology in the Elite Dangerous universe, mentioned from
+  3301-03-11 to 3301-03-19. Developed or used by Core Dynamics, Federal Navy. Core
+  Dynamics and the Federal Navy announced the FNS Nevermore, a Farragut-Class Battlecruiser.
+  President Halsey's declaration of war diverted the FNS Nevermore from its planned
+  attack on Polahukuna to the offensive against Lugh.
 ---
 
 

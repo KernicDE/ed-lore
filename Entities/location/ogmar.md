@@ -21,6 +21,12 @@ economy: High Tech
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Ogmar
 inara_url: https://inara.cz/elite/starsystem/?search=Ogmar
+bio: Ogmar is a star system in the Elite Dangerous universe, significant from 3303-12-15
+  to 3303-12-22. Associated with GalCop Colonial Defence Commission. The GalCop Colonial
+  Defence Commission has launched Operation Whirling Dervish, a campaign to establish
+  a new Coriolis starport in the Ogmar system to support further expansion in the
+  Colonia region. A huge number of deliveries to Dervish Platform will be used to
+  build a new Coriolis starport in the Ogmar system.
 ---
 
 

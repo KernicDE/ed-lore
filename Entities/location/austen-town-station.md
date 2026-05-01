@@ -8,6 +8,11 @@ mention_count: 2
 related_entities:
 - arque-commodities
 - arque
+bio: Austen Town Station is a starport in the Elite Dangerous universe, significant
+  from 3302-08-18 to 3302-08-25. Associated with Arque Commodities. Arque Commodities
+  has issued a kill order on wanted ships and will reward pilots who deliver bounty
+  vouchers to Austen Town Station. Hundreds of pilots participated in the operation,
+  and rewards are now available for collection at Austen Town Station.
 ---
 
 <!-- AUTO-GENERATED -->

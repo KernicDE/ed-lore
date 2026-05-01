@@ -10,6 +10,10 @@ related_entities:
 - nmla
 - imperial-internal-security-service
 - imperial-herald
+bio: Omega Grid is a star system in the Elite Dangerous universe, significant from
+  3308-01-04 to 3308-01-17. Associated with Imperial Senate, NMLA, Imperial Internal
+  Security Service. Captain Saskia Landau reveals a potential link between the NMLA
+  and Imperial Intelligence's Omega Grid.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -24,6 +24,8 @@ economy: Terraforming
 second_economy: Service
 edsm_url: https://www.edsm.net/en/system?search=Bletii
 inara_url: https://inara.cz/elite/starsystem/?search=Bletii
+bio: 'Bletii is a star system in the Elite Dangerous universe, significant from 3311-03-19
+  to 3311-03-19. Associated with Brewer Corporation. '
 ---
 
 

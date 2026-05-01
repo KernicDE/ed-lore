@@ -10,6 +10,11 @@ related_entities:
 - unchain
 - autonomy
 inara_url: https://inara.cz/elite/minorfaction/?search=Tilbery%20Construction
+bio: Tilbery Construction is a organization in the Elite Dangerous universe, active
+  from 3305-06-08 to 3305-06-15. Frequently linked with Eotienses, Unchain, Autonomy.
+  The activist group Autonomy reveals that Tilbery Construction was a front operation,
+  forcibly liberating 4,000 Imperial slaves on Eotienses A 3 — the largest mass emancipation
+  in the group's history.
 ---
 
 

@@ -16,6 +16,8 @@ coords:
   z: -288.15625
 edsm_url: https://www.edsm.net/en/system?search=Col%20285%20Sector%20CV-Y%20d57
 inara_url: https://inara.cz/elite/starsystem/?search=Col%20285%20Sector%20CV-Y%20d57
+bio: 'Col 285 Sector CV-Y d57 is a star system in the Elite Dangerous universe, significant
+  from 3303-06-28 to 3303-06-28. '
 ---
 
 

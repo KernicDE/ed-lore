@@ -24,6 +24,11 @@ economy: Agriculture
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Parutis
 inara_url: https://inara.cz/elite/starsystem/?search=Parutis
+bio: Parutis is a star system in the Elite Dangerous universe, significant from 3303-02-23
+  to 3306-11-26. Associated with Buckyball Racing Club. The Buckyball Racing Club
+  announces its first full-length race of 3303, Tunnel Vision, requiring competitors
+  to navigate tunnels at scientific and military installations between Malaikudi and
+  Parutis.
 ---
 
 

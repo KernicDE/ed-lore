@@ -12,6 +12,10 @@ related_entities:
 - diso-system
 - cherbones-system
 inara_url: https://inara.cz/elite/minorfaction/?search=Cherbones%20Mining%20Authority
+bio: Cherbones Mining Authority is a organization in the Elite Dangerous universe,
+  active from 3302-03-03 to 3302-03-03. Frequently linked with Cherbones system, Lave
+  Station, Lave Radio Network. They need rare blood crystals from the Cherbones system
+  for the new equipment.
 ---
 
 

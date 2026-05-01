@@ -6,6 +6,9 @@ first_seen_date: '3312-02-24'
 last_seen_date: '3312-03-12'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=Mk%20II%20Plasma%20Shock%20Accelerator
+bio: Mk II Plasma Shock Accelerator is a technology in the Elite Dangerous universe,
+  mentioned from 3312-02-24 to 3312-03-12. Developed or used by Core Dynamics, Owen
+  McKenna. Three Mk II large hardpoints with Plasma Shock Accelerator compatibility.
 ---
 
 

@@ -6,6 +6,11 @@ first_seen_date: '3301-07-12'
 last_seen_date: '3301-07-19'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Henson%20Duval
+bio: Henson Duval is a senator in the Elite Dangerous universe, active from 3301-07-12
+  to 3301-07-19. Closely associated with Federation. Marlin Duval led an expedition
+  from Earth to Achenar in the mid-23rd century, seeking escape from rigid governments.
+  After her death in a speeder crash, brother Henson Duval seized power and established
+  imperial succession.
 ---
 
 

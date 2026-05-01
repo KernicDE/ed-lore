@@ -22,6 +22,9 @@ economy: Terraforming
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Mongan
 inara_url: https://inara.cz/elite/starsystem/?search=Mongan
+bio: Mongan is a star system in the Elite Dangerous universe, significant from 3301-04-14
+  to 3301-04-14. Associated with Federal Navy, Reyan BPS. Shadow President Hudson
+  visited Reyan BPS headquarters aboard Moisuc Station in Mongan to meet CEO Sam Reyan.
 ---
 
 

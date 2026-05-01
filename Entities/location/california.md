@@ -15,6 +15,10 @@ coords:
   y: -264.46875
   z: -888.75
 edsm_url: https://www.edsm.net/en/system?search=California
+bio: California is a star system in the Elite Dangerous universe, significant from
+  3304-07-20 to 3304-07-20. Associated with Federal Navy. A thermonuclear missile
+  from Earth's Third World War (2044-2055) is discovered beneath the Pacific Ocean
+  off California during undersea habitation construction.
 ---
 
 <!-- AUTO-GENERATED -->

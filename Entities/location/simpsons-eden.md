@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - galactic-welfare-trust
 - birmingham
+bio: 'Simpson''s Eden is a star system in the Elite Dangerous universe, significant
+  from 3305-10-11 to 3305-10-11. Associated with Galactic Welfare Trust. '
 ---
 
 <!-- AUTO-GENERATED -->

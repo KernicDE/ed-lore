@@ -24,6 +24,9 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Neris
 inara_url: https://inara.cz/elite/starsystem/?search=Neris
+bio: Neris is a star system in the Elite Dangerous universe, significant from 3301-06-06
+  to 3301-06-06. Associated with Utopia. Under Simguru Pranav Antal, the Utopian Commune
+  Programme expanded to Polevnic, Neris, HIP 117972, and HIP 1389.
 ---
 
 

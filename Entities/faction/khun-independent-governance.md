@@ -11,6 +11,9 @@ related_entities:
 - khun
 - cremona-prospect
 inara_url: https://inara.cz/elite/minorfaction/?search=Khun%20Independent%20Governance
+bio: 'Khun Independent Governance is a organization in the Elite Dangerous universe,
+  active from 3303-10-13 to 3303-10-13. Frequently linked with Khun, Federal Times,
+  Elvira Martuuk. '
 ---
 
 

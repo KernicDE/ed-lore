@@ -8,6 +8,10 @@ mention_count: 2
 related_entities:
 - arek-crimson-vision-corporation
 - arek
+bio: Gold Hub is a star system in the Elite Dangerous universe, significant from 3304-03-02
+  to 3304-03-09. Associated with Arek Crimson Vision Corporation. The corporation
+  has placed an open order for weapons and promises rewards to pilots who deliver
+  goods to Gold Hub.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -10,6 +10,12 @@ related_entities:
 - zavijah
 - wheelock-ring
 inara_url: https://inara.cz/elite/minorfaction/?search=LHS%202541%20Alliance%20Combine
+bio: LHS 2541 Alliance Combine is a organization in the Elite Dangerous universe,
+  active from 3304-08-31 to 3304-09-07. Frequently linked with Far God cult, Zavijah,
+  Wheelock Ring. The Far God sect issues a request for Thargoid materials, approaching
+  LHS 2541 Alliance Combine to facilitate collection. The LHS 2541 Alliance Combine
+  announces the successful conclusion of its appeal for Thargoid materials on behalf
+  of the Far God sect.
 ---
 
 

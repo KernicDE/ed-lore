@@ -11,6 +11,10 @@ related_entities:
 - marlinist
 - nmla
 - neo-marlinist-liberation-army
+bio: The conference in the Sirius is a star system in the Elite Dangerous universe,
+  significant from 3307-03-11 to 3307-03-11. Associated with Core Dynamics. The conference
+  in The Sirius system has ended prematurely after terrorist bombings against nine
+  starports across the Alliance, Empire and Federation.
 ---
 
 <!-- AUTO-GENERATED -->

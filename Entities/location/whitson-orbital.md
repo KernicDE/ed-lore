@@ -9,6 +9,11 @@ related_entities:
 - starship-enterprises-corporation
 - lp-339-7
 - lp-339-7-4-a
+bio: Whitson Orbital is a starport in the Elite Dangerous universe, significant from
+  3302-12-22 to 3302-12-22. Associated with Starship Enterprises Corporation. The
+  Starship Enterprises Corporation's wildlife reserve campaign in the LP 339-7 system
+  has concluded successfully, with commodities delivered to Whitson Orbital for a
+  reserve on LP 339-7 4 A.
 ---
 
 <!-- AUTO-GENERATED -->

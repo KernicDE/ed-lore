@@ -11,6 +11,8 @@ related_entities:
 - perseus-dark-region-kc-v-c2-2
 - chukchan
 - t-tauri
+bio: 'Hind Mine asteroid base is a outpost in the Elite Dangerous universe, significant
+  from 3307-05-07 to 3307-06-11. Associated with Pilots Federation. '
 ---
 
 <!-- AUTO-GENERATED -->

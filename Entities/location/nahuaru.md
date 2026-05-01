@@ -21,6 +21,11 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Nahuaru
 inara_url: https://inara.cz/elite/starsystem/?search=Nahuaru
+bio: Nahuaru is a star system in the Elite Dangerous universe, significant from 3305-02-07
+  to 3305-02-14. Associated with Holloway Bioscience Institute, Nahuaru Crimson Bridge
+  Int. Dr Roy Casimir of the Holloway Bioscience Institute requests cobalt, indium,
+  tantalum and exploration data to construct a xenological research centre in the
+  Nahuaru system.
 ---
 
 

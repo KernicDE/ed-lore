@@ -23,6 +23,12 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Obotrima
 inara_url: https://inara.cz/elite/starsystem/?search=Obotrima
+bio: Obotrima is a star system in the Elite Dangerous universe, significant from 3302-09-15
+  to 3302-09-22. Associated with Chimechilo Empire League, Obotrima Organisation,
+  Federal Navy. Federal intelligence has uncovered an Imperial plot by the Chimechilo
+  Empire League to destabilise Thoreau Orbital in Obotrima by flooding it with explosives.
+  The Obotrima Organisation has countered by requesting Federation-aligned pilots
+  deliver skimmer components and robotics to maintain production.
 ---
 
 

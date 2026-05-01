@@ -21,6 +21,12 @@ economy: Military
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Cartoq
 inara_url: https://inara.cz/elite/starsystem/?search=Cartoq
+bio: Cartoq is a star system in the Elite Dangerous universe, significant from 3303-04-28
+  to 3303-05-05. Associated with Cartoq Purple Major Organisation. The Cartoq Purple
+  Major Organisation has placed a kill order on wanted ships in the Cartoq system
+  to counter a sharp increase in criminal activity. The Cartoq Purple Major Organisation
+  successfully cleared the Cartoq system of agitators with support from hundreds of
+  pilots.
 ---
 
 

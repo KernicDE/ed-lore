@@ -10,6 +10,10 @@ related_entities:
 - brady-horizons
 - gooheimar
 inara_url: https://inara.cz/elite/minorfaction/?search=Workers%20of%20Gooheimar%20Alliance
+bio: Workers of Gooheimar Alliance is a organization in the Elite Dangerous universe,
+  active from 3302-08-04 to 3302-08-05. Frequently linked with Gooheimar, Brady Horizons,
+  Federation. Pilots are requested to deliver autofabricators, tantalum, and superconductors
+  to Brady Horizons in the Gooheimar system.
 ---
 
 

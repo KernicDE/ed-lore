@@ -22,6 +22,10 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Rana
 inara_url: https://inara.cz/elite/starsystem/?search=Rana
+bio: Rana is a star system in the Elite Dangerous universe, significant from 3304-08-18
+  to 3304-08-18. Associated with Far God cult, Federal Intelligence Agency. Dr Alfred
+  Ulyanov, a leading exotheologian and authority on the Far God cult, is arrested
+  as a suspected Thargoid sympathiser at his home in the Rana system.
 ---
 
 

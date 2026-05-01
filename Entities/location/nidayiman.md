@@ -24,6 +24,9 @@ economy: Extraction
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Nidayiman
 inara_url: https://inara.cz/elite/starsystem/?search=Nidayiman
+bio: Nidayiman is a star system in the Elite Dangerous universe, significant from
+  3301-04-15 to 3301-04-15. The route includes stations such as Gentil Hub in Harm,
+  Hiya Orbital in Arjung, and Kagawa Vision in Nidayiman.
 ---
 
 

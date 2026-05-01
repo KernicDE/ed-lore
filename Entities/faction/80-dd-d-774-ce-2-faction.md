@@ -9,6 +9,9 @@ related_entities:
 - jaques-station
 - eol-prou-rs-t-d3-94
 inara_url: https://inara.cz/elite/minorfaction/?search=80%20DD-D%20774-CE-2%20faction
+bio: '80 DD-D 774-CE-2 faction is a organization in the Elite Dangerous universe,
+  active from 3302-09-01 to 3302-09-02. Frequently linked with Jaques Station, Eol
+  Prou RS-T d3-94. '
 ---
 
 

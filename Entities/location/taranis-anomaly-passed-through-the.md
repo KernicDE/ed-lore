@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - hyades
 - sol
+bio: 'Taranis anomaly passed through the is a star system in the Elite Dangerous universe,
+  significant from 3308-11-25 to 3308-11-25. '
 ---
 
 <!-- AUTO-GENERATED -->

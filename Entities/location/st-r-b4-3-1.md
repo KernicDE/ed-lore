@@ -11,6 +11,8 @@ related_entities:
 - on-t-b3-1
 - on-t-b3-2
 - on-t-b3-3
+bio: 'ST-R B4-3 1 is a star system in the Elite Dangerous universe, significant from
+  3302-02-18 to 3302-02-18. '
 ---
 
 <!-- AUTO-GENERATED -->

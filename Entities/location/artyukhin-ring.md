@@ -11,6 +11,11 @@ related_entities:
 - federal-ceti-sector-security-services
 - panem
 - kappa-fornacis
+bio: Artyukhin Ring is a star system in the Elite Dangerous universe, significant
+  from 3301-05-24 to 3301-05-24. Associated with Federal Ceti Sector Security Services,
+  Independent Autahenetsi Labour Party. The return of Onionhead to Panem has brought
+  prosperity to Kappa Fornacis farmers but crime and piracy to neighbouring systems
+  like BD-18 394.
 ---
 
 <!-- AUTO-GENERATED -->

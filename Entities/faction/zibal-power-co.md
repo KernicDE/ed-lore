@@ -12,6 +12,11 @@ related_entities:
 - ienpalang
 - hire-port
 inara_url: https://inara.cz/elite/minorfaction/?search=Zibal%20Power%20Co
+bio: Zibal Power Co is a organization in the Elite Dangerous universe, active from
+  3304-07-20 to 3304-07-27. Frequently linked with Zibal, Brundage City, Ienpalang.
+  The tri-superpower taskforce launches a campaign to eliminate League of Reparation
+  strongholds in Zibal and Ienpalang. The operation in Zibal is coordinated by Zibal
+  Power Co, while Ienpalang Corporation supports action in Ienpalang.
 ---
 
 

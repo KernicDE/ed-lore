@@ -21,6 +21,11 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Guuguyni
 inara_url: https://inara.cz/elite/starsystem/?search=Guuguyni
+bio: Guuguyni is a star system in the Elite Dangerous universe, significant from 3304-01-19
+  to 3304-01-26. Associated with Guuguyni Empire Consulate. Princess Aisling Duval
+  has announced plans to fund a peacekeeping operation in the Guuguyni system to neutralize
+  an illegal slave-trading ring. Princess Aisling Duval's anti-slavery campaign in
+  the Guuguyni system has concluded successfully.
 ---
 
 

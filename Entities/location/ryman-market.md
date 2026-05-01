@@ -11,6 +11,8 @@ related_entities:
 - true-chapters
 - federal-navy
 - popontia
+bio: 'Ryman Market is a star system in the Elite Dangerous universe, significant from
+  3308-09-29 to 3308-09-29. Associated with Federal Navy, Popontia Incorporated. '
 ---
 
 <!-- AUTO-GENERATED -->

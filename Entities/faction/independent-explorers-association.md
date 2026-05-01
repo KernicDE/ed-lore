@@ -10,6 +10,9 @@ related_entities:
 - shaulai-dl-p-d5-274
 - perseus-crags
 inara_url: https://inara.cz/elite/minorfaction/?search=Independent%20Explorers%20Association
+bio: 'Independent Explorers Association is a organization in the Elite Dangerous universe,
+  active from 3308-09-02 to 3308-09-02. Frequently linked with Universal Cartographics,
+  Shaulai DL-P d5-274. '
 ---
 
 

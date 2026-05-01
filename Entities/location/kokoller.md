@@ -20,6 +20,10 @@ economy: Refinery
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Kokoller
 inara_url: https://inara.cz/elite/starsystem/?search=Kokoller
+bio: Kokoller is a star system in the Elite Dangerous universe, significant from 3309-07-06
+  to 3309-07-06. Associated with Federal Navy. Kokoller Limited's mining campaign
+  concludes successfully, with materials ostensibly for Federal Navy anti-xeno war
+  efforts.
 ---
 
 

@@ -6,6 +6,8 @@ first_seen_date: '3309-04-17'
 last_seen_date: '3309-04-17'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Dr%20Cooper
+bio: 'Dr Cooper is a prominent figure in the Elite Dangerous universe, active from
+  3309-04-17 to 3309-04-17. Closely associated with Utopia, Aegis. '
 ---
 
 

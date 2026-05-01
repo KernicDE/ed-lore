@@ -24,6 +24,10 @@ economy: Extraction
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Coalsack%20Sector%20KN-S%20B4-9
 inara_url: https://inara.cz/elite/starsystem/?search=Coalsack%20Sector%20KN-S%20B4-9
+bio: Coalsack Sector KN-S B4-9 is a star system in the Elite Dangerous universe, significant
+  from 3306-11-26 to 3306-11-26. Associated with Pilots Federation, Alliance. The
+  Alliance opens four new starports in the Coalsack Nebula following their successful
+  campaign.
 ---
 
 

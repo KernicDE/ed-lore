@@ -24,6 +24,11 @@ economy: Colony
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Exphiay
 inara_url: https://inara.cz/elite/starsystem/?search=Exphiay
+bio: Exphiay is a star system in the Elite Dangerous universe, significant from 3301-04-10
+  to 3301-04-10. Associated with Worster Insurance, Better Green Developments. Shadow
+  President Hudson attended the 153rd annual Exphiay Bankers' Ball alongside Frank
+  Hall of Gallant Investment, Paul Wiggins of Wiggins Development Trust, and Patricia
+  Spellman of Sirius Finance.
 ---
 
 

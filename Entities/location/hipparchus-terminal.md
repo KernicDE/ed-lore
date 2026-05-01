@@ -8,6 +8,11 @@ mention_count: 2
 related_entities:
 - kpelidoog-empire-assembly
 - kpelidoog
+bio: Hipparchus Terminal is a star system in the Elite Dangerous universe, significant
+  from 3303-08-22 to 3303-08-25. Associated with Kpelidoog Empire Assembly. The organisation
+  has placed an open order for titanium, semiconductors and power generators for delivery
+  to Hipparchus Terminal in the Kpelidoog system. Pilots delivered construction materials
+  to Hipparchus Terminal in the Kpelidoog system.
 ---
 
 <!-- AUTO-GENERATED -->

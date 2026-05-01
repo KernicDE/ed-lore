@@ -10,6 +10,8 @@ related_entities:
 - beagle-point
 - formidine-rift
 - sol
+bio: 'Norma Expanse is a star system in the Elite Dangerous universe, significant
+  from 3302-04-08 to 3302-04-08. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,10 @@ first_seen_date: '3304-12-27'
 last_seen_date: '3305-01-25'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Eloise%20Winterstone
+bio: Eloise Winterstone is a emperor in the Elite Dangerous universe, active from
+  3304-12-27 to 3305-01-25. Closely associated with Imperial Herald, Nova Imperium.
+  Senator Eloise Winterstone argues that official recognition would secure the Duval
+  bloodline's future.
 ---
 
 

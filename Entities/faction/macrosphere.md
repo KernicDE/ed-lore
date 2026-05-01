@@ -9,6 +9,12 @@ related_entities:
 - ds-leonis-industries
 - ds-leonis
 inara_url: https://inara.cz/elite/minorfaction/?search=Macrosphere
+bio: Macrosphere is a organization in the Elite Dangerous universe, active from 3305-02-28
+  to 3305-03-07. Frequently linked with DS Leonis, DS Leonis Industries. Macrosphere
+  launches a community drive to build the Mech Scanner, a device to detect illegally
+  reprogrammed personal robots, following the Mars Tribune scandal. Macrosphere's
+  community drive for components to build the Mech Scanner — a device to detect illegally
+  reprogrammed robots — concludes successfully.
 ---
 
 

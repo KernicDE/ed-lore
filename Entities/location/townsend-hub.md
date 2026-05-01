@@ -11,6 +11,10 @@ related_entities:
 - 78-ursae-majoris
 - alioth
 - seddon-gateway
+bio: Townsend Hub is a star system in the Elite Dangerous universe, significant from
+  3301-05-15 to 3301-05-15. Associated with Alioth Independents, Sobek Boys. Mayor
+  Andrew Bailey of Townsend Hub announced both operations would run from Townsend
+  Hub.
 ---
 
 <!-- AUTO-GENERATED -->

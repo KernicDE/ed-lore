@@ -11,6 +11,8 @@ related_entities:
 - achenar
 - alioth
 - cemiess
+bio: 'Li Qing Jao station in the Sol is a starport in the Elite Dangerous universe,
+  significant from 3307-03-18 to 3307-03-18. '
 ---
 
 <!-- AUTO-GENERATED -->

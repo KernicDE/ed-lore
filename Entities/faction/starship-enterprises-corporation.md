@@ -10,6 +10,11 @@ related_entities:
 - lp-339-7-4-a
 - whitson-orbital
 inara_url: https://inara.cz/elite/minorfaction/?search=Starship%20Enterprises%20Corporation
+bio: Starship Enterprises Corporation is a corporate in the Elite Dangerous universe,
+  active from 3302-12-15 to 3302-12-22. Frequently linked with LP 339-7 4 A, LP 339-7,
+  Whitson Orbital. The Starship Enterprises Corporation's wildlife reserve campaign
+  in the LP 339-7 system has concluded successfully, with commodities delivered to
+  Whitson Orbital for a reserve on LP 339-7 4 A.
 ---
 
 

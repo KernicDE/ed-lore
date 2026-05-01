@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Blido%20Piru
 inara_url: https://inara.cz/elite/starsystem/?search=Blido%20Piru
+bio: 'Blido Piru is a star system in the Elite Dangerous universe, significant from
+  3304-04-20 to 3304-04-29. Associated with Angeli Imperial Enterprises. '
 ---
 
 

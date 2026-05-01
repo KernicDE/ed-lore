@@ -8,6 +8,10 @@ mention_count: 1
 related_entities:
 - imperial-court
 inara_url: https://inara.cz/elite/minorfaction/?search=House%20of%20Duval
+bio: House of Duval is a organization in the Elite Dangerous universe, active from
+  3301-04-10 to 3301-04-10. Frequently linked with Imperial Court. Senator Arissa
+  Lavigny-Duval's office revealed that interrogation of the would-be assassin yielded
+  the name of the organisation behind the attack on Emperor Hengist Duval.
 ---
 
 

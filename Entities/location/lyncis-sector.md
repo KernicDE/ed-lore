@@ -11,6 +11,8 @@ related_entities:
 - on-t-b3-2
 - on-t-b3-3
 - on-t-b3-4
+bio: Lyncis Sector is a star system in the Elite Dangerous universe, significant from
+  3302-02-18 to 3302-02-18. A search for survivors begins in the Lyncis Sector.
 ---
 
 <!-- AUTO-GENERATED -->

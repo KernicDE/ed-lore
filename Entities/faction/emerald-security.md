@@ -9,6 +9,9 @@ related_entities:
 - cemiess
 - emerald
 inara_url: https://inara.cz/elite/minorfaction/?search=Emerald%20Security
+bio: Emerald Security is a organization in the Elite Dangerous universe, active from
+  3301-02-21 to 3301-02-21. Frequently linked with Emerald, Cemiess. Crime on Emerald
+  in Cemiess has risen over 300% following the influx of emancipated Imperial Slaves.
 ---
 
 

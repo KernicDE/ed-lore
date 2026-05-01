@@ -11,6 +11,11 @@ related_entities:
 - plaa-ain-sector
 - inra
 - imperial-internal-security-service
+bio: Kanai Enterprise is a star system in the Elite Dangerous universe, significant
+  from 3304-04-20 to 3304-04-29. Associated with Angeli Imperial Enterprises. Angeli
+  Imperial Enterprises successfully completed its campaign to build a Bowman-class
+  science vessel. Angeli Imperial Enterprises has announced the Rekohu Project to
+  build a Bowman-class science vessel.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -21,6 +21,12 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Sitakapa
 inara_url: https://inara.cz/elite/starsystem/?search=Sitakapa
+bio: Sitakapa is a star system in the Elite Dangerous universe, significant from 3303-04-28
+  to 3303-05-05. Associated with Sitakapan Expeditionary Forces. The Sitakapan Expeditionary
+  Forces plan to convert a mining outpost into a military settlement in Sitakapa to
+  address growing galactic instability. The Sitakapan Expeditionary Forces' appeal
+  for military-grade weapons and chemicals concluded successfully with a massive influx
+  of deliveries to Russell Hub.
 ---
 
 

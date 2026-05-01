@@ -9,6 +9,8 @@ related_entities:
 - pilots-federation
 - imperial-naval-academy
 - achenar
+bio: 'Achenar 3 is a star system in the Elite Dangerous universe, significant from
+  3302-01-12 to 3302-01-12. Associated with Pilots Federation, Imperial Naval Academy. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,12 @@ related_entities:
 - empire
 - federation
 inara_url: https://inara.cz/elite/minorfaction/?search=Alectrona%20Imperial%20Society
+bio: Alectrona Imperial Society is a organization in the Elite Dangerous universe,
+  active from 3303-03-16 to 3303-03-23. Frequently linked with Yurchikhin Station,
+  Andhrimi, Empire. The Alectrona Imperial Society is coordinating the campaign and
+  has requested building fabricators, energy grid assemblies and lithium. The Alectrona
+  Imperial Society announced its appeal for construction materials reached a successful
+  conclusion.
 ---
 
 

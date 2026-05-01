@@ -6,6 +6,11 @@ first_seen_date: '3310-03-21'
 last_seen_date: '3310-04-04'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=Titan%20Drive%20Components
+bio: Titan Drive Components is a technology in the Elite Dangerous universe, mentioned
+  from 3310-03-21 to 3310-04-04. Developed or used by Achilles Aerospace, Sirius Corporation.
+  Achilles Aerospace announces their prototype Frame Shift Drive is nearly production-ready
+  thanks to materials from Titan Taranis wreckage, while Sirius Corporation remains
+  sceptical.
 ---
 
 

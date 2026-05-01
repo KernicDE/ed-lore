@@ -6,6 +6,10 @@ first_seen_date: '3301-09-22'
 last_seen_date: '3301-09-22'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Adric%20Claavis
+bio: Adric Claavis is a diplomat in the Elite Dangerous universe, active from 3301-09-22
+  to 3301-09-22. Closely associated with Kumo Crew, Utopia. Adjudicator Adric Claavis
+  announced Utopia would deliver humanitarian supplies and welcome refugees seeking
+  new lives on Utopian worlds.
 ---
 
 

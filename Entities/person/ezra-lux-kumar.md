@@ -6,6 +6,9 @@ first_seen_date: '3304-05-24'
 last_seen_date: '3304-05-24'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Ezra%20Lux-Kumar
+bio: Ezra Lux-Kumar is a terrorist in the Elite Dangerous universe, active from 3304-05-24
+  to 3304-05-24. Closely associated with INRA, Pilots Federation, Federal Intelligence
+  Agency. Ezra Lux-Kumar was found dead from nerve toxin in his home on Biggs Colony.
 ---
 
 

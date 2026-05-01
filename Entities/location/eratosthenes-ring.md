@@ -11,6 +11,8 @@ related_entities:
 - neche-inc
 - coalition-of-uteran
 - lp-726-6-free
+bio: 'Eratosthenes Ring is a star system in the Elite Dangerous universe, significant
+  from 3307-07-08 to 3307-07-08. Associated with Gluscap Labour, Neche Inc. '
 ---
 
 <!-- AUTO-GENERATED -->

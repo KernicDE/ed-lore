@@ -24,6 +24,12 @@ economy: Agriculture
 second_economy: High Tech
 edsm_url: https://www.edsm.net/en/system?search=Krisha
 inara_url: https://inara.cz/elite/starsystem/?search=Krisha
+bio: Krisha is a star system in the Elite Dangerous universe, significant from 3301-06-05
+  to 3301-06-12. Associated with Kumo Crew, Camorra of Krisha, Hand Gang of Gandii.
+  The Hand Gang of Gandii and Camorra of Krisha are attempting to take direct control
+  of systems within Archon's domain; success means acceptance into the Kumo Crew,
+  failure means disappearance. The Hand Gang of Gandii and Camorra of Krisha's call
+  for Kumo Crew allies yielded disappointing recruitment.
 ---
 
 

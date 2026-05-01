@@ -24,6 +24,8 @@ economy: Industrial
 second_economy: Military
 edsm_url: https://www.edsm.net/en/system?search=Wolf%20504
 inara_url: https://inara.cz/elite/starsystem/?search=Wolf%20504
+bio: 'Wolf 504 is a star system in the Elite Dangerous universe, significant from
+  3302-08-05 to 3302-08-05. Associated with Canonn Interstellar Research Group. '
 ---
 
 

@@ -15,6 +15,11 @@ coords:
   z: -346.625
 edsm_url: https://www.edsm.net/en/system?search=Pleiades%20Sector%20GW-W%20c1-15
 inara_url: https://inara.cz/elite/starsystem/?search=Pleiades%20Sector%20GW-W%20c1-15
+bio: Pleiades Sector GW-W c1-15 is a star system in the Elite Dangerous universe,
+  significant from 3303-12-15 to 3303-12-15. Associated with Angeli Imperial Enterprises.
+  Angeli Imperial Enterprises has announced plans to build a Dionysus-class Agricultural
+  Vessel to support resource-extraction operations in the Pleiades. Once built, the
+  starship will orbit a water world in the Pleiades Sector GW-W c1-15 system.
 ---
 
 

@@ -10,6 +10,8 @@ related_entities:
 - herthe
 - walheim-enterprise
 - wolf-1301
+bio: 'Chorel Survey is a star system in the Elite Dangerous universe, significant
+  from 3302-06-16 to 3302-06-16. Associated with Crom Silver Boys. '
 ---
 
 <!-- AUTO-GENERATED -->

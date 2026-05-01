@@ -10,6 +10,8 @@ related_entities:
 - sirius-corporation
 - universal-cartographics
 - stillman-hub-in-the-hip-22550
+bio: 'As this is a star system in the Elite Dangerous universe, significant from 3307-01-14
+  to 3307-01-14. Associated with Universal Cartographics, Marlinist. '
 ---
 
 <!-- AUTO-GENERATED -->

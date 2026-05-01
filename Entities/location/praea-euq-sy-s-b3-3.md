@@ -14,6 +14,8 @@ coords:
   z: 301.03125
 edsm_url: https://www.edsm.net/en/system?search=PRAEA%20EUQ%20SY-S%20B3-3
 inara_url: https://inara.cz/elite/starsystem/?search=PRAEA%20EUQ%20SY-S%20B3-3
+bio: 'PRAEA EUQ SY-S B3-3 is a star system in the Elite Dangerous universe, significant
+  from 3301-07-07 to 3301-07-07. Associated with Pilots Federation, Fuel Rats. '
 ---
 
 

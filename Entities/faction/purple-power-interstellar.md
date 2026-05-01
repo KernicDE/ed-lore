@@ -10,6 +10,10 @@ related_entities:
 - tsu
 - ziemkiewicz-ring
 inara_url: https://inara.cz/elite/minorfaction/?search=Purple%20Power%20Interstellar
+bio: Purple Power Interstellar is a organization in the Elite Dangerous universe,
+  active from 3301-03-27 to 3301-03-27. Frequently linked with Ziemkiewicz Ring, Alliance,
+  Tsu. Commanders are invited to deliver exploration data related to potential colony
+  sites to Purple Power Interstellar aboard Ziemkiewicz Ring in Tsu.
 ---
 
 

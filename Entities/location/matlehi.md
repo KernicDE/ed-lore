@@ -24,6 +24,9 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Matlehi
 inara_url: https://inara.cz/elite/starsystem/?search=Matlehi
+bio: Matlehi is a star system in the Elite Dangerous universe, significant from 3301-07-09
+  to 3301-07-09. Associated with Utopia. Archon Delaine's growth was stopped by Imperial
+  counter-offensives in Cuchua and Matlehi.
 ---
 
 

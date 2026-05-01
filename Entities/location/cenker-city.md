@@ -8,6 +8,8 @@ mention_count: 2
 related_entities:
 - utopia-commune
 - gucumadhyas
+bio: 'Cenker City is a star system in the Elite Dangerous universe, significant from
+  3303-04-14 to 3303-04-21. Associated with Utopia Commune. '
 ---
 
 <!-- AUTO-GENERATED -->

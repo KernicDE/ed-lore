@@ -9,6 +9,10 @@ related_entities:
 - fuel-rats
 - fuel-rats-mischief
 - fuelum
+bio: Alrai Sector is a star system in the Elite Dangerous universe, significant from
+  3303-01-12 to 3303-01-12. Associated with Fuel Rats. Commander Termite Altair is
+  honored for 750 successful rescues, and the milestone rescue took place in the Alrai
+  Sector.
 ---
 
 <!-- AUTO-GENERATED -->

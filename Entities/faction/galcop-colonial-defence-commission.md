@@ -9,6 +9,12 @@ related_entities:
 - ogmar
 - dervish-platform
 inara_url: https://inara.cz/elite/minorfaction/?search=GalCop%20Colonial%20Defence%20Commission
+bio: GalCop Colonial Defence Commission is a organization in the Elite Dangerous universe,
+  active from 3303-12-15 to 3303-12-22. Frequently linked with Dervish Platform, Ogmar.
+  The GalCop Colonial Defence Commission has launched Operation Whirling Dervish,
+  a campaign to establish a new Coriolis starport in the Ogmar system to support further
+  expansion in the Colonia region. The GalCop Colonial Defence Commission has announced
+  the successful conclusion of its appeal for construction materials.
 ---
 
 

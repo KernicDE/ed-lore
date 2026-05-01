@@ -6,6 +6,9 @@ first_seen_date: '3302-03-03'
 last_seen_date: '3302-03-03'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Commander%20Jarvis
+bio: 'Commander Jarvis is a prominent figure in the Elite Dangerous universe, active
+  from 3302-03-03 to 3302-03-03. Closely associated with Lave Radio Network, Cherbones
+  Mining Authority. '
 ---
 
 

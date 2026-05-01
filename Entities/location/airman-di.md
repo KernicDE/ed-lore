@@ -22,6 +22,9 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Airman%20Di
 inara_url: https://inara.cz/elite/starsystem/?search=Airman%20Di
+bio: Airman Di is a star system in the Elite Dangerous universe, significant from
+  3304-02-09 to 3304-02-16. Associated with Utopia, The Official Airman Di Front.
+  The Official Airman Di Front will oversee the initiative.
 ---
 
 

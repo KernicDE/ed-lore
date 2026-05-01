@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - achilles-corporation
 - adenets-pro-alliance-bond
+bio: 'Adeness is a star system in the Elite Dangerous universe, significant from 3304-12-06
+  to 3304-12-06. Associated with Adenets Pro-Alliance Bond, Achilles Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

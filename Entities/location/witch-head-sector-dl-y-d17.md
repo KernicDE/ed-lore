@@ -11,6 +11,12 @@ related_entities:
 - aegis
 - alliance
 - federation
+bio: Witch Head Sector DL-Y d17 is a star system in the Elite Dangerous universe,
+  significant from 3305-08-06 to 3305-08-08. Associated with Pilots Federation. Seven
+  planetary ports are established in the Witch Head Nebula, with Alliance, Federation
+  and Empire each contributing two ports. Engineer Chloe Sedesi, former apprentice
+  of Professor Ishmael Palin, migrates to the Witch Head Nebula to establish an engineering
+  facility at Cinder Dock.
 ---
 
 <!-- AUTO-GENERATED -->

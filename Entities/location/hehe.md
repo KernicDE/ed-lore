@@ -21,6 +21,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Hehe
 inara_url: https://inara.cz/elite/starsystem/?search=Hehe
+bio: Hehe is a star system in the Elite Dangerous universe, significant from 3303-08-04
+  to 3303-08-11. Associated with Hehe Federal Interstellar, Hehe Camorra. Conflict
+  has erupted between Hehe Federal Interstellar and Hehe Camorra in the Hehe system
+  over territorial control. Authorities report that Hehe Federal Interstellar has
+  defeated Hehe Camorra in the Hehe system conflict.
 ---
 
 

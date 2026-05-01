@@ -21,6 +21,12 @@ economy: Military
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Peacock
 inara_url: https://inara.cz/elite/starsystem/?search=Peacock
+bio: Peacock is a star system in the Elite Dangerous universe, significant from 3303-02-09
+  to 3303-02-16. Associated with Peacock Patrons of Law. The Peacock Patrons of Law
+  place an open order for Robotics, Ion Distributors and Emergency Power Cells to
+  support their operations. The Peacock Patrons of Law's appeal for robotics, ion
+  distributors and emergency power cells concludes with a massive influx of deliveries
+  to Phillips Dock.
 ---
 
 

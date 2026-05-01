@@ -21,6 +21,11 @@ economy: Industrial
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Drevlyada
 inara_url: https://inara.cz/elite/starsystem/?search=Drevlyada
+bio: Drevlyada is a star system in the Elite Dangerous universe, significant from
+  3305-02-21 to 3305-02-28. Associated with Namab Purple Brothers, Drevlyada League.
+  A long-standing personal rivalry between General Kendrick of the Namab Purple Brothers
+  and Marshal Cooper of the Drevlyada League escalates into open conflict in the Drevlyada
+  system.
 ---
 
 

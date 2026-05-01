@@ -10,6 +10,12 @@ related_entities:
 - falisci-purple-gang
 - falisci
 inara_url: https://inara.cz/elite/minorfaction/?search=Social%20Falisci%20Party
+bio: Social Falisci Party is a organization in the Elite Dangerous universe, active
+  from 3301-03-27 to 3301-03-27. Frequently linked with Falisci Purple Gang, Citizens
+  of Tradition, Falisci. Senator Patreus and the Citizens of Tradition defeated the
+  Falisci Purple Gang in a week-long war, putting the gang's leadership in chains
+  and its members into Imperial slavery. Then the Social Falisci Party, backed by
+  Federal squadrons, attempted to exert influence but was repelled by Imperial pilots.
 ---
 
 

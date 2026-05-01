@@ -11,6 +11,8 @@ related_entities:
 - kumo-crew
 - sirius-corporation
 - vox-galactica
+bio: 'Galactic Summit is a star system in the Elite Dangerous universe, significant
+  from 3307-06-15 to 3307-06-15. Associated with Kumo Crew, Alliance. '
 ---
 
 <!-- AUTO-GENERATED -->

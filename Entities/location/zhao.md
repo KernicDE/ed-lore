@@ -24,6 +24,10 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Zhao
 inara_url: https://inara.cz/elite/starsystem/?search=Zhao
+bio: Zhao is a star system in the Elite Dangerous universe, significant from 3304-08-03
+  to 3304-08-05. Associated with Imperial Internal Security Service, Unchain. The
+  Imperial Internal Security Service prevents an assassination attempt on Princess
+  Aisling Duval during a fundraising event for Unchain in the Zhao system.
 ---
 
 

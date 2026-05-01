@@ -11,6 +11,8 @@ related_entities:
 - gliese-972
 - col-285-sector-wa-l-b9-3
 - cao-junga
+bio: 'Wredguia XD-K d8-78 is a star system in the Elite Dangerous universe, significant
+  from 3301-03-12 to 3301-03-12. Associated with Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

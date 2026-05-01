@@ -12,6 +12,10 @@ related_entities:
 - aegis
 - federal-republican-command
 inara_url: https://inara.cz/elite/minorfaction/?search=Kaushpoos%20Pro-Alliance%20Union
+bio: Kaushpoos Pro-Alliance Union is a organization in the Elite Dangerous universe,
+  active from 3303-08-11 to 3303-08-16. Frequently linked with Alliance, Kaushpoos,
+  Neville Horizons. The Kaushpoos Pro-Alliance Union will oversee the campaign at
+  Neville Horizons in the Kaushpoos system.
 ---
 
 

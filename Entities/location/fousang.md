@@ -22,6 +22,10 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Fousang
 inara_url: https://inara.cz/elite/starsystem/?search=Fousang
+bio: Fousang is a star system in the Elite Dangerous universe, significant from 3304-06-29
+  to 3304-06-29. Associated with Blue Creative Company, Fousang security. Criminal
+  organisations are exploiting the Thargoid threat to increase raids on civilian traffic
+  in the Fousang system.
 ---
 
 

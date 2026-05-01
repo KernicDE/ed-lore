@@ -17,6 +17,8 @@ coords:
   z: -21.25
 edsm_url: https://www.edsm.net/en/system?search=Nefertem
 inara_url: https://inara.cz/elite/starsystem/?search=Nefertem
+bio: 'Nefertem is a star system in the Elite Dangerous universe, significant from
+  3307-04-02 to 3307-04-02. '
 ---
 
 

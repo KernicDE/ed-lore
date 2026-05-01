@@ -9,6 +9,12 @@ related_entities:
 - traditional-wally-bei-constitution-party
 - wally-bei
 inara_url: https://inara.cz/elite/minorfaction/?search=Wally%20Bei%20Technical
+bio: Wally Bei Technical is a organization in the Elite Dangerous universe, active
+  from 3304-12-13 to 3304-12-20. Frequently linked with Wally Bei, Traditional Wally
+  Bei Constitution Party. Conflict erupts between Wally Bei Technical and the Traditional
+  Wally Bei Constitution Party in the Wally Bei system. Wally Bei Technical accuses
+  its rival of transporting stolen food shipments, which the Constitution Party denies
+  as slander.
 ---
 
 

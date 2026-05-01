@@ -9,6 +9,10 @@ related_entities:
 - children-of-raxxla
 - eotienses
 inara_url: https://inara.cz/elite/minorfaction/?search=Imperial%20security%20forces
+bio: Imperial security forces is a organization in the Elite Dangerous universe, active
+  from 3302-11-04 to 3302-11-04. Frequently linked with Children of Raxxla, Eotienses.
+  An attack on Admiral Denton Patreus' flagship, the INV Imperial Freedom, took place
+  in the Eotienses system.
 ---
 
 

@@ -24,6 +24,10 @@ economy: Colony
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Akkadia
 inara_url: https://inara.cz/elite/starsystem/?search=Akkadia
+bio: Akkadia is a star system in the Elite Dangerous universe, significant from 3301-06-10
+  to 3301-07-09. Associated with Sirius Corporation, Federal Liberal Party. Meanwhile,
+  Sirius Corporation representatives have been negotiating potential mergers with
+  Akkadia Inc and Akkadia Crimson Allied Organisation in neighbouring Akkadia.
 ---
 
 

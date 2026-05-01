@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Atlas
 inara_url: https://inara.cz/elite/starsystem/?search=Atlas
+bio: 'Atlas is a star system in the Elite Dangerous universe, significant from 3303-12-02
+  to 3303-12-02. '
 ---
 
 

@@ -12,6 +12,11 @@ related_entities:
 - harma
 - pioneers-cooperative
 inara_url: https://inara.cz/elite/minorfaction/?search=The%20Code
+bio: The Code is a organization in the Elite Dangerous universe, active from 3301-05-03
+  to 3301-07-24. Frequently linked with Eotienses, East India Company. Captain Anopheles
+  and The Code pirate crew have left Archon Delaine's Kumo Crew alliance. After a
+  'frank and lively debate with added knives', Archon refused to change, so The Code
+  departed.
 ---
 
 

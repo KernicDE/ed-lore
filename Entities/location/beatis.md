@@ -24,6 +24,9 @@ economy: Agriculture
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Beatis
 inara_url: https://inara.cz/elite/starsystem/?search=Beatis
+bio: Beatis is a star system in the Elite Dangerous universe, significant from 3306-09-30
+  to 3306-10-16. Associated with Imperial Senate, NMLA. Martial law is declared in
+  Ackwada, Beatis, Chana and Nahuatl.
 ---
 
 

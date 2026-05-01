@@ -11,6 +11,10 @@ related_entities:
 - hip-87621
 - exogene-sciences
 inara_url: https://inara.cz/elite/minorfaction/?search=Vista%20Genomics
+bio: Vista Genomics is a organization in the Elite Dangerous universe, active from
+  3311-11-13 to 3311-11-13. Frequently linked with HIP 87621, Pilots Federation, Exogene
+  Sciences. October Consortium called for scan data to Vista Genomics while permanently
+  banning fleet carriers and explaining data inconsistencies as 'spoofing.'
 ---
 
 

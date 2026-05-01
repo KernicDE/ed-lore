@@ -10,6 +10,10 @@ related_entities:
 - sol
 - sagittarius-a
 - earth
+bio: Galileo station is a starport in the Elite Dangerous universe, significant from
+  3301-04-23 to 3301-04-23. Associated with Buckyball Run. The Buckyball Run A*, a
+  permanent endurance rally race to Sagittarius A*, began with pilots gathering at
+  Galileo station near Earth in Sol.
 ---
 
 <!-- AUTO-GENERATED -->

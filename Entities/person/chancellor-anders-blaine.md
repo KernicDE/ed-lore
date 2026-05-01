@@ -6,6 +6,10 @@ first_seen_date: '3302-07-02'
 last_seen_date: '3307-02-26'
 mention_count: 3
 inara_url: https://inara.cz/elite/cmdr-search/?search=Chancellor%20Anders%20Blaine
+bio: Chancellor Anders Blaine is a diplomat in the Elite Dangerous universe, active
+  from 3302-07-02 to 3307-02-26. Closely associated with Marlinist. Marquis Endincite
+  coordinated the effort, while Chancellor Anders Blaine is reportedly preparing to
+  commend those involved.
 ---
 
 

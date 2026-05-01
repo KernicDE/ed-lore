@@ -20,6 +20,9 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Pichch
 inara_url: https://inara.cz/elite/starsystem/?search=Pichch
+bio: Pichch is a star system in the Elite Dangerous universe, significant from 3309-04-27
+  to 3309-04-27. An accidental destruction of an anti-xeno supply convoy by Imperial
+  forces in Pichch forces both superpowers to order an immediate ceasefire.
 ---
 
 

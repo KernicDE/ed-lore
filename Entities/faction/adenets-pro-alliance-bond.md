@@ -12,6 +12,12 @@ related_entities:
 - sol
 - adeness
 inara_url: https://inara.cz/elite/minorfaction/?search=Adenets%20Pro-Alliance%20Bond
+bio: Adenets Pro-Alliance Bond is a organization in the Elite Dangerous universe,
+  active from 3304-11-29 to 3304-12-06. Frequently linked with Achilles Corporation,
+  Henslow Market, Sol. The Adenets Pro-Alliance Bond organises deliveries of robotics,
+  computer components, and microcontrollers to Henslow Market in the Adenets system
+  for manufacturing new PA912 administration robots. The Adenets Pro-Alliance Bond
+  organised deliveries and protected traders.
 ---
 
 

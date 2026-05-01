@@ -10,6 +10,8 @@ related_entities:
 - imperial-senate
 - emperors-dawn
 - capitol
+bio: 'Denton is a star system in the Elite Dangerous universe, significant from 3301-09-28
+  to 3301-09-28. Associated with Emperor''s Dawn, Imperial Senate. '
 ---
 
 <!-- AUTO-GENERATED -->

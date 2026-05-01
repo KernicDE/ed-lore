@@ -6,6 +6,11 @@ first_seen_date: '3301-08-11'
 last_seen_date: '3301-08-11'
 mention_count: 1
 inara_url: https://inara.cz/elite/commodity/?search=Type-9%20Heavy
+bio: Type-9 Heavy is a technology in the Elite Dangerous universe, mentioned from
+  3301-08-11 to 3301-08-11. Developed or used by Arnold Lowe, Federal Times, Elaine
+  Boyd. Two transport safety officials died when their personal transport collided
+  with a Lakon Type-9 Heavy vessel near Laphria Shipyard in the Artemis system. The
+  Type-9 pilot was treated for shock.
 ---
 
 

@@ -6,6 +6,12 @@ first_seen_date: '3302-08-31'
 last_seen_date: '3302-09-09'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Otto%20Granger
+bio: Otto Granger is a scientist in the Elite Dangerous universe, active from 3302-08-31
+  to 3302-09-09. Independent pilots Noctrach and Ihazevich discovered mysterious wreckage
+  on planet 9a in the Pleiades Sector AB-W B2-4 system after a galaxy-wide hunt coordinated
+  by the Granger Gang. Smuggler Otto Granger has demanded credit for the discovery
+  of mysterious debris in the Pleiades Nebula, claiming he and his friends found it
+  first.
 ---
 
 

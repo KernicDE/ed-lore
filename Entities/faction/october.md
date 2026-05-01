@@ -9,6 +9,8 @@ related_entities:
 - aegis
 - alliance
 inara_url: https://inara.cz/elite/minorfaction/?search=October
+bio: 'October is a organization in the Elite Dangerous universe, active from 3308-12-27
+  to 3308-12-27. Frequently linked with Liz Ryder, Eurybia, Engineers. '
 ---
 
 

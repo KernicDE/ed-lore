@@ -11,6 +11,10 @@ related_entities:
 - interstellar-press
 - mars
 inara_url: https://inara.cz/elite/minorfaction/?search=Stratis%20Information%20Group
+bio: Stratis Information Group is a organization in the Elite Dangerous universe,
+  active from 3301-08-25 to 3301-08-25. Frequently linked with Kumo Crew, Interstellar
+  Press. The Stratis Information Group published a study of Operation Davy Jones,
+  the Imperial Navy's conflict with Archon Delaine.
 ---
 
 

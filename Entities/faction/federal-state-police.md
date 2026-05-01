@@ -10,6 +10,10 @@ related_entities:
 - beta-hydri
 - jacksons-lighthouse
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20State%20Police
+bio: Federal State Police is a organization in the Elite Dangerous universe, active
+  from 3301-08-10 to 3301-08-10. Frequently linked with Judas Syndicate, Jackson’s
+  Lighthouse, Beta Hydri. This article profiles bounty hunter Ziva Eschel, who began
+  her career in the Federal State Police as a Viper pilot in Beta Hydri.
 ---
 
 

@@ -6,6 +6,10 @@ first_seen_date: '3301-09-03'
 last_seen_date: '3301-09-18'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Chase%20Fulbright
+bio: Chase Fulbright is a pilot in the Elite Dangerous universe, active from 3301-09-03
+  to 3301-09-18. Closely associated with BlipMagnet. Director Chase Fulbright announced
+  they had more than enough material for production but apologized for infrastructure
+  delays.
 ---
 
 

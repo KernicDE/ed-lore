@@ -11,6 +11,11 @@ related_entities:
 - galileo-station
 - earth
 inara_url: https://inara.cz/elite/minorfaction/?search=Buckyball%20Run
+bio: Buckyball Run is a organization in the Elite Dangerous universe, active from
+  3301-04-23 to 3301-05-22. Frequently linked with Sagittarius A*, Galileo station.
+  The Buckyball Run A*, a permanent endurance rally race to Sagittarius A*, began
+  with pilots gathering at Galileo station near Earth in Sol. Unlike previous Buckyball
+  Runs, this challenge remains permanently open.
 ---
 
 

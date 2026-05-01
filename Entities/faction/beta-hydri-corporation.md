@@ -10,6 +10,12 @@ related_entities:
 - stevenson-base
 - beta-hydri-system
 inara_url: https://inara.cz/elite/minorfaction/?search=Beta%20Hydri%20Corporation
+bio: Beta Hydri Corporation is a corporate in the Elite Dangerous universe, active
+  from 3302-03-10 to 3302-03-17. Frequently linked with Federal Navy, Beta Hydri system,
+  Stevenson Base. President Zachary Hudson announces the creation of the People's
+  Navy, a new arm of the Federal Navy supported by local corporations. The Beta Hydri
+  Corporation announces the completion of the new Farragut Battle Cruiser for the
+  Federal Navy.
 ---
 
 

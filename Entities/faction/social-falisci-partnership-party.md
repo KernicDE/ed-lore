@@ -12,6 +12,12 @@ related_entities:
 - ngaiawang
 - dornier-terminal
 inara_url: https://inara.cz/elite/minorfaction/?search=Social%20Falisci%20Partnership%20Party
+bio: Social Falisci Partnership Party is a organization in the Elite Dangerous universe,
+  active from 3301-03-07 to 3301-03-07. Frequently linked with Phillips Landing, Falisci
+  Purple Gang, Ngaiawang. Senator Patreus and the Citizens of Tradition successfully
+  defeated the Falisci Purple Gang, assimilating Falisci into Imperial society. However,
+  civil war is brewing between the Citizens of Tradition and the Federal Social Falisci
+  Partnership Party over Phillips Landing, potentially allowing Federation control.
 ---
 
 

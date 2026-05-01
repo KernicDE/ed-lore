@@ -9,6 +9,8 @@ related_entities:
 - rackham-capital-investments
 - hip-87621
 - homeland
+bio: 'Lake Rackham is a star system in the Elite Dangerous universe, significant from
+  3311-09-08 to 3311-09-08. Associated with Rackham Capital Investments. '
 ---
 
 <!-- AUTO-GENERATED -->

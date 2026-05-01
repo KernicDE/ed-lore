@@ -21,6 +21,12 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Qa'wakana
 inara_url: https://inara.cz/elite/starsystem/?search=Qa'wakana
+bio: Qa'wakana is a star system in the Elite Dangerous universe, significant from
+  3303-06-09 to 3303-06-16. Associated with Knights of Karma. The Knights of Karma
+  announced plans to establish a new mining facility among the rings of Qa'wakana
+  6, with open orders for construction materials and a kill order on wanted ships.
+  The Knights of Karma's campaign to establish a new mining facility in the Qa'wakana
+  system concluded successfully, with material targets met.
 ---
 
 

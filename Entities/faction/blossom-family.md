@@ -12,6 +12,13 @@ related_entities:
 - liaedin
 - federal-navy
 inara_url: https://inara.cz/elite/minorfaction/?search=Blossom%20family
+bio: Blossom family is a organization in the Elite Dangerous universe, active from
+  3301-04-27 to 3301-04-30. Frequently linked with Faveol family, Liaedin, Patron's
+  Principles. Federal pilots successfully repelled an attack on Volungu by the Patron's
+  Principles, a group of young Faveol family members from Liaedin seeking glory. The
+  centuries-old feud between the Faveols and Blossoms threatened to reignite, but
+  thousands of Federal pilots flocked to Volungu and neutralised the threat within
+  days.
 ---
 
 

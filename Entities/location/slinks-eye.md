@@ -21,6 +21,11 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Slink's%20Eye
 inara_url: https://inara.cz/elite/starsystem/?search=Slink's%20Eye
+bio: Slink's Eye is a star system in the Elite Dangerous universe, significant from
+  3302-10-06 to 3302-10-13. Associated with Revolutionary Slink's Eye Liberals. Security
+  forces in the Slink's Eye system reported a dramatic upswing in pirate activity.
+  The Revolutionary Slink's Eye Liberals placed a kill order on wanted ships and requested
+  deliveries of reactive armour to Kelleam Ring to bolster security.
 ---
 
 

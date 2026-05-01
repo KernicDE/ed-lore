@@ -10,6 +10,9 @@ related_entities:
 - sirius-corporation
 - universal-cartographics
 - as-this
+bio: 'Stillman Hub in the HIP 22550 is a star system in the Elite Dangerous universe,
+  significant from 3307-01-14 to 3307-01-14. Associated with Universal Cartographics,
+  Marlinist, Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

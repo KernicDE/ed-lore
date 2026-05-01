@@ -9,6 +9,9 @@ related_entities:
 - canonn-interstellar-research-group
 - universal-cartographics
 - ngc-6357
+bio: 'War and Peace Nebula is a region in the Elite Dangerous universe, significant
+  from 3302-05-13 to 3302-05-13. Associated with Canonn Interstellar Research Group,
+  Universal Cartographics. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,8 @@ first_seen_date: '3308-02-17'
 last_seen_date: '3308-02-17'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Ronan%20Brock
+bio: 'Ronan Brock is a emperor in the Elite Dangerous universe, active from 3308-02-17
+  to 3308-02-17. Closely associated with NMLA, Darkwater Inc, Imperial Navy. '
 ---
 
 

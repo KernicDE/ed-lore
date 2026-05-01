@@ -23,6 +23,13 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Omega%20Sector%20VE-Q%20b5-15
 inara_url: https://inara.cz/elite/starsystem/?search=Omega%20Sector%20VE-Q%20b5-15
+bio: Omega Sector VE-Q b5-15 is a star system in the Elite Dangerous universe, significant
+  from 3305-01-17 to 3305-01-24. Associated with Omega Mining Corporation, Deep Space
+  Surveys. The Omega Mining Corporation requests indite, gallite, praseodymium and
+  cobalt deliveries to build an Orbis starport in the Galactic Centre as part of the
+  Distant Worlds II expedition. The Omega Mining Corporation's resource drive concludes
+  successfully, securing enough materials to build an Orbis starport in the Stuemeae
+  FG-Y d7561 system for scientific research on Sagittarius A*.
 ---
 
 

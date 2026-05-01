@@ -11,6 +11,8 @@ related_entities:
 - pilots-federation
 - federal-diplomatic-corps
 - paresa
+bio: 'Harmony''s Shield is a star system in the Elite Dangerous universe, significant
+  from 3307-05-13 to 3307-05-13. Associated with League of Mandu, Pilots Federation. '
 ---
 
 <!-- AUTO-GENERATED -->

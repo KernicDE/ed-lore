@@ -23,6 +23,11 @@ economy: Extraction
 second_economy: Service
 edsm_url: https://www.edsm.net/en/system?search=Jotunheim
 inara_url: https://inara.cz/elite/starsystem/?search=Jotunheim
+bio: Jotunheim is a star system in the Elite Dangerous universe, significant from
+  3303-06-02 to 3303-06-09. Associated with Revolutionary Jotunheim Resistance, Yum
+  Kamcabi Purple Life Industry, Autocracy of Jotunheim. The Revolutionary Jotunheim
+  Resistance successfully drove the Autocracy of Jotunheim from the system, with significant
+  material support from Jasmina Halsey.
 ---
 
 

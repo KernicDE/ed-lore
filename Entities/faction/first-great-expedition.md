@@ -12,6 +12,11 @@ related_entities:
 - communism-interstellar
 - black-birds-squadron
 inara_url: https://inara.cz/elite/minorfaction/?search=First%20Great%20Expedition
+bio: First Great Expedition is a organization in the Elite Dangerous universe, active
+  from 3302-01-12 to 3302-04-24. Frequently linked with Adle's Armada, Guardians of
+  Harmony, Utopia. Utopian delegates and representatives from numerous pilot organizations
+  attended the first symposium of the Pioneers Cooperative, a group supporting expansion
+  into uninhabited space.
 ---
 
 

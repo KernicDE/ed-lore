@@ -11,6 +11,10 @@ related_entities:
 - sothis
 - quince
 - fehu
+bio: M. Gorbachev starport is a starport in the Elite Dangerous universe, significant
+  from 3302-04-12 to 3302-04-12. Associated with Interstellar Press. Gorbachev starport
+  in the Sol system to commemorate the 1,341st anniversary of Yuri Gagarin's historic
+  first flight into space.
 ---
 
 <!-- AUTO-GENERATED -->

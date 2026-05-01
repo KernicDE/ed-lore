@@ -9,6 +9,8 @@ related_entities:
 - vox-galactica
 - none-specified
 inara_url: https://inara.cz/elite/minorfaction/?search=FIA
+bio: 'FIA is a organization in the Elite Dangerous universe, active from 3307-12-10
+  to 3307-12-10. Frequently linked with none specified, Vox Galactica. '
 ---
 
 

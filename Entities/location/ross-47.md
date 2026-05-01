@@ -24,6 +24,8 @@ economy: Colony
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Ross%2047
 inara_url: https://inara.cz/elite/starsystem/?search=Ross%2047
+bio: 'Ross 47 is a star system in the Elite Dangerous universe, significant from 3302-08-05
+  to 3302-08-05. Associated with Canonn Interstellar Research Group. '
 ---
 
 

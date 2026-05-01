@@ -11,6 +11,13 @@ related_entities:
 - mansfield-orbiter
 - leesti
 inara_url: https://inara.cz/elite/minorfaction/?search=United%20Epsilon%20Indi%20Flag
+bio: United Epsilon Indi Flag is a organization in the Elite Dangerous universe, active
+  from 3302-04-14 to 3302-04-21. Frequently linked with Pilots Federation, Mansfield
+  Orbiter, Epsilon Indi system. The United Epsilon Indi Flag recruits pilots for 'Bribes
+  4 Bourbon', a campaign to decriminalise Indi Bourbon by smuggling rare liquors into
+  Mansfield Orbiter. The United Epsilon Indi Flag announces the successful decriminalisation
+  of Indi Bourbon after hundreds of pilots flooded Mansfield Orbiter with illegal
+  rare liquors.
 ---
 
 

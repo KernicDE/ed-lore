@@ -24,6 +24,12 @@ economy: Extraction
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Sobek
 inara_url: https://inara.cz/elite/starsystem/?search=Sobek
+bio: Sobek is a star system in the Elite Dangerous universe, significant from 3301-05-31
+  to 3301-05-31. Associated with Alioth Independents. Pilots fought criminal elements
+  in Alliance territory and engaged in a military campaign against the Sobek Boys
+  criminal syndicate based in the Sobek system. Mercenary pilot Ivan Shevchenko noted
+  the Sobek Boys were well-organised with heavily reinforced ships, making them a
+  formidable opponent.
 ---
 
 

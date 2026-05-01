@@ -12,6 +12,10 @@ related_entities:
 - nehet
 - mictlan
 inara_url: https://inara.cz/elite/minorfaction/?search=Nehet%20Silver%20Ring
+bio: Nehet Silver Ring is a organization in the Elite Dangerous universe, active from
+  3301-04-16 to 3301-04-16. Frequently linked with Almad, Mictlan Cartel, Facece.
+  Arissa Lavigny-Duval directed attacks on the Nehet Silver Ring under Patrons of
+  Law guidance, bringing crime to manageable levels.
 ---
 
 

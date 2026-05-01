@@ -10,6 +10,11 @@ related_entities:
 - njambalba
 - frost-dock
 inara_url: https://inara.cz/elite/minorfaction/?search=Our%20Dolph%27s%20Routes
+bio: Our Dolph's Routes is a organization in the Elite Dangerous universe, active
+  from 3310-12-20 to 3311-12-15. Frequently linked with Frost Dock, Sandra's Workshop,
+  Njambalba. Sandra Corrs requests pilot volunteers to deliver festive gifts to children
+  displaced by the Thargoid invasion, with her upgraded Our Dolph's Routes fleet struggling
+  to locate all recipients.
 ---
 
 

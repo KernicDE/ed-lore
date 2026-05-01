@@ -12,6 +12,11 @@ related_entities:
 - knight-dock
 - seega-port
 inara_url: https://inara.cz/elite/minorfaction/?search=Federal%20Marines
+bio: Federal Marines is a naval in the Elite Dangerous universe, active from 3301-03-20
+  to 3301-03-20. Frequently linked with Lugh 6, Crimson State Group, Knight Dock.
+  Federal forces continue to dominate Lugh, shredding Crimson State Group air defences.
+  Federal Marines secured Seega Port with minimal losses and are working to secure
+  Read Gateway as a staging post for attacks against Crimson State starports.
 ---
 
 

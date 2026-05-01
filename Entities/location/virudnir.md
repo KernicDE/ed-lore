@@ -24,6 +24,8 @@ economy: Refinery
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Virudnir
 inara_url: https://inara.cz/elite/starsystem/?search=Virudnir
+bio: 'Virudnir is a star system in the Elite Dangerous universe, significant from
+  3307-04-02 to 3307-04-02. '
 ---
 
 

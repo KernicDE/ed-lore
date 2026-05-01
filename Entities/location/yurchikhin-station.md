@@ -10,6 +10,9 @@ related_entities:
 - andhrimi
 - empire
 - federation
+bio: 'Yurchikhin Station is a starport in the Elite Dangerous universe, significant
+  from 3303-03-16 to 3303-03-23. Associated with Alectrona Imperial Society, Empire,
+  Federation. '
 ---
 
 <!-- AUTO-GENERATED -->

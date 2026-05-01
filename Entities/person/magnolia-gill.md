@@ -6,6 +6,8 @@ first_seen_date: '3305-03-21'
 last_seen_date: '3305-03-21'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Magnolia%20Gill
+bio: 'Magnolia Gill is a prominent figure in the Elite Dangerous universe, active
+  from 3305-03-21 to 3305-03-21. Closely associated with Deep Space Surveys. '
 ---
 
 

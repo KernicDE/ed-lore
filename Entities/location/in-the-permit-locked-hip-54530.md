@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - core-dynamics
 - jupiter
+bio: 'In the permit-locked HIP 54530 is a star system in the Elite Dangerous universe,
+  significant from 3307-02-09 to 3307-02-09. Associated with Core Dynamics. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -11,6 +11,9 @@ related_entities:
 - manite
 - ackerman-market
 - eravate
+bio: Fozard Dock is a starport in the Elite Dangerous universe, significant from 3302-04-18
+  to 3302-05-20. Ackerman Market, Gabriel Enterprise, Weyn Dock, and Onnes Gateway
+  are now fully operational, while other stations remain affected.
 ---
 
 <!-- AUTO-GENERATED -->

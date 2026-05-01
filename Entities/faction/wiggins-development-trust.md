@@ -12,6 +12,11 @@ related_entities:
 - roach-investment-banking
 - worster-insurance
 inara_url: https://inara.cz/elite/minorfaction/?search=Wiggins%20Development%20Trust
+bio: Wiggins Development Trust is a organization in the Elite Dangerous universe,
+  active from 3301-04-10 to 3301-04-10. Frequently linked with Worster Insurance,
+  Better Green Developments. Shadow President Hudson attended the 153rd annual Exphiay
+  Bankers' Ball alongside Frank Hall of Gallant Investment, Paul Wiggins of Wiggins
+  Development Trust, and Patricia Spellman of Sirius Finance.
 ---
 
 

@@ -6,6 +6,10 @@ first_seen_date: '3304-08-03'
 last_seen_date: '3304-08-05'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Takio%20Diomedes
+bio: Takio Diomedes is a prominent figure in the Elite Dangerous universe, active
+  from 3304-08-03 to 3304-08-05. Closely associated with Imperial Internal Security
+  Service, Unchain. Captain Takio Diomedes reports that explosive charges of amateur
+  design were detected and disabled.
 ---
 
 

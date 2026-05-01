@@ -12,6 +12,10 @@ related_entities:
 - empire
 - federation
 inara_url: https://inara.cz/elite/minorfaction/?search=Frontline%20Solutions
+bio: Frontline Solutions is a organization in the Elite Dangerous universe, active
+  from 3307-12-26 to 3308-06-24. Frequently linked with none specified, Hind Mine,
+  INRA. A cryptic poem attributed to the Winking Cat references Frontline Solutions
+  and the mercenary industry, promising rewards for those who solve the riddle.
 ---
 
 

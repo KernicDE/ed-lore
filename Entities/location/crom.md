@@ -23,6 +23,8 @@ economy: Extraction
 second_economy: None
 edsm_url: https://www.edsm.net/en/system?search=Crom
 inara_url: https://inara.cz/elite/starsystem/?search=Crom
+bio: 'Crom is a star system in the Elite Dangerous universe, significant from 3302-06-09
+  to 3302-06-09. Associated with Crom Silver Boys. '
 ---
 
 

@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - xuangu-crimson-major-network
 - mu-koji
+bio: 'Aksyonov Hub is a star system in the Elite Dangerous universe, significant from
+  3302-09-15 to 3302-09-15. Associated with Xuangu Crimson Major Network. '
 ---
 
 <!-- AUTO-GENERATED -->

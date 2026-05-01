@@ -23,6 +23,12 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Polahukuna
 inara_url: https://inara.cz/elite/starsystem/?search=Polahukuna
+bio: Polahukuna is a star system in the Elite Dangerous universe, significant from
+  3301-02-20 to 3301-02-20. Associated with Polahukuna Raiders, Federal Navy. Following
+  Federal success in routing rebels from Banki and BD+03 2338, Admiral Vincent declared
+  his intention to pursue the invaders back to their homes in Polahukuna. Vincent
+  stated that the Federation will not allow terrorists to break its laws or brainwash
+  its people, and that the Polahukuna Raiders must learn their actions have consequences.
 ---
 
 

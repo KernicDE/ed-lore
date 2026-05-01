@@ -12,6 +12,9 @@ related_entities:
 - eotienses
 - kui-hsien
 inara_url: https://inara.cz/elite/minorfaction/?search=Friends%20of%20Kui%20Hsien
+bio: 'Friends of Kui Hsien is a organization in the Elite Dangerous universe, active
+  from 3301-04-20 to 3301-04-20. Frequently linked with Conservatives of BV Phoenicis,
+  Kui Hsien, Eotienses. '
 ---
 
 

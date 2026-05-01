@@ -24,6 +24,10 @@ economy: Military
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Sirsir
 inara_url: https://inara.cz/elite/starsystem/?search=Sirsir
+bio: Sirsir is a star system in the Elite Dangerous universe, significant from 3305-01-03
+  to 3305-01-10. Associated with Federal Navy, League of Zearla, Imperial Navy. The
+  League of Zearla and Sirsir Co run parallel military supply campaigns for the Federal
+  and Imperial navies respectively, delivering battle weapons, armour and supplies.
 ---
 
 

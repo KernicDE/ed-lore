@@ -11,6 +11,9 @@ related_entities:
 - kuiper-mining-inc
 - olympus-village
 - san-francisco
+bio: 'Columbus Station is a starport in the Elite Dangerous universe, significant
+  from 3304-10-05 to 3304-10-05. Associated with Kuiper Mining Inc., Achilles Corporation,
+  Federal Security Service. '
 ---
 
 <!-- AUTO-GENERATED -->

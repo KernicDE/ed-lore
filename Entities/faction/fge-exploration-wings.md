@@ -12,6 +12,9 @@ related_entities:
 - beagle-point
 - darwins-legacy
 inara_url: https://inara.cz/elite/minorfaction/?search=FGE%20exploration%20wings
+bio: 'FGE exploration wings is a organization in the Elite Dangerous universe, active
+  from 3302-06-17 to 3302-06-17. Frequently linked with Gliese 1269, Beagle Point,
+  Fuel Rats. '
 ---
 
 

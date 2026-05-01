@@ -6,6 +6,10 @@ first_seen_date: '3304-06-21'
 last_seen_date: '3304-06-21'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Trystan%20Law
+bio: Trystan Law is a terrorist in the Elite Dangerous universe, active from 3304-06-21
+  to 3304-06-21. Closely associated with INRA, Alliance Interpol, League of Reparation.
+  Chief Inspector Kay Kilbride foils a League of Reparation assassination attempt
+  on Dinah Law, a descendant of INRA employee Trystan Law.
 ---
 
 

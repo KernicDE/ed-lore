@@ -12,6 +12,11 @@ related_entities:
 - harm
 - arjung
 inara_url: https://inara.cz/elite/minorfaction/?search=Mercs%20of%20Mikunn
+bio: Mercs of Mikunn is a organization in the Elite Dangerous universe, active from
+  3301-04-15 to 3302-01-12. Frequently linked with Arjung, Harm, HR 827. CMDR Bunny,
+  the route's spokesperson, stated the organisation would provide protection to traders
+  and has arranged patrols with the Federal Navy, Mercs of Mikunn, Merchant Marines
+  and other factions.
 ---
 
 

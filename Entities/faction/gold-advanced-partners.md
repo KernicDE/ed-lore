@@ -10,6 +10,11 @@ related_entities:
 - banki-gold-gang
 - banki
 inara_url: https://inara.cz/elite/minorfaction/?search=Gold%20Advanced%20Partners
+bio: Gold Advanced Partners is a organization in the Elite Dangerous universe, active
+  from 3301-03-09 to 3301-03-09. Frequently linked with Banki Gold Gang, Federal Navy,
+  Banki. The Banki Gold Gang suffered hundreds killed and thousands wounded, with
+  medical supplies stretched thin. Governor Christopher Kailson of Gold Advanced Partners
+  issued a plea for commanders to supply Banki's needs to ease suffering.
 ---
 
 

@@ -11,6 +11,11 @@ related_entities:
 - zaonce-jet-gang
 - zaonce
 - lave
+bio: Ridley Scott Station is a starport in the Elite Dangerous universe, significant
+  from 3301-05-05 to 3301-05-05. Associated with Zaonce Jet Gang, Alliance Elite Diplomatic
+  Corps, Silver United Solutions. To celebrate, Silver United organised a discount
+  on all Faulcon DeLacy ships at Ridley Scott Station, including a limited number
+  of Pythons.
 ---
 
 <!-- AUTO-GENERATED -->

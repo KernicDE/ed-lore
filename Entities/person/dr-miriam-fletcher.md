@@ -6,6 +6,10 @@ first_seen_date: '3301-02-17'
 last_seen_date: '3301-02-17'
 mention_count: 1
 inara_url: https://inara.cz/elite/cmdr-search/?search=Dr%20Miriam%20Fletcher
+bio: Dr Miriam Fletcher is a prominent figure in the Elite Dangerous universe, active
+  from 3301-02-17 to 3301-02-17. Closely associated with Furbaide CDC. Dr Miriam Fletcher,
+  head of the Furbaide CDC, requested that anyone shipping basic medicines divert
+  to Effinger Port to donate supplies needed to stop the Blight's spread.
 ---
 
 

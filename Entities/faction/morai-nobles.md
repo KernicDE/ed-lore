@@ -10,6 +10,10 @@ related_entities:
 - morai
 - empire
 inara_url: https://inara.cz/elite/minorfaction/?search=Morai%20Nobles
+bio: Morai Nobles is a organization in the Elite Dangerous universe, active from 3302-08-25
+  to 3302-09-01. Frequently linked with Morai, van de Hulst Vision, Empire. Pilots
+  are asked to deliver autofabricators, tantalum, and superconductors to van de Hulst
+  Vision in the Morai system.
 ---
 
 

@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - sirius-corporation
 - procyon
+bio: 'Davy Dock is a starport in the Elite Dangerous universe, significant from 3301-12-22
+  to 3301-12-22. Associated with Sirius Corporation. '
 ---
 
 <!-- AUTO-GENERATED -->

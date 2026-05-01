@@ -9,6 +9,8 @@ related_entities:
 - core-dynamics
 - hip-54530
 - jupiter
+bio: 'Forge megaship in the HIP 55014 is a star system in the Elite Dangerous universe,
+  significant from 3307-02-18 to 3307-02-18. Associated with Core Dynamics. '
 ---
 
 <!-- AUTO-GENERATED -->

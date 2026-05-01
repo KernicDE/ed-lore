@@ -12,6 +12,11 @@ related_entities:
 - imperial-naval-auxiliary
 - allied-facece-order
 inara_url: https://inara.cz/elite/minorfaction/?search=Facece%20Empire%20Party
+bio: Facece Empire Party is a organization in the Elite Dangerous universe, active
+  from 3301-08-18 to 3302-07-02. Frequently linked with Facece, Office of Imperial
+  Statistics, Topaz. Imperial citizens across the Empire are paying tribute to the
+  late Emperor Hengist Duval. The Facece Empire Party commissioned a modernist sculpture
+  of the Emperor atop a triumphal arch on Topaz.
 ---
 
 

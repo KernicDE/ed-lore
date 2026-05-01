@@ -11,6 +11,10 @@ related_entities:
 - tinia
 - furuhjlem-i-645
 - saga
+bio: Nanoman is a star system in the Elite Dangerous universe, significant from 3301-05-06
+  to 3301-05-06. The announced systems include Hip 53688, Tinia, 78 Ursae Majoris,
+  Su, Furuhjlem I-645, Saga, Delphin, Nanoman, Coriccha and Ross 860, with another
+  dozen expected to be added.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -12,6 +12,9 @@ related_entities:
 - eotienses
 - kui-hsien
 inara_url: https://inara.cz/elite/minorfaction/?search=Eotienses%20Silver%20Universal%20PLC
+bio: 'Eotienses Silver Universal PLC is a organization in the Elite Dangerous universe,
+  active from 3301-04-20 to 3301-04-20. Frequently linked with Friends of Kui Hsien,
+  Conservatives of BV Phoenicis, Kui Hsien. '
 ---
 
 

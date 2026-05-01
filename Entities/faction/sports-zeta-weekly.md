@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - chi-orionis
 inara_url: https://inara.cz/elite/minorfaction/?search=Sports%20Zeta%20Weekly
+bio: 'Sports Zeta Weekly is a organization in the Elite Dangerous universe, active
+  from 3302-09-09 to 3302-09-09. Frequently linked with Chi Orionis. '
 ---
 
 

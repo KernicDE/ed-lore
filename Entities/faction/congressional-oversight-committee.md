@@ -12,6 +12,11 @@ related_entities:
 - hip-16996
 - maia
 inara_url: https://inara.cz/elite/minorfaction/?search=Congressional%20Oversight%20Committee
+bio: Congressional Oversight Committee is a government in the Elite Dangerous universe,
+  active from 3302-03-15 to 3302-03-15. Frequently linked with Fuleum, Federal Navy,
+  HIP 16996. The Congressional Oversight Committee launches an inquiry into reports
+  of a pirate-aligned Farragut Battle Cruiser attacking Federation battle groups in
+  the LHS 3447, Fuleum, and HIP 16996 systems.
 ---
 
 

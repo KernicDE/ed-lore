@@ -9,6 +9,10 @@ related_entities:
 - alliance
 - purple-power-interstellar
 - tsu
+bio: Ziemkiewicz Ring is a star system in the Elite Dangerous universe, significant
+  from 3301-03-27 to 3301-03-27. Associated with Alliance, Purple Power Interstellar.
+  Commanders are invited to deliver exploration data related to potential colony sites
+  to Purple Power Interstellar aboard Ziemkiewicz Ring in Tsu.
 ---
 
 <!-- AUTO-GENERATED -->

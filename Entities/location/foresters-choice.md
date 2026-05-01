@@ -9,6 +9,8 @@ related_entities:
 - upaniklis
 - golconda
 - sol
+bio: 'Forester''s Choice is a star system in the Elite Dangerous universe, significant
+  from 3308-05-13 to 3308-06-17. '
 ---
 
 <!-- AUTO-GENERATED -->

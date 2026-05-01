@@ -11,6 +11,11 @@ related_entities:
 - federal-marines
 - balandin-gateway
 - knight-dock
+bio: Read Gateway is a star system in the Elite Dangerous universe, significant from
+  3301-03-20 to 3301-03-26. Associated with Crimson State Group, Federal Marines.
+  The turning point in the Lugh war came during the Federation's attack on Read Gateway.
+  The CSG fleet has adopted defensive positions around Balandin Gateway and Knight
+  Dock.
 ---
 
 <!-- AUTO-GENERATED -->

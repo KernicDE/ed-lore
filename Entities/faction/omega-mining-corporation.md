@@ -11,6 +11,14 @@ related_entities:
 - stuemeae-fg-y-d7561
 - sagittarius-a
 inara_url: https://inara.cz/elite/minorfaction/?search=Omega%20Mining%20Corporation
+bio: Omega Mining Corporation is a corporate in the Elite Dangerous universe, active
+  from 3305-01-17 to 3305-01-24. Frequently linked with Sagittarius A*, Deep Space
+  Surveys, Omega Sector VE-Q b5-15. The Omega Mining Corporation requests indite,
+  gallite, praseodymium and cobalt deliveries to build an Orbis starport in the Galactic
+  Centre as part of the Distant Worlds II expedition. The Omega Mining Corporation's
+  resource drive concludes successfully, securing enough materials to build an Orbis
+  starport in the Stuemeae FG-Y d7561 system for scientific research on Sagittarius
+  A*.
 ---
 
 

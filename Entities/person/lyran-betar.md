@@ -6,6 +6,9 @@ first_seen_date: '3301-05-18'
 last_seen_date: '3301-05-20'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Lyran%20Betar
+bio: Lyran Betar is a president in the Elite Dangerous universe, active from 3301-05-18
+  to 3301-05-20. Chief Xeno-Chemist Lyran Betar confirmed no known human technology
+  could have created them, yet they do not align with known Thargoid materials.
 ---
 
 

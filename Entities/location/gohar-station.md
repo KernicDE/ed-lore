@@ -11,6 +11,10 @@ related_entities:
 - alliance-elite-diplomatic-corps
 - border-coalition
 - galcop
+bio: Gohar Station is a starport in the Elite Dangerous universe, significant from
+  3302-06-30 to 3302-07-07. Associated with EG Pilots, Interstellar Communist Union.
+  The first heat of the Rise to Power competition required pilots to deliver Gilya
+  signature weapons to Gohar Station in the Jaradharre system.
 ---
 
 <!-- AUTO-GENERATED -->

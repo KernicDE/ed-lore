@@ -10,6 +10,11 @@ related_entities:
 - ho-hsi
 - hand-ring
 inara_url: https://inara.cz/elite/minorfaction/?search=Ho%20Hsi%20Jet%20Comms%20Limited
+bio: Ho Hsi Jet Comms Limited is a organization in the Elite Dangerous universe, active
+  from 3303-09-15 to 3303-09-22. Frequently linked with Freedom Party of Ho Hsi, Ho
+  Hsi, Hand Ring. Conflict has erupted in the Ho Hsi system between Ho Hsi Jet Comms
+  Limited and the Freedom Party of Ho Hsi. Authorities confirm that the conflict in
+  the Ho Hsi system has ended with a victory for Ho Hsi Jet Comms Limited.
 ---
 
 

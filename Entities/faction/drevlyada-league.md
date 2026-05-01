@@ -9,6 +9,11 @@ related_entities:
 - namab-purple-brothers
 - drevlyada
 inara_url: https://inara.cz/elite/minorfaction/?search=Drevlyada%20League
+bio: Drevlyada League is a organization in the Elite Dangerous universe, active from
+  3305-02-21 to 3305-02-28. Frequently linked with Drevlyada, Namab Purple Brothers.
+  A long-standing personal rivalry between General Kendrick of the Namab Purple Brothers
+  and Marshal Cooper of the Drevlyada League escalates into open conflict in the Drevlyada
+  system.
 ---
 
 

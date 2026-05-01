@@ -10,6 +10,10 @@ related_entities:
 - interstellar-press
 - radio-sidewinder
 - alioth
+bio: Irkutsk Station is a starport in the Elite Dangerous universe, significant from
+  3302-03-22 to 3302-03-22. Associated with Alliance, Interstellar Press, Radio Sidewinder.
+  A summit for the Alliance of Independent Systems is held at Irkutsk Station in Alioth,
+  attended by ambassadors from eleven fleets.
 ---
 
 <!-- AUTO-GENERATED -->

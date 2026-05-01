@@ -23,6 +23,8 @@ security: Medium
 economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Gally%20Bese
 inara_url: https://inara.cz/elite/starsystem/?search=Gally%20Bese
+bio: 'Gally Bese is a star system in the Elite Dangerous universe, significant from
+  3306-09-21 to 3306-10-01. Associated with Pilots Federation. '
 ---
 
 

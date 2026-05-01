@@ -12,6 +12,9 @@ related_entities:
 - lp-128-32
 - bulychev-hub
 inara_url: https://inara.cz/elite/minorfaction/?search=LP%20128-32%20Corporation
+bio: 'LP 128-32 Corporation is a corporate in the Elite Dangerous universe, active
+  from 3304-02-02 to 3304-02-02. Frequently linked with LP 128-32, Synuefai EB-R c7-5,
+  Alliance. '
 ---
 
 

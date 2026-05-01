@@ -9,6 +9,11 @@ related_entities:
 - federal-intelligence-agency
 - vox-galactica
 - far-god-cult
+bio: Etain 4 c is a star system in the Elite Dangerous universe, significant from
+  3305-03-23 to 3305-03-30. Associated with Federal Intelligence Agency, Far God cult,
+  Vox Galactica. The FIA discovers an intact cryogenic pod containing a survivor beneath
+  a collapsed chamber at an abandoned Far God cult outpost on Etain 4 c, reviving
+  efforts to locate a missing undercover agent.
 ---
 
 <!-- AUTO-GENERATED -->

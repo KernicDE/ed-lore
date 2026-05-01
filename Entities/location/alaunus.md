@@ -13,6 +13,9 @@ coords:
   z: -5.96875
 edsm_url: https://www.edsm.net/en/system?search=Alaunus
 inara_url: https://inara.cz/elite/starsystem/?search=Alaunus
+bio: Alaunus is a star system in the Elite Dangerous universe, significant from 3303-04-30
+  to 3303-04-30. The lost generation ship Lycaor has been discovered in the Alaunus
+  system; its crew was killed centuries ago by an unidentified pathogen.
 ---
 
 

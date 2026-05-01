@@ -9,6 +9,12 @@ related_entities:
 - cartoq
 - avdeyev-settlement
 inara_url: https://inara.cz/elite/minorfaction/?search=Cartoq%20Purple%20Major%20Organisation
+bio: Cartoq Purple Major Organisation is a organization in the Elite Dangerous universe,
+  active from 3303-04-28 to 3303-05-05. Frequently linked with Avdeyev Settlement,
+  Cartoq. The Cartoq Purple Major Organisation has placed a kill order on wanted ships
+  in the Cartoq system to counter a sharp increase in criminal activity. The Cartoq
+  Purple Major Organisation successfully cleared the Cartoq system of agitators with
+  support from hundreds of pilots.
 ---
 
 

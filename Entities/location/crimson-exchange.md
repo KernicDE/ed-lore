@@ -9,6 +9,8 @@ related_entities:
 - kumo-crew
 - hip-10792
 - pegasi
+bio: 'Crimson Exchange is a star system in the Elite Dangerous universe, significant
+  from 3308-05-19 to 3308-05-26. Associated with Kumo Crew. '
 ---
 
 <!-- AUTO-GENERATED -->

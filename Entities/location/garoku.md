@@ -21,6 +21,8 @@ economy: Agriculture
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Garoku
 inara_url: https://inara.cz/elite/starsystem/?search=Garoku
+bio: 'Garoku is a star system in the Elite Dangerous universe, significant from 3302-06-16
+  to 3302-06-23. Associated with Utopia. '
 ---
 
 

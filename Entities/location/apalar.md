@@ -21,6 +21,10 @@ economy: High Tech
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Apalar
 inara_url: https://inara.cz/elite/starsystem/?search=Apalar
+bio: Apalar is a star system in the Elite Dangerous universe, significant from 3301-08-12
+  to 3301-08-17. Associated with Apalar Labour. The Apalar system government invited
+  independent pilots to help elevate their economy. Apalar Labour is offering rewards
+  for delivering industrial materials to Svavarsson Terminal.
 ---
 
 

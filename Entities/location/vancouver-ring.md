@@ -8,6 +8,11 @@ mention_count: 2
 related_entities:
 - tchernobog-free
 - tchernobog
+bio: Vancouver Ring is a star system in the Elite Dangerous universe, significant
+  from 3302-11-24 to 3302-12-01. Associated with Tchernobog Free. Pilots are asked
+  to deliver goods to Vancouver Ring. Tchernobog Free's appeal for consumer goods
+  was enthusiastically received, with pilots delivering huge quantities to Vancouver
+  Ring to meet high demand from recent one-day deals.
 ---
 
 <!-- AUTO-GENERATED -->

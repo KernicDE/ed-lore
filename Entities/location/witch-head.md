@@ -11,6 +11,9 @@ related_entities:
 - aegis
 - alliance
 - salvation
+bio: Witch Head is a star system in the Elite Dangerous universe, significant from
+  3307-01-07 to 3308-06-08. Associated with Aegis. Starports in The Coalsack and Witch
+  Head Nebulas have been damaged during full-scale Thargoid incursions.
 ---
 
 <!-- AUTO-GENERATED -->

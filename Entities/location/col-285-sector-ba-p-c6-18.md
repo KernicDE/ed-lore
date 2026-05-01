@@ -21,6 +21,10 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Col%20285%20Sector%20BA-P%20c6-18
 inara_url: https://inara.cz/elite/starsystem/?search=Col%20285%20Sector%20BA-P%20c6-18
+bio: Col 285 Sector BA-P c6-18 is a star system in the Elite Dangerous universe, significant
+  from 3310-11-28 to 3310-11-28. Associated with Aegis. The last remaining Thargoid
+  Titan, Cocijo, unexpectedly leaves Col 285 Sector BA-P c6-18 and heads deep into
+  human territory toward the core systems, triggering evacuation efforts in Sol.
 ---
 
 

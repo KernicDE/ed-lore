@@ -6,6 +6,8 @@ first_seen_date: '3301-08-22'
 last_seen_date: '3301-09-17'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Mikalus
+bio: 'Mikalus is a commander in the Elite Dangerous universe, active from 3301-08-22
+  to 3301-09-17. Closely associated with Kumo Crew, Interstellar Press. '
 ---
 
 

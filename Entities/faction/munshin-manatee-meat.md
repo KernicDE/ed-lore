@@ -10,6 +10,11 @@ related_entities:
 - munshin
 - ocrinoxs-orbiter
 inara_url: https://inara.cz/elite/minorfaction/?search=Munshin%20Manatee%20Meat
+bio: Munshin Manatee Meat is a organization in the Elite Dangerous universe, active
+  from 3304-09-13 to 3304-09-20. Frequently linked with Libertas Cooperative, Munshin,
+  Ocrinox's Orbiter. The Libertas Cooperative announces plans to construct a manatee
+  farming megaship for food supplier Munshin Manatee Meat. Progenitor Selena Conley
+  states the project will bring Munshin's fine meat to a wider consumer base.
 ---
 
 

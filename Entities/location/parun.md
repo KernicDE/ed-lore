@@ -22,6 +22,13 @@ economy: Industrial
 second_economy: Colony
 edsm_url: https://www.edsm.net/en/system?search=Parun
 inara_url: https://inara.cz/elite/starsystem/?search=Parun
+bio: Parun is a star system in the Elite Dangerous universe, significant from 3303-01-12
+  to 3303-01-19. Associated with Independents of Parun, Laksmii Jet Power Industries.
+  Laksmii Jet Power Industries plans to smuggle weapons into Underwood Port in Parun
+  for guerrilla attacks against the Independents of Parun, the system's controlling
+  faction. The Independents of Parun foil Laksmii Jet Power Industries' plot to smuggle
+  weapons into Underwood Port by placing bounties on their ships, destroying hundreds
+  of vessels.
 ---
 
 

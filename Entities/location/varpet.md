@@ -24,6 +24,10 @@ economy: Industrial
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Varpet
 inara_url: https://inara.cz/elite/starsystem/?search=Varpet
+bio: Varpet is a star system in the Elite Dangerous universe, significant from 3303-11-11
+  to 3303-11-11. Associated with Conservatives of Tiliala, Black Fleet. The Black
+  Fleet, an independent organization formerly based in Varpet, has become the dominant
+  faction in the permit-locked Tiliala system.
 ---
 
 

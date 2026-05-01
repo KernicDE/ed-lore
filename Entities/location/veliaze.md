@@ -8,6 +8,8 @@ mention_count: 1
 related_entities:
 - imperial-navy
 - intergalactic-naval-reserve-arm
+bio: 'Veliaze is a star system in the Elite Dangerous universe, significant from 3302-08-12
+  to 3302-08-12. Associated with Intergalactic Naval Reserve Arm. '
 ---
 
 <!-- AUTO-GENERATED -->

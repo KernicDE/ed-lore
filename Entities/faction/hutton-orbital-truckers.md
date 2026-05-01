@@ -12,6 +12,12 @@ related_entities:
 - lorens-legion
 - communism-interstellar
 inara_url: https://inara.cz/elite/minorfaction/?search=Hutton%20Orbital%20Truckers
+bio: Hutton Orbital Truckers is a organization in the Elite Dangerous universe, active
+  from 3302-01-12 to 3302-05-19. Frequently linked with Adle's Armada, Guardians of
+  Harmony, Utopia. Pirate leader Don Antonaci of Wolf 359 calls for an 'anything goes'
+  battle royale against the Hutton Orbital Truckers in the Wyrd system. The success
+  of Obsidian Orbital in Maia and the Utopian commune in Takurua were cited as proof
+  that expansion beyond core systems is viable.
 ---
 
 

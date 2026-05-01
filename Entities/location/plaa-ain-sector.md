@@ -9,6 +9,10 @@ related_entities:
 - angeli-imperial-enterprises
 - blido-piru
 - kanai-enterprise
+bio: PLAA AIN Sector is a star system in the Elite Dangerous universe, significant
+  from 3304-04-20 to 3304-04-20. Associated with Angeli Imperial Enterprises. Once
+  complete, the megaship will be deployed to the PLAA AIN Sector to research life
+  on Earth-like worlds and increase crop biodiversity.
 ---
 
 <!-- AUTO-GENERATED -->

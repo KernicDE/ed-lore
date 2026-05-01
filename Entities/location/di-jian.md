@@ -24,6 +24,8 @@ economy: Agriculture
 second_economy: Tourism
 edsm_url: https://www.edsm.net/en/system?search=Di%20Jian
 inara_url: https://inara.cz/elite/starsystem/?search=Di%20Jian
+bio: 'Di Jian is a star system in the Elite Dangerous universe, significant from 3308-02-25
+  to 3308-06-16. Associated with Alliance, Sirius Corporation. '
 ---
 
 

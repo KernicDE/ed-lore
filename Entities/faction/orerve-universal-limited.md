@@ -11,6 +11,10 @@ related_entities:
 - diso
 - orerve
 inara_url: https://inara.cz/elite/minorfaction/?search=Orerve%20Universal%20Limited
+bio: Orerve Universal Limited is a organization in the Elite Dangerous universe, active
+  from 3305-10-10 to 3305-10-10. Frequently linked with Diso, Interstellar Association
+  for Agriculture, Crimson State Limited. Coordinated trade initiatives launch in
+  Diso and Orerve to mitigate crop yield losses.
 ---
 
 

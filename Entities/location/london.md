@@ -11,6 +11,11 @@ related_entities:
 - alioth
 - cambridge
 - mars
+bio: London is a star system in the Elite Dangerous universe, significant from 3301-03-27
+  to 3301-04-02. Associated with Alliance. Loren is currently on Earth, having been
+  greeted by cheering crowds at Cambridge spaceport before meeting Ambassador Waite
+  in London. Senator Kahina Tijani Loren was presented with Gerasian Liquor at a concert
+  in London during her Federation visit.
 ---
 
 <!-- AUTO-GENERATED -->

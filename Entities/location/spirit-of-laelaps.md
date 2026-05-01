@@ -11,6 +11,8 @@ related_entities:
 - aegis
 - azimuth
 - jameson-memorial
+bio: 'Spirit of Laelaps is a star system in the Elite Dangerous universe, significant
+  from 3308-11-29 to 3310-09-19. Associated with Sirius Corporation, Azimuth. '
 ---
 
 <!-- AUTO-GENERATED -->

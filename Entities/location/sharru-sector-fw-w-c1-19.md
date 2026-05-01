@@ -24,6 +24,11 @@ economy: Extraction
 second_economy: Industrial
 edsm_url: https://www.edsm.net/en/system?search=Sharru%20Sector%20FW-W%20c1-19
 inara_url: https://inara.cz/elite/starsystem/?search=Sharru%20Sector%20FW-W%20c1-19
+bio: Sharru Sector FW-W c1-19 is a star system in the Elite Dangerous universe, significant
+  from 3307-06-03 to 3307-06-25. Associated with Pilots Federation. New Alliance starports
+  will be constructed in the LHS 2522 and Sharru Sector FW-W c1-19 systems by June
+  25th. Two new Alliance stations — Enterprise Market in LHS 2522 and Prosperity Core
+  in Sharru Sector FW-W c1-19 — become operational.
 ---
 
 

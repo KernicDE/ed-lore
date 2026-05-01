@@ -9,6 +9,12 @@ related_entities:
 - lidpar
 - carlisle-station
 inara_url: https://inara.cz/elite/minorfaction/?search=Union%20of%20Lidpar%20Green%20Party
+bio: Union of Lidpar Green Party is a organization in the Elite Dangerous universe,
+  active from 3303-03-23 to 3303-03-30. Frequently linked with Lidpar, Carlisle Station.
+  Authorities in the Lidpar system reported a sharp increase in criminals attacking
+  pilots and disrupting trade. The Union of Lidpar Green Party placed a kill order
+  on wanted ships and requested battle weapons, reactive armour and advanced medicines
+  for local security forces.
 ---
 
 

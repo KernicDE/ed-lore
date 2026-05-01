@@ -9,6 +9,8 @@ related_entities:
 - distant-worlds-expedition
 - beagle-point
 - sol
+bio: 'Ceeckia ZQ-L c24-0 is a star system in the Elite Dangerous universe, significant
+  from 3302-03-29 to 3302-03-29. Associated with Distant Worlds Expedition. '
 ---
 
 <!-- AUTO-GENERATED -->

@@ -21,6 +21,8 @@ economy: Industrial
 second_economy: Extraction
 edsm_url: https://www.edsm.net/en/system?search=Gucumadhyas
 inara_url: https://inara.cz/elite/starsystem/?search=Gucumadhyas
+bio: 'Gucumadhyas is a star system in the Elite Dangerous universe, significant from
+  3303-04-14 to 3303-04-21. Associated with Utopia Commune. '
 ---
 
 

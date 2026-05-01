@@ -11,6 +11,8 @@ related_entities:
 - darrest-station
 - uibuth-system
 - achenar
+bio: 'Cubeo III is a star system in the Elite Dangerous universe, significant from
+  3302-02-18 to 3302-02-18. Associated with Navigators Guild. '
 ---
 
 <!-- AUTO-GENERATED -->

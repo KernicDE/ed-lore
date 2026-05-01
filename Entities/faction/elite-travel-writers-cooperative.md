@@ -10,6 +10,9 @@ related_entities:
 - sagittarius-a
 - beagle-point
 inara_url: https://inara.cz/elite/minorfaction/?search=Elite%20Travel%20Writers%27%20Cooperative
+bio: 'Elite Travel Writers'' Cooperative is a organization in the Elite Dangerous
+  universe, active from 3302-11-26 to 3302-11-26. Frequently linked with Beagle Point,
+  Pilots Federation, Sagittarius A*. '
 ---
 
 

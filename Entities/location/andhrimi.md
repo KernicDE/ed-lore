@@ -23,6 +23,11 @@ economy: High Tech
 second_economy: Refinery
 edsm_url: https://www.edsm.net/en/system?search=Andhrimi
 inara_url: https://inara.cz/elite/starsystem/?search=Andhrimi
+bio: Andhrimi is a star system in the Elite Dangerous universe, significant from 3303-03-16
+  to 3303-03-23. Associated with Alectrona Imperial Society, Empire, Federation. The
+  Empire announced plans to construct an outpost in the Andhrimi system. Hundreds
+  of independent pilots supported the operation to build an outpost in the Andhrimi
+  system.
 ---
 
 

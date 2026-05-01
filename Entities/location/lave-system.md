@@ -16,6 +16,11 @@ coords:
   y: 48.75
   z: 70.75
 edsm_url: https://www.edsm.net/en/system?search=Lave
+bio: Lave system is a star system in the Elite Dangerous universe, significant from
+  3302-03-03 to 3302-03-10. Associated with Lave Radio Network. The Lave Radio Network
+  announces the successful conclusion of its campaign to create a new interstellar
+  transmitter. Large quantities of Cherbones Blood Crystals were delivered to Lave
+  Station, and the new transmitter will be operational within hours.
 ---
 
 <!-- AUTO-GENERATED -->

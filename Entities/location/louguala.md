@@ -24,6 +24,11 @@ economy: Tourism
 second_economy: Agriculture
 edsm_url: https://www.edsm.net/en/system?search=Louguala
 inara_url: https://inara.cz/elite/starsystem/?search=Louguala
+bio: Louguala is a star system in the Elite Dangerous universe, significant from 3301-07-30
+  to 3301-08-06. Fresh Cerberus Plague outbreaks have appeared in Chongguls, Xamentii,
+  G 139-50, Cantjarisni, Rajukru, HIP 10175, Amahu, Leerham, BD-11 4280, and Louguala.
+  Affected systems include Cantjarisni, Rajukru, HIP 10175, Amahu, Leerham, BD-11
+  4280, and Louguala.
 ---
 
 

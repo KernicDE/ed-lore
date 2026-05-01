@@ -12,6 +12,9 @@ related_entities:
 - lurp-ship-systems
 - pilots-federation
 inara_url: https://inara.cz/elite/minorfaction/?search=Jick%20Nackson%20Enterprises
+bio: 'Jick Nackson Enterprises is a corporate in the Elite Dangerous universe, active
+  from 3308-09-30 to 3308-09-30. Frequently linked with Pilots Federation, Universal
+  Cartographics, Auger Vision. '
 ---
 
 

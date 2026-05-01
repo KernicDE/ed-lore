@@ -6,6 +6,8 @@ first_seen_date: '3307-04-15'
 last_seen_date: '3307-04-22'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=Semiconductors
+bio: 'Semiconductors is a technology in the Elite Dangerous universe, mentioned from
+  3307-04-15 to 3307-04-22. Developed or used by Kavanagh Spaceframes Ltd. '
 ---
 
 

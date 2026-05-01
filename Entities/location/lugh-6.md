@@ -11,6 +11,10 @@ related_entities:
 - lugh
 - balandin-gateway
 - knight-dock
+bio: Lugh 6 is a star system in the Elite Dangerous universe, significant from 3301-03-20
+  to 3301-03-20. Associated with Federal Marines, Crimson State Group. Federal forces
+  continue to dominate Lugh, shredding Crimson State Group air defences. Hundreds
+  of refugee ships are fleeing Lugh 6 to escape the fighting.
 ---
 
 <!-- AUTO-GENERATED -->

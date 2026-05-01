@@ -11,6 +11,12 @@ related_entities:
 - mars
 - achenar
 - tau-ceti
+bio: Taylor Colony is a star system in the Elite Dangerous universe, significant from
+  3301-07-05 to 3301-07-29. Associated with Federation. In 2242, the Federation Accord
+  united many colonies, with Taylor Colony in Tau Ceti becoming the first signatory
+  outside Sol. Born and raised on Taylor Colony, Winters believes humanity cannot
+  always be trusted to do the right thing and sees it as her duty to push for the
+  hard but correct choice.
 ---
 
 <!-- AUTO-GENERATED -->

@@ -6,6 +6,8 @@ first_seen_date: '3311-07-22'
 last_seen_date: '3311-07-24'
 mention_count: 2
 inara_url: https://inara.cz/elite/commodity/?search=MkII%20cargo%20rack
+bio: 'MkII cargo rack is a technology in the Elite Dangerous universe, mentioned from
+  3311-07-22 to 3311-07-24. Developed or used by Zorgon Peterson, Brewer Corporation. '
 ---
 
 

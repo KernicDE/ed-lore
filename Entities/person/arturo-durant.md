@@ -6,6 +6,10 @@ first_seen_date: '3308-05-02'
 last_seen_date: '3309-03-06'
 mention_count: 2
 inara_url: https://inara.cz/elite/cmdr-search/?search=Arturo%20Durant
+bio: Arturo Durant is a senator in the Elite Dangerous universe, active from 3308-05-02
+  to 3309-03-06. Closely associated with Marlinist, Imperial Herald. Senator Arturo
+  Durant argues the Marlinist Colonies should have accepted Imperial protectorate
+  status for protection against the Thargoids.
 ---
 
 
