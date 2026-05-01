@@ -4,7 +4,8 @@ title: Jasmina Halsey Becomes Federal Ambassador
 slug: jasmina_halsey_becomes_federal_ambassador
 date: 3307-03-26
 source: API
-summary: Former President Jasmina Halsey has joined The Federal Diplomatic Corps to become an ambassador to the Alliance.
+summary: Former President Jasmina Halsey has joined The Federal Diplomatic Corps to
+  become an ambassador to the Alliance.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Each
@@ -14,7 +15,6 @@ persons:
 - President Jasmina Halsey
 - Rochester
 - Shadow President
-- This
 - With
 groups:
 - Alliance
@@ -24,7 +24,9 @@ topics:
 - diplomacy
 - war
 arc_id: null
-modern_impact: '"Being at the conference reminded me that the political arena is where I belong." Halsey''s return to Federal service as an ambassador marked a remarkable political rehabilitation after years in exile following the Starship One disaster.'
+modern_impact: '"Being at the conference reminded me that the political arena is where
+  I belong." Halsey''s return to Federal service as an ambassador marked a remarkable
+  political rehabilitation after years in exile following the Starship One disaster.'
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -35,6 +37,7 @@ related_uuids:
 - 4e4f34c5-f585-58c6-983a-ec7b9135f20d
 - f289a62c-f4fe-5c65-8563-7f318ee935ba
 ---
+
 
 Former President Jasmina Halsey has joined The Federal Diplomatic Corps to become an ambassador to the Alliance. 
 In recent years Halsey served as an advisor to Prime Minister Mahon, but returned to the Federation in January to stand as a witness in the Starship One trial. She was a guest of Shadow President Felicia Winters at the Galactic Summit, and both were evacuated back to Mars when it was cancelled.

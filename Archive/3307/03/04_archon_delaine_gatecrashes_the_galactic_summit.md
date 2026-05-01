@@ -4,13 +4,14 @@ title: Archon Delaine Gatecrashes the Galactic Summit
 slug: archon_delaine_gatecrashes_the_galactic_summit
 date: 3307-03-04
 source: API
-summary: Pirate warlord Archon Delaine has unexpectedly appeared at The diplomatic conference and demanded to participate as a political delegate.
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: Pirate warlord Archon Delaine has unexpectedly appeared at The diplomatic
+  conference and demanded to participate as a political delegate.
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
 - Enterprise
 - Our
 - The Sirius
-- This
 - With
 groups:
 - Aegis
@@ -31,7 +32,9 @@ topics:
 - piracy
 - war
 arc_id: null
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -42,6 +45,7 @@ related_uuids:
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - cade76e4-0a9d-5ef5-bce5-c552c1703f49
 ---
+
 
 Pirate warlord Archon Delaine has unexpectedly appeared at The diplomatic conference and demanded to participate as a political delegate.
 Delaine is the leader of the Kumo Crew, a notorious crime syndicate that controls Dozens of systems. Their arrival at Patterson Enterprise station initially caused Many delegations’ security teams to begin evacuations.

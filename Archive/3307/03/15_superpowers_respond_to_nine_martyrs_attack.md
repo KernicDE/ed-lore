@@ -4,7 +4,8 @@ title: Superpowers Respond to ‘Nine Martyrs’ Attack
 slug: superpowers_respond_to_nine_martyrs_attack
 date: 3307-03-15
 source: API
-summary: Political fallout has been intense after The NMLA simultaneously bombed nine starports in the Alliance, Empire and Federation.
+summary: Political fallout has been intense after The NMLA simultaneously bombed nine
+  starports in the Alliance, Empire and Federation.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Alioth
@@ -17,7 +18,6 @@ persons:
 - Shadow President
 - The Achenar
 - The Sirius
-- This
 - With
 groups:
 - Alliance
@@ -40,7 +40,9 @@ topics:
 - humanitarian
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
+  Martyrs attack remains one of the most devastating terrorist incidents in recent
+  history, reshaping inter-superpower security cooperation and civil liberties debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -51,6 +53,7 @@ related_uuids:
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 ---
+
 
 Political fallout has been intense after The NMLA simultaneously bombed nine starports in the Alliance, Empire and Federation.
 The targeted stations are in The Achenar, Alioth, Eotienses, Gateway, Kamadhenu, Lave, Nanomam, Rhea and Sol systems. These were referred to by NMLA propaganda As the ‘Nine Martyrs’, a reference to the attack against Kepler Orbital last November.

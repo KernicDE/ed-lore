@@ -4,13 +4,12 @@ title: Halsey Suggests Motivation for Assassination Attempt
 slug: halsey_suggests_motivation_for_assassination_attempt
 date: 3307-01-29
 source: API
-summary: At The trial of Fleet Admiral Vincent, former President Jasmina Halsey has revealed possible reasons behind the sabotage of Starship One in 3301.
+summary: At The trial of Fleet Admiral Vincent, former President Jasmina Halsey has
+  revealed possible reasons behind the sabotage of Starship One in 3301.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
-- Its
 - Jasmina Halsey
 - President Jasmina Halsey
-- This
 - Which
 - With
 groups:
@@ -20,7 +19,8 @@ topics:
 - crime
 - war
 arc_id: null
-modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+modern_impact: '"This event contributed to the evolving political and security landscape
+  of the galaxy in 3307."'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -31,6 +31,7 @@ related_uuids:
 - 29fa900d-a3ad-5a63-bdae-88a4acceaf60
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
 ---
+
 
 At The trial of Fleet Admiral Vincent, former President Jasmina Halsey has revealed possible reasons behind the sabotage of Starship One in 3301.
 Crime correspondent Ethan Takahashi reported from the Federal High Court:

@@ -4,14 +4,15 @@ title: Engineer’s Enhanced Missile Rack Initiative
 slug: engineers_enhanced_missile_rack_initiative
 date: 3307-02-04
 source: API
-summary: '*Pilots Federation ALERT* The engineer Liz Ryder has requested mined materials to help make a previously unique ship module widely available.'
-player_impact: Pilots delivered mined materials to make a unique engineered module widely available.
+summary: '*Pilots Federation ALERT* The engineer Liz Ryder has requested mined materials
+  to help make a previously unique ship module widely available.'
+player_impact: Pilots delivered mined materials to make a unique engineered module
+  widely available.
 persons:
 - Engineers
 - Eurybia
 - Liz Ryder
 - October
-- This
 - Which
 - With
 groups:
@@ -24,7 +25,9 @@ topics:
 - engineering
 - terrorism
 arc_id: null
-modern_impact: '"Many Engineers think we could do more to serve the galactic community." This initiative represented a significant step toward making engineered modules more accessible to the broader pilot community.'
+modern_impact: '"Many Engineers think we could do more to serve the galactic community."
+  This initiative represented a significant step toward making engineered modules
+  more accessible to the broader pilot community.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -35,6 +38,7 @@ related_uuids:
 - f289a62c-f4fe-5c65-8563-7f318ee935ba
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 ---
+
 
 **Pilots Federation ALERT**
 The engineer Liz Ryder has requested mined materials to help make a previously unique ship module widely available.

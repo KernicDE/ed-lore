@@ -4,13 +4,13 @@ title: Marlinist Colonies Receive Emergency Food Supplies
 slug: marlinist_colonies_receive_emergency_food_supplies
 date: 3307-01-21
 source: API
-summary: '*Pilots Federation ALERT* Large amounts of food commodities have been delivered to The Marlinist Colonies.'
+summary: '*Pilots Federation ALERT* Large amounts of food commodities have been delivered
+  to The Marlinist Colonies.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Jenna Fairfax
 - Marlin Duval
 - Our
-- This
 - Which
 groups:
 - Marlinist
@@ -19,7 +19,10 @@ locations:
 topics:
 - war
 arc_id: null
-modern_impact: '"The starport attacks were as sickening and terrifying to us as to the rest of the galaxy." The Marlinist refugee crisis and NMLA terrorism forced the galaxy to confront the consequences of Imperial political repression and republican ideology.'
+modern_impact: '"The starport attacks were as sickening and terrifying to us as to
+  the rest of the galaxy." The Marlinist refugee crisis and NMLA terrorism forced
+  the galaxy to confront the consequences of Imperial political repression and republican
+  ideology.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -30,6 +33,7 @@ related_uuids:
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
 ---
+
 
 **Pilots Federation ALERT**
 Large amounts of food commodities have been delivered to The Marlinist Colonies.

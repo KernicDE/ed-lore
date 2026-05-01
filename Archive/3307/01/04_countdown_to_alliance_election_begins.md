@@ -4,14 +4,14 @@ title: Countdown to Alliance Election Begins
 slug: countdown_to_alliance_election_begins
 date: 3307-01-04
 source: API
-summary: The Alliance has entered a period of political campaigning prior to the election of a new prime minister.
+summary: The Alliance has entered a period of political campaigning prior to the election
+  of a new prime minister.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Each
 - Edmund Mahon
 - Every
 - Our
-- This
 - Tionisla
 - With
 groups:
@@ -22,7 +22,10 @@ topics:
 - alien contact
 - corporate expansion
 arc_id: null
-modern_impact: '"It is outrageous that the prime minister is using this as an excuse to extend his term in office." The election delay and subsequent protests revealed growing tensions within the Alliance between superpower ambitions and member system sovereignty.'
+modern_impact: '"It is outrageous that the prime minister is using this as an excuse
+  to extend his term in office." The election delay and subsequent protests revealed
+  growing tensions within the Alliance between superpower ambitions and member system
+  sovereignty.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -33,6 +36,7 @@ related_uuids:
 - b5e2b232-ff58-51a8-9ddc-1424c9e9acc2
 - 8c30a23e-d29a-5753-ac4d-3b70d734dec3
 ---
+
 
 The Alliance has entered a period of political campaigning prior to the election of a new prime minister.
 The appointment of a head of government takes place Every six years, With the forthcoming vote scheduled for the 25th of February 3307.

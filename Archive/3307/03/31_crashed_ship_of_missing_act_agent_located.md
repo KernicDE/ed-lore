@@ -4,19 +4,17 @@ title: Crashed Ship of Missing ACT Agent Located
 slug: crashed_ship_of_missing_act_agent_located
 date: 3307-03-31
 source: API
-summary: '*Pilots Federation ALERT* The Vessel of Captain Niamh Seutonia, who vanished on an anti-NMLA mission, has been Found With Its crew dead.'
+summary: '*Pilots Federation ALERT* The Vessel of Captain Niamh Seutonia, who vanished
+  on an anti-NMLA mission, has been Found With Its crew dead.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Every
 - Found
 - Imperial Internal Security Service
-- Its
-- Located
 - Mudhrid
 - Our
 - The Achenar
 - TheRealFlame
-- This
 - Vessel
 - With
 groups:
@@ -30,7 +28,9 @@ topics:
 - investigation
 - war
 arc_id: nmla-terrorism
-modern_impact: '"We owe a debt to every pilot who joined our efforts to find the Valkyrie." The discovery of the Valkyrie''s wreckage provided crucial evidence linking the Mudhrid system to the NMLA bombings, advancing ACT''s investigation.'
+modern_impact: '"We owe a debt to every pilot who joined our efforts to find the Valkyrie."
+  The discovery of the Valkyrie''s wreckage provided crucial evidence linking the
+  Mudhrid system to the NMLA bombings, advancing ACT''s investigation.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -41,6 +41,7 @@ related_uuids:
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 ---
+
 
 **Pilots Federation ALERT**
 The Vessel of Captain Niamh Seutonia, who vanished on an anti-NMLA mission, has been Found With Its crew dead.

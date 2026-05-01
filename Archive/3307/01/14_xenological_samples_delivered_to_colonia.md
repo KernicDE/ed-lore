@@ -4,13 +4,14 @@ title: Xenological Samples Delivered to Colonia
 slug: xenological_samples_delivered_to_colonia
 date: 3307-01-14
 source: API
-summary: '*Pilots Federation ALERT* The Holloway Bioscience Institute has rewarded pilots who delivered living matter extracted from space-dwelling organisms.'
-player_impact: Pilots delivered tissue samples from space-dwelling organisms to Colonia researchers.
+summary: '*Pilots Federation ALERT* The Holloway Bioscience Institute has rewarded
+  pilots who delivered living matter extracted from space-dwelling organisms.'
+player_impact: Pilots delivered tissue samples from space-dwelling organisms to Colonia
+  researchers.
 persons:
 - Eol Prou
 - Our
 - Roy Casimir
-- This
 - With
 groups: []
 locations:
@@ -23,7 +24,10 @@ topics:
 - research
 - war
 arc_id: null
-modern_impact: '"There is still a huge amount to learn about the fascinating structures that grow within the vacuum of space." Colonia''s xenobiological research continues to expand humanity''s understanding of space-dwelling lifeforms in the far reaches of the galaxy.'
+modern_impact: '"There is still a huge amount to learn about the fascinating structures
+  that grow within the vacuum of space." Colonia''s xenobiological research continues
+  to expand humanity''s understanding of space-dwelling lifeforms in the far reaches
+  of the galaxy.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -34,6 +38,7 @@ related_uuids:
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 ---
+
 
 **Pilots Federation ALERT**
 The Holloway Bioscience Institute has rewarded pilots who delivered living matter extracted from space-dwelling organisms.

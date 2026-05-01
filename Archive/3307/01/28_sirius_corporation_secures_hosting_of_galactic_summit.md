@@ -4,12 +4,12 @@ title: Sirius Corporation Secures Hosting of Galactic Summit
 slug: sirius_corporation_secures_hosting_of_galactic_summit
 date: 3307-01-28
 source: API
-summary: '*Pilots Federation ALERT* Sirius Corporation has received more data than Utopia and will therefore host The Galactic Summit.'
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: '*Pilots Federation ALERT* Sirius Corporation has received more data than
+  Utopia and will therefore host The Galactic Summit.'
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
-- Its
 - Li Yong-Rui
-- This
 - Which
 groups:
 - Alliance
@@ -25,7 +25,9 @@ topics:
 - diplomacy
 - war
 arc_id: null
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -36,6 +38,7 @@ related_uuids:
 - fc197df5-b778-5964-a004-448689eba981
 - 9243011a-ed83-592c-9dcd-6cefc68679cf
 ---
+
 
 **Pilots Federation ALERT**
 Sirius Corporation has received more data than Utopia and will therefore host The Galactic Summit.

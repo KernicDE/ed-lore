@@ -4,15 +4,15 @@ title: Core Dynamics Insider Discusses Lakon Takeover
 slug: core_dynamics_insider_discusses_lakon_takeover
 date: 3307-01-13
 source: API
-summary: An anonymous source within The shipbuilding corporation Core Dynamics has revealed details behind Its hostile takeover of Lakon Spaceways.
-player_impact: The corporate takeover generated significant market and political interest among pilots.
+summary: An anonymous source within The shipbuilding corporation Core Dynamics has
+  revealed details behind Its hostile takeover of Lakon Spaceways.
+player_impact: The corporate takeover generated significant market and political interest
+  among pilots.
 persons:
 - Further
-- Its
 - Jupiter
 - Jupiter Rochester
 - Rochester
-- This
 - With
 groups:
 - Core Dynamics
@@ -22,7 +22,9 @@ topics:
 - corporate expansion
 - investigation
 arc_id: null
-modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic shipbuilding independence against Federal corporate encroachment.'
+modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon
+  Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic
+  shipbuilding independence against Federal corporate encroachment.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -33,6 +35,7 @@ related_uuids:
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 ---
+
 
 An anonymous source within The shipbuilding corporation Core Dynamics has revealed details behind Its hostile takeover of Lakon Spaceways.
 The nameless insider had previously stated that the acquisition of Lakon was the personal project of Core Dynamics CEO Jupiter Rochester. These additional claims were broadcast via Vox Galactica:

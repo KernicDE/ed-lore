@@ -4,14 +4,14 @@ title: Medicines Delivered for Starport Bombing Survivors
 slug: medicines_delivered_for_starport_bombing_survivors
 date: 3307-03-25
 source: API
-summary: '*Pilots Federation ALERT* Safeguard Interstellar has successfully received medical supplies for civilians wounded during The NMLA terrorist attack.'
+summary: '*Pilots Federation ALERT* Safeguard Interstellar has successfully received
+  medical supplies for civilians wounded during The NMLA terrorist attack.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Alioth
 - Duamta
 - Eotienses
 - Gateway
-- Its
 - Kamadhenu
 - Lave
 - The Achenar
@@ -35,7 +35,9 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
+  Martyrs attack remains one of the most devastating terrorist incidents in recent
+  history, reshaping inter-superpower security cooperation and civil liberties debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -46,6 +48,7 @@ related_uuids:
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 - b88f6ab1-b0ea-5935-9b8a-92aa25b5b3a3
 ---
+
 
 **Pilots Federation ALERT**
 Safeguard Interstellar has successfully received medical supplies for civilians wounded during The NMLA terrorist attack.

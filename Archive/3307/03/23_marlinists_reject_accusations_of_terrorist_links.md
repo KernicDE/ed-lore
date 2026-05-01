@@ -4,14 +4,15 @@ title: Marlinists Reject Accusations of Terrorist Links
 slug: marlinists_reject_accusations_of_terrorist_links
 date: 3307-03-23
 source: API
-summary: The Marlinist Parliament has refuted widespread allegations of supporting or concealing members of the NMLA paramilitary group.
-player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
+summary: The Marlinist Parliament has refuted widespread allegations of supporting
+  or concealing members of the NMLA paramilitary group.
+player_impact: Pilots were involved in rescue, repair, and security operations following
+  the attacks.
 persons:
 - Far
 - Jenna Fairfax
 - Neo-Marlinist Liberation Army
 - Our
-- This
 groups:
 - Marlinist
 - NMLA
@@ -20,7 +21,10 @@ locations:
 - Marlinist
 topics: []
 arc_id: nmla-terrorism
-modern_impact: '"The starport attacks were as sickening and terrifying to us as to the rest of the galaxy." The Marlinist refugee crisis and NMLA terrorism forced the galaxy to confront the consequences of Imperial political repression and republican ideology.'
+modern_impact: '"The starport attacks were as sickening and terrifying to us as to
+  the rest of the galaxy." The Marlinist refugee crisis and NMLA terrorism forced
+  the galaxy to confront the consequences of Imperial political repression and republican
+  ideology.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -31,6 +35,7 @@ related_uuids:
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 ---
+
 
 The Marlinist Parliament has refuted widespread allegations of supporting or concealing members of the NMLA paramilitary group.
 Fuelled by media speculation, Many political and military leaders have suggested that the Marlinist Colonies should be occupied or destroyed to take revenge for the recent bombings. However, there is no evidence that these systems have any direct connection to the NMLA.

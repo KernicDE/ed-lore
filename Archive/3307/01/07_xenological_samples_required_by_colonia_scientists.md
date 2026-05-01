@@ -4,12 +4,12 @@ title: Xenological Samples Required by Colonia Scientists
 slug: xenological_samples_required_by_colonia_scientists
 date: 3307-01-07
 source: API
-summary: '*Pilots Federation ALERT* The Holloway Bioscience Institute in Colonia is offering high payouts for delivering samples from space-dwelling lifeforms.'
-player_impact: Pilots delivered tissue samples from space-dwelling organisms to Colonia researchers.
+summary: '*Pilots Federation ALERT* The Holloway Bioscience Institute in Colonia is
+  offering high payouts for delivering samples from space-dwelling lifeforms.'
+player_impact: Pilots delivered tissue samples from space-dwelling organisms to Colonia
+  researchers.
 persons:
-- Located
 - Our
-- This
 - Which
 groups: []
 locations:
@@ -20,7 +20,10 @@ topics:
 - alien contact
 - research
 arc_id: null
-modern_impact: '"There is still a huge amount to learn about the fascinating structures that grow within the vacuum of space." Colonia''s xenobiological research continues to expand humanity''s understanding of space-dwelling lifeforms in the far reaches of the galaxy.'
+modern_impact: '"There is still a huge amount to learn about the fascinating structures
+  that grow within the vacuum of space." Colonia''s xenobiological research continues
+  to expand humanity''s understanding of space-dwelling lifeforms in the far reaches
+  of the galaxy.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -31,6 +34,7 @@ related_uuids:
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 ---
+
 
 **Pilots Federation ALERT**
 The Holloway Bioscience Institute in Colonia is offering high payouts for delivering samples from space-dwelling lifeforms.

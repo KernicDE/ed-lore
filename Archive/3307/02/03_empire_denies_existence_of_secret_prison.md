@@ -8,10 +8,6 @@ summary: '*Pilots Federation ALERT* An Imperial Intelligence detention facility 
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Andee-X-
-- Imperial Internal Security Service
-- Its
-- Located
-- This
 groups:
 - Imperial Internal Security Service
 locations: []

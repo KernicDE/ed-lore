@@ -4,8 +4,10 @@ title: Anti-NMLA Intelligence Unit Formed
 slug: anti_nmla_intelligence_unit_formed
 date: 3307-03-17
 source: API
-summary: The Alliance, Empire and Federation have created a centralised agency dedicated to investigating and eliminating the NMLA paramilitary group.
-player_impact: Pilots were involved in rescue, repair, and security operations following the attacks.
+summary: The Alliance, Empire and Federation have created a centralised agency dedicated
+  to investigating and eliminating the NMLA paramilitary group.
+player_impact: Pilots were involved in rescue, repair, and security operations following
+  the attacks.
 persons:
 - Alioth
 - Eotienses
@@ -15,7 +17,6 @@ persons:
 - Lave
 - Tanya Ramirez
 - The Achenar
-- This
 - Which
 - With
 groups:
@@ -34,7 +35,9 @@ topics:
 - diplomacy
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
+  Martyrs attack remains one of the most devastating terrorist incidents in recent
+  history, reshaping inter-superpower security cooperation and civil liberties debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -45,6 +48,7 @@ related_uuids:
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 ---
+
 
 The Alliance, Empire and Federation have created a centralised agency dedicated to investigating and eliminating the NMLA paramilitary group.
 The new Affiliated Counter-Terrorism unit (ACT) is a direct result of the Cornelius-Lasky Convention, Which was signed at the Galactic Summit.

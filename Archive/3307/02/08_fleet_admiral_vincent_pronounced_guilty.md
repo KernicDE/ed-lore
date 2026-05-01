@@ -4,8 +4,10 @@ title: Fleet Admiral Vincent Pronounced Guilty
 slug: fleet_admiral_vincent_pronounced_guilty
 date: 3307-02-08
 source: API
-summary: A Federal High Court jury has Found Fleet Admiral Lucas Vincent guilty of conspiracy to commit murder and treason.
-player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
+summary: A Federal High Court jury has Found Fleet Admiral Lucas Vincent guilty of
+  conspiracy to commit murder and treason.
+player_impact: The high-profile trial drew widespread public and pilot attention to
+  Federal corruption.
 persons:
 - Found
 - Jasmina Halsey
@@ -13,7 +15,6 @@ persons:
 - Jupiter Rochester
 - President Jasmina Halsey
 - Rochester
-- This
 - With
 - Zachary Hudson
 groups:
@@ -27,7 +28,9 @@ topics:
 - crime
 - piracy
 arc_id: federal-politics
-modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence.'
+modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy
+  trial exposed deep corruption at the heart of the Federation, with lasting implications
+  for Federal politics and corporate influence.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -38,6 +41,7 @@ related_uuids:
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 - e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
 ---
+
 
 A Federal High Court jury has Found Fleet Admiral Lucas Vincent guilty of conspiracy to commit murder and treason.
 The court heard how Vincent worked With Core Dynamics CEO Jupiter Rochester to sabotage Starship One and assassinate then-President Jasmina Halsey, in order to increase military contracts.

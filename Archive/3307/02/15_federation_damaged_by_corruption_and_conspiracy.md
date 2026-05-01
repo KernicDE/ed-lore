@@ -4,11 +4,11 @@ title: Federation Damaged by Corruption and Conspiracy
 slug: federation_damaged_by_corruption_and_conspiracy
 date: 3307-02-15
 source: API
-summary: Federal citizens are in uproar after The former CEO of Core Dynamics was revealed to have destroyed Starship One to increase company profits.
+summary: Federal citizens are in uproar after The former CEO of Core Dynamics was
+  revealed to have destroyed Starship One to increase company profits.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Further
-- Its
 - Jasmina Halsey
 - Jupiter
 - Jupiter Rochester
@@ -27,7 +27,8 @@ topics:
 - investigation
 - war
 arc_id: null
-modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+modern_impact: '"This event contributed to the evolving political and security landscape
+  of the galaxy in 3307."'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -38,6 +39,7 @@ related_uuids:
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 - a3c076ad-3a02-5e61-98b0-a3cd15189a48
 ---
+
 
 Federal citizens are in uproar after The former CEO of Core Dynamics was revealed to have destroyed Starship One to increase company profits.
 The trial of Fleet Admiral Vincent showed that Jupiter Rochester attempted to replace Jasmina Halsey With Zachary Hudson to secure military contracts With the Federal Navy.

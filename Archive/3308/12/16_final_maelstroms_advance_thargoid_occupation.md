@@ -8,10 +8,6 @@ summary: A further 13 systems have fallen under Thargoid control as the last of 
 player_impact: Independent pilots were encouraged to participate in the unfolding events.
 groups:
 - Alliance
-locations:
-- 'Federation ALERT*
-
-  A further 13'
 topics:
 - alien contact
 - humanitarian

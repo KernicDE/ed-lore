@@ -4,14 +4,14 @@ title: Conflict Between Federal Forces and Jupiter Division
 slug: conflict_between_federal_forces_and_jupiter_division
 date: 3307-02-11
 source: API
-summary: '*Pilots Federation ALERT* Jupiter Division ships have engaged in battle With rival Federal vessels in The HIP 54530 system.'
-player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
+summary: '*Pilots Federation ALERT* Jupiter Division ships have engaged in battle
+  With rival Federal vessels in The HIP 54530 system.'
+player_impact: Pilots participated in the conflict between Federal forces and Jupiter
+  Division.
 persons:
-- Its
 - Jupiter
 - Jupiter Rochester
 - Rochester
-- This
 - Which
 - With
 groups:
@@ -23,7 +23,9 @@ topics:
 - crime
 - war
 arc_id: federal-politics
-modern_impact: '"For many years, I helped Core Dynamics become one of the galaxy''s strongest companies." Rochester''s attempted corporate coup highlighted the dangers of unchecked corporate power within the Federation and led to significant reforms.'
+modern_impact: '"For many years, I helped Core Dynamics become one of the galaxy''s
+  strongest companies." Rochester''s attempted corporate coup highlighted the dangers
+  of unchecked corporate power within the Federation and led to significant reforms.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -34,6 +36,7 @@ related_uuids:
 - 31ca43b5-5307-50b4-bbd0-948f5ba63d94
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 ---
+
 
 **Pilots Federation ALERT**
 Jupiter Division ships have engaged in battle With rival Federal vessels in The HIP 54530 system.

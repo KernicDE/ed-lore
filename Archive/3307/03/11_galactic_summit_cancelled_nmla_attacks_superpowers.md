@@ -4,7 +4,8 @@ title: Galactic Summit Cancelled – NMLA Attacks Superpowers
 slug: galactic_summit_cancelled_nmla_attacks_superpowers
 date: 3307-03-11
 source: API
-summary: The conference in The Sirius system has ended prematurely after terrorist bombings against nine starports across the Alliance, Empire and Federation.
+summary: The conference in The Sirius system has ended prematurely after terrorist
+  bombings against nine starports across the Alliance, Empire and Federation.
 player_impact: Pilots may be called upon to support ACT intelligence operations.
 persons:
 - Achenar
@@ -15,7 +16,6 @@ persons:
 - Our
 - Sol
 - The Sirius
-- This
 - Which
 - With
 groups:
@@ -41,7 +41,9 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
+  Martyrs attack remains one of the most devastating terrorist incidents in recent
+  history, reshaping inter-superpower security cooperation and civil liberties debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -52,6 +54,7 @@ related_uuids:
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 - 29fb3d22-b316-514e-95ed-4f188b9ed8f7
 ---
+
 
 The conference in The Sirius system has ended prematurely after terrorist bombings against nine starports across the Alliance, Empire and Federation.
 Sirius Corporation confirmed that the cancellation was due to fears that Patterson Enterprise station may be the next target. All scheduled business, including finalising The Sirius Treaty, has been halted. The delegations are returning to their home systems under high security. 

@@ -4,7 +4,8 @@ title: Federal Congress Grants Emergency Surveillance Powers
 slug: federal_congress_grants_emergency_surveillance_powers
 date: 3307-03-30
 source: API
-summary: Vice President Jerome Archer has successfully proposed a new public surveillance law designed to prevent future terrorist attacks in The Federation.
+summary: Vice President Jerome Archer has successfully proposed a new public surveillance
+  law designed to prevent future terrorist attacks in The Federation.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Archer
@@ -12,13 +13,15 @@ persons:
 - Jerome Archer
 - Our
 - Shadow President
-- This
 groups: []
 locations: []
 topics:
 - terrorism
 arc_id: null
-modern_impact: '"This will allow the government to actively seek out any terrorist agents and sympathisers lurking within our communities." The Domestic Counter-Terrorism Act established precedents for mass surveillance that continue to generate debate about security versus civil liberties.'
+modern_impact: '"This will allow the government to actively seek out any terrorist
+  agents and sympathisers lurking within our communities." The Domestic Counter-Terrorism
+  Act established precedents for mass surveillance that continue to generate debate
+  about security versus civil liberties.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -29,6 +32,7 @@ related_uuids:
 - c0aab9ee-c770-5579-864d-bfe676a694a2
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 ---
+
 
 Vice President Jerome Archer has successfully proposed a new public surveillance law designed to prevent future terrorist attacks in The Federation.
 The Domestic Counter-Terrorism Act was debated in Congress before being approved by a majority vote. It is considered to be emergency legislation that replaces all previous laws regarding monitoring civilian activity and intercepting personal communications.

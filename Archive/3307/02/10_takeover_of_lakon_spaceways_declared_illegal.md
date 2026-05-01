@@ -4,14 +4,14 @@ title: Takeover of Lakon Spaceways Declared Illegal
 slug: takeover_of_lakon_spaceways_declared_illegal
 date: 3307-02-10
 source: API
-summary: The acquisition of Lakon Spaceways by Core Dynamics has been revoked following revelations of illegal activity.
-player_impact: The corporate takeover generated significant market and political interest among pilots.
+summary: The acquisition of Lakon Spaceways by Core Dynamics has been revoked following
+  revelations of illegal activity.
+player_impact: The corporate takeover generated significant market and political interest
+  among pilots.
 persons:
-- Its
 - Jupiter
 - Jupiter Rochester
 - Rochester
-- This
 - Which
 - With
 groups:
@@ -25,7 +25,9 @@ topics:
 - corporate expansion
 - investigation
 arc_id: null
-modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic shipbuilding independence against Federal corporate encroachment.'
+modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon
+  Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic
+  shipbuilding independence against Federal corporate encroachment.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -36,6 +38,7 @@ related_uuids:
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - e4237ea6-7f94-53fc-af9c-f332a6cb5a0f
 ---
+
 
 The acquisition of Lakon Spaceways by Core Dynamics has been revoked following revelations of illegal activity.
 An inquiry by the Independent Commission for Market Equality stated that former Core Dynamics CEO Jupiter Rochester “exerted unduly influence on Lakon shareholders, including bribery and blackmail”. This led to new appointees to the board of directors, who were paid to approve the hostile takeover.

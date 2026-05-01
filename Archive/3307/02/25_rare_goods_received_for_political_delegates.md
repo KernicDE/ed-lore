@@ -4,15 +4,14 @@ title: Rare Goods Received for Political Delegates
 slug: rare_goods_received_for_political_delegates
 date: 3307-02-25
 source: API
-summary: '*Pilots Federation ALERT* A wide range of luxurious food and drink for The Galactic Summit has been delivered to the Sirius Corporation.'
+summary: '*Pilots Federation ALERT* A wide range of luxurious food and drink for The
+  Galactic Summit has been delivered to the Sirius Corporation.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Aerial
-- Its
 - Li Yong-Rui
 - Nearby
 - Star
-- This
 - Which
 groups:
 - Alliance
@@ -26,7 +25,8 @@ topics:
 - corporate expansion
 - diplomacy
 arc_id: null
-modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+modern_impact: '"This event contributed to the evolving political and security landscape
+  of the galaxy in 3307."'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -37,6 +37,7 @@ related_uuids:
 - fc197df5-b778-5964-a004-448689eba981
 - 5783e898-65a7-5db9-9681-366b1eb91056
 ---
+
 
 **Pilots Federation ALERT**
 A wide range of luxurious food and drink for The Galactic Summit has been delivered to the Sirius Corporation.

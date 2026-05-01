@@ -4,7 +4,8 @@ title: Prime Minister Mahon Campaigns for Re-Election
 slug: prime_minister_mahon_campaigns_for_re_election
 date: 3307-01-19
 source: API
-summary: Edmund Mahon has launched a political campaign to be elected As the Alliance’s leader for a second term.
+summary: Edmund Mahon has launched a political campaign to be elected As the Alliance’s
+  leader for a second term.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Birmingham
@@ -13,7 +14,6 @@ persons:
 - Important
 - Kincaid
 - Mahon Campaigns
-- This
 - With
 groups:
 - Alliance
@@ -29,7 +29,8 @@ topics:
 - humanitarian
 - terrorism
 arc_id: null
-modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+modern_impact: '"This event contributed to the evolving political and security landscape
+  of the galaxy in 3307."'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -40,6 +41,7 @@ related_uuids:
 - 7300ba47-f515-5c11-ad6e-0e0a48dfcfe7
 - 6efd63d0-0d68-594f-8e75-b0c5df826485
 ---
+
 
 Edmund Mahon has launched a political campaign to be elected As the Alliance’s leader for a second term.
 The incumbent prime minister is undertaking a whistle-stop tour across Alliance space to rouse support. Only members of the Assembly can cast votes in This election, but they will be heavily influenced by public opinion within their systems.

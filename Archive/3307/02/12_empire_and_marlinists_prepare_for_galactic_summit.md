@@ -4,14 +4,15 @@ title: Empire and Marlinists Prepare for Galactic Summit
 slug: empire_and_marlinists_prepare_for_galactic_summit
 date: 3307-02-12
 source: API
-summary: Delegations have been formed by The Empire and the Marlinist Colonies to take part in the forthcoming diplomatic conference.
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: Delegations have been formed by The Empire and the Marlinist Colonies to
+  take part in the forthcoming diplomatic conference.
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
 - Aisling Duval
 - Chancellor Anders Blaine
 - Denton Patreus will be
 - Emperor Arissa Lavigny-Duval
-- Its
 - Jenna Fairfax
 - Our
 - Which
@@ -29,7 +30,9 @@ topics:
 - diplomacy
 - succession
 arc_id: null
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -40,6 +43,7 @@ related_uuids:
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 - fc197df5-b778-5964-a004-448689eba981
 ---
+
 
 Delegations have been formed by The Empire and the Marlinist Colonies to take part in the forthcoming diplomatic conference.
 Emperor Arissa Lavigny-Duval will not attend in person, but will be directly represented by Chancellor Anders Blaine. During the conference, Senator Zemina Torval will temporarily assume chancellor duties and act as head of the Senate.

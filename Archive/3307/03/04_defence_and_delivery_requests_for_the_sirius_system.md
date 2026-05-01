@@ -4,15 +4,14 @@ title: Defence and Delivery Requests for the Sirius System
 slug: defence_and_delivery_requests_for_the_sirius_system
 date: 3307-03-04
 source: API
-summary: '*Pilots Federation ALERT* The Empire is aiding Sirius Corporation by offering bounty hunting and trade opportunities to support the Galactic Summit.'
+summary: '*Pilots Federation ALERT* The Empire is aiding Sirius Corporation by offering
+  bounty hunting and trade opportunities to support the Galactic Summit.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
-- Its
 - Li Yong-Rui
 - Our
 - Run
 - The Sirius
-- This
 - With
 groups:
 - Alliance
@@ -28,7 +27,8 @@ topics:
 - diplomacy
 - war
 arc_id: null
-modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+modern_impact: '"This event contributed to the evolving political and security landscape
+  of the galaxy in 3307."'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -39,6 +39,7 @@ related_uuids:
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 ---
+
 
 **Pilots Federation ALERT**
 The Empire is aiding Sirius Corporation by offering bounty hunting and trade opportunities to support the Galactic Summit.

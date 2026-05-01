@@ -4,14 +4,15 @@ title: Rare Goods Required for Galactic Summit
 slug: rare_goods_required_for_galactic_summit
 date: 3307-02-18
 source: API
-summary: '*Pilots Federation ALERT* Sirius Corporation has requested deliveries of consumables to Luyten’s Star for The forthcoming diplomatic conference.'
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: '*Pilots Federation ALERT* Sirius Corporation has requested deliveries of
+  consumables to Luyten’s Star for The forthcoming diplomatic conference.'
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
 - Aerial
 - Li Yong-Rui
 - Star
 - The Sirius
-- This
 - With
 groups:
 - Alliance
@@ -26,7 +27,9 @@ topics:
 - corporate expansion
 - diplomacy
 arc_id: null
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -37,6 +40,7 @@ related_uuids:
 - 5783e898-65a7-5db9-9681-366b1eb91056
 - 3a299742-113f-5b36-98e2-a791ed35ae34
 ---
+
 
 **Pilots Federation ALERT**
 Sirius Corporation has requested deliveries of consumables to Luyten’s Star for The forthcoming diplomatic conference.

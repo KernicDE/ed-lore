@@ -4,7 +4,8 @@ title: Starport Bombing Casualties Include Federal Vice President
 slug: starport_bombing_casualties_include_federal_vice_president
 date: 3307-03-12
 source: API
-summary: Vice President Brad Mitchell and a number of Federal Cabinet members have been killed in The recent terrorist attack on a starport orbiting Earth.
+summary: Vice President Brad Mitchell and a number of Federal Cabinet members have
+  been killed in The recent terrorist attack on a starport orbiting Earth.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Alioth
@@ -17,7 +18,6 @@ persons:
 - Lave
 - President Zachary Hudson
 - The Achenar
-- This
 - Zachary Hudson
 groups:
 - Imperial Senate
@@ -38,7 +38,9 @@ topics:
 - terrorism
 - war
 arc_id: nmla-terrorism
-modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
+  Martyrs attack remains one of the most devastating terrorist incidents in recent
+  history, reshaping inter-superpower security cooperation and civil liberties debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -49,6 +51,7 @@ related_uuids:
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 - 0ed40d37-c7a2-5252-9105-e141bc1020d5
 ---
+
 
 Vice President Brad Mitchell and a number of Federal Cabinet members have been killed in The recent terrorist attack on a starport orbiting Earth.
 The NMLA planted caustic enzyme explosives at Li Qing Jao station, where a government meeting was taking place. The VP and Cabinet members were confirmed to be among tens of thousands of casualties. Eight Other starports across All three superpowers were simultaneously bombed.

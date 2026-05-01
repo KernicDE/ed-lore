@@ -4,13 +4,13 @@ title: New Marlinist Systems Request Emergency Food Supplies
 slug: new_marlinist_systems_request_emergency_food_supplies
 date: 3307-01-14
 source: API
-summary: '*Pilots Federation ALERT* The newly settled Marlinist Colonies have asked for urgent deliveries of foodstuffs.'
+summary: '*Pilots Federation ALERT* The newly settled Marlinist Colonies have asked
+  for urgent deliveries of foodstuffs.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Further
 - Jenna Fairfax
 - Our
-- This
 - Universal Cartographics
 groups:
 - Marlinist
@@ -27,7 +27,10 @@ topics:
 - exploration
 - humanitarian
 arc_id: null
-modern_impact: '"The starport attacks were as sickening and terrifying to us as to the rest of the galaxy." The Marlinist refugee crisis and NMLA terrorism forced the galaxy to confront the consequences of Imperial political repression and republican ideology.'
+modern_impact: '"The starport attacks were as sickening and terrifying to us as to
+  the rest of the galaxy." The Marlinist refugee crisis and NMLA terrorism forced
+  the galaxy to confront the consequences of Imperial political repression and republican
+  ideology.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -38,6 +41,7 @@ related_uuids:
 - f359d9c3-aa3c-5d56-bf91-97754c4357a9
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 ---
+
 
 **Pilots Federation ALERT**
 The newly settled Marlinist Colonies have asked for urgent deliveries of foodstuffs.

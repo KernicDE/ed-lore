@@ -4,11 +4,11 @@ title: 'Galactic Mysteries: The NMLA'
 slug: galactic_mysteries_the_nmla
 date: 3307-03-19
 source: API
-summary: Private investigators Erik Gunnarson and Francesca Wolfe review The Neo-Marlinist Liberation Army.
+summary: Private investigators Erik Gunnarson and Francesca Wolfe review The Neo-Marlinist
+  Liberation Army.
 player_impact: Pilots may be called upon to support ACT intelligence operations.
 persons:
 - Achenar
-- Its
 - Marlin Duval
 - Neo-Marlinist
 - Wallglass
@@ -25,7 +25,9 @@ topics:
 - festival
 - terrorism
 arc_id: nmla-terrorism
-modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine Martyrs attack remains one of the most devastating terrorist incidents in recent history, reshaping inter-superpower security cooperation and civil liberties debates.'
+modern_impact: '"This atrocity is nothing less than a declaration of war." The Nine
+  Martyrs attack remains one of the most devastating terrorist incidents in recent
+  history, reshaping inter-superpower security cooperation and civil liberties debates.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +38,7 @@ related_uuids:
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 ---
+
 
 Private investigators Erik Gunnarson and Francesca Wolfe review The Neo-Marlinist Liberation Army.
 Gunnarson: “We don’t usually get involved With political cases, but it’s hard to ignore the largest terrorist attack in history.”

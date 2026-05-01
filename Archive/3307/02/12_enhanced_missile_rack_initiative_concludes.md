@@ -4,13 +4,14 @@ title: Enhanced Missile Rack Initiative Concludes
 slug: enhanced_missile_rack_initiative_concludes
 date: 3307-02-12
 source: API
-summary: '*Pilots Federation ALERT* Deliveries of mined materials have allowed The engineer Liz Ryder to make a One-off modified ship module widely available.'
-player_impact: Pilots delivered mined materials to make a unique engineered module widely available.
+summary: '*Pilots Federation ALERT* Deliveries of mined materials have allowed The
+  engineer Liz Ryder to make a One-off modified ship module widely available.'
+player_impact: Pilots delivered mined materials to make a unique engineered module
+  widely available.
 persons:
 - Engineers
 - Liz Ryder
 - October
-- This
 - With
 groups: []
 locations:
@@ -20,7 +21,9 @@ topics:
 - engineering
 - war
 arc_id: null
-modern_impact: '"Many Engineers think we could do more to serve the galactic community." This initiative represented a significant step toward making engineered modules more accessible to the broader pilot community.'
+modern_impact: '"Many Engineers think we could do more to serve the galactic community."
+  This initiative represented a significant step toward making engineered modules
+  more accessible to the broader pilot community.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -31,6 +34,7 @@ related_uuids:
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 - e25e2c83-7be4-5236-9a1a-93321f277b40
 ---
+
 
 **Pilots Federation ALERT**
 Deliveries of mined materials have allowed The engineer Liz Ryder to make a One-off modified ship module widely available.

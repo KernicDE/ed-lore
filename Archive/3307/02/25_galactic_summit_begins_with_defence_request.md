@@ -4,19 +4,19 @@ title: Galactic Summit Begins with Defence Request
 slug: galactic_summit_begins_with_defence_request
 date: 3307-02-25
 source: API
-summary: '*Pilots Federation ALERT* The Federation is working With Sirius Corporation to offer bounty hunting opportunities to protect the diplomatic conference.'
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: '*Pilots Federation ALERT* The Federation is working With Sirius Corporation
+  to offer bounty hunting opportunities to protect the diplomatic conference.'
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
 - Aisling Duval
 - Edmund Mahon
 - Enterprise
-- Its
 - Li Yong-Rui
 - Our
 - President Zachary Hudson
 - Run
 - The Sirius
-- This
 - Which
 - With
 - Zachary Hudson
@@ -32,7 +32,9 @@ topics:
 - diplomacy
 - war
 arc_id: null
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -43,6 +45,7 @@ related_uuids:
 - 29fb3d22-b316-514e-95ed-4f188b9ed8f7
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 ---
+
 
 **Pilots Federation ALERT**
 The Federation is working With Sirius Corporation to offer bounty hunting opportunities to protect the diplomatic conference.

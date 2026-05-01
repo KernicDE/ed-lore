@@ -4,15 +4,16 @@ title: Jupiter Rochester Goes Rogue from Core Dynamics
 slug: jupiter_rochester_goes_rogue_from_core_dynamics
 date: 3307-02-09
 source: API
-summary: Several departments loyal to The Core Dynamics CEO have seceded to form an Independent corporate republic called Jupiter Division.
-player_impact: Pilots participated in the conflict between Federal forces and Jupiter Division.
+summary: Several departments loyal to The Core Dynamics CEO have seceded to form an
+  Independent corporate republic called Jupiter Division.
+player_impact: Pilots participated in the conflict between Federal forces and Jupiter
+  Division.
 persons:
 - Every
 - Isolde Rochester
 - Jupiter
 - Jupiter Rochester
 - Rochester
-- This
 - With
 groups:
 - Core Dynamics
@@ -22,7 +23,9 @@ locations:
 topics:
 - corporate expansion
 arc_id: federal-politics
-modern_impact: '"For many years, I helped Core Dynamics become one of the galaxy''s strongest companies." Rochester''s attempted corporate coup highlighted the dangers of unchecked corporate power within the Federation and led to significant reforms.'
+modern_impact: '"For many years, I helped Core Dynamics become one of the galaxy''s
+  strongest companies." Rochester''s attempted corporate coup highlighted the dangers
+  of unchecked corporate power within the Federation and led to significant reforms.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -33,6 +36,7 @@ related_uuids:
 - e25e2c83-7be4-5236-9a1a-93321f277b40
 - a09f593c-1af4-5727-863d-002a1ebb2aca
 ---
+
 
 Several departments loyal to The Core Dynamics CEO have seceded to form an Independent corporate republic called Jupiter Division.
 During the recent trial of Fleet Admiral Vincent, Jupiter Rochester was named As the paymaster behind the sabotage of Starship One. This hastened long-term plans to abscond from Core Dynamics along With Many ships and personnel. 

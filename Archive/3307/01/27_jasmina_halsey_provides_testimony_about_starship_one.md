@@ -4,14 +4,15 @@ title: Jasmina Halsey Provides Testimony about Starship One
 slug: jasmina_halsey_provides_testimony_about_starship_one
 date: 3307-01-27
 source: API
-summary: Former President Jasmina Halsey has taken The witness stand during the trial of Fleet Admiral Lucas Vincent at the Federal High Court.
-player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
+summary: Former President Jasmina Halsey has taken The witness stand during the trial
+  of Fleet Admiral Lucas Vincent at the Federal High Court.
+player_impact: The high-profile trial drew widespread public and pilot attention to
+  Federal corruption.
 persons:
 - Azaleach
 - Jasmina Halsey
 - Our
 - President Jasmina Halsey
-- This
 - Vessel
 - With
 groups:
@@ -23,7 +24,9 @@ topics:
 - crime
 - humanitarian
 arc_id: federal-politics
-modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence.'
+modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy
+  trial exposed deep corruption at the heart of the Federation, with lasting implications
+  for Federal politics and corporate influence.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -34,6 +37,7 @@ related_uuids:
 - 3a299742-113f-5b36-98e2-a791ed35ae34
 - 2f049fb8-69bf-5a8d-a4ad-6ace36a603b9
 ---
+
 
 Former President Jasmina Halsey has taken The witness stand during the trial of Fleet Admiral Lucas Vincent at the Federal High Court.
 Crime correspondent Ethan Takahashi reported the details for The Federal Times:

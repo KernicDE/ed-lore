@@ -4,13 +4,13 @@ title: Lakon Spaceways HQ Moves to Alioth System
 slug: lakon_spaceways_hq_moves_to_alioth_system
 date: 3307-02-19
 source: API
-summary: '*Pilots Federation ALERT* The capital system of the Alliance now hosts Lakon’s administrative hub and offers a 5% discount on Its ships.'
-player_impact: The corporate takeover generated significant market and political interest among pilots.
+summary: '*Pilots Federation ALERT* The capital system of the Alliance now hosts Lakon’s
+  administrative hub and offers a 5% discount on Its ships.'
+player_impact: The corporate takeover generated significant market and political interest
+  among pilots.
 persons:
 - Alioth
-- Its
 - Jupiter Rochester
-- This
 groups:
 - Alliance
 - Core Dynamics
@@ -22,7 +22,9 @@ topics:
 - corporate expansion
 - investigation
 arc_id: null
-modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic shipbuilding independence against Federal corporate encroachment.'
+modern_impact: '"We welcome becoming closer partners with the Alliance." The Lakon
+  Spaceways takeover saga demonstrated the Alliance''s determination to maintain domestic
+  shipbuilding independence against Federal corporate encroachment.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -33,6 +35,7 @@ related_uuids:
 - 4a76dfc6-be12-5407-9c88-25250fee9f6d
 - 0f5eb161-235f-5b88-9f2d-03c7d6374c08
 ---
+
 
 **Pilots Federation ALERT**
 The capital system of the Alliance now hosts Lakon’s administrative hub and offers a 5% discount on Its ships.

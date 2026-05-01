@@ -4,15 +4,16 @@ title: Trial of Fleet Admiral Vincent Begins
 slug: trial_of_fleet_admiral_vincent_begins
 date: 3307-01-25
 source: API
-summary: The Federal High Court on Mars has opened the trial of Fleet Admiral Lucas Vincent, who is charged With conspiracy to commit murder and treason.
-player_impact: The high-profile trial drew widespread public and pilot attention to Federal corruption.
+summary: The Federal High Court on Mars has opened the trial of Fleet Admiral Lucas
+  Vincent, who is charged With conspiracy to commit murder and treason.
+player_impact: The high-profile trial drew widespread public and pilot attention to
+  Federal corruption.
 persons:
 - Azaleach
 - Felicia Winters
 - Mars
 - Naylor
 - Rory Webster
-- This
 - Vessel
 - With
 groups:
@@ -26,7 +27,9 @@ topics:
 - piracy
 - scandal
 arc_id: federal-politics
-modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy trial exposed deep corruption at the heart of the Federation, with lasting implications for Federal politics and corporate influence.'
+modern_impact: '"This is a bittersweet moment for me." The Starship One conspiracy
+  trial exposed deep corruption at the heart of the Federation, with lasting implications
+  for Federal politics and corporate influence.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -37,6 +40,7 @@ related_uuids:
 - 29fa900d-a3ad-5a63-bdae-88a4acceaf60
 - ef475ada-e268-55e0-8ada-ae250caa5c86
 ---
+
 
 The Federal High Court on Mars has opened the trial of Fleet Admiral Lucas Vincent, who is charged With conspiracy to commit murder and treason.
 Vincent stands accused of organising the sabotage of Starship One in 3301, resulting in Hundreds of deaths.

@@ -4,8 +4,10 @@ title: Aegis Supports Galactic Summit
 slug: aegis_supports_galactic_summit
 date: 3307-01-08
 source: API
-summary: The organisation Aegis has expressed support for Utopia’s offer to host a Galactic Summit for All three superpowers.
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: The organisation Aegis has expressed support for Utopia’s offer to host a
+  Galactic Summit for All three superpowers.
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
 - Aisling Duval
 - Alba Tesreau
@@ -13,7 +15,6 @@ persons:
 - Felicia Winters
 - Our
 - Shadow President
-- This
 - With
 groups:
 - Aegis
@@ -26,7 +27,9 @@ topics:
 - research
 - war
 arc_id: null
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -37,6 +40,7 @@ related_uuids:
 - cade76e4-0a9d-5ef5-bce5-c552c1703f49
 - 99fd4baa-7978-5f90-bf43-9926feb1c42e
 ---
+
 
 The organisation Aegis has expressed support for Utopia’s offer to host a Galactic Summit for All three superpowers.
 Aegis was jointly formed by the Alliance, Empire and Federation to study the Thargoids, and develop new methods of monitoring and combating their forces.

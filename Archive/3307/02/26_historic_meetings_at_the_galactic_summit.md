@@ -4,8 +4,10 @@ title: Historic Meetings at the Galactic Summit
 slug: historic_meetings_at_the_galactic_summit
 date: 3307-02-26
 source: API
-summary: Alliance, Empire and Federation leaders have held their first ever face-to-face discussions at The diplomatic conference in The Sirius system.
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: Alliance, Empire and Federation leaders have held their first ever face-to-face
+  discussions at The diplomatic conference in The Sirius system.
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
 - Aisling Duval
 - Anders Blaine
@@ -21,7 +23,6 @@ persons:
 - Rochester
 - Shadow President
 - The Sirius
-- This
 - With
 - Zachary Hudson
 groups:
@@ -37,7 +38,9 @@ topics:
 - diplomacy
 - war
 arc_id: federal-politics
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -48,6 +51,7 @@ related_uuids:
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 - cbba1081-6b9a-57ca-b2b8-0e41007ed228
 ---
+
 
 Alliance, Empire and Federation leaders have held their first ever face-to-face discussions at The diplomatic conference in The Sirius system.
 Political correspondent Conrad Sterling published This report for Vox Galactica:

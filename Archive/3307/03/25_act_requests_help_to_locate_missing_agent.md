@@ -4,15 +4,14 @@ title: ACT Requests Help to Locate Missing Agent
 slug: act_requests_help_to_locate_missing_agent
 date: 3307-03-25
 source: API
-summary: '*Pilots Federation ALERT* Assistance is needed to track down an ACT operative who vanished while on a mission to identify NMLA suppliers.'
+summary: '*Pilots Federation ALERT* Assistance is needed to track down an ACT operative
+  who vanished while on a mission to identify NMLA suppliers.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Imperial Internal Security Service
-- Its
 - Missing
 - Our
 - Tanya Ramirez
-- This
 - Vessel
 groups:
 - Imperial Internal Security Service
@@ -25,7 +24,9 @@ topics:
 - research
 - war
 arc_id: nmla-terrorism
-modern_impact: '"Our fervent hope is that we find its crew alive." Captain Seutonia''s disappearance highlighted the mortal dangers faced by ACT operatives investigating the NMLA''s shadowy network.'
+modern_impact: '"Our fervent hope is that we find its crew alive." Captain Seutonia''s
+  disappearance highlighted the mortal dangers faced by ACT operatives investigating
+  the NMLA''s shadowy network.'
 legacy_weight: 5
 significance: high
 related_uuids:
@@ -36,6 +37,7 @@ related_uuids:
 - 7c2eed3e-f48e-5002-91e8-6a9eab55ca63
 - 53d46995-be97-58ec-bca6-43387e9ea9c9
 ---
+
 
 **Pilots Federation ALERT**
 Assistance is needed to track down an ACT operative who vanished while on a mission to identify NMLA suppliers.

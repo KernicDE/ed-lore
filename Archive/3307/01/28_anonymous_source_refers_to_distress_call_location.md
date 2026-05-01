@@ -4,17 +4,17 @@ title: Anonymous Source Refers to Distress Call Location
 slug: anonymous_source_refers_to_distress_call_location
 date: 3307-01-28
 source: API
-summary: '*Pilots Federation ALERT* An encrypted message seems to provide planetary coordinates related to The mysterious signal from ‘Serene Harbour’.'
+summary: '*Pilots Federation ALERT* An encrypted message seems to provide planetary
+  coordinates related to The mysterious signal from ‘Serene Harbour’.'
 player_impact: Pilots followed these developments through GalNet reports.
-persons:
-- Its
-- This
+persons: []
 groups: []
 locations: []
 topics:
 - cyberattack
 arc_id: null
-modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+modern_impact: '"This event contributed to the evolving political and security landscape
+  of the galaxy in 3307."'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -25,6 +25,7 @@ related_uuids:
 - f1fd8447-7d57-5af5-9889-be0bfb2788bb
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
 ---
+
 
 **Pilots Federation ALERT**
 An encrypted message seems to provide planetary coordinates related to The mysterious signal from ‘Serene Harbour’.

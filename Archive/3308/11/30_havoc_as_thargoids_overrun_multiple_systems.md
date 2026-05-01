@@ -16,11 +16,8 @@ persons:
 groups:
 - Imperial Navy
 locations:
-- 'Federation ALERT*
-
-  Nine'
-- Hyades
-- Hyades Sector
+- Hyades Sector FB-N b7-6
+- Modigi
 topics:
 - alien contact
 - humanitarian

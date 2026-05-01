@@ -4,14 +4,15 @@ title: Sirius and Utopia Compete to Host Galactic Summit
 slug: sirius_and_utopia_compete_to_host_galactic_summit
 date: 3307-01-21
 source: API
-summary: '*Pilots Federation ALERT* Rival initiatives to arrange a diplomatic conference have been launched by Sirius Corporation and The Utopia commune.'
-player_impact: Pilots supported the diplomatic conference through security and trade initiatives.
+summary: '*Pilots Federation ALERT* Rival initiatives to arrange a diplomatic conference
+  have been launched by Sirius Corporation and The Utopia commune.'
+player_impact: Pilots supported the diplomatic conference through security and trade
+  initiatives.
 persons:
 - Each
 - Federal Congress
 - Imperial Senate
 - Li Yong-Rui
-- This
 - Which
 - With
 groups:
@@ -29,7 +30,9 @@ topics:
 - cyberattack
 - diplomacy
 arc_id: null
-modern_impact: '"It is not Utopia''s tradition to become involved with politics." The Galactic Summit represented a rare moment of superpower diplomacy, though its cancellation underscored the fragility of interstellar cooperation.'
+modern_impact: '"It is not Utopia''s tradition to become involved with politics."
+  The Galactic Summit represented a rare moment of superpower diplomacy, though its
+  cancellation underscored the fragility of interstellar cooperation.'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -40,6 +43,7 @@ related_uuids:
 - 8ea60378-45bb-5e97-80fc-103b0cdd5b4e
 - 5140542a-1be3-56a9-a558-8224ef317bf7
 ---
+
 
 **Pilots Federation ALERT**
 Rival initiatives to arrange a diplomatic conference have been launched by Sirius Corporation and The Utopia commune.

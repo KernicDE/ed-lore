@@ -4,11 +4,11 @@ title: Alliance Protests Triggered by Cancelled Election
 slug: alliance_protests_triggered_by_cancelled_election
 date: 3307-02-23
 source: API
-summary: The postponement of the election for a new prime minister has led to widespread public disorder across Alliance systems.
+summary: The postponement of the election for a new prime minister has led to widespread
+  public disorder across Alliance systems.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Edmund Mahon
-- This
 - With
 groups:
 - Alliance
@@ -17,7 +17,10 @@ topics:
 - diplomacy
 - festival
 arc_id: null
-modern_impact: '"It is outrageous that the prime minister is using this as an excuse to extend his term in office." The election delay and subsequent protests revealed growing tensions within the Alliance between superpower ambitions and member system sovereignty.'
+modern_impact: '"It is outrageous that the prime minister is using this as an excuse
+  to extend his term in office." The election delay and subsequent protests revealed
+  growing tensions within the Alliance between superpower ambitions and member system
+  sovereignty.'
 legacy_weight: 3
 significance: medium
 related_uuids:
@@ -28,6 +31,7 @@ related_uuids:
 - 282055d5-c3b9-5772-855e-9acd24d78c43
 - 471b8e46-16ce-5791-b60b-9362e740c2a6
 ---
+
 
 The postponement of the election for a new prime minister has led to widespread public disorder across Alliance systems.
 The Alliance Assembly vote was scheduled for Thursday the 25th of February. This date clashed With the start of the Galactic Summit, causing incumbent Prime Minister Edmund Mahon to propose that the election be delayed for three months.

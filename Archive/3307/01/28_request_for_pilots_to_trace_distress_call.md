@@ -4,12 +4,11 @@ title: Request for Pilots to Trace Distress Call
 slug: request_for_pilots_to_trace_distress_call
 date: 3307-01-28
 source: API
-summary: '*Pilots Federation ALERT* An Independent Vessel has detected a fragment of a mysterious message coming from an unexplored region of space.'
+summary: '*Pilots Federation ALERT* An Independent Vessel has detected a fragment
+  of a mysterious message coming from an unexplored region of space.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Elsa Solomon
-- Its
-- This
 - Vessel
 - Which
 groups: []
@@ -18,7 +17,8 @@ locations:
 topics:
 - exploration
 arc_id: null
-modern_impact: '"This event contributed to the evolving political and security landscape of the galaxy in 3307."'
+modern_impact: '"This event contributed to the evolving political and security landscape
+  of the galaxy in 3307."'
 legacy_weight: 2
 significance: low
 related_uuids:
@@ -29,6 +29,7 @@ related_uuids:
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 - aa81f947-721e-52c8-a91e-906bf41c62b8
 ---
+
 
 **Pilots Federation ALERT**
 An Independent Vessel has detected a fragment of a mysterious message coming from an unexplored region of space.

@@ -4,12 +4,12 @@ title: Warning of Ship Abductions by Fleet Carriers
 slug: warning_of_ship_abductions_by_fleet_carriers
 date: 3307-02-08
 source: API
-summary: '*Pilots Federation ALERT* This is an emergency bulletin to alert Independent pilots that kidnappers are operating in The vicinity of the HR 6828 system.'
+summary: '*Pilots Federation ALERT* This is an emergency bulletin to alert Independent
+  pilots that kidnappers are operating in The vicinity of the HR 6828 system.'
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Important
 - Star
-- This
 - Vessel
 - With
 groups:
@@ -20,7 +20,9 @@ locations: []
 topics:
 - war
 arc_id: null
-modern_impact: '"All pilots are therefore advised to beware of hails directing them to HR 6828." This warning highlighted emerging criminal schemes exploiting fleet carrier mechanics to trap inexperienced pilots in distant systems.'
+modern_impact: '"All pilots are therefore advised to beware of hails directing them
+  to HR 6828." This warning highlighted emerging criminal schemes exploiting fleet
+  carrier mechanics to trap inexperienced pilots in distant systems.'
 legacy_weight: 1
 significance: low
 related_uuids:
@@ -31,6 +33,7 @@ related_uuids:
 - 282055d5-c3b9-5772-855e-9acd24d78c43
 - fefdabb9-36ba-57a2-8321-e9764f0b713c
 ---
+
 
 **Pilots Federation ALERT**
 This is an emergency bulletin to alert Independent pilots that kidnappers are operating in The vicinity of the HR 6828 system.

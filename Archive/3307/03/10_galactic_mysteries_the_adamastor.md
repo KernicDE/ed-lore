@@ -4,14 +4,13 @@ title: 'Galactic Mysteries: The Adamastor'
 slug: galactic_mysteries_the_adamastor
 date: 3307-03-10
 source: API
-summary: Erik Gunnarson and Francesca Wolfe, two detectives from The Wallglass Investigations Agency, examine the background of the Adamastor megaship.
+summary: Erik Gunnarson and Francesca Wolfe, two detectives from The Wallglass Investigations
+  Agency, examine the background of the Adamastor megaship.
 player_impact: Pilots followed these developments through GalNet reports.
 persons:
 - Carver
 - Chukchan
 - Found
-- Its
-- This
 - Wallglass
 - Which
 - With
@@ -27,7 +26,10 @@ topics:
 - research
 - war
 arc_id: null
-modern_impact: '"We don''t know what they were searching for, but what they found was possibly the first recorded Thargoid encounter." The Adamastor mystery opened new questions about Azimuth Biochemicals'' early xenological research and its connection to modern Thargoid encounters.'
+modern_impact: '"We don''t know what they were searching for, but what they found
+  was possibly the first recorded Thargoid encounter." The Adamastor mystery opened
+  new questions about Azimuth Biochemicals'' early xenological research and its connection
+  to modern Thargoid encounters.'
 legacy_weight: 4
 significance: high
 related_uuids:
@@ -38,6 +40,7 @@ related_uuids:
 - c1469916-3aca-5e3b-8dc5-76baf74b7e68
 - bcb1b6cb-c7ee-50fc-b6b9-8f9b1d140838
 ---
+
 
 Erik Gunnarson and Francesca Wolfe, two detectives from The Wallglass Investigations Agency, examine the background of the Adamastor megaship.
 Gunnarson: “When Wolfe and I started This project, we knew this case would come first. We’re both protégés of Benjamin Chester, creator of the Wallglass Archive. He retired years ago, but that old spark kicked in when a ‘ghost ship’ turned up on his doorstep!”
