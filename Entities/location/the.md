@@ -3,8 +3,8 @@ id: the
 name: The
 type: location
 first_seen_date: '3301-03-17'
-last_seen_date: '3301-07-12'
-mention_count: 5
+last_seen_date: '3301-06-03'
+mention_count: 4
 related_entities:
 - 78-ursae-majoris
 - lugh
@@ -18,8 +18,8 @@ related_entities:
 # The
 
 First mentioned: **3301-03-17**  
-Last mentioned: **3301-07-12**  
-Total mentions: **5**
+Last mentioned: **3301-06-03**  
+Total mentions: **4**
 
 ## Related
 

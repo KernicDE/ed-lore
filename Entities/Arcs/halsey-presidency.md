@@ -24,7 +24,7 @@ Articles: **19**
 ## Key Figures
 
 - [[Federal Navy]] (5 mentions)
-- [[Federal government]] (3 mentions)
+- [[Federal Government]] (3 mentions)
 - [[Leoniceno Orbital medical staff]] (3 mentions)
 - [[President Jasmina Halsey]] (2 mentions)
 - [[Federal Congress]] (2 mentions)

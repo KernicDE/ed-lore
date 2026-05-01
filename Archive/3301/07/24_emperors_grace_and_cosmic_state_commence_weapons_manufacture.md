@@ -4,23 +4,26 @@ title: Emperor's Grace and Cosmic State Commence Weapons Manufacture
 slug: emperors_grace_and_cosmic_state_commence_weapons_manufacture
 date: '3301-07-24'
 source: GitHub
-entities:
+persons:
+- Grimnir Allvadderung
+- Vaarwen Mako Brennus
 - Hengist Duval
+- Florence Lavigny
 groups:
 - Emperor's Grace
+- Cosmic State
+- Hammer Arms
 locations:
-- An agricultural
-- The unnamed
+- Rishair
 topics:
 - corporate expansion
-- festival
-- sport
-- succession
+- military
 - war
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
-legacy_weight: 1
-significance: low
+summary: Emperor's Grace and Cosmic State identified an industrial location in Imperial space for producing battle and personal weapons. Grimnir Allvadderung and Vaarwen Mako Brennus met in Rishair to announce the development, though the announcement was overshadowed by news of Emperor Hengist Duval's wedding. The two leaders celebrated with large quantities of beer; a brewer died after falling into a malt vat. An agricultural system is being considered for mead production with additional beehives.
+player_impact: None
+modern_impact: Emperor's Grace-Cosmic State weapons manufacturing joint venture establishes a military production base deep in Imperial space.
+legacy_weight: 2
+significance: medium
 ---
 
 Emperor's Grace and Cosmic State Commence Weapons Manufacture

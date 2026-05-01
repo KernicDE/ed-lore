@@ -4,7 +4,7 @@ name: Denton
 type: location
 first_seen_date: '3301-02-17'
 last_seen_date: '3301-09-28'
-mention_count: 21
+mention_count: 17
 related_entities:
 - denton-patreus
 - eotienses
@@ -19,13 +19,13 @@ related_entities:
 
 First mentioned: **3301-02-17**  
 Last mentioned: **3301-09-28**  
-Total mentions: **21**
+Total mentions: **17**
 
 ## Related
 
-- [[Denton Patreus]] (8 co-mentions)
-- [[Eotienses]] (5 co-mentions)
-- [[Imperial Senate]] (5 co-mentions)
+- [[Denton Patreus]] (6 co-mentions)
+- [[Eotienses]] (4 co-mentions)
+- [[Imperial Senate]] (4 co-mentions)
 - [[Falisci]] (3 co-mentions)
 - [[Capitol]] (3 co-mentions)
 

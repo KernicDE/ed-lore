@@ -1,19 +1,28 @@
 ---
 uuid: af5dbb6d-8ee7-5b24-9b88-6777c8207620
-title: Reports of the Cerberus Plague beyond BD 02 4304
+title: Reports of the Cerberus Plague beyond BD-02 4304
 slug: reports_of_the_cerberus_plague_beyond_bd_02_4304
 date: '3301-07-14'
 source: GitHub
+persons:
+- Carl Simmons
+groups:
+- Newton Dock Medical
 locations:
 - BD-02 4304
-- The populations in those
+- Dajoar
+- Eleu
+- 20 Ophiuchi
+- Newton Dock
 topics:
 - medicine
+- plague
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague
-  that killed over 100,000.
-legacy_weight: 3
-significance: medium
+summary: Chief Medical Officer Carl Simmons confirmed isolated Cerberus Plague incidents in Dajoar, Eleu, and 20 Ophiuchi, believed to be travellers from BD-02 4304 before restrictions were imposed. Three containment operations have been initiated. Simmons called on independent pilots to help prevent full outbreaks. A technician confirmed the name 'Cerberus Plague' comes from the organism's unusual three-pronged structure.
+player_impact: Independent pilots are needed to help contain Cerberus Plague outbreaks in Dajoar, Eleu, and 20 Ophiuchi before they spread further.
+modern_impact: Cerberus Plague spread beyond BD-02 4304 confirms the disease is not contained, requiring coordinated inter-system response.
+legacy_weight: 4
+significance: high
 ---
 
 Reports of The Cerberus Plague beyond BD-02 4304

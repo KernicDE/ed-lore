@@ -2,32 +2,32 @@
 id: heike
 name: Heike
 type: location
-first_seen_date: '3301-08-02'
+first_seen_date: '3301-07-29'
 last_seen_date: '3305-09-05'
-mention_count: 5
+mention_count: 6
 related_entities:
 - bast
 - hart-station
+- bd-02-4304
+- newton-dock
 - sap-core-legion
-- union-of-bast-liberals
-- brunel-city-station
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Heike
 
-First mentioned: **3301-08-02**  
+First mentioned: **3301-07-29**  
 Last mentioned: **3305-09-05**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 
-- [[Bast]] (2 co-mentions)
-- [[Hart Station]] (2 co-mentions)
+- [[Bast]] (3 co-mentions)
+- [[Hart Station]] (3 co-mentions)
+- [[BD-02 4304]] (2 co-mentions)
+- [[Newton Dock]] (2 co-mentions)
 - [[Sap Core Legion]] (2 co-mentions)
-- [[Union of Bast Liberals]] (1 co-mentions)
-- [[Brunel City Station]] (1 co-mentions)
 
 ## Biography
 

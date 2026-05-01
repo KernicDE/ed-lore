@@ -1,29 +1,35 @@
 ---
 uuid: f9b8633d-abeb-5cfd-8079-b668b89d759b
-title: Operation Davy Jones   Frontline report
+title: Operation Davy Jones - Frontline report
 slug: operation_davy_jones_frontline_report
 date: '3301-07-24'
 source: GitHub
-entities:
+persons:
+- Stateira Eleshenar
 - Corrigendum
 - GluttonyFang
-- Stateira "Starcloak" Eleshenar
+- Archon Delaine
+- Cadoc
 groups:
 - Kumo Crew
+- Lavigny's Legion
+- Imperial Navy
 locations:
-- Imperial
+- Cuchua
+- Anedjete
+- Sopontet
+- Huichi
 - Pegasi Sector
 topics:
-- diplomacy
 - piracy
-- ship
 - slavery
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
-legacy_weight: 3
-significance: medium
+summary: Two weeks into Operation Davy Jones, Imperial forces continue their siege of the Pegasi sector. Commander Stateira Eleshenar of Patreus's forces stated the aim is to free all persons held in branded slavery by the Kumo Crew. Commander Corrigendum of Lavigny's Legion reported Archon's forces have been routed from Imperial space, with heavy clashes in Anedjete, Sopontet, and Huichi. Kumo Crew pilot GluttonyFang vowed defiance, saying they make up for numbers with indomitable spirit. Commander Corrigendum rejected diplomatic settlement, stating the Empire refuses to negotiate with captors.
+player_impact: Imperial pilots can continue combat operations against Kumo Crew in Anedjete, Sopontet, Huichi, and other Pegasi sector systems.
+modern_impact: Frontline report shows Operation Davy Jones is intensifying with no diplomatic solution in sight, as both sides prepare for prolonged conflict.
+legacy_weight: 4
+significance: high
 ---
 
 Operation Davy Jones - Frontline report

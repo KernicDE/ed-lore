@@ -2,9 +2,9 @@
 id: alliance-elite-diplomatic-corps
 name: Alliance Elite Diplomatic Corps
 type: faction
-first_seen_date: '3302-06-02'
+first_seen_date: '3301-07-23'
 last_seen_date: '3302-06-30'
-mention_count: 3
+mention_count: 4
 related_entities:
 - border-coalition
 - galcop
@@ -17,9 +17,9 @@ related_entities:
 
 # Alliance Elite Diplomatic Corps
 
-First mentioned: **3302-06-02**  
+First mentioned: **3301-07-23**  
 Last mentioned: **3302-06-30**  
-Total mentions: **3**
+Total mentions: **4**
 
 ## Related
 

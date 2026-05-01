@@ -5,14 +5,25 @@ slug: further_outbreaks_of_cerberus_plague
 date: '3301-07-30'
 source: GitHub
 locations:
-- Our sources indicate that the following
+- Chongguls
+- Xamentii
+- G 139-50
+- Cantjarisni
+- Rajukru
+- HIP 10175
+- Amahu
+- Leerham
+- BD-11 4280
+- Louguala
 topics:
 - medicine
+- plague
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague
-  that killed over 100,000.
-legacy_weight: 3
-significance: medium
+summary: Fresh Cerberus Plague outbreaks have appeared in Chongguls, Xamentii, G 139-50, Cantjarisni, Rajukru, HIP 10175, Amahu, Leerham, BD-11 4280, and Louguala. Medical teams are working to develop sufficient antidote quantities, but the disease continues spreading faster than it can be contained. Independent pilots are encouraged to deliver medicines to all affected systems.
+player_impact: Independent pilots are urgently needed to deliver medicines to Chongguls, Xamentii, G 139-50, Cantjarisni, Rajukru, HIP 10175, Amahu, Leerham, BD-11 4280, and Louguala.
+modern_impact: Cerberus Plague spreads to ten additional systems, outpacing antidote production and requiring massive pilot intervention.
+legacy_weight: 4
+significance: high
 ---
 
 Further Outbreaks of Cerberus Plague

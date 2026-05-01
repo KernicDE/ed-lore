@@ -1,9 +1,12 @@
 ---
 uuid: 365fe94f-5b0d-5dc0-b58e-b8459e572688
-title: Naval Academy Graduates join  Operation Davy Jones  in the Pegasi Sector
+title: Naval Academy Graduates join Operation Davy Jones in the Pegasi Sector
 slug: naval_academy_graduates_join_operation_davy_jones_in_the_pegasi_sector
 date: '3301-07-11'
 source: GitHub
+persons:
+- Arissa Lavigny-Duval
+- Archon Delaine
 groups:
 - Imperial Navy
 - Kumo Crew
@@ -12,11 +15,13 @@ locations:
 - Pegasi Sector
 topics:
 - piracy
+- war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
-legacy_weight: 3
-significance: medium
+summary: Senator Arissa Lavigny-Duval addressed Naval Academy of Achenar graduates, announcing a campaign to liberate 5.6 billion Imperial citizens in the Pegasi sector from Kumo Crew control. She invited graduates to join Operation Davy Jones, an elite Imperial vanguard already engaged against Archon Delaine's forces. An astounding 73% of 10,000 graduates joined the Imperial armada bound for Pegasi.
+player_impact: Imperial Navy pilots can join Operation Davy Jones to combat Kumo Crew in the Pegasi sector and liberate Imperial citizens.
+modern_impact: Massive recruitment drive for Operation Davy Jones signals the Empire's commitment to defeating Archon Delaine and reclaiming the Pegasi sector.
+legacy_weight: 4
+significance: high
 ---
 
 Naval Academy Graduates join "Operation Davy Jones" in The Pegasi Sector

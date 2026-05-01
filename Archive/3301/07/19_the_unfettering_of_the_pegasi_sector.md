@@ -4,21 +4,25 @@ title: The Unfettering of the Pegasi Sector
 slug: the_unfettering_of_the_pegasi_sector
 date: '3301-07-19'
 source: GitHub
+persons:
+- Peter
 groups:
 - Kumo Crew
 - Sirius Corp
+- Imperial Navy
 locations:
 - Harma
 - Pegasi Sector
-- Sirius
 topics:
 - humanitarian
 - slavery
+- war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
-legacy_weight: 3
-significance: medium
+summary: The Imperial blockade of Harma intercepted thousands of slaves branded by the Kumo Crew, many emaciated and afflicted. A Naval Academy graduate contrasted Imperial slavery, where debts are paid and slaves return to families, with Kumo Crew's brutal trafficking. Sirius Corp humanitarian representatives are returning liberated slaves to their homes and families.
+player_impact: Imperial pilots can support the Harma blockade to intercept Kumo Crew slave transports and liberate captives.
+modern_impact: Imperial blockade exposes the brutality of Kumo Crew slavery, with Sirius Corp assisting in returning liberated slaves to their homes.
+legacy_weight: 4
+significance: high
 ---
 
 The Unfettering of The Pegasi Sector

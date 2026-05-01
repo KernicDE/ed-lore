@@ -4,16 +4,22 @@ title: Ending Corruption at Home and Abroad
 slug: ending_corruption_at_home_and_abroad
 date: '3301-07-30'
 source: GitHub
-entities:
+persons:
 - Arissa Lavigny-Duval
-- Corrigendum Ending Corruption
+- Corrigendum
+groups:
+- Lavigny's Legion
+- Imperial Navy
 locations:
-- Imperial
+- Kamadhenu
+- Pegasi Sector
 topics:
+- politics
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Senator Arissa Lavigny-Duval addressed concerns that Operation Davy Jones has left the Empire exposed. She assured citizens that local security forces are unaffected, with over half the Imperial fleet held in reserve. She noted that reserve fleets have already replaced corrupt and repressive governments with traditional patronages in several Imperial systems. She affirmed that shirking duties to citizens at home or abroad is unacceptable.
+player_impact: Imperial pilots can support both the Pegasi offensive and anti-corruption operations in Imperial home systems.
+modern_impact: Lavigny-Duval defends Operation Davy Jones by highlighting simultaneous anti-corruption successes at home, positioning herself as protecting citizens everywhere.
 legacy_weight: 3
 significance: medium
 ---

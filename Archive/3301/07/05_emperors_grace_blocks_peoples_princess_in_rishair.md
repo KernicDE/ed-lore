@@ -1,29 +1,31 @@
 ---
 uuid: 2f106176-4bed-561b-afb9-363d32e4ade9
-title: Emperor's Grace Blocks People’s Princess in Rishair
+title: Emperor's Grace Blocks People's Princess in Rishair
 slug: emperors_grace_blocks_peoples_princess_in_rishair
 date: '3301-07-05'
 source: GitHub
-entities:
+persons:
 - Denton Patreus
-- Patreus agreed
+- Aisling Duval
+- Admiral Brennus
+- Varrwen Mako Brennus
+- Raf von Thorn
 groups:
 - Emperor's Grace
+- Aisling's Angels
+- Imperial Navy
 locations:
-- Denton
 - Rishair
+- Chona
 topics:
 - diplomacy
-- festival
-- ship
 - slavery
-- sport
-- succession
-- trade
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
-legacy_weight: 1
-significance: low
+- politics
+summary: Aisling Duval's anti-slavery activists were expelled from Rishair after Admiral Brennus of Emperor's Grace intervened. When diplomatic mediation failed, Brennus contacted Senator Patreus, who established Rishair and surrounding systems as a military preparation site under Operation BBH, legally suspending protest rights. The action highlights tensions between Aisling's reform movement and traditional Imperial power structures.
+player_impact: Pilots should expect heightened security and restricted protest rights in Rishair and surrounding systems under military preparation status.
+modern_impact: Direct confrontation between Emperor's Grace and Aisling Duval's reform movement demonstrates the limits of anti-slavery activism within the Empire.
+legacy_weight: 3
+significance: medium
 ---
 
 Emperor's Grace Blocks People’s Princess in Rishair

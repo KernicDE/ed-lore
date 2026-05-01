@@ -2,32 +2,32 @@
 id: felicia-winters
 name: Felicia Winters
 type: person
-first_seen_date: '3301-07-29'
+first_seen_date: '3312-02-20'
 last_seen_date: '3312-02-20'
-mention_count: 3
+mention_count: 1
 related_entities:
-- nigel-smeaton
-- aislings-angels
-- kumo-crew
-- kamadhenu
-- sol
+- october-consortium
+- imperial-navy
+- alliance
+- federal-navy
+- hip-87621
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Felicia Winters
 
-First mentioned: **3301-07-29**  
+First mentioned: **3312-02-20**  
 Last mentioned: **3312-02-20**  
-Total mentions: **3**
+Total mentions: **1**
 
 ## Related
 
-- [[Nigel Smeaton]] (1 co-mentions)
-- [[Aisling's Angels]] (1 co-mentions)
-- [[Kumo Crew]] (1 co-mentions)
-- [[Kamadhenu]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
+- [[October Consortium]] (1 co-mentions)
+- [[Imperial Navy]] (1 co-mentions)
+- [[Alliance]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[HIP 87621]] (1 co-mentions)
 
 ## Biography
 

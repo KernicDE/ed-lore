@@ -4,19 +4,26 @@ title: Cerberus Plague Breakthrough
 slug: cerberus_plague_breakthrough
 date: '3301-07-29'
 source: GitHub
+persons:
+- Carl Simmons
+groups:
+- Newton Dock Medical
 locations:
 - BD-02 4304
 - Bast
 - Hart Station
+- Newton Dock
+- Heike
 topics:
 - humanitarian
 - medicine
 - research
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague
-  that killed over 100,000.
-legacy_weight: 3
-significance: medium
+summary: Medical personnel at Hart Station praised 765 independent pilots who delivered medicines to the Bast system. A potential breakthrough was discovered when patients given Ceremonial Heike Tea showed improvement. Chief Medical Officer Carl Simmons of Newton Dock confirmed the tea contains ingredients that can cure the pathogen, though it is rare and only found in Heike. Gathering sufficient quantities will be challenging.
+player_impact: Pilots can transport Ceremonial Heike Tea to plague-affected stations to help combat the Cerberus Plague outbreak.
+modern_impact: Discovery that Ceremonial Heike Tea can cure the Cerberus Plague offers the first real hope of containing the devastating outbreak.
+legacy_weight: 5
+significance: high
 ---
 
 Cerberus Plague Breakthrough

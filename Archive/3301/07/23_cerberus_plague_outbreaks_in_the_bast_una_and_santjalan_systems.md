@@ -4,20 +4,26 @@ title: Cerberus Plague Outbreaks in the Bast, Una and Santjalan Systems
 slug: cerberus_plague_outbreaks_in_the_bast_una_and_santjalan_systems
 date: '3301-07-23'
 source: GitHub
+persons:
+- Carl Simmons
+groups:
+- Newton Dock Medical
 locations:
 - Bast
-- Cantor Terminal in the Santjalan
 - Hart Station
-- Hoard Orbital in the Una
-- Hospitals and care facilities in these
+- Una
+- Hoard Orbital
+- Santjalan
+- Cantor Terminal
 topics:
-- construction
 - medicine
+- plague
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague
-  that killed over 100,000.
-legacy_weight: 3
-significance: medium
+summary: The Cerberus Plague has reached Hart Station in Bast, Hoard Orbital in Una, and Cantor Terminal in Santjalan. No cure has been found despite ongoing work by Chief Medical Officer Carl Simmons. Hospitals are overloaded as infection rates rise rapidly. Volunteers and local security are aiding health services while maintaining order. Pilots in the region are called upon to deliver medical aid.
+player_impact: Pilots in the Bast, Una, and Santjalan systems are urgently needed to deliver medical aid to overloaded stations.
+modern_impact: Cerberus Plague continues its spread to new systems, overwhelming local medical facilities and requiring external humanitarian support.
+legacy_weight: 4
+significance: high
 ---
 
 Cerberus Plague Outbreaks in The Bast, Una and Santjalan Systems

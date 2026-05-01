@@ -4,18 +4,24 @@ title: Origins of the Velites Squadron
 slug: origins_of_the_velites_squadron
 date: '3301-07-15'
 source: GitHub
-entities:
-- Arrissa Lavigny-Duval
+persons:
+- Na'Qan
+- Arissa Lavigny-Duval
+groups:
+- Velites Squadron
+- Lavigny's Legion
 locations:
 - Kamadhenu
-- Piracy being rife in those
-- When war broke out in the Pancienses
+- Pancienses
 topics:
+- combat
 - piracy
 - war
-modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
+summary: Commander Na'Qan, a former miner from distant Imperial colonies, developed stealth combat techniques using asteroid fields to evade pirates. During the Pancienses war, he discovered his manoeuvres prevented weapons lock from Fer-de-Lance interdictors. He proposed training wings for what became the Velites Squadron, known for stealthy precision strikes. Na'Qan is to be awarded the Imperial Order of Merit, First Class, by Senator Arissa Lavigny-Duval at her Kamadhenu headquarters.
+player_impact: Imperial pilots can learn stealth combat techniques inspired by Na'Qan's asteroid field manoeuvres for use against pirate interdictions.
+modern_impact: Formation of the Velites Squadron adds an elite stealth combat wing to Imperial forces, specialising in evasion and precision strikes.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Origins of The Velites Squadron

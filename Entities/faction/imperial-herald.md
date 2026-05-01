@@ -23,9 +23,9 @@ Total mentions: **76**
 
 ## Related
 
-- [[Capitol]] (18 co-mentions)
+- [[Capitol]] (19 co-mentions)
 - [[Alliance]] (16 co-mentions)
-- [[Achenar]] (13 co-mentions)
+- [[Achenar]] (14 co-mentions)
 - [[Aegis]] (12 co-mentions)
 - [[Imperial Palace]] (12 co-mentions)
 

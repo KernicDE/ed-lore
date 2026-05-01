@@ -4,14 +4,24 @@ title: Aisling Supporters Pledge to Legion
 slug: aisling_supporters_pledge_to_legion
 date: '3301-07-06'
 source: GitHub
-entities:
+persons:
 - Andariel
-- Andariel told me where
+- Aisling Duval
+- Count Jeffrey Alexander Ryan
+groups:
+- Aisling's Angels
+- Aisling's 13th Legion
+locations:
+- Chona
+- Ugain
 topics:
-- trade
-modern_impact: Trade initiative affecting commodity markets and local economies.
+- combat
+- politics
+summary: Aisling Duval's supporters formed the Thirteenth Legion under Commander Andariel to combat interdiction and harassment of humanitarian supply runs. Count Jeffrey Alexander Ryan of Ugain endorsed the effort, noting that while many wanted to support Aisling, few knew how to make their combat contributions effective. The Thirteenth Legion established its base on Chona.
+player_impact: Aisling-aligned combat pilots can join the Thirteenth Legion to provide military support for the People's Princess's operations.
+modern_impact: Formation of Aisling's 13th Legion creates a dedicated combat wing for Aisling Duval's reform movement, shifting supporters from purely humanitarian to military engagement.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Aisling Supporters Pledge to Legion

@@ -4,10 +4,18 @@ title: Carns Economic Success
 slug: carns_economic_success
 date: '3301-07-24'
 source: GitHub
+persons:
+- Ramon Lamor
+groups:
+- Humason Orbital
+locations:
+- Carns
 topics:
-- diplomacy
 - trade
-modern_impact: Trade initiative affecting commodity markets and local economies.
+- corporate expansion
+summary: Chief Communications Officer Ramon Lamor announced the successful upgrade of Humason Orbital's economy to high-tech. He dismissed previous civic disruption reports as isolated elements who have since been brought onboard with the economic plan. The development promises a new era of prosperity for the Carns system.
+player_impact: Traders can expect new high-tech commodities and opportunities at Humason Orbital in Carns.
+modern_impact: Carns successfully transitions from mining to high-tech economy, though reports suggest the transition involved suppressing dissent.
 legacy_weight: 2
 significance: low
 ---

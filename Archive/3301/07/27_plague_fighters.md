@@ -4,15 +4,25 @@ title: Plague Fighters
 slug: plague_fighters
 date: '3301-07-27'
 source: GitHub
-entities:
-- Exil Plague Fighters
+persons:
+- Caius
+- Exil
+groups:
+- Dukes of Mikunn
+- Mercenaries of Mikunn
+locations:
+- HR 7327
+- Mikunn
+- Sukua
+- Sefry
 topics:
 - medicine
-- research
-- ship
+- plague
+- war
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague
-  that killed over 100,000.
+summary: The Dukes of Mikunn mobilised their mercenaries to assist Cerberus Plague-affected systems. Drawing on experience from a similar plague in HR 7327, Mikunn, Sukua, and Sefry, they are moving stockpiled medicine and medical scientists to find the source. Fighter wings provide safe passage for medical supply runs and enforce quarantine. Caius, younger brother of the Dukes, explained that failure to enforce quarantine in their previous outbreak allowed spread to nearby systems, and criticised the powers for failing to act in their people's best interest.
+player_impact: Pilots delivering medical supplies to plague-affected systems can expect escort support from Mikunn mercenary fighter wings.
+modern_impact: Mercenary intervention in plague response highlights both the severity of the outbreak and the failure of official powers to coordinate effective containment.
 legacy_weight: 3
 significance: medium
 ---

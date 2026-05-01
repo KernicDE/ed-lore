@@ -4,24 +4,29 @@ title: Prism Senator Missing
 slug: prism_senator_missing
 date: '3301-07-21'
 source: GitHub
-entities:
-- Kahina
+persons:
 - Kahina Tijani Loren
-- Missing
+- Cuthrick Delaney
+- Kazien Vantris
+- Denton Patreus
 groups:
 - Imperial Herald
+- Imperial Citizen
+- The Dark Wheel
 locations:
 - Capitol
 - Prism
+- Avalon shipyards
 topics:
-- safety
-- ship
-- war
+- investigation
+- mystery
+- politics
 arc_id: prism-senator
-modern_impact: The Prism Senator's activities highlight cross-superpower political
-  intrigue.
-legacy_weight: 2
-significance: low
+summary: Senator Kahina Tijani Loren of Prism has disappeared from her Imperial suite on Capitol. The residence was pristine with no evidence of habitation. Her Imperial Courier 'Seven Veils' was found stripped of all valuable equipment, with modifications discovered to be carefully crafted fakes. Her Imperial tiara and a medallion bearing the word 'Salomé' and a symbol believed to belong to 'The Dark Wheel' were left in the cockpit. Ambassador Cuthrick Delaney is representing Prism in her absence. Speculation ranges from abandonment to something underhand.
+player_impact: None
+modern_impact: Disappearance of Senator Kahina Tijani Loren with links to 'The Dark Wheel' and the alias 'Salomé' launches one of the galaxy's most intriguing mysteries.
+legacy_weight: 5
+significance: high
 ---
 
 Prism Senator Missing

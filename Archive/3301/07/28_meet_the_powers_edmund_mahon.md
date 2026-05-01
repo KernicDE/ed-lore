@@ -4,16 +4,21 @@ title: Meet the Powers – Edmund Mahon
 slug: meet_the_powers_edmund_mahon
 date: '3301-07-28'
 source: GitHub
+persons:
+- Edmund Mahon
+- Marcus Macmillan
+- Sima Kalhana
 groups:
 - Alliance
 locations:
 - Alioth
-- Alliance to bring its values to more
 topics:
-- ship
+- politics
+- diplomacy
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence
-  through Mahon's trade agreements.
+summary: Political commentator Marcus Macmillan profiles Alliance Prime Minister Edmund Mahon. Despite the Alliance being the smallest superpower, Mahon is described as possibly the greatest leader since its inception. A career politician with strong academic background, he knows the complex Alliance political system well and can work within it to achieve results. He ensures individual system concerns are properly represented, making Alliance membership attractive. His understated exterior belies a cunning mind and determination to expand Alliance values to more systems.
+player_impact: None
+modern_impact: Profile establishes Edmund Mahon as a highly effective leader within the Alliance's complex political framework, driving expansion through diplomatic skill.
 legacy_weight: 3
 significance: medium
 ---

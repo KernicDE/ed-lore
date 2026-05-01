@@ -2,24 +2,21 @@
 id: grimnir-allvadderung
 name: Grimnir Allvadderung
 type: person
-first_seen_date: '3301-07-16'
-last_seen_date: '3301-07-16'
-mention_count: 1
-related_entities:
-- emperors-grace
+first_seen_date: '3301-07-08'
+last_seen_date: '3301-07-24'
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Grimnir Allvadderung
 
-First mentioned: **3301-07-16**  
-Last mentioned: **3301-07-16**  
-Total mentions: **1**
+First mentioned: **3301-07-08**  
+Last mentioned: **3301-07-24**  
+Total mentions: **3**
 
 ## Related
 
-- [[Emperor's Grace]] (1 co-mentions)
 
 ## Biography
 

@@ -2,9 +2,9 @@
 id: merope
 name: Merope
 type: location
-first_seen_date: '3301-10-29'
+first_seen_date: '3301-07-10'
 last_seen_date: '3308-09-01'
-mention_count: 54
+mention_count: 55
 related_entities:
 - maia
 - canonn-interstellar-research-group
@@ -17,13 +17,13 @@ related_entities:
 
 # Merope
 
-First mentioned: **3301-10-29**  
+First mentioned: **3301-07-10**  
 Last mentioned: **3308-09-01**  
-Total mentions: **54**
+Total mentions: **55**
 
 ## Related
 
-- [[Maia]] (19 co-mentions)
+- [[Maia]] (20 co-mentions)
 - [[Canonn Interstellar Research Group]] (13 co-mentions)
 - [[Federation]] (12 co-mentions)
 - [[Aegis]] (10 co-mentions)

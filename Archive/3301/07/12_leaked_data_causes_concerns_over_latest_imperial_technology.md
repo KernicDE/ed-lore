@@ -4,9 +4,11 @@ title: Leaked Data Causes Concerns over Latest Imperial Technology
 slug: leaked_data_causes_concerns_over_latest_imperial_technology
 date: '3301-07-12'
 source: GitHub
-entities:
+persons:
 - Denzile Dex
-- Dex
+- Professor Denzile Dex
+groups:
+- Imperial Senate
 locations:
 - Prism
 topics:
@@ -14,10 +16,11 @@ topics:
 - research
 - safety
 - scandal
-modern_impact: Pilot safety initiative with potential regulatory implications for
-  starship design.
-legacy_weight: 1
-significance: low
+summary: Leaked technical documents linked new Imperial modules to research by discredited Professor Denzile Dex, raising safety concerns. Dex disappeared during the 4EverYoung life-extension scandal where users suffered mutations. The leaked research allegedly formed the basis for the Imperial Hammer and Prismatic Shield Generators. Reported side effects include cognitive impairment, psychosis, sterility, hormonal imbalances, and physical sex characteristic changes from the new technology. Concerned groups called for an official Senate statement.
+player_impact: Imperial pilots using Prismatic Shield Generators or Imperial Hammers should be aware of reported but unconfirmed safety concerns about these modules.
+modern_impact: Scandal linking cutting-edge Imperial technology to discredited research threatens confidence in Imperial military hardware and raises questions about Senate oversight.
+legacy_weight: 3
+significance: medium
 ---
 
 Leaked Data Causes Concerns over Latest Imperial Technology

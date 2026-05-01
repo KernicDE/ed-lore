@@ -23,9 +23,9 @@ Articles: **17**
 
 ## Key Figures
 
-- [[Kahina Tijani Loren]] (7 mentions)
+- [[Kahina Tijani Loren]] (6 mentions)
 - [[Imperial Herald]] (4 mentions)
-- [[Imperial Citizen]] (3 mentions)
+- [[Imperial Citizen]] (4 mentions)
 - [[Alliance]] (2 mentions)
 - [[Continues]] (1 mentions)
 

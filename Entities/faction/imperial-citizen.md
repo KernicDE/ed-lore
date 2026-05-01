@@ -2,32 +2,32 @@
 id: imperial-citizen
 name: Imperial Citizen
 type: faction
-first_seen_date: '3301-09-11'
+first_seen_date: '3301-07-21'
 last_seen_date: '3302-10-28'
-mention_count: 8
+mention_count: 9
 related_entities:
 - prism
 - emperors-dawn
 - children-of-raxxla
 - cemiess
-- ipilyaqa
+- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Imperial Citizen
 
-First mentioned: **3301-09-11**  
+First mentioned: **3301-07-21**  
 Last mentioned: **3302-10-28**  
-Total mentions: **8**
+Total mentions: **9**
 
 ## Related
 
-- [[Prism]] (5 co-mentions)
+- [[Prism]] (6 co-mentions)
 - [[Emperor's Dawn]] (3 co-mentions)
 - [[Children of Raxxla]] (3 co-mentions)
 - [[Cemiess]] (3 co-mentions)
-- [[Ipilyaqa]] (1 co-mentions)
+- [[Imperial Herald]] (2 co-mentions)
 
 ## Biography
 

@@ -4,19 +4,22 @@ title: Smuggling on the Rise in Conflict Strewn Pegasi Sector
 slug: smuggling_on_the_rise_in_conflict_strewn_pegasi_sector
 date: '3301-07-31'
 source: GitHub
-entities:
-- Shadewarlock Smuggling
+persons:
+- Shadewarlock
+- Archon Delaine
 groups:
 - Kumo Crew
 locations:
 - Pegasi Sector
+- Harma
 topics:
 - crime
-- ship
+- smuggling
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: A Kumo Crew commander reports that smuggling and illegal contraband have risen at alarming rates since the Imperial offensive began. Despite combined Imperial fleets undermining Kumo Crew territory, they have made no significant headway into smuggler-controlled space. Unusually large quantities of credits have flowed into Kumo Crew space from aggressor territory. The commander noted that war is good for business and that demand for contraband transcends political boundaries.
+player_impact: Pilots operating in the Pegasi sector should expect increased smuggling activity and enhanced opportunities for both legal and illegal trade in Kumo-controlled systems.
+modern_impact: Rising smuggling in Pegasi demonstrates that the Kumo Crew's criminal economy thrives despite, or because of, the Imperial military offensive.
 legacy_weight: 3
 significance: medium
 ---

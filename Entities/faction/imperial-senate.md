@@ -4,10 +4,10 @@ name: Imperial Senate
 type: faction
 first_seen_date: '3301-02-28'
 last_seen_date: '3310-01-11'
-mention_count: 61
+mention_count: 67
 related_entities:
-- capitol
 - achenar
+- capitol
 - marlinist-colonies
 - nmla
 - alliance
@@ -19,12 +19,12 @@ related_entities:
 
 First mentioned: **3301-02-28**  
 Last mentioned: **3310-01-11**  
-Total mentions: **61**
+Total mentions: **67**
 
 ## Related
 
-- [[Capitol]] (18 co-mentions)
-- [[Achenar]] (17 co-mentions)
+- [[Achenar]] (22 co-mentions)
+- [[Capitol]] (21 co-mentions)
 - [[Marlinist Colonies]] (17 co-mentions)
 - [[NMLA]] (16 co-mentions)
 - [[Alliance]] (13 co-mentions)

@@ -7,8 +7,8 @@ last_seen_date: '3307-03-25'
 mention_count: 29
 related_entities:
 - alioth
-- nmla
 - achenar
+- nmla
 - kamadhenu
 - lave
 ---
@@ -24,8 +24,8 @@ Total mentions: **29**
 ## Related
 
 - [[Alioth]] (8 co-mentions)
+- [[Achenar]] (7 co-mentions)
 - [[NMLA]] (6 co-mentions)
-- [[Achenar]] (6 co-mentions)
 - [[Kamadhenu]] (6 co-mentions)
 - [[Lave]] (6 co-mentions)
 

@@ -2,9 +2,9 @@
 id: imperial-palace
 name: Imperial Palace
 type: faction
-first_seen_date: '3301-08-18'
+first_seen_date: '3301-07-22'
 last_seen_date: '3301-08-18'
-mention_count: 1
+mention_count: 3
 related_entities:
 - capitol
 - imperial-herald
@@ -17,13 +17,13 @@ related_entities:
 
 # Imperial Palace
 
-First mentioned: **3301-08-18**  
+First mentioned: **3301-07-22**  
 Last mentioned: **3301-08-18**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Capitol]] (27 co-mentions)
+- [[Capitol]] (32 co-mentions)
 - [[Imperial Herald]] (12 co-mentions)
 - [[Alliance]] (11 co-mentions)
 - [[Emerald]] (10 co-mentions)

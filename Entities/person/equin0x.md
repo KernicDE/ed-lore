@@ -5,10 +5,6 @@ type: person
 first_seen_date: '3301-07-14'
 last_seen_date: '3301-07-14'
 mention_count: 1
-related_entities:
-- darkstar-decided
-- alliance
-- pilots-federation
 ---
 
 <!-- AUTO-GENERATED -->
@@ -21,9 +17,6 @@ Total mentions: **1**
 
 ## Related
 
-- [[DarkStar decided]] (1 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 

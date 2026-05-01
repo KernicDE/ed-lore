@@ -26,7 +26,7 @@ Total mentions: **133**
 - [[Imperial Navy]] (28 co-mentions)
 - [[Alliance]] (24 co-mentions)
 - [[Aegis]] (19 co-mentions)
-- [[Sol]] (16 co-mentions)
+- [[Sol]] (17 co-mentions)
 - [[HIP 22460]] (16 co-mentions)
 
 ## Biography

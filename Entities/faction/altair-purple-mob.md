@@ -22,7 +22,7 @@ Total mentions: **2**
 
 ## Related
 
-- [[Federal government]] (1 co-mentions)
+- [[Federal Government]] (1 co-mentions)
 - [[Grandin Gateway]] (1 co-mentions)
 - [[Altair system]] (1 co-mentions)
 - [[Altair]] (1 co-mentions)

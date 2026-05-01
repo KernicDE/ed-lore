@@ -27,7 +27,7 @@ Total mentions: **10**
 - [[Azaleach Partnership]] (3 co-mentions)
 - [[Leoniceno Orbital medical staff]] (3 co-mentions)
 - [[Daurtu Jet Comms PLC]] (2 co-mentions)
-- [[Federal government]] (2 co-mentions)
+- [[Federal Government]] (2 co-mentions)
 
 ## Biography
 

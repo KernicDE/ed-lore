@@ -4,19 +4,25 @@ title: Meet the Powers – Denton Patreus
 slug: meet_the_powers_denton_patreus
 date: '3301-07-31'
 source: GitHub
-entities:
+persons:
 - Denton Patreus
+- Arissa Lavigny-Duval
+- Zemina Torval
+- Hengist Duval
+- Marcus Macmillan
 groups:
 - Imperial Senate
 locations:
-- Denton
 - Eotienses
+- Achenar
 topics:
+- politics
 - succession
-- trade
-modern_impact: Trade initiative affecting commodity markets and local economies.
-legacy_weight: 2
-significance: low
+summary: Political commentator Marcus Macmillan profiles Senator Denton Patreus. Seen as the muscular aspect of the Imperial Senate, he is powerful though lagging behind Lavigny-Duval and Torval. His low taxation record is funded through aggressive economic and military conquests. Critics accuse him of unethical strong-arm tactics, but supporters blame indebted governments. He commands deep credit reserves and a formidable fleet from his Majestic-class Interdictor 'Imperial Freedom'. During the Emperor's illness he called for succession by popularity rather than blood, but since Hengist Duval's recovery he has steadfastly supported the Emperor, though his break from tradition may have cost him popular support.
+player_impact: None
+modern_impact: Profile reveals Patreus as a militarily powerful but politically compromised senator whose populist succession bid may have alienated traditionalists.
+legacy_weight: 3
+significance: medium
 ---
 
 Meet The Powers – Denton Patreus

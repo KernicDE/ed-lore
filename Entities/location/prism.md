@@ -8,9 +8,9 @@ mention_count: 33
 related_entities:
 - mars
 - kahina-tijani-loren
+- imperial-citizen
 - lorens-legion
 - achenar
-- imperial-citizen
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Total mentions: **33**
 ## Related
 
 - [[Mars]] (7 co-mentions)
-- [[Kahina Tijani Loren]] (7 co-mentions)
+- [[Kahina Tijani Loren]] (6 co-mentions)
+- [[Imperial Citizen]] (6 co-mentions)
 - [[Loren's Legion]] (6 co-mentions)
 - [[Achenar]] (5 co-mentions)
-- [[Imperial Citizen]] (5 co-mentions)
 
 ## Biography
 

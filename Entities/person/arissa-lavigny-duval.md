@@ -2,24 +2,21 @@
 id: arissa-lavigny-duval
 name: Arissa Lavigny-Duval
 type: person
-first_seen_date: '3301-07-30'
-last_seen_date: '3301-07-30'
-mention_count: 1
-related_entities:
-- corrigendum-ending-corruption
+first_seen_date: '3301-07-08'
+last_seen_date: '3311-06-26'
+mention_count: 104
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Arissa Lavigny-Duval
 
-First mentioned: **3301-07-30**  
-Last mentioned: **3301-07-30**  
-Total mentions: **1**
+First mentioned: **3301-07-08**  
+Last mentioned: **3311-06-26**  
+Total mentions: **104**
 
 ## Related
 
-- [[Corrigendum Ending Corruption]] (1 co-mentions)
 
 ## Biography
 

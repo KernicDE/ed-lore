@@ -4,21 +4,23 @@ title: Alliance and Sirius Corp Pilots Celebrate Agreement
 slug: alliance_and_sirius_corp_pilots_celebrate_agreement
 date: '3301-07-13'
 source: GitHub
+persons:
+- Li Yong-Rui
+- Edmund Mahon
 groups:
 - Alliance
 - Sirius Corp
-- Sirius Corporation
 locations:
 - Sirius
+- Alioth
 topics:
-- corporate expansion
-- festival
+- diplomacy
 - trade
-- war
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
-legacy_weight: 1
-significance: low
+summary: Alliance and Sirius Corporation pilots celebrated the one-month anniversary of the Inter-faction Mutual Benefit Agreement (IMBA). The agreement established mutual aid for profit, business expansion, and action against mutual enemies. Pilots have been exchanging regional commodities between the two powers' capitals as a sign of goodwill and respect between natural allies.
+player_impact: Alliance and Sirius-aligned pilots can participate in mutual trade and cooperative operations under the IMBA agreement.
+modern_impact: IMBA strengthens the Alliance-Sirius economic axis, creating a counterweight to Federation and Empire influence.
+legacy_weight: 2
+significance: medium
 ---
 
 Alliance and Sirius Corp Pilots Celebrate Agreement

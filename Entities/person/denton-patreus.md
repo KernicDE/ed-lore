@@ -3,14 +3,14 @@ id: denton-patreus
 name: Denton Patreus
 type: person
 first_seen_date: '3301-02-27'
-last_seen_date: '3301-07-31'
-mention_count: 8
+last_seen_date: '3301-05-11'
+mention_count: 6
 related_entities:
 - denton
-- imperial-senate
 - falisci
 - ngaiawang
-- eotienses
+- imperial-senate
+- shole
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +18,16 @@ related_entities:
 # Denton Patreus
 
 First mentioned: **3301-02-27**  
-Last mentioned: **3301-07-31**  
-Total mentions: **8**
+Last mentioned: **3301-05-11**  
+Total mentions: **6**
 
 ## Related
 
-- [[Denton]] (8 co-mentions)
-- [[Imperial Senate]] (3 co-mentions)
+- [[Denton]] (6 co-mentions)
 - [[Falisci]] (2 co-mentions)
 - [[Ngaiawang]] (2 co-mentions)
-- [[Eotienses]] (2 co-mentions)
+- [[Imperial Senate]] (2 co-mentions)
+- [[Shole]] (1 co-mentions)
 
 ## Biography
 

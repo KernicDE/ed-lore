@@ -4,16 +4,24 @@ title: Senator Patreus Supports Stability
 slug: senator_patreus_supports_stability
 date: '3301-07-30'
 source: GitHub
-entities:
-- Denton Patreus taking his turn
-- Patreus Supports Stability
+persons:
+- Denton Patreus
+- Hengist Duval
+- Arissa Lavigny-Duval
+- Aisling Duval
+groups:
+- Imperial Senate
 locations:
-- Denton
+- Capitol
+- Achenar
 topics:
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- politics
+summary: Senator Denton Patreus congratulated Emperor Hengist Duval on his recovery and upcoming wedding, praising the stability the Emperor's return brings. He acknowledged accusations that he sought to exploit the Emperor's absence but categorically denied them, stating his actions have always been in the Empire's best interests and pledging to support the Emperor's vision. Commentators noted his campaign has flagged compared to rivals and speculated he is positioning himself as a kingmaker to break the deadlock between Arissa Lavigny-Duval and Aisling Duval.
+player_impact: None
+modern_impact: Patreus's speech supporting the Emperor while commentators see him as a potential kingmaker highlights his strategic repositioning in the succession race.
+legacy_weight: 3
+significance: medium
 ---
 
 Senator Patreus Supports Stability

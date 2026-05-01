@@ -2,32 +2,32 @@
 id: 39-tauri
 name: 39 Tauri
 type: location
-first_seen_date: '3301-08-06'
+first_seen_date: '3301-07-09'
 last_seen_date: '3301-08-06'
-mention_count: 1
+mention_count: 2
 related_entities:
-- union-of-bast-liberals
-- altair
-- kamorin
-- delta-phoenicis
-- kappa-ophiuchi
+- kumo-crew
+- sirius-corporation
+- utopia
+- nunus
+- varka
 ---
 
 <!-- AUTO-GENERATED -->
 
 # 39 Tauri
 
-First mentioned: **3301-08-06**  
+First mentioned: **3301-07-09**  
 Last mentioned: **3301-08-06**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Union of Bast Liberals]] (1 co-mentions)
-- [[Altair]] (1 co-mentions)
-- [[Kamorin]] (1 co-mentions)
-- [[Delta Phoenicis]] (1 co-mentions)
-- [[Kappa Ophiuchi]] (1 co-mentions)
+- [[Kumo Crew]] (1 co-mentions)
+- [[Sirius Corporation]] (1 co-mentions)
+- [[Utopia]] (1 co-mentions)
+- [[Nunus]] (1 co-mentions)
+- [[Varka]] (1 co-mentions)
 
 ## Biography
 

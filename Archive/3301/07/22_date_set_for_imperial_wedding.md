@@ -4,16 +4,22 @@ title: Date Set for Imperial Wedding
 slug: date_set_for_imperial_wedding
 date: '3301-07-22'
 source: GitHub
-entities:
+persons:
 - Hengist Duval
+- Florence Lavigny
+groups:
+- Imperial Palace
 locations:
+- Capitol
 - Imperial Palace
 topics:
 - succession
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- festival
+summary: The Office for the Emperor announced that the wedding between Emperor Hengist Duval and Florence Lavigny will take place at midday on Wednesday 29th July. Senators, prominent patrons, and celebrities have accepted invitations. The Emperor thanked citizens for their well wishes. Fashion boutiques are anticipating a windfall as celebrants purchase matching attire.
+player_impact: None
+modern_impact: Setting the wedding date for Emperor Hengist Duval and Florence Lavigny provides a focal point for Imperial unity and celebration.
+legacy_weight: 3
+significance: medium
 ---
 
 Date Set for Imperial Wedding

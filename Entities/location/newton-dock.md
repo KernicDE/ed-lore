@@ -2,32 +2,32 @@
 id: newton-dock
 name: Newton Dock
 type: location
-first_seen_date: '3302-03-23'
+first_seen_date: '3301-07-14'
 last_seen_date: '3302-08-11'
-mention_count: 2
+mention_count: 5
 related_entities:
-- newton-dock-medical-staff
-- bd-02-4304-system
-- buckyball-racing-club
+- newton-dock-medical
 - bd-02-4304
-- bast
+- dajoar
+- eleu
+- 20-ophiuchi
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Newton Dock
 
-First mentioned: **3302-03-23**  
+First mentioned: **3301-07-14**  
 Last mentioned: **3302-08-11**  
-Total mentions: **2**
+Total mentions: **5**
 
 ## Related
 
-- [[Newton Dock medical staff]] (1 co-mentions)
-- [[BD-02 4304 system]] (1 co-mentions)
-- [[Buckyball Racing Club]] (1 co-mentions)
-- [[BD-02 4304]] (1 co-mentions)
-- [[Bast]] (1 co-mentions)
+- [[Newton Dock Medical]] (3 co-mentions)
+- [[BD-02 4304]] (3 co-mentions)
+- [[Dajoar]] (2 co-mentions)
+- [[Eleu]] (2 co-mentions)
+- [[20 Ophiuchi]] (2 co-mentions)
 
 ## Biography
 

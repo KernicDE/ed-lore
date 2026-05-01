@@ -2,32 +2,32 @@
 id: aislings-angels
 name: Aisling's Angels
 type: faction
-first_seen_date: '3301-07-30'
+first_seen_date: '3301-07-05'
 last_seen_date: '3302-01-12'
-mention_count: 2
+mention_count: 4
 related_entities:
-- felicia-winters
-- kumo-crew
-- kamadhenu
-- sol
-- pioneers-cooperative
+- emperors-grace
+- chona
+- imperial-navy
+- rishair
+- aislings-13th-legion
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Aisling's Angels
 
-First mentioned: **3301-07-30**  
+First mentioned: **3301-07-05**  
 Last mentioned: **3302-01-12**  
-Total mentions: **2**
+Total mentions: **4**
 
 ## Related
 
-- [[Felicia Winters]] (1 co-mentions)
-- [[Kumo Crew]] (1 co-mentions)
-- [[Kamadhenu]] (1 co-mentions)
-- [[Sol]] (1 co-mentions)
-- [[Pioneers Cooperative]] (1 co-mentions)
+- [[Emperor's Grace]] (2 co-mentions)
+- [[Chona]] (2 co-mentions)
+- [[Imperial Navy]] (1 co-mentions)
+- [[Rishair]] (1 co-mentions)
+- [[Aisling's 13th Legion]] (1 co-mentions)
 
 ## Biography
 

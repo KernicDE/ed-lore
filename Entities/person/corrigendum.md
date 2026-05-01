@@ -3,12 +3,8 @@ id: corrigendum
 name: Corrigendum
 type: person
 first_seen_date: '3301-07-24'
-last_seen_date: '3301-07-24'
-mention_count: 1
-related_entities:
-- gluttonyfang
-- stateira-starcloak-eleshenar
-- kumo-crew
+last_seen_date: '3302-05-14'
+mention_count: 12
 ---
 
 <!-- AUTO-GENERATED -->
@@ -16,14 +12,11 @@ related_entities:
 # Corrigendum
 
 First mentioned: **3301-07-24**  
-Last mentioned: **3301-07-24**  
-Total mentions: **1**
+Last mentioned: **3302-05-14**  
+Total mentions: **12**
 
 ## Related
 
-- [[GluttonyFang]] (1 co-mentions)
-- [[Stateira "Starcloak" Eleshenar]] (1 co-mentions)
-- [[Kumo Crew]] (1 co-mentions)
 
 ## Biography
 

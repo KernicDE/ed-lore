@@ -2,32 +2,32 @@
 id: tau-ceti
 name: Tau Ceti
 type: location
-first_seen_date: '3302-02-25'
+first_seen_date: '3301-07-05'
 last_seen_date: '3307-04-13'
-mention_count: 2
+mention_count: 3
 related_entities:
-- canonn-interstellar-research-group
+- sol
 - achenar
-- delta-pavonis
-- federal-times
-- proactive-detection-bureau
+- federation
+- mars
+- taylor-colony
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Tau Ceti
 
-First mentioned: **3302-02-25**  
+First mentioned: **3301-07-05**  
 Last mentioned: **3307-04-13**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Canonn Interstellar Research Group]] (1 co-mentions)
-- [[Achenar]] (1 co-mentions)
-- [[Delta Pavonis]] (1 co-mentions)
-- [[Federal Times]] (1 co-mentions)
-- [[Proactive Detection Bureau]] (1 co-mentions)
+- [[Sol]] (2 co-mentions)
+- [[Achenar]] (2 co-mentions)
+- [[Federation]] (1 co-mentions)
+- [[Mars]] (1 co-mentions)
+- [[Taylor Colony]] (1 co-mentions)
 
 ## Biography
 

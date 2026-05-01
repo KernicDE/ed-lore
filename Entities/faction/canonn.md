@@ -9,8 +9,8 @@ related_entities:
 - arcanonn
 - universal-cartographics
 - 78-ursae-majoris
+- maia
 - brewer-corporation
-- gateway
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **12**
 - [[Arcanonn]] (4 co-mentions)
 - [[Universal Cartographics]] (3 co-mentions)
 - [[78 Ursae Majoris]] (2 co-mentions)
+- [[Maia]] (2 co-mentions)
 - [[Brewer Corporation]] (2 co-mentions)
-- [[Gateway]] (2 co-mentions)
 
 ## Biography
 

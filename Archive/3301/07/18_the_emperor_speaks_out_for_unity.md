@@ -4,15 +4,23 @@ title: The Emperor Speaks out for Unity
 slug: the_emperor_speaks_out_for_unity
 date: '3301-07-18'
 source: GitHub
-entities:
+persons:
+- Hengist Duval
 - Anders Blaine
-- Speaks out
+- Florence Lavigny
+groups:
+- Imperial Senate
+locations:
+- Capitol
+- Imperial Palace
 topics:
 - succession
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- politics
+summary: Emperor Hengist Duval appeared before the Senate, calling on senators to work together for the good of the Empire. He criticised leaders who vied against each other and squandered resources over succession matters guided by tradition. He announced his marriage to Florence Lavigny would proceed at the earliest opportunity, with preparations to be finalised by mid-next week. He praised Chancellor Anders Blaine for his stalwart support and left to a standing ovation.
+player_impact: None
+modern_impact: Emperor Hengist Duval's call for unity and announcement of his imminent marriage to Florence Lavigny temporarily stabilises Imperial politics.
+legacy_weight: 4
+significance: high
 ---
 
 The Emperor Speaks out for Unity

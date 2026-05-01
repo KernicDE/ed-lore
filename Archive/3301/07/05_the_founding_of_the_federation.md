@@ -4,18 +4,26 @@ title: The Founding of the Federation
 slug: the_founding_of_the_federation
 date: '3301-07-05'
 source: GitHub
+persons:
+- Sima Kalhana
+- Li Qin Jao
+groups:
+- Federation
 locations:
-- Achenar
-- Mars
 - Sol
+- Mars
+- Achenar
+- Tau Ceti
+- Taylor Colony
 topics:
+- history
 - corporate expansion
 - exploration
-- ship
-- war
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 2
-significance: low
+summary: Historian Sima Kalhana's first article in a series on defining human moments covers the Federation's founding. The Federation arose from the ashes of the Third World War in the mid-21st century. The discovery of Martian fossils and the invention of the hyperdrive by Li Qin Jao triggered explosive colonisation, leading to ecological excesses that prompted Earth's intervention. In 2242, the Federation Accord united many colonies, with Taylor Colony in Tau Ceti becoming the first signatory outside Sol. The name briefly changed to 'Federation of Star Systems' before reverting.
+player_impact: None
+modern_impact: Foundational history explaining the Federation's origins as a stabilising force following corporate-driven colonial excess and the Third World War.
+legacy_weight: 4
+significance: high
 ---
 
 The Founding of The Federation

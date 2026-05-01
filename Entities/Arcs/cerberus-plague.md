@@ -6,11 +6,11 @@ last_seen_date: '3302-08-11'
 mention_count: 20
 significance: medium
 key_entities:
+- newton-dock-medical
 - union-of-bast-liberals
-- exil-plague-fighters
+- dukes-of-mikunn
+- mercenaries-of-mikunn
 - newton-dock-medical-staff
-- blue-hand-gang
-- imperial-counter-insurgency-unit
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Articles: **20**
 
 ## Key Figures
 
+- [[Newton Dock Medical]] (4 mentions)
 - [[Union of Bast Liberals]] (4 mentions)
-- [[Exil Plague Fighters]] (1 mentions)
+- [[Dukes of Mikunn]] (1 mentions)
+- [[Mercenaries of Mikunn]] (1 mentions)
 - [[Newton Dock medical staff]] (1 mentions)
-- [[Blue Hand Gang]] (1 mentions)
-- [[Imperial counter-insurgency unit]] (1 mentions)
 
 ## Description
 

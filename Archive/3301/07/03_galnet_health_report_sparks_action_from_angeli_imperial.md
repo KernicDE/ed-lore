@@ -4,8 +4,10 @@ title: Galnet Health Report Sparks Action from Angeli Imperial
 slug: galnet_health_report_sparks_action_from_angeli_imperial
 date: '3301-07-03'
 source: GitHub
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
+summary: This article appears to be a placeholder with no substantive content available in the archive.
+player_impact: None
+modern_impact: No significant historical impact recorded.
+legacy_weight: 1
 significance: low
 ---
 

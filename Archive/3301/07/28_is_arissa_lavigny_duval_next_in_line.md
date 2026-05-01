@@ -4,16 +4,23 @@ title: Is Arissa Lavigny Duval Next in Line
 slug: is_arissa_lavigny_duval_next_in_line
 date: '3301-07-28'
 source: GitHub
-entities:
+persons:
+- Arissa Lavigny-Duval
 - Hengist Duval
+- Florence Lavigny
 groups:
 - Imperial Herald
+locations:
+- Capitol
+- Achenar
 topics:
 - succession
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+- politics
+summary: With the wedding of Florence Lavigny and Emperor Hengist Duval approaching, Arissa Lavigny-Duval appears set to become heir apparent. During an Imperial Herald political special, she expressed joy at the Emperor's recovery and stated she was kept informed of his condition. When pressed about succession, she deflected with regal dignity, stating debate about the Emperor's death would be rude and disrespectful. She expressed hope for many years serving Emperor Hengist Duval. The live audience booed the commentator and applauded her response.
+player_impact: None
+modern_impact: Arissa Lavigny-Duval's poised handling of succession questions strengthens her image as a dignified heir apparent.
+legacy_weight: 3
+significance: medium
 ---
 
 Is Arissa Lavigny-Duval Next in Line?

@@ -2,32 +2,32 @@
 id: mikunn
 name: Mikunn
 type: location
-first_seen_date: '3302-07-07'
+first_seen_date: '3301-07-27'
 last_seen_date: '3302-07-07'
-mention_count: 1
+mention_count: 2
 related_entities:
-- border-coalition
-- social-eleu-progressive-party
-- galcop
-- eg-pilots
-- irens-dock
+- dukes-of-mikunn
+- mercenaries-of-mikunn
+- hr-7327
+- sukua
+- sefry
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Mikunn
 
-First mentioned: **3302-07-07**  
+First mentioned: **3301-07-27**  
 Last mentioned: **3302-07-07**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Border Coalition]] (1 co-mentions)
-- [[Social Eleu Progressive Party]] (1 co-mentions)
-- [[GalCop]] (1 co-mentions)
-- [[EG Pilots]] (1 co-mentions)
-- [[Irens Dock]] (1 co-mentions)
+- [[Dukes of Mikunn]] (1 co-mentions)
+- [[Mercenaries of Mikunn]] (1 co-mentions)
+- [[HR 7327]] (1 co-mentions)
+- [[Sukua]] (1 co-mentions)
+- [[Sefry]] (1 co-mentions)
 
 ## Biography
 

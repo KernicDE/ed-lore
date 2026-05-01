@@ -4,15 +4,25 @@ title: Security Support Needed For Cerberus Plague Intervention
 slug: security_support_needed_for_cerberus_plague_intervention
 date: '3301-07-16'
 source: GitHub
+persons:
+- Carl Simmons
+groups:
+- Newton Dock Medical
+locations:
+- Dajoar
+- Eleu
+- 20 Ophiuchi
+- Newton Dock
 topics:
 - humanitarian
 - medicine
 - piracy
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague
-  that killed over 100,000.
-legacy_weight: 3
-significance: medium
+summary: Dajoar, Eleu, and 20 Ophiuchi declared states of emergency due to the Cerberus Plague and called on bounty hunters and combat pilots to protect relief efforts. Chief Medical Officer Carl Simmons stated it is too early to confirm mutation of the organism despite indications. A pirate gang claimed to be helping deliver supplies to those the official channels neglect.
+player_impact: Combat pilots and bounty hunters are needed in Dajoar, Eleu, and 20 Ophiuchi to protect plague relief efforts from pirate interference.
+modern_impact: Cerberus Plague spreads to multiple systems, requiring military protection for humanitarian operations as the disease potentially mutates.
+legacy_weight: 4
+significance: high
 ---
 
 Security Support Needed For Cerberus Plague Intervention

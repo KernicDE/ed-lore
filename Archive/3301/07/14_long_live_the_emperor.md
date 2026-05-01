@@ -4,23 +4,23 @@ title: Long Live the Emperor!
 slug: long_live_the_emperor
 date: '3301-07-14'
 source: GitHub
-entities:
+persons:
 - Anders Blaine
-- Hengist Duval awoke
-- Hengist Duval made
+- Hengist Duval
 groups:
 - Imperial Navy
 locations:
+- Capitol
 - Imperial Palace
+- Achenar
 topics:
-- festival
 - medicine
-- ship
 - succession
-modern_impact: Community celebration bringing pilots together for social events and
-  trade opportunities.
-legacy_weight: 1
-significance: low
+summary: Chancellor Anders Blaine announced that Emperor Hengist Duval has awoken from his coma and is well on the way to recovery. Physicians advised a few days of rest before resuming state functions. The news sparked celebrations across Imperial society. Some cynical pundits questioned whether they would believe it until seeing the Emperor in person. As part of celebrations, independent pilots with active Imperial Navy ranks were granted access to purchase the Imperial Courier and Imperial Clipper.
+player_impact: Independent pilots with active Imperial Navy ranks can now purchase the Imperial Courier and Imperial Clipper ships.
+modern_impact: Emperor Hengist Duval's apparent recovery temporarily stabilises the Imperial succession crisis, though scepticism remains.
+legacy_weight: 4
+significance: high
 ---
 
 Long Live The Emperor!

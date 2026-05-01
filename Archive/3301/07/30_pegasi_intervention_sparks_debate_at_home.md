@@ -4,9 +4,14 @@ title: Pegasi Intervention Sparks Debate at Home
 slug: pegasi_intervention_sparks_debate_at_home
 date: '3301-07-30'
 source: GitHub
-entities:
+persons:
+- Arissa Lavigny-Duval
 - Felicia Winters
+- Zachary Hudson
+- Aisling Duval
+- Edgar Starwalker
 groups:
+- Lavigny's Legion
 - Aisling's Angels
 - Kumo Crew
 locations:
@@ -14,14 +19,14 @@ locations:
 - Pegasi Sector
 - Sol
 topics:
-- corporate expansion
 - diplomacy
 - humanitarian
-- ship
 - war
+- politics
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Unaffiliated supporters of Arissa Lavigny-Duval voiced concerns over escalating Pegasi Sector intervention by Lavigny's Legion. Opinion in Kamadhenu is split on the value of intervening in a remote region. Some commanders argue the Empire should address corruption and dictatorships at home first. Anger erupted over diplomatic overtures to the Federation, though Lavigny's Legion denied involvement. Aisling's Angels confirmed their attendance at talks with Federal envoys. Anti-Federation sentiment resurfaced, with reports of at least one commander plotting a course to Sol in response.
+player_impact: Imperial pilots should be aware of domestic political tensions surrounding cooperation with Federation forces in the Pegasi sector.
+modern_impact: Debate over Pegasi intervention reveals deep anti-Federation sentiment among Imperial commanders and questions about prioritising foreign wars over domestic reform.
 legacy_weight: 3
 significance: medium
 ---

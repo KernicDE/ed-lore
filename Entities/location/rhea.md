@@ -2,9 +2,9 @@
 id: rhea
 name: Rhea
 type: location
-first_seen_date: '3302-01-04'
+first_seen_date: '3301-07-31'
 last_seen_date: '3311-05-15'
-mention_count: 24
+mention_count: 25
 related_entities:
 - sirius-corporation
 - 64-arietis
@@ -17,9 +17,9 @@ related_entities:
 
 # Rhea
 
-First mentioned: **3302-01-04**  
+First mentioned: **3301-07-31**  
 Last mentioned: **3311-05-15**  
-Total mentions: **24**
+Total mentions: **25**
 
 ## Related
 

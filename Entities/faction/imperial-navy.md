@@ -2,32 +2,32 @@
 id: imperial-navy
 name: Imperial Navy
 type: faction
-first_seen_date: '3301-07-11'
+first_seen_date: '3301-07-05'
 last_seen_date: '3312-02-20'
-mention_count: 97
+mention_count: 102
 related_entities:
 - federal-navy
 - alliance
 - capitol
-- hip-22460
 - achenar
+- hip-22460
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Imperial Navy
 
-First mentioned: **3301-07-11**  
+First mentioned: **3301-07-05**  
 Last mentioned: **3312-02-20**  
-Total mentions: **97**
+Total mentions: **102**
 
 ## Related
 
 - [[Federal Navy]] (28 co-mentions)
 - [[Alliance]] (24 co-mentions)
-- [[Capitol]] (13 co-mentions)
+- [[Capitol]] (14 co-mentions)
+- [[Achenar]] (13 co-mentions)
 - [[HIP 22460]] (13 co-mentions)
-- [[Achenar]] (12 co-mentions)
 
 ## Biography
 

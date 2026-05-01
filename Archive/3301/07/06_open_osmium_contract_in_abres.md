@@ -4,13 +4,20 @@ title: Open Osmium Contract in Abres
 slug: open_osmium_contract_in_abres
 date: '3301-07-06'
 source: GitHub
+persons:
+- Dale Torrance
+groups:
+- Pangborn Dock
 locations:
+- Abres
 - Torrance
 topics:
 - construction
-- investigation
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- mining
+- trade
+summary: Pangborn Dock in the Abres system released an open contract for a large quantity of Osmium, a rare transition metal used in starship construction alloys. Analysts speculated about a new ship construction player or covert military buildup, but Business Development Spokesperson Dale Torrance refused to confirm, encouraging miners to investigate the contract for credit bonuses.
+player_impact: Miners can investigate the open Osmium contract at Pangborn Dock in Abres for significant credit bonuses.
+modern_impact: Unusual bulk Osmium contract raises speculation about undisclosed ship construction or military preparation.
 legacy_weight: 2
 significance: low
 ---

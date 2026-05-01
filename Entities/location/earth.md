@@ -2,9 +2,9 @@
 id: earth
 name: Earth
 type: location
-first_seen_date: '3303-01-20'
+first_seen_date: '3301-07-12'
 last_seen_date: '3311-06-03'
-mention_count: 15
+mention_count: 16
 related_entities:
 - sol
 - federal-times
@@ -17,9 +17,9 @@ related_entities:
 
 # Earth
 
-First mentioned: **3303-01-20**  
+First mentioned: **3301-07-12**  
 Last mentioned: **3311-06-03**  
-Total mentions: **15**
+Total mentions: **16**
 
 ## Related
 

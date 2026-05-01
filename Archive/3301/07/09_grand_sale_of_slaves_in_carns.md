@@ -4,12 +4,18 @@ title: Grand Sale of Slaves in Carns
 slug: grand_sale_of_slaves_in_carns
 date: '3301-07-09'
 source: GitHub
+persons:
+- Ramon Lamor
+groups:
+- Humason Orbital
 locations:
 - Carns
 topics:
 - slavery
 - trade
-modern_impact: Trade initiative affecting commodity markets and local economies.
+summary: Following the announcement of Carns' economic shift from mining to high-tech, Deputy Communications Officer Ramon Lamor outlined plans to retrain or sell the system's imperial slave workforce. Slaves with relevant skills are being prepared for new roles, while others will be sold at Humason Orbital with a substantial discount financed by the authorities until all slaves find new placements.
+player_impact: Traders can purchase discounted imperial slaves at Humason Orbital in Carns during the transition period.
+modern_impact: Carns' slave sale demonstrates the human cost of economic restructuring in the Empire, where slave labour is treated as a transferable asset.
 legacy_weight: 2
 significance: low
 ---

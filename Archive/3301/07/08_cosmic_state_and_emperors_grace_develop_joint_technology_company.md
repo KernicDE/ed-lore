@@ -4,17 +4,26 @@ title: Cosmic State and Emperor's Grace Develop Joint Technology Company
 slug: cosmic_state_and_emperors_grace_develop_joint_technology_company
 date: '3301-07-08'
 source: GitHub
+persons:
+- Grimnir Allvadderung
+- Admiral Brennus
+- Varrwen Mako Brennus
+- Phantagor
 groups:
 - Emperor's Grace
+- Cosmic State
+- Hammer Arms
+locations:
+- Hel
 topics:
 - corporate expansion
 - research
-- ship
-- sport
-- succession
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+- military
+summary: Hammer Arms of Cosmic State reached an unprecedented agreement with Emperor's Grace, the first such deal between the independent group and an Imperial faction. Grimnir Allvadderung and Admiral Brennus celebrated with mead and an axe-throwing contest. They agreed to a joint venture in technology and weapons research and development, plus a joint military exercise in the Hel system.
+player_impact: None
+modern_impact: First-ever agreement between Cosmic State and an Imperial faction marks a significant independent-Imperial military-industrial partnership.
+legacy_weight: 2
+significance: medium
 ---
 
 Cosmic State and Emperor's Grace Develop Joint Technology Company

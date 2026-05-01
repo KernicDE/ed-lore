@@ -1,23 +1,30 @@
 ---
-uuid: abe21c6e-54ed-5aed-a221-f7efd675d35c
+uuid: abe21c6e-54ed-5aed-a221-7efd675d35c
 title: United Imperial Offensive into Pegasi Sector
 slug: united_imperial_offensive_into_pegasi_sector
 date: '3301-07-08'
 source: GitHub
+persons:
+- Denton Patreus
+- Arissa Lavigny-Duval
+- Archon Delaine
 groups:
 - Kumo Crew
+- Lavigny's Legion
+- Velites Squadron
 locations:
+- Cuchua
 - Harma
 - Pegasi Sector
 topics:
 - piracy
-- ship
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
-legacy_weight: 3
-significance: medium
+summary: Senators Patreus and Lavigny-Duval launched a united Imperial offensive against the Kumo Crew after Cuchua came under attack. Lavigny's Legion deployed to assist Patreus's forces, with the Velites Squadron spearheading operations code-named 'Charybdis' and 'Davy Jones' in Cuchua and Harma. Hundreds of pirate vessels and dozens of Kumo Commanders were downed with minimal Imperial casualties, though fighting continues.
+player_impact: Imperial-aligned pilots are called to join the offensive against Kumo Crew in Cuchua and Harma as part of Operations Charybdis and Davy Jones.
+modern_impact: United Imperial offensive marks a major escalation in the Pegasi Pirate War, with multiple Imperial powers coordinating against Archon Delaine.
+legacy_weight: 4
+significance: high
 ---
 
 United Imperial Offensive into Pegasi Sector

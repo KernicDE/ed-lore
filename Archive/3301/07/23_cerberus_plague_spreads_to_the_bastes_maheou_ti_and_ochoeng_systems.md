@@ -5,16 +5,21 @@ slug: cerberus_plague_spreads_to_the_bastes_maheou_ti_and_ochoeng_systems
 date: '3301-07-23'
 source: GitHub
 locations:
-- Bast
-- Roddenberry Gateway in the Ochoeng
-- Yegorov Station in the Maheou Ti
+- Bastes
+- Shepherd Hub
+- Maheou Ti
+- Yegorov Station
+- Ochoeng
+- Roddenberry Gateway
 topics:
 - medicine
+- plague
 arc_id: cerberus-plague
-modern_impact: Marks a significant phase in the fight against a devastating plague
-  that killed over 100,000.
-legacy_weight: 3
-significance: medium
+summary: Fresh Cerberus Plague cases caused mass panic at Shepherd Hub in Bastes, Yegorov Station in Maheou Ti, and Roddenberry Gateway in Ochoeng. Though case numbers are relatively low, medical services are overwhelmed by citizens seeking treatment. Station authorities appealed for calm, restricted movement to essential travel only, and declared states of emergency with open contracts for urgent medical and aid supplies.
+player_impact: Pilots are needed to deliver medical supplies and aid to Shepherd Hub, Yegorov Station, and Roddenberry Gateway.
+modern_impact: Further spread of Cerberus Plague triggers emergency measures and panic across three more systems.
+legacy_weight: 4
+significance: high
 ---
 
 Cerberus Plague Spreads to The Bastes, Maheou Ti and Ochoeng Systems

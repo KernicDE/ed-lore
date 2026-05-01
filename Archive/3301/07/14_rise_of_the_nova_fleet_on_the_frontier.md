@@ -4,19 +4,24 @@ title: Rise of the Nova Fleet on the Frontier
 slug: rise_of_the_nova_fleet_on_the_frontier
 date: '3301-07-14'
 source: GitHub
-entities:
-- DarkStar decided
+persons:
+- DarkStar
 - Equin0x
 groups:
 - Alliance
 - Pilots Federation
+- Nova Fleet
+locations:
+- Frontier
 topics:
-- ship
+- politics
 - slavery
-- trade
-modern_impact: Ship review and release information for the pilot community.
+- independence
+summary: Commander DarkStar united former Imperial and Federal pilots into the Nova Fleet, a freelancer fleet patrolling the frontier to assist economic development and free colonies from superpower exploitation. Commander Equin0x described how superpowers exploit frontier populations for cheap labour in near-slavery conditions. The Nova Fleet has grown to over 100 ships and attracted political interest from both Empire and Federation. They vow to bring security to the frontier even if it means fighting superpowers or aliens.
+player_impact: Independent pilots can join the Nova Fleet to patrol frontier systems and support local economic development free from superpower control.
+modern_impact: Rise of the Nova Fleet represents growing independent sentiment on the frontier, challenging superpower control of peripheral systems.
 legacy_weight: 2
-significance: low
+significance: medium
 ---
 
 Rise of The Nova Fleet on The Frontier

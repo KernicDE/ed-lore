@@ -4,13 +4,25 @@ title: Governor Joel Xander Removed from Office and Arrested
 slug: governor_joel_xander_removed_from_office_and_arrested
 date: '3301-07-19'
 source: GitHub
-entities:
-- Joel Xander Removed
+persons:
+- Joel Xander
+- King Justice II
+- Anxo Lino
+groups:
+- Federal Intelligence Agency
+- Justice Party
+- BD-22 3573 Flag
+locations:
+- BD-22 3573
+- Forrester Station
 topics:
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+- crime
+- politics
+summary: Federal Governor Joel Xander of BD-22 3573 was removed from office and arrested in a surprise Federal Intelligence Agency raid. Xander and his family were escorted off-planet. No official statement was made, but speculation centres on his close relations with local rulers King Justice II of the Justice Party and Supreme Leader Anxo Lino of BD-22 3573 Flag.
+player_impact: None
+modern_impact: Arrest of a Federal governor signals potential crackdown on local power structures that challenge Federal authority.
+legacy_weight: 3
+significance: medium
 ---
 
 Governor Joel Xander Removed from Office and Arrested

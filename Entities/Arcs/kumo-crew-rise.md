@@ -7,10 +7,10 @@ mention_count: 42
 significance: medium
 key_entities:
 - kumo-crew
-- pilots-federation
 - imperial-navy
+- pilots-federation
+- lavignys-legion
 - kumo-council
-- utopia
 ---
 
 <!-- AUTO-GENERATED -->
@@ -24,10 +24,10 @@ Articles: **42**
 ## Key Figures
 
 - [[Kumo Crew]] (33 mentions)
+- [[Imperial Navy]] (9 mentions)
 - [[Pilots Federation]] (8 mentions)
-- [[Imperial Navy]] (5 mentions)
+- [[Lavigny's Legion]] (6 mentions)
 - [[Kumo Council]] (5 mentions)
-- [[Utopia]] (4 mentions)
 
 ## Description
 

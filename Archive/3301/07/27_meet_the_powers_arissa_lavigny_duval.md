@@ -4,13 +4,26 @@ title: Meet the Powers – Arissa Lavigny Duval
 slug: meet_the_powers_arissa_lavigny_duval
 date: '3301-07-27'
 source: GitHub
-entities:
+persons:
+- Arissa Lavigny-Duval
+- Aristide de Lavigny
+- Florence Lavigny
 - Hengist Duval
+- Aisling Duval
+- Marcus Macmillan
+groups:
+- Imperial Senate
+locations:
+- Capitol
+- Achenar
 topics:
+- politics
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
-legacy_weight: 2
-significance: low
+summary: Political commentator Marcus Macmillan profiles Senator Arissa Lavigny-Duval. Daughter of the late Prince Aristide de Lavigny, she is technically a princess but prefers to represent herself through achievements. She rivals Aisling Duval in popularity, tackling hard issues head-on with a primary platform of honour and anti-corruption. She is a familiar face in the Imperial court and her views often reflect the Emperor's. The planned wedding between Emperor Hengist Duval and her mother Florence Lavigny will secure her position as next in line.
+player_impact: None
+modern_impact: Profile establishes Arissa Lavigny-Duval as a leading Imperial succession candidate combining royal bloodline with a strong anti-corruption platform.
+legacy_weight: 3
+significance: medium
 ---
 
 Meet The Powers – Arissa Lavigny-Duval

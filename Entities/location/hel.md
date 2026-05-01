@@ -2,28 +2,32 @@
 id: hel
 name: Hel
 type: location
-first_seen_date: '3301-12-17'
+first_seen_date: '3301-07-08'
 last_seen_date: '3301-12-17'
-mention_count: 1
+mention_count: 3
 related_entities:
-- hel-purple-energy-industry
-- snow-moon
-- bento
+- emperors-grace
+- cosmic-state
+- hammer-arms
+- adles-armada
+- labour-party-of-caill-reddi
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Hel
 
-First mentioned: **3301-12-17**  
+First mentioned: **3301-07-08**  
 Last mentioned: **3301-12-17**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 
-- [[Hel Purple Energy Industry]] (1 co-mentions)
-- [[Snow Moon]] (1 co-mentions)
-- [[Bento]] (1 co-mentions)
+- [[Emperor's Grace]] (2 co-mentions)
+- [[Cosmic State]] (2 co-mentions)
+- [[Hammer Arms]] (2 co-mentions)
+- [[Adle's Armada]] (1 co-mentions)
+- [[Labour Party of Caill Reddi]] (1 co-mentions)
 
 ## Biography
 

@@ -1,20 +1,22 @@
 ---
 uuid: 7d013785-9418-5c04-8446-8e8dca9a7e51
-title: Mahon speaks out on Alliance Values
+title: Mahon Speaks out on Alliance Values
 slug: mahon_speaks_out_on_alliance_values
 date: '3301-07-02'
 source: GitHub
-entities:
-- Mahon gave
+persons:
+- Edmund Mahon
 groups:
 - Alliance
 locations:
 - Alioth
 topics:
-- sport
+- politics
+- diplomacy
 arc_id: alliance-expansion
-modern_impact: Demonstrates the Alliance's growing economic and diplomatic influence
-  through Mahon's trade agreements.
+summary: Prime Minister Edmund Mahon gave a speech to Alioth University graduates emphasising the Alliance's founding principle of freedom. He described how the Alliance was born from escaping Federation and Empire exploitation, warned against becoming like the superpowers, and highlighted recent successes in the Old Worlds region as evidence of a more robust future for Alliance influence.
+player_impact: None
+modern_impact: Mahon's speech articulates the Alliance's identity as a third way between Federation and Empire, framing its expansion as defensive rather than imperial.
 legacy_weight: 3
 significance: medium
 ---

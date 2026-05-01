@@ -1,0 +1,23 @@
+---
+id: captain-anopheles
+name: Captain Anopheles
+type: person
+first_seen_date: '3301-07-24'
+last_seen_date: '3301-07-24'
+mention_count: 1
+---
+
+<!-- AUTO-GENERATED -->
+
+# Captain Anopheles
+
+First mentioned: **3301-07-24**  
+Last mentioned: **3301-07-24**  
+Total mentions: **1**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

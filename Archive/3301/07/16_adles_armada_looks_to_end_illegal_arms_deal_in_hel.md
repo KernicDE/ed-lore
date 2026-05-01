@@ -4,22 +4,29 @@ title: Adle's Armada Looks to End Illegal Arms Deal in Hel
 slug: adles_armada_looks_to_end_illegal_arms_deal_in_hel
 date: '3301-07-16'
 source: GitHub
-entities:
+persons:
 - Grimnir Allvadderung
+- Vaarwen Mako Brennus
+- Tyllerius Adle III
 groups:
 - Emperor's Grace
+- Cosmic State
+- Hammer Arms
+- Adle's Armada
+- Labour Party of Caill Reddi
+- League of Hel
+locations:
+- Hel
+- Jones Orbital
 topics:
-- corporate expansion
 - crime
-- safety
-- sport
-- succession
-- trade
 - war
-modern_impact: Pilot safety initiative with potential regulatory implications for
-  starship design.
-legacy_weight: 1
-significance: low
+- trade
+summary: Adle's Armada, a Federally aligned militia, responded to reports of an illegal arms deal between Cosmic State's Hammer Arms and Emperor's Grace. Leader Tyllerius Adle III condemned the deal and laid siege to the League of Hel, putting the system in lockdown. Citizens are turning against the arms dealers, and a civil war may erupt between hungry citizens and the League of Hel. The outcome will determine whether Hel becomes a Federally aligned system under the Labour Party of Caill Reddi or continues its weapons trade.
+player_impact: Federal-aligned pilots can support Adle's Armada in the Hel system to blockade the League of Hel and end the illegal arms deal.
+modern_impact: Adle's Armada's intervention in Hel escalates tensions between Federal militia and the Cosmic State-Emperor's Grace arms partnership.
+legacy_weight: 2
+significance: medium
 ---
 
 Adle's Armada Looks to End Illegal Arms Deal in Hel

@@ -2,9 +2,9 @@
 id: federal-intelligence-agency
 name: Federal Intelligence Agency
 type: faction
-first_seen_date: '3304-05-24'
+first_seen_date: '3301-07-19'
 last_seen_date: '3309-03-31'
-mention_count: 62
+mention_count: 64
 related_entities:
 - far-god-cult
 - federal-times
@@ -17,9 +17,9 @@ related_entities:
 
 # Federal Intelligence Agency
 
-First mentioned: **3304-05-24**  
+First mentioned: **3301-07-19**  
 Last mentioned: **3309-03-31**  
-Total mentions: **62**
+Total mentions: **64**
 
 ## Related
 

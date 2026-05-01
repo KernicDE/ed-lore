@@ -4,13 +4,13 @@ name: Rishair
 type: location
 first_seen_date: '3301-07-05'
 last_seen_date: '3301-08-14'
-mention_count: 2
+mention_count: 3
 related_entities:
 - emperors-grace
-- denton-patreus
-- patreus-agreed
-- denton
-- imperial-inquisition
+- aislings-angels
+- imperial-navy
+- chona
+- cosmic-state
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-07-05**  
 Last mentioned: **3301-08-14**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
-- [[Emperor's Grace]] (2 co-mentions)
-- [[Denton Patreus]] (1 co-mentions)
-- [[Patreus agreed]] (1 co-mentions)
-- [[Denton]] (1 co-mentions)
-- [[Imperial Inquisition]] (1 co-mentions)
+- [[Emperor's Grace]] (3 co-mentions)
+- [[Aisling's Angels]] (1 co-mentions)
+- [[Imperial Navy]] (1 co-mentions)
+- [[Chona]] (1 co-mentions)
+- [[Cosmic State]] (1 co-mentions)
 
 ## Biography
 

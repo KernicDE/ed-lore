@@ -4,16 +4,27 @@ title: Meet the Powers – Felicia Winters
 slug: meet_the_powers_felicia_winters
 date: '3301-07-29'
 source: GitHub
-entities:
+persons:
 - Felicia Winters
+- Jasmina Halsey
 - Nigel Smeaton
+- Zachary Hudson
+- Marcus Macmillan
+groups:
+- Liberal Party
+- Federation
+locations:
+- Taylor Colony
+- Mars
+- Sol
 topics:
-- war
+- politics
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
-legacy_weight: 4
-significance: high
+summary: Political commentator Marcus Macmillan profiles Shadow President Felicia Winters. Thrust into leadership of the Liberal Party after President Halsey's disappearance and Vice President Nigel Smeaton's murder, she inherited a party in crisis. Born and raised on Taylor Colony, Winters believes humanity cannot always be trusted to do the right thing and sees it as her duty to push for the hard but correct choice. She has proven a versatile opponent, running level with President Hudson in polls as voters turn away from his aggressive rhetoric.
+player_impact: None
+modern_impact: Profile establishes Felicia Winters as a formidable political force rising from crisis to challenge President Hudson's hardline policies.
+legacy_weight: 3
+significance: medium
 ---
 
 Meet The Powers – Felicia Winters

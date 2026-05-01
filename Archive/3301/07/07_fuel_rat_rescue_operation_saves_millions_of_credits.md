@@ -4,18 +4,24 @@ title: Fuel Rat Rescue Operation Saves Millions of Credits
 slug: fuel_rat_rescue_operation_saves_millions_of_credits
 date: '3301-07-07'
 source: GitHub
+persons:
+- Fionn Mac Cumhaill
+- Beornfrið
+- Kerenn
+- Anuranium
 groups:
 - Fuel Rats
 - Pilots Federation
 locations:
-- Asp Explorer in the PRAEA EUQ SY-S B3-3
+- PRAEA EUQ SY-S B3-3
 topics:
 - exploration
 - humanitarian
-- war
-modern_impact: Humanitarian effort by the pilot community to assist those in need.
-legacy_weight: 1
-significance: low
+summary: Commander Fionn Mac Cumhaill was rescued by Fuel Rats Beornfrið, Kerenn, and Anuranium after mistakenly targeting a T-Tauri star with empty fuel tanks. They located his Asp Explorer with oxygen at just 41 seconds remaining. The rescue saved 12 million credits of exploration data and his Pilots Federation Pioneer promotion.
+player_impact: Pilots running out of fuel anywhere can call the Fuel Rats' 24/7 dispatch service for emergency rescue.
+modern_impact: Fuel Rat rescue in extreme circumstances demonstrates the group's life-saving operations even in remote deep space.
+legacy_weight: 2
+significance: medium
 ---
 
 Fuel Rat Rescue Operation Saves Millions of Credits

@@ -2,32 +2,32 @@
 id: republican-party
 name: Republican Party
 type: faction
-first_seen_date: '3303-07-01'
+first_seen_date: '3301-07-30'
 last_seen_date: '3309-02-27'
-mention_count: 2
+mention_count: 3
 related_entities:
 - liberal-party
-- alliance
-- federal-congress
-- kappa-fornacis
-- pleiades-nebula
+- federal-navy
+- federation
+- mars
+- sol
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Republican Party
 
-First mentioned: **3303-07-01**  
+First mentioned: **3301-07-30**  
 Last mentioned: **3309-02-27**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 
 - [[Liberal Party]] (2 co-mentions)
-- [[Alliance]] (1 co-mentions)
-- [[Federal Congress]] (1 co-mentions)
-- [[Kappa Fornacis]] (1 co-mentions)
-- [[Pleiades Nebula]] (1 co-mentions)
+- [[Federal Navy]] (1 co-mentions)
+- [[Federation]] (1 co-mentions)
+- [[Mars]] (1 co-mentions)
+- [[Sol]] (1 co-mentions)
 
 ## Biography
 

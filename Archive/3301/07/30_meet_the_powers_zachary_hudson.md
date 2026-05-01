@@ -4,13 +4,25 @@ title: Meet the Powers – Zachary Hudson
 slug: meet_the_powers_zachary_hudson
 date: '3301-07-30'
 source: GitHub
+persons:
+- Zachary Hudson
+- Jasmina Halsey
+- Marcus Macmillan
 groups:
 - Federal Navy
+- Republican Party
+- Federation
+locations:
+- Mars
+- Sol
 topics:
-- ship
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+- politics
+- military
+summary: Political commentator Marcus Macmillan profiles Federal President Zachary Hudson. He became President after Halsey's disappearance and a Senate vote of no confidence. A military advocate, he supports CQC Championship as a Federal Navy recruitment tool and is expanding the fleet. He believes in minimal government burden, with extensive tax reductions planned, though this has drawn criticism from those who relied on government support. He advocates personal freedom balanced by individual responsibility. For recreation, he hunts on frontier worlds.
+player_impact: None
+modern_impact: Profile establishes Zachary Hudson as a militaristic, small-government president expanding Federal Navy capabilities while cutting domestic spending.
+legacy_weight: 3
+significance: medium
 ---
 
 Meet The Powers – Zachary Hudson

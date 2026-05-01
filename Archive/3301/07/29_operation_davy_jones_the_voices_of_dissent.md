@@ -1,23 +1,30 @@
 ---
 uuid: a210772e-cf66-5986-b067-f5664fdac402
-title: Operation Davy Jones   The Voices of Dissent
+title: Operation Davy Jones - The Voices of Dissent
 slug: operation_davy_jones_the_voices_of_dissent
 date: '3301-07-29'
 source: GitHub
-entities:
+persons:
 - Edgar Starwalker
 - Great Gig
+- Arissa Lavigny-Duval
+- Aisling Duval
+- Archon Delaine
+- Cadoc
 groups:
 - Kumo Crew
+- Lavigny's Legion
+- Velites Squadron
 locations:
 - Achenar
 - Pegasi Sector
 topics:
-- corporate expansion
+- politics
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: While Imperial forces continue pressuring Archon Delaine in Operation Davy Jones, dissent is growing at home. Commander Edgar Starwalker, aligned with Arissa Lavigny-Duval, questioned prioritising distant systems over corruption on Imperial doorsteps. Concerns about turmoil in Arissa's territory have led some to question committing large forces to Pegasi. Outrage was sparked by Aisling Duval supporters soliciting Federal commander help. Commander Great Gig of the Velites Squadron expressed sadness at Imperial commanders contacting the Federation for cooperation, questioning whether the Empire should seek aid from its ideological rival.
+player_impact: Imperial pilots engaged in Operation Davy Jones face both military resistance and political criticism at home over the campaign's priorities.
+modern_impact: Internal dissent over Operation Davy Jones reveals fractures in Imperial unity, with some questioning the cost and even the alliance with Federal forces.
 legacy_weight: 3
 significance: medium
 ---

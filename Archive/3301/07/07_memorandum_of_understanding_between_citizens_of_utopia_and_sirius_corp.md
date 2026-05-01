@@ -4,18 +4,24 @@ title: Memorandum of Understanding between citizens of Utopia and Sirius Corp
 slug: memorandum_of_understanding_between_citizens_of_utopia_and_sirius_corp
 date: '3301-07-07'
 source: GitHub
+persons:
+- Pranav Antal
 groups:
 - Sirius Corp
 - Sirius Gov
 - Utopia
 locations:
 - Sirius
+- Lembava
+- Polevnic
 topics:
-- ship
+- diplomacy
 - trade
-modern_impact: Ship review and release information for the pilot community.
-legacy_weight: 1
-significance: low
+summary: Utopian and Sirius Gov commanders agreed a non-aggression pact recognising each other's right to exist and allowing free travel within each other's space. Freelance commanders can sign the pact in Lembava or Polevnic. The agreement aims to promote trade and ensure continued prosperity in both independent territories.
+player_impact: Freelance commanders can sign the non-aggression pact in Lembava or Polevnic, gaining safe passage in Utopian and Sirius Gov space.
+modern_impact: Utopia-Sirius Corp non-aggression pact creates a stable trade corridor between two independent powers.
+legacy_weight: 2
+significance: medium
 ---
 
 Memorandum of Understanding between citizens of Utopia and Sirius Corp

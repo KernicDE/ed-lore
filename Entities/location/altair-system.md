@@ -22,7 +22,7 @@ Total mentions: **1**
 ## Related
 
 - [[Altair Purple Mob]] (1 co-mentions)
-- [[Federal government]] (1 co-mentions)
+- [[Federal Government]] (1 co-mentions)
 - [[Grandin Gateway]] (1 co-mentions)
 
 ## Biography

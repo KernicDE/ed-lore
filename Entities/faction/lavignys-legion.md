@@ -2,32 +2,32 @@
 id: lavignys-legion
 name: Lavigny's Legion
 type: faction
-first_seen_date: '3301-08-24'
+first_seen_date: '3301-07-08'
 last_seen_date: '3308-09-29'
-mention_count: 7
+mention_count: 13
 related_entities:
-- carthage
-- marker-depot
+- kumo-crew
+- kamadhenu
 - imperial-navy
-- citizens-relief-trust
-- pilots-federation
+- velites-squadron
+- carthage
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Lavigny's Legion
 
-First mentioned: **3301-08-24**  
+First mentioned: **3301-07-08**  
 Last mentioned: **3308-09-29**  
-Total mentions: **7**
+Total mentions: **13**
 
 ## Related
 
+- [[Kumo Crew]] (5 co-mentions)
+- [[Kamadhenu]] (4 co-mentions)
+- [[Imperial Navy]] (4 co-mentions)
+- [[Velites Squadron]] (3 co-mentions)
 - [[Carthage]] (3 co-mentions)
-- [[Marker Depot]] (3 co-mentions)
-- [[Imperial Navy]] (2 co-mentions)
-- [[Citizens' Relief Trust]] (2 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
 
 ## Biography
 

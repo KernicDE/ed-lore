@@ -4,16 +4,22 @@ title: The Code Leaves Archon Delaine's Crew
 slug: the_code_leaves_archon_delaines_crew
 date: '3301-07-24'
 source: GitHub
+persons:
+- Captain Anopheles
+- Archon Delaine
 groups:
-- Alliance
+- The Code
+- Kumo Crew
 locations:
 - Harma
 topics:
 - piracy
-- slavery
-modern_impact: Anti-piracy operation protecting trade routes and civilian shipping.
-legacy_weight: 2
-significance: low
+- politics
+summary: Captain Anopheles and The Code pirate crew have left Archon Delaine's Kumo Crew alliance. Discontent began when they discovered running systems involved bureaucracy rather than the expected pirate lifestyle. The final straw was disappointment with a new weapon reveal. After a 'frank and lively debate with added knives', Archon refused to change, so The Code departed. They now return to roaming as 'independent asset redistributors', abandoning administration for traditional piracy.
+player_impact: Pilots in Kumo Crew space may encounter The Code operating independently as roaming pirates rather than allied forces.
+modern_impact: Defection of The Code weakens Archon Delaine's coalition and signals internal dissatisfaction within the Kumo Crew organisation.
+legacy_weight: 3
+significance: medium
 ---
 
 The Code Leaves Archon Delaine's Crew
