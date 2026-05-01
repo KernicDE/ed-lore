@@ -4,13 +4,13 @@ name: Munshin
 type: location
 first_seen_date: '3301-08-13'
 last_seen_date: '3304-09-22'
-mention_count: 10
+mention_count: 11
 related_entities:
 - libertas-cooperative
 - ocrinoxs-orbiter
+- kumo-crew
+- utopia
 - imperial-navy
-- defence-force-of-amitrite
-- amitrite
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-08-13**  
 Last mentioned: **3304-09-22**  
-Total mentions: **10**
+Total mentions: **11**
 
 ## Related
 
-- [[Libertas Cooperative]] (7 co-mentions)
+- [[Libertas Cooperative]] (8 co-mentions)
 - [[Ocrinox's Orbiter]] (6 co-mentions)
+- [[Kumo Crew]] (2 co-mentions)
+- [[Utopia]] (2 co-mentions)
 - [[Imperial Navy]] (2 co-mentions)
-- [[Defence Force of Amitrite]] (2 co-mentions)
-- [[Amitrite]] (2 co-mentions)
 
 ## Biography
 

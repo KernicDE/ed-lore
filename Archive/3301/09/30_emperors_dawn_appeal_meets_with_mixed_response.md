@@ -2,17 +2,20 @@
 uuid: 66b52278-c781-51c6-9fa2-3df210c10f61
 title: Emperor's Dawn Appeal Meets with Mixed Response
 slug: emperors_dawn_appeal_meets_with_mixed_response
-date: '3301-09-30'
+date: 3301-09-30
 source: GitHub
 groups:
 - Emperor's Dawn
+locations: []
+technologies: []
 topics:
 - narcotics
 - succession
 - war
 arc_id: imperial-succession
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+summary: Emperor's Dawn's public appeal for progenitor cells and narcotics received a mixed response. While those opposing the Empire were eager to help, many independent traders found supporting a known enemy unthinkable. The request for progenitor cells succeeded, but the narcotics request failed, reflecting the divided attitude toward the insurgent group. The impact on Emperor's Dawn's future capabilities remains uncertain.
+player_impact: The mixed response to Emperor's Dawn's supply appeal suggests the group may face resource constraints. Pilots should continue monitoring the conflict and supporting Imperial forces where possible.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

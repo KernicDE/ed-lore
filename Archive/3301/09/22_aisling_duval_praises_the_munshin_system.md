@@ -2,16 +2,18 @@
 uuid: 133991fb-0db1-5e9b-9033-af471d5210cc
 title: Aisling Duval Praises the Munshin System
 slug: aisling_duval_praises_the_munshin_system
-date: '3301-09-22'
+date: 3301-09-22
 source: GitHub
-entities:
-- Quade Aisling Duval Praises
+persons:
+- Aisling Duval
+- Quade
 groups:
 - Imperial Navy
 - Libertas Cooperative
 locations:
 - Munshin
 - Ocrinox's Orbiter
+technologies: []
 topics:
 - humanitarian
 - medicine
@@ -19,8 +21,9 @@ topics:
 - ship
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Princess Aisling Duval praised relief workers in the Munshin system, calling them true examples of Imperial citizenship and heroes. She extended gratitude to the Libertas Cooperative and commanders delivering medicines to Ocrinox's Orbiter. Critics immediately accused her of overlooking Imperial Navy pilots killed in the Pegasi Pirate War, questioning where her support was for their families.
+player_impact: Pilots continuing to deliver medicines to Ocrinox's Orbiter are recognized by Princess Aisling Duval for their humanitarian efforts. However, the praise has drawn criticism from those supporting the military effort in the Pegasi Sector.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---

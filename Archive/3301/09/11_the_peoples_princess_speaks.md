@@ -2,13 +2,20 @@
 uuid: d1ba606a-a92d-5487-bee8-5a38e8fd3580
 title: The People’s Princess Speaks
 slug: the_peoples_princess_speaks
-date: '3301-09-11'
+date: 3301-09-11
 source: GitHub
+persons:
+- Aisling Duval
+groups:
+- Imperial Herald
 locations:
 - Capitol
+technologies: []
 topics:
 - slavery
 - succession
+summary: At a public charity event where several dozen slaves were freed, Princess Aisling Duval claimed she was the natural heir to the Imperial throne as the closest living relative of Emperor Hengist Duval. Her attempt to gloss over the legal succession process sparked angry rebuttals from legal experts and rival candidates, though street polls showed near-universal public support for the Princess.
+player_impact: None
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

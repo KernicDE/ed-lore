@@ -4,15 +4,23 @@ title: Chancellor Blaine Opens Senate Debate
 slug: chancellor_blaine_opens_senate_debate
 date: '3301-09-07'
 source: GitHub
-entities:
-- Anders Blaine opened
+persons:
+- Anders Blaine
 - Arissa Lavigny-Duval
-- Blaine Opens Senate Debate
+- Aisling Duval
+- Denton Patreus
+- Zemina Torval
+- Florence Lavigny
+groups:
+- Imperial Senate
 locations:
 - Capitol
+- Imperial Palace
 topics:
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: Chancellor Anders Blaine opened the Senate debate on the Imperial succession, stating that the law required a decision by October 5th. Blaine urged senators to consider Emperor Hengist Duval's wishes, noting his intention for Arissa Lavigny-Duval to become heir. Candidates must be of royal blood or marriage with clear Senate majority. The succession race was now formally underway with one month to decide.
+player_impact: The Senate's choice will determine the next Emperor and shape Imperial policy. Pilots aligned with Imperial powers should monitor which candidate gains support from key senators like Patreus and Torval.
+modern_impact: Formal beginning of the Imperial succession process following Emperor Hengist Duval's death.
 legacy_weight: 2
 significance: low
 ---

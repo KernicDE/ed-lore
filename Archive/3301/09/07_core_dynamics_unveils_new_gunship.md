@@ -7,9 +7,17 @@ source: GitHub
 groups:
 - Core Dynamics
 - Federal Navy
+locations:
+- Sol
+technologies:
+- Federal Gunship
+- Federal Dropship
+- Farragut Battle Cruiser
+- Eagle Mk II
 topics:
 - ship
-- war
+summary: Core Dynamics unveiled the Federal Gunship, a combat vessel designed as a superior fighter escort for the Federal Navy. With seven external hardpoints (two small, four medium, one large) and advanced armor and shields, it outclasses the Federal Dropship in combat but sacrifices speed and maneuverability with a top speed of 170 and boost of 280. Available to Ensign-rank pilots and above for 45,814,000 CR.
+player_impact: Federal Navy pilots of Ensign rank or higher can purchase the Federal Gunship, a heavy combat-focused vessel ideal for domination rather than speed. It offers superior firepower over the Dropship at the cost of agility.
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low

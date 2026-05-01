@@ -23,7 +23,7 @@ Articles: **41**
 
 ## Key Figures
 
-- [[Kumo Crew]] (31 mentions)
+- [[Kumo Crew]] (32 mentions)
 - [[Pilots Federation]] (7 mentions)
 - [[Kumo Council]] (5 mentions)
 - [[Utopia]] (4 mentions)

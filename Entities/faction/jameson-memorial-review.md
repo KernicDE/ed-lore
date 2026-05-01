@@ -8,9 +8,9 @@ mention_count: 2
 related_entities:
 - interstellar-press
 - jameson-memorial
-- corrigendum
-- sataris
 - pilots-federation
+- east-india-company
+- universal-cartographics
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **2**
 
 - [[Interstellar Press]] (2 co-mentions)
 - [[Jameson Memorial]] (2 co-mentions)
-- [[Corrigendum]] (1 co-mentions)
-- [[Sataris]] (1 co-mentions)
 - [[Pilots Federation]] (1 co-mentions)
+- [[East India Company]] (1 co-mentions)
+- [[Universal Cartographics]] (1 co-mentions)
 
 ## Biography
 

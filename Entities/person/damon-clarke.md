@@ -2,32 +2,21 @@
 id: damon-clarke
 name: Damon Clarke
 type: person
-first_seen_date: '3301-09-19'
-last_seen_date: '3301-09-19'
-mention_count: 1
-related_entities:
-- aisling-duval
-- aislings-angels
-- emperors-dawn
-- imperial-herald
-- cemiess
+first_seen_date: '3301-09-18'
+last_seen_date: '3302-03-16'
+mention_count: 7
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Damon Clarke
 
-First mentioned: **3301-09-19**  
-Last mentioned: **3301-09-19**  
-Total mentions: **1**
+First mentioned: **3301-09-18**  
+Last mentioned: **3302-03-16**  
+Total mentions: **7**
 
 ## Related
 
-- [[Aisling Duval]] (1 co-mentions)
-- [[Aisling's Angels]] (1 co-mentions)
-- [[Emperor's Dawn]] (1 co-mentions)
-- [[Imperial Herald]] (1 co-mentions)
-- [[Cemiess]] (1 co-mentions)
 
 ## Biography
 

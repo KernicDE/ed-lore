@@ -9,8 +9,8 @@ related_entities:
 - cemiess
 - imperial-internal-security-service
 - achenar
-- cope
-- iiss
+- cemiess-imperial-society
+- alliance
 ---
 
 <!-- AUTO-GENERATED -->
@@ -26,8 +26,8 @@ Total mentions: **11**
 - [[Cemiess]] (11 co-mentions)
 - [[Imperial Internal Security Service]] (3 co-mentions)
 - [[Achenar]] (3 co-mentions)
-- [[Cope]] (2 co-mentions)
-- [[IISS]] (2 co-mentions)
+- [[Cemiess Imperial Society]] (2 co-mentions)
+- [[Alliance]] (2 co-mentions)
 
 ## Biography
 

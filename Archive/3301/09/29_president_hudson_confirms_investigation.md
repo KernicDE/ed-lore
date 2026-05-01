@@ -2,24 +2,27 @@
 uuid: 5677c891-a942-5f45-a9a9-078762eb519e
 title: President Hudson Confirms Investigation
 slug: president_hudson_confirms_investigation
-date: '3301-09-29'
+date: 3301-09-29
 source: GitHub
-entities:
-- President Zachary Hudson
+persons:
+- Zachary Hudson
 - Felicia Winters
 groups:
 - Federal Security Service
+- Federal Times
 locations:
 - Sol
 - Mars
 - White House
+technologies: []
 topics:
 - investigation
 - conspiracy
 arc_id: federal-politics
 arc_chapter: Hudson relents
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
+summary: President Hudson responded to Shadow President Winters's call for an investigation into the Federal Times allegations. At a White House press conference, he instructed agencies to pursue the evidence, promising wrongdoers would be prosecuted if allegations proved true. The Federal Security Service was named lead agency. Winters responded by noting Hudson was ignoring the call for an open investigation.
+player_impact: The Federal Security Service is now leading the investigation into the Antares conspiracy and Smeaton's murder. Pilots should watch for developments as the Federal political crisis continues to unfold.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---

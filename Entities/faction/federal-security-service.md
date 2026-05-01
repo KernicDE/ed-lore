@@ -24,7 +24,7 @@ Total mentions: **36**
 ## Related
 
 - [[Mars]] (12 co-mentions)
-- [[Federal Times]] (10 co-mentions)
+- [[Federal Times]] (11 co-mentions)
 - [[Mars Tribune]] (9 co-mentions)
 - [[Alliance]] (9 co-mentions)
 - [[Achilles Corporation]] (8 co-mentions)

@@ -2,14 +2,19 @@
 uuid: 8886f6d6-5ff4-5c95-bae9-600ab18b99af
 title: Sothis Crystalline Gold
 slug: sothis_crystalline_gold
-date: '3301-09-25'
+date: 3301-09-25
 source: GitHub
+groups: []
 locations:
-- Newholm Station
 - Sothis
+- Newholm Station
+technologies:
+- Sothis Crystalline Gold
 topics:
 - exploration
 - research
+summary: Scientists at Newholm Station in the Sothis system discovered a new metalloid called Sothis Crystalline Gold, produced by exposing ordinary gold to thermal vent gases on planets Sothis A5 and A6. The transformation process is not fully understood, but the resultant metal is completely unique. Scientists are offering pilots quantities of the rare material in exchange for delivering gold to Newholm Station for further testing.
+player_impact: Pilots can deliver gold to Newholm Station in the Sothis system to receive Sothis Crystalline Gold and help scientists conduct further tests on this unique new material.
 modern_impact: Notable exploration achievement expanding the boundaries of known space.
 legacy_weight: 2
 significance: low

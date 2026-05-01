@@ -2,20 +2,24 @@
 uuid: ddd18d21-0b9c-53db-a8e0-d3969750145c
 title: Federal Research Programme Terminated
 slug: federal_research_programme_terminated
-date: '3301-09-20'
+date: 3301-09-20
 source: GitHub
-entities:
+persons:
 - Ishmael Palin
-- Palin
-- Palin declined
+- Aoishe Quaid
+groups: []
 locations:
 - Fort Harrison
+technologies:
+- Unknown Artefact
+- Anomalous Extraterrestrial Object
 topics:
 - research
 - safety
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+summary: The Federal research programme studying anomalous extraterrestrial objects was abruptly terminated by Fort Harrison station governor Aoishe Quaid only one week after its inauguration. Sources suggested Quaid was pressured into the decision despite her enthusiasm for the project. The quasi-organic objects, capable of broadcasting location data across vast distances, were considered the scientific find of the decade. Professor Ishmael Palin declined to comment.
+player_impact: The termination of UA research raises questions about who is suppressing information about these mysterious artefacts. Pilots should be cautious when transporting unknown artefacts, which can damage ship systems.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 5
 significance: high
 ---

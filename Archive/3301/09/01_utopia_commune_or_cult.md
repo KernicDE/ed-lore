@@ -4,15 +4,17 @@ title: Utopia  Commune or Cult
 slug: utopia_commune_or_cult
 date: '3301-09-01'
 source: GitHub
-entities:
+persons:
 - Stateira "Starcloak" Eleshenar
+- Pranav Antal
 groups:
 - Interstellar Press
 - Utopia
 topics:
 - scandal
-- war
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: Former Utopia members made disturbing allegations that the commune operates like a cult, including kidnapping and imprisoning dissidents. One anonymous witness claimed his sister disappeared after discovering the overseer was locking up people who questioned Antal's wisdom. A Utopian aide denied the accusations, inviting visitors to experience their sim-archives.
+player_impact: Pilots considering joining Utopia should be aware of the allegations. The commune's rapid growth to 91.8 billion members raises questions about its methods and true nature.
+modern_impact: Raises questions about the nature of Utopia and its methods of dealing with dissent.
 legacy_weight: 2
 significance: low
 ---

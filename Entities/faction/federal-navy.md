@@ -27,7 +27,7 @@ Total mentions: **132**
 - [[Alliance]] (24 co-mentions)
 - [[Aegis]] (19 co-mentions)
 - [[HIP 22460]] (16 co-mentions)
-- [[Sol]] (14 co-mentions)
+- [[Sol]] (15 co-mentions)
 
 ## Biography
 

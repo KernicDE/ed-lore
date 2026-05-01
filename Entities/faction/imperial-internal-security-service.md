@@ -4,7 +4,7 @@ name: Imperial Internal Security Service
 type: faction
 first_seen_date: '3301-08-28'
 last_seen_date: '3312-02-10'
-mention_count: 52
+mention_count: 53
 related_entities:
 - nmla
 - league-of-reparation
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-08-28**  
 Last mentioned: **3312-02-10**  
-Total mentions: **52**
+Total mentions: **53**
 
 ## Related
 

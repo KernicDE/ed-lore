@@ -4,12 +4,18 @@ title: The Hutton Mug
 slug: the_hutton_mug
 date: '3301-09-03'
 source: GitHub
+persons:
+- Chase Fulbright
+groups:
+- BlipMagnet
 locations:
 - Alpha Centauri
+- Hutton Orbital
 topics:
-- construction
-- ship
-modern_impact: Ship review and release information for the pilot community.
+- trade
+summary: BlipMagnet announced the Hutton Mug, a commemorative beaker for pilots who complete the epic journey to Hutton Orbital, located 0.22 light years from the nearest star in Alpha Centauri. The company appealed for scrap materials to produce the mugs, offering participants their own Hutton mug as reward. The mug is supposedly made from salvaged Frame Shift Drive plates of ships that ran out of fuel en route.
+player_impact: Pilots can deliver scrap materials to Hutton Orbital to receive a commemorative Hutton Mug. The journey itself is a badge of honor among experienced navigators.
+modern_impact: Community-driven novelty item celebrating one of the most infamous station approaches in the galaxy.
 legacy_weight: 1
 significance: low
 ---

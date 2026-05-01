@@ -24,7 +24,7 @@ Total mentions: **5**
 ## Related
 
 - [[Imperial Navy]] (3 co-mentions)
-- [[Core Dynamics]] (2 co-mentions)
+- [[Core Dynamics]] (1 co-mentions)
 - [[Interstellar Press]] (1 co-mentions)
 - [[Jameson Memorial Review]] (1 co-mentions)
 - [[Jameson Memorial]] (1 co-mentions)

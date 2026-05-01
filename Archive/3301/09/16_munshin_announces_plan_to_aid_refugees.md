@@ -2,16 +2,18 @@
 uuid: 129ce83a-cfce-558e-b3ae-670dd2f88da0
 title: Munshin Announces Plan to Aid Refugees
 slug: munshin_announces_plan_to_aid_refugees
-date: '3301-09-16'
+date: 3301-09-16
 source: GitHub
-entities:
-- Quade Munshin Announces Plan
+persons:
+- Quade
 groups:
 - Pilots Federation
+- Libertas Cooperative
 locations:
 - Munshin
 - Ocrinox's Orbiter
 - Pegasi Sector
+technologies: []
 topics:
 - construction
 - diplomacy
@@ -21,8 +23,9 @@ topics:
 - ship
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Officials at Ocrinox's Orbiter announced plans to build a state-of-the-art resettlement facility for Pegasi Pirate War refugees. The plan leverages Munshin's distance from the war, available food and jobs, and supporting infrastructure. Officials also requested urgent medical supply deliveries from the Pilots Federation and Princess Aisling Duval.
+player_impact: Pilots can deliver medical supplies to Ocrinox's Orbiter in the Munshin system to aid Pegasi Sector refugees. The humanitarian effort welcomes all transport-capable commanders.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---

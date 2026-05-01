@@ -2,24 +2,25 @@
 uuid: 012c1d4a-4b45-52ab-aefb-91b6915d063d
 title: Aisling Duval Issues Statement
 slug: aisling_duval_issues_statement
-date: '3301-09-19'
+date: 3301-09-19
 source: GitHub
-entities:
+persons:
 - Aisling Duval
 - Damon Clarke
 groups:
-- Aisling's Angels
-- Emperor's Dawn
 - Imperial Herald
+- Emperor's Dawn
 locations:
 - Cemiess
+technologies: []
 topics:
 - scandal
 - terrorism
 arc_id: imperial-succession
 arc_chapter: Aisling defends herself
-modern_impact: Critical moment in the Imperial succession crisis, shaping the future
-  leadership of the Empire.
+summary: Following revelations of alleged links between her office and Emperor's Dawn, Princess Aisling Duval issued a statement denying all knowledge of the connection. She announced an immediate internal investigation to root out disloyal staff. Popularity polls showed a dramatic fall for the 'People's Princess' as more details emerged. Patron Damon Clarke remained unavailable for comment, with reports suggesting he had fled the Empire.
+player_impact: The Imperial Senate has launched an investigation into Aisling Duval's alleged links to Emperor's Dawn. Pilots should expect continued political turbulence as the succession crisis deepens.
+modern_impact: Critical moment in the Imperial succession crisis, shaping the future leadership of the Empire.
 legacy_weight: 4
 significance: high
 ---

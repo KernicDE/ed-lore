@@ -2,24 +2,27 @@
 uuid: 4b65d609-766a-55a9-865e-b4a2486fd447
 title: Research into Strange Objects Begins
 slug: research_into_strange_objects_begins
-date: '3301-09-13'
+date: 3301-09-13
 source: GitHub
-entities:
+persons:
 - Ishmael Palin
-- Palin
-- Palin refused
 groups:
 - Homeland Scientific Council
 locations:
 - HIP 102128
 - Tanmark
+- Fort Harrison
+technologies:
+- Unknown Artefact
+- Anomalous Extraterrestrial Object
 topics:
 - research
 - ship
 - war
 arc_id: unknown-artefacts
-modern_impact: Advances understanding of the mysterious alien artefacts and their
-  threat to station infrastructure.
+summary: Professor Ishmael Palin, formerly of the Homeland Scientific Council, was appointed to lead a Federal research programme studying strange objects discovered in systems including Tanmark and HIP 102128. The quasi-organic artefacts, dubbed AEOs, can damage nearby machinery including ship cargo holds and systems. Palin refused to speculate on their non-human origin, promising rigorous examination in the coming weeks.
+player_impact: Pilots transporting unknown artefacts should be aware they can damage ship systems and cargo holds. The research into these mysterious objects may reveal important discoveries about non-human intelligence.
+modern_impact: Advances understanding of the mysterious alien artefacts and their threat to station infrastructure.
 legacy_weight: 3
 significance: medium
 ---

@@ -2,21 +2,25 @@
 uuid: 3fc850f4-b172-5baf-b891-1ec2e744425a
 title: Shelter from the Storm
 slug: shelter_from_the_storm
-date: '3301-09-22'
+date: 3301-09-22
 source: GitHub
-entities:
+persons:
 - Adric Claavis
-- Gan Shelter
+- Gan
 groups:
-- Kumo Crew
 - Utopia
+- Kumo Crew
+locations:
+- Munshin
+technologies: []
 topics:
 - humanitarian
 - piracy
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Utopia joined the Munshin government's call for help with Pegasi Pirate War refugees. Adjudicator Adric Claavis announced Utopia would deliver humanitarian supplies and welcome refugees seeking new lives on Utopian worlds. Utopian ambassadors requested passage through Kumo Crew space to reach Munshin, marking an unusual diplomatic overture to the pirates.
+player_impact: Pilots can support the humanitarian effort by delivering supplies to Munshin. Utopia's involvement expands the relief network for Pegasi Sector refugees.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---

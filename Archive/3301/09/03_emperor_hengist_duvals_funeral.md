@@ -1,23 +1,30 @@
 ---
 uuid: e86d3225-ed06-59b9-b30f-b2c6a3f2dbae
-title: Emperor Hengist Duval’s Funeral
+title: Emperor Hengist Duval's Funeral
 slug: emperor_hengist_duvals_funeral
 date: '3301-09-03'
 source: GitHub
-entities:
+persons:
 - Hengist Duval
+- Florence Lavigny
+- Arissa Lavigny-Duval
+- Aisling Duval
+- Anders Blaine
+- Denton Patreus
+- Zemina Torval
 groups:
 - Imperial Guard
 - Imperial Naval Infantry
+- Imperial Senate
 locations:
 - Achenar
 - Capitol
-- Capitol in the Achenar
-- Sol
+- Imperial Palace
 topics:
-- slavery
 - succession
-modern_impact: GalNet community report documenting current events in the galaxy.
+summary: Emperor Hengist Duval's funeral procession stretched 18 kilometers through Capitol, taking seven hours. Florence Lavigny walked behind the coffin despite the marriage not being completed. The procession included the Imperial family, Senate members, patrons, clients, citizens, and the Emperor's favorite slaves who were freed by tradition. Millions lined the streets. The Feast of Remembering began across the Empire as the Senate prepared to decide the succession.
+player_impact: The funeral marked the end of an era. With the Emperor laid to rest, the Senate has one month to select the next ruler. Pilots should expect political turbulence as candidates campaign for the throne.
+modern_impact: Marks the formal end of Emperor Hengist Duval's reign and begins the Imperial succession crisis.
 legacy_weight: 2
 significance: low
 ---

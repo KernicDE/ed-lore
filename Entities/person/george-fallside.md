@@ -2,18 +2,18 @@
 id: george-fallside
 name: George Fallside
 type: person
-first_seen_date: '3302-04-23'
+first_seen_date: '3301-09-01'
 last_seen_date: '3302-04-23'
-mention_count: 1
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # George Fallside
 
-First mentioned: **3302-04-23**  
+First mentioned: **3301-09-01**  
 Last mentioned: **3302-04-23**  
-Total mentions: **1**
+Total mentions: **3**
 
 ## Related
 

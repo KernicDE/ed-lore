@@ -2,12 +2,17 @@
 uuid: 593b3802-9ce4-5705-a1a4-9470120e3676
 title: The Truth about Emperor’s Dawn
 slug: the_truth_about_emperors_dawn
-date: '3301-09-10'
+date: 3301-09-10
 source: GitHub
 groups:
 - Imperial Herald
+- Emperor's Dawn
+locations: []
+technologies: []
 topics:
 - succession
+summary: Captured materials from Emperor's Dawn revealed the group's aims to destabilize Imperial society. While initially appearing to espouse traditional Imperial beliefs, the propaganda became increasingly sinister, denouncing the Emperor and demanding his removal so someone more fitting could take his place. No candidate has been named.
+player_impact: Pilots fighting against Emperor's Dawn should understand that the group is not merely treasonous but seeks to fundamentally reshape Imperial society through violent means.
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

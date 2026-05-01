@@ -2,15 +2,22 @@
 uuid: 21f00823-6b7b-5a13-a90a-8b2d02c766fb
 title: Emperor’s Dawn Bases Discovered
 slug: emperors_dawn_bases_discovered
-date: '3301-09-11'
+date: 3301-09-11
 source: GitHub
-entities:
+persons:
 - Denton Patreus
+groups:
+- Imperial Navy
+- Emperor's Dawn
 locations:
-- Denton
+- Dakshmandi
+- Maausk
+technologies: []
 topics:
 - succession
 - war
+summary: Imperial intelligence discovered several bases belonging to Emperor's Dawn. Senator Denton Patreus launched a military campaign to destroy the insurrectionists, mobilizing Imperial forces and calling on independent pilots to aid the operation with generous rewards offered for contributions.
+player_impact: Independent pilots can join Senator Patreus's campaign against Emperor's Dawn in the Dakshmandi and Maausk systems. Combat pilots will find opportunities to earn rewards while supporting the Empire.
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

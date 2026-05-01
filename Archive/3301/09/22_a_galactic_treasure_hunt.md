@@ -2,16 +2,22 @@
 uuid: f443590c-881e-59e8-b72f-a42a0aac5f34
 title: A Galactic Treasure Hunt
 slug: a_galactic_treasure_hunt
-date: '3301-09-22'
+date: 3301-09-22
 source: GitHub
+persons:
+- Alfred Jeffress
+groups: []
+locations: []
+technologies: []
 topics:
 - humanitarian
 - ship
 - sport
 - trade
 - treasure hunt
-modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving
-  across the galaxy.
+summary: "Reclusive philanthropist Alfred Jeffress announced a galaxy-wide treasure hunt with a share of his fortune as the prize. A mystery object was hidden somewhere in space, with a riddle offered as the only clue: 'A vision of the Devil and Orion's hounds will start you on your path.' Hundreds of pilots immediately began searching for the object."
+player_impact: Pilots can participate in the galactic treasure hunt by solving Alfred Jeffress's riddle and searching for the hidden mystery object. The first to find it and deliver it to the specified location wins a share of Jeffress's fortune.
+modern_impact: Community-driven treasure hunt engaging independent pilots in puzzle-solving across the galaxy.
 legacy_weight: 1
 significance: low
 ---

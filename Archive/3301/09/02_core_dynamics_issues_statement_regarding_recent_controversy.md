@@ -4,22 +4,25 @@ title: Core Dynamics Issues Statement Regarding Recent Controversy
 slug: core_dynamics_issues_statement_regarding_recent_controversy
 date: '3301-09-02'
 source: GitHub
+persons:
+- George Fallside
+- Nigel Smeaton
 groups:
 - Core Dynamics
 - Federal Times
-- Sirius Corp
 - Sirius Corporation
 locations:
 - Sirius
+technologies:
+- Antares
 topics:
 - corporate expansion
 - investigation
-- safety
 - scandal
-- ship
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
+summary: Core Dynamics responded to Federal Times allegations linking a board member to the Highliner Antares incident. The company stated it took safety seriously and announced the accused non-executive director would step aside during investigation. Congressman George Fallside was named as the board member. The Federal Times agreed to share information with Core Dynamics, Sirius Corporation, and law enforcement.
+player_impact: The scandal may affect Federal Navy contracts and ship availability. Pilots should watch for potential corporate shakeups at Core Dynamics.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---

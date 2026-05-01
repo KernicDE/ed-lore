@@ -2,18 +2,22 @@
 uuid: 1498a39c-e155-59e0-a45d-49ea4bf7cb68
 title: Plastic Fantastic
 slug: plastic_fantastic
-date: '3301-09-28'
+date: 3301-09-28
 source: GitHub
-entities:
-- Rubbernuke Plastic Fantastic
+persons:
+- Rubbernuke
+groups: []
+locations: []
+technologies: []
 topics:
 - narcotics
 - piracy
 - safety
 - sport
 - war
-modern_impact: Pilot safety initiative with potential regulatory implications for
-  starship design.
+summary: Bobbleheads are returning to cockpits after being banned for over a year due to their involvement in thousands of accidents and even pirate murders. After intense lobbying from pilot groups and toy manufacturers, a new generation is being produced. Security services released safety advice reminding pilots to check Bobbleheads for explosives, hidden cameras, and illicit drugs, and to ensure they are firmly affixed before maneuvers.
+player_impact: Pilots can once again acquire Bobbleheads for their cockpits. Ensure they are properly secured and checked for any hidden dangers before flight operations.
+modern_impact: Pilot safety initiative with potential regulatory implications for starship design.
 legacy_weight: 1
 significance: low
 ---

@@ -23,10 +23,10 @@ Total mentions: **65**
 
 ## Related
 
-- [[Imperial Palace]] (19 co-mentions)
+- [[Imperial Palace]] (21 co-mentions)
 - [[Achenar]] (19 co-mentions)
-- [[Imperial Herald]] (17 co-mentions)
-- [[Imperial Senate]] (10 co-mentions)
+- [[Imperial Herald]] (18 co-mentions)
+- [[Imperial Senate]] (13 co-mentions)
 - [[Imperial Navy]] (10 co-mentions)
 
 ## Biography

@@ -4,7 +4,7 @@ name: Canonn
 type: faction
 first_seen_date: '3301-05-04'
 last_seen_date: '3308-11-11'
-mention_count: 13
+mention_count: 12
 related_entities:
 - arcanonn
 - universal-cartographics
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-05-04**  
 Last mentioned: **3308-11-11**  
-Total mentions: **13**
+Total mentions: **12**
 
 ## Related
 

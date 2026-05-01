@@ -4,17 +4,18 @@ title: Utopia  More Than a Cult
 slug: utopia_more_than_a_cult
 date: '3301-09-03'
 source: GitHub
-entities:
-- Jendrassik Utopia  More Than
-- McNamara declined
+persons:
+- Saeed McNamara
+- Pranav Antal
+- Jendrassik
 groups:
 - Utopia
+- Interstellar Press
 topics:
-- crime
-- independence
 - scandal
-- ship
-modern_impact: Ship review and release information for the pilot community.
+summary: Utopia responded to accusations of cult-like behavior, with futurologist Dr Saeed McNamara explaining that disruptive elements are subjected to 'corrective simulations' designed to increase empathy rather than being enslaved or imprisoned. McNamara declined to address rumors that subjects emerge with radically altered personalities. The response left questions about the true nature of Utopia's methods.
+player_impact: Pilots visiting Utopia-controlled systems should be aware of the controversial 'corrective sims' and the organization's willingness to use technology to modify behavior.
+modern_impact: Adds to the debate about Utopia's methods and whether its corrective technologies constitute ethical treatment of dissidents.
 legacy_weight: 2
 significance: low
 ---

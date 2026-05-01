@@ -2,18 +2,18 @@
 id: cynthia-sideris
 name: Cynthia Sideris
 type: person
-first_seen_date: '3302-05-27'
+first_seen_date: '3301-09-06'
 last_seen_date: '3309-03-02'
-mention_count: 5
+mention_count: 6
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Cynthia Sideris
 
-First mentioned: **3302-05-27**  
+First mentioned: **3301-09-06**  
 Last mentioned: **3309-03-02**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 

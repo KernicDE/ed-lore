@@ -4,15 +4,20 @@ title: Public Viewing of Emperor Hengist Duval Ceases
 slug: public_viewing_of_emperor_hengist_duval_ceases
 date: '3301-09-02'
 source: GitHub
-entities:
-- Hengist Duval Ceases
+persons:
+- Hengist Duval
+- Florence Lavigny
+groups:
+- Imperial Guard
+- Imperial Naval Infantry
 locations:
 - Capitol
 - Imperial Palace
 topics:
-- medicine
 - succession
-modern_impact: Medical crisis or health initiative affecting galactic populations.
+summary: The public viewing of Emperor Hengist Duval ended after an estimated seven million mourners visited Capitol. Fewer than half were able to see the Emperor despite extended hours. Holographic shrines were placed along queues, though some complained this broke tradition. Military forces maintained order and provided food, shelter, and medical care. The streets were being cleared for the upcoming funeral procession.
+player_impact: Pilots visiting Capitol should expect continued security measures and restricted access as the city prepares for the Emperor's funeral.
+modern_impact: Documents the massive public mourning following the assassination of Emperor Hengist Duval.
 legacy_weight: 2
 significance: low
 ---

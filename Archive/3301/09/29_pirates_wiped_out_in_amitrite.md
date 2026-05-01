@@ -2,26 +2,27 @@
 uuid: 12b6b963-3193-5020-8e1e-37a4c48eb1b4
 title: Pirates Wiped Out in Amitrite
 slug: pirates_wiped_out_in_amitrite
-date: '3301-09-29'
+date: 3301-09-29
 source: GitHub
-entities:
-- Quade Pirates Wiped Out
+persons:
+- Quade
 groups:
 - Defence Force of Amitrite
 - Libertas Cooperative
 locations:
 - Amitrite
-- Many of the refugees in the Munshin
 - Munshin
 - Pegasi Sector
+technologies: []
 topics:
 - crime
 - humanitarian
 - piracy
 - ship
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Independent pilots helped the Defence Force of Amitrite clear the system of pirates, eliminating hundreds of hostile ships and driving crime to new lows. The Libertas Cooperative thanked pilots on behalf of Pegasi Sector refugees, noting that families separated by the war could now be reunited safely. Some media speculated the high participation was due to Arissa Lavigny-Duval's crime-deterrence policies, which the DFA dismissed as crass.
+player_impact: Combat pilots successfully cleared Amitrite of pirates, making the refugee route to Munshin safer. Continue supporting anti-piracy efforts in systems along the refugee corridor.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---

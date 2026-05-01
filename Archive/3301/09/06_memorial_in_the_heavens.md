@@ -4,16 +4,25 @@ title: Memorial in the Heavens
 slug: memorial_in_the_heavens
 date: '3301-09-06'
 source: GitHub
-entities:
+persons:
 - Corrigendum
 - Sataris
+- Cynthia Sideris
+- Kathy McBrayer
 groups:
 - Interstellar Press
 - Jameson Memorial Review
 - Pilots Federation
+- East India Company
+- Universal Cartographics
 locations:
 - Jameson Memorial
-modern_impact: GalNet community report documenting current events in the galaxy.
+- BD+26 2184
+topics:
+- memorial
+summary: Commander Sataris of the East India Company was honored when an anonymous benefactor purchased naming rights for a planet in the BD+26 2184 system, rechristening it 'Kathy McBrayer' after his late mother. Universal Cartographics chairwoman Cynthia Sideris read a statement praising Sataris's service. The planet name change was to be finalized in coming weeks.
+player_impact: Pilots are invited to visit the memorial planet Kathy McBrayer in BD+26 2184. The event demonstrates how Universal Cartographics naming rights can be used for personal memorials.
+modern_impact: Community-driven memorial demonstrating the personal connections pilots form with the galaxy through exploration.
 legacy_weight: 2
 significance: low
 ---

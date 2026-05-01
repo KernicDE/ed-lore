@@ -3,8 +3,8 @@ id: cope
 name: Cope
 type: person
 first_seen_date: '3301-08-28'
-last_seen_date: '3301-09-18'
-mention_count: 2
+last_seen_date: '3301-08-28'
+mention_count: 1
 related_entities:
 - iiss
 - imperial-internal-security-service
@@ -17,15 +17,15 @@ related_entities:
 # Cope
 
 First mentioned: **3301-08-28**  
-Last mentioned: **3301-09-18**  
-Total mentions: **2**
+Last mentioned: **3301-08-28**  
+Total mentions: **1**
 
 ## Related
 
-- [[IISS]] (2 co-mentions)
-- [[Imperial Internal Security Service]] (2 co-mentions)
-- [[Cemiess]] (2 co-mentions)
-- [[Mackenzie Relay]] (2 co-mentions)
+- [[IISS]] (1 co-mentions)
+- [[Imperial Internal Security Service]] (1 co-mentions)
+- [[Cemiess]] (1 co-mentions)
+- [[Mackenzie Relay]] (1 co-mentions)
 
 ## Biography
 

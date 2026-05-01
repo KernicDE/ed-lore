@@ -2,9 +2,9 @@
 id: libertas-cooperative
 name: Libertas Cooperative
 type: faction
-first_seen_date: '3301-09-19'
+first_seen_date: '3301-09-16'
 last_seen_date: '3304-09-22'
-mention_count: 7
+mention_count: 8
 related_entities:
 - munshin
 - ocrinoxs-orbiter
@@ -17,14 +17,14 @@ related_entities:
 
 # Libertas Cooperative
 
-First mentioned: **3301-09-19**  
+First mentioned: **3301-09-16**  
 Last mentioned: **3304-09-22**  
-Total mentions: **7**
+Total mentions: **8**
 
 ## Related
 
-- [[Munshin]] (7 co-mentions)
-- [[Ocrinox's Orbiter]] (5 co-mentions)
+- [[Munshin]] (8 co-mentions)
+- [[Ocrinox's Orbiter]] (6 co-mentions)
 - [[Munshin Manatee Meat]] (2 co-mentions)
 - [[Alliance]] (2 co-mentions)
 - [[Federal Security Service]] (2 co-mentions)

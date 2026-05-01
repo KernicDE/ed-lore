@@ -2,22 +2,28 @@
 uuid: 2f3144b5-e976-5252-bc85-856cd1606c88
 title: Frontline Report  The War against Emperor’s Dawn
 slug: frontline_report_the_war_against_emperors_dawn
-date: '3301-09-17'
+date: 3301-09-17
 source: GitHub
+persons:
+- Denton Patreus
+- Anthony Corvus
+- Katherine Ryder
 groups:
 - Imperial Herald
 - Imperial Navy
+- Emperor's Dawn
 locations:
 - Dakshmandi
-- Dakshmandi and Maausk
-- Denton
 - Maausk
+technologies: []
 topics:
 - independence
 - ship
 - succession
 - terrorism
 - war
+summary: Journalist Katherine Ryder reported from the frontlines of Senator Patreus's campaign against Emperor's Dawn in the Dakshmandi and Maausk systems. General Anthony Corvus described the insurgents as disciplined and methodical, with morale that never wavers despite losses. Hundreds of independent pilots have joined the insurgents, and critics note Patreus may have underestimated the group's resolve, risking a protracted conflict that could exhaust Imperial resources.
+player_impact: Combat pilots can participate in the war against Emperor's Dawn in Dakshmandi and Maausk. However, the conflict is proving more difficult than anticipated, with insurgents showing unexpected discipline and resolve.
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 2
 significance: low

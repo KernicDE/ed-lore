@@ -2,19 +2,23 @@
 uuid: d129c9e9-ef0a-5a86-9dbc-a1ef6b60007b
 title: Imperial Slave Regulations Proposed
 slug: imperial_slave_regulations_proposed
-date: '3301-09-14'
+date: 3301-09-14
 source: GitHub
-entities:
-- Corrigendum
+persons:
+- Svetlana Zhukov
 groups:
 - Imperial Navy
 - Imperial Senate
 - Interstellar Press
+- Imperial Slave Association
 locations:
 - Capitol
+technologies: []
 topics:
 - ship
 - slavery
+summary: Following a recent audit of the Imperial Slave Association, the Imperial Senate Audit Committee proposed new regulations for transporting Imperial slaves. The proposals include requiring pilots to hold Master rank in the Imperial Navy and setting aside resources to recover slaves transported outside the Empire. ISA chairwoman Svetlana Zhukov voiced support, though political commentators doubted the regulations would be approved.
+player_impact: Pilots transporting Imperial slaves may soon need Master rank in the Imperial Navy. Be aware of proposed regulations that could affect slave trading operations and recovery requirements.
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low

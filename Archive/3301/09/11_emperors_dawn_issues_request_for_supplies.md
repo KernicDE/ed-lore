@@ -2,19 +2,25 @@
 uuid: c29c0055-acb8-5a02-bef8-e8af2b2653c6
 title: Emperor’s Dawn Issues Request for Supplies
 slug: emperors_dawn_issues_request_for_supplies
-date: '3301-09-11'
+date: 3301-09-11
 source: GitHub
-entities:
+persons:
 - Denton Patreus
+groups:
+- Imperial Citizen
+- Emperor's Dawn
 locations:
-- Denton
-- Lin
+- Ipilyaqa
+- Ch'i Lin
+technologies: []
 topics:
 - construction
 - narcotics
 - succession
 - terrorism
 - trade
+summary: As Senator Patreus launched his military campaign against Emperor's Dawn, the insurgent group issued a public appeal for illegal commodities including progenitor cells and narcotics. Delivery points were established at starports in the Ipilyaqa and Ch'i Lin systems, with the Empire urging the public to ignore the request.
+player_impact: Pilots should be aware that Emperor's Dawn is requesting illegal commodities at stations in Ipilyaqa and Ch'i Lin. Delivering to them would support a terrorist organization.
 modern_impact: Trade initiative affecting commodity markets and local economies.
 legacy_weight: 2
 significance: low

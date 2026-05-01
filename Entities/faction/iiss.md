@@ -4,13 +4,13 @@ name: IISS
 type: faction
 first_seen_date: '3301-08-28'
 last_seen_date: '3307-05-21'
-mention_count: 6
+mention_count: 5
 related_entities:
-- cope
-- imperial-internal-security-service
-- cemiess
-- mackenzie-relay
 - nova-imperium
+- nmla
+- paresa
+- mudhrid
+- cope
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-08-28**  
 Last mentioned: **3307-05-21**  
-Total mentions: **6**
+Total mentions: **5**
 
 ## Related
 
-- [[Cope]] (2 co-mentions)
-- [[Imperial Internal Security Service]] (2 co-mentions)
-- [[Cemiess]] (2 co-mentions)
-- [[Mackenzie Relay]] (2 co-mentions)
 - [[Nova Imperium]] (2 co-mentions)
+- [[NMLA]] (2 co-mentions)
+- [[Paresa]] (2 co-mentions)
+- [[Mudhrid]] (2 co-mentions)
+- [[Cope]] (1 co-mentions)
 
 ## Biography
 

@@ -8,8 +8,8 @@ mention_count: 3
 related_entities:
 - defence-force-of-amitrite
 - munshin
+- kumo-crew
 - imperial-navy
-- quade-pirates-wiped-out
 - libertas-cooperative
 ---
 
@@ -25,8 +25,8 @@ Total mentions: **3**
 
 - [[Defence Force of Amitrite]] (3 co-mentions)
 - [[Munshin]] (2 co-mentions)
+- [[Kumo Crew]] (1 co-mentions)
 - [[Imperial Navy]] (1 co-mentions)
-- [[Quade Pirates Wiped Out]] (1 co-mentions)
 - [[Libertas Cooperative]] (1 co-mentions)
 
 ## Biography

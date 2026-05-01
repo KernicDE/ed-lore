@@ -2,22 +2,26 @@
 uuid: 0de387c7-3d52-5729-b094-d28d71e57acf
 title: Local Faction Helps Ready Munshin
 slug: local_faction_helps_ready_munshin
-date: '3301-09-19'
+date: 3301-09-19
 source: GitHub
+persons:
+- Quade
 groups:
 - Libertas Cooperative
 locations:
 - Munshin
 - Ocrinox's Orbiter
 - Pegasi Sector
+technologies: []
 topics:
 - humanitarian
 - medicine
 - ship
 - slavery
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: The Libertas Cooperative, a group of freed Imperial slaves and their descendants, led resettlement efforts for Pegasi Sector refugees at Ocrinox's Orbiter. Members worked docking bays and unloading cargo while independent commanders increased medicine deliveries. The Munshin government praised their dedication, and the cooperative invited refugees to seek employment with them.
+player_impact: Pilots can continue delivering medicines to Ocrinox's Orbiter in Munshin to support the refugee resettlement effort led by the Libertas Cooperative.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---

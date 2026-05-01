@@ -2,8 +2,18 @@
 uuid: bcb562fa-eb2b-5f2c-b686-b882a405b132
 title: Hutton Mug Appeal Successful
 slug: hutton_mug_appeal_successful
-date: '3301-09-18'
+date: 3301-09-18
 source: GitHub
+persons:
+- Chase Fulbright
+groups:
+- BlipMagnet
+locations:
+- Hutton Orbital
+- Alpha Centauri
+technologies: []
+summary: BlipMagnet's Hutton Mug appeal proved highly successful, with thousands of independent pilots delivering scrap materials to Hutton Orbital. Director Chase Fulbright announced they had more than enough material for production but apologized for infrastructure delays. The commemorative mugs, made for pilots completing the epic 0.22 light year journey to Hutton Orbital, would be produced as soon as possible.
+player_impact: Pilots who delivered scrap to Hutton Orbital can expect their commemorative Hutton Mug once production infrastructure issues are resolved. The journey to Hutton Orbital remains a popular badge of honor.
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

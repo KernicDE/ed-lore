@@ -10,7 +10,7 @@ related_entities:
 - panem
 - hip-102128
 - news-is-coming-out-of-the-tanmark
-- ishmael-palin
+- homeland-scientific-council
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **8**
 - [[Panem]] (3 co-mentions)
 - [[HIP 102128]] (2 co-mentions)
 - [[News is coming out of the Tanmark]] (1 co-mentions)
-- [[Ishmael Palin]] (1 co-mentions)
+- [[Homeland Scientific Council]] (1 co-mentions)
 
 ## Biography
 

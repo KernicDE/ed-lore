@@ -2,18 +2,22 @@
 uuid: d61bb826-4377-52de-ae4a-3ddce1c975e9
 title: Kumo Operation to Hit Aisling Duval
 slug: kumo_operation_to_hit_aisling_duval
-date: '3301-09-17'
+date: 3301-09-17
 source: GitHub
-entities:
-- Mikalus Kumo Operation
+persons:
+- Archon Delaine
+- Mikalus
 groups:
 - Kumo Crew
+locations: []
+technologies: []
 topics:
 - piracy
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: Kumo Crew commanders swept across systems controlled by Arissa Lavigny-Duval, penetrating deeper than in any previous skirmish. Leaked intelligence indicated Archon Delaine would focus on planets and stations pledged to Aisling Duval. The operation elevated danger for Imperial citizens and demonstrated that the Pegasi Pirate War had taken on a new dimension, drawing on the strength and resources of a thousand worlds.
+player_impact: Pilots in Aisling Duval's systems should prepare for increased Kumo Crew pirate activity. Combat pilots may find opportunities to defend Imperial systems and earn combat bonds.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---

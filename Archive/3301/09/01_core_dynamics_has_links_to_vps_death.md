@@ -1,22 +1,30 @@
 ---
 uuid: af01c68b-24fd-5dc7-bd85-38ca24522b88
-title: Core Dynamics has Links to VP’s Death
+title: Core Dynamics has Links to VP's Death
 slug: core_dynamics_has_links_to_vps_death
 date: '3301-09-01'
 source: GitHub
+persons:
+- George Fallside
+- Nick Baron
+- Elaine Boyd
+- Agent Monroe
+- Nigel Smeaton
 groups:
 - Core Dynamics
 - Federal Times
+locations:
+- Sol
+- Mars
+technologies:
+- Starship One
 topics:
-- corporate expansion
 - investigation
-- piracy
-- safety
-- ship
-- sport
+- conspiracy
 arc_id: federal-politics
-modern_impact: Deepens the Federal political crisis around the Antares conspiracy
-  and Vice President Smeaton's murder.
+summary: The Federal Times revealed possible links between Core Dynamics and Vice President Nigel Smeaton's death. Congressman George Fallside, a non-executive director of Core Dynamics, had apparent early knowledge of the VP's death. Flight Engineer Nick Baron of Starship One previously worked at Core Dynamics, and financial records showed payments traced through a shell corporation involving Fallside. The trail suggested a conspiracy possibly connected to the Highliner Antares disaster.
+player_impact: Pilots should monitor developments in the Federal political crisis. The revelations suggest deep corruption linking major corporations to political assassinations.
+modern_impact: Deepens the Federal political crisis around the Antares conspiracy and Vice President Smeaton's murder.
 legacy_weight: 4
 significance: high
 ---

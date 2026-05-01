@@ -2,18 +2,21 @@
 uuid: 4a80c69b-1bec-56f2-9d2b-dc4064b6e69d
 title: Senator Patreus Calls for Senate Investigation
 slug: senator_patreus_calls_for_senate_investigation
-date: '3301-09-20'
+date: 3301-09-20
 source: GitHub
-entities:
-- Denton Patreus prepared
-- Patreus Calls
+persons:
+- Denton Patreus
+- Damon Clarke
 groups:
 - Imperial Herald
-locations:
-- Denton
+- Imperial Senate
+locations: []
+technologies: []
 topics:
 - investigation
 - succession
+summary: Senator Denton Patreus called for a full Senate investigation into reported links between Emperor's Dawn and Princess Aisling Duval's office. Drawing on his own experience when a household member committed a heinous act, Patreus demanded immediate action. No new facts were released regarding patron Damon Clarke, who was believed to have fled the Empire.
+player_impact: None
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

@@ -2,32 +2,21 @@
 id: quade
 name: Quade
 type: person
-first_seen_date: '3301-11-05'
-last_seen_date: '3301-11-11'
-mention_count: 2
-related_entities:
-- cayutorme-syndicate
-- cayutorme
-- corrigendum-duelling-narratives
-- corrigendum-order-restored
-- pilots-federation
+first_seen_date: '3301-09-16'
+last_seen_date: '3301-09-29'
+mention_count: 5
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Quade
 
-First mentioned: **3301-11-05**  
-Last mentioned: **3301-11-11**  
-Total mentions: **2**
+First mentioned: **3301-09-16**  
+Last mentioned: **3301-09-29**  
+Total mentions: **5**
 
 ## Related
 
-- [[Cayutorme Syndicate]] (2 co-mentions)
-- [[Cayutorme]] (2 co-mentions)
-- [[Corrigendum Duelling Narratives]] (1 co-mentions)
-- [[Corrigendum Order Restored]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 

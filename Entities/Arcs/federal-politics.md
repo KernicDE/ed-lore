@@ -23,7 +23,7 @@ Articles: **77**
 
 ## Key Figures
 
-- [[Federal Times]] (18 mentions)
+- [[Federal Times]] (20 mentions)
 - [[Core Dynamics]] (15 mentions)
 - [[Federation]] (12 mentions)
 - [[Proactive Detection Bureau]] (10 mentions)

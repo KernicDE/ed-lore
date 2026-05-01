@@ -2,14 +2,19 @@
 uuid: 2ef47a0a-7b3e-5b95-ad44-740dd29c6b60
 title: New Combat Fighter from Gutamaya Shipyards
 slug: new_combat_fighter_from_gutamaya_shipyards
-date: '3301-09-10'
+date: 3301-09-10
 source: GitHub
 groups:
-- Core Dynamics
 - Gutamaya Shipyards
 - Imperial Navy
+locations: []
+technologies:
+- Imperial Eagle
+- Eagle Mk II
 topics:
 - ship
+summary: Gutamaya Shipyards unveiled the Imperial Eagle, a successor to the Eagle Mk II. While slightly less maneuverable, it outclasses its predecessor in speed (300 top, 400 boost), armor, shields, and firepower, replacing the small hardpoint with a medium. Manufactured for the Imperial Navy, it requires Outsider rank or above and retails at 110,825 CR.
+player_impact: Imperial Navy pilots of Outsider rank or higher can purchase the Imperial Eagle, a sleeker and more powerful combat fighter than the Eagle Mk II, trading some agility for superior speed and firepower.
 modern_impact: Ship review and release information for the pilot community.
 legacy_weight: 1
 significance: low

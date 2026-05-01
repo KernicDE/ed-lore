@@ -2,21 +2,21 @@
 uuid: c480985d-96e0-5c3a-a305-91da4a6ffbbe
 title: Kumo Crew to Target Lavigny Duval
 slug: kumo_crew_to_target_lavigny_duval
-date: '3301-09-11'
+date: 3301-09-11
 source: GitHub
-entities:
-- Denton Patreus
-- Mikalus Kumo Crew
+persons:
+- Archon Delaine
 groups:
 - Kumo Crew
-locations:
-- Denton
+locations: []
+technologies: []
 topics:
 - piracy
 - war
 arc_id: kumo-crew-rise
-modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges
-  of protecting civilian populations during pirate wars.
+summary: The Kumo Crew planned to target systems under Arissa Lavigny-Duval's influence, penetrating deeper into Imperial territory than ever before. The operation aimed to force Duval to admit the foolishness of the Pegasi War by bringing it close to home, representing a significant escalation from their previous Operation Uranus against Patreus's worlds.
+player_impact: Pilots in systems under Lavigny-Duval's influence should be alert for increased Kumo Crew pirate activity. Combat pilots may find bounty hunting opportunities.
+modern_impact: Highlights the humanitarian crisis in the Pegasi Sector and the challenges of protecting civilian populations during pirate wars.
 legacy_weight: 3
 significance: medium
 ---
