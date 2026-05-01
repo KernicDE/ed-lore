@@ -4,8 +4,17 @@ title: Galactic News  Jasmina Halsey Not yet at Full Health
 slug: galactic_news_jasmina_halsey_not_yet_at_full_health
 date: '3302-03-29'
 source: GitHub
+summary: Former President Jasmina Halsey continues recuperating at Leoniceno Orbital, with all interview requests rebuffed by medical staff. Her sister Azalea Halsey reports that Jasmina seemed distant and spoke of stars and creation, but was remarkably lucid given her ordeal.
+player_impact: None
+persons:
+- Jasmina Halsey
+- Azalea Halsey
 groups:
 - Federal Times
+- Leoniceno Orbital medical staff
+locations:
+- Leoniceno Orbital
+- Azaleach
 topics:
 - construction
 - humanitarian

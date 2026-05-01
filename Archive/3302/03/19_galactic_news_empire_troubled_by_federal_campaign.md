@@ -1,13 +1,21 @@
 ---
-uuid: 06c601f9-d6e1-544a-a8f2-261838d10ba8
+uuid: 06c601f9-d6e1-544a-8af2-261838d10ba8
 title: Galactic News  Empire Troubled by Federal Campaign
 slug: galactic_news_empire_troubled_by_federal_campaign
 date: '3302-03-19'
 source: GitHub
-entities:
-- Zachary Hudson announced plans
+summary: Admiral Denton Patreus expresses concern over the Federation's plan to expand its Navy with a new Farragut Battle Cruiser. An anonymous Imperial source reveals that if the Federation embarks on military fortification, the Empire would likely respond in kind, escalating tensions between the superpowers.
+player_impact: None
+persons:
+- Zachary Hudson
+- Denton Patreus
 groups:
 - Federal Navy
+- Imperial Navy
+locations:
+- Beta Hydri system
+- Federation
+- Empire
 topics:
 - construction
 - ship

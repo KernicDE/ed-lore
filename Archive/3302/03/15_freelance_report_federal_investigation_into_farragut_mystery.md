@@ -4,8 +4,17 @@ title: Freelance Report  Federal Investigation into Farragut Mystery
 slug: freelance_report_federal_investigation_into_farragut_mystery
 date: '3302-03-15'
 source: GitHub
+summary: The Congressional Oversight Committee launches an inquiry into reports of a pirate-aligned Farragut Battle Cruiser attacking Federation battle groups in the LHS 3447, Fuleum, and HIP 16996 systems. Unconfirmed reports also suggest a rogue battle cruiser in the Maia system.
+player_impact: None
+persons:
+- Commander Tyrit Shadowstalker
+groups:
+- Congressional Oversight Committee
+- Federal Navy
 locations:
-- Fuleum and HIP 16996
+- LHS 3447
+- Fuleum
+- HIP 16996
 - Maia
 topics:
 - investigation

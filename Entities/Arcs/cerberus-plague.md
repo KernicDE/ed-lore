@@ -10,7 +10,7 @@ key_entities:
 - carl-simmons
 - governor-albrecht
 - federal-navy
-- lawrence
+- newton-dock-medical-staff
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Articles: **20**
 - [[Carl Simmons]] (1 mentions)
 - [[Governor Albrecht]] (1 mentions)
 - [[Federal Navy]] (1 mentions)
-- [[Lawrence]] (1 mentions)
+- [[Newton Dock medical staff]] (1 mentions)
 
 ## Description
 

@@ -3,8 +3,8 @@ id: commander-lord-zoltan
 name: Commander Lord Zoltan
 type: person
 first_seen_date: '3301-11-26'
-last_seen_date: '3301-11-26'
-mention_count: 1
+last_seen_date: '3302-03-29'
+mention_count: 4
 ---
 
 <!-- AUTO-GENERATED -->
@@ -12,8 +12,8 @@ mention_count: 1
 # Commander Lord Zoltan
 
 First mentioned: **3301-11-26**  
-Last mentioned: **3301-11-26**  
-Total mentions: **1**
+Last mentioned: **3302-03-29**  
+Total mentions: **4**
 
 ## Related
 

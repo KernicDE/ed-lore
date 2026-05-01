@@ -4,15 +4,16 @@ title: Galactic News  Breakthrough in the Fight against Technological Plague
 slug: galactic_news_breakthrough_in_the_fight_against_technological_plague
 date: '3302-03-15'
 source: GitHub
-entities:
+summary: Molecular chemist Lea Tantaga at Obsidian Orbital makes a breakthrough in meta-alloy research, discovering that meta-alloys can neutralise Unknown Artefact molecular interference. Affected starports open their markets to meta-alloy sales, though harvesting from barnacles remains controversial.
+player_impact: Pilots delivered meta-alloys to affected starports to help counter the technological plague.
+persons:
+- Lea Tantaga
 - Ishmael Palin
-- Palin's absence under
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
-- Maia
 - Obsidian Orbital
+- Maia system
 topics:
 - construction
 - investigation

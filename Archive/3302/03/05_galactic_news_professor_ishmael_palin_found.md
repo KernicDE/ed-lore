@@ -4,14 +4,17 @@ title: Galactic News  Professor Ishmael Palin Found
 slug: galactic_news_professor_ishmael_palin_found
 date: '3302-03-05'
 source: GitHub
-entities:
+summary: Authorities at Wilkes Orbital announce that Professor Ishmael Palin and his research team were among those rescued from the Blue Hand Gang in the Orulas system. Governor Lawrence confirms Palin is in a delicate state but expected to recover. Rose Trebek speculates the gang bought the escape pods without knowing their contents.
+player_impact: Pilots supported the operation against the Blue Hand Gang, leading to the rescue of Professor Palin and his team.
+persons:
 - Ishmael Palin
-- Ishmael Palin Found
-- Lawrence
-- Palin might have ended up
+- Governor Lawrence
+- Rose Trebek
+groups:
+- Blue Hand Gang
 locations:
-- Orula
-- Orulas
+- Orulas system
+- Wilkes Orbital
 topics:
 - construction
 - crime

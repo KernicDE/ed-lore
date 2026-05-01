@@ -4,6 +4,16 @@ title: Community Goal  The Onionhead Clash
 slug: community_goal_the_onionhead_clash
 date: '3302-03-31'
 source: GitHub
+summary: The Federal 'Hand in the Head' campaign led by new 'Onionhead tzar' Edward Bores encourages citizens to surrender Onionhead for destruction. Simultaneously, the Altair Purple Mob launches a competing campaign to study the drug and prove it harmless, seeking reclassification as a non-toxic plant.
+player_impact: Pilots chose sides in the Onionhead clash, either delivering Onionhead to Grandin Gateway in Altair for destruction or to the Altair Purple Mob for research.
+persons:
+- Edward Bores
+groups:
+- Altair Purple Mob
+- Federal government
+locations:
+- Grandin Gateway
+- Altair system
 topics:
 - crime
 - narcotics

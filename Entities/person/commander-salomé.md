@@ -2,18 +2,18 @@
 id: commander-salomé
 name: Commander Salomé
 type: person
-first_seen_date: '3302-04-08'
+first_seen_date: '3302-03-29'
 last_seen_date: '3303-03-24'
-mention_count: 2
+mention_count: 3
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Commander Salomé
 
-First mentioned: **3302-04-08**  
+First mentioned: **3302-03-29**  
 Last mentioned: **3303-03-24**  
-Total mentions: **2**
+Total mentions: **3**
 
 ## Related
 

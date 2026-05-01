@@ -24,8 +24,8 @@ Articles: **35**
 ## Key Figures
 
 - [[Canonn Interstellar Research Group]] (13 mentions)
-- [[Canonn]] (11 mentions)
-- [[Ishmael Palin]] (11 mentions)
+- [[Canonn]] (9 mentions)
+- [[Ishmael Palin]] (8 mentions)
 - [[Arcanonn]] (4 mentions)
 - [[Federal Times]] (3 mentions)
 

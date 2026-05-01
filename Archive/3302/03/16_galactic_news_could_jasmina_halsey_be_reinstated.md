@@ -4,8 +4,16 @@ title: Galactic News  Could Jasmina Halsey be Reinstated
 slug: galactic_news_could_jasmina_halsey_be_reinstated
 date: '3302-03-16'
 source: GitHub
+summary: Following former President Jasmina Halsey's rescue from Starship One, some Federal politicians suggest she should serve out the remainder of her term. Legal advisor Simon Newell believes reinstatement is unlikely given the prior vote of no confidence and official termination of her presidency.
+player_impact: None
+persons:
+- Jasmina Halsey
+- Simon Newell
 groups:
 - Federal Times
+- Federal government
+locations:
+- Federation
 topics:
 - humanitarian
 - ship

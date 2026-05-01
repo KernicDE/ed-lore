@@ -4,15 +4,16 @@ title: Freelance Report  Canonn Scientist Requests Meta Alloys
 slug: freelance_report_canonn_scientist_requests_meta_alloys
 date: '3302-03-02'
 source: GitHub
-entities:
-- D Luffy
+summary: Professor D Luffy at Bond Hub in the Varati system appeals for meta-alloys to reverse the technological plague affecting stations. He acknowledges concerns about harvesting from barnacles but argues the needs of humanity must be balanced against caution.
+player_impact: Pilots delivered meta-alloys to Bond Hub in the Varati system to help reverse station malfunctions.
+persons:
+- Professor D Luffy
 groups:
-- Canonn
+- Canonn Interstellar Research Group
 locations:
 - Bond Hub
-- Bond Hub in the Varati
+- Varati system
 - Obsidian Orbital
-- Varati
 topics:
 - medicine
 - research

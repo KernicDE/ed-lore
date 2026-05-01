@@ -4,12 +4,16 @@ title: Community Goal  Wilkes Orbital in Need
 slug: community_goal_wilkes_orbital_in_need
 date: '3302-03-17'
 source: GitHub
-entities:
+summary: Governor Lawrence of Wilkes Orbital discovers that Professor Ishmael Palin and other rescued individuals from the Blue Hand Gang have been infected with a new strain of Cerberus Plague. An appeal for Ceremonial Heike Tea is launched to cure the infected and stockpile against future outbreaks.
+player_impact: Pilots delivered Ceremonial Heike Tea to Wilkes Orbital to cure those infected with the new Cerberus Plague strain.
+persons:
 - Ishmael Palin
-- Lawrence
+- Governor Lawrence
+groups:
+- Blue Hand Gang
 locations:
-- Blue Hand Gang from the nearby Orulas
-- Orula
+- Wilkes Orbital
+- Orulas system
 topics:
 - construction
 - crime

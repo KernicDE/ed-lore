@@ -4,10 +4,17 @@ title: Freelance Report  Presidential Fleet Upgrade Questioned
 slug: freelance_report_presidential_fleet_upgrade_questioned
 date: '3302-03-01'
 source: GitHub
+summary: Congresswoman Kristine Lasky criticises President Hudson's decision to use two Core Dynamics Farragut-class battle cruisers as presidential transport vessels, calling it a show of force rather than security. She plans to call for a Federal Accountability Office investigation.
+player_impact: None
+persons:
+- Kristine Lasky
+- Commander Driggers
 groups:
 - Core Dynamics
 - Federal Navy
 - Federal Times
+locations:
+- Federation
 topics:
 - investigation
 - ship

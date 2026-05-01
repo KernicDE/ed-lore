@@ -1,9 +1,9 @@
 ---
 id: jak
-name: Jak
+name: JAK
 type: person
-first_seen_date: '3302-03-11'
-last_seen_date: '3302-03-11'
+first_seen_date: '3302-02-15'
+last_seen_date: '3302-02-15'
 mention_count: 1
 related_entities:
 - seneh
@@ -13,17 +13,17 @@ related_entities:
 
 <!-- AUTO-GENERATED -->
 
-# Jak
+# JAK
 
-First mentioned: **3302-03-11**  
-Last mentioned: **3302-03-11**  
+First mentioned: **3302-02-15**  
+Last mentioned: **3302-02-15**  
 Total mentions: **1**
 
 ## Related
 
-- [[Seneh]] (2 co-mentions)
-- [[Buckyball Racing Club]] (2 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
+- [[Seneh]] (1 co-mentions)
+- [[Buckyball Racing Club]] (1 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 

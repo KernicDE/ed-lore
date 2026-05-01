@@ -4,7 +4,7 @@ name: Maia
 type: location
 first_seen_date: '3301-10-13'
 last_seen_date: '3308-09-01'
-mention_count: 70
+mention_count: 67
 related_entities:
 - obsidian-orbital
 - merope
@@ -19,11 +19,11 @@ related_entities:
 
 First mentioned: **3301-10-13**  
 Last mentioned: **3308-09-01**  
-Total mentions: **70**
+Total mentions: **67**
 
 ## Related
 
-- [[Obsidian Orbital]] (27 co-mentions)
+- [[Obsidian Orbital]] (25 co-mentions)
 - [[Merope]] (19 co-mentions)
 - [[Pleiades Resource Enterprise]] (12 co-mentions)
 - [[Aegis]] (11 co-mentions)

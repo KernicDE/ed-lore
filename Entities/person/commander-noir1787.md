@@ -1,0 +1,23 @@
+---
+id: commander-noir1787
+name: Commander NOIR1787
+type: person
+first_seen_date: '3302-03-22'
+last_seen_date: '3302-03-22'
+mention_count: 1
+---
+
+<!-- AUTO-GENERATED -->
+
+# Commander NOIR1787
+
+First mentioned: **3302-03-22**  
+Last mentioned: **3302-03-22**  
+Total mentions: **1**
+
+## Related
+
+
+## Biography
+
+*[To be enriched]*

@@ -4,8 +4,16 @@ title: Galactic News  Jasmina Halsey to be Revived
 slug: galactic_news_jasmina_halsey_to_be_revived
 date: '3302-03-23'
 source: GitHub
-entities:
-- Lucy Ingles
+summary: Medical personnel at Leoniceno Orbital announce they will soon bring former Federal President Jasmina Halsey out of her induced coma. Dr Lucy Ingles, overseeing Halsey's treatment, says the process must be done gradually given her delicate condition.
+player_impact: None
+persons:
+- Jasmina Halsey
+- Dr Lucy Ingles
+groups:
+- Leoniceno Orbital medical staff
+locations:
+- Leoniceno Orbital
+- Azaleach
 topics:
 - construction
 - medicine

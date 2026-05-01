@@ -2,18 +2,18 @@
 id: commander-corrigendum
 name: Commander Corrigendum
 type: person
-first_seen_date: '3302-04-23'
+first_seen_date: '3302-03-15'
 last_seen_date: '3302-11-01'
-mention_count: 6
+mention_count: 9
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Commander Corrigendum
 
-First mentioned: **3302-04-23**  
+First mentioned: **3302-03-15**  
 Last mentioned: **3302-11-01**  
-Total mentions: **6**
+Total mentions: **9**
 
 ## Related
 

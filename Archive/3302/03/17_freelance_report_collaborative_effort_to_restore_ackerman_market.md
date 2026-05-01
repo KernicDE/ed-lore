@@ -4,8 +4,19 @@ title: Freelance Report  Collaborative Effort to Restore Ackerman Market
 slug: freelance_report_collaborative_effort_to_restore_ackerman_market
 date: '3302-03-17'
 source: GitHub
+summary: An Alliance of Commanders including Kermit Laphroaig, ThatDamnRanga, Ollobrains, and Zenith Ddraiglas forms to saturate Ackerman Market in Eravate with meta-alloys, hoping to restore the station to full working order after it was affected by the technological plague.
+player_impact: Pilots delivered meta-alloys to Ackerman Market in Eravate to help restore the station from UA-related malfunctions.
+persons:
+- Commander Kermit Laphroaig
+- Commander ThatDamnRanga
+- Commander Ollobrains
+- Commander Zenith Ddraiglas
+- Commander Lord Zoltan
 groups:
 - Alliance
+locations:
+- Ackerman Market
+- Eravate
 topics:
 - construction
 - medicine

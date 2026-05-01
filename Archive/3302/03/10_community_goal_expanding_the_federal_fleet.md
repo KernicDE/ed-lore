@@ -4,10 +4,17 @@ title: Community Goal  Expanding the Federal Fleet
 slug: community_goal_expanding_the_federal_fleet
 date: '3302-03-10'
 source: GitHub
-entities:
+summary: President Zachary Hudson announces the creation of the People's Navy, a new arm of the Federal Navy supported by local corporations. A new Farragut Battle Cruiser will be added to the 54th fleet, capable of transporting multiple Federal Corvettes.
+player_impact: Pilots delivered essential supplies to Stevenson Base in the Beta Hydri system to support construction of the new Farragut Battle Cruiser.
+persons:
 - Zachary Hudson
+- Captain G.C. Richards
 groups:
 - Federal Navy
+- Beta Hydri Corporation
+locations:
+- Stevenson Base
+- Beta Hydri system
 topics:
 - construction
 - corporate expansion

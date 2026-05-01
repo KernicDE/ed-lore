@@ -1,0 +1,34 @@
+---
+id: algol-system
+name: Algol system
+type: location
+first_seen_date: '3302-03-29'
+last_seen_date: '3302-03-29'
+mention_count: 1
+related_entities:
+- jeffress-treasure-hunt-organisers
+- persephone
+- avalon-system
+- arrhenius-terminal
+- bard
+---
+
+<!-- AUTO-GENERATED -->
+
+# Algol system
+
+First mentioned: **3302-03-29**  
+Last mentioned: **3302-03-29**  
+Total mentions: **1**
+
+## Related
+
+- [[Jeffress treasure hunt organisers]] (1 co-mentions)
+- [[Persephone]] (1 co-mentions)
+- [[Avalon system]] (1 co-mentions)
+- [[Arrhenius Terminal]] (1 co-mentions)
+- [[Bard]] (1 co-mentions)
+
+## Biography
+
+*[To be enriched]*

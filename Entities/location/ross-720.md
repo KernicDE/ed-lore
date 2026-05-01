@@ -2,32 +2,32 @@
 id: ross-720
 name: Ross 720
 type: location
-first_seen_date: '3304-04-07'
+first_seen_date: '3302-03-14'
 last_seen_date: '3304-04-07'
-mention_count: 1
+mention_count: 2
 related_entities:
-- aegis
-- pilots-federation
-- ross-310-natural-services
-- ross-310-cartel
-- eg-union
+- buckyball-racing-club
+- buckey-ring
+- nltt-57216
+- ball-dock
+- cd-37-641
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Ross 720
 
-First mentioned: **3304-04-07**  
+First mentioned: **3302-03-14**  
 Last mentioned: **3304-04-07**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Aegis]] (1 co-mentions)
-- [[Pilots Federation]] (1 co-mentions)
-- [[Ross 310 Natural Services]] (1 co-mentions)
-- [[Ross 310 Cartel]] (1 co-mentions)
-- [[EG Union]] (1 co-mentions)
+- [[Buckyball Racing Club]] (1 co-mentions)
+- [[Buckey Ring]] (1 co-mentions)
+- [[NLTT 57216]] (1 co-mentions)
+- [[Ball Dock]] (1 co-mentions)
+- [[CD-37 641]] (1 co-mentions)
 
 ## Biography
 

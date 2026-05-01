@@ -4,6 +4,20 @@ title: Freelance Report  End of First Season of Galactic Combat Championship
 slug: freelance_report_end_of_first_season_of_galactic_combat_championship
 date: '3302-03-16'
 source: GitHub
+summary: The first season of the Galactic Combat Championship concludes with Adle's Armada winning every match in the five-week tournament. Competitors included Blood Brothers from Alrai, Ronin of Amarak, Triadius, Contrail, and the Balkan Intergalactic Guerrillas.
+player_impact: Pilots competed in the Galactic Combat Championship tournament, with Adle's Armada emerging as undefeated champions.
+persons:
+- Commander S!LK
+groups:
+- Adle's Armada
+- Blood Brothers
+- Ronin of Amarak
+- Triadius
+- Contrail
+- Balkan Intergalactic Guerrillas
+locations:
+- Alrai
+- Amarak
 topics:
 - ship
 - sport

@@ -4,7 +4,7 @@ name: Diso
 type: location
 first_seen_date: '3301-05-08'
 last_seen_date: '3307-01-19'
-mention_count: 19
+mention_count: 18
 related_entities:
 - lave
 - orerve
@@ -19,11 +19,11 @@ related_entities:
 
 First mentioned: **3301-05-08**  
 Last mentioned: **3307-01-19**  
-Total mentions: **19**
+Total mentions: **18**
 
 ## Related
 
-- [[Lave]] (7 co-mentions)
+- [[Lave]] (6 co-mentions)
 - [[Orerve]] (6 co-mentions)
 - [[Interstellar Association for Agriculture]] (5 co-mentions)
 - [[Alliance]] (4 co-mentions)

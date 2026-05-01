@@ -3,8 +3,8 @@ id: hengist-duval
 name: Hengist Duval
 type: person
 first_seen_date: '3301-06-20'
-last_seen_date: '3302-03-15'
-mention_count: 11
+last_seen_date: '3301-09-03'
+mention_count: 10
 related_entities:
 - capitol
 - imperial-palace
@@ -18,8 +18,8 @@ related_entities:
 # Hengist Duval
 
 First mentioned: **3301-06-20**  
-Last mentioned: **3302-03-15**  
-Total mentions: **11**
+Last mentioned: **3301-09-03**  
+Total mentions: **10**
 
 ## Related
 

@@ -4,13 +4,13 @@ name: Canonn
 type: faction
 first_seen_date: '3301-05-04'
 last_seen_date: '3308-11-11'
-mention_count: 29
+mention_count: 22
 related_entities:
-- canonn-interstellar-research-group
 - arcanonn
+- canonn-interstellar-research-group
+- ishmael-palin
 - varati
 - maia
-- ishmael-palin
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-05-04**  
 Last mentioned: **3308-11-11**  
-Total mentions: **29**
+Total mentions: **22**
 
 ## Related
 
-- [[Canonn Interstellar Research Group]] (16 co-mentions)
-- [[Arcanonn]] (11 co-mentions)
-- [[Varati]] (7 co-mentions)
-- [[Maia]] (7 co-mentions)
-- [[Ishmael Palin]] (6 co-mentions)
+- [[Arcanonn]] (10 co-mentions)
+- [[Canonn Interstellar Research Group]] (10 co-mentions)
+- [[Ishmael Palin]] (5 co-mentions)
+- [[Varati]] (4 co-mentions)
+- [[Maia]] (4 co-mentions)
 
 ## Biography
 

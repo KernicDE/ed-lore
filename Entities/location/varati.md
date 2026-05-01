@@ -4,13 +4,13 @@ name: Varati
 type: location
 first_seen_date: '3301-09-27'
 last_seen_date: '3303-05-25'
-mention_count: 16
+mention_count: 13
 related_entities:
 - canonn-interstellar-research-group
-- canonn
-- bond-hub
 - 64-arietis
+- bond-hub
 - warkushanui
+- ishmael-palin
 ---
 
 <!-- AUTO-GENERATED -->
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-09-27**  
 Last mentioned: **3303-05-25**  
-Total mentions: **16**
+Total mentions: **13**
 
 ## Related
 
-- [[Canonn Interstellar Research Group]] (10 co-mentions)
-- [[Canonn]] (7 co-mentions)
-- [[Bond Hub]] (7 co-mentions)
+- [[Canonn Interstellar Research Group]] (8 co-mentions)
 - [[64 Arietis]] (6 co-mentions)
+- [[Bond Hub]] (6 co-mentions)
 - [[Warkushanui]] (6 co-mentions)
+- [[Ishmael Palin]] (5 co-mentions)
 
 ## Biography
 

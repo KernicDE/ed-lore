@@ -9,8 +9,8 @@ key_entities:
 - canonn-interstellar-research-group
 - federation
 - empire
-- canonn
 - alliance
+- canonn
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Articles: **70**
 
 ## Key Figures
 
-- [[Canonn Interstellar Research Group]] (15 mentions)
+- [[Canonn Interstellar Research Group]] (16 mentions)
 - [[Federation]] (11 mentions)
 - [[Empire]] (9 mentions)
-- [[Canonn]] (8 mentions)
 - [[Alliance]] (8 mentions)
+- [[Canonn]] (4 mentions)
 
 ## Description
 

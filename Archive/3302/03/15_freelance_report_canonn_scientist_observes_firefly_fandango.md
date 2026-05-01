@@ -4,12 +4,13 @@ title: Freelance Report  Canonn Scientist Observes Firefly Fandango
 slug: freelance_report_canonn_scientist_observes_firefly_fandango
 date: '3302-03-15'
 source: GitHub
-entities:
-- Arcanonn about
-- Engalo
-- Engalo enough
+summary: "Dr Arcanonn reports a fascinating observation from Commander Engalo: when Unknown Artefacts are placed near barnacle 'flowers', their respective 'firefly' light specks appear to interact and fly around together. The Canonn hopes to study this behaviour at their new research outpost."
+player_impact: None
+persons:
+- Dr Arcanonn
+- Commander Engalo
+- Verity Gavroche
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 topics:
 - construction

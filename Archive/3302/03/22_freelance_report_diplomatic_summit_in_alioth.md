@@ -4,11 +4,17 @@ title: Freelance Report  Diplomatic Summit in Alioth
 slug: freelance_report_diplomatic_summit_in_alioth
 date: '3302-03-22'
 source: GitHub
+summary: A summit for the Alliance of Independent Systems is held at Irkutsk Station in Alioth, attended by ambassadors from eleven fleets. Topics include establishing a quick-response force against Imperial and Federal expansion, factional sovereignty, free trade, and cross-cultural communication.
+player_impact: None
+persons:
+- Commander NOIR1787
 groups:
 - Alliance
 - Interstellar Press
+- Radio Sidewinder
 locations:
 - Alioth
+- Irkutsk Station
 topics:
 - diplomacy
 - trade

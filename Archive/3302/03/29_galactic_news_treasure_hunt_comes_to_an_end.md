@@ -4,6 +4,19 @@ title: Galactic News  Treasure Hunt Comes to an End
 slug: galactic_news_treasure_hunt_comes_to_an_end
 date: '3302-03-29'
 source: GitHub
+summary: Alfred Jeffress's treasure hunt concludes with Commander Oriza claiming victory. Thousands of pilots competed, solving riddles that led through Persephone in the Avalon system, Arrhenius Terminal in Bard, and finally to the Algol system. Jeffress promises another treasure hunt in the future.
+player_impact: Pilots participated in the treasure hunt, solving riddles to find a relic from Earth's past hidden somewhere in space.
+persons:
+- Alfred Jeffress
+- Commander Oriza
+groups:
+- Jeffress treasure hunt organisers
+locations:
+- Persephone
+- Avalon system
+- Arrhenius Terminal
+- Bard
+- Algol system
 topics:
 - sport
 - treasure hunt

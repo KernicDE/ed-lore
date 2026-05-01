@@ -4,8 +4,17 @@ title: Freelance Report  The Only Winners are the Lawyers
 slug: freelance_report_the_only_winners_are_the_lawyers
 date: '3302-03-08'
 source: GitHub
-entities:
-- Janus
+summary: Chef Oliver Gordon is served with a writ by the Pan Galactic Mining Corp demanding he change the name of his restaurant 'PanGalactic'. The case could set a precedent for galaxy-wide intellectual property rights, and legal experts including Professor Janus of the Federal Bar Council are watching closely.
+player_impact: None
+persons:
+- Oliver Gordon
+- Professor Janus
+- Commander Matzov
+groups:
+- Pan Galactic Mining Corp
+- Federal Bar Council
+locations:
+- Zaonce
 topics:
 - corporate expansion
 modern_impact: GalNet community report documenting current events in the galaxy.

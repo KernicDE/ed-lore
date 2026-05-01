@@ -4,6 +4,17 @@ title: Freelance Report  Distant Worlds Expedition Reaches Beagle Point
 slug: freelance_report_distant_worlds_expedition_reaches_beagle_point
 date: '3302-03-29'
 source: GitHub
+summary: The Distant Worlds Expedition announces that some members of the fleet have reached Beagle Point, approximately 65,000 light years from Sol. Commander Salomé was among the first to arrive. Of approximately 1,000 commanders who set out, only an estimated 25% survived the 81,500 light-year journey.
+player_impact: Pilots participated in the Distant Worlds Expedition, reaching Beagle Point after a months-long journey across the galaxy.
+persons:
+- Commander Salomé
+- Commander Corrigendum
+groups:
+- Distant Worlds Expedition
+locations:
+- Beagle Point
+- Ceeckia ZQ-L c24-0
+- Sol
 topics:
 - sport
 modern_impact: Competitive event for the pilot community.

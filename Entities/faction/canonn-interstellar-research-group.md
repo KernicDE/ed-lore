@@ -4,10 +4,10 @@ name: Canonn Interstellar Research Group
 type: faction
 first_seen_date: '3301-09-27'
 last_seen_date: '3307-11-09'
-mention_count: 46
+mention_count: 47
 related_entities:
-- canonn
 - merope
+- canonn
 - varati
 - maia
 - arcanonn
@@ -19,15 +19,15 @@ related_entities:
 
 First mentioned: **3301-09-27**  
 Last mentioned: **3307-11-09**  
-Total mentions: **46**
+Total mentions: **47**
 
 ## Related
 
-- [[Canonn]] (16 co-mentions)
 - [[Merope]] (13 co-mentions)
-- [[Varati]] (10 co-mentions)
-- [[Maia]] (9 co-mentions)
-- [[Arcanonn]] (7 co-mentions)
+- [[Canonn]] (10 co-mentions)
+- [[Varati]] (8 co-mentions)
+- [[Maia]] (7 co-mentions)
+- [[Arcanonn]] (6 co-mentions)
 
 ## Biography
 

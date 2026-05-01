@@ -4,10 +4,14 @@ title: Galactic News  Ishmael Palin Describes Kidnapping
 slug: galactic_news_ishmael_palin_describes_kidnapping
 date: '3302-03-14'
 source: GitHub
-entities:
+summary: "Professor Ishmael Palin describes his traumatic kidnapping experience: black-clad assailants destroyed his escort ships, boarded his vessel, and interrogated him for days about his Unknown Artefact research. He believes his abductors represent forces of control and oppression that have existed for millennia."
+player_impact: None
+persons:
 - Ishmael Palin
-- Palin
-- Palin now having made
+groups:
+- Blue Hand Gang
+locations:
+- Wilkes Orbital
 topics:
 - crime
 - humanitarian

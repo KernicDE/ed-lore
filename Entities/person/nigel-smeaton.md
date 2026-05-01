@@ -3,14 +3,11 @@ id: nigel-smeaton
 name: Nigel Smeaton
 type: person
 first_seen_date: '3301-07-29'
-last_seen_date: '3302-03-15'
-mention_count: 3
+last_seen_date: '3301-08-28'
+mention_count: 2
 related_entities:
 - felicia-winters
 - federal-times
-- hengist-duval
-- core-dynamics
-- emperors-dawn
 ---
 
 <!-- AUTO-GENERATED -->
@@ -18,16 +15,13 @@ related_entities:
 # Nigel Smeaton
 
 First mentioned: **3301-07-29**  
-Last mentioned: **3302-03-15**  
-Total mentions: **3**
+Last mentioned: **3301-08-28**  
+Total mentions: **2**
 
 ## Related
 
 - [[Felicia Winters]] (1 co-mentions)
 - [[Federal Times]] (1 co-mentions)
-- [[Hengist Duval]] (1 co-mentions)
-- [[Core Dynamics]] (1 co-mentions)
-- [[Emperor's Dawn]] (1 co-mentions)
 
 ## Biography
 

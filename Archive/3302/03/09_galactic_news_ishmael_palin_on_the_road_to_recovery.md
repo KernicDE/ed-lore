@@ -4,9 +4,14 @@ title: Galactic News  Ishmael Palin on the Road to Recovery
 slug: galactic_news_ishmael_palin_on_the_road_to_recovery
 date: '3302-03-09'
 source: GitHub
-entities:
+summary: Medical personnel at Wilkes Orbital report that Professor Ishmael Palin is showing remarkable resilience after his rescue from the Blue Hand Gang. He has suffered significant mental and physical trauma but is expected to make a full recovery.
+player_impact: None
+persons:
 - Ishmael Palin
-- Palin's abduction
+groups:
+- Blue Hand Gang
+locations:
+- Wilkes Orbital
 topics:
 - humanitarian
 - medicine

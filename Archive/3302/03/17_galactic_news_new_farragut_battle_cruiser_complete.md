@@ -4,10 +4,18 @@ title: Galactic News  New Farragut Battle Cruiser Complete
 slug: galactic_news_new_farragut_battle_cruiser_complete
 date: '3302-03-17'
 source: GitHub
-entities:
-- Khemsa
+summary: The Beta Hydri Corporation announces the completion of the new Farragut Battle Cruiser for the Federal Navy. Commander Khemsa, who made the largest single contribution, is honoured by President Hudson with the privilege of naming the new ship.
+player_impact: Pilots delivered essential supplies to Stevenson Base in the Beta Hydri system to complete construction of the new Farragut Battle Cruiser.
+persons:
+- Commander Khemsa
+- Captain G.C. Richards
+- President Hudson
 groups:
 - Federal Navy
+- Beta Hydri Corporation
+locations:
+- Stevenson Base
+- Beta Hydri system
 topics:
 - construction
 - corporate expansion

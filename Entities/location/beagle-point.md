@@ -2,9 +2,9 @@
 id: beagle-point
 name: Beagle Point
 type: location
-first_seen_date: '3302-04-08'
+first_seen_date: '3302-03-29'
 last_seen_date: '3312-03-19'
-mention_count: 20
+mention_count: 21
 related_entities:
 - jaques-station
 - gliese-1269
@@ -17,9 +17,9 @@ related_entities:
 
 # Beagle Point
 
-First mentioned: **3302-04-08**  
+First mentioned: **3302-03-29**  
 Last mentioned: **3312-03-19**  
-Total mentions: **20**
+Total mentions: **21**
 
 ## Related
 

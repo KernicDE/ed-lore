@@ -4,10 +4,16 @@ title: Galactic News  Orulas Campaign Reaches an End
 slug: galactic_news_orulas_campaign_reaches_an_end
 date: '3302-03-03'
 source: GitHub
+summary: Rose Trebek of the Joint Security Taskforce announces the successful conclusion of the operation to clean up the Orulas system. Hundreds of combat pilots disrupted the Blue Hand Gang's operations and liberated escape pods, including Professor Ishmael Palin and his research team.
+player_impact: Pilots supported the Joint Security Taskforce in eliminating Blue Hand Gang criminals and liberating escape pods in the Orulas system.
+persons:
+- Rose Trebek
+groups:
+- Joint Security Taskforce
+- Blue Hand Gang
 locations:
-- Asked about the
-- Orula
-- Orulas
+- Orulas system
+- Wilkes Orbital
 topics:
 - crime
 - war

@@ -4,10 +4,17 @@ title: Galactic News  Wilkes Orbital Appeal Comes to an End
 slug: galactic_news_wilkes_orbital_appeal_comes_to_an_end
 date: '3302-03-24'
 source: GitHub
-entities:
-- Lawrence
-- Palin
+summary: Governor Lawrence announces the successful conclusion of the Ceremonial Heike Tea appeal at Wilkes Orbital. The massive influx of tea deliveries will treat those infected with the new Cerberus Plague strain and stockpile against future outbreaks. Drusus Kane suggests the abductors deliberately infected the victims.
+player_impact: Pilots delivered Ceremonial Heike Tea to Wilkes Orbital to treat victims of the new Cerberus Plague strain.
+persons:
+- Governor Lawrence
+- Professor Palin
+- Drusus Kane
+groups:
+- Blue Hand Gang
+- Imperial counter-insurgency unit
 locations:
+- Wilkes Orbital
 - Achenar
 topics:
 - construction

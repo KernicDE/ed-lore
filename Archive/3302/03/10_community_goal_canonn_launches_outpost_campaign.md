@@ -4,15 +4,17 @@ title: Community Goal  Canonn Launches Outpost Campaign
 slug: community_goal_canonn_launches_outpost_campaign
 date: '3302-03-10'
 source: GitHub
-entities:
-- Palin's recent attempt
+summary: The Canonn Interstellar Research Group launches a campaign to construct a state-of-the-art research outpost in the Col 285 Sector IX-T d3-43 system for Unknown Artefact research. They request palladium deliveries to Thompson Dock in the Varati system.
+player_impact: Pilots delivered palladium to Thompson Dock in the Varati system to support construction of the Canonn research outpost.
+persons:
+- Dr Arcanonn
 groups:
-- Canonn
 - Canonn Interstellar Research Group
 locations:
+- Col 285 Sector IX-T d3-43
+- Thompson Dock
+- Varati system
 - Maia
-- Thompson Dock in the Varati
-- Varati
 topics:
 - investigation
 - research

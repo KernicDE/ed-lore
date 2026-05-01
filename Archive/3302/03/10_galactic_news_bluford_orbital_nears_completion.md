@@ -4,8 +4,14 @@ title: Galactic News  Bluford Orbital Nears Completion
 slug: galactic_news_bluford_orbital_nears_completion
 date: '3302-03-10'
 source: GitHub
+summary: LHS 3447 Dynamic and Co announces the successful conclusion of the campaign to construct Bluford Orbital in the LHS 3447 system. All necessary materials have been received and agitators neutralised. The new starport will facilitate travel and trade throughout the system.
+player_impact: Pilots delivered construction materials to the LHS 3447 system and helped neutralise agitators threatening delivery operations.
 groups:
 - Pilots Federation
+- LHS 3447 Dynamic and Co
+locations:
+- LHS 3447 system
+- Bluford Orbital
 topics:
 - construction
 - trade

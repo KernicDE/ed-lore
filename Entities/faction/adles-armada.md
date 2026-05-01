@@ -2,32 +2,32 @@
 id: adles-armada
 name: Adle's Armada
 type: faction
-first_seen_date: '3303-06-30'
+first_seen_date: '3302-03-16'
 last_seen_date: '3303-06-30'
-mention_count: 1
+mention_count: 2
 related_entities:
-- pilots-federation
-- lhs-3447-dynamic-and-co
-- asellus-primus-gold-legal-ind
-- lhs-3447
-- eravate
+- blood-brothers
+- ronin-of-amarak
+- triadius
+- contrail
+- balkan-intergalactic-guerrillas
 ---
 
 <!-- AUTO-GENERATED -->
 
 # Adle's Armada
 
-First mentioned: **3303-06-30**  
+First mentioned: **3302-03-16**  
 Last mentioned: **3303-06-30**  
-Total mentions: **1**
+Total mentions: **2**
 
 ## Related
 
-- [[Pilots Federation]] (1 co-mentions)
-- [[LHS 3447 Dynamic and Co]] (1 co-mentions)
-- [[Asellus Primus Gold Legal Ind.]] (1 co-mentions)
-- [[LHS 3447]] (1 co-mentions)
-- [[Eravate]] (1 co-mentions)
+- [[Blood Brothers]] (1 co-mentions)
+- [[Ronin of Amarak]] (1 co-mentions)
+- [[Triadius]] (1 co-mentions)
+- [[Contrail]] (1 co-mentions)
+- [[Balkan Intergalactic Guerrillas]] (1 co-mentions)
 
 ## Biography
 

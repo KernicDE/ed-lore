@@ -10,7 +10,7 @@ related_entities:
 - 64-arietis
 - warkushanui
 - weyn-dock
-- 49-arietis
+- canonn-interstellar-research-group
 ---
 
 <!-- AUTO-GENERATED -->
@@ -23,11 +23,11 @@ Total mentions: **8**
 
 ## Related
 
-- [[Varati]] (7 co-mentions)
+- [[Varati]] (6 co-mentions)
 - [[64 Arietis]] (4 co-mentions)
 - [[Warkushanui]] (4 co-mentions)
 - [[Weyn Dock]] (4 co-mentions)
-- [[49 Arietis]] (3 co-mentions)
+- [[Canonn Interstellar Research Group]] (3 co-mentions)
 
 ## Biography
 

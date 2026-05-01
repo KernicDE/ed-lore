@@ -4,14 +4,19 @@ title: Community Goal  Lave Radio Appeals for Blood Crystals
 slug: community_goal_lave_radio_appeals_for_blood_crystals
 date: '3302-03-03'
 source: GitHub
-entities:
-- Jarvis
+summary: The Lave Radio Network launches a campaign to construct a new interstellar transmitter relay in the Diso system after discovering their existing transmitter was broken and scavenged. They need rare blood crystals from the Cherbones system for the new equipment.
+player_impact: Pilots delivered blood crystals to Lave Station in the Lave system to construct a new interstellar transmitter.
+persons:
+- John Stabler
+- Commander Jarvis
+groups:
+- Lave Radio Network
+- Cherbones Mining Authority
 locations:
-- Cherbones
-- Diso
-- It's wonderful that the Lave
-- Lave
-- The Lave Radio interstellar transmitter
+- Lave Station
+- Lave system
+- Diso system
+- Cherbones system
 topics:
 - ship
 modern_impact: Ship review and release information for the pilot community.

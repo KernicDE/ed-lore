@@ -4,9 +4,14 @@ title: Galactic News  Canonn Campaign Comes to an End
 slug: galactic_news_canonn_campaign_comes_to_an_end
 date: '3302-03-17'
 source: GitHub
+summary: The Canonn Interstellar Research Group announces the successful conclusion of its campaign to establish a research outpost in the Col 285 Sector IX-T d3-43 system. Hundreds of pilots delivered palladium to Thompson Dock, enabling the construction of a dedicated UA research facility.
+player_impact: Pilots delivered palladium to Thompson Dock in the Varati system to establish the Canonn's new research outpost.
 groups:
-- Canonn
 - Canonn Interstellar Research Group
+locations:
+- Col 285 Sector IX-T d3-43
+- Thompson Dock
+- Varati system
 topics:
 - research
 arc_id: unknown-artefacts

@@ -4,9 +4,16 @@ title: Freelance Report  Cerberus Plague Past and Present
 slug: freelance_report_cerberus_plague_past_and_present
 date: '3302-03-23'
 source: GitHub
+summary: Chief medical officer Carl Simmons at Newton Dock in the BD-02 4304 system warns that the new Cerberus Plague strain could be catastrophic if Ceremonial Heike tea proves insufficient or ineffective. He urges the medical community to take the outbreak seriously.
+player_impact: None
+persons:
+- Carl Simmons
+- Commander Corrigendum
+groups:
+- Newton Dock medical staff
 locations:
-- BD-02 4304
-- Newton Dock in the BD-02 4304
+- Newton Dock
+- BD-02 4304 system
 topics:
 - diplomacy
 - medicine

@@ -10,7 +10,7 @@ related_entities:
 - george-lucas-station
 - leesti
 - sol
-- jak
+- grant-academics
 ---
 
 <!-- AUTO-GENERATED -->
@@ -27,7 +27,7 @@ Total mentions: **17**
 - [[George Lucas station]] (2 co-mentions)
 - [[Leesti]] (2 co-mentions)
 - [[Sol]] (2 co-mentions)
-- [[Jak]] (2 co-mentions)
+- [[Grant Academics]] (2 co-mentions)
 
 ## Biography
 

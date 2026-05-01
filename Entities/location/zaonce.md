@@ -4,7 +4,7 @@ name: Zaonce
 type: location
 first_seen_date: '3301-05-01'
 last_seen_date: '3308-11-15'
-mention_count: 18
+mention_count: 19
 related_entities:
 - alliance
 - alliance-assembly
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-05-01**  
 Last mentioned: **3308-11-15**  
-Total mentions: **18**
+Total mentions: **19**
 
 ## Related
 

@@ -4,6 +4,14 @@ title: Galactic News  Terraforming Campaign Extended
 slug: galactic_news_terraforming_campaign_extended
 date: '3302-03-24'
 source: GitHub
+summary: The Revolutionary Party of Vennik extends its terraforming campaign for Vennik 1 by one week due to insufficient supplies of land-enrichment systems in nearby systems. The organisation commits considerable expense to keep the contract open.
+player_impact: Pilots continued delivering terrain-enrichment systems to Nixon Enterprise in the Vennik system after the campaign was extended.
+groups:
+- Revolutionary Party of Vennik
+locations:
+- Vennik system
+- Vennik 1
+- Nixon Enterprise
 topics:
 - independence
 modern_impact: Independence movement challenging established political authority.

@@ -2,18 +2,18 @@
 id: president-hudson
 name: President Hudson
 type: person
-first_seen_date: '3308-10-06'
+first_seen_date: '3302-03-17'
 last_seen_date: '3308-11-30'
-mention_count: 5
+mention_count: 6
 ---
 
 <!-- AUTO-GENERATED -->
 
 # President Hudson
 
-First mentioned: **3308-10-06**  
+First mentioned: **3302-03-17**  
 Last mentioned: **3308-11-30**  
-Total mentions: **5**
+Total mentions: **6**
 
 ## Related
 

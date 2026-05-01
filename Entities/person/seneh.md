@@ -3,8 +3,8 @@ id: seneh
 name: Seneh
 type: person
 first_seen_date: '3302-02-15'
-last_seen_date: '3302-03-11'
-mention_count: 2
+last_seen_date: '3302-02-15'
+mention_count: 1
 related_entities:
 - jak
 - buckyball-racing-club
@@ -16,14 +16,14 @@ related_entities:
 # Seneh
 
 First mentioned: **3302-02-15**  
-Last mentioned: **3302-03-11**  
-Total mentions: **2**
+Last mentioned: **3302-02-15**  
+Total mentions: **1**
 
 ## Related
 
-- [[Jak]] (2 co-mentions)
-- [[Buckyball Racing Club]] (2 co-mentions)
-- [[Pilots Federation]] (2 co-mentions)
+- [[JAK]] (1 co-mentions)
+- [[Buckyball Racing Club]] (1 co-mentions)
+- [[Pilots Federation]] (1 co-mentions)
 
 ## Biography
 

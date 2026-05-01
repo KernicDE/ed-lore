@@ -4,6 +4,14 @@ title: Galactic News  Terraforming Campaign Comes to an End
 slug: galactic_news_terraforming_campaign_comes_to_an_end
 date: '3302-03-31'
 source: GitHub
+summary: The Revolutionary Party of Vennik announces the successful conclusion of its terraforming campaign for Vennik 1. Hundreds of pilots delivered terrain-enrichment systems to Nixon Enterprise, enabling the final phase of transforming the arid planet into a fertile, life-sustaining world.
+player_impact: Pilots delivered terrain-enrichment systems to Nixon Enterprise in the Vennik system, completing the decades-long terraforming project.
+groups:
+- Revolutionary Party of Vennik
+locations:
+- Vennik system
+- Vennik 1
+- Nixon Enterprise
 topics:
 - independence
 - trade

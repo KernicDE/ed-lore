@@ -4,12 +4,18 @@ title: Freelance Report  Buckyball Spring Break Controversy
 slug: freelance_report_buckyball_spring_break_controversy
 date: '3302-03-11'
 source: GitHub
-entities:
-- Jak
-- Seneh
+summary: The Buckyball Racing Club faces accusations of reckless endangerment over its upcoming Spring Break event, in which provisional pilots will escort students from Grant Academics to tourism hotspots. Event organiser Commander Seneh defends it as community outreach with safety as the priority.
+player_impact: Pilots Federation members participated in the Spring Break chauffeur event, escorting students safely to tourism destinations.
+persons:
+- Commander Seneh
+- Commander Jak
 groups:
 - Buckyball Racing Club
 - Pilots Federation
+- Grant Academics
+locations:
+- Exigus campus
+- Grant Academics
 topics:
 - safety
 - scandal

@@ -8,9 +8,9 @@ mention_count: 28
 related_entities:
 - capitol
 - achenar
-- iiss
 - denton-patreus
 - imperial-internal-security-service
+- imperial-herald
 ---
 
 <!-- AUTO-GENERATED -->
@@ -25,9 +25,9 @@ Total mentions: **28**
 
 - [[Capitol]] (7 co-mentions)
 - [[Achenar]] (6 co-mentions)
-- [[IISS]] (5 co-mentions)
 - [[Denton Patreus]] (5 co-mentions)
 - [[Imperial Internal Security Service]] (5 co-mentions)
+- [[Imperial Herald]] (4 co-mentions)
 
 ## Biography
 

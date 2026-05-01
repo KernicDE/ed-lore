@@ -4,15 +4,18 @@ title: Freelance Report  Dr Arcanonn Supporting Meta Alloy Drive
 slug: freelance_report_dr_arcanonn_supporting_meta_alloy_drive
 date: '3302-03-29'
 source: GitHub
-entities:
-- Arcanonn about
+summary: Dr Arcanonn supports the Pioneer's Cooperative meta-alloy drive to produce UA-resistant ship modules. The Canonn Interstellar Research Group encourages pilots to deliver meta-alloys to Obsidian Orbital in the Maia system, noting that safe UA transport will be crucial for future scientific research.
+player_impact: Pilots delivered meta-alloys to Obsidian Orbital in the Maia system to support production of UA-resistant ship modules.
+persons:
+- Dr Arcanonn
+- Verity Gavroche
+- Commander Lord Zoltan
 groups:
-- Canonn
 - Canonn Interstellar Research Group
+- Pioneer's Cooperative
 locations:
-- Maia
 - Obsidian Orbital
-- Obsidian Orbital in the Maia
+- Maia system
 topics:
 - research
 - ship

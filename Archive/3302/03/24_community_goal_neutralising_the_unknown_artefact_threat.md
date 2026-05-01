@@ -4,12 +4,16 @@ title: Community Goal  Neutralising the Unknown Artefact Threat
 slug: community_goal_neutralising_the_unknown_artefact_threat
 date: '3302-03-24'
 source: GitHub
-entities:
+summary: Professor Ishmael Palin returns to work immediately after receiving the Cerberus Plague antidote and collaborates with Lea Tantaga on her breakthrough UA-resistant material. The Pioneer's Cooperative places an open order for meta-alloys to mass-produce ship modules that can safely transport Unknown Artefacts.
+player_impact: Pilots delivered meta-alloys to support production of UA-resistant ship modules that can safely transport Unknown Artefacts.
+persons:
 - Ishmael Palin
-- Tantaga's breakthrough
+- Lea Tantaga
+groups:
+- Pioneer's Cooperative
 locations:
-- A conglomerate based in the Maia
-- Maia
+- Maia system
+- Obsidian Orbital
 topics:
 - medicine
 - research

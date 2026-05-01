@@ -4,10 +4,14 @@ title: Freelance Report  Eating Your Words
 slug: freelance_report_eating_your_words
 date: '3302-03-14'
 source: GitHub
-entities:
-- Gan
-- Matzov
+summary: Chef Oliver Gordon loses his battle over the 'PanGalactic' trademark and is forced to close his restaurant due to spiralling legal costs. The Pan Galactic Mining Corp had demanded he change the name and pay damages for intellectual property infringement.
+player_impact: None
+persons:
+- Oliver Gordon
+- Commander Matzov
+- Commander Gan
 groups:
+- Pan Galactic Mining Corp
 - Interstellar Press
 locations:
 - Zaonce

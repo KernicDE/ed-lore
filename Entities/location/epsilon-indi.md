@@ -4,7 +4,7 @@ name: Epsilon Indi
 type: location
 first_seen_date: '3301-11-05'
 last_seen_date: '3302-06-17'
-mention_count: 4
+mention_count: 3
 related_entities:
 - revolution-incorporated
 - london-relay
@@ -19,7 +19,7 @@ related_entities:
 
 First mentioned: **3301-11-05**  
 Last mentioned: **3302-06-17**  
-Total mentions: **4**
+Total mentions: **3**
 
 ## Related
 

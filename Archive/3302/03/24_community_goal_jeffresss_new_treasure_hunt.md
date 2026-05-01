@@ -4,6 +4,10 @@ title: Community Goal  Jeffress's New Treasure Hunt
 slug: community_goal_jeffresss_new_treasure_hunt
 date: '3302-03-24'
 source: GitHub
+summary: Reclusive philanthropist Alfred Jeffress announces a new treasure hunt with a share of his vast fortune as the prize. A mystery object has been hidden somewhere in space, and a riddle is provided to set participants on the path to finding it.
+player_impact: Pilots participated in Alfred Jeffress's treasure hunt, solving riddles to find a hidden mystery object in space.
+persons:
+- Alfred Jeffress
 topics:
 - sport
 - treasure hunt

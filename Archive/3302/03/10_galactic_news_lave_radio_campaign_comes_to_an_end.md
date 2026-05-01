@@ -4,8 +4,13 @@ title: Galactic News  Lave Radio Campaign Comes to an End
 slug: galactic_news_lave_radio_campaign_comes_to_an_end
 date: '3302-03-10'
 source: GitHub
+summary: The Lave Radio Network announces the successful conclusion of its campaign to create a new interstellar transmitter. Large quantities of Cherbones Blood Crystals were delivered to Lave Station, and the new transmitter will be operational within hours.
+player_impact: Pilots delivered Cherbones Blood Crystals to Lave Station to construct a new interstellar transmitter for the Lave Radio Network.
+groups:
+- Lave Radio Network
 locations:
-- Lave
+- Lave Station
+- Lave system
 modern_impact: GalNet community report documenting current events in the galaxy.
 legacy_weight: 2
 significance: low

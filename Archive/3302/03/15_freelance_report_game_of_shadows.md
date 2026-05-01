@@ -4,12 +4,24 @@ title: Freelance Report  Game of Shadows
 slug: freelance_report_game_of_shadows
 date: '3302-03-15'
 source: GitHub
-entities:
-- Hengist Duval
+summary: An anonymous communiqué claims connections between Core Dynamics, the destruction of the Antares and Starship One, Emperor's Dawn, and setbacks in Unknown Artefact research. It alleges the deaths of Nigel Smeaton, Sean Richards, Arnold Lowe, Susan Monroe, Elaine Boyd, Emperor Hengist Duval, and the disappearances of Jasmina Halsey and Ishmael Palin are all connected.
+player_impact: None
+persons:
 - Nigel Smeaton
+- Emperor Hengist Duval
+- Jasmina Halsey
+- Ishmael Palin
+- Sean Richards
+- Arnold Lowe
+- Susan Monroe
+- Elaine Boyd
+- Commander Corrigendum
 groups:
 - Core Dynamics
 - Emperor's Dawn
+locations:
+- Federation
+- Empire
 topics:
 - research
 - ship

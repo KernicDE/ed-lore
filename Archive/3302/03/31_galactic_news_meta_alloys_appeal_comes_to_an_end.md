@@ -4,8 +4,15 @@ title: Galactic News  Meta Alloys Appeal Comes to an End
 slug: galactic_news_meta_alloys_appeal_comes_to_an_end
 date: '3302-03-31'
 source: GitHub
-entities:
-- Tantaga
+summary: The Pioneer's Cooperative announces the successful conclusion of its meta-alloy appeal, having received thousands of tonnes of the material. Production of UA-resistant ship modules will begin immediately. Professor Tantaga suggests affected starports should be given the formula directly rather than launching another campaign.
+player_impact: Pilots delivered thousands of tonnes of meta-alloys to support production of UA-resistant ship modules.
+persons:
+- Lea Tantaga
+groups:
+- Pioneer's Cooperative
+locations:
+- Obsidian Orbital
+- Maia system
 topics:
 - construction
 - ship

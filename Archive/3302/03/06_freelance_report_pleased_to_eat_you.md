@@ -4,6 +4,11 @@ title: Freelance Report  Pleased To Eat You
 slug: freelance_report_pleased_to_eat_you
 date: '3302-03-06'
 source: GitHub
+summary: Controversial chef Oliver Gordon announces plans to create a dish using space barnacles, intending to serve 'space barnacle broth with Deuringas truffle oil foam and Ochoeng chilli reduction' at his restaurant PanGalactic. He dismisses ethical concerns about eating potentially sentient beings.
+player_impact: None
+persons:
+- Oliver Gordon
+- Commander Gan
 topics:
 - genetic experiments
 - succession
